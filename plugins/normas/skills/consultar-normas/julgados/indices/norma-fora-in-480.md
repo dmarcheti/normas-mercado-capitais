@@ -37,8 +37,8 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | RJ2011/5211 | 2018-09-20 | parcial | crsfn-14362 | fichas/crsfn/2018-06.md |
-| acordao-crsfn | RJ2014/5099 | 2018-08-21 | parcial | crsfn-14487 | fichas/crsfn/2018-05.md |
+| acordao-crsfn | RJ2011/5211 | 2018-09-20 | parcial | crsfn-14362 | fichas/crsfn/2018-07.md |
+| acordao-crsfn | RJ2014/5099 | 2018-08-21 | parcial | crsfn-14487 | fichas/crsfn/2018-07.md |
 | decisao-colegiado | RJ2013/2393 | 2013-03-19 | nao-provido | cvm-col-20130319-d08 | fichas/colegiado/2013-06.md |
 | decisao-colegiado | RJ2012/11664 | 2012-10-30 | nao-provido | cvm-col-20121030-d02-r2 | fichas/colegiado/2012-20.md |
 | decisao-colegiado | RJ2012/11663 | 2012-10-30 | nao-provido | cvm-col-20121030-d01-r2 | fichas/colegiado/2012-20.md |

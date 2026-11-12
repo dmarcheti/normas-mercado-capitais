@@ -11,11 +11,11 @@ Norma: [cvm/pareceres-orientacao/0037.md](../../normas/cvm/pareceres-orientacao/
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.021470/2024-11 | 2025-12-16 | absolvicao | cvm-pas-19957-021470-2024-11 | fichas/pas/2025-05.md |
-| pas | 19957.015125/2022-87 | 2024-12-10 | parcial | cvm-pas-19957-015125-2022-87 | fichas/pas/2024-11.md |
-| pas | 19957.011109/2019-10 | 2024-06-04 | condenacao | cvm-pas-19957-011109-2019-10 | fichas/pas/2024-03.md |
-| acordao-crsfn | RJ2016/8251 | 2020-06-16 | parcial | crsfn-10372-100018-2019-54 | fichas/crsfn/2020-03.md |
-| pas | RJ2015/13127 | 2019-08-20 | condenacao | cvm-pas-rj2015-13127 | fichas/pas/2019-08.md |
+| pas | 19957.021470/2024-11 | 2025-12-16 | absolvicao | cvm-pas-19957-021470-2024-11 | fichas/pas/2025-11.md |
+| pas | 19957.015125/2022-87 | 2024-12-10 | parcial | cvm-pas-19957-015125-2022-87 | fichas/pas/2024-21.md |
+| pas | 19957.011109/2019-10 | 2024-06-04 | condenacao | cvm-pas-19957-011109-2019-10 | fichas/pas/2024-06.md |
+| acordao-crsfn | RJ2016/8251 | 2020-06-16 | parcial | crsfn-10372-100018-2019-54 | fichas/crsfn/2020-04.md |
+| pas | RJ2015/13127 | 2019-08-20 | condenacao | cvm-pas-rj2015-13127 | fichas/pas/2019-15.md |
 | decisao-colegiado | RJ2013/7943 | 2014-12-02 | parcial | cvm-col-20141202-d21 | fichas/colegiado/2014-24.md |
 | decisao-colegiado | RJ2011/11770 | 2012-02-16 | nao-provido | cvm-col-20120216-d02 | fichas/colegiado/2012-03.md |
 | decisao-colegiado | RJ2011/3316 | 2012-01-24 | nao-provido | cvm-col-20120124-d04 | fichas/colegiado/2012-02.md |

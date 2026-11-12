@@ -127,7 +127,7 @@ Este subíndice tem 272 linhas e uma leitura única é cortada em silêncio pert
 | art. 2º, § 1º | decisao-colegiado | RJ2006/3994 | 2006-06-13 | parcial | cvm-col-20060613-d01 | fichas/colegiado/2006-09.md |
 | art. 2º, § 1º | decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
 | art. 2º, § 1º | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
-| art. 2º, § 1º | pas | RJ2005/7507 | 2006-11-08 | parcial | cvm-pas-rj2005-7507 | fichas/pas/2006-12.md |
+| art. 2º, § 1º | pas | RJ2005/7507 | 2006-11-08 | parcial | cvm-pas-rj2005-7507 | fichas/pas/2006-25.md |
 | art. 2º, § 2º | decisao-colegiado | RJ2003/12477 | 2004-03-09 | outro | cvm-col-20040309-d06 | fichas/colegiado/2004-03.md |
 | art. 2º, § 2º | decisao-colegiado | — | 2004-07-13 | outro | cvm-col-20040713-d05 | fichas/colegiado/2004-08.md |
 | art. 2º, § 2º | decisao-colegiado | RJ2007/14130 | 2012-07-24 | nao-provido | cvm-col-20120724-d08 | fichas/colegiado/2012-13.md |
@@ -192,10 +192,10 @@ Este subíndice tem 272 linhas e uma leitura única é cortada em silêncio pert
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.007043/2017-00 | 2017-08-29 | nao-provido | cvm-col-20170829-d0780 | fichas/colegiado/2017-15.md |
-| acordao-crsfn | RJ-2007-9559 | 2010-10-27 | condenacao | crsfn-11955 | fichas/crsfn/2010-08.md |
+| acordao-crsfn | RJ-2007-9559 | 2010-10-27 | condenacao | crsfn-11955 | fichas/crsfn/2010-10.md |
 | decisao-colegiado | RJ2010/10775 | 2010-08-10 | provido | cvm-col-20100810-d03 | fichas/colegiado/2010-17.md |
-| acordao-crsfn | SP-2004-185 | 2010-06-22 | condenacao | crsfn-11328 | fichas/crsfn/2010-05.md |
-| pas | RJ2008/12216 | 2010-04-13 | condenacao | cvm-pas-rj2008-12216 | fichas/pas/2010-01.md |
+| acordao-crsfn | SP-2004-185 | 2010-06-22 | condenacao | crsfn-11328 | fichas/crsfn/2010-06.md |
+| pas | RJ2008/12216 | 2010-04-13 | condenacao | cvm-pas-rj2008-12216 | fichas/pas/2010-02.md |
 | termo-compromisso | RJ2007/5035 | 2008-03-25 | aceito | cvm-col-20080325-d03 | fichas/tc/2008-02.md |
 | decisao-colegiado | RJ2008/1922 | 2008-03-11 | nao-provido | cvm-col-20080311-d10 | fichas/colegiado/2008-06.md |
 | pas | RJ2007/9559 | 2008-01-16 | condenacao | cvm-pas-rj2007-9559 | fichas/pas/2008-01.md |
@@ -209,7 +209,7 @@ Este subíndice tem 272 linhas e uma leitura única é cortada em silêncio pert
 | decisao-colegiado | RJ2007/1033 | 2007-02-26 | provido | cvm-col-20070226-d07 | fichas/colegiado/2007-03.md |
 | decisao-colegiado | RJ2006/9159 | 2007-01-09 | nao-provido | cvm-col-20070109-d09 | fichas/colegiado/2007-01.md |
 | decisao-colegiado | RJ2006/8891 | 2007-01-09 | nao-provido | cvm-col-20070109-d08 | fichas/colegiado/2007-01.md |
-| pas | SP2004/0185 | 2006-11-08 | condenacao | cvm-pas-sp2004-0185 | fichas/pas/2006-13.md |
+| pas | SP2004/0185 | 2006-11-08 | condenacao | cvm-pas-sp2004-0185 | fichas/pas/2006-25.md |
 | decisao-colegiado | RJ2006/7471 | 2006-10-24 | nao-provido | cvm-col-20061024-d08 | fichas/colegiado/2006-16.md |
 | decisao-colegiado | RJ2006/6806 | 2006-10-17 | nao-provido | cvm-col-20061017-d07 | fichas/colegiado/2006-15.md |
 | decisao-colegiado | RJ2006/3626 | 2006-10-03 | nao-provido | cvm-col-20061003-d13 | fichas/colegiado/2006-15.md |
@@ -253,7 +253,7 @@ Este subíndice tem 272 linhas e uma leitura única é cortada em silêncio pert
 | decisao-colegiado | RJ2004/6242 | 2004-11-23 | nao-provido | cvm-col-20041123-d04 | fichas/colegiado/2004-14.md |
 | decisao-colegiado | RJ2004/6245 | 2004-11-23 | nao-provido | cvm-col-20041123-d03 | fichas/colegiado/2004-14.md |
 | decisao-colegiado | RJ2004/6178 | 2004-11-23 | nao-provido | cvm-col-20041123-d02 | fichas/colegiado/2004-14.md |
-| pas | 27/2000 | 2004-06-21 | condenacao | cvm-pas-27-2000 | fichas/pas/2004-02.md |
+| pas | 27/2000 | 2004-06-21 | condenacao | cvm-pas-27-2000 | fichas/pas/2004-04.md |
 | decisao-colegiado | RJ2004/2474 | 2004-06-15 | nao-provido | cvm-col-20040615-d06 | fichas/colegiado/2004-07.md |
 | decisao-colegiado | RJ2004/2438 | 2004-06-15 | nao-provido | cvm-col-20040615-d05 | fichas/colegiado/2004-07.md |
 | decisao-colegiado | RJ2004/2533 | 2004-06-15 | nao-provido | cvm-col-20040615-d04 | fichas/colegiado/2004-07.md |

@@ -22,7 +22,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 3º | pas | RJ2015/13127 | 2019-08-20 | condenacao | cvm-pas-rj2015-13127 | fichas/pas/2019-08.md |
+| art. 3º | pas | RJ2015/13127 | 2019-08-20 | condenacao | cvm-pas-rj2015-13127 | fichas/pas/2019-15.md |
 
 ## in-rfb-971
 
@@ -54,7 +54,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2015/13127 | 2019-08-20 | condenacao | cvm-pas-rj2015-13127 | fichas/pas/2019-08.md |
+| pas | RJ2015/13127 | 2019-08-20 | condenacao | cvm-pas-rj2015-13127 | fichas/pas/2019-15.md |
 
 ## in-rfb-1585
 
@@ -78,7 +78,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.009206/2018-61 | 2023-04-11 | parcial | cvm-pas-19957-009206-2018-61 | fichas/pas/2023-02.md |
+| pas | 19957.009206/2018-61 | 2023-04-11 | parcial | cvm-pas-19957-009206-2018-61 | fichas/pas/2023-03.md |
 
 ## in-rfb-1888
 
@@ -110,6 +110,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 49 | pas | 19957.002595/2017-13 | 2024-12-10 | parcial | cvm-pas-19957-002595-2017-13 | fichas/pas/2024-11.md |
+| art. 49 | pas | 19957.002595/2017-13 | 2024-12-10 | parcial | cvm-pas-19957-002595-2017-13 | fichas/pas/2024-21.md |
 
 Fim do subíndice.

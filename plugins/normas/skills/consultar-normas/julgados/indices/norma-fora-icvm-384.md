@@ -43,14 +43,14 @@ Norma: fora do acervo.
 | decisao-colegiado | 09/2019; 19957.002618/2016-17 | 2022-05-25 | outro | cvm-col-20220525-d2676-r2 | fichas/colegiado/2022-09.md |
 | termo-compromisso | 19957.009486/2017-27 | 2021-01-12 | aceito | cvm-col-20210112-d1014 | fichas/tc/2021-01.md |
 | decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
-| pas | 19957.007809/2018-29; RJ2018/5150 | 2020-06-02 | condenacao | cvm-pas-19957-007809-2018-29 | fichas/pas/2020-02.md |
-| pas | 19957.007543/2019-03; RJ2019/5673 | 2020-06-02 | condenacao | cvm-pas-19957-007543-2019-03 | fichas/pas/2020-02.md |
-| pas | 19957.005452/2016-82; IA2016/5452 | 2020-06-02 | condenacao | cvm-pas-19957-005452-2016-82 | fichas/pas/2020-02.md |
-| pas | 19957.000592/2019-15; RJ2019/958 | 2020-06-02 | condenacao | cvm-pas-19957-000592-2019-15 | fichas/pas/2020-02.md |
-| pas | RJ2016/5348 | 2018-04-17 | condenacao | cvm-pas-rj2016-5348 | fichas/pas/2018-03.md |
+| pas | 19957.007809/2018-29; RJ2018/5150 | 2020-06-02 | condenacao | cvm-pas-19957-007809-2018-29 | fichas/pas/2020-03.md |
+| pas | 19957.007543/2019-03; RJ2019/5673 | 2020-06-02 | condenacao | cvm-pas-19957-007543-2019-03 | fichas/pas/2020-03.md |
+| pas | 19957.005452/2016-82; IA2016/5452 | 2020-06-02 | condenacao | cvm-pas-19957-005452-2016-82 | fichas/pas/2020-03.md |
+| pas | 19957.000592/2019-15; RJ2019/958 | 2020-06-02 | condenacao | cvm-pas-19957-000592-2019-15 | fichas/pas/2020-03.md |
+| pas | RJ2016/5348 | 2018-04-17 | condenacao | cvm-pas-rj2016-5348 | fichas/pas/2018-05.md |
 | termo-compromisso | RJ2008/5880 | 2009-01-06 | aceito | cvm-col-20090106-d02 | fichas/tc/2009-01.md |
 | termo-compromisso | RJ2008/5880 | 2008-09-30 | outro | cvm-col-20080930-d06 | fichas/tc/2008-06.md |
-| pas | SP2003/0445 | 2005-03-21 | parcial | cvm-pas-sp2003-0445 | fichas/pas/2005-02.md |
+| pas | SP2003/0445 | 2005-03-21 | parcial | cvm-pas-sp2003-0445 | fichas/pas/2005-04.md |
 | decisao-colegiado | RJ2003/12498 | 2003-11-21 | outro | cvm-col-20031121-d01 | fichas/colegiado/2003-13.md |
 | decisao-colegiado | RJ2003/12498 | 2003-11-11 | — | cvm-col-20031111-d08 | fichas/colegiado/2003-13.md |
 | decisao-colegiado | — | 2003-03-17 | outro | cvm-col-20030317-d02 | fichas/colegiado/2003-03.md |

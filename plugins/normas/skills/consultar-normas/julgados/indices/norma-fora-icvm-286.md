@@ -48,10 +48,10 @@ Norma: fora do acervo.
 | termo-compromisso | SP2006/0168 | 2007-12-04 | rejeitado | cvm-col-20071204-d02 | fichas/tc/2007-06.md |
 | decisao-colegiado | RJ2006/8566 | 2007-02-26 | parcial | cvm-col-20070226-d01 | fichas/colegiado/2007-03.md |
 | decisao-colegiado | RJ2006/1408 | 2006-04-04 | deferido | cvm-col-20060404-d11 | fichas/colegiado/2006-06.md |
-| pas | 25/2000 | 2004-06-24 | parcial | cvm-pas-25-2000 | fichas/pas/2004-02.md |
+| pas | 25/2000 | 2004-06-24 | parcial | cvm-pas-25-2000 | fichas/pas/2004-04.md |
 | decisao-colegiado | RJ2003/13326 | 2004-01-27 | deferido | cvm-col-20040127-d08 | fichas/colegiado/2004-02.md |
 | decisao-colegiado | RJ2001/12035 | 2002-01-15 | deferido | cvm-col-20020115-d01 | fichas/colegiado/2002-01.md |
-| pas | 02/1999 | 2001-09-06 | parcial | cvm-pas-02-1999 | fichas/pas/2001-03.md |
+| pas | 02/1999 | 2001-09-06 | parcial | cvm-pas-02-1999 | fichas/pas/2001-06.md |
 | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
 | decisao-antiga | — | 1998-01-09 | — | cvm-dec-1998-0001 | fichas/decisoes-antigas/1998-15.md |
 

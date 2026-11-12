@@ -11,8 +11,8 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 1º | pas | 19957.006688/2016-36 | 2022-03-15 | condenacao | cvm-pas-19957-006688-2016-36 | fichas/pas/2022-01.md |
-| art. 1º, § 1º | pas | 19957.006688/2016-36 | 2022-03-15 | condenacao | cvm-pas-19957-006688-2016-36 | fichas/pas/2022-01.md |
+| art. 1º | pas | 19957.006688/2016-36 | 2022-03-15 | condenacao | cvm-pas-19957-006688-2016-36 | fichas/pas/2022-02.md |
+| art. 1º, § 1º | pas | 19957.006688/2016-36 | 2022-03-15 | condenacao | cvm-pas-19957-006688-2016-36 | fichas/pas/2022-02.md |
 
 ## art. 2º
 
@@ -31,7 +31,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 28 | pas | 19957.007822/2020-01 | 2024-07-04 | condenacao | cvm-pas-19957-007822-2020-01 | fichas/pas/2024-05.md |
+| art. 28 | pas | 19957.007822/2020-01 | 2024-07-04 | condenacao | cvm-pas-19957-007822-2020-01 | fichas/pas/2024-09.md |
 
 ## art. 133
 
@@ -49,7 +49,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 142, inciso IV | pas | RJ2005/7244 | 2006-05-03 | parcial | cvm-pas-rj2005-7244 | fichas/pas/2006-04.md |
+| art. 142, inciso IV | pas | RJ2005/7244 | 2006-05-03 | parcial | cvm-pas-rj2005-7244 | fichas/pas/2006-07.md |
 
 ## art. 153
 
@@ -81,12 +81,12 @@ Norma: fora do acervo.
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.014289/2022-97 | 2024-04-16 | — | cvm-col-20240416-d3015 | fichas/colegiado/2024-04.md |
-| pas | 01/2011 | 2018-02-27 | parcial | cvm-pas-01-2011 | fichas/pas/2018-02.md |
-| pas | SP2012/228 | 2016-10-25 | parcial | cvm-pas-sp2012-0228 | fichas/pas/2016-06.md |
-| pas | RJ2014/2797 | 2016-09-27 | condenacao | cvm-pas-rj2014-2797 | fichas/pas/2016-04.md |
-| pas | RJ2012/15235 | 2016-03-22 | condenacao | cvm-pas-rj2012-15235 | fichas/pas/2016-01.md |
-| pas | RJ2011/5211 | 2015-07-01 | condenacao | cvm-pas-rj2011-5211 | fichas/pas/2015-03.md |
-| pas | SP2002/0493 | 2005-09-21 | parcial | cvm-pas-sp2002-0493 | fichas/pas/2005-06.md |
-| pas | 14/2000 | 2004-12-17 | parcial | cvm-pas-14-2000 | fichas/pas/2004-08.md |
+| pas | 01/2011 | 2018-02-27 | parcial | cvm-pas-01-2011 | fichas/pas/2018-03.md |
+| pas | SP2012/228 | 2016-10-25 | parcial | cvm-pas-sp2012-0228 | fichas/pas/2016-11.md |
+| pas | RJ2014/2797 | 2016-09-27 | condenacao | cvm-pas-rj2014-2797 | fichas/pas/2016-08.md |
+| pas | RJ2012/15235 | 2016-03-22 | condenacao | cvm-pas-rj2012-15235 | fichas/pas/2016-02.md |
+| pas | RJ2011/5211 | 2015-07-01 | condenacao | cvm-pas-rj2011-5211 | fichas/pas/2015-07.md |
+| pas | SP2002/0493 | 2005-09-21 | parcial | cvm-pas-sp2002-0493 | fichas/pas/2005-12.md |
+| pas | 14/2000 | 2004-12-17 | parcial | cvm-pas-14-2000 | fichas/pas/2004-16.md |
 
 Fim do subíndice.

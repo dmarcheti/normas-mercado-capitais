@@ -11,7 +11,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 11 | pas | 17/2002 | 2005-10-25 | parcial | cvm-pas-17-2002 | fichas/pas/2005-07.md |
+| art. 11 | pas | 17/2002 | 2005-10-25 | parcial | cvm-pas-17-2002 | fichas/pas/2005-14.md |
 
 ## Citada sem dispositivo identificado
 

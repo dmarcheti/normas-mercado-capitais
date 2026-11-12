@@ -11,7 +11,7 @@ Norma: [cvm/resolucoes/0049.md](../../normas/cvm/resolucoes/0049.md) (texto vige
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.005627/2021-19 | 2024-12-17 | condenacao | cvm-pas-19957-005627-2021-19 | fichas/pas/2024-11.md |
+| pas | 19957.005627/2021-19 | 2024-12-17 | condenacao | cvm-pas-19957-005627-2021-19 | fichas/pas/2024-22.md |
 | decisao-colegiado | 19957.006121/2021-27 | 2021-08-11 | outro | cvm-col-20210811-d2277 | fichas/colegiado/2021-13.md |
 | decisao-colegiado | RJ2004/6511 | 2005-03-08 | nao-provido | cvm-col-20050308-d02 | fichas/colegiado/2005-04.md |
 

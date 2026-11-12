@@ -28,16 +28,16 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | SP2012/218 | 2020-10-20 | parcial | crsfn-14241 | fichas/crsfn/2020-06.md |
-| acordao-crsfn | 08/2012 | 2020-09-15 | parcial | crsfn-10372-000204-2016-41 | fichas/crsfn/2020-04.md |
-| acordao-crsfn | 04/2013 | 2020-08-18 | condenacao | crsfn-10372-000470-2016-74 | fichas/crsfn/2020-04.md |
-| acordao-crsfn | IA-2011-2 | 2020-08-18 | condenacao | crsfn-10372-000380-2016-83 | fichas/crsfn/2020-04.md |
+| acordao-crsfn | SP2012/218 | 2020-10-20 | parcial | crsfn-14241 | fichas/crsfn/2020-08.md |
+| acordao-crsfn | 08/2012 | 2020-09-15 | parcial | crsfn-10372-000204-2016-41 | fichas/crsfn/2020-06.md |
+| acordao-crsfn | 04/2013 | 2020-08-18 | condenacao | crsfn-10372-000470-2016-74 | fichas/crsfn/2020-05.md |
+| acordao-crsfn | IA-2011-2 | 2020-08-18 | condenacao | crsfn-10372-000380-2016-83 | fichas/crsfn/2020-05.md |
 | decisao-colegiado | RJ2009/11922 | 2010-04-13 | — | cvm-col-20100413-d06 | fichas/colegiado/2010-11.md |
 | decisao-colegiado | RJ2009/12985 | 2009-12-22 | deferido | cvm-col-20091222-d33 | fichas/colegiado/2009-25.md |
 | decisao-colegiado | RJ2007/12218 | 2008-01-08 | deferido | cvm-col-20080108-d09 | fichas/colegiado/2008-01.md |
 | decisao-colegiado | RJ2007/10988 | 2007-10-02 | deferido | cvm-col-20071002-d09 | fichas/colegiado/2007-18.md |
-| pas | 09/1997 | 2006-12-13 | parcial | cvm-pas-09-1997 | fichas/pas/2006-14.md |
-| pas | 34/2000 | 2004-09-16 | parcial | cvm-pas-34-2000 | fichas/pas/2004-06.md |
+| pas | 09/1997 | 2006-12-13 | parcial | cvm-pas-09-1997 | fichas/pas/2006-27.md |
+| pas | 34/2000 | 2004-09-16 | parcial | cvm-pas-34-2000 | fichas/pas/2004-11.md |
 | decisao-colegiado | RJ2004/1949 | 2004-06-01 | provido | cvm-col-20040601-d01 | fichas/colegiado/2004-06.md |
 | decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
 

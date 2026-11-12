@@ -7,84 +7,84 @@ Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho rel
 
 Número normalizado: NUP `99999-999999-AAAA-DD`; processo antigo `rj2015-13791` (sigla em minúsculas, ano, número com 4 dígitos); numeração curta dos PAS `NN-AAAA`. Procure pelo número normalizado ou pela forma do julgado. Dois julgados do mesmo processo (um PAS e o termo de compromisso ou o acórdão do CRSFN dele) aparecem com o mesmo número.
 
-| Processo (normalizado) | Forma no julgado | Tipo | Data | Id | Ficha |
-|---|---|---|---|---|---|
-| 02-2000 | 02/2000 | pas | 2001-06-07 | cvm-pas-02-2000 | fichas/pas/2001-01.md |
-| 02-2000 | 02/2000 | acordao-crsfn | 2002-06-27 | crsfn-3853 | fichas/crsfn/2002-02.md |
-| 02-2000 | 02/2000 | acordao-crsfn | 2003-01-29 | crsfn-3878 | fichas/crsfn/2003-01.md |
-| 03-2000 | 03/2000 | pas | 2001-06-07 | cvm-pas-03-2000 | fichas/pas/2001-01.md |
-| 03-2000 | 03/00 | acordao-crsfn | 2003-09-24 | crsfn-3877 | fichas/crsfn/2003-02.md |
-| 04-2000 | 04/2000 | pas | 2005-02-17 | cvm-pas-04-2000 | fichas/pas/2005-01.md |
-| 04-2000 | 04/2000 | acordao-crsfn | 2015-07-28 | crsfn-7703 | fichas/crsfn/2015-04.md |
-| 05-2000 | 05/00 | termo-compromisso | 2004-08-05 | cvm-col-20040805-d02 | fichas/tc/2004-01.md |
-| 05-2000 | 05/2000 | pas | 2004-11-11 | cvm-pas-05-2000 | fichas/pas/2004-07.md |
-| 05-2000 | 05/00 | acordao-crsfn | 2009-02-16 | crsfn-7526 | fichas/crsfn/2009-01.md |
-| 06-2000 | 06/2000 | pas | 2002-08-22 | cvm-pas-06-2000 | fichas/pas/2002-02.md |
-| 06-2000 | 06/00 | acordao-crsfn | 2003-12-10 | crsfn-4319 | fichas/crsfn/2003-03.md |
-| 07-2000 | 07/2000 | pas | 2001-12-12 | cvm-pas-07-2000 | fichas/pas/2001-04.md |
-| 07-2000 | 07/2000 | acordao-crsfn | 2002-08-01 | crsfn-4081 | fichas/crsfn/2002-02.md |
-| 08-2000 | 08/2000 | pas | 2002-04-04 | cvm-pas-08-2000 | fichas/pas/2002-01.md |
-| 08-2000 | 08/00 | acordao-crsfn | 2005-02-23 | crsfn-4217 | fichas/crsfn/2005-01.md |
-| 09-2000 | 09/2000 | termo-compromisso | 2003-12-16 | cvm-col-20031216-d08 | fichas/tc/2003.md |
-| 09-2000 | 09/2000 | pas | 2004-04-15 | cvm-pas-09-2000 | fichas/pas/2004-01.md |
-| 09-2000 | 09/2000 | acordao-crsfn | 2005-08-23 | crsfn-5859 | fichas/crsfn/2005-02.md |
-| 10-2000 | 10/2000 | pas | 2004-07-08 | cvm-pas-10-2000 | fichas/pas/2004-03.md |
-| 10-2000 | 10/00 | acordao-crsfn | 2008-11-19 | crsfn-7462 | fichas/crsfn/2008-05.md |
-| 12-2000 | 12/2000 | pas | 2002-01-10 | cvm-pas-12-2000 | fichas/pas/2002-01.md |
-| 12-2000 | 12/00 | acordao-crsfn | 2002-12-11 | crsfn-4122 | fichas/crsfn/2002-03.md |
-| 13-2000 | 13/2000 | pas | 2002-04-17 | cvm-pas-13-2000 | fichas/pas/2002-02.md |
-| 13-2000 | 13/00 | acordao-crsfn | 2004-12-14 | crsfn-4195 | fichas/crsfn/2004-03.md |
-| 14-2000 | 14/2000 | pas | 2004-12-17 | cvm-pas-14-2000 | fichas/pas/2004-08.md |
-| 14-2000 | 14/00 | acordao-crsfn | 2008-01-29 | crsfn-7359 | fichas/crsfn/2008-01.md |
-| 16-2000 | 16/2000 | pas | 2002-12-05 | cvm-pas-16-2000 | fichas/pas/2002-03.md |
-| 16-2000 | 16/00 | acordao-crsfn | 2004-08-18 | crsfn-4594 | fichas/crsfn/2004-02.md |
-| 17-2000 | 17/2000 | pas | 2004-04-15 | cvm-pas-17-2000 | fichas/pas/2004-01.md |
-| 19-2000 | 19/00 | termo-compromisso | 2005-09-05 | cvm-col-20050905-d01 | fichas/tc/2005-02.md |
-| 20-2000 | 20/2000 | pas | 2001-06-27 | cvm-pas-20-2000 | fichas/pas/2001-02.md |
-| 21-2000 | 21/2000 | pas | 2004-07-01 | cvm-pas-21-2000 | fichas/pas/2004-03.md |
-| 22-2000 | 22/2000 | pas | 2001-12-12 | cvm-pas-22-2000 | fichas/pas/2001-04.md |
-| 22-2000 | 22/00 | acordao-crsfn | 2002-12-11 | crsfn-4077 | fichas/crsfn/2002-03.md |
-| 23-2000 | 23/2000 | pas | 2010-05-25 | cvm-pas-23-2000 | fichas/pas/2010-02.md |
-| 24-2000 | 24/00 | termo-compromisso | 2004-09-28 | cvm-col-20040928-d01 | fichas/tc/2004-02.md |
-| 24-2000 | 24/2000 | pas | 2005-08-18 | cvm-pas-24-2000 | fichas/pas/2005-05.md |
-| 24-2000 | 24/00 | acordao-crsfn | 2010-01-26 | crsfn-9634 | fichas/crsfn/2010-02.md |
-| 25-2000 | 25/2000 | pas | 2004-06-24 | cvm-pas-25-2000 | fichas/pas/2004-02.md |
-| 26-2000 | 26/2000 | pas | 2002-12-12 | cvm-pas-26-2000 | fichas/pas/2002-04.md |
-| 26-2000 | 26/00 | acordao-crsfn | 2004-06-28 | crsfn-4730 | fichas/crsfn/2004-02.md |
-| 27-2000 | 27/2000 | pas | 2004-06-21 | cvm-pas-27-2000 | fichas/pas/2004-02.md |
-| 28-2000 | 28/2000 | pas | 2002-11-14 | cvm-pas-28-2000 | fichas/pas/2002-03.md |
-| 28-2000 | 28/00 | acordao-crsfn | 2005-11-09 | crsfn-4788 | fichas/crsfn/2005-02.md |
-| 29-2000 | 29/2000 | pas | 2013-12-17 | cvm-pas-29-2000 | fichas/pas/2013-07.md |
-| 29-2000 | 29/2000 | acordao-crsfn | 2016-09-27 | crsfn-14056 | fichas/crsfn/2016-04.md |
-| 30-2000 | 30/2000 | termo-compromisso | 2006-08-22 | cvm-col-20060822-d03 | fichas/tc/2006-04.md |
-| 30-2000 | 30/2000 | pas | 2006-10-17 | cvm-pas-30-2000 | fichas/pas/2006-10.md |
-| 30-2000 | 30/00 | acordao-crsfn | 2012-01-10 | crsfn-11634 | fichas/crsfn/2012-01.md |
-| 31-2000 | 31/2000 | pas | 2003-07-10 | cvm-pas-31-2000 | fichas/pas/2003-02.md |
-| 31-2000 | 31/00 | acordao-crsfn | 2004-12-14 | crsfn-5415 | fichas/crsfn/2004-04.md |
-| 32-2000 | 32/2000 | pas | 2001-10-10 | cvm-pas-32-2000 | fichas/pas/2001-03.md |
-| 33-2000 | 33/2000 | pas | 2002-12-20 | cvm-pas-33-2000 | fichas/pas/2002-04.md |
-| 33-2000 | 33/00 | acordao-crsfn | 2006-03-06 | crsfn-4780 | fichas/crsfn/2006-01.md |
-| 34-2000 | 34/2000 | pas | 2004-09-16 | cvm-pas-34-2000 | fichas/pas/2004-06.md |
-| 34-2000 | 34/00 | acordao-crsfn | 2008-10-28 | crsfn-7362 | fichas/crsfn/2008-05.md |
-| 35-2000 | 35/00 | termo-compromisso | 2004-08-24 | cvm-col-20040824-d01 | fichas/tc/2004-01.md |
-| 35-2000 | 35/2000 | pas | 2005-04-12 | cvm-pas-35-2000 | fichas/pas/2005-03.md |
-| 37-2000 | 37/00 | termo-compromisso | 2004-11-03 | cvm-col-20041103-d06 | fichas/tc/2004-02.md |
-| 37-2000 | 37/2000 | pas | 2004-12-09 | cvm-pas-37-2000 | fichas/pas/2004-08.md |
-| 37-2000 | 37/00 | acordao-crsfn | 2008-08-15 | crsfn-7530 | fichas/crsfn/2008-04.md |
-| 38-2000 | 38/2000 | pas | 2003-04-02 | cvm-pas-38-2000 | fichas/pas/2003-01.md |
-| 38-2000 | 38/00 | acordao-crsfn | 2006-08-18 | crsfn-5278 | fichas/crsfn/2006-01.md |
-| 39-2000 | 39/2000 | pas | 2005-01-19 | cvm-pas-39-2000 | fichas/pas/2005-01.md |
-| 39-2000 | 39/00 | acordao-crsfn | 2012-11-26 | crsfn-8541 | fichas/crsfn/2012-04.md |
-| 39-2000 | 39/00 | acordao-crsfn | 2012-12-18 | crsfn-11958 | fichas/crsfn/2012-05.md |
-| ia2000-0017 | IA2000-17 | acordao-crsfn | 2008-03-26 | crsfn-6310 | fichas/crsfn/2008-01.md |
-| ia2000-0025 | IA-2000/25 | acordao-crsfn | 2005-02-23 | crsfn-5957 | fichas/crsfn/2005-01.md |
-| rj2000-3739 | RJ2000/3739 | acordao-crsfn | 2002-08-28 | crsfn-3921 | fichas/crsfn/2002-02.md |
-| rj2000-4546 | RJ2000/4546 | pas | 2002-03-12 | cvm-pas-rj2000-4546 | fichas/pas/2002-01.md |
-| rj2000-4550 | RJ2000/4550 | acordao-crsfn | 2003-01-29 | crsfn-3710 | fichas/crsfn/2003-01.md |
-| rj2000-5907 | RJ2000/5907 | pas | 2001-05-24 | cvm-pas-rj2000-5907 | fichas/pas/2001-01.md |
-| rj2000-6479 | RJ2000/6479 | pas | 2003-06-05 | cvm-pas-rj2000-6479 | fichas/pas/2003-02.md |
-| rj2000-6479 | RJ00/6479 | acordao-crsfn | 2005-08-23 | crsfn-5123 | fichas/crsfn/2005-02.md |
-| rj2000-6498 | RJ2000/6498 | pas | 2002-04-17 | cvm-pas-rj2000-6498 | fichas/pas/2002-02.md |
-| rj2000-6498 | RJ2000/6498 | acordao-crsfn | 2003-12-10 | crsfn-4266 | fichas/crsfn/2003-03.md |
+| Processo (normalizado) | Forma no julgado | Tipo | Data | Ementa | Id | Ficha |
+|---|---|---|---|---|---|---|
+| 02-2000 | 02/2000 | pas | 2001-06-07 | [pessoa física], RENDA DTVM LTDA., INDUSVAL S/A TVM E OUTROS Realização de negócios em bolsa de valores sem observância dos parâmetros… | cvm-pas-02-2000 | fichas/pas/2001-02.md |
+| 02-2000 | 02/2000 | acordao-crsfn | 2002-06-27 | RECURSOS VOLUNTÁRIOS - Mercado de valores mobiliários – Falta de atualização do registro de companhia aberta e de envio de informações… | crsfn-3853 | fichas/crsfn/2002-02.md |
+| 02-2000 | 02/2000 | acordao-crsfn | 2003-01-29 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO ─ Mercado de valores mobiliários ─ Prática não eqüitativa ─ Falta de informações referentes às… | crsfn-3878 | fichas/crsfn/2003-01.md |
+| 03-2000 | 03/2000 | pas | 2001-06-07 | AGENDA CCVM LTDA.,[pessoa física] E OUTROS Inadequação dos controles de preenchimento e execução de ordens de operação por sociedade… | cvm-pas-03-2000 | fichas/pas/2001-03.md |
+| 03-2000 | 03/00 | acordao-crsfn | 2003-09-24 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários - Inadequados controles de preenchimento e execução de ordens de operação… | crsfn-3877 | fichas/crsfn/2003-02.md |
+| 04-2000 | 04/2000 | pas | 2005-02-17 | RMC SOCIEDADE CORRETORA E OUTROS S/A Realização de práticas não eqüitativas em operações realizadas no mercado de valores mobiliários, na… | cvm-pas-04-2000 | fichas/pas/2005-02.md |
+| 04-2000 | 04/2000 | acordao-crsfn | 2015-07-28 | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Realização de práticas não equitativas - Realização de operações… | crsfn-7703 | fichas/crsfn/2015-04.md |
+| 05-2000 | 05/00 | termo-compromisso | 2004-08-05 | O Colegiado não acolheu as propostas de termo de compromisso apresentadas por todos os indiciados no PAS CVM 05/00, com base no voto do… | cvm-col-20040805-d02 | fichas/tc/2004-01.md |
+| 05-2000 | 05/2000 | pas | 2004-11-11 | Trevisan Auditores Independentes e outros. Violação do preceituado nos artigos 177 e 183 da Lei nº 6.404/76 e nas Instruções CVM nºs 247/96… | cvm-pas-05-2000 | fichas/pas/2004-14.md |
+| 05-2000 | 05/00 | acordao-crsfn | 2009-02-16 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários – Auditoria independente – Divergências verificadas em demonstrações… | crsfn-7526 | fichas/crsfn/2009-01.md |
+| 06-2000 | 06/2000 | pas | 2002-08-22 | SOMATEC E OUTRO I - Desenvolvimento da atividade de auditoria independente em desacordo com as normas profissionais emanadas do Conselho… | cvm-pas-06-2000 | fichas/pas/2002-05.md |
+| 06-2000 | 06/00 | acordao-crsfn | 2003-12-10 | RECURSOS VOLUNTÁRIOS - Mercado de valores mobiliários - Auditoria independente - Desenvolvimento de atividades de auditoria em desacordo… | crsfn-4319 | fichas/crsfn/2003-04.md |
+| 07-2000 | 07/2000 | pas | 2001-12-12 | PAES DE MENEZES AUDITORES INDEPENDENTES S/A E OUTRO Realização de auditoria independente em desacordo com os padrões, normas e… | cvm-pas-07-2000 | fichas/pas/2001-08.md |
+| 07-2000 | 07/2000 | acordao-crsfn | 2002-08-01 | RECURSOS VOLUNTÁRIOS - Mercado de valores mobiliários – Auditoria independente – Elaboração de laudos sem os requisitos exigidos pelas… | crsfn-4081 | fichas/crsfn/2002-03.md |
+| 08-2000 | 08/2000 | pas | 2002-04-04 | AUDITORIA CONTÁBIL DE EMPRESAS E OUTRO Auditoria inepta de demonstrações financeiras de companhias incentivadas. Infração Grave… | cvm-pas-08-2000 | fichas/pas/2002-02.md |
+| 08-2000 | 08/00 | acordao-crsfn | 2005-02-23 | RECURSOS VOLUNTÁRIOS – Mercado de valores mobiliários - Falhas em auditoria de demonstrações financeiras de companhias incentivadas… | crsfn-4217 | fichas/crsfn/2005-01.md |
+| 09-2000 | 09/2000 | termo-compromisso | 2003-12-16 | O Colegiado acompanhou o voto do relator e indeferiu proposta de termo de compromisso das firmas Loudon Blomquist Auditores Independentes e… | cvm-col-20031216-d08 | fichas/tc/2003.md |
+| 09-2000 | 09/2000 | pas | 2004-04-15 | SISTEMA AUDITORES INDEPENDENTES SC E OUTROS Auditoria inepta - Infração aos artigos 24 e 25 da Instrução CVM nº 216/94. | cvm-pas-09-2000 | fichas/pas/2004-01.md |
+| 09-2000 | 09/2000 | acordao-crsfn | 2005-08-23 | RECURSOS VOLUNTÁRIOS - Mercado de valores mobiliários – Auditoria independente – Falta de planejamento dos trabalhos conforme as Normas… | crsfn-5859 | fichas/crsfn/2005-02.md |
+| 10-2000 | 10/2000 | pas | 2004-07-08 | Infração ao parágrafo 1º do art. 226 da Lei nº 6.404/76. Multa. Infração ao parágrafo único do art. 116 e à alínea “f” do art. 117, ambos… | cvm-pas-10-2000 | fichas/pas/2004-06.md |
+| 10-2000 | 10/00 | acordao-crsfn | 2008-11-19 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Falhas na negociação de transferência de marca e na incorporação de… | crsfn-7462 | fichas/crsfn/2008-07.md |
+| 12-2000 | 12/2000 | pas | 2002-01-10 | GUILHERME FONTES FILMES LTDA. E OUTROS I. Omissão na prestação de informações periódicas e apresentação de informações incorretas em… | cvm-pas-12-2000 | fichas/pas/2002-01.md |
+| 12-2000 | 12/00 | acordao-crsfn | 2002-12-11 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários – Captação de recursos com base na Lei 8.685/93 (Lei do audiovisual)… | crsfn-4122 | fichas/crsfn/2002-04.md |
+| 13-2000 | 13/2000 | pas | 2002-04-17 | BRACO S/A E OUTROS (AMBEV/BRAHMA) Insider Trading - Inexistência de indícios que permitam a procedência da acusação. Absolvição. | cvm-pas-13-2000 | fichas/pas/2002-03.md |
+| 13-2000 | 13/00 | acordao-crsfn | 2004-12-14 | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Uso de informação privilegiada ainda não divulgada no mercado (insider trading)… | crsfn-4195 | fichas/crsfn/2004-05.md |
+| 14-2000 | 14/2000 | pas | 2004-12-17 | Daniel Bernasayag Birmann e outros. Criação de condições artificiais de demanda, oferta e preço em negócios realizados em bolsas de… | cvm-pas-14-2000 | fichas/pas/2004-16.md |
+| 14-2000 | 14/00 | acordao-crsfn | 2008-01-29 | RECURSOS VOLUNTÁRIO E DE OFÍCIO – Mercado de valores mobiliários – Criação de condições artificiais de demanda, oferta e preço em negócios… | crsfn-7359 | fichas/crsfn/2008-01.md |
+| 16-2000 | 16/2000 | pas | 2002-12-05 | [pessoa física] E OUTROS (WHITE MARTINS) Oscilação Atípica - Fato Relevante. - Artigos 1° da Instrução CVM n° 31/84, e 157, parágrafo 4°… | cvm-pas-16-2000 | fichas/pas/2002-07.md |
+| 16-2000 | 16/00 | acordao-crsfn | 2004-08-18 | RECURSO DE OFÍCIO - Mercado de valores mobiliários - Negociação de ações de companhia - Oscilação de ações em período antecedente à… | crsfn-4594 | fichas/crsfn/2004-03.md |
+| 17-2000 | 17/2000 | pas | 2004-04-15 | Operação entre partes relacionadas - art. 245 da Lei nº 6.404/76 - conceito - Deliberação CVM nº 26/86 - não ocorrência da violação do… | cvm-pas-17-2000 | fichas/pas/2004-01.md |
+| 19-2000 | 19/00 | termo-compromisso | 2005-09-05 | Em pedido de reconsideração de decisão que considerou descumprido o Termo de Compromisso de 04.07.02, o Colegiado concedeu prazo de 30 dias… | cvm-col-20050905-d01 | fichas/tc/2005-02.md |
+| 20-2000 | 20/2000 | pas | 2001-06-27 | [pessoa física] E OUTROS (VEPLAN S/A) Responsabilidade de administrador pela não manutenção do registro de companhia aberta atualizado e… | cvm-pas-20-2000 | fichas/pas/2001-03.md |
+| 21-2000 | 21/2000 | pas | 2004-07-01 | Áurea DTVM e outros. Exercício irregular da atividade de administração de carteira de valores mobiliários. Infração ao art. 23 da Lei nº… | cvm-pas-21-2000 | fichas/pas/2004-05.md |
+| 22-2000 | 22/2000 | pas | 2001-12-12 | BRASIL S/A Falsificação de ofício da CVM aprovando alterações do regulamento de fundo de investimento. Não caracterização do dever de… | cvm-pas-22-2000 | fichas/pas/2001-08.md |
+| 22-2000 | 22/00 | acordao-crsfn | 2002-12-11 | RECURSO VOLUNTÁRIO - Mercado de valores mobiliários – Fundo de Investimento – Homologação de regulamento – Falsificação de cartas com… | crsfn-4077 | fichas/crsfn/2002-04.md |
+| 23-2000 | 23/2000 | pas | 2010-05-25 | CERES/AVIAN Suposta realização sistemática, pelas Fundações CERES, FCOPEL e FUNDIÁGUA, de operações“estruturadas” na BVRJ, que consistiam… | cvm-pas-23-2000 | fichas/pas/2010-03.md |
+| 24-2000 | 24/00 | termo-compromisso | 2004-09-28 | O Colegiado negou a celebração de termo de compromisso proposto pela Quality Corretora de Mercadorias Ltda. e outros indiciados no PAS CVM… | cvm-col-20040928-d01 | fichas/tc/2004-02.md |
+| 24-2000 | 24/2000 | pas | 2005-08-18 | QUALITY CORRETORA DE MERCADORIAS LTDA. E OUTROS Infração ao preceituado no inciso II, alínea c, e vedada pelo inciso I, ambos da Instrução… | cvm-pas-24-2000 | fichas/pas/2005-10.md |
+| 24-2000 | 24/00 | acordao-crsfn | 2010-01-26 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários - Criação de condições artificiais de oferta e demanda - Realização de… | crsfn-9634 | fichas/crsfn/2010-02.md |
+| 25-2000 | 25/2000 | pas | 2004-06-24 | Não caracterização da acusação de infração aos incisos I e II do artigo 1º da Instrução CVM nº 220/94. Absolvição. Não caracterização da… | cvm-pas-25-2000 | fichas/pas/2004-04.md |
+| 26-2000 | 26/2000 | pas | 2002-12-12 | FUNDAÇÃO DE SEGURIDADE SOCIAL DOS SISTEMAS EMBRAPA E EMBRATER) Criação de condições artificiais de demanda e manipulação de preços… | cvm-pas-26-2000 | fichas/pas/2002-07.md |
+| 26-2000 | 26/00 | acordao-crsfn | 2004-06-28 | RECURSOS VOLUNTÁRIOS - Mercado de valores mobiliários - Ocorrência de criação artificial de demanda - Manipulação de preço - Negociação de… | crsfn-4730 | fichas/crsfn/2004-02.md |
+| 27-2000 | 27/2000 | pas | 2004-06-21 | CÂMRA COMERCIAL INDUSTRIAL E ADMINISTRATIVA DE SÃO PAULO LTDA. Intermediação de ações por empresa e pessoas não integrantes do sistema de… | cvm-pas-27-2000 | fichas/pas/2004-04.md |
+| 28-2000 | 28/2000 | pas | 2002-11-14 | Infração ao art. 16 da Instrução CVM nº 202/93; e ao artigo 133, ao parágrafo 1º do art. 163, ao parágrafo 3º do art. 162, ao parágrafo 2º… | cvm-pas-28-2000 | fichas/pas/2002-06.md |
+| 28-2000 | 28/00 | acordao-crsfn | 2005-11-09 | RECURSOS VOLUNTÁRIOS – Mercado de valores mobiliários – Falta de instalação do conselho fiscal e de estipulação da remuneração dos… | crsfn-4788 | fichas/crsfn/2005-02.md |
+| 29-2000 | 29/2000 | pas | 2013-12-17 | BRASMOTOR. Não divulgação de fato relevante – utilização de informações privilegiadas e práticas não equitativas. Prescrição da ação… | cvm-pas-29-2000 | fichas/pas/2013-14.md |
+| 29-2000 | 29/2000 | acordao-crsfn | 2016-09-27 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários - Prática não equitativa - Negociação de ações em posse de informação… | crsfn-14056 | fichas/crsfn/2016-08.md |
+| 30-2000 | 30/2000 | termo-compromisso | 2006-08-22 | O Colegiado indeferiu as propostas de termo de compromisso dos acusados no PAS 30/2000 (Agenda, Égide, Senior e seus diretores), sobre… | cvm-col-20060822-d03 | fichas/tc/2006-04.md |
+| 30-2000 | 30/2000 | pas | 2006-10-17 | Aquisição no mercado de balcão não organizado, sistemática e habitualmente, de ações admitidas à negociação em bolsa de valores, em… | cvm-pas-30-2000 | fichas/pas/2006-21.md |
+| 30-2000 | 30/00 | acordao-crsfn | 2012-01-10 | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Aquisição, no mercado de balcão não organizado, de forma… | crsfn-11634 | fichas/crsfn/2012-01.md |
+| 31-2000 | 31/2000 | pas | 2003-07-10 | Não configuradas as acusações de abuso de poder e de inexistência de condições equitativas para o acionista controlador e para todos os… | cvm-pas-31-2000 | fichas/pas/2003-04.md |
+| 31-2000 | 31/00 | acordao-crsfn | 2004-12-14 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários – Realização de operações com empresas ligadas em detrimento da sociedade… | crsfn-5415 | fichas/crsfn/2004-05.md |
+| 32-2000 | 32/2000 | pas | 2001-10-10 | [pessoa física], KPMG AUDITORES INDEPENDENTES E OUTRO I.- Empresa de auditoria e seus responsáveis técnicos. O fato de qualquer sócio ou… | cvm-pas-32-2000 | fichas/pas/2001-06.md |
+| 33-2000 | 33/2000 | pas | 2002-12-20 | [pessoa física] E OUTROS (ELEVADORES ATLAS S/A) Infração ao disposto no § 1º do art. 2º, c/c o art. 4º, PU, e ao art. 10, todos da… | cvm-pas-33-2000 | fichas/pas/2002-08.md |
+| 33-2000 | 33/00 | acordao-crsfn | 2006-03-06 | RECURSOS VOLUNTÁRIOS – Mercado de valores mobiliários – Negociação de ações em bolsa de valores – Uso de informação relevante ainda não… | crsfn-4780 | fichas/crsfn/2006-01.md |
+| 34-2000 | 34/2000 | pas | 2004-09-16 | Infração aos artigos 5º, §3º, da Instrução CVM nº 215/94 e art. 64 da Instrução CVM nº 215/94. Não configuração de infração aos arts. 2º e… | cvm-pas-34-2000 | fichas/pas/2004-11.md |
+| 34-2000 | 34/00 | acordao-crsfn | 2008-10-28 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Realização de operações em prejuízo de cotistas de fundo de investimento… | crsfn-7362 | fichas/crsfn/2008-06.md |
+| 35-2000 | 35/00 | termo-compromisso | 2004-08-24 | O Colegiado, acompanhando o voto do relator, não aceitou celebrar termo de compromisso com os indiciados no PAS CVM 35/00 (Companhia… | cvm-col-20040824-d01 | fichas/tc/2004-01.md |
+| 35-2000 | 35/2000 | pas | 2005-04-12 | Manipulação de preço e uso de práticas não eqüitativas em operações realizadas no mercado de valores mobiliários com ações da Companhia… | cvm-pas-35-2000 | fichas/pas/2005-06.md |
+| 37-2000 | 37/00 | termo-compromisso | 2004-11-03 | O Colegiado negou a proposta de termo de compromisso apresentada pela BM&F e por um proponente pessoa física no PAS CVM 37/00. Acompanhou o… | cvm-col-20041103-d06 | fichas/tc/2004-02.md |
+| 37-2000 | 37/2000 | pas | 2004-12-09 | Omissão no exercício de fiscalização das operações com contratos futuros de Ibovespa (Item III da Resolução CMN nº 1.645/89. Absolvição. | cvm-pas-37-2000 | fichas/pas/2004-15.md |
+| 37-2000 | 37/00 | acordao-crsfn | 2008-08-15 | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Realização de operações com contratos futuros de Ibovespa em bolsa de mercadorias… | crsfn-7530 | fichas/crsfn/2008-05.md |
+| 38-2000 | 38/2000 | pas | 2003-04-02 | infração ao item I da Instrução CVM nº 08/79, conforme conceituado nas alíneas "c" e "d" do inciso II da mesma Instrução CVM nº 08/79… | cvm-pas-38-2000 | fichas/pas/2003-02.md |
+| 38-2000 | 38/00 | acordao-crsfn | 2006-08-18 | RECURSOS VOLUNTÁRIO E DE OFÍCIO – Mercado de valores mobiliários – Realização de operações fraudulentas – Utilização de prática… | crsfn-5278 | fichas/crsfn/2006-01.md |
+| 39-2000 | 39/2000 | pas | 2005-01-19 | ANTHONY McCARTHY E OUTROS (PLASCAR PARTICIPAÇÕES S/A) a) A aquisição do controle de companhia, ainda que indiretamente, que represente… | cvm-pas-39-2000 | fichas/pas/2005-01.md |
+| 39-2000 | 39/00 | acordao-crsfn | 2012-11-26 | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Aquisição de empresa – Efetivação do negócio por sociedade… | crsfn-8541 | fichas/crsfn/2012-05.md |
+| 39-2000 | 39/00 | acordao-crsfn | 2012-12-18 | RECURSO(S) DE OFÍCIO – Mercado de valores mobiliários – Incorporação de companhia controlada – Falhas na divulgação de informações… | crsfn-11958 | fichas/crsfn/2012-06.md |
+| ia2000-0017 | IA2000-17 | acordao-crsfn | 2008-03-26 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Elaboração de laudo com omissões – Abuso de poder por acionista controlador – Indevida… | crsfn-6310 | fichas/crsfn/2008-01.md |
+| ia2000-0025 | IA-2000/25 | acordao-crsfn | 2005-02-23 | RECURSOS VOLUNTÁRIO E DE OFÍCIO – Mercado de valores mobiliários – Prática não-equitativa (aquisição de ações de prefeitura municipal com… | crsfn-5957 | fichas/crsfn/2005-01.md |
+| rj2000-3739 | RJ2000/3739 | acordao-crsfn | 2002-08-28 | RECURSOS VOLUNTÁRIOS - Mercado de valores mobiliários – Auditoria independente – Demonstrações financeiras – Reserva de lucros constituída… | crsfn-3921 | fichas/crsfn/2002-03.md |
+| rj2000-4546 | RJ2000/4546 | pas | 2002-03-12 | Recebimento pela companhia de ações em dação em pagamento de valores mutuados ao controlador. Alegada justificativa de preços não… | cvm-pas-rj2000-4546 | fichas/pas/2002-01.md |
+| rj2000-4550 | RJ2000/4550 | acordao-crsfn | 2003-01-29 | RECURSO VOLUNTÁRIO E DE OFÍCIO ─ Mercado de valores mobiliários ─ Falta de publicação de demonstrações financeiras (Instrução CVM 251/96)… | crsfn-3710 | fichas/crsfn/2003-01.md |
+| rj2000-5907 | RJ2000/5907 | pas | 2001-05-24 | [pessoa física], ASSESSORIA E PLANEJAMENTO LTDA. E OUTROS Intermediação no mercado de valores mobiliários, por pessoas não integrantes do… | cvm-pas-rj2000-5907 | fichas/pas/2001-02.md |
+| rj2000-6479 | RJ2000/6479 | pas | 2003-06-05 | ADMINISTRAÇÃO E PARTICIPAÇÕES LTDA. E OUTROS (LIVRARIA DO GLOBO S/A) I - Mútuo entre companhia aberta e sua controladora. Inexistência de… | cvm-pas-rj2000-6479 | fichas/pas/2003-03.md |
+| rj2000-6479 | RJ00/6479 | acordao-crsfn | 2005-08-23 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Recebimento de a) valores a título de administração de imóveis sem… | crsfn-5123 | fichas/crsfn/2005-02.md |
+| rj2000-6498 | RJ2000/6498 | pas | 2002-04-17 | RICARO MANSUR E OUTROS (CASA ANGLO BRASILEIRA S/A) É imputada a todos os diretores a responsabilidade pela não elaboração das demonstrações… | cvm-pas-rj2000-6498 | fichas/pas/2002-03.md |
+| rj2000-6498 | RJ2000/6498 | acordao-crsfn | 2003-12-10 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários - Falta de divulgação, a bolsa de valores e ao mercado, de informações… | crsfn-4266 | fichas/crsfn/2003-04.md |
 
 Fim do subíndice.

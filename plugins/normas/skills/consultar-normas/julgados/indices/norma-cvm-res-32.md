@@ -19,13 +19,13 @@ Norma: [cvm/resolucoes/0032.md](../../normas/cvm/resolucoes/0032.md) (texto vige
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 5º | pas | RJ2006/5343 | 2008-08-26 | parcial | cvm-pas-rj2006-5343 | fichas/pas/2008-03.md |
+| art. 5º | pas | RJ2006/5343 | 2008-08-26 | parcial | cvm-pas-rj2006-5343 | fichas/pas/2008-05.md |
 
 ## art. 6º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 6º | pas | RJ2006/5343 | 2008-08-26 | parcial | cvm-pas-rj2006-5343 | fichas/pas/2008-03.md |
+| art. 6º | pas | RJ2006/5343 | 2008-08-26 | parcial | cvm-pas-rj2006-5343 | fichas/pas/2008-05.md |
 
 ## art. 7º
 
@@ -82,13 +82,13 @@ Norma: [cvm/resolucoes/0032.md](../../normas/cvm/resolucoes/0032.md) (texto vige
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.018237/2024-51 | 2025-05-27 | condenacao | cvm-pas-19957-018237-2024-51 | fichas/pas/2025-03.md |
+| pas | 19957.018237/2024-51 | 2025-05-27 | condenacao | cvm-pas-19957-018237-2024-51 | fichas/pas/2025-05.md |
 | decisao-colegiado | 19957.019169/2024-48 | 2025-05-20 | deferido | cvm-col-20250520-d3277 | fichas/colegiado/2025-04.md |
-| pas | 19957.006858/2019-25 | 2024-10-15 | parcial | cvm-pas-19957-006858-2019-25 | fichas/pas/2024-08.md |
+| pas | 19957.006858/2019-25 | 2024-10-15 | parcial | cvm-pas-19957-006858-2019-25 | fichas/pas/2024-16.md |
 | decisao-colegiado | 17/2021; 19957.012150/2022-17 | 2024-10-01 | — | cvm-col-20241001-d3140 | fichas/colegiado/2024-10.md |
 | decisao-colegiado | 19957.009938/2021-57 | 2023-09-20 | outro | cvm-col-20230920-d2936 | fichas/colegiado/2023-10.md |
 | decisao-colegiado | 19957.009938/2021-57 | 2023-09-13 | — | cvm-col-20230913-d2936 | fichas/colegiado/2023-10.md |
-| pas | 19957.009592/2017-19 | 2022-02-22 | condenacao | cvm-pas-19957-009592-2017-19 | fichas/pas/2022-01.md |
+| pas | 19957.009592/2017-19 | 2022-02-22 | condenacao | cvm-pas-19957-009592-2017-19 | fichas/pas/2022-02.md |
 | decisao-colegiado | 19957.001022/2021-59 | 2021-06-29 | nao-provido | cvm-col-20210629-d2221 | fichas/colegiado/2021-11.md |
 
 Fim do subíndice.

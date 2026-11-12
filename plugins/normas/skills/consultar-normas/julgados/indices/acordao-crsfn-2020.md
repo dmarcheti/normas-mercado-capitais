@@ -5,67 +5,67 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
-| Processo | Data | Resultado | Id | Ficha |
-|---|---|---|---|---|
-| 1/2011 | 2020-12-14 | parcial | crsfn-10372-100447-2018-41 | fichas/crsfn/2020-07.md |
-| RJ2016/802 | 2020-12-14 | parcial | crsfn-10372-100239-2019-22 | fichas/crsfn/2020-07.md |
-| RJ2017/1239 | 2020-11-18 | parcial | crsfn-10372-100056-2019-15 | fichas/crsfn/2020-07.md |
-| RJ2016/8347 | 2020-11-18 | parcial | crsfn-10372-100052-2019-29 | fichas/crsfn/2020-07.md |
-| RJ2012/11002 | 2020-11-17 | outro | crsfn-edcl-185 | fichas/crsfn/2020-07.md |
-| 08211.001367/2019-95 | 2020-11-17 | arquivamento | crsfn-19957-100015-2019-14 | fichas/crsfn/2020-07.md |
-| RJ-2014-7704 | 2020-11-17 | condenacao | crsfn-10372-100344-2018-81 | fichas/crsfn/2020-06.md |
-| RJ2015/2027 | 2020-11-17 | condenacao | crsfn-10372-100333-2019-81 | fichas/crsfn/2020-06.md |
-| RJ2016/4271 | 2020-11-17 | condenacao | crsfn-10372-100269-2019-39 | fichas/crsfn/2020-06.md |
-| RJ2017/4214 | 2020-11-17 | condenacao | crsfn-10372-100034-2020-81 | fichas/crsfn/2020-06.md |
-| 08211.001228/2019-61 | 2020-10-21 | parcial | crsfn-19957-100016-2019-69 | fichas/crsfn/2020-06.md |
-| SP2012/218 | 2020-10-20 | parcial | crsfn-14241 | fichas/crsfn/2020-06.md |
-| RJ2017/3871 | 2020-10-19 | parcial | crsfn-10372-100246-2019-24 | fichas/crsfn/2020-06.md |
-| RJ2016/5499 | 2020-09-21 | outro | crsfn-edcl-10372-100259-2018-12 | fichas/crsfn/2020-06.md |
-| SP2015/41 | 2020-09-21 | condenacao | crsfn-10372-100093-2019-15 | fichas/crsfn/2020-06.md |
-| RJ2012/1131 | 2020-09-20 | outro | crsfn-edcl-14293 | fichas/crsfn/2020-05.md |
-| 30/2005 | 2020-09-20 | outro | crsfn-edcl-13803 | fichas/crsfn/2020-05.md |
-| RJ2014/13353 | 2020-09-20 | outro | crsfn-edcl-10372-100295-2018-86 | fichas/crsfn/2020-05.md |
-| 25/2010 | 2020-09-20 | outro | crsfn-edcl-10372-100009-2018-82 | fichas/crsfn/2020-05.md |
-| RJ2016/5789 | 2020-09-20 | condenacao | crsfn-10372-100332-2019-37 | fichas/crsfn/2020-05.md |
-| RJ2016/7486 | 2020-09-20 | condenacao | crsfn-10372-100323-2019-46 | fichas/crsfn/2020-05.md |
-| RJ-2014-12056 | 2020-09-20 | condenacao | crsfn-10372-100316-2018-63 | fichas/crsfn/2020-05.md |
-| RJ-2016-4712 | 2020-09-18 | condenacao | crsfn-10372-100312-2018-85 | fichas/crsfn/2020-05.md |
-| 1/2014 | 2020-09-15 | condenacao | crsfn-10372-100450-2018-64 | fichas/crsfn/2020-05.md |
-| RJ2015/10545 | 2020-09-15 | condenacao | crsfn-10372-100237-2019-33 | fichas/crsfn/2020-05.md |
-| RJ2016/4426 | 2020-09-15 | parcial | crsfn-10372-100233-2019-55 | fichas/crsfn/2020-05.md |
-| RJ2014/3402 | 2020-09-15 | condenacao | crsfn-10372-100232-2019-19 | fichas/crsfn/2020-04.md |
-| RJ2018/269 | 2020-09-15 | condenacao | crsfn-10372-100062-2020-06 | fichas/crsfn/2020-04.md |
-| 08/2012 | 2020-09-15 | parcial | crsfn-10372-000204-2016-41 | fichas/crsfn/2020-04.md |
-| RJ2014/13353 | 2020-08-25 | condenacao | crsfn-10372-100295-2018-86 | fichas/crsfn/2020-04.md |
-| 04/2013 | 2020-08-18 | condenacao | crsfn-10372-000470-2016-74 | fichas/crsfn/2020-04.md |
-| IA-2011-2 | 2020-08-18 | condenacao | crsfn-10372-000380-2016-83 | fichas/crsfn/2020-04.md |
-| RJ-2016-5348 | 2020-07-22 | condenacao | crsfn-10372-100314-2018-74 | fichas/crsfn/2020-03.md |
-| SP2013/94 | 2020-07-22 | condenacao | crsfn-10372-100130-2018-12 | fichas/crsfn/2020-03.md |
-| RJ2016/817 | 2020-07-21 | parcial | crsfn-10372-100327-2019-24 | fichas/crsfn/2020-03.md |
-| RJ2015/9465 | 2020-07-21 | condenacao | crsfn-10372-100001-2019-05 | fichas/crsfn/2020-03.md |
-| 08211.001267/2019-69 | 2020-06-16 | condenacao | crsfn-19957-100017-2019-11 | fichas/crsfn/2020-03.md |
-| 08211.001379/2019-10 | 2020-06-16 | condenacao | crsfn-19957-100003-2019-90 | fichas/crsfn/2020-03.md |
-| RJ2016/8251 | 2020-06-16 | parcial | crsfn-10372-100018-2019-54 | fichas/crsfn/2020-03.md |
-| RJ2014/2099 | 2020-06-16 | condenacao | crsfn-10372-000126-2017-66 | fichas/crsfn/2020-03.md |
-| 04/2009 | 2020-06-16 | condenacao | crsfn-10372-000070-2016-69 | fichas/crsfn/2020-03.md |
-| 08211.001223/2019-39 | 2020-05-19 | outro | crsfn-19957-100013-2019-25 | fichas/crsfn/2020-03.md |
-| 08211.001203/2019-68 | 2020-05-19 | condenacao | crsfn-19957-100012-2019-81 | fichas/crsfn/2020-02.md |
-| 08211.001387/2019-66 | 2020-05-19 | condenacao | crsfn-19957-100009-2019-67 | fichas/crsfn/2020-02.md |
-| RJ2015/13006 | 2020-04-28 | condenacao | crsfn-10372-100082-2019-35 | fichas/crsfn/2020-02.md |
-| 08211.001233/2019-74 | 2020-04-15 | condenacao | crsfn-19957-100018-2019-58 | fichas/crsfn/2020-02.md |
-| 08211.001264/2019-25 | 2020-04-15 | condenacao | crsfn-19957-100007-2019-78 | fichas/crsfn/2020-02.md |
-| 30/2005 | 2020-04-14 | parcial | crsfn-13083-2 | fichas/crsfn/2020-02.md |
-| 02/2008 | 2020-03-11 | outro | crsfn-edcl-13703 | fichas/crsfn/2020-02.md |
-| RJ2016/2476 | 2020-03-11 | condenacao | crsfn-10372-100328-2019-79 | fichas/crsfn/2020-02.md |
-| RJ2017/3091 | 2020-03-11 | outro | crsfn-10372-100242-2019-46 | fichas/crsfn/2020-02.md |
-| RJ2016/7808 | 2020-03-11 | parcial | crsfn-10372-100012-2019-87 | fichas/crsfn/2020-02.md |
-| 08/2004 | 2020-03-10 | parcial | crsfn-13732 | fichas/crsfn/2020-01.md |
-| RJ2016/5499 | 2020-03-10 | parcial | crsfn-10372-100259-2018-12 | fichas/crsfn/2020-01.md |
-| SP2018/40 | 2020-02-11 | condenacao | crsfn-10372-100434-2018-71 | fichas/crsfn/2020-01.md |
-| RJ2015/10215 | 2020-02-11 | parcial | crsfn-10372-100361-2018-18 | fichas/crsfn/2020-01.md |
-| RJ2014/7351 | 2020-02-11 | condenacao | crsfn-10372-100236-2019-99 | fichas/crsfn/2020-01.md |
-| SP2012/228 | 2020-02-11 | condenacao | crsfn-10372-100085-2018-98 | fichas/crsfn/2020-01.md |
-| RJ2011/10415 | 2020-02-11 | parcial | crsfn-10372-000322-2016-50 | fichas/crsfn/2020-01.md |
-| RJ2017/5917 | 2020-01-21 | condenacao | crsfn-10372-100305-2019-64 | fichas/crsfn/2020-01.md |
+| Processo | Data | Resultado | Ementa | Id | Ficha |
+|---|---|---|---|---|---|
+| 1/2011 | 2020-12-14 | parcial | RECURSOS VOLUNTÁRIOS. Prazo prescricional penal aplicável em decorrência da existência de ação penal. Atos de apuração anteriores à… | crsfn-10372-100447-2018-41 | fichas/crsfn/2020-10.md |
+| RJ2016/802 | 2020-12-14 | parcial | RECURSO VOLUNTÁRIO. Interesse Público na criação de Sociedade de Economia Mista. Abuso de poder de controle caracterizado. Ausência de… | crsfn-10372-100239-2019-22 | fichas/crsfn/2020-09.md |
+| RJ2017/1239 | 2020-11-18 | parcial | RECURSO VOLUNTÁRIO. Ausência de pedido de registro em oferta pública de valores mobiliários. Contrato de investimento coletivo no setor… | crsfn-10372-100056-2019-15 | fichas/crsfn/2020-09.md |
+| RJ2016/8347 | 2020-11-18 | parcial | RECURSOS VOLUNTÁRIOS. Ausência de pedido de registro em oferta pública de valores mobiliários. Contrato de investimento coletivo no setor… | crsfn-10372-100052-2019-29 | fichas/crsfn/2020-09.md |
+| RJ2012/11002 | 2020-11-17 | outro | EMBARGOS DE DECLARAÇÃO. Embargos intempestivos. Não conhecimento. Retificação de dois itens do Acórdão - Autotutela Administrativa. | crsfn-edcl-185 | fichas/crsfn/2020-09.md |
+| 08211.001367/2019-95 | 2020-11-17 | arquivamento | RECURSO VOLUNTÁRIO. Deixar de declarar ao COAF a não ocorrência de propostas, transações ou operações passíveis de serem comunicadas… | crsfn-19957-100015-2019-14 | fichas/crsfn/2020-09.md |
+| RJ-2014-7704 | 2020-11-17 | condenacao | RECURSO VOLUNTÁRIO. Revisão Externa de Qualidade pelos Pares. Auditor independente. Irregularidades nos trabalhos de revisões externas de… | crsfn-10372-100344-2018-81 | fichas/crsfn/2020-09.md |
+| RJ2015/2027 | 2020-11-17 | condenacao | RECURSOS VOLUNTÁRIOS. Operações fraudulentas com dano vultoso ao patrimônio de fundo de pensão. Recursos Voluntários conhecidos e… | crsfn-10372-100333-2019-81 | fichas/crsfn/2020-09.md |
+| RJ2016/4271 | 2020-11-17 | condenacao | RECURSOS VOLUNTÁRIOS. Desenquadramento de Fundo de Investimentos. Aquisição de ativos para Fundo de Investimentos de maneira contrária aos… | crsfn-10372-100269-2019-39 | fichas/crsfn/2020-08.md |
+| RJ2017/4214 | 2020-11-17 | condenacao | RECURSO VOLUNTÁRIO. Atividade de administração de carteira de valores mobiliários sem prévia autorização. Constituição de limited liability… | crsfn-10372-100034-2020-81 | fichas/crsfn/2020-08.md |
+| 08211.001228/2019-61 | 2020-10-21 | parcial | RECURSO VOLUNTÁRIO. Ausência de Comunicação de não ocorrência de operações ou propostas passíveis de serem comunicadas ao COAF. Parcial… | crsfn-19957-100016-2019-69 | fichas/crsfn/2020-08.md |
+| SP2012/218 | 2020-10-20 | parcial | RECURSOS VOLUNTÁRIOS. Exercício da atividade de agente autônomo e administração de carteiras de valores mobiliários sem autorização da CVM… | crsfn-14241 | fichas/crsfn/2020-08.md |
+| RJ2017/3871 | 2020-10-19 | parcial | RECURSO VOLUNTÁRIO. Fixação da remuneração dos membros do Conselho de Administração em infração ao art. 152 da Lei nº 6.404/1976. Recurso… | crsfn-10372-100246-2019-24 | fichas/crsfn/2020-08.md |
+| RJ2016/5499 | 2020-09-21 | outro | EMBARGOS DE DECLARAÇÃO. Manifestação da CVM sobre citações com erros. Princípio da autotutela. Falha sanada. | crsfn-edcl-10372-100259-2018-12 | fichas/crsfn/2020-08.md |
+| SP2015/41 | 2020-09-21 | condenacao | RECURSO VOLUNTÁRIO. Financiamentos obtidos por diretor para operar no mercado de valores mobiliários. Termo de compromisso só pode ser… | crsfn-10372-100093-2019-15 | fichas/crsfn/2020-07.md |
+| RJ2012/1131 | 2020-09-20 | outro | EMBARGOS DE DECLARAÇÃO. Embargos que ficam rejeitados por não demonstradas imperfeições no acórdão embargado. | crsfn-edcl-14293 | fichas/crsfn/2020-07.md |
+| 30/2005 | 2020-09-20 | outro | EMBARGOS DE DECLARAÇÃO. Ausência de demonstração de ilícito e de nexo de causalidade e outras omissões no Acórdão CRSFN. Embargo conhecido… | crsfn-edcl-13803 | fichas/crsfn/2020-07.md |
+| RJ2014/13353 | 2020-09-20 | outro | EMBARGOS DE DECLARAÇÃO. Alegação de omissão quanto à alegação de cerceamento de defesa e outros argumentos. Embargos conhecidos e… | crsfn-edcl-10372-100295-2018-86 | fichas/crsfn/2020-07.md |
+| 25/2010 | 2020-09-20 | outro | EMBARGOS DE DECLARAÇÃO. Embargos que ficam rejeitados por não comprovada omissão do Acórdão Embargado. | crsfn-edcl-10372-100009-2018-82 | fichas/crsfn/2020-07.md |
+| RJ2016/5789 | 2020-09-20 | condenacao | RECURSOS VOLUNTÁRIOS. Descumprimento por auditor independente de normas emanadas pelo Conselho Federal de Contabilidade relativas ao… | crsfn-10372-100332-2019-37 | fichas/crsfn/2020-07.md |
+| RJ2016/7486 | 2020-09-20 | condenacao | RECURSO VOLUNTÁRIO. Responsabilidade de Agente Autônomo de Investimentos por realização de operação fraudulenta. Fraude configurada… | crsfn-10372-100323-2019-46 | fichas/crsfn/2020-07.md |
+| RJ-2014-12056 | 2020-09-20 | condenacao | RECURSOS VOLUNTÁRIOS. Falta de diligência dos administradores de companhia aberta na realização das demonstrações financeiras e de seus… | crsfn-10372-100316-2018-63 | fichas/crsfn/2020-07.md |
+| RJ-2016-4712 | 2020-09-18 | condenacao | RECURSOS VOLUNTÁRIOS. Descumprimento do dever de manter informados a CVM, o mercado e os acionistas sobre a situação financeira da empresa… | crsfn-10372-100312-2018-85 | fichas/crsfn/2020-07.md |
+| 1/2014 | 2020-09-15 | condenacao | RECURSOS VOLUNTÁRIOS. Uso de informação privilegiada. Insider trading. Prescrição intercorrente. Recursos conhecidos e desprovidos. | crsfn-10372-100450-2018-64 | fichas/crsfn/2020-06.md |
+| RJ2015/10545 | 2020-09-15 | condenacao | RECURSO VOLUNTÁRIO. Não indicação de representante legal. Recurso conhecido e desprovido. | crsfn-10372-100237-2019-33 | fichas/crsfn/2020-06.md |
+| RJ2016/4426 | 2020-09-15 | parcial | RECURSO VOLUNTÁRIO. Fixação da remuneração dos membros do Conselho de Administração em infração ao art. 152 c/c o art. 154 da Lei nº… | crsfn-10372-100233-2019-55 | fichas/crsfn/2020-06.md |
+| RJ2014/3402 | 2020-09-15 | condenacao | RECURSO VOLUNTÁRIO. Não divulgação de Fato Relevante sobre nova metodologia de precificação de combustíveis pelo diretor de relações com… | crsfn-10372-100232-2019-19 | fichas/crsfn/2020-06.md |
+| RJ2018/269 | 2020-09-15 | condenacao | RECURSO VOLUNTÁRIO. Não ter supervisionado o cumprimento e a efetividade dos procedimentos e controles internos. Ter acumulado as funções… | crsfn-10372-100062-2020-06 | fichas/crsfn/2020-06.md |
+| 08/2012 | 2020-09-15 | parcial | RECURSOS VOLUNTÁRIOS. Não Divulgação de Fato Relevante. Contabilização Inadequada de valores no balanço. Desvio de Poder. Fluência do prazo… | crsfn-10372-000204-2016-41 | fichas/crsfn/2020-06.md |
+| RJ2014/13353 | 2020-08-25 | condenacao | RECURSOS VOLUNTÁRIOS. Práticas não equitativas no mercado de valores mobiliários. Recursos conhecido e não providos. | crsfn-10372-100295-2018-86 | fichas/crsfn/2020-05.md |
+| 04/2013 | 2020-08-18 | condenacao | RECURSOS VOLUNTÁRIOS Operações cursadas para ajustar o resultado esperado a título de taxa de performance. Fluência do prazo trienal da… | crsfn-10372-000470-2016-74 | fichas/crsfn/2020-05.md |
+| IA-2011-2 | 2020-08-18 | condenacao | RECURSOS VOLUNTÁRIOS. Abuso do poder de controle. Descumprimento do dever de diligência. Não divulgação de fato relevante. Violação de… | crsfn-10372-000380-2016-83 | fichas/crsfn/2020-05.md |
+| RJ-2016-5348 | 2020-07-22 | condenacao | RECURSO VOLUNTÁRIO. Cometimento da infração de criar condições artificiais de oferta, preço e demanda de valores mobiliários, infringindo o… | crsfn-10372-100314-2018-74 | fichas/crsfn/2020-05.md |
+| SP2013/94 | 2020-07-22 | condenacao | RECURSO VOLUNTÁRIO. Insider Trading Secundário. Infração configurada. Operações com valores mobiliários da empresa onde o acusado atuava… | crsfn-10372-100130-2018-12 | fichas/crsfn/2020-04.md |
+| RJ2016/817 | 2020-07-21 | parcial | RECURSOS VOLUNTÁRIOS. Retenção irregular de lucros. Falta de revisão de orçamento de capital. Recursos conhecidos e parcialmente providos. | crsfn-10372-100327-2019-24 | fichas/crsfn/2020-04.md |
+| RJ2015/9465 | 2020-07-21 | condenacao | RECURSO VOLUNTÁRIO Não cumprimento do dever de diligência na administração dos recursos do FIDC ESHER. Recurso desprovido. | crsfn-10372-100001-2019-05 | fichas/crsfn/2020-04.md |
+| 08211.001267/2019-69 | 2020-06-16 | condenacao | RECURSO VOLUNTÁRIO. Deixar de declarar tempestivamente ao COAF a não ocorrência de propostas, transações ou operações passíveis de serem… | crsfn-19957-100017-2019-11 | fichas/crsfn/2020-04.md |
+| 08211.001379/2019-10 | 2020-06-16 | condenacao | RECURSO VOLUNTÁRIO. Deixar de declarar tempestivamente ao COAF a não ocorrência de propostas, transações ou operações passíveis de serem… | crsfn-19957-100003-2019-90 | fichas/crsfn/2020-04.md |
+| RJ2016/8251 | 2020-06-16 | parcial | RECURSOS VOLUNTÁRIOS. Não conformidade dos trabalhos de auditoria em demonstrações financeiras. Auditoria Independente. Recursos conhecido… | crsfn-10372-100018-2019-54 | fichas/crsfn/2020-04.md |
+| RJ2014/2099 | 2020-06-16 | condenacao | RECURSOS VOLUNTÁRIOS. Prática de irregularidades na administração de carteiras de fundos de investimento em direitos creditórios por… | crsfn-10372-000126-2017-66 | fichas/crsfn/2020-04.md |
+| 04/2009 | 2020-06-16 | condenacao | RECURSOS VOLUNTÁRIOS: Abuso de poder de controle. Manutenção de Conselho Consultivo inoperante e em benefício exclusivo de pessoas ligadas… | crsfn-10372-000070-2016-69 | fichas/crsfn/2020-04.md |
+| 08211.001223/2019-39 | 2020-05-19 | outro | RECURSO VOLUNTÁRIO. Deixar de efetuar comunicação de não ocorrência de operações ou propostas passíveis de serem comunicadas ao COAF… | crsfn-19957-100013-2019-25 | fichas/crsfn/2020-03.md |
+| 08211.001203/2019-68 | 2020-05-19 | condenacao | RECURSO VOLUNTÁRIO. Deixar de declarar ao COAF a não ocorrência de propostas, transações ou operações passíveis de serem comunicadas… | crsfn-19957-100012-2019-81 | fichas/crsfn/2020-03.md |
+| 08211.001387/2019-66 | 2020-05-19 | condenacao | RECURSO VOLUNTÁRIO. Não comunicação de inocorrência de operações ou propostas passíveis de serem comunicadas ao Conselho de Controle de… | crsfn-19957-100009-2019-67 | fichas/crsfn/2020-03.md |
+| RJ2015/13006 | 2020-04-28 | condenacao | RECURSOS VOLUNTÁRIOS. Falta de evidências que sustentem a abstenção de opinião. Falta de evidências que suportem o uso do pressuposto de… | crsfn-10372-100082-2019-35 | fichas/crsfn/2020-03.md |
+| 08211.001233/2019-74 | 2020-04-15 | condenacao | RECURSO VOLUNTÁRIO. Ausência de comunicação de não ocorrência de operações ou propostas passíveis de serem comunicadas ao COAF… | crsfn-19957-100018-2019-58 | fichas/crsfn/2020-03.md |
+| 08211.001264/2019-25 | 2020-04-15 | condenacao | RECURSO VOLUNTÁRIO. Deixar de efetuar comunicação de não ocorrência de operações ou propostas passíveis de serem comunicadas ao COAF… | crsfn-19957-100007-2019-78 | fichas/crsfn/2020-03.md |
+| 30/2005 | 2020-04-14 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Realização de práticas não equitativas e operações fraudulentas no mercado de valores mobiliários. Falta… | crsfn-13083-2 | fichas/crsfn/2020-03.md |
+| 02/2008 | 2020-03-11 | outro | EMBARGOS DE DECLARAÇÃO. O Decreto nº 20.910, de 1932, não é aplicável aos processos administrativos, em especial após a edição da Lei nº… | crsfn-edcl-13703 | fichas/crsfn/2020-03.md |
+| RJ2016/2476 | 2020-03-11 | condenacao | Companhia Aberta. Auditoria Independente. Falhas na emissão de relatório e opinião que acompanham Demonstrações Financeiras. Consolidação… | crsfn-10372-100328-2019-79 | fichas/crsfn/2020-03.md |
+| RJ2017/3091 | 2020-03-11 | outro | RECURSOS VOLUNTÁRIOS. Oferta irregular de Contrato de Investimento Coletivo de Unidades Autônomas de Condohoteis. Intempestividade. Não… | crsfn-10372-100242-2019-46 | fichas/crsfn/2020-02.md |
+| RJ2016/7808 | 2020-03-11 | parcial | RECURSOS VOLUNTÁRIOS. Não convocação de assembleias gerais. Não elaboração de demonstrações financeiras. Não submissão de demonstração… | crsfn-10372-100012-2019-87 | fichas/crsfn/2020-02.md |
+| 08/2004 | 2020-03-10 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Práticas não equitativas no mercado de valores mobiliários. Especificações tardias de ordens na BM&F… | crsfn-13732 | fichas/crsfn/2020-02.md |
+| RJ2016/5499 | 2020-03-10 | parcial | RECURSOS VOLUNTÁRIOS. Não elaboração de demonstrações financeiras, não realização de AGO e não apresentação de informações periódicas… | crsfn-10372-100259-2018-12 | fichas/crsfn/2020-02.md |
+| SP2018/40 | 2020-02-11 | condenacao | RECURSOS VOLUNTÁRIOS. Não elaboração de demonstrações financeiras. Não envio de formulários obrigatórios. Envio intempestivo não afasta a… | crsfn-10372-100434-2018-71 | fichas/crsfn/2020-02.md |
+| RJ2015/10215 | 2020-02-11 | parcial | RECURSOS VOLUNTÁRIOS. Não realização de AGO e não apresentação de informações periódicas. Recurso intempestivo e não conhecido; Demais… | crsfn-10372-100361-2018-18 | fichas/crsfn/2020-01.md |
+| RJ2014/7351 | 2020-02-11 | condenacao | RECURSOS VOLUNTÁRIOS. Novo REFIS e realocação de passivo nas demonstrações financeiras. Responsabilidade individual dos diretores pelas… | crsfn-10372-100236-2019-99 | fichas/crsfn/2020-01.md |
+| SP2012/228 | 2020-02-11 | condenacao | RECURSOS VOLUNTÁRIOS. Exercício irregular da atividade de intermediação de valores mobiliários por pessoas não autorizadas pela CVM… | crsfn-10372-100085-2018-98 | fichas/crsfn/2020-01.md |
+| RJ2011/10415 | 2020-02-11 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. FIDCS. Subcontratação de atividades pelo Custodiante. Possibilidade. Ausência de divulgação de… | crsfn-10372-000322-2016-50 | fichas/crsfn/2020-01.md |
+| RJ2017/5917 | 2020-01-21 | condenacao | RECURSO VOLUNTÁRIO. Auditoria Independente. Não submissão ao Programa de Revisão Externa de Qualidade. Recurso conhecido e desprovido. | crsfn-10372-100305-2019-64 | fichas/crsfn/2020-01.md |
 
 Fim do subíndice.

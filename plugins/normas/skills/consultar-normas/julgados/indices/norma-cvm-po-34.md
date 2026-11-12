@@ -11,16 +11,16 @@ Norma: [cvm/pareceres-orientacao/0034.md](../../normas/cvm/pareceres-orientacao/
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.004392/2020-67 | 2022-11-08 | condenacao | cvm-pas-19957-004392-2020-67 | fichas/pas/2022-06.md |
-| pas | 19957.003175/2020-50 | 2022-11-08 | absolvicao | cvm-pas-19957-003175-2020-50 | fichas/pas/2022-05.md |
+| pas | 19957.004392/2020-67 | 2022-11-08 | condenacao | cvm-pas-19957-004392-2020-67 | fichas/pas/2022-11.md |
+| pas | 19957.003175/2020-50 | 2022-11-08 | absolvicao | cvm-pas-19957-003175-2020-50 | fichas/pas/2022-11.md |
 | decisao-colegiado | 19957.008215/2020-50 | 2020-12-04 | outro | cvm-col-20201204-d2020 | fichas/colegiado/2020-20.md |
 | decisao-colegiado | 19957.005563/2020-75 | 2020-11-13 | provido | cvm-col-20201113-d1979 | fichas/colegiado/2020-19.md |
-| pas | RJ2014/10556 | 2017-11-29 | parcial | cvm-pas-rj2014-10556 | fichas/pas/2017-04.md |
+| pas | RJ2014/10556 | 2017-11-29 | parcial | cvm-pas-rj2014-10556 | fichas/pas/2017-09.md |
 | decisao-colegiado | 19957.007563/2017-12 | 2017-08-29 | indeferido | cvm-col-20170829-d0788 | fichas/colegiado/2017-15.md |
 | decisao-colegiado | 19957.005749/2017-29 | 2017-07-14 | — | cvm-col-20170714-d0728 | fichas/colegiado/2017-13.md |
 | decisao-colegiado | 19957.005870/2017-51 | 2017-06-23 | indeferido | cvm-col-20170623-d0721 | fichas/colegiado/2017-12.md |
-| pas | RJ2014/591 | 2016-09-27 | parcial | cvm-pas-rj2014-0591 | fichas/pas/2016-04.md |
-| pas | RJ2012/1131 | 2015-05-26 | condenacao | cvm-pas-rj2012-1131 | fichas/pas/2015-03.md |
+| pas | RJ2014/591 | 2016-09-27 | parcial | cvm-pas-rj2014-0591 | fichas/pas/2016-07.md |
+| pas | RJ2012/1131 | 2015-05-26 | condenacao | cvm-pas-rj2012-1131 | fichas/pas/2015-05.md |
 | decisao-colegiado | RJ2014/13918 | 2014-12-17 | indeferido | cvm-col-20141217-d01-r2 | fichas/colegiado/2014-27.md |
 | decisao-colegiado | RJ2014/3059 | 2014-03-25 | indeferido | cvm-col-20140325-d10 | fichas/colegiado/2014-05.md |
 | decisao-colegiado | RJ2013/10913 | 2014-03-25 | parcial | cvm-col-20140325-d07 | fichas/colegiado/2014-05.md |
@@ -34,9 +34,9 @@ Norma: [cvm/pareceres-orientacao/0034.md](../../normas/cvm/pareceres-orientacao/
 | decisao-colegiado | RJ2010/17608 | 2010-12-28 | indeferido | cvm-col-20101228-d74 | fichas/colegiado/2010-33.md |
 | decisao-colegiado | RJ2009/13179 | 2010-09-09 | outro | cvm-col-20100909-d09 | fichas/colegiado/2010-19.md |
 | decisao-colegiado | RJ2009/5811 | 2009-07-28 | outro | cvm-col-20090728-d02 | fichas/colegiado/2009-14.md |
-| pas | RJ2008/1815 | 2009-04-28 | parcial | cvm-pas-rj2008-1815 | fichas/pas/2009-02.md |
+| pas | RJ2008/1815 | 2009-04-28 | parcial | cvm-pas-rj2008-1815 | fichas/pas/2009-03.md |
 | decisao-colegiado | RJ2008/4156 | 2008-06-17 | provido | cvm-col-20080617-d01-r2 | fichas/colegiado/2008-13.md |
-| pas | 11/2006 | 2008-03-04 | absolvicao | cvm-pas-11-2006 | fichas/pas/2008-01.md |
+| pas | 11/2006 | 2008-03-04 | absolvicao | cvm-pas-11-2006 | fichas/pas/2008-02.md |
 | decisao-colegiado | RJ2007/3453 | 2008-03-04 | nao-provido | cvm-col-20080304-d01-r2 | fichas/colegiado/2008-06.md |
 | decisao-colegiado | RJ2007/14245 | 2007-12-17 | indeferido | cvm-col-20071217-d01 | fichas/colegiado/2007-25.md |
 | decisao-colegiado | RJ2007/8844 | 2007-10-09 | nao-provido | cvm-col-20071009-d04 | fichas/colegiado/2007-19.md |

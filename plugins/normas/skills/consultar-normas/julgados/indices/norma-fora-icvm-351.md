@@ -20,7 +20,7 @@ Norma: fora do acervo.
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | decisao-colegiado | RJ2008/8769 | 2008-10-21 | nao-provido | cvm-col-20081021-d11 | fichas/colegiado/2008-23.md |
-| pas | RJ2005/3750 | 2005-10-19 | absolvicao | cvm-pas-rj2005-3750 | fichas/pas/2005-07.md |
+| pas | RJ2005/3750 | 2005-10-19 | absolvicao | cvm-pas-rj2005-3750 | fichas/pas/2005-13.md |
 | decisao-colegiado | RJ2005/4657 | 2005-08-02 | nao-provido | cvm-col-20050802-d03 | fichas/colegiado/2005-11.md |
 | decisao-colegiado | RJ2005/3016 | 2005-06-28 | nao-provido | cvm-col-20050628-d03 | fichas/colegiado/2005-10.md |
 | decisao-colegiado | RJ2005/3016 | 2005-05-16 | nao-provido | cvm-col-20050516-d05 | fichas/colegiado/2005-08.md |

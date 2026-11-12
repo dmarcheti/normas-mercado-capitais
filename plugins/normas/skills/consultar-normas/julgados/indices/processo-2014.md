@@ -7,234 +7,234 @@ Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho rel
 
 Número normalizado: NUP `99999-999999-AAAA-DD`; processo antigo `rj2015-13791` (sigla em minúsculas, ano, número com 4 dígitos); numeração curta dos PAS `NN-AAAA`. Procure pelo número normalizado ou pela forma do julgado. Dois julgados do mesmo processo (um PAS e o termo de compromisso ou o acórdão do CRSFN dele) aparecem com o mesmo número.
 
-| Processo (normalizado) | Forma no julgado | Tipo | Data | Id | Ficha |
-|---|---|---|---|---|---|
-| 01-2014 | 01/2014 | termo-compromisso | 2017-11-14 | cvm-col-20171114-d0048 | fichas/tc/2017-05.md |
-| 01-2014 | 01/2014 | pas | 2018-06-19 | cvm-pas-01-2014 | fichas/pas/2018-04.md |
-| 01-2014 | 1/2014 | acordao-crsfn | 2020-09-15 | crsfn-10372-100450-2018-64 | fichas/crsfn/2020-05.md |
-| 02-2014; 19957-001903-2015-21; 19957-010256-2019-72 | 19957.001903/2015-21; 02/2014; 19957-001903-2015-21 | termo-compromisso | 2017-10-17 | cvm-col-20171017-d0718 | fichas/tc/2017-05.md |
-| 02-2014; 19957-001903-2015-21; 19957-010256-2019-72 | 02/2014; 19957.010256/2019-72; 19957-010256-2019-72 | pas | 2019-12-17 | cvm-pas-19957-010256-2019-72 | fichas/pas/2019-13.md |
-| 02-2014; 19957-001903-2015-21; 19957-010256-2019-72 | 02/2014; 19957.010256/2019-72; 19957-010256-2019-72 | acordao-crsfn | 2023-09-12 | crsfn-10372-100174-2020-59 | fichas/crsfn/2023-06.md |
-| 02-2014; 19957-001903-2015-21; 19957-010256-2019-72 | 02/2014; 19957.010256/2019-72; 19957-010256-2019-72 | acordao-crsfn | 2024-03-12 | crsfn-10372-100174-2020-59-2 | fichas/crsfn/2024-02.md |
-| 04-2014 | 04/2014 | termo-compromisso | 2018-12-11 | cvm-col-20181211-d0294 | fichas/tc/2018-07.md |
-| 04-2014 | 04/2014 | pas | 2018-12-26 | cvm-pas-04-2014 | fichas/pas/2018-12.md |
-| 05-2014; 19957-011659-2019-39 | 05/2014; 19957.011659/2019-39; 19957-011659-2019-39 | acordao-crsfn | 2024-05-07 | crsfn-10372-100193-2021-66 | fichas/crsfn/2024-02.md |
-| 06-2014; 19957-011355-2017-18 | 19957.011355/2017-18; 06/2014; 19957-011355-2017-18 | termo-compromisso | 2019-12-03 | cvm-col-20191203-d1096 | fichas/tc/2019-07.md |
-| 06-2014; 19957-011355-2017-18 | 19957.011355/2017-18; 06/2014; 19957-011355-2017-18 | termo-compromisso | 2021-09-21 | cvm-col-20210921-d1096 | fichas/tc/2021-06.md |
-| 07-2014 | 07/2014 | termo-compromisso | 2019-01-08 | cvm-col-20190108-d0228 | fichas/tc/2019-01.md |
-| 07-2014 | 07/2014 | pas | 2019-03-26 | cvm-pas-07-2014 | fichas/pas/2019-02.md |
-| 08-2014; 19957-000059-2014-31; 19957-001575-2020-21 | 19957.000059/2014-31; 08/2014; 19957-000059-2014-31 | termo-compromisso | 2017-09-26 | cvm-col-20170926-d0692 | fichas/tc/2017-04.md |
-| 08-2014; 19957-000059-2014-31; 19957-001575-2020-21 | 19957.001575/2020-21; 08/2014; 19957-001575-2020-21 | pas | 2020-06-30 | cvm-pas-19957-001575-2020-21 | fichas/pas/2020-03.md |
-| 08-2014; 19957-000059-2014-31; 19957-001575-2020-21 | 08/2014; 19957.001575/2020-21; 19957-001575-2020-21 | acordao-crsfn | 2023-04-11 | crsfn-10372-100007-2021-99 | fichas/crsfn/2023-03.md |
-| 09-2014; 19957-000457-2020-03 | 09/2014; 19957.000457/2020-03; 19957-000457-2020-03 | pas | 2019-12-20 | cvm-pas-19957-000457-2020-03 | fichas/pas/2019-13.md |
-| 10-2014 | 10/2014 | pas | 2019-06-18 | cvm-pas-10-2014 | fichas/pas/2019-04.md |
-| 13-2014 | 13/2014 | pas | 2019-11-05 | cvm-pas-13-2014 | fichas/pas/2019-10.md |
-| 13-2014 | 13/2014 | acordao-crsfn | 2021-06-14 | crsfn-10372-100058-2020-30 | fichas/crsfn/2021-01.md |
-| 13-2014 | 13/2014 | acordao-crsfn | 2021-11-09 | crsfn-10372-100058-2020-30-2 | fichas/crsfn/2021-04.md |
-| ia2014-0000 | IA14/00 | termo-compromisso | 2004-04-20 | cvm-col-20040420-d01 | fichas/tc/2004-01.md |
-| rj2014-0027 | RJ2014/0027 | termo-compromisso | 2014-12-02 | cvm-col-20141202-d11 | fichas/tc/2014-04.md |
-| rj2014-0027 | RJ2014/0027 | termo-compromisso | 2015-09-01 | cvm-col-20150901-d8977 | fichas/tc/2015-03.md |
-| rj2014-0376 | RJ2014/0376 | termo-compromisso | 2015-04-14 | cvm-col-20150414-d9621 | fichas/tc/2015-02.md |
-| rj2014-0413 | RJ2014/0413 | termo-compromisso | 2014-09-23 | cvm-col-20140923-d07 | fichas/tc/2014-03.md |
-| rj2014-0577 | RJ2014/0577 | termo-compromisso | 2016-06-14 | cvm-col-20160614-d9591 | fichas/tc/2016-03.md |
-| rj2014-0577 | RJ2014/577 | pas | 2017-12-11 | cvm-pas-rj2014-0577 | fichas/pas/2017-05.md |
-| rj2014-0578 | RJ2014/0578 | pas | 2019-05-27 | cvm-pas-rj2014-0578 | fichas/pas/2019-04.md |
-| rj2014-0578 | RJ2014/578 | acordao-crsfn | 2021-12-08 | crsfn-10372-100245-2019-80 | fichas/crsfn/2021-05.md |
-| rj2014-0578 | RJ2014/578 | acordao-crsfn | 2022-04-13 | crsfn-edcl-10372-100245-2019-80 | fichas/crsfn/2022-03.md |
-| rj2014-0578 | RJ2014/578 | acordao-crsfn | 2022-05-05 | crsfn-10372-100245-2019-80-2 | fichas/crsfn/2022-03.md |
-| rj2014-0591 | RJ2014/591 | pas | 2016-09-27 | cvm-pas-rj2014-0591 | fichas/pas/2016-04.md |
-| rj2014-0591 | RJ2014/591 | acordao-crsfn | 2018-12-12 | crsfn-10372-100137-2017-45 | fichas/crsfn/2018-08.md |
-| rj2014-0782 | RJ2014/0782 | termo-compromisso | 2014-10-07 | cvm-col-20141007-d01 | fichas/tc/2014-03.md |
-| rj2014-0915 | RJ2014/0915 | termo-compromisso | 2015-11-24 | cvm-col-20151124-d9947 | fichas/tc/2015-04.md |
-| rj2014-0918 | RJ2014/918 | pas | 2014-11-04 | cvm-pas-rj2014-0918 | fichas/pas/2014-04.md |
-| rj2014-0918 | RJ2014/918 | acordao-crsfn | 2017-12-12 | crsfn-14231 | fichas/crsfn/2017-08.md |
-| rj2014-1020 | RJ2014/1020 | termo-compromisso | 2015-03-17 | cvm-col-20150317-d9600 | fichas/tc/2015-01.md |
-| rj2014-1020 | RJ2014/1020 | pas | 2017-09-12 | cvm-pas-rj2014-1020 | fichas/pas/2017-03.md |
-| rj2014-1020 | RJ2014/1020 | acordao-crsfn | 2021-08-10 | crsfn-10372-100118-2018-08 | fichas/crsfn/2021-02.md |
-| rj2014-1020 | RJ2014/1020 | acordao-crsfn | 2022-12-08 | crsfn-10372-100118-2018-08-2 | fichas/crsfn/2022-08.md |
-| rj2014-1442 | RJ2014/1442 | pas | 2015-06-02 | cvm-pas-rj2014-1442 | fichas/pas/2015-03.md |
-| rj2014-1442 | RJ2014/1442 | acordao-crsfn | 2016-10-26 | crsfn-14366 | fichas/crsfn/2016-05.md |
-| rj2014-1785 | RJ2014/1785 | pas | 2017-12-19 | cvm-pas-rj2014-1785 | fichas/pas/2017-06.md |
-| rj2014-1785 | RJ2014/1785 | acordao-crsfn | 2019-08-27 | crsfn-10372-100125-2018-00 | fichas/crsfn/2019-02.md |
-| rj2014-2046 | RJ2014/2046 | termo-compromisso | 2014-12-16 | cvm-col-20141216-d03 | fichas/tc/2014-06.md |
-| rj2014-2050 | RJ2014/2050 | termo-compromisso | 2014-12-09 | cvm-col-20141209-d07 | fichas/tc/2014-05.md |
-| rj2014-2050 | RJ2014/2050 | pas | 2015-03-18 | cvm-pas-rj2014-2050 | fichas/pas/2015-02.md |
-| rj2014-2050 | RJ-2014-2050 | acordao-crsfn | 2016-12-14 | crsfn-14255 | fichas/crsfn/2016-06.md |
-| rj2014-2099 | RJ2014/2099 | pas | 2016-12-01 | cvm-pas-rj2014-2099 | fichas/pas/2016-07.md |
-| rj2014-2099 | RJ2014/2099 | acordao-crsfn | 2020-06-16 | crsfn-10372-000126-2017-66 | fichas/crsfn/2020-03.md |
-| rj2014-2314 | RJ2014/2314 | termo-compromisso | 2014-12-09 | cvm-col-20141209-d08 | fichas/tc/2014-05.md |
-| rj2014-2314 | RJ2014/2314 | pas | 2015-10-27 | cvm-pas-rj2014-2314 | fichas/pas/2015-06.md |
-| rj2014-2314 | RJ-2014-2314 | acordao-crsfn | 2016-08-23 | crsfn-14414 | fichas/crsfn/2016-03.md |
-| rj2014-2426 | RJ2014/2426 | pas | 2018-12-04 | cvm-pas-rj2014-2426 | fichas/pas/2018-10.md |
-| rj2014-2426 | RJ2014/2426 | acordao-crsfn | 2021-11-09 | crsfn-10372-100230-2019-11 | fichas/crsfn/2021-04.md |
-| rj2014-2797 | RJ2014/2797 | pas | 2016-09-27 | cvm-pas-rj2014-2797 | fichas/pas/2016-04.md |
-| 19957-010705-2019-82; rj2014-3161 | RJ2014/3161 | termo-compromisso | 2015-12-08 | cvm-col-20151208-d9961 | fichas/tc/2015-04.md |
-| 19957-010705-2019-82; rj2014-3161 | 19957.010705/2019-82; RJ2014/3161; 19957-010705-2019-82 | pas | 2020-11-10 | cvm-pas-19957-010705-2019-82 | fichas/pas/2020-06.md |
-| 19957-010705-2019-82; rj2014-3161 | RJ2014/3161; 19957.010705/2019-82; 19957-010705-2019-82 | acordao-crsfn | 2022-12-08 | crsfn-10372-100050-2021-54-2 | fichas/crsfn/2022-07.md |
-| 19957-010705-2019-82; rj2014-3161 | RJ2014/3161; 19957.010705/2019-82; 19957-010705-2019-82 | acordao-crsfn | 2022-12-08 | crsfn-10372-100050-2021-54 | fichas/crsfn/2022-07.md |
-| rj2014-3225 | RJ2014/3225 | pas | 2016-09-13 | cvm-pas-rj2014-3225 | fichas/pas/2016-04.md |
-| rj2014-3225 | RJ2014/3225 | acordao-crsfn | 2017-09-19 | crsfn-10372-000123-2017-22 | fichas/crsfn/2017-06.md |
-| rj2014-3401 | RJ2014/3401 | pas | 2017-12-05 | cvm-pas-rj2014-3401 | fichas/pas/2017-04.md |
-| rj2014-3402 | RJ2014/3402 | termo-compromisso | 2016-11-01 | cvm-col-20161101-d0416 | fichas/tc/2016-05.md |
-| rj2014-3402 | RJ2014/3402 | pas | 2018-12-13 | cvm-pas-rj2014-3402 | fichas/pas/2018-11.md |
-| rj2014-3402 | RJ2014/3402 | acordao-crsfn | 2020-09-15 | crsfn-10372-100232-2019-19 | fichas/crsfn/2020-04.md |
-| rj2014-3423 | RJ2014/3423 | termo-compromisso | 2014-10-07 | cvm-col-20141007-d02 | fichas/tc/2014-03.md |
-| rj2014-3427 | RJ2014/3427 | termo-compromisso | 2014-11-18 | cvm-col-20141118-d06 | fichas/tc/2014-04.md |
-| rj2014-3456 | RJ2014/3456 | termo-compromisso | 2014-12-09 | cvm-col-20141209-d02 | fichas/tc/2014-05.md |
-| rj2014-3606 | RJ2014/3606 | termo-compromisso | 2014-11-18 | cvm-col-20141118-d02 | fichas/tc/2014-03.md |
-| rj2014-3616 | RJ2014/3616 | pas | 2018-11-13 | cvm-pas-rj2014-3616 | fichas/pas/2018-09.md |
-| rj2014-3616 | RJ2014/3616 | acordao-crsfn | 2022-04-12 | crsfn-10372-100225-2019-17 | fichas/crsfn/2022-02.md |
-| rj2014-3624 | RJ2014/3624 | termo-compromisso | 2014-12-16 | cvm-col-20141216-d04 | fichas/tc/2014-06.md |
-| rj2014-3624 | RJ2014-3624 | pas | 2017-05-09 | cvm-pas-rj2014-3624 | fichas/pas/2017-02.md |
-| rj2014-3814 | RJ2014/3814 | pas | 2014-10-21 | cvm-pas-rj2014-3814 | fichas/pas/2014-04.md |
-| rj2014-3814 | RJ2014/3814 | acordao-crsfn | 2017-12-12 | crsfn-14175 | fichas/crsfn/2017-08.md |
-| rj2014-3839 | RJ2014/3839 | termo-compromisso | 2015-04-14 | cvm-col-20150414-d9618 | fichas/tc/2015-02.md |
-| rj2014-3839 | RJ2014/3839 | pas | 2016-12-13 | cvm-pas-rj2014-3839 | fichas/pas/2016-08.md |
-| rj2014-3839 | RJ2014/3839 | acordao-crsfn | 2018-03-21 | crsfn-10372-100196-2017-13 | fichas/crsfn/2018-02.md |
-| rj2014-3919 | RJ2014/3919 | termo-compromisso | 2014-12-16 | cvm-col-20141216-d05 | fichas/tc/2014-06.md |
-| rj2014-4077 | RJ2014/4077 | pas | 2019-02-26 | cvm-pas-rj2014-4077 | fichas/pas/2019-02.md |
-| rj2014-4077 | RJ2014/4077 | acordao-crsfn | 2022-02-09 | crsfn-10372-100282-2019-98-2 | fichas/crsfn/2022-01.md |
-| rj2014-4077 | RJ2014/4077 | acordao-crsfn | 2022-02-09 | crsfn-10372-100282-2019-98 | fichas/crsfn/2022-01.md |
-| rj2014-4395 | RJ2014/4395 | pas | 2015-08-11 | cvm-pas-rj2014-4395 | fichas/pas/2015-05.md |
-| rj2014-4395 | RJ2014/4395 | acordao-crsfn | 2017-06-28 | crsfn-14360 | fichas/crsfn/2017-05.md |
-| rj2014-5099 | RJ2014/5099 | pas | 2016-04-12 | cvm-pas-rj2014-5099 | fichas/pas/2016-01.md |
-| rj2014-5099 | RJ2014/5099 | acordao-crsfn | 2018-08-21 | crsfn-14487 | fichas/crsfn/2018-05.md |
-| rj2014-5102 | RJ2014/5102 | termo-compromisso | 2014-12-16 | cvm-col-20141216-d06 | fichas/tc/2014-06.md |
-| rj2014-5478 | RJ2014/5478 | termo-compromisso | 2015-05-05 | cvm-col-20150505-d9642 | fichas/tc/2015-02.md |
-| rj2014-5807 | RJ2014/5807 | pas | 2016-03-15 | cvm-pas-rj2014-5807 | fichas/pas/2016-01.md |
-| rj2014-5807 | RJ2014/5807 | acordao-crsfn | 2017-04-19 | crsfn-10372-000718-2016-05 | fichas/crsfn/2017-03.md |
-| rj2014-6225 | RJ2014/6225 | pas | 2017-04-18 | cvm-pas-rj2014-6225 | fichas/pas/2017-01.md |
-| rj2014-6225 | RJ2014/6225 | acordao-crsfn | 2018-07-24 | crsfn-10372-100240-2017-95 | fichas/crsfn/2018-05.md |
-| rj2014-6283 | RJ2014/6283 | termo-compromisso | 2015-03-31 | cvm-col-20150331-d9612 | fichas/tc/2015-01.md |
-| rj2014-6283 | RJ2014/6283 | termo-compromisso | 2015-03-31 | cvm-tc-rj2014-6283-20150331 | fichas/tc/2015-02.md |
-| rj2014-6515 | RJ2014/6515 | pas | 2016-12-15 | cvm-pas-rj2014-6515 | fichas/pas/2016-08.md |
-| rj2014-6515 | RJ2014/6515 | acordao-crsfn | 2018-03-21 | crsfn-10372-100192-2017-35 | fichas/crsfn/2018-02.md |
-| rj2014-6517 | RJ2014/6517 | pas | 2019-06-25 | cvm-pas-rj2014-6517 | fichas/pas/2019-05.md |
-| rj2014-6517 | RJ2014/6517 | acordao-crsfn | 2023-03-07 | crsfn-10372-100331-2019-92 | fichas/crsfn/2023-02.md |
-| rj2014-6823 | RJ2014/6823 | termo-compromisso | 2016-06-14 | cvm-col-20160614-d9211 | fichas/tc/2016-03.md |
-| rj2014-6913 | RJ2014/6913 | termo-compromisso | 2014-12-09 | cvm-col-20141209-d03 | fichas/tc/2014-05.md |
-| rj2014-7072 | RJ2014/7072 | termo-compromisso | 2015-12-15 | cvm-col-20151215-d9984 | fichas/tc/2015-05.md |
-| rj2014-7072 | RJ2014/7072 | termo-compromisso | 2018-03-20 | cvm-col-20180320-d9984 | fichas/tc/2018-01.md |
-| rj2014-7072 | RJ2014/7072 | pas | 2018-03-27 | cvm-pas-rj2014-7072 | fichas/pas/2018-02.md |
-| rj2014-7072 | RJ2014/7072 | acordao-crsfn | 2018-12-11 | crsfn-10372-100299-2018-64 | fichas/crsfn/2018-07.md |
-| rj2014-7199 | RJ2014/7199 | termo-compromisso | 2015-04-28 | cvm-col-20150428-d9632 | fichas/tc/2015-02.md |
-| rj2014-7199 | RJ2014/7199 | pas | 2016-11-08 | cvm-pas-rj2014-7199 | fichas/pas/2016-06.md |
-| rj2014-7199 | RJ2014/7199 | acordao-crsfn | 2018-03-21 | crsfn-10372-100145-2017-91 | fichas/crsfn/2018-02.md |
-| rj2014-7213 | RJ2014/7213 | termo-compromisso | 2015-06-09 | cvm-col-20150609-d9682 | fichas/tc/2015-03.md |
-| rj2014-7213 | RJ2014/7213 | termo-compromisso | 2015-11-03 | cvm-col-20151103-d9682 | fichas/tc/2015-04.md |
-| rj2014-7351 | RJ2014/7351 | termo-compromisso | 2015-06-09 | cvm-col-20150609-d9683 | fichas/tc/2015-03.md |
-| rj2014-7351 | RJ2014/7351 | pas | 2018-12-18 | cvm-pas-rj2014-7351 | fichas/pas/2018-12.md |
-| rj2014-7351 | RJ2014/7351 | acordao-crsfn | 2020-02-11 | crsfn-10372-100236-2019-99 | fichas/crsfn/2020-01.md |
-| rj2014-7352 | RJ2014/7352 | pas | 2018-01-16 | cvm-pas-rj2014-7352 | fichas/pas/2018-01.md |
-| rj2014-7604 | RJ2014/7604 | termo-compromisso | 2015-07-14 | cvm-col-20150714-d9766 | fichas/tc/2015-03.md |
-| rj2014-7704 | RJ2014/7704 | pas | 2018-04-03 | cvm-pas-rj2014-7704 | fichas/pas/2018-03.md |
-| rj2014-7704 | RJ-2014-7704 | acordao-crsfn | 2020-11-17 | crsfn-10372-100344-2018-81 | fichas/crsfn/2020-06.md |
-| rj2014-7742 | RJ2014/7742 | termo-compromisso | 2015-05-05 | cvm-col-20150505-d9229 | fichas/tc/2015-02.md |
-| rj2014-7915 | RJ2014/7915 | termo-compromisso | 2015-05-19 | cvm-col-20150519-d9317 | fichas/tc/2015-02.md |
-| rj2014-8013 | RJ2014/8013 | pas | 2018-08-28 | cvm-pas-rj2014-8013 | fichas/pas/2018-07.md |
-| rj2014-8013 | RJ2014/8013 | acordao-crsfn | 2022-08-09 | crsfn-10372-100207-2019-27 | fichas/crsfn/2022-05.md |
-| rj2014-8017 | RJ2014/8017 | pas | 2016-11-22 | cvm-pas-rj2014-8017 | fichas/pas/2016-06.md |
-| rj2014-8017 | RJ2014/8017 | acordao-crsfn | 2017-09-19 | crsfn-10372-100164-2017-18 | fichas/crsfn/2017-06.md |
-| rj2014-8149 | RJ2014/8149 | pas | 2016-12-15 | cvm-pas-rj2014-8149 | fichas/pas/2016-09.md |
-| rj2014-8356 | RJ2014/8356 | pas | 2015-08-11 | cvm-pas-rj2014-8356 | fichas/pas/2015-05.md |
-| rj2014-8793 | RJ2014-8793 | pas | 2015-07-21 | cvm-pas-rj2014-8793 | fichas/pas/2015-04.md |
-| rj2014-8793 | RJ-2014-8793 | acordao-crsfn | 2017-04-19 | crsfn-14363 | fichas/crsfn/2017-03.md |
-| rj2014-8814 | RJ2014/8814 | termo-compromisso | 2014-11-04 | cvm-col-20141104-d04 | fichas/tc/2014-03.md |
-| rj2014-8947 | RJ2014/8947 | termo-compromisso | 2015-06-02 | cvm-col-20150602-d9661 | fichas/tc/2015-02.md |
-| rj2014-9034 | RJ2014/9034 | termo-compromisso | 2015-07-21 | cvm-col-20150721-d9771 | fichas/tc/2015-03.md |
-| rj2014-9034 | RJ2014/9034 | termo-compromisso | 2017-09-19 | cvm-col-20170919-d9771 | fichas/tc/2017-04.md |
-| rj2014-9399 | RJ2014/9399 | pas | 2017-02-07 | cvm-pas-rj2014-9399 | fichas/pas/2017-01.md |
-| rj2014-9399 | RJ2014/9399 | acordao-crsfn | 2019-05-28 | crsfn-10372-100254-2017-17 | fichas/crsfn/2019-01.md |
-| rj2014-9501 | RJ2014/9501 | termo-compromisso | 2015-07-21 | cvm-col-20150721-d9772 | fichas/tc/2015-03.md |
-| rj2014-9695 | RJ2014/9695 | termo-compromisso | 2015-12-15 | cvm-col-20151215-d9985 | fichas/tc/2015-05.md |
-| rj2014-9909 | RJ2014/9909 | termo-compromisso | 2015-08-18 | cvm-col-20150818-d9791 | fichas/tc/2015-03.md |
-| rj2014-9918 | RJ2014/9918 | termo-compromisso | 2015-03-24 | cvm-col-20150324-d9607 | fichas/tc/2015-01.md |
-| rj2014-9919 | RJ2014/9919 | termo-compromisso | 2015-06-02 | cvm-col-20150602-d9662 | fichas/tc/2015-02.md |
-| rj2014-9994 | RJ2014/9994 | termo-compromisso | 2016-05-17 | cvm-col-20160517-d0207 | fichas/tc/2016-02.md |
-| 19957-003266-2017-90; 19957-006033-2016-68; 19957-008081-2016-91; 19957-008163-2016-35; 19957-009428-2016-12; rj2014-10013; rj2014-12721; rj2015-1824; rj2015-4723; rj2016-7233; rj2016-8347; rj2016-9281; rj2017-1239 | 19957.006033/2016-68; RJ2016/7233; 19957.008081/2016-91; RJ2016/8347; 19957.009428/2016-12; RJ2016/9281; 19957.003266/2017-90; RJ2017/1239; 19957.008163/2016-35; RJ2014/12721; RJ2014/10013; RJ2015/1824; RJ2015/4723; 19957-006033-2016-68 | termo-compromisso | 2017-09-05 | cvm-col-20170905-d0773 | fichas/tc/2017-04.md |
-| rj2014-10060 | RJ2014/10060 | pas | 2015-11-10 | cvm-pas-rj2014-10060 | fichas/pas/2015-06.md |
-| rj2014-10060 | RJ2014-10060 | acordao-crsfn | 2017-06-27 | crsfn-14405 | fichas/crsfn/2017-05.md |
-| rj2014-10082 | RJ2014/10082 | termo-compromisso | 2015-11-24 | cvm-col-20151124-d9948 | fichas/tc/2015-04.md |
-| rj2014-10082 | RJ2014/10082 | pas | 2017-03-07 | cvm-pas-rj2014-10082 | fichas/pas/2017-01.md |
-| rj2014-10290 | RJ2014/10290 | pas | 2017-06-13 | cvm-pas-rj2014-10290 | fichas/pas/2017-03.md |
-| rj2014-10290 | RJ2014/10290 | acordao-crsfn | 2018-08-22 | crsfn-10372-100292-2017-61 | fichas/crsfn/2018-05.md |
-| rj2014-10290 | RJ2014/10290 | acordao-crsfn | 2018-12-12 | crsfn-edcl-10372-100292-2017-61 | fichas/crsfn/2018-08.md |
-| rj2014-10384 | RJ2014/10384 | termo-compromisso | 2015-04-07 | cvm-col-20150407-d9304 | fichas/tc/2015-02.md |
-| rj2014-10556 | RJ2014/10556 | termo-compromisso | 2015-06-23 | cvm-col-20150623-d9723 | fichas/tc/2015-03.md |
-| rj2014-10556 | RJ2014/10556 | pas | 2017-11-29 | cvm-pas-rj2014-10556 | fichas/pas/2017-04.md |
-| rj2014-10556 | RJ2014/10556 | acordao-crsfn | 2018-10-18 | crsfn-10372-100113-2018-77 | fichas/crsfn/2018-06.md |
-| rj2014-10630 | RJ2014/10630 | termo-compromisso | 2015-09-01 | cvm-col-20150901-d9810 | fichas/tc/2015-03.md |
-| rj2014-10630 | RJ2014/10630 | pas | 2016-12-15 | cvm-pas-rj2014-10630 | fichas/pas/2016-08.md |
-| rj2014-10630 | RJ2014/10630 | acordao-crsfn | 2017-10-25 | crsfn-10372-100199-2017-57 | fichas/crsfn/2017-08.md |
-| rj2014-10859 | RJ2014/10859 | termo-compromisso | 2015-12-01 | cvm-col-20151201-d9959 | fichas/tc/2015-04.md |
-| rj2014-11294 | RJ2014/11294 | termo-compromisso | 2014-12-23 | cvm-col-20141223-d02 | fichas/tc/2014-06.md |
-| rj2014-11413 | RJ2014/11413 | termo-compromisso | 2015-03-03 | cvm-col-20150303-d9322 | fichas/tc/2015-01.md |
-| rj2014-11558 | RJ2014/11558 | pas | 2015-08-11 | cvm-pas-rj2014-11558 | fichas/pas/2015-05.md |
-| rj2014-11648 | RJ2014/11648 | termo-compromisso | 2015-08-04 | cvm-col-20150804-d9781 | fichas/tc/2015-03.md |
-| rj2014-11830 | RJ2014/11830 | termo-compromisso | 2015-09-01 | cvm-col-20150901-d9811 | fichas/tc/2015-03.md |
-| rj2014-11830 | RJ2014/11830 | termo-compromisso | 2016-11-29 | cvm-col-20161129-d9811 | fichas/tc/2016-05.md |
-| rj2014-11830 | RJ2014/11830 | pas | 2016-11-29 | cvm-pas-rj2014-11830 | fichas/pas/2016-07.md |
-| rj2014-12056 | RJ2014/12056 | pas | 2017-12-12 | cvm-pas-rj2014-12056 | fichas/pas/2017-05.md |
-| rj2014-12056 | RJ-2014-12056 | acordao-crsfn | 2020-09-20 | crsfn-10372-100316-2018-63 | fichas/crsfn/2020-05.md |
-| rj2014-12058 | RJ2014/12058 | termo-compromisso | 2015-11-24 | cvm-col-20151124-d9949 | fichas/tc/2015-04.md |
-| rj2014-12058 | RJ2014/12058 | pas | 2016-10-25 | cvm-pas-rj2014-12058 | fichas/pas/2016-05.md |
-| rj2014-12058 | RJ2014/12058 | acordao-crsfn | 2019-03-22 | crsfn-10372-100147-2017-81 | fichas/crsfn/2019-01.md |
-| rj2014-12081 | RJ2014/12081 | pas | 2019-06-18 | cvm-pas-rj2014-12081 | fichas/pas/2019-05.md |
-| rj2014-12081 | RJ2014/12081 | acordao-crsfn | 2022-04-12 | crsfn-10372-100317-2019-99 | fichas/crsfn/2022-02.md |
-| rj2014-12175 | RJ2014/12175 | pas | 2015-06-02 | cvm-pas-rj2014-12175 | fichas/pas/2015-03.md |
-| rj2014-12175 | RJ2014/12175 | acordao-crsfn | 2016-05-31 | crsfn-14336 | fichas/crsfn/2016-02.md |
-| rj2014-12710 | RJ2014/12710 | termo-compromisso | 2015-10-27 | cvm-col-20151027-d9905 | fichas/tc/2015-04.md |
-| rj2014-12710 | RJ2014/12710 | pas | 2017-12-05 | cvm-pas-rj2014-12710 | fichas/pas/2017-04.md |
-| rj2014-12753 | RJ2014/12753 | termo-compromisso | 2016-02-23 | cvm-col-20160223-d0112 | fichas/tc/2016-01.md |
-| rj2014-12753 | RJ2014/12753 | termo-compromisso | 2017-06-06 | cvm-col-20170606-d0112 | fichas/tc/2017-02.md |
-| rj2014-12838 | RJ2014/12838 | pas | 2019-06-25 | cvm-pas-rj2014-12838 | fichas/pas/2019-05.md |
-| rj2014-12838 | RJ2014/12838 | acordao-crsfn | 2023-03-07 | crsfn-10372-100338-2019-12 | fichas/crsfn/2023-02.md |
-| rj2014-12838 | RJ2014/12838 | acordao-crsfn | 2024-05-07 | crsfn-10372-100338-2019-12-2 | fichas/crsfn/2024-03.md |
-| rj2014-12921 | RJ2014/12921 | pas | 2017-02-10 | cvm-pas-rj2014-12921 | fichas/pas/2017-01.md |
-| rj2014-12921 | RJ2014/12921 | acordao-crsfn | 2018-07-24 | crsfn-10372-100205-2017-76 | fichas/crsfn/2018-04.md |
-| rj2014-13043 | RJ2014/13043 | termo-compromisso | 2015-03-24 | cvm-col-20150324-d9608 | fichas/tc/2015-01.md |
-| rj2014-13107 | RJ2014/13107 | termo-compromisso | 2015-05-05 | cvm-col-20150505-d8609 | fichas/tc/2015-02.md |
-| rj2014-13353 | RJ2014/13353 | pas | 2017-12-22 | cvm-pas-rj2014-13353 | fichas/pas/2017-06.md |
-| rj2014-13353 | RJ2014/13353 | acordao-crsfn | 2020-08-25 | crsfn-10372-100295-2018-86 | fichas/crsfn/2020-04.md |
-| rj2014-13353 | RJ2014/13353 | acordao-crsfn | 2020-09-20 | crsfn-edcl-10372-100295-2018-86 | fichas/crsfn/2020-05.md |
-| rj2014-13534 | RJ2014/13534 | termo-compromisso | 2015-11-10 | cvm-col-20151110-d9922 | fichas/tc/2015-04.md |
-| rj2014-13534 | RJ2014/13534 | pas | 2016-07-12 | cvm-pas-rj2014-13534 | fichas/pas/2016-02.md |
-| rj2014-13534 | RJ2014/13534 | acordao-crsfn | 2017-10-25 | crsfn-10372-000115-2017-86 | fichas/crsfn/2017-07.md |
-| rj2014-13581 | RJ2014/13581 | termo-compromisso | 2015-11-24 | cvm-col-20151124-d9950 | fichas/tc/2015-04.md |
-| rj2014-13581 | RJ2014/13581 | pas | 2018-04-03 | cvm-pas-rj2014-13581 | fichas/pas/2018-02.md |
-| rj2014-13581 | RJ-2014-13581 | acordao-crsfn | 2021-12-08 | crsfn-10372-100293-2018-97 | fichas/crsfn/2021-05.md |
-| rj2014-13782 | RJ2014/13782 | termo-compromisso | 2015-03-17 | cvm-col-20150317-d9601 | fichas/tc/2015-01.md |
-| rj2014-13902 | RJ2014/13902 | termo-compromisso | 2016-04-26 | cvm-col-20160426-d0184 | fichas/tc/2016-02.md |
-| rj2014-13902 | RJ2014/13902 | pas | 2018-09-11 | cvm-pas-rj2014-13902 | fichas/pas/2018-07.md |
-| rj2014-13902 | RJ2014/13902 | acordao-crsfn | 2019-04-23 | crsfn-10372-100061-2019-10 | fichas/crsfn/2019-01.md |
-| 19957-001882-2020-10; rj2014-13977 | RJ2014/13977 | termo-compromisso | 2018-05-22 | cvm-col-20180522-d9750 | fichas/tc/2018-03.md |
-| 19957-001882-2020-10; rj2014-13977 | RJ2014/13977; 19957.001882/2020-10; 19957-001882-2020-10 | pas | 2020-01-30 | cvm-pas-19957-001882-2020-10 | fichas/pas/2020-01.md |
-| 19957-001882-2020-10; rj2014-13977 | RJ2014/13977; 19957.001882/2020-10; 19957-001882-2020-10 | acordao-crsfn | 2022-02-08 | crsfn-10372-100171-2020-15 | fichas/crsfn/2022-01.md |
-| 19957-001882-2020-10; rj2014-13977 | RJ2014/13977; 19957.001882/2020-10; 19957-001882-2020-10 | acordao-crsfn | 2023-06-13 | crsfn-10372-100171-2020-15-2 | fichas/crsfn/2023-04.md |
-| rj2014-14074 | RJ2014/14074 | termo-compromisso | 2015-12-01 | cvm-col-20151201-d9468 | fichas/tc/2015-04.md |
-| rj2014-14161 | RJ2014/14161 | termo-compromisso | 2015-12-08 | cvm-col-20151208-d9962 | fichas/tc/2015-05.md |
-| rj2014-14161 | RJ2014/14161 | pas | 2018-12-04 | cvm-pas-rj2014-14161 | fichas/pas/2018-10.md |
-| rj2014-14161 | RJ2014/14161 | acordao-crsfn | 2021-09-15 | crsfn-10372-100231-2019-66 | fichas/crsfn/2021-03.md |
-| rj2014-14161 | RJ2014/14161 | acordao-crsfn | 2022-03-28 | crsfn-edcl-10372-100231-2019-66 | fichas/crsfn/2022-02.md |
-| rj2014-14465 | RJ2014/14465 | termo-compromisso | 2015-10-06 | cvm-col-20151006-d9869 | fichas/tc/2015-03.md |
-| rj2014-14676 | RJ2014/14676 | termo-compromisso | 2016-06-14 | cvm-col-20160614-d9504 | fichas/tc/2016-03.md |
-| rj2014-14760 | RJ2014/14760 | termo-compromisso | 2015-12-08 | cvm-col-20151208-d9963 | fichas/tc/2015-05.md |
-| rj2014-14760 | RJ2014/14760 | termo-compromisso | 2016-03-15 | cvm-col-20160315-d9963 | fichas/tc/2016-01.md |
-| rj2014-14763 | RJ2014/14763 | termo-compromisso | 2015-12-22 | cvm-col-20151222-d9997 | fichas/tc/2015-05.md |
-| rj2014-14763 | RJ2014/14763 | pas | 2018-04-03 | cvm-pas-rj2014-14763 | fichas/pas/2018-03.md |
-| rj2014-14763 | RJ-2014-14763 | acordao-crsfn | 2019-07-23 | crsfn-10372-100343-2018-36 | fichas/crsfn/2019-02.md |
-| rj2014-14839 | RJ2014/14839 | pas | 2016-08-23 | cvm-pas-rj2014-14839 | fichas/pas/2016-03.md |
-| sp2014-0014 | SP2014/0014 | termo-compromisso | 2015-05-19 | cvm-col-20150519-d9651 | fichas/tc/2015-02.md |
-| sp2014-0014 | SP2014/14 | pas | 2017-09-12 | cvm-pas-sp2014-0014 | fichas/pas/2017-03.md |
-| sp2014-0014 | SP-2014-14 | acordao-crsfn | 2019-11-27 | crsfn-10372-100294-2018-31 | fichas/crsfn/2019-03.md |
-| sp2014-0230 | SP2014/230 | pas | 2018-05-29 | cvm-pas-sp2014-0230 | fichas/pas/2018-04.md |
-| sp2014-0230 | SP2014/230 | acordao-crsfn | 2022-11-08 | crsfn-10372-100034-2019-47 | fichas/crsfn/2022-06.md |
-| sp2014-0230 | SP2014/230 | acordao-crsfn | 2023-03-07 | crsfn-10372-100034-2019-47-2 | fichas/crsfn/2023-01.md |
-| sp2014-0382 | SP2014/0382 | termo-compromisso | 2015-11-10 | cvm-col-20151110-d9923 | fichas/tc/2015-04.md |
-| sp2014-0382 | SP2014/382 | pas | 2018-10-09 | cvm-pas-sp2014-0382 | fichas/pas/2018-07.md |
-| sp2014-0383 | SP2014/0383 | pas | 2016-08-02 | cvm-pas-sp2014-0383 | fichas/pas/2016-03.md |
-| sp2014-0383 | SP2014/383 | acordao-crsfn | 2017-07-25 | crsfn-10372-000116-2017-21 | fichas/crsfn/2017-05.md |
-| sp2014-0465 | SP2014/465 | pas | 2018-11-06 | cvm-pas-sp2014-0465 | fichas/pas/2018-09.md |
-| sp2014-0465 | SP2014/465 | acordao-crsfn | 2024-02-07 | crsfn-10372-100310-2019-77 | fichas/crsfn/2024-01.md |
+| Processo (normalizado) | Forma no julgado | Tipo | Data | Ementa | Id | Ficha |
+|---|---|---|---|---|---|---|
+| 01-2014 | 01/2014 | termo-compromisso | 2017-11-14 | O Colegiado aceitou, por unanimidade, nova proposta de TC de investidor acusado de uso de informação privilegiada em ações da Globex… | cvm-col-20171114-d0048 | fichas/tc/2017-05.md |
+| 01-2014 | 01/2014 | pas | 2018-06-19 | Uso de informação privilegiada. Multas. | cvm-pas-01-2014 | fichas/pas/2018-07.md |
+| 01-2014 | 1/2014 | acordao-crsfn | 2020-09-15 | RECURSOS VOLUNTÁRIOS. Uso de informação privilegiada. Insider trading. Prescrição intercorrente. Recursos conhecidos e desprovidos. | crsfn-10372-100450-2018-64 | fichas/crsfn/2020-06.md |
+| 02-2014; 19957-001903-2015-21; 19957-010256-2019-72 | 19957.001903/2015-21; 02/2014; 19957-001903-2015-21 | termo-compromisso | 2017-10-17 | O Colegiado, por unanimidade, rejeitou proposta de termo de compromisso de R$ 100.000,00 de acusado por suposta contribuição a esquema de… | cvm-col-20171017-d0718 | fichas/tc/2017-05.md |
+| 02-2014; 19957-001903-2015-21; 19957-010256-2019-72 | 02/2014; 19957.010256/2019-72; 19957-010256-2019-72 | pas | 2019-12-17 | Ementa : Realização de negócios irregulares no mercado de bolsa com ações preferenciais de emissão do Banco Cruzeiro do Sul S.A… | cvm-pas-19957-010256-2019-72 | fichas/pas/2019-24.md |
+| 02-2014; 19957-001903-2015-21; 19957-010256-2019-72 | 02/2014; 19957.010256/2019-72; 19957-010256-2019-72 | acordao-crsfn | 2023-09-12 | RECURSOS VOLUNTÁRIOS. MANIPULAÇÃO DE PREÇOS. REALIZAÇÃO DE NEGÓCIOS IRREGULARES NO MERCADO DE BOLSA COM AÇÕES PREFERENCIAIS DE EMISSÃO DO… | crsfn-10372-100174-2020-59 | fichas/crsfn/2023-07.md |
+| 02-2014; 19957-001903-2015-21; 19957-010256-2019-72 | 02/2014; 19957.010256/2019-72; 19957-010256-2019-72 | acordao-crsfn | 2024-03-12 | EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE VÍCIOS NO ACÓRDÃO CRSFN 117/2023. Preliminar de suspeição apreciada pela CVM. Inexistência de erro… | crsfn-10372-100174-2020-59-2 | fichas/crsfn/2024-02.md |
+| 04-2014 | 04/2014 | termo-compromisso | 2018-12-11 | O Colegiado aceitou, por unanimidade, proposta de Termo de Compromisso da Geração Futuro Corretora de Valores S.A. e de três diretores… | cvm-col-20181211-d0294 | fichas/tc/2018-07.md |
+| 04-2014 | 04/2014 | pas | 2018-12-26 | Exercício irregular da atividade de administração profissional de carteira de valores mobiliários sem a prévia autorização da CVM. Infração… | cvm-pas-04-2014 | fichas/pas/2018-24.md |
+| 05-2014; 19957-011659-2019-39 | 05/2014; 19957.011659/2019-39; 19957-011659-2019-39 | acordao-crsfn | 2024-05-07 | RECURSOS ADMINISTRATIVOS. CVM. INSIDER TRADING. UTILIZAÇÃO DE INFORMAÇÃO RELEVANTE AINDA NÃO DIVULGADA AO MERCADO EM NEGÓCIOS COM AÇÕES DE… | crsfn-10372-100193-2021-66 | fichas/crsfn/2024-03.md |
+| 06-2014; 19957-011355-2017-18 | 19957.011355/2017-18; 06/2014; 19957-011355-2017-18 | termo-compromisso | 2019-12-03 | Por unanimidade, o Colegiado, acompanhando o Comitê, aceitou oito propostas de termo de compromisso e rejeitou seis no PAS 06/2014… | cvm-col-20191203-d1096 | fichas/tc/2019-07.md |
+| 06-2014; 19957-011355-2017-18 | 19957.011355/2017-18; 06/2014; 19957-011355-2017-18 | termo-compromisso | 2021-09-21 | O Colegiado rejeitou, por unanimidade e acompanhando o Comitê, novas propostas de Termo de Compromisso de três administradores de empresas… | cvm-col-20210921-d1096 | fichas/tc/2021-06.md |
+| 07-2014 | 07/2014 | termo-compromisso | 2019-01-08 | O Colegiado aceitou proposta de Termo de Compromisso de sete proponentes, acompanhando o Comitê, por remuneração de administradores em… | cvm-col-20190108-d0228 | fichas/tc/2019-01.md |
+| 07-2014 | 07/2014 | pas | 2019-03-26 | Descumprimento do dever de diligência no processo de fixação da remuneração dos administradores da Companhia Duke Energy International… | cvm-pas-07-2014 | fichas/pas/2019-04.md |
+| 08-2014; 19957-000059-2014-31; 19957-001575-2020-21 | 19957.000059/2014-31; 08/2014; 19957-000059-2014-31 | termo-compromisso | 2017-09-26 | O Colegiado aceitou, por unanimidade, propostas de TC de nove proponentes, acompanhando o Comitê: pagamentos de R$ 500.000,00 a R$… | cvm-col-20170926-d0692 | fichas/tc/2017-04.md |
+| 08-2014; 19957-000059-2014-31; 19957-001575-2020-21 | 19957.001575/2020-21; 08/2014; 19957-001575-2020-21 | pas | 2020-06-30 | Irregularidades nas condutas de administradores da Companhia Iguaçu de Café Solúvel, diante de indícios de fraude envolvendo uma de suas… | cvm-pas-19957-001575-2020-21 | fichas/pas/2020-06.md |
+| 08-2014; 19957-000059-2014-31; 19957-001575-2020-21 | 08/2014; 19957.001575/2020-21; 19957-001575-2020-21 | acordao-crsfn | 2023-04-11 | RECURSO VOLUNTÁRIO. DEVER DE DILIGÊNCIA. APROVAÇÃO SEM RESSALVAS DE DEMONSTRAÇÕES FINANCEIRAS. Apuração da responsabilidade de membro do… | crsfn-10372-100007-2021-99 | fichas/crsfn/2023-03.md |
+| 09-2014; 19957-000457-2020-03 | 09/2014; 19957.000457/2020-03; 19957-000457-2020-03 | pas | 2019-12-20 | Oferta pública irregular de Contrato de Investimento Coletivo – CIC sem o devido registro na CVM. Infração ao art. 19, c/c o art. 2º, IX… | cvm-pas-19957-000457-2020-03 | fichas/pas/2019-24.md |
+| 10-2014 | 10/2014 | pas | 2019-06-18 | Prática de operação fraudulenta no mercado de valores mobiliários e criação de condições artificiais de manda, oferta ou preço de valores… | cvm-pas-10-2014 | fichas/pas/2019-08.md |
+| 13-2014 | 13/2014 | pas | 2019-11-05 | Ementa : Abuso de poder de controle pelo acionista majoritário das Indústrias Verolme-Ishibrás S/A. Violação a deveres fiduciários por… | cvm-pas-13-2014 | fichas/pas/2019-18.md |
+| 13-2014 | 13/2014 | acordao-crsfn | 2021-06-14 | RECURSOS VOLUNTÁRIOS. Prescrição ordinária afastada por maioria. Contrato de mútuo. Transferência de recursos de companhia em crise sem… | crsfn-10372-100058-2020-30 | fichas/crsfn/2021-02.md |
+| 13-2014 | 13/2014 | acordao-crsfn | 2021-11-09 | EMBARGOS DE DECLARAÇÃO. Inexistência de omissão. Embargos conhecidos e rejeitados. | crsfn-10372-100058-2020-30-2 | fichas/crsfn/2021-05.md |
+| ia2014-0000 | IA14/00 | termo-compromisso | 2004-04-20 | No IA 14/00 (Grupo Arbi S.A. CCTVM), o Colegiado rejeitou as propostas de termo de compromisso apresentadas por dois indiciados… | cvm-col-20040420-d01 | fichas/tc/2004-01.md |
+| rj2014-0027 | RJ2014/0027 | termo-compromisso | 2014-12-02 | O Colegiado, por maioria, aceitou propostas de Termo de Compromisso de um presidente de mesa de assembleia, do BNDES e da BNDESPAR, por… | cvm-col-20141202-d11 | fichas/tc/2014-04.md |
+| rj2014-0027 | RJ2014/0027 | termo-compromisso | 2015-09-01 | O Colegiado, por unanimidade, aceitou nova proposta de termo de compromisso do BNDES e da BNDESPAR no PAS 11/2012, com pagamento de R$… | cvm-col-20150901-d8977 | fichas/tc/2015-03.md |
+| rj2014-0376 | RJ2014/0376 | termo-compromisso | 2015-04-14 | O Colegiado rejeitou proposta de Termo de Compromisso de R$ 200.000,00 do Citibank DTVM e de dois diretores responsáveis pela custódia… | cvm-col-20150414-d9621 | fichas/tc/2015-02.md |
+| rj2014-0413 | RJ2014/0413 | termo-compromisso | 2014-09-23 | O Colegiado aceitou, por unanimidade, a proposta de termo de compromisso apresentada em conjunto pelos administradores da Mendes Júnior… | cvm-col-20140923-d07 | fichas/tc/2014-03.md |
+| rj2014-0577 | RJ2014/0577 | termo-compromisso | 2016-06-14 | O Colegiado rejeitou as três propostas de Termo de Compromisso de administradores da HRT Participações em Petróleo S.A., acusados de… | cvm-col-20160614-d9591 | fichas/tc/2016-03.md |
+| rj2014-0577 | RJ2014/577 | pas | 2017-12-11 | Uso indevido de informação privilegiada. Absolvições. | cvm-pas-rj2014-0577 | fichas/pas/2017-10.md |
+| rj2014-0578 | RJ2014/0578 | pas | 2019-05-27 | Utilização de informações privilegiadas na negociação de ações emissão da da OGX Petróleo e Gás Participações S.A. e da da OSX Brasil S.A… | cvm-pas-rj2014-0578 | fichas/pas/2019-07.md |
+| rj2014-0578 | RJ2014/578 | acordao-crsfn | 2021-12-08 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. RECURSO VOLUNTÁRIO. Uso de informação privilegiada. Manipulação de preços. Recurso conhecido e desprovido. | crsfn-10372-100245-2019-80 | fichas/crsfn/2021-06.md |
+| rj2014-0578 | RJ2014/578 | acordao-crsfn | 2022-04-13 | EMBARGOS DE DECLARAÇÃO. Alegações sobre i) omissão referente à análise da liquidação das garantias; ii) omissão referente à conclusão sobre… | crsfn-edcl-10372-100245-2019-80 | fichas/crsfn/2022-04.md |
+| rj2014-0578 | RJ2014/578 | acordao-crsfn | 2022-05-05 | EMBARGOS DE DECLARAÇÃO. OMISSÃO REFERENTE À ANÁLISE DA LIQUIDAÇÃO DAS GARANTIAS. OMISSÃO REFERENTE À CONCLUSÃO SOBRE A MANIPULAÇÃO DE… | crsfn-10372-100245-2019-80-2 | fichas/crsfn/2022-04.md |
+| rj2014-0591 | RJ2014/591 | pas | 2016-09-27 | Proposta e aprovação em AGE de cláusula estatutária que obriga o acionista que se torne titular de 40% do capital social a realizar uma… | cvm-pas-rj2014-0591 | fichas/pas/2016-07.md |
+| rj2014-0591 | RJ2014/591 | acordao-crsfn | 2018-12-12 | RECURSOS VOLUNTÁRIOS. Conselho de Administração. Estatuto Social. Conflito de interesses. Desvio de poder. Diretor de Relações com… | crsfn-10372-100137-2017-45 | fichas/crsfn/2018-10.md |
+| rj2014-0782 | RJ2014/0782 | termo-compromisso | 2014-10-07 | O Colegiado rejeitou seis propostas de termo de compromisso de administradores da OGX Petróleo e Gás Participações S.A., acompanhando o… | cvm-col-20141007-d01 | fichas/tc/2014-03.md |
+| rj2014-0915 | RJ2014/0915 | termo-compromisso | 2015-11-24 | O Colegiado aceitou a proposta de Termo de Compromisso da Itautec, da Itaúsa e de doze pessoas físicas, acompanhando o Comitê. Caso… | cvm-col-20151124-d9947 | fichas/tc/2015-04.md |
+| rj2014-0918 | RJ2014/918 | pas | 2014-11-04 | Descumprimento do dever de diligência - elaboração e aprovação das demonstrações financeiras em desacordo com as práticas contábeis aceitas… | cvm-pas-rj2014-0918 | fichas/pas/2014-09.md |
+| rj2014-0918 | RJ2014/918 | acordao-crsfn | 2017-12-12 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Companhia aberta. Atualização de Obrigações Financeiras. Necessidade de Observância das Condições… | crsfn-14231 | fichas/crsfn/2017-14.md |
+| rj2014-1020 | RJ2014/1020 | termo-compromisso | 2015-03-17 | O Colegiado rejeitou, por unanimidade, as propostas de termo de compromisso de um acionista controlador e de um diretor de relações com… | cvm-col-20150317-d9600 | fichas/tc/2015-01.md |
+| rj2014-1020 | RJ2014/1020 | pas | 2017-09-12 | Negociação de ações em período vedado pelas normas da CVM – Não envio à CVM de informações sobre negociações realizadas com valores… | cvm-pas-rj2014-1020 | fichas/pas/2017-06.md |
+| rj2014-1020 | RJ2014/1020 | acordao-crsfn | 2021-08-10 | RECURSOS VOLUNTÁRIOS. Nulidades arguidas afastadas. Possibilidade de tratamento das irregularidades em um único processo. Manifestação… | crsfn-10372-100118-2018-08 | fichas/crsfn/2021-03.md |
+| rj2014-1020 | RJ2014/1020 | acordao-crsfn | 2022-12-08 | EMBARGOS DE DECLARAÇÃO. ACÓRDÃO CRSFN 113/2021. ALEGAÇÃO DE OBSCURIDADE, OMISSÃO OU CONTRADIÇÃO. Inexistência de contradição, omissão… | crsfn-10372-100118-2018-08-2 | fichas/crsfn/2022-10.md |
+| rj2014-1442 | RJ2014/1442 | pas | 2015-06-02 | Elaboração de demonstrações financeiras sem observância das regras do Comitê de Pronunciamentos Contábeis. Multas. | cvm-pas-rj2014-1442 | fichas/pas/2015-06.md |
+| rj2014-1442 | RJ2014/1442 | acordao-crsfn | 2016-10-26 | RECURSO VOLUNTÁRIO. Mercado de valores mobiliários. Elaboração das demonstrações financeiras da Companhia relativamente ao exercício social… | crsfn-14366 | fichas/crsfn/2016-09.md |
+| rj2014-1785 | RJ2014/1785 | pas | 2017-12-19 | Utilização indevida de informação privilegiada. Multa. | cvm-pas-rj2014-1785 | fichas/pas/2017-12.md |
+| rj2014-1785 | RJ2014/1785 | acordao-crsfn | 2019-08-27 | RECURSO VOLUNTÁRIO. Negociação de ações mediante uso de informações privilegiadas. Recurso conhecido e provido. | crsfn-10372-100125-2018-00 | fichas/crsfn/2019-03.md |
+| rj2014-2046 | RJ2014/2046 | termo-compromisso | 2014-12-16 | O Colegiado aceitou a proposta de termo de compromisso do proponente, presidente da CVC Brasil Agência e Operadora de Viagens S.A., de… | cvm-col-20141216-d03 | fichas/tc/2014-06.md |
+| rj2014-2050 | RJ2014/2050 | termo-compromisso | 2014-12-09 | O Colegiado rejeitou, por unanimidade, proposta de termo de compromisso de R$ 200.000,00 do diretor de relações com investidores da CCX… | cvm-col-20141209-d07 | fichas/tc/2014-05.md |
+| rj2014-2050 | RJ2014/2050 | pas | 2015-03-18 | Não divulgação de fato relevante. Multa. | cvm-pas-rj2014-2050 | fichas/pas/2015-03.md |
+| rj2014-2050 | RJ-2014-2050 | acordao-crsfn | 2016-12-14 | Recurso Voluntário. Falta de divulgação de fato relevante em face da veiculação de notícias na imprensa informando da renúncia do Diretor… | crsfn-14255 | fichas/crsfn/2016-11.md |
+| rj2014-2099 | RJ2014/2099 | pas | 2016-12-01 | Ausência de segregação de atividades de administração de carteiras das demais atividades exercidas pelo conjunto de empresas do grupo Oboé… | cvm-pas-rj2014-2099 | fichas/pas/2016-13.md |
+| rj2014-2099 | RJ2014/2099 | acordao-crsfn | 2020-06-16 | RECURSOS VOLUNTÁRIOS. Prática de irregularidades na administração de carteiras de fundos de investimento em direitos creditórios por… | crsfn-10372-000126-2017-66 | fichas/crsfn/2020-04.md |
+| rj2014-2314 | RJ2014/2314 | termo-compromisso | 2014-12-09 | O Colegiado rejeitou proposta de Termo de Compromisso de diretor de RI por falta de divulgação de fato relevante sobre tratativas de venda… | cvm-col-20141209-d08 | fichas/tc/2014-05.md |
+| rj2014-2314 | RJ2014/2314 | pas | 2015-10-27 | Normal 0 21 false false false PT-BR X-NONE X-NONE /* Style Definitions */ table.MsoNormalTable {mso-style-name:"Tabela normal"… | cvm-pas-rj2014-2314 | fichas/pas/2015-12.md |
+| rj2014-2314 | RJ-2014-2314 | acordao-crsfn | 2016-08-23 | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Descumprimento do dever legal de divulgar ao mercado Fato Relevante e retardar… | crsfn-14414 | fichas/crsfn/2016-06.md |
+| rj2014-2426 | RJ2014/2426 | pas | 2018-12-04 | Destinação de resultados para reserva de lucros supostamente irregular por membros conselho de administração e pelo acionista controlador… | cvm-pas-rj2014-2426 | fichas/pas/2018-21.md |
+| rj2014-2426 | RJ2014/2426 | acordao-crsfn | 2021-11-09 | RECURSOS VOLUNTÁRIOS. Inocorrência de prescrição intercorrente. Designação de novo relator é ato necessário para o deslinde do processo… | crsfn-10372-100230-2019-11 | fichas/crsfn/2021-05.md |
+| rj2014-2797 | RJ2014/2797 | pas | 2016-09-27 | Exercício ilegal da atividade de administração profissional de carteira de valores mobiliários, sem o devido registro prévio na CVM… | cvm-pas-rj2014-2797 | fichas/pas/2016-08.md |
+| 19957-010705-2019-82; rj2014-3161 | RJ2014/3161 | termo-compromisso | 2015-12-08 | O Colegiado rejeitou propostas de Termo de Compromisso de três instituições e de seus diretores responsáveis pela administração de… | cvm-col-20151208-d9961 | fichas/tc/2015-04.md |
+| 19957-010705-2019-82; rj2014-3161 | 19957.010705/2019-82; RJ2014/3161; 19957-010705-2019-82 | pas | 2020-11-10 | Responsabilidades por eventuais infrações a deveres fiduciários de gestores e administradores de fundos de investimento quando da aquisição… | cvm-pas-19957-010705-2019-82 | fichas/pas/2020-10.md |
+| 19957-010705-2019-82; rj2014-3161 | RJ2014/3161; 19957.010705/2019-82; 19957-010705-2019-82 | acordao-crsfn | 2022-12-08 | RECURSOS VOLUNTÁRIOS. MERCADO DE CAPITAIS. VIOLAÇÃO DA RELAÇÃO FIDUCIÁRIA. NÃO REVELAR SITUAÇÃO DE CONFLITO DE INTERESSE AOS COTISTAS DO… | crsfn-10372-100050-2021-54-2 | fichas/crsfn/2022-09.md |
+| 19957-010705-2019-82; rj2014-3161 | RJ2014/3161; 19957.010705/2019-82; 19957-010705-2019-82 | acordao-crsfn | 2022-12-08 | RECURSOS VOLUNTÁRIOS. MERCADO DE CAPITIAIS. VIOLAÇÃO DA RELAÇÃO FIDUCIÁRIA. NÃO REVELAR SITUAÇÃO DE CONFLITO DE INTERESSE AOS COTISTAS DO… | crsfn-10372-100050-2021-54 | fichas/crsfn/2022-09.md |
+| rj2014-3225 | RJ2014/3225 | pas | 2016-09-13 | Normal 0 21 false false false PT-BR X-NONE X-NONE MicrosoftInternetExplorer4 /* Style Definitions */ table.MsoNormalTable… | cvm-pas-rj2014-3225 | fichas/pas/2016-07.md |
+| rj2014-3225 | RJ2014/3225 | acordao-crsfn | 2017-09-19 | RECURSOS VOLUNTÁRIOS. Insider trading. Negociação de valores mobiliários em posse de informação relevante pendente de divulgação pela… | crsfn-10372-000123-2017-22 | fichas/crsfn/2017-12.md |
+| rj2014-3401 | RJ2014/3401 | pas | 2017-12-05 | Suposto uso de informação privilegiada. Absolvição. | cvm-pas-rj2014-3401 | fichas/pas/2017-09.md |
+| rj2014-3402 | RJ2014/3402 | termo-compromisso | 2016-11-01 | O Colegiado rejeitou a proposta de Termo de Compromisso do proponente, diretor de RI da Petrobras, por omissão de fato relevante sobre… | cvm-col-20161101-d0416 | fichas/tc/2016-05.md |
+| rj2014-3402 | RJ2014/3402 | pas | 2018-12-13 | Não divulgação de fato relevante sobre nova metodologia de precificação de combustíveis em 05.09.2013 pelo diretor de relações com… | cvm-pas-rj2014-3402 | fichas/pas/2018-23.md |
+| rj2014-3402 | RJ2014/3402 | acordao-crsfn | 2020-09-15 | RECURSO VOLUNTÁRIO. Não divulgação de Fato Relevante sobre nova metodologia de precificação de combustíveis pelo diretor de relações com… | crsfn-10372-100232-2019-19 | fichas/crsfn/2020-06.md |
+| rj2014-3423 | RJ2014/3423 | termo-compromisso | 2014-10-07 | O Colegiado rejeitou as quatro propostas de termo de compromisso de administradores da CCX, acusados de omissão ou atraso na divulgação de… | cvm-col-20141007-d02 | fichas/tc/2014-03.md |
+| rj2014-3427 | RJ2014/3427 | termo-compromisso | 2014-11-18 | O Colegiado rejeitou, por unanimidade, proposta de termo de compromisso de R$ 500.000,00 apresentada pelo presidente da Oi S.A. por… | cvm-col-20141118-d06 | fichas/tc/2014-04.md |
+| rj2014-3456 | RJ2014/3456 | termo-compromisso | 2014-12-09 | O Colegiado rejeitou, por unanimidade, três propostas de Termo de Compromisso (de um acusado, de uma corretora e de seu diretor), relativas… | cvm-col-20141209-d02 | fichas/tc/2014-05.md |
+| rj2014-3606 | RJ2014/3606 | termo-compromisso | 2014-11-18 | O Colegiado aceitou, por unanimidade, proposta de termo de compromisso de R$ 200.000,00 apresentada por ex-diretor de RI da Renova Energia… | cvm-col-20141118-d02 | fichas/tc/2014-03.md |
+| rj2014-3616 | RJ2014/3616 | pas | 2018-11-13 | Negociação de valores mobiliários de emissão da PDG Realty S.A. Empreendimentos e Participações de posse de informações relevantes sobre a… | cvm-pas-rj2014-3616 | fichas/pas/2018-19.md |
+| rj2014-3616 | RJ2014/3616 | acordao-crsfn | 2022-04-12 | RECURSOS VOLUNTÁRIOS. NEGOCIAÇÃO DE VALORES MOBILIÁRIOS DE POSSE DE INFORMAÇÕES RELEVANTES SOBRE A SOCIEDADE ANTES DA DIVULGAÇÃO AO… | crsfn-10372-100225-2019-17 | fichas/crsfn/2022-03.md |
+| rj2014-3624 | RJ2014/3624 | termo-compromisso | 2014-12-16 | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou a proposta conjunta de termo de compromisso da gestora de fundo de ações e de… | cvm-col-20141216-d04 | fichas/tc/2014-06.md |
+| rj2014-3624 | RJ2014-3624 | pas | 2017-05-09 | Operações irregulares no mercado de valores mobiliários – Descumprimento do dever de diligência. Multa e suspensão temporária. | cvm-pas-rj2014-3624 | fichas/pas/2017-04.md |
+| rj2014-3814 | RJ2014/3814 | pas | 2014-10-21 | Divulgação intempestiva de fato relevante. Multa.. | cvm-pas-rj2014-3814 | fichas/pas/2014-08.md |
+| rj2014-3814 | RJ2014/3814 | acordao-crsfn | 2017-12-12 | RECURSO VOLUNTÁRIO. Fato Relevante. Divulgação intempestiva. Autoria e materialidade comprovadas. Multa Pecuniária. Recurso não provido. | crsfn-14175 | fichas/crsfn/2017-14.md |
+| rj2014-3839 | RJ2014/3839 | termo-compromisso | 2015-04-14 | O Colegiado rejeitou, por unanimidade, as propostas de termo de compromisso de cinco administradores da Brookfield Incorporações S.A. no… | cvm-col-20150414-d9618 | fichas/tc/2015-02.md |
+| rj2014-3839 | RJ2014/3839 | pas | 2016-12-13 | Irregularidades no preenchimento dos Formulários de Referências. Absolvições e multas pecuniárias. | cvm-pas-rj2014-3839 | fichas/pas/2016-14.md |
+| rj2014-3839 | RJ2014/3839 | acordao-crsfn | 2018-03-21 | RECURSOS VOLUNTÁRIOS. Irregularidades no preenchimento dos Formulários de Referências. Diretor-Presidente e Diretores de Relações com… | crsfn-10372-100196-2017-13 | fichas/crsfn/2018-03.md |
+| rj2014-3919 | RJ2014/3919 | termo-compromisso | 2014-12-16 | O Colegiado, por unanimidade e acompanhando o parecer do Comitê, aceitou a proposta de Termo de Compromisso de oito administradores da… | cvm-col-20141216-d05 | fichas/tc/2014-06.md |
+| rj2014-4077 | RJ2014/4077 | pas | 2019-02-26 | Exercício abusivo do poder de controle, desvio de poder, irregularidades nas demonstrações financeiras divulgadas pela Metalúrgica Duque… | cvm-pas-rj2014-4077 | fichas/pas/2019-04.md |
+| rj2014-4077 | RJ2014/4077 | acordao-crsfn | 2022-02-09 | RECURSOS VOLUNTÁRIOS. IRREGULARIDADES NA ELABORAÇÃO DAS DEMONSTRAÇÕES FINANCEIRAS. ABUSO DE PODER DE CONTROLE. Desvio de poder. Conflito de… | crsfn-10372-100282-2019-98-2 | fichas/crsfn/2022-02.md |
+| rj2014-4077 | RJ2014/4077 | acordao-crsfn | 2022-02-09 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Recurso voluntário. Infrações na elaboração das demonstrações financeiras. Abuso de poder de controle… | crsfn-10372-100282-2019-98 | fichas/crsfn/2022-01.md |
+| rj2014-4395 | RJ2014/4395 | pas | 2015-08-11 | Inobservância das normas contábeis aplicáveis – Não aplicação dos procedimentos de auditoria aprovados. Multas. | cvm-pas-rj2014-4395 | fichas/pas/2015-09.md |
+| rj2014-4395 | RJ2014/4395 | acordao-crsfn | 2017-06-28 | RECURSO VOLUNTÁRIO. Auditor Independente. Parecer de auditoria. Não observação e aplicação dos devidos procedimentos de auditoria. | crsfn-14360 | fichas/crsfn/2017-10.md |
+| rj2014-5099 | RJ2014/5099 | pas | 2016-04-12 | Normal 0 21 false false false PT-BR X-NONE X-NONE MicrosoftInternetExplorer4 /* Style Definitions */ table.MsoNormalTable… | cvm-pas-rj2014-5099 | fichas/pas/2016-02.md |
+| rj2014-5099 | RJ2014/5099 | acordao-crsfn | 2018-08-21 | RECURSOS VOLUNTÁRIOS. Remuneração do Conselho de Administração. Responsabilidade primária do Conselho de Administração de assegurar a… | crsfn-14487 | fichas/crsfn/2018-07.md |
+| rj2014-5102 | RJ2014/5102 | termo-compromisso | 2014-12-16 | O Colegiado aceitou, por unanimidade, proposta conjunta de acionistas controladores e administradores da Energisa S.A., no total de R$… | cvm-col-20141216-d06 | fichas/tc/2014-06.md |
+| rj2014-5478 | RJ2014/5478 | termo-compromisso | 2015-05-05 | O Colegiado, por unanimidade, aceitou proposta de termo de compromisso de R$ 400.000,00 de ex-diretor da Açúcar Guarani S.A. no PAS… | cvm-col-20150505-d9642 | fichas/tc/2015-02.md |
+| rj2014-5807 | RJ2014/5807 | pas | 2016-03-15 | Normal 0 21 false false false PT-BR X-NONE X-NONE MicrosoftInternetExplorer4 /* Style Definitions */ table.MsoNormalTable… | cvm-pas-rj2014-5807 | fichas/pas/2016-01.md |
+| rj2014-5807 | RJ2014/5807 | acordao-crsfn | 2017-04-19 | Recursos Voluntários. Irregularidades nos livros de Registro e de Transferência de Ações. Não ter feito elaborar as demonstrações… | crsfn-10372-000718-2016-05 | fichas/crsfn/2017-06.md |
+| rj2014-6225 | RJ2014/6225 | pas | 2017-04-18 | Não divulgação de fato relevante. Multa e absolvições. | cvm-pas-rj2014-6225 | fichas/pas/2017-02.md |
+| rj2014-6225 | RJ2014/6225 | acordao-crsfn | 2018-07-24 | RECURSO VOLUNTÁRIO. CVM. Companhia aberta. Responsabilidade do DRI. Oscilação atípica de ações. Irregularidade não caracterizada… | crsfn-10372-100240-2017-95 | fichas/crsfn/2018-06.md |
+| rj2014-6283 | RJ2014/6283 | termo-compromisso | 2015-03-31 | O Colegiado aceitou proposta conjunta de Termo de Compromisso de R$ 150.000,00 (R$ 50.000,00 por proponente), diretores da Hercules S.A… | cvm-col-20150331-d9612 | fichas/tc/2015-01.md |
+| rj2014-6283 | RJ2014/6283 | termo-compromisso | 2015-03-31 | O Colegiado aprovou proposta de termo de compromisso de três compromitentes no PAS RJ2014/6283, com pagamento total de R$ 150.000,00 à CVM… | cvm-tc-rj2014-6283-20150331 | fichas/tc/2015-02.md |
+| rj2014-6515 | RJ2014/6515 | pas | 2016-12-15 | Exercício da atividade de administração profissional de carteira de valores mobiliários sem a prévia autorização da CVM. Multa e proibições… | cvm-pas-rj2014-6515 | fichas/pas/2016-16.md |
+| rj2014-6515 | RJ2014/6515 | acordao-crsfn | 2018-03-21 | RECURSOS VOLUNTÁRIOS. Atuação irregular como administrador de carteira de valores mobiliários configurada com base em sólido conjunto… | crsfn-10372-100192-2017-35 | fichas/crsfn/2018-03.md |
+| rj2014-6517 | RJ2014/6517 | pas | 2019-06-25 | Divulgação de fatos relevantes como instrumento de manipulação de preços da OGX Petróleo e Gás Participações S.A. Divulgação de fato… | cvm-pas-rj2014-6517 | fichas/pas/2019-09.md |
+| rj2014-6517 | RJ2014/6517 | acordao-crsfn | 2023-03-07 | RECURSOS VOLUNTÁRIOS. DEVER DE DILIGÊNCIA. NÃO DIVULGAÇÃO DE FATO RELEVANTE. Responsabilidade do Diretor Presidente e do Diretor de… | crsfn-10372-100331-2019-92 | fichas/crsfn/2023-02.md |
+| rj2014-6823 | RJ2014/6823 | termo-compromisso | 2016-06-14 | O Colegiado, acompanhando o Comitê de Termo de Compromisso e por unanimidade, rejeitou as propostas de Termo de Compromisso dos membros do… | cvm-col-20160614-d9211 | fichas/tc/2016-03.md |
+| rj2014-6913 | RJ2014/6913 | termo-compromisso | 2014-12-09 | O Colegiado rejeitou, por unanimidade, proposta de termo de compromisso de R$ 30.000,00, em duas parcelas, de um ex-responsável técnico de… | cvm-col-20141209-d03 | fichas/tc/2014-05.md |
+| rj2014-7072 | RJ2014/7072 | termo-compromisso | 2015-12-15 | O Colegiado rejeitou as propostas de termo de compromisso apresentadas pelos proponentes no PAS RJ2014/7072 (Inepar S.A.), acompanhando o… | cvm-col-20151215-d9984 | fichas/tc/2015-05.md |
+| rj2014-7072 | RJ2014/7072 | termo-compromisso | 2018-03-20 | O Colegiado, por unanimidade, rejeitou propostas de termo de compromisso de cinco membros do conselho fiscal de companhia aberta, que… | cvm-col-20180320-d9984 | fichas/tc/2018-01.md |
+| rj2014-7072 | RJ2014/7072 | pas | 2018-03-27 | Irregularidades contábeis na elaboração das demonstrações financeiras – elaboração das demonstrações financeiras em desacordo com a Lei das… | cvm-pas-rj2014-7072 | fichas/pas/2018-04.md |
+| rj2014-7072 | RJ2014/7072 | acordao-crsfn | 2018-12-11 | RECURSOS VOLUNTÁRIOS. Mercado de valores mobiliários. Irregularidades contábeis na elaboração de demonstrações financeiras. Inobservância… | crsfn-10372-100299-2018-64 | fichas/crsfn/2018-10.md |
+| rj2014-7199 | RJ2014/7199 | termo-compromisso | 2015-04-28 | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, rejeitou proposta de termo de compromisso apresentada pela Etae Auditores… | cvm-col-20150428-d9632 | fichas/tc/2015-02.md |
+| rj2014-7199 | RJ2014/7199 | pas | 2016-11-08 | Inobservância das normas emanadas pelo Conselho Federal de Contabilidade – CFC e dos pronunciamentos técnicos do Instituto Brasileiro de… | cvm-pas-rj2014-7199 | fichas/pas/2016-11.md |
+| rj2014-7199 | RJ2014/7199 | acordao-crsfn | 2018-03-21 | RECURSOS VOLUNTÁRIOS. Auditores Independentes. Inobservância das normas emanadas pelo Conselho Federal de Contabilidade - CFC e dos… | crsfn-10372-100145-2017-91 | fichas/crsfn/2018-02.md |
+| rj2014-7213 | RJ2014/7213 | termo-compromisso | 2015-06-09 | O Colegiado rejeitou, por unanimidade, a proposta conjunta de termo de compromisso de quatro proponentes, diretores da Hopi Hari S.A., no… | cvm-col-20150609-d9682 | fichas/tc/2015-03.md |
+| rj2014-7213 | RJ2014/7213 | termo-compromisso | 2015-11-03 | O Colegiado aceitou, por unanimidade, proposta conjunta de Termo de Compromisso de quatro proponentes, nos termos do voto do relator: R$… | cvm-col-20151103-d9682 | fichas/tc/2015-04.md |
+| rj2014-7351 | RJ2014/7351 | termo-compromisso | 2015-06-09 | O Colegiado rejeitou a proposta conjunta de termo de compromisso da controladora e de quatro administradores, acusados por infrações aos… | cvm-col-20150609-d9683 | fichas/tc/2015-03.md |
+| rj2014-7351 | RJ2014/7351 | pas | 2018-12-18 | Elaboração das demonstrações financeiras da Inepar equipamentos e Montagens S.A., relativas ao exercício social encerrado em 31.12.2013 e… | cvm-pas-rj2014-7351 | fichas/pas/2018-23.md |
+| rj2014-7351 | RJ2014/7351 | acordao-crsfn | 2020-02-11 | RECURSOS VOLUNTÁRIOS. Novo REFIS e realocação de passivo nas demonstrações financeiras. Responsabilidade individual dos diretores pelas… | crsfn-10372-100236-2019-99 | fichas/crsfn/2020-01.md |
+| rj2014-7352 | RJ2014/7352 | pas | 2018-01-16 | Suposta omissão de informações nos Formulários ITRs da companhia. Absolvições. | cvm-pas-rj2014-7352 | fichas/pas/2018-01.md |
+| rj2014-7604 | RJ2014/7604 | termo-compromisso | 2015-07-14 | O Colegiado aceitou as propostas de Termo de Compromisso de seis administradores do Terminal Garagem Menezes Côrtes S.A., acusados por… | cvm-col-20150714-d9766 | fichas/tc/2015-03.md |
+| rj2014-7704 | RJ2014/7704 | pas | 2018-04-03 | Irregularidades apontadas nos trabalhos de revisões externas de qualidade em face das normas de auditoria editadas pelo Conselho Federal de… | cvm-pas-rj2014-7704 | fichas/pas/2018-05.md |
+| rj2014-7704 | RJ-2014-7704 | acordao-crsfn | 2020-11-17 | RECURSO VOLUNTÁRIO. Revisão Externa de Qualidade pelos Pares. Auditor independente. Irregularidades nos trabalhos de revisões externas de… | crsfn-10372-100344-2018-81 | fichas/crsfn/2020-09.md |
+| rj2014-7742 | RJ2014/7742 | termo-compromisso | 2015-05-05 | O Colegiado rejeitou, por unanimidade, propostas de termo de compromisso do Banco Panamericano S.A. e de quatro diretores (de R$ 30.000,00… | cvm-col-20150505-d9229 | fichas/tc/2015-02.md |
+| rj2014-7915 | RJ2014/7915 | termo-compromisso | 2015-05-19 | O Colegiado rejeitou, por unanimidade, as quatro propostas de termo de compromisso (R$ 100.000,00; R$ 350.000,00; R$ 50.000,00; R$… | cvm-col-20150519-d9317 | fichas/tc/2015-02.md |
+| rj2014-8013 | RJ2014/8013 | pas | 2018-08-28 | Exercício abusivo do direito de voto e desvio de poder de administradores da HRT Participações em Petróleo S.A. Infração aos arts. 154… | cvm-pas-rj2014-8013 | fichas/pas/2018-13.md |
+| rj2014-8013 | RJ2014/8013 | acordao-crsfn | 2022-08-09 | RECURSOS VOLUNTÁRIOS. CONSELHO DE ADMINISTRAÇÃO. EXERCÍCIO ABUSIVO DO DIREITO DE VOTO E DESVIO DE PODER DE ADMINISTRADORES DA HRT… | crsfn-10372-100207-2019-27 | fichas/crsfn/2022-06.md |
+| rj2014-8017 | RJ2014/8017 | pas | 2016-11-22 | Não elaboração de demonstrações financeiras – atraso no envio e não envio de informações periódicas – não convocação e não realização de… | cvm-pas-rj2014-8017 | fichas/pas/2016-12.md |
+| rj2014-8017 | RJ2014/8017 | acordao-crsfn | 2017-09-19 | RECURSO VOLUNTÁRIO. Mercado de valores mobiliários. Não elaboração das demonstrações financeiras da Companhia referente ao exercício social… | crsfn-10372-100164-2017-18 | fichas/crsfn/2017-12.md |
+| rj2014-8149 | RJ2014/8149 | pas | 2016-12-15 | Exercício da atividade de administração profissional de carteira de valores mobiliários sem a prévia autorização da CVM. Proibições… | cvm-pas-rj2014-8149 | fichas/pas/2016-16.md |
+| rj2014-8356 | RJ2014/8356 | pas | 2015-08-11 | Exercício da atividade de agente autônomo de investimento sem a devida autorização da CVM. Proibição temporária. | cvm-pas-rj2014-8356 | fichas/pas/2015-09.md |
+| rj2014-8793 | RJ2014-8793 | pas | 2015-07-21 | Normal 0 21 false false false PT-BR X-NONE X-NONE MicrosoftInternetExplorer4 /* Style Definitions */ table.MsoNormalTable… | cvm-pas-rj2014-8793 | fichas/pas/2015-08.md |
+| rj2014-8793 | RJ-2014-8793 | acordao-crsfn | 2017-04-19 | Recursos Voluntários. Deixar de elaborar tempestivamente demonstrações financeiras - Deixar de convocar tempestivamente assembleias gerais… | crsfn-14363 | fichas/crsfn/2017-07.md |
+| rj2014-8814 | RJ2014/8814 | termo-compromisso | 2014-11-04 | O Colegiado rejeitou, por unanimidade, a nova proposta de termo de compromisso de membro do conselho de administração da Ecodiesel, acusado… | cvm-col-20141104-d04 | fichas/tc/2014-03.md |
+| rj2014-8947 | RJ2014/8947 | termo-compromisso | 2015-06-02 | O Colegiado aceitou, por unanimidade, a proposta de termo de compromisso de um diretor de relações com investidores de companhia aberta, no… | cvm-col-20150602-d9661 | fichas/tc/2015-02.md |
+| rj2014-9034 | RJ2014/9034 | termo-compromisso | 2015-07-21 | O Colegiado rejeitou proposta conjunta de Termo de Compromisso de três administradores da Gafisa S.A. (PAS RJ2014/9034; art. 153 da Lei… | cvm-col-20150721-d9771 | fichas/tc/2015-03.md |
+| rj2014-9034 | RJ2014/9034 | termo-compromisso | 2017-09-19 | O Colegiado aceitou, por unanimidade, nova proposta de termo de compromisso de três administradores de companhia aberta, acusados de… | cvm-col-20170919-d9771 | fichas/tc/2017-04.md |
+| rj2014-9399 | RJ2014/9399 | pas | 2017-02-07 | Inobservância das normas emanadas pelo Conselho Federal de Contabilidade – Multas. | cvm-pas-rj2014-9399 | fichas/pas/2017-01.md |
+| rj2014-9399 | RJ2014/9399 | acordao-crsfn | 2019-05-28 | RECURSOS VOLUNTÁRIOS. Descumprimento dos itens 1, 2, 4 e 12 da NBC T 11-IT-02. Infringência ao art. 20 da Instrução CVM 308/99 configurada… | crsfn-10372-100254-2017-17 | fichas/crsfn/2019-01.md |
+| rj2014-9501 | RJ2014/9501 | termo-compromisso | 2015-07-21 | O Colegiado aceitou proposta de termo de compromisso do proponente, diretor de RI da Eneva S.A., por descumprimento do art. 4º, parágrafo… | cvm-col-20150721-d9772 | fichas/tc/2015-03.md |
+| rj2014-9695 | RJ2014/9695 | termo-compromisso | 2015-12-15 | O Colegiado aceitou proposta de Termo de Compromisso de três diretores da Ideiasnet S.A., acompanhando o Comitê, com pagamento conjunto de… | cvm-col-20151215-d9985 | fichas/tc/2015-05.md |
+| rj2014-9909 | RJ2014/9909 | termo-compromisso | 2015-08-18 | O Colegiado aceitou proposta de termo de compromisso de um conselheiro de administração de companhia aberta, previamente à instauração de… | cvm-col-20150818-d9791 | fichas/tc/2015-03.md |
+| rj2014-9918 | RJ2014/9918 | termo-compromisso | 2015-03-24 | O Colegiado aceitou, acompanhando o parecer do Comitê, proposta de Termo de Compromisso de R$ 150.000,00 apresentada por membro do Conselho… | cvm-col-20150324-d9607 | fichas/tc/2015-01.md |
+| rj2014-9919 | RJ2014/9919 | termo-compromisso | 2015-06-02 | O Colegiado aceitou, por unanimidade, a proposta de termo de compromisso de um diretor de relações com investidores da Magnesita… | cvm-col-20150602-d9662 | fichas/tc/2015-02.md |
+| rj2014-9994 | RJ2014/9994 | termo-compromisso | 2016-05-17 | O Colegiado aceitou, por unanimidade, proposta de termo de compromisso de R$ 150.000,00 apresentada por acionista do bloco de controle da… | cvm-col-20160517-d0207 | fichas/tc/2016-02.md |
+| 19957-003266-2017-90; 19957-006033-2016-68; 19957-008081-2016-91; 19957-008163-2016-35; 19957-009428-2016-12; rj2014-10013; rj2014-12721; rj2015-1824; rj2015-4723; rj2016-7233; rj2016-8347; rj2016-9281; rj2017-1239 | 19957.006033/2016-68; RJ2016/7233; 19957.008081/2016-91; RJ2016/8347; 19957.009428/2016-12; RJ2016/9281; 19957.003266/2017-90; RJ2017/1239; 19957.008163/2016-35; RJ2014/12721; RJ2014/10013; RJ2015/1824; RJ2015/4723; 19957-006033-2016-68 | termo-compromisso | 2017-09-05 | O Colegiado aceitou as propostas de termo de compromisso de oito processos de oferta irregular de condo-hotéis e a da Hotelaria Accor no… | cvm-col-20170905-d0773 | fichas/tc/2017-04.md |
+| rj2014-10060 | RJ2014/10060 | pas | 2015-11-10 | Voto de acionista nas deliberações de assembleia geral relativas à aprovação de suas contas como administrador – descumprimento de… | cvm-pas-rj2014-10060 | fichas/pas/2015-12.md |
+| rj2014-10060 | RJ2014-10060 | acordao-crsfn | 2017-06-27 | RECURSO VOLUNTÁRIO. Cias Abertas - Abuso de controle, votação ou irregularidade em Assembleia – Aprovação de contas dos administradores… | crsfn-14405 | fichas/crsfn/2017-09.md |
+| rj2014-10082 | RJ2014/10082 | termo-compromisso | 2015-11-24 | O Colegiado rejeitou proposta de termo de compromisso de ex-diretor presidente acusado de infração ao dever de sigilo sobre informação não… | cvm-col-20151124-d9948 | fichas/tc/2015-04.md |
+| rj2014-10082 | RJ2014/10082 | pas | 2017-03-07 | . Descumprimento do dever de sigilo. Absolvição. | cvm-pas-rj2014-10082 | fichas/pas/2017-02.md |
+| rj2014-10290 | RJ2014/10290 | pas | 2017-06-13 | Utilização indevida de informação privilegiada. Multas. | cvm-pas-rj2014-10290 | fichas/pas/2017-05.md |
+| rj2014-10290 | RJ2014/10290 | acordao-crsfn | 2018-08-22 | RECURSOS VOLUNTÁRIOS. Utilização indevida de informação privilegiada. Infração ao disposto no art. 155, §1º, da Lei nº 6.404/76, combinado… | crsfn-10372-100292-2017-61 | fichas/crsfn/2018-07.md |
+| rj2014-10290 | RJ2014/10290 | acordao-crsfn | 2018-12-12 | Embargos de Declaração no Recurso Voluntário. Utilização de voto de qualidade em desfavor dos Embargantes. Não conhecimento. | crsfn-edcl-10372-100292-2017-61 | fichas/crsfn/2018-11.md |
+| rj2014-10384 | RJ2014/10384 | termo-compromisso | 2015-04-07 | O Colegiado aceitou proposta de termo de compromisso apresentada em conjunto por dois acionistas de GPC Participações S.A. no PAS… | cvm-col-20150407-d9304 | fichas/tc/2015-02.md |
+| rj2014-10556 | RJ2014/10556 | termo-compromisso | 2015-06-23 | O Colegiado rejeitou a proposta conjunta de termo de compromisso dos dois proponentes, acusados por infração ao art. 115, § 1º, da Lei… | cvm-col-20150623-d9723 | fichas/tc/2015-03.md |
+| rj2014-10556 | RJ2014/10556 | pas | 2017-11-29 | Apurar eventual responsabilidade de acionistas e membros do Conselho de Administração da Forjas Taurus S.A. pelo descumprimento do disposto… | cvm-pas-rj2014-10556 | fichas/pas/2017-09.md |
+| rj2014-10556 | RJ2014/10556 | acordao-crsfn | 2018-10-18 | RECURSO VOLUNTÁRIO. Exercício ilegal do direito de voto do administrador pela suspensão da deliberação sobre as contas dos administradores… | crsfn-10372-100113-2018-77 | fichas/crsfn/2018-08.md |
+| rj2014-10630 | RJ2014/10630 | termo-compromisso | 2015-09-01 | O Colegiado rejeitou proposta conjunta de termo de compromisso de três membros do conselho de administração da Dinâmica Energia S.A… | cvm-col-20150901-d9810 | fichas/tc/2015-03.md |
+| rj2014-10630 | RJ2014/10630 | pas | 2016-12-15 | Inobservância da regra de rotatividade de auditores. Multas. | cvm-pas-rj2014-10630 | fichas/pas/2016-16.md |
+| rj2014-10630 | RJ2014/10630 | acordao-crsfn | 2017-10-25 | RECURSOS VOLUNTÁRIOS. Auditoria Independente. Rodízio de Auditores. Recurso conhecido e desprovido. | crsfn-10372-100199-2017-57 | fichas/crsfn/2017-13.md |
+| rj2014-10859 | RJ2014/10859 | termo-compromisso | 2015-12-01 | Apreciação de proposta de termo de compromisso. PAS RJ2014/10859. | cvm-col-20151201-d9959 | fichas/tc/2015-04.md |
+| rj2014-11294 | RJ2014/11294 | termo-compromisso | 2014-12-23 | O Colegiado rejeitou as propostas de termo de compromisso, de R$ 120.000,00 cada, apresentadas por dois diretores de Varejo do Banco do… | cvm-col-20141223-d02 | fichas/tc/2014-06.md |
+| rj2014-11413 | RJ2014/11413 | termo-compromisso | 2015-03-03 | O Colegiado, por unanimidade, rejeitou proposta de termo de compromisso de R$ 50.000,00 apresentada por membro do conselho de administração… | cvm-col-20150303-d9322 | fichas/tc/2015-01.md |
+| rj2014-11558 | RJ2014/11558 | pas | 2015-08-11 | Exercício irregular de administrador profissional de carteira de valores mobiliários sem a prévia autorização da CVM. Proibição temporária. | cvm-pas-rj2014-11558 | fichas/pas/2015-09.md |
+| rj2014-11648 | RJ2014/11648 | termo-compromisso | 2015-08-04 | O Colegiado aceitou proposta conjunta de Termo de Compromisso de três sócios e responsáveis técnicos da BDO Auditores Independentes por… | cvm-col-20150804-d9781 | fichas/tc/2015-03.md |
+| rj2014-11830 | RJ2014/11830 | termo-compromisso | 2015-09-01 | O Colegiado rejeitou, por unanimidade, proposta de termo de compromisso da KPMG Auditores Independentes e de dois responsáveis técnicos, de… | cvm-col-20150901-d9811 | fichas/tc/2015-03.md |
+| rj2014-11830 | RJ2014/11830 | termo-compromisso | 2016-11-29 | O Colegiado rejeitou por unanimidade nova proposta de Termo de Compromisso da KPMG e de dois responsáveis técnicos, em PAS instaurado pela… | cvm-col-20161129-d9811 | fichas/tc/2016-05.md |
+| rj2014-11830 | RJ2014/11830 | pas | 2016-11-29 | Inobservância das normas emanadas do Conselho Federal de Contabilidade e dos Pronunciamentos Técnicos do IBRACON. Ausência de procedimentos… | cvm-pas-rj2014-11830 | fichas/pas/2016-13.md |
+| rj2014-12056 | RJ2014/12056 | pas | 2017-12-12 | Elaboração das demonstrações financeiras em desacordo com as normas contábeis vigentes. Multas. | cvm-pas-rj2014-12056 | fichas/pas/2017-10.md |
+| rj2014-12056 | RJ-2014-12056 | acordao-crsfn | 2020-09-20 | RECURSOS VOLUNTÁRIOS. Falta de diligência dos administradores de companhia aberta na realização das demonstrações financeiras e de seus… | crsfn-10372-100316-2018-63 | fichas/crsfn/2020-07.md |
+| rj2014-12058 | RJ2014/12058 | termo-compromisso | 2015-11-24 | O Colegiado, acompanhando o parecer do Comitê, rejeitou proposta de Termo de Compromisso de uma sociedade de auditoria e seu responsável… | cvm-col-20151124-d9949 | fichas/tc/2015-04.md |
+| rj2014-12058 | RJ2014/12058 | pas | 2016-10-25 | Emissão de relatórios de auditoria sem ressalva. Multa. | cvm-pas-rj2014-12058 | fichas/pas/2016-09.md |
+| rj2014-12058 | RJ2014/12058 | acordao-crsfn | 2019-03-22 | RECURSOS VOLUNTÁRIOS. Emissão de parecer sem ressalva em dois exercícios consecutivos onde dividendos antecipados foram incorretamente… | crsfn-10372-100147-2017-81 | fichas/crsfn/2019-01.md |
+| rj2014-12081 | RJ2014/12081 | pas | 2019-06-18 | Prática de operação fraudulenta no mercado de valores mobiliários. Descumprimento do dever de diligência. Descumprimento do dever de… | cvm-pas-rj2014-12081 | fichas/pas/2019-08.md |
+| rj2014-12081 | RJ2014/12081 | acordao-crsfn | 2022-04-12 | RECURSOS VOLUNTÁRIOS. PRÁTICA DE OPERAÇÃO FRAUDULENTA NO MERCADO DE VALORES MOBILIÁRIOS. Falta com o dever de diligência. Falhas na… | crsfn-10372-100317-2019-99 | fichas/crsfn/2022-03.md |
+| rj2014-12175 | RJ2014/12175 | pas | 2015-06-02 | Atuação irregular como administrador de carteira de valores mobiliários. Multa e inabilitação temporária. | cvm-pas-rj2014-12175 | fichas/pas/2015-06.md |
+| rj2014-12175 | RJ2014/12175 | acordao-crsfn | 2016-05-31 | RECURSOS VOLUNTÁRIOS – Mercado de valores mobiliários - Atuação irregular como administrador de carteira de valores mobiliários – Ilícito… | crsfn-14336 | fichas/crsfn/2016-03.md |
+| rj2014-12710 | RJ2014/12710 | termo-compromisso | 2015-10-27 | O Colegiado rejeitou proposta de Termo de Compromisso de R$ 100.000,00 de administrador da CCX Carvão da Colômbia S.A. por infrações a… | cvm-col-20151027-d9905 | fichas/tc/2015-04.md |
+| rj2014-12710 | RJ2014/12710 | pas | 2017-12-05 | Divulgação intempestiva, ou incompleta, de fato relevante – não divulgação de fato relevante – suposto descumprimento do dever de informar… | cvm-pas-rj2014-12710 | fichas/pas/2017-09.md |
+| rj2014-12753 | RJ2014/12753 | termo-compromisso | 2016-02-23 | O Colegiado rejeitou, por unanimidade, as propostas de Termo de Compromisso de sete administradores da Rossi Residencial S.A., acompanhando… | cvm-col-20160223-d0112 | fichas/tc/2016-01.md |
+| rj2014-12753 | RJ2014/12753 | termo-compromisso | 2017-06-06 | O Colegiado, por unanimidade, aceitou nova proposta de termo de compromisso de sete administradores da Rossi Residencial S.A., no total de… | cvm-col-20170606-d0112 | fichas/tc/2017-02.md |
+| rj2014-12838 | RJ2014/12838 | pas | 2019-06-25 | Ementa : Omissão de informações relevantes para a compreensão da situação financeira e patrimonial da OGX Petróleo e Gás Participações S.A… | cvm-pas-rj2014-12838 | fichas/pas/2019-09.md |
+| rj2014-12838 | RJ2014/12838 | acordao-crsfn | 2023-03-07 | RECURSOS VOLUNTÁRIOS. OMISSÃO DE INFORMAÇÕES RELEVANTES. SITUAÇÃO FINANCEIRA E PATRIMONIAL DA OGX PETRÓLEO E GÁS PARTICIPAÇÕES S.A… | crsfn-10372-100338-2019-12 | fichas/crsfn/2023-02.md |
+| rj2014-12838 | RJ2014/12838 | acordao-crsfn | 2024-05-07 | EMBARGOS DE DECLARAÇÃO. ALEGADA OMISSÃO NO ACÓRDÃO CRSFN 32/2023. ALEGAÇÃO de PRESCRIÇÃO DO DIREITO REPARATÓRIO DAS CONDUTAS APURADAS NOS… | crsfn-10372-100338-2019-12-2 | fichas/crsfn/2024-03.md |
+| rj2014-12921 | RJ2014/12921 | pas | 2017-02-10 | Exercício da atividade de administração profissional de carteira de valores mobiliários sem a prévia autorização da CVM – Prática de… | cvm-pas-rj2014-12921 | fichas/pas/2017-01.md |
+| rj2014-12921 | RJ2014/12921 | acordao-crsfn | 2018-07-24 | RECURSO VOLUNTÁRIO. CVM. Operação fraudulenta. Prática de churning. Instrução CVM n° 08/79. Recurso parcialmente provido. | crsfn-10372-100205-2017-76 | fichas/crsfn/2018-06.md |
+| rj2014-13043 | RJ2014/13043 | termo-compromisso | 2015-03-24 | O Colegiado aceitou proposta de termo de compromisso apresentada pelo proponente, previamente à instauração de PAS pela SRE, acompanhando o… | cvm-col-20150324-d9608 | fichas/tc/2015-01.md |
+| rj2014-13107 | RJ2014/13107 | termo-compromisso | 2015-05-05 | O Colegiado rejeitou as propostas de termo de compromisso de nove proponentes no PAS 14/2010, sobre negócios em mercados futuros da BM&F em… | cvm-col-20150505-d8609 | fichas/tc/2015-02.md |
+| rj2014-13353 | RJ2014/13353 | pas | 2017-12-22 | EMENTA: Práticas não equitativas no mercado de valores mobiliários – Absolvições, multas pecuniárias, inabilitação e proibição temporárias. | cvm-pas-rj2014-13353 | fichas/pas/2017-13.md |
+| rj2014-13353 | RJ2014/13353 | acordao-crsfn | 2020-08-25 | RECURSOS VOLUNTÁRIOS. Práticas não equitativas no mercado de valores mobiliários. Recursos conhecido e não providos. | crsfn-10372-100295-2018-86 | fichas/crsfn/2020-05.md |
+| rj2014-13353 | RJ2014/13353 | acordao-crsfn | 2020-09-20 | EMBARGOS DE DECLARAÇÃO. Alegação de omissão quanto à alegação de cerceamento de defesa e outros argumentos. Embargos conhecidos e… | crsfn-edcl-10372-100295-2018-86 | fichas/crsfn/2020-07.md |
+| rj2014-13534 | RJ2014/13534 | termo-compromisso | 2015-11-10 | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou proposta conjunta de Termo de Compromisso de duas sociedades de auditoria… | cvm-col-20151110-d9922 | fichas/tc/2015-04.md |
+| rj2014-13534 | RJ2014/13534 | pas | 2016-07-12 | Normal 0 21 false false false PT-BR X-NONE X-NONE MicrosoftInternetExplorer4 /* Style Definitions */ table.MsoNormalTable… | cvm-pas-rj2014-13534 | fichas/pas/2016-03.md |
+| rj2014-13534 | RJ2014/13534 | acordao-crsfn | 2017-10-25 | RECURSOS VOLUNTÁRIOS. CVM. Auditoria Independente. Descumprimento da regra de rotatividade de auditores independentes. Recursos Voluntários… | crsfn-10372-000115-2017-86 | fichas/crsfn/2017-13.md |
+| rj2014-13581 | RJ2014/13581 | termo-compromisso | 2015-11-24 | O Colegiado rejeitou proposta conjunta de Termo de Compromisso de R$ 13.000,00 por proponente (R$ 26.000,00 no total), apresentada pela… | cvm-col-20151124-d9950 | fichas/tc/2015-04.md |
+| rj2014-13581 | RJ2014/13581 | pas | 2018-04-03 | Inobservâncias das normas contábeis emanadas pelo Conselho Federal de Contabilidade. Multas. | cvm-pas-rj2014-13581 | fichas/pas/2018-04.md |
+| rj2014-13581 | RJ-2014-13581 | acordao-crsfn | 2021-12-08 | RECURSOS VOLUNTÁRIOS. Reconhecimento contábil de ativo fiscal contingente. Matéria sujeita a decisão judicial definitiva com transito em… | crsfn-10372-100293-2018-97 | fichas/crsfn/2021-06.md |
+| rj2014-13782 | RJ2014/13782 | termo-compromisso | 2015-03-17 | O Colegiado, por maioria, vencido um diretor, rejeitou proposta de termo de compromisso de R$ 20.000,00 apresentada por integrante do grupo… | cvm-col-20150317-d9601 | fichas/tc/2015-01.md |
+| rj2014-13902 | RJ2014/13902 | termo-compromisso | 2016-04-26 | O Colegiado aceitou a proposta de termo de compromisso da Bancoob DTVM (R$ 750.000,00) e rejeitou as propostas de dois diretores… | cvm-col-20160426-d0184 | fichas/tc/2016-02.md |
+| rj2014-13902 | RJ2014/13902 | pas | 2018-09-11 | Apurar a responsabilidade de instituição administradora de carteiras de valores mobiliários, bem como de seus respectivos diretores… | cvm-pas-rj2014-13902 | fichas/pas/2018-14.md |
+| rj2014-13902 | RJ2014/13902 | acordao-crsfn | 2019-04-23 | RECURSO VOLUNTÁRIO. Não ocorrência de prescrição, ordinária e intercorrente, e de nulidade da decisão recorrida. Afastamento das… | crsfn-10372-100061-2019-10 | fichas/crsfn/2019-01.md |
+| 19957-001882-2020-10; rj2014-13977 | RJ2014/13977 | termo-compromisso | 2018-05-22 | O Colegiado, por unanimidade, acompanhando o voto do relator, rejeitou três novas propostas de termo de compromisso, de R$ 150.000,00 cada… | cvm-col-20180522-d9750 | fichas/tc/2018-03.md |
+| 19957-001882-2020-10; rj2014-13977 | RJ2014/13977; 19957.001882/2020-10; 19957-001882-2020-10 | pas | 2020-01-30 | Responsabilidade de administradores e fiscais da companhia Forjas Taurus por irregularidades relacionadas à venda de sociedade controlada e… | cvm-pas-19957-001882-2020-10 | fichas/pas/2020-01.md |
+| 19957-001882-2020-10; rj2014-13977 | RJ2014/13977; 19957.001882/2020-10; 19957-001882-2020-10 | acordao-crsfn | 2022-02-08 | RECURSOS VOLUNTÁRIOS. Fraude em operação de venda de controlada. Materialidade configurada. Parcial provimento aos recursos dos… | crsfn-10372-100171-2020-15 | fichas/crsfn/2022-01.md |
+| 19957-001882-2020-10; rj2014-13977 | RJ2014/13977; 19957.001882/2020-10; 19957-001882-2020-10 | acordao-crsfn | 2023-06-13 | EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÃO OU CONTRADIÇÃO NO ACÓRDÃO CRSFN 23/2022. Omissão ou contradição não configuradas. Não cabimento… | crsfn-10372-100171-2020-15-2 | fichas/crsfn/2023-05.md |
+| rj2014-14074 | RJ2014/14074 | termo-compromisso | 2015-12-01 | O Colegiado rejeitou seis propostas de Termo de Compromisso de administradores da OGX Petróleo e Gás Participações S.A. por divulgação… | cvm-col-20151201-d9468 | fichas/tc/2015-04.md |
+| rj2014-14161 | RJ2014/14161 | termo-compromisso | 2015-12-08 | O Colegiado, acompanhando o Comitê, rejeitou propostas de Termo de Compromisso de R$ 10.000,00 cada de dois administradores da RJCP Equity… | cvm-col-20151208-d9962 | fichas/tc/2015-05.md |
+| rj2014-14161 | RJ2014/14161 | pas | 2018-12-04 | Obstrução dos trabalhos do conselho fiscal e omissão na divulgação de fato relevante da RJCP Equity S.A. Infração ao art. 154 da Lei nº… | cvm-pas-rj2014-14161 | fichas/pas/2018-21.md |
+| rj2014-14161 | RJ2014/14161 | acordao-crsfn | 2021-09-15 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Obstrução aos trabalhos do Conselho Fiscal. Infração caracterizada. Omissão de publicação de fato… | crsfn-10372-100231-2019-66 | fichas/crsfn/2021-05.md |
+| rj2014-14161 | RJ2014/14161 | acordao-crsfn | 2022-03-28 | EMBARGOS DE DECLARAÇÃO. Reconhecimento da tempestividade. Obscuridades referentes à utilização de precedentes para a dosimetria não… | crsfn-edcl-10372-100231-2019-66 | fichas/crsfn/2022-02.md |
+| rj2014-14465 | RJ2014/14465 | termo-compromisso | 2015-10-06 | O Colegiado aceitou proposta de Termo de Compromisso do conselheiro de administração da Estácio Participações S.A., com pagamentos de R$… | cvm-col-20151006-d9869 | fichas/tc/2015-03.md |
+| rj2014-14676 | RJ2014/14676 | termo-compromisso | 2016-06-14 | O Colegiado rejeitou, por unanimidade, as propostas de Termo de Compromisso de administradores da HRT Participações em Petróleo S.A. em PAS… | cvm-col-20160614-d9504 | fichas/tc/2016-03.md |
+| rj2014-14760 | RJ2014/14760 | termo-compromisso | 2015-12-08 | O Colegiado rejeitou proposta de termo de compromisso de auditora independente acusada de descumprir o art. 31 da Instrução CVM 308/1999 em… | cvm-col-20151208-d9963 | fichas/tc/2015-05.md |
+| rj2014-14760 | RJ2014/14760 | termo-compromisso | 2016-03-15 | O Colegiado, por maioria, aceitou proposta de termo de compromisso da Loudon Blomquist Auditores Independentes no PAS RJ2014/14760, de R$… | cvm-col-20160315-d9963 | fichas/tc/2016-01.md |
+| rj2014-14763 | RJ2014/14763 | termo-compromisso | 2015-12-22 | O Colegiado rejeitou proposta de Termo de Compromisso de R$ 5.000,00 da Loudon Blomquist Auditores Independentes e de seu responsável… | cvm-col-20151222-d9997 | fichas/tc/2015-05.md |
+| rj2014-14763 | RJ2014/14763 | pas | 2018-04-03 | Irregularidades apontadas nos trabalhos de revisões externas de qualidade em face das normas de auditoria editadas pelo Conselho Federal de… | cvm-pas-rj2014-14763 | fichas/pas/2018-05.md |
+| rj2014-14763 | RJ-2014-14763 | acordao-crsfn | 2019-07-23 | RECURSO VOLUNTÁRIO. Auditoria. Irregularidades apontadas nos trabalhos de revisões externas de qualidade em face das normas de auditoria… | crsfn-10372-100343-2018-36 | fichas/crsfn/2019-02.md |
+| rj2014-14839 | RJ2014/14839 | pas | 2016-08-23 | Inobservância das normas de auditoria emanadas do Conselho Federal de Contabilidade e dos procedimentos técnicos do Instituto Brasileiro de… | cvm-pas-rj2014-14839 | fichas/pas/2016-06.md |
+| sp2014-0014 | SP2014/0014 | termo-compromisso | 2015-05-19 | O Colegiado rejeitou as propostas de termo de compromisso apresentadas pelos quatro proponentes, acompanhando o parecer do Comitê, que… | cvm-col-20150519-d9651 | fichas/tc/2015-02.md |
+| sp2014-0014 | SP2014/14 | pas | 2017-09-12 | Exercício irregular das atividades de agente autônomo de investimento e de administração de carteira de valores mobiliários… | cvm-pas-sp2014-0014 | fichas/pas/2017-06.md |
+| sp2014-0014 | SP-2014-14 | acordao-crsfn | 2019-11-27 | RECURSO VOLUNTÁRIO. Utilização de pessoas não integrantes do sistema de distribuição de valores mobiliários nas atividades próprias dos… | crsfn-10372-100294-2018-31 | fichas/crsfn/2019-04.md |
+| sp2014-0230 | SP2014/230 | pas | 2018-05-29 | Criação de condições artificiais de demanda, oferta e preço no mercado de valores mobiliários. Multas. | cvm-pas-sp2014-0230 | fichas/pas/2018-07.md |
+| sp2014-0230 | SP2014/230 | acordao-crsfn | 2022-11-08 | RECURSOS VOLUNTÁRIOS. CRIAÇÃO DE CONDIÇÕES ARTIFICIAIS DE DEMANDA, OFERTA E PREÇO NO MERCADO DE VALORES MOBILIÁRIOS. INFRAÇÃO À INSTRUÇÃO… | crsfn-10372-100034-2019-47 | fichas/crsfn/2022-07.md |
+| sp2014-0230 | SP2014/230 | acordao-crsfn | 2023-03-07 | EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÕES E OBSCURIDADES NO ACÓRDÃO CRSFN 161/2022. As questões levantadas pelos Embargantes foram… | crsfn-10372-100034-2019-47-2 | fichas/crsfn/2023-01.md |
+| sp2014-0382 | SP2014/0382 | termo-compromisso | 2015-11-10 | O Colegiado rejeitou proposta de Termo de Compromisso de R$ 20.000,00 de proponente acusado de administração de carteira sem autorização… | cvm-col-20151110-d9923 | fichas/tc/2015-04.md |
+| sp2014-0382 | SP2014/382 | pas | 2018-10-09 | Administração de carteira de valores sem autorização prévia da CVM e operação fraudulenta. Infração ao art. 23 da Lei nº 6.385/76 c/c o… | cvm-pas-sp2014-0382 | fichas/pas/2018-15.md |
+| sp2014-0383 | SP2014/0383 | pas | 2016-08-02 | Não exercício das atividades da Corretora com boa-fé, diligência e lealdade para com o cliente e falta de informações sobre o produto… | cvm-pas-sp2014-0383 | fichas/pas/2016-05.md |
+| sp2014-0383 | SP2014/383 | acordao-crsfn | 2017-07-25 | RECURSOS VOLUNTÁRIOS. Corretora de Títulos e Valores Mobiliários. Não agir de boa fé, privilegiando seu próprio interesse em detrimento de… | crsfn-10372-000116-2017-21 | fichas/crsfn/2017-10.md |
+| sp2014-0465 | SP2014/465 | pas | 2018-11-06 | Suposta prática de administração de carteira de valores mobiliários sem a prévia autorização da CVM e prática de operação fraudulenta… | cvm-pas-sp2014-0465 | fichas/pas/2018-18.md |
+| sp2014-0465 | SP2014/465 | acordao-crsfn | 2024-02-07 | RECURSO ADMINISTRATIVO. CVM. PRÁTICA DE OPERAÇÃO FRAUDULENTA NO MERCADO DE VALORES MOBILIÁRIOS. NEGOCIAÇÕES EXCESSIVAS DE ATIVOS. COBRANÇA… | crsfn-10372-100310-2019-77 | fichas/crsfn/2024-01.md |
 
 Fim do subíndice.

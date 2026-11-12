@@ -18,11 +18,11 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | RJ-2005-3304 | 2010-07-28 | absolvicao | crsfn-10851 | fichas/crsfn/2010-05.md |
+| acordao-crsfn | RJ-2005-3304 | 2010-07-28 | absolvicao | crsfn-10851 | fichas/crsfn/2010-06.md |
 | acordao-crsfn | 02-7539 | 2008-04-28 | parcial | crsfn-5590 | fichas/crsfn/2008-02.md |
 | pas | RJ2007/0974 | 2008-01-16 | parcial | cvm-pas-rj2007-0974 | fichas/pas/2008-01.md |
-| pas | SP2004/0193 | 2007-09-04 | condenacao | cvm-pas-sp2004-0193 | fichas/pas/2007-06.md |
-| pas | RJ2005/3304 | 2006-05-30 | parcial | cvm-pas-rj2005-3304 | fichas/pas/2006-06.md |
+| pas | SP2004/0193 | 2007-09-04 | condenacao | cvm-pas-sp2004-0193 | fichas/pas/2007-12.md |
+| pas | RJ2005/3304 | 2006-05-30 | parcial | cvm-pas-rj2005-3304 | fichas/pas/2006-11.md |
 | decisao-colegiado | RJ2005/8988 | 2006-02-15 | nao-provido | cvm-col-20060215-d13 | fichas/colegiado/2006-03.md |
 | decisao-colegiado | RJ2005/8901 | 2006-01-24 | nao-provido | cvm-col-20060124-d10 | fichas/colegiado/2006-02.md |
 | decisao-colegiado | RJ2002/3227 | 2005-04-08 | nao-provido | cvm-col-20050408-d02 | fichas/colegiado/2005-06.md |

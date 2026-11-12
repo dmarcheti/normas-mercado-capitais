@@ -18,19 +18,19 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.004478/2018-75 | 2023-06-20 | parcial | cvm-pas-19957-004478-2018-75 | fichas/pas/2023-03.md |
+| pas | 19957.004478/2018-75 | 2023-06-20 | parcial | cvm-pas-19957-004478-2018-75 | fichas/pas/2023-06.md |
 | acordao-crsfn | 21/2010 | 2023-05-09 | condenacao | crsfn-10372-100066-2020-86 | fichas/crsfn/2023-04.md |
 | decisao-colegiado | 19957.002070/2022-45 | 2022-03-23 | outro | cvm-col-20220323-d2538 | fichas/colegiado/2022-04.md |
 | decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
 | pas | 02/2013 | 2019-01-22 | parcial | cvm-pas-02-2013 | fichas/pas/2019-01.md |
 | decisao-colegiado | 19957.009602/2016-27 | 2017-04-11 | nao-provido | cvm-col-20170411-d0645 | fichas/colegiado/2017-07.md |
 | decisao-colegiado | 19957.004135/2016-49 | 2017-04-11 | nao-provido | cvm-col-20170411-d0643 | fichas/colegiado/2017-07.md |
-| pas | 07/2012 | 2017-03-07 | parcial | cvm-pas-07-2012 | fichas/pas/2017-01.md |
+| pas | 07/2012 | 2017-03-07 | parcial | cvm-pas-07-2012 | fichas/pas/2017-02.md |
 | decisao-colegiado | 558/2015; 19957.002943/2016-71 | 2017-02-14 | outro | cvm-col-20170214-d0222 | fichas/colegiado/2017-03.md |
 | decisao-colegiado | 558/2015; 19957.002943/2016-71 | 2016-11-08 | — | cvm-col-20161108-d0222 | fichas/colegiado/2016-22.md |
 | decisao-colegiado | 19957.004508/2016-81 | 2016-09-20 | nao-provido | cvm-col-20160920-d0355 | fichas/colegiado/2016-18.md |
 | decisao-colegiado | 558/2015; 19957.002943/2016-71 | 2016-05-24 | — | cvm-col-20160524-d0222 | fichas/colegiado/2016-10.md |
-| pas | 08/2004 | 2012-12-06 | parcial | cvm-pas-08-2004 | fichas/pas/2012-03.md |
+| pas | 08/2004 | 2012-12-06 | parcial | cvm-pas-08-2004 | fichas/pas/2012-06.md |
 | decisao-colegiado | RJ2012/6198 | 2012-09-18 | nao-provido | cvm-col-20120918-d05 | fichas/colegiado/2012-17.md |
 | pas | 15/2008 | 2012-02-28 | absolvicao | cvm-pas-15-2008 | fichas/pas/2012-01.md |
 | decisao-colegiado | RJ2006/2894 | 2006-08-29 | nao-provido | cvm-col-20060829-d07 | fichas/colegiado/2006-14.md |

@@ -243,13 +243,13 @@ Este subíndice tem 291 linhas e uma leitura única é cortada em silêncio pert
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 27 | acordao-crsfn | RJ2015/13326 | 2021-12-08 | condenacao | crsfn-10372-100334-2019-26 | fichas/crsfn/2021-05.md |
+| art. 27 | acordao-crsfn | RJ2015/13326 | 2021-12-08 | condenacao | crsfn-10372-100334-2019-26 | fichas/crsfn/2021-06.md |
 
 ## art. 28
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 28 | acordao-crsfn | RJ2015/13326 | 2021-12-08 | condenacao | crsfn-10372-100334-2019-26 | fichas/crsfn/2021-05.md |
+| art. 28 | acordao-crsfn | RJ2015/13326 | 2021-12-08 | condenacao | crsfn-10372-100334-2019-26 | fichas/crsfn/2021-06.md |
 
 ## art. 33-A
 
@@ -268,8 +268,8 @@ Este subíndice tem 291 linhas e uma leitura única é cortada em silêncio pert
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.014176/2023-72 | 2024-10-29 | provido | cvm-col-20241029-d3158 | fichas/colegiado/2024-12.md |
-| pas | 19957.004810/2019-82 | 2024-09-03 | parcial | cvm-pas-19957-004810-2019-82 | fichas/pas/2024-07.md |
-| pas | 19957.003673/2020-01 | 2024-06-20 | absolvicao | cvm-pas-19957-003673-2020-01 | fichas/pas/2024-04.md |
+| pas | 19957.004810/2019-82 | 2024-09-03 | parcial | cvm-pas-19957-004810-2019-82 | fichas/pas/2024-14.md |
+| pas | 19957.003673/2020-01 | 2024-06-20 | absolvicao | cvm-pas-19957-003673-2020-01 | fichas/pas/2024-08.md |
 | decisao-colegiado | 19957.007680/2020-73 | 2022-09-13 | parcial | cvm-col-20220913-d2642 | fichas/colegiado/2022-13.md |
 | decisao-colegiado | 19957.008285/2021-99 | 2021-11-30 | parcial | cvm-col-20211130-d2406 | fichas/colegiado/2021-20.md |
 | decisao-colegiado | 19957.008472/2020-91 | 2021-10-26 | nao-provido | cvm-col-20211026-d2359 | fichas/colegiado/2021-18.md |
@@ -282,7 +282,7 @@ Este subíndice tem 291 linhas e uma leitura única é cortada em silêncio pert
 | decisao-colegiado | RJ2010/14991 | 2010-12-28 | nao-provido | cvm-col-20101228-d21 | fichas/colegiado/2010-31.md |
 | acordao-crsfn | 18/03 | 2010-02-23 | parcial | crsfn-10112 | fichas/crsfn/2010-02.md |
 | decisao-colegiado | — | 2007-06-05 | outro | cvm-col-20070605-d01 | fichas/colegiado/2007-08.md |
-| pas | 18/2003 | 2005-12-08 | parcial | cvm-pas-18-2003 | fichas/pas/2005-09.md |
+| pas | 18/2003 | 2005-12-08 | parcial | cvm-pas-18-2003 | fichas/pas/2005-19.md |
 | decisao-colegiado | RJ2003/12498 | 2003-11-21 | outro | cvm-col-20031121-d01 | fichas/colegiado/2003-13.md |
 | decisao-colegiado | RJ2003/12498 | 2003-11-11 | — | cvm-col-20031111-d08 | fichas/colegiado/2003-13.md |
 | decisao-colegiado | RJ2001/11828 | 2003-02-25 | outro | cvm-col-20030225-d03 | fichas/colegiado/2003-02.md |

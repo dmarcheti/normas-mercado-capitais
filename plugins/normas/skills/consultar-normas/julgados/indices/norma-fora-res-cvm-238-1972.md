@@ -11,17 +11,17 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | SP2004/193 | 2016-02-23 | parcial | crsfn-11957 | fichas/crsfn/2016-01.md |
+| acordao-crsfn | SP2004/193 | 2016-02-23 | parcial | crsfn-11957 | fichas/crsfn/2016-02.md |
 | acordao-crsfn | SP2004/193 | 2016-02-23 | parcial | crsfn-10372-000585-2016-69 | fichas/crsfn/2016-01.md |
 | acordao-crsfn | 10/05 | 2013-07-30 | parcial | crsfn-12805 | fichas/crsfn/2013-03.md |
 | acordao-crsfn | SP–2001-0204 | 2010-04-29 | absolvicao | crsfn-11241 | fichas/crsfn/2010-03.md |
 | decisao-colegiado | RJ2002/3227 | 2005-04-08 | nao-provido | cvm-col-20050408-d02 | fichas/colegiado/2005-06.md |
-| pas | SP2003/0445 | 2005-03-21 | parcial | cvm-pas-sp2003-0445 | fichas/pas/2005-02.md |
+| pas | SP2003/0445 | 2005-03-21 | parcial | cvm-pas-sp2003-0445 | fichas/pas/2005-04.md |
 | termo-compromisso | SP2001/0204 | 2004-08-05 | rejeitado | cvm-col-20040805-d05 | fichas/tc/2004-01.md |
 | pas | SP2002/0048 | 2003-03-13 | parcial | cvm-pas-sp2002-0048 | fichas/pas/2003-01.md |
-| pas | 03/2000 | 2001-06-07 | parcial | cvm-pas-03-2000 | fichas/pas/2001-01.md |
+| pas | 03/2000 | 2001-06-07 | parcial | cvm-pas-03-2000 | fichas/pas/2001-03.md |
 | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
-| pas | 13/1998 | 2000-08-31 | parcial | cvm-pas-13-1998 | fichas/pas/2000-02.md |
+| pas | 13/1998 | 2000-08-31 | parcial | cvm-pas-13-1998 | fichas/pas/2000-03.md |
 | acordao-crsfn | 11/88 | 1996-02-15 | parcial | crsfn-1552 | fichas/crsfn/1996-01.md |
 
 Fim do subíndice.

@@ -24,7 +24,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 36 | acordao-crsfn | 08211.001367/2019-95 | 2020-11-17 | arquivamento | crsfn-19957-100015-2019-14 | fichas/crsfn/2020-07.md |
+| art. 36 | acordao-crsfn | 08211.001367/2019-95 | 2020-11-17 | arquivamento | crsfn-19957-100015-2019-14 | fichas/crsfn/2020-09.md |
 | art. 36 | decisao-colegiado | RJ2007/12274 | 2007-10-30 | nao-provido | cvm-col-20071030-d09 | fichas/colegiado/2007-21.md |
 | art. 36 | decisao-colegiado | 19957.004658/2019-38 | 2019-11-05 | nao-provido | cvm-col-20191105-d1464 | fichas/colegiado/2019-17.md |
 | art. 36 | decisao-colegiado | 19957.010412/2017-33 | 2023-10-03 | nao-provido | cvm-col-20231003-d0852 | fichas/colegiado/2023-10.md |
@@ -51,8 +51,8 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.003680/2021-85 | 2023-11-30 | condenacao | cvm-pas-19957-003680-2021-85 | fichas/pas/2023-08.md |
-| acordao-crsfn | RJ2015/13791 | 2021-09-14 | parcial | crsfn-10372-100265-2019-51 | fichas/crsfn/2021-03.md |
-| acordao-crsfn | RJ2013/5456 | 2018-07-10 | parcial | crsfn-14419 | fichas/crsfn/2018-04.md |
+| pas | 19957.003680/2021-85 | 2023-11-30 | condenacao | cvm-pas-19957-003680-2021-85 | fichas/pas/2023-15.md |
+| acordao-crsfn | RJ2015/13791 | 2021-09-14 | parcial | crsfn-10372-100265-2019-51 | fichas/crsfn/2021-04.md |
+| acordao-crsfn | RJ2013/5456 | 2018-07-10 | parcial | crsfn-14419 | fichas/crsfn/2018-05.md |
 
 Fim do subíndice.

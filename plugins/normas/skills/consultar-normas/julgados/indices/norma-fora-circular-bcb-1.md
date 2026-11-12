@@ -11,7 +11,7 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.003685/2023-70 | 2025-04-15 | parcial | cvm-pas-19957-003685-2023-70 | fichas/pas/2025-02.md |
+| pas | 19957.003685/2023-70 | 2025-04-15 | parcial | cvm-pas-19957-003685-2023-70 | fichas/pas/2025-04.md |
 | decisao-colegiado | 19957.014220/2023-44 | 2024-04-02 | nao-provido | cvm-col-20240402-d3046 | fichas/colegiado/2024-04.md |
 | acordao-crsfn | RJ2019/2333 | 2023-02-07 | parcial | crsfn-10372-100089-2021-71 | fichas/crsfn/2023-01.md |
 | acordao-crsfn | RJ2019/2333 | 2023-02-07 | parcial | crsfn-10372-100089-2021-71-2 | fichas/crsfn/2023-01.md |
@@ -24,8 +24,8 @@ Norma: fora do acervo.
 | termo-compromisso | 19957.001964/2019-12 | 2020-03-31 | aceito | cvm-col-20200331-d1765 | fichas/tc/2020-03.md |
 | decisao-colegiado | 19957.005037/2018-91 | 2018-07-17 | indeferido | cvm-col-20180717-d1070 | fichas/colegiado/2018-13.md |
 | decisao-colegiado | RJ2013/7516 | 2017-07-11 | provido | cvm-col-20170711-d0599 | fichas/colegiado/2017-12.md |
-| acordao-crsfn | RJ2012/7471 | 2016-06-28 | condenacao | crsfn-10372-000588-2016-01 | fichas/crsfn/2016-03.md |
-| pas | 11/2012 | 2014-12-02 | condenacao | cvm-pas-11-2012 | fichas/pas/2014-05.md |
+| acordao-crsfn | RJ2012/7471 | 2016-06-28 | condenacao | crsfn-10372-000588-2016-01 | fichas/crsfn/2016-04.md |
+| pas | 11/2012 | 2014-12-02 | condenacao | cvm-pas-11-2012 | fichas/pas/2014-10.md |
 | decisao-colegiado | RJ2010/15230 | 2011-04-05 | nao-provido | cvm-col-20110405-d06 | fichas/colegiado/2011-08.md |
 | termo-compromisso | RJ2010/10555 | 2011-02-15 | rejeitado | cvm-col-20110215-d07 | fichas/tc/2011-01.md |
 | decisao-colegiado | RJ2004/2097; RJ2004/2002 | 2004-12-07 | nao-provido | cvm-col-20041207-d05 | fichas/colegiado/2004-15.md |

@@ -44,7 +44,7 @@ Este subíndice tem 289 linhas e uma leitura única é cortada em silêncio pert
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 1º | decisao-antiga | — | 1997-01-13 | — | cvm-dec-1997-0001 | fichas/decisoes-antigas/1997-12.md |
-| art. 1º, § 3º | pas | 04/2003 | 2005-12-07 | condenacao | cvm-pas-04-2003 | fichas/pas/2005-09.md |
+| art. 1º, § 3º | pas | 04/2003 | 2005-12-07 | condenacao | cvm-pas-04-2003 | fichas/pas/2005-18.md |
 | art. 1º, § 5º | acordao-crsfn | 98/5287 | 2000-07-28 | condenacao | crsfn-3060 | fichas/crsfn/2000-04.md |
 | art. 1º, § 5º | decisao-antiga | — | 1997-01-13 | — | cvm-dec-1997-0001 | fichas/decisoes-antigas/1997-12.md |
 | art. 1º, § 5º | decisao-antiga | — | 1999-01-29 | — | cvm-dec-1999-0001 | fichas/decisoes-antigas/1999-28.md |
@@ -56,16 +56,16 @@ Este subíndice tem 289 linhas e uma leitura única é cortada em silêncio pert
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 2º | decisao-colegiado | RJ2001/4355 | 2002-01-29 | outro | cvm-col-20020129-d2144 | fichas/colegiado/2002-02.md |
-| art. 2º | pas | RJ2001/4355 | 2003-04-10 | absolvicao | cvm-pas-rj2001-4355 | fichas/pas/2003-02.md |
+| art. 2º | pas | RJ2001/4355 | 2003-04-10 | absolvicao | cvm-pas-rj2001-4355 | fichas/pas/2003-03.md |
 
 ## art. 3º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 3º | pas | 04/2003 | 2005-12-07 | condenacao | cvm-pas-04-2003 | fichas/pas/2005-09.md |
+| art. 3º | pas | 04/2003 | 2005-12-07 | condenacao | cvm-pas-04-2003 | fichas/pas/2005-18.md |
 | art. 3º, § 1º | acordao-crsfn | IA-2003-04 | 2009-03-18 | parcial | crsfn-9794 | fichas/crsfn/2009-02.md |
 | art. 3º, § 1º | termo-compromisso | 04/2003 | 2005-04-26 | rejeitado | cvm-col-20050426-d02 | fichas/tc/2005-01.md |
-| art. 3º, § 1º | pas | 04/2003 | 2005-12-07 | condenacao | cvm-pas-04-2003 | fichas/pas/2005-09.md |
+| art. 3º, § 1º | pas | 04/2003 | 2005-12-07 | condenacao | cvm-pas-04-2003 | fichas/pas/2005-18.md |
 
 ## art. 5º
 
@@ -74,18 +74,18 @@ Este subíndice tem 289 linhas e uma leitura única é cortada em silêncio pert
 | art. 5º | acordao-crsfn | RJ2001/9701 | 2006-03-06 | parcial | crsfn-5135 | fichas/crsfn/2006-01.md |
 | art. 5º | acordao-crsfn | IA-2003-04 | 2009-03-18 | parcial | crsfn-9794 | fichas/crsfn/2009-02.md |
 | art. 5º | termo-compromisso | 04/2003 | 2005-04-26 | rejeitado | cvm-col-20050426-d02 | fichas/tc/2005-01.md |
-| art. 5º | pas | 04/2003 | 2005-12-07 | condenacao | cvm-pas-04-2003 | fichas/pas/2005-09.md |
-| art. 5º, § 3º | pas | 34/2000 | 2004-09-16 | parcial | cvm-pas-34-2000 | fichas/pas/2004-06.md |
+| art. 5º | pas | 04/2003 | 2005-12-07 | condenacao | cvm-pas-04-2003 | fichas/pas/2005-18.md |
+| art. 5º, § 3º | pas | 34/2000 | 2004-09-16 | parcial | cvm-pas-34-2000 | fichas/pas/2004-11.md |
 
 ## art. 6º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 6º | pas | RJ2001/9701 | 2003-04-03 | parcial | cvm-pas-rj2001-9701 | fichas/pas/2003-01.md |
-| art. 6º | pas | 34/2000 | 2004-09-16 | parcial | cvm-pas-34-2000 | fichas/pas/2004-06.md |
-| art. 6º, § 3º | acordao-crsfn | 34/00 | 2008-10-28 | absolvicao | crsfn-7362 | fichas/crsfn/2008-05.md |
+| art. 6º | pas | RJ2001/9701 | 2003-04-03 | parcial | cvm-pas-rj2001-9701 | fichas/pas/2003-02.md |
+| art. 6º | pas | 34/2000 | 2004-09-16 | parcial | cvm-pas-34-2000 | fichas/pas/2004-11.md |
+| art. 6º, § 3º | acordao-crsfn | 34/00 | 2008-10-28 | absolvicao | crsfn-7362 | fichas/crsfn/2008-06.md |
 | art. 6º, § 3º | termo-compromisso | IA34/00 | 2003-11-18 | rejeitado | cvm-col-20031118-d05 | fichas/tc/2003.md |
-| art. 6º, § 3º | pas | 34/2000 | 2004-09-16 | parcial | cvm-pas-34-2000 | fichas/pas/2004-06.md |
+| art. 6º, § 3º | pas | 34/2000 | 2004-09-16 | parcial | cvm-pas-34-2000 | fichas/pas/2004-11.md |
 
 ## art. 14
 
@@ -110,9 +110,9 @@ Este subíndice tem 289 linhas e uma leitura única é cortada em silêncio pert
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 29 | pas | 34/2000 | 2004-09-16 | parcial | cvm-pas-34-2000 | fichas/pas/2004-06.md |
+| art. 29 | pas | 34/2000 | 2004-09-16 | parcial | cvm-pas-34-2000 | fichas/pas/2004-11.md |
 | art. 29, inciso V | acordao-crsfn | RJ2001/9701 | 2006-03-06 | parcial | crsfn-5135 | fichas/crsfn/2006-01.md |
-| art. 29, inciso V | pas | RJ2001/9701 | 2003-04-03 | parcial | cvm-pas-rj2001-9701 | fichas/pas/2003-01.md |
+| art. 29, inciso V | pas | RJ2001/9701 | 2003-04-03 | parcial | cvm-pas-rj2001-9701 | fichas/pas/2003-02.md |
 
 ## art. 31
 
@@ -124,14 +124,14 @@ Este subíndice tem 289 linhas e uma leitura única é cortada em silêncio pert
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 32 | acordao-crsfn | RJ-2004-3648 | 2008-05-27 | arquivamento | crsfn-9255 | fichas/crsfn/2008-02.md |
+| art. 32 | acordao-crsfn | RJ-2004-3648 | 2008-05-27 | arquivamento | crsfn-9255 | fichas/crsfn/2008-03.md |
 | art. 32 | acordao-crsfn | RJ-2002-08479 | 2009-05-21 | absolvicao | crsfn-9252 | fichas/crsfn/2009-03.md |
 | art. 32 | decisao-colegiado | RJ2002/8479 | 2005-10-11 | provido | cvm-col-20051011-d02 | fichas/colegiado/2005-14.md |
 | art. 32 | termo-compromisso | RJ2004/3648 | 2005-12-27 | outro | cvm-col-20051227-d04 | fichas/tc/2005-03.md |
 | art. 32 | decisao-antiga | — | 1997-01-13 | — | cvm-dec-1997-0001 | fichas/decisoes-antigas/1997-12.md |
-| art. 32 | pas | 08/1999 | 2000-06-01 | condenacao | cvm-pas-08-1999 | fichas/pas/2000-01.md |
-| art. 32 | pas | 34/2000 | 2004-09-16 | parcial | cvm-pas-34-2000 | fichas/pas/2004-06.md |
-| art. 32, parágrafo único | acordao-crsfn | RJ-2004-3648 | 2008-05-27 | arquivamento | crsfn-9255 | fichas/crsfn/2008-02.md |
+| art. 32 | pas | 08/1999 | 2000-06-01 | condenacao | cvm-pas-08-1999 | fichas/pas/2000-02.md |
+| art. 32 | pas | 34/2000 | 2004-09-16 | parcial | cvm-pas-34-2000 | fichas/pas/2004-11.md |
+| art. 32, parágrafo único | acordao-crsfn | RJ-2004-3648 | 2008-05-27 | arquivamento | crsfn-9255 | fichas/crsfn/2008-03.md |
 | art. 32, parágrafo único | acordao-crsfn | RJ-2002-08479 | 2009-05-21 | absolvicao | crsfn-9252 | fichas/crsfn/2009-03.md |
 | art. 32, parágrafo único | termo-compromisso | RJ2004/3648 | 2005-05-03 | rejeitado | cvm-col-20050503-d02 | fichas/tc/2005-01.md |
 | art. 32, parágrafo único | decisao-colegiado | RJ2002/8479 | 2005-10-11 | provido | cvm-col-20051011-d02 | fichas/colegiado/2005-14.md |
@@ -154,7 +154,7 @@ Este subíndice tem 289 linhas e uma leitura única é cortada em silêncio pert
 | art. 34 | decisao-antiga | — | 1999-01-29 | — | cvm-dec-1999-0001 | fichas/decisoes-antigas/1999-28.md |
 | art. 34 | decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
 | art. 34 | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
-| art. 34 | pas | 08/1999 | 2000-06-01 | condenacao | cvm-pas-08-1999 | fichas/pas/2000-01.md |
+| art. 34 | pas | 08/1999 | 2000-06-01 | condenacao | cvm-pas-08-1999 | fichas/pas/2000-02.md |
 | art. 34, inciso III | decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
 | art. 34, inciso IV | termo-compromisso | 19957.001903/2015-21; 02/2014 | 2017-10-17 | rejeitado | cvm-col-20171017-d0718 | fichas/tc/2017-05.md |
 | art. 34, inciso IV | termo-compromisso | 19957.003200/2017-08 | 2018-05-22 | rejeitado | cvm-col-20180522-d1034 | fichas/tc/2018-03.md |
@@ -189,19 +189,19 @@ Este subíndice tem 289 linhas e uma leitura única é cortada em silêncio pert
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 37, inciso II | pas | 08/1999 | 2000-06-01 | condenacao | cvm-pas-08-1999 | fichas/pas/2000-01.md |
+| art. 37, inciso II | pas | 08/1999 | 2000-06-01 | condenacao | cvm-pas-08-1999 | fichas/pas/2000-02.md |
 
 ## art. 43
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 43 | pas | 15/1999 | 2001-08-02 | parcial | cvm-pas-15-1999 | fichas/pas/2001-02.md |
+| art. 43 | pas | 15/1999 | 2001-08-02 | parcial | cvm-pas-15-1999 | fichas/pas/2001-04.md |
 
 ## art. 45
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 45, inciso II | pas | 15/1999 | 2001-08-02 | parcial | cvm-pas-15-1999 | fichas/pas/2001-02.md |
+| art. 45, inciso II | pas | 15/1999 | 2001-08-02 | parcial | cvm-pas-15-1999 | fichas/pas/2001-04.md |
 
 ## art. 49
 
@@ -213,9 +213,9 @@ Este subíndice tem 289 linhas e uma leitura única é cortada em silêncio pert
 | art. 49 | decisao-antiga | — | 1998-01-09 | — | cvm-dec-1998-0001 | fichas/decisoes-antigas/1998-15.md |
 | art. 49 | decisao-antiga | — | 1999-01-29 | — | cvm-dec-1999-0001 | fichas/decisoes-antigas/1999-28.md |
 | art. 49 | decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
-| art. 49 | pas | 08/1999 | 2000-06-01 | condenacao | cvm-pas-08-1999 | fichas/pas/2000-01.md |
-| art. 49 | pas | 15/1999 | 2001-08-02 | parcial | cvm-pas-15-1999 | fichas/pas/2001-02.md |
-| art. 49, § 2º | pas | 15/1999 | 2001-08-02 | parcial | cvm-pas-15-1999 | fichas/pas/2001-02.md |
+| art. 49 | pas | 08/1999 | 2000-06-01 | condenacao | cvm-pas-08-1999 | fichas/pas/2000-02.md |
+| art. 49 | pas | 15/1999 | 2001-08-02 | parcial | cvm-pas-15-1999 | fichas/pas/2001-04.md |
+| art. 49, § 2º | pas | 15/1999 | 2001-08-02 | parcial | cvm-pas-15-1999 | fichas/pas/2001-04.md |
 
 ## art. 50
 
@@ -240,13 +240,13 @@ Este subíndice tem 289 linhas e uma leitura única é cortada em silêncio pert
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 57 | pas | 15/1999 | 2001-08-02 | parcial | cvm-pas-15-1999 | fichas/pas/2001-02.md |
+| art. 57 | pas | 15/1999 | 2001-08-02 | parcial | cvm-pas-15-1999 | fichas/pas/2001-04.md |
 
 ## art. 61
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 61 | pas | 15/1999 | 2001-08-02 | parcial | cvm-pas-15-1999 | fichas/pas/2001-02.md |
+| art. 61 | pas | 15/1999 | 2001-08-02 | parcial | cvm-pas-15-1999 | fichas/pas/2001-04.md |
 
 ## art. 63
 
@@ -258,29 +258,29 @@ Este subíndice tem 289 linhas e uma leitura única é cortada em silêncio pert
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 64 | acordao-crsfn | 34/00 | 2008-10-28 | absolvicao | crsfn-7362 | fichas/crsfn/2008-05.md |
+| art. 64 | acordao-crsfn | 34/00 | 2008-10-28 | absolvicao | crsfn-7362 | fichas/crsfn/2008-06.md |
 | art. 64 | termo-compromisso | IA34/00 | 2003-11-18 | rejeitado | cvm-col-20031118-d05 | fichas/tc/2003.md |
 | art. 64 | decisao-antiga | — | 1994-01-04 | — | cvm-dec-1994-0001 | fichas/decisoes-antigas/1994-05.md |
-| art. 64 | pas | 08/1999 | 2000-06-01 | condenacao | cvm-pas-08-1999 | fichas/pas/2000-01.md |
-| art. 64 | pas | 15/1999 | 2001-08-02 | parcial | cvm-pas-15-1999 | fichas/pas/2001-02.md |
-| art. 64 | pas | 34/2000 | 2004-09-16 | parcial | cvm-pas-34-2000 | fichas/pas/2004-06.md |
+| art. 64 | pas | 08/1999 | 2000-06-01 | condenacao | cvm-pas-08-1999 | fichas/pas/2000-02.md |
+| art. 64 | pas | 15/1999 | 2001-08-02 | parcial | cvm-pas-15-1999 | fichas/pas/2001-04.md |
+| art. 64 | pas | 34/2000 | 2004-09-16 | parcial | cvm-pas-34-2000 | fichas/pas/2004-11.md |
 
 ## art. 104
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 104 | pas | 15/1999 | 2001-08-02 | parcial | cvm-pas-15-1999 | fichas/pas/2001-02.md |
+| art. 104 | pas | 15/1999 | 2001-08-02 | parcial | cvm-pas-15-1999 | fichas/pas/2001-04.md |
 
 ## Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2008/9574 | 2012-11-27 | absolvicao | cvm-pas-rj2008-9574 | fichas/pas/2012-03.md |
+| pas | RJ2008/9574 | 2012-11-27 | absolvicao | cvm-pas-rj2008-9574 | fichas/pas/2012-05.md |
 | decisao-colegiado | RJ2005/0250 | 2007-02-14 | provido | cvm-col-20070214-d02 | fichas/colegiado/2007-03.md |
 | decisao-colegiado | RJ2005/7115 | 2006-03-14 | outro | cvm-col-20060314-d01 | fichas/colegiado/2006-05.md |
 | decisao-colegiado | RJ2005/2345 | 2006-02-21 | outro | cvm-col-20060221-d01 | fichas/colegiado/2006-03.md |
 | decisao-colegiado | RJ2005/7115 | 2005-11-17 | outro | cvm-col-20051117-d05 | fichas/colegiado/2005-17.md |
-| pas | RJ2002/8428 | 2004-10-14 | parcial | cvm-pas-rj2002-8428 | fichas/pas/2004-06.md |
+| pas | RJ2002/8428 | 2004-10-14 | parcial | cvm-pas-rj2002-8428 | fichas/pas/2004-12.md |
 | acordao-crsfn | RJ99/3172 | 2001-01-30 | absolvicao | crsfn-3257 | fichas/crsfn/2001-01.md |
 | acordao-crsfn | 99/3170 | 2000-09-29 | condenacao | crsfn-3059 | fichas/crsfn/2000-05.md |
 | acordao-crsfn | 98/3431 | 2000-07-28 | condenacao | crsfn-2898 | fichas/crsfn/2000-03.md |

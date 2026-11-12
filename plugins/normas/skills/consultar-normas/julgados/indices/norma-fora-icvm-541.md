@@ -12,7 +12,7 @@ Norma: fora do acervo.
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 3º | decisao-colegiado | 296/1998; 19957.005089/2018-67 | 2018-05-15 | outro | cvm-col-20180515-d104018 | fichas/colegiado/2018-09.md |
-| art. 3º, inciso I | pas | 19957.007976/2020-94 | 2026-09-08 | parcial | cvm-pas-19957-007976-2020-94 | fichas/pas/2026-03.md |
+| art. 3º, inciso I | pas | 19957.007976/2020-94 | 2026-09-08 | parcial | cvm-pas-19957-007976-2020-94 | fichas/pas/2026-04.md |
 
 ## art. 4º
 
@@ -145,7 +145,7 @@ Norma: fora do acervo.
 | decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
 | decisao-colegiado | 19957.010972/2017-98 | 2020-01-21 | provido | cvm-col-20200121-d1663 | fichas/colegiado/2020-01.md |
 | decisao-colegiado | 19957.010097/2019-14 | 2019-11-19 | deferido | cvm-col-20191119-d1615 | fichas/colegiado/2019-19.md |
-| pas | RJ2014/11830 | 2016-11-29 | condenacao | cvm-pas-rj2014-11830 | fichas/pas/2016-07.md |
+| pas | RJ2014/11830 | 2016-11-29 | condenacao | cvm-pas-rj2014-11830 | fichas/pas/2016-13.md |
 | decisao-colegiado | 541/2013; 542/2013; 19957.003979/2015-91 | 2015-12-22 | indeferido | cvm-col-20151222-d1239 | fichas/colegiado/2015-25.md |
 
 Fim do subíndice.

@@ -17,13 +17,13 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 11 | pas | 14/2005 | 2009-05-05 | absolvicao | cvm-pas-14-2005 | fichas/pas/2009-02.md |
+| art. 11 | pas | 14/2005 | 2009-05-05 | absolvicao | cvm-pas-14-2005 | fichas/pas/2009-03.md |
 
 ## art. 23
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 23 | pas | RJ2013/6635 | 2015-05-26 | condenacao | cvm-pas-rj2013-6635 | fichas/pas/2015-03.md |
+| art. 23 | pas | RJ2013/6635 | 2015-05-26 | condenacao | cvm-pas-rj2013-6635 | fichas/pas/2015-06.md |
 
 ## art. 27
 
@@ -32,7 +32,7 @@ Norma: fora do acervo.
 | art. 27 | acordao-crsfn | RJ-2005-1443 | 2011-08-30 | parcial | crsfn-11089 | fichas/crsfn/2011-03.md |
 | art. 27 | decisao-colegiado | RJ2004/4558; RJ2004/4559; RJ2004/4569; RJ2004/4583 | 2004-09-21 | outro | cvm-col-20040921-d01 | fichas/colegiado/2004-11.md |
 | art. 27 | decisao-colegiado | RJ2009/0471 | 2009-03-03 | nao-provido | cvm-col-20090303-d07 | fichas/colegiado/2009-03.md |
-| art. 27 | pas | RJ2005/1443 | 2006-05-10 | parcial | cvm-pas-rj2005-1443 | fichas/pas/2006-05.md |
+| art. 27 | pas | RJ2005/1443 | 2006-05-10 | parcial | cvm-pas-rj2005-1443 | fichas/pas/2006-09.md |
 
 ## art. 28
 
@@ -54,10 +54,10 @@ Norma: fora do acervo.
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 35 | termo-compromisso | RJ2013/6635 | 2014-06-17 | rejeitado | cvm-col-20140617-d01 | fichas/tc/2014-01.md |
-| art. 35 | pas | RJ2013/6635 | 2015-05-26 | condenacao | cvm-pas-rj2013-6635 | fichas/pas/2015-03.md |
-| art. 35, § 1º | pas | RJ2013/6635 | 2015-05-26 | condenacao | cvm-pas-rj2013-6635 | fichas/pas/2015-03.md |
-| art. 35, § 2º | pas | RJ2013/6635 | 2015-05-26 | condenacao | cvm-pas-rj2013-6635 | fichas/pas/2015-03.md |
-| art. 35, § 3º | pas | RJ2013/6635 | 2015-05-26 | condenacao | cvm-pas-rj2013-6635 | fichas/pas/2015-03.md |
+| art. 35 | pas | RJ2013/6635 | 2015-05-26 | condenacao | cvm-pas-rj2013-6635 | fichas/pas/2015-06.md |
+| art. 35, § 1º | pas | RJ2013/6635 | 2015-05-26 | condenacao | cvm-pas-rj2013-6635 | fichas/pas/2015-06.md |
+| art. 35, § 2º | pas | RJ2013/6635 | 2015-05-26 | condenacao | cvm-pas-rj2013-6635 | fichas/pas/2015-06.md |
+| art. 35, § 3º | pas | RJ2013/6635 | 2015-05-26 | condenacao | cvm-pas-rj2013-6635 | fichas/pas/2015-06.md |
 
 ## art. 36
 
@@ -65,7 +65,7 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|
 | art. 36 | decisao-colegiado | RJ2012/14312; RJ2012/14317 | 2012-11-30 | indeferido | cvm-col-20121130-d01 | fichas/colegiado/2012-22.md |
 | art. 36 | termo-compromisso | RJ2013/6635 | 2014-06-17 | rejeitado | cvm-col-20140617-d01 | fichas/tc/2014-01.md |
-| art. 36 | pas | RJ2013/6635 | 2015-05-26 | condenacao | cvm-pas-rj2013-6635 | fichas/pas/2015-03.md |
+| art. 36 | pas | RJ2013/6635 | 2015-05-26 | condenacao | cvm-pas-rj2013-6635 | fichas/pas/2015-06.md |
 
 ## art. 38
 
@@ -84,6 +84,6 @@ Norma: fora do acervo.
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.008889/2021-35 | 2021-12-21 | deferido | cvm-col-20211221-d2444 | fichas/colegiado/2021-23.md |
-| acordao-crsfn | RJ2013/6635 | 2017-06-28 | absolvicao | crsfn-14306 | fichas/crsfn/2017-05.md |
+| acordao-crsfn | RJ2013/6635 | 2017-06-28 | absolvicao | crsfn-14306 | fichas/crsfn/2017-10.md |
 
 Fim do subíndice.

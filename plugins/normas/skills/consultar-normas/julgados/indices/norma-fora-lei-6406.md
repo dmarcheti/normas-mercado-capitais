@@ -18,7 +18,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 106 | pas | 19957.001621/2020-91 | 2023-09-27 | absolvicao | cvm-pas-19957-001621-2020-91 | fichas/pas/2023-06.md |
+| art. 106 | pas | 19957.001621/2020-91 | 2023-09-27 | absolvicao | cvm-pas-19957-001621-2020-91 | fichas/pas/2023-11.md |
 
 ## art. 132
 
@@ -42,7 +42,7 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 25/04 | 2013-09-25 | parcial | crsfn-12353 | fichas/crsfn/2013-03.md |
+| acordao-crsfn | 25/04 | 2013-09-25 | parcial | crsfn-12353 | fichas/crsfn/2013-04.md |
 | decisao-colegiado | RJ2008/4587 | 2008-11-25 | provido | cvm-col-20081125-d02 | fichas/colegiado/2008-26.md |
 | decisao-colegiado | RJ2008/2535 | 2008-11-25 | provido | cvm-col-20081125-d01 | fichas/colegiado/2008-26.md |
 | decisao-colegiado | RJ2008/2535 | 2008-11-04 | — | cvm-col-20081104-d13 | fichas/colegiado/2008-24.md |

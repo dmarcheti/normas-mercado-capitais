@@ -17,7 +17,7 @@ Norma: fora do acervo.
 | decisao-colegiado | 797/2018; 19957.007791/2018-65 | 2018-09-04 | nao-provido | cvm-col-20180904-d1103 | fichas/colegiado/2018-16.md |
 | decisao-colegiado | 796/2018; 19957.007322/2018-46 | 2018-08-21 | outro | cvm-col-20180821-d1085-19957-007322-2018-46 | fichas/colegiado/2018-14.md |
 | decisao-colegiado | 19957.006941/2017-32 | 2018-07-17 | outro | cvm-col-20180717-d1086 | fichas/colegiado/2018-13.md |
-| pas | SP2012/228 | 2016-10-25 | parcial | cvm-pas-sp2012-0228 | fichas/pas/2016-06.md |
+| pas | SP2012/228 | 2016-10-25 | parcial | cvm-pas-sp2012-0228 | fichas/pas/2016-11.md |
 | decisao-colegiado | SP2011/0269 | 2014-06-10 | nao-provido | cvm-col-20140610-d01 | fichas/colegiado/2014-11.md |
 | decisao-colegiado | SP2011/0269 | 2012-04-24 | nao-provido | cvm-col-20120424-d04 | fichas/colegiado/2012-08.md |
 | decisao-colegiado | SP2011/0134 | 2011-12-27 | nao-provido | cvm-col-20111227-d05 | fichas/colegiado/2011-29.md |

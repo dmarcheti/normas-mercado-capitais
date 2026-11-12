@@ -21,7 +21,7 @@ Norma: [leis/lei-14711.md](../../normas/leis/lei-14711.md) (texto vigente hoje; 
 | decisao-colegiado | 02/2024; 19957.014354/2023-65 | 2025-02-24 | outro | cvm-col-20250224-d3181 | fichas/colegiado/2025-01.md |
 | decisao-colegiado | 19957.014354/2023-65 | 2024-11-14 | outro | cvm-col-20241114-d3181 | fichas/colegiado/2024-13.md |
 | decisao-colegiado | — | 2024-10-25 | outro | cvm-col-20241025-d3201 | fichas/colegiado/2024-12.md |
-| pas | 19957.003673/2020-01 | 2024-06-20 | absolvicao | cvm-pas-19957-003673-2020-01 | fichas/pas/2024-04.md |
+| pas | 19957.003673/2020-01 | 2024-06-20 | absolvicao | cvm-pas-19957-003673-2020-01 | fichas/pas/2024-08.md |
 | decisao-colegiado | — | 2023-11-29 | outro | cvm-col-20231129-d2976 | fichas/colegiado/2023-13.md |
 
 Fim do subíndice.

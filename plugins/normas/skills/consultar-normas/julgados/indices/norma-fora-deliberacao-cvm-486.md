@@ -31,7 +31,7 @@ Este subíndice tem 890 linhas e uma leitura única é cortada em silêncio pert
 |---|---|---|---|---|---|---|
 | art. 7º, § 2º | termo-compromisso | 22/2006 | 2009-10-20 | aceito | cvm-col-20091020-d06 | fichas/tc/2009-07.md |
 | art. 7º, § 2º | termo-compromisso | 21/2005 | 2009-11-17 | rejeitado | cvm-col-20091117-d02 | fichas/tc/2009-07.md |
-| art. 7º, § 2º | pas | 24/2005 | 2008-10-07 | parcial | cvm-pas-24-2005 | fichas/pas/2008-04.md |
+| art. 7º, § 2º | pas | 24/2005 | 2008-10-07 | parcial | cvm-pas-24-2005 | fichas/pas/2008-07.md |
 | art. 7º, § 3º | termo-compromisso | 22/2006 | 2009-10-20 | aceito | cvm-col-20091020-d06 | fichas/tc/2009-07.md |
 | art. 7º, § 3º | termo-compromisso | 21/2005 | 2009-11-17 | rejeitado | cvm-col-20091117-d02 | fichas/tc/2009-07.md |
 | art. 7º, § 4º | termo-compromisso | RJ2009/8286 | 2010-08-24 | aceito | cvm-col-20100824-d01 | fichas/tc/2010-04.md |
@@ -774,8 +774,8 @@ Este subíndice tem 890 linhas e uma leitura única é cortada em silêncio pert
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 19957.001933/2021-86 | 2026-07-14 | parcial | crsfn-19957-001933-2021-86 | fichas/crsfn/2026-02.md |
-| acordao-crsfn | 06/2012 | 2021-12-07 | condenacao | crsfn-10372-100268-2019-94 | fichas/crsfn/2021-04.md |
+| acordao-crsfn | 19957.001933/2021-86 | 2026-07-14 | parcial | crsfn-19957-001933-2021-86 | fichas/crsfn/2026-03.md |
+| acordao-crsfn | 06/2012 | 2021-12-07 | condenacao | crsfn-10372-100268-2019-94 | fichas/crsfn/2021-06.md |
 | termo-compromisso | 19957.009294/2017-11 | 2021-11-09 | rejeitado | cvm-col-20211109-d1157 | fichas/tc/2021-07.md |
 | termo-compromisso | 19957.001434/2018-93 | 2020-05-05 | rejeitado | cvm-col-20200505-d1220 | fichas/tc/2020-03.md |
 | termo-compromisso | 19957.007841/2016-42 | 2019-11-05 | aceito | cvm-col-20191105-d0633 | fichas/tc/2019-06.md |
@@ -858,16 +858,16 @@ Este subíndice tem 890 linhas e uma leitura única é cortada em silêncio pert
 | termo-compromisso | 19957.000414/2017-14; RJ2017/0106 | 2017-09-05 | aceito | cvm-col-20170905-d0789 | fichas/tc/2017-04.md |
 | termo-compromisso | 19957.007927/2016-75; RJ2016/8134 | 2017-08-29 | aceito | cvm-col-20170829-d0776 | fichas/tc/2017-04.md |
 | termo-compromisso | 19957.006688/2016-36; RJ2016/8375 | 2017-08-08 | rejeitado | cvm-col-20170808-d0766 | fichas/tc/2017-03.md |
-| acordao-crsfn | CVM13/05 | 2017-06-27 | parcial | crsfn-13453 | fichas/crsfn/2017-04.md |
+| acordao-crsfn | CVM13/05 | 2017-06-27 | parcial | crsfn-13453 | fichas/crsfn/2017-09.md |
 | acordao-crsfn | 04/2007 | 2016-01-21 | parcial | crsfn-13274 | fichas/crsfn/2016-01.md |
 | termo-compromisso | SP2011/0099 | 2013-05-28 | aceito | cvm-col-20130528-d03 | fichas/tc/2013-02.md |
-| acordao-crsfn | RJ-2007-11415 | 2012-12-18 | arquivamento | crsfn-12697 | fichas/crsfn/2012-05.md |
+| acordao-crsfn | RJ-2007-11415 | 2012-12-18 | arquivamento | crsfn-12697 | fichas/crsfn/2012-06.md |
 | acordao-crsfn | RJ-2005-5038 | 2012-02-13 | parcial | crsfn-11327 | fichas/crsfn/2012-01.md |
 | decisao-colegiado | RJ2011/8546 | 2011-10-25 | parcial | cvm-col-20111025-d12 | fichas/colegiado/2011-23.md |
 | decisao-colegiado | RJ2011/8545 | 2011-09-20 | nao-provido | cvm-col-20110920-d06 | fichas/colegiado/2011-19.md |
 | termo-compromisso | RJ2009/4744 | 2009-12-08 | aceito | cvm-col-20091208-d23 | fichas/tc/2009-09.md |
 | termo-compromisso | RJ2006/4665 | 2009-11-10 | aceito | cvm-col-20091110-d01 | fichas/tc/2009-07.md |
-| pas | RJ2007/4247 | 2009-03-31 | condenacao | cvm-pas-rj2007-4247 | fichas/pas/2009-01.md |
+| pas | RJ2007/4247 | 2009-03-31 | condenacao | cvm-pas-rj2007-4247 | fichas/pas/2009-02.md |
 | termo-compromisso | RJ2007/14710 | 2008-11-11 | outro | cvm-col-20081111-d03 | fichas/tc/2008-07.md |
 | termo-compromisso | RJ2007/12231 | 2008-03-04 | aceito | cvm-col-20080304-d01 | fichas/tc/2008-01.md |
 | decisao-colegiado | 26/2005 | 2007-10-17 | nao-provido | cvm-col-20071017-d01 | fichas/colegiado/2007-19.md |

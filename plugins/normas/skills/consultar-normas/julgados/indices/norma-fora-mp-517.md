@@ -26,7 +26,7 @@ Norma: fora do acervo.
 | decisao-colegiado | 19957.001522/2017-12 | 2019-07-02 | outro | cvm-col-20190702-d1365 | fichas/colegiado/2019-10.md |
 | decisao-colegiado | 19957.009618/2016-30 | 2017-06-26 | nao-provido | cvm-col-20170626-d0603 | fichas/colegiado/2017-12.md |
 | decisao-colegiado | RJ2011/8312 | 2011-12-13 | provido | cvm-col-20111213-d02 | fichas/colegiado/2011-28.md |
-| pas | RJ2010/9078 | 2011-10-25 | absolvicao | cvm-pas-rj2010-9078 | fichas/pas/2011-02.md |
+| pas | RJ2010/9078 | 2011-10-25 | absolvicao | cvm-pas-rj2010-9078 | fichas/pas/2011-04.md |
 | decisao-colegiado | RJ2011/7431 | 2011-09-20 | — | cvm-col-20110920-d01 | fichas/colegiado/2011-18.md |
 | decisao-colegiado | RJ2011/7431 | 2011-08-30 | — | cvm-col-20110830-d07 | fichas/colegiado/2011-17.md |
 | decisao-colegiado | RJ2011/2438 | 2011-04-05 | deferido | cvm-col-20110405-d11 | fichas/colegiado/2011-08.md |

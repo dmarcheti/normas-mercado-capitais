@@ -79,7 +79,7 @@ Norma: [cvm/resolucoes/0033.md](../../normas/cvm/resolucoes/0033.md) (texto vige
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| Anexo B art. 1º | pas | 19957.008172/2021-93 | 2023-09-05 | absolvicao | cvm-pas-19957-008172-2021-93 | fichas/pas/2023-05.md |
+| Anexo B art. 1º | pas | 19957.008172/2021-93 | 2023-09-05 | absolvicao | cvm-pas-19957-008172-2021-93 | fichas/pas/2023-10.md |
 
 ## Citada sem dispositivo identificado
 

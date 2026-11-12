@@ -42,22 +42,22 @@ Este subíndice tem 480 linhas e uma leitura única é cortada em silêncio pert
 | art. 2º | decisao-colegiado | RJ2006/8820 | 2007-01-30 | provido | cvm-col-20070130-d09 | fichas/colegiado/2007-02.md |
 | art. 2º | termo-compromisso | 19957.002161/2015-51 | 2018-09-18 | rejeitado | cvm-col-20180918-d1161 | fichas/tc/2018-05.md |
 | art. 2º | decisao-colegiado | 19957.001000/2017-11 | 2021-05-04 | nao-provido | cvm-col-20210504-d2145 | fichas/colegiado/2021-07.md |
-| art. 2º | pas | 10/2005 | 2009-08-25 | parcial | cvm-pas-10-2005 | fichas/pas/2009-04.md |
-| art. 2º | pas | SP2011/284 | 2015-12-18 | parcial | cvm-pas-sp2011-0284 | fichas/pas/2015-07.md |
-| art. 2º | pas | RJ2015/1034 | 2016-08-23 | condenacao | cvm-pas-rj2015-1034 | fichas/pas/2016-03.md |
-| art. 2º | pas | SP2012/0374 | 2016-07-19 | parcial | cvm-pas-sp2012-0374 | fichas/pas/2016-02.md |
-| art. 2º | pas | SP2013/292 | 2016-07-19 | condenacao | cvm-pas-sp2013-0292 | fichas/pas/2016-02.md |
-| art. 2º, parágrafo único | pas | RJ2015/1034 | 2016-08-23 | condenacao | cvm-pas-rj2015-1034 | fichas/pas/2016-03.md |
-| art. 2º, parágrafo único | pas | SP2012/0374 | 2016-07-19 | parcial | cvm-pas-sp2012-0374 | fichas/pas/2016-02.md |
+| art. 2º | pas | 10/2005 | 2009-08-25 | parcial | cvm-pas-10-2005 | fichas/pas/2009-07.md |
+| art. 2º | pas | SP2011/284 | 2015-12-18 | parcial | cvm-pas-sp2011-0284 | fichas/pas/2015-14.md |
+| art. 2º | pas | RJ2015/1034 | 2016-08-23 | condenacao | cvm-pas-rj2015-1034 | fichas/pas/2016-06.md |
+| art. 2º | pas | SP2012/0374 | 2016-07-19 | parcial | cvm-pas-sp2012-0374 | fichas/pas/2016-04.md |
+| art. 2º | pas | SP2013/292 | 2016-07-19 | condenacao | cvm-pas-sp2013-0292 | fichas/pas/2016-04.md |
+| art. 2º, parágrafo único | pas | RJ2015/1034 | 2016-08-23 | condenacao | cvm-pas-rj2015-1034 | fichas/pas/2016-06.md |
+| art. 2º, parágrafo único | pas | SP2012/0374 | 2016-07-19 | parcial | cvm-pas-sp2012-0374 | fichas/pas/2016-04.md |
 
 ## art. 3º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 3º | acordao-crsfn | SP-2011-284 | 2017-02-08 | parcial | crsfn-14459 | fichas/crsfn/2017-01.md |
-| art. 3º | acordao-crsfn | SP-2014-14 | 2019-11-27 | parcial | crsfn-10372-100294-2018-31 | fichas/crsfn/2019-03.md |
+| art. 3º | acordao-crsfn | SP-2011-284 | 2017-02-08 | parcial | crsfn-14459 | fichas/crsfn/2017-02.md |
+| art. 3º | acordao-crsfn | SP-2014-14 | 2019-11-27 | parcial | crsfn-10372-100294-2018-31 | fichas/crsfn/2019-04.md |
 | art. 3º | acordao-crsfn | SP2012/228 | 2020-02-11 | condenacao | crsfn-10372-100085-2018-98 | fichas/crsfn/2020-01.md |
-| art. 3º | acordao-crsfn | SP2012/218 | 2020-10-20 | parcial | crsfn-14241 | fichas/crsfn/2020-06.md |
+| art. 3º | acordao-crsfn | SP2012/218 | 2020-10-20 | parcial | crsfn-14241 | fichas/crsfn/2020-08.md |
 | art. 3º | acordao-crsfn | SP2013/210 | 2021-08-11 | arquivamento | crsfn-10372-100139-2019-04 | fichas/crsfn/2021-03.md |
 | art. 3º | acordao-crsfn | 17/2013 | 2022-06-07 | parcial | crsfn-10372-100337-2019-60 | fichas/crsfn/2022-04.md |
 | art. 3º | decisao-colegiado | RJ2007/2660 | 2009-11-17 | nao-provido | cvm-col-20091117-d12 | fichas/colegiado/2009-20.md |
@@ -79,15 +79,15 @@ Este subíndice tem 480 linhas e uma leitura única é cortada em silêncio pert
 | art. 3º | termo-compromisso | SP2014/0014 | 2015-05-19 | rejeitado | cvm-col-20150519-d9651 | fichas/tc/2015-02.md |
 | art. 3º | termo-compromisso | 19957.010324/2017-31 | 2018-10-30 | rejeitado | cvm-col-20181030-d1078 | fichas/tc/2018-06.md |
 | art. 3º | decisao-colegiado | 19957.001000/2017-11 | 2021-05-04 | nao-provido | cvm-col-20210504-d2145 | fichas/colegiado/2021-07.md |
-| art. 3º | pas | SP2012/218 | 2014-03-25 | condenacao | cvm-pas-sp2012-0218 | fichas/pas/2014-01.md |
-| art. 3º | pas | SP2011/284 | 2015-12-18 | parcial | cvm-pas-sp2011-0284 | fichas/pas/2015-07.md |
-| art. 3º | pas | RJ2015/1034 | 2016-08-23 | condenacao | cvm-pas-rj2015-1034 | fichas/pas/2016-03.md |
-| art. 3º | pas | SP2012/228 | 2016-10-25 | parcial | cvm-pas-sp2012-0228 | fichas/pas/2016-06.md |
-| art. 3º | pas | SP2012/0374 | 2016-07-19 | parcial | cvm-pas-sp2012-0374 | fichas/pas/2016-02.md |
-| art. 3º | pas | SP2013/292 | 2016-07-19 | condenacao | cvm-pas-sp2013-0292 | fichas/pas/2016-02.md |
-| art. 3º | pas | SP2014/14 | 2017-09-12 | parcial | cvm-pas-sp2014-0014 | fichas/pas/2017-03.md |
-| art. 3º | pas | SP2013/210 | 2018-10-09 | parcial | cvm-pas-sp2013-0210 | fichas/pas/2018-07.md |
-| art. 3º | pas | 17/2013 | 2019-06-25 | condenacao | cvm-pas-17-2013 | fichas/pas/2019-05.md |
+| art. 3º | pas | SP2012/218 | 2014-03-25 | condenacao | cvm-pas-sp2012-0218 | fichas/pas/2014-02.md |
+| art. 3º | pas | SP2011/284 | 2015-12-18 | parcial | cvm-pas-sp2011-0284 | fichas/pas/2015-14.md |
+| art. 3º | pas | RJ2015/1034 | 2016-08-23 | condenacao | cvm-pas-rj2015-1034 | fichas/pas/2016-06.md |
+| art. 3º | pas | SP2012/228 | 2016-10-25 | parcial | cvm-pas-sp2012-0228 | fichas/pas/2016-11.md |
+| art. 3º | pas | SP2012/0374 | 2016-07-19 | parcial | cvm-pas-sp2012-0374 | fichas/pas/2016-04.md |
+| art. 3º | pas | SP2013/292 | 2016-07-19 | condenacao | cvm-pas-sp2013-0292 | fichas/pas/2016-04.md |
+| art. 3º | pas | SP2014/14 | 2017-09-12 | parcial | cvm-pas-sp2014-0014 | fichas/pas/2017-06.md |
+| art. 3º | pas | SP2013/210 | 2018-10-09 | parcial | cvm-pas-sp2013-0210 | fichas/pas/2018-15.md |
+| art. 3º | pas | 17/2013 | 2019-06-25 | condenacao | cvm-pas-17-2013 | fichas/pas/2019-09.md |
 | art. 3º, parágrafo único | pas | RJ2007/0974 | 2008-01-16 | parcial | cvm-pas-rj2007-0974 | fichas/pas/2008-01.md |
 
 ## art. 4º
@@ -98,14 +98,14 @@ Este subíndice tem 480 linhas e uma leitura única é cortada em silêncio pert
 | art. 4º | decisao-colegiado | RJ2010/14527 | 2013-12-17 | nao-provido | cvm-col-20131217-d22 | fichas/colegiado/2013-24.md |
 | art. 4º | termo-compromisso | RJ2016/5557 | 2016-11-22 | rejeitado | cvm-col-20161122-d0273 | fichas/tc/2016-05.md |
 | art. 4º | pas | RJ2007/0974 | 2008-01-16 | parcial | cvm-pas-rj2007-0974 | fichas/pas/2008-01.md |
-| art. 4º | pas | SP2011/284 | 2015-12-18 | parcial | cvm-pas-sp2011-0284 | fichas/pas/2015-07.md |
-| art. 4º | pas | SP2013/292 | 2016-07-19 | condenacao | cvm-pas-sp2013-0292 | fichas/pas/2016-02.md |
-| art. 4º | pas | 17/2013 | 2019-06-25 | condenacao | cvm-pas-17-2013 | fichas/pas/2019-05.md |
+| art. 4º | pas | SP2011/284 | 2015-12-18 | parcial | cvm-pas-sp2011-0284 | fichas/pas/2015-14.md |
+| art. 4º | pas | SP2013/292 | 2016-07-19 | condenacao | cvm-pas-sp2013-0292 | fichas/pas/2016-04.md |
+| art. 4º | pas | 17/2013 | 2019-06-25 | condenacao | cvm-pas-17-2013 | fichas/pas/2019-09.md |
 | art. 4º, § 1º | termo-compromisso | RJ2010/17584 | 2011-03-22 | aceito | cvm-col-20110322-d02 | fichas/tc/2011-01.md |
 | art. 4º, § 1º | decisao-colegiado | RJ2012/8806 | 2013-07-30 | provido | cvm-col-20130730-d14 | fichas/colegiado/2013-14.md |
 | art. 4º, § 1º | termo-compromisso | RJ2013/2758 | 2014-12-02 | outro | cvm-col-20141202-d10 | fichas/tc/2014-04.md |
-| art. 4º, § 1º | pas | SP2011/284 | 2015-12-18 | parcial | cvm-pas-sp2011-0284 | fichas/pas/2015-07.md |
-| art. 4º, § 1º | pas | SP2013/292 | 2016-07-19 | condenacao | cvm-pas-sp2013-0292 | fichas/pas/2016-02.md |
+| art. 4º, § 1º | pas | SP2011/284 | 2015-12-18 | parcial | cvm-pas-sp2011-0284 | fichas/pas/2015-14.md |
+| art. 4º, § 1º | pas | SP2013/292 | 2016-07-19 | condenacao | cvm-pas-sp2013-0292 | fichas/pas/2016-04.md |
 
 ## art. 5º
 
@@ -169,7 +169,7 @@ Este subíndice tem 480 linhas e uma leitura única é cortada em silêncio pert
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 8º | acordao-crsfn | 19957.007344/2019-97 | 2023-10-11 | condenacao | crsfn-10372-100072-2023-86 | fichas/crsfn/2023-06.md |
+| art. 8º | acordao-crsfn | 19957.007344/2019-97 | 2023-10-11 | condenacao | crsfn-10372-100072-2023-86 | fichas/crsfn/2023-08.md |
 | art. 8º | decisao-colegiado | RJ2006/9208 | 2007-01-09 | outro | cvm-col-20070109-d07 | fichas/colegiado/2007-01.md |
 | art. 8º | termo-compromisso | RJ2009/11813 | 2010-11-30 | aceito | cvm-col-20101130-d05 | fichas/tc/2010-06.md |
 | art. 8º | pas | 19957.007344/2019-97 | 2023-02-28 | condenacao | cvm-pas-19957-007344-2019-97 | fichas/pas/2023-01.md |
@@ -213,8 +213,8 @@ Este subíndice tem 480 linhas e uma leitura única é cortada em silêncio pert
 |---|---|---|---|---|---|---|
 | art. 14 | termo-compromisso | RJ2013/2758 | 2014-12-02 | outro | cvm-col-20141202-d10 | fichas/tc/2014-04.md |
 | art. 14 | termo-compromisso | 19957.006464/2016-24; RJ2016/7644 | 2017-06-26 | aceito | cvm-col-20170626-d0701 | fichas/tc/2017-02.md |
-| art. 14 | pas | SP2013/292 | 2016-07-19 | condenacao | cvm-pas-sp2013-0292 | fichas/pas/2016-02.md |
-| art. 14 | pas | RJ2016/8711 | 2019-10-29 | parcial | cvm-pas-rj2016-8711 | fichas/pas/2019-10.md |
+| art. 14 | pas | SP2013/292 | 2016-07-19 | condenacao | cvm-pas-sp2013-0292 | fichas/pas/2016-04.md |
+| art. 14 | pas | RJ2016/8711 | 2019-10-29 | parcial | cvm-pas-rj2016-8711 | fichas/pas/2019-18.md |
 
 ## art. 15
 
@@ -222,43 +222,43 @@ Este subíndice tem 480 linhas e uma leitura única é cortada em silêncio pert
 |---|---|---|---|---|---|---|
 | art. 15 | acordao-crsfn | SP2014/465 | 2024-02-07 | condenacao | crsfn-10372-100310-2019-77 | fichas/crsfn/2024-01.md |
 | art. 15 | decisao-colegiado | RJ2013/1771 | 2014-06-03 | provido | cvm-col-20140603-d03 | fichas/colegiado/2014-11.md |
-| art. 15 | pas | SP2012/0374 | 2016-07-19 | parcial | cvm-pas-sp2012-0374 | fichas/pas/2016-02.md |
-| art. 15 | pas | SP2013/292 | 2016-07-19 | condenacao | cvm-pas-sp2013-0292 | fichas/pas/2016-02.md |
+| art. 15 | pas | SP2012/0374 | 2016-07-19 | parcial | cvm-pas-sp2012-0374 | fichas/pas/2016-04.md |
+| art. 15 | pas | SP2013/292 | 2016-07-19 | condenacao | cvm-pas-sp2013-0292 | fichas/pas/2016-04.md |
 | art. 15 | pas | 19957.007344/2019-97 | 2023-02-28 | condenacao | cvm-pas-19957-007344-2019-97 | fichas/pas/2023-01.md |
-| art. 15, inciso I | acordao-crsfn | 19957.007344/2019-97 | 2023-10-11 | condenacao | crsfn-10372-100072-2023-86 | fichas/crsfn/2023-06.md |
+| art. 15, inciso I | acordao-crsfn | 19957.007344/2019-97 | 2023-10-11 | condenacao | crsfn-10372-100072-2023-86 | fichas/crsfn/2023-08.md |
 | art. 15, inciso I | termo-compromisso | 19957.004737/2017-87 | 2018-11-27 | rejeitado | cvm-col-20181127-d1158 | fichas/tc/2018-06.md |
-| art. 15, inciso I | pas | 19957.004072/2016-21; SP2017/630 | 2020-12-22 | parcial | cvm-pas-19957-004072-2016-21 | fichas/pas/2020-06.md |
+| art. 15, inciso I | pas | 19957.004072/2016-21; SP2017/630 | 2020-12-22 | parcial | cvm-pas-19957-004072-2016-21 | fichas/pas/2020-10.md |
 | art. 15, inciso I | pas | 19957.007344/2019-97 | 2023-02-28 | condenacao | cvm-pas-19957-007344-2019-97 | fichas/pas/2023-01.md |
-| art. 15, inciso II | acordao-crsfn | 19957.007344/2019-97 | 2023-10-11 | condenacao | crsfn-10372-100072-2023-86 | fichas/crsfn/2023-06.md |
-| art. 15, inciso II | acordao-crsfn | 19957.001493/2016-08; 04/2016 | 2024-10-09 | outro | crsfn-10372-100141-2021-90-2 | fichas/crsfn/2024-05.md |
+| art. 15, inciso II | acordao-crsfn | 19957.007344/2019-97 | 2023-10-11 | condenacao | crsfn-10372-100072-2023-86 | fichas/crsfn/2023-08.md |
+| art. 15, inciso II | acordao-crsfn | 19957.001493/2016-08; 04/2016 | 2024-10-09 | outro | crsfn-10372-100141-2021-90-2 | fichas/crsfn/2024-07.md |
 | art. 15, inciso II | acordao-crsfn | 19957.001493/2016-08; 04/2016 | 2024-04-09 | condenacao | crsfn-10372-100141-2021-90 | fichas/crsfn/2024-02.md |
 | art. 15, inciso II | decisao-colegiado | RJ2014/5766 | 2015-01-06 | nao-provido | cvm-col-20150106-d9509 | fichas/colegiado/2015-01.md |
 | art. 15, inciso II | decisao-colegiado | 04/2016 | 2020-02-18 | — | cvm-col-20200218-d1115 | fichas/colegiado/2020-03.md |
 | art. 15, inciso II | decisao-colegiado | 04/2016 | 2020-06-09 | outro | cvm-col-20200609-d1115 | fichas/colegiado/2020-09.md |
-| art. 15, inciso II | pas | SP2013/292 | 2016-07-19 | condenacao | cvm-pas-sp2013-0292 | fichas/pas/2016-02.md |
+| art. 15, inciso II | pas | SP2013/292 | 2016-07-19 | condenacao | cvm-pas-sp2013-0292 | fichas/pas/2016-04.md |
 | art. 15, inciso II | pas | 19957.007344/2019-97 | 2023-02-28 | condenacao | cvm-pas-19957-007344-2019-97 | fichas/pas/2023-01.md |
 
 ## art. 16
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 16 | acordao-crsfn | SP-2014-14 | 2019-11-27 | parcial | crsfn-10372-100294-2018-31 | fichas/crsfn/2019-03.md |
-| art. 16 | acordao-crsfn | SP2012/218 | 2020-10-20 | parcial | crsfn-14241 | fichas/crsfn/2020-06.md |
-| art. 16 | acordao-crsfn | 07/2013 | 2022-12-08 | condenacao | crsfn-10372-100057-2020-95 | fichas/crsfn/2022-07.md |
+| art. 16 | acordao-crsfn | SP-2014-14 | 2019-11-27 | parcial | crsfn-10372-100294-2018-31 | fichas/crsfn/2019-04.md |
+| art. 16 | acordao-crsfn | SP2012/218 | 2020-10-20 | parcial | crsfn-14241 | fichas/crsfn/2020-08.md |
+| art. 16 | acordao-crsfn | 07/2013 | 2022-12-08 | condenacao | crsfn-10372-100057-2020-95 | fichas/crsfn/2022-09.md |
 | art. 16 | decisao-colegiado | RJ2010/9625 | 2011-10-19 | nao-provido | cvm-col-20111019-d09 | fichas/colegiado/2011-22.md |
 | art. 16 | decisao-colegiado | RJ2010/10271 | 2011-10-19 | nao-provido | cvm-col-20111019-d10 | fichas/colegiado/2011-22.md |
 | art. 16 | termo-compromisso | 19957.004737/2017-87 | 2018-11-27 | rejeitado | cvm-col-20181127-d1158 | fichas/tc/2018-06.md |
-| art. 16 | pas | SP2012/218 | 2014-03-25 | condenacao | cvm-pas-sp2012-0218 | fichas/pas/2014-01.md |
-| art. 16 | pas | SP2012/0374 | 2016-07-19 | parcial | cvm-pas-sp2012-0374 | fichas/pas/2016-02.md |
-| art. 16 | pas | SP2013/292 | 2016-07-19 | condenacao | cvm-pas-sp2013-0292 | fichas/pas/2016-02.md |
-| art. 16 | pas | 07/2013 | 2019-10-08 | condenacao | cvm-pas-07-2013 | fichas/pas/2019-09.md |
-| art. 16, inciso I | acordao-crsfn | 19957.007344/2019-97 | 2023-10-11 | condenacao | crsfn-10372-100072-2023-86 | fichas/crsfn/2023-06.md |
+| art. 16 | pas | SP2012/218 | 2014-03-25 | condenacao | cvm-pas-sp2012-0218 | fichas/pas/2014-02.md |
+| art. 16 | pas | SP2012/0374 | 2016-07-19 | parcial | cvm-pas-sp2012-0374 | fichas/pas/2016-04.md |
+| art. 16 | pas | SP2013/292 | 2016-07-19 | condenacao | cvm-pas-sp2013-0292 | fichas/pas/2016-04.md |
+| art. 16 | pas | 07/2013 | 2019-10-08 | condenacao | cvm-pas-07-2013 | fichas/pas/2019-17.md |
+| art. 16, inciso I | acordao-crsfn | 19957.007344/2019-97 | 2023-10-11 | condenacao | crsfn-10372-100072-2023-86 | fichas/crsfn/2023-08.md |
 | art. 16, inciso I | decisao-colegiado | — | 2014-07-22 | nao-provido | cvm-col-20140722-d05 | fichas/colegiado/2014-14.md |
 | art. 16, inciso I | decisao-colegiado | RJ2012/10928 | 2014-12-09 | nao-provido | cvm-col-20141209-d16 | fichas/colegiado/2014-25.md |
 | art. 16, inciso I | decisao-colegiado | RJ2014/3897 | 2015-01-06 | nao-provido | cvm-col-20150106-d9498 | fichas/colegiado/2015-01.md |
 | art. 16, inciso I | decisao-colegiado | RJ2014/4244 | 2015-01-06 | nao-provido | cvm-col-20150106-d9499 | fichas/colegiado/2015-01.md |
-| art. 16, inciso I | pas | 19957.004072/2016-21; SP2017/630 | 2020-12-22 | parcial | cvm-pas-19957-004072-2016-21 | fichas/pas/2020-06.md |
-| art. 16, inciso I | pas | 19957.001292/2022-41 | 2023-12-12 | condenacao | cvm-pas-19957-001292-2022-41 | fichas/pas/2023-09.md |
+| art. 16, inciso I | pas | 19957.004072/2016-21; SP2017/630 | 2020-12-22 | parcial | cvm-pas-19957-004072-2016-21 | fichas/pas/2020-10.md |
+| art. 16, inciso I | pas | 19957.001292/2022-41 | 2023-12-12 | condenacao | cvm-pas-19957-001292-2022-41 | fichas/pas/2023-16.md |
 | art. 16, inciso I | pas | 19957.007344/2019-97 | 2023-02-28 | condenacao | cvm-pas-19957-007344-2019-97 | fichas/pas/2023-01.md |
 | art. 16, inciso II | decisao-colegiado | SP2007/0147 | 2012-01-17 | nao-provido | cvm-col-20120117-d07 | fichas/colegiado/2012-01.md |
 | art. 16, inciso II | decisao-colegiado | SP2007/0037 | 2012-02-23 | nao-provido | cvm-col-20120223-d14 | fichas/colegiado/2012-03.md |
@@ -280,11 +280,11 @@ Este subíndice tem 480 linhas e uma leitura única é cortada em silêncio pert
 | art. 16, inciso II | decisao-colegiado | RJ2013/8969 | 2015-05-05 | nao-provido | cvm-col-20150505-d9638 | fichas/colegiado/2015-07.md |
 | art. 16, inciso II | decisao-colegiado | RJ2014/13157 | 2016-02-16 | nao-provido | cvm-col-20160216-d0059 | fichas/colegiado/2016-04.md |
 | art. 16, inciso II | decisao-colegiado | RJ2013/2306 | 2016-08-09 | nao-provido | cvm-col-20160809-d9181 | fichas/colegiado/2016-16.md |
-| art. 16, inciso II | pas | RJ2016/4685 | 2019-02-19 | condenacao | cvm-pas-rj2016-4685 | fichas/pas/2019-02.md |
-| art. 16, inciso III | acordao-crsfn | 19957.007344/2019-97 | 2023-10-11 | condenacao | crsfn-10372-100072-2023-86 | fichas/crsfn/2023-06.md |
+| art. 16, inciso II | pas | RJ2016/4685 | 2019-02-19 | condenacao | cvm-pas-rj2016-4685 | fichas/pas/2019-03.md |
+| art. 16, inciso III | acordao-crsfn | 19957.007344/2019-97 | 2023-10-11 | condenacao | crsfn-10372-100072-2023-86 | fichas/crsfn/2023-08.md |
 | art. 16, inciso III | termo-compromisso | 19957.002161/2015-51 | 2018-09-18 | rejeitado | cvm-col-20180918-d1161 | fichas/tc/2018-05.md |
 | art. 16, inciso III | pas | 19957.007344/2019-97 | 2023-02-28 | condenacao | cvm-pas-19957-007344-2019-97 | fichas/pas/2023-01.md |
-| art. 16, inciso IV | acordao-crsfn | 19957.000198/2020-11; 21/2013 | 2026-04-07 | parcial | crsfn-10372-100091-2022-21 | fichas/crsfn/2026-01.md |
+| art. 16, inciso IV | acordao-crsfn | 19957.000198/2020-11; 21/2013 | 2026-04-07 | parcial | crsfn-10372-100091-2022-21 | fichas/crsfn/2026-02.md |
 | art. 16, inciso IV | decisao-colegiado | — | 2014-07-22 | nao-provido | cvm-col-20140722-d05 | fichas/colegiado/2014-14.md |
 | art. 16, inciso IV | decisao-colegiado | RJ2014/10959 | 2015-11-03 | nao-provido | cvm-col-20151103-d9907 | fichas/colegiado/2015-20.md |
 | art. 16, inciso IV | decisao-colegiado | 19957.003436/2015-74 | 2016-03-01 | nao-provido | cvm-col-20160301-d0116 | fichas/colegiado/2016-06.md |
@@ -293,14 +293,14 @@ Este subíndice tem 480 linhas e uma leitura única é cortada em silêncio pert
 | art. 16, inciso IV | termo-compromisso | 19957.000198/2020-11; 21/2013 | 2020-09-29 | rejeitado | cvm-col-20200929-d1489 | fichas/tc/2020-06.md |
 | art. 16, inciso IV | termo-compromisso | 19957.000198/2020-11; 21/2013 | 2021-02-09 | rejeitado | cvm-col-20210209-d1489 | fichas/tc/2021-01.md |
 | art. 16, inciso IV | termo-compromisso | 19957.001449/2022-38 | 2026-07-21 | aceito | cvm-col-20260721-d3295 | fichas/tc/2026-02.md |
-| art. 16, inciso IV | pas | SP2013/292 | 2016-07-19 | condenacao | cvm-pas-sp2013-0292 | fichas/pas/2016-02.md |
-| art. 16, inciso IV | pas | 19957.000198/2020-11; 21/2013 | 2022-03-29 | parcial | cvm-pas-19957-000198-2020-11 | fichas/pas/2022-02.md |
+| art. 16, inciso IV | pas | SP2013/292 | 2016-07-19 | condenacao | cvm-pas-sp2013-0292 | fichas/pas/2016-04.md |
+| art. 16, inciso IV | pas | 19957.000198/2020-11; 21/2013 | 2022-03-29 | parcial | cvm-pas-19957-000198-2020-11 | fichas/pas/2022-03.md |
 | art. 16, inciso IV, alínea a | decisao-colegiado | RJ2013/0267 | 2013-07-23 | outro | cvm-col-20130723-d04 | fichas/colegiado/2013-13.md |
 | art. 16, inciso IV, alínea a | decisao-colegiado | RJ2013/0267 | 2014-03-18 | provido | cvm-col-20140318-d09 | fichas/colegiado/2014-05.md |
 | art. 16, inciso IV, alínea a | decisao-colegiado | RJ2011/7177 | 2015-05-19 | outro | cvm-col-20150519-d7842 | fichas/colegiado/2015-08.md |
 | art. 16, inciso IV, alínea a | decisao-colegiado | RJ2013/0267 | 2016-02-11 | parcial | cvm-col-20160211-d8723 | fichas/colegiado/2016-04.md |
 | art. 16, inciso IV, alínea b | acordao-crsfn | 17/2013 | 2022-06-07 | parcial | crsfn-10372-100337-2019-60 | fichas/crsfn/2022-04.md |
-| art. 16, inciso IV, alínea b | acordao-crsfn | 19957.007344/2019-97 | 2023-10-11 | condenacao | crsfn-10372-100072-2023-86 | fichas/crsfn/2023-06.md |
+| art. 16, inciso IV, alínea b | acordao-crsfn | 19957.007344/2019-97 | 2023-10-11 | condenacao | crsfn-10372-100072-2023-86 | fichas/crsfn/2023-08.md |
 | art. 16, inciso IV, alínea b | acordao-crsfn | 19957.001493/2016-08; 04/2016 | 2024-04-09 | condenacao | crsfn-10372-100141-2021-90 | fichas/crsfn/2024-02.md |
 | art. 16, inciso IV, alínea b | acordao-crsfn | SP2014/465 | 2024-02-07 | condenacao | crsfn-10372-100310-2019-77 | fichas/crsfn/2024-01.md |
 | art. 16, inciso IV, alínea b | decisao-colegiado | RJ2006/8820 | 2007-01-30 | provido | cvm-col-20070130-d09 | fichas/colegiado/2007-02.md |
@@ -317,34 +317,34 @@ Este subíndice tem 480 linhas e uma leitura única é cortada em silêncio pert
 | art. 16, inciso IV, alínea b | decisao-colegiado | 17/2013 | 2019-06-18 | indeferido | cvm-col-20190618-d0273 | fichas/colegiado/2019-09.md |
 | art. 16, inciso IV, alínea b | decisao-colegiado | 04/2016 | 2020-02-18 | — | cvm-col-20200218-d1115 | fichas/colegiado/2020-03.md |
 | art. 16, inciso IV, alínea b | decisao-colegiado | 04/2016 | 2020-06-09 | outro | cvm-col-20200609-d1115 | fichas/colegiado/2020-09.md |
-| art. 16, inciso IV, alínea b | pas | SP2012/480 | 2015-10-06 | condenacao | cvm-pas-sp2012-0480 | fichas/pas/2015-06.md |
-| art. 16, inciso IV, alínea b | pas | RJ2015/1034 | 2016-08-23 | condenacao | cvm-pas-rj2015-1034 | fichas/pas/2016-03.md |
-| art. 16, inciso IV, alínea b | pas | SP2012/0374 | 2016-07-19 | parcial | cvm-pas-sp2012-0374 | fichas/pas/2016-02.md |
+| art. 16, inciso IV, alínea b | pas | SP2012/480 | 2015-10-06 | condenacao | cvm-pas-sp2012-0480 | fichas/pas/2015-11.md |
+| art. 16, inciso IV, alínea b | pas | RJ2015/1034 | 2016-08-23 | condenacao | cvm-pas-rj2015-1034 | fichas/pas/2016-06.md |
+| art. 16, inciso IV, alínea b | pas | SP2012/0374 | 2016-07-19 | parcial | cvm-pas-sp2012-0374 | fichas/pas/2016-04.md |
 | art. 16, inciso IV, alínea b | pas | RJ2014/12921 | 2017-02-10 | parcial | cvm-pas-rj2014-12921 | fichas/pas/2017-01.md |
-| art. 16, inciso IV, alínea b | pas | SP2014/14 | 2017-09-12 | parcial | cvm-pas-sp2014-0014 | fichas/pas/2017-03.md |
-| art. 16, inciso IV, alínea b | pas | SP2014/465 | 2018-11-06 | parcial | cvm-pas-sp2014-0465 | fichas/pas/2018-09.md |
-| art. 16, inciso IV, alínea b | pas | 17/2013 | 2019-06-25 | condenacao | cvm-pas-17-2013 | fichas/pas/2019-05.md |
+| art. 16, inciso IV, alínea b | pas | SP2014/14 | 2017-09-12 | parcial | cvm-pas-sp2014-0014 | fichas/pas/2017-06.md |
+| art. 16, inciso IV, alínea b | pas | SP2014/465 | 2018-11-06 | parcial | cvm-pas-sp2014-0465 | fichas/pas/2018-18.md |
+| art. 16, inciso IV, alínea b | pas | 17/2013 | 2019-06-25 | condenacao | cvm-pas-17-2013 | fichas/pas/2019-09.md |
 | art. 16, inciso IV, alínea b | pas | 19957.007344/2019-97 | 2023-02-28 | condenacao | cvm-pas-19957-007344-2019-97 | fichas/pas/2023-01.md |
 | art. 16, inciso V | acordao-crsfn | 10/05 | 2013-07-30 | parcial | crsfn-12805 | fichas/crsfn/2013-03.md |
-| art. 16, inciso V | pas | 10/2005 | 2009-08-25 | parcial | cvm-pas-10-2005 | fichas/pas/2009-04.md |
-| art. 16, inciso VI | acordao-crsfn | SP-2014-14 | 2019-11-27 | parcial | crsfn-10372-100294-2018-31 | fichas/crsfn/2019-03.md |
-| art. 16, inciso VI | acordao-crsfn | SP2012/218 | 2020-10-20 | parcial | crsfn-14241 | fichas/crsfn/2020-06.md |
-| art. 16, inciso VI | acordao-crsfn | 07/2013 | 2022-12-08 | condenacao | crsfn-10372-100057-2020-95 | fichas/crsfn/2022-07.md |
+| art. 16, inciso V | pas | 10/2005 | 2009-08-25 | parcial | cvm-pas-10-2005 | fichas/pas/2009-07.md |
+| art. 16, inciso VI | acordao-crsfn | SP-2014-14 | 2019-11-27 | parcial | crsfn-10372-100294-2018-31 | fichas/crsfn/2019-04.md |
+| art. 16, inciso VI | acordao-crsfn | SP2012/218 | 2020-10-20 | parcial | crsfn-14241 | fichas/crsfn/2020-08.md |
+| art. 16, inciso VI | acordao-crsfn | 07/2013 | 2022-12-08 | condenacao | crsfn-10372-100057-2020-95 | fichas/crsfn/2022-09.md |
 | art. 16, inciso VI | decisao-colegiado | — | 2014-07-22 | nao-provido | cvm-col-20140722-d05 | fichas/colegiado/2014-14.md |
 | art. 16, inciso VI | termo-compromisso | SP2014/0014 | 2015-05-19 | rejeitado | cvm-col-20150519-d9651 | fichas/tc/2015-02.md |
 | art. 16, inciso VI | termo-compromisso | 19957.010324/2017-31 | 2018-10-30 | rejeitado | cvm-col-20181030-d1078 | fichas/tc/2018-06.md |
-| art. 16, inciso VI | pas | SP2012/218 | 2014-03-25 | condenacao | cvm-pas-sp2012-0218 | fichas/pas/2014-01.md |
-| art. 16, inciso VI | pas | SP2013/292 | 2016-07-19 | condenacao | cvm-pas-sp2013-0292 | fichas/pas/2016-02.md |
-| art. 16, inciso VI | pas | SP2014/14 | 2017-09-12 | parcial | cvm-pas-sp2014-0014 | fichas/pas/2017-03.md |
-| art. 16, inciso VI | pas | 07/2013 | 2019-10-08 | condenacao | cvm-pas-07-2013 | fichas/pas/2019-09.md |
-| art. 16, inciso VI, alínea b | pas | RJ2015/1034 | 2016-08-23 | condenacao | cvm-pas-rj2015-1034 | fichas/pas/2016-03.md |
+| art. 16, inciso VI | pas | SP2012/218 | 2014-03-25 | condenacao | cvm-pas-sp2012-0218 | fichas/pas/2014-02.md |
+| art. 16, inciso VI | pas | SP2013/292 | 2016-07-19 | condenacao | cvm-pas-sp2013-0292 | fichas/pas/2016-04.md |
+| art. 16, inciso VI | pas | SP2014/14 | 2017-09-12 | parcial | cvm-pas-sp2014-0014 | fichas/pas/2017-06.md |
+| art. 16, inciso VI | pas | 07/2013 | 2019-10-08 | condenacao | cvm-pas-07-2013 | fichas/pas/2019-17.md |
+| art. 16, inciso VI, alínea b | pas | RJ2015/1034 | 2016-08-23 | condenacao | cvm-pas-rj2015-1034 | fichas/pas/2016-06.md |
 
 ## art. 17
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 17 | acordao-crsfn | SP-2014-14 | 2019-11-27 | parcial | crsfn-10372-100294-2018-31 | fichas/crsfn/2019-03.md |
-| art. 17 | acordao-crsfn | 07/2013 | 2022-12-08 | condenacao | crsfn-10372-100057-2020-95 | fichas/crsfn/2022-07.md |
+| art. 17 | acordao-crsfn | SP-2014-14 | 2019-11-27 | parcial | crsfn-10372-100294-2018-31 | fichas/crsfn/2019-04.md |
+| art. 17 | acordao-crsfn | 07/2013 | 2022-12-08 | condenacao | crsfn-10372-100057-2020-95 | fichas/crsfn/2022-09.md |
 | art. 17 | termo-compromisso | RJ2009/11813 | 2010-11-30 | aceito | cvm-col-20101130-d05 | fichas/tc/2010-06.md |
 | art. 17 | decisao-colegiado | SP2010/0169 | 2012-04-03 | nao-provido | cvm-col-20120403-d03 | fichas/colegiado/2012-06.md |
 | art. 17 | decisao-colegiado | RJ2010/10274 | 2012-08-21 | nao-provido | cvm-col-20120821-d09 | fichas/colegiado/2012-14.md |
@@ -352,20 +352,20 @@ Este subíndice tem 480 linhas e uma leitura única é cortada em silêncio pert
 | art. 17 | decisao-colegiado | RJ2013/11191 | 2015-05-26 | parcial | cvm-col-20150526-d9183 | fichas/colegiado/2015-08.md |
 | art. 17 | termo-compromisso | RJ2016/5911 | 2016-10-20 | rejeitado | cvm-col-20161020-d0294 | fichas/tc/2016-05.md |
 | art. 17 | termo-compromisso | 04/2014 | 2018-12-11 | aceito | cvm-col-20181211-d0294 | fichas/tc/2018-07.md |
-| art. 17 | pas | SP2012/218 | 2014-03-25 | condenacao | cvm-pas-sp2012-0218 | fichas/pas/2014-01.md |
-| art. 17 | pas | RJ2015/1034 | 2016-08-23 | condenacao | cvm-pas-rj2015-1034 | fichas/pas/2016-03.md |
-| art. 17 | pas | SP2012/0374 | 2016-07-19 | parcial | cvm-pas-sp2012-0374 | fichas/pas/2016-02.md |
-| art. 17 | pas | 04/2014 | 2018-12-26 | condenacao | cvm-pas-04-2014 | fichas/pas/2018-12.md |
-| art. 17 | pas | 07/2013 | 2019-10-08 | condenacao | cvm-pas-07-2013 | fichas/pas/2019-09.md |
+| art. 17 | pas | SP2012/218 | 2014-03-25 | condenacao | cvm-pas-sp2012-0218 | fichas/pas/2014-02.md |
+| art. 17 | pas | RJ2015/1034 | 2016-08-23 | condenacao | cvm-pas-rj2015-1034 | fichas/pas/2016-06.md |
+| art. 17 | pas | SP2012/0374 | 2016-07-19 | parcial | cvm-pas-sp2012-0374 | fichas/pas/2016-04.md |
+| art. 17 | pas | 04/2014 | 2018-12-26 | condenacao | cvm-pas-04-2014 | fichas/pas/2018-24.md |
+| art. 17 | pas | 07/2013 | 2019-10-08 | condenacao | cvm-pas-07-2013 | fichas/pas/2019-17.md |
 | art. 17, § 1º | termo-compromisso | RJ2009/5744 | 2010-06-22 | rejeitado | cvm-col-20100622-d04 | fichas/tc/2010-03.md |
 | art. 17, § 1º | termo-compromisso | RJ2009/11813 | 2010-11-30 | aceito | cvm-col-20101130-d05 | fichas/tc/2010-06.md |
 | art. 17, § 1º | decisao-colegiado | RJ2013/2487 | 2014-06-03 | nao-provido | cvm-col-20140603-d04 | fichas/colegiado/2014-11.md |
 | art. 17, § 1º | decisao-colegiado | RJ2014/2597 | 2014-06-03 | nao-provido | cvm-col-20140603-d05 | fichas/colegiado/2014-11.md |
 | art. 17, § 1º | termo-compromisso | 19957.001493/2016-08 | 2019-03-19 | outro | cvm-col-20190319-d1115 | fichas/tc/2019-02.md |
-| art. 17, § 2º | acordao-crsfn | SP2012/374 | 2018-12-11 | parcial | crsfn-10372-000122-2017-88 | fichas/crsfn/2018-07.md |
-| art. 17, § 2º | acordao-crsfn | SP-2014-14 | 2019-11-27 | parcial | crsfn-10372-100294-2018-31 | fichas/crsfn/2019-03.md |
-| art. 17, § 2º | acordao-crsfn | SP2012/218 | 2020-10-20 | parcial | crsfn-14241 | fichas/crsfn/2020-06.md |
-| art. 17, § 2º | acordao-crsfn | 07/2013 | 2022-12-08 | condenacao | crsfn-10372-100057-2020-95 | fichas/crsfn/2022-07.md |
+| art. 17, § 2º | acordao-crsfn | SP2012/374 | 2018-12-11 | parcial | crsfn-10372-000122-2017-88 | fichas/crsfn/2018-09.md |
+| art. 17, § 2º | acordao-crsfn | SP-2014-14 | 2019-11-27 | parcial | crsfn-10372-100294-2018-31 | fichas/crsfn/2019-04.md |
+| art. 17, § 2º | acordao-crsfn | SP2012/218 | 2020-10-20 | parcial | crsfn-14241 | fichas/crsfn/2020-08.md |
+| art. 17, § 2º | acordao-crsfn | 07/2013 | 2022-12-08 | condenacao | crsfn-10372-100057-2020-95 | fichas/crsfn/2022-09.md |
 | art. 17, § 2º | termo-compromisso | RJ2009/5744 | 2010-06-22 | rejeitado | cvm-col-20100622-d04 | fichas/tc/2010-03.md |
 | art. 17, § 2º | termo-compromisso | RJ2009/11813 | 2010-11-30 | aceito | cvm-col-20101130-d05 | fichas/tc/2010-06.md |
 | art. 17, § 2º | termo-compromisso | SP2012/0374 | 2014-11-25 | rejeitado | cvm-col-20141125-d03 | fichas/tc/2014-04.md |
@@ -379,31 +379,31 @@ Este subíndice tem 480 linhas e uma leitura única é cortada em silêncio pert
 | art. 17, § 2º | termo-compromisso | 19957.001493/2016-08 | 2019-03-19 | outro | cvm-col-20190319-d1115 | fichas/tc/2019-02.md |
 | art. 17, § 2º | termo-compromisso | 19957.004489/2022-31 | 2023-08-08 | outro | cvm-col-20230808-d2824 | fichas/tc/2023-05.md |
 | art. 17, § 2º | termo-compromisso | 19957.004489/2022-31 | 2023-11-07 | aceito | cvm-col-20231107-d2824 | fichas/tc/2023-07.md |
-| art. 17, § 2º | pas | SP2012/218 | 2014-03-25 | condenacao | cvm-pas-sp2012-0218 | fichas/pas/2014-01.md |
-| art. 17, § 2º | pas | RJ2015/1034 | 2016-08-23 | condenacao | cvm-pas-rj2015-1034 | fichas/pas/2016-03.md |
-| art. 17, § 2º | pas | SP2012/0374 | 2016-07-19 | parcial | cvm-pas-sp2012-0374 | fichas/pas/2016-02.md |
-| art. 17, § 2º | pas | SP2013/292 | 2016-07-19 | condenacao | cvm-pas-sp2013-0292 | fichas/pas/2016-02.md |
-| art. 17, § 2º | pas | SP2014/14 | 2017-09-12 | parcial | cvm-pas-sp2014-0014 | fichas/pas/2017-03.md |
-| art. 17, § 2º | pas | 07/2013 | 2019-10-08 | condenacao | cvm-pas-07-2013 | fichas/pas/2019-09.md |
-| art. 17, § 2º | pas | 19957.004478/2018-75 | 2023-06-20 | parcial | cvm-pas-19957-004478-2018-75 | fichas/pas/2023-03.md |
+| art. 17, § 2º | pas | SP2012/218 | 2014-03-25 | condenacao | cvm-pas-sp2012-0218 | fichas/pas/2014-02.md |
+| art. 17, § 2º | pas | RJ2015/1034 | 2016-08-23 | condenacao | cvm-pas-rj2015-1034 | fichas/pas/2016-06.md |
+| art. 17, § 2º | pas | SP2012/0374 | 2016-07-19 | parcial | cvm-pas-sp2012-0374 | fichas/pas/2016-04.md |
+| art. 17, § 2º | pas | SP2013/292 | 2016-07-19 | condenacao | cvm-pas-sp2013-0292 | fichas/pas/2016-04.md |
+| art. 17, § 2º | pas | SP2014/14 | 2017-09-12 | parcial | cvm-pas-sp2014-0014 | fichas/pas/2017-06.md |
+| art. 17, § 2º | pas | 07/2013 | 2019-10-08 | condenacao | cvm-pas-07-2013 | fichas/pas/2019-17.md |
+| art. 17, § 2º | pas | 19957.004478/2018-75 | 2023-06-20 | parcial | cvm-pas-19957-004478-2018-75 | fichas/pas/2023-06.md |
 
 ## art. 18
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 18 | acordao-crsfn | 07/2013 | 2022-12-08 | condenacao | crsfn-10372-100057-2020-95 | fichas/crsfn/2022-07.md |
+| art. 18 | acordao-crsfn | 07/2013 | 2022-12-08 | condenacao | crsfn-10372-100057-2020-95 | fichas/crsfn/2022-09.md |
 | art. 18 | decisao-colegiado | RJ2012/1976 | 2013-12-03 | nao-provido | cvm-col-20131203-d07 | fichas/colegiado/2013-23.md |
-| art. 18 | pas | SP2013/292 | 2016-07-19 | condenacao | cvm-pas-sp2013-0292 | fichas/pas/2016-02.md |
-| art. 18 | pas | SP2013/210 | 2018-10-09 | parcial | cvm-pas-sp2013-0210 | fichas/pas/2018-07.md |
-| art. 18 | pas | 07/2013 | 2019-10-08 | condenacao | cvm-pas-07-2013 | fichas/pas/2019-09.md |
-| art. 18, inciso I | acordao-crsfn | SP-2011-284 | 2017-02-08 | parcial | crsfn-14459 | fichas/crsfn/2017-01.md |
+| art. 18 | pas | SP2013/292 | 2016-07-19 | condenacao | cvm-pas-sp2013-0292 | fichas/pas/2016-04.md |
+| art. 18 | pas | SP2013/210 | 2018-10-09 | parcial | cvm-pas-sp2013-0210 | fichas/pas/2018-15.md |
+| art. 18 | pas | 07/2013 | 2019-10-08 | condenacao | cvm-pas-07-2013 | fichas/pas/2019-17.md |
+| art. 18, inciso I | acordao-crsfn | SP-2011-284 | 2017-02-08 | parcial | crsfn-14459 | fichas/crsfn/2017-02.md |
 | art. 18, inciso I | acordao-crsfn | 17/2013 | 2022-06-07 | parcial | crsfn-10372-100337-2019-60 | fichas/crsfn/2022-04.md |
-| art. 18, inciso I | pas | SP2012/218 | 2014-03-25 | condenacao | cvm-pas-sp2012-0218 | fichas/pas/2014-01.md |
-| art. 18, inciso I | pas | SP2011/284 | 2015-12-18 | parcial | cvm-pas-sp2011-0284 | fichas/pas/2015-07.md |
-| art. 18, inciso I | pas | SP2013/292 | 2016-07-19 | condenacao | cvm-pas-sp2013-0292 | fichas/pas/2016-02.md |
-| art. 18, inciso I | pas | 17/2013 | 2019-06-25 | condenacao | cvm-pas-17-2013 | fichas/pas/2019-05.md |
-| art. 18, inciso II | pas | SP2013/292 | 2016-07-19 | condenacao | cvm-pas-sp2013-0292 | fichas/pas/2016-02.md |
-| art. 18, inciso III | acordao-crsfn | 19957.007344/2019-97 | 2023-10-11 | condenacao | crsfn-10372-100072-2023-86 | fichas/crsfn/2023-06.md |
+| art. 18, inciso I | pas | SP2012/218 | 2014-03-25 | condenacao | cvm-pas-sp2012-0218 | fichas/pas/2014-02.md |
+| art. 18, inciso I | pas | SP2011/284 | 2015-12-18 | parcial | cvm-pas-sp2011-0284 | fichas/pas/2015-14.md |
+| art. 18, inciso I | pas | SP2013/292 | 2016-07-19 | condenacao | cvm-pas-sp2013-0292 | fichas/pas/2016-04.md |
+| art. 18, inciso I | pas | 17/2013 | 2019-06-25 | condenacao | cvm-pas-17-2013 | fichas/pas/2019-09.md |
+| art. 18, inciso II | pas | SP2013/292 | 2016-07-19 | condenacao | cvm-pas-sp2013-0292 | fichas/pas/2016-04.md |
+| art. 18, inciso III | acordao-crsfn | 19957.007344/2019-97 | 2023-10-11 | condenacao | crsfn-10372-100072-2023-86 | fichas/crsfn/2023-08.md |
 | art. 18, inciso III | pas | 19957.007344/2019-97 | 2023-02-28 | condenacao | cvm-pas-19957-007344-2019-97 | fichas/pas/2023-01.md |
 
 ## art. 19
@@ -425,13 +425,13 @@ Este subíndice tem 480 linhas e uma leitura única é cortada em silêncio pert
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 165, inciso V | pas | 10/2005 | 2009-08-25 | parcial | cvm-pas-10-2005 | fichas/pas/2009-04.md |
+| art. 165, inciso V | pas | 10/2005 | 2009-08-25 | parcial | cvm-pas-10-2005 | fichas/pas/2009-07.md |
 
 ## art. 173
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 173 | pas | RJ2015/1034 | 2016-08-23 | condenacao | cvm-pas-rj2015-1034 | fichas/pas/2016-03.md |
+| art. 173 | pas | RJ2015/1034 | 2016-08-23 | condenacao | cvm-pas-rj2015-1034 | fichas/pas/2016-06.md |
 
 ## Citada sem dispositivo identificado
 
@@ -439,9 +439,9 @@ Este subíndice tem 480 linhas e uma leitura única é cortada em silêncio pert
 |---|---|---|---|---|---|
 | termo-compromisso | 19957.000198/2020-11 | 2022-03-08 | rejeitado | cvm-col-20220308-d1489 | fichas/tc/2022-01.md |
 | acordao-crsfn | RJ2016/4685 | 2021-04-13 | condenacao | crsfn-10372-100241-2019-00 | fichas/crsfn/2021-01.md |
-| pas | 19957.004737/2017-87; RJ2018/269 | 2019-10-22 | parcial | cvm-pas-19957-004737-2017-87 | fichas/pas/2019-09.md |
+| pas | 19957.004737/2017-87; RJ2018/269 | 2019-10-22 | parcial | cvm-pas-19957-004737-2017-87 | fichas/pas/2019-17.md |
 | decisao-colegiado | RJ2014/6050 | 2018-10-02 | nao-provido | cvm-col-20181002-d1177 | fichas/colegiado/2018-17.md |
-| pas | 22/2013 | 2018-09-18 | condenacao | cvm-pas-22-2013 | fichas/pas/2018-07.md |
+| pas | 22/2013 | 2018-09-18 | condenacao | cvm-pas-22-2013 | fichas/pas/2018-14.md |
 | decisao-colegiado | 19957.001207/2016-04 | 2016-10-25 | nao-provido | cvm-col-20161025-d0410 | fichas/colegiado/2016-21.md |
 | decisao-colegiado | RJ2013/9858 | 2015-08-25 | nao-provido | cvm-col-20150825-d9800 | fichas/colegiado/2015-15.md |
 | decisao-colegiado | RJ2015/1325 | 2015-07-07 | nao-provido | cvm-col-20150707-d9753 | fichas/colegiado/2015-13.md |
@@ -473,7 +473,7 @@ Este subíndice tem 480 linhas e uma leitura única é cortada em silêncio pert
 | decisao-colegiado | SP2009/0125 | 2010-08-03 | deferido | cvm-col-20100803-d09 | fichas/colegiado/2010-16.md |
 | decisao-colegiado | SP2010/0038 | 2010-06-16 | deferido | cvm-col-20100616-d01 | fichas/colegiado/2010-14.md |
 | decisao-colegiado | SP2010/0038 | 2010-04-07 | outro | cvm-col-20100407-d01-r2 | fichas/colegiado/2010-10.md |
-| pas | RJ2009/3823 | 2009-12-15 | condenacao | cvm-pas-rj2009-3823 | fichas/pas/2009-06.md |
+| pas | RJ2009/3823 | 2009-12-15 | condenacao | cvm-pas-rj2009-3823 | fichas/pas/2009-11.md |
 | decisao-colegiado | RJ2007/11399 | 2008-07-03 | outro | cvm-col-20080703-d03 | fichas/colegiado/2008-14.md |
 | decisao-colegiado | RJ2006/6823 | 2006-09-19 | outro | cvm-col-20060919-d05 | fichas/colegiado/2006-14.md |
 

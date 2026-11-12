@@ -11,12 +11,12 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 27 | acordao-crsfn | 08/2012 | 2020-09-15 | parcial | crsfn-10372-000204-2016-41 | fichas/crsfn/2020-04.md |
-| art. 27 | acordao-crsfn | IA-2011-2 | 2020-08-18 | condenacao | crsfn-10372-000380-2016-83 | fichas/crsfn/2020-04.md |
-| art. 27 | acordao-crsfn | 04/2013 | 2020-08-18 | condenacao | crsfn-10372-000470-2016-74 | fichas/crsfn/2020-04.md |
-| art. 27 | acordao-crsfn | SP2012/218 | 2020-10-20 | parcial | crsfn-14241 | fichas/crsfn/2020-06.md |
+| art. 27 | acordao-crsfn | 08/2012 | 2020-09-15 | parcial | crsfn-10372-000204-2016-41 | fichas/crsfn/2020-06.md |
+| art. 27 | acordao-crsfn | IA-2011-2 | 2020-08-18 | condenacao | crsfn-10372-000380-2016-83 | fichas/crsfn/2020-05.md |
+| art. 27 | acordao-crsfn | 04/2013 | 2020-08-18 | condenacao | crsfn-10372-000470-2016-74 | fichas/crsfn/2020-05.md |
+| art. 27 | acordao-crsfn | SP2012/218 | 2020-10-20 | parcial | crsfn-14241 | fichas/crsfn/2020-08.md |
 | art. 27 | decisao-colegiado | 19957.004122/2015-99 | 2016-04-12 | provido | cvm-col-20160412-d0050 | fichas/colegiado/2016-08.md |
-| art. 27 | pas | RJ2016/8347 | 2018-08-07 | parcial | cvm-pas-rj2016-8347 | fichas/pas/2018-06.md |
+| art. 27 | pas | RJ2016/8347 | 2018-08-07 | parcial | cvm-pas-rj2016-8347 | fichas/pas/2018-12.md |
 
 ## art. 28
 

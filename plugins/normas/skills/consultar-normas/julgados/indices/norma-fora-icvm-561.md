@@ -11,7 +11,7 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.011363/2024-85 | 2026-07-14 | parcial | cvm-pas-19957-011363-2024-85 | fichas/pas/2026-01.md |
+| pas | 19957.011363/2024-85 | 2026-07-14 | parcial | cvm-pas-19957-011363-2024-85 | fichas/pas/2026-02.md |
 | decisao-colegiado | 19957.003281/2022-03 | 2022-04-20 | indeferido | cvm-col-20220420-d2570 | fichas/colegiado/2022-07.md |
 | decisao-colegiado | 19957.003084/2020-14 | 2020-05-26 | deferido | cvm-col-20200526-d1819 | fichas/colegiado/2020-09.md |
 | decisao-colegiado | 19957.006786/2018-35 | 2020-01-21 | outro | cvm-col-20200121-d1112 | fichas/colegiado/2020-01.md |
@@ -21,7 +21,7 @@ Norma: fora do acervo.
 | decisao-colegiado | — | 2016-11-21 | outro | cvm-col-20161121-d5347 | fichas/colegiado/2016-22.md |
 | decisao-colegiado | 19957.004523/2016-20 | 2016-10-11 | deferido | cvm-col-20161011-d0293 | fichas/colegiado/2016-20.md |
 | decisao-colegiado | 561/2015; RJ2011/13930 | 2015-11-13 | outro | cvm-col-20151113-d2895 | fichas/colegiado/2015-21.md |
-| pas | RJ2013/11113 | 2015-08-11 | parcial | cvm-pas-rj2013-11113 | fichas/pas/2015-04.md |
-| pas | RJ2012/1730 | 2015-05-19 | absolvicao | cvm-pas-rj2012-1730 | fichas/pas/2015-03.md |
+| pas | RJ2013/11113 | 2015-08-11 | parcial | cvm-pas-rj2013-11113 | fichas/pas/2015-09.md |
+| pas | RJ2012/1730 | 2015-05-19 | absolvicao | cvm-pas-rj2012-1730 | fichas/pas/2015-05.md |
 
 Fim do subíndice.

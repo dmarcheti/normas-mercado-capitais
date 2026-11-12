@@ -15,11 +15,11 @@ Norma: fora do acervo.
 | art. 4º | decisao-antiga | — | 1997-01-13 | — | cvm-dec-1997-0001 | fichas/decisoes-antigas/1997-12.md |
 | art. 4º | decisao-antiga | — | 1999-01-29 | — | cvm-dec-1999-0001 | fichas/decisoes-antigas/1999-28.md |
 | art. 4º | decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
-| art. 4º | pas | 05/2000 | 2004-11-11 | parcial | cvm-pas-05-2000 | fichas/pas/2004-07.md |
-| art. 4º | pas | 05/2002 | 2004-08-05 | parcial | cvm-pas-05-2002 | fichas/pas/2004-04.md |
+| art. 4º | pas | 05/2000 | 2004-11-11 | parcial | cvm-pas-05-2000 | fichas/pas/2004-14.md |
+| art. 4º | pas | 05/2002 | 2004-08-05 | parcial | cvm-pas-05-2002 | fichas/pas/2004-08.md |
 | art. 4º, parágrafo único | acordao-crsfn | 05/00 | 2009-02-16 | parcial | crsfn-7526 | fichas/crsfn/2009-01.md |
 | art. 4º, parágrafo único | decisao-colegiado | RJ2004/2684 | 2005-03-29 | provido | cvm-col-20050329-d02 | fichas/colegiado/2005-06.md |
-| art. 4º, parágrafo único | pas | 05/2000 | 2004-11-11 | parcial | cvm-pas-05-2000 | fichas/pas/2004-07.md |
+| art. 4º, parágrafo único | pas | 05/2000 | 2004-11-11 | parcial | cvm-pas-05-2000 | fichas/pas/2004-14.md |
 
 ## art. 5º
 
@@ -29,22 +29,22 @@ Norma: fora do acervo.
 | art. 5º | decisao-antiga | — | 1997-01-13 | — | cvm-dec-1997-0001 | fichas/decisoes-antigas/1997-12.md |
 | art. 5º | decisao-antiga | — | 1999-01-29 | — | cvm-dec-1999-0001 | fichas/decisoes-antigas/1999-28.md |
 | art. 5º | decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
-| art. 5º | pas | 05/2000 | 2004-11-11 | parcial | cvm-pas-05-2000 | fichas/pas/2004-07.md |
-| art. 5º | pas | 05/2002 | 2004-08-05 | parcial | cvm-pas-05-2002 | fichas/pas/2004-04.md |
+| art. 5º | pas | 05/2000 | 2004-11-11 | parcial | cvm-pas-05-2000 | fichas/pas/2004-14.md |
+| art. 5º | pas | 05/2002 | 2004-08-05 | parcial | cvm-pas-05-2002 | fichas/pas/2004-08.md |
 
 ## art. 9º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 9º | acordao-crsfn | 08/2012 | 2020-09-15 | parcial | crsfn-10372-000204-2016-41 | fichas/crsfn/2020-04.md |
+| art. 9º | acordao-crsfn | 08/2012 | 2020-09-15 | parcial | crsfn-10372-000204-2016-41 | fichas/crsfn/2020-06.md |
 | art. 9º | decisao-colegiado | RJ2005/7329 | 2006-01-31 | nao-provido | cvm-col-20060131-d03 | fichas/colegiado/2006-02.md |
 | art. 9º | decisao-colegiado | RJ2006/0594; RJ2005/0147 | 2007-07-10 | parcial | cvm-col-20070710-d03 | fichas/colegiado/2007-12.md |
-| art. 9º | pas | RJ2016/4426 | 2018-12-11 | parcial | cvm-pas-rj2016-4426 | fichas/pas/2018-11.md |
-| art. 9º | pas | RJ2017/3871 | 2018-12-11 | condenacao | cvm-pas-rj2017-3871 | fichas/pas/2018-11.md |
-| art. 9º | pas | 19957.003999/2021-19 | 2024-08-06 | parcial | cvm-pas-19957-003999-2021-19 | fichas/pas/2024-06.md |
-| art. 9º, § 1º | acordao-crsfn | RJ2008/4877 | 2013-07-30 | condenacao | crsfn-12796 | fichas/crsfn/2013-02.md |
+| art. 9º | pas | RJ2016/4426 | 2018-12-11 | parcial | cvm-pas-rj2016-4426 | fichas/pas/2018-21.md |
+| art. 9º | pas | RJ2017/3871 | 2018-12-11 | condenacao | cvm-pas-rj2017-3871 | fichas/pas/2018-22.md |
+| art. 9º | pas | 19957.003999/2021-19 | 2024-08-06 | parcial | cvm-pas-19957-003999-2021-19 | fichas/pas/2024-11.md |
+| art. 9º, § 1º | acordao-crsfn | RJ2008/4877 | 2013-07-30 | condenacao | crsfn-12796 | fichas/crsfn/2013-03.md |
 | art. 9º, § 1º | decisao-colegiado | RJ2006/0594; RJ2005/0147 | 2007-07-10 | parcial | cvm-col-20070710-d03 | fichas/colegiado/2007-12.md |
-| art. 9º, § 1º | pas | RJ2008/4877 | 2009-05-12 | condenacao | cvm-pas-rj2008-4877 | fichas/pas/2009-02.md |
+| art. 9º, § 1º | pas | RJ2008/4877 | 2009-05-12 | condenacao | cvm-pas-rj2008-4877 | fichas/pas/2009-04.md |
 | art. 9º, § 2º | decisao-colegiado | RJ2003/2398 | 2003-06-03 | nao-provido | cvm-col-20030603-d07 | fichas/colegiado/2003-07.md |
 | art. 9º, § 7º | decisao-colegiado | RJ2006/0594; RJ2005/0147 | 2007-07-10 | parcial | cvm-col-20070710-d03 | fichas/colegiado/2007-12.md |
 | art. 9º, § 7º | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
@@ -84,14 +84,14 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 34 | pas | RJ2013/9266 | 2018-03-27 | parcial | cvm-pas-rj2013-9266 | fichas/pas/2018-02.md |
+| art. 34 | pas | RJ2013/9266 | 2018-03-27 | parcial | cvm-pas-rj2013-9266 | fichas/pas/2018-04.md |
 
 ## Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.001669/2016-13 | 2016-08-30 | provido | cvm-col-20160830-d0291 | fichas/colegiado/2016-16.md |
-| pas | 08/2012 | 2014-12-16 | condenacao | cvm-pas-08-2012 | fichas/pas/2014-05.md |
+| pas | 08/2012 | 2014-12-16 | condenacao | cvm-pas-08-2012 | fichas/pas/2014-10.md |
 | decisao-colegiado | RJ2012/12063 | 2013-09-17 | nao-provido | cvm-col-20130917-d02 | fichas/colegiado/2013-17.md |
 | decisao-colegiado | RJ2012/1046 | 2013-09-17 | parcial | cvm-col-20130917-d01 | fichas/colegiado/2013-17.md |
 | decisao-colegiado | RJ2011/5252 | 2012-07-17 | nao-provido | cvm-col-20120717-d01 | fichas/colegiado/2012-12.md |
@@ -109,7 +109,7 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2007/2111 | 2009-11-17 | nao-provido | cvm-col-20091117-d09 | fichas/colegiado/2009-19.md |
 | decisao-colegiado | RJ2002/3630 | 2009-01-06 | nao-provido | cvm-col-20090106-d03 | fichas/colegiado/2009-01.md |
 | decisao-colegiado | RJ2004/2684 | 2006-01-24 | provido | cvm-col-20060124-d01 | fichas/colegiado/2006-01.md |
-| pas | RJ2004/1278 | 2006-01-19 | parcial | cvm-pas-rj2004-1278 | fichas/pas/2006-01.md |
+| pas | RJ2004/1278 | 2006-01-19 | parcial | cvm-pas-rj2004-1278 | fichas/pas/2006-02.md |
 | decisao-colegiado | RJ2004/2684 | 2005-12-20 | — | cvm-col-20051220-d01 | fichas/colegiado/2005-20.md |
 | decisao-colegiado | RJ2004/2684 | 2005-11-08 | — | cvm-col-20051108-d03 | fichas/colegiado/2005-16.md |
 | decisao-colegiado | — | 2005-03-08 | indeferido | cvm-col-20050308-d08 | fichas/colegiado/2005-05.md |

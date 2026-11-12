@@ -11,19 +11,19 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.011331/2025-61 | 2026-07-28 | condenacao | cvm-pas-19957-011331-2025-61 | fichas/pas/2026-02.md |
+| pas | 19957.011331/2025-61 | 2026-07-28 | condenacao | cvm-pas-19957-011331-2025-61 | fichas/pas/2026-03.md |
 | decisao-colegiado | 19957.000562/2025-49 | 2025-07-15 | deferido | cvm-col-20250715-d3307 | fichas/colegiado/2025-06.md |
 | decisao-colegiado | 19957.001217/2025-22 | 2025-07-08 | outro | cvm-col-20250708-d3284 | fichas/colegiado/2025-06.md |
 | decisao-colegiado | 19957.012698/2023-30 | 2025-07-08 | deferido | cvm-col-20250708-d3211 | fichas/colegiado/2025-06.md |
-| pas | 19957.001865/2024-06 | 2024-11-05 | condenacao | cvm-pas-19957-001865-2024-06 | fichas/pas/2024-09.md |
-| pas | 19957.008119/2023-54 | 2024-10-22 | parcial | cvm-pas-19957-008119-2023-54 | fichas/pas/2024-09.md |
+| pas | 19957.001865/2024-06 | 2024-11-05 | condenacao | cvm-pas-19957-001865-2024-06 | fichas/pas/2024-18.md |
+| pas | 19957.008119/2023-54 | 2024-10-22 | parcial | cvm-pas-19957-008119-2023-54 | fichas/pas/2024-17.md |
 | decisao-colegiado | 19957.008119/2023-54 | 2024-07-09 | parcial | cvm-col-20240709-d3031 | fichas/colegiado/2024-08.md |
-| pas | 19957.000414/2023-62 | 2024-06-18 | condenacao | cvm-pas-19957-000414-2023-62 | fichas/pas/2024-04.md |
-| pas | 19957.010024/2022-10 | 2024-02-27 | condenacao | cvm-pas-19957-010024-2022-10 | fichas/pas/2024-01.md |
-| pas | 19957.003793/2021-81 | 2023-12-12 | parcial | cvm-pas-19957-003793-2021-81 | fichas/pas/2023-09.md |
+| pas | 19957.000414/2023-62 | 2024-06-18 | condenacao | cvm-pas-19957-000414-2023-62 | fichas/pas/2024-07.md |
+| pas | 19957.010024/2022-10 | 2024-02-27 | condenacao | cvm-pas-19957-010024-2022-10 | fichas/pas/2024-02.md |
+| pas | 19957.003793/2021-81 | 2023-12-12 | parcial | cvm-pas-19957-003793-2021-81 | fichas/pas/2023-16.md |
 | decisao-colegiado | 19957.011044/2019-11 | 2023-10-17 | outro | cvm-col-20231017-d1738 | fichas/colegiado/2023-11.md |
 | decisao-colegiado | 03/2021; 19957.000017/2019-12 | 2023-05-03 | outro | cvm-col-20230503-d2124 | fichas/colegiado/2023-05.md |
-| pas | 19957.009725/2018-20 | 2022-10-18 | condenacao | cvm-pas-19957-009725-2018-20 | fichas/pas/2022-05.md |
+| pas | 19957.009725/2018-20 | 2022-10-18 | condenacao | cvm-pas-19957-009725-2018-20 | fichas/pas/2022-10.md |
 | decisao-colegiado | 19957.003965/2022-05; 19957.003813/2022-02 | 2022-06-21 | deferido | cvm-col-20220621-d2284-21 | fichas/colegiado/2022-10.md |
 | decisao-colegiado | 19957.009014/2021-51 | 2022-02-22 | parcial | cvm-col-20220222-d2484 | fichas/colegiado/2022-02.md |
 | decisao-colegiado | 19957.004010/2021-86 | 2021-11-16 | deferido | cvm-col-20211116-d2375 | fichas/colegiado/2021-19.md |

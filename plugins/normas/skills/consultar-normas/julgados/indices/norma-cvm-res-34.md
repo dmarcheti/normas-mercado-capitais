@@ -11,20 +11,20 @@ Norma: [cvm/resolucoes/0034.md](../../normas/cvm/resolucoes/0034.md) (texto vige
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 7º, inciso II | acordao-crsfn | 19957.016206/2023-85 | 2025-11-11 | absolvicao | crsfn-19957-016206-2023-85 | fichas/crsfn/2025-06.md |
-| art. 7º, inciso II | pas | 19957.016206/2023-85 | 2024-11-26 | parcial | cvm-pas-19957-016206-2023-85 | fichas/pas/2024-10.md |
+| art. 7º, inciso II | acordao-crsfn | 19957.016206/2023-85 | 2025-11-11 | absolvicao | crsfn-19957-016206-2023-85 | fichas/crsfn/2025-07.md |
+| art. 7º, inciso II | pas | 19957.016206/2023-85 | 2024-11-26 | parcial | cvm-pas-19957-016206-2023-85 | fichas/pas/2024-20.md |
 
 ## art. 49
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 49 | pas | 19957.001912/2024-11 | 2025-03-18 | parcial | cvm-pas-19957-001912-2024-11 | fichas/pas/2025-01.md |
+| art. 49 | pas | 19957.001912/2024-11 | 2025-03-18 | parcial | cvm-pas-19957-001912-2024-11 | fichas/pas/2025-02.md |
 
 ## Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.012698/2023-30 | 2025-07-08 | deferido | cvm-col-20250708-d3211 | fichas/colegiado/2025-06.md |
-| pas | 19957.011361/2018-48 | 2023-06-27 | absolvicao | cvm-pas-19957-011361-2018-48 | fichas/pas/2023-04.md |
+| pas | 19957.011361/2018-48 | 2023-06-27 | absolvicao | cvm-pas-19957-011361-2018-48 | fichas/pas/2023-06.md |
 
 Fim do subíndice.

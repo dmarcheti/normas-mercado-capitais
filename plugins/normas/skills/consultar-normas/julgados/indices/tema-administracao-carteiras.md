@@ -42,435 +42,435 @@ Este subíndice tem 476 linhas e uma leitura única é cortada em silêncio pert
 | 1998 | 468 |
 | 1997 | 473 |
 
-| Tipo | Processo | Data | Resultado | Id | Ficha |
-|---|---|---|---|---|---|
-| pas | 19957.005017/2025-49 | 2026-08-26 | — | cvm-pas-19957-005017-2025-49 | fichas/pas/2026-02.md |
-| pas | 19957.005514/2025-47 | 2026-06-02 | condenacao | cvm-pas-19957-005514-2025-47 | fichas/pas/2026-01.md |
-| pas | 19957.007774/2025-57 | 2026-05-26 | condenacao | cvm-pas-19957-007774-2025-57 | fichas/pas/2026-01.md |
-| termo-compromisso | 19957.004558/2025-50 | 2026-04-07 | outro | cvm-col-20260407-d3472 | fichas/tc/2026-01.md |
-| decisao-colegiado | 19957.010660/2025-94 | 2026-03-10 | outro | cvm-col-20260310-d3448 | fichas/colegiado/2026-01.md |
-| decisao-colegiado | 19957.012507/2025-00 | 2026-03-03 | nao-provido | cvm-col-20260303-d3457 | fichas/colegiado/2026-01.md |
-| decisao-colegiado | 19957.012763/2025-99 | 2026-03-03 | nao-provido | cvm-col-20260303-d3456 | fichas/colegiado/2026-01.md |
-| pas | 19957.002964/2020-73 | 2025-12-23 | absolvicao | cvm-pas-19957-002964-2020-73 | fichas/pas/2025-06.md |
-| decisao-colegiado | 19957.009353/2025-61 | 2025-12-09 | — | cvm-col-20251209-d3427 | fichas/colegiado/2025-12.md |
-| acordao-crsfn | 19957.005450/2021-51 | 2025-11-11 | condenacao | crsfn-19957-005450-2021-51 | fichas/crsfn/2025-05.md |
-| decisao-colegiado | 19957.005925/2025-32 | 2025-10-14 | — | cvm-col-20251014-d3397 | fichas/colegiado/2025-10.md |
-| decisao-colegiado | 19957.006744/2025-23 | 2025-09-23 | nao-provido | cvm-col-20250923-d3371 | fichas/colegiado/2025-10.md |
-| acordao-crsfn | 19957.003158/2020-12 | 2025-09-16 | condenacao | crsfn-19957-003158-2020-12 | fichas/crsfn/2025-04.md |
-| decisao-colegiado | 19957.005781/2025-14 | 2025-09-09 | nao-provido | cvm-col-20250909-d3359 | fichas/colegiado/2025-09.md |
-| decisao-colegiado | 19957.006516/2023-91 | 2025-09-09 | nao-provido | cvm-col-20250909-d3354 | fichas/colegiado/2025-09.md |
-| decisao-colegiado | 19957.003081/2025-95 | 2025-06-03 | nao-provido | cvm-col-20250603-d3288 | fichas/colegiado/2025-05.md |
-| pas | 19957.001254/2023-79 | 2025-05-27 | parcial | cvm-pas-19957-001254-2023-79 | fichas/pas/2025-02.md |
-| decisao-colegiado | 19957.001630/2025-97 | 2025-05-27 | provido | cvm-col-20250527-d3282 | fichas/colegiado/2025-05.md |
-| decisao-colegiado | 19957.001695/2025-32 | 2025-05-13 | nao-provido | cvm-col-20250513-d3276 | fichas/colegiado/2025-04.md |
-| decisao-colegiado | 19957.002746/2025-43 | 2025-05-13 | nao-provido | cvm-col-20250513-d3275 | fichas/colegiado/2025-04.md |
-| pas | 19957.003158/2020-12 | 2025-04-29 | condenacao | cvm-pas-19957-003158-2020-12 | fichas/pas/2025-02.md |
-| decisao-colegiado | 19957.001821/2025-59 | 2025-04-08 | nao-provido | cvm-col-20250408-d3249 | fichas/colegiado/2025-03.md |
-| decisao-colegiado | 19957.021687/2024-21 | 2025-04-08 | nao-provido | cvm-col-20250408-d3248 | fichas/colegiado/2025-03.md |
-| decisao-colegiado | 19957.016807/2024-79 | 2025-01-28 | nao-provido | cvm-col-20250128-d3214 | fichas/colegiado/2025-01.md |
-| decisao-colegiado | 19957.020320/2024-91 | 2025-01-28 | nao-provido | cvm-col-20250128-d3213 | fichas/colegiado/2025-01.md |
-| decisao-colegiado | 19957.016025/2024-30 | 2025-01-28 | nao-provido | cvm-col-20250128-d3210 | fichas/colegiado/2025-01.md |
-| decisao-colegiado | 19957.013547/2024-80 | 2025-01-21 | nao-provido | cvm-col-20250121-d3209 | fichas/colegiado/2025-01.md |
-| termo-compromisso | 19957.014508/2023-19 | 2024-12-20 | rejeitado | cvm-col-20241220-d3198 | fichas/tc/2024-07.md |
-| pas | 19957.005450/2021-51 | 2024-12-17 | condenacao | cvm-pas-19957-005450-2021-51 | fichas/pas/2024-11.md |
-| decisao-colegiado | 21/2021; 19957.005947/2024-11 | 2024-12-10 | deferido | cvm-col-20241210-d3186 | fichas/colegiado/2024-14.md |
-| decisao-colegiado | 19957.008709/2024-68 | 2024-10-29 | nao-provido | cvm-col-20241029-d3165 | fichas/colegiado/2024-12.md |
-| decisao-colegiado | 19957.008748/2024-65 | 2024-10-22 | nao-provido | cvm-col-20241022-d3157 | fichas/colegiado/2024-11.md |
-| decisao-colegiado | 19957.008812/2024-16 | 2024-10-22 | nao-provido | cvm-col-20241022-d3156 | fichas/colegiado/2024-11.md |
-| pas | 19957.013928/2023-88 | 2024-09-24 | condenacao | cvm-pas-19957-013928-2023-88 | fichas/pas/2024-08.md |
-| termo-compromisso | 19957.011992/2023-24 | 2024-09-10 | aceito | cvm-col-20240910-d3132 | fichas/tc/2024-05.md |
-| pas | 19957.004588/2020-51 | 2024-07-09 | condenacao | cvm-pas-19957-004588-2020-51 | fichas/pas/2024-05.md |
-| pas | 19957.002220/2021-30 | 2024-07-09 | condenacao | cvm-pas-19957-002220-2021-30 | fichas/pas/2024-05.md |
-| termo-compromisso | 19957.000589/2024-51 | 2024-07-09 | aceito | cvm-col-20240709-d3095 | fichas/tc/2024-04.md |
-| decisao-colegiado | 19957.003986/2024-84 | 2024-07-09 | nao-provido | cvm-col-20240709-d3094 | fichas/colegiado/2024-08.md |
-| acordao-crsfn | 19957.010223/2019-22 | 2024-06-11 | condenacao | crsfn-10372-100128-2023-01 | fichas/crsfn/2024-03.md |
-| decisao-colegiado | 19957.014519/2023-07 | 2024-03-26 | nao-provido | cvm-col-20240326-d3024 | fichas/colegiado/2024-04.md |
-| decisao-colegiado | 19957.014209/2023-84 | 2024-03-26 | nao-provido | cvm-col-20240326-d3022 | fichas/colegiado/2024-04.md |
-| acordao-crsfn | 19957.011368/2017-89; RJ2018/00251 | 2024-03-12 | condenacao | crsfn-10372-100089-2022-52 | fichas/crsfn/2024-01.md |
-| decisao-colegiado | 19957.014519/2023-07 | 2024-02-20 | — | cvm-col-20240220-d3024 | fichas/colegiado/2024-02.md |
-| decisao-colegiado | 19957.014209/2023-84 | 2024-02-20 | — | cvm-col-20240220-d3022 | fichas/colegiado/2024-02.md |
-| acordao-crsfn | 19957.012126/2022-70 | 2024-02-07 | condenacao | crsfn-10372-100127-2023-58 | fichas/crsfn/2024-01.md |
-| decisao-colegiado | 19957.012892/2023-15 | 2024-01-23 | nao-provido | cvm-col-20240123-d3001 | fichas/colegiado/2024-01.md |
-| pas | 19957.001292/2022-41 | 2023-12-12 | condenacao | cvm-pas-19957-001292-2022-41 | fichas/pas/2023-09.md |
-| decisao-colegiado | 19957.003763/2023-36 | 2023-08-29 | nao-provido | cvm-col-20230829-d2922 | fichas/colegiado/2023-09.md |
-| termo-compromisso | 19957.003158/2020-12 | 2023-04-18 | rejeitado | cvm-col-20230418-d2837 | fichas/tc/2023-03.md |
-| acordao-crsfn | 05/2012 | 2023-04-12 | condenacao | crsfn-10372-100110-2020-58 | fichas/crsfn/2023-03.md |
-| decisao-colegiado | 19957.010091/2022-34 | 2023-02-28 | provido | cvm-col-20230228-d2692 | fichas/colegiado/2023-03.md |
-| decisao-colegiado | 19957.013909/2022-71 | 2023-02-14 | nao-provido | cvm-col-20230214-d2799 | fichas/colegiado/2023-03.md |
-| acordao-crsfn | 22/2013 | 2022-12-08 | condenacao | crsfn-10372-100108-2019-45 | fichas/crsfn/2022-08.md |
-| acordao-crsfn | 14/2013 | 2022-12-08 | condenacao | crsfn-10372-100093-2021-30 | fichas/crsfn/2022-08.md |
-| acordao-crsfn | RJ2014/3161; 19957.010705/2019-82 | 2022-12-08 | parcial | crsfn-10372-100050-2021-54 | fichas/crsfn/2022-07.md |
-| acordao-crsfn | RJ2014/3161; 19957.010705/2019-82 | 2022-12-08 | parcial | crsfn-10372-100050-2021-54-2 | fichas/crsfn/2022-07.md |
-| termo-compromisso | 19957.008143/2018-26; 19957.008816/2018-48; 19957.010223/2019-22; 19957.009530/2018-80 | 2022-12-06 | rejeitado | cvm-col-20221206-d1497-e-outros | fichas/tc/2022-05.md |
-| termo-compromisso | 19957.003953/2021-91; 19957.004982/2021-71 | 2022-11-22 | aceito | cvm-col-20221122-d2566-2657 | fichas/tc/2022-05.md |
-| acordao-crsfn | 19957.006936/2017-20; RJ2017/4199 | 2022-11-08 | condenacao | crsfn-10372-100239-2021-47 | fichas/crsfn/2022-06.md |
-| decisao-colegiado | 19957.010091/2022-34 | 2022-09-27 | nao-provido | cvm-col-20220927-d2692 | fichas/colegiado/2022-14.md |
-| termo-compromisso | 19957.002220/2021-30; 19957.004588/2020-51; 19957.010053/2021-09 | 2022-08-23 | rejeitado | cvm-col-20220823-d2674 | fichas/tc/2022-04.md |
-| decisao-colegiado | 19957.003165/2022-86 | 2022-07-12 | nao-provido | cvm-col-20220712-d2650 | fichas/colegiado/2022-11.md |
-| decisao-colegiado | 19957.001991/2022-91 | 2022-06-28 | nao-provido | cvm-col-20220628-d2631 | fichas/colegiado/2022-10.md |
-| decisao-colegiado | 19957.002736/2022-65 | 2022-06-28 | nao-provido | cvm-col-20220628-d2623 | fichas/colegiado/2022-10.md |
-| decisao-colegiado | 19957.001060/2022-92 | 2022-06-28 | nao-provido | cvm-col-20220628-d2622 | fichas/colegiado/2022-10.md |
-| termo-compromisso | 19957.005450/2021-51 | 2022-06-21 | outro | cvm-col-20220621-d2621-22 | fichas/tc/2022-03.md |
-| acordao-crsfn | 02/2013 | 2022-05-10 | outro | crsfn-10372-100247-2019-79 | fichas/crsfn/2022-03.md |
-| acordao-crsfn | 07/2015 | 2022-05-10 | outro | crsfn-10372-100114-2020-36-2 | fichas/crsfn/2022-03.md |
-| pas | 19957.011368/2017-89 | 2022-04-12 | condenacao | cvm-pas-19957-011368-2017-89 | fichas/pas/2022-02.md |
-| decisao-colegiado | 19957.000497/2022-17 | 2022-04-12 | nao-provido | cvm-col-20220412-d2557 | fichas/colegiado/2022-06.md |
-| decisao-colegiado | 19957.010354/2021-24 | 2022-02-08 | nao-provido | cvm-col-20220208-d2471 | fichas/colegiado/2022-01.md |
-| decisao-colegiado | 19957.009952/2021-51 | 2022-02-01 | nao-provido | cvm-col-20220201-d2468 | fichas/colegiado/2022-01.md |
-| acordao-crsfn | 07/2015 | 2021-12-08 | condenacao | crsfn-10372-100114-2020-36 | fichas/crsfn/2021-05.md |
-| decisao-colegiado | 19957.007233/2021-03 | 2021-11-16 | nao-provido | cvm-col-20211116-d2385 | fichas/colegiado/2021-19.md |
-| decisao-colegiado | 19957.006955/2021-32 | 2021-11-03 | nao-provido | cvm-col-20211103-d2365 | fichas/colegiado/2021-18.md |
-| decisao-colegiado | 19957.004920/2021-69 | 2021-10-26 | nao-provido | cvm-col-20211026-d2336 | fichas/colegiado/2021-18.md |
-| acordao-crsfn | RJ2016/7995 | 2021-09-15 | absolvicao | crsfn-10372-100112-2020-47 | fichas/crsfn/2021-03.md |
-| termo-compromisso | 19957.004588/2020-51 | 2021-09-09 | rejeitado | cvm-col-20210909-d2301 | fichas/tc/2021-06.md |
-| termo-compromisso | 19957.002899/2020-86 | 2021-07-13 | rejeitado | cvm-col-20210713-d2237 | fichas/tc/2021-05.md |
-| decisao-colegiado | 19957.003391/2021-86 | 2021-05-18 | provido | cvm-col-20210518-d2170 | fichas/colegiado/2021-08.md |
-| acordao-crsfn | IA-2013-11 | 2021-03-09 | outro | crsfn-10372-100284-2018-04 | fichas/crsfn/2021-01.md |
-| termo-compromisso | 19957.007012/2016-60 | 2021-02-18 | aceito | cvm-col-20210218-d2061 | fichas/tc/2021-01.md |
-| decisao-colegiado | 19957.008013/2020-16 | 2021-02-10 | indeferido | cvm-col-20210210-d2076 | fichas/colegiado/2021-03.md |
-| termo-compromisso | 19957.000198/2020-11; 21/2013 | 2021-02-09 | rejeitado | cvm-col-20210209-d1489 | fichas/tc/2021-01.md |
-| termo-compromisso | 19957.009152/2018-34 | 2021-01-12 | rejeitado | cvm-col-20210112-d1877 | fichas/tc/2021-01.md |
-| termo-compromisso | 19957.010231/2019-79 | 2020-12-22 | aceito | cvm-col-20201222-d2021 | fichas/tc/2020-07.md |
-| decisao-colegiado | 19957.004648/2020-36 | 2020-12-08 | nao-provido | cvm-col-20201208-d2004 | fichas/colegiado/2020-21.md |
-| acordao-crsfn | RJ2016/4271 | 2020-11-17 | condenacao | crsfn-10372-100269-2019-39 | fichas/crsfn/2020-06.md |
-| pas | 19957.010705/2019-82; RJ2014/3161 | 2020-11-10 | — | cvm-pas-19957-010705-2019-82 | fichas/pas/2020-06.md |
-| decisao-colegiado | 19957.005153/2020-24 | 2020-10-20 | nao-provido | cvm-col-20201020-d1953 | fichas/colegiado/2020-17.md |
-| decisao-colegiado | 19957.005168/2020-92 | 2020-10-13 | nao-provido | cvm-col-20201013-d1944 | fichas/colegiado/2020-17.md |
-| decisao-colegiado | 19957.005836/2020-81 | 2020-09-15 | nao-provido | cvm-col-20200915-d1912 | fichas/colegiado/2020-15.md |
-| decisao-colegiado | 19957.002620/2020-64 | 2020-09-08 | nao-provido | cvm-col-20200908-d1907 | fichas/colegiado/2020-15.md |
-| decisao-colegiado | 19957.001548/2020-58 | 2020-08-18 | nao-provido | cvm-col-20200818-d1886 | fichas/colegiado/2020-13.md |
-| decisao-colegiado | 19957.001953/2020-76 | 2020-05-26 | nao-provido | cvm-col-20200526-d1818 | fichas/colegiado/2020-09.md |
-| termo-compromisso | 19957.010958/2018-75 | 2020-03-24 | rejeitado | cvm-col-20200324-d1572 | fichas/tc/2020-02.md |
-| decisao-colegiado | 19957.010148/2019-08 | 2020-02-18 | nao-provido | cvm-col-20200218-d1721 | fichas/colegiado/2020-04.md |
-| decisao-colegiado | 01/2019; 19957.002812/2019-37 | 2020-01-22 | outro | cvm-col-20200122-d1382 | fichas/colegiado/2020-01.md |
-| decisao-colegiado | 19957.006412/2019-09 | 2020-01-21 | nao-provido | cvm-col-20200121-d1681 | fichas/colegiado/2020-01.md |
-| termo-compromisso | 19957.005313/2018-11 | 2019-12-17 | aceito | cvm-col-20191217-d1643 | fichas/tc/2019-07.md |
-| decisao-colegiado | 19957.008937/2019-71 | 2019-12-17 | nao-provido | cvm-col-20191217-d1640 | fichas/colegiado/2019-21.md |
-| termo-compromisso | 19957.008143/2018-26 | 2019-12-17 | rejeitado | cvm-col-20191217-d1497 | fichas/tc/2019-07.md |
-| decisao-colegiado | 19957.008957/2019-41 | 2019-12-10 | nao-provido | cvm-col-20191210-d1633 | fichas/colegiado/2019-20.md |
-| pas | 05/2012 | 2019-12-03 | — | cvm-pas-05-2012 | fichas/pas/2019-11.md |
-| decisao-colegiado | 19957.008351/2019-14 | 2019-11-26 | nao-provido | cvm-col-20191126-d1619 | fichas/colegiado/2019-19.md |
-| pas | 19957.006012/2016-42; RJ2016/7995 | 2019-11-19 | absolvicao | cvm-pas-19957-006012-2016-42 | fichas/pas/2019-10.md |
-| decisao-colegiado | 19957.004674/2019-21 | 2019-10-29 | nao-provido | cvm-col-20191029-d1588 | fichas/colegiado/2019-17.md |
-| pas | 19957.007006/2017-93; RJ2017/4214 | 2019-10-22 | condenacao | cvm-pas-19957-007006-2017-93 | fichas/pas/2019-09.md |
-| decisao-colegiado | 19957.000893/2019-31 | 2019-10-15 | nao-provido | cvm-col-20191015-d1573 | fichas/colegiado/2019-16.md |
-| decisao-colegiado | 19957.003301/2019-32 | 2019-10-01 | nao-provido | cvm-col-20191001-d1561 | fichas/colegiado/2019-16.md |
-| decisao-colegiado | 19957.004070/2019-84 | 2019-07-02 | nao-provido | cvm-col-20190702-d1458 | fichas/colegiado/2019-11.md |
-| acordao-crsfn | RJ2014/13902 | 2019-04-23 | condenacao | crsfn-10372-100061-2019-10 | fichas/crsfn/2019-01.md |
-| decisao-colegiado | 19957.000672/2019-62 | 2019-03-19 | nao-provido | cvm-col-20190319-d1347 | fichas/colegiado/2019-04.md |
-| decisao-colegiado | 19957.010308/2018-20 | 2019-03-12 | nao-provido | cvm-col-20190312-d1336 | fichas/colegiado/2019-04.md |
-| pas | RJ2016/4271 | 2019-01-08 | condenacao | cvm-pas-rj2016-4271 | fichas/pas/2019-01.md |
-| decisao-colegiado | 19957.006209/2018-43 | 2019-01-08 | nao-provido | cvm-col-20190108-d1275 | fichas/colegiado/2019-01.md |
-| decisao-colegiado | 19957.009627/2018-92 | 2019-01-08 | nao-provido | cvm-col-20190108-d1274 | fichas/colegiado/2019-01.md |
-| decisao-colegiado | 14/2013 | 2018-12-27 | outro | cvm-col-20181227-d0124 | fichas/colegiado/2018-21.md |
-| termo-compromisso | 04/2014 | 2018-12-11 | aceito | cvm-col-20181211-d0294 | fichas/tc/2018-07.md |
-| termo-compromisso | 19957.010074/2017-30 | 2018-12-04 | aceito | cvm-col-20181204-d1232 | fichas/tc/2018-07.md |
-| pas | RJ2016/6284 | 2018-10-23 | parcial | cvm-pas-rj2016-6284 | fichas/pas/2018-08.md |
-| decisao-colegiado | 19957.006976/2018-52 | 2018-10-23 | nao-provido | cvm-col-20181023-d1189 | fichas/colegiado/2018-18.md |
-| pas | SP2014/382 | 2018-10-09 | condenacao | cvm-pas-sp2014-0382 | fichas/pas/2018-07.md |
-| decisao-colegiado | 19957.007290/2018-89 | 2018-10-02 | nao-provido | cvm-col-20181002-d1170 | fichas/colegiado/2018-17.md |
-| termo-compromisso | 19957.009481/2017-02 | 2018-09-25 | rejeitado | cvm-col-20180925-d1167 | fichas/tc/2018-05.md |
-| pas | RJ2014/13902 | 2018-09-11 | condenacao | cvm-pas-rj2014-13902 | fichas/pas/2018-07.md |
-| decisao-colegiado | 19957.004930/2018-07 | 2018-07-31 | provido | cvm-col-20180731-d1099 | fichas/colegiado/2018-13.md |
-| pas | RJ2015/12087 | 2018-07-24 | parcial | cvm-pas-rj2015-12087 | fichas/pas/2018-06.md |
-| termo-compromisso | 19957.000701/2018-13; 11/2013 | 2018-07-24 | aceito | cvm-col-20180724-d9564 | fichas/tc/2018-04.md |
-| decisao-colegiado | 19957.005830/2018-90 | 2018-07-17 | nao-provido | cvm-col-20180717-d1088 | fichas/colegiado/2018-13.md |
-| decisao-colegiado | 19957.010499/2017-49 | 2018-07-03 | nao-provido | cvm-col-20180703-d1062 | fichas/colegiado/2018-11.md |
-| decisao-colegiado | 19957.010499/2017-49 | 2018-06-19 | — | cvm-col-20180619-d1062 | fichas/colegiado/2018-11.md |
-| termo-compromisso | RJ2015/9465 | 2018-05-29 | rejeitado | cvm-col-20180529-d0183 | fichas/tc/2018-03.md |
-| termo-compromisso | 19957.003200/2017-08 | 2018-05-22 | rejeitado | cvm-col-20180522-d1034 | fichas/tc/2018-03.md |
-| pas | RJ2015/6143 | 2018-04-24 | condenacao | cvm-pas-rj2015-6143 | fichas/pas/2018-03.md |
-| decisao-colegiado | 19957.000479/2018-41 | 2018-04-03 | deferido | cvm-col-20180403-d0997 | fichas/colegiado/2018-07.md |
-| acordao-crsfn | IA2010/1 | 2018-03-21 | parcial | crsfn-13869 | fichas/crsfn/2018-02.md |
-| decisao-colegiado | 22/2013 | 2018-03-13 | outro | cvm-col-20180313-d9952 | fichas/colegiado/2018-06.md |
-| decisao-colegiado | 19957.009333/2017-80 | 2018-01-16 | nao-provido | cvm-col-20180116-d0893 | fichas/colegiado/2018-01.md |
-| decisao-colegiado | 19957.009478/2017-81 | 2018-01-16 | nao-provido | cvm-col-20180116-d0892 | fichas/colegiado/2018-01.md |
-| acordao-crsfn | IA-2007-6 | 2017-12-12 | outro | crsfn-14404 | fichas/crsfn/2017-09.md |
-| decisao-colegiado | 11/2016; RJ2006/5754 | 2017-11-01 | outro | cvm-col-20171101-d0802 | fichas/colegiado/2017-18.md |
-| decisao-colegiado | 11/2016; RJ2006/5754 | 2017-10-11 | — | cvm-col-20171011-d0802 | fichas/colegiado/2017-17.md |
-| decisao-colegiado | 11/2016; RJ2006/5754 | 2017-09-27 | — | cvm-col-20170927-d0802 | fichas/colegiado/2017-16.md |
-| decisao-colegiado | 19957.006474/2017-41 | 2017-09-26 | nao-provido | cvm-col-20170926-d0806 | fichas/colegiado/2017-16.md |
-| decisao-colegiado | 19957.004699/2017-62 | 2017-09-12 | nao-provido | cvm-col-20170912-d0792 | fichas/colegiado/2017-15.md |
-| decisao-colegiado | SP2014/0413 | 2017-08-29 | conhecimento | cvm-col-20170829-d0781 | fichas/colegiado/2017-15.md |
-| decisao-colegiado | 19957.006385/2016-13 | 2017-08-01 | nao-provido | cvm-col-20170801-d0761 | fichas/colegiado/2017-14.md |
-| decisao-colegiado | 19957.003836/2017-41 | 2017-07-25 | nao-provido | cvm-col-20170725-d0748 | fichas/colegiado/2017-13.md |
-| decisao-colegiado | 19957.001047/2017-76 | 2017-06-06 | nao-provido | cvm-col-20170606-d0685 | fichas/colegiado/2017-11.md |
-| decisao-colegiado | 19957.008302/2016-21 | 2017-06-06 | nao-provido | cvm-col-20170606-d0655 | fichas/colegiado/2017-10.md |
-| pas | RJ2014-3624 | 2017-05-09 | condenacao | cvm-pas-rj2014-3624 | fichas/pas/2017-02.md |
-| decisao-colegiado | 19957.009759/2016-52 | 2017-04-18 | nao-provido | cvm-col-20170418-d0656 | fichas/colegiado/2017-08.md |
-| decisao-colegiado | 19957.008302/2016-21 | 2017-04-18 | — | cvm-col-20170418-d0655 | fichas/colegiado/2017-08.md |
-| decisao-colegiado | 19957.006913/2016-34 | 2017-04-18 | nao-provido | cvm-col-20170418-d0654 | fichas/colegiado/2017-08.md |
-| decisao-colegiado | 19957.009763/2016-11 | 2017-04-11 | nao-provido | cvm-col-20170411-d0646 | fichas/colegiado/2017-07.md |
-| decisao-colegiado | 19957.009602/2016-27 | 2017-04-11 | nao-provido | cvm-col-20170411-d0645 | fichas/colegiado/2017-07.md |
-| decisao-colegiado | 19957.009168/2016-85 | 2017-04-11 | nao-provido | cvm-col-20170411-d0644 | fichas/colegiado/2017-07.md |
-| decisao-colegiado | 19957.004135/2016-49 | 2017-04-11 | nao-provido | cvm-col-20170411-d0643 | fichas/colegiado/2017-07.md |
-| decisao-colegiado | 19957.002943/2016-71 | 2017-03-21 | outro | cvm-col-20170321-d1492 | fichas/colegiado/2017-06.md |
-| decisao-colegiado | 558/2015; 19957.002943/2016-71 | 2017-02-14 | outro | cvm-col-20170214-d0222 | fichas/colegiado/2017-03.md |
-| pas | RJ2014/2099 | 2016-12-01 | parcial | cvm-pas-rj2014-2099 | fichas/pas/2016-07.md |
-| termo-compromisso | RJ2016/4271 | 2016-11-29 | rejeitado | cvm-col-20161129-d0441 | fichas/tc/2016-05.md |
-| decisao-colegiado | 19957.006645/2016-51 | 2016-11-22 | nao-provido | cvm-col-20161122-d0412 | fichas/colegiado/2016-22.md |
-| decisao-colegiado | 558/2015; 19957.002943/2016-71 | 2016-11-22 | — | cvm-col-20161122-d0222 | fichas/colegiado/2016-22.md |
-| decisao-colegiado | 558/2015; 19957.002943/2016-71 | 2016-11-08 | — | cvm-col-20161108-d0222 | fichas/colegiado/2016-22.md |
-| decisao-colegiado | 19957.006645/2016-51 | 2016-10-25 | — | cvm-col-20161025-d0412 | fichas/colegiado/2016-21.md |
-| decisao-colegiado | 19957.006586/2016-11 | 2016-10-20 | nao-provido | cvm-col-20161020-d0401 | fichas/colegiado/2016-20.md |
-| decisao-colegiado | 19957.006603/2016-10 | 2016-10-04 | nao-provido | cvm-col-20161004-d0381 | fichas/colegiado/2016-19.md |
-| decisao-colegiado | 19957.006318/2016-07 | 2016-10-04 | nao-provido | cvm-col-20161004-d0380 | fichas/colegiado/2016-19.md |
-| decisao-colegiado | 19957.006276/2016-04 | 2016-10-04 | nao-provido | cvm-col-20161004-d0379 | fichas/colegiado/2016-19.md |
-| decisao-colegiado | 19957.006195/2016-04 | 2016-10-04 | nao-provido | cvm-col-20161004-d0370 | fichas/colegiado/2016-19.md |
-| decisao-colegiado | 19957.006066/2016-16 | 2016-10-04 | nao-provido | cvm-col-20161004-d0369 | fichas/colegiado/2016-19.md |
-| termo-compromisso | RJ2015/12170 | 2016-10-04 | rejeitado | cvm-col-20161004-d0217 | fichas/tc/2016-04.md |
-| decisao-colegiado | 19957.004508/2016-81 | 2016-09-20 | nao-provido | cvm-col-20160920-d0355 | fichas/colegiado/2016-18.md |
-| decisao-colegiado | 19957.003264/2016-10 | 2016-09-20 | nao-provido | cvm-col-20160920-d0354 | fichas/colegiado/2016-18.md |
-| decisao-colegiado | 19957.005662/2016-71 | 2016-09-20 | nao-provido | cvm-col-20160920-d0352 | fichas/colegiado/2016-18.md |
-| decisao-colegiado | 19957.006047/2016-81 | 2016-09-13 | nao-provido | cvm-col-20160913-d0353 | fichas/colegiado/2016-17.md |
-| termo-compromisso | 05/2012 | 2016-08-30 | rejeitado | cvm-col-20160830-d0342 | fichas/tc/2016-04.md |
-| termo-compromisso | RJ2015/10801 | 2016-07-26 | aceito | cvm-col-20160726-d0319 | fichas/tc/2016-03.md |
-| decisao-colegiado | 19957.002154/2016-31 | 2016-07-26 | nao-provido | cvm-col-20160726-d0305 | fichas/colegiado/2016-14.md |
-| pas | SP2012/0374 | 2016-07-19 | parcial | cvm-pas-sp2012-0374 | fichas/pas/2016-02.md |
-| termo-compromisso | RJ2015/13460 | 2016-07-05 | rejeitado | cvm-col-20160705-d9998 | fichas/tc/2016-03.md |
-| decisao-colegiado | 19957.001114/2016-71 | 2016-06-14 | nao-provido | cvm-col-20160614-d0251 | fichas/colegiado/2016-12.md |
-| acordao-crsfn | RJ2010/13301 | 2016-05-31 | parcial | crsfn-13521 | fichas/crsfn/2016-02.md |
-| decisao-colegiado | 558/2015; 19957.002943/2016-71 | 2016-05-24 | — | cvm-col-20160524-d0222 | fichas/colegiado/2016-10.md |
-| termo-compromisso | RJ2015/6143 | 2016-05-17 | rejeitado | cvm-col-20160517-d0208 | fichas/tc/2016-02.md |
-| decisao-colegiado | RJ2016/1332 | 2016-05-03 | nao-provido | cvm-col-20160503-d0189 | fichas/colegiado/2016-09.md |
-| termo-compromisso | RJ2014/13902 | 2016-04-26 | aceito | cvm-col-20160426-d0184 | fichas/tc/2016-02.md |
-| termo-compromisso | RJ2015/9969 | 2016-04-19 | rejeitado | cvm-col-20160419-d9868 | fichas/tc/2016-01.md |
-| decisao-colegiado | — | 2016-04-19 | outro | cvm-col-20160419-d2865 | fichas/colegiado/2016-08.md |
-| decisao-colegiado | RJ2016/0056 | 2016-03-15 | nao-provido | cvm-col-20160315-d0151 | fichas/colegiado/2016-07.md |
-| decisao-colegiado | 19957.003166/2015-00 | 2016-03-01 | nao-provido | cvm-col-20160301-d0119 | fichas/colegiado/2016-06.md |
-| decisao-colegiado | RJ2015/12607 | 2016-03-01 | nao-provido | cvm-col-20160301-d0114 | fichas/colegiado/2016-05.md |
-| decisao-colegiado | RJ2015/13322 | 2016-02-11 | nao-provido | cvm-col-20160211-d0076 | fichas/colegiado/2016-03.md |
-| decisao-colegiado | 244/1998; RJ2015/12035 | 2016-02-11 | deferido | cvm-col-20160211-d0075 | fichas/colegiado/2016-03.md |
-| decisao-colegiado | RJ2015/9609 | 2016-02-02 | nao-provido | cvm-col-20160202-d0032 | fichas/colegiado/2016-02.md |
-| decisao-colegiado | RJ2015/8451 | 2015-12-22 | nao-provido | cvm-col-20151222-d9995 | fichas/colegiado/2015-25.md |
-| termo-compromisso | RJ2014/3161 | 2015-12-08 | rejeitado | cvm-col-20151208-d9961 | fichas/tc/2015-04.md |
-| decisao-colegiado | RJ2015/8988 | 2015-11-24 | nao-provido | cvm-col-20151124-d9940 | fichas/colegiado/2015-22.md |
-| decisao-colegiado | RJ2015/3555 | 2015-11-24 | deferido | cvm-col-20151124-d9930 | fichas/colegiado/2015-22.md |
-| decisao-colegiado | RJ2015/8990 | 2015-11-24 | nao-provido | cvm-col-20151124-d9926 | fichas/colegiado/2015-22.md |
-| termo-compromisso | SP2014/0382 | 2015-11-10 | rejeitado | cvm-col-20151110-d9923 | fichas/tc/2015-04.md |
-| decisao-colegiado | RJ2015/9115 | 2015-11-10 | deferido | cvm-col-20151110-d9912 | fichas/colegiado/2015-20.md |
-| decisao-colegiado | RJ2014/10959 | 2015-11-03 | nao-provido | cvm-col-20151103-d9907 | fichas/colegiado/2015-20.md |
-| decisao-colegiado | RJ2015/4374 | 2015-08-18 | nao-provido | cvm-col-20150818-d9793 | fichas/colegiado/2015-15.md |
-| decisao-colegiado | RJ2015/1403 | 2015-08-18 | nao-provido | cvm-col-20150818-d9792 | fichas/colegiado/2015-15.md |
-| decisao-colegiado | RJ2015/2602 | 2015-06-23 | nao-provido | cvm-col-20150623-d9713 | fichas/colegiado/2015-11.md |
-| decisao-colegiado | RJ2015/2581 | 2015-06-23 | nao-provido | cvm-col-20150623-d9711 | fichas/colegiado/2015-11.md |
-| termo-compromisso | RJ2014/7915 | 2015-05-19 | rejeitado | cvm-col-20150519-d9317 | fichas/tc/2015-02.md |
-| decisao-colegiado | RJ2011/7177 | 2015-05-19 | outro | cvm-col-20150519-d7842 | fichas/colegiado/2015-08.md |
-| pas | RJ2012/9490 | 2015-03-10 | condenacao | cvm-pas-rj2012-9490 | fichas/pas/2015-01.md |
-| decisao-colegiado | RJ1994/1815 | 2015-02-24 | deferido | cvm-col-20150224-d9578 | fichas/colegiado/2015-03.md |
-| termo-compromisso | RJ2013/5456 | 2015-02-03 | rejeitado | cvm-col-20150203-d8930 | fichas/tc/2015-01.md |
-| termo-compromisso | RJ2014/3624 | 2014-12-16 | rejeitado | cvm-col-20141216-d04 | fichas/tc/2014-06.md |
-| decisao-colegiado | RJ2014/8024 | 2014-10-07 | nao-provido | cvm-col-20141007-d11 | fichas/colegiado/2014-19.md |
-| termo-compromisso | RJ2013/0392 | 2014-09-23 | rejeitado | cvm-col-20140923-d04 | fichas/tc/2014-02.md |
-| decisao-colegiado | RJ1989/0559 | 2014-08-19 | deferido | cvm-col-20140819-d10 | fichas/colegiado/2014-15.md |
-| decisao-colegiado | RJ2011/9210 | 2014-07-15 | deferido | cvm-col-20140715-d11 | fichas/colegiado/2014-13.md |
-| decisao-colegiado | RJ2013/13666 | 2014-07-15 | nao-provido | cvm-col-20140715-d09 | fichas/colegiado/2014-13.md |
-| decisao-colegiado | RJ2012/10958 | 2014-07-15 | nao-provido | cvm-col-20140715-d08 | fichas/colegiado/2014-13.md |
-| decisao-colegiado | RJ2014/2402 | 2014-05-20 | nao-provido | cvm-col-20140520-d15 | fichas/colegiado/2014-09.md |
-| decisao-colegiado | RJ2008/7462 | 2014-05-20 | deferido | cvm-col-20140520-d14 | fichas/colegiado/2014-09.md |
-| decisao-colegiado | RJ2000/5496 | 2014-04-22 | deferido | cvm-col-20140422-d04 | fichas/colegiado/2014-07.md |
-| decisao-colegiado | RJ2013/7556 | 2014-04-15 | nao-provido | cvm-col-20140415-d10 | fichas/colegiado/2014-07.md |
-| acordao-crsfn | RJ2010/1281 | 2014-02-18 | condenacao | crsfn-13164 | fichas/crsfn/2014-01.md |
-| decisao-colegiado | RJ2013/7179 | 2014-01-07 | nao-provido | cvm-col-20140107-d04 | fichas/colegiado/2014-01.md |
-| pas | RJ2011/4517 | 2013-12-17 | parcial | cvm-pas-rj2011-4517 | fichas/pas/2013-07.md |
-| decisao-colegiado | RJ2013/8744 | 2013-11-26 | nao-provido | cvm-col-20131126-d03 | fichas/colegiado/2013-22.md |
-| termo-compromisso | RJ2010/17292 | 2013-11-12 | aceito | cvm-col-20131112-d02 | fichas/tc/2013-05.md |
-| decisao-colegiado | RJ2013/5369 | 2013-10-08 | nao-provido | cvm-col-20131008-d08 | fichas/colegiado/2013-19.md |
-| decisao-colegiado | RJ1990/1867 | 2013-09-03 | deferido | cvm-col-20130903-d04 | fichas/colegiado/2013-16.md |
-| decisao-colegiado | RJ2011/14560 | 2013-09-03 | outro | cvm-col-20130903-d03 | fichas/colegiado/2013-16.md |
-| pas | RJ2012/9652 | 2013-07-16 | condenacao | cvm-pas-rj2012-9652 | fichas/pas/2013-04.md |
-| decisao-colegiado | RJ2013/5182 | 2013-06-18 | nao-provido | cvm-col-20130618-d03 | fichas/colegiado/2013-12.md |
-| decisao-colegiado | RJ2013/0315 | 2013-05-28 | nao-provido | cvm-col-20130528-d09 | fichas/colegiado/2013-11.md |
-| acordao-crsfn | RJ-2009-3823 | 2013-05-21 | condenacao | crsfn-12956 | fichas/crsfn/2013-02.md |
-| decisao-colegiado | RJ2010/8982 | 2013-05-07 | deferido | cvm-col-20130507-d07 | fichas/colegiado/2013-10.md |
-| termo-compromisso | 01/2010 | 2013-05-07 | rejeitado | cvm-col-20130507-d02 | fichas/tc/2013-02.md |
-| decisao-colegiado | RJ2012/10414 | 2013-04-02 | nao-provido | cvm-col-20130402-d07 | fichas/colegiado/2013-08.md |
-| decisao-colegiado | RJ2013/0946 | 2013-03-26 | nao-provido | cvm-col-20130326-d11 | fichas/colegiado/2013-07.md |
-| termo-compromisso | RJ2012/7132 | 2013-03-19 | aceito | cvm-col-20130319-d03 | fichas/tc/2013-01.md |
-| decisao-colegiado | RJ2011/0974 | 2013-02-26 | outro | cvm-col-20130226-d02 | fichas/colegiado/2013-05.md |
-| decisao-colegiado | RJ2011/12024 | 2013-01-15 | parcial | cvm-col-20130115-d08 | fichas/colegiado/2013-02.md |
-| termo-compromisso | RJ2010/15523 | 2012-11-22 | aceito | cvm-col-20121122-d13 | fichas/tc/2012-06.md |
-| decisao-colegiado | RJ2012/0186 | 2012-11-22 | nao-provido | cvm-col-20121122-d11 | fichas/colegiado/2012-21.md |
-| pas | RJ2010/13301 | 2012-10-23 | condenacao | cvm-pas-rj2010-13301 | fichas/pas/2012-02.md |
-| decisao-colegiado | RJ1997/2127 | 2012-10-02 | deferido | cvm-col-20121002-d06 | fichas/colegiado/2012-18.md |
-| decisao-colegiado | RJ2012/6198 | 2012-09-18 | nao-provido | cvm-col-20120918-d05 | fichas/colegiado/2012-17.md |
-| decisao-colegiado | RJ1993/1515 | 2012-09-04 | deferido | cvm-col-20120904-d18 | fichas/colegiado/2012-16.md |
-| decisao-colegiado | RJ2011/8272 | 2012-09-04 | provido | cvm-col-20120904-d17 | fichas/colegiado/2012-16.md |
-| decisao-colegiado | RJ1997/1173 | 2012-07-31 | deferido | cvm-col-20120731-d05 | fichas/colegiado/2012-13.md |
-| decisao-colegiado | RJ2012/5644 | 2012-07-17 | nao-provido | cvm-col-20120717-d05 | fichas/colegiado/2012-12.md |
-| decisao-colegiado | RJ2012/3963 | 2012-07-10 | nao-provido | cvm-col-20120710-d08 | fichas/colegiado/2012-12.md |
-| termo-compromisso | 01/2010 | 2012-07-03 | rejeitado | cvm-col-20120703-d08 | fichas/tc/2012-03.md |
-| pas | 13/2005 | 2012-06-25 | parcial | cvm-pas-13-2005 | fichas/pas/2012-01.md |
-| decisao-colegiado | RJ2006/4430 | 2012-06-19 | deferido | cvm-col-20120619-d06 | fichas/colegiado/2012-10.md |
-| acordao-crsfn | SP-2007-114 | 2012-05-10 | parcial | crsfn-12448 | fichas/crsfn/2012-02.md |
-| decisao-colegiado | RJ2011/14145 | 2012-05-02 | nao-provido | cvm-col-20120502-d04 | fichas/colegiado/2012-08.md |
-| termo-compromisso | RJ2010/13301 | 2012-04-17 | rejeitado | cvm-col-20120417-d02 | fichas/tc/2012-02.md |
-| decisao-colegiado | RJ2006/5415 | 2012-03-27 | deferido | cvm-col-20120327-d07 | fichas/colegiado/2012-06.md |
-| decisao-colegiado | RJ1991/1313 | 2012-03-27 | deferido | cvm-col-20120327-d06 | fichas/colegiado/2012-06.md |
-| pas | 15/2008 | 2012-02-28 | absolvicao | cvm-pas-15-2008 | fichas/pas/2012-01.md |
-| acordao-crsfn | RJ-2005-5038 | 2012-02-13 | parcial | crsfn-11327 | fichas/crsfn/2012-01.md |
-| decisao-colegiado | RJ2011/9231 | 2012-01-31 | deferido | cvm-col-20120131-d03 | fichas/colegiado/2012-02.md |
-| termo-compromisso | RJ2011/7712 | 2011-12-06 | aceito | cvm-col-20111206-d02 | fichas/tc/2011-05.md |
-| decisao-colegiado | RJ2007/3985 | 2011-11-29 | deferido | cvm-col-20111129-d30 | fichas/colegiado/2011-27.md |
-| decisao-colegiado | RJ2011/3861 | 2011-11-22 | nao-provido | cvm-col-20111122-d28 | fichas/colegiado/2011-26.md |
-| termo-compromisso | RJ2010/15685 | 2011-11-08 | aceito | cvm-col-20111108-d03 | fichas/tc/2011-05.md |
-| termo-compromisso | RJ2011/10405 | 2011-11-08 | rejeitado | cvm-col-20111108-d02 | fichas/tc/2011-05.md |
-| termo-compromisso | RJ2010/7309 | 2011-10-19 | rejeitado | cvm-col-20111019-d02 | fichas/tc/2011-04.md |
-| decisao-colegiado | RJ2011/8443 | 2011-10-11 | nao-provido | cvm-col-20111011-d04 | fichas/colegiado/2011-21.md |
-| decisao-colegiado | RJ2010/9133 | 2011-09-06 | deferido | cvm-col-20110906-d16 | fichas/colegiado/2011-18.md |
-| decisao-colegiado | RJ2001/9961 | 2011-09-06 | deferido | cvm-col-20110906-d15 | fichas/colegiado/2011-18.md |
-| decisao-colegiado | RJ2011/2630 | 2011-06-28 | nao-provido | cvm-col-20110628-d05 | fichas/colegiado/2011-14.md |
-| decisao-colegiado | RJ2005/3416 | 2011-06-22 | — | cvm-col-20110622-d01 | fichas/colegiado/2011-13.md |
-| termo-compromisso | RJ2006/9075 | 2011-05-10 | aceito | cvm-col-20110510-d05 | fichas/tc/2011-02.md |
-| termo-compromisso | RJ2010/17089 | 2011-05-10 | rejeitado | cvm-col-20110510-d04 | fichas/tc/2011-02.md |
-| decisao-colegiado | RJ2010/14459 | 2011-04-26 | nao-provido | cvm-col-20110426-d01 | fichas/colegiado/2011-09.md |
-| decisao-colegiado | RJ2010/14459 | 2011-04-05 | — | cvm-col-20110405-d09 | fichas/colegiado/2011-08.md |
-| termo-compromisso | RJ2009/5412 | 2011-03-01 | rejeitado | cvm-col-20110301-d02 | fichas/tc/2011-01.md |
-| acordao-crsfn | RJ-2006-7655 | 2011-01-26 | condenacao | crsfn-11639 | fichas/crsfn/2011-01.md |
-| decisao-colegiado | RJ2006/6514 | 2011-01-11 | deferido | cvm-col-20110111-d05 | fichas/colegiado/2011-01.md |
-| decisao-colegiado | RJ2010/12168 | 2010-12-28 | nao-provido | cvm-col-20101228-d71 | fichas/colegiado/2010-33.md |
-| decisao-colegiado | RJ2010/0112 | 2010-12-07 | nao-provido | cvm-col-20101207-d38 | fichas/colegiado/2010-28.md |
-| decisao-colegiado | RJ2010/7099 | 2010-12-07 | outro | cvm-col-20101207-d35 | fichas/colegiado/2010-28.md |
-| decisao-colegiado | RJ2009/12425 | 2010-11-09 | nao-provido | cvm-col-20101109-d03 | fichas/colegiado/2010-23.md |
-| decisao-colegiado | RJ2010/10355 | 2010-11-04 | nao-provido | cvm-col-20101104-d26 | fichas/colegiado/2010-23.md |
-| decisao-colegiado | RJ1997/2127 | 2010-10-05 | deferido | cvm-col-20101005-d04 | fichas/colegiado/2010-20.md |
-| pas | 06/2007 | 2010-09-28 | parcial | cvm-pas-06-2007 | fichas/pas/2010-04.md |
-| decisao-colegiado | RJ2010/9179 | 2010-09-21 | nao-provido | cvm-col-20100921-d13 | fichas/colegiado/2010-19.md |
-| decisao-colegiado | RJ2010/4062 | 2010-09-21 | nao-provido | cvm-col-20100921-d12 | fichas/colegiado/2010-19.md |
-| termo-compromisso | RJ2010/9547 | 2010-08-24 | aceito | cvm-col-20100824-d02 | fichas/tc/2010-04.md |
-| acordao-crsfn | RJ-2008-10181 | 2010-08-18 | condenacao | crsfn-12508 | fichas/crsfn/2010-06.md |
-| decisao-colegiado | RJ2010/8982 | 2010-08-10 | deferido | cvm-col-20100810-d10 | fichas/colegiado/2010-17.md |
-| acordao-crsfn | IA-2003-3 | 2010-07-28 | condenacao | crsfn-11419 | fichas/crsfn/2010-06.md |
-| pas | RJ2009/9443 | 2010-07-13 | condenacao | cvm-pas-rj2009-9443 | fichas/pas/2010-03.md |
-| decisao-colegiado | RJ1991/1313 | 2010-06-22 | deferido | cvm-col-20100622-d05 | fichas/colegiado/2010-14.md |
-| acordao-crsfn | RJ-2008-10874 | 2010-06-08 | condenacao | crsfn-12625 | fichas/crsfn/2010-05.md |
-| decisao-colegiado | RJ2009/12425 | 2010-05-25 | nao-provido | cvm-col-20100525-d01 | fichas/colegiado/2010-13.md |
-| acordao-crsfn | RJ-2006-4778 | 2010-04-29 | condenacao | crsfn-11213 | fichas/crsfn/2010-03.md |
-| decisao-colegiado | RJ2009/9892 | 2010-04-20 | nao-provido | cvm-col-20100420-d10 | fichas/colegiado/2010-11.md |
-| decisao-colegiado | RJ2010/0275 | 2010-04-13 | provido | cvm-col-20100413-d01 | fichas/colegiado/2010-11.md |
-| decisao-colegiado | RJ2010/0275 | 2010-04-07 | — | cvm-col-20100407-d01 | fichas/colegiado/2010-10.md |
-| decisao-colegiado | RJ2010/0111 | 2010-03-23 | nao-provido | cvm-col-20100323-d03 | fichas/colegiado/2010-09.md |
-| decisao-colegiado | RJ2010/0275 | 2010-03-23 | — | cvm-col-20100323-d02 | fichas/colegiado/2010-09.md |
-| pas | RJ2009/3823 | 2009-12-15 | condenacao | cvm-pas-rj2009-3823 | fichas/pas/2009-06.md |
-| decisao-colegiado | RJ2009/4594 | 2009-12-01 | nao-provido | cvm-col-20091201-d17 | fichas/colegiado/2009-22.md |
-| decisao-colegiado | RJ2009/4403 | 2009-10-20 | nao-provido | cvm-col-20091020-d04 | fichas/colegiado/2009-18.md |
-| decisao-colegiado | RJ2009/3052 | 2009-10-20 | nao-provido | cvm-col-20091020-d03 | fichas/colegiado/2009-18.md |
-| decisao-colegiado | RJ2009/1448 | 2009-10-20 | nao-provido | cvm-col-20091020-d02 | fichas/colegiado/2009-18.md |
-| decisao-colegiado | RJ2008/12808 | 2009-09-22 | nao-provido | cvm-col-20090922-d04 | fichas/colegiado/2009-16.md |
-| decisao-colegiado | RJ2008/8282 | 2009-07-14 | nao-provido | cvm-col-20090714-d05 | fichas/colegiado/2009-13.md |
-| decisao-colegiado | RJ2008/12808 | 2009-06-16 | nao-provido | cvm-col-20090616-d01 | fichas/colegiado/2009-11.md |
-| decisao-colegiado | RJ2008/8282 | 2009-03-31 | nao-provido | cvm-col-20090331-d07 | fichas/colegiado/2009-05.md |
-| decisao-colegiado | RJ2008/4543 | 2009-03-03 | nao-provido | cvm-col-20090303-d09 | fichas/colegiado/2009-03.md |
-| termo-compromisso | 21/2006 | 2009-02-10 | aceito | cvm-col-20090210-d02 | fichas/tc/2009-01.md |
-| decisao-colegiado | RJ2008/6789 | 2009-02-03 | nao-provido | cvm-col-20090203-d03 | fichas/colegiado/2009-01.md |
-| decisao-colegiado | RJ2007/11399 | 2008-12-16 | nao-provido | cvm-col-20081216-d01 | fichas/colegiado/2008-27.md |
-| decisao-colegiado | RJ2008/3373 | 2008-11-25 | nao-provido | cvm-col-20081125-d14 | fichas/colegiado/2008-26.md |
-| decisao-colegiado | RJ2007/7463 | 2008-11-18 | nao-provido | cvm-col-20081118-d06 | fichas/colegiado/2008-25.md |
-| decisao-colegiado | RJ2008/5390 | 2008-11-11 | nao-provido | cvm-col-20081111-d11 | fichas/colegiado/2008-25.md |
-| acordao-crsfn | RJ-2003-4367 | 2008-10-28 | parcial | crsfn-9984 | fichas/crsfn/2008-05.md |
-| termo-compromisso | 13/2005 | 2008-10-21 | aceito | cvm-col-20081021-d01 | fichas/tc/2008-07.md |
-| termo-compromisso | RJ2007/4697 | 2008-10-07 | rejeitado | cvm-col-20081007-d02 | fichas/tc/2008-07.md |
-| decisao-colegiado | RJ2008/4641 | 2008-09-30 | nao-provido | cvm-col-20080930-d01 | fichas/colegiado/2008-21.md |
-| pas | SP2007/0114 | 2008-09-23 | parcial | cvm-pas-sp2007-0114 | fichas/pas/2008-03.md |
-| decisao-colegiado | RJ2008/5395 | 2008-09-23 | nao-provido | cvm-col-20080923-d07 | fichas/colegiado/2008-21.md |
-| decisao-colegiado | RJ2007/13492 | 2008-09-09 | nao-provido | cvm-col-20080909-d06 | fichas/colegiado/2008-20.md |
-| decisao-colegiado | RJ2008/0296; RJ2008/1839; RJ2008/4324 | 2008-08-19 | outro | cvm-col-20080819-d06 | fichas/colegiado/2008-19.md |
-| decisao-colegiado | RJ2008/3917 | 2008-08-05 | nao-provido | cvm-col-20080805-d02 | fichas/colegiado/2008-17.md |
-| termo-compromisso | 13/2005 | 2008-07-22 | outro | cvm-col-20080722-d30 | fichas/tc/2008-05.md |
-| decisao-colegiado | RJ2007/11399 | 2008-07-03 | outro | cvm-col-20080703-d03 | fichas/colegiado/2008-14.md |
-| decisao-colegiado | RJ2008/0250 | 2008-06-24 | provido | cvm-col-20080624-d03 | fichas/colegiado/2008-14.md |
-| decisao-colegiado | RJ2008/2079 | 2008-06-17 | nao-provido | cvm-col-20080617-d04 | fichas/colegiado/2008-13.md |
-| decisao-colegiado | RJ2007/15010 | 2008-06-10 | nao-provido | cvm-col-20080610-d06 | fichas/colegiado/2008-13.md |
-| decisao-colegiado | RJ2007/13905 | 2008-06-10 | nao-provido | cvm-col-20080610-d05 | fichas/colegiado/2008-13.md |
-| decisao-colegiado | RJ2008/2350 | 2008-05-20 | nao-provido | cvm-col-20080520-d07 | fichas/colegiado/2008-11.md |
-| decisao-colegiado | RJ2008/0861 | 2008-05-20 | nao-provido | cvm-col-20080520-d06 | fichas/colegiado/2008-11.md |
-| decisao-colegiado | RJ2007/11908 | 2008-04-08 | nao-provido | cvm-col-20080408-d05 | fichas/colegiado/2008-09.md |
-| termo-compromisso | RJ2007/12581 | 2008-03-18 | aceito | cvm-col-20080318-d03 | fichas/tc/2008-02.md |
-| decisao-colegiado | RJ2008/0204 | 2008-03-04 | nao-provido | cvm-col-20080304-d11 | fichas/colegiado/2008-06.md |
-| decisao-colegiado | RJ2007/13934 | 2008-02-19 | nao-provido | cvm-col-20080219-d38 | fichas/colegiado/2008-04.md |
-| decisao-colegiado | RJ2007/11850 | 2007-12-04 | nao-provido | cvm-col-20071204-d17 | fichas/colegiado/2007-24.md |
-| decisao-colegiado | RJ2006/9223 | 2007-12-04 | nao-provido | cvm-col-20071204-d16 | fichas/colegiado/2007-24.md |
-| decisao-colegiado | RJ2007/9189 | 2007-11-13 | nao-provido | cvm-col-20071113-d25 | fichas/colegiado/2007-23.md |
-| decisao-colegiado | RJ2007/0236 | 2007-11-13 | nao-provido | cvm-col-20071113-d24 | fichas/colegiado/2007-23.md |
-| decisao-colegiado | RJ2007/8075 | 2007-10-30 | provido | cvm-col-20071030-d19 | fichas/colegiado/2007-21.md |
-| decisao-colegiado | RJ2007/7551 | 2007-10-30 | deferido | cvm-col-20071030-d18 | fichas/colegiado/2007-21.md |
-| decisao-colegiado | RJ2007/8929 | 2007-10-30 | deferido | cvm-col-20071030-d17 | fichas/colegiado/2007-21.md |
-| termo-compromisso | RJ2007/1118 | 2007-10-30 | rejeitado | cvm-col-20071030-d04 | fichas/tc/2007-06.md |
-| decisao-colegiado | RJ2005/6541 | 2007-10-09 | nao-provido | cvm-col-20071009-d01 | fichas/colegiado/2007-18.md |
-| decisao-colegiado | RJ2007/4747 | 2007-10-02 | provido | cvm-col-20071002-d08 | fichas/colegiado/2007-18.md |
-| decisao-colegiado | RJ2007/3061 | 2007-09-18 | outro | cvm-col-20070918-d08 | fichas/colegiado/2007-17.md |
-| decisao-colegiado | RJ2007/3406 | 2007-09-18 | nao-provido | cvm-col-20070918-d07 | fichas/colegiado/2007-17.md |
-| termo-compromisso | RJ2006/6159 | 2007-09-18 | aceito | cvm-col-20070918-d04 | fichas/tc/2007-05.md |
-| decisao-colegiado | RJ2007/4480 | 2007-08-21 | nao-provido | cvm-col-20070821-d11 | fichas/colegiado/2007-15.md |
-| decisao-colegiado | RJ2007/2592 | 2007-07-10 | nao-provido | cvm-col-20070710-d20 | fichas/colegiado/2007-12.md |
-| decisao-colegiado | RJ1999/3663 | 2007-07-10 | outro | cvm-col-20070710-d19 | fichas/colegiado/2007-12.md |
-| decisao-colegiado | RJ2006/9864 | 2007-07-10 | nao-provido | cvm-col-20070710-d18 | fichas/colegiado/2007-12.md |
-| pas | RJ2006/7655 | 2007-07-04 | condenacao | cvm-pas-rj2006-7655 | fichas/pas/2007-04.md |
-| decisao-colegiado | RJ2006/6192 | 2007-06-28 | nao-provido | cvm-col-20070628-d14 | fichas/colegiado/2007-11.md |
-| decisao-colegiado | RJ2006/8624 | 2007-06-12 | nao-provido | cvm-col-20070612-d06 | fichas/colegiado/2007-09.md |
-| pas | RJ2005/8510 | 2007-04-04 | parcial | cvm-pas-rj2005-8510 | fichas/pas/2007-02.md |
-| decisao-colegiado | RJ2006/8820 | 2007-01-30 | provido | cvm-col-20070130-d09 | fichas/colegiado/2007-02.md |
-| termo-compromisso | 29/2003 | 2007-01-16 | aceito | cvm-col-20070116-d01 | fichas/tc/2007-01.md |
-| decisao-colegiado | RJ2006/8187 | 2006-12-05 | provido | cvm-col-20061205-d17 | fichas/colegiado/2006-19.md |
-| decisao-colegiado | RJ2006/7530 | 2006-12-05 | nao-provido | cvm-col-20061205-d16 | fichas/colegiado/2006-19.md |
-| decisao-colegiado | RJ2006/1101 | 2006-12-05 | nao-provido | cvm-col-20061205-d14 | fichas/colegiado/2006-18.md |
-| pas | 03/2003 | 2006-11-28 | condenacao | cvm-pas-03-2003 | fichas/pas/2006-13.md |
-| decisao-colegiado | RJ2006/7533 | 2006-10-31 | outro | cvm-col-20061031-d07 | fichas/colegiado/2006-16.md |
-| termo-compromisso | RJ2005/9000 | 2006-10-31 | rejeitado | cvm-col-20061031-d04 | fichas/tc/2006-05.md |
-| pas | RJ2006/4778 | 2006-10-17 | condenacao | cvm-pas-rj2006-4778 | fichas/pas/2006-11.md |
-| decisao-colegiado | RJ2006/2894 | 2006-08-29 | nao-provido | cvm-col-20060829-d07 | fichas/colegiado/2006-14.md |
-| decisao-colegiado | RJ2006/4540 | 2006-08-15 | nao-provido | cvm-col-20060815-d10 | fichas/colegiado/2006-13.md |
-| termo-compromisso | RJ2005/9000 | 2006-08-01 | rejeitado | cvm-col-20060801-d07 | fichas/tc/2006-03.md |
-| decisao-colegiado | RJ2006/1516 | 2006-07-04 | nao-provido | cvm-col-20060704-d05 | fichas/colegiado/2006-10.md |
-| decisao-colegiado | RJ2006/0559 | 2006-05-18 | nao-provido | cvm-col-20060518-d06 | fichas/colegiado/2006-07.md |
-| pas | RJ2003/4367 | 2006-05-03 | parcial | cvm-pas-rj2003-4367 | fichas/pas/2006-04.md |
-| decisao-colegiado | RJ2005/5887 | 2006-04-04 | nao-provido | cvm-col-20060404-d09 | fichas/colegiado/2006-06.md |
-| pas | SP2003/0205 | 2006-03-29 | condenacao | cvm-pas-sp2003-0205 | fichas/pas/2006-03.md |
-| decisao-colegiado | RJ2004/5086 | 2006-01-10 | nao-provido | cvm-col-20060110-d05 | fichas/colegiado/2006-01.md |
-| decisao-colegiado | RJ2005/6535 | 2006-01-03 | nao-provido | cvm-col-20060103-d07 | fichas/colegiado/2006-01.md |
-| decisao-colegiado | RJ2005/3726 | 2005-12-27 | nao-provido | cvm-col-20051227-d10 | fichas/colegiado/2005-21.md |
-| decisao-colegiado | RJ2005/6749 | 2005-12-27 | nao-provido | cvm-col-20051227-d09 | fichas/colegiado/2005-21.md |
-| decisao-colegiado | RJ2005/5289 | 2005-12-20 | outro | cvm-col-20051220-d05 | fichas/colegiado/2005-20.md |
-| decisao-colegiado | RJ2004/2776 | 2005-10-25 | parcial | cvm-col-20051025-d05 | fichas/colegiado/2005-15.md |
-| decisao-colegiado | RJ2004/2777 | 2005-10-11 | parcial | cvm-col-20051011-d06 | fichas/colegiado/2005-15.md |
-| decisao-colegiado | RJ2004/7389 | 2005-10-04 | nao-provido | cvm-col-20051004-d05 | fichas/colegiado/2005-14.md |
-| decisao-colegiado | RJ2004/5634 | 2005-09-30 | parcial | cvm-col-20050930-d05 | fichas/colegiado/2005-14.md |
-| decisao-colegiado | RJ2004/2775 | 2005-08-23 | nao-provido | cvm-col-20050823-d08 | fichas/colegiado/2005-12.md |
-| decisao-colegiado | RJ2005/0609 | 2005-05-31 | nao-provido | cvm-col-20050531-d04 | fichas/colegiado/2005-09.md |
-| decisao-colegiado | RJ2002/4677 | 2005-05-24 | provido | cvm-col-20050524-d02 | fichas/colegiado/2005-08.md |
-| decisao-colegiado | RJ2001/0134 | 2005-05-24 | provido | cvm-col-20050524-d01 | fichas/colegiado/2005-08.md |
-| termo-compromisso | RJ2003/4367 | 2005-05-03 | aceito | cvm-col-20050503-d01 | fichas/tc/2005-01.md |
-| decisao-colegiado | RJ2002/7934 | 2005-04-19 | nao-provido | cvm-col-20050419-d01 | fichas/colegiado/2005-07.md |
-| decisao-colegiado | RJ2004/3479 | 2005-03-22 | nao-provido | cvm-col-20050322-d07 | fichas/colegiado/2005-05.md |
-| decisao-colegiado | RJ2005/0131 | 2005-03-08 | nao-provido | cvm-col-20050308-d04 | fichas/colegiado/2005-04.md |
-| decisao-colegiado | RJ2004/7164 | 2005-03-01 | nao-provido | cvm-col-20050301-d09 | fichas/colegiado/2005-04.md |
-| decisao-colegiado | RJ2002/2555 | 2005-02-22 | outro | cvm-col-20050222-d02 | fichas/colegiado/2005-03.md |
-| decisao-colegiado | RJ2004/6314; RJ2004/3327 | 2005-01-11 | nao-provido | cvm-col-20050111-d07 | fichas/colegiado/2005-01.md |
-| decisao-colegiado | RJ2004/3787 | 2004-08-24 | nao-provido | cvm-col-20040824-d06 | fichas/colegiado/2004-10.md |
-| termo-compromisso | 18/01 | 2004-07-02 | rejeitado | cvm-col-20040702-d04 | fichas/tc/2004-01.md |
-| decisao-colegiado | RJ2002/7393 | 2004-06-15 | nao-provido | cvm-col-20040615-d09 | fichas/colegiado/2004-07.md |
-| acordao-crsfn | RJ2001/04355 | 2004-04-28 | absolvicao | crsfn-4877 | fichas/crsfn/2004-01.md |
-| decisao-colegiado | RJ2003/0403 | 2004-04-16 | outro | cvm-col-20040416-d03 | fichas/colegiado/2004-04.md |
-| pas | RJ2002/7539 | 2004-02-12 | parcial | cvm-pas-rj2002-7539 | fichas/pas/2004-01.md |
-| decisao-colegiado | RJ2003/7453 | 2004-01-21 | provido | cvm-col-20040121-d07 | fichas/colegiado/2004-01.md |
-| acordao-crsfn | 18/99 | 2003-10-29 | parcial | crsfn-4131 | fichas/crsfn/2003-03.md |
-| pas | SP2001/0307 | 2003-06-12 | condenacao | cvm-pas-sp2001-0307 | fichas/pas/2003-02.md |
-| pas | RJ2001/4355 | 2003-04-10 | absolvicao | cvm-pas-rj2001-4355 | fichas/pas/2003-02.md |
-| decisao-colegiado | RJ2002/3005 | 2002-11-12 | nao-provido | cvm-col-20021112-d05 | fichas/colegiado/2002-25.md |
-| decisao-colegiado | RJ2001/0134 | 2002-08-30 | provido | cvm-col-20020830-d05 | fichas/colegiado/2002-21.md |
-| decisao-colegiado | RJ2001/11857 | 2002-07-23 | nao-provido | cvm-col-20020723-d06 | fichas/colegiado/2002-18.md |
-| decisao-colegiado | RJ2001/4355 | 2002-01-29 | outro | cvm-col-20020129-d2144 | fichas/colegiado/2002-02.md |
-| acordao-crsfn | RJ98/1348 | 2001-04-27 | absolvicao | crsfn-3174 | fichas/crsfn/2001-01.md |
-| acordao-crsfn | 99/0847 | 2000-05-30 | absolvicao | crsfn-2989 | fichas/crsfn/2000-02.md |
-| acordao-crsfn | 97/1157 | 1999-12-27 | absolvicao | crsfn-2878 | fichas/crsfn/1999-04.md |
-| acordao-crsfn | 96/4258 | 1999-06-22 | absolvicao | crsfn-2623 | fichas/crsfn/1999-01.md |
-| acordao-crsfn | 95/4251 | 1999-06-22 | absolvicao | crsfn-2619 | fichas/crsfn/1999-01.md |
-| acordao-crsfn | 96/1829 | 1998-10-29 | absolvicao | crsfn-2536 | fichas/crsfn/1998-03.md |
-| acordao-crsfn | 95/4692 | 1998-07-30 | absolvicao | crsfn-2508 | fichas/crsfn/1998-02.md |
-| acordao-crsfn | 95/4673 | 1998-07-30 | arquivamento | crsfn-2480 | fichas/crsfn/1998-02.md |
-| acordao-crsfn | 95/2171 | 1998-06-25 | parcial | crsfn-2287 | fichas/crsfn/1998-02.md |
-| acordao-crsfn | 95/1449 | 1998-01-28 | condenacao | crsfn-2342 | fichas/crsfn/1998-01.md |
-| acordao-crsfn | 95/0778 | 1997-12-10 | absolvicao | crsfn-2283 | fichas/crsfn/1997-02.md |
-| acordao-crsfn | 01/94 | 1997-12-10 | parcial | crsfn-2271 | fichas/crsfn/1997-02.md |
+| Tipo | Processo | Data | Resultado | Ementa | Id | Ficha |
+|---|---|---|---|---|---|---|
+| pas | 19957.005017/2025-49 | 2026-08-26 | — | PAS sobre desenquadramento da carteira do OABPrev-RJ Multimercado Previdência FI (arts. 92, I, e 104, §2º, da Instrução CVM 555/2014). A… | cvm-pas-19957-005017-2025-49 | fichas/pas/2026-04.md |
+| pas | 19957.005514/2025-47 | 2026-06-02 | condenacao | Apurar o suposto exercício irregular da atividade de administração de carteira de valores mobiliários, em infração ao art. 2º da Resolução… | cvm-pas-19957-005514-2025-47 | fichas/pas/2026-01.md |
+| pas | 19957.007774/2025-57 | 2026-05-26 | condenacao | Apurar o suposto exercício irregular da atividade de administração de carteira de valores mobiliários, em infração ao art. 2º da Resolução… | cvm-pas-19957-007774-2025-57 | fichas/pas/2026-01.md |
+| termo-compromisso | 19957.004558/2025-50 | 2026-04-07 | outro | O Colegiado, por unanimidade, devolveu o processo ao Comitê de Termo de Compromisso, para diligências junto à SIN sobre suposto ganho… | cvm-col-20260407-d3472 | fichas/tc/2026-01.md |
+| decisao-colegiado | 19957.010660/2025-94 | 2026-03-10 | outro | O Colegiado, por unanimidade, devolveu à SIN o processo de recurso contra indeferimento de credenciamento como administradora de carteiras… | cvm-col-20260310-d3448 | fichas/colegiado/2026-01.md |
+| decisao-colegiado | 19957.012507/2025-00 | 2026-03-03 | nao-provido | O Colegiado, por unanimidade, negou provimento ao recurso da Orion Trust Administração e Gestão de Recursos Ltda. e manteve o cancelamento… | cvm-col-20260303-d3457 | fichas/colegiado/2026-01.md |
+| decisao-colegiado | 19957.012763/2025-99 | 2026-03-03 | nao-provido | O Colegiado negou provimento, acompanhando a área técnica, a recurso contra cancelamento do credenciamento como administrador de carteiras… | cvm-col-20260303-d3456 | fichas/colegiado/2026-01.md |
+| pas | 19957.002964/2020-73 | 2025-12-23 | absolvicao | Apurar a responsabilidade por suposta infração ao dever de diligência e de lealdade, em razão de aplicações de RPPS em desenquadramento no… | cvm-pas-19957-002964-2020-73 | fichas/pas/2025-12.md |
+| decisao-colegiado | 19957.009353/2025-61 | 2025-12-09 | — | O Colegiado iniciou a discussão de recurso contra decisão da SIN que indeferiu pedido de credenciamento como administrador de carteira… | cvm-col-20251209-d3427 | fichas/colegiado/2025-12.md |
+| acordao-crsfn | 19957.005450/2021-51 | 2025-11-11 | condenacao | RECURSO ADMINISTRATIVO. CVM. VALORES MOBILIÁRIOS. IRREGULARIDADES NA GESTÃO DE CARTEIRAS DE VALORES MOBILIÁRIOS. EXERCÍCIO IRREGULAR DA… | crsfn-19957-005450-2021-51 | fichas/crsfn/2025-06.md |
+| decisao-colegiado | 19957.005925/2025-32 | 2025-10-14 | — | Recurso contra decisão da SIN que indeferiu pedido de credenciamento como administrador de carteira de valores mobiliários. Julgamento… | cvm-col-20251014-d3397 | fichas/colegiado/2025-10.md |
+| decisao-colegiado | 19957.006744/2025-23 | 2025-09-23 | nao-provido | O Colegiado negou provimento, por unanimidade, a recurso contra indeferimento de credenciamento como administrador de carteiras (gestor de… | cvm-col-20250923-d3371 | fichas/colegiado/2025-10.md |
+| acordao-crsfn | 19957.003158/2020-12 | 2025-09-16 | condenacao | RECURSO ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. GESTÃO IRREGULAR DE CARTEIRA DE VALORES MOBILIÁRIOS. EXERCÍCIO PROFISSIONAL DE… | crsfn-19957-003158-2020-12 | fichas/crsfn/2025-05.md |
+| decisao-colegiado | 19957.005781/2025-14 | 2025-09-09 | nao-provido | O Colegiado negou provimento, por unanimidade, a recurso contra decisão da SIN que cancelou o credenciamento de administradora de… | cvm-col-20250909-d3359 | fichas/colegiado/2025-09.md |
+| decisao-colegiado | 19957.006516/2023-91 | 2025-09-09 | nao-provido | O Colegiado, por unanimidade, conheceu e negou provimento a recurso contra arquivamento pela SIN de denúncia sobre operações no mercado… | cvm-col-20250909-d3354 | fichas/colegiado/2025-09.md |
+| decisao-colegiado | 19957.003081/2025-95 | 2025-06-03 | nao-provido | O Colegiado negou provimento, por unanimidade, a recurso contra indeferimento pela SIN de dispensa do requisito de 7 anos de experiência… | cvm-col-20250603-d3288 | fichas/colegiado/2025-05.md |
+| pas | 19957.001254/2023-79 | 2025-05-27 | parcial | Apurar suposta falta do dever de diligência na aquisição de ativos em descumprimento à política de investimentos dos fundos de… | cvm-pas-19957-001254-2023-79 | fichas/pas/2025-05.md |
+| decisao-colegiado | 19957.001630/2025-97 | 2025-05-27 | provido | O Colegiado deu provimento a recurso contra o indeferimento de credenciamento como administrador de carteiras na categoria gestor de… | cvm-col-20250527-d3282 | fichas/colegiado/2025-05.md |
+| decisao-colegiado | 19957.001695/2025-32 | 2025-05-13 | nao-provido | O Colegiado, por unanimidade, acompanhando a SIN, negou provimento a recurso contra o indeferimento de credenciamento como administrador de… | cvm-col-20250513-d3276 | fichas/colegiado/2025-04.md |
+| decisao-colegiado | 19957.002746/2025-43 | 2025-05-13 | nao-provido | O Colegiado negou provimento a recurso contra o indeferimento, pela SIN, de dispensa de requisito de notório saber para credenciamento como… | cvm-col-20250513-d3275 | fichas/colegiado/2025-04.md |
+| pas | 19957.003158/2020-12 | 2025-04-29 | condenacao | Apurar suposta gestão irregular de carteira de valores mobiliários. Proibição Temporária. | cvm-pas-19957-003158-2020-12 | fichas/pas/2025-05.md |
+| decisao-colegiado | 19957.001821/2025-59 | 2025-04-08 | nao-provido | O Colegiado negou provimento, por unanimidade, a recurso contra indeferimento de dispensa de requisito para credenciamento como consultor… | cvm-col-20250408-d3249 | fichas/colegiado/2025-03.md |
+| decisao-colegiado | 19957.021687/2024-21 | 2025-04-08 | nao-provido | O Colegiado, por unanimidade, acompanhando a SIN, negou provimento a recurso contra o indeferimento de credenciamento como administrador de… | cvm-col-20250408-d3248 | fichas/colegiado/2025-03.md |
+| decisao-colegiado | 19957.016807/2024-79 | 2025-01-28 | nao-provido | O Colegiado, por unanimidade, acompanhando a SIN, negou provimento a recurso contra indeferimento de credenciamento como gestor por falta… | cvm-col-20250128-d3214 | fichas/colegiado/2025-01.md |
+| decisao-colegiado | 19957.020320/2024-91 | 2025-01-28 | nao-provido | O Colegiado negou provimento a recurso contra indeferimento de dispensa de sete anos de experiência para credenciamento como consultor de… | cvm-col-20250128-d3213 | fichas/colegiado/2025-01.md |
+| decisao-colegiado | 19957.016025/2024-30 | 2025-01-28 | nao-provido | O Colegiado, por unanimidade, acompanhando a SIN, negou provimento a recurso contra o indeferimento de credenciamento da Gard2n Asset como… | cvm-col-20250128-d3210 | fichas/colegiado/2025-01.md |
+| decisao-colegiado | 19957.013547/2024-80 | 2025-01-21 | nao-provido | O Colegiado negou provimento, por unanimidade, a recurso contra o indeferimento, pela SIN, do credenciamento da Soho Capital Ltda. como… | cvm-col-20250121-d3209 | fichas/colegiado/2025-01.md |
+| termo-compromisso | 19957.014508/2023-19 | 2024-12-20 | rejeitado | O Colegiado rejeitou, por unanimidade, a proposta conjunta de termo de compromisso de R$ 1.000.000,00 da Vórtx DTVM, administradora… | cvm-col-20241220-d3198 | fichas/tc/2024-07.md |
+| pas | 19957.005450/2021-51 | 2024-12-17 | condenacao | Apurar eventual responsabilidade pelo exercício irregular da gestão da carteira de investidor – Prática de churning (em infração ao… | cvm-pas-19957-005450-2021-51 | fichas/pas/2024-22.md |
+| decisao-colegiado | 21/2021; 19957.005947/2024-11 | 2024-12-10 | deferido | O Colegiado, por maioria, acompanhando a área técnica, acatou em caráter específico a garantia fidejussória que a gestora prestaria com… | cvm-col-20241210-d3186 | fichas/colegiado/2024-14.md |
+| decisao-colegiado | 19957.008709/2024-68 | 2024-10-29 | nao-provido | O Colegiado negou provimento a recurso contra indeferimento de credenciamento como administrador de carteiras por notório saber (art. 3º… | cvm-col-20241029-d3165 | fichas/colegiado/2024-12.md |
+| decisao-colegiado | 19957.008748/2024-65 | 2024-10-22 | nao-provido | O Colegiado negou provimento a recurso contra indeferimento de credenciamento de administrador de carteiras por experiência profissional… | cvm-col-20241022-d3157 | fichas/colegiado/2024-11.md |
+| decisao-colegiado | 19957.008812/2024-16 | 2024-10-22 | nao-provido | O Colegiado, por unanimidade, negou provimento a recurso contra o indeferimento, pela SIN, de dispensa da experiência de sete anos para… | cvm-col-20241022-d3156 | fichas/colegiado/2024-11.md |
+| pas | 19957.013928/2023-88 | 2024-09-24 | condenacao | Apurar suposto exercício da atividade de administração profissional de carteira de valores mobiliários sem prévia autorização da CVM, em… | cvm-pas-19957-013928-2023-88 | fichas/pas/2024-15.md |
+| termo-compromisso | 19957.011992/2023-24 | 2024-09-10 | aceito | O Colegiado aceitou, por unanimidade, proposta conjunta de termo de compromisso da Reag DTVM e de um diretor responsável pela administração… | cvm-col-20240910-d3132 | fichas/tc/2024-05.md |
+| pas | 19957.004588/2020-51 | 2024-07-09 | condenacao | Apurar suposta falta de dever de diligência em aquisição de CCB de emissão da Agrária Indústria e Comércio Ltda. Multas | cvm-pas-19957-004588-2020-51 | fichas/pas/2024-10.md |
+| pas | 19957.002220/2021-30 | 2024-07-09 | condenacao | Apurar suposta falta de dever de diligência em aquisição de CCB de emissão da Novo Guaíba S.A.. Multas | cvm-pas-19957-002220-2021-30 | fichas/pas/2024-10.md |
+| termo-compromisso | 19957.000589/2024-51 | 2024-07-09 | aceito | O Colegiado aceitou proposta conjunta de termo de compromisso da Galt Capital Consultoria de Investimentos e de dois proponentes pessoas… | cvm-col-20240709-d3095 | fichas/tc/2024-04.md |
+| decisao-colegiado | 19957.003986/2024-84 | 2024-07-09 | nao-provido | O Colegiado, por unanimidade, acompanhando a SIN, negou provimento a recurso contra o indeferimento de dispensa de requisito para… | cvm-col-20240709-d3094 | fichas/colegiado/2024-08.md |
+| acordao-crsfn | 19957.010223/2019-22 | 2024-06-11 | condenacao | RECURSO ADMINISTRATIVO. CVM. VIOLAÇÃO DEVER DE DILIGÊNCIA. FUNDOS RPPS. RESPONSABILIDADE DE ADMINISTRADORA DE CARTEIRA DE VALORES… | crsfn-10372-100128-2023-01 | fichas/crsfn/2024-04.md |
+| decisao-colegiado | 19957.014519/2023-07 | 2024-03-26 | nao-provido | O Colegiado, por unanimidade, negou provimento a recurso de pessoa natural contra indeferimento de credenciamento como administrador de… | cvm-col-20240326-d3024 | fichas/colegiado/2024-04.md |
+| decisao-colegiado | 19957.014209/2023-84 | 2024-03-26 | nao-provido | O Colegiado negou provimento, por unanimidade, a recurso contra indeferimento pela SIN de credenciamento como administrador de carteiras… | cvm-col-20240326-d3022 | fichas/colegiado/2024-04.md |
+| acordao-crsfn | 19957.011368/2017-89; RJ2018/00251 | 2024-03-12 | condenacao | RECURSOS ADMINISTRATIVOS. CVM. FALTA DO DEVER DE DILIGÊNCIA. ADMINISTRADOR FIDUCIÁRIO DE FUNDO DE INVESTIMENTO. Violação aos deveres de… | crsfn-10372-100089-2022-52 | fichas/crsfn/2024-02.md |
+| decisao-colegiado | 19957.014519/2023-07 | 2024-02-20 | — | Recurso contra decisão da SIN que indeferiu pedido de credenciamento como administrador de carteira de valores mobiliários. Retirado de… | cvm-col-20240220-d3024 | fichas/colegiado/2024-02.md |
+| decisao-colegiado | 19957.014209/2023-84 | 2024-02-20 | — | Recurso contra indeferimento pela SIN de pedido de credenciamento como administrador de carteiras. Retirado de pauta a pedido da área… | cvm-col-20240220-d3022 | fichas/colegiado/2024-02.md |
+| acordao-crsfn | 19957.012126/2022-70 | 2024-02-07 | condenacao | RECURSO ADMINISTRATIVO. CVM. MERCADO DE VALORES MOBILIÁRIOS. PRÁTICA DE ADMINISTRAÇÃO IRREGULAR DE CARTEIRA. Utilização de Sociedade em… | crsfn-10372-100127-2023-58 | fichas/crsfn/2024-01.md |
+| decisao-colegiado | 19957.012892/2023-15 | 2024-01-23 | nao-provido | O Colegiado negou provimento, acompanhando a SIN, a recurso contra indeferimento de credenciamento de pessoa natural como administrador de… | cvm-col-20240123-d3001 | fichas/colegiado/2024-01.md |
+| pas | 19957.001292/2022-41 | 2023-12-12 | condenacao | 19957.001292/2022-41 | cvm-pas-19957-001292-2022-41 | fichas/pas/2023-16.md |
+| decisao-colegiado | 19957.003763/2023-36 | 2023-08-29 | nao-provido | O Colegiado, por unanimidade, acompanhando a área técnica, negou provimento a recurso contra indeferimento de credenciamento de… | cvm-col-20230829-d2922 | fichas/colegiado/2023-09.md |
+| termo-compromisso | 19957.003158/2020-12 | 2023-04-18 | rejeitado | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou proposta de termo de compromisso de participante do mercado acusado de gestão… | cvm-col-20230418-d2837 | fichas/tc/2023-03.md |
+| acordao-crsfn | 05/2012 | 2023-04-12 | condenacao | RECURSO VOLUNTÁRIO. MERCADO DE VALORES MOBILIÁRIOS. AUSÊNCIA DOS REGISTROS DA ESPECIFICAÇÃO DE ORDENS EM SISTEMA QUE POSSIBILITASSE O… | crsfn-10372-100110-2020-58 | fichas/crsfn/2023-04.md |
+| decisao-colegiado | 19957.010091/2022-34 | 2023-02-28 | provido | O Colegiado, por unanimidade, acompanhando a SIN, deferiu pedido de reconsideração da MDL Trust e manteve o credenciamento como… | cvm-col-20230228-d2692 | fichas/colegiado/2023-03.md |
+| decisao-colegiado | 19957.013909/2022-71 | 2023-02-14 | nao-provido | O Colegiado, acompanhando a área técnica, negou provimento a recurso contra indeferimento de credenciamento como administrador de carteiras… | cvm-col-20230214-d2799 | fichas/colegiado/2023-03.md |
+| acordao-crsfn | 22/2013 | 2022-12-08 | condenacao | RECURSOS VOLUNTÁRIOS. ADMINISTRAÇÃO IRREGULAR DE CARTEIRA POR PARTE DE AGENTES AUTÔNOMOS DE INVESTIMENTO. NEGOCIAÇÃO EXCESSIVA (CHURNING)… | crsfn-10372-100108-2019-45 | fichas/crsfn/2022-10.md |
+| acordao-crsfn | 14/2013 | 2022-12-08 | condenacao | RECURSOS VOLUNTÁRIOS. IRREGULARIDADES NA GESTÃO DE FUNDOS DE INVESTIMENTO. FALTA DE DILIGÊNCIA NA ADMINISTRAÇÃO DE CARTEIRAS. AVALIAÇÕES DE… | crsfn-10372-100093-2021-30 | fichas/crsfn/2022-09.md |
+| acordao-crsfn | RJ2014/3161; 19957.010705/2019-82 | 2022-12-08 | parcial | RECURSOS VOLUNTÁRIOS. MERCADO DE CAPITIAIS. VIOLAÇÃO DA RELAÇÃO FIDUCIÁRIA. NÃO REVELAR SITUAÇÃO DE CONFLITO DE INTERESSE AOS COTISTAS DO… | crsfn-10372-100050-2021-54 | fichas/crsfn/2022-09.md |
+| acordao-crsfn | RJ2014/3161; 19957.010705/2019-82 | 2022-12-08 | parcial | RECURSOS VOLUNTÁRIOS. MERCADO DE CAPITAIS. VIOLAÇÃO DA RELAÇÃO FIDUCIÁRIA. NÃO REVELAR SITUAÇÃO DE CONFLITO DE INTERESSE AOS COTISTAS DO… | crsfn-10372-100050-2021-54-2 | fichas/crsfn/2022-09.md |
+| termo-compromisso | 19957.008143/2018-26; 19957.008816/2018-48; 19957.010223/2019-22; 19957.009530/2018-80 | 2022-12-06 | rejeitado | O Colegiado, por unanimidade, divergindo parcialmente do Comitê (que sugerira aceitar as propostas dos PAS 19957.008816/2018-48 e… | cvm-col-20221206-d1497-e-outros | fichas/tc/2022-05.md |
+| termo-compromisso | 19957.003953/2021-91; 19957.004982/2021-71 | 2022-11-22 | aceito | Apreciação de proposta de termo de compromisso. PAS 19957.003953/2021-91 e 19957.004982/2021-71. | cvm-col-20221122-d2566-2657 | fichas/tc/2022-05.md |
+| acordao-crsfn | 19957.006936/2017-20; RJ2017/4199 | 2022-11-08 | condenacao | RECURSO VOLUNTÁRIO. MERCADO DE CAPITAIS. AUSÊNCIA DE ESTRUTURA FÍSICA E DE CONTROLES INTERNOS DA ADMINISTRADORA DE FUNDOS. AUSÊNCIA DE… | crsfn-10372-100239-2021-47 | fichas/crsfn/2022-08.md |
+| decisao-colegiado | 19957.010091/2022-34 | 2022-09-27 | nao-provido | O Colegiado, por unanimidade, acompanhando a SIN, negou provimento a recurso da MDL Trust Serviços Fiduciários contra o cancelamento de seu… | cvm-col-20220927-d2692 | fichas/colegiado/2022-14.md |
+| termo-compromisso | 19957.002220/2021-30; 19957.004588/2020-51; 19957.010053/2021-09 | 2022-08-23 | rejeitado | O Colegiado rejeitou proposta global de termo de compromisso da gestora de fundos e de seu diretor responsável por dever de diligência na… | cvm-col-20220823-d2674 | fichas/tc/2022-04.md |
+| decisao-colegiado | 19957.003165/2022-86 | 2022-07-12 | nao-provido | O Colegiado negou provimento a recurso contra indeferimento de credenciamento como administrador de carteiras por experiência profissional… | cvm-col-20220712-d2650 | fichas/colegiado/2022-11.md |
+| decisao-colegiado | 19957.001991/2022-91 | 2022-06-28 | nao-provido | O Colegiado negou provimento ao recurso de pessoa natural contra o indeferimento, pela SIN, de credenciamento como administrador de… | cvm-col-20220628-d2631 | fichas/colegiado/2022-10.md |
+| decisao-colegiado | 19957.002736/2022-65 | 2022-06-28 | nao-provido | O Colegiado negou provimento a recurso contra indeferimento de credenciamento de pessoa natural como administrador de carteiras… | cvm-col-20220628-d2623 | fichas/colegiado/2022-10.md |
+| decisao-colegiado | 19957.001060/2022-92 | 2022-06-28 | nao-provido | O Colegiado negou provimento ao recurso da Solaris Gestão de Recursos Ltda. contra o cancelamento de seu credenciamento como administrador… | cvm-col-20220628-d2622 | fichas/colegiado/2022-10.md |
+| termo-compromisso | 19957.005450/2021-51 | 2022-06-21 | outro | O Colegiado aceitou a proposta do proponente (pessoa física, diretor responsável da gestora) e rejeitou a da Quick Job por insucesso na… | cvm-col-20220621-d2621-22 | fichas/tc/2022-03.md |
+| acordao-crsfn | 02/2013 | 2022-05-10 | outro | EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÃO E CONTRADIÇÃO NO ACÓRDÃO EMBARGADO. Situação não configurada. Inexistência de motivos a… | crsfn-10372-100247-2019-79 | fichas/crsfn/2022-04.md |
+| acordao-crsfn | 07/2015 | 2022-05-10 | outro | EMBARGOS DE DECLARAÇÃO. Ausência de omissão ou contradição. Embargos de Declaração rejeitados. | crsfn-10372-100114-2020-36-2 | fichas/crsfn/2022-04.md |
+| pas | 19957.011368/2017-89 | 2022-04-12 | condenacao | Violação aos deveres de boa-fé, transparência, diligência e lealdade aos clientes pelo administrador de carteira de valores mobiliários, em… | cvm-pas-19957-011368-2017-89 | fichas/pas/2022-04.md |
+| decisao-colegiado | 19957.000497/2022-17 | 2022-04-12 | nao-provido | O Colegiado negou provimento a recurso contra indeferimento de credenciamento de pessoa natural como administrador de carteiras (art. 3º… | cvm-col-20220412-d2557 | fichas/colegiado/2022-06.md |
+| decisao-colegiado | 19957.010354/2021-24 | 2022-02-08 | nao-provido | O Colegiado negou provimento a recurso contra o indeferimento, pela SIN, do credenciamento de pessoa natural como administrador de… | cvm-col-20220208-d2471 | fichas/colegiado/2022-01.md |
+| decisao-colegiado | 19957.009952/2021-51 | 2022-02-01 | nao-provido | O Colegiado negou provimento a recurso contra o indeferimento, pela SIN, do credenciamento de pessoa natural como administrador de… | cvm-col-20220201-d2468 | fichas/colegiado/2022-01.md |
+| acordao-crsfn | 07/2015 | 2021-12-08 | condenacao | RECURSO VOLUNTÁRIO. Exercício da atividade de administração de carteira de valores mobiliários sem o prévio registro na CVM. Uso de prática… | crsfn-10372-100114-2020-36 | fichas/crsfn/2021-06.md |
+| decisao-colegiado | 19957.007233/2021-03 | 2021-11-16 | nao-provido | O Colegiado, por unanimidade, negou provimento a recurso contra decisão da SIN que indeferiu o credenciamento de pessoa natural como… | cvm-col-20211116-d2385 | fichas/colegiado/2021-19.md |
+| decisao-colegiado | 19957.006955/2021-32 | 2021-11-03 | nao-provido | O Colegiado negou provimento, por unanimidade, a recurso contra o indeferimento de credenciamento de pessoa natural como administrador de… | cvm-col-20211103-d2365 | fichas/colegiado/2021-18.md |
+| decisao-colegiado | 19957.004920/2021-69 | 2021-10-26 | nao-provido | O Colegiado negou provimento, por unanimidade, ao recurso contra o cancelamento do credenciamento de administrador de carteiras… | cvm-col-20211026-d2336 | fichas/colegiado/2021-18.md |
+| acordao-crsfn | RJ2016/7995 | 2021-09-15 | absolvicao | RECURSO VOLUNTÁRIO. Clube de investimento. Administração irregular de carteira. Condenação não condizente com acusação. Princípios do… | crsfn-10372-100112-2020-47 | fichas/crsfn/2021-04.md |
+| termo-compromisso | 19957.004588/2020-51 | 2021-09-09 | rejeitado | O Colegiado rejeitou, por unanimidade, a proposta de termo de compromisso da BFL Administração de Recursos Ltda. e de seu diretor… | cvm-col-20210909-d2301 | fichas/tc/2021-06.md |
+| termo-compromisso | 19957.002899/2020-86 | 2021-07-13 | rejeitado | O Colegiado rejeitou a proposta conjunta de termo de compromisso de gestora de fundos e de dois diretores, acompanhando o Comitê. A gestora… | cvm-col-20210713-d2237 | fichas/tc/2021-05.md |
+| decisao-colegiado | 19957.003391/2021-86 | 2021-05-18 | provido | Por maioria, o Colegiado deu provimento a recurso do administrador fiduciário contra exigência da SIN de plano de adequação de capital… | cvm-col-20210518-d2170 | fichas/colegiado/2021-08.md |
+| acordao-crsfn | IA-2013-11 | 2021-03-09 | outro | RECURSO VOLUNTÁRIO. Recurso não conhecido por ser intempestivo. | crsfn-10372-100284-2018-04 | fichas/crsfn/2021-01.md |
+| termo-compromisso | 19957.007012/2016-60 | 2021-02-18 | aceito | O Colegiado aceitou, por unanimidade, proposta de termo de compromisso da Genial Investimentos e de seu responsável, acompanhando o parecer… | cvm-col-20210218-d2061 | fichas/tc/2021-01.md |
+| decisao-colegiado | 19957.008013/2020-16 | 2021-02-10 | indeferido | O Colegiado indeferiu o pleito da ANBIMA para que as segmentações da Certificação de Gestores ANBIMA (CGA) fossem aceitas como requisito de… | cvm-col-20210210-d2076 | fichas/colegiado/2021-03.md |
+| termo-compromisso | 19957.000198/2020-11; 21/2013 | 2021-02-09 | rejeitado | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, rejeitou a proposta de termo de compromisso de R$ 291.276,88 de agente… | cvm-col-20210209-d1489 | fichas/tc/2021-01.md |
+| termo-compromisso | 19957.009152/2018-34 | 2021-01-12 | rejeitado | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou seis propostas de termo de compromisso (quatro pessoas físicas e duas… | cvm-col-20210112-d1877 | fichas/tc/2021-01.md |
+| termo-compromisso | 19957.010231/2019-79 | 2020-12-22 | aceito | O Colegiado aceitou proposta de termo de compromisso de gestora e de seu diretor responsável por critérios não equitativos na alocação de… | cvm-col-20201222-d2021 | fichas/tc/2020-07.md |
+| decisao-colegiado | 19957.004648/2020-36 | 2020-12-08 | nao-provido | O Colegiado negou provimento, acompanhando a SIN, a recurso contra indeferimento de credenciamento como administrador de carteira (art. 3º… | cvm-col-20201208-d2004 | fichas/colegiado/2020-21.md |
+| acordao-crsfn | RJ2016/4271 | 2020-11-17 | condenacao | RECURSOS VOLUNTÁRIOS. Desenquadramento de Fundo de Investimentos. Aquisição de ativos para Fundo de Investimentos de maneira contrária aos… | crsfn-10372-100269-2019-39 | fichas/crsfn/2020-08.md |
+| pas | 19957.010705/2019-82; RJ2014/3161 | 2020-11-10 | — | Responsabilidades por eventuais infrações a deveres fiduciários de gestores e administradores de fundos de investimento quando da aquisição… | cvm-pas-19957-010705-2019-82 | fichas/pas/2020-10.md |
+| decisao-colegiado | 19957.005153/2020-24 | 2020-10-20 | nao-provido | O Colegiado, acompanhando a SIN, negou provimento a recurso contra indeferimento de credenciamento de administrador de carteiras por… | cvm-col-20201020-d1953 | fichas/colegiado/2020-17.md |
+| decisao-colegiado | 19957.005168/2020-92 | 2020-10-13 | nao-provido | O Colegiado negou provimento a recurso contra indeferimento pela SIN de credenciamento como administrador de carteiras, acompanhando a área… | cvm-col-20201013-d1944 | fichas/colegiado/2020-17.md |
+| decisao-colegiado | 19957.005836/2020-81 | 2020-09-15 | nao-provido | O Colegiado, por unanimidade, negou provimento a recurso contra indeferimento de credenciamento como consultor de valores mobiliários por… | cvm-col-20200915-d1912 | fichas/colegiado/2020-15.md |
+| decisao-colegiado | 19957.002620/2020-64 | 2020-09-08 | nao-provido | O Colegiado negou provimento a recurso da IRB Asset Management contra decisão da SIN que cancelou seu cadastro para gestão de recursos… | cvm-col-20200908-d1907 | fichas/colegiado/2020-15.md |
+| decisao-colegiado | 19957.001548/2020-58 | 2020-08-18 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SIN que indeferiu credenciamento como administrador de carteira (art. 3º, §1º, I… | cvm-col-20200818-d1886 | fichas/colegiado/2020-13.md |
+| decisao-colegiado | 19957.001953/2020-76 | 2020-05-26 | nao-provido | O Colegiado negou, por unanimidade, provimento a recurso da Orla DTVM contra decisão da SIN que cancelou seu credenciamento como… | cvm-col-20200526-d1818 | fichas/colegiado/2020-09.md |
+| termo-compromisso | 19957.010958/2018-75 | 2020-03-24 | rejeitado | O Colegiado rejeitou a proposta conjunta de termo de compromisso de gestora de fundos e de seu diretor responsável por carteiras, cuja… | cvm-col-20200324-d1572 | fichas/tc/2020-02.md |
+| decisao-colegiado | 19957.010148/2019-08 | 2020-02-18 | nao-provido | O Colegiado negou provimento, por unanimidade, a recurso contra decisão da SIN que indeferiu credenciamento de pessoa física como… | cvm-col-20200218-d1721 | fichas/colegiado/2020-04.md |
+| decisao-colegiado | 01/2019; 19957.002812/2019-37 | 2020-01-22 | outro | O Colegiado aprovou a Instrução CVM nº 619/20, que altera a ICVM 592/17 para permitir que consultores de valores mobiliários não… | cvm-col-20200122-d1382 | fichas/colegiado/2020-01.md |
+| decisao-colegiado | 19957.006412/2019-09 | 2020-01-21 | nao-provido | O Colegiado negou provimento a recurso da Amaril Franklin CTV Ltda. contra o cancelamento de seu credenciamento como administrador de… | cvm-col-20200121-d1681 | fichas/colegiado/2020-01.md |
+| termo-compromisso | 19957.005313/2018-11 | 2019-12-17 | aceito | O Colegiado, por unanimidade, aceitou propostas de termo de compromisso do Banco Santander, da Santander Securities Services DTVM e de… | cvm-col-20191217-d1643 | fichas/tc/2019-07.md |
+| decisao-colegiado | 19957.008937/2019-71 | 2019-12-17 | nao-provido | O Colegiado, acompanhando a SIN, negou provimento a recurso contra cancelamento de credenciamento de administrador de carteira por perda do… | cvm-col-20191217-d1640 | fichas/colegiado/2019-21.md |
+| termo-compromisso | 19957.008143/2018-26 | 2019-12-17 | rejeitado | O Colegiado rejeitou as propostas de termo de compromisso de Intrader DTVM Ltda. e seu sócio responsável, e de Fornax Consultoria… | cvm-col-20191217-d1497 | fichas/tc/2019-07.md |
+| decisao-colegiado | 19957.008957/2019-41 | 2019-12-10 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SIN que cancelou o credenciamento de administrador de carteira do recorrente… | cvm-col-20191210-d1633 | fichas/colegiado/2019-20.md |
+| pas | 05/2012 | 2019-12-03 | — | Irregularidades envolvendo negócios efetuados por fundos de investimentos geridos pela ARX Capital Management Ltda. Infração ao artigo 65… | cvm-pas-05-2012 | fichas/pas/2019-20.md |
+| decisao-colegiado | 19957.008351/2019-14 | 2019-11-26 | nao-provido | Por unanimidade, o Colegiado negou provimento a recurso contra indeferimento de credenciamento como administrador de carteira pessoa… | cvm-col-20191126-d1619 | fichas/colegiado/2019-19.md |
+| pas | 19957.006012/2016-42; RJ2016/7995 | 2019-11-19 | absolvicao | Administração irregular de carteira de valores mobiliários de clube de investimento. Infração ao art. 23 da Lei nº 6.385/76. Infração ao… | cvm-pas-19957-006012-2016-42 | fichas/pas/2019-19.md |
+| decisao-colegiado | 19957.004674/2019-21 | 2019-10-29 | nao-provido | O Colegiado, por unanimidade, acompanhando a área técnica, negou provimento a recurso contra indeferimento de credenciamento como… | cvm-col-20191029-d1588 | fichas/colegiado/2019-17.md |
+| pas | 19957.007006/2017-93; RJ2017/4214 | 2019-10-22 | condenacao | Administração irregular de carteiras de valores mobiliários. Infração ao art. 23 da Lei 6.385/76. Infração ao art. 3º da Instrução CVM nº… | cvm-pas-19957-007006-2017-93 | fichas/pas/2019-17.md |
+| decisao-colegiado | 19957.000893/2019-31 | 2019-10-15 | nao-provido | O Colegiado negou provimento, por unanimidade, a recurso contra indeferimento pela SIN de credenciamento como administrador de carteira com… | cvm-col-20191015-d1573 | fichas/colegiado/2019-16.md |
+| decisao-colegiado | 19957.003301/2019-32 | 2019-10-01 | nao-provido | O Colegiado, por unanimidade, acompanhando a área técnica, negou provimento a recurso contra indeferimento pela SIN de credenciamento como… | cvm-col-20191001-d1561 | fichas/colegiado/2019-16.md |
+| decisao-colegiado | 19957.004070/2019-84 | 2019-07-02 | nao-provido | O Colegiado, por unanimidade, acompanhando a área técnica, negou provimento a recurso da Roma Asset Management contra cancelamento de seu… | cvm-col-20190702-d1458 | fichas/colegiado/2019-11.md |
+| acordao-crsfn | RJ2014/13902 | 2019-04-23 | condenacao | RECURSO VOLUNTÁRIO. Não ocorrência de prescrição, ordinária e intercorrente, e de nulidade da decisão recorrida. Afastamento das… | crsfn-10372-100061-2019-10 | fichas/crsfn/2019-01.md |
+| decisao-colegiado | 19957.000672/2019-62 | 2019-03-19 | nao-provido | O Colegiado negou provimento, por unanimidade, a recurso da FIP Gestora de Recursos Ltda. contra cancelamento de credenciamento como… | cvm-col-20190319-d1347 | fichas/colegiado/2019-04.md |
+| decisao-colegiado | 19957.010308/2018-20 | 2019-03-12 | nao-provido | O Colegiado negou provimento a recurso da Acrux Administração de Recursos Ltda. contra o cancelamento de seu credenciamento como… | cvm-col-20190312-d1336 | fichas/colegiado/2019-04.md |
+| pas | RJ2016/4271 | 2019-01-08 | condenacao | Desenquadramento da carteira do Fundo Roma Ações – Fundo de Investimento em Ações e violação do dever de lealdade em relação ao Roma Fundo… | cvm-pas-rj2016-4271 | fichas/pas/2019-01.md |
+| decisao-colegiado | 19957.006209/2018-43 | 2019-01-08 | nao-provido | O Colegiado, por unanimidade, acompanhando a área técnica, negou provimento a recurso contra indeferimento de credenciamento de… | cvm-col-20190108-d1275 | fichas/colegiado/2019-01.md |
+| decisao-colegiado | 19957.009627/2018-92 | 2019-01-08 | nao-provido | O Colegiado negou provimento a recurso de administrador de carteiras pessoa natural contra a exigência da SIN de optar entre seu… | cvm-col-20190108-d1274 | fichas/colegiado/2019-01.md |
+| decisao-colegiado | 14/2013 | 2018-12-27 | outro | O Colegiado aprovou, por unanimidade, a recapitulação da infração proposta pelo diretor relator para duas gestoras (Global Capital e Global… | cvm-col-20181227-d0124 | fichas/colegiado/2018-21.md |
+| termo-compromisso | 04/2014 | 2018-12-11 | aceito | O Colegiado aceitou, por unanimidade, proposta de Termo de Compromisso da Geração Futuro Corretora de Valores S.A. e de três diretores… | cvm-col-20181211-d0294 | fichas/tc/2018-07.md |
+| termo-compromisso | 19957.010074/2017-30 | 2018-12-04 | aceito | O Colegiado aceitou propostas de Termo de Compromisso da Rio das Pedras, da BTG Pactual DTVM e de seus diretores de carteiras, por alocação… | cvm-col-20181204-d1232 | fichas/tc/2018-07.md |
+| pas | RJ2016/6284 | 2018-10-23 | parcial | Ausência de política de gestão, monitoramento e mensuração permanente dos riscos operacionais inerentes à administração de carteiras de… | cvm-pas-rj2016-6284 | fichas/pas/2018-15.md |
+| decisao-colegiado | 19957.006976/2018-52 | 2018-10-23 | nao-provido | O Colegiado negou provimento a recurso da Brazil Plus Investimentos Ltda. contra o cancelamento de seu credenciamento como administrador de… | cvm-col-20181023-d1189 | fichas/colegiado/2018-18.md |
+| pas | SP2014/382 | 2018-10-09 | condenacao | Administração de carteira de valores sem autorização prévia da CVM e operação fraudulenta. Infração ao art. 23 da Lei nº 6.385/76 c/c o… | cvm-pas-sp2014-0382 | fichas/pas/2018-15.md |
+| decisao-colegiado | 19957.007290/2018-89 | 2018-10-02 | nao-provido | O Colegiado negou provimento a recurso da Horta Investimentos Ltda. contra o cancelamento de seu credenciamento como administradora de… | cvm-col-20181002-d1170 | fichas/colegiado/2018-17.md |
+| termo-compromisso | 19957.009481/2017-02 | 2018-09-25 | rejeitado | O Colegiado rejeitou, por unanimidade, a proposta de Termo de Compromisso da Totem Investimentos e Gestão de Recursos Ltda. (R$ 100.000,00… | cvm-col-20180925-d1167 | fichas/tc/2018-05.md |
+| pas | RJ2014/13902 | 2018-09-11 | condenacao | Apurar a responsabilidade de instituição administradora de carteiras de valores mobiliários, bem como de seus respectivos diretores… | cvm-pas-rj2014-13902 | fichas/pas/2018-14.md |
+| decisao-colegiado | 19957.004930/2018-07 | 2018-07-31 | provido | O Colegiado, por unanimidade, deu provimento a recurso contra o indeferimento do credenciamento de pessoa natural como administrador de… | cvm-col-20180731-d1099 | fichas/colegiado/2018-13.md |
+| pas | RJ2015/12087 | 2018-07-24 | parcial | Violação dos deveres fiduciários estabelecidos no art. 65-A, da Instrução CVM nº 409/04. Irregularidades na administração de fundos de… | cvm-pas-rj2015-12087 | fichas/pas/2018-11.md |
+| termo-compromisso | 19957.000701/2018-13; 11/2013 | 2018-07-24 | aceito | O Colegiado aceitou proposta de termo de compromisso de administradora de clubes de investimento, acusada de não devolver aos clubes… | cvm-col-20180724-d9564 | fichas/tc/2018-04.md |
+| decisao-colegiado | 19957.005830/2018-90 | 2018-07-17 | nao-provido | O Colegiado, por unanimidade, negou provimento a recurso da Construbrokers Asset Management contra o cancelamento de seu registro como… | cvm-col-20180717-d1088 | fichas/colegiado/2018-13.md |
+| decisao-colegiado | 19957.010499/2017-49 | 2018-07-03 | nao-provido | O Colegiado, por unanimidade, negou provimento a recurso contra indeferimento de credenciamento como administrador de carteira com base em… | cvm-col-20180703-d1062 | fichas/colegiado/2018-11.md |
+| decisao-colegiado | 19957.010499/2017-49 | 2018-06-19 | — | Recurso contra indeferimento de credenciamento como administrador de carteira com base em sete anos de experiência em gestão (IN CVM… | cvm-col-20180619-d1062 | fichas/colegiado/2018-11.md |
+| termo-compromisso | RJ2015/9465 | 2018-05-29 | rejeitado | O Colegiado rejeitou, por unanimidade, nova proposta de termo de compromisso da Petra Personal Trader CTVM S.A. no PAS RJ2015/9465, sobre… | cvm-col-20180529-d0183 | fichas/tc/2018-03.md |
+| termo-compromisso | 19957.003200/2017-08 | 2018-05-22 | rejeitado | O Colegiado, por unanimidade, rejeitou as propostas de termo de compromisso da administradora e da gestora de FIPs e de seus diretores… | cvm-col-20180522-d1034 | fichas/tc/2018-03.md |
+| pas | RJ2015/6143 | 2018-04-24 | condenacao | Negociação excessiva de ativos do Fundo de Investimento. Prática de churning – inobservância dos deveres fiduciários para com os cotistas… | cvm-pas-rj2015-6143 | fichas/pas/2018-06.md |
+| decisao-colegiado | 19957.000479/2018-41 | 2018-04-03 | deferido | O Colegiado, acompanhando a área técnica, concedeu ao Fundo Garantidor de Créditos a dispensa de registro como administrador de carteira… | cvm-col-20180403-d0997 | fichas/colegiado/2018-07.md |
+| acordao-crsfn | IA2010/1 | 2018-03-21 | parcial | RECURSOS VOLUNTÁRIOS. Práticas não equitativas. Prática de reespecificação de ordens em prejuízo a fundos exclusivos de instituição de… | crsfn-13869 | fichas/crsfn/2018-03.md |
+| decisao-colegiado | 22/2013 | 2018-03-13 | outro | O Colegiado aprovou a proposta do relator de nova definição jurídica dos fatos: a acusação de churning (Instrução CVM 8/1979) foi… | cvm-col-20180313-d9952 | fichas/colegiado/2018-06.md |
+| decisao-colegiado | 19957.009333/2017-80 | 2018-01-16 | nao-provido | O Colegiado, por unanimidade, negou provimento ao recurso contra o indeferimento, pela SIN, de credenciamento como administrador de… | cvm-col-20180116-d0893 | fichas/colegiado/2018-01.md |
+| decisao-colegiado | 19957.009478/2017-81 | 2018-01-16 | nao-provido | O Colegiado negou provimento a recurso contra indeferimento pela SIN de pedido de credenciamento como administrador de carteira, fundado em… | cvm-col-20180116-d0892 | fichas/colegiado/2018-01.md |
+| acordao-crsfn | IA-2007-6 | 2017-12-12 | outro | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Irregularidades na gestão da carteira de créditos imobiliários pertencente ao RioPrevidência. Nulidade da… | crsfn-14404 | fichas/crsfn/2017-15.md |
+| decisao-colegiado | 11/2016; RJ2006/5754 | 2017-11-01 | outro | O Colegiado aprovou a edição de duas Instruções e uma Deliberação, após a audiência pública SDM 11/2016, para regulamentar a atividade de… | cvm-col-20171101-d0802 | fichas/colegiado/2017-18.md |
+| decisao-colegiado | 11/2016; RJ2006/5754 | 2017-10-11 | — | O Colegiado continuou a discussão do relatório da Audiência Pública SDM 11/2016 sobre três minutas que substituem a Instrução CVM 43/1985… | cvm-col-20171011-d0802 | fichas/colegiado/2017-17.md |
+| decisao-colegiado | 11/2016; RJ2006/5754 | 2017-09-27 | — | O Colegiado deu início à discussão do Relatório de Audiência Pública SDM 11/2016, sobre três minutas de normas de consultoria de valores… | cvm-col-20170927-d0802 | fichas/colegiado/2017-16.md |
+| decisao-colegiado | 19957.006474/2017-41 | 2017-09-26 | nao-provido | O Colegiado, acompanhando a SIN, negou provimento a recurso contra indeferimento de credenciamento de pessoa natural como administrador de… | cvm-col-20170926-d0806 | fichas/colegiado/2017-16.md |
+| decisao-colegiado | 19957.004699/2017-62 | 2017-09-12 | nao-provido | O Colegiado, por unanimidade, negou provimento a recurso contra indeferimento de credenciamento de administrador de carteira de pessoa… | cvm-col-20170912-d0792 | fichas/colegiado/2017-15.md |
+| decisao-colegiado | SP2014/0413 | 2017-08-29 | conhecimento | O Colegiado, por unanimidade, não conheceu de recurso de empresa contra o arquivamento, pela SIN e pela SEP, de reclamação sobre o BTG… | cvm-col-20170829-d0781 | fichas/colegiado/2017-15.md |
+| decisao-colegiado | 19957.006385/2016-13 | 2017-08-01 | nao-provido | O Colegiado, por unanimidade, negou provimento a recurso contra indeferimento de credenciamento de administrador de carteiras (Instrução… | cvm-col-20170801-d0761 | fichas/colegiado/2017-14.md |
+| decisao-colegiado | 19957.003836/2017-41 | 2017-07-25 | nao-provido | O Colegiado, por unanimidade, negou provimento a recurso contra indeferimento pela SIN de credenciamento de administrador de carteiras com… | cvm-col-20170725-d0748 | fichas/colegiado/2017-13.md |
+| decisao-colegiado | 19957.001047/2017-76 | 2017-06-06 | nao-provido | O Colegiado, por unanimidade, indeferiu recurso contra decisão da SIN que negou credenciamento de administrador de carteiras pessoa natural… | cvm-col-20170606-d0685 | fichas/colegiado/2017-11.md |
+| decisao-colegiado | 19957.008302/2016-21 | 2017-06-06 | nao-provido | O Colegiado indeferiu, por unanimidade, recurso de administrador de carteiras pessoa jurídica contra exigência de novo diretor de risco… | cvm-col-20170606-d0655 | fichas/colegiado/2017-10.md |
+| pas | RJ2014-3624 | 2017-05-09 | condenacao | Operações irregulares no mercado de valores mobiliários – Descumprimento do dever de diligência. Multa e suspensão temporária. | cvm-pas-rj2014-3624 | fichas/pas/2017-04.md |
+| decisao-colegiado | 19957.009759/2016-52 | 2017-04-18 | nao-provido | O Colegiado, por unanimidade, negou provimento a recurso contra indeferimento de credenciamento de consultor de valores mobiliários por… | cvm-col-20170418-d0656 | fichas/colegiado/2017-08.md |
+| decisao-colegiado | 19957.008302/2016-21 | 2017-04-18 | — | Recurso da Puras Investimentos Ltda. contra exigência da SIN no pedido de credenciamento de administrador de carteiras pessoa jurídica… | cvm-col-20170418-d0655 | fichas/colegiado/2017-08.md |
+| decisao-colegiado | 19957.006913/2016-34 | 2017-04-18 | nao-provido | O Colegiado, por unanimidade, negou provimento a recurso contra indeferimento de credenciamento de administrador de carteiras pela SIN. Com… | cvm-col-20170418-d0654 | fichas/colegiado/2017-08.md |
+| decisao-colegiado | 19957.009763/2016-11 | 2017-04-11 | nao-provido | O Colegiado, por unanimidade, indeferiu recurso contra decisão da SIN que negou credenciamento de administrador de carteiras pessoa natural… | cvm-col-20170411-d0646 | fichas/colegiado/2017-07.md |
+| decisao-colegiado | 19957.009602/2016-27 | 2017-04-11 | nao-provido | O Colegiado, por unanimidade, negou provimento a recurso contra indeferimento de credenciamento de administrador de carteiras pela SIN, com… | cvm-col-20170411-d0645 | fichas/colegiado/2017-07.md |
+| decisao-colegiado | 19957.009168/2016-85 | 2017-04-11 | nao-provido | O Colegiado indeferiu, por unanimidade, recurso de pessoa natural contra o indeferimento de credenciamento como administrador de carteira… | cvm-col-20170411-d0644 | fichas/colegiado/2017-07.md |
+| decisao-colegiado | 19957.004135/2016-49 | 2017-04-11 | nao-provido | O Colegiado, por unanimidade, negou provimento a recurso contra indeferimento de credenciamento de pessoa natural como administrador de… | cvm-col-20170411-d0643 | fichas/colegiado/2017-07.md |
+| decisao-colegiado | 19957.002943/2016-71 | 2017-03-21 | outro | O Colegiado aprovou Deliberação que inclui entre as instituições dispensadas do credenciamento prévio na CVM as entidades fechadas de… | cvm-col-20170321-d1492 | fichas/colegiado/2017-06.md |
+| decisao-colegiado | 558/2015; 19957.002943/2016-71 | 2017-02-14 | outro | Em consulta da ABRAPP sobre a Instrução CVM 558/2015, o Colegiado, por maioria, acompanhou a SIN e decidiu alterar a Deliberação CVM… | cvm-col-20170214-d0222 | fichas/colegiado/2017-03.md |
+| pas | RJ2014/2099 | 2016-12-01 | parcial | Ausência de segregação de atividades de administração de carteiras das demais atividades exercidas pelo conjunto de empresas do grupo Oboé… | cvm-pas-rj2014-2099 | fichas/pas/2016-13.md |
+| termo-compromisso | RJ2016/4271 | 2016-11-29 | rejeitado | O Colegiado rejeitou, acompanhando o Comitê, proposta de termo de compromisso da LHYNQZ Gestão de Recursos Ltda. e de seu diretor… | cvm-col-20161129-d0441 | fichas/tc/2016-05.md |
+| decisao-colegiado | 19957.006645/2016-51 | 2016-11-22 | nao-provido | O Colegiado negou provimento ao recurso da B&Z Global Strategies contra o cancelamento de seu credenciamento como administradora de… | cvm-col-20161122-d0412 | fichas/colegiado/2016-22.md |
+| decisao-colegiado | 558/2015; 19957.002943/2016-71 | 2016-11-22 | — | Consulta da ABRAPP sobre a Instrução CVM 558/2015 em fundos exclusivos de entidades fechadas de previdência complementar. Um diretor votou… | cvm-col-20161122-d0222 | fichas/colegiado/2016-22.md |
+| decisao-colegiado | 558/2015; 19957.002943/2016-71 | 2016-11-08 | — | Consulta da ABRAPP sobre a aplicação da Instrução CVM 558/2015 a fundos exclusivos de entidades fechadas de previdência complementar, com… | cvm-col-20161108-d0222 | fichas/colegiado/2016-22.md |
+| decisao-colegiado | 19957.006645/2016-51 | 2016-10-25 | — | Recurso da B&Z Global Strategies Gestão de Investimentos Ltda. contra decisão da SIN que cancelou o credenciamento como administrador de… | cvm-col-20161025-d0412 | fichas/colegiado/2016-21.md |
+| decisao-colegiado | 19957.006586/2016-11 | 2016-10-20 | nao-provido | O Colegiado negou provimento ao recurso de administradora de carteiras contra cancelamento de credenciamento por não adaptação à Instrução… | cvm-col-20161020-d0401 | fichas/colegiado/2016-20.md |
+| decisao-colegiado | 19957.006603/2016-10 | 2016-10-04 | nao-provido | O Colegiado negou provimento ao recurso contra decisão da SIN que cancelou o credenciamento de administrador de carteiras por descumprir o… | cvm-col-20161004-d0381 | fichas/colegiado/2016-19.md |
+| decisao-colegiado | 19957.006318/2016-07 | 2016-10-04 | nao-provido | O Colegiado, por unanimidade, indeferiu recurso contra a SIN que cancelou o credenciamento de administrador de carteiras por falta de… | cvm-col-20161004-d0380 | fichas/colegiado/2016-19.md |
+| decisao-colegiado | 19957.006276/2016-04 | 2016-10-04 | nao-provido | O Colegiado negou provimento ao recurso da Solidez contra o cancelamento de seu registro como administradora de carteiras, por não ter… | cvm-col-20161004-d0379 | fichas/colegiado/2016-19.md |
+| decisao-colegiado | 19957.006195/2016-04 | 2016-10-04 | nao-provido | O Colegiado negou provimento a recurso da Accrex Gestão de Recursos Ltda. contra decisão da SIN que cancelou seu registro como… | cvm-col-20161004-d0370 | fichas/colegiado/2016-19.md |
+| decisao-colegiado | 19957.006066/2016-16 | 2016-10-04 | nao-provido | O Colegiado negou provimento a recurso da Broadspan Gestão de Recursos Ltda. contra cancelamento de credenciamento como administrador de… | cvm-col-20161004-d0369 | fichas/colegiado/2016-19.md |
+| termo-compromisso | RJ2015/12170 | 2016-10-04 | rejeitado | O Colegiado rejeitou, por unanimidade, proposta conjunta de Termo de Compromisso de R$ 700.000,00 de duas sociedades do BNY Mellon… | cvm-col-20161004-d0217 | fichas/tc/2016-04.md |
+| decisao-colegiado | 19957.004508/2016-81 | 2016-09-20 | nao-provido | O Colegiado, por unanimidade, indeferiu de plano recurso contra o indeferimento de credenciamento como administrador de carteiras, sem… | cvm-col-20160920-d0355 | fichas/colegiado/2016-18.md |
+| decisao-colegiado | 19957.003264/2016-10 | 2016-09-20 | nao-provido | O Colegiado negou provimento, por unanimidade, a recurso contra indeferimento de credenciamento de pessoa natural como administrador de… | cvm-col-20160920-d0354 | fichas/colegiado/2016-18.md |
+| decisao-colegiado | 19957.005662/2016-71 | 2016-09-20 | nao-provido | O Colegiado indeferiu recurso contra o cancelamento do credenciamento de administrador de carteiras, por não envio, até 30.06.2016, dos… | cvm-col-20160920-d0352 | fichas/colegiado/2016-18.md |
+| decisao-colegiado | 19957.006047/2016-81 | 2016-09-13 | nao-provido | O Colegiado negou provimento a recurso da Palomar – Gestora de Recursos Financeiros Ltda. contra decisão da SIN que cancelou seu registro… | cvm-col-20160913-d0353 | fichas/colegiado/2016-17.md |
+| termo-compromisso | 05/2012 | 2016-08-30 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso de gestora, diretores responsáveis e administradora no PAS 05/2012, por ausência de… | cvm-col-20160830-d0342 | fichas/tc/2016-04.md |
+| termo-compromisso | RJ2015/10801 | 2016-07-26 | aceito | O Colegiado aceitou a proposta de Termo de Compromisso da Brandes Investment Partners, L.P., consultora que exerce gestão discricionária… | cvm-col-20160726-d0319 | fichas/tc/2016-03.md |
+| decisao-colegiado | 19957.002154/2016-31 | 2016-07-26 | nao-provido | O Colegiado, acompanhando a área técnica (Memorando 56/2016) e por unanimidade, negou provimento a recurso de pessoa natural contra o… | cvm-col-20160726-d0305 | fichas/colegiado/2016-14.md |
+| pas | SP2012/0374 | 2016-07-19 | parcial | Normal 0 21 false false false PT-BR X-NONE X-NONE /* Style Definitions */ table.MsoNormalTable {mso-style-name:"Tabela normal"… | cvm-pas-sp2012-0374 | fichas/pas/2016-04.md |
+| termo-compromisso | RJ2015/13460 | 2016-07-05 | rejeitado | O Colegiado rejeitou, por unanimidade, as propostas de Termo de Compromisso dos acusados no PAS CVM 06/2012, sobre negócios na BM&F da… | cvm-col-20160705-d9998 | fichas/tc/2016-03.md |
+| decisao-colegiado | 19957.001114/2016-71 | 2016-06-14 | nao-provido | O Colegiado, acompanhando a área técnica (Memorando 43/2016), negou provimento a recurso da Linker Investimentos Ltda. contra o… | cvm-col-20160614-d0251 | fichas/colegiado/2016-12.md |
+| acordao-crsfn | RJ2010/13301 | 2016-05-31 | parcial | RECURSOS VOLUNTÁRIOS – Mercado de valores mobiliários – Falta de segregação física de atividades – Inexistência de critérios para rateio de… | crsfn-13521 | fichas/crsfn/2016-03.md |
+| decisao-colegiado | 558/2015; 19957.002943/2016-71 | 2016-05-24 | — | O Colegiado decidiu, por unanimidade, acompanhar o entendimento da SIN (Memorando 21/2016) sobre a consulta da ANBIMA quanto à aplicação da… | cvm-col-20160524-d0222 | fichas/colegiado/2016-10.md |
+| termo-compromisso | RJ2015/6143 | 2016-05-17 | rejeitado | O Colegiado rejeitou, por unanimidade, proposta conjunta de Termo de Compromisso da Pilla CVMC Ltda. e de seu diretor responsável pela… | cvm-col-20160517-d0208 | fichas/tc/2016-02.md |
+| decisao-colegiado | RJ2016/1332 | 2016-05-03 | nao-provido | O Colegiado negou provimento, por unanimidade, ao recurso contra indeferimento de credenciamento como administrador de carteira (ICVM… | cvm-col-20160503-d0189 | fichas/colegiado/2016-09.md |
+| termo-compromisso | RJ2014/13902 | 2016-04-26 | aceito | O Colegiado aceitou a proposta de termo de compromisso da Bancoob DTVM (R$ 750.000,00) e rejeitou as propostas de dois diretores… | cvm-col-20160426-d0184 | fichas/tc/2016-02.md |
+| termo-compromisso | RJ2015/9969 | 2016-04-19 | rejeitado | O Colegiado rejeitou, por unanimidade, as propostas de Termo de Compromisso apresentadas no PAS CVM 21/2010, sobre negócios em contratos… | cvm-col-20160419-d9868 | fichas/tc/2016-01.md |
+| decisao-colegiado | — | 2016-04-19 | outro | O Colegiado deliberou prosseguir com a análise do tema após a SDM apresentar o resultado de questionário enviado aos 461 consultores de… | cvm-col-20160419-d2865 | fichas/colegiado/2016-08.md |
+| decisao-colegiado | RJ2016/0056 | 2016-03-15 | nao-provido | O Colegiado negou provimento ao recurso de pessoa natural contra indeferimento de credenciamento como administrador de carteira… | cvm-col-20160315-d0151 | fichas/colegiado/2016-07.md |
+| decisao-colegiado | 19957.003166/2015-00 | 2016-03-01 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.003166/2015-00. | cvm-col-20160301-d0119 | fichas/colegiado/2016-06.md |
+| decisao-colegiado | RJ2015/12607 | 2016-03-01 | nao-provido | O Colegiado negou provimento ao recurso de pessoa natural contra indeferimento de credenciamento como administrador de carteira… | cvm-col-20160301-d0114 | fichas/colegiado/2016-05.md |
+| decisao-colegiado | RJ2015/13322 | 2016-02-11 | nao-provido | O Colegiado, acompanhando o Memorando nº 6/2016-CVM/SIN/GIR, negou provimento por unanimidade ao recurso contra o indeferimento de… | cvm-col-20160211-d0076 | fichas/colegiado/2016-03.md |
+| decisao-colegiado | 244/1998; RJ2015/12035 | 2016-02-11 | deferido | O Colegiado deferiu o pedido de credenciamento da IRB Brasil Resseguros S.A. como administradora de carteiras, com base na Deliberação CVM… | cvm-col-20160211-d0075 | fichas/colegiado/2016-03.md |
+| decisao-colegiado | RJ2015/9609 | 2016-02-02 | nao-provido | O Colegiado negou provimento ao recurso contra decisão da SIN que indeferiu credenciamento como administrador de carteira, acompanhando a… | cvm-col-20160202-d0032 | fichas/colegiado/2016-02.md |
+| decisao-colegiado | RJ2015/8451 | 2015-12-22 | nao-provido | O Colegiado negou o recurso contra decisão da SIN que indeferiu credenciamento de consultor de valores mobiliários (Instrução CVM 43/1985)… | cvm-col-20151222-d9995 | fichas/colegiado/2015-25.md |
+| termo-compromisso | RJ2014/3161 | 2015-12-08 | rejeitado | O Colegiado rejeitou propostas de Termo de Compromisso de três instituições e de seus diretores responsáveis pela administração de… | cvm-col-20151208-d9961 | fichas/tc/2015-04.md |
+| decisao-colegiado | RJ2015/8988 | 2015-11-24 | nao-provido | O Colegiado negou provimento a recurso contra indeferimento de credenciamento de administrador de carteira pela SIN, por falta de… | cvm-col-20151124-d9940 | fichas/colegiado/2015-22.md |
+| decisao-colegiado | RJ2015/3555 | 2015-11-24 | deferido | O Colegiado deferiu pedido da BR Partners Gestão de Recursos Ltda. de substituição do diretor responsável pela administração de carteiras e… | cvm-col-20151124-d9930 | fichas/colegiado/2015-22.md |
+| decisao-colegiado | RJ2015/8990 | 2015-11-24 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SIN que indeferiu credenciamento de administrador de carteiras por falta de… | cvm-col-20151124-d9926 | fichas/colegiado/2015-22.md |
+| termo-compromisso | SP2014/0382 | 2015-11-10 | rejeitado | O Colegiado rejeitou proposta de Termo de Compromisso de R$ 20.000,00 de proponente acusado de administração de carteira sem autorização… | cvm-col-20151110-d9923 | fichas/tc/2015-04.md |
+| decisao-colegiado | RJ2015/9115 | 2015-11-10 | deferido | O Colegiado deferiu pedido da Credit Suisse Hedging-Griffo Serviços Internacionais S.A. para designar mais um diretor responsável pela… | cvm-col-20151110-d9912 | fichas/colegiado/2015-20.md |
+| decisao-colegiado | RJ2014/10959 | 2015-11-03 | nao-provido | O Colegiado negou provimento a recurso contra indeferimento de credenciamento de administrador de carteira pela SIN, por falta de… | cvm-col-20151103-d9907 | fichas/colegiado/2015-20.md |
+| decisao-colegiado | RJ2015/4374 | 2015-08-18 | nao-provido | O Colegiado negou provimento a recurso contra indeferimento da SIN de credenciamento como administrador de carteira (art. 4º, II, ICVM… | cvm-col-20150818-d9793 | fichas/colegiado/2015-15.md |
+| decisao-colegiado | RJ2015/1403 | 2015-08-18 | nao-provido | O Colegiado negou provimento ao recurso contra decisão da SIN que indeferiu credenciamento de consultor de valores mobiliários (ICVM… | cvm-col-20150818-d9792 | fichas/colegiado/2015-15.md |
+| decisao-colegiado | RJ2015/2602 | 2015-06-23 | nao-provido | O Colegiado negou provimento ao recurso contra o indeferimento de credenciamento como administrador de carteira, acompanhando a SIN… | cvm-col-20150623-d9713 | fichas/colegiado/2015-11.md |
+| decisao-colegiado | RJ2015/2581 | 2015-06-23 | nao-provido | O Colegiado, acompanhando o Memorando 24/2015 (SIN/GIR), negou provimento ao recurso contra indeferimento de credenciamento como consultor… | cvm-col-20150623-d9711 | fichas/colegiado/2015-11.md |
+| termo-compromisso | RJ2014/7915 | 2015-05-19 | rejeitado | O Colegiado rejeitou, por unanimidade, as quatro propostas de termo de compromisso (R$ 100.000,00; R$ 350.000,00; R$ 50.000,00; R$… | cvm-col-20150519-d9317 | fichas/tc/2015-02.md |
+| decisao-colegiado | RJ2011/7177 | 2015-05-19 | outro | O Colegiado, acompanhando o voto do relator, decidiu que a experiência como agente autônomo de investimento (AAI) não serve para comprovar… | cvm-col-20150519-d7842 | fichas/colegiado/2015-08.md |
+| pas | RJ2012/9490 | 2015-03-10 | condenacao | Exercício indevido de administração de carteira de valores mobiliários sem a prévia autorização da CVM - Advertências e Multas | cvm-pas-rj2012-9490 | fichas/pas/2015-02.md |
+| decisao-colegiado | RJ1994/1815 | 2015-02-24 | deferido | O Colegiado deferiu o pedido do Deutsche Bank S.A. – Banco Alemão para designar mais um diretor responsável pela administração de carteiras… | cvm-col-20150224-d9578 | fichas/colegiado/2015-03.md |
+| termo-compromisso | RJ2013/5456 | 2015-02-03 | rejeitado | O Colegiado rejeitou, por unanimidade, nova proposta de termo de compromisso da Oliveira Trust DTVM S.A. e de um diretor responsável pela… | cvm-col-20150203-d8930 | fichas/tc/2015-01.md |
+| termo-compromisso | RJ2014/3624 | 2014-12-16 | rejeitado | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou a proposta conjunta de termo de compromisso da gestora de fundo de ações e de… | cvm-col-20141216-d04 | fichas/tc/2014-06.md |
+| decisao-colegiado | RJ2014/8024 | 2014-10-07 | nao-provido | O Colegiado negou provimento a recurso contra o indeferimento, pela SIN, de pedido de credenciamento como administrador de carteira… | cvm-col-20141007-d11 | fichas/colegiado/2014-19.md |
+| termo-compromisso | RJ2013/0392 | 2014-09-23 | rejeitado | O Colegiado rejeitou proposta de Termo de Compromisso de uma gestora e de seu diretor responsável pela administração de carteiras, por… | cvm-col-20140923-d04 | fichas/tc/2014-02.md |
+| decisao-colegiado | RJ1989/0559 | 2014-08-19 | deferido | O Colegiado deferiu, por unanimidade, o pedido do Itaú Unibanco S.A. para designar mais um diretor responsável pela administração de… | cvm-col-20140819-d10 | fichas/colegiado/2014-15.md |
+| decisao-colegiado | RJ2011/9210 | 2014-07-15 | deferido | O Colegiado, acompanhando a SIN, deferiu pedido da Jive Asset Gestão de Recursos Ltda. para indicar mais um diretor responsável pela… | cvm-col-20140715-d11 | fichas/colegiado/2014-13.md |
+| decisao-colegiado | RJ2013/13666 | 2014-07-15 | nao-provido | O Colegiado negou provimento ao recurso contra decisão da SIN que indeferiu credenciamento de administrador de carteira por experiência… | cvm-col-20140715-d09 | fichas/colegiado/2014-13.md |
+| decisao-colegiado | RJ2012/10958 | 2014-07-15 | nao-provido | O Colegiado negou provimento a recurso contra indeferimento, pela SIN, de credenciamento como administrador de carteira por falta de… | cvm-col-20140715-d08 | fichas/colegiado/2014-13.md |
+| decisao-colegiado | RJ2014/2402 | 2014-05-20 | nao-provido | O Colegiado negou recurso contra indeferimento de credenciamento de administrador de carteira por falta de experiência (art. 4º, II, ICVM… | cvm-col-20140520-d15 | fichas/colegiado/2014-09.md |
+| decisao-colegiado | RJ2008/7462 | 2014-05-20 | deferido | O Colegiado deferiu pedido da Emerald Gestão de Investimentos Ltda. para designar mais um diretor responsável pela administração de… | cvm-col-20140520-d14 | fichas/colegiado/2014-09.md |
+| decisao-colegiado | RJ2000/5496 | 2014-04-22 | deferido | O Colegiado deferiu, por unanimidade, o pedido do HSBC Bank Brasil S.A. para indicar mais um diretor responsável pela administração de… | cvm-col-20140422-d04 | fichas/colegiado/2014-07.md |
+| decisao-colegiado | RJ2013/7556 | 2014-04-15 | nao-provido | O Colegiado indeferiu recurso contra decisão da SIN que cancelou o credenciamento de administrador de carteiras por falta do requisito de… | cvm-col-20140415-d10 | fichas/colegiado/2014-07.md |
+| acordao-crsfn | RJ2010/1281 | 2014-02-18 | condenacao | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Exercício da atividade de administrador de carteiras sem prévio registro na… | crsfn-13164 | fichas/crsfn/2014-01.md |
+| decisao-colegiado | RJ2013/7179 | 2014-01-07 | nao-provido | O Colegiado negou provimento a recurso contra o cancelamento da autorização de administrador de carteira por falta de reputação ilibada… | cvm-col-20140107-d04 | fichas/colegiado/2014-01.md |
+| pas | RJ2011/4517 | 2013-12-17 | parcial | GRP Investimentos Ltda. Inobservância do dever de diligência. Absolvições, advertências e multas. | cvm-pas-rj2011-4517 | fichas/pas/2013-14.md |
+| decisao-colegiado | RJ2013/8744 | 2013-11-26 | nao-provido | O Colegiado negou provimento a recurso contra o cancelamento da autorização de administrador de carteira por falta de reputação ilibada… | cvm-col-20131126-d03 | fichas/colegiado/2013-22.md |
+| termo-compromisso | RJ2010/17292 | 2013-11-12 | aceito | O Colegiado aceitou proposta de Termo de Compromisso de R$ 350.000,00 apresentada pela BEM Distribuidora e um diretor, acompanhando o… | cvm-col-20131112-d02 | fichas/tc/2013-05.md |
+| decisao-colegiado | RJ2013/5369 | 2013-10-08 | nao-provido | O Colegiado negou provimento a recurso contra indeferimento, pela SIN, de credenciamento de administrador de carteira por falta do… | cvm-col-20131008-d08 | fichas/colegiado/2013-19.md |
+| decisao-colegiado | RJ1990/1867 | 2013-09-03 | deferido | O Colegiado deferiu o pedido da Credit Suisse Hedging-Griffo Corretora de Valores S.A. para indicar mais um diretor responsável pela… | cvm-col-20130903-d04 | fichas/colegiado/2013-16.md |
+| decisao-colegiado | RJ2011/14560 | 2013-09-03 | outro | O Colegiado, por unanimidade, acompanhou o voto da relatora e o entendimento da SIN que deferiu o credenciamento do Banco Société Générale… | cvm-col-20130903-d03 | fichas/colegiado/2013-16.md |
+| pas | RJ2012/9652 | 2013-07-16 | condenacao | [pessoa física] Exercício simultâneo de atividades incompatíveis com o cargo de administrador de carteira de valores mobiliários… | cvm-pas-rj2012-9652 | fichas/pas/2013-07.md |
+| decisao-colegiado | RJ2013/5182 | 2013-06-18 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SIN que indeferiu credenciamento de administrador de carteira por não atendimento… | cvm-col-20130618-d03 | fichas/colegiado/2013-12.md |
+| decisao-colegiado | RJ2013/0315 | 2013-05-28 | nao-provido | O Colegiado, por unanimidade, negou provimento a recurso contra indeferimento de credenciamento como administrador de carteira por falta de… | cvm-col-20130528-d09 | fichas/colegiado/2013-11.md |
+| acordao-crsfn | RJ-2009-3823 | 2013-05-21 | condenacao | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Consultoria e administração (e indevida delegação de administração… | crsfn-12956 | fichas/crsfn/2013-02.md |
+| decisao-colegiado | RJ2010/8982 | 2013-05-07 | deferido | Acompanhando a SIN (Memo/SIN/Nº 120/2013), o Colegiado deferiu pedido da Gávea Investimentos Ltda. para designar mais um diretor… | cvm-col-20130507-d07 | fichas/colegiado/2013-10.md |
+| termo-compromisso | 01/2010 | 2013-05-07 | rejeitado | O Colegiado rejeitou nova proposta de termo de compromisso de R$ 420.255,70 (20% dos prejuízos dos fundos, corrigidos pelo IPCA, em parcela… | cvm-col-20130507-d02 | fichas/tc/2013-02.md |
+| decisao-colegiado | RJ2012/10414 | 2013-04-02 | nao-provido | O Colegiado, pelos argumentos da área técnica, negou provimento a recurso contra decisão da SIN que indeferiu credenciamento como… | cvm-col-20130402-d07 | fichas/colegiado/2013-08.md |
+| decisao-colegiado | RJ2013/0946 | 2013-03-26 | nao-provido | O Colegiado negou provimento, por unanimidade, a recurso contra decisão da SIN que indeferiu credenciamento de administrador de carteiras… | cvm-col-20130326-d11 | fichas/colegiado/2013-07.md |
+| termo-compromisso | RJ2012/7132 | 2013-03-19 | aceito | O Colegiado aceitou as propostas de termo de compromisso, acompanhando o parecer do Comitê. Um diretor, acusado de exercer simultaneamente… | cvm-col-20130319-d03 | fichas/tc/2013-01.md |
+| decisao-colegiado | RJ2011/0974 | 2013-02-26 | outro | O Colegiado, acompanhando o voto da relatora, declarou a perda de objeto do recurso da corretora TOV contra decisão da SMI que negara a… | cvm-col-20130226-d02 | fichas/colegiado/2013-05.md |
+| decisao-colegiado | RJ2011/12024 | 2013-01-15 | parcial | O Colegiado deu provimento parcial a recurso contra a suspensão, pela SIN, da análise de pedido de credenciamento de administrador de… | cvm-col-20130115-d08 | fichas/colegiado/2013-02.md |
+| termo-compromisso | RJ2010/15523 | 2012-11-22 | aceito | O Colegiado aceitou proposta conjunta de termo de compromisso de R$ 1.000.000,00 do Banco Itaucard S.A. e de dois diretores responsáveis… | cvm-col-20121122-d13 | fichas/tc/2012-06.md |
+| decisao-colegiado | RJ2012/0186 | 2012-11-22 | nao-provido | O Colegiado, por unanimidade, indeferiu o recurso contra decisão da SIN que negou credenciamento como consultor de valores mobiliários… | cvm-col-20121122-d11 | fichas/colegiado/2012-21.md |
+| pas | RJ2010/13301 | 2012-10-23 | condenacao | INFINITY CCTVM inexistência de segregação física de atividades – inexistência de critérios para rateio de grupamento de ordens de compra e… | cvm-pas-rj2010-13301 | fichas/pas/2012-04.md |
+| decisao-colegiado | RJ1997/2127 | 2012-10-02 | deferido | O Colegiado deferiu pedido da Credit Suisse Hedging-Griffo Asset Management S.A. para designar mais um diretor responsável pela… | cvm-col-20121002-d06 | fichas/colegiado/2012-18.md |
+| decisao-colegiado | RJ2012/6198 | 2012-09-18 | nao-provido | O Colegiado negou provimento a recurso da Sul América Seguros de Vida e Previdência S.A. contra exigência da SIN de alteração estatutária… | cvm-col-20120918-d05 | fichas/colegiado/2012-17.md |
+| decisao-colegiado | RJ1993/1515 | 2012-09-04 | deferido | O Colegiado deferiu pedido da BRAM Asset Management DTVM para indicar dois diretores responsáveis pela administração de carteiras, em… | cvm-col-20120904-d18 | fichas/colegiado/2012-16.md |
+| decisao-colegiado | RJ2011/8272 | 2012-09-04 | provido | O Colegiado, por voto de qualidade, deu provimento a recurso contra indeferimento pela SIN de credenciamento como administrador de carteira… | cvm-col-20120904-d17 | fichas/colegiado/2012-16.md |
+| decisao-colegiado | RJ1997/1173 | 2012-07-31 | deferido | O Colegiado deferiu pedido do Banco Fator S.A. para autorizar a indicação de mais um diretor responsável pela administração de carteiras de… | cvm-col-20120731-d05 | fichas/colegiado/2012-13.md |
+| decisao-colegiado | RJ2012/5644 | 2012-07-17 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SIN que indeferiu credenciamento de administrador de carteira por não atendimento… | cvm-col-20120717-d05 | fichas/colegiado/2012-12.md |
+| decisao-colegiado | RJ2012/3963 | 2012-07-10 | nao-provido | O Colegiado negou provimento a recurso contra o indeferimento de credenciamento como administrador de carteira por falta de experiência… | cvm-col-20120710-d08 | fichas/colegiado/2012-12.md |
+| termo-compromisso | 01/2010 | 2012-07-03 | rejeitado | O Colegiado rejeitou as propostas de termo de compromisso da BI Capital Gestão de Recursos Ltda., de dois de seus profissionais e de um… | cvm-col-20120703-d08 | fichas/tc/2012-03.md |
+| pas | 13/2005 | 2012-06-25 | parcial | PRECE PREVIDÊNCIA COMPLEMENTAR Falta com o dever de diligência no exercício da função de administrador de fundos e no exercício da função… | cvm-pas-13-2005 | fichas/pas/2012-02.md |
+| decisao-colegiado | RJ2006/4430 | 2012-06-19 | deferido | O Colegiado deferiu, acompanhando a SIN, pedido da Gávea Investimentos Ltda. para designar mais um diretor responsável pela administração… | cvm-col-20120619-d06 | fichas/colegiado/2012-10.md |
+| acordao-crsfn | SP-2007-114 | 2012-05-10 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Atividade de administração de carteira sem prévia autorização da… | crsfn-12448 | fichas/crsfn/2012-02.md |
+| decisao-colegiado | RJ2011/14145 | 2012-05-02 | nao-provido | O Colegiado indeferiu recurso contra decisão da SIN que negou credenciamento de administrador de carteira por falta de experiência (art… | cvm-col-20120502-d04 | fichas/colegiado/2012-08.md |
+| termo-compromisso | RJ2010/13301 | 2012-04-17 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso da Infinity CCTVM S.A., da Infinity Asset Management e de uma pessoa física, de R$… | cvm-col-20120417-d02 | fichas/tc/2012-02.md |
+| decisao-colegiado | RJ2006/5415 | 2012-03-27 | deferido | O Colegiado deferiu pedido do Banco Santander (Brasil) S.A. para designar mais um diretor responsável pela administração de carteiras… | cvm-col-20120327-d07 | fichas/colegiado/2012-06.md |
+| decisao-colegiado | RJ1991/1313 | 2012-03-27 | deferido | O Colegiado deferiu pedido do Banco J.P. Morgan S.A., administrador de carteiras, para indicar mais um diretor responsável pela… | cvm-col-20120327-d06 | fichas/colegiado/2012-06.md |
+| pas | 15/2008 | 2012-02-28 | absolvicao | [pessoa física] Suposto descumprimento do dever de diligência de administradores de carteira – supostas irregularidades na gestão de fundos… | cvm-pas-15-2008 | fichas/pas/2012-01.md |
+| acordao-crsfn | RJ-2005-5038 | 2012-02-13 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Consultoria e administração (e indevida delegação de administração… | crsfn-11327 | fichas/crsfn/2012-01.md |
+| decisao-colegiado | RJ2011/9231 | 2012-01-31 | deferido | O Colegiado concedeu, no caso concreto, dispensa do art. 7º, §1º, da Instrução CVM 306/99 no credenciamento da FIL Investimentos (Brasil)… | cvm-col-20120131-d03 | fichas/colegiado/2012-02.md |
+| termo-compromisso | RJ2011/7712 | 2011-12-06 | aceito | O Colegiado aceitou a proposta de termo de compromisso da Mapfre DTVM S.A. e de diretor responsável pela administração de carteira… | cvm-col-20111206-d02 | fichas/tc/2011-05.md |
+| decisao-colegiado | RJ2007/3985 | 2011-11-29 | deferido | O Colegiado deferiu pedido da Teorema Gestão de Ativos Ltda. para designar dois diretores responsáveis pela administração de carteiras de… | cvm-col-20111129-d30 | fichas/colegiado/2011-27.md |
+| decisao-colegiado | RJ2011/3861 | 2011-11-22 | nao-provido | O Colegiado negou provimento ao recurso do recorrente contra decisão da SIN que indeferiu seu credenciamento como administrador de carteira… | cvm-col-20111122-d28 | fichas/colegiado/2011-26.md |
+| termo-compromisso | RJ2010/15685 | 2011-11-08 | aceito | O Colegiado aceitou proposta de termo de compromisso da Prosper S.A. e de dois de seus diretores, com pagamento à CVM de R$ 106.747,60… | cvm-col-20111108-d03 | fichas/tc/2011-05.md |
+| termo-compromisso | RJ2011/10405 | 2011-11-08 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso da gestora e de seu diretor responsável por aquisição de cotas de fundo vedadas pelo… | cvm-col-20111108-d02 | fichas/tc/2011-05.md |
+| termo-compromisso | RJ2010/7309 | 2011-10-19 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso da gestora e de seu diretor responsável por possíveis infrações (front running… | cvm-col-20111019-d02 | fichas/tc/2011-04.md |
+| decisao-colegiado | RJ2011/8443 | 2011-10-11 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SIN que indeferiu credenciamento de administrador de carteira por falta de… | cvm-col-20111011-d04 | fichas/colegiado/2011-21.md |
+| decisao-colegiado | RJ2010/9133 | 2011-09-06 | deferido | O Colegiado deferiu o pedido do Banco J. Safra S.A. para indicar um segundo diretor responsável pela administração de carteiras de valores… | cvm-col-20110906-d16 | fichas/colegiado/2011-18.md |
+| decisao-colegiado | RJ2001/9961 | 2011-09-06 | deferido | O Colegiado deferiu pedido da Franklin Templeton Investimentos (Brasil) Ltda. para indicar um segundo diretor responsável pela… | cvm-col-20110906-d15 | fichas/colegiado/2011-18.md |
+| decisao-colegiado | RJ2011/2630 | 2011-06-28 | nao-provido | O Colegiado negou o recurso de pessoa natural contra o indeferimento, pela SIN, de credenciamento como administrador de carteira por falta… | cvm-col-20110628-d05 | fichas/colegiado/2011-14.md |
+| decisao-colegiado | RJ2005/3416 | 2011-06-22 | — | O Colegiado deu continuidade à discussão de minuta de Instrução sobre administração, gestão e consultoria de valores mobiliários, que… | cvm-col-20110622-d01 | fichas/colegiado/2011-13.md |
+| termo-compromisso | RJ2006/9075 | 2011-05-10 | aceito | O Colegiado aceitou proposta de termo de compromisso da Máxima Asset Management Ltda. e de seu diretor responsável pela administração de… | cvm-col-20110510-d05 | fichas/tc/2011-02.md |
+| termo-compromisso | RJ2010/17089 | 2011-05-10 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de R$ 80.000,00, feita em conjunto pela BI Capital Gestão de Recursos Ltda. e por seu… | cvm-col-20110510-d04 | fichas/tc/2011-02.md |
+| decisao-colegiado | RJ2010/14459 | 2011-04-26 | nao-provido | O Colegiado manteve a decisão da SIN e indeferiu recurso da Sommar DTVM contra negativa de credenciamento como administrador de carteira… | cvm-col-20110426-d01 | fichas/colegiado/2011-09.md |
+| decisao-colegiado | RJ2010/14459 | 2011-04-05 | — | Recurso contra decisão da SIN que indeferiu credenciamento de administrador de carteira da Sommar DTVM, por acúmulo do cargo de diretor… | cvm-col-20110405-d09 | fichas/colegiado/2011-08.md |
+| termo-compromisso | RJ2009/5412 | 2011-03-01 | rejeitado | O Colegiado rejeitou a proposta de Termo de Compromisso da Geração Futuro Corretora de Valores S.A., conforme parecer do Comitê. Objeto… | cvm-col-20110301-d02 | fichas/tc/2011-01.md |
+| acordao-crsfn | RJ-2006-7655 | 2011-01-26 | condenacao | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Falta de atualização de dados cadastrais de companhia aberta nos registros da… | crsfn-11639 | fichas/crsfn/2011-01.md |
+| decisao-colegiado | RJ2006/6514 | 2011-01-11 | deferido | O Colegiado deferiu pedido do Banco Bradesco S.A. para designar segundo diretor responsável pela administração de carteiras de valores… | cvm-col-20110111-d05 | fichas/colegiado/2011-01.md |
+| decisao-colegiado | RJ2010/12168 | 2010-12-28 | nao-provido | O Colegiado indeferiu recurso contra decisão da SIN que negou credenciamento de administrador de carteira de valores mobiliários por falta… | cvm-col-20101228-d71 | fichas/colegiado/2010-33.md |
+| decisao-colegiado | RJ2010/0112 | 2010-12-07 | nao-provido | O Colegiado negou provimento ao recurso de pessoa física contra o indeferimento de seu credenciamento como administrador de carteira, por… | cvm-col-20101207-d38 | fichas/colegiado/2010-28.md |
+| decisao-colegiado | RJ2010/7099 | 2010-12-07 | outro | O Colegiado, por maioria, acompanhando o voto do diretor relator, decidiu que o requerente evidencia aptidão para a gestão de recursos de… | cvm-col-20101207-d35 | fichas/colegiado/2010-28.md |
+| decisao-colegiado | RJ2009/12425 | 2010-11-09 | nao-provido | O Colegiado negou provimento a pedido de reconsideração de decisão que manteve o indeferimento do credenciamento como administrador de… | cvm-col-20101109-d03 | fichas/colegiado/2010-23.md |
+| decisao-colegiado | RJ2010/10355 | 2010-11-04 | nao-provido | O Colegiado negou provimento a recurso contra o indeferimento, pela SIN, do credenciamento como administrador de carteira por falta de… | cvm-col-20101104-d26 | fichas/colegiado/2010-23.md |
+| decisao-colegiado | RJ1997/2127 | 2010-10-05 | deferido | O Colegiado deferiu pedido do Credit Suisse Hedging-Griffo Asset Management para designar segunda diretora responsável pela administração… | cvm-col-20101005-d04 | fichas/colegiado/2010-20.md |
+| pas | 06/2007 | 2010-09-28 | parcial | ASM FIDC FCVS Operações fraudulentas no mercado de valores mobiliários – falta de diligência de administrador de recursos. Suspensões… | cvm-pas-06-2007 | fichas/pas/2010-07.md |
+| decisao-colegiado | RJ2010/9179 | 2010-09-21 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SIN que indeferiu credenciamento como administrador de carteira, por experiência… | cvm-col-20100921-d13 | fichas/colegiado/2010-19.md |
+| decisao-colegiado | RJ2010/4062 | 2010-09-21 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SIN que indeferiu credenciamento de administrador de carteiras por falta de… | cvm-col-20100921-d12 | fichas/colegiado/2010-19.md |
+| termo-compromisso | RJ2010/9547 | 2010-08-24 | aceito | O Colegiado, por maioria, acompanhando o parecer do Comitê, aceitou cinco propostas de termo de compromisso de R$ 50.000,00 cada (R$… | cvm-col-20100824-d02 | fichas/tc/2010-04.md |
+| acordao-crsfn | RJ-2008-10181 | 2010-08-18 | condenacao | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Exercício da atividade de administrador de carteiras de valores mobiliários sem… | crsfn-12508 | fichas/crsfn/2010-08.md |
+| decisao-colegiado | RJ2010/8982 | 2010-08-10 | deferido | O Colegiado deferiu o pedido da 3F Administração de Recursos para indicar segundo diretor responsável pela administração de carteiras, após… | cvm-col-20100810-d10 | fichas/colegiado/2010-17.md |
+| acordao-crsfn | IA-2003-3 | 2010-07-28 | condenacao | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Clube de Investimento - Realização de operações vedadas, consistentes em vendas… | crsfn-11419 | fichas/crsfn/2010-07.md |
+| pas | RJ2009/9443 | 2010-07-13 | condenacao | [pessoa física] Não observância aos limites de concentração da carteira do fundo por emissor e por modalidade do ativo – Não observância… | cvm-pas-rj2009-9443 | fichas/pas/2010-04.md |
+| decisao-colegiado | RJ1991/1313 | 2010-06-22 | deferido | O Colegiado deferiu o pedido do banco para indicar um segundo diretor responsável pela administração de carteiras, nos termos do § 7º do… | cvm-col-20100622-d05 | fichas/colegiado/2010-14.md |
+| acordao-crsfn | RJ-2008-10874 | 2010-06-08 | condenacao | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Prestação de serviços de administração de carteira sem registro na autoridade… | crsfn-12625 | fichas/crsfn/2010-06.md |
+| decisao-colegiado | RJ2009/12425 | 2010-05-25 | nao-provido | O Colegiado negou provimento a recurso contra indeferimento de credenciamento como administrador de carteira, por falta de reputação… | cvm-col-20100525-d01 | fichas/colegiado/2010-13.md |
+| acordao-crsfn | RJ-2006-4778 | 2010-04-29 | condenacao | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários - Atuação como administrador de carteira sem registro na autoridade supervisora… | crsfn-11213 | fichas/crsfn/2010-03.md |
+| decisao-colegiado | RJ2009/9892 | 2010-04-20 | nao-provido | O Colegiado negou provimento a recurso contra indeferimento pela SIN de credenciamento como administrador de carteira, por falta de… | cvm-col-20100420-d10 | fichas/colegiado/2010-11.md |
+| decisao-colegiado | RJ2010/0275 | 2010-04-13 | provido | O Colegiado, por maioria, deferiu recurso contra decisão da SIN que indeferiu credenciamento de administrador de carteira por não… | cvm-col-20100413-d01 | fichas/colegiado/2010-11.md |
+| decisao-colegiado | RJ2010/0275 | 2010-04-07 | — | Recurso contra decisão da SIN que indeferiu o credenciamento como administrador de carteira de valores mobiliários, por não atendimento aos… | cvm-col-20100407-d01 | fichas/colegiado/2010-10.md |
+| decisao-colegiado | RJ2010/0111 | 2010-03-23 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SIN que indeferiu pedido de credenciamento como administrador de carteira por não… | cvm-col-20100323-d03 | fichas/colegiado/2010-09.md |
+| decisao-colegiado | RJ2010/0275 | 2010-03-23 | — | Recurso contra decisão da SIN que indeferiu credenciamento como administrador de carteira por falta da experiência exigida no art. 4º, II… | cvm-col-20100323-d02 | fichas/colegiado/2010-09.md |
+| pas | RJ2009/3823 | 2009-12-15 | condenacao | Administração de Bens e Valores Ltda. Exercício da atividade de administração de carteira de valores mobiliários sem a prévia autorização… | cvm-pas-rj2009-3823 | fichas/pas/2009-11.md |
+| decisao-colegiado | RJ2009/4594 | 2009-12-01 | nao-provido | O Colegiado negou provimento a recurso de pessoa física contra decisão da SIN que indeferiu seu credenciamento como administrador de… | cvm-col-20091201-d17 | fichas/colegiado/2009-22.md |
+| decisao-colegiado | RJ2009/4403 | 2009-10-20 | nao-provido | Por maioria, o Colegiado negou recurso contra indeferimento de credenciamento de administrador de carteira por falta de cinco anos de… | cvm-col-20091020-d04 | fichas/colegiado/2009-18.md |
+| decisao-colegiado | RJ2009/3052 | 2009-10-20 | nao-provido | O Colegiado negou o recurso contra o indeferimento, pela SIN, do credenciamento como administrador de carteira por falta de experiência… | cvm-col-20091020-d03 | fichas/colegiado/2009-18.md |
+| decisao-colegiado | RJ2009/1448 | 2009-10-20 | nao-provido | O Colegiado negou provimento ao recurso contra o indeferimento pela SIN do pedido de credenciamento como administrador de carteira de… | cvm-col-20091020-d02 | fichas/colegiado/2009-18.md |
+| decisao-colegiado | RJ2008/12808 | 2009-09-22 | nao-provido | O Colegiado negou provimento a pedido de reconsideração de decisão que manteve o indeferimento do credenciamento como administrador de… | cvm-col-20090922-d04 | fichas/colegiado/2009-16.md |
+| decisao-colegiado | RJ2008/8282 | 2009-07-14 | nao-provido | O Colegiado negou provimento a pedido de reconsideração da decisão que manteve o indeferimento, pela SIN, do credenciamento como… | cvm-col-20090714-d05 | fichas/colegiado/2009-13.md |
+| decisao-colegiado | RJ2008/12808 | 2009-06-16 | nao-provido | O Colegiado negou provimento a recurso contra indeferimento de credenciamento como administrador de carteira, mantendo a decisão da SIN por… | cvm-col-20090616-d01 | fichas/colegiado/2009-11.md |
+| decisao-colegiado | RJ2008/8282 | 2009-03-31 | nao-provido | O Colegiado negou provimento a recurso do recorrente contra indeferimento de credenciamento como administrador de carteira pela SIN, por… | cvm-col-20090331-d07 | fichas/colegiado/2009-05.md |
+| decisao-colegiado | RJ2008/4543 | 2009-03-03 | nao-provido | O Colegiado negou provimento a recurso contra indeferimento de credenciamento como administradora de carteira, por falta de experiência do… | cvm-col-20090303-d09 | fichas/colegiado/2009-03.md |
+| termo-compromisso | 21/2006 | 2009-02-10 | aceito | O Colegiado aceitou proposta conjunta de Termo de Compromisso da BMC Asset Management DTVM Ltda. e de dois diretores, de pagar R$… | cvm-col-20090210-d02 | fichas/tc/2009-01.md |
+| decisao-colegiado | RJ2008/6789 | 2009-02-03 | nao-provido | O Colegiado negou recurso contra indeferimento de credenciamento de administrador de carteira pela SIN, por falta de experiência mínima… | cvm-col-20090203-d03 | fichas/colegiado/2009-01.md |
+| decisao-colegiado | RJ2007/11399 | 2008-12-16 | nao-provido | O Colegiado, por maioria, negou recurso contra indeferimento da SIN ao credenciamento de administrador de carteira por falta de reputação… | cvm-col-20081216-d01 | fichas/colegiado/2008-27.md |
+| decisao-colegiado | RJ2008/3373 | 2008-11-25 | nao-provido | O Colegiado negou provimento ao recurso do recorrente contra o indeferimento, pela SIN, do credenciamento como administrador de carteira… | cvm-col-20081125-d14 | fichas/colegiado/2008-26.md |
+| decisao-colegiado | RJ2007/7463 | 2008-11-18 | nao-provido | O Colegiado negou o recurso contra o indeferimento, pela SIN, do credenciamento como administrador de carteira de valores mobiliários, por… | cvm-col-20081118-d06 | fichas/colegiado/2008-25.md |
+| decisao-colegiado | RJ2008/5390 | 2008-11-11 | nao-provido | O Colegiado negou provimento ao recurso de pessoa física contra o indeferimento, pela SIN, de credenciamento como administrador de carteira… | cvm-col-20081111-d11 | fichas/colegiado/2008-25.md |
+| acordao-crsfn | RJ-2003-4367 | 2008-10-28 | parcial | RECURSOS VOLUNTÁRIO E DE OFÍCIO – Mercado de valores mobiliários – Administração de carteira – Pedido de resgate não atendido – Apropriação… | crsfn-9984 | fichas/crsfn/2008-06.md |
+| termo-compromisso | 13/2005 | 2008-10-21 | aceito | O Colegiado aceitou proposta de termo de compromisso da Pavarini e Ópice Gestão de Ativos Ltda. e de seu diretor, de R$ 330.000,00, por… | cvm-col-20081021-d01 | fichas/tc/2008-07.md |
+| termo-compromisso | RJ2007/4697 | 2008-10-07 | rejeitado | Por unanimidade, o Colegiado rejeitou proposta de Termo de Compromisso da Majorem Engenharia Financeira Ltda. e de seu sócio, acusados de… | cvm-col-20081007-d02 | fichas/tc/2008-07.md |
+| decisao-colegiado | RJ2008/4641 | 2008-09-30 | nao-provido | O Colegiado negou provimento a recurso contra o indeferimento pela SIN do credenciamento como administrador de carteira, por falta de… | cvm-col-20080930-d01 | fichas/colegiado/2008-21.md |
+| pas | SP2007/0114 | 2008-09-23 | parcial | [pessoa física], Silva Braga Participações e outros Atuação irregular da atividade de administração de carteira de valores mobiliários… | cvm-pas-sp2007-0114 | fichas/pas/2008-06.md |
+| decisao-colegiado | RJ2008/5395 | 2008-09-23 | nao-provido | O Colegiado negou provimento ao recurso da recorrente contra o indeferimento, pela SIN, de credenciamento como administradora de carteiras… | cvm-col-20080923-d07 | fichas/colegiado/2008-21.md |
+| decisao-colegiado | RJ2007/13492 | 2008-09-09 | nao-provido | O Colegiado negou recurso contra indeferimento de credenciamento como administrador de carteira, por falta de comprovação da experiência do… | cvm-col-20080909-d06 | fichas/colegiado/2008-20.md |
+| decisao-colegiado | RJ2008/0296; RJ2008/1839; RJ2008/4324 | 2008-08-19 | outro | Em consulta da SIN sobre credenciamento de consultores de valores mobiliários, o Colegiado acompanhou o voto do relator, que sugeriu… | cvm-col-20080819-d06 | fichas/colegiado/2008-19.md |
+| decisao-colegiado | RJ2008/3917 | 2008-08-05 | nao-provido | O Colegiado negou provimento a recurso contra indeferimento de credenciamento de administrador de carteira por falta de experiência de sete… | cvm-col-20080805-d02 | fichas/colegiado/2008-17.md |
+| termo-compromisso | 13/2005 | 2008-07-22 | outro | O Colegiado deferiu o recebimento de proposta conjunta de termo de compromisso apresentada intempestivamente pelos acusados no PAS 13/2005… | cvm-col-20080722-d30 | fichas/tc/2008-05.md |
+| decisao-colegiado | RJ2007/11399 | 2008-07-03 | outro | Em consulta da SIN, o Colegiado, acompanhando o voto do relator, respondeu que a área técnica pode indeferir credenciamento de… | cvm-col-20080703-d03 | fichas/colegiado/2008-14.md |
+| decisao-colegiado | RJ2008/0250 | 2008-06-24 | provido | O Colegiado deu provimento ao recurso contra o indeferimento de credenciamento como administrador de carteira, com base no notório saber e… | cvm-col-20080624-d03 | fichas/colegiado/2008-14.md |
+| decisao-colegiado | RJ2008/2079 | 2008-06-17 | nao-provido | O Colegiado negou provimento ao recurso e manteve o indeferimento do credenciamento como administrador de carteira, acompanhando a SIN… | cvm-col-20080617-d04 | fichas/colegiado/2008-13.md |
+| decisao-colegiado | RJ2007/15010 | 2008-06-10 | nao-provido | O Colegiado, acompanhando a área técnica, manteve o indeferimento do credenciamento como administrador de carteira e negou o recurso… | cvm-col-20080610-d06 | fichas/colegiado/2008-13.md |
+| decisao-colegiado | RJ2007/13905 | 2008-06-10 | nao-provido | O Colegiado negou o recurso contra o indeferimento, pela SIN, do credenciamento de administrador de carteira por falta de experiência… | cvm-col-20080610-d05 | fichas/colegiado/2008-13.md |
+| decisao-colegiado | RJ2008/2350 | 2008-05-20 | nao-provido | O Colegiado negou provimento a recurso contra o indeferimento de credenciamento de administrador de carteira por falta de experiência… | cvm-col-20080520-d07 | fichas/colegiado/2008-11.md |
+| decisao-colegiado | RJ2008/0861 | 2008-05-20 | nao-provido | O Colegiado, por maioria, negou provimento ao recurso e manteve a decisão da SIN que indeferiu credenciamento como administrador de… | cvm-col-20080520-d06 | fichas/colegiado/2008-11.md |
+| decisao-colegiado | RJ2007/11908 | 2008-04-08 | nao-provido | O Colegiado manteve o indeferimento de credenciamento como administrador de carteira (art. 4º, II, da Instrução 306/99). Acompanhou a área… | cvm-col-20080408-d05 | fichas/colegiado/2008-09.md |
+| termo-compromisso | RJ2007/12581 | 2008-03-18 | aceito | O Colegiado, por maioria, considerou irregular a cessão gratuita de direitos de preferência a investidor não residente, por desrespeito à… | cvm-col-20080318-d03 | fichas/tc/2008-02.md |
+| decisao-colegiado | RJ2008/0204 | 2008-03-04 | nao-provido | O Colegiado, por maioria, negou provimento a recurso contra decisão da SIN que considerou incompatível a gestão pessoal de fundo com a… | cvm-col-20080304-d11 | fichas/colegiado/2008-06.md |
+| decisao-colegiado | RJ2007/13934 | 2008-02-19 | nao-provido | O Colegiado negou provimento a recurso contra o indeferimento, pela SIN, do credenciamento como administrador de carteiras, com base no… | cvm-col-20080219-d38 | fichas/colegiado/2008-04.md |
+| decisao-colegiado | RJ2007/11850 | 2007-12-04 | nao-provido | O Colegiado manteve o indeferimento do credenciamento como administrador de carteiras, em recurso, por falta de comprovação de cinco anos… | cvm-col-20071204-d17 | fichas/colegiado/2007-24.md |
+| decisao-colegiado | RJ2006/9223 | 2007-12-04 | nao-provido | Com base nos fundamentos do despacho da área técnica, o Colegiado indeferiu recurso contra indeferimento de credenciamento como… | cvm-col-20071204-d16 | fichas/colegiado/2007-24.md |
+| decisao-colegiado | RJ2007/9189 | 2007-11-13 | nao-provido | O Colegiado indeferiu recurso contra o indeferimento de credenciamento como administrador de carteiras, por atuação financeira em empresas… | cvm-col-20071113-d25 | fichas/colegiado/2007-23.md |
+| decisao-colegiado | RJ2007/0236 | 2007-11-13 | nao-provido | Com base no relatório da SIN, o Colegiado indeferiu recurso contra indeferimento de credenciamento como administrador de carteiras. Não… | cvm-col-20071113-d24 | fichas/colegiado/2007-23.md |
+| decisao-colegiado | RJ2007/8075 | 2007-10-30 | provido | O Colegiado, por maioria, deu provimento a recurso contra indeferimento da SIN e concedeu credenciamento para administração de carteiras de… | cvm-col-20071030-d19 | fichas/colegiado/2007-21.md |
+| decisao-colegiado | RJ2007/7551 | 2007-10-30 | deferido | O Colegiado concedeu credenciamento como administrador de carteiras de valores mobiliários ao requerente, com base em experiência de… | cvm-col-20071030-d18 | fichas/colegiado/2007-21.md |
+| decisao-colegiado | RJ2007/8929 | 2007-10-30 | deferido | O Colegiado concedeu credenciamento como administrador de carteiras de valores mobiliários, por maioria, por analogia ao precedente… | cvm-col-20071030-d17 | fichas/colegiado/2007-21.md |
+| termo-compromisso | RJ2007/1118 | 2007-10-30 | rejeitado | Apreciação de proposta de termo de compromisso. | cvm-col-20071030-d04 | fichas/tc/2007-06.md |
+| decisao-colegiado | RJ2005/6541 | 2007-10-09 | nao-provido | O Colegiado, por maioria, negou provimento ao recurso contra exigência da SIN de designar no contrato social o diretor responsável pela… | cvm-col-20071009-d01 | fichas/colegiado/2007-18.md |
+| decisao-colegiado | RJ2007/4747 | 2007-10-02 | provido | O Colegiado deu provimento ao recurso da recorrente contra o indeferimento, pela SIN, do credenciamento como consultora de valores… | cvm-col-20071002-d08 | fichas/colegiado/2007-18.md |
+| decisao-colegiado | RJ2007/3061 | 2007-09-18 | outro | O Colegiado acompanhou o voto do relator para que a SIN considere, no credenciamento de pessoa natural como administrador de carteira, o… | cvm-col-20070918-d08 | fichas/colegiado/2007-17.md |
+| decisao-colegiado | RJ2007/3406 | 2007-09-18 | nao-provido | O Colegiado negou provimento a recurso contra o indeferimento, pela SIN, de registro de administrador de carteira de valores mobiliários… | cvm-col-20070918-d07 | fichas/colegiado/2007-17.md |
+| termo-compromisso | RJ2006/6159 | 2007-09-18 | aceito | O Colegiado aceitou proposta de termo de compromisso do Banco ABN Amro Real S.A. e de seu diretor, em PAS por aplicar recursos de… | cvm-col-20070918-d04 | fichas/tc/2007-05.md |
+| decisao-colegiado | RJ2007/4480 | 2007-08-21 | nao-provido | O Colegiado indeferiu recurso contra decisão da SIN que negou credenciamento para administração de carteira de valores mobiliários, por não… | cvm-col-20070821-d11 | fichas/colegiado/2007-15.md |
+| decisao-colegiado | RJ2007/2592 | 2007-07-10 | nao-provido | O Colegiado negou provimento a recurso de pessoa física contra decisão da SIN que indeferiu seu registro como administrador de carteiras… | cvm-col-20070710-d20 | fichas/colegiado/2007-12.md |
+| decisao-colegiado | RJ1999/3663 | 2007-07-10 | outro | O Colegiado compatibilizou decisões anteriores sobre administrador de carteira e consultor de valores mobiliários. (i) Ter registro de… | cvm-col-20070710-d19 | fichas/colegiado/2007-12.md |
+| decisao-colegiado | RJ2006/9864 | 2007-07-10 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SIN que indeferiu registro de administrador de carteiras por falta de experiência… | cvm-col-20070710-d18 | fichas/colegiado/2007-12.md |
+| pas | RJ2006/7655 | 2007-07-04 | condenacao | Qualquer alteração cadastral relativa ao administrador de carteira de valores mobiliários dever ser comunicada à CVM, no prazo de quinze… | cvm-pas-rj2006-7655 | fichas/pas/2007-09.md |
+| decisao-colegiado | RJ2006/6192 | 2007-06-28 | nao-provido | O Colegiado negou provimento a recurso contra indeferimento pela SIN do credenciamento para administração de carteira de valores… | cvm-col-20070628-d14 | fichas/colegiado/2007-11.md |
+| decisao-colegiado | RJ2006/8624 | 2007-06-12 | nao-provido | O Colegiado negou provimento ao recurso contra decisão da SIN que indeferiu credenciamento como administrador de carteira de valores… | cvm-col-20070612-d06 | fichas/colegiado/2007-09.md |
+| pas | RJ2005/8510 | 2007-04-04 | parcial | É vedado ao administrador de carteira negligenciar, em qualquer circunstância, a defesa dos direitos e interesses do titular da carteira… | cvm-pas-rj2005-8510 | fichas/pas/2007-04.md |
+| decisao-colegiado | RJ2006/8820 | 2007-01-30 | provido | O Colegiado deu provimento a recurso contra decisão da SIN que determinou cancelar registro de administrador de carteira ou de agente… | cvm-col-20070130-d09 | fichas/colegiado/2007-02.md |
+| termo-compromisso | 29/2003 | 2007-01-16 | aceito | O Colegiado aceitou nova proposta de termo de compromisso no PAS 29/2003, apresentada por duas sociedades, dois fundos estrangeiros e cinco… | cvm-col-20070116-d01 | fichas/tc/2007-01.md |
+| decisao-colegiado | RJ2006/8187 | 2006-12-05 | provido | O Colegiado deu provimento a recurso contra indeferimento pela SIN de credenciamento para administração de carteira de valores mobiliários… | cvm-col-20061205-d17 | fichas/colegiado/2006-19.md |
+| decisao-colegiado | RJ2006/7530 | 2006-12-05 | nao-provido | O Colegiado negou provimento ao recurso e manteve o indeferimento, pela SIN, do credenciamento do recorrente para administração de carteira… | cvm-col-20061205-d16 | fichas/colegiado/2006-19.md |
+| decisao-colegiado | RJ2006/1101 | 2006-12-05 | nao-provido | O Colegiado negou provimento a recurso e manteve a decisão da SIN que indeferiu credenciamento como administrador de carteira. Fundamento… | cvm-col-20061205-d14 | fichas/colegiado/2006-18.md |
+| pas | 03/2003 | 2006-11-28 | condenacao | ASSESSORIA, CONSULTORIA E REALIZAÇÕES LTDA.; [pessoa física]; [pessoa física]; [pessoa física]; E [pessoa física] - Não atendimento dos… | cvm-pas-03-2003 | fichas/pas/2006-25.md |
+| decisao-colegiado | RJ2006/7533 | 2006-10-31 | outro | O Colegiado decidiu não cancelar o credenciamento do Banco Safra S.A. como administrador de carteira, divergindo da SIN, que propôs o… | cvm-col-20061031-d07 | fichas/colegiado/2006-16.md |
+| termo-compromisso | RJ2005/9000 | 2006-10-31 | rejeitado | O Colegiado rejeitou nova proposta de termo de compromisso do Banco Itaú S.A. e de um diretor, de R$ 60.000,00, acusados de administração… | cvm-col-20061031-d04 | fichas/tc/2006-05.md |
+| pas | RJ2006/4778 | 2006-10-17 | condenacao | A administração de carteira de valores mobiliários consiste na gestão profissional de recursos ou valores mobiliários sujeitos à… | cvm-pas-rj2006-4778 | fichas/pas/2006-21.md |
+| decisao-colegiado | RJ2006/2894 | 2006-08-29 | nao-provido | O Colegiado negou provimento a recurso da Fundação Albino Souza Cruz contra decisão da SIN que indeferiu registro de administrador de… | cvm-col-20060829-d07 | fichas/colegiado/2006-14.md |
+| decisao-colegiado | RJ2006/4540 | 2006-08-15 | nao-provido | O Colegiado negou provimento ao recurso contra decisão da SIN que impedia a manutenção simultânea de registro de diretor responsável pela… | cvm-col-20060815-d10 | fichas/colegiado/2006-13.md |
+| termo-compromisso | RJ2005/9000 | 2006-08-01 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso do Banco Itaú S.A. e de um diretor, de R$ 20.000,00 a favor do mercado, no caso de… | cvm-col-20060801-d07 | fichas/tc/2006-03.md |
+| decisao-colegiado | RJ2006/1516 | 2006-07-04 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SIN que indeferiu credenciamento de administrador de carteira por falta de… | cvm-col-20060704-d05 | fichas/colegiado/2006-10.md |
+| decisao-colegiado | RJ2006/0559 | 2006-05-18 | nao-provido | O Colegiado negou provimento a recurso e manteve o indeferimento, pela SIN, de credenciamento para administração de carteira de valores… | cvm-col-20060518-d06 | fichas/colegiado/2006-07.md |
+| pas | RJ2003/4367 | 2006-05-03 | parcial | A pessoa natural, ou jurídica, responsável pela administração da carteira de valores mobiliários, deve (i) desempenhar suas atribuições de… | cvm-pas-rj2003-4367 | fichas/pas/2006-07.md |
+| decisao-colegiado | RJ2005/5887 | 2006-04-04 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SIN que indeferiu credenciamento para administração de carteira, por falta de… | cvm-col-20060404-d09 | fichas/colegiado/2006-06.md |
+| pas | SP2003/0205 | 2006-03-29 | condenacao | A administração profissional de carteira de valores mobiliários só pode ser exercida por pessoa natural, ou jurídica, autorizada pela CVM… | cvm-pas-sp2003-0205 | fichas/pas/2006-05.md |
+| decisao-colegiado | RJ2004/5086 | 2006-01-10 | nao-provido | O Colegiado negou provimento a recurso contra a SIN que indeferiu credenciamento de pessoa jurídica como administrador de carteira, por… | cvm-col-20060110-d05 | fichas/colegiado/2006-01.md |
+| decisao-colegiado | RJ2005/6535 | 2006-01-03 | nao-provido | O Colegiado negou provimento a recurso da recorrente contra decisão da SIN que negou credenciamento de administrador de carteira, por falta… | cvm-col-20060103-d07 | fichas/colegiado/2006-01.md |
+| decisao-colegiado | RJ2005/3726 | 2005-12-27 | nao-provido | O Colegiado negou provimento a recurso de pessoa física contra decisão da SIN que indeferiu credenciamento como administrador de carteira… | cvm-col-20051227-d10 | fichas/colegiado/2005-21.md |
+| decisao-colegiado | RJ2005/6749 | 2005-12-27 | nao-provido | O Colegiado negou provimento ao recurso do recorrente, pessoa física, contra indeferimento de credenciamento para administração de carteira… | cvm-col-20051227-d09 | fichas/colegiado/2005-21.md |
+| decisao-colegiado | RJ2005/5289 | 2005-12-20 | outro | O Colegiado, acompanhando o relator, decidiu que a advertência em processo administrativo não pode, por si só, fundamentar o indeferimento… | cvm-col-20051220-d05 | fichas/colegiado/2005-20.md |
+| decisao-colegiado | RJ2004/2776 | 2005-10-25 | parcial | O Colegiado deu provimento parcial a recurso da Focus Assessoria de Investimento S.A. sobre o diretor de administração de carteiras que… | cvm-col-20051025-d05 | fichas/colegiado/2005-15.md |
+| decisao-colegiado | RJ2004/2777 | 2005-10-11 | parcial | O Colegiado deu provimento parcial a recurso contra decisão da SIN sobre o responsável pela administração de carteiras de corretora que era… | cvm-col-20051011-d06 | fichas/colegiado/2005-15.md |
+| decisao-colegiado | RJ2004/7389 | 2005-10-04 | nao-provido | O Colegiado negou provimento a recurso contra indeferimento pela SIN de credenciamento como administrador de carteira, por falta de… | cvm-col-20051004-d05 | fichas/colegiado/2005-14.md |
+| decisao-colegiado | RJ2004/5634 | 2005-09-30 | parcial | O Colegiado deu provimento parcial a recurso contra decisão da SIN sobre incompatibilidade entre agente autônomo e diretor responsável por… | cvm-col-20050930-d05 | fichas/colegiado/2005-14.md |
+| decisao-colegiado | RJ2004/2775 | 2005-08-23 | nao-provido | O Colegiado negou provimento ao recurso da HRD Administração de Recursos Ltda. contra entendimento da SIN que exigiu a substituição do… | cvm-col-20050823-d08 | fichas/colegiado/2005-12.md |
+| decisao-colegiado | RJ2005/0609 | 2005-05-31 | nao-provido | O Colegiado negou provimento ao recurso contra decisão da SIN que indeferiu credenciamento de administrador de carteira, por não comprovada… | cvm-col-20050531-d04 | fichas/colegiado/2005-09.md |
+| decisao-colegiado | RJ2002/4677 | 2005-05-24 | provido | O Colegiado, por maioria, deu provimento a recurso de pessoa física contra a SIN, que cancelou de ofício sua autorização para administrar… | cvm-col-20050524-d02 | fichas/colegiado/2005-08.md |
+| decisao-colegiado | RJ2001/0134 | 2005-05-24 | provido | O Colegiado, por maioria, deu provimento ao recurso contra decisão da SIN que cancelou de ofício a autorização de administrador de… | cvm-col-20050524-d01 | fichas/colegiado/2005-08.md |
+| termo-compromisso | RJ2003/4367 | 2005-05-03 | aceito | O Colegiado ratificou, sem alterações, o Termo de Compromisso celebrado com a Confidelity Asset Management Ltda. e o indiciado pessoa… | cvm-col-20050503-d01 | fichas/tc/2005-01.md |
+| decisao-colegiado | RJ2002/7934 | 2005-04-19 | nao-provido | O Colegiado acompanhou o voto do relator, negou provimento ao recurso e manteve a decisão da SIN que indeferiu o credenciamento de… | cvm-col-20050419-d01 | fichas/colegiado/2005-07.md |
+| decisao-colegiado | RJ2004/3479 | 2005-03-22 | nao-provido | O Colegiado negou provimento a recurso contra o indeferimento, pela SIN, do credenciamento para administração de carteira, por não… | cvm-col-20050322-d07 | fichas/colegiado/2005-05.md |
+| decisao-colegiado | RJ2005/0131 | 2005-03-08 | nao-provido | O Colegiado negou provimento a recurso contra o indeferimento, pela SIN, do credenciamento de consultor de valores mobiliários, por falta… | cvm-col-20050308-d04 | fichas/colegiado/2005-04.md |
+| decisao-colegiado | RJ2004/7164 | 2005-03-01 | nao-provido | O Colegiado julgou improcedente recurso contra indeferimento pela SIN de credenciamento de pessoa física para administrar carteira de… | cvm-col-20050301-d09 | fichas/colegiado/2005-04.md |
+| decisao-colegiado | RJ2002/2555 | 2005-02-22 | outro | Proposta de arquivamento de processo de rito sumário. Proc. RJ2002/2555. | cvm-col-20050222-d02 | fichas/colegiado/2005-03.md |
+| decisao-colegiado | RJ2004/6314; RJ2004/3327 | 2005-01-11 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SIN que indeferiu credenciamento de administrador de carteiras por experiência… | cvm-col-20050111-d07 | fichas/colegiado/2005-01.md |
+| decisao-colegiado | RJ2004/3787 | 2004-08-24 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SIN que indeferiu o credenciamento de pessoa física para exercer administração de… | cvm-col-20040824-d06 | fichas/colegiado/2004-10.md |
+| termo-compromisso | 18/01 | 2004-07-02 | rejeitado | O Colegiado, acompanhando o voto do diretor relator, indeferiu as duas propostas de Termo de Compromisso no PAS nº 18/01, visando à… | cvm-col-20040702-d04 | fichas/tc/2004-01.md |
+| decisao-colegiado | RJ2002/7393 | 2004-06-15 | nao-provido | O Colegiado negou provimento ao recurso contra decisão da SIN que indeferiu credenciamento para o exercício da atividade de administrador… | cvm-col-20040615-d09 | fichas/colegiado/2004-07.md |
+| acordao-crsfn | RJ2001/04355 | 2004-04-28 | absolvicao | RECURSO DE OFÍCIO - Mercado de valores mobiliários - Fundo de investimento - Administração de carteira sem devida autorização do órgão… | crsfn-4877 | fichas/crsfn/2004-01.md |
+| decisao-colegiado | RJ2003/0403 | 2004-04-16 | outro | O Colegiado acompanhou o voto do relator, que devolveu à SIN, para novo exame, recurso de PREVI e PETROS sobre denúncias contra o Banco… | cvm-col-20040416-d03 | fichas/colegiado/2004-04.md |
+| pas | RJ2002/7539 | 2004-02-12 | parcial | a) Exercício da atividade de administração de carteira de valores mobiliários sem autorização da CVM. Infração ao artigo 2º da Instrução… | cvm-pas-rj2002-7539 | fichas/pas/2004-01.md |
+| decisao-colegiado | RJ2003/7453 | 2004-01-21 | provido | O Colegiado deu provimento a recurso contra decisão da SIN que indeferiu credenciamento para administração de carteira de valores… | cvm-col-20040121-d07 | fichas/colegiado/2004-01.md |
+| acordao-crsfn | 18/99 | 2003-10-29 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários - Fundos de investimento - Administração de carteira de títulos e valores… | crsfn-4131 | fichas/crsfn/2003-04.md |
+| pas | SP2001/0307 | 2003-06-12 | condenacao | Transferência indevida de ações e fornecimento de informação de carteira fictícia a investidor. Prática de operação fraudulenta, em… | cvm-pas-sp2001-0307 | fichas/pas/2003-04.md |
+| pas | RJ2001/4355 | 2003-04-10 | absolvicao | Improcedência da acusação de descumprimento da alínea "b" , do inciso III, e inciso IV, do artigo 10, da Instrução CVM nº 82/88, bem como… | cvm-pas-rj2001-4355 | fichas/pas/2003-03.md |
+| decisao-colegiado | RJ2002/3005 | 2002-11-12 | nao-provido | O Colegiado negou provimento ao recurso contra decisão da SIN que negou autorização para o exercício da atividade de administrador de… | cvm-col-20021112-d05 | fichas/colegiado/2002-25.md |
+| decisao-colegiado | RJ2001/0134 | 2002-08-30 | provido | O Colegiado deu provimento ao recurso contra decisão da SIN que cancelou autorização de administrador de carteira por falta de reputação… | cvm-col-20020830-d05 | fichas/colegiado/2002-21.md |
+| decisao-colegiado | RJ2001/11857 | 2002-07-23 | nao-provido | O Colegiado negou provimento a recurso contra indeferimento pela SIN de credenciamento como administrador de carteira (Instrução CVM… | cvm-col-20020723-d06 | fichas/colegiado/2002-18.md |
+| decisao-colegiado | RJ2001/4355 | 2002-01-29 | outro | O Colegiado acompanhou o relator e aprovou, com retificações, o Termo de Acusação da SFI contra o Banco Vega S.A. em liquidação e um… | cvm-col-20020129-d2144 | fichas/colegiado/2002-02.md |
+| acordao-crsfn | RJ98/1348 | 2001-04-27 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falhas na administração da carteira de investidor estrangeiro – Irregularidades não… | crsfn-3174 | fichas/crsfn/2001-02.md |
+| acordao-crsfn | 99/0847 | 2000-05-30 | absolvicao | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Falta de indicação de diretor responsável pela carteira de valores mobiliária… | crsfn-2989 | fichas/crsfn/2000-02.md |
+| acordao-crsfn | 97/1157 | 1999-12-27 | absolvicao | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Fundo de investimento – Realização de operações em bolsa de valores – Atuação como… | crsfn-2878 | fichas/crsfn/1999-04.md |
+| acordao-crsfn | 96/4258 | 1999-06-22 | absolvicao | [pessoa física] – Mercados de valores mobiliários – Atuação com contraparte em operações com as carteiras administradas – Irregularidade… | crsfn-2623 | fichas/crsfn/1999-01.md |
+| acordao-crsfn | 95/4251 | 1999-06-22 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Aquisição de debêntures com taxa de remuneração – Aquisição vedada a carteiras do… | crsfn-2619 | fichas/crsfn/1999-01.md |
+| acordao-crsfn | 96/1829 | 1998-10-29 | absolvicao | RECURSO DE OFÍCIO. Mercado de Valores Mobiliários - Atuação como contraparte na aquisição de ações sem anuência do titular da carteira… | crsfn-2536 | fichas/crsfn/1998-03.md |
+| acordao-crsfn | 95/4692 | 1998-07-30 | absolvicao | RECURSO DE OFÍCIO. Mercado de Valores Mobiliários - Realização de operações no mercado tendo como contraparte o administrador da carteira… | crsfn-2508 | fichas/crsfn/1998-02.md |
+| acordao-crsfn | 95/4673 | 1998-07-30 | arquivamento | RECURSOS VOLUNTÁRIOS. Mercado de Valores Mobiliários - Atuação do administrador de fundo de investimento como contraparte sem autorização… | crsfn-2480 | fichas/crsfn/1998-02.md |
+| acordao-crsfn | 95/2171 | 1998-06-25 | parcial | RECURSOS VOLUNTARIOS. Mercado de Valores Mobiliários - Operações de "box", tendo a instituição financeira atuado contraparte do fundo que… | crsfn-2287 | fichas/crsfn/1998-02.md |
+| acordao-crsfn | 95/1449 | 1998-01-28 | condenacao | RECURSOS VOLUNTÁRIOS. Mercado de valores mobiliários - Realização de operações conjugadas em bolsa (compra e venda de ações), tendo o… | crsfn-2342 | fichas/crsfn/1998-01.md |
+| acordao-crsfn | 95/0778 | 1997-12-10 | absolvicao | RECURSO DE OFÍCIO - Mercado de Valores Mobiliários - Atuação indireta do administrador na contraparte de fundo de investimento, sem estar a… | crsfn-2283 | fichas/crsfn/1997-02.md |
+| acordao-crsfn | 01/94 | 1997-12-10 | parcial | RECURSOS VOLUNTÁRIO E DE OFÍCIO. Mercado de Valores Mobiliários - Atuação do administrador na contraparte de operações efetuadas nas… | crsfn-2271 | fichas/crsfn/1997-02.md |
 
 Fim do subíndice.

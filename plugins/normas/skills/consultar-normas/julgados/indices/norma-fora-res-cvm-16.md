@@ -11,15 +11,15 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 1º | pas | 19957.001300/2023-30 | 2025-08-12 | condenacao | cvm-pas-19957-001300-2023-30 | fichas/pas/2025-03.md |
+| art. 1º | pas | 19957.001300/2023-30 | 2025-08-12 | condenacao | cvm-pas-19957-001300-2023-30 | fichas/pas/2025-06.md |
 | art. 1º, § 1º | pas | 19957.009400/2019-28 | 2023-01-31 | condenacao | cvm-pas-19957-009400-2019-28 | fichas/pas/2023-01.md |
-| art. 1º, § 1º | pas | 19957.009288/2019-25 | 2024-03-19 | condenacao | cvm-pas-19957-009288-2019-25 | fichas/pas/2024-02.md |
+| art. 1º, § 1º | pas | 19957.009288/2019-25 | 2024-03-19 | condenacao | cvm-pas-19957-009288-2019-25 | fichas/pas/2024-03.md |
 
 ## art. 3º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 3º | pas | 19957.001300/2023-30 | 2025-08-12 | condenacao | cvm-pas-19957-001300-2023-30 | fichas/pas/2025-03.md |
+| art. 3º | pas | 19957.001300/2023-30 | 2025-08-12 | condenacao | cvm-pas-19957-001300-2023-30 | fichas/pas/2025-06.md |
 
 ## art. 8º
 
@@ -38,25 +38,25 @@ Norma: fora do acervo.
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 15 | decisao-colegiado | 19957.012626/2022-10 | 2024-02-06 | parcial | cvm-col-20240206-d2990 | fichas/colegiado/2024-02.md |
-| art. 15 | pas | 19957.000466/2023-39 | 2024-05-14 | condenacao | cvm-pas-19957-000466-2023-39 | fichas/pas/2024-03.md |
-| art. 15 | pas | 19957.005325/2024-93 | 2024-12-18 | condenacao | cvm-pas-19957-005325-2024-93 | fichas/pas/2024-12.md |
-| art. 15 | pas | 19957.009162/2023-37 | 2024-10-08 | parcial | cvm-pas-19957-009162-2023-37 | fichas/pas/2024-08.md |
-| art. 15 | pas | 19957.011331/2025-61 | 2026-07-28 | condenacao | cvm-pas-19957-011331-2025-61 | fichas/pas/2026-02.md |
+| art. 15 | pas | 19957.000466/2023-39 | 2024-05-14 | condenacao | cvm-pas-19957-000466-2023-39 | fichas/pas/2024-05.md |
+| art. 15 | pas | 19957.005325/2024-93 | 2024-12-18 | condenacao | cvm-pas-19957-005325-2024-93 | fichas/pas/2024-23.md |
+| art. 15 | pas | 19957.009162/2023-37 | 2024-10-08 | parcial | cvm-pas-19957-009162-2023-37 | fichas/pas/2024-16.md |
+| art. 15 | pas | 19957.011331/2025-61 | 2026-07-28 | condenacao | cvm-pas-19957-011331-2025-61 | fichas/pas/2026-03.md |
 
 ## art. 18
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 18 | pas | 19957.011331/2025-61 | 2026-07-28 | condenacao | cvm-pas-19957-011331-2025-61 | fichas/pas/2026-02.md |
-| art. 18, inciso II | pas | 19957.006473/2021-82 | 2023-08-15 | condenacao | cvm-pas-19957-006473-2021-82 | fichas/pas/2023-05.md |
-| art. 18, inciso II | pas | 19957.000466/2023-39 | 2024-05-14 | condenacao | cvm-pas-19957-000466-2023-39 | fichas/pas/2024-03.md |
-| art. 18, inciso II | pas | 19957.005325/2024-93 | 2024-12-18 | condenacao | cvm-pas-19957-005325-2024-93 | fichas/pas/2024-12.md |
+| art. 18 | pas | 19957.011331/2025-61 | 2026-07-28 | condenacao | cvm-pas-19957-011331-2025-61 | fichas/pas/2026-03.md |
+| art. 18, inciso II | pas | 19957.006473/2021-82 | 2023-08-15 | condenacao | cvm-pas-19957-006473-2021-82 | fichas/pas/2023-08.md |
+| art. 18, inciso II | pas | 19957.000466/2023-39 | 2024-05-14 | condenacao | cvm-pas-19957-000466-2023-39 | fichas/pas/2024-05.md |
+| art. 18, inciso II | pas | 19957.005325/2024-93 | 2024-12-18 | condenacao | cvm-pas-19957-005325-2024-93 | fichas/pas/2024-23.md |
 | art. 18, inciso IV | termo-compromisso | 19957.001954/2020-11 | 2025-05-20 | rejeitado | cvm-col-20250520-d3195 | fichas/tc/2025-02.md |
-| art. 18, inciso IV | pas | 19957.000198/2020-11; 21/2013 | 2022-03-29 | parcial | cvm-pas-19957-000198-2020-11 | fichas/pas/2022-02.md |
-| art. 18, inciso VII | pas | 19957.009162/2023-37 | 2024-10-08 | parcial | cvm-pas-19957-009162-2023-37 | fichas/pas/2024-08.md |
-| art. 18, inciso VII | pas | 19957.011331/2025-61 | 2026-07-28 | condenacao | cvm-pas-19957-011331-2025-61 | fichas/pas/2026-02.md |
-| art. 18, inciso VIII | pas | 19957.009162/2023-37 | 2024-10-08 | parcial | cvm-pas-19957-009162-2023-37 | fichas/pas/2024-08.md |
-| art. 18, inciso VIII | pas | 19957.011331/2025-61 | 2026-07-28 | condenacao | cvm-pas-19957-011331-2025-61 | fichas/pas/2026-02.md |
+| art. 18, inciso IV | pas | 19957.000198/2020-11; 21/2013 | 2022-03-29 | parcial | cvm-pas-19957-000198-2020-11 | fichas/pas/2022-03.md |
+| art. 18, inciso VII | pas | 19957.009162/2023-37 | 2024-10-08 | parcial | cvm-pas-19957-009162-2023-37 | fichas/pas/2024-16.md |
+| art. 18, inciso VII | pas | 19957.011331/2025-61 | 2026-07-28 | condenacao | cvm-pas-19957-011331-2025-61 | fichas/pas/2026-03.md |
+| art. 18, inciso VIII | pas | 19957.009162/2023-37 | 2024-10-08 | parcial | cvm-pas-19957-009162-2023-37 | fichas/pas/2024-16.md |
+| art. 18, inciso VIII | pas | 19957.011331/2025-61 | 2026-07-28 | condenacao | cvm-pas-19957-011331-2025-61 | fichas/pas/2026-03.md |
 
 ## art. 21
 
@@ -68,7 +68,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 22 | pas | 19957.000466/2023-39 | 2024-05-14 | condenacao | cvm-pas-19957-000466-2023-39 | fichas/pas/2024-03.md |
+| art. 22 | pas | 19957.000466/2023-39 | 2024-05-14 | condenacao | cvm-pas-19957-000466-2023-39 | fichas/pas/2024-05.md |
 | art. 22, inciso II | termo-compromisso | 19957.001954/2020-11 | 2025-05-20 | rejeitado | cvm-col-20250520-d3195 | fichas/tc/2025-02.md |
 | art. 22, inciso II | termo-compromisso | 19957.001449/2022-38 | 2026-07-21 | aceito | cvm-col-20260721-d3295 | fichas/tc/2026-02.md |
 
@@ -91,55 +91,55 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 28 | pas | 19957.007266/2022-26 | 2023-12-20 | condenacao | cvm-pas-19957-007266-2022-26 | fichas/pas/2023-09.md |
+| art. 28 | pas | 19957.007266/2022-26 | 2023-12-20 | condenacao | cvm-pas-19957-007266-2022-26 | fichas/pas/2023-17.md |
 | art. 28 | pas | 19957.009400/2019-28 | 2023-01-31 | condenacao | cvm-pas-19957-009400-2019-28 | fichas/pas/2023-01.md |
-| art. 28 | pas | 19957.011331/2025-61 | 2026-07-28 | condenacao | cvm-pas-19957-011331-2025-61 | fichas/pas/2026-02.md |
-| art. 28, inciso I | pas | 19957.000466/2023-39 | 2024-05-14 | condenacao | cvm-pas-19957-000466-2023-39 | fichas/pas/2024-03.md |
-| art. 28, inciso I | pas | 19957.009162/2023-37 | 2024-10-08 | parcial | cvm-pas-19957-009162-2023-37 | fichas/pas/2024-08.md |
-| art. 28, inciso I | pas | 19957.001300/2023-30 | 2025-08-12 | condenacao | cvm-pas-19957-001300-2023-30 | fichas/pas/2025-03.md |
-| art. 28, inciso III | pas | 19957.006473/2021-82 | 2023-08-15 | condenacao | cvm-pas-19957-006473-2021-82 | fichas/pas/2023-05.md |
-| art. 28, inciso III | pas | 19957.009162/2023-37 | 2024-10-08 | parcial | cvm-pas-19957-009162-2023-37 | fichas/pas/2024-08.md |
+| art. 28 | pas | 19957.011331/2025-61 | 2026-07-28 | condenacao | cvm-pas-19957-011331-2025-61 | fichas/pas/2026-03.md |
+| art. 28, inciso I | pas | 19957.000466/2023-39 | 2024-05-14 | condenacao | cvm-pas-19957-000466-2023-39 | fichas/pas/2024-05.md |
+| art. 28, inciso I | pas | 19957.009162/2023-37 | 2024-10-08 | parcial | cvm-pas-19957-009162-2023-37 | fichas/pas/2024-16.md |
+| art. 28, inciso I | pas | 19957.001300/2023-30 | 2025-08-12 | condenacao | cvm-pas-19957-001300-2023-30 | fichas/pas/2025-06.md |
+| art. 28, inciso III | pas | 19957.006473/2021-82 | 2023-08-15 | condenacao | cvm-pas-19957-006473-2021-82 | fichas/pas/2023-08.md |
+| art. 28, inciso III | pas | 19957.009162/2023-37 | 2024-10-08 | parcial | cvm-pas-19957-009162-2023-37 | fichas/pas/2024-16.md |
 
 ## art. 48
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 48, § 3º | pas | 19957.016074/2024-72 | 2025-10-21 | condenacao | cvm-pas-19957-016074-2024-72 | fichas/pas/2025-04.md |
+| art. 48, § 3º | pas | 19957.016074/2024-72 | 2025-10-21 | condenacao | cvm-pas-19957-016074-2024-72 | fichas/pas/2025-08.md |
 
 ## art. 152
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 152 | pas | 19957.005325/2024-93 | 2024-12-18 | condenacao | cvm-pas-19957-005325-2024-93 | fichas/pas/2024-12.md |
+| art. 152 | pas | 19957.005325/2024-93 | 2024-12-18 | condenacao | cvm-pas-19957-005325-2024-93 | fichas/pas/2024-23.md |
 
 ## art. 182
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 182, inciso II | pas | 19957.005325/2024-93 | 2024-12-18 | condenacao | cvm-pas-19957-005325-2024-93 | fichas/pas/2024-12.md |
+| art. 182, inciso II | pas | 19957.005325/2024-93 | 2024-12-18 | condenacao | cvm-pas-19957-005325-2024-93 | fichas/pas/2024-23.md |
 
 ## art. 183
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 183, inciso II | pas | 19957.005325/2024-93 | 2024-12-18 | condenacao | cvm-pas-19957-005325-2024-93 | fichas/pas/2024-12.md |
+| art. 183, inciso II | pas | 19957.005325/2024-93 | 2024-12-18 | condenacao | cvm-pas-19957-005325-2024-93 | fichas/pas/2024-23.md |
 
 ## Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.007976/2020-94 | 2026-09-08 | parcial | cvm-pas-19957-007976-2020-94 | fichas/pas/2026-03.md |
+| pas | 19957.007976/2020-94 | 2026-09-08 | parcial | cvm-pas-19957-007976-2020-94 | fichas/pas/2026-04.md |
 | pas | 19957.001045/2025-97 | 2026-05-12 | parcial | cvm-pas-19957-001045-2025-97 | fichas/pas/2026-01.md |
 | acordao-crsfn | 19957.009288/2019-25 | 2026-03-17 | parcial | crsfn-10372-000113-2024-16 | fichas/crsfn/2026-01.md |
-| pas | 19957.021470/2024-11 | 2025-12-16 | absolvicao | cvm-pas-19957-021470-2024-11 | fichas/pas/2025-05.md |
-| pas | 19957.002595/2017-13 | 2024-12-10 | parcial | cvm-pas-19957-002595-2017-13 | fichas/pas/2024-11.md |
+| pas | 19957.021470/2024-11 | 2025-12-16 | absolvicao | cvm-pas-19957-021470-2024-11 | fichas/pas/2025-11.md |
+| pas | 19957.002595/2017-13 | 2024-12-10 | parcial | cvm-pas-19957-002595-2017-13 | fichas/pas/2024-21.md |
 | decisao-colegiado | 19957.003982/2023-15 | 2024-10-15 | deferido | cvm-col-20241015-d3154 | fichas/colegiado/2024-11.md |
 | termo-compromisso | 19957.008316/2023-73 | 2024-05-07 | aceito | cvm-col-20240507-d3058 | fichas/tc/2024-03.md |
-| pas | 19957.009335/2021-55 | 2023-12-12 | condenacao | cvm-pas-19957-009335-2021-55 | fichas/pas/2023-09.md |
-| pas | 19957.001292/2022-41 | 2023-12-12 | condenacao | cvm-pas-19957-001292-2022-41 | fichas/pas/2023-09.md |
-| pas | 19957.008632/2020-01 | 2023-11-14 | condenacao | cvm-pas-19957-008632-2020-01 | fichas/pas/2023-08.md |
-| pas | 19957.004489/2022-31 | 2023-11-14 | parcial | cvm-pas-19957-004489-2022-31 | fichas/pas/2023-08.md |
-| pas | 19957.003473/2021-21 | 2023-11-07 | condenacao | cvm-pas-19957-003473-2021-21 | fichas/pas/2023-07.md |
+| pas | 19957.009335/2021-55 | 2023-12-12 | condenacao | cvm-pas-19957-009335-2021-55 | fichas/pas/2023-17.md |
+| pas | 19957.001292/2022-41 | 2023-12-12 | condenacao | cvm-pas-19957-001292-2022-41 | fichas/pas/2023-16.md |
+| pas | 19957.008632/2020-01 | 2023-11-14 | condenacao | cvm-pas-19957-008632-2020-01 | fichas/pas/2023-15.md |
+| pas | 19957.004489/2022-31 | 2023-11-14 | parcial | cvm-pas-19957-004489-2022-31 | fichas/pas/2023-14.md |
+| pas | 19957.003473/2021-21 | 2023-11-07 | condenacao | cvm-pas-19957-003473-2021-21 | fichas/pas/2023-13.md |
 | termo-compromisso | 19957.004489/2022-31 | 2023-11-07 | aceito | cvm-col-20231107-d2824 | fichas/tc/2023-07.md |
 | termo-compromisso | 19957.004489/2022-31 | 2023-08-08 | outro | cvm-col-20230808-d2824 | fichas/tc/2023-05.md |
 | pas | 19957.007344/2019-97 | 2023-02-28 | condenacao | cvm-pas-19957-007344-2019-97 | fichas/pas/2023-01.md |

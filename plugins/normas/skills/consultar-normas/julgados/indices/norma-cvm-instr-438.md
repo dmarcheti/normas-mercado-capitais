@@ -17,18 +17,18 @@ Norma: [cvm/instrucoes/0438.md](../../normas/cvm/instrucoes/0438.md) (texto vige
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.010467/2021-20 | 2024-09-03 | absolvicao | cvm-pas-19957-010467-2021-20 | fichas/pas/2024-07.md |
+| pas | 19957.010467/2021-20 | 2024-09-03 | absolvicao | cvm-pas-19957-010467-2021-20 | fichas/pas/2024-14.md |
 | pas | 19957.006657/2020-61 | 2024-02-27 | absolvicao | cvm-pas-19957-006657-2020-61 | fichas/pas/2024-01.md |
 | acordao-crsfn | RJ2015/13093 | 2022-02-08 | condenacao | crsfn-10372-100283-2019-32 | fichas/crsfn/2022-01.md |
 | decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
 | decisao-colegiado | 19957.006909/2017-57 | 2020-09-22 | conhecimento | cvm-col-20200922-d1925 | fichas/colegiado/2020-16.md |
-| pas | 19957.002404/2017-13; RJ2017/1238 | 2019-11-26 | absolvicao | cvm-pas-19957-002404-2017-13 | fichas/pas/2019-11.md |
+| pas | 19957.002404/2017-13; RJ2017/1238 | 2019-11-26 | absolvicao | cvm-pas-19957-002404-2017-13 | fichas/pas/2019-20.md |
 | acordao-crsfn | RJ2015/9909 | 2019-09-24 | condenacao | crsfn-10372-100061-2018-39 | fichas/crsfn/2019-03.md |
-| pas | RJ2015/13093 | 2019-06-25 | parcial | cvm-pas-rj2015-13093 | fichas/pas/2019-05.md |
+| pas | RJ2015/13093 | 2019-06-25 | parcial | cvm-pas-rj2015-13093 | fichas/pas/2019-10.md |
 | acordao-crsfn | RJ2014/13902 | 2019-04-23 | condenacao | crsfn-10372-100061-2019-10 | fichas/crsfn/2019-01.md |
-| pas | RJ2015/2027 | 2019-04-02 | parcial | cvm-pas-rj2015-2027 | fichas/pas/2019-03.md |
+| pas | RJ2015/2027 | 2019-04-02 | parcial | cvm-pas-rj2015-2027 | fichas/pas/2019-05.md |
 | pas | 02/2013 | 2019-01-22 | parcial | cvm-pas-02-2013 | fichas/pas/2019-01.md |
-| pas | RJ2014/13902 | 2018-09-11 | condenacao | cvm-pas-rj2014-13902 | fichas/pas/2018-07.md |
+| pas | RJ2014/13902 | 2018-09-11 | condenacao | cvm-pas-rj2014-13902 | fichas/pas/2018-14.md |
 | decisao-colegiado | 02/2015; 438/2006; RJ2015/3482 | 2016-06-29 | outro | cvm-col-20160629-d4872 | fichas/colegiado/2016-13.md |
 | termo-compromisso | RJ2015/12666 | 2016-05-17 | rejeitado | cvm-col-20160517-d9972 | fichas/tc/2016-02.md |
 | termo-compromisso | RJ2014/13902 | 2016-04-26 | aceito | cvm-col-20160426-d0184 | fichas/tc/2016-02.md |
@@ -48,7 +48,7 @@ Norma: [cvm/instrucoes/0438.md](../../normas/cvm/instrucoes/0438.md) (texto vige
 | termo-compromisso | RJ2007/10389 | 2008-06-24 | aceito | cvm-col-20080624-d01 | fichas/tc/2008-04.md |
 | decisao-colegiado | — | 2008-04-30 | outro | cvm-col-20080430-d03 | fichas/colegiado/2008-10.md |
 | termo-compromisso | RJ2007/8689 | 2008-02-19 | aceito | cvm-col-20080219-d05 | fichas/tc/2008-01.md |
-| pas | RJ2003/13021 | 2007-07-31 | parcial | cvm-pas-rj2003-13021 | fichas/pas/2007-05.md |
+| pas | RJ2003/13021 | 2007-07-31 | parcial | cvm-pas-rj2003-13021 | fichas/pas/2007-10.md |
 | decisao-colegiado | RJ2006/8970 | 2007-02-05 | indeferido | cvm-col-20070205-d06 | fichas/colegiado/2007-02.md |
 
 Fim do subíndice.

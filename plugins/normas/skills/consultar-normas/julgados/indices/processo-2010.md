@@ -7,174 +7,174 @@ Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho rel
 
 Número normalizado: NUP `99999-999999-AAAA-DD`; processo antigo `rj2015-13791` (sigla em minúsculas, ano, número com 4 dígitos); numeração curta dos PAS `NN-AAAA`. Procure pelo número normalizado ou pela forma do julgado. Dois julgados do mesmo processo (um PAS e o termo de compromisso ou o acórdão do CRSFN dele) aparecem com o mesmo número.
 
-| Processo (normalizado) | Forma no julgado | Tipo | Data | Id | Ficha |
-|---|---|---|---|---|---|
-| 01-2010 | 01/2010 | termo-compromisso | 2012-07-03 | cvm-col-20120703-d08 | fichas/tc/2012-03.md |
-| 01-2010 | 01/2010 | termo-compromisso | 2013-05-07 | cvm-col-20130507-d02 | fichas/tc/2013-02.md |
-| 01-2010 | 01/2010 | pas | 2013-07-16 | cvm-pas-01-2010 | fichas/pas/2013-03.md |
-| 02-2010 | 02/2010 | pas | 2013-07-09 | cvm-pas-02-2010 | fichas/pas/2013-03.md |
-| 04-2010 | 04/2010 | pas | 2014-09-23 | cvm-pas-04-2010 | fichas/pas/2014-03.md |
-| 06-2010 | 06/2010 | termo-compromisso | 2011-12-20 | cvm-col-20111220-d03 | fichas/tc/2011-05.md |
-| 06-2010 | 06/2010 | termo-compromisso | 2012-01-24 | cvm-col-20120124-d01 | fichas/tc/2012-01.md |
-| 12-2010 | 12/2010 | termo-compromisso | 2012-01-31 | cvm-col-20120131-d01 | fichas/tc/2012-01.md |
-| 12-2010 | 12/2010 | termo-compromisso | 2014-07-29 | cvm-col-20140729-d01 | fichas/tc/2014-02.md |
-| 12-2010 | 12/2010 | pas | 2014-10-07 | cvm-pas-12-2010 | fichas/pas/2014-03.md |
-| 14-2010; 19957-010796-2019-56 | 14/2010; 19957.010796/2019-56; 19957-010796-2019-56 | pas | 2020-03-03 | cvm-pas-19957-010796-2019-56 | fichas/pas/2020-01.md |
-| 14-2010; 19957-010796-2019-56 | 14/2010 | acordao-crsfn | 2022-12-08 | crsfn-10372-100071-2021-70 | fichas/crsfn/2022-07.md |
-| 14-2010; 19957-010796-2019-56 | 14/2010 | acordao-crsfn | 2023-03-08 | crsfn-10372-100071-2021-70-2 | fichas/crsfn/2023-02.md |
-| 14-2010; 19957-010796-2019-56 | 14/2010 | acordao-crsfn | 2026-07-15 | crsfn-10372-100071-2021-70-3 | fichas/crsfn/2026-02.md |
-| 15-2010 | 15/2010 | pas | 2015-12-08 | cvm-pas-15-2010 | fichas/pas/2015-06.md |
-| 15-2010 | 15/2010 | acordao-crsfn | 2016-11-29 | crsfn-14432 | fichas/crsfn/2016-05.md |
-| 16-2010 | 16/2010 | termo-compromisso | 2016-08-23 | cvm-col-20160823-d0337 | fichas/tc/2016-04.md |
-| 16-2010 | 16/2010 | pas | 2019-02-26 | cvm-pas-16-2010 | fichas/pas/2019-02.md |
-| 16-2010 | 16/2010 | acordao-crsfn | 2021-08-10 | crsfn-edcl-10372-100252-2019-81 | fichas/crsfn/2021-02.md |
-| 18-2010 | 18/2010 | pas | 2013-11-26 | cvm-pas-18-2010 | fichas/pas/2013-05.md |
-| 18-2010 | 18/2010 | acordao-crsfn | 2016-06-28 | crsfn-10372-000632-2016-74 | fichas/crsfn/2016-03.md |
-| 21-2010 | 21/2010 | pas | 2019-10-15 | cvm-pas-21-2010 | fichas/pas/2019-09.md |
-| 21-2010 | 21/2010 | acordao-crsfn | 2023-05-09 | crsfn-10372-100066-2020-86 | fichas/crsfn/2023-04.md |
-| 21-2010 | 21/2010 | acordao-crsfn | 2023-10-10 | crsfn-10372-100066-2020-86-2 | fichas/crsfn/2023-06.md |
-| 22-2010 | 22/2010 | pas | 2014-10-21 | cvm-pas-22-2010 | fichas/pas/2014-04.md |
-| 23-2010 | 23/2010 | termo-compromisso | 2013-07-30 | cvm-col-20130730-d02 | fichas/tc/2013-03.md |
-| 23-2010 | 23/2010 | pas | 2014-11-04 | cvm-pas-23-2010 | fichas/pas/2014-04.md |
-| 24-2010 | 24/2010 | pas | 2014-05-27 | cvm-pas-24-2010 | fichas/pas/2014-02.md |
-| 25-2010 | 25/2010 | pas | 2017-07-04 | cvm-pas-25-2010 | fichas/pas/2017-03.md |
-| 25-2010 | 25/2010 | acordao-crsfn | 2020-09-20 | crsfn-edcl-10372-100009-2018-82 | fichas/crsfn/2020-05.md |
-| 26-2010 | 26/2010 | termo-compromisso | 2014-12-09 | cvm-col-20141209-d01 | fichas/tc/2014-05.md |
-| 26-2010 | 26/2010 | termo-compromisso | 2015-03-31 | cvm-col-20150331-d8672 | fichas/tc/2015-01.md |
-| 26-2010 | 26/2010 | pas | 2018-11-27 | cvm-pas-26-2010 | fichas/pas/2018-10.md |
-| 26-2010 | 26/2010 | acordao-crsfn | 2021-07-13 | crsfn-10372-100229-2019-97 | fichas/crsfn/2021-02.md |
-| 26-2010 | 26/2010 | acordao-crsfn | 2022-04-12 | crsfn-edcl-10372 | fichas/crsfn/2022-02.md |
-| ia2010-0001 | IA10/01 | termo-compromisso | 2004-05-11 | cvm-col-20040511-d02 | fichas/tc/2004-01.md |
-| ia2010-0001 | IA2010/1 | acordao-crsfn | 2018-03-21 | crsfn-13869 | fichas/crsfn/2018-02.md |
-| ia2010-0004 | IA-2010-4 | acordao-crsfn | 2017-05-24 | crsfn-14086 | fichas/crsfn/2017-04.md |
-| ia2010-0012 | IA-2010-12 | acordao-crsfn | 2016-08-24 | crsfn-14223 | fichas/crsfn/2016-04.md |
-| ia2010-0023 | IA2010/23 | acordao-crsfn | 2017-12-12 | crsfn-14230 | fichas/crsfn/2017-08.md |
-| ia2010-0024 | IA2010/24 | acordao-crsfn | 2017-07-25 | crsfn-14035 | fichas/crsfn/2017-06.md |
-| rj2010-0035 | RJ2010/0035 | termo-compromisso | 2010-03-23 | cvm-col-20100323-d07 | fichas/tc/2010-02.md |
-| rj2010-0770 | RJ2010/0770 | termo-compromisso | 2010-09-21 | cvm-col-20100921-d05 | fichas/tc/2010-05.md |
-| rj2010-0770 | RJ2010/0770 | termo-compromisso | 2011-05-10 | cvm-col-20110510-d02 | fichas/tc/2011-02.md |
-| rj2010-0926 | RJ2010/0926 | termo-compromisso | 2010-10-19 | cvm-col-20101019-d09 | fichas/tc/2010-05.md |
-| rj2010-0963 | RJ2010/0963 | termo-compromisso | 2010-06-22 | cvm-col-20100622-d01 | fichas/tc/2010-03.md |
-| rj2010-1088 | RJ2010/1088 | termo-compromisso | 2010-08-03 | cvm-col-20100803-d04 | fichas/tc/2010-04.md |
-| rj2010-1088 | RJ2010/1088 | pas | 2012-10-30 | cvm-pas-rj2010-1088 | fichas/pas/2012-03.md |
-| rj2010-1088 | RJ2010/1088 | acordao-crsfn | 2016-03-29 | crsfn-10372-100186-2018-69 | fichas/crsfn/2016-02.md |
-| rj2010-1144 | RJ2010/1144 | termo-compromisso | 2010-09-21 | cvm-col-20100921-d07 | fichas/tc/2010-05.md |
-| rj2010-1281 | RJ2010/1281 | termo-compromisso | 2010-06-22 | cvm-col-20100622-d03 | fichas/tc/2010-03.md |
-| rj2010-1281 | RJ2010/1281 | pas | 2010-08-17 | cvm-pas-rj2010-1281 | fichas/pas/2010-03.md |
-| rj2010-1281 | RJ2010/1281 | acordao-crsfn | 2014-02-18 | crsfn-13164 | fichas/crsfn/2014-01.md |
-| rj2010-1380 | RJ2010/1380 | pas | 2013-05-28 | cvm-pas-rj2010-1380 | fichas/pas/2013-03.md |
-| rj2010-1380 | RJ2010/1380 | acordao-crsfn | 2017-03-14 | crsfn-13870 | fichas/crsfn/2017-02.md |
-| rj2010-1582 | RJ2010/1582 | pas | 2011-11-08 | cvm-pas-rj2010-1582 | fichas/pas/2011-02.md |
-| rj2010-1582 | RJ-2010-1582 | acordao-crsfn | 2014-05-13 | crsfn-13359 | fichas/crsfn/2014-03.md |
-| rj2010-1666 | RJ2010/1666 | pas | 2012-04-03 | cvm-pas-rj2010-1666 | fichas/pas/2012-01.md |
-| rj2010-1666 | RJ2010/1666 | acordao-crsfn | 2015-07-28 | crsfn-13412 | fichas/crsfn/2015-03.md |
-| rj2010-1737 | RJ2010/1737 | pas | 2010-10-19 | cvm-pas-rj2010-1737 | fichas/pas/2010-04.md |
-| rj2010-1737 | RJ2010/1737 | acordao-crsfn | 2015-07-28 | crsfn-13225 | fichas/crsfn/2015-03.md |
-| rj2010-1807 | RJ2010/1807 | termo-compromisso | 2010-04-13 | cvm-col-20100413-d03 | fichas/tc/2010-02.md |
-| rj2010-2003 | RJ-10/2003 | acordao-crsfn | 2009-09-30 | crsfn-9636 | fichas/crsfn/2009-05.md |
-| rj2010-2411 | RJ2010/2411 | termo-compromisso | 2010-10-05 | cvm-col-20101005-d12 | fichas/tc/2010-05.md |
-| rj2010-2419 | RJ2010/2419 | termo-compromisso | 2012-07-03 | cvm-col-20120703-d01-r2 | fichas/tc/2012-03.md |
-| rj2010-2419 | RJ2010/2419 | termo-compromisso | 2012-07-03 | cvm-col-20120703-d25 | fichas/tc/2012-04.md |
-| rj2010-2554 | RJ2010/2554 | termo-compromisso | 2010-09-21 | cvm-col-20100921-d06 | fichas/tc/2010-05.md |
-| rj2010-2554 | RJ2010/2554 | termo-compromisso | 2010-12-28 | cvm-col-20101228-d06 | fichas/tc/2010-07.md |
-| rj2010-2554 | RJ2010/2554 | termo-compromisso | 2011-03-22 | cvm-col-20110322-d01 | fichas/tc/2011-01.md |
-| rj2010-2980 | RJ2010/2980 | termo-compromisso | 2010-10-26 | cvm-col-20101026-d01-r2 | fichas/tc/2010-05.md |
-| rj2010-2980 | RJ2010/2980 | termo-compromisso | 2011-03-22 | cvm-col-20110322-d17 | fichas/tc/2011-02.md |
-| rj2010-3278 | RJ2010/3278 | termo-compromisso | 2010-11-04 | cvm-col-20101104-d01 | fichas/tc/2010-06.md |
-| rj2010-3420 | RJ2010/3420 | termo-compromisso | 2010-06-29 | cvm-col-20100629-d04 | fichas/tc/2010-03.md |
-| rj2010-3695 | RJ2010/3695 | pas | 2015-12-15 | cvm-pas-rj2010-3695 | fichas/pas/2015-07.md |
-| rj2010-3695 | RJ2010/3695 | acordao-crsfn | 2019-07-23 | crsfn-14430 | fichas/crsfn/2019-02.md |
-| rj2010-4159 | RJ2010/4159 | termo-compromisso | 2010-06-29 | cvm-col-20100629-d05 | fichas/tc/2010-03.md |
-| rj2010-4159 | RJ2010/4159 | termo-compromisso | 2010-09-21 | cvm-col-20100921-d01 | fichas/tc/2010-04.md |
-| rj2010-4195 | RJ2010/4195 | pas | 2010-11-23 | cvm-pas-rj2010-4195 | fichas/pas/2010-05.md |
-| rj2010-4195 | RJ2010/4195 | acordao-crsfn | 2016-01-21 | crsfn-13258 | fichas/crsfn/2016-01.md |
-| rj2010-4206 | RJ2010/4206 | pas | 2011-08-23 | cvm-pas-rj2010-4206 | fichas/pas/2011-02.md |
-| rj2010-4246 | RJ2010/4246 | termo-compromisso | 2010-10-26 | cvm-col-20101026-d03 | fichas/tc/2010-05.md |
-| rj2010-4524 | RJ2010/4524 | termo-compromisso | 2010-11-30 | cvm-col-20101130-d07 | fichas/tc/2010-06.md |
-| rj2010-4524 | RJ2010/4524 | termo-compromisso | 2011-09-13 | cvm-col-20110913-d01 | fichas/tc/2011-04.md |
-| rj2010-4524 | RJ2010/4524 | termo-compromisso | 2011-12-27 | cvm-col-20111227-d02 | fichas/tc/2011-06.md |
-| rj2010-4953 | RJ2010/4953 | termo-compromisso | 2010-12-28 | cvm-col-20101228-d07 | fichas/tc/2010-07.md |
-| rj2010-7309 | RJ2010/7309 | termo-compromisso | 2011-10-19 | cvm-col-20111019-d02 | fichas/tc/2011-04.md |
-| rj2010-7631 | RJ2010/7631 | termo-compromisso | 2010-12-14 | cvm-col-20101214-d05 | fichas/tc/2010-07.md |
-| rj2010-7631 | RJ2010/7631 | termo-compromisso | 2011-04-19 | cvm-col-20110419-d01 | fichas/tc/2011-02.md |
-| rj2010-8588 | RJ2010/8588 | pas | 2010-12-14 | cvm-pas-rj2010-8588 | fichas/pas/2010-06.md |
-| rj2010-8588 | RJ-2010-8588 | acordao-crsfn | 2014-07-22 | crsfn-13276 | fichas/crsfn/2014-04.md |
-| rj2010-8708 | RJ2010/8708 | termo-compromisso | 2010-11-30 | cvm-col-20101130-d03 | fichas/tc/2010-06.md |
-| rj2010-8784 | RJ2010/8784 | pas | 2013-06-11 | cvm-pas-rj2010-8784 | fichas/pas/2013-03.md |
-| rj2010-8784 | RJ2010/8784 | acordao-crsfn | 2018-02-21 | crsfn-13904 | fichas/crsfn/2018-01.md |
-| rj2010-9078 | RJ2010/9078 | pas | 2011-10-25 | cvm-pas-rj2010-9078 | fichas/pas/2011-02.md |
-| rj2010-9129 | RJ2010/9129 | pas | 2011-08-09 | cvm-pas-rj2010-9129 | fichas/pas/2011-01.md |
-| rj2010-9129 | RJ2010/9129 | acordao-crsfn | 2014-11-25 | crsfn-13333 | fichas/crsfn/2014-07.md |
-| rj2010-9547 | RJ2010/9547 | termo-compromisso | 2010-08-24 | cvm-col-20100824-d02 | fichas/tc/2010-04.md |
-| rj2010-9582 | RJ2010/9582 | pas | 2011-07-19 | cvm-pas-rj2010-9582 | fichas/pas/2011-01.md |
-| rj2010-9582 | RJ-2010-9582 | acordao-crsfn | 2014-08-26 | crsfn-13328 | fichas/crsfn/2014-05.md |
-| rj2009-5286; rj2010-9731 | RJ2009/5286; RJ2010/9731 | termo-compromisso | 2010-04-13 | cvm-tc-rj2009-5286-20100413 | fichas/tc/2010-02.md |
-| rj2010-9941 | RJ2010/9941 | termo-compromisso | 2011-08-02 | cvm-col-20110802-d01 | fichas/tc/2011-03.md |
-| rj2010-10383 | RJ2010/10383 | termo-compromisso | 2011-05-17 | cvm-col-20110517-d02 | fichas/tc/2011-02.md |
-| rj2010-10528 | RJ2010/10528 | pas | 2011-12-06 | cvm-pas-rj2010-10528 | fichas/pas/2011-03.md |
-| rj2010-10528 | RJ2010/10528 | acordao-crsfn | 2014-08-26 | crsfn-13413 | fichas/crsfn/2014-05.md |
-| rj2010-10555 | RJ2010/10555 | termo-compromisso | 2011-02-15 | cvm-col-20110215-d07 | fichas/tc/2011-01.md |
-| rj2010-10555 | RJ2010/10555 | pas | 2011-09-06 | cvm-pas-rj2010-10555 | fichas/pas/2011-02.md |
-| rj2010-10555 | RJ2010/10555 | acordao-crsfn | 2015-04-28 | crsfn-13361 | fichas/crsfn/2015-01.md |
-| rj2010-11348 | RJ2010/11348 | termo-compromisso | 2011-05-17 | cvm-col-20110517-d08 | fichas/tc/2011-03.md |
-| rj2010-11349 | RJ2010/11349 | termo-compromisso | 2012-03-06 | cvm-col-20120306-d13 | fichas/tc/2012-02.md |
-| rj2010-11349 | RJ2010/11349 | termo-compromisso | 2012-08-07 | cvm-col-20120807-d01 | fichas/tc/2012-04.md |
-| rj2010-11350 | RJ2010/11350 | pas | 2013-04-02 | cvm-pas-rj2010-11350 | fichas/pas/2013-02.md |
-| rj2010-11350 | RJ2010/11350 | acordao-crsfn | 2017-10-25 | crsfn-13882 | fichas/crsfn/2017-08.md |
-| rj2010-11351 | RJ2010/11351 | pas | 2012-10-16 | cvm-pas-rj2010-11351 | fichas/pas/2012-02.md |
-| rj2010-11352 | RJ2010/11352 | pas | 2012-02-28 | cvm-pas-rj2010-11352 | fichas/pas/2012-01.md |
-| rj2010-11353 | RJ2010/11353 | pas | 2012-10-16 | cvm-pas-rj2010-11353 | fichas/pas/2012-02.md |
-| rj2010-11519 | RJ2010/11519 | termo-compromisso | 2011-03-22 | cvm-col-20110322-d03 | fichas/tc/2011-02.md |
-| rj2010-11566 | RJ2010/11566 | termo-compromisso | 2011-01-19 | cvm-col-20110119-d03 | fichas/tc/2011-01.md |
-| rj2010-11567 | RJ2010/11567 | acordao-crsfn | 2014-10-21 | crsfn-13334 | fichas/crsfn/2014-06.md |
-| rj2010-11568 | RJ2010/11568 | termo-compromisso | 2010-12-14 | cvm-col-20101214-d06 | fichas/tc/2010-07.md |
-| rj2010-11569 | RJ2010/11569 | termo-compromisso | 2010-12-14 | cvm-col-20101214-d07 | fichas/tc/2010-07.md |
-| rj2010-11571 | RJ-2010-11571 | acordao-crsfn | 2012-04-16 | crsfn-13226 | fichas/crsfn/2012-02.md |
-| rj2010-11572 | RJ-2010-11572 | acordao-crsfn | 2013-10-30 | crsfn-13187 | fichas/crsfn/2013-04.md |
-| rj2010-12040 | RJ2010/12040 | termo-compromisso | 2012-08-07 | cvm-col-20120807-d03 | fichas/tc/2012-04.md |
-| rj2010-12041 | RJ2010/12041 | termo-compromisso | 2012-07-03 | cvm-col-20120703-d03 | fichas/tc/2012-03.md |
-| rj2010-12041 | RJ2010/12041 | pas | 2013-03-26 | cvm-pas-rj2010-12041 | fichas/pas/2013-01.md |
-| rj2010-12042 | RJ2010/12042 | termo-compromisso | 2010-11-30 | cvm-col-20101130-d04 | fichas/tc/2010-06.md |
-| rj2010-12042 | RJ2010/12042 | pas | 2013-12-10 | cvm-pas-rj2010-12042 | fichas/pas/2013-06.md |
-| rj2010-12042 | RJ-2010-12042 | acordao-crsfn | 2017-06-28 | crsfn-13936 | fichas/crsfn/2017-05.md |
-| rj2010-12043 | RJ2010/12043 | termo-compromisso | 2010-12-28 | cvm-col-20101228-d08 | fichas/tc/2010-07.md |
-| rj2010-12043 | RJ2010/12043 | termo-compromisso | 2012-04-24 | cvm-col-20120424-d02 | fichas/tc/2012-02.md |
-| rj2010-12043 | RJ2010/12043 | pas | 2013-04-02 | cvm-pas-rj2010-12043 | fichas/pas/2013-02.md |
-| rj2010-13112 | RJ2010/13112 | termo-compromisso | 2011-02-15 | cvm-col-20110215-d08 | fichas/tc/2011-01.md |
-| rj2010-13301 | RJ2010/13301 | termo-compromisso | 2012-04-17 | cvm-col-20120417-d02 | fichas/tc/2012-02.md |
-| rj2010-13301 | RJ2010/13301 | pas | 2012-10-23 | cvm-pas-rj2010-13301 | fichas/pas/2012-02.md |
-| rj2010-13301 | RJ2010/13301 | acordao-crsfn | 2016-05-31 | crsfn-13521 | fichas/crsfn/2016-02.md |
-| rj2010-13904 | RJ2010/13904 | termo-compromisso | 2010-12-14 | cvm-col-20101214-d04 | fichas/tc/2010-07.md |
-| rj2010-14248 | RJ2010/14248 | termo-compromisso | 2011-08-02 | cvm-col-20110802-d02 | fichas/tc/2011-03.md |
-| rj2010-14248 | RJ2010/14248 | pas | 2012-10-30 | cvm-pas-rj2010-14248 | fichas/pas/2012-03.md |
-| rj2010-14407 | RJ2010/14407 | pas | 2011-12-13 | cvm-pas-rj2010-14407 | fichas/pas/2011-03.md |
-| rj2010-15319 | RJ2010/15319 | termo-compromisso | 2011-02-15 | cvm-col-20110215-d02 | fichas/tc/2011-01.md |
-| rj2010-15523 | RJ2010/15523 | termo-compromisso | 2012-11-22 | cvm-col-20121122-d13 | fichas/tc/2012-06.md |
-| rj2010-15685 | RJ2010/15685 | termo-compromisso | 2011-11-08 | cvm-col-20111108-d03 | fichas/tc/2011-05.md |
-| rj2010-15761 | RJ2010/15761 | termo-compromisso | 2010-12-09 | cvm-col-20101209-d01 | fichas/tc/2010-06.md |
-| rj2010-16049 | RJ2010/16049 | termo-compromisso | 2010-12-28 | cvm-col-20101228-d05 | fichas/tc/2010-07.md |
-| rj2010-16538 | RJ2010/16538 | termo-compromisso | 2011-02-15 | cvm-col-20110215-d03 | fichas/tc/2011-01.md |
-| rj2010-16605 | RJ2010/16605 | termo-compromisso | 2011-06-28 | cvm-col-20110628-d03 | fichas/tc/2011-03.md |
-| rj2010-16893 | RJ2010/16893 | pas | 2011-06-07 | cvm-pas-rj2010-16893 | fichas/pas/2011-01.md |
-| rj2010-16893 | RJ-2010-16893 | acordao-crsfn | 2014-08-26 | crsfn-13317 | fichas/crsfn/2014-05.md |
-| rj2010-17024 | RJ2010/17024 | termo-compromisso | 2011-06-28 | cvm-col-20110628-d01 | fichas/tc/2011-03.md |
-| rj2010-17089 | RJ2010/17089 | termo-compromisso | 2011-05-10 | cvm-col-20110510-d04 | fichas/tc/2011-02.md |
-| rj2010-17292 | RJ2010/17292 | termo-compromisso | 2013-11-12 | cvm-col-20131112-d02 | fichas/tc/2013-05.md |
-| rj2010-17359 | RJ2010/17359 | termo-compromisso | 2011-05-17 | cvm-col-20110517-d09 | fichas/tc/2011-03.md |
-| rj2010-17584 | RJ2010/17584 | termo-compromisso | 2011-03-22 | cvm-col-20110322-d02 | fichas/tc/2011-01.md |
-| rj2010-17781 | RJ2010/17781 | termo-compromisso | 2011-06-07 | cvm-col-20110607-d01 | fichas/tc/2011-03.md |
-| sp2010-0001 | SP2010/0001 | termo-compromisso | 2010-09-21 | cvm-col-20100921-d04 | fichas/tc/2010-05.md |
-| sp2010-0001 | SP2010/001 | pas | 2011-03-22 | cvm-pas-sp2010-0001 | fichas/pas/2011-01.md |
-| sp2010-0001 | SP2010/0001 | acordao-crsfn | 2014-10-21 | crsfn-13329 | fichas/crsfn/2014-06.md |
-| sp2010-0049 | SP2010/049 | pas | 2013-11-12 | cvm-pas-sp2010-0049 | fichas/pas/2013-05.md |
-| sp2010-0135 | SP2010/0135 | termo-compromisso | 2011-05-10 | cvm-col-20110510-d06 | fichas/tc/2011-02.md |
-| sp2010-0178 | SP2010/0178 | termo-compromisso | 2011-04-05 | cvm-col-20110405-d02 | fichas/tc/2011-02.md |
-| sp2010-0178 | SP2010/178 | pas | 2014-03-25 | cvm-pas-sp2010-0178 | fichas/pas/2014-01.md |
-| sp2010-0186 | SP2010/186 | pas | 2015-01-27 | cvm-pas-sp2010-0186 | fichas/pas/2015-01.md |
-| sp2010-0186 | SP-2010-186 | acordao-crsfn | 2017-04-19 | crsfn-14238 | fichas/crsfn/2017-03.md |
-| sp2010-0238 | SP2010/0238 | termo-compromisso | 2011-03-01 | cvm-col-20110301-d03 | fichas/tc/2011-01.md |
-| sp2010-0266 | SP2010/0266 | termo-compromisso | 2011-06-28 | cvm-col-20110628-d02 | fichas/tc/2011-03.md |
-| sp2010-0266 | SP2010/266 | pas | 2013-10-15 | cvm-pas-sp2010-0266 | fichas/pas/2013-05.md |
-| sp2010-0266 | SP2010/266 | acordao-crsfn | 2018-02-20 | crsfn-13906 | fichas/crsfn/2018-01.md |
+| Processo (normalizado) | Forma no julgado | Tipo | Data | Ementa | Id | Ficha |
+|---|---|---|---|---|---|---|
+| 01-2010 | 01/2010 | termo-compromisso | 2012-07-03 | O Colegiado rejeitou as propostas de termo de compromisso da BI Capital Gestão de Recursos Ltda., de dois de seus profissionais e de um… | cvm-col-20120703-d08 | fichas/tc/2012-03.md |
+| 01-2010 | 01/2010 | termo-compromisso | 2013-05-07 | O Colegiado rejeitou nova proposta de termo de compromisso de R$ 420.255,70 (20% dos prejuízos dos fundos, corrigidos pelo IPCA, em parcela… | cvm-col-20130507-d02 | fichas/tc/2013-02.md |
+| 01-2010 | 01/2010 | pas | 2013-07-16 | BI CAPITAL Práticas não equitativas exercidas por administradores de carteiras em operações realizadas no mercado de valores mobiliários… | cvm-pas-01-2010 | fichas/pas/2013-07.md |
+| 02-2010 | 02/2010 | pas | 2013-07-09 | COSAN S.A. Suposta utilização indevida de informação privilegiada. Absolvições. | cvm-pas-02-2010 | fichas/pas/2013-07.md |
+| 04-2010 | 04/2010 | pas | 2014-09-23 | Práticas não equitativas – descumprimento do dever de diligência. Multas. | cvm-pas-04-2010 | fichas/pas/2014-06.md |
+| 06-2010 | 06/2010 | termo-compromisso | 2011-12-20 | O Colegiado iniciou a discussão de proposta de termo de compromisso no PAS 06/2010, de Companhia Siderúrgica Nacional e outros. Julgamento… | cvm-col-20111220-d03 | fichas/tc/2011-05.md |
+| 06-2010 | 06/2010 | termo-compromisso | 2012-01-24 | O Colegiado aceitou, acompanhando o Comitê, a proposta conjunta de R$ 300.000,00 (R$ 150.000,00 por proponente) de dois acionistas… | cvm-col-20120124-d01 | fichas/tc/2012-01.md |
+| 12-2010 | 12/2010 | termo-compromisso | 2012-01-31 | No PAS 12/2010, Gradual CCTVM S.A. e outros três acusados retiraram as propostas de termo de compromisso, alegando impossibilidade de… | cvm-col-20120131-d01 | fichas/tc/2012-01.md |
+| 12-2010 | 12/2010 | termo-compromisso | 2014-07-29 | O Colegiado rejeitou proposta conjunta de termo de compromisso da Gradual CCTVM S.A. e de uma proponente pessoa física (R$ 150.000,00), por… | cvm-col-20140729-d01 | fichas/tc/2014-02.md |
+| 12-2010 | 12/2010 | pas | 2014-10-07 | Criação de condições artificiais de demanda, oferta ou preço de valores mobiliários. Absolvição e multas. | cvm-pas-12-2010 | fichas/pas/2014-07.md |
+| 14-2010; 19957-010796-2019-56 | 14/2010; 19957.010796/2019-56; 19957-010796-2019-56 | pas | 2020-03-03 | Prática não equitativa no mercado de valores, em infração ao inciso I da Instrução CVM nº 08/79, no tipo descrito no inciso II, ‘d’, e… | cvm-pas-19957-010796-2019-56 | fichas/pas/2020-02.md |
+| 14-2010; 19957-010796-2019-56 | 14/2010 | acordao-crsfn | 2022-12-08 | RECURSOS VOLUNTÁRIOS. USO DE PRÁTICAS NÃO EQUITATIVAS NO MERCADO DE VALORES MOBILIÁRIOS. DESCUMPRIMENTO DO DEVER DE DILIGÊNCIA, FALHAS NO… | crsfn-10372-100071-2021-70 | fichas/crsfn/2022-09.md |
+| 14-2010; 19957-010796-2019-56 | 14/2010 | acordao-crsfn | 2023-03-08 | EMBARGOS DE DECLARAÇÃO. ALEGAÇÕES DE OMISSÃO, OBSCURIDADE E CONTRADIÇÃO NO ACÓRDÃO CRSFN 171/2022. Vícios apontados não caracterizados… | crsfn-10372-100071-2021-70-2 | fichas/crsfn/2023-03.md |
+| 14-2010; 19957-010796-2019-56 | 14/2010 | acordao-crsfn | 2026-07-15 | INCIDENTE DE AUTOTUTELA ADMINISTRATIVA. CVM. MULTA. ERRO DE FATO VERIFICÁVEL. RETIFICAÇÃO DO EXTRATO DE JULGAMENTO DA CVM. ANULAÇÃO PARCIAL… | crsfn-10372-100071-2021-70-3 | fichas/crsfn/2026-03.md |
+| 15-2010 | 15/2010 | pas | 2015-12-08 | Uso de informação relevante ainda não divulgada ao mercado de valores mobiliários. Multa. | cvm-pas-15-2010 | fichas/pas/2015-13.md |
+| 15-2010 | 15/2010 | acordao-crsfn | 2016-11-29 | Recursos voluntário. Alienação de ações antes da divulgação ao mercado de fato relevante. "Insider Trading" . Recurso voluntário conhecido… | crsfn-14432 | fichas/crsfn/2016-10.md |
+| 16-2010 | 16/2010 | termo-compromisso | 2016-08-23 | O Colegiado rejeitou, por unanimidade, as propostas de Termo de Compromisso de cinco proponentes no PAS 16/2010, acompanhando o Comitê… | cvm-col-20160823-d0337 | fichas/tc/2016-04.md |
+| 16-2010 | 16/2010 | pas | 2019-02-26 | Irregularidades na contratação e na execução de mútuos com partes relacionadas e na forma de contabilização de créditos detidos nas… | cvm-pas-16-2010 | fichas/pas/2019-04.md |
+| 16-2010 | 16/2010 | acordao-crsfn | 2021-08-10 | EMBARGOS DE DECLARAÇÃO: Inexistência de omissão com relação à questão preliminar. Inexistência de contradição com o fundamento da decisão… | crsfn-edcl-10372-100252-2019-81 | fichas/crsfn/2021-03.md |
+| 18-2010 | 18/2010 | pas | 2013-11-26 | GAZOLA Abuso de poder de controle — descumprimento do dever de diligência — descumprimento do dever de lealdade. Absolvições, inabilitações… | cvm-pas-18-2010 | fichas/pas/2013-11.md |
+| 18-2010 | 18/2010 | acordao-crsfn | 2016-06-28 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Abuso de poder de controle, em detrimento dos interesses da Companhia… | crsfn-10372-000632-2016-74 | fichas/crsfn/2016-04.md |
+| 21-2010 | 21/2010 | pas | 2019-10-15 | Criação de condições artificiais de demanda, oferta ou preço de valores mobiliários. Prática não equitativa no mercado de valores… | cvm-pas-21-2010 | fichas/pas/2019-17.md |
+| 21-2010 | 21/2010 | acordao-crsfn | 2023-05-09 | RECURSOS VOLUNTÁRIOS. VALORES MOBILIÁRIOS. CRIAÇÃO DE CONDIÇÕES ARTIFICIAIS DE DEMANDA, OFERTA OU PREÇO DE VALORES MOBILIÁRIOS. PRÁTICA NÃO… | crsfn-10372-100066-2020-86 | fichas/crsfn/2023-04.md |
+| 21-2010 | 21/2010 | acordao-crsfn | 2023-10-10 | EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÃO NO ACÓRDÃO CRSFN 71/2023. NÃO INDIVIDUALIZAÇÃO DA PENA. CONDENAÇÃO BASEADA EM PROVAS… | crsfn-10372-100066-2020-86-2 | fichas/crsfn/2023-07.md |
+| 22-2010 | 22/2010 | pas | 2014-10-21 | Oferta pública irregular de quotas de fundo off-shore - quebra do dever fiduciário. Inabilitação temporária e multas. | cvm-pas-22-2010 | fichas/pas/2014-07.md |
+| 23-2010 | 23/2010 | termo-compromisso | 2013-07-30 | O Colegiado rejeitou três propostas de termo de compromisso de acusados de quebra de sigilo e de negociar com informação relevante não… | cvm-col-20130730-d02 | fichas/tc/2013-03.md |
+| 23-2010 | 23/2010 | pas | 2014-11-04 | Negociação de ações com uso indevido de informação privilegiada ainda não divulgada ao mercado - violação de dever de guardar sigilo… | cvm-pas-23-2010 | fichas/pas/2014-08.md |
+| 24-2010 | 24/2010 | pas | 2014-05-27 | Exercício irregular de administração de carteira de valores mobiliários. – Prática de churning. – Operação fraudulenta no mercado de… | cvm-pas-24-2010 | fichas/pas/2014-03.md |
+| 25-2010 | 25/2010 | pas | 2017-07-04 | Utilização de informação privilegiada na negociação de ações ordinárias de emissão da Aracruz Celulose S.A. Multas. | cvm-pas-25-2010 | fichas/pas/2017-05.md |
+| 25-2010 | 25/2010 | acordao-crsfn | 2020-09-20 | EMBARGOS DE DECLARAÇÃO. Embargos que ficam rejeitados por não comprovada omissão do Acórdão Embargado. | crsfn-edcl-10372-100009-2018-82 | fichas/crsfn/2020-07.md |
+| 26-2010 | 26/2010 | termo-compromisso | 2014-12-09 | O Colegiado aceitou, por maioria, duas propostas de termo de compromisso (de R$ 1.687.864,00 e R$ 145.440,00, ambas corrigidas pelo IPCA) e… | cvm-col-20141209-d01 | fichas/tc/2014-05.md |
+| 26-2010 | 26/2010 | termo-compromisso | 2015-03-31 | O Colegiado, por unanimidade, deferiu o pedido de revogação da proposta de Termo de Compromisso de R$ 1.687.864,00 corrigidos pelo IPCA… | cvm-col-20150331-d8672 | fichas/tc/2015-01.md |
+| 26-2010 | 26/2010 | pas | 2018-11-27 | Ementa : Utilização de informações privilegiadas em negociações com ações da Agra Empreendimentos Imobiliários S.A. antes da divulgação dos… | cvm-pas-26-2010 | fichas/pas/2018-20.md |
+| 26-2010 | 26/2010 | acordao-crsfn | 2021-07-13 | RECURSO VOLUNTÁRIO. Negociação de ações mediante uso de informações privilegiadas. Insider secundário. Penalidade de Multa. Não provimento. | crsfn-10372-100229-2019-97 | fichas/crsfn/2021-02.md |
+| 26-2010 | 26/2010 | acordao-crsfn | 2022-04-12 | EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÃO REFERENTE A PEDIDOS DE DIMINUIÇÃO DE PENAS. NÃO CARACTERIZADA. Embargos rejeitados. | crsfn-edcl-10372 | fichas/crsfn/2022-03.md |
+| ia2010-0001 | IA10/01 | termo-compromisso | 2004-05-11 | O Colegiado, acompanhando o relator, aprovou a celebração de termo de compromisso proposto pelo Banco Itaú BBA S.A. e pela Itaú DTVM S.A… | cvm-col-20040511-d02 | fichas/tc/2004-01.md |
+| ia2010-0001 | IA2010/1 | acordao-crsfn | 2018-03-21 | RECURSOS VOLUNTÁRIOS. Práticas não equitativas. Prática de reespecificação de ordens em prejuízo a fundos exclusivos de instituição de… | crsfn-13869 | fichas/crsfn/2018-03.md |
+| ia2010-0004 | IA-2010-4 | acordao-crsfn | 2017-05-24 | Recursos Voluntários. Mercado de Valores Mobiliários Fundo Mútuo de Investimentos em Ações – Carteira Livre. Mercado de Valores… | crsfn-14086 | fichas/crsfn/2017-08.md |
+| ia2010-0012 | IA-2010-12 | acordao-crsfn | 2016-08-24 | RECURSOS VOLUNTÁRIO E DE OFÍCIO - Comprovadas as irregularidades praticadas pelo recorrente. Operações realizadas voltadas exclusivamente à… | crsfn-14223 | fichas/crsfn/2016-07.md |
+| ia2010-0023 | IA2010/23 | acordao-crsfn | 2017-12-12 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Mercado de valores mobiliários. Violação do dever de sigilo sobre informação relevante ainda não… | crsfn-14230 | fichas/crsfn/2017-14.md |
+| ia2010-0024 | IA2010/24 | acordao-crsfn | 2017-07-25 | RECURSO VOLUNTÁRIO. Administração irregular de carteira e operações fraudulentas. Churning. Infrações configuradas. Multa e inabilitação… | crsfn-14035 | fichas/crsfn/2017-11.md |
+| rj2010-0035 | RJ2010/0035 | termo-compromisso | 2010-03-23 | O Colegiado aceitou proposta de termo de compromisso da C&D Distribuidora no valor de R$ 50.000,00, acompanhando o parecer do Comitê… | cvm-col-20100323-d07 | fichas/tc/2010-02.md |
+| rj2010-0770 | RJ2010/0770 | termo-compromisso | 2010-09-21 | O Colegiado, acompanhando o parecer do Comitê, rejeitou proposta de termo de compromisso de R$ 100.000,00 de representante da Laep… | cvm-col-20100921-d05 | fichas/tc/2010-05.md |
+| rj2010-0770 | RJ2010/0770 | termo-compromisso | 2011-05-10 | Por maioria, o Colegiado aceitou nova proposta de Termo de Compromisso do representante da Laep Investments Ltd., de pagamento de R$… | cvm-col-20110510-d02 | fichas/tc/2011-02.md |
+| rj2010-0926 | RJ2010/0926 | termo-compromisso | 2010-10-19 | O Colegiado aceitou duas propostas de termo de compromisso, de R$ 200.000,00 cada, acompanhando o Comitê, e rejeitou três: a de R$… | cvm-col-20101019-d09 | fichas/tc/2010-05.md |
+| rj2010-0963 | RJ2010/0963 | termo-compromisso | 2010-06-22 | O Colegiado aceitou a proposta de termo de compromisso do proponente, acusado de negociar ações da Refinaria Ipiranga com informação… | cvm-col-20100622-d01 | fichas/tc/2010-03.md |
+| rj2010-1088 | RJ2010/1088 | termo-compromisso | 2010-08-03 | O Colegiado rejeitou proposta de termo de compromisso de R$ 60.000,00 da Atrium S.A. DTVM e de um diretor responsável pela gestão do Atrium… | cvm-col-20100803-d04 | fichas/tc/2010-04.md |
+| rj2010-1088 | RJ2010/1088 | pas | 2012-10-30 | ATRIUM Desenquadramento da carteira de investimento de Fundo de Investimento. Descumprimento das obrigações dispostas na Instrução CVM nº… | cvm-pas-rj2010-1088 | fichas/pas/2012-05.md |
+| rj2010-1088 | RJ2010/1088 | acordao-crsfn | 2016-03-29 | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Práticas irregulares em administração e gestão de fundos de investimento… | crsfn-10372-100186-2018-69 | fichas/crsfn/2016-02.md |
+| rj2010-1144 | RJ2010/1144 | termo-compromisso | 2010-09-21 | O Colegiado aceitou duas propostas no PAS RJ2010/1144: R$ 200.000,00 de diretor de RI acusado de não divulgar fato relevante, acompanhando… | cvm-col-20100921-d07 | fichas/tc/2010-05.md |
+| rj2010-1281 | RJ2010/1281 | termo-compromisso | 2010-06-22 | O Colegiado rejeitou nova proposta de termo de compromisso, de R$ 16.673,41, apresentada pelo acusado de atuar como administrador de… | cvm-col-20100622-d03 | fichas/tc/2010-03.md |
+| rj2010-1281 | RJ2010/1281 | pas | 2010-08-17 | [pessoa física] Exercício de administrador de carteira de valores mobiliários sem a prévia autorização da CVM – Multa. | cvm-pas-rj2010-1281 | fichas/pas/2010-06.md |
+| rj2010-1281 | RJ2010/1281 | acordao-crsfn | 2014-02-18 | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Exercício da atividade de administrador de carteiras sem prévio registro na… | crsfn-13164 | fichas/crsfn/2014-01.md |
+| rj2010-1380 | RJ2010/1380 | pas | 2013-05-28 | CELM não elaboração de Demonstrações Financeiras – não convocação e não realização de Assembleias Gerais Ordinárias – não adoção de medidas… | cvm-pas-rj2010-1380 | fichas/pas/2013-05.md |
+| rj2010-1380 | RJ2010/1380 | acordao-crsfn | 2017-03-14 | RECURSOS VOLUNTÁRIOS. Falha de responsabilidade do administrador e não entrega de demonstrações financeiras. | crsfn-13870 | fichas/crsfn/2017-03.md |
+| rj2010-1582 | RJ2010/1582 | pas | 2011-11-08 | [pessoa física] Não divulgação imediata de fato relevante acerca das negociações para venda de imóvel industrial da companhia [pessoa… | cvm-pas-rj2010-1582 | fichas/pas/2011-04.md |
+| rj2010-1582 | RJ-2010-1582 | acordao-crsfn | 2014-05-13 | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Não divulgação oportuna de fato relevante acerca de negociações para venda de imóvel… | crsfn-13359 | fichas/crsfn/2014-04.md |
+| rj2010-1666 | RJ2010/1666 | pas | 2012-04-03 | [pessoa física] Eventual uso indevido de informação privilegiada, em suposta violação do art.13 da Instrução CVM nº 358/02. Absolvição. | cvm-pas-rj2010-1666 | fichas/pas/2012-01.md |
+| rj2010-1666 | RJ2010/1666 | acordao-crsfn | 2015-07-28 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Uso indevido de informação privilegiada (negociação de ações durante período vedado… | crsfn-13412 | fichas/crsfn/2015-03.md |
+| rj2010-1737 | RJ2010/1737 | pas | 2010-10-19 | Caixa Seguradora S/A Abuso do poder de controle. Desvio do interesse social. Aumento de capital sem justificativa para fixação do preço de… | cvm-pas-rj2010-1737 | fichas/pas/2010-07.md |
+| rj2010-1737 | RJ2010/1737 | acordao-crsfn | 2015-07-28 | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Abuso do poder de controle - Desvio do interesse social - Aumento… | crsfn-13225 | fichas/crsfn/2015-03.md |
+| rj2010-1807 | RJ2010/1807 | termo-compromisso | 2010-04-13 | O Colegiado indeferiu pedido de reconsideração e rejeitou nova proposta de termo de compromisso de um acusado no PAS RJ2009/2172, por… | cvm-col-20100413-d03 | fichas/tc/2010-02.md |
+| rj2010-2003 | RJ-10/2003 | acordao-crsfn | 2009-09-30 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Contabilidade – Falhas nos registros atinentes a pagamento de bônus de contratação do… | crsfn-9636 | fichas/crsfn/2009-06.md |
+| rj2010-2411 | RJ2010/2411 | termo-compromisso | 2010-10-05 | Após pedido de vista, o Colegiado, por maioria, aceitou propostas de R$ 150.000,00 cada de dois diretores da Light S.A. por alienação de… | cvm-col-20101005-d12 | fichas/tc/2010-05.md |
+| rj2010-2419 | RJ2010/2419 | termo-compromisso | 2012-07-03 | O Colegiado indeferiu pedido da Tyrus Capital LLP de tratamento confidencial para sua proposta de termo de compromisso no PAS, por não… | cvm-col-20120703-d01-r2 | fichas/tc/2012-03.md |
+| rj2010-2419 | RJ2010/2419 | termo-compromisso | 2012-07-03 | O Colegiado aceitou, acompanhando o parecer do Comitê, proposta de termo de compromisso da Tyrus Capital LLP de R$ 10.000.000,00, por ser… | cvm-col-20120703-d25 | fichas/tc/2012-04.md |
+| rj2010-2554 | RJ2010/2554 | termo-compromisso | 2010-09-21 | O Colegiado rejeitou proposta de termo de compromisso do Banco Safra BSI S.A., anterior a PAS, sobre incorporação de fundo multimercado… | cvm-col-20100921-d06 | fichas/tc/2010-05.md |
+| rj2010-2554 | RJ2010/2554 | termo-compromisso | 2010-12-28 | O Colegiado rejeitou nova proposta de termo de compromisso de R$ 75.000,00 apresentada pelo Banco Safra BSI S.A. e por um diretor… | cvm-col-20101228-d06 | fichas/tc/2010-07.md |
+| rj2010-2554 | RJ2010/2554 | termo-compromisso | 2011-03-22 | O Colegiado aceitou nova proposta de Termo de Compromisso do Banco Safra BSI S.A. e de um diretor responsável pela administração de… | cvm-col-20110322-d01 | fichas/tc/2011-01.md |
+| rj2010-2980 | RJ2010/2980 | termo-compromisso | 2010-10-26 | O Colegiado rejeitou a proposta de Termo de Compromisso da KPMG Auditores Independentes e de dois responsáveis técnicos, acompanhando o… | cvm-col-20101026-d01-r2 | fichas/tc/2010-05.md |
+| rj2010-2980 | RJ2010/2980 | termo-compromisso | 2011-03-22 | O Colegiado aceitou nova proposta de Termo de Compromisso da KPMG Auditores Independentes e de dois responsáveis técnicos, no valor de R$… | cvm-col-20110322-d17 | fichas/tc/2011-02.md |
+| rj2010-3278 | RJ2010/3278 | termo-compromisso | 2010-11-04 | O Colegiado aceitou as três propostas de termo de compromisso, de R$ 100.000,00 para cada um de dois proponentes e R$ 200.000,00 para o… | cvm-col-20101104-d01 | fichas/tc/2010-06.md |
+| rj2010-3420 | RJ2010/3420 | termo-compromisso | 2010-06-29 | O Colegiado aceitou proposta de termo de compromisso de R$ 20.000,00 de conselheiro de administração da Eletrosilex S.A., acusado de não… | cvm-col-20100629-d04 | fichas/tc/2010-03.md |
+| rj2010-3695 | RJ2010/3695 | pas | 2015-12-15 | Inobservância de normas emanadas pelo Conselho Federal de Contabilidade – não elaboração de relatório circunstanciado sobre os controles… | cvm-pas-rj2010-3695 | fichas/pas/2015-13.md |
+| rj2010-3695 | RJ2010/3695 | acordao-crsfn | 2019-07-23 | Recursos voluntários e de ofício. Auditoria Independente. Inobservância de normas emanadas pelo Conselho Federal de Contabilidade e não… | crsfn-14430 | fichas/crsfn/2019-03.md |
+| rj2010-4159 | RJ2010/4159 | termo-compromisso | 2010-06-29 | O Colegiado rejeitou propostas de termo de compromisso da Ágora e de um diretor responsável, de R$ 100.000,00 cada, por não serem… | cvm-col-20100629-d05 | fichas/tc/2010-03.md |
+| rj2010-4159 | RJ2010/4159 | termo-compromisso | 2010-09-21 | O Colegiado, por maioria, aceitou as novas propostas de termo de compromisso da Ágora Corretora e de seu diretor responsável, de R$… | cvm-col-20100921-d01 | fichas/tc/2010-04.md |
+| rj2010-4195 | RJ2010/4195 | pas | 2010-11-23 | VICUNHA TEXTIL SA Não divulgação de fato relevante. – Multa. | cvm-pas-rj2010-4195 | fichas/pas/2010-09.md |
+| rj2010-4195 | RJ2010/4195 | acordao-crsfn | 2016-01-21 | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Falta de divulgação de fato relevante – Violação do art. 157, da Lei nº… | crsfn-13258 | fichas/crsfn/2016-01.md |
+| rj2010-4206 | RJ2010/4206 | pas | 2011-08-23 | [pessoa física] (USA) Eventual irregularidade na negociação com units da Terna Participações S/A, em suposta infração ao art. 13 da… | cvm-pas-rj2010-4206 | fichas/pas/2011-04.md |
+| rj2010-4246 | RJ2010/4246 | termo-compromisso | 2010-10-26 | O Colegiado aceitou proposta de termo de compromisso do proponente, responsável por relações com investidores da Abyara Planejamento… | cvm-col-20101026-d03 | fichas/tc/2010-05.md |
+| rj2010-4524 | RJ2010/4524 | termo-compromisso | 2010-11-30 | O Colegiado rejeitou as propostas de termo de compromisso da Deloitte Touche Tohmatsu Auditores Independentes e de um sócio responsável… | cvm-col-20101130-d07 | fichas/tc/2010-06.md |
+| rj2010-4524 | RJ2010/4524 | termo-compromisso | 2011-09-13 | O Colegiado aceitou nova proposta de termo de compromisso da Deloitte Touche Tohmatsu Auditores Independentes e de seu sócio responsável… | cvm-col-20110913-d01 | fichas/tc/2011-04.md |
+| rj2010-4524 | RJ2010/4524 | termo-compromisso | 2011-12-27 | O Colegiado rejeitou pedido de aditamento à proposta de termo de compromisso da Deloitte Touche Tohmatsu Auditores Independentes e de seu… | cvm-col-20111227-d02 | fichas/tc/2011-06.md |
+| rj2010-4953 | RJ2010/4953 | termo-compromisso | 2010-12-28 | O Colegiado aceitou proposta conjunta de termo de compromisso dos administradores, de R$ 350.000,00, acompanhando o Comitê. Acusados de… | cvm-col-20101228-d07 | fichas/tc/2010-07.md |
+| rj2010-7309 | RJ2010/7309 | termo-compromisso | 2011-10-19 | O Colegiado rejeitou proposta de termo de compromisso da gestora e de seu diretor responsável por possíveis infrações (front running… | cvm-col-20111019-d02 | fichas/tc/2011-04.md |
+| rj2010-7631 | RJ2010/7631 | termo-compromisso | 2010-12-14 | O Colegiado, acompanhando o Comitê, rejeitou as propostas de termo de compromisso da KPMG Auditores Independentes e de dois responsáveis… | cvm-col-20101214-d05 | fichas/tc/2010-07.md |
+| rj2010-7631 | RJ2010/7631 | termo-compromisso | 2011-04-19 | O Colegiado aceitou nova proposta de termo de compromisso da KPMG Auditores Independentes e de dois sócios e responsáveis técnicos, de R$… | cvm-col-20110419-d01 | fichas/tc/2011-02.md |
+| rj2010-8588 | RJ2010/8588 | pas | 2010-12-14 | BC Control Auditores Independentes Emissão de Parecer sem Abstenção de Opinião, em descumprimento ao item 21 da NBC T11-IT5, aprovada pela… | cvm-pas-rj2010-8588 | fichas/pas/2010-11.md |
+| rj2010-8588 | RJ-2010-8588 | acordao-crsfn | 2014-07-22 | RECURSO(S) VOLUNTÁRIO(S) - Auditoria independente – Descumprimentos de normas baixadas por CVM, CFC e IBRACON – Ausência de suficientes… | crsfn-13276 | fichas/crsfn/2014-05.md |
+| rj2010-8708 | RJ2010/8708 | termo-compromisso | 2010-11-30 | O Colegiado rejeitou a proposta de termo de compromisso de membro do Conselho de Administração da CELM – Companhia Equipadora de… | cvm-col-20101130-d03 | fichas/tc/2010-06.md |
+| rj2010-8784 | RJ2010/8784 | pas | 2013-06-11 | CONSTRUTORA BETER Não divulgação de fato relevante. Absolvições, advertências e multa. | cvm-pas-rj2010-8784 | fichas/pas/2013-06.md |
+| rj2010-8784 | RJ2010/8784 | acordao-crsfn | 2018-02-21 | RECURSO DE OFÍCIO. Não divulgação de fato relevante. Responsabilidade dos membros do Conselho Fiscal não configurada. Recurso Conhecido… | crsfn-13904 | fichas/crsfn/2018-01.md |
+| rj2010-9078 | RJ2010/9078 | pas | 2011-10-25 | SADIA S/A Suposta inobservância do art. 253 da Lei n.º 6.404/76 na operação de alienação, pela Sadia à HFIN, de sua participação acionária… | cvm-pas-rj2010-9078 | fichas/pas/2011-04.md |
+| rj2010-9129 | RJ2010/9129 | pas | 2011-08-09 | [pessoa física] Obrigação do administrador de fundo de investimento de manter, assinados e à disposição da CVM, os termos de adesão dos… | cvm-pas-rj2010-9129 | fichas/pas/2011-03.md |
+| rj2010-9129 | RJ2010/9129 | acordao-crsfn | 2014-11-25 | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários - Não cumprimento da obrigação de administrador de fundo de investimento de… | crsfn-13333 | fichas/crsfn/2014-08.md |
+| rj2010-9547 | RJ2010/9547 | termo-compromisso | 2010-08-24 | O Colegiado, por maioria, acompanhando o parecer do Comitê, aceitou cinco propostas de termo de compromisso de R$ 50.000,00 cada (R$… | cvm-col-20100824-d02 | fichas/tc/2010-04.md |
+| rj2010-9582 | RJ2010/9582 | pas | 2011-07-19 | Auditores Independentes S/S Não aplicação de diversos procedimentos de auditoria no curso dos trabalhos realizados na TECBLU – Tecelagem… | cvm-pas-rj2010-9582 | fichas/pas/2011-02.md |
+| rj2010-9582 | RJ-2010-9582 | acordao-crsfn | 2014-08-26 | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Auditoria Independente - Parecer com abstenção de opinião - Limitação da… | crsfn-13328 | fichas/crsfn/2014-06.md |
+| rj2009-5286; rj2010-9731 | RJ2009/5286; RJ2010/9731 | termo-compromisso | 2010-04-13 | O Colegiado aprovou, em 13/04/2010, a proposta de termo de compromisso da Natixis no PAS RJ2009/5286: pagamento de R$ 200.000,00 à CVM e… | cvm-tc-rj2009-5286-20100413 | fichas/tc/2010-02.md |
+| rj2010-9941 | RJ2010/9941 | termo-compromisso | 2011-08-02 | O Colegiado aceitou nove propostas de termo de compromisso de administradores da VCP e da Aracruz, com pagamento individual à CVM de R$… | cvm-col-20110802-d01 | fichas/tc/2011-03.md |
+| rj2010-10383 | RJ2010/10383 | termo-compromisso | 2011-05-17 | Acompanhando o parecer do Comitê, o Colegiado rejeitou a proposta de Termo de Compromisso da Filmes do Equador Ltda. e de seu sócio… | cvm-col-20110517-d02 | fichas/tc/2011-02.md |
+| rj2010-10528 | RJ2010/10528 | pas | 2011-12-06 | BNB-FRUTAN Descumprimento do dever de diligência, em infração ao art.153 da Lei nº 6.404/76. Multa. | cvm-pas-rj2010-10528 | fichas/pas/2011-05.md |
+| rj2010-10528 | RJ2010/10528 | acordao-crsfn | 2014-08-26 | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Instituição financeira de economia mista – Recursos públicos oriundos de Fundo… | crsfn-13413 | fichas/crsfn/2014-06.md |
+| rj2010-10555 | RJ2010/10555 | termo-compromisso | 2011-02-15 | O Colegiado rejeitou proposta de termo de compromisso do Instituto Banese de Seguridade Social - Sergus, acusado de ter votado em separado… | cvm-col-20110215-d07 | fichas/tc/2011-01.md |
+| rj2010-10555 | RJ2010/10555 | pas | 2011-09-06 | SERGUS Descumprimento, por parte do Instituto Banese de Seguridade Social – Sergus, da vedação de participar de eleição para vaga de… | cvm-pas-rj2010-10555 | fichas/pas/2011-04.md |
+| rj2010-10555 | RJ2010/10555 | acordao-crsfn | 2015-04-28 | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Participação, por entidade de previdência privada, em votação em separado para… | crsfn-13361 | fichas/crsfn/2015-02.md |
+| rj2010-11348 | RJ2010/11348 | termo-compromisso | 2011-05-17 | O Colegiado aceitou proposta de termo de compromisso dos seis administradores da Américas Empreendimentos Artísticos S.A., de R$ 120.000,00… | cvm-col-20110517-d08 | fichas/tc/2011-03.md |
+| rj2010-11349 | RJ2010/11349 | termo-compromisso | 2012-03-06 | O Colegiado rejeitou proposta de termo de compromisso apresentada em conjunto por sete administradores da Carfepe S.A., acompanhando o… | cvm-col-20120306-d13 | fichas/tc/2012-02.md |
+| rj2010-11349 | RJ2010/11349 | termo-compromisso | 2012-08-07 | O Colegiado aceitou nova proposta de termo de compromisso, apresentada em conjunto por sete administradores da Carfepe S.A. (PAS… | cvm-col-20120807-d01 | fichas/tc/2012-04.md |
+| rj2010-11350 | RJ2010/11350 | pas | 2013-04-02 | Companhia Paulista de Fertilizantes não elaboração, no prazo legal, de demonstrações financeiras de exercícios sociais findos – não… | cvm-pas-rj2010-11350 | fichas/pas/2013-03.md |
+| rj2010-11350 | RJ2010/11350 | acordao-crsfn | 2017-10-25 | RECURSO DE OFÍCIO. CVM. Síndico da massa falida. Dever de prestar informações da Companhia. Recurso de Ofício desprovido. | crsfn-13882 | fichas/crsfn/2017-14.md |
+| rj2010-11351 | RJ2010/11351 | pas | 2012-10-16 | CIDADELA TRUST RECEBÍVEIS S.A. não elaboração, dentro do prazo legal, de demonstrações financeiras – não convocação de AGOs – não… | cvm-pas-rj2010-11351 | fichas/pas/2012-04.md |
+| rj2010-11352 | RJ2010/11352 | pas | 2012-02-28 | [pessoa física] Não envio à CVM, por mais de três anos, de informações periódicas e eventuais devidas – não elaboração de demonstrações… | cvm-pas-rj2010-11352 | fichas/pas/2012-01.md |
+| rj2010-11353 | RJ2010/11353 | pas | 2012-10-16 | HUSKY não elaboração, dentro do prazo legal, de demonstrações financeiras – não convocação de AGOs – não manutenção atualizada do registro… | cvm-pas-rj2010-11353 | fichas/pas/2012-04.md |
+| rj2010-11519 | RJ2010/11519 | termo-compromisso | 2011-03-22 | O Colegiado aceitou duas propostas de termo de compromisso de R$ 200.000,00 cada, de dois administradores da Sadia S.A., acompanhando o… | cvm-col-20110322-d03 | fichas/tc/2011-02.md |
+| rj2010-11566 | RJ2010/11566 | termo-compromisso | 2011-01-19 | O Colegiado aceitou proposta de termo de compromisso de um diretor de relações com investidores da Allis Participações S.A., acusado de… | cvm-col-20110119-d03 | fichas/tc/2011-01.md |
+| rj2010-11567 | RJ2010/11567 | acordao-crsfn | 2014-10-21 | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Descumprimento do dever de divulgar, tempestivamente, informações… | crsfn-13334 | fichas/crsfn/2014-07.md |
+| rj2010-11568 | RJ2010/11568 | termo-compromisso | 2010-12-14 | O Colegiado rejeitou a proposta de termo de compromisso do diretor de RI da Botucatu Têxtil S.A., acompanhando o Comitê. Processo… | cvm-col-20101214-d06 | fichas/tc/2010-07.md |
+| rj2010-11569 | RJ2010/11569 | termo-compromisso | 2010-12-14 | O Colegiado aceitou proposta de termo de compromisso do diretor de relações com investidores da CAGECE por atrasos em documentos periódicos… | cvm-col-20101214-d07 | fichas/tc/2010-07.md |
+| rj2010-11571 | RJ-2010-11571 | acordao-crsfn | 2012-04-16 | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Falta de envio ou atraso na remessa de informações periódicas à autoridade… | crsfn-13226 | fichas/crsfn/2012-02.md |
+| rj2010-11572 | RJ-2010-11572 | acordao-crsfn | 2013-10-30 | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Elaboração de demonstrações financeiras - Falta de envio ou atraso no envio de… | crsfn-13187 | fichas/crsfn/2013-05.md |
+| rj2010-12040 | RJ2010/12040 | termo-compromisso | 2012-08-07 | O Colegiado aceitou duas propostas de termo de compromisso de administradores da Biomm S.A. por atrasos na convocação de AGOs, em… | cvm-col-20120807-d03 | fichas/tc/2012-04.md |
+| rj2010-12041 | RJ2010/12041 | termo-compromisso | 2012-07-03 | O Colegiado rejeitou proposta conjunta de termo de compromisso de três administradores da Cimob Participações S.A., acompanhando o parecer… | cvm-col-20120703-d03 | fichas/tc/2012-03.md |
+| rj2010-12041 | RJ2010/12041 | pas | 2013-03-26 | CIMOB Não convocação de Assembleias Gerais Ordinárias – convocação intempestiva de AGO – multas. | cvm-pas-rj2010-12041 | fichas/pas/2013-02.md |
+| rj2010-12042 | RJ2010/12042 | termo-compromisso | 2010-11-30 | O Colegiado rejeitou proposta de termo de compromisso do diretor de relações com investidores de companhia aberta, acusado de atraso no… | cvm-col-20101130-d04 | fichas/tc/2010-06.md |
+| rj2010-12042 | RJ2010/12042 | pas | 2013-12-10 | Cachoeira Velonorte Descumprimento por parte dos administradores da companhia do dever de enviar à CVM as informações periódicas no prazo… | cvm-pas-rj2010-12042 | fichas/pas/2013-12.md |
+| rj2010-12042 | RJ-2010-12042 | acordao-crsfn | 2017-06-28 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Deixar de entregar tempestivamente informações periódicas a CVM - Deixar de elaborar demonstrações… | crsfn-13936 | fichas/crsfn/2017-10.md |
+| rj2010-12043 | RJ2010/12043 | termo-compromisso | 2010-12-28 | O Colegiado rejeitou proposta de termo de compromisso de R$ 10.000,00 do diretor de relações com investidores da Fiação Tecelagem São José… | cvm-col-20101228-d08 | fichas/tc/2010-07.md |
+| rj2010-12043 | RJ2010/12043 | termo-compromisso | 2012-04-24 | O Colegiado rejeitou a proposta de termo de compromisso apresentada em conjunto por cinco administradores da Fiação e Tecelagem São José… | cvm-col-20120424-d02 | fichas/tc/2012-02.md |
+| rj2010-12043 | RJ2010/12043 | pas | 2013-04-02 | Fiação Tecelagem São José Descumprimento das obrigações de envio de informações periódicas à CVM. Não envio tempestivo à CVM de formulários… | cvm-pas-rj2010-12043 | fichas/pas/2013-03.md |
+| rj2010-13112 | RJ2010/13112 | termo-compromisso | 2011-02-15 | O Colegiado aceitou a proposta de Termo de Compromisso da Zaraplast S.A., acompanhando o Comitê, sobre a não divulgação de demonstrações… | cvm-col-20110215-d08 | fichas/tc/2011-01.md |
+| rj2010-13301 | RJ2010/13301 | termo-compromisso | 2012-04-17 | O Colegiado rejeitou proposta de termo de compromisso da Infinity CCTVM S.A., da Infinity Asset Management e de uma pessoa física, de R$… | cvm-col-20120417-d02 | fichas/tc/2012-02.md |
+| rj2010-13301 | RJ2010/13301 | pas | 2012-10-23 | INFINITY CCTVM inexistência de segregação física de atividades – inexistência de critérios para rateio de grupamento de ordens de compra e… | cvm-pas-rj2010-13301 | fichas/pas/2012-04.md |
+| rj2010-13301 | RJ2010/13301 | acordao-crsfn | 2016-05-31 | RECURSOS VOLUNTÁRIOS – Mercado de valores mobiliários – Falta de segregação física de atividades – Inexistência de critérios para rateio de… | crsfn-13521 | fichas/crsfn/2016-03.md |
+| rj2010-13904 | RJ2010/13904 | termo-compromisso | 2010-12-14 | O Colegiado rejeitou proposta de termo de compromisso de R$ 70.000,00 apresentada por um membro do conselho fiscal, acusado de falta de… | cvm-col-20101214-d04 | fichas/tc/2010-07.md |
+| rj2010-14248 | RJ2010/14248 | termo-compromisso | 2011-08-02 | O Colegiado rejeitou proposta de termo de compromisso de diretor presidente e de RI de companhia, acusado de não divulgar empréstimos de… | cvm-col-20110802-d02 | fichas/tc/2011-03.md |
+| rj2010-14248 | RJ2010/14248 | pas | 2012-10-30 | CONSTRUTORA BETER S.A. Não observância de normas contábeis, de responsabilidade do administrador da companhia. Multa. | cvm-pas-rj2010-14248 | fichas/pas/2012-05.md |
+| rj2010-14407 | RJ2010/14407 | pas | 2011-12-13 | LUPATECH Irregularidade na negociação com ações da Lupatech. Advertência. | cvm-pas-rj2010-14407 | fichas/pas/2011-06.md |
+| rj2010-15319 | RJ2010/15319 | termo-compromisso | 2011-02-15 | O Colegiado rejeitou novas propostas de termo de compromisso de dois acusados no PAS RJ2006/3295 (Têxtil Renaux S.A.), de R$ 50.000,00 e R$… | cvm-col-20110215-d02 | fichas/tc/2011-01.md |
+| rj2010-15523 | RJ2010/15523 | termo-compromisso | 2012-11-22 | O Colegiado aceitou proposta conjunta de termo de compromisso de R$ 1.000.000,00 do Banco Itaucard S.A. e de dois diretores responsáveis… | cvm-col-20121122-d13 | fichas/tc/2012-06.md |
+| rj2010-15685 | RJ2010/15685 | termo-compromisso | 2011-11-08 | O Colegiado aceitou proposta de termo de compromisso da Prosper S.A. e de dois de seus diretores, com pagamento à CVM de R$ 106.747,60… | cvm-col-20111108-d03 | fichas/tc/2011-05.md |
+| rj2010-15761 | RJ2010/15761 | termo-compromisso | 2010-12-09 | O Colegiado aceitou a proposta aditada de termo de compromisso da Vivendi S.A., no valor de R$ 150.000.000,00, contra manifestação… | cvm-col-20101209-d01 | fichas/tc/2010-06.md |
+| rj2010-16049 | RJ2010/16049 | termo-compromisso | 2010-12-28 | O Colegiado rejeitou a proposta de termo de compromisso de R$ 200.000,00 de um acusado de prática não equitativa (negociação com ações da… | cvm-col-20101228-d05 | fichas/tc/2010-07.md |
+| rj2010-16538 | RJ2010/16538 | termo-compromisso | 2011-02-15 | O Colegiado rejeitou proposta de termo de compromisso da Citigroup Global Markets Brasil CCTVM S.A., sucessora da Intra, acusada de… | cvm-col-20110215-d03 | fichas/tc/2011-01.md |
+| rj2010-16605 | RJ2010/16605 | termo-compromisso | 2011-06-28 | O Colegiado aceitou proposta de termo de compromisso de diretor de companhia por nota explicativa equivocada do 1º ITR de 2010, que… | cvm-col-20110628-d03 | fichas/tc/2011-03.md |
+| rj2010-16893 | RJ2010/16893 | pas | 2011-06-07 | Deloitte Touche Tohmatsu Auditores Independentes Imputação de não emissão de relatório de revisão especial com ressalva sobre demonstrações… | cvm-pas-rj2010-16893 | fichas/pas/2011-02.md |
+| rj2010-16893 | RJ-2010-16893 | acordao-crsfn | 2014-08-26 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Auditoria independente – Emissão de pareceres sem ressalvas - Relatório de revisão… | crsfn-13317 | fichas/crsfn/2014-06.md |
+| rj2010-17024 | RJ2010/17024 | termo-compromisso | 2011-06-28 | O Colegiado rejeitou proposta conjunta de termo de compromisso de corretora e de diretor responsável pela Instrução CVM 387/03 (registro de… | cvm-col-20110628-d01 | fichas/tc/2011-03.md |
+| rj2010-17089 | RJ2010/17089 | termo-compromisso | 2011-05-10 | O Colegiado rejeitou proposta de termo de compromisso de R$ 80.000,00, feita em conjunto pela BI Capital Gestão de Recursos Ltda. e por seu… | cvm-col-20110510-d04 | fichas/tc/2011-02.md |
+| rj2010-17292 | RJ2010/17292 | termo-compromisso | 2013-11-12 | O Colegiado aceitou proposta de Termo de Compromisso de R$ 350.000,00 apresentada pela BEM Distribuidora e um diretor, acompanhando o… | cvm-col-20131112-d02 | fichas/tc/2013-05.md |
+| rj2010-17359 | RJ2010/17359 | termo-compromisso | 2011-05-17 | O Colegiado aceitou proposta de termo de compromisso do proponente, diretor da Saraiva S.A. Livreiros Editores, de R$ 100.000,00… | cvm-col-20110517-d09 | fichas/tc/2011-03.md |
+| rj2010-17584 | RJ2010/17584 | termo-compromisso | 2011-03-22 | O Colegiado rejeitou as propostas da BI Agentes e de três pessoas físicas por atuação irregular como agente autônomo de investimento… | cvm-col-20110322-d02 | fichas/tc/2011-01.md |
+| rj2010-17781 | RJ2010/17781 | termo-compromisso | 2011-06-07 | O Colegiado aceitou proposta de termo de compromisso da administradora Rio Bravo DTVM e de três diretores do Fundo Superquadra 311… | cvm-col-20110607-d01 | fichas/tc/2011-03.md |
+| sp2010-0001 | SP2010/0001 | termo-compromisso | 2010-09-21 | O Colegiado rejeitou proposta de termo de compromisso de R$ 150.000,00, de três proponentes (R$ 50.000,00 cada), em PAS por registro de… | cvm-col-20100921-d04 | fichas/tc/2010-05.md |
+| sp2010-0001 | SP2010/001 | pas | 2011-03-22 | UM Investimentos S/A Registro de operações no mercado de valores mobiliários sem a indicação do horário de seu recebimento e sem a… | cvm-pas-sp2010-0001 | fichas/pas/2011-01.md |
+| sp2010-0001 | SP2010/0001 | acordao-crsfn | 2014-10-21 | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Falhas em registros de ordens de operações – Falta de indicação de horário de… | crsfn-13329 | fichas/crsfn/2014-07.md |
+| sp2010-0049 | SP2010/049 | pas | 2013-11-12 | [pessoa física] Imputação de responsabilidade pela irregularidade no cadastramento de clientes, pelo não desenvolvimento e implementação de… | cvm-pas-sp2010-0049 | fichas/pas/2013-10.md |
+| sp2010-0135 | SP2010/0135 | termo-compromisso | 2011-05-10 | O Colegiado aceitou as propostas de Termo de Compromisso da Fator S.A. Corretora de Valores e de um diretor responsável, de R$ 200.000,00… | cvm-col-20110510-d06 | fichas/tc/2011-02.md |
+| sp2010-0178 | SP2010/0178 | termo-compromisso | 2011-04-05 | O Colegiado rejeitou as propostas de termo de compromisso da Cruzeiro do Sul S.A. Corretora e de seu diretor (R$ 200.000,00 cada, total R$… | cvm-col-20110405-d02 | fichas/tc/2011-02.md |
+| sp2010-0178 | SP2010/178 | pas | 2014-03-25 | Realização de práticas não equitativas no mercado de valores mobiliários – Falta de diligência no cumprimento e na execução de ordens de… | cvm-pas-sp2010-0178 | fichas/pas/2014-02.md |
+| sp2010-0186 | SP2010/186 | pas | 2015-01-27 | Intermediação irregular de operações no mercado de valores mobiliários Descumprimento do dever de diligência. Embaraço à fiscalização… | cvm-pas-sp2010-0186 | fichas/pas/2015-01.md |
+| sp2010-0186 | SP-2010-186 | acordao-crsfn | 2017-04-19 | RECURSOS VOLUNTÁRIOS - Sociedade corretora de títulos e valores mobiliários - Intermediação irregular de operações - Captações por… | crsfn-14238 | fichas/crsfn/2017-07.md |
+| sp2010-0238 | SP2010/0238 | termo-compromisso | 2011-03-01 | O Colegiado aceitou proposta de termo de compromisso de R$ 300.000,00 (R$ 200.000,00 da Cetip e R$ 100.000,00 de seu diretor geral)… | cvm-col-20110301-d03 | fichas/tc/2011-01.md |
+| sp2010-0266 | SP2010/0266 | termo-compromisso | 2011-06-28 | O Colegiado rejeitou a proposta de termo de compromisso da Elite Corretora de Câmbio e Valores Mobiliários Ltda. e de seu diretor… | cvm-col-20110628-d02 | fichas/tc/2011-03.md |
+| sp2010-0266 | SP2010/266 | pas | 2013-10-15 | [pessoa física] Irregularidades no registro de ordens de operações day-trade. – Registro de ordens sem a identificação do cliente final… | cvm-pas-sp2010-0266 | fichas/pas/2013-09.md |
+| sp2010-0266 | SP2010/266 | acordao-crsfn | 2018-02-20 | RECURSOS VOLUNTÁRIOS. MERCADO DE TÍTULOS E VALORES MOBILIÁRIOS: Registro de ordens de operações no mercado de títulos e valores… | crsfn-13906 | fichas/crsfn/2018-01.md |
 
 Fim do subíndice.

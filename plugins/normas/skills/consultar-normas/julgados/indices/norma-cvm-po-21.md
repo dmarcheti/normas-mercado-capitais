@@ -11,9 +11,9 @@ Norma: [cvm/pareceres-orientacao/0021.md](../../normas/cvm/pareceres-orientacao/
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 05/2000 | 2004-11-11 | parcial | cvm-pas-05-2000 | fichas/pas/2004-07.md |
+| pas | 05/2000 | 2004-11-11 | parcial | cvm-pas-05-2000 | fichas/pas/2004-14.md |
 | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
-| pas | 08/1999 | 2000-06-01 | condenacao | cvm-pas-08-1999 | fichas/pas/2000-01.md |
+| pas | 08/1999 | 2000-06-01 | condenacao | cvm-pas-08-1999 | fichas/pas/2000-02.md |
 | decisao-antiga | — | 1991-01-04 | — | cvm-dec-1991-0001 | fichas/decisoes-antigas/1991-08.md |
 
 Fim do subíndice.

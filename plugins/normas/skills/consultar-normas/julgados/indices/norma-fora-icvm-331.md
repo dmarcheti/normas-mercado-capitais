@@ -19,8 +19,8 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|
 | art. 3º | acordao-crsfn | 2002/1173 | 2008-04-28 | parcial | crsfn-5936 | fichas/crsfn/2008-02.md |
 | art. 3º | decisao-colegiado | RJ2002/5560 | 2003-04-17 | nao-provido | cvm-col-20030417-d01 | fichas/colegiado/2003-04.md |
-| art. 3º | pas | RJ2002/1173 | 2003-10-02 | parcial | cvm-pas-rj2002-1173 | fichas/pas/2003-03.md |
-| art. 3º, inciso II | pas | RJ2016/4712 | 2018-04-24 | condenacao | cvm-pas-rj2016-4712 | fichas/pas/2018-03.md |
+| art. 3º | pas | RJ2002/1173 | 2003-10-02 | parcial | cvm-pas-rj2002-1173 | fichas/pas/2003-06.md |
+| art. 3º, inciso II | pas | RJ2016/4712 | 2018-04-24 | condenacao | cvm-pas-rj2016-4712 | fichas/pas/2018-06.md |
 
 ## art. 4º
 
@@ -68,7 +68,7 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.001461/2020-81 | 2024-03-05 | absolvicao | cvm-pas-19957-001461-2020-81 | fichas/pas/2024-01.md |
+| pas | 19957.001461/2020-81 | 2024-03-05 | absolvicao | cvm-pas-19957-001461-2020-81 | fichas/pas/2024-02.md |
 | decisao-colegiado | RJ2007/3443 | 2007-05-15 | deferido | cvm-col-20070515-d04 | fichas/colegiado/2007-07.md |
 | decisao-colegiado | RJ2006/6406; RJ2006/6327 | 2006-10-17 | deferido | cvm-col-20061017-d02 | fichas/colegiado/2006-15.md |
 | decisao-colegiado | RJ2006/1378 | 2006-08-15 | outro | cvm-col-20060815-d07 | fichas/colegiado/2006-13.md |

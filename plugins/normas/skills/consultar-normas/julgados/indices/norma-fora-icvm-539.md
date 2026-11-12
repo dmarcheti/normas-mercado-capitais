@@ -21,7 +21,7 @@ Norma: fora do acervo.
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 2º, § 5º | pas | 11/2013 | 2018-01-30 | parcial | cvm-pas-11-2013 | fichas/pas/2018-01.md |
-| art. 2º, § 5º | pas | SP2014/465 | 2018-11-06 | parcial | cvm-pas-sp2014-0465 | fichas/pas/2018-09.md |
+| art. 2º, § 5º | pas | SP2014/465 | 2018-11-06 | parcial | cvm-pas-sp2014-0465 | fichas/pas/2018-18.md |
 
 ## art. 3º
 
@@ -63,7 +63,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 7º, inciso III | pas | 19957.004318/2021-21 | 2023-12-06 | parcial | cvm-pas-19957-004318-2021-21 | fichas/pas/2023-08.md |
+| art. 7º, inciso III | pas | 19957.004318/2021-21 | 2023-12-06 | parcial | cvm-pas-19957-004318-2021-21 | fichas/pas/2023-16.md |
 
 ## art. 8º
 
@@ -86,7 +86,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 9º-A | acordao-crsfn | RJ2013/4328 | 2018-06-26 | condenacao | crsfn-14361 | fichas/crsfn/2018-03.md |
+| art. 9º-A | acordao-crsfn | RJ2013/4328 | 2018-06-26 | condenacao | crsfn-14361 | fichas/crsfn/2018-04.md |
 | art. 9º-A | decisao-colegiado | 19957.002752/2016-18 | 2016-05-24 | deferido | cvm-col-20160524-d0223 | fichas/colegiado/2016-10.md |
 | art. 9º-A | decisao-colegiado | 356/2001; 19957.007539/2016-94 | 2016-11-22 | deferido | cvm-col-20161122-d0435 | fichas/colegiado/2016-23.md |
 | art. 9º-A | decisao-colegiado | 19957.005989/2017-23 | 2017-08-08 | deferido | cvm-col-20170808-d0769 | fichas/colegiado/2017-14.md |
@@ -105,7 +105,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 9º-B | acordao-crsfn | RJ2013/4328 | 2018-06-26 | condenacao | crsfn-14361 | fichas/crsfn/2018-03.md |
+| art. 9º-B | acordao-crsfn | RJ2013/4328 | 2018-06-26 | condenacao | crsfn-14361 | fichas/crsfn/2018-04.md |
 | art. 9º-B | decisao-colegiado | RJ2015/6419 | 2015-08-25 | deferido | cvm-col-20150825-d9805 | fichas/colegiado/2015-15.md |
 | art. 9º-B | decisao-colegiado | 19957.004000/2016-83 | 2016-07-05 | outro | cvm-col-20160705-d0289 | fichas/colegiado/2016-13.md |
 | art. 9º-B | decisao-colegiado | 19957.009340/2018-62 | 2019-01-08 | deferido | cvm-col-20190108-d1272 | fichas/colegiado/2019-01.md |
@@ -125,11 +125,11 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.009162/2023-37 | 2024-10-08 | parcial | cvm-pas-19957-009162-2023-37 | fichas/pas/2024-08.md |
-| acordao-crsfn | 19957.011368/2017-89; RJ2018/00251 | 2024-03-12 | condenacao | crsfn-10372-100089-2022-52 | fichas/crsfn/2024-01.md |
+| pas | 19957.009162/2023-37 | 2024-10-08 | parcial | cvm-pas-19957-009162-2023-37 | fichas/pas/2024-16.md |
+| acordao-crsfn | 19957.011368/2017-89; RJ2018/00251 | 2024-03-12 | condenacao | crsfn-10372-100089-2022-52 | fichas/crsfn/2024-02.md |
 | pas | 19957.006657/2020-61 | 2024-02-27 | absolvicao | cvm-pas-19957-006657-2020-61 | fichas/pas/2024-01.md |
 | decisao-colegiado | 19957.009122/2018-28 | 2022-06-14 | conhecimento | cvm-col-20220614-d2615 | fichas/colegiado/2022-10.md |
-| pas | 19957.011368/2017-89 | 2022-04-12 | condenacao | cvm-pas-19957-011368-2017-89 | fichas/pas/2022-02.md |
+| pas | 19957.011368/2017-89 | 2022-04-12 | condenacao | cvm-pas-19957-011368-2017-89 | fichas/pas/2022-04.md |
 | decisao-colegiado | 19957.007863/2021-70 | 2022-03-29 | indeferido | cvm-col-20220329-d2544 | fichas/colegiado/2022-05.md |
 | decisao-colegiado | 19957.003330/2020-38 | 2021-07-27 | conhecimento | cvm-col-20210727-d2248 | fichas/colegiado/2021-12.md |
 | decisao-colegiado | 19957.008007/2020-51 | 2021-04-27 | nao-provido | cvm-col-20210427-d2148 | fichas/colegiado/2021-07.md |
@@ -139,7 +139,7 @@ Norma: fora do acervo.
 | decisao-colegiado | 19957.000609/2020-60 | 2020-11-10 | conhecimento | cvm-col-20201110-d1967 | fichas/colegiado/2020-19.md |
 | decisao-colegiado | 19957.005801/2020-42 | 2020-10-13 | deferido | cvm-col-20201013-d1951 | fichas/colegiado/2020-17.md |
 | decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
-| acordao-crsfn | SP2013/94 | 2020-07-22 | condenacao | crsfn-10372-100130-2018-12 | fichas/crsfn/2020-03.md |
+| acordao-crsfn | SP2013/94 | 2020-07-22 | condenacao | crsfn-10372-100130-2018-12 | fichas/crsfn/2020-04.md |
 | decisao-colegiado | 19957.002796/2020-16 | 2020-07-21 | nao-provido | cvm-col-20200721-d1855 | fichas/colegiado/2020-11.md |
 | decisao-colegiado | 19957.001689/2020-71 | 2020-07-21 | deferido | cvm-col-20200721-d1839 | fichas/colegiado/2020-11.md |
 | decisao-colegiado | 19957.001749/2020-55 | 2020-05-26 | nao-provido | cvm-col-20200526-d1814 | fichas/colegiado/2020-08.md |
@@ -157,9 +157,9 @@ Norma: fora do acervo.
 | decisao-colegiado | 19957.000332/2017-70 | 2017-10-24 | nao-provido | cvm-col-20171024-d0828 | fichas/colegiado/2017-18.md |
 | decisao-colegiado | 19957.000331/2017-25 | 2017-10-24 | nao-provido | cvm-col-20171024-d0827 | fichas/colegiado/2017-18.md |
 | pas | RJ2014/12921 | 2017-02-10 | parcial | cvm-pas-rj2014-12921 | fichas/pas/2017-01.md |
-| pas | SP2014/0383 | 2016-08-02 | condenacao | cvm-pas-sp2014-0383 | fichas/pas/2016-03.md |
+| pas | SP2014/0383 | 2016-08-02 | condenacao | cvm-pas-sp2014-0383 | fichas/pas/2016-05.md |
 | decisao-colegiado | — | 2016-05-04 | outro | cvm-col-20160504-d5347 | fichas/colegiado/2016-09.md |
-| pas | SP2012/480 | 2015-10-06 | condenacao | cvm-pas-sp2012-0480 | fichas/pas/2015-06.md |
+| pas | SP2012/480 | 2015-10-06 | condenacao | cvm-pas-sp2012-0480 | fichas/pas/2015-11.md |
 | decisao-colegiado | 555/2014; RJ2012/13688 | 2015-06-09 | outro | cvm-col-20150609-d5474 | fichas/colegiado/2015-09.md |
 | decisao-colegiado | 03/2014; RJ2013/11753 | 2014-12-09 | outro | cvm-col-20141209-d01-r2 | fichas/colegiado/2014-25.md |
 | decisao-colegiado | 03/2014; RJ2013/11753 | 2014-12-03 | — | cvm-col-20141203-d02 | fichas/colegiado/2014-25.md |

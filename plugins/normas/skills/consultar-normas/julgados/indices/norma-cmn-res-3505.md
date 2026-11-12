@@ -17,7 +17,7 @@ Norma: [cmn/resolucoes/3505.md](../../normas/cmn/resolucoes/3505.md) (texto vige
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.005388/2017-11 | 2023-10-31 | absolvicao | cvm-pas-19957-005388-2017-11 | fichas/pas/2023-07.md |
+| pas | 19957.005388/2017-11 | 2023-10-31 | absolvicao | cvm-pas-19957-005388-2017-11 | fichas/pas/2023-13.md |
 | decisao-colegiado | RJ2010/9101 | 2013-06-25 | outro | cvm-col-20130625-d02 | fichas/colegiado/2013-12.md |
 
 Fim do subíndice.

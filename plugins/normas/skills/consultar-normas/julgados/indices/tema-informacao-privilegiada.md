@@ -37,378 +37,378 @@ Este subíndice tem 414 linhas e uma leitura única é cortada em silêncio pert
 | 2002 | 410 |
 | 1998 | 412 |
 
-| Tipo | Processo | Data | Resultado | Id | Ficha |
-|---|---|---|---|---|---|
-| pas | 19957.010788/2019-18 | 2026-07-28 | absolvicao | cvm-pas-19957-010788-2019-18 | fichas/pas/2026-02.md |
-| termo-compromisso | 19957.000946/2023-08 | 2026-06-23 | rejeitado | cvm-col-20260623-d3392 | fichas/tc/2026-02.md |
-| termo-compromisso | 19957.003236/2023-21 | 2025-12-02 | aceito | cvm-col-20251202-d3425 | fichas/tc/2025-05.md |
-| acordao-crsfn | 19957.016206/2023-85 | 2025-11-11 | absolvicao | crsfn-19957-016206-2023-85 | fichas/crsfn/2025-06.md |
-| termo-compromisso | 19957.000663/2025-10 | 2025-10-07 | aceito | cvm-col-20251007-d3381 | fichas/tc/2025-04.md |
-| decisao-colegiado | 19957.002328/2025-56 | 2025-08-12 | nao-provido | cvm-col-20250812-d3324 | fichas/colegiado/2025-08.md |
-| termo-compromisso | 19957.001077/2024-10 | 2025-06-03 | rejeitado | cvm-col-20250603-d3237 | fichas/tc/2025-03.md |
-| termo-compromisso | 19957.008687/2024-36 | 2025-05-27 | aceito | cvm-col-20250527-d3285 | fichas/tc/2025-03.md |
-| acordao-crsfn | 19957.007727/2018-84 | 2025-05-14 | absolvicao | crsfn-10372-000162-2024-59 | fichas/crsfn/2025-02.md |
-| termo-compromisso | 19957.012215/2023-05 | 2025-04-15 | aceito | cvm-col-20250415-d3261 | fichas/tc/2025-02.md |
-| termo-compromisso | 19957.010909/2024-81; 19957.011239/2024-10 | 2025-04-01 | aceito | cvm-col-20250401-d3245 | fichas/tc/2025-02.md |
-| termo-compromisso | 19957.001077/2024-10 | 2025-03-18 | rejeitado | cvm-col-20250318-d3237 | fichas/tc/2025-01.md |
-| termo-compromisso | 19957.014756/2023-60 | 2025-02-18 | aceito | cvm-col-20250218-d3226 | fichas/tc/2025-01.md |
-| termo-compromisso | 19957.004081/2024-21 | 2025-02-04 | aceito | cvm-col-20250204-d3222 | fichas/tc/2025-01.md |
-| termo-compromisso | 19957.001719/2023-91 | 2025-02-04 | aceito | cvm-col-20250204-d3218 | fichas/tc/2025-01.md |
-| termo-compromisso | 19957.001404/2024-25 | 2024-12-17 | rejeitado | cvm-col-20241217-d3193 | fichas/tc/2024-07.md |
-| termo-compromisso | 19957.005967/2024-92 | 2024-12-10 | rejeitado | cvm-col-20241210-d3185 | fichas/tc/2024-07.md |
-| pas | 19957.016206/2023-85 | 2024-11-26 | parcial | cvm-pas-19957-016206-2023-85 | fichas/pas/2024-10.md |
-| termo-compromisso | 19957.002996/2018-54 | 2024-11-26 | rejeitado | cvm-col-20241126-d1939 | fichas/tc/2024-06.md |
-| acordao-crsfn | 19957.002923/2017-81 | 2024-11-12 | parcial | crsfn-10372-000054-2024-86 | fichas/crsfn/2024-06.md |
-| termo-compromisso | 19957.004083/2024-11 | 2024-10-08 | aceito | cvm-col-20241008-d3148 | fichas/tc/2024-05.md |
-| pas | 19957.007285/2022-52 | 2024-08-20 | absolvicao | cvm-pas-19957-007285-2022-52 | fichas/pas/2024-06.md |
-| termo-compromisso | 19957.014112/2023-71 | 2024-07-23 | aceito | cvm-col-20240723-d3102 | fichas/tc/2024-04.md |
-| pas | 19957.009219/2019-11 | 2024-07-02 | absolvicao | cvm-pas-19957-009219-2019-11 | fichas/pas/2024-05.md |
-| pas | 19957.001830/2021-16 | 2024-07-02 | condenacao | cvm-pas-19957-001830-2021-16 | fichas/pas/2024-05.md |
-| termo-compromisso | 19957.008851/2023-24 | 2024-06-13 | aceito | cvm-col-20240613-d3079 | fichas/tc/2024-04.md |
-| termo-compromisso | 19957.012575/2023-07 | 2024-06-04 | aceito | cvm-col-20240604-d3069 | fichas/tc/2024-03.md |
-| pas | 19957.007727/2018-84 | 2024-05-28 | — | cvm-pas-19957-007727-2018-84 | fichas/pas/2024-03.md |
-| acordao-crsfn | 05/2014; 19957.011659/2019-39 | 2024-05-07 | parcial | crsfn-10372-100193-2021-66 | fichas/crsfn/2024-02.md |
-| termo-compromisso | 19957.008298/2023-20 | 2024-04-16 | aceito | cvm-col-20240416-d2997 | fichas/tc/2024-02.md |
-| pas | 19957.007375/2022-43 | 2024-03-26 | absolvicao | cvm-pas-19957-007375-2022-43 | fichas/pas/2024-02.md |
-| termo-compromisso | 19957.012140/2023-54 | 2024-03-12 | aceito | cvm-col-20240312-d3028 | fichas/tc/2024-01.md |
-| termo-compromisso | 19957.009842/2023-51 | 2024-01-30 | rejeitado | cvm-col-20240130-d3011 | fichas/tc/2024-01.md |
-| termo-compromisso | 19957.008298/2023-20 | 2024-01-16 | outro | cvm-col-20240116-d2997 | fichas/tc/2024-01.md |
-| termo-compromisso | 19957.012142/2023-43 | 2024-01-09 | aceito | cvm-col-20240109-d2993 | fichas/tc/2024-01.md |
-| termo-compromisso | 19957.003900/2023-32 | 2024-01-09 | aceito | cvm-col-20240109-d2992 | fichas/tc/2024-01.md |
-| acordao-crsfn | 19957.011337/2019-90 | 2023-11-05 | condenacao | crsfn-10372-100043-2023-14 | fichas/crsfn/2023-07.md |
-| pas | 19957.005390/2017-90 | 2023-10-31 | parcial | cvm-pas-19957-005390-2017-90 | fichas/pas/2023-07.md |
-| termo-compromisso | 19957.007124/2023-40 | 2023-10-31 | aceito | cvm-col-20231031-d2954 | fichas/tc/2023-07.md |
-| termo-compromisso | 19957.014436/2022-29 | 2023-10-10 | aceito | cvm-col-20231010-d2942 | fichas/tc/2023-06.md |
-| termo-compromisso | 19957.003178/2023-36 | 2023-10-10 | aceito | cvm-col-20231010-d2941 | fichas/tc/2023-06.md |
-| termo-compromisso | 19957.001830/2021-16 | 2023-10-03 | rejeitado | cvm-col-20231003-d2938 | fichas/tc/2023-06.md |
-| pas | 19957.002923/2017-81 | 2023-09-26 | parcial | cvm-pas-19957-002923-2017-81 | fichas/pas/2023-06.md |
-| termo-compromisso | 19957.003173/2023-11 | 2023-09-26 | aceito | cvm-col-20230926-d2931 | fichas/tc/2023-06.md |
-| acordao-crsfn | 19957.007486/2018-73; RJ2018/4967 | 2023-09-12 | parcial | crsfn-10372-100170-2021-51 | fichas/crsfn/2023-06.md |
-| termo-compromisso | 19957.003391/2022-67 | 2023-07-25 | aceito | cvm-col-20230725-d2903 | fichas/tc/2023-05.md |
-| termo-compromisso | 19957.015356/2022-91 | 2023-07-25 | aceito | cvm-col-20230725-d2902 | fichas/tc/2023-05.md |
-| termo-compromisso | 19957.008246/2022-72 | 2023-07-11 | aceito | cvm-col-20230711-d2891 | fichas/tc/2023-04.md |
-| termo-compromisso | 19957.004454/2021-11 | 2023-05-23 | aceito | cvm-col-20230523-d2862 | fichas/tc/2023-04.md |
-| termo-compromisso | 19957.014736/2022-16 | 2023-05-09 | aceito | cvm-col-20230509-d2853 | fichas/tc/2023-04.md |
-| termo-compromisso | 19957.010177/2022-67 | 2023-04-18 | aceito | cvm-col-20230418-d2843 | fichas/tc/2023-03.md |
-| termo-compromisso | 19957.014735/2022-63 | 2023-04-18 | aceito | cvm-col-20230418-d2841 | fichas/tc/2023-03.md |
-| termo-compromisso | 19957.005711/2022-13 | 2023-04-18 | aceito | cvm-col-20230418-d2838 | fichas/tc/2023-03.md |
-| termo-compromisso | 19957.013397/2022-42 | 2023-04-11 | aceito | cvm-col-20230411-d2834 | fichas/tc/2023-03.md |
-| termo-compromisso | 19957.013845/2022-16 | 2023-04-11 | aceito | cvm-col-20230411-d2828 | fichas/tc/2023-03.md |
-| termo-compromisso | 19957.006925/2022-15 | 2023-04-04 | aceito | cvm-col-20230404-d2827 | fichas/tc/2023-03.md |
-| termo-compromisso | 19957.011788/2022-22 | 2023-03-28 | aceito | cvm-col-20230328-d2817 | fichas/tc/2023-02.md |
-| pas | 19957.005573/2020-19 | 2023-03-21 | absolvicao | cvm-pas-19957-005573-2020-19 | fichas/pas/2023-01.md |
-| acordao-crsfn | RJ2015/13651 | 2023-03-08 | outro | crsfn-10372-100002-2019-41-2 | fichas/crsfn/2023-02.md |
-| termo-compromisso | 19957.010792/2022-73 | 2023-02-14 | aceito | cvm-col-20230214-d2800 | fichas/tc/2023-02.md |
-| termo-compromisso | 19957.004386/2022-71 | 2023-01-31 | aceito | cvm-col-20230131-d2791 | fichas/tc/2023-01.md |
-| termo-compromisso | 19957.000582/2022-77 | 2023-01-10 | aceito | cvm-col-20230110-d2778 | fichas/tc/2023-01.md |
-| termo-compromisso | 19957.007273/2022-28 | 2022-10-25 | aceito | cvm-col-20221025-d2712 | fichas/tc/2022-05.md |
-| termo-compromisso | 19957.010074/2021-16 | 2022-09-13 | aceito | cvm-col-20220913-d2685 | fichas/tc/2022-04.md |
-| termo-compromisso | 19957.005385/2020-82 | 2022-05-10 | rejeitado | cvm-col-20220510-d2575 | fichas/tc/2022-02.md |
-| termo-compromisso | 19957.006367/2021-07 | 2022-04-12 | aceito | cvm-col-20220412-d2558 | fichas/tc/2022-02.md |
-| acordao-crsfn | 26/2010 | 2022-04-12 | outro | crsfn-edcl-10372 | fichas/crsfn/2022-02.md |
-| acordao-crsfn | RJ2014/3616 | 2022-04-12 | condenacao | crsfn-10372-100225-2019-17 | fichas/crsfn/2022-02.md |
-| termo-compromisso | 19957.004542/2020-32 | 2022-04-05 | aceito | cvm-col-20220405-d2401 | fichas/tc/2022-02.md |
-| termo-compromisso | 19957.002923/2017-81 | 2022-04-05 | aceito | cvm-col-20220405-d1942 | fichas/tc/2022-02.md |
-| decisao-colegiado | 19957.007855/2020-42 | 2022-03-15 | outro | cvm-col-20220315-d2232 | fichas/colegiado/2022-03.md |
-| termo-compromisso | 19957.005645/2021-09 | 2022-02-22 | aceito | cvm-col-20220222-d2485 | fichas/tc/2022-01.md |
-| termo-compromisso | 19957.008605/2020-20 | 2022-01-25 | aceito | cvm-col-20220125-d2463 | fichas/tc/2022-01.md |
-| acordao-crsfn | RJ2014/578 | 2021-12-08 | condenacao | crsfn-10372-100245-2019-80 | fichas/crsfn/2021-05.md |
-| termo-compromisso | 19957.004542/2020-32 | 2021-11-30 | rejeitado | cvm-col-20211130-d2401 | fichas/tc/2021-08.md |
-| termo-compromisso | 19957.001931/2020-14 | 2021-11-23 | aceito | cvm-col-20211123-d2317 | fichas/tc/2021-08.md |
-| termo-compromisso | 19957.004151/2021-07 | 2021-10-19 | aceito | cvm-col-20211019-d2343 | fichas/tc/2021-07.md |
-| termo-compromisso | 19957.001970/2021-94 | 2021-10-05 | aceito | cvm-col-20211005-d2331 | fichas/tc/2021-07.md |
-| termo-compromisso | 19957.001931/2020-14 | 2021-10-05 | rejeitado | cvm-col-20211005-d2317 | fichas/tc/2021-06.md |
-| termo-compromisso | 19957.001392/2021-96 | 2021-10-05 | outro | cvm-col-20211005-d2316 | fichas/tc/2021-06.md |
-| termo-compromisso | 19957.008821/2020-75 | 2021-08-24 | aceito | cvm-col-20210824-d2278 | fichas/tc/2021-05.md |
-| decisao-colegiado | 06/2020; 358/2002; 19957.007901/2016-27 | 2021-08-04 | — | cvm-col-20210804-d1896 | fichas/colegiado/2021-13.md |
-| acordao-crsfn | 26/2010 | 2021-07-13 | condenacao | crsfn-10372-100229-2019-97 | fichas/crsfn/2021-02.md |
-| acordao-crsfn | 19957.011190/2019-38 | 2021-07-13 | condenacao | crsfn-10372-100183-2020-40 | fichas/crsfn/2021-02.md |
-| termo-compromisso | 19957.002923/2017-81 | 2021-06-29 | outro | cvm-col-20210629-d1942 | fichas/tc/2021-04.md |
-| acordao-crsfn | RJ2015/13651 | 2021-06-14 | parcial | crsfn-10372-100002-2019-41 | fichas/crsfn/2021-01.md |
-| termo-compromisso | 19957.002996/2018-54 | 2021-05-25 | outro | cvm-col-20210525-d1939 | fichas/tc/2021-04.md |
-| decisao-colegiado | 472/2008; 19957.007979/2016-41 | 2021-03-10 | — | cvm-col-20210310-d2097 | fichas/colegiado/2021-05.md |
-| termo-compromisso | 19957.006799/2019-95 | 2020-11-10 | aceito | cvm-col-20201110-d1964 | fichas/tc/2020-07.md |
-| termo-compromisso | 19957.002688/2020-43 | 2020-10-20 | aceito | cvm-col-20201020-d1956 | fichas/tc/2020-06.md |
-| termo-compromisso | 19957.009399/2018-51 | 2020-10-06 | aceito | cvm-col-20201006-d1936 | fichas/tc/2020-06.md |
-| acordao-crsfn | 25/2010 | 2020-09-20 | outro | crsfn-edcl-10372-100009-2018-82 | fichas/crsfn/2020-05.md |
-| acordao-crsfn | 1/2014 | 2020-09-15 | condenacao | crsfn-10372-100450-2018-64 | fichas/crsfn/2020-05.md |
-| acordao-crsfn | SP2013/94 | 2020-07-22 | condenacao | crsfn-10372-100130-2018-12 | fichas/crsfn/2020-03.md |
-| pas | 19957.005966/2016-38; RJ2016/7189 | 2020-06-16 | absolvicao | cvm-pas-19957-005966-2016-38 | fichas/pas/2020-03.md |
-| termo-compromisso | 19957.007030/2019-94 | 2020-06-02 | aceito | cvm-col-20200602-d1820 | fichas/tc/2020-04.md |
-| termo-compromisso | 19957.008545/2019-10 | 2020-05-26 | aceito | cvm-col-20200526-d1811 | fichas/tc/2020-04.md |
-| termo-compromisso | 19957.005128/2019-15 | 2020-03-24 | aceito | cvm-col-20200324-d1760 | fichas/tc/2020-02.md |
-| pas | 19957.003780/2017-25; RJ2017/1858 | 2020-03-03 | condenacao | cvm-pas-19957-003780-2017-25 | fichas/pas/2020-01.md |
-| termo-compromisso | 19957.009190/2018-97 | 2020-03-03 | aceito | cvm-col-20200303-d1729 | fichas/tc/2020-02.md |
-| termo-compromisso | 19957.005982/2019-73 | 2020-02-18 | aceito | cvm-col-20200218-d1719 | fichas/tc/2020-01.md |
-| termo-compromisso | 19957.007486/2018-73 | 2020-02-18 | aceito | cvm-col-20200218-d1312 | fichas/tc/2020-01.md |
-| termo-compromisso | 19957.000805/2019-09 | 2019-12-17 | aceito | cvm-col-20191217-d1646 | fichas/tc/2019-07.md |
-| pas | 19957.001639/2016-15; RJ2016/2384 | 2019-11-26 | absolvicao | cvm-pas-19957-001639-2016-15 | fichas/pas/2019-11.md |
-| decisao-colegiado | 19957.005109/2018-08 | 2019-11-19 | parcial | cvm-col-20191119-d1067 | fichas/colegiado/2019-18.md |
-| termo-compromisso | 19957.007841/2016-42 | 2019-11-05 | aceito | cvm-col-20191105-d0633 | fichas/tc/2019-06.md |
-| termo-compromisso | 19957.004515/2018-45 | 2019-10-15 | aceito | cvm-col-20191015-d1322 | fichas/tc/2019-06.md |
-| acordao-crsfn | RJ2017/863 | 2019-09-24 | parcial | crsfn-10372-100226-2019-53 | fichas/crsfn/2019-03.md |
-| acordao-crsfn | RJ2013/13172 | 2019-09-24 | absolvicao | crsfn-10372-100001-2018-16 | fichas/crsfn/2019-02.md |
-| termo-compromisso | 19957.010191/2018-84 | 2019-08-27 | aceito | cvm-col-20190827-d1507 | fichas/tc/2019-05.md |
-| acordao-crsfn | RJ2014/1785 | 2019-08-27 | absolvicao | crsfn-10372-100125-2018-00 | fichas/crsfn/2019-02.md |
-| termo-compromisso | 19957.007486/2018-73 | 2019-08-06 | aceito | cvm-col-20190806-d1312 | fichas/tc/2019-04.md |
-| termo-compromisso | 19957.009192/2018-86 | 2019-07-09 | aceito | cvm-col-20190709-d1463 | fichas/tc/2019-04.md |
-| termo-compromisso | 19957.007727/2018-84 | 2019-06-18 | outro | cvm-col-20190618-d1440 | fichas/tc/2019-03.md |
-| pas | RJ2015/9443 | 2019-06-04 | parcial | cvm-pas-rj2015-9443 | fichas/pas/2019-04.md |
-| pas | RJ2014/0578 | 2019-05-27 | condenacao | cvm-pas-rj2014-0578 | fichas/pas/2019-04.md |
-| acordao-crsfn | RJ2016/5039 | 2019-04-23 | parcial | crsfn-10372-100321-2018-76 | fichas/crsfn/2019-01.md |
-| termo-compromisso | 19957.008107/2018-62 | 2019-04-02 | aceito | cvm-col-20190402-d1362 | fichas/tc/2019-02.md |
-| termo-compromisso | 19957.004515/2018-45 | 2019-02-26 | rejeitado | cvm-col-20190226-d1322 | fichas/tc/2019-01.md |
-| decisao-colegiado | 19957.000378/2019-51 | 2019-01-22 | nao-provido | cvm-col-20190122-d1288 | fichas/colegiado/2019-02.md |
-| termo-compromisso | 19957.004503/2016-59 | 2018-12-18 | aceito | cvm-col-20181218-d1247 | fichas/tc/2018-07.md |
-| acordao-crsfn | RJ2013/9904 | 2018-12-12 | condenacao | crsfn-14260 | fichas/crsfn/2018-08.md |
-| acordao-crsfn | IA-2009-11 | 2018-12-11 | absolvicao | crsfn-13410 | fichas/crsfn/2018-07.md |
-| pas | RJ2017/863 | 2018-12-04 | condenacao | cvm-pas-rj2017-0863 | fichas/pas/2018-11.md |
-| pas | 26/2010 | 2018-11-27 | parcial | cvm-pas-26-2010 | fichas/pas/2018-10.md |
-| pas | RJ2014/3616 | 2018-11-13 | parcial | cvm-pas-rj2014-3616 | fichas/pas/2018-09.md |
-| termo-compromisso | 19957.002292/2018-81 | 2018-10-30 | aceito | cvm-col-20181030-d1201 | fichas/tc/2018-06.md |
-| acordao-crsfn | RJ2013/2714 | 2018-10-18 | parcial | crsfn-14182 | fichas/crsfn/2018-06.md |
-| acordao-crsfn | RJ2013/11654 | 2018-10-03 | absolvicao | crsfn-14088 | fichas/crsfn/2018-06.md |
-| termo-compromisso | 19957.001692/2017-99 | 2018-10-02 | rejeitado | cvm-col-20181002-d0712 | fichas/tc/2018-05.md |
-| termo-compromisso | 19957.005390/2017-90; 19957.005388/2017-11; 19957.001225/2018-40 | 2018-09-25 | rejeitado | cvm-col-20180925-d1168 | fichas/tc/2018-05.md |
-| acordao-crsfn | RJ2014/10290 | 2018-08-22 | condenacao | crsfn-10372-100292-2017-61 | fichas/crsfn/2018-05.md |
-| pas | RJ2015/5813 | 2018-07-13 | condenacao | cvm-pas-rj2015-5813 | fichas/pas/2018-05.md |
-| pas | RJ2015/13651 | 2018-06-19 | condenacao | cvm-pas-rj2015-13651 | fichas/pas/2018-04.md |
-| pas | 01/2014 | 2018-06-19 | condenacao | cvm-pas-01-2014 | fichas/pas/2018-04.md |
-| termo-compromisso | 19957.009216/2017-16 | 2018-05-22 | aceito | cvm-col-20180522-d1035 | fichas/tc/2018-03.md |
-| termo-compromisso | 19957.008922/2017-41 | 2018-05-22 | aceito | cvm-col-20180522-d1033 | fichas/tc/2018-03.md |
-| termo-compromisso | 19957.006298/2016-66 | 2018-04-24 | aceito | cvm-col-20180424-d0952 | fichas/tc/2018-02.md |
-| decisao-colegiado | 358/2002; 19957.009291/2017-87 | 2018-04-24 | parcial | cvm-col-20180424-d0800 | fichas/colegiado/2018-08.md |
-| termo-compromisso | 19957.002950/2017-54 | 2018-03-27 | aceito | cvm-col-20180327-d0807 | fichas/tc/2018-02.md |
-| acordao-crsfn | RJ2013/1730 | 2018-03-20 | absolvicao | crsfn-14396 | fichas/crsfn/2018-02.md |
-| decisao-colegiado | 19957.003622/2017-75 | 2018-03-13 | nao-provido | cvm-col-20180313-d0906 | fichas/colegiado/2018-06.md |
-| termo-compromisso | 19957.004057/2017-63 | 2018-02-20 | aceito | cvm-col-20180220-d0964 | fichas/tc/2018-01.md |
-| termo-compromisso | 19957.006298/2016-66 | 2018-02-20 | rejeitado | cvm-col-20180220-d0952 | fichas/tc/2018-01.md |
-| pas | RJ2014/1785 | 2017-12-19 | condenacao | cvm-pas-rj2014-1785 | fichas/pas/2017-06.md |
-| termo-compromisso | 19957.008559/2016-82 | 2017-12-19 | aceito | cvm-col-20171219-d0877 | fichas/tc/2017-06.md |
-| pas | SP2013/94 | 2017-12-14 | condenacao | cvm-pas-sp2013-0094 | fichas/pas/2017-06.md |
-| termo-compromisso | 19957.006301/2016-41 | 2017-12-12 | aceito | cvm-col-20171212-d0862 | fichas/tc/2017-05.md |
-| acordao-crsfn | IA2010/23 | 2017-12-12 | parcial | crsfn-14230 | fichas/crsfn/2017-08.md |
-| pas | RJ2014/577 | 2017-12-11 | absolvicao | cvm-pas-rj2014-0577 | fichas/pas/2017-05.md |
-| pas | RJ2014/3401 | 2017-12-05 | absolvicao | cvm-pas-rj2014-3401 | fichas/pas/2017-04.md |
-| termo-compromisso | 19957.002583/2017-99; RJ2017/1358 | 2017-11-21 | aceito | cvm-col-20171121-d0850 | fichas/tc/2017-05.md |
-| termo-compromisso | 19957.003780/2017-25; RJ2017/1858 | 2017-11-14 | rejeitado | cvm-col-20171114-d0846 | fichas/tc/2017-05.md |
-| termo-compromisso | 01/2014 | 2017-11-14 | aceito | cvm-col-20171114-d0048 | fichas/tc/2017-05.md |
-| acordao-crsfn | RJ2012/8010 | 2017-10-24 | parcial | crsfn-14354 | fichas/crsfn/2017-07.md |
-| pas | RJ2016/5039 | 2017-09-26 | — | cvm-pas-rj2016-5039 | fichas/pas/2017-04.md |
-| acordao-crsfn | RJ2014/3225 | 2017-09-19 | condenacao | crsfn-10372-000123-2017-22 | fichas/crsfn/2017-06.md |
-| pas | RJ2014/1020 | 2017-09-12 | condenacao | cvm-pas-rj2014-1020 | fichas/pas/2017-03.md |
-| decisao-colegiado | RJ2014/0577 | 2017-09-05 | nao-provido | cvm-col-20170905-d9591 | fichas/colegiado/2017-15.md |
-| termo-compromisso | 19957.000923/2017-47 | 2017-08-08 | aceito | cvm-col-20170808-d0764 | fichas/tc/2017-03.md |
-| termo-compromisso | 19957.004336/2016-46; RJ2016/6048 | 2017-08-08 | aceito | cvm-col-20170808-d0673 | fichas/tc/2017-03.md |
-| acordao-crsfn | 2008/11 | 2017-07-25 | condenacao | crsfn-13454 | fichas/crsfn/2017-06.md |
-| pas | 25/2010 | 2017-07-04 | condenacao | cvm-pas-25-2010 | fichas/pas/2017-03.md |
-| pas | RJ2014/10290 | 2017-06-13 | condenacao | cvm-pas-rj2014-10290 | fichas/pas/2017-03.md |
-| pas | RJ2013/13172 | 2017-06-13 | condenacao | cvm-pas-rj2013-13172 | fichas/pas/2017-02.md |
-| pas | RJ2015/6735 | 2017-05-09 | absolvicao | cvm-pas-rj2015-6735 | fichas/pas/2017-02.md |
-| pas | RJ2013/8609 | 2017-05-09 | condenacao | cvm-pas-rj2013-8609 | fichas/pas/2017-02.md |
-| termo-compromisso | 19957.004336/2016-46; RJ2016/6048 | 2017-05-09 | outro | cvm-col-20170509-d0673 | fichas/tc/2017-02.md |
-| decisao-colegiado | 358/2002; 19957.006290/2016-08 | 2017-05-02 | nao-provido | cvm-col-20170502-d0378 | fichas/colegiado/2017-09.md |
-| termo-compromisso | 19957.004537/2016-43; RJ2016/5849 | 2017-04-18 | aceito | cvm-col-20170418-d0660 | fichas/tc/2017-02.md |
-| acordao-crsfn | RJ-2012-7880 | 2017-04-18 | condenacao | crsfn-13935 | fichas/crsfn/2017-03.md |
-| termo-compromisso | 19957.005966/2016-38; RJ2016/7189 | 2017-04-04 | rejeitado | cvm-col-20170404-d0638 | fichas/tc/2017-01.md |
-| termo-compromisso | 19957.002477/2016-24; RJ2016/4573 | 2017-03-21 | aceito | cvm-col-20170321-d0618 | fichas/tc/2017-01.md |
-| termo-compromisso | 19957.001137/2016-86; RJ2016/5591 | 2017-03-14 | aceito | cvm-col-20170314-d0601 | fichas/tc/2017-01.md |
-| acordao-crsfn | RJ2013/5793 | 2017-03-14 | arquivamento | crsfn-14213 | fichas/crsfn/2017-02.md |
-| pas | RJ2014/10082 | 2017-03-07 | absolvicao | cvm-pas-rj2014-10082 | fichas/pas/2017-01.md |
-| termo-compromisso | 19957.005950/2016-25 | 2017-01-24 | aceito | cvm-col-20170124-d0556 | fichas/tc/2017-01.md |
-| termo-compromisso | 19957.004919/2016-77 | 2017-01-24 | aceito | cvm-col-20170124-d0555 | fichas/tc/2017-01.md |
-| decisao-colegiado | 358/2002; 19957.006290/2016-08 | 2016-12-13 | nao-provido | cvm-col-20161213-d0378 | fichas/colegiado/2016-24.md |
-| acordao-crsfn | 15/2010 | 2016-11-29 | condenacao | crsfn-14432 | fichas/crsfn/2016-05.md |
-| termo-compromisso | RJ2016/6198 | 2016-10-25 | rejeitado | cvm-col-20161025-d0308 | fichas/tc/2016-05.md |
-| termo-compromisso | RJ2016/5683 | 2016-10-11 | rejeitado | cvm-col-20161011-d0278 | fichas/tc/2016-05.md |
-| acordao-crsfn | 29/2000 | 2016-09-27 | parcial | crsfn-14056 | fichas/crsfn/2016-04.md |
-| pas | RJ2015/2666 | 2016-09-13 | absolvicao | cvm-pas-rj2015-2666 | fichas/pas/2016-04.md |
-| pas | RJ2014/3225 | 2016-09-13 | parcial | cvm-pas-rj2014-3225 | fichas/pas/2016-04.md |
-| termo-compromisso | RJ2015/13325 | 2016-09-06 | aceito | cvm-col-20160906-d0346 | fichas/tc/2016-04.md |
-| termo-compromisso | RJ2016/5175 | 2016-09-06 | rejeitado | cvm-col-20160906-d0048 | fichas/tc/2016-04.md |
-| acordao-crsfn | IA-2012-9 | 2016-08-23 | condenacao | crsfn-14211 | fichas/crsfn/2016-03.md |
-| termo-compromisso | RJ2015/2077 | 2016-07-05 | aceito | cvm-col-20160705-d9986 | fichas/tc/2016-03.md |
-| termo-compromisso | RJ2015/3974 | 2016-06-28 | aceito | cvm-col-20160628-d0276 | fichas/tc/2016-03.md |
-| acordao-crsfn | -02/2010 | 2016-06-28 | arquivamento | crsfn-10372-000688-2016-29 | fichas/crsfn/2016-03.md |
-| termo-compromisso | RJ2014/0577 | 2016-06-14 | rejeitado | cvm-col-20160614-d9591 | fichas/tc/2016-03.md |
-| termo-compromisso | RJ2014/14676 | 2016-06-14 | rejeitado | cvm-col-20160614-d9504 | fichas/tc/2016-03.md |
-| termo-compromisso | RJ2015/5813 | 2016-06-14 | rejeitado | cvm-col-20160614-d0254 | fichas/tc/2016-03.md |
-| termo-compromisso | RJ2015/6124 | 2016-05-24 | aceito | cvm-col-20160524-d0216 | fichas/tc/2016-02.md |
-| termo-compromisso | RJ2015/3569 | 2016-05-24 | aceito | cvm-col-20160524-d0215 | fichas/tc/2016-02.md |
-| termo-compromisso | RJ2014/9994 | 2016-05-17 | aceito | cvm-col-20160517-d0207 | fichas/tc/2016-02.md |
-| termo-compromisso | RJ2015/11008 | 2016-04-26 | aceito | cvm-col-20160426-d9904 | fichas/tc/2016-02.md |
-| acordao-crsfn | RJ2011/2789 | 2016-04-26 | condenacao | crsfn-13433 | fichas/crsfn/2016-02.md |
-| termo-compromisso | RJ2015/6735 | 2016-04-19 | — | cvm-col-20160419-d0180 | fichas/tc/2016-01.md |
-| termo-compromisso | RJ2015/1591 | 2016-03-08 | rejeitado | cvm-col-20160308-d0111 | fichas/tc/2016-01.md |
-| pas | RJ2011/3823 | 2015-12-09 | parcial | cvm-pas-rj2011-3823 | fichas/pas/2015-07.md |
-| pas | 15/2010 | 2015-12-08 | condenacao | cvm-pas-15-2010 | fichas/pas/2015-06.md |
-| termo-compromisso | RJ2014/10082 | 2015-11-24 | rejeitado | cvm-col-20151124-d9948 | fichas/tc/2015-04.md |
-| decisao-colegiado | RJ2015/10637 | 2015-10-27 | parcial | cvm-col-20151027-d9906 | fichas/colegiado/2015-20.md |
-| termo-compromisso | RJ2014/12710 | 2015-10-27 | rejeitado | cvm-col-20151027-d9905 | fichas/tc/2015-04.md |
-| termo-compromisso | RJ2011/3823; RJ2011/13492 | 2015-10-20 | rejeitado | cvm-col-20151020-d8043 | fichas/tc/2015-04.md |
-| termo-compromisso | RJ2014/14465 | 2015-10-06 | aceito | cvm-col-20151006-d9869 | fichas/tc/2015-03.md |
-| pas | SP2013/12 | 2015-08-18 | absolvicao | cvm-pas-sp2013-0012 | fichas/pas/2015-05.md |
-| pas | RJ2013/1730 | 2015-08-18 | absolvicao | cvm-pas-rj2013-1730 | fichas/pas/2015-05.md |
-| termo-compromisso | RJ2014/9909 | 2015-08-18 | aceito | cvm-col-20150818-d9791 | fichas/tc/2015-03.md |
-| acordao-crsfn | IA-2009-13 | 2015-07-28 | parcial | crsfn-13447 | fichas/crsfn/2015-03.md |
-| acordao-crsfn | 13/2009 | 2015-07-28 | parcial | crsfn-13422 | fichas/crsfn/2015-03.md |
-| acordao-crsfn | RJ2011/3665 | 2015-07-28 | condenacao | crsfn-13415 | fichas/crsfn/2015-03.md |
-| acordao-crsfn | RJ2010/1666 | 2015-07-28 | absolvicao | crsfn-13412 | fichas/crsfn/2015-03.md |
-| pas | RJ2012/8010 | 2015-07-21 | parcial | cvm-pas-rj2012-8010 | fichas/pas/2015-04.md |
-| pas | RJ2013/9904 | 2015-04-28 | condenacao | cvm-pas-rj2013-9904 | fichas/pas/2015-02.md |
-| pas | RJ2013-10579 | 2015-03-10 | absolvicao | cvm-pas-rj2013-10579 | fichas/pas/2015-01.md |
-| termo-compromisso | 10/2012 | 2015-02-24 | rejeitado | cvm-col-20150224-d9575 | fichas/tc/2015-01.md |
-| pas | RJ2013/5793 | 2015-01-27 | absolvicao | cvm-pas-rj2013-5793 | fichas/pas/2015-01.md |
-| termo-compromisso | RJ2012/9808 | 2015-01-06 | rejeitado | cvm-col-20150106-d9487 | fichas/tc/2015-01.md |
-| termo-compromisso | RJ2014/5102 | 2014-12-16 | aceito | cvm-col-20141216-d06 | fichas/tc/2014-06.md |
-| termo-compromisso | RJ2013/13240 | 2014-12-09 | aceito | cvm-col-20141209-d06 | fichas/tc/2014-05.md |
-| termo-compromisso | 26/2010 | 2014-12-09 | aceito | cvm-col-20141209-d01 | fichas/tc/2014-05.md |
-| acordao-crsfn | IA-2008-10 | 2014-12-09 | condenacao | crsfn-13283 | fichas/crsfn/2014-07.md |
-| acordao-crsfn | 0007/2004 | 2014-12-09 | parcial | crsfn-11751 | fichas/crsfn/2014-07.md |
-| termo-compromisso | RJ2013/9904 | 2014-12-02 | rejeitado | cvm-col-20141202-d17 | fichas/tc/2014-05.md |
-| termo-compromisso | RJ2011/4690; RJ2011/6787 | 2014-12-02 | aceito | cvm-col-20141202-d12 | fichas/tc/2014-04.md |
-| termo-compromisso | RJ2013/8609 | 2014-12-02 | rejeitado | cvm-col-20141202-d09 | fichas/tc/2014-04.md |
-| pas | 09/2012 | 2014-11-25 | condenacao | cvm-pas-09-2012 | fichas/pas/2014-05.md |
-| acordao-crsfn | 0019/2009 | 2014-11-25 | condenacao | crsfn-13311 | fichas/crsfn/2014-06.md |
-| acordao-crsfn | 0021/2005 | 2014-11-25 | absolvicao | crsfn-13228 | fichas/crsfn/2014-06.md |
-| acordao-crsfn | 0004/2004 | 2014-11-25 | parcial | crsfn-10979 | fichas/crsfn/2014-06.md |
-| pas | RJ2012/13047 | 2014-11-04 | parcial | cvm-pas-rj2012-13047 | fichas/pas/2014-04.md |
-| pas | 23/2010 | 2014-11-04 | parcial | cvm-pas-23-2010 | fichas/pas/2014-04.md |
-| termo-compromisso | RJ2014/8814 | 2014-11-04 | rejeitado | cvm-col-20141104-d04 | fichas/tc/2014-03.md |
-| acordao-crsfn | 0019/2006 | 2014-10-21 | arquivamento | crsfn-13233 | fichas/crsfn/2014-05.md |
-| pas | RJ2013/2714 | 2014-10-07 | condenacao | cvm-pas-rj2013-2714 | fichas/pas/2014-03.md |
-| pas | RJ2013/11654 | 2014-09-23 | absolvicao | cvm-pas-rj2013-11654 | fichas/pas/2014-03.md |
-| termo-compromisso | RJ2013/13121 | 2014-07-15 | aceito | cvm-col-20140715-d03 | fichas/tc/2014-02.md |
-| acordao-crsfn | 13/06 | 2014-06-03 | condenacao | crsfn-12947 | fichas/crsfn/2014-03.md |
-| termo-compromisso | RJ2013/11917 | 2014-05-06 | rejeitado | cvm-col-20140506-d14 | fichas/tc/2014-01.md |
-| termo-compromisso | RJ2013/13121 | 2014-05-06 | rejeitado | cvm-col-20140506-d04 | fichas/tc/2014-01.md |
-| acordao-crsfn | IA-2006-22 | 2014-03-18 | absolvicao | crsfn-13004 | fichas/crsfn/2014-02.md |
-| pas | 29/2000 | 2013-12-17 | parcial | cvm-pas-29-2000 | fichas/pas/2013-07.md |
-| termo-compromisso | RJ2013/8135 | 2013-12-10 | rejeitado | cvm-col-20131210-d04 | fichas/tc/2013-05.md |
-| pas | RJ2012/7880 | 2013-11-19 | condenacao | cvm-pas-rj2012-7880 | fichas/pas/2013-05.md |
-| acordao-crsfn | RJ-2009-13459 | 2013-09-25 | condenacao | crsfn-13264 | fichas/crsfn/2013-04.md |
-| termo-compromisso | RJ2013/1730 | 2013-09-10 | rejeitado | cvm-col-20130910-d03 | fichas/tc/2013-04.md |
-| termo-compromisso | RJ2013/1052 | 2013-09-10 | aceito | cvm-col-20130910-d01 | fichas/tc/2013-04.md |
-| termo-compromisso | RJ2012/2833 | 2013-08-27 | aceito | cvm-col-20130827-d02 | fichas/tc/2013-04.md |
-| termo-compromisso | 23/2010 | 2013-07-30 | rejeitado | cvm-col-20130730-d02 | fichas/tc/2013-03.md |
-| acordao-crsfn | IA-2005-25 | 2013-07-30 | absolvicao | crsfn-12627 | fichas/crsfn/2013-02.md |
-| pas | 02/2010 | 2013-07-09 | absolvicao | cvm-pas-02-2010 | fichas/pas/2013-03.md |
-| termo-compromisso | RJ2013/2270 | 2013-06-25 | aceito | cvm-col-20130625-d01 | fichas/tc/2013-03.md |
-| acordao-crsfn | 24/05 | 2013-02-26 | parcial | crsfn-12358 | fichas/crsfn/2013-01.md |
-| termo-compromisso | 20/2009 | 2012-12-18 | aceito | cvm-col-20121218-d03 | fichas/tc/2012-06.md |
-| acordao-crsfn | 07/07 | 2012-12-05 | parcial | crsfn-13069 | fichas/crsfn/2012-05.md |
-| acordao-crsfn | SP-2007-0118 | 2012-12-05 | parcial | crsfn-12042 | fichas/crsfn/2012-04.md |
-| termo-compromisso | RJ2012/4588 | 2012-10-16 | aceito | cvm-col-20121016-d01 | fichas/tc/2012-05.md |
-| termo-compromisso | RJ2011/9304 | 2012-10-02 | aceito | cvm-col-20121002-d02 | fichas/tc/2012-05.md |
-| acordao-crsfn | SP-2005-155 | 2012-09-25 | parcial | crsfn-11744 | fichas/crsfn/2012-04.md |
-| pas | RJ2011/2789 | 2012-08-28 | absolvicao | cvm-pas-rj2011-2789 | fichas/pas/2012-02.md |
-| pas | 11/2008 | 2012-08-21 | absolvicao | cvm-pas-11-2008 | fichas/pas/2012-02.md |
-| termo-compromisso | RJ2011/13279 | 2012-07-24 | aceito | cvm-col-20120724-d03 | fichas/tc/2012-04.md |
-| decisao-colegiado | RJ2011/1871 | 2012-07-10 | nao-provido | cvm-col-20120710-d09 | fichas/colegiado/2012-12.md |
-| termo-compromisso | RJ2010/2419 | 2012-07-03 | aceito | cvm-col-20120703-d25 | fichas/tc/2012-04.md |
-| termo-compromisso | RJ2011/13492 | 2012-06-19 | rejeitado | cvm-col-20120619-d01 | fichas/tc/2012-03.md |
-| termo-compromisso | RJ2009/5327 | 2012-04-10 | rejeitado | cvm-col-20120410-d01 | fichas/tc/2012-02.md |
-| pas | RJ2011/3665 | 2012-04-03 | condenacao | cvm-pas-rj2011-3665 | fichas/pas/2012-01.md |
-| pas | RJ2010/1666 | 2012-04-03 | absolvicao | cvm-pas-rj2010-1666 | fichas/pas/2012-01.md |
-| pas | 11/2009 | 2012-04-03 | absolvicao | cvm-pas-11-2009 | fichas/pas/2012-01.md |
-| termo-compromisso | 06/2010 | 2012-01-24 | aceito | cvm-col-20120124-d01 | fichas/tc/2012-01.md |
-| pas | RJ2010/14407 | 2011-12-13 | condenacao | cvm-pas-rj2010-14407 | fichas/pas/2011-03.md |
-| pas | 13/2009 | 2011-12-13 | parcial | cvm-pas-13-2009 | fichas/pas/2011-03.md |
-| decisao-colegiado | 13/2009 | 2011-10-25 | nao-provido | cvm-col-20111025-d06 | fichas/colegiado/2011-23.md |
-| termo-compromisso | 18/2009 | 2011-10-04 | aceito | cvm-col-20111004-d04 | fichas/tc/2011-04.md |
-| termo-compromisso | RJ2011/7288 | 2011-09-06 | rejeitado | cvm-col-20110906-d03 | fichas/tc/2011-03.md |
-| pas | RJ2010/4206 | 2011-08-23 | absolvicao | cvm-pas-rj2010-4206 | fichas/pas/2011-02.md |
-| pas | 19/2009 | 2011-06-07 | condenacao | cvm-pas-19-2009 | fichas/pas/2011-01.md |
-| termo-compromisso | RJ2009/5327 | 2011-06-07 | rejeitado | cvm-col-20110607-d02 | fichas/tc/2011-03.md |
-| termo-compromisso | RJ2010/11519 | 2011-03-22 | aceito | cvm-col-20110322-d03 | fichas/tc/2011-02.md |
-| termo-compromisso | RJ2009/5327 | 2011-02-15 | rejeitado | cvm-col-20110215-d06 | fichas/tc/2011-01.md |
-| pas | RJ2009/13459 | 2010-11-30 | condenacao | cvm-pas-rj2009-13459 | fichas/pas/2010-05.md |
-| pas | 19/2006 | 2010-11-30 | absolvicao | cvm-pas-19-2006 | fichas/pas/2010-05.md |
-| termo-compromisso | RJ2008/3539 | 2010-11-30 | aceito | cvm-col-20101130-d06 | fichas/tc/2010-06.md |
-| pas | 10/2008 | 2010-11-23 | condenacao | cvm-pas-10-2008 | fichas/pas/2010-04.md |
-| pas | 21/2005 | 2010-10-26 | absolvicao | cvm-pas-21-2005 | fichas/pas/2010-04.md |
-| termo-compromisso | RJ2010/0926 | 2010-10-19 | outro | cvm-col-20101019-d09 | fichas/tc/2010-05.md |
-| termo-compromisso | RJ2010/2411 | 2010-10-05 | aceito | cvm-col-20101005-d12 | fichas/tc/2010-05.md |
-| termo-compromisso | RJ2010/1144 | 2010-09-21 | aceito | cvm-col-20100921-d07 | fichas/tc/2010-05.md |
-| termo-compromisso | 19/2006 | 2010-09-14 | aceito | cvm-col-20100914-d02 | fichas/tc/2010-04.md |
-| acordao-crsfn | 01/03 | 2010-09-14 | absolvicao | crsfn-11414 | fichas/crsfn/2010-07.md |
-| termo-compromisso | 21/2005 | 2010-09-09 | rejeitado | cvm-col-20100909-d02 | fichas/tc/2010-04.md |
-| termo-compromisso | RJ2009/8286 | 2010-08-24 | aceito | cvm-col-20100824-d01 | fichas/tc/2010-04.md |
-| termo-compromisso | RJ2009/8286 | 2010-07-20 | rejeitado | cvm-col-20100720-d03 | fichas/tc/2010-04.md |
-| termo-compromisso | RJ2009/9579 | 2010-06-22 | aceito | cvm-col-20100622-d02 | fichas/tc/2010-03.md |
-| termo-compromisso | RJ2010/0963 | 2010-06-22 | aceito | cvm-col-20100622-d01 | fichas/tc/2010-03.md |
-| decisao-colegiado | RJ2008/0713 | 2010-04-27 | nao-provido | cvm-col-20100427-d01 | fichas/colegiado/2010-12.md |
-| termo-compromisso | RJ2010/1807 | 2010-04-13 | rejeitado | cvm-col-20100413-d03 | fichas/tc/2010-02.md |
-| termo-compromisso | RJ2009/13069 | 2010-04-13 | aceito | cvm-col-20100413-d02 | fichas/tc/2010-02.md |
-| acordao-crsfn | RJ-2003-5669 | 2010-03-23 | parcial | crsfn-11143 | fichas/crsfn/2010-02.md |
-| acordao-crsfn | RJ-2004-852 | 2010-03-23 | absolvicao | crsfn-11104 | fichas/crsfn/2010-02.md |
-| pas | 07/2007 | 2010-03-16 | parcial | cvm-pas-07-2007 | fichas/pas/2010-01.md |
-| decisao-colegiado | RJ2008/0713 | 2010-02-09 | nao-provido | cvm-col-20100209-d13 | fichas/colegiado/2010-05.md |
-| termo-compromisso | RJ2009/4925 | 2010-02-09 | rejeitado | cvm-col-20100209-d05 | fichas/tc/2010-01.md |
-| termo-compromisso | RJ2009/6349 | 2010-01-26 | rejeitado | cvm-col-20100126-d02 | fichas/tc/2010-01.md |
-| pas | 13/2006 | 2009-12-15 | condenacao | cvm-pas-13-2006 | fichas/pas/2009-05.md |
-| termo-compromisso | RJ2008/9022 | 2009-12-15 | rejeitado | cvm-col-20091215-d03 | fichas/tc/2009-09.md |
-| termo-compromisso | RJ2009/4744 | 2009-12-08 | aceito | cvm-col-20091208-d23 | fichas/tc/2009-09.md |
-| termo-compromisso | RJ2009/6773 | 2009-11-24 | rejeitado | cvm-col-20091124-d03 | fichas/tc/2009-08.md |
-| termo-compromisso | RJ2009/5051 | 2009-11-24 | rejeitado | cvm-col-20091124-d02 | fichas/tc/2009-07.md |
-| termo-compromisso | 13/2006 | 2009-11-17 | rejeitado | cvm-col-20091117-d03 | fichas/tc/2009-07.md |
-| termo-compromisso | 21/2005 | 2009-11-17 | rejeitado | cvm-col-20091117-d02 | fichas/tc/2009-07.md |
-| pas | 22/2006 | 2009-10-20 | absolvicao | cvm-pas-22-2006 | fichas/pas/2009-05.md |
-| termo-compromisso | 22/2006 | 2009-10-20 | aceito | cvm-col-20091020-d06 | fichas/tc/2009-07.md |
-| termo-compromisso | RJ2009/6349 | 2009-10-13 | outro | cvm-col-20091013-d03 | fichas/tc/2009-07.md |
-| termo-compromisso | RJ2009/5351 | 2009-10-13 | outro | cvm-col-20091013-d02 | fichas/tc/2009-06.md |
-| termo-compromisso | RJ2009/4925 | 2009-09-15 | rejeitado | cvm-col-20090915-d06 | fichas/tc/2009-06.md |
-| termo-compromisso | RJ2008/10421 | 2009-08-18 | aceito | cvm-col-20090818-d04 | fichas/tc/2009-05.md |
-| termo-compromisso | RJ2008/12124 | 2009-06-23 | rejeitado | cvm-col-20090623-d09 | fichas/tc/2009-04.md |
-| termo-compromisso | RJ2008/12727 | 2009-06-02 | rejeitado | cvm-col-20090602-d10 | fichas/tc/2009-03.md |
-| termo-compromisso | RJ2008/9022 | 2009-06-02 | rejeitado | cvm-col-20090602-d08 | fichas/tc/2009-03.md |
-| pas | 25/2005 | 2009-05-12 | absolvicao | cvm-pas-25-2005 | fichas/pas/2009-02.md |
-| acordao-crsfn | 17/02 | 2009-04-15 | arquivamento | crsfn-9703 | fichas/crsfn/2009-02.md |
-| termo-compromisso | 13/2006 | 2009-04-14 | rejeitado | cvm-col-20090414-d02 | fichas/tc/2009-02.md |
-| termo-compromisso | RJ2008/9514 | 2009-02-10 | rejeitado | cvm-col-20090210-d04 | fichas/tc/2009-01.md |
-| termo-compromisso | RJ2009/0428 | 2009-02-03 | aceito | cvm-col-20090203-d13 | fichas/tc/2009-01.md |
-| pas | RJ2007/14044 | 2008-12-16 | condenacao | cvm-pas-rj2007-14044 | fichas/pas/2008-05.md |
-| termo-compromisso | 13/2006 | 2008-11-04 | rejeitado | cvm-col-20081104-d04 | fichas/tc/2008-07.md |
-| pas | 24/2005 | 2008-10-07 | parcial | cvm-pas-24-2005 | fichas/pas/2008-04.md |
-| pas | 25/2004 | 2008-09-30 | parcial | cvm-pas-25-2004 | fichas/pas/2008-03.md |
-| termo-compromisso | RJ2007/14044 | 2008-08-12 | rejeitado | cvm-col-20080812-d06 | fichas/tc/2008-05.md |
-| termo-compromisso | 22/2006 | 2008-08-12 | aceito | cvm-col-20080812-d05 | fichas/tc/2008-05.md |
-| decisao-colegiado | — | 2008-08-07 | deferido | cvm-col-20080807-d01 | fichas/colegiado/2008-18.md |
-| termo-compromisso | 25/2005 | 2008-07-03 | aceito | cvm-col-20080703-d01 | fichas/tc/2008-05.md |
-| termo-compromisso | RJ2007/11305 | 2008-06-05 | aceito | cvm-col-20080605-d02 | fichas/tc/2008-04.md |
-| termo-compromisso | 26/2006 | 2008-04-25 | aceito | cvm-col-20080425-d03 | fichas/tc/2008-03.md |
-| acordao-crsfn | 11/2004 | 2008-03-26 | absolvicao | crsfn-9225 | fichas/crsfn/2008-01.md |
-| termo-compromisso | RJ2007/10889 | 2008-03-04 | aceito | cvm-col-20080304-d06 | fichas/tc/2008-02.md |
-| termo-compromisso | SP2007/0119 | 2008-03-04 | aceito | cvm-col-20080304-d05 | fichas/tc/2008-02.md |
-| termo-compromisso | RJ2007/12231 | 2008-03-04 | aceito | cvm-col-20080304-d01 | fichas/tc/2008-01.md |
-| pas | SP2007/0118 | 2008-02-26 | condenacao | cvm-pas-sp2007-0118 | fichas/pas/2008-01.md |
-| pas | SP2007/0117 | 2008-02-26 | condenacao | cvm-pas-sp2007-0117 | fichas/pas/2008-01.md |
-| acordao-crsfn | 18/01 | 2008-02-26 | absolvicao | crsfn-8253 | fichas/crsfn/2008-01.md |
-| termo-compromisso | 25/2005 | 2007-12-18 | rejeitado | cvm-col-20071218-d04 | fichas/tc/2007-06.md |
-| decisao-colegiado | — | 2007-08-24 | outro | cvm-col-20070824-d01 | fichas/colegiado/2007-15.md |
-| pas | SP2005/0155 | 2007-08-21 | parcial | cvm-pas-sp2005-0155 | fichas/pas/2007-06.md |
-| pas | 07/2004 | 2007-08-01 | parcial | cvm-pas-07-2004 | fichas/pas/2007-05.md |
-| termo-compromisso | 25/2004 | 2007-07-03 | rejeitado | cvm-col-20070703-d08 | fichas/tc/2007-03.md |
-| pas | 22/2004 | 2007-06-20 | condenacao | cvm-pas-22-2004 | fichas/pas/2007-04.md |
-| termo-compromisso | RJ2006/4234 | 2007-01-30 | aceito | cvm-col-20070130-d03 | fichas/tc/2007-01.md |
-| termo-compromisso | 22/2004 | 2007-01-30 | rejeitado | cvm-col-20070130-d02 | fichas/tc/2007-01.md |
-| acordao-crsfn | IA-2003/6 | 2006-12-13 | absolvicao | crsfn-9254 | fichas/crsfn/2006-02.md |
-| termo-compromisso | 17/2003 | 2006-08-01 | aceito | cvm-col-20060801-d01 | fichas/tc/2006-03.md |
-| pas | RJ2003/5669 | 2006-07-11 | parcial | cvm-pas-rj2003-5669 | fichas/pas/2006-07.md |
-| pas | 04/2004 | 2006-06-28 | parcial | cvm-pas-04-2004 | fichas/pas/2006-07.md |
-| pas | RJ2004/0852 | 2006-05-30 | absolvicao | cvm-pas-rj2004-0852 | fichas/pas/2006-05.md |
-| termo-compromisso | 02/2003 | 2006-05-09 | rejeitado | cvm-col-20060509-d01 | fichas/tc/2006-02.md |
-| acordao-crsfn | 33/00 | 2006-03-06 | parcial | crsfn-4780 | fichas/crsfn/2006-01.md |
-| decisao-colegiado | RJ2005/8456 | 2006-01-03 | outro | cvm-col-20060103-d05 | fichas/colegiado/2006-01.md |
-| pas | 11/2004 | 2005-12-13 | absolvicao | cvm-pas-11-2004 | fichas/pas/2005-10.md |
-| pas | 17/2002 | 2005-10-25 | parcial | cvm-pas-17-2002 | fichas/pas/2005-07.md |
-| pas | 06/2003 | 2005-09-14 | absolvicao | cvm-pas-06-2003 | fichas/pas/2005-06.md |
-| pas | RJ2003/5627 | 2005-01-28 | condenacao | cvm-pas-rj2003-5627 | fichas/pas/2005-01.md |
-| acordao-crsfn | 13/00 | 2004-12-14 | absolvicao | crsfn-4195 | fichas/crsfn/2004-03.md |
-| pas | 18/2001 | 2004-11-04 | parcial | cvm-pas-18-2001 | fichas/pas/2004-07.md |
-| decisao-colegiado | RJ2002/6749 | 2004-10-25 | outro | cvm-col-20041025-d03 | fichas/colegiado/2004-12.md |
-| pas | 33/2000 | 2002-12-20 | condenacao | cvm-pas-33-2000 | fichas/pas/2002-04.md |
-| pas | 13/2000 | 2002-04-17 | absolvicao | cvm-pas-13-2000 | fichas/pas/2002-02.md |
-| acordao-crsfn | 09/92 | 1998-04-28 | parcial | crsfn-2406 | fichas/crsfn/1998-01.md |
+| Tipo | Processo | Data | Resultado | Ementa | Id | Ficha |
+|---|---|---|---|---|---|---|
+| pas | 19957.010788/2019-18 | 2026-07-28 | absolvicao | Apurar suposta utilização de informação relevante ainda não divulgada ao mercado em negócios realizados com ações de emissão do Banco… | cvm-pas-19957-010788-2019-18 | fichas/pas/2026-02.md |
+| termo-compromisso | 19957.000946/2023-08 | 2026-06-23 | rejeitado | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou proposta de termo de compromisso de diretor executivo financeiro da… | cvm-col-20260623-d3392 | fichas/tc/2026-02.md |
+| termo-compromisso | 19957.003236/2023-21 | 2025-12-02 | aceito | O Colegiado aceitou, por unanimidade, a proposta de termo de compromisso de um membro do conselho de administração da 3R Petroleum Óleo e… | cvm-col-20251202-d3425 | fichas/tc/2025-05.md |
+| acordao-crsfn | 19957.016206/2023-85 | 2025-11-11 | absolvicao | RECURSO ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. COMPANHIA ABERTA. NEGOCIAÇÃO DE ATIVOS EM PERÍODOS VEDADOS. Apuração da responsabilidade… | crsfn-19957-016206-2023-85 | fichas/crsfn/2025-07.md |
+| termo-compromisso | 19957.000663/2025-10 | 2025-10-07 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou proposta de termo de compromisso de um diretor da Vivara Participações S.A… | cvm-col-20251007-d3381 | fichas/tc/2025-04.md |
+| decisao-colegiado | 19957.002328/2025-56 | 2025-08-12 | nao-provido | O Colegiado negou provimento, por unanimidade, a recurso do Esh Theta Master Fundo de Investimento Financeiro Multimercado contra decisão… | cvm-col-20250812-d3324 | fichas/colegiado/2025-08.md |
+| termo-compromisso | 19957.001077/2024-10 | 2025-06-03 | rejeitado | O Colegiado, por maioria, negou provimento a pedido de reconsideração de decisão que rejeitou proposta de termo de compromisso de R$… | cvm-col-20250603-d3237 | fichas/tc/2025-03.md |
+| termo-compromisso | 19957.008687/2024-36 | 2025-05-27 | aceito | O Colegiado aceitou, por unanimidade, a proposta de termo de compromisso de um administrador da TIM S.A. que negociou ações da companhia… | cvm-col-20250527-d3285 | fichas/tc/2025-03.md |
+| acordao-crsfn | 19957.007727/2018-84 | 2025-05-14 | absolvicao | RECURSOS ADMINISTRATIVOS. CVM. MERCADO DE CAPITAIS. AQUISIÇÕES INDEVIDAS DE AÇÕES (INSIDER TRADING). Aquisição de ações CGRA3 E CGRA4 de… | crsfn-10372-000162-2024-59 | fichas/crsfn/2025-03.md |
+| termo-compromisso | 19957.012215/2023-05 | 2025-04-15 | aceito | O Colegiado, por unanimidade, aceitou proposta de termo de compromisso de fundo de investimento que negociou ações de companhia aberta em… | cvm-col-20250415-d3261 | fichas/tc/2025-02.md |
+| termo-compromisso | 19957.010909/2024-81; 19957.011239/2024-10 | 2025-04-01 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou as propostas de termo de compromisso de um diretor comercial e da Oceanpact… | cvm-col-20250401-d3245 | fichas/tc/2025-02.md |
+| termo-compromisso | 19957.001077/2024-10 | 2025-03-18 | rejeitado | O Colegiado rejeitou, por unanimidade, proposta de termo de compromisso de R$ 300.000,00, em parcela única, de vice-presidente do Banco… | cvm-col-20250318-d3237 | fichas/tc/2025-01.md |
+| termo-compromisso | 19957.014756/2023-60 | 2025-02-18 | aceito | O Colegiado aceitou, por unanimidade, proposta de termo de compromisso de R$ 126.000,00, em parcela única, de executivo comercial da Boa… | cvm-col-20250218-d3226 | fichas/tc/2025-01.md |
+| termo-compromisso | 19957.004081/2024-21 | 2025-02-04 | aceito | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, aceitou proposta conjunta de termo de compromisso de dois membros do… | cvm-col-20250204-d3222 | fichas/tc/2025-01.md |
+| termo-compromisso | 19957.001719/2023-91 | 2025-02-04 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou propostas de termo de compromisso: R$ 694.382,06, atualizados pelo IPCA desde… | cvm-col-20250204-d3218 | fichas/tc/2025-01.md |
+| termo-compromisso | 19957.001404/2024-25 | 2024-12-17 | rejeitado | O Colegiado, por maioria, acompanhando o parecer do Comitê, rejeitou nova proposta de termo de compromisso de proponente em PAS da SMI por… | cvm-col-20241217-d3193 | fichas/tc/2024-07.md |
+| termo-compromisso | 19957.005967/2024-92 | 2024-12-10 | rejeitado | O Colegiado rejeitou, por unanimidade, proposta de termo de compromisso de R$ 127.500,00 do diretor e presidente do conselho de… | cvm-col-20241210-d3185 | fichas/tc/2024-07.md |
+| pas | 19957.016206/2023-85 | 2024-11-26 | parcial | Apurar suposta prática de negociação de ativos em períodos vedados, em infração ao disposto no art. 54 da Resolução CVM nº 160/2022 e no… | cvm-pas-19957-016206-2023-85 | fichas/pas/2024-20.md |
+| termo-compromisso | 19957.002996/2018-54 | 2024-11-26 | rejeitado | O Colegiado rejeitou, por unanimidade, nova proposta de termo de compromisso de R$ 330.000,00 de investidor acusado de negociar ações da… | cvm-col-20241126-d1939 | fichas/tc/2024-06.md |
+| acordao-crsfn | 19957.002923/2017-81 | 2024-11-12 | parcial | RECURSOS ADMINISTRATIVOS. CVM. MERCADO DE CAPITAIS. UTILIZAÇÃO DE INFORMAÇÕES PRIVILEGIADAS EM NEGOCIAÇÕES COM AÇÕES ORDINÁRIAS. INSIDER… | crsfn-10372-000054-2024-86 | fichas/crsfn/2024-07.md |
+| termo-compromisso | 19957.004083/2024-11 | 2024-10-08 | aceito | O Colegiado aceitou, por unanimidade, proposta de termo de compromisso de um diretor e presidente do conselho de administração de companhia… | cvm-col-20241008-d3148 | fichas/tc/2024-05.md |
+| pas | 19957.007285/2022-52 | 2024-08-20 | absolvicao | Apuração de insider trading, em infração ao artigo 155, §1º, da Lei n° 6.404/1976 c/c artigo 13, caput, da Instrução CVM n° 358/2002… | cvm-pas-19957-007285-2022-52 | fichas/pas/2024-12.md |
+| termo-compromisso | 19957.014112/2023-71 | 2024-07-23 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou proposta de termo de compromisso do presidente do conselho de administração da… | cvm-col-20240723-d3102 | fichas/tc/2024-04.md |
+| pas | 19957.009219/2019-11 | 2024-07-02 | absolvicao | Apurar eventual responsabilidade em virtude de (i) negociação de ações com base em informações privilegiadas, em infração ao art. 155, §4º… | cvm-pas-19957-009219-2019-11 | fichas/pas/2024-09.md |
+| pas | 19957.001830/2021-16 | 2024-07-02 | condenacao | Apurar eventual utilização de informação relevante ainda não divulgada ao mercado (art. 13, §1º, da então vigente Instrução CVM nº 358/02… | cvm-pas-19957-001830-2021-16 | fichas/pas/2024-09.md |
+| termo-compromisso | 19957.008851/2023-24 | 2024-06-13 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou proposta de termo de compromisso de controlador indireto da Fras-Le S.A. por… | cvm-col-20240613-d3079 | fichas/tc/2024-04.md |
+| termo-compromisso | 19957.012575/2023-07 | 2024-06-04 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou proposta de termo de compromisso de diretor da Vittia Fertilizantes e… | cvm-col-20240604-d3069 | fichas/tc/2024-03.md |
+| pas | 19957.007727/2018-84 | 2024-05-28 | — | Apurar responsabilidade por supostas aquisições indevidas, no âmbito das compras de 188.900 ações CGRA3 e 342.200 ações CGRA4 de emissão da… | cvm-pas-19957-007727-2018-84 | fichas/pas/2024-06.md |
+| acordao-crsfn | 05/2014; 19957.011659/2019-39 | 2024-05-07 | parcial | RECURSOS ADMINISTRATIVOS. CVM. INSIDER TRADING. UTILIZAÇÃO DE INFORMAÇÃO RELEVANTE AINDA NÃO DIVULGADA AO MERCADO EM NEGÓCIOS COM AÇÕES DE… | crsfn-10372-100193-2021-66 | fichas/crsfn/2024-03.md |
+| termo-compromisso | 19957.008298/2023-20 | 2024-04-16 | aceito | O Colegiado aceitou proposta de termo de compromisso de administrador da Technos S.A. por venda de ações com informação relevante não… | cvm-col-20240416-d2997 | fichas/tc/2024-02.md |
+| pas | 19957.007375/2022-43 | 2024-03-26 | absolvicao | Apuração de insider trading, em infração ao §1º do artigo 155 da Lei n° 6.404/1976 c/c artigo 13, caput, da Instrução CVM n° 358/2002… | cvm-pas-19957-007375-2022-43 | fichas/pas/2024-04.md |
+| termo-compromisso | 19957.012140/2023-54 | 2024-03-12 | aceito | O Colegiado aceitou, por unanimidade, proposta de termo de compromisso de R$ 127.500,00 do proponente, diretor presidente da Armac Locação… | cvm-col-20240312-d3028 | fichas/tc/2024-01.md |
+| termo-compromisso | 19957.009842/2023-51 | 2024-01-30 | rejeitado | O Colegiado rejeitou, por unanimidade, proposta de termo de compromisso de R$ 949.995,00 em seis parcelas com IPCA, de proponente… | cvm-col-20240130-d3011 | fichas/tc/2024-01.md |
+| termo-compromisso | 19957.008298/2023-20 | 2024-01-16 | outro | O Colegiado, por unanimidade, devolveu o processo ao Comitê para reavaliar parâmetros da obrigação pecuniária de termo de compromisso de R$… | cvm-col-20240116-d2997 | fichas/tc/2024-01.md |
+| termo-compromisso | 19957.012142/2023-43 | 2024-01-09 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê de TC, aceitou a proposta de termo de compromisso de diretor da Multilaser Industrial… | cvm-col-20240109-d2993 | fichas/tc/2024-01.md |
+| termo-compromisso | 19957.003900/2023-32 | 2024-01-09 | aceito | O Colegiado aceitou, por unanimidade, proposta de termo de compromisso de gestora de fundo de ações que se autodenunciou por negociação de… | cvm-col-20240109-d2992 | fichas/tc/2024-01.md |
+| acordao-crsfn | 19957.011337/2019-90 | 2023-11-05 | condenacao | RECURSO ADMINISTRATIVO. CVM. RESPONSABILIDADE DE ADMINISTRADOR. DESCUMPRIMENTO DE DEVER DE LEALDADE. Infração ao art. 154, §2°, alínea “c”… | crsfn-10372-100043-2023-14 | fichas/crsfn/2023-08.md |
+| pas | 19957.005390/2017-90 | 2023-10-31 | parcial | Apuração de eventual manipulação de preços, uso indevido de informação privilegiada, negociação de ativos em período vedado, violação ao… | cvm-pas-19957-005390-2017-90 | fichas/pas/2023-13.md |
+| termo-compromisso | 19957.007124/2023-40 | 2023-10-31 | aceito | O Colegiado aceitou a proposta de termo de compromisso de diretor da Multiplan Empreendimentos Imobiliários S.A. por suposta negociação em… | cvm-col-20231031-d2954 | fichas/tc/2023-07.md |
+| termo-compromisso | 19957.014436/2022-29 | 2023-10-10 | aceito | O Colegiado aceitou proposta conjunta de termo de compromisso da companhia aberta e de seu diretor de RI, acusados de negociar ações da… | cvm-col-20231010-d2942 | fichas/tc/2023-06.md |
+| termo-compromisso | 19957.003178/2023-36 | 2023-10-10 | aceito | O Colegiado aceitou, acompanhando o Comitê, proposta de termo de compromisso de R$ 127.500,00, em parcela única, de diretor de companhia… | cvm-col-20231010-d2941 | fichas/tc/2023-06.md |
+| termo-compromisso | 19957.001830/2021-16 | 2023-10-03 | rejeitado | O Colegiado rejeitou, por unanimidade, as propostas de termo de compromisso de três proponentes acusados, em tese, de quebra do dever de… | cvm-col-20231003-d2938 | fichas/tc/2023-06.md |
+| pas | 19957.002923/2017-81 | 2023-09-26 | parcial | Apurar eventual utilização de informações privilegiadas em negociações com ações ordinárias de emissão da Diagnósticos da América S.A., no… | cvm-pas-19957-002923-2017-81 | fichas/pas/2023-11.md |
+| termo-compromisso | 19957.003173/2023-11 | 2023-09-26 | aceito | O Colegiado, por unanimidade, acompanhando as conclusões do Comitê, aceitou proposta de termo de compromisso de vice-presidente executivo… | cvm-col-20230926-d2931 | fichas/tc/2023-06.md |
+| acordao-crsfn | 19957.007486/2018-73; RJ2018/4967 | 2023-09-12 | parcial | RECURSO VOLUNTÁRIO. INSIDER TRADING, NÃO ENVIO DE FORMULÁRIO DE REFERÊNCIA, FALHA INFORMACIONAL. NEGOCIAÇÃO DE AÇÕES COM BASE EM… | crsfn-10372-100170-2021-51 | fichas/crsfn/2023-07.md |
+| termo-compromisso | 19957.003391/2022-67 | 2023-07-25 | aceito | O Colegiado aceitou proposta de termo de compromisso de membro do conselho de administração da Marisa Lojas S.A., acusado de adquirir ações… | cvm-col-20230725-d2903 | fichas/tc/2023-05.md |
+| termo-compromisso | 19957.015356/2022-91 | 2023-07-25 | aceito | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, aceitou proposta de termo de compromisso de membro do conselho de… | cvm-col-20230725-d2902 | fichas/tc/2023-05.md |
+| termo-compromisso | 19957.008246/2022-72 | 2023-07-11 | aceito | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, aceitou proposta de termo de compromisso de membro do conselho de… | cvm-col-20230711-d2891 | fichas/tc/2023-04.md |
+| termo-compromisso | 19957.004454/2021-11 | 2023-05-23 | aceito | O Colegiado aceitou proposta de termo de compromisso de administrador e conselheiro fiscal do Banco do Estado do Rio Grande do Sul S.A… | cvm-col-20230523-d2862 | fichas/tc/2023-04.md |
+| termo-compromisso | 19957.014736/2022-16 | 2023-05-09 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou proposta de termo de compromisso de diretor de relações com investidores da… | cvm-col-20230509-d2853 | fichas/tc/2023-04.md |
+| termo-compromisso | 19957.010177/2022-67 | 2023-04-18 | aceito | O Colegiado aceitou, por unanimidade, proposta de termo de compromisso do Puma Master Fundo de Investimento Multimercado – Crédito Privado… | cvm-col-20230418-d2843 | fichas/tc/2023-03.md |
+| termo-compromisso | 19957.014735/2022-63 | 2023-04-18 | aceito | O Colegiado aceitou proposta de termo de compromisso de R$ 127.500,00, em parcela única, apresentada por diretor presidente de companhia… | cvm-col-20230418-d2841 | fichas/tc/2023-03.md |
+| termo-compromisso | 19957.005711/2022-13 | 2023-04-18 | aceito | O Colegiado, acompanhando o parecer do Comitê e as considerações do Presidente sobre a autodenúncia, aceitou proposta de termo de… | cvm-col-20230418-d2838 | fichas/tc/2023-03.md |
+| termo-compromisso | 19957.013397/2022-42 | 2023-04-11 | aceito | O Colegiado, acompanhando o parecer do Comitê, aceitou proposta de termo de compromisso de diretor vice-presidente da Vibra Energia por… | cvm-col-20230411-d2834 | fichas/tc/2023-03.md |
+| termo-compromisso | 19957.013845/2022-16 | 2023-04-11 | aceito | O Colegiado aceitou, por unanimidade, proposta de termo de compromisso de R$ 140.000,00 da controladora da A.S.S.C. S.A., por negociação em… | cvm-col-20230411-d2828 | fichas/tc/2023-03.md |
+| termo-compromisso | 19957.006925/2022-15 | 2023-04-04 | aceito | O Colegiado, acompanhando o parecer do Comitê, aceitou duas propostas de termo de compromisso de diretores operacionais da Tenda S.A. por… | cvm-col-20230404-d2827 | fichas/tc/2023-03.md |
+| termo-compromisso | 19957.011788/2022-22 | 2023-03-28 | aceito | O Colegiado, acompanhando o parecer do Comitê, aceitou proposta de termo de compromisso de diretor presidente de companhia aberta por… | cvm-col-20230328-d2817 | fichas/tc/2023-02.md |
+| pas | 19957.005573/2020-19 | 2023-03-21 | absolvicao | Apuração de insider trading, em infração ao art. 155, §1º, da Lei n° 6.404/1976 c/c art. 13, caput, da Instrução CVM n° 358/2002… | cvm-pas-19957-005573-2020-19 | fichas/pas/2023-02.md |
+| acordao-crsfn | RJ2015/13651 | 2023-03-08 | outro | EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÃO E CONTRADIÇÃO NO ACÓRDÃO 56/2021. Ausência de pressupostos por não identificar omissão e… | crsfn-10372-100002-2019-41-2 | fichas/crsfn/2023-02.md |
+| termo-compromisso | 19957.010792/2022-73 | 2023-02-14 | aceito | O Colegiado aceitou proposta de termo de compromisso de R$ 170.000,00, em parcela única, apresentada por diretor de companhia aberta por… | cvm-col-20230214-d2800 | fichas/tc/2023-02.md |
+| termo-compromisso | 19957.004386/2022-71 | 2023-01-31 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou a proposta de termo de compromisso do diretor presidente da Clear Sale S.A… | cvm-col-20230131-d2791 | fichas/tc/2023-01.md |
+| termo-compromisso | 19957.000582/2022-77 | 2023-01-10 | aceito | O Colegiado, por unanimidade e acompanhando o parecer do Comitê, aceitou proposta de termo de compromisso de membro do conselho de… | cvm-col-20230110-d2778 | fichas/tc/2023-01.md |
+| termo-compromisso | 19957.007273/2022-28 | 2022-10-25 | aceito | O Colegiado, por unanimidade e acompanhando o Comitê, aceitou a proposta de termo de compromisso de diretor operacional de companhia… | cvm-col-20221025-d2712 | fichas/tc/2022-05.md |
+| termo-compromisso | 19957.010074/2021-16 | 2022-09-13 | aceito | O Colegiado aceitou, por unanimidade e acompanhando o Comitê, a proposta conjunta de termo de compromisso de dois administradores da… | cvm-col-20220913-d2685 | fichas/tc/2022-04.md |
+| termo-compromisso | 19957.005385/2020-82 | 2022-05-10 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso de um investidor acusado de front running em contratos futuros de boi gordo (ICVM… | cvm-col-20220510-d2575 | fichas/tc/2022-02.md |
+| termo-compromisso | 19957.006367/2021-07 | 2022-04-12 | aceito | O Colegiado aceitou proposta de termo de compromisso de R$ 170.000,00, em parcela única, de diretor de relações com investidores de… | cvm-col-20220412-d2558 | fichas/tc/2022-02.md |
+| acordao-crsfn | 26/2010 | 2022-04-12 | outro | EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÃO REFERENTE A PEDIDOS DE DIMINUIÇÃO DE PENAS. NÃO CARACTERIZADA. Embargos rejeitados. | crsfn-edcl-10372 | fichas/crsfn/2022-03.md |
+| acordao-crsfn | RJ2014/3616 | 2022-04-12 | condenacao | RECURSOS VOLUNTÁRIOS. NEGOCIAÇÃO DE VALORES MOBILIÁRIOS DE POSSE DE INFORMAÇÕES RELEVANTES SOBRE A SOCIEDADE ANTES DA DIVULGAÇÃO AO… | crsfn-10372-100225-2019-17 | fichas/crsfn/2022-03.md |
+| termo-compromisso | 19957.004542/2020-32 | 2022-04-05 | aceito | O Colegiado aceitou, por unanimidade e acompanhando o Comitê, nova proposta de termo de compromisso do presidente do conselho de… | cvm-col-20220405-d2401 | fichas/tc/2022-02.md |
+| termo-compromisso | 19957.002923/2017-81 | 2022-04-05 | aceito | O Colegiado, por unanimidade e acompanhando o Comitê, aceitou proposta de termo de compromisso de investidora acusada de usar informações… | cvm-col-20220405-d1942 | fichas/tc/2022-02.md |
+| decisao-colegiado | 19957.007855/2020-42 | 2022-03-15 | outro | O Colegiado conheceu do recurso de instituição financeira apenas para orientar o mercado e, no mérito, acompanhou o voto do Presidente, que… | cvm-col-20220315-d2232 | fichas/colegiado/2022-03.md |
+| termo-compromisso | 19957.005645/2021-09 | 2022-02-22 | aceito | O Colegiado, por unanimidade e acompanhando o Comitê, aceitou proposta de termo de compromisso de proponente autodenunciado por negociar… | cvm-col-20220222-d2485 | fichas/tc/2022-01.md |
+| termo-compromisso | 19957.008605/2020-20 | 2022-01-25 | aceito | O Colegiado aceitou a proposta de termo de compromisso do proponente, administrador da Hapvida, com pagamento de R$ 267.118,88 (IPCA desde… | cvm-col-20220125-d2463 | fichas/tc/2022-01.md |
+| acordao-crsfn | RJ2014/578 | 2021-12-08 | condenacao | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. RECURSO VOLUNTÁRIO. Uso de informação privilegiada. Manipulação de preços. Recurso conhecido e desprovido. | crsfn-10372-100245-2019-80 | fichas/crsfn/2021-06.md |
+| termo-compromisso | 19957.004542/2020-32 | 2021-11-30 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de R$ 20.000,00 de presidente do conselho da Trisul S.A. por negociação de ações… | cvm-col-20211130-d2401 | fichas/tc/2021-08.md |
+| termo-compromisso | 19957.001931/2020-14 | 2021-11-23 | aceito | O Colegiado, acompanhando o voto do relator, aceitou nova proposta de termo de compromisso de R$ 20.203.194,00, atualizado pelo IPCA desde… | cvm-col-20211123-d2317 | fichas/tc/2021-08.md |
+| termo-compromisso | 19957.004151/2021-07 | 2021-10-19 | aceito | O Colegiado aceitou, por unanimidade e acompanhando o Comitê, proposta conjunta de Termo de Compromisso de três pessoas jurídicas, duas… | cvm-col-20211019-d2343 | fichas/tc/2021-07.md |
+| termo-compromisso | 19957.001970/2021-94 | 2021-10-05 | aceito | O Colegiado aceitou, por unanimidade e acompanhando o Comitê, proposta de Termo de Compromisso de acionista controlador e membro do… | cvm-col-20211005-d2331 | fichas/tc/2021-07.md |
+| termo-compromisso | 19957.001931/2020-14 | 2021-10-05 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso do presidente do conselho de administração da Marfrig Global Foods S.A… | cvm-col-20211005-d2317 | fichas/tc/2021-06.md |
+| termo-compromisso | 19957.001392/2021-96 | 2021-10-05 | outro | O Colegiado aceitou, por unanimidade e acompanhando o Comitê, duas propostas de Termo de Compromisso de investidores por suposto uso de… | cvm-col-20211005-d2316 | fichas/tc/2021-06.md |
+| termo-compromisso | 19957.008821/2020-75 | 2021-08-24 | aceito | O Colegiado, acompanhando o Comitê, aceitou a proposta de termo de compromisso de diretor e conselheiro do Grupo de Moda Soma S.A., que… | cvm-col-20210824-d2278 | fichas/tc/2021-05.md |
+| decisao-colegiado | 06/2020; 358/2002; 19957.007901/2016-27 | 2021-08-04 | — | O Colegiado iniciou a discussão dos documentos da Audiência Pública SDM 06/2020, sobre minuta que revisa a Instrução CVM 358/2002… | cvm-col-20210804-d1896 | fichas/colegiado/2021-13.md |
+| acordao-crsfn | 26/2010 | 2021-07-13 | condenacao | RECURSO VOLUNTÁRIO. Negociação de ações mediante uso de informações privilegiadas. Insider secundário. Penalidade de Multa. Não provimento. | crsfn-10372-100229-2019-97 | fichas/crsfn/2021-02.md |
+| acordao-crsfn | 19957.011190/2019-38 | 2021-07-13 | condenacao | RECURSO VOLUNTÁRIO. Infração: não cumprimento do dever de guardar sigilo sobre informações internas de companhia aberta, que não haviam… | crsfn-10372-100183-2020-40 | fichas/crsfn/2021-02.md |
+| termo-compromisso | 19957.002923/2017-81 | 2021-06-29 | outro | O Colegiado, acompanhando o Comitê, aceitou três propostas de termo de compromisso e rejeitou cinco, no PAS sobre uso de informação… | cvm-col-20210629-d1942 | fichas/tc/2021-04.md |
+| acordao-crsfn | RJ2015/13651 | 2021-06-14 | parcial | RECURSOS VOLUNTÁRIOS. Infração relativa às operações realizadas no período de blackout de quinze dias antes da divulgação das informações… | crsfn-10372-100002-2019-41 | fichas/crsfn/2021-01.md |
+| termo-compromisso | 19957.002996/2018-54 | 2021-05-25 | outro | O Colegiado aceitou quatro propostas de termo de compromisso e rejeitou duas, acompanhando o Comitê, em PAS por negociações com ações da… | cvm-col-20210525-d1939 | fichas/tc/2021-04.md |
+| decisao-colegiado | 472/2008; 19957.007979/2016-41 | 2021-03-10 | — | O Colegiado iniciou a discussão da minuta de Resolução que altera a Instrução CVM 472/2008 para vedar expressamente o uso indevido de… | cvm-col-20210310-d2097 | fichas/colegiado/2021-05.md |
+| termo-compromisso | 19957.006799/2019-95 | 2020-11-10 | aceito | O Colegiado aceitou proposta de termo de compromisso do diretor de banco Banco Pine S.A., acompanhando o parecer do Comitê, pelo pagamento… | cvm-col-20201110-d1964 | fichas/tc/2020-07.md |
+| termo-compromisso | 19957.002688/2020-43 | 2020-10-20 | aceito | O Colegiado aceitou a proposta de Termo de Compromisso de um diretor de companhia aberta acusado de adquirir ações três dias antes de fato… | cvm-col-20201020-d1956 | fichas/tc/2020-06.md |
+| termo-compromisso | 19957.009399/2018-51 | 2020-10-06 | aceito | O Colegiado aceitou a proposta de Termo de Compromisso de dois investidores acusados de uso de informação relevante ainda não divulgada em… | cvm-col-20201006-d1936 | fichas/tc/2020-06.md |
+| acordao-crsfn | 25/2010 | 2020-09-20 | outro | EMBARGOS DE DECLARAÇÃO. Embargos que ficam rejeitados por não comprovada omissão do Acórdão Embargado. | crsfn-edcl-10372-100009-2018-82 | fichas/crsfn/2020-07.md |
+| acordao-crsfn | 1/2014 | 2020-09-15 | condenacao | RECURSOS VOLUNTÁRIOS. Uso de informação privilegiada. Insider trading. Prescrição intercorrente. Recursos conhecidos e desprovidos. | crsfn-10372-100450-2018-64 | fichas/crsfn/2020-06.md |
+| acordao-crsfn | SP2013/94 | 2020-07-22 | condenacao | RECURSO VOLUNTÁRIO. Insider Trading Secundário. Infração configurada. Operações com valores mobiliários da empresa onde o acusado atuava… | crsfn-10372-100130-2018-12 | fichas/crsfn/2020-04.md |
+| pas | 19957.005966/2016-38; RJ2016/7189 | 2020-06-16 | absolvicao | Utilização de informação privilegiada. Infração ao art. 155, §1°, da Lei n° 6.404/76 c/c art. 13 da Instrução CVM n° 358/02. Absolvição… | cvm-pas-19957-005966-2016-38 | fichas/pas/2020-04.md |
+| termo-compromisso | 19957.007030/2019-94 | 2020-06-02 | aceito | O Colegiado, por unanimidade e acompanhando o Parecer do Comitê, aceitou proposta de termo de compromisso de R$ 208.068,00, em parcela… | cvm-col-20200602-d1820 | fichas/tc/2020-04.md |
+| termo-compromisso | 19957.008545/2019-10 | 2020-05-26 | aceito | O Colegiado aceitou, por unanimidade, acompanhando o parecer do Comitê, proposta de termo de compromisso de acionista controlador da Linx… | cvm-col-20200526-d1811 | fichas/tc/2020-04.md |
+| termo-compromisso | 19957.005128/2019-15 | 2020-03-24 | aceito | O Colegiado aceitou, por unanimidade, proposta de termo de compromisso de R$ 150.000,00 de diretor financeiro e de relações com… | cvm-col-20200324-d1760 | fichas/tc/2020-02.md |
+| pas | 19957.003780/2017-25; RJ2017/1858 | 2020-03-03 | condenacao | Ementa : Uso de informação privilegiada na aquisição de ações de emissão da Triunfo Participações e Investimentos S.A. Infração ao art… | cvm-pas-19957-003780-2017-25 | fichas/pas/2020-02.md |
+| termo-compromisso | 19957.009190/2018-97 | 2020-03-03 | aceito | O Colegiado aceitou proposta de termo de compromisso de conselheiro que negociou ações no período vedado, antes da divulgação de ITR (ICVM… | cvm-col-20200303-d1729 | fichas/tc/2020-02.md |
+| termo-compromisso | 19957.005982/2019-73 | 2020-02-18 | aceito | O Colegiado aceitou a proposta de termo de compromisso de um diretor da Azul S.A. por venda de ações dois dias antes de fato relevante… | cvm-col-20200218-d1719 | fichas/tc/2020-01.md |
+| termo-compromisso | 19957.007486/2018-73 | 2020-02-18 | aceito | O Colegiado manteve a aceitação da proposta de termo de compromisso de R$ 35.000,00 de um dos proponentes, acompanhando o Comitê (art. 87… | cvm-col-20200218-d1312 | fichas/tc/2020-01.md |
+| termo-compromisso | 19957.000805/2019-09 | 2019-12-17 | aceito | O Colegiado, por unanimidade, aceitou as propostas de termo de compromisso de dois diretores da Ser Educacional por negociação de ações nos… | cvm-col-20191217-d1646 | fichas/tc/2019-07.md |
+| pas | 19957.001639/2016-15; RJ2016/2384 | 2019-11-26 | absolvicao | Manipulação de preços e uso de informação privilegiada (insider trading). Infração ao item II, letra “b”, da Instrução CVM n° 08/79… | cvm-pas-19957-001639-2016-15 | fichas/pas/2019-20.md |
+| decisao-colegiado | 19957.005109/2018-08 | 2019-11-19 | parcial | O Colegiado indeferiu dispensa de autorização prévia do conselho, caso a caso, para negociar ações de própria emissão (ICVM 567/15, art… | cvm-col-20191119-d1067 | fichas/colegiado/2019-18.md |
+| termo-compromisso | 19957.007841/2016-42 | 2019-11-05 | aceito | O Colegiado aceitou, por unanimidade, proposta de termo de compromisso de uma sociedade e de dois acusados por negociar ações da Petro Rio… | cvm-col-20191105-d0633 | fichas/tc/2019-06.md |
+| termo-compromisso | 19957.004515/2018-45 | 2019-10-15 | aceito | O Colegiado, por unanimidade, aceitou proposta de termo de compromisso de um membro do conselho de administração no valor de R$ 149.431,20… | cvm-col-20191015-d1322 | fichas/tc/2019-06.md |
+| acordao-crsfn | RJ2017/863 | 2019-09-24 | parcial | RECURSO VOLUNTÁRIO. Uso indevido de informação privilegiada. Recurso conhecido e provido parcialmente. | crsfn-10372-100226-2019-53 | fichas/crsfn/2019-03.md |
+| acordao-crsfn | RJ2013/13172 | 2019-09-24 | absolvicao | RECURSO VOLUNTÁRIO. Insider trading. Conhecimento de informação relevante da Companhia não divulgada ao mercado. Negociação antes da… | crsfn-10372-100001-2018-16 | fichas/crsfn/2019-03.md |
+| termo-compromisso | 19957.010191/2018-84 | 2019-08-27 | aceito | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, aceitou proposta de termo de compromisso de diretor de banco de… | cvm-col-20190827-d1507 | fichas/tc/2019-05.md |
+| acordao-crsfn | RJ2014/1785 | 2019-08-27 | absolvicao | RECURSO VOLUNTÁRIO. Negociação de ações mediante uso de informações privilegiadas. Recurso conhecido e provido. | crsfn-10372-100125-2018-00 | fichas/crsfn/2019-03.md |
+| termo-compromisso | 19957.007486/2018-73 | 2019-08-06 | aceito | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, aceitou proposta de termo de compromisso de dois administradores de… | cvm-col-20190806-d1312 | fichas/tc/2019-04.md |
+| termo-compromisso | 19957.009192/2018-86 | 2019-07-09 | aceito | O Colegiado, por unanimidade e acompanhando o parecer do Comitê, aceitou a proposta de termo de compromisso do proponente, à época diretor… | cvm-col-20190709-d1463 | fichas/tc/2019-04.md |
+| termo-compromisso | 19957.007727/2018-84 | 2019-06-18 | outro | O Colegiado aceitou proposta de termo de compromisso de R$ 35.000,00 da diretora da Grazziotin S.A., e rejeitou as propostas da companhia e… | cvm-col-20190618-d1440 | fichas/tc/2019-03.md |
+| pas | RJ2015/9443 | 2019-06-04 | parcial | utilização de informação privilegiada na aquisição de ações de emissão da Invest Tur Brasil – Desenvolvimento Imobiliário Turístico S.A… | cvm-pas-rj2015-9443 | fichas/pas/2019-07.md |
+| pas | RJ2014/0578 | 2019-05-27 | condenacao | Utilização de informações privilegiadas na negociação de ações emissão da da OGX Petróleo e Gás Participações S.A. e da da OSX Brasil S.A… | cvm-pas-rj2014-0578 | fichas/pas/2019-07.md |
+| acordao-crsfn | RJ2016/5039 | 2019-04-23 | parcial | RECURSOS VOLUNTÁRIOS. Mercado de Capitais. Negociação com Ações. Utilização de informação privilegiada. Insider Trading Secundário… | crsfn-10372-100321-2018-76 | fichas/crsfn/2019-01.md |
+| termo-compromisso | 19957.008107/2018-62 | 2019-04-02 | aceito | O Colegiado, acompanhando o Comitê, aceitou a proposta de termo de compromisso de companhia, de seu controlador e de um diretor, por… | cvm-col-20190402-d1362 | fichas/tc/2019-02.md |
+| termo-compromisso | 19957.004515/2018-45 | 2019-02-26 | rejeitado | O Colegiado rejeitou proposta de Termo de Compromisso de conselheiro da Renova Energia S.A. por venda de units em período de vedação… | cvm-col-20190226-d1322 | fichas/tc/2019-01.md |
+| decisao-colegiado | 19957.000378/2019-51 | 2019-01-22 | nao-provido | O Colegiado negou provimento a recurso contra indeferimento da SEP de pedido de gestor de fundos, membro de conselho de companhia aberta… | cvm-col-20190122-d1288 | fichas/colegiado/2019-02.md |
+| termo-compromisso | 19957.004503/2016-59 | 2018-12-18 | aceito | O Colegiado aceitou as propostas de termo de compromisso de dois diretores executivos da Suzano, acompanhando o Comitê, por compra de ações… | cvm-col-20181218-d1247 | fichas/tc/2018-07.md |
+| acordao-crsfn | RJ2013/9904 | 2018-12-12 | condenacao | RECURSO VOLUNTÁRIO. CVM. Negociação com ações de Companhia em momento anterior próximo à comunicação de fato relevante. Existência de prova… | crsfn-14260 | fichas/crsfn/2018-11.md |
+| acordao-crsfn | IA-2009-11 | 2018-12-11 | absolvicao | RECURSO DE OFÍCIO. Negociação com informação privilegiada. Insider secundário. Indícios insuficientes. Recurso não provido. | crsfn-13410 | fichas/crsfn/2018-10.md |
+| pas | RJ2017/863 | 2018-12-04 | condenacao | Uso indevido de informação privilegiada, em infração ao art. 155, §4º, da Lei nº 6.404/76, c/c o art. 13, §1º, da Instrução CVM nº 358/202… | cvm-pas-rj2017-0863 | fichas/pas/2018-21.md |
+| pas | 26/2010 | 2018-11-27 | parcial | Ementa : Utilização de informações privilegiadas em negociações com ações da Agra Empreendimentos Imobiliários S.A. antes da divulgação dos… | cvm-pas-26-2010 | fichas/pas/2018-20.md |
+| pas | RJ2014/3616 | 2018-11-13 | parcial | Negociação de valores mobiliários de emissão da PDG Realty S.A. Empreendimentos e Participações de posse de informações relevantes sobre a… | cvm-pas-rj2014-3616 | fichas/pas/2018-19.md |
+| termo-compromisso | 19957.002292/2018-81 | 2018-10-30 | aceito | O Colegiado, acompanhando o Comitê, aceitou proposta de termo de compromisso de diretor de relações com investidores de companhia aberta… | cvm-col-20181030-d1201 | fichas/tc/2018-06.md |
+| acordao-crsfn | RJ2013/2714 | 2018-10-18 | parcial | RECURSO VOLUNTÁRIO. Utilização indevida de informação relevante ainda não divulgada ao mercado (insider trading). Verificação dos… | crsfn-14182 | fichas/crsfn/2018-08.md |
+| acordao-crsfn | RJ2013/11654 | 2018-10-03 | absolvicao | RECURSO DE OFÍCIO. Uso indevido de informação privilegiada. Insider trading. Aplicação das teorias da mente corporativa e chinese wall. A… | crsfn-14088 | fichas/crsfn/2018-08.md |
+| termo-compromisso | 19957.001692/2017-99 | 2018-10-02 | rejeitado | O Colegiado, por unanimidade, acompanhando o voto do relator, rejeitou a proposta de Termo de Compromisso de investidor, de R$ 15.000,00… | cvm-col-20181002-d0712 | fichas/tc/2018-05.md |
+| termo-compromisso | 19957.005390/2017-90; 19957.005388/2017-11; 19957.001225/2018-40 | 2018-09-25 | rejeitado | O Colegiado rejeitou propostas conjuntas de termo de compromisso de JBS S.A., Seara Alimentos Ltda., Eldorado Brasil Celulose S.A., J&F… | cvm-col-20180925-d1168 | fichas/tc/2018-05.md |
+| acordao-crsfn | RJ2014/10290 | 2018-08-22 | condenacao | RECURSOS VOLUNTÁRIOS. Utilização indevida de informação privilegiada. Infração ao disposto no art. 155, §1º, da Lei nº 6.404/76, combinado… | crsfn-10372-100292-2017-61 | fichas/crsfn/2018-07.md |
+| pas | RJ2015/5813 | 2018-07-13 | condenacao | Negociação com valores mobiliários de posse de informações relevantes ainda não divulgadas ao mercado. Multa. | cvm-pas-rj2015-5813 | fichas/pas/2018-10.md |
+| pas | RJ2015/13651 | 2018-06-19 | condenacao | Uso de informação privilegiada em negociações com ações ordinárias de emissão da companhia Brasil Brokers Participações S.A. Multas. | cvm-pas-rj2015-13651 | fichas/pas/2018-08.md |
+| pas | 01/2014 | 2018-06-19 | condenacao | Uso de informação privilegiada. Multas. | cvm-pas-01-2014 | fichas/pas/2018-07.md |
+| termo-compromisso | 19957.009216/2017-16 | 2018-05-22 | aceito | O Colegiado aceitou a proposta de Termo de Compromisso de um membro do conselho de administração da Locamérica, acompanhando o Comitê, pelo… | cvm-col-20180522-d1035 | fichas/tc/2018-03.md |
+| termo-compromisso | 19957.008922/2017-41 | 2018-05-22 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou proposta conjunta de termo de compromisso da FERBASA (R$ 80.000,00) e de seu… | cvm-col-20180522-d1033 | fichas/tc/2018-03.md |
+| termo-compromisso | 19957.006298/2016-66 | 2018-04-24 | aceito | Após pedido de reconsideração, o Colegiado, por unanimidade, acompanhando o Comitê, aceitou propostas de termo de compromisso de dois… | cvm-col-20180424-d0952 | fichas/tc/2018-02.md |
+| decisao-colegiado | 358/2002; 19957.009291/2017-87 | 2018-04-24 | parcial | O Colegiado deu provimento parcial, por maioria, a recurso de banco de investimento contra entendimento da SEP sobre a recompra de ações de… | cvm-col-20180424-d0800 | fichas/colegiado/2018-08.md |
+| termo-compromisso | 19957.002950/2017-54 | 2018-03-27 | aceito | O Colegiado aceitou proposta de termo de compromisso de uma companhia e de dois diretores, acusados de adquirir ações próprias no período… | cvm-col-20180327-d0807 | fichas/tc/2018-02.md |
+| acordao-crsfn | RJ2013/1730 | 2018-03-20 | absolvicao | RECURSO DE OFÍCIO. Negociações com cotas de Fundo de Investimento Imobiliário. Recurso de Ofício conhecido e desprovido. | crsfn-14396 | fichas/crsfn/2018-02.md |
+| decisao-colegiado | 19957.003622/2017-75 | 2018-03-13 | nao-provido | O Colegiado, acompanhando a área técnica e considerando a segregação entre instâncias investigativas e julgadoras, negou provimento ao… | cvm-col-20180313-d0906 | fichas/colegiado/2018-06.md |
+| termo-compromisso | 19957.004057/2017-63 | 2018-02-20 | aceito | Por unanimidade, acompanhando o Comitê, o Colegiado aceitou a proposta de TC de membro do conselho de administração da Raia Drogasil S.A… | cvm-col-20180220-d0964 | fichas/tc/2018-01.md |
+| termo-compromisso | 19957.006298/2016-66 | 2018-02-20 | rejeitado | O Colegiado rejeitou propostas de termo de compromisso de dois administradores de companhia aberta, acusados de negociar ações no período… | cvm-col-20180220-d0952 | fichas/tc/2018-01.md |
+| pas | RJ2014/1785 | 2017-12-19 | condenacao | Utilização indevida de informação privilegiada. Multa. | cvm-pas-rj2014-1785 | fichas/pas/2017-12.md |
+| termo-compromisso | 19957.008559/2016-82 | 2017-12-19 | aceito | O Colegiado, por unanimidade, aceitou proposta de termo de compromisso de R$ 150.000,00 de diretor vice-presidente jurídico da Cosan… | cvm-col-20171219-d0877 | fichas/tc/2017-06.md |
+| pas | SP2013/94 | 2017-12-14 | condenacao | Negociação de valores mobiliários de posse de informações relevantes ainda não divulgadas ao mercado. Multa. | cvm-pas-sp2013-0094 | fichas/pas/2017-12.md |
+| termo-compromisso | 19957.006301/2016-41 | 2017-12-12 | aceito | O Colegiado aceitou proposta de termo de compromisso de ex-membro do conselho fiscal da COPASA de R$ 15.000,00 e de não exercer, por cinco… | cvm-col-20171212-d0862 | fichas/tc/2017-05.md |
+| acordao-crsfn | IA2010/23 | 2017-12-12 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Mercado de valores mobiliários. Violação do dever de sigilo sobre informação relevante ainda não… | crsfn-14230 | fichas/crsfn/2017-14.md |
+| pas | RJ2014/577 | 2017-12-11 | absolvicao | Uso indevido de informação privilegiada. Absolvições. | cvm-pas-rj2014-0577 | fichas/pas/2017-10.md |
+| pas | RJ2014/3401 | 2017-12-05 | absolvicao | Suposto uso de informação privilegiada. Absolvição. | cvm-pas-rj2014-3401 | fichas/pas/2017-09.md |
+| termo-compromisso | 19957.002583/2017-99; RJ2017/1358 | 2017-11-21 | aceito | O Colegiado, acompanhando o Comitê, aceitou por unanimidade duas propostas de Termo de Compromisso de administradores da Iochpe-Maxion S.A… | cvm-col-20171121-d0850 | fichas/tc/2017-05.md |
+| termo-compromisso | 19957.003780/2017-25; RJ2017/1858 | 2017-11-14 | rejeitado | O Colegiado, acompanhando o Comitê, rejeitou por unanimidade a proposta de Termo de Compromisso de investidor acusado de comprar 30 mil… | cvm-col-20171114-d0846 | fichas/tc/2017-05.md |
+| termo-compromisso | 01/2014 | 2017-11-14 | aceito | O Colegiado aceitou, por unanimidade, nova proposta de TC de investidor acusado de uso de informação privilegiada em ações da Globex… | cvm-col-20171114-d0048 | fichas/tc/2017-05.md |
+| acordao-crsfn | RJ2012/8010 | 2017-10-24 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Uso indevido de informação privilegiada. | crsfn-14354 | fichas/crsfn/2017-13.md |
+| pas | RJ2016/5039 | 2017-09-26 | — | Apurar o eventual uso de informação privilegiada, em infração ao artigo 155, § 4º, da Lei nº 6.404/1976 c/c o disposto no artigo 13, §1º… | cvm-pas-rj2016-5039 | fichas/pas/2017-07.md |
+| acordao-crsfn | RJ2014/3225 | 2017-09-19 | condenacao | RECURSOS VOLUNTÁRIOS. Insider trading. Negociação de valores mobiliários em posse de informação relevante pendente de divulgação pela… | crsfn-10372-000123-2017-22 | fichas/crsfn/2017-12.md |
+| pas | RJ2014/1020 | 2017-09-12 | condenacao | Negociação de ações em período vedado pelas normas da CVM – Não envio à CVM de informações sobre negociações realizadas com valores… | cvm-pas-rj2014-1020 | fichas/pas/2017-06.md |
+| decisao-colegiado | RJ2014/0577 | 2017-09-05 | nao-provido | O Colegiado, por unanimidade, indeferiu pedido de reconsideração de decisão que rejeitou proposta de termo de compromisso em PAS por uso de… | cvm-col-20170905-d9591 | fichas/colegiado/2017-15.md |
+| termo-compromisso | 19957.000923/2017-47 | 2017-08-08 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou proposta de termo de compromisso de diretor de RI acusado de negociar ações no… | cvm-col-20170808-d0764 | fichas/tc/2017-03.md |
+| termo-compromisso | 19957.004336/2016-46; RJ2016/6048 | 2017-08-08 | aceito | O Colegiado aceitou, por unanimidade, nova proposta de termo de compromisso da gestora de fundo de ações, de R$ 150.000,00. Acusação… | cvm-col-20170808-d0673 | fichas/tc/2017-03.md |
+| acordao-crsfn | 2008/11 | 2017-07-25 | condenacao | RECURSO DE OFÍCIO. Insider trading secundário. Configuração das infrações. Multa. | crsfn-13454 | fichas/crsfn/2017-11.md |
+| pas | 25/2010 | 2017-07-04 | condenacao | Utilização de informação privilegiada na negociação de ações ordinárias de emissão da Aracruz Celulose S.A. Multas. | cvm-pas-25-2010 | fichas/pas/2017-05.md |
+| pas | RJ2014/10290 | 2017-06-13 | condenacao | Utilização indevida de informação privilegiada. Multas. | cvm-pas-rj2014-10290 | fichas/pas/2017-05.md |
+| pas | RJ2013/13172 | 2017-06-13 | condenacao | Utilização indevida de informação privilegiada. Multa. ﻿ | cvm-pas-rj2013-13172 | fichas/pas/2017-05.md |
+| pas | RJ2015/6735 | 2017-05-09 | absolvicao | Suposto descumprimento do dever de sigilo. Absolvição. | cvm-pas-rj2015-6735 | fichas/pas/2017-04.md |
+| pas | RJ2013/8609 | 2017-05-09 | condenacao | Uso de informação privilegiada. Multa. | cvm-pas-rj2013-8609 | fichas/pas/2017-03.md |
+| termo-compromisso | 19957.004336/2016-46; RJ2016/6048 | 2017-05-09 | outro | O Colegiado aceitou, por unanimidade, proposta de termo de compromisso de suplente do conselho de administração de companhia (R$… | cvm-col-20170509-d0673 | fichas/tc/2017-02.md |
+| decisao-colegiado | 358/2002; 19957.006290/2016-08 | 2017-05-02 | nao-provido | O Colegiado acompanhou o relator e manteve a aplicação da Instrução CVM 358/2002 (arts. 3º, §§1º e 2º; 8º, caput; 13, caput e §4º) a membro… | cvm-col-20170502-d0378 | fichas/colegiado/2017-09.md |
+| termo-compromisso | 19957.004537/2016-43; RJ2016/5849 | 2017-04-18 | aceito | O Colegiado aceitou, por maioria, proposta de termo de compromisso de diretor da companhia acusado de negociar ações em período vedado… | cvm-col-20170418-d0660 | fichas/tc/2017-02.md |
+| acordao-crsfn | RJ-2012-7880 | 2017-04-18 | condenacao | Recurso Voluntário. CVM. Negociação de ações vedada. Fato relevante. Recurso desprovido. | crsfn-13935 | fichas/crsfn/2017-06.md |
+| termo-compromisso | 19957.005966/2016-38; RJ2016/7189 | 2017-04-04 | rejeitado | O Colegiado, por unanimidade, rejeitou a proposta de termo de compromisso, acompanhando o Comitê, em PAS sobre negociação de ações da Cia… | cvm-col-20170404-d0638 | fichas/tc/2017-01.md |
+| termo-compromisso | 19957.002477/2016-24; RJ2016/4573 | 2017-03-21 | aceito | O Colegiado, por maioria, aceitou propostas de termo de compromisso de membros do conselho da Brasil Pharma S.A. por uso de informação… | cvm-col-20170321-d0618 | fichas/tc/2017-01.md |
+| termo-compromisso | 19957.001137/2016-86; RJ2016/5591 | 2017-03-14 | aceito | O Colegiado, por maioria, aceitou propostas de termo de compromisso da controladora da B2W e de um diretor da companhia, de R$ 150.000,00… | cvm-col-20170314-d0601 | fichas/tc/2017-01.md |
+| acordao-crsfn | RJ2013/5793 | 2017-03-14 | arquivamento | Recurso de Ofício. Mercado de valores mobiliários - Utilização indevida de informação privilegiada - Descaracterização da infração… | crsfn-14213 | fichas/crsfn/2017-05.md |
+| pas | RJ2014/10082 | 2017-03-07 | absolvicao | . Descumprimento do dever de sigilo. Absolvição. | cvm-pas-rj2014-10082 | fichas/pas/2017-02.md |
+| termo-compromisso | 19957.005950/2016-25 | 2017-01-24 | aceito | O Colegiado aceitou, por unanimidade, proposta de Termo de Compromisso de diretor de companhia aberta por negociação de ações em período… | cvm-col-20170124-d0556 | fichas/tc/2017-01.md |
+| termo-compromisso | 19957.004919/2016-77 | 2017-01-24 | aceito | O Colegiado, acompanhando o Comitê, aceitou proposta de termo de compromisso de uma diretora da Localiza Rent a Car S.A. por aluguel de… | cvm-col-20170124-d0555 | fichas/tc/2017-01.md |
+| decisao-colegiado | 358/2002; 19957.006290/2016-08 | 2016-12-13 | nao-provido | O Colegiado negou provimento, por unanimidade, a recurso contra entendimento da SEP em consulta, mantendo a aplicação da Instrução CVM… | cvm-col-20161213-d0378 | fichas/colegiado/2016-24.md |
+| acordao-crsfn | 15/2010 | 2016-11-29 | condenacao | Recursos voluntário. Alienação de ações antes da divulgação ao mercado de fato relevante. "Insider Trading" . Recurso voluntário conhecido… | crsfn-14432 | fichas/crsfn/2016-10.md |
+| termo-compromisso | RJ2016/6198 | 2016-10-25 | rejeitado | O Colegiado rejeitou, acompanhando o Comitê, proposta de termo de compromisso de um investidor, de R$ 46.331,64 (triplo da suposta… | cvm-col-20161025-d0308 | fichas/tc/2016-05.md |
+| termo-compromisso | RJ2016/5683 | 2016-10-11 | rejeitado | O Colegiado rejeitou a proposta final de Termo de Compromisso de R$ 50.000,00 em PAS sobre negócios com ações de companhia antes de… | cvm-col-20161011-d0278 | fichas/tc/2016-05.md |
+| acordao-crsfn | 29/2000 | 2016-09-27 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários - Prática não equitativa - Negociação de ações em posse de informação… | crsfn-14056 | fichas/crsfn/2016-08.md |
+| pas | RJ2015/2666 | 2016-09-13 | absolvicao | Normal 0 21 false false false PT-BR X-NONE X-NONE MicrosoftInternetExplorer4 /* Style Definitions */ table.MsoNormalTable… | cvm-pas-rj2015-2666 | fichas/pas/2016-07.md |
+| pas | RJ2014/3225 | 2016-09-13 | parcial | Normal 0 21 false false false PT-BR X-NONE X-NONE MicrosoftInternetExplorer4 /* Style Definitions */ table.MsoNormalTable… | cvm-pas-rj2014-3225 | fichas/pas/2016-07.md |
+| termo-compromisso | RJ2015/13325 | 2016-09-06 | aceito | O Colegiado aceitou proposta de termo de compromisso de diretor de gestora que adquiriu 110.000 units da Contax Participações S.A., da qual… | cvm-col-20160906-d0346 | fichas/tc/2016-04.md |
+| termo-compromisso | RJ2016/5175 | 2016-09-06 | rejeitado | O Colegiado rejeitou, por unanimidade, as propostas de Termo de Compromisso de dois proponentes no PAS CVM 01/2014, por suposto uso de… | cvm-col-20160906-d0048 | fichas/tc/2016-04.md |
+| acordao-crsfn | IA-2012-9 | 2016-08-23 | condenacao | EMENTA: Recursos voluntários. Divulgação de informações relevantes, em infração ao disposto no §1º do art. 155 da Lei nº 6.404/76, c/c o… | crsfn-14211 | fichas/crsfn/2016-06.md |
+| termo-compromisso | RJ2015/2077 | 2016-07-05 | aceito | O Colegiado aceitou, acompanhando o Comitê, proposta de termo de compromisso de diretor de relações com investidores de companhia aberta… | cvm-col-20160705-d9986 | fichas/tc/2016-03.md |
+| termo-compromisso | RJ2015/3974 | 2016-06-28 | aceito | O Colegiado aceitou, por unanimidade, a proposta de Termo de Compromisso do diretor presidente e de relações com investidores de companhia… | cvm-col-20160628-d0276 | fichas/tc/2016-03.md |
+| acordao-crsfn | -02/2010 | 2016-06-28 | arquivamento | RECURSO DE OFÍCIO - utilização de informações relevantes ainda não divulgadas ao mercado - Irregularidades não caracterizadas – Recurso de… | crsfn-10372-000688-2016-29 | fichas/crsfn/2016-05.md |
+| termo-compromisso | RJ2014/0577 | 2016-06-14 | rejeitado | O Colegiado rejeitou as três propostas de Termo de Compromisso de administradores da HRT Participações em Petróleo S.A., acusados de… | cvm-col-20160614-d9591 | fichas/tc/2016-03.md |
+| termo-compromisso | RJ2014/14676 | 2016-06-14 | rejeitado | O Colegiado rejeitou, por unanimidade, as propostas de Termo de Compromisso de administradores da HRT Participações em Petróleo S.A. em PAS… | cvm-col-20160614-d9504 | fichas/tc/2016-03.md |
+| termo-compromisso | RJ2015/5813 | 2016-06-14 | rejeitado | O Colegiado rejeitou a proposta de Termo de Compromisso de diretor não estatutário de companhia aberta, acusado de negociar ações com… | cvm-col-20160614-d0254 | fichas/tc/2016-03.md |
+| termo-compromisso | RJ2015/6124 | 2016-05-24 | aceito | O Colegiado, por maioria, aceitou as cinco propostas de termo de compromisso (R$ 20.520,00; R$ 58.269,60; R$ 24.984,00; R$ 15.000,00; R$… | cvm-col-20160524-d0216 | fichas/tc/2016-02.md |
+| termo-compromisso | RJ2015/3569 | 2016-05-24 | aceito | O Colegiado, por unanimidade, aceitou propostas de termo de compromisso de dois diretores da Paranapanema S.A. no PAS RJ2015/3569, de R$… | cvm-col-20160524-d0215 | fichas/tc/2016-02.md |
+| termo-compromisso | RJ2014/9994 | 2016-05-17 | aceito | O Colegiado aceitou, por unanimidade, proposta de termo de compromisso de R$ 150.000,00 apresentada por acionista do bloco de controle da… | cvm-col-20160517-d0207 | fichas/tc/2016-02.md |
+| termo-compromisso | RJ2015/11008 | 2016-04-26 | aceito | O Colegiado aceitou proposta conjunta de Termo de Compromisso da FERBASA e de um administrador, acompanhando o Comitê. Pagamentos à CVM: R$… | cvm-col-20160426-d9904 | fichas/tc/2016-02.md |
+| acordao-crsfn | RJ2011/2789 | 2016-04-26 | condenacao | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Uso de informações privilegiadas – Configurada a prática de insider trading… | crsfn-13433 | fichas/crsfn/2016-03.md |
+| termo-compromisso | RJ2015/6735 | 2016-04-19 | — | Proposta de termo de compromisso de membro do conselho de administração da SANEPAR em PAS por não zelar contra o acesso de terceiros ao… | cvm-col-20160419-d0180 | fichas/tc/2016-01.md |
+| termo-compromisso | RJ2015/1591 | 2016-03-08 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de R$ 400.000,00 apresentada por ex-diretor financeiro e de relações com investidores… | cvm-col-20160308-d0111 | fichas/tc/2016-01.md |
+| pas | RJ2011/3823 | 2015-12-09 | parcial | Uso de informação privilegiada ainda não divulgada ao mercado. Absolvições e Multas. | cvm-pas-rj2011-3823 | fichas/pas/2015-13.md |
+| pas | 15/2010 | 2015-12-08 | condenacao | Uso de informação relevante ainda não divulgada ao mercado de valores mobiliários. Multa. | cvm-pas-15-2010 | fichas/pas/2015-13.md |
+| termo-compromisso | RJ2014/10082 | 2015-11-24 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de ex-diretor presidente acusado de infração ao dever de sigilo sobre informação não… | cvm-col-20151124-d9948 | fichas/tc/2015-04.md |
+| decisao-colegiado | RJ2015/10637 | 2015-10-27 | parcial | O Colegiado indeferiu o pedido da Paranapanema S.A. de autorização para aquisição de ações de própria emissão com base em recursos de… | cvm-col-20151027-d9906 | fichas/colegiado/2015-20.md |
+| termo-compromisso | RJ2014/12710 | 2015-10-27 | rejeitado | O Colegiado rejeitou proposta de Termo de Compromisso de R$ 100.000,00 de administrador da CCX Carvão da Colômbia S.A. por infrações a… | cvm-col-20151027-d9905 | fichas/tc/2015-04.md |
+| termo-compromisso | RJ2011/3823; RJ2011/13492 | 2015-10-20 | rejeitado | O Colegiado rejeitou proposta de Termo de Compromisso de R$ 150.000,00 por venda de BDRs da Laep Investments Ltd. com informação… | cvm-col-20151020-d8043 | fichas/tc/2015-04.md |
+| termo-compromisso | RJ2014/14465 | 2015-10-06 | aceito | O Colegiado aceitou proposta de Termo de Compromisso do conselheiro de administração da Estácio Participações S.A., com pagamentos de R$… | cvm-col-20151006-d9869 | fichas/tc/2015-03.md |
+| pas | SP2013/12 | 2015-08-18 | absolvicao | Normal 0 21 false false false PT-BR X-NONE X-NONE MicrosoftInternetExplorer4 /* Style Definitions */ table.MsoNormalTable… | cvm-pas-sp2013-0012 | fichas/pas/2015-10.md |
+| pas | RJ2013/1730 | 2015-08-18 | absolvicao | Uso indevido de informação privilegiada - suposta utilização de informação privilegiada na alienação de cotas de fundo de investimento… | cvm-pas-rj2013-1730 | fichas/pas/2015-10.md |
+| termo-compromisso | RJ2014/9909 | 2015-08-18 | aceito | O Colegiado aceitou proposta de termo de compromisso de um conselheiro de administração de companhia aberta, previamente à instauração de… | cvm-col-20150818-d9791 | fichas/tc/2015-03.md |
+| acordao-crsfn | IA-2009-13 | 2015-07-28 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Utilização de informações relevantes ainda não divulgadas ao… | crsfn-13447 | fichas/crsfn/2015-04.md |
+| acordao-crsfn | 13/2009 | 2015-07-28 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Utilização de informações relevantes ainda não divulgadas ao… | crsfn-13422 | fichas/crsfn/2015-04.md |
+| acordao-crsfn | RJ2011/3665 | 2015-07-28 | condenacao | RECURSO(S) VOLUNTÁRIO(S)– Mercado de valores mobiliários – Utilização de informação relevante ainda não divulgada ao mercado… | crsfn-13415 | fichas/crsfn/2015-03.md |
+| acordao-crsfn | RJ2010/1666 | 2015-07-28 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Uso indevido de informação privilegiada (negociação de ações durante período vedado… | crsfn-13412 | fichas/crsfn/2015-03.md |
+| pas | RJ2012/8010 | 2015-07-21 | parcial | Uso indevido de informação privilegiada. Absolvições e multas. | cvm-pas-rj2012-8010 | fichas/pas/2015-08.md |
+| pas | RJ2013/9904 | 2015-04-28 | condenacao | Uso indevido de informação privilegiada ainda não divulgada ao mercado. Multa. | cvm-pas-rj2013-9904 | fichas/pas/2015-05.md |
+| pas | RJ2013-10579 | 2015-03-10 | absolvicao | Suposta utilização indevida de informação privilegiada ainda não divulgada ao mercado - Absolvição | cvm-pas-rj2013-10579 | fichas/pas/2015-02.md |
+| termo-compromisso | 10/2012 | 2015-02-24 | rejeitado | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou as propostas de termo de compromisso de R$ 450.000,00 (quatro proponentes) e… | cvm-col-20150224-d9575 | fichas/tc/2015-01.md |
+| pas | RJ2013/5793 | 2015-01-27 | absolvicao | Eventual utilização indevida de informação privilegiada. Absolvições. | cvm-pas-rj2013-5793 | fichas/pas/2015-01.md |
+| termo-compromisso | RJ2012/9808 | 2015-01-06 | rejeitado | O Colegiado rejeitou, por unanimidade, as cinco propostas de termo de compromisso no PAS RJ2012/9808 (informação privilegiada sobre ações… | cvm-col-20150106-d9487 | fichas/tc/2015-01.md |
+| termo-compromisso | RJ2014/5102 | 2014-12-16 | aceito | O Colegiado aceitou, por unanimidade, proposta conjunta de acionistas controladores e administradores da Energisa S.A., no total de R$… | cvm-col-20141216-d06 | fichas/tc/2014-06.md |
+| termo-compromisso | RJ2013/13240 | 2014-12-09 | aceito | O Colegiado, por maioria, aceitou a proposta de Termo de Compromisso de um ex-diretor financeiro e de relações com investidores da Rossi… | cvm-col-20141209-d06 | fichas/tc/2014-05.md |
+| termo-compromisso | 26/2010 | 2014-12-09 | aceito | O Colegiado aceitou, por maioria, duas propostas de termo de compromisso (de R$ 1.687.864,00 e R$ 145.440,00, ambas corrigidas pelo IPCA) e… | cvm-col-20141209-d01 | fichas/tc/2014-05.md |
+| acordao-crsfn | IA-2008-10 | 2014-12-09 | condenacao | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Exercício irregular da atividade de administração de carteira – Utilização de… | crsfn-13283 | fichas/crsfn/2014-08.md |
+| acordao-crsfn | 0007/2004 | 2014-12-09 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Prática não equitativa - Uso de informação privilegiada em compra… | crsfn-11751 | fichas/crsfn/2014-08.md |
+| termo-compromisso | RJ2013/9904 | 2014-12-02 | rejeitado | O Colegiado rejeitou a nova proposta de termo de compromisso do proponente, acusado de negociar ações da Amil Participações com informação… | cvm-col-20141202-d17 | fichas/tc/2014-05.md |
+| termo-compromisso | RJ2011/4690; RJ2011/6787 | 2014-12-02 | aceito | O Colegiado aceitou, por unanimidade, proposta conjunta de termo de compromisso de dois administradores da Minerva S.A., de R$ 300.000,00… | cvm-col-20141202-d12 | fichas/tc/2014-04.md |
+| termo-compromisso | RJ2013/8609 | 2014-12-02 | rejeitado | O Colegiado rejeitou a nova proposta de termo de compromisso do proponente, acusado de negociar ações da HRT Participações em Petróleo com… | cvm-col-20141202-d09 | fichas/tc/2014-04.md |
+| pas | 09/2012 | 2014-11-25 | condenacao | Divulgação e utilização de informação relevante – Descumprimento dos deveres de sigilo e de lealdade exigidos dos administradores de… | cvm-pas-09-2012 | fichas/pas/2014-10.md |
+| acordao-crsfn | 0019/2009 | 2014-11-25 | condenacao | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Utilização de informações ainda não divulgadas ao mercado, relativas a… | crsfn-13311 | fichas/crsfn/2014-08.md |
+| acordao-crsfn | 0021/2005 | 2014-11-25 | absolvicao | RECURSO DE OFÍCIO - Mercado de valores mobiliários - Utilização de informação relevante ainda não divulgada ao mercado na aquisição de… | crsfn-13228 | fichas/crsfn/2014-07.md |
+| acordao-crsfn | 0004/2004 | 2014-11-25 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Utilização de informação privilegiada em processo de reestruturação… | crsfn-10979 | fichas/crsfn/2014-07.md |
+| pas | RJ2012/13047 | 2014-11-04 | parcial | Negociação de ações em período vedado, com uso indevido de informação relevante ainda não divulgada ao mercado. Absolvições e multas. | cvm-pas-rj2012-13047 | fichas/pas/2014-08.md |
+| pas | 23/2010 | 2014-11-04 | parcial | Negociação de ações com uso indevido de informação privilegiada ainda não divulgada ao mercado - violação de dever de guardar sigilo… | cvm-pas-23-2010 | fichas/pas/2014-08.md |
+| termo-compromisso | RJ2014/8814 | 2014-11-04 | rejeitado | O Colegiado rejeitou, por unanimidade, a nova proposta de termo de compromisso de membro do conselho de administração da Ecodiesel, acusado… | cvm-col-20141104-d04 | fichas/tc/2014-03.md |
+| acordao-crsfn | 0019/2006 | 2014-10-21 | arquivamento | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Uso de informação privilegiada relacionada a negócios com ações realizados em período… | crsfn-13233 | fichas/crsfn/2014-06.md |
+| pas | RJ2013/2714 | 2014-10-07 | condenacao | Uso indevido de informação relevante ainda não divulgada ao mercado. Multa. | cvm-pas-rj2013-2714 | fichas/pas/2014-07.md |
+| pas | RJ2013/11654 | 2014-09-23 | absolvicao | Uso indevido de informação privilegiada em negociações realizadas em Bolsas de Valores. Absolvição. | cvm-pas-rj2013-11654 | fichas/pas/2014-07.md |
+| termo-compromisso | RJ2013/13121 | 2014-07-15 | aceito | O Colegiado aceitou nova proposta de termo de compromisso no PAS RJ2013/8609, relativa a suposto uso de informação privilegiada em ações da… | cvm-col-20140715-d03 | fichas/tc/2014-02.md |
+| acordao-crsfn | 13/06 | 2014-06-03 | condenacao | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Realização de negócios com ações de emissão de companhia aberta, por membro do… | crsfn-12947 | fichas/crsfn/2014-04.md |
+| termo-compromisso | RJ2013/11917 | 2014-05-06 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de investidor acusado de negociar ações da Aracruz Celulose S.A. com informação… | cvm-col-20140506-d14 | fichas/tc/2014-01.md |
+| termo-compromisso | RJ2013/13121 | 2014-05-06 | rejeitado | O Colegiado rejeitou, por unanimidade, proposta de Termo de Compromisso de R$ 5.000,00 de um sócio de empresa subsidiária da HRT… | cvm-col-20140506-d04 | fichas/tc/2014-01.md |
+| acordao-crsfn | IA-2006-22 | 2014-03-18 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários - Utilização de informação privilegiada - Prática não equitativa - Inobservância do… | crsfn-13004 | fichas/crsfn/2014-02.md |
+| pas | 29/2000 | 2013-12-17 | parcial | BRASMOTOR. Não divulgação de fato relevante – utilização de informações privilegiadas e práticas não equitativas. Prescrição da ação… | cvm-pas-29-2000 | fichas/pas/2013-14.md |
+| termo-compromisso | RJ2013/8135 | 2013-12-10 | rejeitado | O Colegiado, por unanimidade, rejeitou proposta de Termo de Compromisso de R$ 150.000,00 apresentada por membro do conselho de… | cvm-col-20131210-d04 | fichas/tc/2013-05.md |
+| pas | RJ2012/7880 | 2013-11-19 | condenacao | [pessoa física] Utilização de informação relevante ainda não divulgada ao mercado de valores mobiliários. Multa. | cvm-pas-rj2012-7880 | fichas/pas/2013-11.md |
+| acordao-crsfn | RJ-2009-13459 | 2013-09-25 | condenacao | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Fundos de investimento - Utilização de informação privilegiada - Negociação de… | crsfn-13264 | fichas/crsfn/2013-05.md |
+| termo-compromisso | RJ2013/1730 | 2013-09-10 | rejeitado | O Colegiado, por unanimidade e acompanhando o parecer do Comitê de Termo de Compromisso, rejeitou proposta de TC em PAS por alienação de… | cvm-col-20130910-d03 | fichas/tc/2013-04.md |
+| termo-compromisso | RJ2013/1052 | 2013-09-10 | aceito | O Colegiado aceitou proposta de termo de compromisso de diretora de controle de holding, acusada de negociar ações de banco antes de fato… | cvm-col-20130910-d01 | fichas/tc/2013-04.md |
+| termo-compromisso | RJ2012/2833 | 2013-08-27 | aceito | O Colegiado aceitou a proposta de termo de compromisso da Triunfo Holding Participações S.A. e por um conselheiro da Triunfo Participações… | cvm-col-20130827-d02 | fichas/tc/2013-04.md |
+| termo-compromisso | 23/2010 | 2013-07-30 | rejeitado | O Colegiado rejeitou três propostas de termo de compromisso de acusados de quebra de sigilo e de negociar com informação relevante não… | cvm-col-20130730-d02 | fichas/tc/2013-03.md |
+| acordao-crsfn | IA-2005-25 | 2013-07-30 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Utilização de informação privilegiada - Prática não equitativa - Inobservância do… | crsfn-12627 | fichas/crsfn/2013-03.md |
+| pas | 02/2010 | 2013-07-09 | absolvicao | COSAN S.A. Suposta utilização indevida de informação privilegiada. Absolvições. | cvm-pas-02-2010 | fichas/pas/2013-07.md |
+| termo-compromisso | RJ2013/2270 | 2013-06-25 | aceito | O Colegiado aceitou duas propostas de termo de compromisso de um gerente e um analista de relações com investidores da HRT Participações em… | cvm-col-20130625-d01 | fichas/tc/2013-03.md |
+| acordao-crsfn | 24/05 | 2013-02-26 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Inobservância do dever de guarda do sigilo de informação relevante… | crsfn-12358 | fichas/crsfn/2013-01.md |
+| termo-compromisso | 20/2009 | 2012-12-18 | aceito | O Colegiado aceitou a proposta conjunta de termo de compromisso de Petrix Overseas Ltd. e 3G Capital Partners Ltd. no PAS 20/2009 (suposto… | cvm-col-20121218-d03 | fichas/tc/2012-06.md |
+| acordao-crsfn | 07/07 | 2012-12-05 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Utilização de informação privilegiada, obtida por força do cargo e… | crsfn-13069 | fichas/crsfn/2012-06.md |
+| acordao-crsfn | SP-2007-0118 | 2012-12-05 | parcial | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Quebra do dever de lealdade pelo diretor de finanças e de relações com… | crsfn-12042 | fichas/crsfn/2012-05.md |
+| termo-compromisso | RJ2012/4588 | 2012-10-16 | aceito | O Colegiado aceitou a proposta de termo de compromisso do proponente, diretor de RI e financeiro da Cosan S.A., acusado de negociar ações… | cvm-col-20121016-d01 | fichas/tc/2012-05.md |
+| termo-compromisso | RJ2011/9304 | 2012-10-02 | aceito | O Colegiado aceitou proposta de termo de compromisso de um acusado por uso de informação privilegiada em ações da Lupatech S.A… | cvm-col-20121002-d02 | fichas/tc/2012-05.md |
+| acordao-crsfn | SP-2005-155 | 2012-09-25 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Utilização de informação privilegiada - Prática não equitativa… | crsfn-11744 | fichas/crsfn/2012-04.md |
+| pas | RJ2011/2789 | 2012-08-28 | absolvicao | [pessoa física] suposta utilização de informações relevantes ainda não divulgadas ao mercado de valores mobiliários. Absolvição. | cvm-pas-rj2011-2789 | fichas/pas/2012-03.md |
+| pas | 11/2008 | 2012-08-21 | absolvicao | SUZANO PETROQUÍMICA S.A. suposta utilização de informação privilegiada. Absolvições. | cvm-pas-11-2008 | fichas/pas/2012-03.md |
+| termo-compromisso | RJ2011/13279 | 2012-07-24 | aceito | O Colegiado aceitou proposta conjunta de termo de compromisso de dois administradores da Localiza, de R$ 350.000,00 no total, acompanhando… | cvm-col-20120724-d03 | fichas/tc/2012-04.md |
+| decisao-colegiado | RJ2011/1871 | 2012-07-10 | nao-provido | O Colegiado negou provimento a recurso de investidores contra decisão da SEP sobre a aquisição de controle da GVT pela Vivendi, relativa à… | cvm-col-20120710-d09 | fichas/colegiado/2012-12.md |
+| termo-compromisso | RJ2010/2419 | 2012-07-03 | aceito | O Colegiado aceitou, acompanhando o parecer do Comitê, proposta de termo de compromisso da Tyrus Capital LLP de R$ 10.000.000,00, por ser… | cvm-col-20120703-d25 | fichas/tc/2012-04.md |
+| termo-compromisso | RJ2011/13492 | 2012-06-19 | rejeitado | O Colegiado considerou inoportuna e inconveniente a aceitação das nove propostas de termo de compromisso no PAS RJ2011/3823, apesar da… | cvm-col-20120619-d01 | fichas/tc/2012-03.md |
+| termo-compromisso | RJ2009/5327 | 2012-04-10 | rejeitado | O Colegiado rejeitou nova proposta de termo de compromisso de R$ 10.000,00 do diretor administrativo-financeiro da Triunfo Participações e… | cvm-col-20120410-d01 | fichas/tc/2012-02.md |
+| pas | RJ2011/3665 | 2012-04-03 | condenacao | LUCIANO E [pessoa física] Utilização de informação confidencial ainda não divulgada ao mercado. Multas. | cvm-pas-rj2011-3665 | fichas/pas/2012-02.md |
+| pas | RJ2010/1666 | 2012-04-03 | absolvicao | [pessoa física] Eventual uso indevido de informação privilegiada, em suposta violação do art.13 da Instrução CVM nº 358/02. Absolvição. | cvm-pas-rj2010-1666 | fichas/pas/2012-01.md |
+| pas | 11/2009 | 2012-04-03 | absolvicao | ESTÁCIO PARTICIPAÇÕES S/A Eventual utilização de informações relevantes ainda não divulgadas ao mercado. Absolvição. | cvm-pas-11-2009 | fichas/pas/2012-01.md |
+| termo-compromisso | 06/2010 | 2012-01-24 | aceito | O Colegiado aceitou, acompanhando o Comitê, a proposta conjunta de R$ 300.000,00 (R$ 150.000,00 por proponente) de dois acionistas… | cvm-col-20120124-d01 | fichas/tc/2012-01.md |
+| pas | RJ2010/14407 | 2011-12-13 | condenacao | LUPATECH Irregularidade na negociação com ações da Lupatech. Advertência. | cvm-pas-rj2010-14407 | fichas/pas/2011-06.md |
+| pas | 13/2009 | 2011-12-13 | parcial | SADIA S/A Utilização de informação relevante ainda não divulgada ao mercado – difusão antecipada e privilegiada de informação acerca dos… | cvm-pas-13-2009 | fichas/pas/2011-06.md |
+| decisao-colegiado | 13/2009 | 2011-10-25 | nao-provido | O Colegiado manteve a rejeição da proposta de termo de compromisso de um proponente acusado de negociar ações da Sadia S.A. com informação… | cvm-col-20111025-d06 | fichas/colegiado/2011-23.md |
+| termo-compromisso | 18/2009 | 2011-10-04 | aceito | O Colegiado aceitou a proposta de termo de compromisso apresentada por um diretor da João Fortes Engenharia S.A., acusado de descumprir o… | cvm-col-20111004-d04 | fichas/tc/2011-04.md |
+| termo-compromisso | RJ2011/7288 | 2011-09-06 | rejeitado | O Colegiado rejeitou quatro propostas de termo de compromisso de um gerente da Sadia, dois clubes de investimento e um diretor de… | cvm-col-20110906-d03 | fichas/tc/2011-03.md |
+| pas | RJ2010/4206 | 2011-08-23 | absolvicao | [pessoa física] (USA) Eventual irregularidade na negociação com units da Terna Participações S/A, em suposta infração ao art. 13 da… | cvm-pas-rj2010-4206 | fichas/pas/2011-04.md |
+| pas | 19/2009 | 2011-06-07 | condenacao | GOL Linhas Aéreas Inteligentes S/A Utilização de informação privilegiada. Multa. | cvm-pas-19-2009 | fichas/pas/2011-01.md |
+| termo-compromisso | RJ2009/5327 | 2011-06-07 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de diretor de companhia acusado de suposto uso de informação privilegiada (art. 155… | cvm-col-20110607-d02 | fichas/tc/2011-03.md |
+| termo-compromisso | RJ2010/11519 | 2011-03-22 | aceito | O Colegiado aceitou duas propostas de termo de compromisso de R$ 200.000,00 cada, de dois administradores da Sadia S.A., acompanhando o… | cvm-col-20110322-d03 | fichas/tc/2011-02.md |
+| termo-compromisso | RJ2009/5327 | 2011-02-15 | rejeitado | O Colegiado rejeitou duas propostas de termo de compromisso, de R$ 200.000,00 cada, de acionista controlador e de conselheiro da Triunfo… | cvm-col-20110215-d06 | fichas/tc/2011-01.md |
+| pas | RJ2009/13459 | 2010-11-30 | condenacao | TERNA/[pessoa física] Uso indevido de informação privilegiada. – Multas. | cvm-pas-rj2009-13459 | fichas/pas/2010-10.md |
+| pas | 19/2006 | 2010-11-30 | absolvicao | RIPASA Eventual uso de informação privilegiada. – Absolvição. | cvm-pas-19-2006 | fichas/pas/2010-09.md |
+| termo-compromisso | RJ2008/3539 | 2010-11-30 | aceito | O Colegiado aceitou a proposta de termo de compromisso de uma investidora pessoa física, que pagará R$ 65.487,98 à CVM, correspondente ao… | cvm-col-20101130-d06 | fichas/tc/2010-06.md |
+| pas | 10/2008 | 2010-11-23 | condenacao | REFINARIA DE PETRÓLEO IPIRANGA S.A E OUTROS Ementa: Exercício irregular da atividade de administração de carteira – Utilização de… | cvm-pas-10-2008 | fichas/pas/2010-09.md |
+| pas | 21/2005 | 2010-10-26 | absolvicao | AMBEV Suposta utilização de informação relevante ainda não divulgada ao mercado, em desobediência ao art. 155, § 4º, da Lei nº 6.404/76… | cvm-pas-21-2005 | fichas/pas/2010-07.md |
+| termo-compromisso | RJ2010/0926 | 2010-10-19 | outro | O Colegiado aceitou duas propostas de termo de compromisso, de R$ 200.000,00 cada, acompanhando o Comitê, e rejeitou três: a de R$… | cvm-col-20101019-d09 | fichas/tc/2010-05.md |
+| termo-compromisso | RJ2010/2411 | 2010-10-05 | aceito | Após pedido de vista, o Colegiado, por maioria, aceitou propostas de R$ 150.000,00 cada de dois diretores da Light S.A. por alienação de… | cvm-col-20101005-d12 | fichas/tc/2010-05.md |
+| termo-compromisso | RJ2010/1144 | 2010-09-21 | aceito | O Colegiado aceitou duas propostas no PAS RJ2010/1144: R$ 200.000,00 de diretor de RI acusado de não divulgar fato relevante, acompanhando… | cvm-col-20100921-d07 | fichas/tc/2010-05.md |
+| termo-compromisso | 19/2006 | 2010-09-14 | aceito | O Colegiado aceitou proposta de termo de compromisso de R$ 200.000,00 de diretor acusado de vender ações antes de fato relevante, com uso… | cvm-col-20100914-d02 | fichas/tc/2010-04.md |
+| acordao-crsfn | 01/03 | 2010-09-14 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Descumprimento do dever de sigilo acerca de informação privilegiada e do dever de… | crsfn-11414 | fichas/crsfn/2010-08.md |
+| termo-compromisso | 21/2005 | 2010-09-09 | rejeitado | O Colegiado rejeitou, por maioria, vencido um diretor, proposta de termo de compromisso de R$ 200.000,00 da Fundação Antonio e Helena… | cvm-col-20100909-d02 | fichas/tc/2010-04.md |
+| termo-compromisso | RJ2009/8286 | 2010-08-24 | aceito | O Colegiado aceitou nova proposta de termo de compromisso de R$ 150.000,00 de acusado de uso de informação privilegiada na alienação de… | cvm-col-20100824-d01 | fichas/tc/2010-04.md |
+| termo-compromisso | RJ2009/8286 | 2010-07-20 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso de membro do conselho de administração de emissora de BDR nível III, acusado de… | cvm-col-20100720-d03 | fichas/tc/2010-04.md |
+| termo-compromisso | RJ2009/9579 | 2010-06-22 | aceito | O Colegiado aceitou, por maioria, proposta de termo de compromisso de dois administradores da Santos Brasil Participações S.A., desde que o… | cvm-col-20100622-d02 | fichas/tc/2010-03.md |
+| termo-compromisso | RJ2010/0963 | 2010-06-22 | aceito | O Colegiado aceitou a proposta de termo de compromisso do proponente, acusado de negociar ações da Refinaria Ipiranga com informação… | cvm-col-20100622-d01 | fichas/tc/2010-03.md |
+| decisao-colegiado | RJ2008/0713 | 2010-04-27 | nao-provido | O Colegiado negou provimento a pedido de reconsideração contra a decisão de 09.02.10, que indeferira recurso contra entendimento da SOI de… | cvm-col-20100427-d01 | fichas/colegiado/2010-12.md |
+| termo-compromisso | RJ2010/1807 | 2010-04-13 | rejeitado | O Colegiado indeferiu pedido de reconsideração e rejeitou nova proposta de termo de compromisso de um acusado no PAS RJ2009/2172, por… | cvm-col-20100413-d03 | fichas/tc/2010-02.md |
+| termo-compromisso | RJ2009/13069 | 2010-04-13 | aceito | O Colegiado aceitou proposta de termo de compromisso de quatro administradores por suposta negociação de ações da Itaúsa antes de fato… | cvm-col-20100413-d02 | fichas/tc/2010-02.md |
+| acordao-crsfn | RJ-2003-5669 | 2010-03-23 | parcial | RECURSOS VOLUNTÁRIO E DE OFÍCIO – Mercado de valores mobiliários - Aquisição de ações mediante uso de informações privilegiadas - Recursos… | crsfn-11143 | fichas/crsfn/2010-02.md |
+| acordao-crsfn | RJ-2004-852 | 2010-03-23 | absolvicao | RECURSO DE OFÍCIO - Mercado de valores mobiliários - Negociação ilícita de ações por força de ocorrência de informação privilegiada… | crsfn-11104 | fichas/crsfn/2010-02.md |
+| pas | 07/2007 | 2010-03-16 | parcial | SADIA S/A;PERDIGÃO S/A e outros. Utilização, pelo administrador da companhia, de informação relevante, com a finalidade de auferir… | cvm-pas-07-2007 | fichas/pas/2010-01.md |
+| decisao-colegiado | RJ2008/0713 | 2010-02-09 | nao-provido | Recurso contra entendimento da SOI. Proc. RJ2008/0713. | cvm-col-20100209-d13 | fichas/colegiado/2010-05.md |
+| termo-compromisso | RJ2009/4925 | 2010-02-09 | rejeitado | O Colegiado rejeitou nova proposta de termo de compromisso de um administrador da Lupatech S.A., de R$ 35.500,00, por alienação de ações… | cvm-col-20100209-d05 | fichas/tc/2010-01.md |
+| termo-compromisso | RJ2009/6349 | 2010-01-26 | rejeitado | O Colegiado rejeitou nova proposta de termo de compromisso de R$ 100.000,00 do acusado de uso de informação privilegiada em negociações com… | cvm-col-20100126-d02 | fichas/tc/2010-01.md |
+| pas | 13/2006 | 2009-12-15 | condenacao | PARANAPANEMA S/A Realização de negócios com ações de emissão da Paranapanema S/A por membro do Conselho de Administração da companhia… | cvm-pas-13-2006 | fichas/pas/2009-10.md |
+| termo-compromisso | RJ2008/9022 | 2009-12-15 | rejeitado | O Colegiado rejeitou as quatro novas propostas de termo de compromisso de administradores da Cyrela Brazil Realty S.A. (total de R$ 1… | cvm-col-20091215-d03 | fichas/tc/2009-09.md |
+| termo-compromisso | RJ2009/4744 | 2009-12-08 | aceito | O Colegiado, por maioria, aprovou a proposta de termo de compromisso de quatro administradores da Weg S.A. (R$ 300.000,00 cada), acusados… | cvm-col-20091208-d23 | fichas/tc/2009-09.md |
+| termo-compromisso | RJ2009/6773 | 2009-11-24 | rejeitado | O Colegiado rejeitou as quatro propostas de termo de compromisso de acusados de uso de informação privilegiada em negociações com ações da… | cvm-col-20091124-d03 | fichas/tc/2009-08.md |
+| termo-compromisso | RJ2009/5051 | 2009-11-24 | rejeitado | Com base no parecer do Comitê, o Colegiado rejeitou proposta de termo de compromisso de banco, corretora e duas pessoas físicas por suposto… | cvm-col-20091124-d02 | fichas/tc/2009-07.md |
+| termo-compromisso | 13/2006 | 2009-11-17 | rejeitado | Por unanimidade, o Colegiado rejeitou nova proposta de termo de compromisso de um acusado no PAS 13/2006, de R$ 100.000,00, por negociação… | cvm-col-20091117-d03 | fichas/tc/2009-07.md |
+| termo-compromisso | 21/2005 | 2009-11-17 | rejeitado | O Colegiado rejeitou, por unanimidade, a proposta de termo de compromisso de três proponentes acusados de uso de informação privilegiada em… | cvm-col-20091117-d02 | fichas/tc/2009-07.md |
+| pas | 22/2006 | 2009-10-20 | absolvicao | EMBRAER Suposta utilização de informações privilegiadas relacionadas à divulgação, pela EMBRAER - Empresa Brasileira de Aeronáutica S/A, de… | cvm-pas-22-2006 | fichas/pas/2009-09.md |
+| termo-compromisso | 22/2006 | 2009-10-20 | aceito | Apreciação de nova proposta de termo de compromisso. | cvm-col-20091020-d06 | fichas/tc/2009-07.md |
+| termo-compromisso | RJ2009/6349 | 2009-10-13 | outro | O Colegiado decidiu pedir ao Comitê de Termo de Compromisso que avalie a renegociação da proposta de um acusado no PAS 07/2007, sobre… | cvm-col-20091013-d03 | fichas/tc/2009-07.md |
+| termo-compromisso | RJ2009/5351 | 2009-10-13 | outro | O Colegiado solicitou ao Comitê de Termo de Compromisso que avalie a renegociação da proposta de um dos proponentes no PAS 19/2006 (não… | cvm-col-20091013-d02 | fichas/tc/2009-06.md |
+| termo-compromisso | RJ2009/4925 | 2009-09-15 | rejeitado | O Colegiado rejeitou a proposta de Termo de Compromisso de membro do conselho de administração e diretor da Lupatech S.A., por venda de… | cvm-col-20090915-d06 | fichas/tc/2009-06.md |
+| termo-compromisso | RJ2008/10421 | 2009-08-18 | aceito | O Colegiado aceitou a proposta de Termo de Compromisso do controlador da Agra Empreendimentos Imobiliários S.A., de R$ 1.372.000,00, por… | cvm-col-20090818-d04 | fichas/tc/2009-05.md |
+| termo-compromisso | RJ2008/12124 | 2009-06-23 | rejeitado | O Colegiado rejeitou proposta de Termo de Compromisso de administrador da Buettner S.A. Indústria e Comércio, acusado de não guardar sigilo… | cvm-col-20090623-d09 | fichas/tc/2009-04.md |
+| termo-compromisso | RJ2008/12727 | 2009-06-02 | rejeitado | O Colegiado rejeitou as três propostas de termo de compromisso de administradores da Santos Brasil Participações S.A., inclusive a de R$… | cvm-col-20090602-d10 | fichas/tc/2009-03.md |
+| termo-compromisso | RJ2008/9022 | 2009-06-02 | rejeitado | O Colegiado rejeitou as propostas de termo de compromisso apresentadas individualmente por quatro acusados, por negociação de ações antes… | cvm-col-20090602-d08 | fichas/tc/2009-03.md |
+| pas | 25/2005 | 2009-05-12 | absolvicao | IOCHPE-MAXION S/A Inobservância da vedação contida no art. 13, § 4º, da Instrução CVM nº 358/02, c/c o caput do mesmo artigo e com o art… | cvm-pas-25-2005 | fichas/pas/2009-03.md |
+| acordao-crsfn | 17/02 | 2009-04-15 | arquivamento | RECURSOS VOLUNTÁRIO E DE OFÍCIO – Mercado de valores mobiliários – Prática não equitativa – Negociação de ações com posse de informação… | crsfn-9703 | fichas/crsfn/2009-03.md |
+| termo-compromisso | 13/2006 | 2009-04-14 | rejeitado | O Colegiado rejeitou nova proposta de termo de compromisso de conselheiro acusado de negociar ações da companhia nos quinze dias anteriores… | cvm-col-20090414-d02 | fichas/tc/2009-02.md |
+| termo-compromisso | RJ2008/9514 | 2009-02-10 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de conselheiro, acusado de negociação em período vedado (art. 13, §4º, Instrução… | cvm-col-20090210-d04 | fichas/tc/2009-01.md |
+| termo-compromisso | RJ2009/0428 | 2009-02-03 | aceito | O Colegiado aceitou proposta de termo de compromisso de conselheiro da Construtora Tenda, por negociar ações antes de fato relevante. Prevê… | cvm-col-20090203-d13 | fichas/tc/2009-01.md |
+| pas | RJ2007/14044 | 2008-12-16 | condenacao | TÊXTIL RENAUXVIEW S/A Quebra do dever de sigilo - Não publicação de fato relevante - Não divulgação de premissas e memórias de cálculo… | cvm-pas-rj2007-14044 | fichas/pas/2008-09.md |
+| termo-compromisso | 13/2006 | 2008-11-04 | rejeitado | O Colegiado rejeitou as propostas de termo de compromisso da Hyposwiss Banco Privado S.A. (alienar ações e debêntures da Paranapanema) e de… | cvm-col-20081104-d04 | fichas/tc/2008-07.md |
+| pas | 24/2005 | 2008-10-07 | parcial | BAHEMA Utilização indevida de informação privilegiada relacionada à alienação do controle acionário da Bahema Equipamentos S.A. Infrações… | cvm-pas-24-2005 | fichas/pas/2008-07.md |
+| pas | 25/2004 | 2008-09-30 | parcial | Tele Centro Oeste Celular Participações S/A Movimentação no mercado de valores mobiliários, no segundo semestre de 2002 e início de 2003… | cvm-pas-25-2004 | fichas/pas/2008-06.md |
+| termo-compromisso | RJ2007/14044 | 2008-08-12 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso do proponente, pessoa física, acusado de não guardar sigilo sobre resultados e… | cvm-col-20080812-d06 | fichas/tc/2008-05.md |
+| termo-compromisso | 22/2006 | 2008-08-12 | aceito | O Colegiado rejeitou, por unanimidade, proposta de termo de compromisso de investidor não residente por uso de informação relevante não… | cvm-col-20080812-d05 | fichas/tc/2008-05.md |
+| decisao-colegiado | — | 2008-08-07 | deferido | O Colegiado deferiu tratamento confidencial a evento administrativo sobre negociação de ações da companhia por empregado com informação… | cvm-col-20080807-d01 | fichas/colegiado/2008-18.md |
+| termo-compromisso | 25/2005 | 2008-07-03 | aceito | O Colegiado aceitou nova proposta de Termo de Compromisso da Iochpe-Maxion S.A. e de dois acusados no PAS 25/2005, que apurava uso de… | cvm-col-20080703-d01 | fichas/tc/2008-05.md |
+| termo-compromisso | RJ2007/11305 | 2008-06-05 | aceito | O Colegiado aceitou proposta de termo de compromisso de ex-governador paulista acusado de infração ao art. 8º da Instrução CVM 358/02, por… | cvm-col-20080605-d02 | fichas/tc/2008-04.md |
+| termo-compromisso | 26/2006 | 2008-04-25 | aceito | O Colegiado aceitou três propostas de termo de compromisso de pessoas físicas, de R$ 100.000,00, R$ 25.000,00 e R$ 25.000,00, e rejeitou a… | cvm-col-20080425-d03 | fichas/tc/2008-03.md |
+| acordao-crsfn | 11/2004 | 2008-03-26 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Uso de informações privilegiadas em negociações com ações antecedentemente a… | crsfn-9225 | fichas/crsfn/2008-01.md |
+| termo-compromisso | RJ2007/10889 | 2008-03-04 | aceito | O Colegiado, acompanhando o parecer do Comitê, aceitou a proposta de Termo de Compromisso de R$ 75.000,00, desde que paga à vista em 10… | cvm-col-20080304-d06 | fichas/tc/2008-02.md |
+| termo-compromisso | SP2007/0119 | 2008-03-04 | aceito | O Colegiado aceitou a proposta aditada de Termo de Compromisso, de R$ 238.000,00, em PAS por uso de informação relevante não divulgada em… | cvm-col-20080304-d05 | fichas/tc/2008-02.md |
+| termo-compromisso | RJ2007/12231 | 2008-03-04 | aceito | O Colegiado aceitou a proposta de Termo de Compromisso e de Ajustamento de Conduta da Vailly S.A., com depósito de R$ 2.200.000,00 em conta… | cvm-col-20080304-d01 | fichas/tc/2008-01.md |
+| pas | SP2007/0118 | 2008-02-26 | condenacao | [pessoa física] Cumpre ao administrador de companhia aberta guardar sigilo sobre qualquer informação que ainda não tenha sido divulgada… | cvm-pas-sp2007-0118 | fichas/pas/2008-02.md |
+| pas | SP2007/0117 | 2008-02-26 | condenacao | [pessoa física] - O administrador deve servir com lealdade à companhia e manter reserva sobre seus negócios, sendo-lhe vedado a utilização… | cvm-pas-sp2007-0117 | fichas/pas/2008-02.md |
+| acordao-crsfn | 18/01 | 2008-02-26 | absolvicao | O CRSFN deu provimento aos recursos voluntários da FAR e de um administrador e negou provimento ao recurso de ofício da CVM. Não aceitou… | crsfn-8253 | fichas/crsfn/2008-01.md |
+| termo-compromisso | 25/2005 | 2007-12-18 | rejeitado | O Colegiado rejeitou as duas propostas de termo de compromisso no PAS 25/2005, por uso de informação privilegiada: a da BNDES Participações… | cvm-col-20071218-d04 | fichas/tc/2007-06.md |
+| decisao-colegiado | — | 2007-08-24 | outro | O Colegiado esclareceu que a suspensão de aquisições de ações pelo programa de recompra da Brascan Residential Properties S.A. vale… | cvm-col-20070824-d01 | fichas/colegiado/2007-15.md |
+| pas | SP2005/0155 | 2007-08-21 | parcial | É vedada, como prática não eqüitativa, a negociação com valores mobiliários realizada por quem quer que, em virtude de seu cargo, função ou… | cvm-pas-sp2005-0155 | fichas/pas/2007-11.md |
+| pas | 07/2004 | 2007-08-01 | parcial | O uso de informação privilegiada, caracterizado como prática não eqüitativa, é aquele de que resulta, direta ou indiretamente, efetiva ou… | cvm-pas-07-2004 | fichas/pas/2007-10.md |
+| termo-compromisso | 25/2004 | 2007-07-03 | rejeitado | O Colegiado rejeitou as propostas de termo de compromisso de um proponente individual e de um grupo de acusados no PAS 25/2004 (uso de… | cvm-col-20070703-d08 | fichas/tc/2007-03.md |
+| pas | 22/2004 | 2007-06-20 | condenacao | Conforme determinado na Política de Negociação de Valores Mobiliários e Divulgação de Informação da Companhia, os acionistas controladores… | cvm-pas-22-2004 | fichas/pas/2007-07.md |
+| termo-compromisso | RJ2006/4234 | 2007-01-30 | aceito | O Colegiado aceitou proposta de termo de compromisso do vice-presidente do Conselho de Administração da Marcopolo S.A., apresentada antes… | cvm-col-20070130-d03 | fichas/tc/2007-01.md |
+| termo-compromisso | 22/2004 | 2007-01-30 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso apresentada por um dos acusados em PAS que apura uso de informação privilegiada em… | cvm-col-20070130-d02 | fichas/tc/2007-01.md |
+| acordao-crsfn | IA-2003/6 | 2006-12-13 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Ocorrência de insider trady na negociação de títulos e valores mobiliários… | crsfn-9254 | fichas/crsfn/2006-02.md |
+| termo-compromisso | 17/2003 | 2006-08-01 | aceito | O Colegiado aceitou, por unanimidade, a proposta de termo de compromisso do Banco Fator S.A. e outros acusados de uso de informação… | cvm-col-20060801-d01 | fichas/tc/2006-03.md |
+| pas | RJ2003/5669 | 2006-07-11 | parcial | Uso de informação privilegiada (insider trading), em violação ao artigo 13 da Instrução CVM nº 358/02. Absolvição e multa. | cvm-pas-rj2003-5669 | fichas/pas/2006-13.md |
+| pas | 04/2004 | 2006-06-28 | parcial | Negociações de valores mobiliários realizadas por advogados que tiveram acesso, no exercício de sua profissão, a informações sobre negócios… | cvm-pas-04-2004 | fichas/pas/2006-13.md |
+| pas | RJ2004/0852 | 2006-05-30 | absolvicao | Negociação com base em informação privilegiada realizada por terceiros não vinculados à companhia (insider trading). Não comprovada a… | cvm-pas-rj2004-0852 | fichas/pas/2006-11.md |
+| termo-compromisso | 02/2003 | 2006-05-09 | rejeitado | O Colegiado rejeitou proposta de Termo de Compromisso da Koninklijke Ahold N.V. e de outros três proponentes em PAS por uso de informação… | cvm-col-20060509-d01 | fichas/tc/2006-02.md |
+| acordao-crsfn | 33/00 | 2006-03-06 | parcial | RECURSOS VOLUNTÁRIOS – Mercado de valores mobiliários – Negociação de ações em bolsa de valores – Uso de informação relevante ainda não… | crsfn-4780 | fichas/crsfn/2006-01.md |
+| decisao-colegiado | RJ2005/8456 | 2006-01-03 | outro | Em consulta do Bradesco, o Colegiado acompanhou o voto do relator, que aceitou o plano de reinvestimento mensal de dividendos e JCP para… | cvm-col-20060103-d05 | fichas/colegiado/2006-01.md |
+| pas | 11/2004 | 2005-12-13 | absolvicao | Acusações de descumprimento do artigo 155, § 1º, segunda parte, da Lei nº 6.404/76, dos artigos 10 e 11 "caput" da Instrução CVM nº 31/84… | cvm-pas-11-2004 | fichas/pas/2005-19.md |
+| pas | 17/2002 | 2005-10-25 | parcial | Infração ao disposto no artigo 11 da Instrução CVM nº 31/84 e aos incisos I e II, alínea d, ambos da Instrução CVM nº 08/79. Multa e… | cvm-pas-17-2002 | fichas/pas/2005-14.md |
+| pas | 06/2003 | 2005-09-14 | absolvicao | BBA S.A.) E [pessoa física] A caracterização do uso indevido de informação privilegiada acerca de uma determinada companhia pressupõe que… | cvm-pas-06-2003 | fichas/pas/2005-11.md |
+| pas | RJ2003/5627 | 2005-01-28 | condenacao | [pessoa física] Configura uso indevido de informação privilegiada a aquisição de ações por membro do Conselho de Administração antes da… | cvm-pas-rj2003-5627 | fichas/pas/2005-02.md |
+| acordao-crsfn | 13/00 | 2004-12-14 | absolvicao | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Uso de informação privilegiada ainda não divulgada no mercado (insider trading)… | crsfn-4195 | fichas/crsfn/2004-05.md |
+| pas | 18/2001 | 2004-11-04 | parcial | Infração ao parágrafo único, do art. 11, da Instrução CVM nº 31/84. Insider Trading. Multas. Infração ao inciso II, do art. 14, da… | cvm-pas-18-2001 | fichas/pas/2004-13.md |
+| decisao-colegiado | RJ2002/6749 | 2004-10-25 | outro | O Colegiado não flexibilizou a aplicação da Instrução CVM 358/02 para a consulente, que pretendia negociar ações da Saraiva S/A em períodos… | cvm-col-20041025-d03 | fichas/colegiado/2004-12.md |
+| pas | 33/2000 | 2002-12-20 | condenacao | [pessoa física] E OUTROS (ELEVADORES ATLAS S/A) Infração ao disposto no § 1º do art. 2º, c/c o art. 4º, PU, e ao art. 10, todos da… | cvm-pas-33-2000 | fichas/pas/2002-08.md |
+| pas | 13/2000 | 2002-04-17 | absolvicao | BRACO S/A E OUTROS (AMBEV/BRAHMA) Insider Trading - Inexistência de indícios que permitam a procedência da acusação. Absolvição. | cvm-pas-13-2000 | fichas/pas/2002-03.md |
+| acordao-crsfn | 09/92 | 1998-04-28 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Mercado de Valores Mobiliários - Manutenção em tesouraria de ações preferenciais, de emissão da própria… | crsfn-2406 | fichas/crsfn/1998-02.md |
 
 Fim do subíndice.

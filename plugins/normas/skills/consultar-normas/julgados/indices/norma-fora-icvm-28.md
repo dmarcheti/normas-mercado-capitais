@@ -34,8 +34,8 @@ Norma: fora do acervo.
 | art. 6º | decisao-colegiado | RJ2003/5675 | 2003-06-25 | nao-provido | cvm-col-20030625-d01 | fichas/colegiado/2003-08.md |
 | art. 6º | decisao-colegiado | 19957.000040/2017-37 | 2017-02-21 | deferido | cvm-col-20170221-d0586 | fichas/colegiado/2017-05.md |
 | art. 6º | termo-compromisso | 19957.010194/2019-07 | 2021-04-06 | rejeitado | cvm-col-20210406-d1973 | fichas/tc/2021-02.md |
-| art. 6º | pas | 19957.010053/2021-09 | 2024-06-13 | parcial | cvm-pas-19957-010053-2021-09 | fichas/pas/2024-03.md |
-| art. 6º | pas | 19957.010194/2019-07 | 2024-06-13 | parcial | cvm-pas-19957-010194-2019-07 | fichas/pas/2024-04.md |
+| art. 6º | pas | 19957.010053/2021-09 | 2024-06-13 | parcial | cvm-pas-19957-010053-2021-09 | fichas/pas/2024-06.md |
+| art. 6º | pas | 19957.010194/2019-07 | 2024-06-13 | parcial | cvm-pas-19957-010194-2019-07 | fichas/pas/2024-07.md |
 
 ## art. 7º
 
@@ -75,21 +75,21 @@ Norma: fora do acervo.
 | art. 12 | termo-compromisso | RJ2005/0305 | 2006-06-26 | rejeitado | cvm-col-20060626-d01 | fichas/tc/2006-03.md |
 | art. 12 | termo-compromisso | 19957.000596/2019-95 | 2020-08-04 | rejeitado | cvm-col-20200804-d1743 | fichas/tc/2020-05.md |
 | art. 12 | termo-compromisso | 19957.010194/2019-07 | 2021-04-06 | rejeitado | cvm-col-20210406-d1973 | fichas/tc/2021-02.md |
-| art. 12 | pas | RJ2003/8172 | 2004-10-15 | parcial | cvm-pas-rj2003-8172 | fichas/pas/2004-06.md |
-| art. 12 | pas | 18/2003 | 2005-12-08 | parcial | cvm-pas-18-2003 | fichas/pas/2005-09.md |
-| art. 12 | pas | RJ2005/0305 | 2006-10-24 | — | cvm-pas-rj2005-0305 | fichas/pas/2006-11.md |
-| art. 12 | pas | 19957.007430/2019-08 | 2022-12-22 | parcial | cvm-pas-19957-007430-2019-08 | fichas/pas/2022-07.md |
-| art. 12 | pas | 19957.010053/2021-09 | 2024-06-13 | parcial | cvm-pas-19957-010053-2021-09 | fichas/pas/2024-03.md |
-| art. 12 | pas | 19957.010194/2019-07 | 2024-06-13 | parcial | cvm-pas-19957-010194-2019-07 | fichas/pas/2024-04.md |
-| art. 12, inciso I | acordao-crsfn | RJ-2003/8172 | 2008-08-27 | absolvicao | crsfn-8929 | fichas/crsfn/2008-04.md |
+| art. 12 | pas | RJ2003/8172 | 2004-10-15 | parcial | cvm-pas-rj2003-8172 | fichas/pas/2004-13.md |
+| art. 12 | pas | 18/2003 | 2005-12-08 | parcial | cvm-pas-18-2003 | fichas/pas/2005-19.md |
+| art. 12 | pas | RJ2005/0305 | 2006-10-24 | — | cvm-pas-rj2005-0305 | fichas/pas/2006-22.md |
+| art. 12 | pas | 19957.007430/2019-08 | 2022-12-22 | parcial | cvm-pas-19957-007430-2019-08 | fichas/pas/2022-13.md |
+| art. 12 | pas | 19957.010053/2021-09 | 2024-06-13 | parcial | cvm-pas-19957-010053-2021-09 | fichas/pas/2024-06.md |
+| art. 12 | pas | 19957.010194/2019-07 | 2024-06-13 | parcial | cvm-pas-19957-010194-2019-07 | fichas/pas/2024-07.md |
+| art. 12, inciso I | acordao-crsfn | RJ-2003/8172 | 2008-08-27 | absolvicao | crsfn-8929 | fichas/crsfn/2008-05.md |
 | art. 12, inciso I | termo-compromisso | 19957.010194/2019-07 | 2021-04-06 | rejeitado | cvm-col-20210406-d1973 | fichas/tc/2021-02.md |
-| art. 12, inciso I | pas | 19957.010053/2021-09 | 2024-06-13 | parcial | cvm-pas-19957-010053-2021-09 | fichas/pas/2024-03.md |
-| art. 12, inciso I | pas | 19957.010194/2019-07 | 2024-06-13 | parcial | cvm-pas-19957-010194-2019-07 | fichas/pas/2024-04.md |
-| art. 12, inciso II | acordao-crsfn | RJ-2003/8172 | 2008-08-27 | absolvicao | crsfn-8929 | fichas/crsfn/2008-04.md |
-| art. 12, inciso III | acordao-crsfn | RJ-2003/8172 | 2008-08-27 | absolvicao | crsfn-8929 | fichas/crsfn/2008-04.md |
-| art. 12, inciso III | pas | 19957.007430/2019-08 | 2022-12-22 | parcial | cvm-pas-19957-007430-2019-08 | fichas/pas/2022-07.md |
-| art. 12, inciso IV | acordao-crsfn | RJ-2003/8172 | 2008-08-27 | absolvicao | crsfn-8929 | fichas/crsfn/2008-04.md |
-| art. 12, inciso IX | acordao-crsfn | RJ-2005-4356 | 2010-06-22 | parcial | crsfn-11168 | fichas/crsfn/2010-05.md |
+| art. 12, inciso I | pas | 19957.010053/2021-09 | 2024-06-13 | parcial | cvm-pas-19957-010053-2021-09 | fichas/pas/2024-06.md |
+| art. 12, inciso I | pas | 19957.010194/2019-07 | 2024-06-13 | parcial | cvm-pas-19957-010194-2019-07 | fichas/pas/2024-07.md |
+| art. 12, inciso II | acordao-crsfn | RJ-2003/8172 | 2008-08-27 | absolvicao | crsfn-8929 | fichas/crsfn/2008-05.md |
+| art. 12, inciso III | acordao-crsfn | RJ-2003/8172 | 2008-08-27 | absolvicao | crsfn-8929 | fichas/crsfn/2008-05.md |
+| art. 12, inciso III | pas | 19957.007430/2019-08 | 2022-12-22 | parcial | cvm-pas-19957-007430-2019-08 | fichas/pas/2022-13.md |
+| art. 12, inciso IV | acordao-crsfn | RJ-2003/8172 | 2008-08-27 | absolvicao | crsfn-8929 | fichas/crsfn/2008-05.md |
+| art. 12, inciso IX | acordao-crsfn | RJ-2005-4356 | 2010-06-22 | parcial | crsfn-11168 | fichas/crsfn/2010-06.md |
 | art. 12, inciso IX | acordao-crsfn | RJ-2005-305 | 2012-10-25 | parcial | crsfn-11417 | fichas/crsfn/2012-04.md |
 | art. 12, inciso IX | acordao-crsfn | IS-2003-19 | 2013-03-26 | parcial | crsfn-11833 | fichas/crsfn/2013-01.md |
 | art. 12, inciso IX | decisao-colegiado | RJ2009/8675 | 2009-10-13 | deferido | cvm-col-20091013-d24 | fichas/colegiado/2009-18.md |
@@ -123,56 +123,56 @@ Norma: fora do acervo.
 | art. 12, inciso IX | decisao-colegiado | 19957.001404/2016-15 | 2016-07-26 | deferido | cvm-col-20160726-d0317 | fichas/colegiado/2016-15.md |
 | art. 12, inciso IX | decisao-colegiado | 19957.010275/2017-37 | 2017-11-14 | deferido | cvm-col-20171114-d0849 | fichas/colegiado/2017-19.md |
 | art. 12, inciso IX | termo-compromisso | 19957.010194/2019-07 | 2021-04-06 | rejeitado | cvm-col-20210406-d1973 | fichas/tc/2021-02.md |
-| art. 12, inciso IX | pas | RJ2005/0305 | 2006-10-24 | — | cvm-pas-rj2005-0305 | fichas/pas/2006-11.md |
-| art. 12, inciso IX | pas | RJ2005/4356 | 2006-06-20 | parcial | cvm-pas-rj2005-4356 | fichas/pas/2006-06.md |
-| art. 12, inciso IX | pas | 19/2003 | 2007-04-24 | parcial | cvm-pas-19-2003 | fichas/pas/2007-03.md |
-| art. 12, inciso IX | pas | 19957.007430/2019-08 | 2022-12-22 | parcial | cvm-pas-19957-007430-2019-08 | fichas/pas/2022-07.md |
-| art. 12, inciso IX | pas | 19957.010053/2021-09 | 2024-06-13 | parcial | cvm-pas-19957-010053-2021-09 | fichas/pas/2024-03.md |
-| art. 12, inciso IX | pas | 19957.010194/2019-07 | 2024-06-13 | parcial | cvm-pas-19957-010194-2019-07 | fichas/pas/2024-04.md |
-| art. 12, inciso V | acordao-crsfn | RJ-2003/8172 | 2008-08-27 | absolvicao | crsfn-8929 | fichas/crsfn/2008-04.md |
+| art. 12, inciso IX | pas | RJ2005/0305 | 2006-10-24 | — | cvm-pas-rj2005-0305 | fichas/pas/2006-22.md |
+| art. 12, inciso IX | pas | RJ2005/4356 | 2006-06-20 | parcial | cvm-pas-rj2005-4356 | fichas/pas/2006-13.md |
+| art. 12, inciso IX | pas | 19/2003 | 2007-04-24 | parcial | cvm-pas-19-2003 | fichas/pas/2007-05.md |
+| art. 12, inciso IX | pas | 19957.007430/2019-08 | 2022-12-22 | parcial | cvm-pas-19957-007430-2019-08 | fichas/pas/2022-13.md |
+| art. 12, inciso IX | pas | 19957.010053/2021-09 | 2024-06-13 | parcial | cvm-pas-19957-010053-2021-09 | fichas/pas/2024-06.md |
+| art. 12, inciso IX | pas | 19957.010194/2019-07 | 2024-06-13 | parcial | cvm-pas-19957-010194-2019-07 | fichas/pas/2024-07.md |
+| art. 12, inciso V | acordao-crsfn | RJ-2003/8172 | 2008-08-27 | absolvicao | crsfn-8929 | fichas/crsfn/2008-05.md |
 | art. 12, inciso V | acordao-crsfn | RJ-2005-305 | 2012-10-25 | parcial | crsfn-11417 | fichas/crsfn/2012-04.md |
 | art. 12, inciso V | termo-compromisso | 12/2009 | 2011-05-10 | aceito | cvm-col-20110510-d07 | fichas/tc/2011-02.md |
 | art. 12, inciso V | termo-compromisso | 19957.010194/2019-07 | 2021-04-06 | rejeitado | cvm-col-20210406-d1973 | fichas/tc/2021-02.md |
 | art. 12, inciso V | termo-compromisso | 19957.014508/2023-19 | 2024-12-20 | rejeitado | cvm-col-20241220-d3198 | fichas/tc/2024-07.md |
-| art. 12, inciso V | pas | RJ2005/0305 | 2006-10-24 | — | cvm-pas-rj2005-0305 | fichas/pas/2006-11.md |
-| art. 12, inciso V | pas | 19957.007430/2019-08 | 2022-12-22 | parcial | cvm-pas-19957-007430-2019-08 | fichas/pas/2022-07.md |
-| art. 12, inciso V | pas | 19957.010053/2021-09 | 2024-06-13 | parcial | cvm-pas-19957-010053-2021-09 | fichas/pas/2024-03.md |
-| art. 12, inciso V | pas | 19957.010194/2019-07 | 2024-06-13 | parcial | cvm-pas-19957-010194-2019-07 | fichas/pas/2024-04.md |
+| art. 12, inciso V | pas | RJ2005/0305 | 2006-10-24 | — | cvm-pas-rj2005-0305 | fichas/pas/2006-22.md |
+| art. 12, inciso V | pas | 19957.007430/2019-08 | 2022-12-22 | parcial | cvm-pas-19957-007430-2019-08 | fichas/pas/2022-13.md |
+| art. 12, inciso V | pas | 19957.010053/2021-09 | 2024-06-13 | parcial | cvm-pas-19957-010053-2021-09 | fichas/pas/2024-06.md |
+| art. 12, inciso V | pas | 19957.010194/2019-07 | 2024-06-13 | parcial | cvm-pas-19957-010194-2019-07 | fichas/pas/2024-07.md |
 | art. 12, inciso X | acordao-crsfn | IS-2003-19 | 2013-03-26 | parcial | crsfn-11833 | fichas/crsfn/2013-01.md |
-| art. 12, inciso X | pas | 19/2003 | 2007-04-24 | parcial | cvm-pas-19-2003 | fichas/pas/2007-03.md |
-| art. 12, inciso XII | pas | RJ2005/4356 | 2006-06-20 | parcial | cvm-pas-rj2005-4356 | fichas/pas/2006-06.md |
-| art. 12, inciso XII | pas | 19957.007430/2019-08 | 2022-12-22 | parcial | cvm-pas-19957-007430-2019-08 | fichas/pas/2022-07.md |
+| art. 12, inciso X | pas | 19/2003 | 2007-04-24 | parcial | cvm-pas-19-2003 | fichas/pas/2007-05.md |
+| art. 12, inciso XII | pas | RJ2005/4356 | 2006-06-20 | parcial | cvm-pas-rj2005-4356 | fichas/pas/2006-13.md |
+| art. 12, inciso XII | pas | 19957.007430/2019-08 | 2022-12-22 | parcial | cvm-pas-19957-007430-2019-08 | fichas/pas/2022-13.md |
 | art. 12, inciso XVII | acordao-crsfn | 19957.010194/2019-07 | 2025-04-08 | parcial | crsfn-10372-000171-2024-40 | fichas/crsfn/2025-02.md |
 | art. 12, inciso XVII | decisao-colegiado | RJ2005/5211 | 2007-05-08 | indeferido | cvm-col-20070508-d05 | fichas/colegiado/2007-07.md |
 | art. 12, inciso XVII | termo-compromisso | 19957.010194/2019-07 | 2021-04-06 | rejeitado | cvm-col-20210406-d1973 | fichas/tc/2021-02.md |
-| art. 12, inciso XVII | pas | 19957.010053/2021-09 | 2024-06-13 | parcial | cvm-pas-19957-010053-2021-09 | fichas/pas/2024-03.md |
-| art. 12, inciso XVII | pas | 19957.010194/2019-07 | 2024-06-13 | parcial | cvm-pas-19957-010194-2019-07 | fichas/pas/2024-04.md |
+| art. 12, inciso XVII | pas | 19957.010053/2021-09 | 2024-06-13 | parcial | cvm-pas-19957-010053-2021-09 | fichas/pas/2024-06.md |
+| art. 12, inciso XVII | pas | 19957.010194/2019-07 | 2024-06-13 | parcial | cvm-pas-19957-010194-2019-07 | fichas/pas/2024-07.md |
 | art. 12, inciso XVII, alínea g | termo-compromisso | 19957.010194/2019-07 | 2021-04-06 | rejeitado | cvm-col-20210406-d1973 | fichas/tc/2021-02.md |
-| art. 12, inciso XVII, alínea g | pas | 19957.007430/2019-08 | 2022-12-22 | parcial | cvm-pas-19957-007430-2019-08 | fichas/pas/2022-07.md |
-| art. 12, inciso XVII, alínea g | pas | 19957.010053/2021-09 | 2024-06-13 | parcial | cvm-pas-19957-010053-2021-09 | fichas/pas/2024-03.md |
-| art. 12, inciso XVII, alínea g | pas | 19957.010194/2019-07 | 2024-06-13 | parcial | cvm-pas-19957-010194-2019-07 | fichas/pas/2024-04.md |
-| art. 12, inciso XVIII | pas | 19957.010053/2021-09 | 2024-06-13 | parcial | cvm-pas-19957-010053-2021-09 | fichas/pas/2024-03.md |
-| art. 12, inciso XVIII | pas | 19957.010194/2019-07 | 2024-06-13 | parcial | cvm-pas-19957-010194-2019-07 | fichas/pas/2024-04.md |
+| art. 12, inciso XVII, alínea g | pas | 19957.007430/2019-08 | 2022-12-22 | parcial | cvm-pas-19957-007430-2019-08 | fichas/pas/2022-13.md |
+| art. 12, inciso XVII, alínea g | pas | 19957.010053/2021-09 | 2024-06-13 | parcial | cvm-pas-19957-010053-2021-09 | fichas/pas/2024-06.md |
+| art. 12, inciso XVII, alínea g | pas | 19957.010194/2019-07 | 2024-06-13 | parcial | cvm-pas-19957-010194-2019-07 | fichas/pas/2024-07.md |
+| art. 12, inciso XVIII | pas | 19957.010053/2021-09 | 2024-06-13 | parcial | cvm-pas-19957-010053-2021-09 | fichas/pas/2024-06.md |
+| art. 12, inciso XVIII | pas | 19957.010194/2019-07 | 2024-06-13 | parcial | cvm-pas-19957-010194-2019-07 | fichas/pas/2024-07.md |
 | art. 12, inciso XVIII, alínea c | decisao-colegiado | RJ2012/13426 | 2012-12-11 | nao-provido | cvm-col-20121211-d17 | fichas/colegiado/2012-23.md |
 | art. 12, inciso XVIII, alínea c | decisao-colegiado | RJ2012/13684 | 2012-12-11 | nao-provido | cvm-col-20121211-d31 | fichas/colegiado/2012-24.md |
 | art. 12, inciso XXIII | acordao-crsfn | 18/03 | 2010-02-23 | parcial | crsfn-10112 | fichas/crsfn/2010-02.md |
 | art. 12, inciso XXIII | acordao-crsfn | RJ-2005-305 | 2012-10-25 | parcial | crsfn-11417 | fichas/crsfn/2012-04.md |
-| art. 12, inciso XXIII | pas | 18/2003 | 2005-12-08 | parcial | cvm-pas-18-2003 | fichas/pas/2005-09.md |
-| art. 12, inciso XXIII | pas | RJ2005/0305 | 2006-10-24 | — | cvm-pas-rj2005-0305 | fichas/pas/2006-11.md |
+| art. 12, inciso XXIII | pas | 18/2003 | 2005-12-08 | parcial | cvm-pas-18-2003 | fichas/pas/2005-19.md |
+| art. 12, inciso XXIII | pas | RJ2005/0305 | 2006-10-24 | — | cvm-pas-rj2005-0305 | fichas/pas/2006-22.md |
 | art. 12, inciso XXIV | acordao-crsfn | RJ-2005-305 | 2012-10-25 | parcial | crsfn-11417 | fichas/crsfn/2012-04.md |
-| art. 12, inciso XXIV | pas | RJ2005/0305 | 2006-10-24 | — | cvm-pas-rj2005-0305 | fichas/pas/2006-11.md |
+| art. 12, inciso XXIV | pas | RJ2005/0305 | 2006-10-24 | — | cvm-pas-rj2005-0305 | fichas/pas/2006-22.md |
 | art. 12, inciso XXXII | acordao-crsfn | 18/03 | 2010-02-23 | parcial | crsfn-10112 | fichas/crsfn/2010-02.md |
 
 ## art. 13
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 13 | acordao-crsfn | RJ-2003-5137 | 2010-10-27 | absolvicao | crsfn-11433 | fichas/crsfn/2010-08.md |
+| art. 13 | acordao-crsfn | RJ-2003-5137 | 2010-10-27 | absolvicao | crsfn-11433 | fichas/crsfn/2010-09.md |
 | art. 13 | decisao-colegiado | RJ2003/5400 | 2006-07-11 | deferido | cvm-col-20060711-d01 | fichas/colegiado/2006-10.md |
-| art. 13 | pas | RJ2003/5137 | 2006-03-29 | absolvicao | cvm-pas-rj2003-5137 | fichas/pas/2006-02.md |
-| art. 13 | pas | RJ2017/3455 | 2018-10-23 | absolvicao | cvm-pas-rj2017-3455 | fichas/pas/2018-08.md |
-| art. 13, inciso I | pas | RJ2017/3455 | 2018-10-23 | absolvicao | cvm-pas-rj2017-3455 | fichas/pas/2018-08.md |
-| art. 13, parágrafo único | pas | RJ2017/3455 | 2018-10-23 | absolvicao | cvm-pas-rj2017-3455 | fichas/pas/2018-08.md |
+| art. 13 | pas | RJ2003/5137 | 2006-03-29 | absolvicao | cvm-pas-rj2003-5137 | fichas/pas/2006-05.md |
+| art. 13 | pas | RJ2017/3455 | 2018-10-23 | absolvicao | cvm-pas-rj2017-3455 | fichas/pas/2018-16.md |
+| art. 13, inciso I | pas | RJ2017/3455 | 2018-10-23 | absolvicao | cvm-pas-rj2017-3455 | fichas/pas/2018-16.md |
+| art. 13, parágrafo único | pas | RJ2017/3455 | 2018-10-23 | absolvicao | cvm-pas-rj2017-3455 | fichas/pas/2018-16.md |
 
 ## art. 14
 
@@ -185,24 +185,24 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 15 | pas | 19957.010053/2021-09 | 2024-06-13 | parcial | cvm-pas-19957-010053-2021-09 | fichas/pas/2024-03.md |
-| art. 15 | pas | 19957.010194/2019-07 | 2024-06-13 | parcial | cvm-pas-19957-010194-2019-07 | fichas/pas/2024-04.md |
+| art. 15 | pas | 19957.010053/2021-09 | 2024-06-13 | parcial | cvm-pas-19957-010053-2021-09 | fichas/pas/2024-06.md |
+| art. 15 | pas | 19957.010194/2019-07 | 2024-06-13 | parcial | cvm-pas-19957-010194-2019-07 | fichas/pas/2024-07.md |
 
 ## art. 19
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 19 | termo-compromisso | 19957.010194/2019-07 | 2021-04-06 | rejeitado | cvm-col-20210406-d1973 | fichas/tc/2021-02.md |
-| art. 19 | pas | 19957.007430/2019-08 | 2022-12-22 | parcial | cvm-pas-19957-007430-2019-08 | fichas/pas/2022-07.md |
+| art. 19 | pas | 19957.007430/2019-08 | 2022-12-22 | parcial | cvm-pas-19957-007430-2019-08 | fichas/pas/2022-13.md |
 
 ## Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.005597/2021-41 | 2025-12-09 | condenacao | cvm-pas-19957-005597-2021-41 | fichas/pas/2025-05.md |
-| pas | 19957.004810/2019-82 | 2024-09-03 | parcial | cvm-pas-19957-004810-2019-82 | fichas/pas/2024-07.md |
+| pas | 19957.005597/2021-41 | 2025-12-09 | condenacao | cvm-pas-19957-005597-2021-41 | fichas/pas/2025-10.md |
+| pas | 19957.004810/2019-82 | 2024-09-03 | parcial | cvm-pas-19957-004810-2019-82 | fichas/pas/2024-14.md |
 | termo-compromisso | 19957.007862/2018-20 | 2020-03-31 | rejeitado | cvm-col-20200331-d1476 | fichas/tc/2020-02.md |
-| pas | 22/2013 | 2018-09-18 | condenacao | cvm-pas-22-2013 | fichas/pas/2018-07.md |
+| pas | 22/2013 | 2018-09-18 | condenacao | cvm-pas-22-2013 | fichas/pas/2018-14.md |
 | decisao-colegiado | 04/2015; RJ2012/3268 | 2016-12-06 | outro | cvm-col-20161206-d0093 | fichas/colegiado/2016-23.md |
 | decisao-colegiado | 28/1983; RJ2012/3268 | 2015-11-18 | outro | cvm-col-20151118-d0093 | fichas/colegiado/2015-21.md |
 | decisao-colegiado | 28/1983; RJ2012/3268 | 2015-11-11 | — | cvm-col-20151111-d93 | fichas/colegiado/2015-21.md |

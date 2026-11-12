@@ -55,7 +55,7 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2003/0435 | 2003-12-17 | parcial | cvm-pas-rj2003-0435 | fichas/pas/2003-05.md |
+| pas | RJ2003/0435 | 2003-12-17 | parcial | cvm-pas-rj2003-0435 | fichas/pas/2003-09.md |
 
 ## decreto-7
 
@@ -100,8 +100,8 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2013/9266 | 2018-03-27 | parcial | cvm-pas-rj2013-9266 | fichas/pas/2018-02.md |
-| acordao-crsfn | IA2012/02 | 2017-12-12 | absolvicao | crsfn-14046 | fichas/crsfn/2017-08.md |
+| pas | RJ2013/9266 | 2018-03-27 | parcial | cvm-pas-rj2013-9266 | fichas/pas/2018-04.md |
+| acordao-crsfn | IA2012/02 | 2017-12-12 | absolvicao | crsfn-14046 | fichas/crsfn/2017-14.md |
 | decisao-colegiado | RJ2008/11892 | 2011-01-11 | nao-provido | cvm-col-20110111-d04 | fichas/colegiado/2011-01.md |
 
 ## decreto-104
@@ -126,7 +126,7 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.003673/2020-01 | 2024-06-20 | absolvicao | cvm-pas-19957-003673-2020-01 | fichas/pas/2024-04.md |
+| pas | 19957.003673/2020-01 | 2024-06-20 | absolvicao | cvm-pas-19957-003673-2020-01 | fichas/pas/2024-08.md |
 | acordao-crsfn | RJ-2017/565 | 2021-04-13 | condenacao | crsfn-10372-100339-2018-78 | fichas/crsfn/2021-01.md |
 | decisao-colegiado | RJ2009/5863 | 2009-07-28 | indeferido | cvm-col-20090728-d03 | fichas/colegiado/2009-14.md |
 
@@ -170,14 +170,14 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 4º, § 1º | pas | RJ2012/7353 | 2019-08-20 | condenacao | cvm-pas-rj2012-7353 | fichas/pas/2019-08.md |
+| art. 4º, § 1º | pas | RJ2012/7353 | 2019-08-20 | condenacao | cvm-pas-rj2012-7353 | fichas/pas/2019-15.md |
 
 ### art. 8º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 8º | acordao-crsfn | RJ2012/7353 | 2022-12-07 | parcial | crsfn-10372-100052-2020-62 | fichas/crsfn/2022-07.md |
-| art. 8º | pas | RJ2012/7353 | 2019-08-20 | condenacao | cvm-pas-rj2012-7353 | fichas/pas/2019-08.md |
+| art. 8º | acordao-crsfn | RJ2012/7353 | 2022-12-07 | parcial | crsfn-10372-100052-2020-62 | fichas/crsfn/2022-08.md |
+| art. 8º | pas | RJ2012/7353 | 2019-08-20 | condenacao | cvm-pas-rj2012-7353 | fichas/pas/2019-15.md |
 
 ### Citada sem dispositivo identificado
 
@@ -192,16 +192,16 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 8º | pas | 02/2009 | 2010-12-01 | absolvicao | cvm-pas-02-2009 | fichas/pas/2010-05.md |
-| art. 8º | pas | 03/2006 | 2010-12-01 | absolvicao | cvm-pas-03-2006 | fichas/pas/2010-05.md |
+| art. 8º | pas | 02/2009 | 2010-12-01 | absolvicao | cvm-pas-02-2009 | fichas/pas/2010-10.md |
+| art. 8º | pas | 03/2006 | 2010-12-01 | absolvicao | cvm-pas-03-2006 | fichas/pas/2010-10.md |
 
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.003588/2023-87 | 2026-10-22 | — | cvm-pas-19957-003588-2023-87 | fichas/pas/2026-04.md |
-| pas | 19957.007430/2019-08 | 2022-12-22 | parcial | cvm-pas-19957-007430-2019-08 | fichas/pas/2022-07.md |
-| pas | 19957.002315/2021-53 | 2022-07-05 | parcial | cvm-pas-19957-002315-2021-53 | fichas/pas/2022-03.md |
+| pas | 19957.003588/2023-87 | 2026-10-22 | — | cvm-pas-19957-003588-2023-87 | fichas/pas/2026-06.md |
+| pas | 19957.007430/2019-08 | 2022-12-22 | parcial | cvm-pas-19957-007430-2019-08 | fichas/pas/2022-13.md |
+| pas | 19957.002315/2021-53 | 2022-07-05 | parcial | cvm-pas-19957-002315-2021-53 | fichas/pas/2022-06.md |
 
 ## decreto-774
 
@@ -209,7 +209,7 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 12/1997 | 2000-12-07 | parcial | cvm-pas-12-1997 | fichas/pas/2000-03.md |
+| pas | 12/1997 | 2000-12-07 | parcial | cvm-pas-12-1997 | fichas/pas/2000-05.md |
 
 ## decreto-781
 
@@ -229,7 +229,7 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 | decisao-colegiado | RJ2012/11664 | 2012-10-30 | nao-provido | cvm-col-20121030-d02-r2 | fichas/colegiado/2012-20.md |
 | decisao-colegiado | RJ2012/11663 | 2012-10-30 | nao-provido | cvm-col-20121030-d01-r2 | fichas/colegiado/2012-20.md |
 | decisao-colegiado | RJ2011/8606 | 2011-10-11 | nao-provido | cvm-col-20111011-d07 | fichas/colegiado/2011-21.md |
-| acordao-crsfn | 03/97 | 2008-06-24 | parcial | crsfn-8615 | fichas/crsfn/2008-03.md |
+| acordao-crsfn | 03/97 | 2008-06-24 | parcial | crsfn-8615 | fichas/crsfn/2008-04.md |
 | acordao-crsfn | SP-2004-113 | 2008-06-24 | arquivamento | crsfn-7529 | fichas/crsfn/2008-03.md |
 
 ## decreto-1041
@@ -286,7 +286,7 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | RJ2014/14161 | 2021-09-15 | parcial | crsfn-10372-100231-2019-66 | fichas/crsfn/2021-03.md |
+| acordao-crsfn | RJ2014/14161 | 2021-09-15 | parcial | crsfn-10372-100231-2019-66 | fichas/crsfn/2021-05.md |
 
 ## decreto-1398
 
@@ -294,7 +294,7 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 5º | pas | 14/2001 | 2005-04-12 | parcial | cvm-pas-14-2001 | fichas/pas/2005-03.md |
+| art. 5º | pas | 14/2001 | 2005-04-12 | parcial | cvm-pas-14-2001 | fichas/pas/2005-06.md |
 
 ## decreto-1745
 
@@ -318,8 +318,8 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | IA-2005-14 | 2013-09-25 | absolvicao | crsfn-12707 | fichas/crsfn/2013-03.md |
-| pas | 14/2005 | 2009-05-05 | absolvicao | cvm-pas-14-2005 | fichas/pas/2009-02.md |
+| acordao-crsfn | IA-2005-14 | 2013-09-25 | absolvicao | crsfn-12707 | fichas/crsfn/2013-04.md |
+| pas | 14/2005 | 2009-05-05 | absolvicao | cvm-pas-14-2005 | fichas/pas/2009-03.md |
 
 ## decreto-1978
 
@@ -349,7 +349,7 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 12, inciso III | pas | 29/1998 | 2001-09-13 | parcial | cvm-pas-29-1998 | fichas/pas/2001-03.md |
+| art. 12, inciso III | pas | 29/1998 | 2001-09-13 | parcial | cvm-pas-29-1998 | fichas/pas/2001-06.md |
 
 ## decreto-2277
 
@@ -365,7 +365,7 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | RJ-2013-3484 | 2016-09-28 | parcial | crsfn-14049 | fichas/crsfn/2016-04.md |
+| acordao-crsfn | RJ-2013-3484 | 2016-09-28 | parcial | crsfn-14049 | fichas/crsfn/2016-08.md |
 
 ## decreto-2335
 
@@ -395,9 +395,9 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | SP2013/292 | 2016-07-19 | condenacao | cvm-pas-sp2013-0292 | fichas/pas/2016-02.md |
-| pas | SP2007/0167 | 2009-04-07 | parcial | cvm-pas-sp2007-0167 | fichas/pas/2009-01.md |
-| pas | 01/2006 | 2008-07-01 | condenacao | cvm-pas-01-2006 | fichas/pas/2008-02.md |
+| pas | SP2013/292 | 2016-07-19 | condenacao | cvm-pas-sp2013-0292 | fichas/pas/2016-04.md |
+| pas | SP2007/0167 | 2009-04-07 | parcial | cvm-pas-sp2007-0167 | fichas/pas/2009-02.md |
+| pas | 01/2006 | 2008-07-01 | condenacao | cvm-pas-01-2006 | fichas/pas/2008-04.md |
 
 ## decreto-2521
 
@@ -463,7 +463,7 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 294 | pas | RJ2012/15235 | 2016-03-22 | condenacao | cvm-pas-rj2012-15235 | fichas/pas/2016-01.md |
+| art. 294 | pas | RJ2012/15235 | 2016-03-22 | condenacao | cvm-pas-rj2012-15235 | fichas/pas/2016-02.md |
 
 ### Citada sem dispositivo identificado
 
@@ -471,7 +471,7 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 |---|---|---|---|---|---|
 | termo-compromisso | 19957.004923/2016-35 | 2020-06-09 | aceito | cvm-col-20200609-d0513 | fichas/tc/2020-05.md |
 | decisao-colegiado | RJ2005/4984 | 2007-02-05 | outro | cvm-col-20070205-d01 | fichas/colegiado/2007-02.md |
-| pas | RJ2001/11949 | 2005-12-06 | parcial | cvm-pas-rj2001-11949 | fichas/pas/2005-09.md |
+| pas | RJ2001/11949 | 2005-12-06 | parcial | cvm-pas-rj2001-11949 | fichas/pas/2005-17.md |
 
 ## decreto-3088
 
@@ -479,12 +479,12 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 1º, § 1º | acordao-crsfn | 06/2012 | 2021-12-07 | condenacao | crsfn-10372-100268-2019-94 | fichas/crsfn/2021-04.md |
-| art. 1º, § 1º | acordao-crsfn | 19957.009864/2019-34; RJ2019/7806 | 2022-07-12 | condenacao | crsfn-10372-100057-2021-76 | fichas/crsfn/2022-04.md |
-| art. 1º, § 1º | acordao-crsfn | RJ2018/325 | 2022-08-09 | condenacao | crsfn-10372-100092-2021-95 | fichas/crsfn/2022-05.md |
-| art. 1º, § 1º | acordao-crsfn | 19957.003798/2017-27; SP2017/316 | 2022-07-12 | condenacao | crsfn-10372-100179-2020-81 | fichas/crsfn/2022-04.md |
-| art. 1º, § 1º | acordao-crsfn | 19957.006511/2019-82 | 2023-03-08 | condenacao | crsfn-10372-100130-2022-91 | fichas/crsfn/2023-02.md |
-| art. 1º, § 1º | acordao-crsfn | 19957.009351/2017-61; SP2017/441 | 2023-05-09 | condenacao | crsfn-10372-100184-2020-94 | fichas/crsfn/2023-04.md |
+| art. 1º, § 1º | acordao-crsfn | 06/2012 | 2021-12-07 | condenacao | crsfn-10372-100268-2019-94 | fichas/crsfn/2021-06.md |
+| art. 1º, § 1º | acordao-crsfn | 19957.009864/2019-34; RJ2019/7806 | 2022-07-12 | condenacao | crsfn-10372-100057-2021-76 | fichas/crsfn/2022-05.md |
+| art. 1º, § 1º | acordao-crsfn | RJ2018/325 | 2022-08-09 | condenacao | crsfn-10372-100092-2021-95 | fichas/crsfn/2022-06.md |
+| art. 1º, § 1º | acordao-crsfn | 19957.003798/2017-27; SP2017/316 | 2022-07-12 | condenacao | crsfn-10372-100179-2020-81 | fichas/crsfn/2022-05.md |
+| art. 1º, § 1º | acordao-crsfn | 19957.006511/2019-82 | 2023-03-08 | condenacao | crsfn-10372-100130-2022-91 | fichas/crsfn/2023-03.md |
+| art. 1º, § 1º | acordao-crsfn | 19957.009351/2017-61; SP2017/441 | 2023-05-09 | condenacao | crsfn-10372-100184-2020-94 | fichas/crsfn/2023-05.md |
 
 ## decreto-3100
 
@@ -517,7 +517,7 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 06/2002 | 2005-11-16 | parcial | cvm-pas-06-2002 | fichas/pas/2005-08.md |
+| pas | 06/2002 | 2005-11-16 | parcial | cvm-pas-06-2002 | fichas/pas/2005-16.md |
 
 ## decreto-3431
 
@@ -565,11 +565,11 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 18 | pas | 03/2000 | 2001-06-07 | parcial | cvm-pas-03-2000 | fichas/pas/2001-01.md |
+| art. 18 | pas | 03/2000 | 2001-06-07 | parcial | cvm-pas-03-2000 | fichas/pas/2001-03.md |
 | art. 18 | pas | 13/1999 | 2001-04-05 | parcial | cvm-pas-13-1999 | fichas/pas/2001-01.md |
-| art. 18 | pas | 15/1997 | 2001-08-23 | parcial | cvm-pas-15-1997 | fichas/pas/2001-03.md |
-| art. 18 | pas | 04/2000 | 2005-02-17 | parcial | cvm-pas-04-2000 | fichas/pas/2005-01.md |
-| art. 18 | pas | 23/2000 | 2010-05-25 | absolvicao | cvm-pas-23-2000 | fichas/pas/2010-02.md |
+| art. 18 | pas | 15/1997 | 2001-08-23 | parcial | cvm-pas-15-1997 | fichas/pas/2001-05.md |
+| art. 18 | pas | 04/2000 | 2005-02-17 | parcial | cvm-pas-04-2000 | fichas/pas/2005-02.md |
+| art. 18 | pas | 23/2000 | 2010-05-25 | absolvicao | cvm-pas-23-2000 | fichas/pas/2010-03.md |
 
 ### Citada sem dispositivo identificado
 
@@ -587,8 +587,8 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 | art. 6º | acordao-crsfn | RJ2002/5015 | 2006-12-13 | condenacao | crsfn-5591 | fichas/crsfn/2006-02.md |
 | art. 6º | acordao-crsfn | RJ-2001-1826 | 2009-04-15 | parcial | crsfn-5416 | fichas/crsfn/2009-02.md |
 | art. 6º | decisao-colegiado | RJ2002/8088 | 2003-02-25 | provido | cvm-col-20030225-d02 | fichas/colegiado/2003-02.md |
-| art. 6º | pas | RJ2001/1826 | 2003-08-14 | parcial | cvm-pas-rj2001-1826 | fichas/pas/2003-02.md |
-| art. 6º | pas | RJ2002/5015 | 2003-12-11 | condenacao | cvm-pas-rj2002-5015 | fichas/pas/2003-05.md |
+| art. 6º | pas | RJ2001/1826 | 2003-08-14 | parcial | cvm-pas-rj2001-1826 | fichas/pas/2003-04.md |
+| art. 6º | pas | RJ2002/5015 | 2003-12-11 | condenacao | cvm-pas-rj2002-5015 | fichas/pas/2003-09.md |
 
 ## decreto-3788
 
@@ -596,7 +596,7 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.011368/2017-89 | 2022-04-12 | condenacao | cvm-pas-19957-011368-2017-89 | fichas/pas/2022-02.md |
+| pas | 19957.011368/2017-89 | 2022-04-12 | condenacao | cvm-pas-19957-011368-2017-89 | fichas/pas/2022-04.md |
 
 ## decreto-3839
 
@@ -604,8 +604,8 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2015/6735 | 2017-05-09 | absolvicao | cvm-pas-rj2015-6735 | fichas/pas/2017-02.md |
-| pas | RJ2012/9808 | 2015-12-18 | parcial | cvm-pas-rj2012-9808 | fichas/pas/2015-07.md |
+| pas | RJ2015/6735 | 2017-05-09 | absolvicao | cvm-pas-rj2015-6735 | fichas/pas/2017-04.md |
+| pas | RJ2012/9808 | 2015-12-18 | parcial | cvm-pas-rj2012-9808 | fichas/pas/2015-14.md |
 
 ## decreto-3996
 
@@ -636,8 +636,8 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | RJ-2003-5058 | 2009-05-06 | absolvicao | crsfn-8545 | fichas/crsfn/2009-02.md |
-| pas | RJ2003/5058 | 2005-06-20 | absolvicao | cvm-pas-rj2003-5058 | fichas/pas/2005-05.md |
+| acordao-crsfn | RJ-2003-5058 | 2009-05-06 | absolvicao | crsfn-8545 | fichas/crsfn/2009-03.md |
+| pas | RJ2003/5058 | 2005-06-20 | absolvicao | cvm-pas-rj2003-5058 | fichas/pas/2005-09.md |
 
 ## decreto-4378
 
@@ -661,7 +661,7 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2015/10642 | 2017-12-19 | parcial | cvm-pas-rj2015-10642 | fichas/pas/2017-06.md |
+| pas | RJ2015/10642 | 2017-12-19 | parcial | cvm-pas-rj2015-10642 | fichas/pas/2017-12.md |
 
 ## decreto-4520
 
@@ -713,7 +713,7 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 08/2009 | 2018-08-21 | parcial | crsfn-14324 | fichas/crsfn/2018-05.md |
+| acordao-crsfn | 08/2009 | 2018-08-21 | parcial | crsfn-14324 | fichas/crsfn/2018-06.md |
 
 ## decreto-4763
 
@@ -728,7 +728,7 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 20 | decisao-colegiado | RJ2005/6805; RJ2006/5082 | 2007-06-05 | nao-provido | cvm-col-20070605-d02 | fichas/colegiado/2007-08.md |
-| art. 20 | pas | RJ2005/6924 | 2006-10-31 | parcial | cvm-pas-rj2005-6924 | fichas/pas/2006-11.md |
+| art. 20 | pas | RJ2005/6924 | 2006-10-31 | parcial | cvm-pas-rj2005-6924 | fichas/pas/2006-23.md |
 
 ### Citada sem dispositivo identificado
 
@@ -742,24 +742,24 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 4º | acordao-crsfn | SP2018/15 | 2022-11-08 | condenacao | crsfn-10372-100054-2020-51 | fichas/crsfn/2022-06.md |
+| art. 4º | acordao-crsfn | SP2018/15 | 2022-11-08 | condenacao | crsfn-10372-100054-2020-51 | fichas/crsfn/2022-08.md |
 
 ### art. 32
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 32 | acordao-crsfn | 10/11352 | 2017-09-11 | condenacao | crsfn-13414 | fichas/crsfn/2017-06.md |
-| art. 32 | acordao-crsfn | IA2009/14 | 2018-06-26 | condenacao | crsfn-14400 | fichas/crsfn/2018-04.md |
-| art. 32 | acordao-crsfn | 08/2012 | 2020-09-15 | parcial | crsfn-10372-000204-2016-41 | fichas/crsfn/2020-04.md |
-| art. 32 | acordao-crsfn | IA-2011-2 | 2020-08-18 | condenacao | crsfn-10372-000380-2016-83 | fichas/crsfn/2020-04.md |
-| art. 32 | acordao-crsfn | 04/2013 | 2020-08-18 | condenacao | crsfn-10372-000470-2016-74 | fichas/crsfn/2020-04.md |
-| art. 32 | acordao-crsfn | SP2012/218 | 2020-10-20 | parcial | crsfn-14241 | fichas/crsfn/2020-06.md |
+| art. 32 | acordao-crsfn | 10/11352 | 2017-09-11 | condenacao | crsfn-13414 | fichas/crsfn/2017-12.md |
+| art. 32 | acordao-crsfn | IA2009/14 | 2018-06-26 | condenacao | crsfn-14400 | fichas/crsfn/2018-05.md |
+| art. 32 | acordao-crsfn | 08/2012 | 2020-09-15 | parcial | crsfn-10372-000204-2016-41 | fichas/crsfn/2020-06.md |
+| art. 32 | acordao-crsfn | IA-2011-2 | 2020-08-18 | condenacao | crsfn-10372-000380-2016-83 | fichas/crsfn/2020-05.md |
+| art. 32 | acordao-crsfn | 04/2013 | 2020-08-18 | condenacao | crsfn-10372-000470-2016-74 | fichas/crsfn/2020-05.md |
+| art. 32 | acordao-crsfn | SP2012/218 | 2020-10-20 | parcial | crsfn-14241 | fichas/crsfn/2020-08.md |
 
 ### art. 64
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 64 | pas | 11/2012 | 2014-12-02 | condenacao | cvm-pas-11-2012 | fichas/pas/2014-05.md |
+| art. 64 | pas | 11/2012 | 2014-12-02 | condenacao | cvm-pas-11-2012 | fichas/pas/2014-10.md |
 
 ## decreto-5164
 
@@ -775,7 +775,7 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2016/802 | 2019-01-29 | condenacao | cvm-pas-rj2016-0802 | fichas/pas/2019-01.md |
+| pas | RJ2016/802 | 2019-01-29 | condenacao | cvm-pas-rj2016-0802 | fichas/pas/2019-02.md |
 
 ## decreto-5363
 
@@ -783,8 +783,8 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 04/2013 | 2020-08-18 | condenacao | crsfn-10372-000470-2016-74 | fichas/crsfn/2020-04.md |
-| acordao-crsfn | IA-2011-2 | 2020-08-18 | condenacao | crsfn-10372-000380-2016-83 | fichas/crsfn/2020-04.md |
+| acordao-crsfn | 04/2013 | 2020-08-18 | condenacao | crsfn-10372-000470-2016-74 | fichas/crsfn/2020-05.md |
+| acordao-crsfn | IA-2011-2 | 2020-08-18 | condenacao | crsfn-10372-000380-2016-83 | fichas/crsfn/2020-05.md |
 
 ## decreto-5411
 
@@ -812,8 +812,8 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 |---|---|---|---|---|---|
 | termo-compromisso | 19957.002596/2017-68 | 2021-07-13 | outro | cvm-col-20210713-d2005 | fichas/tc/2021-05.md |
 | pas | RJ2012/1606 | 2014-02-04 | condenacao | cvm-pas-rj2012-1606 | fichas/pas/2014-01.md |
-| pas | SP2008/0038 | 2010-07-13 | parcial | cvm-pas-sp2008-0038 | fichas/pas/2010-03.md |
-| pas | SP2007/033 | 2009-05-19 | condenacao | cvm-pas-sp2007-0033 | fichas/pas/2009-02.md |
+| pas | SP2008/0038 | 2010-07-13 | parcial | cvm-pas-sp2008-0038 | fichas/pas/2010-05.md |
+| pas | SP2007/033 | 2009-05-19 | condenacao | cvm-pas-sp2007-0033 | fichas/pas/2009-04.md |
 
 ## decreto-5851
 
@@ -897,7 +897,7 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 11, inciso II | acordao-crsfn | 15/97 | 2004-11-17 | parcial | crsfn-4321 | fichas/crsfn/2004-03.md |
+| art. 11, inciso II | acordao-crsfn | 15/97 | 2004-11-17 | parcial | crsfn-4321 | fichas/crsfn/2004-04.md |
 
 ## decreto-6514
 
@@ -905,9 +905,9 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 66 | acordao-crsfn | 08/2012 | 2020-09-15 | parcial | crsfn-10372-000204-2016-41 | fichas/crsfn/2020-04.md |
-| art. 66 | acordao-crsfn | IA-2011-2 | 2020-08-18 | condenacao | crsfn-10372-000380-2016-83 | fichas/crsfn/2020-04.md |
-| art. 66 | acordao-crsfn | 04/2013 | 2020-08-18 | condenacao | crsfn-10372-000470-2016-74 | fichas/crsfn/2020-04.md |
+| art. 66 | acordao-crsfn | 08/2012 | 2020-09-15 | parcial | crsfn-10372-000204-2016-41 | fichas/crsfn/2020-06.md |
+| art. 66 | acordao-crsfn | IA-2011-2 | 2020-08-18 | condenacao | crsfn-10372-000380-2016-83 | fichas/crsfn/2020-05.md |
+| art. 66 | acordao-crsfn | 04/2013 | 2020-08-18 | condenacao | crsfn-10372-000470-2016-74 | fichas/crsfn/2020-05.md |
 
 ## decreto-6523
 
@@ -972,7 +972,7 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | IA-02/04 | 2012-03-06 | arquivamento | crsfn-10838 | fichas/crsfn/2012-01.md |
+| acordao-crsfn | IA-02/04 | 2012-03-06 | arquivamento | crsfn-10838 | fichas/crsfn/2012-02.md |
 
 ## decreto-7295
 
@@ -1037,7 +1037,7 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | RJ2016/802 | 2020-12-14 | parcial | crsfn-10372-100239-2019-22 | fichas/crsfn/2020-07.md |
+| acordao-crsfn | RJ2016/802 | 2020-12-14 | parcial | crsfn-10372-100239-2019-22 | fichas/crsfn/2020-09.md |
 
 ## decreto-8420
 
@@ -1111,7 +1111,7 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 |---|---|---|---|---|---|---|
 | art. 22 | termo-compromisso | 19957.002393/2023-10 | 2024-03-12 | rejeitado | cvm-col-20240312-d2928 | fichas/tc/2024-01.md |
 | art. 22, inciso I | decisao-colegiado | 19957.007271/2022-39 | 2024-04-16 | outro | cvm-col-20240416-d2845 | fichas/colegiado/2024-04.md |
-| art. 22, § 4º | pas | 19957.002393/2023-10 | 2024-12-18 | absolvicao | cvm-pas-19957-002393-2023-10 | fichas/pas/2024-11.md |
+| art. 22, § 4º | pas | 19957.002393/2023-10 | 2024-12-18 | absolvicao | cvm-pas-19957-002393-2023-10 | fichas/pas/2024-23.md |
 
 ### art. 28
 
@@ -1126,8 +1126,8 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 |---|---|---|---|---|---|---|
 | art. 29 | decisao-colegiado | 19957.008923/2016-12 | 2017-08-08 | conhecimento | cvm-col-20170808-d0476 | fichas/colegiado/2017-14.md |
 | art. 29, inciso VII | decisao-colegiado | 19957.008923/2016-12 | 2017-08-08 | conhecimento | cvm-col-20170808-d0476 | fichas/colegiado/2017-14.md |
-| art. 29, inciso X | pas | 19957.002393/2023-10 | 2024-12-18 | absolvicao | cvm-pas-19957-002393-2023-10 | fichas/pas/2024-11.md |
-| art. 29, inciso X | pas | 19957.007469/2023-01 | 2024-12-18 | absolvicao | cvm-pas-19957-007469-2023-01 | fichas/pas/2024-12.md |
+| art. 29, inciso X | pas | 19957.002393/2023-10 | 2024-12-18 | absolvicao | cvm-pas-19957-002393-2023-10 | fichas/pas/2024-23.md |
+| art. 29, inciso X | pas | 19957.007469/2023-01 | 2024-12-18 | absolvicao | cvm-pas-19957-007469-2023-01 | fichas/pas/2024-23.md |
 
 ### art. 296
 
@@ -1155,7 +1155,7 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | RJ2018/325 | 2022-08-09 | condenacao | crsfn-10372-100092-2021-95 | fichas/crsfn/2022-05.md |
+| acordao-crsfn | RJ2018/325 | 2022-08-09 | condenacao | crsfn-10372-100092-2021-95 | fichas/crsfn/2022-06.md |
 
 ## decreto-8965
 
@@ -1240,7 +1240,7 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 8º, § 1º | acordao-crsfn | 13/2014 | 2021-11-09 | outro | crsfn-10372-100058-2020-30-2 | fichas/crsfn/2021-04.md |
+| art. 8º, § 1º | acordao-crsfn | 13/2014 | 2021-11-09 | outro | crsfn-10372-100058-2020-30-2 | fichas/crsfn/2021-05.md |
 | art. 8º, § 1º | acordao-crsfn | RJ-2016-7192 | 2023-02-08 | outro | crsfn-10372-100315-2018-19-2 | fichas/crsfn/2023-01.md |
 
 ### art. 10
@@ -1249,11 +1249,11 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 |---|---|---|---|---|---|---|
 | art. 10 | acordao-crsfn | RJ2017/3970 | 2024-03-12 | outro | crsfn-10372-100082-2021-50-2 | fichas/crsfn/2024-01.md |
 | art. 10 | acordao-crsfn | 19957.006688/2016-36; RJ2016/8375 | 2024-03-12 | outro | crsfn-10372-100083-2022-85-3 | fichas/crsfn/2024-01.md |
-| art. 10 | acordao-crsfn | SP2017/294 | 2024-03-12 | outro | crsfn-10372-100096-2021-73-2 | fichas/crsfn/2024-01.md |
+| art. 10 | acordao-crsfn | SP2017/294 | 2024-03-12 | outro | crsfn-10372-100096-2021-73-2 | fichas/crsfn/2024-02.md |
 | art. 10 | acordao-crsfn | SP2019/617 | 2024-03-12 | outro | crsfn-10372-100109-2021-12-2 | fichas/crsfn/2024-02.md |
-| art. 10 | acordao-crsfn | 19957.001493/2016-08; 04/2016 | 2024-10-09 | outro | crsfn-10372-100141-2021-90-2 | fichas/crsfn/2024-05.md |
+| art. 10 | acordao-crsfn | 19957.001493/2016-08; 04/2016 | 2024-10-09 | outro | crsfn-10372-100141-2021-90-2 | fichas/crsfn/2024-07.md |
 | art. 10 | acordao-crsfn | 02/2014; 19957.010256/2019-72 | 2024-03-12 | outro | crsfn-10372-100174-2020-59-2 | fichas/crsfn/2024-02.md |
-| art. 10, inciso V | acordao-crsfn | SP2017/294 | 2024-03-12 | outro | crsfn-10372-100096-2021-73-2 | fichas/crsfn/2024-01.md |
+| art. 10, inciso V | acordao-crsfn | SP2017/294 | 2024-03-12 | outro | crsfn-10372-100096-2021-73-2 | fichas/crsfn/2024-02.md |
 
 ## decreto-9916
 
@@ -1284,7 +1284,7 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.005810/2024-67 | 2026-10-02 | — | cvm-pas-19957-005810-2024-67 | fichas/pas/2026-03.md |
+| pas | 19957.005810/2024-67 | 2026-10-02 | — | cvm-pas-19957-005810-2024-67 | fichas/pas/2026-05.md |
 
 ## decreto-10178
 
@@ -1395,7 +1395,7 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 5º | pas | 19957.002393/2023-10 | 2024-12-18 | absolvicao | cvm-pas-19957-002393-2023-10 | fichas/pas/2024-11.md |
+| art. 5º | pas | 19957.002393/2023-10 | 2024-12-18 | absolvicao | cvm-pas-19957-002393-2023-10 | fichas/pas/2024-23.md |
 
 ## decreto-11048
 
@@ -1403,7 +1403,7 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.002393/2023-10 | 2024-12-18 | absolvicao | cvm-pas-19957-002393-2023-10 | fichas/pas/2024-11.md |
+| pas | 19957.002393/2023-10 | 2024-12-18 | absolvicao | cvm-pas-19957-002393-2023-10 | fichas/pas/2024-23.md |
 | decisao-colegiado | 19957.007271/2022-39 | 2024-04-16 | outro | cvm-col-20240416-d2845 | fichas/colegiado/2024-04.md |
 
 ## decreto-11102
@@ -1443,7 +1443,7 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.007469/2023-01 | 2024-12-18 | absolvicao | cvm-pas-19957-007469-2023-01 | fichas/pas/2024-12.md |
+| pas | 19957.007469/2023-01 | 2024-12-18 | absolvicao | cvm-pas-19957-007469-2023-01 | fichas/pas/2024-23.md |
 
 ## decreto-11594
 
@@ -1485,7 +1485,7 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | acordao-crsfn | 03/96 | 2007-08-30 | parcial | crsfn-6039 | fichas/crsfn/2007-01.md |
-| pas | 03/1996 | 2004-07-08 | parcial | cvm-pas-03-1996 | fichas/pas/2004-03.md |
+| pas | 03/1996 | 2004-07-08 | parcial | cvm-pas-03-1996 | fichas/pas/2004-06.md |
 
 ## decreto-19398
 
@@ -1494,7 +1494,7 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 1º | acordao-crsfn | SP-2004-113 | 2008-06-24 | arquivamento | crsfn-7529 | fichas/crsfn/2008-03.md |
-| art. 1º | acordao-crsfn | 03/97 | 2008-06-24 | parcial | crsfn-8615 | fichas/crsfn/2008-03.md |
+| art. 1º | acordao-crsfn | 03/97 | 2008-06-24 | parcial | crsfn-8615 | fichas/crsfn/2008-04.md |
 
 ## decreto-20254
 
@@ -1502,7 +1502,7 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 03/1996 | 2004-07-08 | parcial | cvm-pas-03-1996 | fichas/pas/2004-03.md |
+| pas | 03/1996 | 2004-07-08 | parcial | cvm-pas-03-1996 | fichas/pas/2004-06.md |
 
 ## decreto-21526
 
@@ -1535,9 +1535,9 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.007428/2023-15 | 2024-10-15 | condenacao | cvm-pas-19957-007428-2023-15 | fichas/pas/2024-09.md |
-| pas | 02/2011 | 2015-12-08 | condenacao | cvm-pas-02-2011 | fichas/pas/2015-06.md |
-| acordao-crsfn | 0007/2004 | 2014-12-09 | parcial | crsfn-11751 | fichas/crsfn/2014-07.md |
+| pas | 19957.007428/2023-15 | 2024-10-15 | condenacao | cvm-pas-19957-007428-2023-15 | fichas/pas/2024-17.md |
+| pas | 02/2011 | 2015-12-08 | condenacao | cvm-pas-02-2011 | fichas/pas/2015-12.md |
+| acordao-crsfn | 0007/2004 | 2014-12-09 | parcial | crsfn-11751 | fichas/crsfn/2014-08.md |
 
 ## decreto-23258
 
@@ -1546,15 +1546,15 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 3º | acordao-crsfn | SP-2004-113 | 2008-06-24 | arquivamento | crsfn-7529 | fichas/crsfn/2008-03.md |
-| art. 3º | acordao-crsfn | 03/97 | 2008-06-24 | parcial | crsfn-8615 | fichas/crsfn/2008-03.md |
+| art. 3º | acordao-crsfn | 03/97 | 2008-06-24 | parcial | crsfn-8615 | fichas/crsfn/2008-04.md |
 
 ### art. 6º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 6º | acordao-crsfn | 32/99 | 2003-12-10 | parcial | crsfn-4170 | fichas/crsfn/2003-03.md |
+| art. 6º | acordao-crsfn | 32/99 | 2003-12-10 | parcial | crsfn-4170 | fichas/crsfn/2003-04.md |
 | art. 6º | acordao-crsfn | SP-2004-113 | 2008-06-24 | arquivamento | crsfn-7529 | fichas/crsfn/2008-03.md |
-| art. 6º | acordao-crsfn | 03/97 | 2008-06-24 | parcial | crsfn-8615 | fichas/crsfn/2008-03.md |
+| art. 6º | acordao-crsfn | 03/97 | 2008-06-24 | parcial | crsfn-8615 | fichas/crsfn/2008-04.md |
 
 ## decreto-24643
 
@@ -1562,7 +1562,7 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | RJ2016/802 | 2020-12-14 | parcial | crsfn-10372-100239-2019-22 | fichas/crsfn/2020-07.md |
+| acordao-crsfn | RJ2016/802 | 2020-12-14 | parcial | crsfn-10372-100239-2019-22 | fichas/crsfn/2020-09.md |
 
 ## decreto-31794
 
@@ -1570,7 +1570,7 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 3º | pas | RJ2006/4321 | 2007-07-10 | condenacao | cvm-pas-rj2006-4321 | fichas/pas/2007-05.md |
+| art. 3º | pas | RJ2006/4321 | 2007-07-10 | condenacao | cvm-pas-rj2006-4321 | fichas/pas/2007-09.md |
 
 ## decreto-35848
 
@@ -1578,7 +1578,7 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.009292/2017-21 | 2021-03-02 | parcial | cvm-pas-19957-009292-2017-21 | fichas/pas/2021.md |
+| pas | 19957.009292/2017-21 | 2021-03-02 | parcial | cvm-pas-19957-009292-2017-21 | fichas/pas/2021-01.md |
 | termo-compromisso | 19957.009292/2017-21 | 2018-12-04 | aceito | cvm-col-20181204-d1041 | fichas/tc/2018-06.md |
 
 ## decreto-39259
@@ -1595,7 +1595,7 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.011244/2019-65; RJ2019/9541 | 2020-07-14 | condenacao | cvm-pas-19957-011244-2019-65 | fichas/pas/2020-04.md |
+| pas | 19957.011244/2019-65; RJ2019/9541 | 2020-07-14 | condenacao | cvm-pas-19957-011244-2019-65 | fichas/pas/2020-07.md |
 
 ## decreto-39529
 
@@ -1619,7 +1619,7 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.007550/2019-05 | 2023-12-21 | condenacao | cvm-pas-19957-007550-2019-05 | fichas/pas/2023-10.md |
+| pas | 19957.007550/2019-05 | 2023-12-21 | condenacao | cvm-pas-19957-007550-2019-05 | fichas/pas/2023-19.md |
 
 ## decreto-41724
 
@@ -1651,7 +1651,7 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.007550/2019-05 | 2023-12-21 | condenacao | cvm-pas-19957-007550-2019-05 | fichas/pas/2023-10.md |
+| pas | 19957.007550/2019-05 | 2023-12-21 | condenacao | cvm-pas-19957-007550-2019-05 | fichas/pas/2023-19.md |
 
 ## decreto-46993
 
@@ -1659,7 +1659,7 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.007916/2019-38 | 2024-12-19 | parcial | cvm-pas-19957-007916-2019-38 | fichas/pas/2024-12.md |
+| pas | 19957.007916/2019-38 | 2024-12-19 | parcial | cvm-pas-19957-007916-2019-38 | fichas/pas/2024-24.md |
 
 ## decreto-51960
 
@@ -1667,7 +1667,7 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.009140/2018-18 | 2022-06-21 | parcial | cvm-pas-19957-009140-2018-18 | fichas/pas/2022-03.md |
+| pas | 19957.009140/2018-18 | 2022-06-21 | parcial | cvm-pas-19957-009140-2018-18 | fichas/pas/2022-06.md |
 
 ## decreto-53094
 
@@ -1683,7 +1683,7 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2012/1131 | 2015-05-26 | condenacao | cvm-pas-rj2012-1131 | fichas/pas/2015-03.md |
+| pas | RJ2012/1131 | 2015-05-26 | condenacao | cvm-pas-rj2012-1131 | fichas/pas/2015-05.md |
 
 ## decreto-57690
 
@@ -1691,8 +1691,8 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 2012/03 | 2018-10-19 | condenacao | crsfn-10372-100002-2018-61 | fichas/crsfn/2018-06.md |
-| pas | 03/2012 | 2016-12-15 | condenacao | cvm-pas-03-2012 | fichas/pas/2016-08.md |
+| acordao-crsfn | 2012/03 | 2018-10-19 | condenacao | crsfn-10372-100002-2018-61 | fichas/crsfn/2018-08.md |
+| pas | 03/2012 | 2016-12-15 | condenacao | cvm-pas-03-2012 | fichas/pas/2016-15.md |
 
 ## decreto-59566
 
@@ -1700,13 +1700,13 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 4º | pas | RJ2003/0435 | 2003-12-17 | parcial | cvm-pas-rj2003-0435 | fichas/pas/2003-05.md |
+| art. 4º | pas | RJ2003/0435 | 2003-12-17 | parcial | cvm-pas-rj2003-0435 | fichas/pas/2003-09.md |
 
 ### art. 5º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 5º, inciso II | pas | RJ2003/0435 | 2003-12-17 | parcial | cvm-pas-rj2003-0435 | fichas/pas/2003-05.md |
+| art. 5º, inciso II | pas | RJ2003/0435 | 2003-12-17 | parcial | cvm-pas-rj2003-0435 | fichas/pas/2003-09.md |
 
 ## decreto-60488
 
@@ -1754,7 +1754,7 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.002393/2023-10 | 2024-12-18 | absolvicao | cvm-pas-19957-002393-2023-10 | fichas/pas/2024-11.md |
+| pas | 19957.002393/2023-10 | 2024-12-18 | absolvicao | cvm-pas-19957-002393-2023-10 | fichas/pas/2024-23.md |
 
 ## decreto-83937
 
@@ -1764,7 +1764,7 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.000972/2023-28 | 2023-08-29 | parcial | cvm-col-20230829-d2894 | fichas/colegiado/2023-09.md |
 | decisao-colegiado | 19957.002555/2021-58 | 2021-04-27 | nao-provido | cvm-col-20210427-d2144 | fichas/colegiado/2021-07.md |
-| pas | 19957.008274/2018-11; RJ2018/5469 | 2020-06-09 | condenacao | cvm-pas-19957-008274-2018-11 | fichas/pas/2020-02.md |
+| pas | 19957.008274/2018-11; RJ2018/5469 | 2020-06-09 | condenacao | cvm-pas-19957-008274-2018-11 | fichas/pas/2020-04.md |
 | decisao-colegiado | 19957.004122/2015-99 | 2016-04-12 | provido | cvm-col-20160412-d0050 | fichas/colegiado/2016-08.md |
 | decisao-colegiado | RJ2015/2080 | 2015-03-17 | outro | cvm-col-20150317-d9602 | fichas/colegiado/2015-05.md |
 | decisao-colegiado | RJ2008/3914 | 2008-07-29 | deferido | cvm-col-20080729-d02 | fichas/colegiado/2008-17.md |
@@ -1776,7 +1776,7 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 3º | acordao-crsfn | RJ2015/9909 | 2019-09-24 | condenacao | crsfn-10372-100061-2018-39 | fichas/crsfn/2019-03.md |
-| art. 3º | pas | RJ2015/9909 | 2017-09-05 | condenacao | cvm-pas-rj2015-9909 | fichas/pas/2017-03.md |
+| art. 3º | pas | RJ2015/9909 | 2017-09-05 | condenacao | cvm-pas-rj2015-9909 | fichas/pas/2017-06.md |
 
 ## decreto-86009
 
@@ -1819,7 +1819,7 @@ decreto-92181 (1832); decreto-93240 (1840); decreto-99244 (1848)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 1º | pas | 07/2003 | 2007-07-04 | parcial | cvm-pas-07-2003 | fichas/pas/2007-04.md |
+| art. 1º | pas | 07/2003 | 2007-07-04 | parcial | cvm-pas-07-2003 | fichas/pas/2007-08.md |
 
 ### Citada sem dispositivo identificado
 

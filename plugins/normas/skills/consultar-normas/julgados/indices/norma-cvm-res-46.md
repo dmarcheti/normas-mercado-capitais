@@ -435,7 +435,7 @@ Este subíndice tem 462 linhas e uma leitura única é cortada em silêncio pert
 | decisao-colegiado | 19957.004081/2023-41 | 2024-01-16 | nao-provido | cvm-col-20240116-d2929 | fichas/colegiado/2024-01.md |
 | decisao-colegiado | 19957.011962/2023-18 | 2023-12-05 | nao-provido | cvm-col-20231205-d2970 | fichas/colegiado/2023-13.md |
 | termo-compromisso | 19957.008369/2022-11 | 2023-10-31 | — | cvm-col-20231031-d2919-item2 | fichas/tc/2023-06.md |
-| pas | 19957.009444/2019-58 | 2023-10-03 | condenacao | cvm-pas-19957-009444-2019-58 | fichas/pas/2023-06.md |
+| pas | 19957.009444/2019-58 | 2023-10-03 | condenacao | cvm-pas-19957-009444-2019-58 | fichas/pas/2023-12.md |
 | decisao-colegiado | 19957.010412/2017-33 | 2023-10-03 | nao-provido | cvm-col-20231003-d0852 | fichas/colegiado/2023-10.md |
 | decisao-colegiado | 19957.005033/2018-11 | 2023-09-19 | nao-provido | cvm-col-20230919-d1155 | fichas/colegiado/2023-10.md |
 | decisao-colegiado | 19957.003983/2022-89 | 2023-06-22 | nao-provido | cvm-col-20230622-d2882 | fichas/colegiado/2023-07.md |

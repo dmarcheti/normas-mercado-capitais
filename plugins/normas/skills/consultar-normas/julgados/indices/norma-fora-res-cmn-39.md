@@ -55,7 +55,7 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.007976/2020-94 | 2026-09-08 | parcial | cvm-pas-19957-007976-2020-94 | fichas/pas/2026-03.md |
+| pas | 19957.007976/2020-94 | 2026-09-08 | parcial | cvm-pas-19957-007976-2020-94 | fichas/pas/2026-04.md |
 | termo-compromisso | 19957.008434/2019-03 | 2024-05-07 | aceito | cvm-col-20240507-d2200 | fichas/tc/2024-02.md |
 | termo-compromisso | 19957.001225/2018-40 | 2023-08-15 | aceito | cvm-col-20230815-d1168 | fichas/tc/2023-05.md |
 | termo-compromisso | 19957.008434/2019-03 | 2023-02-28 | rejeitado | cvm-col-20230228-d2200 | fichas/tc/2023-02.md |

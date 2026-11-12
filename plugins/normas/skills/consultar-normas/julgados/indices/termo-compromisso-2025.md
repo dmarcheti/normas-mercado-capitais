@@ -5,64 +5,64 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
-| Processo | Data | Resultado | Id | Ficha |
-|---|---|---|---|---|
-| 19957.007640/2025-36 | 2025-12-16 | aceito | cvm-col-20251216-d3433 | fichas/tc/2025-05.md |
-| 19957.020738/2024-06 | 2025-12-16 | aceito | cvm-col-20251216-d3432 | fichas/tc/2025-05.md |
-| 19957.003236/2023-21 | 2025-12-02 | aceito | cvm-col-20251202-d3425 | fichas/tc/2025-05.md |
-| 19957.003588/2023-87 | 2025-12-02 | aceito | cvm-col-20251202-d3228 | fichas/tc/2025-05.md |
-| 19957.007976/2020-94 | 2025-12-02 | rejeitado | cvm-col-20251202-d2655 | fichas/tc/2025-05.md |
-| 19957.003043/2025-32 | 2025-11-18 | aceito | cvm-col-20251118-d3420 | fichas/tc/2025-05.md |
-| 19957.018693/2024-00 | 2025-11-11 | aceito | cvm-col-20251111-d3417 | fichas/tc/2025-05.md |
-| 19957.001815/2025-00 | 2025-11-11 | aceito | cvm-col-20251111-d3415 | fichas/tc/2025-05.md |
-| 19957.001169/2025-72 | 2025-11-04 | aceito | cvm-col-20251104-d3410 | fichas/tc/2025-05.md |
-| 19957.006380/2023-10 | 2025-10-14 | aceito | cvm-col-20251014-d3401 | fichas/tc/2025-05.md |
-| 19957.010495/2024-90 | 2025-10-14 | aceito | cvm-col-20251014-d3382 | fichas/tc/2025-04.md |
-| 19957.003051/2024-06 | 2025-10-14 | aceito | cvm-col-20251014-d3380 | fichas/tc/2025-04.md |
-| 19957.019653/2024-77 | 2025-10-07 | rejeitado | cvm-col-20251007-d3383 | fichas/tc/2025-04.md |
-| 19957.000663/2025-10 | 2025-10-07 | aceito | cvm-col-20251007-d3381 | fichas/tc/2025-04.md |
-| 19957.005754/2024-61; 19957.015425/2024-28 | 2025-09-23 | outro | cvm-col-20250923-d3368-3369 | fichas/tc/2025-04.md |
-| 19957.017968/2024-80 | 2025-09-16 | aceito | cvm-col-20250916-d3361 | fichas/tc/2025-04.md |
-| 19957.003748/2021-26 | 2025-09-16 | aceito | cvm-col-20250916-d3051 | fichas/tc/2025-04.md |
-| 19957.020870/2024-18 | 2025-09-09 | aceito | cvm-col-20250909-d3358 | fichas/tc/2025-04.md |
-| 19957.018282/2024-14 | 2025-09-02 | aceito | cvm-col-20250902-d3336 | fichas/tc/2025-04.md |
-| 19957.018146/2024-16 | 2025-08-12 | rejeitado | cvm-col-20250812-d3326 | fichas/tc/2025-04.md |
-| 19957.016074/2024-72 | 2025-08-12 | rejeitado | cvm-col-20250812-d3321 | fichas/tc/2025-04.md |
-| 19957.003588/2023-87 | 2025-08-12 | — | cvm-col-20250812-d3228 | fichas/tc/2025-03.md |
-| 19957.014316/2024-93; 19957.003060/2025-70 | 2025-07-22 | aceito | cvm-col-20250722-d3314 | fichas/tc/2025-03.md |
-| 19957.006911/2021-11 | 2025-07-22 | rejeitado | cvm-col-20250722-d3232 | fichas/tc/2025-03.md |
-| 19957.016052/2024-11 | 2025-07-01 | aceito | cvm-col-20250701-d3300 | fichas/tc/2025-03.md |
-| 19957.017629/2024-01 | 2025-06-24 | rejeitado | cvm-col-20250624-d3299 | fichas/tc/2025-03.md |
-| 19957.003158/2024-46 | 2025-06-10 | rejeitado | cvm-col-20250610-d3291 | fichas/tc/2025-03.md |
-| 19957.003570/2020-32 | 2025-06-10 | rejeitado | cvm-col-20250610-d3289 | fichas/tc/2025-03.md |
-| 19957.001077/2024-10 | 2025-06-03 | rejeitado | cvm-col-20250603-d3237 | fichas/tc/2025-03.md |
-| 19957.002600/2020-93 | 2025-06-03 | rejeitado | cvm-col-20250603-d3224 | fichas/tc/2025-03.md |
-| 19957.008687/2024-36 | 2025-05-27 | aceito | cvm-col-20250527-d3285 | fichas/tc/2025-03.md |
-| 19957.007976/2020-94 | 2025-05-27 | — | cvm-col-20250527-d2655 | fichas/tc/2025-03.md |
-| 19957.004339/2023-17 | 2025-05-20 | aceito | cvm-col-20250520-d3274 | fichas/tc/2025-03.md |
-| 19957.001954/2020-11 | 2025-05-20 | rejeitado | cvm-col-20250520-d3195 | fichas/tc/2025-02.md |
-| 19957.004339/2023-17 | 2025-05-13 | — | cvm-col-20250513-d3274 | fichas/tc/2025-02.md |
-| 19957.001928/2023-35; 19957.003834/2021-39; 19957.006054/2022-21 | 2025-05-13 | aceito | cvm-col-20250513-d3273 | fichas/tc/2025-02.md |
-| 19957.014229/2023-55 | 2025-05-13 | aceito | cvm-col-20250513-d3272 | fichas/tc/2025-02.md |
-| 19957.012349/2022-37 | 2025-05-13 | aceito | cvm-col-20250513-d2876 | fichas/tc/2025-02.md |
-| 19957.003174/2024-39 | 2025-05-06 | rejeitado | cvm-col-20250506-d3255 | fichas/tc/2025-02.md |
-| 19957.003174/2024-39 | 2025-04-29 | — | cvm-col-20250429-d3255 | fichas/tc/2025-02.md |
-| 19957.012215/2023-05 | 2025-04-15 | aceito | cvm-col-20250415-d3261 | fichas/tc/2025-02.md |
-| 19957.008609/2024-31 | 2025-04-08 | aceito | cvm-col-20250408-d3253 | fichas/tc/2025-02.md |
-| 19957.002703/2023-04 | 2025-04-08 | outro | cvm-col-20250408-d3252 | fichas/tc/2025-02.md |
-| 19957.010909/2024-81; 19957.011239/2024-10 | 2025-04-01 | aceito | cvm-col-20250401-d3245 | fichas/tc/2025-02.md |
-| 19957.011363/2024-85 | 2025-04-01 | rejeitado | cvm-col-20250401-d3241 | fichas/tc/2025-02.md |
-| 19957.001077/2024-10 | 2025-03-18 | rejeitado | cvm-col-20250318-d3237 | fichas/tc/2025-01.md |
-| 19957.003639/2024-51 | 2025-02-25 | rejeitado | cvm-col-20250225-d3229 | fichas/tc/2025-01.md |
-| 19957.014756/2023-60 | 2025-02-18 | aceito | cvm-col-20250218-d3226 | fichas/tc/2025-01.md |
-| 19957.005597/2021-41 | 2025-02-18 | rejeitado | cvm-col-20250218-d3151 | fichas/tc/2025-01.md |
-| 19957.009503/2018-15 | 2025-02-11 | rejeitado | cvm-col-20250211-d2308 | fichas/tc/2025-01.md |
-| 19957.004081/2024-21 | 2025-02-04 | aceito | cvm-col-20250204-d3222 | fichas/tc/2025-01.md |
-| 19957.015051/2023-60 | 2025-02-04 | aceito | cvm-col-20250204-d3219 | fichas/tc/2025-01.md |
-| 19957.001719/2023-91 | 2025-02-04 | aceito | cvm-col-20250204-d3218 | fichas/tc/2025-01.md |
-| 19957.008087/2021-25 | 2025-01-28 | rejeitado | cvm-col-20250128-d3212 | fichas/tc/2025-01.md |
-| 19957.014625/2023-82 | 2025-01-28 | aceito | cvm-col-20250128-d3205 | fichas/tc/2025-01.md |
-| 19957.015037/2023-66 | 2025-01-28 | rejeitado | cvm-col-20250128-d3200 | fichas/tc/2025-01.md |
-| 19957.015872/2023-04 | 2025-01-21 | aceito | cvm-col-20250121-d3199 | fichas/tc/2025-01.md |
+| Processo | Data | Resultado | Ementa | Id | Ficha |
+|---|---|---|---|---|---|
+| 19957.007640/2025-36 | 2025-12-16 | aceito | O Colegiado, por unanimidade, aceitou proposta de termo de compromisso de R$ 400.000,00 do diretor de relações com investidores da… | cvm-col-20251216-d3433 | fichas/tc/2025-05.md |
+| 19957.020738/2024-06 | 2025-12-16 | aceito | O Colegiado aceitou, acompanhando o Comitê, proposta de termo de compromisso de R$ 705.000,00 à CVM, ajustada pelo Comitê a partir de R$… | cvm-col-20251216-d3432 | fichas/tc/2025-05.md |
+| 19957.003236/2023-21 | 2025-12-02 | aceito | O Colegiado aceitou, por unanimidade, a proposta de termo de compromisso de um membro do conselho de administração da 3R Petroleum Óleo e… | cvm-col-20251202-d3425 | fichas/tc/2025-05.md |
+| 19957.003588/2023-87 | 2025-12-02 | aceito | O Colegiado, por maioria, aceitou proposta conjunta de termo de compromisso de sete conselheiros do IRB - Brasil Resseguros S.A., de R$… | cvm-col-20251202-d3228 | fichas/tc/2025-05.md |
+| 19957.007976/2020-94 | 2025-12-02 | rejeitado | O Colegiado rejeitou, por unanimidade, novas propostas de termo de compromisso de cinco proponentes, em PAS com outros 14 acusados, por… | cvm-col-20251202-d2655 | fichas/tc/2025-05.md |
+| 19957.003043/2025-32 | 2025-11-18 | aceito | O Colegiado aceitou, por unanimidade, a proposta de termo de compromisso do diretor de relações com investidores da Zamp S.A., por suposta… | cvm-col-20251118-d3420 | fichas/tc/2025-05.md |
+| 19957.018693/2024-00 | 2025-11-11 | aceito | O Colegiado aceitou, por unanimidade, a proposta conjunta de termo de compromisso de dois gestores de FIA acusados de manipulação de preços… | cvm-col-20251111-d3417 | fichas/tc/2025-05.md |
+| 19957.001815/2025-00 | 2025-11-11 | aceito | O Colegiado aceitou, acompanhando o Comitê, proposta de termo de compromisso de R$ 330.000,00 à CVM, ajustada pelo Comitê a partir de R$… | cvm-col-20251111-d3415 | fichas/tc/2025-05.md |
+| 19957.001169/2025-72 | 2025-11-04 | aceito | O Colegiado, por unanimidade, aceitou proposta de termo de compromisso de R$ 470.000,00 do DRI da Companhia Brasileira de Distribuição por… | cvm-col-20251104-d3410 | fichas/tc/2025-05.md |
+| 19957.006380/2023-10 | 2025-10-14 | aceito | O Colegiado aceitou proposta de termo de compromisso do DRI de companhia aberta por atuação intempestiva na busca de informações junto a… | cvm-col-20251014-d3401 | fichas/tc/2025-05.md |
+| 19957.010495/2024-90 | 2025-10-14 | aceito | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, aceitou proposta de termo de compromisso de diretor de relações com… | cvm-col-20251014-d3382 | fichas/tc/2025-04.md |
+| 19957.003051/2024-06 | 2025-10-14 | aceito | O Colegiado, por unanimidade, aceitou proposta de termo de compromisso de R$ 1.224.000,00 da Riza Gestora e de seu executivo (R$ 612.000,00… | cvm-col-20251014-d3380 | fichas/tc/2025-04.md |
+| 19957.019653/2024-77 | 2025-10-07 | rejeitado | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, rejeitou proposta conjunta de termo de compromisso de três administradores… | cvm-col-20251007-d3383 | fichas/tc/2025-04.md |
+| 19957.000663/2025-10 | 2025-10-07 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou proposta de termo de compromisso de um diretor da Vivara Participações S.A… | cvm-col-20251007-d3381 | fichas/tc/2025-04.md |
+| 19957.005754/2024-61; 19957.015425/2024-28 | 2025-09-23 | outro | O Colegiado aceitou, por unanimidade, proposta de termo de compromisso no PAS 19957.005754/2024-61 (ressarcimento de investidores e R$… | cvm-col-20250923-d3368-3369 | fichas/tc/2025-04.md |
+| 19957.017968/2024-80 | 2025-09-16 | aceito | O Colegiado aceitou proposta de termo de compromisso do DRI de companhia aberta por não divulgação tempestiva de fato relevante sobre… | cvm-col-20250916-d3361 | fichas/tc/2025-04.md |
+| 19957.003748/2021-26 | 2025-09-16 | aceito | O Colegiado, por unanimidade, aceitou novas propostas de termo de compromisso de duas administradoras da Gafisa S.A. em PAS sobre deveres… | cvm-col-20250916-d3051 | fichas/tc/2025-04.md |
+| 19957.020870/2024-18 | 2025-09-09 | aceito | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, aceitou proposta de termo de compromisso de diretor de relações com… | cvm-col-20250909-d3358 | fichas/tc/2025-04.md |
+| 19957.018282/2024-14 | 2025-09-02 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou proposta conjunta de termo de compromisso de R$ 660.000,00 (R$ 330.000,00 por… | cvm-col-20250902-d3336 | fichas/tc/2025-04.md |
+| 19957.018146/2024-16 | 2025-08-12 | rejeitado | O Colegiado rejeitou, por unanimidade, proposta de termo de compromisso de administradora de fundo de ações por comunicações de… | cvm-col-20250812-d3326 | fichas/tc/2025-04.md |
+| 19957.016074/2024-72 | 2025-08-12 | rejeitado | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, rejeitou proposta de termo de compromisso de liquidante de companhia em… | cvm-col-20250812-d3321 | fichas/tc/2025-04.md |
+| 19957.003588/2023-87 | 2025-08-12 | — | Proposta de termo de compromisso em PAS cujos fatos envolvem gestora de recursos, originados em inquérito administrativo. Julgamento… | cvm-col-20250812-d3228 | fichas/tc/2025-03.md |
+| 19957.014316/2024-93; 19957.003060/2025-70 | 2025-07-22 | aceito | O Colegiado aceitou proposta de termo de compromisso de firma de auditoria independente por descumprimento, em tese, do Programa de… | cvm-col-20250722-d3314 | fichas/tc/2025-03.md |
+| 19957.006911/2021-11 | 2025-07-22 | rejeitado | O Colegiado rejeitou, por unanimidade, quatro propostas de termo de compromisso no PAS sobre o FIP Fontaine Ville Urbanismo Multiestratégia… | cvm-col-20250722-d3232 | fichas/tc/2025-03.md |
+| 19957.016052/2024-11 | 2025-07-01 | aceito | O Colegiado aceitou proposta de termo de compromisso do DRI de companhia aberta por não divulgação tempestiva de fato relevante diante de… | cvm-col-20250701-d3300 | fichas/tc/2025-03.md |
+| 19957.017629/2024-01 | 2025-06-24 | rejeitado | O Colegiado rejeitou, por unanimidade, proposta de termo de compromisso de R$ 500.000,00 apresentada pela diretora de relações com… | cvm-col-20250624-d3299 | fichas/tc/2025-03.md |
+| 19957.003158/2024-46 | 2025-06-10 | rejeitado | O Colegiado rejeitou proposta conjunta de termo de compromisso de seis membros do conselho de administração de companhia aberta (R$… | cvm-col-20250610-d3291 | fichas/tc/2025-03.md |
+| 19957.003570/2020-32 | 2025-06-10 | rejeitado | O Colegiado, por unanimidade, retirou o óbice à negociação e rejeitou proposta conjunta de termo de compromisso de Banco J. Safra S.A… | cvm-col-20250610-d3289 | fichas/tc/2025-03.md |
+| 19957.001077/2024-10 | 2025-06-03 | rejeitado | O Colegiado, por maioria, negou provimento a pedido de reconsideração de decisão que rejeitou proposta de termo de compromisso de R$… | cvm-col-20250603-d3237 | fichas/tc/2025-03.md |
+| 19957.002600/2020-93 | 2025-06-03 | rejeitado | O Colegiado, por unanimidade, rejeitou a proposta conjunta de termo de compromisso de R$ 640.000,00 da gestora e de cinco pessoas acusadas… | cvm-col-20250603-d3224 | fichas/tc/2025-03.md |
+| 19957.008687/2024-36 | 2025-05-27 | aceito | O Colegiado aceitou, por unanimidade, a proposta de termo de compromisso de um administrador da TIM S.A. que negociou ações da companhia… | cvm-col-20250527-d3285 | fichas/tc/2025-03.md |
+| 19957.007976/2020-94 | 2025-05-27 | — | Novas propostas de termo de compromisso de pessoas e empresas acusadas de operações fraudulentas com cotas de FII (ICVM 8/1979), em PAS da… | cvm-col-20250527-d2655 | fichas/tc/2025-03.md |
+| 19957.004339/2023-17 | 2025-05-20 | aceito | O Colegiado, por maioria, aceitou a proposta conjunta de termo de compromisso de auditora e responsável técnico, de R$ 1.881.000,00 (R$… | cvm-col-20250520-d3274 | fichas/tc/2025-03.md |
+| 19957.001954/2020-11 | 2025-05-20 | rejeitado | O Colegiado rejeitou, por unanimidade, a proposta conjunta de termo de compromisso da XP Investimentos CCTVM, de dirigentes e de escritório… | cvm-col-20250520-d3195 | fichas/tc/2025-02.md |
+| 19957.004339/2023-17 | 2025-05-13 | — | Proposta de termo de compromisso no PAS 19957.004339/2023-17. O Colegiado deu início à discussão e, por unanimidade, decidiu pela retirada… | cvm-col-20250513-d3274 | fichas/tc/2025-02.md |
+| 19957.001928/2023-35; 19957.003834/2021-39; 19957.006054/2022-21 | 2025-05-13 | aceito | O Colegiado aceitou, por unanimidade, a proposta global de termo de compromisso da Tivio Capital DTVM e de quatro diretores responsáveis… | cvm-col-20250513-d3273 | fichas/tc/2025-02.md |
+| 19957.014229/2023-55 | 2025-05-13 | aceito | O Colegiado, por unanimidade, aceitou, por conveniência e oportunidade, a proposta conjunta de termo de compromisso de auditora e de seu… | cvm-col-20250513-d3272 | fichas/tc/2025-02.md |
+| 19957.012349/2022-37 | 2025-05-13 | aceito | O Colegiado, por maioria, aceitou proposta de termo de compromisso da Laqus Depositária e de seu diretor-presidente, de R$ 405.000,00 em… | cvm-col-20250513-d2876 | fichas/tc/2025-02.md |
+| 19957.003174/2024-39 | 2025-05-06 | rejeitado | O Colegiado rejeitou, por voto de qualidade do Presidente, proposta de termo de compromisso da gestora, de R$ 780.000,00, em PAS por… | cvm-col-20250506-d3255 | fichas/tc/2025-02.md |
+| 19957.003174/2024-39 | 2025-04-29 | — | Proposta de termo de compromisso de gestora por não informar, em comunicados de 2023, interesse em alterar a estrutura administrativa da… | cvm-col-20250429-d3255 | fichas/tc/2025-02.md |
+| 19957.012215/2023-05 | 2025-04-15 | aceito | O Colegiado, por unanimidade, aceitou proposta de termo de compromisso de fundo de investimento que negociou ações de companhia aberta em… | cvm-col-20250415-d3261 | fichas/tc/2025-02.md |
+| 19957.008609/2024-31 | 2025-04-08 | aceito | O Colegiado, por maioria, aceitou proposta de termo de compromisso de R$ 330.000,00 do diretor de RI da Raízen S.A., por suposta informação… | cvm-col-20250408-d3253 | fichas/tc/2025-02.md |
+| 19957.002703/2023-04 | 2025-04-08 | outro | O Colegiado, por unanimidade, indeferiu pedido de retirada de pauta e, diante da desistência das propostas, remeteu o processo à SEP. As… | cvm-col-20250408-d3252 | fichas/tc/2025-02.md |
+| 19957.010909/2024-81; 19957.011239/2024-10 | 2025-04-01 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou as propostas de termo de compromisso de um diretor comercial e da Oceanpact… | cvm-col-20250401-d3245 | fichas/tc/2025-02.md |
+| 19957.011363/2024-85 | 2025-04-01 | rejeitado | O Colegiado rejeitou propostas de termo de compromisso de dois proponentes ligados à Fertilizantes Heringer S.A., de R$ 280.000,00 e R$… | cvm-col-20250401-d3241 | fichas/tc/2025-02.md |
+| 19957.001077/2024-10 | 2025-03-18 | rejeitado | O Colegiado rejeitou, por unanimidade, proposta de termo de compromisso de R$ 300.000,00, em parcela única, de vice-presidente do Banco… | cvm-col-20250318-d3237 | fichas/tc/2025-01.md |
+| 19957.003639/2024-51 | 2025-02-25 | rejeitado | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou propostas de termo de compromisso de cinco administradores da IGB Eletrônica… | cvm-col-20250225-d3229 | fichas/tc/2025-01.md |
+| 19957.014756/2023-60 | 2025-02-18 | aceito | O Colegiado aceitou, por unanimidade, proposta de termo de compromisso de R$ 126.000,00, em parcela única, de executivo comercial da Boa… | cvm-col-20250218-d3226 | fichas/tc/2025-01.md |
+| 19957.005597/2021-41 | 2025-02-18 | rejeitado | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou proposta de termo de compromisso (R$ 15.000,00 e cinco anos sem cargo em… | cvm-col-20250218-d3151 | fichas/tc/2025-01.md |
+| 19957.009503/2018-15 | 2025-02-11 | rejeitado | O Colegiado rejeitou propostas conjuntas de termo de compromisso de seis membros da Diretoria Executiva da Petrobras (R$ 2.700.000,00 no… | cvm-col-20250211-d2308 | fichas/tc/2025-01.md |
+| 19957.004081/2024-21 | 2025-02-04 | aceito | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, aceitou proposta conjunta de termo de compromisso de dois membros do… | cvm-col-20250204-d3222 | fichas/tc/2025-01.md |
+| 19957.015051/2023-60 | 2025-02-04 | aceito | O Colegiado aceitou proposta de termo de compromisso de R$ 420.000,00 da diretora de RI da Oi S.A. – Em Recuperação Judicial, por suposta… | cvm-col-20250204-d3219 | fichas/tc/2025-01.md |
+| 19957.001719/2023-91 | 2025-02-04 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou propostas de termo de compromisso: R$ 694.382,06, atualizados pelo IPCA desde… | cvm-col-20250204-d3218 | fichas/tc/2025-01.md |
+| 19957.008087/2021-25 | 2025-01-28 | rejeitado | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou a proposta conjunta de termo de compromisso de R$ 600.000,00 de um gestor e… | cvm-col-20250128-d3212 | fichas/tc/2025-01.md |
+| 19957.014625/2023-82 | 2025-01-28 | aceito | O Colegiado aceitou, por unanimidade, a proposta conjunta de termo de compromisso da distribuidora RB Investimentos e de três diretores… | cvm-col-20250128-d3205 | fichas/tc/2025-01.md |
+| 19957.015037/2023-66 | 2025-01-28 | rejeitado | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou a proposta conjunta de termo de compromisso de seis diretores (R$ 600.000,00… | cvm-col-20250128-d3200 | fichas/tc/2025-01.md |
+| 19957.015872/2023-04 | 2025-01-21 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou a proposta conjunta de termo de compromisso de dois administradores, no total… | cvm-col-20250121-d3199 | fichas/tc/2025-01.md |
 
 Fim do subíndice.

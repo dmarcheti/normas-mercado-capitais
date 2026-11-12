@@ -11,7 +11,7 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | RJ2017/646 | 2019-08-27 | condenacao | crsfn-10372-100020-2019-23 | fichas/crsfn/2019-02.md |
+| acordao-crsfn | RJ2017/646 | 2019-08-27 | condenacao | crsfn-10372-100020-2019-23 | fichas/crsfn/2019-03.md |
 | decisao-colegiado | RJ2014/1911 | 2014-03-25 | nao-provido | cvm-col-20140325-d09 | fichas/colegiado/2014-05.md |
 | decisao-colegiado | RJ2014/1904 | 2014-03-25 | nao-provido | cvm-col-20140325-d08 | fichas/colegiado/2014-05.md |
 | decisao-colegiado | RJ2014/1910 | 2014-03-18 | nao-provido | cvm-col-20140318-d07 | fichas/colegiado/2014-05.md |

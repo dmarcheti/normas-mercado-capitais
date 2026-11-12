@@ -27,8 +27,8 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 13, inciso I, alínea c | acordao-crsfn | SP-2014-14 | 2019-11-27 | parcial | crsfn-10372-100294-2018-31 | fichas/crsfn/2019-03.md |
-| art. 13, inciso I, alínea c | pas | SP2014/14 | 2017-09-12 | parcial | cvm-pas-sp2014-0014 | fichas/pas/2017-03.md |
+| art. 13, inciso I, alínea c | acordao-crsfn | SP-2014-14 | 2019-11-27 | parcial | crsfn-10372-100294-2018-31 | fichas/crsfn/2019-04.md |
+| art. 13, inciso I, alínea c | pas | SP2014/14 | 2017-09-12 | parcial | cvm-pas-sp2014-0014 | fichas/pas/2017-06.md |
 
 ## Citada sem dispositivo identificado
 
@@ -48,7 +48,7 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2015/7158 | 2016-03-29 | deferido | cvm-col-20160329-d0164 | fichas/colegiado/2016-08.md |
 | decisao-colegiado | RJ2014/3723; RJ2014/4397 | 2015-12-15 | conhecimento | cvm-col-20151215-d9118-d9122 | fichas/colegiado/2015-24.md |
 | decisao-colegiado | RJ2014/3723 | 2015-07-14 | outro | cvm-col-20150714-d9118 | fichas/colegiado/2015-13.md |
-| pas | 01/2009 | 2015-06-02 | absolvicao | cvm-pas-01-2009 | fichas/pas/2015-03.md |
+| pas | 01/2009 | 2015-06-02 | absolvicao | cvm-pas-01-2009 | fichas/pas/2015-06.md |
 | decisao-colegiado | 361/2002; RJ2014/12977 | 2015-02-10 | outro | cvm-col-20150210-d9467 | fichas/colegiado/2015-03.md |
 | decisao-colegiado | RJ2014/6527 | 2014-09-05 | deferido | cvm-col-20140905-d01 | fichas/colegiado/2014-17.md |
 | decisao-colegiado | RJ2014/4394 | 2014-06-03 | provido | cvm-col-20140603-d02 | fichas/colegiado/2014-11.md |

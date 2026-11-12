@@ -17,19 +17,19 @@ Norma: [leis/lei-08929.md](../../normas/leis/lei-08929.md) (texto vigente hoje; 
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 2º | acordao-crsfn | RJ-2007-13207 | 2012-07-30 | condenacao | crsfn-12360 | fichas/crsfn/2012-03.md |
+| art. 2º | acordao-crsfn | RJ-2007-13207 | 2012-07-30 | condenacao | crsfn-12360 | fichas/crsfn/2012-04.md |
 | art. 2º | decisao-colegiado | RJ2013/8860 | 2013-11-26 | deferido | cvm-col-20131126-d02 | fichas/colegiado/2013-22.md |
 | art. 2º | decisao-colegiado | 19957.001669/2016-13 | 2016-08-30 | provido | cvm-col-20160830-d0291 | fichas/colegiado/2016-16.md |
-| art. 2º | pas | RJ2007/13207 | 2008-09-02 | condenacao | cvm-pas-rj2007-13207 | fichas/pas/2008-03.md |
-| art. 2º, inciso IV | acordao-crsfn | RJ-2007-13207 | 2012-07-30 | condenacao | crsfn-12360 | fichas/crsfn/2012-03.md |
-| art. 2º, inciso IV | pas | RJ2007/13207 | 2008-09-02 | condenacao | cvm-pas-rj2007-13207 | fichas/pas/2008-03.md |
+| art. 2º | pas | RJ2007/13207 | 2008-09-02 | condenacao | cvm-pas-rj2007-13207 | fichas/pas/2008-05.md |
+| art. 2º, inciso IV | acordao-crsfn | RJ-2007-13207 | 2012-07-30 | condenacao | crsfn-12360 | fichas/crsfn/2012-04.md |
+| art. 2º, inciso IV | pas | RJ2007/13207 | 2008-09-02 | condenacao | cvm-pas-rj2007-13207 | fichas/pas/2008-05.md |
 
 ## art. 3º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 3º | decisao-colegiado | RJ2013/5929 | 2013-08-27 | deferido | cvm-col-20130827-d03 | fichas/colegiado/2013-16.md |
-| art. 3º | pas | RJ2007/13207 | 2008-09-02 | condenacao | cvm-pas-rj2007-13207 | fichas/pas/2008-03.md |
+| art. 3º | pas | RJ2007/13207 | 2008-09-02 | condenacao | cvm-pas-rj2007-13207 | fichas/pas/2008-05.md |
 
 ## art. 4º
 
@@ -41,20 +41,20 @@ Norma: [leis/lei-08929.md](../../normas/leis/lei-08929.md) (texto vigente hoje; 
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 4º-A | acordao-crsfn | RJ-2007-13207 | 2012-07-30 | condenacao | crsfn-12360 | fichas/crsfn/2012-03.md |
+| art. 4º-A | acordao-crsfn | RJ-2007-13207 | 2012-07-30 | condenacao | crsfn-12360 | fichas/crsfn/2012-04.md |
 | art. 4º-A | decisao-colegiado | RJ2013/5929 | 2013-08-27 | deferido | cvm-col-20130827-d03 | fichas/colegiado/2013-16.md |
-| art. 4º-A | pas | RJ2007/13207 | 2008-09-02 | condenacao | cvm-pas-rj2007-13207 | fichas/pas/2008-03.md |
-| art. 4º-A, inciso I | pas | RJ2007/13207 | 2008-09-02 | condenacao | cvm-pas-rj2007-13207 | fichas/pas/2008-03.md |
-| art. 4º-A, inciso II | pas | RJ2007/13207 | 2008-09-02 | condenacao | cvm-pas-rj2007-13207 | fichas/pas/2008-03.md |
-| art. 4º-A, inciso III | pas | RJ2007/13207 | 2008-09-02 | condenacao | cvm-pas-rj2007-13207 | fichas/pas/2008-03.md |
+| art. 4º-A | pas | RJ2007/13207 | 2008-09-02 | condenacao | cvm-pas-rj2007-13207 | fichas/pas/2008-05.md |
+| art. 4º-A, inciso I | pas | RJ2007/13207 | 2008-09-02 | condenacao | cvm-pas-rj2007-13207 | fichas/pas/2008-05.md |
+| art. 4º-A, inciso II | pas | RJ2007/13207 | 2008-09-02 | condenacao | cvm-pas-rj2007-13207 | fichas/pas/2008-05.md |
+| art. 4º-A, inciso III | pas | RJ2007/13207 | 2008-09-02 | condenacao | cvm-pas-rj2007-13207 | fichas/pas/2008-05.md |
 
 ## art. 19
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 19 | pas | 23/2004 | 2006-09-28 | parcial | cvm-pas-23-2004 | fichas/pas/2006-10.md |
-| art. 19 | pas | RJ2007/13207 | 2008-09-02 | condenacao | cvm-pas-rj2007-13207 | fichas/pas/2008-03.md |
-| art. 19, § 1º | pas | 23/2004 | 2006-09-28 | parcial | cvm-pas-23-2004 | fichas/pas/2006-10.md |
+| art. 19 | pas | 23/2004 | 2006-09-28 | parcial | cvm-pas-23-2004 | fichas/pas/2006-19.md |
+| art. 19 | pas | RJ2007/13207 | 2008-09-02 | condenacao | cvm-pas-rj2007-13207 | fichas/pas/2008-05.md |
+| art. 19, § 1º | pas | 23/2004 | 2006-09-28 | parcial | cvm-pas-23-2004 | fichas/pas/2006-19.md |
 
 ## Citada sem dispositivo identificado
 
@@ -66,7 +66,7 @@ Norma: [leis/lei-08929.md](../../normas/leis/lei-08929.md) (texto vigente hoje; 
 | decisao-colegiado | 356/2001; 444/2006; 555/2014; 19957.004508/2019-24 | 2021-08-17 | — | cvm-col-20210817-d2274 | fichas/colegiado/2021-14.md |
 | decisao-colegiado | 19957.008144/2016-17; RJ2016/2365 | 2018-03-13 | conhecimento | cvm-col-20180313-d0329 | fichas/colegiado/2018-05.md |
 | decisao-colegiado | RJ2016/2365 | 2016-11-29 | nao-provido | cvm-col-20161129-d0329 | fichas/colegiado/2016-23.md |
-| acordao-crsfn | 14/2008 | 2015-07-28 | absolvicao | crsfn-13420 | fichas/crsfn/2015-03.md |
-| pas | 14/2008 | 2011-08-09 | condenacao | cvm-pas-14-2008 | fichas/pas/2011-01.md |
+| acordao-crsfn | 14/2008 | 2015-07-28 | absolvicao | crsfn-13420 | fichas/crsfn/2015-04.md |
+| pas | 14/2008 | 2011-08-09 | condenacao | cvm-pas-14-2008 | fichas/pas/2011-02.md |
 
 Fim do subíndice.

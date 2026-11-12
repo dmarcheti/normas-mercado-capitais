@@ -54,14 +54,14 @@ Anexo II, art. 7º (1025); Anexo II, art. 9º (1031); Citada sem dispositivo ide
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 6º | pas | 19957.005388/2017-11 | 2023-10-31 | absolvicao | cvm-pas-19957-005388-2017-11 | fichas/pas/2023-07.md |
+| art. 6º | pas | 19957.005388/2017-11 | 2023-10-31 | absolvicao | cvm-pas-19957-005388-2017-11 | fichas/pas/2023-13.md |
 
 ## art. 9º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 9º | acordao-crsfn | 19957.007543/2019-03; RJ2019/5673 | 2023-05-09 | condenacao | crsfn-10372-100012-2021-00 | fichas/crsfn/2023-03.md |
-| art. 9º | acordao-crsfn | RJ2019/2631 | 2023-05-09 | parcial | crsfn-10372-100118-2021-03 | fichas/crsfn/2023-04.md |
+| art. 9º | acordao-crsfn | 19957.007543/2019-03; RJ2019/5673 | 2023-05-09 | condenacao | crsfn-10372-100012-2021-00 | fichas/crsfn/2023-04.md |
+| art. 9º | acordao-crsfn | RJ2019/2631 | 2023-05-09 | parcial | crsfn-10372-100118-2021-03 | fichas/crsfn/2023-05.md |
 | art. 9º | decisao-colegiado | 19957.009328/2023-15 | 2024-08-06 | deferido | cvm-col-20240806-d3112 | fichas/colegiado/2024-08.md |
 | art. 9º | decisao-colegiado | 19957.009328/2023-15 | 2024-10-29 | outro | cvm-col-20241029-d3112 | fichas/colegiado/2024-12.md |
 | art. 9º | decisao-colegiado | 19957.012698/2023-30 | 2025-07-08 | deferido | cvm-col-20250708-d3211 | fichas/colegiado/2025-06.md |
@@ -1048,11 +1048,11 @@ Anexo II, art. 7º (1025); Anexo II, art. 9º (1031); Citada sem dispositivo ide
 | decisao-colegiado | 19957.003412/2023-25 | 2024-01-23 | outro | cvm-col-20240123-d3004 | fichas/colegiado/2024-01.md |
 | decisao-colegiado | 19957.012068/2022-84 | 2023-12-06 | outro | cvm-col-20231206-d2985 | fichas/colegiado/2023-13.md |
 | decisao-colegiado | — | 2023-11-29 | outro | cvm-col-20231129-d2976 | fichas/colegiado/2023-13.md |
-| pas | 19957.003473/2021-21 | 2023-11-07 | condenacao | cvm-pas-19957-003473-2021-21 | fichas/pas/2023-07.md |
-| acordao-crsfn | 19957.009366/2017-20; SP2018/00412 | 2023-09-12 | parcial | crsfn-10372-100088-2022-16 | fichas/crsfn/2023-06.md |
+| pas | 19957.003473/2021-21 | 2023-11-07 | condenacao | cvm-pas-19957-003473-2021-21 | fichas/pas/2023-13.md |
+| acordao-crsfn | 19957.009366/2017-20; SP2018/00412 | 2023-09-12 | parcial | crsfn-10372-100088-2022-16 | fichas/crsfn/2023-07.md |
 | termo-compromisso | 19957.007321/2022-88 | 2023-08-15 | aceito | cvm-col-20230815-d2874 | fichas/tc/2023-05.md |
 | decisao-colegiado | 19957.004968/2021-77 | 2023-08-01 | deferido | cvm-col-20230801-d2393 | fichas/colegiado/2023-08.md |
-| pas | 19957.011361/2018-48 | 2023-06-27 | absolvicao | cvm-pas-19957-011361-2018-48 | fichas/pas/2023-04.md |
+| pas | 19957.011361/2018-48 | 2023-06-27 | absolvicao | cvm-pas-19957-011361-2018-48 | fichas/pas/2023-06.md |
 | termo-compromisso | 19957.007321/2022-88 | 2023-06-27 | outro | cvm-col-20230627-d2874 | fichas/tc/2023-04.md |
 | decisao-colegiado | 875/2021; 19957.001605/2021-80 | 2023-02-14 | parcial | cvm-col-20230214-d2482 | fichas/colegiado/2023-03.md |
 | decisao-colegiado | — | 2022-12-02 | outro | cvm-col-20221202-d2793 | fichas/colegiado/2022-16.md |

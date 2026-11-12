@@ -54,15 +54,15 @@ Este subíndice tem 507 linhas e uma leitura única é cortada em silêncio pert
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 1º | acordao-crsfn | RJ2012/7353 | 2022-12-07 | parcial | crsfn-10372-100052-2020-62 | fichas/crsfn/2022-07.md |
+| art. 1º | acordao-crsfn | RJ2012/7353 | 2022-12-07 | parcial | crsfn-10372-100052-2020-62 | fichas/crsfn/2022-08.md |
 | art. 1º | decisao-colegiado | RJ2003/5846 | 2004-05-04 | indeferido | cvm-col-20040504-d02 | fichas/colegiado/2004-05.md |
 | art. 1º | decisao-colegiado | RJ2009/1254 | 2009-10-13 | outro | cvm-col-20091013-d16 | fichas/colegiado/2009-18.md |
 | art. 1º | decisao-colegiado | 02/2014; RJ2012/5550 | 2015-01-14 | outro | cvm-col-20150114-d4843 | fichas/colegiado/2015-02.md |
-| art. 1º | pas | RJ2012/7353 | 2019-08-20 | condenacao | cvm-pas-rj2012-7353 | fichas/pas/2019-08.md |
+| art. 1º | pas | RJ2012/7353 | 2019-08-20 | condenacao | cvm-pas-rj2012-7353 | fichas/pas/2019-15.md |
 | art. 1º, § 3º | decisao-colegiado | RJ1998/1639 | 2007-02-05 | nao-provido | cvm-col-20070205-d02 | fichas/colegiado/2007-02.md |
 | art. 1º, § 3º | decisao-colegiado | RJ2007/9370 | 2009-11-24 | nao-provido | cvm-col-20091124-d06 | fichas/colegiado/2009-21.md |
-| art. 1º, § 3º, alínea d | acordao-crsfn | RJ2012/7353 | 2022-12-07 | parcial | crsfn-10372-100052-2020-62 | fichas/crsfn/2022-07.md |
-| art. 1º, § 4º | acordao-crsfn | RJ2012/7353 | 2022-12-07 | parcial | crsfn-10372-100052-2020-62 | fichas/crsfn/2022-07.md |
+| art. 1º, § 3º, alínea d | acordao-crsfn | RJ2012/7353 | 2022-12-07 | parcial | crsfn-10372-100052-2020-62 | fichas/crsfn/2022-08.md |
+| art. 1º, § 4º | acordao-crsfn | RJ2012/7353 | 2022-12-07 | parcial | crsfn-10372-100052-2020-62 | fichas/crsfn/2022-08.md |
 | art. 1º, § 4º | decisao-colegiado | RJ2010/15660; RJ2010/5704 | 2012-09-11 | nao-provido | cvm-col-20120911-d16 | fichas/colegiado/2012-17.md |
 | art. 1º, § 4º | pas | RJ2005/5828 | 2006-01-11 | parcial | cvm-pas-rj2005-5828 | fichas/pas/2006-01.md |
 
@@ -103,9 +103,9 @@ Este subíndice tem 507 linhas e uma leitura única é cortada em silêncio pert
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 3º | decisao-colegiado | 02/2014; RJ2012/5550 | 2015-01-14 | outro | cvm-col-20150114-d4843 | fichas/colegiado/2015-02.md |
-| art. 3º | pas | 19957.008895/2019-78; RJ2019/6858 | 2020-07-07 | condenacao | cvm-pas-19957-008895-2019-78 | fichas/pas/2020-03.md |
+| art. 3º | pas | 19957.008895/2019-78; RJ2019/6858 | 2020-07-07 | condenacao | cvm-pas-19957-008895-2019-78 | fichas/pas/2020-06.md |
 | art. 3º, inciso I | decisao-colegiado | RJ2012/14029 | 2013-04-24 | nao-provido | cvm-col-20130424-d07 | fichas/colegiado/2013-09.md |
-| art. 3º, inciso III | pas | RJ2011/14269 | 2013-03-26 | parcial | cvm-pas-rj2011-14269 | fichas/pas/2013-02.md |
+| art. 3º, inciso III | pas | RJ2011/14269 | 2013-03-26 | parcial | cvm-pas-rj2011-14269 | fichas/pas/2013-03.md |
 | art. 3º, parágrafo único | decisao-colegiado | RJ2008/12176 | 2011-06-07 | nao-provido | cvm-col-20110607-d04 | fichas/colegiado/2011-12.md |
 
 ## art. 4º
@@ -125,24 +125,24 @@ Este subíndice tem 507 linhas e uma leitura única é cortada em silêncio pert
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 7º | decisao-colegiado | 02/2014; RJ2012/5550 | 2015-01-14 | outro | cvm-col-20150114-d4843 | fichas/colegiado/2015-02.md |
-| art. 7º | pas | 01/2004 | 2005-11-16 | parcial | cvm-pas-01-2004 | fichas/pas/2005-08.md |
-| art. 7º | pas | 19957.008895/2019-78; RJ2019/6858 | 2020-07-07 | condenacao | cvm-pas-19957-008895-2019-78 | fichas/pas/2020-03.md |
+| art. 7º | pas | 01/2004 | 2005-11-16 | parcial | cvm-pas-01-2004 | fichas/pas/2005-16.md |
+| art. 7º | pas | 19957.008895/2019-78; RJ2019/6858 | 2020-07-07 | condenacao | cvm-pas-19957-008895-2019-78 | fichas/pas/2020-06.md |
 | art. 7º, inciso I | termo-compromisso | RJ2013/9737 | 2014-12-02 | aceito | cvm-col-20141202-d16 | fichas/tc/2014-05.md |
 | art. 7º, inciso I | decisao-colegiado | 19957.006024/2017-58 | 2018-03-13 | nao-provido | cvm-col-20180313-d0735 | fichas/colegiado/2018-05.md |
-| art. 7º, inciso I | pas | 19957.012414/2022-24 | 2023-07-11 | condenacao | cvm-pas-19957-012414-2022-24 | fichas/pas/2023-04.md |
+| art. 7º, inciso I | pas | 19957.012414/2022-24 | 2023-07-11 | condenacao | cvm-pas-19957-012414-2022-24 | fichas/pas/2023-07.md |
 
 ## art. 10
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 10 | acordao-crsfn | 2011/14269 | 2017-02-08 | arquivamento | crsfn-13749 | fichas/crsfn/2017-01.md |
+| art. 10 | acordao-crsfn | 2011/14269 | 2017-02-08 | arquivamento | crsfn-13749 | fichas/crsfn/2017-02.md |
 | art. 10 | termo-compromisso | RJ2011/14269 | 2012-08-21 | rejeitado | cvm-col-20120821-d04 | fichas/tc/2012-04.md |
 | art. 10 | decisao-colegiado | 02/2014; RJ2012/5550 | 2015-01-14 | outro | cvm-col-20150114-d4843 | fichas/colegiado/2015-02.md |
-| art. 10 | pas | RJ2005/2815 | 2005-10-05 | parcial | cvm-pas-rj2005-2815 | fichas/pas/2005-07.md |
-| art. 10 | pas | RJ2011/14269 | 2013-03-26 | parcial | cvm-pas-rj2011-14269 | fichas/pas/2013-02.md |
-| art. 10 | pas | 01/2013 | 2015-03-10 | condenacao | cvm-pas-01-2013 | fichas/pas/2015-01.md |
-| art. 10, parágrafo único | pas | RJ2005/2815 | 2005-10-05 | parcial | cvm-pas-rj2005-2815 | fichas/pas/2005-07.md |
-| art. 10, parágrafo único | pas | 01/2013 | 2015-03-10 | condenacao | cvm-pas-01-2013 | fichas/pas/2015-01.md |
+| art. 10 | pas | RJ2005/2815 | 2005-10-05 | parcial | cvm-pas-rj2005-2815 | fichas/pas/2005-13.md |
+| art. 10 | pas | RJ2011/14269 | 2013-03-26 | parcial | cvm-pas-rj2011-14269 | fichas/pas/2013-03.md |
+| art. 10 | pas | 01/2013 | 2015-03-10 | condenacao | cvm-pas-01-2013 | fichas/pas/2015-02.md |
+| art. 10, parágrafo único | pas | RJ2005/2815 | 2005-10-05 | parcial | cvm-pas-rj2005-2815 | fichas/pas/2005-13.md |
+| art. 10, parágrafo único | pas | 01/2013 | 2015-03-10 | condenacao | cvm-pas-01-2013 | fichas/pas/2015-02.md |
 
 ## art. 11
 
@@ -185,8 +185,8 @@ Este subíndice tem 507 linhas e uma leitura única é cortada em silêncio pert
 | art. 12 | decisao-colegiado | 19957.000709/2020-96 | 2020-03-10 | nao-provido | cvm-col-20200310-d1741 | fichas/colegiado/2020-04.md |
 | art. 12 | decisao-colegiado | 19957.008885/2021-57 | 2021-11-30 | nao-provido | cvm-col-20211130-d2415 | fichas/colegiado/2021-20.md |
 | art. 12 | decisao-colegiado | 19957.008885/2021-57 | 2022-02-08 | conhecimento | cvm-col-20220208-d2415 | fichas/colegiado/2022-01.md |
-| art. 12 | pas | 01/2004 | 2005-11-16 | parcial | cvm-pas-01-2004 | fichas/pas/2005-08.md |
-| art. 12 | pas | 19957.008895/2019-78; RJ2019/6858 | 2020-07-07 | condenacao | cvm-pas-19957-008895-2019-78 | fichas/pas/2020-03.md |
+| art. 12 | pas | 01/2004 | 2005-11-16 | parcial | cvm-pas-01-2004 | fichas/pas/2005-16.md |
+| art. 12 | pas | 19957.008895/2019-78; RJ2019/6858 | 2020-07-07 | condenacao | cvm-pas-19957-008895-2019-78 | fichas/pas/2020-06.md |
 | art. 12, inciso I | decisao-colegiado | RJ1998/1639 | 2007-02-05 | nao-provido | cvm-col-20070205-d02 | fichas/colegiado/2007-02.md |
 | art. 12, inciso I | decisao-colegiado | 19957.008165/2016-24 | 2016-11-22 | nao-provido | cvm-col-20161122-d0429 | fichas/colegiado/2016-23.md |
 | art. 12, inciso I | decisao-colegiado | 19957.008168/2016-68 | 2016-11-22 | nao-provido | cvm-col-20161122-d0430 | fichas/colegiado/2016-23.md |
@@ -204,10 +204,10 @@ Este subíndice tem 507 linhas e uma leitura única é cortada em silêncio pert
 | art. 12, inciso I | decisao-colegiado | 19957.005332/2019-28 | 2019-05-28 | nao-provido | cvm-col-20190528-d1418 | fichas/colegiado/2019-08.md |
 | art. 12, inciso I | decisao-colegiado | 19957.008885/2021-57 | 2021-11-30 | nao-provido | cvm-col-20211130-d2415 | fichas/colegiado/2021-20.md |
 | art. 12, inciso I | decisao-colegiado | 19957.008885/2021-57 | 2022-02-08 | conhecimento | cvm-col-20220208-d2415 | fichas/colegiado/2022-01.md |
-| art. 12, inciso I | pas | 19957.006209/2016-81; RJ2016/7499 | 2019-12-10 | parcial | cvm-pas-19957-006209-2016-81 | fichas/pas/2019-12.md |
-| art. 12, inciso I | pas | 19957.008895/2019-78; RJ2019/6858 | 2020-07-07 | condenacao | cvm-pas-19957-008895-2019-78 | fichas/pas/2020-03.md |
-| art. 12, inciso I | pas | 19957.006394/2021-71 | 2022-11-29 | condenacao | cvm-pas-19957-006394-2021-71 | fichas/pas/2022-06.md |
-| art. 12, inciso I | pas | 19957.009685/2021-11 | 2023-03-14 | condenacao | cvm-pas-19957-009685-2021-11 | fichas/pas/2023-01.md |
+| art. 12, inciso I | pas | 19957.006209/2016-81; RJ2016/7499 | 2019-12-10 | parcial | cvm-pas-19957-006209-2016-81 | fichas/pas/2019-22.md |
+| art. 12, inciso I | pas | 19957.008895/2019-78; RJ2019/6858 | 2020-07-07 | condenacao | cvm-pas-19957-008895-2019-78 | fichas/pas/2020-06.md |
+| art. 12, inciso I | pas | 19957.006394/2021-71 | 2022-11-29 | condenacao | cvm-pas-19957-006394-2021-71 | fichas/pas/2022-12.md |
+| art. 12, inciso I | pas | 19957.009685/2021-11 | 2023-03-14 | condenacao | cvm-pas-19957-009685-2021-11 | fichas/pas/2023-02.md |
 | art. 12, inciso I | pas | 19957.011123/2025-61 | 2026-06-02 | condenacao | cvm-pas-19957-011123-2025-61 | fichas/pas/2026-01.md |
 | art. 12, inciso I, alínea a | decisao-colegiado | 19957.008948/2016-16 | 2016-12-20 | nao-provido | cvm-col-20161220-d0491 | fichas/colegiado/2016-25.md |
 | art. 12, inciso I, alínea a | decisao-colegiado | 19957.008899/2016-11 | 2017-01-03 | nao-provido | cvm-col-20170103-d0490 | fichas/colegiado/2017-01.md |
@@ -229,13 +229,13 @@ Este subíndice tem 507 linhas e uma leitura única é cortada em silêncio pert
 | art. 12, inciso IV | decisao-colegiado | 19957.004994/2019-81 | 2019-05-14 | parcial | cvm-col-20190514-d1398 | fichas/colegiado/2019-07.md |
 | art. 12, inciso IV | decisao-colegiado | 19957.007512/2019-44 | 2019-08-20 | nao-provido | cvm-col-20190820-d1503 | fichas/colegiado/2019-12.md |
 | art. 12, inciso IV | decisao-colegiado | 19957.000709/2020-96 | 2020-03-10 | nao-provido | cvm-col-20200310-d1741 | fichas/colegiado/2020-04.md |
-| art. 12, inciso IV | pas | 19957.008895/2019-78; RJ2019/6858 | 2020-07-07 | condenacao | cvm-pas-19957-008895-2019-78 | fichas/pas/2020-03.md |
+| art. 12, inciso IV | pas | 19957.008895/2019-78; RJ2019/6858 | 2020-07-07 | condenacao | cvm-pas-19957-008895-2019-78 | fichas/pas/2020-06.md |
 | art. 12, inciso VI | decisao-colegiado | 19957.004996/2019-70 | 2019-05-21 | nao-provido | cvm-col-20190521-d1401 | fichas/colegiado/2019-08.md |
 | art. 12, inciso VI | decisao-colegiado | 19957.005140/2019-11 | 2019-05-21 | nao-provido | cvm-col-20190521-d1407 | fichas/colegiado/2019-08.md |
 | art. 12, inciso VI | decisao-colegiado | 19957.007512/2019-44 | 2019-08-20 | nao-provido | cvm-col-20190820-d1503 | fichas/colegiado/2019-12.md |
 | art. 12, inciso VI | decisao-colegiado | 19957.000709/2020-96 | 2020-03-10 | nao-provido | cvm-col-20200310-d1741 | fichas/colegiado/2020-04.md |
 | art. 12, inciso VI | decisao-colegiado | 19957.009338/2021-99 | 2021-12-07 | nao-provido | cvm-col-20211207-d2417 | fichas/colegiado/2021-21.md |
-| art. 12, inciso VI | pas | 19957.008895/2019-78; RJ2019/6858 | 2020-07-07 | condenacao | cvm-pas-19957-008895-2019-78 | fichas/pas/2020-03.md |
+| art. 12, inciso VI | pas | 19957.008895/2019-78; RJ2019/6858 | 2020-07-07 | condenacao | cvm-pas-19957-008895-2019-78 | fichas/pas/2020-06.md |
 
 ## art. 12-A
 
@@ -251,14 +251,14 @@ Este subíndice tem 507 linhas e uma leitura única é cortada em silêncio pert
 | art. 13 | decisao-colegiado | RJ2015/8434 | 2017-04-18 | conhecimento | cvm-col-20170418-d9888 | fichas/colegiado/2017-08.md |
 | art. 13 | decisao-colegiado | 19957.006024/2017-58 | 2018-03-13 | nao-provido | cvm-col-20180313-d0735 | fichas/colegiado/2018-05.md |
 | art. 13 | decisao-colegiado | 19957.007512/2019-44 | 2019-08-20 | nao-provido | cvm-col-20190820-d1503 | fichas/colegiado/2019-12.md |
-| art. 13 | pas | 01/2004 | 2005-11-16 | parcial | cvm-pas-01-2004 | fichas/pas/2005-08.md |
-| art. 13 | pas | RJ2005/2815 | 2005-10-05 | parcial | cvm-pas-rj2005-2815 | fichas/pas/2005-07.md |
-| art. 13 | pas | 19957.008895/2019-78; RJ2019/6858 | 2020-07-07 | condenacao | cvm-pas-19957-008895-2019-78 | fichas/pas/2020-03.md |
-| art. 13, inciso V | acordao-crsfn | 2011/14269 | 2017-02-08 | arquivamento | crsfn-13749 | fichas/crsfn/2017-01.md |
+| art. 13 | pas | 01/2004 | 2005-11-16 | parcial | cvm-pas-01-2004 | fichas/pas/2005-16.md |
+| art. 13 | pas | RJ2005/2815 | 2005-10-05 | parcial | cvm-pas-rj2005-2815 | fichas/pas/2005-13.md |
+| art. 13 | pas | 19957.008895/2019-78; RJ2019/6858 | 2020-07-07 | condenacao | cvm-pas-19957-008895-2019-78 | fichas/pas/2020-06.md |
+| art. 13, inciso V | acordao-crsfn | 2011/14269 | 2017-02-08 | arquivamento | crsfn-13749 | fichas/crsfn/2017-02.md |
 | art. 13, inciso V | termo-compromisso | RJ2011/14269 | 2012-08-21 | rejeitado | cvm-col-20120821-d04 | fichas/tc/2012-04.md |
-| art. 13, inciso V | pas | RJ2005/2815 | 2005-10-05 | parcial | cvm-pas-rj2005-2815 | fichas/pas/2005-07.md |
-| art. 13, inciso V | pas | RJ2011/14269 | 2013-03-26 | parcial | cvm-pas-rj2011-14269 | fichas/pas/2013-02.md |
-| art. 13, inciso V | pas | 01/2013 | 2015-03-10 | condenacao | cvm-pas-01-2013 | fichas/pas/2015-01.md |
+| art. 13, inciso V | pas | RJ2005/2815 | 2005-10-05 | parcial | cvm-pas-rj2005-2815 | fichas/pas/2005-13.md |
+| art. 13, inciso V | pas | RJ2011/14269 | 2013-03-26 | parcial | cvm-pas-rj2011-14269 | fichas/pas/2013-03.md |
+| art. 13, inciso V | pas | 01/2013 | 2015-03-10 | condenacao | cvm-pas-01-2013 | fichas/pas/2015-02.md |
 
 ## art. 14
 
@@ -289,9 +289,9 @@ Este subíndice tem 507 linhas e uma leitura única é cortada em silêncio pert
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 19 | acordao-crsfn | RJ-2008-2468 | 2012-11-26 | condenacao | crsfn-12521 | fichas/crsfn/2012-04.md |
+| art. 19 | acordao-crsfn | RJ-2008-2468 | 2012-11-26 | condenacao | crsfn-12521 | fichas/crsfn/2012-05.md |
 | art. 19 | decisao-colegiado | RJ2002/7680 | 2003-03-12 | nao-provido | cvm-col-20030312-d13 | fichas/colegiado/2003-03.md |
-| art. 19 | pas | RJ2008/2468 | 2009-03-31 | condenacao | cvm-pas-rj2008-2468 | fichas/pas/2009-01.md |
+| art. 19 | pas | RJ2008/2468 | 2009-03-31 | condenacao | cvm-pas-rj2008-2468 | fichas/pas/2009-02.md |
 
 ## art. 20
 
@@ -407,10 +407,10 @@ Este subíndice tem 507 linhas e uma leitura única é cortada em silêncio pert
 |---|---|---|---|---|---|---|
 | art. 32 | decisao-colegiado | 02/2014; RJ2012/5550 | 2015-01-14 | outro | cvm-col-20150114-d4843 | fichas/colegiado/2015-02.md |
 | art. 32 | decisao-colegiado | 19957.007121/2018-49 | 2018-12-04 | conhecimento | cvm-col-20181204-d1163 | fichas/colegiado/2018-20.md |
-| art. 32 | pas | 01/2004 | 2005-11-16 | parcial | cvm-pas-01-2004 | fichas/pas/2005-08.md |
-| art. 32 | pas | 19957.008895/2019-78; RJ2019/6858 | 2020-07-07 | condenacao | cvm-pas-19957-008895-2019-78 | fichas/pas/2020-03.md |
-| art. 32, inciso II | pas | 01/2004 | 2005-11-16 | parcial | cvm-pas-01-2004 | fichas/pas/2005-08.md |
-| art. 32, parágrafo único | pas | RJ2012/4066 | 2015-03-31 | parcial | cvm-pas-rj2012-4066 | fichas/pas/2015-02.md |
+| art. 32 | pas | 01/2004 | 2005-11-16 | parcial | cvm-pas-01-2004 | fichas/pas/2005-16.md |
+| art. 32 | pas | 19957.008895/2019-78; RJ2019/6858 | 2020-07-07 | condenacao | cvm-pas-19957-008895-2019-78 | fichas/pas/2020-06.md |
+| art. 32, inciso II | pas | 01/2004 | 2005-11-16 | parcial | cvm-pas-01-2004 | fichas/pas/2005-16.md |
+| art. 32, parágrafo único | pas | RJ2012/4066 | 2015-03-31 | parcial | cvm-pas-rj2012-4066 | fichas/pas/2015-04.md |
 
 ## art. 33
 
@@ -436,7 +436,7 @@ Este subíndice tem 507 linhas e uma leitura única é cortada em silêncio pert
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 36 | pas | RJ2005/2815 | 2005-10-05 | parcial | cvm-pas-rj2005-2815 | fichas/pas/2005-07.md |
+| art. 36 | pas | RJ2005/2815 | 2005-10-05 | parcial | cvm-pas-rj2005-2815 | fichas/pas/2005-13.md |
 
 ## art. 38
 
@@ -454,7 +454,7 @@ Este subíndice tem 507 linhas e uma leitura única é cortada em silêncio pert
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 361 | pas | RJ2005/2815 | 2005-10-05 | parcial | cvm-pas-rj2005-2815 | fichas/pas/2005-07.md |
+| art. 361 | pas | RJ2005/2815 | 2005-10-05 | parcial | cvm-pas-rj2005-2815 | fichas/pas/2005-13.md |
 
 ## Citada sem dispositivo identificado
 
@@ -463,12 +463,12 @@ Este subíndice tem 507 linhas e uma leitura única é cortada em silêncio pert
 | decisao-colegiado | 19957.005279/2020-07 | 2022-12-13 | nao-provido | cvm-col-20221213-d2730 | fichas/colegiado/2022-17.md |
 | decisao-colegiado | 19957.005698/2016-54 | 2022-12-13 | nao-provido | cvm-col-20221213-d2729 | fichas/colegiado/2022-16.md |
 | decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
-| pas | RJ2013/9266 | 2018-03-27 | parcial | cvm-pas-rj2013-9266 | fichas/pas/2018-02.md |
+| pas | RJ2013/9266 | 2018-03-27 | parcial | cvm-pas-rj2013-9266 | fichas/pas/2018-04.md |
 | decisao-colegiado | 19957.005694/2017-57 | 2018-03-13 | nao-provido | cvm-col-20180313-d0751 | fichas/colegiado/2018-05.md |
 | decisao-colegiado | RJ2016/7756 | 2016-11-08 | nao-provido | cvm-col-20161108-d0419 | fichas/colegiado/2016-22.md |
-| acordao-crsfn | RJ-2013-2023 | 2016-08-23 | condenacao | crsfn-14427 | fichas/crsfn/2016-04.md |
+| acordao-crsfn | RJ-2013-2023 | 2016-08-23 | condenacao | crsfn-14427 | fichas/crsfn/2016-06.md |
 | decisao-colegiado | RJ2015/4262 | 2016-06-14 | deferido | cvm-col-20160614-d0125 | fichas/colegiado/2016-11.md |
-| pas | RJ2013/2023 | 2015-11-10 | condenacao | cvm-pas-rj2013-2023 | fichas/pas/2015-06.md |
+| pas | RJ2013/2023 | 2015-11-10 | condenacao | cvm-pas-rj2013-2023 | fichas/pas/2015-12.md |
 | decisao-colegiado | RJ2012/7328 | 2014-05-13 | nao-provido | cvm-col-20140513-d01 | fichas/colegiado/2014-09.md |
 | decisao-colegiado | RJ2011/4433 | 2014-03-25 | nao-provido | cvm-col-20140325-d04 | fichas/colegiado/2014-05.md |
 | decisao-colegiado | RJ2012/5550 | 2014-01-22 | outro | cvm-col-20140122-d02 | fichas/colegiado/2014-02.md |

@@ -39,364 +39,364 @@ Este subíndice tem 402 linhas e uma leitura única é cortada em silêncio pert
 | 2000 | 398 |
 | 1996 | 399 |
 
-| Tipo | Processo | Data | Resultado | Id | Ficha |
-|---|---|---|---|---|---|
-| decisao-colegiado | 19957.003474/2025-07 | 2026-08-25 | parcial | cvm-col-20260825-d3540 | fichas/colegiado/2026-03.md |
-| decisao-colegiado | 19957.009862/2026-74 | 2026-07-14 | provido | cvm-col-20260714-d3573 | fichas/colegiado/2026-03.md |
-| decisao-colegiado | 19957.007639/2025-10 | 2025-09-02 | deferido | cvm-col-20250902-d3340 | fichas/colegiado/2025-09.md |
-| decisao-colegiado | 19957.005349/2025-23 | 2025-08-05 | — | cvm-col-20250805-d3322 | fichas/colegiado/2025-07.md |
-| decisao-colegiado | 19957.008951/2024-31 | 2025-07-29 | provido | cvm-col-20250729-d3287 | fichas/colegiado/2025-07.md |
-| decisao-colegiado | 19957.008951/2024-31 | 2025-06-24 | — | cvm-col-20250624-d3287 | fichas/colegiado/2025-06.md |
-| decisao-colegiado | 19957.008951/2024-31 | 2025-06-17 | — | cvm-col-20250617-d3287 | fichas/colegiado/2025-05.md |
-| decisao-colegiado | 05/2023; 85/2022; 19957.007933/2018-94 | 2024-10-09 | outro | cvm-col-20241009-d2878 | fichas/colegiado/2024-11.md |
-| decisao-colegiado | 05/2023; 85/2022; 19957.007933/2018-94 | 2024-10-02 | — | cvm-col-20241002-d2878-r2 | fichas/colegiado/2024-11.md |
-| decisao-colegiado | 19957.013926/2023-99 | 2024-03-19 | nao-provido | cvm-col-20240319-d3026 | fichas/colegiado/2024-03.md |
-| decisao-colegiado | 19957.013926/2023-99 | 2024-03-12 | — | cvm-col-20240312-d3026 | fichas/colegiado/2024-03.md |
-| decisao-colegiado | 19957.012051/2023-16 | 2024-01-16 | nao-provido | cvm-col-20240116-d2998 | fichas/colegiado/2024-01.md |
-| decisao-colegiado | 19957.004081/2023-41 | 2024-01-16 | nao-provido | cvm-col-20240116-d2929 | fichas/colegiado/2024-01.md |
-| decisao-colegiado | 85/2022; 19957.007933/2018-94 | 2023-11-21 | — | cvm-col-20231121-d2878 | fichas/colegiado/2023-12.md |
-| decisao-colegiado | 85/2022; 19957.007933/2018-94 | 2023-11-08 | — | cvm-col-20231108-d2878-r2 | fichas/colegiado/2023-12.md |
-| decisao-colegiado | 85/2022; 19957.007933/2018-94 | 2023-10-11 | — | cvm-col-20231011-d2878 | fichas/colegiado/2023-11.md |
-| decisao-colegiado | 19957.004081/2023-41 | 2023-09-26 | outro | cvm-col-20230926-d2929 | fichas/colegiado/2023-10.md |
-| decisao-colegiado | 19957.000972/2023-28 | 2023-08-29 | parcial | cvm-col-20230829-d2894 | fichas/colegiado/2023-09.md |
-| decisao-colegiado | 19957.008764/2021-13 | 2023-08-08 | conhecimento | cvm-col-20230808-d2617 | fichas/colegiado/2023-08.md |
-| decisao-colegiado | 19957.000972/2023-28 | 2023-07-14 | outro | cvm-col-20230714-d2894 | fichas/colegiado/2023-08.md |
-| decisao-colegiado | 19957.000972/2023-28 | 2023-07-11 | — | cvm-col-20230711-d2894 | fichas/colegiado/2023-08.md |
-| decisao-colegiado | 19957.003983/2022-89 | 2023-06-22 | nao-provido | cvm-col-20230622-d2882 | fichas/colegiado/2023-07.md |
-| decisao-colegiado | 19957.008764/2021-13 | 2023-05-16 | nao-provido | cvm-col-20230516-d2617 | fichas/colegiado/2023-05.md |
-| decisao-colegiado | 19957.011851/2022-21 | 2023-03-28 | deferido | cvm-col-20230328-d2821 | fichas/colegiado/2023-03.md |
-| decisao-colegiado | 19957.008764/2021-13 | 2023-03-28 | — | cvm-col-20230328-d2617 | fichas/colegiado/2023-03.md |
-| decisao-colegiado | 19957.004861/2022-18 | 2023-01-31 | parcial | cvm-col-20230131-d2686 | fichas/colegiado/2023-02.md |
-| decisao-colegiado | 19957.014007/2022-51 | 2023-01-24 | nao-provido | cvm-col-20230124-d2788 | fichas/colegiado/2023-02.md |
-| decisao-colegiado | 19957.014007/2022-51 | 2023-01-17 | — | cvm-col-20230117-d2788 | fichas/colegiado/2023-02.md |
-| decisao-colegiado | 19957.004861/2022-18 | 2022-11-29 | provido | cvm-col-20221129-d2686 | fichas/colegiado/2022-16.md |
-| decisao-colegiado | 19957.006926/2022-51 | 2022-10-25 | deferido | cvm-col-20221025-d2707 | fichas/colegiado/2022-14.md |
-| decisao-colegiado | 19957.004861/2022-18 | 2022-09-20 | nao-provido | cvm-col-20220920-d2686 | fichas/colegiado/2022-14.md |
-| decisao-colegiado | RJ2015/3702; 19957.007771/2019-75 | 2022-08-16 | outro | cvm-col-20220816-d9718 | fichas/colegiado/2022-12.md |
-| decisao-colegiado | 19957.005755/2022-43 | 2022-07-26 | deferido | cvm-col-20220726-d2659 | fichas/colegiado/2022-12.md |
-| decisao-colegiado | 19957.005411/2019-39 | 2021-06-01 | indeferido | cvm-col-20210601-d1864 | fichas/colegiado/2021-09.md |
-| decisao-colegiado | 19957.005411/2019-39 | 2021-02-23 | outro | cvm-col-20210223-d1864 | fichas/colegiado/2021-03.md |
-| decisao-colegiado | 19957.005199/2020-43 | 2021-01-19 | conhecimento | cvm-col-20210119-d1986 | fichas/colegiado/2021-01.md |
-| decisao-colegiado | 19957.005199/2020-43 | 2020-11-24 | nao-provido | cvm-col-20201124-d1986 | fichas/colegiado/2020-20.md |
-| decisao-colegiado | 19957.006377/2020-53; 19957.005060/2019-66 | 2020-10-13 | nao-provido | cvm-col-20201013-d1946 | fichas/colegiado/2020-17.md |
-| decisao-colegiado | 19957.005411/2019-39 | 2020-09-01 | — | cvm-col-20200901-d1864 | fichas/colegiado/2020-14.md |
-| decisao-colegiado | 19957.005411/2019-39 | 2020-07-28 | — | cvm-col-20200728-d1864 | fichas/colegiado/2020-12.md |
-| decisao-colegiado | 19957.002154/2020-17 | 2020-07-07 | deferido | cvm-col-20200707-d1852 | fichas/colegiado/2020-11.md |
-| termo-compromisso | 19957.001434/2018-93 | 2020-05-05 | rejeitado | cvm-col-20200505-d1220 | fichas/tc/2020-03.md |
-| decisao-colegiado | 19957.010983/2017-78 | 2020-04-14 | nao-provido | cvm-col-20200414-d1776 | fichas/colegiado/2020-06.md |
-| decisao-colegiado | 19957.011434/2019-82 | 2020-01-21 | nao-provido | cvm-col-20200121-d1680 | fichas/colegiado/2020-01.md |
-| decisao-colegiado | 02/2019; 19957.007933/2018-94 | 2019-11-05 | outro | cvm-col-20191105-d2878 | fichas/colegiado/2019-18.md |
-| pas | RJ2016/773 | 2019-10-29 | condenacao | cvm-pas-rj2016-0773 | fichas/pas/2019-10.md |
-| decisao-colegiado | 19957.005392/2018-60 | 2019-10-22 | outro | cvm-col-20191022-d1585 | fichas/colegiado/2019-17.md |
-| decisao-colegiado | 19957.001012/2019-07 | 2019-06-18 | deferido | cvm-col-20190618-d1356 | fichas/colegiado/2019-09.md |
-| decisao-colegiado | 19957.003194/2019-42 | 2019-04-30 | nao-provido | cvm-col-20190430-d1386 | fichas/colegiado/2019-07.md |
-| decisao-colegiado | 19957.007933/2018-94 | 2019-04-10 | outro | cvm-col-20190410-d2878 | fichas/colegiado/2019-06.md |
-| decisao-colegiado | 19957.007811/2018-06 | 2019-04-09 | deferido | cvm-col-20190409-d1360 | fichas/colegiado/2019-06.md |
-| decisao-colegiado | 19957.007811/2018-06 | 2019-04-02 | — | cvm-col-20190402-d1360 | fichas/colegiado/2019-05.md |
-| decisao-colegiado | 19957.001012/2019-07 | 2019-03-26 | — | cvm-col-20190326-d1356 | fichas/colegiado/2019-05.md |
-| decisao-colegiado | 19957.008798/2018-02 | 2019-01-22 | nao-provido | cvm-col-20190122-d1287 | fichas/colegiado/2019-02.md |
-| termo-compromisso | 19957.001434/2018-93 | 2018-11-27 | rejeitado | cvm-col-20181127-d1220 | fichas/tc/2018-06.md |
-| decisao-colegiado | 19957.001656/2017-25 | 2018-10-09 | nao-provido | cvm-col-20181009-d1000 | fichas/colegiado/2018-18.md |
-| decisao-colegiado | 19957.007244/2018-80; 19957.007245/2018-24; 19957.007246/2018-79; 19957.008104/2018-29 | 2018-09-25 | — | cvm-col-20180925-d1107 | fichas/colegiado/2018-17.md |
-| decisao-colegiado | 19957.010832/2017-10 | 2018-08-28 | provido | cvm-col-20180828-d1132 | fichas/colegiado/2018-15.md |
-| decisao-colegiado | 19957.007244/2018-80; 19957.007245/2018-24; 19957.007246/2018-79 | 2018-08-08 | deferido | cvm-col-20180808-d1107 | fichas/colegiado/2018-14.md |
-| decisao-colegiado | 19957.003818/2018-41 | 2018-05-29 | parcial | cvm-col-20180529-d1024 | fichas/colegiado/2018-10.md |
-| decisao-colegiado | 19957.003818/2018-41 | 2018-05-15 | outro | cvm-col-20180515-d1024 | fichas/colegiado/2018-09.md |
-| decisao-colegiado | 19957.003818/2018-41 | 2018-05-02 | outro | cvm-col-20180502-d1024 | fichas/colegiado/2018-09.md |
-| decisao-colegiado | 19957.001656/2017-25 | 2018-05-02 | outro | cvm-col-20180502-d1000 | fichas/colegiado/2018-08.md |
-| decisao-colegiado | 19957.001656/2017-25 | 2018-03-27 | — | cvm-col-20180327-d1000 | fichas/colegiado/2018-06.md |
-| decisao-colegiado | 19957.008790/2017-57 | 2017-11-21 | nao-provido | cvm-col-20171121-d0853 | fichas/colegiado/2017-19.md |
-| decisao-colegiado | 19957.000115/2017-80 | 2017-10-24 | nao-provido | cvm-col-20171024-d0547 | fichas/colegiado/2017-18.md |
-| decisao-colegiado | RJ2015/9136 | 2017-10-03 | provido | cvm-col-20171003-d0449 | fichas/colegiado/2017-17.md |
-| pas | RJ2015/12856 | 2017-09-26 | condenacao | cvm-pas-rj2015-12856 | fichas/pas/2017-03.md |
-| pas | RJ2012/13740 | 2017-09-26 | parcial | cvm-pas-rj2012-13740 | fichas/pas/2017-03.md |
-| decisao-colegiado | 19957.008180/2016-72 | 2017-07-11 | conhecimento | cvm-col-20170711-d7695 | fichas/colegiado/2017-13.md |
-| acordao-crsfn | RJ2013/4369 | 2017-06-28 | absolvicao | crsfn-14214 | fichas/crsfn/2017-05.md |
-| decisao-colegiado | 19957.002501/2017-14 | 2017-06-13 | indeferido | cvm-col-20170613-d0707 | fichas/colegiado/2017-11.md |
-| decisao-colegiado | 19957.003175/2017-54 | 2017-06-06 | provido | cvm-col-20170606-d0676 | fichas/colegiado/2017-10.md |
-| decisao-colegiado | 19957.008059/2016-41 | 2017-05-30 | nao-provido | cvm-col-20170530-d0681 | fichas/colegiado/2017-10.md |
-| decisao-colegiado | 19957.002417/2016-10 | 2017-02-15 | parcial | cvm-col-20170215-d530 | fichas/colegiado/2017-04.md |
-| decisao-colegiado | 19957.002417/2016-10 | 2017-02-14 | — | cvm-col-20170214-d0530 | fichas/colegiado/2017-04.md |
-| decisao-colegiado | 19957.002961/2015-72 | 2016-12-13 | nao-provido | cvm-col-20161213-d0194 | fichas/colegiado/2016-24.md |
-| decisao-colegiado | 19957.002961/2015-72 | 2016-11-08 | — | cvm-col-20161108-d0194 | fichas/colegiado/2016-22.md |
-| decisao-colegiado | — | 2016-10-11 | — | cvm-col-20161011-d0388 | fichas/colegiado/2016-20.md |
-| decisao-colegiado | 19957.000852/2016-00 | 2016-10-11 | parcial | cvm-col-20161011-d0385 | fichas/colegiado/2016-20.md |
-| decisao-colegiado | 19957.002252/2016-78 | 2016-09-20 | parcial | cvm-col-20160920-d0367 | fichas/colegiado/2016-18.md |
-| decisao-colegiado | 19957.000990/2016-81 | 2016-09-06 | deferido | cvm-col-20160906-d0345 | fichas/colegiado/2016-17.md |
-| decisao-colegiado | RJ2011/2817 | 2016-08-02 | parcial | cvm-col-20160802-d7695 | fichas/colegiado/2016-15.md |
-| decisao-colegiado | RJ2015/9687 | 2016-07-26 | deferido | cvm-col-20160726-d0318 | fichas/colegiado/2016-15.md |
-| decisao-colegiado | RJ2016/0006 | 2016-06-21 | deferido | cvm-col-20160621-d0272 | fichas/colegiado/2016-13.md |
-| decisao-colegiado | RJ2015/4262 | 2016-06-14 | deferido | cvm-col-20160614-d0125 | fichas/colegiado/2016-11.md |
-| decisao-colegiado | RJ2015/8057 | 2016-05-31 | deferido | cvm-col-20160531-d9990 | fichas/colegiado/2016-10.md |
-| decisao-colegiado | RJ2015/10253 | 2016-05-10 | indeferido | cvm-col-20160510-d0194 | fichas/colegiado/2016-09.md |
-| acordao-crsfn | RJ2012/8591 | 2016-04-26 | arquivamento | crsfn-13691 | fichas/crsfn/2016-02.md |
-| decisao-colegiado | RJ2015/7158 | 2016-03-29 | deferido | cvm-col-20160329-d0164 | fichas/colegiado/2016-08.md |
-| decisao-colegiado | RJ2015/4262 | 2016-03-29 | — | cvm-col-20160329-d0125 | fichas/colegiado/2016-07.md |
-| decisao-colegiado | 19957.001060/2016-44 | 2016-03-08 | outro | cvm-col-20160308-d0132 | fichas/colegiado/2016-06.md |
-| decisao-colegiado | 19957.001060/2016-44 | 2016-03-01 | nao-provido | cvm-col-20160301-d0132 | fichas/colegiado/2016-06.md |
-| decisao-colegiado | RJ2015/12695 | 2016-01-12 | outro | cvm-col-20160112-d9990 | fichas/colegiado/2016-01.md |
-| decisao-colegiado | RJ2014/3723; RJ2014/4397 | 2015-12-15 | conhecimento | cvm-col-20151215-d9118-d9122 | fichas/colegiado/2015-24.md |
-| decisao-colegiado | RJ2015/7240 | 2015-12-01 | deferido | cvm-col-20151201-d9957 | fichas/colegiado/2015-23.md |
-| decisao-colegiado | RJ2015/8340 | 2015-11-18 | provido | cvm-col-20151118-d9867 | fichas/colegiado/2015-21.md |
-| decisao-colegiado | RJ2015/8340 | 2015-09-29 | nao-provido | cvm-col-20150929-d9867 | fichas/colegiado/2015-18.md |
-| decisao-colegiado | 361/2002; RJ2015/2255 | 2015-08-04 | deferido | cvm-col-20150804-d9759 | fichas/colegiado/2015-14.md |
-| decisao-colegiado | RJ2014/10962 | 2015-07-28 | deferido | cvm-col-20150728-d9514 | fichas/colegiado/2015-14.md |
-| decisao-colegiado | 361/2002; RJ2015/2255 | 2015-07-14 | — | cvm-col-20150714-d9759 | fichas/colegiado/2015-13.md |
-| decisao-colegiado | RJ2014/3723 | 2015-07-14 | outro | cvm-col-20150714-d9118 | fichas/colegiado/2015-13.md |
-| decisao-colegiado | RJ2014/7376 | 2015-06-30 | deferido | cvm-col-20150630-d9741 | fichas/colegiado/2015-12.md |
-| decisao-colegiado | RJ2015/3002 | 2015-06-22 | deferido | cvm-col-20150622-d9749 | fichas/colegiado/2015-10.md |
-| termo-compromisso | RJ2012/13740 | 2015-06-02 | rejeitado | cvm-col-20150602-d9660 | fichas/tc/2015-02.md |
-| decisao-colegiado | RJ2014/10023 | 2015-03-24 | deferido | cvm-col-20150324-d9561 | fichas/colegiado/2015-05.md |
-| decisao-colegiado | 361/2002; RJ2014/12977 | 2015-02-10 | outro | cvm-col-20150210-d9467 | fichas/colegiado/2015-03.md |
-| decisao-colegiado | RJ2014/10023 | 2015-02-02 | deferido | cvm-col-20150202-d9561 | fichas/colegiado/2015-03.md |
-| pas | RJ2013/4369 | 2015-01-27 | absolvicao | cvm-pas-rj2013-4369 | fichas/pas/2015-01.md |
-| decisao-colegiado | RJ2014/7916 | 2015-01-21 | deferido | cvm-col-20150121-d9541 | fichas/colegiado/2015-02.md |
-| decisao-colegiado | RJ2014/10962 | 2015-01-07 | deferido | cvm-col-20150107-d9514 | fichas/colegiado/2015-01.md |
-| decisao-colegiado | RJ2014/12977 | 2014-12-16 | parcial | cvm-col-20141216-d07 | fichas/colegiado/2014-26.md |
-| decisao-colegiado | RJ2014/7223 | 2014-12-02 | indeferido | cvm-col-20141202-d18 | fichas/colegiado/2014-24.md |
-| decisao-colegiado | RJ2014/12532 | 2014-11-11 | deferido | cvm-col-20141111-d09 | fichas/colegiado/2014-21.md |
-| decisao-colegiado | RJ2014/6527 | 2014-09-05 | deferido | cvm-col-20140905-d01 | fichas/colegiado/2014-17.md |
-| decisao-colegiado | RJ2014/2399 | 2014-08-26 | outro | cvm-col-20140826-d03 | fichas/colegiado/2014-16.md |
-| decisao-colegiado | RJ2014/3380 | 2014-07-03 | outro | cvm-col-20140703-d01 | fichas/colegiado/2014-13.md |
-| decisao-colegiado | RJ2014/3380 | 2014-06-30 | parcial | cvm-col-20140630-d01 | fichas/colegiado/2014-12.md |
-| decisao-colegiado | RJ2014/3380 | 2014-06-24 | outro | cvm-col-20140624-d01 | fichas/colegiado/2014-12.md |
-| decisao-colegiado | RJ2014/4394 | 2014-06-03 | provido | cvm-col-20140603-d02 | fichas/colegiado/2014-11.md |
-| decisao-colegiado | RJ2014/4397 | 2014-05-20 | nao-provido | cvm-col-20140520-d04 | fichas/colegiado/2014-09.md |
-| decisao-colegiado | RJ2014/3723 | 2014-05-20 | nao-provido | cvm-col-20140520-d02 | fichas/colegiado/2014-09.md |
-| decisao-colegiado | RJ2014/3723 | 2014-05-13 | — | cvm-col-20140513-d04 | fichas/colegiado/2014-09.md |
-| decisao-colegiado | RJ2013/11623 | 2014-05-13 | deferido | cvm-col-20140513-d03 | fichas/colegiado/2014-09.md |
-| decisao-colegiado | RJ2014/0783 | 2014-01-28 | provido | cvm-col-20140128-d04 | fichas/colegiado/2014-02.md |
-| decisao-colegiado | RJ2013/9441 | 2013-12-17 | deferido | cvm-col-20131217-d27 | fichas/colegiado/2013-24.md |
-| decisao-colegiado | RJ2009/13346 | 2013-12-17 | nao-provido | cvm-col-20131217-d01 | fichas/colegiado/2013-23.md |
-| decisao-colegiado | RJ2013/9574 | 2013-10-01 | nao-provido | cvm-col-20131001-d01 | fichas/colegiado/2013-18.md |
-| decisao-colegiado | RJ2013/8607 | 2013-09-10 | deferido | cvm-col-20130910-d12 | fichas/colegiado/2013-17.md |
-| decisao-colegiado | RJ2012/14764 | 2013-07-30 | nao-provido | cvm-col-20130730-d15 | fichas/colegiado/2013-14.md |
-| decisao-colegiado | RJ2012/15551 | 2013-07-23 | deferido | cvm-col-20130723-d01 | fichas/colegiado/2013-13.md |
-| decisao-colegiado | RJ2012/15551 | 2013-07-16 | — | cvm-col-20130716-d01 | fichas/colegiado/2013-13.md |
-| decisao-colegiado | RJ2012/8019 | 2013-06-25 | deferido | cvm-col-20130625-d03 | fichas/colegiado/2013-12.md |
-| decisao-colegiado | RJ2012/6317 | 2013-04-02 | nao-provido | cvm-col-20130402-d11 | fichas/colegiado/2013-08.md |
-| decisao-colegiado | RJ2012/13241 | 2013-03-19 | deferido | cvm-col-20130319-d09 | fichas/colegiado/2013-07.md |
-| decisao-colegiado | RJ2012/14383 | 2013-03-12 | outro | cvm-col-20130312-d02 | fichas/colegiado/2013-06.md |
-| decisao-colegiado | RJ2012/9648 | 2013-01-29 | deferido | cvm-col-20130129-d14 | fichas/colegiado/2013-03.md |
-| decisao-colegiado | RJ2012/13237 | 2013-01-22 | deferido | cvm-col-20130122-d04 | fichas/colegiado/2013-02.md |
-| decisao-colegiado | RJ2012/14764 | 2013-01-22 | — | cvm-col-20130122-d01 | fichas/colegiado/2013-02.md |
-| decisao-colegiado | RJ2012/8271 | 2012-12-27 | deferido | cvm-col-20121227-d01 | fichas/colegiado/2012-27.md |
-| decisao-colegiado | RJ2012/6422 | 2012-11-27 | deferido | cvm-col-20121127-d06 | fichas/colegiado/2012-22.md |
-| decisao-colegiado | RJ2009/13346 | 2012-11-22 | — | cvm-col-20121122-d05 | fichas/colegiado/2012-21.md |
-| decisao-colegiado | RJ2012/5652 | 2012-11-06 | outro | cvm-col-20121106-d01 | fichas/colegiado/2012-20.md |
-| decisao-colegiado | RJ2011/14076 | 2012-08-14 | deferido | cvm-col-20120814-d02 | fichas/colegiado/2012-13.md |
-| decisao-colegiado | RJ2011/13032 | 2012-05-15 | deferido | cvm-col-20120515-d07 | fichas/colegiado/2012-09.md |
-| decisao-colegiado | RJ2012/1810 | 2012-05-02 | deferido | cvm-col-20120502-d02 | fichas/colegiado/2012-08.md |
-| decisao-colegiado | RJ2012/995; RJ2012/1267 | 2012-05-02 | deferido | cvm-col-20120502-d01 | fichas/colegiado/2012-08.md |
-| decisao-colegiado | RJ2011/13790 | 2012-04-05 | deferido | cvm-col-20120405-d01 | fichas/colegiado/2012-07.md |
-| decisao-colegiado | RJ2011/12826 | 2012-03-06 | deferido | cvm-col-20120306-d20 | fichas/colegiado/2012-05.md |
-| decisao-colegiado | RJ2011/4735 | 2012-03-06 | deferido | cvm-col-20120306-d19 | fichas/colegiado/2012-05.md |
-| decisao-colegiado | RJ2010/15144 | 2011-12-27 | nao-provido | cvm-col-20111227-d03 | fichas/colegiado/2011-29.md |
-| decisao-colegiado | — | 2011-11-10 | deferido | cvm-col-20111110-d01 | fichas/colegiado/2011-24.md |
-| decisao-colegiado | RJ2010/14021; RJ2010/14034 | 2011-10-11 | deferido | cvm-col-20111011-d01 | fichas/colegiado/2011-21.md |
-| decisao-colegiado | RJ2011/6040 | 2011-09-13 | deferido | cvm-col-20110913-d02 | fichas/colegiado/2011-18.md |
-| decisao-colegiado | RJ2011/4540 | 2011-08-09 | deferido | cvm-col-20110809-d03 | fichas/colegiado/2011-15.md |
-| decisao-colegiado | RJ2011/5965 | 2011-06-14 | outro | cvm-col-20110614-d02 | fichas/colegiado/2011-13.md |
-| decisao-colegiado | — | 2011-06-14 | outro | cvm-col-20110614-d01-r2 | fichas/colegiado/2011-13.md |
-| decisao-colegiado | — | 2011-06-10 | deferido | cvm-col-20110610-d01 | fichas/colegiado/2011-13.md |
-| decisao-colegiado | — | 2011-05-27 | deferido | cvm-col-20110527-d01 | fichas/colegiado/2011-11.md |
-| decisao-colegiado | RJ2011/2092 | 2011-05-24 | nao-provido | cvm-col-20110524-d02 | fichas/colegiado/2011-11.md |
-| decisao-colegiado | RJ2011/1532 | 2011-05-10 | — | cvm-col-20110510-d01 | fichas/colegiado/2011-10.md |
-| decisao-colegiado | RJ2010/8551 | 2011-04-26 | deferido | cvm-col-20110426-d05 | fichas/colegiado/2011-10.md |
-| decisao-colegiado | RJ2010/13241 | 2011-04-19 | outro | cvm-col-20110419-d08 | fichas/colegiado/2011-09.md |
-| decisao-colegiado | RJ2011/2092 | 2011-03-17 | nao-provido | cvm-col-20110317-d01 | fichas/colegiado/2011-06.md |
-| decisao-colegiado | RJ2011/1703 | 2011-03-15 | deferido | cvm-col-20110315-d08 | fichas/colegiado/2011-06.md |
-| decisao-colegiado | RJ2010/13883 | 2011-02-15 | deferido | cvm-col-20110215-d24 | fichas/colegiado/2011-04.md |
-| decisao-colegiado | RJ2010/14993 | 2011-02-01 | deferido | cvm-col-20110201-d08 | fichas/colegiado/2011-02.md |
-| decisao-colegiado | RJ2010/14455 | 2011-02-01 | parcial | cvm-col-20110201-d01 | fichas/colegiado/2011-01.md |
-| decisao-colegiado | RJ2010/17660 | 2010-12-28 | deferido | cvm-col-20101228-d72 | fichas/colegiado/2010-33.md |
-| decisao-colegiado | RJ2010/15828 | 2010-12-14 | deferido | cvm-col-20101214-d13 | fichas/colegiado/2010-29.md |
-| decisao-colegiado | RJ2010/11232 | 2010-11-16 | deferido | cvm-col-20101116-d09 | fichas/colegiado/2010-24.md |
-| decisao-colegiado | RJ2008/10638 | 2010-11-16 | outro | cvm-col-20101116-d01 | fichas/colegiado/2010-24.md |
-| decisao-colegiado | RJ2010/8957 | 2010-10-26 | deferido | cvm-col-20101026-d08 | fichas/colegiado/2010-22.md |
-| decisao-colegiado | RJ2010/14197 | 2010-10-26 | provido | cvm-col-20101026-d04 | fichas/colegiado/2010-21.md |
-| decisao-colegiado | RJ2010/4324 | 2010-09-28 | deferido | cvm-col-20100928-d06 | fichas/colegiado/2010-20.md |
-| decisao-colegiado | RJ2010/7754 | 2010-08-31 | deferido | cvm-col-20100831-d05 | fichas/colegiado/2010-18.md |
-| decisao-colegiado | RJ2009/13094 | 2010-03-30 | deferido | cvm-col-20100330-d09 | fichas/colegiado/2010-10.md |
-| decisao-colegiado | RJ2009/11570 | 2010-03-23 | deferido | cvm-col-20100323-d10 | fichas/colegiado/2010-09.md |
-| decisao-colegiado | RJ2009/10288 | 2010-02-02 | deferido | cvm-col-20100202-d39 | fichas/colegiado/2010-04.md |
-| decisao-colegiado | RJ2009/7502 | 2009-12-22 | parcial | cvm-col-20091222-d31 | fichas/colegiado/2009-24.md |
-| decisao-colegiado | RJ2009/6790 | 2009-12-08 | deferido | cvm-col-20091208-d19 | fichas/colegiado/2009-22.md |
-| decisao-colegiado | RJ2009/4470 | 2009-11-17 | deferido | cvm-col-20091117-d37 | fichas/colegiado/2009-21.md |
-| termo-compromisso | RJ2009/5279 | 2009-11-17 | rejeitado | cvm-col-20091117-d05 | fichas/tc/2009-07.md |
-| decisao-colegiado | RJ2009/10676 | 2009-10-27 | deferido | cvm-col-20091027-d16 | fichas/colegiado/2009-19.md |
-| decisao-colegiado | RJ2009/6400 | 2009-09-29 | deferido | cvm-col-20090929-d09 | fichas/colegiado/2009-17.md |
-| decisao-colegiado | RJ2008/12888 | 2009-07-28 | deferido | cvm-col-20090728-d01 | fichas/colegiado/2009-13.md |
-| decisao-colegiado | RJ2009/1956 | 2009-07-28 | nao-provido | cvm-col-20090728-d01-r2 | fichas/colegiado/2009-13.md |
-| decisao-colegiado | RJ2009/1956 | 2009-07-15 | provido | cvm-col-20090715-d01-r2 | fichas/colegiado/2009-13.md |
-| decisao-colegiado | RJ2009/0587 | 2009-07-14 | deferido | cvm-col-20090714-d03 | fichas/colegiado/2009-13.md |
-| decisao-colegiado | RJ2009/0610 | 2009-06-30 | deferido | cvm-col-20090630-d08 | fichas/colegiado/2009-12.md |
-| decisao-colegiado | RJ2009/2212 | 2009-04-14 | parcial | cvm-col-20090414-d11 | fichas/colegiado/2009-08.md |
-| decisao-colegiado | RJ2008/6891 | 2009-03-24 | deferido | cvm-col-20090324-d18 | fichas/colegiado/2009-05.md |
-| decisao-colegiado | RJ2009/0471 | 2009-03-03 | nao-provido | cvm-col-20090303-d07 | fichas/colegiado/2009-03.md |
-| decisao-colegiado | RJ2007/14344; RJ2008/1978 | 2009-02-03 | deferido | cvm-col-20090203-d12 | fichas/colegiado/2009-02.md |
-| decisao-colegiado | RJ2008/7040 | 2009-02-03 | deferido | cvm-col-20090203-d02 | fichas/colegiado/2009-01.md |
-| decisao-colegiado | RJ2008/10638 | 2008-12-16 | — | cvm-col-20081216-d11 | fichas/colegiado/2008-28.md |
-| termo-compromisso | RJ2008/1594 | 2008-12-16 | rejeitado | cvm-col-20081216-d02 | fichas/tc/2008-08.md |
-| decisao-colegiado | RJ2008/9658 | 2008-10-21 | parcial | cvm-col-20081021-d07 | fichas/colegiado/2008-23.md |
-| decisao-colegiado | RJ2008/7781 | 2008-10-07 | nao-provido | cvm-col-20081007-d16 | fichas/colegiado/2008-22.md |
-| decisao-colegiado | RJ2008/4042 | 2008-09-30 | deferido | cvm-col-20080930-d14 | fichas/colegiado/2008-21.md |
-| decisao-colegiado | RJ2008/4038 | 2008-09-09 | deferido | cvm-col-20080909-d10 | fichas/colegiado/2008-20.md |
-| termo-compromisso | RJ2008/1594 | 2008-08-12 | rejeitado | cvm-col-20080812-d07 | fichas/tc/2008-06.md |
-| decisao-colegiado | RJ2008/5394 | 2008-07-15 | parcial | cvm-col-20080715-d11 | fichas/colegiado/2008-16.md |
-| decisao-colegiado | RJ2008/4156 | 2008-06-17 | provido | cvm-col-20080617-d01-r2 | fichas/colegiado/2008-13.md |
-| decisao-colegiado | RJ2008/3095; RJ2008/3105 | 2008-05-13 | deferido | cvm-col-20080513-d02 | fichas/colegiado/2008-11.md |
-| termo-compromisso | RJ2007/1454 | 2008-03-18 | aceito | cvm-col-20080318-d04 | fichas/tc/2008-02.md |
-| decisao-colegiado | RJ2008/0252 | 2008-03-04 | nao-provido | cvm-col-20080304-d02 | fichas/colegiado/2008-06.md |
-| decisao-colegiado | RJ2007/14945 | 2008-02-26 | parcial | cvm-col-20080226-d43 | fichas/colegiado/2008-05.md |
-| decisao-colegiado | RJ2007/14928 | 2008-02-26 | deferido | cvm-col-20080226-d42 | fichas/colegiado/2008-05.md |
-| decisao-colegiado | RJ2007/14121 | 2008-01-29 | deferido | cvm-col-20080129-d05 | fichas/colegiado/2008-02.md |
-| decisao-colegiado | RJ2007/14099 | 2008-01-29 | deferido | cvm-col-20080129-d03 | fichas/colegiado/2008-02.md |
-| termo-compromisso | RJ2007/1454; RJ2007/12121 | 2008-01-08 | outro | cvm-col-20080108-d10 | fichas/tc/2008-01.md |
-| decisao-colegiado | RJ2007/12218 | 2008-01-08 | deferido | cvm-col-20080108-d09 | fichas/colegiado/2008-01.md |
-| decisao-colegiado | RJ2007/12121 | 2007-12-11 | parcial | cvm-col-20071211-d21 | fichas/colegiado/2007-25.md |
-| decisao-colegiado | — | 2007-11-26 | indeferido | cvm-col-20071126-d01 | fichas/colegiado/2007-23.md |
-| decisao-colegiado | RJ2007/9773 | 2007-11-13 | deferido | cvm-col-20071113-d30 | fichas/colegiado/2007-23.md |
-| decisao-colegiado | RJ2007/3296 | 2007-10-31 | provido | cvm-col-20071031-d01 | fichas/colegiado/2007-21.md |
-| decisao-colegiado | RJ2007/11573 | 2007-10-17 | — | cvm-col-20071017-d02 | fichas/colegiado/2007-19.md |
-| decisao-colegiado | RJ2007/8519 | 2007-10-09 | deferido | cvm-col-20071009-d06 | fichas/colegiado/2007-19.md |
-| decisao-colegiado | RJ2007/11573 | 2007-10-04 | nao-provido | cvm-col-20071004-d01 | fichas/colegiado/2007-18.md |
-| decisao-colegiado | RJ2007/0646 | 2007-10-02 | outro | cvm-col-20071002-d01 | fichas/colegiado/2007-18.md |
-| decisao-colegiado | RJ2007/3296 | 2007-09-18 | parcial | cvm-col-20070918-d11 | fichas/colegiado/2007-17.md |
-| decisao-colegiado | RJ2007/4022 | 2007-09-14 | outro | cvm-col-20070914-d01-r2 | fichas/colegiado/2007-16.md |
-| decisao-colegiado | RJ2007/4500 | 2007-09-04 | deferido | cvm-col-20070904-d04 | fichas/colegiado/2007-16.md |
-| decisao-colegiado | RJ2007/8887 | 2007-08-21 | nao-provido | cvm-col-20070821-d12 | fichas/colegiado/2007-15.md |
-| decisao-colegiado | RJ2007/3296 | 2007-08-14 | parcial | cvm-col-20070814-d04 | fichas/colegiado/2007-15.md |
-| decisao-colegiado | RJ2007/7230 | 2007-07-11 | nao-provido | cvm-col-20070711-d01-r2 | fichas/colegiado/2007-13.md |
-| decisao-colegiado | RJ2007/3623 | 2007-07-10 | outro | cvm-col-20070710-d24 | fichas/colegiado/2007-13.md |
-| decisao-colegiado | RJ2005/0137 | 2007-07-10 | deferido | cvm-col-20070710-d04 | fichas/colegiado/2007-12.md |
-| decisao-colegiado | RJ2006/8591 | 2007-06-28 | outro | cvm-col-20070628-d12 | fichas/colegiado/2007-11.md |
-| decisao-colegiado | RJ2007/5587 | 2007-05-29 | outro | cvm-col-20070529-d11 | fichas/colegiado/2007-08.md |
-| decisao-colegiado | RJ2007/1590 | 2007-05-29 | deferido | cvm-col-20070529-d05 | fichas/colegiado/2007-08.md |
-| decisao-colegiado | RJ2006/3881 | 2007-05-08 | outro | cvm-col-20070508-d08 | fichas/colegiado/2007-07.md |
-| decisao-colegiado | RJ2007/1996 | 2007-04-17 | provido | cvm-col-20070417-d08 | fichas/colegiado/2007-06.md |
-| decisao-colegiado | RJ2006/7658 | 2007-04-11 | indeferido | cvm-col-20070411-d07 | fichas/colegiado/2007-05.md |
-| decisao-colegiado | RJ2006/8131 | 2007-03-27 | indeferido | cvm-col-20070327-d06 | fichas/colegiado/2007-05.md |
-| decisao-colegiado | RJ2006/3739 | 2007-03-27 | deferido | cvm-col-20070327-d05 | fichas/colegiado/2007-05.md |
-| decisao-colegiado | RJ2007/1996 | 2007-03-21 | parcial | cvm-col-20070321-d01 | fichas/colegiado/2007-04.md |
-| decisao-colegiado | — | 2007-02-27 | deferido | cvm-col-20070227-d01 | fichas/colegiado/2007-04.md |
-| decisao-colegiado | RJ2006/8591 | 2007-02-26 | parcial | cvm-col-20070226-d11 | fichas/colegiado/2007-03.md |
-| decisao-colegiado | RJ2006/6802 | 2007-01-16 | parcial | cvm-col-20070116-d03 | fichas/colegiado/2007-01.md |
-| decisao-colegiado | RJ2006/5611 | 2006-12-19 | deferido | cvm-col-20061219-d15 | fichas/colegiado/2006-20.md |
-| decisao-colegiado | RJ2006/6148 | 2006-12-12 | deferido | cvm-col-20061212-d09 | fichas/colegiado/2006-19.md |
-| decisao-colegiado | RJ2006/5046 | 2006-12-12 | parcial | cvm-col-20061212-d08 | fichas/colegiado/2006-19.md |
-| decisao-colegiado | RJ2006/4799 | 2006-12-12 | deferido | cvm-col-20061212-d07 | fichas/colegiado/2006-19.md |
-| decisao-colegiado | RJ2006/4035 | 2006-11-22 | deferido | cvm-col-20061122-d02 | fichas/colegiado/2006-17.md |
-| decisao-colegiado | RJ2006/3881 | 2006-11-13 | deferido | cvm-col-20061113-d01 | fichas/colegiado/2006-17.md |
-| decisao-colegiado | RJ2004/2906 | 2006-09-26 | nao-provido | cvm-col-20060926-d01 | fichas/colegiado/2006-14.md |
-| decisao-colegiado | RJ2006/6209 | 2006-09-25 | nao-provido | cvm-col-20060925-d01 | fichas/colegiado/2006-14.md |
-| decisao-colegiado | RJ2006/3739 | 2006-07-27 | provido | cvm-col-20060727-d01 | fichas/colegiado/2006-12.md |
-| decisao-colegiado | RJ2006/3739 | 2006-07-18 | parcial | cvm-col-20060718-d12 | fichas/colegiado/2006-11.md |
-| decisao-colegiado | RJ2005/4069 | 2006-04-11 | nao-provido | cvm-col-20060411-d02 | fichas/colegiado/2006-06.md |
-| decisao-colegiado | RJ2006/0338 | 2006-03-21 | deferido | cvm-col-20060321-d08 | fichas/colegiado/2006-05.md |
-| decisao-colegiado | RJ2005/7429 | 2006-02-15 | deferido | cvm-col-20060215-d10 | fichas/colegiado/2006-03.md |
-| decisao-colegiado | RJ2005/3917 | 2006-01-31 | outro | cvm-col-20060131-d06 | fichas/colegiado/2006-02.md |
-| decisao-colegiado | RJ2005/4763 | 2006-01-31 | outro | cvm-col-20060131-d01 | fichas/colegiado/2006-02.md |
-| acordao-crsfn | RJ-2004/5131 | 2006-01-25 | absolvicao | crsfn-6594 | fichas/crsfn/2006-01.md |
-| decisao-colegiado | RJ2005/7481 | 2005-12-27 | parcial | cvm-col-20051227-d06 | fichas/colegiado/2005-20.md |
-| decisao-colegiado | RJ2005/7473 | 2005-12-06 | nao-provido | cvm-col-20051206-d11 | fichas/colegiado/2005-19.md |
-| decisao-colegiado | RJ2005/3917 | 2005-12-06 | indeferido | cvm-col-20051206-d10 | fichas/colegiado/2005-19.md |
-| decisao-colegiado | RJ2005/6228 | 2005-10-26 | deferido | cvm-col-20051026-d03 | fichas/colegiado/2005-16.md |
-| decisao-colegiado | RJ2005/6223 | 2005-10-26 | deferido | cvm-col-20051026-d02 | fichas/colegiado/2005-16.md |
-| decisao-colegiado | RJ2005/6228 | 2005-10-25 | — | cvm-col-20051025-d09 | fichas/colegiado/2005-16.md |
-| decisao-colegiado | RJ2005/6223 | 2005-10-25 | — | cvm-col-20051025-d08 | fichas/colegiado/2005-16.md |
-| decisao-colegiado | RJ2005/0568 | 2005-09-30 | deferido | cvm-col-20050930-d08 | fichas/colegiado/2005-14.md |
-| decisao-colegiado | RJ2005/1945 | 2005-09-30 | deferido | cvm-col-20050930-d03 | fichas/colegiado/2005-13.md |
-| decisao-colegiado | RJ2005/2670 | 2005-08-23 | deferido | cvm-col-20050823-d05 | fichas/colegiado/2005-12.md |
-| decisao-colegiado | RJ2005/2789 | 2005-08-09 | indeferido | cvm-col-20050809-d07 | fichas/colegiado/2005-11.md |
-| decisao-colegiado | RJ2005/1785 | 2005-06-21 | deferido | cvm-col-20050621-d03 | fichas/colegiado/2005-09.md |
-| decisao-colegiado | RJ2005/0225 | 2005-04-19 | deferido | cvm-col-20050419-d04 | fichas/colegiado/2005-07.md |
-| decisao-colegiado | RJ2004/5854 | 2005-04-12 | deferido | cvm-col-20050412-d07 | fichas/colegiado/2005-06.md |
-| decisao-colegiado | RJ2004/5601 | 2005-03-22 | deferido | cvm-col-20050322-d10 | fichas/colegiado/2005-05.md |
-| decisao-colegiado | RJ2005/688 | 2005-03-22 | deferido | cvm-col-20050322-d04 | fichas/colegiado/2005-05.md |
-| decisao-colegiado | RJ2004/6169 | 2005-03-14 | deferido | cvm-col-20050314-d04 | fichas/colegiado/2005-05.md |
-| decisao-colegiado | RJ2004/5813 | 2005-02-15 | nao-provido | cvm-col-20050215-d01 | fichas/colegiado/2005-03.md |
-| pas | RJ2004/4627 | 2005-01-28 | condenacao | cvm-pas-rj2004-4627 | fichas/pas/2005-01.md |
-| decisao-colegiado | RJ2004/6623 | 2005-01-25 | indeferido | cvm-col-20050125-d09 | fichas/colegiado/2005-02.md |
-| decisao-colegiado | RJ2004/5125 | 2005-01-25 | parcial | cvm-col-20050125-d03 | fichas/colegiado/2005-02.md |
-| decisao-colegiado | RJ2004/5732 | 2005-01-04 | nao-provido | cvm-col-20050104-d02 | fichas/colegiado/2005-01.md |
-| decisao-colegiado | RJ2004/5417 | 2005-01-04 | deferido | cvm-col-20050104-d01 | fichas/colegiado/2005-01.md |
-| decisao-colegiado | RJ2004/6755 | 2004-12-23 | deferido | cvm-col-20041223-d07 | fichas/colegiado/2004-16.md |
-| pas | RJ2004/5131 | 2004-12-17 | absolvicao | cvm-pas-rj2004-5131 | fichas/pas/2004-08.md |
-| decisao-colegiado | RJ2004/3487 | 2004-12-16 | deferido | cvm-col-20041216-d01 | fichas/colegiado/2004-16.md |
-| decisao-colegiado | RJ2004/6333 | 2004-11-30 | deferido | cvm-col-20041130-d03 | fichas/colegiado/2004-15.md |
-| decisao-colegiado | RJ2004/5248 | 2004-11-16 | deferido | cvm-col-20041116-d03 | fichas/colegiado/2004-14.md |
-| decisao-colegiado | RJ2004/4912 | 2004-11-16 | deferido | cvm-col-20041116-d02 | fichas/colegiado/2004-14.md |
-| decisao-colegiado | RJ2004/6333 | 2004-11-03 | parcial | cvm-col-20041103-d04 | fichas/colegiado/2004-13.md |
-| decisao-colegiado | RJ2004/6333 | 2004-10-25 | — | cvm-col-20041025-d09 | fichas/colegiado/2004-13.md |
-| decisao-colegiado | RJ2004/5601 | 2004-10-05 | outro | cvm-col-20041005-d05 | fichas/colegiado/2004-12.md |
-| decisao-colegiado | RJ2004/5368 | 2004-10-05 | parcial | cvm-col-20041005-d04 | fichas/colegiado/2004-12.md |
-| decisao-colegiado | RJ2004/3487 | 2004-10-05 | indeferido | cvm-col-20041005-d01 | fichas/colegiado/2004-12.md |
-| decisao-colegiado | RJ2004/4563 | 2004-09-10 | nao-provido | cvm-col-20040910-d05 | fichas/colegiado/2004-11.md |
-| pas | RJ2002/7635 | 2004-09-09 | condenacao | cvm-pas-rj2002-7635 | fichas/pas/2004-05.md |
-| decisao-colegiado | RJ2004/2130 | 2004-08-31 | outro | cvm-col-20040831-d01 | fichas/colegiado/2004-10.md |
-| decisao-colegiado | RJ2004/5297 | 2004-08-24 | deferido | cvm-col-20040824-d11 | fichas/colegiado/2004-10.md |
-| decisao-colegiado | RJ2004/3579 | 2004-08-24 | indeferido | cvm-col-20040824-d09 | fichas/colegiado/2004-10.md |
-| decisao-colegiado | RJ2003/12826 | 2004-07-13 | deferido | cvm-col-20040713-d02 | fichas/colegiado/2004-08.md |
-| decisao-colegiado | RJ2002/2776 | 2004-06-24 | — | cvm-col-20040624-d19 | fichas/colegiado/2004-07.md |
-| decisao-colegiado | RJ2004/1807 | 2004-06-15 | deferido | cvm-col-20040615-d08 | fichas/colegiado/2004-07.md |
-| decisao-colegiado | RJ2003/6977 | 2004-06-01 | deferido | cvm-col-20040601-d03 | fichas/colegiado/2004-06.md |
-| decisao-colegiado | RJ2003/13524 | 2004-03-16 | deferido | cvm-col-20040316-d04 | fichas/colegiado/2004-04.md |
-| decisao-colegiado | RJ2003/6134 | 2004-03-09 | nao-provido | cvm-col-20040309-d15 | fichas/colegiado/2004-03.md |
-| decisao-colegiado | RJ2003/12171 | 2004-03-09 | provido | cvm-col-20040309-d13 | fichas/colegiado/2004-03.md |
-| decisao-colegiado | RJ2003/12666 | 2004-01-27 | deferido | cvm-col-20040127-d07 | fichas/colegiado/2004-02.md |
-| decisao-colegiado | RJ2003/13085 | 2004-01-27 | deferido | cvm-col-20040127-d06 | fichas/colegiado/2004-02.md |
-| decisao-colegiado | RJ2003/12989 | 2004-01-27 | deferido | cvm-col-20040127-d02 | fichas/colegiado/2004-01.md |
-| decisao-colegiado | RJ2003/11238 | 2004-01-27 | indeferido | cvm-col-20040127-d01 | fichas/colegiado/2004-01.md |
-| decisao-colegiado | RJ2003/12844 | 2004-01-21 | deferido | cvm-col-20040121-d09 | fichas/colegiado/2004-01.md |
-| decisao-colegiado | RJ2003/7470 | 2004-01-21 | deferido | cvm-col-20040121-d04 | fichas/colegiado/2004-01.md |
-| decisao-colegiado | RJ2003/12825 | 2004-01-21 | deferido | cvm-col-20040121-d03 | fichas/colegiado/2004-01.md |
-| decisao-colegiado | RJ2003/6134 | 2003-11-25 | indeferido | cvm-col-20031125-d03 | fichas/colegiado/2003-14.md |
-| decisao-colegiado | RJ2003/4854 | 2003-11-04 | deferido | cvm-col-20031104-d06 | fichas/colegiado/2003-12.md |
-| decisao-colegiado | RJ2003/7909 | 2003-10-28 | deferido | cvm-col-20031028-d09 | fichas/colegiado/2003-12.md |
-| decisao-colegiado | RJ2003/8119 | 2003-10-14 | outro | cvm-col-20031014-d04 | fichas/colegiado/2003-12.md |
-| decisao-colegiado | RJ2003/6507 | 2003-09-30 | deferido | cvm-col-20030930-d02 | fichas/colegiado/2003-11.md |
-| decisao-colegiado | RJ2003/2369 | 2003-09-30 | parcial | cvm-col-20030930-d01 | fichas/colegiado/2003-11.md |
-| decisao-colegiado | RJ2003/5870 | 2003-09-23 | deferido | cvm-col-20030923-d03 | fichas/colegiado/2003-11.md |
-| decisao-colegiado | — | 2003-09-23 | nao-provido | cvm-col-20030923-d02 | fichas/colegiado/2003-11.md |
-| decisao-colegiado | RJ2003/6670 | 2003-09-11 | parcial | cvm-col-20030911-d01 | fichas/colegiado/2003-11.md |
-| decisao-colegiado | RJ2003/5464 | 2003-07-14 | outro | cvm-col-20030714-d03 | fichas/colegiado/2003-09.md |
-| decisao-colegiado | RJ2003/5464 | 2003-07-02 | deferido | cvm-col-20030702-d01 | fichas/colegiado/2003-09.md |
-| decisao-colegiado | RJ2003/2928 | 2003-06-10 | deferido | cvm-col-20030610-d02 | fichas/colegiado/2003-07.md |
-| decisao-colegiado | RJ2003/5581 | 2003-06-03 | parcial | cvm-col-20030603-d14 | fichas/colegiado/2003-07.md |
-| decisao-colegiado | RJ2003/4010 | 2003-05-26 | nao-provido | cvm-col-20030526-d04 | fichas/colegiado/2003-07.md |
-| decisao-colegiado | RJ2002/5160 | 2003-05-20 | deferido | cvm-col-20030520-d01 | fichas/colegiado/2003-06.md |
-| decisao-colegiado | RJ2003/1590 | 2003-04-17 | deferido | cvm-col-20030417-d06 | fichas/colegiado/2003-05.md |
-| decisao-colegiado | RJ2002/7753 | 2003-04-17 | deferido | cvm-col-20030417-d05 | fichas/colegiado/2003-05.md |
-| decisao-colegiado | RJ2003/0128 | 2003-04-17 | deferido | cvm-col-20030417-d03 | fichas/colegiado/2003-04.md |
-| decisao-colegiado | RJ2002/2776 | 2003-04-17 | nao-provido | cvm-col-20030417-d02 | fichas/colegiado/2003-04.md |
-| decisao-colegiado | RJ2002/7915 | 2003-04-01 | nao-provido | cvm-col-20030401-d04 | fichas/colegiado/2003-04.md |
-| acordao-crsfn | 05/99 | 2003-03-26 | arquivamento | crsfn-3640 | fichas/crsfn/2003-01.md |
-| decisao-colegiado | RJ2002/3430 | 2003-02-17 | outro | cvm-col-20030217-d01 | fichas/colegiado/2003-02.md |
-| decisao-colegiado | RJ2002/7383 | 2003-01-28 | nao-provido | cvm-col-20030128-d01 | fichas/colegiado/2003-02.md |
-| decisao-colegiado | RJ2002/2776 | 2003-01-21 | indeferido | cvm-col-20030121-d06 | fichas/colegiado/2003-01.md |
-| decisao-colegiado | RJ2002/7608 | 2003-01-08 | deferido | cvm-col-20030108-d08 | fichas/colegiado/2003-01.md |
-| decisao-colegiado | RJ2002/7858 | 2002-12-23 | provido | cvm-col-20021223-d07 | fichas/colegiado/2002-26.md |
-| decisao-colegiado | RJ2002/6763 | 2002-12-10 | deferido | cvm-col-20021210-d04 | fichas/colegiado/2002-26.md |
-| decisao-colegiado | — | 2002-12-02 | outro | cvm-col-20021202-d01 | fichas/colegiado/2002-26.md |
-| decisao-colegiado | — | 2002-10-21 | deferido | cvm-col-20021021-d03 | fichas/colegiado/2002-24.md |
-| decisao-colegiado | RJ2002/4820 | 2002-10-10 | provido | cvm-col-20021010-d07 | fichas/colegiado/2002-23.md |
-| decisao-colegiado | RJ2002/4087 | 2002-08-30 | deferido | cvm-col-20020830-d10 | fichas/colegiado/2002-21.md |
-| decisao-colegiado | RJ2001/12009 | 2002-08-30 | indeferido | cvm-col-20020830-d02 | fichas/colegiado/2002-21.md |
-| decisao-colegiado | RJ2002/4685 | 2002-08-20 | deferido | cvm-col-20020820-d04 | fichas/colegiado/2002-20.md |
-| decisao-colegiado | RJ2002/2608 | 2002-08-13 | outro | cvm-col-20020813-d05 | fichas/colegiado/2002-20.md |
-| decisao-colegiado | RJ2002/4151 | 2002-07-23 | indeferido | cvm-col-20020723-d04 | fichas/colegiado/2002-18.md |
-| decisao-colegiado | RJ2000/6126 | 2002-07-09 | nao-provido | cvm-col-20020709-d09 | fichas/colegiado/2002-17.md |
-| decisao-colegiado | RJ2002/4188 | 2002-07-09 | deferido | cvm-col-20020709-d08 | fichas/colegiado/2002-17.md |
-| decisao-colegiado | — | 2002-07-03 | deferido | cvm-col-20020703-d11 | fichas/colegiado/2002-16.md |
-| decisao-colegiado | RJ2002/1679 | 2002-07-03 | provido | cvm-col-20020703-d09 | fichas/colegiado/2002-16.md |
-| decisao-colegiado | RJ2002/4466 | 2002-06-25 | deferido | cvm-col-20020625-d07 | fichas/colegiado/2002-15.md |
-| decisao-colegiado | RJ2002/1759 | 2002-06-18 | outro | cvm-col-20020618-d12 | fichas/colegiado/2002-14.md |
-| decisao-colegiado | RJ2002/175 | 2002-04-10 | parcial | cvm-col-20020410-d13 | fichas/colegiado/2002-08.md |
-| decisao-colegiado | RJ2002/2069 | 2002-03-15 | deferido | cvm-col-20020315-d01 | fichas/colegiado/2002-04.md |
-| decisao-colegiado | RJ2001/11663 | 2002-01-15 | provido | cvm-col-20020115-d05 | fichas/colegiado/2002-01.md |
-| acordao-crsfn | 25/96 | 2000-05-30 | condenacao | crsfn-2912 | fichas/crsfn/2000-02.md |
-| acordao-crsfn | 06/92 | 1996-09-12 | parcial | crsfn-1740 | fichas/crsfn/1996-02.md |
-| acordao-crsfn | 06/89 | 1996-02-15 | parcial | crsfn-1583 | fichas/crsfn/1996-01.md |
+| Tipo | Processo | Data | Resultado | Ementa | Id | Ficha |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.003474/2025-07 | 2026-08-25 | parcial | Por unanimidade, o Colegiado proveu recurso contra entendimento da SRE de não exigibilidade de OPA estatutária da Oncoclínicas, fixando… | cvm-col-20260825-d3540 | fichas/colegiado/2026-03.md |
+| decisao-colegiado | 19957.009862/2026-74 | 2026-07-14 | provido | Por maioria, o Colegiado proveu recurso da Itaú Corretora e da Ecopetrol contra entendimento da SRE de que a OPA da Brava Energia feria o… | cvm-col-20260714-d3573 | fichas/colegiado/2026-03.md |
+| decisao-colegiado | 19957.007639/2025-10 | 2025-09-02 | deferido | O Colegiado concedeu dispensa excepcional do art. 8º, III, da RCVM 77 à Wilson Sons para recomprar até 1.954.000 ações durante a OPA, a… | cvm-col-20250902-d3340 | fichas/colegiado/2025-09.md |
+| decisao-colegiado | 19957.005349/2025-23 | 2025-08-05 | — | O Colegiado iniciou a discussão de recurso contra entendimento da SRE no âmbito de OPA para cancelamento de registro da Serena Energia S.A… | cvm-col-20250805-d3322 | fichas/colegiado/2025-07.md |
+| decisao-colegiado | 19957.008951/2024-31 | 2025-07-29 | provido | Por maioria, com voto de qualidade do presidente em exercício após empate, o Colegiado deu provimento aos recursos contra determinação de… | cvm-col-20250729-d3287 | fichas/colegiado/2025-07.md |
+| decisao-colegiado | 19957.008951/2024-31 | 2025-06-24 | — | Recursos de três fundos (Texas FIA, Esna FIP e Kyra FIA) e do controlador, com pedido de efeito suspensivo, contra decisão da SRE que… | cvm-col-20250624-d3287 | fichas/colegiado/2025-06.md |
+| decisao-colegiado | 19957.008951/2024-31 | 2025-06-17 | — | Recursos de fundos e do controlador contra decisão da SRE que determinou OPA por aumento de participação na Ambipar Participações e… | cvm-col-20250617-d3287 | fichas/colegiado/2025-05.md |
+| decisao-colegiado | 05/2023; 85/2022; 19957.007933/2018-94 | 2024-10-09 | outro | O Colegiado aprovou as Resoluções CVM 215/2024, que regula as OPAs e revoga a RCVM 85/2022, e 216/2024, que altera quatro normas… | cvm-col-20241009-d2878 | fichas/colegiado/2024-11.md |
+| decisao-colegiado | 05/2023; 85/2022; 19957.007933/2018-94 | 2024-10-02 | — | O Colegiado continuou a discussão da Minuta A, que busca nova regulamentação das OPAs em substituição à RCVM 85/2022, e chegou ao art. 64… | cvm-col-20241002-d2878-r2 | fichas/colegiado/2024-11.md |
+| decisao-colegiado | 19957.013926/2023-99 | 2024-03-19 | nao-provido | O Colegiado, por unanimidade, após pedido de vista, negou provimento ao recurso contra entendimento da SRE sobre o preço da OPA da… | cvm-col-20240319-d3026 | fichas/colegiado/2024-03.md |
+| decisao-colegiado | 19957.013926/2023-99 | 2024-03-12 | — | Recurso de uma recorrente contra entendimento da SRE sobre atualização do preço da OPA estatutária da Getninjas S.A. (R$ 5,00 por ação… | cvm-col-20240312-d3026 | fichas/colegiado/2024-03.md |
+| decisao-colegiado | 19957.012051/2023-16 | 2024-01-16 | nao-provido | O Colegiado negou provimento, acompanhando a SRE, a recurso do Banrisul (ofertante) contra exigência na OPA para cancelamento de registro… | cvm-col-20240116-d2998 | fichas/colegiado/2024-01.md |
+| decisao-colegiado | 19957.004081/2023-41 | 2024-01-16 | nao-provido | O Colegiado negou provimento, por unanimidade, a recurso da Argucia Capital, em nome de fundos acionistas, contra o registro de OPA por… | cvm-col-20240116-d2929 | fichas/colegiado/2024-01.md |
+| decisao-colegiado | 85/2022; 19957.007933/2018-94 | 2023-11-21 | — | O Colegiado continuou a discussão da Minuta A, que substituirá a Resolução CVM 85/2022 sobre ofertas públicas de aquisição de ações (OPA)… | cvm-col-20231121-d2878 | fichas/colegiado/2023-12.md |
+| decisao-colegiado | 85/2022; 19957.007933/2018-94 | 2023-11-08 | — | O Colegiado continuou a discussão das minutas da SDM que visam substituir a Resolução CVM 85/2022 (OPA), tendo avançado pela Minuta A até a… | cvm-col-20231108-d2878-r2 | fichas/colegiado/2023-12.md |
+| decisao-colegiado | 85/2022; 19957.007933/2018-94 | 2023-10-11 | — | Apresentação da SDM sobre propostas de reforma da Resolução CVM 85/2022 (OPA), com foco na OPA por aumento de participação, para colher… | cvm-col-20231011-d2878 | fichas/colegiado/2023-11.md |
+| decisao-colegiado | 19957.004081/2023-41 | 2023-09-26 | outro | Após desistência do recurso da Brascorp Participações Ltda. contra a SRE, o Colegiado conheceu o tema como consulta sobre a OPA por aumento… | cvm-col-20230926-d2929 | fichas/colegiado/2023-10.md |
+| decisao-colegiado | 19957.000972/2023-28 | 2023-08-29 | parcial | O Colegiado, acompanhando a SRE, não conheceu do pedido de reconsideração contra a decisão que revogou a dispensa de leilão da OPA para… | cvm-col-20230829-d2894 | fichas/colegiado/2023-09.md |
+| decisao-colegiado | 19957.008764/2021-13 | 2023-08-08 | conhecimento | O Colegiado, por maioria, acompanhando a área técnica, não conheceu do pedido de reconsideração contra decisão que manteve a não… | cvm-col-20230808-d2617 | fichas/colegiado/2023-08.md |
+| decisao-colegiado | 19957.000972/2023-28 | 2023-07-14 | outro | O Colegiado, por unanimidade, acompanhando a SRE, revogou a dispensa de leilão da OPA para cancelamento de registro da Têxtil Renauxview e… | cvm-col-20230714-d2894 | fichas/colegiado/2023-08.md |
+| decisao-colegiado | 19957.000972/2023-28 | 2023-07-11 | — | Pedido de adoção de procedimento diferenciado no âmbito da OPA para cancelamento de registro e da OPA concorrente de Têxtil Renauxview S.A… | cvm-col-20230711-d2894 | fichas/colegiado/2023-08.md |
+| decisao-colegiado | 19957.003983/2022-89 | 2023-06-22 | nao-provido | O Colegiado, acompanhando a área técnica, negou provimento a recurso de acionistas minoritários que pedia a suspensão da OPA por alienação… | cvm-col-20230622-d2882 | fichas/colegiado/2023-07.md |
+| decisao-colegiado | 19957.008764/2021-13 | 2023-05-16 | nao-provido | Em retomada após pedido de vista, o Colegiado, por maioria, negou provimento a recurso de fundos minoritários da Coelba e manteve o… | cvm-col-20230516-d2617 | fichas/colegiado/2023-05.md |
+| decisao-colegiado | 19957.011851/2022-21 | 2023-03-28 | deferido | O Colegiado deferiu o pedido da ofertante de prazo adicional de 10 dias, contados da comunicação da decisão, para divulgar o edital da OPA… | cvm-col-20230328-d2821 | fichas/colegiado/2023-03.md |
+| decisao-colegiado | 19957.008764/2021-13 | 2023-03-28 | — | Recurso de fundos minoritários da Coelba contra entendimento da SRE de que não haveria OPA por aumento de participação na aquisição da… | cvm-col-20230328-d2617 | fichas/colegiado/2023-03.md |
+| decisao-colegiado | 19957.004861/2022-18 | 2023-01-31 | parcial | O Colegiado concedeu dispensa da vedação de alienação de ações pelo ofertante durante o período da OPA (art. 20, I, RCVM 85/2022)… | cvm-col-20230131-d2686 | fichas/colegiado/2023-02.md |
+| decisao-colegiado | 19957.014007/2022-51 | 2023-01-24 | nao-provido | Após vista, o Colegiado negou provimento, por maioria, a recurso do Banco BTG Pactual S.A. contra exigência da SRE em OPA unificada do… | cvm-col-20230124-d2788 | fichas/colegiado/2023-02.md |
+| decisao-colegiado | 19957.014007/2022-51 | 2023-01-17 | — | Recurso do Banco BTG Pactual S.A. contra exigência da SRE no pedido de registro de OPA unificada (alienação de controle e cancelamento de… | cvm-col-20230117-d2788 | fichas/colegiado/2023-02.md |
+| decisao-colegiado | 19957.004861/2022-18 | 2022-11-29 | provido | O Colegiado deu provimento a recurso da Fonte de Saúde FIP Multiestratégia contra a SRE, divergindo da área técnica, em OPA por alienação… | cvm-col-20221129-d2686 | fichas/colegiado/2022-16.md |
+| decisao-colegiado | 19957.006926/2022-51 | 2022-10-25 | deferido | O Colegiado aprovou o procedimento diferenciado da OPA para cancelamento de registro da Getnet, acompanhando a SRE: o quórum de sucesso no… | cvm-col-20221025-d2707 | fichas/colegiado/2022-14.md |
+| decisao-colegiado | 19957.004861/2022-18 | 2022-09-20 | nao-provido | O Colegiado negou provimento, por unanimidade e acompanhando a SRE, a recurso do ofertante contra o entendimento de que o preço da OPA por… | cvm-col-20220920-d2686 | fichas/colegiado/2022-14.md |
+| decisao-colegiado | RJ2015/3702; 19957.007771/2019-75 | 2022-08-16 | outro | O Colegiado, por unanimidade, acompanhando o voto do relator, extinguiu sem resolução de mérito, por perda do objeto, os recursos contra… | cvm-col-20220816-d9718 | fichas/colegiado/2022-12.md |
+| decisao-colegiado | 19957.005755/2022-43 | 2022-07-26 | deferido | O Colegiado autorizou, acompanhando a SRE, procedimento diferenciado em OPA para cancelamento de registro da CEEE-T (art. 45 da Resolução… | cvm-col-20220726-d2659 | fichas/colegiado/2022-12.md |
+| decisao-colegiado | 19957.005411/2019-39 | 2021-06-01 | indeferido | O Colegiado não concedeu a dispensa da contraprestação em valores mobiliários do art. 29, §8º, da ICVM 361, pedida pela ofertante para… | cvm-col-20210601-d1864 | fichas/colegiado/2021-09.md |
+| decisao-colegiado | 19957.005411/2019-39 | 2021-02-23 | outro | O Colegiado decidiu pelo não provimento do recurso e deliberou pela reforma da decisão da SRE que indeferiu registro de OPA por alienação… | cvm-col-20210223-d1864 | fichas/colegiado/2021-03.md |
+| decisao-colegiado | 19957.005199/2020-43 | 2021-01-19 | conhecimento | O Colegiado não conheceu, por unanimidade, do pedido de reconsideração de fundos ex-acionistas contra decisão que negou provimento a… | cvm-col-20210119-d1986 | fichas/colegiado/2021-01.md |
+| decisao-colegiado | 19957.005199/2020-43 | 2020-11-24 | nao-provido | O Colegiado negou provimento a recurso de ex-acionistas da Somos Educação contra entendimento da SRE sobre a conta escrow da OPA unificada… | cvm-col-20201124-d1986 | fichas/colegiado/2020-20.md |
+| decisao-colegiado | 19957.006377/2020-53; 19957.005060/2019-66 | 2020-10-13 | nao-provido | O Colegiado negou provimento ao recurso da Energisa contra decisão da SRE que exigiu OPA por aumento de participação na Rede Energia… | cvm-col-20201013-d1946 | fichas/colegiado/2020-17.md |
+| decisao-colegiado | 19957.005411/2019-39 | 2020-09-01 | — | Recurso da Millenium Inorganic Chemicals Holdings Brasil Ltda. contra indeferimento pela SRE do registro de OPA por alienação indireta de… | cvm-col-20200901-d1864 | fichas/colegiado/2020-14.md |
+| decisao-colegiado | 19957.005411/2019-39 | 2020-07-28 | — | O Colegiado iniciou a discussão de recurso contra decisão da SRE que indeferiu OPA por alienação de controle da Tronox Pigmentos do Brasil… | cvm-col-20200728-d1864 | fichas/colegiado/2020-12.md |
+| decisao-colegiado | 19957.002154/2020-17 | 2020-07-07 | deferido | O Colegiado, por unanimidade, aprovou procedimento diferenciado para descontinuidade do programa de BDR da Biotoscana, unificado com a OPA… | cvm-col-20200707-d1852 | fichas/colegiado/2020-11.md |
+| termo-compromisso | 19957.001434/2018-93 | 2020-05-05 | rejeitado | O Colegiado rejeitou, por unanimidade, acompanhando o parecer do Comitê, nova proposta de termo de compromisso de pessoa vinculada que… | cvm-col-20200505-d1220 | fichas/tc/2020-03.md |
+| decisao-colegiado | 19957.010983/2017-78 | 2020-04-14 | nao-provido | O Colegiado negou provimento, por unanimidade, a recurso da ofertante contra indeferimento da SRE de dispensa de instituição intermediária… | cvm-col-20200414-d1776 | fichas/colegiado/2020-06.md |
+| decisao-colegiado | 19957.011434/2019-82 | 2020-01-21 | nao-provido | O Colegiado, por unanimidade, acompanhando a SRE (Memorando 3/2020), negou provimento a recurso da Energisa contra decisão da SRE que… | cvm-col-20200121-d1680 | fichas/colegiado/2020-01.md |
+| decisao-colegiado | 02/2019; 19957.007933/2018-94 | 2019-11-05 | outro | O Colegiado aprovou, após audiência pública, Instrução que altera a ICVM 361/02: submete a limites de 1/3 e 2/3 as OPAs por aumento de… | cvm-col-20191105-d2878 | fichas/colegiado/2019-18.md |
+| pas | RJ2016/773 | 2019-10-29 | condenacao | Não realização de oferta pública de aquisição de ações por aumento de participação. Infração ao §6º do art. 4º da Lei 6.404/76. Infração ao… | cvm-pas-rj2016-0773 | fichas/pas/2019-18.md |
+| decisao-colegiado | 19957.005392/2018-60 | 2019-10-22 | outro | O Colegiado, acompanhando em parte a SRE, concluiu não haver óbice a que o ofertante contrate novo avaliador para atualizar o laudo da OPA… | cvm-col-20191022-d1585 | fichas/colegiado/2019-17.md |
+| decisao-colegiado | 19957.001012/2019-07 | 2019-06-18 | deferido | O Colegiado, por unanimidade, acompanhando o voto de um diretor, autorizou procedimento diferenciado de cômputo de quórum em OPA unificada… | cvm-col-20190618-d1356 | fichas/colegiado/2019-09.md |
+| decisao-colegiado | 19957.003194/2019-42 | 2019-04-30 | nao-provido | O Colegiado, por maioria, negou provimento a recurso contra exigência da SRE de OPA para cancelar o registro da Elétron S.A. (art. 4º, §4º… | cvm-col-20190430-d1386 | fichas/colegiado/2019-07.md |
+| decisao-colegiado | 19957.007933/2018-94 | 2019-04-10 | outro | O Colegiado aprovou submeter à Audiência Pública SDM 02/19 minuta de alteração da Instrução CVM 361/02 (OPA), propondo: OPA por aumento de… | cvm-col-20190410-d2878 | fichas/colegiado/2019-06.md |
+| decisao-colegiado | 19957.007811/2018-06 | 2019-04-09 | deferido | O Colegiado, acompanhando o voto de um diretor, autorizou o procedimento diferenciado proposto pela Enel para OPA de cancelamento de… | cvm-col-20190409-d1360 | fichas/colegiado/2019-06.md |
+| decisao-colegiado | 19957.007811/2018-06 | 2019-04-02 | — | O Colegiado iniciou discussão de consulta da Enel Brasil Investimentos Sudeste S.A. sobre OPA para cancelamento de registro da Eletropaulo… | cvm-col-20190402-d1360 | fichas/colegiado/2019-05.md |
+| decisao-colegiado | 19957.001012/2019-07 | 2019-03-26 | — | O Colegiado iniciou discussão de consulta sobre procedimento diferenciado em OPA unificada por alienação de controle e para cancelamento de… | cvm-col-20190326-d1356 | fichas/colegiado/2019-05.md |
+| decisao-colegiado | 19957.008798/2018-02 | 2019-01-22 | nao-provido | O Colegiado, por unanimidade, acompanhando a área técnica, negou provimento ao recurso da ofertante e da instituição intermediária contra o… | cvm-col-20190122-d1287 | fichas/colegiado/2019-02.md |
+| termo-compromisso | 19957.001434/2018-93 | 2018-11-27 | rejeitado | O Colegiado, acompanhando o Comitê, rejeitou proposta de termo de compromisso de pessoa vinculada alienante de ações durante OPA por… | cvm-col-20181127-d1220 | fichas/tc/2018-06.md |
+| decisao-colegiado | 19957.001656/2017-25 | 2018-10-09 | nao-provido | O Colegiado conheceu e negou provimento a recurso de acionistas da CPFL Energias Renováveis S.A. contra determinação da SRE em OPA por… | cvm-col-20181009-d1000 | fichas/colegiado/2018-18.md |
+| decisao-colegiado | 19957.007244/2018-80; 19957.007245/2018-24; 19957.007246/2018-79; 19957.008104/2018-29 | 2018-09-25 | — | O Colegiado iniciou a discussão de pedidos de reconsideração de decisão sobre a OPA da Elekeiroz S.A. (quatro processos). Julgamento… | cvm-col-20180925-d1107 | fichas/colegiado/2018-17.md |
+| decisao-colegiado | 19957.010832/2017-10 | 2018-08-28 | provido | O Colegiado, por unanimidade, deu provimento ao recurso da Stigma II contra a SRE, que condicionava a OPA voluntária da Brasil Pharma… | cvm-col-20180828-d1132 | fichas/colegiado/2018-15.md |
+| decisao-colegiado | 19957.007244/2018-80; 19957.007245/2018-24; 19957.007246/2018-79 | 2018-08-08 | deferido | Por maioria, o Colegiado adiou a assembleia especial de minoritários da Elekeiroz até que o ofertante retifique a OPA unificada, com opção… | cvm-col-20180808-d1107 | fichas/colegiado/2018-14.md |
+| decisao-colegiado | 19957.003818/2018-41 | 2018-05-29 | parcial | O Colegiado manteve, por maioria, a data de 04/06/2018 para o leilão conjunto das OPAs de aquisição de controle da Eletropaulo e entendeu… | cvm-col-20180529-d1024 | fichas/colegiado/2018-10.md |
+| decisao-colegiado | 19957.003818/2018-41 | 2018-05-15 | outro | Em consultas da Neoenergia e da Enel sobre o processo competitivo pela Eletropaulo, o Colegiado acompanhou a SRE em parte dos entendimentos… | cvm-col-20180515-d1024 | fichas/colegiado/2018-09.md |
+| decisao-colegiado | 19957.003818/2018-41 | 2018-05-02 | outro | O Colegiado esclareceu regras da disputa pela Eletropaulo. Aditamentos às OPAs podem ser publicados na imprensa em até dois dias úteis após… | cvm-col-20180502-d1024 | fichas/colegiado/2018-09.md |
+| decisao-colegiado | 19957.001656/2017-25 | 2018-05-02 | outro | Os demais membros do Colegiado acompanharam a manifestação do Presidente sobre recurso da State Grid Brazil Power contra decisão da SRE que… | cvm-col-20180502-d1000 | fichas/colegiado/2018-08.md |
+| decisao-colegiado | 19957.001656/2017-25 | 2018-03-27 | — | Recurso da State Grid Brazil Power Participações S.A. contra decisão da SRE sobre registro de OPA por alienação indireta de controle da… | cvm-col-20180327-d1000 | fichas/colegiado/2018-06.md |
+| decisao-colegiado | 19957.008790/2017-57 | 2017-11-21 | nao-provido | O Colegiado negou provimento ao recurso da Lajeado Energia S.A. e manteve o indeferimento de sigilo do laudo de avaliação da Investco S.A… | cvm-col-20171121-d0853 | fichas/colegiado/2017-19.md |
+| decisao-colegiado | 19957.000115/2017-80 | 2017-10-24 | nao-provido | O Colegiado, por unanimidade, acompanhando o voto do relator, negou provimento a recurso da CSN e outros contra decisão da SRE que entendeu… | cvm-col-20171024-d0547 | fichas/colegiado/2017-18.md |
+| decisao-colegiado | RJ2015/9136 | 2017-10-03 | provido | O Colegiado deu provimento ao recurso da CBD contra determinação da SRE de pagar aos minoritários da Globex ao menos 80% do valor pago à… | cvm-col-20171003-d0449 | fichas/colegiado/2017-17.md |
+| pas | RJ2015/12856 | 2017-09-26 | condenacao | Não realização obrigatória de Oferta Pública de Aquisição de Ações por alienação de controle. Multa. | cvm-pas-rj2015-12856 | fichas/pas/2017-07.md |
+| pas | RJ2012/13740 | 2017-09-26 | parcial | Não realização obrigatória de Oferta Pública de Aquisição de Ações por alienação de controle. Absolvição e multa. | cvm-pas-rj2012-13740 | fichas/pas/2017-07.md |
+| decisao-colegiado | 19957.008180/2016-72 | 2017-07-11 | conhecimento | O Colegiado, por unanimidade, acompanhando o relator, não conheceu do pedido de reconsideração da Lajeado Energia contra decisão que… | cvm-col-20170711-d7695 | fichas/colegiado/2017-13.md |
+| acordao-crsfn | RJ2013/4369 | 2017-06-28 | absolvicao | RECURSO DE OFÍCIO. Mercado de valores mobiliários - Descumprimento do prazo previsto no caput do art. 9º da Instrução CVM nº 361, de 2002… | crsfn-14214 | fichas/crsfn/2017-10.md |
+| decisao-colegiado | 19957.002501/2017-14 | 2017-06-13 | indeferido | O Colegiado, por unanimidade, indeferiu pedido da Metalúrgica Gerdau S.A. de procedimento diferenciado em OPA por aumento de participação… | cvm-col-20170613-d0707 | fichas/colegiado/2017-11.md |
+| decisao-colegiado | 19957.003175/2017-54 | 2017-06-06 | provido | Por maioria, vencido um diretor, o Colegiado deferiu recurso da companhia contra manifestação da SEP que considerava irregular a recompra… | cvm-col-20170606-d0676 | fichas/colegiado/2017-10.md |
+| decisao-colegiado | 19957.008059/2016-41 | 2017-05-30 | nao-provido | Recursos contra decisão da SRE. Proc. SEI 19957.008059/2016-41. | cvm-col-20170530-d0681 | fichas/colegiado/2017-10.md |
+| decisao-colegiado | 19957.002417/2016-10 | 2017-02-15 | parcial | Recurso do Banco Indusval contra exigências da SRE em OPA para cancelamento de registro: o Colegiado deferiu em parte, considerando em… | cvm-col-20170215-d530 | fichas/colegiado/2017-04.md |
+| decisao-colegiado | 19957.002417/2016-10 | 2017-02-14 | — | Recurso do Banco Indusval S.A. contra exigência da SRE em pedido de registro de OPA para cancelamento de registro com procedimento… | cvm-col-20170214-d0530 | fichas/colegiado/2017-04.md |
+| decisao-colegiado | 19957.002961/2015-72 | 2016-12-13 | nao-provido | Recurso do controlador contra exigência da SRE em OPA para cancelamento de registro da Manufatura de Brinquedos Estrela S.A. Após pedido de… | cvm-col-20161213-d0194 | fichas/colegiado/2016-24.md |
+| decisao-colegiado | 19957.002961/2015-72 | 2016-11-08 | — | Recurso do controlador da Manufatura de Brinquedos Estrela S.A. contra decisão da SRE no pedido de OPA para cancelamento do registro da… | cvm-col-20161108-d0194 | fichas/colegiado/2016-22.md |
+| decisao-colegiado | — | 2016-10-11 | — | O Colegiado ouviu a SRE sobre casos dos últimos cinco anos de procedimento diferenciado e de OPA única para mais de uma finalidade… | cvm-col-20161011-d0388 | fichas/colegiado/2016-20.md |
+| decisao-colegiado | 19957.000852/2016-00 | 2016-10-11 | parcial | O Colegiado, acompanhando a SRE, deferiu procedimento diferenciado para OPA de cancelamento de registro da Wembley S.A. (art. 34 da… | cvm-col-20161011-d0385 | fichas/colegiado/2016-20.md |
+| decisao-colegiado | 19957.002252/2016-78 | 2016-09-20 | parcial | O Colegiado indeferiu, em OPA para cancelamento de registro da Tec Toy S.A., o procedimento diferenciado (inversão de quórum e base de… | cvm-col-20160920-d0367 | fichas/colegiado/2016-18.md |
+| decisao-colegiado | 19957.000990/2016-81 | 2016-09-06 | deferido | O Colegiado deferiu pedido da ofertante, acionista controladora do Banco Sofisa S.A., de unificação de OPAs por aumento de participação… | cvm-col-20160906-d0345 | fichas/colegiado/2016-17.md |
+| decisao-colegiado | RJ2011/2817 | 2016-08-02 | parcial | O Colegiado acompanhou o voto em recursos contra decisão da SRE sobre OPA por aumento de participação na Investco S.A. (art. 26, Instrução… | cvm-col-20160802-d7695 | fichas/colegiado/2016-15.md |
+| decisao-colegiado | RJ2015/9687 | 2016-07-26 | deferido | OPA para cancelamento de registro com adoção de procedimento diferenciado. Proc. RJ2015/9687. | cvm-col-20160726-d0318 | fichas/colegiado/2016-15.md |
+| decisao-colegiado | RJ2016/0006 | 2016-06-21 | deferido | O Colegiado deferiu o pedido da Tereos Participações SAS de registro de OPA unificada para cancelamento de registro e saída do Novo Mercado… | cvm-col-20160621-d0272 | fichas/colegiado/2016-13.md |
+| decisao-colegiado | RJ2015/4262 | 2016-06-14 | deferido | O Colegiado, acompanhando o voto de diretor, deferiu procedimento diferenciado para OPA de cancelamento de registro da Marina de Iracema… | cvm-col-20160614-d0125 | fichas/colegiado/2016-11.md |
+| decisao-colegiado | RJ2015/8057 | 2016-05-31 | deferido | O Colegiado deferiu, acompanhando a SRE, o pedido de OPA unificada do Banco Daycoval S.A. para conversão de registro (categoria A para B) e… | cvm-col-20160531-d9990 | fichas/colegiado/2016-10.md |
+| decisao-colegiado | RJ2015/10253 | 2016-05-10 | indeferido | O Colegiado indeferiu o pedido de dispensa do leilão (arts. 4º, VII, e 12 da Instrução 361) em OPA para cancelamento de registro da… | cvm-col-20160510-d0194 | fichas/colegiado/2016-09.md |
+| acordao-crsfn | RJ2012/8591 | 2016-04-26 | arquivamento | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falta de divulgação tempestiva de fato relevante – Razões recursais não lograram… | crsfn-13691 | fichas/crsfn/2016-03.md |
+| decisao-colegiado | RJ2015/7158 | 2016-03-29 | deferido | O Colegiado concedeu, por unanimidade, o procedimento diferenciado para a OPA de cancelamento de registro da CELG de Participações, com… | cvm-col-20160329-d0164 | fichas/colegiado/2016-08.md |
+| decisao-colegiado | RJ2015/4262 | 2016-03-29 | — | Pedido de registro de OPA para cancelamento de registro com adoção de procedimento diferenciado (art. 34 da Instrução CVM 361/2002)… | cvm-col-20160329-d0125 | fichas/colegiado/2016-07.md |
+| decisao-colegiado | 19957.001060/2016-44 | 2016-03-08 | outro | O Colegiado retificou, por erro material, a decisão de 01.03.2016 sobre o Reg. nº 0132/16 (OPA da Arteris): a manutenção da exigência da… | cvm-col-20160308-d0132 | fichas/colegiado/2016-06.md |
+| decisao-colegiado | 19957.001060/2016-44 | 2016-03-01 | nao-provido | O Colegiado negou provimento ao recurso da ofertante, controladora da Arteris S.A., contra exigência da SRE em OPA para conversão de… | cvm-col-20160301-d0132 | fichas/colegiado/2016-06.md |
+| decisao-colegiado | RJ2015/12695 | 2016-01-12 | outro | O Colegiado, por maioria, vencido um diretor, condicionou o cancelamento de registro do Banco Daycoval S.A. (OPA unificada) às hipóteses do… | cvm-col-20160112-d9990 | fichas/colegiado/2016-01.md |
+| decisao-colegiado | RJ2014/3723; RJ2014/4397 | 2015-12-15 | conhecimento | O Colegiado, por unanimidade, não conheceu os pedidos de reconsideração da controladora e do Polo Fundo de Investimento em Ações e manteve… | cvm-col-20151215-d9118-d9122 | fichas/colegiado/2015-24.md |
+| decisao-colegiado | RJ2015/7240 | 2015-12-01 | deferido | O Colegiado concedeu dispensa da observância dos limites de 1/3 e 2/3 do art. 15 da ICVM 361/2002 à OPA para saída do Novo Mercado da… | cvm-col-20151201-d9957 | fichas/colegiado/2015-23.md |
+| decisao-colegiado | RJ2015/8340 | 2015-11-18 | provido | Sem reconhecer omissões, mas se manifestando sobre o mérito, o Colegiado acompanhou a SRE e reformou a decisão de 29.09.2015 na OPA da… | cvm-col-20151118-d9867 | fichas/colegiado/2015-21.md |
+| decisao-colegiado | RJ2015/8340 | 2015-09-29 | nao-provido | O Colegiado negou provimento ao recurso da Thunnus Participações contra decisão da SRE sobre o preço da OPA por alienação de controle da… | cvm-col-20150929-d9867 | fichas/colegiado/2015-18.md |
+| decisao-colegiado | 361/2002; RJ2015/2255 | 2015-08-04 | deferido | O Colegiado deferiu a dispensa dos limites de 1/3 e 2/3 do art. 15 da Instrução CVM 361 para a OPA de saída do Novo Mercado da Vigor… | cvm-col-20150804-d9759 | fichas/colegiado/2015-14.md |
+| decisao-colegiado | RJ2014/10962 | 2015-07-28 | deferido | O Colegiado, acompanhando a SRE, deferiu o registro da OPA unificada do Banco Industrial e Comercial S.A. (Bicbanco) por alienação de… | cvm-col-20150728-d9514 | fichas/colegiado/2015-14.md |
+| decisao-colegiado | 361/2002; RJ2015/2255 | 2015-07-14 | — | Pedido de dispensa do art. 15 da ICVM 361/2002 para a OPA de saída do Novo Mercado da Vigor Alimentos S.A. Julgamento suspenso por pedido… | cvm-col-20150714-d9759 | fichas/colegiado/2015-13.md |
+| decisao-colegiado | RJ2014/3723 | 2015-07-14 | outro | O Colegiado não examinou o mérito do pedido de reconsideração de decisão sobre OPA por aumento de participação no Banco Sofisa S.A. e… | cvm-col-20150714-d9118 | fichas/colegiado/2015-13.md |
+| decisao-colegiado | RJ2014/7376 | 2015-06-30 | deferido | O Colegiado acompanhou a SRE e deferiu o registro da OPA unificada da Companhia Providência Indústria e Comércio (alienação de controle… | cvm-col-20150630-d9741 | fichas/colegiado/2015-12.md |
+| decisao-colegiado | RJ2015/3002 | 2015-06-22 | deferido | O Colegiado deferiu, com base no art. 9º-A da Instrução CVM 361/2002, o pedido de tratamento sigiloso de documentos da alienação de… | cvm-col-20150622-d9749 | fichas/colegiado/2015-10.md |
+| termo-compromisso | RJ2012/13740 | 2015-06-02 | rejeitado | O Colegiado rejeitou, acompanhando o parecer do Comitê, a proposta de termo de compromisso dos proponentes, acusados de alienar o controle… | cvm-col-20150602-d9660 | fichas/tc/2015-02.md |
+| decisao-colegiado | RJ2014/10023 | 2015-03-24 | deferido | O Colegiado deferiu, por unanimidade, o pedido de registro de OPA para cancelamento de registro da BHG S.A., feito pela Razuya, veículo da… | cvm-col-20150324-d9561 | fichas/colegiado/2015-05.md |
+| decisao-colegiado | 361/2002; RJ2014/12977 | 2015-02-10 | outro | O Colegiado, por unanimidade, acompanhando a SRE, entendeu que o aumento de capital da Biosev S.A., com cessão de direitos de preferência… | cvm-col-20150210-d9467 | fichas/colegiado/2015-03.md |
+| decisao-colegiado | RJ2014/10023 | 2015-02-02 | deferido | O Colegiado, com base no art. 9º-A da ICVM 361/2002 e na atuação da SRE, deferiu o pedido de tratamento sigiloso da Razuya Empreendimentos… | cvm-col-20150202-d9561 | fichas/colegiado/2015-03.md |
+| pas | RJ2013/4369 | 2015-01-27 | absolvicao | Suposta inobservância de prazo para apresentação de pedido de registro de oferta pública de aquisição de ações. Absolvições. | cvm-pas-rj2013-4369 | fichas/pas/2015-01.md |
+| decisao-colegiado | RJ2014/7916 | 2015-01-21 | deferido | O Colegiado autorizou, por unanimidade, a OPA unificada da controladora da Companhia Cacique de Café Solúvel, para cancelamento de registro… | cvm-col-20150121-d9541 | fichas/colegiado/2015-02.md |
+| decisao-colegiado | RJ2014/10962 | 2015-01-07 | deferido | O Colegiado, considerando o MEMO/SRE/GER-1/Nº 90/2014 e o parecer da PFE (PARECER/Nº 341/2014), deferiu o pedido de tratamento sigiloso da… | cvm-col-20150107-d9514 | fichas/colegiado/2015-01.md |
+| decisao-colegiado | RJ2014/12977 | 2014-12-16 | parcial | O Colegiado, por maioria, acompanhando a SRE, manifestou-se contra prorrogar de seis para 18 meses o prazo para recompor 25% do free float… | cvm-col-20141216-d07 | fichas/colegiado/2014-26.md |
+| decisao-colegiado | RJ2014/7223 | 2014-12-02 | indeferido | O Colegiado não autorizou a OPA para cancelamento de registro da companhia com procedimento diferenciado (inversão de quórum e mudança de… | cvm-col-20141202-d18 | fichas/colegiado/2014-24.md |
+| decisao-colegiado | RJ2014/12532 | 2014-11-11 | deferido | O Colegiado autorizou a sociedade estrangeira Mossi & Ghisolfi International S.À.R.L., investidor não residente, a adquirir em negociação… | cvm-col-20141111-d09 | fichas/colegiado/2014-21.md |
+| decisao-colegiado | RJ2014/6527 | 2014-09-05 | deferido | O Colegiado concedeu a dispensa dos limites do art. 15 da ICVM 361/2002 para a OPA de saída do Nível 2 do Santander Brasil, pedida pela… | cvm-col-20140905-d01 | fichas/colegiado/2014-17.md |
+| decisao-colegiado | RJ2014/2399 | 2014-08-26 | outro | Consulta sobre obrigação de realização de oferta pública de aquisição de ações por aumento de participação. Proc. RJ2014/2399. | cvm-col-20140826-d03 | fichas/colegiado/2014-16.md |
+| decisao-colegiado | RJ2014/3380 | 2014-07-03 | outro | O Colegiado retificou sua decisão de 30.06.14 sobre procedimento alternativo à OPA por aumento de participação (Biosev S.A. e outros), para… | cvm-col-20140703-d01 | fichas/colegiado/2014-13.md |
+| decisao-colegiado | RJ2014/3380 | 2014-06-30 | parcial | O Colegiado deferiu pedido da Biosev S.A. e da Hédera de procedimento alternativo à OPA por aumento de participação (art. 28, ICVM… | cvm-col-20140630-d01 | fichas/colegiado/2014-12.md |
+| decisao-colegiado | RJ2014/3380 | 2014-06-24 | outro | O Colegiado arquivou, por perda de objeto, consulta sobre a obrigação de realizar OPA por aumento de participação (Biosev S.A. e outros)… | cvm-col-20140624-d01 | fichas/colegiado/2014-12.md |
+| decisao-colegiado | RJ2014/4394 | 2014-06-03 | provido | O Colegiado deu provimento a recurso da ofertante contra a SRE e reconheceu, pelas particularidades do caso, que a OPA para saída do Novo… | cvm-col-20140603-d02 | fichas/colegiado/2014-11.md |
+| decisao-colegiado | RJ2014/4397 | 2014-05-20 | nao-provido | O Colegiado negou provimento, por unanimidade, ao recurso do Polo Fundo de Investimentos em Ações contra decisão da SRE sobre a OPA por… | cvm-col-20140520-d04 | fichas/colegiado/2014-09.md |
+| decisao-colegiado | RJ2014/3723 | 2014-05-20 | nao-provido | O Colegiado negou provimento a recurso da acionista controladora do Banco Sofisa S.A. contra decisão da SRE que exigiu OPA por aumento de… | cvm-col-20140520-d02 | fichas/colegiado/2014-09.md |
+| decisao-colegiado | RJ2014/3723 | 2014-05-13 | — | Recurso contra decisão da SRE que considerou necessária OPA por aumento de participação do Banco Sofisa S.A. (art. 4º, §6º, Lei 6.404/76, e… | cvm-col-20140513-d04 | fichas/colegiado/2014-09.md |
+| decisao-colegiado | RJ2013/11623 | 2014-05-13 | deferido | O Colegiado autorizou a OPA por alienação de controle da Excelsior Alimentos S.A. pela JBS S.A. com procedimento diferenciado: dispensa de… | cvm-col-20140513-d03 | fichas/colegiado/2014-09.md |
+| decisao-colegiado | RJ2014/0783 | 2014-01-28 | provido | O Colegiado deu provimento ao pedido de reconsideração contra decisão da SRE que desconsiderou aditamento ao edital e deferiu a unificação… | cvm-col-20140128-d04 | fichas/colegiado/2014-02.md |
+| decisao-colegiado | RJ2013/9441 | 2013-12-17 | deferido | O Colegiado deliberou a dispensa do laudo de avaliação da JBS S.A., exigido pelo art. 8º, §7º, da Instrução CVM 361/02, na OPA voluntária… | cvm-col-20131217-d27 | fichas/colegiado/2013-24.md |
+| decisao-colegiado | RJ2009/13346 | 2013-12-17 | nao-provido | O Colegiado, acompanhando a relatora, indeferiu recurso contra decisão da SRE que julgou improcedente reclamação pedindo OPA por alienação… | cvm-col-20131217-d01 | fichas/colegiado/2013-23.md |
+| decisao-colegiado | RJ2013/9574 | 2013-10-01 | nao-provido | O Colegiado indeferiu, acompanhando a SRE, o recurso de nove fundos contra a decisão que negou atualizar o laudo de avaliação da OPA… | cvm-col-20131001-d01 | fichas/colegiado/2013-18.md |
+| decisao-colegiado | RJ2013/8607 | 2013-09-10 | deferido | O Colegiado deferiu o pedido de Santander e BTG Pactual para que investidores com registro na Resolução CMN 2.689/00 recebam, em eventual… | cvm-col-20130910-d12 | fichas/colegiado/2013-17.md |
+| decisao-colegiado | RJ2012/14764 | 2013-07-30 | nao-provido | O Colegiado indeferiu recurso de acionistas contra a SRE, que julgara improcedente reclamação sobre revisão de preço (art. 4º-A, Lei… | cvm-col-20130730-d15 | fichas/colegiado/2013-14.md |
+| decisao-colegiado | RJ2012/15551 | 2013-07-23 | deferido | O Colegiado concedeu as dispensas pleiteadas (laudo de avaliação e prospecto sobre Abertis) na OPA mista por alienação de controle da… | cvm-col-20130723-d01 | fichas/colegiado/2013-13.md |
+| decisao-colegiado | RJ2012/15551 | 2013-07-16 | — | Pedido de registro de OPA por alienação de controle da Arteris S.A., com procedimento diferenciado (art. 34 da Instrução CVM 361/02)… | cvm-col-20130716-d01 | fichas/colegiado/2013-13.md |
+| decisao-colegiado | RJ2012/8019 | 2013-06-25 | deferido | O Colegiado concedeu as três dispensas pleiteadas pela Marfrig Alimentos S.A. no registro de OPA por alienação de controle da Excelsior… | cvm-col-20130625-d03 | fichas/colegiado/2013-12.md |
+| decisao-colegiado | RJ2012/6317 | 2013-04-02 | nao-provido | O Colegiado, acompanhando o voto do relator, negou provimento a recurso de acionista contra decisão da SRE sobre OPA unificada e… | cvm-col-20130402-d11 | fichas/colegiado/2013-08.md |
+| decisao-colegiado | RJ2012/13241 | 2013-03-19 | deferido | O Colegiado deferiu o pedido de unificação de OPA por alienação de controle, saída do Novo Mercado e cancelamento de registro da Amil… | cvm-col-20130319-d09 | fichas/colegiado/2013-07.md |
+| decisao-colegiado | RJ2012/14383 | 2013-03-12 | outro | O Colegiado entendeu que a CVM não tem poder para dispensar OPA por alienação de controle decorrente de imposição legal e recebeu o… | cvm-col-20130312-d02 | fichas/colegiado/2013-06.md |
+| decisao-colegiado | RJ2012/9648 | 2013-01-29 | deferido | O Colegiado deferiu a realização de OPA unificada da Redentor Energia S.A. para cancelamento de registro e saída do Novo Mercado, com… | cvm-col-20130129-d14 | fichas/colegiado/2013-03.md |
+| decisao-colegiado | RJ2012/13237 | 2013-01-22 | deferido | O Colegiado concedeu a dispensa de laudo de avaliação para definição de preço justo na OPA para cancelamento de registro da Usina Costa… | cvm-col-20130122-d04 | fichas/colegiado/2013-02.md |
+| decisao-colegiado | RJ2012/14764 | 2013-01-22 | — | O Colegiado iniciou a discussão de recurso com efeito suspensivo no âmbito da OPA unificada por alienação de controle da NET Serviços de… | cvm-col-20130122-d01 | fichas/colegiado/2013-02.md |
+| decisao-colegiado | RJ2012/8271 | 2012-12-27 | deferido | O Colegiado deferiu o pleito da Tele Norte Celular Participações S.A. de adoção de procedimento diferenciado (art. 34 da Instrução CVM… | cvm-col-20121227-d01 | fichas/colegiado/2012-27.md |
+| decisao-colegiado | RJ2012/6422 | 2012-11-27 | deferido | O Colegiado deferiu o pedido de unificação das OPAs de NET Serviços de Comunicação S.A. por alienação de controle (art. 254-A da Lei… | cvm-col-20121127-d06 | fichas/colegiado/2012-22.md |
+| decisao-colegiado | RJ2009/13346 | 2012-11-22 | — | Recurso contra decisão da SRE. Proc. RJ2009/13346. | cvm-col-20121122-d05 | fichas/colegiado/2012-21.md |
+| decisao-colegiado | RJ2012/5652 | 2012-11-06 | outro | O Colegiado entendeu ser possível autorizar OPA unificada para cancelamento de registro e saída de nível, desde que atendido o §2º do art… | cvm-col-20121106-d01 | fichas/colegiado/2012-20.md |
+| decisao-colegiado | RJ2011/14076 | 2012-08-14 | deferido | O Colegiado concedeu as dispensas pleiteadas pela Imasa Empreendimentos e Administração Ltda. na OPA para cancelamento de registro da… | cvm-col-20120814-d02 | fichas/colegiado/2012-13.md |
+| decisao-colegiado | RJ2011/13032 | 2012-05-15 | deferido | O Colegiado concedeu à Church & Dwight do Brasil Ltda. as dispensas de contratação de instituição intermediária (art. 7º) e de leilão em… | cvm-col-20120515-d07 | fichas/colegiado/2012-09.md |
+| decisao-colegiado | RJ2012/1810 | 2012-05-02 | deferido | O Colegiado deferiu o pleito da JBS S.A. de registro de OPA voluntária por permuta de ações da Vigor Alimentos S.A., com procedimento… | cvm-col-20120502-d02 | fichas/colegiado/2012-08.md |
+| decisao-colegiado | RJ2012/995; RJ2012/1267 | 2012-05-02 | deferido | O Colegiado deferiu os pleitos das ofertantes em OPA por permuta para cancelamento de registro da TAM S.A.: manifestação do acionista até… | cvm-col-20120502-d01 | fichas/colegiado/2012-08.md |
+| decisao-colegiado | RJ2011/13790 | 2012-04-05 | deferido | O Colegiado deferiu o pedido de unificação da OPA por alienação de controle e para cancelamento de registro do Banco BERJ S.A., com… | cvm-col-20120405-d01 | fichas/colegiado/2012-07.md |
+| decisao-colegiado | RJ2011/12826 | 2012-03-06 | deferido | O Colegiado deferiu a unificação da OPA por aumento de participação com cancelamento de registro da Ampla Investimentos e Serviços S.A. e a… | cvm-col-20120306-d20 | fichas/colegiado/2012-05.md |
+| decisao-colegiado | RJ2011/4735 | 2012-03-06 | deferido | O Colegiado deferiu à ofertante a dispensa de leilão em bolsa em OPA por aumento de participação na ALL – América Latina Logística Malha… | cvm-col-20120306-d19 | fichas/colegiado/2012-05.md |
+| decisao-colegiado | RJ2010/15144 | 2011-12-27 | nao-provido | O Colegiado indeferiu o recurso da Empresa Brasileira de Telecomunicações S.A. contra a interpretação da SRE sobre o art. 15, I, e o § 1º… | cvm-col-20111227-d03 | fichas/colegiado/2011-29.md |
+| decisao-colegiado | — | 2011-11-10 | deferido | O Colegiado deferiu pedidos de tratamento confidencial da Endesa e do Itaú para contrato de compra e venda de ações usado na análise de… | cvm-col-20111110-d01 | fichas/colegiado/2011-24.md |
+| decisao-colegiado | RJ2010/14021; RJ2010/14034 | 2011-10-11 | deferido | Pedidos de registro de OPA para cancelamento de registro com procedimento diferenciado. Proc. s. RJ2010/14021 e RJ2010/14034. | cvm-col-20111011-d01 | fichas/colegiado/2011-21.md |
+| decisao-colegiado | RJ2011/6040 | 2011-09-13 | deferido | O Colegiado concedeu à Iberdrola dispensas de instituição intermediária, edital e leilão em bolsa na OPA por alienação indireta de controle… | cvm-col-20110913-d02 | fichas/colegiado/2011-18.md |
+| decisao-colegiado | RJ2011/4540 | 2011-08-09 | deferido | O Colegiado concedeu procedimento diferenciado, com dispensa de OPA, para cancelamento do registro da Bombril Holding S.A., acompanhando a… | cvm-col-20110809-d03 | fichas/colegiado/2011-15.md |
+| decisao-colegiado | RJ2011/5965 | 2011-06-14 | outro | O Colegiado entendeu que o exercício de opções de venda em OPA registrada na CVM não é operação privada vedada, mas continuação da oferta… | cvm-col-20110614-d02 | fichas/colegiado/2011-13.md |
+| decisao-colegiado | — | 2011-06-14 | outro | Em consulta da Minerva S.A., o Colegiado, por maioria, entendeu possível oferta pública para aquisição de bônus de subscrição de própria… | cvm-col-20110614-d01-r2 | fichas/colegiado/2011-13.md |
+| decisao-colegiado | — | 2011-06-10 | deferido | O Colegiado deferiu tratamento confidencial à PARATI – Participações em Ativos de Energia Elétrica para o Contrato de Compra e Venda de… | cvm-col-20110610-d01 | fichas/colegiado/2011-13.md |
+| decisao-colegiado | — | 2011-05-27 | deferido | O Colegiado deferiu tratamento confidencial a contrato de compra e venda de ações da Elektro Eletricidade e Serviços S.A., enviado pela… | cvm-col-20110527-d01 | fichas/colegiado/2011-11.md |
+| decisao-colegiado | RJ2011/2092 | 2011-05-24 | nao-provido | O Colegiado não acatou pedido de reconsideração da CSIF Capital LLC, acionista da Vivo Participações S.A., contra decisão de 17.03.11 que… | cvm-col-20110524-d02 | fichas/colegiado/2011-11.md |
+| decisao-colegiado | RJ2011/1532 | 2011-05-10 | — | Consulta sobre oferta pública de aquisição de bônus de subscrição da Minerva S.A. Julgamento suspenso por pedido de vista. | cvm-col-20110510-d01 | fichas/colegiado/2011-10.md |
+| decisao-colegiado | RJ2010/8551 | 2011-04-26 | deferido | O Colegiado concedeu procedimento diferenciado para cancelamento de registro da Dixie Toga S.A. em OPA da Dendron Participações… | cvm-col-20110426-d05 | fichas/colegiado/2011-10.md |
+| decisao-colegiado | RJ2010/13241 | 2011-04-19 | outro | Em resposta a consulta, o Colegiado decidiu que a Suzano Holding S.A. poderia adquirir até 40.310.981 ações PNA da Suzano Papel e Celulose… | cvm-col-20110419-d08 | fichas/colegiado/2011-09.md |
+| decisao-colegiado | RJ2011/2092 | 2011-03-17 | nao-provido | O Colegiado negou provimento a recurso contra registro de OPA por alienação indireta de controle da Vivo, mantendo decisão da SRE… | cvm-col-20110317-d01 | fichas/colegiado/2011-06.md |
+| decisao-colegiado | RJ2011/1703 | 2011-03-15 | deferido | O Colegiado autorizou o Citibank DTVM, representante de seis investidores não residentes, e outros em situação semelhante, a exercerem… | cvm-col-20110315-d08 | fichas/colegiado/2011-06.md |
+| decisao-colegiado | RJ2010/13883 | 2011-02-15 | deferido | O Colegiado concedeu procedimento diferenciado para o cancelamento de registro da Sola S.A. Indústrias Alimentícias por OPA, com dispensa… | cvm-col-20110215-d24 | fichas/colegiado/2011-04.md |
+| decisao-colegiado | RJ2010/14993 | 2011-02-01 | deferido | O Colegiado deferiu a unificação das ofertas públicas de aquisição de ações da Pearson Sistemas do Brasil S.A. (alienação de controle… | cvm-col-20110201-d08 | fichas/colegiado/2011-02.md |
+| decisao-colegiado | RJ2010/14455 | 2011-02-01 | parcial | O Colegiado concedeu procedimento diferenciado no registro de OPA para cancelamento de registro da Companhia Bandeirantes de Armazéns… | cvm-col-20110201-d01 | fichas/colegiado/2011-01.md |
+| decisao-colegiado | RJ2010/17660 | 2010-12-28 | deferido | O Colegiado autorizou o Citibank DTVM, representante de 38 investidores não residentes, e outros em situação semelhante, a exercerem opção… | cvm-col-20101228-d72 | fichas/colegiado/2010-33.md |
+| decisao-colegiado | RJ2010/15828 | 2010-12-14 | deferido | O Colegiado autorizou os fundos do BNY Mellon DTVM e outros em situação semelhante a exercerem a opção de venda de ações preferenciais da… | cvm-col-20101214-d13 | fichas/colegiado/2010-29.md |
+| decisao-colegiado | RJ2010/11232 | 2010-11-16 | deferido | O Colegiado deferiu a unificação das OPAs de Tivit Terceirização de Processos, Serviços e Tecnologia S.A. (alienação de controle, saída do… | cvm-col-20101116-d09 | fichas/colegiado/2010-24.md |
+| decisao-colegiado | RJ2008/10638 | 2010-11-16 | outro | O Colegiado arquivou o recurso da Telemar Norte Leste contra decisão da SRE que cancelou o registro de OPAs da Tele Norte Celular… | cvm-col-20101116-d01 | fichas/colegiado/2010-24.md |
+| decisao-colegiado | RJ2010/8957 | 2010-10-26 | deferido | O Colegiado deferiu as dispensas pedidas pela Braskem S.A. na OPA por alienação indireta do controle da Quattor Petroquímica S.A… | cvm-col-20101026-d08 | fichas/colegiado/2010-22.md |
+| decisao-colegiado | RJ2010/14197 | 2010-10-26 | provido | O Colegiado deu provimento ao recurso da LANX Capital Investimentos Ltda., revogou a decisão da SRE que concedera o registro da OPA de… | cvm-col-20101026-d04 | fichas/colegiado/2010-21.md |
+| decisao-colegiado | RJ2010/4324 | 2010-09-28 | deferido | O Colegiado concedeu procedimento diferenciado (art. 34 da Instrução 361/02) para o cancelamento de registro da Banrisul S.A… | cvm-col-20100928-d06 | fichas/colegiado/2010-20.md |
+| decisao-colegiado | RJ2010/7754 | 2010-08-31 | deferido | O Colegiado deferiu pedido de dispensa do laudo de avaliação (art. 33 da Instrução 361/02) na OPA voluntária da Dramd sobre ações da Randon… | cvm-col-20100831-d05 | fichas/colegiado/2010-18.md |
+| decisao-colegiado | RJ2009/13094 | 2010-03-30 | deferido | O Colegiado deferiu o pedido de dispensa de laudo de avaliação (incisos VI do art. 4º e art. 8º da Instrução CVM 361/02) na OPA por… | cvm-col-20100330-d09 | fichas/colegiado/2010-10.md |
+| decisao-colegiado | RJ2009/11570 | 2010-03-23 | deferido | O Colegiado deferiu a unificação de OPAs de ações da GVT Holding S.A. (alienação de controle, aumento de participação, saída do Novo… | cvm-col-20100323-d10 | fichas/colegiado/2010-09.md |
+| decisao-colegiado | RJ2009/10288 | 2010-02-02 | deferido | O Colegiado concedeu o procedimento diferenciado para o cancelamento de registro da Companhia Maranhense de Refrigerantes S.A. por OPA da… | cvm-col-20100202-d39 | fichas/colegiado/2010-04.md |
+| decisao-colegiado | RJ2009/7502 | 2009-12-22 | parcial | O Colegiado não conheceu do pedido de dispensa do procedimento de revisão de preço (art. 4º-A da LSA, de natureza cogente), mas deferiu a… | cvm-col-20091222-d31 | fichas/colegiado/2009-24.md |
+| decisao-colegiado | RJ2009/6790 | 2009-12-08 | deferido | O Colegiado deferiu à HH II PT S.A. as dispensas de laudo, leilão, edital e intermediária na OPA por alienação de controle da Hopi Hari… | cvm-col-20091208-d19 | fichas/colegiado/2009-22.md |
+| decisao-colegiado | RJ2009/4470 | 2009-11-17 | deferido | O Colegiado deferiu dispensa de OPA para cancelamento de registro de companhia aberta (art. 16, Instrução 361/02), pelos fundamentos da… | cvm-col-20091117-d37 | fichas/colegiado/2009-21.md |
+| termo-compromisso | RJ2009/5279 | 2009-11-17 | rejeitado | Por considerar as propostas desproporcionais à gravidade da conduta, o Colegiado rejeitou propostas de termo de compromisso de três… | cvm-col-20091117-d05 | fichas/tc/2009-07.md |
+| decisao-colegiado | RJ2009/10676 | 2009-10-27 | deferido | O Colegiado autorizou a GVT Holding S.A. a negociar privadamente ações de própria emissão (art. 23 da Instrução 10/80), considerando a… | cvm-col-20091027-d16 | fichas/colegiado/2009-19.md |
+| decisao-colegiado | RJ2009/6400 | 2009-09-29 | deferido | O Colegiado concedeu à ofertante Mahle Indústria e Comércio Ltda. a dispensa do laudo de avaliação da Mahle Metal Leve S.A. na OPA… | cvm-col-20090929-d09 | fichas/colegiado/2009-17.md |
+| decisao-colegiado | RJ2008/12888 | 2009-07-28 | deferido | O Colegiado aprovou a unificação da OPA de alienação de controle da Companhia de Seguros Minas Brasil, cumpridas as demais exigências… | cvm-col-20090728-d01 | fichas/colegiado/2009-13.md |
+| decisao-colegiado | RJ2009/1956 | 2009-07-28 | nao-provido | O Colegiado manteve a decisão de 15.07.09 que, por maioria, deu provimento a recurso da Telco e afastou a exigência de OPA de ações da TIM… | cvm-col-20090728-d01-r2 | fichas/colegiado/2009-13.md |
+| decisao-colegiado | RJ2009/1956 | 2009-07-15 | provido | Recurso contra decisão da SRE. Proc. RJ2009/1956. | cvm-col-20090715-d01-r2 | fichas/colegiado/2009-13.md |
+| decisao-colegiado | RJ2009/0587 | 2009-07-14 | deferido | O Colegiado concedeu à Grandiflorum Participações S.A., em OPA por alienação de controle, as dispensas de laudo de avaliação (art. 8º da… | cvm-col-20090714-d03 | fichas/colegiado/2009-13.md |
+| decisao-colegiado | RJ2009/0610 | 2009-06-30 | deferido | O Colegiado concedeu a dispensa do laudo de avaliação na OPA por alienação de controle do Banco Nossa Caixa S.A., com procedimento… | cvm-col-20090630-d08 | fichas/colegiado/2009-12.md |
+| decisao-colegiado | RJ2009/2212 | 2009-04-14 | parcial | O Colegiado concedeu as dispensas pleiteadas para OPA de cancelamento de registro (Instrução 361/02: quórum do art. 16, II; leilão… | cvm-col-20090414-d11 | fichas/colegiado/2009-08.md |
+| decisao-colegiado | RJ2008/6891 | 2009-03-24 | deferido | O Colegiado concedeu à Finabank CTVM Ltda. a dispensa de laudo de avaliação da Recrusul S.A. na OPA por alienação de controle, nos termos… | cvm-col-20090324-d18 | fichas/colegiado/2009-05.md |
+| decisao-colegiado | RJ2009/0471 | 2009-03-03 | nao-provido | O Colegiado negou provimento a recurso de fundo acionista minoritário da COELCE e manteve decisão da SRE que não caracterizou como… | cvm-col-20090303-d07 | fichas/colegiado/2009-03.md |
+| decisao-colegiado | RJ2007/14344; RJ2008/1978 | 2009-02-03 | deferido | O Colegiado deferiu pedido da Telco S.p.A. de prorrogação por 30 dias do prazo para recorrer de decisão da SRE que determinou OPA da TIM… | cvm-col-20090203-d12 | fichas/colegiado/2009-02.md |
+| decisao-colegiado | RJ2008/7040 | 2009-02-03 | deferido | O Colegiado concedeu todas as dispensas pedidas pela Sadia S.A. na OPA unificada, com procedimento diferenciado, sobre a Excelsior… | cvm-col-20090203-d02 | fichas/colegiado/2009-01.md |
+| decisao-colegiado | RJ2008/10638 | 2008-12-16 | — | O Colegiado acolheu o recurso da Telemar Norte Leste S.A. e determinou à SRE que conceda o registro das OPAs, com a complementação de preço… | cvm-col-20081216-d11 | fichas/colegiado/2008-28.md |
+| termo-compromisso | RJ2008/1594 | 2008-12-16 | rejeitado | O Colegiado rejeitou as propostas de termo de compromisso da DFV Participações S.A. (R$ 200.000,00) e do Banco Fator S.A. (R$ 63.196,54)… | cvm-col-20081216-d02 | fichas/tc/2008-08.md |
+| decisao-colegiado | RJ2008/9658 | 2008-10-21 | parcial | O Colegiado concedeu à Quattor Participações S.A. a dispensa do art. 15 da Instrução 361/02 (limites de quantidade de ações) na OPA… | cvm-col-20081021-d07 | fichas/colegiado/2008-23.md |
+| decisao-colegiado | RJ2008/7781 | 2008-10-07 | nao-provido | O Colegiado negou provimento a recurso da Pátria Hedge – Fundo de Investimento Multimercado contra a não procedência de pleito de preço em… | cvm-col-20081007-d16 | fichas/colegiado/2008-22.md |
+| decisao-colegiado | RJ2008/4042 | 2008-09-30 | deferido | O Colegiado concedeu as dispensas de elaboração e publicação de edital e de leilão em bolsa pedidas pela Lindencorp Desenvolvimento… | cvm-col-20080930-d14 | fichas/colegiado/2008-21.md |
+| decisao-colegiado | RJ2008/4038 | 2008-09-09 | deferido | O Colegiado autorizou o pedido de OPA unificada de ações da Petroflex Indústria e Comércio S.A., requerido pela J.P. Morgan CCVM S.A. por… | cvm-col-20080909-d10 | fichas/colegiado/2008-20.md |
+| termo-compromisso | RJ2008/1594 | 2008-08-12 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso do Banco Fator S.A., intermediário de OPA para cancelamento de registro da Companhia… | cvm-col-20080812-d07 | fichas/tc/2008-06.md |
+| decisao-colegiado | RJ2008/5394 | 2008-07-15 | parcial | O Colegiado, acompanhando o voto do relator, reformou decisão da SRE que indeferiu a OPA unificada de aquisição de ações da Calçados… | cvm-col-20080715-d11 | fichas/colegiado/2008-16.md |
+| decisao-colegiado | RJ2008/4156 | 2008-06-17 | provido | Por maioria, vencido o relator, o Colegiado acolheu recurso contra entendimento da SRE que exigia OPA por alienação de controle (art. 254-A… | cvm-col-20080617-d01-r2 | fichas/colegiado/2008-13.md |
+| decisao-colegiado | RJ2008/3095; RJ2008/3105 | 2008-05-13 | deferido | O Colegiado concedeu a dispensa de OPA por alienação de controle (art. 34 da Instrução 361/02 e art. 254-A da Lei 6.404/76) à Vivo… | cvm-col-20080513-d02 | fichas/colegiado/2008-11.md |
+| termo-compromisso | RJ2007/1454 | 2008-03-18 | aceito | O Colegiado aceitou a nova proposta de termo de compromisso do acionista controlador da Granóleo S.A., acompanhando integralmente o Comitê… | cvm-col-20080318-d04 | fichas/tc/2008-02.md |
+| decisao-colegiado | RJ2008/0252 | 2008-03-04 | nao-provido | O Colegiado, acompanhando o voto do relator, negou provimento a recurso contra o indeferimento do registro de OPA por alienação indireta do… | cvm-col-20080304-d02 | fichas/colegiado/2008-06.md |
+| decisao-colegiado | RJ2007/14945 | 2008-02-26 | parcial | O Colegiado deu provimento em parte ao recurso contra exigências da SRE em OPA para cancelamento de registro da ArcelorMittal Inox Brasil… | cvm-col-20080226-d43 | fichas/colegiado/2008-05.md |
+| decisao-colegiado | RJ2007/14928 | 2008-02-26 | deferido | O Colegiado concedeu as quatro dispensas pleiteadas pela Bardot Empreendimentos e Participações S.A. na OPA com procedimento diferenciado… | cvm-col-20080226-d42 | fichas/colegiado/2008-05.md |
+| decisao-colegiado | RJ2007/14121 | 2008-01-29 | deferido | O Colegiado concedeu a dispensa de OPA para cancelamento de registro da Blue Tree Hotels & Resorts do Brasil S.A., nos termos do art. 34 da… | cvm-col-20080129-d05 | fichas/colegiado/2008-02.md |
+| decisao-colegiado | RJ2007/14099 | 2008-01-29 | deferido | O Colegiado confirmou o entendimento da RFS Holding B.V. de que não é exigível OPA por alienação de controle (art. 254-A da Lei 6.404/76)… | cvm-col-20080129-d03 | fichas/colegiado/2008-02.md |
+| termo-compromisso | RJ2007/1454; RJ2007/12121 | 2008-01-08 | outro | O Colegiado devolveu ao Comitê proposta de termo de compromisso do proponente, controlador da Granóleo, por indícios de infração ao art. 26… | cvm-col-20080108-d10 | fichas/tc/2008-01.md |
+| decisao-colegiado | RJ2007/12218 | 2008-01-08 | deferido | O Colegiado autorizou a Cosan Limited a adotar procedimento diferenciado na OPA voluntária sobre ações da Cosan Indústria e Comércio S.A… | cvm-col-20080108-d09 | fichas/colegiado/2008-01.md |
+| decisao-colegiado | RJ2007/12121 | 2007-12-11 | parcial | O Colegiado autorizou a unificação da OPA por aumento de participação com a OPA para cancelamento de registro da Granóleo S.A… | cvm-col-20071211-d21 | fichas/colegiado/2007-25.md |
+| decisao-colegiado | — | 2007-11-26 | indeferido | O Colegiado indeferiu, por unanimidade, o pedido de tratamento confidencial da National Titanium Dioxide Company LTD. sobre mensagens e… | cvm-col-20071126-d01 | fichas/colegiado/2007-23.md |
+| decisao-colegiado | RJ2007/9773 | 2007-11-13 | deferido | O Colegiado concedeu, com condições, as dispensas pedidas pela Vulcabras do Nordeste S.A. na OPA por alienação de controle da Calçados… | cvm-col-20071113-d30 | fichas/colegiado/2007-23.md |
+| decisao-colegiado | RJ2007/3296 | 2007-10-31 | provido | Em pedido de reconsideração da decisão de 18.09.07 sobre OPA unificada da TRAFO Equipamentos Elétricos S.A., o Colegiado reformou a decisão… | cvm-col-20071031-d01 | fichas/colegiado/2007-21.md |
+| decisao-colegiado | RJ2007/11573 | 2007-10-17 | — | Pedido de reconsideração de acionistas preferencialistas das Ipiranga contra decisão do Colegiado de 04.10.07, que negou provimento a… | cvm-col-20071017-d02 | fichas/colegiado/2007-19.md |
+| decisao-colegiado | RJ2007/8519 | 2007-10-09 | deferido | O Colegiado acompanhou a área técnica e aprovou o registro de OPA unificada da Tavex Algodonera S.A., por aumento de participação e para… | cvm-col-20071009-d06 | fichas/colegiado/2007-19.md |
+| decisao-colegiado | RJ2007/11573 | 2007-10-04 | nao-provido | O Colegiado negou provimento a recurso de acionistas preferencialistas contra a SRE sobre laudo de avaliação das OPAs de RPI, DPPI e CBPI… | cvm-col-20071004-d01 | fichas/colegiado/2007-18.md |
+| decisao-colegiado | RJ2007/0646 | 2007-10-02 | outro | O Colegiado facultou à ofertante, na OPA da Banex S.A. CFI, escolher entre novo leilão, com a antiga denominação em destaque e inversão do… | cvm-col-20071002-d01 | fichas/colegiado/2007-18.md |
+| decisao-colegiado | RJ2007/3296 | 2007-09-18 | parcial | O Colegiado não autorizou a unificação das ofertas de OPA sobre a TRAFO nos termos propostos pela SRE, que a recomendava, por não assegurar… | cvm-col-20070918-d11 | fichas/colegiado/2007-17.md |
+| decisao-colegiado | RJ2007/4022 | 2007-09-14 | outro | O Colegiado autorizou o envio de novas exigências à ofertante e ao intermediário no registro da OPA da Companhia Brasileira de Petróleo… | cvm-col-20070914-d01-r2 | fichas/colegiado/2007-16.md |
+| decisao-colegiado | RJ2007/4500 | 2007-09-04 | deferido | O Colegiado aprovou, acompanhando a SRE, a dispensa de laudo de avaliação e de instituição intermediária na OPA com procedimento… | cvm-col-20070904-d04 | fichas/colegiado/2007-16.md |
+| decisao-colegiado | RJ2007/8887 | 2007-08-21 | nao-provido | O Colegiado negou provimento a recurso da Geração Futuro Corretora de Valores S/A e manteve a decisão da SRE que indeferiu o registro de… | cvm-col-20070821-d12 | fichas/colegiado/2007-15.md |
+| decisao-colegiado | RJ2007/3296 | 2007-08-14 | parcial | O Colegiado concedeu, a pedido da SRE, prazo suplementar para a área comunicar à WEG e ao intermediário sua posição final sobre o registro… | cvm-col-20070814-d04 | fichas/colegiado/2007-15.md |
+| decisao-colegiado | RJ2007/7230 | 2007-07-11 | nao-provido | O Colegiado negou provimento a recurso de acionistas da Copesul contra a SRE, que não exigiu OPA por alienação de controle. Fundamento: no… | cvm-col-20070711-d01-r2 | fichas/colegiado/2007-13.md |
+| decisao-colegiado | RJ2007/3623 | 2007-07-10 | outro | O Colegiado, ouvida a área técnica, condicionou a validação do laudo de avaliação da OPA para cancelamento de registro da Copesul ao… | cvm-col-20070710-d24 | fichas/colegiado/2007-13.md |
+| decisao-colegiado | RJ2005/0137 | 2007-07-10 | deferido | O Colegiado reconheceu a inexistência de obrigação de OPA por alienação do controle da Companhia Docas de Imbituba (art. 254-A, Lei… | cvm-col-20070710-d04 | fichas/colegiado/2007-12.md |
+| decisao-colegiado | RJ2006/8591 | 2007-06-28 | outro | Em pedido de reconsideração, o Colegiado decidiu que o pedido de registro da OPA da Energisa S.A. (aumento de participação, art. 34 da… | cvm-col-20070628-d12 | fichas/colegiado/2007-11.md |
+| decisao-colegiado | RJ2007/5587 | 2007-05-29 | outro | O Colegiado decidiu, contra o entendimento da SRE, que as OPAs voluntárias da Telemar Participações não precisam de registro na CVM… | cvm-col-20070529-d11 | fichas/colegiado/2007-08.md |
+| decisao-colegiado | RJ2007/1590 | 2007-05-29 | deferido | O Colegiado aprovou a dispensa de leilão na liquidação da OPA para cancelamento de registro da Companhia Eldorado de Hotéis, com… | cvm-col-20070529-d05 | fichas/colegiado/2007-08.md |
+| decisao-colegiado | RJ2006/3881 | 2007-05-08 | outro | O Colegiado suspendeu, até 08.06.07, o prazo de análise (art. 9º da Instrução CVM 361/02) do pedido de registro de OPA de ações da Plascar… | cvm-col-20070508-d08 | fichas/colegiado/2007-07.md |
+| decisao-colegiado | RJ2007/1996 | 2007-04-17 | provido | O Colegiado deu provimento a pedido de reconsideração da Mittal Steel Company N.V. na OPA de Arcelor Brasil S.A.: unificou a OPA por… | cvm-col-20070417-d08 | fichas/colegiado/2007-06.md |
+| decisao-colegiado | RJ2006/7658 | 2007-04-11 | indeferido | O Colegiado indeferiu o pedido de afastamento da OPA obrigatória por alienação indireta de controle da Elektro Eletricidade e Serviços S.A… | cvm-col-20070411-d07 | fichas/colegiado/2007-05.md |
+| decisao-colegiado | RJ2006/8131 | 2007-03-27 | indeferido | O Colegiado indeferiu, quanto ao laudo de avaliação, o pedido de dispensa na OPA para cancelamento de registro das Indústrias Micheletto… | cvm-col-20070327-d06 | fichas/colegiado/2007-05.md |
+| decisao-colegiado | RJ2006/3739 | 2007-03-27 | deferido | O Colegiado deferiu a extensão do prazo do art. 10, § 2º, da Instrução 361/02 na OPA voluntária da Embratel Participações: opção de venda… | cvm-col-20070327-d05 | fichas/colegiado/2007-05.md |
+| decisao-colegiado | RJ2007/1996 | 2007-03-21 | parcial | O Colegiado decidiu em parte o recurso das recorrentes contra decisão da SRE sobre o preço da OPA da Arcelor Brasil: dispensou o laudo de… | cvm-col-20070321-d01 | fichas/colegiado/2007-04.md |
+| decisao-colegiado | — | 2007-02-27 | deferido | Solicitação de tratamento confidencial. | cvm-col-20070227-d01 | fichas/colegiado/2007-04.md |
+| decisao-colegiado | RJ2006/8591 | 2007-02-26 | parcial | O Colegiado, acompanhando a SRE, concedeu a dispensa de edital de oferta e de leilão em bolsa na OPA com procedimento diferenciado da… | cvm-col-20070226-d11 | fichas/colegiado/2007-03.md |
+| decisao-colegiado | RJ2006/6802 | 2007-01-16 | parcial | O Colegiado deferiu a dispensa de laudo de avaliação (art. 8º, Instrução 361/02) na OPA para alienação de controle da Light S.A. pela Rio… | cvm-col-20070116-d03 | fichas/colegiado/2007-01.md |
+| decisao-colegiado | RJ2006/5611 | 2006-12-19 | deferido | O Colegiado aprovou a dispensa de leilão em bolsa ou balcão organizado no procedimento diferenciado de OPA para cancelamento de registro da… | cvm-col-20061219-d15 | fichas/colegiado/2006-20.md |
+| decisao-colegiado | RJ2006/6148 | 2006-12-12 | deferido | O Colegiado concedeu as dispensas recomendadas pela SRE (MEMO/SRE/GER-1 nº 275/06) no procedimento diferenciado de cancelamento de registro… | cvm-col-20061212-d09 | fichas/colegiado/2006-19.md |
+| decisao-colegiado | RJ2006/5046 | 2006-12-12 | parcial | O Colegiado deferiu em parte procedimento diferenciado em OPA da Empresa Energética de Sergipe S.A. para cancelar registro: indeferiu… | cvm-col-20061212-d08 | fichas/colegiado/2006-19.md |
+| decisao-colegiado | RJ2006/4799 | 2006-12-12 | deferido | O Colegiado concedeu à Renosa Indústria Brasileira de Bebidas S.A. as dispensas pleiteadas no registro de OPA por alienação de controle da… | cvm-col-20061212-d07 | fichas/colegiado/2006-19.md |
+| decisao-colegiado | RJ2006/4035 | 2006-11-22 | deferido | O Colegiado concedeu à Casino Guichard Perrachon S.A. as dispensas de laudo de avaliação e de leilão no registro de OPA por alienação de… | cvm-col-20061122-d02 | fichas/colegiado/2006-17.md |
+| decisao-colegiado | RJ2006/3881 | 2006-11-13 | deferido | O Colegiado, acompanhando a área técnica, autorizou a OPA de ações da Plascar Participações Industriais S.A. com procedimento diferenciado… | cvm-col-20061113-d01 | fichas/colegiado/2006-17.md |
+| decisao-colegiado | RJ2004/2906 | 2006-09-26 | nao-provido | O Colegiado negou provimento ao recurso da ANIMEC contra decisão da SRE e julgou improcedente a reclamação de ex-acionistas por diferença… | cvm-col-20060926-d01 | fichas/colegiado/2006-14.md |
+| decisao-colegiado | RJ2006/6209 | 2006-09-25 | nao-provido | Recurso contra a decisão da SEP. Proc. RJ2006/6209. | cvm-col-20060925-d01 | fichas/colegiado/2006-14.md |
+| decisao-colegiado | RJ2006/3739 | 2006-07-27 | provido | O Colegiado aprovou os dois pedidos de reconsideração do Unibanco, intermediário da OPA da Embratel Participações: reabrir o prazo do § 2º… | cvm-col-20060727-d01 | fichas/colegiado/2006-12.md |
+| decisao-colegiado | RJ2006/3739 | 2006-07-18 | parcial | O Colegiado negou provimento a recurso contra exigência da SRE sobre declaração do laudo de avaliação (§ 6º do art. 8º da Instrução CVM… | cvm-col-20060718-d12 | fichas/colegiado/2006-11.md |
+| decisao-colegiado | RJ2005/4069 | 2006-04-11 | nao-provido | O Colegiado negou provimento ao recurso da Companhia Brasileira de Distribuição contra decisão da SEP e da SRE que exigiu oferta pública de… | cvm-col-20060411-d02 | fichas/colegiado/2006-06.md |
+| decisao-colegiado | RJ2006/0338 | 2006-03-21 | deferido | O Colegiado deferiu registro de OPA unificada (cancelamento de registro e alienação de controle) do Banco Bradesco sobre o Banco BEC, com… | cvm-col-20060321-d08 | fichas/colegiado/2006-05.md |
+| decisao-colegiado | RJ2005/7429 | 2006-02-15 | deferido | O Colegiado aprovou a dispensa de leilão em bolsa, nos termos do Memo/SRE/GER-1/Nº 28/06, no registro de OPA para cancelamento de registro… | cvm-col-20060215-d10 | fichas/colegiado/2006-03.md |
+| decisao-colegiado | RJ2005/3917 | 2006-01-31 | outro | Em consulta da SRE sobre OPA para cancelamento de registro da Manasa, o Colegiado entendeu, por maioria, que o preço justo pode variar por… | cvm-col-20060131-d06 | fichas/colegiado/2006-02.md |
+| decisao-colegiado | RJ2005/4763 | 2006-01-31 | outro | Em recurso contra a SRE, que indeferiu registro de OPA por alienação de controle por descumprimento de exigências, o Colegiado acompanhou o… | cvm-col-20060131-d01 | fichas/colegiado/2006-02.md |
+| acordao-crsfn | RJ-2004/5131 | 2006-01-25 | absolvicao | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Oferta pública de ações – Falta de encaminhamento do material publicitário à CVM em… | crsfn-6594 | fichas/crsfn/2006-01.md |
+| decisao-colegiado | RJ2005/7481 | 2005-12-27 | parcial | O Colegiado acolheu em parte pedido da Caiuá e concedeu dispensa de laudo de avaliação em OPA, nos termos do art. 34 da Instrução CVM… | cvm-col-20051227-d06 | fichas/colegiado/2005-20.md |
+| decisao-colegiado | RJ2005/7473 | 2005-12-06 | nao-provido | O Colegiado manteve a decisão de 30.09.05 sobre a OPA unificada da Jari Celulose S.A. ao julgar pedido de reconsideração da Saga… | cvm-col-20051206-d11 | fichas/colegiado/2005-19.md |
+| decisao-colegiado | RJ2005/3917 | 2005-12-06 | indeferido | O Colegiado indeferiu o pedido de registro de OPA para cancelamento de registro da Manasa – Madeireira Nacional S.A., com avaliação pelo… | cvm-col-20051206-d10 | fichas/colegiado/2005-19.md |
+| decisao-colegiado | RJ2005/6228 | 2005-10-26 | deferido | O Colegiado concedeu a dispensa pleiteada pela Suzano Química Ltda. para a adoção de procedimento diferenciado (art. 34, ICVM 361/02) em… | cvm-col-20051026-d03 | fichas/colegiado/2005-16.md |
+| decisao-colegiado | RJ2005/6223 | 2005-10-26 | deferido | O Colegiado concedeu a dispensa pleiteada na OPA para cancelamento de registro da Polipropileno Participações S.A., com procedimento… | cvm-col-20051026-d02 | fichas/colegiado/2005-16.md |
+| decisao-colegiado | RJ2005/6228 | 2005-10-25 | — | Pedido da Suzano Química Ltda. de registro de OPA de ações ordinárias e preferenciais para cancelamento de registro de Polipropileno S.A… | cvm-col-20051025-d09 | fichas/colegiado/2005-16.md |
+| decisao-colegiado | RJ2005/6223 | 2005-10-25 | — | Pedido de Suzano Química Ltda. de registro de OPA para cancelamento do registro de companhia aberta da Polipropileno Participações S.A… | cvm-col-20051025-d08 | fichas/colegiado/2005-16.md |
+| decisao-colegiado | RJ2005/0568 | 2005-09-30 | deferido | Acompanhando a área técnica, o Colegiado concedeu as dispensas dos itens i (inversão do quórum de validação) e ii (sem leilão) na OPA com… | cvm-col-20050930-d08 | fichas/colegiado/2005-14.md |
+| decisao-colegiado | RJ2005/1945 | 2005-09-30 | deferido | O Colegiado concedeu os pedidos de procedimento diferenciado da OPA da Jari Celulose S.A., inclusive quanto ao critério de preço justo, sem… | cvm-col-20050930-d03 | fichas/colegiado/2005-13.md |
+| decisao-colegiado | RJ2005/2670 | 2005-08-23 | deferido | O Colegiado aprovou, nos termos do Memo/SRE/GER-1/139/05, o procedimento diferenciado de OPA por aumento de participação na AES Sul… | cvm-col-20050823-d05 | fichas/colegiado/2005-12.md |
+| decisao-colegiado | RJ2005/2789 | 2005-08-09 | indeferido | O Colegiado indeferiu pedido de dispensa de OPA da Caiuá-Serviços de Eletricidade S.A. por aumento de participação na Celpa, decidindo pela… | cvm-col-20050809-d07 | fichas/colegiado/2005-11.md |
+| decisao-colegiado | RJ2005/1785 | 2005-06-21 | deferido | O Colegiado deferiu o pedido da Royal Transportes e Serviços Ltda. para dispensá-la da OPA por aumento de participação na Companhia Docas… | cvm-col-20050621-d03 | fichas/colegiado/2005-09.md |
+| decisao-colegiado | RJ2005/0225 | 2005-04-19 | deferido | O Colegiado deferiu procedimento diferenciado de OPA da CST (unificação das OPAs de aumento de participação e de alienação de controle… | cvm-col-20050419-d04 | fichas/colegiado/2005-07.md |
+| decisao-colegiado | RJ2004/5854 | 2005-04-12 | deferido | O Colegiado autorizou o cancelamento do registro de companhia aberta da Cimetal Siderurgia S.A. (em liquidação) independentemente de OPA… | cvm-col-20050412-d07 | fichas/colegiado/2005-06.md |
+| decisao-colegiado | RJ2004/5601 | 2005-03-22 | deferido | O Colegiado deferiu a modificação do instrumento da OPA de alienação de controle da Companhia de Bebidas das Américas (Ambev), nos termos… | cvm-col-20050322-d10 | fichas/colegiado/2005-05.md |
+| decisao-colegiado | RJ2005/688 | 2005-03-22 | deferido | O Colegiado entendeu não haver necessidade de OPA por alienação de controle da Dixie Toga S.A., pedida pela Misbe Participações Ltda… | cvm-col-20050322-d04 | fichas/colegiado/2005-05.md |
+| decisao-colegiado | RJ2004/6169 | 2005-03-14 | deferido | O Colegiado concedeu a dispensa de leilão em bolsa na OPA para cancelamento de registro da Steviafarma Industrial S.A., formulada pela… | cvm-col-20050314-d04 | fichas/colegiado/2005-05.md |
+| decisao-colegiado | RJ2004/5813 | 2005-02-15 | nao-provido | O Colegiado indeferiu recurso contra decisão da SRE que não exigiu OPA por aumento de participação do controlador da Fitejuta, pois no… | cvm-col-20050215-d01 | fichas/colegiado/2005-03.md |
+| pas | RJ2004/4627 | 2005-01-28 | condenacao | I.B. SABBÁ S/A Violação ao disposto nos artigos 12 da Instrução CVM nº 299/99 e 26 da Instrução CVM nº 361/02 - advertência. | cvm-pas-rj2004-4627 | fichas/pas/2005-02.md |
+| decisao-colegiado | RJ2004/6623 | 2005-01-25 | indeferido | O Colegiado indeferiu o pedido da Comafal de dispensa do laudo de avaliação na OPA de alienação de controle da Indústrias Micheletto S.A… | cvm-col-20050125-d09 | fichas/colegiado/2005-02.md |
+| decisao-colegiado | RJ2004/5125 | 2005-01-25 | parcial | O Colegiado acolheu parcialmente o pedido da NET Serviços de Comunicação S.A. de OPA para cancelar o registro da CMA Participações S.A… | cvm-col-20050125-d03 | fichas/colegiado/2005-02.md |
+| decisao-colegiado | RJ2004/5732 | 2005-01-04 | nao-provido | O Colegiado indeferiu o recurso e manteve a decisão da SRE que negou registro de OPA para cancelamento de registro da Indústrias Arteb… | cvm-col-20050104-d02 | fichas/colegiado/2005-01.md |
+| decisao-colegiado | RJ2004/5417 | 2005-01-04 | deferido | O Colegiado deferiu o registro da OPA da Coteminas sobre a Companhia Tecidos Santanense, por alienação indireta de controle com… | cvm-col-20050104-d01 | fichas/colegiado/2005-01.md |
+| decisao-colegiado | RJ2004/6755 | 2004-12-23 | deferido | O Colegiado autorizou a oferta pública unificada de ações da Seara Alimentos S.A., pedida pela Cargill Agrícola S.A. com procedimento… | cvm-col-20041223-d07 | fichas/colegiado/2004-16.md |
+| pas | RJ2004/5131 | 2004-12-17 | absolvicao | Não caracterização de violação ao disposto no art. 9º e no Anexo I, item II, alínea “i”, da Instrução CVM nº 361/02 - Obrigação de… | cvm-pas-rj2004-5131 | fichas/pas/2004-16.md |
+| decisao-colegiado | RJ2004/3487 | 2004-12-16 | deferido | O Colegiado autorizou a modificação da OPA voluntária da AES Sul Distribuidora Gaúcha de Energia S.A. (art. 5º, § 4º, Instrução CVM… | cvm-col-20041216-d01 | fichas/colegiado/2004-16.md |
+| decisao-colegiado | RJ2004/6333 | 2004-11-30 | deferido | O Colegiado, acompanhando o relator, reconheceu atendida a exigência de que a operação não ocasionará OPA por aumento de participação (art… | cvm-col-20041130-d03 | fichas/colegiado/2004-15.md |
+| decisao-colegiado | RJ2004/5248 | 2004-11-16 | deferido | O Colegiado autorizou os controladores da Suzano Holding S.A. a alienar o excesso de participação, como procedimento alternativo à OPA por… | cvm-col-20041116-d03 | fichas/colegiado/2004-14.md |
+| decisao-colegiado | RJ2004/4912 | 2004-11-16 | deferido | O Colegiado acompanhou o voto da relatora e autorizou a alienação do excesso de participação dos controladores da Cimob Participações S.A… | cvm-col-20041116-d02 | fichas/colegiado/2004-14.md |
+| decisao-colegiado | RJ2004/6333 | 2004-11-03 | parcial | O Colegiado autorizou operações fora de bolsa com ações em tesouraria da Braskem, condicionadas à inexistência de oferta obrigatória por… | cvm-col-20041103-d04 | fichas/colegiado/2004-13.md |
+| decisao-colegiado | RJ2004/6333 | 2004-10-25 | — | Consulta de Pactual Asset Management, Banco Pactual, Braskem e Polialden sobre operações com ações em tesouraria da Braskem e permuta de… | cvm-col-20041025-d09 | fichas/colegiado/2004-13.md |
+| decisao-colegiado | RJ2004/5601 | 2004-10-05 | outro | Em consulta da SRE sobre a forma de pagamento na OPA por alienação indireta de controle da AMBEV (art. 254-A), o Colegiado manifestou, no… | cvm-col-20041005-d05 | fichas/colegiado/2004-12.md |
+| decisao-colegiado | RJ2004/5368 | 2004-10-05 | parcial | O Colegiado, acompanhando o relator, manteve o entendimento da SRE: indeferiu, em recurso da Eletromoura S.A., a dispensa de OPA para… | cvm-col-20041005-d04 | fichas/colegiado/2004-12.md |
+| decisao-colegiado | RJ2004/3487 | 2004-10-05 | indeferido | O Colegiado, por unanimidade, não acolheu o pedido da AES Infoenergy Ltda. de OPA sobre ações da AES Sul Distribuidora Gaúcha de Energia… | cvm-col-20041005-d01 | fichas/colegiado/2004-12.md |
+| decisao-colegiado | RJ2004/4563 | 2004-09-10 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SRE que não autorizou a alienação de controle de companhia aberta. Decidiu que a… | cvm-col-20040910-d05 | fichas/colegiado/2004-11.md |
+| pas | RJ2002/7635 | 2004-09-09 | condenacao | Violação dos parágrafos 2º e 3º do art. 7º da Instrução CVM nº 361/02 - dever de diligência. | cvm-pas-rj2002-7635 | fichas/pas/2004-10.md |
+| decisao-colegiado | RJ2004/2130 | 2004-08-31 | outro | Por ser imposição legal, a CVM não pode dispensar OPA por alienação de controle; o pedido foi recebido como consulta. Consultado, o… | cvm-col-20040831-d01 | fichas/colegiado/2004-10.md |
+| decisao-colegiado | RJ2004/5297 | 2004-08-24 | deferido | O Colegiado autorizou as dispensas e acréscimos pleiteados pela Brasilcel, N.V. para procedimento diferenciado, em caráter confidencial, em… | cvm-col-20040824-d11 | fichas/colegiado/2004-10.md |
+| decisao-colegiado | RJ2004/3579 | 2004-08-24 | indeferido | O Colegiado entendeu que a CVM não pode dispensar OPA por alienação de controle, por se tratar de imposição legal, e recebeu o pedido da… | cvm-col-20040824-d09 | fichas/colegiado/2004-10.md |
+| decisao-colegiado | RJ2003/12826 | 2004-07-13 | deferido | O Colegiado aprovou as dispensas pleiteadas pela Itaparica S.A. Empreendimentos Turísticos de registro de OPA para cancelamento de registro… | cvm-col-20040713-d02 | fichas/colegiado/2004-08.md |
+| decisao-colegiado | RJ2002/2776 | 2004-06-24 | — | Pedido de dilação de prazo da Metalúrgica de Tubos de Precisão Ltda. para atender exigências em processo de OPA de ações da SIFCO S.A. O… | cvm-col-20040624-d19 | fichas/colegiado/2004-07.md |
+| decisao-colegiado | RJ2004/1807 | 2004-06-15 | deferido | O Colegiado acatou o pleito do Banco Bradesco S.A. para realizar OPA de emissão do Banco BEM S.A. com procedimento diferenciado, nos termos… | cvm-col-20040615-d08 | fichas/colegiado/2004-07.md |
+| decisao-colegiado | RJ2003/6977 | 2004-06-01 | deferido | O Colegiado acolheu pedido de registro de oferta pública com procedimento diferenciado (art. 34 da Instrução CVM 361/02) relativo à Newtel… | cvm-col-20040601-d03 | fichas/colegiado/2004-06.md |
+| decisao-colegiado | RJ2003/13524 | 2004-03-16 | deferido | O Colegiado aprovou a realização de oferta pública unificada de aquisição de ações da Cremer S.A., requerida pela Merrill Lynch S.A. CTVM… | cvm-col-20040316-d04 | fichas/colegiado/2004-04.md |
+| decisao-colegiado | RJ2003/6134 | 2004-03-09 | nao-provido | O Colegiado acompanhou o voto do diretor-relator e manteve, em reconsideração, a decisão de 25/11/2003 que indeferiu procedimento… | cvm-col-20040309-d15 | fichas/colegiado/2004-03.md |
+| decisao-colegiado | RJ2003/12171 | 2004-03-09 | provido | O Colegiado acolheu recurso contra o indeferimento, pela SRE, do registro de OPA. Aprovou OPA com procedimento diferenciado da Douat Cia… | cvm-col-20040309-d13 | fichas/colegiado/2004-03.md |
+| decisao-colegiado | RJ2003/12666 | 2004-01-27 | deferido | O Colegiado acolheu pedido da Souto Vidigal S.A. de procedimento diferenciado (art. 34 da ICVM 361/02) na OPA das ações em circulação para… | cvm-col-20040127-d07 | fichas/colegiado/2004-02.md |
+| decisao-colegiado | RJ2003/13085 | 2004-01-27 | deferido | O Colegiado acolheu o pedido de registro de OPA com procedimento diferenciado (art. 34 da IN CVM 361/02) da Cimpor Brasil Ltda., por… | cvm-col-20040127-d06 | fichas/colegiado/2004-02.md |
+| decisao-colegiado | RJ2003/12989 | 2004-01-27 | deferido | O Colegiado acolheu o pedido de realização de OPA unificada da Latasa S.A. com procedimento diferenciado (art. 34 da IN CVM 361/02)… | cvm-col-20040127-d02 | fichas/colegiado/2004-01.md |
+| decisao-colegiado | RJ2003/11238 | 2004-01-27 | indeferido | O Colegiado indeferiu, na OPA da Lince Participações para cancelar o registro da Círculo S.A., dispensas de leilão em bolsa, de laudo de… | cvm-col-20040127-d01 | fichas/colegiado/2004-01.md |
+| decisao-colegiado | RJ2003/12844 | 2004-01-21 | deferido | O Colegiado deferiu pedido da Cia. Real de Valores DTVM, por conta do ABN AMRO Real, para oferta pública unificada de aquisição de ações do… | cvm-col-20040121-d09 | fichas/colegiado/2004-01.md |
+| decisao-colegiado | RJ2003/7470 | 2004-01-21 | deferido | O Colegiado acompanhou o voto do relator e deferiu o pleito da Metalúrgica de Tubos de Precisão Ltda. para realizar OPA unificada com… | cvm-col-20040121-d04 | fichas/colegiado/2004-01.md |
+| decisao-colegiado | RJ2003/12825 | 2004-01-21 | deferido | O Colegiado aprovou o pedido da Cajati Participações Ltda. de registro de OPA sobre ações da Fosfertil S.A. com procedimento diferenciado… | cvm-col-20040121-d03 | fichas/colegiado/2004-01.md |
+| decisao-colegiado | RJ2003/6134 | 2003-11-25 | indeferido | O Colegiado indeferiu o pleito da Votorantim Cimentos Ltda. de procedimento diferenciado em OPA para cancelamento de registro da Companhia… | cvm-col-20031125-d03 | fichas/colegiado/2003-14.md |
+| decisao-colegiado | RJ2003/4854 | 2003-11-04 | deferido | O Colegiado concedeu à Cimpor do Brasil Ltda. prazo de 30 dias para atender às determinações da SRE sobre dispensa de OPA por aumento de… | cvm-col-20031104-d06 | fichas/colegiado/2003-12.md |
+| decisao-colegiado | RJ2003/7909 | 2003-10-28 | deferido | Pedido de OPA com procedimento diferenciado da Trikem S.A. O Colegiado aceitou, para apuração do preço justo, o critério de avaliação… | cvm-col-20031028-d09 | fichas/colegiado/2003-12.md |
+| decisao-colegiado | RJ2003/8119 | 2003-10-14 | outro | O Colegiado aprovou o pedido de desistência do recurso da Randon Participações S.A. e remeteu à área técnica o reexame da OPA relativa à… | cvm-col-20031014-d04 | fichas/colegiado/2003-12.md |
+| decisao-colegiado | RJ2003/6507 | 2003-09-30 | deferido | O Colegiado aprovou o pedido de procedimento diferenciado para unificar a OPA por alienação de controle com a OPA para cancelamento de… | cvm-col-20030930-d02 | fichas/colegiado/2003-11.md |
+| decisao-colegiado | RJ2003/2369 | 2003-09-30 | parcial | Por maioria, o Colegiado autorizou a adoção de procedimento diferenciado na OPA da Brasil Telecom Participações S.A., mas não concedeu a… | cvm-col-20030930-d01 | fichas/colegiado/2003-11.md |
+| decisao-colegiado | RJ2003/5870 | 2003-09-23 | deferido | O Colegiado deferiu o pedido de OPA com procedimento diferenciado para cancelamento de registro da Coinvest – Companhia de Investimentos… | cvm-col-20030923-d03 | fichas/colegiado/2003-11.md |
+| decisao-colegiado | — | 2003-09-23 | nao-provido | O Colegiado, acompanhando o voto do Diretor-Relator, indeferiu o pedido de reconsideração e manteve a decisão de 14.07.2003 sobre a OPA da… | cvm-col-20030923-d02 | fichas/colegiado/2003-11.md |
+| decisao-colegiado | RJ2003/6670 | 2003-09-11 | parcial | O Colegiado aprovou procedimentos diferenciados e autorizou a Unibanco Holdings a operar com ações de própria emissão. Não acatou… | cvm-col-20030911-d01 | fichas/colegiado/2003-11.md |
+| decisao-colegiado | RJ2003/5464 | 2003-07-14 | outro | O Colegiado considerou imprópria a restrição à alteração da titularidade dos créditos referentes ao preço de aquisição das ações e aceitou… | cvm-col-20030714-d03 | fichas/colegiado/2003-09.md |
+| decisao-colegiado | RJ2003/5464 | 2003-07-02 | deferido | O Colegiado aprovou o pedido de registro da OPA da Telesp Celular Participações, com procedimento diferenciado, pela alienação de controle… | cvm-col-20030702-d01 | fichas/colegiado/2003-09.md |
+| decisao-colegiado | RJ2003/2928 | 2003-06-10 | deferido | O Colegiado aprovou, acompanhando a diretora relatora, o pedido de procedimento diferenciado (art. 34 da Instrução CVM 361/02) em OPA para… | cvm-col-20030610-d02 | fichas/colegiado/2003-07.md |
+| decisao-colegiado | RJ2003/5581 | 2003-06-03 | parcial | O Colegiado aprovou a interpretação da SRE: na OPA concorrente que cumpra as alíneas do art. 13, § 4º, da Instrução CVM 361/02… | cvm-col-20030603-d14 | fichas/colegiado/2003-07.md |
+| decisao-colegiado | RJ2003/4010 | 2003-05-26 | nao-provido | O Colegiado negou provimento ao recurso da Newtel Participações S.A. contra exigência de OPA em aquisição indireta de ações de companhia… | cvm-col-20030526-d04 | fichas/colegiado/2003-07.md |
+| decisao-colegiado | RJ2002/5160 | 2003-05-20 | deferido | O Colegiado deferiu a dispensa de laudo de avaliação na OPA da Fras-Le S.A. pedida pela Randon Participações S.A., com base no art. 34 da… | cvm-col-20030520-d01 | fichas/colegiado/2003-06.md |
+| decisao-colegiado | RJ2003/1590 | 2003-04-17 | deferido | O Colegiado acolheu o pedido de registro de OPA unificada da Bahema Equipamentos S/A, nos termos do art. 34, § 2º, da Instrução CVM 361/02… | cvm-col-20030417-d06 | fichas/colegiado/2003-05.md |
+| decisao-colegiado | RJ2002/7753 | 2003-04-17 | deferido | O Colegiado acolheu o pedido de registro de OPA unificada da Rhodia-Ster S.A., para cancelamento de registro de companhia aberta e… | cvm-col-20030417-d05 | fichas/colegiado/2003-05.md |
+| decisao-colegiado | RJ2003/0128 | 2003-04-17 | deferido | O Colegiado aprovou o pedido de adoção de procedimento diferenciado em oferta pública de aquisição de ações da Tigre S.A. Tubos e Conexões… | cvm-col-20030417-d03 | fichas/colegiado/2003-04.md |
+| decisao-colegiado | RJ2002/2776 | 2003-04-17 | nao-provido | O Colegiado negou pedido de reconsideração e manteve a decisão anterior que indeferiu a dispensa de realização de OPA de ações ordinárias… | cvm-col-20030417-d02 | fichas/colegiado/2003-04.md |
+| decisao-colegiado | RJ2002/7915 | 2003-04-01 | nao-provido | O Colegiado negou provimento a recurso contra o deferimento, pela SRE, do registro de OPA de ações ordinárias da Ciquine, mantendo o preço… | cvm-col-20030401-d04 | fichas/colegiado/2003-04.md |
+| acordao-crsfn | 05/99 | 2003-03-26 | arquivamento | RECURSOS VOLUNTÁRIOS – Mercado de valores mobiliários – Prática não eqüitativa – Oferta pública de compra de ações preferenciais – Ausência… | crsfn-3640 | fichas/crsfn/2003-02.md |
+| decisao-colegiado | RJ2002/3430 | 2003-02-17 | outro | Em consulta do Banco Itaú S.A., o Colegiado acompanhou o voto do diretor-relator e fixou entendimento de que o resgate de ações em… | cvm-col-20030217-d01 | fichas/colegiado/2003-02.md |
+| decisao-colegiado | RJ2002/7383 | 2003-01-28 | nao-provido | O Colegiado acompanhou o voto do diretor-relator, que manteve a decisão da SRE, e negou provimento a recurso contra a determinação de OPA… | cvm-col-20030128-d01 | fichas/colegiado/2003-02.md |
+| decisao-colegiado | RJ2002/2776 | 2003-01-21 | indeferido | O Colegiado indeferiu o pedido de dispensa de OPA por alienação de controle de ações ordinárias da Sifco S.A., acompanhando o voto do… | cvm-col-20030121-d06 | fichas/colegiado/2003-01.md |
+| decisao-colegiado | RJ2002/7608 | 2003-01-08 | deferido | O Colegiado aprovou, com condições, o procedimento diferenciado da OPA para cancelamento de registro do Banco de Pernambuco S.A. (BANDEPE)… | cvm-col-20030108-d08 | fichas/colegiado/2003-01.md |
+| decisao-colegiado | RJ2002/7858 | 2002-12-23 | provido | O Colegiado aprovou, nos termos do art. 34 da Instrução CVM 361/02, procedimento diferenciado para o laudo da companhia: patrimônio líquido… | cvm-col-20021223-d07 | fichas/colegiado/2002-26.md |
+| decisao-colegiado | RJ2002/6763 | 2002-12-10 | deferido | O Colegiado aprovou o pedido da Braskem S.A. de adoção de procedimento diferenciado na OPA por alienação indireta do controle da… | cvm-col-20021210-d04 | fichas/colegiado/2002-26.md |
+| decisao-colegiado | — | 2002-12-02 | outro | O Colegiado acompanhou o voto do diretor-relator, nos termos do MEMO/CVM/GJU-1/Nº 258/02, em consulta da SRE sobre o critério de… | cvm-col-20021202-d01 | fichas/colegiado/2002-26.md |
+| decisao-colegiado | — | 2002-10-21 | deferido | O Colegiado autorizou a OPA unificada pelo Banco BEA S.A., formulada pelo Banco Bradesco S.A., com procedimento diferenciado (art. 34 da… | cvm-col-20021021-d03 | fichas/colegiado/2002-24.md |
+| decisao-colegiado | RJ2002/4820 | 2002-10-10 | provido | O Colegiado deu provimento ao recurso da Biobrás S.A. contra o indeferimento pela SRE do registro de OPA para cancelamento de registro de… | cvm-col-20021010-d07 | fichas/colegiado/2002-23.md |
+| decisao-colegiado | RJ2002/4087 | 2002-08-30 | deferido | O Colegiado aprovou pedido de dispensa de OPA por alienação de controle e cancelamento de registro da CONEPAR, pelo art. 34 da Instrução… | cvm-col-20020830-d10 | fichas/colegiado/2002-21.md |
+| decisao-colegiado | RJ2001/12009 | 2002-08-30 | indeferido | O Colegiado não deferiu o pedido de acionistas minoritários da COSIPA para que a FEMCO realizasse oferta pública de aquisição de ações da… | cvm-col-20020830-d02 | fichas/colegiado/2002-21.md |
+| decisao-colegiado | RJ2002/4685 | 2002-08-20 | deferido | O Colegiado aprovou o pedido da Atlântica Empreendimentos Imobiliários S.A. de dispensa de OPA no cancelamento de registro de companhia… | cvm-col-20020820-d04 | fichas/colegiado/2002-20.md |
+| decisao-colegiado | RJ2002/2608 | 2002-08-13 | outro | Em consulta da FEMCO sobre a compra de ações da COSIPA detidas pelo CIEC, o Colegiado acompanhou o voto do diretor-relator, que não… | cvm-col-20020813-d05 | fichas/colegiado/2002-20.md |
+| decisao-colegiado | RJ2002/4151 | 2002-07-23 | indeferido | O Colegiado não aprovou o pedido de dispensa de OPA por aumento de participação na Tecnos Relógios S.A. (art. 34 da Instrução CVM 361/02)… | cvm-col-20020723-d04 | fichas/colegiado/2002-18.md |
+| decisao-colegiado | RJ2000/6126 | 2002-07-09 | nao-provido | O Colegiado acompanhou o voto do relator e indeferiu pedido de reconsideração da Interatlântico contra decisão de 2001 que determinou o… | cvm-col-20020709-d09 | fichas/colegiado/2002-17.md |
+| decisao-colegiado | RJ2002/4188 | 2002-07-09 | deferido | O Colegiado deferiu a dispensa de oferta pública de aquisição de ações (OPA) para o cancelamento do registro de companhia aberta da Itaú… | cvm-col-20020709-d08 | fichas/colegiado/2002-17.md |
+| decisao-colegiado | — | 2002-07-03 | deferido | O Colegiado acatou o pedido da Cia. Brasileira de Alumínio, via Banco Itaú, de OPA por procedimento diferenciado (art. 34 da Instrução CVM… | cvm-col-20020703-d11 | fichas/colegiado/2002-16.md |
+| decisao-colegiado | RJ2002/1679 | 2002-07-03 | provido | O Colegiado deu provimento ao recurso contra decisão da SRE e aprovou o procedimento de aquisição das ações dos minoritários proposto pela… | cvm-col-20020703-d09 | fichas/colegiado/2002-16.md |
+| decisao-colegiado | RJ2002/4466 | 2002-06-25 | deferido | O Colegiado aprovou o pedido de dispensa de realização de OPA no cancelamento de registro da Playcenter S.A. Segundo a área técnica, a… | cvm-col-20020625-d07 | fichas/colegiado/2002-15.md |
+| decisao-colegiado | RJ2002/1759 | 2002-06-18 | outro | O Colegiado não exigiu prospecto na oferta de permuta da Suzano por ações da Bahia Sul, por não caber nova exigência. Não vê óbice à… | cvm-col-20020618-d12 | fichas/colegiado/2002-14.md |
+| decisao-colegiado | RJ2002/175 | 2002-04-10 | parcial | O Colegiado autorizou o Banco Itaú a realizar a OPA do BEG por procedimento diferenciado, com leilão em 15 dias e sem revisão de preço (Lei… | cvm-col-20020410-d13 | fichas/colegiado/2002-08.md |
+| decisao-colegiado | RJ2002/2069 | 2002-03-15 | deferido | O Colegiado aprovou, nos termos do art. 34 da Instrução CVM 361/02, procedimento diferenciado e dispensa de formalidades de OPA para a… | cvm-col-20020315-d01 | fichas/colegiado/2002-04.md |
+| decisao-colegiado | RJ2001/11663 | 2002-01-15 | provido | Processo de reorganização societária empreendida pela serrana S.A. Proc. RJ2001/11663. | cvm-col-20020115-d05 | fichas/colegiado/2002-01.md |
+| acordao-crsfn | 25/96 | 2000-05-30 | condenacao | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Alienação de controle acionário de companhias – Forma direta – Ausência de oferta… | crsfn-2912 | fichas/crsfn/2000-02.md |
+| acordao-crsfn | 06/92 | 1996-09-12 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Irregularidades relacionadas com a alienação de controle acionário. Recursos não providos. | crsfn-1740 | fichas/crsfn/1996-02.md |
+| acordao-crsfn | 06/89 | 1996-02-15 | parcial | RECURSOS VOLUNTÁRIO E DE OFÍCIO. Alienação do controle acionário da Têxtil Arp S.A. (TASA), sem a realização de oferta pública e sem as… | crsfn-1583 | fichas/crsfn/1996-01.md |
 
 Fim do subíndice.

@@ -24,423 +24,423 @@ Este subíndice tem 446 linhas e uma leitura única é cortada em silêncio pert
 | 2005-02 | 377 |
 | 2005-01 | 397 |
 
-| Processo | Data | Resultado | Id | Ficha |
-|---|---|---|---|---|
-| — | 2005-12-27 | outro | cvm-col-20051227-d15 | fichas/colegiado/2005-21.md |
-| RJ2005/7922 | 2005-12-27 | deferido | cvm-col-20051227-d14 | fichas/colegiado/2005-21.md |
-| RJ2003/5473 | 2005-12-27 | deferido | cvm-col-20051227-d13 | fichas/colegiado/2005-21.md |
-| RJ2005/6172 | 2005-12-27 | parcial | cvm-col-20051227-d12 | fichas/colegiado/2005-21.md |
-| RJ2005/7838 | 2005-12-27 | outro | cvm-col-20051227-d11 | fichas/colegiado/2005-21.md |
-| RJ2005/3726 | 2005-12-27 | nao-provido | cvm-col-20051227-d10 | fichas/colegiado/2005-21.md |
-| RJ2005/6749 | 2005-12-27 | nao-provido | cvm-col-20051227-d09 | fichas/colegiado/2005-21.md |
-| RJ2005/9585 | 2005-12-27 | outro | cvm-col-20051227-d08 | fichas/colegiado/2005-20.md |
-| RJ2005/7614 | 2005-12-27 | deferido | cvm-col-20051227-d07 | fichas/colegiado/2005-20.md |
-| RJ2005/7481 | 2005-12-27 | parcial | cvm-col-20051227-d06 | fichas/colegiado/2005-20.md |
-| RJ2005/5502 | 2005-12-27 | outro | cvm-col-20051227-d05 | fichas/colegiado/2005-20.md |
-| RJ2004/6153 | 2005-12-27 | parcial | cvm-col-20051227-d03 | fichas/colegiado/2005-20.md |
-| — | 2005-12-27 | outro | cvm-col-20051227-d02 | fichas/colegiado/2005-20.md |
-| RJ2004/5580 | 2005-12-27 | — | cvm-col-20051227-d01 | fichas/colegiado/2005-20.md |
-| RJ2005/9440 | 2005-12-21 | parcial | cvm-col-20051221-d01 | fichas/colegiado/2005-20.md |
-| RJ2004/6068 | 2005-12-20 | deferido | cvm-col-20051220-d11 | fichas/colegiado/2005-20.md |
-| RJ2005/8293 | 2005-12-20 | deferido | cvm-col-20051220-d10 | fichas/colegiado/2005-20.md |
-| RJ2005/4302 | 2005-12-20 | outro | cvm-col-20051220-d09 | fichas/colegiado/2005-20.md |
-| RJ2005/8495 | 2005-12-20 | nao-provido | cvm-col-20051220-d08 | fichas/colegiado/2005-20.md |
-| RJ2005/8334 | 2005-12-20 | nao-provido | cvm-col-20051220-d07 | fichas/colegiado/2005-20.md |
-| SP2005/0311 | 2005-12-20 | indeferido | cvm-col-20051220-d06 | fichas/colegiado/2005-20.md |
-| RJ2005/5289 | 2005-12-20 | outro | cvm-col-20051220-d05 | fichas/colegiado/2005-20.md |
-| RJ2005/8870 | 2005-12-20 | nao-provido | cvm-col-20051220-d04 | fichas/colegiado/2005-20.md |
-| RJ2004/3764 | 2005-12-20 | outro | cvm-col-20051220-d03 | fichas/colegiado/2005-20.md |
-| RJ2005/3104 | 2005-12-20 | outro | cvm-col-20051220-d02 | fichas/colegiado/2005-20.md |
-| RJ2004/2684 | 2005-12-20 | — | cvm-col-20051220-d01 | fichas/colegiado/2005-20.md |
-| RJ2005/7579 | 2005-12-13 | outro | cvm-col-20051213-d4957 | fichas/colegiado/2005-19.md |
-| RJ2004/1616 | 2005-12-13 | parcial | cvm-col-20051213-d05 | fichas/colegiado/2005-19.md |
-| SP2005/0310 | 2005-12-13 | outro | cvm-col-20051213-d04 | fichas/colegiado/2005-19.md |
-| RJ2005/8437 | 2005-12-13 | parcial | cvm-col-20051213-d03 | fichas/colegiado/2005-19.md |
-| RJ2003/5473; RJ2002/7017 | 2005-12-13 | parcial | cvm-col-20051213-d02 | fichas/colegiado/2005-19.md |
-| RJ2005/7527 | 2005-12-13 | indeferido | cvm-col-20051213-d01 | fichas/colegiado/2005-19.md |
-| RJ2005/7473 | 2005-12-06 | nao-provido | cvm-col-20051206-d11 | fichas/colegiado/2005-19.md |
-| RJ2005/3917 | 2005-12-06 | indeferido | cvm-col-20051206-d10 | fichas/colegiado/2005-19.md |
-| RJ2005/8335 | 2005-12-06 | nao-provido | cvm-col-20051206-d09 | fichas/colegiado/2005-19.md |
-| RJ2005/8191 | 2005-12-06 | nao-provido | cvm-col-20051206-d08 | fichas/colegiado/2005-19.md |
-| RJ2005/8161 | 2005-12-06 | nao-provido | cvm-col-20051206-d07 | fichas/colegiado/2005-19.md |
-| RJ2005/8159 | 2005-12-06 | nao-provido | cvm-col-20051206-d06 | fichas/colegiado/2005-19.md |
-| RJ2005/8083 | 2005-12-06 | nao-provido | cvm-col-20051206-d05 | fichas/colegiado/2005-19.md |
-| RJ2005/8427 | 2005-12-06 | nao-provido | cvm-col-20051206-d04 | fichas/colegiado/2005-19.md |
-| RJ2005/7874 | 2005-12-06 | nao-provido | cvm-col-20051206-d03 | fichas/colegiado/2005-19.md |
-| RJ2005/4105 | 2005-12-06 | nao-provido | cvm-col-20051206-d02 | fichas/colegiado/2005-19.md |
-| RJ2005/3356 | 2005-12-06 | nao-provido | cvm-col-20051206-d01 | fichas/colegiado/2005-19.md |
-| — | 2005-11-30 | outro | cvm-col-20051130-d01 | fichas/colegiado/2005-19.md |
-| — | 2005-11-29 | outro | cvm-col-20051129-d09 | fichas/colegiado/2005-19.md |
-| RJ2005/8208 | 2005-11-29 | nao-provido | cvm-col-20051129-d08 | fichas/colegiado/2005-19.md |
-| RJ2005/7318 | 2005-11-29 | nao-provido | cvm-col-20051129-d07 | fichas/colegiado/2005-19.md |
-| RJ2005/7317 | 2005-11-29 | nao-provido | cvm-col-20051129-d06 | fichas/colegiado/2005-19.md |
-| RJ2005/7748 | 2005-11-29 | indeferido | cvm-col-20051129-d05 | fichas/colegiado/2005-19.md |
-| RJ2005/7394 | 2005-11-29 | deferido | cvm-col-20051129-d04 | fichas/colegiado/2005-18.md |
-| RJ2005/6920; RJ2005/7852 | 2005-11-29 | outro | cvm-col-20051129-d03 | fichas/colegiado/2005-18.md |
-| RJ2005/5140 | 2005-11-29 | nao-provido | cvm-col-20051129-d02 | fichas/colegiado/2005-18.md |
-| RJ2005/0880 | 2005-11-29 | outro | cvm-col-20051129-d01 | fichas/colegiado/2005-18.md |
-| RJ2005/8534 | 2005-11-24 | deferido | cvm-col-20051124-d01 | fichas/colegiado/2005-18.md |
-| RJ2005/0102 | 2005-11-23 | outro | cvm-col-20051123-d01 | fichas/colegiado/2005-18.md |
-| RJ2004/5891 | 2005-11-22 | deferido | cvm-col-20051122-d21 | fichas/colegiado/2005-18.md |
-| — | 2005-11-22 | outro | cvm-col-20051122-d20 | fichas/colegiado/2005-18.md |
-| RJ2005/8357 | 2005-11-22 | deferido | cvm-col-20051122-d19 | fichas/colegiado/2005-18.md |
-| RJ2005/3975 | 2005-11-22 | provido | cvm-col-20051122-d18 | fichas/colegiado/2005-18.md |
-| RJ2005/7800 | 2005-11-22 | nao-provido | cvm-col-20051122-d17 | fichas/colegiado/2005-18.md |
-| RJ2005/7647 | 2005-11-22 | nao-provido | cvm-col-20051122-d16 | fichas/colegiado/2005-18.md |
-| RJ2005/7576 | 2005-11-22 | nao-provido | cvm-col-20051122-d15 | fichas/colegiado/2005-18.md |
-| RJ2005/7575 | 2005-11-22 | nao-provido | cvm-col-20051122-d14 | fichas/colegiado/2005-18.md |
-| RJ2005/7571 | 2005-11-22 | nao-provido | cvm-col-20051122-d13 | fichas/colegiado/2005-18.md |
-| RJ2005/7512 | 2005-11-22 | nao-provido | cvm-col-20051122-d12 | fichas/colegiado/2005-18.md |
-| RJ2005/7464 | 2005-11-22 | nao-provido | cvm-col-20051122-d11 | fichas/colegiado/2005-18.md |
-| RJ2005/7921 | 2005-11-22 | nao-provido | cvm-col-20051122-d10 | fichas/colegiado/2005-18.md |
-| RJ2005/7920 | 2005-11-22 | nao-provido | cvm-col-20051122-d09 | fichas/colegiado/2005-18.md |
-| RJ2005/7919 | 2005-11-22 | nao-provido | cvm-col-20051122-d08 | fichas/colegiado/2005-18.md |
-| RJ2005/7503 | 2005-11-22 | nao-provido | cvm-col-20051122-d07 | fichas/colegiado/2005-18.md |
-| RJ2005/7462 | 2005-11-22 | nao-provido | cvm-col-20051122-d06 | fichas/colegiado/2005-18.md |
-| RJ2005/7365 | 2005-11-22 | deferido | cvm-col-20051122-d05 | fichas/colegiado/2005-18.md |
-| RJ2005/3686 | 2005-11-22 | deferido | cvm-col-20051122-d04 | fichas/colegiado/2005-18.md |
-| RJ2005/6889 | 2005-11-22 | deferido | cvm-col-20051122-d03 | fichas/colegiado/2005-17.md |
-| RJ2005/7339 | 2005-11-22 | provido | cvm-col-20051122-d02 | fichas/colegiado/2005-17.md |
-| RJ2005/4494 | 2005-11-22 | parcial | cvm-col-20051122-d01 | fichas/colegiado/2005-17.md |
-| RJ2005/7504 | 2005-11-17 | nao-provido | cvm-col-20051117-d16 | fichas/colegiado/2005-17.md |
-| RJ2005/7746 | 2005-11-17 | nao-provido | cvm-col-20051117-d15 | fichas/colegiado/2005-17.md |
-| RJ2005/7586 | 2005-11-17 | nao-provido | cvm-col-20051117-d14 | fichas/colegiado/2005-17.md |
-| RJ2005/7495 | 2005-11-17 | nao-provido | cvm-col-20051117-d13 | fichas/colegiado/2005-17.md |
-| RJ2005/7433 | 2005-11-17 | nao-provido | cvm-col-20051117-d12 | fichas/colegiado/2005-17.md |
-| RJ2005/7319 | 2005-11-17 | nao-provido | cvm-col-20051117-d11 | fichas/colegiado/2005-17.md |
-| RJ2005/7725 | 2005-11-17 | nao-provido | cvm-col-20051117-d10 | fichas/colegiado/2005-17.md |
-| RJ2005/7572 | 2005-11-17 | nao-provido | cvm-col-20051117-d09 | fichas/colegiado/2005-17.md |
-| RJ2005/7510 | 2005-11-17 | nao-provido | cvm-col-20051117-d08 | fichas/colegiado/2005-17.md |
-| RJ2003/5459 | 2005-11-17 | outro | cvm-col-20051117-d07 | fichas/colegiado/2005-17.md |
-| 08/02 | 2005-11-17 | outro | cvm-col-20051117-d06 | fichas/colegiado/2005-17.md |
-| RJ2005/7115 | 2005-11-17 | outro | cvm-col-20051117-d05 | fichas/colegiado/2005-17.md |
-| RJ2005/7232 | 2005-11-17 | provido | cvm-col-20051117-d04 | fichas/colegiado/2005-17.md |
-| RJ2005/7049 | 2005-11-17 | provido | cvm-col-20051117-d03 | fichas/colegiado/2005-17.md |
-| RJ2005/4284 | 2005-11-17 | nao-provido | cvm-col-20051117-d01 | fichas/colegiado/2005-17.md |
-| RJ2005/7750 | 2005-11-09 | deferido | cvm-col-20051109-d03 | fichas/colegiado/2005-17.md |
-| RJ2005/7215 | 2005-11-09 | outro | cvm-col-20051109-d02 | fichas/colegiado/2005-17.md |
-| RJ2005/4734 | 2005-11-09 | outro | cvm-col-20051109-d01 | fichas/colegiado/2005-17.md |
-| RJ2002/6032 | 2005-11-08 | outro | cvm-col-20051108-d3883 | fichas/colegiado/2005-17.md |
-| — | 2005-11-08 | parcial | cvm-col-20051108-d13 | fichas/colegiado/2005-17.md |
-| RJ2005/7750 | 2005-11-08 | parcial | cvm-col-20051108-d12 | fichas/colegiado/2005-17.md |
-| RJ2005/7511 | 2005-11-08 | nao-provido | cvm-col-20051108-d11 | fichas/colegiado/2005-16.md |
-| RJ2005/7509 | 2005-11-08 | nao-provido | cvm-col-20051108-d10 | fichas/colegiado/2005-16.md |
-| RJ2005/7494 | 2005-11-08 | nao-provido | cvm-col-20051108-d09 | fichas/colegiado/2005-16.md |
-| RJ2005/7493 | 2005-11-08 | nao-provido | cvm-col-20051108-d08 | fichas/colegiado/2005-16.md |
-| RJ2005/7093 | 2005-11-08 | nao-provido | cvm-col-20051108-d07 | fichas/colegiado/2005-16.md |
-| RJ2005/7097 | 2005-11-08 | nao-provido | cvm-col-20051108-d06 | fichas/colegiado/2005-16.md |
-| RJ2005/5696 | 2005-11-08 | outro | cvm-col-20051108-d05 | fichas/colegiado/2005-16.md |
-| — | 2005-11-08 | outro | cvm-col-20051108-d04 | fichas/colegiado/2005-16.md |
-| RJ2004/2684 | 2005-11-08 | — | cvm-col-20051108-d03 | fichas/colegiado/2005-16.md |
-| RJ2005/5664 | 2005-11-08 | provido | cvm-col-20051108-d02 | fichas/colegiado/2005-16.md |
-| RJ2003/5746 | 2005-11-08 | nao-provido | cvm-col-20051108-d01 | fichas/colegiado/2005-16.md |
-| — | 2005-11-01 | outro | cvm-col-20051101-d05 | fichas/colegiado/2005-16.md |
-| RJ2004/2892 | 2005-11-01 | outro | cvm-col-20051101-d04 | fichas/colegiado/2005-16.md |
-| RJ2005/6224 | 2005-11-01 | outro | cvm-col-20051101-d01 | fichas/colegiado/2005-16.md |
-| — | 2005-10-31 | deferido | cvm-col-20051031-d01 | fichas/colegiado/2005-16.md |
-| RJ2005/6228 | 2005-10-26 | deferido | cvm-col-20051026-d03 | fichas/colegiado/2005-16.md |
-| RJ2005/6223 | 2005-10-26 | deferido | cvm-col-20051026-d02 | fichas/colegiado/2005-16.md |
-| RJ2004/6922 | 2005-10-26 | outro | cvm-col-20051026-d01 | fichas/colegiado/2005-16.md |
-| 04/01 | 2005-10-25 | nao-provido | cvm-col-20051025-d11 | fichas/colegiado/2005-16.md |
-| RJ2005/7396 | 2005-10-25 | outro | cvm-col-20051025-d10 | fichas/colegiado/2005-16.md |
-| RJ2005/6228 | 2005-10-25 | — | cvm-col-20051025-d09 | fichas/colegiado/2005-16.md |
-| RJ2005/6223 | 2005-10-25 | — | cvm-col-20051025-d08 | fichas/colegiado/2005-16.md |
-| RJ2005/6167 | 2005-10-25 | deferido | cvm-col-20051025-d07 | fichas/colegiado/2005-15.md |
-| RJ2005/0739 | 2005-10-25 | outro | cvm-col-20051025-d06 | fichas/colegiado/2005-15.md |
-| RJ2004/2776 | 2005-10-25 | parcial | cvm-col-20051025-d05 | fichas/colegiado/2005-15.md |
-| RJ2005/7202; RJ2005/5934; RJ2005/5979 | 2005-10-25 | provido | cvm-col-20051025-d03 | fichas/colegiado/2005-15.md |
-| RJ2005/3668 | 2005-10-25 | outro | cvm-col-20051025-d02 | fichas/colegiado/2005-15.md |
-| RJ90/0387 | 2005-10-25 | parcial | cvm-col-20051025-d01 | fichas/colegiado/2005-15.md |
-| RJ2005/5308 | 2005-10-18 | outro | cvm-col-20051018-d09 | fichas/colegiado/2005-15.md |
-| RJ2005/0364 | 2005-10-18 | parcial | cvm-col-20051018-d07 | fichas/colegiado/2005-15.md |
-| RJ2005/4980 | 2005-10-18 | outro | cvm-col-20051018-d06 | fichas/colegiado/2005-15.md |
-| — | 2005-10-18 | outro | cvm-col-20051018-d05 | fichas/colegiado/2005-15.md |
-| SP2004/0067 | 2005-10-18 | nao-provido | cvm-col-20051018-d04 | fichas/colegiado/2005-15.md |
-| RJ2005/4653 | 2005-10-18 | outro | cvm-col-20051018-d03 | fichas/colegiado/2005-15.md |
-| — | 2005-10-18 | outro | cvm-col-20051018-d02 | fichas/colegiado/2005-15.md |
-| RJ2005/4359 | 2005-10-11 | nao-provido | cvm-col-20051011-d08 | fichas/colegiado/2005-15.md |
-| SP2000/0198 | 2005-10-11 | parcial | cvm-col-20051011-d07 | fichas/colegiado/2005-15.md |
-| RJ2004/2777 | 2005-10-11 | parcial | cvm-col-20051011-d06 | fichas/colegiado/2005-15.md |
-| RJ2005/4961 | 2005-10-11 | nao-provido | cvm-col-20051011-d05 | fichas/colegiado/2005-15.md |
-| RJ2005/0116; RJ2005/0118; RJ2005/2073 | 2005-10-11 | nao-provido | cvm-col-20051011-d04 | fichas/colegiado/2005-14.md |
-| RJ2005/4284 | 2005-10-11 | conhecimento | cvm-col-20051011-d03 | fichas/colegiado/2005-14.md |
-| RJ2002/8479 | 2005-10-11 | provido | cvm-col-20051011-d02 | fichas/colegiado/2005-14.md |
-| RJ2004/4970 | 2005-10-11 | provido | cvm-col-20051011-d01 | fichas/colegiado/2005-14.md |
-| RJ2001/8273 | 2005-10-04 | provido | cvm-col-20051004-d08 | fichas/colegiado/2005-14.md |
-| RJ2005/5392 | 2005-10-04 | outro | cvm-col-20051004-d07 | fichas/colegiado/2005-14.md |
-| SP2005/0209 | 2005-10-04 | provido | cvm-col-20051004-d06 | fichas/colegiado/2005-14.md |
-| RJ2004/7389 | 2005-10-04 | nao-provido | cvm-col-20051004-d05 | fichas/colegiado/2005-14.md |
-| RJ2005/2611 | 2005-10-04 | outro | cvm-col-20051004-d04 | fichas/colegiado/2005-14.md |
-| RJ2004/6913 | 2005-10-04 | outro | cvm-col-20051004-d03 | fichas/colegiado/2005-14.md |
-| RJ2004/2692 | 2005-10-04 | outro | cvm-col-20051004-d02 | fichas/colegiado/2005-14.md |
-| 14/03 | 2005-09-30 | outro | cvm-col-20050930-d4076 | fichas/colegiado/2005-14.md |
-| RJ2005/4914 | 2005-09-30 | deferido | cvm-col-20050930-d09 | fichas/colegiado/2005-14.md |
-| RJ2005/0568 | 2005-09-30 | deferido | cvm-col-20050930-d08 | fichas/colegiado/2005-14.md |
-| RJ2005/5980 | 2005-09-30 | nao-provido | cvm-col-20050930-d07 | fichas/colegiado/2005-14.md |
-| RJ2003/12609 | 2005-09-30 | provido | cvm-col-20050930-d06 | fichas/colegiado/2005-14.md |
-| RJ2004/5634 | 2005-09-30 | parcial | cvm-col-20050930-d05 | fichas/colegiado/2005-14.md |
-| RJ2005/6027 | 2005-09-30 | provido | cvm-col-20050930-d04 | fichas/colegiado/2005-13.md |
-| RJ2005/1945 | 2005-09-30 | deferido | cvm-col-20050930-d03 | fichas/colegiado/2005-13.md |
-| RJ2005/0364 | 2005-09-30 | — | cvm-col-20050930-d02 | fichas/colegiado/2005-13.md |
-| 02/01 | 2005-09-30 | outro | cvm-col-20050930-d01 | fichas/colegiado/2005-13.md |
-| — | 2005-09-28 | outro | cvm-col-20050928-d06 | fichas/colegiado/2005-13.md |
-| RJ2005/2967 | 2005-09-28 | outro | cvm-col-20050928-d05 | fichas/colegiado/2005-13.md |
-| RJ2005/2966 | 2005-09-28 | outro | cvm-col-20050928-d04 | fichas/colegiado/2005-13.md |
-| RJ2004/7244 | 2005-09-28 | outro | cvm-col-20050928-d03 | fichas/colegiado/2005-13.md |
-| RJ2001/9445; RJ2002/2418; RJ2003/1813 | 2005-09-28 | outro | cvm-col-20050928-d02 | fichas/colegiado/2005-13.md |
-| — | 2005-09-28 | outro | cvm-col-20050928-d01 | fichas/colegiado/2005-13.md |
-| — | 2005-09-20 | outro | cvm-col-20050920-d05 | fichas/colegiado/2005-13.md |
-| SP2005/0329 | 2005-09-20 | deferido | cvm-col-20050920-d04 | fichas/colegiado/2005-13.md |
-| RJ2003/5596 | 2005-09-20 | nao-provido | cvm-col-20050920-d03 | fichas/colegiado/2005-13.md |
-| RJ2003/4367 | 2005-09-20 | indeferido | cvm-col-20050920-d01 | fichas/colegiado/2005-13.md |
-| — | 2005-09-13 | outro | cvm-col-20050913-d04 | fichas/colegiado/2005-13.md |
-| RJ2005/4569 | 2005-09-13 | nao-provido | cvm-col-20050913-d03 | fichas/colegiado/2005-13.md |
-| RJ2004/5303 | 2005-09-13 | provido | cvm-col-20050913-d02 | fichas/colegiado/2005-13.md |
-| RJ2005/3552 | 2005-09-05 | deferido | cvm-col-20050905-d02 | fichas/colegiado/2005-13.md |
-| SP2005/0249 | 2005-08-30 | outro | cvm-col-20050830-d09 | fichas/colegiado/2005-13.md |
-| RJ2005/4802 | 2005-08-30 | nao-provido | cvm-col-20050830-d08 | fichas/colegiado/2005-13.md |
-| RJ2005/4801 | 2005-08-30 | nao-provido | cvm-col-20050830-d07 | fichas/colegiado/2005-13.md |
-| RJ2005/2734 | 2005-08-30 | nao-provido | cvm-col-20050830-d06 | fichas/colegiado/2005-13.md |
-| RJ2005/4821 | 2005-08-30 | indeferido | cvm-col-20050830-d03 | fichas/colegiado/2005-12.md |
-| RJ2005/4284 | 2005-08-30 | nao-provido | cvm-col-20050830-d02 | fichas/colegiado/2005-12.md |
-| RJ2002/7152 | 2005-08-30 | provido | cvm-col-20050830-d01 | fichas/colegiado/2005-12.md |
-| RJ2005/0652 | 2005-08-29 | outro | cvm-col-20050829-d01 | fichas/colegiado/2005-12.md |
-| RJ2005/5203 | 2005-08-26 | nao-provido | cvm-col-20050826-d01 | fichas/colegiado/2005-12.md |
-| RJ2005/5203 | 2005-08-24 | indeferido | cvm-col-20050824-d01 | fichas/colegiado/2005-12.md |
-| RJ2005/3786 | 2005-08-23 | nao-provido | cvm-col-20050823-d09 | fichas/colegiado/2005-12.md |
-| RJ2004/2775 | 2005-08-23 | nao-provido | cvm-col-20050823-d08 | fichas/colegiado/2005-12.md |
-| SP2005/0282 | 2005-08-23 | — | cvm-col-20050823-d07 | fichas/colegiado/2005-12.md |
-| RJ2005/4470 | 2005-08-23 | nao-provido | cvm-col-20050823-d06 | fichas/colegiado/2005-12.md |
-| RJ2005/2670 | 2005-08-23 | deferido | cvm-col-20050823-d05 | fichas/colegiado/2005-12.md |
-| RJ2004/7380 | 2005-08-23 | outro | cvm-col-20050823-d04 | fichas/colegiado/2005-12.md |
-| RJ2001/7606 | 2005-08-23 | nao-provido | cvm-col-20050823-d03 | fichas/colegiado/2005-12.md |
-| SP2004/0210 | 2005-08-23 | parcial | cvm-col-20050823-d01 | fichas/colegiado/2005-12.md |
-| SP2004/0360 | 2005-08-16 | nao-provido | cvm-col-20050816-d02 | fichas/colegiado/2005-12.md |
-| RJ2005/2952 | 2005-08-09 | outro | cvm-col-20050809-d11 | fichas/colegiado/2005-12.md |
-| RJ2004/3764 | 2005-08-09 | outro | cvm-col-20050809-d10 | fichas/colegiado/2005-11.md |
-| RJ2005/0527 | 2005-08-09 | nao-provido | cvm-col-20050809-d09 | fichas/colegiado/2005-11.md |
-| RJ2005/4298 | 2005-08-09 | nao-provido | cvm-col-20050809-d08 | fichas/colegiado/2005-11.md |
-| RJ2005/2789 | 2005-08-09 | indeferido | cvm-col-20050809-d07 | fichas/colegiado/2005-11.md |
-| RJ2004/3648 | 2005-08-09 | outro | cvm-col-20050809-d05 | fichas/colegiado/2005-11.md |
-| SP2003/0167 | 2005-08-09 | nao-provido | cvm-col-20050809-d04 | fichas/colegiado/2005-11.md |
-| RJ2005/2108 | 2005-08-09 | outro | cvm-col-20050809-d03 | fichas/colegiado/2005-11.md |
-| RJ2004/5328 | 2005-08-09 | nao-provido | cvm-col-20050809-d02 | fichas/colegiado/2005-11.md |
-| RJ2005/4657 | 2005-08-02 | nao-provido | cvm-col-20050802-d03 | fichas/colegiado/2005-11.md |
-| RJ2005/2934 | 2005-08-02 | nao-provido | cvm-col-20050802-d02 | fichas/colegiado/2005-11.md |
-| RJ2005/4699 | 2005-08-02 | deferido | cvm-col-20050802-d01 | fichas/colegiado/2005-11.md |
-| RJ2005/0880 | 2005-07-26 | outro | cvm-col-20050726-d04 | fichas/colegiado/2005-11.md |
-| RJ2005/4494 | 2005-07-26 | deferido | cvm-col-20050726-d03 | fichas/colegiado/2005-11.md |
-| RJ2005/4490 | 2005-07-26 | deferido | cvm-col-20050726-d02 | fichas/colegiado/2005-11.md |
-| RJ2004/5689; RJ2004/1286 | 2005-07-26 | provido | cvm-col-20050726-d01 | fichas/colegiado/2005-11.md |
-| RJ2004/5582 | 2005-07-21 | nao-provido | cvm-col-20050721-d07 | fichas/colegiado/2005-11.md |
-| RJ2005/3945 | 2005-07-21 | nao-provido | cvm-col-20050721-d06 | fichas/colegiado/2005-11.md |
-| RJ2005/3806 | 2005-07-21 | nao-provido | cvm-col-20050721-d05 | fichas/colegiado/2005-11.md |
-| RJ2005/3062 | 2005-07-21 | nao-provido | cvm-col-20050721-d04 | fichas/colegiado/2005-11.md |
-| RJ2005/3234 | 2005-07-21 | deferido | cvm-col-20050721-d03 | fichas/colegiado/2005-11.md |
-| 387/2003; SP2005/0258 | 2005-07-21 | deferido | cvm-col-20050721-d02 | fichas/colegiado/2005-10.md |
-| RJ2004/2758 | 2005-07-21 | deferido | cvm-col-20050721-d01 | fichas/colegiado/2005-10.md |
-| RJ2003/4367 | 2005-07-12 | deferido | cvm-col-20050712-d06 | fichas/colegiado/2005-10.md |
-| RJ2005/3161 | 2005-07-12 | outro | cvm-col-20050712-d05 | fichas/colegiado/2005-10.md |
-| RJ2001/7606 | 2005-07-12 | nao-provido | cvm-col-20050712-d04 | fichas/colegiado/2005-10.md |
-| RJ2005/3402 | 2005-07-12 | deferido | cvm-col-20050712-d03 | fichas/colegiado/2005-10.md |
-| RJ2005/0928 | 2005-07-12 | outro | cvm-col-20050712-d02 | fichas/colegiado/2005-10.md |
-| RJ2002/6453 | 2005-07-12 | outro | cvm-col-20050712-d01 | fichas/colegiado/2005-10.md |
-| RJ2005/3649 | 2005-07-05 | provido | cvm-col-20050705-d06 | fichas/colegiado/2005-10.md |
-| RJ2005/3545 | 2005-07-05 | nao-provido | cvm-col-20050705-d05 | fichas/colegiado/2005-10.md |
-| RJ2003/3972 | 2005-07-05 | outro | cvm-col-20050705-d04 | fichas/colegiado/2005-10.md |
-| RJ2003/5746 | 2005-07-05 | nao-provido | cvm-col-20050705-d03 | fichas/colegiado/2005-10.md |
-| RJ2004/7376 | 2005-07-05 | nao-provido | cvm-col-20050705-d02 | fichas/colegiado/2005-10.md |
-| RJ2005/2355 | 2005-07-05 | deferido | cvm-col-20050705-d01 | fichas/colegiado/2005-10.md |
-| RJ2005/3735 | 2005-06-28 | deferido | cvm-col-20050628-d04 | fichas/colegiado/2005-10.md |
-| RJ2005/3016 | 2005-06-28 | nao-provido | cvm-col-20050628-d03 | fichas/colegiado/2005-10.md |
-| RJ2005/3134 | 2005-06-28 | deferido | cvm-col-20050628-d02 | fichas/colegiado/2005-10.md |
-| RJ2005/0151 | 2005-06-28 | provido | cvm-col-20050628-d01 | fichas/colegiado/2005-10.md |
-| RJ2004/7094 | 2005-06-24 | outro | cvm-col-20050624-d02 | fichas/colegiado/2005-10.md |
-| RJ2005/2839 | 2005-06-24 | outro | cvm-col-20050624-d01 | fichas/colegiado/2005-10.md |
-| RJ2005/1717 | 2005-06-21 | nao-provido | cvm-col-20050621-d05 | fichas/colegiado/2005-10.md |
-| RJ2005/1164 | 2005-06-21 | deferido | cvm-col-20050621-d04 | fichas/colegiado/2005-09.md |
-| RJ2005/1785 | 2005-06-21 | deferido | cvm-col-20050621-d03 | fichas/colegiado/2005-09.md |
-| 08/02 | 2005-06-21 | outro | cvm-col-20050621-d02 | fichas/colegiado/2005-09.md |
-| RJ2002/8173 | 2005-06-21 | outro | cvm-col-20050621-d01 | fichas/colegiado/2005-09.md |
-| RJ2003/5459 | 2005-06-14 | deferido | cvm-col-20050614-d06 | fichas/colegiado/2005-09.md |
-| 21/2004; RJ2005/1779 | 2005-06-14 | parcial | cvm-col-20050614-d05 | fichas/colegiado/2005-09.md |
-| RJ2005/3442 | 2005-06-14 | nao-provido | cvm-col-20050614-d04 | fichas/colegiado/2005-09.md |
-| SP2004/0360 | 2005-06-14 | nao-provido | cvm-col-20050614-d03 | fichas/colegiado/2005-09.md |
-| 08/02 | 2005-06-14 | deferido | cvm-col-20050614-d02 | fichas/colegiado/2005-09.md |
-| RJ2005/3302 | 2005-06-07 | nao-provido | cvm-col-20050607-d12 | fichas/colegiado/2005-09.md |
-| SP2004/0110 | 2005-06-07 | nao-provido | cvm-col-20050607-d11 | fichas/colegiado/2005-09.md |
-| RJ2005/2893 | 2005-06-07 | nao-provido | cvm-col-20050607-d10 | fichas/colegiado/2005-09.md |
-| RJ2005/3496 | 2005-06-07 | nao-provido | cvm-col-20050607-d09 | fichas/colegiado/2005-09.md |
-| SP2003/0167 | 2005-06-07 | provido | cvm-col-20050607-d08 | fichas/colegiado/2005-09.md |
-| RJ2005/3270 | 2005-06-07 | nao-provido | cvm-col-20050607-d07 | fichas/colegiado/2005-09.md |
-| RJ2005/3098 | 2005-06-07 | nao-provido | cvm-col-20050607-d06 | fichas/colegiado/2005-09.md |
-| RJ2005/3090 | 2005-06-07 | nao-provido | cvm-col-20050607-d05 | fichas/colegiado/2005-09.md |
-| RJ2005/3066 | 2005-06-07 | nao-provido | cvm-col-20050607-d04 | fichas/colegiado/2005-09.md |
-| RJ2005/3256 | 2005-06-07 | nao-provido | cvm-col-20050607-d03 | fichas/colegiado/2005-09.md |
-| RJ2005/2911 | 2005-06-07 | nao-provido | cvm-col-20050607-d02 | fichas/colegiado/2005-09.md |
-| RJ2005/2912 | 2005-06-07 | nao-provido | cvm-col-20050607-d01 | fichas/colegiado/2005-09.md |
-| RJ2005/0609 | 2005-05-31 | nao-provido | cvm-col-20050531-d04 | fichas/colegiado/2005-09.md |
-| RJ2005/0589 | 2005-05-31 | outro | cvm-col-20050531-d03 | fichas/colegiado/2005-09.md |
-| RJ2005/0880 | 2005-05-31 | deferido | cvm-col-20050531-d02 | fichas/colegiado/2005-09.md |
-| RJ2004/6153 | 2005-05-31 | parcial | cvm-col-20050531-d01 | fichas/colegiado/2005-08.md |
-| RJ2005/2934 | 2005-05-24 | nao-provido | cvm-col-20050524-d07 | fichas/colegiado/2005-08.md |
-| RJ2005/2883 | 2005-05-24 | indeferido | cvm-col-20050524-d06 | fichas/colegiado/2005-08.md |
-| RJ2004/3601 | 2005-05-24 | nao-provido | cvm-col-20050524-d05 | fichas/colegiado/2005-08.md |
-| SP2004/0361 | 2005-05-24 | nao-provido | cvm-col-20050524-d03 | fichas/colegiado/2005-08.md |
-| RJ2002/4677 | 2005-05-24 | provido | cvm-col-20050524-d02 | fichas/colegiado/2005-08.md |
-| RJ2001/0134 | 2005-05-24 | provido | cvm-col-20050524-d01 | fichas/colegiado/2005-08.md |
-| RJ2005/3016 | 2005-05-16 | nao-provido | cvm-col-20050516-d05 | fichas/colegiado/2005-08.md |
-| RJ2005/3139 | 2005-05-16 | deferido | cvm-col-20050516-d04 | fichas/colegiado/2005-08.md |
-| RJ2002/1965 | 2005-05-16 | nao-provido | cvm-col-20050516-d03 | fichas/colegiado/2005-08.md |
-| RJ2003/5746 | 2005-05-10 | nao-provido | cvm-col-20050510-d04 | fichas/colegiado/2005-08.md |
-| SP2005/0178 | 2005-05-10 | deferido | cvm-col-20050510-d03 | fichas/colegiado/2005-08.md |
-| 08/02 | 2005-05-10 | deferido | cvm-col-20050510-d02 | fichas/colegiado/2005-08.md |
-| RJ2002/5718 | 2005-05-10 | outro | cvm-col-20050510-d01 | fichas/colegiado/2005-08.md |
-| — | 2005-05-09 | outro | cvm-col-20050509-d01 | fichas/colegiado/2005-08.md |
-| — | 2005-05-04 | outro | cvm-col-20050504-d03 | fichas/colegiado/2005-08.md |
-| RJ2004/5109 | 2005-05-04 | outro | cvm-col-20050504-d01 | fichas/colegiado/2005-08.md |
-| RJ2005/2791 | 2005-05-03 | indeferido | cvm-col-20050503-d07 | fichas/colegiado/2005-08.md |
-| RJ2005/2597 | 2005-05-03 | deferido | cvm-col-20050503-d06 | fichas/colegiado/2005-08.md |
-| RJ2005/2601 | 2005-05-03 | indeferido | cvm-col-20050503-d05 | fichas/colegiado/2005-07.md |
-| RJ2005/2586 | 2005-05-03 | indeferido | cvm-col-20050503-d04 | fichas/colegiado/2005-07.md |
-| RJ2005/2504 | 2005-05-03 | deferido | cvm-col-20050503-d03 | fichas/colegiado/2005-07.md |
-| RJ2004/0140 | 2005-04-27 | outro | cvm-col-20050427-d03 | fichas/colegiado/2005-07.md |
-| RJ2003/13239 | 2005-04-27 | outro | cvm-col-20050427-d02 | fichas/colegiado/2005-07.md |
-| RJ2005/0526 | 2005-04-27 | outro | cvm-col-20050427-d01 | fichas/colegiado/2005-07.md |
-| RJ2005/1735 | 2005-04-26 | deferido | cvm-col-20050426-d04 | fichas/colegiado/2005-07.md |
-| RJ2004/6337 | 2005-04-26 | nao-provido | cvm-col-20050426-d03 | fichas/colegiado/2005-07.md |
-| RJ2004/3098 | 2005-04-19 | nao-provido | cvm-col-20050419-d09 | fichas/colegiado/2005-07.md |
-| RJ2005/2363 | 2005-04-19 | nao-provido | cvm-col-20050419-d08 | fichas/colegiado/2005-07.md |
-| RJ2005/2109 | 2005-04-19 | nao-provido | cvm-col-20050419-d07 | fichas/colegiado/2005-07.md |
-| RJ2005/2396 | 2005-04-19 | deferido | cvm-col-20050419-d06 | fichas/colegiado/2005-07.md |
-| RJ2004/6577 | 2005-04-19 | nao-provido | cvm-col-20050419-d05 | fichas/colegiado/2005-07.md |
-| RJ2005/0225 | 2005-04-19 | deferido | cvm-col-20050419-d04 | fichas/colegiado/2005-07.md |
-| RJ2004/0281 | 2005-04-19 | provido | cvm-col-20050419-d03 | fichas/colegiado/2005-07.md |
-| RJ2004/0280 | 2005-04-19 | provido | cvm-col-20050419-d02 | fichas/colegiado/2005-07.md |
-| RJ2002/7934 | 2005-04-19 | nao-provido | cvm-col-20050419-d01 | fichas/colegiado/2005-07.md |
-| 01/88 | 2005-04-12 | outro | cvm-col-20050412-d12 | fichas/colegiado/2005-07.md |
-| RJ2005/2027 | 2005-04-12 | deferido | cvm-col-20050412-d11 | fichas/colegiado/2005-07.md |
-| RJ2005/0884 | 2005-04-12 | nao-provido | cvm-col-20050412-d10 | fichas/colegiado/2005-06.md |
-| RJ2005/0870 | 2005-04-12 | parcial | cvm-col-20050412-d09 | fichas/colegiado/2005-06.md |
-| RJ2005/0884 | 2005-04-12 | nao-provido | cvm-col-20050412-d08 | fichas/colegiado/2005-06.md |
-| RJ2004/5854 | 2005-04-12 | deferido | cvm-col-20050412-d07 | fichas/colegiado/2005-06.md |
-| RJ2005/0652 | 2005-04-12 | outro | cvm-col-20050412-d06 | fichas/colegiado/2005-06.md |
-| SP2003/0099 | 2005-04-12 | nao-provido | cvm-col-20050412-d05 | fichas/colegiado/2005-06.md |
-| RJ2004/4717 | 2005-04-12 | nao-provido | cvm-col-20050412-d04 | fichas/colegiado/2005-06.md |
-| RJ90/0387 | 2005-04-12 | parcial | cvm-col-20050412-d03 | fichas/colegiado/2005-06.md |
-| RJ2005/1566 | 2005-04-12 | outro | cvm-col-20050412-d02 | fichas/colegiado/2005-06.md |
-| RJ1990/0386 | 2005-04-12 | nao-provido | cvm-col-20050412-d01 | fichas/colegiado/2005-06.md |
-| SP2002/0562 | 2005-04-08 | nao-provido | cvm-col-20050408-d05 | fichas/colegiado/2005-06.md |
-| RJ2005/1429 | 2005-04-08 | parcial | cvm-col-20050408-d04 | fichas/colegiado/2005-06.md |
-| RJ2002/3227 | 2005-04-08 | nao-provido | cvm-col-20050408-d02 | fichas/colegiado/2005-06.md |
-| RJ2004/7436 | 2005-03-29 | parcial | cvm-col-20050329-d10 | fichas/colegiado/2005-06.md |
-| — | 2005-03-29 | outro | cvm-col-20050329-d09 | fichas/colegiado/2005-06.md |
-| SP2005/0154 | 2005-03-29 | deferido | cvm-col-20050329-d08 | fichas/colegiado/2005-06.md |
-| SP2002/0494 | 2005-03-29 | nao-provido | cvm-col-20050329-d07 | fichas/colegiado/2005-06.md |
-| RJ2005/0865 | 2005-03-29 | deferido | cvm-col-20050329-d06 | fichas/colegiado/2005-06.md |
-| — | 2005-03-29 | outro | cvm-col-20050329-d04 | fichas/colegiado/2005-06.md |
-| RJ2005/1774 | 2005-03-29 | outro | cvm-col-20050329-d03 | fichas/colegiado/2005-06.md |
-| RJ2004/2684 | 2005-03-29 | provido | cvm-col-20050329-d02 | fichas/colegiado/2005-06.md |
-| RJ2004/5178 | 2005-03-29 | outro | cvm-col-20050329-d01 | fichas/colegiado/2005-05.md |
-| RJ2004/5601 | 2005-03-22 | deferido | cvm-col-20050322-d10 | fichas/colegiado/2005-05.md |
-| RJ2004/3764 | 2005-03-22 | outro | cvm-col-20050322-d09 | fichas/colegiado/2005-05.md |
-| RJ2005/0223 | 2005-03-22 | nao-provido | cvm-col-20050322-d08 | fichas/colegiado/2005-05.md |
-| RJ2004/3479 | 2005-03-22 | nao-provido | cvm-col-20050322-d07 | fichas/colegiado/2005-05.md |
-| SP2003/0380 | 2005-03-22 | nao-provido | cvm-col-20050322-d06 | fichas/colegiado/2005-05.md |
-| SP2003/0463 | 2005-03-22 | nao-provido | cvm-col-20050322-d05 | fichas/colegiado/2005-05.md |
-| RJ2005/688 | 2005-03-22 | deferido | cvm-col-20050322-d04 | fichas/colegiado/2005-05.md |
-| RJ2004/2728 | 2005-03-22 | nao-provido | cvm-col-20050322-d03 | fichas/colegiado/2005-05.md |
-| 15/96 | 2005-03-22 | outro | cvm-col-20050322-d01 | fichas/colegiado/2005-05.md |
-| RJ2004/6660 | 2005-03-14 | parcial | cvm-col-20050314-d05 | fichas/colegiado/2005-05.md |
-| RJ2004/6169 | 2005-03-14 | deferido | cvm-col-20050314-d04 | fichas/colegiado/2005-05.md |
-| SP2003/0101 | 2005-03-14 | nao-provido | cvm-col-20050314-d03 | fichas/colegiado/2005-05.md |
-| RJ2005/1442 | 2005-03-14 | outro | cvm-col-20050314-d02 | fichas/colegiado/2005-05.md |
-| RJ1990/0386 | 2005-03-14 | deferido | cvm-col-20050314-d01 | fichas/colegiado/2005-05.md |
-| — | 2005-03-08 | indeferido | cvm-col-20050308-d08 | fichas/colegiado/2005-05.md |
-| RJ2005/0610 | 2005-03-08 | indeferido | cvm-col-20050308-d07 | fichas/colegiado/2005-05.md |
-| RJ2005/0543 | 2005-03-08 | deferido | cvm-col-20050308-d06 | fichas/colegiado/2005-04.md |
-| RJ2005/0131 | 2005-03-08 | nao-provido | cvm-col-20050308-d04 | fichas/colegiado/2005-04.md |
-| RJ2005/0704 | 2005-03-08 | nao-provido | cvm-col-20050308-d03 | fichas/colegiado/2005-04.md |
-| RJ2004/6511 | 2005-03-08 | nao-provido | cvm-col-20050308-d02 | fichas/colegiado/2005-04.md |
-| RJ2003/6439 | 2005-03-08 | outro | cvm-col-20050308-d01 | fichas/colegiado/2005-04.md |
-| SP2003/0465 | 2005-03-01 | nao-provido | cvm-col-20050301-d12 | fichas/colegiado/2005-04.md |
-| RJ2003/1059 | 2005-03-01 | nao-provido | cvm-col-20050301-d11 | fichas/colegiado/2005-04.md |
-| RJ2003/11117 | 2005-03-01 | nao-provido | cvm-col-20050301-d10 | fichas/colegiado/2005-04.md |
-| RJ2004/7164 | 2005-03-01 | nao-provido | cvm-col-20050301-d09 | fichas/colegiado/2005-04.md |
-| RJ2005/0493 | 2005-03-01 | nao-provido | cvm-col-20050301-d08 | fichas/colegiado/2005-04.md |
-| RJ2005/0332 | 2005-03-01 | nao-provido | cvm-col-20050301-d07 | fichas/colegiado/2005-04.md |
-| RJ2005/0331 | 2005-03-01 | nao-provido | cvm-col-20050301-d06 | fichas/colegiado/2005-04.md |
-| RJ2004/6357 | 2005-03-01 | nao-provido | cvm-col-20050301-d05 | fichas/colegiado/2005-04.md |
-| RJ2004/6244 | 2005-03-01 | nao-provido | cvm-col-20050301-d04 | fichas/colegiado/2005-04.md |
-| RJ2004/7095 | 2005-03-01 | nao-provido | cvm-col-20050301-d03 | fichas/colegiado/2005-04.md |
-| RJ2004/5476 | 2005-03-01 | outro | cvm-col-20050301-d02 | fichas/colegiado/2005-04.md |
-| — | 2005-02-22 | outro | cvm-col-20050222-d08 | fichas/colegiado/2005-04.md |
-| RJ2005/1112 | 2005-02-22 | outro | cvm-col-20050222-d07 | fichas/colegiado/2005-04.md |
-| RJ2005/0383 | 2005-02-22 | nao-provido | cvm-col-20050222-d06 | fichas/colegiado/2005-04.md |
-| — | 2005-02-22 | outro | cvm-col-20050222-d05 | fichas/colegiado/2005-04.md |
-| RJ2005/0757 | 2005-02-22 | — | cvm-col-20050222-d04 | fichas/colegiado/2005-04.md |
-| SP2003/0494 | 2005-02-22 | nao-provido | cvm-col-20050222-d03 | fichas/colegiado/2005-03.md |
-| RJ2002/2555 | 2005-02-22 | outro | cvm-col-20050222-d02 | fichas/colegiado/2005-03.md |
-| — | 2005-02-22 | outro | cvm-col-20050222-d01 | fichas/colegiado/2005-03.md |
-| — | 2005-02-18 | deferido | cvm-col-20050218-d01 | fichas/colegiado/2005-03.md |
-| — | 2005-02-16 | outro | cvm-col-20050216-d01 | fichas/colegiado/2005-03.md |
-| — | 2005-02-15 | — | cvm-col-20050215-d4641 | fichas/colegiado/2005-03.md |
-| 13/00 | 2005-02-15 | outro | cvm-col-20050215-d05 | fichas/colegiado/2005-03.md |
-| — | 2005-02-15 | deferido | cvm-col-20050215-d04 | fichas/colegiado/2005-03.md |
-| RJ2004/5813 | 2005-02-15 | nao-provido | cvm-col-20050215-d01 | fichas/colegiado/2005-03.md |
-| RJ2005/0492 | 2005-02-10 | nao-provido | cvm-col-20050210-d06 | fichas/colegiado/2005-03.md |
-| RJ2004/6354 | 2005-02-10 | nao-provido | cvm-col-20050210-d05 | fichas/colegiado/2005-03.md |
-| RJ2005/0382 | 2005-02-10 | nao-provido | cvm-col-20050210-d04 | fichas/colegiado/2005-03.md |
-| SP2004/0228 | 2005-02-10 | parcial | cvm-col-20050210-d03 | fichas/colegiado/2005-03.md |
-| — | 2005-02-10 | outro | cvm-col-20050210-d02 | fichas/colegiado/2005-03.md |
-| RJ2003/13239 | 2005-02-10 | outro | cvm-col-20050210-d01 | fichas/colegiado/2005-03.md |
-| RJ2004/2057 | 2005-01-31 | nao-provido | cvm-col-20050131-d12 | fichas/colegiado/2005-03.md |
-| SP2004/0209 | 2005-01-31 | nao-provido | cvm-col-20050131-d11 | fichas/colegiado/2005-03.md |
-| SP2002/0494 | 2005-01-31 | provido | cvm-col-20050131-d10 | fichas/colegiado/2005-03.md |
-| RJ2004/6580 | 2005-01-31 | nao-provido | cvm-col-20050131-d09 | fichas/colegiado/2005-03.md |
-| RJ2004/6895 | 2005-01-31 | nao-provido | cvm-col-20050131-d08 | fichas/colegiado/2005-03.md |
-| SP2003/0380 | 2005-01-31 | provido | cvm-col-20050131-d07 | fichas/colegiado/2005-03.md |
-| SP2003/0099 | 2005-01-31 | provido | cvm-col-20050131-d06 | fichas/colegiado/2005-03.md |
-| SP2004/0012 | 2005-01-31 | nao-provido | cvm-col-20050131-d05 | fichas/colegiado/2005-03.md |
-| RJ2004/2684 | 2005-01-31 | — | cvm-col-20050131-d03 | fichas/colegiado/2005-03.md |
-| RJ90/0387 | 2005-01-31 | nao-provido | cvm-col-20050131-d01 | fichas/colegiado/2005-03.md |
-| RJ2004/6729 | 2005-01-25 | outro | cvm-col-20050125-d15 | fichas/colegiado/2005-02.md |
-| RJ2004/3491 | 2005-01-25 | nao-provido | cvm-col-20050125-d14 | fichas/colegiado/2005-02.md |
-| SP2000/0110 | 2005-01-25 | outro | cvm-col-20050125-d13 | fichas/colegiado/2005-02.md |
-| RJ2004/7408 | 2005-01-25 | deferido | cvm-col-20050125-d12 | fichas/colegiado/2005-02.md |
-| RJ2004/6372 | 2005-01-25 | nao-provido | cvm-col-20050125-d11 | fichas/colegiado/2005-02.md |
-| RJ2004/6713 | 2005-01-25 | nao-provido | cvm-col-20050125-d10 | fichas/colegiado/2005-02.md |
-| RJ2004/6623 | 2005-01-25 | indeferido | cvm-col-20050125-d09 | fichas/colegiado/2005-02.md |
-| RJ2004/5452 | 2005-01-25 | nao-provido | cvm-col-20050125-d08 | fichas/colegiado/2005-02.md |
-| — | 2005-01-25 | outro | cvm-col-20050125-d07 | fichas/colegiado/2005-02.md |
-| RJ2004/7266 | 2005-01-25 | deferido | cvm-col-20050125-d06 | fichas/colegiado/2005-02.md |
-| — | 2005-01-25 | outro | cvm-col-20050125-d05 | fichas/colegiado/2005-02.md |
-| SP2003/0463 | 2005-01-25 | parcial | cvm-col-20050125-d04 | fichas/colegiado/2005-02.md |
-| RJ2004/5125 | 2005-01-25 | parcial | cvm-col-20050125-d03 | fichas/colegiado/2005-02.md |
-| RJ2004/3098 | 2005-01-25 | nao-provido | cvm-col-20050125-d02 | fichas/colegiado/2005-02.md |
-| — | 2005-01-25 | outro | cvm-col-20050125-d01 | fichas/colegiado/2005-02.md |
-| RJ2004/6922 | 2005-01-18 | outro | cvm-col-20050118-d01 | fichas/colegiado/2005-02.md |
-| — | 2005-01-11 | deferido | cvm-col-20050111-d13 | fichas/colegiado/2005-01.md |
-| RJ2004/6241 | 2005-01-11 | nao-provido | cvm-col-20050111-d12 | fichas/colegiado/2005-01.md |
-| RJ2004/6251 | 2005-01-11 | nao-provido | cvm-col-20050111-d11 | fichas/colegiado/2005-01.md |
-| RJ2004/6347 | 2005-01-11 | nao-provido | cvm-col-20050111-d10 | fichas/colegiado/2005-01.md |
-| RJ2004/6246 | 2005-01-11 | nao-provido | cvm-col-20050111-d09 | fichas/colegiado/2005-01.md |
-| RJ2004/6243 | 2005-01-11 | nao-provido | cvm-col-20050111-d08 | fichas/colegiado/2005-01.md |
-| RJ2004/6314; RJ2004/3327 | 2005-01-11 | nao-provido | cvm-col-20050111-d07 | fichas/colegiado/2005-01.md |
-| RJ2004/5689; RJ2004/1286 | 2005-01-11 | nao-provido | cvm-col-20050111-d06 | fichas/colegiado/2005-01.md |
-| RJ2004/6638 | 2005-01-11 | nao-provido | cvm-col-20050111-d05 | fichas/colegiado/2005-01.md |
-| RJ2004/6487 | 2005-01-11 | nao-provido | cvm-col-20050111-d04 | fichas/colegiado/2005-01.md |
-| RJ2004/7004 | 2005-01-11 | nao-provido | cvm-col-20050111-d03 | fichas/colegiado/2005-01.md |
-| RJ2004/7146 | 2005-01-11 | parcial | cvm-col-20050111-d02 | fichas/colegiado/2005-01.md |
-| RJ90/0386 | 2005-01-11 | nao-provido | cvm-col-20050111-d01 | fichas/colegiado/2005-01.md |
-| SP2004/0515 | 2005-01-04 | outro | cvm-col-20050104-d09 | fichas/colegiado/2005-01.md |
-| RJ2004/6307 | 2005-01-04 | nao-provido | cvm-col-20050104-d08 | fichas/colegiado/2005-01.md |
-| RJ2004/6135 | 2005-01-04 | nao-provido | cvm-col-20050104-d07 | fichas/colegiado/2005-01.md |
-| RJ2004/6628 | 2005-01-04 | nao-provido | cvm-col-20050104-d06 | fichas/colegiado/2005-01.md |
-| RJ2004/6371 | 2005-01-04 | nao-provido | cvm-col-20050104-d05 | fichas/colegiado/2005-01.md |
-| RJ2004/6248 | 2005-01-04 | nao-provido | cvm-col-20050104-d04 | fichas/colegiado/2005-01.md |
-| RJ2004/6476 | 2005-01-04 | nao-provido | cvm-col-20050104-d03 | fichas/colegiado/2005-01.md |
-| RJ2004/5732 | 2005-01-04 | nao-provido | cvm-col-20050104-d02 | fichas/colegiado/2005-01.md |
-| RJ2004/5417 | 2005-01-04 | deferido | cvm-col-20050104-d01 | fichas/colegiado/2005-01.md |
+| Processo | Data | Resultado | Ementa | Id | Ficha |
+|---|---|---|---|---|---|
+| — | 2005-12-27 | outro | O Colegiado aprovou minuta de Decisão-Conjunta CVM/Bacen que revoga normas sobre fundos de investimento editadas com o Bacen, sem função ou… | cvm-col-20051227-d15 | fichas/colegiado/2005-21.md |
+| RJ2005/7922 | 2005-12-27 | deferido | O Colegiado deferiu, na forma apresentada pelo relator, pedido da Companhia de Tecidos Norte de Minas – Coteminas de recompra de ações… | cvm-col-20051227-d14 | fichas/colegiado/2005-21.md |
+| RJ2003/5473 | 2005-12-27 | deferido | O Colegiado deferiu o pedido do Banco Ourinvest S.A. e prorrogou para 01.02.06 o prazo de assinatura do Termo de Compromisso no PAS… | cvm-col-20051227-d13 | fichas/colegiado/2005-21.md |
+| RJ2005/6172 | 2005-12-27 | parcial | O Colegiado decidiu que só cotistas subordinados suportam despesas do fundo, que seu voto segue o regulamento e que o fundo pode aplicar em… | cvm-col-20051227-d12 | fichas/colegiado/2005-21.md |
+| RJ2005/7838 | 2005-12-27 | outro | Consulta da Obrascon Huarte Lain Brasil S.A. sobre dispensa da ICVM 319/99 em incorporação. O Colegiado, acompanhando a relatora, afirmou… | cvm-col-20051227-d11 | fichas/colegiado/2005-21.md |
+| RJ2005/3726 | 2005-12-27 | nao-provido | O Colegiado negou provimento a recurso de pessoa física contra decisão da SIN que indeferiu credenciamento como administrador de carteira… | cvm-col-20051227-d10 | fichas/colegiado/2005-21.md |
+| RJ2005/6749 | 2005-12-27 | nao-provido | O Colegiado negou provimento ao recurso do recorrente, pessoa física, contra indeferimento de credenciamento para administração de carteira… | cvm-col-20051227-d09 | fichas/colegiado/2005-21.md |
+| RJ2005/9585 | 2005-12-27 | outro | O Colegiado aprovou a minuta apresentada pela Bovespa para alterar o Regulamento de Listagem do Novo Mercado e de Práticas Diferenciadas de… | cvm-col-20051227-d08 | fichas/colegiado/2005-20.md |
+| RJ2005/7614 | 2005-12-27 | deferido | O Colegiado autorizou o registro de funcionamento do FIDC Caiuá e o registro da oferta pública de distribuição de suas quotas seniores, com… | cvm-col-20051227-d07 | fichas/colegiado/2005-20.md |
+| RJ2005/7481 | 2005-12-27 | parcial | O Colegiado acolheu em parte pedido da Caiuá e concedeu dispensa de laudo de avaliação em OPA, nos termos do art. 34 da Instrução CVM… | cvm-col-20051227-d06 | fichas/colegiado/2005-20.md |
+| RJ2005/5502 | 2005-12-27 | outro | O Colegiado aprovou o texto do Memorando de Entendimento a ser assinado entre a CVM e a Autoridade de Valores Mobiliários de Israel. | cvm-col-20051227-d05 | fichas/colegiado/2005-20.md |
+| RJ2004/6153 | 2005-12-27 | parcial | O Colegiado conheceu em parte do pedido de reconsideração da TOV CCTVM e rejeitou o restante. Entendeu que estatutos com múltiplos… | cvm-col-20051227-d03 | fichas/colegiado/2005-20.md |
+| — | 2005-12-27 | outro | O Colegiado aprovou a minuta de Instrução apresentada pela PFE sobre a administração de carteira de valores mobiliários do Fundo Garantidor… | cvm-col-20051227-d02 | fichas/colegiado/2005-20.md |
+| RJ2004/5580 | 2005-12-27 | — | Recurso de acionistas minoritários contra decisão da SEP sobre alienação de controle e aumento de capital da Cemar, feito com créditos do… | cvm-col-20051227-d01 | fichas/colegiado/2005-20.md |
+| RJ2005/9440 | 2005-12-21 | parcial | O Colegiado, a pedido de dois acionistas, aumentou de 15 para 22 dias o prazo mínimo de antecedência do primeiro anúncio de convocação das… | cvm-col-20051221-d01 | fichas/colegiado/2005-20.md |
+| RJ2004/6068 | 2005-12-20 | deferido | O Colegiado deferiu pedido de prorrogação do prazo para cumprimento das cláusulas de termo de compromisso aprovado em 09.08.05 no PAS… | cvm-col-20051220-d11 | fichas/colegiado/2005-20.md |
+| RJ2005/8293 | 2005-12-20 | deferido | O Colegiado autorizou a Gafisa a manter em tesouraria ações preferenciais resgatáveis classes B e C acima do limite da Instrução CVM 10/80… | cvm-col-20051220-d10 | fichas/colegiado/2005-20.md |
+| RJ2005/4302 | 2005-12-20 | outro | Em consulta, o Colegiado entendeu que: (i) não é admissível cláusula regulamentar genérica que autorize antecipadamente investimento em… | cvm-col-20051220-d09 | fichas/colegiado/2005-20.md |
+| RJ2005/8495 | 2005-12-20 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2005/8495. | cvm-col-20051220-d08 | fichas/colegiado/2005-20.md |
+| RJ2005/8334 | 2005-12-20 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2005/8334. | cvm-col-20051220-d07 | fichas/colegiado/2005-20.md |
+| SP2005/0311 | 2005-12-20 | indeferido | O Colegiado acompanhou o voto do Presidente e não acolheu proposta da Bovespa de envio eletrônico, em vez de correio, de documentos de… | cvm-col-20051220-d06 | fichas/colegiado/2005-20.md |
+| RJ2005/5289 | 2005-12-20 | outro | O Colegiado, acompanhando o relator, decidiu que a advertência em processo administrativo não pode, por si só, fundamentar o indeferimento… | cvm-col-20051220-d05 | fichas/colegiado/2005-20.md |
+| RJ2005/8870 | 2005-12-20 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2005/8870. | cvm-col-20051220-d04 | fichas/colegiado/2005-20.md |
+| RJ2004/3764 | 2005-12-20 | outro | O Colegiado aprovou o cancelamento de ofício do registro de 39 companhias abertas, nos termos do art. 2º da ICVM 287/98, pelos argumentos… | cvm-col-20051220-d03 | fichas/colegiado/2005-20.md |
+| RJ2005/3104 | 2005-12-20 | outro | O Colegiado, por maioria, manteve o número de conselheiros do estatuto da BM&F desde 2002 (17, acima do máximo de 13 do art. 13 da… | cvm-col-20051220-d02 | fichas/colegiado/2005-20.md |
+| RJ2004/2684 | 2005-12-20 | — | Pedido de reconsideração da decisão do Colegiado de 29.03.05 que, por maioria, firmou que a reserva estatutária do art. 27, e, do estatuto… | cvm-col-20051220-d01 | fichas/colegiado/2005-20.md |
+| RJ2005/7579 | 2005-12-13 | outro | O Colegiado aprovou o Plano Anual de Atividades de Auditoria Interna para o exercício de 2006, apresentado pela AUD, e consignou elogio… | cvm-col-20051213-d4957 | fichas/colegiado/2005-19.md |
+| RJ2004/1616 | 2005-12-13 | parcial | O Colegiado deu provimento parcial a pedido de reconsideração de termo de compromisso da Petrobras, para esclarecer que obrigações perante… | cvm-col-20051213-d05 | fichas/colegiado/2005-19.md |
+| SP2005/0310 | 2005-12-13 | outro | O Colegiado aprovou o Regulamento do segmento Bovespa Mais, ressalvando que o cancelamento de registro nesse segmento, ainda que com… | cvm-col-20051213-d04 | fichas/colegiado/2005-19.md |
+| RJ2005/8437 | 2005-12-13 | parcial | O Colegiado julgou parcialmente prejudicado recurso do administrador contra decisão da SRE sobre alteração do regulamento do Rural FIDC… | cvm-col-20051213-d03 | fichas/colegiado/2005-19.md |
+| RJ2003/5473; RJ2002/7017 | 2005-12-13 | parcial | O Colegiado deu provimento parcial ao pedido do Banco Ourinvest S.A. de alterar a redação do Termo de Compromisso aprovado em 01.11.05. Em… | cvm-col-20051213-d02 | fichas/colegiado/2005-19.md |
+| RJ2005/7527 | 2005-12-13 | indeferido | O Colegiado, por maioria, negou o pedido da Metalúrgica Gerdau S.A. de dispensa do registro de oferta pública secundária de ações… | cvm-col-20051213-d01 | fichas/colegiado/2005-19.md |
+| RJ2005/7473 | 2005-12-06 | nao-provido | O Colegiado manteve a decisão de 30.09.05 sobre a OPA unificada da Jari Celulose S.A. ao julgar pedido de reconsideração da Saga… | cvm-col-20051206-d11 | fichas/colegiado/2005-19.md |
+| RJ2005/3917 | 2005-12-06 | indeferido | O Colegiado indeferiu o pedido de registro de OPA para cancelamento de registro da Manasa – Madeireira Nacional S.A., com avaliação pelo… | cvm-col-20051206-d10 | fichas/colegiado/2005-19.md |
+| RJ2005/8335 | 2005-12-06 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2005/8335. | cvm-col-20051206-d09 | fichas/colegiado/2005-19.md |
+| RJ2005/8191 | 2005-12-06 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2005/8191. | cvm-col-20051206-d08 | fichas/colegiado/2005-19.md |
+| RJ2005/8161 | 2005-12-06 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2005/8161. | cvm-col-20051206-d07 | fichas/colegiado/2005-19.md |
+| RJ2005/8159 | 2005-12-06 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2005/8159. | cvm-col-20051206-d06 | fichas/colegiado/2005-19.md |
+| RJ2005/8083 | 2005-12-06 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2005/8083. | cvm-col-20051206-d05 | fichas/colegiado/2005-19.md |
+| RJ2005/8427 | 2005-12-06 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2005/8427. | cvm-col-20051206-d04 | fichas/colegiado/2005-19.md |
+| RJ2005/7874 | 2005-12-06 | nao-provido | O Colegiado negou o pedido de vista de Bonus Banval Participações Ltda., em recurso contra decisão da SFI que negou extração de cópias do… | cvm-col-20051206-d03 | fichas/colegiado/2005-19.md |
+| RJ2005/4105 | 2005-12-06 | nao-provido | O Colegiado, por maioria, negou provimento ao recurso da Tec Toy S.A. contra entendimento da SEP que considerou não ser possível… | cvm-col-20051206-d02 | fichas/colegiado/2005-19.md |
+| RJ2005/3356 | 2005-12-06 | nao-provido | O Colegiado negou provimento ao recurso da Teka Tecelagem Kuehnrich S.A. contra decisão da SEP que determinou o refazimento e a… | cvm-col-20051206-d01 | fichas/colegiado/2005-19.md |
+| — | 2005-11-30 | outro | O Colegiado aprovou minuta de Deliberação que consolida a estrutura organizacional da CVM e revoga a Deliberação nº 492/05. | cvm-col-20051130-d01 | fichas/colegiado/2005-19.md |
+| — | 2005-11-29 | outro | O Colegiado aprovou minuta de Deliberação sobre colocação irregular de contratos de investimento coletivo (CIC) e determinou que a SRE… | cvm-col-20051129-d09 | fichas/colegiado/2005-19.md |
+| RJ2005/8208 | 2005-11-29 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2005/8208. | cvm-col-20051129-d08 | fichas/colegiado/2005-19.md |
+| RJ2005/7318 | 2005-11-29 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2005/7318. | cvm-col-20051129-d07 | fichas/colegiado/2005-19.md |
+| RJ2005/7317 | 2005-11-29 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2005/7317. | cvm-col-20051129-d06 | fichas/colegiado/2005-19.md |
+| RJ2005/7748 | 2005-11-29 | indeferido | O Colegiado indeferiu pedido da Unibanco Asset Management e do Unibanco de dispensa de assembleia de cotistas para substituir a gestora dos… | cvm-col-20051129-d05 | fichas/colegiado/2005-19.md |
+| RJ2005/7394 | 2005-11-29 | deferido | O Colegiado concedeu a dispensa pleiteada pelo Banco Santander, líder da oferta, de mencionar nome e endereço do acionista vendedor pessoa… | cvm-col-20051129-d04 | fichas/colegiado/2005-18.md |
+| RJ2005/6920; RJ2005/7852 | 2005-11-29 | outro | O Colegiado acolheu proposta da SMI e aprovou a dissolução da Bolsa de Valores do Paraná. A dissolução deverá ser precedida de aviso aos… | cvm-col-20051129-d03 | fichas/colegiado/2005-18.md |
+| RJ2005/5140 | 2005-11-29 | nao-provido | Recurso contra decisão da SEP em processo de rito sumário. Proc. RJ2005/5140. | cvm-col-20051129-d02 | fichas/colegiado/2005-18.md |
+| RJ2005/0880 | 2005-11-29 | outro | O Colegiado confirmou que o reembolso de capital do The Brazil Fund, Inc. pode ser feito in natura ou in pecunia (art. 4º, IV, da… | cvm-col-20051129-d01 | fichas/colegiado/2005-18.md |
+| RJ2005/8534 | 2005-11-24 | deferido | O Colegiado concedeu dispensa de apresentação do estudo de viabilidade no registro de distribuição primária e secundária de ações da… | cvm-col-20051124-d01 | fichas/colegiado/2005-18.md |
+| RJ2005/0102 | 2005-11-23 | outro | O Colegiado deliberou submeter a nova audiência pública a proposta de alteração da ICVM 414/04, sobre registro de companhias… | cvm-col-20051123-d01 | fichas/colegiado/2005-18.md |
+| RJ2004/5891 | 2005-11-22 | deferido | O Colegiado prorrogou para o 1º quadrimestre de 2006 o prazo de início do curso sobre Direito Societário e Mercado de Valores Mobiliários… | cvm-col-20051122-d21 | fichas/colegiado/2005-18.md |
+| — | 2005-11-22 | outro | O Colegiado determinou à área técnica que informe à Universo Online S.A. que o pedido de dispensa do estudo de viabilidade… | cvm-col-20051122-d20 | fichas/colegiado/2005-18.md |
+| RJ2005/8357 | 2005-11-22 | deferido | O Colegiado acatou o pleito das companhias Unibanco Leasing e Dibens Leasing para não atender integralmente às publicações da Instrução CVM… | cvm-col-20051122-d19 | fichas/colegiado/2005-18.md |
+| RJ2005/3975 | 2005-11-22 | provido | O Colegiado deu provimento ao recurso da EMURB contra indeferimento da SRE ao pedido de prorrogação do prazo de oferta de CEPAC. Dispensou… | cvm-col-20051122-d18 | fichas/colegiado/2005-18.md |
+| RJ2005/7800 | 2005-11-22 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2005/7800. | cvm-col-20051122-d17 | fichas/colegiado/2005-18.md |
+| RJ2005/7647 | 2005-11-22 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2005/7647. | cvm-col-20051122-d16 | fichas/colegiado/2005-18.md |
+| RJ2005/7576 | 2005-11-22 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2005/7576. | cvm-col-20051122-d15 | fichas/colegiado/2005-18.md |
+| RJ2005/7575 | 2005-11-22 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2005/7575. | cvm-col-20051122-d14 | fichas/colegiado/2005-18.md |
+| RJ2005/7571 | 2005-11-22 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2005/7571. | cvm-col-20051122-d13 | fichas/colegiado/2005-18.md |
+| RJ2005/7512 | 2005-11-22 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2005/7512. | cvm-col-20051122-d12 | fichas/colegiado/2005-18.md |
+| RJ2005/7464 | 2005-11-22 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2005/7464. | cvm-col-20051122-d11 | fichas/colegiado/2005-18.md |
+| RJ2005/7921 | 2005-11-22 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2005/7921. | cvm-col-20051122-d10 | fichas/colegiado/2005-18.md |
+| RJ2005/7920 | 2005-11-22 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2005/7920. | cvm-col-20051122-d09 | fichas/colegiado/2005-18.md |
+| RJ2005/7919 | 2005-11-22 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2005/7919. | cvm-col-20051122-d08 | fichas/colegiado/2005-18.md |
+| RJ2005/7503 | 2005-11-22 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2005/7503. | cvm-col-20051122-d07 | fichas/colegiado/2005-18.md |
+| RJ2005/7462 | 2005-11-22 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2005/7462. | cvm-col-20051122-d06 | fichas/colegiado/2005-18.md |
+| RJ2005/7365 | 2005-11-22 | deferido | O Colegiado, em caráter excepcional, autorizou a Light — Serviços de Eletricidade S.A. a confrontar seu patrimônio líquido com o da Light… | cvm-col-20051122-d05 | fichas/colegiado/2005-18.md |
+| RJ2005/3686 | 2005-11-22 | deferido | O Colegiado deferiu pedido da Beta Securitizadora S.A. de prorrogação, por 150 dias contados de 13.10.05, da vigência do registro… | cvm-col-20051122-d04 | fichas/colegiado/2005-18.md |
+| RJ2005/6889 | 2005-11-22 | deferido | O Colegiado concedeu a dispensa do requisito do art. 11 da Instrução CVM 400/03 pleiteada pela Telemar Norte Leste S.A. e pelo BB Banco de… | cvm-col-20051122-d03 | fichas/colegiado/2005-17.md |
+| RJ2005/7339 | 2005-11-22 | provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2005/7339. | cvm-col-20051122-d02 | fichas/colegiado/2005-17.md |
+| RJ2005/4494 | 2005-11-22 | parcial | O Colegiado concedeu novo prazo, até 31.03.06, para convocar assembleias de cotistas de fundos transferidos do Banco Santos à Mellon… | cvm-col-20051122-d01 | fichas/colegiado/2005-17.md |
+| RJ2005/7504 | 2005-11-17 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2005/7504. | cvm-col-20051117-d16 | fichas/colegiado/2005-17.md |
+| RJ2005/7746 | 2005-11-17 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2005/7746. | cvm-col-20051117-d15 | fichas/colegiado/2005-17.md |
+| RJ2005/7586 | 2005-11-17 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2005/7586. | cvm-col-20051117-d14 | fichas/colegiado/2005-17.md |
+| RJ2005/7495 | 2005-11-17 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2005/7495. | cvm-col-20051117-d13 | fichas/colegiado/2005-17.md |
+| RJ2005/7433 | 2005-11-17 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2005/7433. | cvm-col-20051117-d12 | fichas/colegiado/2005-17.md |
+| RJ2005/7319 | 2005-11-17 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2005/7319. | cvm-col-20051117-d11 | fichas/colegiado/2005-17.md |
+| RJ2005/7725 | 2005-11-17 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2005/7725. | cvm-col-20051117-d10 | fichas/colegiado/2005-17.md |
+| RJ2005/7572 | 2005-11-17 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2005/7572. | cvm-col-20051117-d09 | fichas/colegiado/2005-17.md |
+| RJ2005/7510 | 2005-11-17 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2005/7510. | cvm-col-20051117-d08 | fichas/colegiado/2005-17.md |
+| RJ2003/5459 | 2005-11-17 | outro | O Colegiado arquivou o PAS contra o Banco Bradesco S.A. e outro, com base na análise da área técnica, que concluiu pelo cumprimento das… | cvm-col-20051117-d07 | fichas/colegiado/2005-17.md |
+| 08/02 | 2005-11-17 | outro | O Colegiado arquivou o PAS 08/02 em relação aos indiciados, por comprovação do cumprimento integral das condições do Termo de Compromisso… | cvm-col-20051117-d06 | fichas/colegiado/2005-17.md |
+| RJ2005/7115 | 2005-11-17 | outro | O Colegiado determinou que a SIN oficie os custodiantes, por circularização, para verificar a existência de ativos em nome de dois fundos… | cvm-col-20051117-d05 | fichas/colegiado/2005-17.md |
+| RJ2005/7232 | 2005-11-17 | provido | O Colegiado deu provimento a recurso da Sanepar contra entendimento da SEP que considerou irregular a assembleia geral ordinária de… | cvm-col-20051117-d04 | fichas/colegiado/2005-17.md |
+| RJ2005/7049 | 2005-11-17 | provido | O Colegiado deu provimento a recurso contra indeferimento pela SMI de autorização para agente autônomo de investimento por falta de ensino… | cvm-col-20051117-d03 | fichas/colegiado/2005-17.md |
+| RJ2005/4284 | 2005-11-17 | nao-provido | O Colegiado negou provimento a novo pedido de reconsideração da 524 Participações S.A. contra decisão que determinou a reapresentação de… | cvm-col-20051117-d01 | fichas/colegiado/2005-17.md |
+| RJ2005/7750 | 2005-11-09 | deferido | O Colegiado deferiu pleito da Suzano Petroquímica S.A. de dispensa de exigências em incorporações de companhias fechadas, após atendidas as… | cvm-col-20051109-d03 | fichas/colegiado/2005-17.md |
+| RJ2005/7215 | 2005-11-09 | outro | O Colegiado aprovou, para audiência pública de 30 dias, minutas de Edital e de Instrução sobre o plano contábil dos fundos de investimento… | cvm-col-20051109-d02 | fichas/colegiado/2005-17.md |
+| RJ2005/4734 | 2005-11-09 | outro | O Colegiado aprovou, com alterações, para audiência pública pelo prazo de 30 dias, minutas de Edital e de Instrução sobre escrituração… | cvm-col-20051109-d01 | fichas/colegiado/2005-17.md |
+| RJ2002/6032 | 2005-11-08 | outro | O Colegiado determinou nova intimação dos acusados no PAS RJ2002/6032 (Sul América Investimentos DTVM S.A. e outro) para apresentação de… | cvm-col-20051108-d3883 | fichas/colegiado/2005-17.md |
+| — | 2005-11-08 | parcial | O Colegiado acolheu parcialmente recurso da Cosan e do Morgan Stanley contra suspensão de 15 dias da oferta primária de ações ordinárias da… | cvm-col-20051108-d13 | fichas/colegiado/2005-17.md |
+| RJ2005/7750 | 2005-11-08 | parcial | O Colegiado condicionou o atendimento do pleito da Suzano Petroquímica S.A. a que, nas incorporações sucessivas, todas as incorporadas… | cvm-col-20051108-d12 | fichas/colegiado/2005-17.md |
+| RJ2005/7511 | 2005-11-08 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2005/7511. | cvm-col-20051108-d11 | fichas/colegiado/2005-16.md |
+| RJ2005/7509 | 2005-11-08 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2005/7509. | cvm-col-20051108-d10 | fichas/colegiado/2005-16.md |
+| RJ2005/7494 | 2005-11-08 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2005/7494. | cvm-col-20051108-d09 | fichas/colegiado/2005-16.md |
+| RJ2005/7493 | 2005-11-08 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2005/7493. | cvm-col-20051108-d08 | fichas/colegiado/2005-16.md |
+| RJ2005/7093 | 2005-11-08 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2005/7093. | cvm-col-20051108-d07 | fichas/colegiado/2005-16.md |
+| RJ2005/7097 | 2005-11-08 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2005/7097. | cvm-col-20051108-d06 | fichas/colegiado/2005-16.md |
+| RJ2005/5696 | 2005-11-08 | outro | Aprovada a minuta de convênio entre a CVM e a Secretaria de Previdência Complementar para ação coordenada de supervisão e intercâmbio de… | cvm-col-20051108-d05 | fichas/colegiado/2005-16.md |
+| — | 2005-11-08 | outro | O Colegiado aprovou a minuta de convênio entre a CVM e a SUSEP para ação coordenada de supervisão, intercâmbio de informações e atividades… | cvm-col-20051108-d04 | fichas/colegiado/2005-16.md |
+| RJ2004/2684 | 2005-11-08 | — | Apreciação de pedido de reconsideração de decisão de 29.03.05, que deu provimento a recurso e entendeu que reserva estatutária (art. 27, e… | cvm-col-20051108-d03 | fichas/colegiado/2005-16.md |
+| RJ2005/5664 | 2005-11-08 | provido | Por maioria, com voto de desempate do Presidente, o Colegiado deu provimento a recurso de Opportunity Fund e outros contra entendimento da… | cvm-col-20051108-d02 | fichas/colegiado/2005-16.md |
+| RJ2003/5746 | 2005-11-08 | nao-provido | Novo pedido de reconsideração de decisão do colegiado em processo de fundo de garantia. Proc. RJ2003/5746. | cvm-col-20051108-d01 | fichas/colegiado/2005-16.md |
+| — | 2005-11-01 | outro | O Colegiado aprovou a minuta de Deliberação que consolida a estrutura organizacional da CVM e revoga a Deliberação 477/05. | cvm-col-20051101-d05 | fichas/colegiado/2005-16.md |
+| RJ2004/2892 | 2005-11-01 | outro | O Colegiado aprovou o cancelamento de ofício do registro da Cia. Industrial Agropecuária Conape, proposto pela SEP com base no art. 2º da… | cvm-col-20051101-d04 | fichas/colegiado/2005-16.md |
+| RJ2005/6224 | 2005-11-01 | outro | Em consulta da BB Administração de Ativos DTVM S.A., o Colegiado, com base em parecer da PFE, deliberou que as cotas do Fundo de Futuros de… | cvm-col-20051101-d01 | fichas/colegiado/2005-16.md |
+| — | 2005-10-31 | deferido | O Colegiado deferiu, por unanimidade, pedido da Bovespa e editou normativo prorrogando para 31.12.2005 o prazo de adaptação do art. 5º da… | cvm-col-20051031-d01 | fichas/colegiado/2005-16.md |
+| RJ2005/6228 | 2005-10-26 | deferido | O Colegiado concedeu a dispensa pleiteada pela Suzano Química Ltda. para a adoção de procedimento diferenciado (art. 34, ICVM 361/02) em… | cvm-col-20051026-d03 | fichas/colegiado/2005-16.md |
+| RJ2005/6223 | 2005-10-26 | deferido | O Colegiado concedeu a dispensa pleiteada na OPA para cancelamento de registro da Polipropileno Participações S.A., com procedimento… | cvm-col-20051026-d02 | fichas/colegiado/2005-16.md |
+| RJ2004/6922 | 2005-10-26 | outro | O Colegiado aprovou a versão final da Instrução sobre o envio à CVM de balancetes dos fundos de investimento que especifica. | cvm-col-20051026-d01 | fichas/colegiado/2005-16.md |
+| 04/01 | 2005-10-25 | nao-provido | O Colegiado indeferiu pedidos de reconsideração de sua decisão no PAS 04/01 (Postalis), inclusive quanto à atribuição de efeito suspensivo… | cvm-col-20051025-d11 | fichas/colegiado/2005-16.md |
+| RJ2005/7396 | 2005-10-25 | outro | O Colegiado aprovou o texto do Memorando de Entendimento a ser assinado entre a CVM e o Serviço Federal do Mercado Financeiro da Rússia. | cvm-col-20051025-d10 | fichas/colegiado/2005-16.md |
+| RJ2005/6228 | 2005-10-25 | — | Pedido da Suzano Química Ltda. de registro de OPA de ações ordinárias e preferenciais para cancelamento de registro de Polipropileno S.A… | cvm-col-20051025-d09 | fichas/colegiado/2005-16.md |
+| RJ2005/6223 | 2005-10-25 | — | Pedido de Suzano Química Ltda. de registro de OPA para cancelamento do registro de companhia aberta da Polipropileno Participações S.A… | cvm-col-20051025-d08 | fichas/colegiado/2005-16.md |
+| RJ2005/6167 | 2005-10-25 | deferido | O Colegiado autorizou a concessão do registro do fundo pela área técnica. Considerou controvertidas três questões levantadas pela SRE… | cvm-col-20051025-d07 | fichas/colegiado/2005-15.md |
+| RJ2005/0739 | 2005-10-25 | outro | Consulta sobre abrangência do conceito de direitos creditórios. Proc. RJ2005/0739. | cvm-col-20051025-d06 | fichas/colegiado/2005-15.md |
+| RJ2004/2776 | 2005-10-25 | parcial | O Colegiado deu provimento parcial a recurso da Focus Assessoria de Investimento S.A. sobre o diretor de administração de carteiras que… | cvm-col-20051025-d05 | fichas/colegiado/2005-15.md |
+| RJ2005/7202; RJ2005/5934; RJ2005/5979 | 2005-10-25 | provido | O Colegiado deu provimento a recurso contra determinação da SEP de refazer e republicar as demonstrações financeiras de 31.12.04 da La… | cvm-col-20051025-d03 | fichas/colegiado/2005-15.md |
+| RJ2005/3668 | 2005-10-25 | outro | O Colegiado entendeu possível constituir FIDC lastreado em royalties de petróleo ou gás natural, por se enquadrarem no conceito de direito… | cvm-col-20051025-d02 | fichas/colegiado/2005-15.md |
+| RJ90/0387 | 2005-10-25 | parcial | Novo pedido de reconsideração de decisão do colegiado em processo de fundo de garantia. Proc. RJ90/0387. | cvm-col-20051025-d01 | fichas/colegiado/2005-15.md |
+| RJ2005/5308 | 2005-10-18 | outro | O Colegiado aprovou a minuta de Deliberação apresentada pela área técnica que suspende as atividades de intermediação e análise de valores… | cvm-col-20051018-d09 | fichas/colegiado/2005-15.md |
+| RJ2005/0364 | 2005-10-18 | parcial | O Colegiado deu provimento parcial a recurso de Previ e Petros contra decisão da SEP sobre trust agreement da Brasil Telecom, que… | cvm-col-20051018-d07 | fichas/colegiado/2005-15.md |
+| RJ2005/4980 | 2005-10-18 | outro | Em consulta do Citibank sobre transferência de titularidade de cotas de fundos exclusivos ligados a reservas técnicas de entidade fechada… | cvm-col-20051018-d06 | fichas/colegiado/2005-15.md |
+| — | 2005-10-18 | outro | O Colegiado manifestou o entendimento de que o parágrafo único do art. 15 da Instrução CVM 306/99 admite vários gestores terceiros para… | cvm-col-20051018-d05 | fichas/colegiado/2005-15.md |
+| SP2004/0067 | 2005-10-18 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2004/0067. | cvm-col-20051018-d04 | fichas/colegiado/2005-15.md |
+| RJ2005/4653 | 2005-10-18 | outro | O Colegiado entendeu que, prestados os esclarecimentos da área de fiscalização e interposto recurso ao CRSFN, extinguiu-se a função… | cvm-col-20051018-d03 | fichas/colegiado/2005-15.md |
+| — | 2005-10-18 | outro | O Colegiado aprovou a minuta de Deliberação que altera o art. 34 da Deliberação CVM 457/02. | cvm-col-20051018-d02 | fichas/colegiado/2005-15.md |
+| RJ2005/4359 | 2005-10-11 | nao-provido | O Colegiado negou provimento a recurso da Quorum Auditores Independentes contra decisão da SNC sobre rodízio obrigatório. Manteve o… | cvm-col-20051011-d08 | fichas/colegiado/2005-15.md |
+| SP2000/0198 | 2005-10-11 | parcial | Recurso contra decisão da SMI de aplicação de multa cominatória. Proc. SP2000/0198. | cvm-col-20051011-d07 | fichas/colegiado/2005-15.md |
+| RJ2004/2777 | 2005-10-11 | parcial | O Colegiado deu provimento parcial a recurso contra decisão da SIN sobre o responsável pela administração de carteiras de corretora que era… | cvm-col-20051011-d06 | fichas/colegiado/2005-15.md |
+| RJ2005/4961 | 2005-10-11 | nao-provido | O Colegiado negou provimento a recurso do Opportunity Fund e da Opportunity Lógica Rio contra determinação da SEP de arquivamento, no… | cvm-col-20051011-d05 | fichas/colegiado/2005-15.md |
+| RJ2005/0116; RJ2005/0118; RJ2005/2073 | 2005-10-11 | nao-provido | O Colegiado negou provimento a recursos de três companhias contra exigência da SEP de limitar a 50% do total de ações as preferenciais… | cvm-col-20051011-d04 | fichas/colegiado/2005-14.md |
+| RJ2005/4284 | 2005-10-11 | conhecimento | O Colegiado não conheceu do pedido de reconsideração da 524 Participações S.A. contra decisão que determinou a reapresentação de ITRs de… | cvm-col-20051011-d03 | fichas/colegiado/2005-14.md |
+| RJ2002/8479 | 2005-10-11 | provido | Recurso contra a decisão da SIN em processo de rito sumário. Proc. RJ2002/8479. | cvm-col-20051011-d02 | fichas/colegiado/2005-14.md |
+| RJ2004/4970 | 2005-10-11 | provido | O Colegiado deu provimento a recurso da Companhia Industrial Dox contra decisão da SEP e fixou o cancelamento do registro de companhia… | cvm-col-20051011-d01 | fichas/colegiado/2005-14.md |
+| RJ2001/8273 | 2005-10-04 | provido | O Colegiado deu provimento a recurso contra decisão da SMI que negou autorização de agente autônomo de investimento por falta de reputação… | cvm-col-20051004-d08 | fichas/colegiado/2005-14.md |
+| RJ2005/5392 | 2005-10-04 | outro | O Colegiado aprovou a minuta de Instrução sobre cadastramento de cooperativas de crédito na CVM, que revoga a Instrução CVM 417/05. | cvm-col-20051004-d07 | fichas/colegiado/2005-14.md |
+| SP2005/0209 | 2005-10-04 | provido | Recurso em processo de fundo de garantia. Proc. SP2005/0209. | cvm-col-20051004-d06 | fichas/colegiado/2005-14.md |
+| RJ2004/7389 | 2005-10-04 | nao-provido | O Colegiado negou provimento a recurso contra indeferimento pela SIN de credenciamento como administrador de carteira, por falta de… | cvm-col-20051004-d05 | fichas/colegiado/2005-14.md |
+| RJ2005/2611 | 2005-10-04 | outro | O Colegiado acompanhou o relator e considerou correta a interpretação estatutária da CTEEP: o dividendo obrigatório consta só dos incisos I… | cvm-col-20051004-d04 | fichas/colegiado/2005-14.md |
+| RJ2004/6913 | 2005-10-04 | outro | Em resposta à consulta da ANBID sobre a responsabilidade do custodiante de FIDC, o Colegiado aprovou a colocação em audiência pública, por… | cvm-col-20051004-d03 | fichas/colegiado/2005-14.md |
+| RJ2004/2692 | 2005-10-04 | outro | O Colegiado determinou o arquivamento do PAS em razão do óbito do único indiciado, comprovado por atestado de óbito. | cvm-col-20051004-d02 | fichas/colegiado/2005-14.md |
+| 14/03 | 2005-09-30 | outro | O julgamento, marcado para 21.09.05, foi adiado por dúvidas na capitulação das imputações. O Colegiado determinou nova intimação dos… | cvm-col-20050930-d4076 | fichas/colegiado/2005-14.md |
+| RJ2005/4914 | 2005-09-30 | deferido | O Colegiado concedeu os registros de funcionamento e de oferta pública de distribuição de cotas do FIDC Cesp II, com base nos argumentos da… | cvm-col-20050930-d09 | fichas/colegiado/2005-14.md |
+| RJ2005/0568 | 2005-09-30 | deferido | Acompanhando a área técnica, o Colegiado concedeu as dispensas dos itens i (inversão do quórum de validação) e ii (sem leilão) na OPA com… | cvm-col-20050930-d08 | fichas/colegiado/2005-14.md |
+| RJ2005/5980 | 2005-09-30 | nao-provido | O Colegiado negou provimento a recurso da Lacerda & Auditores Independentes contra o cancelamento, pela SNC, de seu registro como auditor… | cvm-col-20050930-d07 | fichas/colegiado/2005-14.md |
+| RJ2003/12609 | 2005-09-30 | provido | Recurso contra a decisão da SIN de aplicação de multa cominatória em razão de descumprimento de intimação. Proc. RJ2003/12609. | cvm-col-20050930-d06 | fichas/colegiado/2005-14.md |
+| RJ2004/5634 | 2005-09-30 | parcial | O Colegiado deu provimento parcial a recurso contra decisão da SIN sobre incompatibilidade entre agente autônomo e diretor responsável por… | cvm-col-20050930-d05 | fichas/colegiado/2005-14.md |
+| RJ2005/6027 | 2005-09-30 | provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2005/6027. | cvm-col-20050930-d04 | fichas/colegiado/2005-13.md |
+| RJ2005/1945 | 2005-09-30 | deferido | O Colegiado concedeu os pedidos de procedimento diferenciado da OPA da Jari Celulose S.A., inclusive quanto ao critério de preço justo, sem… | cvm-col-20050930-d03 | fichas/colegiado/2005-13.md |
+| RJ2005/0364 | 2005-09-30 | — | Recurso contra decisão da SEP relativa a Trust Agreement envolvendo Previ e Petros. O relator votou pelo provimento parcial do recurso… | cvm-col-20050930-d02 | fichas/colegiado/2005-13.md |
+| 02/01 | 2005-09-30 | outro | O Colegiado determinou o arquivamento do PAS nº 02/01, por cumprimento das cláusulas dos termos de compromisso celebrados pelos… | cvm-col-20050930-d01 | fichas/colegiado/2005-13.md |
+| — | 2005-09-28 | outro | O Colegiado aprovou, com alterações, para audiência pública, as minutas de Edital e de Instrução sobre cancelamento de ofício e suspensão… | cvm-col-20050928-d06 | fichas/colegiado/2005-13.md |
+| RJ2005/2967 | 2005-09-28 | outro | O Colegiado aprovou, com alterações, para audiência pública, minutas de Edital e de Deliberação sobre eventos subsequentes à data do… | cvm-col-20050928-d05 | fichas/colegiado/2005-13.md |
+| RJ2005/2966 | 2005-09-28 | outro | O Colegiado aprovou, com alterações, para audiência pública, as minutas de Edital e de Deliberação sobre práticas contábeis, mudanças nas… | cvm-col-20050928-d04 | fichas/colegiado/2005-13.md |
+| RJ2004/7244 | 2005-09-28 | outro | O Colegiado aprovou, com alterações e após audiência pública, as minutas de Deliberação que aprovam pronunciamentos do Ibracon sobre… | cvm-col-20050928-d03 | fichas/colegiado/2005-13.md |
+| RJ2001/9445; RJ2002/2418; RJ2003/1813 | 2005-09-28 | outro | O Colegiado aprovou as minutas de Pareceres de Orientação sobre uso da internet na intermediação de operações e na oferta de valores… | cvm-col-20050928-d02 | fichas/colegiado/2005-13.md |
+| — | 2005-09-28 | outro | O Colegiado aprovou, com pequenas alterações, a minuta de Instrução sobre envio de informações e registro na CVM dos Fundos de… | cvm-col-20050928-d01 | fichas/colegiado/2005-13.md |
+| — | 2005-09-20 | outro | O Colegiado aprovou, com aprimoramentos que não alteraram a essência do texto, a minuta de Decisão-Conjunta CVM/SPC sobre aquisição e… | cvm-col-20050920-d05 | fichas/colegiado/2005-13.md |
+| SP2005/0329 | 2005-09-20 | deferido | O Colegiado, acompanhando a área técnica, aprovou o Sistema de Negociação para Câmbio Interbancário (roda de dólar pronto) da BM&F… | cvm-col-20050920-d04 | fichas/colegiado/2005-13.md |
+| RJ2003/5596 | 2005-09-20 | nao-provido | O Colegiado, acompanhando o voto da relatora, indeferiu pedido de reconsideração de condenação em PAS, por entender que a autoridade… | cvm-col-20050920-d03 | fichas/colegiado/2005-13.md |
+| RJ2003/4367 | 2005-09-20 | indeferido | O Colegiado indeferiu novo pedido de prorrogação de prazo para apresentação de Termo de Compromisso definitivo, acompanhando o voto da… | cvm-col-20050920-d01 | fichas/colegiado/2005-13.md |
+| — | 2005-09-13 | outro | O Colegiado aprovou a minuta de Decisão-Conjunta CVM/BACEN que autoriza as distribuidoras de títulos e valores mobiliários a intermediar… | cvm-col-20050913-d04 | fichas/colegiado/2005-13.md |
+| RJ2005/4569 | 2005-09-13 | nao-provido | Recurso contra decisão da SNC de cancelamento do registro de auditor independente. Proc. RJ2005/4569. | cvm-col-20050913-d03 | fichas/colegiado/2005-13.md |
+| RJ2004/5303 | 2005-09-13 | provido | O Colegiado proveu recurso da Previ e da Petros contra decisão da SEP que não confirmou denúncia de oneração indevida da Opportunity Zain… | cvm-col-20050913-d02 | fichas/colegiado/2005-13.md |
+| RJ2005/3552 | 2005-09-05 | deferido | O Colegiado deferiu o registro de funcionamento do Lecca Fundo de Investimento em Direitos Creditórios (FIDC) e da oferta pública de… | cvm-col-20050905-d02 | fichas/colegiado/2005-13.md |
+| SP2005/0249 | 2005-08-30 | outro | Minuta de deliberação – stop order – mdd publicidade e marketing LTDA. Proc. SP2005/0249. | cvm-col-20050830-d09 | fichas/colegiado/2005-13.md |
+| RJ2005/4802 | 2005-08-30 | nao-provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2005/4802. | cvm-col-20050830-d08 | fichas/colegiado/2005-13.md |
+| RJ2005/4801 | 2005-08-30 | nao-provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2005/4801. | cvm-col-20050830-d07 | fichas/colegiado/2005-13.md |
+| RJ2005/2734 | 2005-08-30 | nao-provido | O Colegiado negou provimento a recurso da companhia contra entendimento da SEP: conselheiros fiscais têm acesso, em princípio, às mesmas… | cvm-col-20050830-d06 | fichas/colegiado/2005-13.md |
+| RJ2005/4821 | 2005-08-30 | indeferido | O Colegiado indeferiu pedido de dispensa de apresentação do prospecto de oferta pública de ações da La Fonte Participações S.A., com… | cvm-col-20050830-d03 | fichas/colegiado/2005-12.md |
+| RJ2005/4284 | 2005-08-30 | nao-provido | O Colegiado negou provimento a recurso da companhia contra determinação da SEP de reapresentar ITRs de 2002 (31.03.02 e 30.06.02) para… | cvm-col-20050830-d02 | fichas/colegiado/2005-12.md |
+| RJ2002/7152 | 2005-08-30 | provido | O Colegiado, por unanimidade, deu provimento a recurso contra manifestação da SEP sobre pedido de instalação de conselho fiscal em AGO… | cvm-col-20050830-d01 | fichas/colegiado/2005-12.md |
+| RJ2005/0652 | 2005-08-29 | outro | O Colegiado aprovou, com alterações e após audiência pública, minuta de instrução sobre emissão de nota promissória do agronegócio para… | cvm-col-20050829-d01 | fichas/colegiado/2005-12.md |
+| RJ2005/5203 | 2005-08-26 | nao-provido | Por maioria, vencida uma diretora que entendia cabível a suspensão (Lei 6.404/76, art. 124, §5º, II), o Colegiado negou pedido de… | cvm-col-20050826-d01 | fichas/colegiado/2005-12.md |
+| RJ2005/5203 | 2005-08-24 | indeferido | O Colegiado, por maioria, indeferiu pedido de dois fundos acionistas da Ripasa para interromper o prazo de antecedência de AGE que trata de… | cvm-col-20050824-d01 | fichas/colegiado/2005-12.md |
+| RJ2005/3786 | 2005-08-23 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SEP que rejeitou a proposta da Rio Grande Energia S.A. de reduzir o capital para… | cvm-col-20050823-d09 | fichas/colegiado/2005-12.md |
+| RJ2004/2775 | 2005-08-23 | nao-provido | O Colegiado negou provimento ao recurso da HRD Administração de Recursos Ltda. contra entendimento da SIN que exigiu a substituição do… | cvm-col-20050823-d08 | fichas/colegiado/2005-12.md |
+| SP2005/0282 | 2005-08-23 | — | O Colegiado aprovou o Regulamento do Contrato a Curto Prazo de Energia Elétrica apresentado pela BM&F. A SMI entendeu que o contrato não… | cvm-col-20050823-d07 | fichas/colegiado/2005-12.md |
+| RJ2005/4470 | 2005-08-23 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SNC que cancelou registro de auditor independente pessoa física por não ter feito… | cvm-col-20050823-d06 | fichas/colegiado/2005-12.md |
+| RJ2005/2670 | 2005-08-23 | deferido | O Colegiado aprovou, nos termos do Memo/SRE/GER-1/139/05, o procedimento diferenciado de OPA por aumento de participação na AES Sul… | cvm-col-20050823-d05 | fichas/colegiado/2005-12.md |
+| RJ2004/7380 | 2005-08-23 | outro | O Colegiado acompanhou o voto do relator e aceitou o pleito da Ágora Sênior CTVM S/A para adesão online a ofertas públicas por assinatura… | cvm-col-20050823-d04 | fichas/colegiado/2005-12.md |
+| RJ2001/7606 | 2005-08-23 | nao-provido | Pedido de reconsideração de decisão colegiado em processo de multa cominatória. Proc. RJ2001/7606. | cvm-col-20050823-d03 | fichas/colegiado/2005-12.md |
+| SP2004/0210 | 2005-08-23 | parcial | Recurso em processo de fundo de garantia. Proc. SP2004/0210. | cvm-col-20050823-d01 | fichas/colegiado/2005-12.md |
+| SP2004/0360 | 2005-08-16 | nao-provido | Pedido de reconsideração de decisão do colegiado em processo de fundo de garantia. Proc. SP2004/0360. | cvm-col-20050816-d02 | fichas/colegiado/2005-12.md |
+| RJ2005/2952 | 2005-08-09 | outro | O Colegiado condicionou o registro da oferta de quotas do GP Aetatis II: compromisso de subscrição sem substituir o boletim, subscrição em… | cvm-col-20050809-d11 | fichas/colegiado/2005-12.md |
+| RJ2004/3764 | 2005-08-09 | outro | O Colegiado aprovou o cancelamento de ofício do registro de 23 companhias abertas listadas no Memo/SEP/GEA-3/109/05, nos termos do art. 2º… | cvm-col-20050809-d10 | fichas/colegiado/2005-11.md |
+| RJ2005/0527 | 2005-08-09 | nao-provido | O Colegiado negou provimento ao recurso do espólio contra entendimento da SEP e considerou adequado o provisionamento do Bradesco para… | cvm-col-20050809-d09 | fichas/colegiado/2005-11.md |
+| RJ2005/4298 | 2005-08-09 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SNC que cancelou registro de auditor independente pessoa física por não ter feito… | cvm-col-20050809-d08 | fichas/colegiado/2005-11.md |
+| RJ2005/2789 | 2005-08-09 | indeferido | O Colegiado indeferiu pedido de dispensa de OPA da Caiuá-Serviços de Eletricidade S.A. por aumento de participação na Celpa, decidindo pela… | cvm-col-20050809-d07 | fichas/colegiado/2005-11.md |
+| RJ2004/3648 | 2005-08-09 | outro | Pedido de reconsideração de decisão colegiado. PAS RJ2004/3648. | cvm-col-20050809-d05 | fichas/colegiado/2005-11.md |
+| SP2003/0167 | 2005-08-09 | nao-provido | Pedido de reconsideração de decisão do colegiado em processo de fundo de garantia. Proc. SP2003/0167. | cvm-col-20050809-d04 | fichas/colegiado/2005-11.md |
+| RJ2005/2108 | 2005-08-09 | outro | O Colegiado, após manifestação favorável da área técnica, nada teve a opor, dentro da esfera de competência da CVM, à consulta da BM&F… | cvm-col-20050809-d03 | fichas/colegiado/2005-11.md |
+| RJ2004/5328 | 2005-08-09 | nao-provido | O Colegiado negou provimento ao recurso da PREVI e da PETROS contra o entendimento da SEP sobre a majoração da verba rescisória do… | cvm-col-20050809-d02 | fichas/colegiado/2005-11.md |
+| RJ2005/4657 | 2005-08-02 | nao-provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2005/4657. | cvm-col-20050802-d03 | fichas/colegiado/2005-11.md |
+| RJ2005/2934 | 2005-08-02 | nao-provido | Pedido de reconsideração de decisão do colegiado de aplicação de multa cominatória. Proc. RJ2005/2934. | cvm-col-20050802-d02 | fichas/colegiado/2005-11.md |
+| RJ2005/4699 | 2005-08-02 | deferido | O Colegiado aprovou o pedido do Unibanco Holdings S.A. de nova data-base, 19.08.05, para habilitação de acionistas no Programa de Conversão… | cvm-col-20050802-d01 | fichas/colegiado/2005-11.md |
+| RJ2005/0880 | 2005-07-26 | outro | O Colegiado aprovou a minuta de Deliberação que altera a Deliberação CVM 61/88. | cvm-col-20050726-d04 | fichas/colegiado/2005-11.md |
+| RJ2005/4494 | 2005-07-26 | deferido | O Colegiado concedeu à administradora Mellon Serviços Financeiros DTVM S.A. prazo adicional até 30.09.05 para adaptar os regulamentos dos… | cvm-col-20050726-d03 | fichas/colegiado/2005-11.md |
+| RJ2005/4490 | 2005-07-26 | deferido | O Colegiado, acompanhando a área técnica, que considerou cumpridas as exigências da Instrução CVM 419/05, aprovou alterações nas regras da… | cvm-col-20050726-d02 | fichas/colegiado/2005-11.md |
+| RJ2004/5689; RJ2004/1286 | 2005-07-26 | provido | O Colegiado reconsiderou decisão de 11.01.05 que indeferira autorização para agente autônomo de investimento por falta de reputação… | cvm-col-20050726-d01 | fichas/colegiado/2005-11.md |
+| RJ2004/5582 | 2005-07-21 | nao-provido | Recurso contra a decisão da SNC de aplicação de multa cominatória e pedido de redução do valor da multa. Proc. RJ2004/5582. | cvm-col-20050721-d07 | fichas/colegiado/2005-11.md |
+| RJ2005/3945 | 2005-07-21 | nao-provido | O Colegiado, por unanimidade, negou provimento a recurso contra entendimento da SEP sobre convocação de assembleia feita diretamente por… | cvm-col-20050721-d06 | fichas/colegiado/2005-11.md |
+| RJ2005/3806 | 2005-07-21 | nao-provido | O Colegiado, por unanimidade, negou provimento a recurso da Opportunity Zain S.A. contra entendimento da SEP sobre convocação de assembleia… | cvm-col-20050721-d05 | fichas/colegiado/2005-11.md |
+| RJ2005/3062 | 2005-07-21 | nao-provido | O Colegiado negou provimento ao recurso da BNDES Participações S.A. – BNDESPAR contra entendimento da SEP, corroborado pela SNC, sobre o… | cvm-col-20050721-d04 | fichas/colegiado/2005-11.md |
+| RJ2005/3234 | 2005-07-21 | deferido | O Colegiado concedeu a dispensa da elaboração do prospecto da 3ª série da 1ª emissão de debêntures simples da Sanepar, pedida pela… | cvm-col-20050721-d03 | fichas/colegiado/2005-11.md |
+| 387/2003; SP2005/0258 | 2005-07-21 | deferido | O Colegiado atendeu consulta do Citibank CCTVM e autorizou operações na Bovespa de pessoas vinculadas por outras corretoras, pois o art. 15… | cvm-col-20050721-d02 | fichas/colegiado/2005-10.md |
+| RJ2004/2758 | 2005-07-21 | deferido | O Colegiado aprovou o Manual de Procedimentos Operacionais e o Regulamento de Operações do Mercado de Balcão Organizado da Bovespa… | cvm-col-20050721-d01 | fichas/colegiado/2005-10.md |
+| RJ2003/4367 | 2005-07-12 | deferido | O Colegiado deferiu, a pedido do indiciado, a prorrogação do prazo final de cumprimento das obrigações do termo de compromisso no PAS CVM… | cvm-col-20050712-d06 | fichas/colegiado/2005-10.md |
+| RJ2005/3161 | 2005-07-12 | outro | O Colegiado arquivou processo sobre fundo com seguro de rendimento, por não caracterizar promessa de rendimento predeterminado (Instrução… | cvm-col-20050712-d05 | fichas/colegiado/2005-10.md |
+| RJ2001/7606 | 2005-07-12 | nao-provido | Recurso contra decisão da SMI de aplicação multa cominatória. Proc. RJ2001/7606. | cvm-col-20050712-d04 | fichas/colegiado/2005-10.md |
+| RJ2005/3402 | 2005-07-12 | deferido | O Colegiado aprovou os pleitos apresentados pelo InfraBrasil FIP, entre eles o registro de funcionamento, a oferta pública de cotas e a… | cvm-col-20050712-d03 | fichas/colegiado/2005-10.md |
+| RJ2005/0928 | 2005-07-12 | outro | O Colegiado arquivou recurso contra decisão da SNC que indeferiu registro de auditor independente pessoa jurídica, por falta de objeto. O… | cvm-col-20050712-d02 | fichas/colegiado/2005-10.md |
+| RJ2002/6453 | 2005-07-12 | outro | O Colegiado, acompanhando o voto do relator, considerou cumprido o termo de compromisso celebrado pela Fama Investimentos Ltda. e um dos… | cvm-col-20050712-d01 | fichas/colegiado/2005-10.md |
+| RJ2005/3649 | 2005-07-05 | provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2005/3649. | cvm-col-20050705-d06 | fichas/colegiado/2005-10.md |
+| RJ2005/3545 | 2005-07-05 | nao-provido | Recurso contra a decisão da SNC de aplicação de multa cominatória. Proc. RJ2005/3545. | cvm-col-20050705-d05 | fichas/colegiado/2005-10.md |
+| RJ2003/3972 | 2005-07-05 | outro | Arquivamento de processo em razão de cumprimento de termo de compromisso. PAS RJ2003/3972. | cvm-col-20050705-d04 | fichas/colegiado/2005-10.md |
+| RJ2003/5746 | 2005-07-05 | nao-provido | Pedido de reconsideração de decisão do colegiado em processo de fundo de garantia. Proc. RJ2003/5746. | cvm-col-20050705-d03 | fichas/colegiado/2005-10.md |
+| RJ2004/7376 | 2005-07-05 | nao-provido | Pedido de reconsideração de decisão do colegiado. Proc. RJ2004/7376. | cvm-col-20050705-d02 | fichas/colegiado/2005-10.md |
+| RJ2005/2355 | 2005-07-05 | deferido | O Colegiado aprovou a constituição do Fundo de Investimento em Direitos Creditórios Sistema Cataguazes-Leopoldina, pedido de registro de… | cvm-col-20050705-d01 | fichas/colegiado/2005-10.md |
+| RJ2005/3735 | 2005-06-28 | deferido | O Colegiado aprovou os pleitos da Gafisa S/A em consulta sobre a incorporação de nove SPEs: autorização para deixar de cumprir a Instrução… | cvm-col-20050628-d04 | fichas/colegiado/2005-10.md |
+| RJ2005/3016 | 2005-06-28 | nao-provido | Pedido de reconsideração de decisão do colegiado em processo de multa cominatória. Proc. RJ2005/3016. | cvm-col-20050628-d03 | fichas/colegiado/2005-10.md |
+| RJ2005/3134 | 2005-06-28 | deferido | O Colegiado concedeu ao FII Centro Têxtil Internacional dispensas dos anúncios de início e de encerramento, do prospecto e do contrato de… | cvm-col-20050628-d02 | fichas/colegiado/2005-10.md |
+| RJ2005/0151 | 2005-06-28 | provido | Recurso contra a decisão da SIN de aplicação de multa cominatória. Proc. RJ2005/0151. | cvm-col-20050628-d01 | fichas/colegiado/2005-10.md |
+| RJ2004/7094 | 2005-06-24 | outro | Minutas de instrução e deliberação que tratam do recolhimento da taxa de fiscalização e do parcelamento de débitos junto à CVM. Proc… | cvm-col-20050624-d02 | fichas/colegiado/2005-10.md |
+| RJ2005/2839 | 2005-06-24 | outro | O Colegiado aprovou as minutas de Deliberação e de Portaria que tratam de delegação de competência. | cvm-col-20050624-d01 | fichas/colegiado/2005-10.md |
+| RJ2005/1717 | 2005-06-21 | nao-provido | O Colegiado negou provimento a recurso da companhia contra determinação da SEP de reapresentar o IAN com atualização do quadro 14.01… | cvm-col-20050621-d05 | fichas/colegiado/2005-10.md |
+| RJ2005/1164 | 2005-06-21 | deferido | O Colegiado concedeu registro de funcionamento e de oferta pública de cotas do Fundo de Investimentos em Direitos Creditórios Quality… | cvm-col-20050621-d04 | fichas/colegiado/2005-09.md |
+| RJ2005/1785 | 2005-06-21 | deferido | O Colegiado deferiu o pedido da Royal Transportes e Serviços Ltda. para dispensá-la da OPA por aumento de participação na Companhia Docas… | cvm-col-20050621-d03 | fichas/colegiado/2005-09.md |
+| 08/02 | 2005-06-21 | outro | O Colegiado arquivou o PAS 08/02 em relação à SOMA e a um dos proponentes, com base na área técnica, que concluiu pelo cumprimento das… | cvm-col-20050621-d02 | fichas/colegiado/2005-09.md |
+| RJ2002/8173 | 2005-06-21 | outro | O Colegiado determinou o arquivamento do processo administrativo sancionador, com base na área técnica, que concluiu pelo cumprimento das… | cvm-col-20050621-d01 | fichas/colegiado/2005-09.md |
+| RJ2003/5459 | 2005-06-14 | deferido | O Colegiado deferiu, por razoabilidade do motivo alegado e acompanhando o relator, prazo suplementar de 90 dias para o Banco Bradesco S.A… | cvm-col-20050614-d06 | fichas/colegiado/2005-09.md |
+| 21/2004; RJ2005/1779 | 2005-06-14 | parcial | O Colegiado deu provimento parcial ao recurso do Banco do Brasil contra a solicitação da SFI de cópias de livros de reuniões de diretoria e… | cvm-col-20050614-d05 | fichas/colegiado/2005-09.md |
+| RJ2005/3442 | 2005-06-14 | nao-provido | Recurso contra a decisão da SNC de aplicação de multa cominatória. Proc. RJ2005/3442. | cvm-col-20050614-d04 | fichas/colegiado/2005-09.md |
+| SP2004/0360 | 2005-06-14 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2004/0360. | cvm-col-20050614-d03 | fichas/colegiado/2005-09.md |
+| 08/02 | 2005-06-14 | deferido | O Colegiado deferiu, por razoabilidade do motivo alegado, nova prorrogação de três meses do prazo do termo de compromisso da Atrium CCTVM… | cvm-col-20050614-d02 | fichas/colegiado/2005-09.md |
+| RJ2005/3302 | 2005-06-07 | nao-provido | Recurso contra a decisão da SNC de aplicação de multa cominatória. Proc. RJ2005/3302. | cvm-col-20050607-d12 | fichas/colegiado/2005-09.md |
+| SP2004/0110 | 2005-06-07 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2004/0110. | cvm-col-20050607-d11 | fichas/colegiado/2005-09.md |
+| RJ2005/2893 | 2005-06-07 | nao-provido | Recurso da avestruz master agro-com. imp. e exp. LTDA contra decisão da SFI de aplicação de multa cominatória pelo descumprimento da… | cvm-col-20050607-d10 | fichas/colegiado/2005-09.md |
+| RJ2005/3496 | 2005-06-07 | nao-provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2005/3496. | cvm-col-20050607-d09 | fichas/colegiado/2005-09.md |
+| SP2003/0167 | 2005-06-07 | provido | Pedido de reconsideração de decisão do colegiado em processo de fundo de garantia / banco bilbao vizcaya argentaria brasil S.A. / pax CVC… | cvm-col-20050607-d08 | fichas/colegiado/2005-09.md |
+| RJ2005/3270 | 2005-06-07 | nao-provido | Recurso contra a decisão da SNC de aplicação de multa cominatória. Proc. RJ2005/3270. | cvm-col-20050607-d07 | fichas/colegiado/2005-09.md |
+| RJ2005/3098 | 2005-06-07 | nao-provido | Recurso contra a decisão da SNC de aplicação de multa cominatória. Proc. RJ2005/3098. | cvm-col-20050607-d06 | fichas/colegiado/2005-09.md |
+| RJ2005/3090 | 2005-06-07 | nao-provido | Recurso contra a decisão da SNC de aplicação de multa cominatória. Proc. RJ2005/3090. | cvm-col-20050607-d05 | fichas/colegiado/2005-09.md |
+| RJ2005/3066 | 2005-06-07 | nao-provido | Recurso contra a decisão da SNC de aplicação de multa cominatória. Proc. RJ2005/3066. | cvm-col-20050607-d04 | fichas/colegiado/2005-09.md |
+| RJ2005/3256 | 2005-06-07 | nao-provido | Recurso contra a decisão da SNC de aplicação de multa cominatória. Proc. RJ2005/3256. | cvm-col-20050607-d03 | fichas/colegiado/2005-09.md |
+| RJ2005/2911 | 2005-06-07 | nao-provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2005/2911. | cvm-col-20050607-d02 | fichas/colegiado/2005-09.md |
+| RJ2005/2912 | 2005-06-07 | nao-provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2005/2912. | cvm-col-20050607-d01 | fichas/colegiado/2005-09.md |
+| RJ2005/0609 | 2005-05-31 | nao-provido | O Colegiado negou provimento ao recurso contra decisão da SIN que indeferiu credenciamento de administrador de carteira, por não comprovada… | cvm-col-20050531-d04 | fichas/colegiado/2005-09.md |
+| RJ2005/0589 | 2005-05-31 | outro | O Colegiado declarou plenamente válida a caução judicial constituída sobre quotas do Guanabara FII, por estar em total consonância com a… | cvm-col-20050531-d03 | fichas/colegiado/2005-09.md |
+| RJ2005/0880 | 2005-05-31 | deferido | O Colegiado acolheu, sob condições, pleito do The Brazil Fund, Inc. para flexibilizar as regras de repatriação de capital da Deliberação… | cvm-col-20050531-d02 | fichas/colegiado/2005-09.md |
+| RJ2004/6153 | 2005-05-31 | parcial | O Colegiado, por maioria, decidiu que a cláusula estatutária da BM&F que dispensa de motivar a não admissão de corretora não viola a… | cvm-col-20050531-d01 | fichas/colegiado/2005-08.md |
+| RJ2005/2934 | 2005-05-24 | nao-provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2005/2934. | cvm-col-20050524-d07 | fichas/colegiado/2005-08.md |
+| RJ2005/2883 | 2005-05-24 | indeferido | O Colegiado não autorizou a companhia a adquirir ações de própria emissão para doá-las a acionistas que precisem completar frações… | cvm-col-20050524-d06 | fichas/colegiado/2005-08.md |
+| RJ2004/3601 | 2005-05-24 | nao-provido | Pedido de reconsideração de decisão colegiado em processo de multa cominatória. Proc. RJ2004/3601. | cvm-col-20050524-d05 | fichas/colegiado/2005-08.md |
+| SP2004/0361 | 2005-05-24 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2004/0361. | cvm-col-20050524-d03 | fichas/colegiado/2005-08.md |
+| RJ2002/4677 | 2005-05-24 | provido | O Colegiado, por maioria, deu provimento a recurso de pessoa física contra a SIN, que cancelou de ofício sua autorização para administrar… | cvm-col-20050524-d02 | fichas/colegiado/2005-08.md |
+| RJ2001/0134 | 2005-05-24 | provido | O Colegiado, por maioria, deu provimento ao recurso contra decisão da SIN que cancelou de ofício a autorização de administrador de… | cvm-col-20050524-d01 | fichas/colegiado/2005-08.md |
+| RJ2005/3016 | 2005-05-16 | nao-provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2005/3016. | cvm-col-20050516-d05 | fichas/colegiado/2005-08.md |
+| RJ2005/3139 | 2005-05-16 | deferido | O Colegiado autorizou o administrador do Dynamo Puma Fundo de Investimento em Ações a adquirir, por negociação privada, as ações PNC da… | cvm-col-20050516-d04 | fichas/colegiado/2005-08.md |
+| RJ2002/1965 | 2005-05-16 | nao-provido | Pedido de reconsideração em processo de fundo de garantia. Proc. RJ2002/1965. | cvm-col-20050516-d03 | fichas/colegiado/2005-08.md |
+| RJ2003/5746 | 2005-05-10 | nao-provido | Recurso em processo de fundo de garantia. Proc. RJ2003/5746. | cvm-col-20050510-d04 | fichas/colegiado/2005-08.md |
+| SP2005/0178 | 2005-05-10 | deferido | O Colegiado concedeu à Exprinter DTVM Ltda. prazo adicional de 60 dias para adequar o regulamento e o prospecto do Exprinter Fundo de… | cvm-col-20050510-d03 | fichas/colegiado/2005-08.md |
+| 08/02 | 2005-05-10 | deferido | O Colegiado deferiu o pedido da Atrium CCTVM Ltda. para que o prazo de 90 dias de cumprimento do Termo de Compromisso (doação de livros à… | cvm-col-20050510-d02 | fichas/colegiado/2005-08.md |
+| RJ2002/5718 | 2005-05-10 | outro | O Colegiado arquivou o processo por perda de objeto. Globalvest pedia reconhecimento do direito de voto para eleger membros dos conselhos… | cvm-col-20050510-d01 | fichas/colegiado/2005-08.md |
+| — | 2005-05-09 | outro | O Colegiado aprovou Deliberação nomeando a Mellon Serviços Financeiros DTVM S.A. administradora de 27 fundos administrados pelo Banco… | cvm-col-20050509-d01 | fichas/colegiado/2005-08.md |
+| — | 2005-05-04 | outro | O Colegiado manifestou-se favoravelmente, com algumas alterações, à minuta de Portaria do PTE que cria o Comitê de Regulação e dispõe sobre… | cvm-col-20050504-d03 | fichas/colegiado/2005-08.md |
+| RJ2004/5109 | 2005-05-04 | outro | O Colegiado aprovou, com alterações, para audiência pública de 30 dias, as minutas de Edital e de Instrução sobre atualização do cadastro… | cvm-col-20050504-d01 | fichas/colegiado/2005-08.md |
+| RJ2005/2791 | 2005-05-03 | indeferido | O Colegiado não autorizou a Baumer S.A. a usar ações ordinárias e preferenciais em tesouraria para doar aos acionistas frações decorrentes… | cvm-col-20050503-d07 | fichas/colegiado/2005-08.md |
+| RJ2005/2597 | 2005-05-03 | deferido | O Colegiado acatou os pedidos da Ambev para incorporar a CBB (sociedade anônima fechada): dispensa da publicação completa prevista na… | cvm-col-20050503-d06 | fichas/colegiado/2005-08.md |
+| RJ2005/2601 | 2005-05-03 | indeferido | O Colegiado negou o pedido do Banco Panamericano S.A. de prazo adicional de 40 dias para migrar fundos ao próprio banco como custodiante… | cvm-col-20050503-d05 | fichas/colegiado/2005-07.md |
+| RJ2005/2586 | 2005-05-03 | indeferido | O Colegiado indeferiu o pedido da Daycoval Asset Management de prazo adicional para adaptação à Instrução CVM 409/04 dos fundos Daycoval… | cvm-col-20050503-d04 | fichas/colegiado/2005-07.md |
+| RJ2005/2504 | 2005-05-03 | deferido | O Colegiado autorizou a Mellon Serviços Financeiros DTVM S.A., administradora do Credit Fundo de Investimento em Cotas (cisão do Security… | cvm-col-20050503-d03 | fichas/colegiado/2005-07.md |
+| RJ2004/0140 | 2005-04-27 | outro | O Colegiado aprovou, com alterações, para audiência pública até 27 de maio, as minutas de Edital e de Instrução sobre operações sujeitas a… | cvm-col-20050427-d03 | fichas/colegiado/2005-07.md |
+| RJ2003/13239 | 2005-04-27 | outro | O Colegiado aprovou, com alterações, a minuta de Instrução que altera e acrescenta dispositivos às Instruções 387/03 e 325/00 sobre… | cvm-col-20050427-d02 | fichas/colegiado/2005-07.md |
+| RJ2005/0526 | 2005-04-27 | outro | O Colegiado aprovou, com algumas alterações, a minuta de Deliberação que disciplina o direito e o procedimento de vista dos processos em… | cvm-col-20050427-d01 | fichas/colegiado/2005-07.md |
+| RJ2005/1735 | 2005-04-26 | deferido | O Colegiado concedeu a dispensa da elaboração do prospecto da oferta pública de distribuição da 3ª emissão de quotas do Pátria Fundo de… | cvm-col-20050426-d04 | fichas/colegiado/2005-07.md |
+| RJ2004/6337 | 2005-04-26 | nao-provido | Pedido de reconsideração de decisão do colegiado de aplicação de multa cominatória. Proc. RJ2004/6337. | cvm-col-20050426-d03 | fichas/colegiado/2005-07.md |
+| RJ2004/3098 | 2005-04-19 | nao-provido | O Colegiado manteve integralmente sua decisão de 25.01.05, que acompanhou a SEP, e rejeitou o pedido de reconsideração da SANEPAR por não… | cvm-col-20050419-d09 | fichas/colegiado/2005-07.md |
+| RJ2005/2363 | 2005-04-19 | nao-provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2005/2363. | cvm-col-20050419-d08 | fichas/colegiado/2005-07.md |
+| RJ2005/2109 | 2005-04-19 | nao-provido | O Colegiado negou provimento ao recurso do Tempo Capital FIA contra decisão da SEP sobre necessidade de assembleia especial para ratificar… | cvm-col-20050419-d07 | fichas/colegiado/2005-07.md |
+| RJ2005/2396 | 2005-04-19 | deferido | O Colegiado concedeu à Amaril Franklin CTV Ltda. prazo adicional de 60 dias para adequar o regulamento e o prospecto do Amaril Franklin… | cvm-col-20050419-d06 | fichas/colegiado/2005-07.md |
+| RJ2004/6577 | 2005-04-19 | nao-provido | O Colegiado negou provimento ao recurso contra decisão da SMI que negou autorização para agente autônomo de investimento. Fundamento: o… | cvm-col-20050419-d05 | fichas/colegiado/2005-07.md |
+| RJ2005/0225 | 2005-04-19 | deferido | O Colegiado deferiu procedimento diferenciado de OPA da CST (unificação das OPAs de aumento de participação e de alienação de controle… | cvm-col-20050419-d04 | fichas/colegiado/2005-07.md |
+| RJ2004/0281 | 2005-04-19 | provido | Recurso contra a decisão da SIN de aplicação de multa cominatória. Proc. RJ2004/0281. | cvm-col-20050419-d03 | fichas/colegiado/2005-07.md |
+| RJ2004/0280 | 2005-04-19 | provido | Recurso contra a decisão da SIN de aplicação de multa cominatória. Proc. RJ2004/0280. | cvm-col-20050419-d02 | fichas/colegiado/2005-07.md |
+| RJ2002/7934 | 2005-04-19 | nao-provido | O Colegiado acompanhou o voto do relator, negou provimento ao recurso e manteve a decisão da SIN que indeferiu o credenciamento de… | cvm-col-20050419-d01 | fichas/colegiado/2005-07.md |
+| 01/88 | 2005-04-12 | outro | O Colegiado reconheceu a prescrição da pretensão punitiva da CVM no processo 01/88, relativo às demonstrações financeiras da Marcovan S.A… | cvm-col-20050412-d12 | fichas/colegiado/2005-07.md |
+| RJ2005/2027 | 2005-04-12 | deferido | O Colegiado autorizou a Ultrapar Participações S.A. e outros acionistas, com o Banco UBS S.A., a emprestar 200.000 ações PN em tesouraria… | cvm-col-20050412-d11 | fichas/colegiado/2005-07.md |
+| RJ2005/0884 | 2005-04-12 | nao-provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2005/0884. | cvm-col-20050412-d10 | fichas/colegiado/2005-06.md |
+| RJ2005/0870 | 2005-04-12 | parcial | O Colegiado determinou o refazimento e a republicação das DFP de 31.12.03 da CIMOB Participações S.A., na forma do voto do relator, que… | cvm-col-20050412-d09 | fichas/colegiado/2005-06.md |
+| RJ2005/0884 | 2005-04-12 | nao-provido | Recurso contra a decisão da SIN de aplicação de multa cominatória. Proc. RJ2005/0884. | cvm-col-20050412-d08 | fichas/colegiado/2005-06.md |
+| RJ2004/5854 | 2005-04-12 | deferido | O Colegiado autorizou o cancelamento do registro de companhia aberta da Cimetal Siderurgia S.A. (em liquidação) independentemente de OPA… | cvm-col-20050412-d07 | fichas/colegiado/2005-06.md |
+| RJ2005/0652 | 2005-04-12 | outro | O Colegiado aprovou, para audiência pública até 27 de maio de 2005, as minutas de edital e de instrução sobre a emissão de nota promissória… | cvm-col-20050412-d06 | fichas/colegiado/2005-06.md |
+| SP2003/0099 | 2005-04-12 | nao-provido | Pedido de reconsideração de decisão do colegiado em processo de fundo de garantia. Proc. SP2003/0099. | cvm-col-20050412-d05 | fichas/colegiado/2005-06.md |
+| RJ2004/4717 | 2005-04-12 | nao-provido | O Colegiado rejeitou pedido de reconsideração da decisão de 16.04.02 que negou autorização para o exercício de agente autônomo à… | cvm-col-20050412-d04 | fichas/colegiado/2005-06.md |
+| RJ90/0387 | 2005-04-12 | parcial | Pedido de reconsideração de decisão do colegiado em processo de fundo de garantia. Proc. RJ90/0387. | cvm-col-20050412-d03 | fichas/colegiado/2005-06.md |
+| RJ2005/1566 | 2005-04-12 | outro | O Colegiado, após ouvir a área técnica, aprovou a minuta de instrução que altera o caput do art. 11 da Instrução CVM nº 205/94. | cvm-col-20050412-d02 | fichas/colegiado/2005-06.md |
+| RJ1990/0386 | 2005-04-12 | nao-provido | Pedido de reconsideração de decisão do colegiado relativa a fundo de garantia. Proc. RJ1990/0386. | cvm-col-20050412-d01 | fichas/colegiado/2005-06.md |
+| SP2002/0562 | 2005-04-08 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2002/0562. | cvm-col-20050408-d05 | fichas/colegiado/2005-06.md |
+| RJ2005/1429 | 2005-04-08 | parcial | O Colegiado concedeu parcialmente a dispensa pedida pelo BB Banco de Investimentos na distribuição secundária de ações da Randon S.A… | cvm-col-20050408-d04 | fichas/colegiado/2005-06.md |
+| RJ2002/3227 | 2005-04-08 | nao-provido | O Colegiado manteve a decisão anterior no Processo RJ2002/3227 e uniformizou o entendimento, a pedido da SMI, no sentido de que as pessoas… | cvm-col-20050408-d02 | fichas/colegiado/2005-06.md |
+| RJ2004/7436 | 2005-03-29 | parcial | Com base nos fatos expostos pelo relator, o Colegiado concedeu ao Banco do Estado de Santa Catarina prorrogação de 120 dias, e não os 180… | cvm-col-20050329-d10 | fichas/colegiado/2005-06.md |
+| — | 2005-03-29 | outro | O Colegiado determinou à ASC, com a PFE e a SFI, a elaboração de Alerta ao Mercado sobre as providências adotadas contra a Avestruz Master… | cvm-col-20050329-d09 | fichas/colegiado/2005-06.md |
+| SP2005/0154 | 2005-03-29 | deferido | O Colegiado, após ouvir a área técnica, autorizou as alterações no Regulamento de Operações e nos Procedimentos Operacionais da CBLC… | cvm-col-20050329-d08 | fichas/colegiado/2005-06.md |
+| SP2002/0494 | 2005-03-29 | nao-provido | Pedido de reconsideração de decisão colegiado em processo de fundo de garantia. Proc. SP2002/0494. | cvm-col-20050329-d07 | fichas/colegiado/2005-06.md |
+| RJ2005/0865 | 2005-03-29 | deferido | O Colegiado dispensou a companhia fechada Submarino S.A. de publicar fato relevante sobre a incorporação de sua controladora Caicos… | cvm-col-20050329-d06 | fichas/colegiado/2005-06.md |
+| — | 2005-03-29 | outro | O Colegiado aprovou minuta de Instrução que dispõe sobre o cadastramento, na CVM, de bancos comerciais e múltiplos sem carteira de… | cvm-col-20050329-d04 | fichas/colegiado/2005-06.md |
+| RJ2005/1774 | 2005-03-29 | outro | O Colegiado aprovou a minuta de Instrução que estabelece prazo para adaptação da carteira dos fundos de investimento extramercado. | cvm-col-20050329-d03 | fichas/colegiado/2005-06.md |
+| RJ2004/2684 | 2005-03-29 | provido | Por maioria, o Colegiado deu provimento a recurso do IP Foco 3 FIA contra decisão da SEP sobre a AGE da Companhia Iguaçu de Café Solúvel… | cvm-col-20050329-d02 | fichas/colegiado/2005-06.md |
+| RJ2004/5178 | 2005-03-29 | outro | Em consulta do BNDES, o Colegiado, acompanhando a relatora, decidiu pela impossibilidade de utilizar direito de ação para constituir FIDC a… | cvm-col-20050329-d01 | fichas/colegiado/2005-05.md |
+| RJ2004/5601 | 2005-03-22 | deferido | O Colegiado deferiu a modificação do instrumento da OPA de alienação de controle da Companhia de Bebidas das Américas (Ambev), nos termos… | cvm-col-20050322-d10 | fichas/colegiado/2005-05.md |
+| RJ2004/3764 | 2005-03-22 | outro | O Colegiado aprovou o cancelamento de ofício do registro de 53 companhias abertas listadas no Memo/SEP/GEA-3/042/05, nos termos do art. 2º… | cvm-col-20050322-d09 | fichas/colegiado/2005-05.md |
+| RJ2005/0223 | 2005-03-22 | nao-provido | O Colegiado manteve a decisão da SEP que exigiu fato relevante complementar sobre a condenação arbitral da controlada Cat-Leo Energia S.A… | cvm-col-20050322-d08 | fichas/colegiado/2005-05.md |
+| RJ2004/3479 | 2005-03-22 | nao-provido | O Colegiado negou provimento a recurso contra o indeferimento, pela SIN, do credenciamento para administração de carteira, por não… | cvm-col-20050322-d07 | fichas/colegiado/2005-05.md |
+| SP2003/0380 | 2005-03-22 | nao-provido | Pedido de reconsideração de decisão do colegiado em processo de fundo de garantia. Proc. SP2003/0380. | cvm-col-20050322-d06 | fichas/colegiado/2005-05.md |
+| SP2003/0463 | 2005-03-22 | nao-provido | Pedido de reconsideração de decisão do colegiado em processo de fundo de garantia. Proc. SP2003/0463. | cvm-col-20050322-d05 | fichas/colegiado/2005-05.md |
+| RJ2005/688 | 2005-03-22 | deferido | O Colegiado entendeu não haver necessidade de OPA por alienação de controle da Dixie Toga S.A., pedida pela Misbe Participações Ltda… | cvm-col-20050322-d04 | fichas/colegiado/2005-05.md |
+| RJ2004/2728 | 2005-03-22 | nao-provido | O Colegiado, acompanhando o relator, negou pedido de reconsideração de decisão de 27.07.04 que não dispensou a publicação de fato relevante… | cvm-col-20050322-d03 | fichas/colegiado/2005-05.md |
+| 15/96 | 2005-03-22 | outro | O Colegiado considerou cumprido o Termo de Compromisso firmado em 14.06.99 no PAS 15/96 e determinou o arquivamento. Aceitou as condições… | cvm-col-20050322-d01 | fichas/colegiado/2005-05.md |
+| RJ2004/6660 | 2005-03-14 | parcial | O Colegiado concedeu as dispensas de requisitos do registro da oferta pública de debêntures da Net Serviços pleiteadas, com base no… | cvm-col-20050314-d05 | fichas/colegiado/2005-05.md |
+| RJ2004/6169 | 2005-03-14 | deferido | O Colegiado concedeu a dispensa de leilão em bolsa na OPA para cancelamento de registro da Steviafarma Industrial S.A., formulada pela… | cvm-col-20050314-d04 | fichas/colegiado/2005-05.md |
+| SP2003/0101 | 2005-03-14 | nao-provido | Recurso contra decisão da SMI em processo de rito sumário. Proc. SP2003/0101. | cvm-col-20050314-d03 | fichas/colegiado/2005-05.md |
+| RJ2005/1442 | 2005-03-14 | outro | O Colegiado deliberou pela suspensão de ofício do registro de 17 companhias abertas que estão há mais de três anos em atraso no envio de… | cvm-col-20050314-d02 | fichas/colegiado/2005-05.md |
+| RJ1990/0386 | 2005-03-14 | deferido | Pedido de efeito suspensivo de decisão do colegiado relativa a fundo de garantia. Proc. RJ1990/0386. | cvm-col-20050314-d01 | fichas/colegiado/2005-05.md |
+| — | 2005-03-08 | indeferido | O Colegiado indeferiu o pedido de adiamento da AGO/E da TIM Participações S.A., acolhendo a proposta da SEP, por não haver complexidade que… | cvm-col-20050308-d08 | fichas/colegiado/2005-05.md |
+| RJ2005/0610 | 2005-03-08 | indeferido | O Colegiado negou as dispensas de requisitos de registro pedidas por Monteiro Aranha S.A. na oferta de ações da Ultrapar Participações… | cvm-col-20050308-d07 | fichas/colegiado/2005-05.md |
+| RJ2005/0543 | 2005-03-08 | deferido | O Colegiado concedeu dispensa de apresentação do estudo de viabilidade no processo de registro da oferta pública de distribuição de ações… | cvm-col-20050308-d06 | fichas/colegiado/2005-04.md |
+| RJ2005/0131 | 2005-03-08 | nao-provido | O Colegiado negou provimento a recurso contra o indeferimento, pela SIN, do credenciamento de consultor de valores mobiliários, por falta… | cvm-col-20050308-d04 | fichas/colegiado/2005-04.md |
+| RJ2005/0704 | 2005-03-08 | nao-provido | Pedido de reconsideração de decisão colegiado. Proc. RJ2005/0704. | cvm-col-20050308-d03 | fichas/colegiado/2005-04.md |
+| RJ2004/6511 | 2005-03-08 | nao-provido | O Colegiado indeferiu o pedido de reconsideração da Indústrias Arteb S.A. sobre o refazimento e a republicação das demonstrações… | cvm-col-20050308-d02 | fichas/colegiado/2005-04.md |
+| RJ2003/6439 | 2005-03-08 | outro | O Colegiado aprovou, com alterações, a minuta de Instrução sobre emissão e negociação de BDR, que altera a Instrução 332/00, para audiência… | cvm-col-20050308-d01 | fichas/colegiado/2005-04.md |
+| SP2003/0465 | 2005-03-01 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2003/0465. | cvm-col-20050301-d12 | fichas/colegiado/2005-04.md |
+| RJ2003/1059 | 2005-03-01 | nao-provido | Recurso de ofício da SIN em processo de rito sumário. Proc. RJ2003/1059. | cvm-col-20050301-d11 | fichas/colegiado/2005-04.md |
+| RJ2003/11117 | 2005-03-01 | nao-provido | O Colegiado negou recurso do Banco Itaú S.A. contra decisão da SIN e manteve o entendimento de que a AGE do Fundo Itaú Performance FACFI… | cvm-col-20050301-d10 | fichas/colegiado/2005-04.md |
+| RJ2004/7164 | 2005-03-01 | nao-provido | O Colegiado julgou improcedente recurso contra indeferimento pela SIN de credenciamento de pessoa física para administrar carteira de… | cvm-col-20050301-d09 | fichas/colegiado/2005-04.md |
+| RJ2005/0493 | 2005-03-01 | nao-provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2005/0493. | cvm-col-20050301-d08 | fichas/colegiado/2005-04.md |
+| RJ2005/0332 | 2005-03-01 | nao-provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2005/0332. | cvm-col-20050301-d07 | fichas/colegiado/2005-04.md |
+| RJ2005/0331 | 2005-03-01 | nao-provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2005/0331. | cvm-col-20050301-d06 | fichas/colegiado/2005-04.md |
+| RJ2004/6357 | 2005-03-01 | nao-provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2004/6357. | cvm-col-20050301-d05 | fichas/colegiado/2005-04.md |
+| RJ2004/6244 | 2005-03-01 | nao-provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2004/6244. | cvm-col-20050301-d04 | fichas/colegiado/2005-04.md |
+| RJ2004/7095 | 2005-03-01 | nao-provido | O Colegiado negou recurso da Agrojaísa contra decisão da SEP que indeferiu cancelamento de registro de companhia incentivada, por entender… | cvm-col-20050301-d03 | fichas/colegiado/2005-04.md |
+| RJ2004/5476 | 2005-03-01 | outro | O Colegiado acompanhou o Presidente: o laudo de avaliação de aumento de capital da Ferrovia Centro Atlântica S.A. não precisa ser arquivado… | cvm-col-20050301-d02 | fichas/colegiado/2005-04.md |
+| — | 2005-02-22 | outro | O Colegiado retificou, por erro material, o item 12 da ata da reunião de 15.02.05, trocando “sociedade corretora integrante de… | cvm-col-20050222-d08 | fichas/colegiado/2005-04.md |
+| RJ2005/1112 | 2005-02-22 | outro | O Colegiado aprovou minuta de Instrução que cria fundos de investimento em empresas emergentes inovadoras, por alteração pontual da… | cvm-col-20050222-d07 | fichas/colegiado/2005-04.md |
+| RJ2005/0383 | 2005-02-22 | nao-provido | O Colegiado manteve a multa cominatória aplicada pela SEP à Carfepe S.A. Administradora e Participadora pelo atraso na entrega da 3ª… | cvm-col-20050222-d06 | fichas/colegiado/2005-04.md |
+| — | 2005-02-22 | outro | O Colegiado aprovou minuta de deliberação sobre dispensa da divulgação de fato relevante e delegação de competência, relatada pela SEP. | cvm-col-20050222-d05 | fichas/colegiado/2005-04.md |
+| RJ2005/0757 | 2005-02-22 | — | Consulta de escritório de advocacia sobre a legalidade do pagamento de resgates em fundos de investimento no mesmo dia, à luz das… | cvm-col-20050222-d04 | fichas/colegiado/2005-04.md |
+| SP2003/0494 | 2005-02-22 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2003/0494. | cvm-col-20050222-d03 | fichas/colegiado/2005-03.md |
+| RJ2002/2555 | 2005-02-22 | outro | Proposta de arquivamento de processo de rito sumário. Proc. RJ2002/2555. | cvm-col-20050222-d02 | fichas/colegiado/2005-03.md |
+| — | 2005-02-22 | outro | O Colegiado aprovou a minuta de convênio de cooperação e intercâmbio científico e tecnológico entre a CVM e o Instituto Brasileiro de… | cvm-col-20050222-d01 | fichas/colegiado/2005-03.md |
+| — | 2005-02-18 | deferido | O Colegiado aprovou minuta de deliberação que autoriza a Embratel Participações S.A. a praticar atos proibidos pela Deliberação CVM 478/05. | cvm-col-20050218-d01 | fichas/colegiado/2005-03.md |
+| — | 2005-02-16 | outro | O Colegiado aprovou minuta de Deliberação que proíbe a Embratel Participações S.A. de praticar atos nela especificados. | cvm-col-20050216-d01 | fichas/colegiado/2005-03.md |
+| — | 2005-02-15 | — | A AUD apresentou ao Colegiado o Relatório Anual de Atividades de Auditoria Interna do exercício de 2004, sem deliberação nesta reunião. | cvm-col-20050215-d4641 | fichas/colegiado/2005-03.md |
+| 13/00 | 2005-02-15 | outro | O Colegiado arquivou o PAS CVM 13/00 contra a Braco S.A. e outros, com base na área técnica, que concluiu pelo cumprimento das cláusulas do… | cvm-col-20050215-d05 | fichas/colegiado/2005-03.md |
+| — | 2005-02-15 | deferido | O Colegiado autorizou a Bovespa a recomprar títulos patrimoniais, estendendo a autorização de 23.10.01 às aquisições de conglomerados… | cvm-col-20050215-d04 | fichas/colegiado/2005-03.md |
+| RJ2004/5813 | 2005-02-15 | nao-provido | O Colegiado indeferiu recurso contra decisão da SRE que não exigiu OPA por aumento de participação do controlador da Fitejuta, pois no… | cvm-col-20050215-d01 | fichas/colegiado/2005-03.md |
+| RJ2005/0492 | 2005-02-10 | nao-provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2005/0492. | cvm-col-20050210-d06 | fichas/colegiado/2005-03.md |
+| RJ2004/6354 | 2005-02-10 | nao-provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2004/6354. | cvm-col-20050210-d05 | fichas/colegiado/2005-03.md |
+| RJ2005/0382 | 2005-02-10 | nao-provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2005/0382. | cvm-col-20050210-d04 | fichas/colegiado/2005-03.md |
+| SP2004/0228 | 2005-02-10 | parcial | Pedido de reconsideração de decisão do colegiado relativa a fundo de garantia. Proc. SP2004/0228. | cvm-col-20050210-d03 | fichas/colegiado/2005-03.md |
+| — | 2005-02-10 | outro | O Colegiado aprovou a nova versão do Termo de Referência para consultoria sobre padrões contábeis dos fundos de investimento, após os… | cvm-col-20050210-d02 | fichas/colegiado/2005-03.md |
+| RJ2003/13239 | 2005-02-10 | outro | O Colegiado aprovou, com alterações, minuta de Instrução sobre a sistemática de cadastro de investidores não residentes para audiência… | cvm-col-20050210-d01 | fichas/colegiado/2005-03.md |
+| RJ2004/2057 | 2005-01-31 | nao-provido | Recurso contra a decisão da SRE em processo de rito sumário. Proc. RJ2004/2057. | cvm-col-20050131-d12 | fichas/colegiado/2005-03.md |
+| SP2004/0209 | 2005-01-31 | nao-provido | Pedido de reconsideração decisão do colegiado em processo de fundo de garantia. Proc. SP2004/0209. | cvm-col-20050131-d11 | fichas/colegiado/2005-03.md |
+| SP2002/0494 | 2005-01-31 | provido | Recurso em processo de fundo de garantia. Proc. SP2002/0494. | cvm-col-20050131-d10 | fichas/colegiado/2005-03.md |
+| RJ2004/6580 | 2005-01-31 | nao-provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2004/6580. | cvm-col-20050131-d09 | fichas/colegiado/2005-03.md |
+| RJ2004/6895 | 2005-01-31 | nao-provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2004/6895. | cvm-col-20050131-d08 | fichas/colegiado/2005-03.md |
+| SP2003/0380 | 2005-01-31 | provido | Recurso em processo de fundo de garantia. Proc. SP2003/0380. | cvm-col-20050131-d07 | fichas/colegiado/2005-03.md |
+| SP2003/0099 | 2005-01-31 | provido | Recurso em processo de fundo de garantia. Proc. SP2003/0099. | cvm-col-20050131-d06 | fichas/colegiado/2005-03.md |
+| SP2004/0012 | 2005-01-31 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2004/0012. | cvm-col-20050131-d05 | fichas/colegiado/2005-03.md |
+| RJ2004/2684 | 2005-01-31 | — | Recurso de investidor profissional contra decisão da SEP sobre AGE da Iguaçu de Café Solúvel S.A. que destinou até 55% do lucro líquido a… | cvm-col-20050131-d03 | fichas/colegiado/2005-03.md |
+| RJ90/0387 | 2005-01-31 | nao-provido | Pedido de reconsideração de decisão do colegiado em processo de fundo de garantia. Proc. RJ90/0387. | cvm-col-20050131-d01 | fichas/colegiado/2005-03.md |
+| RJ2004/6729 | 2005-01-25 | outro | O Colegiado considerou que o recurso do Banco Equity de Investimento S.A. contra exigências da SRE no cancelamento parcial de cotas de… | cvm-col-20050125-d15 | fichas/colegiado/2005-02.md |
+| RJ2004/3491 | 2005-01-25 | nao-provido | O Colegiado manteve a decisão da SEP que determinou o estorno da capitalização de reserva de reavaliação antes de realizada e a inclusão… | cvm-col-20050125-d14 | fichas/colegiado/2005-02.md |
+| SP2000/0110 | 2005-01-25 | outro | Manifestação do coaf em processo de rito sumário. Proc. SP2000/0110. | cvm-col-20050125-d13 | fichas/colegiado/2005-02.md |
+| RJ2004/7408 | 2005-01-25 | deferido | O Colegiado deferiu consulta da Unibanco sobre alienação e aquisição privada de ações em tesouraria no âmbito de plano de opções, com base… | cvm-col-20050125-d12 | fichas/colegiado/2005-02.md |
+| RJ2004/6372 | 2005-01-25 | nao-provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2004/6372. | cvm-col-20050125-d11 | fichas/colegiado/2005-02.md |
+| RJ2004/6713 | 2005-01-25 | nao-provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2004/6713. | cvm-col-20050125-d10 | fichas/colegiado/2005-02.md |
+| RJ2004/6623 | 2005-01-25 | indeferido | O Colegiado indeferiu o pedido da Comafal de dispensa do laudo de avaliação na OPA de alienação de controle da Indústrias Micheletto S.A… | cvm-col-20050125-d09 | fichas/colegiado/2005-02.md |
+| RJ2004/5452 | 2005-01-25 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SRE sobre pedido de OPA para cancelamento de registro da Companhia Fabril… | cvm-col-20050125-d08 | fichas/colegiado/2005-02.md |
+| — | 2005-01-25 | outro | O Colegiado decidiu divulgar o entendimento da CVM sobre antigos cotistas de fundos transformados em fundos para investidores qualificados… | cvm-col-20050125-d07 | fichas/colegiado/2005-02.md |
+| RJ2004/7266 | 2005-01-25 | deferido | O Colegiado aprovou o contrato de estabilização de preços das Units e concedeu a dispensa pleiteada pelo Unibanco, líder da distribuição… | cvm-col-20050125-d06 | fichas/colegiado/2005-02.md |
+| — | 2005-01-25 | outro | O Colegiado aprovou a minuta de Deliberação sobre delegação de competência para decidir pedidos de dispensa de requisitos de registro… | cvm-col-20050125-d05 | fichas/colegiado/2005-02.md |
+| SP2003/0463 | 2005-01-25 | parcial | Recurso em processo de fundo de garantia. Proc. SP2003/0463. | cvm-col-20050125-d04 | fichas/colegiado/2005-02.md |
+| RJ2004/5125 | 2005-01-25 | parcial | O Colegiado acolheu parcialmente o pedido da NET Serviços de Comunicação S.A. de OPA para cancelar o registro da CMA Participações S.A… | cvm-col-20050125-d03 | fichas/colegiado/2005-02.md |
+| RJ2004/3098 | 2005-01-25 | nao-provido | O Colegiado manteve o entendimento da SEP, após pedido de vista, de que o preço de emissão de ações em aumento de capital, fixado pela… | cvm-col-20050125-d02 | fichas/colegiado/2005-02.md |
+| — | 2005-01-25 | outro | O Colegiado aprovou a minuta de Deliberação sobre o direito e o procedimento de vista dos processos em trâmite na CVM, para audiência… | cvm-col-20050125-d01 | fichas/colegiado/2005-02.md |
+| RJ2004/6922 | 2005-01-18 | outro | O Colegiado aprovou, com alterações, minuta de Instrução sobre o envio de balancetes à CVM por fundos de investimento especificados, para… | cvm-col-20050118-d01 | fichas/colegiado/2005-02.md |
+| — | 2005-01-11 | deferido | Por solicitação da SIN, o Colegiado prorrogou excepcionalmente para 10/03/2005 o prazo de envio do Perfil Mensal referente a dez/04, jan/05… | cvm-col-20050111-d13 | fichas/colegiado/2005-01.md |
+| RJ2004/6241 | 2005-01-11 | nao-provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2004/6241. | cvm-col-20050111-d12 | fichas/colegiado/2005-01.md |
+| RJ2004/6251 | 2005-01-11 | nao-provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2004/6251. | cvm-col-20050111-d11 | fichas/colegiado/2005-01.md |
+| RJ2004/6347 | 2005-01-11 | nao-provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2004/6347. | cvm-col-20050111-d10 | fichas/colegiado/2005-01.md |
+| RJ2004/6246 | 2005-01-11 | nao-provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2004/6246. | cvm-col-20050111-d09 | fichas/colegiado/2005-01.md |
+| RJ2004/6243 | 2005-01-11 | nao-provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2004/6243. | cvm-col-20050111-d08 | fichas/colegiado/2005-01.md |
+| RJ2004/6314; RJ2004/3327 | 2005-01-11 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SIN que indeferiu credenciamento de administrador de carteiras por experiência… | cvm-col-20050111-d07 | fichas/colegiado/2005-01.md |
+| RJ2004/5689; RJ2004/1286 | 2005-01-11 | nao-provido | Recurso de pessoa física contra decisão da SMI que negou autorização para atuar como agente autônomo de investimento, por reputação ilibada… | cvm-col-20050111-d06 | fichas/colegiado/2005-01.md |
+| RJ2004/6638 | 2005-01-11 | nao-provido | Recurso contra a decisão da SNC de aplicação de multa cominatória. Proc. RJ2004/6638. | cvm-col-20050111-d05 | fichas/colegiado/2005-01.md |
+| RJ2004/6487 | 2005-01-11 | nao-provido | Recurso contra a decisão da SNC de aplicação de multa cominatória. Proc. RJ2004/6487. | cvm-col-20050111-d04 | fichas/colegiado/2005-01.md |
+| RJ2004/7004 | 2005-01-11 | nao-provido | O Colegiado manteve multa cominatória da SNC por atraso na entrega de alteração de contrato social, ao rejeitar pedido de reconsideração da… | cvm-col-20050111-d03 | fichas/colegiado/2005-01.md |
+| RJ2004/7146 | 2005-01-11 | parcial | O Colegiado aprovou contrato de estabilização de preços e concedeu as dispensas pedidas nos itens i a iii, na distribuição secundária de… | cvm-col-20050111-d02 | fichas/colegiado/2005-01.md |
+| RJ90/0386 | 2005-01-11 | nao-provido | Pedido de reconsideração de decisão do colegiado relativa a fundo de garantia. Proc. RJ90/0386. | cvm-col-20050111-d01 | fichas/colegiado/2005-01.md |
+| SP2004/0515 | 2005-01-04 | outro | O Colegiado decidiu atender o pedido de reconsideração da Ancor sobre a exigência de reconhecimento de firma na ficha cadastral para… | cvm-col-20050104-d09 | fichas/colegiado/2005-01.md |
+| RJ2004/6307 | 2005-01-04 | nao-provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2004/6307. | cvm-col-20050104-d08 | fichas/colegiado/2005-01.md |
+| RJ2004/6135 | 2005-01-04 | nao-provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2004/6135. | cvm-col-20050104-d07 | fichas/colegiado/2005-01.md |
+| RJ2004/6628 | 2005-01-04 | nao-provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2004/6628. | cvm-col-20050104-d06 | fichas/colegiado/2005-01.md |
+| RJ2004/6371 | 2005-01-04 | nao-provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2004/6371. | cvm-col-20050104-d05 | fichas/colegiado/2005-01.md |
+| RJ2004/6248 | 2005-01-04 | nao-provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2004/6248. | cvm-col-20050104-d04 | fichas/colegiado/2005-01.md |
+| RJ2004/6476 | 2005-01-04 | nao-provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2004/6476. | cvm-col-20050104-d03 | fichas/colegiado/2005-01.md |
+| RJ2004/5732 | 2005-01-04 | nao-provido | O Colegiado indeferiu o recurso e manteve a decisão da SRE que negou registro de OPA para cancelamento de registro da Indústrias Arteb… | cvm-col-20050104-d02 | fichas/colegiado/2005-01.md |
+| RJ2004/5417 | 2005-01-04 | deferido | O Colegiado deferiu o registro da OPA da Coteminas sobre a Companhia Tecidos Santanense, por alienação indireta de controle com… | cvm-col-20050104-d01 | fichas/colegiado/2005-01.md |
 
 Fim do subíndice.

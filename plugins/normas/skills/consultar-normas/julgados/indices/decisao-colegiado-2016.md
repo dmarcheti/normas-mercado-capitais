@@ -24,532 +24,532 @@ Este subíndice tem 555 linhas e uma leitura única é cortada em silêncio pert
 | 2016-02 | 456 |
 | 2016-01 | 529 |
 
-| Processo | Data | Resultado | Id | Ficha |
-|---|---|---|---|---|
-| 19957.008923/2016-12 | 2016-12-27 | outro | cvm-col-20161227-d0476 | fichas/colegiado/2016-25.md |
-| 19957.008923/2016-12 | 2016-12-23 | — | cvm-col-20161223-d0476 | fichas/colegiado/2016-25.md |
-| 356/2001; RJ2014/8514; RJ2015/1270 | 2016-12-20 | conhecimento | cvm-col-20161220-d9652 | fichas/colegiado/2016-25.md |
-| 02/2016; RJ2016/5003 | 2016-12-20 | outro | cvm-col-20161220-d8946 | fichas/colegiado/2016-25.md |
-| 01/2016; RJ2016/5001 | 2016-12-20 | outro | cvm-col-20161220-d8811 | fichas/colegiado/2016-25.md |
-| 09/2016; RJ2014/13597 | 2016-12-20 | deferido | cvm-col-20161220-d8331 | fichas/colegiado/2016-25.md |
-| 03/2016; RJ2016/5005 | 2016-12-20 | outro | cvm-col-20161220-d6664 | fichas/colegiado/2016-25.md |
-| 04/2016; RJ2016/5006 | 2016-12-20 | outro | cvm-col-20161220-d6263 | fichas/colegiado/2016-25.md |
-| RJ1998/4463 | 2016-12-20 | conhecimento | cvm-col-20161220-d0508 | fichas/colegiado/2016-25.md |
-| 19957.009293/2016-95 | 2016-12-20 | deferido | cvm-col-20161220-d0496 | fichas/colegiado/2016-25.md |
-| 19957.008954/2016-65 | 2016-12-20 | nao-provido | cvm-col-20161220-d0495 | fichas/colegiado/2016-25.md |
-| 19957.008952/2016-76 | 2016-12-20 | nao-provido | cvm-col-20161220-d0494 | fichas/colegiado/2016-25.md |
-| 19957.009251/2016-54 | 2016-12-20 | nao-provido | cvm-col-20161220-d0493 | fichas/colegiado/2016-25.md |
-| 19957.009250/2016-18 | 2016-12-20 | nao-provido | cvm-col-20161220-d0492 | fichas/colegiado/2016-25.md |
-| 19957.008948/2016-16 | 2016-12-20 | nao-provido | cvm-col-20161220-d0491 | fichas/colegiado/2016-25.md |
-| 19957.008627/2016-11 | 2016-12-20 | nao-provido | cvm-col-20161220-d0487 | fichas/colegiado/2016-24.md |
-| 19957.009025/2016-73 | 2016-12-20 | parcial | cvm-col-20161220-d0484 | fichas/colegiado/2016-24.md |
-| 19957.009024/2016-29 | 2016-12-20 | nao-provido | cvm-col-20161220-d0483 | fichas/colegiado/2016-24.md |
-| 19957.008965/2016-45 | 2016-12-20 | nao-provido | cvm-col-20161220-d0481 | fichas/colegiado/2016-24.md |
-| 19957.008947/2016-63 | 2016-12-20 | nao-provido | cvm-col-20161220-d0478 | fichas/colegiado/2016-24.md |
-| 19957.008962/2016-10 | 2016-12-20 | nao-provido | cvm-col-20161220-d0467 | fichas/colegiado/2016-24.md |
-| RJ2011/4464 | 2016-12-20 | provido | cvm-col-20161220-d0461 | fichas/colegiado/2016-24.md |
-| 19957.008848/2016-81 | 2016-12-20 | nao-provido | cvm-col-20161220-d0460 | fichas/colegiado/2016-24.md |
-| 19957.006225/2016-74; 19957.006232/2016-76 | 2016-12-20 | provido | cvm-col-20161220-d0437 | fichas/colegiado/2016-24.md |
-| — | 2016-12-14 | — | cvm-col-20161214-d7067 | fichas/colegiado/2016-24.md |
-| RJ2009/4053 | 2016-12-13 | parcial | cvm-col-20161213-d9416 | fichas/colegiado/2016-24.md |
-| 390/2001; 19957.009074/2016-14 | 2016-12-13 | outro | cvm-col-20161213-d3261 | fichas/colegiado/2016-24.md |
-| 19957.008923/2016-12 | 2016-12-13 | deferido | cvm-col-20161213-d0476 | fichas/colegiado/2016-24.md |
-| 19957.008062/2016-64 | 2016-12-13 | nao-provido | cvm-col-20161213-d0464 | fichas/colegiado/2016-24.md |
-| 19957.008975/2016-81 | 2016-12-13 | outro | cvm-col-20161213-d0462 | fichas/colegiado/2016-24.md |
-| 358/2002; 19957.006290/2016-08 | 2016-12-13 | nao-provido | cvm-col-20161213-d0378 | fichas/colegiado/2016-24.md |
-| 19957.002961/2015-72 | 2016-12-13 | nao-provido | cvm-col-20161213-d0194 | fichas/colegiado/2016-24.md |
-| RJ2014/11715; 19957.001098/2016-17 | 2016-12-13 | provido | cvm-col-20161213-d0158 | fichas/colegiado/2016-24.md |
-| 19957.005979/2016-15 | 2016-12-06 | outro | cvm-col-20161206-d0457 | fichas/colegiado/2016-24.md |
-| 19957.008615/2016-89 | 2016-12-06 | nao-provido | cvm-col-20161206-d0452 | fichas/colegiado/2016-24.md |
-| 19957.008781/2016-85 | 2016-12-06 | nao-provido | cvm-col-20161206-d0451 | fichas/colegiado/2016-24.md |
-| 19957.008780/2016-31 | 2016-12-06 | nao-provido | cvm-col-20161206-d0450 | fichas/colegiado/2016-23.md |
-| RJ2015/6124 | 2016-12-06 | outro | cvm-col-20161206-d0216 | fichas/colegiado/2016-23.md |
-| 04/2015; RJ2012/3268 | 2016-12-06 | outro | cvm-col-20161206-d0093 | fichas/colegiado/2016-23.md |
-| — | 2016-11-30 | outro | cvm-col-20161130-d5347 | fichas/colegiado/2016-23.md |
-| 04/2015; RJ2012/3268 | 2016-11-30 | — | cvm-col-20161130-d0093 | fichas/colegiado/2016-23.md |
-| 19957.006225/2016-74; 19957.006232/2016-76 | 2016-11-29 | — | cvm-col-20161129-d0437 | fichas/colegiado/2016-23.md |
-| RJ2016/2365 | 2016-11-29 | nao-provido | cvm-col-20161129-d0329 | fichas/colegiado/2016-23.md |
-| RJ2006/5754 | 2016-11-23 | outro | cvm-col-20161123-d0802 | fichas/colegiado/2016-23.md |
-| 19957.008350/2016-19 | 2016-11-23 | indeferido | cvm-col-20161123-d0439 | fichas/colegiado/2016-23.md |
-| RJ2012/11002 | 2016-11-22 | indeferido | cvm-col-20161122-d8703rp | fichas/colegiado/2016-23.md |
-| RJ2012/11002 | 2016-11-22 | indeferido | cvm-col-20161122-d8703m | fichas/colegiado/2016-23.md |
-| RJ2012/0373 | 2016-11-22 | outro | cvm-col-20161122-d8089 | fichas/colegiado/2016-23.md |
-| RJ2016/7671 | 2016-11-22 | — | cvm-col-20161122-d0436 | fichas/colegiado/2016-23.md |
-| 356/2001; 19957.007539/2016-94 | 2016-11-22 | deferido | cvm-col-20161122-d0435 | fichas/colegiado/2016-23.md |
-| 19957.008306/2016-17 | 2016-11-22 | nao-provido | cvm-col-20161122-d0431 | fichas/colegiado/2016-23.md |
-| 19957.008168/2016-68 | 2016-11-22 | nao-provido | cvm-col-20161122-d0430 | fichas/colegiado/2016-23.md |
-| 19957.008165/2016-24 | 2016-11-22 | nao-provido | cvm-col-20161122-d0429 | fichas/colegiado/2016-23.md |
-| RJ2016/8071 | 2016-11-22 | nao-provido | cvm-col-20161122-d0425 | fichas/colegiado/2016-23.md |
-| RJ2016/7898 | 2016-11-22 | nao-provido | cvm-col-20161122-d0424 | fichas/colegiado/2016-23.md |
-| RJ2016/7839 | 2016-11-22 | nao-provido | cvm-col-20161122-d0423 | fichas/colegiado/2016-22.md |
-| RJ2016/7836 | 2016-11-22 | nao-provido | cvm-col-20161122-d0422 | fichas/colegiado/2016-22.md |
-| RJ2016/7803 | 2016-11-22 | nao-provido | cvm-col-20161122-d0421 | fichas/colegiado/2016-22.md |
-| 19957.001919/2015-34 | 2016-11-22 | outro | cvm-col-20161122-d0417 | fichas/colegiado/2016-22.md |
-| 19957.006645/2016-51 | 2016-11-22 | nao-provido | cvm-col-20161122-d0412 | fichas/colegiado/2016-22.md |
-| 558/2015; 19957.002943/2016-71 | 2016-11-22 | — | cvm-col-20161122-d0222 | fichas/colegiado/2016-22.md |
-| — | 2016-11-21 | outro | cvm-col-20161121-d5347 | fichas/colegiado/2016-22.md |
-| RJ2006/5754 | 2016-11-16 | — | cvm-col-20161116-d0802 | fichas/colegiado/2016-22.md |
-| 480/2009; RJ2010/7374 | 2016-11-09 | outro | cvm-col-20161109-d3185 | fichas/colegiado/2016-22.md |
-| 03/2016; 543/2013; 555/2014; RJ2014/7745 | 2016-11-08 | outro | cvm-col-20161108-d1239 | fichas/colegiado/2016-22.md |
-| RJ2016/7838 | 2016-11-08 | nao-provido | cvm-col-20161108-d0420 | fichas/colegiado/2016-22.md |
-| RJ2016/7756 | 2016-11-08 | nao-provido | cvm-col-20161108-d0419 | fichas/colegiado/2016-22.md |
-| 19957.001919/2015-34 | 2016-11-08 | outro | cvm-col-20161108-d0417 | fichas/colegiado/2016-22.md |
-| 558/2015; 19957.002943/2016-71 | 2016-11-08 | — | cvm-col-20161108-d0222 | fichas/colegiado/2016-22.md |
-| 19957.002961/2015-72 | 2016-11-08 | — | cvm-col-20161108-d0194 | fichas/colegiado/2016-22.md |
-| RJ2016/1261 | 2016-11-08 | outro | cvm-col-20161108-d0078 | fichas/colegiado/2016-22.md |
-| — | 2016-11-07 | outro | cvm-col-20161107-d5347 | fichas/colegiado/2016-22.md |
-| — | 2016-11-04 | — | cvm-col-20161104-d5347 | fichas/colegiado/2016-22.md |
-| 480/2009; RJ2010/7374 | 2016-11-03 | — | cvm-col-20161103-d3185 | fichas/colegiado/2016-22.md |
-| 19957.007501/2016-11 | 2016-11-01 | nao-provido | cvm-col-20161101-d0414 | fichas/colegiado/2016-22.md |
-| 19957.006030/2016-24 | 2016-11-01 | provido | cvm-col-20161101-d0368 | fichas/colegiado/2016-21.md |
-| 19957.005730/2016-00 | 2016-11-01 | nao-provido | cvm-col-20161101-d0350 | fichas/colegiado/2016-21.md |
-| RJ2015/1483 | 2016-11-01 | outro | cvm-col-20161101-d0182 | fichas/colegiado/2016-21.md |
-| RJ2015/3247 | 2016-11-01 | outro | cvm-col-20161101-d0179 | fichas/colegiado/2016-21.md |
-| — | 2016-10-31 | — | cvm-col-20161031-d5347 | fichas/colegiado/2016-21.md |
-| 480/2009; RJ2010/7374 | 2016-10-26 | — | cvm-col-20161026-d3185 | fichas/colegiado/2016-21.md |
-| RJ2013/11703 | 2016-10-25 | — | cvm-col-20161025-d9211 | fichas/colegiado/2016-21.md |
-| 19957.006645/2016-51 | 2016-10-25 | — | cvm-col-20161025-d0412 | fichas/colegiado/2016-21.md |
-| 19957.001652/2016-66 | 2016-10-25 | nao-provido | cvm-col-20161025-d0411 | fichas/colegiado/2016-21.md |
-| 19957.001207/2016-04 | 2016-10-25 | nao-provido | cvm-col-20161025-d0410 | fichas/colegiado/2016-21.md |
-| 19957.005411/2016-96 | 2016-10-25 | nao-provido | cvm-col-20161025-d0408 | fichas/colegiado/2016-21.md |
-| 19957.007498/2016-36 | 2016-10-25 | nao-provido | cvm-col-20161025-d0406 | fichas/colegiado/2016-21.md |
-| 19957.006677/2016-56 | 2016-10-25 | nao-provido | cvm-col-20161025-d0405 | fichas/colegiado/2016-21.md |
-| 19957.006543/2016-35 | 2016-10-25 | nao-provido | cvm-col-20161025-d0404 | fichas/colegiado/2016-21.md |
-| 19957.006522/2016-10 | 2016-10-25 | nao-provido | cvm-col-20161025-d0403 | fichas/colegiado/2016-21.md |
-| 19957.007767/2016-64 | 2016-10-25 | outro | cvm-col-20161025-d0388 | fichas/colegiado/2016-21.md |
-| — | 2016-10-25 | outro | cvm-col-20161025-d0303 | fichas/colegiado/2016-21.md |
-| RJ2015/3440 | 2016-10-25 | outro | cvm-col-20161025-d0190 | fichas/colegiado/2016-21.md |
-| 19957.001434/2016-21 | 2016-10-25 | nao-provido | cvm-col-20161025-d0155 | fichas/colegiado/2016-21.md |
-| RJ2013/0267 | 2016-10-20 | conhecimento | cvm-col-20161020-d8723 | fichas/colegiado/2016-21.md |
-| RJ2012/11002 | 2016-10-20 | indeferido | cvm-col-20161020-d8703 | fichas/colegiado/2016-21.md |
-| 19957.006586/2016-11 | 2016-10-20 | nao-provido | cvm-col-20161020-d0401 | fichas/colegiado/2016-20.md |
-| 19957.006588/2016-18 | 2016-10-20 | nao-provido | cvm-col-20161020-d0400 | fichas/colegiado/2016-20.md |
-| 19957.006534/2016-44 | 2016-10-20 | nao-provido | cvm-col-20161020-d0399 | fichas/colegiado/2016-20.md |
-| 19957.006524/2016-17 | 2016-10-20 | nao-provido | cvm-col-20161020-d0398 | fichas/colegiado/2016-20.md |
-| 19957.005752/2016-61 | 2016-10-20 | nao-provido | cvm-col-20161020-d0397 | fichas/colegiado/2016-20.md |
-| 19957.005750/2016-72 | 2016-10-20 | nao-provido | cvm-col-20161020-d0396 | fichas/colegiado/2016-20.md |
-| 19957.005361/2016-47 | 2016-10-20 | nao-provido | cvm-col-20161020-d0395 | fichas/colegiado/2016-20.md |
-| 19957.003737/2015-06 | 2016-10-20 | nao-provido | cvm-col-20161020-d0394 | fichas/colegiado/2016-20.md |
-| RJ2015/3974 | 2016-10-20 | outro | cvm-col-20161020-d0276 | fichas/colegiado/2016-20.md |
-| RJ2014/13902 | 2016-10-20 | outro | cvm-col-20161020-d0184 | fichas/colegiado/2016-20.md |
-| 480/2009; RJ2010/7374 | 2016-10-19 | — | cvm-col-20161019-d3185 | fichas/colegiado/2016-20.md |
-| 06/2016; RJ2013/11877 | 2016-10-11 | deferido | cvm-col-20161011-d9637 | fichas/colegiado/2016-20.md |
-| RJ2013/10128 | 2016-10-11 | conhecimento | cvm-col-20161011-d9324 | fichas/colegiado/2016-20.md |
-| — | 2016-10-11 | outro | cvm-col-20161011-d5347 | fichas/colegiado/2016-20.md |
-| 19957.002814/2016-83 | 2016-10-11 | outro | cvm-col-20161011-d0389 | fichas/colegiado/2016-20.md |
-| — | 2016-10-11 | — | cvm-col-20161011-d0388 | fichas/colegiado/2016-20.md |
-| 19957.004657/2016-41 | 2016-10-11 | deferido | cvm-col-20161011-d0387 | fichas/colegiado/2016-20.md |
-| 19957.006531/2016-19 | 2016-10-11 | nao-provido | cvm-col-20161011-d0386 | fichas/colegiado/2016-20.md |
-| 19957.000852/2016-00 | 2016-10-11 | parcial | cvm-col-20161011-d0385 | fichas/colegiado/2016-20.md |
-| 19957.004523/2016-20 | 2016-10-11 | deferido | cvm-col-20161011-d0293 | fichas/colegiado/2016-20.md |
-| 301/1999; RJ2014/13597 | 2016-10-05 | outro | cvm-col-20161005-d8331 | fichas/colegiado/2016-20.md |
-| — | 2016-10-05 | — | cvm-col-20161005-d5347 | fichas/colegiado/2016-20.md |
-| 19957.006353/2016-18 | 2016-10-04 | outro | cvm-col-20161004-d8716 | fichas/colegiado/2016-19.md |
-| 301/1999; RJ2014/13597 | 2016-10-04 | — | cvm-col-20161004-d8331 | fichas/colegiado/2016-19.md |
-| 19957.006361/2016-64 | 2016-10-04 | nao-provido | cvm-col-20161004-d0382 | fichas/colegiado/2016-19.md |
-| 19957.006603/2016-10 | 2016-10-04 | nao-provido | cvm-col-20161004-d0381 | fichas/colegiado/2016-19.md |
-| 19957.006318/2016-07 | 2016-10-04 | nao-provido | cvm-col-20161004-d0380 | fichas/colegiado/2016-19.md |
-| 19957.006276/2016-04 | 2016-10-04 | nao-provido | cvm-col-20161004-d0379 | fichas/colegiado/2016-19.md |
-| RJ2013/9599 | 2016-10-04 | nao-provido | cvm-col-20161004-d0375 | fichas/colegiado/2016-19.md |
-| 19957.006251/2016-01 | 2016-10-04 | nao-provido | cvm-col-20161004-d0374 | fichas/colegiado/2016-19.md |
-| 19957.004954/2016-96 | 2016-10-04 | provido | cvm-col-20161004-d0372 | fichas/colegiado/2016-19.md |
-| 19957.006195/2016-04 | 2016-10-04 | nao-provido | cvm-col-20161004-d0370 | fichas/colegiado/2016-19.md |
-| 19957.006066/2016-16 | 2016-10-04 | nao-provido | cvm-col-20161004-d0369 | fichas/colegiado/2016-19.md |
-| 19957.004457/2016-98 | 2016-10-04 | outro | cvm-col-20161004-d0330 | fichas/colegiado/2016-19.md |
-| 558/2015; 19957.002943/2016-71 | 2016-10-04 | — | cvm-col-20161004-d0222 | fichas/colegiado/2016-19.md |
-| — | 2016-09-30 | — | cvm-col-20160930-d5347 | fichas/colegiado/2016-19.md |
-| RJ2015/2080 | 2016-09-28 | outro | cvm-col-20160928-d9602 | fichas/colegiado/2016-19.md |
-| RJ2014/10049 | 2016-09-28 | outro | cvm-col-20160928-d5058 | fichas/colegiado/2016-19.md |
-| RJ2014/14760 | 2016-09-27 | outro | cvm-col-20160927-d9963 | fichas/colegiado/2016-19.md |
-| 19957.001096/2015-47 | 2016-09-27 | provido | cvm-col-20160927-d9874 | fichas/colegiado/2016-19.md |
-| RJ2013/8697 | 2016-09-27 | indeferido | cvm-col-20160927-d9574 | fichas/colegiado/2016-19.md |
-| RJ2009/4053 | 2016-09-27 | nao-provido | cvm-col-20160927-d9416 | fichas/colegiado/2016-19.md |
-| RJ2014/3511 | 2016-09-27 | nao-provido | cvm-col-20160927-d9091 | fichas/colegiado/2016-18.md |
-| 19957.006102/2016-33 | 2016-09-27 | outro | cvm-col-20160927-d0371 | fichas/colegiado/2016-18.md |
-| 19957.001449/2016-90; RJ2016/4013 | 2016-09-27 | outro | cvm-col-20160927-d0270 | fichas/colegiado/2016-18.md |
-| RJ2015/2080 | 2016-09-21 | — | cvm-col-20160921-d9602 | fichas/colegiado/2016-18.md |
-| — | 2016-09-21 | — | cvm-col-20160921-d5347 | fichas/colegiado/2016-18.md |
-| — | 2016-09-20 | — | cvm-col-20160920-d9783 | fichas/colegiado/2016-18.md |
-| 19957.002252/2016-78 | 2016-09-20 | parcial | cvm-col-20160920-d0367 | fichas/colegiado/2016-18.md |
-| 19957.005873/2016-11 | 2016-09-20 | nao-provido | cvm-col-20160920-d0365 | fichas/colegiado/2016-18.md |
-| 19957.005098/2016-96 | 2016-09-20 | nao-provido | cvm-col-20160920-d0364 | fichas/colegiado/2016-18.md |
-| — | 2016-09-20 | — | cvm-col-20160920-d0362 | fichas/colegiado/2016-18.md |
-| 19957.004508/2016-81 | 2016-09-20 | nao-provido | cvm-col-20160920-d0355 | fichas/colegiado/2016-18.md |
-| 19957.003264/2016-10 | 2016-09-20 | nao-provido | cvm-col-20160920-d0354 | fichas/colegiado/2016-18.md |
-| 19957.005662/2016-71 | 2016-09-20 | nao-provido | cvm-col-20160920-d0352 | fichas/colegiado/2016-18.md |
-| 19957.002194/2016-82 | 2016-09-20 | nao-provido | cvm-col-20160920-d0177 | fichas/colegiado/2016-18.md |
-| 19957.002142/2016-14 | 2016-09-20 | nao-provido | cvm-col-20160920-d0172 | fichas/colegiado/2016-18.md |
-| 301/1999; RJ2014/13597 | 2016-09-14 | — | cvm-col-20160914-d8331 | fichas/colegiado/2016-18.md |
-| RJ2014/5297 | 2016-09-13 | nao-provido | cvm-col-20160913-d9179 | fichas/colegiado/2016-18.md |
-| RJ2014/4181 | 2016-09-13 | nao-provido | cvm-col-20160913-d9168 | fichas/colegiado/2016-18.md |
-| 358/2002; RJ2013/5398 | 2016-09-13 | nao-provido | cvm-col-20160913-d8952 | fichas/colegiado/2016-18.md |
-| RJ2012/11002 | 2016-09-13 | conhecimento | cvm-col-20160913-d8703 | fichas/colegiado/2016-18.md |
-| 02/2016; 505/2011; RJ2015/6254 | 2016-09-13 | outro | cvm-col-20160913-d5529 | fichas/colegiado/2016-17.md |
-| — | 2016-09-13 | — | cvm-col-20160913-d0363 | fichas/colegiado/2016-17.md |
-| 19957.005875/2016-01 | 2016-09-13 | nao-provido | cvm-col-20160913-d0358 | fichas/colegiado/2016-17.md |
-| 19957.005874/2016-58 | 2016-09-13 | nao-provido | cvm-col-20160913-d0357 | fichas/colegiado/2016-17.md |
-| 19957.006047/2016-81 | 2016-09-13 | nao-provido | cvm-col-20160913-d0353 | fichas/colegiado/2016-17.md |
-| 565/2015; 19957.004718/2016-70 | 2016-09-13 | outro | cvm-col-20160913-d0351 | fichas/colegiado/2016-17.md |
-| 19957.004933/2016-71 | 2016-09-13 | provido | cvm-col-20160913-d0327 | fichas/colegiado/2016-17.md |
-| RJ2015/6124 | 2016-09-13 | deferido | cvm-col-20160913-d0216 | fichas/colegiado/2016-17.md |
-| RJ2014/12954 | 2016-09-06 | nao-provido | cvm-col-20160906-d9442 | fichas/colegiado/2016-17.md |
-| 19957.005974/2016-84 | 2016-09-06 | outro | cvm-col-20160906-d0356 | fichas/colegiado/2016-17.md |
-| 19957.000990/2016-81 | 2016-09-06 | deferido | cvm-col-20160906-d0345 | fichas/colegiado/2016-17.md |
-| 19957.004818/2016-04 | 2016-09-06 | nao-provido | cvm-col-20160906-d0328 | fichas/colegiado/2016-17.md |
-| 19957.004284/2016-16 | 2016-09-06 | parcial | cvm-col-20160906-d0301 | fichas/colegiado/2016-17.md |
-| RJ2016/4406 | 2016-09-06 | nao-provido | cvm-col-20160906-d0185 | fichas/colegiado/2016-17.md |
-| 01/2016; 472/2008; RJ2015/13111 | 2016-09-06 | outro | cvm-col-20160906-d0084 | fichas/colegiado/2016-17.md |
-| 19957.005974/2016-84 | 2016-09-05 | outro | cvm-col-20160905-d0356 | fichas/colegiado/2016-17.md |
-| 480/2009; RJ2010/7374 | 2016-08-31 | outro | cvm-col-20160831-d3185 | fichas/colegiado/2016-17.md |
-| 18/2013; 19957.005929/2016-20 | 2016-08-30 | outro | cvm-col-20160830-d8738 | fichas/colegiado/2016-16.md |
-| 01/2007 | 2016-08-30 | nao-provido | cvm-col-20160830-d7214 | fichas/colegiado/2016-16.md |
-| RJ2016/2365 | 2016-08-30 | — | cvm-col-20160830-d0329 | fichas/colegiado/2016-16.md |
-| 19957.001669/2016-13 | 2016-08-30 | provido | cvm-col-20160830-d0291 | fichas/colegiado/2016-16.md |
-| RJ2014/9994 | 2016-08-30 | deferido | cvm-col-20160830-d0207 | fichas/colegiado/2016-16.md |
-| RJ2014/10049 | 2016-08-24 | — | cvm-col-20160824-d5058 | fichas/colegiado/2016-16.md |
-| 19957.005514/2016-56 | 2016-08-23 | nao-provido | cvm-col-20160823-d0340 | fichas/colegiado/2016-16.md |
-| 19957.005090/2016-20 | 2016-08-23 | nao-provido | cvm-col-20160823-d0333 | fichas/colegiado/2016-16.md |
-| 567/2015; 19957.005193/2016-90 | 2016-08-23 | indeferido | cvm-col-20160823-d0332 | fichas/colegiado/2016-16.md |
-| 19957.001434/2016-21 | 2016-08-23 | provido | cvm-col-20160823-d0155 | fichas/colegiado/2016-16.md |
-| RJ2012/11002 | 2016-08-16 | parcial | cvm-col-20160816-d8703 | fichas/colegiado/2016-16.md |
-| 19957.000587/2016-51 | 2016-08-16 | deferido | cvm-col-20160816-d0331 | fichas/colegiado/2016-16.md |
-| 19957.004457/2016-98 | 2016-08-16 | — | cvm-col-20160816-d0330 | fichas/colegiado/2016-16.md |
-| 19957.003452/2016-48 | 2016-08-16 | provido | cvm-col-20160816-d0307 | fichas/colegiado/2016-16.md |
-| RJ2014/0915 | 2016-08-09 | outro | cvm-col-20160809-d9947 | fichas/colegiado/2016-16.md |
-| RJ2015/10623 | 2016-08-09 | conhecimento | cvm-col-20160809-d9911 | fichas/colegiado/2016-16.md |
-| RJ2015/1330 | 2016-08-09 | nao-provido | cvm-col-20160809-d9598 | fichas/colegiado/2016-16.md |
-| RJ2013/2306 | 2016-08-09 | nao-provido | cvm-col-20160809-d9181 | fichas/colegiado/2016-16.md |
-| RJ2012/7159 | 2016-08-09 | nao-provido | cvm-col-20160809-d8866 | fichas/colegiado/2016-16.md |
-| 19957.005423/2016-11 | 2016-08-09 | deferido | cvm-col-20160809-d5474 | fichas/colegiado/2016-16.md |
-| RJ2015/12184 | 2016-08-03 | outro | cvm-col-20160803-d52292 | fichas/colegiado/2016-16.md |
-| RJ2012/10107 | 2016-08-03 | outro | cvm-col-20160803-d5229 | fichas/colegiado/2016-16.md |
-| RJ2013/1636 | 2016-08-02 | nao-provido | cvm-col-20160802-d8613 | fichas/colegiado/2016-15.md |
-| RJ2011/2817 | 2016-08-02 | parcial | cvm-col-20160802-d7695 | fichas/colegiado/2016-15.md |
-| RJ2008/8046 | 2016-08-02 | indeferido | cvm-col-20160802-d6505 | fichas/colegiado/2016-15.md |
-| RJ2009/9577 | 2016-08-02 | outro | cvm-col-20160802-d0868 | fichas/colegiado/2016-15.md |
-| 380/2002; 19957.004832/2016-08 | 2016-08-02 | deferido | cvm-col-20160802-d0326 | fichas/colegiado/2016-15.md |
-| 19957.004594/2016-22 | 2016-08-02 | nao-provido | cvm-col-20160802-d0323 | fichas/colegiado/2016-15.md |
-| 19957.004662/2016-53 | 2016-08-02 | nao-provido | cvm-col-20160802-d0322 | fichas/colegiado/2016-15.md |
-| 19957.004813/2016-73 | 2016-08-02 | nao-provido | cvm-col-20160802-d0321 | fichas/colegiado/2016-15.md |
-| 19957.004743/2016-53 | 2016-08-02 | conhecimento | cvm-col-20160802-d0306 | fichas/colegiado/2016-15.md |
-| 04/2016; RJ2013/10047 | 2016-07-28 | deferido | cvm-col-20160728-d3324 | fichas/colegiado/2016-15.md |
-| RJ2015/12184 | 2016-07-27 | — | cvm-col-20160727-d52292 | fichas/colegiado/2016-15.md |
-| RJ2012/10107 | 2016-07-27 | — | cvm-col-20160727-d5229 | fichas/colegiado/2016-15.md |
-| RJ2013/6183 | 2016-07-26 | outro | cvm-col-20160726-d8565 | fichas/colegiado/2016-15.md |
-| RJ2015/9687 | 2016-07-26 | deferido | cvm-col-20160726-d0318 | fichas/colegiado/2016-15.md |
-| 19957.001404/2016-15 | 2016-07-26 | deferido | cvm-col-20160726-d0317 | fichas/colegiado/2016-15.md |
-| 19957.001403/2016-71 | 2016-07-26 | deferido | cvm-col-20160726-d0316 | fichas/colegiado/2016-15.md |
-| 19957.001401/2016-81 | 2016-07-26 | deferido | cvm-col-20160726-d0315 | fichas/colegiado/2016-15.md |
-| 19957.001406/2016-12 | 2016-07-26 | deferido | cvm-col-20160726-d0314 | fichas/colegiado/2016-15.md |
-| 19957.001395/2016-62 | 2016-07-26 | deferido | cvm-col-20160726-d0313 | fichas/colegiado/2016-15.md |
-| 19957.004282/2016-19 | 2016-07-26 | nao-provido | cvm-col-20160726-d0312 | fichas/colegiado/2016-14.md |
-| 19957.004245/2016-19 | 2016-07-26 | nao-provido | cvm-col-20160726-d0311 | fichas/colegiado/2016-14.md |
-| 19957.003887/2016-92 | 2016-07-26 | nao-provido | cvm-col-20160726-d0310 | fichas/colegiado/2016-14.md |
-| RJ2016/6071 | 2016-07-26 | nao-provido | cvm-col-20160726-d0309 | fichas/colegiado/2016-14.md |
-| 19957.002154/2016-31 | 2016-07-26 | nao-provido | cvm-col-20160726-d0305 | fichas/colegiado/2016-14.md |
-| RJ2016/0613 | 2016-07-26 | provido | cvm-col-20160726-d0108 | fichas/colegiado/2016-14.md |
-| 19957.004743/2016-53 | 2016-07-21 | indeferido | cvm-col-20160721-d0306 | fichas/colegiado/2016-14.md |
-| RJ2012/10107 | 2016-07-20 | — | cvm-col-20160720-d5229 | fichas/colegiado/2016-14.md |
-| — | 2016-07-19 | outro | cvm-col-20160719-d0292 | fichas/colegiado/2016-14.md |
-| RJ2014/11126 | 2016-07-19 | outro | cvm-col-20160719-d0195 | fichas/colegiado/2016-14.md |
-| SP2016/0089 | 2016-07-19 | nao-provido | cvm-col-20160719-d0166 | fichas/colegiado/2016-14.md |
-| 19957.001339/2015-47 | 2016-07-19 | outro | cvm-col-20160719-d0110 | fichas/colegiado/2016-14.md |
-| RJ2012/10107 | 2016-07-13 | — | cvm-col-20160713-d5229 | fichas/colegiado/2016-14.md |
-| 498/2006; RJ2006/0156 | 2016-07-12 | outro | cvm-col-20160712-d4996 | fichas/colegiado/2016-14.md |
-| 19957.004310/2016-06 | 2016-07-12 | outro | cvm-col-20160712-d4124 | fichas/colegiado/2016-14.md |
-| 19957.002315/2016-96 | 2016-07-12 | parcial | cvm-col-20160712-d0296 | fichas/colegiado/2016-14.md |
-| RJ2013/12825 | 2016-07-12 | nao-provido | cvm-col-20160712-d0295 | fichas/colegiado/2016-14.md |
-| RJ2013/11877 | 2016-07-08 | outro | cvm-col-20160708-d9637 | fichas/colegiado/2016-14.md |
-| RJ2014/0027 | 2016-07-05 | outro | cvm-col-20160705-d8977 | fichas/colegiado/2016-14.md |
-| RJ2012/3863 | 2016-07-05 | nao-provido | cvm-col-20160705-d8790 | fichas/colegiado/2016-14.md |
-| 19957.001669/2016-13 | 2016-07-05 | — | cvm-col-20160705-d0291 | fichas/colegiado/2016-13.md |
-| 19957.004000/2016-83 | 2016-07-05 | outro | cvm-col-20160705-d0289 | fichas/colegiado/2016-13.md |
-| 19957.004088/2016-33 | 2016-07-05 | nao-provido | cvm-col-20160705-d0288 | fichas/colegiado/2016-13.md |
-| 19957.004095/2016-35 | 2016-07-05 | nao-provido | cvm-col-20160705-d0287 | fichas/colegiado/2016-13.md |
-| 19957.003898/2016-72 | 2016-07-05 | nao-provido | cvm-col-20160705-d0286 | fichas/colegiado/2016-13.md |
-| 19957.003914/2016-27 | 2016-07-05 | nao-provido | cvm-col-20160705-d0285 | fichas/colegiado/2016-13.md |
-| 19957.003744/2016-81 | 2016-07-05 | nao-provido | cvm-col-20160705-d0284 | fichas/colegiado/2016-13.md |
-| RJ2013/13130 | 2016-07-05 | nao-provido | cvm-col-20160705-d0283 | fichas/colegiado/2016-13.md |
-| RJ2013/5778 | 2016-07-05 | nao-provido | cvm-col-20160705-d0282 | fichas/colegiado/2016-13.md |
-| 02/2015; 438/2006; RJ2015/3482 | 2016-06-29 | outro | cvm-col-20160629-d4872 | fichas/colegiado/2016-13.md |
-| RJ2014/13261 | 2016-06-28 | outro | cvm-col-20160628-d9828 | fichas/colegiado/2016-13.md |
-| RJ2015/12566; RJ2015/12568 | 2016-06-28 | nao-provido | cvm-col-20160628-d0238 | fichas/colegiado/2016-13.md |
-| RJ2015/1652 | 2016-06-28 | outro | cvm-col-20160628-d0023 | fichas/colegiado/2016-13.md |
-| RJ2015/2239 | 2016-06-28 | outro | cvm-col-20160628-d0022 | fichas/colegiado/2016-13.md |
-| RJ2013/11877 | 2016-06-22 | — | cvm-col-20160622-d9637 | fichas/colegiado/2016-13.md |
-| SP2015/0288 | 2016-06-21 | nao-provido | cvm-col-20160621-d9996 | fichas/colegiado/2016-13.md |
-| RJ2011/3493 | 2016-06-21 | nao-provido | cvm-col-20160621-d8888 | fichas/colegiado/2016-13.md |
-| RJ2016/0006 | 2016-06-21 | deferido | cvm-col-20160621-d0272 | fichas/colegiado/2016-13.md |
-| 19957.003268/2016-06 | 2016-06-21 | nao-provido | cvm-col-20160621-d0269 | fichas/colegiado/2016-13.md |
-| 19957.003269/2016-42 | 2016-06-21 | nao-provido | cvm-col-20160621-d0268 | fichas/colegiado/2016-13.md |
-| 19957.003569/2016-21 | 2016-06-21 | nao-provido | cvm-col-20160621-d0267 | fichas/colegiado/2016-13.md |
-| RJ2013/10338 | 2016-06-21 | nao-provido | cvm-col-20160621-d0266 | fichas/colegiado/2016-12.md |
-| RJ2012/15534 | 2016-06-21 | conhecimento | cvm-col-20160621-d0265 | fichas/colegiado/2016-12.md |
-| RJ2012/15312 | 2016-06-21 | nao-provido | cvm-col-20160621-d0264 | fichas/colegiado/2016-12.md |
-| RJ2012/8112 | 2016-06-21 | nao-provido | cvm-col-20160621-d0263 | fichas/colegiado/2016-12.md |
-| RJ2011/4462 | 2016-06-21 | nao-provido | cvm-col-20160621-d0262 | fichas/colegiado/2016-12.md |
-| RJ2015/10953 | 2016-06-21 | nao-provido | cvm-col-20160621-d0261 | fichas/colegiado/2016-12.md |
-| 19957.003265/2016-64 | 2016-06-21 | nao-provido | cvm-col-20160621-d0260 | fichas/colegiado/2016-12.md |
-| 19957.003564/2016-07 | 2016-06-21 | nao-provido | cvm-col-20160621-d0259 | fichas/colegiado/2016-12.md |
-| 19957.003254/2016-84 | 2016-06-21 | nao-provido | cvm-col-20160621-d0258 | fichas/colegiado/2016-12.md |
-| 19957.003262/2016-21 | 2016-06-21 | nao-provido | cvm-col-20160621-d0257 | fichas/colegiado/2016-12.md |
-| 542/2013; 19957.003593/2016-61 | 2016-06-21 | deferido | cvm-col-20160621-d0252 | fichas/colegiado/2016-12.md |
-| 505/2011; SP2015/0097 | 2016-06-14 | parcial | cvm-col-20160614-d9646 | fichas/colegiado/2016-12.md |
-| RJ2013/7923 | 2016-06-14 | outro | cvm-col-20160614-d9426 | fichas/colegiado/2016-12.md |
-| RJ2013/13172 | 2016-06-14 | conhecimento | cvm-col-20160614-d8771 | fichas/colegiado/2016-12.md |
-| 04/2015; 19957.003591/2015-91 | 2016-06-14 | outro | cvm-col-20160614-d6789 | fichas/colegiado/2016-12.md |
-| 19957.002636/2016-91 | 2016-06-14 | outro | cvm-col-20160614-d0256 | fichas/colegiado/2016-12.md |
-| 19957.002582/2016-63 | 2016-06-14 | deferido | cvm-col-20160614-d0255 | fichas/colegiado/2016-12.md |
-| 542/2013; 19957.003593/2016-61 | 2016-06-14 | — | cvm-col-20160614-d0252 | fichas/colegiado/2016-12.md |
-| 19957.001114/2016-71 | 2016-06-14 | nao-provido | cvm-col-20160614-d0251 | fichas/colegiado/2016-12.md |
-| RJ2015/12660 | 2016-06-14 | nao-provido | cvm-col-20160614-d0250 | fichas/colegiado/2016-12.md |
-| RJ2015/0162 | 2016-06-14 | nao-provido | cvm-col-20160614-d0249 | fichas/colegiado/2016-12.md |
-| RJ2013/12588 | 2016-06-14 | parcial | cvm-col-20160614-d0248 | fichas/colegiado/2016-12.md |
-| RJ2013/12432 | 2016-06-14 | nao-provido | cvm-col-20160614-d0247 | fichas/colegiado/2016-11.md |
-| RJ2013/12405 | 2016-06-14 | parcial | cvm-col-20160614-d0246 | fichas/colegiado/2016-11.md |
-| RJ2013/12401 | 2016-06-14 | parcial | cvm-col-20160614-d0245 | fichas/colegiado/2016-11.md |
-| RJ2013/10336 | 2016-06-14 | provido | cvm-col-20160614-d0244 | fichas/colegiado/2016-11.md |
-| RJ2015/4262 | 2016-06-14 | deferido | cvm-col-20160614-d0125 | fichas/colegiado/2016-11.md |
-| RJ2013/11877 | 2016-06-08 | — | cvm-col-20160608-d9637 | fichas/colegiado/2016-11.md |
-| RJ2016/5003 | 2016-06-07 | outro | cvm-col-20160607-d8946 | fichas/colegiado/2016-11.md |
-| RJ2016/5001 | 2016-06-07 | outro | cvm-col-20160607-d8811 | fichas/colegiado/2016-11.md |
-| RJ2016/5005 | 2016-06-07 | outro | cvm-col-20160607-d6664 | fichas/colegiado/2016-11.md |
-| RJ2016/5006 | 2016-06-07 | outro | cvm-col-20160607-d6263 | fichas/colegiado/2016-11.md |
-| 19957.002943/2016-71 | 2016-06-07 | outro | cvm-col-20160607-d1492 | fichas/colegiado/2016-11.md |
-| 286/1998; 19957.002620/2016-88 | 2016-06-07 | outro | cvm-col-20160607-d0243 | fichas/colegiado/2016-11.md |
-| 19957.003870/2016-35 | 2016-06-07 | outro | cvm-col-20160607-d0242 | fichas/colegiado/2016-11.md |
-| RJ2013/10980 | 2016-06-07 | nao-provido | cvm-col-20160607-d0241 | fichas/colegiado/2016-11.md |
-| RJ2013/12941 | 2016-06-07 | nao-provido | cvm-col-20160607-d0240 | fichas/colegiado/2016-11.md |
-| RJ2013/12939 | 2016-06-07 | nao-provido | cvm-col-20160607-d0239 | fichas/colegiado/2016-11.md |
-| RJ2015/12566; RJ2015/12568 | 2016-06-07 | — | cvm-col-20160607-d0238 | fichas/colegiado/2016-11.md |
-| RJ2013/12385 | 2016-06-07 | nao-provido | cvm-col-20160607-d0237 | fichas/colegiado/2016-11.md |
-| 19957.003171/2016-95 | 2016-06-07 | nao-provido | cvm-col-20160607-d0235 | fichas/colegiado/2016-11.md |
-| 19957.003217/2016-76 | 2016-06-07 | nao-provido | cvm-col-20160607-d0234 | fichas/colegiado/2016-11.md |
-| 19957.000543/2015-41 | 2016-06-07 | nao-provido | cvm-col-20160607-d0233 | fichas/colegiado/2016-11.md |
-| 19957.003168/2016-71 | 2016-06-07 | nao-provido | cvm-col-20160607-d0232 | fichas/colegiado/2016-11.md |
-| RJ2013/11877 | 2016-06-01 | — | cvm-col-20160601-d9637 | fichas/colegiado/2016-10.md |
-| RJ2015/8057 | 2016-05-31 | deferido | cvm-col-20160531-d9990 | fichas/colegiado/2016-10.md |
-| RJ2014/9695 | 2016-05-31 | outro | cvm-col-20160531-d9985 | fichas/colegiado/2016-10.md |
-| 19957.001813/2015-31 | 2016-05-31 | outro | cvm-col-20160531-d8716 | fichas/colegiado/2016-10.md |
-| 358/2002; RJ2015/6981 | 2016-05-25 | — | cvm-col-20160525-d2844 | fichas/colegiado/2016-10.md |
-| 19957.003614/2015-67 | 2016-05-24 | deferido | cvm-col-20160524-d9969 | fichas/colegiado/2016-10.md |
-| 19957.002908/2016-52 | 2016-05-24 | nao-provido | cvm-col-20160524-d0224 | fichas/colegiado/2016-10.md |
-| 19957.002752/2016-18 | 2016-05-24 | deferido | cvm-col-20160524-d0223 | fichas/colegiado/2016-10.md |
-| 558/2015; 19957.002943/2016-71 | 2016-05-24 | — | cvm-col-20160524-d0222 | fichas/colegiado/2016-10.md |
-| 19957.003032/2016-61 | 2016-05-24 | nao-provido | cvm-col-20160524-d0221 | fichas/colegiado/2016-10.md |
-| 19957.003028/2016-01 | 2016-05-24 | nao-provido | cvm-col-20160524-d0220 | fichas/colegiado/2016-10.md |
-| 19957.000546/2015-84 | 2016-05-24 | nao-provido | cvm-col-20160524-d0219 | fichas/colegiado/2016-10.md |
-| 19957.000528/2015-01 | 2016-05-24 | nao-provido | cvm-col-20160524-d0218 | fichas/colegiado/2016-10.md |
-| 19957.003012/2016-91 | 2016-05-24 | nao-provido | cvm-col-20160524-d0213 | fichas/colegiado/2016-10.md |
-| 19957.003007/2016-88 | 2016-05-24 | nao-provido | cvm-col-20160524-d0212 | fichas/colegiado/2016-10.md |
-| 19957.003010/2016-00 | 2016-05-24 | nao-provido | cvm-col-20160524-d0211 | fichas/colegiado/2016-10.md |
-| 19957.003027/2016-59 | 2016-05-24 | nao-provido | cvm-col-20160524-d0210 | fichas/colegiado/2016-10.md |
-| 19957.002965/2016-31 | 2016-05-24 | nao-provido | cvm-col-20160524-d0209 | fichas/colegiado/2016-10.md |
-| 358/2002; RJ2015/6981 | 2016-05-18 | — | cvm-col-20160518-d2844 | fichas/colegiado/2016-10.md |
-| RJ2016/1327 | 2016-05-17 | — | cvm-col-20160517-d5369 | fichas/colegiado/2016-10.md |
-| 19957.002726/2016-81 | 2016-05-17 | outro | cvm-col-20160517-d0206 | fichas/colegiado/2016-10.md |
-| 19957.002617/2016-64 | 2016-05-17 | nao-provido | cvm-col-20160517-d0201 | fichas/colegiado/2016-10.md |
-| 19957.002616/2016-10 | 2016-05-17 | nao-provido | cvm-col-20160517-d0200 | fichas/colegiado/2016-09.md |
-| 19957.002615/2016-75 | 2016-05-17 | nao-provido | cvm-col-20160517-d0199 | fichas/colegiado/2016-09.md |
-| 19957.002614/2016-21 | 2016-05-17 | nao-provido | cvm-col-20160517-d0198 | fichas/colegiado/2016-09.md |
-| RJ2015/13394 | 2016-05-17 | nao-provido | cvm-col-20160517-d0197 | fichas/colegiado/2016-09.md |
-| RJ2013/12406 | 2016-05-17 | nao-provido | cvm-col-20160517-d0196 | fichas/colegiado/2016-09.md |
-| — | 2016-05-10 | outro | cvm-col-20160510-d9783 | fichas/colegiado/2016-09.md |
-| RJ2015/10253 | 2016-05-10 | indeferido | cvm-col-20160510-d0194 | fichas/colegiado/2016-09.md |
-| RJ2015/12018 | 2016-05-10 | nao-provido | cvm-col-20160510-d0193 | fichas/colegiado/2016-09.md |
-| RJ2015/11942 | 2016-05-10 | nao-provido | cvm-col-20160510-d0192 | fichas/colegiado/2016-09.md |
-| 19957.003695/2015-03 | 2016-05-10 | nao-provido | cvm-col-20160510-d0002 | fichas/colegiado/2016-09.md |
-| 03/2015; 471/2008; RJ2014/12576 | 2016-05-04 | outro | cvm-col-20160504-d6067 | fichas/colegiado/2016-09.md |
-| — | 2016-05-04 | outro | cvm-col-20160504-d5347 | fichas/colegiado/2016-09.md |
-| RJ2014/7604 | 2016-05-03 | outro | cvm-col-20160503-d9766 | fichas/colegiado/2016-09.md |
-| SP2016/0134 | 2016-05-03 | nao-provido | cvm-col-20160503-d9218 | fichas/colegiado/2016-09.md |
-| RJ2010/10742 | 2016-05-03 | nao-provido | cvm-col-20160503-d8627 | fichas/colegiado/2016-09.md |
-| — | 2016-05-03 | — | cvm-col-20160503-d5347 | fichas/colegiado/2016-09.md |
-| RJ2016/1332 | 2016-05-03 | nao-provido | cvm-col-20160503-d0189 | fichas/colegiado/2016-09.md |
-| — | 2016-04-29 | — | cvm-col-20160429-d5347 | fichas/colegiado/2016-09.md |
-| RJ2013/10047 | 2016-04-27 | outro | cvm-col-20160427-d3324 | fichas/colegiado/2016-09.md |
-| RJ2014/9909 | 2016-04-26 | outro | cvm-col-20160426-d9791 | fichas/colegiado/2016-08.md |
-| RJ2014/11648 | 2016-04-26 | outro | cvm-col-20160426-d9781 | fichas/colegiado/2016-08.md |
-| RJ2013/12595 | 2016-04-26 | outro | cvm-col-20160426-d9572 | fichas/colegiado/2016-08.md |
-| 19957.002527/2016-73 | 2016-04-26 | indeferido | cvm-col-20160426-d0186 | fichas/colegiado/2016-08.md |
-| RJ2016/4406 | 2016-04-26 | nao-provido | cvm-col-20160426-d0185 | fichas/colegiado/2016-08.md |
-| 19957.001433/2016-87 | 2016-04-26 | provido | cvm-col-20160426-d0154 | fichas/colegiado/2016-08.md |
-| 19957.001431/2016-98 | 2016-04-26 | provido | cvm-col-20160426-d0153 | fichas/colegiado/2016-08.md |
-| RJ2016/0807 | 2016-04-26 | nao-provido | cvm-col-20160426-d0065 | fichas/colegiado/2016-08.md |
-| — | 2016-04-19 | outro | cvm-col-20160419-d2865 | fichas/colegiado/2016-08.md |
-| — | 2016-04-18 | — | cvm-col-20160418-d5347 | fichas/colegiado/2016-08.md |
-| RJ2013/10047 | 2016-04-13 | — | cvm-col-20160413-d3324 | fichas/colegiado/2016-08.md |
-| RJ2014/7213 | 2016-04-12 | outro | cvm-col-20160412-d9682 | fichas/colegiado/2016-08.md |
-| 19957.002194/2016-82 | 2016-04-12 | nao-provido | cvm-col-20160412-d0177 | fichas/colegiado/2016-08.md |
-| 19957.001309/2016-11 | 2016-04-12 | nao-provido | cvm-col-20160412-d0176 | fichas/colegiado/2016-08.md |
-| RJ2016/4004 | 2016-04-12 | nao-provido | cvm-col-20160412-d0175 | fichas/colegiado/2016-08.md |
-| RJ2016/3873 | 2016-04-12 | nao-provido | cvm-col-20160412-d0174 | fichas/colegiado/2016-08.md |
-| RJ2016/3454 | 2016-04-12 | nao-provido | cvm-col-20160412-d0173 | fichas/colegiado/2016-08.md |
-| RJ2016/3430; 19957.002142/2016-14 | 2016-04-12 | nao-provido | cvm-col-20160412-d0172 | fichas/colegiado/2016-08.md |
-| 19957.004122/2015-99 | 2016-04-12 | provido | cvm-col-20160412-d0050 | fichas/colegiado/2016-08.md |
-| RJ2013/10047 | 2016-04-01 | — | cvm-col-20160401-d3324 | fichas/colegiado/2016-08.md |
-| RJ2016/2362 | 2016-03-29 | conhecimento | cvm-col-20160329-d0165 | fichas/colegiado/2016-08.md |
-| RJ2015/7158 | 2016-03-29 | deferido | cvm-col-20160329-d0164 | fichas/colegiado/2016-08.md |
-| RJ2015/4262 | 2016-03-29 | — | cvm-col-20160329-d0125 | fichas/colegiado/2016-07.md |
-| RJ2013/11877 | 2016-03-23 | — | cvm-col-20160323-d9637 | fichas/colegiado/2016-07.md |
-| RJ2015/1951 | 2016-03-22 | nao-provido | cvm-col-20160322-d9748 | fichas/colegiado/2016-07.md |
-| 19957.001797/2016-67 | 2016-03-22 | outro | cvm-col-20160322-d0157 | fichas/colegiado/2016-07.md |
-| RJ2012/8073 | 2016-03-22 | nao-provido | cvm-col-20160322-d0156 | fichas/colegiado/2016-07.md |
-| RJ2015/7661 | 2016-03-22 | deferido | cvm-col-20160322-d0146 | fichas/colegiado/2016-07.md |
-| RJ2013/11877 | 2016-03-16 | — | cvm-col-20160316-d9637 | fichas/colegiado/2016-07.md |
-| RJ2014/14465 | 2016-03-15 | outro | cvm-col-20160315-d9869 | fichas/colegiado/2016-07.md |
-| SP2009/0054 | 2016-03-15 | outro | cvm-col-20160315-d8021 | fichas/colegiado/2016-07.md |
-| RJ2015/7209 | 2016-03-15 | outro | cvm-col-20160315-d0152 | fichas/colegiado/2016-07.md |
-| RJ2016/0056 | 2016-03-15 | nao-provido | cvm-col-20160315-d0151 | fichas/colegiado/2016-07.md |
-| 19957.004083/2015-20 | 2016-03-15 | outro | cvm-col-20160315-d0147 | fichas/colegiado/2016-07.md |
-| RJ2016/1682 | 2016-03-15 | nao-provido | cvm-col-20160315-d0138 | fichas/colegiado/2016-07.md |
-| RJ2013/11877 | 2016-03-09 | — | cvm-col-20160309-d9637 | fichas/colegiado/2016-07.md |
-| RJ2014/10859 | 2016-03-08 | outro | cvm-col-20160308-d9959 | fichas/colegiado/2016-07.md |
-| RJ2015/10623 | 2016-03-08 | conhecimento | cvm-col-20160308-d9911 | fichas/colegiado/2016-07.md |
-| RJ2013/11716 | 2016-03-08 | outro | cvm-col-20160308-d9790 | fichas/colegiado/2016-07.md |
-| RJ2012/3071 | 2016-03-08 | provido | cvm-col-20160308-d8398 | fichas/colegiado/2016-07.md |
-| 19957.001499/2016-77 | 2016-03-08 | outro | cvm-col-20160308-d0145 | fichas/colegiado/2016-07.md |
-| RJ2016/2130 | 2016-03-08 | nao-provido | cvm-col-20160308-d0144 | fichas/colegiado/2016-07.md |
-| RJ2016/2124 | 2016-03-08 | nao-provido | cvm-col-20160308-d0143 | fichas/colegiado/2016-07.md |
-| RJ2016/2123 | 2016-03-08 | nao-provido | cvm-col-20160308-d0142 | fichas/colegiado/2016-07.md |
-| RJ2016/2122 | 2016-03-08 | provido | cvm-col-20160308-d0141 | fichas/colegiado/2016-07.md |
-| RJ2016/2121 | 2016-03-08 | nao-provido | cvm-col-20160308-d0140 | fichas/colegiado/2016-06.md |
-| RJ2016/2120 | 2016-03-08 | nao-provido | cvm-col-20160308-d0139 | fichas/colegiado/2016-06.md |
-| RJ2015/1295 | 2016-03-08 | nao-provido | cvm-col-20160308-d0137 | fichas/colegiado/2016-06.md |
-| RJ2015/1264 | 2016-03-08 | nao-provido | cvm-col-20160308-d0136 | fichas/colegiado/2016-06.md |
-| RJ2014/12861 | 2016-03-08 | provido | cvm-col-20160308-d0135 | fichas/colegiado/2016-06.md |
-| 19957.001060/2016-44 | 2016-03-08 | outro | cvm-col-20160308-d0132 | fichas/colegiado/2016-06.md |
-| RJ2013/11877 | 2016-03-02 | — | cvm-col-20160302-d9637 | fichas/colegiado/2016-06.md |
-| RJ2015/5511 | 2016-03-01 | conhecimento | cvm-col-20160301-d9705 | fichas/colegiado/2016-06.md |
-| RJ2015/5513 | 2016-03-01 | conhecimento | cvm-col-20160301-d9695 | fichas/colegiado/2016-06.md |
-| 03/2016; RJ2014/7745 | 2016-03-01 | deferido | cvm-col-20160301-d1239 | fichas/colegiado/2016-06.md |
-| RJ2015/10970 | 2016-03-01 | outro | cvm-col-20160301-d0133 | fichas/colegiado/2016-06.md |
-| 19957.001060/2016-44 | 2016-03-01 | nao-provido | cvm-col-20160301-d0132 | fichas/colegiado/2016-06.md |
-| RJ2016/1503 | 2016-03-01 | nao-provido | cvm-col-20160301-d0131 | fichas/colegiado/2016-06.md |
-| RJ2016/1558 | 2016-03-01 | nao-provido | cvm-col-20160301-d0130 | fichas/colegiado/2016-06.md |
-| RJ2016/1292 | 2016-03-01 | nao-provido | cvm-col-20160301-d0129 | fichas/colegiado/2016-06.md |
-| 19957.002501/2015-44 | 2016-03-01 | nao-provido | cvm-col-20160301-d0128 | fichas/colegiado/2016-06.md |
-| 19957.002502/2015-99 | 2016-03-01 | nao-provido | cvm-col-20160301-d0127 | fichas/colegiado/2016-06.md |
-| 19957.003637/2015-71 | 2016-03-01 | nao-provido | cvm-col-20160301-d0126 | fichas/colegiado/2016-06.md |
-| RJ2015/1322; RJ2015/1324 | 2016-03-01 | nao-provido | cvm-col-20160301-d0121 | fichas/colegiado/2016-06.md |
-| 19957.003166/2015-00 | 2016-03-01 | nao-provido | cvm-col-20160301-d0119 | fichas/colegiado/2016-06.md |
-| 19957.002876/2015-12 | 2016-03-01 | nao-provido | cvm-col-20160301-d0118 | fichas/colegiado/2016-06.md |
-| 19957.002503/2015-33 | 2016-03-01 | nao-provido | cvm-col-20160301-d0117 | fichas/colegiado/2016-06.md |
-| 19957.003436/2015-74 | 2016-03-01 | nao-provido | cvm-col-20160301-d0116 | fichas/colegiado/2016-06.md |
-| 19957.003225/2015-31 | 2016-03-01 | nao-provido | cvm-col-20160301-d0115 | fichas/colegiado/2016-05.md |
-| RJ2015/12607 | 2016-03-01 | nao-provido | cvm-col-20160301-d0114 | fichas/colegiado/2016-05.md |
-| RJ2016/1322 | 2016-03-01 | nao-provido | cvm-col-20160301-d0113 | fichas/colegiado/2016-05.md |
-| RJ2016/0641 | 2016-03-01 | nao-provido | cvm-col-20160301-d0109 | fichas/colegiado/2016-05.md |
-| RJ2016/0613 | 2016-03-01 | nao-provido | cvm-col-20160301-d0108 | fichas/colegiado/2016-05.md |
-| RJ2016/0601 | 2016-03-01 | nao-provido | cvm-col-20160301-d0107 | fichas/colegiado/2016-05.md |
-| RJ2016/0459 | 2016-03-01 | nao-provido | cvm-col-20160301-d0106 | fichas/colegiado/2016-05.md |
-| RJ2016/1601 | 2016-03-01 | nao-provido | cvm-col-20160301-d0105 | fichas/colegiado/2016-05.md |
-| RJ2016/1458 | 2016-03-01 | nao-provido | cvm-col-20160301-d0104 | fichas/colegiado/2016-05.md |
-| RJ2016/1379 | 2016-03-01 | parcial | cvm-col-20160301-d0103 | fichas/colegiado/2016-05.md |
-| RJ2016/1355 | 2016-03-01 | parcial | cvm-col-20160301-d0102 | fichas/colegiado/2016-05.md |
-| RJ2016/1353 | 2016-03-01 | nao-provido | cvm-col-20160301-d0101 | fichas/colegiado/2016-05.md |
-| RJ2016/1352 | 2016-03-01 | nao-provido | cvm-col-20160301-d0100 | fichas/colegiado/2016-05.md |
-| RJ2016/1338 | 2016-03-01 | nao-provido | cvm-col-20160301-d0099 | fichas/colegiado/2016-05.md |
-| RJ2016/1337 | 2016-03-01 | nao-provido | cvm-col-20160301-d0098 | fichas/colegiado/2016-05.md |
-| RJ2016/1336 | 2016-03-01 | nao-provido | cvm-col-20160301-d0097 | fichas/colegiado/2016-05.md |
-| RJ2016/1281 | 2016-03-01 | nao-provido | cvm-col-20160301-d0096 | fichas/colegiado/2016-05.md |
-| RJ2013/11877 | 2016-02-24 | — | cvm-col-20160224-d9637 | fichas/colegiado/2016-05.md |
-| RJ2015/12268 | 2016-02-23 | outro | cvm-col-20160223-d0122 | fichas/colegiado/2016-05.md |
-| 047/2015 | 2016-02-23 | outro | cvm-col-20160223-d0110 | fichas/colegiado/2016-05.md |
-| RJ2015/13625; RJ2015/13626; RJ2015/13627; RJ2015/13628; RJ2015/13629; RJ2015/13630; RJ2015/13631; RJ2015/13632; RJ2015/13633; RJ2015/13634; RJ2015/13635; RJ2015/13636 | 2016-02-23 | nao-provido | cvm-col-20160223-d0090 | fichas/colegiado/2016-05.md |
-| SP2015/0122 | 2016-02-23 | deferido | cvm-col-20160223-d0077 | fichas/colegiado/2016-05.md |
-| RJ2014/9501 | 2016-02-16 | outro | cvm-col-20160216-d9772 | fichas/colegiado/2016-05.md |
-| RJ2014/8516 | 2016-02-16 | provido | cvm-col-20160216-d9460 | fichas/colegiado/2016-04.md |
-| RJ2013/7137 | 2016-02-16 | conhecimento | cvm-col-20160216-d8747 | fichas/colegiado/2016-04.md |
-| RJ2016/1329 | 2016-02-16 | nao-provido | cvm-col-20160216-d0095 | fichas/colegiado/2016-04.md |
-| RJ2016/1304 | 2016-02-16 | nao-provido | cvm-col-20160216-d0094 | fichas/colegiado/2016-04.md |
-| RJ2016/1269 | 2016-02-16 | nao-provido | cvm-col-20160216-d0093 | fichas/colegiado/2016-04.md |
-| RJ2015/13638; RJ2015/13639; RJ2015/13640; RJ2015/13641 | 2016-02-16 | nao-provido | cvm-col-20160216-d0092 | fichas/colegiado/2016-04.md |
-| RJ2015/13637 | 2016-02-16 | nao-provido | cvm-col-20160216-d0091 | fichas/colegiado/2016-04.md |
-| RJ2015/13516; RJ2015/13517; RJ2015/13518 | 2016-02-16 | nao-provido | cvm-col-20160216-d0089 | fichas/colegiado/2016-04.md |
-| RJ2015/12942 | 2016-02-16 | nao-provido | cvm-col-20160216-d0088 | fichas/colegiado/2016-04.md |
-| RJ2015/12682 | 2016-02-16 | nao-provido | cvm-col-20160216-d0087 | fichas/colegiado/2016-04.md |
-| RJ2015/12681 | 2016-02-16 | nao-provido | cvm-col-20160216-d0086 | fichas/colegiado/2016-04.md |
-| RJ2015/12679; RJ2015/12680 | 2016-02-16 | nao-provido | cvm-col-20160216-d0085 | fichas/colegiado/2016-04.md |
-| RJ2015/12678 | 2016-02-16 | nao-provido | cvm-col-20160216-d0084 | fichas/colegiado/2016-04.md |
-| RJ2015/12327 | 2016-02-16 | nao-provido | cvm-col-20160216-d0083 | fichas/colegiado/2016-04.md |
-| RJ2013/12530 | 2016-02-16 | nao-provido | cvm-col-20160216-d0080 | fichas/colegiado/2016-04.md |
-| RJ2013/12424 | 2016-02-16 | nao-provido | cvm-col-20160216-d0079 | fichas/colegiado/2016-04.md |
-| RJ2015/1321 | 2016-02-16 | nao-provido | cvm-col-20160216-d0062 | fichas/colegiado/2016-04.md |
-| RJ2015/1289 | 2016-02-16 | nao-provido | cvm-col-20160216-d0061 | fichas/colegiado/2016-04.md |
-| RJ2014/13277 | 2016-02-16 | nao-provido | cvm-col-20160216-d0060 | fichas/colegiado/2016-04.md |
-| RJ2014/13157 | 2016-02-16 | nao-provido | cvm-col-20160216-d0059 | fichas/colegiado/2016-04.md |
-| RJ2015/12354 | 2016-02-11 | nao-provido | cvm-col-20160211-d9955 | fichas/colegiado/2016-04.md |
-| RJ2013/0267 | 2016-02-11 | parcial | cvm-col-20160211-d8723 | fichas/colegiado/2016-04.md |
-| RJ2010/10742 | 2016-02-11 | conhecimento | cvm-col-20160211-d8627 | fichas/colegiado/2016-04.md |
-| 19957.000769/2016-22 | 2016-02-11 | outro | cvm-col-20160211-d0577 | fichas/colegiado/2016-04.md |
-| SP2015/0122 | 2016-02-11 | — | cvm-col-20160211-d0077 | fichas/colegiado/2016-04.md |
-| RJ2015/13322 | 2016-02-11 | nao-provido | cvm-col-20160211-d0076 | fichas/colegiado/2016-03.md |
-| 244/1998; RJ2015/12035 | 2016-02-11 | deferido | cvm-col-20160211-d0075 | fichas/colegiado/2016-03.md |
-| RJ2016/1271 | 2016-02-11 | nao-provido | cvm-col-20160211-d0074 | fichas/colegiado/2016-03.md |
-| RJ2016/1270 | 2016-02-11 | nao-provido | cvm-col-20160211-d0073 | fichas/colegiado/2016-03.md |
-| RJ2016/1268 | 2016-02-11 | nao-provido | cvm-col-20160211-d0072 | fichas/colegiado/2016-03.md |
-| RJ2016/1267 | 2016-02-11 | nao-provido | cvm-col-20160211-d0071 | fichas/colegiado/2016-03.md |
-| RJ2016/1266 | 2016-02-11 | nao-provido | cvm-col-20160211-d0070 | fichas/colegiado/2016-03.md |
-| RJ2016/1265 | 2016-02-11 | nao-provido | cvm-col-20160211-d0069 | fichas/colegiado/2016-03.md |
-| RJ2016/1264 | 2016-02-11 | nao-provido | cvm-col-20160211-d0068 | fichas/colegiado/2016-03.md |
-| RJ2016/1263 | 2016-02-11 | nao-provido | cvm-col-20160211-d0067 | fichas/colegiado/2016-03.md |
-| RJ2016/0810 | 2016-02-11 | nao-provido | cvm-col-20160211-d0066 | fichas/colegiado/2016-03.md |
-| RJ2016/0807 | 2016-02-11 | nao-provido | cvm-col-20160211-d0065 | fichas/colegiado/2016-03.md |
-| RJ2016/0778 | 2016-02-11 | nao-provido | cvm-col-20160211-d0064 | fichas/colegiado/2016-03.md |
-| RJ2016/0777 | 2016-02-11 | nao-provido | cvm-col-20160211-d0063 | fichas/colegiado/2016-03.md |
-| RJ2013/10745 | 2016-02-02 | outro | cvm-col-20160202-d9765 | fichas/colegiado/2016-03.md |
-| RJ2013/0301 | 2016-02-02 | nao-provido | cvm-col-20160202-d8905 | fichas/colegiado/2016-03.md |
-| RJ2015/12954 | 2016-02-02 | nao-provido | cvm-col-20160202-d2016002-d0025 | fichas/colegiado/2016-03.md |
-| 19957.003211/2015-18 | 2016-02-02 | deferido | cvm-col-20160202-d043 | fichas/colegiado/2016-03.md |
-| 19957.000400/2016-10 | 2016-02-02 | nao-provido | cvm-col-20160202-d0042 | fichas/colegiado/2016-03.md |
-| 19957.004141/2015-15 | 2016-02-02 | nao-provido | cvm-col-20160202-d0041 | fichas/colegiado/2016-03.md |
-| 19957.000363/2016-40 | 2016-02-02 | nao-provido | cvm-col-20160202-d0040 | fichas/colegiado/2016-03.md |
-| 19957.004148/2015-37 | 2016-02-02 | nao-provido | cvm-col-20160202-d0039 | fichas/colegiado/2016-03.md |
-| 19957.004147/2015-92 | 2016-02-02 | nao-provido | cvm-col-20160202-d0038 | fichas/colegiado/2016-03.md |
-| 19957.002720/2015-23 | 2016-02-02 | nao-provido | cvm-col-20160202-d0037 | fichas/colegiado/2016-03.md |
-| 19957.000530/2016-52 | 2016-02-02 | nao-provido | cvm-col-20160202-d0036 | fichas/colegiado/2016-02.md |
-| 19957.002964/2015-14 | 2016-02-02 | parcial | cvm-col-20160202-d0035 | fichas/colegiado/2016-02.md |
-| RJ2015/7879 | 2016-02-02 | outro | cvm-col-20160202-d0033 | fichas/colegiado/2016-02.md |
-| RJ2015/9609 | 2016-02-02 | nao-provido | cvm-col-20160202-d0032 | fichas/colegiado/2016-02.md |
-| RJ2015/1263 | 2016-02-02 | nao-provido | cvm-col-20160202-d0031 | fichas/colegiado/2016-02.md |
-| RJ2016/0103 | 2016-02-02 | nao-provido | cvm-col-20160202-d0030 | fichas/colegiado/2016-02.md |
-| RJ2015/13593 | 2016-02-02 | nao-provido | cvm-col-20160202-d0029 | fichas/colegiado/2016-02.md |
-| RJ2015/13494 | 2016-02-02 | nao-provido | cvm-col-20160202-d0028 | fichas/colegiado/2016-02.md |
-| RJ2015/13050 | 2016-02-02 | nao-provido | cvm-col-20160202-d0027 | fichas/colegiado/2016-02.md |
-| RJ2015/13049 | 2016-02-02 | nao-provido | cvm-col-20160202-d0026 | fichas/colegiado/2016-02.md |
-| RJ2015/9137 | 2016-02-02 | deferido | cvm-col-20160202-d0024 | fichas/colegiado/2016-02.md |
-| RJ2015/13042 | 2016-02-02 | nao-provido | cvm-col-20160202-d0020 | fichas/colegiado/2016-02.md |
-| RJ2015/13007 | 2016-02-02 | nao-provido | cvm-col-20160202-d0019 | fichas/colegiado/2016-02.md |
-| RJ2015/12992 | 2016-02-02 | nao-provido | cvm-col-20160202-d0018 | fichas/colegiado/2016-02.md |
-| RJ2015/12961 | 2016-02-02 | nao-provido | cvm-col-20160202-d0017 | fichas/colegiado/2016-02.md |
-| RJ2015/12948 | 2016-02-02 | nao-provido | cvm-col-20160202-d0016 | fichas/colegiado/2016-02.md |
-| RJ2015/12946 | 2016-02-02 | nao-provido | cvm-col-20160202-d0015 | fichas/colegiado/2016-02.md |
-| RJ2015/12145 | 2016-02-02 | nao-provido | cvm-col-20160202-d0014 | fichas/colegiado/2016-02.md |
-| 505/2011; RJ2015/6254 | 2016-01-27 | outro | cvm-col-20160127-d5529 | fichas/colegiado/2016-02.md |
-| — | 2016-01-27 | deferido | cvm-col-20160127-d5474 | fichas/colegiado/2016-02.md |
-| 543/2013; 555/2014; RJ2014/7745 | 2016-01-27 | outro | cvm-col-20160127-d1239 | fichas/colegiado/2016-02.md |
-| 472/2008; RJ2015/13111 | 2016-01-27 | outro | cvm-col-20160127-d084 | fichas/colegiado/2016-02.md |
-| RJ2015/3234 | 2016-01-19 | nao-provido | cvm-col-20160119-d9648 | fichas/colegiado/2016-01.md |
-| RJ2015/13120 | 2016-01-19 | nao-provido | cvm-col-20160119-d0012 | fichas/colegiado/2016-01.md |
-| RJ2015/13072 | 2016-01-19 | nao-provido | cvm-col-20160119-d0011 | fichas/colegiado/2016-01.md |
-| RJ2015/12944 | 2016-01-19 | nao-provido | cvm-col-20160119-d0010 | fichas/colegiado/2016-01.md |
-| RJ2015/12908 | 2016-01-19 | nao-provido | cvm-col-20160119-d0009 | fichas/colegiado/2016-01.md |
-| RJ2015/12855 | 2016-01-19 | nao-provido | cvm-col-20160119-d0008 | fichas/colegiado/2016-01.md |
-| RJ2015/12853 | 2016-01-19 | nao-provido | cvm-col-20160119-d0007 | fichas/colegiado/2016-01.md |
-| RJ2015/12645 | 2016-01-19 | nao-provido | cvm-col-20160119-d0006 | fichas/colegiado/2016-01.md |
-| RJ2015/12293 | 2016-01-19 | nao-provido | cvm-col-20160119-d0005 | fichas/colegiado/2016-01.md |
-| RJ2015/12695 | 2016-01-12 | outro | cvm-col-20160112-d9990 | fichas/colegiado/2016-01.md |
-| 19957.003205/2015-61 | 2016-01-12 | outro | cvm-col-20160112-d5821 | fichas/colegiado/2016-01.md |
-| — | 2016-01-12 | outro | cvm-col-20160112-d4655 | fichas/colegiado/2016-01.md |
-| 19957.000991/2015-44 | 2016-01-12 | provido | cvm-col-20160112-d0004 | fichas/colegiado/2016-01.md |
-| RJ2015/12852 | 2016-01-12 | nao-provido | cvm-col-20160112-d0003 | fichas/colegiado/2016-01.md |
-| RJ2014/3334 | 2016-01-05 | outro | cvm-col-20160105-d9429 | fichas/colegiado/2016-01.md |
-| RJ2015/12957 | 2016-01-05 | nao-provido | cvm-col-20160105-d10008 | fichas/colegiado/2016-01.md |
-| RJ2015/12907 | 2016-01-05 | nao-provido | cvm-col-20160105-d10007 | fichas/colegiado/2016-01.md |
-| RJ2015/12854 | 2016-01-05 | nao-provido | cvm-col-20160105-d10006 | fichas/colegiado/2016-01.md |
-| RJ2015/12672 | 2016-01-05 | nao-provido | cvm-col-20160105-d10005 | fichas/colegiado/2016-01.md |
-| RJ2015/12565 | 2016-01-05 | nao-provido | cvm-col-20160105-d10004 | fichas/colegiado/2016-01.md |
-| RJ2015/12528 | 2016-01-05 | nao-provido | cvm-col-20160105-d10003 | fichas/colegiado/2016-01.md |
+| Processo | Data | Resultado | Ementa | Id | Ficha |
+|---|---|---|---|---|---|
+| 19957.008923/2016-12 | 2016-12-27 | outro | O Colegiado declarou, por unanimidade, a ilegalidade da proposta da administração da Light S.A. de indicar candidato ao conselho de… | cvm-col-20161227-d0476 | fichas/colegiado/2016-25.md |
+| 19957.008923/2016-12 | 2016-12-23 | — | Pedido de acionistas de interrupção do prazo de antecedência de convocação da AGE da Light S.A., com base no art. 124, §5º, da Lei 6.404 e… | cvm-col-20161223-d0476 | fichas/colegiado/2016-25.md |
+| 356/2001; RJ2014/8514; RJ2015/1270 | 2016-12-20 | conhecimento | O Colegiado, acompanhando o voto do diretor após vista, não conheceu do recurso da administradora do Arcturus (direitos creditórios) sobre… | cvm-col-20161220-d9652 | fichas/colegiado/2016-25.md |
+| 02/2016; RJ2016/5003 | 2016-12-20 | outro | O Colegiado aprovou a Deliberação, após a Audiência Pública SNC 02/2016, que aprova o Documento de Revisão de Pronunciamentos Técnicos nº… | cvm-col-20161220-d8946 | fichas/colegiado/2016-25.md |
+| 01/2016; RJ2016/5001 | 2016-12-20 | outro | O Colegiado aprovou a Deliberação, após a Audiência Pública SNC 01/2016, que aprova o Documento de Revisão de Pronunciamentos Técnicos nº… | cvm-col-20161220-d8811 | fichas/colegiado/2016-25.md |
+| 09/2016; RJ2014/13597 | 2016-12-20 | deferido | Por maioria, o Colegiado acolheu pedido da ANBIMA e prorrogou até 16.2.2017 o prazo para comentários à Audiência Pública SDM 09/2016, sobre… | cvm-col-20161220-d8331 | fichas/colegiado/2016-25.md |
+| 03/2016; RJ2016/5005 | 2016-12-20 | outro | O Colegiado aprovou a edição de deliberação, após a Audiência Pública SNC 03/2016, que aprova o Pronunciamento Técnico CPC 47 – Receita de… | cvm-col-20161220-d6664 | fichas/colegiado/2016-25.md |
+| 04/2016; RJ2016/5006 | 2016-12-20 | outro | O Colegiado aprovou a Deliberação, após a Audiência Pública SNC 04/2016, que aprova o Pronunciamento Técnico CPC 48 – Instrumentos… | cvm-col-20161220-d6263 | fichas/colegiado/2016-25.md |
+| RJ1998/4463 | 2016-12-20 | conhecimento | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1998/4463. | cvm-col-20161220-d0508 | fichas/colegiado/2016-25.md |
+| 19957.009293/2016-95 | 2016-12-20 | deferido | O Colegiado acolheu pedido da ANBIMA, com base na manifestação da SIN, e prorrogou, em caráter excepcional, até 31.3.2017 o prazo para… | cvm-col-20161220-d0496 | fichas/colegiado/2016-25.md |
+| 19957.008954/2016-65 | 2016-12-20 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.008954/2016-65. | cvm-col-20161220-d0495 | fichas/colegiado/2016-25.md |
+| 19957.008952/2016-76 | 2016-12-20 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.008952/2016-76. | cvm-col-20161220-d0494 | fichas/colegiado/2016-25.md |
+| 19957.009251/2016-54 | 2016-12-20 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.009251/2016-54. | cvm-col-20161220-d0493 | fichas/colegiado/2016-25.md |
+| 19957.009250/2016-18 | 2016-12-20 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.009250/2016-18. | cvm-col-20161220-d0492 | fichas/colegiado/2016-25.md |
+| 19957.008948/2016-16 | 2016-12-20 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.008948/2016-16. | cvm-col-20161220-d0491 | fichas/colegiado/2016-25.md |
+| 19957.008627/2016-11 | 2016-12-20 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.008627/2016-11. | cvm-col-20161220-d0487 | fichas/colegiado/2016-24.md |
+| 19957.009025/2016-73 | 2016-12-20 | parcial | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.009025/2016-73. | cvm-col-20161220-d0484 | fichas/colegiado/2016-24.md |
+| 19957.009024/2016-29 | 2016-12-20 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.009024/2016-29. | cvm-col-20161220-d0483 | fichas/colegiado/2016-24.md |
+| 19957.008965/2016-45 | 2016-12-20 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.008965/2016-45. | cvm-col-20161220-d0481 | fichas/colegiado/2016-24.md |
+| 19957.008947/2016-63 | 2016-12-20 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.008947/2016-63. | cvm-col-20161220-d0478 | fichas/colegiado/2016-24.md |
+| 19957.008962/2016-10 | 2016-12-20 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.008962/2016-10. | cvm-col-20161220-d0467 | fichas/colegiado/2016-24.md |
+| RJ2011/4464 | 2016-12-20 | provido | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2011/4464. | cvm-col-20161220-d0461 | fichas/colegiado/2016-24.md |
+| 19957.008848/2016-81 | 2016-12-20 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.008848/2016-81. | cvm-col-20161220-d0460 | fichas/colegiado/2016-24.md |
+| 19957.006225/2016-74; 19957.006232/2016-76 | 2016-12-20 | provido | Recursos contra decisões da SIN em processos de multa cominatória. Proc. s. SEI 19957.006225/2016-74 e 19957.006232/2016-76. | cvm-col-20161220-d0437 | fichas/colegiado/2016-24.md |
+| — | 2016-12-14 | — | Os superintendentes da SDM e da SNC apresentaram ao Colegiado os relatórios de atividades de 2016, destacando o cumprimento das metas de… | cvm-col-20161214-d7067 | fichas/colegiado/2016-24.md |
+| RJ2009/4053 | 2016-12-13 | parcial | O Colegiado rejeitou o pedido de reconsideração da Mendes Júnior Engenharia S.A. contra decisão de 27.09.2016 que negou provimento a… | cvm-col-20161213-d9416 | fichas/colegiado/2016-24.md |
+| 390/2001; 19957.009074/2016-14 | 2016-12-13 | outro | O Colegiado aprovou a proposta da SGE de alterações pontuais na Deliberação CVM 390/2001, sobre a celebração de Termo de Compromisso, para… | cvm-col-20161213-d3261 | fichas/colegiado/2016-24.md |
+| 19957.008923/2016-12 | 2016-12-13 | deferido | O Colegiado deferiu, por unanimidade, pedido de interrupção, por 15 dias, do prazo de antecedência de convocação da AGE da Light S.A. (art… | cvm-col-20161213-d0476 | fichas/colegiado/2016-24.md |
+| 19957.008062/2016-64 | 2016-12-13 | nao-provido | O Colegiado, por unanimidade, negou provimento ao recurso da BRF S.A. contra decisão da SEP e da SNC, em consulta, que negou a extensão do… | cvm-col-20161213-d0464 | fichas/colegiado/2016-24.md |
+| 19957.008975/2016-81 | 2016-12-13 | outro | Minuta de portaria – plano de dados abertos. Proc. SEI 19957.008975/2016-81. | cvm-col-20161213-d0462 | fichas/colegiado/2016-24.md |
+| 358/2002; 19957.006290/2016-08 | 2016-12-13 | nao-provido | O Colegiado negou provimento, por unanimidade, a recurso contra entendimento da SEP em consulta, mantendo a aplicação da Instrução CVM… | cvm-col-20161213-d0378 | fichas/colegiado/2016-24.md |
+| 19957.002961/2015-72 | 2016-12-13 | nao-provido | Recurso do controlador contra exigência da SRE em OPA para cancelamento de registro da Manufatura de Brinquedos Estrela S.A. Após pedido de… | cvm-col-20161213-d0194 | fichas/colegiado/2016-24.md |
+| RJ2014/11715; 19957.001098/2016-17 | 2016-12-13 | provido | O Colegiado, por maioria, deu provimento aos recursos da Via Varejo e da CBD contra determinação da SEP de refazimento e republicação de… | cvm-col-20161213-d0158 | fichas/colegiado/2016-24.md |
+| 19957.005979/2016-15 | 2016-12-06 | outro | O Colegiado aprovou a edição de Deliberação, conforme minuta da SIN, alertando o mercado sobre a atuação irregular de Chrysostomo da Silva… | cvm-col-20161206-d0457 | fichas/colegiado/2016-24.md |
+| 19957.008615/2016-89 | 2016-12-06 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.008615/2016-89. | cvm-col-20161206-d0452 | fichas/colegiado/2016-24.md |
+| 19957.008781/2016-85 | 2016-12-06 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.008781/2016-85. | cvm-col-20161206-d0451 | fichas/colegiado/2016-24.md |
+| 19957.008780/2016-31 | 2016-12-06 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.008780/2016-31. | cvm-col-20161206-d0450 | fichas/colegiado/2016-23.md |
+| RJ2015/6124 | 2016-12-06 | outro | O Colegiado determinou o arquivamento do processo de cumprimento de Termo de Compromisso, com base na manifestação da SAD de que os… | cvm-col-20161206-d0216 | fichas/colegiado/2016-23.md |
+| 04/2015; RJ2012/3268 | 2016-12-06 | outro | O Colegiado aprovou a edição de nova Instrução, após a Audiência Pública SDM 04/2015, que atualiza a regulamentação do exercício da função… | cvm-col-20161206-d0093 | fichas/colegiado/2016-23.md |
+| — | 2016-11-30 | outro | O Colegiado aprovou a versão final do Plano Bienal 2017/2018 do Sistema de Supervisão Baseada em Risco, autorizando sua divulgação externa… | cvm-col-20161130-d5347 | fichas/colegiado/2016-23.md |
+| 04/2015; RJ2012/3268 | 2016-11-30 | — | O Colegiado iniciou a discussão de minuta de Instrução sobre o exercício da função de agente fiduciário nas distribuições públicas de… | cvm-col-20161130-d0093 | fichas/colegiado/2016-23.md |
+| 19957.006225/2016-74; 19957.006232/2016-76 | 2016-11-29 | — | Recursos contra decisões da SIN em processos de multa cominatória. Proc. s. SEI 19957.006225/2016-74 e 19957.006232/2016-76. | cvm-col-20161129-d0437 | fichas/colegiado/2016-23.md |
+| RJ2016/2365 | 2016-11-29 | nao-provido | O Colegiado, por unanimidade, acompanhando a área técnica, indeferiu recurso da Claritas Administração de Recursos contra decisão da SIN… | cvm-col-20161129-d0329 | fichas/colegiado/2016-23.md |
+| RJ2006/5754 | 2016-11-23 | outro | O Colegiado aprovou para audiência pública três minutas sobre consultoria de valores mobiliários: nova instrução com a primeira… | cvm-col-20161123-d0802 | fichas/colegiado/2016-23.md |
+| 19957.008350/2016-19 | 2016-11-23 | indeferido | O Colegiado indeferiu, por unanimidade, o pedido de acionista da Prumo Logística S.A. para aumentar em 30 dias o prazo de convocação da AGE… | cvm-col-20161123-d0439 | fichas/colegiado/2016-23.md |
+| RJ2012/11002 | 2016-11-22 | indeferido | O Colegiado indeferiu pedido de desentranhamento de documentos dos autos do PAS, já desconsiderados na análise de mérito por decisão… | cvm-col-20161122-d8703rp | fichas/colegiado/2016-23.md |
+| RJ2012/11002 | 2016-11-22 | indeferido | O Colegiado, por unanimidade, indeferiu todos os pedidos de um requerente no PAS RJ2012/11002: prova pericial e testemunhal, juntada de… | cvm-col-20161122-d8703m | fichas/colegiado/2016-23.md |
+| RJ2012/0373 | 2016-11-22 | outro | O Colegiado declarou a perda do objeto do recurso de Banco Fator S.A. e Gaia Securitizadora S.A. contra o indeferimento do registro… | cvm-col-20161122-d8089 | fichas/colegiado/2016-23.md |
+| RJ2016/7671 | 2016-11-22 | — | Analistas da Gerência de Normas Contábeis relataram ao Colegiado, para conhecimento, os principais pontos das reuniões dos subcomitês de… | cvm-col-20161122-d0436 | fichas/colegiado/2016-23.md |
+| 356/2001; 19957.007539/2016-94 | 2016-11-22 | deferido | O Colegiado, acompanhando a SIN, deferiu pedidos de dispensa da Instrução CVM 356/2001 para registro de fundo de direitos creditórios com… | cvm-col-20161122-d0435 | fichas/colegiado/2016-23.md |
+| 19957.008306/2016-17 | 2016-11-22 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.008306/2016-17. | cvm-col-20161122-d0431 | fichas/colegiado/2016-23.md |
+| 19957.008168/2016-68 | 2016-11-22 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.008168/2016-68. | cvm-col-20161122-d0430 | fichas/colegiado/2016-23.md |
+| 19957.008165/2016-24 | 2016-11-22 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.008165/2016-24. | cvm-col-20161122-d0429 | fichas/colegiado/2016-23.md |
+| RJ2016/8071 | 2016-11-22 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2016/8071. | cvm-col-20161122-d0425 | fichas/colegiado/2016-23.md |
+| RJ2016/7898 | 2016-11-22 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2016/7898. | cvm-col-20161122-d0424 | fichas/colegiado/2016-23.md |
+| RJ2016/7839 | 2016-11-22 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2016/7839. | cvm-col-20161122-d0423 | fichas/colegiado/2016-22.md |
+| RJ2016/7836 | 2016-11-22 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2016/7836. | cvm-col-20161122-d0422 | fichas/colegiado/2016-22.md |
+| RJ2016/7803 | 2016-11-22 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2016/7803. | cvm-col-20161122-d0421 | fichas/colegiado/2016-22.md |
+| 19957.001919/2015-34 | 2016-11-22 | outro | O Colegiado aprovou a Portaria que institui o Programa de Recompensas para Servidores e o Pacote de Benefícios para Gestores da CVM, com a… | cvm-col-20161122-d0417 | fichas/colegiado/2016-22.md |
+| 19957.006645/2016-51 | 2016-11-22 | nao-provido | O Colegiado negou provimento ao recurso da B&Z Global Strategies contra o cancelamento de seu credenciamento como administradora de… | cvm-col-20161122-d0412 | fichas/colegiado/2016-22.md |
+| 558/2015; 19957.002943/2016-71 | 2016-11-22 | — | Consulta da ABRAPP sobre a Instrução CVM 558/2015 em fundos exclusivos de entidades fechadas de previdência complementar. Um diretor votou… | cvm-col-20161122-d0222 | fichas/colegiado/2016-22.md |
+| — | 2016-11-21 | outro | Sistema de supervisão baseado em risco do mercado de valores mobiliários. | cvm-col-20161121-d5347 | fichas/colegiado/2016-22.md |
+| RJ2006/5754 | 2016-11-16 | — | O Colegiado iniciou a discussão das minutas de normas sobre a atividade de consultoria de valores mobiliários, sem deliberação nesta… | cvm-col-20161116-d0802 | fichas/colegiado/2016-22.md |
+| 480/2009; RJ2010/7374 | 2016-11-09 | outro | O Colegiado aprovou para audiência pública, até 06.02.2017, minuta de Instrução que altera a Instrução CVM 480/2009 (registro de… | cvm-col-20161109-d3185 | fichas/colegiado/2016-22.md |
+| 03/2016; 543/2013; 555/2014; RJ2014/7745 | 2016-11-08 | outro | O Colegiado aprovou instrução, após a Audiência Pública SDM 03/2016, que altera as Instruções CVM 543/2013 e 555/2014. Na 543, exige… | cvm-col-20161108-d1239 | fichas/colegiado/2016-22.md |
+| RJ2016/7838 | 2016-11-08 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2016/7838. | cvm-col-20161108-d0420 | fichas/colegiado/2016-22.md |
+| RJ2016/7756 | 2016-11-08 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2016/7756. | cvm-col-20161108-d0419 | fichas/colegiado/2016-22.md |
+| 19957.001919/2015-34 | 2016-11-08 | outro | O Colegiado aprovou a edição de duas Portarias, nos termos das minutas, que instituem o Programa de Recompensas para servidores e gestores… | cvm-col-20161108-d0417 | fichas/colegiado/2016-22.md |
+| 558/2015; 19957.002943/2016-71 | 2016-11-08 | — | Consulta da ABRAPP sobre a aplicação da Instrução CVM 558/2015 a fundos exclusivos de entidades fechadas de previdência complementar, com… | cvm-col-20161108-d0222 | fichas/colegiado/2016-22.md |
+| 19957.002961/2015-72 | 2016-11-08 | — | Recurso do controlador da Manufatura de Brinquedos Estrela S.A. contra decisão da SRE no pedido de OPA para cancelamento do registro da… | cvm-col-20161108-d0194 | fichas/colegiado/2016-22.md |
+| RJ2016/1261 | 2016-11-08 | outro | O Colegiado determinou o arquivamento do processo em relação ao compromitente Discovery Capital Management LLC, após a SAD atestar que o… | cvm-col-20161108-d0078 | fichas/colegiado/2016-22.md |
+| — | 2016-11-07 | outro | Sistema de supervisão baseado em risco do mercado de valores mobiliários. | cvm-col-20161107-d5347 | fichas/colegiado/2016-22.md |
+| — | 2016-11-04 | — | Foi dada continuidade à apresentação da versão final do Plano Bienal 2017-2018 do Sistema de Supervisão Baseada em Risco, sem deliberação… | cvm-col-20161104-d5347 | fichas/colegiado/2016-22.md |
+| 480/2009; RJ2010/7374 | 2016-11-03 | — | O Colegiado continuou a discussão de proposta de alteração da Instrução CVM 480/2009, sobre registro de emissores admitidos à negociação em… | cvm-col-20161103-d3185 | fichas/colegiado/2016-22.md |
+| 19957.007501/2016-11 | 2016-11-01 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.007501/2016-11. | cvm-col-20161101-d0414 | fichas/colegiado/2016-22.md |
+| 19957.006030/2016-24 | 2016-11-01 | provido | O Colegiado, por unanimidade, deu provimento a recurso do Valor Econômico contra entendimento da SEP: a publicação adicional e resumida de… | cvm-col-20161101-d0368 | fichas/colegiado/2016-21.md |
+| 19957.005730/2016-00 | 2016-11-01 | nao-provido | O Colegiado negou provimento a recurso contra exigência da SRE de adequar oferta de CICs em Jacareí à Deliberação CVM 734/2015, que… | cvm-col-20161101-d0350 | fichas/colegiado/2016-21.md |
+| RJ2015/1483 | 2016-11-01 | outro | O Colegiado determinou o arquivamento do PAS RJ2015/1483, após a SAD atestar que os pagamentos do Termo de Compromisso aprovado em… | cvm-col-20161101-d0182 | fichas/colegiado/2016-21.md |
+| RJ2015/3247 | 2016-11-01 | outro | O Colegiado determinou o arquivamento do PAS RJ2015/3247 após a SAD atestar o cumprimento do Termo de Compromisso aprovado em 19.04.2016… | cvm-col-20161101-d0179 | fichas/colegiado/2016-21.md |
+| — | 2016-10-31 | — | Na reunião do Colegiado, o Comitê de Gestão de Riscos iniciou a apresentação da versão final do Plano Bienal 2017-2018 da Supervisão… | cvm-col-20161031-d5347 | fichas/colegiado/2016-21.md |
+| 480/2009; RJ2010/7374 | 2016-10-26 | — | O Colegiado continuou a discussão da proposta de alteração da Instrução CVM 480/2009, sobre registro de emissores de valores mobiliários… | cvm-col-20161026-d3185 | fichas/colegiado/2016-21.md |
+| RJ2013/11703 | 2016-10-25 | — | Apreciação de proposta de nova definição jurídica dos fatos (art. 25 da Deliberação CVM 538/2008) na acusação da SEP no PAS RJ2013/11703… | cvm-col-20161025-d9211 | fichas/colegiado/2016-21.md |
+| 19957.006645/2016-51 | 2016-10-25 | — | Recurso da B&Z Global Strategies Gestão de Investimentos Ltda. contra decisão da SIN que cancelou o credenciamento como administrador de… | cvm-col-20161025-d0412 | fichas/colegiado/2016-21.md |
+| 19957.001652/2016-66 | 2016-10-25 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.001652/2016-66. | cvm-col-20161025-d0411 | fichas/colegiado/2016-21.md |
+| 19957.001207/2016-04 | 2016-10-25 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.001207/2016-04. | cvm-col-20161025-d0410 | fichas/colegiado/2016-21.md |
+| 19957.005411/2016-96 | 2016-10-25 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.005411/2016-96. | cvm-col-20161025-d0408 | fichas/colegiado/2016-21.md |
+| 19957.007498/2016-36 | 2016-10-25 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.007498/2016-36. | cvm-col-20161025-d0406 | fichas/colegiado/2016-21.md |
+| 19957.006677/2016-56 | 2016-10-25 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.006677/2016-56. | cvm-col-20161025-d0405 | fichas/colegiado/2016-21.md |
+| 19957.006543/2016-35 | 2016-10-25 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.006543/2016-35. | cvm-col-20161025-d0404 | fichas/colegiado/2016-21.md |
+| 19957.006522/2016-10 | 2016-10-25 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.006522/2016-10. | cvm-col-20161025-d0403 | fichas/colegiado/2016-21.md |
+| 19957.007767/2016-64 | 2016-10-25 | outro | O Colegiado aprovou Deliberação que delega ao titular da SRE a competência para apreciar pedidos de procedimento diferenciado em OPA (art… | cvm-col-20161025-d0388 | fichas/colegiado/2016-21.md |
+| — | 2016-10-25 | outro | O Colegiado aprovou a minuta de Deliberação, apresentada pela CGP, ASA e SPL, que institui o Sistema Integrado de Gestão de Riscos da CVM… | cvm-col-20161025-d0303 | fichas/colegiado/2016-21.md |
+| RJ2015/3440 | 2016-10-25 | outro | O Colegiado determinou o arquivamento do PAS RJ2015/3440 após a SAD atestar o cumprimento do Termo de Compromisso aprovado em 03.05.2016… | cvm-col-20161025-d0190 | fichas/colegiado/2016-21.md |
+| 19957.001434/2016-21 | 2016-10-25 | nao-provido | O Colegiado, por unanimidade, indeferiu pedido de reconsideração de condição da dispensa de registro de oferta de contratos de investimento… | cvm-col-20161025-d0155 | fichas/colegiado/2016-21.md |
+| RJ2013/0267 | 2016-10-20 | conhecimento | Pedido de reconsideração de decisão do colegiado. Proc. RJ2013/0267. | cvm-col-20161020-d8723 | fichas/colegiado/2016-21.md |
+| RJ2012/11002 | 2016-10-20 | indeferido | O Colegiado indeferiu, por unanimidade, o pedido de nulidade da oitiva do requerente no PAS RJ2012/11002, acompanhando o voto do relator… | cvm-col-20161020-d8703 | fichas/colegiado/2016-21.md |
+| 19957.006586/2016-11 | 2016-10-20 | nao-provido | O Colegiado negou provimento ao recurso de administradora de carteiras contra cancelamento de credenciamento por não adaptação à Instrução… | cvm-col-20161020-d0401 | fichas/colegiado/2016-20.md |
+| 19957.006588/2016-18 | 2016-10-20 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.006588/2016-18. | cvm-col-20161020-d0400 | fichas/colegiado/2016-20.md |
+| 19957.006534/2016-44 | 2016-10-20 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.006534/2016-44. | cvm-col-20161020-d0399 | fichas/colegiado/2016-20.md |
+| 19957.006524/2016-17 | 2016-10-20 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.006524/2016-17. | cvm-col-20161020-d0398 | fichas/colegiado/2016-20.md |
+| 19957.005752/2016-61 | 2016-10-20 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.005752/2016-61. | cvm-col-20161020-d0397 | fichas/colegiado/2016-20.md |
+| 19957.005750/2016-72 | 2016-10-20 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.005750/2016-72. | cvm-col-20161020-d0396 | fichas/colegiado/2016-20.md |
+| 19957.005361/2016-47 | 2016-10-20 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.005361/2016-47. | cvm-col-20161020-d0395 | fichas/colegiado/2016-20.md |
+| 19957.003737/2015-06 | 2016-10-20 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.003737/2015-06. | cvm-col-20161020-d0394 | fichas/colegiado/2016-20.md |
+| RJ2015/3974 | 2016-10-20 | outro | O Colegiado determinou o arquivamento do PAS RJ2015/3974, após a SAD atestar que o pagamento previsto no termo de compromisso, aprovado em… | cvm-col-20161020-d0276 | fichas/colegiado/2016-20.md |
+| RJ2014/13902 | 2016-10-20 | outro | O Colegiado determinou o arquivamento do PAS RJ2014/13902 em relação à Bancoob Distribuidora de Títulos e Valores Mobiliários Ltda… | cvm-col-20161020-d0184 | fichas/colegiado/2016-20.md |
+| 480/2009; RJ2010/7374 | 2016-10-19 | — | O Colegiado iniciou a discussão da proposta de alteração da Instrução CVM 480/2009, sobre registro de emissores de valores mobiliários… | cvm-col-20161019-d3185 | fichas/colegiado/2016-20.md |
+| 06/2016; RJ2013/11877 | 2016-10-11 | deferido | O Colegiado deferiu pedido da EQUITY – Associação Brasileira de Equity Crowdfunding e prorrogou até 06.12.2016 o prazo para comentários à… | cvm-col-20161011-d9637 | fichas/colegiado/2016-20.md |
+| RJ2013/10128 | 2016-10-11 | conhecimento | O Colegiado, por unanimidade, não conheceu de recurso de um acionista contra a SEP, que não adotou diligências adicionais sobre a eleição… | cvm-col-20161011-d9324 | fichas/colegiado/2016-20.md |
+| — | 2016-10-11 | outro | O Colegiado aprovou as propostas de eventos e temáticas de risco apresentadas pelas Superintendências para o Plano Bienal de Supervisão… | cvm-col-20161011-d5347 | fichas/colegiado/2016-20.md |
+| 19957.002814/2016-83 | 2016-10-11 | outro | O Colegiado declarou a perda do objeto do recurso da BM&FBOVESPA contra decisão da SMI sobre a prestação de serviços pela central… | cvm-col-20161011-d0389 | fichas/colegiado/2016-20.md |
+| — | 2016-10-11 | — | O Colegiado ouviu a SRE sobre casos dos últimos cinco anos de procedimento diferenciado e de OPA única para mais de uma finalidade… | cvm-col-20161011-d0388 | fichas/colegiado/2016-20.md |
+| 19957.004657/2016-41 | 2016-10-11 | deferido | O Colegiado aprovou o plano de cancelamento do Programa de BDR Nível II da TGLT S.A., nos termos do pedido. Acompanhando a SRE, que… | cvm-col-20161011-d0387 | fichas/colegiado/2016-20.md |
+| 19957.006531/2016-19 | 2016-10-11 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.006531/2016-19. | cvm-col-20161011-d0386 | fichas/colegiado/2016-20.md |
+| 19957.000852/2016-00 | 2016-10-11 | parcial | O Colegiado, acompanhando a SRE, deferiu procedimento diferenciado para OPA de cancelamento de registro da Wembley S.A. (art. 34 da… | cvm-col-20161011-d0385 | fichas/colegiado/2016-20.md |
+| 19957.004523/2016-20 | 2016-10-11 | deferido | O Colegiado autorizou, por unanimidade, as alterações estatutárias da BM&FBOVESPA aprovadas em AGE de 20.05.2016, nos termos do art. 117… | cvm-col-20161011-d0293 | fichas/colegiado/2016-20.md |
+| 301/1999; RJ2014/13597 | 2016-10-05 | outro | O Colegiado aprovou para audiência pública, até 16.01.2017, proposta de nova instrução sobre prevenção à lavagem de dinheiro e ao… | cvm-col-20161005-d8331 | fichas/colegiado/2016-20.md |
+| — | 2016-10-05 | — | Na reunião do Colegiado, o Comitê de Gestão de Riscos e as superintendências envolvidas deram continuidade à apresentação do relatório… | cvm-col-20161005-d5347 | fichas/colegiado/2016-20.md |
+| 19957.006353/2016-18 | 2016-10-04 | outro | O Colegiado aprovou, acompanhando a SMI, alterações ao Manual do Emissor da BM&FBOVESPA S.A. sobre BDR Nível I não patrocinado, com… | cvm-col-20161004-d8716 | fichas/colegiado/2016-19.md |
+| 301/1999; RJ2014/13597 | 2016-10-04 | — | O Colegiado continuou a discussão da proposta de nova Instrução sobre prevenção à lavagem de dinheiro e ao financiamento do terrorismo no… | cvm-col-20161004-d8331 | fichas/colegiado/2016-19.md |
+| 19957.006361/2016-64 | 2016-10-04 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.006361/2016-64. | cvm-col-20161004-d0382 | fichas/colegiado/2016-19.md |
+| 19957.006603/2016-10 | 2016-10-04 | nao-provido | O Colegiado negou provimento ao recurso contra decisão da SIN que cancelou o credenciamento de administrador de carteiras por descumprir o… | cvm-col-20161004-d0381 | fichas/colegiado/2016-19.md |
+| 19957.006318/2016-07 | 2016-10-04 | nao-provido | O Colegiado, por unanimidade, indeferiu recurso contra a SIN que cancelou o credenciamento de administrador de carteiras por falta de… | cvm-col-20161004-d0380 | fichas/colegiado/2016-19.md |
+| 19957.006276/2016-04 | 2016-10-04 | nao-provido | O Colegiado negou provimento ao recurso da Solidez contra o cancelamento de seu registro como administradora de carteiras, por não ter… | cvm-col-20161004-d0379 | fichas/colegiado/2016-19.md |
+| RJ2013/9599 | 2016-10-04 | nao-provido | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2013/9599. | cvm-col-20161004-d0375 | fichas/colegiado/2016-19.md |
+| 19957.006251/2016-01 | 2016-10-04 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.006251/2016-01. | cvm-col-20161004-d0374 | fichas/colegiado/2016-19.md |
+| 19957.004954/2016-96 | 2016-10-04 | provido | O Colegiado deferiu recurso contra a SIN e autorizou a transferência, fora do mercado organizado, de ações de companhia aberta por doação a… | cvm-col-20161004-d0372 | fichas/colegiado/2016-19.md |
+| 19957.006195/2016-04 | 2016-10-04 | nao-provido | O Colegiado negou provimento a recurso da Accrex Gestão de Recursos Ltda. contra decisão da SIN que cancelou seu registro como… | cvm-col-20161004-d0370 | fichas/colegiado/2016-19.md |
+| 19957.006066/2016-16 | 2016-10-04 | nao-provido | O Colegiado negou provimento a recurso da Broadspan Gestão de Recursos Ltda. contra cancelamento de credenciamento como administrador de… | cvm-col-20161004-d0369 | fichas/colegiado/2016-19.md |
+| 19957.004457/2016-98 | 2016-10-04 | outro | Por unanimidade, o Colegiado, acompanhando SMI e SIN, autorizou a constituição de fundos de investimento exclusivos para viabilizar a… | cvm-col-20161004-d0330 | fichas/colegiado/2016-19.md |
+| 558/2015; 19957.002943/2016-71 | 2016-10-04 | — | Consulta da ABRAPP sobre a aplicação da Instrução CVM 558/2015 a fundos exclusivos geridos por entidades fechadas de previdência… | cvm-col-20161004-d0222 | fichas/colegiado/2016-19.md |
+| — | 2016-09-30 | — | Foi dada continuidade à apresentação, pelo Comitê de Gestão de Riscos e pelas superintendências, do relatório semestral (jan.–jun./2016) do… | cvm-col-20160930-d5347 | fichas/colegiado/2016-19.md |
+| RJ2015/2080 | 2016-09-28 | outro | O Colegiado aprovou minuta de Instrução sobre oferta pública de distribuição de contratos de investimento coletivo (CIC) hoteleiro, que… | cvm-col-20160928-d9602 | fichas/colegiado/2016-19.md |
+| RJ2014/10049 | 2016-09-28 | outro | O Colegiado aprovou para audiência pública, até 21.11.2016, minuta de Instrução que altera as ICVM 332/2000, 476/2009, 480/2009 e 494/2011… | cvm-col-20160928-d5058 | fichas/colegiado/2016-19.md |
+| RJ2014/14760 | 2016-09-27 | outro | O Colegiado determinou o arquivamento do processo de cumprimento do Termo de Compromisso celebrado por Loudon Blomquist Auditores… | cvm-col-20160927-d9963 | fichas/colegiado/2016-19.md |
+| 19957.001096/2015-47 | 2016-09-27 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.001096/2015-47. | cvm-col-20160927-d9874 | fichas/colegiado/2016-19.md |
+| RJ2013/8697 | 2016-09-27 | indeferido | O Colegiado indeferiu pedido de novo prazo de dez dias para pagamento de obrigação de Termo de Compromisso no PAS RJ2013/8697, apresentado… | cvm-col-20160927-d9574 | fichas/colegiado/2016-19.md |
+| RJ2009/4053 | 2016-09-27 | nao-provido | O Colegiado negou provimento a recurso da Mendes Júnior Engenharia S.A. contra determinação da SEP de republicar demonstrações de 2013 e… | cvm-col-20160927-d9416 | fichas/colegiado/2016-19.md |
+| RJ2014/3511 | 2016-09-27 | nao-provido | O Colegiado negou provimento a recurso da HRT Participações em Petróleo S.A. contra a SEP, mantendo seu entendimento de que a AGE que… | cvm-col-20160927-d9091 | fichas/colegiado/2016-18.md |
+| 19957.006102/2016-33 | 2016-09-27 | outro | O Colegiado aprovou a edição de Deliberação, em minuta apresentada pela SIN, alertando o mercado sobre atuação irregular, sem autorização… | cvm-col-20160927-d0371 | fichas/colegiado/2016-18.md |
+| 19957.001449/2016-90; RJ2016/4013 | 2016-09-27 | outro | O Colegiado declarou extinta a punibilidade do único acusado no PAS RJ2016/4013 (SEP; cômputo de votos em reunião do Conselho de… | cvm-col-20160927-d0270 | fichas/colegiado/2016-18.md |
+| RJ2015/2080 | 2016-09-21 | — | O Colegiado iniciou a discussão de minuta de Instrução sobre oferta pública de distribuição de contratos de investimento coletivo… | cvm-col-20160921-d9602 | fichas/colegiado/2016-18.md |
+| — | 2016-09-21 | — | Na reunião do Colegiado, o Comitê de Gestão de Riscos e as superintendências envolvidas iniciaram a apresentação do relatório semestral da… | cvm-col-20160921-d5347 | fichas/colegiado/2016-18.md |
+| — | 2016-09-20 | — | A SMI relatou ao Colegiado novas interações com o Financial Stability Board após as respostas ao questionário do Peer Review sobre trading… | cvm-col-20160920-d9783 | fichas/colegiado/2016-18.md |
+| 19957.002252/2016-78 | 2016-09-20 | parcial | O Colegiado indeferiu, em OPA para cancelamento de registro da Tec Toy S.A., o procedimento diferenciado (inversão de quórum e base de… | cvm-col-20160920-d0367 | fichas/colegiado/2016-18.md |
+| 19957.005873/2016-11 | 2016-09-20 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.005873/2016-11. | cvm-col-20160920-d0365 | fichas/colegiado/2016-18.md |
+| 19957.005098/2016-96 | 2016-09-20 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.005098/2016-96. | cvm-col-20160920-d0364 | fichas/colegiado/2016-18.md |
+| — | 2016-09-20 | — | Relato, para conhecimento do Colegiado, dos principais temas do 2º Seminário Brasil 100% Digital sobre análise de dados na administração… | cvm-col-20160920-d0362 | fichas/colegiado/2016-18.md |
+| 19957.004508/2016-81 | 2016-09-20 | nao-provido | O Colegiado, por unanimidade, indeferiu de plano recurso contra o indeferimento de credenciamento como administrador de carteiras, sem… | cvm-col-20160920-d0355 | fichas/colegiado/2016-18.md |
+| 19957.003264/2016-10 | 2016-09-20 | nao-provido | O Colegiado negou provimento, por unanimidade, a recurso contra indeferimento de credenciamento de pessoa natural como administrador de… | cvm-col-20160920-d0354 | fichas/colegiado/2016-18.md |
+| 19957.005662/2016-71 | 2016-09-20 | nao-provido | O Colegiado indeferiu recurso contra o cancelamento do credenciamento de administrador de carteiras, por não envio, até 30.06.2016, dos… | cvm-col-20160920-d0352 | fichas/colegiado/2016-18.md |
+| 19957.002194/2016-82 | 2016-09-20 | nao-provido | Pedido de reconsideração de decisão do colegiado. Proc. SEI 19957.002194/2016-82. | cvm-col-20160920-d0177 | fichas/colegiado/2016-18.md |
+| 19957.002142/2016-14 | 2016-09-20 | nao-provido | Pedido de reconsideração de decisão do colegiado. Proc. SEI 19957.002142/2016-14. | cvm-col-20160920-d0172 | fichas/colegiado/2016-18.md |
+| 301/1999; RJ2014/13597 | 2016-09-14 | — | O Colegiado iniciou a discussão de nova Instrução sobre prevenção à lavagem de dinheiro e ao financiamento do terrorismo, em substituição à… | cvm-col-20160914-d8331 | fichas/colegiado/2016-18.md |
+| RJ2014/5297 | 2016-09-13 | nao-provido | O Colegiado negou provimento a recurso da Tempo Capital Principal Fundo de Investimento de Ações contra arquivamento pela SRE de reclamação… | cvm-col-20160913-d9179 | fichas/colegiado/2016-18.md |
+| RJ2014/4181 | 2016-09-13 | nao-provido | O Colegiado, por unanimidade, indeferiu recurso da WLM Indústria e Comércio contra a SEP, que considerou obrigatória a divulgação da… | cvm-col-20160913-d9168 | fichas/colegiado/2016-18.md |
+| 358/2002; RJ2013/5398 | 2016-09-13 | nao-provido | O Colegiado indeferiu, por maioria, recurso contra a SEP e manteve seu entendimento: a comunicação de participação acionária do art. 12 da… | cvm-col-20160913-d8952 | fichas/colegiado/2016-18.md |
+| RJ2012/11002 | 2016-09-13 | conhecimento | O Colegiado não admitiu recurso ao CRSFN contra decisão que determinou desconsiderar, na análise de mérito do PAS RJ2012/11002, documentos… | cvm-col-20160913-d8703 | fichas/colegiado/2016-18.md |
+| 02/2016; 505/2011; RJ2015/6254 | 2016-09-13 | outro | O Colegiado aprovou a edição de instrução que altera a Instrução CVM 505/2011, após a Audiência Pública SDM 02/2016. Inclui inciso no § 1º… | cvm-col-20160913-d5529 | fichas/colegiado/2016-17.md |
+| — | 2016-09-13 | — | Peer review de fundos de investimento. | cvm-col-20160913-d0363 | fichas/colegiado/2016-17.md |
+| 19957.005875/2016-01 | 2016-09-13 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.005875/2016-01. | cvm-col-20160913-d0358 | fichas/colegiado/2016-17.md |
+| 19957.005874/2016-58 | 2016-09-13 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.005874/2016-58. | cvm-col-20160913-d0357 | fichas/colegiado/2016-17.md |
+| 19957.006047/2016-81 | 2016-09-13 | nao-provido | O Colegiado negou provimento a recurso da Palomar – Gestora de Recursos Financeiros Ltda. contra decisão da SIN que cancelou seu registro… | cvm-col-20160913-d0353 | fichas/colegiado/2016-17.md |
+| 565/2015; 19957.004718/2016-70 | 2016-09-13 | outro | O Colegiado, acompanhando a SEP, decidiu não exigir informações financeiras pro forma (art. 7º da Instrução 565) na incorporação da BRPR 53… | cvm-col-20160913-d0351 | fichas/colegiado/2016-17.md |
+| 19957.004933/2016-71 | 2016-09-13 | provido | O Colegiado deu provimento, por unanimidade, a recurso contra indeferimento pela SRE de dispensa automática de registro (art. 5º, III, da… | cvm-col-20160913-d0327 | fichas/colegiado/2016-17.md |
+| RJ2015/6124 | 2016-09-13 | deferido | Por maioria, o Colegiado deferiu a prorrogação do prazo de pagamento de termos de compromisso de quatro compromitentes até o primeiro dia… | cvm-col-20160913-d0216 | fichas/colegiado/2016-17.md |
+| RJ2014/12954 | 2016-09-06 | nao-provido | O Colegiado negou provimento a recurso da RJCP Equity S.A. contra entendimento da SEP de que o parecer do Conselho Fiscal é obrigatório em… | cvm-col-20160906-d9442 | fichas/colegiado/2016-17.md |
+| 19957.005974/2016-84 | 2016-09-06 | outro | O Colegiado reiterou a decisão de 05.09.2016 que declarou perdido o objeto do pedido da Bratel B.V. de interrupção, ou subsidiariamente… | cvm-col-20160906-d0356 | fichas/colegiado/2016-17.md |
+| 19957.000990/2016-81 | 2016-09-06 | deferido | O Colegiado deferiu pedido da ofertante, acionista controladora do Banco Sofisa S.A., de unificação de OPAs por aumento de participação… | cvm-col-20160906-d0345 | fichas/colegiado/2016-17.md |
+| 19957.004818/2016-04 | 2016-09-06 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.004818/2016-04. | cvm-col-20160906-d0328 | fichas/colegiado/2016-17.md |
+| 19957.004284/2016-16 | 2016-09-06 | parcial | O Colegiado acolheu, por unanimidade, o pleito da ANFIDC para afastar a exigência de trânsito em julgado da homologação do plano do… | cvm-col-20160906-d0301 | fichas/colegiado/2016-17.md |
+| RJ2016/4406 | 2016-09-06 | nao-provido | Pedido de reconsideração de decisão do colegiado. Proc. RJ2016/4406. | cvm-col-20160906-d0185 | fichas/colegiado/2016-17.md |
+| 01/2016; 472/2008; RJ2015/13111 | 2016-09-06 | outro | O Colegiado aprovou a edição de Instrução, após a Audiência Pública SDM 01/2016, que altera a ICVM 472/2008 (FII) para incluir consultores… | cvm-col-20160906-d0084 | fichas/colegiado/2016-17.md |
+| 19957.005974/2016-84 | 2016-09-05 | outro | O Colegiado declarou a perda do objeto do pedido da acionista Bratel de interrupção ou adiamento do prazo de convocação das AGEs da Oi S.A… | cvm-col-20160905-d0356 | fichas/colegiado/2016-17.md |
+| 480/2009; RJ2010/7374 | 2016-08-31 | outro | O Colegiado discutiu os pontos do Código Único de Governança Corporativa para Companhias Abertas que não obtiveram unanimidade no Grupo de… | cvm-col-20160831-d3185 | fichas/colegiado/2016-17.md |
+| 18/2013; 19957.005929/2016-20 | 2016-08-30 | outro | O Colegiado aprovou, por unanimidade, alteração do art. 2º da Decisão Conjunta CVM/BACEN nº 18/2013, que muda de semestral para anual a… | cvm-col-20160830-d8738 | fichas/colegiado/2016-16.md |
+| 01/2007 | 2016-08-30 | nao-provido | O Colegiado indeferiu, por unanimidade, recurso contra negativa de diligências (oitivas da própria recorrente e de terceiro) no PAS… | cvm-col-20160830-d7214 | fichas/colegiado/2016-16.md |
+| RJ2016/2365 | 2016-08-30 | — | Recurso da Claritas Administração de Recursos Ltda. contra decisão da SIN sobre a aquisição de cotas do Domo FII por fundos administrados… | cvm-col-20160830-d0329 | fichas/colegiado/2016-16.md |
+| 19957.001669/2016-13 | 2016-08-30 | provido | Por maioria, o Colegiado proveu recurso da Eco Securitizadora e da XP contra a SRE, que não admitia o registro de CRA da 79ª série com… | cvm-col-20160830-d0291 | fichas/colegiado/2016-16.md |
+| RJ2014/9994 | 2016-08-30 | deferido | O Colegiado autorizou, por unanimidade, a prorrogação, até 12.09.2016, do prazo para cumprimento de Termo de Compromisso no processo… | cvm-col-20160830-d0207 | fichas/colegiado/2016-16.md |
+| RJ2014/10049 | 2016-08-24 | — | O Colegiado iniciou a discussão de minuta de Instrução sobre BDRs, emissores estrangeiros e ofertas com esforços restritos, alterando as… | cvm-col-20160824-d5058 | fichas/colegiado/2016-16.md |
+| 19957.005514/2016-56 | 2016-08-23 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.005514/2016-56. | cvm-col-20160823-d0340 | fichas/colegiado/2016-16.md |
+| 19957.005090/2016-20 | 2016-08-23 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.005090/2016-20. | cvm-col-20160823-d0333 | fichas/colegiado/2016-16.md |
+| 567/2015; 19957.005193/2016-90 | 2016-08-23 | indeferido | O Colegiado indeferiu, por unanimidade, pedido da Diagnósticos da América S.A. para manter ações em tesouraria acima do limite de 10% do… | cvm-col-20160823-d0332 | fichas/colegiado/2016-16.md |
+| 19957.001434/2016-21 | 2016-08-23 | provido | O Colegiado deu provimento a recurso contra exigência da SRE de registro do Memorial de Incorporação para dispensa de oferta de CICs… | cvm-col-20160823-d0155 | fichas/colegiado/2016-16.md |
+| RJ2012/11002 | 2016-08-16 | parcial | O Colegiado acompanhou o voto do diretor relator em pedidos de prova no PAS da Mundial S.A. Produtos de Consumo: indeferiu a oitiva de… | cvm-col-20160816-d8703 | fichas/colegiado/2016-16.md |
+| 19957.000587/2016-51 | 2016-08-16 | deferido | O Colegiado deferiu a dispensa dos incisos I e II do art. 6º da Instrução 414 na 1ª série da 5ª emissão de CRI da Brazil Realty Companhia… | cvm-col-20160816-d0331 | fichas/colegiado/2016-16.md |
+| 19957.004457/2016-98 | 2016-08-16 | — | Consulta da BM&FBovespa sobre a possibilidade de fundos de investimento exclusivos atuarem como formador de mercado, com base no art. 2º da… | cvm-col-20160816-d0330 | fichas/colegiado/2016-16.md |
+| 19957.003452/2016-48 | 2016-08-16 | provido | Por maioria, o Colegiado deferiu recurso da Petrobras contra entendimento da SEP e afastou o direito de preferência do art. 253 da Lei… | cvm-col-20160816-d0307 | fichas/colegiado/2016-16.md |
+| RJ2014/0915 | 2016-08-09 | outro | O Colegiado determinou o arquivamento do processo de cumprimento de Termo de Compromisso celebrado no PAS RJ2014/0915 com o grupo Itautec… | cvm-col-20160809-d9947 | fichas/colegiado/2016-16.md |
+| RJ2015/10623 | 2016-08-09 | conhecimento | Embargos de declaração. Proc. RJ2015/10623. | cvm-col-20160809-d9911 | fichas/colegiado/2016-16.md |
+| RJ2015/1330 | 2016-08-09 | nao-provido | Acompanhando o voto do relator, o Colegiado indeferiu por unanimidade recurso contra decisão da SNC que negou registro de auditor… | cvm-col-20160809-d9598 | fichas/colegiado/2016-16.md |
+| RJ2013/2306 | 2016-08-09 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2013/2306. | cvm-col-20160809-d9181 | fichas/colegiado/2016-16.md |
+| RJ2012/7159 | 2016-08-09 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2012/7159. | cvm-col-20160809-d8866 | fichas/colegiado/2016-16.md |
+| 19957.005423/2016-11 | 2016-08-09 | deferido | O Colegiado acolheu o pedido da ANBIMA e, em caráter excepcional, prorrogou até 15.08.2016 o prazo de envio dos documentos mensais de julho… | cvm-col-20160809-d5474 | fichas/colegiado/2016-16.md |
+| RJ2015/12184 | 2016-08-03 | outro | O Colegiado aprovou a versão final da Instrução sobre elaboração e divulgação das demonstrações contábeis dos FIP, elaborada após a… | cvm-col-20160803-d52292 | fichas/colegiado/2016-16.md |
+| RJ2012/10107 | 2016-08-03 | outro | O Colegiado aprovou a versão final da minuta de Instrução, após a Audiência Pública 05/2015, sobre constituição, funcionamento e… | cvm-col-20160803-d5229 | fichas/colegiado/2016-16.md |
+| RJ2013/1636 | 2016-08-02 | nao-provido | O Colegiado negou provimento a recurso da Vértice & Masc Auditoria Contábil contra decisão da SNC que indeferiu a inclusão de sócio como… | cvm-col-20160802-d8613 | fichas/colegiado/2016-15.md |
+| RJ2011/2817 | 2016-08-02 | parcial | O Colegiado acompanhou o voto em recursos contra decisão da SRE sobre OPA por aumento de participação na Investco S.A. (art. 26, Instrução… | cvm-col-20160802-d7695 | fichas/colegiado/2016-15.md |
+| RJ2008/8046 | 2016-08-02 | indeferido | O Colegiado indeferiu, por unanimidade, novo pedido da Construtora Lix da Cunha S.A. de prorrogação do prazo do Termo de Compromisso no PAS… | cvm-col-20160802-d6505 | fichas/colegiado/2016-15.md |
+| RJ2009/9577 | 2016-08-02 | outro | O Colegiado aprovou, por unanimidade, a celebração de termo aditivo ao convênio de cooperação acadêmica entre a CVM e a FGV, prorrogando… | cvm-col-20160802-d0868 | fichas/colegiado/2016-15.md |
+| 380/2002; 19957.004832/2016-08 | 2016-08-02 | deferido | Pedido de dispensa de requisito normativo. Proc. SEI 19957.004832/2016-08. | cvm-col-20160802-d0326 | fichas/colegiado/2016-15.md |
+| 19957.004594/2016-22 | 2016-08-02 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.004594/2016-22. | cvm-col-20160802-d0323 | fichas/colegiado/2016-15.md |
+| 19957.004662/2016-53 | 2016-08-02 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.004662/2016-53. | cvm-col-20160802-d0322 | fichas/colegiado/2016-15.md |
+| 19957.004813/2016-73 | 2016-08-02 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.004813/2016-73. | cvm-col-20160802-d0321 | fichas/colegiado/2016-15.md |
+| 19957.004743/2016-53 | 2016-08-02 | conhecimento | O Colegiado deliberou pela perda do objeto de pedido de reconsideração da Saraiva S.A. Livreiros Editores contra decisão de 21.07.2016 que… | cvm-col-20160802-d0306 | fichas/colegiado/2016-15.md |
+| 04/2016; RJ2013/10047 | 2016-07-28 | deferido | O Colegiado, por unanimidade, acolheu o pedido da ABRASCA e prorrogou até 30.08.2016 o prazo para sugestões à minuta de instrução que… | cvm-col-20160728-d3324 | fichas/colegiado/2016-15.md |
+| RJ2015/12184 | 2016-07-27 | — | O Colegiado deu início à discussão da minuta de instrução sobre elaboração e divulgação das demonstrações contábeis dos FIP, elaborada após… | cvm-col-20160727-d52292 | fichas/colegiado/2016-15.md |
+| RJ2012/10107 | 2016-07-27 | — | O Colegiado deu continuidade à discussão da minuta que dispõe sobre Fundos de Investimento em Participações (FIP) e pretende substituir as… | cvm-col-20160727-d5229 | fichas/colegiado/2016-15.md |
+| RJ2013/6183 | 2016-07-26 | outro | O Colegiado aprovou, nos termos da proposta do relator, a recapitulação de infração em PAS da SEP sobre aquisição de créditos imobiliários… | cvm-col-20160726-d8565 | fichas/colegiado/2016-15.md |
+| RJ2015/9687 | 2016-07-26 | deferido | OPA para cancelamento de registro com adoção de procedimento diferenciado. Proc. RJ2015/9687. | cvm-col-20160726-d0318 | fichas/colegiado/2016-15.md |
+| 19957.001404/2016-15 | 2016-07-26 | deferido | O Colegiado concedeu anuência, nos termos do art. 1º da Resolução CMN 2.391/1997, para a 2ª emissão privada de debêntures simples da Nova… | cvm-col-20160726-d0317 | fichas/colegiado/2016-15.md |
+| 19957.001403/2016-71 | 2016-07-26 | deferido | O Colegiado, com base em manifestação favorável da SRE (Memorando 34/2016), concedeu a anuência, nos termos do art. 1º da Resolução CMN… | cvm-col-20160726-d0316 | fichas/colegiado/2016-15.md |
+| 19957.001401/2016-81 | 2016-07-26 | deferido | O Colegiado concedeu anuência à Nova Asa Branca II Energias Renováveis S.A. para a 2ª emissão privada de debêntures simples, com garantia… | cvm-col-20160726-d0315 | fichas/colegiado/2016-15.md |
+| 19957.001406/2016-12 | 2016-07-26 | deferido | O Colegiado concedeu anuência, com base em manifestação favorável da SRE (Memorando 25/2016), para a 2ª emissão privada de debêntures… | cvm-col-20160726-d0314 | fichas/colegiado/2016-15.md |
+| 19957.001395/2016-62 | 2016-07-26 | deferido | O Colegiado concedeu anuência, nos termos do art. 1º da Resolução CMN 2.391/1997, para a 2ª emissão privada de debêntures simples da Nova… | cvm-col-20160726-d0313 | fichas/colegiado/2016-15.md |
+| 19957.004282/2016-19 | 2016-07-26 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.004282/2016-19. | cvm-col-20160726-d0312 | fichas/colegiado/2016-14.md |
+| 19957.004245/2016-19 | 2016-07-26 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.004245/2016-19. | cvm-col-20160726-d0311 | fichas/colegiado/2016-14.md |
+| 19957.003887/2016-92 | 2016-07-26 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.003887/2016-92. | cvm-col-20160726-d0310 | fichas/colegiado/2016-14.md |
+| RJ2016/6071 | 2016-07-26 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2016/6071. | cvm-col-20160726-d0309 | fichas/colegiado/2016-14.md |
+| 19957.002154/2016-31 | 2016-07-26 | nao-provido | O Colegiado, acompanhando a área técnica (Memorando 56/2016) e por unanimidade, negou provimento a recurso de pessoa natural contra o… | cvm-col-20160726-d0305 | fichas/colegiado/2016-14.md |
+| RJ2016/0613 | 2016-07-26 | provido | Pedido de reconsideração de decisão do colegiado. Proc. RJ2016/0613. | cvm-col-20160726-d0108 | fichas/colegiado/2016-14.md |
+| 19957.004743/2016-53 | 2016-07-21 | indeferido | O Colegiado indeferiu o pedido de interrupção do prazo de convocação da AGE da Saraiva S.A., acompanhando a SEP, e identificou ilegalidade… | cvm-col-20160721-d0306 | fichas/colegiado/2016-14.md |
+| RJ2012/10107 | 2016-07-20 | — | O Colegiado continuou a discussão da minuta de Instrução sobre constituição, funcionamento e administração de FIP, após a Audiência Pública… | cvm-col-20160720-d5229 | fichas/colegiado/2016-14.md |
+| — | 2016-07-19 | outro | O Colegiado tomou conhecimento do relatório do GT Concorrência entre Bolsas, aprovou as propostas nele contidas, inclusive o modelo de… | cvm-col-20160719-d0292 | fichas/colegiado/2016-14.md |
+| RJ2014/11126 | 2016-07-19 | outro | O Colegiado declarou a perda do objeto do recurso de membros do conselho de administração da Usinas Siderúrgicas de Minas Gerais S.A… | cvm-col-20160719-d0195 | fichas/colegiado/2016-14.md |
+| SP2016/0089 | 2016-07-19 | nao-provido | O Colegiado indeferiu, por unanimidade, o recurso de acionista contra a negativa da Usinas Siderúrgicas de Minas Gerais S.A. de fornecer… | cvm-col-20160719-d0166 | fichas/colegiado/2016-14.md |
+| 19957.001339/2015-47 | 2016-07-19 | outro | O Colegiado determinou o prosseguimento dos trabalhos sobre modelo de autogestão da assistência médica dos servidores. O tema voltará ao… | cvm-col-20160719-d0110 | fichas/colegiado/2016-14.md |
+| RJ2012/10107 | 2016-07-13 | — | O Colegiado deu início à discussão da minuta de instrução sobre constituição, funcionamento e administração de fundos de investimento em… | cvm-col-20160713-d5229 | fichas/colegiado/2016-14.md |
+| 498/2006; RJ2006/0156 | 2016-07-12 | outro | Alteração da deliberação CVM 498/2006. Proc. RJ2006/0156. | cvm-col-20160712-d4996 | fichas/colegiado/2016-14.md |
+| 19957.004310/2016-06 | 2016-07-12 | outro | O Colegiado aprovou minuta de Acordo de Cooperação Técnica entre a CVM e a ANP para intercâmbio de informações, dados e estudos, visando à… | cvm-col-20160712-d4124 | fichas/colegiado/2016-14.md |
+| 19957.002315/2016-96 | 2016-07-12 | parcial | O Colegiado deferiu parcialmente consulta e pedido de dispensa da Inepar S.A. em recuperação judicial e de sua corretora, sobre atuação de… | cvm-col-20160712-d0296 | fichas/colegiado/2016-14.md |
+| RJ2013/12825 | 2016-07-12 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12825. | cvm-col-20160712-d0295 | fichas/colegiado/2016-14.md |
+| RJ2013/11877 | 2016-07-08 | outro | O Colegiado aprovou para audiência pública até 06.11.2016 minuta de Instrução sobre oferta pública de valores mobiliários de pequenos… | cvm-col-20160708-d9637 | fichas/colegiado/2016-14.md |
+| RJ2014/0027 | 2016-07-05 | outro | O Colegiado determinou o arquivamento do processo quanto aos compromitentes (uma pessoa física, o BNDES e a BNDESPAR), por manifestação da… | cvm-col-20160705-d8977 | fichas/colegiado/2016-14.md |
+| RJ2012/3863 | 2016-07-05 | nao-provido | O Colegiado indeferiu o recurso da Oi S.A. e manteve o entendimento da SEP de que o art. 19 do Decreto-Lei 1.376/1974 não impedia o direito… | cvm-col-20160705-d8790 | fichas/colegiado/2016-14.md |
+| 19957.001669/2016-13 | 2016-07-05 | — | O Colegiado iniciou a discussão do registro de oferta pública de CRA da Eco Securitizadora de Direitos Creditórios do Agronegócio S.A… | cvm-col-20160705-d0291 | fichas/colegiado/2016-13.md |
+| 19957.004000/2016-83 | 2016-07-05 | outro | Consulta sobre oferta de cotas de fundos de índice para investidores em geral. Proc. SEI 19957.004000/2016-83. | cvm-col-20160705-d0289 | fichas/colegiado/2016-13.md |
+| 19957.004088/2016-33 | 2016-07-05 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.004088/2016-33. | cvm-col-20160705-d0288 | fichas/colegiado/2016-13.md |
+| 19957.004095/2016-35 | 2016-07-05 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.004095/2016-35. | cvm-col-20160705-d0287 | fichas/colegiado/2016-13.md |
+| 19957.003898/2016-72 | 2016-07-05 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.003898/2016-72. | cvm-col-20160705-d0286 | fichas/colegiado/2016-13.md |
+| 19957.003914/2016-27 | 2016-07-05 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.003914/2016-27. | cvm-col-20160705-d0285 | fichas/colegiado/2016-13.md |
+| 19957.003744/2016-81 | 2016-07-05 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.003744/2016-81. | cvm-col-20160705-d0284 | fichas/colegiado/2016-13.md |
+| RJ2013/13130 | 2016-07-05 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/13130. | cvm-col-20160705-d0283 | fichas/colegiado/2016-13.md |
+| RJ2013/5778 | 2016-07-05 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/5778. | cvm-col-20160705-d0282 | fichas/colegiado/2016-13.md |
+| 02/2015; 438/2006; RJ2015/3482 | 2016-06-29 | outro | O Colegiado aprovou a edição de instrução, após audiência pública SNC 02/2015, que altera o Plano Contábil dos Fundos de Investimento… | cvm-col-20160629-d4872 | fichas/colegiado/2016-13.md |
+| RJ2014/13261 | 2016-06-28 | outro | O Colegiado, em consulta do Banco Itaú BBA S.A. e outro, admitiu lote suplementar em ofertas com esforços restritos, outorgável por emissor… | cvm-col-20160628-d9828 | fichas/colegiado/2016-13.md |
+| RJ2015/12566; RJ2015/12568 | 2016-06-28 | nao-provido | Recursos contra decisão da SIN em processos de multa cominatória. Proc. s. RJ2015/12566 e RJ2015/12568. | cvm-col-20160628-d0238 | fichas/colegiado/2016-13.md |
+| RJ2015/1652 | 2016-06-28 | outro | O Colegiado determinou o arquivamento do processo de cumprimento de termo de compromisso firmado por três membros do conselho de… | cvm-col-20160628-d0023 | fichas/colegiado/2016-13.md |
+| RJ2015/2239 | 2016-06-28 | outro | O Colegiado determinou o arquivamento do processo após a SAD atestar o cumprimento do Termo de Compromisso celebrado pelo Banco Modal S.A… | cvm-col-20160628-d0022 | fichas/colegiado/2016-13.md |
+| RJ2013/11877 | 2016-06-22 | — | O Colegiado deu continuidade à discussão da minuta de Instrução sobre oferta pública com dispensa de registro por plataformas eletrônicas… | cvm-col-20160622-d9637 | fichas/colegiado/2016-13.md |
+| SP2015/0288 | 2016-06-21 | nao-provido | O Colegiado, por unanimidade, indeferiu recurso contra entendimento da SEP sobre eleição de conselheiros de administração da companhia… | cvm-col-20160621-d9996 | fichas/colegiado/2016-13.md |
+| RJ2011/3493 | 2016-06-21 | nao-provido | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2011/3493. | cvm-col-20160621-d8888 | fichas/colegiado/2016-13.md |
+| RJ2016/0006 | 2016-06-21 | deferido | O Colegiado deferiu o pedido da Tereos Participações SAS de registro de OPA unificada para cancelamento de registro e saída do Novo Mercado… | cvm-col-20160621-d0272 | fichas/colegiado/2016-13.md |
+| 19957.003268/2016-06 | 2016-06-21 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.003268/2016-06. | cvm-col-20160621-d0269 | fichas/colegiado/2016-13.md |
+| 19957.003269/2016-42 | 2016-06-21 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.003269/2016-42. | cvm-col-20160621-d0268 | fichas/colegiado/2016-13.md |
+| 19957.003569/2016-21 | 2016-06-21 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.003569/2016-21. | cvm-col-20160621-d0267 | fichas/colegiado/2016-13.md |
+| RJ2013/10338 | 2016-06-21 | nao-provido | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2013/10338. | cvm-col-20160621-d0266 | fichas/colegiado/2016-12.md |
+| RJ2012/15534 | 2016-06-21 | conhecimento | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2012/15534. | cvm-col-20160621-d0265 | fichas/colegiado/2016-12.md |
+| RJ2012/15312 | 2016-06-21 | nao-provido | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2012/15312. | cvm-col-20160621-d0264 | fichas/colegiado/2016-12.md |
+| RJ2012/8112 | 2016-06-21 | nao-provido | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2012/8112. | cvm-col-20160621-d0263 | fichas/colegiado/2016-12.md |
+| RJ2011/4462 | 2016-06-21 | nao-provido | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2011/4462. | cvm-col-20160621-d0262 | fichas/colegiado/2016-12.md |
+| RJ2015/10953 | 2016-06-21 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2015/10953. | cvm-col-20160621-d0261 | fichas/colegiado/2016-12.md |
+| 19957.003265/2016-64 | 2016-06-21 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.003265/2016-64. | cvm-col-20160621-d0260 | fichas/colegiado/2016-12.md |
+| 19957.003564/2016-07 | 2016-06-21 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.003564/2016-07. | cvm-col-20160621-d0259 | fichas/colegiado/2016-12.md |
+| 19957.003254/2016-84 | 2016-06-21 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.003254/2016-84. | cvm-col-20160621-d0258 | fichas/colegiado/2016-12.md |
+| 19957.003262/2016-21 | 2016-06-21 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.003262/2016-21. | cvm-col-20160621-d0257 | fichas/colegiado/2016-12.md |
+| 542/2013; 19957.003593/2016-61 | 2016-06-21 | deferido | O Colegiado, por unanimidade, acompanhando a SMI, deferiu dispensas de requisitos da Instrução CVM 542/2013 a custodiantes, estendidas aos… | cvm-col-20160621-d0252 | fichas/colegiado/2016-12.md |
+| 505/2011; SP2015/0097 | 2016-06-14 | parcial | O Colegiado deferiu parcialmente recurso do Banco Yamaha Motor do Brasil S.A. contra decisão da SMI que negou dispensa da Instrução 505… | cvm-col-20160614-d9646 | fichas/colegiado/2016-12.md |
+| RJ2013/7923 | 2016-06-14 | outro | O Colegiado aprovou, por unanimidade, a proposta do relator de recapitulação das infrações no PAS RJ2013/7923: a imputação de violação ao… | cvm-col-20160614-d9426 | fichas/colegiado/2016-12.md |
+| RJ2013/13172 | 2016-06-14 | conhecimento | O Colegiado inadmitiu pedido de reconsideração de decisão em PAS por intempestividade: apresentado 15 dias após a publicação, quando o… | cvm-col-20160614-d8771 | fichas/colegiado/2016-12.md |
+| 04/2015; 19957.003591/2015-91 | 2016-06-14 | outro | O Colegiado aprovou a edição de Instrução, após a Audiência Pública SNC 04/2015, que altera o Informe Mensal dos FIDCs (Anexo A da… | cvm-col-20160614-d6789 | fichas/colegiado/2016-12.md |
+| 19957.002636/2016-91 | 2016-06-14 | outro | O Colegiado, por unanimidade, aprovou as conclusões da SMI sobre a aprovação de normativos das entidades administradoras de mercados… | cvm-col-20160614-d0256 | fichas/colegiado/2016-12.md |
+| 19957.002582/2016-63 | 2016-06-14 | deferido | O Colegiado, acompanhando a SEP e por unanimidade, deferiu pedido da Eneva S.A. – Em Recuperação Judicial para negociar ações de própria… | cvm-col-20160614-d0255 | fichas/colegiado/2016-12.md |
+| 542/2013; 19957.003593/2016-61 | 2016-06-14 | — | Pedidos de dispensa de requisitos da Instrução CVM 542/2013 (custódia de valores mobiliários) formulados por instituições financeiras… | cvm-col-20160614-d0252 | fichas/colegiado/2016-12.md |
+| 19957.001114/2016-71 | 2016-06-14 | nao-provido | O Colegiado, acompanhando a área técnica (Memorando 43/2016), negou provimento a recurso da Linker Investimentos Ltda. contra o… | cvm-col-20160614-d0251 | fichas/colegiado/2016-12.md |
+| RJ2015/12660 | 2016-06-14 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2015/12660. | cvm-col-20160614-d0250 | fichas/colegiado/2016-12.md |
+| RJ2015/0162 | 2016-06-14 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2015/0162. | cvm-col-20160614-d0249 | fichas/colegiado/2016-12.md |
+| RJ2013/12588 | 2016-06-14 | parcial | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12588. | cvm-col-20160614-d0248 | fichas/colegiado/2016-12.md |
+| RJ2013/12432 | 2016-06-14 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12432. | cvm-col-20160614-d0247 | fichas/colegiado/2016-11.md |
+| RJ2013/12405 | 2016-06-14 | parcial | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12405. | cvm-col-20160614-d0246 | fichas/colegiado/2016-11.md |
+| RJ2013/12401 | 2016-06-14 | parcial | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12401. | cvm-col-20160614-d0245 | fichas/colegiado/2016-11.md |
+| RJ2013/10336 | 2016-06-14 | provido | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2013/10336. | cvm-col-20160614-d0244 | fichas/colegiado/2016-11.md |
+| RJ2015/4262 | 2016-06-14 | deferido | O Colegiado, acompanhando o voto de diretor, deferiu procedimento diferenciado para OPA de cancelamento de registro da Marina de Iracema… | cvm-col-20160614-d0125 | fichas/colegiado/2016-11.md |
+| RJ2013/11877 | 2016-06-08 | — | O Colegiado deu continuidade à discussão de minuta de Instrução sobre oferta pública com dispensa de registro por plataformas eletrônicas… | cvm-col-20160608-d9637 | fichas/colegiado/2016-11.md |
+| RJ2016/5003 | 2016-06-07 | outro | O Colegiado aprovou, para audiência pública de 30 dias, minuta de Deliberação que aprova o Documento de Revisão de Pronunciamentos Técnicos… | cvm-col-20160607-d8946 | fichas/colegiado/2016-11.md |
+| RJ2016/5001 | 2016-06-07 | outro | O Colegiado aprovou, para audiência pública de 30 dias, minuta de deliberação que aprova o Documento de Revisão de Pronunciamentos Técnicos… | cvm-col-20160607-d8811 | fichas/colegiado/2016-11.md |
+| RJ2016/5005 | 2016-06-07 | outro | O Colegiado aprovou, para Audiência Pública até 09.09.2016, minuta de deliberação que aprova o Pronunciamento Técnico CPC 47 (Receita de… | cvm-col-20160607-d6664 | fichas/colegiado/2016-11.md |
+| RJ2016/5006 | 2016-06-07 | outro | O Colegiado aprovou a submissão à audiência pública, até 09.09.2016, de minuta de deliberação que aprova o Pronunciamento Técnico CPC 48… | cvm-col-20160607-d6263 | fichas/colegiado/2016-11.md |
+| 19957.002943/2016-71 | 2016-06-07 | outro | O Colegiado aprovou a edição de Deliberação, nos termos de minuta da SIN, que estabelece critérios para dispensar seguradoras… | cvm-col-20160607-d1492 | fichas/colegiado/2016-11.md |
+| 286/1998; 19957.002620/2016-88 | 2016-06-07 | outro | O Colegiado reconheceu a inaplicabilidade da Instrução CVM 286/1998 às operações do FFIE em bolsa de valores, acompanhando a SMI e a… | cvm-col-20160607-d0243 | fichas/colegiado/2016-11.md |
+| 19957.003870/2016-35 | 2016-06-07 | outro | Minuta de portaria – núcleo de inovação em tecnologias financeiras. Proc. SEI 19957.003870/2016-35. | cvm-col-20160607-d0242 | fichas/colegiado/2016-11.md |
+| RJ2013/10980 | 2016-06-07 | nao-provido | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2013/10980. | cvm-col-20160607-d0241 | fichas/colegiado/2016-11.md |
+| RJ2013/12941 | 2016-06-07 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12941. | cvm-col-20160607-d0240 | fichas/colegiado/2016-11.md |
+| RJ2013/12939 | 2016-06-07 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12939. | cvm-col-20160607-d0239 | fichas/colegiado/2016-11.md |
+| RJ2015/12566; RJ2015/12568 | 2016-06-07 | — | Recursos contra decisão da SIN em processos de multa cominatória. Proc. s. RJ2015/12566 e RJ2015/12568. | cvm-col-20160607-d0238 | fichas/colegiado/2016-11.md |
+| RJ2013/12385 | 2016-06-07 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12385. | cvm-col-20160607-d0237 | fichas/colegiado/2016-11.md |
+| 19957.003171/2016-95 | 2016-06-07 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.003171/2016-95. | cvm-col-20160607-d0235 | fichas/colegiado/2016-11.md |
+| 19957.003217/2016-76 | 2016-06-07 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.003217/2016-76. | cvm-col-20160607-d0234 | fichas/colegiado/2016-11.md |
+| 19957.000543/2015-41 | 2016-06-07 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.000543/2015-41. | cvm-col-20160607-d0233 | fichas/colegiado/2016-11.md |
+| 19957.003168/2016-71 | 2016-06-07 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.003168/2016-71. | cvm-col-20160607-d0232 | fichas/colegiado/2016-11.md |
+| RJ2013/11877 | 2016-06-01 | — | O Colegiado retomou a discussão da minuta de instrução sobre oferta pública com dispensa de registro por plataformas eletrônicas de… | cvm-col-20160601-d9637 | fichas/colegiado/2016-10.md |
+| RJ2015/8057 | 2016-05-31 | deferido | O Colegiado deferiu, acompanhando a SRE, o pedido de OPA unificada do Banco Daycoval S.A. para conversão de registro (categoria A para B) e… | cvm-col-20160531-d9990 | fichas/colegiado/2016-10.md |
+| RJ2014/9695 | 2016-05-31 | outro | O Colegiado determinou o arquivamento do processo de cumprimento de termo de compromisso firmado por diretores da Ideiasnet S.A. (Proc… | cvm-col-20160531-d9985 | fichas/colegiado/2016-10.md |
+| 19957.001813/2015-31 | 2016-05-31 | outro | Sem examinar o mérito, o Colegiado decidiu, por unanimidade, não aprovar neste momento as alterações ao Regulamento de Listagem e ao Manual… | cvm-col-20160531-d8716 | fichas/colegiado/2016-10.md |
+| 358/2002; RJ2015/6981 | 2016-05-25 | — | O Colegiado deu continuidade à discussão da minuta que altera a Instrução CVM 358/2002, sobre divulgação e uso de informações de ato ou… | cvm-col-20160525-d2844 | fichas/colegiado/2016-10.md |
+| 19957.003614/2015-67 | 2016-05-24 | deferido | Pedido de dispensa de requisito normativo. Proc. SEI 19957.003614/2015-67. | cvm-col-20160524-d9969 | fichas/colegiado/2016-10.md |
+| 19957.002908/2016-52 | 2016-05-24 | nao-provido | O Colegiado, por unanimidade, negou recurso do administrador BTG Pactual Serviços Financeiros S.A. DTVM e manteve decisão da área técnica… | cvm-col-20160524-d0224 | fichas/colegiado/2016-10.md |
+| 19957.002752/2016-18 | 2016-05-24 | deferido | O Colegiado deferiu, por unanimidade, o registro de funcionamento e quatro dispensas da ICVM 356/2001 ao Fundo de Investimento em Direitos… | cvm-col-20160524-d0223 | fichas/colegiado/2016-10.md |
+| 558/2015; 19957.002943/2016-71 | 2016-05-24 | — | O Colegiado decidiu, por unanimidade, acompanhar o entendimento da SIN (Memorando 21/2016) sobre a consulta da ANBIMA quanto à aplicação da… | cvm-col-20160524-d0222 | fichas/colegiado/2016-10.md |
+| 19957.003032/2016-61 | 2016-05-24 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.003032/2016-61. | cvm-col-20160524-d0221 | fichas/colegiado/2016-10.md |
+| 19957.003028/2016-01 | 2016-05-24 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.003028/2016-01. | cvm-col-20160524-d0220 | fichas/colegiado/2016-10.md |
+| 19957.000546/2015-84 | 2016-05-24 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.000546/2015-84. | cvm-col-20160524-d0219 | fichas/colegiado/2016-10.md |
+| 19957.000528/2015-01 | 2016-05-24 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.000528/2015-01. | cvm-col-20160524-d0218 | fichas/colegiado/2016-10.md |
+| 19957.003012/2016-91 | 2016-05-24 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.003012/2016-91. | cvm-col-20160524-d0213 | fichas/colegiado/2016-10.md |
+| 19957.003007/2016-88 | 2016-05-24 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.003007/2016-88. | cvm-col-20160524-d0212 | fichas/colegiado/2016-10.md |
+| 19957.003010/2016-00 | 2016-05-24 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.003010/2016-00. | cvm-col-20160524-d0211 | fichas/colegiado/2016-10.md |
+| 19957.003027/2016-59 | 2016-05-24 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.003027/2016-59. | cvm-col-20160524-d0210 | fichas/colegiado/2016-10.md |
+| 19957.002965/2016-31 | 2016-05-24 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.002965/2016-31. | cvm-col-20160524-d0209 | fichas/colegiado/2016-10.md |
+| 358/2002; RJ2015/6981 | 2016-05-18 | — | O Colegiado deu início à discussão da minuta de Instrução que altera a Instrução CVM 358/2002, sobre divulgação e uso de informações de ato… | cvm-col-20160518-d2844 | fichas/colegiado/2016-10.md |
+| RJ2016/1327 | 2016-05-17 | — | O Colegiado ouviu apresentação da Presidência e de superintendências sobre as reuniões da IOSCO de fevereiro de 2016, em Madri e Sydney… | cvm-col-20160517-d5369 | fichas/colegiado/2016-10.md |
+| 19957.002726/2016-81 | 2016-05-17 | outro | Autorização para emissão de ofício circular sobre ofertas públicas secundárias de cotas de fundos de investimento imobiliário. Proc. SEI… | cvm-col-20160517-d0206 | fichas/colegiado/2016-10.md |
+| 19957.002617/2016-64 | 2016-05-17 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.002617/2016-64. | cvm-col-20160517-d0201 | fichas/colegiado/2016-10.md |
+| 19957.002616/2016-10 | 2016-05-17 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.002616/2016-10. | cvm-col-20160517-d0200 | fichas/colegiado/2016-09.md |
+| 19957.002615/2016-75 | 2016-05-17 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.002615/2016-75. | cvm-col-20160517-d0199 | fichas/colegiado/2016-09.md |
+| 19957.002614/2016-21 | 2016-05-17 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.002614/2016-21. | cvm-col-20160517-d0198 | fichas/colegiado/2016-09.md |
+| RJ2015/13394 | 2016-05-17 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2015/13394. | cvm-col-20160517-d0197 | fichas/colegiado/2016-09.md |
+| RJ2013/12406 | 2016-05-17 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12406. | cvm-col-20160517-d0196 | fichas/colegiado/2016-09.md |
+| — | 2016-05-10 | outro | O Colegiado tomou conhecimento das respostas das áreas técnicas ao questionário do Financial Stability Board (FSB) no âmbito do peer review… | cvm-col-20160510-d9783 | fichas/colegiado/2016-09.md |
+| RJ2015/10253 | 2016-05-10 | indeferido | O Colegiado indeferiu o pedido de dispensa do leilão (arts. 4º, VII, e 12 da Instrução 361) em OPA para cancelamento de registro da… | cvm-col-20160510-d0194 | fichas/colegiado/2016-09.md |
+| RJ2015/12018 | 2016-05-10 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2015/12018. | cvm-col-20160510-d0193 | fichas/colegiado/2016-09.md |
+| RJ2015/11942 | 2016-05-10 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2015/11942. | cvm-col-20160510-d0192 | fichas/colegiado/2016-09.md |
+| 19957.003695/2015-03 | 2016-05-10 | nao-provido | O Colegiado indeferiu, por unanimidade, recurso da Um Investimentos S.A. CTVM contra entendimento da SRE (Ofício-Circular 01/2015) que… | cvm-col-20160510-d0002 | fichas/colegiado/2016-09.md |
+| 03/2015; 471/2008; RJ2014/12576 | 2016-05-04 | outro | O Colegiado aprovou a edição de Instrução, após a Audiência Pública SDM 03/2015, que altera a Instrução CVM 471/2008 para dispor sobre… | cvm-col-20160504-d6067 | fichas/colegiado/2016-09.md |
+| — | 2016-05-04 | outro | Sistema de supervisão baseado em risco do mercado de valores mobiliários. | cvm-col-20160504-d5347 | fichas/colegiado/2016-09.md |
+| RJ2014/7604 | 2016-05-03 | outro | O Colegiado determinou o arquivamento do processo, após a SAD atestar que os pagamentos do Termo de Compromisso dos seis signatários… | cvm-col-20160503-d9766 | fichas/colegiado/2016-09.md |
+| SP2016/0134 | 2016-05-03 | nao-provido | O Colegiado negou provimento, por unanimidade, ao recurso da STX Desenvolvimento Imobiliário S.A. e SPEs contra a suspensão de ofertas de… | cvm-col-20160503-d9218 | fichas/colegiado/2016-09.md |
+| RJ2010/10742 | 2016-05-03 | nao-provido | O Colegiado manteve, por unanimidade, sua decisão de 11.02.2016, que não conheceu de recurso contra o arquivamento de reclamação pela SEP… | cvm-col-20160503-d8627 | fichas/colegiado/2016-09.md |
+| — | 2016-05-03 | — | Sistema de supervisão baseado em risco do mercado de valores mobiliários. | cvm-col-20160503-d5347 | fichas/colegiado/2016-09.md |
+| RJ2016/1332 | 2016-05-03 | nao-provido | O Colegiado negou provimento, por unanimidade, ao recurso contra indeferimento de credenciamento como administrador de carteira (ICVM… | cvm-col-20160503-d0189 | fichas/colegiado/2016-09.md |
+| — | 2016-04-29 | — | Sistema de supervisão baseado em risco do mercado de valores mobiliários. | cvm-col-20160429-d5347 | fichas/colegiado/2016-09.md |
+| RJ2013/10047 | 2016-04-27 | outro | Para audiência pública – programa de distribuição de debêntures. Proc. RJ2013/10047. | cvm-col-20160427-d3324 | fichas/colegiado/2016-09.md |
+| RJ2014/9909 | 2016-04-26 | outro | O Colegiado determinou o arquivamento do processo de cumprimento de Termo de Compromisso firmado pelo proponente e aprovado em 18.08.2015… | cvm-col-20160426-d9791 | fichas/colegiado/2016-08.md |
+| RJ2014/11648 | 2016-04-26 | outro | O Colegiado determinou o arquivamento do processo, após a SNC atestar que o pagamento previsto no Termo de Compromisso dos três… | cvm-col-20160426-d9781 | fichas/colegiado/2016-08.md |
+| RJ2013/12595 | 2016-04-26 | outro | O Colegiado determinou o arquivamento do processo de cumprimento de termo de compromisso (PAS RJ2013/12595), considerando manifestação da… | cvm-col-20160426-d9572 | fichas/colegiado/2016-08.md |
+| 19957.002527/2016-73 | 2016-04-26 | indeferido | O Colegiado indeferiu, por unanimidade, o pedido de interrupção do prazo de convocação da AGE da GPC Participações S.A. (grupamento de… | cvm-col-20160426-d0186 | fichas/colegiado/2016-08.md |
+| RJ2016/4406 | 2016-04-26 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2016/4406. | cvm-col-20160426-d0185 | fichas/colegiado/2016-08.md |
+| 19957.001433/2016-87 | 2016-04-26 | provido | O Colegiado deu provimento, por unanimidade, a recurso da HESA 84 Empreendimentos Imobiliários Ltda. e da Hotelaria Accor Brasil S.A… | cvm-col-20160426-d0154 | fichas/colegiado/2016-08.md |
+| 19957.001431/2016-98 | 2016-04-26 | provido | O Colegiado deu provimento a recurso contra exigência da SRE de comprovar direito de retratação em dispensa de registro de CICs… | cvm-col-20160426-d0153 | fichas/colegiado/2016-08.md |
+| RJ2016/0807 | 2016-04-26 | nao-provido | Pedido de reconsideração de decisão do colegiado. Proc. RJ2016/0807. | cvm-col-20160426-d0065 | fichas/colegiado/2016-08.md |
+| — | 2016-04-19 | outro | O Colegiado deliberou prosseguir com a análise do tema após a SDM apresentar o resultado de questionário enviado aos 461 consultores de… | cvm-col-20160419-d2865 | fichas/colegiado/2016-08.md |
+| — | 2016-04-18 | — | Sistema de supervisão baseado em risco do mercado de valores mobiliários. | cvm-col-20160418-d5347 | fichas/colegiado/2016-08.md |
+| RJ2013/10047 | 2016-04-13 | — | O Colegiado continuou a discussão da minuta de instrução sobre o Programa de Distribuição de Debêntures, que altera as Instruções CVM… | cvm-col-20160413-d3324 | fichas/colegiado/2016-08.md |
+| RJ2014/7213 | 2016-04-12 | outro | O Colegiado determinou o arquivamento do processo de cumprimento de Termo de Compromisso (PAS RJ2014/7213). Segundo a manifestação da SAD… | cvm-col-20160412-d9682 | fichas/colegiado/2016-08.md |
+| 19957.002194/2016-82 | 2016-04-12 | nao-provido | Recurso contra decisão da SRE em processo de multa cominatória. Proc. SEI 19957.002194/2016-82. | cvm-col-20160412-d0177 | fichas/colegiado/2016-08.md |
+| 19957.001309/2016-11 | 2016-04-12 | nao-provido | O Colegiado indeferiu, por unanimidade, recursos de Um Investimentos S.A. CTVM contra duas multas cominatórias de R$ 12.000,00 cada… | cvm-col-20160412-d0176 | fichas/colegiado/2016-08.md |
+| RJ2016/4004 | 2016-04-12 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2016/4004. | cvm-col-20160412-d0175 | fichas/colegiado/2016-08.md |
+| RJ2016/3873 | 2016-04-12 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2016/3873. | cvm-col-20160412-d0174 | fichas/colegiado/2016-08.md |
+| RJ2016/3454 | 2016-04-12 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2016/3454. | cvm-col-20160412-d0173 | fichas/colegiado/2016-08.md |
+| RJ2016/3430; 19957.002142/2016-14 | 2016-04-12 | nao-provido | Recurso contra decisão da SRE em processo de multa cominatória. Proc. RJ2016/3430 (PROC. SEI 19957.002142/2016-14). | cvm-col-20160412-d0172 | fichas/colegiado/2016-08.md |
+| 19957.004122/2015-99 | 2016-04-12 | provido | O Colegiado, por unanimidade, deferiu recurso contra exigência da SRE de Direito de Retratação aos adquirentes de 75 CICs de condo-hotel… | cvm-col-20160412-d0050 | fichas/colegiado/2016-08.md |
+| RJ2013/10047 | 2016-04-01 | — | O Colegiado iniciou a discussão da minuta de Instrução sobre o Programa de Distribuição de Debêntures, que altera as Instruções CVM… | cvm-col-20160401-d3324 | fichas/colegiado/2016-08.md |
+| RJ2016/2362 | 2016-03-29 | conhecimento | O Colegiado não conheceu, por unanimidade, recurso contra decisão da SNC que cancelou registro de auditor independente pessoa física, por… | cvm-col-20160329-d0165 | fichas/colegiado/2016-08.md |
+| RJ2015/7158 | 2016-03-29 | deferido | O Colegiado concedeu, por unanimidade, o procedimento diferenciado para a OPA de cancelamento de registro da CELG de Participações, com… | cvm-col-20160329-d0164 | fichas/colegiado/2016-08.md |
+| RJ2015/4262 | 2016-03-29 | — | Pedido de registro de OPA para cancelamento de registro com adoção de procedimento diferenciado (art. 34 da Instrução CVM 361/2002)… | cvm-col-20160329-d0125 | fichas/colegiado/2016-07.md |
+| RJ2013/11877 | 2016-03-23 | — | O Colegiado continuou a discussão da minuta de Instrução sobre oferta pública com dispensa de registro por plataformas eletrônicas de… | cvm-col-20160323-d9637 | fichas/colegiado/2016-07.md |
+| RJ2015/1951 | 2016-03-22 | nao-provido | Pedido de reconsideração de decisão do colegiado. Proc. RJ2015/1951. | cvm-col-20160322-d9748 | fichas/colegiado/2016-07.md |
+| 19957.001797/2016-67 | 2016-03-22 | outro | O Colegiado aprovou a edição de Deliberação que delega ao titular da SRE a competência para conceder dispensas dos limites do art. 15 da… | cvm-col-20160322-d0157 | fichas/colegiado/2016-07.md |
+| RJ2012/8073 | 2016-03-22 | nao-provido | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2012/8073. | cvm-col-20160322-d0156 | fichas/colegiado/2016-07.md |
+| RJ2015/7661 | 2016-03-22 | deferido | O Colegiado deferiu, por unanimidade, acompanhando a SEP, o pedido da Gerdau S.A. de autorização para negociação privada de ações de… | cvm-col-20160322-d0146 | fichas/colegiado/2016-07.md |
+| RJ2013/11877 | 2016-03-16 | — | O Colegiado deu continuidade à discussão de minuta de Instrução sobre oferta pública com dispensa de registro por plataformas eletrônicas… | cvm-col-20160316-d9637 | fichas/colegiado/2016-07.md |
+| RJ2014/14465 | 2016-03-15 | outro | O Colegiado determinou o arquivamento do processo de cumprimento de Termo de Compromisso (Proc. RJ2014/14465). Segundo a manifestação da… | cvm-col-20160315-d9869 | fichas/colegiado/2016-07.md |
+| SP2009/0054 | 2016-03-15 | outro | O Colegiado determinou o arquivamento do processo após as áreas SAD e SMI atestarem o cumprimento do termo de compromisso aprovado em… | cvm-col-20160315-d8021 | fichas/colegiado/2016-07.md |
+| RJ2015/7209 | 2016-03-15 | outro | O Colegiado aprovou o texto de memorando de entendimento (MoU) entre a CVM e a Universidade de Stirling (Escócia) para cooperação em… | cvm-col-20160315-d0152 | fichas/colegiado/2016-07.md |
+| RJ2016/0056 | 2016-03-15 | nao-provido | O Colegiado negou provimento ao recurso de pessoa natural contra indeferimento de credenciamento como administrador de carteira… | cvm-col-20160315-d0151 | fichas/colegiado/2016-07.md |
+| 19957.004083/2015-20 | 2016-03-15 | outro | O Colegiado aprovou minuta de convênio de cooperação entre CVM, BM&FBOVESPA e ANBIMA para o sistema eletrônico de elaboração, entrega e… | cvm-col-20160315-d0147 | fichas/colegiado/2016-07.md |
+| RJ2016/1682 | 2016-03-15 | nao-provido | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2016/1682. | cvm-col-20160315-d0138 | fichas/colegiado/2016-07.md |
+| RJ2013/11877 | 2016-03-09 | — | O Colegiado deu continuidade à discussão de minuta de instrução sobre oferta pública com dispensa de registro por plataformas eletrônicas… | cvm-col-20160309-d9637 | fichas/colegiado/2016-07.md |
+| RJ2014/10859 | 2016-03-08 | outro | Cumprimento de termo de compromisso. PAS RJ2014/10859. | cvm-col-20160308-d9959 | fichas/colegiado/2016-07.md |
+| RJ2015/10623 | 2016-03-08 | conhecimento | Recurso contra decisão do colegiado. Proc. RJ2015/10623. | cvm-col-20160308-d9911 | fichas/colegiado/2016-07.md |
+| RJ2013/11716 | 2016-03-08 | outro | Cumprimento de termo de compromisso. Proc. RJ2013/11716. | cvm-col-20160308-d9790 | fichas/colegiado/2016-07.md |
+| RJ2012/3071 | 2016-03-08 | provido | O Colegiado, acompanhando o voto do relator, dispensou as Companhias Estaduais CEEE-D e CEEE-GT do refazimento e da republicação das… | cvm-col-20160308-d8398 | fichas/colegiado/2016-07.md |
+| 19957.001499/2016-77 | 2016-03-08 | outro | O Colegiado aprovou minuta de portaria da SAD que aprova o Manual de Fiscalização de Contratos da CVM, instrumento orientador para… | cvm-col-20160308-d0145 | fichas/colegiado/2016-07.md |
+| RJ2016/2130 | 2016-03-08 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2016/2130. | cvm-col-20160308-d0144 | fichas/colegiado/2016-07.md |
+| RJ2016/2124 | 2016-03-08 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2016/2124. | cvm-col-20160308-d0143 | fichas/colegiado/2016-07.md |
+| RJ2016/2123 | 2016-03-08 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2016/2123. | cvm-col-20160308-d0142 | fichas/colegiado/2016-07.md |
+| RJ2016/2122 | 2016-03-08 | provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2016/2122. | cvm-col-20160308-d0141 | fichas/colegiado/2016-07.md |
+| RJ2016/2121 | 2016-03-08 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2016/2121. | cvm-col-20160308-d0140 | fichas/colegiado/2016-06.md |
+| RJ2016/2120 | 2016-03-08 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2016/2120. | cvm-col-20160308-d0139 | fichas/colegiado/2016-06.md |
+| RJ2015/1295 | 2016-03-08 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2015/1295. | cvm-col-20160308-d0137 | fichas/colegiado/2016-06.md |
+| RJ2015/1264 | 2016-03-08 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2015/1264. | cvm-col-20160308-d0136 | fichas/colegiado/2016-06.md |
+| RJ2014/12861 | 2016-03-08 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2014/12861. | cvm-col-20160308-d0135 | fichas/colegiado/2016-06.md |
+| 19957.001060/2016-44 | 2016-03-08 | outro | O Colegiado retificou, por erro material, a decisão de 01.03.2016 sobre o Reg. nº 0132/16 (OPA da Arteris): a manutenção da exigência da… | cvm-col-20160308-d0132 | fichas/colegiado/2016-06.md |
+| RJ2013/11877 | 2016-03-02 | — | O Colegiado deu continuidade à discussão da minuta de instrução sobre oferta pública com dispensa de registro por plataformas eletrônicas… | cvm-col-20160302-d9637 | fichas/colegiado/2016-06.md |
+| RJ2015/5511 | 2016-03-01 | conhecimento | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2015/5511. | cvm-col-20160301-d9705 | fichas/colegiado/2016-06.md |
+| RJ2015/5513 | 2016-03-01 | conhecimento | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2015/5513. | cvm-col-20160301-d9695 | fichas/colegiado/2016-06.md |
+| 03/2016; RJ2014/7745 | 2016-03-01 | deferido | O Colegiado deferiu o pedido da ANBIMA e prorrogou até 04.04.2016 o prazo para envio de sugestões e comentários à minuta de instrução sobre… | cvm-col-20160301-d1239 | fichas/colegiado/2016-06.md |
+| RJ2015/10970 | 2016-03-01 | outro | O Colegiado aprovou a edição de Deliberação, proposta pela SRE, alertando o mercado de que a Lufimma Incorporações Ltda. e seus três… | cvm-col-20160301-d0133 | fichas/colegiado/2016-06.md |
+| 19957.001060/2016-44 | 2016-03-01 | nao-provido | O Colegiado negou provimento ao recurso da ofertante, controladora da Arteris S.A., contra exigência da SRE em OPA para conversão de… | cvm-col-20160301-d0132 | fichas/colegiado/2016-06.md |
+| RJ2016/1503 | 2016-03-01 | nao-provido | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2016/1503. | cvm-col-20160301-d0131 | fichas/colegiado/2016-06.md |
+| RJ2016/1558 | 2016-03-01 | nao-provido | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2016/1558. | cvm-col-20160301-d0130 | fichas/colegiado/2016-06.md |
+| RJ2016/1292 | 2016-03-01 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2016/1292. | cvm-col-20160301-d0129 | fichas/colegiado/2016-06.md |
+| 19957.002501/2015-44 | 2016-03-01 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.002501/2015-44. | cvm-col-20160301-d0128 | fichas/colegiado/2016-06.md |
+| 19957.002502/2015-99 | 2016-03-01 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.002502/2015-99. | cvm-col-20160301-d0127 | fichas/colegiado/2016-06.md |
+| 19957.003637/2015-71 | 2016-03-01 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.003637/2015-71. | cvm-col-20160301-d0126 | fichas/colegiado/2016-06.md |
+| RJ2015/1322; RJ2015/1324 | 2016-03-01 | nao-provido | Recursos em processos de mecanismo de ressarcimento de prejuízos. Proc. s. RJ2015/1322 e RJ2015/1324. | cvm-col-20160301-d0121 | fichas/colegiado/2016-06.md |
+| 19957.003166/2015-00 | 2016-03-01 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.003166/2015-00. | cvm-col-20160301-d0119 | fichas/colegiado/2016-06.md |
+| 19957.002876/2015-12 | 2016-03-01 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.002876/2015-12. | cvm-col-20160301-d0118 | fichas/colegiado/2016-06.md |
+| 19957.002503/2015-33 | 2016-03-01 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.002503/2015-33. | cvm-col-20160301-d0117 | fichas/colegiado/2016-06.md |
+| 19957.003436/2015-74 | 2016-03-01 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.003436/2015-74. | cvm-col-20160301-d0116 | fichas/colegiado/2016-06.md |
+| 19957.003225/2015-31 | 2016-03-01 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.003225/2015-31. | cvm-col-20160301-d0115 | fichas/colegiado/2016-05.md |
+| RJ2015/12607 | 2016-03-01 | nao-provido | O Colegiado negou provimento ao recurso de pessoa natural contra indeferimento de credenciamento como administrador de carteira… | cvm-col-20160301-d0114 | fichas/colegiado/2016-05.md |
+| RJ2016/1322 | 2016-03-01 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2016/1322. | cvm-col-20160301-d0113 | fichas/colegiado/2016-05.md |
+| RJ2016/0641 | 2016-03-01 | nao-provido | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2016/0641. | cvm-col-20160301-d0109 | fichas/colegiado/2016-05.md |
+| RJ2016/0613 | 2016-03-01 | nao-provido | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2016/0613. | cvm-col-20160301-d0108 | fichas/colegiado/2016-05.md |
+| RJ2016/0601 | 2016-03-01 | nao-provido | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2016/0601. | cvm-col-20160301-d0107 | fichas/colegiado/2016-05.md |
+| RJ2016/0459 | 2016-03-01 | nao-provido | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2016/0459. | cvm-col-20160301-d0106 | fichas/colegiado/2016-05.md |
+| RJ2016/1601 | 2016-03-01 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2016/1601. | cvm-col-20160301-d0105 | fichas/colegiado/2016-05.md |
+| RJ2016/1458 | 2016-03-01 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2016/1458. | cvm-col-20160301-d0104 | fichas/colegiado/2016-05.md |
+| RJ2016/1379 | 2016-03-01 | parcial | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2016/1379. | cvm-col-20160301-d0103 | fichas/colegiado/2016-05.md |
+| RJ2016/1355 | 2016-03-01 | parcial | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2016/1355. | cvm-col-20160301-d0102 | fichas/colegiado/2016-05.md |
+| RJ2016/1353 | 2016-03-01 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2016/1353. | cvm-col-20160301-d0101 | fichas/colegiado/2016-05.md |
+| RJ2016/1352 | 2016-03-01 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2016/1352. | cvm-col-20160301-d0100 | fichas/colegiado/2016-05.md |
+| RJ2016/1338 | 2016-03-01 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2016/1338. | cvm-col-20160301-d0099 | fichas/colegiado/2016-05.md |
+| RJ2016/1337 | 2016-03-01 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2016/1337. | cvm-col-20160301-d0098 | fichas/colegiado/2016-05.md |
+| RJ2016/1336 | 2016-03-01 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2016/1336. | cvm-col-20160301-d0097 | fichas/colegiado/2016-05.md |
+| RJ2016/1281 | 2016-03-01 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2016/1281. | cvm-col-20160301-d0096 | fichas/colegiado/2016-05.md |
+| RJ2013/11877 | 2016-02-24 | — | O Colegiado iniciou a discussão da minuta de instrução sobre oferta pública de distribuição com dispensa de registro por plataformas… | cvm-col-20160224-d9637 | fichas/colegiado/2016-05.md |
+| RJ2015/12268 | 2016-02-23 | outro | O Colegiado aprovou o texto do Memorando de Entendimento entre a CVM e a OECD que cria o Centro Latino-Americano de Educação Financeira e… | cvm-col-20160223-d0122 | fichas/colegiado/2016-05.md |
+| 047/2015 | 2016-02-23 | outro | O Colegiado, ao receber os resultados do Grupo Especial de Colaboração sobre alternativas de assistência médica aos servidores da CVM… | cvm-col-20160223-d0110 | fichas/colegiado/2016-05.md |
+| RJ2015/13625; RJ2015/13626; RJ2015/13627; RJ2015/13628; RJ2015/13629; RJ2015/13630; RJ2015/13631; RJ2015/13632; RJ2015/13633; RJ2015/13634; RJ2015/13635; RJ2015/13636 | 2016-02-23 | nao-provido | Recursos contra decisões da SIN em processos de multa cominatória. Proc. s. RJ2015/13625, RJ2015/13626, RJ2015/13627, RJ2015/13628… | cvm-col-20160223-d0090 | fichas/colegiado/2016-05.md |
+| SP2015/0122 | 2016-02-23 | deferido | O Colegiado concedeu à BRIX Energia e Futuros S.A. autorização para atuar como entidade administradora de mercado organizado e para operar… | cvm-col-20160223-d0077 | fichas/colegiado/2016-05.md |
+| RJ2014/9501 | 2016-02-16 | outro | O Colegiado determinou o arquivamento do processo de cumprimento de Termo de Compromisso (PAS RJ2014/9501), por considerar, conforme… | cvm-col-20160216-d9772 | fichas/colegiado/2016-05.md |
+| RJ2014/8516 | 2016-02-16 | provido | O Colegiado, acompanhando o voto do diretor relator, concedeu dispensa do art. 39, §2º, da ICVM 356/2001 (vedação à aquisição de créditos… | cvm-col-20160216-d9460 | fichas/colegiado/2016-04.md |
+| RJ2013/7137 | 2016-02-16 | conhecimento | O Colegiado, acompanhando o voto do diretor relator, não conheceu do recurso da Gaia Securitizadora S.A. contra indeferimento de registro… | cvm-col-20160216-d8747 | fichas/colegiado/2016-04.md |
+| RJ2016/1329 | 2016-02-16 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2016/1329. | cvm-col-20160216-d0095 | fichas/colegiado/2016-04.md |
+| RJ2016/1304 | 2016-02-16 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2016/1304. | cvm-col-20160216-d0094 | fichas/colegiado/2016-04.md |
+| RJ2016/1269 | 2016-02-16 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2016/1269. | cvm-col-20160216-d0093 | fichas/colegiado/2016-04.md |
+| RJ2015/13638; RJ2015/13639; RJ2015/13640; RJ2015/13641 | 2016-02-16 | nao-provido | Recursos contra decisões da SIN em processos de multa cominatória. Proc. s. RJ2015/13638, RJ2015/13639, RJ2015/13640 e RJ2015/13641. | cvm-col-20160216-d0092 | fichas/colegiado/2016-04.md |
+| RJ2015/13637 | 2016-02-16 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2015/13637. | cvm-col-20160216-d0091 | fichas/colegiado/2016-04.md |
+| RJ2015/13516; RJ2015/13517; RJ2015/13518 | 2016-02-16 | nao-provido | Recursos contra decisões da SIN em processos de multa cominatória. Proc. s. RJ2015/13516, RJ2015/13517 e RJ2015/13518. | cvm-col-20160216-d0089 | fichas/colegiado/2016-04.md |
+| RJ2015/12942 | 2016-02-16 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2015/12942. | cvm-col-20160216-d0088 | fichas/colegiado/2016-04.md |
+| RJ2015/12682 | 2016-02-16 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2015/12682. | cvm-col-20160216-d0087 | fichas/colegiado/2016-04.md |
+| RJ2015/12681 | 2016-02-16 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2015/12681. | cvm-col-20160216-d0086 | fichas/colegiado/2016-04.md |
+| RJ2015/12679; RJ2015/12680 | 2016-02-16 | nao-provido | Recursos contra decisões da SIN em processos de multa cominatória. Proc. s. RJ2015/12679 e RJ2015/12680. | cvm-col-20160216-d0085 | fichas/colegiado/2016-04.md |
+| RJ2015/12678 | 2016-02-16 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2015/12678. | cvm-col-20160216-d0084 | fichas/colegiado/2016-04.md |
+| RJ2015/12327 | 2016-02-16 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2015/12327. | cvm-col-20160216-d0083 | fichas/colegiado/2016-04.md |
+| RJ2013/12530 | 2016-02-16 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12530. | cvm-col-20160216-d0080 | fichas/colegiado/2016-04.md |
+| RJ2013/12424 | 2016-02-16 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12424. | cvm-col-20160216-d0079 | fichas/colegiado/2016-04.md |
+| RJ2015/1321 | 2016-02-16 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2015/1321. | cvm-col-20160216-d0062 | fichas/colegiado/2016-04.md |
+| RJ2015/1289 | 2016-02-16 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2015/1289. | cvm-col-20160216-d0061 | fichas/colegiado/2016-04.md |
+| RJ2014/13277 | 2016-02-16 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2014/13277. | cvm-col-20160216-d0060 | fichas/colegiado/2016-04.md |
+| RJ2014/13157 | 2016-02-16 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2014/13157. | cvm-col-20160216-d0059 | fichas/colegiado/2016-04.md |
+| RJ2015/12354 | 2016-02-11 | nao-provido | Pedido de reconsideração de decisão do colegiado. Proc. RJ2015/12354. | cvm-col-20160211-d9955 | fichas/colegiado/2016-04.md |
+| RJ2013/0267 | 2016-02-11 | parcial | Pedido de reconsideração de decisão do colegiado. Proc. RJ2013/0267. | cvm-col-20160211-d8723 | fichas/colegiado/2016-04.md |
+| RJ2010/10742 | 2016-02-11 | conhecimento | O Colegiado não conheceu do recurso da Agrenco Limited contra o arquivamento, pela SEP, de reclamação da acionista majoritária sobre… | cvm-col-20160211-d8627 | fichas/colegiado/2016-04.md |
+| 19957.000769/2016-22 | 2016-02-11 | outro | O Colegiado aprovou minuta de portaria da SAD que altera o art. 48 da Portaria/CVM/PTE/Nº 203/2015, sobre a gestão de desempenho da CVM… | cvm-col-20160211-d0577 | fichas/colegiado/2016-04.md |
+| SP2015/0122 | 2016-02-11 | — | Pedido da BRIX Energia e Futuros S.A. de autorização para funcionar como entidade administradora de mercado organizado e para o… | cvm-col-20160211-d0077 | fichas/colegiado/2016-04.md |
+| RJ2015/13322 | 2016-02-11 | nao-provido | O Colegiado, acompanhando o Memorando nº 6/2016-CVM/SIN/GIR, negou provimento por unanimidade ao recurso contra o indeferimento de… | cvm-col-20160211-d0076 | fichas/colegiado/2016-03.md |
+| 244/1998; RJ2015/12035 | 2016-02-11 | deferido | O Colegiado deferiu o pedido de credenciamento da IRB Brasil Resseguros S.A. como administradora de carteiras, com base na Deliberação CVM… | cvm-col-20160211-d0075 | fichas/colegiado/2016-03.md |
+| RJ2016/1271 | 2016-02-11 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2016/1271. | cvm-col-20160211-d0074 | fichas/colegiado/2016-03.md |
+| RJ2016/1270 | 2016-02-11 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2016/1270. | cvm-col-20160211-d0073 | fichas/colegiado/2016-03.md |
+| RJ2016/1268 | 2016-02-11 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2016/1268. | cvm-col-20160211-d0072 | fichas/colegiado/2016-03.md |
+| RJ2016/1267 | 2016-02-11 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2016/1267. | cvm-col-20160211-d0071 | fichas/colegiado/2016-03.md |
+| RJ2016/1266 | 2016-02-11 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2016/1266. | cvm-col-20160211-d0070 | fichas/colegiado/2016-03.md |
+| RJ2016/1265 | 2016-02-11 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2016/1265. | cvm-col-20160211-d0069 | fichas/colegiado/2016-03.md |
+| RJ2016/1264 | 2016-02-11 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2016/1264. | cvm-col-20160211-d0068 | fichas/colegiado/2016-03.md |
+| RJ2016/1263 | 2016-02-11 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2016/1263. | cvm-col-20160211-d0067 | fichas/colegiado/2016-03.md |
+| RJ2016/0810 | 2016-02-11 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2016/0810. | cvm-col-20160211-d0066 | fichas/colegiado/2016-03.md |
+| RJ2016/0807 | 2016-02-11 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2016/0807. | cvm-col-20160211-d0065 | fichas/colegiado/2016-03.md |
+| RJ2016/0778 | 2016-02-11 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2016/0778. | cvm-col-20160211-d0064 | fichas/colegiado/2016-03.md |
+| RJ2016/0777 | 2016-02-11 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2016/0777. | cvm-col-20160211-d0063 | fichas/colegiado/2016-03.md |
+| RJ2013/10745 | 2016-02-02 | outro | O Colegiado determinou o arquivamento do processo RJ2013/10745 após a SAD atestar que os pagamentos do termo de compromisso firmado pela… | cvm-col-20160202-d9765 | fichas/colegiado/2016-03.md |
+| RJ2013/0301 | 2016-02-02 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2013/0301. | cvm-col-20160202-d8905 | fichas/colegiado/2016-03.md |
+| RJ2015/12954 | 2016-02-02 | nao-provido | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2015/12954. | cvm-col-20160202-d2016002-d0025 | fichas/colegiado/2016-03.md |
+| 19957.003211/2015-18 | 2016-02-02 | deferido | O Colegiado aprovou o plano de cancelamento do Programa de BDR Nível III da LATAM Airlines Group S.A., pedido em conjunto com a Itaú… | cvm-col-20160202-d043 | fichas/colegiado/2016-03.md |
+| 19957.000400/2016-10 | 2016-02-02 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.000400/2016-10. | cvm-col-20160202-d0042 | fichas/colegiado/2016-03.md |
+| 19957.004141/2015-15 | 2016-02-02 | nao-provido | Recursos contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.004141/2015-15. | cvm-col-20160202-d0041 | fichas/colegiado/2016-03.md |
+| 19957.000363/2016-40 | 2016-02-02 | nao-provido | O Colegiado, com base no Memorando nº 4/2016-CVM/SIN/GIF, indeferiu recurso da BNY Mellon Serviços Financeiros DTVM S.A. e manteve multa de… | cvm-col-20160202-d0040 | fichas/colegiado/2016-03.md |
+| 19957.004148/2015-37 | 2016-02-02 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004148/2015-37. | cvm-col-20160202-d0039 | fichas/colegiado/2016-03.md |
+| 19957.004147/2015-92 | 2016-02-02 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004147/2015-92. | cvm-col-20160202-d0038 | fichas/colegiado/2016-03.md |
+| 19957.002720/2015-23 | 2016-02-02 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.002720/2015-23. | cvm-col-20160202-d0037 | fichas/colegiado/2016-03.md |
+| 19957.000530/2016-52 | 2016-02-02 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.000530/2016-52. | cvm-col-20160202-d0036 | fichas/colegiado/2016-02.md |
+| 19957.002964/2015-14 | 2016-02-02 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.002964/2015-14. | cvm-col-20160202-d0035 | fichas/colegiado/2016-02.md |
+| RJ2015/7879 | 2016-02-02 | outro | O Colegiado aprovou a minuta de convênio de cooperação acadêmica e técnico-científica entre a CVM e a PUC-Rio, para intercâmbio de… | cvm-col-20160202-d0033 | fichas/colegiado/2016-02.md |
+| RJ2015/9609 | 2016-02-02 | nao-provido | O Colegiado negou provimento ao recurso contra decisão da SIN que indeferiu credenciamento como administrador de carteira, acompanhando a… | cvm-col-20160202-d0032 | fichas/colegiado/2016-02.md |
+| RJ2015/1263 | 2016-02-02 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2015/1263. | cvm-col-20160202-d0031 | fichas/colegiado/2016-02.md |
+| RJ2016/0103 | 2016-02-02 | nao-provido | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2016/0103. | cvm-col-20160202-d0030 | fichas/colegiado/2016-02.md |
+| RJ2015/13593 | 2016-02-02 | nao-provido | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2015/13593. | cvm-col-20160202-d0029 | fichas/colegiado/2016-02.md |
+| RJ2015/13494 | 2016-02-02 | nao-provido | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2015/13494. | cvm-col-20160202-d0028 | fichas/colegiado/2016-02.md |
+| RJ2015/13050 | 2016-02-02 | nao-provido | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2015/13050. | cvm-col-20160202-d0027 | fichas/colegiado/2016-02.md |
+| RJ2015/13049 | 2016-02-02 | nao-provido | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2015/13049. | cvm-col-20160202-d0026 | fichas/colegiado/2016-02.md |
+| RJ2015/9137 | 2016-02-02 | deferido | O Colegiado deferiu o pedido de dispensa formulado pela FRAM Capital DTVM para a oferta de cotas mezanino e subordinadas do Capital Ativo… | cvm-col-20160202-d0024 | fichas/colegiado/2016-02.md |
+| RJ2015/13042 | 2016-02-02 | nao-provido | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2015/13042. | cvm-col-20160202-d0020 | fichas/colegiado/2016-02.md |
+| RJ2015/13007 | 2016-02-02 | nao-provido | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2015/13007. | cvm-col-20160202-d0019 | fichas/colegiado/2016-02.md |
+| RJ2015/12992 | 2016-02-02 | nao-provido | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2015/12992. | cvm-col-20160202-d0018 | fichas/colegiado/2016-02.md |
+| RJ2015/12961 | 2016-02-02 | nao-provido | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2015/12961. | cvm-col-20160202-d0017 | fichas/colegiado/2016-02.md |
+| RJ2015/12948 | 2016-02-02 | nao-provido | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2015/12948. | cvm-col-20160202-d0016 | fichas/colegiado/2016-02.md |
+| RJ2015/12946 | 2016-02-02 | nao-provido | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2015/12946. | cvm-col-20160202-d0015 | fichas/colegiado/2016-02.md |
+| RJ2015/12145 | 2016-02-02 | nao-provido | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2015/12145. | cvm-col-20160202-d0014 | fichas/colegiado/2016-02.md |
+| 505/2011; RJ2015/6254 | 2016-01-27 | outro | O Colegiado aprovou para audiência pública, pelo prazo de 30 dias, minuta que altera a Instrução CVM 505/2011 quanto à participação de… | cvm-col-20160127-d5529 | fichas/colegiado/2016-02.md |
+| — | 2016-01-27 | deferido | O Colegiado deferiu, excepcionalmente, pedido da ANBIMA e prorrogou até 15.02.2016 o prazo para envio dos documentos mensais dos fundos de… | cvm-col-20160127-d5474 | fichas/colegiado/2016-02.md |
+| 543/2013; 555/2014; RJ2014/7745 | 2016-01-27 | outro | O Colegiado aprovou, para audiência pública pelo prazo de 30 dias, minuta de Instrução que altera o art. 3º da Instrução CVM 543/2013… | cvm-col-20160127-d1239 | fichas/colegiado/2016-02.md |
+| 472/2008; RJ2015/13111 | 2016-01-27 | outro | O Colegiado aprovou, para audiência pública de 30 dias, minuta de Instrução que altera a Instrução CVM 472/2008 (FII) para exigir aprovação… | cvm-col-20160127-d084 | fichas/colegiado/2016-02.md |
+| RJ2015/3234 | 2016-01-19 | nao-provido | O Colegiado indeferiu o recurso da Companhia Providência contra decisão da SEP, acompanhando o voto do relator. Custos de assessores da… | cvm-col-20160119-d9648 | fichas/colegiado/2016-01.md |
+| RJ2015/13120 | 2016-01-19 | nao-provido | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2015/13120. | cvm-col-20160119-d0012 | fichas/colegiado/2016-01.md |
+| RJ2015/13072 | 2016-01-19 | nao-provido | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2015/13072. | cvm-col-20160119-d0011 | fichas/colegiado/2016-01.md |
+| RJ2015/12944 | 2016-01-19 | nao-provido | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2015/12944. | cvm-col-20160119-d0010 | fichas/colegiado/2016-01.md |
+| RJ2015/12908 | 2016-01-19 | nao-provido | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2015/12908. | cvm-col-20160119-d0009 | fichas/colegiado/2016-01.md |
+| RJ2015/12855 | 2016-01-19 | nao-provido | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2015/12855. | cvm-col-20160119-d0008 | fichas/colegiado/2016-01.md |
+| RJ2015/12853 | 2016-01-19 | nao-provido | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2015/12853. | cvm-col-20160119-d0007 | fichas/colegiado/2016-01.md |
+| RJ2015/12645 | 2016-01-19 | nao-provido | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2015/12645. | cvm-col-20160119-d0006 | fichas/colegiado/2016-01.md |
+| RJ2015/12293 | 2016-01-19 | nao-provido | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2015/12293. | cvm-col-20160119-d0005 | fichas/colegiado/2016-01.md |
+| RJ2015/12695 | 2016-01-12 | outro | O Colegiado, por maioria, vencido um diretor, condicionou o cancelamento de registro do Banco Daycoval S.A. (OPA unificada) às hipóteses do… | cvm-col-20160112-d9990 | fichas/colegiado/2016-01.md |
+| 19957.003205/2015-61 | 2016-01-12 | outro | O Colegiado aprovou o Plano Anual de Atividades de Auditoria Interna (PAINT/2016), elaborado com base na Instrução Normativa SFC nº 01/2007… | cvm-col-20160112-d5821 | fichas/colegiado/2016-01.md |
+| — | 2016-01-12 | outro | O Colegiado aprovou a edição de minuta de Deliberação, apresentada pela Assessoria de Comunicação Social, que disciplina a reprodução e… | cvm-col-20160112-d4655 | fichas/colegiado/2016-01.md |
+| 19957.000991/2015-44 | 2016-01-12 | provido | O Colegiado proveu o recurso do BNDES contra o cancelamento de seu registro como custodiante, acompanhando a SMI. Concedeu dispensa do art… | cvm-col-20160112-d0004 | fichas/colegiado/2016-01.md |
+| RJ2015/12852 | 2016-01-12 | nao-provido | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2015/12852. | cvm-col-20160112-d0003 | fichas/colegiado/2016-01.md |
+| RJ2014/3334 | 2016-01-05 | outro | O Colegiado decidiu manter, em definitivo, o novo horário de atendimento ao público e a flexibilização da jornada dos servidores lotados na… | cvm-col-20160105-d9429 | fichas/colegiado/2016-01.md |
+| RJ2015/12957 | 2016-01-05 | nao-provido | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2015/12957. | cvm-col-20160105-d10008 | fichas/colegiado/2016-01.md |
+| RJ2015/12907 | 2016-01-05 | nao-provido | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2015/12907. | cvm-col-20160105-d10007 | fichas/colegiado/2016-01.md |
+| RJ2015/12854 | 2016-01-05 | nao-provido | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2015/12854. | cvm-col-20160105-d10006 | fichas/colegiado/2016-01.md |
+| RJ2015/12672 | 2016-01-05 | nao-provido | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2015/12672. | cvm-col-20160105-d10005 | fichas/colegiado/2016-01.md |
+| RJ2015/12565 | 2016-01-05 | nao-provido | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2015/12565. | cvm-col-20160105-d10004 | fichas/colegiado/2016-01.md |
+| RJ2015/12528 | 2016-01-05 | nao-provido | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2015/12528. | cvm-col-20160105-d10003 | fichas/colegiado/2016-01.md |
 
 Fim do subíndice.

@@ -11,14 +11,14 @@ Norma: [cvm/resolucoes/0094.md](../../normas/cvm/resolucoes/0094.md) (texto vige
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 8º | pas | 09/1997 | 2006-12-13 | parcial | cvm-pas-09-1997 | fichas/pas/2006-14.md |
+| art. 8º | pas | 09/1997 | 2006-12-13 | parcial | cvm-pas-09-1997 | fichas/pas/2006-27.md |
 
 ## Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.007976/2020-94 | 2026-09-08 | parcial | cvm-pas-19957-007976-2020-94 | fichas/pas/2026-03.md |
-| pas | 19957.006858/2019-25 | 2024-10-15 | parcial | cvm-pas-19957-006858-2019-25 | fichas/pas/2024-08.md |
+| pas | 19957.007976/2020-94 | 2026-09-08 | parcial | cvm-pas-19957-007976-2020-94 | fichas/pas/2026-04.md |
+| pas | 19957.006858/2019-25 | 2024-10-15 | parcial | cvm-pas-19957-006858-2019-25 | fichas/pas/2024-16.md |
 | decisao-colegiado | 19957.003053/2023-14 | 2023-06-27 | deferido | cvm-col-20230627-d2875 | fichas/colegiado/2023-07.md |
 | decisao-colegiado | 19957.004657/2021-16 | 2023-02-14 | conhecimento | cvm-col-20230214-d2801 | fichas/colegiado/2023-03.md |
 | decisao-colegiado | 19957.015702/2022-31 | 2023-01-04 | deferido | cvm-col-20230104-d2777 | fichas/colegiado/2023-01.md |

@@ -19,7 +19,7 @@ Norma: [cmn/resolucoes/3427.md](../../normas/cmn/resolucoes/3427.md) (texto vige
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.001621/2020-91 | 2023-09-27 | absolvicao | cvm-pas-19957-001621-2020-91 | fichas/pas/2023-06.md |
+| pas | 19957.001621/2020-91 | 2023-09-27 | absolvicao | cvm-pas-19957-001621-2020-91 | fichas/pas/2023-11.md |
 | decisao-colegiado | 19957.007121/2018-49 | 2018-12-04 | conhecimento | cvm-col-20181204-d1163 | fichas/colegiado/2018-20.md |
 | decisao-colegiado | 19957.010832/2017-10 | 2018-08-28 | provido | cvm-col-20180828-d1132 | fichas/colegiado/2018-15.md |
 | decisao-colegiado | 19957.002928/2016-23 | 2017-10-17 | conhecimento | cvm-col-20171017-d0302 | fichas/colegiado/2017-17.md |
@@ -28,7 +28,7 @@ Norma: [cmn/resolucoes/3427.md](../../normas/cmn/resolucoes/3427.md) (texto vige
 | decisao-colegiado | RJ2010/13699 | 2011-05-31 | nao-provido | cvm-col-20110531-d02 | fichas/colegiado/2011-11.md |
 | decisao-colegiado | RJ2008/9197 | 2008-10-28 | nao-provido | cvm-col-20081028-d01 | fichas/colegiado/2008-24.md |
 | decisao-colegiado | RJ2007/10666; RJ2007/12022; RJ2007/12035; RJ2007/12117; RJ2007/12118; RJ2007/12133; RJ2007/12222; RJ2007/12373; RJ2007/12850 | 2007-10-30 | deferido | cvm-col-20071030-d20 | fichas/colegiado/2007-21.md |
-| pas | 07/2003 | 2007-07-04 | parcial | cvm-pas-07-2003 | fichas/pas/2007-04.md |
-| pas | RJ2006/6652 | 2007-06-20 | absolvicao | cvm-pas-rj2006-6652 | fichas/pas/2007-04.md |
+| pas | 07/2003 | 2007-07-04 | parcial | cvm-pas-07-2003 | fichas/pas/2007-08.md |
+| pas | RJ2006/6652 | 2007-06-20 | absolvicao | cvm-pas-rj2006-6652 | fichas/pas/2007-08.md |
 
 Fim do subíndice.

@@ -61,7 +61,7 @@ Norma: [cvm/resolucoes/0029.md](../../normas/cvm/resolucoes/0029.md) (texto vige
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.013886/2022-02 | 2025-11-25 | parcial | cvm-pas-19957-013886-2022-02 | fichas/pas/2025-04.md |
+| pas | 19957.013886/2022-02 | 2025-11-25 | parcial | cvm-pas-19957-013886-2022-02 | fichas/pas/2025-09.md |
 | pas | 19957.012778/2022-12 | 2025-02-11 | parcial | cvm-pas-19957-012778-2022-12 | fichas/pas/2025-01.md |
 | decisao-colegiado | 19957.017962/2024-11 | 2024-12-10 | indeferido | cvm-col-20241210-d3190 | fichas/colegiado/2024-14.md |
 | decisao-colegiado | 19957.004843/2022-28; 19957.001004/2022-58 | 2024-06-04 | nao-provido | cvm-col-20240604-d3076 | fichas/colegiado/2024-06.md |
@@ -71,6 +71,6 @@ Norma: [cvm/resolucoes/0029.md](../../normas/cvm/resolucoes/0029.md) (texto vige
 | decisao-colegiado | 19957.004670/2021-67 | 2022-03-04 | deferido | cvm-col-20220304-d2498 | fichas/colegiado/2022-02.md |
 | decisao-colegiado | — | 2021-06-23 | outro | cvm-col-20210623-d1472 | fichas/colegiado/2021-10.md |
 | decisao-colegiado | 19957.003641/2021-88 | 2021-05-11 | outro | cvm-col-20210511-d2162 | fichas/colegiado/2021-08.md |
-| pas | 19957.005981/2016-86; RJ2016/7197 | 2019-11-19 | absolvicao | cvm-pas-19957-005981-2016-86 | fichas/pas/2019-10.md |
+| pas | 19957.005981/2016-86; RJ2016/7197 | 2019-11-19 | absolvicao | cvm-pas-19957-005981-2016-86 | fichas/pas/2019-19.md |
 
 Fim do subíndice.

@@ -69,9 +69,9 @@ Norma: [cvm/resolucoes/0088.md](../../normas/cvm/resolucoes/0088.md) (texto vige
 | termo-compromisso | 19957.002746/2023-81 | 2024-09-03 | aceito | cvm-col-20240903-d3127 | fichas/tc/2024-05.md |
 | decisao-colegiado | 19957.004968/2021-77 | 2023-12-05 | deferido | cvm-col-20231205-d2393 | fichas/colegiado/2023-13.md |
 | decisao-colegiado | — | 2023-11-29 | outro | cvm-col-20231129-d2976 | fichas/colegiado/2023-13.md |
-| pas | 19957.001621/2020-91 | 2023-09-27 | absolvicao | cvm-pas-19957-001621-2020-91 | fichas/pas/2023-06.md |
+| pas | 19957.001621/2020-91 | 2023-09-27 | absolvicao | cvm-pas-19957-001621-2020-91 | fichas/pas/2023-11.md |
 | decisao-colegiado | 873/2021; 19957.003348/2021-11 | 2022-11-29 | indeferido | cvm-col-20221129-d2728 | fichas/colegiado/2022-16.md |
-| acordao-crsfn | 19957.003642/2020-41; RJ2020/04613 | 2022-10-10 | condenacao | crsfn-10372-100092-2022-76 | fichas/crsfn/2022-06.md |
+| acordao-crsfn | 19957.003642/2020-41; RJ2020/04613 | 2022-10-10 | condenacao | crsfn-10372-100092-2022-76 | fichas/crsfn/2022-07.md |
 | decisao-colegiado | 02/2020; 588/2017; 19957.010197/2019-32 | 2022-04-13 | outro | cvm-col-20220413-d1737 | fichas/colegiado/2022-06.md |
 | decisao-colegiado | RJ2011/8667 | 2012-05-29 | nao-provido | cvm-col-20120529-d04 | fichas/colegiado/2012-10.md |
 

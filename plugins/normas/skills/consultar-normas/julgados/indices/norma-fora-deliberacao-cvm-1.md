@@ -24,21 +24,21 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.004588/2020-51 | 2024-07-09 | condenacao | cvm-pas-19957-004588-2020-51 | fichas/pas/2024-05.md |
-| pas | 19957.002220/2021-30 | 2024-07-09 | condenacao | cvm-pas-19957-002220-2021-30 | fichas/pas/2024-05.md |
-| acordao-crsfn | 19957.009486/2017-27; RJ2017/4719 | 2022-06-07 | condenacao | crsfn-10372-100168-2021-82 | fichas/crsfn/2022-03.md |
+| pas | 19957.004588/2020-51 | 2024-07-09 | condenacao | cvm-pas-19957-004588-2020-51 | fichas/pas/2024-10.md |
+| pas | 19957.002220/2021-30 | 2024-07-09 | condenacao | cvm-pas-19957-002220-2021-30 | fichas/pas/2024-10.md |
+| acordao-crsfn | 19957.009486/2017-27; RJ2017/4719 | 2022-06-07 | condenacao | crsfn-10372-100168-2021-82 | fichas/crsfn/2022-04.md |
 | decisao-colegiado | 19957.011044/2019-11 | 2020-08-05 | outro | cvm-col-20200805-d1738 | fichas/colegiado/2020-12.md |
 | acordao-crsfn | RJ2017/3091 | 2020-03-11 | outro | crsfn-10372-100242-2019-46 | fichas/crsfn/2020-02.md |
 | pas | RJ2012/3110 | 2017-02-14 | parcial | cvm-pas-rj2012-3110 | fichas/pas/2017-01.md |
 | decisao-colegiado | RJ2014/13918 | 2014-12-17 | indeferido | cvm-col-20141217-d01-r2 | fichas/colegiado/2014-27.md |
 | acordao-crsfn | RJ-2009-2172 | 2014-04-15 | condenacao | crsfn-13097 | fichas/crsfn/2014-02.md |
 | decisao-colegiado | 358/2002; RJ2013/3945 | 2013-10-22 | nao-provido | cvm-col-20131022-d01 | fichas/colegiado/2013-20.md |
-| pas | RJ2012/7471 | 2013-05-28 | condenacao | cvm-pas-rj2012-7471 | fichas/pas/2013-03.md |
+| pas | RJ2012/7471 | 2013-05-28 | condenacao | cvm-pas-rj2012-7471 | fichas/pas/2013-06.md |
 | decisao-colegiado | 358/2002; RJ2013/3945 | 2013-05-07 | nao-provido | cvm-col-20130507-d05 | fichas/colegiado/2013-10.md |
 | decisao-colegiado | RJ2011/8632 | 2011-10-04 | parcial | cvm-col-20111004-d10 | fichas/colegiado/2011-21.md |
 | decisao-colegiado | RJ2011/8631 | 2011-10-04 | parcial | cvm-col-20111004-d09 | fichas/colegiado/2011-21.md |
 | decisao-colegiado | RJ2010/14216 | 2011-05-24 | nao-provido | cvm-col-20110524-d06 | fichas/colegiado/2011-11.md |
-| pas | RJ2009/2172 | 2010-05-18 | condenacao | cvm-pas-rj2009-2172 | fichas/pas/2010-02.md |
+| pas | RJ2009/2172 | 2010-05-18 | condenacao | cvm-pas-rj2009-2172 | fichas/pas/2010-03.md |
 | decisao-colegiado | RJ2001/12336 | 2010-03-09 | parcial | cvm-col-20100309-d20 | fichas/colegiado/2010-08.md |
 | decisao-colegiado | RJ2008/1794 | 2008-06-24 | outro | cvm-col-20080624-d02 | fichas/colegiado/2008-14.md |
 | decisao-colegiado | RJ2007/2035 | 2007-08-14 | outro | cvm-col-20070814-d03 | fichas/colegiado/2007-15.md |

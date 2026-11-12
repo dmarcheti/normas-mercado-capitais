@@ -27,7 +27,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 122 | pas | 19957.005017/2025-49 | 2026-08-26 | — | cvm-pas-19957-005017-2025-49 | fichas/pas/2026-02.md |
+| art. 122 | pas | 19957.005017/2025-49 | 2026-08-26 | — | cvm-pas-19957-005017-2025-49 | fichas/pas/2026-04.md |
 
 ## Citada sem dispositivo identificado
 

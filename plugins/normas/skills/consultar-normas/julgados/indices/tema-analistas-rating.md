@@ -5,68 +5,68 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
-| Tipo | Processo | Data | Resultado | Id | Ficha |
-|---|---|---|---|---|---|
-| termo-compromisso | 19957.010958/2018-75; 19957.000723/2021-71; 19957.007904/2019-11; 19957.006702/2019-44; 19957.006871/2018-01; 19957.002813/2019-81; 19957.004801/2018-19; 19957.007913/2019-02; 19957.004658/2019-38 | 2023-12-19 | rejeitado | cvm-col-20231219-d2121 | fichas/tc/2023-08.md |
-| termo-compromisso | 19957.008143/2018-26 | 2023-11-07 | outro | cvm-col-20231107-d1497 | fichas/tc/2023-07.md |
-| termo-compromisso | 19957.000723/2021-71 | 2021-10-14 | rejeitado | cvm-col-20211014-d2121 | fichas/tc/2021-07.md |
-| termo-compromisso | 19957.008816/2018-48; 19957.010958/2018-75; 19957.008143/2018-26; 19957.007904/2019-11; 19957.006702/2019-44; 19957.004801/2018-19; 19957.002813/2019-81; 19957.006871/2018-01; 19957.007913/2019-02; 19957.004658/2019-38; 19957.006298/2018-28 | 2021-04-01 | rejeitado | cvm-col-20210401-d2121 | fichas/tc/2021-02.md |
-| decisao-colegiado | 19957.001378/2021-92 | 2021-02-23 | outro | cvm-col-20210223-d2086 | fichas/colegiado/2021-04.md |
-| decisao-colegiado | 19957.007349/2020-53 | 2020-10-27 | outro | cvm-col-20201027-d1962 | fichas/colegiado/2020-18.md |
-| termo-compromisso | 19957.009590/2018-01; 19957.000861/2019-35 | 2020-02-11 | aceito | cvm-col-20200211-d1321-1355 | fichas/tc/2020-01.md |
-| termo-compromisso | 19957.009590/2018-01; 19957.000861/2019-35 | 2019-12-17 | outro | cvm-col-20191217-d1321e1355 | fichas/tc/2019-07.md |
-| decisao-colegiado | 19957.004658/2019-38 | 2019-11-05 | nao-provido | cvm-col-20191105-d1464 | fichas/colegiado/2019-17.md |
-| decisao-colegiado | 19957.004658/2019-38 | 2019-07-09 | outro | cvm-col-20190709-d1464 | fichas/colegiado/2019-11.md |
-| decisao-colegiado | 19957.000861/2019-35 | 2019-04-02 | nao-provido | cvm-col-20190402-d1355 | fichas/colegiado/2019-05.md |
-| decisao-colegiado | 19957.009590/2018-01 | 2019-04-02 | nao-provido | cvm-col-20190402-d1321 | fichas/colegiado/2019-05.md |
-| decisao-colegiado | 19957.000861/2019-35 | 2019-03-26 | — | cvm-col-20190326-d1355 | fichas/colegiado/2019-05.md |
-| decisao-colegiado | 19957.006589/2018-16 | 2018-09-04 | deferido | cvm-col-20180904-d1148 | fichas/colegiado/2018-16.md |
-| decisao-colegiado | 03/2017; 483/2010; 538/2013; 19957.001421/2017-33 | 2018-04-18 | outro | cvm-col-20180418-d4068 | fichas/colegiado/2018-08.md |
-| decisao-colegiado | 521/2012; RJ2011/14772 | 2013-09-24 | outro | cvm-col-20130924-d06 | fichas/colegiado/2013-17.md |
-| decisao-colegiado | RJ2012/5189 | 2013-01-22 | nao-provido | cvm-col-20130122-d05 | fichas/colegiado/2013-02.md |
-| decisao-colegiado | RJ2012/4982 | 2012-07-03 | nao-provido | cvm-col-20120703-d15 | fichas/colegiado/2012-11.md |
-| decisao-colegiado | RJ2012/4543 | 2012-04-26 | deferido | cvm-col-20120426-d01 | fichas/colegiado/2012-08.md |
-| decisao-colegiado | 16/2011; RJ2008/10842 | 2012-04-18 | outro | cvm-col-20120418-d01 | fichas/colegiado/2012-08.md |
-| decisao-colegiado | RJ2008/10842 | 2011-11-16 | — | cvm-col-20111116-d01-r2 | fichas/colegiado/2011-24.md |
-| acordao-crsfn | RJ-2006-3565 | 2011-10-18 | condenacao | crsfn-11429 | fichas/crsfn/2011-03.md |
-| decisao-colegiado | RJ2011/1487 | 2011-07-05 | outro | cvm-col-20110705-d03 | fichas/colegiado/2011-14.md |
-| decisao-colegiado | RJ2011/1487 | 2011-06-21 | — | cvm-col-20110621-d01 | fichas/colegiado/2011-13.md |
-| decisao-colegiado | RJ2011/1487 | 2011-06-14 | — | cvm-col-20110614-d03 | fichas/colegiado/2011-13.md |
-| decisao-colegiado | RJ2008/10842 | 2011-03-02 | — | cvm-col-20110302-d01 | fichas/colegiado/2011-06.md |
-| decisao-colegiado | RJ2010/1108 | 2010-07-06 | deferido | cvm-col-20100706-d08 | fichas/colegiado/2010-15.md |
-| acordao-crsfn | RJ-2006-4321 | 2010-06-08 | condenacao | crsfn-11642 | fichas/crsfn/2010-05.md |
-| acordao-crsfn | RJ-2006-5863 | 2010-01-26 | condenacao | crsfn-11495 | fichas/crsfn/2010-01.md |
-| decisao-colegiado | 03/2008; RJ2006/6136 | 2009-12-22 | outro | cvm-col-20091222-d34 | fichas/colegiado/2009-25.md |
-| pas | RJ2007/14153 | 2009-12-01 | condenacao | cvm-pas-rj2007-14153 | fichas/pas/2009-05.md |
-| termo-compromisso | RJ2009/6515 | 2009-07-28 | aceito | cvm-col-20090728-d06 | fichas/tc/2009-04.md |
-| termo-compromisso | RJ2007/14153 | 2009-03-17 | rejeitado | cvm-col-20090317-d03 | fichas/tc/2009-02.md |
-| decisao-colegiado | 026/2008 | 2008-10-07 | outro | cvm-col-20081007-d08 | fichas/colegiado/2008-22.md |
-| decisao-colegiado | RJ2008/1880 | 2008-07-03 | outro | cvm-col-20080703-d08 | fichas/colegiado/2008-14.md |
-| decisao-colegiado | RJ2006/6311 | 2008-02-14 | nao-provido | cvm-col-20080214-d01 | fichas/colegiado/2008-02.md |
-| decisao-colegiado | — | 2008-01-29 | outro | cvm-col-20080129-d15 | fichas/colegiado/2008-02.md |
-| termo-compromisso | RJ2007/3533 | 2007-08-28 | aceito | cvm-col-20070828-d01 | fichas/tc/2007-05.md |
-| termo-compromisso | RJ2006/6572 | 2007-08-07 | aceito | cvm-col-20070807-d02 | fichas/tc/2007-04.md |
-| pas | RJ2006/4321 | 2007-07-10 | condenacao | cvm-pas-rj2006-4321 | fichas/pas/2007-05.md |
-| pas | RJ2006/1216 | 2007-06-20 | condenacao | cvm-pas-rj2006-1216 | fichas/pas/2007-04.md |
-| termo-compromisso | RJ2006/7209 | 2007-05-29 | aceito | cvm-col-20070529-d03 | fichas/tc/2007-03.md |
-| decisao-colegiado | RJ2006/4651 | 2007-05-15 | parcial | cvm-col-20070515-d03 | fichas/colegiado/2007-07.md |
-| pas | RJ2006/5863 | 2007-04-24 | condenacao | cvm-pas-rj2006-5863 | fichas/pas/2007-03.md |
-| termo-compromisso | RJ2006/4780 | 2007-04-17 | aceito | cvm-col-20070417-d07 | fichas/tc/2007-03.md |
-| decisao-colegiado | RJ2006/0740 | 2007-02-26 | outro | cvm-col-20070226-d06 | fichas/colegiado/2007-03.md |
-| termo-compromisso | RJ2006/4341 | 2007-02-26 | aceito | cvm-col-20070226-d02 | fichas/tc/2007-02.md |
-| pas | RJ2006/3565 | 2007-01-31 | condenacao | cvm-pas-rj2006-3565 | fichas/pas/2007-01.md |
-| termo-compromisso | RJ2006/5674 | 2007-01-23 | outro | cvm-col-20070123-d02 | fichas/tc/2007-01.md |
-| termo-compromisso | RJ2006/3618 | 2006-12-19 | aceito | cvm-col-20061219-d07 | fichas/tc/2006-07.md |
-| termo-compromisso | RJ2006/4780 | 2006-12-05 | rejeitado | cvm-col-20061205-d08 | fichas/tc/2006-07.md |
-| termo-compromisso | RJ2006/3410 | 2006-10-24 | rejeitado | cvm-col-20061024-d07 | fichas/tc/2006-05.md |
-| decisao-colegiado | RJ2006/6311 | 2006-10-17 | outro | cvm-col-20061017-d01 | fichas/colegiado/2006-15.md |
-| decisao-colegiado | RJ2006/4847 | 2006-09-26 | deferido | cvm-col-20060926-d05 | fichas/colegiado/2006-15.md |
-| termo-compromisso | RJ2006/1216 | 2006-08-29 | rejeitado | cvm-col-20060829-d05 | fichas/tc/2006-04.md |
-| decisao-colegiado | RJ2006/4651 | 2006-07-25 | outro | cvm-col-20060725-d10 | fichas/colegiado/2006-12.md |
-| decisao-colegiado | RJ2005/4931 | 2006-01-24 | nao-provido | cvm-col-20060124-d06 | fichas/colegiado/2006-02.md |
-| decisao-colegiado | RJ2004/5589 | 2004-12-07 | outro | cvm-col-20041207-d03 | fichas/colegiado/2004-15.md |
-| decisao-colegiado | — | 2003-09-02 | deferido | cvm-col-20030902-d06 | fichas/colegiado/2003-11.md |
-| decisao-colegiado | — | 2003-04-30 | outro | cvm-col-20030430-d01 | fichas/colegiado/2003-05.md |
-| decisao-colegiado | — | 2002-12-02 | outro | cvm-col-20021202-d03 | fichas/colegiado/2002-26.md |
+| Tipo | Processo | Data | Resultado | Ementa | Id | Ficha |
+|---|---|---|---|---|---|---|
+| termo-compromisso | 19957.010958/2018-75; 19957.000723/2021-71; 19957.007904/2019-11; 19957.006702/2019-44; 19957.006871/2018-01; 19957.002813/2019-81; 19957.004801/2018-19; 19957.007913/2019-02; 19957.004658/2019-38 | 2023-12-19 | rejeitado | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou a proposta global de termo de compromisso da diretora de agência de… | cvm-col-20231219-d2121 | fichas/tc/2023-08.md |
+| termo-compromisso | 19957.008143/2018-26 | 2023-11-07 | outro | O Colegiado, por unanimidade, não conheceu de nova proposta de termo de compromisso de ex-diretora da Argus Classificadora de Risco de… | cvm-col-20231107-d1497 | fichas/tc/2023-07.md |
+| termo-compromisso | 19957.000723/2021-71 | 2021-10-14 | rejeitado | O Colegiado rejeitou, por unanimidade e acompanhando o Comitê, proposta conjunta de Termo de Compromisso da agência Argus Classificadora de… | cvm-col-20211014-d2121 | fichas/tc/2021-07.md |
+| termo-compromisso | 19957.008816/2018-48; 19957.010958/2018-75; 19957.008143/2018-26; 19957.007904/2019-11; 19957.006702/2019-44; 19957.004801/2018-19; 19957.002813/2019-81; 19957.006871/2018-01; 19957.007913/2019-02; 19957.004658/2019-38; 19957.006298/2018-28 | 2021-04-01 | rejeitado | Por unanimidade, acompanhando o Comitê, o Colegiado rejeitou a proposta global de termo de compromisso da agência Argus e de sua… | cvm-col-20210401-d2121 | fichas/tc/2021-02.md |
+| decisao-colegiado | 19957.001378/2021-92 | 2021-02-23 | outro | O Colegiado, por unanimidade, aprovou a Resolução CVM 20/2021, sobre a atividade de analista de valores mobiliários, no âmbito da… | cvm-col-20210223-d2086 | fichas/colegiado/2021-04.md |
+| decisao-colegiado | 19957.007349/2020-53 | 2020-10-27 | outro | O Colegiado aprovou, por unanimidade, a Resolução CVM 9/2020, que dispõe sobre a atividade de classificação de risco de crédito, revisando… | cvm-col-20201027-d1962 | fichas/colegiado/2020-18.md |
+| termo-compromisso | 19957.009590/2018-01; 19957.000861/2019-35 | 2020-02-11 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou a proposta conjunta de termo de compromisso de duas empresas e de quinze… | cvm-col-20200211-d1321-1355 | fichas/tc/2020-01.md |
+| termo-compromisso | 19957.009590/2018-01; 19957.000861/2019-35 | 2019-12-17 | outro | O Colegiado, por maioria, devolveu ao Comitê de Termo de Compromisso as propostas da Empiricus, da Inversa e de outros proponentes, para… | cvm-col-20191217-d1321e1355 | fichas/tc/2019-07.md |
+| decisao-colegiado | 19957.004658/2019-38 | 2019-11-05 | nao-provido | O Colegiado, por unanimidade, negou provimento a recurso da Argus Classificadora de Risco de Créditos contra o cancelamento de ofício de… | cvm-col-20191105-d1464 | fichas/colegiado/2019-17.md |
+| decisao-colegiado | 19957.004658/2019-38 | 2019-07-09 | outro | O Colegiado solicitou à área técnica diligências adicionais antes de decidir recurso contra o cancelamento de ofício, pela SIN, do registro… | cvm-col-20190709-d1464 | fichas/colegiado/2019-11.md |
+| decisao-colegiado | 19957.000861/2019-35 | 2019-04-02 | nao-provido | O Colegiado conheceu do recurso da Inversa Publicações Ltda., com efeitos devolutivo e suspensivo, e negou-lhe provimento: mantida a… | cvm-col-20190402-d1355 | fichas/colegiado/2019-05.md |
+| decisao-colegiado | 19957.009590/2018-01 | 2019-04-02 | nao-provido | O Colegiado conheceu do recurso da Empiricus Research Publicações Ltda., com efeitos devolutivo e suspensivo, e negou-lhe provimento… | cvm-col-20190402-d1321 | fichas/colegiado/2019-05.md |
+| decisao-colegiado | 19957.000861/2019-35 | 2019-03-26 | — | O Colegiado iniciou a discussão de recurso da Inversa Publicações contra intimação da SIN para fornecer login e senha de acesso a todo o… | cvm-col-20190326-d1355 | fichas/colegiado/2019-05.md |
+| decisao-colegiado | 19957.006589/2018-16 | 2018-09-04 | deferido | O Colegiado concedeu à APIMEC autorização para atuar como entidade credenciadora de analistas de valores mobiliários, nos termos da ICVM… | cvm-col-20180904-d1148 | fichas/colegiado/2018-16.md |
+| decisao-colegiado | 03/2017; 483/2010; 538/2013; 19957.001421/2017-33 | 2018-04-18 | outro | O Colegiado aprovou instrução, após a Audiência Pública SDM 03/2017, que regula a atividade de analista de valores mobiliários e revoga as… | cvm-col-20180418-d4068 | fichas/colegiado/2018-08.md |
+| decisao-colegiado | 521/2012; RJ2011/14772 | 2013-09-24 | outro | O Colegiado, por unanimidade, acompanhou o voto do relator e as conclusões da SIN na consulta da Fitch Ratings sobre a Instrução CVM… | cvm-col-20130924-d06 | fichas/colegiado/2013-17.md |
+| decisao-colegiado | RJ2012/5189 | 2013-01-22 | nao-provido | O Colegiado indeferiu recurso da Fitch Ratings Brasil contra exigência da SIN de divulgar, no Formulário de Referência, o valor pago por… | cvm-col-20130122-d05 | fichas/colegiado/2013-02.md |
+| decisao-colegiado | RJ2012/4982 | 2012-07-03 | nao-provido | O Colegiado indeferiu recurso da Moody's América Latina contra decisão da SIN que negou prazo de 180 dias, mantendo o prazo de 100 dias… | cvm-col-20120703-d15 | fichas/colegiado/2012-11.md |
+| decisao-colegiado | RJ2012/4543 | 2012-04-26 | deferido | O Colegiado aprovou, com efeitos imediatos, os pedidos de registro da Fitch Ratings, Standard & Poor's e Moody's como agências… | cvm-col-20120426-d01 | fichas/colegiado/2012-08.md |
+| decisao-colegiado | 16/2011; RJ2008/10842 | 2012-04-18 | outro | O Colegiado aprovou a edição de Instrução, elaborada após a Audiência Pública SDM 16/2011, que regulamenta a atividade de classificação de… | cvm-col-20120418-d01 | fichas/colegiado/2012-08.md |
+| decisao-colegiado | RJ2008/10842 | 2011-11-16 | — | O Colegiado deu início à discussão de minuta de Instrução sobre o registro de agências classificadoras de risco de crédito no mercado de… | cvm-col-20111116-d01-r2 | fichas/colegiado/2011-24.md |
+| acordao-crsfn | RJ-2006-3565 | 2011-10-18 | condenacao | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Atuação profissional como analista de valores mobiliários sem o competente… | crsfn-11429 | fichas/crsfn/2011-04.md |
+| decisao-colegiado | RJ2011/1487 | 2011-07-05 | outro | Após pedido de vista, o Colegiado acompanhou as propostas da SIN sobre a prestação de contas da APIMEC e o Código de Conduta: alteração do… | cvm-col-20110705-d03 | fichas/colegiado/2011-14.md |
+| decisao-colegiado | RJ2011/1487 | 2011-06-21 | — | O Colegiado acompanhou a SIN em prazo até 15.10.11 para a APIMEC implementar rotina de supervisão, no acompanhamento dos exames e nas… | cvm-col-20110621-d01 | fichas/colegiado/2011-13.md |
+| decisao-colegiado | RJ2011/1487 | 2011-06-14 | — | Discussão sobre a prestação de contas das atividades da APIMEC (Instrução CVM 483/10) e sobre a alteração do Código de Conduta de… | cvm-col-20110614-d03 | fichas/colegiado/2011-13.md |
+| decisao-colegiado | RJ2008/10842 | 2011-03-02 | — | O Colegiado ouviu apresentação da SDM sobre a regulação internacional das agências de classificação de risco. Sem deliberação. | cvm-col-20110302-d01 | fichas/colegiado/2011-06.md |
+| decisao-colegiado | RJ2010/1108 | 2010-07-06 | deferido | O Colegiado concedeu à APIMEC autorização para atuar como entidade credenciadora de analistas de valores mobiliários, condicionada à… | cvm-col-20100706-d08 | fichas/colegiado/2010-15.md |
+| acordao-crsfn | RJ-2006-4321 | 2010-06-08 | condenacao | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Exercício de atividade de analista de carteira sem devida autorização da… | crsfn-11642 | fichas/crsfn/2010-06.md |
+| acordao-crsfn | RJ-2006-5863 | 2010-01-26 | condenacao | RECURSOS VOLUNTÁRIO - Mercado de valores mobiliários - Atuação como analista de valores mobiliários sem prévio registro na autoridade… | crsfn-11495 | fichas/crsfn/2010-01.md |
+| decisao-colegiado | 03/2008; RJ2006/6136 | 2009-12-22 | outro | O Colegiado aprovou o texto da Instrução que dispõe sobre a atividade de analista de valores mobiliários, após audiência pública nº 03/2008. | cvm-col-20091222-d34 | fichas/colegiado/2009-25.md |
+| pas | RJ2007/14153 | 2009-12-01 | condenacao | [pessoa física] Exercício da atividade de analista de valores mobiliários sem o devido registro na CVM. Advertência | cvm-pas-rj2007-14153 | fichas/pas/2009-10.md |
+| termo-compromisso | RJ2009/6515 | 2009-07-28 | aceito | O Colegiado aceitou nova proposta de termo de compromisso de três pessoas acusadas de atuar como analistas de valores mobiliários sem… | cvm-col-20090728-d06 | fichas/tc/2009-04.md |
+| termo-compromisso | RJ2007/14153 | 2009-03-17 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso apresentada em conjunto por três pessoas acusadas de exercer atividade de analista… | cvm-col-20090317-d03 | fichas/tc/2009-02.md |
+| decisao-colegiado | 026/2008 | 2008-10-07 | outro | Em consulta da SDM sobre minuta que extingue o registro de analista de valores mobiliários, o Colegiado deliberou não haver período de… | cvm-col-20081007-d08 | fichas/colegiado/2008-22.md |
+| decisao-colegiado | RJ2008/1880 | 2008-07-03 | outro | O Colegiado, acompanhando o voto do relator, entendeu que a consulente não exerce a atividade de analista de valores mobiliários nos termos… | cvm-col-20080703-d08 | fichas/colegiado/2008-14.md |
+| decisao-colegiado | RJ2006/6311 | 2008-02-14 | nao-provido | Em recurso da Apimec contra a negativa da SIN de credenciar analistas, o Colegiado decidiu, contra o voto do relator, que a reativação de… | cvm-col-20080214-d01 | fichas/colegiado/2008-02.md |
+| decisao-colegiado | — | 2008-01-29 | outro | O Colegiado concordou com as alterações propostas pela APIMEC ao credenciamento de analistas de valores mobiliários e autorizou a SIN a… | cvm-col-20080129-d15 | fichas/colegiado/2008-02.md |
+| termo-compromisso | RJ2007/3533 | 2007-08-28 | aceito | O Colegiado aceitou a proposta de Termo de Compromisso de analista de valores mobiliários sem registro na CVM (Instrução 388/03), com… | cvm-col-20070828-d01 | fichas/tc/2007-05.md |
+| termo-compromisso | RJ2006/6572 | 2007-08-07 | aceito | O Colegiado aceitou proposta de termo de compromisso do acusado de pagar R$ 10.000,00 à vista, como condição para a celebração, por… | cvm-col-20070807-d02 | fichas/tc/2007-04.md |
+| pas | RJ2006/4321 | 2007-07-10 | condenacao | Atuação como analista de valores mobiliários sem prévio registro na CVM, em infração ao disposto na Instrução CVM nº 388/03. Multa. | cvm-pas-rj2006-4321 | fichas/pas/2007-09.md |
+| pas | RJ2006/1216 | 2007-06-20 | condenacao | Para o exercício de sua atividade, o analista de valores mobiliários deverá estar registrado na CVM, na forma do art. 10 da Instrução CVM… | cvm-pas-rj2006-1216 | fichas/pas/2007-07.md |
+| termo-compromisso | RJ2006/7209 | 2007-05-29 | aceito | O Colegiado aceitou proposta de termo de compromisso de três proponentes acusados de exercer atividade de analista de valores mobiliários… | cvm-col-20070529-d03 | fichas/tc/2007-03.md |
+| decisao-colegiado | RJ2006/4651 | 2007-05-15 | parcial | Pedido de reconsideração de decisão do colegiado. Proc. RJ2006/4651. | cvm-col-20070515-d03 | fichas/colegiado/2007-07.md |
+| pas | RJ2006/5863 | 2007-04-24 | condenacao | Exercício da atividade de analista de valores mobiliários sem a devida autorização da CVM, em infração ao art. 7º, II, da Instrução CVM nº… | cvm-pas-rj2006-5863 | fichas/pas/2007-05.md |
+| termo-compromisso | RJ2006/4780 | 2007-04-17 | aceito | O Colegiado aceitou nova proposta de termo de compromisso de três analistas de valores mobiliários sem registro, após rejeitar a proposta… | cvm-col-20070417-d07 | fichas/tc/2007-03.md |
+| decisao-colegiado | RJ2006/0740 | 2007-02-26 | outro | O Colegiado arquivou consulta da SIN sobre denúncias contra relatórios de analistas credenciados pela APIMEC, após o Comitê de Ética da… | cvm-col-20070226-d06 | fichas/colegiado/2007-03.md |
+| termo-compromisso | RJ2006/4341 | 2007-02-26 | aceito | O Colegiado aceitou proposta de termo de compromisso do acusado que atuou como analista de valores mobiliários sem registro na CVM… | cvm-col-20070226-d02 | fichas/tc/2007-02.md |
+| pas | RJ2006/3565 | 2007-01-31 | condenacao | É vedado o exercício da atividade de analista de valores mobiliários àquele que não esteja devidamente registrado na CVM, conforme dispõe o… | cvm-pas-rj2006-3565 | fichas/pas/2007-02.md |
+| termo-compromisso | RJ2006/5674 | 2007-01-23 | outro | O Colegiado solicitou ao Comitê de Termo de Compromisso que reavalie a negociação da proposta de analista de valores mobiliários sem… | cvm-col-20070123-d02 | fichas/tc/2007-01.md |
+| termo-compromisso | RJ2006/3618 | 2006-12-19 | aceito | O Colegiado aceitou proposta de termo de compromisso de um analista de valores mobiliários que atuou sem registro, com pagamento de R$… | cvm-col-20061219-d07 | fichas/tc/2006-07.md |
+| termo-compromisso | RJ2006/4780 | 2006-12-05 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso de três acusados, com oferta de R$ 30.000,00, por exercício de analista de valores… | cvm-col-20061205-d08 | fichas/tc/2006-07.md |
+| termo-compromisso | RJ2006/3410 | 2006-10-24 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de pessoa física acusada de exercer atividade de analista de valores mobiliários sem… | cvm-col-20061024-d07 | fichas/tc/2006-05.md |
+| decisao-colegiado | RJ2006/6311 | 2006-10-17 | outro | O Colegiado acompanhou integralmente o voto do relator, que aceitou processo de cancelamento e reativação de CNPI da APIMEC, com regras a… | cvm-col-20061017-d01 | fichas/colegiado/2006-15.md |
+| decisao-colegiado | RJ2006/4847 | 2006-09-26 | deferido | O Colegiado concedeu dispensa de agência classificadora de risco e de relatório de rating às cotas do AIG Recuperação de Capital I FIDC… | cvm-col-20060926-d05 | fichas/colegiado/2006-15.md |
+| termo-compromisso | RJ2006/1216 | 2006-08-29 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de um analista de valores mobiliários que atuou após a suspensão de seu registro. As… | cvm-col-20060829-d05 | fichas/tc/2006-04.md |
+| decisao-colegiado | RJ2006/4651 | 2006-07-25 | outro | Credenciamento de analistas de valores mobiliários. Proc. RJ2006/4651. | cvm-col-20060725-d10 | fichas/colegiado/2006-12.md |
+| decisao-colegiado | RJ2005/4931 | 2006-01-24 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SIN que cancelou o registro de analista de valores mobiliários do recorrente… | cvm-col-20060124-d06 | fichas/colegiado/2006-02.md |
+| decisao-colegiado | RJ2004/5589 | 2004-12-07 | outro | O Colegiado aprovou, no momento, somente a alteração dos arts. 18 e 19 da Instrução CVM 388/03, sobre a atividade de analista de valores… | cvm-col-20041207-d03 | fichas/colegiado/2004-15.md |
+| decisao-colegiado | — | 2003-09-02 | deferido | O Colegiado autorizou a APIMEC a funcionar como entidade certificadora e delegou à área técnica a aprovação dos exames de certificação da… | cvm-col-20030902-d06 | fichas/colegiado/2003-11.md |
+| decisao-colegiado | — | 2003-04-30 | outro | O Colegiado aprovou a minuta de Instrução que dispõe sobre a atividade de analista de valores mobiliários e estabelece condições para seu… | cvm-col-20030430-d01 | fichas/colegiado/2003-05.md |
+| decisao-colegiado | — | 2002-12-02 | outro | O Colegiado aprovou a colocação em audiência pública, até 15.01.2003, da minuta de regulamentação da atividade de analista de valores… | cvm-col-20021202-d03 | fichas/colegiado/2002-26.md |
 
 Fim do subíndice.

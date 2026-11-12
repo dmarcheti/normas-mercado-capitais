@@ -12,8 +12,8 @@ Norma: [leis/lei-14478.md](../../normas/leis/lei-14478.md) (texto vigente hoje; 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.019777/2024-52 | 2025-03-25 | conhecimento | cvm-col-20250325-d3239 | fichas/colegiado/2025-02.md |
-| pas | 19957.011029/2019-64 | 2024-05-21 | — | cvm-pas-19957-011029-2019-64 | fichas/pas/2024-03.md |
+| pas | 19957.011029/2019-64 | 2024-05-21 | — | cvm-pas-19957-011029-2019-64 | fichas/pas/2024-05.md |
 | decisao-colegiado | 19957.004073/2022-13 | 2024-01-30 | deferido | cvm-col-20240130-d2977 | fichas/colegiado/2024-01.md |
-| pas | 19957.006332/2019-45 | 2022-12-22 | condenacao | cvm-pas-19957-006332-2019-45 | fichas/pas/2022-06.md |
+| pas | 19957.006332/2019-45 | 2022-12-22 | condenacao | cvm-pas-19957-006332-2019-45 | fichas/pas/2022-13.md |
 
 Fim do subíndice.

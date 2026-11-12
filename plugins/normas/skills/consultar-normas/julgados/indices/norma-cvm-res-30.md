@@ -11,7 +11,7 @@ Norma: [cvm/resolucoes/0030.md](../../normas/cvm/resolucoes/0030.md) (texto vige
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 3º | pas | 19957.009162/2023-37 | 2024-10-08 | parcial | cvm-pas-19957-009162-2023-37 | fichas/pas/2024-08.md |
+| art. 3º | pas | 19957.009162/2023-37 | 2024-10-08 | parcial | cvm-pas-19957-009162-2023-37 | fichas/pas/2024-16.md |
 
 ## art. 7º
 
@@ -49,13 +49,13 @@ Norma: [cvm/resolucoes/0030.md](../../normas/cvm/resolucoes/0030.md) (texto vige
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.017372/2025-61 | 2026-03-17 | conhecimento | cvm-col-20260317-d3484 | fichas/colegiado/2026-01.md |
-| pas | 19957.001450/2022-62 | 2025-10-14 | condenacao | cvm-pas-19957-001450-2022-62 | fichas/pas/2025-04.md |
+| pas | 19957.001450/2022-62 | 2025-10-14 | condenacao | cvm-pas-19957-001450-2022-62 | fichas/pas/2025-08.md |
 | decisao-colegiado | 19957.007009/2025-37 | 2025-08-26 | deferido | cvm-col-20250826-d3347 | fichas/colegiado/2025-08.md |
 | decisao-colegiado | 19957.011105/2024-07 | 2025-04-01 | deferido | cvm-col-20250401-d3243 | fichas/colegiado/2025-03.md |
 | decisao-colegiado | 19957.012859/2023-95 | 2024-12-10 | indeferido | cvm-col-20241210-d3189 | fichas/colegiado/2024-14.md |
-| pas | 19957.009359/2021-12 | 2024-06-20 | condenacao | cvm-pas-19957-009359-2021-12 | fichas/pas/2024-04.md |
+| pas | 19957.009359/2021-12 | 2024-06-20 | condenacao | cvm-pas-19957-009359-2021-12 | fichas/pas/2024-08.md |
 | decisao-colegiado | — | 2023-11-29 | outro | cvm-col-20231129-d2976 | fichas/colegiado/2023-13.md |
-| pas | 19957.012126/2022-70 | 2023-06-06 | condenacao | cvm-pas-19957-012126-2022-70 | fichas/pas/2023-03.md |
+| pas | 19957.012126/2022-70 | 2023-06-06 | condenacao | cvm-pas-19957-012126-2022-70 | fichas/pas/2023-06.md |
 | decisao-colegiado | 19957.007863/2021-70 | 2022-03-29 | indeferido | cvm-col-20220329-d2544 | fichas/colegiado/2022-05.md |
 | decisao-colegiado | 19957.006040/2021-27 | 2021-12-21 | indeferido | cvm-col-20211221-d2445 | fichas/colegiado/2021-23.md |
 | decisao-colegiado | 19957.006060/2021-06 | 2021-10-05 | deferido | cvm-col-20211005-d2325 | fichas/colegiado/2021-16.md |

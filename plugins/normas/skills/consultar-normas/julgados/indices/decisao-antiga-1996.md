@@ -5,202 +5,202 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
-Uma linha por decisão (uma ficha `<id-anual>-NNNN`, na ordem do arquivo anual), da mais recente para a mais antiga: data da ata, processo (quando o título traz) e ficha. O título (`ementa` da ficha) vem do arquivo anual, que o conversor do PDF abriu em toda linha em caixa alta: títulos de 1997 a 2001 podem vir cortados ou imprecisos.
+Uma linha por decisão (uma ficha `<id-anual>-NNNN`, na ordem do arquivo anual), da mais recente para a mais antiga: data da ata, processo (quando o título traz), título da pauta (`ementa` da ficha, até 140 caracteres, nome de pessoa física trocado por "[pessoa física]") e ficha. O título vem do arquivo anual, que o conversor do PDF abriu em toda linha em caixa alta: títulos de 1997 a 2001 podem vir cortados ou imprecisos.
 
-| Data da ata | Processo | Id | Ficha |
-|---|---|---|---|
-| 1996-12-30 | 96/3808 | cvm-dec-1996-0001 | fichas/decisoes-antigas/1996-07.md |
-| 1996-12-30 | 96/2586 | cvm-dec-1996-0002 | fichas/decisoes-antigas/1996-08.md |
-| 1996-12-30 | 95/4676 | cvm-dec-1996-0003 | fichas/decisoes-antigas/1996-08.md |
-| 1996-12-30 | 96/2042 | cvm-dec-1996-0004 | fichas/decisoes-antigas/1996-08.md |
-| 1996-12-30 | — | cvm-dec-1996-0005 | fichas/decisoes-antigas/1996-08.md |
-| 1996-12-24 | 96/4341 | cvm-dec-1996-0006 | fichas/decisoes-antigas/1996-07.md |
-| 1996-12-23 | — | cvm-dec-1996-0007 | fichas/decisoes-antigas/1996-07.md |
-| 1996-12-13 | — | cvm-dec-1996-0008 | fichas/decisoes-antigas/1996-07.md |
-| 1996-12-13 | 95/2641 | cvm-dec-1996-0009 | fichas/decisoes-antigas/1996-07.md |
-| 1996-12-13 | — | cvm-dec-1996-0010 | fichas/decisoes-antigas/1996-07.md |
-| 1996-12-13 | — | cvm-dec-1996-0011 | fichas/decisoes-antigas/1996-07.md |
-| 1996-12-13 | — | cvm-dec-1996-0012 | fichas/decisoes-antigas/1996-07.md |
-| 1996-12-13 | — | cvm-dec-1996-0013 | fichas/decisoes-antigas/1996-07.md |
-| 1996-11-29 | — | cvm-dec-1996-0014 | fichas/decisoes-antigas/1996-07.md |
-| 1996-11-29 | 94/2088 | cvm-dec-1996-0015 | fichas/decisoes-antigas/1996-07.md |
-| 1996-11-29 | 96/2046 | cvm-dec-1996-0016 | fichas/decisoes-antigas/1996-07.md |
-| 1996-11-29 | — | cvm-dec-1996-0017 | fichas/decisoes-antigas/1996-07.md |
-| 1996-11-29 | 96/3515 | cvm-dec-1996-0018 | fichas/decisoes-antigas/1996-07.md |
-| 1996-11-29 | 96/3652 | cvm-dec-1996-0019 | fichas/decisoes-antigas/1996-07.md |
-| 1996-11-29 | 96/2076 | cvm-dec-1996-0020 | fichas/decisoes-antigas/1996-07.md |
-| 1996-11-29 | 95/4676 | cvm-dec-1996-0021 | fichas/decisoes-antigas/1996-07.md |
-| 1996-11-29 | — | cvm-dec-1996-0022 | fichas/decisoes-antigas/1996-07.md |
-| 1996-11-22 | 96/1192 | cvm-dec-1996-0023 | fichas/decisoes-antigas/1996-07.md |
-| 1996-11-22 | 96/0861 | cvm-dec-1996-0024 | fichas/decisoes-antigas/1996-07.md |
-| 1996-11-22 | 96/3517 | cvm-dec-1996-0025 | fichas/decisoes-antigas/1996-07.md |
-| 1996-11-14 | — | cvm-dec-1996-0026 | fichas/decisoes-antigas/1996-07.md |
-| 1996-11-14 | — | cvm-dec-1996-0027 | fichas/decisoes-antigas/1996-07.md |
-| 1996-11-08 | — | cvm-dec-1996-0028 | fichas/decisoes-antigas/1996-06.md |
-| 1996-11-08 | — | cvm-dec-1996-0029 | fichas/decisoes-antigas/1996-06.md |
-| 1996-11-08 | 95/4692 | cvm-dec-1996-0030 | fichas/decisoes-antigas/1996-06.md |
-| 1996-11-08 | 96/2304 | cvm-dec-1996-0031 | fichas/decisoes-antigas/1996-07.md |
-| 1996-11-08 | 96/1905 | cvm-dec-1996-0032 | fichas/decisoes-antigas/1996-07.md |
-| 1996-11-08 | — | cvm-dec-1996-0033 | fichas/decisoes-antigas/1996-07.md |
-| 1996-11-08 | 96/3817 | cvm-dec-1996-0034 | fichas/decisoes-antigas/1996-07.md |
-| 1996-11-01 | 96/0868 | cvm-dec-1996-0035 | fichas/decisoes-antigas/1996-06.md |
-| 1996-11-01 | 95/0307 | cvm-dec-1996-0036 | fichas/decisoes-antigas/1996-06.md |
-| 1996-11-01 | 96/2035 | cvm-dec-1996-0037 | fichas/decisoes-antigas/1996-06.md |
-| 1996-10-28 | — | cvm-dec-1996-0038 | fichas/decisoes-antigas/1996-06.md |
-| 1996-10-25 | — | cvm-dec-1996-0039 | fichas/decisoes-antigas/1996-06.md |
-| 1996-10-25 | 96/2289 | cvm-dec-1996-0040 | fichas/decisoes-antigas/1996-06.md |
-| 1996-10-25 | 96/2611 | cvm-dec-1996-0041 | fichas/decisoes-antigas/1996-06.md |
-| 1996-10-25 | 96/2379 | cvm-dec-1996-0042 | fichas/decisoes-antigas/1996-06.md |
-| 1996-10-25 | 96/2044 | cvm-dec-1996-0043 | fichas/decisoes-antigas/1996-06.md |
-| 1996-10-25 | 96/2053 | cvm-dec-1996-0044 | fichas/decisoes-antigas/1996-06.md |
-| 1996-10-25 | 96/2040 | cvm-dec-1996-0045 | fichas/decisoes-antigas/1996-06.md |
-| 1996-10-25 | 96/2039 | cvm-dec-1996-0046 | fichas/decisoes-antigas/1996-06.md |
-| 1996-10-25 | — | cvm-dec-1996-0047 | fichas/decisoes-antigas/1996-06.md |
-| 1996-10-22 | 96/0010 | cvm-dec-1996-0048 | fichas/decisoes-antigas/1996-06.md |
-| 1996-10-22 | — | cvm-dec-1996-0049 | fichas/decisoes-antigas/1996-06.md |
-| 1996-10-18 | — | cvm-dec-1996-0050 | fichas/decisoes-antigas/1996-06.md |
-| 1996-10-18 | 96/1130 | cvm-dec-1996-0051 | fichas/decisoes-antigas/1996-06.md |
-| 1996-10-18 | 96/2129 | cvm-dec-1996-0052 | fichas/decisoes-antigas/1996-06.md |
-| 1996-10-18 | 95/4673 | cvm-dec-1996-0053 | fichas/decisoes-antigas/1996-06.md |
-| 1996-10-14 | — | cvm-dec-1996-0054 | fichas/decisoes-antigas/1996-06.md |
-| 1996-10-11 | 95/1281 | cvm-dec-1996-0055 | fichas/decisoes-antigas/1996-05.md |
-| 1996-10-11 | SP 95/0054 | cvm-dec-1996-0056 | fichas/decisoes-antigas/1996-05.md |
-| 1996-10-11 | 96/1911 | cvm-dec-1996-0057 | fichas/decisoes-antigas/1996-05.md |
-| 1996-10-11 | 96/2091 | cvm-dec-1996-0058 | fichas/decisoes-antigas/1996-05.md |
-| 1996-10-11 | 96/1947 | cvm-dec-1996-0059 | fichas/decisoes-antigas/1996-05.md |
-| 1996-10-11 | 96/2110 | cvm-dec-1996-0060 | fichas/decisoes-antigas/1996-05.md |
-| 1996-10-11 | — | cvm-dec-1996-0061 | fichas/decisoes-antigas/1996-05.md |
-| 1996-10-11 | 96/2636 | cvm-dec-1996-0062 | fichas/decisoes-antigas/1996-05.md |
-| 1996-10-11 | 96/2586 | cvm-dec-1996-0063 | fichas/decisoes-antigas/1996-06.md |
-| 1996-10-11 | 96/3060 | cvm-dec-1996-0064 | fichas/decisoes-antigas/1996-06.md |
-| 1996-10-11 | — | cvm-dec-1996-0065 | fichas/decisoes-antigas/1996-06.md |
-| 1996-09-26 | 92/1721-5 | cvm-dec-1996-0066 | fichas/decisoes-antigas/1996-05.md |
-| 1996-09-26 | 95/4591 | cvm-dec-1996-0067 | fichas/decisoes-antigas/1996-05.md |
-| 1996-09-26 | 96/1878 | cvm-dec-1996-0068 | fichas/decisoes-antigas/1996-05.md |
-| 1996-09-09 | — | cvm-dec-1996-0069 | fichas/decisoes-antigas/1996-05.md |
-| 1996-09-09 | — | cvm-dec-1996-0070 | fichas/decisoes-antigas/1996-05.md |
-| 1996-09-09 | — | cvm-dec-1996-0071 | fichas/decisoes-antigas/1996-05.md |
-| 1996-09-09 | — | cvm-dec-1996-0072 | fichas/decisoes-antigas/1996-05.md |
-| 1996-08-29 | 96/1782 | cvm-dec-1996-0073 | fichas/decisoes-antigas/1996-05.md |
-| 1996-08-29 | — | cvm-dec-1996-0074 | fichas/decisoes-antigas/1996-05.md |
-| 1996-08-23 | — | cvm-dec-1996-0075 | fichas/decisoes-antigas/1996-05.md |
-| 1996-08-14 | — | cvm-dec-1996-0076 | fichas/decisoes-antigas/1996-04.md |
-| 1996-08-14 | — | cvm-dec-1996-0077 | fichas/decisoes-antigas/1996-05.md |
-| 1996-08-14 | — | cvm-dec-1996-0078 | fichas/decisoes-antigas/1996-05.md |
-| 1996-08-14 | — | cvm-dec-1996-0079 | fichas/decisoes-antigas/1996-05.md |
-| 1996-08-14 | — | cvm-dec-1996-0080 | fichas/decisoes-antigas/1996-05.md |
-| 1996-08-14 | — | cvm-dec-1996-0081 | fichas/decisoes-antigas/1996-05.md |
-| 1996-08-14 | — | cvm-dec-1996-0082 | fichas/decisoes-antigas/1996-05.md |
-| 1996-08-09 | — | cvm-dec-1996-0083 | fichas/decisoes-antigas/1996-04.md |
-| 1996-08-09 | 94/1263 | cvm-dec-1996-0084 | fichas/decisoes-antigas/1996-04.md |
-| 1996-08-09 | — | cvm-dec-1996-0085 | fichas/decisoes-antigas/1996-04.md |
-| 1996-08-09 | 96/0092 | cvm-dec-1996-0086 | fichas/decisoes-antigas/1996-04.md |
-| 1996-08-09 | 96/0944 | cvm-dec-1996-0087 | fichas/decisoes-antigas/1996-04.md |
-| 1996-08-09 | 96/1845 | cvm-dec-1996-0088 | fichas/decisoes-antigas/1996-04.md |
-| 1996-08-09 | 96/1846 | cvm-dec-1996-0089 | fichas/decisoes-antigas/1996-04.md |
-| 1996-08-09 | 96/0866 | cvm-dec-1996-0090 | fichas/decisoes-antigas/1996-04.md |
-| 1996-08-09 | 96/2254 | cvm-dec-1996-0091 | fichas/decisoes-antigas/1996-04.md |
-| 1996-08-09 | 96/1905 | cvm-dec-1996-0092 | fichas/decisoes-antigas/1996-04.md |
-| 1996-07-26 | — | cvm-dec-1996-0093 | fichas/decisoes-antigas/1996-04.md |
-| 1996-07-26 | — | cvm-dec-1996-0094 | fichas/decisoes-antigas/1996-04.md |
-| 1996-07-11 | — | cvm-dec-1996-0095 | fichas/decisoes-antigas/1996-04.md |
-| 1996-07-11 | — | cvm-dec-1996-0096 | fichas/decisoes-antigas/1996-04.md |
-| 1996-07-11 | — | cvm-dec-1996-0097 | fichas/decisoes-antigas/1996-04.md |
-| 1996-07-04 | 96/1687 | cvm-dec-1996-0098 | fichas/decisoes-antigas/1996-04.md |
-| 1996-07-04 | 96/1931 | cvm-dec-1996-0099 | fichas/decisoes-antigas/1996-04.md |
-| 1996-06-28 | — | cvm-dec-1996-0100 | fichas/decisoes-antigas/1996-04.md |
-| 1996-06-28 | — | cvm-dec-1996-0101 | fichas/decisoes-antigas/1996-04.md |
-| 1996-06-28 | 96/1072 | cvm-dec-1996-0102 | fichas/decisoes-antigas/1996-04.md |
-| 1996-06-14 | — | cvm-dec-1996-0103 | fichas/decisoes-antigas/1996-04.md |
-| 1996-06-14 | — | cvm-dec-1996-0104 | fichas/decisoes-antigas/1996-04.md |
-| 1996-06-14 | — | cvm-dec-1996-0105 | fichas/decisoes-antigas/1996-04.md |
-| 1996-06-07 | — | cvm-dec-1996-0106 | fichas/decisoes-antigas/1996-04.md |
-| 1996-06-07 | 95/4591 | cvm-dec-1996-0107 | fichas/decisoes-antigas/1996-04.md |
-| 1996-06-07 | — | cvm-dec-1996-0108 | fichas/decisoes-antigas/1996-04.md |
-| 1996-05-29 | — | cvm-dec-1996-0109 | fichas/decisoes-antigas/1996-04.md |
-| 1996-05-29 | RJ96/0749 | cvm-dec-1996-0110 | fichas/decisoes-antigas/1996-04.md |
-| 1996-05-29 | 95/0357 | cvm-dec-1996-0111 | fichas/decisoes-antigas/1996-04.md |
-| 1996-05-24 | — | cvm-dec-1996-0112 | fichas/decisoes-antigas/1996-04.md |
-| 1996-05-16 | 94/0965 | cvm-dec-1996-0113 | fichas/decisoes-antigas/1996-03.md |
-| 1996-05-16 | — | cvm-dec-1996-0114 | fichas/decisoes-antigas/1996-03.md |
-| 1996-05-09 | 94/1263 | cvm-dec-1996-0115 | fichas/decisoes-antigas/1996-03.md |
-| 1996-05-09 | — | cvm-dec-1996-0116 | fichas/decisoes-antigas/1996-03.md |
-| 1996-05-09 | 94/1226 | cvm-dec-1996-0117 | fichas/decisoes-antigas/1996-03.md |
-| 1996-05-09 | 95/4346 | cvm-dec-1996-0118 | fichas/decisoes-antigas/1996-03.md |
-| 1996-05-09 | — | cvm-dec-1996-0119 | fichas/decisoes-antigas/1996-03.md |
-| 1996-05-02 | 95/2358 | cvm-dec-1996-0120 | fichas/decisoes-antigas/1996-03.md |
-| 1996-04-26 | — | cvm-dec-1996-0121 | fichas/decisoes-antigas/1996-03.md |
-| 1996-04-26 | 95/4537 | cvm-dec-1996-0122 | fichas/decisoes-antigas/1996-03.md |
-| 1996-04-26 | — | cvm-dec-1996-0123 | fichas/decisoes-antigas/1996-03.md |
-| 1996-04-26 | — | cvm-dec-1996-0124 | fichas/decisoes-antigas/1996-03.md |
-| 1996-04-26 | 95/1877 | cvm-dec-1996-0125 | fichas/decisoes-antigas/1996-03.md |
-| 1996-04-26 | — | cvm-dec-1996-0126 | fichas/decisoes-antigas/1996-03.md |
-| 1996-04-11 | — | cvm-dec-1996-0127 | fichas/decisoes-antigas/1996-03.md |
-| 1996-04-11 | 96/0383 | cvm-dec-1996-0128 | fichas/decisoes-antigas/1996-03.md |
-| 1996-04-11 | — | cvm-dec-1996-0129 | fichas/decisoes-antigas/1996-03.md |
-| 1996-04-11 | — | cvm-dec-1996-0130 | fichas/decisoes-antigas/1996-03.md |
-| 1996-04-11 | — | cvm-dec-1996-0131 | fichas/decisoes-antigas/1996-03.md |
-| 1996-03-29 | 95/4586 | cvm-dec-1996-0132 | fichas/decisoes-antigas/1996-03.md |
-| 1996-03-29 | 96/0509 | cvm-dec-1996-0133 | fichas/decisoes-antigas/1996-03.md |
-| 1996-03-29 | 96/0491 | cvm-dec-1996-0134 | fichas/decisoes-antigas/1996-03.md |
-| 1996-03-29 | 96/0664 | cvm-dec-1996-0135 | fichas/decisoes-antigas/1996-03.md |
-| 1996-03-29 | — | cvm-dec-1996-0136 | fichas/decisoes-antigas/1996-03.md |
-| 1996-03-22 | 95/2643 | cvm-dec-1996-0137 | fichas/decisoes-antigas/1996-02.md |
-| 1996-03-22 | 95/4591 | cvm-dec-1996-0138 | fichas/decisoes-antigas/1996-02.md |
-| 1996-03-22 | — | cvm-dec-1996-0139 | fichas/decisoes-antigas/1996-02.md |
-| 1996-03-22 | 96/0455 | cvm-dec-1996-0140 | fichas/decisoes-antigas/1996-02.md |
-| 1996-03-22 | 91/1484-0 | cvm-dec-1996-0141 | fichas/decisoes-antigas/1996-02.md |
-| 1996-03-22 | 91/0238-8 | cvm-dec-1996-0142 | fichas/decisoes-antigas/1996-02.md |
-| 1996-03-22 | 91/1640-0 | cvm-dec-1996-0143 | fichas/decisoes-antigas/1996-02.md |
-| 1996-03-22 | 91/1566-8 | cvm-dec-1996-0144 | fichas/decisoes-antigas/1996-02.md |
-| 1996-03-22 | 92/1330-9 | cvm-dec-1996-0145 | fichas/decisoes-antigas/1996-02.md |
-| 1996-03-22 | — | cvm-dec-1996-0146 | fichas/decisoes-antigas/1996-02.md |
-| 1996-03-15 | 95/3819 | cvm-dec-1996-0147 | fichas/decisoes-antigas/1996-02.md |
-| 1996-03-15 | 95/3820 | cvm-dec-1996-0148 | fichas/decisoes-antigas/1996-02.md |
-| 1996-03-15 | 95/0770 | cvm-dec-1996-0149 | fichas/decisoes-antigas/1996-02.md |
-| 1996-03-15 | 95/1452 | cvm-dec-1996-0150 | fichas/decisoes-antigas/1996-02.md |
-| 1996-03-15 | — | cvm-dec-1996-0151 | fichas/decisoes-antigas/1996-02.md |
-| 1996-03-01 | — | cvm-dec-1996-0152 | fichas/decisoes-antigas/1996-02.md |
-| 1996-03-01 | — | cvm-dec-1996-0153 | fichas/decisoes-antigas/1996-02.md |
-| 1996-03-01 | — | cvm-dec-1996-0154 | fichas/decisoes-antigas/1996-02.md |
-| 1996-03-01 | 95/3589 | cvm-dec-1996-0155 | fichas/decisoes-antigas/1996-02.md |
-| 1996-03-01 | 95/0357 | cvm-dec-1996-0156 | fichas/decisoes-antigas/1996-02.md |
-| 1996-03-01 | 95/2171 | cvm-dec-1996-0157 | fichas/decisoes-antigas/1996-02.md |
-| 1996-02-16 | — | cvm-dec-1996-0158 | fichas/decisoes-antigas/1996-02.md |
-| 1996-02-16 | — | cvm-dec-1996-0159 | fichas/decisoes-antigas/1996-02.md |
-| 1996-02-16 | 90/0293-6 | cvm-dec-1996-0160 | fichas/decisoes-antigas/1996-02.md |
-| 1996-02-16 | — | cvm-dec-1996-0161 | fichas/decisoes-antigas/1996-02.md |
-| 1996-02-06 | — | cvm-dec-1996-0162 | fichas/decisoes-antigas/1996-02.md |
-| 1996-02-06 | 96/0022 | cvm-dec-1996-0163 | fichas/decisoes-antigas/1996-02.md |
-| 1996-02-01 | — | cvm-dec-1996-0164 | fichas/decisoes-antigas/1996-02.md |
-| 1996-02-01 | — | cvm-dec-1996-0165 | fichas/decisoes-antigas/1996-02.md |
-| 1996-01-26 | — | cvm-dec-1996-0166 | fichas/decisoes-antigas/1996-01.md |
-| 1996-01-26 | — | cvm-dec-1996-0167 | fichas/decisoes-antigas/1996-01.md |
-| 1996-01-26 | — | cvm-dec-1996-0168 | fichas/decisoes-antigas/1996-02.md |
-| 1996-01-19 | — | cvm-dec-1996-0169 | fichas/decisoes-antigas/1996-01.md |
-| 1996-01-19 | — | cvm-dec-1996-0170 | fichas/decisoes-antigas/1996-01.md |
-| 1996-01-19 | — | cvm-dec-1996-0171 | fichas/decisoes-antigas/1996-01.md |
-| 1996-01-19 | — | cvm-dec-1996-0172 | fichas/decisoes-antigas/1996-01.md |
-| 1996-01-12 | — | cvm-dec-1996-0173 | fichas/decisoes-antigas/1996-01.md |
-| 1996-01-12 | — | cvm-dec-1996-0174 | fichas/decisoes-antigas/1996-01.md |
-| 1996-01-12 | — | cvm-dec-1996-0175 | fichas/decisoes-antigas/1996-01.md |
-| 1996-01-12 | — | cvm-dec-1996-0176 | fichas/decisoes-antigas/1996-01.md |
-| 1995-12-28 | RJ95/3589 | cvm-dec-1996-0188 | fichas/decisoes-antigas/1996-01.md |
-| 1995-12-28 | RJ95/1877 | cvm-dec-1996-0189 | fichas/decisoes-antigas/1996-01.md |
-| 1995-12-28 | 95/0951 | cvm-dec-1996-0190 | fichas/decisoes-antigas/1996-01.md |
-| 1995-11-17 | — | cvm-dec-1996-0177 | fichas/decisoes-antigas/1996-01.md |
-| 1995-11-17 | 95/1281 | cvm-dec-1996-0178 | fichas/decisoes-antigas/1996-01.md |
-| 1995-11-17 | 95/1959 | cvm-dec-1996-0179 | fichas/decisoes-antigas/1996-01.md |
-| 1995-11-17 | 95/1509 | cvm-dec-1996-0180 | fichas/decisoes-antigas/1996-01.md |
-| 1995-11-17 | 95/1407 | cvm-dec-1996-0181 | fichas/decisoes-antigas/1996-01.md |
-| 1995-11-17 | — | cvm-dec-1996-0182 | fichas/decisoes-antigas/1996-01.md |
-| 1995-10-11 | 95/0889 | cvm-dec-1996-0191 | fichas/decisoes-antigas/1996-01.md |
-| 1995-10-11 | — | cvm-dec-1996-0192 | fichas/decisoes-antigas/1996-01.md |
-| 1995-10-11 | — | cvm-dec-1996-0193 | fichas/decisoes-antigas/1996-01.md |
-| 1994-10-11 | 94/1226 | cvm-dec-1996-0187 | fichas/decisoes-antigas/1996-01.md |
-| 1994-05-10 | — | cvm-dec-1996-0183 | fichas/decisoes-antigas/1996-01.md |
-| 1994-05-10 | — | cvm-dec-1996-0184 | fichas/decisoes-antigas/1996-01.md |
-| 1994-05-10 | — | cvm-dec-1996-0185 | fichas/decisoes-antigas/1996-01.md |
-| 1993-08-17 | — | cvm-dec-1996-0186 | fichas/decisoes-antigas/1996-01.md |
+| Data da ata | Processo | Título | Id | Ficha |
+|---|---|---|---|---|
+| 1996-12-30 | 96/3808 | RECURSO CONTRA DECISÃO DA SEP - TELECOMUNICAÇÕES DO RIO DE JANEIRO S/A - PROC 96/3808 | cvm-dec-1996-0001 | fichas/decisoes-antigas/1996-07.md |
+| 1996-12-30 | 96/2586 | RECURSO CONTRA DECISÃO DA SEP - CIA. PARANAENSE DE ENERGIA ELÉTRICA-COPEL - PROC 96/2586 | cvm-dec-1996-0002 | fichas/decisoes-antigas/1996-08.md |
+| 1996-12-30 | 95/4676 | SOLICITAÇÃO DE MANIFESTAÇÃO DA CVM SOBRE DESPESAS DE MANUTENÇÃO DE PROGRAMA DE ADR DA [pessoa física] S/A - PROC. 95/4676 | cvm-dec-1996-0003 | fichas/decisoes-antigas/1996-08.md |
+| 1996-12-30 | 96/2042 | RECURSO CONTRA DECISÃO DA SNC - RIO BRANCO AUDITORES INDEPENDENTES S/C - PROC. 96/2042 | cvm-dec-1996-0004 | fichas/decisoes-antigas/1996-08.md |
+| 1996-12-30 | — | MINUTA DE CONVÊNIO ENTRE A CVM E O CONSELHO FEDERAL DE CONTABILIDADE - CFC | cvm-dec-1996-0005 | fichas/decisoes-antigas/1996-08.md |
+| 1996-12-24 | 96/4341 | RECURSO CONTRA DECISÃO DA SEP - BANDEPE-BANCO DO ESTADO DE PERNAMBUCO S/A - PROC. 96/4341 | cvm-dec-1996-0006 | fichas/decisoes-antigas/1996-07.md |
+| 1996-12-23 | — | MINUTA DE DELIBERAÇÃO QUE AUTORIZA A REDUÇÃO DO QUORUM PARA A REALIZAÇÃO DA ASSEMBLÉIA GERAL EXTRAORDINÁRIA DA COMPANHIA ALUMÍNIO S/A… | cvm-dec-1996-0007 | fichas/decisoes-antigas/1996-07.md |
+| 1996-12-13 | — | MINUTA DE DELIBERAÇÃO QUE DISPÕE SOBRE A CONTABILIZAÇÃO DOS JUROS SOBRE O CAPITAL PRÓPRIO PREVISTOS NA LEI Nº 9.249/95 - VERSÃO DE… | cvm-dec-1996-0008 | fichas/decisoes-antigas/1996-07.md |
+| 1996-12-13 | 95/2641 | RECURSO CONTRA A DECISÃO DA SIN - BANCO BOZANO SIMONSEN S/A - PROC. 95/2641 | cvm-dec-1996-0009 | fichas/decisoes-antigas/1996-07.md |
+| 1996-12-13 | — | MINUTA DE DECISÃO-CONJUNTA CVM/SPC QUE DISPÕE SOBRE A AQUISIÇÃO E A ALIENAÇÃO, PELAS ENTIDADES FECHADAS DE PREVIDÊNCIA PRIVADA, DE AÇÕES DE… | cvm-dec-1996-0010 | fichas/decisoes-antigas/1996-07.md |
+| 1996-12-13 | — | ABERTURA NA BVRJ DE SÉRIES DE OPÇÕES SOBRE BÔNUS DE SUBSCRIÇÃO DE EMISSÃO DO BANCO DO BRASIL | cvm-dec-1996-0011 | fichas/decisoes-antigas/1996-07.md |
+| 1996-12-13 | — | ENTENDIMENTO DA CVM COMO "AMICUS CURIAE" NA AÇÃO ORDINÁRIA QUE GEO SUMMIT FUND E OUTROS MOVEM EM FACE DE COMPANHIA SIDERÚRGICA DE TUBARÃO… | cvm-dec-1996-0012 | fichas/decisoes-antigas/1996-07.md |
+| 1996-12-13 | — | DECISÃO-CONJUNTA MINISTÉRIO DA CULTURA/CVM DISPONDO SOBRE O REGISTRO PROVISÓRIO PARA A DISTRIBUIÇÃO JUNTO AO PÚBLICO DE CERTIFICADOS DE… | cvm-dec-1996-0013 | fichas/decisoes-antigas/1996-07.md |
+| 1996-11-29 | — | SEDE SOCIAL DE INVESTIDOR ESTRANGEIRO - BANCO BOZANO SIMONSEN S/A - MEMO/SIN/103/95 | cvm-dec-1996-0014 | fichas/decisoes-antigas/1996-07.md |
+| 1996-11-29 | 94/2088 | RECURSO CONTRA A DECISÃO DA SIN - PRIMUS CVC S/A - PROC. 94/2088 | cvm-dec-1996-0015 | fichas/decisoes-antigas/1996-07.md |
+| 1996-11-29 | 96/2046 | RECURSO DE OFÍCIO EM PROCESSO DE RITO SUMÁRIO - [pessoa física] - PROC. 96/2046 | cvm-dec-1996-0016 | fichas/decisoes-antigas/1996-07.md |
+| 1996-11-29 | — | RECURSO CONTRA A DECISÃO DA SNC EM PROCESSO DE RITO SUMÁRIO - AUDITASSE AUDITORES INDEPENDENTES | cvm-dec-1996-0017 | fichas/decisoes-antigas/1996-07.md |
+| 1996-11-29 | 96/3515 | RECURSO CONTRA A DECISÃO DA SEP - COMPANHIA INTER-ATLÂNTICO DE PARTICIPAÇÕES S/A - PROC. 96/3515 | cvm-dec-1996-0018 | fichas/decisoes-antigas/1996-07.md |
+| 1996-11-29 | 96/3652 | RECURSO CONTRA A DECISÃO DA SIN - BANCO DE BOSTON S/A - PROC. 96/3652 | cvm-dec-1996-0019 | fichas/decisoes-antigas/1996-07.md |
+| 1996-11-29 | 96/2076 | RECURSO CONTRA A DECISÃO DA SNC - AUDILEX AUDITORES ASSOCIADOS S/C - PROC. 96/2076 | cvm-dec-1996-0020 | fichas/decisoes-antigas/1996-07.md |
+| 1996-11-29 | 95/4676 | SOLICITAÇÃO DE MANIFESTAÇÃO DA CVM SOBRE DESPESAS DE MANUTENÇÃO DE PROGRAMA DE ADR DA [pessoa física] S/A - PROC. 95/4676 | cvm-dec-1996-0021 | fichas/decisoes-antigas/1996-07.md |
+| 1996-11-29 | — | MINUTA DE DELIBERAÇÃO QUE DISPÕE SOBRE O PRAZO PREVISTO NA DELIBERAÇÃO CVM Nº 183/95 PARA REVERSÃO DAS REAVALIAÇÕES CONTABILIZADAS ANTES DE… | cvm-dec-1996-0022 | fichas/decisoes-antigas/1996-07.md |
+| 1996-11-22 | 96/1192 | RECURSO CONTRA A DECISÃO DA SEP - MINASMÁQUINAS S/A - PROC. 96/1192 | cvm-dec-1996-0023 | fichas/decisoes-antigas/1996-07.md |
+| 1996-11-22 | 96/0861 | RECURSO CONTRA A DECISÃO DA SEP EM PROCESSO DE RITO SUMÁRIO - ESTACON ENGENHARIA - PROC. 96/0861 | cvm-dec-1996-0024 | fichas/decisoes-antigas/1996-07.md |
+| 1996-11-22 | 96/3517 | RECURSO CONTRA A DECISÃO DA SEP - BORGHOFF S/A - PROC. 96/3517 | cvm-dec-1996-0025 | fichas/decisoes-antigas/1996-07.md |
+| 1996-11-14 | — | DELIBERAÇÃO QUE CRIA A COMISSÃO CONSULTIVA SOBRE REGULAÇÃO DE INSTRUMENTOS DE INVESTIMENTO | cvm-dec-1996-0026 | fichas/decisoes-antigas/1996-07.md |
+| 1996-11-14 | — | MINUTA DE INSTRUÇÃO QUE ALTERA A DE N º 169/92, QUE DISPÕE SOBRE O REGISTRO, NA CVM, DE INVESTIDORES INSTITUCIONAIS QUE VENHAM A CONSTITUIR… | cvm-dec-1996-0027 | fichas/decisoes-antigas/1996-07.md |
+| 1996-11-08 | — | MINUTA DE DELIBERAÇÃO QUE CRIA A COMISSÃO CONSULTIVA SOBRE A POLÍTICA DE DIVULGAÇÃO DE INFORMAÇÕES DAS COMPANHIAS ABERTAS AO MERCADO DE… | cvm-dec-1996-0028 | fichas/decisoes-antigas/1996-06.md |
+| 1996-11-08 | — | RECURSO CONTRA A DECISÃO DA SMI - [pessoa física] - PROCS. 86/1630 E 90/0387-8 | cvm-dec-1996-0029 | fichas/decisoes-antigas/1996-06.md |
+| 1996-11-08 | 95/4692 | RECURSO CONTRA A DECISÃO DA SIN EM PROCESSO DE RITO SUMÁRIO - MILBANCO CCV S.A. - PROC. 95/4692 | cvm-dec-1996-0030 | fichas/decisoes-antigas/1996-06.md |
+| 1996-11-08 | 96/2304 | RECURSO CONTRA A DECISÃO DA SEP - COMPANHIA ESTADUAL DE ENERGIA ELÉTRICA - CEEE - PROC. 96/2304 | cvm-dec-1996-0031 | fichas/decisoes-antigas/1996-07.md |
+| 1996-11-08 | 96/1905 | RECURSO DE OFÍCIO EM PROCESSO DE RITO SUMÁRIO - NORCHEM DTVM S.A. - PROC. 96/1905 | cvm-dec-1996-0032 | fichas/decisoes-antigas/1996-07.md |
+| 1996-11-08 | — | RECIBOS TELEBRÁS | cvm-dec-1996-0033 | fichas/decisoes-antigas/1996-07.md |
+| 1996-11-08 | 96/3817 | RECURSO CONTRA A DECISÃO DA SEP - OLIVEIRA TRUST DISTRIBUIDORA - PROC. 96/3817 | cvm-dec-1996-0034 | fichas/decisoes-antigas/1996-07.md |
+| 1996-11-01 | 96/0868 | RECURSO CONTRA A DECISÃO DA SEP - CACHOEIRA VELONORTE S/A - PROC. 96/0868 | cvm-dec-1996-0035 | fichas/decisoes-antigas/1996-06.md |
+| 1996-11-01 | 95/0307 | RECURSO CONTRA A DECISÃO DA SIN - BANCO PACTUAL S.A. - PROC. 95/0307 | cvm-dec-1996-0036 | fichas/decisoes-antigas/1996-06.md |
+| 1996-11-01 | 96/2035 | RECURSO DE OFÍCIO EM PROCESSO DE RITO SUMÁRIO - [pessoa física] - PROC. 96/2035 | cvm-dec-1996-0037 | fichas/decisoes-antigas/1996-06.md |
+| 1996-10-28 | — | DELIBERAÇÃO QUE REVOGA A SUSPENSÃO DO REGISTRO DA DISTRIBUIÇÃO PÚBLICA DAS DEBÊNTURES DE EMISSÃO DA TRIKEM S/A | cvm-dec-1996-0038 | fichas/decisoes-antigas/1996-06.md |
+| 1996-10-25 | — | EMISSÃO DE AÇÕES SEM DIREITO A VOTO POR COMPANHIA CONTROLADA POR CAPITAL ESTRANGEIRO - ART. 40 DA | cvm-dec-1996-0039 | fichas/decisoes-antigas/1996-06.md |
+| 1996-10-25 | 96/2289 | RECURSO CONTRA A DECISÃO DA SEP - CAUCAIA INDUSTRIAL S/A - PROC. 96/2289 | cvm-dec-1996-0040 | fichas/decisoes-antigas/1996-06.md |
+| 1996-10-25 | 96/2611 | RECURSO CONTRA A DECISÃO DA SEP - TOBASA-TOCANTINS BABAÇU S/A - PROC. 96/2611 | cvm-dec-1996-0041 | fichas/decisoes-antigas/1996-06.md |
+| 1996-10-25 | 96/2379 | ALIENAÇÃO DE CONTROLE DA KEPLER WEBER S.A. POR PARTE DA BB DTVM S/A - PROC. 96/2379 | cvm-dec-1996-0042 | fichas/decisoes-antigas/1996-06.md |
+| 1996-10-25 | 96/2044 | RECURSO DE OFÍCIO EM PROCESSO DE RITO SUMÁRIO - [pessoa física] - PROC. 96/2044 | cvm-dec-1996-0043 | fichas/decisoes-antigas/1996-06.md |
+| 1996-10-25 | 96/2053 | RECURSO DE OFÍCIO EM PROCESSO DE RITO SUMÁRIO - [pessoa física] - PROC. 96/2053 | cvm-dec-1996-0044 | fichas/decisoes-antigas/1996-06.md |
+| 1996-10-25 | 96/2040 | RECURSO CONTRA A DECISÃO DA SNC - [pessoa física] - PROC. 96/2040 | cvm-dec-1996-0045 | fichas/decisoes-antigas/1996-06.md |
+| 1996-10-25 | 96/2039 | RECURSO CONTRA A DECISÃO DA SNC - [pessoa física] - PROC. 96/2039 | cvm-dec-1996-0046 | fichas/decisoes-antigas/1996-06.md |
+| 1996-10-25 | — | MINUTA DE INSTRUÇÃO E RELATÓRIO DE AUDIÊNCIA PÚBLICA REFERENTES A BDR’S | cvm-dec-1996-0047 | fichas/decisoes-antigas/1996-06.md |
+| 1996-10-22 | 96/0010 | PEDIDO DE RECONSIDERAÇÃO DE DECISÃO DO COLEGIADO - BANERJ - PROC. 96/0010 | cvm-dec-1996-0048 | fichas/decisoes-antigas/1996-06.md |
+| 1996-10-22 | — | RECURSO CONTRA A DECISÃO DA SIN - BANCO BRASCAN S/A - PROC. DF 94/0107 | cvm-dec-1996-0049 | fichas/decisoes-antigas/1996-06.md |
+| 1996-10-18 | — | MINUTA DE DELIBERAÇÃO QUE ESTABELECE PROCEDIMENTOS A SEREM SEGUIDOS NOS PEDIDOS DE RECURSO AO COLEGIADO DE DECISÕES DOS SUPERINTENDENTES DA… | cvm-dec-1996-0050 | fichas/decisoes-antigas/1996-06.md |
+| 1996-10-18 | 96/1130 | RECURSO CONTRA A DECISÃO DA SIN - BANCO ITAMARATI S.A. - PROC. 96/1130 | cvm-dec-1996-0051 | fichas/decisoes-antigas/1996-06.md |
+| 1996-10-18 | 96/2129 | RECURSO CONTRA A DECISÃO DA SEP - CEMEPE INVESTIMENTOS S/A - PROC. 96/2129 | cvm-dec-1996-0052 | fichas/decisoes-antigas/1996-06.md |
+| 1996-10-18 | 95/4673 | RECURSO CONTRA A DECISÃO DA SIN EM PROCESSO DE RITO SUMÁRIO - BANCO SAFRA S.A. - PROC. 95/4673 | cvm-dec-1996-0053 | fichas/decisoes-antigas/1996-06.md |
+| 1996-10-14 | — | DELIBERAÇÃO QUE SUSPENDE O REGISTRO DA DISTRIBUIÇÃO PÚBLICA DAS DEBÊNTURES DE EMISSÃO DA TRIKEM | cvm-dec-1996-0054 | fichas/decisoes-antigas/1996-06.md |
+| 1996-10-11 | 95/1281 | PEDIDO DE RECONSIDERAÇÃO DE DECISÃO DO COLEGIADO - POLIFLEX DA BAHIA S.A. - PROC. 95/1281 | cvm-dec-1996-0055 | fichas/decisoes-antigas/1996-05.md |
+| 1996-10-11 | SP 95/0054 | RECURSO CONTRA A DECISÃO DA SEP - BANCO REAL S/A - PROC. SP 95/0054 | cvm-dec-1996-0056 | fichas/decisoes-antigas/1996-05.md |
+| 1996-10-11 | 96/1911 | RECURSO CONTRA A DECISÃO DA SEP - ARNO S.A. - PROC. 96/1911 | cvm-dec-1996-0057 | fichas/decisoes-antigas/1996-05.md |
+| 1996-10-11 | 96/2091 | RECURSO CONTRA A DECISÃO DA SEP - BANCO FINANCEIRO E INDUSTRIAL DE INVESTIMENTO S/A - PROC. 96/2091 | cvm-dec-1996-0058 | fichas/decisoes-antigas/1996-05.md |
+| 1996-10-11 | 96/1947 | RECURSO CONTRA A DECISÃO DA SEP - ORION S/A - PROC. 96/1947 | cvm-dec-1996-0059 | fichas/decisoes-antigas/1996-05.md |
+| 1996-10-11 | 96/2110 | RECURSO CONTRA A DECISÃO DA SEP - BANCO BOZANO SIMONSEN S/A - PROC. 96/2110 | cvm-dec-1996-0060 | fichas/decisoes-antigas/1996-05.md |
+| 1996-10-11 | — | RECURSO CONTRA A DECISÃO DA SEP - DIVERSAS COMPANHIAS - PROCS. 96/2187, 96/2157, 96/2169, 96/2132, | cvm-dec-1996-0061 | fichas/decisoes-antigas/1996-05.md |
+| 1996-10-11 | 96/2636 | RECONHECIMENTO DA EXCEPCIONALIDADE DA OPERAÇÃO DE VENDA DAS AÇÕES DA COMPANHIA ENÉRGÉTICA DE MINAS GERAIS - CEMIG - MINUTA DE DELIBERAÇÃO… | cvm-dec-1996-0062 | fichas/decisoes-antigas/1996-05.md |
+| 1996-10-11 | 96/2586 | RECURSO CONTRA A DECISÃO DA SEP - COMPANHIA PARANAENSE DE ENERGIA ELÉTRICA - COPEL - PROC. 96/2586 | cvm-dec-1996-0063 | fichas/decisoes-antigas/1996-06.md |
+| 1996-10-11 | 96/3060 | RECURSO CONTRA A DECISÃO DA SEP - RMC SOCIEDADE CORRETORA - PROC. 96/3060 | cvm-dec-1996-0064 | fichas/decisoes-antigas/1996-06.md |
+| 1996-10-11 | — | COMUNICADO A SER DIVULGADO AO PÚBLICO NOS TERMOS DA DELIBERAÇÃO 178/95, CONTENDO A RELAÇÃO DAS EMPRESAS QUE ESTÃO INADIMPLENTES POR ATRASO… | cvm-dec-1996-0065 | fichas/decisoes-antigas/1996-06.md |
+| 1996-09-26 | 92/1721-5 | RECURSO CONTRA A DECISÃO DO COLEGIADO - CLUBE DE INVESTIMENTOS "SATÉLITE BB" - PROC. 92/1721-5 | cvm-dec-1996-0066 | fichas/decisoes-antigas/1996-05.md |
+| 1996-09-26 | 95/4591 | RECURSO CONTRA A DECISÃO DO COLEGIADO - DOW QUÍMICA S.A. - PROC. 95/4591 | cvm-dec-1996-0067 | fichas/decisoes-antigas/1996-05.md |
+| 1996-09-26 | 96/1878 | RECURSO CONTRA A DECISÃO DA SEP - MANGELS INDUSTRIAL S/A - PROC. 96/1878 | cvm-dec-1996-0068 | fichas/decisoes-antigas/1996-05.md |
+| 1996-09-09 | — | MINUTA DE PARECER DE ORIENTAÇÃO - ARTIGO 100, § 1º, DA LEI Nº 6404/76 - MEMO/SGE/118/96 | cvm-dec-1996-0069 | fichas/decisoes-antigas/1996-05.md |
+| 1996-09-09 | — | MINUTA DE RESOLUÇÃO QUE ALTERA E CONSOLIDA AS NORMAS QUE REGULAMENTAM AS APLICAÇÕES DOS RECURSOS DAS ENTIDADES FECHADAS DE PREVIDÊNCIA… | cvm-dec-1996-0070 | fichas/decisoes-antigas/1996-05.md |
+| 1996-09-09 | — | MINUTA DE INSTRUÇÃO QUE DISPÕE SOBRE A CONSTITUIÇÃO E O FUNCIONAMENTO DE FUNDOS MÚTUOS DE INVESTIMENTO EM AÇÕES - INVESTIDORES QUALIFICADOS | cvm-dec-1996-0071 | fichas/decisoes-antigas/1996-05.md |
+| 1996-09-09 | — | CONVÊNIO PARA PRESTAÇÃO DOS SERVIÇOS DE VENDA DE AÇÕES - TELEMIG, TELEPAR, TELERJ E TELESP - | cvm-dec-1996-0072 | fichas/decisoes-antigas/1996-05.md |
+| 1996-08-29 | 96/1782 | RECURSO CONTRA A DECISÃO DA SEP - SABESP - PROC. 96/1782 | cvm-dec-1996-0073 | fichas/decisoes-antigas/1996-05.md |
+| 1996-08-29 | — | MINUTA DE DELIBERAÇÃO ALTERANDO A COMPOSIÇÃO DA COMISSÃO CONSULTIVA DE ASSUNTOS INTERNACIONAIS | cvm-dec-1996-0074 | fichas/decisoes-antigas/1996-05.md |
+| 1996-08-23 | — | ANTEPROJETO DE LEI QUE TRATA DA REFORMULAÇÃO DA LEI Nº 6.404/76 | cvm-dec-1996-0075 | fichas/decisoes-antigas/1996-05.md |
+| 1996-08-14 | — | RECURSO CONTRA A DECISÃO DA SEP - PÉRSICO PIZZAMIGLIO S/A - MEMO/GER/017/96 | cvm-dec-1996-0076 | fichas/decisoes-antigas/1996-04.md |
+| 1996-08-14 | — | MINUTA DE DELIBERAÇÃO QUE DISPENSA DO REGISTRO DE QUE TRATA O ART. 19 DA LEI Nº 6.385/76 - COMPANHIA DE ELETRICIDADE DO RIO DE JANEIRO… | cvm-dec-1996-0077 | fichas/decisoes-antigas/1996-05.md |
+| 1996-08-14 | — | MINUTA DE DELIBERAÇÃO QUE REVOGA A DE Nº 179/95 - DELEGA COMPETÊNCIA À SIN PARA AUTORIZAR PRESTAÇÃO DE SERVIÇOS QUE ESPECIFICA E PARA… | cvm-dec-1996-0078 | fichas/decisoes-antigas/1996-05.md |
+| 1996-08-14 | — | MINUTA DE DELIBERAÇÃO QUE ALTERA A DE Nº 161/94 - COMPOSIÇÃO DA COMISSÃO CONSULTIVA SOBRE NORMAS CONTÁBEIS | cvm-dec-1996-0079 | fichas/decisoes-antigas/1996-05.md |
+| 1996-08-14 | — | DELIBERAÇÃO QUE ALTERA A ESTRUTURA ORGANIZACIONAL DA CVM | cvm-dec-1996-0080 | fichas/decisoes-antigas/1996-05.md |
+| 1996-08-14 | — | DECISÃO-CONJUNTA MINISTÉRIO DA CULTURA / COMISSÃO DE VALORES MOBILIÁRIOS | cvm-dec-1996-0081 | fichas/decisoes-antigas/1996-05.md |
+| 1996-08-14 | — | INSTRUÇÃO AMPLIANDO O CONCEITO DE EMPRESA EMERGENTE E REDUZINDO O VALOR DA QUOTA DOS FUNDOS DE QUE TRATA A INSTRUÇÃO CVM Nº 209, DE 25.03.94 | cvm-dec-1996-0082 | fichas/decisoes-antigas/1996-05.md |
+| 1996-08-09 | — | PROPOSTA DE CANCELAMENTO DE MULTA APLICADA AO DRM DA COMPANHIA BANDEIRANTES DE ARMAZÉNS | cvm-dec-1996-0083 | fichas/decisoes-antigas/1996-04.md |
+| 1996-08-09 | 94/1263 | RECLAMAÇÃO PERANTE O FUNDO DE GARANTIA DA BOLSA DE VALORES DO EXTREMO SUL - ESCOTAL ESCRITÓRIO DE CORRETAGEM DE VALORES E CÂMBIO LTDA… | cvm-dec-1996-0084 | fichas/decisoes-antigas/1996-04.md |
+| 1996-08-09 | — | MINUTA DE DELIBERAÇÃO QUE DISPÕE SOBRE A CONTABILIZAÇÃO DOS JUROS SOBRE O CAPITAL PRÓPRIO PREVISTOS NA LEI Nº 9.249/95 | cvm-dec-1996-0085 | fichas/decisoes-antigas/1996-04.md |
+| 1996-08-09 | 96/0092 | RECURSO CONTRA A DECISÃO DA SEP - PAES MENDONÇA S/A - PROC. 96/0092 | cvm-dec-1996-0086 | fichas/decisoes-antigas/1996-04.md |
+| 1996-08-09 | 96/0944 | RECURSO CONTRA A DECISÃO DA SEP - MARCOPOLO S/A - PROC. 96/0944 | cvm-dec-1996-0087 | fichas/decisoes-antigas/1996-04.md |
+| 1996-08-09 | 96/1845 | RECURSO CONTRA A DECISÃO DA SEP - COSIPA - PROC. 96/1845 | cvm-dec-1996-0088 | fichas/decisoes-antigas/1996-04.md |
+| 1996-08-09 | 96/1846 | RECURSO CONTRA A DECISÃO DA SEP - AVIPAL - PROC. 96/1846 | cvm-dec-1996-0089 | fichas/decisoes-antigas/1996-04.md |
+| 1996-08-09 | 96/0866 | RECURSO CONTRA A DECISÃO DA SEP EM PROCESSO DE RITO SUMÁRIO - GIANNINI S/A - PROC. 96/0866 | cvm-dec-1996-0090 | fichas/decisoes-antigas/1996-04.md |
+| 1996-08-09 | 96/2254 | RECURSO CONTRA A DECISÃO DA SEP - ECIL S.A. - PROC. 96/2254 | cvm-dec-1996-0091 | fichas/decisoes-antigas/1996-04.md |
+| 1996-08-09 | 96/1905 | RECURSO DE OFÍCIO A SER ENCAMINHADO AO CRSFN EM PROCESSO DE RITO SUMÁRIO ARQUIVADO PELA SIN - NORCHEM DTVM S.A. - PROC. 96/1905 | cvm-dec-1996-0092 | fichas/decisoes-antigas/1996-04.md |
+| 1996-07-26 | — | MINUTA DE DECISÃO-CONJUNTA CVM-BACEN QUE DISPÕE SOBRE A AUTORIZAÇÃO PARA A DISTRIBUIÇÃO PÚBLICA DE VALORES MOBILIÁRIOS POR SOCIEDADES… | cvm-dec-1996-0093 | fichas/decisoes-antigas/1996-04.md |
+| 1996-07-26 | — | MEMORANDO DE ENTENDIMENTO (MOU) ENTRE A SECURITIES AND EXCHANGE COMMISSION DE HONG KONG E A | cvm-dec-1996-0094 | fichas/decisoes-antigas/1996-04.md |
+| 1996-07-11 | — | MINUTA DE DELIBERAÇÃO QUE DETERMINA A IMEDIATA SUSPENSÃO DAS ATIVIDADES DE INTERMEDIAÇÃO DA AC- ASSESSORIA E ADMINISTRAÇÃO LTDA. | cvm-dec-1996-0095 | fichas/decisoes-antigas/1996-04.md |
+| 1996-07-11 | — | MINUTA DE INSTRUÇÃO QUE DISPÕE SOBRE A OBRIGATORIEDADE DA PRESTAÇÃO DE INFORMAÇÕES À CVM, PELAS BOLSAS DE VALORES E BOLSAS DE FUTUROS… | cvm-dec-1996-0096 | fichas/decisoes-antigas/1996-04.md |
+| 1996-07-11 | — | MINUTA DE DELIBERAÇÃO SOBRE CAPITALIZAÇÃO DE JUROS | cvm-dec-1996-0097 | fichas/decisoes-antigas/1996-04.md |
+| 1996-07-04 | 96/1687 | RECURSO CONTRA A DECISÃO DA SEP - ARTHUR LANGE S/A IND. E COM. - PROC. 96/1687 | cvm-dec-1996-0098 | fichas/decisoes-antigas/1996-04.md |
+| 1996-07-04 | 96/1931 | RECURSO CONTRA DECISÃO DA SEP - EMBRAER - PROC. 96/1931 | cvm-dec-1996-0099 | fichas/decisoes-antigas/1996-04.md |
+| 1996-06-28 | — | CONSULTA DA ABRASCA SOBRE OBRIGATORIEDADE DE FORNECIMENTO DE LISTAGENS DE ACIONISTAS QUE LHE SÃO SOLICITADAS, CONFORME FACULTA O § 1º, DO… | cvm-dec-1996-0100 | fichas/decisoes-antigas/1996-04.md |
+| 1996-06-28 | — | PEDIDO DE RECONSIDERAÇÃO DA DECISÃO DO COLEGIADO - COMPANHIA ENERGÉTICA DE BRASÍLIA - PROC. | cvm-dec-1996-0101 | fichas/decisoes-antigas/1996-04.md |
+| 1996-06-28 | 96/1072 | RECURSO CONTRA A DECISÃO DA SEP - DATAMEC S/A - PROC. 96/1072 | cvm-dec-1996-0102 | fichas/decisoes-antigas/1996-04.md |
+| 1996-06-14 | — | PROPOSTA DE INSTRUÇÃO QUE ALTERA A DE Nº 135/90, QUE DISPÕE SOBRE AS HIPÓTESES DE APLICAÇÃO DO RITO SUMÁRIO NO PROCESSO ADMINISTRATIVO… | cvm-dec-1996-0103 | fichas/decisoes-antigas/1996-04.md |
+| 1996-06-14 | — | DECLARAÇÃO SOBRE COOPERAÇÃO E SUPERVISÃO INTERNACIONAIS DE MERCADOS DE FUTUROS E ORGANIZAÇÕES DE COMPENSAÇÃO DE OPERAÇÕES | cvm-dec-1996-0104 | fichas/decisoes-antigas/1996-04.md |
+| 1996-06-14 | — | PROPOSTA DE INSTRUÇÃO QUE ALTERA A DE Nº 243/96 QUE DISCIPLINA O FUNCIONAMENTO DO MERCADO DE BALCÃO ORGANIZADO | cvm-dec-1996-0105 | fichas/decisoes-antigas/1996-04.md |
+| 1996-06-07 | — | MEMORANDO DE ENTENDIMENTO ENTRE A CVM E A SUPERINTENDENCIA DE COMPAÑIAS DO ECUADOR | cvm-dec-1996-0106 | fichas/decisoes-antigas/1996-04.md |
+| 1996-06-07 | 95/4591 | RECURSO CONTRA DECISÃO DO COLEGIADO - DOW QUÍMICA S.A - PROC. 95/4591 | cvm-dec-1996-0107 | fichas/decisoes-antigas/1996-04.md |
+| 1996-06-07 | — | SUGESTÃO DE ALTERAÇÃO DO ART. 27 DA INSTRUÇÃO 215/94 - AMPLIAÇÃO DOS PRAZOS DE RESGATE DOS FUNDOS DE INVESTIMENTO CONSTITUÍDOS SOB A FORMA… | cvm-dec-1996-0108 | fichas/decisoes-antigas/1996-04.md |
+| 1996-05-29 | — | MEMORANDO DE ENTENDIMENTO ENTRE A CVM E A COMISIÓN NACIONAL SUPERVISORA DE EMPRESAS Y VALORES | cvm-dec-1996-0109 | fichas/decisoes-antigas/1996-04.md |
+| 1996-05-29 | RJ96/0749 | MECANISMO DE NOTIFICAÇÃO ENTRE A CVM E A SEC - PROC.RJ96/0749 | cvm-dec-1996-0110 | fichas/decisoes-antigas/1996-04.md |
+| 1996-05-29 | 95/0357 | RECURSO CONTRA DECISÃO DO COLEGIADO - UNIBANCO S/A - PROC. 95/0357 | cvm-dec-1996-0111 | fichas/decisoes-antigas/1996-04.md |
+| 1996-05-24 | — | RECURSO DA BOVESPA CONTRA DECISÃO DO SGE | cvm-dec-1996-0112 | fichas/decisoes-antigas/1996-04.md |
+| 1996-05-16 | 94/0965 | DESTITUIÇÃO DE SÍNDICO DE MASSA FALIDA DA OLICAL INDUSTRIAL S/A - PROC. 94/0965< | cvm-dec-1996-0113 | fichas/decisoes-antigas/1996-03.md |
+| 1996-05-16 | — | MINUTA DE DELIBERAÇÃO QUE ESTABELECE PROCEDIMENTOS A SEREM OBSERVADOS PELAS INSTITUIÇÕES ADMINISTRADORAS DE FUNDOS MÚTUOS DE AÇÕES QUE… | cvm-dec-1996-0114 | fichas/decisoes-antigas/1996-03.md |
+| 1996-05-09 | 94/1263 | RECLAMAÇÃO PERANTE O FUNDO DE GARANTIA DA BOLSA DE VALORES DO EXTREMO SUL - ESCOTAL ESCRITÓRIO DE CORRETAGEM DE VALORES E CÂMBIO LTDA… | cvm-dec-1996-0115 | fichas/decisoes-antigas/1996-03.md |
+| 1996-05-09 | — | MEMORANDO DE ENTENDIMENTO ENTRE A CVM E A SUPERINTENDENCIA DE VALORES Y SEGUROS DO CHILE | cvm-dec-1996-0116 | fichas/decisoes-antigas/1996-03.md |
+| 1996-05-09 | 94/1226 | PEDIDO DE RECONSIDERAÇÃO DE DECISÃO DO COLEGIADO - GRUPO BANGU - PROC. 94/1226 | cvm-dec-1996-0117 | fichas/decisoes-antigas/1996-03.md |
+| 1996-05-09 | 95/4346 | RECURSO CONTRA A DECISÃO DA SEP - [pessoa física]. E COMÉRCIO - PROC. 95/4346 | cvm-dec-1996-0118 | fichas/decisoes-antigas/1996-03.md |
+| 1996-05-09 | — | SOLICITAÇÃO DA ABRASCA DE PRORROGAÇÃO DO PRAZO PARA ENTREGA DAS INFORMAÇÕES TRIMESTRAIS | cvm-dec-1996-0119 | fichas/decisoes-antigas/1996-03.md |
+| 1996-05-02 | 95/2358 | RECURSO CONTRA A DECISÃO DA SEP - GRUPO GERDAU - PROC. 95/2358 | cvm-dec-1996-0120 | fichas/decisoes-antigas/1996-03.md |
+| 1996-04-26 | — | MINUTA DE DELIBERAÇÃO QUE CRIA A COMISSÃO CONSULTIVA DE ASSUNTOS TRIBUTÁRIOS | cvm-dec-1996-0121 | fichas/decisoes-antigas/1996-03.md |
+| 1996-04-26 | 95/4537 | RECURSO CONTRA A DECISÃO DA SEP EM PROCESSO DE RITO SUMÁRIO - FICHET S/A - PROC. 95/4537 | cvm-dec-1996-0122 | fichas/decisoes-antigas/1996-03.md |
+| 1996-04-26 | — | RECURSO CONTRA A DECISÃO DA SIN EM PROCESSO DE RITO SUMÁRIO - BANCO FRANCÊS E BRASILEIRO S/A - | cvm-dec-1996-0123 | fichas/decisoes-antigas/1996-03.md |
+| 1996-04-26 | — | MINUTA DE DELIBERAÇÃO SOBRE ALIENAÇÃO DE CONTROLE DA NACIONAL ENERGÉTICA S.A. | cvm-dec-1996-0124 | fichas/decisoes-antigas/1996-03.md |
+| 1996-04-26 | 95/1877 | BRASILEIRAS S/A - PROC. 95/1877 | cvm-dec-1996-0125 | fichas/decisoes-antigas/1996-03.md |
+| 1996-04-26 | — | RECURSO CONTRA A DECISÃO DA SIN EM PROCESSO DE RITO SUMÁRIO - BANCO DE INVESTIMENTOS BMC S.A. - | cvm-dec-1996-0126 | fichas/decisoes-antigas/1996-03.md |
+| 1996-04-11 | — | PLEITO DA BOVESPA DE CRIAÇÃO DE MERCADO DE EMPRESAS TELE-ASSISTIDAS - META | cvm-dec-1996-0127 | fichas/decisoes-antigas/1996-03.md |
+| 1996-04-11 | 96/0383 | RECURSO CONTRA A DECISÃO DA SEP - ENXUTA S/A - PROC. 96/0383 | cvm-dec-1996-0128 | fichas/decisoes-antigas/1996-03.md |
+| 1996-04-11 | — | MINUTA DE PARECER DE ORIENTAÇÃO QUE TRATA DA DIVULGAÇÃO DE INFORMAÇÕES VOLUNTÁRIAS EM MOEDA DE CAPACIDADE AQUISITIVA CONSTANTE | cvm-dec-1996-0129 | fichas/decisoes-antigas/1996-03.md |
+| 1996-04-11 | — | RECURSO CONTRA A DECISÃO DA SEP - CIA. ENERGÉTICA DE BRASÍLIA | cvm-dec-1996-0130 | fichas/decisoes-antigas/1996-03.md |
+| 1996-04-11 | — | MINUTA DE INSTRUÇÃO QUE REGULAMENTA O EMPRÉSTIMO DE AÇÕES PELAS ENTIDADES PRESTADORAS DE SERVIÇOS DE LIQUIDAÇÃO, REGISTRO E CUSTÓDIA DE… | cvm-dec-1996-0131 | fichas/decisoes-antigas/1996-03.md |
+| 1996-03-29 | 95/4586 | RECURSO CONTRA A DECISÃO DA SEP - BAMERINDUS CIA. DE SEGUROS - PROC. 95/4586 | cvm-dec-1996-0132 | fichas/decisoes-antigas/1996-03.md |
+| 1996-03-29 | 96/0509 | RECURSO CONTRA A DECISÃO DA SEP - FATOR EMPREENDIMENTOS IMOBILIÁRIOS S.A. - PROC. 96/0509 | cvm-dec-1996-0133 | fichas/decisoes-antigas/1996-03.md |
+| 1996-03-29 | 96/0491 | RECURSO CONTRA A DECISÃO DA SEP - JOÃO FORTES ENGENHARIA S.A. - PROC. 96/0491 | cvm-dec-1996-0134 | fichas/decisoes-antigas/1996-03.md |
+| 1996-03-29 | 96/0664 | RECURSO CONTRA A DECISÃO DA SEP - GAFISA PARTICIPAÇÕES S.A. - PROC. 96/0664 | cvm-dec-1996-0135 | fichas/decisoes-antigas/1996-03.md |
+| 1996-03-29 | — | MINUTA DE INSTRUÇÃO QUE TRATA DA DIVULGAÇÃO DE INFORMAÇÕES VOLUNTÁRIAS, ELABORADAS NA FORMA DA | cvm-dec-1996-0136 | fichas/decisoes-antigas/1996-03.md |
+| 1996-03-22 | 95/2643 | RECURSO CONTRA A DECISÃO DA SEP - TEKA TECELAGEM KUEHNRICH S.A. - PROC. 95/2643 | cvm-dec-1996-0137 | fichas/decisoes-antigas/1996-02.md |
+| 1996-03-22 | 95/4591 | RECURSO CONTRA A DECISÃO DA SEP - DOW QUÍMICA S/A - PROC. 95/4591 | cvm-dec-1996-0138 | fichas/decisoes-antigas/1996-02.md |
+| 1996-03-22 | — | SOLICITAÇÃO DE DISPENSA DO PAGAMENTO DE MULTA REFERENTE À TAXA DE FISCALIZAÇÃO - PROSPER S/A CVC - | cvm-dec-1996-0139 | fichas/decisoes-antigas/1996-02.md |
+| 1996-03-22 | 96/0455 | RECURSO APRESENTADO PELA PRODUTORA DO FILME "DOCES PODERES" - CERTIFICADO DE INVESTIMENTO AUDIOVISUAL - PROC. 96/0455 | cvm-dec-1996-0140 | fichas/decisoes-antigas/1996-02.md |
+| 1996-03-22 | 91/1484-0 | RECURSO CONTRA A DECISÃO DA SMI EM PROCESSO DE RITO SUMÁRIO - SOGERAL S/A CCTVM - PROC. 91/1484-0 | cvm-dec-1996-0141 | fichas/decisoes-antigas/1996-02.md |
+| 1996-03-22 | 91/0238-8 | RECURSO CONTRA A DECISÃO DA SMI EM PROCESSO DE RITO SUMÁRIO - ESCRITÓRIO RUY LAGE SOCIEDADE CORRETORA DE TÍTULOS LTDA. - PROC. 91/0238-8 | cvm-dec-1996-0142 | fichas/decisoes-antigas/1996-02.md |
+| 1996-03-22 | 91/1640-0 | RECURSO CONTRA A DECISÃO DA SMI EM PROCESSO DE RITO SUMÁRIO - BRADESCO S/A CTVM - PROC. 91/1640-0 | cvm-dec-1996-0143 | fichas/decisoes-antigas/1996-02.md |
+| 1996-03-22 | 91/1566-8 | RECURSO CONTRA A DECISÃO DA SMI EM PROCESSO DE RITO SUMÁRIO - ITAÚ CV S/A - PROC. 91/1566-8 | cvm-dec-1996-0144 | fichas/decisoes-antigas/1996-02.md |
+| 1996-03-22 | 92/1330-9 | RECURSO CONTRA A DECISÃO DA SMI EM PROCESSO DE RITO SUMÁRIO - CORRETORA GERAL DE VALORES E CÂMBIO LTDA. - PROC. 92/1330-9 | cvm-dec-1996-0145 | fichas/decisoes-antigas/1996-02.md |
+| 1996-03-22 | — | MINUTA DE INSTRUÇÃO E RESPECTIVA NOTA EXPLICATIVA QUE ATUALIZA E CONSOLIDA AS INSTRUÇÕES 01/78 E 15/80 - RELATÓRIO DE AUDIÊNCIA PÚBLICA | cvm-dec-1996-0146 | fichas/decisoes-antigas/1996-02.md |
+| 1996-03-15 | 95/3819 | RECURSO CONTRA A DECISÃO DA SEP - [pessoa física]. E COM. - PROC. 95/3819 | cvm-dec-1996-0147 | fichas/decisoes-antigas/1996-02.md |
+| 1996-03-15 | 95/3820 | RECURSO CONTRA A DECISÃO DA SEP - LOJAS RENNER S.A. - PROC. 95/3820 | cvm-dec-1996-0148 | fichas/decisoes-antigas/1996-02.md |
+| 1996-03-15 | 95/0770 | RECURSO CONTRA A DECISÃO DA SIN EM PROCESSO DE RITO SUMÁRIO - BANCO FINANCEIRO E INDUSTRIAL DE INVESTIMENTO S/A - PROC. 95/0770 | cvm-dec-1996-0149 | fichas/decisoes-antigas/1996-02.md |
+| 1996-03-15 | 95/1452 | RECURSO CONTRA A DECISÃO DA SIN EM PROCESSO DE RITO SUMÁRIO - FONTE S/A CCV - PROC. 95/1452 | cvm-dec-1996-0150 | fichas/decisoes-antigas/1996-02.md |
+| 1996-03-15 | — | REDUÇÃO DO VALOR MÍNIMO DE QUOTA - FUNDOS MÚTUOS DE INVESTIMENTO EM EMPRESAS EMERGENTES - | cvm-dec-1996-0151 | fichas/decisoes-antigas/1996-02.md |
+| 1996-03-01 | — | ALTERAÇÃO DA INSTRUÇÃO 93/88 QUE DISCIPLINA O MERCADO DE BALCÃO ORGANIZADO - RESULTADO DA AUDIÊNCIA PÚBLICA | cvm-dec-1996-0152 | fichas/decisoes-antigas/1996-02.md |
+| 1996-03-01 | — | ALTERAÇÃO DA INSTRUÇÃO 121/90 QUE DISPÕE SOBRE OPERAÇÕES DESTINADAS A FORMAR MERCADO PARA AÇÕES EM BOLSAS DE VALORES OU MERCADO DE BALCÃO… | cvm-dec-1996-0153 | fichas/decisoes-antigas/1996-02.md |
+| 1996-03-01 | — | MINUTA DE INSTRUÇÃO QUE DISPÕE SOBRE O REGISTRO DE COMPANHIA PARA NEGOCIAÇÃO DE SEUS VALORES MOBILIÁRIOS EM MERCADO DE BALCÃO ORGANIZADO… | cvm-dec-1996-0154 | fichas/decisoes-antigas/1996-02.md |
+| 1996-03-01 | 95/3589 | RECURSO CONTRA A DECISÃO DA SEP - CELESC - [pessoa física] S/A - PROC. 95/3589 | cvm-dec-1996-0155 | fichas/decisoes-antigas/1996-02.md |
+| 1996-03-01 | 95/0357 | RECURSO CONTRA A DECISÃO DA SIN - UNIBANCO - PROC. 95/0357 | cvm-dec-1996-0156 | fichas/decisoes-antigas/1996-02.md |
+| 1996-03-01 | 95/2171 | RECURSO CONTRA A DECISÃO DA SIN - BANCO ITAMARATI S.A. - PROC. 95/2171 | cvm-dec-1996-0157 | fichas/decisoes-antigas/1996-02.md |
+| 1996-02-16 | — | TAXA DE FISCALIZAÇÃO DE EMPRESAS EM LIQUIDAÇÃO EXTRAJUDICIAL - MEMO/SAD/007/96 | cvm-dec-1996-0158 | fichas/decisoes-antigas/1996-02.md |
+| 1996-02-16 | — | ACORDO DE COOPERAÇÃO ENTRE A CVM E A CONSOB DA ITÁLIA | cvm-dec-1996-0159 | fichas/decisoes-antigas/1996-02.md |
+| 1996-02-16 | 90/0293-6 | RECURSO CONTRA DECISÃO DA SMI - WALL STREET DTVM LTDA. - PROC. 90/0293-6 | cvm-dec-1996-0160 | fichas/decisoes-antigas/1996-02.md |
+| 1996-02-16 | — | CONVÊNIO DE COOPERAÇÃO ENTRE A CVM E A FUNDAÇÃO GETÚLIO VARGAS | cvm-dec-1996-0161 | fichas/decisoes-antigas/1996-02.md |
+| 1996-02-06 | — | CERTIFICADO DE DEPÓSITO DE AÇÕES DE COMPANHIAS ESTRANGEIRAS - MINUTA DE INSTRUÇÃO PARA AUDIÊNCIA | cvm-dec-1996-0162 | fichas/decisoes-antigas/1996-02.md |
+| 1996-02-06 | 96/0022 | SOLICITAÇÃO DE ORIENTAÇÃO AO COLEGIADO - DIFERIMENTO DE GASTOS INCORRIDOS COM REESTRUTURAÇÃO E REORGANIZAÇÃO AMPARADO PELA CIRCULAR 2582 DO… | cvm-dec-1996-0163 | fichas/decisoes-antigas/1996-02.md |
+| 1996-02-01 | — | APROVAÇÃO DA MINUTA DE DECISÃO-CONJUNTA CVM/BACEN SOBRE AS CONDIÇÕES DE REMUNERAÇÃO DE | cvm-dec-1996-0164 | fichas/decisoes-antigas/1996-02.md |
+| 1996-02-01 | — | ACORDO DE COOPERAÇÃO ENTRE A CVM E A CNMV DA ESPANHA | cvm-dec-1996-0165 | fichas/decisoes-antigas/1996-02.md |
+| 1996-01-26 | — | MINUTA DE DECISÃO-CONJUNTA BACEN/CVM QUE AUTORIZA A APLICAÇÃO DE RECURSOS DAS CARTEIRAS DE VALORES MOBILIÁRIOS NO PAÍS POR INVESTIDORES… | cvm-dec-1996-0166 | fichas/decisoes-antigas/1996-01.md |
+| 1996-01-26 | — | MINUTA DE INSTRUÇÃO QUE DISPÕE SOBRE INFORMAÇÕES A SEREM PRESTADAS PELOS ADMINISTRADORES DE CARTEIRA DE ANEXO IV | cvm-dec-1996-0167 | fichas/decisoes-antigas/1996-01.md |
+| 1996-01-26 | — | PEDIDO DE AUTORIZAÇÃO PARA A ADMINISTRAÇÃO DE FUNDO DE CONVERSÃO-CAPITAL ESTRANGEIRO COMO ENTIDADE EQUIPARADA A INSTITUIÇÃO FINANCEIRA… | cvm-dec-1996-0168 | fichas/decisoes-antigas/1996-02.md |
+| 1996-01-19 | — | ALTERAÇÃO DA INSTRUÇÃO 93/88 QUE DISCIPLINA O MERCADO DE BALCÃO ORGANIZADO | cvm-dec-1996-0169 | fichas/decisoes-antigas/1996-01.md |
+| 1996-01-19 | — | ALTERAÇÃO DA INSTRUÇÃO 121/90 QUE DISPÕE SOBRE OPERAÇÕES DESTINADAS A FORMAR MERCADO PARA AÇÕES EM BOLSAS DE VALORES OU MERCADO DE BALCÃO… | cvm-dec-1996-0170 | fichas/decisoes-antigas/1996-01.md |
+| 1996-01-19 | — | MINUTA DE INSTRUÇÃO QUE DISPÕE SOBRE O REGISTRO DE COMPANHIA PARA NEGOCIAÇÃO DE SEUS VALORES MOBILIÁRIOS EM MERCADO DE BALCÃO ORGANIZADO | cvm-dec-1996-0171 | fichas/decisoes-antigas/1996-01.md |
+| 1996-01-19 | — | REFAZIMENTO E REPUBLICAÇÃO DAS DEMONSTRAÇÕES FINANCEIRAS DE 31.12.94 - BANCO DO ESTADO DO RIO DE JANEIRO - BANERJ | cvm-dec-1996-0172 | fichas/decisoes-antigas/1996-01.md |
+| 1996-01-12 | — | (sem título) | cvm-dec-1996-0173 | fichas/decisoes-antigas/1996-01.md |
+| 1996-01-12 | — | PROPOSTA DO BANCO DO BRASIL - PRIVATIZAÇÃO. MINUTA DE INSTRUÇÃO QUE DISPÕE SOBRE CONSTITUIÇÃO, FUNCIONAMENTO E ADMINISTRAÇÃO DE FUNDOS… | cvm-dec-1996-0174 | fichas/decisoes-antigas/1996-01.md |
+| 1996-01-12 | — | CREDENCIAMENTO ADMINISTRADOR FIF - MINUTA DE DELIBERAÇÃO QUE REVOGA A DELIBERAÇÃO Nº 151/92 | cvm-dec-1996-0175 | fichas/decisoes-antigas/1996-01.md |
+| 1996-01-12 | — | RECURSO CONTRA DECISÃO DA SIN - THE OFFIT ENERGY INCOME FUND, L.P. E THE DORIS FISHER 1991 CHARITABLE REMAINDER TRUST Nº 2 - MEMO/SIN/Nº… | cvm-dec-1996-0176 | fichas/decisoes-antigas/1996-01.md |
+| 1995-12-28 | RJ95/3589 | RECURSO CONTRA DECISÃO DA SEP - CELESC - [pessoa física] S/A - PROC. RJ95/3589 | cvm-dec-1996-0188 | fichas/decisoes-antigas/1996-01.md |
+| 1995-12-28 | RJ95/1877 | RECURSO CONTRA DECISÃO DA SEP - LOJAS BRASILEIRAS S/A - PROC. RJ95/1877 | cvm-dec-1996-0189 | fichas/decisoes-antigas/1996-01.md |
+| 1995-12-28 | 95/0951 | PEDIDO DE RECONSIDERAÇÃO DE DECISÃO DO COLEGIADO - PANATLÂNTICA S/A E LIMASA S/A - PROC. 95/0951 | cvm-dec-1996-0190 | fichas/decisoes-antigas/1996-01.md |
+| 1995-11-17 | — | ACORDO DE TROCA DE INFORMAÇÕES ENTRE AS BOLSAS BRASILEIRAS E AS DOS EUA | cvm-dec-1996-0177 | fichas/decisoes-antigas/1996-01.md |
+| 1995-11-17 | 95/1281 | RECURSO CONTRA A DECISÃO DA SEP - POLIFLEX DA BAHIA S.A. - PROC. 95/1281 | cvm-dec-1996-0178 | fichas/decisoes-antigas/1996-01.md |
+| 1995-11-17 | 95/1959 | RECURSO CONTRA A DECISÃO DA SEP - PETROLUSA - PROC. 95/1959 | cvm-dec-1996-0179 | fichas/decisoes-antigas/1996-01.md |
+| 1995-11-17 | 95/1509 | RECURSO CONTRA A DECISÃO DA SEP - PERSICO PIZZAMIGLIO S.A. - PROC. 95/1509 | cvm-dec-1996-0180 | fichas/decisoes-antigas/1996-01.md |
+| 1995-11-17 | 95/1407 | CLUBES DE INVESTIMENTO - CONSULTA DA COPEL - PROC. 95/1407 | cvm-dec-1996-0181 | fichas/decisoes-antigas/1996-01.md |
+| 1995-11-17 | — | PROPOSTA DE ALTERAÇÃO DA INSTRUÇÃO 208/94, QUE DISPÕE SOBRE REGISTRO DE EMISSÃO DE CERTIFICADOS DE INVESTIMENTO AUDIOVISUAL | cvm-dec-1996-0182 | fichas/decisoes-antigas/1996-01.md |
+| 1995-10-11 | 95/0889 | RECURSO BANCO BANDEIRANTES DE INVESTIMENTO S/A - PROC. 95/0889 | cvm-dec-1996-0191 | fichas/decisoes-antigas/1996-01.md |
+| 1995-10-11 | — | RECURSO LORETTA J. PRIM FAMILY PARTNERSHIP E PRIM AND ASSOCIATES - MEMO/SIN/035/95 | cvm-dec-1996-0192 | fichas/decisoes-antigas/1996-01.md |
+| 1995-10-11 | — | MINUTA DE INSTRUÇÃO QUE ALTERA PRAZO DE ENTREGA DAS INFORMAÇÕES PRESTADAS PELOS FUNDOS DE INVESTIMENTO - MEMO/SIN/085/95 | cvm-dec-1996-0193 | fichas/decisoes-antigas/1996-01.md |
+| 1994-10-11 | 94/1226 | SOLICITAÇÃO DE PRAZO ADICIONAL PARA ADITAMENTO AO PEDIDO DE RECONSIDERAÇÃO DE DECISÃO DO COLEGIADO – PROC. 94/1226 | cvm-dec-1996-0187 | fichas/decisoes-antigas/1996-01.md |
+| 1994-05-10 | — | [pessoa física] – RECURSO CONTRA DECISÃO DA SEP | cvm-dec-1996-0183 | fichas/decisoes-antigas/1996-01.md |
+| 1994-05-10 | — | CLUBE DE INVESTIMENTO SATELITE BB – RECURSO CONTRA DECISÃO DO SMI | cvm-dec-1996-0184 | fichas/decisoes-antigas/1996-01.md |
+| 1994-05-10 | — | PROPOSTAS DE ARTIGO PARA CONVERSÃO DAS DEMONSTRAÇÕES CONTÁBEIS | cvm-dec-1996-0185 | fichas/decisoes-antigas/1996-01.md |
+| 1993-08-17 | — | ALIENAÇÃO DE CONTROLE DO GRUPO BANGU | cvm-dec-1996-0186 | fichas/decisoes-antigas/1996-01.md |
 
 Fim do subíndice.

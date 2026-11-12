@@ -11,6 +11,6 @@ Norma: [bcb/circulares/3082.md](../../normas/bcb/circulares/3082.md) (texto vige
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2002/8428 | 2004-10-14 | parcial | cvm-pas-rj2002-8428 | fichas/pas/2004-06.md |
+| pas | RJ2002/8428 | 2004-10-14 | parcial | cvm-pas-rj2002-8428 | fichas/pas/2004-12.md |
 
 Fim do subíndice.

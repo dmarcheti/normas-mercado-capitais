@@ -18,19 +18,19 @@ Norma: fora do acervo.
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 126 | acordao-crsfn | SP-2004-113 | 2008-06-24 | arquivamento | crsfn-7529 | fichas/crsfn/2008-03.md |
-| art. 126 | acordao-crsfn | 03/97 | 2008-06-24 | parcial | crsfn-8615 | fichas/crsfn/2008-03.md |
+| art. 126 | acordao-crsfn | 03/97 | 2008-06-24 | parcial | crsfn-8615 | fichas/crsfn/2008-04.md |
 | art. 126 | acordao-crsfn | RJ-2005/2815 | 2009-03-18 | arquivamento | crsfn-9198 | fichas/crsfn/2009-01.md |
-| art. 126 | acordao-crsfn | 08/2012 | 2020-09-15 | parcial | crsfn-10372-000204-2016-41 | fichas/crsfn/2020-04.md |
-| art. 126 | acordao-crsfn | IA-2011-2 | 2020-08-18 | condenacao | crsfn-10372-000380-2016-83 | fichas/crsfn/2020-04.md |
-| art. 126 | acordao-crsfn | 04/2013 | 2020-08-18 | condenacao | crsfn-10372-000470-2016-74 | fichas/crsfn/2020-04.md |
+| art. 126 | acordao-crsfn | 08/2012 | 2020-09-15 | parcial | crsfn-10372-000204-2016-41 | fichas/crsfn/2020-06.md |
+| art. 126 | acordao-crsfn | IA-2011-2 | 2020-08-18 | condenacao | crsfn-10372-000380-2016-83 | fichas/crsfn/2020-05.md |
+| art. 126 | acordao-crsfn | 04/2013 | 2020-08-18 | condenacao | crsfn-10372-000470-2016-74 | fichas/crsfn/2020-05.md |
 
 ## art. 133
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 133, inciso V | acordao-crsfn | 08/2012 | 2020-09-15 | parcial | crsfn-10372-000204-2016-41 | fichas/crsfn/2020-04.md |
-| art. 133, inciso V | acordao-crsfn | IA-2011-2 | 2020-08-18 | condenacao | crsfn-10372-000380-2016-83 | fichas/crsfn/2020-04.md |
-| art. 133, inciso V | acordao-crsfn | 04/2013 | 2020-08-18 | condenacao | crsfn-10372-000470-2016-74 | fichas/crsfn/2020-04.md |
+| art. 133, inciso V | acordao-crsfn | 08/2012 | 2020-09-15 | parcial | crsfn-10372-000204-2016-41 | fichas/crsfn/2020-06.md |
+| art. 133, inciso V | acordao-crsfn | IA-2011-2 | 2020-08-18 | condenacao | crsfn-10372-000380-2016-83 | fichas/crsfn/2020-05.md |
+| art. 133, inciso V | acordao-crsfn | 04/2013 | 2020-08-18 | condenacao | crsfn-10372-000470-2016-74 | fichas/crsfn/2020-05.md |
 
 ## Citada sem dispositivo identificado
 

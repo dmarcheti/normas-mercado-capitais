@@ -153,6 +153,53 @@ class TestFichas(Base):
         self.assertLess(txt.index("## a\n"), txt.index("## b\n"))
 
 
+class TestLimiteDoTrechoPorGrupo(Base):
+    """PAS e acórdãos do CRSFN (várias partes) levam trecho de até 4.000 caracteres; os demais, 1.500."""
+
+    def trecho_gerado(self, rel, id_, tipo, corpo, arquivo):
+        gravar(self.ent, rel, julgado(id_, "2022-03-01", tipo=tipo, corpo=corpo))
+        self.rodar()
+        t = ler(self.sai, arquivo)
+        return next(l for l in t.split("\n") if l.startswith("- trecho: "))[len("- trecho: "):]
+
+    def test_limites_por_grupo(self):
+        self.assertEqual(F.LIMITE_TRECHO, 1500)
+        self.assertEqual(F.LIMITE_TRECHO_GRUPO, {"pas": 4000, "crsfn": 4000})
+
+    def test_pas_leva_ate_4000_caracteres(self):
+        corpo = "Decisão: Vistos, relatados e discutidos os autos, " + "multa ao acusado X e absolvição de Y; " * 300
+        trecho = self.trecho_gerado("cvm/pas/2022/p.md", "cvm-pas-p", "pas", corpo, "pas/2022.md")
+        self.assertGreater(len(trecho), 3500)
+        self.assertLessEqual(len(trecho), F.LIMITE_TRECHO_GRUPO["pas"] + 6)
+        self.assertTrue(trecho.endswith(" [...]"))
+
+    def test_crsfn_leva_ate_4000_caracteres(self):
+        corpo = "## Acórdão\n\nVistos, relatados e discutidos os autos, " + "decidem manter a multa de Z; " * 300
+        trecho = self.trecho_gerado("crsfn/2022/9.md", "crsfn-9", "acordao-crsfn", corpo, "crsfn/2022.md")
+        self.assertGreater(len(trecho), 3500)
+        self.assertLessEqual(len(trecho), F.LIMITE_TRECHO_GRUPO["crsfn"] + 6)
+
+    def test_colegiado_e_tc_continuam_em_1500(self):
+        corpo = "## Decisão\n\nO Colegiado deliberou " + "acolher o pedido e " * 300
+        t1 = self.trecho_gerado("cvm/colegiado/2022/c.md", "cvm-col-c", "decisao-colegiado", corpo,
+                                "colegiado/2022.md")
+        t2 = self.trecho_gerado("cvm/colegiado/2022/t.md", "cvm-col-t", "termo-compromisso", corpo, "tc/2022.md")
+        for t in (t1, t2):
+            self.assertGreater(len(t), 1400)
+            self.assertLessEqual(len(t), F.LIMITE_TRECHO + 6)
+
+    def test_ficha_de_4000_nao_estoura_o_arquivo(self):
+        corpo = "Decisão: Vistos, " + "multa ao acusado X e absolvição de Y; " * 300
+        for i in range(12):
+            gravar(self.ent, "cvm/pas/2022/p%02d.md" % i, julgado("cvm-pas-%02d" % i, "2022-03-%02d" % (i + 1),
+                                                                  tipo="pas", corpo=corpo))
+        self.rodar()
+        nomes = sorted(os.listdir(os.path.join(self.sai, "pas")))
+        self.assertGreater(len(nomes), 1)
+        for n in nomes:
+            self.assertLessEqual(len(ler_bytes(os.path.join(self.sai, "pas", n))), F.LIMITE_ARQUIVO, n)
+
+
 class TestDivisao(Base):
     def test_divide_em_24000_bytes(self):
         corpo = "## Decisão\n\nO Colegiado deliberou " + "acolher o pedido e " * 70 + "encerrar.\n"

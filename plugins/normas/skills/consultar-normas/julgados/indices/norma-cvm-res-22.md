@@ -11,10 +11,10 @@ Norma: [cvm/resolucoes/0022.md](../../normas/cvm/resolucoes/0022.md) (texto vige
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.001044/2025-42 | 2026-07-14 | parcial | cvm-pas-19957-001044-2025-42 | fichas/pas/2026-01.md |
+| pas | 19957.001044/2025-42 | 2026-07-14 | parcial | cvm-pas-19957-001044-2025-42 | fichas/pas/2026-02.md |
 | decisao-colegiado | 19957.012698/2023-30 | 2025-07-08 | deferido | cvm-col-20250708-d3211 | fichas/colegiado/2025-06.md |
-| pas | 19957.001627/2022-21 | 2025-03-25 | absolvicao | cvm-pas-19957-001627-2022-21 | fichas/pas/2025-01.md |
-| pas | 19957.014716/2023-18 | 2024-12-17 | condenacao | cvm-pas-19957-014716-2023-18 | fichas/pas/2024-11.md |
+| pas | 19957.001627/2022-21 | 2025-03-25 | absolvicao | cvm-pas-19957-001627-2022-21 | fichas/pas/2025-03.md |
+| pas | 19957.014716/2023-18 | 2024-12-17 | condenacao | cvm-pas-19957-014716-2023-18 | fichas/pas/2024-22.md |
 | decisao-colegiado | 19957.001390/2021-05 | 2021-02-24 | outro | cvm-col-20210224-d2091 | fichas/colegiado/2021-04.md |
 
 Fim do subíndice.

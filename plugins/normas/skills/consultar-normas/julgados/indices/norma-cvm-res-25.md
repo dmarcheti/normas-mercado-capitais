@@ -11,23 +11,23 @@ Norma: [cvm/resolucoes/0025.md](../../normas/cvm/resolucoes/0025.md) (texto vige
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 20 | pas | 19957.015871/2024-32 | 2025-11-11 | condenacao | cvm-pas-19957-015871-2024-32 | fichas/pas/2025-04.md |
+| art. 20 | pas | 19957.015871/2024-32 | 2025-11-11 | condenacao | cvm-pas-19957-015871-2024-32 | fichas/pas/2025-09.md |
 
 ## art. 34
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 34 | pas | 19957.015871/2024-32 | 2025-11-11 | condenacao | cvm-pas-19957-015871-2024-32 | fichas/pas/2025-04.md |
+| art. 34 | pas | 19957.015871/2024-32 | 2025-11-11 | condenacao | cvm-pas-19957-015871-2024-32 | fichas/pas/2025-09.md |
 
 ## Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.011992/2023-24 | 2025-04-08 | condenacao | cvm-pas-19957-011992-2023-24 | fichas/pas/2025-02.md |
+| pas | 19957.011992/2023-24 | 2025-04-08 | condenacao | cvm-pas-19957-011992-2023-24 | fichas/pas/2025-04.md |
 | decisao-colegiado | 19957.002798/2021-96 | 2021-03-30 | outro | cvm-col-20210330-d2176 | fichas/colegiado/2021-06.md |
 | pas | 02/2013 | 2019-01-22 | parcial | cvm-pas-02-2013 | fichas/pas/2019-01.md |
 | decisao-colegiado | 02/2013 | 2018-04-24 | nao-provido | cvm-col-20180424-d0227 | fichas/colegiado/2018-08.md |
-| pas | RJ2013/6183 | 2016-11-22 | condenacao | cvm-pas-rj2013-6183 | fichas/pas/2016-06.md |
+| pas | RJ2013/6183 | 2016-11-22 | condenacao | cvm-pas-rj2013-6183 | fichas/pas/2016-12.md |
 | termo-compromisso | RJ2009/6226 | 2010-01-26 | rejeitado | cvm-col-20100126-d05 | fichas/tc/2010-01.md |
 
 Fim do subíndice.

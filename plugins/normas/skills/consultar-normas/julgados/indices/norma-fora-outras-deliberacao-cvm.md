@@ -153,7 +153,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2014/10630 | 2016-12-15 | condenacao | cvm-pas-rj2014-10630 | fichas/pas/2016-08.md |
+| pas | RJ2014/10630 | 2016-12-15 | condenacao | cvm-pas-rj2014-10630 | fichas/pas/2016-16.md |
 | termo-compromisso | RJ2015/1483 | 2016-04-26 | aceito | cvm-col-20160426-d0182 | fichas/tc/2016-02.md |
 | termo-compromisso | RJ2014/12753 | 2016-02-23 | rejeitado | cvm-col-20160223-d0112 | fichas/tc/2016-01.md |
 
@@ -177,7 +177,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 13/2002 | 2006-07-19 | parcial | cvm-pas-13-2002 | fichas/pas/2006-07.md |
+| pas | 13/2002 | 2006-07-19 | parcial | cvm-pas-13-2002 | fichas/pas/2006-14.md |
 | decisao-antiga | — | 1987-01-06 | — | cvm-dec-1987-0001 | fichas/decisoes-antigas/1987-08.md |
 
 ## deliberacao-cvm-9
@@ -202,7 +202,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | RJ2013-2759 | 2021-06-14 | parcial | crsfn-10372-100291-2018-06 | fichas/crsfn/2021-01.md |
+| acordao-crsfn | RJ2013-2759 | 2021-06-14 | parcial | crsfn-10372-100291-2018-06 | fichas/crsfn/2021-02.md |
 | decisao-colegiado | RJ2009/5356 | 2009-12-08 | outro | cvm-col-20091208-d24 | fichas/colegiado/2009-23.md |
 | decisao-colegiado | RJ2003/13119; RJ2003/7260 | 2004-11-23 | parcial | cvm-col-20041123-d08 | fichas/colegiado/2004-14.md |
 | decisao-colegiado | RJ2004/00203 | 2004-02-11 | provido | cvm-col-20040211-d06 | fichas/colegiado/2004-02.md |
@@ -223,10 +223,10 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 11/1997 | 2001-10-18 | condenacao | cvm-pas-11-1997 | fichas/pas/2001-04.md |
-| pas | 12/1997 | 2000-12-07 | parcial | cvm-pas-12-1997 | fichas/pas/2000-03.md |
-| pas | 01/1998 | 2000-08-07 | parcial | cvm-pas-01-1998 | fichas/pas/2000-01.md |
-| pas | 21/1995 | 2000-06-08 | parcial | cvm-pas-21-1995 | fichas/pas/2000-01.md |
+| pas | 11/1997 | 2001-10-18 | condenacao | cvm-pas-11-1997 | fichas/pas/2001-07.md |
+| pas | 12/1997 | 2000-12-07 | parcial | cvm-pas-12-1997 | fichas/pas/2000-05.md |
+| pas | 01/1998 | 2000-08-07 | parcial | cvm-pas-01-1998 | fichas/pas/2000-02.md |
+| pas | 21/1995 | 2000-06-08 | parcial | cvm-pas-21-1995 | fichas/pas/2000-02.md |
 
 ## deliberacao-cvm-22
 
@@ -242,7 +242,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 23 | pas | 17/2013 | 2019-06-25 | condenacao | cvm-pas-17-2013 | fichas/pas/2019-05.md |
+| art. 23 | pas | 17/2013 | 2019-06-25 | condenacao | cvm-pas-17-2013 | fichas/pas/2019-09.md |
 
 ### Citada sem dispositivo identificado
 
@@ -338,8 +338,8 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | acordao-crsfn | 02/99 | 2005-04-27 | parcial | crsfn-4287 | fichas/crsfn/2005-01.md |
-| pas | 25/2000 | 2004-06-24 | parcial | cvm-pas-25-2000 | fichas/pas/2004-02.md |
-| pas | 02/1999 | 2001-09-06 | parcial | cvm-pas-02-1999 | fichas/pas/2001-03.md |
+| pas | 25/2000 | 2004-06-24 | parcial | cvm-pas-25-2000 | fichas/pas/2004-04.md |
+| pas | 02/1999 | 2001-09-06 | parcial | cvm-pas-02-1999 | fichas/pas/2001-06.md |
 | decisao-antiga | — | 1995-01-04 | — | cvm-dec-1995-0001 | fichas/decisoes-antigas/1995-04.md |
 | decisao-antiga | — | 1994-01-04 | — | cvm-dec-1994-0001 | fichas/decisoes-antigas/1994-05.md |
 
@@ -358,7 +358,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | acordao-crsfn | 05/00 | 2009-02-16 | parcial | crsfn-7526 | fichas/crsfn/2009-01.md |
-| pas | 05/2000 | 2004-11-11 | parcial | cvm-pas-05-2000 | fichas/pas/2004-07.md |
+| pas | 05/2000 | 2004-11-11 | parcial | cvm-pas-05-2000 | fichas/pas/2004-14.md |
 
 ## deliberacao-cvm-73
 
@@ -418,9 +418,9 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | RJ-2003-5137 | 2010-10-27 | absolvicao | crsfn-11433 | fichas/crsfn/2010-08.md |
+| acordao-crsfn | RJ-2003-5137 | 2010-10-27 | absolvicao | crsfn-11433 | fichas/crsfn/2010-09.md |
 | decisao-colegiado | RJ2005/4505 | 2008-07-22 | nao-provido | cvm-col-20080722-d01 | fichas/colegiado/2008-16.md |
-| pas | RJ2003/5137 | 2006-03-29 | absolvicao | cvm-pas-rj2003-5137 | fichas/pas/2006-02.md |
+| pas | RJ2003/5137 | 2006-03-29 | absolvicao | cvm-pas-rj2003-5137 | fichas/pas/2006-05.md |
 
 ## deliberacao-cvm-142
 
@@ -506,7 +506,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 12/2005 | 2012-09-04 | parcial | cvm-pas-12-2005 | fichas/pas/2012-02.md |
+| pas | 12/2005 | 2012-09-04 | parcial | cvm-pas-12-2005 | fichas/pas/2012-03.md |
 | decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
 | decisao-antiga | — | 1999-01-29 | — | cvm-dec-1999-0001 | fichas/decisoes-antigas/1999-28.md |
 | decisao-antiga | — | 1998-01-09 | — | cvm-dec-1998-0001 | fichas/decisoes-antigas/1998-15.md |
@@ -539,7 +539,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | IA-2006-15 | 2014-03-18 | arquivamento | crsfn-12359 | fichas/crsfn/2014-01.md |
+| acordao-crsfn | IA-2006-15 | 2014-03-18 | arquivamento | crsfn-12359 | fichas/crsfn/2014-02.md |
 | decisao-colegiado | RJ2005/9513 | 2006-03-03 | parcial | cvm-col-20060303-d03 | fichas/colegiado/2006-04.md |
 | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
 | decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
@@ -583,7 +583,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2008/4877 | 2009-05-12 | condenacao | cvm-pas-rj2008-4877 | fichas/pas/2009-02.md |
+| pas | RJ2008/4877 | 2009-05-12 | condenacao | cvm-pas-rj2008-4877 | fichas/pas/2009-04.md |
 | decisao-colegiado | RJ2006/0594; RJ2005/0147 | 2007-07-10 | parcial | cvm-col-20070710-d03 | fichas/colegiado/2007-12.md |
 | decisao-colegiado | SP2004/0381 | 2006-05-03 | outro | cvm-col-20060503-d02 | fichas/colegiado/2006-07.md |
 | decisao-colegiado | RJ2003/2398 | 2003-06-03 | nao-provido | cvm-col-20030603-d07 | fichas/colegiado/2003-07.md |
@@ -606,7 +606,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 |---|---|---|---|---|---|
 | decisao-colegiado | SP2013/0207 | 2013-08-13 | deferido | cvm-col-20130813-d08 | fichas/colegiado/2013-15.md |
 | decisao-colegiado | SP2008/0264 | 2008-12-09 | deferido | cvm-col-20081209-d09 | fichas/colegiado/2008-27.md |
-| pas | SP2003/0324 | 2005-12-13 | parcial | cvm-pas-sp2003-0324 | fichas/pas/2005-10.md |
+| pas | SP2003/0324 | 2005-12-13 | parcial | cvm-pas-sp2003-0324 | fichas/pas/2005-19.md |
 | decisao-colegiado | RJ2001/7977 | 2003-02-04 | nao-provido | cvm-col-20030204-d03 | fichas/colegiado/2003-02.md |
 | decisao-colegiado | RJ2000/6398 | 2003-02-04 | provido | cvm-col-20030204-d02 | fichas/colegiado/2003-02.md |
 | decisao-colegiado | RJ2002/0486 | 2002-12-10 | nao-provido | cvm-col-20021210-d06 | fichas/colegiado/2002-26.md |
@@ -619,7 +619,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2000/5907 | 2001-05-24 | condenacao | cvm-pas-rj2000-5907 | fichas/pas/2001-01.md |
+| pas | RJ2000/5907 | 2001-05-24 | condenacao | cvm-pas-rj2000-5907 | fichas/pas/2001-02.md |
 
 ## deliberacao-cvm-222
 
@@ -628,7 +628,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | acordao-crsfn | RJ-2001-1826 | 2009-04-15 | parcial | crsfn-5416 | fichas/crsfn/2009-02.md |
-| pas | RJ2001/1826 | 2003-08-14 | parcial | cvm-pas-rj2001-1826 | fichas/pas/2003-02.md |
+| pas | RJ2001/1826 | 2003-08-14 | parcial | cvm-pas-rj2001-1826 | fichas/pas/2003-04.md |
 
 ## deliberacao-cvm-225
 
@@ -644,9 +644,9 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | SP-2002-493 | 2008-11-19 | parcial | crsfn-9540 | fichas/crsfn/2008-06.md |
-| pas | SP2002/0493 | 2005-09-21 | parcial | cvm-pas-sp2002-0493 | fichas/pas/2005-06.md |
-| pas | 35/2000 | 2005-04-12 | parcial | cvm-pas-35-2000 | fichas/pas/2005-03.md |
+| acordao-crsfn | SP-2002-493 | 2008-11-19 | parcial | crsfn-9540 | fichas/crsfn/2008-07.md |
+| pas | SP2002/0493 | 2005-09-21 | parcial | cvm-pas-sp2002-0493 | fichas/pas/2005-12.md |
+| pas | 35/2000 | 2005-04-12 | parcial | cvm-pas-35-2000 | fichas/pas/2005-06.md |
 | pas | 03/1999 | 2001-03-08 | parcial | cvm-pas-03-1999 | fichas/pas/2001-01.md |
 
 ## deliberacao-cvm-233
@@ -664,7 +664,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | acordao-crsfn | 23/05 | 2011-05-31 | parcial | crsfn-11829 | fichas/crsfn/2011-02.md |
-| pas | 23/2005 | 2007-10-02 | absolvicao | cvm-pas-23-2005 | fichas/pas/2007-06.md |
+| pas | 23/2005 | 2007-10-02 | absolvicao | cvm-pas-23-2005 | fichas/pas/2007-13.md |
 | termo-compromisso | 23/2005 | 2007-01-23 | aceito | cvm-col-20070123-d03 | fichas/tc/2007-01.md |
 | decisao-antiga | — | 1998-01-09 | — | cvm-dec-1998-0001 | fichas/decisoes-antigas/1998-15.md |
 
@@ -682,7 +682,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 29/1998 | 2001-09-13 | parcial | cvm-pas-29-1998 | fichas/pas/2001-03.md |
+| pas | 29/1998 | 2001-09-13 | parcial | cvm-pas-29-1998 | fichas/pas/2001-06.md |
 
 ## deliberacao-cvm-241
 
@@ -692,8 +692,8 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 |---|---|---|---|---|---|
 | decisao-colegiado | RJ2001/8273 | 2005-10-04 | provido | cvm-col-20051004-d08 | fichas/colegiado/2005-14.md |
 | decisao-colegiado | RJ2001/0134 | 2005-05-24 | provido | cvm-col-20050524-d01 | fichas/colegiado/2005-08.md |
-| pas | SP2001/0724 | 2002-12-20 | parcial | cvm-pas-sp2001-0724-2 | fichas/pas/2002-04.md |
-| pas | 29/1998 | 2001-09-13 | parcial | cvm-pas-29-1998 | fichas/pas/2001-03.md |
+| pas | SP2001/0724 | 2002-12-20 | parcial | cvm-pas-sp2001-0724-2 | fichas/pas/2002-08.md |
+| pas | 29/1998 | 2001-09-13 | parcial | cvm-pas-29-1998 | fichas/pas/2001-06.md |
 
 ## deliberacao-cvm-242
 
@@ -710,9 +710,9 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | RJ-2001-8363 | 2009-06-29 | parcial | crsfn-8548 | fichas/crsfn/2009-03.md |
-| pas | RJ2001/8363 | 2005-03-28 | parcial | cvm-pas-rj2001-8363 | fichas/pas/2005-02.md |
-| pas | RJ2002/5018 | 2003-09-17 | condenacao | cvm-pas-rj2002-5018 | fichas/pas/2003-03.md |
+| acordao-crsfn | RJ-2001-8363 | 2009-06-29 | parcial | crsfn-8548 | fichas/crsfn/2009-04.md |
+| pas | RJ2001/8363 | 2005-03-28 | parcial | cvm-pas-rj2001-8363 | fichas/pas/2005-04.md |
+| pas | RJ2002/5018 | 2003-09-17 | condenacao | cvm-pas-rj2002-5018 | fichas/pas/2003-06.md |
 
 ## deliberacao-cvm-246
 
@@ -728,7 +728,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2001/8363 | 2005-03-28 | parcial | cvm-pas-rj2001-8363 | fichas/pas/2005-02.md |
+| pas | RJ2001/8363 | 2005-03-28 | parcial | cvm-pas-rj2001-8363 | fichas/pas/2005-04.md |
 
 ## deliberacao-cvm-248
 
@@ -744,8 +744,8 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 09/03 | 2008-05-27 | parcial | crsfn-9793 | fichas/crsfn/2008-02.md |
-| pas | 09/2003 | 2006-01-25 | parcial | cvm-pas-09-2003 | fichas/pas/2006-02.md |
+| acordao-crsfn | 09/03 | 2008-05-27 | parcial | crsfn-9793 | fichas/crsfn/2008-03.md |
+| pas | 09/2003 | 2006-01-25 | parcial | cvm-pas-09-2003 | fichas/pas/2006-03.md |
 
 ## deliberacao-cvm-251
 
@@ -759,7 +759,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 27/2000 | 2004-06-21 | condenacao | cvm-pas-27-2000 | fichas/pas/2004-02.md |
+| pas | 27/2000 | 2004-06-21 | condenacao | cvm-pas-27-2000 | fichas/pas/2004-04.md |
 | decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
 
 ## deliberacao-cvm-252
@@ -792,7 +792,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 10, parágrafo único | pas | RJ2014/6517 | 2019-06-25 | parcial | cvm-pas-rj2014-6517 | fichas/pas/2019-05.md |
+| art. 10, parágrafo único | pas | RJ2014/6517 | 2019-06-25 | parcial | cvm-pas-rj2014-6517 | fichas/pas/2019-09.md |
 
 ## deliberacao-cvm-267
 
@@ -808,8 +808,8 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | RJ-2001-8363 | 2009-06-29 | parcial | crsfn-8548 | fichas/crsfn/2009-03.md |
-| pas | RJ2001/8363 | 2005-03-28 | parcial | cvm-pas-rj2001-8363 | fichas/pas/2005-02.md |
+| acordao-crsfn | RJ-2001-8363 | 2009-06-29 | parcial | crsfn-8548 | fichas/crsfn/2009-04.md |
+| pas | RJ2001/8363 | 2005-03-28 | parcial | cvm-pas-rj2001-8363 | fichas/pas/2005-04.md |
 
 ## deliberacao-cvm-276
 
@@ -841,7 +841,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 35/1999 | 2003-10-09 | parcial | cvm-pas-35-1999 | fichas/pas/2003-03.md |
+| pas | 35/1999 | 2003-10-09 | parcial | cvm-pas-35-1999 | fichas/pas/2003-06.md |
 
 ## deliberacao-cvm-287
 
@@ -858,7 +858,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | acordao-crsfn | SP-24/03 | 2009-09-30 | parcial | crsfn-8928 | fichas/crsfn/2009-05.md |
-| pas | 24/2003 | 2005-06-09 | parcial | cvm-pas-24-2003 | fichas/pas/2005-04.md |
+| pas | 24/2003 | 2005-06-09 | parcial | cvm-pas-24-2003 | fichas/pas/2005-08.md |
 | decisao-colegiado | RJ2004/3491 | 2005-01-25 | nao-provido | cvm-col-20050125-d14 | fichas/colegiado/2005-02.md |
 | decisao-colegiado | RJ2003/13465 | 2004-04-27 | nao-provido | cvm-col-20040427-d05 | fichas/colegiado/2004-05.md |
 | decisao-colegiado | RJ2003/3709; RJ2003/6082 | 2004-03-09 | provido | cvm-col-20040309-d02 | fichas/colegiado/2004-03.md |
@@ -872,8 +872,8 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | IA-2002-9 | 2010-10-05 | parcial | crsfn-11212 | fichas/crsfn/2010-07.md |
-| pas | 09/2002 | 2006-07-19 | parcial | cvm-pas-09-2002 | fichas/pas/2006-07.md |
+| acordao-crsfn | IA-2002-9 | 2010-10-05 | parcial | crsfn-11212 | fichas/crsfn/2010-09.md |
+| pas | 09/2002 | 2006-07-19 | parcial | cvm-pas-09-2002 | fichas/pas/2006-14.md |
 
 ## deliberacao-cvm-290
 
@@ -889,7 +889,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | SP2001/0724 | 2002-12-20 | parcial | cvm-pas-sp2001-0724-2 | fichas/pas/2002-04.md |
+| pas | SP2001/0724 | 2002-12-20 | parcial | cvm-pas-sp2001-0724-2 | fichas/pas/2002-08.md |
 
 ## deliberacao-cvm-293
 
@@ -918,7 +918,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | SP2002/0047 | 2003-04-03 | parcial | cvm-pas-sp2002-0047 | fichas/pas/2003-01.md |
+| pas | SP2002/0047 | 2003-04-03 | parcial | cvm-pas-sp2002-0047 | fichas/pas/2003-02.md |
 
 ## deliberacao-cvm-298
 
@@ -926,7 +926,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | SP2001/0307 | 2003-06-12 | condenacao | cvm-pas-sp2001-0307 | fichas/pas/2003-02.md |
+| pas | SP2001/0307 | 2003-06-12 | condenacao | cvm-pas-sp2001-0307 | fichas/pas/2003-04.md |
 
 ## deliberacao-cvm-299
 
@@ -935,7 +935,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | acordao-crsfn | 02/99 | 2005-04-27 | parcial | crsfn-4287 | fichas/crsfn/2005-01.md |
-| pas | 02/1999 | 2001-09-06 | parcial | cvm-pas-02-1999 | fichas/pas/2001-03.md |
+| pas | 02/1999 | 2001-09-06 | parcial | cvm-pas-02-1999 | fichas/pas/2001-06.md |
 
 ## deliberacao-cvm-300
 
@@ -943,7 +943,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 34/1999 | 2001-07-19 | parcial | cvm-pas-34-1999 | fichas/pas/2001-02.md |
+| pas | 34/1999 | 2001-07-19 | parcial | cvm-pas-34-1999 | fichas/pas/2001-04.md |
 
 ## deliberacao-cvm-301
 
@@ -992,7 +992,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | acordao-crsfn | SP-2001-0799 | 2013-01-10 | parcial | crsfn-10461 | fichas/crsfn/2013-01.md |
-| pas | SP2001/0799 | 2005-11-30 | parcial | cvm-pas-sp2001-0799 | fichas/pas/2005-08.md |
+| pas | SP2001/0799 | 2005-11-30 | parcial | cvm-pas-sp2001-0799 | fichas/pas/2005-17.md |
 | decisao-colegiado | SP2000/0198 | 2005-10-11 | parcial | cvm-col-20051011-d07 | fichas/colegiado/2005-15.md |
 
 ## deliberacao-cvm-316
@@ -1001,10 +1001,10 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | SP-2201-0209 | 2010-08-18 | condenacao | crsfn-10887 | fichas/crsfn/2010-06.md |
-| pas | SP2001/0209 | 2006-05-30 | condenacao | cvm-pas-sp2001-0209 | fichas/pas/2006-06.md |
+| acordao-crsfn | SP-2201-0209 | 2010-08-18 | condenacao | crsfn-10887 | fichas/crsfn/2010-07.md |
+| pas | SP2001/0209 | 2006-05-30 | condenacao | cvm-pas-sp2001-0209 | fichas/pas/2006-11.md |
 | termo-compromisso | SP2001/0209 | 2006-01-31 | rejeitado | cvm-col-20060131-d07 | fichas/tc/2006-01.md |
-| pas | 35/1999 | 2003-10-09 | parcial | cvm-pas-35-1999 | fichas/pas/2003-03.md |
+| pas | 35/1999 | 2003-10-09 | parcial | cvm-pas-35-1999 | fichas/pas/2003-06.md |
 
 ## deliberacao-cvm-317
 
@@ -1037,7 +1037,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | acordao-crsfn | SP2002/0462 | 2005-03-29 | absolvicao | crsfn-5965 | fichas/crsfn/2005-01.md |
-| pas | SP2002/0462 | 2004-06-24 | absolvicao | cvm-pas-sp2002-0462 | fichas/pas/2004-03.md |
+| pas | SP2002/0462 | 2004-06-24 | absolvicao | cvm-pas-sp2002-0462 | fichas/pas/2004-05.md |
 
 ## deliberacao-cvm-325
 
@@ -1069,7 +1069,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 13/2002 | 2006-07-19 | parcial | cvm-pas-13-2002 | fichas/pas/2006-07.md |
+| pas | 13/2002 | 2006-07-19 | parcial | cvm-pas-13-2002 | fichas/pas/2006-14.md |
 
 ## deliberacao-cvm-330
 
@@ -1078,8 +1078,8 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | acordao-crsfn | SP2002/0098 | 2006-08-18 | absolvicao | crsfn-5596 | fichas/crsfn/2006-01.md |
-| pas | RJ2003/0823 | 2005-05-20 | parcial | cvm-pas-rj2003-0823 | fichas/pas/2005-04.md |
-| pas | SP2002/0098 | 2003-09-11 | parcial | cvm-pas-sp2002-0098 | fichas/pas/2003-03.md |
+| pas | RJ2003/0823 | 2005-05-20 | parcial | cvm-pas-rj2003-0823 | fichas/pas/2005-08.md |
+| pas | SP2002/0098 | 2003-09-11 | parcial | cvm-pas-sp2002-0098 | fichas/pas/2003-05.md |
 
 ## deliberacao-cvm-331
 
@@ -1087,7 +1087,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 16/2000 | 2002-12-05 | parcial | cvm-pas-16-2000 | fichas/pas/2002-03.md |
+| pas | 16/2000 | 2002-12-05 | parcial | cvm-pas-16-2000 | fichas/pas/2002-07.md |
 
 ## deliberacao-cvm-332
 
@@ -1095,7 +1095,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 16/2000 | 2002-12-05 | parcial | cvm-pas-16-2000 | fichas/pas/2002-03.md |
+| pas | 16/2000 | 2002-12-05 | parcial | cvm-pas-16-2000 | fichas/pas/2002-07.md |
 
 ## deliberacao-cvm-334
 
@@ -1119,7 +1119,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 16/2000 | 2002-12-05 | parcial | cvm-pas-16-2000 | fichas/pas/2002-03.md |
+| pas | 16/2000 | 2002-12-05 | parcial | cvm-pas-16-2000 | fichas/pas/2002-07.md |
 | decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
 
 ## deliberacao-cvm-338
@@ -1128,7 +1128,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2003/0823 | 2005-05-20 | parcial | cvm-pas-rj2003-0823 | fichas/pas/2005-04.md |
+| pas | RJ2003/0823 | 2005-05-20 | parcial | cvm-pas-rj2003-0823 | fichas/pas/2005-08.md |
 
 ## deliberacao-cvm-339
 
@@ -1144,7 +1144,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 14/2008 | 2011-08-09 | condenacao | cvm-pas-14-2008 | fichas/pas/2011-01.md |
+| pas | 14/2008 | 2011-08-09 | condenacao | cvm-pas-14-2008 | fichas/pas/2011-02.md |
 
 ## deliberacao-cvm-345
 
@@ -1178,10 +1178,10 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 04/2009 | 2020-06-16 | condenacao | crsfn-10372-000070-2016-69 | fichas/crsfn/2020-03.md |
+| acordao-crsfn | 04/2009 | 2020-06-16 | condenacao | crsfn-10372-000070-2016-69 | fichas/crsfn/2020-04.md |
 | decisao-colegiado | RJ2012/3862 | 2012-05-29 | conhecimento | cvm-col-20120529-d01 | fichas/colegiado/2012-10.md |
 | decisao-colegiado | 04/01 | 2005-10-25 | nao-provido | cvm-col-20051025-d11 | fichas/colegiado/2005-16.md |
-| pas | 16/1999 | 2000-11-23 | condenacao | cvm-pas-16-1999 | fichas/pas/2000-03.md |
+| pas | 16/1999 | 2000-11-23 | condenacao | cvm-pas-16-1999 | fichas/pas/2000-05.md |
 
 ## deliberacao-cvm-350
 
@@ -1212,8 +1212,8 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 13/01 | 2010-10-27 | absolvicao | crsfn-11412 | fichas/crsfn/2010-08.md |
-| pas | 13/2001 | 2006-10-17 | absolvicao | cvm-pas-13-2001 | fichas/pas/2006-10.md |
+| acordao-crsfn | 13/01 | 2010-10-27 | absolvicao | crsfn-11412 | fichas/crsfn/2010-09.md |
+| pas | 13/2001 | 2006-10-17 | absolvicao | cvm-pas-13-2001 | fichas/pas/2006-21.md |
 
 ## deliberacao-cvm-357
 
@@ -1221,8 +1221,8 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 13/01 | 2010-10-27 | absolvicao | crsfn-11412 | fichas/crsfn/2010-08.md |
-| pas | 13/2001 | 2006-10-17 | absolvicao | cvm-pas-13-2001 | fichas/pas/2006-10.md |
+| acordao-crsfn | 13/01 | 2010-10-27 | absolvicao | crsfn-11412 | fichas/crsfn/2010-09.md |
+| pas | 13/2001 | 2006-10-17 | absolvicao | cvm-pas-13-2001 | fichas/pas/2006-21.md |
 
 ## deliberacao-cvm-360
 
@@ -1231,7 +1231,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | decisao-colegiado | RJ1998/1971 | 2006-04-11 | parcial | cvm-col-20060411-d01 | fichas/colegiado/2006-06.md |
-| pas | SP2004/0123 | 2004-10-18 | absolvicao | cvm-pas-sp2004-0123 | fichas/pas/2004-07.md |
+| pas | SP2004/0123 | 2004-10-18 | absolvicao | cvm-pas-sp2004-0123 | fichas/pas/2004-13.md |
 
 ## deliberacao-cvm-363
 
@@ -1243,8 +1243,8 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 | decisao-colegiado | 19957.003215/2017-68 | 2018-09-25 | nao-provido | cvm-col-20180925-d1149 | fichas/colegiado/2018-17.md |
 | decisao-colegiado | SP2011/0269 | 2014-06-10 | nao-provido | cvm-col-20140610-d01 | fichas/colegiado/2014-11.md |
 | decisao-colegiado | SP2011/0269 | 2012-04-24 | nao-provido | cvm-col-20120424-d04 | fichas/colegiado/2012-08.md |
-| acordao-crsfn | 15/02 | 2011-09-20 | absolvicao | crsfn-11747 | fichas/crsfn/2011-03.md |
-| pas | 15/2002 | 2007-08-21 | absolvicao | cvm-pas-15-2002 | fichas/pas/2007-05.md |
+| acordao-crsfn | 15/02 | 2011-09-20 | absolvicao | crsfn-11747 | fichas/crsfn/2011-04.md |
+| pas | 15/2002 | 2007-08-21 | absolvicao | cvm-pas-15-2002 | fichas/pas/2007-10.md |
 
 ## deliberacao-cvm-366
 
@@ -1261,12 +1261,12 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | decisao-colegiado | RJ2011/4494 | 2011-11-01 | — | cvm-col-20111101-d01 | fichas/colegiado/2011-23.md |
-| pas | RJ2008/4857 | 2011-08-23 | condenacao | cvm-pas-rj2008-4857 | fichas/pas/2011-02.md |
+| pas | RJ2008/4857 | 2011-08-23 | condenacao | cvm-pas-rj2008-4857 | fichas/pas/2011-03.md |
 | decisao-colegiado | RJ2009/0981 | 2010-04-20 | nao-provido | cvm-col-20100420-d09 | fichas/colegiado/2010-11.md |
 | acordao-crsfn | SP2003/0446 | 2009-02-16 | condenacao | crsfn-6188 | fichas/crsfn/2009-01.md |
 | decisao-colegiado | RJ2007/10965 | 2008-04-01 | nao-provido | cvm-col-20080401-d17 | fichas/colegiado/2008-08.md |
 | decisao-colegiado | RJ2007/3480 | 2007-07-03 | provido | cvm-col-20070703-d03 | fichas/colegiado/2007-11.md |
-| pas | SP2003/0446 | 2004-09-16 | condenacao | cvm-pas-sp2003-0446 | fichas/pas/2004-06.md |
+| pas | SP2003/0446 | 2004-09-16 | condenacao | cvm-pas-sp2003-0446 | fichas/pas/2004-11.md |
 | decisao-colegiado | RJ2003/12478 | 2004-01-30 | outro | cvm-col-20040130-d03 | fichas/colegiado/2004-02.md |
 | decisao-colegiado | RJ2002/3581; RJ2002/6862; RJ2002/5582 | 2003-02-14 | nao-provido | cvm-col-20030214-d01-r2 | fichas/colegiado/2003-02.md |
 
@@ -1277,8 +1277,8 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | acordao-crsfn | SP-2003-148 | 2008-04-11 | parcial | crsfn-5662 | fichas/crsfn/2008-02.md |
-| pas | SP2005/158 | 2005-09-14 | parcial | cvm-pas-sp2005-0158 | fichas/pas/2005-06.md |
-| pas | SP2003/0148 | 2003-12-17 | parcial | cvm-pas-sp2003-0148 | fichas/pas/2003-05.md |
+| pas | SP2005/158 | 2005-09-14 | parcial | cvm-pas-sp2005-0158 | fichas/pas/2005-12.md |
+| pas | SP2003/0148 | 2003-12-17 | parcial | cvm-pas-sp2003-0148 | fichas/pas/2003-10.md |
 
 ## deliberacao-cvm-376
 
@@ -1286,8 +1286,8 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2002/3535 | 2003-11-12 | parcial | cvm-pas-rj2002-3535 | fichas/pas/2003-04.md |
-| pas | RJ2001/6094 | 2001-12-13 | condenacao | cvm-pas-rj2001-6094 | fichas/pas/2001-05.md |
+| pas | RJ2002/3535 | 2003-11-12 | parcial | cvm-pas-rj2002-3535 | fichas/pas/2003-08.md |
+| pas | RJ2001/6094 | 2001-12-13 | condenacao | cvm-pas-rj2001-6094 | fichas/pas/2001-09.md |
 
 ## deliberacao-cvm-380
 
@@ -1316,7 +1316,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | SP2001/0240 | 2004-07-22 | parcial | cvm-pas-sp2001-0240 | fichas/pas/2004-04.md |
+| pas | SP2001/0240 | 2004-07-22 | parcial | cvm-pas-sp2001-0240 | fichas/pas/2004-07.md |
 
 ## deliberacao-cvm-383
 
@@ -1325,10 +1325,10 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | acordao-crsfn | SP-2203-324 | 2007-08-30 | parcial | crsfn-10456 | fichas/crsfn/2007-01.md |
-| pas | SP2003/0324 | 2005-12-13 | parcial | cvm-pas-sp2003-0324 | fichas/pas/2005-10.md |
+| pas | SP2003/0324 | 2005-12-13 | parcial | cvm-pas-sp2003-0324 | fichas/pas/2005-19.md |
 | acordao-crsfn | SP2002/0462 | 2005-03-29 | absolvicao | crsfn-5965 | fichas/crsfn/2005-01.md |
-| pas | SP2001/0034 | 2004-08-12 | parcial | cvm-pas-sp2001-0034 | fichas/pas/2004-05.md |
-| pas | SP2002/0462 | 2004-06-24 | absolvicao | cvm-pas-sp2002-0462 | fichas/pas/2004-03.md |
+| pas | SP2001/0034 | 2004-08-12 | parcial | cvm-pas-sp2001-0034 | fichas/pas/2004-09.md |
+| pas | SP2002/0462 | 2004-06-24 | absolvicao | cvm-pas-sp2002-0462 | fichas/pas/2004-05.md |
 | decisao-colegiado | RJ99/0893 | 2002-07-16 | outro | cvm-col-20020716-d01 | fichas/colegiado/2002-17.md |
 
 ## deliberacao-cvm-387
@@ -1337,9 +1337,9 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 13/01 | 2010-10-27 | absolvicao | crsfn-11412 | fichas/crsfn/2010-08.md |
-| pas | 13/2001 | 2006-10-17 | absolvicao | cvm-pas-13-2001 | fichas/pas/2006-10.md |
-| pas | RJ2001/3809 | 2002-04-25 | condenacao | cvm-pas-rj2001-3809 | fichas/pas/2002-02.md |
+| acordao-crsfn | 13/01 | 2010-10-27 | absolvicao | crsfn-11412 | fichas/crsfn/2010-09.md |
+| pas | 13/2001 | 2006-10-17 | absolvicao | cvm-pas-13-2001 | fichas/pas/2006-21.md |
+| pas | RJ2001/3809 | 2002-04-25 | condenacao | cvm-pas-rj2001-3809 | fichas/pas/2002-04.md |
 
 ## deliberacao-cvm-388
 
@@ -1361,7 +1361,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2003/12818 | 2004-10-15 | condenacao | cvm-pas-rj2003-12818 | fichas/pas/2004-06.md |
+| pas | RJ2003/12818 | 2004-10-15 | condenacao | cvm-pas-rj2003-12818 | fichas/pas/2004-12.md |
 
 ## deliberacao-cvm-392
 
@@ -1369,7 +1369,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2001/7749 | 2004-10-14 | parcial | cvm-pas-rj2001-7749 | fichas/pas/2004-06.md |
+| pas | RJ2001/7749 | 2004-10-14 | parcial | cvm-pas-rj2001-7749 | fichas/pas/2004-12.md |
 
 ## deliberacao-cvm-395
 
@@ -1377,8 +1377,8 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 13/01 | 2010-10-27 | absolvicao | crsfn-11412 | fichas/crsfn/2010-08.md |
-| pas | 13/2001 | 2006-10-17 | absolvicao | cvm-pas-13-2001 | fichas/pas/2006-10.md |
+| acordao-crsfn | 13/01 | 2010-10-27 | absolvicao | crsfn-11412 | fichas/crsfn/2010-09.md |
+| pas | 13/2001 | 2006-10-17 | absolvicao | cvm-pas-13-2001 | fichas/pas/2006-21.md |
 
 ## deliberacao-cvm-397
 
@@ -1397,7 +1397,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | acordao-crsfn | RJ-2001-1826 | 2009-04-15 | parcial | crsfn-5416 | fichas/crsfn/2009-02.md |
-| pas | RJ2001/1826 | 2003-08-14 | parcial | cvm-pas-rj2001-1826 | fichas/pas/2003-02.md |
+| pas | RJ2001/1826 | 2003-08-14 | parcial | cvm-pas-rj2001-1826 | fichas/pas/2003-04.md |
 
 ## deliberacao-cvm-404
 
@@ -1413,7 +1413,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2002/3535 | 2003-11-12 | parcial | cvm-pas-rj2002-3535 | fichas/pas/2003-04.md |
+| pas | RJ2002/3535 | 2003-11-12 | parcial | cvm-pas-rj2002-3535 | fichas/pas/2003-08.md |
 | termo-compromisso | RJ2002/3535 | 2003-03-25 | rejeitado | cvm-col-20030325-d04 | fichas/tc/2003.md |
 
 ## deliberacao-cvm-408
@@ -1422,8 +1422,8 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 13/01 | 2010-10-27 | absolvicao | crsfn-11412 | fichas/crsfn/2010-08.md |
-| pas | 13/2001 | 2006-10-17 | absolvicao | cvm-pas-13-2001 | fichas/pas/2006-10.md |
+| acordao-crsfn | 13/01 | 2010-10-27 | absolvicao | crsfn-11412 | fichas/crsfn/2010-09.md |
+| pas | 13/2001 | 2006-10-17 | absolvicao | cvm-pas-13-2001 | fichas/pas/2006-21.md |
 
 ## deliberacao-cvm-411
 
@@ -1440,7 +1440,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | SP2002/0493 | 2005-09-21 | parcial | cvm-pas-sp2002-0493 | fichas/pas/2005-06.md |
+| pas | SP2002/0493 | 2005-09-21 | parcial | cvm-pas-sp2002-0493 | fichas/pas/2005-12.md |
 | decisao-colegiado | 413/2001; RJ1999/6147 | 2002-05-07 | outro | cvm-col-20020507-d04 | fichas/colegiado/2002-10.md |
 
 ## deliberacao-cvm-416
@@ -1449,7 +1449,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | SP2001/0724 | 2002-12-20 | parcial | cvm-pas-sp2001-0724-2 | fichas/pas/2002-04.md |
+| pas | SP2001/0724 | 2002-12-20 | parcial | cvm-pas-sp2001-0724-2 | fichas/pas/2002-08.md |
 
 ## deliberacao-cvm-418
 
@@ -1457,7 +1457,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2003/12818 | 2004-10-15 | condenacao | cvm-pas-rj2003-12818 | fichas/pas/2004-06.md |
+| pas | RJ2003/12818 | 2004-10-15 | condenacao | cvm-pas-rj2003-12818 | fichas/pas/2004-12.md |
 | decisao-colegiado | RJ2003/0499 | 2003-08-28 | outro | cvm-col-20030828-d01 | fichas/colegiado/2003-10.md |
 | decisao-colegiado | — | 2002-03-28 | outro | cvm-col-20020328-d04 | fichas/colegiado/2002-06.md |
 
@@ -1475,7 +1475,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2005/6763 | 2007-01-31 | parcial | cvm-pas-rj2005-6763 | fichas/pas/2007-01.md |
+| pas | RJ2005/6763 | 2007-01-31 | parcial | cvm-pas-rj2005-6763 | fichas/pas/2007-02.md |
 | decisao-colegiado | RJ2002/7524; RJ2002/8433 | 2003-04-17 | provido | cvm-col-20030417-d04 | fichas/colegiado/2003-05.md |
 | decisao-colegiado | RJ2002/3243 | 2002-07-09 | nao-provido | cvm-col-20020709-d04 | fichas/colegiado/2002-16.md |
 
@@ -1485,7 +1485,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | SP2001/0209 | 2006-05-30 | condenacao | cvm-pas-sp2001-0209 | fichas/pas/2006-06.md |
+| pas | SP2001/0209 | 2006-05-30 | condenacao | cvm-pas-sp2001-0209 | fichas/pas/2006-11.md |
 
 ## deliberacao-cvm-434
 
@@ -1501,7 +1501,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | SP2002/0493 | 2005-09-21 | parcial | cvm-pas-sp2002-0493 | fichas/pas/2005-06.md |
+| pas | SP2002/0493 | 2005-09-21 | parcial | cvm-pas-sp2002-0493 | fichas/pas/2005-12.md |
 
 ## deliberacao-cvm-436
 
@@ -1509,7 +1509,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2012/9808 | 2015-12-18 | parcial | cvm-pas-rj2012-9808 | fichas/pas/2015-07.md |
+| pas | RJ2012/9808 | 2015-12-18 | parcial | cvm-pas-rj2012-9808 | fichas/pas/2015-14.md |
 
 ## deliberacao-cvm-438
 
@@ -1542,7 +1542,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | RJ-2005-1160 | 2011-11-09 | parcial | crsfn-11431 | fichas/crsfn/2011-03.md |
+| acordao-crsfn | RJ-2005-1160 | 2011-11-09 | parcial | crsfn-11431 | fichas/crsfn/2011-04.md |
 
 ## deliberacao-cvm-450
 
@@ -1550,7 +1550,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 05/2004 | 2007-04-24 | absolvicao | cvm-pas-05-2004 | fichas/pas/2007-03.md |
+| pas | 05/2004 | 2007-04-24 | absolvicao | cvm-pas-05-2004 | fichas/pas/2007-05.md |
 
 ## deliberacao-cvm-452
 
@@ -1576,7 +1576,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
-| pas | RJ2005/6763 | 2007-01-31 | parcial | cvm-pas-rj2005-6763 | fichas/pas/2007-01.md |
+| pas | RJ2005/6763 | 2007-01-31 | parcial | cvm-pas-rj2005-6763 | fichas/pas/2007-02.md |
 | decisao-colegiado | RJ99/2838 | 2004-08-24 | nao-provido | cvm-col-20040824-d03 | fichas/colegiado/2004-10.md |
 | decisao-colegiado | RJ99/2786 | 2004-01-21 | nao-provido | cvm-col-20040121-d01 | fichas/colegiado/2004-01.md |
 | decisao-colegiado | RJ2002/3243 | 2002-07-09 | nao-provido | cvm-col-20020709-d04 | fichas/colegiado/2002-16.md |
@@ -1619,7 +1619,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 17/2002 | 2005-10-25 | parcial | cvm-pas-17-2002 | fichas/pas/2005-07.md |
+| pas | 17/2002 | 2005-10-25 | parcial | cvm-pas-17-2002 | fichas/pas/2005-14.md |
 
 ## deliberacao-cvm-472
 
@@ -1636,7 +1636,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | acordao-crsfn | IA-2004-23 | 2012-01-10 | condenacao | crsfn-11416 | fichas/crsfn/2012-01.md |
-| pas | 23/2004 | 2006-09-28 | parcial | cvm-pas-23-2004 | fichas/pas/2006-10.md |
+| pas | 23/2004 | 2006-09-28 | parcial | cvm-pas-23-2004 | fichas/pas/2006-19.md |
 | decisao-colegiado | RJ2005/2893 | 2005-06-07 | nao-provido | cvm-col-20050607-d10 | fichas/colegiado/2005-09.md |
 | decisao-colegiado | — | 2005-03-29 | outro | cvm-col-20050329-d09 | fichas/colegiado/2005-06.md |
 
@@ -1649,8 +1649,8 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 | acordao-crsfn | RJ2019/2333 | 2023-02-07 | parcial | crsfn-10372-100089-2021-71 | fichas/crsfn/2023-01.md |
 | acordao-crsfn | RJ2019/2333 | 2023-02-07 | parcial | crsfn-10372-100089-2021-71-2 | fichas/crsfn/2023-01.md |
 | pas | RJ2016/8381; 19957.008445/2016-32 | 2020-02-18 | condenacao | cvm-pas-19957-008445-2016-32 | fichas/pas/2020-01.md |
-| acordao-crsfn | 09/05 | 2011-05-31 | condenacao | crsfn-11606 | fichas/crsfn/2011-01.md |
-| pas | 09/2005 | 2006-10-03 | condenacao | cvm-pas-09-2005 | fichas/pas/2006-10.md |
+| acordao-crsfn | 09/05 | 2011-05-31 | condenacao | crsfn-11606 | fichas/crsfn/2011-02.md |
+| pas | 09/2005 | 2006-10-03 | condenacao | cvm-pas-09-2005 | fichas/pas/2006-20.md |
 | decisao-colegiado | RJ2004/7376 | 2005-07-05 | nao-provido | cvm-col-20050705-d02 | fichas/colegiado/2005-10.md |
 
 ## deliberacao-cvm-477
@@ -1673,7 +1673,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | acordao-crsfn | 2005-2793 | 2008-06-12 | parcial | crsfn-9603 | fichas/crsfn/2008-03.md |
-| pas | RJ2005/2793 | 2005-11-30 | parcial | cvm-pas-rj2005-2793 | fichas/pas/2005-08.md |
+| pas | RJ2005/2793 | 2005-11-30 | parcial | cvm-pas-rj2005-2793 | fichas/pas/2005-16.md |
 | decisao-colegiado | — | 2005-02-18 | deferido | cvm-col-20050218-d01 | fichas/colegiado/2005-03.md |
 
 ## deliberacao-cvm-479
@@ -1682,7 +1682,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2005/2793 | 2005-11-30 | parcial | cvm-pas-rj2005-2793 | fichas/pas/2005-08.md |
+| pas | RJ2005/2793 | 2005-11-30 | parcial | cvm-pas-rj2005-2793 | fichas/pas/2005-16.md |
 
 ## deliberacao-cvm-480
 
@@ -1725,7 +1725,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | acordao-crsfn | RJ2011/280 | 2015-06-30 | condenacao | crsfn-13396 | fichas/crsfn/2015-02.md |
-| pas | RJ2011/280 | 2011-12-13 | condenacao | cvm-pas-rj2011-0280 | fichas/pas/2011-03.md |
+| pas | RJ2011/280 | 2011-12-13 | condenacao | cvm-pas-rj2011-0280 | fichas/pas/2011-06.md |
 | decisao-colegiado | RJ2008/8148 | 2009-03-17 | provido | cvm-col-20090317-d01 | fichas/colegiado/2009-04.md |
 | decisao-colegiado | RJ2006/8282 | 2006-12-05 | nao-provido | cvm-col-20061205-d12 | fichas/colegiado/2006-18.md |
 | decisao-colegiado | RJ2005/0509 | 2006-10-31 | nao-provido | cvm-col-20061031-d09 | fichas/colegiado/2006-16.md |
@@ -1829,7 +1829,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 06/2012 | 2021-12-07 | condenacao | crsfn-10372-100268-2019-94 | fichas/crsfn/2021-04.md |
+| acordao-crsfn | 06/2012 | 2021-12-07 | condenacao | crsfn-10372-100268-2019-94 | fichas/crsfn/2021-06.md |
 | decisao-colegiado | RJ2006/6406; RJ2006/6327 | 2006-10-17 | deferido | cvm-col-20061017-d02 | fichas/colegiado/2006-15.md |
 
 ## deliberacao-cvm-514
@@ -1847,7 +1847,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | SP2007/111 | 2014-11-11 | condenacao | cvm-pas-sp2007-0111 | fichas/pas/2014-04.md |
+| pas | SP2007/111 | 2014-11-11 | condenacao | cvm-pas-sp2007-0111 | fichas/pas/2014-09.md |
 
 ## deliberacao-cvm-519
 
@@ -1881,10 +1881,10 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 19957.006547/2019-66; RJ2019/4484 | 2024-06-11 | condenacao | crsfn-10372-100076-2022-83 | fichas/crsfn/2024-03.md |
-| acordao-crsfn | RJ2009-12495 | 2015-05-26 | absolvicao | crsfn-13286 | fichas/crsfn/2015-01.md |
+| acordao-crsfn | 19957.006547/2019-66; RJ2019/4484 | 2024-06-11 | condenacao | crsfn-10372-100076-2022-83 | fichas/crsfn/2024-04.md |
+| acordao-crsfn | RJ2009-12495 | 2015-05-26 | absolvicao | crsfn-13286 | fichas/crsfn/2015-02.md |
 | termo-compromisso | RJ2013/5066 | 2013-12-10 | aceito | cvm-col-20131210-d03 | fichas/tc/2013-05.md |
-| pas | RJ2009/12495 | 2010-12-01 | condenacao | cvm-pas-rj2009-12495 | fichas/pas/2010-05.md |
+| pas | RJ2009/12495 | 2010-12-01 | condenacao | cvm-pas-rj2009-12495 | fichas/pas/2010-10.md |
 
 ## deliberacao-cvm-528
 
@@ -1892,8 +1892,8 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | RJ-2008-10874 | 2010-06-08 | condenacao | crsfn-12625 | fichas/crsfn/2010-05.md |
-| pas | RJ2008/10874 | 2009-04-28 | condenacao | cvm-pas-rj2008-10874 | fichas/pas/2009-02.md |
+| acordao-crsfn | RJ-2008-10874 | 2010-06-08 | condenacao | crsfn-12625 | fichas/crsfn/2010-06.md |
+| pas | RJ2008/10874 | 2009-04-28 | condenacao | cvm-pas-rj2008-10874 | fichas/pas/2009-03.md |
 
 ## deliberacao-cvm-529
 
@@ -1929,7 +1929,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 | decisao-colegiado | 19957.005632/2021-21; 19957.005640/2021-78 | 2021-08-17 | deferido | cvm-col-20210817-d2272 | fichas/colegiado/2021-13.md |
 | decisao-colegiado | 19957.001678/2021-71; 19957.001682/2021-30 | 2021-07-06 | deferido | cvm-col-20210706-d2233 | fichas/colegiado/2021-11.md |
 | decisao-colegiado | 19957.004308/2021-96; 19957.004259/2021-91 | 2021-06-22 | deferido | cvm-col-20210622-d2213 | fichas/colegiado/2021-10.md |
-| pas | 19957.008274/2018-11; RJ2018/5469 | 2020-06-09 | condenacao | cvm-pas-19957-008274-2018-11 | fichas/pas/2020-02.md |
+| pas | 19957.008274/2018-11; RJ2018/5469 | 2020-06-09 | condenacao | cvm-pas-19957-008274-2018-11 | fichas/pas/2020-04.md |
 
 ## deliberacao-cvm-534
 
@@ -1959,7 +1959,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | SP2007/111 | 2014-11-11 | condenacao | cvm-pas-sp2007-0111 | fichas/pas/2014-04.md |
+| pas | SP2007/111 | 2014-11-11 | condenacao | cvm-pas-sp2007-0111 | fichas/pas/2014-09.md |
 
 ## deliberacao-cvm-541
 
@@ -2005,11 +2005,11 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 2º | acordao-crsfn | RJ2012/15235 | 2017-10-24 | condenacao | crsfn-14488 | fichas/crsfn/2017-07.md |
-| art. 2º, parágrafo único | acordao-crsfn | RJ-2010-16893 | 2014-08-26 | absolvicao | crsfn-13317 | fichas/crsfn/2014-05.md |
+| art. 2º | acordao-crsfn | RJ2012/15235 | 2017-10-24 | condenacao | crsfn-14488 | fichas/crsfn/2017-13.md |
+| art. 2º, parágrafo único | acordao-crsfn | RJ-2010-16893 | 2014-08-26 | absolvicao | crsfn-13317 | fichas/crsfn/2014-06.md |
 | art. 2º, parágrafo único | termo-compromisso | RJ2010/17359 | 2011-05-17 | aceito | cvm-col-20110517-d09 | fichas/tc/2011-03.md |
 | art. 2º, parágrafo único | termo-compromisso | RJ2010/16605 | 2011-06-28 | aceito | cvm-col-20110628-d03 | fichas/tc/2011-03.md |
-| art. 2º, parágrafo único | pas | RJ2010/16893 | 2011-06-07 | absolvicao | cvm-pas-rj2010-16893 | fichas/pas/2011-01.md |
+| art. 2º, parágrafo único | pas | RJ2010/16893 | 2011-06-07 | absolvicao | cvm-pas-rj2010-16893 | fichas/pas/2011-02.md |
 
 ### Citada sem dispositivo identificado
 
@@ -2017,7 +2017,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 |---|---|---|---|---|---|
 | acordao-crsfn | RJ2010/4195 | 2016-01-21 | condenacao | crsfn-13258 | fichas/crsfn/2016-01.md |
 | termo-compromisso | 04/2011 | 2015-05-19 | aceito | cvm-col-20150519-d9650 | fichas/tc/2015-02.md |
-| pas | RJ2010/4195 | 2010-11-23 | condenacao | cvm-pas-rj2010-4195 | fichas/pas/2010-05.md |
+| pas | RJ2010/4195 | 2010-11-23 | condenacao | cvm-pas-rj2010-4195 | fichas/pas/2010-09.md |
 
 ## deliberacao-cvm-552
 
@@ -2025,21 +2025,21 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 2º, § 2º | acordao-crsfn | SP2007/139 | 2017-02-08 | parcial | crsfn-13873 | fichas/crsfn/2017-01.md |
+| art. 2º, § 2º | acordao-crsfn | SP2007/139 | 2017-02-08 | parcial | crsfn-13873 | fichas/crsfn/2017-02.md |
 
 ### art. 8º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 8º | acordao-crsfn | SP2007/139 | 2017-02-08 | parcial | crsfn-13873 | fichas/crsfn/2017-01.md |
+| art. 8º | acordao-crsfn | SP2007/139 | 2017-02-08 | parcial | crsfn-13873 | fichas/crsfn/2017-02.md |
 
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 06/2012 | 2021-12-07 | condenacao | crsfn-10372-100268-2019-94 | fichas/crsfn/2021-04.md |
+| acordao-crsfn | 06/2012 | 2021-12-07 | condenacao | crsfn-10372-100268-2019-94 | fichas/crsfn/2021-06.md |
 | acordao-crsfn | SP2013/210 | 2021-08-11 | arquivamento | crsfn-10372-100139-2019-04 | fichas/crsfn/2021-03.md |
-| acordao-crsfn | CVM13/05 | 2017-06-27 | parcial | crsfn-13453 | fichas/crsfn/2017-04.md |
+| acordao-crsfn | CVM13/05 | 2017-06-27 | parcial | crsfn-13453 | fichas/crsfn/2017-09.md |
 | termo-compromisso | RJ2009/5519 | 2010-02-09 | outro | cvm-col-20100209-d01-r2 | fichas/tc/2010-01.md |
 
 ## deliberacao-cvm-553
@@ -2067,7 +2067,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.002966/2022-24; 19957.002968/2022-13; 19957.002975/2022-15; 19957.003161/2022-06; 19957.003166/2022-21; 19957.003174/2022-77; 19957.003196/2022-37; 19957.003207/2022-89; 19957.003215/2022-25; 19957.003396/2022-90; 19957.003403/2022-53; 19957.003698/2022-68; 19957.003700/2022-07; 19957.003704/2022-87; 19957.003759/2022-97; 19957.006211/2021-18 | 2022-05-04 | outro | cvm-col-20220504-d2627 | fichas/colegiado/2022-07.md |
 | decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
-| pas | RJ2015/13127 | 2019-08-20 | condenacao | cvm-pas-rj2015-13127 | fichas/pas/2019-08.md |
+| pas | RJ2015/13127 | 2019-08-20 | condenacao | cvm-pas-rj2015-13127 | fichas/pas/2019-15.md |
 
 ## deliberacao-cvm-563
 
@@ -2095,8 +2095,8 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | RJ2009-12495 | 2015-05-26 | absolvicao | crsfn-13286 | fichas/crsfn/2015-01.md |
-| pas | RJ2009/12495 | 2010-12-01 | condenacao | cvm-pas-rj2009-12495 | fichas/pas/2010-05.md |
+| acordao-crsfn | RJ2009-12495 | 2015-05-26 | absolvicao | crsfn-13286 | fichas/crsfn/2015-02.md |
+| pas | RJ2009/12495 | 2010-12-01 | condenacao | cvm-pas-rj2009-12495 | fichas/pas/2010-10.md |
 | decisao-colegiado | RJ2009/6750 | 2009-10-13 | provido | cvm-col-20091013-d20 | fichas/colegiado/2009-18.md |
 
 ## deliberacao-cvm-566
@@ -2105,8 +2105,8 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | RJ-2010-16893 | 2014-08-26 | absolvicao | crsfn-13317 | fichas/crsfn/2014-05.md |
-| pas | RJ2010/16893 | 2011-06-07 | absolvicao | cvm-pas-rj2010-16893 | fichas/pas/2011-01.md |
+| acordao-crsfn | RJ-2010-16893 | 2014-08-26 | absolvicao | crsfn-13317 | fichas/crsfn/2014-06.md |
+| pas | RJ2010/16893 | 2011-06-07 | absolvicao | cvm-pas-rj2010-16893 | fichas/pas/2011-02.md |
 
 ## deliberacao-cvm-571
 
@@ -2124,9 +2124,9 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.002356/2022-21; 19957.002468/2022-81; 19957.002493/2022-65; 19957.002501/2022-73; 19957.002506/2022-04; 19957.006215/2021-04; 19957.002509/2022-30; 19957.002512/2022-53; 19957.002521/2022-44; 19957.002616/2022-68; 19957.002618/2022-57; 19957.002625/2022-59; 19957.002644/2022-85; 19957.002645/2022-20; 19957.002654/2022-11; 19957.002658/2022-07; 19957.002280/2022-33; 19957.002459/2022-91; 19957.002467/2022-37; 19957.002477/2022-72; 19957.002503/2022-62; 19957.002513/2022-06; 19957.002527/2022-11; 19957.002715/2022-40; 19957.002716/2022-94; 19957.002529/2022-19; 19957.002531/2022-80 | 2022-04-14 | outro | cvm-col-20220414-d2571 | fichas/colegiado/2022-06.md |
 | decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
-| pas | RJ2016/2476 | 2019-09-17 | condenacao | cvm-pas-rj2016-2476 | fichas/pas/2019-08.md |
-| acordao-crsfn | RJ2012/15235 | 2017-10-24 | condenacao | crsfn-14488 | fichas/crsfn/2017-07.md |
-| pas | RJ2012/15235 | 2016-03-22 | condenacao | cvm-pas-rj2012-15235 | fichas/pas/2016-01.md |
+| pas | RJ2016/2476 | 2019-09-17 | condenacao | cvm-pas-rj2016-2476 | fichas/pas/2019-16.md |
+| acordao-crsfn | RJ2012/15235 | 2017-10-24 | condenacao | crsfn-14488 | fichas/crsfn/2017-13.md |
+| pas | RJ2012/15235 | 2016-03-22 | condenacao | cvm-pas-rj2012-15235 | fichas/pas/2016-02.md |
 | termo-compromisso | RJ2013/5066 | 2013-12-10 | aceito | cvm-col-20131210-d03 | fichas/tc/2013-05.md |
 | termo-compromisso | RJ2012/15235 | 2013-08-20 | rejeitado | cvm-col-20130820-d06 | fichas/tc/2013-04.md |
 
@@ -2136,7 +2136,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2015/13127 | 2019-08-20 | condenacao | cvm-pas-rj2015-13127 | fichas/pas/2019-08.md |
+| pas | RJ2015/13127 | 2019-08-20 | condenacao | cvm-pas-rj2015-13127 | fichas/pas/2019-15.md |
 
 ## deliberacao-cvm-579
 
@@ -2144,7 +2144,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 09/2014; 19957.000457/2020-03 | 2019-12-20 | parcial | cvm-pas-19957-000457-2020-03 | fichas/pas/2019-13.md |
+| pas | 09/2014; 19957.000457/2020-03 | 2019-12-20 | parcial | cvm-pas-19957-000457-2020-03 | fichas/pas/2019-24.md |
 
 ## deliberacao-cvm-580
 
@@ -2169,7 +2169,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 | decisao-colegiado | 19957.002356/2022-21; 19957.002468/2022-81; 19957.002493/2022-65; 19957.002501/2022-73; 19957.002506/2022-04; 19957.006215/2021-04; 19957.002509/2022-30; 19957.002512/2022-53; 19957.002521/2022-44; 19957.002616/2022-68; 19957.002618/2022-57; 19957.002625/2022-59; 19957.002644/2022-85; 19957.002645/2022-20; 19957.002654/2022-11; 19957.002658/2022-07; 19957.002280/2022-33; 19957.002459/2022-91; 19957.002467/2022-37; 19957.002477/2022-72; 19957.002503/2022-62; 19957.002513/2022-06; 19957.002527/2022-11; 19957.002715/2022-40; 19957.002716/2022-94; 19957.002529/2022-19; 19957.002531/2022-80 | 2022-04-14 | outro | cvm-col-20220414-d2571 | fichas/colegiado/2022-06.md |
 | decisao-colegiado | 19957.004308/2021-96; 19957.004259/2021-91 | 2021-06-22 | deferido | cvm-col-20210622-d2213 | fichas/colegiado/2021-10.md |
 | decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
-| pas | RJ2015/13326 | 2019-07-02 | parcial | cvm-pas-rj2015-13326 | fichas/pas/2019-06.md |
+| pas | RJ2015/13326 | 2019-07-02 | parcial | cvm-pas-rj2015-13326 | fichas/pas/2019-11.md |
 | termo-compromisso | RJ2016/6671; 19957.003981/2015-61 | 2017-06-26 | rejeitado | cvm-col-20170626-d0438 | fichas/tc/2017-02.md |
 
 ## deliberacao-cvm-583
@@ -2179,12 +2179,12 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
-| acordao-crsfn | RJ-2014-12056 | 2020-09-20 | condenacao | crsfn-10372-100316-2018-63 | fichas/crsfn/2020-05.md |
+| acordao-crsfn | RJ-2014-12056 | 2020-09-20 | condenacao | crsfn-10372-100316-2018-63 | fichas/crsfn/2020-07.md |
 | termo-compromisso | 19957.009558/2018-17 | 2020-04-22 | rejeitado | cvm-col-20200422-d1787 | fichas/tc/2020-03.md |
-| pas | RJ2014/12056 | 2017-12-12 | condenacao | cvm-pas-rj2014-12056 | fichas/pas/2017-05.md |
-| acordao-crsfn | RJ2014/1442 | 2016-10-26 | condenacao | crsfn-14366 | fichas/crsfn/2016-05.md |
-| pas | 14/2009 | 2015-08-11 | parcial | cvm-pas-14-2009 | fichas/pas/2015-04.md |
-| pas | RJ2014/1442 | 2015-06-02 | condenacao | cvm-pas-rj2014-1442 | fichas/pas/2015-03.md |
+| pas | RJ2014/12056 | 2017-12-12 | condenacao | cvm-pas-rj2014-12056 | fichas/pas/2017-10.md |
+| acordao-crsfn | RJ2014/1442 | 2016-10-26 | condenacao | crsfn-14366 | fichas/crsfn/2016-09.md |
+| pas | 14/2009 | 2015-08-11 | parcial | cvm-pas-14-2009 | fichas/pas/2015-08.md |
+| pas | RJ2014/1442 | 2015-06-02 | condenacao | cvm-pas-rj2014-1442 | fichas/pas/2015-06.md |
 
 ## deliberacao-cvm-584
 
@@ -2255,7 +2255,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.002356/2022-21; 19957.002468/2022-81; 19957.002493/2022-65; 19957.002501/2022-73; 19957.002506/2022-04; 19957.006215/2021-04; 19957.002509/2022-30; 19957.002512/2022-53; 19957.002521/2022-44; 19957.002616/2022-68; 19957.002618/2022-57; 19957.002625/2022-59; 19957.002644/2022-85; 19957.002645/2022-20; 19957.002654/2022-11; 19957.002658/2022-07; 19957.002280/2022-33; 19957.002459/2022-91; 19957.002467/2022-37; 19957.002477/2022-72; 19957.002503/2022-62; 19957.002513/2022-06; 19957.002527/2022-11; 19957.002715/2022-40; 19957.002716/2022-94; 19957.002529/2022-19; 19957.002531/2022-80 | 2022-04-14 | outro | cvm-col-20220414-d2571 | fichas/colegiado/2022-06.md |
 | decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
-| pas | RJ2014/7072 | 2018-03-27 | parcial | cvm-pas-rj2014-7072 | fichas/pas/2018-02.md |
+| pas | RJ2014/7072 | 2018-03-27 | parcial | cvm-pas-rj2014-7072 | fichas/pas/2018-04.md |
 
 ## deliberacao-cvm-599
 
@@ -2269,13 +2269,13 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | RJ2016/2245 | 2022-12-08 | condenacao | crsfn-10372-100336-2019-15 | fichas/crsfn/2022-08.md |
+| acordao-crsfn | RJ2016/2245 | 2022-12-08 | condenacao | crsfn-10372-100336-2019-15 | fichas/crsfn/2022-10.md |
 | decisao-colegiado | 19957.002356/2022-21; 19957.002468/2022-81; 19957.002493/2022-65; 19957.002501/2022-73; 19957.002506/2022-04; 19957.006215/2021-04; 19957.002509/2022-30; 19957.002512/2022-53; 19957.002521/2022-44; 19957.002616/2022-68; 19957.002618/2022-57; 19957.002625/2022-59; 19957.002644/2022-85; 19957.002645/2022-20; 19957.002654/2022-11; 19957.002658/2022-07; 19957.002280/2022-33; 19957.002459/2022-91; 19957.002467/2022-37; 19957.002477/2022-72; 19957.002503/2022-62; 19957.002513/2022-06; 19957.002527/2022-11; 19957.002715/2022-40; 19957.002716/2022-94; 19957.002529/2022-19; 19957.002531/2022-80 | 2022-04-14 | outro | cvm-col-20220414-d2571 | fichas/colegiado/2022-06.md |
 | decisao-colegiado | 19957.003841/2018-35 | 2021-06-15 | parcial | cvm-col-20210615-d2053 | fichas/colegiado/2021-10.md |
 | decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
-| pas | RJ2017/0136 | 2019-11-12 | condenacao | cvm-pas-rj2017-0136 | fichas/pas/2019-10.md |
-| pas | RJ2016/2245 | 2019-07-30 | parcial | cvm-pas-rj2016-2245 | fichas/pas/2019-07.md |
-| pas | RJ2015/6229 | 2018-03-20 | condenacao | cvm-pas-rj2015-6229 | fichas/pas/2018-02.md |
+| pas | RJ2017/0136 | 2019-11-12 | condenacao | cvm-pas-rj2017-0136 | fichas/pas/2019-19.md |
+| pas | RJ2016/2245 | 2019-07-30 | parcial | cvm-pas-rj2016-2245 | fichas/pas/2019-12.md |
+| pas | RJ2015/6229 | 2018-03-20 | condenacao | cvm-pas-rj2015-6229 | fichas/pas/2018-04.md |
 | pas | RJ2015/6280 | 2018-01-30 | parcial | cvm-pas-rj2015-6280 | fichas/pas/2018-01.md |
 
 ## deliberacao-cvm-603
@@ -2307,8 +2307,8 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2014/7072 | 2018-03-27 | parcial | cvm-pas-rj2014-7072 | fichas/pas/2018-02.md |
-| acordao-crsfn | RJ2013-6224 | 2017-04-18 | condenacao | crsfn-10372-000719-2016-41 | fichas/crsfn/2017-02.md |
+| pas | RJ2014/7072 | 2018-03-27 | parcial | cvm-pas-rj2014-7072 | fichas/pas/2018-04.md |
+| acordao-crsfn | RJ2013-6224 | 2017-04-18 | condenacao | crsfn-10372-000719-2016-41 | fichas/crsfn/2017-05.md |
 | pas | RJ2013/6224 | 2016-05-13 | condenacao | cvm-pas-rj2013-6224 | fichas/pas/2016-02.md |
 | termo-compromisso | RJ2013/6224 | 2014-11-18 | rejeitado | cvm-col-20141118-d05 | fichas/tc/2014-04.md |
 | decisao-colegiado | RJ2009/10849 | 2011-11-16 | nao-provido | cvm-col-20111116-d03 | fichas/colegiado/2011-25.md |
@@ -2327,7 +2327,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 6º | acordao-crsfn | 19957.009371/2019-02; RJ2019/7413 | 2023-03-07 | condenacao | crsfn-10372-100138-2021-76 | fichas/crsfn/2023-01.md |
+| art. 6º | acordao-crsfn | 19957.009371/2019-02; RJ2019/7413 | 2023-03-07 | condenacao | crsfn-10372-100138-2021-76 | fichas/crsfn/2023-02.md |
 
 ### art. 9º
 
@@ -2356,8 +2356,8 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 19957.003610/2020-46; RJ2020/2361 | 2022-12-08 | condenacao | crsfn-10372-100011-2022-38 | fichas/crsfn/2022-07.md |
-| pas | 19957.002344/2021-15 | 2022-10-25 | condenacao | cvm-pas-19957-002344-2021-15 | fichas/pas/2022-05.md |
+| acordao-crsfn | 19957.003610/2020-46; RJ2020/2361 | 2022-12-08 | condenacao | crsfn-10372-100011-2022-38 | fichas/crsfn/2022-08.md |
+| pas | 19957.002344/2021-15 | 2022-10-25 | condenacao | cvm-pas-19957-002344-2021-15 | fichas/pas/2022-10.md |
 
 ## deliberacao-cvm-608
 
@@ -2366,7 +2366,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | acordao-crsfn | RJ2006/3295 | 2018-02-21 | parcial | crsfn-13903 | fichas/crsfn/2018-01.md |
-| pas | RJ2006/3295 | 2013-06-25 | parcial | cvm-pas-rj2006-3295 | fichas/pas/2013-03.md |
+| pas | RJ2006/3295 | 2013-06-25 | parcial | cvm-pas-rj2006-3295 | fichas/pas/2013-06.md |
 | decisao-colegiado | RJ2011/5307 | 2011-07-19 | nao-provido | cvm-col-20110719-d03 | fichas/colegiado/2011-15.md |
 | decisao-colegiado | RJ2011/0710 | 2011-02-22 | provido | cvm-col-20110222-d28 | fichas/colegiado/2011-05.md |
 
@@ -2412,7 +2412,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2015/13127 | 2019-08-20 | condenacao | cvm-pas-rj2015-13127 | fichas/pas/2019-08.md |
+| pas | RJ2015/13127 | 2019-08-20 | condenacao | cvm-pas-rj2015-13127 | fichas/pas/2019-15.md |
 
 ## deliberacao-cvm-619
 
@@ -2422,8 +2422,8 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.002842/2022-49; 19957.003136/2022-14; 19957.003137/2022-69; 19957.003141/2022-27; 19957.003158/2022-84; 19957.003160/2022-53; 19957.003398/2022-89; 19957.003665/2022-18; 19957.003667/2022-15; 19957.003668/2022-51; 19957.003838/2022-06; 19957.003849/2022-88; 19957.003854/2022-91; 19957.003859/2022-13; 19957.003891/2022-07; 19957.003892/2022-43; 19957.003895/2022-87; 19957.005553/2021-11 | 2022-05-04 | outro | cvm-col-20220504-d2629 | fichas/colegiado/2022-07.md |
 | decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
-| acordao-crsfn | RJ2014/1442 | 2016-10-26 | condenacao | crsfn-14366 | fichas/crsfn/2016-05.md |
-| pas | RJ2014/1442 | 2015-06-02 | condenacao | cvm-pas-rj2014-1442 | fichas/pas/2015-03.md |
+| acordao-crsfn | RJ2014/1442 | 2016-10-26 | condenacao | crsfn-14366 | fichas/crsfn/2016-09.md |
+| pas | RJ2014/1442 | 2015-06-02 | condenacao | cvm-pas-rj2014-1442 | fichas/pas/2015-06.md |
 
 ## deliberacao-cvm-620
 
@@ -2441,7 +2441,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.002966/2022-24; 19957.002968/2022-13; 19957.002975/2022-15; 19957.003161/2022-06; 19957.003166/2022-21; 19957.003174/2022-77; 19957.003196/2022-37; 19957.003207/2022-89; 19957.003215/2022-25; 19957.003396/2022-90; 19957.003403/2022-53; 19957.003698/2022-68; 19957.003700/2022-07; 19957.003704/2022-87; 19957.003759/2022-97; 19957.006211/2021-18 | 2022-05-04 | outro | cvm-col-20220504-d2627 | fichas/colegiado/2022-07.md |
 | decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
-| acordao-crsfn | RJ2011/7389 | 2015-06-30 | absolvicao | crsfn-13418 | fichas/crsfn/2015-02.md |
+| acordao-crsfn | RJ2011/7389 | 2015-06-30 | absolvicao | crsfn-13418 | fichas/crsfn/2015-03.md |
 
 ## deliberacao-cvm-624
 
@@ -2468,7 +2468,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | acordao-crsfn | RJ2011/940 | 2016-01-21 | absolvicao | crsfn-13528 | fichas/crsfn/2016-01.md |
-| pas | RJ2011/940 | 2012-07-10 | parcial | cvm-pas-rj2011-0940 | fichas/pas/2012-01.md |
+| pas | RJ2011/940 | 2012-07-10 | parcial | cvm-pas-rj2011-0940 | fichas/pas/2012-02.md |
 
 ## deliberacao-cvm-633
 
@@ -2478,8 +2478,8 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.001378/2021-92 | 2021-02-23 | outro | cvm-col-20210223-d2086 | fichas/colegiado/2021-04.md |
 | decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
-| pas | RJ2015/1591 | 2017-09-26 | absolvicao | cvm-pas-rj2015-1591 | fichas/pas/2017-03.md |
-| acordao-crsfn | RJ-2006-3565 | 2011-10-18 | condenacao | crsfn-11429 | fichas/crsfn/2011-03.md |
+| pas | RJ2015/1591 | 2017-09-26 | absolvicao | cvm-pas-rj2015-1591 | fichas/pas/2017-07.md |
+| acordao-crsfn | RJ-2006-3565 | 2011-10-18 | condenacao | crsfn-11429 | fichas/crsfn/2011-04.md |
 
 ## deliberacao-cvm-636
 
@@ -2530,7 +2530,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 | acordao-crsfn | RJ-2017/565 | 2021-04-13 | condenacao | crsfn-10372-100339-2018-78 | fichas/crsfn/2021-01.md |
 | decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
 | termo-compromisso | 19957.002261/2018-21 | 2020-03-03 | aceito | cvm-col-20200303-d1728 | fichas/tc/2020-01.md |
-| pas | RJ2017/565 | 2017-12-14 | parcial | cvm-pas-rj2017-0565 | fichas/pas/2017-05.md |
+| pas | RJ2017/565 | 2017-12-14 | parcial | cvm-pas-rj2017-0565 | fichas/pas/2017-12.md |
 | termo-compromisso | RJ2013/5066 | 2013-12-10 | aceito | cvm-col-20131210-d03 | fichas/tc/2013-05.md |
 
 ## deliberacao-cvm-643
@@ -2577,7 +2577,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.004416/2016-00 | 2023-05-30 | parcial | cvm-pas-19957-004416-2016-00 | fichas/pas/2023-03.md |
+| pas | 19957.004416/2016-00 | 2023-05-30 | parcial | cvm-pas-19957-004416-2016-00 | fichas/pas/2023-05.md |
 | decisao-colegiado | 19957.002842/2022-49; 19957.003136/2022-14; 19957.003137/2022-69; 19957.003141/2022-27; 19957.003158/2022-84; 19957.003160/2022-53; 19957.003398/2022-89; 19957.003665/2022-18; 19957.003667/2022-15; 19957.003668/2022-51; 19957.003838/2022-06; 19957.003849/2022-88; 19957.003854/2022-91; 19957.003859/2022-13; 19957.003891/2022-07; 19957.003892/2022-43; 19957.003895/2022-87; 19957.005553/2021-11 | 2022-05-04 | outro | cvm-col-20220504-d2629 | fichas/colegiado/2022-07.md |
 | decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
 
@@ -2620,7 +2620,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.002842/2022-49; 19957.003136/2022-14; 19957.003137/2022-69; 19957.003141/2022-27; 19957.003158/2022-84; 19957.003160/2022-53; 19957.003398/2022-89; 19957.003665/2022-18; 19957.003667/2022-15; 19957.003668/2022-51; 19957.003838/2022-06; 19957.003849/2022-88; 19957.003854/2022-91; 19957.003859/2022-13; 19957.003891/2022-07; 19957.003892/2022-43; 19957.003895/2022-87; 19957.005553/2021-11 | 2022-05-04 | outro | cvm-col-20220504-d2629 | fichas/colegiado/2022-07.md |
 | decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
-| pas | RJ2015/13127 | 2019-08-20 | condenacao | cvm-pas-rj2015-13127 | fichas/pas/2019-08.md |
+| pas | RJ2015/13127 | 2019-08-20 | condenacao | cvm-pas-rj2015-13127 | fichas/pas/2019-15.md |
 | decisao-colegiado | 19957.006289/2018-37 | 2018-07-03 | outro | cvm-col-20180703-d1063 | fichas/colegiado/2018-11.md |
 | termo-compromisso | RJ2015/13127 | 2016-08-23 | rejeitado | cvm-col-20160823-d0335 | fichas/tc/2016-04.md |
 
@@ -2673,7 +2673,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
-| pas | RJ2015/13326 | 2019-07-02 | parcial | cvm-pas-rj2015-13326 | fichas/pas/2019-06.md |
+| pas | RJ2015/13326 | 2019-07-02 | parcial | cvm-pas-rj2015-13326 | fichas/pas/2019-11.md |
 | termo-compromisso | RJ2016/6671; 19957.003981/2015-61 | 2017-06-26 | rejeitado | cvm-col-20170626-d0438 | fichas/tc/2017-02.md |
 | decisao-colegiado | RJ2014/11715; 19957.001098/2016-17 | 2016-12-13 | provido | cvm-col-20161213-d0158 | fichas/colegiado/2016-24.md |
 | decisao-colegiado | — | 2016-11-21 | outro | cvm-col-20161121-d5347 | fichas/colegiado/2016-22.md |
@@ -2685,7 +2685,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2017/0136 | 2019-11-12 | condenacao | cvm-pas-rj2017-0136 | fichas/pas/2019-10.md |
+| pas | RJ2017/0136 | 2019-11-12 | condenacao | cvm-pas-rj2017-0136 | fichas/pas/2019-19.md |
 
 ## deliberacao-cvm-669
 
@@ -2693,8 +2693,8 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | RJ2015/13006 | 2020-04-28 | condenacao | crsfn-10372-100082-2019-35 | fichas/crsfn/2020-02.md |
-| pas | RJ2016/8900 | 2018-12-26 | condenacao | cvm-pas-rj2016-8900 | fichas/pas/2018-12.md |
+| acordao-crsfn | RJ2015/13006 | 2020-04-28 | condenacao | crsfn-10372-100082-2019-35 | fichas/crsfn/2020-03.md |
+| pas | RJ2016/8900 | 2018-12-26 | condenacao | cvm-pas-rj2016-8900 | fichas/pas/2018-24.md |
 
 ## deliberacao-cvm-672
 
@@ -2704,7 +2704,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.002356/2022-21; 19957.002468/2022-81; 19957.002493/2022-65; 19957.002501/2022-73; 19957.002506/2022-04; 19957.006215/2021-04; 19957.002509/2022-30; 19957.002512/2022-53; 19957.002521/2022-44; 19957.002616/2022-68; 19957.002618/2022-57; 19957.002625/2022-59; 19957.002644/2022-85; 19957.002645/2022-20; 19957.002654/2022-11; 19957.002658/2022-07; 19957.002280/2022-33; 19957.002459/2022-91; 19957.002467/2022-37; 19957.002477/2022-72; 19957.002503/2022-62; 19957.002513/2022-06; 19957.002527/2022-11; 19957.002715/2022-40; 19957.002716/2022-94; 19957.002529/2022-19; 19957.002531/2022-80 | 2022-04-14 | outro | cvm-col-20220414-d2571 | fichas/colegiado/2022-06.md |
 | decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
-| pas | RJ2015/6229 | 2018-03-20 | condenacao | cvm-pas-rj2015-6229 | fichas/pas/2018-02.md |
+| pas | RJ2015/6229 | 2018-03-20 | condenacao | cvm-pas-rj2015-6229 | fichas/pas/2018-04.md |
 
 ## deliberacao-cvm-673
 
@@ -2721,7 +2721,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2012/9490 | 2015-03-10 | condenacao | cvm-pas-rj2012-9490 | fichas/pas/2015-01.md |
+| pas | RJ2012/9490 | 2015-03-10 | condenacao | cvm-pas-rj2012-9490 | fichas/pas/2015-02.md |
 
 ## deliberacao-cvm-677
 
@@ -2761,7 +2761,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 | decisao-colegiado | 19957.002842/2022-49; 19957.003136/2022-14; 19957.003137/2022-69; 19957.003141/2022-27; 19957.003158/2022-84; 19957.003160/2022-53; 19957.003398/2022-89; 19957.003665/2022-18; 19957.003667/2022-15; 19957.003668/2022-51; 19957.003838/2022-06; 19957.003849/2022-88; 19957.003854/2022-91; 19957.003859/2022-13; 19957.003891/2022-07; 19957.003892/2022-43; 19957.003895/2022-87; 19957.005553/2021-11 | 2022-05-04 | outro | cvm-col-20220504-d2629 | fichas/colegiado/2022-07.md |
 | decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
 | decisao-colegiado | 19957.000881/2017-44 | 2018-04-03 | — | cvm-col-20180403-d0704 | fichas/colegiado/2018-07.md |
-| pas | RJ2014/12058 | 2016-10-25 | condenacao | cvm-pas-rj2014-12058 | fichas/pas/2016-05.md |
+| pas | RJ2014/12058 | 2016-10-25 | condenacao | cvm-pas-rj2014-12058 | fichas/pas/2016-09.md |
 
 ## deliberacao-cvm-684
 
@@ -2769,10 +2769,10 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.009292/2017-21 | 2021-03-02 | parcial | cvm-pas-19957-009292-2017-21 | fichas/pas/2021.md |
+| pas | 19957.009292/2017-21 | 2021-03-02 | parcial | cvm-pas-19957-009292-2017-21 | fichas/pas/2021-01.md |
 | decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
-| pas | RJ2016/2476 | 2019-09-17 | condenacao | cvm-pas-rj2016-2476 | fichas/pas/2019-08.md |
-| pas | RJ2014/918 | 2014-11-04 | parcial | cvm-pas-rj2014-0918 | fichas/pas/2014-04.md |
+| pas | RJ2016/2476 | 2019-09-17 | condenacao | cvm-pas-rj2016-2476 | fichas/pas/2019-16.md |
+| pas | RJ2014/918 | 2014-11-04 | parcial | cvm-pas-rj2014-0918 | fichas/pas/2014-09.md |
 
 ## deliberacao-cvm-688
 
@@ -2796,7 +2796,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2015/13127 | 2019-08-20 | condenacao | cvm-pas-rj2015-13127 | fichas/pas/2019-08.md |
+| pas | RJ2015/13127 | 2019-08-20 | condenacao | cvm-pas-rj2015-13127 | fichas/pas/2019-15.md |
 
 ## deliberacao-cvm-692
 
@@ -2804,7 +2804,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.011865/2017-87 | 2022-12-15 | absolvicao | cvm-pas-19957-011865-2017-87 | fichas/pas/2022-06.md |
+| pas | 19957.011865/2017-87 | 2022-12-15 | absolvicao | cvm-pas-19957-011865-2017-87 | fichas/pas/2022-12.md |
 
 ## deliberacao-cvm-693
 
@@ -2823,7 +2823,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.002356/2022-21; 19957.002468/2022-81; 19957.002493/2022-65; 19957.002501/2022-73; 19957.002506/2022-04; 19957.006215/2021-04; 19957.002509/2022-30; 19957.002512/2022-53; 19957.002521/2022-44; 19957.002616/2022-68; 19957.002618/2022-57; 19957.002625/2022-59; 19957.002644/2022-85; 19957.002645/2022-20; 19957.002654/2022-11; 19957.002658/2022-07; 19957.002280/2022-33; 19957.002459/2022-91; 19957.002467/2022-37; 19957.002477/2022-72; 19957.002503/2022-62; 19957.002513/2022-06; 19957.002527/2022-11; 19957.002715/2022-40; 19957.002716/2022-94; 19957.002529/2022-19; 19957.002531/2022-80 | 2022-04-14 | outro | cvm-col-20220414-d2571 | fichas/colegiado/2022-06.md |
 | decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
-| pas | RJ2016/8769 | 2018-10-23 | condenacao | cvm-pas-rj2016-8769 | fichas/pas/2018-08.md |
+| pas | RJ2016/8769 | 2018-10-23 | condenacao | cvm-pas-rj2016-8769 | fichas/pas/2018-16.md |
 | termo-compromisso | 19957.008984/2016-71; RJ2016/8769 | 2017-10-31 | rejeitado | cvm-col-20171031-d0838 | fichas/tc/2017-05.md |
 | decisao-colegiado | RJ2014/11715; 19957.001098/2016-17 | 2016-12-13 | provido | cvm-col-20161213-d0158 | fichas/colegiado/2016-24.md |
 
@@ -2844,12 +2844,12 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | RJ2016/2245 | 2022-12-08 | condenacao | crsfn-10372-100336-2019-15 | fichas/crsfn/2022-08.md |
+| acordao-crsfn | RJ2016/2245 | 2022-12-08 | condenacao | crsfn-10372-100336-2019-15 | fichas/crsfn/2022-10.md |
 | decisao-colegiado | 19957.002966/2022-24; 19957.002968/2022-13; 19957.002975/2022-15; 19957.003161/2022-06; 19957.003166/2022-21; 19957.003174/2022-77; 19957.003196/2022-37; 19957.003207/2022-89; 19957.003215/2022-25; 19957.003396/2022-90; 19957.003403/2022-53; 19957.003698/2022-68; 19957.003700/2022-07; 19957.003704/2022-87; 19957.003759/2022-97; 19957.006211/2021-18 | 2022-05-04 | outro | cvm-col-20220504-d2627 | fichas/colegiado/2022-07.md |
 | decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
 | decisao-colegiado | 19957.001316/2020-08 | 2020-07-07 | parcial | cvm-col-20200707-d1848 | fichas/colegiado/2020-11.md |
-| acordao-crsfn | RJ2016/8251 | 2020-06-16 | parcial | crsfn-10372-100018-2019-54 | fichas/crsfn/2020-03.md |
-| pas | RJ2016/2245 | 2019-07-30 | parcial | cvm-pas-rj2016-2245 | fichas/pas/2019-07.md |
+| acordao-crsfn | RJ2016/8251 | 2020-06-16 | parcial | crsfn-10372-100018-2019-54 | fichas/crsfn/2020-04.md |
+| pas | RJ2016/2245 | 2019-07-30 | parcial | cvm-pas-rj2016-2245 | fichas/pas/2019-12.md |
 
 ## deliberacao-cvm-697
 
@@ -2874,8 +2874,8 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | RJ2014/6515 | 2018-03-21 | condenacao | crsfn-10372-100192-2017-35 | fichas/crsfn/2018-02.md |
-| pas | RJ2014/6515 | 2016-12-15 | condenacao | cvm-pas-rj2014-6515 | fichas/pas/2016-08.md |
+| acordao-crsfn | RJ2014/6515 | 2018-03-21 | condenacao | crsfn-10372-100192-2017-35 | fichas/crsfn/2018-03.md |
+| pas | RJ2014/6515 | 2016-12-15 | condenacao | cvm-pas-rj2014-6515 | fichas/pas/2016-16.md |
 | decisao-colegiado | RJ2012/14288 | 2013-10-15 | nao-provido | cvm-col-20131015-d08 | fichas/colegiado/2013-19.md |
 
 ## deliberacao-cvm-705
@@ -2892,7 +2892,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2016/7868 | 2018-10-23 | condenacao | cvm-pas-rj2016-7868 | fichas/pas/2018-08.md |
+| pas | RJ2016/7868 | 2018-10-23 | condenacao | cvm-pas-rj2016-7868 | fichas/pas/2018-15.md |
 
 ## deliberacao-cvm-708
 
@@ -2939,8 +2939,8 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 19957.006440/2021-32 | 2025-05-13 | condenacao | crsfn-10372-000165-2024-92 | fichas/crsfn/2025-02.md |
-| pas | 19957.006440/2021-32 | 2024-08-13 | condenacao | cvm-pas-19957-006440-2021-32 | fichas/pas/2024-06.md |
+| acordao-crsfn | 19957.006440/2021-32 | 2025-05-13 | condenacao | crsfn-10372-000165-2024-92 | fichas/crsfn/2025-03.md |
+| pas | 19957.006440/2021-32 | 2024-08-13 | condenacao | cvm-pas-19957-006440-2021-32 | fichas/pas/2024-12.md |
 | termo-compromisso | 19957.006440/2021-32 | 2024-04-02 | rejeitado | cvm-col-20240402-d2960 | fichas/tc/2024-02.md |
 | termo-compromisso | 19957.006440/2021-32 | 2023-11-07 | outro | cvm-col-20231107-d2960 | fichas/tc/2023-07.md |
 
@@ -2959,7 +2959,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2014/8149 | 2016-12-15 | condenacao | cvm-pas-rj2014-8149 | fichas/pas/2016-09.md |
+| pas | RJ2014/8149 | 2016-12-15 | condenacao | cvm-pas-rj2014-8149 | fichas/pas/2016-16.md |
 
 ## deliberacao-cvm-716
 
@@ -2967,9 +2967,9 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | RJ2018/157 | 2021-07-14 | parcial | crsfn-10372-100238-2019-88 | fichas/crsfn/2021-02.md |
-| acordao-crsfn | RJ2016/8347 | 2020-11-18 | parcial | crsfn-10372-100052-2019-29 | fichas/crsfn/2020-07.md |
-| pas | RJ2016/8347 | 2018-08-07 | parcial | cvm-pas-rj2016-8347 | fichas/pas/2018-06.md |
+| acordao-crsfn | RJ2018/157 | 2021-07-14 | parcial | crsfn-10372-100238-2019-88 | fichas/crsfn/2021-03.md |
+| acordao-crsfn | RJ2016/8347 | 2020-11-18 | parcial | crsfn-10372-100052-2019-29 | fichas/crsfn/2020-09.md |
+| pas | RJ2016/8347 | 2018-08-07 | parcial | cvm-pas-rj2016-8347 | fichas/pas/2018-12.md |
 | decisao-colegiado | 19957.004122/2015-99 | 2016-04-12 | provido | cvm-col-20160412-d0050 | fichas/colegiado/2016-08.md |
 | decisao-colegiado | RJ2013/12714 | 2013-12-10 | nao-provido | cvm-col-20131210-d05 | fichas/colegiado/2013-23.md |
 
@@ -3012,8 +3012,8 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
-| acordao-crsfn | RJ2015/1823 | 2017-10-25 | condenacao | crsfn-10372-000748-2016-11 | fichas/crsfn/2017-07.md |
-| pas | RJ2015/1823 | 2016-08-02 | parcial | cvm-pas-rj2015-1823 | fichas/pas/2016-03.md |
+| acordao-crsfn | RJ2015/1823 | 2017-10-25 | condenacao | crsfn-10372-000748-2016-11 | fichas/crsfn/2017-13.md |
+| pas | RJ2015/1823 | 2016-08-02 | parcial | cvm-pas-rj2015-1823 | fichas/pas/2016-04.md |
 
 ## deliberacao-cvm-724
 
@@ -3022,8 +3022,8 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
-| acordao-crsfn | RJ2015/1823 | 2017-10-25 | condenacao | crsfn-10372-000748-2016-11 | fichas/crsfn/2017-07.md |
-| pas | RJ2015/1823 | 2016-08-02 | parcial | cvm-pas-rj2015-1823 | fichas/pas/2016-03.md |
+| acordao-crsfn | RJ2015/1823 | 2017-10-25 | condenacao | crsfn-10372-000748-2016-11 | fichas/crsfn/2017-13.md |
+| pas | RJ2015/1823 | 2016-08-02 | parcial | cvm-pas-rj2015-1823 | fichas/pas/2016-04.md |
 
 ## deliberacao-cvm-725
 
@@ -3031,8 +3031,8 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.008371/2016-34; RJ2016/8501 | 2019-12-20 | parcial | cvm-pas-19957-008371-2016-34 | fichas/pas/2019-13.md |
-| pas | RJ2018/324 | 2018-10-30 | parcial | cvm-pas-rj2018-0324 | fichas/pas/2018-09.md |
+| pas | 19957.008371/2016-34; RJ2016/8501 | 2019-12-20 | parcial | cvm-pas-19957-008371-2016-34 | fichas/pas/2019-24.md |
+| pas | RJ2018/324 | 2018-10-30 | parcial | cvm-pas-rj2018-0324 | fichas/pas/2018-18.md |
 
 ## deliberacao-cvm-726
 
@@ -3119,7 +3119,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2017/5471 | 2018-12-11 | parcial | cvm-pas-rj2017-5471 | fichas/pas/2018-11.md |
+| pas | RJ2017/5471 | 2018-12-11 | parcial | cvm-pas-rj2017-5471 | fichas/pas/2018-23.md |
 | decisao-colegiado | RJ2015/1951 | 2016-03-22 | nao-provido | cvm-col-20160322-d9748 | fichas/colegiado/2016-07.md |
 | decisao-colegiado | RJ2015/1951 | 2015-11-24 | nao-provido | cvm-col-20151124-d9748 | fichas/colegiado/2015-22.md |
 
@@ -3148,7 +3148,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2016/7089 | 2018-07-13 | condenacao | cvm-pas-rj2016-7089 | fichas/pas/2018-05.md |
+| pas | RJ2016/7089 | 2018-07-13 | condenacao | cvm-pas-rj2016-7089 | fichas/pas/2018-10.md |
 
 ## deliberacao-cvm-748
 
@@ -3164,8 +3164,8 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 4º | pas | 19957.005627/2021-19 | 2024-12-17 | condenacao | cvm-pas-19957-005627-2021-19 | fichas/pas/2024-11.md |
-| art. 4º, inciso II | pas | 19957.005627/2021-19 | 2024-12-17 | condenacao | cvm-pas-19957-005627-2021-19 | fichas/pas/2024-11.md |
+| art. 4º | pas | 19957.005627/2021-19 | 2024-12-17 | condenacao | cvm-pas-19957-005627-2021-19 | fichas/pas/2024-22.md |
+| art. 4º, inciso II | pas | 19957.005627/2021-19 | 2024-12-17 | condenacao | cvm-pas-19957-005627-2021-19 | fichas/pas/2024-22.md |
 | art. 4º, inciso III | decisao-colegiado | 19957.007728/2019-18 | 2020-06-18 | nao-provido | cvm-col-20200618-d1838 | fichas/colegiado/2020-10.md |
 
 ### Citada sem dispositivo identificado
@@ -3182,7 +3182,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2018/2316 | 2019-10-01 | parcial | cvm-pas-rj2018-2316 | fichas/pas/2019-09.md |
+| pas | RJ2018/2316 | 2019-10-01 | parcial | cvm-pas-rj2018-2316 | fichas/pas/2019-16.md |
 | termo-compromisso | 19957.003331/2018-68 | 2019-03-12 | rejeitado | cvm-col-20190312-d1340 | fichas/tc/2019-01.md |
 
 ## deliberacao-cvm-751
@@ -3199,12 +3199,12 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | RJ2017/1239 | 2020-11-18 | parcial | crsfn-10372-100056-2019-15 | fichas/crsfn/2020-07.md |
-| acordao-crsfn | RJ2016/8347 | 2020-11-18 | parcial | crsfn-10372-100052-2019-29 | fichas/crsfn/2020-07.md |
-| pas | RJ2017/3091 | 2019-05-21 | parcial | cvm-pas-rj2017-3091 | fichas/pas/2019-04.md |
-| pas | RJ2017/5471 | 2018-12-11 | parcial | cvm-pas-rj2017-5471 | fichas/pas/2018-11.md |
-| pas | RJ2017/1298 | 2018-12-11 | absolvicao | cvm-pas-rj2017-1298 | fichas/pas/2018-11.md |
-| pas | RJ2016/8347 | 2018-08-07 | parcial | cvm-pas-rj2016-8347 | fichas/pas/2018-06.md |
+| acordao-crsfn | RJ2017/1239 | 2020-11-18 | parcial | crsfn-10372-100056-2019-15 | fichas/crsfn/2020-09.md |
+| acordao-crsfn | RJ2016/8347 | 2020-11-18 | parcial | crsfn-10372-100052-2019-29 | fichas/crsfn/2020-09.md |
+| pas | RJ2017/3091 | 2019-05-21 | parcial | cvm-pas-rj2017-3091 | fichas/pas/2019-07.md |
+| pas | RJ2017/5471 | 2018-12-11 | parcial | cvm-pas-rj2017-5471 | fichas/pas/2018-23.md |
+| pas | RJ2017/1298 | 2018-12-11 | absolvicao | cvm-pas-rj2017-1298 | fichas/pas/2018-22.md |
+| pas | RJ2016/8347 | 2018-08-07 | parcial | cvm-pas-rj2016-8347 | fichas/pas/2018-12.md |
 | decisao-colegiado | 19957.007969/2016-14 | 2017-06-20 | nao-provido | cvm-col-20170620-d0434 | fichas/colegiado/2017-11.md |
 
 ## deliberacao-cvm-753
@@ -3227,7 +3227,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 18 | decisao-colegiado | 19957.010832/2017-10 | 2018-08-28 | provido | cvm-col-20180828-d1132 | fichas/colegiado/2018-15.md |
-| art. 18 | pas | RJ2015/13127 | 2019-08-20 | condenacao | cvm-pas-rj2015-13127 | fichas/pas/2019-08.md |
+| art. 18 | pas | RJ2015/13127 | 2019-08-20 | condenacao | cvm-pas-rj2015-13127 | fichas/pas/2019-15.md |
 
 ### Citada sem dispositivo identificado
 
@@ -3281,8 +3281,8 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 | decisao-colegiado | 19957.002356/2022-21; 19957.002468/2022-81; 19957.002493/2022-65; 19957.002501/2022-73; 19957.002506/2022-04; 19957.006215/2021-04; 19957.002509/2022-30; 19957.002512/2022-53; 19957.002521/2022-44; 19957.002616/2022-68; 19957.002618/2022-57; 19957.002625/2022-59; 19957.002644/2022-85; 19957.002645/2022-20; 19957.002654/2022-11; 19957.002658/2022-07; 19957.002280/2022-33; 19957.002459/2022-91; 19957.002467/2022-37; 19957.002477/2022-72; 19957.002503/2022-62; 19957.002513/2022-06; 19957.002527/2022-11; 19957.002715/2022-40; 19957.002716/2022-94; 19957.002529/2022-19; 19957.002531/2022-80 | 2022-04-14 | outro | cvm-col-20220414-d2571 | fichas/colegiado/2022-06.md |
 | decisao-colegiado | 19957.008134/2021-31 | 2022-02-15 | parcial | cvm-col-20220215-d2474 | fichas/colegiado/2022-02.md |
 | decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
-| pas | RJ2016/2476 | 2019-09-17 | condenacao | cvm-pas-rj2016-2476 | fichas/pas/2019-08.md |
-| pas | RJ2015/13127 | 2019-08-20 | condenacao | cvm-pas-rj2015-13127 | fichas/pas/2019-08.md |
+| pas | RJ2016/2476 | 2019-09-17 | condenacao | cvm-pas-rj2016-2476 | fichas/pas/2019-16.md |
+| pas | RJ2015/13127 | 2019-08-20 | condenacao | cvm-pas-rj2015-13127 | fichas/pas/2019-15.md |
 | decisao-colegiado | 19957.006289/2018-37 | 2018-07-03 | outro | cvm-col-20180703-d1063 | fichas/colegiado/2018-11.md |
 
 ## deliberacao-cvm-763
@@ -3291,7 +3291,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.015389/2022-31 | 2025-03-18 | absolvicao | cvm-pas-19957-015389-2022-31 | fichas/pas/2025-01.md |
+| pas | 19957.015389/2022-31 | 2025-03-18 | absolvicao | cvm-pas-19957-015389-2022-31 | fichas/pas/2025-02.md |
 | decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
 
 ## deliberacao-cvm-767
@@ -3346,7 +3346,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.008202/2025-95 | 2026-10-21 | — | cvm-pas-19957-008202-2025-95 | fichas/pas/2026-03.md |
+| pas | 19957.008202/2025-95 | 2026-10-21 | — | cvm-pas-19957-008202-2025-95 | fichas/pas/2026-06.md |
 
 ## deliberacao-cvm-776
 
@@ -3362,7 +3362,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.001482/2020-04 | 2023-11-14 | condenacao | cvm-pas-19957-001482-2020-04 | fichas/pas/2023-07.md |
+| pas | 19957.001482/2020-04 | 2023-11-14 | condenacao | cvm-pas-19957-001482-2020-04 | fichas/pas/2023-14.md |
 | decisao-colegiado | 19957.008756/2020-88 | 2021-04-20 | nao-provido | cvm-col-20210420-d2138 | fichas/colegiado/2021-07.md |
 | termo-compromisso | 19957.006713/2017-62 | 2019-04-16 | rejeitado | cvm-col-20190416-d0782 | fichas/tc/2019-02.md |
 
@@ -3372,7 +3372,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2017/4780 | 2018-12-26 | absolvicao | cvm-pas-rj2017-4780 | fichas/pas/2018-12.md |
+| pas | RJ2017/4780 | 2018-12-26 | absolvicao | cvm-pas-rj2017-4780 | fichas/pas/2018-25.md |
 | termo-compromisso | 19957.009514/2017-14 | 2018-12-18 | aceito | cvm-col-20181218-d1050 | fichas/tc/2018-07.md |
 
 ## deliberacao-cvm-780
@@ -3381,7 +3381,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 30/2005 | 2020-04-14 | parcial | crsfn-13083-2 | fichas/crsfn/2020-02.md |
+| acordao-crsfn | 30/2005 | 2020-04-14 | parcial | crsfn-13083-2 | fichas/crsfn/2020-03.md |
 
 ## deliberacao-cvm-781
 
@@ -3494,7 +3494,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.008143/2018-26 | 2023-12-20 | parcial | cvm-pas-19957-008143-2018-26 | fichas/pas/2023-09.md |
+| pas | 19957.008143/2018-26 | 2023-12-20 | parcial | cvm-pas-19957-008143-2018-26 | fichas/pas/2023-18.md |
 | termo-compromisso | 19957.008143/2018-26; 19957.008816/2018-48; 19957.010223/2019-22; 19957.009530/2018-80 | 2022-12-06 | rejeitado | cvm-col-20221206-d1497-e-outros | fichas/tc/2022-05.md |
 | termo-compromisso | 19957.008816/2018-48; 19957.010958/2018-75; 19957.008143/2018-26; 19957.007904/2019-11; 19957.006702/2019-44; 19957.004801/2018-19; 19957.002813/2019-81; 19957.006871/2018-01; 19957.007913/2019-02; 19957.004658/2019-38; 19957.006298/2018-28 | 2021-04-01 | rejeitado | cvm-col-20210401-d2121 | fichas/tc/2021-02.md |
 | termo-compromisso | 19957.008143/2018-26 | 2019-12-17 | rejeitado | cvm-col-20191217-d1497 | fichas/tc/2019-07.md |
@@ -3562,7 +3562,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.010024/2022-10 | 2024-02-27 | condenacao | cvm-pas-19957-010024-2022-10 | fichas/pas/2024-01.md |
+| pas | 19957.010024/2022-10 | 2024-02-27 | condenacao | cvm-pas-19957-010024-2022-10 | fichas/pas/2024-02.md |
 
 ## deliberacao-cvm-811
 
@@ -3570,7 +3570,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 19957.010628/2019-61 | 2022-10-10 | condenacao | crsfn-10372-100185-2020-39 | fichas/crsfn/2022-06.md |
+| acordao-crsfn | 19957.010628/2019-61 | 2022-10-10 | condenacao | crsfn-10372-100185-2020-39 | fichas/crsfn/2022-07.md |
 | decisao-colegiado | 19957.004747/2018-01 | 2019-09-10 | nao-provido | cvm-col-20190910-d1325 | fichas/colegiado/2019-14.md |
 
 ## deliberacao-cvm-812
@@ -3587,7 +3587,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.006332/2019-45 | 2022-12-22 | condenacao | cvm-pas-19957-006332-2019-45 | fichas/pas/2022-06.md |
+| pas | 19957.006332/2019-45 | 2022-12-22 | condenacao | cvm-pas-19957-006332-2019-45 | fichas/pas/2022-13.md |
 | termo-compromisso | 19957.006332/2019-45 | 2019-11-12 | outro | cvm-col-20191112-d1589 | fichas/tc/2019-06.md |
 | decisao-colegiado | 19957.007482/2019-76 | 2019-09-03 | nao-provido | cvm-col-20190903-d1521 | fichas/colegiado/2019-14.md |
 | decisao-colegiado | 19957.007484/2019-65 | 2019-09-03 | nao-provido | cvm-col-20190903-d1520 | fichas/colegiado/2019-14.md |
@@ -3643,10 +3643,10 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.011029/2019-64 | 2024-05-21 | — | cvm-pas-19957-011029-2019-64 | fichas/pas/2024-03.md |
+| pas | 19957.011029/2019-64 | 2024-05-21 | — | cvm-pas-19957-011029-2019-64 | fichas/pas/2024-05.md |
 | acordao-crsfn | RJ2019/2333 | 2023-02-07 | parcial | crsfn-10372-100089-2021-71 | fichas/crsfn/2023-01.md |
 | acordao-crsfn | RJ2019/2333 | 2023-02-07 | parcial | crsfn-10372-100089-2021-71-2 | fichas/crsfn/2023-01.md |
-| pas | 19957.007994/2018-51; RJ2018/5377 | 2020-06-09 | condenacao | cvm-pas-19957-007994-2018-51 | fichas/pas/2020-02.md |
+| pas | 19957.007994/2018-51; RJ2018/5377 | 2020-06-09 | condenacao | cvm-pas-19957-007994-2018-51 | fichas/pas/2020-04.md |
 
 ## deliberacao-cvm-827
 
@@ -3662,7 +3662,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.009683/2019-16 | 2023-04-11 | condenacao | cvm-pas-19957-009683-2019-16 | fichas/pas/2023-02.md |
+| pas | 19957.009683/2019-16 | 2023-04-11 | condenacao | cvm-pas-19957-009683-2019-16 | fichas/pas/2023-03.md |
 
 ## deliberacao-cvm-829
 
@@ -3680,7 +3680,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.009444/2019-58 | 2023-10-03 | condenacao | cvm-pas-19957-009444-2019-58 | fichas/pas/2023-06.md |
+| pas | 19957.009444/2019-58 | 2023-10-03 | condenacao | cvm-pas-19957-009444-2019-58 | fichas/pas/2023-12.md |
 | termo-compromisso | 19957.009444/2019-58 | 2023-08-29 | rejeitado | cvm-col-20230829-d1878 | fichas/tc/2023-05.md |
 | termo-compromisso | 19957.009444/2019-58 | 2020-08-11 | rejeitado | cvm-col-20200811-d1878 | fichas/tc/2020-06.md |
 
@@ -3691,7 +3691,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | acordao-crsfn | 19957.012344/2022-12 | 2025-06-04 | condenacao | crsfn-10372-000166-2024-37 | fichas/crsfn/2025-03.md |
-| pas | 19957.012344/2022-12 | 2024-08-27 | parcial | cvm-pas-19957-012344-2022-12 | fichas/pas/2024-07.md |
+| pas | 19957.012344/2022-12 | 2024-08-27 | parcial | cvm-pas-19957-012344-2022-12 | fichas/pas/2024-13.md |
 | termo-compromisso | 19957.012344/2022-12 | 2023-10-17 | rejeitado | cvm-col-20231017-d2945 | fichas/tc/2023-06.md |
 
 ## deliberacao-cvm-832
@@ -3771,7 +3771,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | SP2012/218 | 2020-10-20 | parcial | crsfn-14241 | fichas/crsfn/2020-06.md |
+| acordao-crsfn | SP2012/218 | 2020-10-20 | parcial | crsfn-14241 | fichas/crsfn/2020-08.md |
 
 ## deliberacao-cvm-846
 
@@ -3794,8 +3794,8 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 19957.003642/2020-41; RJ2020/04613 | 2022-10-10 | condenacao | crsfn-10372-100092-2022-76 | fichas/crsfn/2022-06.md |
-| pas | 19957.003642/2020-41 | 2022-05-03 | condenacao | cvm-pas-19957-003642-2020-41 | fichas/pas/2022-02.md |
+| acordao-crsfn | 19957.003642/2020-41; RJ2020/04613 | 2022-10-10 | condenacao | crsfn-10372-100092-2022-76 | fichas/crsfn/2022-07.md |
+| pas | 19957.003642/2020-41 | 2022-05-03 | condenacao | cvm-pas-19957-003642-2020-41 | fichas/pas/2022-04.md |
 
 ## deliberacao-cvm-850
 
@@ -3804,7 +3804,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
-| pas | 19957.008274/2018-11; RJ2018/5469 | 2020-06-09 | condenacao | cvm-pas-19957-008274-2018-11 | fichas/pas/2020-02.md |
+| pas | 19957.008274/2018-11; RJ2018/5469 | 2020-06-09 | condenacao | cvm-pas-19957-008274-2018-11 | fichas/pas/2020-04.md |
 | decisao-colegiado | 19957.002558/2020-19 | 2020-04-07 | outro | cvm-col-20200407-d1774 | fichas/colegiado/2020-06.md |
 
 ## deliberacao-cvm-851
@@ -3928,7 +3928,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.011015/2022-46 | 2023-04-25 | condenacao | cvm-pas-19957-011015-2022-46 | fichas/pas/2023-02.md |
+| pas | 19957.011015/2022-46 | 2023-04-25 | condenacao | cvm-pas-19957-011015-2022-46 | fichas/pas/2023-04.md |
 
 ## deliberacao-cvm-869
 
@@ -4003,7 +4003,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.010195/2021-68 | 2023-11-21 | condenacao | cvm-pas-19957-010195-2021-68 | fichas/pas/2023-08.md |
+| pas | 19957.010195/2021-68 | 2023-11-21 | condenacao | cvm-pas-19957-010195-2021-68 | fichas/pas/2023-15.md |
 
 ## deliberacao-cvm-877
 
@@ -4030,7 +4030,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.009486/2023-75 | 2025-08-26 | parcial | cvm-pas-19957-009486-2023-75 | fichas/pas/2025-04.md |
+| pas | 19957.009486/2023-75 | 2025-08-26 | parcial | cvm-pas-19957-009486-2023-75 | fichas/pas/2025-07.md |
 
 ## deliberacao-cvm-888
 
@@ -4079,21 +4079,21 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 6º | pas | RJ2014/10060 | 2015-11-10 | condenacao | cvm-pas-rj2014-10060 | fichas/pas/2015-06.md |
+| art. 6º | pas | RJ2014/10060 | 2015-11-10 | condenacao | cvm-pas-rj2014-10060 | fichas/pas/2015-12.md |
 
 ### art. 9º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 9º | pas | RJ2014/10060 | 2015-11-10 | condenacao | cvm-pas-rj2014-10060 | fichas/pas/2015-06.md |
-| art. 9º | pas | RJ2014/13353 | 2017-12-22 | parcial | cvm-pas-rj2014-13353 | fichas/pas/2017-06.md |
+| art. 9º | pas | RJ2014/10060 | 2015-11-10 | condenacao | cvm-pas-rj2014-10060 | fichas/pas/2015-12.md |
+| art. 9º | pas | RJ2014/13353 | 2017-12-22 | parcial | cvm-pas-rj2014-13353 | fichas/pas/2017-13.md |
 
 ### art. 11
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 11 | pas | RJ2014/10060 | 2015-11-10 | condenacao | cvm-pas-rj2014-10060 | fichas/pas/2015-06.md |
-| art. 11 | pas | RJ2014/13353 | 2017-12-22 | parcial | cvm-pas-rj2014-13353 | fichas/pas/2017-06.md |
+| art. 11 | pas | RJ2014/10060 | 2015-11-10 | condenacao | cvm-pas-rj2014-10060 | fichas/pas/2015-12.md |
+| art. 11 | pas | RJ2014/13353 | 2017-12-22 | parcial | cvm-pas-rj2014-13353 | fichas/pas/2017-13.md |
 
 ## deliberacao-cvm-5383
 
@@ -4101,13 +4101,13 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 9º | pas | RJ2012/10069 | 2015-03-31 | condenacao | cvm-pas-rj2012-10069 | fichas/pas/2015-02.md |
+| art. 9º | pas | RJ2012/10069 | 2015-03-31 | condenacao | cvm-pas-rj2012-10069 | fichas/pas/2015-04.md |
 
 ### art. 11
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 11 | pas | RJ2012/10069 | 2015-03-31 | condenacao | cvm-pas-rj2012-10069 | fichas/pas/2015-02.md |
+| art. 11 | pas | RJ2012/10069 | 2015-03-31 | condenacao | cvm-pas-rj2012-10069 | fichas/pas/2015-04.md |
 
 ### art. 25
 
@@ -4119,7 +4119,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 352 | pas | RJ2014/10556 | 2017-11-29 | parcial | cvm-pas-rj2014-10556 | fichas/pas/2017-04.md |
+| art. 352 | pas | RJ2014/10556 | 2017-11-29 | parcial | cvm-pas-rj2014-10556 | fichas/pas/2017-09.md |
 
 ## deliberacao-cvm-5385
 
@@ -4135,7 +4135,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2017/4779 | 2018-12-11 | parcial | cvm-pas-rj2017-4779 | fichas/pas/2018-11.md |
+| pas | RJ2017/4779 | 2018-12-11 | parcial | cvm-pas-rj2017-4779 | fichas/pas/2018-22.md |
 
 ## deliberacao-cvm-8176
 
@@ -4143,7 +4143,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.011015/2022-46 | 2023-04-25 | condenacao | cvm-pas-19957-011015-2022-46 | fichas/pas/2023-02.md |
+| pas | 19957.011015/2022-46 | 2023-04-25 | condenacao | cvm-pas-19957-011015-2022-46 | fichas/pas/2023-04.md |
 
 ## deliberacao-cvm-8267
 
@@ -4151,7 +4151,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.011029/2019-64 | 2024-05-21 | — | cvm-pas-19957-011029-2019-64 | fichas/pas/2024-03.md |
+| pas | 19957.011029/2019-64 | 2024-05-21 | — | cvm-pas-19957-011029-2019-64 | fichas/pas/2024-05.md |
 
 ## deliberacao-cvm-10033
 
@@ -4192,13 +4192,13 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 11 | pas | RJ2015/9443 | 2019-06-04 | parcial | cvm-pas-rj2015-9443 | fichas/pas/2019-04.md |
+| art. 11 | pas | RJ2015/9443 | 2019-06-04 | parcial | cvm-pas-rj2015-9443 | fichas/pas/2019-07.md |
 
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2014/4077 | 2019-02-26 | parcial | cvm-pas-rj2014-4077 | fichas/pas/2019-02.md |
+| pas | RJ2014/4077 | 2019-02-26 | parcial | cvm-pas-rj2014-4077 | fichas/pas/2019-04.md |
 
 ## deliberacao-cvm-53830
 
@@ -4206,7 +4206,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 11 | pas | RJ2015/9443 | 2019-06-04 | parcial | cvm-pas-rj2015-9443 | fichas/pas/2019-04.md |
+| art. 11 | pas | RJ2015/9443 | 2019-06-04 | parcial | cvm-pas-rj2015-9443 | fichas/pas/2019-07.md |
 
 ## deliberacao-cvm-69241
 
@@ -4214,7 +4214,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2016/2476 | 2019-09-17 | condenacao | cvm-pas-rj2016-2476 | fichas/pas/2019-08.md |
+| pas | RJ2016/2476 | 2019-09-17 | condenacao | cvm-pas-rj2016-2476 | fichas/pas/2019-16.md |
 
 ## deliberacao-cvm-73417
 
@@ -4222,7 +4222,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.008274/2018-11; RJ2018/5469 | 2020-06-09 | condenacao | cvm-pas-19957-008274-2018-11 | fichas/pas/2020-02.md |
+| pas | 19957.008274/2018-11; RJ2018/5469 | 2020-06-09 | condenacao | cvm-pas-19957-008274-2018-11 | fichas/pas/2020-04.md |
 
 ## deliberacao-cvm-73419
 
@@ -4230,7 +4230,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.008274/2018-11; RJ2018/5469 | 2020-06-09 | condenacao | cvm-pas-19957-008274-2018-11 | fichas/pas/2020-02.md |
+| pas | 19957.008274/2018-11; RJ2018/5469 | 2020-06-09 | condenacao | cvm-pas-19957-008274-2018-11 | fichas/pas/2020-04.md |
 
 ## deliberacao-cvm-73433
 
@@ -4238,8 +4238,8 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2017/5471 | 2018-12-11 | parcial | cvm-pas-rj2017-5471 | fichas/pas/2018-11.md |
-| pas | RJ2017/4779 | 2018-12-11 | parcial | cvm-pas-rj2017-4779 | fichas/pas/2018-11.md |
+| pas | RJ2017/5471 | 2018-12-11 | parcial | cvm-pas-rj2017-5471 | fichas/pas/2018-23.md |
+| pas | RJ2017/4779 | 2018-12-11 | parcial | cvm-pas-rj2017-4779 | fichas/pas/2018-22.md |
 
 ## deliberacao-cvm-73436
 
@@ -4247,7 +4247,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2017/5471 | 2018-12-11 | parcial | cvm-pas-rj2017-5471 | fichas/pas/2018-11.md |
+| pas | RJ2017/5471 | 2018-12-11 | parcial | cvm-pas-rj2017-5471 | fichas/pas/2018-23.md |
 
 ## deliberacao-cvm-81314
 
@@ -4255,7 +4255,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.006332/2019-45 | 2022-12-22 | condenacao | cvm-pas-19957-006332-2019-45 | fichas/pas/2022-06.md |
+| pas | 19957.006332/2019-45 | 2022-12-22 | condenacao | cvm-pas-19957-006332-2019-45 | fichas/pas/2022-13.md |
 
 ## deliberacao-cvm-86712
 
@@ -4263,7 +4263,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.011015/2022-46 | 2023-04-25 | condenacao | cvm-pas-19957-011015-2022-46 | fichas/pas/2023-02.md |
+| pas | 19957.011015/2022-46 | 2023-04-25 | condenacao | cvm-pas-19957-011015-2022-46 | fichas/pas/2023-04.md |
 
 ## deliberacao-cvm-390101
 
@@ -4287,7 +4287,7 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 11 | acordao-crsfn | RJ2013-9266 | 2021-07-13 | parcial | crsfn-10372-100298-2018-10 | fichas/crsfn/2021-02.md |
+| art. 11 | acordao-crsfn | RJ2013-9266 | 2021-07-13 | parcial | crsfn-10372-100298-2018-10 | fichas/crsfn/2021-03.md |
 
 ## deliberacao-cvm-53812008
 
@@ -4295,8 +4295,8 @@ deliberacao-cvm-53812008 (4292); deliberacao-cvm-55812008 (4301)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 11, parágrafo único | acordao-crsfn | RJ2014/13353 | 2020-08-25 | condenacao | crsfn-10372-100295-2018-86 | fichas/crsfn/2020-04.md |
-| art. 11, parágrafo único | acordao-crsfn | RJ2014/13353 | 2020-09-20 | outro | crsfn-edcl-10372-100295-2018-86 | fichas/crsfn/2020-05.md |
+| art. 11, parágrafo único | acordao-crsfn | RJ2014/13353 | 2020-08-25 | condenacao | crsfn-10372-100295-2018-86 | fichas/crsfn/2020-05.md |
+| art. 11, parágrafo único | acordao-crsfn | RJ2014/13353 | 2020-09-20 | outro | crsfn-edcl-10372-100295-2018-86 | fichas/crsfn/2020-07.md |
 
 ## deliberacao-cvm-55812008
 

@@ -22,7 +22,7 @@ Norma: [cvm/resolucoes/0077.md](../../normas/cvm/resolucoes/0077.md) (texto vige
 | art. 4º, inciso I | decisao-colegiado | 19957.001763/2025-63 | 2025-04-15 | deferido | cvm-col-20250415-d3263 | fichas/colegiado/2025-04.md |
 | art. 4º, inciso II | decisao-colegiado | 19957.015890/2023-88 | 2023-12-26 | deferido | cvm-col-20231226-d2984 | fichas/colegiado/2023-15.md |
 | art. 4º, inciso IV | decisao-colegiado | 19957.001763/2025-63 | 2025-04-15 | deferido | cvm-col-20250415-d3263 | fichas/colegiado/2025-04.md |
-| art. 4º, § 1º | pas | 19957.004424/2025-39 | 2025-12-09 | absolvicao | cvm-pas-19957-004424-2025-39 | fichas/pas/2025-05.md |
+| art. 4º, § 1º | pas | 19957.004424/2025-39 | 2025-12-09 | absolvicao | cvm-pas-19957-004424-2025-39 | fichas/pas/2025-10.md |
 
 ## art. 7º
 
@@ -63,8 +63,8 @@ Norma: [cvm/resolucoes/0077.md](../../normas/cvm/resolucoes/0077.md) (texto vige
 | decisao-colegiado | 77/2022; 19957.006106/2016-11 | 2025-09-03 | outro | cvm-col-20250903-d3355 | fichas/colegiado/2025-09.md |
 | decisao-colegiado | 77/2022; 19957.006106/2016-11 | 2025-08-20 | — | cvm-col-20250820-d3355 | fichas/colegiado/2025-08.md |
 | decisao-colegiado | 19957.000368/2025-63; 19957.001945/2025-34 | 2025-05-20 | outro | cvm-col-20250520-d3280 | fichas/colegiado/2025-05.md |
-| pas | 19957.007285/2022-52 | 2024-08-20 | absolvicao | cvm-pas-19957-007285-2022-52 | fichas/pas/2024-06.md |
-| pas | 19957.005390/2017-90 | 2023-10-31 | parcial | cvm-pas-19957-005390-2017-90 | fichas/pas/2023-07.md |
+| pas | 19957.007285/2022-52 | 2024-08-20 | absolvicao | cvm-pas-19957-007285-2022-52 | fichas/pas/2024-12.md |
+| pas | 19957.005390/2017-90 | 2023-10-31 | parcial | cvm-pas-19957-005390-2017-90 | fichas/pas/2023-13.md |
 | termo-compromisso | 19957.014436/2022-29 | 2023-10-10 | aceito | cvm-col-20231010-d2942 | fichas/tc/2023-06.md |
 | decisao-colegiado | 19957.007423/2021-12 | 2023-02-28 | nao-provido | cvm-col-20230228-d2672 | fichas/colegiado/2023-03.md |
 | decisao-colegiado | 19957.009725/2021-25 | 2022-03-23 | outro | cvm-col-20220323-d2516 | fichas/colegiado/2022-04.md |

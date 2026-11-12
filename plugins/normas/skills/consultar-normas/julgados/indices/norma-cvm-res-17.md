@@ -46,9 +46,9 @@ Norma: [cvm/resolucoes/0017.md](../../normas/cvm/resolucoes/0017.md) (texto vige
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | pas | 19957.011123/2025-61 | 2026-06-02 | condenacao | cvm-pas-19957-011123-2025-61 | fichas/pas/2026-01.md |
-| pas | 19957.003673/2020-01 | 2024-06-20 | absolvicao | cvm-pas-19957-003673-2020-01 | fichas/pas/2024-04.md |
+| pas | 19957.003673/2020-01 | 2024-06-20 | absolvicao | cvm-pas-19957-003673-2020-01 | fichas/pas/2024-08.md |
 | pas | 19957.008816/2018-48 | 2023-02-28 | parcial | cvm-pas-19957-008816-2018-48 | fichas/pas/2023-01.md |
-| pas | 19957.007430/2019-08 | 2022-12-22 | parcial | cvm-pas-19957-007430-2019-08 | fichas/pas/2022-07.md |
+| pas | 19957.007430/2019-08 | 2022-12-22 | parcial | cvm-pas-19957-007430-2019-08 | fichas/pas/2022-13.md |
 | decisao-colegiado | 19957.008816/2018-48; 19957.008143/2018-26; 19957.010958/2018-75 | 2022-08-30 | indeferido | cvm-col-20220830-d1497-1535-e-1572 | fichas/colegiado/2022-13.md |
 | decisao-colegiado | 19957.000808/2021-59 | 2021-02-09 | outro | cvm-col-20210209-d2056 | fichas/colegiado/2021-03.md |
 

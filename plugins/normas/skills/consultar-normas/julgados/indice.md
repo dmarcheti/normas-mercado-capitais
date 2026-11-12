@@ -96,18 +96,32 @@ Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho rel
 | Decisões do Colegiado | [2004](indices/decisao-colegiado-2004.md) | 344 |
 | Decisões do Colegiado | [2003](indices/decisao-colegiado-2003.md) | 321 |
 | Decisões do Colegiado | [2002](indices/decisao-colegiado-2002.md) | 398 |
-| Decisões antigas (1978 a 2001) (uma linha por decisão) | [2001](indices/decisao-antiga-2001.md) | 460 |
-| Decisões antigas (1978 a 2001) (uma linha por decisão) | [2000, 1o semestre](indices/decisao-antiga-2000-s1.md) | 269 |
-| Decisões antigas (1978 a 2001) (uma linha por decisão) | [2000, 2o semestre](indices/decisao-antiga-2000-s2.md) | 359 |
-| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1999, 1o semestre](indices/decisao-antiga-1999-s1.md) | 247 |
-| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1999, 2o semestre](indices/decisao-antiga-1999-s2.md) | 391 |
-| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1998](indices/decisao-antiga-1998.md) | 420 |
-| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1997](indices/decisao-antiga-1997.md) | 306 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [2001, 1o trimestre](indices/decisao-antiga-2001-t1.md) | 108 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [2001, 2o trimestre](indices/decisao-antiga-2001-t2.md) | 118 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [2001, 3o trimestre](indices/decisao-antiga-2001-t3.md) | 76 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [2001, 4o trimestre](indices/decisao-antiga-2001-t4.md) | 158 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [2000, 1o trimestre](indices/decisao-antiga-2000-t1.md) | 156 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [2000, 2o trimestre](indices/decisao-antiga-2000-t2.md) | 113 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [2000, 3o trimestre](indices/decisao-antiga-2000-t3.md) | 159 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [2000, 4o trimestre](indices/decisao-antiga-2000-t4.md) | 200 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1999, 1o trimestre](indices/decisao-antiga-1999-t1.md) | 121 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1999, 2o trimestre](indices/decisao-antiga-1999-t2.md) | 126 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1999, 3o trimestre](indices/decisao-antiga-1999-t3.md) | 263 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1999, 4o trimestre](indices/decisao-antiga-1999-t4.md) | 128 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1998, 1o trimestre](indices/decisao-antiga-1998-t1.md) | 48 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1998, 2o trimestre](indices/decisao-antiga-1998-t2.md) | 81 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1998, 3o trimestre](indices/decisao-antiga-1998-t3.md) | 159 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1998, 4o trimestre](indices/decisao-antiga-1998-t4.md) | 132 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1997, 1o semestre](indices/decisao-antiga-1997-s1.md) | 100 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1997, 2o semestre](indices/decisao-antiga-1997-s2.md) | 206 |
 | Decisões antigas (1978 a 2001) (uma linha por decisão) | [1996](indices/decisao-antiga-1996.md) | 193 |
 | Decisões antigas (1978 a 2001) (uma linha por decisão) | [1995](indices/decisao-antiga-1995.md) | 104 |
 | Decisões antigas (1978 a 2001) (uma linha por decisão) | [1994](indices/decisao-antiga-1994.md) | 129 |
 | Decisões antigas (1978 a 2001) (uma linha por decisão) | [1993](indices/decisao-antiga-1993.md) | 102 |
-| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1992](indices/decisao-antiga-1992.md) | 372 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1992, 1o trimestre](indices/decisao-antiga-1992-t1.md) | 136 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1992, 2o trimestre](indices/decisao-antiga-1992-t2.md) | 121 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1992, 3o trimestre](indices/decisao-antiga-1992-t3.md) | 90 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1992, 4o trimestre](indices/decisao-antiga-1992-t4.md) | 25 |
 | Decisões antigas (1978 a 2001) (uma linha por decisão) | [1991](indices/decisao-antiga-1991.md) | 222 |
 | Decisões antigas (1978 a 2001) (uma linha por decisão) | [1990](indices/decisao-antiga-1990.md) | 184 |
 | Decisões antigas (1978 a 2001) (uma linha por decisão) | [1989](indices/decisao-antiga-1989.md) | 134 |

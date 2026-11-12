@@ -12,8 +12,8 @@ Norma: [cvm/resolucoes/0172.md](../../normas/cvm/resolucoes/0172.md) (texto vige
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.012859/2023-95 | 2024-12-10 | indeferido | cvm-col-20241210-d3189 | fichas/colegiado/2024-14.md |
-| acordao-crsfn | 19957.008816/2018-48 | 2024-11-12 | parcial | crsfn-10372-100091-2023-11 | fichas/crsfn/2024-06.md |
-| acordao-crsfn | 19957.008816/2018-48 | 2024-11-12 | parcial | crsfn-10372-100091-2023-11-2 | fichas/crsfn/2024-06.md |
+| acordao-crsfn | 19957.008816/2018-48 | 2024-11-12 | parcial | crsfn-10372-100091-2023-11 | fichas/crsfn/2024-08.md |
+| acordao-crsfn | 19957.008816/2018-48 | 2024-11-12 | parcial | crsfn-10372-100091-2023-11-2 | fichas/crsfn/2024-08.md |
 | decisao-colegiado | — | 2022-12-14 | outro | cvm-col-20221214-d2794 | fichas/colegiado/2022-17.md |
 | decisao-colegiado | 19957.001305/2022-81 | 2022-11-01 | outro | cvm-col-20221101-d2639 | fichas/colegiado/2022-15.md |
 

@@ -29,13 +29,13 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 20 | pas | 19957.011109/2019-10 | 2024-06-04 | condenacao | cvm-pas-19957-011109-2019-10 | fichas/pas/2024-03.md |
+| art. 20 | pas | 19957.011109/2019-10 | 2024-06-04 | condenacao | cvm-pas-19957-011109-2019-10 | fichas/pas/2024-06.md |
 
 ## Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.003673/2020-01 | 2024-06-20 | absolvicao | cvm-pas-19957-003673-2020-01 | fichas/pas/2024-04.md |
+| pas | 19957.003673/2020-01 | 2024-06-20 | absolvicao | cvm-pas-19957-003673-2020-01 | fichas/pas/2024-08.md |
 | decisao-colegiado | 19957.011889/2022-01 | 2023-09-19 | deferido | cvm-col-20230919-d2923 | fichas/colegiado/2023-10.md |
 | decisao-colegiado | RJ2016/8223 | 2017-04-25 | nao-provido | cvm-col-20170425-d0428 | fichas/colegiado/2017-08.md |
 | pas | RJ2013/5793 | 2015-01-27 | absolvicao | cvm-pas-rj2013-5793 | fichas/pas/2015-01.md |
@@ -46,8 +46,8 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2012/1716 | 2012-02-16 | indeferido | cvm-col-20120216-d12 | fichas/colegiado/2012-03.md |
 | acordao-crsfn | IA-1998-12 | 2011-04-27 | parcial | crsfn-8254 | fichas/crsfn/2011-01.md |
 | decisao-colegiado | RJ2008/2762 | 2008-07-22 | parcial | cvm-col-20080722-d12 | fichas/colegiado/2008-16.md |
-| pas | SP2005/0155 | 2007-08-21 | parcial | cvm-pas-sp2005-0155 | fichas/pas/2007-06.md |
-| pas | 22/1996 | 2006-05-03 | parcial | cvm-pas-22-1996 | fichas/pas/2006-03.md |
+| pas | SP2005/0155 | 2007-08-21 | parcial | cvm-pas-sp2005-0155 | fichas/pas/2007-11.md |
+| pas | 22/1996 | 2006-05-03 | parcial | cvm-pas-22-1996 | fichas/pas/2006-07.md |
 | decisao-colegiado | RJ2004/3443 | 2004-06-24 | deferido | cvm-col-20040624-d08 | fichas/colegiado/2004-07.md |
 | decisao-antiga | — | 1984-01-05 | — | cvm-dec-1984-0001 | fichas/decisoes-antigas/1984-04.md |
 | decisao-antiga | — | 1983-02-03 | — | cvm-dec-1983-0001 | fichas/decisoes-antigas/1983-04.md |

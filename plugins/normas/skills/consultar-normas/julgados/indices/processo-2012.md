@@ -7,172 +7,172 @@ Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho rel
 
 Número normalizado: NUP `99999-999999-AAAA-DD`; processo antigo `rj2015-13791` (sigla em minúsculas, ano, número com 4 dígitos); numeração curta dos PAS `NN-AAAA`. Procure pelo número normalizado ou pela forma do julgado. Dois julgados do mesmo processo (um PAS e o termo de compromisso ou o acórdão do CRSFN dele) aparecem com o mesmo número.
 
-| Processo (normalizado) | Forma no julgado | Tipo | Data | Id | Ficha |
-|---|---|---|---|---|---|
-| 01-2012 | 01/2012 | termo-compromisso | 2014-04-01 | cvm-col-20140401-d05 | fichas/tc/2014-01.md |
-| 02-2012 | 02/2012 | pas | 2014-02-04 | cvm-pas-02-2012 | fichas/pas/2014-01.md |
-| 03-2012 | 03/2012 | termo-compromisso | 2016-03-08 | cvm-col-20160308-d9489 | fichas/tc/2016-01.md |
-| 03-2012 | 03/2012 | termo-compromisso | 2016-09-20 | cvm-col-20160920-d9489 | fichas/tc/2016-04.md |
-| 03-2012 | 03/2012 | pas | 2016-12-15 | cvm-pas-03-2012 | fichas/pas/2016-08.md |
-| 03-2012 | 03/2012 | acordao-crsfn | 2023-08-24 | crsfn-10372-100031-2020-47 | fichas/crsfn/2023-05.md |
-| 04-2012 | 04/2012 | pas | 2014-11-25 | cvm-pas-04-2012 | fichas/pas/2014-04.md |
-| 04-2012 | 04/2012 | acordao-crsfn | 2018-12-11 | crsfn-14227 | fichas/crsfn/2018-07.md |
-| 05-2012 | 05/2012 | termo-compromisso | 2016-08-30 | cvm-col-20160830-d0342 | fichas/tc/2016-04.md |
-| 05-2012 | 05/2012 | pas | 2019-12-03 | cvm-pas-05-2012 | fichas/pas/2019-11.md |
-| 05-2012 | 05/2012 | acordao-crsfn | 2023-04-12 | crsfn-10372-100110-2020-58 | fichas/crsfn/2023-03.md |
-| 06-2012 | 06/2012 | pas | 2018-08-20 | cvm-pas-06-2012 | fichas/pas/2018-06.md |
-| 06-2012 | 06/2012 | acordao-crsfn | 2021-12-07 | crsfn-10372-100268-2019-94 | fichas/crsfn/2021-04.md |
-| 06-2012 | 06/2012 | acordao-crsfn | 2022-07-12 | crsfn-10372-100268-2019-94-2 | fichas/crsfn/2022-04.md |
-| 07-2012 | 07/2012 | pas | 2017-03-07 | cvm-pas-07-2012 | fichas/pas/2017-01.md |
-| 07-2012 | 07/2012 | acordao-crsfn | 2019-05-28 | crsfn-10372-100303-2018-94 | fichas/crsfn/2019-01.md |
-| 08-2012 | 08/2012 | pas | 2014-12-16 | cvm-pas-08-2012 | fichas/pas/2014-05.md |
-| 08-2012 | 08/2012 | acordao-crsfn | 2020-09-15 | crsfn-10372-000204-2016-41 | fichas/crsfn/2020-04.md |
-| 09-2012 | 09/2012 | pas | 2014-11-25 | cvm-pas-09-2012 | fichas/pas/2014-05.md |
-| 10-2012 | 10/2012 | termo-compromisso | 2015-02-24 | cvm-col-20150224-d9575 | fichas/tc/2015-01.md |
-| 10-2012 | 10/2012 | pas | 2018-11-13 | cvm-pas-10-2012 | fichas/pas/2018-09.md |
-| 11-2012 | 11/2012 | pas | 2014-12-02 | cvm-pas-11-2012 | fichas/pas/2014-05.md |
-| 11-2012 | 11/2012 | acordao-crsfn | 2018-10-19 | crsfn-14228 | fichas/crsfn/2018-06.md |
-| ia2012-0002 | IA2012/02 | acordao-crsfn | 2017-12-12 | crsfn-14046 | fichas/crsfn/2017-08.md |
-| ia2012-0009 | IA-2012-9 | acordao-crsfn | 2016-08-23 | crsfn-14211 | fichas/crsfn/2016-03.md |
-| rj2012-0130 | RJ2012/0130 | termo-compromisso | 2012-08-28 | cvm-col-20120828-d20 | fichas/tc/2012-05.md |
-| rj2012-0869 | RJ2012/0869 | pas | 2013-04-30 | cvm-pas-rj2012-0869 | fichas/pas/2013-03.md |
-| rj2012-1131 | RJ2012/1131 | termo-compromisso | 2014-11-04 | cvm-col-20141104-d01 | fichas/tc/2014-03.md |
-| rj2012-1131 | RJ2012/1131 | pas | 2015-05-26 | cvm-pas-rj2012-1131 | fichas/pas/2015-03.md |
-| rj2012-1131 | RJ2012/1131 | acordao-crsfn | 2018-09-20 | crsfn-14293 | fichas/crsfn/2018-05.md |
-| rj2012-1131 | RJ2012/1131 | acordao-crsfn | 2020-09-20 | crsfn-edcl-14293 | fichas/crsfn/2020-05.md |
-| rj2012-1542 | RJ2012/1542 | termo-compromisso | 2012-08-07 | cvm-col-20120807-d04 | fichas/tc/2012-04.md |
-| rj2012-1542 | RJ2012/1542 | pas | 2015-03-31 | cvm-pas-rj2012-1542 | fichas/pas/2015-02.md |
-| rj2012-1605 | RJ2012/1605 | acordao-crsfn | 2015-09-22 | crsfn-13430 | fichas/crsfn/2015-04.md |
-| rj2012-1606 | RJ2012/1606 | pas | 2014-02-04 | cvm-pas-rj2012-1606 | fichas/pas/2014-01.md |
-| rj2012-1606 | RJ2012/1606 | acordao-crsfn | 2017-04-18 | crsfn-13932 | fichas/crsfn/2017-03.md |
-| rj2012-1643 | RJ2012/1643 | termo-compromisso | 2012-11-06 | cvm-col-20121106-d06 | fichas/tc/2012-05.md |
-| rj2012-1670 | RJ2012/1670 | pas | 2014-07-29 | cvm-pas-rj2012-1670 | fichas/pas/2014-03.md |
-| rj2012-1730 | RJ2012/1730 | pas | 2015-05-19 | cvm-pas-rj2012-1730 | fichas/pas/2015-03.md |
-| rj2012-2338 | RJ2012/2338 | pas | 2013-03-12 | cvm-pas-rj2012-2338 | fichas/pas/2013-01.md |
-| rj2012-2766 | RJ2012/2766 | termo-compromisso | 2012-07-17 | cvm-col-20120717-d03 | fichas/tc/2012-04.md |
-| rj2012-2833 | RJ2012/2833 | termo-compromisso | 2013-08-27 | cvm-col-20130827-d02 | fichas/tc/2013-04.md |
-| rj2012-3110 | RJ2012/3110 | termo-compromisso | 2013-03-19 | cvm-col-20130319-d02 | fichas/tc/2013-01.md |
-| rj2012-3110 | RJ2012/3110 | termo-compromisso | 2014-08-12 | cvm-col-20140812-d01 | fichas/tc/2014-02.md |
-| rj2012-3110 | RJ2012/3110 | pas | 2017-02-14 | cvm-pas-rj2012-3110 | fichas/pas/2017-01.md |
-| rj2012-3110 | RJ2012/3110 | acordao-crsfn | 2018-08-21 | crsfn-10372-100210-2017-89 | fichas/crsfn/2018-05.md |
-| rj2012-3168 | RJ2012/3168 | pas | 2012-11-13 | cvm-pas-rj2012-3168 | fichas/pas/2012-03.md |
-| rj2012-3168 | RJ2012/3168 | acordao-crsfn | 2016-02-23 | crsfn-13625 | fichas/crsfn/2016-01.md |
-| rj2012-3457 | RJ2012/3457 | pas | 2012-12-06 | cvm-pas-rj2012-3457 | fichas/pas/2012-03.md |
-| rj2012-3457 | RJ2012/3457 | acordao-crsfn | 2016-01-21 | crsfn-13626 | fichas/crsfn/2016-01.md |
-| rj2012-3630 | RJ2012/3630 | pas | 2013-08-13 | cvm-pas-rj2012-3630 | fichas/pas/2013-04.md |
-| rj2012-3630 | RJ2012/3630 | acordao-crsfn | 2015-06-30 | crsfn-13819 | fichas/crsfn/2015-02.md |
-| rj2012-3785 | RJ2012/3785 | termo-compromisso | 2012-07-03 | cvm-col-20120703-d05 | fichas/tc/2012-03.md |
-| rj2012-3787 | RJ2012/3787 | termo-compromisso | 2013-02-05 | cvm-col-20130205-d04 | fichas/tc/2013-01.md |
-| rj2012-3787 | RJ2012/3787 | pas | 2014-09-02 | cvm-pas-rj2012-3787 | fichas/pas/2014-03.md |
-| rj2012-3796 | RJ2012/3796 | termo-compromisso | 2013-11-12 | cvm-col-20131112-d01 | fichas/tc/2013-05.md |
-| rj2012-3799 | RJ2012/3799 | termo-compromisso | 2012-08-07 | cvm-col-20120807-d02 | fichas/tc/2012-04.md |
-| rj2012-4062 | RJ2012/4062 | pas | 2013-12-17 | cvm-pas-rj2012-4062 | fichas/pas/2013-07.md |
-| rj2012-4062 | RJ-2012-4062 | acordao-crsfn | 2017-09-19 | crsfn-13934 | fichas/crsfn/2017-07.md |
-| rj2012-4066 | RJ2012/4066 | pas | 2015-03-31 | cvm-pas-rj2012-4066 | fichas/pas/2015-02.md |
-| rj2012-4136 | RJ2012/4136 | pas | 2013-12-10 | cvm-pas-rj2012-4136 | fichas/pas/2013-07.md |
-| rj2012-4137 | RJ2012/4137 | termo-compromisso | 2012-11-22 | cvm-col-20121122-d02 | fichas/tc/2012-05.md |
-| rj2012-4138 | RJ2012/4138 | termo-compromisso | 2012-11-22 | cvm-col-20121122-d03 | fichas/tc/2012-06.md |
-| rj2012-4235 | RJ2012/4235 | termo-compromisso | 2012-11-06 | cvm-col-20121106-d07 | fichas/tc/2012-05.md |
-| rj2012-4464 | RJ2012/4464 | termo-compromisso | 2013-03-26 | cvm-col-20130326-d02 | fichas/tc/2013-01.md |
-| rj2012-4472 | RJ2012/4472 | pas | 2013-08-20 | cvm-pas-rj2012-4472 | fichas/pas/2013-04.md |
-| rj2012-4472 | RJ2012/4472 | acordao-crsfn | 2017-03-14 | crsfn-13871 | fichas/crsfn/2017-02.md |
-| rj2012-4489 | RJ2012/4489 | termo-compromisso | 2012-07-03 | cvm-col-20120703-d06 | fichas/tc/2012-03.md |
-| rj2012-4588 | RJ2012/4588 | termo-compromisso | 2012-10-16 | cvm-col-20121016-d01 | fichas/tc/2012-05.md |
-| rj2012-4640 | RJ2012/4640 | termo-compromisso | 2013-11-05 | cvm-col-20131105-d01 | fichas/tc/2013-05.md |
-| rj2012-4734 | RJ2012/4734 | termo-compromisso | 2012-11-22 | cvm-col-20121122-d04 | fichas/tc/2012-06.md |
-| rj2012-4767 | RJ2012/4767 | termo-compromisso | 2012-10-02 | cvm-col-20121002-d01 | fichas/tc/2012-05.md |
-| rj2012-4905 | RJ2012/4905 | termo-compromisso | 2012-07-03 | cvm-col-20120703-d02 | fichas/tc/2012-03.md |
-| rj2012-4905 | RJ2012/4905 | termo-compromisso | 2012-11-22 | cvm-col-20121122-d01 | fichas/tc/2012-05.md |
-| rj2012-5036 | RJ2012/5036 | termo-compromisso | 2013-05-14 | cvm-col-20130514-d01 | fichas/tc/2013-02.md |
-| rj2012-5754 | RJ2012/5754 | pas | 2013-09-10 | cvm-pas-rj2012-5754 | fichas/pas/2013-04.md |
-| rj2012-6160 | RJ2012/6160 | pas | 2014-06-10 | cvm-pas-rj2012-6160 | fichas/pas/2014-02.md |
-| rj2012-6160 | RJ2012/6160 | acordao-crsfn | 2018-03-20 | crsfn-14039 | fichas/crsfn/2018-02.md |
-| rj2012-6987 | RJ2012/6987 | pas | 2013-08-13 | cvm-pas-rj2012-6987 | fichas/pas/2013-04.md |
-| rj2012-6987 | RJ2012/6987 | pas | 2014-11-18 | cvm-pas-rj2012-6987-2 | fichas/pas/2014-04.md |
-| rj2012-6987 | RJ2012/6987 | acordao-crsfn | 2018-10-18 | crsfn-14215 | fichas/crsfn/2018-06.md |
-| rj2012-7132 | RJ2012/7132 | termo-compromisso | 2013-03-19 | cvm-col-20130319-d03 | fichas/tc/2013-01.md |
-| rj2012-7133 | RJ2012/7133 | termo-compromisso | 2013-02-19 | cvm-col-20130219-d02 | fichas/tc/2013-01.md |
-| rj2012-7353 | RJ2012/7353 | termo-compromisso | 2013-12-17 | cvm-col-20131217-d07 | fichas/tc/2013-06.md |
-| rj2012-7353 | RJ2012/7353 | termo-compromisso | 2014-06-24 | cvm-col-20140624-d02 | fichas/tc/2014-02.md |
-| rj2012-7353 | RJ2012/7353 | termo-compromisso | 2016-10-04 | cvm-col-20161004-d8937 | fichas/tc/2016-04.md |
-| rj2012-7353 | RJ2012/7353 | pas | 2019-08-20 | cvm-pas-rj2012-7353 | fichas/pas/2019-08.md |
-| rj2012-7353 | RJ2012/7353 | acordao-crsfn | 2022-12-07 | crsfn-10372-100052-2020-62 | fichas/crsfn/2022-07.md |
-| rj2012-7471 | RJ2012/7471 | pas | 2013-05-28 | cvm-pas-rj2012-7471 | fichas/pas/2013-03.md |
-| rj2012-7471 | RJ2012/7471 | acordao-crsfn | 2016-06-28 | crsfn-10372-000588-2016-01 | fichas/crsfn/2016-03.md |
-| rj2012-7765 | RJ2012/7765 | termo-compromisso | 2013-02-19 | cvm-col-20130219-d03 | fichas/tc/2013-01.md |
-| rj2012-7767 | RJ2012/7767 | pas | 2013-04-02 | cvm-pas-rj2012-7767 | fichas/pas/2013-02.md |
-| rj2012-7867 | RJ2012/7867 | termo-compromisso | 2013-07-02 | cvm-col-20130702-d02 | fichas/tc/2013-03.md |
-| rj2012-7880 | RJ2012/7880 | pas | 2013-11-19 | cvm-pas-rj2012-7880 | fichas/pas/2013-05.md |
-| rj2012-7880 | RJ-2012-7880 | acordao-crsfn | 2017-04-18 | crsfn-13935 | fichas/crsfn/2017-03.md |
-| rj2012-8010 | RJ2012/8010 | pas | 2015-07-21 | cvm-pas-rj2012-8010 | fichas/pas/2015-04.md |
-| rj2012-8010 | RJ2012/8010 | acordao-crsfn | 2017-10-24 | crsfn-14354 | fichas/crsfn/2017-07.md |
-| rj2012-8087 | RJ2012/8087 | termo-compromisso | 2013-03-26 | cvm-col-20130326-d03 | fichas/tc/2013-02.md |
-| rj2012-8093 | RJ2012/8093 | termo-compromisso | 2013-05-14 | cvm-col-20130514-d02 | fichas/tc/2013-02.md |
-| rj2012-8094 | RJ2012/8094 | termo-compromisso | 2013-06-13 | cvm-col-20130613-d04 | fichas/tc/2013-03.md |
-| rj2012-8094 | RJ-2012-8094 | acordao-crsfn | 2017-07-25 | crsfn-14325 | fichas/crsfn/2017-06.md |
-| rj2012-8095 | RJ2012/8095 | termo-compromisso | 2013-08-20 | cvm-col-20130820-d05 | fichas/tc/2013-04.md |
-| rj2012-8369 | RJ2012/8369 | termo-compromisso | 2014-11-18 | cvm-col-20141118-d03 | fichas/tc/2014-04.md |
-| rj2012-8369 | RJ2012/8369 | termo-compromisso | 2014-12-16 | cvm-col-20141216-d01 | fichas/tc/2014-05.md |
-| rj2012-8371 | RJ2012/8371 | termo-compromisso | 2013-05-14 | cvm-col-20130514-d03 | fichas/tc/2013-02.md |
-| rj2012-8591 | RJ2012/8591 | pas | 2013-04-09 | cvm-pas-rj2012-8591 | fichas/pas/2013-02.md |
-| rj2012-8591 | RJ2012/8591 | acordao-crsfn | 2016-04-26 | crsfn-13691 | fichas/crsfn/2016-02.md |
-| rj2012-9409 | RJ2012/9409 | termo-compromisso | 2012-11-06 | cvm-col-20121106-d05 | fichas/tc/2012-05.md |
-| rj2012-9490 | RJ2012/9490 | pas | 2015-03-10 | cvm-pas-rj2012-9490 | fichas/pas/2015-01.md |
-| rj2012-9509 | RJ2012/9509 | termo-compromisso | 2013-10-22 | cvm-col-20131022-d02 | fichas/tc/2013-04.md |
-| rj2012-9557 | RJ2012/9557 | termo-compromisso | 2013-05-21 | cvm-col-20130521-d03 | fichas/tc/2013-02.md |
-| rj2012-9652 | RJ2012/9652 | pas | 2013-07-16 | cvm-pas-rj2012-9652 | fichas/pas/2013-04.md |
-| rj2012-9808 | RJ2012/9808 | termo-compromisso | 2015-01-06 | cvm-col-20150106-d9487 | fichas/tc/2015-01.md |
-| rj2012-9808 | RJ2012/9808 | pas | 2015-12-18 | cvm-pas-rj2012-9808 | fichas/pas/2015-07.md |
-| rj2012-9808 | RJ2012/9808 | acordao-crsfn | 2018-09-20 | crsfn-14449 | fichas/crsfn/2018-06.md |
-| rj2012-9808 | RJ2012/9808 | acordao-crsfn | 2018-12-11 | crsfn-edcl-14449 | fichas/crsfn/2018-07.md |
-| rj2012-9832 | RJ2012/9832 | termo-compromisso | 2013-06-13 | cvm-col-20130613-d05 | fichas/tc/2013-03.md |
-| rj2012-10069 | RJ2012/10069 | pas | 2015-03-31 | cvm-pas-rj2012-10069 | fichas/pas/2015-02.md |
-| rj2012-10069 | RJ-2012-10069 | acordao-crsfn | 2016-08-24 | crsfn-14261 | fichas/crsfn/2016-04.md |
-| rj2012-10128 | RJ2012/10128 | termo-compromisso | 2013-07-16 | cvm-col-20130716-d03 | fichas/tc/2013-03.md |
-| rj2012-10128 | RJ2012/10128 | pas | 2013-09-10 | cvm-pas-rj2012-10128 | fichas/pas/2013-04.md |
-| rj2012-10128 | RJ-2012-10128 | acordao-crsfn | 2017-04-19 | crsfn-13902 | fichas/crsfn/2017-03.md |
-| rj2012-10347 | RJ2012/10347 | termo-compromisso | 2013-02-05 | cvm-col-20130205-d05 | fichas/tc/2013-01.md |
-| rj2012-10465 | RJ2012/10465 | pas | 2013-03-12 | cvm-pas-rj2012-10465 | fichas/pas/2013-01.md |
-| rj2012-10487 | RJ2012/10487 | termo-compromisso | 2013-07-02 | cvm-col-20130702-d01 | fichas/tc/2013-03.md |
-| rj2012-10487 | RJ2012/10487 | pas | 2013-11-05 | cvm-pas-rj2012-10487 | fichas/pas/2013-05.md |
-| rj2012-10487 | RJ-2012-10487 | acordao-crsfn | 2017-04-19 | crsfn-13883 | fichas/crsfn/2017-03.md |
-| rj2012-11002 | RJ2012/11002 | termo-compromisso | 2016-03-01 | cvm-col-20160301-d8703 | fichas/tc/2016-01.md |
-| rj2012-11002 | RJ2012/11002 | pas | 2016-12-15 | cvm-pas-rj2012-11002 | fichas/pas/2016-08.md |
-| rj2012-11002 | RJ2012/11002 | acordao-crsfn | 2020-11-17 | crsfn-edcl-185 | fichas/crsfn/2020-07.md |
-| rj2012-11094 | RJ2012/11094 | termo-compromisso | 2014-11-11 | cvm-col-20141111-d03 | fichas/tc/2014-03.md |
-| rj2012-11199 | RJ2012/11199 | pas | 2016-03-22 | cvm-pas-rj2012-11199 | fichas/pas/2016-01.md |
-| rj2012-12067 | RJ2012/12067 | termo-compromisso | 2013-02-19 | cvm-col-20130219-d01 | fichas/tc/2013-01.md |
-| rj2012-12201 | RJ2012/12201 | pas | 2015-08-04 | cvm-pas-rj2012-12201 | fichas/pas/2015-04.md |
-| rj2012-12201 | RJ-2012-12201 | acordao-crsfn | 2016-11-29 | crsfn-14439 | fichas/crsfn/2016-05.md |
-| rj2012-12931 | RJ2012/12931 | termo-compromisso | 2014-02-25 | cvm-col-20140225-d03 | fichas/tc/2014-01.md |
-| rj2012-12961 | RJ2012/12961 | termo-compromisso | 2014-02-25 | cvm-col-20140225-d02 | fichas/tc/2014-01.md |
-| rj2012-13047 | RJ2012/13047 | pas | 2014-11-04 | cvm-pas-rj2012-13047 | fichas/pas/2014-04.md |
-| rj2012-13047 | RJ2012/13047 | acordao-crsfn | 2018-04-03 | crsfn-14164 | fichas/crsfn/2018-03.md |
-| rj2012-13212 | RJ2012/13212 | termo-compromisso | 2013-02-26 | cvm-col-20130226-d06 | fichas/tc/2013-01.md |
-| rj2012-13605 | RJ2012/13605 | pas | 2016-08-23 | cvm-pas-rj2012-13605 | fichas/pas/2016-03.md |
-| rj2012-13605 | RJ2012/13605 | acordao-crsfn | 2018-02-20 | crsfn-10372-100146-2017-36 | fichas/crsfn/2018-01.md |
-| rj2012-13740 | RJ2012/13740 | termo-compromisso | 2015-06-02 | cvm-col-20150602-d9660 | fichas/tc/2015-02.md |
-| rj2012-13740 | RJ2012/13740 | pas | 2017-09-26 | cvm-pas-rj2012-13740 | fichas/pas/2017-03.md |
-| rj2012-13871 | RJ2012/13871 | termo-compromisso | 2013-06-13 | cvm-col-20130613-d03 | fichas/tc/2013-02.md |
-| rj2012-13953 | RJ2012/13953 | termo-compromisso | 2013-07-09 | cvm-col-20130709-d01 | fichas/tc/2013-03.md |
-| rj2012-13953 | RJ2012/13953 | termo-compromisso | 2013-10-08 | cvm-col-20131008-d01 | fichas/tc/2013-04.md |
-| rj2012-14390 | RJ2012/14390 | termo-compromisso | 2013-05-14 | cvm-col-20130514-d04 | fichas/tc/2013-02.md |
-| rj2012-14871 | RJ2012/14871 | pas | 2013-11-26 | cvm-pas-rj2012-14871 | fichas/pas/2013-05.md |
-| rj2012-14871 | RJ2012/14871 | acordao-crsfn | 2017-10-25 | crsfn-13938 | fichas/crsfn/2017-08.md |
-| rj2012-15235 | RJ2012/15235 | termo-compromisso | 2013-08-20 | cvm-col-20130820-d06 | fichas/tc/2013-04.md |
-| rj2012-15235 | RJ2012/15235 | pas | 2016-03-22 | cvm-pas-rj2012-15235 | fichas/pas/2016-01.md |
-| rj2012-15235 | RJ2012/15235 | acordao-crsfn | 2017-10-24 | crsfn-14488 | fichas/crsfn/2017-07.md |
-| sp2012-0218 | SP2012/218 | pas | 2014-03-25 | cvm-pas-sp2012-0218 | fichas/pas/2014-01.md |
-| sp2012-0218 | SP2012/218 | acordao-crsfn | 2020-10-20 | crsfn-14241 | fichas/crsfn/2020-06.md |
-| sp2012-0228 | SP2012/228 | pas | 2016-10-25 | cvm-pas-sp2012-0228 | fichas/pas/2016-06.md |
-| sp2012-0228 | SP2012/228 | acordao-crsfn | 2020-02-11 | crsfn-10372-100085-2018-98 | fichas/crsfn/2020-01.md |
-| sp2012-0374 | SP2012/0374 | termo-compromisso | 2014-11-25 | cvm-col-20141125-d03 | fichas/tc/2014-04.md |
-| sp2012-0374 | SP2012/0374 | pas | 2016-07-19 | cvm-pas-sp2012-0374 | fichas/pas/2016-02.md |
-| sp2012-0374 | SP2012/374 | acordao-crsfn | 2018-12-11 | crsfn-10372-000122-2017-88 | fichas/crsfn/2018-07.md |
-| sp2012-0402 | SP2012/402 | pas | 2015-07-01 | cvm-pas-sp2012-0402 | fichas/pas/2015-04.md |
-| sp2012-0402 | SP2012/402 | acordao-crsfn | 2018-12-12 | crsfn-14335 | fichas/crsfn/2018-08.md |
-| sp2012-0480 | SP2012/0480 | termo-compromisso | 2014-08-05 | cvm-col-20140805-d03 | fichas/tc/2014-02.md |
-| sp2012-0480 | SP2012/480 | pas | 2015-10-06 | cvm-pas-sp2012-0480 | fichas/pas/2015-06.md |
-| sp2012-0480 | SP-2012-480 | acordao-crsfn | 2017-05-23 | crsfn-14428 | fichas/crsfn/2017-04.md |
+| Processo (normalizado) | Forma no julgado | Tipo | Data | Ementa | Id | Ficha |
+|---|---|---|---|---|---|---|
+| 01-2012 | 01/2012 | termo-compromisso | 2014-04-01 | O Colegiado aceitou proposta de termo de compromisso de diretor financeiro de banco estadual, acusado de prática não equitativa e de… | cvm-col-20140401-d05 | fichas/tc/2014-01.md |
+| 02-2012 | 02/2012 | pas | 2014-02-04 | Descumprimento do dever de diligência. Absolvição e Advertências. | cvm-pas-02-2012 | fichas/pas/2014-01.md |
+| 03-2012 | 03/2012 | termo-compromisso | 2016-03-08 | O Colegiado, por unanimidade, acompanhando o voto do diretor relator, não acolheu novas propostas de termo de compromisso de dois… | cvm-col-20160308-d9489 | fichas/tc/2016-01.md |
+| 03-2012 | 03/2012 | termo-compromisso | 2016-09-20 | O Colegiado indeferiu pedido de reconsideração de decisão de 08.03.2016 que rejeitou novas propostas de Termo de Compromisso, de R$… | cvm-col-20160920-d9489 | fichas/tc/2016-04.md |
+| 03-2012 | 03/2012 | pas | 2016-12-15 | Descumprimento dos deveres de diligência e de lealdade esperados dos administradores de uma companhia aberta. Multas e advertência. | cvm-pas-03-2012 | fichas/pas/2016-15.md |
+| 03-2012 | 03/2012 | acordao-crsfn | 2023-08-24 | RECURSO VOLUNTÁRIO. MERCADO DE CAPITAIS. DESCUMPRIMENTO DOS DEVERES DE DILIGÊNCIA E DE LEALDADE ESPERADOS DOS ADMINISTRADORES DE COMPANHIA… | crsfn-10372-100031-2020-47 | fichas/crsfn/2023-06.md |
+| 04-2012 | 04/2012 | pas | 2014-11-25 | Suposto descumprimento do disposto no item I da Deliberação CVM nº 20/95. Absolvição. Não informação de aquisição de ações de emissão da… | cvm-pas-04-2012 | fichas/pas/2014-09.md |
+| 04-2012 | 04/2012 | acordao-crsfn | 2018-12-11 | RECURSOS VOLUNTÁRIO E DE OFÍCIO. Não informar à CVM e ao mercado a aquisição de mais de 10% de participação no capital social de Companhia… | crsfn-14227 | fichas/crsfn/2018-10.md |
+| 05-2012 | 05/2012 | termo-compromisso | 2016-08-30 | O Colegiado rejeitou a proposta de termo de compromisso de gestora, diretores responsáveis e administradora no PAS 05/2012, por ausência de… | cvm-col-20160830-d0342 | fichas/tc/2016-04.md |
+| 05-2012 | 05/2012 | pas | 2019-12-03 | Irregularidades envolvendo negócios efetuados por fundos de investimentos geridos pela ARX Capital Management Ltda. Infração ao artigo 65… | cvm-pas-05-2012 | fichas/pas/2019-20.md |
+| 05-2012 | 05/2012 | acordao-crsfn | 2023-04-12 | RECURSO VOLUNTÁRIO. MERCADO DE VALORES MOBILIÁRIOS. AUSÊNCIA DOS REGISTROS DA ESPECIFICAÇÃO DE ORDENS EM SISTEMA QUE POSSIBILITASSE O… | crsfn-10372-100110-2020-58 | fichas/crsfn/2023-04.md |
+| 06-2012 | 06/2012 | pas | 2018-08-20 | Práticas não equitativas no mercado de valores mobiliários. Infração ao item I, c/c item II, alínea ‘d’, da Instrução CVM nº 08/79. Criação… | cvm-pas-06-2012 | fichas/pas/2018-13.md |
+| 06-2012 | 06/2012 | acordao-crsfn | 2021-12-07 | RECURSOS VOLUNTÁRIOS. Práticas não equitativas no mercado de valores mobiliários. Infração ao item I, c/c item II, alínea “d”, da Instrução… | crsfn-10372-100268-2019-94 | fichas/crsfn/2021-06.md |
+| 06-2012 | 06/2012 | acordao-crsfn | 2022-07-12 | EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÃO E CONTRADIÇÃO. Argumentos não procedentes. Embargos rejeitados. | crsfn-10372-100268-2019-94-2 | fichas/crsfn/2022-05.md |
+| 07-2012 | 07/2012 | pas | 2017-03-07 | Descumprimento do dever de diligência por parte dos gestores das carteiras dos Fundos – Negligência da administradora na fiscalização dos… | cvm-pas-07-2012 | fichas/pas/2017-02.md |
+| 07-2012 | 07/2012 | acordao-crsfn | 2019-05-28 | Recursos voluntários. Mercado de títulos e valores mobiliários. Gestão de Fundos de Investimento Exclusivos. Descumprimento do dever de… | crsfn-10372-100303-2018-94 | fichas/crsfn/2019-02.md |
+| 08-2012 | 08/2012 | pas | 2014-12-16 | Não divulgação de fato relevante – escrituração contábil em desacordo com os preceitos legais e com os princípios de contabilidade… | cvm-pas-08-2012 | fichas/pas/2014-10.md |
+| 08-2012 | 08/2012 | acordao-crsfn | 2020-09-15 | RECURSOS VOLUNTÁRIOS. Não Divulgação de Fato Relevante. Contabilização Inadequada de valores no balanço. Desvio de Poder. Fluência do prazo… | crsfn-10372-000204-2016-41 | fichas/crsfn/2020-06.md |
+| 09-2012 | 09/2012 | pas | 2014-11-25 | Divulgação e utilização de informação relevante – Descumprimento dos deveres de sigilo e de lealdade exigidos dos administradores de… | cvm-pas-09-2012 | fichas/pas/2014-10.md |
+| 10-2012 | 10/2012 | termo-compromisso | 2015-02-24 | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou as propostas de termo de compromisso de R$ 450.000,00 (quatro proponentes) e… | cvm-col-20150224-d9575 | fichas/tc/2015-01.md |
+| 10-2012 | 10/2012 | pas | 2018-11-13 | Prática não equitativa no mercado de valores mobiliários na negociação de ações de emissão da Vanguarda Agro S.A. Infração ao disposto nos… | cvm-pas-10-2012 | fichas/pas/2018-19.md |
+| 11-2012 | 11/2012 | pas | 2014-12-02 | Exercício indevido do direito de voto – Descumprimento da vedação à participação em eleições reservadas a acionistas minoritários e… | cvm-pas-11-2012 | fichas/pas/2014-10.md |
+| 11-2012 | 11/2012 | acordao-crsfn | 2018-10-19 | RECURSOS VOLUNTÁRIOS. Entidade Fechada de Previdência Complementar. Participação em votação, em separado, para eleição de representantes de… | crsfn-14228 | fichas/crsfn/2018-08.md |
+| ia2012-0002 | IA2012/02 | acordao-crsfn | 2017-12-12 | RECURSO DE OFÍCIO. Conversão de ações em debêntures. Ausência de termo de posse. Veracidade da assinatura não comprovada. Absolvição… | crsfn-14046 | fichas/crsfn/2017-14.md |
+| ia2012-0009 | IA-2012-9 | acordao-crsfn | 2016-08-23 | EMENTA: Recursos voluntários. Divulgação de informações relevantes, em infração ao disposto no §1º do art. 155 da Lei nº 6.404/76, c/c o… | crsfn-14211 | fichas/crsfn/2016-06.md |
+| rj2012-0130 | RJ2012/0130 | termo-compromisso | 2012-08-28 | O Colegiado aceitou proposta de termo de compromisso no PAS RJ2012/0130, acompanhando o relator. Proposta de R$ 20.000,00 como condição… | cvm-col-20120828-d20 | fichas/tc/2012-05.md |
+| rj2012-0869 | RJ2012/0869 | pas | 2013-04-30 | BI CAPITAL Descumprimento do dever de diligência. Multas. | cvm-pas-rj2012-0869 | fichas/pas/2013-05.md |
+| rj2012-1131 | RJ2012/1131 | termo-compromisso | 2014-11-04 | O Colegiado aceitou, por unanimidade, nova proposta de termo de compromisso apresentada por administradores da EMAE no PAS RJ2012/1131… | cvm-col-20141104-d01 | fichas/tc/2014-03.md |
+| rj2012-1131 | RJ2012/1131 | pas | 2015-05-26 | Descumprimento do dever de lealdade. Multa. | cvm-pas-rj2012-1131 | fichas/pas/2015-05.md |
+| rj2012-1131 | RJ2012/1131 | acordao-crsfn | 2018-09-20 | RECURSO VOLUNTÁRIO. Violação de deveres fiduciários por omissão do acionista controlador. Sociedades de economia mista controladas pelo… | crsfn-14293 | fichas/crsfn/2018-07.md |
+| rj2012-1131 | RJ2012/1131 | acordao-crsfn | 2020-09-20 | EMBARGOS DE DECLARAÇÃO. Embargos que ficam rejeitados por não demonstradas imperfeições no acórdão embargado. | crsfn-edcl-14293 | fichas/crsfn/2020-07.md |
+| rj2012-1542 | RJ2012/1542 | termo-compromisso | 2012-08-07 | O Colegiado rejeitou proposta de termo de compromisso no PAS RJ2012/1542, acompanhando o parecer do Comitê, que considerou insuficiente o… | cvm-col-20120807-d04 | fichas/tc/2012-04.md |
+| rj2012-1542 | RJ2012/1542 | pas | 2015-03-31 | Não comunicação tempestiva à CVM de informações superiores a 5% ocorridas nas participações acionárias. Multa. | cvm-pas-rj2012-1542 | fichas/pas/2015-04.md |
+| rj2012-1605 | RJ2012/1605 | acordao-crsfn | 2015-09-22 | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários - Realização de operações de financiamento sem contrato e em desrespeito aos… | crsfn-13430 | fichas/crsfn/2015-05.md |
+| rj2012-1606 | RJ2012/1606 | pas | 2014-02-04 | Falhas no sistema de prevenção e combate à lavagem de dinheiro – não atualização de fichas cadastrais de clientes – não monitoramento de… | cvm-pas-rj2012-1606 | fichas/pas/2014-01.md |
+| rj2012-1606 | RJ2012/1606 | acordao-crsfn | 2017-04-18 | RECURSOS VOLUNTÁRIOS. CVM. Limites operacionais incompatíveis com o patrimônio e rendimento declarados na ficha cadastral. Falta de… | crsfn-13932 | fichas/crsfn/2017-05.md |
+| rj2012-1643 | RJ2012/1643 | termo-compromisso | 2012-11-06 | O Colegiado aceitou a proposta de termo de compromisso do proponente, diretor de relações com investidores da Indústria Verolme S.A., no… | cvm-col-20121106-d06 | fichas/tc/2012-05.md |
+| rj2012-1670 | RJ2012/1670 | pas | 2014-07-29 | Suposta responsabilidade pelo não fornecimento de informações exigidas pela Instrução CVM nº 481/09. Absolvição. | cvm-pas-rj2012-1670 | fichas/pas/2014-06.md |
+| rj2012-1730 | RJ2012/1730 | pas | 2015-05-19 | Suposto descumprimento, por parte do DRI da companhia, do dever de fornecer informações obrigatórias. Absolvição. | cvm-pas-rj2012-1730 | fichas/pas/2015-05.md |
+| rj2012-2338 | RJ2012/2338 | pas | 2013-03-12 | GERAçãO FUTURO C.V. não manutenção atualizada do cadastro de cotistas. Absolvição e multas – falta de diligência na administração de fundo… | cvm-pas-rj2012-2338 | fichas/pas/2013-02.md |
+| rj2012-2766 | RJ2012/2766 | termo-compromisso | 2012-07-17 | O Colegiado aceitou proposta de termo de compromisso da SOCOPA Sociedade Corretora Paulista S.A. (R$ 50.000,00, auditoria e manuais de… | cvm-col-20120717-d03 | fichas/tc/2012-04.md |
+| rj2012-2833 | RJ2012/2833 | termo-compromisso | 2013-08-27 | O Colegiado aceitou a proposta de termo de compromisso da Triunfo Holding Participações S.A. e por um conselheiro da Triunfo Participações… | cvm-col-20130827-d02 | fichas/tc/2013-04.md |
+| rj2012-3110 | RJ2012/3110 | termo-compromisso | 2013-03-19 | O Colegiado rejeitou, acompanhando o parecer do Comitê, proposta conjunta de termo de compromisso de R$ 150.000,00 apresentada por cinco… | cvm-col-20130319-d02 | fichas/tc/2013-01.md |
+| rj2012-3110 | RJ2012/3110 | termo-compromisso | 2014-08-12 | O Colegiado rejeitou nova proposta conjunta de Termo de Compromisso de cinco administradores da Companhia de Participações Aliança da… | cvm-col-20140812-d01 | fichas/tc/2014-02.md |
+| rj2012-3110 | RJ2012/3110 | pas | 2017-02-14 | Infrações relacionadas à destinação de recursos, a transações com partes relacionadas e à realização de assembleia geral ordinária… | cvm-pas-rj2012-3110 | fichas/pas/2017-01.md |
+| rj2012-3110 | RJ2012/3110 | acordao-crsfn | 2018-08-21 | RECURSOS VOLUNTÁRIOS. Companhia aberta. Irregularidades administrativas em relação a destinação dos lucros. Retenção de lucros ilícita… | crsfn-10372-100210-2017-89 | fichas/crsfn/2018-06.md |
+| rj2012-3168 | RJ2012/3168 | pas | 2012-11-13 | BANCO CRUZEIRO DO SUL S.A. Divulgação intempestiva de fato relevante. Multa. | cvm-pas-rj2012-3168 | fichas/pas/2012-05.md |
+| rj2012-3168 | RJ2012/3168 | acordao-crsfn | 2016-02-23 | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Divulgação intempestiva de fato relevante - Presentes os elementos necessários… | crsfn-13625 | fichas/crsfn/2016-02.md |
+| rj2012-3457 | RJ2012/3457 | pas | 2012-12-06 | COMPANHIA INDUSTRIAL SCHLOSSER Não divulgação tempestiva de fato relevante. Multa. | cvm-pas-rj2012-3457 | fichas/pas/2012-06.md |
+| rj2012-3457 | RJ2012/3457 | acordao-crsfn | 2016-01-21 | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Diretor de Relação com Investidores – Descumprimento do dever de divulgar… | crsfn-13626 | fichas/crsfn/2016-01.md |
+| rj2012-3630 | RJ2012/3630 | pas | 2013-08-13 | ELETROBRAS Imputação de intempestividade na divulgação das demonstrações financeiras da companhia. Absolvição. Realização intempestiva da… | cvm-pas-rj2012-3630 | fichas/pas/2013-08.md |
+| rj2012-3630 | RJ2012/3630 | acordao-crsfn | 2015-06-30 | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Não elaboração de demonstrações financeiras de companhia aberta… | crsfn-13819 | fichas/crsfn/2015-03.md |
+| rj2012-3785 | RJ2012/3785 | termo-compromisso | 2012-07-03 | O Colegiado aceitou, acompanhando o parecer do Comitê, proposta de termo de compromisso de R$ 200.000,00 de um diretor de relações com… | cvm-col-20120703-d05 | fichas/tc/2012-03.md |
+| rj2012-3787 | RJ2012/3787 | termo-compromisso | 2013-02-05 | O Colegiado aceitou a proposta de termo de compromisso do proponente, diretor de relações com investidores da Marambaia Energia Renovável… | cvm-col-20130205-d04 | fichas/tc/2013-01.md |
+| rj2012-3787 | RJ2012/3787 | pas | 2014-09-02 | Não divulgação de fato relevante. Multa. | cvm-pas-rj2012-3787 | fichas/pas/2014-06.md |
+| rj2012-3796 | RJ2012/3796 | termo-compromisso | 2013-11-12 | O Colegiado rejeitou, acompanhando o Comitê, a nova proposta de termo de compromisso de um diretor de corretora, de pagar R$ 200.000,00… | cvm-col-20131112-d01 | fichas/tc/2013-05.md |
+| rj2012-3799 | RJ2012/3799 | termo-compromisso | 2012-08-07 | O Colegiado rejeitou proposta de termo de compromisso da Panamericano DTVM S.A. (ex-Liderprime Participações), de R$ 50.000,00… | cvm-col-20120807-d02 | fichas/tc/2012-04.md |
+| rj2012-4062 | RJ2012/4062 | pas | 2013-12-17 | Universo Online S.A. Impedimento de exercício do direito de voto em assembleias de acionistas titulares de ações em circulação. Multa. | cvm-pas-rj2012-4062 | fichas/pas/2013-15.md |
+| rj2012-4062 | RJ-2012-4062 | acordao-crsfn | 2017-09-19 | RECURSOS VOLUNTÁRIO E DE OFÍCIO. Companhia de capital aberto. Direito de voto de titulares de ações em circulação, em assembleias… | crsfn-13934 | fichas/crsfn/2017-12.md |
+| rj2012-4066 | RJ2012/4066 | pas | 2015-03-31 | Convocação de assembleias gerais ordinárias fora do prazo legal – Elaboração das Demonstrações Financeiras da Companhia fora do prazo… | cvm-pas-rj2012-4066 | fichas/pas/2015-04.md |
+| rj2012-4136 | RJ2012/4136 | pas | 2013-12-10 | Marina Park Descumprimento do dever de enviar tempestivamente à CVM documentos e informações periódicas obrigatórias. Multa. | cvm-pas-rj2012-4136 | fichas/pas/2013-14.md |
+| rj2012-4137 | RJ2012/4137 | termo-compromisso | 2012-11-22 | O Colegiado aceitou, acompanhando o parecer do Comitê, proposta de termo de compromisso de R$ 200.000,00 apresentada por diretor de… | cvm-col-20121122-d02 | fichas/tc/2012-05.md |
+| rj2012-4138 | RJ2012/4138 | termo-compromisso | 2012-11-22 | O Colegiado, por unanimidade, aceitou a proposta de termo de compromisso do proponente, acompanhando o parecer do Comitê, com pagamento de… | cvm-col-20121122-d03 | fichas/tc/2012-06.md |
+| rj2012-4235 | RJ2012/4235 | termo-compromisso | 2012-11-06 | O Colegiado aceitou a proposta de termo de compromisso da I.P.P.S.P.E. Empreendimentos e Participações S.A. de pagar R$ 100.000,00 à CVM… | cvm-col-20121106-d07 | fichas/tc/2012-05.md |
+| rj2012-4464 | RJ2012/4464 | termo-compromisso | 2013-03-26 | O Colegiado aceitou, por unanimidade, proposta de termo de compromisso de um acionista no valor de R$ 250.000,00, acompanhando o Comitê… | cvm-col-20130326-d02 | fichas/tc/2013-01.md |
+| rj2012-4472 | RJ2012/4472 | pas | 2013-08-20 | LHYNQZ Descumprimento dos deveres de diligência e de observância das disposições constantes no regulamento do Fundo de Investimento. Multa. | cvm-pas-rj2012-4472 | fichas/pas/2013-08.md |
+| rj2012-4472 | RJ2012/4472 | acordao-crsfn | 2017-03-14 | RECURSOS VOLUNTÁRIOS. Fundos de investimento. Descumprimento dos deveres de diligência e de observância das disposições constantes no… | crsfn-13871 | fichas/crsfn/2017-03.md |
+| rj2012-4489 | RJ2012/4489 | termo-compromisso | 2012-07-03 | O Colegiado aceitou proposta de termo de compromisso de R$ 100.000,00 do diretor presidente da Fibria, por declarações à imprensa durante… | cvm-col-20120703-d06 | fichas/tc/2012-03.md |
+| rj2012-4588 | RJ2012/4588 | termo-compromisso | 2012-10-16 | O Colegiado aceitou a proposta de termo de compromisso do proponente, diretor de RI e financeiro da Cosan S.A., acusado de negociar ações… | cvm-col-20121016-d01 | fichas/tc/2012-05.md |
+| rj2012-4640 | RJ2012/4640 | termo-compromisso | 2013-11-05 | O Colegiado aceitou proposta de Termo de Compromisso de R$ 61.500,00 apresentada pela KPMG Auditores Independentes, acompanhando o voto do… | cvm-col-20131105-d01 | fichas/tc/2013-05.md |
+| rj2012-4734 | RJ2012/4734 | termo-compromisso | 2012-11-22 | O Colegiado, por unanimidade, aceitou a proposta de termo de compromisso do proponente, ligado ao Banco BTG Pactual S.A., acompanhando o… | cvm-col-20121122-d04 | fichas/tc/2012-06.md |
+| rj2012-4767 | RJ2012/4767 | termo-compromisso | 2012-10-02 | O Colegiado aceitou a proposta de termo de compromisso apresentada por dois membros do conselho de administração da Cachoeira Velonorte… | cvm-col-20121002-d01 | fichas/tc/2012-05.md |
+| rj2012-4905 | RJ2012/4905 | termo-compromisso | 2012-07-03 | O Colegiado rejeitou a proposta de termo de compromisso da ACAL Consultoria e Auditoria S/S, acompanhando o parecer do Comitê. A proposta… | cvm-col-20120703-d02 | fichas/tc/2012-03.md |
+| rj2012-4905 | RJ2012/4905 | termo-compromisso | 2012-11-22 | O Colegiado aceitou, por unanimidade, proposta conjunta de termo de compromisso da ACAL e de seu responsável técnico, de R$ 40.000,00, por… | cvm-col-20121122-d01 | fichas/tc/2012-05.md |
+| rj2012-5036 | RJ2012/5036 | termo-compromisso | 2013-05-14 | O Colegiado aceitou a proposta de termo de compromisso de R$ 200.000,00 do diretor de RI da CEMIG, acusado de não divulgar fato relevante… | cvm-col-20130514-d01 | fichas/tc/2013-02.md |
+| rj2012-5754 | RJ2012/5754 | pas | 2013-09-10 | ELETROPAR Imputação de atraso na elaboração e na divulgação das demonstrações financeiras da companhia. Absolvições. Convocação de… | cvm-pas-rj2012-5754 | fichas/pas/2013-09.md |
+| rj2012-6160 | RJ2012/6160 | pas | 2014-06-10 | Atraso na convocação da AGO. Advertências. – Imputação de atraso na divulgação de demonstrações financeiras. Absolvições. | cvm-pas-rj2012-6160 | fichas/pas/2014-04.md |
+| rj2012-6160 | RJ2012/6160 | acordao-crsfn | 2018-03-20 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Intempestividade na elaboração das demonstrações financeiras justificada. Não convocação de Assembleia… | crsfn-14039 | fichas/crsfn/2018-02.md |
+| rj2012-6987 | RJ2012/6987 | pas | 2013-08-13 | [pessoa física] Falta de diligência na prestação de serviços de administração de carteira de valores mobiliários – falha do administrador… | cvm-pas-rj2012-6987 | fichas/pas/2013-08.md |
+| rj2012-6987 | RJ2012/6987 | pas | 2014-11-18 | Falta de diligência na prestação de serviços de administração de carteira de valores mobiliários - falha do administrador do fundo de… | cvm-pas-rj2012-6987-2 | fichas/pas/2014-09.md |
+| rj2012-6987 | RJ2012/6987 | acordao-crsfn | 2018-10-18 | RECURSOS VOLUNTÁRIOS. CVM. Arguição de impedimento do Relator. Rejeição. Desrespeito ao regulamento de Fundos de Investimento quanto aos… | crsfn-14215 | fichas/crsfn/2018-08.md |
+| rj2012-7132 | RJ2012/7132 | termo-compromisso | 2013-03-19 | O Colegiado aceitou as propostas de termo de compromisso, acompanhando o parecer do Comitê. Um diretor, acusado de exercer simultaneamente… | cvm-col-20130319-d03 | fichas/tc/2013-01.md |
+| rj2012-7133 | RJ2012/7133 | termo-compromisso | 2013-02-19 | O Colegiado, por unanimidade, aceitou a proposta de termo de compromisso da PricewaterhouseCoopers Auditores Independentes, acompanhando o… | cvm-col-20130219-d02 | fichas/tc/2013-01.md |
+| rj2012-7353 | RJ2012/7353 | termo-compromisso | 2013-12-17 | O Colegiado aceitou a proposta de Termo de Compromisso apresentada pelos quatro proponentes, entre eles administradores e a controladora da… | cvm-col-20131217-d07 | fichas/tc/2013-06.md |
+| rj2012-7353 | RJ2012/7353 | termo-compromisso | 2014-06-24 | O Colegiado manteve a aceitação, aprovada em 17.12.13, da proposta de Termo de Compromisso dos demais proponentes (ressarcimento à… | cvm-col-20140624-d02 | fichas/tc/2014-02.md |
+| rj2012-7353 | RJ2012/7353 | termo-compromisso | 2016-10-04 | O Colegiado indeferiu o pleito dos proponentes de alterar o texto do Termo de Compromisso aprovado em 17.12.2013 (ressarcimento de R$… | cvm-col-20161004-d8937 | fichas/tc/2016-04.md |
+| rj2012-7353 | RJ2012/7353 | pas | 2019-08-20 | Exercício abusivo do poder de controle e descumprimento do dever de lealdade por parte dos administradores da Hidroservice Amazônia S.A… | cvm-pas-rj2012-7353 | fichas/pas/2019-15.md |
+| rj2012-7353 | RJ2012/7353 | acordao-crsfn | 2022-12-07 | RECURSOS VOLUNTÁRIOS. ABUSO NO EXERCÍCIO DO PODER DE CONTROLE E DESCUMPRIMENTO DO DEVER DE LEALDADE POR PARTE DOS ADMINISTRADORES EM… | crsfn-10372-100052-2020-62 | fichas/crsfn/2022-08.md |
+| rj2012-7471 | RJ2012/7471 | pas | 2013-05-28 | [pessoa física] Não participação no Programa de Revisão Externa de Qualidade Para Auditores Independentes. Multa. | cvm-pas-rj2012-7471 | fichas/pas/2013-06.md |
+| rj2012-7471 | RJ2012/7471 | acordao-crsfn | 2016-06-28 | RECURSO VOLUNTÁRIO– Mercado de valores mobiliários – Auditoria independente - Descumprimento da obrigação de submeter-se a programa de… | crsfn-10372-000588-2016-01 | fichas/crsfn/2016-04.md |
+| rj2012-7765 | RJ2012/7765 | termo-compromisso | 2013-02-19 | O Colegiado aceitou proposta de termo de compromisso da XP Investimentos CCTVM S.A., líder das ofertas de cotas de dois FII, com pagamento… | cvm-col-20130219-d03 | fichas/tc/2013-01.md |
+| rj2012-7767 | RJ2012/7767 | pas | 2013-04-02 | RJCP EQUITY S.A. Descumprimento da exigência de justificar pormenorizadamente os aspectos econômicos que determinam a escolha do critério… | cvm-pas-rj2012-7767 | fichas/pas/2013-04.md |
+| rj2012-7867 | RJ2012/7867 | termo-compromisso | 2013-07-02 | Apreciação de proposta de termo de compromisso. | cvm-col-20130702-d02 | fichas/tc/2013-03.md |
+| rj2012-7880 | RJ2012/7880 | pas | 2013-11-19 | [pessoa física] Utilização de informação relevante ainda não divulgada ao mercado de valores mobiliários. Multa. | cvm-pas-rj2012-7880 | fichas/pas/2013-11.md |
+| rj2012-7880 | RJ-2012-7880 | acordao-crsfn | 2017-04-18 | Recurso Voluntário. CVM. Negociação de ações vedada. Fato relevante. Recurso desprovido. | crsfn-13935 | fichas/crsfn/2017-06.md |
+| rj2012-8010 | RJ2012/8010 | pas | 2015-07-21 | Uso indevido de informação privilegiada. Absolvições e multas. | cvm-pas-rj2012-8010 | fichas/pas/2015-08.md |
+| rj2012-8010 | RJ2012/8010 | acordao-crsfn | 2017-10-24 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Uso indevido de informação privilegiada. | crsfn-14354 | fichas/crsfn/2017-13.md |
+| rj2012-8087 | RJ2012/8087 | termo-compromisso | 2013-03-26 | O Colegiado aceitou, por unanimidade, proposta de termo de compromisso de R$ 35.000,00 apresentada pelo diretor de RI, acompanhando o… | cvm-col-20130326-d03 | fichas/tc/2013-02.md |
+| rj2012-8093 | RJ2012/8093 | termo-compromisso | 2013-05-14 | O Colegiado aceitou, por unanimidade, proposta de termo de compromisso de um diretor de relações com investidores no valor de R$ 35.000,00… | cvm-col-20130514-d02 | fichas/tc/2013-02.md |
+| rj2012-8094 | RJ2012/8094 | termo-compromisso | 2013-06-13 | O Colegiado rejeitou proposta de termo de compromisso de diretor de relações com investidores de companhia aberta, no valor de R$… | cvm-col-20130613-d04 | fichas/tc/2013-03.md |
+| rj2012-8094 | RJ-2012-8094 | acordao-crsfn | 2017-07-25 | RECURSO VOLUNTÁRIO. CVM. Sociedade Anônima. Informações periódicas ou eventuais. Atraso na entrega. Recurso desprovido. | crsfn-14325 | fichas/crsfn/2017-11.md |
+| rj2012-8095 | RJ2012/8095 | termo-compromisso | 2013-08-20 | O Colegiado rejeitou a proposta de termo de compromisso de R$ 20.000,00 apresentada por um diretor de relações com investidores de… | cvm-col-20130820-d05 | fichas/tc/2013-04.md |
+| rj2012-8369 | RJ2012/8369 | termo-compromisso | 2014-11-18 | O Colegiado aceitou a proposta de termo de compromisso de nove administradores e controladores do Banco Indusval S.A., acompanhando o… | cvm-col-20141118-d03 | fichas/tc/2014-04.md |
+| rj2012-8369 | RJ2012/8369 | termo-compromisso | 2014-12-16 | O Colegiado declarou extinta a punibilidade de um proponente, falecido, e determinou o arquivamento do processo em relação a ele… | cvm-col-20141216-d01 | fichas/tc/2014-05.md |
+| rj2012-8371 | RJ2012/8371 | termo-compromisso | 2013-05-14 | O Colegiado aceitou, por unanimidade, proposta conjunta de termo de compromisso de R$ 130.000,00 de seis diretores do Paraná Banco S.A. (R$… | cvm-col-20130514-d03 | fichas/tc/2013-02.md |
+| rj2012-8591 | RJ2012/8591 | pas | 2013-04-09 | CAMARGO CORRêA Não divulgação tempestiva de fato relevante. Absolvição. | cvm-pas-rj2012-8591 | fichas/pas/2013-04.md |
+| rj2012-8591 | RJ2012/8591 | acordao-crsfn | 2016-04-26 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falta de divulgação tempestiva de fato relevante – Razões recursais não lograram… | crsfn-13691 | fichas/crsfn/2016-03.md |
+| rj2012-9409 | RJ2012/9409 | termo-compromisso | 2012-11-06 | O Colegiado rejeitou proposta conjunta de termo de compromisso oferecendo R$ 775.000,00 em PAS da SIN sobre cessão de créditos entre FIDCs… | cvm-col-20121106-d05 | fichas/tc/2012-05.md |
+| rj2012-9490 | RJ2012/9490 | pas | 2015-03-10 | Exercício indevido de administração de carteira de valores mobiliários sem a prévia autorização da CVM - Advertências e Multas | cvm-pas-rj2012-9490 | fichas/pas/2015-02.md |
+| rj2012-9509 | RJ2012/9509 | termo-compromisso | 2013-10-22 | O Colegiado aceitou proposta de Termo de Compromisso de R$ 350.000,00 apresentada pela Oliveira Trust Servicer S.A. e um diretor… | cvm-col-20131022-d02 | fichas/tc/2013-04.md |
+| rj2012-9557 | RJ2012/9557 | termo-compromisso | 2013-05-21 | O Colegiado aceitou proposta de termo de compromisso apresentada por empresa de auditoria independente e por seu sócio responsável técnico… | cvm-col-20130521-d03 | fichas/tc/2013-02.md |
+| rj2012-9652 | RJ2012/9652 | pas | 2013-07-16 | [pessoa física] Exercício simultâneo de atividades incompatíveis com o cargo de administrador de carteira de valores mobiliários… | cvm-pas-rj2012-9652 | fichas/pas/2013-07.md |
+| rj2012-9808 | RJ2012/9808 | termo-compromisso | 2015-01-06 | O Colegiado rejeitou, por unanimidade, as cinco propostas de termo de compromisso no PAS RJ2012/9808 (informação privilegiada sobre ações… | cvm-col-20150106-d9487 | fichas/tc/2015-01.md |
+| rj2012-9808 | RJ2012/9808 | pas | 2015-12-18 | Normal 0 21 false false false PT-BR X-NONE X-NONE MicrosoftInternetExplorer4 /* Style Definitions */ table.MsoNormalTable… | cvm-pas-rj2012-9808 | fichas/pas/2015-14.md |
+| rj2012-9808 | RJ2012/9808 | acordao-crsfn | 2018-09-20 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Acusações de insider trading. Compras efetuadas se encontravam dentro do padrão de investimento dos… | crsfn-14449 | fichas/crsfn/2018-07.md |
+| rj2012-9808 | RJ2012/9808 | acordao-crsfn | 2018-12-11 | EMBARGOS DE DECLARAÇÃO. A conduta mesmo tendo impacto limitado é típica. A atuação de vendas em pequenos lotes visava impedir que o mercado… | crsfn-edcl-14449 | fichas/crsfn/2018-10.md |
+| rj2012-9832 | RJ2012/9832 | termo-compromisso | 2013-06-13 | O Colegiado aceitou proposta de termo de compromisso de administradores da All Ore Mineração S.A. (ex-diretor presidente e de RI e três… | cvm-col-20130613-d05 | fichas/tc/2013-03.md |
+| rj2012-10069 | RJ2012/10069 | pas | 2015-03-31 | Não divulgação de fato relevante. Advertência. | cvm-pas-rj2012-10069 | fichas/pas/2015-04.md |
+| rj2012-10069 | RJ-2012-10069 | acordao-crsfn | 2016-08-24 | Mercado de valores mobiliários – Descumprimento do dever legal de divulgar ao mercado Fato Relevante – Irregularidade caracterizadas… | crsfn-14261 | fichas/crsfn/2016-07.md |
+| rj2012-10128 | RJ2012/10128 | termo-compromisso | 2013-07-16 | O Colegiado rejeitou proposta de termo de compromisso do diretor de relações com investidores da Construtora Beter S.A. (PAS RJ2012/10128)… | cvm-col-20130716-d03 | fichas/tc/2013-03.md |
+| rj2012-10128 | RJ2012/10128 | pas | 2013-09-10 | Construtora Beter Não divulgação de fato relevante – não entrega de informações exigidas pela Instrução CVM nº 480/09 – envio do 2º ITR de… | cvm-pas-rj2012-10128 | fichas/pas/2013-09.md |
+| rj2012-10128 | RJ-2012-10128 | acordao-crsfn | 2017-04-19 | Recurso Voluntário. Companhia aberta. Não divulgação de fato relevante. Não entrega de informações exigidas pela Instrução CVM nº 480/09… | crsfn-13902 | fichas/crsfn/2017-06.md |
+| rj2012-10347 | RJ2012/10347 | termo-compromisso | 2013-02-05 | O Colegiado aceitou proposta conjunta de termo de compromisso de cinco conselheiros da Brasil Insurance Participações e Administração S.A… | cvm-col-20130205-d05 | fichas/tc/2013-01.md |
+| rj2012-10465 | RJ2012/10465 | pas | 2013-03-12 | R & M AUDITORES Não cumprimento de regulamentação associada ao Programa de Educação Profissional Continuada de auditor independente… | cvm-pas-rj2012-10465 | fichas/pas/2013-02.md |
+| rj2012-10487 | RJ2012/10487 | termo-compromisso | 2013-07-02 | O Colegiado aceitou proposta de termo de compromisso de membros do conselho de administração de companhia, acusados de fixar preço de… | cvm-col-20130702-d01 | fichas/tc/2013-03.md |
+| rj2012-10487 | RJ2012/10487 | pas | 2013-11-05 | Construtora [pessoa física] imputação de infração ao dever de lealdade. Absolvições. | cvm-pas-rj2012-10487 | fichas/pas/2013-10.md |
+| rj2012-10487 | RJ-2012-10487 | acordao-crsfn | 2017-04-19 | Recurso de Ofício. Descumprimento do dever de lealdade por parte de acionista controlador - Recurso desprovido - Arquivamentos confirmados. | crsfn-13883 | fichas/crsfn/2017-06.md |
+| rj2012-11002 | RJ2012/11002 | termo-compromisso | 2016-03-01 | O Colegiado rejeitou nova proposta de termo de compromisso de acusado no PAS sobre manipulação de mercado e uso de informação privilegiada… | cvm-col-20160301-d8703 | fichas/tc/2016-01.md |
+| rj2012-11002 | RJ2012/11002 | pas | 2016-12-15 | Suposta violação do dever de guardar sigilo. Absolvição – Suposto uso indevido de informação privilegiada. Absolvição – Suposta… | cvm-pas-rj2012-11002 | fichas/pas/2016-15.md |
+| rj2012-11002 | RJ2012/11002 | acordao-crsfn | 2020-11-17 | EMBARGOS DE DECLARAÇÃO. Embargos intempestivos. Não conhecimento. Retificação de dois itens do Acórdão - Autotutela Administrativa. | crsfn-edcl-185 | fichas/crsfn/2020-09.md |
+| rj2012-11094 | RJ2012/11094 | termo-compromisso | 2014-11-11 | O Colegiado aceitou, por unanimidade, a proposta conjunta de termo de compromisso de administradores da Usina Costa Pinto, acompanhando o… | cvm-col-20141111-d03 | fichas/tc/2014-03.md |
+| rj2012-11199 | RJ2012/11199 | pas | 2016-03-22 | Normal 0 21 false false false PT-BR X-NONE X-NONE MicrosoftInternetExplorer4 /* Style Definitions */ table.MsoNormalTable… | cvm-pas-rj2012-11199 | fichas/pas/2016-01.md |
+| rj2012-12067 | RJ2012/12067 | termo-compromisso | 2013-02-19 | O Colegiado, por unanimidade, considerou inoportuna e inconveniente a aceitação da proposta de termo de compromisso de R$ 50.000,00 de… | cvm-col-20130219-d01 | fichas/tc/2013-01.md |
+| rj2012-12201 | RJ2012/12201 | pas | 2015-08-04 | Desenquadramento da carteira do fundo de investimento - descumprimento do dever do administrador de um fundo de investimento de fiscalizar… | cvm-pas-rj2012-12201 | fichas/pas/2015-08.md |
+| rj2012-12201 | RJ-2012-12201 | acordao-crsfn | 2016-11-29 | Recursos voluntários. Desenquadramento de Fundos de Investimento. Falha da Administradora do Fundo quanto ao seu dever de supervisionar a… | crsfn-14439 | fichas/crsfn/2016-10.md |
+| rj2012-12931 | RJ2012/12931 | termo-compromisso | 2014-02-25 | O Colegiado aceitou proposta de termo de compromisso de dois diretores da JBS, acusados de aplicar e resgatar antecipadamente CDBs de banco… | cvm-col-20140225-d03 | fichas/tc/2014-01.md |
+| rj2012-12961 | RJ2012/12961 | termo-compromisso | 2014-02-25 | O Colegiado, por unanimidade, aceitou propostas de termo de compromisso de cinco membros do conselho de administração da Telemar Norte… | cvm-col-20140225-d02 | fichas/tc/2014-01.md |
+| rj2012-13047 | RJ2012/13047 | pas | 2014-11-04 | Negociação de ações em período vedado, com uso indevido de informação relevante ainda não divulgada ao mercado. Absolvições e multas. | cvm-pas-rj2012-13047 | fichas/pas/2014-08.md |
+| rj2012-13047 | RJ2012/13047 | acordao-crsfn | 2018-04-03 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Negociação com ações de emissão da Brasil Brokers Participações S.A., em período vedado - Insider… | crsfn-14164 | fichas/crsfn/2018-04.md |
+| rj2012-13212 | RJ2012/13212 | termo-compromisso | 2013-02-26 | O Colegiado considerou inoportuna e inconveniente, por unanimidade, a proposta de termo de compromisso de R$ 20.000,00 de membro do… | cvm-col-20130226-d06 | fichas/tc/2013-01.md |
+| rj2012-13605 | RJ2012/13605 | pas | 2016-08-23 | Normal 0 21 false false false PT-BR X-NONE X-NONE MicrosoftInternetExplorer4 /* Style Definitions */ table.MsoNormalTable… | cvm-pas-rj2012-13605 | fichas/pas/2016-05.md |
+| rj2012-13605 | RJ2012/13605 | acordao-crsfn | 2018-02-20 | RECURSOS VOLUNTÁRIOS. Prática não equitativa. Atraso na atualização de formulário de referência. Irregularidades configuradas. Negado… | crsfn-10372-100146-2017-36 | fichas/crsfn/2018-01.md |
+| rj2012-13740 | RJ2012/13740 | termo-compromisso | 2015-06-02 | O Colegiado rejeitou, acompanhando o parecer do Comitê, a proposta de termo de compromisso dos proponentes, acusados de alienar o controle… | cvm-col-20150602-d9660 | fichas/tc/2015-02.md |
+| rj2012-13740 | RJ2012/13740 | pas | 2017-09-26 | Não realização obrigatória de Oferta Pública de Aquisição de Ações por alienação de controle. Absolvição e multa. | cvm-pas-rj2012-13740 | fichas/pas/2017-07.md |
+| rj2012-13871 | RJ2012/13871 | termo-compromisso | 2013-06-13 | O Colegiado rejeitou proposta de termo de compromisso apresentada por quatro administradores da EMAE, acompanhando o Comitê, que a… | cvm-col-20130613-d03 | fichas/tc/2013-02.md |
+| rj2012-13953 | RJ2012/13953 | termo-compromisso | 2013-07-09 | O Colegiado aceitou proposta de termo de compromisso de administradores da Chesf, acusados de convocação intempestiva de assembleia geral… | cvm-col-20130709-d01 | fichas/tc/2013-03.md |
+| rj2012-13953 | RJ2012/13953 | termo-compromisso | 2013-10-08 | O Colegiado aceitou o pedido de desistência de um dos três proponentes do termo de compromisso do PAS RJ2012/6160, aprovado em 09.07.13 (R$… | cvm-col-20131008-d01 | fichas/tc/2013-04.md |
+| rj2012-14390 | RJ2012/14390 | termo-compromisso | 2013-05-14 | O Colegiado aceitou, acompanhando o parecer do Comitê, as propostas de termo de compromisso do Banco Santander (Brasil) S.A. (R$… | cvm-col-20130514-d04 | fichas/tc/2013-02.md |
+| rj2012-14871 | RJ2012/14871 | pas | 2013-11-26 | LAEP Descumprimento do princípio da ampla divulgação (full disclosure) em infração ao disposto no art. 3o da Instrução CVM no 358/2002, que… | cvm-pas-rj2012-14871 | fichas/pas/2013-11.md |
+| rj2012-14871 | RJ2012/14871 | acordao-crsfn | 2017-10-25 | RECURSOS VOLUNTÁRIOS. Fato Relevante. Divulgação intempestiva. Emissor estrangeiro de títulos negociados no país. Responsabilidades do… | crsfn-13938 | fichas/crsfn/2017-14.md |
+| rj2012-15235 | RJ2012/15235 | termo-compromisso | 2013-08-20 | O Colegiado, por unanimidade, rejeitou a proposta conjunta de Termo de Compromisso de seis membros da diretoria da Metalgráfica Iguaçu… | cvm-col-20130820-d06 | fichas/tc/2013-04.md |
+| rj2012-15235 | RJ2012/15235 | pas | 2016-03-22 | Irregularidades na elaboração das demonstrações financeiras da companhia. Descumprimento de normas contábeis vigentes. Adoção de critérios… | cvm-pas-rj2012-15235 | fichas/pas/2016-02.md |
+| rj2012-15235 | RJ2012/15235 | acordao-crsfn | 2017-10-24 | RECURSOS VOLUNTÁRIOS. Responsabilidade dos diretores da Companhia pela elaboração das demonstrações financeiras de 31.12.2007, 31.12.2008… | crsfn-14488 | fichas/crsfn/2017-13.md |
+| sp2012-0218 | SP2012/218 | pas | 2014-03-25 | Atividade irregular de agente autônomo de investimento - atividade irregular de administração de carteira de valores mobiliários… | cvm-pas-sp2012-0218 | fichas/pas/2014-02.md |
+| sp2012-0218 | SP2012/218 | acordao-crsfn | 2020-10-20 | RECURSOS VOLUNTÁRIOS. Exercício da atividade de agente autônomo e administração de carteiras de valores mobiliários sem autorização da CVM… | crsfn-14241 | fichas/crsfn/2020-08.md |
+| sp2012-0228 | SP2012/228 | pas | 2016-10-25 | Normal 0 21 false false false PT-BR X-NONE X-NONE MicrosoftInternetExplorer4 /* Style Definitions */ table.MsoNormalTable… | cvm-pas-sp2012-0228 | fichas/pas/2016-11.md |
+| sp2012-0228 | SP2012/228 | acordao-crsfn | 2020-02-11 | RECURSOS VOLUNTÁRIOS. Exercício irregular da atividade de intermediação de valores mobiliários por pessoas não autorizadas pela CVM… | crsfn-10372-100085-2018-98 | fichas/crsfn/2020-01.md |
+| sp2012-0374 | SP2012/0374 | termo-compromisso | 2014-11-25 | O Colegiado rejeitou as sete propostas de Termo de Compromisso apresentadas por oito proponentes (seis pessoas físicas e duas sociedades)… | cvm-col-20141125-d03 | fichas/tc/2014-04.md |
+| sp2012-0374 | SP2012/0374 | pas | 2016-07-19 | Normal 0 21 false false false PT-BR X-NONE X-NONE /* Style Definitions */ table.MsoNormalTable {mso-style-name:"Tabela normal"… | cvm-pas-sp2012-0374 | fichas/pas/2016-04.md |
+| sp2012-0374 | SP2012/374 | acordao-crsfn | 2018-12-11 | RECURSOS VOLUNTÁRIOS. CVM. Gestão de Carteira de Investimentos. Corretora de títulos e valores mobiliários. Diretor responsável. Falta de… | crsfn-10372-000122-2017-88 | fichas/crsfn/2018-09.md |
+| sp2012-0402 | SP2012/402 | pas | 2015-07-01 | Remuneração por prestação de serviço na qualidade de agente autônomo de investimento. Multa | cvm-pas-sp2012-0402 | fichas/pas/2015-07.md |
+| sp2012-0402 | SP2012/402 | acordao-crsfn | 2018-12-12 | RECURSO VOLUNTÁRIO. Realização de serviços vedados pela Instrução CVM nº 497, de 2011. Materialidade e autoria comprovadas. Recurso… | crsfn-14335 | fichas/crsfn/2018-11.md |
+| sp2012-0480 | SP2012/0480 | termo-compromisso | 2014-08-05 | O Colegiado rejeitou três propostas de Termo de Compromisso de agentes autônomos e empresas acusados de administração irregular de carteira… | cvm-col-20140805-d03 | fichas/tc/2014-02.md |
+| sp2012-0480 | SP2012/480 | pas | 2015-10-06 | Administração irregular de carteira de valores mobiliários - prática de administrador de carteira de valores mobiliários sem a prévia… | cvm-pas-sp2012-0480 | fichas/pas/2015-11.md |
+| sp2012-0480 | SP-2012-480 | acordao-crsfn | 2017-05-23 | Recursos Voluntários. Operação Fraudulenta. Atuar em mercado financeiro sem registro na CVM. Recursos Voluntários não providos. | crsfn-14428 | fichas/crsfn/2017-08.md |
 
 Fim do subíndice.

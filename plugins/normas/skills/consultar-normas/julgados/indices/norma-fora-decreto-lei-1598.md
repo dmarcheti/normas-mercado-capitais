@@ -17,11 +17,11 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 14, § 1º | acordao-crsfn | RJ2012/15235 | 2017-10-24 | condenacao | crsfn-14488 | fichas/crsfn/2017-07.md |
-| art. 14, § 1º | pas | RJ2012/15235 | 2016-03-22 | condenacao | cvm-pas-rj2012-15235 | fichas/pas/2016-01.md |
-| art. 14, § 2º | pas | RJ2012/15235 | 2016-03-22 | condenacao | cvm-pas-rj2012-15235 | fichas/pas/2016-01.md |
-| art. 14, § 3º | acordao-crsfn | RJ2012/15235 | 2017-10-24 | condenacao | crsfn-14488 | fichas/crsfn/2017-07.md |
-| art. 14, § 3º | pas | RJ2012/15235 | 2016-03-22 | condenacao | cvm-pas-rj2012-15235 | fichas/pas/2016-01.md |
+| art. 14, § 1º | acordao-crsfn | RJ2012/15235 | 2017-10-24 | condenacao | crsfn-14488 | fichas/crsfn/2017-13.md |
+| art. 14, § 1º | pas | RJ2012/15235 | 2016-03-22 | condenacao | cvm-pas-rj2012-15235 | fichas/pas/2016-02.md |
+| art. 14, § 2º | pas | RJ2012/15235 | 2016-03-22 | condenacao | cvm-pas-rj2012-15235 | fichas/pas/2016-02.md |
+| art. 14, § 3º | acordao-crsfn | RJ2012/15235 | 2017-10-24 | condenacao | crsfn-14488 | fichas/crsfn/2017-13.md |
+| art. 14, § 3º | pas | RJ2012/15235 | 2016-03-22 | condenacao | cvm-pas-rj2012-15235 | fichas/pas/2016-02.md |
 
 ## art. 20
 

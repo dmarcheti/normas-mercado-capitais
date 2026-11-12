@@ -42,7 +42,7 @@ Norma: fora do acervo.
 | decisao-colegiado | 19957.009618/2016-30 | 2017-06-26 | nao-provido | cvm-col-20170626-d0603 | fichas/colegiado/2017-12.md |
 | decisao-colegiado | RJ2012/12177 | 2013-06-13 | outro | cvm-col-20130613-d02 | fichas/colegiado/2013-12.md |
 | acordao-crsfn | 18/03 | 2010-02-23 | parcial | crsfn-10112 | fichas/crsfn/2010-02.md |
-| pas | 18/2003 | 2005-12-08 | parcial | cvm-pas-18-2003 | fichas/pas/2005-09.md |
+| pas | 18/2003 | 2005-12-08 | parcial | cvm-pas-18-2003 | fichas/pas/2005-19.md |
 | decisao-colegiado | RJ2004/2558 | 2004-11-30 | outro | cvm-col-20041130-d04 | fichas/colegiado/2004-15.md |
 | decisao-colegiado | RJ2003/5639 | 2003-11-18 | nao-provido | cvm-col-20031118-d07 | fichas/colegiado/2003-13.md |
 | decisao-colegiado | RJ2001/1981 | 2002-05-14 | outro | cvm-col-20020514-d01 | fichas/colegiado/2002-11.md |

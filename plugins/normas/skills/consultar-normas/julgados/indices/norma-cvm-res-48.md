@@ -63,11 +63,11 @@ Norma: [cvm/resolucoes/0048.md](../../normas/cvm/resolucoes/0048.md) (texto vige
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.004207/2021-15 | 2026-08-26 | — | cvm-pas-19957-004207-2021-15 | fichas/pas/2026-02.md |
+| pas | 19957.004207/2021-15 | 2026-08-26 | — | cvm-pas-19957-004207-2021-15 | fichas/pas/2026-03.md |
 | decisao-colegiado | 19957.008553/2024-15 | 2025-11-18 | parcial | cvm-col-20251118-d3349 | fichas/colegiado/2025-11.md |
 | decisao-colegiado | 19957.016198/2023-77 | 2024-10-01 | conhecimento | cvm-col-20241001-d3141 | fichas/colegiado/2024-10.md |
-| pas | 19957.001933/2021-86 | 2024-09-24 | condenacao | cvm-pas-19957-001933-2021-86 | fichas/pas/2024-08.md |
-| pas | 19957.004478/2018-75 | 2023-06-20 | parcial | cvm-pas-19957-004478-2018-75 | fichas/pas/2023-03.md |
+| pas | 19957.001933/2021-86 | 2024-09-24 | condenacao | cvm-pas-19957-001933-2021-86 | fichas/pas/2024-15.md |
+| pas | 19957.004478/2018-75 | 2023-06-20 | parcial | cvm-pas-19957-004478-2018-75 | fichas/pas/2023-06.md |
 | decisao-colegiado | 19957.005866/2018-73 | 2022-12-06 | indeferido | cvm-col-20221206-d1481-19 | fichas/colegiado/2022-16.md |
 | decisao-colegiado | 19957.006121/2021-27 | 2021-08-18 | outro | cvm-col-20210818-d2277 | fichas/colegiado/2021-14.md |
 | pas | RJ2015/10677 | 2017-02-07 | absolvicao | cvm-pas-rj2015-10677 | fichas/pas/2017-01.md |

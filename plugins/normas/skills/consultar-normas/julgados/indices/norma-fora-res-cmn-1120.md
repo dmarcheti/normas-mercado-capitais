@@ -20,9 +20,9 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.008101/2020-18 | 2021-05-18 | deferido | cvm-col-20210518-d2172 | fichas/colegiado/2021-08.md |
 | decisao-colegiado | SP2012/0342 | 2012-11-13 | provido | cvm-col-20121113-d01 | fichas/colegiado/2012-21.md |
-| acordao-crsfn | 22/96 | 2009-08-24 | absolvicao | crsfn-11148 | fichas/crsfn/2009-04.md |
+| acordao-crsfn | 22/96 | 2009-08-24 | absolvicao | crsfn-11148 | fichas/crsfn/2009-05.md |
 | decisao-colegiado | SP2009/0012 | 2009-02-10 | deferido | cvm-col-20090210-d07 | fichas/colegiado/2009-02.md |
-| pas | 22/1996 | 2006-05-03 | parcial | cvm-pas-22-1996 | fichas/pas/2006-03.md |
+| pas | 22/1996 | 2006-05-03 | parcial | cvm-pas-22-1996 | fichas/pas/2006-07.md |
 | decisao-colegiado | RJ2000/6398 | 2003-02-04 | provido | cvm-col-20030204-d02 | fichas/colegiado/2003-02.md |
 | decisao-antiga | — | 1992-01-02 | — | cvm-dec-1992-0001 | fichas/decisoes-antigas/1992-12.md |
 | decisao-antiga | — | 1991-01-04 | — | cvm-dec-1991-0001 | fichas/decisoes-antigas/1991-08.md |

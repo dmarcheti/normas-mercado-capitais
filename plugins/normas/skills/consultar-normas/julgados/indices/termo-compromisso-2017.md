@@ -5,79 +5,79 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
-| Processo | Data | Resultado | Id | Ficha |
-|---|---|---|---|---|
-| 19957.005844/2017-22 | 2017-12-19 | aceito | cvm-col-20171219-d0880 | fichas/tc/2017-06.md |
-| 19957.002632/2017-93 | 2017-12-19 | aceito | cvm-col-20171219-d0879 | fichas/tc/2017-06.md |
-| 19957.008559/2016-82 | 2017-12-19 | aceito | cvm-col-20171219-d0877 | fichas/tc/2017-06.md |
-| 19957.002035/2016-88; 09/2016 | 2017-12-19 | rejeitado | cvm-col-20171219-d0810 | fichas/tc/2017-06.md |
-| 19957.007762/2016-31 | 2017-12-12 | rejeitado | cvm-col-20171212-d0874 | fichas/tc/2017-05.md |
-| 19957.006301/2016-41 | 2017-12-12 | aceito | cvm-col-20171212-d0862 | fichas/tc/2017-05.md |
-| 19957.002172/2017-01; RJ2017/1128 | 2017-12-12 | aceito | cvm-col-20171212-d0861 | fichas/tc/2017-05.md |
-| 19957.009385/2016-75; RJ2016/9174 | 2017-11-28 | aceito | cvm-col-20171128-d0854 | fichas/tc/2017-05.md |
-| 19957.002377/2017-89; RJ2017/1246 | 2017-11-21 | aceito | cvm-col-20171121-d0851 | fichas/tc/2017-05.md |
-| 19957.002583/2017-99; RJ2017/1358 | 2017-11-21 | aceito | cvm-col-20171121-d0850 | fichas/tc/2017-05.md |
-| 19957.003780/2017-25; RJ2017/1858 | 2017-11-14 | rejeitado | cvm-col-20171114-d0846 | fichas/tc/2017-05.md |
-| 01/2014 | 2017-11-14 | aceito | cvm-col-20171114-d0048 | fichas/tc/2017-05.md |
-| 19957.009178/2016-11; RJ2016/8896 | 2017-11-07 | aceito | cvm-col-20171107-d0796 | fichas/tc/2017-05.md |
-| 01/2011 | 2017-10-31 | rejeitado | cvm-col-20171031-d9229-2 | fichas/tc/2017-05.md |
-| 19957.008984/2016-71; RJ2016/8769 | 2017-10-31 | rejeitado | cvm-col-20171031-d0838 | fichas/tc/2017-05.md |
-| RJ2013/8697 | 2017-10-17 | aceito | cvm-col-20171017-d9574 | fichas/tc/2017-05.md |
-| 19957.001903/2015-21; 02/2014 | 2017-10-17 | rejeitado | cvm-col-20171017-d0718 | fichas/tc/2017-05.md |
-| 19957.001328/2017-29; RJ2017/0664 | 2017-10-10 | aceito | cvm-col-20171010-d0812 | fichas/tc/2017-04.md |
-| 19957.008057/2016-51; RJ2016/8251 | 2017-10-03 | rejeitado | cvm-col-20171003-d0814 | fichas/tc/2017-04.md |
-| 19957.003482/2017-35; RJ2017/1698 | 2017-10-03 | rejeitado | cvm-col-20171003-d0813 | fichas/tc/2017-04.md |
-| 19957.009178/2016-11; RJ2016/8896 | 2017-09-26 | outro | cvm-col-20170926-d0796 | fichas/tc/2017-04.md |
-| 19957.006989/2016-60; RJ2016/7961 | 2017-09-26 | rejeitado | cvm-col-20170926-d0693 | fichas/tc/2017-04.md |
-| 19957.000059/2014-31; 08/2014 | 2017-09-26 | aceito | cvm-col-20170926-d0692 | fichas/tc/2017-04.md |
-| RJ2014/9034 | 2017-09-19 | aceito | cvm-col-20170919-d9771 | fichas/tc/2017-04.md |
-| 19957.003936/2017-78 | 2017-09-05 | rejeitado | cvm-col-20170905-d0790 | fichas/tc/2017-04.md |
-| 19957.000414/2017-14; RJ2017/0106 | 2017-09-05 | aceito | cvm-col-20170905-d0789 | fichas/tc/2017-04.md |
-| 19957.006033/2016-68; RJ2016/7233; 19957.008081/2016-91; RJ2016/8347; 19957.009428/2016-12; RJ2016/9281; 19957.003266/2017-90; RJ2017/1239; 19957.008163/2016-35; RJ2014/12721; RJ2014/10013; RJ2015/1824; RJ2015/4723 | 2017-09-05 | outro | cvm-col-20170905-d0773 | fichas/tc/2017-04.md |
-| 19957.008074/2016-99; RJ2016/8255 | 2017-08-29 | rejeitado | cvm-col-20170829-d0777 | fichas/tc/2017-04.md |
-| 19957.007927/2016-75; RJ2016/8134 | 2017-08-29 | aceito | cvm-col-20170829-d0776 | fichas/tc/2017-04.md |
-| 19957.007552/2016-43; RJ2016/7929 | 2017-08-29 | rejeitado | cvm-col-20170829-d0775 | fichas/tc/2017-03.md |
-| 19957.006903/2016-07; RJ2016/7808 | 2017-08-29 | rejeitado | cvm-col-20170829-d0774 | fichas/tc/2017-03.md |
-| 19957.006406/2016-09; RJ2016/7486 | 2017-08-29 | rejeitado | cvm-col-20170829-d0772 | fichas/tc/2017-03.md |
-| 19957.006844/2016-69; RJ2016/7674 | 2017-08-15 | aceito | cvm-col-20170815-d0680 | fichas/tc/2017-03.md |
-| 19957.006688/2016-36; RJ2016/8375 | 2017-08-08 | rejeitado | cvm-col-20170808-d0766 | fichas/tc/2017-03.md |
-| RJ2016/5789 | 2017-08-08 | rejeitado | cvm-col-20170808-d0765 | fichas/tc/2017-03.md |
-| 19957.000923/2017-47 | 2017-08-08 | aceito | cvm-col-20170808-d0764 | fichas/tc/2017-03.md |
-| 19957.004336/2016-46; RJ2016/6048 | 2017-08-08 | aceito | cvm-col-20170808-d0673 | fichas/tc/2017-03.md |
-| 19957.007693/2016-66; RJ2016/8033 | 2017-07-11 | aceito | cvm-col-20170711-d0730 | fichas/tc/2017-03.md |
-| 19957.006103/2016-88; RJ2016/7352 | 2017-07-11 | rejeitado | cvm-col-20170711-d0729 | fichas/tc/2017-03.md |
-| 19957.006844/2016-69; RJ2016/7674 | 2017-07-04 | outro | cvm-col-20170704-d0680 | fichas/tc/2017-03.md |
-| 19957.006346/2016-16; RJ2016/7420 | 2017-06-26 | aceito | cvm-col-20170626-d0717 | fichas/tc/2017-03.md |
-| 19957.002047/2015-21; 03/2015 | 2017-06-26 | rejeitado | cvm-col-20170626-d0716 | fichas/tc/2017-03.md |
-| 19957.005977/2016-18; RJ2016/7192 | 2017-06-26 | rejeitado | cvm-col-20170626-d0702 | fichas/tc/2017-03.md |
-| 19957.006464/2016-24; RJ2016/7644 | 2017-06-26 | aceito | cvm-col-20170626-d0701 | fichas/tc/2017-02.md |
-| RJ2016/6671; 19957.003981/2015-61 | 2017-06-26 | rejeitado | cvm-col-20170626-d0438 | fichas/tc/2017-02.md |
-| 19957.005977/2016-18; RJ2016/7192 | 2017-06-20 | — | cvm-col-20170620-d0702 | fichas/tc/2017-02.md |
-| 19957.006464/2016-24; RJ2016/7644 | 2017-06-20 | — | cvm-col-20170620-d0701 | fichas/tc/2017-02.md |
-| RJ2016/6671; 19957.003981/2015-61 | 2017-06-20 | — | cvm-col-20170620-d0438 | fichas/tc/2017-02.md |
-| RJ2013/10951 | 2017-06-13 | aceito | cvm-col-20170613-d9010 | fichas/tc/2017-02.md |
-| 19957.005977/2016-18; RJ2016/7192 | 2017-06-13 | — | cvm-col-20170613-d0702 | fichas/tc/2017-02.md |
-| 19957.006464/2016-24; RJ2016/7644 | 2017-06-13 | — | cvm-col-20170613-d0701 | fichas/tc/2017-02.md |
-| RJ2016/6671; 19957.003981/2015-61 | 2017-06-13 | — | cvm-col-20170613-d0438 | fichas/tc/2017-02.md |
-| 19957.008192/2016-05; RJ2016/8335 | 2017-06-06 | rejeitado | cvm-col-20170606-d0687 | fichas/tc/2017-02.md |
-| RJ2014/12753 | 2017-06-06 | aceito | cvm-col-20170606-d0112 | fichas/tc/2017-02.md |
-| 19957.006844/2016-69; RJ2016/7674 | 2017-05-16 | outro | cvm-col-20170516-d0680 | fichas/tc/2017-02.md |
-| 19957.004336/2016-46; RJ2016/6048 | 2017-05-09 | outro | cvm-col-20170509-d0673 | fichas/tc/2017-02.md |
-| 19957.007503/2016-19; RJ2016/5098 | 2017-04-18 | aceito | cvm-col-20170418-d0662 | fichas/tc/2017-02.md |
-| 19957.000344/2017-02 | 2017-04-18 | aceito | cvm-col-20170418-d0661 | fichas/tc/2017-02.md |
-| 19957.004537/2016-43; RJ2016/5849 | 2017-04-18 | aceito | cvm-col-20170418-d0660 | fichas/tc/2017-02.md |
-| 19957.004730/2016-84; RJ2016/6169 | 2017-04-18 | aceito | cvm-col-20170418-d0512 | fichas/tc/2017-01.md |
-| 19957.005966/2016-38; RJ2016/7189 | 2017-04-04 | rejeitado | cvm-col-20170404-d0638 | fichas/tc/2017-01.md |
-| 19957.006012/2016-42; RJ2016/7995 | 2017-03-21 | rejeitado | cvm-col-20170321-d0619 | fichas/tc/2017-01.md |
-| 19957.002477/2016-24; RJ2016/4573 | 2017-03-21 | aceito | cvm-col-20170321-d0618 | fichas/tc/2017-01.md |
-| 19957.002999/2016-26; RJ2016/4896 | 2017-03-14 | aceito | cvm-col-20170314-d0602 | fichas/tc/2017-01.md |
-| 19957.001137/2016-86; RJ2016/5591 | 2017-03-14 | aceito | cvm-col-20170314-d0601 | fichas/tc/2017-01.md |
-| 19957.001569/2015-14 | 2017-03-14 | rejeitado | cvm-col-20170314-d0440 | fichas/tc/2017-01.md |
-| 19957.003984/2016-85; RJ2016/5499 | 2017-02-07 | rejeitado | cvm-col-20170207-d0564 | fichas/tc/2017-01.md |
-| 19957.004330/2016-79; RJ2016/5798 | 2017-02-07 | rejeitado | cvm-col-20170207-d0563 | fichas/tc/2017-01.md |
-| 19957.005950/2016-25 | 2017-01-24 | aceito | cvm-col-20170124-d0556 | fichas/tc/2017-01.md |
-| 19957.004919/2016-77 | 2017-01-24 | aceito | cvm-col-20170124-d0555 | fichas/tc/2017-01.md |
-| RJ2016/3590 | 2017-01-24 | aceito | cvm-col-20170124-d0554 | fichas/tc/2017-01.md |
-| 19957.002817/2016-17; RJ2016/4728 | 2017-01-24 | aceito | cvm-col-20170124-d0376 | fichas/tc/2017-01.md |
+| Processo | Data | Resultado | Ementa | Id | Ficha |
+|---|---|---|---|---|---|
+| 19957.005844/2017-22 | 2017-12-19 | aceito | O Colegiado aceitou, por unanimidade, proposta de TC da Deloitte Touche Tohmatsu Auditores Independentes, apresentada antes da instauração… | cvm-col-20171219-d0880 | fichas/tc/2017-06.md |
+| 19957.002632/2017-93 | 2017-12-19 | aceito | O Colegiado aceitou, por unanimidade, proposta de termo de compromisso de ex-diretor de relações com investidores de companhia siderúrgica… | cvm-col-20171219-d0879 | fichas/tc/2017-06.md |
+| 19957.008559/2016-82 | 2017-12-19 | aceito | O Colegiado, por unanimidade, aceitou proposta de termo de compromisso de R$ 150.000,00 de diretor vice-presidente jurídico da Cosan… | cvm-col-20171219-d0877 | fichas/tc/2017-06.md |
+| 19957.002035/2016-88; 09/2016 | 2017-12-19 | rejeitado | O Colegiado, acompanhando o Comitê, rejeitou por unanimidade as propostas de Termo de Compromisso de dois diretores da Petrobras, de R$… | cvm-col-20171219-d0810 | fichas/tc/2017-06.md |
+| 19957.007762/2016-31 | 2017-12-12 | rejeitado | O Colegiado, por unanimidade, rejeitou proposta de termo de compromisso de R$ 1.000.000,00 da GOL, apresentada antes de PAS sobre… | cvm-col-20171212-d0874 | fichas/tc/2017-05.md |
+| 19957.006301/2016-41 | 2017-12-12 | aceito | O Colegiado aceitou proposta de termo de compromisso de ex-membro do conselho fiscal da COPASA de R$ 15.000,00 e de não exercer, por cinco… | cvm-col-20171212-d0862 | fichas/tc/2017-05.md |
+| 19957.002172/2017-01; RJ2017/1128 | 2017-12-12 | aceito | O Colegiado, por unanimidade, aceitou propostas de termo de compromisso de dois ex-administradores da Brasil Insurance, acusados de falta… | cvm-col-20171212-d0861 | fichas/tc/2017-05.md |
+| 19957.009385/2016-75; RJ2016/9174 | 2017-11-28 | aceito | O Colegiado aceitou proposta de termo de compromisso de R$ 1.000.000,00 da Celpe (ofertante) e do Banco Safra (intermediário líder), sendo… | cvm-col-20171128-d0854 | fichas/tc/2017-05.md |
+| 19957.002377/2017-89; RJ2017/1246 | 2017-11-21 | aceito | O Colegiado, por unanimidade, aceitou proposta conjunta de termo de compromisso de cinco ex-conselheiros da Brasil Insurance, acusados de… | cvm-col-20171121-d0851 | fichas/tc/2017-05.md |
+| 19957.002583/2017-99; RJ2017/1358 | 2017-11-21 | aceito | O Colegiado, acompanhando o Comitê, aceitou por unanimidade duas propostas de Termo de Compromisso de administradores da Iochpe-Maxion S.A… | cvm-col-20171121-d0850 | fichas/tc/2017-05.md |
+| 19957.003780/2017-25; RJ2017/1858 | 2017-11-14 | rejeitado | O Colegiado, acompanhando o Comitê, rejeitou por unanimidade a proposta de Termo de Compromisso de investidor acusado de comprar 30 mil… | cvm-col-20171114-d0846 | fichas/tc/2017-05.md |
+| 01/2014 | 2017-11-14 | aceito | O Colegiado aceitou, por unanimidade, nova proposta de TC de investidor acusado de uso de informação privilegiada em ações da Globex… | cvm-col-20171114-d0048 | fichas/tc/2017-05.md |
+| 19957.009178/2016-11; RJ2016/8896 | 2017-11-07 | aceito | O Colegiado aceitou por unanimidade as propostas de Termo de Compromisso de cinco administradores da Manufatura de Brinquedos Estrela S.A… | cvm-col-20171107-d0796 | fichas/tc/2017-05.md |
+| 01/2011 | 2017-10-31 | rejeitado | O Colegiado rejeitou, por unanimidade, acompanhando o relator, proposta de termo de compromisso de controladora e de presidente do conselho… | cvm-col-20171031-d9229-2 | fichas/tc/2017-05.md |
+| 19957.008984/2016-71; RJ2016/8769 | 2017-10-31 | rejeitado | O Colegiado rejeitou as propostas da Audilink & Cia Auditores (R$ 15.000,00) e de um dos sócios responsáveis técnicos (afastamento de 2… | cvm-col-20171031-d0838 | fichas/tc/2017-05.md |
+| RJ2013/8697 | 2017-10-17 | aceito | O Colegiado aceitou nova proposta de termo de compromisso de R$ 10.000,00 de membro do conselho de administração da PROVIDAX Participações… | cvm-col-20171017-d9574 | fichas/tc/2017-05.md |
+| 19957.001903/2015-21; 02/2014 | 2017-10-17 | rejeitado | O Colegiado, por unanimidade, rejeitou proposta de termo de compromisso de R$ 100.000,00 de acusado por suposta contribuição a esquema de… | cvm-col-20171017-d0718 | fichas/tc/2017-05.md |
+| 19957.001328/2017-29; RJ2017/0664 | 2017-10-10 | aceito | O Colegiado, por unanimidade, aceitou proposta de termo de compromisso de R$ 200.000,00 à CVM apresentada por diretor de RI da Petrobras… | cvm-col-20171010-d0812 | fichas/tc/2017-04.md |
+| 19957.008057/2016-51; RJ2016/8251 | 2017-10-03 | rejeitado | O Colegiado rejeitou, por unanimidade, proposta conjunta de TC da PricewaterhouseCoopers e de seu sócio responsável técnico, acompanhando o… | cvm-col-20171003-d0814 | fichas/tc/2017-04.md |
+| 19957.003482/2017-35; RJ2017/1698 | 2017-10-03 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de R$ 5.000,00 de administrador da Cobrasma S.A., acompanhando o Comitê. A SEP acusou… | cvm-col-20171003-d0813 | fichas/tc/2017-04.md |
+| 19957.009178/2016-11; RJ2016/8896 | 2017-09-26 | outro | Em vez da rejeição proposta pelo Comitê, o Colegiado, com base no art. 9º, parágrafo único, da Deliberação CVM 390/2001, determinou a… | cvm-col-20170926-d0796 | fichas/tc/2017-04.md |
+| 19957.006989/2016-60; RJ2016/7961 | 2017-09-26 | rejeitado | O Colegiado, acompanhando o Comitê, rejeitou por unanimidade a proposta conjunta de Termo de Compromisso de três administradores da Forjas… | cvm-col-20170926-d0693 | fichas/tc/2017-04.md |
+| 19957.000059/2014-31; 08/2014 | 2017-09-26 | aceito | O Colegiado aceitou, por unanimidade, propostas de TC de nove proponentes, acompanhando o Comitê: pagamentos de R$ 500.000,00 a R$… | cvm-col-20170926-d0692 | fichas/tc/2017-04.md |
+| RJ2014/9034 | 2017-09-19 | aceito | O Colegiado aceitou, por unanimidade, nova proposta de termo de compromisso de três administradores de companhia aberta, acusados de… | cvm-col-20170919-d9771 | fichas/tc/2017-04.md |
+| 19957.003936/2017-78 | 2017-09-05 | rejeitado | O Colegiado, acompanhando o Comitê, rejeitou proposta conjunta de Termo de Compromisso de dois ex-diretores da Bahema S.A., relativa a… | cvm-col-20170905-d0790 | fichas/tc/2017-04.md |
+| 19957.000414/2017-14; RJ2017/0106 | 2017-09-05 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou proposta de termo de compromisso de diretor de relações com investidores de… | cvm-col-20170905-d0789 | fichas/tc/2017-04.md |
+| 19957.006033/2016-68; RJ2016/7233; 19957.008081/2016-91; RJ2016/8347; 19957.009428/2016-12; RJ2016/9281; 19957.003266/2017-90; RJ2017/1239; 19957.008163/2016-35; RJ2014/12721; RJ2014/10013; RJ2015/1824; RJ2015/4723 | 2017-09-05 | outro | O Colegiado aceitou as propostas de termo de compromisso de oito processos de oferta irregular de condo-hotéis e a da Hotelaria Accor no… | cvm-col-20170905-d0773 | fichas/tc/2017-04.md |
+| 19957.008074/2016-99; RJ2016/8255 | 2017-08-29 | rejeitado | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou proposta conjunta de termo de compromisso de três diretores de companhia… | cvm-col-20170829-d0777 | fichas/tc/2017-04.md |
+| 19957.007927/2016-75; RJ2016/8134 | 2017-08-29 | aceito | O Colegiado, por unanimidade, aceitou proposta conjunta de termo de compromisso de três membros do conselho de administração de companhia… | cvm-col-20170829-d0776 | fichas/tc/2017-04.md |
+| 19957.007552/2016-43; RJ2016/7929 | 2017-08-29 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de dois administradores da Recrusul S.A., acusados de votar contratos em benefício… | cvm-col-20170829-d0775 | fichas/tc/2017-03.md |
+| 19957.006903/2016-07; RJ2016/7808 | 2017-08-29 | rejeitado | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou propostas de Termo de Compromisso de dois administradores da Metalúrgica… | cvm-col-20170829-d0774 | fichas/tc/2017-03.md |
+| 19957.006406/2016-09; RJ2016/7486 | 2017-08-29 | rejeitado | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou proposta de termo de compromisso de agente autônomo de investimentos e sua… | cvm-col-20170829-d0772 | fichas/tc/2017-03.md |
+| 19957.006844/2016-69; RJ2016/7674 | 2017-08-15 | aceito | O Colegiado aceitou, por unanimidade, propostas de termo de compromisso de incorporadora hoteleira e operador, com seus administradores e… | cvm-col-20170815-d0680 | fichas/tc/2017-03.md |
+| 19957.006688/2016-36; RJ2016/8375 | 2017-08-08 | rejeitado | O Colegiado rejeitou propostas de termo de compromisso de duas instituições financeiras e de um diretor responsável pela administração de… | cvm-col-20170808-d0766 | fichas/tc/2017-03.md |
+| RJ2016/5789 | 2017-08-08 | rejeitado | O Colegiado rejeitou proposta conjunta de Termo de Compromisso da firma de auditoria UHY Moreira Auditores e de dois responsáveis técnicos… | cvm-col-20170808-d0765 | fichas/tc/2017-03.md |
+| 19957.000923/2017-47 | 2017-08-08 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou proposta de termo de compromisso de diretor de RI acusado de negociar ações no… | cvm-col-20170808-d0764 | fichas/tc/2017-03.md |
+| 19957.004336/2016-46; RJ2016/6048 | 2017-08-08 | aceito | O Colegiado aceitou, por unanimidade, nova proposta de termo de compromisso da gestora de fundo de ações, de R$ 150.000,00. Acusação… | cvm-col-20170808-d0673 | fichas/tc/2017-03.md |
+| 19957.007693/2016-66; RJ2016/8033 | 2017-07-11 | aceito | O Colegiado, por maioria, acompanhando o Comitê, aceitou propostas de termo de compromisso de duas empresas acusadas de criar condições… | cvm-col-20170711-d0730 | fichas/tc/2017-03.md |
+| 19957.006103/2016-88; RJ2016/7352 | 2017-07-11 | rejeitado | O Colegiado, por unanimidade, rejeitou propostas de termo de compromisso de uma companhia estrangeira e de seu antigo representante legal… | cvm-col-20170711-d0729 | fichas/tc/2017-03.md |
+| 19957.006844/2016-69; RJ2016/7674 | 2017-07-04 | outro | O Colegiado, por unanimidade, tornou sem efeito sua decisão de 16.5.2017, que superara a preliminar de intempestividade de proposta de… | cvm-col-20170704-d0680 | fichas/tc/2017-03.md |
+| 19957.006346/2016-16; RJ2016/7420 | 2017-06-26 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou propostas de termo de compromisso de dois proponentes acusados de criar… | cvm-col-20170626-d0717 | fichas/tc/2017-03.md |
+| 19957.002047/2015-21; 03/2015 | 2017-06-26 | rejeitado | O Colegiado rejeitou, por unanimidade, as propostas de termo de compromisso de quatro proponentes no PAS 03/2015, por prática não… | cvm-col-20170626-d0716 | fichas/tc/2017-03.md |
+| 19957.005977/2016-18; RJ2016/7192 | 2017-06-26 | rejeitado | O Colegiado rejeitou, por unanimidade, proposta conjunta de Termo de Compromisso de R$ 100.000,00 apresentada por um administrador de… | cvm-col-20170626-d0702 | fichas/tc/2017-03.md |
+| 19957.006464/2016-24; RJ2016/7644 | 2017-06-26 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou proposta de termo de compromisso de diretor responsável de consultoria de… | cvm-col-20170626-d0701 | fichas/tc/2017-02.md |
+| RJ2016/6671; 19957.003981/2015-61 | 2017-06-26 | rejeitado | O Colegiado, por unanimidade, rejeitou as propostas de termo de compromisso de administradores da Brazal – Brasil Alimentos S.A. em PAS… | cvm-col-20170626-d0438 | fichas/tc/2017-02.md |
+| 19957.005977/2016-18; RJ2016/7192 | 2017-06-20 | — | Apreciação de proposta de termo de compromisso em processo administrativo sancionador. Um diretor substituto declarou impedimento e faltou… | cvm-col-20170620-d0702 | fichas/tc/2017-02.md |
+| 19957.006464/2016-24; RJ2016/7644 | 2017-06-20 | — | O Colegiado apreciaria proposta de termo de compromisso no PAS SEI 19957.006464/2016-24. Um diretor substituto declarou impedimento e… | cvm-col-20170620-d0701 | fichas/tc/2017-02.md |
+| RJ2016/6671; 19957.003981/2015-61 | 2017-06-20 | — | Apreciação de proposta de termo de compromisso no PAS SEI 19957.003981/2015-61 (Proc. RJ2016/6671). Retirado de pauta por falta de quórum. | cvm-col-20170620-d0438 | fichas/tc/2017-02.md |
+| RJ2013/10951 | 2017-06-13 | aceito | O Colegiado, por unanimidade, aceitou proposta de termo de compromisso do Banco Bradesco S.A., administrador de fundo de investimento, e de… | cvm-col-20170613-d9010 | fichas/tc/2017-02.md |
+| 19957.005977/2016-18; RJ2016/7192 | 2017-06-13 | — | Apreciação de proposta de termo de compromisso em processo administrativo sancionador. Um diretor substituto declarou impedimento e faltou… | cvm-col-20170613-d0702 | fichas/tc/2017-02.md |
+| 19957.006464/2016-24; RJ2016/7644 | 2017-06-13 | — | O Colegiado examinou proposta de termo de compromisso no PAS SEI 19957.006464/2016-24; um diretor declarou impedimento e faltou quórum para… | cvm-col-20170613-d0701 | fichas/tc/2017-02.md |
+| RJ2016/6671; 19957.003981/2015-61 | 2017-06-13 | — | Apreciação de proposta de termo de compromisso no PAS SEI 19957.003981/2015-61 (Proc. RJ2016/6671). Retirado de pauta. | cvm-col-20170613-d0438 | fichas/tc/2017-02.md |
+| 19957.008192/2016-05; RJ2016/8335 | 2017-06-06 | rejeitado | O Colegiado rejeitou, por unanimidade, proposta de termo de compromisso de auditor independente pessoa física, acusado de descumprir o art… | cvm-col-20170606-d0687 | fichas/tc/2017-02.md |
+| RJ2014/12753 | 2017-06-06 | aceito | O Colegiado, por unanimidade, aceitou nova proposta de termo de compromisso de sete administradores da Rossi Residencial S.A., no total de… | cvm-col-20170606-d0112 | fichas/tc/2017-02.md |
+| 19957.006844/2016-69; RJ2016/7674 | 2017-05-16 | outro | O Colegiado, por unanimidade, afastou a preliminar de intempestividade apontada pela PFE e permitiu a análise de proposta de termo de… | cvm-col-20170516-d0680 | fichas/tc/2017-02.md |
+| 19957.004336/2016-46; RJ2016/6048 | 2017-05-09 | outro | O Colegiado aceitou, por unanimidade, proposta de termo de compromisso de suplente do conselho de administração de companhia (R$… | cvm-col-20170509-d0673 | fichas/tc/2017-02.md |
+| 19957.007503/2016-19; RJ2016/5098 | 2017-04-18 | aceito | Apreciação de proposta de termo de compromisso. Proc. SEI 19957.007503/2016-19 (PROC. RJ2016/5098). | cvm-col-20170418-d0662 | fichas/tc/2017-02.md |
+| 19957.000344/2017-02 | 2017-04-18 | aceito | O Colegiado, por unanimidade, aceitou proposta de termo de compromisso de R$ 200.000,00 apresentada por diretor de relações com… | cvm-col-20170418-d0661 | fichas/tc/2017-02.md |
+| 19957.004537/2016-43; RJ2016/5849 | 2017-04-18 | aceito | O Colegiado aceitou, por maioria, proposta de termo de compromisso de diretor da companhia acusado de negociar ações em período vedado… | cvm-col-20170418-d0660 | fichas/tc/2017-02.md |
+| 19957.004730/2016-84; RJ2016/6169 | 2017-04-18 | aceito | O Colegiado aceitou proposta de termo de compromisso de membro do Conselho de Administração da Fibam Cia. Industrial (em recuperação… | cvm-col-20170418-d0512 | fichas/tc/2017-01.md |
+| 19957.005966/2016-38; RJ2016/7189 | 2017-04-04 | rejeitado | O Colegiado, por unanimidade, rejeitou a proposta de termo de compromisso, acompanhando o Comitê, em PAS sobre negociação de ações da Cia… | cvm-col-20170404-d0638 | fichas/tc/2017-01.md |
+| 19957.006012/2016-42; RJ2016/7995 | 2017-03-21 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de R$ 1.000,00 apresentada por dirigente do Clube de Investimento dos Ferroviários… | cvm-col-20170321-d0619 | fichas/tc/2017-01.md |
+| 19957.002477/2016-24; RJ2016/4573 | 2017-03-21 | aceito | O Colegiado, por maioria, aceitou propostas de termo de compromisso de membros do conselho da Brasil Pharma S.A. por uso de informação… | cvm-col-20170321-d0618 | fichas/tc/2017-01.md |
+| 19957.002999/2016-26; RJ2016/4896 | 2017-03-14 | aceito | O Colegiado aceitou a proposta conjunta de termo de compromisso de dirigentes e conselheiros da TPI – Triunfo Participações e Investimentos… | cvm-col-20170314-d0602 | fichas/tc/2017-01.md |
+| 19957.001137/2016-86; RJ2016/5591 | 2017-03-14 | aceito | O Colegiado, por maioria, aceitou propostas de termo de compromisso da controladora da B2W e de um diretor da companhia, de R$ 150.000,00… | cvm-col-20170314-d0601 | fichas/tc/2017-01.md |
+| 19957.001569/2015-14 | 2017-03-14 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso de R$ 25.000,00 apresentada por membro do conselho de administração do Banco… | cvm-col-20170314-d0440 | fichas/tc/2017-01.md |
+| 19957.003984/2016-85; RJ2016/5499 | 2017-02-07 | rejeitado | O Colegiado rejeitou, por unanimidade, as propostas de Termo de Compromisso de administradores e ex-administradores da RJ Capital Partners… | cvm-col-20170207-d0564 | fichas/tc/2017-01.md |
+| 19957.004330/2016-79; RJ2016/5798 | 2017-02-07 | rejeitado | O Colegiado rejeitou as propostas de termo de compromisso de dois diretores da Companhia Providência Indústria e Comércio (R$ 435.000,00 e… | cvm-col-20170207-d0563 | fichas/tc/2017-01.md |
+| 19957.005950/2016-25 | 2017-01-24 | aceito | O Colegiado aceitou, por unanimidade, proposta de Termo de Compromisso de diretor de companhia aberta por negociação de ações em período… | cvm-col-20170124-d0556 | fichas/tc/2017-01.md |
+| 19957.004919/2016-77 | 2017-01-24 | aceito | O Colegiado, acompanhando o Comitê, aceitou proposta de termo de compromisso de uma diretora da Localiza Rent a Car S.A. por aluguel de… | cvm-col-20170124-d0555 | fichas/tc/2017-01.md |
+| RJ2016/3590 | 2017-01-24 | aceito | O Colegiado aceitou, por unanimidade, proposta conjunta de termo de compromisso de sociedade de auditoria e de seu responsável técnico… | cvm-col-20170124-d0554 | fichas/tc/2017-01.md |
+| 19957.002817/2016-17; RJ2016/4728 | 2017-01-24 | aceito | O Colegiado aceitou proposta conjunta de termo de compromisso de administradores da Taípe Trancoso Empreendimentos S.A. em PAS sobre atraso… | cvm-col-20170124-d0376 | fichas/tc/2017-01.md |
 
 Fim do subíndice.

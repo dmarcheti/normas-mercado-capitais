@@ -5,94 +5,94 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
-| Processo | Data | Resultado | Id | Ficha |
-|---|---|---|---|---|
-| RJ2010/12043 | 2010-12-28 | rejeitado | cvm-col-20101228-d08 | fichas/tc/2010-07.md |
-| RJ2010/4953 | 2010-12-28 | aceito | cvm-col-20101228-d07 | fichas/tc/2010-07.md |
-| RJ2010/2554 | 2010-12-28 | rejeitado | cvm-col-20101228-d06 | fichas/tc/2010-07.md |
-| RJ2010/16049 | 2010-12-28 | rejeitado | cvm-col-20101228-d05 | fichas/tc/2010-07.md |
-| RJ2010/11569 | 2010-12-14 | aceito | cvm-col-20101214-d07 | fichas/tc/2010-07.md |
-| RJ2010/11568 | 2010-12-14 | rejeitado | cvm-col-20101214-d06 | fichas/tc/2010-07.md |
-| RJ2010/7631 | 2010-12-14 | rejeitado | cvm-col-20101214-d05 | fichas/tc/2010-07.md |
-| RJ2010/13904 | 2010-12-14 | rejeitado | cvm-col-20101214-d04 | fichas/tc/2010-07.md |
-| RJ2009/11007 | 2010-12-14 | aceito | cvm-col-20101214-d03 | fichas/tc/2010-06.md |
-| RJ2009/6832 | 2010-12-14 | aceito | cvm-col-20101214-d01 | fichas/tc/2010-06.md |
-| RJ2010/15761 | 2010-12-09 | aceito | cvm-col-20101209-d01 | fichas/tc/2010-06.md |
-| RJ2009/6757 | 2010-12-07 | rejeitado | cvm-col-20101207-d02 | fichas/tc/2010-06.md |
-| RJ2010/4524 | 2010-11-30 | rejeitado | cvm-col-20101130-d07 | fichas/tc/2010-06.md |
-| RJ2008/3539 | 2010-11-30 | aceito | cvm-col-20101130-d06 | fichas/tc/2010-06.md |
-| RJ2009/11813 | 2010-11-30 | aceito | cvm-col-20101130-d05 | fichas/tc/2010-06.md |
-| RJ2010/12042 | 2010-11-30 | rejeitado | cvm-col-20101130-d04 | fichas/tc/2010-06.md |
-| RJ2010/8708 | 2010-11-30 | rejeitado | cvm-col-20101130-d03 | fichas/tc/2010-06.md |
-| RJ2009/11393 | 2010-11-30 | aceito | cvm-col-20101130-d02 | fichas/tc/2010-06.md |
-| RJ2010/3278 | 2010-11-04 | aceito | cvm-col-20101104-d01 | fichas/tc/2010-06.md |
-| RJ2009/2917 | 2010-11-04 | rejeitado | cvm-col-20101104-d01-r2 | fichas/tc/2010-06.md |
-| RJ2010/4246 | 2010-10-26 | aceito | cvm-col-20101026-d03 | fichas/tc/2010-05.md |
-| RJ2009/12495 | 2010-10-26 | rejeitado | cvm-col-20101026-d02 | fichas/tc/2010-05.md |
-| RJ2006/7256 | 2010-10-26 | aceito | cvm-col-20101026-d01 | fichas/tc/2010-05.md |
-| RJ2010/2980 | 2010-10-26 | rejeitado | cvm-col-20101026-d01-r2 | fichas/tc/2010-05.md |
-| RJ2010/0926 | 2010-10-19 | outro | cvm-col-20101019-d09 | fichas/tc/2010-05.md |
-| RJ2007/10395 | 2010-10-14 | aceito | cvm-col-20101014-d02 | fichas/tc/2010-05.md |
-| RJ2009/13169 | 2010-10-14 | aceito | cvm-col-20101014-d01 | fichas/tc/2010-05.md |
-| RJ2010/2411 | 2010-10-05 | aceito | cvm-col-20101005-d12 | fichas/tc/2010-05.md |
-| RJ2010/1144 | 2010-09-21 | aceito | cvm-col-20100921-d07 | fichas/tc/2010-05.md |
-| RJ2010/2554 | 2010-09-21 | rejeitado | cvm-col-20100921-d06 | fichas/tc/2010-05.md |
-| RJ2010/0770 | 2010-09-21 | rejeitado | cvm-col-20100921-d05 | fichas/tc/2010-05.md |
-| SP2010/0001 | 2010-09-21 | rejeitado | cvm-col-20100921-d04 | fichas/tc/2010-05.md |
-| SP2006/0066 | 2010-09-21 | rejeitado | cvm-col-20100921-d03 | fichas/tc/2010-04.md |
-| RJ2009/6757 | 2010-09-21 | rejeitado | cvm-col-20100921-d02 | fichas/tc/2010-04.md |
-| RJ2010/4159 | 2010-09-21 | aceito | cvm-col-20100921-d01 | fichas/tc/2010-04.md |
-| 19/2006 | 2010-09-14 | aceito | cvm-col-20100914-d02 | fichas/tc/2010-04.md |
-| 16/2008 | 2010-09-09 | rejeitado | cvm-col-20100909-d07 | fichas/tc/2010-04.md |
-| 18/2008 | 2010-09-09 | rejeitado | cvm-col-20100909-d06 | fichas/tc/2010-04.md |
-| 21/2005 | 2010-09-09 | rejeitado | cvm-col-20100909-d02 | fichas/tc/2010-04.md |
-| 06/2004 | 2010-08-31 | rejeitado | cvm-col-20100831-d01 | fichas/tc/2010-04.md |
-| RJ2010/9547 | 2010-08-24 | aceito | cvm-col-20100824-d02 | fichas/tc/2010-04.md |
-| RJ2009/8286 | 2010-08-24 | aceito | cvm-col-20100824-d01 | fichas/tc/2010-04.md |
-| — | 2010-08-10 | outro | cvm-col-20100810-d07 | fichas/tc/2010-04.md |
-| RJ2010/1088 | 2010-08-03 | rejeitado | cvm-col-20100803-d04 | fichas/tc/2010-04.md |
-| RJ2009/8286 | 2010-07-20 | rejeitado | cvm-col-20100720-d03 | fichas/tc/2010-04.md |
-| RJ2009/13169 | 2010-07-20 | rejeitado | cvm-col-20100720-d02 | fichas/tc/2010-04.md |
-| 16/2005 | 2010-07-20 | aceito | cvm-col-20100720-d01 | fichas/tc/2010-03.md |
-| RJ2010/4159 | 2010-06-29 | rejeitado | cvm-col-20100629-d05 | fichas/tc/2010-03.md |
-| RJ2010/3420 | 2010-06-29 | aceito | cvm-col-20100629-d04 | fichas/tc/2010-03.md |
-| RJ2009/12461 | 2010-06-29 | rejeitado | cvm-col-20100629-d03 | fichas/tc/2010-03.md |
-| RJ2009/5934 | 2010-06-29 | rejeitado | cvm-col-20100629-d02 | fichas/tc/2010-03.md |
-| RJ2009/8316 | 2010-06-29 | aceito | cvm-col-20100629-d01 | fichas/tc/2010-03.md |
-| RJ2009/5744 | 2010-06-22 | rejeitado | cvm-col-20100622-d04 | fichas/tc/2010-03.md |
-| RJ2010/1281 | 2010-06-22 | rejeitado | cvm-col-20100622-d03 | fichas/tc/2010-03.md |
-| RJ2009/9579 | 2010-06-22 | aceito | cvm-col-20100622-d02 | fichas/tc/2010-03.md |
-| RJ2010/0963 | 2010-06-22 | aceito | cvm-col-20100622-d01 | fichas/tc/2010-03.md |
-| RJ2009/11007 | 2010-05-25 | rejeitado | cvm-col-20100525-d06 | fichas/tc/2010-03.md |
-| RJ2009/9443 | 2010-05-25 | rejeitado | cvm-col-20100525-d05 | fichas/tc/2010-03.md |
-| RJ2009/5519 | 2010-05-25 | aceito | cvm-col-20100525-d04 | fichas/tc/2010-03.md |
-| RJ2009/6713 | 2010-05-25 | aceito | cvm-col-20100525-d03 | fichas/tc/2010-02.md |
-| 06/2007 | 2010-05-18 | rejeitado | cvm-col-20100518-d01 | fichas/tc/2010-02.md |
-| RJ2009/9982 | 2010-05-11 | rejeitado | cvm-col-20100511-d01 | fichas/tc/2010-02.md |
-| 02/2008 | 2010-04-27 | rejeitado | cvm-col-20100427-d08 | fichas/tc/2010-02.md |
-| RJ2009/5286; RJ2010/9731 | 2010-04-13 | aceito | cvm-tc-rj2009-5286-20100413 | fichas/tc/2010-02.md |
-| RJ2009/9731 | 2010-04-13 | aceito | cvm-col-20100413-d05 | fichas/tc/2010-02.md |
-| RJ2009/8196 | 2010-04-13 | aceito | cvm-col-20100413-d04 | fichas/tc/2010-02.md |
-| RJ2010/1807 | 2010-04-13 | rejeitado | cvm-col-20100413-d03 | fichas/tc/2010-02.md |
-| RJ2009/13069 | 2010-04-13 | aceito | cvm-col-20100413-d02 | fichas/tc/2010-02.md |
-| RJ2010/0035 | 2010-03-23 | aceito | cvm-col-20100323-d07 | fichas/tc/2010-02.md |
-| RJ2009/6832 | 2010-03-23 | rejeitado | cvm-col-20100323-d06 | fichas/tc/2010-02.md |
-| RJ2009/10254 | 2010-03-23 | rejeitado | cvm-col-20100323-d05 | fichas/tc/2010-02.md |
-| RJ2009/8787 | 2010-03-23 | aceito | cvm-col-20100323-d04 | fichas/tc/2010-02.md |
-| IA02/2008 | 2010-03-16 | rejeitado | cvm-col-20100316-d01 | fichas/tc/2010-01.md |
-| RJ2009/2382 | 2010-03-02 | outro | cvm-col-20100302-d01 | fichas/tc/2010-01.md |
-| RJ2009/6713 | 2010-02-09 | rejeitado | cvm-col-20100209-d07 | fichas/tc/2010-01.md |
-| 24/2006 | 2010-02-09 | rejeitado | cvm-col-20100209-d06 | fichas/tc/2010-01.md |
-| RJ2009/4925 | 2010-02-09 | rejeitado | cvm-col-20100209-d05 | fichas/tc/2010-01.md |
-| RJ2009/8224 | 2010-02-09 | rejeitado | cvm-col-20100209-d04 | fichas/tc/2010-01.md |
-| RJ2008/10302 | 2010-02-09 | aceito | cvm-col-20100209-d03 | fichas/tc/2010-01.md |
-| RJ2009/5519 | 2010-02-09 | outro | cvm-col-20100209-d01-r2 | fichas/tc/2010-01.md |
-| RJ2009/1503 | 2010-02-02 | outro | cvm-col-20100202-d33 | fichas/tc/2010-01.md |
-| RJ2009/3082 | 2010-01-26 | aceito | cvm-col-20100126-d08 | fichas/tc/2010-01.md |
-| RJ2009/4747 | 2010-01-26 | aceito | cvm-col-20100126-d07 | fichas/tc/2010-01.md |
-| RJ2009/9731 | 2010-01-26 | rejeitado | cvm-col-20100126-d06 | fichas/tc/2010-01.md |
-| RJ2009/6226 | 2010-01-26 | rejeitado | cvm-col-20100126-d05 | fichas/tc/2010-01.md |
-| RJ2009/6349 | 2010-01-26 | rejeitado | cvm-col-20100126-d02 | fichas/tc/2010-01.md |
-| RJ2009/5351 | 2010-01-26 | aceito | cvm-col-20100126-d01 | fichas/tc/2010-01.md |
+| Processo | Data | Resultado | Ementa | Id | Ficha |
+|---|---|---|---|---|---|
+| RJ2010/12043 | 2010-12-28 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de R$ 10.000,00 do diretor de relações com investidores da Fiação Tecelagem São José… | cvm-col-20101228-d08 | fichas/tc/2010-07.md |
+| RJ2010/4953 | 2010-12-28 | aceito | O Colegiado aceitou proposta conjunta de termo de compromisso dos administradores, de R$ 350.000,00, acompanhando o Comitê. Acusados de… | cvm-col-20101228-d07 | fichas/tc/2010-07.md |
+| RJ2010/2554 | 2010-12-28 | rejeitado | O Colegiado rejeitou nova proposta de termo de compromisso de R$ 75.000,00 apresentada pelo Banco Safra BSI S.A. e por um diretor… | cvm-col-20101228-d06 | fichas/tc/2010-07.md |
+| RJ2010/16049 | 2010-12-28 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso de R$ 200.000,00 de um acusado de prática não equitativa (negociação com ações da… | cvm-col-20101228-d05 | fichas/tc/2010-07.md |
+| RJ2010/11569 | 2010-12-14 | aceito | O Colegiado aceitou proposta de termo de compromisso do diretor de relações com investidores da CAGECE por atrasos em documentos periódicos… | cvm-col-20101214-d07 | fichas/tc/2010-07.md |
+| RJ2010/11568 | 2010-12-14 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso do diretor de RI da Botucatu Têxtil S.A., acompanhando o Comitê. Processo… | cvm-col-20101214-d06 | fichas/tc/2010-07.md |
+| RJ2010/7631 | 2010-12-14 | rejeitado | O Colegiado, acompanhando o Comitê, rejeitou as propostas de termo de compromisso da KPMG Auditores Independentes e de dois responsáveis… | cvm-col-20101214-d05 | fichas/tc/2010-07.md |
+| RJ2010/13904 | 2010-12-14 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de R$ 70.000,00 apresentada por um membro do conselho fiscal, acusado de falta de… | cvm-col-20101214-d04 | fichas/tc/2010-07.md |
+| RJ2009/11007 | 2010-12-14 | aceito | O Colegiado aceitou nova proposta de termo de compromisso de três membros do Conselho de Administração da Invest Tur Brasil S.A., de R$… | cvm-col-20101214-d03 | fichas/tc/2010-06.md |
+| RJ2009/6832 | 2010-12-14 | aceito | Por maioria, o Colegiado aceitou nova proposta de termo de compromisso de sociedade de auditoria independente e dois sócios, acusados de… | cvm-col-20101214-d01 | fichas/tc/2010-06.md |
+| RJ2010/15761 | 2010-12-09 | aceito | O Colegiado aceitou a proposta aditada de termo de compromisso da Vivendi S.A., no valor de R$ 150.000.000,00, contra manifestação… | cvm-col-20101209-d01 | fichas/tc/2010-06.md |
+| RJ2009/6757 | 2010-12-07 | rejeitado | Por maioria, o Colegiado rejeitou nova proposta de termo de compromisso do administrador de fundo e de diretores, relativa a taxa de… | cvm-col-20101207-d02 | fichas/tc/2010-06.md |
+| RJ2010/4524 | 2010-11-30 | rejeitado | O Colegiado rejeitou as propostas de termo de compromisso da Deloitte Touche Tohmatsu Auditores Independentes e de um sócio responsável… | cvm-col-20101130-d07 | fichas/tc/2010-06.md |
+| RJ2008/3539 | 2010-11-30 | aceito | O Colegiado aceitou a proposta de termo de compromisso de uma investidora pessoa física, que pagará R$ 65.487,98 à CVM, correspondente ao… | cvm-col-20101130-d06 | fichas/tc/2010-06.md |
+| RJ2009/11813 | 2010-11-30 | aceito | O Colegiado aceitou as propostas de termo de compromisso de corretora e de agente autônomo, com seus responsáveis, acusados de usar… | cvm-col-20101130-d05 | fichas/tc/2010-06.md |
+| RJ2010/12042 | 2010-11-30 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso do diretor de relações com investidores de companhia aberta, acusado de atraso no… | cvm-col-20101130-d04 | fichas/tc/2010-06.md |
+| RJ2010/8708 | 2010-11-30 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso de membro do Conselho de Administração da CELM – Companhia Equipadora de… | cvm-col-20101130-d03 | fichas/tc/2010-06.md |
+| RJ2009/11393 | 2010-11-30 | aceito | O Colegiado aceitou a proposta de termo de compromisso da BTG Pactual Asset Management S.A. DTVM (antiga UBS Pactual) e de dois… | cvm-col-20101130-d02 | fichas/tc/2010-06.md |
+| RJ2010/3278 | 2010-11-04 | aceito | O Colegiado aceitou as três propostas de termo de compromisso, de R$ 100.000,00 para cada um de dois proponentes e R$ 200.000,00 para o… | cvm-col-20101104-d01 | fichas/tc/2010-06.md |
+| RJ2009/2917 | 2010-11-04 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso conjunta de R$ 350.000,00 da Cruzeiro do Sul S.A. DTVM, da BCSUL Verax Serviços… | cvm-col-20101104-d01-r2 | fichas/tc/2010-06.md |
+| RJ2010/4246 | 2010-10-26 | aceito | O Colegiado aceitou proposta de termo de compromisso do proponente, responsável por relações com investidores da Abyara Planejamento… | cvm-col-20101026-d03 | fichas/tc/2010-05.md |
+| RJ2009/12495 | 2010-10-26 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso apresentada pela KPMG Auditores Independentes e por dois responsáveis técnicos… | cvm-col-20101026-d02 | fichas/tc/2010-05.md |
+| RJ2006/7256 | 2010-10-26 | aceito | O Colegiado aceitou proposta de termo de compromisso conjunta da Mercantil do Brasil Distribuidora S.A. e de dois administradores à época… | cvm-col-20101026-d01 | fichas/tc/2010-05.md |
+| RJ2010/2980 | 2010-10-26 | rejeitado | O Colegiado rejeitou a proposta de Termo de Compromisso da KPMG Auditores Independentes e de dois responsáveis técnicos, acompanhando o… | cvm-col-20101026-d01-r2 | fichas/tc/2010-05.md |
+| RJ2010/0926 | 2010-10-19 | outro | O Colegiado aceitou duas propostas de termo de compromisso, de R$ 200.000,00 cada, acompanhando o Comitê, e rejeitou três: a de R$… | cvm-col-20101019-d09 | fichas/tc/2010-05.md |
+| RJ2007/10395 | 2010-10-14 | aceito | O Colegiado aceitou proposta de termo de compromisso de instituição administradora de fundos, acusada de falha no repasse de rebates de… | cvm-col-20101014-d02 | fichas/tc/2010-05.md |
+| RJ2009/13169 | 2010-10-14 | aceito | O Colegiado aceitou nova proposta de termo de compromisso da instituição financeira acusada de não identificar o comitente final em… | cvm-col-20101014-d01 | fichas/tc/2010-05.md |
+| RJ2010/2411 | 2010-10-05 | aceito | Após pedido de vista, o Colegiado, por maioria, aceitou propostas de R$ 150.000,00 cada de dois diretores da Light S.A. por alienação de… | cvm-col-20101005-d12 | fichas/tc/2010-05.md |
+| RJ2010/1144 | 2010-09-21 | aceito | O Colegiado aceitou duas propostas no PAS RJ2010/1144: R$ 200.000,00 de diretor de RI acusado de não divulgar fato relevante, acompanhando… | cvm-col-20100921-d07 | fichas/tc/2010-05.md |
+| RJ2010/2554 | 2010-09-21 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso do Banco Safra BSI S.A., anterior a PAS, sobre incorporação de fundo multimercado… | cvm-col-20100921-d06 | fichas/tc/2010-05.md |
+| RJ2010/0770 | 2010-09-21 | rejeitado | O Colegiado, acompanhando o parecer do Comitê, rejeitou proposta de termo de compromisso de R$ 100.000,00 de representante da Laep… | cvm-col-20100921-d05 | fichas/tc/2010-05.md |
+| SP2010/0001 | 2010-09-21 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de R$ 150.000,00, de três proponentes (R$ 50.000,00 cada), em PAS por registro de… | cvm-col-20100921-d04 | fichas/tc/2010-05.md |
+| SP2006/0066 | 2010-09-21 | rejeitado | O Colegiado, acompanhando o Comitê, rejeitou as propostas de três proponentes no PAS SP2006/0066: R$ 100.000,00 da corretora e de seu… | cvm-col-20100921-d03 | fichas/tc/2010-04.md |
+| RJ2009/6757 | 2010-09-21 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de administrador de fundo e de diretores responsáveis, acusados de manter taxa de… | cvm-col-20100921-d02 | fichas/tc/2010-04.md |
+| RJ2010/4159 | 2010-09-21 | aceito | O Colegiado, por maioria, aceitou as novas propostas de termo de compromisso da Ágora Corretora e de seu diretor responsável, de R$… | cvm-col-20100921-d01 | fichas/tc/2010-04.md |
+| 19/2006 | 2010-09-14 | aceito | O Colegiado aceitou proposta de termo de compromisso de R$ 200.000,00 de diretor acusado de vender ações antes de fato relevante, com uso… | cvm-col-20100914-d02 | fichas/tc/2010-04.md |
+| 16/2008 | 2010-09-09 | rejeitado | O Colegiado, acompanhando o parecer do Comitê, rejeitou dez propostas de termo de compromisso de administradores da Aracruz Celulose em PAS… | cvm-col-20100909-d07 | fichas/tc/2010-04.md |
+| 18/2008 | 2010-09-09 | rejeitado | O Colegiado rejeitou as 14 propostas de termo de compromisso apresentadas por acusados no PAS 18/2008 (responsabilidade de administradores… | cvm-col-20100909-d06 | fichas/tc/2010-04.md |
+| 21/2005 | 2010-09-09 | rejeitado | O Colegiado rejeitou, por maioria, vencido um diretor, proposta de termo de compromisso de R$ 200.000,00 da Fundação Antonio e Helena… | cvm-col-20100909-d02 | fichas/tc/2010-04.md |
+| 06/2004 | 2010-08-31 | rejeitado | O Colegiado rejeitou nova proposta de termo de compromisso de corretora e outros acusados de condições artificiais e práticas não… | cvm-col-20100831-d01 | fichas/tc/2010-04.md |
+| RJ2010/9547 | 2010-08-24 | aceito | O Colegiado, por maioria, acompanhando o parecer do Comitê, aceitou cinco propostas de termo de compromisso de R$ 50.000,00 cada (R$… | cvm-col-20100824-d02 | fichas/tc/2010-04.md |
+| RJ2009/8286 | 2010-08-24 | aceito | O Colegiado aceitou nova proposta de termo de compromisso de R$ 150.000,00 de acusado de uso de informação privilegiada na alienação de… | cvm-col-20100824-d01 | fichas/tc/2010-04.md |
+| — | 2010-08-10 | outro | O Colegiado aprovou, com alterações, para audiência pública de 30 dias, minuta de Deliberação que altera a Deliberação 390/01, sobre termo… | cvm-col-20100810-d07 | fichas/tc/2010-04.md |
+| RJ2010/1088 | 2010-08-03 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de R$ 60.000,00 da Atrium S.A. DTVM e de um diretor responsável pela gestão do Atrium… | cvm-col-20100803-d04 | fichas/tc/2010-04.md |
+| RJ2009/8286 | 2010-07-20 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso de membro do conselho de administração de emissora de BDR nível III, acusado de… | cvm-col-20100720-d03 | fichas/tc/2010-04.md |
+| RJ2009/13169 | 2010-07-20 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso da instituição financeira, acusada de não identificar o comitente final, investidor… | cvm-col-20100720-d02 | fichas/tc/2010-04.md |
+| 16/2005 | 2010-07-20 | aceito | O Colegiado aceitou a proposta de sete proponentes no PAS 16/2005 (CENTRUS), de R$ 50.000,00 cada à CVM, totalizando R$ 350.000,00, por ser… | cvm-col-20100720-d01 | fichas/tc/2010-03.md |
+| RJ2010/4159 | 2010-06-29 | rejeitado | O Colegiado rejeitou propostas de termo de compromisso da Ágora e de um diretor responsável, de R$ 100.000,00 cada, por não serem… | cvm-col-20100629-d05 | fichas/tc/2010-03.md |
+| RJ2010/3420 | 2010-06-29 | aceito | O Colegiado aceitou proposta de termo de compromisso de R$ 20.000,00 de conselheiro de administração da Eletrosilex S.A., acusado de não… | cvm-col-20100629-d04 | fichas/tc/2010-03.md |
+| RJ2009/12461 | 2010-06-29 | rejeitado | O Colegiado rejeitou proposta conjunta de termo de compromisso de dezesseis proponentes, uma delas a Serrainvest Factoring Fomento… | cvm-col-20100629-d03 | fichas/tc/2010-03.md |
+| RJ2009/5934 | 2010-06-29 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso da Gradual de R$ 1.800.000,00, acompanhando o Comitê, que a considerou… | cvm-col-20100629-d02 | fichas/tc/2010-03.md |
+| RJ2009/8316 | 2010-06-29 | aceito | O Colegiado, por maioria, aceitou proposta de termo de compromisso de cinco administradores da Kepler Weber S.A. (R$ 100.000,00 cada)… | cvm-col-20100629-d01 | fichas/tc/2010-03.md |
+| RJ2009/5744 | 2010-06-22 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso da Fator S.A. Corretora de Valores, de R$ 10.000,00, por não ser proporcional à… | cvm-col-20100622-d04 | fichas/tc/2010-03.md |
+| RJ2010/1281 | 2010-06-22 | rejeitado | O Colegiado rejeitou nova proposta de termo de compromisso, de R$ 16.673,41, apresentada pelo acusado de atuar como administrador de… | cvm-col-20100622-d03 | fichas/tc/2010-03.md |
+| RJ2009/9579 | 2010-06-22 | aceito | O Colegiado aceitou, por maioria, proposta de termo de compromisso de dois administradores da Santos Brasil Participações S.A., desde que o… | cvm-col-20100622-d02 | fichas/tc/2010-03.md |
+| RJ2010/0963 | 2010-06-22 | aceito | O Colegiado aceitou a proposta de termo de compromisso do proponente, acusado de negociar ações da Refinaria Ipiranga com informação… | cvm-col-20100622-d01 | fichas/tc/2010-03.md |
+| RJ2009/11007 | 2010-05-25 | rejeitado | O Colegiado rejeitou as três propostas de termo de compromisso apresentadas individualmente por membros do conselho de administração da… | cvm-col-20100525-d06 | fichas/tc/2010-03.md |
+| RJ2009/9443 | 2010-05-25 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso da gestora Delta-Hedge e de seu diretor responsável, de R$ 8.000,00, acompanhando o… | cvm-col-20100525-d05 | fichas/tc/2010-03.md |
+| RJ2009/5519 | 2010-05-25 | aceito | O Colegiado aceitou três propostas de termo de compromisso no PAS 16/2005 (CENTRUS), acompanhando o Comitê, que as considerou convenientes… | cvm-col-20100525-d04 | fichas/tc/2010-03.md |
+| RJ2009/6713 | 2010-05-25 | aceito | O Colegiado aceitou nova proposta de termo de compromisso do acusado, à época diretor de RI da Petrobras, de pagar R$ 1.000.000,00 à CVM… | cvm-col-20100525-d03 | fichas/tc/2010-02.md |
+| 06/2007 | 2010-05-18 | rejeitado | O Colegiado rejeitou nova proposta de termo de compromisso, apresentada por dois acusados em pedido de reconsideração no PAS 06/2007, de R$… | cvm-col-20100518-d01 | fichas/tc/2010-02.md |
+| RJ2009/9982 | 2010-05-11 | rejeitado | O Colegiado rejeitou duas propostas de termo de compromisso de ex-acionistas da Têxtil Renauxview S.A. por divulgação incompleta sobre… | cvm-col-20100511-d01 | fichas/tc/2010-02.md |
+| 02/2008 | 2010-04-27 | rejeitado | O Colegiado, em embargos que reiteravam proposta de termo de compromisso no PAS 02/2008, esclareceu que a proposta guarda-chuva rejeitada… | cvm-col-20100427-d08 | fichas/tc/2010-02.md |
+| RJ2009/5286; RJ2010/9731 | 2010-04-13 | aceito | O Colegiado aprovou, em 13/04/2010, a proposta de termo de compromisso da Natixis no PAS RJ2009/5286: pagamento de R$ 200.000,00 à CVM e… | cvm-tc-rj2009-5286-20100413 | fichas/tc/2010-02.md |
+| RJ2009/9731 | 2010-04-13 | aceito | O Colegiado aceitou nova proposta de termo de compromisso da Natixis, investidora não residente acusada de não comunicar à CVM, no prazo, a… | cvm-col-20100413-d05 | fichas/tc/2010-02.md |
+| RJ2009/8196 | 2010-04-13 | aceito | O Colegiado aceitou duas propostas de termo de compromisso (R$ 150.000,00, de três proponentes; R$ 200.000,00, de quatro) em processo por… | cvm-col-20100413-d04 | fichas/tc/2010-02.md |
+| RJ2010/1807 | 2010-04-13 | rejeitado | O Colegiado indeferiu pedido de reconsideração e rejeitou nova proposta de termo de compromisso de um acusado no PAS RJ2009/2172, por… | cvm-col-20100413-d03 | fichas/tc/2010-02.md |
+| RJ2009/13069 | 2010-04-13 | aceito | O Colegiado aceitou proposta de termo de compromisso de quatro administradores por suposta negociação de ações da Itaúsa antes de fato… | cvm-col-20100413-d02 | fichas/tc/2010-02.md |
+| RJ2010/0035 | 2010-03-23 | aceito | O Colegiado aceitou proposta de termo de compromisso da C&D Distribuidora no valor de R$ 50.000,00, acompanhando o parecer do Comitê… | cvm-col-20100323-d07 | fichas/tc/2010-02.md |
+| RJ2009/6832 | 2010-03-23 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso da Audimec Auditores Independentes S/S e de dois sócios responsáveis (PAS… | cvm-col-20100323-d06 | fichas/tc/2010-02.md |
+| RJ2009/10254 | 2010-03-23 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de controladores e membros do Conselho Consultivo do Banco Mercantil do Brasil S.A… | cvm-col-20100323-d05 | fichas/tc/2010-02.md |
+| RJ2009/8787 | 2010-03-23 | aceito | O Colegiado aceitou a proposta de termo de compromisso de uma corretora e de um diretor e rejeitou a da outra corretora e de seu diretor… | cvm-col-20100323-d04 | fichas/tc/2010-02.md |
+| IA02/2008 | 2010-03-16 | rejeitado | O Colegiado rejeitou a última proposta de termo de compromisso no IA 02/2008, apresentada por controladores e administradores da Brasil… | cvm-col-20100316-d01 | fichas/tc/2010-01.md |
+| RJ2009/2382 | 2010-03-02 | outro | O Colegiado rejeitou pedido do proponente, feito após a aceitação, em 15.12.09, de proposta de termo de compromisso de R$ 75.000,00 no PAS… | cvm-col-20100302-d01 | fichas/tc/2010-01.md |
+| RJ2009/6713 | 2010-02-09 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso apresentada por um acusado no PAS RJ2009/6713 por não considerá-la conveniente e… | cvm-col-20100209-d07 | fichas/tc/2010-01.md |
+| 24/2006 | 2010-02-09 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso no PAS 24/2006 (Telemig Celular S.A. e Amazônia Celular S.A.; art. 153 da Lei… | cvm-col-20100209-d06 | fichas/tc/2010-01.md |
+| RJ2009/4925 | 2010-02-09 | rejeitado | O Colegiado rejeitou nova proposta de termo de compromisso de um administrador da Lupatech S.A., de R$ 35.500,00, por alienação de ações… | cvm-col-20100209-d05 | fichas/tc/2010-01.md |
+| RJ2009/8224 | 2010-02-09 | rejeitado | O Colegiado rejeitou as duas propostas de termo de compromisso no PAS 03/2006 por operações fraudulentas, práticas não equitativas e… | cvm-col-20100209-d04 | fichas/tc/2010-01.md |
+| RJ2008/10302 | 2010-02-09 | aceito | O Colegiado aceitou a proposta de termo de compromisso da Pothencia Tecnologia Ambiental Ltda. em processo por suposta oferta pública sem… | cvm-col-20100209-d03 | fichas/tc/2010-01.md |
+| RJ2009/5519 | 2010-02-09 | outro | O Colegiado aceitou propostas de Termo de Compromisso de quatro grupos de proponentes, três por unanimidade e um por maioria, vencido um… | cvm-col-20100209-d01-r2 | fichas/tc/2010-01.md |
+| RJ2009/1503 | 2010-02-02 | outro | O Colegiado determinou o arquivamento do PAS RJ2009/1503 por cumprimento do Termo de Compromisso firmado pelo único acusado. Segundo a SAD… | cvm-col-20100202-d33 | fichas/tc/2010-01.md |
+| RJ2009/3082 | 2010-01-26 | aceito | O Colegiado aceitou a proposta de termo de compromisso do proponente, diretor da MRV Engenharia e Participações S.A., no PAS RJ2009/3082… | cvm-col-20100126-d08 | fichas/tc/2010-01.md |
+| RJ2009/4747 | 2010-01-26 | aceito | O Colegiado aceitou 13 propostas de termo de compromisso de administradores e acionistas controladores da Positivo Informática S.A… | cvm-col-20100126-d07 | fichas/tc/2010-01.md |
+| RJ2009/9731 | 2010-01-26 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de R$ 50.000,00 do investidor não residente acusado de não comunicar à CVM, no prazo… | cvm-col-20100126-d06 | fichas/tc/2010-01.md |
+| RJ2009/6226 | 2010-01-26 | rejeitado | O Colegiado, acompanhando o parecer do Comitê, rejeitou propostas de termo de compromisso de seis proponentes no PAS 06/2007, por operação… | cvm-col-20100126-d05 | fichas/tc/2010-01.md |
+| RJ2009/6349 | 2010-01-26 | rejeitado | O Colegiado rejeitou nova proposta de termo de compromisso de R$ 100.000,00 do acusado de uso de informação privilegiada em negociações com… | cvm-col-20100126-d02 | fichas/tc/2010-01.md |
+| RJ2009/5351 | 2010-01-26 | aceito | Propostas de termo de compromisso de dez acusados no PAS 19/2006 por omissão de fato relevante, falta de diligência e uso de informação… | cvm-col-20100126-d01 | fichas/tc/2010-01.md |
 
 Fim do subíndice.

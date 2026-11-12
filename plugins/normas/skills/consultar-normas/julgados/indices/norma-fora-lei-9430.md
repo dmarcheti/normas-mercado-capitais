@@ -38,14 +38,14 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 75 | acordao-crsfn | 06/2012 | 2021-12-07 | condenacao | crsfn-10372-100268-2019-94 | fichas/crsfn/2021-04.md |
+| art. 75 | acordao-crsfn | 06/2012 | 2021-12-07 | condenacao | crsfn-10372-100268-2019-94 | fichas/crsfn/2021-06.md |
 
 ## Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.004919/2016-77 | 2017-08-15 | outro | cvm-col-20170815-d0555 | fichas/colegiado/2017-14.md |
-| acordao-crsfn | RJ-2008-11199 | 2014-08-26 | arquivamento | crsfn-12839 | fichas/crsfn/2014-04.md |
+| acordao-crsfn | RJ-2008-11199 | 2014-08-26 | arquivamento | crsfn-12839 | fichas/crsfn/2014-05.md |
 | decisao-colegiado | RJ2012/3677 | 2014-01-07 | nao-provido | cvm-col-20140107-d10 | fichas/colegiado/2014-01.md |
 | decisao-colegiado | RJ2012/3663 | 2013-07-09 | nao-provido | cvm-col-20130709-d06 | fichas/colegiado/2013-13.md |
 | decisao-colegiado | RJ2013/0460 | 2013-04-02 | nao-provido | cvm-col-20130402-d05 | fichas/colegiado/2013-08.md |
@@ -53,7 +53,7 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2012/11715 | 2013-01-08 | nao-provido | cvm-col-20130108-d01 | fichas/colegiado/2013-01.md |
 | decisao-colegiado | RJ2012/6520 | 2012-07-31 | nao-provido | cvm-col-20120731-d04 | fichas/colegiado/2012-13.md |
 | decisao-colegiado | RJ2008/7781 | 2008-10-07 | nao-provido | cvm-col-20081007-d16 | fichas/colegiado/2008-22.md |
-| pas | 07/2002 | 2004-11-22 | parcial | cvm-pas-07-2002 | fichas/pas/2004-07.md |
+| pas | 07/2002 | 2004-11-22 | parcial | cvm-pas-07-2002 | fichas/pas/2004-14.md |
 | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
 | decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
 | decisao-antiga | — | 1999-01-29 | — | cvm-dec-1999-0001 | fichas/decisoes-antigas/1999-28.md |

@@ -5,84 +5,84 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
-| Tipo | Processo | Data | Resultado | Id | Ficha |
-|---|---|---|---|---|---|
-| decisao-colegiado | 19957.013782/2024-51 | 2025-06-10 | nao-provido | cvm-col-20250610-d3290 | fichas/colegiado/2025-05.md |
-| acordao-crsfn | 19957.004810/2019-82 | 2025-06-04 | parcial | crsfn-10372-000170-2024-03 | fichas/crsfn/2025-03.md |
-| decisao-colegiado | 19957.019375/2024-58 | 2025-03-18 | outro | cvm-col-20250318-d3233 | fichas/colegiado/2025-02.md |
-| decisao-colegiado | 19957.014176/2023-72 | 2024-10-29 | provido | cvm-col-20241029-d3158 | fichas/colegiado/2024-12.md |
-| decisao-colegiado | 17/2021; 19957.012150/2022-17 | 2024-10-01 | — | cvm-col-20241001-d3140 | fichas/colegiado/2024-10.md |
-| pas | 19957.004810/2019-82 | 2024-09-03 | parcial | cvm-pas-19957-004810-2019-82 | fichas/pas/2024-07.md |
-| decisao-colegiado | 19957.005052/2021-34 | 2024-02-06 | conhecimento | cvm-col-20240206-d3016 | fichas/colegiado/2024-02.md |
-| decisao-colegiado | 19957.008897/2021-81 | 2022-09-27 | outro | cvm-col-20220927-d2689 | fichas/colegiado/2022-14.md |
-| decisao-colegiado | 19957.010732/2022-51 | 2022-09-13 | deferido | cvm-col-20220913-d2684 | fichas/colegiado/2022-13.md |
-| decisao-colegiado | 19957.007680/2020-73 | 2022-09-13 | parcial | cvm-col-20220913-d2642 | fichas/colegiado/2022-13.md |
-| decisao-colegiado | 19957.007680/2020-73 | 2022-07-05 | — | cvm-col-20220705-d2642 | fichas/colegiado/2022-11.md |
-| termo-compromisso | 19957.004810/2019-82; 19957.003576/2020-18; 19957.008816/2018-48; 19957.003673/2020-01 | 2021-11-23 | aceito | cvm-col-20211123-d2085 | fichas/tc/2021-08.md |
-| decisao-colegiado | 05/2020; 19957.000471/2019-65 | 2021-11-04 | outro | cvm-col-20211104-d1640 | fichas/colegiado/2021-19.md |
-| decisao-colegiado | 05/2020; 19957.000471/2019-65 | 2021-10-20 | — | cvm-col-20211020-d1640 | fichas/colegiado/2021-17.md |
-| decisao-colegiado | 19957.003851/2021-76 | 2021-09-09 | nao-provido | cvm-col-20210909-d2300 | fichas/colegiado/2021-15.md |
-| termo-compromisso | 19957.010194/2019-07 | 2021-04-06 | rejeitado | cvm-col-20210406-d1973 | fichas/tc/2021-02.md |
-| decisao-colegiado | 19957.000001/2021-16 | 2021-01-26 | provido | cvm-col-20210126-d2039 | fichas/colegiado/2021-02.md |
-| decisao-colegiado | 19957.000471/2019-65 | 2020-07-08 | outro | cvm-col-20200708-d1640 | fichas/colegiado/2020-11.md |
-| decisao-colegiado | 19957.000471/2019-65 | 2020-07-01 | — | cvm-col-20200701-d1640 | fichas/colegiado/2020-10.md |
-| decisao-colegiado | 19957.000471/2019-65 | 2020-04-22 | outro | cvm-col-20200422-d1640 | fichas/colegiado/2020-07.md |
-| decisao-colegiado | 19957.008097/2019-46 | 2019-10-08 | provido | cvm-col-20191008-d1564 | fichas/colegiado/2019-16.md |
-| decisao-colegiado | 19957.006483/2019-01 | 2019-09-10 | nao-provido | cvm-col-20190910-d1530 | fichas/colegiado/2019-14.md |
-| decisao-colegiado | 19957.001522/2017-12 | 2019-07-02 | outro | cvm-col-20190702-d1365 | fichas/colegiado/2019-10.md |
-| decisao-colegiado | 19957.000395/2019-98 | 2019-05-21 | deferido | cvm-col-20190521-d1409 | fichas/colegiado/2019-08.md |
-| decisao-colegiado | 19957.001522/2017-12 | 2019-04-09 | — | cvm-col-20190409-d1365 | fichas/colegiado/2019-06.md |
-| decisao-colegiado | 19957.011356/2018-35 | 2019-01-22 | indeferido | cvm-col-20190122-d1285 | fichas/colegiado/2019-01.md |
-| decisao-colegiado | 19957.011207/2018-76 | 2019-01-22 | indeferido | cvm-col-20190122-d1284 | fichas/colegiado/2019-01.md |
-| decisao-colegiado | 19957.009605/2018-22 | 2019-01-22 | deferido | cvm-col-20190122-d1279 | fichas/colegiado/2019-01.md |
-| decisao-colegiado | 19957.009340/2018-62 | 2019-01-08 | deferido | cvm-col-20190108-d1272 | fichas/colegiado/2019-01.md |
-| pas | RJ2017/3455 | 2018-10-23 | absolvicao | cvm-pas-rj2017-3455 | fichas/pas/2018-08.md |
-| decisao-colegiado | 19957.005037/2018-91 | 2018-07-17 | indeferido | cvm-col-20180717-d1070 | fichas/colegiado/2018-13.md |
-| decisao-colegiado | 01/2017; RJ2014/11167 | 2018-06-27 | — | cvm-col-20180627-d0666 | fichas/colegiado/2018-11.md |
-| decisao-colegiado | 01/2017; RJ2014/11167 | 2018-06-13 | — | cvm-col-20180613-d0666 | fichas/colegiado/2018-10.md |
-| decisao-colegiado | 19957.001939/2018-58 | 2018-05-22 | deferido | cvm-col-20180522-d1043 | fichas/colegiado/2018-09.md |
-| decisao-colegiado | 19957.001556/2018-80 | 2018-03-01 | deferido | cvm-col-20180301-d0984 | fichas/colegiado/2018-05.md |
-| decisao-colegiado | 19957.008927/2017-73 | 2018-01-16 | parcial | cvm-col-20180116-d0894 | fichas/colegiado/2018-01.md |
-| decisao-colegiado | 19957.010578/2017-50 | 2017-12-12 | deferido | cvm-col-20171212-d0869 | fichas/colegiado/2017-20.md |
-| decisao-colegiado | 19957.006751/2017-15 | 2017-11-21 | parcial | cvm-col-20171121-d0845 | fichas/colegiado/2017-19.md |
-| decisao-colegiado | 19957.009618/2016-30 | 2017-06-26 | nao-provido | cvm-col-20170626-d0603 | fichas/colegiado/2017-12.md |
-| decisao-colegiado | 19957.004809/2017-96 | 2017-06-06 | outro | cvm-col-20170606-d0695 | fichas/colegiado/2017-11.md |
-| decisao-colegiado | 19957.001682/2017-53 | 2017-05-02 | deferido | cvm-col-20170502-d0669 | fichas/colegiado/2017-09.md |
-| decisao-colegiado | RJ2014/11167 | 2017-04-25 | outro | cvm-col-20170425-d0666 | fichas/colegiado/2017-09.md |
-| decisao-colegiado | RJ2014/11167 | 2017-04-05 | — | cvm-col-20170405-d0666 | fichas/colegiado/2017-07.md |
-| decisao-colegiado | RJ2014/11167 | 2017-03-22 | — | cvm-col-20170322-d0666 | fichas/colegiado/2017-06.md |
-| decisao-colegiado | 19957.000040/2017-37 | 2017-02-21 | deferido | cvm-col-20170221-d0586 | fichas/colegiado/2017-05.md |
-| decisao-colegiado | 19957.009281/2016-61 | 2017-01-24 | deferido | cvm-col-20170124-d0553 | fichas/colegiado/2017-02.md |
-| decisao-colegiado | RJ2012/0373 | 2016-11-22 | outro | cvm-col-20161122-d8089 | fichas/colegiado/2016-23.md |
-| decisao-colegiado | 19957.001669/2016-13 | 2016-08-30 | provido | cvm-col-20160830-d0291 | fichas/colegiado/2016-16.md |
-| decisao-colegiado | 19957.000587/2016-51 | 2016-08-16 | deferido | cvm-col-20160816-d0331 | fichas/colegiado/2016-16.md |
-| decisao-colegiado | 19957.001669/2016-13 | 2016-07-05 | — | cvm-col-20160705-d0291 | fichas/colegiado/2016-13.md |
-| decisao-colegiado | 28/1983; RJ2012/3268 | 2015-11-11 | — | cvm-col-20151111-d93 | fichas/colegiado/2015-21.md |
-| decisao-colegiado | 28/1983; RJ2012/3268 | 2015-10-14 | — | cvm-col-20151014-d093 | fichas/colegiado/2015-19.md |
-| decisao-colegiado | RJ2015/6419 | 2015-08-25 | deferido | cvm-col-20150825-d9805 | fichas/colegiado/2015-15.md |
-| decisao-colegiado | RJ2013/8860 | 2013-11-26 | deferido | cvm-col-20131126-d02 | fichas/colegiado/2013-22.md |
-| decisao-colegiado | RJ2013/5929 | 2013-08-27 | deferido | cvm-col-20130827-d03 | fichas/colegiado/2013-16.md |
-| decisao-colegiado | RJ2012/12177 | 2013-04-09 | outro | cvm-col-20130409-d08 | fichas/colegiado/2013-09.md |
-| decisao-colegiado | RJ2012/12177 | 2013-03-26 | outro | cvm-col-20130326-d04 | fichas/colegiado/2013-07.md |
-| decisao-colegiado | RJ2011/12976 | 2013-03-05 | nao-provido | cvm-col-20130305-d04 | fichas/colegiado/2013-06.md |
-| decisao-colegiado | RJ2011/7375 | 2012-05-22 | outro | cvm-col-20120522-d03 | fichas/colegiado/2012-09.md |
-| termo-compromisso | 12/2009 | 2011-05-10 | aceito | cvm-col-20110510-d07 | fichas/tc/2011-02.md |
-| acordao-crsfn | RJ-2003-5137 | 2010-10-27 | absolvicao | crsfn-11433 | fichas/crsfn/2010-08.md |
-| termo-compromisso | RJ2010/0035 | 2010-03-23 | aceito | cvm-col-20100323-d07 | fichas/tc/2010-02.md |
-| termo-compromisso | RJ2006/1077 | 2009-09-15 | aceito | cvm-col-20090915-d07 | fichas/tc/2009-06.md |
-| decisao-colegiado | RJ2009/5863 | 2009-07-28 | indeferido | cvm-col-20090728-d03 | fichas/colegiado/2009-14.md |
-| decisao-colegiado | RJ2007/5163 | 2007-08-07 | deferido | cvm-col-20070807-d08 | fichas/colegiado/2007-14.md |
-| decisao-colegiado | RJ2007/0547 | 2007-07-10 | nao-provido | cvm-col-20070710-d22 | fichas/colegiado/2007-13.md |
-| decisao-colegiado | RJ2005/5211 | 2007-05-08 | indeferido | cvm-col-20070508-d05 | fichas/colegiado/2007-07.md |
-| decisao-colegiado | RJ2006/3140 | 2006-07-25 | provido | cvm-col-20060725-d04 | fichas/colegiado/2006-11.md |
-| decisao-colegiado | RJ2003/5400 | 2006-07-11 | deferido | cvm-col-20060711-d01 | fichas/colegiado/2006-10.md |
-| pas | RJ2003/5137 | 2006-03-29 | absolvicao | cvm-pas-rj2003-5137 | fichas/pas/2006-02.md |
-| decisao-colegiado | RJ2005/3686 | 2005-11-22 | deferido | cvm-col-20051122-d04 | fichas/colegiado/2005-18.md |
-| decisao-colegiado | RJ2004/2558 | 2004-11-30 | outro | cvm-col-20041130-d04 | fichas/colegiado/2004-15.md |
-| decisao-colegiado | RJ2003/6669 | 2003-11-25 | deferido | cvm-col-20031125-d04 | fichas/colegiado/2003-14.md |
-| decisao-colegiado | RJ2003/5639 | 2003-11-18 | nao-provido | cvm-col-20031118-d07 | fichas/colegiado/2003-13.md |
-| decisao-colegiado | RJ2002/3032 | 2003-05-13 | nao-provido | cvm-col-20030513-d03 | fichas/colegiado/2003-06.md |
-| decisao-colegiado | RJ2002/7031 | 2002-10-15 | deferido | cvm-col-20021015-d06 | fichas/colegiado/2002-24.md |
-| decisao-colegiado | RJ2001/1981 | 2002-05-14 | outro | cvm-col-20020514-d01 | fichas/colegiado/2002-11.md |
+| Tipo | Processo | Data | Resultado | Ementa | Id | Ficha |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.013782/2024-51 | 2025-06-10 | nao-provido | O Colegiado negou provimento, por unanimidade, a recurso do Grupo Casas Bahia S.A. contra manifestação da SSE que impede a prorrogação do… | cvm-col-20250610-d3290 | fichas/colegiado/2025-05.md |
+| acordao-crsfn | 19957.004810/2019-82 | 2025-06-04 | parcial | RECURSO ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. FALHA NO DEVER DE INFORMAÇÃO. FALHA NO DEVER DE DILIGÊNCIA. CONFLITO DE INTERESSES… | crsfn-10372-000170-2024-03 | fichas/crsfn/2025-04.md |
+| decisao-colegiado | 19957.019375/2024-58 | 2025-03-18 | outro | O Colegiado, por unanimidade, acompanhou a SSE na consulta da ANBIMA sobre DFs de devedores e coobrigados em securitização (arts. 43-A e 51… | cvm-col-20250318-d3233 | fichas/colegiado/2025-02.md |
+| decisao-colegiado | 19957.014176/2023-72 | 2024-10-29 | provido | O Colegiado, por unanimidade, proveu recurso da Forte Securitizadora S.A. contra a SSE: na ausência de norma expressa, o quórum de… | cvm-col-20241029-d3158 | fichas/colegiado/2024-12.md |
+| decisao-colegiado | 17/2021; 19957.012150/2022-17 | 2024-10-01 | — | Recurso da Pentágono S.A. DTVM contra entendimento da SSE sobre conflito de interesses na atuação de agentes fiduciários (art. 6º da RCVM… | cvm-col-20241001-d3140 | fichas/colegiado/2024-10.md |
+| pas | 19957.004810/2019-82 | 2024-09-03 | parcial | Possíveis irregularidades em emissão de debêntures e emissão de certificados de recebíveis imobiliários – operações fraudulentas (Instrução… | cvm-pas-19957-004810-2019-82 | fichas/pas/2024-14.md |
+| decisao-colegiado | 19957.005052/2021-34 | 2024-02-06 | conhecimento | O Colegiado não conheceu, por unanimidade, do recurso da Pôr do Sol Urbanizações contra decisão da SSE que arquivou reclamação sobre CRI da… | cvm-col-20240206-d3016 | fichas/colegiado/2024-02.md |
+| decisao-colegiado | 19957.008897/2021-81 | 2022-09-27 | outro | O Colegiado decidiu, por unanimidade, devolver à SSE o recurso da Galápagos Capital contra decisão da SSE sobre interpretação do lastro de… | cvm-col-20220927-d2689 | fichas/colegiado/2022-14.md |
+| decisao-colegiado | 19957.010732/2022-51 | 2022-09-13 | deferido | O Colegiado deferiu, acompanhando a SSE, o pedido do Banco Itaú BBA S.A. de desobrigação de averbação, nas matrículas dos imóveis, dos… | cvm-col-20220913-d2684 | fichas/colegiado/2022-13.md |
+| decisao-colegiado | 19957.007680/2020-73 | 2022-09-13 | parcial | O Colegiado deu provimento parcial ao recurso contra entendimento da SSE sobre CRA de reembolso. Por unanimidade, proveu o item I… | cvm-col-20220913-d2642 | fichas/colegiado/2022-13.md |
+| decisao-colegiado | 19957.007680/2020-73 | 2022-07-05 | — | Recurso da XP Investimentos contra entendimento da SSE sobre a interpretação da Lei nº 11.076/2004 e da Resolução CVM nº 60/2021… | cvm-col-20220705-d2642 | fichas/colegiado/2022-11.md |
+| termo-compromisso | 19957.004810/2019-82; 19957.003576/2020-18; 19957.008816/2018-48; 19957.003673/2020-01 | 2021-11-23 | aceito | O Colegiado, acompanhando o Comitê, rejeitou a proposta em um dos quatro PAS e aceitou as de outros três, da Vórtx DTVM, como agente… | cvm-col-20211123-d2085 | fichas/tc/2021-08.md |
+| decisao-colegiado | 05/2020; 19957.000471/2019-65 | 2021-11-04 | outro | O Colegiado aprovou a Resolução CVM nº 60/2021, que cria regime próprio para companhias securitizadoras e para emissões públicas de títulos… | cvm-col-20211104-d1640 | fichas/colegiado/2021-19.md |
+| decisao-colegiado | 05/2020; 19957.000471/2019-65 | 2021-10-20 | — | O Colegiado deu continuidade à discussão do resultado da Audiência Pública SDM nº 05/2020 sobre a minuta de resolução aplicável às… | cvm-col-20211020-d1640 | fichas/colegiado/2021-17.md |
+| decisao-colegiado | 19957.003851/2021-76 | 2021-09-09 | nao-provido | Por maioria, vencido um dos diretores, o Colegiado negou provimento a recurso contra exigência da SRE para aprimoramento dos mecanismos de… | cvm-col-20210909-d2300 | fichas/colegiado/2021-15.md |
+| termo-compromisso | 19957.010194/2019-07 | 2021-04-06 | rejeitado | O Colegiado rejeitou proposta de Termo de Compromisso de R$ 154.500,00 apresentada pelo agente fiduciário de emissão de debêntures (ICVM… | cvm-col-20210406-d1973 | fichas/tc/2021-02.md |
+| decisao-colegiado | 19957.000001/2021-16 | 2021-01-26 | provido | O Colegiado deu provimento, por unanimidade, a recurso da True Securitizadora contra entendimento da SRE que exigia deliberação societária… | cvm-col-20210126-d2039 | fichas/colegiado/2021-02.md |
+| decisao-colegiado | 19957.000471/2019-65 | 2020-07-08 | outro | O Colegiado aprovou submeter à audiência pública minuta de norma específica para companhias securitizadoras de direitos creditórios, hoje… | cvm-col-20200708-d1640 | fichas/colegiado/2020-11.md |
+| decisao-colegiado | 19957.000471/2019-65 | 2020-07-01 | — | O Colegiado iniciou a discussão de minuta de nova norma sobre companhias securitizadoras, com alterações nas Instruções CVM 358/02, 414/04… | cvm-col-20200701-d1640 | fichas/colegiado/2020-10.md |
+| decisao-colegiado | 19957.000471/2019-65 | 2020-04-22 | outro | Após apresentação da SDM sobre a indústria de companhias securitizadoras e proposta de estrutura para nova norma, o Colegiado orientou a… | cvm-col-20200422-d1640 | fichas/colegiado/2020-07.md |
+| decisao-colegiado | 19957.008097/2019-46 | 2019-10-08 | provido | O Colegiado deu provimento, por unanimidade, a recurso da True Securitizadora contra exigência da SRE no registro de oferta de CRI, que… | cvm-col-20191008-d1564 | fichas/colegiado/2019-16.md |
+| decisao-colegiado | 19957.006483/2019-01 | 2019-09-10 | nao-provido | O Colegiado, por unanimidade e acompanhando a SRE, negou provimento ao recurso da True Securitizadora contra exigência que restringiu a… | cvm-col-20190910-d1530 | fichas/colegiado/2019-14.md |
+| decisao-colegiado | 19957.001522/2017-12 | 2019-07-02 | outro | O Colegiado, por unanimidade, acompanhando o voto de uma diretora, entendeu possível estruturar CRI com lastro em crédito imobiliário por… | cvm-col-20190702-d1365 | fichas/colegiado/2019-10.md |
+| decisao-colegiado | 19957.000395/2019-98 | 2019-05-21 | deferido | O Colegiado, por unanimidade, acompanhando a SRE, deferiu o pedido da Vert Companhia Securitizadora de dispensa de comprovar previamente a… | cvm-col-20190521-d1409 | fichas/colegiado/2019-08.md |
+| decisao-colegiado | 19957.001522/2017-12 | 2019-04-09 | — | Consulta da XP Investimentos CCTVM S.A. e outro sobre a possibilidade de estruturar CRI com lastro em crédito imobiliário que envolva o… | cvm-col-20190409-d1365 | fichas/colegiado/2019-06.md |
+| decisao-colegiado | 19957.011356/2018-35 | 2019-01-22 | indeferido | O Colegiado, por maioria, indeferiu o pedido do agente fiduciário para renunciar, sem substituto, à 1ª emissão de debêntures da Mega… | cvm-col-20190122-d1285 | fichas/colegiado/2019-01.md |
+| decisao-colegiado | 19957.011207/2018-76 | 2019-01-22 | indeferido | O Colegiado, por maioria, indeferiu pedido de renúncia do agente fiduciário sem substituto em emissão de debêntures da OAS S.A., divergindo… | cvm-col-20190122-d1284 | fichas/colegiado/2019-01.md |
+| decisao-colegiado | 19957.009605/2018-22 | 2019-01-22 | deferido | O Colegiado deferiu pedido de registro de oferta de CRA da Vert Companhia Securitizadora, lastreados em debêntures da Vamos, por enquadrar… | cvm-col-20190122-d1279 | fichas/colegiado/2019-01.md |
+| decisao-colegiado | 19957.009340/2018-62 | 2019-01-08 | deferido | O Colegiado deferiu, por unanimidade, tratamento confidencial à localização e à matrícula de cerca de 1.900 imóveis destinatários dos… | cvm-col-20190108-d1272 | fichas/colegiado/2019-01.md |
+| pas | RJ2017/3455 | 2018-10-23 | absolvicao | Apuração de responsabilidade de agente fiduciário de debenturistas pela não declaração do vencimento antecipado de debêntures da companhia… | cvm-pas-rj2017-3455 | fichas/pas/2018-16.md |
+| decisao-colegiado | 19957.005037/2018-91 | 2018-07-17 | indeferido | O Colegiado, por unanimidade, indeferiu o pedido de dispensa de requisitos para a oferta de CRA da Vert Companhia Securitizadora… | cvm-col-20180717-d1070 | fichas/colegiado/2018-13.md |
+| decisao-colegiado | 01/2017; RJ2014/11167 | 2018-06-27 | — | O Colegiado continuou a discussão da minuta de Instrução, elaborada após a Audiência Pública SDM 01/2017, sobre o regime dos Certificados… | cvm-col-20180627-d0666 | fichas/colegiado/2018-11.md |
+| decisao-colegiado | 01/2017; RJ2014/11167 | 2018-06-13 | — | O Colegiado deu início à discussão da minuta de instrução, elaborada após a Audiência Pública SDM 01/2017, sobre o regime dos CRA objeto de… | cvm-col-20180613-d0666 | fichas/colegiado/2018-10.md |
+| decisao-colegiado | 19957.001939/2018-58 | 2018-05-22 | deferido | O Colegiado deferiu, por unanimidade, dispensa do requisito de devedor empresarial com demonstrações auditadas nos moldes da LSA (Instrução… | cvm-col-20180522-d1043 | fichas/colegiado/2018-09.md |
+| decisao-colegiado | 19957.001556/2018-80 | 2018-03-01 | deferido | O Colegiado prorrogou o prazo para agentes fiduciários enviarem informações cadastrais (art. 20 da ICVM 583/2016), que vencia em 02.03.18… | cvm-col-20180301-d0984 | fichas/colegiado/2018-05.md |
+| decisao-colegiado | 19957.008927/2017-73 | 2018-01-16 | parcial | Por maioria, divergindo da área técnica, o Colegiado deu provimento a recurso contra exigência da SRE que excluía do lastro de CRI os… | cvm-col-20180116-d0894 | fichas/colegiado/2018-01.md |
+| decisao-colegiado | 19957.010578/2017-50 | 2017-12-12 | deferido | O Colegiado deferiu, por unanimidade, registro de oferta pública de CRI da RB Capital, lastreado em CCI de debêntures da Rede D'Or São… | cvm-col-20171212-d0869 | fichas/colegiado/2017-20.md |
+| decisao-colegiado | 19957.006751/2017-15 | 2017-11-21 | parcial | O Colegiado, por maioria, indeferiu recurso da Vert contra exigências da SRE ao registro de oferta de CRA com lastro em notas promissórias… | cvm-col-20171121-d0845 | fichas/colegiado/2017-19.md |
+| decisao-colegiado | 19957.009618/2016-30 | 2017-06-26 | nao-provido | O Colegiado negou provimento a recurso de securitizadora e banco contra exigências da SRE em pedido de registro de oferta de CRI lastreados… | cvm-col-20170626-d0603 | fichas/colegiado/2017-12.md |
+| decisao-colegiado | 19957.004809/2017-96 | 2017-06-06 | outro | O Colegiado aprovou a edição de Deliberação que delega à SRE competência para apreciar pedidos de dispensa dos incisos I e II do art. 6º da… | cvm-col-20170606-d0695 | fichas/colegiado/2017-11.md |
+| decisao-colegiado | 19957.001682/2017-53 | 2017-05-02 | deferido | O Colegiado concedeu, por unanimidade, dispensa dos incisos I e II do art. 6º da Instrução CVM 414/2004 para a 25ª série da 1ª emissão de… | cvm-col-20170502-d0669 | fichas/colegiado/2017-09.md |
+| decisao-colegiado | RJ2014/11167 | 2017-04-25 | outro | O Colegiado aprovou, para audiência pública até 14.7.2017, minuta de Instrução sobre o regime dos CRA objeto de oferta pública de… | cvm-col-20170425-d0666 | fichas/colegiado/2017-09.md |
+| decisao-colegiado | RJ2014/11167 | 2017-04-05 | — | O Colegiado continuou a discussão da minuta de instrução sobre o regime dos CRA objeto de oferta pública de distribuição, sem deliberação… | cvm-col-20170405-d0666 | fichas/colegiado/2017-07.md |
+| decisao-colegiado | RJ2014/11167 | 2017-03-22 | — | O Colegiado iniciou a discussão da minuta de Instrução sobre o regime dos Certificados de Recebíveis do Agronegócio objeto de oferta… | cvm-col-20170322-d0666 | fichas/colegiado/2017-06.md |
+| decisao-colegiado | 19957.000040/2017-37 | 2017-02-21 | deferido | O Colegiado deferiu pedido de agente fiduciário para encerrar seus serviços e permitir o prosseguimento da 1ª emissão pública de debêntures… | cvm-col-20170221-d0586 | fichas/colegiado/2017-05.md |
+| decisao-colegiado | 19957.009281/2016-61 | 2017-01-24 | deferido | O Colegiado deferiu à RB Capital a dispensa dos incisos I e II do art. 6º da ICVM 414/2004 para a 145ª série de CRI, permitindo oferta a… | cvm-col-20170124-d0553 | fichas/colegiado/2017-02.md |
+| decisao-colegiado | RJ2012/0373 | 2016-11-22 | outro | O Colegiado declarou a perda do objeto do recurso de Banco Fator S.A. e Gaia Securitizadora S.A. contra o indeferimento do registro… | cvm-col-20161122-d8089 | fichas/colegiado/2016-23.md |
+| decisao-colegiado | 19957.001669/2016-13 | 2016-08-30 | provido | Por maioria, o Colegiado proveu recurso da Eco Securitizadora e da XP contra a SRE, que não admitia o registro de CRA da 79ª série com… | cvm-col-20160830-d0291 | fichas/colegiado/2016-16.md |
+| decisao-colegiado | 19957.000587/2016-51 | 2016-08-16 | deferido | O Colegiado deferiu a dispensa dos incisos I e II do art. 6º da Instrução 414 na 1ª série da 5ª emissão de CRI da Brazil Realty Companhia… | cvm-col-20160816-d0331 | fichas/colegiado/2016-16.md |
+| decisao-colegiado | 19957.001669/2016-13 | 2016-07-05 | — | O Colegiado iniciou a discussão do registro de oferta pública de CRA da Eco Securitizadora de Direitos Creditórios do Agronegócio S.A… | cvm-col-20160705-d0291 | fichas/colegiado/2016-13.md |
+| decisao-colegiado | 28/1983; RJ2012/3268 | 2015-11-11 | — | O Colegiado deu continuidade à discussão da minuta de nova norma sobre agente fiduciário, destinada a revogar a Instrução CVM 28/1983, sem… | cvm-col-20151111-d93 | fichas/colegiado/2015-21.md |
+| decisao-colegiado | 28/1983; RJ2012/3268 | 2015-10-14 | — | O Colegiado iniciou a discussão de nova regulamentação sobre agente fiduciário, em substituição à Instrução CVM 28/1983, sem deliberação… | cvm-col-20151014-d093 | fichas/colegiado/2015-19.md |
+| decisao-colegiado | RJ2015/6419 | 2015-08-25 | deferido | O Colegiado, acompanhando a SRE, deferiu o registro da oferta de 750.000 CRA de R$ 1.000,00 cada, abaixo do mínimo de R$ 300.000,00 dos… | cvm-col-20150825-d9805 | fichas/colegiado/2015-15.md |
+| decisao-colegiado | RJ2013/8860 | 2013-11-26 | deferido | O Colegiado, por unanimidade, aprovou o registro da oferta da 10ª série de CRA da 1ª emissão da Octante Securitizadora S.A., com… | cvm-col-20131126-d02 | fichas/colegiado/2013-22.md |
+| decisao-colegiado | RJ2013/5929 | 2013-08-27 | deferido | O Colegiado, por unanimidade, autorizou o registro da oferta pública da 9ª série da 1ª emissão de CRA da Octante Securitizadora S.A… | cvm-col-20130827-d03 | fichas/colegiado/2013-16.md |
+| decisao-colegiado | RJ2012/12177 | 2013-04-09 | outro | O Colegiado indeferiu o efeito suspensivo pedido em reconsideração contra decisão que considerou que créditos de financiamento imobiliário… | cvm-col-20130409-d08 | fichas/colegiado/2013-09.md |
+| decisao-colegiado | RJ2012/12177 | 2013-03-26 | outro | Em consulta da SRE sobre oferta de CRI da Brazilian Securities Companhia de Securitização, o Colegiado, por unanimidade, discordou da área… | cvm-col-20130326-d04 | fichas/colegiado/2013-07.md |
+| decisao-colegiado | RJ2011/12976 | 2013-03-05 | nao-provido | O Colegiado, por unanimidade, acompanhando o voto da relatora, indeferiu o recurso da ECO Securitizadora contra decisão da SRE que negou… | cvm-col-20130305-d04 | fichas/colegiado/2013-06.md |
+| decisao-colegiado | RJ2011/7375 | 2012-05-22 | outro | O Colegiado determinou o arquivamento do PAS contra o único acusado, por cumprimento do termo de compromisso. Com base na SAD, o pagamento… | cvm-col-20120522-d03 | fichas/colegiado/2012-09.md |
+| termo-compromisso | 12/2009 | 2011-05-10 | aceito | O Colegiado aceitou as propostas de termo de compromisso no PAS 12/2009, sobre oferta de CRI da CSA – Companhia Securitizadora de Ativos… | cvm-col-20110510-d07 | fichas/tc/2011-02.md |
+| acordao-crsfn | RJ-2003-5137 | 2010-10-27 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários - Omissão nos termos das condições da escritura de emissão de debêntures… | crsfn-11433 | fichas/crsfn/2010-09.md |
+| termo-compromisso | RJ2010/0035 | 2010-03-23 | aceito | O Colegiado aceitou proposta de termo de compromisso da C&D Distribuidora no valor de R$ 50.000,00, acompanhando o parecer do Comitê… | cvm-col-20100323-d07 | fichas/tc/2010-02.md |
+| termo-compromisso | RJ2006/1077 | 2009-09-15 | aceito | O Colegiado, por maioria, aceitou a proposta de Termo de Compromisso de R$ 30.000,00 da Oliveira Trust DTVM S.A., apresentada antes da… | cvm-col-20090915-d07 | fichas/tc/2009-06.md |
+| decisao-colegiado | RJ2009/5863 | 2009-07-28 | indeferido | O Colegiado, por maioria, indeferiu pedido de dispensa da vedação da Instrução 28/83 (art. 10, I, a) à contratação de agente fiduciário do… | cvm-col-20090728-d03 | fichas/colegiado/2009-14.md |
+| decisao-colegiado | RJ2007/5163 | 2007-08-07 | deferido | O Colegiado concedeu as quatro dispensas pleiteadas na oferta da 5ª série de CRI da Rio Bravo Crédito Companhia de Securitização… | cvm-col-20070807-d08 | fichas/colegiado/2007-14.md |
+| decisao-colegiado | RJ2007/0547 | 2007-07-10 | nao-provido | O Colegiado negou provimento a recurso da Rio Bravo Crédito Companhia de Securitização e manteve a decisão da SRE que indeferiu o registro… | cvm-col-20070710-d22 | fichas/colegiado/2007-13.md |
+| decisao-colegiado | RJ2005/5211 | 2007-05-08 | indeferido | O Colegiado indeferiu a renúncia dos Bancos Tricury S.A. e Paulista S.A. como agentes fiduciários de debêntures da Feniciapar S.A. e… | cvm-col-20070508-d05 | fichas/colegiado/2007-07.md |
+| decisao-colegiado | RJ2006/3140 | 2006-07-25 | provido | O Colegiado deu provimento a recurso contra indeferimento de registro definitivo de CRI da CIBRASEC, nos termos do voto de um diretor… | cvm-col-20060725-d04 | fichas/colegiado/2006-11.md |
+| decisao-colegiado | RJ2003/5400 | 2006-07-11 | deferido | O Colegiado deferiu o pedido de renúncia da C&D DTVM Ltda. à função de agente fiduciário de debêntures simples, acompanhando o voto de um… | cvm-col-20060711-d01 | fichas/colegiado/2006-10.md |
+| pas | RJ2003/5137 | 2006-03-29 | absolvicao | Suposta violação, por parte de agente fiduciário, do disposto nos arts. 68, § 3º, a, da Lei nº 6.404/76 e 13 da Instrução CVM nº 28/83, que… | cvm-pas-rj2003-5137 | fichas/pas/2006-05.md |
+| decisao-colegiado | RJ2005/3686 | 2005-11-22 | deferido | O Colegiado deferiu pedido da Beta Securitizadora S.A. de prorrogação, por 150 dias contados de 13.10.05, da vigência do registro… | cvm-col-20051122-d04 | fichas/colegiado/2005-18.md |
+| decisao-colegiado | RJ2004/2558 | 2004-11-30 | outro | O Colegiado aprovou, com alterações, as minutas de Edital e de Instrução que dispõem sobre registro de companhia securitizadora de créditos… | cvm-col-20041130-d04 | fichas/colegiado/2004-15.md |
+| decisao-colegiado | RJ2003/6669 | 2003-11-25 | deferido | O Colegiado deferiu a prorrogação do prazo para o Banco Santander Brasil S.A. atender às exigências da área técnica no pedido de… | cvm-col-20031125-d04 | fichas/colegiado/2003-14.md |
+| decisao-colegiado | RJ2003/5639 | 2003-11-18 | nao-provido | O Colegiado negou provimento a recurso da Brazilian Securities contra decisão da SRE que indeferiu pedidos de registro definitivo de CRIs… | cvm-col-20031118-d07 | fichas/colegiado/2003-13.md |
+| decisao-colegiado | RJ2002/3032 | 2003-05-13 | nao-provido | O Colegiado negou provimento a recurso da CIBRASEC contra indeferimento, pela SRE, do registro definitivo de CRI, acompanhando o relator… | cvm-col-20030513-d03 | fichas/colegiado/2003-06.md |
+| decisao-colegiado | RJ2002/7031 | 2002-10-15 | deferido | O Colegiado concedeu prorrogação de 90 dias para cumprimento de exigências no registro de distribuição pública de CRI da Cibrasec, em razão… | cvm-col-20021015-d06 | fichas/colegiado/2002-24.md |
+| decisao-colegiado | RJ2001/1981 | 2002-05-14 | outro | O Colegiado acompanhou o voto que respondeu consulta da WT Administradora sobre CRIs lastreados em aluguéis de galpões industriais… | cvm-col-20020514-d01 | fichas/colegiado/2002-11.md |
 
 Fim do subíndice.

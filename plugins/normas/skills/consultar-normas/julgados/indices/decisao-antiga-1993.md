@@ -5,111 +5,111 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
-Uma linha por decisão (uma ficha `<id-anual>-NNNN`, na ordem do arquivo anual), da mais recente para a mais antiga: data da ata, processo (quando o título traz) e ficha. O título (`ementa` da ficha) vem do arquivo anual, que o conversor do PDF abriu em toda linha em caixa alta: títulos de 1997 a 2001 podem vir cortados ou imprecisos.
+Uma linha por decisão (uma ficha `<id-anual>-NNNN`, na ordem do arquivo anual), da mais recente para a mais antiga: data da ata, processo (quando o título traz), título da pauta (`ementa` da ficha, até 140 caracteres, nome de pessoa física trocado por "[pessoa física]") e ficha. O título vem do arquivo anual, que o conversor do PDF abriu em toda linha em caixa alta: títulos de 1997 a 2001 podem vir cortados ou imprecisos.
 
-| Data da ata | Processo | Id | Ficha |
-|---|---|---|---|
-| 1993-12-07 | — | cvm-dec-1993-0001 | fichas/decisoes-antigas/1993-04.md |
-| 1993-12-07 | — | cvm-dec-1993-0002 | fichas/decisoes-antigas/1993-04.md |
-| 1993-11-30 | — | cvm-dec-1993-0003 | fichas/decisoes-antigas/1993-04.md |
-| 1993-11-30 | — | cvm-dec-1993-0004 | fichas/decisoes-antigas/1993-04.md |
-| 1993-11-30 | — | cvm-dec-1993-0005 | fichas/decisoes-antigas/1993-04.md |
-| 1993-11-30 | — | cvm-dec-1993-0006 | fichas/decisoes-antigas/1993-04.md |
-| 1993-11-30 | — | cvm-dec-1993-0007 | fichas/decisoes-antigas/1993-04.md |
-| 1993-11-30 | — | cvm-dec-1993-0008 | fichas/decisoes-antigas/1993-04.md |
-| 1993-11-17 | — | cvm-dec-1993-0009 | fichas/decisoes-antigas/1993-04.md |
-| 1993-11-03 | — | cvm-dec-1993-0010 | fichas/decisoes-antigas/1993-04.md |
-| 1993-11-03 | — | cvm-dec-1993-0011 | fichas/decisoes-antigas/1993-04.md |
-| 1993-10-18 | — | cvm-dec-1993-0012 | fichas/decisoes-antigas/1993-04.md |
-| 1993-10-18 | — | cvm-dec-1993-0013 | fichas/decisoes-antigas/1993-04.md |
-| 1993-09-28 | — | cvm-dec-1993-0014 | fichas/decisoes-antigas/1993-04.md |
-| 1993-09-28 | — | cvm-dec-1993-0015 | fichas/decisoes-antigas/1993-04.md |
-| 1993-09-21 | — | cvm-dec-1993-0016 | fichas/decisoes-antigas/1993-04.md |
-| 1993-09-14 | — | cvm-dec-1993-0017 | fichas/decisoes-antigas/1993-04.md |
-| 1993-09-14 | — | cvm-dec-1993-0018 | fichas/decisoes-antigas/1993-04.md |
-| 1993-09-14 | — | cvm-dec-1993-0019 | fichas/decisoes-antigas/1993-04.md |
-| 1993-09-14 | — | cvm-dec-1993-0020 | fichas/decisoes-antigas/1993-04.md |
-| 1993-09-14 | — | cvm-dec-1993-0021 | fichas/decisoes-antigas/1993-04.md |
-| 1993-09-08 | — | cvm-dec-1993-0022 | fichas/decisoes-antigas/1993-04.md |
-| 1993-08-31 | — | cvm-dec-1993-0023 | fichas/decisoes-antigas/1993-04.md |
-| 1993-08-17 | — | cvm-dec-1993-0024 | fichas/decisoes-antigas/1993-04.md |
-| 1993-08-12 | — | cvm-dec-1993-0025 | fichas/decisoes-antigas/1993-04.md |
-| 1993-08-03 | — | cvm-dec-1993-0026 | fichas/decisoes-antigas/1993-03.md |
-| 1993-08-03 | — | cvm-dec-1993-0027 | fichas/decisoes-antigas/1993-03.md |
-| 1993-08-03 | — | cvm-dec-1993-0028 | fichas/decisoes-antigas/1993-03.md |
-| 1993-08-03 | — | cvm-dec-1993-0029 | fichas/decisoes-antigas/1993-03.md |
-| 1993-08-03 | — | cvm-dec-1993-0030 | fichas/decisoes-antigas/1993-04.md |
-| 1993-07-14 | — | cvm-dec-1993-0031 | fichas/decisoes-antigas/1993-03.md |
-| 1993-07-14 | — | cvm-dec-1993-0032 | fichas/decisoes-antigas/1993-03.md |
-| 1993-07-07 | — | cvm-dec-1993-0033 | fichas/decisoes-antigas/1993-03.md |
-| 1993-07-07 | — | cvm-dec-1993-0034 | fichas/decisoes-antigas/1993-03.md |
-| 1993-07-07 | — | cvm-dec-1993-0035 | fichas/decisoes-antigas/1993-03.md |
-| 1993-07-07 | — | cvm-dec-1993-0036 | fichas/decisoes-antigas/1993-03.md |
-| 1993-07-07 | — | cvm-dec-1993-0037 | fichas/decisoes-antigas/1993-03.md |
-| 1993-07-07 | — | cvm-dec-1993-0038 | fichas/decisoes-antigas/1993-03.md |
-| 1993-06-30 | — | cvm-dec-1993-0039 | fichas/decisoes-antigas/1993-03.md |
-| 1993-06-30 | — | cvm-dec-1993-0040 | fichas/decisoes-antigas/1993-03.md |
-| 1993-06-30 | — | cvm-dec-1993-0041 | fichas/decisoes-antigas/1993-03.md |
-| 1993-06-30 | — | cvm-dec-1993-0042 | fichas/decisoes-antigas/1993-03.md |
-| 1993-06-28 | — | cvm-dec-1993-0043 | fichas/decisoes-antigas/1993-03.md |
-| 1993-06-23 | — | cvm-dec-1993-0044 | fichas/decisoes-antigas/1993-03.md |
-| 1993-06-23 | — | cvm-dec-1993-0045 | fichas/decisoes-antigas/1993-03.md |
-| 1993-06-16 | — | cvm-dec-1993-0046 | fichas/decisoes-antigas/1993-03.md |
-| 1993-06-09 | — | cvm-dec-1993-0047 | fichas/decisoes-antigas/1993-03.md |
-| 1993-06-09 | — | cvm-dec-1993-0048 | fichas/decisoes-antigas/1993-03.md |
-| 1993-06-09 | — | cvm-dec-1993-0049 | fichas/decisoes-antigas/1993-03.md |
-| 1993-06-02 | — | cvm-dec-1993-0050 | fichas/decisoes-antigas/1993-02.md |
-| 1993-06-02 | — | cvm-dec-1993-0051 | fichas/decisoes-antigas/1993-02.md |
-| 1993-06-02 | — | cvm-dec-1993-0052 | fichas/decisoes-antigas/1993-03.md |
-| 1993-05-04 | — | cvm-dec-1993-0053 | fichas/decisoes-antigas/1993-02.md |
-| 1993-05-04 | — | cvm-dec-1993-0054 | fichas/decisoes-antigas/1993-02.md |
-| 1993-05-04 | — | cvm-dec-1993-0055 | fichas/decisoes-antigas/1993-02.md |
-| 1993-05-04 | — | cvm-dec-1993-0056 | fichas/decisoes-antigas/1993-02.md |
-| 1993-04-26 | — | cvm-dec-1993-0057 | fichas/decisoes-antigas/1993-02.md |
-| 1993-04-26 | — | cvm-dec-1993-0058 | fichas/decisoes-antigas/1993-02.md |
-| 1993-04-26 | — | cvm-dec-1993-0059 | fichas/decisoes-antigas/1993-02.md |
-| 1993-04-26 | — | cvm-dec-1993-0060 | fichas/decisoes-antigas/1993-02.md |
-| 1993-04-05 | — | cvm-dec-1993-0061 | fichas/decisoes-antigas/1993-02.md |
-| 1993-03-31 | — | cvm-dec-1993-0062 | fichas/decisoes-antigas/1993-01.md |
-| 1993-03-31 | — | cvm-dec-1993-0063 | fichas/decisoes-antigas/1993-01.md |
-| 1993-03-31 | — | cvm-dec-1993-0064 | fichas/decisoes-antigas/1993-01.md |
-| 1993-03-31 | — | cvm-dec-1993-0065 | fichas/decisoes-antigas/1993-01.md |
-| 1993-03-31 | — | cvm-dec-1993-0066 | fichas/decisoes-antigas/1993-01.md |
-| 1993-03-31 | — | cvm-dec-1993-0067 | fichas/decisoes-antigas/1993-01.md |
-| 1993-03-31 | — | cvm-dec-1993-0068 | fichas/decisoes-antigas/1993-01.md |
-| 1993-03-31 | — | cvm-dec-1993-0069 | fichas/decisoes-antigas/1993-01.md |
-| 1993-03-31 | — | cvm-dec-1993-0070 | fichas/decisoes-antigas/1993-02.md |
-| 1993-03-31 | — | cvm-dec-1993-0071 | fichas/decisoes-antigas/1993-02.md |
-| 1993-03-31 | — | cvm-dec-1993-0072 | fichas/decisoes-antigas/1993-02.md |
-| 1993-03-31 | — | cvm-dec-1993-0073 | fichas/decisoes-antigas/1993-02.md |
-| 1993-03-31 | — | cvm-dec-1993-0074 | fichas/decisoes-antigas/1993-02.md |
-| 1993-03-31 | — | cvm-dec-1993-0075 | fichas/decisoes-antigas/1993-02.md |
-| 1993-03-31 | — | cvm-dec-1993-0076 | fichas/decisoes-antigas/1993-02.md |
-| 1993-03-31 | — | cvm-dec-1993-0077 | fichas/decisoes-antigas/1993-02.md |
-| 1993-03-31 | — | cvm-dec-1993-0078 | fichas/decisoes-antigas/1993-02.md |
-| 1993-03-31 | — | cvm-dec-1993-0079 | fichas/decisoes-antigas/1993-02.md |
-| 1993-03-31 | — | cvm-dec-1993-0080 | fichas/decisoes-antigas/1993-02.md |
-| 1993-03-31 | — | cvm-dec-1993-0081 | fichas/decisoes-antigas/1993-02.md |
-| 1993-03-31 | — | cvm-dec-1993-0082 | fichas/decisoes-antigas/1993-02.md |
-| 1993-03-31 | — | cvm-dec-1993-0083 | fichas/decisoes-antigas/1993-02.md |
-| 1993-03-31 | — | cvm-dec-1993-0084 | fichas/decisoes-antigas/1993-02.md |
-| 1992-06-17 | — | cvm-dec-1993-0085 | fichas/decisoes-antigas/1993-01.md |
-| 1992-06-17 | — | cvm-dec-1993-0086 | fichas/decisoes-antigas/1993-01.md |
-| 1992-06-17 | — | cvm-dec-1993-0087 | fichas/decisoes-antigas/1993-01.md |
-| 1992-06-17 | — | cvm-dec-1993-0088 | fichas/decisoes-antigas/1993-01.md |
-| 1992-06-17 | — | cvm-dec-1993-0089 | fichas/decisoes-antigas/1993-01.md |
-| 1992-06-17 | — | cvm-dec-1993-0090 | fichas/decisoes-antigas/1993-01.md |
-| 1992-06-17 | — | cvm-dec-1993-0091 | fichas/decisoes-antigas/1993-01.md |
-| 1992-06-17 | — | cvm-dec-1993-0092 | fichas/decisoes-antigas/1993-01.md |
-| 1992-06-17 | — | cvm-dec-1993-0093 | fichas/decisoes-antigas/1993-01.md |
-| 1992-06-17 | — | cvm-dec-1993-0094 | fichas/decisoes-antigas/1993-01.md |
-| 1992-06-17 | — | cvm-dec-1993-0095 | fichas/decisoes-antigas/1993-01.md |
-| 1992-06-17 | — | cvm-dec-1993-0096 | fichas/decisoes-antigas/1993-01.md |
-| 1992-06-17 | — | cvm-dec-1993-0097 | fichas/decisoes-antigas/1993-01.md |
-| 1992-06-17 | — | cvm-dec-1993-0098 | fichas/decisoes-antigas/1993-01.md |
-| 1992-06-17 | — | cvm-dec-1993-0099 | fichas/decisoes-antigas/1993-01.md |
-| 1992-06-17 | — | cvm-dec-1993-0100 | fichas/decisoes-antigas/1993-01.md |
-| 1992-06-17 | — | cvm-dec-1993-0101 | fichas/decisoes-antigas/1993-01.md |
-| 1992-06-17 | — | cvm-dec-1993-0102 | fichas/decisoes-antigas/1993-01.md |
+| Data da ata | Processo | Título | Id | Ficha |
+|---|---|---|---|---|
+| 1993-12-07 | — | MINUTA DE INSTRUÇÃO QUE DISPÕE SOBRE O REGISTRO E O EXERCÍCIO DA ATIVIDADE DE AUDITORIA INDEPENDENTE NO ÂMBITO DO MERCADO DE VALORES… | cvm-dec-1993-0001 | fichas/decisoes-antigas/1993-04.md |
+| 1993-12-07 | — | INSTRUÇÃO DISCIPLINANDO DIVULGAÇÃO SOBRE OPERAÇÕES DE "BOX" REALIZADAS PELAS BOLSAS DE VALORES | cvm-dec-1993-0002 | fichas/decisoes-antigas/1993-04.md |
+| 1993-11-30 | — | MINUTA DE INSTRUÇÃO QUE DISPÕE SOBRE A DISPENSA OU CANCELAMENTO DE REGISTRO DAS SOCIEDADES BENEFICIÁRIAS DE RECURSOS ORIUNDOS DE INCENTIVOS… | cvm-dec-1993-0003 | fichas/decisoes-antigas/1993-04.md |
+| 1993-11-30 | — | MINUTA DE INSTRUÇÃO SOBRE CONCESSÃO E ATUALIZAÇÃO DE REGISTRO DE COMPANHIA ABERTA – CONSOLIDA AS INSTRUÇÕES 060, 073, 118 E 127 | cvm-dec-1993-0004 | fichas/decisoes-antigas/1993-04.md |
+| 1993-11-30 | — | MINUTA DE INSTRUÇÃO QUE DISPÕE SOBRE A CONSTITUIÇÃO, O FUNCIONAMENTO E A ADMINISTRAÇÃO DOS FUNDOS MÚTUOS DE INVESTIMENTO EM AÇÕES, FUNDOS… | cvm-dec-1993-0005 | fichas/decisoes-antigas/1993-04.md |
+| 1993-11-30 | — | MINUTA DE INSTRUÇÃO QUE DISPÕE SOBRE O CÓDIGO OPERACIONAL PARA INVESTIDORES INSTITUCIONAIS ESTRANGEIROS REGISTRADOS NA CVM, NA FORMA DA… | cvm-dec-1993-0006 | fichas/decisoes-antigas/1993-04.md |
+| 1993-11-30 | — | MINUTA DE INSTRUÇÃO QUE DISPÕE SOBE A FORMA DE PUBLICAÇÃO DAS DEMONSTRAÇÕES FINANCEIRAS PREVISTA NA LEI Nº 6.404, DE 15.12.76 – RELATÓRIO… | cvm-dec-1993-0007 | fichas/decisoes-antigas/1993-04.md |
+| 1993-11-30 | — | CONVÊNIO PARA PRESTAÇÃO DE SERVIÇOS ENTRE A CVM E O IBMEC | cvm-dec-1993-0008 | fichas/decisoes-antigas/1993-04.md |
+| 1993-11-17 | — | RECLAMAÇÃO DE [pessoa física] AO FUNDO DE GARANTIA DA BOVESPA CONTRA MAGLIANO S/A CORRETORA DE CÂMBIO DE VALORES MOBILIÁRIOS – RECURSOS DE… | cvm-dec-1993-0009 | fichas/decisoes-antigas/1993-04.md |
+| 1993-11-03 | — | RECURSO CONTRA DECISÃO DA SEP – REPUBLICAÇÃO DAS DEMONSTRAÇÕES FINANCEIRAS DA CAMBUCI S.A., DE | cvm-dec-1993-0010 | fichas/decisoes-antigas/1993-04.md |
+| 1993-11-03 | — | MINUTA DE INSTRUÇÃO QUE TRATA DE DIVULGAÇÃO DE INFORMAÇÕES PELAS INSTITUIÇÕES ADMINISTRADORAS DE FUNDOS QUE INCORPORARAM OS ANTIGOS FUNDOS… | cvm-dec-1993-0011 | fichas/decisoes-antigas/1993-04.md |
+| 1993-10-18 | — | RECURSO CONTRA DECISÃO DA SEP – ALIENAÇÃO DE CONTROLE DA LACESA S/A IND. DE ALIMENTOS | cvm-dec-1993-0012 | fichas/decisoes-antigas/1993-04.md |
+| 1993-10-18 | — | MINUTA DE INSTRUÇÃO CONSOLIDADA SOBRE FUNDOS MÚTUOS DE INVESTIMENTO EM AÇÕES; FUNDOS MÚTUOS DE INVESTIMENTO EM AÇÕES – CARTEIRA LIVRE… | cvm-dec-1993-0013 | fichas/decisoes-antigas/1993-04.md |
+| 1993-09-28 | — | POSSIBILIDADE DE INVESTIDOR ESTRANGEIRO ADQUIRIR COTAS DE FUNDOS MÚTUOS DE AÇÕES – CARTEIRA | cvm-dec-1993-0014 | fichas/decisoes-antigas/1993-04.md |
+| 1993-09-28 | — | RECURSO CONTRA DECISÃO DA SMI – FUNDO DE GARANTIA DA BOLSA DE VALORES DO EXTREMO SUL | cvm-dec-1993-0015 | fichas/decisoes-antigas/1993-04.md |
+| 1993-09-21 | — | INSTRUÇÃO SOBRE PUBLICAÇÃO DE DEMONSTRAÇÕES FINANCEIRAS EM MOEDA CONSTANTE | cvm-dec-1993-0016 | fichas/decisoes-antigas/1993-04.md |
+| 1993-09-14 | — | RECUSO CONTRA DECISÃO DA SMI EM PROCESSO DE RECLAMAÇÃO AO FUNDO DE GARANTIA DA BVRJ | cvm-dec-1993-0017 | fichas/decisoes-antigas/1993-04.md |
+| 1993-09-14 | — | AUTORIZAÇÃO PARA PRESTAÇÃO DE SERVIÇOS DE DEBÊNTURES ESCRITURAIS | cvm-dec-1993-0018 | fichas/decisoes-antigas/1993-04.md |
+| 1993-09-14 | — | EMPRESAS DE ENERGIA ELÉTRICA – REVERSÃO DE CRC | cvm-dec-1993-0019 | fichas/decisoes-antigas/1993-04.md |
+| 1993-09-14 | — | RECURSO CONTRA DECISÃO DO COLEGIADO – REPUBLICAÇÃO DE DEMONSTRAÇÕES FINANCEIRAS | cvm-dec-1993-0020 | fichas/decisoes-antigas/1993-04.md |
+| 1993-09-14 | — | REVOGAÇÃO DA OBRIGATORIEDADE DE REVISÃO, PELOS AUDITORES INDEPENDENTES, NAS INFORMAÇÕES TRIMESTRAIS DAS COMPANHIAS ABERTAS | cvm-dec-1993-0021 | fichas/decisoes-antigas/1993-04.md |
+| 1993-09-08 | — | MINUTA DE INSTRUÇÃO QUE REGULAMENTA OS FUNDOS IMOBILIÁRIOS | cvm-dec-1993-0022 | fichas/decisoes-antigas/1993-04.md |
+| 1993-08-31 | — | REFORMULAÇÃO DA INSTRUÇÃO 33/84 | cvm-dec-1993-0023 | fichas/decisoes-antigas/1993-04.md |
+| 1993-08-17 | — | ALIENAÇÃO DE CONTROLE DO GRUPO BANGU | cvm-dec-1993-0024 | fichas/decisoes-antigas/1993-04.md |
+| 1993-08-12 | — | RECLAMAÇÃO AO FUNDO DE GARANTIA DA BOVESPA – RECURSO CONTRA DECISÃO DA SMI | cvm-dec-1993-0025 | fichas/decisoes-antigas/1993-04.md |
+| 1993-08-03 | — | ALIENAÇÃO DE CONTROLE DA MONTREAL ENGENHARIA – RECURSO CONTRA DECISÃO DA SEP | cvm-dec-1993-0026 | fichas/decisoes-antigas/1993-03.md |
+| 1993-08-03 | — | PEDIDO DE RECONSIDERAÇÃO DE DECISÃO DO COLEGIADO | cvm-dec-1993-0027 | fichas/decisoes-antigas/1993-03.md |
+| 1993-08-03 | — | RECLAMAÇÃO CONTRA FUNDO DE GARANTIA DA BOVESPA – RECURSO CONTRA DECISÃO DA SMI | cvm-dec-1993-0028 | fichas/decisoes-antigas/1993-03.md |
+| 1993-08-03 | — | RECLAMAÇÃO CONTRA FUNDO DE GARANTIA DA BVRJ | cvm-dec-1993-0029 | fichas/decisoes-antigas/1993-03.md |
+| 1993-08-03 | — | MINUTA DE INSTRUÇÃO QUE FIXA PRAZOS PARA AUTORIZAÇÃO PELA CVM DOS ATOS QUE ESPECIFICA | cvm-dec-1993-0030 | fichas/decisoes-antigas/1993-04.md |
+| 1993-07-14 | — | CONSULTA DO BANCO CENTRAL DO BRASIL SOBRE POSICIONAMENTO DA CVM NO SENTIDO DA REVOGAÇÃO DO ART. 3º DA RESOLUÇÃO CMN 1777/90 | cvm-dec-1993-0031 | fichas/decisoes-antigas/1993-03.md |
+| 1993-07-14 | — | RECURSO CONTRA DECISÃO DA SIN – CREDENCIAMENTO DO SR. [pessoa física] ADMINISTRADOR DE CARTEIRA DA PONTO 4 CONSULTORIA FINANCEIRA DE… | cvm-dec-1993-0032 | fichas/decisoes-antigas/1993-03.md |
+| 1993-07-07 | — | RECURSO CONTRA DECISÃO DO DEMIR EM PROCESSO ADMINISTRATIVO DE RITO SUMÁRIO | cvm-dec-1993-0033 | fichas/decisoes-antigas/1993-03.md |
+| 1993-07-07 | — | PLEITO DA BOLSA DE VALORES DO RIO DE JANEIRO DE APROVAÇÃO DE SEU ESTATUTO SOCIAL | cvm-dec-1993-0034 | fichas/decisoes-antigas/1993-03.md |
+| 1993-07-07 | — | MINUTA DE COMUNICADO CONJUNTO CVM-BACEN – ANEXOS I, II, III E IV DA RESOLUÇÃO CMN 1289/87 | cvm-dec-1993-0035 | fichas/decisoes-antigas/1993-03.md |
+| 1993-07-07 | — | CREDENCIAMENTO DE ADMINISTRADOR DE CARTEIRA DE VALORES MOBILIÁRIOS – INSTRUÇÃO CVM Nº 82 | cvm-dec-1993-0036 | fichas/decisoes-antigas/1993-03.md |
+| 1993-07-07 | — | FISCALIZAÇÃO DE FUNDAÇÃO DE SEGURIDADE SOCIAL PELA CVM EM FACE DE LIMINAR CONCEDIDA EM AÇÃO DIRETA DE INCONSTITUCIONALIDADE QUE SUSPENDEU A… | cvm-dec-1993-0037 | fichas/decisoes-antigas/1993-03.md |
+| 1993-07-07 | — | RECURSO CONTRA DECISÃO DA SEP | cvm-dec-1993-0038 | fichas/decisoes-antigas/1993-03.md |
+| 1993-06-30 | — | RECURSO CONTRA DECISÃO DO DERER – REPUBLICAÇÃO DEMONSTRAÇÕES CONTÁBEIS | cvm-dec-1993-0039 | fichas/decisoes-antigas/1993-03.md |
+| 1993-06-30 | — | AUTORIZAÇÃO PARA PRESTAÇÃO DE SERVIÇOS DE AÇÕES ESCRITURAIS | cvm-dec-1993-0040 | fichas/decisoes-antigas/1993-03.md |
+| 1993-06-30 | — | AUTORIZAÇÃO PARA PRESTAÇÃO DE SERIVÇOS DE CUSTÓDIA FUNGÍVEL DE VALORES MOBILIÁRIOS | cvm-dec-1993-0041 | fichas/decisoes-antigas/1993-03.md |
+| 1993-06-30 | — | ESTRUTURA ORGANIZACIONAL – DELIBERAÇÃO | cvm-dec-1993-0042 | fichas/decisoes-antigas/1993-03.md |
+| 1993-06-28 | — | YPF SOCIEDAD ANÓNIMA – CONCESSÃO DOS REGISTROS DE QUE TRATAM OS ARTIGOS 19 E 21 DA LEI Nº 6385/76 | cvm-dec-1993-0043 | fichas/decisoes-antigas/1993-03.md |
+| 1993-06-23 | — | REGULAMENTAÇÃO DA ATUAÇÃO DE DEPENDÊNCIA SIMPLES DE CORRETORA EM PRAÇAS ONDE NÃO SEJA FILIADA À | cvm-dec-1993-0044 | fichas/decisoes-antigas/1993-03.md |
+| 1993-06-23 | — | INSTRUÇÃO PERMITINDO A AQUISIÇÃO, POR FUNDOS MÚTUOS DE INVESTIMENTO EM AÇÕES E FUNDOS MÚTUOS DE INVESTIMENTO EM AÇÕES-CARTEIRA LIVRE, DE… | cvm-dec-1993-0045 | fichas/decisoes-antigas/1993-03.md |
+| 1993-06-16 | — | RECURSO CONTRA DECISÃO DO DEMIR – ATUALIZAÇÃO DO PATRIMÔNIO SOCIAL | cvm-dec-1993-0046 | fichas/decisoes-antigas/1993-03.md |
+| 1993-06-09 | — | SOLICITAÇÃO DE REVISÃO DA AUTORIZAÇÃO CONCEDIDA PARA AS ATIVIDADES DA CÂMARA DE LIQUIDAÇÃO E | cvm-dec-1993-0047 | fichas/decisoes-antigas/1993-03.md |
+| 1993-06-09 | — | RECLAMAÇÃO AO FUNDO DE GARANTIA DA BOLSA DE VALORES – PEDIDO DE ESCLARECIMENTO DA BVRJ QUANTO À CORRETORA RESPONSÁVEL PELO RESSARCIMENTO AO… | cvm-dec-1993-0048 | fichas/decisoes-antigas/1993-03.md |
+| 1993-06-09 | — | CONSULTA SOBRE A POSSIBILIDADE DE INCORPORAÇÃO, POR FUNDO MÚTUO DE INVESTIMENTO EM AÇÕES, DE UM CLUBE DE INVESTIMENTOS, SEM RESGATE EFETIVO… | cvm-dec-1993-0049 | fichas/decisoes-antigas/1993-03.md |
+| 1993-06-02 | — | RECURSO CONTRA DECISÃO DO DERER – REPUBLICAÇÃO DE DEMONSTRAÇÕES FINANCEIRAS | cvm-dec-1993-0050 | fichas/decisoes-antigas/1993-02.md |
+| 1993-06-02 | — | PEDIDO DE RECONSIDERAÇÃO DE DECISÃO DO COLEGIADO – FUNDO DE GARANTIA DA BOLSA DE VALORES DO RIO | cvm-dec-1993-0051 | fichas/decisoes-antigas/1993-02.md |
+| 1993-06-02 | — | PEDIDO DE RECONSIDERAÇÃO DE DECISÃO DA ÁREA TÉCNICA – ADMISSÃO DE NÚMERO ILIMITADO DE COTISTAS EM CLUBE DE INVESTIMENTO | cvm-dec-1993-0052 | fichas/decisoes-antigas/1993-03.md |
+| 1993-05-04 | — | PEDIDO DE RECONSIDERAÇÃO DE DECISÃO DO COLEGIADO, DE 17.06.92 - BASE DE CÁLCULO DOS DIVIDENDOS DAS AÇÕES PREFERENCIAIS | cvm-dec-1993-0053 | fichas/decisoes-antigas/1993-02.md |
+| 1993-05-04 | — | RECURSO CONTRA DECISÃO DO DERER – OBRIGATORIEDADE DO REGISTRO DE SOCIEDADE BENFICIÁRIA DE INCENTIVOS FISCAIS | cvm-dec-1993-0054 | fichas/decisoes-antigas/1993-02.md |
+| 1993-05-04 | — | SOLICITAÇÃO DE CANCELAMENTO DE CREDENCIAMENTO | cvm-dec-1993-0055 | fichas/decisoes-antigas/1993-02.md |
+| 1993-05-04 | — | SOLICITAÇÃO DE CREDENCIAMENTO PARA PRESTAÇÃO DE SERVIÇOS DE AÇÕES ESCRITURAIS | cvm-dec-1993-0056 | fichas/decisoes-antigas/1993-02.md |
+| 1993-04-26 | — | AUTORIZAÇÃO PARA ADMINISTRAÇÃO DE FUNDO DE CONVERSÃO – CAPITAL ESTRANGEIRO | cvm-dec-1993-0057 | fichas/decisoes-antigas/1993-02.md |
+| 1993-04-26 | — | AQUISIÇÃO DE AÇÕES PARA DOAÇÃO A FUNCIONÁRIOS – EXCEPCIONALIDADE À INSTRUÇÃO CVM Nº 10 | cvm-dec-1993-0058 | fichas/decisoes-antigas/1993-02.md |
+| 1993-04-26 | — | PEDIDO DE REABERTURA DE CAPITAL – EXCEPCIONALIDADE À INSTRUÇÃO CVM Nº 185 | cvm-dec-1993-0059 | fichas/decisoes-antigas/1993-02.md |
+| 1993-04-26 | — | AUDITORIA NA BOLSA DE VALORES DO EXTREMO SUL | cvm-dec-1993-0060 | fichas/decisoes-antigas/1993-02.md |
+| 1993-04-05 | — | CORREÇÃO MONETÁRIA DOS DIVIDENDOS – RECURSO CONTRA DECISÃO DO DERER – REPUBLICAÇÃO DE DEMONSTRAÇÕES FINANCEIRAS | cvm-dec-1993-0061 | fichas/decisoes-antigas/1993-02.md |
+| 1993-03-31 | — | CORRETAGEM E DEMONSTRAÇÕES FINANCEIRAS DE COMPANHIAS ABERTAS | cvm-dec-1993-0062 | fichas/decisoes-antigas/1993-01.md |
+| 1993-03-31 | — | RECURSO CONTRA DECISÃO DO DERER – OFERTA PÚBLICA AOS ACIONISTAS MINORITÁRIOS DA ACESITA | cvm-dec-1993-0063 | fichas/decisoes-antigas/1993-01.md |
+| 1993-03-31 | — | PRESTAÇÃO DE SERVIÇOS DE CUSTÓDIA DE VALORES MOBILIÁRIOS – INSTRUÇÃO CVM Nº 89/88 | cvm-dec-1993-0064 | fichas/decisoes-antigas/1993-01.md |
+| 1993-03-31 | — | PRESTAÇÃO DE SERVIÇOS DE DEBÊNTURES ESCRITURAIS – INSTRUÇÃO CVM Nº 89/88 | cvm-dec-1993-0065 | fichas/decisoes-antigas/1993-01.md |
+| 1993-03-31 | — | DELEGAÇÃO DE COMPETÊNCIA – APROVAÇÃO DE PLEITOS RELATIVOS AO REGULAMENTO ANEXO IV À RESOLUÇÃO | cvm-dec-1993-0066 | fichas/decisoes-antigas/1993-01.md |
+| 1993-03-31 | — | PARTICIPANTES: | cvm-dec-1993-0067 | fichas/decisoes-antigas/1993-01.md |
+| 1993-03-31 | — | RECLAMAÇÃO DE [pessoa física] AO FUNDO DE GARANTIA DA BVRJ CONTRA VETOR CVM S.A. | cvm-dec-1993-0068 | fichas/decisoes-antigas/1993-01.md |
+| 1993-03-31 | — | RECURSO CONTRA DECISÃO SEP – PANEX S.A. INDÚSTRIA E COMÉRCIO | cvm-dec-1993-0069 | fichas/decisoes-antigas/1993-01.md |
+| 1993-03-31 | — | RECURSO CONTRA DECISÃO SEP – PERDIGÃO AGROINDUSTRIAL S.A. | cvm-dec-1993-0070 | fichas/decisoes-antigas/1993-02.md |
+| 1993-03-31 | — | REPUBLICAÇÃO DEMONSTRAÇÃO FINANCEIRA – CHAPECÓ AVÍCOLA S.A., [pessoa física]. E COM. CHAPECÓ, ALBARUS S.A., BORLEM S.A. EMPREENDIMENTOS… | cvm-dec-1993-0071 | fichas/decisoes-antigas/1993-02.md |
+| 1993-03-31 | — | CARTA CONSULTA UNIBANCO – ANEXO IV | cvm-dec-1993-0072 | fichas/decisoes-antigas/1993-02.md |
+| 1993-03-31 | — | PROPOSTA DE ALTERAÇÃO NO CONTRATO DE ADMINISTRAÇÃO ENTRE [pessoa física] E O BRADESCO | cvm-dec-1993-0073 | fichas/decisoes-antigas/1993-02.md |
+| 1993-03-31 | — | PLEITO TOZZINI, FREIRE, TEIXEIRA E SILVA (G.T. [pessoa física] FUND) | cvm-dec-1993-0074 | fichas/decisoes-antigas/1993-02.md |
+| 1993-03-31 | — | PLEITO BANCO HKB S.A. – CONTA COLETIVA – ([pessoa física] INC.) | cvm-dec-1993-0075 | fichas/decisoes-antigas/1993-02.md |
+| 1993-03-31 | — | APROVADO "AD REFEREDUM" | cvm-dec-1993-0076 | fichas/decisoes-antigas/1993-02.md |
+| 1993-03-31 | — | PLEITO SODRIL S.A. CTV – CONTA COLETIVA – (BROWN BROTHERS HARRIMAN & CO.) | cvm-dec-1993-0077 | fichas/decisoes-antigas/1993-02.md |
+| 1993-03-31 | — | APROVADO "AD REFEREDUM" | cvm-dec-1993-0078 | fichas/decisoes-antigas/1993-02.md |
+| 1993-03-31 | — | DISPENSA DE REPUBLICAÇÃO DE DEMONSTRAÇÕES FINANCEIRAS – VARIG S/A E CRUZEIRO DO SUL S/A | cvm-dec-1993-0079 | fichas/decisoes-antigas/1993-02.md |
+| 1993-03-31 | — | PEDIDO DE RECONSIDERAÇÃO DE DECISÃO DO COLEGIADO – [pessoa física] – RECLAMAÇÃO AO FUNDO DE GARANTIA DA BVRJ CONTRA A UNIBANCO CORRETORA | cvm-dec-1993-0080 | fichas/decisoes-antigas/1993-02.md |
+| 1993-03-31 | — | RECLAMAÇÃO DE [pessoa física] AO FUNDO DE GARANTIA DA BOVESPA CONTRA A GRIFFO CORRETORA DE VALORES – RECURSO DA BVSP CONTRA DECISÃO DO SMI | cvm-dec-1993-0081 | fichas/decisoes-antigas/1993-02.md |
+| 1993-03-31 | — | RECLAMAÇÃO DE [pessoa física] AO FUNDO DE GARANTIA DA BVRJ CONTRA MIL CORRETORA DE CÂMBIO E VALORES S/A | cvm-dec-1993-0082 | fichas/decisoes-antigas/1993-02.md |
+| 1993-03-31 | — | CONSULTA DO BANCO OMEGA S/A – CONSTITUIÇÃO DE CLUBE DE INVESTIMENTO PELA CAIXA DOS EMPREGADOS | cvm-dec-1993-0083 | fichas/decisoes-antigas/1993-02.md |
+| 1993-03-31 | — | DEVOLUÇÃO DA TAXA DE FISCALIZAÇÃO – TUPY METAL MECÂNICA S.A E TUPY S.A. | cvm-dec-1993-0084 | fichas/decisoes-antigas/1993-02.md |
+| 1992-06-17 | — | MINUTA DE INSTRUÇÃO SOBRE A ATUALIZAÇÃO DA TABELA DE CORRETAGEM ADOTADA PELOS MEMBROS DAS BOLSAS DE VALORES DOC./DGABB/GSECB/Nº 217/92 | cvm-dec-1993-0085 | fichas/decisoes-antigas/1993-01.md |
+| 1992-06-17 | — | RECURSO DECISÃO DA DERER – BANCO REAL DE INVESTIMENTO S.A. DOC./DGABB/GSECB/Nº 214/92 | cvm-dec-1993-0086 | fichas/decisoes-antigas/1993-01.md |
+| 1992-06-17 | — | RECURSO DECISÃO DA DERER – INDÚSTRIA DE BEBIDAS ANTARCTICA DO RIO GRANDE DO NORTE S.A. DOC./DGABB/GSECB/Nº 215/92 | cvm-dec-1993-0087 | fichas/decisoes-antigas/1993-01.md |
+| 1992-06-17 | — | RECURSO DECISÃO DA DERER – CIA. RIOGRANDENSE DE TELECOMUNICAÇÕES – CRT DOC./DGABB/GSECB/Nº 216/92 | cvm-dec-1993-0088 | fichas/decisoes-antigas/1993-01.md |
+| 1992-06-17 | — | RECURSO DECISÃO DA DERER – BANCO REAL DE INVESTIMENTO S.A. DOC./DGABB/GSECB/Nº 218/92 | cvm-dec-1993-0089 | fichas/decisoes-antigas/1993-01.md |
+| 1992-06-17 | — | RECURSO DECISÃO DA DERER – CIA. ITACOLOMY DE CERVEJAS DOC./DGABB/GSECB/Nº 219/92 | cvm-dec-1993-0090 | fichas/decisoes-antigas/1993-01.md |
+| 1992-06-17 | — | APRECIAÇÃO DE DIVULGAÇÃO DE INFORMAÇÕES ADICIONAIS AS DEMONSTRAÇÕES CONTÁBEIS – DECISÃO COLEGIADO DE 13.05.92 – CIAS. ABERTAS DO GRUPO… | cvm-dec-1993-0091 | fichas/decisoes-antigas/1993-01.md |
+| 1992-06-17 | — | NORTHERN TRUST COMPANY DOC./DGABB/GSECB/Nº 220/92 | cvm-dec-1993-0092 | fichas/decisoes-antigas/1993-01.md |
+| 1992-06-17 | — | THE MONETARY AUTHORITY OF SINGAPORE GOVERNMENT INVESTMENT CORPORATION THE PILLSBURY MASTER PENSION TRUST THE NALCO RETIREMENT TRUST THE… | cvm-dec-1993-0093 | fichas/decisoes-antigas/1993-01.md |
+| 1992-06-17 | — | INCLUSÃO NA CONTA COLETIVA J. P. MORGAN SECURITIES LIMITED DO INVESTIDOR INSTITUCIONAL ESTRANGEIRO MASTERS DOC./DGABB/GSECB/Nº 221/92 | cvm-dec-1993-0094 | fichas/decisoes-antigas/1993-01.md |
+| 1992-06-17 | — | INCLUSÃO NA CONTA COLETIVA [pessoa física] DO INVESTIDOR INSTITUCIONAL ESTRANGEIRO BANCO POPULAR INTERNATIONAL DOC./DGABB/GSECB/Nº 222/92 | cvm-dec-1993-0095 | fichas/decisoes-antigas/1993-01.md |
+| 1992-06-17 | — | INTERNATIONAL, INC. DOC./DGABB/GSECB/Nº 223/92 | cvm-dec-1993-0096 | fichas/decisoes-antigas/1993-01.md |
+| 1992-06-17 | — | INCLUSÃO NA CONTA COLETIVA ARNHOLD AND S. BLEICHROEDER INC. – ADMINISTRADA POR BANCO DE BOSTON S.A. – DE INVESTIDORES INSTITUCIONAIS… | cvm-dec-1993-0097 | fichas/decisoes-antigas/1993-01.md |
+| 1992-06-17 | — | SECURITIES CORP.; AMETEK INC. EMP. MASTER RET. TRUST; DUNCAN HURST PARTNERS L.P.; KENOSHA TRADING | cvm-dec-1993-0098 | fichas/decisoes-antigas/1993-01.md |
+| 1992-06-17 | — | INCLUSÃO NA CONTA COLETIVA BROWN BROTHERS HARRIMANN & CO. DE INVESTIDORES INSTITUCIONAIS ESTRANGEIROS DOC./DGABB/GSECB/Nº 225/92 | cvm-dec-1993-0099 | fichas/decisoes-antigas/1993-01.md |
+| 1992-06-17 | — | PUTNAM CAPITAL MANAGER GLOBAL GROWTH FUND; PUTNAM CAPITAL MANAGER MULTI-STRATEGY FUND; PUTNAM | cvm-dec-1993-0100 | fichas/decisoes-antigas/1993-01.md |
+| 1992-06-17 | — | REGISTRO CONTA COLETIVA – ANEXO IV – G.T. CAPITAL MANAGEMENT, INC. DOC./DGABB/GSECB/Nº 226/92 | cvm-dec-1993-0101 | fichas/decisoes-antigas/1993-01.md |
+| 1992-06-17 | — | REGISTRO CARTEIRA PRÓPRIA – MECO TATIMBA INVESTMENT N.V. DOC./DGABB/GSECB/Nº 227/92 | cvm-dec-1993-0102 | fichas/decisoes-antigas/1993-01.md |
 
 Fim do subíndice.

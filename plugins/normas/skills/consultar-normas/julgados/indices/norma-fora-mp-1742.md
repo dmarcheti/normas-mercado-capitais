@@ -16,10 +16,10 @@ Norma: fora do acervo.
 | art. 2º | decisao-colegiado | RJ2003/6825 | 2003-09-02 | provido | cvm-col-20030902-d05 | fichas/colegiado/2003-11.md |
 | art. 2º | decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
 | art. 2º | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
-| art. 2º | pas | RJ2005/7234 | 2006-05-10 | parcial | cvm-pas-rj2005-7234 | fichas/pas/2006-05.md |
-| art. 2º | pas | RJ2005/7257 | 2006-05-10 | absolvicao | cvm-pas-rj2005-7257 | fichas/pas/2006-05.md |
-| art. 2º | pas | RJ2005/7315 | 2006-05-10 | parcial | cvm-pas-rj2005-7315 | fichas/pas/2006-05.md |
-| art. 2º | pas | RJ2006/1622 | 2006-08-01 | parcial | cvm-pas-rj2006-1622 | fichas/pas/2006-07.md |
-| art. 2º | pas | RJ2006/1623 | 2006-08-01 | parcial | cvm-pas-rj2006-1623 | fichas/pas/2006-07.md |
+| art. 2º | pas | RJ2005/7234 | 2006-05-10 | parcial | cvm-pas-rj2005-7234 | fichas/pas/2006-10.md |
+| art. 2º | pas | RJ2005/7257 | 2006-05-10 | absolvicao | cvm-pas-rj2005-7257 | fichas/pas/2006-10.md |
+| art. 2º | pas | RJ2005/7315 | 2006-05-10 | parcial | cvm-pas-rj2005-7315 | fichas/pas/2006-11.md |
+| art. 2º | pas | RJ2006/1622 | 2006-08-01 | parcial | cvm-pas-rj2006-1622 | fichas/pas/2006-14.md |
+| art. 2º | pas | RJ2006/1623 | 2006-08-01 | parcial | cvm-pas-rj2006-1623 | fichas/pas/2006-15.md |
 
 Fim do subíndice.

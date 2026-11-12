@@ -7,140 +7,140 @@ Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho rel
 
 Número normalizado: NUP `99999-999999-AAAA-DD`; processo antigo `rj2015-13791` (sigla em minúsculas, ano, número com 4 dígitos); numeração curta dos PAS `NN-AAAA`. Procure pelo número normalizado ou pela forma do julgado. Dois julgados do mesmo processo (um PAS e o termo de compromisso ou o acórdão do CRSFN dele) aparecem com o mesmo número.
 
-| Processo (normalizado) | Forma no julgado | Tipo | Data | Id | Ficha |
-|---|---|---|---|---|---|
-| 01-2001 | 01/2001 | pas | 2002-12-12 | cvm-pas-01-2001 | fichas/pas/2002-04.md |
-| 01-2001 | 01/01 | acordao-crsfn | 2005-04-27 | crsfn-4657 | fichas/crsfn/2005-01.md |
-| 04-2001 | 04/2001 | pas | 2005-06-13 | cvm-pas-04-2001 | fichas/pas/2005-05.md |
-| 04-2001 | 04/01 | acordao-crsfn | 2015-05-26 | crsfn-9058 | fichas/crsfn/2015-02.md |
-| 05-2001 | 05/2001 | pas | 2004-06-21 | cvm-pas-05-2001 | fichas/pas/2004-02.md |
-| 05-2001 | 05/2001 | pas | 2004-07-19 | cvm-pas-05-2001-2 | fichas/pas/2004-04.md |
-| 06-2001 | 06/01 | termo-compromisso | 2004-06-24 | cvm-col-20040624-d05 | fichas/tc/2004-01.md |
-| 06-2001 | 06/2001 | pas | 2004-12-09 | cvm-pas-06-2001 | fichas/pas/2004-07.md |
-| 06-2001 | 06/01 | acordao-crsfn | 2008-06-25 | crsfn-8543 | fichas/crsfn/2008-03.md |
-| 07-2001 | 07/2001 | pas | 2005-03-21 | cvm-pas-07-2001 | fichas/pas/2005-02.md |
-| 08-2001 | 08/01 | termo-compromisso | 2004-06-24 | cvm-col-20040624-d06 | fichas/tc/2004-01.md |
-| 08-2001 | 08/2001 | pas | 2004-09-23 | cvm-pas-08-2001 | fichas/pas/2004-06.md |
-| 08-2001 | 08/01 | acordao-crsfn | 2007-08-30 | crsfn-6255 | fichas/crsfn/2007-01.md |
-| 09-2001 | 09/2001 | termo-compromisso | 2006-08-29 | cvm-col-20060829-d02 | fichas/tc/2006-04.md |
-| 09-2001 | 09/01 | termo-compromisso | 2006-11-07 | cvm-col-20061107-d01 | fichas/tc/2006-06.md |
-| 09-2001 | 09/2001 | termo-compromisso | 2006-12-19 | cvm-col-20061219-d17 | fichas/tc/2006-07.md |
-| 09-2001 | 09/2001 | termo-compromisso | 2007-01-09 | cvm-col-20070109-d04 | fichas/tc/2007-01.md |
-| 12-2001 | 12/01 | termo-compromisso | 2004-12-14 | cvm-col-20041214-d04 | fichas/tc/2004-02.md |
-| 12-2001 | 12/2001 | pas | 2006-01-12 | cvm-pas-12-2001 | fichas/pas/2006-01.md |
-| 12-2001 | 12/01 | acordao-crsfn | 2010-09-14 | crsfn-11101 | fichas/crsfn/2010-07.md |
-| 13-2001 | 13/2001 | termo-compromisso | 2006-10-03 | cvm-col-20061003-d03 | fichas/tc/2006-04.md |
-| 13-2001 | 13/2001 | pas | 2006-10-17 | cvm-pas-13-2001 | fichas/pas/2006-10.md |
-| 13-2001 | 13/01 | acordao-crsfn | 2010-10-27 | crsfn-11412 | fichas/crsfn/2010-08.md |
-| 14-2001 | 14/2001 | pas | 2005-04-12 | cvm-pas-14-2001 | fichas/pas/2005-03.md |
-| 14-2001 | 14/2001 | acordao-crsfn | 2016-02-23 | crsfn-8550 | fichas/crsfn/2016-02.md |
-| 16-2001 | 16/01 | termo-compromisso | 2005-04-08 | cvm-col-20050408-d01 | fichas/tc/2005-01.md |
-| 16-2001 | 16/01 | termo-compromisso | 2005-05-16 | cvm-col-20050516-d02 | fichas/tc/2005-01.md |
-| 16-2001 | 16/2001 | pas | 2005-11-03 | cvm-pas-16-2001 | fichas/pas/2005-07.md |
-| 17-2001 | 17/2001 | pas | 2003-10-16 | cvm-pas-17-2001 | fichas/pas/2003-04.md |
-| 17-2001 | 17/01 | acordao-crsfn | 2007-09-27 | crsfn-5310 | fichas/crsfn/2007-02.md |
-| 18-2001 | 18/01 | termo-compromisso | 2004-07-02 | cvm-col-20040702-d04 | fichas/tc/2004-01.md |
-| 18-2001 | 18/2001 | pas | 2004-11-04 | cvm-pas-18-2001 | fichas/pas/2004-07.md |
-| 18-2001 | 18/01 | acordao-crsfn | 2008-02-26 | crsfn-8253 | fichas/crsfn/2008-01.md |
-| ia2001-0005 | IA-2001-5 | acordao-crsfn | 2009-10-27 | crsfn-6197 | fichas/crsfn/2009-06.md |
-| ia2001-0088 | IA01/88 | acordao-crsfn | 2008-03-27 | crsfn-8551 | fichas/crsfn/2008-01.md |
-| rj2001-0281 | RJ2001/0281 | termo-compromisso | 2002-03-28 | cvm-tc-rj2001-0281-20020328 | fichas/tc/2002.md |
-| rj2001-0554 | RJ2001/0554 | pas | 2002-10-23 | cvm-pas-rj2001-0554 | fichas/pas/2002-03.md |
-| rj2001-0554 | RJ/2001/0554 | acordao-crsfn | 2004-02-09 | crsfn-4547 | fichas/crsfn/2004-01.md |
-| rj2001-1789 | RJ2001/1789 | termo-compromisso | 2003-03-12 | cvm-col-20030312-d07 | fichas/tc/2003.md |
-| rj2001-1789 | RJ2001/1789 | termo-compromisso | 2003-08-05 | cvm-col-20030805-d05 | fichas/tc/2003.md |
-| rj2001-1826 | RJ2001/1826 | pas | 2003-08-14 | cvm-pas-rj2001-1826 | fichas/pas/2003-02.md |
-| rj2001-1826 | RJ-2001-1826 | acordao-crsfn | 2009-04-15 | crsfn-5416 | fichas/crsfn/2009-02.md |
-| rj2001-1950 | RJ2001/1950 | pas | 2001-12-12 | cvm-pas-rj2001-1950 | fichas/pas/2001-04.md |
-| rj2001-3809 | RJ2001/3809 | pas | 2002-04-25 | cvm-pas-rj2001-3809 | fichas/pas/2002-02.md |
-| rj2001-4187 | RJ2001/4187 | pas | 2002-04-18 | cvm-pas-rj2001-4187 | fichas/pas/2002-02.md |
-| rj2001-4355 | RJ2001/4355 | pas | 2003-04-10 | cvm-pas-rj2001-4355 | fichas/pas/2003-02.md |
-| rj2001-4355 | RJ2001/04355 | acordao-crsfn | 2004-04-28 | crsfn-4877 | fichas/crsfn/2004-01.md |
-| rj2001-4474 | RJ2001/4474 | termo-compromisso | 2004-12-14 | cvm-col-20041214-d01 | fichas/tc/2004-02.md |
-| rj2001-4474 | RJ2001/4474 | termo-compromisso | 2005-03-01 | cvm-col-20050301-d01 | fichas/tc/2005-01.md |
-| rj2001-4474 | RJ2001/4474 | pas | 2005-03-30 | cvm-pas-rj2001-4474 | fichas/pas/2005-03.md |
-| rj2001-4619 | RJ2001/4619 | termo-compromisso | 2006-10-24 | cvm-col-20061024-d03 | fichas/tc/2006-05.md |
-| rj2001-4635 | RJ2001/4635 | pas | 2004-12-16 | cvm-pas-rj2001-4635 | fichas/pas/2004-08.md |
-| rj2001-4635 | RJ-2001-4635 | acordao-crsfn | 2009-10-27 | crsfn-10377 | fichas/crsfn/2009-05.md |
-| rj2001-4652 | RJ2001/4652 | termo-compromisso | 2004-12-07 | cvm-col-20041207-d13 | fichas/tc/2004-02.md |
-| rj2001-4652 | RJ2001/4652 | termo-compromisso | 2005-03-22 | cvm-col-20050322-d02 | fichas/tc/2005-01.md |
-| rj2001-4977 | RJ2001/4977 | pas | 2001-12-19 | cvm-pas-rj2001-4977 | fichas/pas/2001-05.md |
-| rj2001-4977 | RJ2001/4977 | acordao-crsfn | 2004-01-21 | crsfn-4120 | fichas/crsfn/2004-01.md |
-| rj2001-6094 | RJ2001/6094 | pas | 2001-12-13 | cvm-pas-rj2001-6094 | fichas/pas/2001-05.md |
-| rj2001-6094 | RJ2001/6094 | acordao-crsfn | 2004-06-28 | crsfn-4079 | fichas/crsfn/2004-02.md |
-| rj2001-6226 | RJ2001/6226 | termo-compromisso | 2002-09-20 | cvm-col-20020920-d01 | fichas/tc/2002.md |
-| rj2001-6226 | RJ2001/6226 | pas | 2003-05-15 | cvm-pas-rj2001-6226 | fichas/pas/2003-02.md |
-| rj2001-6226 | RJ/2001/6226 | acordao-crsfn | 2004-05-26 | crsfn-5039 | fichas/crsfn/2004-02.md |
-| rj2001-6835 | RJ2001/6835 | pas | 2002-06-05 | cvm-pas-rj2001-6835 | fichas/pas/2002-02.md |
-| rj2001-6835 | RJ2001/06835 | acordao-crsfn | 2005-11-09 | crsfn-4288 | fichas/crsfn/2005-02.md |
-| rj2001-7557 | RJ2001/7557 | pas | 2004-07-22 | cvm-pas-rj2001-7557 | fichas/pas/2004-04.md |
-| rj2001-7626 | RJ2001/7626 | termo-compromisso | 2004-09-10 | cvm-col-20040910-d01 | fichas/tc/2004-02.md |
-| rj2001-7661 | RJ2001/7661 | pas | 2002-04-25 | cvm-pas-rj2001-7661 | fichas/pas/2002-02.md |
-| rj2001-7661 | RJ2001/7661 | acordao-crsfn | 2005-02-23 | crsfn-4184 | fichas/crsfn/2005-01.md |
-| rj2001-7686 | RJ2001/7686 | pas | 2002-03-13 | cvm-pas-rj2001-7686 | fichas/pas/2002-01.md |
-| rj2001-7749 | RJ2001/7749 | pas | 2004-10-14 | cvm-pas-rj2001-7749 | fichas/pas/2004-06.md |
-| rj2001-7749 | RJ-2001-7749 | acordao-crsfn | 2009-06-29 | crsfn-7358 | fichas/crsfn/2009-03.md |
-| rj2001-8023 | RJ2001/8023 | pas | 2002-10-23 | cvm-pas-rj2001-8023-2 | fichas/pas/2002-03.md |
-| rj2001-8023 | RJ2001/8023 | pas | 2002-10-23 | cvm-pas-rj2001-8023 | fichas/pas/2002-03.md |
-| rj2001-8028 | RJ2001/8028 | termo-compromisso | 2005-02-15 | cvm-col-20050215-d02 | fichas/tc/2005-01.md |
-| rj2001-8028 | RJ2001/8028 | pas | 2005-03-14 | cvm-pas-rj2001-8028 | fichas/pas/2005-02.md |
-| rj2001-8028 | RJ-2001-8028 | acordao-crsfn | 2008-08-28 | crsfn-9057 | fichas/crsfn/2008-04.md |
-| rj2001-8029 | RJ2001/8029 | pas | 2004-05-06 | cvm-pas-rj2001-8029 | fichas/pas/2004-01.md |
-| rj2001-8045 | RJ2001/8045 | pas | 2002-12-20 | cvm-pas-rj2001-8045 | fichas/pas/2002-04.md |
-| rj2001-8280 | RJ2001/8280 | pas | 2002-11-14 | cvm-pas-rj2001-8280 | fichas/pas/2002-03.md |
-| rj2001-8363 | RJ2001/8363 | termo-compromisso | 2005-01-18 | cvm-col-20050118-d02 | fichas/tc/2005-01.md |
-| rj2001-8363 | RJ2001/8363 | pas | 2005-03-28 | cvm-pas-rj2001-8363 | fichas/pas/2005-02.md |
-| rj2001-8363 | RJ-2001-8363 | acordao-crsfn | 2009-06-29 | crsfn-8548 | fichas/crsfn/2009-03.md |
-| rj2001-8385 | RJ2001/8385 | pas | 2003-04-03 | cvm-pas-rj2001-8385 | fichas/pas/2003-01.md |
-| rj2001-8385 | RJ2001/8385 | acordao-crsfn | 2004-05-26 | crsfn-4988 | fichas/crsfn/2004-01.md |
-| rj2001-8388 | RJ2001/8388 | pas | 2002-04-18 | cvm-pas-rj2001-8388 | fichas/pas/2002-02.md |
-| rj2001-8473 | RJ2001/8473 | termo-compromisso | 2004-10-05 | cvm-col-20041005-d02 | fichas/tc/2004-02.md |
-| rj2001-8473 | RJ2001/8473 | pas | 2004-10-18 | cvm-pas-rj2001-8473 | fichas/pas/2004-07.md |
-| rj2001-8473 | RJ-2001-8473 | acordao-crsfn | 2011-06-15 | crsfn-7357 | fichas/crsfn/2011-02.md |
-| rj2001-8739 | RJ2001/8739 | termo-compromisso | 2002-12-02 | cvm-col-20021202-d14 | fichas/tc/2002.md |
-| rj2001-8739 | RJ2001/8739 | pas | 2003-09-11 | cvm-pas-rj2001-8739 | fichas/pas/2003-03.md |
-| rj2001-8739 | RJ2001/8739 | acordao-crsfn | 2004-07-14 | crsfn-5265 | fichas/crsfn/2004-02.md |
-| rj2001-9686 | RJ2001/9686 | pas | 2004-08-12 | cvm-pas-rj2001-9686 | fichas/pas/2004-05.md |
-| rj2001-9701 | RJ2001/9701 | pas | 2003-04-03 | cvm-pas-rj2001-9701 | fichas/pas/2003-01.md |
-| rj2001-9701 | RJ2001/9701 | acordao-crsfn | 2006-03-06 | crsfn-5135 | fichas/crsfn/2006-01.md |
-| rj2001-9705 | RJ2001/9705 | termo-compromisso | 2002-04-09 | cvm-tc-rj2001-9705-20020409 | fichas/tc/2002.md |
-| rj2001-9999 | RJ2001/9999 | pas | 2003-04-10 | cvm-pas-rj2001-9999 | fichas/pas/2003-02.md |
-| rj2001-11808 | RJ2001/11808 | pas | 2007-10-02 | cvm-pas-rj2001-11808 | fichas/pas/2007-07.md |
-| rj2001-11949 | RJ2001/11949 | pas | 2005-12-06 | cvm-pas-rj2001-11949 | fichas/pas/2005-09.md |
-| rj2001-11949 | RJ-2001/11949 | acordao-crsfn | 2009-09-30 | crsfn-9795 | fichas/crsfn/2009-05.md |
-| rj2001-12037 | RJ2001/12037 | termo-compromisso | 2006-09-26 | cvm-col-20060926-d06 | fichas/tc/2006-04.md |
-| rj2001-12037 | RJ2001/12037 | termo-compromisso | 2006-11-07 | cvm-col-20061107-d02 | fichas/tc/2006-06.md |
-| rj2001-12098 | RJ2001/12098 | termo-compromisso | 2003-03-17 | cvm-col-20030317-d04 | fichas/tc/2003.md |
-| rj2001-12098 | RJ2001/12098 | termo-compromisso | 2003-03-25 | cvm-col-20030325-d01 | fichas/tc/2003.md |
-| rj2001-12130 | RJ2001/12130 | termo-compromisso | 2005-08-09 | cvm-col-20050809-d01 | fichas/tc/2005-02.md |
-| rj2001-12173 | RJ2001/12173 | pas | 2003-12-10 | cvm-pas-rj2001-12173 | fichas/pas/2003-05.md |
-| rj2001-12173 | RJ/2001/12173 | acordao-crsfn | 2006-10-19 | crsfn-5966 | fichas/crsfn/2006-01.md |
-| sp2001-0001 | SP2001/0001 | pas | 2001-06-27 | cvm-pas-sp2001-0001 | fichas/pas/2001-02.md |
-| sp2001-0003 | SP2001/0003 | pas | 2002-12-12 | cvm-pas-sp2001-0003 | fichas/pas/2002-04.md |
-| sp2001-0003 | SP2001/0003 | acordao-crsfn | 2004-09-15 | crsfn-4819 | fichas/crsfn/2004-03.md |
-| sp2001-0034 | SP2001/0034 | pas | 2004-08-12 | cvm-pas-sp2001-0034 | fichas/pas/2004-05.md |
-| sp2001-0034 | SP-2001-0034 | acordao-crsfn | 2007-09-26 | crsfn-7361 | fichas/crsfn/2007-02.md |
-| sp2001-0140 | SP2001/0140 | pas | 2002-03-21 | cvm-pas-sp2001-0140 | fichas/pas/2002-01.md |
-| sp2001-0204 | SP2001/0204 | termo-compromisso | 2004-08-05 | cvm-col-20040805-d05 | fichas/tc/2004-01.md |
-| sp2001-0209 | SP2001/0209 | termo-compromisso | 2006-01-31 | cvm-col-20060131-d07 | fichas/tc/2006-01.md |
-| sp2001-0209 | SP2001/0209 | pas | 2006-05-30 | cvm-pas-sp2001-0209 | fichas/pas/2006-06.md |
-| sp2001-0236 | SP2001/0236 | pas | 2004-07-19 | cvm-pas-sp2001-0236 | fichas/pas/2004-04.md |
-| sp2001-0236 | SP-2001/0236 | acordao-crsfn | 2010-01-26 | crsfn-6065 | fichas/crsfn/2010-01.md |
-| sp2001-0240 | SP2001/0240 | pas | 2004-07-22 | cvm-pas-sp2001-0240 | fichas/pas/2004-04.md |
-| sp2001-0240 | SP-2001-240 | acordao-crsfn | 2007-04-25 | crsfn-6187 | fichas/crsfn/2007-01.md |
-| sp2001-0307 | SP2001/0307 | pas | 2003-06-12 | cvm-pas-sp2001-0307 | fichas/pas/2003-02.md |
-| sp2001-0307 | SP-2001/0307 | acordao-crsfn | 2006-12-13 | crsfn-5116 | fichas/crsfn/2006-01.md |
-| sp2001-0373 | SP2001/0373 | pas | 2004-06-24 | cvm-pas-sp2001-0373 | fichas/pas/2004-02.md |
-| sp2001-0386 | SP2001/0386 | pas | 2003-09-03 | cvm-pas-sp2001-0386 | fichas/pas/2003-02.md |
-| sp2001-0395 | SP2001/0395 | pas | 2003-09-11 | cvm-pas-sp2001-0395 | fichas/pas/2003-03.md |
-| sp2001-0465 | SP2001/465 | pas | 2004-10-06 | cvm-pas-sp2001-0465 | fichas/pas/2004-06.md |
-| sp2001-0465 | SP-2001-465 | acordao-crsfn | 2007-09-27 | crsfn-6297 | fichas/crsfn/2007-02.md |
-| sp2001-0724 | SP2001/0724 | pas | 2002-10-10 | cvm-pas-sp2001-0724 | fichas/pas/2002-03.md |
-| sp2001-0724 | SP2001/0724 | pas | 2002-12-20 | cvm-pas-sp2001-0724-2 | fichas/pas/2002-04.md |
-| sp2001-0724 | SP2001/0724 | acordao-crsfn | 2004-01-21 | crsfn-4787 | fichas/crsfn/2004-01.md |
-| sp2001-0725 | SP2001/0725 | pas | 2003-03-13 | cvm-pas-sp2001-0725 | fichas/pas/2003-01.md |
-| sp2001-0799 | SP2001/0799 | termo-compromisso | 2005-08-23 | cvm-col-20050823-d02 | fichas/tc/2005-02.md |
-| sp2001-0799 | SP2001/0799 | pas | 2005-11-30 | cvm-pas-sp2001-0799 | fichas/pas/2005-08.md |
-| sp2001-0799 | SP-2001-0799 | acordao-crsfn | 2013-01-10 | crsfn-10461 | fichas/crsfn/2013-01.md |
+| Processo (normalizado) | Forma no julgado | Tipo | Data | Ementa | Id | Ficha |
+|---|---|---|---|---|---|---|
+| 01-2001 | 01/2001 | pas | 2002-12-12 | [pessoa física] Auditoria Inepta - Infração considerada grave, nos termos do art. 31, b, combinado com o art. 32 da Instrução CVM nº 216… | cvm-pas-01-2001 | fichas/pas/2002-07.md |
+| 01-2001 | 01/01 | acordao-crsfn | 2005-04-27 | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários - Auditoria independente - Execução dos trabalhos em desacordo com as normas… | crsfn-4657 | fichas/crsfn/2005-01.md |
+| 04-2001 | 04/2001 | pas | 2005-06-13 | POSTALIS Realização de operações fraudulentas, nos termos do inciso II, alínea c, e vedadas pelo inciso I, ambos da Instrução CVM nº 08/79… | cvm-pas-04-2001 | fichas/pas/2005-09.md |
+| 04-2001 | 04/01 | acordao-crsfn | 2015-05-26 | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários - Realização de operações fraudulentas – Irregularidades, inclusive… | crsfn-9058 | fichas/crsfn/2015-02.md |
+| 05-2001 | 05/2001 | pas | 2004-06-21 | MILBANCO CCV E OUTROS a) Realização de operação fraudulenta decorrente do conhecimento prévio por outros investidores do mercado da compra… | cvm-pas-05-2001 | fichas/pas/2004-03.md |
+| 05-2001 | 05/2001 | pas | 2004-07-19 | a) Realização de operação fraudulenta decorrente do conhecimento prévio por outros investidores do mercado da compra de valores mobiliários… | cvm-pas-05-2001-2 | fichas/pas/2004-07.md |
+| 06-2001 | 06/01 | termo-compromisso | 2004-06-24 | O Colegiado não aceitou a proposta de termo de compromisso apresentada no PAS CVM 06/01 (Lumiére S.A.), acompanhando o voto do relator. | cvm-col-20040624-d05 | fichas/tc/2004-01.md |
+| 06-2001 | 06/2001 | pas | 2004-12-09 | Infração ao § 3º do art. 170, combinado com o art. 8º, ambos da Lei n° 6.404/76. Inabilitações. Infração ao § 4º do art. 157 da Lei… | cvm-pas-06-2001 | fichas/pas/2004-15.md |
+| 06-2001 | 06/01 | acordao-crsfn | 2008-06-25 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários – Aprovação de aumento de capital subscrito com bens imóveis sem nomeação… | crsfn-8543 | fichas/crsfn/2008-04.md |
+| 07-2001 | 07/2001 | pas | 2005-03-21 | [pessoa física] E OUTROS (GPC PARTICIPAÇÕES S/A) Não caracterização da imputação de violação aos artigos 153 e 154, "caput" e § 2º, alínea… | cvm-pas-07-2001 | fichas/pas/2005-04.md |
+| 08-2001 | 08/01 | termo-compromisso | 2004-06-24 | Com impedimento de dois diretores, o Colegiado acompanhou o relator e negou a celebração do termo de compromisso proposto por Opportunity… | cvm-col-20040624-d06 | fichas/tc/2004-01.md |
+| 08-2001 | 08/2001 | pas | 2004-09-23 | Oferta a investidores residentes e domiciliados no Brasil de cotas emitidas por investidor estrangeiro registrado na CVM na forma do Anexo… | cvm-pas-08-2001 | fichas/pas/2004-11.md |
+| 08-2001 | 08/01 | acordao-crsfn | 2007-08-30 | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Esforço de colocação, a investidores residentes e domiciliados no Brasil, cotas… | crsfn-6255 | fichas/crsfn/2007-02.md |
+| 09-2001 | 09/2001 | termo-compromisso | 2006-08-29 | O Colegiado indeferiu proposta de Termo de Compromisso do banco e de outros três indiciados, em inquérito sobre condições artificiais e… | cvm-col-20060829-d02 | fichas/tc/2006-04.md |
+| 09-2001 | 09/01 | termo-compromisso | 2006-11-07 | O Colegiado aceitou nova proposta de termo de compromisso do Exprinter Losan e outros, nos termos do voto do relator: pagamento à Receita… | cvm-col-20061107-d01 | fichas/tc/2006-06.md |
+| 09-2001 | 09/2001 | termo-compromisso | 2006-12-19 | O Colegiado decidiu consultar a Receita Federal sobre procedimento para pagar por DARF, e não por GRU à CVM, tributos prescritos objeto de… | cvm-col-20061219-d17 | fichas/tc/2006-07.md |
+| 09-2001 | 09/2001 | termo-compromisso | 2007-01-09 | O Colegiado aceitou proposta de termo de compromisso do Banco Exprinter Losan S.A. e outros, nos termos aprovados em 07.11.06: pagamento de… | cvm-col-20070109-d04 | fichas/tc/2007-01.md |
+| 12-2001 | 12/01 | termo-compromisso | 2004-12-14 | O Colegiado negou a celebração de termo de compromisso proposto por um indiciado no PAS CVM 12/01, acompanhando o voto do relator, que… | cvm-col-20041214-d04 | fichas/tc/2004-02.md |
+| 12-2001 | 12/2001 | pas | 2006-01-12 | Violação dos artigos 155, II (dever de lealdade) e 156 (conflito de interesses), ambos da Lei nº 6.404/76. Multa. - Descumprimento do § 2º… | cvm-pas-12-2001 | fichas/pas/2006-01.md |
+| 12-2001 | 12/01 | acordao-crsfn | 2010-09-14 | RECURSO(S) VOLUNTÁRIO(S)– Mercado de valores mobiliários – Prática de atos, como administrador, em desacordo com os interesses da companhia… | crsfn-11101 | fichas/crsfn/2010-08.md |
+| 13-2001 | 13/2001 | termo-compromisso | 2006-10-03 | O Colegiado rejeitou as propostas de termo de compromisso apresentadas pela TUMIM Consultoria Empreendimentos e Participações Ltda., seus… | cvm-col-20061003-d03 | fichas/tc/2006-04.md |
+| 13-2001 | 13/2001 | pas | 2006-10-17 | Acusação de intermediação irregular de valores mobiliários, em infração ao artigo 15, combinado com o artigo 16, § único, da Lei nº… | cvm-pas-13-2001 | fichas/pas/2006-21.md |
+| 13-2001 | 13/01 | acordao-crsfn | 2010-10-27 | RECURSO DE OFÍCIO - Mercado de valores mobiliários - Atuação de empresas e pessoas físicas não integrantes do sistema distribuição… | crsfn-11412 | fichas/crsfn/2010-09.md |
+| 14-2001 | 14/2001 | pas | 2005-04-12 | BANCO BOAVISTA INTERATLÂNTICO, SUCESSOR DO BANCO BOAVISTA S/A 1) Criação de condições artificiais de demanda, oferta e preço de valores… | cvm-pas-14-2001 | fichas/pas/2005-06.md |
+| 14-2001 | 14/2001 | acordao-crsfn | 2016-02-23 | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Instituições Financeiras – Operações fraudulentas – Criação de… | crsfn-8550 | fichas/crsfn/2016-02.md |
+| 16-2001 | 16/01 | termo-compromisso | 2005-04-08 | O Colegiado aprovou a celebração de Termo de Compromisso com o Bank of America – Brasil S.A., incorporador do Banco Liberal S.A., e com o… | cvm-col-20050408-d01 | fichas/tc/2005-01.md |
+| 16-2001 | 16/01 | termo-compromisso | 2005-05-16 | O Colegiado acolheu o entendimento da relatora e determinou alteração no item (ii) da proposta de Termo de Compromisso do Bank of America… | cvm-col-20050516-d02 | fichas/tc/2005-01.md |
+| 16-2001 | 16/2001 | pas | 2005-11-03 | Imputação de criação de condições artificiais de demanda, oferta ou preço de valores mobiliários, em infração ao item I, conforme definido… | cvm-pas-16-2001 | fichas/pas/2005-14.md |
+| 17-2001 | 17/2001 | pas | 2003-10-16 | Abuso de poder em decorrência de realização de contratos de mútuo com empresa pertencente ao acionista controlador em condições de… | cvm-pas-17-2001 | fichas/pas/2003-07.md |
+| 17-2001 | 17/01 | acordao-crsfn | 2007-09-27 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Distorção na conta estoque de gado por incluir bens de existência… | crsfn-5310 | fichas/crsfn/2007-02.md |
+| 18-2001 | 18/01 | termo-compromisso | 2004-07-02 | O Colegiado, acompanhando o voto do diretor relator, indeferiu as duas propostas de Termo de Compromisso no PAS nº 18/01, visando à… | cvm-col-20040702-d04 | fichas/tc/2004-01.md |
+| 18-2001 | 18/2001 | pas | 2004-11-04 | Infração ao parágrafo único, do art. 11, da Instrução CVM nº 31/84. Insider Trading. Multas. Infração ao inciso II, do art. 14, da… | cvm-pas-18-2001 | fichas/pas/2004-13.md |
+| 18-2001 | 18/01 | acordao-crsfn | 2008-02-26 | O CRSFN deu provimento aos recursos voluntários da FAR e de um administrador e negou provimento ao recurso de ofício da CVM. Não aceitou… | crsfn-8253 | fichas/crsfn/2008-01.md |
+| ia2001-0005 | IA-2001-5 | acordao-crsfn | 2009-10-27 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado | crsfn-6197 | fichas/crsfn/2009-07.md |
+| ia2001-0088 | IA01/88 | acordao-crsfn | 2008-03-27 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falhas na gestão dos negócios da companhia e na elaboração, publicação e aprovação das… | crsfn-8551 | fichas/crsfn/2008-02.md |
+| rj2001-0281 | RJ2001/0281 | termo-compromisso | 2002-03-28 | O Colegiado aprovou, em 28/03/2002, proposta de termo de compromisso (art. 11, §5º, Lei 6.385/76) no Inquérito Administrativo CVM nº… | cvm-tc-rj2001-0281-20020328 | fichas/tc/2002.md |
+| rj2001-0554 | RJ2001/0554 | pas | 2002-10-23 | [pessoa física] E OUTROS (PEIXE S/A) Descumprimento dos artigos 132, 153, 154, 156 e 117, § 1º, alíneas "a" "c" e "f", todos da Lei nº… | cvm-pas-rj2001-0554 | fichas/pas/2002-05.md |
+| rj2001-0554 | RJ/2001/0554 | acordao-crsfn | 2004-02-09 | RECURSO DE OFÍCIO - Mercado de valores mobiliários - Falta de convocação de assembléias gerais extraordinárias - Abuso de poder por… | crsfn-4547 | fichas/crsfn/2004-01.md |
+| rj2001-1789 | RJ2001/1789 | termo-compromisso | 2003-03-12 | O Colegiado acompanhou o voto do diretor-relator e indeferiu a proposta de termo de compromisso do proponente, agente autônomo de… | cvm-col-20030312-d07 | fichas/tc/2003.md |
+| rj2001-1789 | RJ2001/1789 | termo-compromisso | 2003-08-05 | O Colegiado aprovou nova proposta de termo de compromisso apresentada por agente autônomo de investimentos, conforme voto do… | cvm-col-20030805-d05 | fichas/tc/2003.md |
+| rj2001-1826 | RJ2001/1826 | pas | 2003-08-14 | A atividade de intermediação só pode ser exercida pelos integrantes do sistema de distribuição de valores mobiliários. | cvm-pas-rj2001-1826 | fichas/pas/2003-04.md |
+| rj2001-1826 | RJ-2001-1826 | acordao-crsfn | 2009-04-15 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Atuação habitual na intermediação sem a entidade integrar o sistema… | crsfn-5416 | fichas/crsfn/2009-02.md |
+| rj2001-1950 | RJ2001/1950 | pas | 2001-12-12 | [pessoa física] (CIA VALE DO RIO DOCE) Infração à Instrução CVM 31/84. Uma vez que não fique comprovada a existência da informação que… | cvm-pas-rj2001-1950 | fichas/pas/2001-09.md |
+| rj2001-3809 | RJ2001/3809 | pas | 2002-04-25 | [pessoa física] Intermediação irregular no mercado de valores mobiliários, por pessoa não integrante do sistema de intermediação previsto… | cvm-pas-rj2001-3809 | fichas/pas/2002-04.md |
+| rj2001-4187 | RJ2001/4187 | pas | 2002-04-18 | EM LIQUIDAÇÃO EXTRAJUDICIAL Realização de operações de Fundo de Investimento Imobiliário quando caracterizada situação de conflito de… | cvm-pas-rj2001-4187 | fichas/pas/2002-03.md |
+| rj2001-4355 | RJ2001/4355 | pas | 2003-04-10 | Improcedência da acusação de descumprimento da alínea "b" , do inciso III, e inciso IV, do artigo 10, da Instrução CVM nº 82/88, bem como… | cvm-pas-rj2001-4355 | fichas/pas/2003-03.md |
+| rj2001-4355 | RJ2001/04355 | acordao-crsfn | 2004-04-28 | RECURSO DE OFÍCIO - Mercado de valores mobiliários - Fundo de investimento - Administração de carteira sem devida autorização do órgão… | crsfn-4877 | fichas/crsfn/2004-01.md |
+| rj2001-4474 | RJ2001/4474 | termo-compromisso | 2004-12-14 | O Colegiado negou a celebração de termos de compromisso propostos por três proponentes no PAS CVM RJ2001/4474 (SAM Indústrias S.A.)… | cvm-col-20041214-d01 | fichas/tc/2004-02.md |
+| rj2001-4474 | RJ2001/4474 | termo-compromisso | 2005-03-01 | O Colegiado manteve o indeferimento do pedido de reconsideração da proposta de Termo de Compromisso dos indiciados no PAS RJ2001/4474 (SAM… | cvm-col-20050301-d01 | fichas/tc/2005-01.md |
+| rj2001-4474 | RJ2001/4474 | pas | 2005-03-30 | [pessoa física] E OUTROS Caracterização de exercício abusivo de poder, conforme tipificado nas alíneas a, c, f, do § 1º, do art. 117, da… | cvm-pas-rj2001-4474 | fichas/pas/2005-05.md |
+| rj2001-4619 | RJ2001/4619 | termo-compromisso | 2006-10-24 | O Colegiado aceitou proposta de termo de compromisso da AES Guaíba II Empreendimentos de R$ 30.000,00, como condição de eficácia… | cvm-col-20061024-d03 | fichas/tc/2006-05.md |
+| rj2001-4635 | RJ2001/4635 | pas | 2004-12-16 | Não configuração da acusação de Abuso de Poder, previsto na alínea “c”, § 1º, artigo 117 da Lei nº 6.404/76. Absolvições. | cvm-pas-rj2001-4635 | fichas/pas/2004-16.md |
+| rj2001-4635 | RJ-2001-4635 | acordao-crsfn | 2009-10-27 | RECURSO DE OFÍCIO - Mercado de valores mobiliários - Direito de recesso - Não informação do valor de reembolso - Bloqueio ao exercício do… | crsfn-10377 | fichas/crsfn/2009-06.md |
+| rj2001-4652 | RJ2001/4652 | termo-compromisso | 2004-12-07 | O Colegiado não apreciou proposta de Termo de Compromisso apresentada pela companhia, que não era indiciada no PAS, e determinou o… | cvm-col-20041207-d13 | fichas/tc/2004-02.md |
+| rj2001-4652 | RJ2001/4652 | termo-compromisso | 2005-03-22 | Apreciação de proposta de termo de compromisso. PAS nº RJ2001/4652. | cvm-col-20050322-d02 | fichas/tc/2005-01.md |
+| rj2001-4977 | RJ2001/4977 | pas | 2001-12-19 | TELECELULAR SUL PARTICIPAÇÕES E OUTRO (CTMR CELULAR S/A) O acionista controlador, por força do disposto no parágrafo 1º do artigo 115 da… | cvm-pas-rj2001-4977 | fichas/pas/2001-10.md |
+| rj2001-4977 | RJ2001/4977 | acordao-crsfn | 2004-01-21 | RECURSOS VOLUNTÁRIOS - Mercado de valores mobiliários – Artigo 115 da Lei 6404/76 - Assembléia Geral - Conflito de Interesses - Exercício… | crsfn-4120 | fichas/crsfn/2004-01.md |
+| rj2001-6094 | RJ2001/6094 | pas | 2001-12-13 | [pessoa física] E OUTROS (FAZENDAS REUNIDAS BOI GORDO S/A) Distribuição irregular de contratos de investimento coletivo. Recebimento de… | cvm-pas-rj2001-6094 | fichas/pas/2001-09.md |
+| rj2001-6094 | RJ2001/6094 | acordao-crsfn | 2004-06-28 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários - Contratos de Investimento Coletivo-CIC - Emissão pública sem prévio… | crsfn-4079 | fichas/crsfn/2004-02.md |
+| rj2001-6226 | RJ2001/6226 | termo-compromisso | 2002-09-20 | O Colegiado acompanhou o voto da diretora relatora e indeferiu a proposta de termo de compromisso do acusado em inquérito por manipulação… | cvm-col-20020920-d01 | fichas/tc/2002.md |
+| rj2001-6226 | RJ2001/6226 | pas | 2003-05-15 | Tentativa de manipulação de preço de ações através de simulação de conversa em "site" mantido por corretora destinado à troca de opiniões… | cvm-pas-rj2001-6226 | fichas/pas/2003-03.md |
+| rj2001-6226 | RJ/2001/6226 | acordao-crsfn | 2004-05-26 | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários - Internet - Difusão, pela rede, de falsa informação acerca de recompra de ações de… | crsfn-5039 | fichas/crsfn/2004-02.md |
+| rj2001-6835 | RJ2001/6835 | pas | 2002-06-05 | [pessoa física] E OUTROS (CONSTRUTORA SULTEPA S/A) A obrigação de cumprir determinação de republicação das demonstrações financeiras da… | cvm-pas-rj2001-6835 | fichas/pas/2002-04.md |
+| rj2001-6835 | RJ2001/06835 | acordao-crsfn | 2005-11-09 | RECURSOS VOLUNTÁRIOS – Mercado de valores mobiliários – Contabilização indevida em resultados de exercícios futuros e em ajustes de… | crsfn-4288 | fichas/crsfn/2005-02.md |
+| rj2001-7557 | RJ2001/7557 | pas | 2004-07-22 | AUDITORIA E OUTROS - Auditoria Inepta. - Infração aos artigos 1º, 4º, inciso III, 25 e 29, incisos II e IV, da Instrução CVM nº 216/94… | cvm-pas-rj2001-7557 | fichas/pas/2004-07.md |
+| rj2001-7626 | RJ2001/7626 | termo-compromisso | 2004-09-10 | O Colegiado aprovou termo de compromisso proposto por uma sociedade de auditoria independente e outro proponente, para suspender PAS, com… | cvm-col-20040910-d01 | fichas/tc/2004-02.md |
+| rj2001-7661 | RJ2001/7661 | pas | 2002-04-25 | [pessoa física] Auditoria Inepta | cvm-pas-rj2001-7661 | fichas/pas/2002-04.md |
+| rj2001-7661 | RJ2001/7661 | acordao-crsfn | 2005-02-23 | RECURSO VOLUNTÁRIO - Mercado de valores mobiliários – Auditoria independente – Emissão de documentos sem constar indicação da categoria… | crsfn-4184 | fichas/crsfn/2005-01.md |
+| rj2001-7686 | RJ2001/7686 | pas | 2002-03-13 | BAWMAN AGROPECUÁRIA E COMERCIAL S/A, [pessoa física] E OUTROS Distribuição irregular de Contratos de Investimento Coletivo - É proibida a… | cvm-pas-rj2001-7686 | fichas/pas/2002-01.md |
+| rj2001-7749 | RJ2001/7749 | pas | 2004-10-14 | Não manutenção do registro de companhia aberta atualizado. Responsabilidade do Diretor de Relações com Investidores quanto à prestação de… | cvm-pas-rj2001-7749 | fichas/pas/2004-12.md |
+| rj2001-7749 | RJ-2001-7749 | acordao-crsfn | 2009-06-29 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Falta de atualização, pelo diretor de relação com os investidores, do… | crsfn-7358 | fichas/crsfn/2009-04.md |
+| rj2001-8023 | RJ2001/8023 | pas | 2002-10-23 | [pessoa física] E OUTROS (FRISA FRIGORÍFICO RIO DOCE S/A) Eleição de conselheiro fiscal representante dos preferencialistas por acionistas… | cvm-pas-rj2001-8023-2 | fichas/pas/2002-06.md |
+| rj2001-8023 | RJ2001/8023 | pas | 2002-10-23 | [pessoa física] E OUTORS (FRISA FRIGORÍFICO RIO DOCE S/A) Eleição de conselheiro fiscal representante dos preferencialistas por acionistas… | cvm-pas-rj2001-8023 | fichas/pas/2002-06.md |
+| rj2001-8028 | RJ2001/8028 | termo-compromisso | 2005-02-15 | O Colegiado negou a celebração de Termo de Compromisso proposto pela Moreira & Associados Auditores e por dois indiciados pessoas físicas… | cvm-col-20050215-d02 | fichas/tc/2005-01.md |
+| rj2001-8028 | RJ2001/8028 | pas | 2005-03-14 | MOREIRA & ASSOCIADOS AUDITORES E OUTROS Violação do artigo 5º, IV, da Instrução CVM nº 216/94 (irregularidades cadastrais). Não… | cvm-pas-rj2001-8028 | fichas/pas/2005-03.md |
+| rj2001-8028 | RJ-2001-8028 | acordao-crsfn | 2008-08-28 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Auditor independente – Irregularidade no registro de auditor na CVM… | crsfn-9057 | fichas/crsfn/2008-05.md |
+| rj2001-8029 | RJ2001/8029 | pas | 2004-05-06 | Emissão de parecer de auditoria sem ressalva para as demonstrações financeiras do exercício social encerrado em 31/12/99 da companhia… | cvm-pas-rj2001-8029 | fichas/pas/2004-02.md |
+| rj2001-8045 | RJ2001/8045 | pas | 2002-12-20 | ARNALDO MELLO FIGUEIREDO E OUTROS (CACHOEIRA VELONORTE S/A) O parecer dos auditores independentes é parte integrante das demonstrações… | cvm-pas-rj2001-8045 | fichas/pas/2002-08.md |
+| rj2001-8280 | RJ2001/8280 | pas | 2002-11-14 | [pessoa física] (SPSCS INDUSTRIAL S/A) Demonstrações financeiras da SPSCS Industrial S/A (atual denominação social da Brasinca Industrial… | cvm-pas-rj2001-8280 | fichas/pas/2002-07.md |
+| rj2001-8363 | RJ2001/8363 | termo-compromisso | 2005-01-18 | O Colegiado rejeitou proposta de Termo de Compromisso do proponente no PAS CVM RJ2001/8363 (Estratégia Investimentos S/A CVC e outros)… | cvm-col-20050118-d02 | fichas/tc/2005-01.md |
+| rj2001-8363 | RJ2001/8363 | pas | 2005-03-28 | ESTRATÉGIA INVESTIMENTOS S/A CVC E OUTROS (RIOPART / RIOINVEST) 1) Mediação de valores mobiliários fora de bolsa, por pessoas não… | cvm-pas-rj2001-8363 | fichas/pas/2005-04.md |
+| rj2001-8363 | RJ-2001-8363 | acordao-crsfn | 2009-06-29 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Intermediação sem devida chancela da autoridade supervisora… | crsfn-8548 | fichas/crsfn/2009-04.md |
+| rj2001-8385 | RJ2001/8385 | pas | 2003-04-03 | [pessoa física] e outros. - Infração art. 132, ao inciso I do art. 133, ao inciso IV do art. 142, ao art. 153, ao § 2º do art. 176, ao… | cvm-pas-rj2001-8385 | fichas/pas/2003-02.md |
+| rj2001-8385 | RJ2001/8385 | acordao-crsfn | 2004-05-26 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários - Atraso na elaboração e publicação de demonstrações financeiras - Não… | crsfn-4988 | fichas/crsfn/2004-02.md |
+| rj2001-8388 | RJ2001/8388 | pas | 2002-04-18 | [pessoa física] (ORION S/A) Ausência de comunicação à CVM acerca do aumento de participação acionária de membro do conselho fiscal… | cvm-pas-rj2001-8388 | fichas/pas/2002-04.md |
+| rj2001-8473 | RJ2001/8473 | termo-compromisso | 2004-10-05 | O Colegiado indeferiu proposta de termo de compromisso apresentada pela Boucinhas & Campos S/C Auditores Independentes e por um indiciado… | cvm-col-20041005-d02 | fichas/tc/2004-02.md |
+| rj2001-8473 | RJ2001/8473 | pas | 2004-10-18 | Boucinhas & Campos S/C Auditores Independentes (sucedida por Boucinhas & Campos + Soteconti Auditores Independentes S/C). Inobservância do… | cvm-pas-rj2001-8473 | fichas/pas/2004-13.md |
+| rj2001-8473 | RJ-2001-8473 | acordao-crsfn | 2011-06-15 | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários - Auditoria independente – Atuação em desacordo com as normas legais… | crsfn-7357 | fichas/crsfn/2011-03.md |
+| rj2001-8739 | RJ2001/8739 | termo-compromisso | 2002-12-02 | O Colegiado rejeitou proposta de Termo de Compromisso apresentada pelo acusado em Termo de Acusação, por concluir pela impossibilidade de… | cvm-col-20021202-d14 | fichas/tc/2002.md |
+| rj2001-8739 | RJ2001/8739 | pas | 2003-09-11 | Infração ao art. 20 da Instrução CVM nº308/99. | cvm-pas-rj2001-8739 | fichas/pas/2003-05.md |
+| rj2001-8739 | RJ2001/8739 | acordao-crsfn | 2004-07-14 | RECURSOS VOLUNTÁRIOS - Mercado de Valores Mobiliários - Auditoria independente - Contratação da pessoa jurídica e serviços efetuados pelo… | crsfn-5265 | fichas/crsfn/2004-03.md |
+| rj2001-9686 | RJ2001/9686 | pas | 2004-08-12 | Inexistência de abuso do direito de voto, previsto no art. 115 da Lei nº 6.404/76, por parte dos acionistas Fundação Sudameris e Espólio do… | cvm-pas-rj2001-9686 | fichas/pas/2004-09.md |
+| rj2001-9701 | RJ2001/9701 | pas | 2003-04-03 | Infração ao disposto no inciso I do artigo 10 e nos Incisos VII e IX do artigo 11, todos da Instrução CVM nº 82, de 19/09/88. - Multa. | cvm-pas-rj2001-9701 | fichas/pas/2003-02.md |
+| rj2001-9701 | RJ2001/9701 | acordao-crsfn | 2006-03-06 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Fundo de investimento – Realização de operações em benefício indevido… | crsfn-5135 | fichas/crsfn/2006-01.md |
+| rj2001-9705 | RJ2001/9705 | termo-compromisso | 2002-04-09 | Termo de compromisso. Proc. RJ2001/9705. | cvm-tc-rj2001-9705-20020409 | fichas/tc/2002.md |
+| rj2001-9999 | RJ2001/9999 | pas | 2003-04-10 | Auditora Samar Auditores e Contadores S/C e outros - Elaboração de demonstrações financeiras de companhia aberta sem observância da… | cvm-pas-rj2001-9999 | fichas/pas/2003-03.md |
+| rj2001-11808 | RJ2001/11808 | pas | 2007-10-02 | IPSA) - Não manutenção do registro de companhia aberta atualizado. Descumprimento reiterado do disposto nos arts. 13, 16 e 17 da Instrução… | cvm-pas-rj2001-11808 | fichas/pas/2007-13.md |
+| rj2001-11949 | RJ2001/11949 | pas | 2005-12-06 | Desvio de recursos de companhias incentivadas em benefício de terceiros e existência de lançamentos contábeis fictícios ou baseados em… | cvm-pas-rj2001-11949 | fichas/pas/2005-17.md |
+| rj2001-11949 | RJ-2001/11949 | acordao-crsfn | 2009-09-30 | RECURSOS VOLUNTÁRIO E DE OFÍCIO – Mercado de valores mobiliários – Sociedades beneficiárias – Administração de recursos oriundos de… | crsfn-9795 | fichas/crsfn/2009-06.md |
+| rj2001-12037 | RJ2001/12037 | termo-compromisso | 2006-09-26 | O Colegiado rejeitou as propostas de termo de compromisso dos acusados sobre pareceres de auditoria em republicações de demonstrações… | cvm-col-20060926-d06 | fichas/tc/2006-04.md |
+| rj2001-12037 | RJ2001/12037 | termo-compromisso | 2006-11-07 | O Colegiado acompanhou o relator e aceitou nova proposta de termo de compromisso dos acusados, de R$ 20.655,00, como condição de eficácia… | cvm-col-20061107-d02 | fichas/tc/2006-06.md |
+| rj2001-12098 | RJ2001/12098 | termo-compromisso | 2003-03-17 | O Colegiado rejeitou nova proposta de termo de compromisso apresentada pelo BB DTVM em processo de rito sumário, porque a minuta não… | cvm-col-20030317-d04 | fichas/tc/2003.md |
+| rj2001-12098 | RJ2001/12098 | termo-compromisso | 2003-03-25 | O Colegiado aprovou a celebração de termo de compromisso com a BB DTVM, em processo de rito sumário, na nova proposta apresentada após a… | cvm-col-20030325-d01 | fichas/tc/2003.md |
+| rj2001-12130 | RJ2001/12130 | termo-compromisso | 2005-08-09 | O Colegiado aprovou o termo de compromisso proposto pela Petrobras e por um administrador, nos termos apreciados pela PFE. Conforme o voto… | cvm-col-20050809-d01 | fichas/tc/2005-02.md |
+| rj2001-12173 | RJ2001/12173 | pas | 2003-12-10 | Vasco da Gama Licenciamentos S/A (VGL) - Não realização de Assembléia Geral Ordinária- Infração ao artigo 132 da Lei nº 6.404/76… | cvm-pas-rj2001-12173 | fichas/pas/2003-08.md |
+| rj2001-12173 | RJ/2001/12173 | acordao-crsfn | 2006-10-19 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falta de convocação de assembléia geral no prazo regulamentar – Omissão do acionista… | crsfn-5966 | fichas/crsfn/2006-02.md |
+| sp2001-0001 | SP2001/0001 | pas | 2001-06-27 | PROSPER S/A CORRETORA DE VALORES E CÂMBIO E [pessoa física] Aplicação da Instrução CVM Nº 301/99 e das penalidades previstas no artigo 12… | cvm-pas-sp2001-0001 | fichas/pas/2001-03.md |
+| sp2001-0003 | SP2001/0003 | pas | 2002-12-12 | WALPIRES S/A CCVM E OUTROS Operação fraudulenta, na forma da letra c do inciso II da Instrução CVM nº 08/79; infração ao art. 16 da Lei nº… | cvm-pas-sp2001-0003 | fichas/pas/2002-08.md |
+| sp2001-0003 | SP2001/0003 | acordao-crsfn | 2004-09-15 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Alienação de ações, em bolsa de valores, mediante uso de documentos… | crsfn-4819 | fichas/crsfn/2004-03.md |
+| sp2001-0034 | SP2001/0034 | pas | 2004-08-12 | Intermediação de valores mobiliários por pessoa não integrante do sistema de distribuição de valores - Infração ao artigo 16, III, da Lei… | cvm-pas-sp2001-0034 | fichas/pas/2004-09.md |
+| sp2001-0034 | SP-2001-0034 | acordao-crsfn | 2007-09-26 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Exercício de atividade de intermediação de valores mobiliários sem ser… | crsfn-7361 | fichas/crsfn/2007-02.md |
+| sp2001-0140 | SP2001/0140 | pas | 2002-03-21 | E.M.S. MONTEIRO PARTICIPAÇÕES S/C LTDA. E OUTROS Operações fraudulentas no mercado de valores mobiliários, praticadas por pessoas não… | cvm-pas-sp2001-0140 | fichas/pas/2002-02.md |
+| sp2001-0204 | SP2001/0204 | termo-compromisso | 2004-08-05 | O Colegiado negou a celebração de termo de compromisso proposto por uma corretora e outros proponentes em processo de rito sumário, por… | cvm-col-20040805-d05 | fichas/tc/2004-01.md |
+| sp2001-0209 | SP2001/0209 | termo-compromisso | 2006-01-31 | O Colegiado indeferiu proposta de termo de compromisso de indiciados em PAS sobre intermediação irregular de valores mobiliários… | cvm-col-20060131-d07 | fichas/tc/2006-01.md |
+| sp2001-0209 | SP2001/0209 | pas | 2006-05-30 | Exercício irregular da atividade de intermediação no sistema de distribuição de valores mobiliários: multa. | cvm-pas-sp2001-0209 | fichas/pas/2006-11.md |
+| sp2001-0236 | SP2001/0236 | pas | 2004-07-19 | Prática de manipulação de preços, conforme definida na alínea “b” do inciso II da Instrução CVM nº 08/79, em infração ao item I da referida… | cvm-pas-sp2001-0236 | fichas/pas/2004-07.md |
+| sp2001-0236 | SP-2001/0236 | acordao-crsfn | 2010-01-26 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários – Realização de operações em bolsa de valores - Leilão eletrônico - Call… | crsfn-6065 | fichas/crsfn/2010-01.md |
+| sp2001-0240 | SP2001/0240 | pas | 2004-07-22 | Prática de operação fraudulenta no mercado de valores mobiliários, conforme definida no incisos I e II, “c”, da Instrução CVM nº 08/79… | cvm-pas-sp2001-0240 | fichas/pas/2004-07.md |
+| sp2001-0240 | SP-2001-240 | acordao-crsfn | 2007-04-25 | RECURSO VOLUNTÁRIO E DE OFÍCIO – Mercado de valores mobiliários – Negociação de ações mediante uso de documentos falsos – Irregularidade… | crsfn-6187 | fichas/crsfn/2007-01.md |
+| sp2001-0307 | SP2001/0307 | pas | 2003-06-12 | Transferência indevida de ações e fornecimento de informação de carteira fictícia a investidor. Prática de operação fraudulenta, em… | cvm-pas-sp2001-0307 | fichas/pas/2003-04.md |
+| sp2001-0307 | SP-2001/0307 | acordao-crsfn | 2006-12-13 | RECURSOS VOLUNTÁRIO E DE OFÍCIO – Mercado de valores mobiliários – Realização de operação fraudulenta e exercício irregular de… | crsfn-5116 | fichas/crsfn/2006-02.md |
+| sp2001-0373 | SP2001/0373 | pas | 2004-06-24 | Acolhimento e realização de operações de clientes sem as informações cadastrais atualizadas. Infração ao disposto no art. 3º, da Instrução… | cvm-pas-sp2001-0373 | fichas/pas/2004-04.md |
+| sp2001-0386 | SP2001/0386 | pas | 2003-09-03 | Não comprovada a acusação de inexistência de controles internos da corretora que permitissem atestar a ocorrência de lavagem de dinheiro… | cvm-pas-sp2001-0386 | fichas/pas/2003-04.md |
+| sp2001-0395 | SP2001/0395 | pas | 2003-09-11 | A corretora de valores deve manter nas fichas cadastrais informações patrimoniais de seus clientes (art. 3º da Instrução CVM nº 301/99)… | cvm-pas-sp2001-0395 | fichas/pas/2003-05.md |
+| sp2001-0465 | SP2001/465 | pas | 2004-10-06 | BOLSA DE VALORES DE MINAS - [pessoa física] - BRASÍLIA E OUTRO - Descumprimento de decisões CVM exaradas em processos de Fundo de Garantia… | cvm-pas-sp2001-0465 | fichas/pas/2004-12.md |
+| sp2001-0465 | SP-2001-465 | acordao-crsfn | 2007-09-27 | RECURSOS VOLUNTÁRIOS – Mercado de valores mobiliários – Determinação da autoridade fiscalizadora para ressarcimento a investidores do Fundo… | crsfn-6297 | fichas/crsfn/2007-02.md |
+| sp2001-0724 | SP2001/0724 | pas | 2002-10-10 | SUPRA CV LTDA. E OUTROS. | cvm-pas-sp2001-0724 | fichas/pas/2002-05.md |
+| sp2001-0724 | SP2001/0724 | pas | 2002-12-20 | SUPRA CV LTDA., INVESTIPLAN PARTICIPAÇÕES E ADMINISTRAÇÃO LTDA. E OUTROS a) Prática de intermediação sem a devida autorização e com “stop… | cvm-pas-sp2001-0724-2 | fichas/pas/2002-08.md |
+| sp2001-0724 | SP2001/0724 | acordao-crsfn | 2004-01-21 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários - Inobservância dos deveres de diligência e zelo ao permitir atuação de… | crsfn-4787 | fichas/crsfn/2004-01.md |
+| sp2001-0725 | SP2001/0725 | pas | 2003-03-13 | [pessoa física], UNITAS DTVM E OUTROS a) O intermediário se torna responsável pelos atos praticados em decorrência do cadastramento de… | cvm-pas-sp2001-0725 | fichas/pas/2003-01.md |
+| sp2001-0799 | SP2001/0799 | termo-compromisso | 2005-08-23 | O Colegiado rejeitou as duas propostas de termo de compromisso apresentadas por indiciados em PAS, acompanhando os argumentos do relator… | cvm-col-20050823-d02 | fichas/tc/2005-02.md |
+| sp2001-0799 | SP2001/0799 | pas | 2005-11-30 | Descumprimento dos arts. 4º e 5º da Instrução CVM nº 220/94 e do art. 36 da Resolução CMN nº 1.656/89. Multa. - Descumprimento do art. 16… | cvm-pas-sp2001-0799 | fichas/pas/2005-17.md |
+| sp2001-0799 | SP-2001-0799 | acordao-crsfn | 2013-01-10 | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Sociedade distribuidora - Intermediação indevida em negócios com… | crsfn-10461 | fichas/crsfn/2013-01.md |
 
 Fim do subíndice.

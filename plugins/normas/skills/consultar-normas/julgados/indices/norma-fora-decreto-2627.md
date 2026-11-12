@@ -11,13 +11,13 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 81, parágrafo único | pas | RJ2015/10276 | 2017-07-11 | absolvicao | cvm-pas-rj2015-10276 | fichas/pas/2017-03.md |
+| art. 81, parágrafo único | pas | RJ2015/10276 | 2017-07-11 | absolvicao | cvm-pas-rj2015-10276 | fichas/pas/2017-06.md |
 
 ## art. 82
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 82 | pas | RJ2001/4977 | 2001-12-19 | condenacao | cvm-pas-rj2001-4977 | fichas/pas/2001-05.md |
+| art. 82 | pas | RJ2001/4977 | 2001-12-19 | condenacao | cvm-pas-rj2001-4977 | fichas/pas/2001-10.md |
 
 ## Citada sem dispositivo identificado
 
@@ -28,7 +28,7 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2004/5494 | 2004-12-16 | parcial | cvm-col-20041216-d04 | fichas/colegiado/2004-16.md |
 | decisao-colegiado | RJ2004/3666 | 2004-06-24 | deferido | cvm-col-20040624-d03 | fichas/colegiado/2004-07.md |
 | decisao-colegiado | RJ2002/7537 | 2003-06-17 | nao-provido | cvm-col-20030617-d01 | fichas/colegiado/2003-08.md |
-| pas | RJ2002/1153 | 2002-11-06 | absolvicao | cvm-pas-rj2002-1153 | fichas/pas/2002-03.md |
+| pas | RJ2002/1153 | 2002-11-06 | absolvicao | cvm-pas-rj2002-1153 | fichas/pas/2002-06.md |
 | decisao-colegiado | RJ2001/12367 | 2002-04-26 | provido | cvm-col-20020426-d05 | fichas/colegiado/2002-09.md |
 | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
 

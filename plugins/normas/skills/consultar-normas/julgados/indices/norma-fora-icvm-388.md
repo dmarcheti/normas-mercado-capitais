@@ -18,8 +18,8 @@ Norma: fora do acervo.
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 2º | acordao-crsfn | RJ-2006-5863 | 2010-01-26 | condenacao | crsfn-11495 | fichas/crsfn/2010-01.md |
-| art. 2º | acordao-crsfn | RJ-2006-4321 | 2010-06-08 | condenacao | crsfn-11642 | fichas/crsfn/2010-05.md |
-| art. 2º | acordao-crsfn | RJ-2006-3565 | 2011-10-18 | condenacao | crsfn-11429 | fichas/crsfn/2011-03.md |
+| art. 2º | acordao-crsfn | RJ-2006-4321 | 2010-06-08 | condenacao | crsfn-11642 | fichas/crsfn/2010-06.md |
+| art. 2º | acordao-crsfn | RJ-2006-3565 | 2011-10-18 | condenacao | crsfn-11429 | fichas/crsfn/2011-04.md |
 | art. 2º | termo-compromisso | RJ2006/3410 | 2006-10-24 | rejeitado | cvm-col-20061024-d07 | fichas/tc/2006-05.md |
 | art. 2º | termo-compromisso | RJ2006/4780 | 2006-12-05 | rejeitado | cvm-col-20061205-d08 | fichas/tc/2006-07.md |
 | art. 2º | termo-compromisso | RJ2006/3618 | 2006-12-19 | aceito | cvm-col-20061219-d07 | fichas/tc/2006-07.md |
@@ -34,11 +34,11 @@ Norma: fora do acervo.
 | art. 2º | termo-compromisso | RJ2007/3428 | 2007-12-18 | aceito | cvm-col-20071218-d03 | fichas/tc/2007-06.md |
 | art. 2º | termo-compromisso | RJ2007/14153 | 2009-03-17 | rejeitado | cvm-col-20090317-d03 | fichas/tc/2009-02.md |
 | art. 2º | termo-compromisso | RJ2009/6515 | 2009-07-28 | aceito | cvm-col-20090728-d06 | fichas/tc/2009-04.md |
-| art. 2º | pas | RJ2006/1216 | 2007-06-20 | condenacao | cvm-pas-rj2006-1216 | fichas/pas/2007-04.md |
-| art. 2º | pas | RJ2006/3565 | 2007-01-31 | condenacao | cvm-pas-rj2006-3565 | fichas/pas/2007-01.md |
-| art. 2º | pas | RJ2006/4321 | 2007-07-10 | condenacao | cvm-pas-rj2006-4321 | fichas/pas/2007-05.md |
-| art. 2º | pas | RJ2006/5863 | 2007-04-24 | condenacao | cvm-pas-rj2006-5863 | fichas/pas/2007-03.md |
-| art. 2º | pas | RJ2007/14153 | 2009-12-01 | condenacao | cvm-pas-rj2007-14153 | fichas/pas/2009-05.md |
+| art. 2º | pas | RJ2006/1216 | 2007-06-20 | condenacao | cvm-pas-rj2006-1216 | fichas/pas/2007-07.md |
+| art. 2º | pas | RJ2006/3565 | 2007-01-31 | condenacao | cvm-pas-rj2006-3565 | fichas/pas/2007-02.md |
+| art. 2º | pas | RJ2006/4321 | 2007-07-10 | condenacao | cvm-pas-rj2006-4321 | fichas/pas/2007-09.md |
+| art. 2º | pas | RJ2006/5863 | 2007-04-24 | condenacao | cvm-pas-rj2006-5863 | fichas/pas/2007-05.md |
+| art. 2º | pas | RJ2007/14153 | 2009-12-01 | condenacao | cvm-pas-rj2007-14153 | fichas/pas/2009-10.md |
 | art. 2º, § 2º | decisao-colegiado | RJ2005/4931 | 2006-01-24 | nao-provido | cvm-col-20060124-d06 | fichas/colegiado/2006-02.md |
 | art. 2º, § 2º | termo-compromisso | RJ2006/3618 | 2006-12-19 | aceito | cvm-col-20061219-d07 | fichas/tc/2006-07.md |
 | art. 2º, § 2º | termo-compromisso | SP2007/0095 | 2009-03-10 | rejeitado | cvm-col-20090310-d04 | fichas/tc/2009-01.md |
@@ -47,9 +47,9 @@ Norma: fora do acervo.
 | art. 2º, § 2º | termo-compromisso | SP2007/0095 | 2009-08-18 | rejeitado | cvm-col-20090818-d02 | fichas/tc/2009-05.md |
 | art. 2º, § 2º | termo-compromisso | SP2007/0095 | 2009-12-08 | aceito | cvm-col-20091208-d05 | fichas/tc/2009-08.md |
 | art. 2º, § 2º | decisao-colegiado | SP2011/0220 | 2014-09-16 | nao-provido | cvm-col-20140916-d05 | fichas/colegiado/2014-18.md |
-| art. 2º, § 2º | pas | RJ2006/1216 | 2007-06-20 | condenacao | cvm-pas-rj2006-1216 | fichas/pas/2007-04.md |
-| art. 2º, § 2º | pas | RJ2006/3565 | 2007-01-31 | condenacao | cvm-pas-rj2006-3565 | fichas/pas/2007-01.md |
-| art. 2º, § 2º | pas | RJ2007/14153 | 2009-12-01 | condenacao | cvm-pas-rj2007-14153 | fichas/pas/2009-05.md |
+| art. 2º, § 2º | pas | RJ2006/1216 | 2007-06-20 | condenacao | cvm-pas-rj2006-1216 | fichas/pas/2007-07.md |
+| art. 2º, § 2º | pas | RJ2006/3565 | 2007-01-31 | condenacao | cvm-pas-rj2006-3565 | fichas/pas/2007-02.md |
+| art. 2º, § 2º | pas | RJ2007/14153 | 2009-12-01 | condenacao | cvm-pas-rj2007-14153 | fichas/pas/2009-10.md |
 | art. 2º, § 2º, inciso II | termo-compromisso | RJ2006/4780 | 2007-04-17 | aceito | cvm-col-20070417-d07 | fichas/tc/2007-03.md |
 | art. 2º, § 2º, inciso II | termo-compromisso | RJ2006/7209 | 2007-05-29 | aceito | cvm-col-20070529-d03 | fichas/tc/2007-03.md |
 | art. 2º, § 2º, inciso II | termo-compromisso | 19957.000102/2019-72 | 2019-08-27 | aceito | cvm-col-20190827-d1508 | fichas/tc/2019-05.md |
@@ -107,8 +107,8 @@ Norma: fora do acervo.
 | art. 5º | termo-compromisso | RJ2006/5664 | 2007-03-20 | aceito | cvm-col-20070320-d01 | fichas/tc/2007-02.md |
 | art. 5º | termo-compromisso | RJ2006/4780 | 2007-04-17 | aceito | cvm-col-20070417-d07 | fichas/tc/2007-03.md |
 | art. 5º | termo-compromisso | RJ2006/6572 | 2007-08-07 | aceito | cvm-col-20070807-d02 | fichas/tc/2007-04.md |
-| art. 5º | pas | RJ2006/3565 | 2007-01-31 | condenacao | cvm-pas-rj2006-3565 | fichas/pas/2007-01.md |
-| art. 5º | pas | RJ2006/5863 | 2007-04-24 | condenacao | cvm-pas-rj2006-5863 | fichas/pas/2007-03.md |
+| art. 5º | pas | RJ2006/3565 | 2007-01-31 | condenacao | cvm-pas-rj2006-3565 | fichas/pas/2007-02.md |
+| art. 5º | pas | RJ2006/5863 | 2007-04-24 | condenacao | cvm-pas-rj2006-5863 | fichas/pas/2007-05.md |
 | art. 5º, inciso I | termo-compromisso | RJ2006/4780 | 2007-04-17 | aceito | cvm-col-20070417-d07 | fichas/tc/2007-03.md |
 | art. 5º, inciso II | termo-compromisso | RJ2006/4780 | 2007-04-17 | aceito | cvm-col-20070417-d07 | fichas/tc/2007-03.md |
 | art. 5º, inciso III | termo-compromisso | RJ2006/4780 | 2007-04-17 | aceito | cvm-col-20070417-d07 | fichas/tc/2007-03.md |
@@ -121,14 +121,14 @@ Norma: fora do acervo.
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 7º, inciso II | acordao-crsfn | RJ-2006-5863 | 2010-01-26 | condenacao | crsfn-11495 | fichas/crsfn/2010-01.md |
-| art. 7º, inciso II | acordao-crsfn | RJ-2006-4321 | 2010-06-08 | condenacao | crsfn-11642 | fichas/crsfn/2010-05.md |
+| art. 7º, inciso II | acordao-crsfn | RJ-2006-4321 | 2010-06-08 | condenacao | crsfn-11642 | fichas/crsfn/2010-06.md |
 | art. 7º, inciso II | termo-compromisso | RJ2006/3618 | 2006-12-19 | aceito | cvm-col-20061219-d07 | fichas/tc/2006-07.md |
 | art. 7º, inciso II | termo-compromisso | RJ2007/14153 | 2009-03-17 | rejeitado | cvm-col-20090317-d03 | fichas/tc/2009-02.md |
 | art. 7º, inciso II | termo-compromisso | RJ2009/6515 | 2009-07-28 | aceito | cvm-col-20090728-d06 | fichas/tc/2009-04.md |
-| art. 7º, inciso II | pas | RJ2006/1216 | 2007-06-20 | condenacao | cvm-pas-rj2006-1216 | fichas/pas/2007-04.md |
-| art. 7º, inciso II | pas | RJ2006/3565 | 2007-01-31 | condenacao | cvm-pas-rj2006-3565 | fichas/pas/2007-01.md |
-| art. 7º, inciso II | pas | RJ2006/4321 | 2007-07-10 | condenacao | cvm-pas-rj2006-4321 | fichas/pas/2007-05.md |
-| art. 7º, inciso II | pas | RJ2006/5863 | 2007-04-24 | condenacao | cvm-pas-rj2006-5863 | fichas/pas/2007-03.md |
+| art. 7º, inciso II | pas | RJ2006/1216 | 2007-06-20 | condenacao | cvm-pas-rj2006-1216 | fichas/pas/2007-07.md |
+| art. 7º, inciso II | pas | RJ2006/3565 | 2007-01-31 | condenacao | cvm-pas-rj2006-3565 | fichas/pas/2007-02.md |
+| art. 7º, inciso II | pas | RJ2006/4321 | 2007-07-10 | condenacao | cvm-pas-rj2006-4321 | fichas/pas/2007-09.md |
+| art. 7º, inciso II | pas | RJ2006/5863 | 2007-04-24 | condenacao | cvm-pas-rj2006-5863 | fichas/pas/2007-05.md |
 
 ## art. 10
 
@@ -136,8 +136,8 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|
 | art. 10 | termo-compromisso | RJ2006/1216 | 2006-08-29 | rejeitado | cvm-col-20060829-d05 | fichas/tc/2006-04.md |
 | art. 10 | decisao-colegiado | RJ2009/7226 | 2012-02-16 | nao-provido | cvm-col-20120216-d05 | fichas/colegiado/2012-03.md |
-| art. 10 | pas | RJ2006/1216 | 2007-06-20 | condenacao | cvm-pas-rj2006-1216 | fichas/pas/2007-04.md |
-| art. 10 | pas | RJ2006/3565 | 2007-01-31 | condenacao | cvm-pas-rj2006-3565 | fichas/pas/2007-01.md |
+| art. 10 | pas | RJ2006/1216 | 2007-06-20 | condenacao | cvm-pas-rj2006-1216 | fichas/pas/2007-07.md |
+| art. 10 | pas | RJ2006/3565 | 2007-01-31 | condenacao | cvm-pas-rj2006-3565 | fichas/pas/2007-02.md |
 
 ## art. 11
 
@@ -153,7 +153,7 @@ Norma: fora do acervo.
 | art. 13 | decisao-colegiado | RJ2010/1108 | 2010-07-06 | deferido | cvm-col-20100706-d08 | fichas/colegiado/2010-15.md |
 | art. 13, inciso II | decisao-colegiado | RJ2005/4931 | 2006-01-24 | nao-provido | cvm-col-20060124-d06 | fichas/colegiado/2006-02.md |
 | art. 13, inciso II | termo-compromisso | RJ2006/1216 | 2006-08-29 | rejeitado | cvm-col-20060829-d05 | fichas/tc/2006-04.md |
-| art. 13, inciso II | pas | RJ2006/1216 | 2007-06-20 | condenacao | cvm-pas-rj2006-1216 | fichas/pas/2007-04.md |
+| art. 13, inciso II | pas | RJ2006/1216 | 2007-06-20 | condenacao | cvm-pas-rj2006-1216 | fichas/pas/2007-07.md |
 | art. 13, § 2º | termo-compromisso | RJ2006/4780 | 2007-04-17 | aceito | cvm-col-20070417-d07 | fichas/tc/2007-03.md |
 
 ## art. 14
@@ -177,9 +177,9 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 16 | pas | RJ2006/3565 | 2007-01-31 | condenacao | cvm-pas-rj2006-3565 | fichas/pas/2007-01.md |
-| art. 16, inciso II | pas | RJ2006/4321 | 2007-07-10 | condenacao | cvm-pas-rj2006-4321 | fichas/pas/2007-05.md |
-| art. 16, inciso II | pas | RJ2006/5863 | 2007-04-24 | condenacao | cvm-pas-rj2006-5863 | fichas/pas/2007-03.md |
+| art. 16 | pas | RJ2006/3565 | 2007-01-31 | condenacao | cvm-pas-rj2006-3565 | fichas/pas/2007-02.md |
+| art. 16, inciso II | pas | RJ2006/4321 | 2007-07-10 | condenacao | cvm-pas-rj2006-4321 | fichas/pas/2007-09.md |
+| art. 16, inciso II | pas | RJ2006/5863 | 2007-04-24 | condenacao | cvm-pas-rj2006-5863 | fichas/pas/2007-05.md |
 
 ## art. 17
 
@@ -191,7 +191,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 18 | acordao-crsfn | RJ-2006-3565 | 2011-10-18 | condenacao | crsfn-11429 | fichas/crsfn/2011-03.md |
+| art. 18 | acordao-crsfn | RJ-2006-3565 | 2011-10-18 | condenacao | crsfn-11429 | fichas/crsfn/2011-04.md |
 | art. 18 | decisao-colegiado | RJ2004/5589 | 2004-12-07 | outro | cvm-col-20041207-d03 | fichas/colegiado/2004-15.md |
 | art. 18 | termo-compromisso | RJ2006/4321 | 2007-01-30 | rejeitado | cvm-col-20070130-d04 | fichas/tc/2007-01.md |
 | art. 18 | termo-compromisso | RJ2006/4337 | 2007-02-14 | aceito | cvm-col-20070214-d06 | fichas/tc/2007-02.md |
@@ -201,7 +201,7 @@ Norma: fora do acervo.
 | art. 18 | decisao-colegiado | RJ2006/6311 | 2008-02-14 | nao-provido | cvm-col-20080214-d01 | fichas/colegiado/2008-02.md |
 | art. 18 | termo-compromisso | RJ2007/14153 | 2009-03-17 | rejeitado | cvm-col-20090317-d03 | fichas/tc/2009-02.md |
 | art. 18 | termo-compromisso | RJ2009/6515 | 2009-07-28 | aceito | cvm-col-20090728-d06 | fichas/tc/2009-04.md |
-| art. 18 | pas | RJ2006/3565 | 2007-01-31 | condenacao | cvm-pas-rj2006-3565 | fichas/pas/2007-01.md |
+| art. 18 | pas | RJ2006/3565 | 2007-01-31 | condenacao | cvm-pas-rj2006-3565 | fichas/pas/2007-02.md |
 
 ## art. 19
 

@@ -13,7 +13,7 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|
 | decisao-colegiado | RJ2014/4397 | 2014-05-20 | nao-provido | cvm-col-20140520-d04 | fichas/colegiado/2014-09.md |
 | decisao-colegiado | RJ2014/3723 | 2014-05-20 | nao-provido | cvm-col-20140520-d02 | fichas/colegiado/2014-09.md |
-| acordao-crsfn | 03/04 | 2012-10-25 | parcial | crsfn-11628 | fichas/crsfn/2012-04.md |
+| acordao-crsfn | 03/04 | 2012-10-25 | parcial | crsfn-11628 | fichas/crsfn/2012-05.md |
 | decisao-colegiado | RJ2005/9462 | 2006-02-15 | outro | cvm-col-20060215-d09 | fichas/colegiado/2006-03.md |
 | decisao-colegiado | RJ2004/2618 | 2004-10-25 | nao-provido | cvm-col-20041025-d04 | fichas/colegiado/2004-12.md |
 | decisao-colegiado | RJ2003/2942 | 2004-07-27 | nao-provido | cvm-col-20040727-d02 | fichas/colegiado/2004-09.md |

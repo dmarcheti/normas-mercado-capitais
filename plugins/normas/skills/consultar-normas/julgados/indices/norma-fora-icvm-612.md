@@ -31,17 +31,17 @@ Norma: fora do acervo.
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | acordao-crsfn | 19957.009663/2017-75 | 2024-03-12 | parcial | crsfn-10372-100130-2023-71 | fichas/crsfn/2024-02.md |
-| acordao-crsfn | 19957.009366/2017-20; SP2018/00412 | 2023-09-12 | parcial | crsfn-10372-100088-2022-16 | fichas/crsfn/2023-06.md |
-| pas | 19957.009663/2017-75 | 2023-07-11 | condenacao | cvm-pas-19957-009663-2017-75 | fichas/pas/2023-04.md |
-| acordao-crsfn | 19957.011693/2017-41; SP2018/420 | 2022-12-08 | condenacao | crsfn-10372-100009-2022-69 | fichas/crsfn/2022-07.md |
+| acordao-crsfn | 19957.009366/2017-20; SP2018/00412 | 2023-09-12 | parcial | crsfn-10372-100088-2022-16 | fichas/crsfn/2023-07.md |
+| pas | 19957.009663/2017-75 | 2023-07-11 | condenacao | cvm-pas-19957-009663-2017-75 | fichas/pas/2023-07.md |
+| acordao-crsfn | 19957.011693/2017-41; SP2018/420 | 2022-12-08 | condenacao | crsfn-10372-100009-2022-69 | fichas/crsfn/2022-08.md |
 | decisao-colegiado | 19957.005584/2022-52 | 2022-08-30 | deferido | cvm-col-20220830-d2677 | fichas/colegiado/2022-13.md |
-| pas | 19957.009366/2017-20 | 2022-04-12 | condenacao | cvm-pas-19957-009366-2017-20 | fichas/pas/2022-02.md |
+| pas | 19957.009366/2017-20 | 2022-04-12 | condenacao | cvm-pas-19957-009366-2017-20 | fichas/pas/2022-03.md |
 | decisao-colegiado | 19957.008030/2020-45 | 2021-05-04 | parcial | cvm-col-20210504-d2152 | fichas/colegiado/2021-07.md |
 | decisao-colegiado | 19957.008102/2020-54 | 2021-04-27 | nao-provido | cvm-col-20210427-d2149 | fichas/colegiado/2021-07.md |
 | decisao-colegiado | 19957.005389/2020-61 | 2020-12-15 | nao-provido | cvm-col-20201215-d2017 | fichas/colegiado/2020-21.md |
 | decisao-colegiado | — | 2020-07-29 | outro | cvm-col-20200729-d1649 | fichas/colegiado/2020-12.md |
 | decisao-colegiado | 19957.010782/2018-51 | 2020-01-28 | outro | cvm-col-20200128-d1160 | fichas/colegiado/2020-02.md |
-| pas | 19957.004737/2017-87; RJ2018/269 | 2019-10-22 | parcial | cvm-pas-19957-004737-2017-87 | fichas/pas/2019-09.md |
+| pas | 19957.004737/2017-87; RJ2018/269 | 2019-10-22 | parcial | cvm-pas-19957-004737-2017-87 | fichas/pas/2019-17.md |
 | decisao-colegiado | 05/2018; 505/2011; 19957.010782/2018-51 | 2019-07-31 | outro | cvm-col-20190731-d1160 | fichas/colegiado/2019-12.md |
 
 Fim do subíndice.

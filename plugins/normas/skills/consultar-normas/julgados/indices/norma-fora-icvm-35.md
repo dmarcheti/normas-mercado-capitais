@@ -17,7 +17,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 2º, inciso II | acordao-crsfn | 12/2005 | 2016-04-26 | parcial | crsfn-13531 | fichas/crsfn/2016-02.md |
+| art. 2º, inciso II | acordao-crsfn | 12/2005 | 2016-04-26 | parcial | crsfn-13531 | fichas/crsfn/2016-03.md |
 
 ## art. 4º
 

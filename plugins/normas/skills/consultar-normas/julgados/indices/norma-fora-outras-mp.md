@@ -33,10 +33,10 @@ mp-2228 (1068); mp-57911 (1102); mp-57916 (1111)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.004715/2020-12 | 2024-03-26 | condenacao | cvm-pas-19957-004715-2020-12 | fichas/pas/2024-02.md |
-| acordao-crsfn | 19957.003480/2021-22 | 2022-12-07 | condenacao | crsfn-10372-100002-2022-47 | fichas/crsfn/2022-06.md |
-| pas | 10/2000 | 2004-07-08 | parcial | cvm-pas-10-2000 | fichas/pas/2004-03.md |
-| pas | 12/1998 | 2004-05-20 | condenacao | cvm-pas-12-1998 | fichas/pas/2004-02.md |
+| pas | 19957.004715/2020-12 | 2024-03-26 | condenacao | cvm-pas-19957-004715-2020-12 | fichas/pas/2024-03.md |
+| acordao-crsfn | 19957.003480/2021-22 | 2022-12-07 | condenacao | crsfn-10372-100002-2022-47 | fichas/crsfn/2022-08.md |
+| pas | 10/2000 | 2004-07-08 | parcial | cvm-pas-10-2000 | fichas/pas/2004-06.md |
+| pas | 12/1998 | 2004-05-20 | condenacao | cvm-pas-12-1998 | fichas/pas/2004-03.md |
 
 ## mp-2
 
@@ -75,7 +75,7 @@ mp-2228 (1068); mp-57911 (1102); mp-57916 (1111)
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | acordao-crsfn | 08/2014; 19957.001575/2020-21 | 2023-04-11 | parcial | crsfn-10372-100007-2021-99 | fichas/crsfn/2023-03.md |
-| pas | 19957.001575/2020-21; 08/2014 | 2020-06-30 | parcial | cvm-pas-19957-001575-2020-21 | fichas/pas/2020-03.md |
+| pas | 19957.001575/2020-21; 08/2014 | 2020-06-30 | parcial | cvm-pas-19957-001575-2020-21 | fichas/pas/2020-06.md |
 
 ## mp-8
 
@@ -83,11 +83,11 @@ mp-2228 (1068); mp-57911 (1102); mp-57916 (1111)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.011361/2018-48 | 2023-06-27 | absolvicao | cvm-pas-19957-011361-2018-48 | fichas/pas/2023-04.md |
+| pas | 19957.011361/2018-48 | 2023-06-27 | absolvicao | cvm-pas-19957-011361-2018-48 | fichas/pas/2023-06.md |
 | decisao-colegiado | 19957.002928/2016-23 | 2017-10-17 | conhecimento | cvm-col-20171017-d0302 | fichas/colegiado/2017-17.md |
-| acordao-crsfn | SP-2002-07 | 2010-12-13 | parcial | crsfn-7702 | fichas/crsfn/2010-09.md |
+| acordao-crsfn | SP-2002-07 | 2010-12-13 | parcial | crsfn-7702 | fichas/crsfn/2010-11.md |
 | decisao-colegiado | RJ2003/7911 | 2007-07-17 | outro | cvm-col-20070717-d05 | fichas/colegiado/2007-13.md |
-| pas | 07/2002 | 2004-11-22 | parcial | cvm-pas-07-2002 | fichas/pas/2004-07.md |
+| pas | 07/2002 | 2004-11-22 | parcial | cvm-pas-07-2002 | fichas/pas/2004-14.md |
 | decisao-colegiado | RJ2001/11599 | 2003-02-04 | parcial | cvm-col-20030204-d04 | fichas/colegiado/2003-02.md |
 | decisao-colegiado | RJ2000/5874 | 2002-03-19 | nao-provido | cvm-col-20020319-d14 | fichas/colegiado/2002-06.md |
 
@@ -112,7 +112,7 @@ mp-2228 (1068); mp-57911 (1102); mp-57916 (1111)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2013/6635 | 2015-05-26 | condenacao | cvm-pas-rj2013-6635 | fichas/pas/2015-03.md |
+| pas | RJ2013/6635 | 2015-05-26 | condenacao | cvm-pas-rj2013-6635 | fichas/pas/2015-06.md |
 
 ## mp-32
 
@@ -128,7 +128,7 @@ mp-2228 (1068); mp-57911 (1102); mp-57916 (1111)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2013/1063 | 2013-12-03 | absolvicao | cvm-pas-rj2013-1063 | fichas/pas/2013-06.md |
+| pas | RJ2013/1063 | 2013-12-03 | absolvicao | cvm-pas-rj2013-1063 | fichas/pas/2013-12.md |
 
 ## mp-110
 
@@ -153,7 +153,7 @@ mp-2228 (1068); mp-57911 (1102); mp-57916 (1111)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 0006/2004 | 2014-10-21 | parcial | crsfn-13285 | fichas/crsfn/2014-06.md |
+| acordao-crsfn | 0006/2004 | 2014-10-21 | parcial | crsfn-13285 | fichas/crsfn/2014-07.md |
 | decisao-colegiado | RJ2002/7737 | 2003-02-04 | nao-provido | cvm-col-20030204-d05 | fichas/colegiado/2003-02.md |
 
 ## mp-178
@@ -206,7 +206,7 @@ mp-2228 (1068); mp-57911 (1102); mp-57916 (1111)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | RJ2012/7353 | 2022-12-07 | parcial | crsfn-10372-100052-2020-62 | fichas/crsfn/2022-07.md |
+| acordao-crsfn | RJ2012/7353 | 2022-12-07 | parcial | crsfn-10372-100052-2020-62 | fichas/crsfn/2022-08.md |
 
 ## mp-338
 
@@ -231,7 +231,7 @@ mp-2228 (1068); mp-57911 (1102); mp-57916 (1111)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 30/2005 | 2012-12-11 | parcial | cvm-pas-30-2005 | fichas/pas/2012-03.md |
+| pas | 30/2005 | 2012-12-11 | parcial | cvm-pas-30-2005 | fichas/pas/2012-06.md |
 | decisao-colegiado | RJ2009/4470 | 2009-11-17 | deferido | cvm-col-20091117-d37 | fichas/colegiado/2009-21.md |
 
 ## mp-405
@@ -240,10 +240,10 @@ mp-2228 (1068); mp-57911 (1102); mp-57916 (1111)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 08/2009 | 2018-08-21 | parcial | crsfn-14324 | fichas/crsfn/2018-05.md |
-| pas | 08/2009 | 2015-04-28 | condenacao | cvm-pas-08-2009 | fichas/pas/2015-02.md |
+| acordao-crsfn | 08/2009 | 2018-08-21 | parcial | crsfn-14324 | fichas/crsfn/2018-06.md |
+| pas | 08/2009 | 2015-04-28 | condenacao | cvm-pas-08-2009 | fichas/pas/2015-04.md |
 | acordao-crsfn | RJ-2008-8843 | 2013-01-10 | condenacao | crsfn-12795 | fichas/crsfn/2013-01.md |
-| pas | RJ2008/8843 | 2009-09-15 | condenacao | cvm-pas-rj2008-8843 | fichas/pas/2009-04.md |
+| pas | RJ2008/8843 | 2009-09-15 | condenacao | cvm-pas-rj2008-8843 | fichas/pas/2009-08.md |
 
 ## mp-434
 
@@ -300,7 +300,7 @@ mp-2228 (1068); mp-57911 (1102); mp-57916 (1111)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.005388/2017-11 | 2023-10-31 | absolvicao | cvm-pas-19957-005388-2017-11 | fichas/pas/2023-07.md |
+| pas | 19957.005388/2017-11 | 2023-10-31 | absolvicao | cvm-pas-19957-005388-2017-11 | fichas/pas/2023-13.md |
 | decisao-colegiado | 505/2011; SP2015/0097 | 2016-06-14 | parcial | cvm-col-20160614-d9646 | fichas/colegiado/2016-12.md |
 
 ## mp-542
@@ -337,28 +337,28 @@ mp-2228 (1068); mp-57911 (1102); mp-57916 (1111)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 1º | acordao-crsfn | RJ2013/6635 | 2017-06-28 | absolvicao | crsfn-14306 | fichas/crsfn/2017-05.md |
+| art. 1º | acordao-crsfn | RJ2013/6635 | 2017-06-28 | absolvicao | crsfn-14306 | fichas/crsfn/2017-10.md |
 
 ### art. 8º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 8º, § 2º | acordao-crsfn | RJ2013/6635 | 2017-06-28 | absolvicao | crsfn-14306 | fichas/crsfn/2017-05.md |
+| art. 8º, § 2º | acordao-crsfn | RJ2013/6635 | 2017-06-28 | absolvicao | crsfn-14306 | fichas/crsfn/2017-10.md |
 | art. 8º, § 2º | decisao-colegiado | RJ2012/14312; RJ2012/14317 | 2012-11-30 | indeferido | cvm-col-20121130-d01 | fichas/colegiado/2012-22.md |
 
 ### art. 11
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 11, § 4º | acordao-crsfn | RJ2013/6635 | 2017-06-28 | absolvicao | crsfn-14306 | fichas/crsfn/2017-05.md |
+| art. 11, § 4º | acordao-crsfn | RJ2013/6635 | 2017-06-28 | absolvicao | crsfn-14306 | fichas/crsfn/2017-10.md |
 
 ### art. 15
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 15, § 1º | acordao-crsfn | RJ2013/6635 | 2017-06-28 | absolvicao | crsfn-14306 | fichas/crsfn/2017-05.md |
-| art. 15, § 2º | acordao-crsfn | RJ2013/6635 | 2017-06-28 | absolvicao | crsfn-14306 | fichas/crsfn/2017-05.md |
-| art. 15, § 2º | pas | RJ2013/6635 | 2015-05-26 | condenacao | cvm-pas-rj2013-6635 | fichas/pas/2015-03.md |
+| art. 15, § 1º | acordao-crsfn | RJ2013/6635 | 2017-06-28 | absolvicao | crsfn-14306 | fichas/crsfn/2017-10.md |
+| art. 15, § 2º | acordao-crsfn | RJ2013/6635 | 2017-06-28 | absolvicao | crsfn-14306 | fichas/crsfn/2017-10.md |
+| art. 15, § 2º | pas | RJ2013/6635 | 2015-05-26 | condenacao | cvm-pas-rj2013-6635 | fichas/pas/2015-06.md |
 
 ### Citada sem dispositivo identificado
 
@@ -367,7 +367,7 @@ mp-2228 (1068); mp-57911 (1102); mp-57916 (1111)
 | decisao-colegiado | 19957.007920/2018-15 | 2024-12-03 | conhecimento | cvm-col-20241203-d2187 | fichas/colegiado/2024-13.md |
 | pas | 19957.006657/2020-61 | 2024-02-27 | absolvicao | cvm-pas-19957-006657-2020-61 | fichas/pas/2024-01.md |
 | decisao-colegiado | 19957.000893/2019-31 | 2019-10-15 | nao-provido | cvm-col-20191015-d1573 | fichas/colegiado/2019-16.md |
-| pas | RJ2016/802 | 2019-01-29 | condenacao | cvm-pas-rj2016-0802 | fichas/pas/2019-01.md |
+| pas | RJ2016/802 | 2019-01-29 | condenacao | cvm-pas-rj2016-0802 | fichas/pas/2019-02.md |
 | termo-compromisso | RJ2013/6635 | 2014-06-17 | rejeitado | cvm-col-20140617-d01 | fichas/tc/2014-01.md |
 
 ## mp-591
@@ -376,8 +376,8 @@ mp-2228 (1068); mp-57911 (1102); mp-57916 (1111)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | RJ2013/6635 | 2017-06-28 | absolvicao | crsfn-14306 | fichas/crsfn/2017-05.md |
-| pas | RJ2013/6635 | 2015-05-26 | condenacao | cvm-pas-rj2013-6635 | fichas/pas/2015-03.md |
+| acordao-crsfn | RJ2013/6635 | 2017-06-28 | absolvicao | crsfn-14306 | fichas/crsfn/2017-10.md |
+| pas | RJ2013/6635 | 2015-05-26 | condenacao | cvm-pas-rj2013-6635 | fichas/pas/2015-06.md |
 | termo-compromisso | RJ2013/6635 | 2014-06-17 | rejeitado | cvm-col-20140617-d01 | fichas/tc/2014-01.md |
 | decisao-colegiado | RJ2012/14312; RJ2012/14317 | 2012-11-30 | indeferido | cvm-col-20121130-d01 | fichas/colegiado/2012-22.md |
 
@@ -395,7 +395,7 @@ mp-2228 (1068); mp-57911 (1102); mp-57916 (1111)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2014/10290 | 2017-06-13 | condenacao | cvm-pas-rj2014-10290 | fichas/pas/2017-03.md |
+| pas | RJ2014/10290 | 2017-06-13 | condenacao | cvm-pas-rj2014-10290 | fichas/pas/2017-05.md |
 
 ## mp-651
 
@@ -419,7 +419,7 @@ mp-2228 (1068); mp-57911 (1102); mp-57916 (1111)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | RJ2013/6635 | 2017-06-28 | absolvicao | crsfn-14306 | fichas/crsfn/2017-05.md |
+| acordao-crsfn | RJ2013/6635 | 2017-06-28 | absolvicao | crsfn-14306 | fichas/crsfn/2017-10.md |
 
 ## mp-780
 
@@ -442,13 +442,13 @@ mp-2228 (1068); mp-57911 (1102); mp-57916 (1111)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.009925/2017-00 | 2021-03-09 | parcial | cvm-pas-19957-009925-2017-00 | fichas/pas/2021.md |
-| acordao-crsfn | RJ2013/13172 | 2019-09-24 | absolvicao | crsfn-10372-100001-2018-16 | fichas/crsfn/2019-02.md |
+| pas | 19957.009925/2017-00 | 2021-03-09 | parcial | cvm-pas-19957-009925-2017-00 | fichas/pas/2021-02.md |
+| acordao-crsfn | RJ2013/13172 | 2019-09-24 | absolvicao | crsfn-10372-100001-2018-16 | fichas/crsfn/2019-03.md |
 | termo-compromisso | 19957.009178/2016-11; RJ2016/8896 | 2017-09-26 | outro | cvm-col-20170926-d0796 | fichas/tc/2017-04.md |
-| pas | RJ2015/9909 | 2017-09-05 | condenacao | cvm-pas-rj2015-9909 | fichas/pas/2017-03.md |
+| pas | RJ2015/9909 | 2017-09-05 | condenacao | cvm-pas-rj2015-9909 | fichas/pas/2017-06.md |
 | decisao-colegiado | — | 2017-07-12 | outro | cvm-col-20170712-d7067 | fichas/colegiado/2017-13.md |
-| pas | RJ2014/10290 | 2017-06-13 | condenacao | cvm-pas-rj2014-10290 | fichas/pas/2017-03.md |
-| pas | RJ2013/13172 | 2017-06-13 | condenacao | cvm-pas-rj2013-13172 | fichas/pas/2017-02.md |
+| pas | RJ2014/10290 | 2017-06-13 | condenacao | cvm-pas-rj2014-10290 | fichas/pas/2017-05.md |
+| pas | RJ2013/13172 | 2017-06-13 | condenacao | cvm-pas-rj2013-13172 | fichas/pas/2017-05.md |
 
 ## mp-881
 
@@ -544,13 +544,13 @@ mp-2228 (1068); mp-57911 (1102); mp-57916 (1111)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 4º | pas | 01/1998 | 2000-08-07 | parcial | cvm-pas-01-1998 | fichas/pas/2000-01.md |
+| art. 4º | pas | 01/1998 | 2000-08-07 | parcial | cvm-pas-01-1998 | fichas/pas/2000-02.md |
 
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 10/1996 | 2000-11-09 | parcial | cvm-pas-10-1996 | fichas/pas/2000-02.md |
+| pas | 10/1996 | 2000-11-09 | parcial | cvm-pas-10-1996 | fichas/pas/2000-04.md |
 
 ## mp-1103
 
@@ -570,7 +570,7 @@ mp-2228 (1068); mp-57911 (1102); mp-57916 (1111)
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | acordao-crsfn | 03/96 | 2007-08-30 | parcial | crsfn-6039 | fichas/crsfn/2007-01.md |
-| pas | 03/1996 | 2004-07-08 | parcial | cvm-pas-03-1996 | fichas/pas/2004-03.md |
+| pas | 03/1996 | 2004-07-08 | parcial | cvm-pas-03-1996 | fichas/pas/2004-06.md |
 
 ## mp-1185
 
@@ -587,7 +587,7 @@ mp-2228 (1068); mp-57911 (1102); mp-57916 (1111)
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 15, inciso I | acordao-crsfn | RJ-2006-5853 | 2014-02-18 | absolvicao | crsfn-11735 | fichas/crsfn/2014-01.md |
-| art. 15, inciso I | pas | RJ2006/5853 | 2007-10-23 | absolvicao | cvm-pas-rj2006-5853 | fichas/pas/2007-07.md |
+| art. 15, inciso I | pas | RJ2006/5853 | 2007-10-23 | absolvicao | cvm-pas-rj2006-5853 | fichas/pas/2007-13.md |
 
 ## mp-1316
 
@@ -609,8 +609,8 @@ mp-2228 (1068); mp-57911 (1102); mp-57916 (1111)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | SP-2002-07 | 2010-12-13 | parcial | crsfn-7702 | fichas/crsfn/2010-09.md |
-| pas | 07/2002 | 2004-11-22 | parcial | cvm-pas-07-2002 | fichas/pas/2004-07.md |
+| acordao-crsfn | SP-2002-07 | 2010-12-13 | parcial | crsfn-7702 | fichas/crsfn/2010-11.md |
+| pas | 07/2002 | 2004-11-22 | parcial | cvm-pas-07-2002 | fichas/pas/2004-14.md |
 
 ## mp-1470
 
@@ -618,7 +618,7 @@ mp-2228 (1068); mp-57911 (1102); mp-57916 (1111)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2009/12495 | 2010-12-01 | condenacao | cvm-pas-rj2009-12495 | fichas/pas/2010-05.md |
+| pas | RJ2009/12495 | 2010-12-01 | condenacao | cvm-pas-rj2009-12495 | fichas/pas/2010-10.md |
 
 ## mp-1520
 
@@ -628,7 +628,7 @@ mp-2228 (1068); mp-57911 (1102); mp-57916 (1111)
 |---|---|---|---|---|---|
 | pas | 02/2013 | 2019-01-22 | parcial | cvm-pas-02-2013 | fichas/pas/2019-01.md |
 | decisao-colegiado | 02/2013 | 2018-04-24 | nao-provido | cvm-col-20180424-d0227 | fichas/colegiado/2018-08.md |
-| pas | RJ2013/6183 | 2016-11-22 | condenacao | cvm-pas-rj2013-6183 | fichas/pas/2016-06.md |
+| pas | RJ2013/6183 | 2016-11-22 | condenacao | cvm-pas-rj2013-6183 | fichas/pas/2016-12.md |
 
 ## mp-1542
 
@@ -715,7 +715,7 @@ mp-2228 (1068); mp-57911 (1102); mp-57916 (1111)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 06/2002 | 2005-11-16 | parcial | cvm-pas-06-2002 | fichas/pas/2005-08.md |
+| pas | 06/2002 | 2005-11-16 | parcial | cvm-pas-06-2002 | fichas/pas/2005-16.md |
 
 ## mp-1769
 
@@ -739,10 +739,10 @@ mp-2228 (1068); mp-57911 (1102); mp-57916 (1111)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 10/2000 | 2004-07-08 | parcial | cvm-pas-10-2000 | fichas/pas/2004-03.md |
-| pas | 12/1998 | 2004-05-20 | condenacao | cvm-pas-12-1998 | fichas/pas/2004-02.md |
-| pas | 22/1994 | 2004-04-15 | condenacao | cvm-pas-22-1994 | fichas/pas/2004-01.md |
-| pas | 21/1995 | 2000-06-08 | parcial | cvm-pas-21-1995 | fichas/pas/2000-01.md |
+| pas | 10/2000 | 2004-07-08 | parcial | cvm-pas-10-2000 | fichas/pas/2004-06.md |
+| pas | 12/1998 | 2004-05-20 | condenacao | cvm-pas-12-1998 | fichas/pas/2004-03.md |
+| pas | 22/1994 | 2004-04-15 | condenacao | cvm-pas-22-1994 | fichas/pas/2004-02.md |
+| pas | 21/1995 | 2000-06-08 | parcial | cvm-pas-21-1995 | fichas/pas/2000-02.md |
 
 ## mp-1788
 
@@ -767,9 +767,9 @@ mp-2228 (1068); mp-57911 (1102); mp-57916 (1111)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 20/1998 | 2001-05-24 | parcial | cvm-pas-20-1998 | fichas/pas/2001-01.md |
-| pas | 12/1997 | 2000-12-07 | parcial | cvm-pas-12-1997 | fichas/pas/2000-03.md |
-| pas | 05/1998 | 2000-11-16 | parcial | cvm-pas-05-1998-2 | fichas/pas/2000-02.md |
+| pas | 20/1998 | 2001-05-24 | parcial | cvm-pas-20-1998 | fichas/pas/2001-02.md |
+| pas | 12/1997 | 2000-12-07 | parcial | cvm-pas-12-1997 | fichas/pas/2000-05.md |
+| pas | 05/1998 | 2000-11-16 | parcial | cvm-pas-05-1998-2 | fichas/pas/2000-04.md |
 
 ## mp-1859
 
@@ -777,24 +777,24 @@ mp-2228 (1068); mp-57911 (1102); mp-57916 (1111)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 1º, § 1º | acordao-crsfn | RJ2013-9266 | 2021-07-13 | parcial | crsfn-10372-100298-2018-10 | fichas/crsfn/2021-02.md |
+| art. 1º, § 1º | acordao-crsfn | RJ2013-9266 | 2021-07-13 | parcial | crsfn-10372-100298-2018-10 | fichas/crsfn/2021-03.md |
 
 ### art. 4º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 4º | pas | 33/1998 | 2000-07-20 | condenacao | cvm-pas-33-1998 | fichas/pas/2000-01.md |
+| art. 4º | pas | 33/1998 | 2000-07-20 | condenacao | cvm-pas-33-1998 | fichas/pas/2000-02.md |
 
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 34/2000 | 2004-09-16 | parcial | cvm-pas-34-2000 | fichas/pas/2004-06.md |
-| pas | 10/2000 | 2004-07-08 | parcial | cvm-pas-10-2000 | fichas/pas/2004-03.md |
-| pas | 12/1998 | 2004-05-20 | condenacao | cvm-pas-12-1998 | fichas/pas/2004-02.md |
-| pas | 22/1994 | 2004-04-15 | condenacao | cvm-pas-22-1994 | fichas/pas/2004-01.md |
-| pas | 10/1996 | 2000-11-09 | parcial | cvm-pas-10-1996 | fichas/pas/2000-02.md |
-| pas | 01/1998 | 2000-08-07 | parcial | cvm-pas-01-1998 | fichas/pas/2000-01.md |
+| pas | 34/2000 | 2004-09-16 | parcial | cvm-pas-34-2000 | fichas/pas/2004-11.md |
+| pas | 10/2000 | 2004-07-08 | parcial | cvm-pas-10-2000 | fichas/pas/2004-06.md |
+| pas | 12/1998 | 2004-05-20 | condenacao | cvm-pas-12-1998 | fichas/pas/2004-03.md |
+| pas | 22/1994 | 2004-04-15 | condenacao | cvm-pas-22-1994 | fichas/pas/2004-02.md |
+| pas | 10/1996 | 2000-11-09 | parcial | cvm-pas-10-1996 | fichas/pas/2000-04.md |
+| pas | 01/1998 | 2000-08-07 | parcial | cvm-pas-01-1998 | fichas/pas/2000-02.md |
 
 ## mp-1894
 
@@ -802,7 +802,7 @@ mp-2228 (1068); mp-57911 (1102); mp-57916 (1111)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 01/2013 | 2015-03-10 | condenacao | cvm-pas-01-2013 | fichas/pas/2015-01.md |
+| pas | 01/2013 | 2015-03-10 | condenacao | cvm-pas-01-2013 | fichas/pas/2015-02.md |
 
 ## mp-1923
 
@@ -875,7 +875,7 @@ mp-2228 (1068); mp-57911 (1102); mp-57916 (1111)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2013/9266 | 2018-03-27 | parcial | cvm-pas-rj2013-9266 | fichas/pas/2018-02.md |
+| pas | RJ2013/9266 | 2018-03-27 | parcial | cvm-pas-rj2013-9266 | fichas/pas/2018-04.md |
 | decisao-colegiado | RJ2007/2102 | 2009-04-14 | nao-provido | cvm-col-20090414-d06 | fichas/colegiado/2009-08.md |
 
 ## mp-2074
@@ -917,7 +917,7 @@ mp-2228 (1068); mp-57911 (1102); mp-57916 (1111)
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.004122/2015-99 | 2016-04-12 | provido | cvm-col-20160412-d0050 | fichas/colegiado/2016-08.md |
 | acordao-crsfn | 17/01 | 2007-09-27 | parcial | crsfn-5310 | fichas/crsfn/2007-02.md |
-| pas | 17/2001 | 2003-10-16 | condenacao | cvm-pas-17-2001 | fichas/pas/2003-04.md |
+| pas | 17/2001 | 2003-10-16 | condenacao | cvm-pas-17-2001 | fichas/pas/2003-07.md |
 
 ## mp-2148
 
@@ -925,7 +925,7 @@ mp-2228 (1068); mp-57911 (1102); mp-57916 (1111)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2003/12233 | 2005-09-14 | absolvicao | cvm-pas-rj2003-12233 | fichas/pas/2005-06.md |
+| pas | RJ2003/12233 | 2005-09-14 | absolvicao | cvm-pas-rj2003-12233 | fichas/pas/2005-12.md |
 
 ## mp-2155
 
@@ -933,7 +933,7 @@ mp-2228 (1068); mp-57911 (1102); mp-57916 (1111)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 01/2003 | 2007-02-01 | absolvicao | cvm-pas-01-2003 | fichas/pas/2007-02.md |
+| pas | 01/2003 | 2007-02-01 | absolvicao | cvm-pas-01-2003 | fichas/pas/2007-03.md |
 | decisao-colegiado | RJ2002/2070 | 2002-07-23 | outro | cvm-col-20020723-d02 | fichas/colegiado/2002-18.md |
 
 ## mp-2156
@@ -1063,7 +1063,7 @@ mp-2228 (1068); mp-57911 (1102); mp-57916 (1111)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 08/2001 | 2004-09-23 | condenacao | cvm-pas-08-2001 | fichas/pas/2004-06.md |
+| pas | 08/2001 | 2004-09-23 | condenacao | cvm-pas-08-2001 | fichas/pas/2004-11.md |
 
 ## mp-2228
 
@@ -1105,8 +1105,8 @@ mp-2228 (1068); mp-57911 (1102); mp-57916 (1111)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 11, § 4º | acordao-crsfn | RJ2013/6635 | 2017-06-28 | absolvicao | crsfn-14306 | fichas/crsfn/2017-05.md |
-| art. 11, § 4º | pas | RJ2013/6635 | 2015-05-26 | condenacao | cvm-pas-rj2013-6635 | fichas/pas/2015-03.md |
+| art. 11, § 4º | acordao-crsfn | RJ2013/6635 | 2017-06-28 | absolvicao | crsfn-14306 | fichas/crsfn/2017-10.md |
+| art. 11, § 4º | pas | RJ2013/6635 | 2015-05-26 | condenacao | cvm-pas-rj2013-6635 | fichas/pas/2015-06.md |
 
 ## mp-57916
 
@@ -1114,6 +1114,6 @@ mp-2228 (1068); mp-57911 (1102); mp-57916 (1111)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2013/6635 | 2015-05-26 | condenacao | cvm-pas-rj2013-6635 | fichas/pas/2015-03.md |
+| pas | RJ2013/6635 | 2015-05-26 | condenacao | cvm-pas-rj2013-6635 | fichas/pas/2015-06.md |
 
 Fim do subíndice.

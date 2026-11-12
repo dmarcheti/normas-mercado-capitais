@@ -11,7 +11,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 1º | acordao-crsfn | RJ2011/7389 | 2015-06-30 | absolvicao | crsfn-13418 | fichas/crsfn/2015-02.md |
+| art. 1º | acordao-crsfn | RJ2011/7389 | 2015-06-30 | absolvicao | crsfn-13418 | fichas/crsfn/2015-03.md |
 | art. 1º | acordao-crsfn | RJ2011/7379 | 2016-01-21 | condenacao | crsfn-13417 | fichas/crsfn/2016-01.md |
 | art. 1º | acordao-crsfn | RJ2011/7390 | 2016-01-21 | condenacao | crsfn-13425 | fichas/crsfn/2016-01.md |
 | art. 1º | decisao-colegiado | RJ2011/1280 | 2011-02-15 | nao-provido | cvm-col-20110215-d13 | fichas/colegiado/2011-03.md |
@@ -72,9 +72,9 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2014/3839 | 2016-12-13 | parcial | cvm-pas-rj2014-3839 | fichas/pas/2016-08.md |
+| pas | RJ2014/3839 | 2016-12-13 | parcial | cvm-pas-rj2014-3839 | fichas/pas/2016-14.md |
 | acordao-crsfn | RJ2011/7377 | 2015-07-28 | condenacao | crsfn-13416 | fichas/crsfn/2015-03.md |
-| pas | RJ2011/7941 | 2013-12-10 | parcial | cvm-pas-rj2011-7941 | fichas/pas/2013-06.md |
+| pas | RJ2011/7941 | 2013-12-10 | parcial | cvm-pas-rj2011-7941 | fichas/pas/2013-13.md |
 | decisao-colegiado | RJ2011/7381 | 2013-12-10 | parcial | cvm-col-20131210-d06 | fichas/colegiado/2013-23.md |
 | decisao-colegiado | RJ2012/11664 | 2013-01-04 | nao-provido | cvm-col-20130104-d02 | fichas/colegiado/2013-01.md |
 | decisao-colegiado | RJ2012/11664 | 2012-10-30 | nao-provido | cvm-col-20121030-d02-r2 | fichas/colegiado/2012-20.md |

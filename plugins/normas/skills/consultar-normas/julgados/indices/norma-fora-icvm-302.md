@@ -34,7 +34,7 @@ art. 381 (683); art. 993 (690); Citada sem dispositivo identificado (696)
 |---|---|---|---|---|---|---|
 | art. 5º | acordao-crsfn | IA-2003-04 | 2009-03-18 | parcial | crsfn-9794 | fichas/crsfn/2009-02.md |
 | art. 5º | termo-compromisso | 04/2003 | 2005-04-26 | rejeitado | cvm-col-20050426-d02 | fichas/tc/2005-01.md |
-| art. 5º | pas | 04/2003 | 2005-12-07 | condenacao | cvm-pas-04-2003 | fichas/pas/2005-09.md |
+| art. 5º | pas | 04/2003 | 2005-12-07 | condenacao | cvm-pas-04-2003 | fichas/pas/2005-18.md |
 
 ## art. 6º
 
@@ -50,7 +50,7 @@ art. 381 (683); art. 993 (690); Citada sem dispositivo identificado (696)
 | art. 7º | decisao-colegiado | RJ2004/0812 | 2004-03-09 | nao-provido | cvm-col-20040309-d12 | fichas/colegiado/2004-03.md |
 | art. 7º | decisao-colegiado | RJ2005/0250 | 2007-02-14 | provido | cvm-col-20070214-d02 | fichas/colegiado/2007-03.md |
 | art. 7º, inciso II | acordao-crsfn | RJ-2002-8428 | 2009-04-15 | parcial | crsfn-7356 | fichas/crsfn/2009-02.md |
-| art. 7º, inciso II | pas | RJ2002/8428 | 2004-10-14 | parcial | cvm-pas-rj2002-8428 | fichas/pas/2004-06.md |
+| art. 7º, inciso II | pas | RJ2002/8428 | 2004-10-14 | parcial | cvm-pas-rj2002-8428 | fichas/pas/2004-12.md |
 
 ## art. 8º
 
@@ -72,7 +72,7 @@ art. 381 (683); art. 993 (690); Citada sem dispositivo identificado (696)
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 14 | decisao-colegiado | RJ2000/6106 | 2002-07-16 | nao-provido | cvm-col-20020716-d04 | fichas/colegiado/2002-18.md |
-| art. 14, inciso I | pas | RJ2005/9152 | 2006-04-19 | absolvicao | cvm-pas-rj2005-9152 | fichas/pas/2006-03.md |
+| art. 14, inciso I | pas | RJ2005/9152 | 2006-04-19 | absolvicao | cvm-pas-rj2005-9152 | fichas/pas/2006-06.md |
 | art. 14, inciso III | termo-compromisso | RJ2005/9000 | 2007-06-28 | aceito | cvm-col-20070628-d01 | fichas/tc/2007-03.md |
 | art. 14, parágrafo único | decisao-colegiado | RJ2000/6106 | 2002-07-16 | nao-provido | cvm-col-20020716-d04 | fichas/colegiado/2002-18.md |
 
@@ -118,7 +118,7 @@ art. 381 (683); art. 993 (690); Citada sem dispositivo identificado (696)
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 34 | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
-| art. 34, § 2º | acordao-crsfn | RJ-2004-3648 | 2008-05-27 | arquivamento | crsfn-9255 | fichas/crsfn/2008-02.md |
+| art. 34, § 2º | acordao-crsfn | RJ-2004-3648 | 2008-05-27 | arquivamento | crsfn-9255 | fichas/crsfn/2008-03.md |
 
 ## art. 37
 
@@ -130,12 +130,12 @@ art. 381 (683); art. 993 (690); Citada sem dispositivo identificado (696)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 38 | acordao-crsfn | RJ-2005-9105 | 2010-04-29 | absolvicao | crsfn-11243 | fichas/crsfn/2010-03.md |
+| art. 38 | acordao-crsfn | RJ-2005-9105 | 2010-04-29 | absolvicao | crsfn-11243 | fichas/crsfn/2010-04.md |
 | art. 38 | termo-compromisso | RJ2003/5459 | 2004-12-23 | rejeitado | cvm-col-20041223-d06 | fichas/tc/2004-03.md |
 | art. 38 | decisao-colegiado | RJ2005/0250 | 2007-02-14 | provido | cvm-col-20070214-d02 | fichas/colegiado/2007-03.md |
 | art. 38 | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
-| art. 38 | pas | 22/2000 | 2001-12-12 | absolvicao | cvm-pas-22-2000 | fichas/pas/2001-04.md |
-| art. 38 | pas | RJ2005/9105 | 2006-09-25 | absolvicao | cvm-pas-rj2005-9105 | fichas/pas/2006-09.md |
+| art. 38 | pas | 22/2000 | 2001-12-12 | absolvicao | cvm-pas-22-2000 | fichas/pas/2001-08.md |
+| art. 38 | pas | RJ2005/9105 | 2006-09-25 | absolvicao | cvm-pas-rj2005-9105 | fichas/pas/2006-18.md |
 
 ## art. 41
 
@@ -150,14 +150,14 @@ art. 381 (683); art. 993 (690); Citada sem dispositivo identificado (696)
 |---|---|---|---|---|---|---|
 | art. 42, § 1º | acordao-crsfn | 02/6032 | 2008-04-28 | absolvicao | crsfn-9790 | fichas/crsfn/2008-02.md |
 | art. 42, § 1º | decisao-colegiado | RJ2002/6032 | 2005-11-08 | outro | cvm-col-20051108-d3883 | fichas/colegiado/2005-17.md |
-| art. 42, § 1º | pas | RJ2002/6032 | 2006-03-29 | absolvicao | cvm-pas-rj2002-6032 | fichas/pas/2006-02.md |
+| art. 42, § 1º | pas | RJ2002/6032 | 2006-03-29 | absolvicao | cvm-pas-rj2002-6032 | fichas/pas/2006-04.md |
 
 ## art. 47
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 47 | acordao-crsfn | RJ-2005-9152 | 2009-06-29 | absolvicao | crsfn-10596 | fichas/crsfn/2009-03.md |
-| art. 47 | pas | RJ2005/9152 | 2006-04-19 | absolvicao | cvm-pas-rj2005-9152 | fichas/pas/2006-03.md |
+| art. 47 | acordao-crsfn | RJ-2005-9152 | 2009-06-29 | absolvicao | crsfn-10596 | fichas/crsfn/2009-04.md |
+| art. 47 | pas | RJ2005/9152 | 2006-04-19 | absolvicao | cvm-pas-rj2005-9152 | fichas/pas/2006-06.md |
 
 ## art. 49
 
@@ -166,53 +166,53 @@ art. 381 (683); art. 993 (690); Citada sem dispositivo identificado (696)
 | art. 49 | acordao-crsfn | IA-2003-04 | 2009-03-18 | parcial | crsfn-9794 | fichas/crsfn/2009-02.md |
 | art. 49 | acordao-crsfn | RJ-2005-8510 | 2011-04-27 | parcial | crsfn-11451 | fichas/crsfn/2011-01.md |
 | art. 49 | termo-compromisso | 04/2003 | 2005-04-26 | rejeitado | cvm-col-20050426-d02 | fichas/tc/2005-01.md |
-| art. 49 | pas | 04/2003 | 2005-12-07 | condenacao | cvm-pas-04-2003 | fichas/pas/2005-09.md |
-| art. 49 | pas | RJ2005/8510 | 2007-04-04 | parcial | cvm-pas-rj2005-8510 | fichas/pas/2007-02.md |
-| art. 49 | pas | 04/2010 | 2014-09-23 | condenacao | cvm-pas-04-2010 | fichas/pas/2014-03.md |
+| art. 49 | pas | 04/2003 | 2005-12-07 | condenacao | cvm-pas-04-2003 | fichas/pas/2005-18.md |
+| art. 49 | pas | RJ2005/8510 | 2007-04-04 | parcial | cvm-pas-rj2005-8510 | fichas/pas/2007-04.md |
+| art. 49 | pas | 04/2010 | 2014-09-23 | condenacao | cvm-pas-04-2010 | fichas/pas/2014-06.md |
 | art. 49, parágrafo único | termo-compromisso | 13/2005 | 2008-06-05 | aceito | cvm-col-20080605-d03 | fichas/tc/2008-04.md |
-| art. 49, parágrafo único | pas | 27/2003 | 2005-08-18 | parcial | cvm-pas-27-2003 | fichas/pas/2005-06.md |
+| art. 49, parágrafo único | pas | 27/2003 | 2005-08-18 | parcial | cvm-pas-27-2003 | fichas/pas/2005-11.md |
 
 ## art. 50
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 50 | acordao-crsfn | SP-2004-113 | 2008-06-24 | arquivamento | crsfn-7529 | fichas/crsfn/2008-03.md |
-| art. 50 | acordao-crsfn | 03/97 | 2008-06-24 | parcial | crsfn-8615 | fichas/crsfn/2008-03.md |
-| art. 50 | acordao-crsfn | 27/03 | 2008-06-24 | parcial | crsfn-9637 | fichas/crsfn/2008-03.md |
+| art. 50 | acordao-crsfn | 03/97 | 2008-06-24 | parcial | crsfn-8615 | fichas/crsfn/2008-04.md |
+| art. 50 | acordao-crsfn | 27/03 | 2008-06-24 | parcial | crsfn-9637 | fichas/crsfn/2008-04.md |
 | art. 50 | decisao-colegiado | RJ2001/1857 | 2002-03-19 | parcial | cvm-col-20020319-d15 | fichas/colegiado/2002-06.md |
 | art. 50 | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
-| art. 50 | pas | 27/2003 | 2005-08-18 | parcial | cvm-pas-27-2003 | fichas/pas/2005-06.md |
+| art. 50 | pas | 27/2003 | 2005-08-18 | parcial | cvm-pas-27-2003 | fichas/pas/2005-11.md |
 | art. 50, parágrafo único | termo-compromisso | 13/2005 | 2008-06-05 | aceito | cvm-col-20080605-d03 | fichas/tc/2008-04.md |
 | art. 50, parágrafo único | termo-compromisso | 13/2005 | 2008-10-21 | aceito | cvm-col-20081021-d01 | fichas/tc/2008-07.md |
-| art. 50, parágrafo único | pas | 18/2001 | 2004-11-04 | parcial | cvm-pas-18-2001 | fichas/pas/2004-07.md |
+| art. 50, parágrafo único | pas | 18/2001 | 2004-11-04 | parcial | cvm-pas-18-2001 | fichas/pas/2004-13.md |
 
 ## art. 51
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 51 | acordao-crsfn | 21/2006 | 2016-12-14 | parcial | crsfn-13622 | fichas/crsfn/2016-06.md |
-| art. 51 | pas | 21/2006 | 2012-08-07 | parcial | cvm-pas-21-2006 | fichas/pas/2012-02.md |
+| art. 51 | acordao-crsfn | 21/2006 | 2016-12-14 | parcial | crsfn-13622 | fichas/crsfn/2016-11.md |
+| art. 51 | pas | 21/2006 | 2012-08-07 | parcial | cvm-pas-21-2006 | fichas/pas/2012-03.md |
 | art. 51, § 1º | acordao-crsfn | SP-2004-113 | 2008-06-24 | arquivamento | crsfn-7529 | fichas/crsfn/2008-03.md |
-| art. 51, § 1º | acordao-crsfn | 03/97 | 2008-06-24 | parcial | crsfn-8615 | fichas/crsfn/2008-03.md |
-| art. 51, § 1º | acordao-crsfn | 27/03 | 2008-06-24 | parcial | crsfn-9637 | fichas/crsfn/2008-03.md |
-| art. 51, § 1º | acordao-crsfn | 21/2006 | 2016-12-14 | parcial | crsfn-13622 | fichas/crsfn/2016-06.md |
+| art. 51, § 1º | acordao-crsfn | 03/97 | 2008-06-24 | parcial | crsfn-8615 | fichas/crsfn/2008-04.md |
+| art. 51, § 1º | acordao-crsfn | 27/03 | 2008-06-24 | parcial | crsfn-9637 | fichas/crsfn/2008-04.md |
+| art. 51, § 1º | acordao-crsfn | 21/2006 | 2016-12-14 | parcial | crsfn-13622 | fichas/crsfn/2016-11.md |
 | art. 51, § 1º | termo-compromisso | 13/2005 | 2008-06-05 | aceito | cvm-col-20080605-d03 | fichas/tc/2008-04.md |
-| art. 51, § 1º | pas | 27/2003 | 2005-08-18 | parcial | cvm-pas-27-2003 | fichas/pas/2005-06.md |
-| art. 51, § 1º | pas | RJ2005/5272 | 2006-12-06 | absolvicao | cvm-pas-rj2005-5272 | fichas/pas/2006-13.md |
-| art. 51, § 1º | pas | 13/2005 | 2012-06-25 | parcial | cvm-pas-13-2005 | fichas/pas/2012-01.md |
-| art. 51, § 1º | pas | 21/2006 | 2012-08-07 | parcial | cvm-pas-21-2006 | fichas/pas/2012-02.md |
-| art. 51, § 1º | pas | 07/2012 | 2017-03-07 | parcial | cvm-pas-07-2012 | fichas/pas/2017-01.md |
-| art. 51, § 1º | pas | 06/2012 | 2018-08-20 | parcial | cvm-pas-06-2012 | fichas/pas/2018-06.md |
-| art. 51, § 5º | pas | RJ2005/5272 | 2006-12-06 | absolvicao | cvm-pas-rj2005-5272 | fichas/pas/2006-13.md |
+| art. 51, § 1º | pas | 27/2003 | 2005-08-18 | parcial | cvm-pas-27-2003 | fichas/pas/2005-11.md |
+| art. 51, § 1º | pas | RJ2005/5272 | 2006-12-06 | absolvicao | cvm-pas-rj2005-5272 | fichas/pas/2006-27.md |
+| art. 51, § 1º | pas | 13/2005 | 2012-06-25 | parcial | cvm-pas-13-2005 | fichas/pas/2012-02.md |
+| art. 51, § 1º | pas | 21/2006 | 2012-08-07 | parcial | cvm-pas-21-2006 | fichas/pas/2012-03.md |
+| art. 51, § 1º | pas | 07/2012 | 2017-03-07 | parcial | cvm-pas-07-2012 | fichas/pas/2017-02.md |
+| art. 51, § 1º | pas | 06/2012 | 2018-08-20 | parcial | cvm-pas-06-2012 | fichas/pas/2018-13.md |
+| art. 51, § 5º | pas | RJ2005/5272 | 2006-12-06 | absolvicao | cvm-pas-rj2005-5272 | fichas/pas/2006-27.md |
 
 ## art. 52
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 52 | decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
-| art. 52, inciso I | acordao-crsfn | RJ-2005-8404 | 2010-05-25 | absolvicao | crsfn-11242 | fichas/crsfn/2010-04.md |
+| art. 52, inciso I | acordao-crsfn | RJ-2005-8404 | 2010-05-25 | absolvicao | crsfn-11242 | fichas/crsfn/2010-05.md |
 | art. 52, inciso I | termo-compromisso | RJ2005/8404 | 2006-05-30 | rejeitado | cvm-col-20060530-d08 | fichas/tc/2006-02.md |
-| art. 52, inciso I | pas | RJ2005/8404 | 2006-08-29 | absolvicao | cvm-pas-rj2005-8404 | fichas/pas/2006-08.md |
+| art. 52, inciso I | pas | RJ2005/8404 | 2006-08-29 | absolvicao | cvm-pas-rj2005-8404 | fichas/pas/2006-16.md |
 
 ## art. 52-O
 
@@ -230,14 +230,14 @@ art. 381 (683); art. 993 (690); Citada sem dispositivo identificado (696)
 | art. 54 | termo-compromisso | RJ2005/9000 | 2006-10-31 | rejeitado | cvm-col-20061031-d04 | fichas/tc/2006-05.md |
 | art. 54 | termo-compromisso | 19957.008107/2018-62 | 2019-04-02 | aceito | cvm-col-20190402-d1362 | fichas/tc/2019-02.md |
 | art. 54 | termo-compromisso | 19957.005918/2018-10 | 2019-04-16 | aceito | cvm-col-20190416-d1374 | fichas/tc/2019-02.md |
-| art. 54 | pas | RJ2003/4953 | 2003-12-18 | absolvicao | cvm-pas-rj2003-4953 | fichas/pas/2003-05.md |
+| art. 54 | pas | RJ2003/4953 | 2003-12-18 | absolvicao | cvm-pas-rj2003-4953 | fichas/pas/2003-10.md |
 | art. 54, parágrafo único | termo-compromisso | RJ2005/9000 | 2006-08-01 | rejeitado | cvm-col-20060801-d07 | fichas/tc/2006-03.md |
 | art. 54, parágrafo único | termo-compromisso | RJ2005/9000 | 2007-06-28 | aceito | cvm-col-20070628-d01 | fichas/tc/2007-03.md |
 | art. 54, § 1º | termo-compromisso | RJ2005/9000 | 2006-08-01 | rejeitado | cvm-col-20060801-d07 | fichas/tc/2006-03.md |
-| art. 54, § 2º | pas | RJ2003/4953 | 2003-12-18 | absolvicao | cvm-pas-rj2003-4953 | fichas/pas/2003-05.md |
+| art. 54, § 2º | pas | RJ2003/4953 | 2003-12-18 | absolvicao | cvm-pas-rj2003-4953 | fichas/pas/2003-10.md |
 | art. 54, § 3º | decisao-colegiado | RJ2002/7935 | 2003-03-17 | provido | cvm-col-20030317-d05 | fichas/colegiado/2003-04.md |
 | art. 54, § 6º | decisao-colegiado | RJ2002/7935 | 2003-03-17 | provido | cvm-col-20030317-d05 | fichas/colegiado/2003-04.md |
-| art. 54, § 6º | pas | RJ2003/4953 | 2003-12-18 | absolvicao | cvm-pas-rj2003-4953 | fichas/pas/2003-05.md |
+| art. 54, § 6º | pas | RJ2003/4953 | 2003-12-18 | absolvicao | cvm-pas-rj2003-4953 | fichas/pas/2003-10.md |
 
 ## art. 55
 
@@ -248,21 +248,21 @@ art. 381 (683); art. 993 (690); Citada sem dispositivo identificado (696)
 | art. 55 | decisao-colegiado | RJ2004/4232 | 2004-08-18 | deferido | cvm-col-20040818-d04 | fichas/colegiado/2004-10.md |
 | art. 55 | decisao-colegiado | RJ2004/6725 | 2004-11-16 | deferido | cvm-col-20041116-d05 | fichas/colegiado/2004-14.md |
 | art. 55 | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
-| art. 55 | pas | RJ2005/5272 | 2006-12-06 | absolvicao | cvm-pas-rj2005-5272 | fichas/pas/2006-13.md |
+| art. 55 | pas | RJ2005/5272 | 2006-12-06 | absolvicao | cvm-pas-rj2005-5272 | fichas/pas/2006-27.md |
 | art. 55, inciso V | decisao-colegiado | RJ2001/9877 | 2002-05-14 | deferido | cvm-col-20020514-d13 | fichas/colegiado/2002-11.md |
 | art. 55, inciso V | decisao-colegiado | — | 2004-05-11 | deferido | cvm-col-20040511-d04 | fichas/colegiado/2004-05.md |
 | art. 55, inciso V | decisao-colegiado | RJ2004/6725 | 2004-11-16 | deferido | cvm-col-20041116-d05 | fichas/colegiado/2004-14.md |
 | art. 55, inciso V | decisao-colegiado | RJ2006/1525 | 2006-05-03 | deferido | cvm-col-20060503-d04 | fichas/colegiado/2006-07.md |
-| art. 55, inciso V | pas | RJ2005/5272 | 2006-12-06 | absolvicao | cvm-pas-rj2005-5272 | fichas/pas/2006-13.md |
+| art. 55, inciso V | pas | RJ2005/5272 | 2006-12-06 | absolvicao | cvm-pas-rj2005-5272 | fichas/pas/2006-27.md |
 
 ## art. 56
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 56 | acordao-crsfn | SP-2004-113 | 2008-06-24 | arquivamento | crsfn-7529 | fichas/crsfn/2008-03.md |
-| art. 56 | acordao-crsfn | 03/97 | 2008-06-24 | parcial | crsfn-8615 | fichas/crsfn/2008-03.md |
-| art. 56 | acordao-crsfn | 27/03 | 2008-06-24 | parcial | crsfn-9637 | fichas/crsfn/2008-03.md |
-| art. 56 | pas | 27/2003 | 2005-08-18 | parcial | cvm-pas-27-2003 | fichas/pas/2005-06.md |
+| art. 56 | acordao-crsfn | 03/97 | 2008-06-24 | parcial | crsfn-8615 | fichas/crsfn/2008-04.md |
+| art. 56 | acordao-crsfn | 27/03 | 2008-06-24 | parcial | crsfn-9637 | fichas/crsfn/2008-04.md |
+| art. 56 | pas | 27/2003 | 2005-08-18 | parcial | cvm-pas-27-2003 | fichas/pas/2005-11.md |
 
 ## art. 57
 
@@ -274,15 +274,15 @@ art. 381 (683); art. 993 (690); Citada sem dispositivo identificado (696)
 | art. 57 | termo-compromisso | 19957.008107/2018-62 | 2019-04-02 | aceito | cvm-col-20190402-d1362 | fichas/tc/2019-02.md |
 | art. 57 | termo-compromisso | 19957.005918/2018-10 | 2019-04-16 | aceito | cvm-col-20190416-d1374 | fichas/tc/2019-02.md |
 | art. 57 | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
-| art. 57 | pas | 21/2006 | 2012-08-07 | parcial | cvm-pas-21-2006 | fichas/pas/2012-02.md |
+| art. 57 | pas | 21/2006 | 2012-08-07 | parcial | cvm-pas-21-2006 | fichas/pas/2012-03.md |
 | art. 57, inciso I | decisao-colegiado | RJ2003/13246 | 2006-12-05 | provido | cvm-col-20061205-d13 | fichas/colegiado/2006-18.md |
 | art. 57, inciso IV | acordao-crsfn | SP-2004-113 | 2008-06-24 | arquivamento | crsfn-7529 | fichas/crsfn/2008-03.md |
-| art. 57, inciso IV | acordao-crsfn | 03/97 | 2008-06-24 | parcial | crsfn-8615 | fichas/crsfn/2008-03.md |
-| art. 57, inciso IV | acordao-crsfn | 27/03 | 2008-06-24 | parcial | crsfn-9637 | fichas/crsfn/2008-03.md |
+| art. 57, inciso IV | acordao-crsfn | 03/97 | 2008-06-24 | parcial | crsfn-8615 | fichas/crsfn/2008-04.md |
+| art. 57, inciso IV | acordao-crsfn | 27/03 | 2008-06-24 | parcial | crsfn-9637 | fichas/crsfn/2008-04.md |
 | art. 57, inciso IV | acordao-crsfn | RJ-2005-8542 | 2011-01-26 | parcial | crsfn-11331 | fichas/crsfn/2011-01.md |
-| art. 57, inciso IV | acordao-crsfn | CVM13/05 | 2017-06-27 | parcial | crsfn-13453 | fichas/crsfn/2017-04.md |
-| art. 57, inciso IV | acordao-crsfn | 30/2005 | 2020-04-14 | parcial | crsfn-13083-2 | fichas/crsfn/2020-02.md |
-| art. 57, inciso IV | acordao-crsfn | 08/2004 | 2020-03-10 | parcial | crsfn-13732 | fichas/crsfn/2020-01.md |
+| art. 57, inciso IV | acordao-crsfn | CVM13/05 | 2017-06-27 | parcial | crsfn-13453 | fichas/crsfn/2017-09.md |
+| art. 57, inciso IV | acordao-crsfn | 30/2005 | 2020-04-14 | parcial | crsfn-13083-2 | fichas/crsfn/2020-03.md |
+| art. 57, inciso IV | acordao-crsfn | 08/2004 | 2020-03-10 | parcial | crsfn-13732 | fichas/crsfn/2020-02.md |
 | art. 57, inciso IV | termo-compromisso | 13/2005 | 2008-06-05 | aceito | cvm-col-20080605-d03 | fichas/tc/2008-04.md |
 | art. 57, inciso IV | termo-compromisso | 13/2005 | 2008-07-22 | outro | cvm-col-20080722-d30 | fichas/tc/2008-05.md |
 | art. 57, inciso IV | termo-compromisso | 13/2005 | 2008-10-21 | aceito | cvm-col-20081021-d01 | fichas/tc/2008-07.md |
@@ -293,15 +293,15 @@ art. 381 (683); art. 993 (690); Citada sem dispositivo identificado (696)
 | art. 57, inciso IV | termo-compromisso | 02/2006 | 2012-12-11 | aceito | cvm-col-20121211-d43 | fichas/tc/2012-06.md |
 | art. 57, inciso IV | termo-compromisso | 19957.009152/2018-34 | 2021-01-12 | rejeitado | cvm-col-20210112-d1877 | fichas/tc/2021-01.md |
 | art. 57, inciso IV | termo-compromisso | 19957.010084/2021-51 | 2023-04-04 | rejeitado | cvm-col-20230404-d2738 | fichas/tc/2023-02.md |
-| art. 57, inciso IV | pas | 27/2003 | 2005-08-18 | parcial | cvm-pas-27-2003 | fichas/pas/2005-06.md |
-| art. 57, inciso IV | pas | 08/2004 | 2012-12-06 | parcial | cvm-pas-08-2004 | fichas/pas/2012-03.md |
-| art. 57, inciso IV | pas | 13/2005 | 2012-06-25 | parcial | cvm-pas-13-2005 | fichas/pas/2012-01.md |
-| art. 57, inciso IV | pas | 21/2006 | 2012-08-07 | parcial | cvm-pas-21-2006 | fichas/pas/2012-02.md |
-| art. 57, inciso IV | pas | 30/2005 | 2012-12-11 | parcial | cvm-pas-30-2005 | fichas/pas/2012-03.md |
-| art. 57, inciso IV | pas | 06/2012 | 2018-08-20 | parcial | cvm-pas-06-2012 | fichas/pas/2018-06.md |
-| art. 57, inciso VIII | acordao-crsfn | RJ-2005-8404 | 2010-05-25 | absolvicao | crsfn-11242 | fichas/crsfn/2010-04.md |
+| art. 57, inciso IV | pas | 27/2003 | 2005-08-18 | parcial | cvm-pas-27-2003 | fichas/pas/2005-11.md |
+| art. 57, inciso IV | pas | 08/2004 | 2012-12-06 | parcial | cvm-pas-08-2004 | fichas/pas/2012-06.md |
+| art. 57, inciso IV | pas | 13/2005 | 2012-06-25 | parcial | cvm-pas-13-2005 | fichas/pas/2012-02.md |
+| art. 57, inciso IV | pas | 21/2006 | 2012-08-07 | parcial | cvm-pas-21-2006 | fichas/pas/2012-03.md |
+| art. 57, inciso IV | pas | 30/2005 | 2012-12-11 | parcial | cvm-pas-30-2005 | fichas/pas/2012-06.md |
+| art. 57, inciso IV | pas | 06/2012 | 2018-08-20 | parcial | cvm-pas-06-2012 | fichas/pas/2018-13.md |
+| art. 57, inciso VIII | acordao-crsfn | RJ-2005-8404 | 2010-05-25 | absolvicao | crsfn-11242 | fichas/crsfn/2010-05.md |
 | art. 57, inciso VIII | termo-compromisso | RJ2005/8404 | 2006-05-30 | rejeitado | cvm-col-20060530-d08 | fichas/tc/2006-02.md |
-| art. 57, inciso VIII | pas | RJ2005/8404 | 2006-08-29 | absolvicao | cvm-pas-rj2005-8404 | fichas/pas/2006-08.md |
+| art. 57, inciso VIII | pas | RJ2005/8404 | 2006-08-29 | absolvicao | cvm-pas-rj2005-8404 | fichas/pas/2006-16.md |
 | art. 57, inciso XIII | termo-compromisso | RJ2003/3972 | 2004-08-05 | aceito | cvm-col-20040805-d03 | fichas/tc/2004-01.md |
 | art. 57, inciso XIII | termo-compromisso | RJ2005/9000 | 2006-08-01 | rejeitado | cvm-col-20060801-d07 | fichas/tc/2006-03.md |
 | art. 57, inciso XIII | termo-compromisso | RJ2006/4665 | 2009-03-10 | rejeitado | cvm-col-20090310-d02 | fichas/tc/2009-01.md |
@@ -309,7 +309,7 @@ art. 381 (683); art. 993 (690); Citada sem dispositivo identificado (696)
 | art. 57, inciso XIII | termo-compromisso | 02/2006 | 2009-12-08 | rejeitado | cvm-col-20091208-d01 | fichas/tc/2009-08.md |
 | art. 57, inciso XIII | termo-compromisso | 02/2006 | 2012-12-11 | aceito | cvm-col-20121211-d43 | fichas/tc/2012-06.md |
 | art. 57, inciso XIII | termo-compromisso | 19957.010084/2021-51 | 2023-04-04 | rejeitado | cvm-col-20230404-d2738 | fichas/tc/2023-02.md |
-| art. 57, inciso XIII | pas | RJ2003/5486 | 2003-12-10 | absolvicao | cvm-pas-rj2003-5486 | fichas/pas/2003-05.md |
+| art. 57, inciso XIII | pas | RJ2003/5486 | 2003-12-10 | absolvicao | cvm-pas-rj2003-5486 | fichas/pas/2003-09.md |
 | art. 57, inciso XIV | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
 
 ## art. 59
@@ -349,7 +349,7 @@ art. 381 (683); art. 993 (690); Citada sem dispositivo identificado (696)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 65 | pas | 27/2003 | 2005-08-18 | parcial | cvm-pas-27-2003 | fichas/pas/2005-06.md |
+| art. 65 | pas | 27/2003 | 2005-08-18 | parcial | cvm-pas-27-2003 | fichas/pas/2005-11.md |
 
 ## art. 66
 
@@ -480,30 +480,30 @@ art. 381 (683); art. 993 (690); Citada sem dispositivo identificado (696)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 84 | pas | 15/1999 | 2001-08-02 | parcial | cvm-pas-15-1999 | fichas/pas/2001-02.md |
+| art. 84 | pas | 15/1999 | 2001-08-02 | parcial | cvm-pas-15-1999 | fichas/pas/2001-04.md |
 
 ## art. 85
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 85 | pas | 15/1999 | 2001-08-02 | parcial | cvm-pas-15-1999 | fichas/pas/2001-02.md |
+| art. 85 | pas | 15/1999 | 2001-08-02 | parcial | cvm-pas-15-1999 | fichas/pas/2001-04.md |
 
 ## art. 86
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 86 | pas | 15/1999 | 2001-08-02 | parcial | cvm-pas-15-1999 | fichas/pas/2001-02.md |
-| art. 86, § 2º | acordao-crsfn | RJ-2012-12201 | 2016-11-29 | condenacao | crsfn-14439 | fichas/crsfn/2016-05.md |
-| art. 86, § 2º | pas | RJ2012/12201 | 2015-08-04 | condenacao | cvm-pas-rj2012-12201 | fichas/pas/2015-04.md |
-| art. 86, § 2º | pas | 19957.005866/2018-73 | 2022-12-16 | parcial | cvm-pas-19957-005866-2018-73 | fichas/pas/2022-06.md |
+| art. 86 | pas | 15/1999 | 2001-08-02 | parcial | cvm-pas-15-1999 | fichas/pas/2001-04.md |
+| art. 86, § 2º | acordao-crsfn | RJ-2012-12201 | 2016-11-29 | condenacao | crsfn-14439 | fichas/crsfn/2016-10.md |
+| art. 86, § 2º | pas | RJ2012/12201 | 2015-08-04 | condenacao | cvm-pas-rj2012-12201 | fichas/pas/2015-08.md |
+| art. 86, § 2º | pas | 19957.005866/2018-73 | 2022-12-16 | parcial | cvm-pas-19957-005866-2018-73 | fichas/pas/2022-13.md |
 
 ## art. 87
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 87 | acordao-crsfn | RJ-2002-8428 | 2009-04-15 | parcial | crsfn-7356 | fichas/crsfn/2009-02.md |
-| art. 87 | pas | 15/1999 | 2001-08-02 | parcial | cvm-pas-15-1999 | fichas/pas/2001-02.md |
-| art. 87 | pas | RJ2002/8428 | 2004-10-14 | parcial | cvm-pas-rj2002-8428 | fichas/pas/2004-06.md |
+| art. 87 | pas | 15/1999 | 2001-08-02 | parcial | cvm-pas-15-1999 | fichas/pas/2001-04.md |
+| art. 87 | pas | RJ2002/8428 | 2004-10-14 | parcial | cvm-pas-rj2002-8428 | fichas/pas/2004-12.md |
 
 ## art. 89
 
@@ -542,8 +542,8 @@ art. 381 (683); art. 993 (690); Citada sem dispositivo identificado (696)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 93 | acordao-crsfn | RJ-2005-9105 | 2010-04-29 | absolvicao | crsfn-11243 | fichas/crsfn/2010-03.md |
-| art. 93 | pas | RJ2005/9105 | 2006-09-25 | absolvicao | cvm-pas-rj2005-9105 | fichas/pas/2006-09.md |
+| art. 93 | acordao-crsfn | RJ-2005-9105 | 2010-04-29 | absolvicao | crsfn-11243 | fichas/crsfn/2010-04.md |
+| art. 93 | pas | RJ2005/9105 | 2006-09-25 | absolvicao | cvm-pas-rj2005-9105 | fichas/pas/2006-18.md |
 
 ## art. 96
 
@@ -578,7 +578,7 @@ art. 381 (683); art. 993 (690); Citada sem dispositivo identificado (696)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 99 | acordao-crsfn | RJ-2003-12656 | 2010-07-28 | arquivamento | crsfn-11453 | fichas/crsfn/2010-06.md |
+| art. 99 | acordao-crsfn | RJ-2003-12656 | 2010-07-28 | arquivamento | crsfn-11453 | fichas/crsfn/2010-07.md |
 | art. 99 | decisao-colegiado | RJ2002/3792 | 2003-04-08 | provido | cvm-col-20030408-d01 | fichas/colegiado/2003-04.md |
 | art. 99 | decisao-colegiado | RJ2003/12498 | 2003-11-11 | — | cvm-col-20031111-d08 | fichas/colegiado/2003-13.md |
 | art. 99 | decisao-colegiado | RJ2003/12498 | 2003-11-21 | outro | cvm-col-20031121-d01 | fichas/colegiado/2003-13.md |
@@ -587,16 +587,16 @@ art. 381 (683); art. 993 (690); Citada sem dispositivo identificado (696)
 | art. 99 | termo-compromisso | RJ2003/12656 | 2006-07-18 | rejeitado | cvm-col-20060718-d04 | fichas/tc/2006-03.md |
 | art. 99 | decisao-colegiado | RJ2012/8296 | 2012-10-02 | deferido | cvm-col-20121002-d09 | fichas/colegiado/2012-18.md |
 | art. 99 | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
-| art. 99 | pas | RJ2003/4953 | 2003-12-18 | absolvicao | cvm-pas-rj2003-4953 | fichas/pas/2003-05.md |
-| art. 99 | pas | RJ2003/5486 | 2003-12-10 | absolvicao | cvm-pas-rj2003-5486 | fichas/pas/2003-05.md |
-| art. 99 | pas | RJ2003/12656 | 2006-12-14 | condenacao | cvm-pas-rj2003-12656 | fichas/pas/2006-14.md |
-| art. 99, inciso III | acordao-crsfn | RJ-2003-12656 | 2010-07-28 | arquivamento | crsfn-11453 | fichas/crsfn/2010-06.md |
-| art. 99, inciso III | pas | RJ2003/12656 | 2006-12-14 | condenacao | cvm-pas-rj2003-12656 | fichas/pas/2006-14.md |
-| art. 99, inciso IV | acordao-crsfn | RJ-2003-12656 | 2010-07-28 | arquivamento | crsfn-11453 | fichas/crsfn/2010-06.md |
-| art. 99, inciso IV | pas | RJ2003/12656 | 2006-12-14 | condenacao | cvm-pas-rj2003-12656 | fichas/pas/2006-14.md |
+| art. 99 | pas | RJ2003/4953 | 2003-12-18 | absolvicao | cvm-pas-rj2003-4953 | fichas/pas/2003-10.md |
+| art. 99 | pas | RJ2003/5486 | 2003-12-10 | absolvicao | cvm-pas-rj2003-5486 | fichas/pas/2003-09.md |
+| art. 99 | pas | RJ2003/12656 | 2006-12-14 | condenacao | cvm-pas-rj2003-12656 | fichas/pas/2006-28.md |
+| art. 99, inciso III | acordao-crsfn | RJ-2003-12656 | 2010-07-28 | arquivamento | crsfn-11453 | fichas/crsfn/2010-07.md |
+| art. 99, inciso III | pas | RJ2003/12656 | 2006-12-14 | condenacao | cvm-pas-rj2003-12656 | fichas/pas/2006-28.md |
+| art. 99, inciso IV | acordao-crsfn | RJ-2003-12656 | 2010-07-28 | arquivamento | crsfn-11453 | fichas/crsfn/2010-07.md |
+| art. 99, inciso IV | pas | RJ2003/12656 | 2006-12-14 | condenacao | cvm-pas-rj2003-12656 | fichas/pas/2006-28.md |
 | art. 99, inciso V | decisao-colegiado | RJ2002/3792 | 2003-04-08 | provido | cvm-col-20030408-d01 | fichas/colegiado/2003-04.md |
-| art. 99, inciso V | pas | RJ2003/5486 | 2003-12-10 | absolvicao | cvm-pas-rj2003-5486 | fichas/pas/2003-05.md |
-| art. 99, inciso VI | pas | RJ2003/5486 | 2003-12-10 | absolvicao | cvm-pas-rj2003-5486 | fichas/pas/2003-05.md |
+| art. 99, inciso V | pas | RJ2003/5486 | 2003-12-10 | absolvicao | cvm-pas-rj2003-5486 | fichas/pas/2003-09.md |
+| art. 99, inciso VI | pas | RJ2003/5486 | 2003-12-10 | absolvicao | cvm-pas-rj2003-5486 | fichas/pas/2003-09.md |
 | art. 99, § 2º | decisao-colegiado | RJ2002/6453 | 2005-07-12 | outro | cvm-col-20050712-d01 | fichas/colegiado/2005-10.md |
 
 ## art. 100
@@ -609,24 +609,24 @@ art. 381 (683); art. 993 (690); Citada sem dispositivo identificado (696)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 101 | acordao-crsfn | RJ-2003-12656 | 2010-07-28 | arquivamento | crsfn-11453 | fichas/crsfn/2010-06.md |
+| art. 101 | acordao-crsfn | RJ-2003-12656 | 2010-07-28 | arquivamento | crsfn-11453 | fichas/crsfn/2010-07.md |
 | art. 101 | termo-compromisso | RJ2003/12656 | 2006-07-18 | rejeitado | cvm-col-20060718-d04 | fichas/tc/2006-03.md |
-| art. 101 | pas | RJ2003/12656 | 2006-12-14 | condenacao | cvm-pas-rj2003-12656 | fichas/pas/2006-14.md |
+| art. 101 | pas | RJ2003/12656 | 2006-12-14 | condenacao | cvm-pas-rj2003-12656 | fichas/pas/2006-28.md |
 
 ## art. 102
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 102 | pas | RJ2002/6032 | 2006-03-29 | absolvicao | cvm-pas-rj2002-6032 | fichas/pas/2006-02.md |
+| art. 102 | pas | RJ2002/6032 | 2006-03-29 | absolvicao | cvm-pas-rj2002-6032 | fichas/pas/2006-04.md |
 
 ## art. 103
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 103 | acordao-crsfn | SP-2004-113 | 2008-06-24 | arquivamento | crsfn-7529 | fichas/crsfn/2008-03.md |
-| art. 103 | acordao-crsfn | 03/97 | 2008-06-24 | parcial | crsfn-8615 | fichas/crsfn/2008-03.md |
-| art. 103 | acordao-crsfn | 27/03 | 2008-06-24 | parcial | crsfn-9637 | fichas/crsfn/2008-03.md |
-| art. 103 | acordao-crsfn | CVM13/05 | 2017-06-27 | parcial | crsfn-13453 | fichas/crsfn/2017-04.md |
+| art. 103 | acordao-crsfn | 03/97 | 2008-06-24 | parcial | crsfn-8615 | fichas/crsfn/2008-04.md |
+| art. 103 | acordao-crsfn | 27/03 | 2008-06-24 | parcial | crsfn-9637 | fichas/crsfn/2008-04.md |
+| art. 103 | acordao-crsfn | CVM13/05 | 2017-06-27 | parcial | crsfn-13453 | fichas/crsfn/2017-09.md |
 | art. 103 | termo-compromisso | 13/2005 | 2008-06-05 | aceito | cvm-col-20080605-d03 | fichas/tc/2008-04.md |
 | art. 103 | termo-compromisso | 13/2005 | 2008-07-22 | outro | cvm-col-20080722-d30 | fichas/tc/2008-05.md |
 | art. 103 | termo-compromisso | 13/2005 | 2008-10-21 | aceito | cvm-col-20081021-d01 | fichas/tc/2008-07.md |
@@ -637,10 +637,10 @@ art. 381 (683); art. 993 (690); Citada sem dispositivo identificado (696)
 | art. 103 | termo-compromisso | RJ2009/8196 | 2010-04-13 | aceito | cvm-col-20100413-d04 | fichas/tc/2010-02.md |
 | art. 103 | termo-compromisso | 02/2006 | 2012-12-11 | aceito | cvm-col-20121211-d43 | fichas/tc/2012-06.md |
 | art. 103 | termo-compromisso | 19957.010084/2021-51 | 2023-04-04 | rejeitado | cvm-col-20230404-d2738 | fichas/tc/2023-02.md |
-| art. 103 | pas | 27/2003 | 2005-08-18 | parcial | cvm-pas-27-2003 | fichas/pas/2005-06.md |
-| art. 103 | pas | RJ2002/6032 | 2006-03-29 | absolvicao | cvm-pas-rj2002-6032 | fichas/pas/2006-02.md |
-| art. 103 | pas | 13/2005 | 2012-06-25 | parcial | cvm-pas-13-2005 | fichas/pas/2012-01.md |
-| art. 103 | pas | 21/2006 | 2012-08-07 | parcial | cvm-pas-21-2006 | fichas/pas/2012-02.md |
+| art. 103 | pas | 27/2003 | 2005-08-18 | parcial | cvm-pas-27-2003 | fichas/pas/2005-11.md |
+| art. 103 | pas | RJ2002/6032 | 2006-03-29 | absolvicao | cvm-pas-rj2002-6032 | fichas/pas/2006-04.md |
+| art. 103 | pas | 13/2005 | 2012-06-25 | parcial | cvm-pas-13-2005 | fichas/pas/2012-02.md |
+| art. 103 | pas | 21/2006 | 2012-08-07 | parcial | cvm-pas-21-2006 | fichas/pas/2012-03.md |
 
 ## art. 104
 
@@ -648,8 +648,8 @@ art. 381 (683); art. 993 (690); Citada sem dispositivo identificado (696)
 |---|---|---|---|---|---|---|
 | art. 104 | decisao-colegiado | RJ2002/6453 | 2005-07-12 | outro | cvm-col-20050712-d01 | fichas/colegiado/2005-10.md |
 | art. 104 | termo-compromisso | RJ2005/9000 | 2006-08-01 | rejeitado | cvm-col-20060801-d07 | fichas/tc/2006-03.md |
-| art. 104 | pas | 15/1999 | 2001-08-02 | parcial | cvm-pas-15-1999 | fichas/pas/2001-02.md |
-| art. 104 | pas | RJ2002/6032 | 2006-03-29 | absolvicao | cvm-pas-rj2002-6032 | fichas/pas/2006-02.md |
+| art. 104 | pas | 15/1999 | 2001-08-02 | parcial | cvm-pas-15-1999 | fichas/pas/2001-04.md |
+| art. 104 | pas | RJ2002/6032 | 2006-03-29 | absolvicao | cvm-pas-rj2002-6032 | fichas/pas/2006-04.md |
 
 ## art. 105
 
@@ -684,14 +684,14 @@ art. 381 (683); art. 993 (690); Citada sem dispositivo identificado (696)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 381 | acordao-crsfn | RJ-2005-9105 | 2010-04-29 | absolvicao | crsfn-11243 | fichas/crsfn/2010-03.md |
-| art. 381 | pas | RJ2005/9105 | 2006-09-25 | absolvicao | cvm-pas-rj2005-9105 | fichas/pas/2006-09.md |
+| art. 381 | acordao-crsfn | RJ-2005-9105 | 2010-04-29 | absolvicao | crsfn-11243 | fichas/crsfn/2010-04.md |
+| art. 381 | pas | RJ2005/9105 | 2006-09-25 | absolvicao | cvm-pas-rj2005-9105 | fichas/pas/2006-18.md |
 
 ## art. 993
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 993 | pas | RJ2003/5486 | 2003-12-10 | absolvicao | cvm-pas-rj2003-5486 | fichas/pas/2003-05.md |
+| art. 993 | pas | RJ2003/5486 | 2003-12-10 | absolvicao | cvm-pas-rj2003-5486 | fichas/pas/2003-09.md |
 
 ## Citada sem dispositivo identificado
 
@@ -703,9 +703,9 @@ art. 381 (683); art. 993 (690); Citada sem dispositivo identificado (696)
 | decisao-colegiado | RJ2011/9120 | 2012-09-11 | provido | cvm-col-20120911-d07 | fichas/colegiado/2012-16.md |
 | decisao-colegiado | RJ2010/12484; RJ2011/2164; RJ2011/2165; RJ2011/2167; RJ2011/2168 | 2012-08-28 | provido | cvm-col-20120828-d03 | fichas/colegiado/2012-14.md |
 | termo-compromisso | RJ2009/11393 | 2010-11-30 | aceito | cvm-col-20101130-d02 | fichas/tc/2010-06.md |
-| acordao-crsfn | RJ-2007-9559 | 2010-10-27 | condenacao | crsfn-11955 | fichas/crsfn/2010-08.md |
+| acordao-crsfn | RJ-2007-9559 | 2010-10-27 | condenacao | crsfn-11955 | fichas/crsfn/2010-10.md |
 | decisao-colegiado | RJ2007/8031 | 2009-03-03 | deferido | cvm-col-20090303-d01 | fichas/colegiado/2009-03.md |
-| pas | 22/2005 | 2008-08-26 | parcial | cvm-pas-22-2005 | fichas/pas/2008-03.md |
+| pas | 22/2005 | 2008-08-26 | parcial | cvm-pas-22-2005 | fichas/pas/2008-05.md |
 | pas | RJ2007/9559 | 2008-01-16 | condenacao | cvm-pas-rj2007-9559 | fichas/pas/2008-01.md |
 | decisao-colegiado | RJ2006/2036 | 2006-11-28 | deferido | cvm-col-20061128-d05 | fichas/colegiado/2006-18.md |
 | acordao-crsfn | RJ2001/9701 | 2006-03-06 | parcial | crsfn-5135 | fichas/crsfn/2006-01.md |
@@ -718,7 +718,7 @@ art. 381 (683); art. 993 (690); Citada sem dispositivo identificado (696)
 | decisao-colegiado | — | 2003-07-22 | outro | cvm-col-20030722-d04 | fichas/colegiado/2003-09.md |
 | decisao-colegiado | RJ2003/2882 | 2003-04-29 | nao-provido | cvm-col-20030429-d10 | fichas/colegiado/2003-05.md |
 | decisao-colegiado | RJ2003/2881 | 2003-04-29 | nao-provido | cvm-col-20030429-d07 | fichas/colegiado/2003-05.md |
-| pas | RJ2001/9701 | 2003-04-03 | parcial | cvm-pas-rj2001-9701 | fichas/pas/2003-01.md |
+| pas | RJ2001/9701 | 2003-04-03 | parcial | cvm-pas-rj2001-9701 | fichas/pas/2003-02.md |
 | decisao-colegiado | — | 2002-10-29 | outro | cvm-col-20021029-d01 | fichas/colegiado/2002-24.md |
 | decisao-colegiado | RJ2001/12009 | 2002-08-30 | indeferido | cvm-col-20020830-d02 | fichas/colegiado/2002-21.md |
 | decisao-colegiado | RJ2002/2941 | 2002-04-26 | deferido | cvm-col-20020426-d12 | fichas/colegiado/2002-10.md |

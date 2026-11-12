@@ -11,19 +11,19 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 1º | acordao-crsfn | 08/01 | 2007-08-30 | arquivamento | crsfn-6255 | fichas/crsfn/2007-01.md |
+| art. 1º | acordao-crsfn | 08/01 | 2007-08-30 | arquivamento | crsfn-6255 | fichas/crsfn/2007-02.md |
 | art. 1º | decisao-antiga | — | 1992-01-02 | — | cvm-dec-1992-0001 | fichas/decisoes-antigas/1992-12.md |
 | art. 1º | decisao-antiga | — | 1996-01-12 | — | cvm-dec-1996-0001 | fichas/decisoes-antigas/1996-07.md |
 | art. 1º | decisao-antiga | — | 1997-01-13 | — | cvm-dec-1997-0001 | fichas/decisoes-antigas/1997-12.md |
-| art. 1º | pas | 08/2001 | 2004-09-23 | condenacao | cvm-pas-08-2001 | fichas/pas/2004-06.md |
+| art. 1º | pas | 08/2001 | 2004-09-23 | condenacao | cvm-pas-08-2001 | fichas/pas/2004-11.md |
 | art. 1º, inciso I | decisao-antiga | — | 1992-01-02 | — | cvm-dec-1992-0001 | fichas/decisoes-antigas/1992-12.md |
 | art. 1º, inciso III | decisao-antiga | — | 1992-01-02 | — | cvm-dec-1992-0001 | fichas/decisoes-antigas/1992-12.md |
 | art. 1º, inciso IV | decisao-antiga | — | 1992-01-02 | — | cvm-dec-1992-0001 | fichas/decisoes-antigas/1992-12.md |
-| art. 1º, inciso VI | acordao-crsfn | 08/01 | 2007-08-30 | arquivamento | crsfn-6255 | fichas/crsfn/2007-01.md |
+| art. 1º, inciso VI | acordao-crsfn | 08/01 | 2007-08-30 | arquivamento | crsfn-6255 | fichas/crsfn/2007-02.md |
 | art. 1º, inciso VI | decisao-antiga | — | 1992-01-02 | — | cvm-dec-1992-0001 | fichas/decisoes-antigas/1992-12.md |
-| art. 1º, inciso VI | pas | 08/2001 | 2004-09-23 | condenacao | cvm-pas-08-2001 | fichas/pas/2004-06.md |
+| art. 1º, inciso VI | pas | 08/2001 | 2004-09-23 | condenacao | cvm-pas-08-2001 | fichas/pas/2004-11.md |
 | art. 1º, inciso VI, alínea b | decisao-antiga | — | 1992-01-02 | — | cvm-dec-1992-0001 | fichas/decisoes-antigas/1992-12.md |
-| art. 1º, inciso VI, alínea b | pas | 08/2001 | 2004-09-23 | condenacao | cvm-pas-08-2001 | fichas/pas/2004-06.md |
+| art. 1º, inciso VI, alínea b | pas | 08/2001 | 2004-09-23 | condenacao | cvm-pas-08-2001 | fichas/pas/2004-11.md |
 | art. 1º, inciso VI, alínea e | decisao-antiga | — | 1992-01-02 | — | cvm-dec-1992-0001 | fichas/decisoes-antigas/1992-12.md |
 | art. 1º, inciso VI, alínea f | decisao-antiga | — | 1992-01-02 | — | cvm-dec-1992-0001 | fichas/decisoes-antigas/1992-12.md |
 
@@ -34,7 +34,7 @@ Norma: fora do acervo.
 | art. 2º | decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
 | art. 2º, inciso I | acordao-crsfn | – | 2007-03-28 | absolvicao | crsfn-9428 | fichas/crsfn/2007-01.md |
 | art. 2º, inciso I | decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
-| art. 2º, inciso I | pas | 10/1999 | 2000-09-14 | parcial | cvm-pas-10-1999 | fichas/pas/2000-02.md |
+| art. 2º, inciso I | pas | 10/1999 | 2000-09-14 | parcial | cvm-pas-10-1999 | fichas/pas/2000-03.md |
 | art. 2º, inciso II | decisao-antiga | — | 1999-01-29 | — | cvm-dec-1999-0001 | fichas/decisoes-antigas/1999-28.md |
 | art. 2º, inciso II | decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
 

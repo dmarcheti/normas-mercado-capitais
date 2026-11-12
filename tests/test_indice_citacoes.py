@@ -192,19 +192,47 @@ class TestIndicesDosJulgados(unittest.TestCase):
         self.assertIn("[indices/normas-citadas.md](indices/normas-citadas.md) (2 normas citadas)", md)
         self.assertIn("Processos Administrativos Sancionadores (PAS), 1", md)
 
-    def test_linha_leva_a_ficha_sem_ementa_tema_nem_titulo(self):
+    def test_linha_leva_a_ficha_com_ementa_curta_sem_tema_nem_titulo(self):
         arqs = indice.gerar_indice_julgados(self.raiz, NORMAS)[0]
         for rel, md in arqs.items():
             self.assertNotIn("FULANO", md, rel)
         pas = arqs["indices/pas-2025.md"]
-        self.assertNotIn("Dever de diligência de administradores", pas)  # a ementa fica na ficha
-        self.assertIn("| Processo | Data | Resultado | Id | Ficha |", pas)
-        self.assertNotIn("| Ementa |", pas)
+        self.assertIn("| Processo | Data | Resultado | Ementa | Id | Ficha |", pas)  # a ementa curta volta
         self.assertNotIn("| Tema |", pas)
-        self.assertIn("| 19957.011607/2024-20 | 2025-05-27 | condenacao | cvm-pas-19957-011607-2024-20 | "
+        self.assertIn("| 19957.011607/2024-20 | 2025-05-27 | condenacao | "
+                      "PAS. Dever de diligência de administradores. Multa. | cvm-pas-19957-011607-2024-20 | "
                       "fichas/pas/2025.md |", pas)
         self.assertNotIn("julgados/cvm/pas", pas)  # nenhum link para o texto: só para a ficha
         self.assertIn("texto_integral", pas)  # o cabeçalho diz onde está o texto integral
+
+    def test_ementa_curta_nos_indices_por_tema_tipo_e_processo_e_ausente_no_por_norma(self):
+        longa = "Apurar responsabilidade " + " ".join(["administradores"] * 20) + " fim."
+        self.gravar("cvm/pas/2025/19957-000001-2025-01.md", dict(
+            BASE, id="cvm-pas-19957-000001-2025-01", processo="19957.000001/2025-01", nup="19957-000001-2025-01",
+            data="2025-06-10", ementa=longa))
+        arqs = indice.gerar_indice_julgados(self.raiz, NORMAS)[0]
+        curta = indice.ementa_curta(longa)
+        self.assertLessEqual(len(curta), 140)
+        self.assertTrue(curta.endswith("…"))
+        self.assertNotIn(longa, "".join(arqs.values()))
+        for rel in ("indices/pas-2025.md", "indices/tema-deveres-administradores.md", "indices/processo-2025.md"):
+            self.assertIn(" | %s | " % curta, arqs[rel], rel)
+        self.assertIn("| Ementa | Id | Ficha |", arqs["indices/tema-deveres-administradores.md"])
+        self.assertIn("| Ementa | Id | Ficha |", arqs["indices/processo-2025.md"])
+        for rel in ("indices/norma-lei-6404.md", "indices/norma-fora-outras-icvm.md"):
+            self.assertNotIn("| Ementa |", arqs[rel], rel)
+            self.assertNotIn(curta, arqs[rel], rel)
+            self.assertNotIn("PAS. Dever de diligência de administradores", arqs[rel], rel)
+
+    def test_ementa_curta_corta_em_limite_de_palavra(self):
+        self.assertEqual(indice.ementa_curta("  Texto   curto. "), "Texto curto.")
+        self.assertEqual(indice.ementa_curta(""), "—")
+        t = indice.ementa_curta("palavra " * 40)
+        self.assertLessEqual(len(t), 140)
+        self.assertTrue(t.endswith("palavra…"))
+        exato = "a" * 140
+        self.assertEqual(indice.ementa_curta(exato), exato)
+        self.assertEqual(len(indice.ementa_curta("a" * 141)), 140)
 
     def test_ficha_do_indice_existe_em_memoria_com_o_id_da_linha(self):
         fichas, arquivos, _ = indice.fch.montar(self.raiz)
@@ -241,7 +269,7 @@ class TestIndicesDosJulgados(unittest.TestCase):
         self.assertIn("| § 1º | pas |", md.replace("art. 155, § 1º", "§ 1º"))
         self.assertIn("## Citada sem dispositivo identificado", md)  # o TC cita só a norma
         self.assertIn("| termo-compromisso | 19957.011607/2024-20 | 2024-06-03 | aceito | cvm-col-20240603-d100 | "
-                      "fichas/tc/2024.md |", md)
+                      "fichas/tc/2024.md |", md)  # sem coluna Ementa no índice por norma
         # fora do acervo com menos de FORA_MIN_PROPRIO julgados: arquivo da família, seção por norma
         fora = arqs["indices/norma-fora-outras-icvm.md"]
         self.assertIn("fora do acervo", fora)

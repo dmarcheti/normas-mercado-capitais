@@ -17,15 +17,15 @@ Norma: [leis/lei-04728.md](../../normas/leis/lei-04728.md) (texto vigente hoje; 
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 2º | acordao-crsfn | 19957.003200/2017-08 | 2024-09-10 | condenacao | crsfn-10372-100068-2023-18 | fichas/crsfn/2024-04.md |
+| art. 2º | acordao-crsfn | 19957.003200/2017-08 | 2024-09-10 | condenacao | crsfn-10372-100068-2023-18 | fichas/crsfn/2024-06.md |
 | art. 2º, inciso III | acordao-crsfn | 06/2007 | 2025-02-12 | parcial | crsfn-10372-100181-2020-51 | fichas/crsfn/2025-01.md |
 
 ## art. 3º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 3º | pas | 06/2002 | 2005-11-16 | parcial | cvm-pas-06-2002 | fichas/pas/2005-08.md |
-| art. 3º | pas | 05/2004 | 2007-04-24 | absolvicao | cvm-pas-05-2004 | fichas/pas/2007-03.md |
+| art. 3º | pas | 06/2002 | 2005-11-16 | parcial | cvm-pas-06-2002 | fichas/pas/2005-16.md |
+| art. 3º | pas | 05/2004 | 2007-04-24 | absolvicao | cvm-pas-05-2004 | fichas/pas/2007-05.md |
 
 ## art. 6º
 
@@ -50,7 +50,7 @@ Norma: [leis/lei-04728.md](../../normas/leis/lei-04728.md) (texto vigente hoje; 
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 10, inciso VII | pas | 19957.008818/2018-37 | 2022-11-29 | condenacao | cvm-pas-19957-008818-2018-37 | fichas/pas/2022-06.md |
+| art. 10, inciso VII | pas | 19957.008818/2018-37 | 2022-11-29 | condenacao | cvm-pas-19957-008818-2018-37 | fichas/pas/2022-12.md |
 
 ## art. 11
 
@@ -109,15 +109,15 @@ Norma: [leis/lei-04728.md](../../normas/leis/lei-04728.md) (texto vigente hoje; 
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.003642/2020-41 | 2022-05-03 | condenacao | cvm-pas-19957-003642-2020-41 | fichas/pas/2022-02.md |
-| acordao-crsfn | 07/2015 | 2021-12-08 | condenacao | crsfn-10372-100114-2020-36 | fichas/crsfn/2021-05.md |
-| pas | 19957.008401/2016-11 | 2020-09-03 | — | cvm-pas-19957-008401-2016-11 | fichas/pas/2020-04.md |
+| pas | 19957.003642/2020-41 | 2022-05-03 | condenacao | cvm-pas-19957-003642-2020-41 | fichas/pas/2022-04.md |
+| acordao-crsfn | 07/2015 | 2021-12-08 | condenacao | crsfn-10372-100114-2020-36 | fichas/crsfn/2021-06.md |
+| pas | 19957.008401/2016-11 | 2020-09-03 | — | cvm-pas-19957-008401-2016-11 | fichas/pas/2020-08.md |
 | decisao-colegiado | 19957.003689/2017-18 | 2018-10-30 | outro | cvm-col-20181030-d0819 | fichas/colegiado/2018-19.md |
 | decisao-colegiado | 19957.000702/2018-50 | 2018-07-17 | nao-provido | cvm-col-20180717-d1091 | fichas/colegiado/2018-13.md |
-| acordao-crsfn | RJ2013/5456 | 2018-07-10 | parcial | crsfn-14419 | fichas/crsfn/2018-04.md |
-| pas | RJ2016/7192 | 2018-03-13 | condenacao | cvm-pas-rj2016-7192 | fichas/pas/2018-02.md |
+| acordao-crsfn | RJ2013/5456 | 2018-07-10 | parcial | crsfn-14419 | fichas/crsfn/2018-05.md |
+| pas | RJ2016/7192 | 2018-03-13 | condenacao | cvm-pas-rj2016-7192 | fichas/pas/2018-03.md |
 | decisao-colegiado | 19957.008927/2017-73 | 2018-01-16 | parcial | cvm-col-20180116-d0894 | fichas/colegiado/2018-01.md |
-| acordao-crsfn | 0004/2004 | 2014-11-25 | parcial | crsfn-10979 | fichas/crsfn/2014-06.md |
+| acordao-crsfn | 0004/2004 | 2014-11-25 | parcial | crsfn-10979 | fichas/crsfn/2014-07.md |
 | decisao-colegiado | RJ2013/5993 | 2014-01-31 | provido | cvm-col-20140131-d01 | fichas/colegiado/2014-02.md |
 | decisao-colegiado | RJ2013/5993 | 2014-01-28 | — | cvm-col-20140128-d03 | fichas/colegiado/2014-02.md |
 | acordao-crsfn | IS-2003-19 | 2013-03-26 | parcial | crsfn-11833 | fichas/crsfn/2013-01.md |
@@ -134,7 +134,7 @@ Norma: [leis/lei-04728.md](../../normas/leis/lei-04728.md) (texto vigente hoje; 
 | decisao-colegiado | RJ2004/6153 | 2005-12-27 | parcial | cvm-col-20051227-d03 | fichas/colegiado/2005-20.md |
 | decisao-colegiado | RJ2005/6889 | 2005-11-22 | deferido | cvm-col-20051122-d03 | fichas/colegiado/2005-17.md |
 | decisao-colegiado | 12/03 | 2004-11-23 | outro | cvm-col-20041123-d07 | fichas/colegiado/2004-14.md |
-| pas | RJ2001/9686 | 2004-08-12 | absolvicao | cvm-pas-rj2001-9686 | fichas/pas/2004-05.md |
+| pas | RJ2001/9686 | 2004-08-12 | absolvicao | cvm-pas-rj2001-9686 | fichas/pas/2004-09.md |
 | decisao-colegiado | SP2001/0291 | 2002-06-25 | nao-provido | cvm-col-20020625-d01 | fichas/colegiado/2002-14.md |
 | decisao-antiga | — | 1981-01-08 | — | cvm-dec-1981-0001 | fichas/decisoes-antigas/1981-04.md |
 

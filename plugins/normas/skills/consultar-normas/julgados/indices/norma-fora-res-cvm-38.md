@@ -35,6 +35,6 @@ Norma: fora do acervo.
 | decisao-colegiado | 19957.008844/2020-80 | 2021-12-21 | provido | cvm-col-20211221-d2432 | fichas/colegiado/2021-22.md |
 | decisao-colegiado | 19957.005524/2021-59 | 2021-07-20 | outro | cvm-col-20210720-d2083 | fichas/colegiado/2021-11.md |
 | decisao-colegiado | 19957.004700/2021-35 | 2021-06-16 | outro | cvm-col-20210616-d2215 | fichas/colegiado/2021-10.md |
-| pas | 19957.009292/2017-21 | 2021-03-02 | parcial | cvm-pas-19957-009292-2017-21 | fichas/pas/2021.md |
+| pas | 19957.009292/2017-21 | 2021-03-02 | parcial | cvm-pas-19957-009292-2017-21 | fichas/pas/2021-01.md |
 
 Fim do subíndice.

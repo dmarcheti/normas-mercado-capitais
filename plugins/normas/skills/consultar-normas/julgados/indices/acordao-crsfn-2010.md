@@ -5,88 +5,88 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
-| Processo | Data | Resultado | Id | Ficha |
-|---|---|---|---|---|
-| SP-2002-07 | 2010-12-13 | parcial | crsfn-7702 | fichas/crsfn/2010-09.md |
-| RJ-2004-2870 | 2010-12-13 | absolvicao | crsfn-11749 | fichas/crsfn/2010-09.md |
-| RJ-2007-1176 | 2010-12-13 | condenacao | crsfn-11743 | fichas/crsfn/2010-09.md |
-| RJ-2005-7257 | 2010-12-13 | absolvicao | crsfn-11146 | fichas/crsfn/2010-08.md |
-| RJ-2006-5928 | 2010-11-23 | arquivamento | crsfn-11436 | fichas/crsfn/2010-08.md |
-| RJ-2005-7316 | 2010-11-23 | parcial | crsfn-10380 | fichas/crsfn/2010-08.md |
-| 13/03 | 2010-10-27 | parcial | crsfn-9591 | fichas/crsfn/2010-08.md |
-| RJ-2007-4107 | 2010-10-27 | outro | crsfn-12040 | fichas/crsfn/2010-08.md |
-| RJ-2007-9559 | 2010-10-27 | condenacao | crsfn-11955 | fichas/crsfn/2010-08.md |
-| RJ-2005-4969 | 2010-10-27 | parcial | crsfn-11434 | fichas/crsfn/2010-08.md |
-| RJ-2003-5137 | 2010-10-27 | absolvicao | crsfn-11433 | fichas/crsfn/2010-08.md |
-| 13/01 | 2010-10-27 | absolvicao | crsfn-11412 | fichas/crsfn/2010-08.md |
-| RJ-2005-5132 | 2010-10-27 | parcial | crsfn-11206 | fichas/crsfn/2010-08.md |
-| RJ-2005-6703 | 2010-10-05 | parcial | crsfn-11423 | fichas/crsfn/2010-07.md |
-| RJ-2002-4311 | 2010-10-05 | condenacao | crsfn-11325 | fichas/crsfn/2010-07.md |
-| IA-2002-9 | 2010-10-05 | parcial | crsfn-11212 | fichas/crsfn/2010-07.md |
-| RJ-2007-3673 | 2010-09-14 | absolvicao | crsfn-12708 | fichas/crsfn/2010-07.md |
-| RJ-2008-6023 | 2010-09-14 | condenacao | crsfn-12663 | fichas/crsfn/2010-07.md |
-| RJ-2005-5222 | 2010-09-14 | absolvicao | crsfn-11432 | fichas/crsfn/2010-07.md |
-| 01/03 | 2010-09-14 | absolvicao | crsfn-11414 | fichas/crsfn/2010-07.md |
-| RJ-2004-5392 | 2010-09-14 | parcial | crsfn-11207 | fichas/crsfn/2010-07.md |
-| RJ-2005-7229 | 2010-09-14 | parcial | crsfn-11145 | fichas/crsfn/2010-07.md |
-| 12/01 | 2010-09-14 | parcial | crsfn-11101 | fichas/crsfn/2010-07.md |
-| RJ-2008-10181 | 2010-08-18 | condenacao | crsfn-12508 | fichas/crsfn/2010-06.md |
-| 03/95 | 2010-08-18 | parcial | crsfn-11208 | fichas/crsfn/2010-06.md |
-| 09/04 | 2010-08-18 | parcial | crsfn-11107 | fichas/crsfn/2010-06.md |
-| SP-2201-0209 | 2010-08-18 | condenacao | crsfn-10887 | fichas/crsfn/2010-06.md |
-| 04/02 | 2010-07-28 | parcial | crsfn-5746 | fichas/crsfn/2010-06.md |
-| RJ-2006-9070 | 2010-07-28 | condenacao | crsfn-11956 | fichas/crsfn/2010-06.md |
-| RJ-2003-12656 | 2010-07-28 | arquivamento | crsfn-11453 | fichas/crsfn/2010-06.md |
-| IA-2003-3 | 2010-07-28 | condenacao | crsfn-11419 | fichas/crsfn/2010-06.md |
-| SP-2002-63 | 2010-07-28 | parcial | crsfn-11179 | fichas/crsfn/2010-06.md |
-| IA-2002-13 | 2010-07-28 | parcial | crsfn-11170 | fichas/crsfn/2010-06.md |
-| RJ-2004-210 | 2010-07-28 | parcial | crsfn-11056 | fichas/crsfn/2010-05.md |
-| RJ-2006-1267 | 2010-07-28 | parcial | crsfn-11007 | fichas/crsfn/2010-05.md |
-| RJ-2005-3304 | 2010-07-28 | absolvicao | crsfn-10851 | fichas/crsfn/2010-05.md |
-| 0501291250 | 2010-06-22 | condenacao | crsfn-11745 | fichas/crsfn/2010-05.md |
-| SP-2004-185 | 2010-06-22 | condenacao | crsfn-11328 | fichas/crsfn/2010-05.md |
-| RJ-2005-4356 | 2010-06-22 | parcial | crsfn-11168 | fichas/crsfn/2010-05.md |
-| RJ-2008-10874 | 2010-06-08 | condenacao | crsfn-12625 | fichas/crsfn/2010-05.md |
-| RJ-2007-10884 | 2010-06-08 | parcial | crsfn-12354 | fichas/crsfn/2010-05.md |
-| RJ-2006-4321 | 2010-06-08 | condenacao | crsfn-11642 | fichas/crsfn/2010-05.md |
-| RJ-2006-6017 | 2010-06-08 | outro | crsfn-11608 | fichas/crsfn/2010-05.md |
-| RJ-2005-4346 | 2010-06-08 | parcial | crsfn-11428 | fichas/crsfn/2010-04.md |
-| RJ-2005-9714 | 2010-06-08 | parcial | crsfn-11427 | fichas/crsfn/2010-04.md |
-| SP-2004-0543 | 2010-06-08 | condenacao | crsfn-11255 | fichas/crsfn/2010-04.md |
-| RJ-2006-9227 | 2010-05-25 | absolvicao | crsfn-11607 | fichas/crsfn/2010-04.md |
-| RJ-2006-2106 | 2010-05-25 | parcial | crsfn-11430 | fichas/crsfn/2010-04.md |
-| RJ-2005-8404 | 2010-05-25 | absolvicao | crsfn-11242 | fichas/crsfn/2010-04.md |
-| RJ-2008-0236 | 2010-04-29 | parcial | crsfn-12571 | fichas/crsfn/2010-04.md |
-| RJ-2007-8672 | 2010-04-29 | condenacao | crsfn-12049 | fichas/crsfn/2010-04.md |
-| RJ-2005-4990 | 2010-04-29 | absolvicao | crsfn-11826 | fichas/crsfn/2010-04.md |
-| RJ-2005-5508 | 2010-04-29 | parcial | crsfn-11645 | fichas/crsfn/2010-04.md |
-| RJ-2006-7830 | 2010-04-29 | condenacao | crsfn-11643 | fichas/crsfn/2010-03.md |
-| RJ-2005-7507 | 2010-04-29 | condenacao | crsfn-11326 | fichas/crsfn/2010-03.md |
-| RJ-2006-1266 | 2010-04-29 | condenacao | crsfn-11324 | fichas/crsfn/2010-03.md |
-| RJ-2005-7127 | 2010-04-29 | parcial | crsfn-11275 | fichas/crsfn/2010-03.md |
-| RJ-2005-9105 | 2010-04-29 | absolvicao | crsfn-11243 | fichas/crsfn/2010-03.md |
-| SP–2001-0204 | 2010-04-29 | absolvicao | crsfn-11241 | fichas/crsfn/2010-03.md |
-| RJ-2006-1853 | 2010-04-29 | parcial | crsfn-11215 | fichas/crsfn/2010-03.md |
-| RJ-2006-4778 | 2010-04-29 | condenacao | crsfn-11213 | fichas/crsfn/2010-03.md |
-| RJ-2006-1559 | 2010-04-29 | parcial | crsfn-11211 | fichas/crsfn/2010-03.md |
-| RJ-2006-0800 | 2010-04-29 | condenacao | crsfn-11169 | fichas/crsfn/2010-02.md |
-| RJ-2005-7244 | 2010-04-29 | parcial | crsfn-10554 | fichas/crsfn/2010-02.md |
-| RJ-2002-2405 | 2010-03-23 | absolvicao | crsfn-7528 | fichas/crsfn/2010-02.md |
-| RJ-2005-0097 | 2010-03-23 | parcial | crsfn-11452 | fichas/crsfn/2010-02.md |
-| RJ-2003-5669 | 2010-03-23 | parcial | crsfn-11143 | fichas/crsfn/2010-02.md |
-| RJ-2004-852 | 2010-03-23 | absolvicao | crsfn-11104 | fichas/crsfn/2010-02.md |
-| 18/03 | 2010-02-23 | parcial | crsfn-10112 | fichas/crsfn/2010-02.md |
-| 24/00 | 2010-01-26 | parcial | crsfn-9634 | fichas/crsfn/2010-02.md |
-| RJ-2004-7061 | 2010-01-26 | parcial | crsfn-9608 | fichas/crsfn/2010-02.md |
-| RJ-2002-2047 | 2010-01-26 | parcial | crsfn-8611 | fichas/crsfn/2010-01.md |
-| SP-2001/0236 | 2010-01-26 | parcial | crsfn-6065 | fichas/crsfn/2010-01.md |
-| RJ-2006-9068 | 2010-01-26 | condenacao | crsfn-11827 | fichas/crsfn/2010-01.md |
-| RJ-2006-5863 | 2010-01-26 | condenacao | crsfn-11495 | fichas/crsfn/2010-01.md |
-| RJ-2006-3139 | 2010-01-26 | absolvicao | crsfn-11426 | fichas/crsfn/2010-01.md |
-| RJ-2006-1574 | 2010-01-26 | absolvicao | crsfn-11171 | fichas/crsfn/2010-01.md |
-| RJ-2005-8229 | 2010-01-26 | condenacao | crsfn-11144 | fichas/crsfn/2010-01.md |
-| RJ-2005-5041 | 2010-01-26 | parcial | crsfn-10975 | fichas/crsfn/2010-01.md |
-| RJ-2005-7315 | 2010-01-26 | parcial | crsfn-10585 | fichas/crsfn/2010-01.md |
-| RJ-2005-7234 | 2010-01-26 | parcial | crsfn-10555 | fichas/crsfn/2010-01.md |
+| Processo | Data | Resultado | Ementa | Id | Ficha |
+|---|---|---|---|---|---|
+| SP-2002-07 | 2010-12-13 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários - Elaboração inadequada de demonstrações financeiras – Geração… | crsfn-7702 | fichas/crsfn/2010-11.md |
+| RJ-2004-2870 | 2010-12-13 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Transferência ilícita de ações de propriedade de empresas mediante uso de procurações… | crsfn-11749 | fichas/crsfn/2010-10.md |
+| RJ-2007-1176 | 2010-12-13 | condenacao | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Descumprimento da obrigatoriedade de informar à CVM sobre alienação de ações… | crsfn-11743 | fichas/crsfn/2010-10.md |
+| RJ-2005-7257 | 2010-12-13 | absolvicao | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Falta de atualização de registro de companhia aberta – Não elaboração de demonstrações… | crsfn-11146 | fichas/crsfn/2010-10.md |
+| RJ-2006-5928 | 2010-11-23 | arquivamento | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Não publicação de fato relevante (oscilação atípica nos preços e quantidades de… | crsfn-11436 | fichas/crsfn/2010-10.md |
+| RJ-2005-7316 | 2010-11-23 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Falta de atualização de registro de companhia aberta – Não… | crsfn-10380 | fichas/crsfn/2010-10.md |
+| 13/03 | 2010-10-27 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Fundos de investimento - Falha na prestação de informações aos… | crsfn-9591 | fichas/crsfn/2010-10.md |
+| RJ-2007-4107 | 2010-10-27 | outro | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Fato relevante - Publicação intempestiva acerca do deferimento do pedido de… | crsfn-12040 | fichas/crsfn/2010-10.md |
+| RJ-2007-9559 | 2010-10-27 | condenacao | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Omissão no dever legal, como administradora de investimentos, de comunicação à… | crsfn-11955 | fichas/crsfn/2010-10.md |
+| RJ-2005-4969 | 2010-10-27 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários - Falta de apresentação das informações periódicas e de manutenção de… | crsfn-11434 | fichas/crsfn/2010-10.md |
+| RJ-2003-5137 | 2010-10-27 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários - Omissão nos termos das condições da escritura de emissão de debêntures… | crsfn-11433 | fichas/crsfn/2010-09.md |
+| 13/01 | 2010-10-27 | absolvicao | RECURSO DE OFÍCIO - Mercado de valores mobiliários - Atuação de empresas e pessoas físicas não integrantes do sistema distribuição… | crsfn-11412 | fichas/crsfn/2010-09.md |
+| RJ-2005-5132 | 2010-10-27 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Aumento de capital - Subscrição sem assentamento de justificativas… | crsfn-11206 | fichas/crsfn/2010-09.md |
+| RJ-2005-6703 | 2010-10-05 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários - Falta de manutenção de registro atualizado das companhias abertas… | crsfn-11423 | fichas/crsfn/2010-09.md |
+| RJ-2002-4311 | 2010-10-05 | condenacao | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários - Falta de convocação de assembleia geral ordinária dentro do prazo legal - Não… | crsfn-11325 | fichas/crsfn/2010-09.md |
+| IA-2002-9 | 2010-10-05 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Transferência ilícita de ações de propriedade de empresas mediante… | crsfn-11212 | fichas/crsfn/2010-09.md |
+| RJ-2007-3673 | 2010-09-14 | absolvicao | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Falta de comunicação à CVM sobre investidor estrangeiro em situação irregular… | crsfn-12708 | fichas/crsfn/2010-09.md |
+| RJ-2008-6023 | 2010-09-14 | condenacao | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Não publicação de fato relevante (suspensão de pagamentos em favor de sociedade… | crsfn-12663 | fichas/crsfn/2010-09.md |
+| RJ-2005-5222 | 2010-09-14 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falta de atualização de registro de companhia aberta e entrega de documentos à CVM… | crsfn-11432 | fichas/crsfn/2010-08.md |
+| 01/03 | 2010-09-14 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Descumprimento do dever de sigilo acerca de informação privilegiada e do dever de… | crsfn-11414 | fichas/crsfn/2010-08.md |
+| RJ-2004-5392 | 2010-09-14 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Aumento de capital sem esclarecimento dos critérios adotados e sem… | crsfn-11207 | fichas/crsfn/2010-08.md |
+| RJ-2005-7229 | 2010-09-14 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Desconvocação da assembléia geral sem prévia anuência do conselho… | crsfn-11145 | fichas/crsfn/2010-08.md |
+| 12/01 | 2010-09-14 | parcial | RECURSO(S) VOLUNTÁRIO(S)– Mercado de valores mobiliários – Prática de atos, como administrador, em desacordo com os interesses da companhia… | crsfn-11101 | fichas/crsfn/2010-08.md |
+| RJ-2008-10181 | 2010-08-18 | condenacao | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Exercício da atividade de administrador de carteiras de valores mobiliários sem… | crsfn-12508 | fichas/crsfn/2010-08.md |
+| 03/95 | 2010-08-18 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários - Prática não-equitativa - Manipulação de preços ocorrida em negócios… | crsfn-11208 | fichas/crsfn/2010-08.md |
+| 09/04 | 2010-08-18 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Realização de operações fraudulentas – Celebração de contrato entre… | crsfn-11107 | fichas/crsfn/2010-07.md |
+| SP-2201-0209 | 2010-08-18 | condenacao | RECURSO(S) VOLUNTÁRIO(S)– Mercado de valores mobiliários – Exercício indevido de intermediação no sistema de distribuição – Irregularidade… | crsfn-10887 | fichas/crsfn/2010-07.md |
+| 04/02 | 2010-07-28 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Realização de operações fraudulentas, consistentes no uso de… | crsfn-5746 | fichas/crsfn/2010-07.md |
+| RJ-2006-9070 | 2010-07-28 | condenacao | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Comunicação intempestiva, ao mercado, sobre alienação de ações que correspondam… | crsfn-11956 | fichas/crsfn/2010-07.md |
+| RJ-2003-12656 | 2010-07-28 | arquivamento | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Falta de publicação de anúncios (início e encerramento) de… | crsfn-11453 | fichas/crsfn/2010-07.md |
+| IA-2003-3 | 2010-07-28 | condenacao | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Clube de Investimento - Realização de operações vedadas, consistentes em vendas… | crsfn-11419 | fichas/crsfn/2010-07.md |
+| SP-2002-63 | 2010-07-28 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários - Realização de operações em bolsa de valores - Intermediação no… | crsfn-11179 | fichas/crsfn/2010-07.md |
+| IA-2002-13 | 2010-07-28 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Falhas verificadas nos registros da companhia na autoridade… | crsfn-11170 | fichas/crsfn/2010-07.md |
+| RJ-2004-210 | 2010-07-28 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Realização de operações em bolsa de valores - Manipulação de preços… | crsfn-11056 | fichas/crsfn/2010-06.md |
+| RJ-2006-1267 | 2010-07-28 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários - Falta de atualização de registro de companhia aberta – Não entrega… | crsfn-11007 | fichas/crsfn/2010-06.md |
+| RJ-2005-3304 | 2010-07-28 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Contratação de agente autônomo de investimento sem estar o profissional devidamente… | crsfn-10851 | fichas/crsfn/2010-06.md |
+| 0501291250 | 2010-06-22 | condenacao | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Falta de envio de informações obrigatórias periódicas e eventuais à autoridade… | crsfn-11745 | fichas/crsfn/2010-06.md |
+| SP-2004-185 | 2010-06-22 | condenacao | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Contratação - Atuação de administrador de carteira e de agente autônomo sem… | crsfn-11328 | fichas/crsfn/2010-06.md |
+| RJ-2005-4356 | 2010-06-22 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Destinação dos recursos captados em desacordo com o previsto nos… | crsfn-11168 | fichas/crsfn/2010-06.md |
+| RJ-2008-10874 | 2010-06-08 | condenacao | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Prestação de serviços de administração de carteira sem registro na autoridade… | crsfn-12625 | fichas/crsfn/2010-06.md |
+| RJ-2007-10884 | 2010-06-08 | parcial | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Falta de envio de informações obrigatórias à autoridade supervisora… | crsfn-12354 | fichas/crsfn/2010-06.md |
+| RJ-2006-4321 | 2010-06-08 | condenacao | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Exercício de atividade de analista de carteira sem devida autorização da… | crsfn-11642 | fichas/crsfn/2010-06.md |
+| RJ-2006-6017 | 2010-06-08 | outro | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Auditoria independente - Descumprimento do rodízio obrigatório após cinco anos… | crsfn-11608 | fichas/crsfn/2010-05.md |
+| RJ-2005-4346 | 2010-06-08 | parcial | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Falta de atualização do registro de companhia aberta – Não cumprimento do dever de… | crsfn-11428 | fichas/crsfn/2010-05.md |
+| RJ-2005-9714 | 2010-06-08 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Falta de atualização do registro de companhia aberta – Não… | crsfn-11427 | fichas/crsfn/2010-05.md |
+| SP-2004-0543 | 2010-06-08 | condenacao | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Falta de confirmação sobre legitimidade de ordens de negociação… | crsfn-11255 | fichas/crsfn/2010-05.md |
+| RJ-2006-9227 | 2010-05-25 | absolvicao | RECURSO DE OFÍCIO - Mercado de valores mobiliários - Auditoria independente - Contratação de auditores noticiada a destempo à autoridade… | crsfn-11607 | fichas/crsfn/2010-05.md |
+| RJ-2006-2106 | 2010-05-25 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Falta de atualização do registro de companhia aberta – Não… | crsfn-11430 | fichas/crsfn/2010-05.md |
+| RJ-2005-8404 | 2010-05-25 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários - Fundos de investimento - Contratação de instituição não credenciada pela autoridade… | crsfn-11242 | fichas/crsfn/2010-05.md |
+| RJ-2008-0236 | 2010-04-29 | parcial | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Falta de envio de informações periódicas atualizadas (demonstrações financeiras… | crsfn-12571 | fichas/crsfn/2010-05.md |
+| RJ-2007-8672 | 2010-04-29 | condenacao | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Falta de envio de informações periódicas atualizadas (demonstrações financeiras… | crsfn-12049 | fichas/crsfn/2010-04.md |
+| RJ-2005-4990 | 2010-04-29 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falta de envio de demonstrações financeiras atualizadas à autoridade supervisora… | crsfn-11826 | fichas/crsfn/2010-04.md |
+| RJ-2005-5508 | 2010-04-29 | parcial | RECURSOS VOLUNTÁRIO E DE OFÍCIO - Mercado de valores mobiliários – Falta de elaboração de demonstrações financeiras, de divulgação de fato… | crsfn-11645 | fichas/crsfn/2010-04.md |
+| RJ-2006-7830 | 2010-04-29 | condenacao | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Atraso no envio de informações periódicas (demonstrações financeiras… | crsfn-11643 | fichas/crsfn/2010-04.md |
+| RJ-2005-7507 | 2010-04-29 | condenacao | RECURSOS VOLUNTÁRIO E DE OFÍCIO - Mercado de valores mobiliários – Falta de elaboração de demonstrações financeiras, de divulgação de fato… | crsfn-11326 | fichas/crsfn/2010-04.md |
+| RJ-2006-1266 | 2010-04-29 | condenacao | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Falta de manutenção de informações atualizadas nos registros da… | crsfn-11324 | fichas/crsfn/2010-04.md |
+| RJ-2005-7127 | 2010-04-29 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Não prestação de informações periódicas obrigatórias à autoridade… | crsfn-11275 | fichas/crsfn/2010-04.md |
+| RJ-2005-9105 | 2010-04-29 | absolvicao | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Fundos de investimento - Realização de procedimentos em consequência de decisões… | crsfn-11243 | fichas/crsfn/2010-04.md |
+| SP–2001-0204 | 2010-04-29 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários - Exercício de práticas vedadas a agente autônomo – Irregularidade não caracterizada… | crsfn-11241 | fichas/crsfn/2010-03.md |
+| RJ-2006-1853 | 2010-04-29 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Falta de atualização do registro de companhia aberta e de envio de… | crsfn-11215 | fichas/crsfn/2010-03.md |
+| RJ-2006-4778 | 2010-04-29 | condenacao | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários - Atuação como administrador de carteira sem registro na autoridade supervisora… | crsfn-11213 | fichas/crsfn/2010-03.md |
+| RJ-2006-1559 | 2010-04-29 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Falta de atualização do registro de companhia aberta – Não… | crsfn-11211 | fichas/crsfn/2010-03.md |
+| RJ-2006-0800 | 2010-04-29 | condenacao | RECURSO(S) VOLUNTÁRIO(S) – Mercado de Valores Mobiliários – Falta de remessa, à autoridade supervisora, de informações periódicas previstas… | crsfn-11169 | fichas/crsfn/2010-03.md |
+| RJ-2005-7244 | 2010-04-29 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Falta de envio, à autoridade supervisora, de informações periódicas… | crsfn-10554 | fichas/crsfn/2010-03.md |
+| RJ-2002-2405 | 2010-03-23 | absolvicao | RECURSO DE OFÍCIO - Mercado de valores mobiliários - Celebração de contrato de prestação de serviços de assessoria e consultoria de… | crsfn-7528 | fichas/crsfn/2010-03.md |
+| RJ-2005-0097 | 2010-03-23 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários - Abuso de poder de controle – Infração ao dever de diligência… | crsfn-11452 | fichas/crsfn/2010-03.md |
+| RJ-2003-5669 | 2010-03-23 | parcial | RECURSOS VOLUNTÁRIO E DE OFÍCIO – Mercado de valores mobiliários - Aquisição de ações mediante uso de informações privilegiadas - Recursos… | crsfn-11143 | fichas/crsfn/2010-02.md |
+| RJ-2004-852 | 2010-03-23 | absolvicao | RECURSO DE OFÍCIO - Mercado de valores mobiliários - Negociação ilícita de ações por força de ocorrência de informação privilegiada… | crsfn-11104 | fichas/crsfn/2010-02.md |
+| 18/03 | 2010-02-23 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários - Não informação aos auditores independentes e não divulgação de rescisão… | crsfn-10112 | fichas/crsfn/2010-02.md |
+| 24/00 | 2010-01-26 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários - Criação de condições artificiais de oferta e demanda - Realização de… | crsfn-9634 | fichas/crsfn/2010-02.md |
+| RJ-2004-7061 | 2010-01-26 | parcial | RECURSO VOLUNTÁRIO - Mercado de valores mobiliários – Auditoria realizada por pessoa não autorizada pela entidade supervisora – Contratação… | crsfn-9608 | fichas/crsfn/2010-02.md |
+| RJ-2002-2047 | 2010-01-26 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários – Não pagamento de dividendos aos acionistas - Falta de oportuna… | crsfn-8611 | fichas/crsfn/2010-02.md |
+| SP-2001/0236 | 2010-01-26 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários – Realização de operações em bolsa de valores - Leilão eletrônico - Call… | crsfn-6065 | fichas/crsfn/2010-01.md |
+| RJ-2006-9068 | 2010-01-26 | condenacao | RECURSOS VOLUNTÁRIO - Mercado de valores mobiliários – Falta de divulgação de fato relevante (alienação judicial de unidade produtiva da… | crsfn-11827 | fichas/crsfn/2010-01.md |
+| RJ-2006-5863 | 2010-01-26 | condenacao | RECURSOS VOLUNTÁRIO - Mercado de valores mobiliários - Atuação como analista de valores mobiliários sem prévio registro na autoridade… | crsfn-11495 | fichas/crsfn/2010-01.md |
+| RJ-2006-3139 | 2010-01-26 | absolvicao | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Lançamento de ações em bolsa de valores - Comentários feitos na imprensa durante o… | crsfn-11426 | fichas/crsfn/2010-01.md |
+| RJ-2006-1574 | 2010-01-26 | absolvicao | RECURSO DE OFÍCIO - Mercado de valores mobiliários - Comunicados, pela companhia aberta, objeto de divulgação na imprensa leiga e não… | crsfn-11171 | fichas/crsfn/2010-01.md |
+| RJ-2005-8229 | 2010-01-26 | condenacao | RECURSO DE OFÍCIO - Descumprimento do dever de manutenção do registro da companhia atualizado pelo não envio de informações obrigatórias à… | crsfn-11144 | fichas/crsfn/2010-01.md |
+| RJ-2005-5041 | 2010-01-26 | parcial | RECURSOS VOLUNTÁRIO E DE OFÍCIO - Mercado de valores mobiliários - Falta de atualização de registro de companhia aberta e de entrega de… | crsfn-10975 | fichas/crsfn/2010-01.md |
+| RJ-2005-7315 | 2010-01-26 | parcial | RECURSO DE OFÍCIO - Mercado de valores mobiliários - Registro de companhia aberta desatualizado - Falta de entrega, à entidade supervisora… | crsfn-10585 | fichas/crsfn/2010-01.md |
+| RJ-2005-7234 | 2010-01-26 | parcial | RECURSO DE OFÍCIO – Mercado de valores mobiliários - Falta de atualização de registro de companhia aberta – Não entrega de documentos… | crsfn-10555 | fichas/crsfn/2010-01.md |
 
 Fim do subíndice.

@@ -11,7 +11,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 3º, parágrafo único | pas | 01/2013 | 2015-03-10 | condenacao | cvm-pas-01-2013 | fichas/pas/2015-01.md |
+| art. 3º, parágrafo único | pas | 01/2013 | 2015-03-10 | condenacao | cvm-pas-01-2013 | fichas/pas/2015-02.md |
 
 ## art. 4º
 
@@ -53,7 +53,7 @@ Norma: fora do acervo.
 | art. 18 | decisao-colegiado | RJ2011/8667 | 2012-05-29 | nao-provido | cvm-col-20120529-d04 | fichas/colegiado/2012-10.md |
 | art. 18 | decisao-colegiado | 02/2014; RJ2012/5550 | 2015-01-14 | outro | cvm-col-20150114-d4843 | fichas/colegiado/2015-02.md |
 | art. 18 | decisao-colegiado | RJ2012/3863 | 2016-07-05 | nao-provido | cvm-col-20160705-d8790 | fichas/colegiado/2016-14.md |
-| art. 18 | pas | RJ2011/14269 | 2013-03-26 | parcial | cvm-pas-rj2011-14269 | fichas/pas/2013-02.md |
+| art. 18 | pas | RJ2011/14269 | 2013-03-26 | parcial | cvm-pas-rj2011-14269 | fichas/pas/2013-03.md |
 
 ## art. 19
 
@@ -61,7 +61,7 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|
 | art. 19 | decisao-colegiado | RJ2010/10635 | 2011-07-26 | deferido | cvm-col-20110726-d04 | fichas/colegiado/2011-15.md |
 | art. 19 | decisao-colegiado | RJ2012/3863 | 2016-07-05 | nao-provido | cvm-col-20160705-d8790 | fichas/colegiado/2016-14.md |
-| art. 19 | pas | 01/2013 | 2015-03-10 | condenacao | cvm-pas-01-2013 | fichas/pas/2015-01.md |
+| art. 19 | pas | 01/2013 | 2015-03-10 | condenacao | cvm-pas-01-2013 | fichas/pas/2015-02.md |
 
 ## art. 23
 
@@ -80,16 +80,16 @@ Norma: fora do acervo.
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | pas | 19957.011123/2025-61 | 2026-06-02 | condenacao | cvm-pas-19957-011123-2025-61 | fichas/pas/2026-01.md |
-| pas | 19957.009721/2021-47 | 2023-11-07 | condenacao | cvm-pas-19957-009721-2021-47 | fichas/pas/2023-07.md |
-| pas | 19957.012414/2022-24 | 2023-07-11 | condenacao | cvm-pas-19957-012414-2022-24 | fichas/pas/2023-04.md |
-| acordao-crsfn | RJ2012/7353 | 2022-12-07 | parcial | crsfn-10372-100052-2020-62 | fichas/crsfn/2022-07.md |
-| pas | 19957.006394/2021-71 | 2022-11-29 | condenacao | cvm-pas-19957-006394-2021-71 | fichas/pas/2022-06.md |
+| pas | 19957.009721/2021-47 | 2023-11-07 | condenacao | cvm-pas-19957-009721-2021-47 | fichas/pas/2023-14.md |
+| pas | 19957.012414/2022-24 | 2023-07-11 | condenacao | cvm-pas-19957-012414-2022-24 | fichas/pas/2023-07.md |
+| acordao-crsfn | RJ2012/7353 | 2022-12-07 | parcial | crsfn-10372-100052-2020-62 | fichas/crsfn/2022-08.md |
+| pas | 19957.006394/2021-71 | 2022-11-29 | condenacao | cvm-pas-19957-006394-2021-71 | fichas/pas/2022-12.md |
 | decisao-colegiado | 19957.000984/2017-12 | 2021-03-23 | nao-provido | cvm-col-20210323-d2107 | fichas/colegiado/2021-05.md |
-| pas | 19957.008895/2019-78; RJ2019/6858 | 2020-07-07 | condenacao | cvm-pas-19957-008895-2019-78 | fichas/pas/2020-03.md |
-| pas | 19957.006209/2016-81; RJ2016/7499 | 2019-12-10 | parcial | cvm-pas-19957-006209-2016-81 | fichas/pas/2019-12.md |
-| pas | RJ2013/9266 | 2018-03-27 | parcial | cvm-pas-rj2013-9266 | fichas/pas/2018-02.md |
+| pas | 19957.008895/2019-78; RJ2019/6858 | 2020-07-07 | condenacao | cvm-pas-19957-008895-2019-78 | fichas/pas/2020-06.md |
+| pas | 19957.006209/2016-81; RJ2016/7499 | 2019-12-10 | parcial | cvm-pas-19957-006209-2016-81 | fichas/pas/2019-22.md |
+| pas | RJ2013/9266 | 2018-03-27 | parcial | cvm-pas-rj2013-9266 | fichas/pas/2018-04.md |
 | decisao-colegiado | RJ2012/15312 | 2016-06-21 | nao-provido | cvm-col-20160621-d0264 | fichas/colegiado/2016-12.md |
-| pas | RJ2013/3484 | 2014-06-03 | condenacao | cvm-pas-rj2013-3484 | fichas/pas/2014-02.md |
+| pas | RJ2013/3484 | 2014-06-03 | condenacao | cvm-pas-rj2013-3484 | fichas/pas/2014-04.md |
 | decisao-colegiado | RJ2011/4433 | 2014-03-25 | nao-provido | cvm-col-20140325-d04 | fichas/colegiado/2014-05.md |
 | decisao-colegiado | RJ2011/6318 | 2013-10-29 | nao-provido | cvm-col-20131029-d05 | fichas/colegiado/2013-21.md |
 | decisao-colegiado | RJ2012/4742 | 2013-07-23 | nao-provido | cvm-col-20130723-d02 | fichas/colegiado/2013-13.md |

@@ -24,405 +24,405 @@ Este subíndice tem 428 linhas e uma leitura única é cortada em silêncio pert
 | 2002-02 | 385 |
 | 2002-01 | 407 |
 
-| Processo | Data | Resultado | Id | Ficha |
-|---|---|---|---|---|
-| — | 2002-12-23 | outro | cvm-col-20021223-d14 | fichas/colegiado/2002-27.md |
-| — | 2002-12-23 | outro | cvm-col-20021223-d13 | fichas/colegiado/2002-27.md |
-| RJ2001/11250 | 2002-12-23 | provido | cvm-col-20021223-d12 | fichas/colegiado/2002-27.md |
-| RJ2002/7557 | 2002-12-23 | nao-provido | cvm-col-20021223-d11 | fichas/colegiado/2002-27.md |
-| RJ2002/7632 | 2002-12-23 | nao-provido | cvm-col-20021223-d10 | fichas/colegiado/2002-26.md |
-| RJ2002/7561 | 2002-12-23 | nao-provido | cvm-col-20021223-d09 | fichas/colegiado/2002-26.md |
-| — | 2002-12-23 | outro | cvm-col-20021223-d08 | fichas/colegiado/2002-26.md |
-| RJ2002/7858 | 2002-12-23 | provido | cvm-col-20021223-d07 | fichas/colegiado/2002-26.md |
-| RJ2001/11506 | 2002-12-23 | provido | cvm-col-20021223-d06 | fichas/colegiado/2002-26.md |
-| — | 2002-12-23 | outro | cvm-col-20021223-d05 | fichas/colegiado/2002-26.md |
-| 044/2002 | 2002-12-23 | outro | cvm-col-20021223-d04 | fichas/colegiado/2002-26.md |
-| RJ2000/2149 | 2002-12-23 | outro | cvm-col-20021223-d03 | fichas/colegiado/2002-26.md |
-| — | 2002-12-23 | outro | cvm-col-20021223-d02 | fichas/colegiado/2002-26.md |
-| — | 2002-12-23 | outro | cvm-col-20021223-d01 | fichas/colegiado/2002-26.md |
-| RJ2002/7481 | 2002-12-18 | deferido | cvm-col-20021218-d01 | fichas/colegiado/2002-26.md |
-| RJ2002/7380 | 2002-12-10 | indeferido | cvm-col-20021210-d07 | fichas/colegiado/2002-26.md |
-| RJ2002/0486 | 2002-12-10 | nao-provido | cvm-col-20021210-d06 | fichas/colegiado/2002-26.md |
-| — | 2002-12-10 | outro | cvm-col-20021210-d05 | fichas/colegiado/2002-26.md |
-| RJ2002/6763 | 2002-12-10 | deferido | cvm-col-20021210-d04 | fichas/colegiado/2002-26.md |
-| RJ2002/2758 | 2002-12-10 | provido | cvm-col-20021210-d03 | fichas/colegiado/2002-26.md |
-| SP2001/0212 | 2002-12-10 | parcial | cvm-col-20021210-d02 | fichas/colegiado/2002-26.md |
-| RJ2000/0318 | 2002-12-10 | parcial | cvm-col-20021210-d01 | fichas/colegiado/2002-26.md |
-| RJ2002/7930 | 2002-12-02 | nao-provido | cvm-col-20021202-d13 | fichas/colegiado/2002-26.md |
-| RJ2002/7437 | 2002-12-02 | parcial | cvm-col-20021202-d12 | fichas/colegiado/2002-26.md |
-| RJ2002/7543 | 2002-12-02 | nao-provido | cvm-col-20021202-d11 | fichas/colegiado/2002-26.md |
-| RJ2002/7594 | 2002-12-02 | nao-provido | cvm-col-20021202-d10 | fichas/colegiado/2002-26.md |
-| RJ2002/7593 | 2002-12-02 | nao-provido | cvm-col-20021202-d09 | fichas/colegiado/2002-26.md |
-| RJ2002/7979 | 2002-12-02 | nao-provido | cvm-col-20021202-d08 | fichas/colegiado/2002-26.md |
-| RJ2002/7617 | 2002-12-02 | nao-provido | cvm-col-20021202-d07 | fichas/colegiado/2002-26.md |
-| RJ2002/6248 | 2002-12-02 | nao-provido | cvm-col-20021202-d06 | fichas/colegiado/2002-26.md |
-| RJ2002/2710 | 2002-12-02 | provido | cvm-col-20021202-d05 | fichas/colegiado/2002-26.md |
-| RJ2001/5048 | 2002-12-02 | provido | cvm-col-20021202-d04 | fichas/colegiado/2002-26.md |
-| — | 2002-12-02 | outro | cvm-col-20021202-d03 | fichas/colegiado/2002-26.md |
-| RJ2002/6493 | 2002-12-02 | provido | cvm-col-20021202-d02 | fichas/colegiado/2002-26.md |
-| — | 2002-12-02 | outro | cvm-col-20021202-d01 | fichas/colegiado/2002-26.md |
-| — | 2002-11-29 | outro | cvm-col-20021129-d01 | fichas/colegiado/2002-25.md |
-| — | 2002-11-22 | outro | cvm-col-20021122-d10 | fichas/colegiado/2002-25.md |
-| RJ2002/7831 | 2002-11-22 | indeferido | cvm-col-20021122-d09 | fichas/colegiado/2002-25.md |
-| RJ2002/7805 | 2002-11-22 | provido | cvm-col-20021122-d08 | fichas/colegiado/2002-25.md |
-| RJ2002/7079 | 2002-11-22 | deferido | cvm-col-20021122-d07 | fichas/colegiado/2002-25.md |
-| RJ2002/3761 | 2002-11-22 | deferido | cvm-col-20021122-d06 | fichas/colegiado/2002-25.md |
-| RJ2000/2149 | 2002-11-22 | — | cvm-col-20021122-d05 | fichas/colegiado/2002-25.md |
-| RJ2000/1894 | 2002-11-22 | nao-provido | cvm-col-20021122-d04 | fichas/colegiado/2002-25.md |
-| RJ2002/7052 | 2002-11-22 | indeferido | cvm-col-20021122-d03 | fichas/colegiado/2002-25.md |
-| RJ2002/2231 | 2002-11-22 | provido | cvm-col-20021122-d02 | fichas/colegiado/2002-25.md |
-| RJ2001/6951 | 2002-11-22 | outro | cvm-col-20021122-d01 | fichas/colegiado/2002-25.md |
-| RJ2002/2714 | 2002-11-12 | nao-provido | cvm-col-20021112-d09 | fichas/colegiado/2002-25.md |
-| RJ2002/0567 | 2002-11-12 | deferido | cvm-col-20021112-d08 | fichas/colegiado/2002-25.md |
-| RJ2002/2508 | 2002-11-12 | provido | cvm-col-20021112-d07 | fichas/colegiado/2002-25.md |
-| — | 2002-11-12 | nao-provido | cvm-col-20021112-d06 | fichas/colegiado/2002-25.md |
-| RJ2002/3005 | 2002-11-12 | nao-provido | cvm-col-20021112-d05 | fichas/colegiado/2002-25.md |
-| RJ2002/2941 | 2002-11-12 | nao-provido | cvm-col-20021112-d04 | fichas/colegiado/2002-25.md |
-| — | 2002-11-12 | outro | cvm-col-20021112-d03 | fichas/colegiado/2002-25.md |
-| — | 2002-11-12 | outro | cvm-col-20021112-d02 | fichas/colegiado/2002-25.md |
-| — | 2002-11-12 | outro | cvm-col-20021112-d01 | fichas/colegiado/2002-25.md |
-| — | 2002-11-05 | deferido | cvm-col-20021105-d04 | fichas/colegiado/2002-25.md |
-| 040/2002 | 2002-11-05 | outro | cvm-col-20021105-d03 | fichas/colegiado/2002-25.md |
-| — | 2002-11-05 | outro | cvm-col-20021105-d02 | fichas/colegiado/2002-25.md |
-| RJ2002/5645 | 2002-11-05 | deferido | cvm-col-20021105-d01 | fichas/colegiado/2002-25.md |
-| RJ2002/7133 | 2002-10-29 | deferido | cvm-col-20021029-d12 | fichas/colegiado/2002-25.md |
-| — | 2002-10-29 | outro | cvm-col-20021029-d11 | fichas/colegiado/2002-25.md |
-| SP2002/0403 | 2002-10-29 | provido | cvm-col-20021029-d10 | fichas/colegiado/2002-25.md |
-| RJ2000/6152 | 2002-10-29 | nao-provido | cvm-col-20021029-d09 | fichas/colegiado/2002-25.md |
-| RJ2002/6085 | 2002-10-29 | nao-provido | cvm-col-20021029-d08 | fichas/colegiado/2002-25.md |
-| RJ2002/6019 | 2002-10-29 | nao-provido | cvm-col-20021029-d07 | fichas/colegiado/2002-24.md |
-| RJ2002/5813 | 2002-10-29 | nao-provido | cvm-col-20021029-d06 | fichas/colegiado/2002-24.md |
-| RJ2001/4366 | 2002-10-29 | deferido | cvm-col-20021029-d05 | fichas/colegiado/2002-24.md |
-| RJ2002/2714 | 2002-10-29 | — | cvm-col-20021029-d04 | fichas/colegiado/2002-24.md |
-| RJ2002/2712 | 2002-10-29 | nao-provido | cvm-col-20021029-d03 | fichas/colegiado/2002-24.md |
-| RJ2001/10680 | 2002-10-29 | nao-provido | cvm-col-20021029-d02 | fichas/colegiado/2002-24.md |
-| — | 2002-10-29 | outro | cvm-col-20021029-d01 | fichas/colegiado/2002-24.md |
-| RJ2002/2941 | 2002-10-21 | nao-provido | cvm-col-20021021-d05 | fichas/colegiado/2002-24.md |
-| RJ2002/2230 | 2002-10-21 | parcial | cvm-col-20021021-d04 | fichas/colegiado/2002-24.md |
-| — | 2002-10-21 | deferido | cvm-col-20021021-d03 | fichas/colegiado/2002-24.md |
-| RJ2002/6641 | 2002-10-21 | provido | cvm-col-20021021-d02 | fichas/colegiado/2002-24.md |
-| RJ2002/4932 | 2002-10-21 | provido | cvm-col-20021021-d01 | fichas/colegiado/2002-24.md |
-| RJ2002/7031 | 2002-10-15 | deferido | cvm-col-20021015-d06 | fichas/colegiado/2002-24.md |
-| RJ2002/6555 | 2002-10-15 | provido | cvm-col-20021015-d05 | fichas/colegiado/2002-24.md |
-| SP2001/0227 | 2002-10-15 | outro | cvm-col-20021015-d04 | fichas/colegiado/2002-24.md |
-| RJ2002/2014 | 2002-10-15 | nao-provido | cvm-col-20021015-d03 | fichas/colegiado/2002-24.md |
-| RJ2001/12253 | 2002-10-15 | nao-provido | cvm-col-20021015-d02 | fichas/colegiado/2002-24.md |
-| RJ2002/0310 | 2002-10-15 | — | cvm-col-20021015-d01 | fichas/colegiado/2002-23.md |
-| — | 2002-10-10 | outro | cvm-col-20021010-d08 | fichas/colegiado/2002-23.md |
-| RJ2002/4820 | 2002-10-10 | provido | cvm-col-20021010-d07 | fichas/colegiado/2002-23.md |
-| RJ2002/6067 | 2002-10-10 | nao-provido | cvm-col-20021010-d06 | fichas/colegiado/2002-23.md |
-| RJ2002/2935 | 2002-10-10 | deferido | cvm-col-20021010-d05 | fichas/colegiado/2002-23.md |
-| SP2002/0441 | 2002-10-10 | outro | cvm-col-20021010-d04 | fichas/colegiado/2002-23.md |
-| SP2001/0204 | 2002-10-10 | outro | cvm-col-20021010-d03 | fichas/colegiado/2002-23.md |
-| — | 2002-10-10 | outro | cvm-col-20021010-d02 | fichas/colegiado/2002-23.md |
-| RJ2002/0567 | 2002-10-10 | — | cvm-col-20021010-d01 | fichas/colegiado/2002-23.md |
-| SP2002/0104 | 2002-10-01 | outro | cvm-col-20021001-d06 | fichas/colegiado/2002-23.md |
-| SP2002/0206 | 2002-10-01 | nao-provido | cvm-col-20021001-d05 | fichas/colegiado/2002-23.md |
-| SP2002/0300 | 2002-10-01 | parcial | cvm-col-20021001-d04 | fichas/colegiado/2002-23.md |
-| RJ2002/5554 | 2002-10-01 | nao-provido | cvm-col-20021001-d03 | fichas/colegiado/2002-23.md |
-| RJ2002/5910 | 2002-10-01 | nao-provido | cvm-col-20021001-d02 | fichas/colegiado/2002-23.md |
-| RJ2002/6138 | 2002-10-01 | parcial | cvm-col-20021001-d01 | fichas/colegiado/2002-23.md |
-| — | 2002-09-24 | outro | cvm-col-20020924-d06 | fichas/colegiado/2002-22.md |
-| RJ2002/6066 | 2002-09-24 | nao-provido | cvm-col-20020924-d05 | fichas/colegiado/2002-22.md |
-| RJ2002/5895 | 2002-09-24 | deferido | cvm-col-20020924-d04 | fichas/colegiado/2002-22.md |
-| — | 2002-09-24 | nao-provido | cvm-col-20020924-d03 | fichas/colegiado/2002-22.md |
-| — | 2002-09-24 | outro | cvm-col-20020924-d02 | fichas/colegiado/2002-22.md |
-| RJ99/0893 | 2002-09-24 | outro | cvm-col-20020924-d01 | fichas/colegiado/2002-22.md |
-| — | 2002-09-20 | outro | cvm-col-20020920-d09 | fichas/colegiado/2002-22.md |
-| RJ2001/10229; RJ2002/1976; RJ2202/1350; RJ2202/2238; RJ2002/2443; RJ2002/1990; RJ2002/2448; RJ2202/2449; RJ2002/2654; RJ2002/2451; RJ2002/2208; RJ2002/2331; RJ2002/2327; RJ2002/2445; RJ2002/2446; RJ2002/2452; RJ2002/2450; RJ2002/2653; RJ2002/2334; RJ2002/2534; RJ2002/2209; RJ2002/2133; RJ2202/2447; RJ2002/2183 | 2002-09-20 | outro | cvm-col-20020920-d08 | fichas/colegiado/2002-22.md |
-| RJ2002/5085 | 2002-09-20 | outro | cvm-col-20020920-d07 | fichas/colegiado/2002-22.md |
-| SP2002/0418 | 2002-09-20 | outro | cvm-col-20020920-d06 | fichas/colegiado/2002-22.md |
-| RJ2002/4628 | 2002-09-20 | nao-provido | cvm-col-20020920-d05 | fichas/colegiado/2002-22.md |
-| RJ2002/6273 | 2002-09-20 | provido | cvm-col-20020920-d04 | fichas/colegiado/2002-22.md |
-| RJ2002/6083 | 2002-09-20 | indeferido | cvm-col-20020920-d03 | fichas/colegiado/2002-22.md |
-| RJ2002/1330 | 2002-09-20 | provido | cvm-col-20020920-d02 | fichas/colegiado/2002-22.md |
-| — | 2002-09-10 | outro | cvm-col-20020910-d07 | fichas/colegiado/2002-22.md |
-| RJ2002/6065 | 2002-09-10 | deferido | cvm-col-20020910-d06 | fichas/colegiado/2002-22.md |
-| RJ2002/1973 | 2002-09-10 | nao-provido | cvm-col-20020910-d05 | fichas/colegiado/2002-21.md |
-| RJ2002/2930 | 2002-09-10 | conhecimento | cvm-col-20020910-d04 | fichas/colegiado/2002-21.md |
-| RJ2001/8273 | 2002-09-10 | nao-provido | cvm-col-20020910-d03 | fichas/colegiado/2002-21.md |
-| — | 2002-09-10 | outro | cvm-col-20020910-d02 | fichas/colegiado/2002-21.md |
-| RJ2002/5124 | 2002-09-10 | parcial | cvm-col-20020910-d01 | fichas/colegiado/2002-21.md |
-| RJ2002/4087 | 2002-08-30 | deferido | cvm-col-20020830-d10 | fichas/colegiado/2002-21.md |
-| RJ2002/4945; RJ2002/4976 | 2002-08-30 | deferido | cvm-col-20020830-d09 | fichas/colegiado/2002-21.md |
-| RJ2002/3495 | 2002-08-30 | outro | cvm-col-20020830-d08 | fichas/colegiado/2002-21.md |
-| RJ2001/11505 | 2002-08-30 | nao-provido | cvm-col-20020830-d07 | fichas/colegiado/2002-21.md |
-| RJ2002/5741 | 2002-08-30 | nao-provido | cvm-col-20020830-d06 | fichas/colegiado/2002-21.md |
-| RJ2001/0134 | 2002-08-30 | provido | cvm-col-20020830-d05 | fichas/colegiado/2002-21.md |
-| RJ2002/2713 | 2002-08-30 | nao-provido | cvm-col-20020830-d04 | fichas/colegiado/2002-21.md |
-| — | 2002-08-30 | deferido | cvm-col-20020830-d03 | fichas/colegiado/2002-21.md |
-| RJ2001/12009 | 2002-08-30 | indeferido | cvm-col-20020830-d02 | fichas/colegiado/2002-21.md |
-| SP95/0053 | 2002-08-30 | provido | cvm-col-20020830-d01 | fichas/colegiado/2002-20.md |
-| RJ2002/6137 | 2002-08-27 | indeferido | cvm-col-20020827-d01 | fichas/colegiado/2002-20.md |
-| RJ2002/5054 | 2002-08-20 | deferido | cvm-col-20020820-d07 | fichas/colegiado/2002-20.md |
-| RJ2002/5059 | 2002-08-20 | provido | cvm-col-20020820-d06 | fichas/colegiado/2002-20.md |
-| RJ2001/5996 | 2002-08-20 | outro | cvm-col-20020820-d05 | fichas/colegiado/2002-20.md |
-| RJ2002/4685 | 2002-08-20 | deferido | cvm-col-20020820-d04 | fichas/colegiado/2002-20.md |
-| RJ2002/5783 | 2002-08-20 | deferido | cvm-col-20020820-d03 | fichas/colegiado/2002-20.md |
-| RJ2002/0925 | 2002-08-20 | — | cvm-col-20020820-d02 | fichas/colegiado/2002-20.md |
-| RJ2002/0921 | 2002-08-20 | — | cvm-col-20020820-d01 | fichas/colegiado/2002-20.md |
-| — | 2002-08-14 | outro | cvm-col-20020814-d01 | fichas/colegiado/2002-20.md |
-| — | 2002-08-13 | outro | cvm-col-20020813-d08 | fichas/colegiado/2002-20.md |
-| RJ2002/5907 | 2002-08-13 | indeferido | cvm-col-20020813-d07 | fichas/colegiado/2002-20.md |
-| — | 2002-08-13 | deferido | cvm-col-20020813-d06 | fichas/colegiado/2002-20.md |
-| RJ2002/2608 | 2002-08-13 | outro | cvm-col-20020813-d05 | fichas/colegiado/2002-20.md |
-| RJ2001/2168 | 2002-08-13 | nao-provido | cvm-col-20020813-d04 | fichas/colegiado/2002-19.md |
-| RJ2001/3748 | 2002-08-13 | nao-provido | cvm-col-20020813-d03 | fichas/colegiado/2002-19.md |
-| RJ2001/3749 | 2002-08-13 | nao-provido | cvm-col-20020813-d02 | fichas/colegiado/2002-19.md |
-| RJ2001/7547 | 2002-08-13 | outro | cvm-col-20020813-d01 | fichas/colegiado/2002-19.md |
-| — | 2002-08-06 | outro | cvm-col-20020806-d04 | fichas/colegiado/2002-19.md |
-| — | 2002-08-06 | outro | cvm-col-20020806-d03 | fichas/colegiado/2002-19.md |
-| RJ2001/2072 | 2002-08-06 | nao-provido | cvm-col-20020806-d02 | fichas/colegiado/2002-19.md |
-| RJ2000/3352 | 2002-08-06 | outro | cvm-col-20020806-d01 | fichas/colegiado/2002-19.md |
-| RJ2002/5635 | 2002-08-05 | indeferido | cvm-col-20020805-d01 | fichas/colegiado/2002-19.md |
-| — | 2002-07-29 | provido | cvm-col-20020729-d07 | fichas/colegiado/2002-19.md |
-| RJ2001/12097 | 2002-07-29 | deferido | cvm-col-20020729-d06 | fichas/colegiado/2002-19.md |
-| SP2000/0345 | 2002-07-29 | nao-provido | cvm-col-20020729-d05 | fichas/colegiado/2002-19.md |
-| SP2001/0548 | 2002-07-29 | nao-provido | cvm-col-20020729-d04 | fichas/colegiado/2002-19.md |
-| RJ2002/4680 | 2002-07-29 | provido | cvm-col-20020729-d03 | fichas/colegiado/2002-18.md |
-| RJ2001/7793 | 2002-07-29 | outro | cvm-col-20020729-d02 | fichas/colegiado/2002-18.md |
-| RJ2001/4848 | 2002-07-29 | nao-provido | cvm-col-20020729-d01 | fichas/colegiado/2002-18.md |
-| — | 2002-07-23 | deferido | cvm-col-20020723-d08 | fichas/colegiado/2002-18.md |
-| RJ2001/7058 | 2002-07-23 | parcial | cvm-col-20020723-d07 | fichas/colegiado/2002-18.md |
-| RJ2001/11857 | 2002-07-23 | nao-provido | cvm-col-20020723-d06 | fichas/colegiado/2002-18.md |
-| SP2001/0177 | 2002-07-23 | nao-provido | cvm-col-20020723-d05 | fichas/colegiado/2002-18.md |
-| RJ2002/4151 | 2002-07-23 | indeferido | cvm-col-20020723-d04 | fichas/colegiado/2002-18.md |
-| RJ2002/4801 | 2002-07-23 | deferido | cvm-col-20020723-d03 | fichas/colegiado/2002-18.md |
-| RJ2002/2070 | 2002-07-23 | outro | cvm-col-20020723-d02 | fichas/colegiado/2002-18.md |
-| — | 2002-07-23 | deferido | cvm-col-20020723-d01 | fichas/colegiado/2002-18.md |
-| RJ2000/6106 | 2002-07-16 | nao-provido | cvm-col-20020716-d04 | fichas/colegiado/2002-18.md |
-| RJ2001/9765 | 2002-07-16 | nao-provido | cvm-col-20020716-d03 | fichas/colegiado/2002-18.md |
-| RJ2001/7547 | 2002-07-16 | — | cvm-col-20020716-d02 | fichas/colegiado/2002-17.md |
-| RJ99/0893 | 2002-07-16 | outro | cvm-col-20020716-d01 | fichas/colegiado/2002-17.md |
-| RJ2002/0584 | 2002-07-11 | provido | cvm-col-20020711-d02 | fichas/colegiado/2002-17.md |
-| RJ2002/2714 | 2002-07-11 | nao-provido | cvm-col-20020711-d01 | fichas/colegiado/2002-17.md |
-| RJ2001/3270 | 2002-07-09 | provido | cvm-col-20020709-d12 | fichas/colegiado/2002-17.md |
-| — | 2002-07-09 | outro | cvm-col-20020709-d11 | fichas/colegiado/2002-17.md |
-| — | 2002-07-09 | outro | cvm-col-20020709-d10 | fichas/colegiado/2002-17.md |
-| RJ2000/6126 | 2002-07-09 | nao-provido | cvm-col-20020709-d09 | fichas/colegiado/2002-17.md |
-| RJ2002/4188 | 2002-07-09 | deferido | cvm-col-20020709-d08 | fichas/colegiado/2002-17.md |
-| RJ2002/2735 | 2002-07-09 | parcial | cvm-col-20020709-d07 | fichas/colegiado/2002-17.md |
-| SP2002/0021 | 2002-07-09 | nao-provido | cvm-col-20020709-d06 | fichas/colegiado/2002-17.md |
-| SP2001/0754 | 2002-07-09 | provido | cvm-col-20020709-d05 | fichas/colegiado/2002-17.md |
-| RJ2002/3243 | 2002-07-09 | nao-provido | cvm-col-20020709-d04 | fichas/colegiado/2002-16.md |
-| SP2002/0109 | 2002-07-09 | provido | cvm-col-20020709-d03 | fichas/colegiado/2002-16.md |
-| SP2002/0019 | 2002-07-09 | outro | cvm-col-20020709-d02 | fichas/colegiado/2002-16.md |
-| RJ2001/12253 | 2002-07-09 | provido | cvm-col-20020709-d01 | fichas/colegiado/2002-16.md |
-| — | 2002-07-03 | outro | cvm-col-20020703-d12 | fichas/colegiado/2002-16.md |
-| — | 2002-07-03 | deferido | cvm-col-20020703-d11 | fichas/colegiado/2002-16.md |
-| RJ2002/4174 | 2002-07-03 | deferido | cvm-col-20020703-d10 | fichas/colegiado/2002-16.md |
-| RJ2002/1679 | 2002-07-03 | provido | cvm-col-20020703-d09 | fichas/colegiado/2002-16.md |
-| RJ2002/1035 | 2002-07-03 | nao-provido | cvm-col-20020703-d08 | fichas/colegiado/2002-16.md |
-| RJ2002/0339 | 2002-07-03 | outro | cvm-col-20020703-d07 | fichas/colegiado/2002-16.md |
-| RJ2000/2075 | 2002-07-03 | nao-provido | cvm-col-20020703-d06 | fichas/colegiado/2002-16.md |
-| SP2001/0274 | 2002-07-03 | parcial | cvm-col-20020703-d05 | fichas/colegiado/2002-15.md |
-| RJ2001/12305 | 2002-07-03 | nao-provido | cvm-col-20020703-d04 | fichas/colegiado/2002-15.md |
-| RJ2001/5619 | 2002-07-03 | outro | cvm-col-20020703-d03 | fichas/colegiado/2002-15.md |
-| RJ2000/5852 | 2002-07-03 | nao-provido | cvm-col-20020703-d02 | fichas/colegiado/2002-15.md |
-| SP2001/0074 | 2002-07-03 | parcial | cvm-col-20020703-d01 | fichas/colegiado/2002-15.md |
-| — | 2002-06-27 | outro | cvm-col-20020627-d02 | fichas/colegiado/2002-15.md |
-| — | 2002-06-27 | outro | cvm-col-20020627-d01 | fichas/colegiado/2002-15.md |
-| — | 2002-06-25 | outro | cvm-col-20020625-d08 | fichas/colegiado/2002-15.md |
-| RJ2002/4466 | 2002-06-25 | deferido | cvm-col-20020625-d07 | fichas/colegiado/2002-15.md |
-| RJ2001/11249 | 2002-06-25 | nao-provido | cvm-col-20020625-d06 | fichas/colegiado/2002-15.md |
-| SP2001/0279 | 2002-06-25 | nao-provido | cvm-col-20020625-d05 | fichas/colegiado/2002-15.md |
-| SP2001/0803 | 2002-06-25 | nao-provido | cvm-col-20020625-d04 | fichas/colegiado/2002-15.md |
-| RJ2000/4473; RJ2000/4079 | 2002-06-25 | outro | cvm-col-20020625-d03 | fichas/colegiado/2002-15.md |
-| — | 2002-06-25 | outro | cvm-col-20020625-d02 | fichas/colegiado/2002-15.md |
-| SP2001/0291 | 2002-06-25 | nao-provido | cvm-col-20020625-d01 | fichas/colegiado/2002-14.md |
-| RJ2002/3748 | 2002-06-21 | deferido | cvm-col-20020621-d01 | fichas/colegiado/2002-14.md |
-| — | 2002-06-18 | outro | cvm-col-20020618-d16 | fichas/colegiado/2002-14.md |
-| — | 2002-06-18 | outro | cvm-col-20020618-d15 | fichas/colegiado/2002-14.md |
-| RJ2002/3869 | 2002-06-18 | deferido | cvm-col-20020618-d14 | fichas/colegiado/2002-14.md |
-| RJ2002/2758 | 2002-06-18 | nao-provido | cvm-col-20020618-d13 | fichas/colegiado/2002-14.md |
-| RJ2002/1759 | 2002-06-18 | outro | cvm-col-20020618-d12 | fichas/colegiado/2002-14.md |
-| RJ2001/100519 | 2002-06-18 | nao-provido | cvm-col-20020618-d11 | fichas/colegiado/2002-14.md |
-| RJ2001/9819 | 2002-06-18 | nao-provido | cvm-col-20020618-d10 | fichas/colegiado/2002-14.md |
-| SP2002/0215 | 2002-06-18 | outro | cvm-col-20020618-d09 | fichas/colegiado/2002-14.md |
-| SP2002/0011 | 2002-06-18 | provido | cvm-col-20020618-d08 | fichas/colegiado/2002-14.md |
-| RJ2002/3923 | 2002-06-18 | nao-provido | cvm-col-20020618-d07 | fichas/colegiado/2002-14.md |
-| RJ2002/2710 | 2002-06-18 | nao-provido | cvm-col-20020618-d06 | fichas/colegiado/2002-14.md |
-| SP2002/0074 | 2002-06-18 | nao-provido | cvm-col-20020618-d05 | fichas/colegiado/2002-14.md |
-| SP2001/0296 | 2002-06-18 | provido | cvm-col-20020618-d04 | fichas/colegiado/2002-14.md |
-| SP2001/0787 | 2002-06-18 | nao-provido | cvm-col-20020618-d03 | fichas/colegiado/2002-14.md |
-| SP2001/0295 | 2002-06-18 | nao-provido | cvm-col-20020618-d02 | fichas/colegiado/2002-14.md |
-| SP2001/0282 | 2002-06-18 | parcial | cvm-col-20020618-d01 | fichas/colegiado/2002-13.md |
-| — | 2002-06-11 | deferido | cvm-col-20020611-d13 | fichas/colegiado/2002-13.md |
-| RJ2000/3526 | 2002-06-11 | nao-provido | cvm-col-20020611-d12 | fichas/colegiado/2002-13.md |
-| SP2001/0806 | 2002-06-11 | deferido | cvm-col-20020611-d11 | fichas/colegiado/2002-13.md |
-| RJ2001/11675 | 2002-06-11 | provido | cvm-col-20020611-d10 | fichas/colegiado/2002-13.md |
-| SP2001/0300 | 2002-06-11 | nao-provido | cvm-col-20020611-d09 | fichas/colegiado/2002-13.md |
-| SP2001/0299 | 2002-06-11 | provido | cvm-col-20020611-d08 | fichas/colegiado/2002-13.md |
-| SP2001/0297 | 2002-06-11 | nao-provido | cvm-col-20020611-d07 | fichas/colegiado/2002-13.md |
-| SP2001/0276 | 2002-06-11 | nao-provido | cvm-col-20020611-d06 | fichas/colegiado/2002-13.md |
-| RJ2001/9445 | 2002-06-11 | outro | cvm-col-20020611-d05 | fichas/colegiado/2002-13.md |
-| RJ98/1971 | 2002-06-11 | outro | cvm-col-20020611-d04 | fichas/colegiado/2002-13.md |
-| RJ2001/9297 | 2002-06-11 | nao-provido | cvm-col-20020611-d03 | fichas/colegiado/2002-13.md |
-| — | 2002-06-11 | outro | cvm-col-20020611-d02 | fichas/colegiado/2002-13.md |
-| — | 2002-06-11 | outro | cvm-col-20020611-d01 | fichas/colegiado/2002-13.md |
-| RJ2002/2955 | 2002-06-04 | indeferido | cvm-col-20020604-d02 | fichas/colegiado/2002-12.md |
-| — | 2002-06-04 | outro | cvm-col-20020604-d01 | fichas/colegiado/2002-12.md |
-| — | 2002-05-29 | outro | cvm-col-20020529-d09 | fichas/colegiado/2002-12.md |
-| — | 2002-05-29 | outro | cvm-col-20020529-d08 | fichas/colegiado/2002-12.md |
-| — | 2002-05-29 | outro | cvm-col-20020529-d07 | fichas/colegiado/2002-12.md |
-| RJ2002/3572 | 2002-05-29 | — | cvm-col-20020529-d06 | fichas/colegiado/2002-12.md |
-| RJ2000/1520 | 2002-05-29 | nao-provido | cvm-col-20020529-d05 | fichas/colegiado/2002-12.md |
-| — | 2002-05-29 | outro | cvm-col-20020529-d04 | fichas/colegiado/2002-12.md |
-| SP2002/0103 | 2002-05-29 | provido | cvm-col-20020529-d03 | fichas/colegiado/2002-12.md |
-| RJ2001/4771 | 2002-05-29 | nao-provido | cvm-col-20020529-d02 | fichas/colegiado/2002-12.md |
-| — | 2002-05-29 | nao-provido | cvm-col-20020529-d01 | fichas/colegiado/2002-12.md |
-| SP2002/0016 | 2002-05-21 | nao-provido | cvm-col-20020521-d03 | fichas/colegiado/2002-12.md |
-| RJ2002/2004 | 2002-05-21 | outro | cvm-col-20020521-d02 | fichas/colegiado/2002-12.md |
-| RJ2002/2057 | 2002-05-21 | indeferido | cvm-col-20020521-d01 | fichas/colegiado/2002-12.md |
-| RJ2002/01330 | 2002-05-14 | nao-provido | cvm-col-20020514-d15 | fichas/colegiado/2002-12.md |
-| RJ2002/01373 | 2002-05-14 | nao-provido | cvm-col-20020514-d14 | fichas/colegiado/2002-12.md |
-| RJ2001/9877 | 2002-05-14 | deferido | cvm-col-20020514-d13 | fichas/colegiado/2002-11.md |
-| RJ2002/00359 | 2002-05-14 | nao-provido | cvm-col-20020514-d12 | fichas/colegiado/2002-11.md |
-| RJ2002/00034 | 2002-05-14 | nao-provido | cvm-col-20020514-d11 | fichas/colegiado/2002-11.md |
-| RJ2001/3241 | 2002-05-14 | provido | cvm-col-20020514-d10 | fichas/colegiado/2002-11.md |
-| SP2001/0237; SP2001/0269; SP2001/0271; SP2001/0272; SP2001/0438 | 2002-05-14 | outro | cvm-col-20020514-d09 | fichas/colegiado/2002-11.md |
-| SP2002/0073 | 2002-05-14 | provido | cvm-col-20020514-d08 | fichas/colegiado/2002-11.md |
-| SP99/0058 | 2002-05-14 | nao-provido | cvm-col-20020514-d07 | fichas/colegiado/2002-11.md |
-| RJ1999/0113 | 2002-05-14 | outro | cvm-col-20020514-d06 | fichas/colegiado/2002-11.md |
-| RJ2002/2415 | 2002-05-14 | — | cvm-col-20020514-d05 | fichas/colegiado/2002-11.md |
-| SP2001/0437 | 2002-05-14 | outro | cvm-col-20020514-d04 | fichas/colegiado/2002-11.md |
-| — | 2002-05-14 | outro | cvm-col-20020514-d03 | fichas/colegiado/2002-11.md |
-| RJ2002/2118 | 2002-05-14 | nao-provido | cvm-col-20020514-d02 | fichas/colegiado/2002-11.md |
-| RJ2001/1981 | 2002-05-14 | outro | cvm-col-20020514-d01 | fichas/colegiado/2002-11.md |
-| RJ2002/2854 | 2002-05-10 | — | cvm-col-20020510-d01 | fichas/colegiado/2002-11.md |
-| RJ2002/2193 | 2002-05-07 | nao-provido | cvm-col-20020507-d07 | fichas/colegiado/2002-10.md |
-| — | 2002-05-07 | outro | cvm-col-20020507-d06 | fichas/colegiado/2002-10.md |
-| SP2000/0408 | 2002-05-07 | nao-provido | cvm-col-20020507-d05 | fichas/colegiado/2002-10.md |
-| 413/2001; RJ1999/6147 | 2002-05-07 | outro | cvm-col-20020507-d04 | fichas/colegiado/2002-10.md |
-| 397/2001; SP2001/0719 | 2002-05-07 | outro | cvm-col-20020507-d03 | fichas/colegiado/2002-10.md |
-| RJ2002/2883 | 2002-05-07 | outro | cvm-col-20020507-d02 | fichas/colegiado/2002-10.md |
-| SP2000/0389 | 2002-05-07 | nao-provido | cvm-col-20020507-d01 | fichas/colegiado/2002-10.md |
-| 84/2002 | 2002-04-30 | deferido | cvm-col-20020430-d08 | fichas/colegiado/2002-10.md |
-| 85/2002 | 2002-04-30 | deferido | cvm-col-20020430-d07 | fichas/colegiado/2002-10.md |
-| 15/2002 | 2002-04-30 | outro | cvm-col-20020430-d06 | fichas/colegiado/2002-10.md |
-| RJ2002/2105 | 2002-04-30 | provido | cvm-col-20020430-d05 | fichas/colegiado/2002-10.md |
-| RJ2002/2231 | 2002-04-30 | nao-provido | cvm-col-20020430-d04 | fichas/colegiado/2002-10.md |
-| SP2001/61 | 2002-04-30 | outro | cvm-col-20020430-d03 | fichas/colegiado/2002-10.md |
-| — | 2002-04-30 | outro | cvm-col-20020430-d02 | fichas/colegiado/2002-10.md |
-| RJ2001/12308 | 2002-04-30 | provido | cvm-col-20020430-d01 | fichas/colegiado/2002-10.md |
-| RJ2002/2941 | 2002-04-26 | deferido | cvm-col-20020426-d12 | fichas/colegiado/2002-10.md |
-| — | 2002-04-26 | outro | cvm-col-20020426-d11 | fichas/colegiado/2002-10.md |
-| RJ2001/2093 | 2002-04-26 | provido | cvm-col-20020426-d10 | fichas/colegiado/2002-10.md |
-| SP2000/0314 | 2002-04-26 | outro | cvm-col-20020426-d09 | fichas/colegiado/2002-09.md |
-| SP2001/0439 | 2002-04-26 | nao-provido | cvm-col-20020426-d08 | fichas/colegiado/2002-09.md |
-| RJ2000/0250 | 2002-04-26 | indeferido | cvm-col-20020426-d07 | fichas/colegiado/2002-09.md |
-| RJ2002/2230 | 2002-04-26 | nao-provido | cvm-col-20020426-d06 | fichas/colegiado/2002-09.md |
-| RJ2001/12367 | 2002-04-26 | provido | cvm-col-20020426-d05 | fichas/colegiado/2002-09.md |
-| RJ2001/12242 | 2002-04-26 | outro | cvm-col-20020426-d04 | fichas/colegiado/2002-09.md |
-| RJ2002/1974 | 2002-04-26 | nao-provido | cvm-col-20020426-d03 | fichas/colegiado/2002-09.md |
-| RJ2002/2196 | 2002-04-26 | provido | cvm-col-20020426-d02 | fichas/colegiado/2002-09.md |
-| RJ2002/2013 | 2002-04-26 | nao-provido | cvm-col-20020426-d01 | fichas/colegiado/2002-09.md |
-| RJ2002/2883 | 2002-04-22 | parcial | cvm-col-20020422-d02 | fichas/colegiado/2002-09.md |
-| RJ2002/2854 | 2002-04-22 | deferido | cvm-col-20020422-d01 | fichas/colegiado/2002-09.md |
-| — | 2002-04-16 | outro | cvm-col-20020416-d10 | fichas/colegiado/2002-09.md |
-| RJ2000/5369 | 2002-04-16 | deferido | cvm-col-20020416-d09 | fichas/colegiado/2002-09.md |
-| RJ2002/12307 | 2002-04-16 | nao-provido | cvm-col-20020416-d08 | fichas/colegiado/2002-08.md |
-| RJ2002/0361 | 2002-04-16 | parcial | cvm-col-20020416-d07 | fichas/colegiado/2002-08.md |
-| RJ2000/5852 | 2002-04-16 | outro | cvm-col-20020416-d06 | fichas/colegiado/2002-08.md |
-| RJ2002/1342 | 2002-04-16 | nao-provido | cvm-col-20020416-d05 | fichas/colegiado/2002-08.md |
-| SP2001/0806 | 2002-04-16 | nao-provido | cvm-col-20020416-d04 | fichas/colegiado/2002-08.md |
-| SP2001/0281 | 2002-04-16 | nao-provido | cvm-col-20020416-d03 | fichas/colegiado/2002-08.md |
-| SP2001/0275 | 2002-04-16 | nao-provido | cvm-col-20020416-d02 | fichas/colegiado/2002-08.md |
-| SP2001/0270 | 2002-04-16 | nao-provido | cvm-col-20020416-d01 | fichas/colegiado/2002-08.md |
-| RJ2002/175 | 2002-04-10 | parcial | cvm-col-20020410-d13 | fichas/colegiado/2002-08.md |
-| — | 2002-04-10 | deferido | cvm-col-20020410-d12 | fichas/colegiado/2002-08.md |
-| RJ2002/1956 | 2002-04-10 | nao-provido | cvm-col-20020410-d11 | fichas/colegiado/2002-08.md |
-| RJ2001/0811 | 2002-04-10 | outro | cvm-col-20020410-d10 | fichas/colegiado/2002-08.md |
-| RJ2001/12016 | 2002-04-10 | nao-provido | cvm-col-20020410-d09 | fichas/colegiado/2002-08.md |
-| SP2001/0278 | 2002-04-10 | nao-provido | cvm-col-20020410-d08 | fichas/colegiado/2002-07.md |
-| SP2001/0274 | 2002-04-10 | nao-provido | cvm-col-20020410-d07 | fichas/colegiado/2002-07.md |
-| SP2001/0086 | 2002-04-10 | nao-provido | cvm-col-20020410-d06 | fichas/colegiado/2002-07.md |
-| RJ2001/2166 | 2002-04-10 | parcial | cvm-col-20020410-d05 | fichas/colegiado/2002-07.md |
-| RJ2002/1343 | 2002-04-10 | nao-provido | cvm-col-20020410-d04 | fichas/colegiado/2002-07.md |
-| RJ2002/1328 | 2002-04-10 | provido | cvm-col-20020410-d03 | fichas/colegiado/2002-07.md |
-| RJ2002/1329 | 2002-04-10 | provido | cvm-col-20020410-d02 | fichas/colegiado/2002-07.md |
-| RJ2001/11285 | 2002-04-10 | nao-provido | cvm-col-20020410-d01 | fichas/colegiado/2002-07.md |
-| — | 2002-04-02 | outro | cvm-col-20020402-d05 | fichas/colegiado/2002-07.md |
-| RJ2001/10308 | 2002-04-02 | provido | cvm-col-20020402-d04 | fichas/colegiado/2002-07.md |
-| RJ2002/0372 | 2002-04-02 | nao-provido | cvm-col-20020402-d03 | fichas/colegiado/2002-07.md |
-| RJ2002/0025 | 2002-04-02 | nao-provido | cvm-col-20020402-d02 | fichas/colegiado/2002-07.md |
-| RJ2001/11112 | 2002-04-02 | nao-provido | cvm-col-20020402-d01 | fichas/colegiado/2002-06.md |
-| RJ2001/10773 | 2002-03-28 | provido | cvm-col-20020328-d05 | fichas/colegiado/2002-06.md |
-| — | 2002-03-28 | outro | cvm-col-20020328-d04 | fichas/colegiado/2002-06.md |
-| RJ2001/11996 | 2002-03-28 | provido | cvm-col-20020328-d03 | fichas/colegiado/2002-06.md |
-| RJ2002/1160 | 2002-03-28 | provido | cvm-col-20020328-d02 | fichas/colegiado/2002-06.md |
-| — | 2002-03-28 | outro | cvm-col-20020328-d01 | fichas/colegiado/2002-06.md |
-| RJ2001/1870 | 2002-03-19 | outro | cvm-col-20020319-d19 | fichas/colegiado/2002-06.md |
-| — | 2002-03-19 | outro | cvm-col-20020319-d18 | fichas/colegiado/2002-06.md |
-| RJ2001/8002 | 2002-03-19 | nao-provido | cvm-col-20020319-d17 | fichas/colegiado/2002-06.md |
-| — | 2002-03-19 | nao-provido | cvm-col-20020319-d16 | fichas/colegiado/2002-06.md |
-| RJ2001/1857 | 2002-03-19 | parcial | cvm-col-20020319-d15 | fichas/colegiado/2002-06.md |
-| RJ2000/5874 | 2002-03-19 | nao-provido | cvm-col-20020319-d14 | fichas/colegiado/2002-06.md |
-| — | 2002-03-19 | outro | cvm-col-20020319-d13 | fichas/colegiado/2002-05.md |
-| RJ2001/12804 | 2002-03-19 | provido | cvm-col-20020319-d12 | fichas/colegiado/2002-05.md |
-| RJ2001/8341 | 2002-03-19 | provido | cvm-col-20020319-d11 | fichas/colegiado/2002-05.md |
-| RJ2001/12014 | 2002-03-19 | nao-provido | cvm-col-20020319-d10 | fichas/colegiado/2002-05.md |
-| RJ2001/11397 | 2002-03-19 | provido | cvm-col-20020319-d09 | fichas/colegiado/2002-05.md |
-| RJ2002/1430 | 2002-03-19 | nao-provido | cvm-col-20020319-d08 | fichas/colegiado/2002-05.md |
-| RJ2001/12086 | 2002-03-19 | provido | cvm-col-20020319-d07 | fichas/colegiado/2002-05.md |
-| RJ2001/11513 | 2002-03-19 | provido | cvm-col-20020319-d06 | fichas/colegiado/2002-05.md |
-| SP2000/0320 | 2002-03-19 | provido | cvm-col-20020319-d05 | fichas/colegiado/2002-05.md |
-| — | 2002-03-19 | outro | cvm-col-20020319-d04 | fichas/colegiado/2002-05.md |
-| SP2001/0280 | 2002-03-19 | nao-provido | cvm-col-20020319-d03 | fichas/colegiado/2002-05.md |
-| RJ99/5785 | 2002-03-19 | nao-provido | cvm-col-20020319-d02 | fichas/colegiado/2002-05.md |
-| RJ2000/4912 | 2002-03-19 | provido | cvm-col-20020319-d01 | fichas/colegiado/2002-04.md |
-| RJ2002/2069 | 2002-03-15 | deferido | cvm-col-20020315-d01 | fichas/colegiado/2002-04.md |
-| — | 2002-03-12 | deferido | cvm-col-20020312-d06 | fichas/colegiado/2002-04.md |
-| SP2001/0055 | 2002-03-12 | nao-provido | cvm-col-20020312-d05 | fichas/colegiado/2002-04.md |
-| RJ2001/4228 | 2002-03-12 | nao-provido | cvm-col-20020312-d04 | fichas/colegiado/2002-04.md |
-| RJ99/5746 | 2002-03-12 | nao-provido | cvm-col-20020312-d03 | fichas/colegiado/2002-04.md |
-| RJ2001/2168 | 2002-03-12 | provido | cvm-col-20020312-d02 | fichas/colegiado/2002-04.md |
-| RJ2000/4250 | 2002-03-12 | nao-provido | cvm-col-20020312-d01 | fichas/colegiado/2002-04.md |
-| — | 2002-03-05 | outro | cvm-col-20020305-d04 | fichas/colegiado/2002-04.md |
-| — | 2002-03-05 | outro | cvm-col-20020305-d03 | fichas/colegiado/2002-04.md |
-| — | 2002-03-05 | outro | cvm-col-20020305-d02 | fichas/colegiado/2002-04.md |
-| RJ2001/4245 | 2002-03-05 | outro | cvm-col-20020305-d01 | fichas/colegiado/2002-04.md |
-| RJ2002/1070; RJ2002/1071 | 2002-02-27 | provido | cvm-col-20020227-d04 | fichas/colegiado/2002-03.md |
-| RJ2001/3993 | 2002-02-27 | conhecimento | cvm-col-20020227-d03 | fichas/colegiado/2002-03.md |
-| RJ2001/11993 | 2002-02-27 | provido | cvm-col-20020227-d02 | fichas/colegiado/2002-03.md |
-| SP2001/0105 | 2002-02-27 | nao-provido | cvm-col-20020227-d01 | fichas/colegiado/2002-03.md |
-| RJ2001/10329 | 2002-02-19 | provido | cvm-col-20020219-d02 | fichas/colegiado/2002-03.md |
-| RJ2001/3270 | 2002-02-19 | — | cvm-col-20020219-d01 | fichas/colegiado/2002-03.md |
-| — | 2002-02-14 | outro | cvm-col-20020214-d14 | fichas/colegiado/2002-03.md |
-| RJ2001/12035 | 2002-02-14 | deferido | cvm-col-20020214-d13 | fichas/colegiado/2002-03.md |
-| RJ2001/11916 | 2002-02-14 | nao-provido | cvm-col-20020214-d12 | fichas/colegiado/2002-03.md |
-| RJ2001/3686 | 2002-02-14 | conhecimento | cvm-col-20020214-d11 | fichas/colegiado/2002-03.md |
-| RJ2001/12306 | 2002-02-14 | provido | cvm-col-20020214-d10 | fichas/colegiado/2002-03.md |
-| RJ2001/12309 | 2002-02-14 | provido | cvm-col-20020214-d09 | fichas/colegiado/2002-03.md |
-| RJ2001/12149 | 2002-02-14 | nao-provido | cvm-col-20020214-d08 | fichas/colegiado/2002-03.md |
-| RJ2001/12163 | 2002-02-14 | nao-provido | cvm-col-20020214-d07 | fichas/colegiado/2002-02.md |
-| RJ2001/12148 | 2002-02-14 | nao-provido | cvm-col-20020214-d06 | fichas/colegiado/2002-02.md |
-| RJ2001/12305 | 2002-02-14 | nao-provido | cvm-col-20020214-d05 | fichas/colegiado/2002-02.md |
-| RJ2001/12019 | 2002-02-14 | nao-provido | cvm-col-20020214-d04 | fichas/colegiado/2002-02.md |
-| RJ2000/4801 | 2002-02-14 | nao-provido | cvm-col-20020214-d03 | fichas/colegiado/2002-02.md |
-| RJ97/0548 | 2002-02-14 | nao-provido | cvm-col-20020214-d02 | fichas/colegiado/2002-02.md |
-| RJ2002/0875 | 2002-02-14 | deferido | cvm-col-20020214-d01 | fichas/colegiado/2002-02.md |
-| SP2001/0292 | 2002-02-05 | nao-provido | cvm-col-20020205-d02 | fichas/colegiado/2002-02.md |
-| RJ2001/4540 | 2002-02-05 | provido | cvm-col-20020205-d01 | fichas/colegiado/2002-02.md |
-| RJ2001/4355 | 2002-01-29 | outro | cvm-col-20020129-d2144 | fichas/colegiado/2002-02.md |
-| — | 2002-01-29 | outro | cvm-col-20020129-d03 | fichas/colegiado/2002-02.md |
-| RJ99/3741 | 2002-01-29 | nao-provido | cvm-col-20020129-d02 | fichas/colegiado/2002-02.md |
-| RJ2001/6364; RJ2000/6376; RJ2001/6371; RJ2000/5872 | 2002-01-29 | indeferido | cvm-col-20020129-d01 | fichas/colegiado/2002-02.md |
-| SP2000/0108 | 2002-01-22 | nao-provido | cvm-col-20020122-d05 | fichas/colegiado/2002-02.md |
-| SP2001/0719 | 2002-01-22 | outro | cvm-col-20020122-d04 | fichas/colegiado/2002-02.md |
-| RJ1998/5050 | 2002-01-22 | outro | cvm-col-20020122-d03 | fichas/colegiado/2002-01.md |
-| RJ2001/12001 | 2002-01-22 | nao-provido | cvm-col-20020122-d02 | fichas/colegiado/2002-01.md |
-| — | 2002-01-22 | outro | cvm-col-20020122-d01 | fichas/colegiado/2002-01.md |
-| RJ2001/12133 | 2002-01-15 | outro | cvm-col-20020115-d08 | fichas/colegiado/2002-01.md |
-| — | 2002-01-15 | outro | cvm-col-20020115-d07 | fichas/colegiado/2002-01.md |
-| RJ2002/135 | 2002-01-15 | outro | cvm-col-20020115-d06 | fichas/colegiado/2002-01.md |
-| RJ2001/11663 | 2002-01-15 | provido | cvm-col-20020115-d05 | fichas/colegiado/2002-01.md |
-| RJ2001/12018 | 2002-01-15 | nao-provido | cvm-col-20020115-d04 | fichas/colegiado/2002-01.md |
-| RJ2001/11998 | 2002-01-15 | nao-provido | cvm-col-20020115-d03 | fichas/colegiado/2002-01.md |
-| RJ2001/10817 | 2002-01-15 | deferido | cvm-col-20020115-d02 | fichas/colegiado/2002-01.md |
-| RJ2001/12035 | 2002-01-15 | deferido | cvm-col-20020115-d01 | fichas/colegiado/2002-01.md |
-| RJ2001/11675 | 2002-01-08 | provido | cvm-col-20020108-d02 | fichas/colegiado/2002-01.md |
-| SP2001/0148 | 2002-01-08 | outro | cvm-col-20020108-d01 | fichas/colegiado/2002-01.md |
-| RJ2001/8489 | 2002-01-03 | deferido | cvm-col-20020103-d01 | fichas/colegiado/2002-01.md |
+| Processo | Data | Resultado | Ementa | Id | Ficha |
+|---|---|---|---|---|---|
+| — | 2002-12-23 | outro | O Colegiado autorizou, transitoriamente e até que se decida uma política de divulgação, a disponibilização na Internet das carteiras dos… | cvm-col-20021223-d14 | fichas/colegiado/2002-27.md |
+| — | 2002-12-23 | outro | O Colegiado deliberou que, cancelada a oferta pública de ações do Banco do Brasil e não realizado o leilão, o objetivo do Fundo não se… | cvm-col-20021223-d13 | fichas/colegiado/2002-27.md |
+| RJ2001/11250 | 2002-12-23 | provido | O Colegiado deu provimento ao recurso da Companhia de Saneamento do Paraná - Sanepar contra decisão da SEP, entendendo que os… | cvm-col-20021223-d12 | fichas/colegiado/2002-27.md |
+| RJ2002/7557 | 2002-12-23 | nao-provido | Recurso contra decisão da SNC referente a cobrança de multa cominatória. Proc. RJ2002/7557. | cvm-col-20021223-d11 | fichas/colegiado/2002-27.md |
+| RJ2002/7632 | 2002-12-23 | nao-provido | Recurso contra decisão da SNC referente a cobrança de multa cominatória. Proc. RJ2002/7632. | cvm-col-20021223-d10 | fichas/colegiado/2002-26.md |
+| RJ2002/7561 | 2002-12-23 | nao-provido | Recurso contra decisão da SNC referente a cobrança de multa cominatória. Proc. RJ2002/7561. | cvm-col-20021223-d09 | fichas/colegiado/2002-26.md |
+| — | 2002-12-23 | outro | O Colegiado aprovou a minuta de Deliberação sobre registro provisório para distribuição junto ao público de certificados de investimento… | cvm-col-20021223-d08 | fichas/colegiado/2002-26.md |
+| RJ2002/7858 | 2002-12-23 | provido | O Colegiado aprovou, nos termos do art. 34 da Instrução CVM 361/02, procedimento diferenciado para o laudo da companhia: patrimônio líquido… | cvm-col-20021223-d07 | fichas/colegiado/2002-26.md |
+| RJ2001/11506 | 2002-12-23 | provido | O Colegiado acompanhou o voto da Diretora-Relatora e deu provimento a recurso contra decisão da SMI que negou credenciamento como agente… | cvm-col-20021223-d06 | fichas/colegiado/2002-26.md |
+| — | 2002-12-23 | outro | O Colegiado aprovou as respostas elaboradas pela SMI ao novo questionário de implementação dos objetivos e princípios da Iosco. | cvm-col-20021223-d05 | fichas/colegiado/2002-26.md |
+| 044/2002 | 2002-12-23 | outro | O Colegiado deliberou não aprovar a minuta de Resolução encaminhada pelo Bacen sobre procedimentos para aprovação de contratos negociados… | cvm-col-20021223-d04 | fichas/colegiado/2002-26.md |
+| RJ2000/2149 | 2002-12-23 | outro | O Colegiado aprovou a minuta sugerida pelo Banco Central para a Decisão-Conjunta CVM/BACEN 07/99, sobre remuneração de debêntures e CRI… | cvm-col-20021223-d03 | fichas/colegiado/2002-26.md |
+| — | 2002-12-23 | outro | O Colegiado aprovou a minuta de Instrução que altera a Instrução 376/02, sobre normas e procedimentos nas operações pela internet… | cvm-col-20021223-d02 | fichas/colegiado/2002-26.md |
+| — | 2002-12-23 | outro | O Colegiado aprovou a minuta de deliberação que estabelece procedimentos para a tramitação de inquéritos administrativos sancionadores… | cvm-col-20021223-d01 | fichas/colegiado/2002-26.md |
+| RJ2002/7481 | 2002-12-18 | deferido | O Colegiado aprovou o pedido de dispensa de registro para distribuição secundária de ações do Banco do Estado do Piauí (BEP), nos termos do… | cvm-col-20021218-d01 | fichas/colegiado/2002-26.md |
+| RJ2002/7380 | 2002-12-10 | indeferido | O Colegiado indeferiu pedido da Rio Bravo Investimentos S.A. e da Mercúrio S.A. DTVM de dispensa de divulgação pela imprensa de alterações… | cvm-col-20021210-d07 | fichas/colegiado/2002-26.md |
+| RJ2002/0486 | 2002-12-10 | nao-provido | Recurso em processo de fundo de garantia da BOVESPA. Proc. RJ2002/0486. | cvm-col-20021210-d06 | fichas/colegiado/2002-26.md |
+| — | 2002-12-10 | outro | O Colegiado acompanhou o voto do diretor relator, conforme o entendimento mantido com a SRE, em consulta da administradora do FII Novo… | cvm-col-20021210-d05 | fichas/colegiado/2002-26.md |
+| RJ2002/6763 | 2002-12-10 | deferido | O Colegiado aprovou o pedido da Braskem S.A. de adoção de procedimento diferenciado na OPA por alienação indireta do controle da… | cvm-col-20021210-d04 | fichas/colegiado/2002-26.md |
+| RJ2002/2758 | 2002-12-10 | provido | O Colegiado acolheu pedido de reconsideração de decisão anterior do próprio Colegiado, nos termos do MEMO/SRE/Nº 247/2002, de 12/11/2002… | cvm-col-20021210-d03 | fichas/colegiado/2002-26.md |
+| SP2001/0212 | 2002-12-10 | parcial | Recurso em processo de fundo de garantia. Proc. SP2001/0212. | cvm-col-20021210-d02 | fichas/colegiado/2002-26.md |
+| RJ2000/0318 | 2002-12-10 | parcial | Recurso contra a decisão da SMI em processo de rito sumário. Proc. RJ2000/0318. | cvm-col-20021210-d01 | fichas/colegiado/2002-26.md |
+| RJ2002/7930 | 2002-12-02 | nao-provido | Recurso contra a decisão da SIN de aplicação de multa cominatória. Proc. RJ2002/7930. | cvm-col-20021202-d13 | fichas/colegiado/2002-26.md |
+| RJ2002/7437 | 2002-12-02 | parcial | Recurso contra a decisão da SIN de aplicação de multa cominatória. Proc. RJ2002/7437. | cvm-col-20021202-d12 | fichas/colegiado/2002-26.md |
+| RJ2002/7543 | 2002-12-02 | nao-provido | Recurso contra a decisão da SIN de aplicação de multa cominatória. Proc. RJ2002/7543. | cvm-col-20021202-d11 | fichas/colegiado/2002-26.md |
+| RJ2002/7594 | 2002-12-02 | nao-provido | Recurso contra a decisão da SIN de aplicação de multa cominatória. Proc. RJ2002/7594. | cvm-col-20021202-d10 | fichas/colegiado/2002-26.md |
+| RJ2002/7593 | 2002-12-02 | nao-provido | Recurso contra a decisão da SIN de aplicação de multa cominatória. Proc. RJ2002/7593. | cvm-col-20021202-d09 | fichas/colegiado/2002-26.md |
+| RJ2002/7979 | 2002-12-02 | nao-provido | Recurso contra a decisão da SFI de aplicação de multa cominatória. Proc. RJ2002/7979. | cvm-col-20021202-d08 | fichas/colegiado/2002-26.md |
+| RJ2002/7617 | 2002-12-02 | nao-provido | Acompanhando o relator, o Colegiado negou provimento ao recurso da Tecidos Carlos Renaux S.A. contra decisão da SEP. | cvm-col-20021202-d07 | fichas/colegiado/2002-26.md |
+| RJ2002/6248 | 2002-12-02 | nao-provido | O Colegiado negou provimento a recurso da CEMIG contra decisão da SEP que determinou a reapresentação de ITR, mantendo a decisão da área… | cvm-col-20021202-d06 | fichas/colegiado/2002-26.md |
+| RJ2002/2710 | 2002-12-02 | provido | O Colegiado acolheu pedido de reconsideração do Centro Hospitalar Albert Sabin S/A contra decisão do Colegiado que aplicou multa… | cvm-col-20021202-d05 | fichas/colegiado/2002-26.md |
+| RJ2001/5048 | 2002-12-02 | provido | O Colegiado deu provimento ao recurso da Construtora Sultepa S/A contra determinação da SEP de republicar demonstrações financeiras e… | cvm-col-20021202-d04 | fichas/colegiado/2002-26.md |
+| — | 2002-12-02 | outro | O Colegiado aprovou a colocação em audiência pública, até 15.01.2003, da minuta de regulamentação da atividade de analista de valores… | cvm-col-20021202-d03 | fichas/colegiado/2002-26.md |
+| RJ2002/6493 | 2002-12-02 | provido | Por maioria, o Colegiado acompanhou o relator e deu provimento ao recurso da Centrais Elétricas Brasileiras S.A. – Eletrobrás contra… | cvm-col-20021202-d02 | fichas/colegiado/2002-26.md |
+| — | 2002-12-02 | outro | O Colegiado acompanhou o voto do diretor-relator, nos termos do MEMO/CVM/GJU-1/Nº 258/02, em consulta da SRE sobre o critério de… | cvm-col-20021202-d01 | fichas/colegiado/2002-26.md |
+| — | 2002-11-29 | outro | O Colegiado aprovou a prorrogação, até 15.01.2003, do edital de audiência pública sobre ofertas públicas de distribuição de valores… | cvm-col-20021129-d01 | fichas/colegiado/2002-25.md |
+| — | 2002-11-22 | outro | O Colegiado, por unanimidade, acompanhou o voto do diretor relator sobre consultas acerca do art. 8º da Lei 10.303/2001 e do art. 17, §1º… | cvm-col-20021122-d10 | fichas/colegiado/2002-25.md |
+| RJ2002/7831 | 2002-11-22 | indeferido | O Colegiado indeferiu o pedido de adiamento da AGE da Bardella S.A. Indústrias Mecânicas, nos termos do MEMO/CVM/SEP/GEA-3/Nº220/02, de… | cvm-col-20021122-d09 | fichas/colegiado/2002-25.md |
+| RJ2002/7805 | 2002-11-22 | provido | Em recurso contra decisão da SEP, o Colegiado aprovou, acompanhando o diretor-relator, a adoção pela companhia do procedimento contábil… | cvm-col-20021122-d08 | fichas/colegiado/2002-25.md |
+| RJ2002/7079 | 2002-11-22 | deferido | O Colegiado deferiu pedido de dispensa de realização de distribuição secundária de ações do Banco do Estado do Ceará, acompanhando o voto… | cvm-col-20021122-d07 | fichas/colegiado/2002-25.md |
+| RJ2002/3761 | 2002-11-22 | deferido | O Colegiado aprovou o desdobramento de debêntures emitidas em série única pela Novamarlim Petróleo e pela Cemar, com procedimento… | cvm-col-20021122-d06 | fichas/colegiado/2002-25.md |
+| RJ2000/2149 | 2002-11-22 | — | Proposta de alteração da Decisão-Conjunta CVM/BACEN nº 07/99, que regula as condições de remuneração de debêntures e de certificados de… | cvm-col-20021122-d05 | fichas/colegiado/2002-25.md |
+| RJ2000/1894 | 2002-11-22 | nao-provido | Recurso contra decisão da SMI em processo de fundo de garantia. Proc. RJ2000/1894. | cvm-col-20021122-d04 | fichas/colegiado/2002-25.md |
+| RJ2002/7052 | 2002-11-22 | indeferido | Com exceção de um diretor impedido, o Colegiado acompanhou o voto do Diretor-Relator e manteve a obrigatoriedade de divulgação de fato… | cvm-col-20021122-d03 | fichas/colegiado/2002-25.md |
+| RJ2002/2231 | 2002-11-22 | provido | O Colegiado deu provimento a pedido de reconsideração da Metal Trust S.A. de decisão anterior do Colegiado. | cvm-col-20021122-d02 | fichas/colegiado/2002-25.md |
+| RJ2001/6951 | 2002-11-22 | outro | Por maioria, o Colegiado acompanhou o relator e aprovou o arquivamento do pedido de reconsideração da Vicunha NE S.A. Indústria Têxtil… | cvm-col-20021122-d01 | fichas/colegiado/2002-25.md |
+| RJ2002/2714 | 2002-11-12 | nao-provido | Pedido de reconsideração de decisão do colegiado. Proc. RJ2002/2714. | cvm-col-20021112-d09 | fichas/colegiado/2002-25.md |
+| RJ2002/0567 | 2002-11-12 | deferido | O Colegiado autorizou redução do quórum qualificado para 40% das ações com direito a voto na AGE sobre a incorporação da Texpar S/A pela… | cvm-col-20021112-d08 | fichas/colegiado/2002-25.md |
+| RJ2002/2508 | 2002-11-12 | provido | O Colegiado deu provimento a recurso contra a SRE, que indeferira registro de distribuição pública do Banco BBM S.A., e reformou a decisão… | cvm-col-20021112-d07 | fichas/colegiado/2002-25.md |
+| — | 2002-11-12 | nao-provido | O Colegiado negou provimento, por maioria, ao recurso contra decisão da SMI que negou autorização para agente autônomo de investimento, nos… | cvm-col-20021112-d06 | fichas/colegiado/2002-25.md |
+| RJ2002/3005 | 2002-11-12 | nao-provido | O Colegiado negou provimento ao recurso contra decisão da SIN que negou autorização para o exercício da atividade de administrador de… | cvm-col-20021112-d05 | fichas/colegiado/2002-25.md |
+| RJ2002/2941 | 2002-11-12 | nao-provido | Com exceção de um diretor impedido, o Colegiado acompanhou o voto da Diretora-Relatora e indeferiu o pedido de reconsideração de sua… | cvm-col-20021112-d04 | fichas/colegiado/2002-25.md |
+| — | 2002-11-12 | outro | O Colegiado aprovou a prorrogação do prazo do art. 22 da Instrução CVM 376/2002, adiando a alteração da instrução sobre operações em bolsas… | cvm-col-20021112-d03 | fichas/colegiado/2002-25.md |
+| — | 2002-11-12 | outro | O Colegiado aprovou a disponibilização das informações solicitadas por quotistas de fundos administrados pelo Bank of America. A SIN… | cvm-col-20021112-d02 | fichas/colegiado/2002-25.md |
+| — | 2002-11-12 | outro | O Colegiado aprovou a minuta de instrução que revoga a Instrução CVM 252/96, que tratava da prestação à CVM de informações sobre operações… | cvm-col-20021112-d01 | fichas/colegiado/2002-25.md |
+| — | 2002-11-05 | deferido | O Colegiado autorizou a CEF a atuar como integrante do sistema de distribuição de valores mobiliários, nos termos do art. 15 da Lei… | cvm-col-20021105-d04 | fichas/colegiado/2002-25.md |
+| 040/2002 | 2002-11-05 | outro | O Colegiado acompanhou o entendimento da SIN, nos termos do MEMO/SIN/Nº 040/2002, sobre a compensação voluntária das perdas dos fundos Bank… | cvm-col-20021105-d03 | fichas/colegiado/2002-25.md |
+| — | 2002-11-05 | outro | Cobrança de tarifa sobre carteira de fmp-fgts. | cvm-col-20021105-d02 | fichas/colegiado/2002-25.md |
+| RJ2002/5645 | 2002-11-05 | deferido | Pleito da bolsa de valores do paraná de encerramento de seu fundo de garantia. Proc. RJ2002/5645. | cvm-col-20021105-d01 | fichas/colegiado/2002-25.md |
+| RJ2002/7133 | 2002-10-29 | deferido | O Colegiado acatou o pedido de dispensa de distribuição pública secundária de ações do Banco do Brasil S.A., conforme proposta da SRE… | cvm-col-20021029-d12 | fichas/colegiado/2002-25.md |
+| — | 2002-10-29 | outro | O Colegiado aprovou a colocação em audiência pública, até 02.12.2002, da minuta de instrução e edital que altera as Instruções CVM 13/80… | cvm-col-20021029-d11 | fichas/colegiado/2002-25.md |
+| SP2002/0403 | 2002-10-29 | provido | Recurso em processo de fundo de garantia. Proc. SP2002/0403. | cvm-col-20021029-d10 | fichas/colegiado/2002-25.md |
+| RJ2000/6152 | 2002-10-29 | nao-provido | Recurso de ofício em processo de rito sumário. Proc. RJ2000/6152. | cvm-col-20021029-d09 | fichas/colegiado/2002-25.md |
+| RJ2002/6085 | 2002-10-29 | nao-provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2002/6085. | cvm-col-20021029-d08 | fichas/colegiado/2002-25.md |
+| RJ2002/6019 | 2002-10-29 | nao-provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2002/6019. | cvm-col-20021029-d07 | fichas/colegiado/2002-24.md |
+| RJ2002/5813 | 2002-10-29 | nao-provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2002/5813. | cvm-col-20021029-d06 | fichas/colegiado/2002-24.md |
+| RJ2001/4366 | 2002-10-29 | deferido | O Colegiado aprovou o pedido do Banco Bandeirantes S.A. de cancelamento do registro de companhia aberta, acompanhando o voto do… | cvm-col-20021029-d05 | fichas/colegiado/2002-24.md |
+| RJ2002/2714 | 2002-10-29 | — | Pedido de reconsideração de decisão do colegiado. Proc. RJ2002/2714. | cvm-col-20021029-d04 | fichas/colegiado/2002-24.md |
+| RJ2002/2712 | 2002-10-29 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SEP que determinou a republicação das demonstrações financeiras da Celesc… | cvm-col-20021029-d03 | fichas/colegiado/2002-24.md |
+| RJ2001/10680 | 2002-10-29 | nao-provido | O Colegiado negou provimento ao recurso da Gradiente Eletrônica S.A. contra decisão da SEP, mantendo-a, nos termos do voto do… | cvm-col-20021029-d02 | fichas/colegiado/2002-24.md |
+| — | 2002-10-29 | outro | O Colegiado aprovou a minuta de instrução que altera os arts. 35 e 68 da Instrução CVM 302/99, sobre constituição, administração… | cvm-col-20021029-d01 | fichas/colegiado/2002-24.md |
+| RJ2002/2941 | 2002-10-21 | nao-provido | O Colegiado manteve a medida que determinou à Plascar Participações Industriais S.A. permitir o voto dos acionistas preferencialistas na… | cvm-col-20021021-d05 | fichas/colegiado/2002-24.md |
+| RJ2002/2230 | 2002-10-21 | parcial | O Colegiado acompanhou o voto da diretora relatora e reduziu a multa cominatória da SEP de R$60.000,00 para R$6.000,00 (um décimo), por… | cvm-col-20021021-d04 | fichas/colegiado/2002-24.md |
+| — | 2002-10-21 | deferido | O Colegiado autorizou a OPA unificada pelo Banco BEA S.A., formulada pelo Banco Bradesco S.A., com procedimento diferenciado (art. 34 da… | cvm-col-20021021-d03 | fichas/colegiado/2002-24.md |
+| RJ2002/6641 | 2002-10-21 | provido | O Colegiado acompanhou a relatora e deu provimento ao recurso do BB Banco de Investimento contra decisão da SRE que indeferiu registro de… | cvm-col-20021021-d02 | fichas/colegiado/2002-24.md |
+| RJ2002/4932 | 2002-10-21 | provido | O Colegiado acompanhou o voto da Diretora-Relatora e deu provimento a recurso contra decisão da SRE que negou prorrogação de 90 dias para… | cvm-col-20021021-d01 | fichas/colegiado/2002-24.md |
+| RJ2002/7031 | 2002-10-15 | deferido | O Colegiado concedeu prorrogação de 90 dias para cumprimento de exigências no registro de distribuição pública de CRI da Cibrasec, em razão… | cvm-col-20021015-d06 | fichas/colegiado/2002-24.md |
+| RJ2002/6555 | 2002-10-15 | provido | O Colegiado acompanhou o voto do relator e deu provimento ao recurso da Editora Abril contra decisão da SRE sobre 277 debêntures não… | cvm-col-20021015-d05 | fichas/colegiado/2002-24.md |
+| SP2001/0227 | 2002-10-15 | outro | Recurso em processo de fundo de garantia. Proc. SP2001/0227. | cvm-col-20021015-d04 | fichas/colegiado/2002-24.md |
+| RJ2002/2014 | 2002-10-15 | nao-provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2002/2014. | cvm-col-20021015-d03 | fichas/colegiado/2002-24.md |
+| RJ2001/12253 | 2002-10-15 | nao-provido | O Colegiado negou pedido de reconsideração da Newtel Participações contra decisão que reformou decisão da SEP e orientou a companhia a… | cvm-col-20021015-d02 | fichas/colegiado/2002-24.md |
+| RJ2002/0310 | 2002-10-15 | — | Recurso contra decisão da SMI que negou autorização de agente autônomo de investimento por exigir exame de certificação de quem não tinha… | cvm-col-20021015-d01 | fichas/colegiado/2002-23.md |
+| — | 2002-10-10 | outro | O Colegiado aprovou a minuta que delega à SMI competência para suspender a intermediação irregular de valores mobiliários por pessoas não… | cvm-col-20021010-d08 | fichas/colegiado/2002-23.md |
+| RJ2002/4820 | 2002-10-10 | provido | O Colegiado deu provimento ao recurso da Biobrás S.A. contra o indeferimento pela SRE do registro de OPA para cancelamento de registro de… | cvm-col-20021010-d07 | fichas/colegiado/2002-23.md |
+| RJ2002/6067 | 2002-10-10 | nao-provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2002/6067. | cvm-col-20021010-d06 | fichas/colegiado/2002-23.md |
+| RJ2002/2935 | 2002-10-10 | deferido | O Colegiado concedeu autorização excepcional (art. 23 da Instrução CVM 10/80) para a Santista Têxtil vender ações em tesouraria a… | cvm-col-20021010-d05 | fichas/colegiado/2002-23.md |
+| SP2002/0441 | 2002-10-10 | outro | O Colegiado aprovou a minuta referida no título, que determina a suspensão imediata das atividades de intermediação de sete pessoas. O… | cvm-col-20021010-d04 | fichas/colegiado/2002-23.md |
+| SP2001/0204 | 2002-10-10 | outro | O Colegiado aprovou a minuta que determina a suspensão imediata das atividades de intermediação de sete pessoas (proc. SP2001/0204). | cvm-col-20021010-d03 | fichas/colegiado/2002-23.md |
+| — | 2002-10-10 | outro | O Colegiado aprovou a colocação em audiência pública da minuta de instrução sobre a divulgação de outros serviços prestados pelo auditor… | cvm-col-20021010-d02 | fichas/colegiado/2002-23.md |
+| RJ2002/0567 | 2002-10-10 | — | Pedido da Texpar S/A de redução do quórum qualificado para 40% das ações com direito a voto em AGE sobre incorporação pela Nova América… | cvm-col-20021010-d01 | fichas/colegiado/2002-23.md |
+| SP2002/0104 | 2002-10-01 | outro | O Colegiado acompanhou a minuta de deliberação que determina a imediata suspensão das atividades de intermediação de um intermediário e de… | cvm-col-20021001-d06 | fichas/colegiado/2002-23.md |
+| SP2002/0206 | 2002-10-01 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2002/0206. | cvm-col-20021001-d05 | fichas/colegiado/2002-23.md |
+| SP2002/0300 | 2002-10-01 | parcial | Recurso em processo de fundo de garantia. Proc. SP2002/0300. | cvm-col-20021001-d04 | fichas/colegiado/2002-23.md |
+| RJ2002/5554 | 2002-10-01 | nao-provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2002/5554. | cvm-col-20021001-d03 | fichas/colegiado/2002-23.md |
+| RJ2002/5910 | 2002-10-01 | nao-provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2002/5910. | cvm-col-20021001-d02 | fichas/colegiado/2002-23.md |
+| RJ2002/6138 | 2002-10-01 | parcial | O Colegiado acolheu em parte recurso da COPASA contra exigências da SEP para registro de companhia aberta. Entendeu desnecessária a… | cvm-col-20021001-d01 | fichas/colegiado/2002-23.md |
+| — | 2002-09-24 | outro | Minuta de deliberação que dispõe sobre o parcelamento de débitos relativos à taxa de fiscalização, originários de multa aplicada em… | cvm-col-20020924-d06 | fichas/colegiado/2002-22.md |
+| RJ2002/6066 | 2002-09-24 | nao-provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2002/6066. | cvm-col-20020924-d05 | fichas/colegiado/2002-22.md |
+| RJ2002/5895 | 2002-09-24 | deferido | O Colegiado concedeu dispensa de divulgação na imprensa da alienação de ações preferenciais das Lojas Americanas S.A., com base no art. 12… | cvm-col-20020924-d04 | fichas/colegiado/2002-22.md |
+| — | 2002-09-24 | nao-provido | O Colegiado negou provimento a recurso da Forpart S.A. contra decisão da SFI que negou cópia dos autos de inquérito administrativo… | cvm-col-20020924-d03 | fichas/colegiado/2002-22.md |
+| — | 2002-09-24 | outro | O Colegiado aprovou a minuta de deliberação que revoga parcialmente disposições de deliberações anteriores sobre 'stop order' de agentes… | cvm-col-20020924-d02 | fichas/colegiado/2002-22.md |
+| RJ99/0893 | 2002-09-24 | outro | O Colegiado aprovou a minuta de deliberação que determina a imediata suspensão das atividades de intermediação de um intermediário, pessoa… | cvm-col-20020924-d01 | fichas/colegiado/2002-22.md |
+| — | 2002-09-20 | outro | O Colegiado aprovou a Decisão Conjunta CVM/BACEN que revoga o Comunicado-Conjunto 29, de 1990, o qual exigia prévia manifestação do Banco… | cvm-col-20020920-d09 | fichas/colegiado/2002-22.md |
+| RJ2001/10229; RJ2002/1976; RJ2202/1350; RJ2202/2238; RJ2002/2443; RJ2002/1990; RJ2002/2448; RJ2202/2449; RJ2002/2654; RJ2002/2451; RJ2002/2208; RJ2002/2331; RJ2002/2327; RJ2002/2445; RJ2002/2446; RJ2002/2452; RJ2002/2450; RJ2002/2653; RJ2002/2334; RJ2002/2534; RJ2002/2209; RJ2002/2133; RJ2202/2447; RJ2002/2183 | 2002-09-20 | outro | O Colegiado considerou perdido o objeto das reclamações de acionistas minoritários da Telesp Celular Participações S.A. contra o processo… | cvm-col-20020920-d08 | fichas/colegiado/2002-22.md |
+| RJ2002/5085 | 2002-09-20 | outro | O Colegiado aprovou minuta de deliberação que suspende a distribuição pública de ações da Global Nordeste Participações e Investimento… | cvm-col-20020920-d07 | fichas/colegiado/2002-22.md |
+| SP2002/0418 | 2002-09-20 | outro | O Colegiado aprovou a minuta de deliberação que determina a suspensão imediata das atividades de intermediação de duas pessoas físicas. | cvm-col-20020920-d06 | fichas/colegiado/2002-22.md |
+| RJ2002/4628 | 2002-09-20 | nao-provido | Recurso contra a decisão da SIN de aplicação de multa cominatória. Proc. RJ2002/4628. | cvm-col-20020920-d05 | fichas/colegiado/2002-22.md |
+| RJ2002/6273 | 2002-09-20 | provido | O Colegiado proveu recurso da BCP S/A contra decisão da SEP que determinou reapresentar a IAN/2001, em meio eletrônico, com o teor dos… | cvm-col-20020920-d04 | fichas/colegiado/2002-22.md |
+| RJ2002/6083 | 2002-09-20 | indeferido | O Colegiado acompanhou a diretora-relatora e indeferiu pedido de dispensa de divulgação pela imprensa de aquisição de ações preferenciais… | cvm-col-20020920-d03 | fichas/colegiado/2002-22.md |
+| RJ2002/1330 | 2002-09-20 | provido | O Colegiado acatou pedido de reconsideração da Centro Hospitalar Albert Sabin S.A. contra decisão que indeferiu recurso por atraso na 1ª… | cvm-col-20020920-d02 | fichas/colegiado/2002-22.md |
+| — | 2002-09-10 | outro | O Colegiado aprovou, após audiência pública, minuta de instrução que estabelece normas e procedimentos para operações em bolsas e mercados… | cvm-col-20020910-d07 | fichas/colegiado/2002-22.md |
+| RJ2002/6065 | 2002-09-10 | deferido | O Colegiado concedeu dilação de dez dias úteis para a companhia atender ao art. 16 da Instrução CVM 358/02, pedido subsidiário à dispensa… | cvm-col-20020910-d06 | fichas/colegiado/2002-22.md |
+| RJ2002/1973 | 2002-09-10 | nao-provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2002/1973. | cvm-col-20020910-d05 | fichas/colegiado/2002-21.md |
+| RJ2002/2930 | 2002-09-10 | conhecimento | O Colegiado acompanhou o voto do diretor relator e tomou conhecimento da desistência do recurso da Energia Paulista Participações S.A… | cvm-col-20020910-d04 | fichas/colegiado/2002-21.md |
+| RJ2001/8273 | 2002-09-10 | nao-provido | O Colegiado negou provimento ao recurso contra decisão da SMI que indeferiu autorização para agente autônomo de investimento, por não se… | cvm-col-20020910-d03 | fichas/colegiado/2002-21.md |
+| — | 2002-09-10 | outro | O Colegiado manifestou-se favorável às cláusulas do contrato de adesão da Petrobrás ao Nível 2 de Práticas Diferenciadas de Governança… | cvm-col-20020910-d02 | fichas/colegiado/2002-21.md |
+| RJ2002/5124 | 2002-09-10 | parcial | Recurso contra a decisão da SIN de aplicação de multa cominatória. Proc. RJ2002/5124. | cvm-col-20020910-d01 | fichas/colegiado/2002-21.md |
+| RJ2002/4087 | 2002-08-30 | deferido | O Colegiado aprovou pedido de dispensa de OPA por alienação de controle e cancelamento de registro da CONEPAR, pelo art. 34 da Instrução… | cvm-col-20020830-d10 | fichas/colegiado/2002-21.md |
+| RJ2002/4945; RJ2002/4976 | 2002-08-30 | deferido | O Colegiado acompanhou a relatora e concedeu dispensa de divulgação pela imprensa de variações de participação acionária de investidores… | cvm-col-20020830-d09 | fichas/colegiado/2002-21.md |
+| RJ2002/3495 | 2002-08-30 | outro | O Colegiado acompanhou o voto da diretora-relatora em recurso contra decisão da SMI que negou autorização para agente autônomo de… | cvm-col-20020830-d08 | fichas/colegiado/2002-21.md |
+| RJ2001/11505 | 2002-08-30 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SMI que indeferiu autorização para agente autônomo de investimento, por falta de… | cvm-col-20020830-d07 | fichas/colegiado/2002-21.md |
+| RJ2002/5741 | 2002-08-30 | nao-provido | Recurso contra a decisão da SIN de aplicação de multa cominatória. Proc. RJ2002/5741. | cvm-col-20020830-d06 | fichas/colegiado/2002-21.md |
+| RJ2001/0134 | 2002-08-30 | provido | O Colegiado deu provimento ao recurso contra decisão da SIN que cancelou autorização de administrador de carteira por falta de reputação… | cvm-col-20020830-d05 | fichas/colegiado/2002-21.md |
+| RJ2002/2713 | 2002-08-30 | nao-provido | O Colegiado negou provimento ao recurso da AES Tietê S.A. e manteve a determinação da SEP de refazer e republicar as demonstrações de… | cvm-col-20020830-d04 | fichas/colegiado/2002-21.md |
+| — | 2002-08-30 | deferido | O Colegiado aprovou a realização do 3º exame de certificação de agente autônomo de investimento, pela ANCOR com a Fundação Carlos Chagas… | cvm-col-20020830-d03 | fichas/colegiado/2002-21.md |
+| RJ2001/12009 | 2002-08-30 | indeferido | O Colegiado não deferiu o pedido de acionistas minoritários da COSIPA para que a FEMCO realizasse oferta pública de aquisição de ações da… | cvm-col-20020830-d02 | fichas/colegiado/2002-21.md |
+| SP95/0053 | 2002-08-30 | provido | Recurso em processo de fundo de garantia. Proc. SP95/0053. | cvm-col-20020830-d01 | fichas/colegiado/2002-20.md |
+| RJ2002/6137 | 2002-08-27 | indeferido | O Colegiado não acatou o pedido de adiamento da AGE do BESC que previa aumento de capital de até R$381.000.000,00. A proposta já era… | cvm-col-20020827-d01 | fichas/colegiado/2002-20.md |
+| RJ2002/5054 | 2002-08-20 | deferido | O Colegiado aprovou o pedido de dispensa de registro da distribuição pública secundária de ações ordinárias da Nossa Caixa S.A… | cvm-col-20020820-d07 | fichas/colegiado/2002-20.md |
+| RJ2002/5059 | 2002-08-20 | provido | Recurso contra a decisão da SIN de aplicação de multa cominatória. Proc. RJ2002/5059. | cvm-col-20020820-d06 | fichas/colegiado/2002-20.md |
+| RJ2001/5996 | 2002-08-20 | outro | O Colegiado aprovou minuta de Deliberação que determina a suspensão imediata das atividades de intermediação de três pessoas físicas no… | cvm-col-20020820-d05 | fichas/colegiado/2002-20.md |
+| RJ2002/4685 | 2002-08-20 | deferido | O Colegiado aprovou o pedido da Atlântica Empreendimentos Imobiliários S.A. de dispensa de OPA no cancelamento de registro de companhia… | cvm-col-20020820-d04 | fichas/colegiado/2002-20.md |
+| RJ2002/5783 | 2002-08-20 | deferido | O Colegiado prorrogou até 30 de novembro de 2002 o prazo para o Banco J.P. Morgan cumprir exigências do registro de distribuição pública… | cvm-col-20020820-d03 | fichas/colegiado/2002-20.md |
+| RJ2002/0925 | 2002-08-20 | — | Recurso contra decisão da SMI que indeferiu pedido de autorização para exercer a atividade de agente autônomo de investimento (art. 6º da… | cvm-col-20020820-d02 | fichas/colegiado/2002-20.md |
+| RJ2002/0921 | 2002-08-20 | — | Recurso contra decisão da SMI que indeferiu autorização para o exercício da atividade de agente autônomo de investimento (Instrução CVM… | cvm-col-20020820-d01 | fichas/colegiado/2002-20.md |
+| — | 2002-08-14 | outro | O Colegiado aprovou a minuta de instrução sobre critérios de registro e avaliação contábil de títulos e valores mobiliários pelos fundos de… | cvm-col-20020814-d01 | fichas/colegiado/2002-20.md |
+| — | 2002-08-13 | outro | O Colegiado aprovou a minuta de convênio de cooperação técnica entre a CVM e a ANTT para intercâmbio de informações sobre regulação e… | cvm-col-20020813-d08 | fichas/colegiado/2002-20.md |
+| RJ2002/5907 | 2002-08-13 | indeferido | O Colegiado, por maioria, não acatou requerimento de um acionista minoritário para adiar por 30 dias a AGE da Copene Petroquímica do… | cvm-col-20020813-d07 | fichas/colegiado/2002-20.md |
+| — | 2002-08-13 | deferido | O Colegiado autorizou o funcionamento da CentralClearing de Compensação e Liquidação S.A., com as observações da área técnica. A SMI havia… | cvm-col-20020813-d06 | fichas/colegiado/2002-20.md |
+| RJ2002/2608 | 2002-08-13 | outro | Em consulta da FEMCO sobre a compra de ações da COSIPA detidas pelo CIEC, o Colegiado acompanhou o voto do diretor-relator, que não… | cvm-col-20020813-d05 | fichas/colegiado/2002-20.md |
+| RJ2001/2168 | 2002-08-13 | nao-provido | O Colegiado, com exceção do Presidente, que declarou impedimento, acompanhou o voto do diretor relator e indeferiu o pedido de… | cvm-col-20020813-d04 | fichas/colegiado/2002-19.md |
+| RJ2001/3748 | 2002-08-13 | nao-provido | Recurso contra decisão da SGE de cobrança de taxa de fiscalização. Proc. RJ2001/3748. | cvm-col-20020813-d03 | fichas/colegiado/2002-19.md |
+| RJ2001/3749 | 2002-08-13 | nao-provido | Recurso contra decisão da SGE de cobrança de taxa de fiscalização. Proc. RJ2001/3749. | cvm-col-20020813-d02 | fichas/colegiado/2002-19.md |
+| RJ2001/7547 | 2002-08-13 | outro | O Colegiado acompanhou o voto do diretor-relator, proferido na reunião de 16/07/2002, em recurso contra decisão da SEP sobre eleição de… | cvm-col-20020813-d01 | fichas/colegiado/2002-19.md |
+| — | 2002-08-06 | outro | O Colegiado aprovou a minuta de instrução que acrescenta parágrafo único ao art. 4º da Instrução CVM 303/99. | cvm-col-20020806-d04 | fichas/colegiado/2002-19.md |
+| — | 2002-08-06 | outro | O Colegiado aprovou a submissão à audiência pública, por 15 dias, da minuta de instrução que estabelece normas e procedimentos para… | cvm-col-20020806-d03 | fichas/colegiado/2002-19.md |
+| RJ2001/2072 | 2002-08-06 | nao-provido | O Colegiado negou provimento ao recurso da Parcom Participações S.A. contra determinação da SEP de republicar demonstrações financeiras… | cvm-col-20020806-d02 | fichas/colegiado/2002-19.md |
+| RJ2000/3352 | 2002-08-06 | outro | O Colegiado acompanhou o voto do relator, que não viu óbice à incorporação de fundo mútuo de privatização FGTS sem assembleia prévia de… | cvm-col-20020806-d01 | fichas/colegiado/2002-19.md |
+| RJ2002/5635 | 2002-08-05 | indeferido | O Colegiado não acatou o requerimento de fundos de investimento administrados pela GLOBALVEST para interromper por 15 dias o prazo de… | cvm-col-20020805-d01 | fichas/colegiado/2002-19.md |
+| — | 2002-07-29 | provido | O Colegiado acatou integralmente recurso da NET Serviços contra exigências da SEP de alterações estatutárias no registro de distribuição de… | cvm-col-20020729-d07 | fichas/colegiado/2002-19.md |
+| RJ2001/12097 | 2002-07-29 | deferido | O Colegiado deferiu pedido do Citibank, coordenador de debêntures da Gerdau, para alterar o contrato de distribuição: comissão de colocação… | cvm-col-20020729-d06 | fichas/colegiado/2002-19.md |
+| SP2000/0345 | 2002-07-29 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2000/0345. | cvm-col-20020729-d05 | fichas/colegiado/2002-19.md |
+| SP2001/0548 | 2002-07-29 | nao-provido | Recurso contra a decisão da SMI em processo de rito sumário. Proc. SP2001/0548. | cvm-col-20020729-d04 | fichas/colegiado/2002-19.md |
+| RJ2002/4680 | 2002-07-29 | provido | O Colegiado acatou o recurso da Credit Lyonnais S.A. DTVM contra indeferimento da SIN à aquisição, pela DTVM, de cotas de fundos que… | cvm-col-20020729-d03 | fichas/colegiado/2002-18.md |
+| RJ2001/7793 | 2002-07-29 | outro | O Colegiado declarou prejudicada a decisão da SEP que determinou a correção e republicação das demonstrações financeiras de 31/12/2001 da… | cvm-col-20020729-d02 | fichas/colegiado/2002-18.md |
+| RJ2001/4848 | 2002-07-29 | nao-provido | O Colegiado negou provimento a recurso da Vicunha Nordeste contra decisão da SEP que exigiu reapresentação das informações trimestrais de… | cvm-col-20020729-d01 | fichas/colegiado/2002-18.md |
+| — | 2002-07-23 | deferido | O Colegiado aprovou a utilização de plano de estabilização do preço das ações preferenciais da Net Serviços de Comunicação, previsto em… | cvm-col-20020723-d08 | fichas/colegiado/2002-18.md |
+| RJ2001/7058 | 2002-07-23 | parcial | O Colegiado manteve decisão da SEP que acolheu a alegação da Josapar sobre o relatório da administração e, nos demais pontos, exigiu a… | cvm-col-20020723-d07 | fichas/colegiado/2002-18.md |
+| RJ2001/11857 | 2002-07-23 | nao-provido | O Colegiado negou provimento a recurso contra indeferimento pela SIN de credenciamento como administrador de carteira (Instrução CVM… | cvm-col-20020723-d06 | fichas/colegiado/2002-18.md |
+| SP2001/0177 | 2002-07-23 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2001/0177. | cvm-col-20020723-d05 | fichas/colegiado/2002-18.md |
+| RJ2002/4151 | 2002-07-23 | indeferido | O Colegiado não aprovou o pedido de dispensa de OPA por aumento de participação na Tecnos Relógios S.A. (art. 34 da Instrução CVM 361/02)… | cvm-col-20020723-d04 | fichas/colegiado/2002-18.md |
+| RJ2002/4801 | 2002-07-23 | deferido | O Colegiado aprovou pedido de dispensa de documentos da Instrução CVM 88/88 e de participação de instituição financeira na distribuição… | cvm-col-20020723-d03 | fichas/colegiado/2002-18.md |
+| RJ2002/2070 | 2002-07-23 | outro | O Colegiado respondeu à consulta da Bovespa e entendeu que o aumento de capital do Banco do Nordeste do Brasil S.A. por subscrição… | cvm-col-20020723-d02 | fichas/colegiado/2002-18.md |
+| — | 2002-07-23 | deferido | O Colegiado aprovou o pedido do IBGC – Instituto Brasileiro de Governança Corporativa de inclusão de seu endereço eletrônico no website da… | cvm-col-20020723-d01 | fichas/colegiado/2002-18.md |
+| RJ2000/6106 | 2002-07-16 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SIN sobre pedido de prorrogação de um ano para 12 fundos da Lineinvest S.A. DTVM… | cvm-col-20020716-d04 | fichas/colegiado/2002-18.md |
+| RJ2001/9765 | 2002-07-16 | nao-provido | Recurso contra a decisão da SFI de aplicação de multa cominatória. Proc. RJ2001/9765. | cvm-col-20020716-d03 | fichas/colegiado/2002-18.md |
+| RJ2001/7547 | 2002-07-16 | — | Recurso da IKPC - Indústrias Klabin de Papel e Celulose contra decisão da SEP que determinou regularizar em 30 dias a composição do… | cvm-col-20020716-d02 | fichas/colegiado/2002-17.md |
+| RJ99/0893 | 2002-07-16 | outro | Recurso contra a decisão da SMI em processo de fundo de garantia. Proc. RJ99/0893. | cvm-col-20020716-d01 | fichas/colegiado/2002-17.md |
+| RJ2002/0584 | 2002-07-11 | provido | O Colegiado deu provimento a recurso da Suzano Petroquímica contra decisão da SEP que condicionou o registro de companhia aberta (art. 223… | cvm-col-20020711-d02 | fichas/colegiado/2002-17.md |
+| RJ2002/2714 | 2002-07-11 | nao-provido | Recurso contra a decisão da SEP de republicação de demonstrações financeiras. Proc. RJ2002/2714. | cvm-col-20020711-d01 | fichas/colegiado/2002-17.md |
+| RJ2001/3270 | 2002-07-09 | provido | O Colegiado aprovou o voto do relator, que concluiu pela impossibilidade de a CVM exigir alteração estatutária, em recurso contra decisão… | cvm-col-20020709-d12 | fichas/colegiado/2002-17.md |
+| — | 2002-07-09 | outro | A SEP foi autorizada a dispensar a divulgação pela imprensa prevista no § 5º do art. 12 da Instrução CVM 358/2002, que admite a dispensa… | cvm-col-20020709-d11 | fichas/colegiado/2002-17.md |
+| — | 2002-07-09 | outro | O Colegiado aprovou a divulgação, no site da CVM, do indeferimento de pedido de registro de emissão e de oferta pública de aquisição de… | cvm-col-20020709-d10 | fichas/colegiado/2002-17.md |
+| RJ2000/6126 | 2002-07-09 | nao-provido | O Colegiado acompanhou o voto do relator e indeferiu pedido de reconsideração da Interatlântico contra decisão de 2001 que determinou o… | cvm-col-20020709-d09 | fichas/colegiado/2002-17.md |
+| RJ2002/4188 | 2002-07-09 | deferido | O Colegiado deferiu a dispensa de oferta pública de aquisição de ações (OPA) para o cancelamento do registro de companhia aberta da Itaú… | cvm-col-20020709-d08 | fichas/colegiado/2002-17.md |
+| RJ2002/2735 | 2002-07-09 | parcial | Acréscimo de participação acionária. Proc. RJ2002/2735. | cvm-col-20020709-d07 | fichas/colegiado/2002-17.md |
+| SP2002/0021 | 2002-07-09 | nao-provido | Recurso contra a decisão da BOVESPA em processo de fundo de garantia. Proc. SP2002/0021. | cvm-col-20020709-d06 | fichas/colegiado/2002-17.md |
+| SP2001/0754 | 2002-07-09 | provido | Recurso em processo de fundo de garantia. Proc. SP2001/0754. | cvm-col-20020709-d05 | fichas/colegiado/2002-17.md |
+| RJ2002/3243 | 2002-07-09 | nao-provido | O Colegiado negou pedido de reconsideração da Global Brasil Participações S.A. e manteve a suspensão da distribuição pública de suas ações… | cvm-col-20020709-d04 | fichas/colegiado/2002-16.md |
+| SP2002/0109 | 2002-07-09 | provido | Recurso em processo de fundo de garantia. Proc. SP2002/0109. | cvm-col-20020709-d03 | fichas/colegiado/2002-16.md |
+| SP2002/0019 | 2002-07-09 | outro | Recurso em processo de fundo de garantia. Proc. SP2002/0019. | cvm-col-20020709-d02 | fichas/colegiado/2002-16.md |
+| RJ2001/12253 | 2002-07-09 | provido | O Colegiado deu provimento a recurso de conselheiro fiscal da Newtel Participações S.A. contra orientação da SEP, que deve ser revista para… | cvm-col-20020709-d01 | fichas/colegiado/2002-16.md |
+| — | 2002-07-03 | outro | O Colegiado aprovou minuta de convênio entre a CVM e o Banco Central para intercâmbio de informações e atividades correlatas, com reuniões… | cvm-col-20020703-d12 | fichas/colegiado/2002-16.md |
+| — | 2002-07-03 | deferido | O Colegiado acatou o pedido da Cia. Brasileira de Alumínio, via Banco Itaú, de OPA por procedimento diferenciado (art. 34 da Instrução CVM… | cvm-col-20020703-d11 | fichas/colegiado/2002-16.md |
+| RJ2002/4174 | 2002-07-03 | deferido | O Colegiado acatou pedido de dispensa de divulgar, no anúncio de início, quantidades alocadas, preço e informações decorrentes na… | cvm-col-20020703-d10 | fichas/colegiado/2002-16.md |
+| RJ2002/1679 | 2002-07-03 | provido | O Colegiado deu provimento ao recurso contra decisão da SRE e aprovou o procedimento de aquisição das ações dos minoritários proposto pela… | cvm-col-20020703-d09 | fichas/colegiado/2002-16.md |
+| RJ2002/1035 | 2002-07-03 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SRE que negou vista de documentos de oferta pública de permuta de ações da Telesp… | cvm-col-20020703-d08 | fichas/colegiado/2002-16.md |
+| RJ2002/0339 | 2002-07-03 | outro | O Colegiado aprovou minuta de deliberação que determina a imediata suspensão das atividades de intermediação da Plataforma Assessoria &… | cvm-col-20020703-d07 | fichas/colegiado/2002-16.md |
+| RJ2000/2075 | 2002-07-03 | nao-provido | Recurso em processo de fundo de garantia. Proc. RJ2000/2075. | cvm-col-20020703-d06 | fichas/colegiado/2002-16.md |
+| SP2001/0274 | 2002-07-03 | parcial | O Colegiado acompanhou o voto do relator, que acolheu em parte pedido de reconsideração da BVRJ: corrigiu para 94.000 os recibos Telebrás a… | cvm-col-20020703-d05 | fichas/colegiado/2002-15.md |
+| RJ2001/12305 | 2002-07-03 | nao-provido | O Colegiado manteve, em pedido de reconsideração da Fama Investimentos, a multa cominatória de R$ 12.000,00 pela falta de parecer de… | cvm-col-20020703-d04 | fichas/colegiado/2002-15.md |
+| RJ2001/5619 | 2002-07-03 | outro | O Colegiado considerou prejudicado recurso da Cemat contra determinação da SEP de republicar demonstrações de 31.12.2000 com estorno de… | cvm-col-20020703-d03 | fichas/colegiado/2002-15.md |
+| RJ2000/5852 | 2002-07-03 | nao-provido | Recurso contra a decisão da SMI de aplicação de multa cominatória. Proc. RJ2000/5852. | cvm-col-20020703-d02 | fichas/colegiado/2002-15.md |
+| SP2001/0074 | 2002-07-03 | parcial | Recurso contra a decisão da SMI de ajustes nos demonstrativos financeiros e no fundo de garantia. Proc. SP2001/0074. | cvm-col-20020703-d01 | fichas/colegiado/2002-15.md |
+| — | 2002-06-27 | outro | O Colegiado aprovou minuta de instrução que dispõe sobre o adiamento de assembleia geral e a interrupção da fluência do prazo de sua… | cvm-col-20020627-d02 | fichas/colegiado/2002-15.md |
+| — | 2002-06-27 | outro | O Colegiado aprovou a minuta de edital para audiência pública, pelo prazo de 30 dias, sobre operações de companhias abertas com opções de… | cvm-col-20020627-d01 | fichas/colegiado/2002-15.md |
+| — | 2002-06-25 | outro | O Colegiado aprovou a Decisão Conjunta CVM/BCB que prorroga por trinta dias o prazo de grupo de trabalho para elaborar minuta de convênio… | cvm-col-20020625-d08 | fichas/colegiado/2002-15.md |
+| RJ2002/4466 | 2002-06-25 | deferido | O Colegiado aprovou o pedido de dispensa de realização de OPA no cancelamento de registro da Playcenter S.A. Segundo a área técnica, a… | cvm-col-20020625-d07 | fichas/colegiado/2002-15.md |
+| RJ2001/11249 | 2002-06-25 | nao-provido | O Colegiado negou provimento a recurso da Hedging-Griffo contra decisão da SEP sobre a incorporação da Antarctica Nordeste pela AmBev, em… | cvm-col-20020625-d06 | fichas/colegiado/2002-15.md |
+| SP2001/0279 | 2002-06-25 | nao-provido | Recurso de decisão de fundo de garantia. Proc. SP2001/0279. | cvm-col-20020625-d05 | fichas/colegiado/2002-15.md |
+| SP2001/0803 | 2002-06-25 | nao-provido | Recurso de decisão de fundo de garantia. Proc. SP2001/0803. | cvm-col-20020625-d04 | fichas/colegiado/2002-15.md |
+| RJ2000/4473; RJ2000/4079 | 2002-06-25 | outro | O Colegiado, com um impedimento, acompanhou o relator sobre proposta de abertura de inquérito administrativo relativa à reestruturação… | cvm-col-20020625-d03 | fichas/colegiado/2002-15.md |
+| — | 2002-06-25 | outro | O Colegiado aprovou a minuta de deliberação que altera a estrutura organizacional da CVM no que concerne à SDM. | cvm-col-20020625-d02 | fichas/colegiado/2002-15.md |
+| SP2001/0291 | 2002-06-25 | nao-provido | Recurso contra a decisão da SMI em processo de fundo de garantia. Proc. SP2001/0291. | cvm-col-20020625-d01 | fichas/colegiado/2002-14.md |
+| RJ2002/3748 | 2002-06-21 | deferido | O Colegiado deferiu o registro da distribuição pública de certificado a termo de energia elétrica da CESP, embora a SRE não pudesse fazê-lo… | cvm-col-20020621-d01 | fichas/colegiado/2002-14.md |
+| — | 2002-06-18 | outro | O Colegiado aprovou minuta de instrução que altera as Instruções CVM nº 13, 88 e 286. | cvm-col-20020618-d16 | fichas/colegiado/2002-14.md |
+| — | 2002-06-18 | outro | O Colegiado aprovou a minuta de Instrução que altera o art. 4º e revoga o art. 12 da Instrução CVM 202/93, apresentada pela… | cvm-col-20020618-d15 | fichas/colegiado/2002-14.md |
+| RJ2002/3869 | 2002-06-18 | deferido | O Colegiado deferiu o pedido de registro de companhia aberta, sem emissão de valores mobiliários, da holding AES Elpa S.A., controladora da… | cvm-col-20020618-d14 | fichas/colegiado/2002-14.md |
+| RJ2002/2758 | 2002-06-18 | nao-provido | Recurso contra a decisão da SRE de aplicação de multa cominatória. Proc. RJ2002/2758. | cvm-col-20020618-d13 | fichas/colegiado/2002-14.md |
+| RJ2002/1759 | 2002-06-18 | outro | O Colegiado não exigiu prospecto na oferta de permuta da Suzano por ações da Bahia Sul, por não caber nova exigência. Não vê óbice à… | cvm-col-20020618-d12 | fichas/colegiado/2002-14.md |
+| RJ2001/100519 | 2002-06-18 | nao-provido | O Colegiado negou o pedido de reconsideração de decisão anterior e manteve a multa de R$ 3.000,00 aplicada pela SNC por falta das… | cvm-col-20020618-d11 | fichas/colegiado/2002-14.md |
+| RJ2001/9819 | 2002-06-18 | nao-provido | O Colegiado manteve multa cominatória de R$2.898,00 por atraso na apresentação das Informações Periódicas de 2001 (IN CVM 308/99, arts. 16… | cvm-col-20020618-d10 | fichas/colegiado/2002-14.md |
+| SP2002/0215 | 2002-06-18 | outro | O Colegiado aprovou minutas de deliberações que determinam a imediata suspensão das atividades de intermediação de quatro pessoas físicas. | cvm-col-20020618-d09 | fichas/colegiado/2002-14.md |
+| SP2002/0011 | 2002-06-18 | provido | Recurso em processo de fundo de garantia. Proc. SP2002/0011. | cvm-col-20020618-d08 | fichas/colegiado/2002-14.md |
+| RJ2002/3923 | 2002-06-18 | nao-provido | Recurso contra a decisão da SIN de aplicação de multa cominatória. Proc. RJ2002/3923. | cvm-col-20020618-d07 | fichas/colegiado/2002-14.md |
+| RJ2002/2710 | 2002-06-18 | nao-provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2002/2710. | cvm-col-20020618-d06 | fichas/colegiado/2002-14.md |
+| SP2002/0074 | 2002-06-18 | nao-provido | Recurso contra a decisão da bvrj em processo de fundo de garantia. Proc. SP2002/0074. | cvm-col-20020618-d05 | fichas/colegiado/2002-14.md |
+| SP2001/0296 | 2002-06-18 | provido | Recurso contra a decisão da SMI em processo de fundo de garantia. Proc. SP2001/0296. | cvm-col-20020618-d04 | fichas/colegiado/2002-14.md |
+| SP2001/0787 | 2002-06-18 | nao-provido | Recurso contra a decisão da SMI em processo de fundo de garantia. Proc. SP2001/0787. | cvm-col-20020618-d03 | fichas/colegiado/2002-14.md |
+| SP2001/0295 | 2002-06-18 | nao-provido | Recurso contra a decisão da SMI em processo de fundo de garantia. Proc. SP2001/0295. | cvm-col-20020618-d02 | fichas/colegiado/2002-14.md |
+| SP2001/0282 | 2002-06-18 | parcial | Recurso contra a decisão da SMI em processo de fundo de garantia. Proc. SP2001/0282. | cvm-col-20020618-d01 | fichas/colegiado/2002-13.md |
+| — | 2002-06-11 | deferido | O Colegiado autorizou a ANBID a realizar, até 31.12.2002, exame de certificação previsto no art. 2º, I, da Resolução CMN nº 2.838/2001… | cvm-col-20020611-d13 | fichas/colegiado/2002-13.md |
+| RJ2000/3526 | 2002-06-11 | nao-provido | Recurso contra a decisão da SIN de aplicação de multa cominatória. Proc. RJ2000/3526. | cvm-col-20020611-d12 | fichas/colegiado/2002-13.md |
+| SP2001/0806 | 2002-06-11 | deferido | Pedido de retificação de voto em processo de fundo de garantia. Proc. SP2001/0806. | cvm-col-20020611-d11 | fichas/colegiado/2002-13.md |
+| RJ2001/11675 | 2002-06-11 | provido | O Colegiado, acompanhando a relatora e a PJU, revogou a exigência de pagamento de anuidades do RGA, extinto, imposta ao agente autônomo em… | cvm-col-20020611-d10 | fichas/colegiado/2002-13.md |
+| SP2001/0300 | 2002-06-11 | nao-provido | Recurso contra a decisão da SMI em processo de fundo de garantia. Proc. SP2001/0300. | cvm-col-20020611-d09 | fichas/colegiado/2002-13.md |
+| SP2001/0299 | 2002-06-11 | provido | Recurso contra a decisão da SMI em processo de fundo de garantia. Proc. SP2001/0299. | cvm-col-20020611-d08 | fichas/colegiado/2002-13.md |
+| SP2001/0297 | 2002-06-11 | nao-provido | Recurso contra a decisão da SMI em processo de fundo de garantia. Proc. SP2001/0297. | cvm-col-20020611-d07 | fichas/colegiado/2002-13.md |
+| SP2001/0276 | 2002-06-11 | nao-provido | Recurso contra a decisão da SMI em processo de fundo de garantia. Proc. SP2001/0276. | cvm-col-20020611-d06 | fichas/colegiado/2002-13.md |
+| RJ2001/9445 | 2002-06-11 | outro | O Colegiado acompanhou o voto da relatora e determinou a constituição de grupo de trabalho, pela Superintendência Geral, para estudar a… | cvm-col-20020611-d05 | fichas/colegiado/2002-13.md |
+| RJ98/1971 | 2002-06-11 | outro | Minuta de deliberação que determina a imediata suspensão das atividades de intermediação de josé ricardo cordeiro, maria silvia nunes barja… | cvm-col-20020611-d04 | fichas/colegiado/2002-13.md |
+| RJ2001/9297 | 2002-06-11 | nao-provido | O Colegiado manteve multa cominatória de R$3.000,00 aplicada pela SNC a auditor independente pessoa física por não apresentar as… | cvm-col-20020611-d03 | fichas/colegiado/2002-13.md |
+| — | 2002-06-11 | outro | O Colegiado aprovou minuta de Instrução que dá nova redação aos arts. 9º, 12 e 13 da Instrução CVM 358/02 e prorroga os prazos previstos… | cvm-col-20020611-d02 | fichas/colegiado/2002-13.md |
+| — | 2002-06-11 | outro | O Colegiado aprovou a colocação em audiência pública, até 15.07.2002, da minuta de Instrução que aprova o regulamento do processo… | cvm-col-20020611-d01 | fichas/colegiado/2002-13.md |
+| RJ2002/2955 | 2002-06-04 | indeferido | O Colegiado não concedeu dispensa de registro de distribuição secundária de ações do Banco do Estado do Maranhão S.A. – BEM. Determinou que… | cvm-col-20020604-d02 | fichas/colegiado/2002-12.md |
+| — | 2002-06-04 | outro | O Colegiado aprovou minuta de manual da AMBEV, com impedimento declarado por um diretor. | cvm-col-20020604-d01 | fichas/colegiado/2002-12.md |
+| — | 2002-05-29 | outro | O Colegiado aprovou a minuta de Instrução que dispõe sobre o termo de posse de membro do conselho de administração de companhia aberta… | cvm-col-20020529-d09 | fichas/colegiado/2002-12.md |
+| — | 2002-05-29 | outro | O Colegiado aprovou a minuta de Instrução que altera o caput do art. 21 da Instrução CVM 355. | cvm-col-20020529-d08 | fichas/colegiado/2002-12.md |
+| — | 2002-05-29 | outro | O Colegiado aprovou a minuta de cartilha com recomendações de governança corporativa. O regime 'pratique ou explique' é facultativo: a… | cvm-col-20020529-d07 | fichas/colegiado/2002-12.md |
+| RJ2002/3572 | 2002-05-29 | — | Reclamação de investidor da Autel Telecomunicações S.A. para interromper ou suspender o prazo de convocação da AGO/AGE agendada para… | cvm-col-20020529-d06 | fichas/colegiado/2002-12.md |
+| RJ2000/1520 | 2002-05-29 | nao-provido | Recurso contra a decisão da SIN de aplicação de multa cominatória. Proc. RJ2000/1520. | cvm-col-20020529-d05 | fichas/colegiado/2002-12.md |
+| — | 2002-05-29 | outro | O Colegiado aprovou a alteração da Instrução CVM 209/94, que dispõe sobre a constituição, o funcionamento e a administração dos fundos de… | cvm-col-20020529-d04 | fichas/colegiado/2002-12.md |
+| SP2002/0103 | 2002-05-29 | provido | Recurso contra a decisão da bvrj em processo de fundo de garantia. Proc. SP2002/0103. | cvm-col-20020529-d03 | fichas/colegiado/2002-12.md |
+| RJ2001/4771 | 2002-05-29 | nao-provido | Recurso contra a decisão da BOVESPA em processo de fundo de garantia. Proc. RJ2001/4771. | cvm-col-20020529-d02 | fichas/colegiado/2002-12.md |
+| — | 2002-05-29 | nao-provido | Recurso contra a decisão da SMI em processo de fundo de garantia. | cvm-col-20020529-d01 | fichas/colegiado/2002-12.md |
+| SP2002/0016 | 2002-05-21 | nao-provido | Recurso contra a decisão da BOVESPA em processo de fundo de garantia. Proc. SP2002/0016. | cvm-col-20020521-d03 | fichas/colegiado/2002-12.md |
+| RJ2002/2004 | 2002-05-21 | outro | O Colegiado aprovou o descredenciamento da Bolsa de Valores de Santos, incorporada pela Bovespa. Segundo a SMI, em concordância com a GME… | cvm-col-20020521-d02 | fichas/colegiado/2002-12.md |
+| RJ2002/2057 | 2002-05-21 | indeferido | O Colegiado indeferiu pedido de dispensa de publicação da aquisição indireta de 37,1% do controle acionário da Docas Investimentos S.A… | cvm-col-20020521-d01 | fichas/colegiado/2002-12.md |
+| RJ2002/01330 | 2002-05-14 | nao-provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2002/01330. | cvm-col-20020514-d15 | fichas/colegiado/2002-12.md |
+| RJ2002/01373 | 2002-05-14 | nao-provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2002/01373. | cvm-col-20020514-d14 | fichas/colegiado/2002-12.md |
+| RJ2001/9877 | 2002-05-14 | deferido | O Colegiado acompanhou o voto do relator, que considerou viável a reorganização de fundos de ações do Bradesco/BRAM por integralização de… | cvm-col-20020514-d13 | fichas/colegiado/2002-11.md |
+| RJ2002/00359 | 2002-05-14 | nao-provido | Recurso contra a decisão da SIN de aplicação de multa cominatória. Proc. RJ2002/00359. | cvm-col-20020514-d12 | fichas/colegiado/2002-11.md |
+| RJ2002/00034 | 2002-05-14 | nao-provido | Recurso contra a decisão da SIN de aplicação de multa cominatória. Proc. RJ2002/00034. | cvm-col-20020514-d11 | fichas/colegiado/2002-11.md |
+| RJ2001/3241 | 2002-05-14 | provido | Recurso contra a decisão da SIN de aplicação de multa cominatória. Proc. RJ2001/3241. | cvm-col-20020514-d10 | fichas/colegiado/2002-11.md |
+| SP2001/0237; SP2001/0269; SP2001/0271; SP2001/0272; SP2001/0438 | 2002-05-14 | outro | Minuta de ofício à bolsa do rio em relação ao fundo de garantia. Proc. s. SP2001/0237, SP2001/0269, SP2001/0271, SP2001/0272 e SP2001/0438. | cvm-col-20020514-d09 | fichas/colegiado/2002-11.md |
+| SP2002/0073 | 2002-05-14 | provido | Recurso contra a decisão da SMI em processo de fundo de garantia. Proc. SP2002/0073. | cvm-col-20020514-d08 | fichas/colegiado/2002-11.md |
+| SP99/0058 | 2002-05-14 | nao-provido | Recurso contra a decisão da SMI em processo de fundo de garantia. Proc. SP99/0058. | cvm-col-20020514-d07 | fichas/colegiado/2002-11.md |
+| RJ1999/0113 | 2002-05-14 | outro | O Colegiado aprovou a minuta de deliberação que determina a suspensão imediata das atividades de intermediação de pessoas físicas. Os… | cvm-col-20020514-d06 | fichas/colegiado/2002-11.md |
+| RJ2002/2415 | 2002-05-14 | — | Recurso contra decisão da SMI que determinou a convocação de assembleia da Bolsa de Valores da Bahia - Sergipe - Alagoas em 3 dias. A… | cvm-col-20020514-d05 | fichas/colegiado/2002-11.md |
+| SP2001/0437 | 2002-05-14 | outro | Recurso contra a decisão da SMI em processo de fundo de garantia. Proc. SP2001/0437. | cvm-col-20020514-d04 | fichas/colegiado/2002-11.md |
+| — | 2002-05-14 | outro | O Colegiado aprovou a minuta de Instrução sobre o registro contábil do ativo fiscal diferido decorrente de prejuízos fiscais e base… | cvm-col-20020514-d03 | fichas/colegiado/2002-11.md |
+| RJ2002/2118 | 2002-05-14 | nao-provido | Recurso contra a decisão da SNC de aplicação de multa cominatória. Proc. RJ2002/2118. | cvm-col-20020514-d02 | fichas/colegiado/2002-11.md |
+| RJ2001/1981 | 2002-05-14 | outro | O Colegiado acompanhou o voto que respondeu consulta da WT Administradora sobre CRIs lastreados em aluguéis de galpões industriais… | cvm-col-20020514-d01 | fichas/colegiado/2002-11.md |
+| RJ2002/2854 | 2002-05-10 | — | Pedido de interrupção, por 15 dias, do prazo de antecedência da convocação da AGE da São Paulo Alpargatas S.A., formulado por fundos de… | cvm-col-20020510-d01 | fichas/colegiado/2002-11.md |
+| RJ2002/2193 | 2002-05-07 | nao-provido | Recurso contra a decisão da SIN de aplicação de multa cominatória. Proc. RJ2002/2193. | cvm-col-20020507-d07 | fichas/colegiado/2002-10.md |
+| — | 2002-05-07 | outro | O Colegiado aprovou a alteração da Instrução CVM 306/99, que dispõe sobre a administração de carteira de valores mobiliários, após… | cvm-col-20020507-d06 | fichas/colegiado/2002-10.md |
+| SP2000/0408 | 2002-05-07 | nao-provido | Recurso contra a decisão da SMI em processo de fundo de garantia. Proc. SP2000/0408. | cvm-col-20020507-d05 | fichas/colegiado/2002-10.md |
+| 413/2001; RJ1999/6147 | 2002-05-07 | outro | O Colegiado aprovou minuta de deliberação que rerratifica o texto da Deliberação CVM nº 413/2001 para excluir o nome de um interessado. | cvm-col-20020507-d04 | fichas/colegiado/2002-10.md |
+| 397/2001; SP2001/0719 | 2002-05-07 | outro | O Colegiado aprovou minuta de deliberação que altera o item I da Deliberação CVM 397/2001. | cvm-col-20020507-d03 | fichas/colegiado/2002-10.md |
+| RJ2002/2883 | 2002-05-07 | outro | O Colegiado considerou esclarecida a questão que motivou a interrupção do prazo de convocação da AGE de 24/04/2002 da Siderúrgica J.L… | cvm-col-20020507-d02 | fichas/colegiado/2002-10.md |
+| SP2000/0389 | 2002-05-07 | nao-provido | O Colegiado negou provimento ao recurso da Tulipas contra decisão da SEP que deferiu o cancelamento de registro da CATA, mantendo o… | cvm-col-20020507-d01 | fichas/colegiado/2002-10.md |
+| 84/2002 | 2002-04-30 | deferido | O Colegiado acatou pedido de dispensa de dispositivos da Instrução CVM 13/80 para a distribuição pública de ações preferenciais da Sanepar… | cvm-col-20020430-d08 | fichas/colegiado/2002-10.md |
+| 85/2002 | 2002-04-30 | deferido | O Colegiado deferiu o pedido da Telemar Participações S.A. para iniciar a distribuição pública da 3ª emissão de debêntures já na primeira… | cvm-col-20020430-d07 | fichas/colegiado/2002-10.md |
+| 15/2002 | 2002-04-30 | outro | O Colegiado aprovou a minuta de deliberação que altera a estrutura organizacional da CVM no que concerne à SDM (Memo/SDM nº 15/2002). | cvm-col-20020430-d06 | fichas/colegiado/2002-10.md |
+| RJ2002/2105 | 2002-04-30 | provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2002/2105. | cvm-col-20020430-d05 | fichas/colegiado/2002-10.md |
+| RJ2002/2231 | 2002-04-30 | nao-provido | Recurso contra decisão da SEP de aplicação de multa cominatória. Proc. RJ2002/2231. | cvm-col-20020430-d04 | fichas/colegiado/2002-10.md |
+| SP2001/61 | 2002-04-30 | outro | O Colegiado aprovou a minuta de deliberação que determina a suspensão imediata das atividades de intermediação de duas pessoas físicas. | cvm-col-20020430-d03 | fichas/colegiado/2002-10.md |
+| — | 2002-04-30 | outro | O Colegiado aprovou a Decisão Conjunta CVM/BCB que mantém, até a CVM disponibilizar sistema próprio, o uso pelas bolsas, entidades de… | cvm-col-20020430-d02 | fichas/colegiado/2002-10.md |
+| RJ2001/12308 | 2002-04-30 | provido | O Colegiado deu provimento ao recurso da Cerjen Natal S.A. para reformar decisão da SEP que indeferiu preliminarmente seu pedido de… | cvm-col-20020430-d01 | fichas/colegiado/2002-10.md |
+| RJ2002/2941 | 2002-04-26 | deferido | O Colegiado, em exame preliminar, acatou o pedido de acionistas preferencialistas (24,5% do capital) de votarem na AGO de 29.04.2002, por… | cvm-col-20020426-d12 | fichas/colegiado/2002-10.md |
+| — | 2002-04-26 | outro | O Colegiado aprovou a alteração da Instrução CVM nº 302/99 (fundos de investimento), proposta pela SIN, e aprovou a submissão dela à… | cvm-col-20020426-d11 | fichas/colegiado/2002-10.md |
+| RJ2001/2093 | 2002-04-26 | provido | O Colegiado deu provimento a recurso da Casas Sendas Comércio e Indústria S/A contra decisão da SEP que desconsiderou pedido de registro de… | cvm-col-20020426-d10 | fichas/colegiado/2002-10.md |
+| SP2000/0314 | 2002-04-26 | outro | O Colegiado aprovou minuta de deliberação que determina a suspensão imediata das atividades de intermediação de uma pessoa física. | cvm-col-20020426-d09 | fichas/colegiado/2002-09.md |
+| SP2001/0439 | 2002-04-26 | nao-provido | Recurso contra a decisão da SMI em processo de fundo de garantia. Proc. SP2001/0439. | cvm-col-20020426-d08 | fichas/colegiado/2002-09.md |
+| RJ2000/0250 | 2002-04-26 | indeferido | Suspensão de prazo fixado pela SMI para o cumprimento de decisão do colegiado em processo de fundo de garantia. Proc. RJ2000/0250. | cvm-col-20020426-d07 | fichas/colegiado/2002-09.md |
+| RJ2002/2230 | 2002-04-26 | nao-provido | Recurso contra decisão da SEP de aplicação de multa cominatória. Proc. RJ2002/2230. | cvm-col-20020426-d06 | fichas/colegiado/2002-09.md |
+| RJ2001/12367 | 2002-04-26 | provido | O Colegiado, por maioria, deu provimento ao recurso da Livraria do Globo S.A. contra decisão da SEP que determinou alteração de reserva… | cvm-col-20020426-d05 | fichas/colegiado/2002-09.md |
+| RJ2001/12242 | 2002-04-26 | outro | O Colegiado acompanhou o relator em consulta da SEP sobre o art. 15, § 2º, da Lei 6.404/76, com a redação da Lei 10.303/2001, aplicado a… | cvm-col-20020426-d04 | fichas/colegiado/2002-09.md |
+| RJ2002/1974 | 2002-04-26 | nao-provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2002/1974. | cvm-col-20020426-d03 | fichas/colegiado/2002-09.md |
+| RJ2002/2196 | 2002-04-26 | provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2002/2196. | cvm-col-20020426-d02 | fichas/colegiado/2002-09.md |
+| RJ2002/2013 | 2002-04-26 | nao-provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2002/2013. | cvm-col-20020426-d01 | fichas/colegiado/2002-09.md |
+| RJ2002/2883 | 2002-04-22 | parcial | O Colegiado indeferiu os pedidos de adiamento da AGO e de esclarecimentos sobre balanço e notas explicativas (alíneas b e c). Quanto à… | cvm-col-20020422-d02 | fichas/colegiado/2002-09.md |
+| RJ2002/2854 | 2002-04-22 | deferido | O Colegiado acatou o requerimento de acionistas (fundos Dynamo) e interrompeu por 15 dias o curso do prazo de convocação da AGE da São… | cvm-col-20020422-d01 | fichas/colegiado/2002-09.md |
+| — | 2002-04-16 | outro | O Colegiado acompanhou o voto que respondeu consulta da Ultrapar sobre eleição de conselheiros após a Lei 10.303/01 (art. 141 da Lei… | cvm-col-20020416-d10 | fichas/colegiado/2002-09.md |
+| RJ2000/5369 | 2002-04-16 | deferido | O Colegiado acolheu na íntegra a consulta da Ambev. Autorizou aquisição privada de ações de beneficiários decorrentes de preferência ou… | cvm-col-20020416-d09 | fichas/colegiado/2002-09.md |
+| RJ2002/12307 | 2002-04-16 | nao-provido | Recurso contra a decisão da SIN de aplicação de multa cominatória. Proc. RJ2002/12307. | cvm-col-20020416-d08 | fichas/colegiado/2002-08.md |
+| RJ2002/0361 | 2002-04-16 | parcial | Recurso contra a decisão da SIN de aplicação de multa cominatória. Proc. RJ2002/0361. | cvm-col-20020416-d07 | fichas/colegiado/2002-08.md |
+| RJ2000/5852 | 2002-04-16 | outro | Minuta de deliberação que determina a imediata suspensão das atividades de intermediação da BCB capital intermediação de negócios s/c… | cvm-col-20020416-d06 | fichas/colegiado/2002-08.md |
+| RJ2002/1342 | 2002-04-16 | nao-provido | O Colegiado negou provimento ao recurso e manteve decisão da SMI que negou autorização para exercer a atividade de agente autônomo de… | cvm-col-20020416-d05 | fichas/colegiado/2002-08.md |
+| SP2001/0806 | 2002-04-16 | nao-provido | Recurso contra a decisão da SMI em processo de fundo de garantia. Proc. SP2001/0806. | cvm-col-20020416-d04 | fichas/colegiado/2002-08.md |
+| SP2001/0281 | 2002-04-16 | nao-provido | Recurso contra a decisão da SMI em processo de fundo de garantia. Proc. SP2001/0281. | cvm-col-20020416-d03 | fichas/colegiado/2002-08.md |
+| SP2001/0275 | 2002-04-16 | nao-provido | Recurso contra decisão da SMI em processo de fundo de garantia. Proc. SP2001/0275. | cvm-col-20020416-d02 | fichas/colegiado/2002-08.md |
+| SP2001/0270 | 2002-04-16 | nao-provido | Recurso contra decisão da SMI em processo de fundo de garantia. Proc. SP2001/0270. | cvm-col-20020416-d01 | fichas/colegiado/2002-08.md |
+| RJ2002/175 | 2002-04-10 | parcial | O Colegiado autorizou o Banco Itaú a realizar a OPA do BEG por procedimento diferenciado, com leilão em 15 dias e sem revisão de preço (Lei… | cvm-col-20020410-d13 | fichas/colegiado/2002-08.md |
+| — | 2002-04-10 | deferido | O Colegiado deferiu o pedido de prorrogação por mais 30 dias, a contar de 02.04.2002, para cumprimento de exigências na emissão pública de… | cvm-col-20020410-d12 | fichas/colegiado/2002-08.md |
+| RJ2002/1956 | 2002-04-10 | nao-provido | Recurso contra a decisão da SNC de aplicação de multa cominatória. Proc. RJ2002/1956. | cvm-col-20020410-d11 | fichas/colegiado/2002-08.md |
+| RJ2001/0811 | 2002-04-10 | outro | O Colegiado acompanhou as minutas de deliberação que determinam a suspensão imediata das atividades de intermediação de oito pessoas… | cvm-col-20020410-d10 | fichas/colegiado/2002-08.md |
+| RJ2001/12016 | 2002-04-10 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SMI que negou autorização de agente autônomo, acompanhando o relator. Para… | cvm-col-20020410-d09 | fichas/colegiado/2002-08.md |
+| SP2001/0278 | 2002-04-10 | nao-provido | Recurso contra a decisão da SMI em processo de fundo de garantia. Proc. SP2001/0278. | cvm-col-20020410-d08 | fichas/colegiado/2002-07.md |
+| SP2001/0274 | 2002-04-10 | nao-provido | Recurso contra a decisão da SMI em processo de fundo de garantia. Proc. SP2001/0274. | cvm-col-20020410-d07 | fichas/colegiado/2002-07.md |
+| SP2001/0086 | 2002-04-10 | nao-provido | Recurso contra a decisão da SMI em processo de fundo de garantia. Proc. SP2001/0086. | cvm-col-20020410-d06 | fichas/colegiado/2002-07.md |
+| RJ2001/2166 | 2002-04-10 | parcial | O Colegiado deu provimento parcial a recurso de conselheiro fiscal contra decisão da SEP: negou a antecipação da convocação do conselho… | cvm-col-20020410-d05 | fichas/colegiado/2002-07.md |
+| RJ2002/1343 | 2002-04-10 | nao-provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2002/1343. | cvm-col-20020410-d04 | fichas/colegiado/2002-07.md |
+| RJ2002/1328 | 2002-04-10 | provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2002/1328. | cvm-col-20020410-d03 | fichas/colegiado/2002-07.md |
+| RJ2002/1329 | 2002-04-10 | provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2002/1329. | cvm-col-20020410-d02 | fichas/colegiado/2002-07.md |
+| RJ2001/11285 | 2002-04-10 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SMI que indeferiu registro de agente autônomo, acompanhando o relator. A… | cvm-col-20020410-d01 | fichas/colegiado/2002-07.md |
+| — | 2002-04-02 | outro | O Colegiado aprovou a minuta de Instrução que altera a Instrução CVM 209, sobre a constituição, o funcionamento e a administração de fundos… | cvm-col-20020402-d05 | fichas/colegiado/2002-07.md |
+| RJ2001/10308 | 2002-04-02 | provido | O Colegiado deu provimento ao recurso da Companhia Energética de Brasília contra determinação da SEP de republicar demonstrações de 2000… | cvm-col-20020402-d04 | fichas/colegiado/2002-07.md |
+| RJ2002/0372 | 2002-04-02 | nao-provido | Recurso contra a decisão da SIN de aplicação de multa cominatória. Proc. RJ2002/0372. | cvm-col-20020402-d03 | fichas/colegiado/2002-07.md |
+| RJ2002/0025 | 2002-04-02 | nao-provido | Recurso contra a decisão da SIN de aplicação de multa cominatória. Proc. RJ2002/0025. | cvm-col-20020402-d02 | fichas/colegiado/2002-07.md |
+| RJ2001/11112 | 2002-04-02 | nao-provido | O Colegiado acompanhou o voto do diretor-relator e negou provimento ao recurso da Bolsa de Valores de São Paulo contra entendimento da SIN… | cvm-col-20020402-d01 | fichas/colegiado/2002-06.md |
+| RJ2001/10773 | 2002-03-28 | provido | O Colegiado acompanhou o voto do relator, que acolheu em parte recurso contra determinação da SEP de republicar demonstrações de 2000. O… | cvm-col-20020328-d05 | fichas/colegiado/2002-06.md |
+| — | 2002-03-28 | outro | O Colegiado aprovou a minuta de comunicado ao público sobre a instauração de procedimento investigativo para apurar colocação irregular de… | cvm-col-20020328-d04 | fichas/colegiado/2002-06.md |
+| RJ2001/11996 | 2002-03-28 | provido | O Colegiado deu provimento a recurso contra decisão da SMI que negou autorização de agente autônomo, acompanhando o relator. Aplicou… | cvm-col-20020328-d03 | fichas/colegiado/2002-06.md |
+| RJ2002/1160 | 2002-03-28 | provido | Recurso contra a decisão da SNC de aplicação de multa cominatória. Proc. RJ2002/1160. | cvm-col-20020328-d02 | fichas/colegiado/2002-06.md |
+| — | 2002-03-28 | outro | O Colegiado aprovou a minuta de Instrução sobre adiamento de assembleia geral e interrupção da fluência do prazo de sua convocação, para… | cvm-col-20020328-d01 | fichas/colegiado/2002-06.md |
+| RJ2001/1870 | 2002-03-19 | outro | O Colegiado arquivou o processo de republicação das demonstrações financeiras de 2000 da Metalúrgica Gerdau, sobre dividendos antecipados… | cvm-col-20020319-d19 | fichas/colegiado/2002-06.md |
+| — | 2002-03-19 | outro | O Colegiado aprovou a submissão à audiência pública da minuta de Instrução que altera a Instrução CVM 306/99, sobre administração de… | cvm-col-20020319-d18 | fichas/colegiado/2002-06.md |
+| RJ2001/8002 | 2002-03-19 | nao-provido | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2001/8002. | cvm-col-20020319-d17 | fichas/colegiado/2002-06.md |
+| — | 2002-03-19 | nao-provido | O Colegiado negou provimento a recurso contra determinação da SEP de refazer e republicar demonstrações financeiras de 1998. Considerou… | cvm-col-20020319-d16 | fichas/colegiado/2002-06.md |
+| RJ2001/1857 | 2002-03-19 | parcial | O Colegiado deu provimento parcial a pedido de revisão de decisão sobre cláusula do regulamento do fundo CVC/Opportunity Equity Partners… | cvm-col-20020319-d15 | fichas/colegiado/2002-06.md |
+| RJ2000/5874 | 2002-03-19 | nao-provido | O Colegiado rejeitou pedido de reconsideração do Banco Opportunity S.A. contra decisão que manteve o refazimento de demonstrações… | cvm-col-20020319-d14 | fichas/colegiado/2002-06.md |
+| — | 2002-03-19 | outro | O Colegiado aprovou minuta de deliberação que determina a imediata suspensão das atividades de intermediação de onze pessoas, físicas e… | cvm-col-20020319-d13 | fichas/colegiado/2002-05.md |
+| RJ2001/12804 | 2002-03-19 | provido | O Colegiado acompanhou o voto da diretora-relatora e proveu recurso contra decisão da SMI que negara autorização para atuar como agente… | cvm-col-20020319-d12 | fichas/colegiado/2002-05.md |
+| RJ2001/8341 | 2002-03-19 | provido | O Colegiado deu provimento a recurso contra decisão da SMI que negou autorização para agente autônomo de investimento e concedeu a… | cvm-col-20020319-d11 | fichas/colegiado/2002-05.md |
+| RJ2001/12014 | 2002-03-19 | nao-provido | O Colegiado, acompanhando a relatora, negou provimento a recurso contra decisão da SMI que negou autorização de agente autônomo. O… | cvm-col-20020319-d10 | fichas/colegiado/2002-05.md |
+| RJ2001/11397 | 2002-03-19 | provido | O Colegiado acompanhou a diretora-relatora e deu provimento a recurso contra decisão da SMI que negou autorização para atuar como agente… | cvm-col-20020319-d09 | fichas/colegiado/2002-05.md |
+| RJ2002/1430 | 2002-03-19 | nao-provido | Recurso contra a decisão da SNC de aplicação de multa cominatória. Proc. RJ2002/1430. | cvm-col-20020319-d08 | fichas/colegiado/2002-05.md |
+| RJ2001/12086 | 2002-03-19 | provido | O Colegiado deu provimento a recurso contra decisão da SMI que negou autorização para agente autônomo de investimento, concedendo-a. O… | cvm-col-20020319-d07 | fichas/colegiado/2002-05.md |
+| RJ2001/11513 | 2002-03-19 | provido | O Colegiado deu provimento ao recurso contra decisão da SMI que negou autorização a agente autônomo de investimento: concedeu a autorização… | cvm-col-20020319-d06 | fichas/colegiado/2002-05.md |
+| SP2000/0320 | 2002-03-19 | provido | Recurso contra a decisão da SMI em processo de rito sumário. Proc. SP2000/0320. | cvm-col-20020319-d05 | fichas/colegiado/2002-05.md |
+| — | 2002-03-19 | outro | O Colegiado aprovou a submissão à audiência pública da minuta de Instrução que estabelece normas e procedimentos para operações em bolsas e… | cvm-col-20020319-d04 | fichas/colegiado/2002-05.md |
+| SP2001/0280 | 2002-03-19 | nao-provido | Recurso contra decisão da SMI em processo de fundo de garantia. Proc. SP2001/0280. | cvm-col-20020319-d03 | fichas/colegiado/2002-05.md |
+| RJ99/5785 | 2002-03-19 | nao-provido | Recurso contra a decisão da SMI em processo de fundo de garantia. Proc. RJ99/5785. | cvm-col-20020319-d02 | fichas/colegiado/2002-05.md |
+| RJ2000/4912 | 2002-03-19 | provido | Por maioria, o Colegiado deu provimento a recurso da Estireno do Nordeste S.A. contra decisão da SEP que determinou medidas para alterar… | cvm-col-20020319-d01 | fichas/colegiado/2002-04.md |
+| RJ2002/2069 | 2002-03-15 | deferido | O Colegiado aprovou, nos termos do art. 34 da Instrução CVM 361/02, procedimento diferenciado e dispensa de formalidades de OPA para a… | cvm-col-20020315-d01 | fichas/colegiado/2002-04.md |
+| — | 2002-03-12 | deferido | O Colegiado autorizou a venda privada de ações da Cosipa pertencentes ao clube de investimentos dos empregados, por valor não inferior ao… | cvm-col-20020312-d06 | fichas/colegiado/2002-04.md |
+| SP2001/0055 | 2002-03-12 | nao-provido | Recurso contra a decisão da SMI em processo de fundo de garantia. Proc. SP2001/0055. | cvm-col-20020312-d05 | fichas/colegiado/2002-04.md |
+| RJ2001/4228 | 2002-03-12 | nao-provido | O Colegiado manteve decisão que acolhera em parte o recurso da Recrusul S.A. contra determinação da SEP de refazer e republicar… | cvm-col-20020312-d04 | fichas/colegiado/2002-04.md |
+| RJ99/5746 | 2002-03-12 | nao-provido | O Colegiado negou provimento a pedido de reconsideração da Estratégia Investimentos S/A – CVC contra decisão que determinou ressarcimento… | cvm-col-20020312-d03 | fichas/colegiado/2002-04.md |
+| RJ2001/2168 | 2002-03-12 | provido | O Colegiado deu provimento a recurso da Americel contra decisão da SEP que exigiu reapresentação de ITRs para o registro de ativo fiscal… | cvm-col-20020312-d02 | fichas/colegiado/2002-04.md |
+| RJ2000/4250 | 2002-03-12 | nao-provido | O Colegiado, acompanhando o relator, rejeitou pedido de reconsideração de decisão que manteve multa cominatória da SNC por atraso em… | cvm-col-20020312-d01 | fichas/colegiado/2002-04.md |
+| — | 2002-03-05 | outro | O Colegiado aprovou a minuta de Instrução que disciplina as OPAs e revoga as Instruções CVM 229/95, 299/99 e 345/00. Após a audiência… | cvm-col-20020305-d04 | fichas/colegiado/2002-04.md |
+| — | 2002-03-05 | outro | O Colegiado aprovou a minuta de Instrução que estabelece regras transitórias a serem observadas pelas bolsas de mercadorias e de futuros. | cvm-col-20020305-d03 | fichas/colegiado/2002-04.md |
+| — | 2002-03-05 | outro | O Colegiado aprovou minuta de Instrução que dispõe sobre declaração de membro do Conselho de Administração para colocação em audiência… | cvm-col-20020305-d02 | fichas/colegiado/2002-04.md |
+| RJ2001/4245 | 2002-03-05 | outro | Em consulta da SIN, o Colegiado, acompanhando a relatora, entendeu que nada impede autorizar a incorporação de clubes de investimento ao… | cvm-col-20020305-d01 | fichas/colegiado/2002-04.md |
+| RJ2002/1070; RJ2002/1071 | 2002-02-27 | provido | O Colegiado acatou o recurso do Banco Bradesco S.A. contra decisão da SIN que negara a redução do valor mínimo de aplicação dos fundos… | cvm-col-20020227-d04 | fichas/colegiado/2002-03.md |
+| RJ2001/3993 | 2002-02-27 | conhecimento | O Colegiado acompanhou o voto do relator e deixou de apreciar recurso contra determinação da SEP de refazer e republicar as demonstrações… | cvm-col-20020227-d03 | fichas/colegiado/2002-03.md |
+| RJ2001/11993 | 2002-02-27 | provido | O Colegiado deu provimento a recurso contra decisão da SMI que negou autorização para agente autônomo de investimento e concedeu a… | cvm-col-20020227-d02 | fichas/colegiado/2002-03.md |
+| SP2001/0105 | 2002-02-27 | nao-provido | Recurso contra a decisão da SMI em processo de rito sumário. Proc. SP2001/0105. | cvm-col-20020227-d01 | fichas/colegiado/2002-03.md |
+| RJ2001/10329 | 2002-02-19 | provido | Recurso contra a decisão da SEP. Proc. RJ2001/10329. | cvm-col-20020219-d02 | fichas/colegiado/2002-03.md |
+| RJ2001/3270 | 2002-02-19 | — | Recurso da Companhia Siderúrgica Belgo Mineira contra determinação da SEP de alterar a alínea 'b' do art. 38 do estatuto, que destina de 5%… | cvm-col-20020219-d01 | fichas/colegiado/2002-03.md |
+| — | 2002-02-14 | outro | O Colegiado aprovou minuta de Instrução que estabelece as condições para cobrança de taxa de resgate antecipado nos fundos mútuos de… | cvm-col-20020214-d14 | fichas/colegiado/2002-03.md |
+| RJ2001/12035 | 2002-02-14 | deferido | O Colegiado acompanhou a relatora e deferiu a dispensa do registro prévio de distribuição secundária de ações do Banco do Estado do… | cvm-col-20020214-d13 | fichas/colegiado/2002-03.md |
+| RJ2001/11916 | 2002-02-14 | nao-provido | Recurso contra a decisão da SIN de aplicação de multa cominatória. Proc. RJ2001/11916. | cvm-col-20020214-d12 | fichas/colegiado/2002-03.md |
+| RJ2001/3686 | 2002-02-14 | conhecimento | O Colegiado acompanhou o voto da diretora-relatora e determinou o arquivamento de recurso contra decisão da SEP sobre a incorporação da… | cvm-col-20020214-d11 | fichas/colegiado/2002-03.md |
+| RJ2001/12306 | 2002-02-14 | provido | Recurso contra a decisão da SIN de aplicação de multa cominatória. Proc. RJ2001/12306. | cvm-col-20020214-d10 | fichas/colegiado/2002-03.md |
+| RJ2001/12309 | 2002-02-14 | provido | Recurso contra a decisão da SIN de aplicação de multa cominatória. Proc. RJ2001/12309. | cvm-col-20020214-d09 | fichas/colegiado/2002-03.md |
+| RJ2001/12149 | 2002-02-14 | nao-provido | Recurso contra a decisão da SIN de aplicação de multa cominatória. Proc. RJ2001/12149. | cvm-col-20020214-d08 | fichas/colegiado/2002-03.md |
+| RJ2001/12163 | 2002-02-14 | nao-provido | Recurso contra a decisão da SIN de aplicação de multa cominatória. Proc. RJ2001/12163. | cvm-col-20020214-d07 | fichas/colegiado/2002-02.md |
+| RJ2001/12148 | 2002-02-14 | nao-provido | Recurso contra a decisão da SIN de aplicação de multa cominatória. Proc. RJ2001/12148. | cvm-col-20020214-d06 | fichas/colegiado/2002-02.md |
+| RJ2001/12305 | 2002-02-14 | nao-provido | Recurso contra a decisão da SIN de aplicação de multa cominatória. Proc. RJ2001/12305. | cvm-col-20020214-d05 | fichas/colegiado/2002-02.md |
+| RJ2001/12019 | 2002-02-14 | nao-provido | Recurso contra a decisão da SIN de aplicação de multa cominatória. Proc. RJ2001/12019. | cvm-col-20020214-d04 | fichas/colegiado/2002-02.md |
+| RJ2000/4801 | 2002-02-14 | nao-provido | O Colegiado acompanhou o voto do relator e indeferiu novo pedido de reconsideração da Walpires S.A. CCTVM contra decisão que mandou o Fundo… | cvm-col-20020214-d03 | fichas/colegiado/2002-02.md |
+| RJ97/0548 | 2002-02-14 | nao-provido | O Colegiado negou provimento a recurso contra parecer da SOI que considerou regular a atuação da BVRJ na liquidação de operações a termo… | cvm-col-20020214-d02 | fichas/colegiado/2002-02.md |
+| RJ2002/0875 | 2002-02-14 | deferido | O Colegiado aprovou os pleitos de dispensa de dispositivos das Instruções CVM 88/88 e 286/98 para a distribuição secundária de ações da… | cvm-col-20020214-d01 | fichas/colegiado/2002-02.md |
+| SP2001/0292 | 2002-02-05 | nao-provido | Recurso contra decisão da SMI em processo de fundo de garantia. Proc. SP2001/0292. | cvm-col-20020205-d02 | fichas/colegiado/2002-02.md |
+| RJ2001/4540 | 2002-02-05 | provido | O Colegiado deu provimento ao recurso da Aurora Ativos S/A contra determinações da SEP no registro de companhia aberta, reformando a… | cvm-col-20020205-d01 | fichas/colegiado/2002-02.md |
+| RJ2001/4355 | 2002-01-29 | outro | O Colegiado acompanhou o relator e aprovou, com retificações, o Termo de Acusação da SFI contra o Banco Vega S.A. em liquidação e um… | cvm-col-20020129-d2144 | fichas/colegiado/2002-02.md |
+| — | 2002-01-29 | outro | O Colegiado aprovou a minuta de Instrução, apresentada pela área técnica, que altera a Instrução CVM 279/98 sobre constituição… | cvm-col-20020129-d03 | fichas/colegiado/2002-02.md |
+| RJ99/3741 | 2002-01-29 | nao-provido | Recurso contra decisão da SGE de cobrança da taxa de fiscalização. Proc. RJ99/3741. | cvm-col-20020129-d02 | fichas/colegiado/2002-02.md |
+| RJ2001/6364; RJ2000/6376; RJ2001/6371; RJ2000/5872 | 2002-01-29 | indeferido | O Colegiado, acompanhando o voto do diretor relator, indeferiu o pedido de restituição da taxa de fiscalização e registro da Fretin S.A. e… | cvm-col-20020129-d01 | fichas/colegiado/2002-02.md |
+| SP2000/0108 | 2002-01-22 | nao-provido | Recurso de ccf brasil CTVM S.A. e josé marcos chiacaroni contra decisão da SMI em processo de rito sumário, que lhes aplicou a pena de… | cvm-col-20020122-d05 | fichas/colegiado/2002-02.md |
+| SP2001/0719 | 2002-01-22 | outro | O Colegiado aprovou a proposta da SMI de exclusão do nome de pessoa física alcançada pela Deliberação CVM nº 397/01. | cvm-col-20020122-d04 | fichas/colegiado/2002-02.md |
+| RJ1998/5050 | 2002-01-22 | outro | O Colegiado aprovou a minuta de Deliberação que determina a suspensão imediata das atividades de intermediação de uma pessoa física. | cvm-col-20020122-d03 | fichas/colegiado/2002-01.md |
+| RJ2001/12001 | 2002-01-22 | nao-provido | Recurso contra decisão da SIN de aplicação de multa cominatória. Proc. RJ2001/12001. | cvm-col-20020122-d02 | fichas/colegiado/2002-01.md |
+| — | 2002-01-22 | outro | O Colegiado aprovou minuta de Instrução sobre a divulgação de informações relativas à instituição e manutenção de planos de opções de… | cvm-col-20020122-d01 | fichas/colegiado/2002-01.md |
+| RJ2001/12133 | 2002-01-15 | outro | O Colegiado, acompanhando o relator, entendeu que a CVM não pode determinar o valor de reembolso aos acionistas dissidentes na… | cvm-col-20020115-d08 | fichas/colegiado/2002-01.md |
+| — | 2002-01-15 | outro | O Colegiado aprovou a colocação em audiência pública da minuta de Instrução sobre ofertas públicas. | cvm-col-20020115-d07 | fichas/colegiado/2002-01.md |
+| RJ2002/135 | 2002-01-15 | outro | O Colegiado acompanhou o relator em consulta de investidores sobre a data-base do balanço especial para exercício do direito de recesso… | cvm-col-20020115-d06 | fichas/colegiado/2002-01.md |
+| RJ2001/11663 | 2002-01-15 | provido | Processo de reorganização societária empreendida pela serrana S.A. Proc. RJ2001/11663. | cvm-col-20020115-d05 | fichas/colegiado/2002-01.md |
+| RJ2001/12018 | 2002-01-15 | nao-provido | O Colegiado negou provimento ao recurso do Banco Bradesco contra multa cominatória da SIN por atraso na entrega do FAR de janeiro/2001 do… | cvm-col-20020115-d04 | fichas/colegiado/2002-01.md |
+| RJ2001/11998 | 2002-01-15 | nao-provido | O Colegiado negou provimento ao recurso do Banco BBM S.A. contra multa cominatória da SIN por atraso no envio do FAR de julho de 2000… | cvm-col-20020115-d03 | fichas/colegiado/2002-01.md |
+| RJ2001/10817 | 2002-01-15 | deferido | O Colegiado aprovou procedimento de estabilização de preços previsto na minuta de contrato de intermediação entre o UBS Warburg S/A e a UBS… | cvm-col-20020115-d02 | fichas/colegiado/2002-01.md |
+| RJ2001/12035 | 2002-01-15 | deferido | O Colegiado concedeu a dispensa do registro de distribuição secundária de ações de emissão do Banco do Estado do Amazonas (BEA), por… | cvm-col-20020115-d01 | fichas/colegiado/2002-01.md |
+| RJ2001/11675 | 2002-01-08 | provido | O Colegiado deu provimento a recurso contra decisão da SMI que não incluiu agente autônomo na lista de credenciados por débito de anuidade… | cvm-col-20020108-d02 | fichas/colegiado/2002-01.md |
+| SP2001/0148 | 2002-01-08 | outro | O Colegiado aprovou a minuta de deliberação que determina a suspensão imediata das atividades de intermediação de duas pessoas físicas. | cvm-col-20020108-d01 | fichas/colegiado/2002-01.md |
+| RJ2001/8489 | 2002-01-03 | deferido | O Colegiado autorizou a São Paulo Alpargatas S.A. a realizar operações privadas com ações em tesouraria para plano de opção de compra a… | cvm-col-20020103-d01 | fichas/colegiado/2002-01.md |
 
 Fim do subíndice.

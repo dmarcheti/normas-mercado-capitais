@@ -183,9 +183,9 @@ Este subíndice tem 320 linhas e uma leitura única é cortada em silêncio pert
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 29, parágrafo único | acordao-crsfn | RJ-2012-12201 | 2016-11-29 | condenacao | crsfn-14439 | fichas/crsfn/2016-05.md |
-| art. 29, parágrafo único | pas | RJ2012/12201 | 2015-08-04 | condenacao | cvm-pas-rj2012-12201 | fichas/pas/2015-04.md |
-| art. 29, parágrafo único | pas | 19957.005866/2018-73 | 2022-12-16 | parcial | cvm-pas-19957-005866-2018-73 | fichas/pas/2022-06.md |
+| art. 29, parágrafo único | acordao-crsfn | RJ-2012-12201 | 2016-11-29 | condenacao | crsfn-14439 | fichas/crsfn/2016-10.md |
+| art. 29, parágrafo único | pas | RJ2012/12201 | 2015-08-04 | condenacao | cvm-pas-rj2012-12201 | fichas/pas/2015-08.md |
+| art. 29, parágrafo único | pas | 19957.005866/2018-73 | 2022-12-16 | parcial | cvm-pas-19957-005866-2018-73 | fichas/pas/2022-13.md |
 
 ## art. 30
 
@@ -300,7 +300,7 @@ Este subíndice tem 320 linhas e uma leitura única é cortada em silêncio pert
 | decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
 | decisao-colegiado | RJ2015/1595 | 2020-03-17 | nao-provido | cvm-col-20200317-d1753 | fichas/colegiado/2020-05.md |
 | decisao-colegiado | 19957.005955/2019-09 | 2019-07-30 | indeferido | cvm-col-20190730-d1477 | fichas/colegiado/2019-11.md |
-| pas | RJ2015/2027 | 2019-04-02 | parcial | cvm-pas-rj2015-2027 | fichas/pas/2019-03.md |
+| pas | RJ2015/2027 | 2019-04-02 | parcial | cvm-pas-rj2015-2027 | fichas/pas/2019-05.md |
 | acordao-crsfn | RJ-2006-3364 | 2014-02-18 | parcial | crsfn-11644 | fichas/crsfn/2014-01.md |
 | decisao-colegiado | 08/2012; 359/2002; RJ2012/10996 | 2013-08-07 | outro | cvm-col-20130807-d01 | fichas/colegiado/2013-14.md |
 | decisao-colegiado | 359/2002; RJ2012/10996 | 2012-09-19 | outro | cvm-col-20120919-d01 | fichas/colegiado/2012-17.md |
@@ -314,7 +314,7 @@ Este subíndice tem 320 linhas e uma leitura única é cortada em silêncio pert
 | decisao-colegiado | RJ2008/1967 | 2008-03-25 | nao-provido | cvm-col-20080325-d10 | fichas/colegiado/2008-07.md |
 | decisao-colegiado | RJ2008/1966 | 2008-03-25 | nao-provido | cvm-col-20080325-d09 | fichas/colegiado/2008-07.md |
 | decisao-colegiado | RJ2008/1965 | 2008-03-25 | nao-provido | cvm-col-20080325-d08 | fichas/colegiado/2008-07.md |
-| pas | RJ2006/3364 | 2007-05-16 | parcial | cvm-pas-rj2006-3364 | fichas/pas/2007-03.md |
+| pas | RJ2006/3364 | 2007-05-16 | parcial | cvm-pas-rj2006-3364 | fichas/pas/2007-06.md |
 | decisao-colegiado | RJ2003/7972 | 2003-12-02 | deferido | cvm-col-20031202-d01 | fichas/colegiado/2003-14.md |
 
 Fim do subíndice.

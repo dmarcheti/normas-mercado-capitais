@@ -11,8 +11,8 @@ Norma: [cvm/pareceres-orientacao/0016.md](../../normas/cvm/pareceres-orientacao/
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.003052/2018-02; RJ2018/2150 | 2020-06-23 | condenacao | cvm-pas-19957-003052-2018-02 | fichas/pas/2020-03.md |
-| pas | 19957.002277/2017-52; RJ2017/1158 | 2020-06-23 | condenacao | cvm-pas-19957-002277-2017-52 | fichas/pas/2020-03.md |
+| pas | 19957.003052/2018-02; RJ2018/2150 | 2020-06-23 | condenacao | cvm-pas-19957-003052-2018-02 | fichas/pas/2020-05.md |
+| pas | 19957.002277/2017-52; RJ2017/1158 | 2020-06-23 | condenacao | cvm-pas-19957-002277-2017-52 | fichas/pas/2020-05.md |
 | decisao-colegiado | — | 2003-04-17 | outro | cvm-col-20030417-d08 | fichas/colegiado/2003-05.md |
 | decisao-antiga | — | 1996-01-12 | — | cvm-dec-1996-0001 | fichas/decisoes-antigas/1996-07.md |
 | decisao-antiga | — | 1994-01-04 | — | cvm-dec-1994-0001 | fichas/decisoes-antigas/1994-05.md |

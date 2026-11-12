@@ -13,8 +13,8 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|
 | art. 1º | acordao-crsfn | 05/00 | 2009-02-16 | parcial | crsfn-7526 | fichas/crsfn/2009-01.md |
 | art. 1º | decisao-antiga | — | 1997-01-13 | — | cvm-dec-1997-0001 | fichas/decisoes-antigas/1997-12.md |
-| art. 1º | pas | 05/2000 | 2004-11-11 | parcial | cvm-pas-05-2000 | fichas/pas/2004-07.md |
-| art. 1º | pas | 05/2002 | 2004-08-05 | parcial | cvm-pas-05-2002 | fichas/pas/2004-04.md |
+| art. 1º | pas | 05/2000 | 2004-11-11 | parcial | cvm-pas-05-2000 | fichas/pas/2004-14.md |
+| art. 1º | pas | 05/2002 | 2004-08-05 | parcial | cvm-pas-05-2002 | fichas/pas/2004-08.md |
 
 ## art. 2º
 
@@ -24,7 +24,7 @@ Norma: fora do acervo.
 | art. 2º | decisao-colegiado | RJ2002/5560 | 2003-04-17 | nao-provido | cvm-col-20030417-d01 | fichas/colegiado/2003-04.md |
 | art. 2º | termo-compromisso | RJ2014/8947 | 2015-06-02 | aceito | cvm-col-20150602-d9661 | fichas/tc/2015-02.md |
 | art. 2º | termo-compromisso | 19957.004207/2021-15 | 2024-04-30 | rejeitado | cvm-col-20240430-d3056 | fichas/tc/2024-02.md |
-| art. 2º | pas | RJ2005/2793 | 2005-11-30 | parcial | cvm-pas-rj2005-2793 | fichas/pas/2005-08.md |
+| art. 2º | pas | RJ2005/2793 | 2005-11-30 | parcial | cvm-pas-rj2005-2793 | fichas/pas/2005-16.md |
 
 ## Citada sem dispositivo identificado
 

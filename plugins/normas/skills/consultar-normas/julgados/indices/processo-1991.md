@@ -7,11 +7,11 @@ Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho rel
 
 Número normalizado: NUP `99999-999999-AAAA-DD`; processo antigo `rj2015-13791` (sigla em minúsculas, ano, número com 4 dígitos); numeração curta dos PAS `NN-AAAA`. Procure pelo número normalizado ou pela forma do julgado. Dois julgados do mesmo processo (um PAS e o termo de compromisso ou o acórdão do CRSFN dele) aparecem com o mesmo número.
 
-| Processo (normalizado) | Forma no julgado | Tipo | Data | Id | Ficha |
-|---|---|---|---|---|---|
-| 01-1991 | 01/91 | acordao-crsfn | 1998-09-22 | crsfn-2302 | fichas/crsfn/1998-03.md |
-| 05-1991 | 05/91 | acordao-crsfn | 1998-02-17 | crsfn-2303 | fichas/crsfn/1998-01.md |
-| 06-1991 | 06/91 | acordao-crsfn | 1997-10-29 | crsfn-1968 | fichas/crsfn/1997-01.md |
-| 10-1991 | 10/91 | acordao-crsfn | 1996-04-16 | crsfn-1618 | fichas/crsfn/1996-01.md |
+| Processo (normalizado) | Forma no julgado | Tipo | Data | Ementa | Id | Ficha |
+|---|---|---|---|---|---|---|
+| 01-1991 | 01/91 | acordao-crsfn | 1998-09-22 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Mercado de Valores Mobiliários - Embaraço à fiscalização, por falta de tempestiva submissão à CVM de… | crsfn-2302 | fichas/crsfn/1998-03.md |
+| 05-1991 | 05/91 | acordao-crsfn | 1998-02-17 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Mercado de valores mobiliários - Clubes de investimentos - Indevida utilização de Recursos para depósito… | crsfn-2303 | fichas/crsfn/1998-01.md |
+| 06-1991 | 06/91 | acordao-crsfn | 1997-10-29 | RECURSOS VOLUNTÁRIO E DE OFÍCIO. Comissão de Valores Mobiliários - CVM - Intimação por edital - Validade do procedimento - Atos de… | crsfn-1968 | fichas/crsfn/1997-01.md |
+| 10-1991 | 10/91 | acordao-crsfn | 1996-04-16 | RECURSO DE OFÍCIO. Negociação privada de ações em tesouraria. Não divulgação da ata de reunião autorizando essa alienação e não comunicação… | crsfn-1618 | fichas/crsfn/1996-01.md |
 
 Fim do subíndice.

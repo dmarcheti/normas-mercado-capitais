@@ -22,7 +22,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.011992/2023-24 | 2025-04-08 | condenacao | cvm-pas-19957-011992-2023-24 | fichas/pas/2025-02.md |
+| pas | 19957.011992/2023-24 | 2025-04-08 | condenacao | cvm-pas-19957-011992-2023-24 | fichas/pas/2025-04.md |
 
 ## res-bcb-81
 
@@ -44,8 +44,8 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 19957.008119/2023-54 | 2025-08-12 | condenacao | crsfn-10372-000010-2025-37 | fichas/crsfn/2025-04.md |
-| acordao-crsfn | 05/2014; 19957.011659/2019-39 | 2024-05-07 | parcial | crsfn-10372-100193-2021-66 | fichas/crsfn/2024-02.md |
+| acordao-crsfn | 19957.008119/2023-54 | 2025-08-12 | condenacao | crsfn-10372-000010-2025-37 | fichas/crsfn/2025-05.md |
+| acordao-crsfn | 05/2014; 19957.011659/2019-39 | 2024-05-07 | parcial | crsfn-10372-100193-2021-66 | fichas/crsfn/2024-03.md |
 
 ## res-bcb-238
 
@@ -53,7 +53,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2001/8363 | 2005-03-28 | parcial | cvm-pas-rj2001-8363 | fichas/pas/2005-02.md |
+| pas | RJ2001/8363 | 2005-03-28 | parcial | cvm-pas-rj2001-8363 | fichas/pas/2005-04.md |
 
 ## res-bcb-1065
 
@@ -61,8 +61,8 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | SP2011/284 | 2015-12-18 | parcial | cvm-pas-sp2011-0284 | fichas/pas/2015-07.md |
-| pas | SP2010/049 | 2013-11-12 | absolvicao | cvm-pas-sp2010-0049 | fichas/pas/2013-05.md |
+| pas | SP2011/284 | 2015-12-18 | parcial | cvm-pas-sp2011-0284 | fichas/pas/2015-14.md |
+| pas | SP2010/049 | 2013-11-12 | absolvicao | cvm-pas-sp2010-0049 | fichas/pas/2013-10.md |
 
 ## res-bcb-1656
 
@@ -108,7 +108,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 1/2011 | 2020-12-14 | parcial | crsfn-10372-100447-2018-41 | fichas/crsfn/2020-07.md |
+| acordao-crsfn | 1/2011 | 2020-12-14 | parcial | crsfn-10372-100447-2018-41 | fichas/crsfn/2020-10.md |
 
 ## res-bcb-2689
 
@@ -132,10 +132,10 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 27/03 | 2008-06-24 | parcial | crsfn-9637 | fichas/crsfn/2008-03.md |
-| acordao-crsfn | 03/97 | 2008-06-24 | parcial | crsfn-8615 | fichas/crsfn/2008-03.md |
+| acordao-crsfn | 27/03 | 2008-06-24 | parcial | crsfn-9637 | fichas/crsfn/2008-04.md |
+| acordao-crsfn | 03/97 | 2008-06-24 | parcial | crsfn-8615 | fichas/crsfn/2008-04.md |
 | acordao-crsfn | SP-2004-113 | 2008-06-24 | arquivamento | crsfn-7529 | fichas/crsfn/2008-03.md |
-| pas | 27/2003 | 2005-08-18 | parcial | cvm-pas-27-2003 | fichas/pas/2005-06.md |
+| pas | 27/2003 | 2005-08-18 | parcial | cvm-pas-27-2003 | fichas/pas/2005-11.md |
 
 ## res-bcb-3086
 
@@ -143,7 +143,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2003/12312 | 2005-06-27 | absolvicao | cvm-pas-rj2003-12312 | fichas/pas/2005-05.md |
+| pas | RJ2003/12312 | 2005-06-27 | absolvicao | cvm-pas-rj2003-12312 | fichas/pas/2005-10.md |
 
 ## res-bcb-3158
 
@@ -167,7 +167,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2013/6183 | 2016-11-22 | condenacao | cvm-pas-rj2013-6183 | fichas/pas/2016-06.md |
+| pas | RJ2013/6183 | 2016-11-22 | condenacao | cvm-pas-rj2013-6183 | fichas/pas/2016-12.md |
 
 ## res-bcb-4373
 
@@ -183,7 +183,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.011992/2023-24 | 2025-04-08 | condenacao | cvm-pas-19957-011992-2023-24 | fichas/pas/2025-02.md |
+| pas | 19957.011992/2023-24 | 2025-04-08 | condenacao | cvm-pas-19957-011992-2023-24 | fichas/pas/2025-04.md |
 
 ## res-bcb-4598
 

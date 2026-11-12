@@ -12,7 +12,7 @@ Norma: fora do acervo.
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 1º, inciso II | decisao-colegiado | 796/2018; 19957.007322/2018-46 | 2018-08-21 | outro | cvm-col-20180821-d1085-19957-007322-2018-46 | fichas/colegiado/2018-14.md |
-| art. 1º, inciso II | pas | 19957.008143/2018-26 | 2023-12-20 | parcial | cvm-pas-19957-008143-2018-26 | fichas/pas/2023-09.md |
+| art. 1º, inciso II | pas | 19957.008143/2018-26 | 2023-12-20 | parcial | cvm-pas-19957-008143-2018-26 | fichas/pas/2023-18.md |
 
 ## art. 3º
 
@@ -20,7 +20,7 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|
 | art. 3º | decisao-colegiado | 19957.004658/2019-38 | 2019-11-05 | nao-provido | cvm-col-20191105-d1464 | fichas/colegiado/2019-17.md |
 | art. 3º, inciso III | termo-compromisso | 19957.008816/2018-48; 19957.010958/2018-75; 19957.008143/2018-26; 19957.007904/2019-11; 19957.006702/2019-44; 19957.004801/2018-19; 19957.002813/2019-81; 19957.006871/2018-01; 19957.007913/2019-02; 19957.004658/2019-38; 19957.006298/2018-28 | 2021-04-01 | rejeitado | cvm-col-20210401-d2121 | fichas/tc/2021-02.md |
-| art. 3º, inciso III | pas | 19957.008143/2018-26 | 2023-12-20 | parcial | cvm-pas-19957-008143-2018-26 | fichas/pas/2023-09.md |
+| art. 3º, inciso III | pas | 19957.008143/2018-26 | 2023-12-20 | parcial | cvm-pas-19957-008143-2018-26 | fichas/pas/2023-18.md |
 | art. 3º, inciso IV | decisao-colegiado | 19957.004658/2019-38 | 2019-11-05 | nao-provido | cvm-col-20191105-d1464 | fichas/colegiado/2019-17.md |
 | art. 3º, inciso V | decisao-colegiado | 19957.004658/2019-38 | 2019-11-05 | nao-provido | cvm-col-20191105-d1464 | fichas/colegiado/2019-17.md |
 | art. 3º, § 2º | decisao-colegiado | 19957.004658/2019-38 | 2019-11-05 | nao-provido | cvm-col-20191105-d1464 | fichas/colegiado/2019-17.md |
@@ -50,12 +50,12 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|
 | art. 10 | decisao-colegiado | 521/2012; RJ2011/14772 | 2013-09-24 | outro | cvm-col-20130924-d06 | fichas/colegiado/2013-17.md |
 | art. 10 | decisao-colegiado | 19957.004658/2019-38 | 2019-11-05 | nao-provido | cvm-col-20191105-d1464 | fichas/colegiado/2019-17.md |
-| art. 10 | pas | 19957.008143/2018-26 | 2023-12-20 | parcial | cvm-pas-19957-008143-2018-26 | fichas/pas/2023-09.md |
+| art. 10 | pas | 19957.008143/2018-26 | 2023-12-20 | parcial | cvm-pas-19957-008143-2018-26 | fichas/pas/2023-18.md |
 | art. 10 | pas | 19957.008816/2018-48 | 2023-02-28 | parcial | cvm-pas-19957-008816-2018-48 | fichas/pas/2023-01.md |
 | art. 10, inciso I | termo-compromisso | 19957.008816/2018-48; 19957.010958/2018-75; 19957.008143/2018-26; 19957.007904/2019-11; 19957.006702/2019-44; 19957.004801/2018-19; 19957.002813/2019-81; 19957.006871/2018-01; 19957.007913/2019-02; 19957.004658/2019-38; 19957.006298/2018-28 | 2021-04-01 | rejeitado | cvm-col-20210401-d2121 | fichas/tc/2021-02.md |
-| art. 10, inciso II | acordao-crsfn | 19957.008143/2018-26 | 2024-12-04 | condenacao | crsfn-10372-000072-2024-68 | fichas/crsfn/2024-07.md |
-| art. 10, inciso II | acordao-crsfn | 19957.008816/2018-48 | 2024-11-12 | parcial | crsfn-10372-100091-2023-11-2 | fichas/crsfn/2024-06.md |
-| art. 10, inciso II | acordao-crsfn | 19957.008816/2018-48 | 2024-11-12 | parcial | crsfn-10372-100091-2023-11 | fichas/crsfn/2024-06.md |
+| art. 10, inciso II | acordao-crsfn | 19957.008143/2018-26 | 2024-12-04 | condenacao | crsfn-10372-000072-2024-68 | fichas/crsfn/2024-09.md |
+| art. 10, inciso II | acordao-crsfn | 19957.008816/2018-48 | 2024-11-12 | parcial | crsfn-10372-100091-2023-11-2 | fichas/crsfn/2024-08.md |
+| art. 10, inciso II | acordao-crsfn | 19957.008816/2018-48 | 2024-11-12 | parcial | crsfn-10372-100091-2023-11 | fichas/crsfn/2024-08.md |
 | art. 10, inciso II | decisao-colegiado | 796/2018; 19957.007161/2018-91 | 2018-07-31 | provido | cvm-col-20180731-d1085 | fichas/colegiado/2018-13.md |
 | art. 10, inciso II | decisao-colegiado | 796/2018; 19957.007322/2018-46 | 2018-08-21 | outro | cvm-col-20180821-d1085-19957-007322-2018-46 | fichas/colegiado/2018-14.md |
 | art. 10, inciso II | decisao-colegiado | 19957.004658/2019-38 | 2019-11-05 | nao-provido | cvm-col-20191105-d1464 | fichas/colegiado/2019-17.md |
@@ -67,11 +67,11 @@ Norma: fora do acervo.
 | art. 10, inciso II | decisao-colegiado | 19957.008143/2018-26; 19957.008816/2018-48; 19957.010958/2018-75 | 2023-02-14 | nao-provido | cvm-col-20230214-d1497 | fichas/colegiado/2023-02.md |
 | art. 10, inciso II | termo-compromisso | 19957.008143/2018-26 | 2023-11-07 | outro | cvm-col-20231107-d1497 | fichas/tc/2023-07.md |
 | art. 10, inciso II | termo-compromisso | 19957.010958/2018-75; 19957.000723/2021-71; 19957.007904/2019-11; 19957.006702/2019-44; 19957.006871/2018-01; 19957.002813/2019-81; 19957.004801/2018-19; 19957.007913/2019-02; 19957.004658/2019-38 | 2023-12-19 | rejeitado | cvm-col-20231219-d2121 | fichas/tc/2023-08.md |
-| art. 10, inciso II | pas | 19957.008143/2018-26 | 2023-12-20 | parcial | cvm-pas-19957-008143-2018-26 | fichas/pas/2023-09.md |
+| art. 10, inciso II | pas | 19957.008143/2018-26 | 2023-12-20 | parcial | cvm-pas-19957-008143-2018-26 | fichas/pas/2023-18.md |
 | art. 10, inciso II | pas | 19957.008816/2018-48 | 2023-02-28 | parcial | cvm-pas-19957-008816-2018-48 | fichas/pas/2023-01.md |
 | art. 10, § 2º | termo-compromisso | 19957.008816/2018-48; 19957.010958/2018-75; 19957.008143/2018-26; 19957.007904/2019-11; 19957.006702/2019-44; 19957.004801/2018-19; 19957.002813/2019-81; 19957.006871/2018-01; 19957.007913/2019-02; 19957.004658/2019-38; 19957.006298/2018-28 | 2021-04-01 | rejeitado | cvm-col-20210401-d2121 | fichas/tc/2021-02.md |
 | art. 10, § 2º | termo-compromisso | 19957.010958/2018-75; 19957.000723/2021-71; 19957.007904/2019-11; 19957.006702/2019-44; 19957.006871/2018-01; 19957.002813/2019-81; 19957.004801/2018-19; 19957.007913/2019-02; 19957.004658/2019-38 | 2023-12-19 | rejeitado | cvm-col-20231219-d2121 | fichas/tc/2023-08.md |
-| art. 10, § 2º | pas | 19957.008143/2018-26 | 2023-12-20 | parcial | cvm-pas-19957-008143-2018-26 | fichas/pas/2023-09.md |
+| art. 10, § 2º | pas | 19957.008143/2018-26 | 2023-12-20 | parcial | cvm-pas-19957-008143-2018-26 | fichas/pas/2023-18.md |
 
 ## art. 12
 
@@ -90,7 +90,7 @@ Norma: fora do acervo.
 | art. 15 | decisao-colegiado | 796/2018; 19957.007322/2018-46 | 2018-08-21 | outro | cvm-col-20180821-d1085-19957-007322-2018-46 | fichas/colegiado/2018-14.md |
 | art. 15 | termo-compromisso | 19957.008816/2018-48; 19957.010958/2018-75; 19957.008143/2018-26; 19957.007904/2019-11; 19957.006702/2019-44; 19957.004801/2018-19; 19957.002813/2019-81; 19957.006871/2018-01; 19957.007913/2019-02; 19957.004658/2019-38; 19957.006298/2018-28 | 2021-04-01 | rejeitado | cvm-col-20210401-d2121 | fichas/tc/2021-02.md |
 | art. 15 | termo-compromisso | 19957.010958/2018-75; 19957.000723/2021-71; 19957.007904/2019-11; 19957.006702/2019-44; 19957.006871/2018-01; 19957.002813/2019-81; 19957.004801/2018-19; 19957.007913/2019-02; 19957.004658/2019-38 | 2023-12-19 | rejeitado | cvm-col-20231219-d2121 | fichas/tc/2023-08.md |
-| art. 15 | pas | 19957.008143/2018-26 | 2023-12-20 | parcial | cvm-pas-19957-008143-2018-26 | fichas/pas/2023-09.md |
+| art. 15 | pas | 19957.008143/2018-26 | 2023-12-20 | parcial | cvm-pas-19957-008143-2018-26 | fichas/pas/2023-18.md |
 
 ## art. 16
 
@@ -103,7 +103,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 17, § 1º | pas | 19957.008143/2018-26 | 2023-12-20 | parcial | cvm-pas-19957-008143-2018-26 | fichas/pas/2023-09.md |
+| art. 17, § 1º | pas | 19957.008143/2018-26 | 2023-12-20 | parcial | cvm-pas-19957-008143-2018-26 | fichas/pas/2023-18.md |
 
 ## art. 18
 
@@ -113,7 +113,7 @@ Norma: fora do acervo.
 | art. 18 | decisao-colegiado | 19957.004658/2019-38 | 2019-11-05 | nao-provido | cvm-col-20191105-d1464 | fichas/colegiado/2019-17.md |
 | art. 18 | termo-compromisso | 19957.008816/2018-48; 19957.010958/2018-75; 19957.008143/2018-26; 19957.007904/2019-11; 19957.006702/2019-44; 19957.004801/2018-19; 19957.002813/2019-81; 19957.006871/2018-01; 19957.007913/2019-02; 19957.004658/2019-38; 19957.006298/2018-28 | 2021-04-01 | rejeitado | cvm-col-20210401-d2121 | fichas/tc/2021-02.md |
 | art. 18 | termo-compromisso | 19957.010958/2018-75; 19957.000723/2021-71; 19957.007904/2019-11; 19957.006702/2019-44; 19957.006871/2018-01; 19957.002813/2019-81; 19957.004801/2018-19; 19957.007913/2019-02; 19957.004658/2019-38 | 2023-12-19 | rejeitado | cvm-col-20231219-d2121 | fichas/tc/2023-08.md |
-| art. 18 | pas | 19957.008143/2018-26 | 2023-12-20 | parcial | cvm-pas-19957-008143-2018-26 | fichas/pas/2023-09.md |
+| art. 18 | pas | 19957.008143/2018-26 | 2023-12-20 | parcial | cvm-pas-19957-008143-2018-26 | fichas/pas/2023-18.md |
 
 ## art. 20
 
@@ -161,13 +161,13 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 33 | pas | 19957.008143/2018-26 | 2023-12-20 | parcial | cvm-pas-19957-008143-2018-26 | fichas/pas/2023-09.md |
+| art. 33 | pas | 19957.008143/2018-26 | 2023-12-20 | parcial | cvm-pas-19957-008143-2018-26 | fichas/pas/2023-18.md |
 
 ## art. 36
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 36 | pas | 19957.008143/2018-26 | 2023-12-20 | parcial | cvm-pas-19957-008143-2018-26 | fichas/pas/2023-09.md |
+| art. 36 | pas | 19957.008143/2018-26 | 2023-12-20 | parcial | cvm-pas-19957-008143-2018-26 | fichas/pas/2023-18.md |
 
 ## art. 37
 
@@ -187,9 +187,9 @@ Norma: fora do acervo.
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.008816/2018-48; 19957.004810/2019-82 | 2023-01-31 | indeferido | cvm-col-20230131-d1535 | fichas/colegiado/2023-02.md |
-| acordao-crsfn | 14/2013 | 2022-12-08 | condenacao | crsfn-10372-100093-2021-30 | fichas/crsfn/2022-08.md |
+| acordao-crsfn | 14/2013 | 2022-12-08 | condenacao | crsfn-10372-100093-2021-30 | fichas/crsfn/2022-09.md |
 | decisao-colegiado | 19957.010715/2018-37; 19957.000495/2019-14 | 2021-02-23 | outro | cvm-col-20210223-d1583 | fichas/colegiado/2021-03.md |
-| pas | 19957.010705/2019-82; RJ2014/3161 | 2020-11-10 | — | cvm-pas-19957-010705-2019-82 | fichas/pas/2020-06.md |
+| pas | 19957.010705/2019-82; RJ2014/3161 | 2020-11-10 | — | cvm-pas-19957-010705-2019-82 | fichas/pas/2020-10.md |
 | decisao-colegiado | 19957.007349/2020-53 | 2020-10-27 | outro | cvm-col-20201027-d1962 | fichas/colegiado/2020-18.md |
 | decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
 | decisao-colegiado | 19957.004658/2019-38 | 2019-07-09 | outro | cvm-col-20190709-d1464 | fichas/colegiado/2019-11.md |

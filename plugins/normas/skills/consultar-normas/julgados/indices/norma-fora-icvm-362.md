@@ -32,11 +32,11 @@ Norma: fora do acervo.
 | acordao-crsfn | 04/01 | 2015-05-26 | parcial | crsfn-9058 | fichas/crsfn/2015-02.md |
 | decisao-colegiado | RJ2008/2350 | 2008-05-20 | nao-provido | cvm-col-20080520-d07 | fichas/colegiado/2008-11.md |
 | decisao-colegiado | RJ2004/6153 | 2005-12-27 | parcial | cvm-col-20051227-d03 | fichas/colegiado/2005-20.md |
-| pas | 04/2001 | 2005-06-13 | parcial | cvm-pas-04-2001 | fichas/pas/2005-05.md |
+| pas | 04/2001 | 2005-06-13 | parcial | cvm-pas-04-2001 | fichas/pas/2005-09.md |
 | decisao-colegiado | RJ2004/6153 | 2005-05-31 | parcial | cvm-col-20050531-d01 | fichas/colegiado/2005-08.md |
 | decisao-colegiado | RJ2004/7164 | 2005-03-01 | nao-provido | cvm-col-20050301-d09 | fichas/colegiado/2005-04.md |
 | decisao-colegiado | RJ2004/6314; RJ2004/3327 | 2005-01-11 | nao-provido | cvm-col-20050111-d07 | fichas/colegiado/2005-01.md |
-| pas | 37/2000 | 2004-12-09 | absolvicao | cvm-pas-37-2000 | fichas/pas/2004-08.md |
+| pas | 37/2000 | 2004-12-09 | absolvicao | cvm-pas-37-2000 | fichas/pas/2004-15.md |
 | decisao-colegiado | RJ2002/7393 | 2004-06-15 | nao-provido | cvm-col-20040615-d09 | fichas/colegiado/2004-07.md |
 
 Fim do subíndice.

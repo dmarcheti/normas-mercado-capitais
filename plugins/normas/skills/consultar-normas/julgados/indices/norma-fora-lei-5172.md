@@ -51,7 +51,7 @@ Este subíndice tem 302 linhas e uma leitura única é cortada em silêncio pert
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 5º | pas | 19957.003999/2021-19 | 2024-08-06 | parcial | cvm-pas-19957-003999-2021-19 | fichas/pas/2024-06.md |
+| art. 5º | pas | 19957.003999/2021-19 | 2024-08-06 | parcial | cvm-pas-19957-003999-2021-19 | fichas/pas/2024-11.md |
 
 ## art. 56
 

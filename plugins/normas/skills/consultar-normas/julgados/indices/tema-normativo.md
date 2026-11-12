@@ -36,1033 +36,1033 @@ Este subíndice tem 1068 linhas e uma leitura única é cortada em silêncio per
 | 2003 | 991 |
 | 2002 | 1028 |
 
-| Tipo | Processo | Data | Resultado | Id | Ficha |
-|---|---|---|---|---|---|
-| decisao-colegiado | — | 2025-12-03 | outro | cvm-col-20251203-d3468 | fichas/colegiado/2025-12.md |
-| decisao-colegiado | 19957.015256/2025-15 | 2025-11-05 | outro | cvm-col-20251105-d3430 | fichas/colegiado/2025-11.md |
-| decisao-colegiado | 04/2024; 45/2021; 19957.002633/2024-67 | 2025-11-05 | outro | cvm-col-20251105-d3150 | fichas/colegiado/2025-11.md |
-| decisao-colegiado | 19957.012247/2023-01 | 2025-10-22 | outro | cvm-col-20251022-d2930 | fichas/colegiado/2025-10.md |
-| decisao-colegiado | 77/2022; 19957.006106/2016-11 | 2025-09-03 | outro | cvm-col-20250903-d3355 | fichas/colegiado/2025-09.md |
-| decisao-colegiado | 77/2022; 19957.006106/2016-11 | 2025-08-20 | — | cvm-col-20250820-d3355 | fichas/colegiado/2025-08.md |
-| decisao-colegiado | 19957.021153/2024-03 | 2025-08-06 | outro | cvm-col-20250806-d3194 | fichas/colegiado/2025-07.md |
-| decisao-colegiado | 51/2021; 19957.002053/2025-51; 19957.008430/2025-65 | 2025-07-30 | outro | cvm-col-20250730-d3330 | fichas/colegiado/2025-07.md |
-| decisao-colegiado | 19957.008239/2025-13 | 2025-07-09 | outro | cvm-col-20250709-d3318 | fichas/colegiado/2025-06.md |
-| decisao-colegiado | 9/2020; 19957.007985/2023-28 | 2025-07-02 | outro | cvm-col-20250702-d3319 | fichas/colegiado/2025-06.md |
-| decisao-colegiado | 01/2024; 19957.000826/2023-01 | 2025-06-06 | — | cvm-col-20250606-d3085 | fichas/colegiado/2025-05.md |
-| decisao-colegiado | 209/2024; 210/2024; 19957.009938/2021-57 | 2025-05-14 | outro | cvm-col-20250514-d2936 | fichas/colegiado/2025-04.md |
-| decisao-colegiado | 44/2021; 19957.014374/2022-55 | 2025-04-30 | outro | cvm-col-20250430-d3258 | fichas/colegiado/2025-04.md |
-| decisao-colegiado | 44/2021; 19957.014374/2022-55 | 2025-04-02 | — | cvm-col-20250402-d3258 | fichas/colegiado/2025-03.md |
-| decisao-colegiado | 02/2024; 19957.014354/2023-65 | 2025-02-24 | outro | cvm-col-20250224-d3181 | fichas/colegiado/2025-01.md |
-| decisao-colegiado | 19957.021153/2024-03 | 2024-12-17 | outro | cvm-col-20241217-d3194 | fichas/colegiado/2024-14.md |
-| decisao-colegiado | 86/2022; 19957.011104/2022-92 | 2024-12-10 | outro | cvm-col-20241210-d3117 | fichas/colegiado/2024-14.md |
-| decisao-colegiado | 19957.002633/2024-67 | 2024-12-09 | outro | cvm-col-20241209-d3150 | fichas/colegiado/2024-13.md |
-| decisao-colegiado | 19957.020245/2024-68 | 2024-12-03 | outro | cvm-col-20241203-d3180 | fichas/colegiado/2024-13.md |
-| decisao-colegiado | 19957.014354/2023-65 | 2024-11-14 | outro | cvm-col-20241114-d3181 | fichas/colegiado/2024-13.md |
-| decisao-colegiado | 06/2023; 19957.008727/2023-69 | 2024-11-13 | outro | cvm-col-20241113-d2917 | fichas/colegiado/2024-13.md |
-| decisao-colegiado | — | 2024-10-25 | outro | cvm-col-20241025-d3201 | fichas/colegiado/2024-12.md |
-| decisao-colegiado | 193/2023; 19957.018170/2024-55 | 2024-10-16 | outro | cvm-col-20241016-d3182 | fichas/colegiado/2024-11.md |
-| decisao-colegiado | 06/2023; 19957.012068/2022-84 | 2024-10-16 | — | cvm-col-20241016-d2985 | fichas/colegiado/2024-11.md |
-| decisao-colegiado | 05/2023; 85/2022; 19957.007933/2018-94 | 2024-10-02 | — | cvm-col-20241002-d2878 | fichas/colegiado/2024-10.md |
-| decisao-colegiado | 19957.002633/2024-67 | 2024-09-25 | — | cvm-col-20240925-d3150 | fichas/colegiado/2024-10.md |
-| decisao-colegiado | 19957.002633/2024-67 | 2024-09-18 | — | cvm-col-20240918-d3150 | fichas/colegiado/2024-10.md |
-| decisao-colegiado | 03/2023; 19957.004974/2021-24 | 2024-09-04 | — | cvm-col-20240904-d2242 | fichas/colegiado/2024-09.md |
-| decisao-colegiado | 19957.000826/2023-01 | 2024-08-29 | outro | cvm-col-20240829-d3085 | fichas/colegiado/2024-09.md |
-| decisao-colegiado | 02/2023; 19957.009938/2021-57 | 2024-08-14 | — | cvm-col-20240814-d2936 | fichas/colegiado/2024-09.md |
-| decisao-colegiado | 02/2023; 19957.009938/2021-57 | 2024-08-14 | outro | cvm-col-20240814-d2936-r2 | fichas/colegiado/2024-09.md |
-| decisao-colegiado | 86/2022; 19957.011104/2022-92 | 2024-08-07 | outro | cvm-col-20240807-d3117 | fichas/colegiado/2024-08.md |
-| decisao-colegiado | 47/2021; 80/2022; 161/2022; 19957.015790/2023-51 | 2024-08-07 | outro | cvm-col-20240807-d3116 | fichas/colegiado/2024-08.md |
-| decisao-colegiado | 160/2022; 19957.000850/2023-31 | 2024-08-07 | outro | cvm-col-20240807-d2814 | fichas/colegiado/2024-08.md |
-| decisao-colegiado | 19957.000826/2023-01 | 2024-07-03 | — | cvm-col-20240703-d3085 | fichas/colegiado/2024-07.md |
-| decisao-colegiado | 07/2023; 175/2022; 19957.007496/2023-76 | 2024-07-01 | outro | cvm-col-20240701-d2986 | fichas/colegiado/2024-07.md |
-| decisao-colegiado | 19957.000826/2023-01 | 2024-06-19 | — | cvm-col-20240619-d3085 | fichas/colegiado/2024-07.md |
-| decisao-colegiado | 13/2003; 19957.002880/2024-63 | 2024-06-18 | outro | cvm-col-20240618-d3083 | fichas/colegiado/2024-07.md |
-| decisao-colegiado | 19957.000826/2023-01 | 2024-06-12 | — | cvm-col-20240612-d3085 | fichas/colegiado/2024-06.md |
-| decisao-colegiado | 19957.005248/2024-71 | 2024-05-29 | outro | cvm-col-20240529-d3099 | fichas/colegiado/2024-06.md |
-| decisao-colegiado | 19957.005247/2024-27 | 2024-05-29 | outro | cvm-col-20240529-d3098 | fichas/colegiado/2024-06.md |
-| decisao-colegiado | 01/2023; 81/2022; 19957.011456/2017-81 | 2024-05-15 | — | cvm-col-20240515-d2925 | fichas/colegiado/2024-05.md |
-| decisao-colegiado | 01/2023; 81/2022; 19957.011456/2017-81 | 2024-05-15 | outro | cvm-col-20240515-d2925-r2 | fichas/colegiado/2024-05.md |
-| decisao-colegiado | 19957.003937/2024-41 | 2024-05-10 | outro | cvm-col-20240510-d3062 | fichas/colegiado/2024-05.md |
-| decisao-colegiado | 19957.004053/2024-12 | 2024-05-09 | outro | cvm-col-20240509-d3067 | fichas/colegiado/2024-05.md |
-| decisao-colegiado | 19957.004052/2024-60 | 2024-05-09 | outro | cvm-col-20240509-d3066 | fichas/colegiado/2024-05.md |
-| decisao-colegiado | 19957.001218/2024-96 | 2024-02-07 | outro | cvm-col-20240207-d3032 | fichas/colegiado/2024-02.md |
-| decisao-colegiado | — | 2024-01-26 | outro | cvm-col-20240126-d3019 | fichas/colegiado/2024-01.md |
-| decisao-colegiado | 19957.014214/2023-97 | 2023-12-19 | outro | cvm-col-20231219-d2974 | fichas/colegiado/2023-14.md |
-| decisao-colegiado | 35/2021; 19957.014214/2023-97 | 2023-12-13 | — | cvm-col-20231213-d2974 | fichas/colegiado/2023-13.md |
-| decisao-colegiado | 19957.012068/2022-84 | 2023-12-06 | outro | cvm-col-20231206-d2985 | fichas/colegiado/2023-13.md |
-| decisao-colegiado | — | 2023-11-29 | outro | cvm-col-20231129-d2976 | fichas/colegiado/2023-13.md |
-| decisao-colegiado | 85/2022; 19957.007933/2018-94 | 2023-11-22 | outro | cvm-col-20231122-d2878 | fichas/colegiado/2023-13.md |
-| decisao-colegiado | 19957.003216/2021-99 | 2023-11-08 | outro | cvm-col-20231108-d2967 | fichas/colegiado/2023-12.md |
-| decisao-colegiado | 85/2022; 19957.007933/2018-94 | 2023-11-08 | — | cvm-col-20231108-d2878 | fichas/colegiado/2023-12.md |
-| decisao-colegiado | 60/2021; 19957.009911/2021-64 | 2023-11-01 | outro | cvm-col-20231101-d1640 | fichas/colegiado/2023-12.md |
-| decisao-colegiado | 19957.011044/2019-11 | 2023-10-17 | outro | cvm-col-20231017-d1738 | fichas/colegiado/2023-11.md |
-| decisao-colegiado | 19957.003419/2023-47 | 2023-10-11 | outro | cvm-col-20231011-d2957 | fichas/colegiado/2023-11.md |
-| decisao-colegiado | 04/2023; 19957.007414/2023-93 | 2023-10-04 | outro | cvm-col-20231004-d2887 | fichas/colegiado/2023-11.md |
-| decisao-colegiado | 19957.007883/2023-11 | 2023-09-26 | — | cvm-col-20230926-d2934 | fichas/colegiado/2023-10.md |
-| decisao-colegiado | 19957.007883/2023-11 | 2023-09-26 | outro | cvm-col-20230926-d2934-r2 | fichas/colegiado/2023-10.md |
-| decisao-colegiado | 19957.009938/2021-57 | 2023-09-20 | outro | cvm-col-20230920-d2936 | fichas/colegiado/2023-10.md |
-| decisao-colegiado | 81/2022; 19957.011456/2017-81 | 2023-08-23 | outro | cvm-col-20230823-d2925 | fichas/colegiado/2023-09.md |
-| decisao-colegiado | 19957.008727/2023-69 | 2023-08-16 | outro | cvm-col-20230816-d2917 | fichas/colegiado/2023-09.md |
-| decisao-colegiado | 19957.009517/2023-98 | 2023-08-16 | outro | cvm-col-20230816-d2795 | fichas/colegiado/2023-09.md |
-| decisao-colegiado | 19957.001770/2023-01 | 2023-08-15 | outro | cvm-col-20230815-d2914 | fichas/colegiado/2023-09.md |
-| decisao-colegiado | 19957.002556/2021-01 | 2023-08-15 | outro | cvm-col-20230815-d2910 | fichas/colegiado/2023-09.md |
-| decisao-colegiado | 19957.008727/2023-69 | 2023-08-09 | — | cvm-col-20230809-d2917 | fichas/colegiado/2023-08.md |
-| decisao-colegiado | 19957.015402/2022-51 | 2023-07-14 | outro | cvm-col-20230714-d2844 | fichas/colegiado/2023-08.md |
-| decisao-colegiado | 19957.002556/2021-01 | 2023-07-12 | — | cvm-col-20230712-d2910 | fichas/colegiado/2023-08.md |
-| decisao-colegiado | 9/2020; 19957.000127/2020-18 | 2023-07-11 | outro | cvm-col-20230711-d1683 | fichas/colegiado/2023-07.md |
-| decisao-colegiado | 19957.009696/2021-00 | 2023-07-05 | outro | cvm-col-20230705-d2909 | fichas/colegiado/2023-07.md |
-| decisao-colegiado | 03/2021; 19957.000017/2019-12 | 2023-05-03 | outro | cvm-col-20230503-d2124 | fichas/colegiado/2023-05.md |
-| decisao-colegiado | 19957.002146/2023-13 | 2023-03-28 | outro | cvm-col-20230328-d5474 | fichas/colegiado/2023-04.md |
-| decisao-colegiado | 05/2021; 19957.009468/2018-26 | 2023-02-08 | — | cvm-col-20230208-d1441 | fichas/colegiado/2023-02.md |
-| decisao-colegiado | 08/2020; 19957.009249/2019-28 | 2022-12-14 | — | cvm-col-20221214-d5474 | fichas/colegiado/2022-17.md |
-| decisao-colegiado | — | 2022-12-14 | outro | cvm-col-20221214-d2795 | fichas/colegiado/2022-17.md |
-| decisao-colegiado | — | 2022-12-14 | outro | cvm-col-20221214-d2794 | fichas/colegiado/2022-17.md |
-| decisao-colegiado | — | 2022-12-02 | outro | cvm-col-20221202-d2793 | fichas/colegiado/2022-16.md |
-| decisao-colegiado | 08/2020; 19957.009249/2019-28 | 2022-11-30 | — | cvm-col-20221130-d5474-r2 | fichas/colegiado/2022-16.md |
-| decisao-colegiado | 04/2021; 19957.007796/2020-11 | 2022-11-23 | outro | cvm-col-20221123-d2214 | fichas/colegiado/2022-15.md |
-| decisao-colegiado | 08/2020; 19957.009249/2019-28 | 2022-11-16 | — | cvm-col-20221116-d5474 | fichas/colegiado/2022-15.md |
-| decisao-colegiado | 08/2020; 19957.009249/2019-28 | 2022-11-01 | — | cvm-col-20221101-d5474 | fichas/colegiado/2022-15.md |
-| decisao-colegiado | 08/2020; 19957.009249/2019-28 | 2022-10-26 | — | cvm-col-20221026-d5474 | fichas/colegiado/2022-15.md |
-| decisao-colegiado | 08/2020; 19957.009249/2019-28 | 2022-10-05 | — | cvm-col-20221005-d5474 | fichas/colegiado/2022-14.md |
-| decisao-colegiado | 09/2021; 367/2002; 480/2009; 19957.005520/2019-56 | 2022-09-14 | outro | cvm-col-20220914-d1763 | fichas/colegiado/2022-13.md |
-| decisao-colegiado | 21/2021; 19957.008013/2020-16 | 2022-09-13 | outro | cvm-col-20220913-d2076 | fichas/colegiado/2022-13.md |
-| decisao-colegiado | 19957.011042/2022-19 | 2022-08-31 | outro | cvm-col-20220831-d2682 | fichas/colegiado/2022-13.md |
-| decisao-colegiado | 09/2021; 367/2002; 480/2009; 19957.005520/2019-56 | 2022-08-31 | — | cvm-col-20220831-d1763 | fichas/colegiado/2022-13.md |
-| decisao-colegiado | — | 2022-08-24 | outro | cvm-col-20220824-d2680 | fichas/colegiado/2022-12.md |
-| decisao-colegiado | — | 2022-08-24 | outro | cvm-col-20220824-d2440 | fichas/colegiado/2022-12.md |
-| decisao-colegiado | — | 2022-08-24 | outro | cvm-col-20220824-d2439 | fichas/colegiado/2022-12.md |
-| decisao-colegiado | 476/2009; 19957.010717/2022-11 | 2022-08-16 | outro | cvm-col-20220816-d2670 | fichas/colegiado/2022-12.md |
-| decisao-colegiado | 465/2008; 512/2011; 514/2011; 19957.010670/2022-87 | 2022-08-05 | outro | cvm-col-20220805-d2668 | fichas/colegiado/2022-12.md |
-| decisao-colegiado | 19957.010578/2022-17 | 2022-08-05 | outro | cvm-col-20220805-d2667 | fichas/colegiado/2022-12.md |
-| decisao-colegiado | 02/2021; 19957.009300/2018-11 | 2022-06-28 | — | cvm-col-20220628-d1255 | fichas/colegiado/2022-10.md |
-| decisao-colegiado | 02/2021; 19957.009300/2018-11 | 2022-06-08 | — | cvm-col-20220608-d1255 | fichas/colegiado/2022-10.md |
-| decisao-colegiado | 09/2019; 19957.002618/2016-17 | 2022-05-25 | — | cvm-col-20220525-d2676 | fichas/colegiado/2022-09.md |
-| decisao-colegiado | 09/2019; 19957.002618/2016-17 | 2022-05-25 | outro | cvm-col-20220525-d2676-r2 | fichas/colegiado/2022-09.md |
-| decisao-colegiado | 09/2019; 19957.002618/2016-17 | 2022-05-12 | — | cvm-col-20220512-d2676 | fichas/colegiado/2022-08.md |
-| decisao-colegiado | 09/2019; 19957.002618/2016-17 | 2022-05-11 | — | cvm-col-20220511-d2676 | fichas/colegiado/2022-07.md |
-| decisao-colegiado | 19957.002842/2022-49; 19957.003136/2022-14; 19957.003137/2022-69; 19957.003141/2022-27; 19957.003158/2022-84; 19957.003160/2022-53; 19957.003398/2022-89; 19957.003665/2022-18; 19957.003667/2022-15; 19957.003668/2022-51; 19957.003838/2022-06; 19957.003849/2022-88; 19957.003854/2022-91; 19957.003859/2022-13; 19957.003891/2022-07; 19957.003892/2022-43; 19957.003895/2022-87; 19957.005553/2021-11 | 2022-05-04 | outro | cvm-col-20220504-d2629 | fichas/colegiado/2022-07.md |
-| decisao-colegiado | 19957.003923/2022-66 | 2022-05-04 | outro | cvm-col-20220504-d2628 | fichas/colegiado/2022-07.md |
-| decisao-colegiado | 02/2020; 588/2017; 19957.010197/2019-32 | 2022-04-13 | outro | cvm-col-20220413-d1737 | fichas/colegiado/2022-06.md |
-| decisao-colegiado | 19957.009726/2021-70 | 2022-03-30 | outro | cvm-col-20220330-d2568 | fichas/colegiado/2022-05.md |
-| decisao-colegiado | 19957.002070/2022-45 | 2022-03-30 | outro | cvm-col-20220330-d2538 | fichas/colegiado/2022-05.md |
-| decisao-colegiado | 59/2021; 19957.009725/2021-25 | 2022-03-30 | outro | cvm-col-20220330-d2516 | fichas/colegiado/2022-05.md |
-| decisao-colegiado | 19957.002070/2022-45 | 2022-03-23 | outro | cvm-col-20220323-d2538 | fichas/colegiado/2022-04.md |
-| decisao-colegiado | 19957.009725/2021-25 | 2022-03-23 | outro | cvm-col-20220323-d2516 | fichas/colegiado/2022-04.md |
-| decisao-colegiado | 01/2021; 480/2009; 19957.000939/2021-36 | 2022-03-16 | outro | cvm-col-20220316-d2059 | fichas/colegiado/2022-04.md |
-| decisao-colegiado | 19957.009725/2021-25 | 2022-03-15 | outro | cvm-col-20220315-d2516 | fichas/colegiado/2022-03.md |
-| decisao-colegiado | 02/2020; 588/2017; 19957.010197/2019-32 | 2022-03-14 | — | cvm-col-20220314-d1737 | fichas/colegiado/2022-03.md |
-| decisao-colegiado | 19957.005259/2021-17 | 2022-02-23 | outro | cvm-col-20220223-d2499 | fichas/colegiado/2022-02.md |
-| decisao-colegiado | 45/2021; 19957.007410/2021-43 | 2022-02-09 | outro | cvm-col-20220209-d2483 | fichas/colegiado/2022-02.md |
-| decisao-colegiado | 07/2021; 45/2021; 46/2021; 19957.009677/2021-75 | 2022-02-09 | outro | cvm-col-20220209-d2404 | fichas/colegiado/2022-02.md |
-| decisao-colegiado | 06/2021; 13/2020; 19957.005256/2019-51 | 2022-02-02 | outro | cvm-col-20220202-d2307 | fichas/colegiado/2022-01.md |
-| decisao-colegiado | 367/2002; 480/2009; 19957.005520/2019-56 | 2021-12-15 | outro | cvm-col-20211215-d1763 | fichas/colegiado/2021-22.md |
-| decisao-colegiado | — | 2021-12-08 | outro | cvm-col-20211208-d2440 | fichas/colegiado/2021-22.md |
-| decisao-colegiado | 472/2008; 19957.007979/2016-41 | 2021-12-08 | outro | cvm-col-20211208-d2097 | fichas/colegiado/2021-21.md |
-| decisao-colegiado | — | 2021-12-06 | outro | cvm-col-20211206-d2439 | fichas/colegiado/2021-21.md |
-| decisao-colegiado | 19957.008864/2021-31 | 2021-12-01 | outro | cvm-col-20211201-d2410 | fichas/colegiado/2021-21.md |
-| decisao-colegiado | 19957.009677/2021-75 | 2021-12-01 | outro | cvm-col-20211201-d2404 | fichas/colegiado/2021-21.md |
-| decisao-colegiado | 09/2020; 480/2009; 481/2009; 19957.004286/2019-40 | 2021-11-24 | outro | cvm-col-20211124-d1673 | fichas/colegiado/2021-20.md |
-| decisao-colegiado | 09/2020; 480/2009; 481/2009; 19957.004286/2019-40 | 2021-11-17 | — | cvm-col-20211117-d1673 | fichas/colegiado/2021-19.md |
-| decisao-colegiado | 05/2020; 19957.000471/2019-65 | 2021-10-27 | outro | cvm-col-20211027-d1640 | fichas/colegiado/2021-18.md |
-| decisao-colegiado | — | 2021-10-20 | — | cvm-col-20211020-d2373 | fichas/colegiado/2021-17.md |
-| decisao-colegiado | 19957.001885/2020-45 | 2021-10-19 | outro | cvm-col-20211019-d2348 | fichas/colegiado/2021-17.md |
-| decisao-colegiado | 19957.001439/2020-31 | 2021-10-19 | outro | cvm-col-20211019-d2347 | fichas/colegiado/2021-17.md |
-| decisao-colegiado | 19957.000797/2020-26 | 2021-10-19 | outro | cvm-col-20211019-d2346 | fichas/colegiado/2021-17.md |
-| decisao-colegiado | 19957.000797/2020-26; 19957.001439/2020-31; 19957.001885/2020-45; 19957.006545/2021-91 | 2021-10-13 | — | cvm-col-20211013-d2346 | fichas/colegiado/2021-16.md |
-| decisao-colegiado | 05/2020; 19957.000471/2019-65 | 2021-10-13 | — | cvm-col-20211013-d1640 | fichas/colegiado/2021-16.md |
-| decisao-colegiado | 05/2020; 19957.000471/2019-65 | 2021-09-15 | — | cvm-col-20210915-d1640 | fichas/colegiado/2021-15.md |
-| decisao-colegiado | 19957.005256/2019-51 | 2021-09-08 | outro | cvm-col-20210908-d2307 | fichas/colegiado/2021-15.md |
-| decisao-colegiado | 19957.006766/2021-60 | 2021-08-31 | outro | cvm-col-20210831-d2293 | fichas/colegiado/2021-15.md |
-| decisao-colegiado | 19957.006283/2020-84 | 2021-08-25 | outro | cvm-col-20210825-d2044 | fichas/colegiado/2021-14.md |
-| decisao-colegiado | — | 2021-08-24 | outro | cvm-col-20210824-d1989 | fichas/colegiado/2021-14.md |
-| decisao-colegiado | 19957.006121/2021-27 | 2021-08-18 | outro | cvm-col-20210818-d2277 | fichas/colegiado/2021-14.md |
-| decisao-colegiado | 19957.005656/2021-81 | 2021-08-17 | outro | cvm-col-20210817-d2273 | fichas/colegiado/2021-13.md |
-| decisao-colegiado | 19957.006121/2021-27 | 2021-08-11 | outro | cvm-col-20210811-d2277 | fichas/colegiado/2021-13.md |
-| decisao-colegiado | 06/2020; 358/2002; 19957.007901/2016-27 | 2021-08-11 | outro | cvm-col-20210811-d1896 | fichas/colegiado/2021-13.md |
-| decisao-colegiado | 19957.006037/2021-11 | 2021-07-28 | outro | cvm-col-20210728-d2263 | fichas/colegiado/2021-13.md |
-| decisao-colegiado | 19957.009468/2018-26 | 2021-07-21 | outro | cvm-col-20210721-d1441 | fichas/colegiado/2021-12.md |
-| decisao-colegiado | 19957.009468/2018-26 | 2021-07-07 | — | cvm-col-20210707-d1441 | fichas/colegiado/2021-11.md |
-| decisao-colegiado | 19957.001484/2020-95 | 2021-06-22 | outro | cvm-col-20210622-d1921 | fichas/colegiado/2021-10.md |
-| decisao-colegiado | 19957.004700/2021-35 | 2021-06-16 | outro | cvm-col-20210616-d2215 | fichas/colegiado/2021-10.md |
-| decisao-colegiado | 19957.007796/2020-11 | 2021-06-16 | outro | cvm-col-20210616-d2214 | fichas/colegiado/2021-10.md |
-| decisao-colegiado | 19957.004004/2021-29 | 2021-05-25 | outro | cvm-col-20210525-d2190 | fichas/colegiado/2021-09.md |
-| decisao-colegiado | 19957.004002/2021-30 | 2021-05-18 | outro | cvm-col-20210518-d2175 | fichas/colegiado/2021-09.md |
-| decisao-colegiado | 19957.003641/2021-88 | 2021-05-11 | outro | cvm-col-20210511-d2162 | fichas/colegiado/2021-08.md |
-| decisao-colegiado | 19957.000017/2019-12 | 2021-05-10 | outro | cvm-col-20210510-d2124 | fichas/colegiado/2021-08.md |
-| decisao-colegiado | 19957.003823/2021-59 | 2021-05-05 | outro | cvm-col-20210505-d2164 | fichas/colegiado/2021-08.md |
-| decisao-colegiado | 19957.000017/2019-12 | 2021-05-05 | — | cvm-col-20210505-d2124 | fichas/colegiado/2021-08.md |
-| decisao-colegiado | 19957.000017/2019-12 | 2021-04-28 | — | cvm-col-20210428-d2124 | fichas/colegiado/2021-07.md |
-| decisao-colegiado | 04/2020; 19957.004718/2020-56 | 2021-04-14 | outro | cvm-col-20210414-d1910 | fichas/colegiado/2021-07.md |
-| decisao-colegiado | 19957.001391/2021-41 | 2021-03-31 | outro | cvm-col-20210331-d2130 | fichas/colegiado/2021-06.md |
-| decisao-colegiado | 19957.000017/2019-12 | 2021-03-31 | — | cvm-col-20210331-d2124 | fichas/colegiado/2021-06.md |
-| decisao-colegiado | 19957.002798/2021-96 | 2021-03-30 | outro | cvm-col-20210330-d2176 | fichas/colegiado/2021-06.md |
-| decisao-colegiado | 19957.000017/2019-12 | 2021-03-24 | outro | cvm-col-20210324-d2124 | fichas/colegiado/2021-06.md |
-| decisao-colegiado | 19957.008749/2020-86 | 2021-03-24 | outro | cvm-col-20210324-d2060 | fichas/colegiado/2021-06.md |
-| decisao-colegiado | 19957.007440/2020-79 | 2021-03-17 | deferido | cvm-col-20210317-d1472 | fichas/colegiado/2021-05.md |
-| decisao-colegiado | 19957.001390/2021-05 | 2021-02-24 | outro | cvm-col-20210224-d2091 | fichas/colegiado/2021-04.md |
-| decisao-colegiado | 19957.009300/2018-11 | 2021-02-24 | outro | cvm-col-20210224-d1255 | fichas/colegiado/2021-04.md |
-| decisao-colegiado | 19957.000951/2021-41 | 2021-02-23 | outro | cvm-col-20210223-d2079 | fichas/colegiado/2021-04.md |
-| decisao-colegiado | 05/2020; 19957.000841/2021-89 | 2021-02-10 | outro | cvm-col-20210210-d2000 | fichas/colegiado/2021-03.md |
-| decisao-colegiado | 07/2020; 308/1999; 19957.006874/2019-18 | 2021-02-10 | — | cvm-col-20210210-d1590 | fichas/colegiado/2021-03.md |
-| decisao-colegiado | 19957.000808/2021-59 | 2021-02-09 | outro | cvm-col-20210209-d2056 | fichas/colegiado/2021-03.md |
-| decisao-colegiado | 480/2009; 19957.000939/2021-36 | 2021-02-03 | outro | cvm-col-20210203-d2059 | fichas/colegiado/2021-02.md |
-| decisao-colegiado | 8/2020; 19957.000029/2021-53 | 2021-01-19 | parcial | cvm-col-20210119-d2034 | fichas/colegiado/2021-01.md |
-| decisao-colegiado | 19957.009300/2018-11 | 2021-01-14 | — | cvm-col-20210114-d1255 | fichas/colegiado/2021-01.md |
-| decisao-colegiado | 19957.009300/2018-11 | 2021-01-13 | — | cvm-col-20210113-d1255 | fichas/colegiado/2021-01.md |
-| decisao-colegiado | 19957.009300/2018-11 | 2021-01-13 | — | cvm-col-20210113-d1255-r2 | fichas/colegiado/2021-01.md |
-| decisao-colegiado | 19957.009300/2018-11 | 2021-01-06 | — | cvm-col-20210106-d1255 | fichas/colegiado/2021-01.md |
-| decisao-colegiado | 19957.009300/2018-11 | 2020-12-14 | — | cvm-col-20201214-d1255 | fichas/colegiado/2020-21.md |
-| decisao-colegiado | 19957.009300/2018-11 | 2020-12-09 | — | cvm-col-20201209-d1255 | fichas/colegiado/2020-21.md |
-| decisao-colegiado | — | 2020-12-02 | outro | cvm-col-20201202-d2011 | fichas/colegiado/2020-20.md |
-| decisao-colegiado | 19957.009300/2018-11 | 2020-11-27 | — | cvm-col-20201127-d1255 | fichas/colegiado/2020-20.md |
-| decisao-colegiado | — | 2020-11-25 | outro | cvm-col-20201125-d1989 | fichas/colegiado/2020-20.md |
-| decisao-colegiado | 19957.009300/2018-11 | 2020-11-18 | — | cvm-col-20201118-d1255 | fichas/colegiado/2020-19.md |
-| decisao-colegiado | 19957.007957/2020-68 | 2020-11-17 | outro | cvm-col-20201117-d1976 | fichas/colegiado/2020-19.md |
-| decisao-colegiado | 19957.007347/2020-64 | 2020-11-17 | outro | cvm-col-20201117-d1975 | fichas/colegiado/2020-19.md |
-| decisao-colegiado | — | 2020-11-13 | outro | cvm-col-20201113-d1980 | fichas/colegiado/2020-19.md |
-| decisao-colegiado | 19957.005520/2019-56 | 2020-11-11 | — | cvm-col-20201111-d1763 | fichas/colegiado/2020-19.md |
-| decisao-colegiado | 480/2009; 19957.004286/2019-40 | 2020-11-11 | outro | cvm-col-20201111-d1673 | fichas/colegiado/2020-19.md |
-| decisao-colegiado | 480/2009; 19957.004286/2019-40 | 2020-11-04 | — | cvm-col-20201104-d1673 | fichas/colegiado/2020-18.md |
-| decisao-colegiado | 19957.007629/2020-61 | 2020-11-03 | outro | cvm-col-20201103-d1966 | fichas/colegiado/2020-18.md |
-| decisao-colegiado | 555/2014; 356/2001; 19957.009249/2019-28 | 2020-10-29 | outro | cvm-col-20201029-d5474 | fichas/colegiado/2020-18.md |
-| decisao-colegiado | 19957.007951/2020-91 | 2020-10-29 | — | cvm-col-20201029-d2012 | fichas/colegiado/2020-18.md |
-| decisao-colegiado | 19957.007440/2020-79 | 2020-10-27 | outro | cvm-col-20201027-d1472 | fichas/colegiado/2020-18.md |
-| decisao-colegiado | 555/2014; 356/2001; 19957.009249/2019-28 | 2020-10-21 | — | cvm-col-20201021-d5474 | fichas/colegiado/2020-17.md |
-| decisao-colegiado | 04/2019; 19957.004537/2019-96 | 2020-10-07 | outro | cvm-col-20201007-d1428 | fichas/colegiado/2020-17.md |
-| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
-| decisao-colegiado | 19957.004615/2020-96; 19957.004718/2020-56 | 2020-09-16 | outro | cvm-col-20200916-d1910 | fichas/colegiado/2020-15.md |
-| decisao-colegiado | 260/1997; 19957.010008/2019-21 | 2020-09-09 | outro | cvm-col-20200909-d2376 | fichas/colegiado/2020-15.md |
-| decisao-colegiado | 19957.004615/2020-96; 19957.004718/2020-56 | 2020-09-09 | — | cvm-col-20200909-d1910 | fichas/colegiado/2020-15.md |
-| decisao-colegiado | 19957.004615/2020-96; 19957.004718/2020-56 | 2020-09-02 | — | cvm-col-20200902-d1910 | fichas/colegiado/2020-14.md |
-| decisao-colegiado | 481/2009; 931/2020; 19957.002843/2020-21 | 2020-08-26 | outro | cvm-col-20200826-d1811 | fichas/colegiado/2020-14.md |
-| decisao-colegiado | 308/1999; 19957.006874/2019-18 | 2020-08-26 | outro | cvm-col-20200826-d1426 | fichas/colegiado/2020-14.md |
-| decisao-colegiado | 358/2002; 19957.007901/2016-27 | 2020-08-19 | outro | cvm-col-20200819-d1896 | fichas/colegiado/2020-13.md |
-| decisao-colegiado | 19957.004398/2020-34 | 2020-08-19 | outro | cvm-col-20200819-d1880 | fichas/colegiado/2020-13.md |
-| decisao-colegiado | 19957.004398/2020-34 | 2020-08-11 | — | cvm-col-20200811-d1880 | fichas/colegiado/2020-13.md |
-| decisao-colegiado | 19957.011044/2019-11 | 2020-08-05 | outro | cvm-col-20200805-d1738 | fichas/colegiado/2020-12.md |
-| decisao-colegiado | — | 2020-07-29 | outro | cvm-col-20200729-d1649 | fichas/colegiado/2020-12.md |
-| decisao-colegiado | 08/2019; 19957.000017/2019-12 | 2020-07-22 | outro | cvm-col-20200722-d1474 | fichas/colegiado/2020-11.md |
-| decisao-colegiado | 19957.004548/2020-18 | 2020-07-21 | outro | cvm-col-20200721-d1860 | fichas/colegiado/2020-11.md |
-| decisao-colegiado | 19957.011044/2019-11 | 2020-07-15 | outro | cvm-col-20200715-d1738 | fichas/colegiado/2020-11.md |
-| decisao-colegiado | 08/2019; 19957.000017/2019-12 | 2020-07-15 | — | cvm-col-20200715-d1474 | fichas/colegiado/2020-11.md |
-| decisao-colegiado | 02/2020; 19957.004091/2020-33 | 2020-07-06 | outro | cvm-col-20200706-d1840 | fichas/colegiado/2020-10.md |
-| decisao-colegiado | 19957.011044/2019-11 | 2020-07-01 | outro | cvm-col-20200701-d1738 | fichas/colegiado/2020-10.md |
-| decisao-colegiado | 19957.009249/2019-28 | 2020-06-26 | — | cvm-col-20200626-d5474 | fichas/colegiado/2020-10.md |
-| decisao-colegiado | 19957.004091/2020-33 | 2020-06-12 | outro | cvm-col-20200612-d1840 | fichas/colegiado/2020-10.md |
-| decisao-colegiado | 19957.009249/2019-28 | 2020-06-10 | — | cvm-col-20200610-d5474 | fichas/colegiado/2020-10.md |
-| decisao-colegiado | 19957.009249/2019-28 | 2020-06-08 | — | cvm-col-20200608-d5474 | fichas/colegiado/2020-09.md |
-| decisao-colegiado | 19957.011044/2019-11 | 2020-06-03 | outro | cvm-col-20200603-d1738 | fichas/colegiado/2020-09.md |
-| decisao-colegiado | 749/2016; 19957.000974/2020-74 | 2020-06-02 | outro | cvm-col-20200602-d1806 | fichas/colegiado/2020-09.md |
-| decisao-colegiado | 19957.009249/2019-28 | 2020-05-28 | — | cvm-col-20200528-d5474 | fichas/colegiado/2020-09.md |
-| decisao-colegiado | 19957.009249/2019-28 | 2020-05-20 | — | cvm-col-20200520-d5474 | fichas/colegiado/2020-08.md |
-| decisao-colegiado | 19957.011044/2019-11 | 2020-05-20 | outro | cvm-col-20200520-d1738 | fichas/colegiado/2020-08.md |
-| decisao-colegiado | 749/2016; 19957.000974/2020-74 | 2020-05-19 | — | cvm-col-20200519-d1806 | fichas/colegiado/2020-08.md |
-| decisao-colegiado | 19957.003290/2020-24 | 2020-05-13 | outro | cvm-col-20200513-d2894 | fichas/colegiado/2020-08.md |
-| decisao-colegiado | 04/2020; 19957.002993/2020-35 | 2020-05-13 | outro | cvm-col-20200513-d1815 | fichas/colegiado/2020-08.md |
-| decisao-colegiado | 04/2020; 19957.002993/2020-35 | 2020-05-12 | deferido | cvm-col-20200512-d1815 | fichas/colegiado/2020-08.md |
-| decisao-colegiado | 19957.009249/2019-28 | 2020-05-06 | — | cvm-col-20200506-d5474 | fichas/colegiado/2020-08.md |
-| decisao-colegiado | 19957.011044/2019-11 | 2020-05-06 | outro | cvm-col-20200506-d1738 | fichas/colegiado/2020-08.md |
-| decisao-colegiado | 19957.002843/2020-21 | 2020-05-04 | outro | cvm-col-20200504-d1811 | fichas/colegiado/2020-07.md |
-| decisao-colegiado | 19957.002993/2020-35 | 2020-04-24 | outro | cvm-col-20200424-d1815 | fichas/colegiado/2020-07.md |
-| decisao-colegiado | 03/2020; 19957.002843/2020-21 | 2020-04-16 | outro | cvm-col-20200416-d1811 | fichas/colegiado/2020-07.md |
-| decisao-colegiado | 19957.002351/2020-36 | 2020-04-15 | outro | cvm-col-20200415-d1767 | fichas/colegiado/2020-07.md |
-| decisao-colegiado | 19957.011044/2019-11 | 2020-04-15 | outro | cvm-col-20200415-d1738 | fichas/colegiado/2020-07.md |
-| decisao-colegiado | 05/2019; 19957.008843/2018-11 | 2020-04-08 | outro | cvm-col-20200408-d1472 | fichas/colegiado/2020-06.md |
-| decisao-colegiado | 05/2019; 19957.008843/2018-11 | 2020-04-01 | — | cvm-col-20200401-d1472 | fichas/colegiado/2020-06.md |
-| decisao-colegiado | 19957.002351/2020-36 | 2020-03-25 | outro | cvm-col-20200325-d1767 | fichas/colegiado/2020-05.md |
-| decisao-colegiado | 19957.010008/2019-21 | 2020-03-18 | outro | cvm-col-20200318-d2376 | fichas/colegiado/2020-05.md |
-| decisao-colegiado | 19957.005520/2019-56 | 2020-03-18 | — | cvm-col-20200318-d1763 | fichas/colegiado/2020-05.md |
-| decisao-colegiado | 19957.001833/2020-79 | 2020-03-17 | outro | cvm-col-20200317-d1756 | fichas/colegiado/2020-05.md |
-| decisao-colegiado | 19957.001918/2020-57 | 2020-03-16 | outro | cvm-col-20200316-d1759 | fichas/colegiado/2020-05.md |
-| decisao-colegiado | 19957.005520/2019-56 | 2020-03-11 | outro | cvm-col-20200311-d1763 | fichas/colegiado/2020-05.md |
-| decisao-colegiado | 06/2019; 19957.008214/2018-91 | 2020-03-04 | outro | cvm-col-20200304-d8528 | fichas/colegiado/2020-04.md |
-| decisao-colegiado | 19957.011044/2019-11 | 2020-02-12 | — | cvm-col-20200212-d1738 | fichas/colegiado/2020-03.md |
-| decisao-colegiado | 588/2017; 19957.010197/2019-32 | 2020-02-05 | — | cvm-col-20200205-d1737 | fichas/colegiado/2020-03.md |
-| decisao-colegiado | 19957.000127/2020-18 | 2020-01-28 | outro | cvm-col-20200128-d1683 | fichas/colegiado/2020-02.md |
-| decisao-colegiado | 19957.010782/2018-51 | 2020-01-28 | outro | cvm-col-20200128-d1160 | fichas/colegiado/2020-02.md |
-| decisao-colegiado | 480/2009; 19957.004286/2019-40 | 2019-12-19 | — | cvm-col-20191219-d1673 | fichas/colegiado/2019-21.md |
-| decisao-colegiado | — | 2019-12-11 | outro | cvm-col-20191211-d1649 | fichas/colegiado/2019-21.md |
-| decisao-colegiado | 19957.007649/2019-07 | 2019-12-10 | outro | cvm-col-20191210-d1580 | fichas/colegiado/2019-20.md |
-| decisao-colegiado | 19957.002618/2016-17 | 2019-12-05 | outro | cvm-col-20191205-d2676 | fichas/colegiado/2019-20.md |
-| decisao-colegiado | 02/2019; 19957.008230/2019-64 | 2019-12-04 | outro | cvm-col-20191204-d1523 | fichas/colegiado/2019-20.md |
-| decisao-colegiado | 19957.000017/2019-12 | 2019-12-04 | outro | cvm-col-20191204-d1474 | fichas/colegiado/2019-20.md |
-| decisao-colegiado | 19957.002618/2016-17 | 2019-11-29 | — | cvm-col-20191129-d2676 | fichas/colegiado/2019-19.md |
-| decisao-colegiado | 505/2011; 19957.002618/2016-17 | 2019-11-27 | — | cvm-col-20191127-d2676 | fichas/colegiado/2019-19.md |
-| decisao-colegiado | 461/2007; 19957.002618/2016-17 | 2019-11-14 | — | cvm-col-20191114-d2676 | fichas/colegiado/2019-18.md |
-| decisao-colegiado | 461/2007; 19957.002618/2016-17 | 2019-11-06 | — | cvm-col-20191106-d2676 | fichas/colegiado/2019-18.md |
-| decisao-colegiado | 19957.010008/2019-21 | 2019-11-05 | outro | cvm-col-20191105-d2376 | fichas/colegiado/2019-18.md |
-| decisao-colegiado | 02/2019; 19957.007933/2018-94 | 2019-10-30 | — | cvm-col-20191030-d2878 | fichas/colegiado/2019-17.md |
-| decisao-colegiado | 19957.000040/2018-18 | 2019-10-16 | — | cvm-col-20191016-d1223 | fichas/colegiado/2019-17.md |
-| decisao-colegiado | — | 2019-10-08 | outro | cvm-col-20191008-d1566 | fichas/colegiado/2019-16.md |
-| decisao-colegiado | 19957.000040/2018-18 | 2019-10-02 | — | cvm-col-20191002-d1223 | fichas/colegiado/2019-16.md |
-| decisao-colegiado | 19957.009249/2019-28 | 2019-09-30 | outro | cvm-col-20190930-d1579 | fichas/colegiado/2019-15.md |
-| decisao-colegiado | 19957.007649/2019-07 | 2019-09-27 | outro | cvm-col-20190927-d1580 | fichas/colegiado/2019-15.md |
-| decisao-colegiado | 19957.000040/2018-18 | 2019-09-18 | — | cvm-col-20190918-d1223 | fichas/colegiado/2019-15.md |
-| decisao-colegiado | 19957.003208/2019-28 | 2019-09-09 | outro | cvm-col-20190909-d4715 | fichas/colegiado/2019-14.md |
-| decisao-colegiado | 19957.008010/2019-31 | 2019-09-03 | outro | cvm-col-20190903-d1522 | fichas/colegiado/2019-14.md |
-| decisao-colegiado | 19957.008237/2019-86 | 2019-08-29 | outro | cvm-col-20190829-d2894 | fichas/colegiado/2019-13.md |
-| decisao-colegiado | 19957.008229/2019-30 | 2019-08-28 | outro | cvm-col-20190828-d5917 | fichas/colegiado/2019-13.md |
-| decisao-colegiado | 19957.008214/2018-91 | 2019-08-21 | outro | cvm-col-20190821-d8528 | fichas/colegiado/2019-13.md |
-| decisao-colegiado | 19957.008843/2018-11 | 2019-08-14 | outro | cvm-col-20190814-d1472 | fichas/colegiado/2019-12.md |
-| decisao-colegiado | 04/2018; 19957.010666/2018-32 | 2019-08-07 | outro | cvm-col-20190807-d1426 | fichas/colegiado/2019-12.md |
-| decisao-colegiado | 19957.003450/2019-00 | 2019-08-06 | outro | cvm-col-20190806-d1491 | fichas/colegiado/2019-12.md |
-| decisao-colegiado | 05/2018; 505/2011; 19957.010782/2018-51 | 2019-07-31 | outro | cvm-col-20190731-d1160 | fichas/colegiado/2019-12.md |
-| decisao-colegiado | 19957.000017/2019-12 | 2019-07-10 | outro | cvm-col-20190710-d1474 | fichas/colegiado/2019-11.md |
-| decisao-colegiado | 48/2019; 19957.003208/2019-28 | 2019-07-09 | — | cvm-col-20190709-d4715 | fichas/colegiado/2019-11.md |
-| decisao-colegiado | 19957.008843/2018-11 | 2019-07-03 | outro | cvm-col-20190703-d1472 | fichas/colegiado/2019-11.md |
-| decisao-colegiado | 19957.004537/2019-96 | 2019-06-19 | outro | cvm-col-20190619-d1428 | fichas/colegiado/2019-10.md |
-| decisao-colegiado | 19957.009468/2018-26 | 2019-06-05 | outro | cvm-col-20190605-d1441 | fichas/colegiado/2019-09.md |
-| decisao-colegiado | 02/2018; 19957.006565/2017-86 | 2019-05-22 | outro | cvm-col-20190522-d2894 | fichas/colegiado/2019-08.md |
-| decisao-colegiado | 02/2018; 19957.006565/2017-86 | 2019-05-08 | — | cvm-col-20190508-d2894 | fichas/colegiado/2019-07.md |
-| decisao-colegiado | 19957.004537/2019-96 | 2019-05-02 | outro | cvm-col-20190502-d1428 | fichas/colegiado/2019-07.md |
-| decisao-colegiado | 592/2017; 19957.002812/2019-37 | 2019-04-22 | outro | cvm-col-20190422-d1382 | fichas/colegiado/2019-07.md |
-| decisao-colegiado | 19957.000040/2018-18 | 2019-04-17 | — | cvm-col-20190417-d1223 | fichas/colegiado/2019-07.md |
-| decisao-colegiado | 559/2008; 19957.003351/2018-39 | 2019-04-16 | outro | cvm-col-20190416-d1375 | fichas/colegiado/2019-06.md |
-| decisao-colegiado | 19957.003208/2019-28 | 2019-03-19 | outro | cvm-col-20190319-d4715 | fichas/colegiado/2019-04.md |
-| decisao-colegiado | 03/2018; 19957.006551/2018-43 | 2019-01-23 | outro | cvm-col-20190123-d1083 | fichas/colegiado/2019-02.md |
-| decisao-colegiado | 02/2018; 19957.009553/2018-94 | 2018-12-27 | outro | cvm-col-20181227-d1208 | fichas/colegiado/2018-21.md |
-| decisao-colegiado | 06/2018; 19957.009015/2018-08 | 2018-12-10 | outro | cvm-col-20181210-d1187 | fichas/colegiado/2018-20.md |
-| decisao-colegiado | 09/2016; RJ2014/13597 | 2018-12-05 | — | cvm-col-20181205-d8331 | fichas/colegiado/2018-20.md |
-| decisao-colegiado | 09/2016; RJ2014/13597 | 2018-11-28 | — | cvm-col-20181128-d8331 | fichas/colegiado/2018-20.md |
-| decisao-colegiado | 19957.002618/2016-17 | 2018-11-26 | — | cvm-col-20181126-d2676 | fichas/colegiado/2018-20.md |
-| decisao-colegiado | 19957.010666/2018-32 | 2018-11-14 | outro | cvm-col-20181114-d1426 | fichas/colegiado/2018-20.md |
-| decisao-colegiado | 05/2018; RJ2015/8824 | 2018-11-14 | parcial | cvm-col-20181114-d1160 | fichas/colegiado/2018-19.md |
-| decisao-colegiado | 19957.009951/2018-19 | 2018-10-31 | outro | cvm-col-20181031-d1212 | fichas/colegiado/2018-19.md |
-| decisao-colegiado | 19957.006569/2018-45 | 2018-10-31 | outro | cvm-col-20181031-d1082 | fichas/colegiado/2018-19.md |
-| decisao-colegiado | 414/2004; 480/2009; 600/2018; 19957.009661/2018-67 | 2018-10-30 | outro | cvm-col-20181030-d1205 | fichas/colegiado/2018-19.md |
-| decisao-colegiado | 19957.009553/2018-94 | 2018-10-24 | outro | cvm-col-20181024-d1208 | fichas/colegiado/2018-19.md |
-| decisao-colegiado | 19957.000040/2018-18 | 2018-10-22 | outro | cvm-col-20181022-d1223 | fichas/colegiado/2018-18.md |
-| decisao-colegiado | 19957.009015/2018-08 | 2018-09-26 | outro | cvm-col-20180926-d1187 | fichas/colegiado/2018-17.md |
-| decisao-colegiado | 555/2014; 19957.003776/2017-67 | 2018-09-19 | outro | cvm-col-20180919-d5474 | fichas/colegiado/2018-17.md |
-| decisao-colegiado | 505/2011; RJ2015/8824 | 2018-09-05 | outro | cvm-col-20180905-d1160 | fichas/colegiado/2018-16.md |
-| decisao-colegiado | 19957.004981/2017-40 | 2018-08-29 | outro | cvm-col-20180829-d0864 | fichas/colegiado/2018-15.md |
-| decisao-colegiado | 476/2009; 400/2003; 19957.006558/2017-84 | 2018-08-15 | outro | cvm-col-20180815-d6170 | fichas/colegiado/2018-14.md |
-| decisao-colegiado | 03/2018; 19957.006551/2018-43 | 2018-08-14 | indeferido | cvm-col-20180814-d1083 | fichas/colegiado/2018-14.md |
-| decisao-colegiado | 02/2018; 19957.006565/2017-86 | 2018-08-07 | deferido | cvm-col-20180807-d2894 | fichas/colegiado/2018-14.md |
-| decisao-colegiado | RJ2015/2080 | 2018-07-25 | outro | cvm-col-20180725-d9602 | fichas/colegiado/2018-13.md |
-| decisao-colegiado | 19957.006551/2018-43 | 2018-07-10 | outro | cvm-col-20180710-d1083 | fichas/colegiado/2018-12.md |
-| decisao-colegiado | 19957.006569/2018-45 | 2018-07-10 | outro | cvm-col-20180710-d1082 | fichas/colegiado/2018-12.md |
-| decisao-colegiado | 01/2017; RJ2014/11167 | 2018-07-04 | outro | cvm-col-20180704-d0666 | fichas/colegiado/2018-11.md |
-| decisao-colegiado | 01/2017; RJ2014/11167 | 2018-06-20 | — | cvm-col-20180620-d0666 | fichas/colegiado/2018-11.md |
-| decisao-colegiado | 510/2011; 542/2013; 543/2013; 19957.000686/2018-03 | 2018-06-06 | outro | cvm-col-20180606-d1239 | fichas/colegiado/2018-10.md |
-| decisao-colegiado | 06/2017; 497/2011; 19957.000432/2017-04 | 2018-06-06 | outro | cvm-col-20180606-d0560 | fichas/colegiado/2018-10.md |
-| decisao-colegiado | 538/2008; 19957.006565/2017-86 | 2018-05-30 | outro | cvm-col-20180530-d2894 | fichas/colegiado/2018-10.md |
-| decisao-colegiado | 538/2008; 19957.006565/2017-86 | 2018-05-16 | — | cvm-col-20180516-d2894 | fichas/colegiado/2018-09.md |
-| decisao-colegiado | 296/1998; 19957.005089/2018-67 | 2018-05-15 | outro | cvm-col-20180515-d104018 | fichas/colegiado/2018-09.md |
-| decisao-colegiado | 558/2015; 19957.004270/2018-56 | 2018-04-18 | outro | cvm-col-20180418-d0802 | fichas/colegiado/2018-08.md |
-| decisao-colegiado | 19957.001109/2017-40 | 2018-04-17 | — | cvm-col-20180417-d0720 | fichas/colegiado/2018-07.md |
-| decisao-colegiado | 538/2008; 19957.006565/2017-86 | 2018-03-21 | — | cvm-col-20180321-d2894 | fichas/colegiado/2018-06.md |
-| decisao-colegiado | 452/2007; 555/2014; 463/2003; 19957.006566/2017-21 | 2018-03-14 | outro | cvm-col-20180314-d1022 | fichas/colegiado/2018-06.md |
-| decisao-colegiado | 480/2009; 19957.000919/2018-60 | 2018-02-06 | outro | cvm-col-20180206-d3185 | fichas/colegiado/2018-03.md |
-| decisao-colegiado | 05/2017; 19957.006558/2017-84 | 2018-01-23 | deferido | cvm-col-20180123-d6170 | fichas/colegiado/2018-02.md |
-| decisao-colegiado | 286/1998; 400/2003; 480/2009; 19957.010540/2017-87 | 2018-01-23 | outro | cvm-col-20180123-d0844 | fichas/colegiado/2018-01.md |
-| decisao-colegiado | 02/2017; 19957.004982/2017-94 | 2017-12-20 | outro | cvm-col-20171220-d6158 | fichas/colegiado/2017-20.md |
-| decisao-colegiado | 03/2017; 19957.004983/2017-39 | 2017-12-20 | outro | cvm-col-20171220-d0694 | fichas/colegiado/2017-20.md |
-| decisao-colegiado | 04/2017; 481/2009; 19957.006078/2016-32 | 2017-12-13 | outro | cvm-col-20171213-d2895 | fichas/colegiado/2017-20.md |
-| decisao-colegiado | 497/2011; 19957.000432/2017-04 | 2017-12-05 | outro | cvm-col-20171205-d0560 | fichas/colegiado/2017-20.md |
-| decisao-colegiado | 476/2009; 400/2003; 19957.006558/2017-84 | 2017-11-22 | outro | cvm-col-20171122-d6170 | fichas/colegiado/2017-19.md |
-| decisao-colegiado | 11/2016; RJ2006/5754 | 2017-10-25 | — | cvm-col-20171025-d0802 | fichas/colegiado/2017-18.md |
-| decisao-colegiado | 01/2017; 308/1999; 19957.002575/2017-42 | 2017-10-11 | outro | cvm-col-20171011-d1426 | fichas/colegiado/2017-17.md |
-| decisao-colegiado | 19957.009824/2017-21 | 2017-10-10 | outro | cvm-col-20171010-d0824 | fichas/colegiado/2017-17.md |
-| decisao-colegiado | 01/2017; 308/1999; 19957.002575/2017-42 | 2017-10-04 | — | cvm-col-20171004-d1426 | fichas/colegiado/2017-17.md |
-| decisao-colegiado | 11/2016; RJ2006/5754 | 2017-09-20 | — | cvm-col-20170920-d0802 | fichas/colegiado/2017-16.md |
-| decisao-colegiado | 481/2009; 19957.006078/2016-32 | 2017-09-13 | outro | cvm-col-20170913-d2895 | fichas/colegiado/2017-16.md |
-| decisao-colegiado | 19957.006706/2017-61 | 2017-09-05 | outro | cvm-col-20170905-d0791 | fichas/colegiado/2017-15.md |
-| decisao-colegiado | — | 2017-09-04 | outro | cvm-col-20170904-d6213 | fichas/colegiado/2017-15.md |
-| decisao-colegiado | 05/2016; 358/2002; 461/2007; RJ2015/6981 | 2017-08-16 | outro | cvm-col-20170816-d2844 | fichas/colegiado/2017-14.md |
-| decisao-colegiado | 578/2016; 19957.006557/2017-30 | 2017-08-16 | outro | cvm-col-20170816-d0785 | fichas/colegiado/2017-14.md |
-| decisao-colegiado | 05/2016; 358/2002; 461/2007; RJ2015/6981 | 2017-08-09 | — | cvm-col-20170809-d2844 | fichas/colegiado/2017-14.md |
-| decisao-colegiado | 19957.003946/2016-22 | 2017-07-14 | outro | cvm-col-20170714-d0650 | fichas/colegiado/2017-13.md |
-| decisao-colegiado | — | 2017-07-12 | outro | cvm-col-20170712-d7067 | fichas/colegiado/2017-13.md |
-| decisao-colegiado | 02/2017; 19957.005913/2017-06 | 2017-07-04 | outro | cvm-col-20170704-d0675 | fichas/colegiado/2017-12.md |
-| decisao-colegiado | 459/2007; 555/2014; 19957.003850/2017-45 | 2017-06-26 | outro | cvm-col-20170626-d0715 | fichas/colegiado/2017-12.md |
-| decisao-colegiado | 06/2016; RJ2013/11877 | 2017-06-22 | — | cvm-col-20170622-d9637 | fichas/colegiado/2017-12.md |
-| decisao-colegiado | 459/2007; 555/2014; 19957.003850/2017-45 | 2017-06-20 | — | cvm-col-20170620-d0715 | fichas/colegiado/2017-11.md |
-| decisao-colegiado | 10/2016; 480/2009; RJ2010/7374 | 2017-05-31 | outro | cvm-col-20170531-d3185 | fichas/colegiado/2017-10.md |
-| decisao-colegiado | 10/2016; 480/2009; RJ2010/7374 | 2017-05-26 | — | cvm-col-20170526-d3185 | fichas/colegiado/2017-10.md |
-| decisao-colegiado | 19957.005913/2017-06 | 2017-05-09 | outro | cvm-col-20170509-d0675 | fichas/colegiado/2017-10.md |
-| decisao-colegiado | 19957.001421/2017-33 | 2017-05-08 | outro | cvm-col-20170508-d4068 | fichas/colegiado/2017-09.md |
-| decisao-colegiado | 19957.001421/2017-33 | 2017-05-03 | — | cvm-col-20170503-d4068 | fichas/colegiado/2017-09.md |
-| decisao-colegiado | 461/2007; RJ2015/6981 | 2017-04-27 | — | cvm-col-20170427-d2676 | fichas/colegiado/2017-09.md |
-| decisao-colegiado | RJ2014/11167 | 2017-04-12 | — | cvm-col-20170412-d0666 | fichas/colegiado/2017-08.md |
-| decisao-colegiado | — | 2017-04-11 | outro | cvm-col-20170411-d0651 | fichas/colegiado/2017-08.md |
-| decisao-colegiado | RJ2014/11167 | 2017-03-31 | — | cvm-col-20170331-d0666 | fichas/colegiado/2017-07.md |
-| decisao-colegiado | 07/2016; RJ2014/10049 | 2017-03-15 | outro | cvm-col-20170315-d5058 | fichas/colegiado/2017-06.md |
-| decisao-colegiado | 308/1999; 19957.002575/2017-42 | 2017-03-15 | outro | cvm-col-20170315-d1426 | fichas/colegiado/2017-05.md |
-| decisao-colegiado | 04/2016; RJ2013/10047 | 2017-03-08 | outro | cvm-col-20170308-d3324 | fichas/colegiado/2017-05.md |
-| decisao-colegiado | 04/2016; RJ2013/10047 | 2017-02-22 | — | cvm-col-20170222-d3324 | fichas/colegiado/2017-05.md |
-| decisao-colegiado | 10/2016; RJ2010/7374; RJ2013/12462 | 2017-01-24 | deferido | cvm-col-20170124-d3185 | fichas/colegiado/2017-03.md |
-| decisao-colegiado | 11/2016; RJ2006/5754 | 2017-01-24 | parcial | cvm-col-20170124-d0802 | fichas/colegiado/2017-02.md |
-| decisao-colegiado | 01/2016; RJ2016/5001 | 2016-12-20 | outro | cvm-col-20161220-d8811 | fichas/colegiado/2016-25.md |
-| decisao-colegiado | 09/2016; RJ2014/13597 | 2016-12-20 | deferido | cvm-col-20161220-d8331 | fichas/colegiado/2016-25.md |
-| decisao-colegiado | 03/2016; RJ2016/5005 | 2016-12-20 | outro | cvm-col-20161220-d6664 | fichas/colegiado/2016-25.md |
-| decisao-colegiado | 390/2001; 19957.009074/2016-14 | 2016-12-13 | outro | cvm-col-20161213-d3261 | fichas/colegiado/2016-24.md |
-| decisao-colegiado | 19957.008975/2016-81 | 2016-12-13 | outro | cvm-col-20161213-d0462 | fichas/colegiado/2016-24.md |
-| decisao-colegiado | 04/2015; RJ2012/3268 | 2016-12-06 | outro | cvm-col-20161206-d0093 | fichas/colegiado/2016-23.md |
-| decisao-colegiado | 04/2015; RJ2012/3268 | 2016-11-30 | — | cvm-col-20161130-d0093 | fichas/colegiado/2016-23.md |
-| decisao-colegiado | RJ2006/5754 | 2016-11-23 | outro | cvm-col-20161123-d0802 | fichas/colegiado/2016-23.md |
-| decisao-colegiado | RJ2006/5754 | 2016-11-16 | — | cvm-col-20161116-d0802 | fichas/colegiado/2016-22.md |
-| decisao-colegiado | 480/2009; RJ2010/7374 | 2016-11-09 | outro | cvm-col-20161109-d3185 | fichas/colegiado/2016-22.md |
-| decisao-colegiado | 03/2016; 543/2013; 555/2014; RJ2014/7745 | 2016-11-08 | outro | cvm-col-20161108-d1239 | fichas/colegiado/2016-22.md |
-| decisao-colegiado | 480/2009; RJ2010/7374 | 2016-11-03 | — | cvm-col-20161103-d3185 | fichas/colegiado/2016-22.md |
-| decisao-colegiado | 480/2009; RJ2010/7374 | 2016-10-26 | — | cvm-col-20161026-d3185 | fichas/colegiado/2016-21.md |
-| decisao-colegiado | 19957.007767/2016-64 | 2016-10-25 | outro | cvm-col-20161025-d0388 | fichas/colegiado/2016-21.md |
-| decisao-colegiado | 06/2016; RJ2013/11877 | 2016-10-11 | deferido | cvm-col-20161011-d9637 | fichas/colegiado/2016-20.md |
-| decisao-colegiado | 301/1999; RJ2014/13597 | 2016-10-05 | outro | cvm-col-20161005-d8331 | fichas/colegiado/2016-20.md |
-| decisao-colegiado | 301/1999; RJ2014/13597 | 2016-10-04 | — | cvm-col-20161004-d8331 | fichas/colegiado/2016-19.md |
-| decisao-colegiado | RJ2015/2080 | 2016-09-28 | outro | cvm-col-20160928-d9602 | fichas/colegiado/2016-19.md |
-| decisao-colegiado | RJ2014/10049 | 2016-09-28 | outro | cvm-col-20160928-d5058 | fichas/colegiado/2016-19.md |
-| decisao-colegiado | RJ2015/2080 | 2016-09-21 | — | cvm-col-20160921-d9602 | fichas/colegiado/2016-18.md |
-| decisao-colegiado | 02/2016; 505/2011; RJ2015/6254 | 2016-09-13 | outro | cvm-col-20160913-d5529 | fichas/colegiado/2016-17.md |
-| decisao-colegiado | 01/2016; 472/2008; RJ2015/13111 | 2016-09-06 | outro | cvm-col-20160906-d0084 | fichas/colegiado/2016-17.md |
-| decisao-colegiado | 480/2009; RJ2010/7374 | 2016-08-31 | outro | cvm-col-20160831-d3185 | fichas/colegiado/2016-17.md |
-| decisao-colegiado | 18/2013; 19957.005929/2016-20 | 2016-08-30 | outro | cvm-col-20160830-d8738 | fichas/colegiado/2016-16.md |
-| decisao-colegiado | RJ2014/10049 | 2016-08-24 | — | cvm-col-20160824-d5058 | fichas/colegiado/2016-16.md |
-| decisao-colegiado | RJ2015/12184 | 2016-08-03 | outro | cvm-col-20160803-d52292 | fichas/colegiado/2016-16.md |
-| decisao-colegiado | 04/2016; RJ2013/10047 | 2016-07-28 | deferido | cvm-col-20160728-d3324 | fichas/colegiado/2016-15.md |
-| decisao-colegiado | RJ2012/10107 | 2016-07-27 | — | cvm-col-20160727-d5229 | fichas/colegiado/2016-15.md |
-| decisao-colegiado | RJ2012/10107 | 2016-07-20 | — | cvm-col-20160720-d5229 | fichas/colegiado/2016-14.md |
-| decisao-colegiado | RJ2013/11877 | 2016-07-08 | outro | cvm-col-20160708-d9637 | fichas/colegiado/2016-14.md |
-| decisao-colegiado | 19957.002636/2016-91 | 2016-06-14 | outro | cvm-col-20160614-d0256 | fichas/colegiado/2016-12.md |
-| decisao-colegiado | RJ2013/11877 | 2016-06-08 | — | cvm-col-20160608-d9637 | fichas/colegiado/2016-11.md |
-| decisao-colegiado | RJ2016/5001 | 2016-06-07 | outro | cvm-col-20160607-d8811 | fichas/colegiado/2016-11.md |
-| decisao-colegiado | 19957.002943/2016-71 | 2016-06-07 | outro | cvm-col-20160607-d1492 | fichas/colegiado/2016-11.md |
-| decisao-colegiado | 358/2002; RJ2015/6981 | 2016-05-25 | — | cvm-col-20160525-d2844 | fichas/colegiado/2016-10.md |
-| decisao-colegiado | 03/2015; 471/2008; RJ2014/12576 | 2016-05-04 | outro | cvm-col-20160504-d6067 | fichas/colegiado/2016-09.md |
-| decisao-colegiado | RJ2013/10047 | 2016-04-27 | outro | cvm-col-20160427-d3324 | fichas/colegiado/2016-09.md |
-| decisao-colegiado | RJ2013/10047 | 2016-04-01 | — | cvm-col-20160401-d3324 | fichas/colegiado/2016-08.md |
-| decisao-colegiado | 19957.001797/2016-67 | 2016-03-22 | outro | cvm-col-20160322-d0157 | fichas/colegiado/2016-07.md |
-| decisao-colegiado | RJ2013/11877 | 2016-03-16 | — | cvm-col-20160316-d9637 | fichas/colegiado/2016-07.md |
-| decisao-colegiado | RJ2013/11877 | 2016-03-09 | — | cvm-col-20160309-d9637 | fichas/colegiado/2016-07.md |
-| decisao-colegiado | 03/2016; RJ2014/7745 | 2016-03-01 | deferido | cvm-col-20160301-d1239 | fichas/colegiado/2016-06.md |
-| decisao-colegiado | 505/2011; RJ2015/6254 | 2016-01-27 | outro | cvm-col-20160127-d5529 | fichas/colegiado/2016-02.md |
-| decisao-colegiado | 543/2013; 555/2014; RJ2014/7745 | 2016-01-27 | outro | cvm-col-20160127-d1239 | fichas/colegiado/2016-02.md |
-| decisao-colegiado | 472/2008; RJ2015/13111 | 2016-01-27 | outro | cvm-col-20160127-d084 | fichas/colegiado/2016-02.md |
-| decisao-colegiado | — | 2016-01-12 | outro | cvm-col-20160112-d4655 | fichas/colegiado/2016-01.md |
-| decisao-colegiado | 19957.003435/2015-20 | 2015-12-15 | outro | cvm-col-20151215-d9975 | fichas/colegiado/2015-24.md |
-| decisao-colegiado | 19957.003591/2015-91 | 2015-12-15 | outro | cvm-col-20151215-d6789 | fichas/colegiado/2015-24.md |
-| decisao-colegiado | 560/2015; RJ2005/2366; RJ2008/9075 | 2015-12-15 | outro | cvm-col-20151215-d4672 | fichas/colegiado/2015-24.md |
-| decisao-colegiado | 569/2015; RJ2005/3331 | 2015-12-08 | deferido | cvm-col-20151208-d5316 | fichas/colegiado/2015-23.md |
-| decisao-colegiado | RJ2012/10107 | 2015-12-02 | outro | cvm-col-20151202-d5229 | fichas/colegiado/2015-23.md |
-| decisao-colegiado | RJ2015/12184 | 2015-11-24 | outro | cvm-col-20151124-d5229 | fichas/colegiado/2015-21.md |
-| decisao-colegiado | RJ2015/12184 | 2015-11-18 | — | cvm-col-20151118-d5229 | fichas/colegiado/2015-21.md |
-| decisao-colegiado | 28/1983; RJ2012/3268 | 2015-11-18 | outro | cvm-col-20151118-d0093 | fichas/colegiado/2015-21.md |
-| decisao-colegiado | 561/2015; RJ2011/13930 | 2015-11-13 | outro | cvm-col-20151113-d2895 | fichas/colegiado/2015-21.md |
-| decisao-colegiado | 02/2015; RJ2015/1673 | 2015-11-10 | outro | cvm-col-20151110-d802 | fichas/colegiado/2015-20.md |
-| decisao-colegiado | 01/2015; RJ2015/3801 | 2015-11-03 | outro | cvm-col-20151103-d8946 | fichas/colegiado/2015-20.md |
-| decisao-colegiado | 555/2014; 19957.003090/2015-12 | 2015-10-27 | outro | cvm-col-20151027-d9889 | fichas/colegiado/2015-20.md |
-| decisao-colegiado | 28/1983; RJ2012/3268 | 2015-10-21 | — | cvm-col-20151021-d93 | fichas/colegiado/2015-19.md |
-| decisao-colegiado | 471/2008; RJ2014/12576 | 2015-10-14 | outro | cvm-col-20151014-d6067 | fichas/colegiado/2015-19.md |
-| decisao-colegiado | 13/2014; RJ2005/3331 | 2015-10-07 | outro | cvm-col-20151007-d5316 | fichas/colegiado/2015-18.md |
-| decisao-colegiado | 07/2014; 472/2008; RJ2012/6197 | 2015-10-07 | outro | cvm-col-20151007-d084 | fichas/colegiado/2015-18.md |
-| decisao-colegiado | 07/2014; 472/2008; RJ2012/6197 | 2015-09-30 | — | cvm-col-20150930-d084 | fichas/colegiado/2015-18.md |
-| decisao-colegiado | — | 2015-09-02 | outro | cvm-col-20150902-d3935 | fichas/colegiado/2015-16.md |
-| decisao-colegiado | 07/2014; 472/2008; RJ2012/6197 | 2015-09-02 | — | cvm-col-20150902-d084 | fichas/colegiado/2015-16.md |
-| decisao-colegiado | 07/2014; 472/2008; RJ2012/6197 | 2015-08-26 | — | cvm-col-20150826-d084 | fichas/colegiado/2015-15.md |
-| decisao-colegiado | 11/2013; 10/1980; 390/2003; 358/2002; RJ2008/11441 | 2015-08-19 | outro | cvm-col-20150819-d3541 | fichas/colegiado/2015-15.md |
-| decisao-colegiado | 13/2014; RJ2005/3331 | 2015-08-12 | — | cvm-col-20150812-d5316 | fichas/colegiado/2015-15.md |
-| decisao-colegiado | 02/2015; 438/2006; RJ2015/3482 | 2015-08-11 | deferido | cvm-col-20150811-d4872 | fichas/colegiado/2015-14.md |
-| decisao-colegiado | 13/2014; RJ2005/3331 | 2015-08-05 | — | cvm-col-20150805-d5316 | fichas/colegiado/2015-14.md |
-| decisao-colegiado | 01/2015; RJ2014/13975 | 2015-07-22 | outro | cvm-col-20150722-d4638 | fichas/colegiado/2015-14.md |
-| decisao-colegiado | 01/2015; RJ2014/13975 | 2015-07-15 | — | cvm-col-20150715-d4638 | fichas/colegiado/2015-14.md |
-| decisao-colegiado | 11/2013; 10/1980; 390/2003; 358/2002; RJ2008/11441 | 2015-07-08 | — | cvm-col-20150708-d3541 | fichas/colegiado/2015-13.md |
-| decisao-colegiado | 11/2013; 10/1980; 390/2003; 358/2002; RJ2008/11441 | 2015-06-10 | — | cvm-col-20150610-d3541 | fichas/colegiado/2015-10.md |
-| decisao-colegiado | 555/2014; RJ2012/13688 | 2015-06-09 | outro | cvm-col-20150609-d5474 | fichas/colegiado/2015-09.md |
-| decisao-colegiado | RJ2014/14374 | 2015-06-03 | outro | cvm-col-20150603-d3261 | fichas/colegiado/2015-09.md |
-| decisao-colegiado | 438/2006; RJ2015/3482 | 2015-05-27 | outro | cvm-col-20150527-d4872 | fichas/colegiado/2015-08.md |
-| decisao-colegiado | RJ2015/3801 | 2015-05-19 | outro | cvm-col-20150519-d8946 | fichas/colegiado/2015-08.md |
-| decisao-colegiado | 04/2013; 319/1999; RJ2009/12670 | 2015-05-19 | outro | cvm-col-20150519-d2646 | fichas/colegiado/2015-08.md |
-| decisao-colegiado | 555/2014; RJ2012/13688 | 2015-05-12 | outro | cvm-col-20150512-d5474 | fichas/colegiado/2015-07.md |
-| decisao-colegiado | 04/2013; 319/1999; RJ2009/12670 | 2015-05-06 | — | cvm-col-20150506-d2646 | fichas/colegiado/2015-07.md |
-| decisao-colegiado | RJ2013/11877 | 2015-04-29 | outro | cvm-col-20150429-d9637 | fichas/colegiado/2015-07.md |
-| decisao-colegiado | 02/2015; RJ2015/1673 | 2015-04-24 | deferido | cvm-col-20150424-d802 | fichas/colegiado/2015-06.md |
-| decisao-colegiado | 09/2014; RJ2011/13930 | 2015-04-01 | outro | cvm-col-20150401-d2895 | fichas/colegiado/2015-06.md |
-| decisao-colegiado | 12/2014; 325/2000; RJ2008/9075 | 2015-03-25 | outro | cvm-col-20150325-d4672 | fichas/colegiado/2015-05.md |
-| decisao-colegiado | 510/2011; RJ2015/2318 | 2015-03-24 | outro | cvm-col-20150324-d4690 | fichas/colegiado/2015-05.md |
-| decisao-colegiado | RJ2015/2080 | 2015-03-17 | outro | cvm-col-20150317-d9602 | fichas/colegiado/2015-05.md |
-| decisao-colegiado | 11/2014; 12/2014; 317/1999; 325/2000; RJ2005/2366; RJ2008/9075 | 2015-03-11 | outro | cvm-col-20150311-d4672 | fichas/colegiado/2015-04.md |
-| decisao-colegiado | 14/2011; 10/2014; RJ2007/11580; RJ2014/10543 | 2015-03-04 | outro | cvm-col-20150304-d802 | fichas/colegiado/2015-04.md |
-| decisao-colegiado | 14/2011; 10/2014; RJ2007/11580; RJ2014/10543 | 2015-03-03 | — | cvm-col-20150303-d802 | fichas/colegiado/2015-04.md |
-| decisao-colegiado | 14/2011; 10/2014; RJ2007/11580; RJ2014/10543 | 2015-02-25 | — | cvm-col-20150225-d802 | fichas/colegiado/2015-04.md |
-| decisao-colegiado | 14/2011; 10/2014; RJ2007/11580; RJ2014/10543 | 2015-01-28 | — | cvm-col-20150128-d802 | fichas/colegiado/2015-03.md |
-| decisao-colegiado | 06/2014; 426/2005; RJ2013/0177 | 2015-01-21 | outro | cvm-col-20150121-d4966 | fichas/colegiado/2015-02.md |
-| decisao-colegiado | RJ2014/13975 | 2015-01-21 | outro | cvm-col-20150121-d4638 | fichas/colegiado/2015-02.md |
-| decisao-colegiado | 02/2014; RJ2012/5550 | 2015-01-14 | outro | cvm-col-20150114-d4843 | fichas/colegiado/2015-02.md |
-| decisao-colegiado | 11/2014; 12/2014; 317/1999; 325/2000; RJ2005/2366; RJ2008/9075 | 2014-12-16 | deferido | cvm-col-20141216-d29 | fichas/colegiado/2014-27.md |
-| decisao-colegiado | 09/2014; 480/2009; 481/2009; RJ2011/13930 | 2014-12-16 | deferido | cvm-col-20141216-d28 | fichas/colegiado/2014-26.md |
-| decisao-colegiado | 06/2014; RJ2014/12819 | 2014-12-09 | outro | cvm-col-20141209-d18 | fichas/colegiado/2014-25.md |
-| decisao-colegiado | RJ2014/13703 | 2014-12-09 | outro | cvm-col-20141209-d17 | fichas/colegiado/2014-25.md |
-| decisao-colegiado | 03/2014; RJ2013/11753 | 2014-12-09 | outro | cvm-col-20141209-d01-r2 | fichas/colegiado/2014-25.md |
-| decisao-colegiado | 03/2014; RJ2013/11753 | 2014-12-03 | — | cvm-col-20141203-d02 | fichas/colegiado/2014-25.md |
-| decisao-colegiado | 04/2014; 409/2004; RJ2012/13688 | 2014-11-26 | outro | cvm-col-20141126-d01 | fichas/colegiado/2014-24.md |
-| decisao-colegiado | 02/2014; RJ2012/15123 | 2014-11-25 | outro | cvm-col-20141125-d29 | fichas/colegiado/2014-24.md |
-| decisao-colegiado | 04/2014; RJ2014/7878 | 2014-11-25 | outro | cvm-col-20141125-d24 | fichas/colegiado/2014-24.md |
-| decisao-colegiado | 03/2014; RJ2014/7877 | 2014-11-25 | outro | cvm-col-20141125-d23 | fichas/colegiado/2014-24.md |
-| decisao-colegiado | 01/2014; RJ2014/7881 | 2014-11-25 | outro | cvm-col-20141125-d22 | fichas/colegiado/2014-23.md |
-| decisao-colegiado | 04/2014; 409/2004; RJ2012/13688 | 2014-11-14 | — | cvm-col-20141114-d01 | fichas/colegiado/2014-22.md |
-| decisao-colegiado | 04/2014; 409/2004; RJ2012/13688 | 2014-11-12 | — | cvm-col-20141112-d01 | fichas/colegiado/2014-21.md |
-| decisao-colegiado | RJ2014/12819 | 2014-11-11 | outro | cvm-col-20141111-d06 | fichas/colegiado/2014-21.md |
-| decisao-colegiado | RJ2005/3331 | 2014-11-11 | outro | cvm-col-20141111-d01-r2 | fichas/colegiado/2014-21.md |
-| decisao-colegiado | 317/1999; 325/2000; RJ2005/2366; RJ2008/9075 | 2014-10-29 | outro | cvm-col-20141029-d01 | fichas/colegiado/2014-20.md |
-| decisao-colegiado | RJ2014/10543 | 2014-10-22 | outro | cvm-col-20141022-d01 | fichas/colegiado/2014-20.md |
-| decisao-colegiado | 301/1999; RJ2014/8268 | 2014-10-15 | outro | cvm-col-20141015-d01 | fichas/colegiado/2014-19.md |
-| decisao-colegiado | 481/2009; RJ2011/13930 | 2014-09-26 | outro | cvm-col-20140926-d01 | fichas/colegiado/2014-19.md |
-| decisao-colegiado | RJ2013/1292 | 2014-09-23 | outro | cvm-col-20140923-d01 | fichas/colegiado/2014-18.md |
-| decisao-colegiado | 01/2014; 400/2003; 476/2009; RJ2013/5756 | 2014-09-17 | outro | cvm-col-20140917-d01 | fichas/colegiado/2014-18.md |
-| decisao-colegiado | 01/2014; 400/2003; 476/2009; RJ2013/5756 | 2014-09-10 | — | cvm-col-20140910-d01 | fichas/colegiado/2014-18.md |
-| decisao-colegiado | 481/2009; RJ2011/13930 | 2014-09-03 | — | cvm-col-20140903-d01 | fichas/colegiado/2014-17.md |
-| decisao-colegiado | 03/2013; 358/2002; 480/2009; 481/2009; RJ2010/7200 | 2014-08-27 | outro | cvm-col-20140827-d01 | fichas/colegiado/2014-16.md |
-| decisao-colegiado | 301/1999; RJ2014/8268 | 2014-08-26 | outro | cvm-col-20140826-d18 | fichas/colegiado/2014-16.md |
-| decisao-colegiado | SP2014/0167 | 2014-08-26 | outro | cvm-col-20140826-d01 | fichas/colegiado/2014-15.md |
-| decisao-colegiado | 03/2013; 358/2002; 480/2009; 481/2009; RJ2010/7200 | 2014-08-20 | — | cvm-col-20140820-d01 | fichas/colegiado/2014-15.md |
-| decisao-colegiado | RJ2013/1292 | 2014-08-19 | — | cvm-col-20140819-d01 | fichas/colegiado/2014-15.md |
-| decisao-colegiado | 03/2013; 358/2002; 480/2009; 481/2009; RJ2010/7200 | 2014-08-13 | — | cvm-col-20140813-d01 | fichas/colegiado/2014-15.md |
-| decisao-colegiado | RJ2013/1292 | 2014-08-12 | — | cvm-col-20140812-d14 | fichas/colegiado/2014-15.md |
-| decisao-colegiado | RJ2014/7877 | 2014-08-12 | outro | cvm-col-20140812-d07 | fichas/colegiado/2014-15.md |
-| decisao-colegiado | 14/2011; 306/1999; RJ2007/11580 | 2014-08-06 | outro | cvm-col-20140806-d02 | fichas/colegiado/2014-14.md |
-| decisao-colegiado | RJ2005/3331 | 2014-08-06 | outro | cvm-col-20140806-d01 | fichas/colegiado/2014-14.md |
-| decisao-colegiado | RJ2005/3331 | 2014-07-30 | — | cvm-col-20140730-d01 | fichas/colegiado/2014-14.md |
-| decisao-colegiado | 05/2014; 401/2003; RJ2013/2188 | 2014-07-15 | outro | cvm-col-20140715-d05 | fichas/colegiado/2014-13.md |
-| decisao-colegiado | 03/2014; 04/2014; 409/2004; RJ2013/11753; RJ2012/13688 | 2014-06-24 | deferido | cvm-col-20140624-d03 | fichas/colegiado/2014-12.md |
-| decisao-colegiado | 13/2013; 409/2004; RJ2013/12178 | 2014-06-11 | outro | cvm-col-20140611-d01 | fichas/colegiado/2014-12.md |
-| decisao-colegiado | 43/2014; RJ2008/9075 | 2014-06-04 | outro | cvm-col-20140604-d01 | fichas/colegiado/2014-11.md |
-| decisao-colegiado | 426/2005; RJ2013/0177 | 2014-05-20 | outro | cvm-col-20140520-d18 | fichas/colegiado/2014-10.md |
-| decisao-colegiado | 401/2003; RJ2013/2188 | 2014-05-20 | outro | cvm-col-20140520-d17 | fichas/colegiado/2014-10.md |
-| decisao-colegiado | 472/2008; 400/2003; RJ2012/6197 | 2014-05-06 | outro | cvm-col-20140506-d01-r2 | fichas/colegiado/2014-08.md |
-| decisao-colegiado | RJ2012/6197 | 2014-04-30 | — | cvm-col-20140430-d01 | fichas/colegiado/2014-08.md |
-| decisao-colegiado | 12/2013; 400/2003; RJ2011/9292 | 2014-04-16 | outro | cvm-col-20140416-d01 | fichas/colegiado/2014-07.md |
-| decisao-colegiado | 409/2004; RJ2012/13688 | 2014-04-02 | outro | cvm-col-20140402-d01 | fichas/colegiado/2014-06.md |
-| decisao-colegiado | RJ2011/2838 | 2014-04-01 | outro | cvm-col-20140401-d06 | fichas/colegiado/2014-06.md |
-| decisao-colegiado | RJ2013/11753 | 2014-03-26 | outro | cvm-col-20140326-d01 | fichas/colegiado/2014-05.md |
-| decisao-colegiado | 409/2004; RJ2012/13688 | 2014-03-19 | — | cvm-col-20140319-d01 | fichas/colegiado/2014-05.md |
-| decisao-colegiado | 409/2004; RJ2012/13688 | 2014-03-12 | — | cvm-col-20140312-d01 | fichas/colegiado/2014-04.md |
-| decisao-colegiado | 409/2004; RJ2012/13688 | 2014-02-26 | — | cvm-col-20140226-d01 | fichas/colegiado/2014-04.md |
-| decisao-colegiado | 409/2004; RJ2012/13688 | 2014-02-18 | — | cvm-col-20140218-d01 | fichas/colegiado/2014-03.md |
-| decisao-colegiado | — | 2014-02-18 | — | cvm-col-20140218-d01-r2 | fichas/colegiado/2014-03.md |
-| decisao-colegiado | RJ2013/11760 | 2014-02-11 | — | cvm-col-20140211-d01 | fichas/colegiado/2014-02.md |
-| decisao-colegiado | 08/2013; 358/2002; 480/2009; RJ2013/5758 | 2014-01-29 | outro | cvm-col-20140129-d02 | fichas/colegiado/2014-02.md |
-| decisao-colegiado | 10/2013; RJ2011/12858 | 2014-01-29 | outro | cvm-col-20140129-d01 | fichas/colegiado/2014-02.md |
-| decisao-colegiado | RJ2013/11760 | 2014-01-28 | — | cvm-col-20140128-d01 | fichas/colegiado/2014-02.md |
-| decisao-colegiado | RJ2012/5550 | 2014-01-22 | outro | cvm-col-20140122-d02 | fichas/colegiado/2014-02.md |
-| decisao-colegiado | 11/2013; RJ2003/1074; RJ2008/11441; RJ2011/3464 | 2013-12-17 | deferido | cvm-col-20131217-d29 | fichas/colegiado/2013-24.md |
-| decisao-colegiado | RJ2013/13148 | 2013-12-17 | outro | cvm-col-20131217-d26 | fichas/colegiado/2013-24.md |
-| decisao-colegiado | 02/2013; RJ2013/9745 | 2013-12-17 | outro | cvm-col-20131217-d23 | fichas/colegiado/2013-24.md |
-| decisao-colegiado | 409/2004; RJ2012/13688 | 2013-12-03 | — | cvm-col-20131203-d08 | fichas/colegiado/2013-23.md |
-| decisao-colegiado | 06/2013; RJ2003/11499 | 2013-11-27 | — | cvm-col-20131127-d01 | fichas/colegiado/2013-23.md |
-| decisao-colegiado | 409/2004; RJ2012/13688 | 2013-11-26 | — | cvm-col-20131126-d06 | fichas/colegiado/2013-22.md |
-| decisao-colegiado | 409/2004; RJ2013/12178 | 2013-11-26 | outro | cvm-col-20131126-d05 | fichas/colegiado/2013-22.md |
-| decisao-colegiado | 08/2005; 168/1991; RJ2004/0140 | 2013-11-26 | outro | cvm-col-20131126-d04 | fichas/colegiado/2013-22.md |
-| decisao-colegiado | 400/2003; RJ2011/9292 | 2013-11-19 | outro | cvm-col-20131119-d08 | fichas/colegiado/2013-22.md |
-| decisao-colegiado | 07/2013; 391/2003; RJ2013/5710 | 2013-11-19 | outro | cvm-col-20131119-d07 | fichas/colegiado/2013-22.md |
-| decisao-colegiado | 15/2011; RJ2011/1898 | 2013-10-30 | outro | cvm-col-20131030-d01 | fichas/colegiado/2013-21.md |
-| decisao-colegiado | 05/2010; 483/2010; RJ2010/12770 | 2013-10-15 | outro | cvm-col-20131015-d28 | fichas/colegiado/2013-20.md |
-| decisao-colegiado | RJ2013/5756 | 2013-10-09 | — | cvm-col-20131009-d01 | fichas/colegiado/2013-19.md |
-| decisao-colegiado | RJ2013/5756 | 2013-10-08 | — | cvm-col-20131008-d01-r2 | fichas/colegiado/2013-18.md |
-| decisao-colegiado | 08/2013; 358/2002; 480/2009; RJ2013/5758 | 2013-09-25 | outro | cvm-col-20130925-d01 | fichas/colegiado/2013-18.md |
-| decisao-colegiado | 400/2003 | 2013-09-24 | outro | cvm-col-20130924-d05 | fichas/colegiado/2013-17.md |
-| decisao-colegiado | RJ2013/9745 | 2013-09-18 | outro | cvm-col-20130918-d02 | fichas/colegiado/2013-17.md |
-| decisao-colegiado | 13/2012; RJ2012/15066 | 2013-09-18 | outro | cvm-col-20130918-d01 | fichas/colegiado/2013-17.md |
-| decisao-colegiado | RJ2013/5756 | 2013-09-17 | — | cvm-col-20130917-d07 | fichas/colegiado/2013-17.md |
-| decisao-colegiado | RJ2003/1074; RJ2008/11441; RJ2011/3464 | 2013-09-10 | outro | cvm-col-20130910-d04 | fichas/colegiado/2013-16.md |
-| decisao-colegiado | RJ2003/1074; RJ2008/11441; RJ2011/3464 | 2013-09-04 | — | cvm-col-20130904-d01 | fichas/colegiado/2013-16.md |
-| decisao-colegiado | RJ2003/1074; RJ2008/11441; RJ2011/3464 | 2013-08-28 | — | cvm-col-20130828-d01 | fichas/colegiado/2013-16.md |
-| decisao-colegiado | 06/2013; RJ2003/11499 | 2013-08-23 | parcial | cvm-col-20130823-d01 | fichas/colegiado/2013-16.md |
-| decisao-colegiado | RJ2003/1074; RJ2008/11441; RJ2011/3464 | 2013-08-21 | — | cvm-col-20130821-d01 | fichas/colegiado/2013-16.md |
-| decisao-colegiado | 358/2002; 480/2009; RJ2013/5758 | 2013-08-20 | outro | cvm-col-20130820-d01 | fichas/colegiado/2013-15.md |
-| decisao-colegiado | RJ2003/1074; RJ2008/11441; RJ2011/3464 | 2013-08-14 | — | cvm-col-20130814-d01 | fichas/colegiado/2013-15.md |
-| decisao-colegiado | 08/2012; 359/2002; RJ2012/10996 | 2013-08-07 | outro | cvm-col-20130807-d01 | fichas/colegiado/2013-14.md |
-| decisao-colegiado | RJ2003/1074; RJ2008/11441; RJ2011/3464 | 2013-07-03 | — | cvm-col-20130703-d01 | fichas/colegiado/2013-13.md |
-| decisao-colegiado | RJ2013/5710 | 2013-07-02 | outro | cvm-col-20130702-d03 | fichas/colegiado/2013-13.md |
-| decisao-colegiado | 04/2013; RJ2009/12670 | 2013-06-18 | deferido | cvm-col-20130618-d01 | fichas/colegiado/2013-12.md |
-| decisao-colegiado | RJ2013/6438 | 2013-06-12 | outro | cvm-col-20130612-d02 | fichas/colegiado/2013-12.md |
-| decisao-colegiado | RJ2003/11499 | 2013-06-12 | outro | cvm-col-20130612-d01 | fichas/colegiado/2013-12.md |
-| decisao-colegiado | 003/2013 | 2013-05-28 | outro | cvm-col-20130528-d14 | fichas/colegiado/2013-11.md |
-| decisao-colegiado | RJ2003/11499 | 2013-05-16 | — | cvm-col-20130516-d01 | fichas/colegiado/2013-10.md |
-| decisao-colegiado | 03/2013; RJ2010/7200 | 2013-05-14 | deferido | cvm-col-20130514-d10 | fichas/colegiado/2013-10.md |
-| decisao-colegiado | RJ2009/12670 | 2013-05-09 | outro | cvm-col-20130509-d01 | fichas/colegiado/2013-10.md |
-| decisao-colegiado | RJ2003/11499 | 2013-05-08 | — | cvm-col-20130508-d01 | fichas/colegiado/2013-10.md |
-| decisao-colegiado | RJ2003/11499 | 2013-04-10 | — | cvm-col-20130410-d01 | fichas/colegiado/2013-09.md |
-| decisao-colegiado | 07/2012; RJ2011/8043 | 2013-04-08 | outro | cvm-col-20130408-d01 | fichas/colegiado/2013-08.md |
-| decisao-colegiado | 301/1999; SP2013/0174 | 2013-04-02 | outro | cvm-col-20130402-d10 | fichas/colegiado/2013-08.md |
-| decisao-colegiado | RJ2009/12670 | 2013-04-01 | — | cvm-col-20130401-d01 | fichas/colegiado/2013-07.md |
-| decisao-colegiado | 07/2011; RJ2011/8208 | 2013-03-27 | outro | cvm-col-20130327-d02 | fichas/colegiado/2013-07.md |
-| decisao-colegiado | 02/2013; 504/2011; RJ2012/3958 | 2013-03-12 | outro | cvm-col-20130312-d06 | fichas/colegiado/2013-06.md |
-| decisao-colegiado | RJ2010/7200 | 2013-03-06 | outro | cvm-col-20130306-d01 | fichas/colegiado/2013-06.md |
-| decisao-colegiado | RJ2010/7200 | 2013-02-06 | — | cvm-col-20130206-d01 | fichas/colegiado/2013-04.md |
-| decisao-colegiado | 05/2012; RJ2009/7807 | 2013-01-30 | outro | cvm-col-20130130-d01 | fichas/colegiado/2013-03.md |
-| decisao-colegiado | RJ2010/7200 | 2013-01-16 | — | cvm-col-20130116-d01 | fichas/colegiado/2013-02.md |
-| decisao-colegiado | RJ2012/3958 | 2013-01-09 | outro | cvm-col-20130109-d02 | fichas/colegiado/2013-01.md |
-| decisao-colegiado | RJ2011/9419 | 2013-01-09 | outro | cvm-col-20130109-d01 | fichas/colegiado/2013-01.md |
-| decisao-colegiado | RJ2012/15123 | 2012-12-19 | outro | cvm-col-20121219-d04 | fichas/colegiado/2012-27.md |
-| decisao-colegiado | 08/2012; RJ2012/13609 | 2012-12-19 | outro | cvm-col-20121219-d01 | fichas/colegiado/2012-27.md |
-| decisao-colegiado | 09/2012; RJ2012/13610 | 2012-12-12 | outro | cvm-col-20121212-d04 | fichas/colegiado/2012-24.md |
-| decisao-colegiado | RJ2009/4333 | 2012-12-12 | outro | cvm-col-20121212-d01 | fichas/colegiado/2012-24.md |
-| decisao-colegiado | RJ2011/8260 | 2012-11-28 | outro | cvm-col-20121128-d01 | fichas/colegiado/2012-22.md |
-| decisao-colegiado | 07/2012; RJ2012/10615 | 2012-11-22 | outro | cvm-col-20121122-d07 | fichas/colegiado/2012-21.md |
-| decisao-colegiado | RJ2012/13794 | 2012-11-22 | outro | cvm-col-20121122-d06 | fichas/colegiado/2012-21.md |
-| decisao-colegiado | RJ2012/13610 | 2012-11-14 | outro | cvm-col-20121114-d02 | fichas/colegiado/2012-21.md |
-| decisao-colegiado | RJ2012/13609 | 2012-11-14 | outro | cvm-col-20121114-d01 | fichas/colegiado/2012-21.md |
-| decisao-colegiado | 04/2012; RJ2011/2699 | 2012-11-06 | outro | cvm-col-20121106-d04-r2 | fichas/colegiado/2012-20.md |
-| decisao-colegiado | 06/2012; RJ2012/10621 | 2012-11-06 | outro | cvm-col-20121106-d03-r2 | fichas/colegiado/2012-20.md |
-| decisao-colegiado | 05/2012; RJ2012/10624 | 2012-11-06 | outro | cvm-col-20121106-d02-r2 | fichas/colegiado/2012-20.md |
-| decisao-colegiado | 04/2012; RJ2012/10622 | 2012-11-06 | outro | cvm-col-20121106-d01-r2 | fichas/colegiado/2012-20.md |
-| decisao-colegiado | 03/2012; RJ2010/3269 | 2012-10-31 | outro | cvm-col-20121031-d01 | fichas/colegiado/2012-20.md |
-| decisao-colegiado | 02/2012; RJ2011/3794 | 2012-10-10 | outro | cvm-col-20121010-d05 | fichas/colegiado/2012-18.md |
-| decisao-colegiado | 13/2010; RJ2010/17167 | 2012-10-02 | outro | cvm-col-20121002-d10 | fichas/colegiado/2012-18.md |
-| decisao-colegiado | 359/2002; RJ2012/10996 | 2012-09-19 | outro | cvm-col-20120919-d01 | fichas/colegiado/2012-17.md |
-| decisao-colegiado | RJ2011/13369 | 2012-09-04 | outro | cvm-col-20120904-d20 | fichas/colegiado/2012-16.md |
-| decisao-colegiado | 02/2012; RJ2012/2117 | 2012-08-28 | outro | cvm-col-20120828-d02 | fichas/colegiado/2012-14.md |
-| decisao-colegiado | RJ2012/6651 | 2012-07-24 | outro | cvm-col-20120724-d04 | fichas/colegiado/2012-12.md |
-| decisao-colegiado | RJ2011/13369 | 2012-07-11 | outro | cvm-col-20120711-d03 | fichas/colegiado/2012-12.md |
-| decisao-colegiado | RJ2011/8043 | 2012-07-11 | — | cvm-col-20120711-d02 | fichas/colegiado/2012-12.md |
-| decisao-colegiado | 14/2011; RJ2007/11580 | 2012-07-11 | — | cvm-col-20120711-d01 | fichas/colegiado/2012-12.md |
-| decisao-colegiado | 14/2011; RJ2007/11580 | 2012-07-04 | — | cvm-col-20120704-d01 | fichas/colegiado/2012-11.md |
-| decisao-colegiado | 14/2011; RJ2007/11580 | 2012-06-27 | — | cvm-col-20120627-d03 | fichas/colegiado/2012-11.md |
-| decisao-colegiado | RJ2011/2699 | 2012-06-27 | outro | cvm-col-20120627-d02 | fichas/colegiado/2012-11.md |
-| decisao-colegiado | 522/2012; RJ2011/2081 | 2012-06-27 | outro | cvm-col-20120627-d01 | fichas/colegiado/2012-11.md |
-| decisao-colegiado | RJ2010/3269 | 2012-06-19 | outro | cvm-col-20120619-d08 | fichas/colegiado/2012-10.md |
-| decisao-colegiado | RJ2009/7807 | 2012-06-06 | outro | cvm-col-20120606-d01 | fichas/colegiado/2012-10.md |
-| decisao-colegiado | 01/2012; RJ2012/1233 | 2012-05-09 | outro | cvm-col-20120509-d01 | fichas/colegiado/2012-09.md |
-| decisao-colegiado | RJ2010/3269 | 2012-05-08 | — | cvm-col-20120508-d01 | fichas/colegiado/2012-08.md |
-| decisao-colegiado | RJ2010/3269 | 2012-05-02 | — | cvm-col-20120502-d01-r2 | fichas/colegiado/2012-08.md |
-| decisao-colegiado | 16/2011; RJ2008/10842 | 2012-04-11 | — | cvm-col-20120411-d01 | fichas/colegiado/2012-07.md |
-| decisao-colegiado | 12/2011; RJ2011/1897 | 2012-04-10 | outro | cvm-col-20120410-d06 | fichas/colegiado/2012-07.md |
-| decisao-colegiado | RJ2011/3794 | 2012-03-28 | outro | cvm-col-20120328-d02 | fichas/colegiado/2012-06.md |
-| decisao-colegiado | 06/2011; RJ2011/2081 | 2012-03-28 | outro | cvm-col-20120328-d01 | fichas/colegiado/2012-06.md |
-| decisao-colegiado | 06/2011; RJ2011/2081 | 2012-03-14 | — | cvm-col-20120314-d01 | fichas/colegiado/2012-05.md |
-| decisao-colegiado | RJ2012/1233 | 2012-02-28 | outro | cvm-col-20120228-d05 | fichas/colegiado/2012-04.md |
-| decisao-colegiado | RJ2012/2118 | 2012-02-28 | outro | cvm-col-20120228-d04 | fichas/colegiado/2012-04.md |
-| decisao-colegiado | RJ2012/2117 | 2012-02-28 | outro | cvm-col-20120228-d03 | fichas/colegiado/2012-04.md |
-| decisao-colegiado | RJ2012/2116 | 2012-02-28 | outro | cvm-col-20120228-d02 | fichas/colegiado/2012-04.md |
-| decisao-colegiado | 15/2011; RJ2011/1898 | 2012-02-06 | deferido | cvm-col-20120206-d07 | fichas/colegiado/2012-02.md |
-| decisao-colegiado | RJ2012/1233 | 2012-01-25 | — | cvm-col-20120125-d01 | fichas/colegiado/2012-02.md |
-| decisao-colegiado | 13/2011; RJ2011/7434 | 2012-01-18 | outro | cvm-col-20120118-d01 | fichas/colegiado/2012-01.md |
-| decisao-colegiado | RJ2012/0535 | 2012-01-17 | outro | cvm-col-20120117-d11 | fichas/colegiado/2012-01.md |
-| decisao-colegiado | 16/2011; RJ2008/10842 | 2012-01-17 | deferido | cvm-col-20120117-d10 | fichas/colegiado/2012-01.md |
-| decisao-colegiado | 14/2011; RJ2005/3416 | 2012-01-17 | deferido | cvm-col-20120117-d09 | fichas/colegiado/2012-01.md |
-| decisao-colegiado | 01/2011; RJ2011/3563 | 2011-12-27 | outro | cvm-col-20111227-d01 | fichas/colegiado/2011-29.md |
-| decisao-colegiado | 09/2011; RJ2011/2363 | 2011-12-20 | outro | cvm-col-20111220-d12 | fichas/colegiado/2011-29.md |
-| decisao-colegiado | 02/2011; RJ2011/6477 | 2011-12-20 | outro | cvm-col-20111220-d02 | fichas/colegiado/2011-29.md |
-| decisao-colegiado | RJ2008/10842 | 2011-12-15 | outro | cvm-col-20111215-d01 | fichas/colegiado/2011-29.md |
-| decisao-colegiado | 12/2011; RJ2011/11539 | 2011-12-13 | outro | cvm-col-20111213-d12 | fichas/colegiado/2011-29.md |
-| decisao-colegiado | 11/2011; RJ2011/11341 | 2011-12-13 | outro | cvm-col-20111213-d11 | fichas/colegiado/2011-29.md |
-| decisao-colegiado | — | 2011-12-13 | — | cvm-col-20111213-d01 | fichas/colegiado/2011-28.md |
-| decisao-colegiado | 11/2011; RJ2011/7920 | 2011-12-06 | outro | cvm-col-20111206-d19 | fichas/colegiado/2011-28.md |
-| decisao-colegiado | — | 2011-12-06 | outro | cvm-col-20111206-d01 | fichas/colegiado/2011-28.md |
-| decisao-colegiado | 05/2011; RJ2004/5109 | 2011-11-29 | outro | cvm-col-20111129-d08 | fichas/colegiado/2011-26.md |
-| decisao-colegiado | RJ2011/13368 | 2011-11-29 | outro | cvm-col-20111129-d07 | fichas/colegiado/2011-26.md |
-| decisao-colegiado | RJ2008/10842 | 2011-11-23 | — | cvm-col-20111123-d01 | fichas/colegiado/2011-26.md |
-| decisao-colegiado | RJ2011/1898 | 2011-11-03 | outro | cvm-col-20111103-d01 | fichas/colegiado/2011-24.md |
-| decisao-colegiado | 10/2011; RJ2011/2541 | 2011-11-01 | outro | cvm-col-20111101-d12 | fichas/colegiado/2011-24.md |
-| decisao-colegiado | 02/2011; RJ2011/6477 | 2011-11-01 | — | cvm-col-20111101-d11 | fichas/colegiado/2011-24.md |
-| decisao-colegiado | RJ2005/3416 | 2011-10-31 | outro | cvm-col-20111031-d01 | fichas/colegiado/2011-23.md |
-| decisao-colegiado | RJ2011/1898 | 2011-10-25 | — | cvm-col-20111025-d01 | fichas/colegiado/2011-22.md |
-| decisao-colegiado | 12/2011; RJ2011/1897 | 2011-10-20 | parcial | cvm-col-20111020-d01 | fichas/colegiado/2011-22.md |
-| decisao-colegiado | RJ2011/11342 | 2011-10-19 | outro | cvm-col-20111019-d15 | fichas/colegiado/2011-22.md |
-| decisao-colegiado | RJ2011/11539 | 2011-10-19 | outro | cvm-col-20111019-d14 | fichas/colegiado/2011-22.md |
-| decisao-colegiado | RJ2011/11341 | 2011-10-19 | outro | cvm-col-20111019-d11 | fichas/colegiado/2011-22.md |
-| decisao-colegiado | RJ2011/1275 | 2011-10-11 | outro | cvm-col-20111011-d10 | fichas/colegiado/2011-22.md |
-| decisao-colegiado | RJ2011/7434 | 2011-10-11 | outro | cvm-col-20111011-d09 | fichas/colegiado/2011-21.md |
-| decisao-colegiado | RJ2005/3416 | 2011-10-11 | — | cvm-col-20111011-d01-r2 | fichas/colegiado/2011-21.md |
-| decisao-colegiado | 04/2009; RJ2008/5911 | 2011-09-21 | outro | cvm-col-20110921-d01 | fichas/colegiado/2011-19.md |
-| decisao-colegiado | 400/2003; RJ2011/10877 | 2011-09-20 | outro | cvm-col-20110920-d03 | fichas/colegiado/2011-18.md |
-| decisao-colegiado | RJ2011/7431 | 2011-09-20 | — | cvm-col-20110920-d01 | fichas/colegiado/2011-18.md |
-| decisao-colegiado | 02/2011; RJ2010/10397 | 2011-09-13 | outro | cvm-col-20110913-d10 | fichas/colegiado/2011-18.md |
-| decisao-colegiado | RJ2009/12925 | 2011-09-13 | outro | cvm-col-20110913-d09 | fichas/colegiado/2011-18.md |
-| decisao-colegiado | RJ2011/2541 | 2011-09-06 | indeferido | cvm-col-20110906-d26 | fichas/colegiado/2011-18.md |
-| decisao-colegiado | RJ2011/1897 | 2011-09-06 | outro | cvm-col-20110906-d01 | fichas/colegiado/2011-17.md |
-| decisao-colegiado | RJ2005/3416 | 2011-08-31 | — | cvm-col-20110831-d01 | fichas/colegiado/2011-17.md |
-| decisao-colegiado | RJ2011/7431 | 2011-08-30 | — | cvm-col-20110830-d07 | fichas/colegiado/2011-17.md |
-| decisao-colegiado | 489/2011; RJ2009/12393 | 2011-08-30 | outro | cvm-col-20110830-d02 | fichas/colegiado/2011-17.md |
-| decisao-colegiado | RJ2005/3416 | 2011-08-24 | — | cvm-col-20110824-d01 | fichas/colegiado/2011-17.md |
-| decisao-colegiado | RJ2011/7920 | 2011-08-09 | outro | cvm-col-20110809-d05 | fichas/colegiado/2011-15.md |
-| decisao-colegiado | RJ2011/5732 | 2011-08-02 | outro | cvm-col-20110802-d06 | fichas/colegiado/2011-15.md |
-| decisao-colegiado | RJ2011/5733 | 2011-08-02 | outro | cvm-col-20110802-d05 | fichas/colegiado/2011-15.md |
-| decisao-colegiado | RJ2005/3416 | 2011-07-13 | — | cvm-col-20110713-d01 | fichas/colegiado/2011-15.md |
-| decisao-colegiado | 461/2007; RJ2011/7972 | 2011-07-12 | outro | cvm-col-20110712-d09 | fichas/colegiado/2011-15.md |
-| decisao-colegiado | RJ2011/2541 | 2011-07-05 | outro | cvm-col-20110705-d04 | fichas/colegiado/2011-14.md |
-| decisao-colegiado | RJ2005/3416 | 2011-07-05 | — | cvm-col-20110705-d01-r2 | fichas/colegiado/2011-14.md |
-| decisao-colegiado | RJ2011/2082 | 2011-06-28 | outro | cvm-col-20110628-d02-r2 | fichas/colegiado/2011-14.md |
-| decisao-colegiado | RJ2005/3416 | 2011-06-28 | — | cvm-col-20110628-d01-r2 | fichas/colegiado/2011-14.md |
-| decisao-colegiado | RJ2005/3416 | 2011-06-15 | — | cvm-col-20110615-d01 | fichas/colegiado/2011-13.md |
-| decisao-colegiado | RJ2011/2363 | 2011-06-14 | outro | cvm-col-20110614-d09 | fichas/colegiado/2011-13.md |
-| decisao-colegiado | 04/2011; RJ2011/1433 | 2011-06-07 | outro | cvm-col-20110607-d15 | fichas/colegiado/2011-13.md |
-| decisao-colegiado | RJ2011/2082 | 2011-06-01 | — | cvm-col-20110601-d02 | fichas/colegiado/2011-12.md |
-| decisao-colegiado | RJ2011/3563 | 2011-06-01 | outro | cvm-col-20110601-d01 | fichas/colegiado/2011-12.md |
-| decisao-colegiado | RJ2011/3563 | 2011-05-11 | — | cvm-col-20110511-d02 | fichas/colegiado/2011-10.md |
-| decisao-colegiado | 03/2010; SP2010/0038 | 2011-05-11 | outro | cvm-col-20110511-d01 | fichas/colegiado/2011-10.md |
-| decisao-colegiado | 07/2011; RJ2011/1896 | 2011-05-04 | outro | cvm-col-20110504-d02 | fichas/colegiado/2011-10.md |
-| decisao-colegiado | RJ2010/12256 | 2011-05-04 | outro | cvm-col-20110504-d01 | fichas/colegiado/2011-10.md |
-| decisao-colegiado | 04/2009; RJ2008/5911 | 2011-04-27 | — | cvm-col-20110427-d01 | fichas/colegiado/2011-10.md |
-| decisao-colegiado | 01/2010; SP2010/0037 | 2011-04-19 | outro | cvm-col-20110419-d09 | fichas/colegiado/2011-09.md |
-| decisao-colegiado | RJ2011/1896 | 2011-04-12 | outro | cvm-col-20110412-d10 | fichas/colegiado/2011-09.md |
-| decisao-colegiado | 04/2009; RJ2008/5911 | 2011-03-30 | — | cvm-col-20110330-d01 | fichas/colegiado/2011-08.md |
-| decisao-colegiado | 04/2009; RJ2008/5911 | 2011-03-23 | — | cvm-col-20110323-d01 | fichas/colegiado/2011-07.md |
-| decisao-colegiado | RJ2010/15308 | 2011-03-15 | outro | cvm-col-20110315-d16 | fichas/colegiado/2011-06.md |
-| decisao-colegiado | RJ2008/2077 | 2011-02-23 | outro | cvm-col-20110223-d02 | fichas/colegiado/2011-05.md |
-| decisao-colegiado | RJ2011/2541 | 2011-02-23 | — | cvm-col-20110223-d01 | fichas/colegiado/2011-05.md |
-| decisao-colegiado | RJ2007/14749 | 2011-02-22 | outro | cvm-col-20110222-d22 | fichas/colegiado/2011-04.md |
-| decisao-colegiado | RJ2010/17869 | 2011-02-16 | outro | cvm-col-20110216-d02 | fichas/colegiado/2011-04.md |
-| decisao-colegiado | RJ2004/5109 | 2011-02-16 | outro | cvm-col-20110216-d01 | fichas/colegiado/2011-04.md |
-| decisao-colegiado | 04/2010 | 2011-02-15 | outro | cvm-col-20110215-d09 | fichas/colegiado/2011-03.md |
-| decisao-colegiado | 006/2011 | 2011-02-15 | outro | cvm-col-20110215-d01 | fichas/colegiado/2011-03.md |
-| decisao-colegiado | RJ2011/1898 | 2011-02-09 | — | cvm-col-20110209-d01 | fichas/colegiado/2011-03.md |
-| decisao-colegiado | 02/2011; RJ2010/10397 | 2011-02-01 | deferido | cvm-col-20110201-d09 | fichas/colegiado/2011-02.md |
-| decisao-colegiado | 07/2010 | 2011-02-01 | outro | cvm-col-20110201-d02 | fichas/colegiado/2011-02.md |
-| decisao-colegiado | RJ2011/2541 | 2011-01-25 | — | cvm-col-20110125-d02 | fichas/colegiado/2011-01.md |
-| decisao-colegiado | RJ2011/1433 | 2011-01-25 | outro | cvm-col-20110125-d01 | fichas/colegiado/2011-01.md |
-| decisao-colegiado | 09/2010; RJ2003/0505 | 2011-01-19 | outro | cvm-col-20110119-d06 | fichas/colegiado/2011-01.md |
-| decisao-colegiado | RJ2010/15308 | 2011-01-19 | outro | cvm-col-20110119-d01 | fichas/colegiado/2011-01.md |
-| decisao-colegiado | RJ2009/12393 | 2011-01-11 | outro | cvm-col-20110111-d07 | fichas/colegiado/2011-01.md |
-| decisao-colegiado | RJ2010/17869 | 2011-01-03 | outro | cvm-col-20110103-d01 | fichas/colegiado/2011-01.md |
-| decisao-colegiado | RJ2010/17391 | 2010-12-28 | outro | cvm-col-20101228-d73 | fichas/colegiado/2010-33.md |
-| decisao-colegiado | RJ2010/10397 | 2010-12-28 | outro | cvm-col-20101228-d11 | fichas/colegiado/2010-31.md |
-| decisao-colegiado | 11/2007; 12/2008; 016/2010 | 2010-12-28 | outro | cvm-col-20101228-d04 | fichas/colegiado/2010-30.md |
-| decisao-colegiado | SP2010/0279 | 2010-12-14 | outro | cvm-col-20101214-d12 | fichas/colegiado/2010-29.md |
-| decisao-colegiado | RJ2010/17164 | 2010-12-14 | outro | cvm-col-20101214-d11 | fichas/colegiado/2010-29.md |
-| decisao-colegiado | RJ2010/17162 | 2010-12-14 | outro | cvm-col-20101214-d09 | fichas/colegiado/2010-29.md |
-| decisao-colegiado | RJ2010/17161 | 2010-12-14 | outro | cvm-col-20101214-d08 | fichas/colegiado/2010-29.md |
-| decisao-colegiado | RJ2010/14735 | 2010-11-30 | outro | cvm-col-20101130-d36 | fichas/colegiado/2010-26.md |
-| decisao-colegiado | RJ2010/14731 | 2010-11-30 | outro | cvm-col-20101130-d35 | fichas/colegiado/2010-26.md |
-| decisao-colegiado | RJ2010/14219 | 2010-11-30 | outro | cvm-col-20101130-d34 | fichas/colegiado/2010-26.md |
-| decisao-colegiado | RJ2010/14733 | 2010-11-30 | outro | cvm-col-20101130-d33 | fichas/colegiado/2010-26.md |
-| decisao-colegiado | 08/2010; RJ2010/3030 | 2010-11-17 | outro | cvm-col-20101117-d01 | fichas/colegiado/2010-24.md |
-| decisao-colegiado | 13/2010; RJ2009/13026 | 2010-11-16 | parcial | cvm-col-20101116-d07 | fichas/colegiado/2010-24.md |
-| decisao-colegiado | 06/2010; RJ2010/13671 | 2010-11-16 | outro | cvm-col-20101116-d02 | fichas/colegiado/2010-24.md |
-| decisao-colegiado | 02/2010; RJ2007/14749 | 2010-10-27 | outro | cvm-col-20101027-d01 | fichas/colegiado/2010-22.md |
-| decisao-colegiado | RJ2009/12393 | 2010-10-26 | outro | cvm-col-20101026-d09 | fichas/colegiado/2010-22.md |
-| decisao-colegiado | RJ2010/14220 | 2010-10-05 | outro | cvm-col-20101005-d07 | fichas/colegiado/2010-20.md |
-| decisao-colegiado | RJ2010/3030 | 2010-10-05 | outro | cvm-col-20101005-d02 | fichas/colegiado/2010-20.md |
-| decisao-colegiado | 05/2010; RJ2010/12770 | 2010-09-09 | deferido | cvm-col-20100909-d15 | fichas/colegiado/2010-19.md |
-| decisao-colegiado | RJ2003/0505 | 2010-09-01 | outro | cvm-col-20100901-d01 | fichas/colegiado/2010-18.md |
-| decisao-colegiado | RJ2006/6136 | 2010-08-17 | outro | cvm-col-20100817-d01 | fichas/colegiado/2010-17.md |
-| termo-compromisso | — | 2010-08-10 | outro | cvm-col-20100810-d07 | fichas/tc/2010-04.md |
-| decisao-colegiado | SP2010/0107 | 2010-08-10 | outro | cvm-col-20100810-d05 | fichas/colegiado/2010-17.md |
-| decisao-colegiado | 04/2010; RJ2010/4218 | 2010-08-03 | outro | cvm-col-20100803-d07 | fichas/colegiado/2010-16.md |
-| decisao-colegiado | SP2010/0038 | 2010-06-16 | deferido | cvm-col-20100616-d01 | fichas/colegiado/2010-14.md |
-| decisao-colegiado | RJ2009/2042 | 2010-06-02 | outro | cvm-col-20100602-d01 | fichas/colegiado/2010-13.md |
-| decisao-colegiado | — | 2010-06-01 | outro | cvm-col-20100601-d07 | fichas/colegiado/2010-13.md |
-| decisao-colegiado | RJ2007/14749 | 2010-05-18 | deferido | cvm-col-20100518-d14 | fichas/colegiado/2010-13.md |
-| decisao-colegiado | RJ2007/4235 | 2010-05-11 | outro | cvm-col-20100511-d06 | fichas/colegiado/2010-12.md |
-| decisao-colegiado | — | 2010-04-13 | outro | cvm-col-20100413-d07 | fichas/colegiado/2010-11.md |
-| decisao-colegiado | SP2010/0038 | 2010-04-07 | outro | cvm-col-20100407-d01-r2 | fichas/colegiado/2010-10.md |
-| decisao-colegiado | RJ2005/8962 | 2010-03-24 | outro | cvm-col-20100324-d01 | fichas/colegiado/2010-09.md |
-| decisao-colegiado | RJ2007/14749 | 2010-03-03 | outro | cvm-col-20100303-d01 | fichas/colegiado/2010-07.md |
-| decisao-colegiado | — | 2010-02-10 | outro | cvm-col-20100210-d01 | fichas/colegiado/2010-05.md |
-| decisao-colegiado | — | 2010-02-09 | outro | cvm-col-20100209-d24 | fichas/colegiado/2010-05.md |
-| decisao-colegiado | 35/2009 | 2010-01-26 | outro | cvm-col-20100126-d20 | fichas/colegiado/2010-03.md |
-| decisao-colegiado | RJ2009/12393 | 2010-01-19 | deferido | cvm-col-20100119-d11 | fichas/colegiado/2010-02.md |
-| decisao-colegiado | RJ2009/10914; RJ2009/10915; RJ2009/10916; RJ2009/10917; RJ2009/10918 | 2009-12-22 | outro | cvm-col-20091222-d35 | fichas/colegiado/2009-25.md |
-| decisao-colegiado | RJ2009/12858 | 2009-12-22 | outro | cvm-col-20091222-d28 | fichas/colegiado/2009-24.md |
-| decisao-colegiado | RJ2009/12857 | 2009-12-22 | outro | cvm-col-20091222-d27 | fichas/colegiado/2009-24.md |
-| decisao-colegiado | RJ2009/10954 | 2009-12-22 | outro | cvm-col-20091222-d24 | fichas/colegiado/2009-24.md |
-| decisao-colegiado | RJ2009/10908 | 2009-12-22 | outro | cvm-col-20091222-d23 | fichas/colegiado/2009-24.md |
-| decisao-colegiado | RJ2009/9638 | 2009-12-22 | outro | cvm-col-20091222-d22 | fichas/colegiado/2009-24.md |
-| decisao-colegiado | — | 2009-12-08 | outro | cvm-col-20091208-d20 | fichas/colegiado/2009-22.md |
-| decisao-colegiado | — | 2009-12-08 | outro | cvm-col-20091208-d03 | fichas/colegiado/2009-22.md |
-| decisao-colegiado | — | 2009-11-24 | outro | cvm-col-20091124-d14 | fichas/colegiado/2009-21.md |
-| decisao-colegiado | RJ2003/1765 | 2009-11-18 | outro | cvm-col-20091118-d01 | fichas/colegiado/2009-21.md |
-| decisao-colegiado | — | 2009-11-17 | outro | cvm-col-20091117-d15 | fichas/colegiado/2009-20.md |
-| decisao-colegiado | — | 2009-11-10 | outro | cvm-col-20091110-d04 | fichas/colegiado/2009-19.md |
-| decisao-colegiado | RJ2003/1765 | 2009-10-13 | outro | cvm-col-20091013-d14 | fichas/colegiado/2009-18.md |
-| decisao-colegiado | RJ2009/8891 | 2009-10-13 | outro | cvm-col-20091013-d13 | fichas/colegiado/2009-18.md |
-| decisao-colegiado | RJ2009/3766 | 2009-10-06 | outro | cvm-col-20091006-d02 | fichas/colegiado/2009-17.md |
-| decisao-colegiado | 07/2008; RJ2003/1765 | 2009-10-02 | deferido | cvm-col-20091002-d01 | fichas/colegiado/2009-17.md |
-| decisao-colegiado | 07/2008; RJ2003/1765 | 2009-09-15 | outro | cvm-col-20090915-d11 | fichas/colegiado/2009-16.md |
-| decisao-colegiado | RJ2009/3441 | 2009-09-08 | outro | cvm-col-20090908-d12 | fichas/colegiado/2009-16.md |
-| decisao-colegiado | RJ2009/3769 | 2009-09-08 | outro | cvm-col-20090908-d10 | fichas/colegiado/2009-16.md |
-| decisao-colegiado | RJ2009/4871 | 2009-09-08 | outro | cvm-col-20090908-d09 | fichas/colegiado/2009-16.md |
-| decisao-colegiado | RJ2009/4874 | 2009-09-08 | outro | cvm-col-20090908-d08 | fichas/colegiado/2009-16.md |
-| decisao-colegiado | RJ2009/3767 | 2009-09-08 | outro | cvm-col-20090908-d06 | fichas/colegiado/2009-16.md |
-| decisao-colegiado | RJ2009/3766 | 2009-09-08 | outro | cvm-col-20090908-d05 | fichas/colegiado/2009-16.md |
-| decisao-colegiado | RJ2009/3765 | 2009-09-08 | outro | cvm-col-20090908-d04 | fichas/colegiado/2009-15.md |
-| decisao-colegiado | — | 2009-08-11 | outro | cvm-col-20090811-d01 | fichas/colegiado/2009-14.md |
-| decisao-colegiado | RJ2009/3252 | 2009-08-04 | outro | cvm-col-20090804-d09 | fichas/colegiado/2009-14.md |
-| decisao-colegiado | RJ2005/5296 | 2009-08-04 | outro | cvm-col-20090804-d06 | fichas/colegiado/2009-14.md |
-| decisao-colegiado | RJ2008/5911 | 2009-07-21 | indeferido | cvm-col-20090721-d04 | fichas/colegiado/2009-13.md |
-| decisao-colegiado | RJ2009/2731 | 2009-07-15 | outro | cvm-col-20090715-d05 | fichas/colegiado/2009-13.md |
-| decisao-colegiado | RJ2009/2042 | 2009-07-14 | indeferido | cvm-col-20090714-d08 | fichas/colegiado/2009-13.md |
-| decisao-colegiado | RJ2009/6346 | 2009-07-07 | outro | cvm-col-20090707-d07 | fichas/colegiado/2009-13.md |
-| decisao-colegiado | — | 2009-06-23 | outro | cvm-col-20090623-d14 | fichas/colegiado/2009-11.md |
-| decisao-colegiado | RJ2008/5911 | 2009-06-16 | deferido | cvm-col-20090616-d05 | fichas/colegiado/2009-11.md |
-| decisao-colegiado | 422/2005; RJ2003/1765 | 2009-06-03 | outro | cvm-col-20090603-d04 | fichas/colegiado/2009-11.md |
-| decisao-colegiado | RJ2009/1260 | 2009-06-03 | outro | cvm-col-20090603-d02 | fichas/colegiado/2009-10.md |
-| decisao-colegiado | — | 2009-05-27 | outro | cvm-col-20090527-d01 | fichas/colegiado/2009-10.md |
-| decisao-colegiado | 356/2001 | 2009-05-06 | outro | cvm-col-20090506-d01 | fichas/colegiado/2009-09.md |
-| decisao-colegiado | — | 2009-04-28 | outro | cvm-col-20090428-d06 | fichas/colegiado/2009-09.md |
-| decisao-colegiado | RJ2009/3362 | 2009-04-14 | outro | cvm-col-20090414-d04 | fichas/colegiado/2009-08.md |
-| decisao-colegiado | RJ2008/5911 | 2009-04-01 | outro | cvm-col-20090401-d01 | fichas/colegiado/2009-06.md |
-| decisao-colegiado | — | 2009-03-31 | outro | cvm-col-20090331-d01 | fichas/colegiado/2009-05.md |
-| decisao-colegiado | RJ2008/12677 | 2009-03-24 | outro | cvm-col-20090324-d19 | fichas/colegiado/2009-05.md |
-| decisao-colegiado | RJ2007/9298 | 2009-03-11 | outro | cvm-col-20090311-d02 | fichas/colegiado/2009-04.md |
-| decisao-colegiado | RJ2005/8962 | 2009-03-11 | outro | cvm-col-20090311-d01 | fichas/colegiado/2009-04.md |
-| decisao-colegiado | — | 2009-03-10 | outro | cvm-col-20090310-d01 | fichas/colegiado/2009-03.md |
-| decisao-colegiado | RJ2008/5911 | 2009-02-11 | outro | cvm-col-20090211-d01 | fichas/colegiado/2009-02.md |
-| decisao-colegiado | RJ2008/12677 | 2009-01-07 | outro | cvm-col-20090107-d01 | fichas/colegiado/2009-01.md |
-| decisao-colegiado | — | 2008-12-19 | outro | cvm-col-20081219-d02 | fichas/colegiado/2008-28.md |
-| decisao-colegiado | RJ2008/8529 | 2008-12-16 | outro | cvm-col-20081216-d15 | fichas/colegiado/2008-28.md |
-| decisao-colegiado | RJ2008/10903 | 2008-12-16 | outro | cvm-col-20081216-d07 | fichas/colegiado/2008-28.md |
-| decisao-colegiado | RJ2008/7506 | 2008-12-16 | outro | cvm-col-20081216-d03 | fichas/colegiado/2008-27.md |
-| decisao-colegiado | RJ2008/7978 | 2008-12-10 | outro | cvm-col-20081210-d01-r2 | fichas/colegiado/2008-27.md |
-| decisao-colegiado | RJ2008/4098 | 2008-12-09 | outro | cvm-col-20081209-d07 | fichas/colegiado/2008-27.md |
-| decisao-colegiado | 30/2008 | 2008-11-18 | outro | cvm-col-20081118-d02 | fichas/colegiado/2008-25.md |
-| decisao-colegiado | RJ2008/4935 | 2008-11-11 | outro | cvm-col-20081111-d08 | fichas/colegiado/2008-25.md |
-| decisao-colegiado | RJ2006/2588 | 2008-11-11 | outro | cvm-col-20081111-d07 | fichas/colegiado/2008-25.md |
-| decisao-colegiado | RJ2008/10468 | 2008-11-11 | outro | cvm-col-20081111-d05 | fichas/colegiado/2008-25.md |
-| decisao-colegiado | RJ2008/8382; RJ2008/10220 | 2008-11-04 | outro | cvm-col-20081104-d02 | fichas/colegiado/2008-24.md |
-| decisao-colegiado | RJ2007/12819 | 2008-10-21 | outro | cvm-col-20081021-d03 | fichas/colegiado/2008-22.md |
-| decisao-colegiado | — | 2008-10-17 | outro | cvm-col-20081017-d01 | fichas/colegiado/2008-22.md |
-| decisao-colegiado | 05/2008 | 2008-10-07 | deferido | cvm-col-20081007-d17 | fichas/colegiado/2008-22.md |
-| decisao-colegiado | — | 2008-09-30 | — | cvm-col-20080930-d15 | fichas/colegiado/2008-21.md |
-| decisao-colegiado | — | 2008-09-10 | outro | cvm-col-20080910-d01 | fichas/colegiado/2008-20.md |
-| decisao-colegiado | — | 2008-09-03 | outro | cvm-col-20080903-d02 | fichas/colegiado/2008-20.md |
-| decisao-colegiado | RJ2004/4101 | 2008-09-03 | outro | cvm-col-20080903-d01 | fichas/colegiado/2008-20.md |
-| decisao-colegiado | — | 2008-08-26 | outro | cvm-col-20080826-d01 | fichas/colegiado/2008-19.md |
-| decisao-colegiado | RJ2005/2965 | 2008-08-13 | outro | cvm-col-20080813-d05 | fichas/colegiado/2008-19.md |
-| decisao-colegiado | RJ2008/7505 | 2008-08-13 | — | cvm-col-20080813-d04 | fichas/colegiado/2008-18.md |
-| decisao-colegiado | RJ2008/7506 | 2008-08-13 | — | cvm-col-20080813-d02 | fichas/colegiado/2008-18.md |
-| decisao-colegiado | RJ2008/3156 | 2008-07-29 | outro | cvm-col-20080729-d06 | fichas/colegiado/2008-17.md |
-| decisao-colegiado | 02/2008; 03/2008; RJ2006/6136 | 2008-07-22 | parcial | cvm-col-20080722-d27 | fichas/colegiado/2008-17.md |
-| decisao-colegiado | 02/2008 | 2008-07-03 | outro | cvm-col-20080703-d09 | fichas/colegiado/2008-14.md |
-| decisao-colegiado | — | 2008-07-03 | outro | cvm-col-20080703-d04 | fichas/colegiado/2008-14.md |
-| decisao-colegiado | RJ2008/3156 | 2008-06-25 | outro | cvm-col-20080625-d02 | fichas/colegiado/2008-14.md |
-| decisao-colegiado | — | 2008-06-25 | outro | cvm-col-20080625-d01 | fichas/colegiado/2008-14.md |
-| decisao-colegiado | RJ2008/3156 | 2008-06-11 | outro | cvm-col-20080611-d01 | fichas/colegiado/2008-13.md |
-| decisao-colegiado | — | 2008-06-02 | outro | cvm-col-20080602-d01 | fichas/colegiado/2008-12.md |
-| decisao-colegiado | RJ2006/6136 | 2008-05-13 | outro | cvm-col-20080513-d01-r2 | fichas/colegiado/2008-11.md |
-| decisao-colegiado | RJ2008/2882 | 2008-04-30 | outro | cvm-col-20080430-d02 | fichas/colegiado/2008-10.md |
-| decisao-colegiado | RJ2008/1778 | 2008-04-30 | outro | cvm-col-20080430-d01 | fichas/colegiado/2008-10.md |
-| decisao-colegiado | RJ2004/1335 | 2008-04-01 | outro | cvm-col-20080401-d18 | fichas/colegiado/2008-08.md |
-| decisao-colegiado | RJ2007/9346 | 2008-03-18 | outro | cvm-col-20080318-d02 | fichas/colegiado/2008-07.md |
-| decisao-colegiado | RJ2008/1778 | 2008-03-11 | outro | cvm-col-20080311-d14 | fichas/colegiado/2008-06.md |
-| decisao-colegiado | RJ2008/2063 | 2008-03-11 | outro | cvm-col-20080311-d13 | fichas/colegiado/2008-06.md |
-| decisao-colegiado | — | 2008-03-11 | outro | cvm-col-20080311-d11 | fichas/colegiado/2008-06.md |
-| decisao-colegiado | — | 2008-02-26 | outro | cvm-col-20080226-d01 | fichas/colegiado/2008-04.md |
-| decisao-colegiado | RJ2007/12819 | 2008-02-20 | outro | cvm-col-20080220-d01 | fichas/colegiado/2008-04.md |
-| decisao-colegiado | RJ2008/1036 | 2008-02-19 | outro | cvm-col-20080219-d01 | fichas/colegiado/2008-03.md |
-| decisao-colegiado | 01/2008; RJ2004/4101 | 2008-02-14 | deferido | cvm-col-20080214-d05 | fichas/colegiado/2008-03.md |
-| decisao-colegiado | — | 2008-01-09 | outro | cvm-col-20080109-d02 | fichas/colegiado/2008-01.md |
-| decisao-colegiado | RJ2007/3212 | 2008-01-09 | outro | cvm-col-20080109-d01 | fichas/colegiado/2008-01.md |
-| decisao-colegiado | SP2006/0207 | 2008-01-08 | outro | cvm-col-20080108-d08 | fichas/colegiado/2008-01.md |
-| decisao-colegiado | RJ2007/10501 | 2007-11-21 | outro | cvm-col-20071121-d02 | fichas/colegiado/2007-23.md |
-| decisao-colegiado | RJ2007/12913 | 2007-11-06 | outro | cvm-col-20071106-d01 | fichas/colegiado/2007-22.md |
-| decisao-colegiado | RJ2007/12819 | 2007-10-30 | outro | cvm-col-20071030-d01 | fichas/colegiado/2007-20.md |
-| decisao-colegiado | RJ2004/4101 | 2007-10-30 | outro | cvm-col-20071030-d01-r2 | fichas/colegiado/2007-21.md |
-| decisao-colegiado | RJ2007/8194 | 2007-10-09 | outro | cvm-col-20071009-d09 | fichas/colegiado/2007-19.md |
-| decisao-colegiado | RJ2007/10682 | 2007-10-09 | outro | cvm-col-20071009-d03 | fichas/colegiado/2007-19.md |
-| decisao-colegiado | RJ2003/11142 | 2007-09-18 | outro | cvm-col-20070918-d01 | fichas/colegiado/2007-17.md |
-| decisao-colegiado | — | 2007-09-17 | outro | cvm-col-20070917-d02 | fichas/colegiado/2007-17.md |
-| decisao-colegiado | — | 2007-09-11 | outro | cvm-col-20070911-d05 | fichas/colegiado/2007-16.md |
-| decisao-colegiado | RJ2007/9346 | 2007-09-03 | outro | cvm-col-20070903-d01 | fichas/colegiado/2007-16.md |
-| decisao-colegiado | RJ2006-5733 | 2007-08-28 | outro | cvm-col-20070828-d06 | fichas/colegiado/2007-16.md |
-| decisao-colegiado | — | 2007-08-27 | outro | cvm-col-20070827-d01 | fichas/colegiado/2007-15.md |
-| decisao-colegiado | RJ2004/1335 | 2007-08-14 | outro | cvm-col-20070814-d05 | fichas/colegiado/2007-15.md |
-| decisao-colegiado | RJ2007/2035 | 2007-08-14 | outro | cvm-col-20070814-d03 | fichas/colegiado/2007-15.md |
-| decisao-colegiado | RJ2006/6136 | 2007-08-07 | outro | cvm-col-20070807-d01 | fichas/colegiado/2007-14.md |
-| decisao-colegiado | 06/2007 | 2007-07-31 | outro | cvm-col-20070731-d11 | fichas/colegiado/2007-14.md |
-| decisao-colegiado | RJ2006/5499 | 2007-07-31 | outro | cvm-col-20070731-d09 | fichas/colegiado/2007-14.md |
-| decisao-colegiado | — | 2007-07-17 | outro | cvm-col-20070717-d10 | fichas/colegiado/2007-13.md |
-| decisao-colegiado | RJ2007/4125; RJ2007/1298 | 2007-07-17 | outro | cvm-col-20070717-d09 | fichas/colegiado/2007-13.md |
-| decisao-colegiado | RJ2003/7911 | 2007-07-17 | outro | cvm-col-20070717-d05 | fichas/colegiado/2007-13.md |
-| decisao-colegiado | RJ2007/4235 | 2007-07-11 | outro | cvm-col-20070711-d01 | fichas/colegiado/2007-13.md |
-| decisao-colegiado | SP2007/0023 | 2007-07-10 | outro | cvm-col-20070710-d21 | fichas/colegiado/2007-13.md |
-| decisao-colegiado | — | 2007-07-03 | outro | cvm-col-20070703-d12 | fichas/colegiado/2007-11.md |
-| decisao-colegiado | RJ2003/11142 | 2007-06-28 | outro | cvm-col-20070628-d16 | fichas/colegiado/2007-11.md |
-| decisao-colegiado | — | 2007-06-12 | outro | cvm-col-20070612-d04 | fichas/colegiado/2007-09.md |
-| decisao-colegiado | RJ2007/3212 | 2007-06-12 | outro | cvm-col-20070612-d03 | fichas/colegiado/2007-09.md |
-| decisao-colegiado | RJ2006/9805 | 2007-06-12 | outro | cvm-col-20070612-d02 | fichas/colegiado/2007-09.md |
-| decisao-colegiado | RJ2005/3958 | 2007-06-12 | outro | cvm-col-20070612-d01 | fichas/colegiado/2007-09.md |
-| decisao-colegiado | RJ2007/4235 | 2007-05-14 | outro | cvm-col-20070514-d02 | fichas/colegiado/2007-07.md |
-| decisao-colegiado | RJ2007/2013 | 2007-05-14 | outro | cvm-col-20070514-d01 | fichas/colegiado/2007-07.md |
-| decisao-colegiado | 04/2007; RJ2007/3206 | 2007-05-03 | outro | cvm-col-20070503-d01 | fichas/colegiado/2007-07.md |
-| decisao-colegiado | RJ2006/5661 | 2007-04-25 | outro | cvm-col-20070425-d03 | fichas/colegiado/2007-06.md |
-| decisao-colegiado | RJ2004/1269 | 2007-04-25 | outro | cvm-col-20070425-d02 | fichas/colegiado/2007-06.md |
-| decisao-colegiado | RJ2006/1586 | 2007-04-25 | outro | cvm-col-20070425-d01 | fichas/colegiado/2007-06.md |
-| decisao-colegiado | RJ2007/2013 | 2007-03-27 | outro | cvm-col-20070327-d04 | fichas/colegiado/2007-05.md |
-| decisao-colegiado | RJ2007/2623 | 2007-03-27 | outro | cvm-col-20070327-d03 | fichas/colegiado/2007-05.md |
-| decisao-colegiado | RJ2006/0449 | 2007-03-07 | outro | cvm-col-20070307-d03 | fichas/colegiado/2007-04.md |
-| decisao-colegiado | RJ2006/9805 | 2007-03-07 | outro | cvm-col-20070307-d02 | fichas/colegiado/2007-04.md |
-| decisao-colegiado | RJ2006/1586 | 2007-03-07 | outro | cvm-col-20070307-d01 | fichas/colegiado/2007-04.md |
-| decisao-colegiado | — | 2007-03-02 | outro | cvm-col-20070302-d03 | fichas/colegiado/2007-04.md |
-| decisao-colegiado | — | 2007-03-02 | outro | cvm-col-20070302-d02 | fichas/colegiado/2007-04.md |
-| decisao-colegiado | RJ2005/3958 | 2007-03-02 | outro | cvm-col-20070302-d01 | fichas/colegiado/2007-04.md |
-| decisao-colegiado | — | 2007-01-31 | outro | cvm-col-20070131-d01 | fichas/colegiado/2007-02.md |
-| decisao-colegiado | RJ2005/3327 | 2007-01-10 | outro | cvm-col-20070110-d01 | fichas/colegiado/2007-01.md |
-| decisao-colegiado | — | 2006-12-27 | outro | cvm-col-20061227-d01 | fichas/colegiado/2006-21.md |
-| decisao-colegiado | — | 2006-12-19 | outro | cvm-col-20061219-d03-r2 | fichas/colegiado/2006-20.md |
-| decisao-colegiado | — | 2006-12-19 | outro | cvm-col-20061219-d02-r2 | fichas/colegiado/2006-20.md |
-| decisao-colegiado | RJ2005/3331 | 2006-12-19 | outro | cvm-col-20061219-d01-r2 | fichas/colegiado/2006-20.md |
-| decisao-colegiado | — | 2006-12-05 | outro | cvm-col-20061205-d20 | fichas/colegiado/2006-19.md |
-| decisao-colegiado | RJ2006/0449 | 2006-11-08 | outro | cvm-col-20061108-d02 | fichas/colegiado/2006-17.md |
-| decisao-colegiado | RJ2004/0723 | 2006-11-08 | outro | cvm-col-20061108-d01 | fichas/colegiado/2006-17.md |
-| decisao-colegiado | RJ2002/6503 | 2006-10-31 | outro | cvm-col-20061031-d01 | fichas/colegiado/2006-16.md |
-| decisao-colegiado | — | 2006-10-18 | outro | cvm-col-20061018-d03 | fichas/colegiado/2006-16.md |
-| decisao-colegiado | — | 2006-10-18 | outro | cvm-col-20061018-d02 | fichas/colegiado/2006-16.md |
-| decisao-colegiado | RJ2005/0102 | 2006-10-18 | outro | cvm-col-20061018-d01 | fichas/colegiado/2006-15.md |
-| decisao-colegiado | 34/2006; RJ2006/7204; RJ2006/7213 | 2006-10-17 | outro | cvm-col-20061017-d04 | fichas/colegiado/2006-15.md |
-| decisao-colegiado | RJ2006-5733 | 2006-09-20 | outro | cvm-col-20060920-d01 | fichas/colegiado/2006-14.md |
-| decisao-colegiado | RJ2004/1269 | 2006-08-23 | outro | cvm-col-20060823-d01 | fichas/colegiado/2006-13.md |
-| decisao-colegiado | RJ2006/5661 | 2006-08-09 | outro | cvm-col-20060809-d01 | fichas/colegiado/2006-13.md |
-| decisao-colegiado | RJ2003/13239 | 2006-07-05 | outro | cvm-col-20060705-d05 | fichas/colegiado/2006-10.md |
-| decisao-colegiado | RJ2004/5631 | 2006-07-05 | outro | cvm-col-20060705-d04 | fichas/colegiado/2006-10.md |
-| decisao-colegiado | RJ2005/7215 | 2006-07-05 | outro | cvm-col-20060705-d02 | fichas/colegiado/2006-10.md |
-| decisao-colegiado | RJ2004/6922 | 2006-07-05 | outro | cvm-col-20060705-d01 | fichas/colegiado/2006-10.md |
-| decisao-colegiado | — | 2006-05-26 | outro | cvm-col-20060526-d06 | fichas/colegiado/2006-08.md |
-| decisao-colegiado | RJ2003/6439; RJ2006/3289 | 2006-05-26 | outro | cvm-col-20060526-d05 | fichas/colegiado/2006-08.md |
-| decisao-colegiado | RJ2005/9145 | 2006-05-26 | outro | cvm-col-20060526-d04 | fichas/colegiado/2006-08.md |
-| decisao-colegiado | RJ2005/2967 | 2006-05-26 | outro | cvm-col-20060526-d03 | fichas/colegiado/2006-08.md |
-| decisao-colegiado | RJ2004/0723 | 2006-05-26 | outro | cvm-col-20060526-d01 | fichas/colegiado/2006-08.md |
-| decisao-colegiado | 03/2006; RJ2005/0102 | 2006-05-18 | deferido | cvm-col-20060518-d07 | fichas/colegiado/2006-08.md |
-| decisao-colegiado | 04/2006; RJ2005/0102 | 2006-05-18 | deferido | cvm-col-20060518-d05 | fichas/colegiado/2006-07.md |
-| decisao-colegiado | RJ2005/9169 | 2006-04-27 | outro | cvm-col-20060427-d01 | fichas/colegiado/2006-07.md |
-| decisao-colegiado | — | 2006-03-28 | outro | cvm-col-20060328-d05 | fichas/colegiado/2006-05.md |
-| decisao-colegiado | RJ2005/9145 | 2006-03-22 | outro | cvm-col-20060322-d03 | fichas/colegiado/2006-05.md |
-| decisao-colegiado | — | 2006-03-22 | outro | cvm-col-20060322-d02 | fichas/colegiado/2006-05.md |
-| decisao-colegiado | — | 2006-03-22 | outro | cvm-col-20060322-d01 | fichas/colegiado/2006-05.md |
-| decisao-colegiado | — | 2006-03-03 | outro | cvm-col-20060303-d01 | fichas/colegiado/2006-04.md |
-| decisao-colegiado | RJ2004/6645 | 2006-02-21 | outro | cvm-col-20060221-d10 | fichas/colegiado/2006-04.md |
-| decisao-colegiado | RJ2004/3034 | 2006-02-13 | outro | cvm-col-20060213-d04 | fichas/colegiado/2006-03.md |
-| decisao-colegiado | — | 2006-02-13 | outro | cvm-col-20060213-d03 | fichas/colegiado/2006-03.md |
-| decisao-colegiado | RJ2005/0102 | 2006-02-13 | outro | cvm-col-20060213-d02 | fichas/colegiado/2006-03.md |
-| decisao-colegiado | RJ2005/0552 | 2006-02-13 | outro | cvm-col-20060213-d01 | fichas/colegiado/2006-03.md |
-| decisao-colegiado | RJ2005/3420 | 2006-01-23 | outro | cvm-col-20060123-d01 | fichas/colegiado/2006-01.md |
-| decisao-colegiado | — | 2005-12-27 | outro | cvm-col-20051227-d15 | fichas/colegiado/2005-21.md |
-| decisao-colegiado | RJ2005/9585 | 2005-12-27 | outro | cvm-col-20051227-d08 | fichas/colegiado/2005-20.md |
-| decisao-colegiado | — | 2005-12-27 | outro | cvm-col-20051227-d02 | fichas/colegiado/2005-20.md |
-| decisao-colegiado | RJ2005/0102 | 2005-11-23 | outro | cvm-col-20051123-d01 | fichas/colegiado/2005-18.md |
-| decisao-colegiado | RJ2005/4734 | 2005-11-09 | outro | cvm-col-20051109-d01 | fichas/colegiado/2005-17.md |
-| decisao-colegiado | — | 2005-10-31 | deferido | cvm-col-20051031-d01 | fichas/colegiado/2005-16.md |
-| decisao-colegiado | — | 2005-10-18 | outro | cvm-col-20051018-d05 | fichas/colegiado/2005-15.md |
-| decisao-colegiado | — | 2005-10-18 | outro | cvm-col-20051018-d02 | fichas/colegiado/2005-15.md |
-| decisao-colegiado | RJ2005/5392 | 2005-10-04 | outro | cvm-col-20051004-d07 | fichas/colegiado/2005-14.md |
-| decisao-colegiado | — | 2005-09-28 | outro | cvm-col-20050928-d06 | fichas/colegiado/2005-13.md |
-| decisao-colegiado | RJ2005/2966 | 2005-09-28 | outro | cvm-col-20050928-d04 | fichas/colegiado/2005-13.md |
-| decisao-colegiado | RJ2001/9445; RJ2002/2418; RJ2003/1813 | 2005-09-28 | outro | cvm-col-20050928-d02 | fichas/colegiado/2005-13.md |
-| decisao-colegiado | — | 2005-09-20 | outro | cvm-col-20050920-d05 | fichas/colegiado/2005-13.md |
-| decisao-colegiado | — | 2005-09-13 | outro | cvm-col-20050913-d04 | fichas/colegiado/2005-13.md |
-| decisao-colegiado | RJ2005/0652 | 2005-08-29 | outro | cvm-col-20050829-d01 | fichas/colegiado/2005-12.md |
-| termo-compromisso | RJ2005/3421 | 2005-08-10 | outro | cvm-col-20050810-d01 | fichas/tc/2005-02.md |
-| decisao-colegiado | RJ2005/0880 | 2005-07-26 | outro | cvm-col-20050726-d04 | fichas/colegiado/2005-11.md |
-| decisao-colegiado | RJ2005/2839 | 2005-06-24 | outro | cvm-col-20050624-d01 | fichas/colegiado/2005-10.md |
-| decisao-colegiado | — | 2005-05-04 | outro | cvm-col-20050504-d03 | fichas/colegiado/2005-08.md |
-| termo-compromisso | — | 2005-05-04 | outro | cvm-col-20050504-d02 | fichas/tc/2005-01.md |
-| decisao-colegiado | RJ2003/13239 | 2005-04-27 | outro | cvm-col-20050427-d02 | fichas/colegiado/2005-07.md |
-| decisao-colegiado | RJ2005/0526 | 2005-04-27 | outro | cvm-col-20050427-d01 | fichas/colegiado/2005-07.md |
-| decisao-colegiado | RJ2005/0652 | 2005-04-12 | outro | cvm-col-20050412-d06 | fichas/colegiado/2005-06.md |
-| decisao-colegiado | RJ2005/1566 | 2005-04-12 | outro | cvm-col-20050412-d02 | fichas/colegiado/2005-06.md |
-| decisao-colegiado | — | 2005-03-29 | outro | cvm-col-20050329-d04 | fichas/colegiado/2005-06.md |
-| decisao-colegiado | RJ2003/6439 | 2005-03-08 | outro | cvm-col-20050308-d01 | fichas/colegiado/2005-04.md |
-| decisao-colegiado | RJ2005/1112 | 2005-02-22 | outro | cvm-col-20050222-d07 | fichas/colegiado/2005-04.md |
-| decisao-colegiado | — | 2005-02-22 | outro | cvm-col-20050222-d05 | fichas/colegiado/2005-04.md |
-| decisao-colegiado | RJ2003/13239 | 2005-02-10 | outro | cvm-col-20050210-d01 | fichas/colegiado/2005-03.md |
-| decisao-colegiado | — | 2005-01-25 | outro | cvm-col-20050125-d05 | fichas/colegiado/2005-02.md |
-| decisao-colegiado | — | 2005-01-25 | outro | cvm-col-20050125-d01 | fichas/colegiado/2005-02.md |
-| decisao-colegiado | RJ2004/6922 | 2005-01-18 | outro | cvm-col-20050118-d01 | fichas/colegiado/2005-02.md |
-| decisao-colegiado | — | 2004-12-30 | outro | cvm-col-20041230-d04 | fichas/colegiado/2004-18.md |
-| decisao-colegiado | — | 2004-12-30 | outro | cvm-col-20041230-d03 | fichas/colegiado/2004-18.md |
-| decisao-colegiado | RJ2004/7244 | 2004-12-23 | outro | cvm-col-20041223-d13 | fichas/colegiado/2004-17.md |
-| decisao-colegiado | RJ2003/12548 | 2004-12-14 | outro | cvm-col-20041214-d07 | fichas/colegiado/2004-16.md |
-| decisao-colegiado | RJ2004/3034 | 2004-12-14 | outro | cvm-col-20041214-d02 | fichas/colegiado/2004-15.md |
-| decisao-colegiado | — | 2004-11-30 | outro | cvm-col-20041130-d05 | fichas/colegiado/2004-15.md |
-| termo-compromisso | RJ2003/12433 | 2004-11-23 | outro | cvm-col-20041123-d01 | fichas/tc/2004-02.md |
-| decisao-colegiado | RJ2003/7911 | 2004-11-09 | outro | cvm-col-20041109-d04 | fichas/colegiado/2004-13.md |
-| decisao-colegiado | RJ2001/9445; RJ2002/2418; RJ2003/1813 | 2004-10-25 | outro | cvm-col-20041025-d02 | fichas/colegiado/2004-12.md |
-| decisao-colegiado | RJ2004/1269 | 2004-10-19 | outro | cvm-col-20041019-d4482 | fichas/colegiado/2004-12.md |
-| decisao-colegiado | — | 2004-09-10 | outro | cvm-col-20040910-d03 | fichas/colegiado/2004-10.md |
-| decisao-colegiado | — | 2004-08-31 | outro | cvm-col-20040831-d04 | fichas/colegiado/2004-10.md |
-| decisao-colegiado | — | 2004-07-27 | outro | cvm-col-20040727-d04 | fichas/colegiado/2004-09.md |
-| decisao-colegiado | RJ2003/7911 | 2004-07-19 | outro | cvm-col-20040719-d07 | fichas/colegiado/2004-09.md |
-| decisao-colegiado | — | 2004-07-19 | outro | cvm-col-20040719-d06 | fichas/colegiado/2004-09.md |
-| decisao-colegiado | RJ2004/4537 | 2004-07-19 | outro | cvm-col-20040719-d05 | fichas/colegiado/2004-09.md |
-| decisao-colegiado | — | 2004-07-13 | outro | cvm-col-20040713-d12 | fichas/colegiado/2004-08.md |
-| decisao-colegiado | RJ2004/2678 | 2004-07-13 | outro | cvm-col-20040713-d03 | fichas/colegiado/2004-08.md |
-| decisao-colegiado | — | 2004-07-06 | outro | cvm-col-20040706-d01 | fichas/colegiado/2004-08.md |
-| decisao-colegiado | — | 2004-06-24 | outro | cvm-col-20040624-d04 | fichas/colegiado/2004-07.md |
-| decisao-colegiado | RJ2004/3078 | 2004-06-08 | outro | cvm-col-20040608-d04 | fichas/colegiado/2004-06.md |
-| decisao-colegiado | RJ2004/2898 | 2004-05-04 | outro | cvm-col-20040504-d03 | fichas/colegiado/2004-05.md |
-| decisao-colegiado | RJ2004/1494 | 2004-04-27 | outro | cvm-col-20040427-d01 | fichas/colegiado/2004-05.md |
-| decisao-colegiado | — | 2004-03-31 | deferido | cvm-col-20040331-d03 | fichas/colegiado/2004-04.md |
-| decisao-colegiado | — | 2004-03-16 | outro | cvm-col-20040316-d07 | fichas/colegiado/2004-04.md |
-| decisao-colegiado | — | 2004-03-16 | outro | cvm-col-20040316-d06 | fichas/colegiado/2004-04.md |
-| decisao-colegiado | RJ2004/0610 | 2004-02-17 | outro | cvm-col-20040217-d01 | fichas/colegiado/2004-02.md |
-| decisao-colegiado | — | 2004-02-13 | outro | cvm-col-20040213-d01 | fichas/colegiado/2004-02.md |
-| decisao-colegiado | — | 2004-01-30 | outro | cvm-col-20040130-d02 | fichas/colegiado/2004-02.md |
-| decisao-colegiado | — | 2004-01-30 | outro | cvm-col-20040130-d01 | fichas/colegiado/2004-02.md |
-| decisao-colegiado | RJ2003/10303 | 2004-01-27 | outro | cvm-col-20040127-d03 | fichas/colegiado/2004-01.md |
-| decisao-colegiado | — | 2003-12-26 | outro | cvm-col-20031226-d03 | fichas/colegiado/2003-15.md |
-| decisao-colegiado | — | 2003-12-26 | outro | cvm-col-20031226-d02 | fichas/colegiado/2003-14.md |
-| decisao-colegiado | — | 2003-12-26 | outro | cvm-col-20031226-d01 | fichas/colegiado/2003-14.md |
-| decisao-colegiado | — | 2003-11-21 | outro | cvm-col-20031121-d02 | fichas/colegiado/2003-13.md |
-| decisao-colegiado | RJ2003/12498 | 2003-11-21 | outro | cvm-col-20031121-d01 | fichas/colegiado/2003-13.md |
-| decisao-colegiado | RJ2003/5512 | 2003-10-28 | outro | cvm-col-20031028-d03 | fichas/colegiado/2003-12.md |
-| decisao-colegiado | 279/1998; RJ2003/12067 | 2003-10-14 | outro | cvm-col-20031014-d05 | fichas/colegiado/2003-12.md |
-| decisao-colegiado | — | 2003-10-07 | outro | cvm-col-20031007-d02 | fichas/colegiado/2003-12.md |
-| decisao-colegiado | RJ2003/10303 | 2003-09-30 | outro | cvm-col-20030930-d04 | fichas/colegiado/2003-12.md |
-| decisao-colegiado | RJ2003/10370 | 2003-09-30 | outro | cvm-col-20030930-d03 | fichas/colegiado/2003-11.md |
-| decisao-colegiado | RJ2003/8151 | 2003-09-23 | outro | cvm-col-20030923-d05 | fichas/colegiado/2003-11.md |
-| decisao-colegiado | RJ2003/8168 | 2003-09-23 | outro | cvm-col-20030923-d01 | fichas/colegiado/2003-11.md |
-| termo-compromisso | RJ2003/0818 | 2003-09-02 | outro | cvm-col-20030902-d01 | fichas/tc/2003.md |
-| decisao-colegiado | RJ2003/0499 | 2003-08-28 | outro | cvm-col-20030828-d01 | fichas/colegiado/2003-10.md |
-| decisao-colegiado | — | 2003-07-22 | outro | cvm-col-20030722-d10 | fichas/colegiado/2003-09.md |
-| decisao-colegiado | — | 2003-07-22 | outro | cvm-col-20030722-d06 | fichas/colegiado/2003-09.md |
-| decisao-colegiado | — | 2003-07-22 | outro | cvm-col-20030722-d04 | fichas/colegiado/2003-09.md |
-| decisao-colegiado | — | 2003-07-22 | outro | cvm-col-20030722-d02 | fichas/colegiado/2003-09.md |
-| decisao-colegiado | — | 2003-07-14 | outro | cvm-col-20030714-d05 | fichas/colegiado/2003-09.md |
-| decisao-colegiado | RJ2003/6436 | 2003-07-14 | outro | cvm-col-20030714-d02 | fichas/colegiado/2003-09.md |
-| decisao-colegiado | — | 2003-07-08 | outro | cvm-col-20030708-d01 | fichas/colegiado/2003-09.md |
-| decisao-colegiado | — | 2003-06-17 | outro | cvm-col-20030617-d16 | fichas/colegiado/2003-08.md |
-| decisao-colegiado | RJ2003/1100 | 2003-06-03 | outro | cvm-col-20030603-d01 | fichas/colegiado/2003-07.md |
-| decisao-colegiado | — | 2003-04-29 | deferido | cvm-col-20030429-d13 | fichas/colegiado/2003-05.md |
-| decisao-colegiado | — | 2003-04-29 | outro | cvm-col-20030429-d01 | fichas/colegiado/2003-05.md |
-| decisao-colegiado | — | 2003-04-25 | outro | cvm-col-20030425-d01 | fichas/colegiado/2003-05.md |
-| decisao-colegiado | — | 2003-04-17 | deferido | cvm-col-20030417-d07 | fichas/colegiado/2003-05.md |
-| decisao-colegiado | — | 2003-04-01 | outro | cvm-col-20030401-d02 | fichas/colegiado/2003-04.md |
-| decisao-colegiado | — | 2003-04-01 | outro | cvm-col-20030401-d01 | fichas/colegiado/2003-04.md |
-| decisao-colegiado | — | 2003-03-25 | outro | cvm-col-20030325-d08 | fichas/colegiado/2003-04.md |
-| decisao-colegiado | — | 2003-03-17 | outro | cvm-col-20030317-d02 | fichas/colegiado/2003-03.md |
-| decisao-colegiado | — | 2003-03-17 | outro | cvm-col-20030317-d01 | fichas/colegiado/2003-03.md |
-| decisao-colegiado | — | 2003-02-03 | outro | cvm-col-20030203-d01 | fichas/colegiado/2003-02.md |
-| decisao-colegiado | — | 2003-01-28 | outro | cvm-col-20030128-d05 | fichas/colegiado/2003-02.md |
-| decisao-colegiado | — | 2003-01-14 | outro | cvm-col-20030114-d11 | fichas/colegiado/2003-01.md |
-| decisao-colegiado | — | 2003-01-14 | outro | cvm-col-20030114-d02 | fichas/colegiado/2003-01.md |
-| decisao-colegiado | — | 2003-01-14 | outro | cvm-col-20030114-d01 | fichas/colegiado/2003-01.md |
-| decisao-colegiado | — | 2002-12-23 | outro | cvm-col-20021223-d08 | fichas/colegiado/2002-26.md |
-| decisao-colegiado | 044/2002 | 2002-12-23 | outro | cvm-col-20021223-d04 | fichas/colegiado/2002-26.md |
-| decisao-colegiado | RJ2000/2149 | 2002-12-23 | outro | cvm-col-20021223-d03 | fichas/colegiado/2002-26.md |
-| decisao-colegiado | — | 2002-12-23 | outro | cvm-col-20021223-d02 | fichas/colegiado/2002-26.md |
-| decisao-colegiado | — | 2002-11-29 | outro | cvm-col-20021129-d01 | fichas/colegiado/2002-25.md |
-| decisao-colegiado | RJ2000/2149 | 2002-11-22 | — | cvm-col-20021122-d05 | fichas/colegiado/2002-25.md |
-| decisao-colegiado | — | 2002-11-12 | outro | cvm-col-20021112-d03 | fichas/colegiado/2002-25.md |
-| decisao-colegiado | — | 2002-11-12 | outro | cvm-col-20021112-d01 | fichas/colegiado/2002-25.md |
-| decisao-colegiado | — | 2002-10-29 | outro | cvm-col-20021029-d11 | fichas/colegiado/2002-25.md |
-| decisao-colegiado | — | 2002-09-24 | outro | cvm-col-20020924-d02 | fichas/colegiado/2002-22.md |
-| decisao-colegiado | — | 2002-09-20 | outro | cvm-col-20020920-d09 | fichas/colegiado/2002-22.md |
-| decisao-colegiado | — | 2002-09-10 | outro | cvm-col-20020910-d07 | fichas/colegiado/2002-22.md |
-| decisao-colegiado | — | 2002-08-14 | outro | cvm-col-20020814-d01 | fichas/colegiado/2002-20.md |
-| decisao-colegiado | — | 2002-08-06 | outro | cvm-col-20020806-d04 | fichas/colegiado/2002-19.md |
-| decisao-colegiado | — | 2002-08-06 | outro | cvm-col-20020806-d03 | fichas/colegiado/2002-19.md |
-| decisao-colegiado | — | 2002-06-27 | outro | cvm-col-20020627-d02 | fichas/colegiado/2002-15.md |
-| decisao-colegiado | — | 2002-06-27 | outro | cvm-col-20020627-d01 | fichas/colegiado/2002-15.md |
-| decisao-colegiado | — | 2002-06-18 | outro | cvm-col-20020618-d16 | fichas/colegiado/2002-14.md |
-| decisao-colegiado | — | 2002-06-18 | outro | cvm-col-20020618-d15 | fichas/colegiado/2002-14.md |
-| decisao-colegiado | — | 2002-06-11 | outro | cvm-col-20020611-d02 | fichas/colegiado/2002-13.md |
-| decisao-colegiado | — | 2002-06-11 | outro | cvm-col-20020611-d01 | fichas/colegiado/2002-13.md |
-| decisao-colegiado | — | 2002-05-29 | outro | cvm-col-20020529-d09 | fichas/colegiado/2002-12.md |
-| decisao-colegiado | — | 2002-05-29 | outro | cvm-col-20020529-d08 | fichas/colegiado/2002-12.md |
-| decisao-colegiado | — | 2002-05-29 | outro | cvm-col-20020529-d07 | fichas/colegiado/2002-12.md |
-| decisao-colegiado | — | 2002-05-07 | outro | cvm-col-20020507-d06 | fichas/colegiado/2002-10.md |
-| decisao-colegiado | 397/2001; SP2001/0719 | 2002-05-07 | outro | cvm-col-20020507-d03 | fichas/colegiado/2002-10.md |
-| decisao-colegiado | — | 2002-04-30 | outro | cvm-col-20020430-d02 | fichas/colegiado/2002-10.md |
-| decisao-colegiado | RJ2001/12242 | 2002-04-26 | outro | cvm-col-20020426-d04 | fichas/colegiado/2002-09.md |
-| decisao-colegiado | — | 2002-04-02 | outro | cvm-col-20020402-d05 | fichas/colegiado/2002-07.md |
-| decisao-colegiado | — | 2002-03-28 | outro | cvm-col-20020328-d01 | fichas/colegiado/2002-06.md |
-| decisao-colegiado | — | 2002-03-19 | outro | cvm-col-20020319-d18 | fichas/colegiado/2002-06.md |
-| decisao-colegiado | — | 2002-03-19 | outro | cvm-col-20020319-d04 | fichas/colegiado/2002-05.md |
-| decisao-colegiado | — | 2002-03-05 | outro | cvm-col-20020305-d04 | fichas/colegiado/2002-04.md |
-| decisao-colegiado | — | 2002-03-05 | outro | cvm-col-20020305-d03 | fichas/colegiado/2002-04.md |
-| decisao-colegiado | — | 2002-03-05 | outro | cvm-col-20020305-d02 | fichas/colegiado/2002-04.md |
-| decisao-colegiado | — | 2002-02-14 | outro | cvm-col-20020214-d14 | fichas/colegiado/2002-03.md |
-| decisao-colegiado | — | 2002-01-29 | outro | cvm-col-20020129-d03 | fichas/colegiado/2002-02.md |
-| decisao-colegiado | — | 2002-01-22 | outro | cvm-col-20020122-d01 | fichas/colegiado/2002-01.md |
-| decisao-colegiado | — | 2002-01-15 | outro | cvm-col-20020115-d07 | fichas/colegiado/2002-01.md |
+| Tipo | Processo | Data | Resultado | Ementa | Id | Ficha |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | — | 2025-12-03 | outro | O Colegiado concluiu a discussão sobre a Agenda Regulatória da CVM para 2026, exceto temas contábeis, a partir de proposta da SDM. A agenda… | cvm-col-20251203-d3468 | fichas/colegiado/2025-12.md |
+| decisao-colegiado | 19957.015256/2025-15 | 2025-11-05 | outro | O Colegiado aprovou submeter à Consulta Pública SNC 3/2025, em conjunto com CPC e CFC, minuta de resolução do Documento de Revisão de… | cvm-col-20251105-d3430 | fichas/colegiado/2025-11.md |
+| decisao-colegiado | 04/2024; 45/2021; 19957.002633/2024-67 | 2025-11-05 | outro | O Colegiado aprovou a Resolução CVM nº 235/2025, que altera pontualmente a Resolução CVM nº 45/2021 (rito dos PAS), após a Consulta Pública… | cvm-col-20251105-d3150 | fichas/colegiado/2025-11.md |
+| decisao-colegiado | 19957.012247/2023-01 | 2025-10-22 | outro | O Colegiado iniciou e concluiu a discussão sobre proposta da SDM de revisão do regime informacional dos FIF. Aprovou edital e minuta para a… | cvm-col-20251022-d2930 | fichas/colegiado/2025-10.md |
+| decisao-colegiado | 77/2022; 19957.006106/2016-11 | 2025-09-03 | outro | O Colegiado aprovou o edital e a minuta de reforma da Resolução CVM 77/2022 (recompra de ações e aquisição de debêntures de própria… | cvm-col-20250903-d3355 | fichas/colegiado/2025-09.md |
+| decisao-colegiado | 77/2022; 19957.006106/2016-11 | 2025-08-20 | — | O Colegiado iniciou a discussão sobre a reforma da Resolução CVM nº 77/2022 (negociação de ações e aquisição de debêntures de própria… | cvm-col-20250820-d3355 | fichas/colegiado/2025-08.md |
+| decisao-colegiado | 19957.021153/2024-03 | 2025-08-06 | outro | O Colegiado aprovou, conforme proposta da SNC, a alteração da agenda regulatória de 2025: retirou temas como a revisão das normas de fundos… | cvm-col-20250806-d3194 | fichas/colegiado/2025-07.md |
+| decisao-colegiado | 51/2021; 19957.002053/2025-51; 19957.008430/2025-65 | 2025-07-30 | outro | O Colegiado aprovou a Resolução CVM nº 234/2025, que dispõe sobre o cadastro de participantes e revoga a Resolução CVM nº 51/2021. Não… | cvm-col-20250730-d3330 | fichas/colegiado/2025-07.md |
+| decisao-colegiado | 19957.008239/2025-13 | 2025-07-09 | outro | O Colegiado aprovou submeter à Consulta Pública SNC nº 01/2025 minuta que torna obrigatório, para companhias abertas, a partir de… | cvm-col-20250709-d3318 | fichas/colegiado/2025-06.md |
+| decisao-colegiado | 9/2020; 19957.007985/2023-28 | 2025-07-02 | outro | O Colegiado aprovou o edital e a minuta de norma que alteram a Resolução CVM 9/2020 (agências de rating), para realinhamento às normas da… | cvm-col-20250702-d3319 | fichas/colegiado/2025-06.md |
+| decisao-colegiado | 01/2024; 19957.000826/2023-01 | 2025-06-06 | — | O Colegiado continuou a discussão da minuta do ambiente experimental FÁCIL (Facilitação do Acesso a Capital e Incentivo a Listagens)… | cvm-col-20250606-d3085 | fichas/colegiado/2025-05.md |
+| decisao-colegiado | 209/2024; 210/2024; 19957.009938/2021-57 | 2025-05-14 | outro | O Colegiado aprovou a RCVM 229/2025, que altera as RCVM 209 e 210 sobre portabilidade de investimentos: prorroga vigência para 2 de janeiro… | cvm-col-20250514-d2936 | fichas/colegiado/2025-04.md |
+| decisao-colegiado | 44/2021; 19957.014374/2022-55 | 2025-04-30 | outro | O Colegiado aprovou minutas para a Consulta Pública SDM nº 1/2025 que reformam a RCVM 44/2021 (fatos relevantes, negociação na pendência de… | cvm-col-20250430-d3258 | fichas/colegiado/2025-04.md |
+| decisao-colegiado | 44/2021; 19957.014374/2022-55 | 2025-04-02 | — | O Colegiado iniciou a discussão de minutas da SDM que revogam a Resolução CVM nº 44/2021 (fatos relevantes, comunicados ao mercado… | cvm-col-20250402-d3258 | fichas/colegiado/2025-03.md |
+| decisao-colegiado | 02/2024; 19957.014354/2023-65 | 2025-02-24 | outro | O Colegiado aprovou a Resolução CVM nº 226/2025, que altera as RCVM 17, 60, 80, 88 e 160 para regulamentar modificações decorrentes da Lei… | cvm-col-20250224-d3181 | fichas/colegiado/2025-01.md |
+| decisao-colegiado | 19957.021153/2024-03 | 2024-12-17 | outro | O Colegiado aprovou a agenda de normatização da SNC para 2025 (itens A, de normas, e B, de outros temas). O tema “Contabilização de ativos… | cvm-col-20241217-d3194 | fichas/colegiado/2024-14.md |
+| decisao-colegiado | 86/2022; 19957.011104/2022-92 | 2024-12-10 | outro | O Colegiado aprovou a Resolução CVM 221/2024, que altera a RCVM 86/2022 para afastar sua incidência sobre a revenda de unidades de hotel… | cvm-col-20241210-d3117 | fichas/colegiado/2024-14.md |
+| decisao-colegiado | 19957.002633/2024-67 | 2024-12-09 | outro | O Colegiado aprovou minuta de alteração da RCVM 45 (rito sancionador), a ser submetida à CP SDM 4/2024, com ajustes no art. 32 (impedimento… | cvm-col-20241209-d3150 | fichas/colegiado/2024-13.md |
+| decisao-colegiado | 19957.020245/2024-68 | 2024-12-03 | outro | O Colegiado aprovou, acompanhando a SDM, a Resolução Conjunta CVM-BCB nº 13/2024, sobre investimentos no mercado financeiro e de valores… | cvm-col-20241203-d3180 | fichas/colegiado/2024-13.md |
+| decisao-colegiado | 19957.014354/2023-65 | 2024-11-14 | outro | O Colegiado aprovou minuta de norma alteradora das RCVMs 80/2022 e 160/2022 para adaptá-las à Lei 14.711/2023, simplificando a emissão de… | cvm-col-20241114-d3181 | fichas/colegiado/2024-13.md |
+| decisao-colegiado | 06/2023; 19957.008727/2023-69 | 2024-11-13 | outro | Sobre a OCPC 10 (créditos de carbono, permissões de emissão e CBIO), após a Consulta Pública SNC nº 06/2023, o Colegiado decidiu solicitar… | cvm-col-20241113-d2917 | fichas/colegiado/2024-13.md |
+| decisao-colegiado | — | 2024-10-25 | outro | O Colegiado deliberou sobre a agenda regulatória da SDM para 2025, com normas a editar (Regime FÁCIL, debêntures, FIP e rito sancionador da… | cvm-col-20241025-d3201 | fichas/colegiado/2024-12.md |
+| decisao-colegiado | 193/2023; 19957.018170/2024-55 | 2024-10-16 | outro | O Colegiado aprovou a Resolução CVM 219/2024, que altera o art. 5º da RCVM 193/2023 para fixar em nove meses após o exercício o prazo de… | cvm-col-20241016-d3182 | fichas/colegiado/2024-11.md |
+| decisao-colegiado | 06/2023; 19957.012068/2022-84 | 2024-10-16 | — | O Colegiado iniciou a discussão da minuta que altera o limite de participação no capital de entidades administradoras de mercados… | cvm-col-20241016-d2985 | fichas/colegiado/2024-11.md |
+| decisao-colegiado | 05/2023; 85/2022; 19957.007933/2018-94 | 2024-10-02 | — | Colegiado iniciou a discussão da nova regulamentação das OPAs, que revoga a RCVM 85/2022, após a CP SDM 5/2023; o debate chegou ao art. 28… | cvm-col-20241002-d2878 | fichas/colegiado/2024-10.md |
+| decisao-colegiado | 19957.002633/2024-67 | 2024-09-25 | — | O Colegiado continuou a discussão da minuta da SDM, para consulta pública, que altera a Resolução CVM nº 45/2021 (rito da atuação… | cvm-col-20240925-d3150 | fichas/colegiado/2024-10.md |
+| decisao-colegiado | 19957.002633/2024-67 | 2024-09-18 | — | O Colegiado iniciou a discussão da minuta da SDM que altera a Resolução CVM nº 45/2021 (rito da atuação sancionadora), para aprimorar… | cvm-col-20240918-d3150 | fichas/colegiado/2024-10.md |
+| decisao-colegiado | 03/2023; 19957.004974/2021-24 | 2024-09-04 | — | Após a consulta pública SDM nº 03/2023 – proposta de resolução – anexo normativo – fundos de investimento nas cadeias produtivas do… | cvm-col-20240904-d2242 | fichas/colegiado/2024-09.md |
+| decisao-colegiado | 19957.000826/2023-01 | 2024-08-29 | outro | O Colegiado aprovou minutas de norma que instituem o ambiente experimental FÁCIL e alteram as Resoluções CVM 80/2022 e 166/2022… | cvm-col-20240829-d3085 | fichas/colegiado/2024-09.md |
+| decisao-colegiado | 02/2023; 19957.009938/2021-57 | 2024-08-14 | — | O Colegiado iniciou a discussão dos documentos da Consulta Pública SDM nº 2/2023 sobre portabilidade de valores mobiliários, com alterações… | cvm-col-20240814-d2936 | fichas/colegiado/2024-09.md |
+| decisao-colegiado | 02/2023; 19957.009938/2021-57 | 2024-08-14 | outro | O Colegiado aprovou a Resolução CVM nº 210/2024, que estabelece regras para a portabilidade de investimentos em valores mobiliários, e a nº… | cvm-col-20240814-d2936-r2 | fichas/colegiado/2024-09.md |
+| decisao-colegiado | 86/2022; 19957.011104/2022-92 | 2024-08-07 | outro | O Colegiado decidiu devolver à SDM a minuta de alteração da RCVM 86, sobre ofertas públicas de contratos de investimento coletivo… | cvm-col-20240807-d3117 | fichas/colegiado/2024-08.md |
+| decisao-colegiado | 47/2021; 80/2022; 161/2022; 19957.015790/2023-51 | 2024-08-07 | outro | O Colegiado aprovou a Resolução CVM 207/2024, que altera as RCVM 47, 80 e 161. Inclui coordenadores de ofertas públicas entre os sujeitos a… | cvm-col-20240807-d3116 | fichas/colegiado/2024-08.md |
+| decisao-colegiado | 160/2022; 19957.000850/2023-31 | 2024-08-07 | outro | O Colegiado aprovou a Resolução CVM nº 208/2024, que altera pontualmente a RCVM 160 para uniformizar a restrição de revenda de debêntures… | cvm-col-20240807-d2814 | fichas/colegiado/2024-08.md |
+| decisao-colegiado | 19957.000826/2023-01 | 2024-07-03 | — | A SDM concluiu a apresentação preliminar do regime Fácil, de regulamentação dos arts. 294-A e 294-B da Lei 6.404/1976, discutida com SMI… | cvm-col-20240703-d3085 | fichas/colegiado/2024-07.md |
+| decisao-colegiado | 07/2023; 175/2022; 19957.007496/2023-76 | 2024-07-01 | outro | O Colegiado aprovou a Resolução CVM nº 206/2024, que altera a parte geral da RCVM 175 para regulamentar os Fundos de Investimentos para… | cvm-col-20240701-d2986 | fichas/colegiado/2024-07.md |
+| decisao-colegiado | 19957.000826/2023-01 | 2024-06-19 | — | Apresentação da SDM, sem deliberação, sobre o regime Fácil de facilitação de acesso a capital e incentivo a listagens (arts. 294-A e 294-B… | cvm-col-20240619-d3085 | fichas/colegiado/2024-07.md |
+| decisao-colegiado | 13/2003; 19957.002880/2024-63 | 2024-06-18 | outro | O Colegiado, por unanimidade, acompanhando a área técnica, aprovou resolução conjunta CVM–BCB revogando a Decisão Conjunta 13/2003, que… | cvm-col-20240618-d3083 | fichas/colegiado/2024-07.md |
+| decisao-colegiado | 19957.000826/2023-01 | 2024-06-12 | — | Apresentação da SDM sobre o regime Fácil, que regulamenta os arts. 294-A e 294-B da Lei 6.404/1976, com pontos discutidos com SMI, SRE, SEP… | cvm-col-20240612-d3085 | fichas/colegiado/2024-06.md |
+| decisao-colegiado | 19957.005248/2024-71 | 2024-05-29 | outro | O Colegiado aprovou submeter à Consulta Pública SNC 4/2024 minuta que aprova a Revisão CPC 27 (Perda de Conversibilidade), tornando-a… | cvm-col-20240529-d3099 | fichas/colegiado/2024-06.md |
+| decisao-colegiado | 19957.005247/2024-27 | 2024-05-29 | outro | O Colegiado aprovou a Resolução CVM nº 205/2024, que torna obrigatório para as companhias abertas o Documento de Revisão de Pronunciamentos… | cvm-col-20240529-d3098 | fichas/colegiado/2024-06.md |
+| decisao-colegiado | 01/2023; 81/2022; 19957.011456/2017-81 | 2024-05-15 | — | O Colegiado iniciou a discussão da minuta de reforma da Resolução CVM 81/2022, sobre votação a distância em assembleias de acionistas… | cvm-col-20240515-d2925 | fichas/colegiado/2024-05.md |
+| decisao-colegiado | 01/2023; 81/2022; 19957.011456/2017-81 | 2024-05-15 | outro | O Colegiado aprovou a Resolução CVM nº 204/2024, que reforma a RCVM 81/2022 sobre votação a distância em assembleias, após a Consulta… | cvm-col-20240515-d2925-r2 | fichas/colegiado/2024-05.md |
+| decisao-colegiado | 19957.003937/2024-41 | 2024-05-10 | outro | O Colegiado aprovou a Resolução CVM 202/2024, que prorroga para 30.06.2024 prazos de maio e junho de 2024 para emissores com sede no RS e… | cvm-col-20240510-d3062 | fichas/colegiado/2024-05.md |
+| decisao-colegiado | 19957.004053/2024-12 | 2024-05-09 | outro | O Colegiado aprovou submeter à consulta pública SNC 03/2024, em conjunto com o CBPS e o CFC, minuta de resolução que aprova o… | cvm-col-20240509-d3067 | fichas/colegiado/2024-05.md |
+| decisao-colegiado | 19957.004052/2024-60 | 2024-05-09 | outro | O Colegiado aprovou submeter à Consulta Pública SNC nº 02/2024, junto com o CBPS e o CFC, minuta de resolução que torna obrigatório para as… | cvm-col-20240509-d3066 | fichas/colegiado/2024-05.md |
+| decisao-colegiado | 19957.001218/2024-96 | 2024-02-07 | outro | O Colegiado aprovou submeter à Consulta Pública SNC 01/2024, junto com CPC e CFC, minuta de resolução que aprova a ICPC 09(R3) e a torna… | cvm-col-20240207-d3032 | fichas/colegiado/2024-02.md |
+| decisao-colegiado | — | 2024-01-26 | outro | O Colegiado aprovou a agenda de normatização contábil da SNC para 2024: três normas a editar, cinco consultas públicas sem AIR (entre elas… | cvm-col-20240126-d3019 | fichas/colegiado/2024-01.md |
+| decisao-colegiado | 19957.014214/2023-97 | 2023-12-19 | outro | O Colegiado aprovou, por unanimidade, a Resolução CVM 196/2023, que prorroga para 01.11.2024 a entrada em vigor das seções III e IV do… | cvm-col-20231219-d2974 | fichas/colegiado/2023-14.md |
+| decisao-colegiado | 35/2021; 19957.014214/2023-97 | 2023-12-13 | — | Minuta de resolução para prorrogar a entrada em vigor, fixada em 02.01.2024, das seções III e IV do Capítulo VII-A da Resolução CVM nº… | cvm-col-20231213-d2974 | fichas/colegiado/2023-13.md |
+| decisao-colegiado | 19957.012068/2022-84 | 2023-12-06 | outro | O Colegiado aprovou submeter à Consulta Pública SDM nº 06/2023 minuta de resolução que flexibiliza restrições à participação no capital… | cvm-col-20231206-d2985 | fichas/colegiado/2023-13.md |
+| decisao-colegiado | — | 2023-11-29 | outro | O Colegiado deliberou sobre a agenda regulatória da CVM para 2024, conforme proposta da SDM após interação com a ASA e demais áreas… | cvm-col-20231129-d2976 | fichas/colegiado/2023-13.md |
+| decisao-colegiado | 85/2022; 19957.007933/2018-94 | 2023-11-22 | outro | O Colegiado concluiu a discussão e aprovou as minutas A e B da SDM sobre OPA, em substituição à RCVM 85/2022, para consulta pública… | cvm-col-20231122-d2878 | fichas/colegiado/2023-13.md |
+| decisao-colegiado | 19957.003216/2021-99 | 2023-11-08 | outro | O Colegiado aprovou submeter à Consulta Pública SDM nº 04/2023 edital conceitual sobre opções regulatórias para a atuação de… | cvm-col-20231108-d2967 | fichas/colegiado/2023-12.md |
+| decisao-colegiado | 85/2022; 19957.007933/2018-94 | 2023-11-08 | — | O Colegiado iniciou a discussão das minutas de norma da SDM que substituirão a Resolução CVM 85/2022 sobre OPA e serão submetidas a… | cvm-col-20231108-d2878 | fichas/colegiado/2023-12.md |
+| decisao-colegiado | 60/2021; 19957.009911/2021-64 | 2023-11-01 | outro | O Colegiado aprovou a Resolução CVM 194/2023, com ajustes pontuais na Resolução CVM 60/2021 (securitizadoras) para sistematizá-la com a Lei… | cvm-col-20231101-d1640 | fichas/colegiado/2023-12.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2023-10-17 | outro | O Colegiado aprovou a Resolução CVM 192/2023, que revoga 40 atos normativos já tacitamente revogados (38 instruções normativas alteradoras… | cvm-col-20231017-d1738 | fichas/colegiado/2023-11.md |
+| decisao-colegiado | 19957.003419/2023-47 | 2023-10-11 | outro | O Colegiado aprovou a Resolução CVM nº 193/2023, que permite elaborar, de forma voluntária, relatório de informações de sustentabilidade… | cvm-col-20231011-d2957 | fichas/colegiado/2023-11.md |
+| decisao-colegiado | 04/2023; 19957.007414/2023-93 | 2023-10-04 | outro | O Colegiado aprovou a Resolução CVM 188/2023, após a Consulta Pública SNC 04/2023, que torna obrigatório para as companhias abertas o… | cvm-col-20231004-d2887 | fichas/colegiado/2023-11.md |
+| decisao-colegiado | 19957.007883/2023-11 | 2023-09-26 | — | Proposta de resolução para alterar a Resolução CVM nº 175/22. O Colegiado iniciou a discussão e deliberou que o assunto seja apreciado no… | cvm-col-20230926-d2934 | fichas/colegiado/2023-10.md |
+| decisao-colegiado | 19957.007883/2023-11 | 2023-09-26 | outro | O Colegiado aprovou a Resolução CVM 187/2023, com ajustes pontuais na Resolução CVM 175/2022 (regime dos fundos) em dispositivos gerais e… | cvm-col-20230926-d2934-r2 | fichas/colegiado/2023-10.md |
+| decisao-colegiado | 19957.009938/2021-57 | 2023-09-20 | outro | O Colegiado aprovou o edital e a minuta de resolução da Consulta Pública SDM nº 2/2023 sobre portabilidade de valores mobiliários, que… | cvm-col-20230920-d2936 | fichas/colegiado/2023-10.md |
+| decisao-colegiado | 81/2022; 19957.011456/2017-81 | 2023-08-23 | outro | O Colegiado deliberou pela adoção da combinação de alternativas do Relatório de AIR sobre a reforma da RCVM 81/2022 (votação a distância em… | cvm-col-20230823-d2925 | fichas/colegiado/2023-09.md |
+| decisao-colegiado | 19957.008727/2023-69 | 2023-08-16 | outro | O Colegiado aprovou submeter à consulta pública, com CPC e CFC, minuta de resolução que aprova a OCPC 10 (créditos de descarbonização)… | cvm-col-20230816-d2917 | fichas/colegiado/2023-09.md |
+| decisao-colegiado | 19957.009517/2023-98 | 2023-08-16 | outro | O Colegiado aprovou a revisão da agenda regulatória de 2023 da SNC, com retirada de itens (ICVM 516, 489, 579 e 577; OCPC 06; OCPC sobre… | cvm-col-20230816-d2795 | fichas/colegiado/2023-09.md |
+| decisao-colegiado | 19957.001770/2023-01 | 2023-08-15 | outro | O Colegiado aprovou, por unanimidade, propostas da BSM Supervisão de Mercados de alteração de Estatuto, Regulamento Processual, Regimento… | cvm-col-20230815-d2914 | fichas/colegiado/2023-09.md |
+| decisao-colegiado | 19957.002556/2021-01 | 2023-08-15 | outro | O Colegiado aprovou, por unanimidade, a edição de Parecer de Orientação sobre as sociedades anônimas do futebol (SAF) e o mercado de… | cvm-col-20230815-d2910 | fichas/colegiado/2023-09.md |
+| decisao-colegiado | 19957.008727/2023-69 | 2023-08-09 | — | O Colegiado iniciou o debate de minuta de resolução que aprova a OCPC 10 (créditos de descarbonização), a ser submetida a consulta pública… | cvm-col-20230809-d2917 | fichas/colegiado/2023-08.md |
+| decisao-colegiado | 19957.015402/2022-51 | 2023-07-14 | outro | O Colegiado aprovou, por unanimidade, a nova versão do Regulamento de Emissores da B3, que consolida o Regulamento para Listagem e o Manual… | cvm-col-20230714-d2844 | fichas/colegiado/2023-08.md |
+| decisao-colegiado | 19957.002556/2021-01 | 2023-07-12 | — | O Colegiado assistiu à apresentação da SDM e da Presidência sobre a minuta de parecer de orientação sobre a Sociedade Anônima do Futebol… | cvm-col-20230712-d2910 | fichas/colegiado/2023-08.md |
+| decisao-colegiado | 9/2020; 19957.000127/2020-18 | 2023-07-11 | outro | O Colegiado, por unanimidade, aprovou a Resolução CVM nº 185/2023, que adequa a Resolução CVM nº 9/2020 ao limite de 60 dias do Decreto nº… | cvm-col-20230711-d1683 | fichas/colegiado/2023-07.md |
+| decisao-colegiado | 19957.009696/2021-00 | 2023-07-05 | outro | Após AIR sobre a obrigatoriedade do conselho fiscal em companhias de pequeno e médio porte, o Colegiado decidiu pela não ação, em… | cvm-col-20230705-d2909 | fichas/colegiado/2023-07.md |
+| decisao-colegiado | 03/2021; 19957.000017/2019-12 | 2023-05-03 | outro | O Colegiado aprovou, após a Audiência Pública SDM nº 03/2021, a edição das Resoluções CVM nºs 182 e 183/2023 sobre BDR. A 182 disciplina… | cvm-col-20230503-d2124 | fichas/colegiado/2023-05.md |
+| decisao-colegiado | 19957.002146/2023-13 | 2023-03-28 | outro | O Colegiado, por unanimidade, aprovou a Resolução CVM 181/2023, que altera pontualmente a Resolução CVM 175/2022 (marco dos fundos) e… | cvm-col-20230328-d5474 | fichas/colegiado/2023-04.md |
+| decisao-colegiado | 05/2021; 19957.009468/2018-26 | 2023-02-08 | — | O Colegiado iniciou o debate sobre as propostas de resoluções que regulam a atividade de assessor de investimento (Audiência Pública SDM… | cvm-col-20230208-d1441 | fichas/colegiado/2023-02.md |
+| decisao-colegiado | 08/2020; 19957.009249/2019-28 | 2022-12-14 | — | O Colegiado continuou o debate da proposta da SDM de novo marco regulatório para os fundos de investimento, com questões pendentes: alcance… | cvm-col-20221214-d5474 | fichas/colegiado/2022-17.md |
+| decisao-colegiado | — | 2022-12-14 | outro | O Colegiado deliberou sobre a agenda regulatória da CVM para 2023, proposta pela SNC: revisões das normas de fundos (ICVM 516, 489, 579 e… | cvm-col-20221214-d2795 | fichas/colegiado/2022-17.md |
+| decisao-colegiado | — | 2022-12-14 | outro | O Colegiado deliberou sobre a agenda de Avaliação de Resultado Regulatório (ARR) da CVM para 2023 a 2026, proposta pela SDM após interação… | cvm-col-20221214-d2794 | fichas/colegiado/2022-17.md |
+| decisao-colegiado | — | 2022-12-02 | outro | O Colegiado deliberou sobre a agenda regulatória da CVM para 2023, conforme proposta da SDM após interação com a ASA e áreas técnicas… | cvm-col-20221202-d2793 | fichas/colegiado/2022-16.md |
+| decisao-colegiado | 08/2020; 19957.009249/2019-28 | 2022-11-30 | — | O Colegiado concluiu o debate sobre o Anexo Normativo II, relativo aos FIDC, da proposta de novo marco regulatório dos fundos de… | cvm-col-20221130-d5474-r2 | fichas/colegiado/2022-16.md |
+| decisao-colegiado | 04/2021; 19957.007796/2020-11 | 2022-11-23 | outro | O Colegiado aprovou a Resolução CVM 174/2022, após a Audiência Pública SDM 04/2021, que trata da constituição de ônus e gravames sobre… | cvm-col-20221123-d2214 | fichas/colegiado/2022-15.md |
+| decisao-colegiado | 08/2020; 19957.009249/2019-28 | 2022-11-16 | — | O Colegiado continuou o debate da proposta da SDM de novo marco regulatório para os fundos de investimento, na segunda fase, sobre os FIF… | cvm-col-20221116-d5474 | fichas/colegiado/2022-15.md |
+| decisao-colegiado | 08/2020; 19957.009249/2019-28 | 2022-11-01 | — | O Colegiado continuou o debate sobre o novo marco regulatório dos fundos de investimento (Audiência Pública SDM 08/2020), nos Capítulos IX… | cvm-col-20221101-d5474 | fichas/colegiado/2022-15.md |
+| decisao-colegiado | 08/2020; 19957.009249/2019-28 | 2022-10-26 | — | O Colegiado continuou o debate sobre a proposta da área técnica de novo marco regulatório dos fundos de investimento, após a Audiência… | cvm-col-20221026-d5474 | fichas/colegiado/2022-15.md |
+| decisao-colegiado | 08/2020; 19957.009249/2019-28 | 2022-10-05 | — | O Colegiado iniciou o debate da proposta da SDM de novo marco regulatório para os fundos de investimento (Audiência Pública SDM 08/2020)… | cvm-col-20221005-d5474 | fichas/colegiado/2022-14.md |
+| decisao-colegiado | 09/2021; 367/2002; 480/2009; 19957.005520/2019-56 | 2022-09-14 | outro | O Colegiado concluiu a discussão da Audiência Pública SDM 09/2021 e aprovou a Resolução CVM 168/2022, que regulamenta a composição dos… | cvm-col-20220914-d1763 | fichas/colegiado/2022-13.md |
+| decisao-colegiado | 21/2021; 19957.008013/2020-16 | 2022-09-13 | outro | O Colegiado aprovou, por unanimidade, a Resolução CVM 167/2022, que inclui a Certificação de Gestores ANBIMA para Fundos Estruturados (CGE)… | cvm-col-20220913-d2076 | fichas/colegiado/2022-13.md |
+| decisao-colegiado | 19957.011042/2022-19 | 2022-08-31 | outro | O Colegiado aprovou a Resolução CVM nº 166/2022, que permite às companhias abertas de menor porte, inclusive securitizadoras, fazer… | cvm-col-20220831-d2682 | fichas/colegiado/2022-13.md |
+| decisao-colegiado | 09/2021; 367/2002; 480/2009; 19957.005520/2019-56 | 2022-08-31 | — | O Colegiado iniciou a discussão dos documentos da Audiência Pública SDM nº 09/2021 sobre propostas de resolução que regulamentam, no âmbito… | cvm-col-20220831-d1763 | fichas/colegiado/2022-13.md |
+| decisao-colegiado | — | 2022-08-24 | outro | O Colegiado definiu a agenda de avaliação de resultado regulatório (ARR) da CVM para 2022, nos termos do art. 23 do Decreto 10.411/2020… | cvm-col-20220824-d2680 | fichas/colegiado/2022-12.md |
+| decisao-colegiado | — | 2022-08-24 | outro | O Colegiado aprovou a repactuação da agenda regulatória de 2022 da SNC, retirando a classificação de passivos como circulante ou não… | cvm-col-20220824-d2440 | fichas/colegiado/2022-12.md |
+| decisao-colegiado | — | 2022-08-24 | outro | O Colegiado revisou a agenda regulatória de 2022 (art. 8º, Resolução CVM 67/2022). Retirou das normas para audiência pública os temas… | cvm-col-20220824-d2439 | fichas/colegiado/2022-12.md |
+| decisao-colegiado | 476/2009; 19957.010717/2022-11 | 2022-08-16 | outro | O Colegiado aprovou a Resolução CVM nº 165/2022, que equipara os Certificados de Recebíveis da Lei nº 14.430/2022 aos CRI e CRA para… | cvm-col-20220816-d2670 | fichas/colegiado/2022-12.md |
+| decisao-colegiado | 465/2008; 512/2011; 514/2011; 19957.010670/2022-87 | 2022-08-05 | outro | O Colegiado aprovou a resolução que revoga as ICVM 465/2008, 512/2011 e 514/2011, decorrente da consolidação de atos normativos (Decreto… | cvm-col-20220805-d2668 | fichas/colegiado/2022-12.md |
+| decisao-colegiado | 19957.010578/2022-17 | 2022-08-05 | outro | O Colegiado aprovou, com as alterações discutidas na reunião, submeter à consulta pública, em conjunto com CPC e CFC, minuta de resolução… | cvm-col-20220805-d2667 | fichas/colegiado/2022-12.md |
+| decisao-colegiado | 02/2021; 19957.009300/2018-11 | 2022-06-28 | — | O Colegiado continuou a discussão das propostas de resolução do novo arcabouço das ofertas públicas (Audiência SDM 02/2021), com foco em… | cvm-col-20220628-d1255 | fichas/colegiado/2022-10.md |
+| decisao-colegiado | 02/2021; 19957.009300/2018-11 | 2022-06-08 | — | O Colegiado iniciou a discussão de três propostas de resolução sobre o novo arcabouço das ofertas públicas de valores mobiliários, após a… | cvm-col-20220608-d1255 | fichas/colegiado/2022-10.md |
+| decisao-colegiado | 09/2019; 19957.002618/2016-17 | 2022-05-25 | — | O Colegiado continuou a discussão das propostas de resolução da Audiência Pública SDM 09/2019 sobre autorregulação unificada, funcionamento… | cvm-col-20220525-d2676 | fichas/colegiado/2022-09.md |
+| decisao-colegiado | 09/2019; 19957.002618/2016-17 | 2022-05-25 | outro | O Colegiado concluiu a Audiência Pública SDM 09/2019 e aprovou as Resoluções CVM 134 e 135/2022, sobre autorregulação e funcionamento de… | cvm-col-20220525-d2676-r2 | fichas/colegiado/2022-09.md |
+| decisao-colegiado | 09/2019; 19957.002618/2016-17 | 2022-05-12 | — | O Colegiado continuou a discussão de três propostas de resolução da Audiência Pública SDM nº 09/2019: autorregulação unificada dos mercados… | cvm-col-20220512-d2676 | fichas/colegiado/2022-08.md |
+| decisao-colegiado | 09/2019; 19957.002618/2016-17 | 2022-05-11 | — | O Colegiado iniciou a discussão das propostas de resolução da Audiência Pública SDM 09/2019 sobre autorregulação unificada, funcionamento… | cvm-col-20220511-d2676 | fichas/colegiado/2022-07.md |
+| decisao-colegiado | 19957.002842/2022-49; 19957.003136/2022-14; 19957.003137/2022-69; 19957.003141/2022-27; 19957.003158/2022-84; 19957.003160/2022-53; 19957.003398/2022-89; 19957.003665/2022-18; 19957.003667/2022-15; 19957.003668/2022-51; 19957.003838/2022-06; 19957.003849/2022-88; 19957.003854/2022-91; 19957.003859/2022-13; 19957.003891/2022-07; 19957.003892/2022-43; 19957.003895/2022-87; 19957.005553/2021-11 | 2022-05-04 | outro | O Colegiado aprovou a edição das Resoluções CVM 136 a 153/2022, que ratificam 18 pronunciamentos e interpretações do CPC e revogam as… | cvm-col-20220504-d2629 | fichas/colegiado/2022-07.md |
+| decisao-colegiado | 19957.003923/2022-66 | 2022-05-04 | outro | O Colegiado aprovou a Resolução CVM 154/2022, que revoga as revisões do CPC RCPC 01, RCPC 03 a 10, RCPC 12 a 19 e RICPC 01, no trabalho de… | cvm-col-20220504-d2628 | fichas/colegiado/2022-07.md |
+| decisao-colegiado | 02/2020; 588/2017; 19957.010197/2019-32 | 2022-04-13 | outro | O Colegiado aprovou a Resolução CVM 88/2022, que substitui a ICVM 588/2017 sobre crowdfunding de investimento, após a Audiência Pública SDM… | cvm-col-20220413-d1737 | fichas/colegiado/2022-06.md |
+| decisao-colegiado | 19957.009726/2021-70 | 2022-03-30 | outro | O Colegiado aprovou as Resoluções CVM nº 84/2022 (CEPAC), 85/2022 (ofertas públicas de aquisição de ações) e 86/2022 (contratos de… | cvm-col-20220330-d2568 | fichas/colegiado/2022-05.md |
+| decisao-colegiado | 19957.002070/2022-45 | 2022-03-30 | outro | O Colegiado aprovou a Resolução CVM 83/2022, que revoga 17 atos normativos obsoletos, entre eles as Instruções CVM 119/1990 e 599/2018 e a… | cvm-col-20220330-d2538 | fichas/colegiado/2022-05.md |
+| decisao-colegiado | 59/2021; 19957.009725/2021-25 | 2022-03-30 | outro | O Colegiado aprovou a Resolução CVM nº 87/2022, que altera e republica a Resolução CVM nº 59/2021 para adaptá-la às Resoluções CVM nºs 80 e… | cvm-col-20220330-d2516 | fichas/colegiado/2022-05.md |
+| decisao-colegiado | 19957.002070/2022-45 | 2022-03-23 | outro | O Colegiado aprovou a Resolução CVM nº 79/2022, que revoga normas consideradas obsoletas (incluindo as Instruções CVM nºs 200/1993… | cvm-col-20220323-d2538 | fichas/colegiado/2022-04.md |
+| decisao-colegiado | 19957.009725/2021-25 | 2022-03-23 | outro | O Colegiado aprovou as Resoluções CVM 77/2022 (negociação de ações e debêntures de própria emissão), 78/2022 (fusão, cisão, incorporação) e… | cvm-col-20220323-d2516 | fichas/colegiado/2022-04.md |
+| decisao-colegiado | 01/2021; 480/2009; 19957.000939/2021-36 | 2022-03-16 | outro | O Colegiado aprovou a Resolução CVM 80/2022, que cria comunicado sobre demandas societárias, exigível de emissores da categoria A, com… | cvm-col-20220316-d2059 | fichas/colegiado/2022-04.md |
+| decisao-colegiado | 19957.009725/2021-25 | 2022-03-15 | outro | O Colegiado aprovou as Resoluções CVM 68, 69 e 70/2022, na consolidação do Decreto 10.139/2019. Uma ratifica decisão do MERCOSUL sobre… | cvm-col-20220315-d2516 | fichas/colegiado/2022-03.md |
+| decisao-colegiado | 02/2020; 588/2017; 19957.010197/2019-32 | 2022-03-14 | — | A SDM concluiu a apresentação ao Colegiado das principais sugestões recebidas na Audiência Pública SDM nº 02/2020 sobre a revisão da… | cvm-col-20220314-d1737 | fichas/colegiado/2022-03.md |
+| decisao-colegiado | 19957.005259/2021-17 | 2022-02-23 | outro | O Colegiado aprovou a Resolução CVM nº 67/2022, que disciplina o processo de normatização da CVM em harmonia com o Decreto nº 10.411/2020… | cvm-col-20220223-d2499 | fichas/colegiado/2022-02.md |
+| decisao-colegiado | 45/2021; 19957.007410/2021-43 | 2022-02-09 | outro | O Colegiado aprovou a suspensão da iniciativa de redução dos prazos dos regulados em PAS previstos na Resolução CVM 45/2021. Segundo a SPS… | cvm-col-20220209-d2483 | fichas/colegiado/2022-02.md |
+| decisao-colegiado | 07/2021; 45/2021; 46/2021; 19957.009677/2021-75 | 2022-02-09 | outro | O Colegiado aprovou a Resolução CVM nº 65/2022, que fixa prazo de 60 dias úteis para devolução de processo após pedido de vista por membro… | cvm-col-20220209-d2404 | fichas/colegiado/2022-02.md |
+| decisao-colegiado | 06/2021; 13/2020; 19957.005256/2019-51 | 2022-02-02 | outro | O Colegiado aprovou a Resolução CVM nº 64/2022, que altera pontualmente a Resolução CVM nº 13/2020 para dispensar o investidor não… | cvm-col-20220202-d2307 | fichas/colegiado/2022-01.md |
+| decisao-colegiado | 367/2002; 480/2009; 19957.005520/2019-56 | 2021-12-15 | outro | O Colegiado aprovou submeter à audiência pública proposta de resolução com alterações pontuais nas Instruções CVM 367/2002 e 480/2009 sobre… | cvm-col-20211215-d1763 | fichas/colegiado/2021-22.md |
+| decisao-colegiado | — | 2021-12-08 | outro | O Colegiado deliberou sobre a agenda regulatória da SNC para 2022, proposta pela própria área, com consolidações de normas contábeis para… | cvm-col-20211208-d2440 | fichas/colegiado/2021-22.md |
+| decisao-colegiado | 472/2008; 19957.007979/2016-41 | 2021-12-08 | outro | O Colegiado aprovou submeter à audiência pública proposta de resolução que altera a Instrução CVM nº 472/2008 para vedar expressamente o… | cvm-col-20211208-d2097 | fichas/colegiado/2021-21.md |
+| decisao-colegiado | — | 2021-12-06 | outro | O Colegiado deliberou sobre a agenda regulatória da CVM para 2022, proposta pela SDM com a ASA e demais áreas técnicas. Registrou que o… | cvm-col-20211206-d2439 | fichas/colegiado/2021-21.md |
+| decisao-colegiado | 19957.008864/2021-31 | 2021-12-01 | outro | O Colegiado aprovou, com ajustes, resolução que consolida o Pronunciamento Técnico CPC 25 (provisões, passivos e ativos contingentes)… | cvm-col-20211201-d2410 | fichas/colegiado/2021-21.md |
+| decisao-colegiado | 19957.009677/2021-75 | 2021-12-01 | outro | O Colegiado aprovou submeter à audiência pública proposta de resolução que altera pontualmente as Resoluções CVM 45 e 46/2021 para incluir… | cvm-col-20211201-d2404 | fichas/colegiado/2021-21.md |
+| decisao-colegiado | 09/2020; 480/2009; 481/2009; 19957.004286/2019-40 | 2021-11-24 | outro | O Colegiado aprovou a Resolução CVM nº 59/2021, que altera as Instruções CVM nº 480/2009 e nº 481/2009 após a Audiência Pública SDM nº… | cvm-col-20211124-d1673 | fichas/colegiado/2021-20.md |
+| decisao-colegiado | 09/2020; 480/2009; 481/2009; 19957.004286/2019-40 | 2021-11-17 | — | O Colegiado continuou a discussão dos documentos da Audiência Pública SDM 09/2020 sobre minuta que altera as Instruções CVM 480/09 e 481/09… | cvm-col-20211117-d1673 | fichas/colegiado/2021-19.md |
+| decisao-colegiado | 05/2020; 19957.000471/2019-65 | 2021-10-27 | outro | O Colegiado concluiu o debate sobre a proposta de resolução da SDM, apresentada após a Audiência Pública SDM nº 05/2020, sobre companhias… | cvm-col-20211027-d1640 | fichas/colegiado/2021-18.md |
+| decisao-colegiado | — | 2021-10-20 | — | A SNC consultou previamente o Colegiado sobre procedimentos para consolidar e revisar atos normativos decorrentes de pronunciamentos do… | cvm-col-20211020-d2373 | fichas/colegiado/2021-17.md |
+| decisao-colegiado | 19957.001885/2020-45 | 2021-10-19 | outro | O Colegiado aprovou, por unanimidade, a edição da Resolução CVM 57/2021, sobre prova de quitação de débitos perante a CVM, no âmbito da… | cvm-col-20211019-d2348 | fichas/colegiado/2021-17.md |
+| decisao-colegiado | 19957.001439/2020-31 | 2021-10-19 | outro | O Colegiado aprovou a Resolução CVM nº 56/2021, sobre restituição e compensação de valores no âmbito da CVM, na consolidação de atos… | cvm-col-20211019-d2347 | fichas/colegiado/2021-17.md |
+| decisao-colegiado | 19957.000797/2020-26 | 2021-10-19 | outro | O Colegiado aprovou, por unanimidade, a Resolução CVM nº 55/2021, que dispõe sobre parcelamento de débitos e dispensa de constituição e… | cvm-col-20211019-d2346 | fichas/colegiado/2021-17.md |
+| decisao-colegiado | 19957.000797/2020-26; 19957.001439/2020-31; 19957.001885/2020-45; 19957.006545/2021-91 | 2021-10-13 | — | Apresentação. Proc. SEI 19957.000797/2020-26) / RESTITUIÇÃO e COMPENSAÇÃO DE VALORES (PROC. SEI 19957.001439/2020-31) / PROVA DE QUITAÇÃO… | cvm-col-20211013-d2346 | fichas/colegiado/2021-16.md |
+| decisao-colegiado | 05/2020; 19957.000471/2019-65 | 2021-10-13 | — | Sem deliberação registrada. O Colegiado continuou a discussão sobre o resultado da Audiência Pública SDM 05/2020, acerca da regulamentação… | cvm-col-20211013-d1640 | fichas/colegiado/2021-16.md |
+| decisao-colegiado | 05/2020; 19957.000471/2019-65 | 2021-09-15 | — | Sem deliberação registrada. A SDM apresentou os principais pontos da Audiência Pública SDM 05/2020 sobre a regulamentação das companhias… | cvm-col-20210915-d1640 | fichas/colegiado/2021-15.md |
+| decisao-colegiado | 19957.005256/2019-51 | 2021-09-08 | outro | O Colegiado aprovou submeter à audiência pública proposta de resolução que altera pontualmente a Resolução CVM 13/2020 para dispensar o… | cvm-col-20210908-d2307 | fichas/colegiado/2021-15.md |
+| decisao-colegiado | 19957.006766/2021-60 | 2021-08-31 | outro | O Colegiado aprovou, por unanimidade, a Resolução CVM nº 51/2021, que dispõe sobre o cadastro de participantes do mercado na CVM e revoga a… | cvm-col-20210831-d2293 | fichas/colegiado/2021-15.md |
+| decisao-colegiado | 19957.006283/2020-84 | 2021-08-25 | outro | O Colegiado aprovou submeter à audiência pública, em conjunto com o CPC e o CFC, minuta de resolução que aprova o Documento de Revisão de… | cvm-col-20210825-d2044 | fichas/colegiado/2021-14.md |
+| decisao-colegiado | — | 2021-08-24 | outro | O Colegiado revisou a agenda regulatória de 2021 e retirou três temas, com base na proposta de repactuação da SDM: reforma da regra de… | cvm-col-20210824-d1989 | fichas/colegiado/2021-14.md |
+| decisao-colegiado | 19957.006121/2021-27 | 2021-08-18 | outro | O Colegiado aprovou a Resolução CVM 48/2021, que consolida ritos internos sobre vista de processos administrativos e acesso à informação… | cvm-col-20210818-d2277 | fichas/colegiado/2021-14.md |
+| decisao-colegiado | 19957.005656/2021-81 | 2021-08-17 | outro | O Colegiado aprovou, por unanimidade, a Resolução CVM nº 43/2021, que institui a Ouvidoria no âmbito do mercado de valores mobiliários e… | cvm-col-20210817-d2273 | fichas/colegiado/2021-13.md |
+| decisao-colegiado | 19957.006121/2021-27 | 2021-08-11 | outro | O Colegiado aprovou as Resoluções CVM 45, 46, 47 e 49/2021, que consolidam ritos internos da CVM: processo sancionador (45), tramitação no… | cvm-col-20210811-d2277 | fichas/colegiado/2021-13.md |
+| decisao-colegiado | 06/2020; 358/2002; 19957.007901/2016-27 | 2021-08-11 | outro | O Colegiado aprovou a Resolução CVM 44/2021, em substituição à Instrução CVM 358/2002, sobre ato ou fato relevante e negociação por pessoas… | cvm-col-20210811-d1896 | fichas/colegiado/2021-13.md |
+| decisao-colegiado | 19957.006037/2021-11 | 2021-07-28 | outro | O Colegiado aprovou duas propostas de anexos normativos com regras específicas para FUNCINE e FICART, no âmbito da revisão e consolidação… | cvm-col-20210728-d2263 | fichas/colegiado/2021-13.md |
+| decisao-colegiado | 19957.009468/2018-26 | 2021-07-21 | outro | O Colegiado aprovou submeter a audiência pública duas minutas de resolução que atualizam a regulamentação dos agentes autônomos de… | cvm-col-20210721-d1441 | fichas/colegiado/2021-12.md |
+| decisao-colegiado | 19957.009468/2018-26 | 2021-07-07 | — | O Colegiado iniciou a discussão das propostas de resolução sobre a atividade de agente autônomo de investimento e sobre remuneração e… | cvm-col-20210707-d1441 | fichas/colegiado/2021-11.md |
+| decisao-colegiado | 19957.001484/2020-95 | 2021-06-22 | outro | O Colegiado, divergindo do Ofício da SRE, decidiu por unanimidade que, na ausência de vedação legal, a assinatura eletrônica simples é… | cvm-col-20210622-d1921 | fichas/colegiado/2021-10.md |
+| decisao-colegiado | 19957.004700/2021-35 | 2021-06-16 | outro | Proposta de resolução. Proc. SEI 19957.004700/2021-35. | cvm-col-20210616-d2215 | fichas/colegiado/2021-10.md |
+| decisao-colegiado | 19957.007796/2020-11 | 2021-06-16 | outro | O Colegiado aprovou a realização de audiência pública sobre minuta de resolução que trata da possibilidade de constituição de ônus e… | cvm-col-20210616-d2214 | fichas/colegiado/2021-10.md |
+| decisao-colegiado | 19957.004004/2021-29 | 2021-05-25 | outro | O Colegiado, por unanimidade, aprovou as Resoluções CVM 35, 36 e 37/2021, de consolidação de normas sobre intermediação, corretoras de… | cvm-col-20210525-d2190 | fichas/colegiado/2021-09.md |
+| decisao-colegiado | 19957.004002/2021-30 | 2021-05-18 | outro | O Colegiado aprovou, por unanimidade, as Resoluções CVM nº 31 a 34/2021, que substituem as ICVMs 541/2013, 542/2013, 543/2013 e 441/2006… | cvm-col-20210518-d2175 | fichas/colegiado/2021-09.md |
+| decisao-colegiado | 19957.003641/2021-88 | 2021-05-11 | outro | O Colegiado aprovou, por unanimidade, a Resolução CVM nº 29/2021, sobre ambiente regulatório experimental (sandbox), revisão da ICVM… | cvm-col-20210511-d2162 | fichas/colegiado/2021-08.md |
+| decisao-colegiado | 19957.000017/2019-12 | 2021-05-10 | outro | O Colegiado aprovou submeter à audiência pública minutas de resoluções que regulamentam BDR, revogando a Instrução CVM 332/2000 e alterando… | cvm-col-20210510-d2124 | fichas/colegiado/2021-08.md |
+| decisao-colegiado | 19957.003823/2021-59 | 2021-05-05 | outro | O Colegiado aprovou submeter à audiência pública, em conjunto com CPC e CFC, minuta de resolução que aprova a revisão do CPC 18… | cvm-col-20210505-d2164 | fichas/colegiado/2021-08.md |
+| decisao-colegiado | 19957.000017/2019-12 | 2021-05-05 | — | O Colegiado continuou a discussão de minutas que revogariam a ICVM 332/2000 e alterariam a ICVM 480/2009, para nova regulamentação de BDRs… | cvm-col-20210505-d2124 | fichas/colegiado/2021-08.md |
+| decisao-colegiado | 19957.000017/2019-12 | 2021-04-28 | — | O Colegiado continuou a discussão de minutas de resoluções sobre BDR, para submissão à audiência pública, que revogariam a ICVM 332/2000 e… | cvm-col-20210428-d2124 | fichas/colegiado/2021-07.md |
+| decisao-colegiado | 04/2020; 19957.004718/2020-56 | 2021-04-14 | outro | O Colegiado aprovou a Resolução CVM 28/2021, que aprova o Pronunciamento Técnico CPC para Entidades em Liquidação, após a Audiência Pública… | cvm-col-20210414-d1910 | fichas/colegiado/2021-07.md |
+| decisao-colegiado | 19957.001391/2021-41 | 2021-03-31 | outro | O Colegiado aprovou a Resolução CVM nº 26/2021, que posterga prazos de entrega de informações de fundos de investimento e do formulário de… | cvm-col-20210331-d2130 | fichas/colegiado/2021-06.md |
+| decisao-colegiado | 19957.000017/2019-12 | 2021-03-31 | — | O Colegiado iniciou a discussão de minutas de resoluções sobre BDR que revogariam a Instrução CVM 332/00 e alterariam a Instrução CVM… | cvm-col-20210331-d2124 | fichas/colegiado/2021-06.md |
+| decisao-colegiado | 19957.002798/2021-96 | 2021-03-30 | outro | O Colegiado aprovou a Resolução CVM 25/2021, com base no art. 6º da MP 1.040/2021, como regra transitória para as assembleias gerais… | cvm-col-20210330-d2176 | fichas/colegiado/2021-06.md |
+| decisao-colegiado | 19957.000017/2019-12 | 2021-03-24 | outro | O Colegiado acompanhou a maior parte das diretrizes apresentadas pela SDM para nova regulamentação dos BDR e sinalizou aperfeiçoamentos a… | cvm-col-20210324-d2124 | fichas/colegiado/2021-06.md |
+| decisao-colegiado | 19957.008749/2020-86 | 2021-03-24 | outro | O Colegiado aprovou a Resolução CVM 27/2021, que dispensa o boletim de subscrição em ofertas liquidadas por sistema de entidade… | cvm-col-20210324-d2060 | fichas/colegiado/2021-06.md |
+| decisao-colegiado | 19957.007440/2020-79 | 2021-03-17 | deferido | O Colegiado, por unanimidade, aprovou a atualização do cronograma do sandbox regulatório, com novo prazo para a análise das propostas e… | cvm-col-20210317-d1472 | fichas/colegiado/2021-05.md |
+| decisao-colegiado | 19957.001390/2021-05 | 2021-02-24 | outro | O Colegiado aprovou, por unanimidade, a Resolução CVM 21/2021 (administração de carteiras, revoga as ICVMs 426, 557, 558 e 597) e a… | cvm-col-20210224-d2091 | fichas/colegiado/2021-04.md |
+| decisao-colegiado | 19957.009300/2018-11 | 2021-02-24 | outro | O Colegiado aprovou submeter à audiência pública a nova regulamentação de ofertas públicas, que pretende consolidar as ICVM 400/2003 e… | cvm-col-20210224-d1255 | fichas/colegiado/2021-04.md |
+| decisao-colegiado | 19957.000951/2021-41 | 2021-02-23 | outro | O Colegiado aprovou, por unanimidade, a Resolução CVM 19/2021 sobre consultoria de valores mobiliários, que revisa a ICVM 592/2017 sem… | cvm-col-20210223-d2079 | fichas/colegiado/2021-04.md |
+| decisao-colegiado | 05/2020; 19957.000841/2021-89 | 2021-02-10 | outro | O Colegiado aprovou a Resolução CVM 18/2021, que aprova o Documento de Revisão de Pronunciamentos Técnicos CPC 17, sobre a reforma da taxa… | cvm-col-20210210-d2000 | fichas/colegiado/2021-03.md |
+| decisao-colegiado | 07/2020; 308/1999; 19957.006874/2019-18 | 2021-02-10 | — | O Colegiado concluiu a discussão da Audiência Pública SDM 07/2020 sobre a minuta de resolução que propõe substituir a Instrução CVM… | cvm-col-20210210-d1590 | fichas/colegiado/2021-03.md |
+| decisao-colegiado | 19957.000808/2021-59 | 2021-02-09 | outro | O Colegiado aprovou, por unanimidade, a Resolução CVM nº 17/2020, sobre o exercício da função de agente fiduciário, revisando e… | cvm-col-20210209-d2056 | fichas/colegiado/2021-03.md |
+| decisao-colegiado | 480/2009; 19957.000939/2021-36 | 2021-02-03 | outro | O Colegiado aprovou submeter à audiência pública minuta que altera a ICVM 480/2009 para criar comunicado sobre demandas judiciais e… | cvm-col-20210203-d2059 | fichas/colegiado/2021-02.md |
+| decisao-colegiado | 8/2020; 19957.000029/2021-53 | 2021-01-19 | parcial | O Colegiado, acompanhando a SDM, deferiu em parte pedido da ANBIMA: prorrogou para 1º.06.2021 a vigência do art. 14 e de incisos do Anexo A… | cvm-col-20210119-d2034 | fichas/colegiado/2021-01.md |
+| decisao-colegiado | 19957.009300/2018-11 | 2021-01-14 | — | Continuação da discussão de minuta de nova norma sobre ofertas públicas, que pretende consolidar as ICVM 400/2003, 471/2008 e 476/2009 em… | cvm-col-20210114-d1255 | fichas/colegiado/2021-01.md |
+| decisao-colegiado | 19957.009300/2018-11 | 2021-01-13 | — | O Colegiado continuou a discussão da minuta de nova norma sobre ofertas públicas, que consolidaria as Instruções CVM nºs 400/03, 471/08 e… | cvm-col-20210113-d1255 | fichas/colegiado/2021-01.md |
+| decisao-colegiado | 19957.009300/2018-11 | 2021-01-13 | — | O Colegiado continuou a discussão de minuta de norma que consolidaria as ICVM 400, 471 e 476 em regime único para ofertas públicas. Sem… | cvm-col-20210113-d1255-r2 | fichas/colegiado/2021-01.md |
+| decisao-colegiado | 19957.009300/2018-11 | 2021-01-06 | — | Continuação da discussão de minuta de nova norma sobre ofertas públicas, que pretende consolidar as ICVM 400/2003, 471/2008 e 476/2009 em… | cvm-col-20210106-d1255 | fichas/colegiado/2021-01.md |
+| decisao-colegiado | 19957.009300/2018-11 | 2020-12-14 | — | O Colegiado continuou a discussão da minuta de nova norma sobre ofertas públicas, que consolidaria as Instruções CVM 400/03, 471/08 e… | cvm-col-20201214-d1255 | fichas/colegiado/2020-21.md |
+| decisao-colegiado | 19957.009300/2018-11 | 2020-12-09 | — | O Colegiado continuou a discussão da minuta de nova norma sobre ofertas públicas, que consolidaria as Instruções CVM nºs 400/03, 471/08 e… | cvm-col-20201209-d1255 | fichas/colegiado/2020-21.md |
+| decisao-colegiado | — | 2020-12-02 | outro | O Colegiado deliberou sobre a agenda de estudos normativos e de análise de impacto regulatório para 2021, conforme proposta da ASA após… | cvm-col-20201202-d2011 | fichas/colegiado/2020-20.md |
+| decisao-colegiado | 19957.009300/2018-11 | 2020-11-27 | — | O Colegiado iniciou a discussão da minuta de nova norma sobre ofertas públicas de distribuição e negociação de valores mobiliários, que… | cvm-col-20201127-d1255 | fichas/colegiado/2020-20.md |
+| decisao-colegiado | — | 2020-11-25 | outro | O Colegiado deliberou sobre a agenda regulatória de 2021, conforme propostas da SDM e da SNC, incluindo 15 temas a cargo da SDM (entre eles… | cvm-col-20201125-d1989 | fichas/colegiado/2020-20.md |
+| decisao-colegiado | 19957.009300/2018-11 | 2020-11-18 | — | O Colegiado iniciou a discussão da minuta de Resolução sobre registro de intermediários de ofertas públicas e regras de controles internos… | cvm-col-20201118-d1255 | fichas/colegiado/2020-19.md |
+| decisao-colegiado | 19957.007957/2020-68 | 2020-11-17 | outro | O Colegiado aprovou, por unanimidade, a Resolução CVM 13/2020, que dispõe sobre registro, operações e divulgação de informações de… | cvm-col-20201117-d1976 | fichas/colegiado/2020-19.md |
+| decisao-colegiado | 19957.007347/2020-64 | 2020-11-17 | outro | O Colegiado aprovou, por unanimidade, a Resolução CVM 11/2020 (clubes de investimento, em substituição à ICVM 494/2011) e a Resolução CVM… | cvm-col-20201117-d1975 | fichas/colegiado/2020-19.md |
+| decisao-colegiado | — | 2020-11-13 | outro | O Colegiado determinou o encaminhamento ao Ministério da Economia das sugestões sobre minuta de projeto de lei que autoriza e disciplina o… | cvm-col-20201113-d1980 | fichas/colegiado/2020-19.md |
+| decisao-colegiado | 19957.005520/2019-56 | 2020-11-11 | — | A SPL relatou ao Colegiado a necessidade de regulamentar dispositivos da Lei 6.404/76 diante de possível medida provisória ligada ao Doing… | cvm-col-20201111-d1763 | fichas/colegiado/2020-19.md |
+| decisao-colegiado | 480/2009; 19957.004286/2019-40 | 2020-11-11 | outro | O Colegiado continuou a discussão e aprovou submeter à audiência pública minuta de resolução que altera a Instrução CVM 480/2009 para… | cvm-col-20201111-d1673 | fichas/colegiado/2020-19.md |
+| decisao-colegiado | 480/2009; 19957.004286/2019-40 | 2020-11-04 | — | O Colegiado iniciou a discussão da minuta que altera a Instrução CVM 480/09 para reduzir o custo de observância e incluir informações ASG… | cvm-col-20201104-d1673 | fichas/colegiado/2020-18.md |
+| decisao-colegiado | 19957.007629/2020-61 | 2020-11-03 | outro | O Colegiado aprovou, por unanimidade, a Resolução CVM nº 10/2020, que dispõe sobre sociedades beneficiárias de recursos oriundos de… | cvm-col-20201103-d1966 | fichas/colegiado/2020-18.md |
+| decisao-colegiado | 555/2014; 356/2001; 19957.009249/2019-28 | 2020-10-29 | outro | O Colegiado aprovou submeter à audiência pública minuta de resolução sobre constituição, funcionamento, divulgação de informações e… | cvm-col-20201029-d5474 | fichas/colegiado/2020-18.md |
+| decisao-colegiado | 19957.007951/2020-91 | 2020-10-29 | — | O Colegiado iniciou a discussão de minuta de resolução que aprova o CPC 50 (contratos de seguro, correspondente à IFRS 17), após… | cvm-col-20201029-d2012 | fichas/colegiado/2020-18.md |
+| decisao-colegiado | 19957.007440/2020-79 | 2020-10-27 | outro | O Colegiado aprovou, por unanimidade, nos termos do art. 3º, §1º, da Instrução CVM 626/2020, Comunicado ao Mercado que abre o primeiro… | cvm-col-20201027-d1472 | fichas/colegiado/2020-18.md |
+| decisao-colegiado | 555/2014; 356/2001; 19957.009249/2019-28 | 2020-10-21 | — | O Colegiado continuou a discussão da minuta de nova norma sobre constituição, funcionamento e divulgação de informações de fundos de… | cvm-col-20201021-d5474 | fichas/colegiado/2020-17.md |
+| decisao-colegiado | 04/2019; 19957.004537/2019-96 | 2020-10-07 | outro | O Colegiado aprovou a Resolução CVM nº 8/2020, após a Audiência Pública SDM nº 04/2019, que dispõe sobre ofertas públicas de COE, LF e LIG… | cvm-col-20201007-d1428 | fichas/colegiado/2020-17.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em… | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
+| decisao-colegiado | 19957.004615/2020-96; 19957.004718/2020-56 | 2020-09-16 | outro | O Colegiado aprovou submeter a audiências públicas, em conjunto com CPC e CFC, duas minutas contábeis: Orientação Técnica CPC 09 (Relato… | cvm-col-20200916-d1910 | fichas/colegiado/2020-15.md |
+| decisao-colegiado | 260/1997; 19957.010008/2019-21 | 2020-09-09 | outro | O Colegiado aprovou a edição da Resolução CVM 6/2020, em substituição à Instrução CVM 260/1997, sobre emissão e distribuição de… | cvm-col-20200909-d2376 | fichas/colegiado/2020-15.md |
+| decisao-colegiado | 19957.004615/2020-96; 19957.004718/2020-56 | 2020-09-09 | — | O Colegiado iniciou a discussão de duas minutas de normas contábeis, a serem submetidas à audiência pública com o CPC e o CFC: Orientação… | cvm-col-20200909-d1910 | fichas/colegiado/2020-15.md |
+| decisao-colegiado | 19957.004615/2020-96; 19957.004718/2020-56 | 2020-09-02 | — | Apresentação sobre normas contábeis a serem submetidas a audiências públicas – relato integrado e entidades em liquidação. Proc. SEI… | cvm-col-20200902-d1910 | fichas/colegiado/2020-14.md |
+| decisao-colegiado | 481/2009; 931/2020; 19957.002843/2020-21 | 2020-08-26 | outro | O Colegiado aprovou a Resolução CVM 5/2020, que revoga o art. 4º, §4º, da ICVM 481/09, dispositivo que permitia dispensar a realização da… | cvm-col-20200826-d1811 | fichas/colegiado/2020-14.md |
+| decisao-colegiado | 308/1999; 19957.006874/2019-18 | 2020-08-26 | outro | O Colegiado aprovou submeter a audiência pública minuta que altera a Instrução CVM 308/99 para eliminar a exigência de que auditores… | cvm-col-20200826-d1426 | fichas/colegiado/2020-14.md |
+| decisao-colegiado | 358/2002; 19957.007901/2016-27 | 2020-08-19 | outro | O Colegiado aprovou submeter à audiência pública minuta de resolução que altera a ICVM 358/02 sobre negociações por insiders: presunções do… | cvm-col-20200819-d1896 | fichas/colegiado/2020-13.md |
+| decisao-colegiado | 19957.004398/2020-34 | 2020-08-19 | outro | O Colegiado aprovou a Resolução CVM 4/2020, que, em caráter experimental e em função da pandemia, altera a ICVM 588/17 (crowdfunding)… | cvm-col-20200819-d1880 | fichas/colegiado/2020-13.md |
+| decisao-colegiado | 19957.004398/2020-34 | 2020-08-11 | — | O Colegiado iniciou a discussão da proposta de Resolução sobre alteração temporária de requisitos da Instrução CVM 588/17 em função dos… | cvm-col-20200811-d1880 | fichas/colegiado/2020-13.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-08-05 | outro | O Colegiado aprovou a Resolução CVM 1/2020, que trata das espécies de atos normativos da CVM, e a Resolução CVM 2/2020, que revoga 186… | cvm-col-20200805-d1738 | fichas/colegiado/2020-12.md |
+| decisao-colegiado | — | 2020-07-29 | outro | O Colegiado deliberou a revisão da agenda regulatória de 2020, com base nas propostas de repactuação da ASA, SDM e SNC. Removeu três… | cvm-col-20200729-d1649 | fichas/colegiado/2020-12.md |
+| decisao-colegiado | 08/2019; 19957.000017/2019-12 | 2020-07-22 | outro | O Colegiado aprovou a Resolução CVM 3/2020, após a audiência pública SDM 08/2019, que atualiza as regras de BDR. A norma permite BDR… | cvm-col-20200722-d1474 | fichas/colegiado/2020-11.md |
+| decisao-colegiado | 19957.004548/2020-18 | 2020-07-21 | outro | O Colegiado aprovou, por unanimidade, a edição da Deliberação CVM 861/20, que estabelece procedimentos para depoimentos por tele e… | cvm-col-20200721-d1860 | fichas/colegiado/2020-11.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-07-15 | outro | O Colegiado aprovou a relação de normas a serem revogadas nos temas de normas contábeis e de normas de fundos de investimento, no âmbito da… | cvm-col-20200715-d1738 | fichas/colegiado/2020-11.md |
+| decisao-colegiado | 08/2019; 19957.000017/2019-12 | 2020-07-15 | — | O Colegiado iniciou a discussão sobre os documentos da audiência pública SDM 08/2019, relativa à minuta que altera normas sobre… | cvm-col-20200715-d1474 | fichas/colegiado/2020-11.md |
+| decisao-colegiado | 02/2020; 19957.004091/2020-33 | 2020-07-06 | outro | O Colegiado aprovou a Deliberação CVM 859/20, após a audiência pública SNC 02/2020, que aprova a revisão do CPC 16 (benefícios de… | cvm-col-20200706-d1840 | fichas/colegiado/2020-10.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-07-01 | outro | O Colegiado aprovou a relação de normas sobre ritos da CVM a serem revogadas, nos termos do Decreto 10.139/2019, no âmbito da revisão e… | cvm-col-20200701-d1738 | fichas/colegiado/2020-10.md |
+| decisao-colegiado | 19957.009249/2019-28 | 2020-06-26 | — | O Colegiado continuou a discussão da minuta que revisa a Instrução CVM 555/14 (fundos de investimento) em decorrência da Lei 13.874/19 (Lei… | cvm-col-20200626-d5474 | fichas/colegiado/2020-10.md |
+| decisao-colegiado | 19957.004091/2020-33 | 2020-06-12 | outro | O Colegiado aprovou submeter à audiência pública minuta de deliberação que aprova a revisão do CPC 16 (CPC 06 (R2), Arrendamentos), com… | cvm-col-20200612-d1840 | fichas/colegiado/2020-10.md |
+| decisao-colegiado | 19957.009249/2019-28 | 2020-06-10 | — | O Colegiado continuou a discussão da minuta de revisão da Instrução CVM nº 555/14, sobre fundos de investimento, em decorrência da Lei nº… | cvm-col-20200610-d5474 | fichas/colegiado/2020-10.md |
+| decisao-colegiado | 19957.009249/2019-28 | 2020-06-08 | — | O Colegiado continuou a discussão sobre a minuta de norma que revisa a ICVM 555/14 (fundos de investimento) em decorrência da Lei… | cvm-col-20200608-d5474 | fichas/colegiado/2020-09.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-06-03 | outro | O Colegiado aprovou a relação de normas sobre operações, estruturas e funcionamento do mercado de valores mobiliários a serem revogadas… | cvm-col-20200603-d1738 | fichas/colegiado/2020-09.md |
+| decisao-colegiado | 749/2016; 19957.000974/2020-74 | 2020-06-02 | outro | O Colegiado, por unanimidade, aprovou a Deliberação CVM 857/2020, que altera a Deliberação CVM 749/2016 sobre o uso da sigla, do logotipo e… | cvm-col-20200602-d1806 | fichas/colegiado/2020-09.md |
+| decisao-colegiado | 19957.009249/2019-28 | 2020-05-28 | — | O Colegiado continuou a discussão sobre a minuta de norma que revisa a ICVM 555/14 (fundos de investimento) em decorrência da Lei… | cvm-col-20200528-d5474 | fichas/colegiado/2020-09.md |
+| decisao-colegiado | 19957.009249/2019-28 | 2020-05-20 | — | O Colegiado iniciou a discussão sobre a minuta de norma que revisa a ICVM 555/14 (fundos de investimento) em decorrência da Lei 13.874/19… | cvm-col-20200520-d5474 | fichas/colegiado/2020-08.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-05-20 | outro | O Colegiado continuou a discussão e aprovou a relação de normas sobre companhias abertas e incentivadas a serem revogadas, nos termos do… | cvm-col-20200520-d1738 | fichas/colegiado/2020-08.md |
+| decisao-colegiado | 749/2016; 19957.000974/2020-74 | 2020-05-19 | — | O Colegiado iniciou a discussão sobre alteração de dispositivos da Deliberação CVM 749/2016. Julgamento suspenso por pedido de vista. | cvm-col-20200519-d1806 | fichas/colegiado/2020-08.md |
+| decisao-colegiado | 19957.003290/2020-24 | 2020-05-13 | outro | O Colegiado aprovou a Instrução CVM 624/20, que altera pontualmente a ICVM 607/19 para permitir a entrega de proposta de acordo… | cvm-col-20200513-d2894 | fichas/colegiado/2020-08.md |
+| decisao-colegiado | 04/2020; 19957.002993/2020-35 | 2020-05-13 | outro | O Colegiado aprovou a Instrução CVM 625/20, sobre participação e votação a distância em assembleias de debenturistas, alterando as ICVMs… | cvm-col-20200513-d1815 | fichas/colegiado/2020-08.md |
+| decisao-colegiado | 04/2020; 19957.002993/2020-35 | 2020-05-12 | deferido | O Colegiado dispensou a análise de impacto regulatório (AIR) e o plano de avaliação posterior da norma sobre assembleias digitais de… | cvm-col-20200512-d1815 | fichas/colegiado/2020-08.md |
+| decisao-colegiado | 19957.009249/2019-28 | 2020-05-06 | — | Apresentação da SDM ao Colegiado sobre a estrutura proposta para revisão da ICVM 555/14 (fundos de investimento) em decorrência da Lei… | cvm-col-20200506-d5474 | fichas/colegiado/2020-08.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-05-06 | outro | O Colegiado, por unanimidade, aprovou a relação de normas sobre ofertas públicas de distribuição de valores mobiliários a serem revogadas… | cvm-col-20200506-d1738 | fichas/colegiado/2020-08.md |
+| decisao-colegiado | 19957.002843/2020-21 | 2020-05-04 | outro | O Colegiado aprovou a Instrução CVM 623/20, que altera pontualmente a ICVM 481/09 para complementar a ICVM 622/20 sobre assembleias… | cvm-col-20200504-d1811 | fichas/colegiado/2020-07.md |
+| decisao-colegiado | 19957.002993/2020-35 | 2020-04-24 | outro | O Colegiado aprovou submeter a audiência pública minuta de instrução sobre participação e votação a distância em assembleias de… | cvm-col-20200424-d1815 | fichas/colegiado/2020-07.md |
+| decisao-colegiado | 03/2020; 19957.002843/2020-21 | 2020-04-16 | outro | O Colegiado aprovou a edição da Instrução CVM 622/20, que altera a Instrução CVM 481/09 para permitir assembleias inteiramente digitais, em… | cvm-col-20200416-d1811 | fichas/colegiado/2020-07.md |
+| decisao-colegiado | 19957.002351/2020-36 | 2020-04-15 | outro | O Colegiado aprovou a Deliberação CVM 852/20, que adia informações periódicas de 2020 de empreendimentos hoteleiros e de emissores não… | cvm-col-20200415-d1767 | fichas/colegiado/2020-07.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-04-15 | outro | O Colegiado iniciou a análise da relação de normas de fundos de investimento a serem revogadas, nos termos do Decreto 10.139/19, e… | cvm-col-20200415-d1738 | fichas/colegiado/2020-07.md |
+| decisao-colegiado | 05/2019; 19957.008843/2018-11 | 2020-04-08 | outro | O Colegiado aprovou a Instrução CVM 626/20, que regula o ambiente regulatório experimental (sandbox) do mercado de capitais. Participantes… | cvm-col-20200408-d1472 | fichas/colegiado/2020-06.md |
+| decisao-colegiado | 05/2019; 19957.008843/2018-11 | 2020-04-01 | — | O Colegiado iniciou a discussão do resultado da Audiência Pública SDM nº 05/2019 sobre a minuta de instrução de sandbox regulatório no… | cvm-col-20200401-d1472 | fichas/colegiado/2020-06.md |
+| decisao-colegiado | 19957.002351/2020-36 | 2020-03-25 | outro | O Colegiado aprovou a Deliberação CVM nº 848/20, que prorroga prazos regulatórios com vencimento em 2020, adia o fim da vacância da… | cvm-col-20200325-d1767 | fichas/colegiado/2020-05.md |
+| decisao-colegiado | 19957.010008/2019-21 | 2020-03-18 | outro | O Colegiado aprovou submeter à Audiência Pública SDM 01/2020 minuta que altera a Instrução CVM 260/97, sobre certificados de investimento… | cvm-col-20200318-d2376 | fichas/colegiado/2020-05.md |
+| decisao-colegiado | 19957.005520/2019-56 | 2020-03-18 | — | Para audiência pública – alterações na lei nº 6.404/76 – doing business e comitê de auditoria. Proc. SEI nº 19957.005520/2019-56. | cvm-col-20200318-d1763 | fichas/colegiado/2020-05.md |
+| decisao-colegiado | 19957.001833/2020-79 | 2020-03-17 | outro | O Colegiado aprovou, por unanimidade, a Instrução CVM 621/20, que revoga a Instrução CVM 559/15 (programas de Depositary Receipts). Motivo… | cvm-col-20200317-d1756 | fichas/colegiado/2020-05.md |
+| decisao-colegiado | 19957.001918/2020-57 | 2020-03-16 | outro | O Colegiado aprovou a Deliberação CVM 846/20, conforme proposta da SRE e da SEP (Memorando 3/2020-CVM/SRE), que fixa em até 180 dias úteis… | cvm-col-20200316-d1759 | fichas/colegiado/2020-05.md |
+| decisao-colegiado | 19957.005520/2019-56 | 2020-03-11 | outro | Para audiência pública – alterações na lei nº 6.404/76 – doing business e comitê de auditoria. Proc. SEI 19957.005520/2019-56. | cvm-col-20200311-d1763 | fichas/colegiado/2020-05.md |
+| decisao-colegiado | 06/2019; 19957.008214/2018-91 | 2020-03-04 | outro | O Colegiado aprovou a Instrução CVM nº 620/20, após a Audiência Pública SDM nº 06/2019, sobre aquisição pelas companhias emissoras de… | cvm-col-20200304-d8528 | fichas/colegiado/2020-04.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-02-12 | — | O Colegiado ouviu a SDM sobre a revisão e consolidação de atos normativos exigida pelo Decreto 10.139/19, incluindo a proposta piloto para… | cvm-col-20200212-d1738 | fichas/colegiado/2020-03.md |
+| decisao-colegiado | 588/2017; 19957.010197/2019-32 | 2020-02-05 | — | O Colegiado iniciou a discussão sobre a reforma da Instrução CVM nº 588/17, que regulamenta o crowdfunding de investimento, após… | cvm-col-20200205-d1737 | fichas/colegiado/2020-03.md |
+| decisao-colegiado | 19957.000127/2020-18 | 2020-01-28 | outro | O Colegiado aprovou, por unanimidade, a Deliberação CVM 841/20, que esclarece, para a aprovação tácita do art. 16 do Decreto 10.178/2019… | cvm-col-20200128-d1683 | fichas/colegiado/2020-02.md |
+| decisao-colegiado | 19957.010782/2018-51 | 2020-01-28 | outro | O Colegiado aprovou a Instrução CVM 618/20, que altera a entrada em vigor de dispositivos da ICVM 612/19 (alteradora da ICVM 505/11): art… | cvm-col-20200128-d1160 | fichas/colegiado/2020-02.md |
+| decisao-colegiado | 480/2009; 19957.004286/2019-40 | 2019-12-19 | — | A SDM apresentou ao Colegiado propostas de alteração do regime informacional das companhias (Instrução CVM nº 480/09), com foco no… | cvm-col-20191219-d1673 | fichas/colegiado/2019-21.md |
+| decisao-colegiado | — | 2019-12-11 | outro | Após a SDM apresentar o relatório de atuação de 2019, o Colegiado deliberou sobre a agenda regulatória da CVM para 2020. | cvm-col-20191211-d1649 | fichas/colegiado/2019-21.md |
+| decisao-colegiado | 19957.007649/2019-07 | 2019-12-10 | outro | O Colegiado aprovou a Deliberação CVM 838/19, que revoga a Deliberação CVM 829/19, a qual permitia às companhias abertas fazer publicações… | cvm-col-20191210-d1580 | fichas/colegiado/2019-20.md |
+| decisao-colegiado | 19957.002618/2016-17 | 2019-12-05 | outro | O Colegiado aprovou submeter à Audiência Pública SDM nº 09/2019 minuta de instrução que regulamenta a autorregulação unificada das… | cvm-col-20191205-d2676 | fichas/colegiado/2019-20.md |
+| decisao-colegiado | 02/2019; 19957.008230/2019-64 | 2019-12-04 | outro | O Colegiado aprovou a Deliberação CVM 836/19, após a Audiência Pública SNC 02/2019, que aprova o Documento de Revisão de Pronunciamentos… | cvm-col-20191204-d1523 | fichas/colegiado/2019-20.md |
+| decisao-colegiado | 19957.000017/2019-12 | 2019-12-04 | outro | O Colegiado aprovou submissão à Audiência Pública SDM nº 08/19 de minuta de instrução que altera normas sobre certificados de depósito de… | cvm-col-20191204-d1474 | fichas/colegiado/2019-20.md |
+| decisao-colegiado | 19957.002618/2016-17 | 2019-11-29 | — | O Colegiado retomou a discussão da minuta de norma sobre autorregulação unificada das entidades administradoras de mercado organizado e de… | cvm-col-20191129-d2676 | fichas/colegiado/2019-19.md |
+| decisao-colegiado | 505/2011; 19957.002618/2016-17 | 2019-11-27 | — | O Colegiado iniciou a discussão de minuta que altera a Instrução CVM 505/2011 para regulamentar a melhor execução de ordens em contexto de… | cvm-col-20191127-d2676 | fichas/colegiado/2019-19.md |
+| decisao-colegiado | 461/2007; 19957.002618/2016-17 | 2019-11-14 | — | O Colegiado concluiu a discussão da minuta de instrução sobre mercados regulamentados, em pré-audiência pública, que substituiria a… | cvm-col-20191114-d2676 | fichas/colegiado/2019-18.md |
+| decisao-colegiado | 461/2007; 19957.002618/2016-17 | 2019-11-06 | — | O Colegiado iniciou a discussão da minuta de instrução sobre mercados regulamentados que substituirá a Instrução CVM 461/07, sem… | cvm-col-20191106-d2676 | fichas/colegiado/2019-18.md |
+| decisao-colegiado | 19957.010008/2019-21 | 2019-11-05 | outro | Por unanimidade, o Colegiado decidiu que as áreas técnicas submetam à audiência pública as sugestões de alteração da ICVM 260/97, que trata… | cvm-col-20191105-d2376 | fichas/colegiado/2019-18.md |
+| decisao-colegiado | 02/2019; 19957.007933/2018-94 | 2019-10-30 | — | O Colegiado iniciou a discussão da minuta que propõe alterações na Instrução CVM nº 361/02, sobre ofertas públicas de aquisição de ações… | cvm-col-20191030-d2878 | fichas/colegiado/2019-17.md |
+| decisao-colegiado | 19957.000040/2018-18 | 2019-10-16 | — | O Colegiado continuou a discussão da minuta de nova instrução sobre FIDC, sem deliberação nesta reunião. | cvm-col-20191016-d1223 | fichas/colegiado/2019-17.md |
+| decisao-colegiado | — | 2019-10-08 | outro | O Colegiado, por unanimidade, decidiu submeter a audiência pública minuta de Instrução com escala que reduz, em função do capital social… | cvm-col-20191008-d1566 | fichas/colegiado/2019-16.md |
+| decisao-colegiado | 19957.000040/2018-18 | 2019-10-02 | — | O Colegiado continuou a discussão da minuta de nova instrução sobre fundos de investimento em direitos creditórios (FIDC). Sem deliberação… | cvm-col-20191002-d1223 | fichas/colegiado/2019-16.md |
+| decisao-colegiado | 19957.009249/2019-28 | 2019-09-30 | outro | O Colegiado aprovou a Instrução CVM 615/19, que retira a obrigação de registro em cartório dos regulamentos de fundos de investimento e… | cvm-col-20190930-d1579 | fichas/colegiado/2019-15.md |
+| decisao-colegiado | 19957.007649/2019-07 | 2019-09-27 | outro | O Colegiado aprovou a Deliberação CVM 829/19, que regulamenta as publicações obrigatórias da Lei 6.404/76 no sistema Empresas.NET… | cvm-col-20190927-d1580 | fichas/colegiado/2019-15.md |
+| decisao-colegiado | 19957.000040/2018-18 | 2019-09-18 | — | O Colegiado ouviu a SDM sobre a indústria de FIDC e as principais propostas da minuta de nova instrução sobre FIDC, sem deliberação nesta… | cvm-col-20190918-d1223 | fichas/colegiado/2019-15.md |
+| decisao-colegiado | 19957.003208/2019-28 | 2019-09-09 | outro | O Colegiado aprovou nova portaria sobre o processo de normatização da CVM (Portaria CVM/PTE 190/2019), conforme minuta da SDM, em… | cvm-col-20190909-d4715 | fichas/colegiado/2019-14.md |
+| decisao-colegiado | 19957.008010/2019-31 | 2019-09-03 | outro | O Colegiado aprovou, por unanimidade, a Instrução CVM 614/19, que altera o boletim de voto a distância do Anexo 21-F da Instrução CVM… | cvm-col-20190903-d1522 | fichas/colegiado/2019-14.md |
+| decisao-colegiado | 19957.008237/2019-86 | 2019-08-29 | outro | O Colegiado aprovou a Instrução CVM 613/19, que altera a Instrução CVM 607/19 (processo administrativo sancionador). A alteração esclarece… | cvm-col-20190829-d2894 | fichas/colegiado/2019-13.md |
+| decisao-colegiado | 19957.008229/2019-30 | 2019-08-28 | outro | O Colegiado aprovou submeter à Audiência Pública SNC 01/2019 a minuta de deliberação que aprova o Pronunciamento Técnico CPC 00 (R2)… | cvm-col-20190828-d5917 | fichas/colegiado/2019-13.md |
+| decisao-colegiado | 19957.008214/2018-91 | 2019-08-21 | outro | O Colegiado, por maioria, aprovou submeter à audiência pública minuta de instrução sobre aquisições de debêntures de própria emissão (art… | cvm-col-20190821-d8528 | fichas/colegiado/2019-13.md |
+| decisao-colegiado | 19957.008843/2018-11 | 2019-08-14 | outro | O Colegiado apreciou a minuta de instrução sobre sandbox regulatório no mercado de capitais e orientou a SDM a aprimorar a proposta antes… | cvm-col-20190814-d1472 | fichas/colegiado/2019-12.md |
+| decisao-colegiado | 04/2018; 19957.010666/2018-32 | 2019-08-07 | outro | O Colegiado aprovou a Instrução CVM 611/19, que altera a Instrução CVM 308/99 após a Audiência Pública SNC 04/2018. Permite instalar o CAE… | cvm-col-20190807-d1426 | fichas/colegiado/2019-12.md |
+| decisao-colegiado | 19957.003450/2019-00 | 2019-08-06 | outro | O Colegiado, por unanimidade, aprovou a Deliberação CVM 824/19, que revoga o inciso II da Deliberação CVM 443/02. O dispositivo exigia… | cvm-col-20190806-d1491 | fichas/colegiado/2019-12.md |
+| decisao-colegiado | 05/2018; 505/2011; 19957.010782/2018-51 | 2019-07-31 | outro | O Colegiado aprovou a Instrução CVM 612/19, que altera a Instrução CVM 505/11 (intermediários) após a Audiência Pública SDM 05/2018… | cvm-col-20190731-d1160 | fichas/colegiado/2019-12.md |
+| decisao-colegiado | 19957.000017/2019-12 | 2019-07-10 | outro | O Colegiado iniciou a discussão da minuta de instrução, para audiência pública, que altera as normas sobre BDR (emissores estrangeiros, BDR… | cvm-col-20190710-d1474 | fichas/colegiado/2019-11.md |
+| decisao-colegiado | 48/2019; 19957.003208/2019-28 | 2019-07-09 | — | O Colegiado iniciou a discussão da minuta da área técnica que altera a Portaria CVM/PTE/Nº 48/2019 sobre o processo de normatização da CVM… | cvm-col-20190709-d4715 | fichas/colegiado/2019-11.md |
+| decisao-colegiado | 19957.008843/2018-11 | 2019-07-03 | outro | O Colegiado devolveu à área técnica a minuta de instrução sobre sandbox regulatório no mercado de capitais, orientando o aprofundamento de… | cvm-col-20190703-d1472 | fichas/colegiado/2019-11.md |
+| decisao-colegiado | 19957.004537/2019-96 | 2019-06-19 | outro | O Colegiado aprovou submeter à Audiência Pública SDM 04/19 minuta de instrução sobre ofertas públicas de COE, LF e LIG com dispensa de… | cvm-col-20190619-d1428 | fichas/colegiado/2019-10.md |
+| decisao-colegiado | 19957.009468/2018-26 | 2019-06-05 | outro | O Colegiado iniciou e concluiu a discussão e aprovou submeter à Audiência Pública SDM 03/19 consulta sobre opções regulatórias para alterar… | cvm-col-20190605-d1441 | fichas/colegiado/2019-09.md |
+| decisao-colegiado | 02/2018; 19957.006565/2017-86 | 2019-05-22 | outro | O Colegiado aprovou a edição da Instrução CVM 607/19, que regulamenta o processo administrativo sancionador conforme a Lei 13.506/2017… | cvm-col-20190522-d2894 | fichas/colegiado/2019-08.md |
+| decisao-colegiado | 02/2018; 19957.006565/2017-86 | 2019-05-08 | — | O Colegiado iniciou a discussão da minuta de instrução sobre o processo administrativo sancionador, de acordo com a Lei nº 13.506/2017, que… | cvm-col-20190508-d2894 | fichas/colegiado/2019-07.md |
+| decisao-colegiado | 19957.004537/2019-96 | 2019-05-02 | outro | O Colegiado, após relato e debate, optou por um regime modulado de dispensas inspirado no Certificado de Operações Estruturadas, como… | cvm-col-20190502-d1428 | fichas/colegiado/2019-07.md |
+| decisao-colegiado | 592/2017; 19957.002812/2019-37 | 2019-04-22 | outro | O Colegiado, por unanimidade, decidiu submeter à Audiência Pública proposta de alteração pontual da Instrução CVM 592/17 para reconhecer… | cvm-col-20190422-d1382 | fichas/colegiado/2019-07.md |
+| decisao-colegiado | 19957.000040/2018-18 | 2019-04-17 | — | O Colegiado recebeu da SDM os resultados da audiência restrita sobre a reforma da Instrução CVM 356/01 (FIDC), sem deliberação nesta… | cvm-col-20190417-d1223 | fichas/colegiado/2019-07.md |
+| decisao-colegiado | 559/2008; 19957.003351/2018-39 | 2019-04-16 | outro | O Colegiado, por unanimidade, aprovou a revogação da Deliberação CVM 559/08. A norma delegava à SEP a manifestação sobre dispensas de… | cvm-col-20190416-d1375 | fichas/colegiado/2019-06.md |
+| decisao-colegiado | 19957.003208/2019-28 | 2019-03-19 | outro | O Colegiado aprovou portaria, conforme minuta da SDM, que dispõe sobre o processo de normatização da CVM, revoga a Portaria/CVM/PTE nº… | cvm-col-20190319-d4715 | fichas/colegiado/2019-04.md |
+| decisao-colegiado | 03/2018; 19957.006551/2018-43 | 2019-01-23 | outro | O Colegiado aprovou instrução após audiência pública SDM 03/2018, alterando as ICVM 476/09, 521/12 e 555/14. Limitou a distribuição de CRI… | cvm-col-20190123-d1083 | fichas/colegiado/2019-02.md |
+| decisao-colegiado | 02/2018; 19957.009553/2018-94 | 2018-12-27 | outro | O Colegiado aprovou a edição de Deliberação que aprova a ICPC 22 (incerteza sobre tratamento de tributos sobre o lucro), emitida pelo CPC… | cvm-col-20181227-d1208 | fichas/colegiado/2018-21.md |
+| decisao-colegiado | 06/2018; 19957.009015/2018-08 | 2018-12-10 | outro | Após a audiência pública SDM 06/2018 – minuta de instrução – projeto de redução de custos de observância. Proc. SEI 19957.009015/2018-08. | cvm-col-20181210-d1187 | fichas/colegiado/2018-20.md |
+| decisao-colegiado | 09/2016; RJ2014/13597 | 2018-12-05 | — | O Colegiado continuou a discussão da minuta de nova norma sobre prevenção à lavagem de dinheiro e ao financiamento do terrorismo no mercado… | cvm-col-20181205-d8331 | fichas/colegiado/2018-20.md |
+| decisao-colegiado | 09/2016; RJ2014/13597 | 2018-11-28 | — | O Colegiado continuou a discussão da minuta de norma sobre prevenção à lavagem de dinheiro e ao financiamento do terrorismo (PLDFT) no… | cvm-col-20181128-d8331 | fichas/colegiado/2018-20.md |
+| decisao-colegiado | 19957.002618/2016-17 | 2018-11-26 | — | O Colegiado concluiu a primeira etapa da discussão de reforma normativa sobre autorregulação unificada dos mercados organizados e das… | cvm-col-20181126-d2676 | fichas/colegiado/2018-20.md |
+| decisao-colegiado | 19957.010666/2018-32 | 2018-11-14 | outro | O Colegiado aprovou submeter à audiência pública minuta que altera a Instrução CVM 308/99, sobre registro e exercício da auditoria… | cvm-col-20181114-d1426 | fichas/colegiado/2018-20.md |
+| decisao-colegiado | 05/2018; RJ2015/8824 | 2018-11-14 | parcial | O Colegiado, por maioria, deferiu parcialmente o pedido da ANBIMA e prorrogou por 15 dias, até 14.12.18, o prazo de comentários à Audiência… | cvm-col-20181114-d1160 | fichas/colegiado/2018-19.md |
+| decisao-colegiado | 19957.009951/2018-19 | 2018-10-31 | outro | O Colegiado aprovou submeter a audiência pública minutas de Deliberações que aprovam o Pronunciamento Técnico CPC 42 (contabilidade em… | cvm-col-20181031-d1212 | fichas/colegiado/2018-19.md |
+| decisao-colegiado | 19957.006569/2018-45 | 2018-10-31 | outro | O Colegiado aprovou a edição de Deliberação, após a Audiência Pública SNC 01/2018, que aprova o Documento de Revisão de Pronunciamentos… | cvm-col-20181031-d1082 | fichas/colegiado/2018-19.md |
+| decisao-colegiado | 414/2004; 480/2009; 600/2018; 19957.009661/2018-67 | 2018-10-30 | outro | O Colegiado aprovou instrução que altera as Instruções CVM 414/04, 480/09 e 600/18 sobre CRI e CRA: permite ofertas de CRI por… | cvm-col-20181030-d1205 | fichas/colegiado/2018-19.md |
+| decisao-colegiado | 19957.009553/2018-94 | 2018-10-24 | outro | O Colegiado aprovou submeter a audiência pública minuta de deliberação que aprova a Interpretação Técnica ICPC 22, baseada na IFRIC 23… | cvm-col-20181024-d1208 | fichas/colegiado/2018-19.md |
+| decisao-colegiado | 19957.000040/2018-18 | 2018-10-22 | outro | O Colegiado tomou conhecimento de pleitos de participantes do mercado para alterar a regulação dos FIDC, apresentados pela SDM e pela GIES… | cvm-col-20181022-d1223 | fichas/colegiado/2018-18.md |
+| decisao-colegiado | 19957.009015/2018-08 | 2018-09-26 | outro | Para audiência pública – minuta de instrução – projeto de redução de custos de observância. Proc. SEI 19957.009015/2018-08​. | cvm-col-20180926-d1187 | fichas/colegiado/2018-17.md |
+| decisao-colegiado | 555/2014; 19957.003776/2017-67 | 2018-09-19 | outro | O Colegiado aprovou submeter a audiência pública minuta de alteração da Instrução CVM 555/14 para contemplar características dos Fundos… | cvm-col-20180919-d5474 | fichas/colegiado/2018-17.md |
+| decisao-colegiado | 505/2011; RJ2015/8824 | 2018-09-05 | outro | O Colegiado aprovou submeter à audiência pública minuta de instrução que altera a ICVM 505/11, sobre operações em mercados regulamentados… | cvm-col-20180905-d1160 | fichas/colegiado/2018-16.md |
+| decisao-colegiado | 19957.004981/2017-40 | 2018-08-29 | outro | O Colegiado aprovou a edição de parecer de orientação sobre contratos de indenidade que companhias podem celebrar com administradores para… | cvm-col-20180829-d0864 | fichas/colegiado/2018-15.md |
+| decisao-colegiado | 476/2009; 400/2003; 19957.006558/2017-84 | 2018-08-15 | outro | O Colegiado aprovou Instrução, após audiência pública, que altera as Instruções CVM 476/09 e 400/03. Dispensa o lock up de 90 dias para… | cvm-col-20180815-d6170 | fichas/colegiado/2018-14.md |
+| decisao-colegiado | 03/2018; 19957.006551/2018-43 | 2018-08-14 | indeferido | O Colegiado não concedeu, por unanimidade, prorrogação de 30 dias pedida pela ANBIMA para comentários à Audiência Pública SDM 3/2018… | cvm-col-20180814-d1083 | fichas/colegiado/2018-14.md |
+| decisao-colegiado | 02/2018; 19957.006565/2017-86 | 2018-08-07 | deferido | O Colegiado deferiu, por unanimidade, pedido da ANBIMA e prorrogou até 31.08.18 o prazo para comentários à minuta de instrução sobre… | cvm-col-20180807-d2894 | fichas/colegiado/2018-14.md |
+| decisao-colegiado | RJ2015/2080 | 2018-07-25 | outro | O Colegiado aprovou a edição de Instrução, elaborada após a Audiência Pública SDM 08/2016, sobre oferta pública de distribuição de… | cvm-col-20180725-d9602 | fichas/colegiado/2018-13.md |
+| decisao-colegiado | 19957.006551/2018-43 | 2018-07-10 | outro | O Colegiado aprovou para audiência pública, pelo prazo de 30 dias, minuta que altera as ICVM 356/03, 472/09, 476/09, 521/12 e 555/14, para… | cvm-col-20180710-d1083 | fichas/colegiado/2018-12.md |
+| decisao-colegiado | 19957.006569/2018-45 | 2018-07-10 | outro | O Colegiado aprovou a colocação em audiência pública, pelo prazo de 45 dias, de minuta de deliberação que aprova o Documento de Revisão de… | cvm-col-20180710-d1082 | fichas/colegiado/2018-12.md |
+| decisao-colegiado | 01/2017; RJ2014/11167 | 2018-07-04 | outro | O Colegiado aprovou a edição de Instrução, após a Audiência Pública SDM 01/2017, que regulamenta as ofertas públicas de distribuição de CRA… | cvm-col-20180704-d0666 | fichas/colegiado/2018-11.md |
+| decisao-colegiado | 01/2017; RJ2014/11167 | 2018-06-20 | — | O Colegiado continuou a discussão da minuta, elaborada após a Audiência Pública SDM 01/2017, sobre o regime dos certificados de recebíveis… | cvm-col-20180620-d0666 | fichas/colegiado/2018-11.md |
+| decisao-colegiado | 510/2011; 542/2013; 543/2013; 19957.000686/2018-03 | 2018-06-06 | outro | O Colegiado aprovou instrução que altera as ICVM 510/2011, 542/2013 e 543/2013: na 510, atualiza a nomenclatura de escriturador e… | cvm-col-20180606-d1239 | fichas/colegiado/2018-10.md |
+| decisao-colegiado | 06/2017; 497/2011; 19957.000432/2017-04 | 2018-06-06 | outro | O Colegiado aprovou a edição de Instrução, após a Audiência Pública SDM 06/2017, que altera a Instrução CVM 497/2011 (agente autônomo): o… | cvm-col-20180606-d0560 | fichas/colegiado/2018-10.md |
+| decisao-colegiado | 538/2008; 19957.006565/2017-86 | 2018-05-30 | outro | O Colegiado aprovou, para audiência pública, minuta de instrução que regulamenta o processo administrativo sancionador, adaptando-o à Lei… | cvm-col-20180530-d2894 | fichas/colegiado/2018-10.md |
+| decisao-colegiado | 538/2008; 19957.006565/2017-86 | 2018-05-16 | — | O Colegiado continuou a discussão de minuta de instrução que regulamenta o processo administrativo sancionador, conforme a Lei 13.506/2017… | cvm-col-20180516-d2894 | fichas/colegiado/2018-09.md |
+| decisao-colegiado | 296/1998; 19957.005089/2018-67 | 2018-05-15 | outro | O Colegiado, por unanimidade, aprovou colocar em audiência pública minuta de Instrução que revoga a ICVM 296/1998, sobre registro de… | cvm-col-20180515-d104018 | fichas/colegiado/2018-09.md |
+| decisao-colegiado | 558/2015; 19957.004270/2018-56 | 2018-04-18 | outro | O Colegiado aprovou instrução que altera os arts. 3º e 4º da Instrução CVM 558/2015 para dizer que administradores de carteira pessoas… | cvm-col-20180418-d0802 | fichas/colegiado/2018-08.md |
+| decisao-colegiado | 19957.001109/2017-40 | 2018-04-17 | — | O Colegiado foi atualizado sobre a minuta de projeto de lei sobre infraestruturas do mercado financeiro (LIMF). Fez sugestões ao texto… | cvm-col-20180417-d0720 | fichas/colegiado/2018-07.md |
+| decisao-colegiado | 538/2008; 19957.006565/2017-86 | 2018-03-21 | — | O Colegiado iniciou a discussão de minuta de Instrução que regulamenta o processo administrativo sancionador da CVM, conforme a Lei… | cvm-col-20180321-d2894 | fichas/colegiado/2018-06.md |
+| decisao-colegiado | 452/2007; 555/2014; 463/2003; 19957.006566/2017-21 | 2018-03-14 | outro | O Colegiado aprovou para audiência pública três minutas: revoga a ICVM 452/2007 e regula de novo as multas cominatórias; altera a ICVM… | cvm-col-20180314-d1022 | fichas/colegiado/2018-06.md |
+| decisao-colegiado | 480/2009; 19957.000919/2018-60 | 2018-02-06 | outro | O Colegiado aprovou a edição de Instrução que revoga o inciso VI e o § 5º do art. 21 da Instrução CVM 480/2009, que exigiam envio à CVM de… | cvm-col-20180206-d3185 | fichas/colegiado/2018-03.md |
+| decisao-colegiado | 05/2017; 19957.006558/2017-84 | 2018-01-23 | deferido | O Colegiado, por unanimidade, deferiu pedido da AMEC e prorrogou por 30 dias o prazo para sugestões à minuta que altera as Instruções CVM… | cvm-col-20180123-d6170 | fichas/colegiado/2018-02.md |
+| decisao-colegiado | 286/1998; 400/2003; 480/2009; 19957.010540/2017-87 | 2018-01-23 | outro | O Colegiado, por unanimidade, aprovou a edição de Instrução, conforme minuta apresentada pela SDM, que revoga a Instrução CVM 286/1998 e… | cvm-col-20180123-d0844 | fichas/colegiado/2018-01.md |
+| decisao-colegiado | 02/2017; 19957.004982/2017-94 | 2017-12-20 | outro | O Colegiado aprovou a edição de Deliberação que aprova o Pronunciamento Técnico CPC 06 (R2), do Comitê de Pronunciamentos Contábeis, sobre… | cvm-col-20171220-d6158 | fichas/colegiado/2017-20.md |
+| decisao-colegiado | 03/2017; 19957.004983/2017-39 | 2017-12-20 | outro | O Colegiado aprovou a edição de Deliberação, após a Audiência Pública SNC nº 03/2017, que aprova a Interpretação Técnica ICPC 21 do Comitê… | cvm-col-20171220-d0694 | fichas/colegiado/2017-20.md |
+| decisao-colegiado | 04/2017; 481/2009; 19957.006078/2016-32 | 2017-12-13 | outro | O Colegiado aprovou a edição de instrução, após a Audiência Pública SDM 04/2017, alterando a Instrução CVM 481/2009 (pedidos de procuração… | cvm-col-20171213-d2895 | fichas/colegiado/2017-20.md |
+| decisao-colegiado | 497/2011; 19957.000432/2017-04 | 2017-12-05 | outro | O Colegiado aprovou, por unanimidade, colocar em audiência pública minuta que altera a Instrução CVM 497/2011, sobre agentes autônomos de… | cvm-col-20171205-d0560 | fichas/colegiado/2017-20.md |
+| decisao-colegiado | 476/2009; 400/2003; 19957.006558/2017-84 | 2017-11-22 | outro | O Colegiado aprovou a colocação em audiência pública de minuta que altera as Instruções CVM 476/2009 (esforços restritos) e 400/2003… | cvm-col-20171122-d6170 | fichas/colegiado/2017-19.md |
+| decisao-colegiado | 11/2016; RJ2006/5754 | 2017-10-25 | — | O Colegiado continuou a discussão do Relatório da Audiência Pública SDM 11/2016, sobre três minutas de normas que visam a substituir a… | cvm-col-20171025-d0802 | fichas/colegiado/2017-18.md |
+| decisao-colegiado | 01/2017; 308/1999; 19957.002575/2017-42 | 2017-10-11 | outro | O Colegiado aprovou instrução alterando a Instrução CVM 308/1999, após a Audiência Pública SNC 01/2017. Entre as mudanças: educação… | cvm-col-20171011-d1426 | fichas/colegiado/2017-17.md |
+| decisao-colegiado | 19957.009824/2017-21 | 2017-10-10 | outro | O Colegiado aprovou nova deliberação que substitui a Deliberação CVM 535/2008 e delega à SIN a dispensa de requisitos de FIDC-NP. A norma… | cvm-col-20171010-d0824 | fichas/colegiado/2017-17.md |
+| decisao-colegiado | 01/2017; 308/1999; 19957.002575/2017-42 | 2017-10-04 | — | O Colegiado iniciou a discussão de minuta de alteração da Instrução CVM 308/1999, sobre registro e exercício da auditoria independente… | cvm-col-20171004-d1426 | fichas/colegiado/2017-17.md |
+| decisao-colegiado | 11/2016; RJ2006/5754 | 2017-09-20 | — | A SDM apresentou ao Colegiado pontos relevantes da Audiência Pública SDM 11/2016 sobre consultoria de valores mobiliários, para orientar a… | cvm-col-20170920-d0802 | fichas/colegiado/2017-16.md |
+| decisao-colegiado | 481/2009; 19957.006078/2016-32 | 2017-09-13 | outro | O Colegiado aprovou para audiência pública proposta de alteração da Instrução CVM 481/2009 sobre voto a distância em assembleias. Pontos… | cvm-col-20170913-d2895 | fichas/colegiado/2017-16.md |
+| decisao-colegiado | 19957.006706/2017-61 | 2017-09-05 | outro | O Colegiado aprovou alterações no Regulamento do Novo Mercado da B3, após consulta pública, audiência pública e audiência restrita às… | cvm-col-20170905-d0791 | fichas/colegiado/2017-15.md |
+| decisao-colegiado | — | 2017-09-04 | outro | O Colegiado aprovou, por unanimidade, Deliberação, proposta pelo Presidente, que altera as Deliberações CVM 538/2008 (processos… | cvm-col-20170904-d6213 | fichas/colegiado/2017-15.md |
+| decisao-colegiado | 05/2016; 358/2002; 461/2007; RJ2015/6981 | 2017-08-16 | outro | O Colegiado aprovou a edição de Instrução, após a Audiência Pública SDM 05/2016, que altera as Instruções CVM 358/2002 (fato relevante) e… | cvm-col-20170816-d2844 | fichas/colegiado/2017-14.md |
+| decisao-colegiado | 578/2016; 19957.006557/2017-30 | 2017-08-16 | outro | O Colegiado aprovou alteração da Instrução CVM 578/2016, conforme minuta da SDM, para que os FIC-FIPs constituídos sob a Instrução CVM… | cvm-col-20170816-d0785 | fichas/colegiado/2017-14.md |
+| decisao-colegiado | 05/2016; 358/2002; 461/2007; RJ2015/6981 | 2017-08-09 | — | O Colegiado iniciou a discussão de minuta que altera as Instruções CVM 358/2002 (fato relevante) e 461/2007 (mercados regulamentados), para… | cvm-col-20170809-d2844 | fichas/colegiado/2017-14.md |
+| decisao-colegiado | 19957.003946/2016-22 | 2017-07-14 | outro | O Colegiado aprovou, por maioria, portaria sobre atribuições do cargo de Agente Executivo da CVM, com ajustes, fundada em parecer da… | cvm-col-20170714-d0650 | fichas/colegiado/2017-13.md |
+| decisao-colegiado | — | 2017-07-12 | outro | O Colegiado redefiniu a meta regulatória da SDM: retirou temas de 2017, entre eles o Condo Hotel (realocado para o 1º semestre de 2018), e… | cvm-col-20170712-d7067 | fichas/colegiado/2017-13.md |
+| decisao-colegiado | 02/2017; 19957.005913/2017-06 | 2017-07-04 | outro | O Colegiado aprovou Deliberação, após a Audiência Pública SDM 02/2017, que institui o rito simplificado do processo administrativo… | cvm-col-20170704-d0675 | fichas/colegiado/2017-12.md |
+| decisao-colegiado | 459/2007; 555/2014; 19957.003850/2017-45 | 2017-06-26 | outro | Minuta de instrução – alteração de dispositivos das instruções CVM 459/2007 e 555/2014 – seguro de vida universal. Proc. SEI… | cvm-col-20170626-d0715 | fichas/colegiado/2017-12.md |
+| decisao-colegiado | 06/2016; RJ2013/11877 | 2017-06-22 | — | O Colegiado continuou a discussão da minuta de Instrução, elaborada após a Audiência Pública SDM 06/2016, sobre oferta pública de valores… | cvm-col-20170622-d9637 | fichas/colegiado/2017-12.md |
+| decisao-colegiado | 459/2007; 555/2014; 19957.003850/2017-45 | 2017-06-20 | — | O Colegiado iniciou a discussão de minuta de Instrução que altera as Instruções CVM 459/2007 e 555/2014 quanto ao seguro de vida universal… | cvm-col-20170620-d0715 | fichas/colegiado/2017-11.md |
+| decisao-colegiado | 10/2016; 480/2009; RJ2010/7374 | 2017-05-31 | outro | O Colegiado aprovou a edição de Instrução, elaborada após a Audiência Pública SDM 10/2016, que altera a Instrução CVM 480/2009. A principal… | cvm-col-20170531-d3185 | fichas/colegiado/2017-10.md |
+| decisao-colegiado | 10/2016; 480/2009; RJ2010/7374 | 2017-05-26 | — | O Colegiado continuou a discussão de minuta para alterar a Instrução CVM 480/2009, cuja principal mudança incorpora ao dever de divulgação… | cvm-col-20170526-d3185 | fichas/colegiado/2017-10.md |
+| decisao-colegiado | 19957.005913/2017-06 | 2017-05-09 | outro | O Colegiado aprovou, para audiência pública até 16.6.2017, minuta de Deliberação que estabelece o processo administrativo sancionador de… | cvm-col-20170509-d0675 | fichas/colegiado/2017-10.md |
+| decisao-colegiado | 19957.001421/2017-33 | 2017-05-08 | outro | O Colegiado aprovou para audiência pública, até 28/7/2017, minuta de nova Instrução sobre a atividade de analista de valores mobiliários… | cvm-col-20170508-d4068 | fichas/colegiado/2017-09.md |
+| decisao-colegiado | 19957.001421/2017-33 | 2017-05-03 | — | O Colegiado iniciou a discussão da proposta de nova Instrução sobre a atividade de analista de valores mobiliários, em substituição à… | cvm-col-20170503-d4068 | fichas/colegiado/2017-09.md |
+| decisao-colegiado | 461/2007; RJ2015/6981 | 2017-04-27 | — | As superintendências SDM e SMI apresentaram ao Colegiado proposta sobre o escopo da revisão da Instrução CVM 461/2007, sem deliberação… | cvm-col-20170427-d2676 | fichas/colegiado/2017-09.md |
+| decisao-colegiado | RJ2014/11167 | 2017-04-12 | — | O Colegiado continuou a discussão de minuta de Instrução sobre o regime dos certificados de recebíveis do agronegócio (CRA) objeto de… | cvm-col-20170412-d0666 | fichas/colegiado/2017-08.md |
+| decisao-colegiado | — | 2017-04-11 | outro | O Colegiado tomou conhecimento de relato sobre estudo do Grupo de Trabalho Latino-Americano da OCDE sobre transparência dos grupos de… | cvm-col-20170411-d0651 | fichas/colegiado/2017-08.md |
+| decisao-colegiado | RJ2014/11167 | 2017-03-31 | — | O Colegiado continuou a discussão da minuta de Instrução sobre o regime dos Certificados de Recebíveis do Agronegócio (CRA) objeto de… | cvm-col-20170331-d0666 | fichas/colegiado/2017-07.md |
+| decisao-colegiado | 07/2016; RJ2014/10049 | 2017-03-15 | outro | O Colegiado aprovou a edição de Instrução, após a Audiência Pública SDM 07/2016, que altera regras para emissores estrangeiros e BDRs… | cvm-col-20170315-d5058 | fichas/colegiado/2017-06.md |
+| decisao-colegiado | 308/1999; 19957.002575/2017-42 | 2017-03-15 | outro | O Colegiado aprovou a colocação em audiência pública, pelo prazo de 30 dias, de minuta de instrução que altera a Instrução CVM 308/1999… | cvm-col-20170315-d1426 | fichas/colegiado/2017-05.md |
+| decisao-colegiado | 04/2016; RJ2013/10047 | 2017-03-08 | outro | O Colegiado aprovou a edição de Instrução, elaborada após a Audiência Pública SDM 04/2016, que dispõe sobre a nova forma de funcionamento… | cvm-col-20170308-d3324 | fichas/colegiado/2017-05.md |
+| decisao-colegiado | 04/2016; RJ2013/10047 | 2017-02-22 | — | Início da discussão da minuta de Instrução, elaborada após a Audiência Pública SDM 04/2016, que dispõe sobre a nova forma de funcionamento… | cvm-col-20170222-d3324 | fichas/colegiado/2017-05.md |
+| decisao-colegiado | 10/2016; RJ2010/7374; RJ2013/12462 | 2017-01-24 | deferido | O Colegiado atendeu o pedido subsidiário da ABRASCA e prorrogou até 20.2.2017 o prazo para comentários à Audiência Pública SDM 10/2016, que… | cvm-col-20170124-d3185 | fichas/colegiado/2017-03.md |
+| decisao-colegiado | 11/2016; RJ2006/5754 | 2017-01-24 | parcial | O Colegiado atendeu parcialmente o pedido da ANBIMA de prorrogação da Audiência Pública SDM 11/2016, sobre consultoria de valores… | cvm-col-20170124-d0802 | fichas/colegiado/2017-02.md |
+| decisao-colegiado | 01/2016; RJ2016/5001 | 2016-12-20 | outro | O Colegiado aprovou a Deliberação, após a Audiência Pública SNC 01/2016, que aprova o Documento de Revisão de Pronunciamentos Técnicos nº… | cvm-col-20161220-d8811 | fichas/colegiado/2016-25.md |
+| decisao-colegiado | 09/2016; RJ2014/13597 | 2016-12-20 | deferido | Por maioria, o Colegiado acolheu pedido da ANBIMA e prorrogou até 16.2.2017 o prazo para comentários à Audiência Pública SDM 09/2016, sobre… | cvm-col-20161220-d8331 | fichas/colegiado/2016-25.md |
+| decisao-colegiado | 03/2016; RJ2016/5005 | 2016-12-20 | outro | O Colegiado aprovou a edição de deliberação, após a Audiência Pública SNC 03/2016, que aprova o Pronunciamento Técnico CPC 47 – Receita de… | cvm-col-20161220-d6664 | fichas/colegiado/2016-25.md |
+| decisao-colegiado | 390/2001; 19957.009074/2016-14 | 2016-12-13 | outro | O Colegiado aprovou a proposta da SGE de alterações pontuais na Deliberação CVM 390/2001, sobre a celebração de Termo de Compromisso, para… | cvm-col-20161213-d3261 | fichas/colegiado/2016-24.md |
+| decisao-colegiado | 19957.008975/2016-81 | 2016-12-13 | outro | Minuta de portaria – plano de dados abertos. Proc. SEI 19957.008975/2016-81. | cvm-col-20161213-d0462 | fichas/colegiado/2016-24.md |
+| decisao-colegiado | 04/2015; RJ2012/3268 | 2016-12-06 | outro | O Colegiado aprovou a edição de nova Instrução, após a Audiência Pública SDM 04/2015, que atualiza a regulamentação do exercício da função… | cvm-col-20161206-d0093 | fichas/colegiado/2016-23.md |
+| decisao-colegiado | 04/2015; RJ2012/3268 | 2016-11-30 | — | O Colegiado iniciou a discussão de minuta de Instrução sobre o exercício da função de agente fiduciário nas distribuições públicas de… | cvm-col-20161130-d0093 | fichas/colegiado/2016-23.md |
+| decisao-colegiado | RJ2006/5754 | 2016-11-23 | outro | O Colegiado aprovou para audiência pública três minutas sobre consultoria de valores mobiliários: nova instrução com a primeira… | cvm-col-20161123-d0802 | fichas/colegiado/2016-23.md |
+| decisao-colegiado | RJ2006/5754 | 2016-11-16 | — | O Colegiado iniciou a discussão das minutas de normas sobre a atividade de consultoria de valores mobiliários, sem deliberação nesta… | cvm-col-20161116-d0802 | fichas/colegiado/2016-22.md |
+| decisao-colegiado | 480/2009; RJ2010/7374 | 2016-11-09 | outro | O Colegiado aprovou para audiência pública, até 06.02.2017, minuta de Instrução que altera a Instrução CVM 480/2009 (registro de… | cvm-col-20161109-d3185 | fichas/colegiado/2016-22.md |
+| decisao-colegiado | 03/2016; 543/2013; 555/2014; RJ2014/7745 | 2016-11-08 | outro | O Colegiado aprovou instrução, após a Audiência Pública SDM 03/2016, que altera as Instruções CVM 543/2013 e 555/2014. Na 543, exige… | cvm-col-20161108-d1239 | fichas/colegiado/2016-22.md |
+| decisao-colegiado | 480/2009; RJ2010/7374 | 2016-11-03 | — | O Colegiado continuou a discussão de proposta de alteração da Instrução CVM 480/2009, sobre registro de emissores admitidos à negociação em… | cvm-col-20161103-d3185 | fichas/colegiado/2016-22.md |
+| decisao-colegiado | 480/2009; RJ2010/7374 | 2016-10-26 | — | O Colegiado continuou a discussão da proposta de alteração da Instrução CVM 480/2009, sobre registro de emissores de valores mobiliários… | cvm-col-20161026-d3185 | fichas/colegiado/2016-21.md |
+| decisao-colegiado | 19957.007767/2016-64 | 2016-10-25 | outro | O Colegiado aprovou Deliberação que delega ao titular da SRE a competência para apreciar pedidos de procedimento diferenciado em OPA (art… | cvm-col-20161025-d0388 | fichas/colegiado/2016-21.md |
+| decisao-colegiado | 06/2016; RJ2013/11877 | 2016-10-11 | deferido | O Colegiado deferiu pedido da EQUITY – Associação Brasileira de Equity Crowdfunding e prorrogou até 06.12.2016 o prazo para comentários à… | cvm-col-20161011-d9637 | fichas/colegiado/2016-20.md |
+| decisao-colegiado | 301/1999; RJ2014/13597 | 2016-10-05 | outro | O Colegiado aprovou para audiência pública, até 16.01.2017, proposta de nova instrução sobre prevenção à lavagem de dinheiro e ao… | cvm-col-20161005-d8331 | fichas/colegiado/2016-20.md |
+| decisao-colegiado | 301/1999; RJ2014/13597 | 2016-10-04 | — | O Colegiado continuou a discussão da proposta de nova Instrução sobre prevenção à lavagem de dinheiro e ao financiamento do terrorismo no… | cvm-col-20161004-d8331 | fichas/colegiado/2016-19.md |
+| decisao-colegiado | RJ2015/2080 | 2016-09-28 | outro | O Colegiado aprovou minuta de Instrução sobre oferta pública de distribuição de contratos de investimento coletivo (CIC) hoteleiro, que… | cvm-col-20160928-d9602 | fichas/colegiado/2016-19.md |
+| decisao-colegiado | RJ2014/10049 | 2016-09-28 | outro | O Colegiado aprovou para audiência pública, até 21.11.2016, minuta de Instrução que altera as ICVM 332/2000, 476/2009, 480/2009 e 494/2011… | cvm-col-20160928-d5058 | fichas/colegiado/2016-19.md |
+| decisao-colegiado | RJ2015/2080 | 2016-09-21 | — | O Colegiado iniciou a discussão de minuta de Instrução sobre oferta pública de distribuição de contratos de investimento coletivo… | cvm-col-20160921-d9602 | fichas/colegiado/2016-18.md |
+| decisao-colegiado | 02/2016; 505/2011; RJ2015/6254 | 2016-09-13 | outro | O Colegiado aprovou a edição de instrução que altera a Instrução CVM 505/2011, após a Audiência Pública SDM 02/2016. Inclui inciso no § 1º… | cvm-col-20160913-d5529 | fichas/colegiado/2016-17.md |
+| decisao-colegiado | 01/2016; 472/2008; RJ2015/13111 | 2016-09-06 | outro | O Colegiado aprovou a edição de Instrução, após a Audiência Pública SDM 01/2016, que altera a ICVM 472/2008 (FII) para incluir consultores… | cvm-col-20160906-d0084 | fichas/colegiado/2016-17.md |
+| decisao-colegiado | 480/2009; RJ2010/7374 | 2016-08-31 | outro | O Colegiado discutiu os pontos do Código Único de Governança Corporativa para Companhias Abertas que não obtiveram unanimidade no Grupo de… | cvm-col-20160831-d3185 | fichas/colegiado/2016-17.md |
+| decisao-colegiado | 18/2013; 19957.005929/2016-20 | 2016-08-30 | outro | O Colegiado aprovou, por unanimidade, alteração do art. 2º da Decisão Conjunta CVM/BACEN nº 18/2013, que muda de semestral para anual a… | cvm-col-20160830-d8738 | fichas/colegiado/2016-16.md |
+| decisao-colegiado | RJ2014/10049 | 2016-08-24 | — | O Colegiado iniciou a discussão de minuta de Instrução sobre BDRs, emissores estrangeiros e ofertas com esforços restritos, alterando as… | cvm-col-20160824-d5058 | fichas/colegiado/2016-16.md |
+| decisao-colegiado | RJ2015/12184 | 2016-08-03 | outro | O Colegiado aprovou a versão final da Instrução sobre elaboração e divulgação das demonstrações contábeis dos FIP, elaborada após a… | cvm-col-20160803-d52292 | fichas/colegiado/2016-16.md |
+| decisao-colegiado | 04/2016; RJ2013/10047 | 2016-07-28 | deferido | O Colegiado, por unanimidade, acolheu o pedido da ABRASCA e prorrogou até 30.08.2016 o prazo para sugestões à minuta de instrução que… | cvm-col-20160728-d3324 | fichas/colegiado/2016-15.md |
+| decisao-colegiado | RJ2012/10107 | 2016-07-27 | — | O Colegiado deu continuidade à discussão da minuta que dispõe sobre Fundos de Investimento em Participações (FIP) e pretende substituir as… | cvm-col-20160727-d5229 | fichas/colegiado/2016-15.md |
+| decisao-colegiado | RJ2012/10107 | 2016-07-20 | — | O Colegiado continuou a discussão da minuta de Instrução sobre constituição, funcionamento e administração de FIP, após a Audiência Pública… | cvm-col-20160720-d5229 | fichas/colegiado/2016-14.md |
+| decisao-colegiado | RJ2013/11877 | 2016-07-08 | outro | O Colegiado aprovou para audiência pública até 06.11.2016 minuta de Instrução sobre oferta pública de valores mobiliários de pequenos… | cvm-col-20160708-d9637 | fichas/colegiado/2016-14.md |
+| decisao-colegiado | 19957.002636/2016-91 | 2016-06-14 | outro | O Colegiado, por unanimidade, aprovou as conclusões da SMI sobre a aprovação de normativos das entidades administradoras de mercados… | cvm-col-20160614-d0256 | fichas/colegiado/2016-12.md |
+| decisao-colegiado | RJ2013/11877 | 2016-06-08 | — | O Colegiado deu continuidade à discussão de minuta de Instrução sobre oferta pública com dispensa de registro por plataformas eletrônicas… | cvm-col-20160608-d9637 | fichas/colegiado/2016-11.md |
+| decisao-colegiado | RJ2016/5001 | 2016-06-07 | outro | O Colegiado aprovou, para audiência pública de 30 dias, minuta de deliberação que aprova o Documento de Revisão de Pronunciamentos Técnicos… | cvm-col-20160607-d8811 | fichas/colegiado/2016-11.md |
+| decisao-colegiado | 19957.002943/2016-71 | 2016-06-07 | outro | O Colegiado aprovou a edição de Deliberação, nos termos de minuta da SIN, que estabelece critérios para dispensar seguradoras… | cvm-col-20160607-d1492 | fichas/colegiado/2016-11.md |
+| decisao-colegiado | 358/2002; RJ2015/6981 | 2016-05-25 | — | O Colegiado deu continuidade à discussão da minuta que altera a Instrução CVM 358/2002, sobre divulgação e uso de informações de ato ou… | cvm-col-20160525-d2844 | fichas/colegiado/2016-10.md |
+| decisao-colegiado | 03/2015; 471/2008; RJ2014/12576 | 2016-05-04 | outro | O Colegiado aprovou a edição de Instrução, após a Audiência Pública SDM 03/2015, que altera a Instrução CVM 471/2008 para dispor sobre… | cvm-col-20160504-d6067 | fichas/colegiado/2016-09.md |
+| decisao-colegiado | RJ2013/10047 | 2016-04-27 | outro | Para audiência pública – programa de distribuição de debêntures. Proc. RJ2013/10047. | cvm-col-20160427-d3324 | fichas/colegiado/2016-09.md |
+| decisao-colegiado | RJ2013/10047 | 2016-04-01 | — | O Colegiado iniciou a discussão da minuta de Instrução sobre o Programa de Distribuição de Debêntures, que altera as Instruções CVM… | cvm-col-20160401-d3324 | fichas/colegiado/2016-08.md |
+| decisao-colegiado | 19957.001797/2016-67 | 2016-03-22 | outro | O Colegiado aprovou a edição de Deliberação que delega ao titular da SRE a competência para conceder dispensas dos limites do art. 15 da… | cvm-col-20160322-d0157 | fichas/colegiado/2016-07.md |
+| decisao-colegiado | RJ2013/11877 | 2016-03-16 | — | O Colegiado deu continuidade à discussão de minuta de Instrução sobre oferta pública com dispensa de registro por plataformas eletrônicas… | cvm-col-20160316-d9637 | fichas/colegiado/2016-07.md |
+| decisao-colegiado | RJ2013/11877 | 2016-03-09 | — | O Colegiado deu continuidade à discussão de minuta de instrução sobre oferta pública com dispensa de registro por plataformas eletrônicas… | cvm-col-20160309-d9637 | fichas/colegiado/2016-07.md |
+| decisao-colegiado | 03/2016; RJ2014/7745 | 2016-03-01 | deferido | O Colegiado deferiu o pedido da ANBIMA e prorrogou até 04.04.2016 o prazo para envio de sugestões e comentários à minuta de instrução sobre… | cvm-col-20160301-d1239 | fichas/colegiado/2016-06.md |
+| decisao-colegiado | 505/2011; RJ2015/6254 | 2016-01-27 | outro | O Colegiado aprovou para audiência pública, pelo prazo de 30 dias, minuta que altera a Instrução CVM 505/2011 quanto à participação de… | cvm-col-20160127-d5529 | fichas/colegiado/2016-02.md |
+| decisao-colegiado | 543/2013; 555/2014; RJ2014/7745 | 2016-01-27 | outro | O Colegiado aprovou, para audiência pública pelo prazo de 30 dias, minuta de Instrução que altera o art. 3º da Instrução CVM 543/2013… | cvm-col-20160127-d1239 | fichas/colegiado/2016-02.md |
+| decisao-colegiado | 472/2008; RJ2015/13111 | 2016-01-27 | outro | O Colegiado aprovou, para audiência pública de 30 dias, minuta de Instrução que altera a Instrução CVM 472/2008 (FII) para exigir aprovação… | cvm-col-20160127-d084 | fichas/colegiado/2016-02.md |
+| decisao-colegiado | — | 2016-01-12 | outro | O Colegiado aprovou a edição de minuta de Deliberação, apresentada pela Assessoria de Comunicação Social, que disciplina a reprodução e… | cvm-col-20160112-d4655 | fichas/colegiado/2016-01.md |
+| decisao-colegiado | 19957.003435/2015-20 | 2015-12-15 | outro | O Colegiado determinou à SDM a elaboração de minuta de instrução contemplando as sugestões da SMI sobre a falta de DEC (ICVM 510/2011) de… | cvm-col-20151215-d9975 | fichas/colegiado/2015-24.md |
+| decisao-colegiado | 19957.003591/2015-91 | 2015-12-15 | outro | O Colegiado aprovou a colocação em audiência pública, por 30 dias, de minuta de instrução que altera o Informe Mensal dos FIDCs (Anexo A da… | cvm-col-20151215-d6789 | fichas/colegiado/2015-24.md |
+| decisao-colegiado | 560/2015; RJ2005/2366; RJ2008/9075 | 2015-12-15 | outro | O Colegiado aprovou alteração da Instrução CVM 560/2015, sobre investidor não residente, prorrogando para 31.03.2016 a atualização… | cvm-col-20151215-d4672 | fichas/colegiado/2015-24.md |
+| decisao-colegiado | 569/2015; RJ2005/3331 | 2015-12-08 | deferido | O Colegiado deferiu o pedido da ANBIMA e prorrogou para 26/02/2016 o prazo de adaptação à Instrução CVM 569 para as ofertas de COE, por… | cvm-col-20151208-d5316 | fichas/colegiado/2015-23.md |
+| decisao-colegiado | RJ2012/10107 | 2015-12-02 | outro | O Colegiado aprovou para audiência pública, pelo prazo de 90 dias, minuta de Instrução que consolida regras de constituição, funcionamento… | cvm-col-20151202-d5229 | fichas/colegiado/2015-23.md |
+| decisao-colegiado | RJ2015/12184 | 2015-11-24 | outro | O Colegiado aprovou para audiência pública, por 90 dias, minuta de Instrução sobre elaboração e divulgação das demonstrações contábeis dos… | cvm-col-20151124-d5229 | fichas/colegiado/2015-21.md |
+| decisao-colegiado | RJ2015/12184 | 2015-11-18 | — | O Colegiado iniciou a discussão de minuta de Instrução sobre elaboração e divulgação das demonstrações contábeis dos fundos de investimento… | cvm-col-20151118-d5229 | fichas/colegiado/2015-21.md |
+| decisao-colegiado | 28/1983; RJ2012/3268 | 2015-11-18 | outro | O Colegiado aprovou para audiência pública, por 60 dias, minuta de Instrução que substitui a ICVM 28/1983 e regula o agente fiduciário em… | cvm-col-20151118-d0093 | fichas/colegiado/2015-21.md |
+| decisao-colegiado | 561/2015; RJ2011/13930 | 2015-11-13 | outro | O Colegiado decidiu, por unanimidade, adiar para 2017 a adoção compulsória da Instrução CVM 561 (voto a distância), mantendo a forma… | cvm-col-20151113-d2895 | fichas/colegiado/2015-21.md |
+| decisao-colegiado | 02/2015; RJ2015/1673 | 2015-11-10 | outro | O Colegiado aprovou a edição de Deliberação, após audiência pública SDM 02/2015, que define os exames de certificação aceitos para obtenção… | cvm-col-20151110-d802 | fichas/colegiado/2015-20.md |
+| decisao-colegiado | 01/2015; RJ2015/3801 | 2015-11-03 | outro | O Colegiado aprovou a edição de Deliberação, após a Audiência Pública SNC 01/2015, que aprova o Documento de Revisão de Pronunciamentos… | cvm-col-20151103-d8946 | fichas/colegiado/2015-20.md |
+| decisao-colegiado | 555/2014; 19957.003090/2015-12 | 2015-10-27 | outro | O Colegiado, acompanhando a SIN, interpretou a ICVM 555/2014: fundos destinados exclusivamente a investidores profissionais não precisam… | cvm-col-20151027-d9889 | fichas/colegiado/2015-20.md |
+| decisao-colegiado | 28/1983; RJ2012/3268 | 2015-10-21 | — | O Colegiado deu continuidade à discussão da minuta de nova norma sobre agente fiduciário, que revoga a Instrução CVM 28/1983, sem… | cvm-col-20151021-d93 | fichas/colegiado/2015-19.md |
+| decisao-colegiado | 471/2008; RJ2014/12576 | 2015-10-14 | outro | O Colegiado aprovou, para audiência pública de 30 dias, minuta de Instrução que atualiza a ICVM 471/2008, incorporando mudanças de outras… | cvm-col-20151014-d6067 | fichas/colegiado/2015-19.md |
+| decisao-colegiado | 13/2014; RJ2005/3331 | 2015-10-07 | outro | Após audiência pública SDM 13/2014 – certificados de operações estruturadas (coe). Proc. RJ2005/3331. | cvm-col-20151007-d5316 | fichas/colegiado/2015-18.md |
+| decisao-colegiado | 07/2014; 472/2008; RJ2012/6197 | 2015-10-07 | outro | O Colegiado aprovou a versão final da minuta de instrução que altera a Instrução CVM 472/2008 (fundos de investimento imobiliário)… | cvm-col-20151007-d084 | fichas/colegiado/2015-18.md |
+| decisao-colegiado | 07/2014; 472/2008; RJ2012/6197 | 2015-09-30 | — | O Colegiado deu continuidade à discussão das alterações na Instrução CVM 472/2008 sobre constituição, administração, funcionamento, oferta… | cvm-col-20150930-d084 | fichas/colegiado/2015-18.md |
+| decisao-colegiado | — | 2015-09-02 | outro | Audiência pública – BM&FBOVESPA – programa de governança de estatais. | cvm-col-20150902-d3935 | fichas/colegiado/2015-16.md |
+| decisao-colegiado | 07/2014; 472/2008; RJ2012/6197 | 2015-09-02 | — | O Colegiado deu continuidade à discussão de alterações na Instrução CVM 472/08 sobre fundos de investimento imobiliário, após audiência… | cvm-col-20150902-d084 | fichas/colegiado/2015-16.md |
+| decisao-colegiado | 07/2014; 472/2008; RJ2012/6197 | 2015-08-26 | — | O Colegiado iniciou a discussão de alterações na Instrução CVM 472/2008 sobre constituição, administração, funcionamento, oferta pública de… | cvm-col-20150826-d084 | fichas/colegiado/2015-15.md |
+| decisao-colegiado | 11/2013; 10/1980; 390/2003; 358/2002; RJ2008/11441 | 2015-08-19 | outro | O Colegiado aprovou a edição de Instruções, após a Audiência Pública SDM 11/2013, que tratam de negociações de companhia aberta com ações… | cvm-col-20150819-d3541 | fichas/colegiado/2015-15.md |
+| decisao-colegiado | 13/2014; RJ2005/3331 | 2015-08-12 | — | O Colegiado continuou a discussão da minuta de Instrução sobre distribuição de certificados de operações estruturadas (COE), elaborada após… | cvm-col-20150812-d5316 | fichas/colegiado/2015-15.md |
+| decisao-colegiado | 02/2015; 438/2006; RJ2015/3482 | 2015-08-11 | deferido | O Colegiado deferiu pedido da ANBIMA e prorrogou até 10.09.2015 o prazo para comentários à Audiência Pública SNC 02/2015, sobre minuta que… | cvm-col-20150811-d4872 | fichas/colegiado/2015-14.md |
+| decisao-colegiado | 13/2014; RJ2005/3331 | 2015-08-05 | — | O Colegiado iniciou a discussão da minuta de Instrução sobre distribuição de certificados de operações estruturadas (COE), elaborada após a… | cvm-col-20150805-d5316 | fichas/colegiado/2015-14.md |
+| decisao-colegiado | 01/2015; RJ2014/13975 | 2015-07-22 | outro | O Colegiado aprovou a edição de nova Instrução, após a Audiência Pública SDM 01/2015, que consolida a oferta pública de distribuição de… | cvm-col-20150722-d4638 | fichas/colegiado/2015-14.md |
+| decisao-colegiado | 01/2015; RJ2014/13975 | 2015-07-15 | — | O Colegiado iniciou a discussão de minuta de Instrução, elaborada após a Audiência Pública SDM 01/2015, que consolida as regras sobre… | cvm-col-20150715-d4638 | fichas/colegiado/2015-14.md |
+| decisao-colegiado | 11/2013; 10/1980; 390/2003; 358/2002; RJ2008/11441 | 2015-07-08 | — | O Colegiado deu continuidade à discussão de minutas, após audiência pública SDM 11/2013, que revogam as Instruções CVM 10/1980 e 390/2003 e… | cvm-col-20150708-d3541 | fichas/colegiado/2015-13.md |
+| decisao-colegiado | 11/2013; 10/1980; 390/2003; 358/2002; RJ2008/11441 | 2015-06-10 | — | O Colegiado deu início à discussão de minuta de Instrução, após audiência pública SDM 11/2013, que revogaria as Instruções CVM 10/1980 e… | cvm-col-20150610-d3541 | fichas/colegiado/2015-10.md |
+| decisao-colegiado | 555/2014; RJ2012/13688 | 2015-06-09 | outro | O Colegiado aprovou a edição de instrução que ajusta para 1º de outubro de 2015 a entrada em vigor das Instruções CVM 554 e 555 e fixa em… | cvm-col-20150609-d5474 | fichas/colegiado/2015-09.md |
+| decisao-colegiado | RJ2014/14374 | 2015-06-03 | outro | O Colegiado decidiu não alterar, por ora, o art. 8º da Deliberação CVM 390/2001 (prazos de tramitação de propostas de termo de… | cvm-col-20150603-d3261 | fichas/colegiado/2015-09.md |
+| decisao-colegiado | 438/2006; RJ2015/3482 | 2015-05-27 | outro | O Colegiado aprovou a colocação em audiência pública, pelo prazo de 90 dias, da minuta de instrução que altera o COFI, anexo à Instrução… | cvm-col-20150527-d4872 | fichas/colegiado/2015-08.md |
+| decisao-colegiado | RJ2015/3801 | 2015-05-19 | outro | O Colegiado aprovou, para audiência pública de 30 dias, a minuta de deliberação que aprova o Documento de Revisão de Pronunciamentos… | cvm-col-20150519-d8946 | fichas/colegiado/2015-08.md |
+| decisao-colegiado | 04/2013; 319/1999; RJ2009/12670 | 2015-05-19 | outro | O Colegiado aprovou a edição de instrução, após audiência pública (SDM 04/2013), com novas regras para fusão, cisão, incorporação e… | cvm-col-20150519-d2646 | fichas/colegiado/2015-08.md |
+| decisao-colegiado | 555/2014; RJ2012/13688 | 2015-05-12 | outro | O Colegiado aprovou instrução que promove ajustes pontuais na Instrução CVM 555/2014, que substituirá a Instrução CVM 409/2004, dispensando… | cvm-col-20150512-d5474 | fichas/colegiado/2015-07.md |
+| decisao-colegiado | 04/2013; 319/1999; RJ2009/12670 | 2015-05-06 | — | O Colegiado iniciou a discussão de minuta de Instrução, elaborada após a Audiência Pública SDM 04/2013, que altera a Instrução CVM 319/1999… | cvm-col-20150506-d2646 | fichas/colegiado/2015-07.md |
+| decisao-colegiado | RJ2013/11877 | 2015-04-29 | outro | O Colegiado deu diretrizes à SDM para iniciar a elaboração de minuta de instrução sobre crowdfunding (financiamento coletivo), a ser… | cvm-col-20150429-d9637 | fichas/colegiado/2015-07.md |
+| decisao-colegiado | 02/2015; RJ2015/1673 | 2015-04-24 | deferido | O Colegiado deferiu pedido da ANBIMA e prorrogou até 27.05.2015 o prazo para comentários à minuta de deliberação da SDM 02/2015 sobre os… | cvm-col-20150424-d802 | fichas/colegiado/2015-06.md |
+| decisao-colegiado | 09/2014; RJ2011/13930 | 2015-04-01 | outro | O Colegiado aprovou Instrução, após a Audiência Pública SDM 09/2014, que regulamenta o voto a distância em assembleias gerais de companhias… | cvm-col-20150401-d2895 | fichas/colegiado/2015-06.md |
+| decisao-colegiado | 12/2014; 325/2000; RJ2008/9075 | 2015-03-25 | outro | O Colegiado aprovou a edição de Instrução, após a Audiência Pública SDM 12/2014, que substitui a ICVM 325/2000 e dispõe sobre registro… | cvm-col-20150325-d4672 | fichas/colegiado/2015-05.md |
+| decisao-colegiado | 510/2011; RJ2015/2318 | 2015-03-24 | outro | Alteração da instrução CVM 510/2011. Proc. RJ2015/2318. | cvm-col-20150324-d4690 | fichas/colegiado/2015-05.md |
+| decisao-colegiado | RJ2015/2080 | 2015-03-17 | outro | O Colegiado aprovou, por unanimidade, Deliberação que delega à SRE a concessão de dispensas em ofertas públicas de contratos de… | cvm-col-20150317-d9602 | fichas/colegiado/2015-05.md |
+| decisao-colegiado | 11/2014; 12/2014; 317/1999; 325/2000; RJ2005/2366; RJ2008/9075 | 2015-03-11 | outro | O Colegiado aprovou instrução sobre programas de Depositary Receipts (AP SDM 11/2014), substituindo a ICVM 317/1999. Convocação com 30 dias… | cvm-col-20150311-d4672 | fichas/colegiado/2015-04.md |
+| decisao-colegiado | 14/2011; 10/2014; RJ2007/11580; RJ2014/10543 | 2015-03-04 | outro | O Colegiado aprovou a edição de instrução que regula a administração de carteiras de valores mobiliários, substituindo a ICVM 306/1999… | cvm-col-20150304-d802 | fichas/colegiado/2015-04.md |
+| decisao-colegiado | 14/2011; 10/2014; RJ2007/11580; RJ2014/10543 | 2015-03-03 | — | O Colegiado deu continuidade à discussão de minuta de Instrução, elaborada após as Audiências Públicas SDM 14/2011 e 10/2014, que… | cvm-col-20150303-d802 | fichas/colegiado/2015-04.md |
+| decisao-colegiado | 14/2011; 10/2014; RJ2007/11580; RJ2014/10543 | 2015-02-25 | — | O Colegiado deu continuidade à discussão de minuta, após audiências públicas SDM 14/2011 e 10/2014, que substituirá a Instrução CVM… | cvm-col-20150225-d802 | fichas/colegiado/2015-04.md |
+| decisao-colegiado | 14/2011; 10/2014; RJ2007/11580; RJ2014/10543 | 2015-01-28 | — | O Colegiado deu início à discussão de minuta de Instrução, após audiências públicas SDM 14/2011 e 10/2014, que substituirá a Instrução CVM… | cvm-col-20150128-d802 | fichas/colegiado/2015-03.md |
+| decisao-colegiado | 06/2014; 426/2005; RJ2013/0177 | 2015-01-21 | outro | O Colegiado aprovou, após a Audiência Pública SDM 06/2014, instrução que altera a ICVM 426/2005 sobre o Fundo Garantidor de Parcerias… | cvm-col-20150121-d4966 | fichas/colegiado/2015-02.md |
+| decisao-colegiado | RJ2014/13975 | 2015-01-21 | outro | O Colegiado aprovou para audiência pública, pelo prazo de 90 dias, minuta de Instrução sobre oferta pública de distribuição de notas… | cvm-col-20150121-d4638 | fichas/colegiado/2015-02.md |
+| decisao-colegiado | 02/2014; RJ2012/5550 | 2015-01-14 | outro | O Colegiado aprovou, após audiência pública SDM 02/2014, instrução que altera as Instruções CVM 265/1997 e 427/2006 para modernizar o… | cvm-col-20150114-d4843 | fichas/colegiado/2015-02.md |
+| decisao-colegiado | 11/2014; 12/2014; 317/1999; 325/2000; RJ2005/2366; RJ2008/9075 | 2014-12-16 | deferido | O Colegiado atendeu pedido da ANBIMA e prorrogou até 23.01.2015 o prazo para comentários às minutas das Audiências Públicas SDM 11/2014… | cvm-col-20141216-d29 | fichas/colegiado/2014-27.md |
+| decisao-colegiado | 09/2014; 480/2009; 481/2009; RJ2011/13930 | 2014-12-16 | deferido | O Colegiado deferiu o pedido da ABRASCA e prorrogou, até 22.12.2014, o prazo para comentários à minuta de instrução sobre participação e… | cvm-col-20141216-d28 | fichas/colegiado/2014-26.md |
+| decisao-colegiado | 06/2014; RJ2014/12819 | 2014-12-09 | outro | O Colegiado aprovou a edição de Deliberação que aprova a Orientação Técnica OCPC 08, após audiência pública SNC 06/2014, sobre… | cvm-col-20141209-d18 | fichas/colegiado/2014-25.md |
+| decisao-colegiado | RJ2014/13703 | 2014-12-09 | outro | O Colegiado aprovou, para audiência pública de dez dias, minuta de deliberação que aprova o Documento de Revisão de Pronunciamentos… | cvm-col-20141209-d17 | fichas/colegiado/2014-25.md |
+| decisao-colegiado | 03/2014; RJ2013/11753 | 2014-12-09 | outro | O Colegiado aprovou a edição de instrução que introduz os conceitos de investidor qualificado (investimentos financeiros superiores a R$1… | cvm-col-20141209-d01-r2 | fichas/colegiado/2014-25.md |
+| decisao-colegiado | 03/2014; RJ2013/11753 | 2014-12-03 | — | O Colegiado iniciou a discussão de minuta de Instrução, elaborada após a Audiência Pública SDM 03/2014, que disciplina o conceito de… | cvm-col-20141203-d02 | fichas/colegiado/2014-25.md |
+| decisao-colegiado | 04/2014; 409/2004; RJ2012/13688 | 2014-11-26 | outro | O Colegiado aprovou a edição de Instrução, após audiência pública SDM 04/2014, que substitui a ICVM 409/2004 e regula constituição… | cvm-col-20141126-d01 | fichas/colegiado/2014-24.md |
+| decisao-colegiado | 02/2014; RJ2012/15123 | 2014-11-25 | outro | O Colegiado aprovou a edição de Deliberação que aprova a Interpretação Técnica ICPC 09 (R2), sobre demonstrações individuais, separadas… | cvm-col-20141125-d29 | fichas/colegiado/2014-24.md |
+| decisao-colegiado | 04/2014; RJ2014/7878 | 2014-11-25 | outro | O Colegiado aprovou a edição de Deliberação que aprova a Interpretação Técnica ICPC 20 do CPC (limite de ativo de benefício definido e… | cvm-col-20141125-d24 | fichas/colegiado/2014-24.md |
+| decisao-colegiado | 03/2014; RJ2014/7877 | 2014-11-25 | outro | O Colegiado aprovou a edição de Deliberação, após a Audiência Pública SNC 03/2014, que aprova a Interpretação Técnica ICPC 19 – Tributos… | cvm-col-20141125-d23 | fichas/colegiado/2014-24.md |
+| decisao-colegiado | 01/2014; RJ2014/7881 | 2014-11-25 | outro | O Colegiado aprovou a edição de Deliberação que aprova o Documento de Revisão de Pronunciamentos Técnicos nº 6, com alterações aos treze… | cvm-col-20141125-d22 | fichas/colegiado/2014-23.md |
+| decisao-colegiado | 04/2014; 409/2004; RJ2012/13688 | 2014-11-14 | — | O Colegiado deu continuidade à discussão de minuta, após audiência pública SDM 04/2014, que substituirá a Instrução CVM 409/2004 sobre… | cvm-col-20141114-d01 | fichas/colegiado/2014-22.md |
+| decisao-colegiado | 04/2014; 409/2004; RJ2012/13688 | 2014-11-12 | — | O Colegiado deu início à discussão de minuta de Instrução, após audiência pública SDM 04/2014, que substituirá a Instrução CVM 409/04 sobre… | cvm-col-20141112-d01 | fichas/colegiado/2014-21.md |
+| decisao-colegiado | RJ2014/12819 | 2014-11-11 | outro | O Colegiado aprovou, para audiência pública até 26.11.2014, minuta de deliberação que aprova a Orientação Técnica OCPC 08, sobre… | cvm-col-20141111-d06 | fichas/colegiado/2014-21.md |
+| decisao-colegiado | RJ2005/3331 | 2014-11-11 | outro | Para audiência pública – distribuição de certificados de operações estruturadas (coe). Proc. RJ2005/3331. | cvm-col-20141111-d01-r2 | fichas/colegiado/2014-21.md |
+| decisao-colegiado | 317/1999; 325/2000; RJ2005/2366; RJ2008/9075 | 2014-10-29 | outro | O Colegiado aprovou, para audiência pública de 60 dias, duas minutas de instrução que revogam as Instruções CVM 317/1999 (Depositary… | cvm-col-20141029-d01 | fichas/colegiado/2014-20.md |
+| decisao-colegiado | RJ2014/10543 | 2014-10-22 | outro | O Colegiado aprovou a submissão a audiência pública, pelo prazo de 30 dias, de minuta de instrução que altera a norma de administração de… | cvm-col-20141022-d01 | fichas/colegiado/2014-20.md |
+| decisao-colegiado | 301/1999; RJ2014/8268 | 2014-10-15 | outro | O Colegiado aprovou a edição de Instrução que altera a ICVM 301/1999 (cadastro, registro, operações, comunicação e limites previstos nos… | cvm-col-20141015-d01 | fichas/colegiado/2014-19.md |
+| decisao-colegiado | 481/2009; RJ2011/13930 | 2014-09-26 | outro | O Colegiado aprovou colocar em audiência pública, pelo prazo de 60 dias, minuta de instrução que altera as ICVMs 480/2009 e 481/2009 para… | cvm-col-20140926-d01 | fichas/colegiado/2014-19.md |
+| decisao-colegiado | RJ2013/1292 | 2014-09-23 | outro | O Colegiado aprovou a minuta de portaria da SDM que dispõe sobre o processo de regulação da CVM, com revisão do Comitê de Regulação. | cvm-col-20140923-d01 | fichas/colegiado/2014-18.md |
+| decisao-colegiado | 01/2014; 400/2003; 476/2009; RJ2013/5756 | 2014-09-17 | outro | O Colegiado aprovou a edição de Instrução, após a Audiência Pública SDM 01/2014, que altera as ICVMs 400/2003 e 476/2009 para incluir ações… | cvm-col-20140917-d01 | fichas/colegiado/2014-18.md |
+| decisao-colegiado | 01/2014; 400/2003; 476/2009; RJ2013/5756 | 2014-09-10 | — | Não houve deliberação. O Colegiado iniciou a discussão da minuta de Instrução, elaborada após a Audiência Pública SDM 01/2014, que altera… | cvm-col-20140910-d01 | fichas/colegiado/2014-18.md |
+| decisao-colegiado | 481/2009; RJ2011/13930 | 2014-09-03 | — | Apresentação, por grupo de trabalho coordenado pela Anbima, de sistema para viabilizar o voto a distância de acionistas em assembleias… | cvm-col-20140903-d01 | fichas/colegiado/2014-17.md |
+| decisao-colegiado | 03/2013; 358/2002; 480/2009; 481/2009; RJ2010/7200 | 2014-08-27 | outro | O Colegiado aprovou a edição de Instrução, após a Audiência Pública SDM 03/2013, que altera as ICVM 358/2002, 480/2009 e 481/2009 para… | cvm-col-20140827-d01 | fichas/colegiado/2014-16.md |
+| decisao-colegiado | 301/1999; RJ2014/8268 | 2014-08-26 | outro | O Colegiado aprovou a colocação em audiência pública, pelo prazo de 15 dias, de minuta que altera a Instrução CVM 301/1999 (PLD), para… | cvm-col-20140826-d18 | fichas/colegiado/2014-16.md |
+| decisao-colegiado | SP2014/0167 | 2014-08-26 | outro | O Colegiado respondeu consulta da ISDA sobre o alcance do §4º do art. 2º da Lei 6.385/1976 (incluído pela Lei 12.543/2011): o registro não… | cvm-col-20140826-d01 | fichas/colegiado/2014-15.md |
+| decisao-colegiado | 03/2013; 358/2002; 480/2009; 481/2009; RJ2010/7200 | 2014-08-20 | — | O Colegiado deu continuidade à discussão de minuta de Instrução, elaborada após a Audiência Pública SDM 03/2013, que altera as Instruções… | cvm-col-20140820-d01 | fichas/colegiado/2014-15.md |
+| decisao-colegiado | RJ2013/1292 | 2014-08-19 | — | O Colegiado continuou a discussão da minuta de Portaria sobre o processo de regulação da CVM e determinou alterações em seu texto. O… | cvm-col-20140819-d01 | fichas/colegiado/2014-15.md |
+| decisao-colegiado | 03/2013; 358/2002; 480/2009; 481/2009; RJ2010/7200 | 2014-08-13 | — | O Colegiado deu início à discussão de minuta, após audiência pública SDM 03/2013, que altera as Instruções CVM 358/02, 480/09 e 481/09 para… | cvm-col-20140813-d01 | fichas/colegiado/2014-15.md |
+| decisao-colegiado | RJ2013/1292 | 2014-08-12 | — | O Colegiado iniciou a discussão de minuta de portaria sobre o processo de regulação da CVM (revisão do Comitê de Regulação). Decisão adiada. | cvm-col-20140812-d14 | fichas/colegiado/2014-15.md |
+| decisao-colegiado | RJ2014/7877 | 2014-08-12 | outro | O Colegiado aprovou, para audiência pública até 15.09.2014, minuta de deliberação que aprova a Interpretação Técnica ICPC 19 – Tributos… | cvm-col-20140812-d07 | fichas/colegiado/2014-15.md |
+| decisao-colegiado | 14/2011; 306/1999; RJ2007/11580 | 2014-08-06 | outro | Em diretrizes para a nova norma que substituirá a ICVM 306/1999 (administração, gestão e consultoria de valores mobiliários), o Colegiado… | cvm-col-20140806-d02 | fichas/colegiado/2014-14.md |
+| decisao-colegiado | RJ2005/3331 | 2014-08-06 | outro | Proposta de regulação – certificados de operações estruturadas (coe) – diretrizes para a regulamentação. Proc. RJ2005/3331. | cvm-col-20140806-d01 | fichas/colegiado/2014-14.md |
+| decisao-colegiado | RJ2005/3331 | 2014-07-30 | — | Proposta de regulação – certificados de operações estruturadas (coe) – diretrizes para a regulamentação do produto. Proc. RJ2005/3331. | cvm-col-20140730-d01 | fichas/colegiado/2014-14.md |
+| decisao-colegiado | 05/2014; 401/2003; RJ2013/2188 | 2014-07-15 | outro | O Colegiado aprovou, após a Audiência Pública SDM 05/2014, Instrução que altera dispositivo da ICVM 401/2003 sobre o prazo de colocação dos… | cvm-col-20140715-d05 | fichas/colegiado/2014-13.md |
+| decisao-colegiado | 03/2014; 04/2014; 409/2004; RJ2013/11753; RJ2012/13688 | 2014-06-24 | deferido | O Colegiado deferiu pedido da ANBIMA e prorrogou até 10.07.2014 o prazo para comentários às Audiências Públicas SDM 03/2014 (novo conceito… | cvm-col-20140624-d03 | fichas/colegiado/2014-12.md |
+| decisao-colegiado | 13/2013; 409/2004; RJ2013/12178 | 2014-06-11 | outro | O Colegiado aprovou, após a Audiência Pública SDM 13/2013, Instrução que altera a ICVM 409/2004 para criar o fundo de investimento em ações… | cvm-col-20140611-d01 | fichas/colegiado/2014-12.md |
+| decisao-colegiado | 43/2014; RJ2008/9075 | 2014-06-04 | outro | O Colegiado aprovou o encaminhamento ao BCB do relatório da SDM sobre os comentários à Audiência Pública BCB nº 43/2014, relativa a minuta… | cvm-col-20140604-d01 | fichas/colegiado/2014-11.md |
+| decisao-colegiado | 426/2005; RJ2013/0177 | 2014-05-20 | outro | Para audiência pública. Proc. RJ2013/0177. | cvm-col-20140520-d18 | fichas/colegiado/2014-10.md |
+| decisao-colegiado | 401/2003; RJ2013/2188 | 2014-05-20 | outro | O Colegiado aprovou, para audiência pública de 30 dias, minuta de Instrução que altera a ICVM 401/2003 para ampliar de 6 meses para 2 anos… | cvm-col-20140520-d17 | fichas/colegiado/2014-10.md |
+| decisao-colegiado | 472/2008; 400/2003; RJ2012/6197 | 2014-05-06 | outro | O Colegiado aprovou, para audiência pública de 60 dias, minuta de Instrução que altera as ICVM 472/2008 (FII) e 400/2003 para aprimorar a… | cvm-col-20140506-d01-r2 | fichas/colegiado/2014-08.md |
+| decisao-colegiado | RJ2012/6197 | 2014-04-30 | — | O Colegiado deu início à discussão, para audiência pública, da reforma da Instrução CVM 472/08 sobre fundos de investimento imobiliário… | cvm-col-20140430-d01 | fichas/colegiado/2014-08.md |
+| decisao-colegiado | 12/2013; 400/2003; RJ2011/9292 | 2014-04-16 | outro | O Colegiado aprovou a edição de instrução, após a Audiência Pública SDM 12/2013, que altera a Instrução CVM 400/03 para dispensar a… | cvm-col-20140416-d01 | fichas/colegiado/2014-07.md |
+| decisao-colegiado | 409/2004; RJ2012/13688 | 2014-04-02 | outro | O Colegiado aprovou, para audiência pública de 60 dias, minuta de instrução que substituirá a Instrução CVM 409/2004 e regulará… | cvm-col-20140402-d01 | fichas/colegiado/2014-06.md |
+| decisao-colegiado | RJ2011/2838 | 2014-04-01 | outro | O Colegiado aprovou proposta da SDM, no âmbito do Convênio com o Banco Central, de encaminhar lista de normativos do CMN revogados… | cvm-col-20140401-d06 | fichas/colegiado/2014-06.md |
+| decisao-colegiado | RJ2013/11753 | 2014-03-26 | outro | O Colegiado aprovou, para audiência pública de 60 dias, minuta de Instrução que disciplina o novo conceito de investidor qualificado e… | cvm-col-20140326-d01 | fichas/colegiado/2014-05.md |
+| decisao-colegiado | 409/2004; RJ2012/13688 | 2014-03-19 | — | Sem deliberação do Colegiado: deu continuidade à discussão da alteração da Instrução CVM 409/04, que dispõe sobre constituição… | cvm-col-20140319-d01 | fichas/colegiado/2014-05.md |
+| decisao-colegiado | 409/2004; RJ2012/13688 | 2014-03-12 | — | O Colegiado deu continuidade à discussão da alteração da Instrução CVM 409/04, sobre constituição, administração, funcionamento e… | cvm-col-20140312-d01 | fichas/colegiado/2014-04.md |
+| decisao-colegiado | 409/2004; RJ2012/13688 | 2014-02-26 | — | O Colegiado deu continuidade à discussão de alteração da Instrução CVM 409/04, sobre constituição, administração, funcionamento e… | cvm-col-20140226-d01 | fichas/colegiado/2014-04.md |
+| decisao-colegiado | 409/2004; RJ2012/13688 | 2014-02-18 | — | O Colegiado deu continuidade à discussão, para audiência pública, de alteração da Instrução CVM 409/04 sobre constituição, administração… | cvm-col-20140218-d01 | fichas/colegiado/2014-03.md |
+| decisao-colegiado | — | 2014-02-18 | — | Sem deliberação do Colegiado: iniciou a discussão de minuta de Deliberação que dispõe sobre autorização para o Banco Interamericano de… | cvm-col-20140218-d01-r2 | fichas/colegiado/2014-03.md |
+| decisao-colegiado | RJ2013/11760 | 2014-02-11 | — | O Colegiado retomou a discussão da minuta de Deliberação que altera a disciplina sobre ofício de alerta e decidiu aprofundar a discussão… | cvm-col-20140211-d01 | fichas/colegiado/2014-02.md |
+| decisao-colegiado | 08/2013; 358/2002; 480/2009; RJ2013/5758 | 2014-01-29 | outro | O Colegiado aprovou a edição de Instrução, após a Audiência Pública SDM 08/2013, que altera as Instruções CVM 358/2002 e 480/2009. A norma… | cvm-col-20140129-d02 | fichas/colegiado/2014-02.md |
+| decisao-colegiado | 10/2013; RJ2011/12858 | 2014-01-29 | outro | O Colegiado aprovou a edição de Instrução, após audiência pública SDM 10/2013, que reforma o Programa de Distribuição Contínua (PDC) de… | cvm-col-20140129-d01 | fichas/colegiado/2014-02.md |
+| decisao-colegiado | RJ2013/11760 | 2014-01-28 | — | O Colegiado discutiu a minuta de Deliberação que revoga a Deliberação CVM 542/08 e altera a disciplina sobre ofício de alerta, e decidiu… | cvm-col-20140128-d01 | fichas/colegiado/2014-02.md |
+| decisao-colegiado | RJ2012/5550 | 2014-01-22 | outro | O Colegiado aprovou, para audiência pública de 30 dias, minuta que altera as Instruções CVM 265/97 e 427/06 para modernizar o regime… | cvm-col-20140122-d02 | fichas/colegiado/2014-02.md |
+| decisao-colegiado | 11/2013; RJ2003/1074; RJ2008/11441; RJ2011/3464 | 2013-12-17 | deferido | O Colegiado, atendendo a pedido da ANBIMA, prorrogou por mais trinta dias, até 03.02.2014, o prazo para comentários à minuta de Instrução… | cvm-col-20131217-d29 | fichas/colegiado/2013-24.md |
+| decisao-colegiado | RJ2013/13148 | 2013-12-17 | outro | O Colegiado aprovou, para audiência pública até 19.02.2014, minuta de deliberação que aprova o Documento de Revisão de Pronunciamentos… | cvm-col-20131217-d26 | fichas/colegiado/2013-24.md |
+| decisao-colegiado | 02/2013; RJ2013/9745 | 2013-12-17 | outro | O Colegiado aprovou a Deliberação que edita o Documento de Revisão de Interpretações Técnicas nº 01 das ICPC 03, 07, 13, 14 e 16 do CPC… | cvm-col-20131217-d23 | fichas/colegiado/2013-24.md |
+| decisao-colegiado | 409/2004; RJ2012/13688 | 2013-12-03 | — | O Colegiado deu continuidade à discussão da alteração da Instrução CVM 409/04, sobre constituição, administração, funcionamento e… | cvm-col-20131203-d08 | fichas/colegiado/2013-23.md |
+| decisao-colegiado | 06/2013; RJ2003/11499 | 2013-11-27 | — | O Colegiado deu início à discussão de três instruções, após audiência pública SDM 06/2013, que revogam a Instrução CVM 89/88 e regulam… | cvm-col-20131127-d01 | fichas/colegiado/2013-23.md |
+| decisao-colegiado | 409/2004; RJ2012/13688 | 2013-11-26 | — | O Colegiado deu continuidade à discussão, para audiência pública, de alteração da Instrução CVM 409/04 sobre constituição, administração… | cvm-col-20131126-d06 | fichas/colegiado/2013-22.md |
+| decisao-colegiado | 409/2004; RJ2013/12178 | 2013-11-26 | outro | O Colegiado aprovou, para audiência pública de 30 dias, minuta de instrução que altera a ICVM 409/04 (fundos de investimento), refletindo… | cvm-col-20131126-d05 | fichas/colegiado/2013-22.md |
+| decisao-colegiado | 08/2005; 168/1991; RJ2004/0140 | 2013-11-26 | outro | O Colegiado, por unanimidade, arquivou a Audiência Pública SDM 08/2005, que tinha por objetivo revisar a Instrução CVM 168/91… | cvm-col-20131126-d04 | fichas/colegiado/2013-22.md |
+| decisao-colegiado | 400/2003; RJ2011/9292 | 2013-11-19 | outro | O Colegiado aprovou, para audiência pública de 60 dias, minuta que altera a Instrução CVM 400/03 para dispensar a publicação em jornal dos… | cvm-col-20131119-d08 | fichas/colegiado/2013-22.md |
+| decisao-colegiado | 07/2013; 391/2003; RJ2013/5710 | 2013-11-19 | outro | O Colegiado aprovou a edição de Instrução, após a Audiência Pública SDM 07/2013, que altera a ICVM 391/03 sobre Fundos de Investimento em… | cvm-col-20131119-d07 | fichas/colegiado/2013-22.md |
+| decisao-colegiado | 15/2011; RJ2011/1898 | 2013-10-30 | outro | O Colegiado aprovou a edição de instrução, após audiência pública SDM 15/2011, que dispõe sobre o dever de verificação da adequação de… | cvm-col-20131030-d01 | fichas/colegiado/2013-21.md |
+| decisao-colegiado | 05/2010; 483/2010; RJ2010/12770 | 2013-10-15 | outro | O Colegiado aprovou a edição de instrução, após audiência pública SDM 05/2010, que altera a Instrução CVM 483/10, sobre a atividade de… | cvm-col-20131015-d28 | fichas/colegiado/2013-20.md |
+| decisao-colegiado | RJ2013/5756 | 2013-10-09 | — | O Colegiado deu continuidade à discussão de minuta que incluiria ações e debêntures conversíveis ou permutáveis em ações no rol de valores… | cvm-col-20131009-d01 | fichas/colegiado/2013-19.md |
+| decisao-colegiado | RJ2013/5756 | 2013-10-08 | — | O Colegiado deu continuidade à discussão de minuta que inclui ações e debêntures conversíveis ou permutáveis em ações no rol de valores… | cvm-col-20131008-d01-r2 | fichas/colegiado/2013-18.md |
+| decisao-colegiado | 08/2013; 358/2002; 480/2009; RJ2013/5758 | 2013-09-25 | outro | O Colegiado, atendendo a pedido da AMEC, prorrogou até 10/10/2013 o prazo para comentários à audiência pública SDM 08/2013, sobre minuta… | cvm-col-20130925-d01 | fichas/colegiado/2013-18.md |
+| decisao-colegiado | 400/2003 | 2013-09-24 | outro | O Colegiado aprovou, para audiência pública de 30 dias, minuta que altera a Instrução CVM 400/03 (ofertas públicas de distribuição) para… | cvm-col-20130924-d05 | fichas/colegiado/2013-17.md |
+| decisao-colegiado | RJ2013/9745 | 2013-09-18 | outro | O Colegiado aprovou, para audiência pública de 30 dias, a minuta de deliberação que aprova o Documento de Revisão de Interpretações… | cvm-col-20130918-d02 | fichas/colegiado/2013-17.md |
+| decisao-colegiado | 13/2012; RJ2012/15066 | 2013-09-18 | outro | O Colegiado aprovou a Deliberação que aprova a Interpretação Técnica ICPC 18 (custos de remoção de estéril na fase de produção de mina de… | cvm-col-20130918-d01 | fichas/colegiado/2013-17.md |
+| decisao-colegiado | RJ2013/5756 | 2013-09-17 | — | O Colegiado deu início à discussão de alteração da Instrução CVM 476/09 para incluir ações e debêntures conversíveis ou permutáveis em… | cvm-col-20130917-d07 | fichas/colegiado/2013-17.md |
+| decisao-colegiado | RJ2003/1074; RJ2008/11441; RJ2011/3464 | 2013-09-10 | outro | O Colegiado aprovou, para audiência pública de 60 dias, minuta de Instrução que revoga a Instrução CVM 10/80 (aquisição de ações próprias)… | cvm-col-20130910-d04 | fichas/colegiado/2013-16.md |
+| decisao-colegiado | RJ2003/1074; RJ2008/11441; RJ2011/3464 | 2013-09-04 | — | Sem deliberação final: o Colegiado deu continuidade à discussão de minuta de Instrução que revogaria a Instrução CVM 10/80 (ações de… | cvm-col-20130904-d01 | fichas/colegiado/2013-16.md |
+| decisao-colegiado | RJ2003/1074; RJ2008/11441; RJ2011/3464 | 2013-08-28 | — | O Colegiado deu continuidade à discussão de minuta para revogar as Instruções CVM 10/80 (recompra de ações para cancelamento ou tesouraria)… | cvm-col-20130828-d01 | fichas/colegiado/2013-16.md |
+| decisao-colegiado | 06/2013; RJ2003/11499 | 2013-08-23 | parcial | O Colegiado atendeu em parte o pedido da ATG – Americas Trading Group S.A. e prorrogou até 10.09.13 o prazo para comentários às minutas de… | cvm-col-20130823-d01 | fichas/colegiado/2013-16.md |
+| decisao-colegiado | RJ2003/1074; RJ2008/11441; RJ2011/3464 | 2013-08-21 | — | O Colegiado deu continuidade à discussão de minuta de Instrução que revogaria as Instruções CVM 10/80 e 390/03 e alteraria a Instrução CVM… | cvm-col-20130821-d01 | fichas/colegiado/2013-16.md |
+| decisao-colegiado | 358/2002; 480/2009; RJ2013/5758 | 2013-08-20 | outro | O Colegiado aprovou minuta de Instrução que altera a Instrução CVM 358/02 (ato ou fato relevante) e a Instrução CVM 480/09 (registro de… | cvm-col-20130820-d01 | fichas/colegiado/2013-15.md |
+| decisao-colegiado | RJ2003/1074; RJ2008/11441; RJ2011/3464 | 2013-08-14 | — | O Colegiado deu continuidade à discussão de minuta que revoga as Instruções CVM 10/80 (ações de emissão própria) e 390/03 (opções sobre… | cvm-col-20130814-d01 | fichas/colegiado/2013-15.md |
+| decisao-colegiado | 08/2012; 359/2002; RJ2012/10996 | 2013-08-07 | outro | O Colegiado aprovou a edição de Instrução, após audiência pública SDM 08/2012, que altera a Instrução CVM 359/02 para dispor sobre a… | cvm-col-20130807-d01 | fichas/colegiado/2013-14.md |
+| decisao-colegiado | RJ2003/1074; RJ2008/11441; RJ2011/3464 | 2013-07-03 | — | O Colegiado deu início à discussão de minuta de Instrução que revogaria as Instruções CVM 10/80 (aquisição de ações próprias) e 390/03… | cvm-col-20130703-d01 | fichas/colegiado/2013-13.md |
+| decisao-colegiado | RJ2013/5710 | 2013-07-02 | outro | O Colegiado aprovou minuta de instrução que altera a Instrução CVM 391/03 (fundos de investimento em participações) para audiência pública… | cvm-col-20130702-d03 | fichas/colegiado/2013-13.md |
+| decisao-colegiado | 04/2013; RJ2009/12670 | 2013-06-18 | deferido | O Colegiado deferiu pedidos da AMEC e do IBGC e prorrogou até 22.07.13 o prazo para comentários à minuta que altera a Instrução CVM 319/99… | cvm-col-20130618-d01 | fichas/colegiado/2013-12.md |
+| decisao-colegiado | RJ2013/6438 | 2013-06-12 | outro | O Colegiado aprovou, para audiência pública até 12 de agosto de 2013, convite a manifestações sobre opções regulatórias para riscos… | cvm-col-20130612-d02 | fichas/colegiado/2013-12.md |
+| decisao-colegiado | RJ2003/11499 | 2013-06-12 | outro | O Colegiado aprovou para audiência pública, pelo prazo de 60 dias, minutas de Instrução que alteram a Instrução CVM 89/88, com regras de… | cvm-col-20130612-d01 | fichas/colegiado/2013-12.md |
+| decisao-colegiado | 003/2013 | 2013-05-28 | outro | O Colegiado aprovou a Deliberação apresentada pela SGE que regulamenta os procedimentos de acesso à informação na CVM, à luz da Lei… | cvm-col-20130528-d14 | fichas/colegiado/2013-11.md |
+| decisao-colegiado | RJ2003/11499 | 2013-05-16 | — | O Colegiado deu continuidade à discussão de minutas que substituirão a Instrução CVM 89/88, sobre depósito centralizado, custódia… | cvm-col-20130516-d01 | fichas/colegiado/2013-10.md |
+| decisao-colegiado | 03/2013; RJ2010/7200 | 2013-05-14 | deferido | O Colegiado deferiu o pedido da ABRASCA de prorrogação, até 29.05.13, do prazo para comentários à minuta que altera as Instruções CVM… | cvm-col-20130514-d10 | fichas/colegiado/2013-10.md |
+| decisao-colegiado | RJ2009/12670 | 2013-05-09 | outro | O Colegiado aprovou, para audiência pública de 30 dias, minuta de instrução com novas regras para fusão, cisão, incorporação e incorporação… | cvm-col-20130509-d01 | fichas/colegiado/2013-10.md |
+| decisao-colegiado | RJ2003/11499 | 2013-05-08 | — | O Colegiado deu continuidade à discussão de minutas de Instrução que substituirão a Instrução CVM 89/88, sobre prestação de serviços de… | cvm-col-20130508-d01 | fichas/colegiado/2013-10.md |
+| decisao-colegiado | RJ2003/11499 | 2013-04-10 | — | O Colegiado iniciou a discussão das minutas de Instrução que substituirão a Instrução CVM 89/88, sobre depósito centralizado, custódia… | cvm-col-20130410-d01 | fichas/colegiado/2013-09.md |
+| decisao-colegiado | 07/2012; RJ2011/8043 | 2013-04-08 | outro | O Colegiado aprovou a edição de Instrução, após a Audiência Pública SDM 07/2012, que altera o art. 48 da Instrução CVM 400/03 para ampliar… | cvm-col-20130408-d01 | fichas/colegiado/2013-08.md |
+| decisao-colegiado | 301/1999; SP2013/0174 | 2013-04-02 | outro | O Colegiado aprovou a edição de Deliberação que delega ao titular da SMI a competência para autorizar intermediários a adotarem sistemas… | cvm-col-20130402-d10 | fichas/colegiado/2013-08.md |
+| decisao-colegiado | RJ2009/12670 | 2013-04-01 | — | O Colegiado deu início à discussão de alteração da Instrução CVM 319/99, sobre fusão, cisão, incorporação e incorporação de ações de… | cvm-col-20130401-d01 | fichas/colegiado/2013-07.md |
+| decisao-colegiado | 07/2011; RJ2011/8208 | 2013-03-27 | outro | O Colegiado aprovou a edição de Deliberação que aprova a Orientação Técnica OCPC 06, após audiência pública SNC 07/2011, sobre informações… | cvm-col-20130327-d02 | fichas/colegiado/2013-07.md |
+| decisao-colegiado | 02/2013; 504/2011; RJ2012/3958 | 2013-03-12 | outro | O Colegiado aprovou a edição de instrução, após audiência pública SDM 02/2013, que altera a Instrução CVM 504/11 sobre o envio de dados da… | cvm-col-20130312-d06 | fichas/colegiado/2013-06.md |
+| decisao-colegiado | RJ2010/7200 | 2013-03-06 | outro | O Colegiado aprovou, para audiência pública de 60 dias, minuta de Instrução que altera as Instruções CVM 358/02, 480/09 e 481/09, para… | cvm-col-20130306-d01 | fichas/colegiado/2013-06.md |
+| decisao-colegiado | RJ2010/7200 | 2013-02-06 | — | O Colegiado continuou a discussão da reforma da Instrução CVM 480/09 (registro de emissor de valores mobiliários), a ser submetida a… | cvm-col-20130206-d01 | fichas/colegiado/2013-04.md |
+| decisao-colegiado | 05/2012; RJ2009/7807 | 2013-01-30 | outro | O Colegiado aprovou a edição de Instrução, elaborada após a Audiência Pública SDM 05/2012, que dispõe sobre as atribuições dos prestadores… | cvm-col-20130130-d01 | fichas/colegiado/2013-03.md |
+| decisao-colegiado | RJ2010/7200 | 2013-01-16 | — | O Colegiado iniciou a discussão da reforma da Instrução CVM 480/09, sobre registro de emissor de valores mobiliários, sem deliberação nesta… | cvm-col-20130116-d01 | fichas/colegiado/2013-02.md |
+| decisao-colegiado | RJ2012/3958 | 2013-01-09 | outro | O Colegiado aprovou, para audiência pública por 30 dias, minuta de instrução que altera a Instrução CVM 504/11, sobre envio de informações… | cvm-col-20130109-d02 | fichas/colegiado/2013-01.md |
+| decisao-colegiado | RJ2011/9419 | 2013-01-09 | outro | O Colegiado deu diretrizes à SDM para iniciar a elaboração de minuta de instrução sobre a regulamentação do art. 55 da Lei 6.404/76… | cvm-col-20130109-d01 | fichas/colegiado/2013-01.md |
+| decisao-colegiado | RJ2012/15123 | 2012-12-19 | outro | O Colegiado aprovou minuta de Deliberação que aprova a Interpretação Técnica ICPC 09(R2), sobre demonstrações individuais, separadas… | cvm-col-20121219-d04 | fichas/colegiado/2012-27.md |
+| decisao-colegiado | 08/2012; RJ2012/13609 | 2012-12-19 | outro | O Colegiado aprovou, por unanimidade, a edição de Deliberação, elaborada após a Audiência Pública SNC 08/2012, que aprova o Pronunciamento… | cvm-col-20121219-d01 | fichas/colegiado/2012-27.md |
+| decisao-colegiado | 09/2012; RJ2012/13610 | 2012-12-12 | outro | O Colegiado aprovou, por unanimidade, a edição de Deliberação que aprova o Pronunciamento Técnico CPC 45 (IFRS 12), sobre divulgação de… | cvm-col-20121212-d04 | fichas/colegiado/2012-24.md |
+| decisao-colegiado | RJ2009/4333 | 2012-12-12 | outro | Para audiência pública. Proc. RJ2009/4333. | cvm-col-20121212-d01 | fichas/colegiado/2012-24.md |
+| decisao-colegiado | RJ2011/8260 | 2012-11-28 | outro | O Colegiado aprovou submeter à audiência pública, por 30 dias, minuta que altera a Instrução CVM 391/03 (FIP) para permitir ao… | cvm-col-20121128-d01 | fichas/colegiado/2012-22.md |
+| decisao-colegiado | 07/2012; RJ2012/10615 | 2012-11-22 | outro | O Colegiado, por unanimidade, aprovou a edição de Deliberação, após audiência pública SNC 07/2012, que aprova o Pronunciamento Técnico CPC… | cvm-col-20121122-d07 | fichas/colegiado/2012-21.md |
+| decisao-colegiado | RJ2012/13794 | 2012-11-22 | outro | O Colegiado aprovou, por unanimidade, para audiência pública até 05 de dezembro de 2012, minuta de deliberação que aprova o Pronunciamento… | cvm-col-20121122-d06 | fichas/colegiado/2012-21.md |
+| decisao-colegiado | RJ2012/13610 | 2012-11-14 | outro | O Colegiado aprovou, para audiência pública até 05.12.2012, minuta de deliberação que aprova o Pronunciamento Técnico CPC 45 (IFRS 12)… | cvm-col-20121114-d02 | fichas/colegiado/2012-21.md |
+| decisao-colegiado | RJ2012/13609 | 2012-11-14 | outro | Para audiência pública – minuta de deliberação que aprova o pronunciamento técnico CPC 36 (R3) – demonstrações consolidadas (IFRS 10)… | cvm-col-20121114-d01 | fichas/colegiado/2012-21.md |
+| decisao-colegiado | 04/2012; RJ2011/2699 | 2012-11-06 | outro | O Colegiado aprovou a edição de Instrução, após audiência pública SDM 04/2012, que dispõe sobre regras de proteção ao processo de formação… | cvm-col-20121106-d04-r2 | fichas/colegiado/2012-20.md |
+| decisao-colegiado | 06/2012; RJ2012/10621 | 2012-11-06 | outro | Após audiência pública SNC 06/2012 – minuta de deliberação que aprova o pronunciamento técnico CPC 35(R2) – demonstrações separadas. Proc… | cvm-col-20121106-d03-r2 | fichas/colegiado/2012-20.md |
+| decisao-colegiado | 05/2012; RJ2012/10624 | 2012-11-06 | outro | O Colegiado aprovou a edição de Deliberação, após audiência pública SNC 05/2012, que aprova a revisão do Pronunciamento CPC 30(R1)… | cvm-col-20121106-d02-r2 | fichas/colegiado/2012-20.md |
+| decisao-colegiado | 04/2012; RJ2012/10622 | 2012-11-06 | outro | O Colegiado aprovou a edição de Deliberação, após audiência pública SNC 04/2012, que aprova o Pronunciamento Técnico CPC 17(R1), Contratos… | cvm-col-20121106-d01-r2 | fichas/colegiado/2012-20.md |
+| decisao-colegiado | 03/2012; RJ2010/3269 | 2012-10-31 | outro | O Colegiado aprovou a edição de Instrução, após audiência pública SDM 03/2012, que dispõe sobre a atividade de Ouvidoria no âmbito do… | cvm-col-20121031-d01 | fichas/colegiado/2012-20.md |
+| decisao-colegiado | 02/2012; RJ2011/3794 | 2012-10-10 | outro | O Colegiado aprovou a edição de Instrução, após a Audiência Pública SDM 02/2012, que altera a ICVM 472/08 (fundos de investimento… | cvm-col-20121010-d05 | fichas/colegiado/2012-18.md |
+| decisao-colegiado | 13/2010; RJ2010/17167 | 2012-10-02 | outro | O Colegiado aprovou instrução e nota explicativa, após Audiência Pública SNC 13/2010, sobre a divulgação voluntária de informações não… | cvm-col-20121002-d10 | fichas/colegiado/2012-18.md |
+| decisao-colegiado | 359/2002; RJ2012/10996 | 2012-09-19 | outro | O Colegiado aprovou, para audiência pública de 30 dias, minuta de instrução que altera a Instrução CVM 359/02 sobre fundos de índice… | cvm-col-20120919-d01 | fichas/colegiado/2012-17.md |
+| decisao-colegiado | RJ2011/13369 | 2012-09-04 | outro | O Colegiado aprovou a edição de instrução, após a Audiência Pública SDM 06/2012, que altera as ICVM 400/03 e 480/09 para equalizar os… | cvm-col-20120904-d20 | fichas/colegiado/2012-16.md |
+| decisao-colegiado | 02/2012; RJ2012/2117 | 2012-08-28 | outro | O Colegiado aprovou a edição de Deliberação, após audiência pública SNC 02/2012, que aprova a Interpretação Técnica ICPC 08(R1) do Comitê… | cvm-col-20120828-d02 | fichas/colegiado/2012-14.md |
+| decisao-colegiado | RJ2012/6651 | 2012-07-24 | outro | O Colegiado aprovou minuta de Instrução da SDM que prorroga prazos de entrada em vigor da Instrução CVM 522/12 e corroborou o entendimento… | cvm-col-20120724-d04 | fichas/colegiado/2012-12.md |
+| decisao-colegiado | RJ2011/13369 | 2012-07-11 | outro | O Colegiado aprovou, para audiência pública de 30 dias, proposta de alteração das Instruções CVM 400/03 e 480/09 para equalizar os prazos… | cvm-col-20120711-d03 | fichas/colegiado/2012-12.md |
+| decisao-colegiado | RJ2011/8043 | 2012-07-11 | — | O Colegiado deu início às discussões de minuta que altera o art. 48 da Instrução CVM 400/03 para ampliar as exceções à vedação de… | cvm-col-20120711-d02 | fichas/colegiado/2012-12.md |
+| decisao-colegiado | 14/2011; RJ2007/11580 | 2012-07-11 | — | Sem deliberação registrada. O Colegiado deu continuidade à discussão da minuta de instrução que substituirá a Instrução CVM 306/99, sobre… | cvm-col-20120711-d01 | fichas/colegiado/2012-12.md |
+| decisao-colegiado | 14/2011; RJ2007/11580 | 2012-07-04 | — | O Colegiado deu continuidade à discussão da minuta de Instrução que substituirá a ICVM 306/99, sobre administração, gestão e consultoria de… | cvm-col-20120704-d01 | fichas/colegiado/2012-11.md |
+| decisao-colegiado | 14/2011; RJ2007/11580 | 2012-06-27 | — | O Colegiado deu início à discussão de minuta de instrução, após audiência pública SDM 14/2011, que substituirá a Instrução CVM 306/99 sobre… | cvm-col-20120627-d03 | fichas/colegiado/2012-11.md |
+| decisao-colegiado | RJ2011/2699 | 2012-06-27 | outro | O Colegiado aprovou a colocação em audiência pública, por 30 dias, de minuta de Instrução que veda a aquisição de ações em ofertas públicas… | cvm-col-20120627-d02 | fichas/colegiado/2012-11.md |
+| decisao-colegiado | 522/2012; RJ2011/2081 | 2012-06-27 | outro | O Colegiado aprovou minuta de Instrução da SDM que altera as Instruções CVM 409/04 e 522/12, em resposta a pedido da ANBIMA, condicionada a… | cvm-col-20120627-d01 | fichas/colegiado/2012-11.md |
+| decisao-colegiado | RJ2010/3269 | 2012-06-19 | outro | O Colegiado aprovou, para audiência pública de 30 dias, minuta de instrução sobre a atividade de ouvidoria no mercado de valores… | cvm-col-20120619-d08 | fichas/colegiado/2012-10.md |
+| decisao-colegiado | RJ2009/7807 | 2012-06-06 | outro | O Colegiado aprovou, para audiência pública de 60 dias, proposta de alteração da Instrução CVM 356/01 (FIDC e FICFIDC) e da Instrução CVM… | cvm-col-20120606-d01 | fichas/colegiado/2012-10.md |
+| decisao-colegiado | 01/2012; RJ2012/1233 | 2012-05-09 | outro | O Colegiado aprovou a edição de instrução, após audiência pública SDM 01/2012, que altera a Instrução CVM 301/99 e dispõe sobre… | cvm-col-20120509-d01 | fichas/colegiado/2012-09.md |
+| decisao-colegiado | RJ2010/3269 | 2012-05-08 | — | O Colegiado deu continuidade à discussão de minuta de Instrução que institui a ouvidoria no mercado de valores mobiliários, com diretrizes… | cvm-col-20120508-d01 | fichas/colegiado/2012-08.md |
+| decisao-colegiado | RJ2010/3269 | 2012-05-02 | — | O Colegiado iniciou a discussão de minuta de Instrução sobre a ouvidoria no mercado de valores mobiliários, que disciplinaria as demandas a… | cvm-col-20120502-d01-r2 | fichas/colegiado/2012-08.md |
+| decisao-colegiado | 16/2011; RJ2008/10842 | 2012-04-11 | — | O Colegiado deu início à discussão, após audiência pública SDM 16/2011, de minuta que regulamenta a classificação de risco de crédito no… | cvm-col-20120411-d01 | fichas/colegiado/2012-07.md |
+| decisao-colegiado | 12/2011; RJ2011/1897 | 2012-04-10 | outro | O Colegiado aprovou a edição de instrução que altera o Anexo 32-II da Instrução CVM 480/09, sobre registro de emissores de valores… | cvm-col-20120410-d06 | fichas/colegiado/2012-07.md |
+| decisao-colegiado | RJ2011/3794 | 2012-03-28 | outro | O Colegiado aprovou, para audiência pública de 30 dias, minuta de Instrução que altera pontualmente a Instrução CVM 472/08 (FII), para… | cvm-col-20120328-d02 | fichas/colegiado/2012-06.md |
+| decisao-colegiado | 06/2011; RJ2011/2081 | 2012-03-28 | outro | O Colegiado aprovou a edição de instrução, após audiência pública SDM 06/2011, que altera a Instrução CVM 409/04 quanto a demonstração de… | cvm-col-20120328-d01 | fichas/colegiado/2012-06.md |
+| decisao-colegiado | 06/2011; RJ2011/2081 | 2012-03-14 | — | O Colegiado deu início à discussão de instrução, após audiência pública SDM 06/2011, que altera a Instrução CVM 409/04 em demonstração de… | cvm-col-20120314-d01 | fichas/colegiado/2012-05.md |
+| decisao-colegiado | RJ2012/1233 | 2012-02-28 | outro | O Colegiado aprovou minuta de alteração da Instrução CVM 301/99 para audiência pública de 30 dias, com o objetivo de adequar a… | cvm-col-20120228-d05 | fichas/colegiado/2012-04.md |
+| decisao-colegiado | RJ2012/2118 | 2012-02-28 | outro | O Colegiado aprovou, para audiência pública de 60 dias, minuta de Deliberação que aprova a Interpretação Técnica ICPC 09(R1), do CPC, sobre… | cvm-col-20120228-d04 | fichas/colegiado/2012-04.md |
+| decisao-colegiado | RJ2012/2117 | 2012-02-28 | outro | O Colegiado aprovou, para audiência pública pelo prazo de 60 dias, a minuta de Deliberação que aprova a Interpretação Técnica ICPC 08(R1)… | cvm-col-20120228-d03 | fichas/colegiado/2012-04.md |
+| decisao-colegiado | RJ2012/2116 | 2012-02-28 | outro | Para audiência pública – minuta de deliberação que aprova o pronunciamento técnico CPC 40(R1) – instrumentos financeiros: evidenciação… | cvm-col-20120228-d02 | fichas/colegiado/2012-04.md |
+| decisao-colegiado | 15/2011; RJ2011/1898 | 2012-02-06 | deferido | O Colegiado atendeu pedido da ANBIMA e prorrogou por trinta dias, até 13.03.12, o prazo de comentários à Audiência Pública SDM 15/2011… | cvm-col-20120206-d07 | fichas/colegiado/2012-02.md |
+| decisao-colegiado | RJ2012/1233 | 2012-01-25 | — | O Colegiado deu início à discussão de minuta que altera a Instrução CVM 301/99 para adequar a regulamentação às recomendações do GAFI no… | cvm-col-20120125-d01 | fichas/colegiado/2012-02.md |
+| decisao-colegiado | 13/2011; RJ2011/7434 | 2012-01-18 | outro | O Colegiado aprovou a Instrução, editada após a Audiência Pública SDM 13/2011, que regulamenta a Lei 12.431/11 quanto à atuação do agente… | cvm-col-20120118-d01 | fichas/colegiado/2012-01.md |
+| decisao-colegiado | RJ2012/0535 | 2012-01-17 | outro | O Colegiado aprovou a edição de Instrução que acrescenta à Instrução CVM 279/98, sobre Fundos Mútuos de Privatização – FGTS, a determinação… | cvm-col-20120117-d11 | fichas/colegiado/2012-01.md |
+| decisao-colegiado | 16/2011; RJ2008/10842 | 2012-01-17 | deferido | O Colegiado deferiu pedidos da ANBIMA, da Moody's e da Liberum Ratings de prorrogação do prazo da Audiência Pública SDM 16/2011, sobre… | cvm-col-20120117-d10 | fichas/colegiado/2012-01.md |
+| decisao-colegiado | 14/2011; RJ2005/3416 | 2012-01-17 | deferido | O Colegiado deferiu o pedido da ANBIMA e prorrogou por mais trinta dias, até 23.02.12, o prazo de comentários à minuta de Instrução que… | cvm-col-20120117-d09 | fichas/colegiado/2012-01.md |
+| decisao-colegiado | 01/2011; RJ2011/3563 | 2011-12-27 | outro | O Colegiado aprovou a edição de Instrução, após audiência pública SNC Fundos 01/2011, que dispõe sobre a elaboração e divulgação das… | cvm-col-20111227-d01 | fichas/colegiado/2011-29.md |
+| decisao-colegiado | 09/2011; RJ2011/2363 | 2011-12-20 | outro | O Colegiado aprovou a edição de Instrução, após a Audiência Pública SDM 09/2011, que altera as regras de cancelamento de ofício do registro… | cvm-col-20111220-d12 | fichas/colegiado/2011-29.md |
+| decisao-colegiado | 02/2011; RJ2011/6477 | 2011-12-20 | outro | O Colegiado aprovou a Instrução, editada após a Audiência Pública SNC Fundos 02/2011, que determina divulgação adicional, em notas… | cvm-col-20111220-d02 | fichas/colegiado/2011-29.md |
+| decisao-colegiado | RJ2008/10842 | 2011-12-15 | outro | O Colegiado aprovou minuta de Instrução sobre registro de agências classificadoras de risco de crédito no mercado de valores mobiliários… | cvm-col-20111215-d01 | fichas/colegiado/2011-29.md |
+| decisao-colegiado | 12/2011; RJ2011/11539 | 2011-12-13 | outro | Após audiência pública SNC nº 12/2011 – deliberação que aprova o pronunciamento técnico CPC 26 (R1) – apresentação das demonstrações… | cvm-col-20111213-d12 | fichas/colegiado/2011-29.md |
+| decisao-colegiado | 11/2011; RJ2011/11341 | 2011-12-13 | outro | Após audiência pública SNC nº 11/2011 – deliberação que aprova o pronunciamento técnico CPC 00(R1) – estrutura conceitual para elaboração e… | cvm-col-20111213-d11 | fichas/colegiado/2011-29.md |
+| decisao-colegiado | — | 2011-12-13 | — | O Colegiado deu continuidade à discussão, iniciada em 06.12.11, de questões encaminhadas por participantes do mercado sobre a Instrução CVM… | cvm-col-20111213-d01 | fichas/colegiado/2011-28.md |
+| decisao-colegiado | 11/2011; RJ2011/7920 | 2011-12-06 | outro | O Colegiado aprovou a edição de Instrução, após audiência pública SDM 11/2011, que altera a Instrução CVM 409/04 para permitir a… | cvm-col-20111206-d19 | fichas/colegiado/2011-28.md |
+| decisao-colegiado | — | 2011-12-06 | outro | O Colegiado discutiu questões sobre a Instrução CVM 497/11 (agente autônomo de investimento): exigência de vínculo exclusivo na… | cvm-col-20111206-d01 | fichas/colegiado/2011-28.md |
+| decisao-colegiado | 05/2011; RJ2004/5109 | 2011-11-29 | outro | O Colegiado aprovou a edição de Instrução, elaborada após a Audiência Pública SDM 05/2011, que dispõe sobre o cadastro dos participantes do… | cvm-col-20111129-d08 | fichas/colegiado/2011-26.md |
+| decisao-colegiado | RJ2011/13368 | 2011-11-29 | outro | O Colegiado aprovou Instrução que altera o art. 29, II, da Instrução CVM 480/09, mantendo em 45 dias o prazo de entrega do ITR e revogando… | cvm-col-20111129-d07 | fichas/colegiado/2011-26.md |
+| decisao-colegiado | RJ2008/10842 | 2011-11-23 | — | O Colegiado deu continuidade à discussão da minuta de instrução que dispõe sobre o registro de agências classificadoras de risco de crédito… | cvm-col-20111123-d01 | fichas/colegiado/2011-26.md |
+| decisao-colegiado | RJ2011/1898 | 2011-11-03 | outro | O Colegiado aprovou, para audiência pública de 60 dias, a minuta de Instrução sobre o dever de verificação da adequação de produtos e… | cvm-col-20111103-d01 | fichas/colegiado/2011-24.md |
+| decisao-colegiado | 10/2011; RJ2011/2541 | 2011-11-01 | outro | O Colegiado aprovou, com alterações, a Instrução editada após a audiência pública SNC 10/2011, que altera a Instrução CVM 308/99 (rodízio… | cvm-col-20111101-d12 | fichas/colegiado/2011-24.md |
+| decisao-colegiado | 02/2011; RJ2011/6477 | 2011-11-01 | — | O Colegiado iniciou a discussão de minuta de Instrução, elaborada após a Audiência Pública SNC Fundos 02/2011, que inclui informações sobre… | cvm-col-20111101-d11 | fichas/colegiado/2011-24.md |
+| decisao-colegiado | RJ2005/3416 | 2011-10-31 | outro | O Colegiado aprovou, para audiência pública de 60 dias, a minuta de Instrução que atualiza o regime de administração, gestão e consultoria… | cvm-col-20111031-d01 | fichas/colegiado/2011-23.md |
+| decisao-colegiado | RJ2011/1898 | 2011-10-25 | — | O Colegiado deu continuidade à discussão da minuta de instrução sobre o dever de verificação da adequação de produtos e serviços às… | cvm-col-20111025-d01 | fichas/colegiado/2011-22.md |
+| decisao-colegiado | 12/2011; RJ2011/1897 | 2011-10-20 | parcial | O Colegiado atendeu parcialmente pedido de prorrogação da audiência pública SDM 12/2011, sobre minuta que altera o Anexo 32-II da ICVM… | cvm-col-20111020-d01 | fichas/colegiado/2011-22.md |
+| decisao-colegiado | RJ2011/11342 | 2011-10-19 | outro | Para audiência pública – deliberação que aprova as interpretações técnicas icpc 01(R1) – contratos de concessão e icpc 17 – contratos de… | cvm-col-20111019-d15 | fichas/colegiado/2011-22.md |
+| decisao-colegiado | RJ2011/11539 | 2011-10-19 | outro | Para audiência pública – deliberação que aprova o pronunciamento técnico CPC 26 (R1) – apresentação das demonstrações contábeis. Proc… | cvm-col-20111019-d14 | fichas/colegiado/2011-22.md |
+| decisao-colegiado | RJ2011/11341 | 2011-10-19 | outro | Para audiência pública – deliberação que aprova o pronunciamento técnico CPC 00(R1) – estrutura conceitual para elaboração e divulgação de… | cvm-col-20111019-d11 | fichas/colegiado/2011-22.md |
+| decisao-colegiado | RJ2011/1275 | 2011-10-11 | outro | O Colegiado aprovou a edição de Instrução que altera a ICVM 461/07: a substituição temporária do diretor do Departamento de Autorregulação… | cvm-col-20111011-d10 | fichas/colegiado/2011-22.md |
+| decisao-colegiado | RJ2011/7434 | 2011-10-11 | outro | O Colegiado aprovou a submissão à audiência pública, por 30 dias, de minuta que altera a Instrução CVM 28/83 (agente fiduciário de… | cvm-col-20111011-d09 | fichas/colegiado/2011-21.md |
+| decisao-colegiado | RJ2005/3416 | 2011-10-11 | — | O Colegiado deu continuidade à discussão da minuta de instrução sobre administração, gestão e consultoria de valores mobiliários, que… | cvm-col-20111011-d01-r2 | fichas/colegiado/2011-21.md |
+| decisao-colegiado | 04/2009; RJ2008/5911 | 2011-09-21 | outro | O Colegiado aprovou a Instrução, após a Audiência Pública SDM 04/2009, que regulamenta operações com valores mobiliários em mercados… | cvm-col-20110921-d01 | fichas/colegiado/2011-19.md |
+| decisao-colegiado | 400/2003; RJ2011/10877 | 2011-09-20 | outro | O Colegiado aprovou a Instrução, apresentada pela SDM, que altera o prazo de análise de material publicitário nas ofertas públicas de… | cvm-col-20110920-d03 | fichas/colegiado/2011-18.md |
+| decisao-colegiado | RJ2011/7431 | 2011-09-20 | — | O Colegiado deu continuidade à discussão das diretrizes para regulamentar a Lei 12.431/2011, resultado da conversão da MP 517/10, que… | cvm-col-20110920-d01 | fichas/colegiado/2011-18.md |
+| decisao-colegiado | 02/2011; RJ2010/10397 | 2011-09-13 | outro | O Colegiado aprovou a Instrução, após a Audiência Pública SDM 02/2011, que dispõe sobre o envio ao SCR do Banco Central de dados das… | cvm-col-20110913-d10 | fichas/colegiado/2011-18.md |
+| decisao-colegiado | RJ2009/12925 | 2011-09-13 | outro | O Colegiado aprovou a edição de instrução que revoga expressamente 21 instruções já revogadas tacitamente, no âmbito do mapeamento de… | cvm-col-20110913-d09 | fichas/colegiado/2011-18.md |
+| decisao-colegiado | RJ2011/2541 | 2011-09-06 | indeferido | O Colegiado não acatou o pleito do Ibracon para dar publicidade eletrônica aos comentários da Audiência Pública SNC 10/11 sobre a Instrução… | cvm-col-20110906-d26 | fichas/colegiado/2011-18.md |
+| decisao-colegiado | RJ2011/1897 | 2011-09-06 | outro | O Colegiado aprovou minuta de instrução que altera o Anexo 32-II da Instrução CVM 480/09, sobre registro de emissores, para audiência… | cvm-col-20110906-d01 | fichas/colegiado/2011-17.md |
+| decisao-colegiado | RJ2005/3416 | 2011-08-31 | — | O Colegiado deu continuidade à discussão de minuta de Instrução sobre administração, gestão e consultoria de valores mobiliários, que… | cvm-col-20110831-d01 | fichas/colegiado/2011-17.md |
+| decisao-colegiado | RJ2011/7431 | 2011-08-30 | — | Sem deliberação: o Colegiado apenas deu início à discussão das diretrizes para regulamentar a Lei 12.431/11, resultado da conversão da MP… | cvm-col-20110830-d07 | fichas/colegiado/2011-17.md |
+| decisao-colegiado | 489/2011; RJ2009/12393 | 2011-08-30 | outro | O Colegiado aprovou a edição de Instrução e Nota Explicativa que alteram os anexos A a D da Instrução CVM 489/11 sobre demonstrações… | cvm-col-20110830-d02 | fichas/colegiado/2011-17.md |
+| decisao-colegiado | RJ2005/3416 | 2011-08-24 | — | Sem deliberação: o Colegiado apenas deu continuidade à discussão da minuta de instrução sobre administração, gestão e consultoria de… | cvm-col-20110824-d01 | fichas/colegiado/2011-17.md |
+| decisao-colegiado | RJ2011/7920 | 2011-08-09 | outro | O Colegiado aprovou, para audiência pública de 30 dias, proposta de alteração da Instrução CVM 409/04 para permitir a constituição de… | cvm-col-20110809-d05 | fichas/colegiado/2011-15.md |
+| decisao-colegiado | RJ2011/5732 | 2011-08-02 | outro | Após audiência pública SNC 04/11 – minuta de deliberação que aprova o pronunciamento técnico CPC 35(R1) – demonstrações separadas. Proc… | cvm-col-20110802-d06 | fichas/colegiado/2011-15.md |
+| decisao-colegiado | RJ2011/5733 | 2011-08-02 | outro | O Colegiado aprovou a edição de Deliberação, após a Audiência Pública SNC 03/11, que aprova o Pronunciamento Técnico CPC 19(R1) sobre… | cvm-col-20110802-d05 | fichas/colegiado/2011-15.md |
+| decisao-colegiado | RJ2005/3416 | 2011-07-13 | — | O Colegiado deu continuidade à discussão da minuta de instrução sobre administração, gestão e consultoria de valores mobiliários, que… | cvm-col-20110713-d01 | fichas/colegiado/2011-15.md |
+| decisao-colegiado | 461/2007; RJ2011/7972 | 2011-07-12 | outro | O Colegiado aprovou a edição de Instrução que altera o parágrafo único do art. 80 da Instrução CVM 461/07, elevando de R$ 60.000,00 para R$… | cvm-col-20110712-d09 | fichas/colegiado/2011-15.md |
+| decisao-colegiado | RJ2011/2541 | 2011-07-05 | outro | O Colegiado aprovou, para audiência pública de 30 dias, minuta de Instrução que altera a Instrução CVM 308/99 quanto ao rodízio obrigatório… | cvm-col-20110705-d04 | fichas/colegiado/2011-14.md |
+| decisao-colegiado | RJ2005/3416 | 2011-07-05 | — | Continuidade à discussão de minuta de Instrução sobre atividades de administração, gestão e consultoria de valores mobiliários, que… | cvm-col-20110705-d01-r2 | fichas/colegiado/2011-14.md |
+| decisao-colegiado | RJ2011/2082 | 2011-06-28 | outro | O Colegiado aprovou, para audiência pública de 30 dias, minuta de Instrução que especifica o conteúdo do Perfil Mensal de fundos (art. 71… | cvm-col-20110628-d02-r2 | fichas/colegiado/2011-14.md |
+| decisao-colegiado | RJ2005/3416 | 2011-06-28 | — | O Colegiado deu continuidade à discussão de minuta de instrução, para audiência pública, sobre administração, gestão e consultoria de… | cvm-col-20110628-d01-r2 | fichas/colegiado/2011-14.md |
+| decisao-colegiado | RJ2005/3416 | 2011-06-15 | — | O Colegiado iniciou a discussão de minuta de Instrução sobre administração, gestão e consultoria de valores mobiliários, que revogaria a… | cvm-col-20110615-d01 | fichas/colegiado/2011-13.md |
+| decisao-colegiado | RJ2011/2363 | 2011-06-14 | outro | O Colegiado aprovou minuta de Instrução que altera a Instrução CVM 427/06, sobre cancelamento de ofício e suspensão do registro de… | cvm-col-20110614-d09 | fichas/colegiado/2011-13.md |
+| decisao-colegiado | 04/2011; RJ2011/1433 | 2011-06-07 | outro | O Colegiado aprovou a edição de Instrução, elaborada após a Audiência Pública SDM 04/2011, sobre regras de negociação de cotas de fundos… | cvm-col-20110607-d15 | fichas/colegiado/2011-13.md |
+| decisao-colegiado | RJ2011/2082 | 2011-06-01 | — | O Colegiado iniciou a discussão da minuta de instrução que especifica o conteúdo do Perfil Mensal dos fundos de investimento (Instrução CVM… | cvm-col-20110601-d02 | fichas/colegiado/2011-12.md |
+| decisao-colegiado | RJ2011/3563 | 2011-06-01 | outro | O Colegiado aprovou, para audiência pública de 30 dias, a minuta de Instrução sobre elaboração e divulgação das demonstrações financeiras… | cvm-col-20110601-d01 | fichas/colegiado/2011-12.md |
+| decisao-colegiado | RJ2011/3563 | 2011-05-11 | — | O Colegiado deu início à discussão de minuta de instrução, para audiência pública, sobre as normas contábeis aplicáveis aos fundos de… | cvm-col-20110511-d02 | fichas/colegiado/2011-10.md |
+| decisao-colegiado | 03/2010; SP2010/0038 | 2011-05-11 | outro | O Colegiado aprovou, com alterações, a Instrução sobre a atividade de agente autônomo de investimento, após audiência pública SDM 03/2010… | cvm-col-20110511-d01 | fichas/colegiado/2011-10.md |
+| decisao-colegiado | 07/2011; RJ2011/1896 | 2011-05-04 | outro | O Colegiado aprovou, com alterações, após a Audiência Pública SDM 07/2011, Instrução que altera a Instrução CVM 391/03, sobre constituição… | cvm-col-20110504-d02 | fichas/colegiado/2011-10.md |
+| decisao-colegiado | RJ2010/12256 | 2011-05-04 | outro | O Colegiado aprovou, com alterações, minuta para audiência pública de 30 dias que altera o §1º do art. 1º da Instrução CVM 476/09 (ofertas… | cvm-col-20110504-d01 | fichas/colegiado/2011-10.md |
+| decisao-colegiado | 04/2009; RJ2008/5911 | 2011-04-27 | — | O Colegiado deu continuidade ao exame dos comentários da Audiência Pública SDM 04/2009 sobre a instrução que substituirá a Instrução CVM… | cvm-col-20110427-d01 | fichas/colegiado/2011-10.md |
+| decisao-colegiado | 01/2010; SP2010/0037 | 2011-04-19 | outro | O Colegiado aprovou, após a Audiência Pública 01/2010, Instrução que revoga a Instrução 40/84 e reformula a regulamentação dos clubes de… | cvm-col-20110419-d09 | fichas/colegiado/2011-09.md |
+| decisao-colegiado | RJ2011/1896 | 2011-04-12 | outro | O Colegiado aprovou, com alterações, minuta para audiência pública até 25.04.2011 que altera as Instruções CVM 391/03 (FIP) e 460/07… | cvm-col-20110412-d10 | fichas/colegiado/2011-09.md |
+| decisao-colegiado | 04/2009; RJ2008/5911 | 2011-03-30 | — | O Colegiado deu continuidade ao exame dos comentários da Audiência Pública SDM 04/2009 sobre instrução que substitui a Instrução CVM 387/03… | cvm-col-20110330-d01 | fichas/colegiado/2011-08.md |
+| decisao-colegiado | 04/2009; RJ2008/5911 | 2011-03-23 | — | O Colegiado deu início à discussão dos comentários recebidos na Audiência Pública SDM 04/2009, sobre instrução que substituirá a Instrução… | cvm-col-20110323-d01 | fichas/colegiado/2011-07.md |
+| decisao-colegiado | RJ2010/15308 | 2011-03-15 | outro | O Colegiado aprovou a edição de Instrução, após a Audiência Pública SDM 03/11, que altera a Instrução CVM 332/00 sobre emissão e negociação… | cvm-col-20110315-d16 | fichas/colegiado/2011-06.md |
+| decisao-colegiado | RJ2008/2077 | 2011-02-23 | outro | O Colegiado aprovou, para audiência pública de 30 dias, proposta de alteração da Instrução CVM 409/04, que trata da constituição… | cvm-col-20110223-d02 | fichas/colegiado/2011-05.md |
+| decisao-colegiado | RJ2011/2541 | 2011-02-23 | — | O Colegiado deu continuidade ao debate da minuta de Instrução que acrescenta os arts. 31-A a 31-F à Instrução CVM 308/99, sobre registro e… | cvm-col-20110223-d01 | fichas/colegiado/2011-05.md |
+| decisao-colegiado | RJ2007/14749 | 2011-02-22 | outro | O Colegiado aprovou a edição de Instrução que altera os arts. 35-A e 37 da Instrução CVM 361/02 para corrigir a remissão ao parágrafo único… | cvm-col-20110222-d22 | fichas/colegiado/2011-04.md |
+| decisao-colegiado | RJ2010/17869 | 2011-02-16 | outro | O Colegiado aprovou a divulgação do relatório de análise da Audiência Pública SDM 01/2011, sobre as alterações no regime legal das… | cvm-col-20110216-d02 | fichas/colegiado/2011-04.md |
+| decisao-colegiado | RJ2004/5109 | 2011-02-16 | outro | O Colegiado aprovou, com alterações, a minuta de Instrução que dispõe sobre o cadastro de participantes do mercado de valores mobiliários… | cvm-col-20110216-d01 | fichas/colegiado/2011-04.md |
+| decisao-colegiado | 04/2010 | 2011-02-15 | outro | O Colegiado aprovou a edição de Instrução, elaborada após a Audiência Pública SDM 04/2010, dispondo sobre hipóteses de infração grave, nos… | cvm-col-20110215-d09 | fichas/colegiado/2011-03.md |
+| decisao-colegiado | 006/2011 | 2011-02-15 | outro | O Colegiado autorizou a edição de Deliberação que incorpora a Decisão 31/10 do Conselho do Mercado Comum do Mercosul, aprovada no XL CMC de… | cvm-col-20110215-d01 | fichas/colegiado/2011-03.md |
+| decisao-colegiado | RJ2011/1898 | 2011-02-09 | — | O Colegiado deu início à discussão de minuta de Instrução sobre o dever de verificação da adequação de produtos e serviços às necessidades… | cvm-col-20110209-d01 | fichas/colegiado/2011-03.md |
+| decisao-colegiado | 02/2011; RJ2010/10397 | 2011-02-01 | deferido | O Colegiado deferiu pedido da ANBIMA e prorrogou, por quinze dias, até 22.02.11, o prazo para comentários à minuta de Instrução sobre envio… | cvm-col-20110201-d09 | fichas/colegiado/2011-02.md |
+| decisao-colegiado | 07/2010 | 2011-02-01 | outro | O Colegiado aprovou deliberação, após Audiência Pública SDM 07/2010, que altera a Deliberação CVM 390/01 (termo de compromisso). Por… | cvm-col-20110201-d02 | fichas/colegiado/2011-02.md |
+| decisao-colegiado | RJ2011/2541 | 2011-01-25 | — | O Colegiado iniciou o debate da minuta de instrução que altera a Instrução CVM 308/99, sobre registro e exercício da atividade de auditoria… | cvm-col-20110125-d02 | fichas/colegiado/2011-01.md |
+| decisao-colegiado | RJ2011/1433 | 2011-01-25 | outro | O Colegiado aprovou, com alterações, minuta de Instrução para audiência pública de 30 dias que altera as Instruções CVM 153/91, 209/94… | cvm-col-20110125-d01 | fichas/colegiado/2011-01.md |
+| decisao-colegiado | 09/2010; RJ2003/0505 | 2011-01-19 | outro | O Colegiado aprovou a edição de Instrução que altera a Instrução CVM 28/83, sobre o exercício da função de agente fiduciário dos… | cvm-col-20110119-d06 | fichas/colegiado/2011-01.md |
+| decisao-colegiado | RJ2010/15308 | 2011-01-19 | outro | O Colegiado aprovou, com alterações, a submissão à Audiência Pública, por 30 dias, de minuta de Instrução que altera a Instrução 332/00… | cvm-col-20110119-d01 | fichas/colegiado/2011-01.md |
+| decisao-colegiado | RJ2009/12393 | 2011-01-11 | outro | O Colegiado aprovou a edição de Instrução, elaborada após a Audiência Pública SNC Fundos 01/2010, sobre a elaboração e divulgação das… | cvm-col-20110111-d07 | fichas/colegiado/2011-01.md |
+| decisao-colegiado | RJ2010/17869 | 2011-01-03 | outro | O Colegiado aprovou a realização de audiência pública, até 03.02.11, sobre o texto da Medida Provisória 517/10, que altera a Lei 6.404/76… | cvm-col-20110103-d01 | fichas/colegiado/2011-01.md |
+| decisao-colegiado | RJ2010/17391 | 2010-12-28 | outro | O Colegiado aprovou a minuta de Deliberação que aprova a orientação OCPC 05 do Comitê de Pronunciamentos Contábeis, sobre contratos de… | cvm-col-20101228-d73 | fichas/colegiado/2010-33.md |
+| decisao-colegiado | RJ2010/10397 | 2010-12-28 | outro | O Colegiado aprovou, com alterações, minuta de Instrução sobre envio de dados da carteira de FIDC ao Sistema de Informações de Crédito do… | cvm-col-20101228-d11 | fichas/colegiado/2010-31.md |
+| decisao-colegiado | 11/2007; 12/2008; 016/2010 | 2010-12-28 | outro | O Colegiado aprovou minuta de Decisão-Conjunta, a ser assinada com a PREVIC, que revoga as Decisões-Conjuntas CVM/SPC nºs 11/2007 e 12/2008… | cvm-col-20101228-d04 | fichas/colegiado/2010-30.md |
+| decisao-colegiado | SP2010/0279 | 2010-12-14 | outro | O Colegiado aprovou a edição de Deliberação para regulamentar o Decreto nº 7.259/10, que dispõe sobre a execução, no território nacional… | cvm-col-20101214-d12 | fichas/colegiado/2010-29.md |
+| decisao-colegiado | RJ2010/17164 | 2010-12-14 | outro | O Colegiado aprovou a edição de Deliberação que aprova a Interpretação Técnica ICPC 16 do Comitê de Pronunciamentos Contábeis, sobre… | cvm-col-20101214-d11 | fichas/colegiado/2010-29.md |
+| decisao-colegiado | RJ2010/17162 | 2010-12-14 | outro | O Colegiado aprovou a edição de Deliberação, após audiência pública SNC 16/2010, que aprova o Pronunciamento Técnico CPC 10(R1), sobre… | cvm-col-20101214-d09 | fichas/colegiado/2010-29.md |
+| decisao-colegiado | RJ2010/17161 | 2010-12-14 | outro | O Colegiado aprovou a edição de Deliberação, após a Audiência Pública SNC 14/2010, que aprova o Pronunciamento Técnico CPC 08(R1) sobre… | cvm-col-20101214-d08 | fichas/colegiado/2010-29.md |
+| decisao-colegiado | RJ2010/14735 | 2010-11-30 | outro | O Colegiado aprovou a edição de Deliberação, após a Audiência Pública SNC 10/2010, que aprova o Pronunciamento Técnico CPC 37(R1), sobre a… | cvm-col-20101130-d36 | fichas/colegiado/2010-26.md |
+| decisao-colegiado | RJ2010/14731 | 2010-11-30 | outro | O Colegiado aprovou a edição de Deliberação, após audiência pública SNC 11/2010, que aprova o Pronunciamento Técnico CPC 06(R1), sobre… | cvm-col-20101130-d35 | fichas/colegiado/2010-26.md |
+| decisao-colegiado | RJ2010/14219 | 2010-11-30 | outro | O Colegiado aprovou a edição de Deliberação, elaborada após a Audiência Pública SNC 09/2010, que aprova o Pronunciamento Técnico CPC 04(R1)… | cvm-col-20101130-d34 | fichas/colegiado/2010-26.md |
+| decisao-colegiado | RJ2010/14733 | 2010-11-30 | outro | O Colegiado aprovou a Deliberação que aprova o Pronunciamento Técnico CPC 07(R1), sobre subvenção e assistência governamentais, após a… | cvm-col-20101130-d33 | fichas/colegiado/2010-26.md |
+| decisao-colegiado | 08/2010; RJ2010/3030 | 2010-11-17 | outro | O Colegiado aprovou, com alterações, a Instrução que regulamenta as ofertas públicas de distribuição de letras financeiras, após a… | cvm-col-20101117-d01 | fichas/colegiado/2010-24.md |
+| decisao-colegiado | 13/2010; RJ2009/13026 | 2010-11-16 | parcial | O Colegiado atendeu parcialmente pedido da ABRASCA e prorrogou até 03.12.10 o prazo de sugestões à Audiência Pública 13/2010, sobre a… | cvm-col-20101116-d07 | fichas/colegiado/2010-24.md |
+| decisao-colegiado | 06/2010; RJ2010/13671 | 2010-11-16 | outro | O Colegiado aprovou a edição da Instrução 486, após a Audiência Pública 06/2010, que altera a Instrução 467/08 sobre a aprovação de… | cvm-col-20101116-d02 | fichas/colegiado/2010-24.md |
+| decisao-colegiado | 02/2010; RJ2007/14749 | 2010-10-27 | outro | O Colegiado aprovou a edição de Instrução, elaborada após a Audiência Pública 02/2010, que altera a Instrução CVM 361/02, sobre ofertas… | cvm-col-20101027-d01 | fichas/colegiado/2010-22.md |
+| decisao-colegiado | RJ2009/12393 | 2010-10-26 | outro | O Colegiado aprovou, para audiência pública de 20 dias, a minuta de Instrução e respectiva Nota Explicativa sobre as normas contábeis… | cvm-col-20101026-d09 | fichas/colegiado/2010-22.md |
+| decisao-colegiado | RJ2010/14220 | 2010-10-05 | outro | O Colegiado aprovou a Deliberação que aprova o Pronunciamento Técnico CPC 03 (R2), sobre demonstração dos fluxos de caixa, após a Audiência… | cvm-col-20101005-d07 | fichas/colegiado/2010-20.md |
+| decisao-colegiado | RJ2010/3030 | 2010-10-05 | outro | O Colegiado aprovou, para audiência pública de 30 dias, minuta de instrução que altera as Instruções 400/03, 476/09 e 480/09 para… | cvm-col-20101005-d02 | fichas/colegiado/2010-20.md |
+| decisao-colegiado | 05/2010; RJ2010/12770 | 2010-09-09 | deferido | O Colegiado deferiu pedido da ANBIMA de prorrogação do prazo da Audiência Pública 05/10, até 22.10.10, para comentários à minuta que altera… | cvm-col-20100909-d15 | fichas/colegiado/2010-19.md |
+| decisao-colegiado | RJ2003/0505 | 2010-09-01 | outro | O Colegiado aprovou, com alterações, para audiência pública de 30 dias, minuta de Instrução que altera a Instrução 28/83, sobre o exercício… | cvm-col-20100901-d01 | fichas/colegiado/2010-18.md |
+| decisao-colegiado | RJ2006/6136 | 2010-08-17 | outro | O Colegiado aprovou, com alterações, para audiência pública de 30 dias, minuta de Instrução que altera a Instrução 483/10, sobre a… | cvm-col-20100817-d01 | fichas/colegiado/2010-17.md |
+| termo-compromisso | — | 2010-08-10 | outro | O Colegiado aprovou, com alterações, para audiência pública de 30 dias, minuta de Deliberação que altera a Deliberação 390/01, sobre termo… | cvm-col-20100810-d07 | fichas/tc/2010-04.md |
+| decisao-colegiado | SP2010/0107 | 2010-08-10 | outro | O Colegiado respondeu à consulta da Corefusion Consultoria Empresarial: o art. 9º da Lei 12.187/09 não tornou créditos de carbono (Reduções… | cvm-col-20100810-d05 | fichas/colegiado/2010-17.md |
+| decisao-colegiado | 04/2010; RJ2010/4218 | 2010-08-03 | outro | O Colegiado aprovou a edição de Deliberação, após audiências públicas SNC 01 e 04/2010, que aprova o Pronunciamento Técnico CPC 41, sobre… | cvm-col-20100803-d07 | fichas/colegiado/2010-16.md |
+| decisao-colegiado | SP2010/0038 | 2010-06-16 | deferido | O Colegiado deferiu pedido da ANBIMA e prorrogou até 21.07.10 o prazo para comentários à minuta de Instrução sobre o agente autônomo de… | cvm-col-20100616-d01 | fichas/colegiado/2010-14.md |
+| decisao-colegiado | RJ2009/2042 | 2010-06-02 | outro | O Colegiado aprovou a edição de Instrução que acrescenta e altera dispositivos da Instrução CVM 356/01, elaborada após a Audiência Pública… | cvm-col-20100602-d01 | fichas/colegiado/2010-13.md |
+| decisao-colegiado | — | 2010-06-01 | outro | O Colegiado aprovou minuta de Deliberação que prorroga até 30.07.10 o prazo previsto na Deliberação CVM 570/09, relativo ao Programa de… | cvm-col-20100601-d07 | fichas/colegiado/2010-13.md |
+| decisao-colegiado | RJ2007/14749 | 2010-05-18 | deferido | O Colegiado deferiu o pedido da ANBIMA e prorrogou por mais 45 dias, até 09.07.10, o prazo para comentários à minuta que altera a Instrução… | cvm-col-20100518-d14 | fichas/colegiado/2010-13.md |
+| decisao-colegiado | RJ2007/4235 | 2010-05-11 | outro | O Colegiado aprovou minuta de Instrução que altera a Instrução CVM 457/07 (demonstrações financeiras consolidadas, com base no padrão… | cvm-col-20100511-d06 | fichas/colegiado/2010-12.md |
+| decisao-colegiado | — | 2010-04-13 | outro | O Colegiado aprovou, com alterações, minuta de Instrução sobre hipóteses de infração grave (§ 3º do art. 11 da Lei 6.385/76) para audiência… | cvm-col-20100413-d07 | fichas/colegiado/2010-11.md |
+| decisao-colegiado | SP2010/0038 | 2010-04-07 | outro | O Colegiado aprovou, para audiência pública de sessenta dias, minuta de Instrução que altera a regulamentação do agente autônomo de… | cvm-col-20100407-d01-r2 | fichas/colegiado/2010-10.md |
+| decisao-colegiado | RJ2005/8962 | 2010-03-24 | outro | O Colegiado aprovou o texto da Instrução que altera a Instrução 400/03 (ofertas públicas de distribuição de valores mobiliários), após… | cvm-col-20100324-d01 | fichas/colegiado/2010-09.md |
+| decisao-colegiado | RJ2007/14749 | 2010-03-03 | outro | O Colegiado aprovou, para audiência pública de sessenta dias, minuta de Instrução que altera a Instrução CVM 361/02, que trata de ofertas… | cvm-col-20100303-d01 | fichas/colegiado/2010-07.md |
+| decisao-colegiado | — | 2010-02-10 | outro | O Colegiado aprovou, para audiência pública de sessenta dias, a minuta de Instrução que reformula a regulamentação dos Clubes de… | cvm-col-20100210-d01 | fichas/colegiado/2010-05.md |
+| decisao-colegiado | — | 2010-02-09 | outro | Em consulta da SDM, o Colegiado considerou que a Cartilha 'Recomendações da CVM sobre Governança Corporativa' (aprovada em 2002) não está… | cvm-col-20100209-d24 | fichas/colegiado/2010-05.md |
+| decisao-colegiado | 35/2009 | 2010-01-26 | outro | O Colegiado aprovou a edição de Deliberação, após a Audiência Pública SNC 35/2009, que aprova o documento de revisão nº 1 dos… | cvm-col-20100126-d20 | fichas/colegiado/2010-03.md |
+| decisao-colegiado | RJ2009/12393 | 2010-01-19 | deferido | O Colegiado deferiu, a pedido da ANBIMA, prorrogação do prazo da audiência pública SNC Fundos 01/09 até 26.03.10, para comentários sobre as… | cvm-col-20100119-d11 | fichas/colegiado/2010-02.md |
+| decisao-colegiado | RJ2009/10914; RJ2009/10915; RJ2009/10916; RJ2009/10917; RJ2009/10918 | 2009-12-22 | outro | O Colegiado aprovou os textos das Deliberações que referendam as Interpretações Técnicas ICPC 03 (arrendamento mercantil), ICPC 04 e ICPC… | cvm-col-20091222-d35 | fichas/colegiado/2009-25.md |
+| decisao-colegiado | RJ2009/12858 | 2009-12-22 | outro | O Colegiado aprovou o texto da Deliberação que referenda a Interpretação Técnica ICPC 12 (mudanças em passivos por desativação, restauração… | cvm-col-20091222-d28 | fichas/colegiado/2009-24.md |
+| decisao-colegiado | RJ2009/12857 | 2009-12-22 | outro | O Colegiado aprovou o texto da deliberação que referenda o Pronunciamento Técnico CPC 43, 'Adoção Inicial dos Pronunciamentos Técnicos CPC… | cvm-col-20091222-d27 | fichas/colegiado/2009-24.md |
+| decisao-colegiado | RJ2009/10954 | 2009-12-22 | outro | O Colegiado aprovou o texto da Deliberação que referenda a Interpretação Técnica ICPC 09 (demonstrações individuais, separadas… | cvm-col-20091222-d24 | fichas/colegiado/2009-24.md |
+| decisao-colegiado | RJ2009/10908 | 2009-12-22 | outro | O Colegiado aprovou o texto da deliberação que referenda a Interpretação Técnica ICPC 02, 'Contrato de Construção do Setor Imobiliário'… | cvm-col-20091222-d23 | fichas/colegiado/2009-24.md |
+| decisao-colegiado | RJ2009/9638 | 2009-12-22 | outro | O Colegiado aprovou, após audiência pública SNC 27/09, a Deliberação que referenda a Interpretação Técnica ICPC 10, com esclarecimentos… | cvm-col-20091222-d22 | fichas/colegiado/2009-24.md |
+| decisao-colegiado | — | 2009-12-08 | outro | O Colegiado aprovou a versão final da instrução que dispõe sobre informações e pedidos públicos de procuração para exercício do direito de… | cvm-col-20091208-d20 | fichas/colegiado/2009-22.md |
+| decisao-colegiado | — | 2009-12-08 | outro | O Colegiado aprovou, para audiência pública, minuta de Instrução e respectiva Nota Explicativa sobre normas contábeis aplicáveis a FIDC… | cvm-col-20091208-d03 | fichas/colegiado/2009-22.md |
+| decisao-colegiado | — | 2009-11-24 | outro | O Colegiado aprovou os textos finais das deliberações que referendam os Pronunciamentos Técnicos CPC 18, 19, 35 e 36, considerando os… | cvm-col-20091124-d14 | fichas/colegiado/2009-21.md |
+| decisao-colegiado | RJ2003/1765 | 2009-11-18 | outro | Após a audiência pública 07/08, que discutiu a nova Instrução 202/93 a partir do art. 10, o Colegiado aprovou, com pequenos ajustes de… | cvm-col-20091118-d01 | fichas/colegiado/2009-21.md |
+| decisao-colegiado | — | 2009-11-17 | outro | Após audiência pública, o Colegiado aprovou o texto apresentado pela SNC para as Deliberações SNC 22/2009, 23/2009 e 24/2009, que… | cvm-col-20091117-d15 | fichas/colegiado/2009-20.md |
+| decisao-colegiado | — | 2009-11-10 | outro | Após pleito da ABRASCA, o Colegiado aprovou minuta de Deliberação que faculta às companhias abertas apresentar os ITRs de 2010 conforme as… | cvm-col-20091110-d04 | fichas/colegiado/2009-19.md |
+| decisao-colegiado | RJ2003/1765 | 2009-10-13 | outro | O Colegiado retomou o debate das sugestões recebidas em audiência pública sobre regras para emissores estrangeiros (art. 33 e Anexo 33) e… | cvm-col-20091013-d14 | fichas/colegiado/2009-18.md |
+| decisao-colegiado | RJ2009/8891 | 2009-10-13 | outro | O Colegiado aprovou o texto de Deliberação revogando normas que perderam o objeto e aprovou incluir, na página da CVM, o esclarecimento… | cvm-col-20091013-d13 | fichas/colegiado/2009-18.md |
+| decisao-colegiado | RJ2009/3766 | 2009-10-06 | outro | O Colegiado autorizou a edição de Deliberação que aprova a Interpretação Técnica ICPC 08, sobre contabilização da proposta de pagamento de… | cvm-col-20091006-d02 | fichas/colegiado/2009-17.md |
+| decisao-colegiado | 07/2008; RJ2003/1765 | 2009-10-02 | deferido | O Colegiado deferiu pedido da ANBID de prorrogação, por 15 dias, até 09/10/2009, do prazo da Audiência Pública nº 07/2008 para sugestões… | cvm-col-20091002-d01 | fichas/colegiado/2009-17.md |
+| decisao-colegiado | 07/2008; RJ2003/1765 | 2009-09-15 | outro | O Colegiado aprovou a colocação em audiência pública, até 02/10/2009, da última versão do Anexo 25 e de parte do Anexo 27 da minuta de… | cvm-col-20090915-d11 | fichas/colegiado/2009-16.md |
+| decisao-colegiado | RJ2009/3441 | 2009-09-08 | outro | O Colegiado aprovou, após audiência pública SDM 06/09, o texto apresentado pela SDM com alterações na Instrução CVM 472/08 sobre fundos de… | cvm-col-20090908-d12 | fichas/colegiado/2009-16.md |
+| decisao-colegiado | RJ2009/3769 | 2009-09-08 | outro | O Colegiado aprovou, após audiência pública SNC 15/09, a Deliberação que referenda o Pronunciamento CPC 31 (ativo não-circulante mantido… | cvm-col-20090908-d10 | fichas/colegiado/2009-16.md |
+| decisao-colegiado | RJ2009/4871 | 2009-09-08 | outro | O Colegiado aprovou o texto de minuta de Deliberação, após audiência pública SNC 18/09, que referenda o Pronunciamento CPC 30 (Receitas)… | cvm-col-20090908-d09 | fichas/colegiado/2009-16.md |
+| decisao-colegiado | RJ2009/4874 | 2009-09-08 | outro | O Colegiado aprovou, após audiência pública SNC 17/09, a Deliberação que referenda o pronunciamento CPC 29 (Ativo Biológico e Produto… | cvm-col-20090908-d08 | fichas/colegiado/2009-16.md |
+| decisao-colegiado | RJ2009/3767 | 2009-09-08 | outro | O Colegiado aprovou, após audiência pública SNC 13/09, a Deliberação que referenda o Pronunciamento CPC 25 (provisões, passivos e ativos… | cvm-col-20090908-d06 | fichas/colegiado/2009-16.md |
+| decisao-colegiado | RJ2009/3766 | 2009-09-08 | outro | O Colegiado aprovou o texto de minuta de Deliberação, após audiência pública SNC 12/09, que referenda o Pronunciamento CPC 24 (Evento… | cvm-col-20090908-d05 | fichas/colegiado/2009-16.md |
+| decisao-colegiado | RJ2009/3765 | 2009-09-08 | outro | O Colegiado aprovou, após audiência pública SNC 11/09, a Deliberação que referenda o Pronunciamento CPC 23 (políticas contábeis, mudança de… | cvm-col-20090908-d04 | fichas/colegiado/2009-15.md |
+| decisao-colegiado | — | 2009-08-11 | outro | O Colegiado aprovou minuta de Deliberação que delega à SMI competência para suspender intermediação irregular ou veiculação pública de… | cvm-col-20090811-d01 | fichas/colegiado/2009-14.md |
+| decisao-colegiado | RJ2009/3252 | 2009-08-04 | outro | O Colegiado aprovou a edição de deliberação sobre atuação irregular no mercado de valores mobiliários (Forex Capital Markets), nos termos… | cvm-col-20090804-d09 | fichas/colegiado/2009-14.md |
+| decisao-colegiado | RJ2005/5296 | 2009-08-04 | outro | O Colegiado aprovou a edição de Deliberação, nos termos das minutas da SMI, para o mercado Forex. Determinou à SMI que comunique ao… | cvm-col-20090804-d06 | fichas/colegiado/2009-14.md |
+| decisao-colegiado | RJ2008/5911 | 2009-07-21 | indeferido | O Colegiado não atendeu pedido da ANCOR de adiamento do prazo para sugestões à minuta de instrução sobre operações em mercados… | cvm-col-20090721-d04 | fichas/colegiado/2009-13.md |
+| decisao-colegiado | RJ2009/2731 | 2009-07-15 | outro | O Colegiado aprovou, após audiência pública, a Deliberação que referenda o Pronunciamento CPC 28 (Propriedade para Investimento), no texto… | cvm-col-20090715-d05 | fichas/colegiado/2009-13.md |
+| decisao-colegiado | RJ2009/2042 | 2009-07-14 | indeferido | O Colegiado não prorrogou o prazo para comentários à Audiência Pública 05/09, sobre minuta de instrução que altera a Instrução CVM 356/01… | cvm-col-20090714-d08 | fichas/colegiado/2009-13.md |
+| decisao-colegiado | RJ2009/6346 | 2009-07-07 | outro | O Colegiado concluiu que créditos de carbono não são valores mobiliários, mas ativos comercializáveis para cumprir metas de redução de… | cvm-col-20090707-d07 | fichas/colegiado/2009-13.md |
+| decisao-colegiado | — | 2009-06-23 | outro | O Colegiado aprovou, com alterações e após audiência pública, a minuta de Parecer de Orientação sobre disposições estatutárias que impõem… | cvm-col-20090623-d14 | fichas/colegiado/2009-11.md |
+| decisao-colegiado | RJ2008/5911 | 2009-06-16 | deferido | O Colegiado deferiu pedido das associações ANBID e ANDIMA e prorrogou para 29.07.09 o prazo da Audiência Pública nº 04/09, relativa à nova… | cvm-col-20090616-d05 | fichas/colegiado/2009-11.md |
+| decisao-colegiado | 422/2005; RJ2003/1765 | 2009-06-03 | outro | O Colegiado aprovou a alteração da Instrução CVM 422/05, a ser divulgada junto com a norma sobre registro de emissores que está em… | cvm-col-20090603-d04 | fichas/colegiado/2009-11.md |
+| decisao-colegiado | RJ2009/1260 | 2009-06-03 | outro | O Colegiado aprovou, após audiência pública, a minuta de Deliberação que referenda o Pronunciamento CPC 17 (Contratos de Construção), no… | cvm-col-20090603-d02 | fichas/colegiado/2009-10.md |
+| decisao-colegiado | — | 2009-05-27 | outro | O Colegiado aprovou, por unanimidade, comunicado ao mercado com seu entendimento sobre a aplicação do Parecer de Orientação nº 35/08 à… | cvm-col-20090527-d01 | fichas/colegiado/2009-10.md |
+| decisao-colegiado | 356/2001 | 2009-05-06 | outro | O Colegiado aprovou, com alterações, proposta de alteração da Instrução CVM 356/01 (FIDC e FIC-FIDC) para audiência pública de 30 dias. A… | cvm-col-20090506-d01 | fichas/colegiado/2009-09.md |
+| decisao-colegiado | — | 2009-04-28 | outro | O Colegiado aprovou minuta de Deliberação que prorroga, para o último dia útil de maio de 2009, o prazo de auditores independentes para… | cvm-col-20090428-d06 | fichas/colegiado/2009-09.md |
+| decisao-colegiado | RJ2009/3362 | 2009-04-14 | outro | O Colegiado decidiu submeter a audiência pública, por 30 dias, minuta de parecer de orientação: a CVM não penalizará acionistas que votarem… | cvm-col-20090414-d04 | fichas/colegiado/2009-08.md |
+| decisao-colegiado | RJ2008/5911 | 2009-04-01 | outro | O Colegiado aprovou a minuta de alteração da Instrução 301/99, que modifica o conteúdo mínimo do cadastro de clientes e revoga o art. 12 da… | cvm-col-20090401-d01 | fichas/colegiado/2009-06.md |
+| decisao-colegiado | — | 2009-03-31 | outro | O Colegiado aprovou, com pequenas alterações, minuta de Deliberação que delega à SIN competência para conceder dispensa do art. 105 da ICVM… | cvm-col-20090331-d01 | fichas/colegiado/2009-05.md |
+| decisao-colegiado | RJ2008/12677 | 2009-03-24 | outro | O Colegiado aprovou, com poucas alterações, a minuta de Deliberação sobre educação continuada dos auditores independentes, após audiência… | cvm-col-20090324-d19 | fichas/colegiado/2009-05.md |
+| decisao-colegiado | RJ2007/9298 | 2009-03-11 | outro | O Colegiado aprovou, com alterações, minuta de Instrução sobre escrituração contábil digital (SPED), a ser submetida a audiência pública… | cvm-col-20090311-d02 | fichas/colegiado/2009-04.md |
+| decisao-colegiado | RJ2005/8962 | 2009-03-11 | outro | O Colegiado aprovou, com alterações, minuta de alteração da Instrução 400/03, sobre ofertas públicas de distribuição nos mercados primário… | cvm-col-20090311-d01 | fichas/colegiado/2009-04.md |
+| decisao-colegiado | — | 2009-03-10 | outro | O Colegiado aprovou, com alterações, minuta de Instrução sobre convocação, informação e pedidos públicos de procuração para exercício do… | cvm-col-20090310-d01 | fichas/colegiado/2009-03.md |
+| decisao-colegiado | RJ2008/5911 | 2009-02-11 | outro | O Colegiado aprovou, com alterações, minuta de normativo que substituirá a Instrução CVM 387/03, sobre normas e procedimentos nas operações… | cvm-col-20090211-d01 | fichas/colegiado/2009-02.md |
+| decisao-colegiado | RJ2008/12677 | 2009-01-07 | outro | O Colegiado aprovou, para audiência pública de 30 dias, a minuta de Deliberação sobre programa de educação continuada e treinamento de… | cvm-col-20090107-d01 | fichas/colegiado/2009-01.md |
+| decisao-colegiado | — | 2008-12-19 | outro | O Colegiado aprovou, com alterações, a minuta de Instrução que altera a Instrução 202/93, sobre registro de companhia para negociação de… | cvm-col-20081219-d02 | fichas/colegiado/2008-28.md |
+| decisao-colegiado | RJ2008/8529 | 2008-12-16 | outro | O Colegiado aprovou, após audiência pública, com algumas alterações, a minuta de Instrução que altera a Instrução CVM 209/94, que rege os… | cvm-col-20081216-d15 | fichas/colegiado/2008-28.md |
+| decisao-colegiado | RJ2008/10903 | 2008-12-16 | outro | O Colegiado aprovou, após audiência pública, com algumas alterações, a Deliberação que aprova o Pronunciamento CPC 10, sobre pagamento… | cvm-col-20081216-d07 | fichas/colegiado/2008-28.md |
+| decisao-colegiado | RJ2008/7506 | 2008-12-16 | outro | O Colegiado aprovou, após audiência pública, a Deliberação que aprova a Orientação OCPC 01, do Comitê de Pronunciamentos Contábeis, sobre… | cvm-col-20081216-d03 | fichas/colegiado/2008-27.md |
+| decisao-colegiado | RJ2008/7978 | 2008-12-10 | outro | O Colegiado aprovou, com alterações, a minuta de Instrução da SDM, elaborada após audiência pública, sobre ofertas públicas com esforços… | cvm-col-20081210-d01-r2 | fichas/colegiado/2008-27.md |
+| decisao-colegiado | RJ2008/4098 | 2008-12-09 | outro | O Colegiado acompanhou o voto do relator, que seguiu a PFE, e respondeu consulta da SIN: a publicação no DOU é obrigatória para autorização… | cvm-col-20081209-d07 | fichas/colegiado/2008-27.md |
+| decisao-colegiado | 30/2008 | 2008-11-18 | outro | O Colegiado aprovou proposta da SDM de comunicado ao mercado informando que a CVM aplicará aos pedidos de registro de ofertas públicas de… | cvm-col-20081118-d02 | fichas/colegiado/2008-25.md |
+| decisao-colegiado | RJ2008/4935 | 2008-11-11 | outro | Após audiência pública, o Colegiado aprovou a minuta de Deliberação que aprova o Pronunciamento Técnico CPC 04 (Ativos Intangíveis), no… | cvm-col-20081111-d08 | fichas/colegiado/2008-25.md |
+| decisao-colegiado | RJ2006/2588 | 2008-11-11 | outro | Após audiência pública, o Colegiado aprovou a Deliberação que aprova o Pronunciamento Técnico CPC 08 (custos de transação e prêmios na… | cvm-col-20081111-d07 | fichas/colegiado/2008-25.md |
+| decisao-colegiado | RJ2008/10468 | 2008-11-11 | outro | Em consulta da SRE sobre novas exigências para programas de DR não patrocinados, após mudança na regra 12g3-2(b) da SEC, o Colegiado… | cvm-col-20081111-d05 | fichas/colegiado/2008-25.md |
+| decisao-colegiado | RJ2008/8382; RJ2008/10220 | 2008-11-04 | outro | O Colegiado aprovou a minuta de Instrução que revoga as instruções que perderam o objeto (Procs. RJ2008/8382 e RJ2008/10220). | cvm-col-20081104-d02 | fichas/colegiado/2008-24.md |
+| decisao-colegiado | RJ2007/12819 | 2008-10-21 | outro | O Colegiado aprovou a edição de normativo que altera o procedimento dos termos de compromisso (proposta de alteração da Deliberação… | cvm-col-20081021-d03 | fichas/colegiado/2008-22.md |
+| decisao-colegiado | — | 2008-10-17 | outro | O Colegiado aprovou deliberação que exige, nos ITRs do 3º trimestre de 2008, informações mais abrangentes e detalhadas sobre instrumentos… | cvm-col-20081017-d01 | fichas/colegiado/2008-22.md |
+| decisao-colegiado | 05/2008 | 2008-10-07 | deferido | O Colegiado atendeu pedido da ABBI e prorrogou até 31.10.08 o prazo para sugestões à Audiência Pública 05/2008, sobre ofertas públicas com… | cvm-col-20081007-d17 | fichas/colegiado/2008-22.md |
+| decisao-colegiado | — | 2008-09-30 | — | A SNC deu ciência ao Colegiado da colocação em audiência pública, por 30 dias, com o CPC, o BACEN e a SUSEP, do Pronunciamento CPC sobre… | cvm-col-20080930-d15 | fichas/colegiado/2008-21.md |
+| decisao-colegiado | — | 2008-09-10 | outro | O Colegiado aprovou, com alterações, minuta de Instrução que altera a Instrução CVM 209/94, que rege os fundos mútuos de investimento em… | cvm-col-20080910-d01 | fichas/colegiado/2008-20.md |
+| decisao-colegiado | — | 2008-09-03 | outro | O Colegiado aprovou, com alterações, minuta de Instrução sobre ofertas públicas com esforços restritos de venda e a negociação desses… | cvm-col-20080903-d02 | fichas/colegiado/2008-20.md |
+| decisao-colegiado | RJ2004/4101 | 2008-09-03 | outro | O Colegiado aprovou, com alterações, minuta de Instrução da SDM, elaborada após audiência pública, sobre constituição, administração… | cvm-col-20080903-d01 | fichas/colegiado/2008-20.md |
+| decisao-colegiado | — | 2008-08-26 | outro | O Colegiado aprovou, após audiência pública, parecer de orientação sobre deveres fiduciários dos administradores em fusões, incorporações e… | cvm-col-20080826-d01 | fichas/colegiado/2008-19.md |
+| decisao-colegiado | RJ2005/2965 | 2008-08-13 | outro | O Colegiado tomou ciência da colocação em audiência pública, em conjunto com o CPC, da minuta de Deliberação que aprova o pronunciamento… | cvm-col-20080813-d05 | fichas/colegiado/2008-19.md |
+| decisao-colegiado | RJ2008/7505 | 2008-08-13 | — | A SNC deu ciência ao Colegiado da colocação em audiência pública, junto com o CPC, de minuta de Deliberação que aprova o pronunciamento CPC… | cvm-col-20080813-d04 | fichas/colegiado/2008-18.md |
+| decisao-colegiado | RJ2008/7506 | 2008-08-13 | — | A SNC deu ciência ao Colegiado de audiência pública, conjunta com o CPC, sobre minuta de Deliberação que aprova o pronunciamento CPC O-01… | cvm-col-20080813-d02 | fichas/colegiado/2008-18.md |
+| decisao-colegiado | RJ2008/3156 | 2008-07-29 | outro | O Colegiado aprovou a minuta de Instrução, elaborada após audiência pública, que dispõe sobre procedimento simplificado para registro de… | cvm-col-20080729-d06 | fichas/colegiado/2008-17.md |
+| decisao-colegiado | 02/2008; 03/2008; RJ2006/6136 | 2008-07-22 | parcial | O Colegiado prorrogou até 25.08.08 o prazo para sugestões à Audiência Pública 03/08, sobre a atividade de analista de valores mobiliários… | cvm-col-20080722-d27 | fichas/colegiado/2008-17.md |
+| decisao-colegiado | 02/2008 | 2008-07-03 | outro | O Colegiado atendeu pedido da ABBI e prorrogou até 25.07.08 o prazo de encerramento da Audiência Pública nº 02/08. | cvm-col-20080703-d09 | fichas/colegiado/2008-14.md |
+| decisao-colegiado | — | 2008-07-03 | outro | O Colegiado aprovou, com alterações, minuta de deliberação sobre procedimentos preventivos e orientadores (carta de alerta) na atividade… | cvm-col-20080703-d04 | fichas/colegiado/2008-14.md |
+| decisao-colegiado | RJ2008/3156 | 2008-06-25 | outro | O Colegiado aprovou minuta de instrução sobre procedimento simplificado para registro de ofertas públicas de distribuição de valores… | cvm-col-20080625-d02 | fichas/colegiado/2008-14.md |
+| decisao-colegiado | — | 2008-06-25 | outro | O Colegiado aprovou, para audiência pública até 25.07.08, a minuta de Deliberação que aprova exames para comprovação de qualificação… | cvm-col-20080625-d01 | fichas/colegiado/2008-14.md |
+| decisao-colegiado | RJ2008/3156 | 2008-06-11 | outro | O Colegiado aprovou, com pequenas alterações, a minuta de Instrução sobre procedimento simplificado para registro de ofertas públicas de… | cvm-col-20080611-d01 | fichas/colegiado/2008-13.md |
+| decisao-colegiado | — | 2008-06-02 | outro | O Colegiado aprovou, para audiência pública de 30 dias, a minuta de Parecer de Orientação sobre os deveres fiduciários dos administradores… | cvm-col-20080602-d01 | fichas/colegiado/2008-12.md |
+| decisao-colegiado | RJ2006/6136 | 2008-05-13 | outro | O Colegiado aprovou, com algumas alterações, o texto elaborado pela SDM sobre a atividade de analista de valores mobiliários (proposta de… | cvm-col-20080513-d01-r2 | fichas/colegiado/2008-11.md |
+| decisao-colegiado | RJ2008/2882 | 2008-04-30 | outro | O Colegiado aprovou, com alterações, a minuta de alteração da Instrução CVM 209/94 (atualização monetária) apresentada pela SDM. | cvm-col-20080430-d02 | fichas/colegiado/2008-10.md |
+| decisao-colegiado | RJ2008/1778 | 2008-04-30 | outro | O Colegiado aprovou, com algumas alterações, as minutas de Instrução e de Nota Explicativa sobre a aplicação da Lei 11.638/07, apresentadas… | cvm-col-20080430-d01 | fichas/colegiado/2008-10.md |
+| decisao-colegiado | RJ2004/1335 | 2008-04-01 | outro | O Colegiado aprovou, com alterações, após audiência pública, a minuta de Instrução que dispõe sobre a aprovação de contratos derivativos… | cvm-col-20080401-d18 | fichas/colegiado/2008-08.md |
+| decisao-colegiado | RJ2007/9346 | 2008-03-18 | outro | Por unanimidade, o Colegiado acompanhou a Presidência (Memo/CVM/PTE/020/08) e aprovou nova Deliberação em substituição integral à… | cvm-col-20080318-d02 | fichas/colegiado/2008-07.md |
+| decisao-colegiado | RJ2008/1778 | 2008-03-11 | outro | O Colegiado aprovou, com alterações, minuta de Instrução sobre diretrizes para implementação dos aspectos contábeis alterados pela Lei… | cvm-col-20080311-d14 | fichas/colegiado/2008-06.md |
+| decisao-colegiado | RJ2008/2063 | 2008-03-11 | outro | O Colegiado tomou ciência da colocação em audiência pública, junto ao CPC, da minuta de Deliberação que aprova o pronunciamento CPC 03… | cvm-col-20080311-d13 | fichas/colegiado/2008-06.md |
+| decisao-colegiado | — | 2008-03-11 | outro | O Colegiado aprovou a minuta de Instrução que altera a Instrução 441/06. | cvm-col-20080311-d11 | fichas/colegiado/2008-06.md |
+| decisao-colegiado | — | 2008-02-26 | outro | O Colegiado aprovou, com alterações, minuta de Deliberação que delega à SRE competência para dispensar certos requisitos de Fundos de… | cvm-col-20080226-d01 | fichas/colegiado/2008-04.md |
+| decisao-colegiado | RJ2007/12819 | 2008-02-20 | outro | O Colegiado aprovou, com alterações, minuta de Deliberação sobre a tramitação de processos administrativos sancionadores (Lei 6.385/76… | cvm-col-20080220-d01 | fichas/colegiado/2008-04.md |
+| decisao-colegiado | RJ2008/1036 | 2008-02-19 | outro | O Colegiado aprovou, com alterações, minuta de Deliberação que dispensa a constituição, a exigência e a cobrança administrativa e judicial… | cvm-col-20080219-d01 | fichas/colegiado/2008-03.md |
+| decisao-colegiado | 01/2008; RJ2004/4101 | 2008-02-14 | deferido | O Colegiado atendeu pedidos da ANCOR e da ANDIMA e prorrogou até 17.03.08 o prazo para sugestões à Audiência Pública 01/08, sobre a… | cvm-col-20080214-d05 | fichas/colegiado/2008-03.md |
+| decisao-colegiado | — | 2008-01-09 | outro | O Colegiado emitiu comunicado ao mercado com entendimento preliminar sobre a Lei 11.638/07, que altera a Lei 6.404/76 em matéria contábil… | cvm-col-20080109-d02 | fichas/colegiado/2008-01.md |
+| decisao-colegiado | RJ2007/3212 | 2008-01-09 | outro | O Colegiado aprovou, com alterações e após audiência pública, a minuta de Instrução sobre aplicação de recursos no exterior por fundos de… | cvm-col-20080109-d01 | fichas/colegiado/2008-01.md |
+| decisao-colegiado | SP2006/0207 | 2008-01-08 | outro | O Colegiado editou ato normativo que concede à SMI competência para suspender intermediação irregular de qualquer valor mobiliário, e não… | cvm-col-20080108-d08 | fichas/colegiado/2008-01.md |
+| decisao-colegiado | RJ2007/10501 | 2007-11-21 | outro | Após audiência pública. Proc. RJ2007/10501. | cvm-col-20071121-d02 | fichas/colegiado/2007-23.md |
+| decisao-colegiado | RJ2007/12913 | 2007-11-06 | outro | O Colegiado aprovou, com pequenas alterações, minuta de Decisão-Conjunta CVM/SPC que fixa os índices de referência admitidos para cobrança… | cvm-col-20071106-d01 | fichas/colegiado/2007-22.md |
+| decisao-colegiado | RJ2007/12819 | 2007-10-30 | outro | O Colegiado aprovou, com alterações, para audiência pública de 30 dias, minuta de Deliberação que substitui a Deliberação 457/02 e reforma… | cvm-col-20071030-d01 | fichas/colegiado/2007-20.md |
+| decisao-colegiado | RJ2004/4101 | 2007-10-30 | outro | O Colegiado aprovou, com alterações, a minuta de Instrução sobre constituição, administração, funcionamento, oferta de cotas e divulgação… | cvm-col-20071030-d01-r2 | fichas/colegiado/2007-21.md |
+| decisao-colegiado | RJ2007/8194 | 2007-10-09 | outro | O Colegiado aprovou o texto da minuta de Instrução sobre o fundo de investimento em participações em infraestrutura, após audiência pública. | cvm-col-20071009-d09 | fichas/colegiado/2007-19.md |
+| decisao-colegiado | RJ2007/10682 | 2007-10-09 | outro | O Colegiado respondeu à consulta da SEP mantendo o entendimento do Proc. RJ2001/12242 (aprovado em 26.04.02): o art. 8º, §1º, III, da Lei… | cvm-col-20071009-d03 | fichas/colegiado/2007-19.md |
+| decisao-colegiado | RJ2003/11142 | 2007-09-18 | outro | O Colegiado aprovou o texto final, com diversas alterações, da minuta de Instrução sobre mercados regulamentados de valores mobiliários e a… | cvm-col-20070918-d01 | fichas/colegiado/2007-17.md |
+| decisao-colegiado | — | 2007-09-17 | outro | O Colegiado prorrogou até 17.10.2007 o prazo para envio de sugestões e comentários à Audiência Pública 09/07, que altera a Instrução 388/03… | cvm-col-20070917-d02 | fichas/colegiado/2007-17.md |
+| decisao-colegiado | — | 2007-09-11 | outro | O Colegiado prorrogou até 25.09.2007 o prazo para envio de sugestões e comentários à Audiência Pública 08/07, que altera a Instrução 301/99… | cvm-col-20070911-d05 | fichas/colegiado/2007-16.md |
+| decisao-colegiado | RJ2007/9346 | 2007-09-03 | outro | O Colegiado aprovou, com alterações, a minuta de Deliberação que dispõe sobre a obrigatoriedade de identificação dos acionistas… | cvm-col-20070903-d01 | fichas/colegiado/2007-16.md |
+| decisao-colegiado | RJ2006-5733 | 2007-08-28 | outro | O Colegiado aprovou, com alterações, após audiência pública, minuta de Instrução que regulamenta os fundos de investimento vinculados a… | cvm-col-20070828-d06 | fichas/colegiado/2007-16.md |
+| decisao-colegiado | — | 2007-08-27 | outro | Minuta de instrução que dispõe sobre o fundo de investimento do fundo de garantia do tempo de serviço (fi-fgts) e sobre o fundo de… | cvm-col-20070827-d01 | fichas/colegiado/2007-15.md |
+| decisao-colegiado | RJ2004/1335 | 2007-08-14 | outro | O Colegiado aprovou, com alterações, para audiência pública de 30 dias, minuta de Instrução sobre aprovação de contratos derivativos… | cvm-col-20070814-d05 | fichas/colegiado/2007-15.md |
+| decisao-colegiado | RJ2007/2035 | 2007-08-14 | outro | O Colegiado determinou a emissão de normativo que revoga as exigências do §4º e do inc. II do §5º do art. 38 da Instrução 356/01 às… | cvm-col-20070814-d03 | fichas/colegiado/2007-15.md |
+| decisao-colegiado | RJ2006/6136 | 2007-08-07 | outro | O Colegiado aprovou, com alterações, minuta de Instrução sobre a atividade de analista de valores mobiliários para audiência pública de 30… | cvm-col-20070807-d01 | fichas/colegiado/2007-14.md |
+| decisao-colegiado | 06/2007 | 2007-07-31 | outro | O Colegiado prorrogou até 06.08.07 o prazo para sugestões e comentários à Audiência Pública nº 06/2007, sobre mercados regulamentados de… | cvm-col-20070731-d11 | fichas/colegiado/2007-14.md |
+| decisao-colegiado | RJ2006/5499 | 2007-07-31 | outro | O Colegiado aprovou, com alterações, minuta de Deliberação e de Ofício/Circular da SMI alertando agentes autônomos de investimento pessoa… | cvm-col-20070731-d09 | fichas/colegiado/2007-14.md |
+| decisao-colegiado | — | 2007-07-17 | outro | O Colegiado deliberou submeter ao Ministro da Fazenda minutas de voto e de resolução do CMN que alteram os arts. 3º, 7º e 8º e revogam o… | cvm-col-20070717-d10 | fichas/colegiado/2007-13.md |
+| decisao-colegiado | RJ2007/4125; RJ2007/1298 | 2007-07-17 | outro | O Colegiado aprovou a edição de Alerta ao Mercado sobre emissões de CICs lastreadas em direitos de jogadores de futebol, conforme minuta… | cvm-col-20070717-d09 | fichas/colegiado/2007-13.md |
+| decisao-colegiado | RJ2003/7911 | 2007-07-17 | outro | O Colegiado determinou o arquivamento de processo que propunha estender a identificação de comitentes da Instrução CVM 122/90 às corretoras… | cvm-col-20070717-d05 | fichas/colegiado/2007-13.md |
+| decisao-colegiado | RJ2007/4235 | 2007-07-11 | outro | O Colegiado aprovou, após audiência pública, o texto da minuta de Instrução sobre a elaboração e divulgação de demonstrações contábeis… | cvm-col-20070711-d01 | fichas/colegiado/2007-13.md |
+| decisao-colegiado | SP2007/0023 | 2007-07-10 | outro | O Colegiado declarou a perda de objeto da consulta da SMI sobre metodologia de índices para derivativos, por entender que a matéria deve… | cvm-col-20070710-d21 | fichas/colegiado/2007-13.md |
+| decisao-colegiado | — | 2007-07-03 | outro | O Colegiado aprovou, para audiência pública de 30 dias, minuta de Instrução sobre fundos de investimento em participações em… | cvm-col-20070703-d12 | fichas/colegiado/2007-11.md |
+| decisao-colegiado | RJ2003/11142 | 2007-06-28 | outro | O Colegiado aprovou para audiência pública, pelo prazo de 30 dias, minuta de Instrução sobre mercados regulamentados de valores mobiliários… | cvm-col-20070628-d16 | fichas/colegiado/2007-11.md |
+| decisao-colegiado | — | 2007-06-12 | outro | O Colegiado aprovou, por unanimidade, proposta da SNC de incluir na pauta as minutas de pronunciamentos do CPC somente após a audiência… | cvm-col-20070612-d04 | fichas/colegiado/2007-09.md |
+| decisao-colegiado | RJ2007/3212 | 2007-06-12 | outro | O Colegiado aprovou, com alterações, o texto da SDM para Instrução que aperfeiçoa a regulação sobre aplicação de recursos no exterior por… | cvm-col-20070612-d03 | fichas/colegiado/2007-09.md |
+| decisao-colegiado | RJ2006/9805 | 2007-06-12 | outro | O Colegiado aprovou, com alterações, a minuta de Deliberação que disciplina o Sistema de Supervisão Baseada em Risco do mercado de valores… | cvm-col-20070612-d02 | fichas/colegiado/2007-09.md |
+| decisao-colegiado | RJ2005/3958 | 2007-06-12 | outro | O Colegiado aprovou, com alterações, a minuta apresentada pela SDM que altera as Instruções 409/04 e 332/00. | cvm-col-20070612-d01 | fichas/colegiado/2007-09.md |
+| decisao-colegiado | RJ2007/4235 | 2007-05-14 | outro | O Colegiado aprovou, para audiência pública até 30 de junho de 2007, minuta de Instrução sobre elaboração e divulgação de demonstrações… | cvm-col-20070514-d02 | fichas/colegiado/2007-07.md |
+| decisao-colegiado | RJ2007/2013 | 2007-05-14 | outro | O Colegiado aprovou o texto da minuta de Deliberação elaborada pela SNC após audiência pública, que dispõe sobre a audiência pública e a… | cvm-col-20070514-d01 | fichas/colegiado/2007-07.md |
+| decisao-colegiado | 04/2007; RJ2007/3206 | 2007-05-03 | outro | O Colegiado prorrogou para 21.05.07 o prazo para sugestões e comentários na Audiência Pública nº 04/07, sobre o dever de verificar a… | cvm-col-20070503-d01 | fichas/colegiado/2007-07.md |
+| decisao-colegiado | RJ2006/5661 | 2007-04-25 | outro | O Colegiado aprovou a minuta de Instrução, elaborada após audiência pública, que altera as Instruções 209/94, 391/03 e 406/04 para… | cvm-col-20070425-d03 | fichas/colegiado/2007-06.md |
+| decisao-colegiado | RJ2004/1269 | 2007-04-25 | outro | O Colegiado aprovou, com alterações, a minuta de Instrução sobre captação de ordens pulverizadas, após audiência pública. Manteve o teto de… | cvm-col-20070425-d02 | fichas/colegiado/2007-06.md |
+| decisao-colegiado | RJ2006/1586 | 2007-04-25 | outro | Minuta de instrução sobre multa cominatória e revoga a instrução nº 273/98. Proc. RJ2006/1586. | cvm-col-20070425-d01 | fichas/colegiado/2007-06.md |
+| decisao-colegiado | RJ2007/2013 | 2007-03-27 | outro | O Colegiado aprovou, para audiência pública de 30 dias, minuta de Deliberação sobre a audiência pública e a aceitação pela CVM dos… | cvm-col-20070327-d04 | fichas/colegiado/2007-05.md |
+| decisao-colegiado | RJ2007/2623 | 2007-03-27 | outro | O Colegiado aprovou minuta apresentada pela área técnica que altera a Instrução 398/03 para adequá-la à Lei 11.437/06, que alterou o art… | cvm-col-20070327-d03 | fichas/colegiado/2007-05.md |
+| decisao-colegiado | RJ2006/0449 | 2007-03-07 | outro | O Colegiado aprovou, com alterações, o texto da SDM para a minuta de Instrução que altera a Instrução CVM 358/02, após audiência pública. | cvm-col-20070307-d03 | fichas/colegiado/2007-04.md |
+| decisao-colegiado | RJ2006/9805 | 2007-03-07 | outro | O Colegiado aprovou, com alterações, para audiência pública de 30 dias, a minuta de Deliberação sobre supervisão baseada em risco do… | cvm-col-20070307-d02 | fichas/colegiado/2007-04.md |
+| decisao-colegiado | RJ2006/1586 | 2007-03-07 | outro | Minuta de instrução sobre multa cominatória e revoga a instrução nº 273/98. Proc. RJ2006/1586. | cvm-col-20070307-d01 | fichas/colegiado/2007-04.md |
+| decisao-colegiado | — | 2007-03-02 | outro | O Colegiado aprovou, para audiência pública de 30 dias, minuta de Instrução que aperfeiçoa a regulação sobre aplicação de recursos no… | cvm-col-20070302-d03 | fichas/colegiado/2007-04.md |
+| decisao-colegiado | — | 2007-03-02 | outro | O Colegiado aprovou, para audiência pública de 30 dias, minuta de Instrução que exige verificação de adequação ao investidor (objetivos… | cvm-col-20070302-d02 | fichas/colegiado/2007-04.md |
+| decisao-colegiado | RJ2005/3958 | 2007-03-02 | outro | O Colegiado aprovou, com alterações, a minuta que altera a Instrução 409/04, após audiência pública, a ser submetida ao Banco Central antes… | cvm-col-20070302-d01 | fichas/colegiado/2007-04.md |
+| decisao-colegiado | — | 2007-01-31 | outro | O Colegiado aprovou minuta de Instrução que altera o Anexo III da Instrução 306/99. | cvm-col-20070131-d01 | fichas/colegiado/2007-02.md |
+| decisao-colegiado | RJ2005/3327 | 2007-01-10 | outro | O Colegiado aprovou minuta de instrução que acrescenta o art. 3º-A e altera o art. 1º da Instrução CVM 273/98. | cvm-col-20070110-d01 | fichas/colegiado/2007-01.md |
+| decisao-colegiado | — | 2006-12-27 | outro | O Colegiado aprovou minuta de deliberação que dispõe sobre registro provisório para distribuição pública de certificados de investimento… | cvm-col-20061227-d01 | fichas/colegiado/2006-21.md |
+| decisao-colegiado | — | 2006-12-19 | outro | O Colegiado aprovou minuta de Deliberação que altera a Deliberação CVM nº 457/02. | cvm-col-20061219-d03-r2 | fichas/colegiado/2006-20.md |
+| decisao-colegiado | — | 2006-12-19 | outro | O Colegiado aprovou minuta de Instrução que altera as Instruções CVM 356/01 e 414/04. | cvm-col-20061219-d02-r2 | fichas/colegiado/2006-20.md |
+| decisao-colegiado | RJ2005/3331 | 2006-12-19 | outro | O Colegiado aprovou, com alterações, para audiência pública de 30 dias, a minuta de Instrução sobre emissão e negociação de Certificados de… | cvm-col-20061219-d01-r2 | fichas/colegiado/2006-20.md |
+| decisao-colegiado | — | 2006-12-05 | outro | Minutas de votos e resoluções CMN. | cvm-col-20061205-d20 | fichas/colegiado/2006-19.md |
+| decisao-colegiado | RJ2006/0449 | 2006-11-08 | outro | O Colegiado aprovou, com alterações, a minuta que altera a Instrução 358/02 para colocação em audiência pública pelo prazo de 30 dias. A… | cvm-col-20061108-d02 | fichas/colegiado/2006-17.md |
+| decisao-colegiado | RJ2004/0723 | 2006-11-08 | outro | O Colegiado aprovou, com alterações, a minuta de Instrução sobre empréstimos de valores mobiliários por entidade de compensação e… | cvm-col-20061108-d01 | fichas/colegiado/2006-17.md |
+| decisao-colegiado | RJ2002/6503 | 2006-10-31 | outro | O Colegiado respondeu consulta do Banco Bradesco S.A. sobre o depósito de resgate de ações após cancelamento de registro (art. 4º, §4º, Lei… | cvm-col-20061031-d01 | fichas/colegiado/2006-16.md |
+| decisao-colegiado | — | 2006-10-18 | outro | O Colegiado aprovou a minuta de Instrução de alteração da Instrução 243/96. | cvm-col-20061018-d03 | fichas/colegiado/2006-16.md |
+| decisao-colegiado | — | 2006-10-18 | outro | O Colegiado aprovou minuta de Deliberação que altera a Deliberação CVM 463/03. | cvm-col-20061018-d02 | fichas/colegiado/2006-16.md |
+| decisao-colegiado | RJ2005/0102 | 2006-10-18 | outro | O Colegiado aprovou o texto final das novas minutas que alteram as Instruções CVM 356/01, 400/03 e 414/04 e dispõem sobre a constituição e… | cvm-col-20061018-d01 | fichas/colegiado/2006-15.md |
+| decisao-colegiado | 34/2006; RJ2006/7204; RJ2006/7213 | 2006-10-17 | outro | O Colegiado respondeu negativamente a duas consultas sobre o Parecer de Orientação 34/2006 (operação Telemar): preço de aquisição de… | cvm-col-20061017-d04 | fichas/colegiado/2006-15.md |
+| decisao-colegiado | RJ2006-5733 | 2006-09-20 | outro | O Colegiado aprovou, para audiência pública de 30 dias, minuta de Instrução que regulamenta fundos de investimento vinculados a planos de… | cvm-col-20060920-d01 | fichas/colegiado/2006-14.md |
+| decisao-colegiado | RJ2004/1269 | 2006-08-23 | outro | O Colegiado aprovou, com alterações, minuta de Instrução sobre captação de ordens pulverizadas por rede de agências bancárias, para… | cvm-col-20060823-d01 | fichas/colegiado/2006-13.md |
+| decisao-colegiado | RJ2006/5661 | 2006-08-09 | outro | O Colegiado aprovou, com alterações, minuta de Instrução sobre constituição, funcionamento e administração de FIP e FMIEE que obtenham… | cvm-col-20060809-d01 | fichas/colegiado/2006-13.md |
+| decisao-colegiado | RJ2003/13239 | 2006-07-05 | outro | O Colegiado aprovou proposta de alteração da redação do inciso V do art. 12-A da Instrução CVM nº 387/03. | cvm-col-20060705-d05 | fichas/colegiado/2006-10.md |
+| decisao-colegiado | RJ2004/5631 | 2006-07-05 | outro | O Colegiado aprovou minuta de Instrução que acrescenta o Anexo III e altera a Instrução CVM nº 361/02, sobre registro e procedimento das… | cvm-col-20060705-d04 | fichas/colegiado/2006-10.md |
+| decisao-colegiado | RJ2005/7215 | 2006-07-05 | outro | O Colegiado aprovou, com alterações, minuta de Instrução que aprova o Plano Contábil dos Fundos de Investimento (COFI), após audiência… | cvm-col-20060705-d02 | fichas/colegiado/2006-10.md |
+| decisao-colegiado | RJ2004/6922 | 2006-07-05 | outro | O Colegiado ratificou o texto apresentado pela área técnica, com as alterações determinadas em 26.10.05, e aprovou a edição de nova… | cvm-col-20060705-d01 | fichas/colegiado/2006-10.md |
+| decisao-colegiado | — | 2006-05-26 | outro | O Colegiado aprovou proposta de alteração da Instrução CVM 260/97, sobre certificados de investimento em obras audiovisuais… | cvm-col-20060526-d06 | fichas/colegiado/2006-08.md |
+| decisao-colegiado | RJ2003/6439; RJ2006/3289 | 2006-05-26 | outro | O Colegiado aprovou, com algumas alterações, minuta de Instrução que altera as Instruções CVM 331/00 e 332/00 (BDRs), elaborada após… | cvm-col-20060526-d05 | fichas/colegiado/2006-08.md |
+| decisao-colegiado | RJ2005/9145 | 2006-05-26 | outro | Minuta de instrução sobre fundo de garantia de locação imobiliária. Proc. RJ2005/9145. | cvm-col-20060526-d04 | fichas/colegiado/2006-08.md |
+| decisao-colegiado | RJ2005/2967 | 2006-05-26 | outro | O Colegiado aprovou, após audiência pública, a minuta de Deliberação que aprova pronunciamento do IBRACON sobre eventos subsequentes à data… | cvm-col-20060526-d03 | fichas/colegiado/2006-08.md |
+| decisao-colegiado | RJ2004/0723 | 2006-05-26 | outro | O Colegiado aprovou, com alterações, minuta de Instrução sobre empréstimos de valores mobiliários por entidade de compensação e liquidação… | cvm-col-20060526-d01 | fichas/colegiado/2006-08.md |
+| decisao-colegiado | 03/2006; RJ2005/0102 | 2006-05-18 | deferido | O Colegiado deferiu solicitação da ANBID e prorrogou para 30.06.06 o prazo da audiência pública nº 03/06. | cvm-col-20060518-d07 | fichas/colegiado/2006-08.md |
+| decisao-colegiado | 04/2006; RJ2005/0102 | 2006-05-18 | deferido | O Colegiado atendeu às solicitações da BOVESPA e da ANBID e prorrogou para 30.06.06 o prazo da audiência pública nº 04/06. | cvm-col-20060518-d05 | fichas/colegiado/2006-07.md |
+| decisao-colegiado | RJ2005/9169 | 2006-04-27 | outro | O Colegiado aprovou, com alterações, minuta de Deliberação que altera e acrescenta dispositivos à Deliberação CVM nº 457/02. | cvm-col-20060427-d01 | fichas/colegiado/2006-07.md |
+| decisao-colegiado | — | 2006-03-28 | outro | O Colegiado aprovou proposta da SGE de emissão de Instrução que revoga, de imediato, o § 5º do art. 3º da Instrução CVM 388/03. | cvm-col-20060328-d05 | fichas/colegiado/2006-05.md |
+| decisao-colegiado | RJ2005/9145 | 2006-03-22 | outro | Minuta de instrução sobre fundo de garantia de locação imobiliária. Proc. RJ2005/9145. | cvm-col-20060322-d03 | fichas/colegiado/2006-05.md |
+| decisao-colegiado | — | 2006-03-22 | outro | O Colegiado aprovou, com alterações a serem consignadas pela SDM, minuta que institui o registro automático de ofertas públicas de… | cvm-col-20060322-d02 | fichas/colegiado/2006-05.md |
+| decisao-colegiado | — | 2006-03-22 | outro | O Colegiado aprovou, com alterações a cargo da SDM e da SNC, minuta de instrução sobre BDRs Nível III de sociedade estrangeira (sede da… | cvm-col-20060322-d01 | fichas/colegiado/2006-05.md |
+| decisao-colegiado | — | 2006-03-03 | outro | Em questão encaminhada pelo Comitê de Termo de Compromisso, o Colegiado reafirmou que o Comitê só emitirá parecer sobre propostas… | cvm-col-20060303-d01 | fichas/colegiado/2006-04.md |
+| decisao-colegiado | RJ2004/6645 | 2006-02-21 | outro | O Colegiado aprovou minuta de Deliberação sobre a incidência de correção monetária e juros de mora em multas aplicadas pela CVM. | cvm-col-20060221-d10 | fichas/colegiado/2006-04.md |
+| decisao-colegiado | RJ2004/3034 | 2006-02-13 | outro | O Colegiado aprovou, com alterações, a minuta de Instrução, elaborada após audiência pública, que dispõe sobre a atividade de agente… | cvm-col-20060213-d04 | fichas/colegiado/2006-03.md |
+| decisao-colegiado | — | 2006-02-13 | outro | O Colegiado aprovou, com alterações, minuta que altera as Instruções CVM 306/99 e 409/04 para audiência pública de 30 dias. A minuta deverá… | cvm-col-20060213-d03 | fichas/colegiado/2006-03.md |
+| decisao-colegiado | RJ2005/0102 | 2006-02-13 | outro | O Colegiado aprovou, com alterações, para audiência pública de 30 dias, minutas de alteração das Instruções CVM 356/01, 400/03 e 414/04 e… | cvm-col-20060213-d02 | fichas/colegiado/2006-03.md |
+| decisao-colegiado | RJ2005/0552 | 2006-02-13 | outro | O Colegiado aprovou, com pequenas alterações, minuta de Deliberação do Comitê de Regulação sobre a autorização para reprodução e utilização… | cvm-col-20060213-d01 | fichas/colegiado/2006-03.md |
+| decisao-colegiado | RJ2005/3420 | 2006-01-23 | outro | O Colegiado aprovou a minuta de Instrução sobre cancelamento de ofício e suspensão do registro de sociedades beneficiárias de recursos… | cvm-col-20060123-d01 | fichas/colegiado/2006-01.md |
+| decisao-colegiado | — | 2005-12-27 | outro | O Colegiado aprovou minuta de Decisão-Conjunta CVM/Bacen que revoga normas sobre fundos de investimento editadas com o Bacen, sem função ou… | cvm-col-20051227-d15 | fichas/colegiado/2005-21.md |
+| decisao-colegiado | RJ2005/9585 | 2005-12-27 | outro | O Colegiado aprovou a minuta apresentada pela Bovespa para alterar o Regulamento de Listagem do Novo Mercado e de Práticas Diferenciadas de… | cvm-col-20051227-d08 | fichas/colegiado/2005-20.md |
+| decisao-colegiado | — | 2005-12-27 | outro | O Colegiado aprovou a minuta de Instrução apresentada pela PFE sobre a administração de carteira de valores mobiliários do Fundo Garantidor… | cvm-col-20051227-d02 | fichas/colegiado/2005-20.md |
+| decisao-colegiado | RJ2005/0102 | 2005-11-23 | outro | O Colegiado deliberou submeter a nova audiência pública a proposta de alteração da ICVM 414/04, sobre registro de companhias… | cvm-col-20051123-d01 | fichas/colegiado/2005-18.md |
+| decisao-colegiado | RJ2005/4734 | 2005-11-09 | outro | O Colegiado aprovou, com alterações, para audiência pública pelo prazo de 30 dias, minutas de Edital e de Instrução sobre escrituração… | cvm-col-20051109-d01 | fichas/colegiado/2005-17.md |
+| decisao-colegiado | — | 2005-10-31 | deferido | O Colegiado deferiu, por unanimidade, pedido da Bovespa e editou normativo prorrogando para 31.12.2005 o prazo de adaptação do art. 5º da… | cvm-col-20051031-d01 | fichas/colegiado/2005-16.md |
+| decisao-colegiado | — | 2005-10-18 | outro | O Colegiado manifestou o entendimento de que o parágrafo único do art. 15 da Instrução CVM 306/99 admite vários gestores terceiros para… | cvm-col-20051018-d05 | fichas/colegiado/2005-15.md |
+| decisao-colegiado | — | 2005-10-18 | outro | O Colegiado aprovou a minuta de Deliberação que altera o art. 34 da Deliberação CVM 457/02. | cvm-col-20051018-d02 | fichas/colegiado/2005-15.md |
+| decisao-colegiado | RJ2005/5392 | 2005-10-04 | outro | O Colegiado aprovou a minuta de Instrução sobre cadastramento de cooperativas de crédito na CVM, que revoga a Instrução CVM 417/05. | cvm-col-20051004-d07 | fichas/colegiado/2005-14.md |
+| decisao-colegiado | — | 2005-09-28 | outro | O Colegiado aprovou, com alterações, para audiência pública, as minutas de Edital e de Instrução sobre cancelamento de ofício e suspensão… | cvm-col-20050928-d06 | fichas/colegiado/2005-13.md |
+| decisao-colegiado | RJ2005/2966 | 2005-09-28 | outro | O Colegiado aprovou, com alterações, para audiência pública, as minutas de Edital e de Deliberação sobre práticas contábeis, mudanças nas… | cvm-col-20050928-d04 | fichas/colegiado/2005-13.md |
+| decisao-colegiado | RJ2001/9445; RJ2002/2418; RJ2003/1813 | 2005-09-28 | outro | O Colegiado aprovou as minutas de Pareceres de Orientação sobre uso da internet na intermediação de operações e na oferta de valores… | cvm-col-20050928-d02 | fichas/colegiado/2005-13.md |
+| decisao-colegiado | — | 2005-09-20 | outro | O Colegiado aprovou, com aprimoramentos que não alteraram a essência do texto, a minuta de Decisão-Conjunta CVM/SPC sobre aquisição e… | cvm-col-20050920-d05 | fichas/colegiado/2005-13.md |
+| decisao-colegiado | — | 2005-09-13 | outro | O Colegiado aprovou a minuta de Decisão-Conjunta CVM/BACEN que autoriza as distribuidoras de títulos e valores mobiliários a intermediar… | cvm-col-20050913-d04 | fichas/colegiado/2005-13.md |
+| decisao-colegiado | RJ2005/0652 | 2005-08-29 | outro | O Colegiado aprovou, com alterações e após audiência pública, minuta de instrução sobre emissão de nota promissória do agronegócio para… | cvm-col-20050829-d01 | fichas/colegiado/2005-12.md |
+| termo-compromisso | RJ2005/3421 | 2005-08-10 | outro | O Colegiado aprovou minuta de Deliberação que altera as Deliberações CVM 390/01 e 457/02, sobre novos procedimentos para celebração de… | cvm-col-20050810-d01 | fichas/tc/2005-02.md |
+| decisao-colegiado | RJ2005/0880 | 2005-07-26 | outro | O Colegiado aprovou a minuta de Deliberação que altera a Deliberação CVM 61/88. | cvm-col-20050726-d04 | fichas/colegiado/2005-11.md |
+| decisao-colegiado | RJ2005/2839 | 2005-06-24 | outro | O Colegiado aprovou as minutas de Deliberação e de Portaria que tratam de delegação de competência. | cvm-col-20050624-d01 | fichas/colegiado/2005-10.md |
+| decisao-colegiado | — | 2005-05-04 | outro | O Colegiado manifestou-se favoravelmente, com algumas alterações, à minuta de Portaria do PTE que cria o Comitê de Regulação e dispõe sobre… | cvm-col-20050504-d03 | fichas/colegiado/2005-08.md |
+| termo-compromisso | — | 2005-05-04 | outro | O Colegiado aprovou, com alterações, para audiência pública até 31 de maio, minutas de Edital e de Instrução que alteram as Deliberações… | cvm-col-20050504-d02 | fichas/tc/2005-01.md |
+| decisao-colegiado | RJ2003/13239 | 2005-04-27 | outro | O Colegiado aprovou, com alterações, a minuta de Instrução que altera e acrescenta dispositivos às Instruções 387/03 e 325/00 sobre… | cvm-col-20050427-d02 | fichas/colegiado/2005-07.md |
+| decisao-colegiado | RJ2005/0526 | 2005-04-27 | outro | O Colegiado aprovou, com algumas alterações, a minuta de Deliberação que disciplina o direito e o procedimento de vista dos processos em… | cvm-col-20050427-d01 | fichas/colegiado/2005-07.md |
+| decisao-colegiado | RJ2005/0652 | 2005-04-12 | outro | O Colegiado aprovou, para audiência pública até 27 de maio de 2005, as minutas de edital e de instrução sobre a emissão de nota promissória… | cvm-col-20050412-d06 | fichas/colegiado/2005-06.md |
+| decisao-colegiado | RJ2005/1566 | 2005-04-12 | outro | O Colegiado, após ouvir a área técnica, aprovou a minuta de instrução que altera o caput do art. 11 da Instrução CVM nº 205/94. | cvm-col-20050412-d02 | fichas/colegiado/2005-06.md |
+| decisao-colegiado | — | 2005-03-29 | outro | O Colegiado aprovou minuta de Instrução que dispõe sobre o cadastramento, na CVM, de bancos comerciais e múltiplos sem carteira de… | cvm-col-20050329-d04 | fichas/colegiado/2005-06.md |
+| decisao-colegiado | RJ2003/6439 | 2005-03-08 | outro | O Colegiado aprovou, com alterações, a minuta de Instrução sobre emissão e negociação de BDR, que altera a Instrução 332/00, para audiência… | cvm-col-20050308-d01 | fichas/colegiado/2005-04.md |
+| decisao-colegiado | RJ2005/1112 | 2005-02-22 | outro | O Colegiado aprovou minuta de Instrução que cria fundos de investimento em empresas emergentes inovadoras, por alteração pontual da… | cvm-col-20050222-d07 | fichas/colegiado/2005-04.md |
+| decisao-colegiado | — | 2005-02-22 | outro | O Colegiado aprovou minuta de deliberação sobre dispensa da divulgação de fato relevante e delegação de competência, relatada pela SEP. | cvm-col-20050222-d05 | fichas/colegiado/2005-04.md |
+| decisao-colegiado | RJ2003/13239 | 2005-02-10 | outro | O Colegiado aprovou, com alterações, minuta de Instrução sobre a sistemática de cadastro de investidores não residentes para audiência… | cvm-col-20050210-d01 | fichas/colegiado/2005-03.md |
+| decisao-colegiado | — | 2005-01-25 | outro | O Colegiado aprovou a minuta de Deliberação sobre delegação de competência para decidir pedidos de dispensa de requisitos de registro… | cvm-col-20050125-d05 | fichas/colegiado/2005-02.md |
+| decisao-colegiado | — | 2005-01-25 | outro | O Colegiado aprovou a minuta de Deliberação sobre o direito e o procedimento de vista dos processos em trâmite na CVM, para audiência… | cvm-col-20050125-d01 | fichas/colegiado/2005-02.md |
+| decisao-colegiado | RJ2004/6922 | 2005-01-18 | outro | O Colegiado aprovou, com alterações, minuta de Instrução sobre o envio de balancetes à CVM por fundos de investimento especificados, para… | cvm-col-20050118-d01 | fichas/colegiado/2005-02.md |
+| decisao-colegiado | — | 2004-12-30 | outro | O Colegiado aprovou, por unanimidade, minuta de Instrução sobre registro de companhia aberta para companhias securitizadoras de créditos… | cvm-col-20041230-d04 | fichas/colegiado/2004-18.md |
+| decisao-colegiado | — | 2004-12-30 | outro | O Colegiado aprovou por unanimidade minuta de Deliberação que dispensa bancos comerciais, caixas econômicas, bancos múltiplos sem carteira… | cvm-col-20041230-d03 | fichas/colegiado/2004-18.md |
+| decisao-colegiado | RJ2004/7244 | 2004-12-23 | outro | O Colegiado aprovou, com alterações, minutas de Edital e de Deliberações sobre reconhecimento contábil de provisões, contingências ativas e… | cvm-col-20041223-d13 | fichas/colegiado/2004-17.md |
+| decisao-colegiado | RJ2003/12548 | 2004-12-14 | outro | O Colegiado manifestou-se pela desnecessidade de alterar a Lei 6.404/76 para assegurar participação de trabalhadores na gestão das S.A… | cvm-col-20041214-d07 | fichas/colegiado/2004-16.md |
+| decisao-colegiado | RJ2004/3034 | 2004-12-14 | outro | O Colegiado aprovou, com alterações, minutas de Edital e de Instrução que alteram a Instrução CVM 355/01 sobre agente autônomo de… | cvm-col-20041214-d02 | fichas/colegiado/2004-15.md |
+| decisao-colegiado | — | 2004-11-30 | outro | O Colegiado aprovou minuta de Deliberação, proposta pela área técnica, que esclarece ao público sobre a colocação de CPR representativas de… | cvm-col-20041130-d05 | fichas/colegiado/2004-15.md |
+| termo-compromisso | RJ2003/12433 | 2004-11-23 | outro | O Colegiado aprovou, com alterações, minuta de Deliberação que altera a Deliberação CVM 390/01, sobre celebração de termo de compromisso em… | cvm-col-20041123-d01 | fichas/tc/2004-02.md |
+| decisao-colegiado | RJ2003/7911 | 2004-11-09 | outro | O Colegiado aprovou, com alterações, minutas de Edital e de Instrução sobre identificação de comitentes finais para audiência pública de 30… | cvm-col-20041109-d04 | fichas/colegiado/2004-13.md |
+| decisao-colegiado | RJ2001/9445; RJ2002/2418; RJ2003/1813 | 2004-10-25 | outro | O Colegiado, por maioria, colocou em audiência restrita (ANBID, ANCOR e ADEVAL), pelo prazo de 30 dias, a minuta de Parecer de Orientação… | cvm-col-20041025-d02 | fichas/colegiado/2004-12.md |
+| decisao-colegiado | RJ2004/1269 | 2004-10-19 | outro | O Colegiado deliberou encaminhar ao Banco Central minuta de Instrução e de Resolução CMN, com exposição de motivos, sobre captação de… | cvm-col-20041019-d4482 | fichas/colegiado/2004-12.md |
+| decisao-colegiado | — | 2004-09-10 | outro | O Colegiado aprovou a minuta de projeto de consolidação da legislação em serviços financeiros para as negociações entre Mercosul e União… | cvm-col-20040910-d03 | fichas/colegiado/2004-10.md |
+| decisao-colegiado | — | 2004-08-31 | outro | O Colegiado aprovou, com base em manifestação favorável da área técnica, a minuta de Resolução da Bovespa sobre o credenciamento e a… | cvm-col-20040831-d04 | fichas/colegiado/2004-10.md |
+| decisao-colegiado | — | 2004-07-27 | outro | O Colegiado aprovou, com alterações, minuta de Deliberação da PFE sobre os registros que as instituições autorizadas a prestar serviços de… | cvm-col-20040727-d04 | fichas/colegiado/2004-09.md |
+| decisao-colegiado | RJ2003/7911 | 2004-07-19 | outro | O Colegiado aprovou minuta de norma sobre identificação de comitentes finais pelos integrantes do sistema de distribuição em operações… | cvm-col-20040719-d07 | fichas/colegiado/2004-09.md |
+| decisao-colegiado | — | 2004-07-19 | outro | O Colegiado aprovou, com alterações, a minuta de Deliberação que altera a Deliberação CVM 457/02. | cvm-col-20040719-d06 | fichas/colegiado/2004-09.md |
+| decisao-colegiado | RJ2004/4537 | 2004-07-19 | outro | O Colegiado aprovou, com algumas alterações, a minuta de Deliberação que dispõe sobre o empréstimo de PIBBs (papéis de índice Brasil… | cvm-col-20040719-d05 | fichas/colegiado/2004-09.md |
+| decisao-colegiado | — | 2004-07-13 | outro | O Colegiado aprovou a minuta de Deliberação que dispõe sobre o registro provisório de certificados audiovisuais. | cvm-col-20040713-d12 | fichas/colegiado/2004-08.md |
+| decisao-colegiado | RJ2004/2678 | 2004-07-13 | outro | O Colegiado aprovou minuta de Decisão-Conjunta CVM/Bacen sobre a prestação de serviço de administração de fluxo de caixa, proposta pelo… | cvm-col-20040713-d03 | fichas/colegiado/2004-08.md |
+| decisao-colegiado | — | 2004-07-06 | outro | O Colegiado aprovou, para audiência restrita, a minuta de Instrução que altera e consolida as normas sobre constituição, organização e… | cvm-col-20040706-d01 | fichas/colegiado/2004-08.md |
+| decisao-colegiado | — | 2004-06-24 | outro | O Colegiado aprovou, com observações a serem incorporadas, a minuta de deliberação apresentada pela PFE sobre os procedimentos a serem… | cvm-col-20040624-d04 | fichas/colegiado/2004-07.md |
+| decisao-colegiado | RJ2004/3078 | 2004-06-08 | outro | O Colegiado aprovou a minuta de decisão-conjunta CVM/Ancine que dispõe sobre a negociação no mercado secundário dos certificados de… | cvm-col-20040608-d04 | fichas/colegiado/2004-06.md |
+| decisao-colegiado | RJ2004/2898 | 2004-05-04 | outro | O Colegiado aprovou a minuta de Instrução que altera a Instrução CVM 405/04, sobre o envio de informações e o registro na CVM dos fundos de… | cvm-col-20040504-d03 | fichas/colegiado/2004-05.md |
+| decisao-colegiado | RJ2004/1494 | 2004-04-27 | outro | O Colegiado aprovou a minuta apresentada de alteração da Instrução CVM 391/03, que dispõe sobre a constituição, o funcionamento e a… | cvm-col-20040427-d01 | fichas/colegiado/2004-05.md |
+| decisao-colegiado | — | 2004-03-31 | deferido | O Colegiado aprovou a prorrogação, até 20.04.2004, do prazo do edital de audiência pública sobre entidades de propósito específico (EPEs). | cvm-col-20040331-d03 | fichas/colegiado/2004-04.md |
+| decisao-colegiado | — | 2004-03-16 | outro | O Colegiado decidiu submeter a audiência pública, pelo prazo de 30 dias, a minuta de instrução sobre constituição, administração… | cvm-col-20040316-d07 | fichas/colegiado/2004-04.md |
+| decisao-colegiado | — | 2004-03-16 | outro | O Colegiado decidiu submeter a audiência restrita, por 15 dias, e audiência pública, por 30 dias, a minuta de instrução sobre empréstimo de… | cvm-col-20040316-d06 | fichas/colegiado/2004-04.md |
+| decisao-colegiado | RJ2004/0610 | 2004-02-17 | outro | O Colegiado aprovou a minuta de Instrução que dispõe sobre o envio de informações e o registro na CVM dos fundos de investimento que… | cvm-col-20040217-d01 | fichas/colegiado/2004-02.md |
+| decisao-colegiado | — | 2004-02-13 | outro | O Colegiado aprovou a minuta de Instrução sobre debêntures padronizadas. | cvm-col-20040213-d01 | fichas/colegiado/2004-02.md |
+| decisao-colegiado | — | 2004-01-30 | outro | O Colegiado apreciou a minuta de instrução sobre debêntures padronizadas e solicitou aperfeiçoamentos para posterior exame pelo Colegiado… | cvm-col-20040130-d02 | fichas/colegiado/2004-02.md |
+| decisao-colegiado | — | 2004-01-30 | outro | O Colegiado aprovou a minuta de Instrução que dispõe sobre a contratação de terceiros para a prestação de serviços, diretamente pelos FIFs… | cvm-col-20040130-d01 | fichas/colegiado/2004-02.md |
+| decisao-colegiado | RJ2003/10303 | 2004-01-27 | outro | O Colegiado aprovou minuta de Instrução que estabelece normas e procedimentos para organização e funcionamento das corretoras de… | cvm-col-20040127-d03 | fichas/colegiado/2004-01.md |
+| decisao-colegiado | — | 2003-12-26 | outro | O Colegiado aprovou minuta de Instrução que dispõe sobre os registros de negociação e de distribuição pública de CEPAC (certificados de… | cvm-col-20031226-d03 | fichas/colegiado/2003-15.md |
+| decisao-colegiado | — | 2003-12-26 | outro | O Colegiado aprovou minuta de instrução que dispõe sobre ofertas públicas de distribuição de valores mobiliários nos mercados primário e… | cvm-col-20031226-d02 | fichas/colegiado/2003-14.md |
+| decisao-colegiado | — | 2003-12-26 | outro | O Colegiado aprovou a minuta de Deliberação sobre a qualificação técnica dos auditores independentes. | cvm-col-20031226-d01 | fichas/colegiado/2003-14.md |
+| decisao-colegiado | — | 2003-11-21 | outro | O Colegiado aprovou a minuta de Instrução que regulamenta a constituição e o funcionamento de FIDC-PIPS, nos termos da Lei 10.735/2003. | cvm-col-20031121-d02 | fichas/colegiado/2003-13.md |
+| decisao-colegiado | RJ2003/12498 | 2003-11-21 | outro | Solicitação de flexibilização de legislação de fundos de investimento em direitos creditórios. Proc. RJ2003/12498. | cvm-col-20031121-d01 | fichas/colegiado/2003-13.md |
+| decisao-colegiado | RJ2003/5512 | 2003-10-28 | outro | O Colegiado aprovou a minuta de instrução sobre constituição, administração, funcionamento e divulgação de informações dos FUNCINE, após… | cvm-col-20031028-d03 | fichas/colegiado/2003-12.md |
+| decisao-colegiado | 279/1998; RJ2003/12067 | 2003-10-14 | outro | O Colegiado aprovou a minuta de instrução que altera a Instrução CVM nº 279/1998. | cvm-col-20031014-d05 | fichas/colegiado/2003-12.md |
+| decisao-colegiado | — | 2003-10-07 | outro | O Colegiado aprovou a alteração da resolução da Bovespa que regula o cadastro de investidores, com base em memorando da SMI. | cvm-col-20031007-d02 | fichas/colegiado/2003-12.md |
+| decisao-colegiado | RJ2003/10303 | 2003-09-30 | outro | O Colegiado aprovou a colocação em audiência pública, por 30 dias, da minuta de Instrução que estabelece normas para a organização e o… | cvm-col-20030930-d04 | fichas/colegiado/2003-12.md |
+| decisao-colegiado | RJ2003/10370 | 2003-09-30 | outro | O Colegiado aprovou a colocação em audiência pública, por 30 dias, de minutas de instrução e nota explicativa sobre a inclusão de entidades… | cvm-col-20030930-d03 | fichas/colegiado/2003-11.md |
+| decisao-colegiado | RJ2003/8151 | 2003-09-23 | outro | O Colegiado aprovou a minuta de Instrução que acrescenta o § 11 ao art. 10 da Instrução CVM 387/03. | cvm-col-20030923-d05 | fichas/colegiado/2003-11.md |
+| decisao-colegiado | RJ2003/8168 | 2003-09-23 | outro | O Colegiado aprovou a minuta de Instrução sobre envio de informações por companhias abertas aos cotistas dos fundos mútuos de… | cvm-col-20030923-d01 | fichas/colegiado/2003-11.md |
+| termo-compromisso | RJ2003/0818 | 2003-09-02 | outro | O Colegiado acompanhou o voto do diretor relator e considerou conveniente substituir, no art. 8º da Deliberação CVM 390/01, o prazo para… | cvm-col-20030902-d01 | fichas/tc/2003.md |
+| decisao-colegiado | RJ2003/0499 | 2003-08-28 | outro | Consulta da prefeitura da cidade de são paulo sobre a possibilidade de os certificados de potencial adicional de construção. Proc… | cvm-col-20030828-d01 | fichas/colegiado/2003-10.md |
+| decisao-colegiado | — | 2003-07-22 | outro | O Colegiado aprovou a minuta de Deliberação que altera a Deliberação CVM nº 202/96, sobre procedimentos para recursos ao Colegiado contra… | cvm-col-20030722-d10 | fichas/colegiado/2003-09.md |
+| decisao-colegiado | — | 2003-07-22 | outro | O Colegiado aprovou a minuta de Instrução que altera a Instrução CVM nº 356/01, sobre direitos creditórios, após audiência pública. | cvm-col-20030722-d06 | fichas/colegiado/2003-09.md |
+| decisao-colegiado | — | 2003-07-22 | outro | O Colegiado aprovou a minuta de Instrução sobre negociações privadas de valores mobiliários por fundos de investimento destinados… | cvm-col-20030722-d04 | fichas/colegiado/2003-09.md |
+| decisao-colegiado | — | 2003-07-22 | outro | O Colegiado aprovou a minuta de Deliberação que dispõe sobre o novo conceito de valores mobiliários e sua aplicação aos fundos de… | cvm-col-20030722-d02 | fichas/colegiado/2003-09.md |
+| decisao-colegiado | — | 2003-07-14 | outro | O Colegiado aprovou a minuta de Instrução sobre a constituição, o funcionamento e a administração dos fundos de investimento em… | cvm-col-20030714-d05 | fichas/colegiado/2003-09.md |
+| decisao-colegiado | RJ2003/6436 | 2003-07-14 | outro | O Colegiado aprovou a minuta de Instrução que dispõe sobre a prestação de garantias para operações do próprio fundo e sobre o empréstimo de… | cvm-col-20030714-d02 | fichas/colegiado/2003-09.md |
+| decisao-colegiado | — | 2003-07-08 | outro | O Colegiado aprovou, por maioria, a minuta de Instrução que dispõe sobre a negociação, por companhias abertas, de ações de sua própria… | cvm-col-20030708-d01 | fichas/colegiado/2003-09.md |
+| decisao-colegiado | — | 2003-06-17 | outro | O Colegiado aprovou a submissão à audiência pública, por 30 dias, da minuta de instrução sobre constituição, administração, funcionamento e… | cvm-col-20030617-d16 | fichas/colegiado/2003-08.md |
+| decisao-colegiado | RJ2003/1100 | 2003-06-03 | outro | O Colegiado aprovou minuta de Instrução apresentada pela área técnica que altera o art. 27 da Instrução CVM 205/94, sobre constituição… | cvm-col-20030603-d01 | fichas/colegiado/2003-07.md |
+| decisao-colegiado | — | 2003-04-29 | deferido | O Colegiado aprovou a prorrogação, até 16.05.2003, do prazo do edital de audiência pública sobre direitos creditórios. | cvm-col-20030429-d13 | fichas/colegiado/2003-05.md |
+| decisao-colegiado | — | 2003-04-29 | outro | O Colegiado aprovou a minuta de deliberação que estabelece procedimentos para o arrolamento de bens e direitos previsto no Decreto… | cvm-col-20030429-d01 | fichas/colegiado/2003-05.md |
+| decisao-colegiado | — | 2003-04-25 | outro | O Colegiado aprovou a minuta de Instrução que estabelece normas e procedimentos para operações com valores mobiliários em pregão e em… | cvm-col-20030425-d01 | fichas/colegiado/2003-05.md |
+| decisao-colegiado | — | 2003-04-17 | deferido | O Colegiado aprovou a prorrogação do prazo do edital de audiência pública sobre debêntures padronizadas até 10.05.2003. | cvm-col-20030417-d07 | fichas/colegiado/2003-05.md |
+| decisao-colegiado | — | 2003-04-01 | outro | O Colegiado aprovou a submissão à audiência pública, até 7 de maio, da proposta de acrescentar o Anexo III (laudos de avaliação) à… | cvm-col-20030401-d02 | fichas/colegiado/2003-04.md |
+| decisao-colegiado | — | 2003-04-01 | outro | O Colegiado aprovou a submissão à audiência pública, até 30 de abril, da minuta que altera a Instrução CVM 356/01. | cvm-col-20030401-d01 | fichas/colegiado/2003-04.md |
+| decisao-colegiado | — | 2003-03-25 | outro | O Colegiado aprovou a minuta de instrução que prorroga o término do prazo a que se refere o inciso I do art. 21 da Instrução CVM 382/03. | cvm-col-20030325-d08 | fichas/colegiado/2003-04.md |
+| decisao-colegiado | — | 2003-03-17 | outro | O Colegiado aprovou, após audiência pública, a minuta de Instrução que dispõe sobre a atividade de formador de mercado para valores… | cvm-col-20030317-d02 | fichas/colegiado/2003-03.md |
+| decisao-colegiado | — | 2003-03-17 | outro | O Colegiado aprovou a submissão à audiência pública, até 30.04.2003, da minuta de instrução sobre debêntures padronizadas. | cvm-col-20030317-d01 | fichas/colegiado/2003-03.md |
+| decisao-colegiado | — | 2003-02-03 | outro | O Colegiado aprovou a minuta de Instrução que altera a redação do inciso III do art. 21 da Instrução CVM 382, de 28 de janeiro de 2003. | cvm-col-20030203-d01 | fichas/colegiado/2003-02.md |
+| decisao-colegiado | — | 2003-01-28 | outro | O Colegiado aprovou a minuta de instrução que altera a Instrução CVM 220, conforme o MEMO/CVM/SDM/Nº 005/03. | cvm-col-20030128-d05 | fichas/colegiado/2003-02.md |
+| decisao-colegiado | — | 2003-01-14 | outro | O Colegiado, por maioria, acompanhou o voto da diretora-relatora no sentido de que não deve prosperar o Projeto de Lei do Senado 219/2002… | cvm-col-20030114-d11 | fichas/colegiado/2003-01.md |
+| decisao-colegiado | — | 2003-01-14 | outro | O Colegiado aprovou a minuta de instrução sobre a divulgação, pelas companhias abertas e demais emissores, de informações sobre a… | cvm-col-20030114-d02 | fichas/colegiado/2003-01.md |
+| decisao-colegiado | — | 2003-01-14 | outro | O Colegiado aprovou a submissão à audiência pública da minuta de instrução sobre a função de formação de mercado para títulos e valores… | cvm-col-20030114-d01 | fichas/colegiado/2003-01.md |
+| decisao-colegiado | — | 2002-12-23 | outro | O Colegiado aprovou a minuta de Deliberação sobre registro provisório para distribuição junto ao público de certificados de investimento… | cvm-col-20021223-d08 | fichas/colegiado/2002-26.md |
+| decisao-colegiado | 044/2002 | 2002-12-23 | outro | O Colegiado deliberou não aprovar a minuta de Resolução encaminhada pelo Bacen sobre procedimentos para aprovação de contratos negociados… | cvm-col-20021223-d04 | fichas/colegiado/2002-26.md |
+| decisao-colegiado | RJ2000/2149 | 2002-12-23 | outro | O Colegiado aprovou a minuta sugerida pelo Banco Central para a Decisão-Conjunta CVM/BACEN 07/99, sobre remuneração de debêntures e CRI… | cvm-col-20021223-d03 | fichas/colegiado/2002-26.md |
+| decisao-colegiado | — | 2002-12-23 | outro | O Colegiado aprovou a minuta de Instrução que altera a Instrução 376/02, sobre normas e procedimentos nas operações pela internet… | cvm-col-20021223-d02 | fichas/colegiado/2002-26.md |
+| decisao-colegiado | — | 2002-11-29 | outro | O Colegiado aprovou a prorrogação, até 15.01.2003, do edital de audiência pública sobre ofertas públicas de distribuição de valores… | cvm-col-20021129-d01 | fichas/colegiado/2002-25.md |
+| decisao-colegiado | RJ2000/2149 | 2002-11-22 | — | Proposta de alteração da Decisão-Conjunta CVM/BACEN nº 07/99, que regula as condições de remuneração de debêntures e de certificados de… | cvm-col-20021122-d05 | fichas/colegiado/2002-25.md |
+| decisao-colegiado | — | 2002-11-12 | outro | O Colegiado aprovou a prorrogação do prazo do art. 22 da Instrução CVM 376/2002, adiando a alteração da instrução sobre operações em bolsas… | cvm-col-20021112-d03 | fichas/colegiado/2002-25.md |
+| decisao-colegiado | — | 2002-11-12 | outro | O Colegiado aprovou a minuta de instrução que revoga a Instrução CVM 252/96, que tratava da prestação à CVM de informações sobre operações… | cvm-col-20021112-d01 | fichas/colegiado/2002-25.md |
+| decisao-colegiado | — | 2002-10-29 | outro | O Colegiado aprovou a colocação em audiência pública, até 02.12.2002, da minuta de instrução e edital que altera as Instruções CVM 13/80… | cvm-col-20021029-d11 | fichas/colegiado/2002-25.md |
+| decisao-colegiado | — | 2002-09-24 | outro | O Colegiado aprovou a minuta de deliberação que revoga parcialmente disposições de deliberações anteriores sobre 'stop order' de agentes… | cvm-col-20020924-d02 | fichas/colegiado/2002-22.md |
+| decisao-colegiado | — | 2002-09-20 | outro | O Colegiado aprovou a Decisão Conjunta CVM/BACEN que revoga o Comunicado-Conjunto 29, de 1990, o qual exigia prévia manifestação do Banco… | cvm-col-20020920-d09 | fichas/colegiado/2002-22.md |
+| decisao-colegiado | — | 2002-09-10 | outro | O Colegiado aprovou, após audiência pública, minuta de instrução que estabelece normas e procedimentos para operações em bolsas e mercados… | cvm-col-20020910-d07 | fichas/colegiado/2002-22.md |
+| decisao-colegiado | — | 2002-08-14 | outro | O Colegiado aprovou a minuta de instrução sobre critérios de registro e avaliação contábil de títulos e valores mobiliários pelos fundos de… | cvm-col-20020814-d01 | fichas/colegiado/2002-20.md |
+| decisao-colegiado | — | 2002-08-06 | outro | O Colegiado aprovou a minuta de instrução que acrescenta parágrafo único ao art. 4º da Instrução CVM 303/99. | cvm-col-20020806-d04 | fichas/colegiado/2002-19.md |
+| decisao-colegiado | — | 2002-08-06 | outro | O Colegiado aprovou a submissão à audiência pública, por 15 dias, da minuta de instrução que estabelece normas e procedimentos para… | cvm-col-20020806-d03 | fichas/colegiado/2002-19.md |
+| decisao-colegiado | — | 2002-06-27 | outro | O Colegiado aprovou minuta de instrução que dispõe sobre o adiamento de assembleia geral e a interrupção da fluência do prazo de sua… | cvm-col-20020627-d02 | fichas/colegiado/2002-15.md |
+| decisao-colegiado | — | 2002-06-27 | outro | O Colegiado aprovou a minuta de edital para audiência pública, pelo prazo de 30 dias, sobre operações de companhias abertas com opções de… | cvm-col-20020627-d01 | fichas/colegiado/2002-15.md |
+| decisao-colegiado | — | 2002-06-18 | outro | O Colegiado aprovou minuta de instrução que altera as Instruções CVM nº 13, 88 e 286. | cvm-col-20020618-d16 | fichas/colegiado/2002-14.md |
+| decisao-colegiado | — | 2002-06-18 | outro | O Colegiado aprovou a minuta de Instrução que altera o art. 4º e revoga o art. 12 da Instrução CVM 202/93, apresentada pela… | cvm-col-20020618-d15 | fichas/colegiado/2002-14.md |
+| decisao-colegiado | — | 2002-06-11 | outro | O Colegiado aprovou minuta de Instrução que dá nova redação aos arts. 9º, 12 e 13 da Instrução CVM 358/02 e prorroga os prazos previstos… | cvm-col-20020611-d02 | fichas/colegiado/2002-13.md |
+| decisao-colegiado | — | 2002-06-11 | outro | O Colegiado aprovou a colocação em audiência pública, até 15.07.2002, da minuta de Instrução que aprova o regulamento do processo… | cvm-col-20020611-d01 | fichas/colegiado/2002-13.md |
+| decisao-colegiado | — | 2002-05-29 | outro | O Colegiado aprovou a minuta de Instrução que dispõe sobre o termo de posse de membro do conselho de administração de companhia aberta… | cvm-col-20020529-d09 | fichas/colegiado/2002-12.md |
+| decisao-colegiado | — | 2002-05-29 | outro | O Colegiado aprovou a minuta de Instrução que altera o caput do art. 21 da Instrução CVM 355. | cvm-col-20020529-d08 | fichas/colegiado/2002-12.md |
+| decisao-colegiado | — | 2002-05-29 | outro | O Colegiado aprovou a minuta de cartilha com recomendações de governança corporativa. O regime 'pratique ou explique' é facultativo: a… | cvm-col-20020529-d07 | fichas/colegiado/2002-12.md |
+| decisao-colegiado | — | 2002-05-07 | outro | O Colegiado aprovou a alteração da Instrução CVM 306/99, que dispõe sobre a administração de carteira de valores mobiliários, após… | cvm-col-20020507-d06 | fichas/colegiado/2002-10.md |
+| decisao-colegiado | 397/2001; SP2001/0719 | 2002-05-07 | outro | O Colegiado aprovou minuta de deliberação que altera o item I da Deliberação CVM 397/2001. | cvm-col-20020507-d03 | fichas/colegiado/2002-10.md |
+| decisao-colegiado | — | 2002-04-30 | outro | O Colegiado aprovou a Decisão Conjunta CVM/BCB que mantém, até a CVM disponibilizar sistema próprio, o uso pelas bolsas, entidades de… | cvm-col-20020430-d02 | fichas/colegiado/2002-10.md |
+| decisao-colegiado | RJ2001/12242 | 2002-04-26 | outro | O Colegiado acompanhou o relator em consulta da SEP sobre o art. 15, § 2º, da Lei 6.404/76, com a redação da Lei 10.303/2001, aplicado a… | cvm-col-20020426-d04 | fichas/colegiado/2002-09.md |
+| decisao-colegiado | — | 2002-04-02 | outro | O Colegiado aprovou a minuta de Instrução que altera a Instrução CVM 209, sobre a constituição, o funcionamento e a administração de fundos… | cvm-col-20020402-d05 | fichas/colegiado/2002-07.md |
+| decisao-colegiado | — | 2002-03-28 | outro | O Colegiado aprovou a minuta de Instrução sobre adiamento de assembleia geral e interrupção da fluência do prazo de sua convocação, para… | cvm-col-20020328-d01 | fichas/colegiado/2002-06.md |
+| decisao-colegiado | — | 2002-03-19 | outro | O Colegiado aprovou a submissão à audiência pública da minuta de Instrução que altera a Instrução CVM 306/99, sobre administração de… | cvm-col-20020319-d18 | fichas/colegiado/2002-06.md |
+| decisao-colegiado | — | 2002-03-19 | outro | O Colegiado aprovou a submissão à audiência pública da minuta de Instrução que estabelece normas e procedimentos para operações em bolsas e… | cvm-col-20020319-d04 | fichas/colegiado/2002-05.md |
+| decisao-colegiado | — | 2002-03-05 | outro | O Colegiado aprovou a minuta de Instrução que disciplina as OPAs e revoga as Instruções CVM 229/95, 299/99 e 345/00. Após a audiência… | cvm-col-20020305-d04 | fichas/colegiado/2002-04.md |
+| decisao-colegiado | — | 2002-03-05 | outro | O Colegiado aprovou a minuta de Instrução que estabelece regras transitórias a serem observadas pelas bolsas de mercadorias e de futuros. | cvm-col-20020305-d03 | fichas/colegiado/2002-04.md |
+| decisao-colegiado | — | 2002-03-05 | outro | O Colegiado aprovou minuta de Instrução que dispõe sobre declaração de membro do Conselho de Administração para colocação em audiência… | cvm-col-20020305-d02 | fichas/colegiado/2002-04.md |
+| decisao-colegiado | — | 2002-02-14 | outro | O Colegiado aprovou minuta de Instrução que estabelece as condições para cobrança de taxa de resgate antecipado nos fundos mútuos de… | cvm-col-20020214-d14 | fichas/colegiado/2002-03.md |
+| decisao-colegiado | — | 2002-01-29 | outro | O Colegiado aprovou a minuta de Instrução, apresentada pela área técnica, que altera a Instrução CVM 279/98 sobre constituição… | cvm-col-20020129-d03 | fichas/colegiado/2002-02.md |
+| decisao-colegiado | — | 2002-01-22 | outro | O Colegiado aprovou minuta de Instrução sobre a divulgação de informações relativas à instituição e manutenção de planos de opções de… | cvm-col-20020122-d01 | fichas/colegiado/2002-01.md |
+| decisao-colegiado | — | 2002-01-15 | outro | O Colegiado aprovou a colocação em audiência pública da minuta de Instrução sobre ofertas públicas. | cvm-col-20020115-d07 | fichas/colegiado/2002-01.md |
 
 Fim do subíndice.

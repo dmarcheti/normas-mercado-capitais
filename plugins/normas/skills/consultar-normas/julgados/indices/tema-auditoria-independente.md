@@ -42,496 +42,496 @@ Este subíndice tem 537 linhas e uma leitura única é cortada em silêncio pert
 | 1998 | 528 |
 | 1997 | 535 |
 
-| Tipo | Processo | Data | Resultado | Id | Ficha |
-|---|---|---|---|---|---|
-| pas | 19957.008389/2023-65 | 2026-10-21 | — | cvm-pas-19957-008389-2023-65 | fichas/pas/2026-03.md |
-| pas | 19957.008202/2025-95 | 2026-10-21 | — | cvm-pas-19957-008202-2025-95 | fichas/pas/2026-03.md |
-| acordao-crsfn | 19957.003685/2023-70 | 2026-06-10 | condenacao | crsfn-19957-003685-2023-70 | fichas/crsfn/2026-02.md |
-| acordao-crsfn | 19957.011109/2019-10 | 2026-03-17 | condenacao | crsfn-10372-000160-2024-60 | fichas/crsfn/2026-01.md |
-| acordao-crsfn | 19957.004715/2020-12 | 2026-03-17 | parcial | crsfn-10372-000118-2024-49 | fichas/crsfn/2026-01.md |
-| pas | 19957.021470/2024-11 | 2025-12-16 | absolvicao | cvm-pas-19957-021470-2024-11 | fichas/pas/2025-05.md |
-| pas | 19957.010504/2021-08 | 2025-12-16 | absolvicao | cvm-pas-19957-010504-2021-08 | fichas/pas/2025-05.md |
-| pas | 19957.000690/2024-10 | 2025-12-09 | outro | cvm-pas-19957-000690-2024-10 | fichas/pas/2025-05.md |
-| pas | 19957.015871/2024-32 | 2025-11-11 | condenacao | cvm-pas-19957-015871-2024-32 | fichas/pas/2025-04.md |
-| acordao-crsfn | 19957.014308/2024-47 | 2025-11-11 | absolvicao | crsfn-19957-014308-2024-47 | fichas/crsfn/2025-05.md |
-| acordao-crsfn | 19957.012778/2022-12 | 2025-11-11 | condenacao | crsfn-19957-012778-2022-12 | fichas/crsfn/2025-05.md |
-| acordao-crsfn | 19957.005248/2021-29 | 2025-11-11 | parcial | crsfn-10372-100147-2023-29 | fichas/crsfn/2025-05.md |
-| acordao-crsfn | 19957.005233/2024-11 | 2025-11-02 | condenacao | crsfn-19957-005233-2024-11 | fichas/crsfn/2025-05.md |
-| pas | 19957.016169/2023-13 | 2025-09-09 | parcial | cvm-pas-19957-016169-2023-13 | fichas/pas/2025-04.md |
-| pas | 19957.009936/2021-68 | 2025-09-02 | absolvicao | cvm-pas-19957-009936-2021-68 | fichas/pas/2025-04.md |
-| pas | 19957.010489/2021-90 | 2025-08-19 | absolvicao | cvm-pas-19957-010489-2021-90 | fichas/pas/2025-03.md |
-| pas | 19957.008804/2023-81 | 2025-08-05 | absolvicao | cvm-pas-19957-008804-2023-81 | fichas/pas/2025-03.md |
-| pas | 19957.010029/2021-61 | 2025-07-22 | absolvicao | cvm-pas-19957-010029-2021-61 | fichas/pas/2025-03.md |
-| termo-compromisso | 19957.014316/2024-93; 19957.003060/2025-70 | 2025-07-22 | aceito | cvm-col-20250722-d3314 | fichas/tc/2025-03.md |
-| acordao-crsfn | 19957.005643/2020-21 | 2025-07-12 | condenacao | crsfn-10372-000168-2024-26 | fichas/crsfn/2025-03.md |
-| pas | 19957.011607/2024-20 | 2025-05-27 | condenacao | cvm-pas-19957-011607-2024-20 | fichas/pas/2025-03.md |
-| termo-compromisso | 19957.004339/2023-17 | 2025-05-20 | aceito | cvm-col-20250520-d3274 | fichas/tc/2025-03.md |
-| termo-compromisso | 19957.014229/2023-55 | 2025-05-13 | aceito | cvm-col-20250513-d3272 | fichas/tc/2025-02.md |
-| pas | 19957.014308/2024-47 | 2025-04-15 | condenacao | cvm-pas-19957-014308-2024-47 | fichas/pas/2025-02.md |
-| pas | 19957.003685/2023-70 | 2025-04-15 | parcial | cvm-pas-19957-003685-2023-70 | fichas/pas/2025-02.md |
-| acordao-crsfn | 19957.009070/2021-95 | 2025-04-08 | condenacao | crsfn-10372-000012-2025-26 | fichas/crsfn/2025-01.md |
-| decisao-colegiado | 19957.019109/2024-25 | 2025-04-01 | provido | cvm-col-20250401-d3244 | fichas/colegiado/2025-03.md |
-| pas | 19957.001627/2022-21 | 2025-03-25 | absolvicao | cvm-pas-19957-001627-2022-21 | fichas/pas/2025-01.md |
-| pas | 19957.015389/2022-31 | 2025-03-18 | absolvicao | cvm-pas-19957-015389-2022-31 | fichas/pas/2025-01.md |
-| acordao-crsfn | 19957.012792/2022-16 | 2025-03-12 | condenacao | crsfn-10372-000173-2024-39 | fichas/crsfn/2025-01.md |
-| pas | 19957.005233/2024-11 | 2025-02-25 | condenacao | cvm-pas-19957-005233-2024-11 | fichas/pas/2025-01.md |
-| pas | 19957.012778/2022-12 | 2025-02-11 | parcial | cvm-pas-19957-012778-2022-12 | fichas/pas/2025-01.md |
-| pas | 19957.015125/2022-87 | 2024-12-10 | parcial | cvm-pas-19957-015125-2022-87 | fichas/pas/2024-11.md |
-| pas | 19957.010255/2021-42 | 2024-11-05 | absolvicao | cvm-pas-19957-010255-2021-42 | fichas/pas/2024-09.md |
-| pas | 19957.010272/2021-80 | 2024-10-29 | condenacao | cvm-pas-19957-010272-2021-80 | fichas/pas/2024-09.md |
-| pas | 19957.009070/2021-95 | 2024-10-29 | parcial | cvm-pas-19957-009070-2021-95 | fichas/pas/2024-09.md |
-| acordao-crsfn | 19957.004040/2020-10 | 2024-10-09 | condenacao | crsfn-10372-000071-2024-13 | fichas/crsfn/2024-05.md |
-| termo-compromisso | 19957.010255/2021-42 | 2024-10-01 | rejeitado | cvm-col-20241001-d2709 | fichas/tc/2024-05.md |
-| pas | 19957.012792/2022-16 | 2024-09-10 | condenacao | cvm-pas-19957-012792-2022-16 | fichas/pas/2024-07.md |
-| pas | 19957.010467/2021-20 | 2024-09-03 | absolvicao | cvm-pas-19957-010467-2021-20 | fichas/pas/2024-07.md |
-| pas | 19957.002475/2023-64 | 2024-09-03 | absolvicao | cvm-pas-19957-002475-2023-64 | fichas/pas/2024-07.md |
-| pas | 19957.005532/2021-03 | 2024-08-13 | absolvicao | cvm-pas-19957-005532-2021-03 | fichas/pas/2024-06.md |
-| pas | 19957.005643/2020-21 | 2024-08-06 | condenacao | cvm-pas-19957-005643-2020-21 | fichas/pas/2024-06.md |
-| pas | 19957.005226/2020-88 | 2024-07-30 | absolvicao | cvm-pas-19957-005226-2020-88 | fichas/pas/2024-06.md |
-| pas | 19957.009359/2021-12 | 2024-06-20 | condenacao | cvm-pas-19957-009359-2021-12 | fichas/pas/2024-04.md |
-| termo-compromisso | 19957.009327/2023-71 | 2024-06-13 | aceito | cvm-col-20240613-d3080 | fichas/tc/2024-04.md |
-| acordao-crsfn | 19957.009725/2018-20 | 2024-06-12 | condenacao | crsfn-10372-100046-2023-58 | fichas/crsfn/2024-03.md |
-| acordao-crsfn | 19957.006547/2019-66; RJ2019/4484 | 2024-06-11 | condenacao | crsfn-10372-100076-2022-83 | fichas/crsfn/2024-03.md |
-| pas | 19957.011109/2019-10 | 2024-06-04 | condenacao | cvm-pas-19957-011109-2019-10 | fichas/pas/2024-03.md |
-| pas | 19957.004285/2019-03 | 2024-06-04 | absolvicao | cvm-pas-19957-004285-2019-03 | fichas/pas/2024-03.md |
-| pas | 19957.009809/2023-21 | 2024-05-14 | condenacao | cvm-pas-19957-009809-2023-21 | fichas/pas/2024-03.md |
-| pas | 19957.006520/2021-98 | 2024-05-14 | condenacao | cvm-pas-19957-006520-2021-98 | fichas/pas/2024-03.md |
-| decisao-colegiado | 19957.014220/2023-44 | 2024-04-02 | nao-provido | cvm-col-20240402-d3046 | fichas/colegiado/2024-04.md |
-| pas | 19957.004715/2020-12 | 2024-03-26 | condenacao | cvm-pas-19957-004715-2020-12 | fichas/pas/2024-02.md |
-| pas | 19957.010586/2018-87 | 2024-03-19 | parcial | cvm-pas-19957-010586-2018-87 | fichas/pas/2024-02.md |
-| acordao-crsfn | RJ2017/3970 | 2024-03-12 | outro | crsfn-10372-100082-2021-50-2 | fichas/crsfn/2024-01.md |
-| pas | 19957.001461/2020-81 | 2024-03-05 | absolvicao | cvm-pas-19957-001461-2020-81 | fichas/pas/2024-01.md |
-| pas | 19957.008371/2023-63 | 2024-02-27 | condenacao | cvm-pas-19957-008371-2023-63 | fichas/pas/2024-01.md |
-| decisao-colegiado | 19957.013952/2023-17 | 2024-01-09 | nao-provido | cvm-col-20240109-d2991 | fichas/colegiado/2024-01.md |
-| pas | 19957.004040/2020-10 | 2023-12-06 | parcial | cvm-pas-19957-004040-2020-10 | fichas/pas/2023-08.md |
-| acordao-crsfn | 19957.001060/2020-21; SP2020/00159 | 2023-12-04 | parcial | crsfn-10372-100189-2021-06 | fichas/crsfn/2023-08.md |
-| decisao-colegiado | 19957.008006/2023-59 | 2023-11-21 | nao-provido | cvm-col-20231121-d2962 | fichas/colegiado/2023-12.md |
-| pas | 19957.005740_2020_13 | 2023-11-07 | parcial | cvm-pas-19957-005740-2020-13 | fichas/pas/2023-07.md |
-| acordao-crsfn | 19957.006891/2021-70 | 2023-11-07 | condenacao | crsfn-10372-100003-2023-72 | fichas/crsfn/2023-07.md |
-| decisao-colegiado | 19957.002686/2022-16 | 2023-10-03 | nao-provido | cvm-col-20231003-d2937 | fichas/colegiado/2023-10.md |
-| pas | 19957.005248/2021-29 | 2023-09-05 | parcial | cvm-pas-19957-005248-2021-29 | fichas/pas/2023-05.md |
-| termo-compromisso | 19957.004040/2020-10; 19957.005643/2020-21; 19957.004715/2020-12 | 2023-09-05 | rejeitado | cvm-col-20230905-d2065 | fichas/tc/2023-06.md |
-| acordao-crsfn | 03/2011 | 2023-08-09 | absolvicao | crsfn-10372-100285-2019-21 | fichas/crsfn/2023-05.md |
-| acordao-crsfn | 19957.009525/2018-77 | 2023-07-11 | condenacao | crsfn-10372-100044-2023-69 | fichas/crsfn/2023-05.md |
-| pas | 19957.005452/2019-25 | 2023-06-06 | condenacao | cvm-pas-19957-005452-2019-25 | fichas/pas/2023-03.md |
-| acordao-crsfn | 19957.007755/2021-05 | 2023-05-09 | condenacao | crsfn-10372-100035-2023-78 | fichas/crsfn/2023-03.md |
-| termo-compromisso | 19957.012433/2022-51 | 2023-04-11 | aceito | cvm-col-20230411-d2836 | fichas/tc/2023-03.md |
-| acordao-crsfn | RJ2017/3970 | 2023-02-07 | condenacao | crsfn-10372-100082-2021-50 | fichas/crsfn/2023-01.md |
-| decisao-colegiado | 19957.007552/2022-91 | 2023-01-17 | parcial | cvm-col-20230117-d2784 | fichas/colegiado/2023-02.md |
-| termo-compromisso | 19957.000108/2022-45 | 2023-01-17 | aceito | cvm-col-20230117-d2783 | fichas/tc/2023-01.md |
-| pas | 19957.011865/2017-87 | 2022-12-15 | absolvicao | cvm-pas-19957-011865-2017-87 | fichas/pas/2022-06.md |
-| pas | 19957.007755/2021-05 | 2022-12-15 | condenacao | cvm-pas-19957-007755-2021-05 | fichas/pas/2022-06.md |
-| termo-compromisso | 19957.010489/2021-90 | 2022-12-13 | rejeitado | cvm-col-20221213-d2741 | fichas/tc/2022-06.md |
-| acordao-crsfn | RJ2016/2245 | 2022-12-08 | condenacao | crsfn-10372-100336-2019-15 | fichas/crsfn/2022-08.md |
-| pas | 19957.006394/2021-71 | 2022-11-29 | condenacao | cvm-pas-19957-006394-2021-71 | fichas/pas/2022-06.md |
-| termo-compromisso | 19957.001984/2022-99 | 2022-11-01 | aceito | cvm-col-20221101-d2714 | fichas/tc/2022-05.md |
-| pas | 19957.006548/2019-19 | 2022-10-25 | absolvicao | cvm-pas-19957-006548-2019-19 | fichas/pas/2022-05.md |
-| termo-compromisso | 19957.010255/2021-42 | 2022-10-25 | rejeitado | cvm-col-20221025-d2709 | fichas/tc/2022-05.md |
-| pas | 19957.009725/2018-20 | 2022-10-18 | condenacao | cvm-pas-19957-009725-2018-20 | fichas/pas/2022-05.md |
-| pas | 19957.009525/2018-77 | 2022-10-18 | condenacao | cvm-pas-19957-009525-2018-77 | fichas/pas/2022-05.md |
-| termo-compromisso | 19957.010154/2021-71 | 2022-10-11 | aceito | cvm-col-20221011-d2701 | fichas/tc/2022-05.md |
-| pas | 19957.006891/2021-70 | 2022-09-27 | condenacao | cvm-pas-19957-006891-2021-70 | fichas/pas/2022-04.md |
-| pas | 19957.008807/2021-52 | 2022-09-13 | condenacao | cvm-pas-19957-008807-2021-52 | fichas/pas/2022-04.md |
-| termo-compromisso | 19957.009070/2021-95 | 2022-09-06 | rejeitado | cvm-col-20220906-d2678 | fichas/tc/2022-04.md |
-| termo-compromisso | 19957.003483/2021-66 | 2022-06-28 | aceito | cvm-col-20220628-d2620 | fichas/tc/2022-03.md |
-| decisao-colegiado | 19957.000742/2022-88 | 2022-04-05 | nao-provido | cvm-col-20220405-d2552 | fichas/colegiado/2022-05.md |
-| decisao-colegiado | 19957.000355/2022-41 | 2022-03-08 | nao-provido | cvm-col-20220308-d2490 | fichas/colegiado/2022-03.md |
-| termo-compromisso | 19957.002010/2021-41 | 2022-02-08 | aceito | cvm-col-20220208-d2472 | fichas/tc/2022-01.md |
-| acordao-crsfn | RJ2015/13093 | 2022-02-08 | condenacao | crsfn-10372-100283-2019-32 | fichas/crsfn/2022-01.md |
-| pas | 19957.006547/2019-66 | 2022-02-01 | parcial | cvm-pas-19957-006547-2019-66 | fichas/pas/2022-01.md |
-| acordao-crsfn | RJ-2014-13581 | 2021-12-08 | condenacao | crsfn-10372-100293-2018-97 | fichas/crsfn/2021-05.md |
-| termo-compromisso | 19957.006614/2020-86 | 2021-11-30 | aceito | cvm-col-20211130-d2399 | fichas/tc/2021-08.md |
-| decisao-colegiado | 19957.008269/2021-04 | 2021-11-23 | outro | cvm-col-20211123-d2390 | fichas/colegiado/2021-20.md |
-| decisao-colegiado | 19957.007563/2021-91 | 2021-11-03 | indeferido | cvm-col-20211103-d2372 | fichas/colegiado/2021-18.md |
-| termo-compromisso | 19957.005740/2020-13 | 2021-10-14 | rejeitado | cvm-col-20211014-d2330 | fichas/tc/2021-07.md |
-| termo-compromisso | 19957.006620/2018-19; 19957.009558/2018-17 | 2021-08-31 | aceito | cvm-col-20210831-d1308-1787 | fichas/tc/2021-05.md |
-| termo-compromisso | 19957.004040/2020-10; 19957.005643/2020-21 | 2021-08-17 | rejeitado | cvm-col-20210817-d2065-e-2066 | fichas/tc/2021-05.md |
-| decisao-colegiado | 19957.005047/2021-21 | 2021-07-27 | nao-provido | cvm-col-20210727-d2250 | fichas/colegiado/2021-12.md |
-| decisao-colegiado | 19957.004831/2021-12 | 2021-07-27 | nao-provido | cvm-col-20210727-d2249 | fichas/colegiado/2021-12.md |
-| decisao-colegiado | 19957.002824/2021-86 | 2021-07-20 | nao-provido | cvm-col-20210720-d2243 | fichas/colegiado/2021-12.md |
-| decisao-colegiado | 19957.002822/2021-97 | 2021-06-08 | nao-provido | cvm-col-20210608-d2207 | fichas/colegiado/2021-10.md |
-| termo-compromisso | 19957.010586/2018-87; 19957.011109/2019-10 | 2021-05-11 | rejeitado | cvm-col-20210511-d2158 | fichas/tc/2021-03.md |
-| termo-compromisso | 19957.002521/2020-82 | 2021-05-04 | rejeitado | cvm-col-20210504-d2157 | fichas/tc/2021-03.md |
-| termo-compromisso | 19957.006816/2020-28 | 2021-04-27 | aceito | cvm-col-20210427-d2150 | fichas/tc/2021-03.md |
-| decisao-colegiado | 19957.002501/2021-92 | 2021-04-27 | nao-provido | cvm-col-20210427-d2140 | fichas/colegiado/2021-07.md |
-| decisao-colegiado | 07/2020; 308/1999; 19957.006874/2019-18 | 2021-02-24 | outro | cvm-col-20210224-d1590 | fichas/colegiado/2021-04.md |
-| decisao-colegiado | 19957.008129/2020-47 | 2021-02-18 | nao-provido | cvm-col-20210218-d2064 | fichas/colegiado/2021-03.md |
-| decisao-colegiado | 19957.003040/2020-94 | 2020-12-15 | nao-provido | cvm-col-20201215-d1897 | fichas/colegiado/2020-21.md |
-| acordao-crsfn | RJ-2014-7704 | 2020-11-17 | condenacao | crsfn-10372-100344-2018-81 | fichas/crsfn/2020-06.md |
-| pas | 19957.009227/2017-04; RJ2017/3970 | 2020-11-04 | — | cvm-pas-19957-009227-2017-04 | fichas/pas/2020-05.md |
-| pas | 19957.006304/2018-47; RJ2018/4441 | 2020-11-04 | absolvicao | cvm-pas-19957-006304-2018-47 | fichas/pas/2020-05.md |
-| decisao-colegiado | 19957.003010/2020-88 | 2020-09-22 | nao-provido | cvm-col-20200922-d1923 | fichas/colegiado/2020-16.md |
-| acordao-crsfn | RJ2016/5789 | 2020-09-20 | condenacao | crsfn-10372-100332-2019-37 | fichas/crsfn/2020-05.md |
-| decisao-colegiado | 19957.003040/2020-94 | 2020-09-01 | nao-provido | cvm-col-20200901-d1897 | fichas/colegiado/2020-14.md |
-| termo-compromisso | 19957.003124/2019-94 | 2020-09-01 | aceito | cvm-col-20200901-d1669 | fichas/tc/2020-06.md |
-| pas | 19957.002524/2017-11; RJ2017/1334 | 2020-06-30 | parcial | cvm-pas-19957-002524-2017-11 | fichas/pas/2020-03.md |
-| termo-compromisso | 19957.005452/2019-25 | 2020-06-16 | rejeitado | cvm-col-20200616-d1837 | fichas/tc/2020-05.md |
-| acordao-crsfn | RJ2016/8251 | 2020-06-16 | parcial | crsfn-10372-100018-2019-54 | fichas/crsfn/2020-03.md |
-| decisao-colegiado | 19957.000695/2020-19 | 2020-06-02 | nao-provido | cvm-col-20200602-d1824 | fichas/colegiado/2020-09.md |
-| acordao-crsfn | RJ2015/13006 | 2020-04-28 | condenacao | crsfn-10372-100082-2019-35 | fichas/crsfn/2020-02.md |
-| termo-compromisso | 19957.009558/2018-17 | 2020-04-22 | rejeitado | cvm-col-20200422-d1787 | fichas/tc/2020-03.md |
-| termo-compromisso | 19957.002501/2019-78 | 2020-04-22 | aceito | cvm-col-20200422-d1786 | fichas/tc/2020-03.md |
-| acordao-crsfn | RJ2016/2476 | 2020-03-11 | condenacao | crsfn-10372-100328-2019-79 | fichas/crsfn/2020-02.md |
-| pas | 19957.011587/2017-68 | 2020-03-10 | parcial | cvm-pas-19957-011587-2017-68 | fichas/pas/2020-02.md |
-| termo-compromisso | 19957.002261/2018-21 | 2020-03-03 | aceito | cvm-col-20200303-d1728 | fichas/tc/2020-01.md |
-| acordao-crsfn | RJ2017/5917 | 2020-01-21 | condenacao | crsfn-10372-100305-2019-64 | fichas/crsfn/2020-01.md |
-| decisao-colegiado | 19957.008259/2019-46 | 2020-01-14 | conhecimento | cvm-col-20200114-d1676 | fichas/colegiado/2020-01.md |
-| pas | 19957.011652/2017-55; RJ2017/5981 | 2019-12-03 | condenacao | cvm-pas-19957-011652-2017-55 | fichas/pas/2019-11.md |
-| pas | 19957.002404/2017-13; RJ2017/1238 | 2019-11-26 | absolvicao | cvm-pas-19957-002404-2017-13 | fichas/pas/2019-11.md |
-| pas | RJ2018/8643 | 2019-11-12 | absolvicao | cvm-pas-rj2018-8643 | fichas/pas/2019-10.md |
-| pas | RJ2017/0136 | 2019-11-12 | condenacao | cvm-pas-rj2017-0136 | fichas/pas/2019-10.md |
-| decisao-colegiado | 19957.006874/2019-18 | 2019-11-05 | outro | cvm-col-20191105-d1590 | fichas/colegiado/2019-18.md |
-| pas | RJ2016/2476 | 2019-09-17 | condenacao | cvm-pas-rj2016-2476 | fichas/pas/2019-08.md |
-| pas | RJ2017/3030 | 2019-09-10 | condenacao | cvm-pas-rj2017-3030 | fichas/pas/2019-08.md |
-| pas | RJ2017/3029 | 2019-09-10 | condenacao | cvm-pas-rj2017-3029 | fichas/pas/2019-08.md |
-| termo-compromisso | 19957.009525/2018-77 | 2019-09-10 | rejeitado | cvm-col-20190910-d1525 | fichas/tc/2019-05.md |
-| termo-compromisso | 19957.011584/2017-24 | 2019-09-10 | aceito | cvm-col-20190910-d1524 | fichas/tc/2019-05.md |
-| pas | RJ2015/13127 | 2019-08-20 | condenacao | cvm-pas-rj2015-13127 | fichas/pas/2019-08.md |
-| pas | RJ2017/5918 | 2019-08-06 | condenacao | cvm-pas-rj2017-5918 | fichas/pas/2019-07.md |
-| pas | RJ2017/5917 | 2019-08-06 | condenacao | cvm-pas-rj2017-5917 | fichas/pas/2019-07.md |
-| pas | RJ2016/2245 | 2019-07-30 | parcial | cvm-pas-rj2016-2245 | fichas/pas/2019-07.md |
-| termo-compromisso | 19957.008434/2018-14 | 2019-07-30 | aceito | cvm-col-20190730-d1479 | fichas/tc/2019-04.md |
-| acordao-crsfn | RJ2010/3695 | 2019-07-23 | parcial | crsfn-14430 | fichas/crsfn/2019-02.md |
-| acordao-crsfn | RJ-2014-14763 | 2019-07-23 | condenacao | crsfn-10372-100343-2018-36 | fichas/crsfn/2019-02.md |
-| acordao-crsfn | RJ2016/4453 | 2019-07-23 | condenacao | crsfn-10372-100140-2019-21 | fichas/crsfn/2019-02.md |
-| pas | RJ2016/5789 | 2019-07-09 | condenacao | cvm-pas-rj2016-5789 | fichas/pas/2019-06.md |
-| termo-compromisso | 19957.011609/2017-90 | 2019-07-09 | aceito | cvm-col-20190709-d1249 | fichas/tc/2019-03.md |
-| pas | RJ2015/13093 | 2019-06-25 | parcial | cvm-pas-rj2015-13093 | fichas/pas/2019-05.md |
-| decisao-colegiado | 19957.007855/2018-28 | 2019-06-11 | nao-provido | cvm-col-20190611-d1425 | fichas/colegiado/2019-09.md |
-| acordao-crsfn | RJ2015/5468 | 2019-05-28 | condenacao | crsfn-10372-100383-2018-88 | fichas/crsfn/2019-01.md |
-| acordao-crsfn | RJ2014/9399 | 2019-05-28 | parcial | crsfn-10372-100254-2017-17 | fichas/crsfn/2019-01.md |
-| termo-compromisso | RJ2015/13326 | 2019-04-30 | rejeitado | cvm-col-20190430-d0438 | fichas/tc/2019-02.md |
-| pas | RJ2017/5916 | 2019-03-26 | condenacao | cvm-pas-rj2017-5916 | fichas/pas/2019-03.md |
-| pas | RJ2017/5913 | 2019-03-26 | condenacao | cvm-pas-rj2017-5913 | fichas/pas/2019-03.md |
-| acordao-crsfn | RJ2014/12058 | 2019-03-22 | condenacao | crsfn-10372-100147-2017-81 | fichas/crsfn/2019-01.md |
-| pas | RJ2017/2272 | 2019-02-26 | condenacao | cvm-pas-rj2017-2272 | fichas/pas/2019-02.md |
-| termo-compromisso | 19957.006392/2017-04 | 2019-02-26 | aceito | cvm-col-20190226-d1324 | fichas/tc/2019-01.md |
-| termo-compromisso | 19957.011587/2017-68 | 2019-02-19 | rejeitado | cvm-col-20190219-d1188 | fichas/tc/2019-01.md |
-| pas | RJ2016/8903 | 2018-12-26 | condenacao | cvm-pas-rj2016-8903 | fichas/pas/2018-12.md |
-| pas | RJ2016/8900 | 2018-12-26 | condenacao | cvm-pas-rj2016-8900 | fichas/pas/2018-12.md |
-| decisao-colegiado | 19957.008905/2018-94 | 2018-11-27 | nao-provido | cvm-col-20181127-d1225 | fichas/colegiado/2018-20.md |
-| termo-compromisso | 19957.011574/2017-99; 19957.011582/2017-35 | 2018-11-27 | aceito | cvm-col-20181127-d1224 | fichas/tc/2018-06.md |
-| acordao-crsfn | RJ2013/13480 | 2018-11-09 | condenacao | crsfn-10372-100169-2017-41 | fichas/crsfn/2018-07.md |
-| termo-compromisso | 19957.006823/2016-43 | 2018-11-06 | aceito | cvm-col-20181106-d1211 | fichas/tc/2018-06.md |
-| pas | RJ2017/5914 | 2018-10-30 | condenacao | cvm-pas-rj2017-5914 | fichas/pas/2018-09.md |
-| pas | RJ2017/5701 | 2018-10-30 | condenacao | cvm-pas-rj2017-5701 | fichas/pas/2018-09.md |
-| pas | RJ2016/4453 | 2018-10-30 | condenacao | cvm-pas-rj2016-4453 | fichas/pas/2018-08.md |
-| pas | RJ2015/13006 | 2018-10-30 | condenacao | cvm-pas-rj2015-13006 | fichas/pas/2018-08.md |
-| termo-compromisso | 19957.011588/2017-11 | 2018-10-30 | aceito | cvm-col-20181030-d1196 | fichas/tc/2018-06.md |
-| pas | RJ2016/8769 | 2018-10-23 | condenacao | cvm-pas-rj2016-8769 | fichas/pas/2018-08.md |
-| termo-compromisso | 19957.010490/2017-38 | 2018-09-18 | aceito | cvm-col-20180918-d1152 | fichas/tc/2018-05.md |
-| decisao-colegiado | 19957.001543/2018-19 | 2018-08-28 | nao-provido | cvm-col-20180828-d1131 | fichas/colegiado/2018-15.md |
-| termo-compromisso | 19957.011259/2017-61 | 2018-08-14 | aceito | cvm-col-20180814-d1108 | fichas/tc/2018-04.md |
-| acordao-crsfn | RJ2015/10367 | 2018-07-24 | condenacao | crsfn-10372-100191-2017-91 | fichas/crsfn/2018-04.md |
-| acordao-crsfn | RJ2015/10858 | 2018-07-24 | parcial | crsfn-10372-000117-2017-75 | fichas/crsfn/2018-04.md |
-| acordao-crsfn | RJ2015/11472 | 2018-06-26 | condenacao | crsfn-10372-100151-2017-49 | fichas/crsfn/2018-03.md |
-| pas | RJ2015/11941 | 2018-06-19 | condenacao | cvm-pas-rj2015-11941 | fichas/pas/2018-04.md |
-| termo-compromisso | 19957.006364/2017-89 | 2018-06-05 | rejeitado | cvm-col-20180605-d1051 | fichas/tc/2018-03.md |
-| acordao-crsfn | RJ2013/9762 | 2018-04-25 | condenacao | crsfn-14420 | fichas/crsfn/2018-03.md |
-| pas | RJ2016/8902 | 2018-04-17 | condenacao | cvm-pas-rj2016-8902 | fichas/pas/2018-03.md |
-| pas | RJ2014/7704 | 2018-04-03 | condenacao | cvm-pas-rj2014-7704 | fichas/pas/2018-03.md |
-| pas | RJ2014/14763 | 2018-04-03 | condenacao | cvm-pas-rj2014-14763 | fichas/pas/2018-03.md |
-| pas | RJ2014/13581 | 2018-04-03 | condenacao | cvm-pas-rj2014-13581 | fichas/pas/2018-02.md |
-| termo-compromisso | 19957.004650/2017-18 | 2018-04-03 | aceito | cvm-col-20180403-d0816 | fichas/tc/2018-02.md |
-| acordao-crsfn | RJ2014/7199 | 2018-03-21 | condenacao | crsfn-10372-100145-2017-91 | fichas/crsfn/2018-02.md |
-| pas | RJ2015/13670 | 2018-03-06 | condenacao | cvm-pas-rj2015-13670 | fichas/pas/2018-02.md |
-| acordao-crsfn | RJ2013/7589 | 2018-02-21 | absolvicao | crsfn-13940 | fichas/crsfn/2018-01.md |
-| pas | RJ2016/8901 | 2018-02-20 | extincao | cvm-pas-rj2016-8901 | fichas/pas/2018-01.md |
-| termo-compromisso | 19957.002524/2017-11; RJ2017/1334 | 2018-01-30 | rejeitado | cvm-col-20180130-d0914 | fichas/tc/2018-01.md |
-| pas | RJ2015/10642 | 2017-12-19 | parcial | cvm-pas-rj2015-10642 | fichas/pas/2017-06.md |
-| termo-compromisso | 19957.005844/2017-22 | 2017-12-19 | aceito | cvm-col-20171219-d0880 | fichas/tc/2017-06.md |
-| decisao-colegiado | 19957.005581/2016-71 | 2017-11-07 | outro | cvm-col-20171107-d0763 | fichas/colegiado/2017-19.md |
-| termo-compromisso | 19957.008984/2016-71; RJ2016/8769 | 2017-10-31 | rejeitado | cvm-col-20171031-d0838 | fichas/tc/2017-05.md |
-| acordao-crsfn | RJ2014/13534 | 2017-10-25 | condenacao | crsfn-10372-000115-2017-86 | fichas/crsfn/2017-07.md |
-| decisao-colegiado | RJ2016/6384 | 2017-10-17 | nao-provido | cvm-col-20171017-d0455 | fichas/colegiado/2017-18.md |
-| decisao-colegiado | RJ2016/6415 | 2017-10-17 | nao-provido | cvm-col-20171017-d0427 | fichas/colegiado/2017-18.md |
-| decisao-colegiado | RJ2016/5611 | 2017-10-17 | nao-provido | cvm-col-20171017-d0348 | fichas/colegiado/2017-17.md |
-| decisao-colegiado | RJ2016/6416 | 2017-10-10 | nao-provido | cvm-col-20171010-d0509 | fichas/colegiado/2017-17.md |
-| termo-compromisso | 19957.008057/2016-51; RJ2016/8251 | 2017-10-03 | rejeitado | cvm-col-20171003-d0814 | fichas/tc/2017-04.md |
-| decisao-colegiado | 19957.008518/2016-96 | 2017-10-03 | nao-provido | cvm-col-20171003-d0596 | fichas/colegiado/2017-17.md |
-| decisao-colegiado | RJ2016/6383 | 2017-10-03 | nao-provido | cvm-col-20171003-d0474 | fichas/colegiado/2017-17.md |
-| decisao-colegiado | 19957.001940/2017-00 | 2017-09-26 | nao-provido | cvm-col-20170926-d0758 | fichas/colegiado/2017-16.md |
-| decisao-colegiado | 19957.005992/2016-66 | 2017-09-26 | conhecimento | cvm-col-20170926-d0561 | fichas/colegiado/2017-16.md |
-| decisao-colegiado | 19957.006489/2016-28 | 2017-09-26 | outro | cvm-col-20170926-d0558 | fichas/colegiado/2017-16.md |
-| decisao-colegiado | 19957.006482/2016-14 | 2017-09-26 | nao-provido | cvm-col-20170926-d0454 | fichas/colegiado/2017-16.md |
-| decisao-colegiado | 19957.006139/2016-61 | 2017-09-26 | nao-provido | cvm-col-20170926-d0448 | fichas/colegiado/2017-16.md |
-| acordao-crsfn | RJ2013/13151 | 2017-09-19 | condenacao | crsfn-14050 | fichas/crsfn/2017-07.md |
-| acordao-crsfn | RJ2015/11473 | 2017-09-19 | condenacao | crsfn-10372-100198-2017-11 | fichas/crsfn/2017-07.md |
-| acordao-crsfn | RJ2013/13355 | 2017-09-19 | condenacao | crsfn-10372-100166-2017-15 | fichas/crsfn/2017-07.md |
-| termo-compromisso | RJ2016/5789 | 2017-08-08 | rejeitado | cvm-col-20170808-d0765 | fichas/tc/2017-03.md |
-| acordao-crsfn | RJ2014/4395 | 2017-06-28 | condenacao | crsfn-14360 | fichas/crsfn/2017-05.md |
-| termo-compromisso | 19957.008192/2016-05; RJ2016/8335 | 2017-06-06 | rejeitado | cvm-col-20170606-d0687 | fichas/tc/2017-02.md |
-| acordao-crsfn | RJ-2013-9766 | 2017-05-24 | condenacao | crsfn-14229 | fichas/crsfn/2017-04.md |
-| acordao-crsfn | RJ-2013-13481 | 2017-05-24 | parcial | crsfn-14091 | fichas/crsfn/2017-04.md |
-| decisao-colegiado | 19957.006157/2016-43 | 2017-04-25 | conhecimento | cvm-col-20170425-d0453 | fichas/colegiado/2017-09.md |
-| decisao-colegiado | RJ2016/8223 | 2017-04-25 | nao-provido | cvm-col-20170425-d0428 | fichas/colegiado/2017-08.md |
-| decisao-colegiado | RJ2016/6370 | 2017-04-25 | nao-provido | cvm-col-20170425-d0426 | fichas/colegiado/2017-08.md |
-| pas | RJ2015/11471 | 2017-04-18 | condenacao | cvm-pas-rj2015-11471 | fichas/pas/2017-01.md |
-| termo-compromisso | 19957.007503/2016-19; RJ2016/5098 | 2017-04-18 | aceito | cvm-col-20170418-d0662 | fichas/tc/2017-02.md |
-| acordao-crsfn | RJ2013/4367 | 2017-03-14 | condenacao | crsfn-13872 | fichas/crsfn/2017-02.md |
-| pas | RJ2015/10699 | 2017-03-07 | condenacao | cvm-pas-rj2015-10699 | fichas/pas/2017-01.md |
-| pas | RJ2014/9399 | 2017-02-07 | condenacao | cvm-pas-rj2014-9399 | fichas/pas/2017-01.md |
-| termo-compromisso | RJ2016/3590 | 2017-01-24 | aceito | cvm-col-20170124-d0554 | fichas/tc/2017-01.md |
-| termo-compromisso | RJ2016/3445 | 2016-12-20 | aceito | cvm-col-20161220-d0472 | fichas/tc/2016-06.md |
-| termo-compromisso | RJ2015/13670 | 2016-12-20 | rejeitado | cvm-col-20161220-d0471 | fichas/tc/2016-06.md |
-| termo-compromisso | RJ2016/4453 | 2016-12-20 | rejeitado | cvm-col-20161220-d0470 | fichas/tc/2016-06.md |
-| pas | RJ2015/11473 | 2016-12-15 | condenacao | cvm-pas-rj2015-11473 | fichas/pas/2016-09.md |
-| pas | RJ2015/10367 | 2016-12-15 | condenacao | cvm-pas-rj2015-10367 | fichas/pas/2016-09.md |
-| pas | RJ2014/10630 | 2016-12-15 | condenacao | cvm-pas-rj2014-10630 | fichas/pas/2016-08.md |
-| decisao-colegiado | 19957.008062/2016-64 | 2016-12-13 | nao-provido | cvm-col-20161213-d0464 | fichas/colegiado/2016-24.md |
-| pas | RJ2014/11830 | 2016-11-29 | condenacao | cvm-pas-rj2014-11830 | fichas/pas/2016-07.md |
-| termo-compromisso | RJ2014/11830 | 2016-11-29 | rejeitado | cvm-col-20161129-d9811 | fichas/tc/2016-05.md |
-| termo-compromisso | 19957.007618/2016-03 | 2016-11-29 | aceito | cvm-col-20161129-d0443 | fichas/tc/2016-05.md |
-| pas | RJ2013/13480 | 2016-11-24 | condenacao | cvm-pas-rj2013-13480 | fichas/pas/2016-07.md |
-| pas | RJ2013/13355 | 2016-11-24 | condenacao | cvm-pas-rj2013-13355 | fichas/pas/2016-07.md |
-| pas | RJ2014/7199 | 2016-11-08 | condenacao | cvm-pas-rj2014-7199 | fichas/pas/2016-06.md |
-| acordao-crsfn | RJ-2013-5682 | 2016-10-26 | parcial | crsfn-14445 | fichas/crsfn/2016-05.md |
-| pas | RJ2015/12090 | 2016-10-25 | condenacao | cvm-pas-rj2015-12090 | fichas/pas/2016-05.md |
-| pas | RJ2015/11936 | 2016-10-25 | condenacao | cvm-pas-rj2015-11936 | fichas/pas/2016-05.md |
-| pas | RJ2015/11472 | 2016-10-25 | condenacao | cvm-pas-rj2015-11472 | fichas/pas/2016-05.md |
-| pas | RJ2014/12058 | 2016-10-25 | condenacao | cvm-pas-rj2014-12058 | fichas/pas/2016-05.md |
-| termo-compromisso | RJ2016/2476 | 2016-10-25 | rejeitado | cvm-col-20161025-d0413 | fichas/tc/2016-05.md |
-| termo-compromisso | RJ2016/2245 | 2016-10-11 | rejeitado | cvm-col-20161011-d0383 | fichas/tc/2016-05.md |
-| pas | RJ2015/10858 | 2016-09-27 | condenacao | cvm-pas-rj2015-10858 | fichas/pas/2016-05.md |
-| acordao-crsfn | RJ2013/11697 | 2016-08-24 | condenacao | crsfn-14045 | fichas/crsfn/2016-04.md |
-| pas | RJ2014/14839 | 2016-08-23 | condenacao | cvm-pas-rj2014-14839 | fichas/pas/2016-03.md |
-| termo-compromisso | RJ2015/13127 | 2016-08-23 | rejeitado | cvm-col-20160823-d0335 | fichas/tc/2016-04.md |
-| acordao-crsfn | RJ-2011/14365 | 2016-08-23 | condenacao | crsfn-13729 | fichas/crsfn/2016-03.md |
-| decisao-colegiado | RJ2015/1330 | 2016-08-09 | nao-provido | cvm-col-20160809-d9598 | fichas/colegiado/2016-16.md |
-| decisao-colegiado | RJ2013/1636 | 2016-08-02 | nao-provido | cvm-col-20160802-d8613 | fichas/colegiado/2016-15.md |
-| termo-compromisso | RJ2015/13006 | 2016-07-26 | rejeitado | cvm-col-20160726-d0320 | fichas/tc/2016-03.md |
-| pas | RJ2014/13534 | 2016-07-12 | condenacao | cvm-pas-rj2014-13534 | fichas/pas/2016-02.md |
-| acordao-crsfn | RJ2012/7471 | 2016-06-28 | condenacao | crsfn-10372-000588-2016-01 | fichas/crsfn/2016-03.md |
-| termo-compromisso | RJ2015/5468 | 2016-06-14 | rejeitado | cvm-col-20160614-d0253 | fichas/tc/2016-03.md |
-| decisao-colegiado | RJ2016/2362 | 2016-03-29 | conhecimento | cvm-col-20160329-d0165 | fichas/colegiado/2016-08.md |
-| termo-compromisso | RJ2014/14760 | 2016-03-15 | aceito | cvm-col-20160315-d9963 | fichas/tc/2016-01.md |
-| pas | RJ2013/5682 | 2016-03-01 | condenacao | cvm-pas-rj2013-5682 | fichas/pas/2016-01.md |
-| termo-compromisso | RJ2014/14763 | 2015-12-22 | rejeitado | cvm-col-20151222-d9997 | fichas/tc/2015-05.md |
-| pas | RJ2010/3695 | 2015-12-15 | parcial | cvm-pas-rj2010-3695 | fichas/pas/2015-07.md |
-| termo-compromisso | RJ2014/14760 | 2015-12-08 | rejeitado | cvm-col-20151208-d9963 | fichas/tc/2015-05.md |
-| termo-compromisso | RJ2014/13581 | 2015-11-24 | rejeitado | cvm-col-20151124-d9950 | fichas/tc/2015-04.md |
-| termo-compromisso | RJ2014/12058 | 2015-11-24 | rejeitado | cvm-col-20151124-d9949 | fichas/tc/2015-04.md |
-| termo-compromisso | RJ2014/13534 | 2015-11-10 | rejeitado | cvm-col-20151110-d9922 | fichas/tc/2015-04.md |
-| termo-compromisso | RJ2015/4992 | 2015-10-27 | rejeitado | cvm-col-20151027-d9664 | fichas/tc/2015-04.md |
-| pas | RJ2013/9762 | 2015-09-29 | condenacao | cvm-pas-rj2013-9762 | fichas/pas/2015-05.md |
-| termo-compromisso | RJ2014/11830 | 2015-09-01 | rejeitado | cvm-col-20150901-d9811 | fichas/tc/2015-03.md |
-| pas | RJ2014/4395 | 2015-08-11 | condenacao | cvm-pas-rj2014-4395 | fichas/pas/2015-05.md |
-| termo-compromisso | RJ2014/11648 | 2015-08-04 | aceito | cvm-col-20150804-d9781 | fichas/tc/2015-03.md |
-| acordao-crsfn | RJ2005/9831 | 2015-07-28 | condenacao | crsfn-11750 | fichas/crsfn/2015-02.md |
-| acordao-crsfn | RJ2011/280 | 2015-06-30 | condenacao | crsfn-13396 | fichas/crsfn/2015-02.md |
-| acordao-crsfn | RJ2009-12495 | 2015-05-26 | absolvicao | crsfn-13286 | fichas/crsfn/2015-01.md |
-| termo-compromisso | RJ2014/7199 | 2015-04-28 | rejeitado | cvm-col-20150428-d9632 | fichas/tc/2015-02.md |
-| termo-compromisso | RJ2013/13480 | 2015-03-31 | rejeitado | cvm-col-20150331-d9611 | fichas/tc/2015-01.md |
-| termo-compromisso | RJ2013/10172 | 2014-12-23 | aceito | cvm-col-20141223-d01 | fichas/tc/2014-06.md |
-| termo-compromisso | RJ2014/3919 | 2014-12-16 | aceito | cvm-col-20141216-d05 | fichas/tc/2014-06.md |
-| termo-compromisso | RJ2014/6913 | 2014-12-09 | rejeitado | cvm-col-20141209-d03 | fichas/tc/2014-05.md |
-| decisao-colegiado | RJ2014/6154 | 2014-11-25 | nao-provido | cvm-col-20141125-d25 | fichas/colegiado/2014-24.md |
-| termo-compromisso | RJ2014/0413 | 2014-09-23 | aceito | cvm-col-20140923-d07 | fichas/tc/2014-03.md |
-| termo-compromisso | RJ2013/11915 | 2014-09-09 | aceito | cvm-col-20140909-d01 | fichas/tc/2014-02.md |
-| acordao-crsfn | RJ-2010-9582 | 2014-08-26 | condenacao | crsfn-13328 | fichas/crsfn/2014-05.md |
-| acordao-crsfn | RJ-2010-16893 | 2014-08-26 | absolvicao | crsfn-13317 | fichas/crsfn/2014-05.md |
-| acordao-crsfn | 15/1990 | 2014-08-26 | parcial | crsfn-13282 | fichas/crsfn/2014-05.md |
-| pas | RJ2013/13481 | 2014-07-22 | condenacao | cvm-pas-rj2013-13481 | fichas/pas/2014-02.md |
-| acordao-crsfn | RJ-2010-8588 | 2014-07-22 | condenacao | crsfn-13276 | fichas/crsfn/2014-04.md |
-| pas | RJ2013/13151 | 2014-05-27 | condenacao | cvm-pas-rj2013-13151 | fichas/pas/2014-02.md |
-| termo-compromisso | RJ2013/4408 | 2014-04-15 | aceito | cvm-col-20140415-d03 | fichas/tc/2014-01.md |
-| pas | RJ2013/11697 | 2014-04-08 | condenacao | cvm-pas-rj2013-11697 | fichas/pas/2014-01.md |
-| pas | RJ2013/9766 | 2014-03-25 | condenacao | cvm-pas-rj2013-9766 | fichas/pas/2014-01.md |
-| acordao-crsfn | RJ-2008-9120 | 2014-03-18 | absolvicao | crsfn-12794 | fichas/crsfn/2014-02.md |
-| termo-compromisso | RJ2013/5645 | 2013-12-23 | aceito | cvm-col-20131223-d02 | fichas/tc/2013-06.md |
-| termo-compromisso | RJ2013/4362 | 2013-12-23 | aceito | cvm-col-20131223-d01 | fichas/tc/2013-06.md |
-| termo-compromisso | RJ2013/6479 | 2013-12-17 | aceito | cvm-col-20131217-d11 | fichas/tc/2013-06.md |
-| termo-compromisso | RJ2013/5682 | 2013-12-17 | rejeitado | cvm-col-20131217-d10 | fichas/tc/2013-06.md |
-| termo-compromisso | RJ2013/4365 | 2013-12-17 | aceito | cvm-col-20131217-d09 | fichas/tc/2013-06.md |
-| pas | RJ2013/7589 | 2013-11-26 | absolvicao | cvm-pas-rj2013-7589 | fichas/pas/2013-06.md |
-| termo-compromisso | RJ2012/4640 | 2013-11-05 | aceito | cvm-col-20131105-d01 | fichas/tc/2013-05.md |
-| pas | RJ2013/4367 | 2013-08-20 | condenacao | cvm-pas-rj2013-4367 | fichas/pas/2013-04.md |
-| pas | RJ2012/7471 | 2013-05-28 | condenacao | cvm-pas-rj2012-7471 | fichas/pas/2013-03.md |
-| termo-compromisso | RJ2012/9557 | 2013-05-21 | aceito | cvm-col-20130521-d03 | fichas/tc/2013-02.md |
-| pas | RJ2011/14365 | 2013-04-02 | condenacao | cvm-pas-rj2011-14365 | fichas/pas/2013-02.md |
-| pas | RJ2012/10465 | 2013-03-12 | condenacao | cvm-pas-rj2012-10465 | fichas/pas/2013-01.md |
-| decisao-colegiado | RJ2013/0944 | 2013-02-19 | nao-provido | cvm-col-20130219-d16 | fichas/colegiado/2013-05.md |
-| termo-compromisso | RJ2012/7133 | 2013-02-19 | aceito | cvm-col-20130219-d02 | fichas/tc/2013-01.md |
-| decisao-colegiado | RJ2012/12503 | 2013-02-05 | nao-provido | cvm-col-20130205-d07 | fichas/colegiado/2013-04.md |
-| acordao-crsfn | RJ-2008-11805 | 2012-12-05 | condenacao | crsfn-12626 | fichas/crsfn/2012-05.md |
-| acordao-crsfn | RJ-2008-2468 | 2012-11-26 | condenacao | crsfn-12521 | fichas/crsfn/2012-04.md |
-| termo-compromisso | RJ2012/4905 | 2012-11-22 | aceito | cvm-col-20121122-d01 | fichas/tc/2012-05.md |
-| decisao-colegiado | RJ2011/14135 | 2012-10-23 | nao-provido | cvm-col-20121023-d04 | fichas/colegiado/2012-19.md |
-| decisao-colegiado | RJ2012/10109 | 2012-10-10 | nao-provido | cvm-col-20121010-d03 | fichas/colegiado/2012-18.md |
-| decisao-colegiado | RJ2012/8300 | 2012-09-11 | nao-provido | cvm-col-20120911-d14 | fichas/colegiado/2012-17.md |
-| decisao-colegiado | RJ2010/4524 | 2012-07-03 | outro | cvm-col-20120703-d09 | fichas/colegiado/2012-11.md |
-| termo-compromisso | RJ2012/4905 | 2012-07-03 | rejeitado | cvm-col-20120703-d02 | fichas/tc/2012-03.md |
-| decisao-colegiado | RJ2011/14135 | 2012-03-06 | nao-provido | cvm-col-20120306-d21 | fichas/colegiado/2012-05.md |
-| decisao-colegiado | RJ2011/11017 | 2012-01-10 | indeferido | cvm-col-20120110-d05 | fichas/colegiado/2012-01.md |
-| decisao-colegiado | RJ2011/0288 | 2012-01-10 | outro | cvm-col-20120110-d01 | fichas/colegiado/2012-01.md |
-| termo-compromisso | RJ2010/4524 | 2011-12-27 | rejeitado | cvm-col-20111227-d02 | fichas/tc/2011-06.md |
-| decisao-colegiado | RJ2010/9066 | 2011-12-20 | nao-provido | cvm-col-20111220-d10 | fichas/colegiado/2011-29.md |
-| decisao-colegiado | RJ2011/13530 | 2011-12-20 | nao-provido | cvm-col-20111220-d07 | fichas/colegiado/2011-29.md |
-| pas | RJ2011/280 | 2011-12-13 | condenacao | cvm-pas-rj2011-0280 | fichas/pas/2011-03.md |
-| decisao-colegiado | RJ2010/7631 | 2011-11-16 | outro | cvm-col-20111116-d01 | fichas/colegiado/2011-24.md |
-| decisao-colegiado | RJ2010/2980 | 2011-10-04 | outro | cvm-col-20111004-d06 | fichas/colegiado/2011-21.md |
-| decisao-colegiado | — | 2011-09-20 | outro | cvm-col-20110920-d11 | fichas/colegiado/2011-19.md |
-| termo-compromisso | RJ2010/4524 | 2011-09-13 | aceito | cvm-col-20110913-d01 | fichas/tc/2011-04.md |
-| termo-compromisso | RJ2011/0288 | 2011-09-06 | aceito | cvm-col-20110906-d06 | fichas/tc/2011-04.md |
-| decisao-colegiado | RJ2011/2590 | 2011-09-06 | nao-provido | cvm-col-20110906-d02 | fichas/colegiado/2011-17.md |
-| decisao-colegiado | RJ2011/6614 | 2011-08-30 | nao-provido | cvm-col-20110830-d01 | fichas/colegiado/2011-17.md |
-| termo-compromisso | RJ2011/0280 | 2011-07-26 | rejeitado | cvm-col-20110726-d03 | fichas/tc/2011-03.md |
-| pas | RJ2010/9582 | 2011-07-19 | condenacao | cvm-pas-rj2010-9582 | fichas/pas/2011-01.md |
-| decisao-colegiado | RJ2011/2590 | 2011-06-21 | — | cvm-col-20110621-d02 | fichas/colegiado/2011-13.md |
-| acordao-crsfn | RJ-2003-1631 | 2011-06-15 | parcial | crsfn-7637 | fichas/crsfn/2011-02.md |
-| acordao-crsfn | RJ-2001-8473 | 2011-06-15 | parcial | crsfn-7357 | fichas/crsfn/2011-02.md |
-| pas | RJ2010/16893 | 2011-06-07 | absolvicao | cvm-pas-rj2010-16893 | fichas/pas/2011-01.md |
-| acordao-crsfn | RJ–2005-9823 | 2011-05-31 | condenacao | crsfn-11247 | fichas/crsfn/2011-01.md |
-| termo-compromisso | RJ2010/7631 | 2011-04-19 | aceito | cvm-col-20110419-d01 | fichas/tc/2011-02.md |
-| decisao-colegiado | RJ2011/3354 | 2011-04-12 | nao-provido | cvm-col-20110412-d04 | fichas/colegiado/2011-09.md |
-| termo-compromisso | RJ2010/2980 | 2011-03-22 | aceito | cvm-col-20110322-d17 | fichas/tc/2011-02.md |
-| pas | RJ2010/8588 | 2010-12-14 | condenacao | cvm-pas-rj2010-8588 | fichas/pas/2010-06.md |
-| termo-compromisso | RJ2010/7631 | 2010-12-14 | rejeitado | cvm-col-20101214-d05 | fichas/tc/2010-07.md |
-| termo-compromisso | RJ2009/6832 | 2010-12-14 | aceito | cvm-col-20101214-d01 | fichas/tc/2010-06.md |
-| pas | RJ2009/12495 | 2010-12-01 | condenacao | cvm-pas-rj2009-12495 | fichas/pas/2010-05.md |
-| termo-compromisso | RJ2010/4524 | 2010-11-30 | rejeitado | cvm-col-20101130-d07 | fichas/tc/2010-06.md |
-| decisao-colegiado | RJ2008/11749 | 2010-11-23 | outro | cvm-col-20101123-d21 | fichas/colegiado/2010-25.md |
-| decisao-colegiado | RJ2010/13298 | 2010-11-16 | nao-provido | cvm-col-20101116-d08 | fichas/colegiado/2010-24.md |
-| termo-compromisso | RJ2009/12495 | 2010-10-26 | rejeitado | cvm-col-20101026-d02 | fichas/tc/2010-05.md |
-| termo-compromisso | RJ2010/2980 | 2010-10-26 | rejeitado | cvm-col-20101026-d01-r2 | fichas/tc/2010-05.md |
-| decisao-colegiado | RJ2010/9359 | 2010-07-20 | nao-provido | cvm-col-20100720-d04 | fichas/colegiado/2010-15.md |
-| acordao-crsfn | RJ-2006-6017 | 2010-06-08 | outro | crsfn-11608 | fichas/crsfn/2010-05.md |
-| acordao-crsfn | RJ-2006-9227 | 2010-05-25 | absolvicao | crsfn-11607 | fichas/crsfn/2010-04.md |
-| termo-compromisso | RJ2009/6832 | 2010-03-23 | rejeitado | cvm-col-20100323-d06 | fichas/tc/2010-02.md |
-| acordao-crsfn | RJ-2004-7061 | 2010-01-26 | parcial | crsfn-9608 | fichas/crsfn/2010-02.md |
-| decisao-colegiado | RJ2009/10632 | 2009-11-24 | nao-provido | cvm-col-20091124-d12 | fichas/colegiado/2009-21.md |
-| acordao-crsfn | RJ-2004-1278 | 2009-10-27 | condenacao | crsfn-10041 | fichas/crsfn/2009-05.md |
-| pas | RJ2008/9120 | 2009-10-13 | absolvicao | cvm-pas-rj2008-9120 | fichas/pas/2009-05.md |
-| termo-compromisso | RJ2008/11749 | 2009-10-06 | aceito | cvm-col-20091006-d09 | fichas/tc/2009-06.md |
-| termo-compromisso | RJ2008/11749 | 2009-09-08 | aceito | cvm-col-20090908-d01 | fichas/tc/2009-06.md |
-| acordao-crsfn | RJ-2003-11503 | 2009-07-21 | parcial | crsfn-9426 | fichas/crsfn/2009-04.md |
-| decisao-colegiado | 27/2005 | 2009-07-14 | outro | cvm-col-20090714-d04 | fichas/colegiado/2009-13.md |
-| termo-compromisso | RJ2008/9120 | 2009-06-23 | rejeitado | cvm-col-20090623-d08 | fichas/tc/2009-03.md |
-| pas | RJ2008/11805 | 2009-06-03 | condenacao | cvm-pas-rj2008-11805 | fichas/pas/2009-03.md |
-| pas | RJ2008/2468 | 2009-03-31 | condenacao | cvm-pas-rj2008-2468 | fichas/pas/2009-01.md |
-| pas | RJ2007/4247 | 2009-03-31 | condenacao | cvm-pas-rj2007-4247 | fichas/pas/2009-01.md |
-| termo-compromisso | 27/2005 | 2009-03-03 | aceito | cvm-col-20090303-d03 | fichas/tc/2009-01.md |
-| acordao-crsfn | 05/00 | 2009-02-16 | parcial | crsfn-7526 | fichas/crsfn/2009-01.md |
-| decisao-colegiado | RJ2008/10037 | 2008-11-25 | provido | cvm-col-20081125-d04 | fichas/colegiado/2008-26.md |
-| acordao-crsfn | RJ-2002/00445 | 2008-11-18 | condenacao | crsfn-6324 | fichas/crsfn/2008-05.md |
-| decisao-colegiado | — | 2008-09-03 | outro | cvm-col-20080903-d03 | fichas/colegiado/2008-20.md |
-| acordao-crsfn | RJ-2001-8028 | 2008-08-28 | parcial | crsfn-9057 | fichas/crsfn/2008-04.md |
-| decisao-colegiado | — | 2008-08-12 | deferido | cvm-col-20080812-d02 | fichas/colegiado/2008-18.md |
-| decisao-colegiado | — | 2008-07-29 | outro | cvm-col-20080729-d04 | fichas/colegiado/2008-17.md |
-| decisao-colegiado | RJ2008/5545 | 2008-06-24 | outro | cvm-col-20080624-d04 | fichas/colegiado/2008-14.md |
-| decisao-colegiado | RJ2008/3930 | 2008-06-10 | nao-provido | cvm-col-20080610-d07 | fichas/colegiado/2008-13.md |
-| acordao-crsfn | RJ2002/4879 | 2008-04-11 | absolvicao | crsfn-9605 | fichas/crsfn/2008-02.md |
-| acordao-crsfn | RJ2005/3106 | 2008-03-26 | absolvicao | crsfn-9253 | fichas/crsfn/2008-01.md |
-| termo-compromisso | RJ2007/4247 | 2008-03-25 | rejeitado | cvm-col-20080325-d02 | fichas/tc/2008-02.md |
-| decisao-colegiado | RJ2001/7661 | 2008-03-18 | indeferido | cvm-col-20080318-d01 | fichas/colegiado/2008-07.md |
-| decisao-colegiado | RJ2005/8134 | 2008-02-26 | outro | cvm-col-20080226-d05 | fichas/colegiado/2008-04.md |
-| decisao-colegiado | RJ2007/12583 | 2007-11-27 | nao-provido | cvm-col-20071127-d05 | fichas/colegiado/2007-23.md |
-| decisao-colegiado | RJ2007/13012 | 2007-11-13 | nao-provido | cvm-col-20071113-d29 | fichas/colegiado/2007-23.md |
-| pas | RJ2005/9831 | 2007-09-04 | condenacao | cvm-pas-rj2005-9831 | fichas/pas/2007-06.md |
-| decisao-colegiado | RJ2007/9361 | 2007-09-04 | nao-provido | cvm-col-20070904-d03 | fichas/colegiado/2007-16.md |
-| decisao-colegiado | RJ2007/7313 | 2007-07-31 | deferido | cvm-col-20070731-d10 | fichas/colegiado/2007-14.md |
-| decisao-colegiado | RJ2006/9227 | 2007-07-03 | provido | cvm-col-20070703-d02 | fichas/colegiado/2007-11.md |
-| pas | RJ2006/6017 | 2007-06-05 | condenacao | cvm-pas-rj2006-6017 | fichas/pas/2007-04.md |
-| termo-compromisso | RJ2006/7545 | 2007-04-11 | aceito | cvm-col-20070411-d01 | fichas/tc/2007-02.md |
-| termo-compromisso | RJ2005/8134 | 2007-04-03 | aceito | cvm-col-20070403-d05 | fichas/tc/2007-02.md |
-| termo-compromisso | RJ2005/9738 | 2007-03-14 | aceito | cvm-col-20070314-d05 | fichas/tc/2007-02.md |
-| termo-compromisso | RJ2006/7545 | 2007-02-26 | outro | cvm-col-20070226-d03 | fichas/tc/2007-02.md |
-| decisao-colegiado | RJ2007/0322 | 2007-01-30 | nao-provido | cvm-col-20070130-d08 | fichas/colegiado/2007-02.md |
-| termo-compromisso | RJ2005/9831 | 2006-12-12 | rejeitado | cvm-col-20061212-d05 | fichas/tc/2006-07.md |
-| termo-compromisso | RJ2006/6017 | 2006-12-12 | rejeitado | cvm-col-20061212-d04 | fichas/tc/2006-07.md |
-| decisao-colegiado | RJ2006/4498 | 2006-12-05 | provido | cvm-col-20061205-d19 | fichas/colegiado/2006-19.md |
-| termo-compromisso | RJ2001/12037 | 2006-11-07 | aceito | cvm-col-20061107-d02 | fichas/tc/2006-06.md |
-| termo-compromisso | RJ2006/1507 | 2006-10-03 | aceito | cvm-col-20061003-d09 | fichas/tc/2006-05.md |
-| termo-compromisso | RJ2005/9738 | 2006-10-03 | rejeitado | cvm-col-20061003-d08 | fichas/tc/2006-05.md |
-| termo-compromisso | RJ2001/12037 | 2006-09-26 | rejeitado | cvm-col-20060926-d06 | fichas/tc/2006-04.md |
-| pas | RJ2005/9823 | 2006-09-25 | condenacao | cvm-pas-rj2005-9823 | fichas/pas/2006-09.md |
-| decisao-colegiado | RJ2006/3828 | 2006-08-01 | parcial | cvm-col-20060801-d12 | fichas/colegiado/2006-12.md |
-| termo-compromisso | RJ2005/4359 | 2006-05-30 | rejeitado | cvm-col-20060530-d01 | fichas/tc/2006-02.md |
-| decisao-colegiado | RJ2004-1278 | 2006-05-18 | outro | cvm-col-20060518-d10 | fichas/colegiado/2006-08.md |
-| decisao-colegiado | RJ2006/2607 | 2006-04-04 | indeferido | cvm-col-20060404-d10 | fichas/colegiado/2006-06.md |
-| decisao-colegiado | — | 2006-02-21 | deferido | cvm-col-20060221-d11 | fichas/colegiado/2006-04.md |
-| decisao-colegiado | — | 2006-02-21 | outro | cvm-col-20060221-d03 | fichas/colegiado/2006-03.md |
-| decisao-colegiado | RJ2001/7626 | 2006-01-31 | outro | cvm-col-20060131-d09 | fichas/colegiado/2006-02.md |
-| pas | RJ2004/7061 | 2006-01-19 | condenacao | cvm-pas-rj2004-7061 | fichas/pas/2006-01.md |
-| pas | RJ2004/1278 | 2006-01-19 | parcial | cvm-pas-rj2004-1278 | fichas/pas/2006-01.md |
-| pas | RJ2003/12406 | 2006-01-19 | condenacao | cvm-pas-rj2003-12406 | fichas/pas/2006-01.md |
-| pas | RJ2002/4879 | 2006-01-19 | parcial | cvm-pas-rj2002-4879 | fichas/pas/2006-01.md |
-| termo-compromisso | RJ2004/7061 | 2006-01-10 | rejeitado | cvm-col-20060110-d03 | fichas/tc/2006-01.md |
-| termo-compromisso | RJ2003/12406 | 2006-01-10 | rejeitado | cvm-col-20060110-d02 | fichas/tc/2006-01.md |
-| pas | RJ2003/11503 | 2005-11-03 | parcial | cvm-pas-rj2003-11503 | fichas/pas/2005-07.md |
-| pas | RJ2005/3106 | 2005-10-19 | absolvicao | cvm-pas-rj2005-3106 | fichas/pas/2005-07.md |
-| decisao-colegiado | RJ2005/4359 | 2005-10-11 | nao-provido | cvm-col-20051011-d08 | fichas/colegiado/2005-15.md |
-| decisao-colegiado | RJ2005/5980 | 2005-09-30 | nao-provido | cvm-col-20050930-d07 | fichas/colegiado/2005-14.md |
-| decisao-colegiado | RJ2005/4569 | 2005-09-13 | nao-provido | cvm-col-20050913-d03 | fichas/colegiado/2005-13.md |
-| decisao-colegiado | RJ2005/4470 | 2005-08-23 | nao-provido | cvm-col-20050823-d06 | fichas/colegiado/2005-12.md |
-| acordao-crsfn | 09/2000 | 2005-08-23 | parcial | crsfn-5859 | fichas/crsfn/2005-02.md |
-| decisao-colegiado | RJ2005/4298 | 2005-08-09 | nao-provido | cvm-col-20050809-d08 | fichas/colegiado/2005-11.md |
-| decisao-colegiado | RJ2005/0928 | 2005-07-12 | outro | cvm-col-20050712-d02 | fichas/colegiado/2005-10.md |
-| acordao-crsfn | RJ2002/5101 | 2005-06-28 | condenacao | crsfn-5279 | fichas/crsfn/2005-02.md |
-| pas | RJ2004/7001 | 2005-06-09 | condenacao | cvm-pas-rj2004-7001 | fichas/pas/2005-04.md |
-| acordao-crsfn | 01/01 | 2005-04-27 | condenacao | crsfn-4657 | fichas/crsfn/2005-01.md |
-| pas | RJ2001/8028 | 2005-03-14 | parcial | cvm-pas-rj2001-8028 | fichas/pas/2005-02.md |
-| acordao-crsfn | 08/00 | 2005-02-23 | outro | crsfn-4217 | fichas/crsfn/2005-01.md |
-| acordao-crsfn | RJ2001/7661 | 2005-02-23 | condenacao | crsfn-4184 | fichas/crsfn/2005-01.md |
-| pas | RJ2003/1631 | 2005-01-28 | parcial | cvm-pas-rj2003-1631 | fichas/pas/2005-01.md |
-| acordao-crsfn | RJ2002/0444 | 2004-10-20 | condenacao | crsfn-5425 | fichas/crsfn/2004-03.md |
-| acordao-crsfn | Recurso 4989 | 2004-10-20 | condenacao | crsfn-4989 | fichas/crsfn/2004-03.md |
-| pas | RJ2001/8473 | 2004-10-18 | parcial | cvm-pas-rj2001-8473 | fichas/pas/2004-07.md |
-| termo-compromisso | RJ2001/8473 | 2004-10-05 | rejeitado | cvm-col-20041005-d02 | fichas/tc/2004-02.md |
-| decisao-colegiado | RJ2004/4877 | 2004-09-21 | provido | cvm-col-20040921-d06 | fichas/colegiado/2004-11.md |
-| termo-compromisso | RJ2001/7626 | 2004-09-10 | aceito | cvm-col-20040910-d01 | fichas/tc/2004-02.md |
-| pas | RJ2002/445 | 2004-09-09 | condenacao | cvm-pas-rj2002-0445 | fichas/pas/2004-05.md |
-| termo-compromisso | 05/00 | 2004-08-05 | rejeitado | cvm-col-20040805-d02 | fichas/tc/2004-01.md |
-| pas | RJ2001/7557 | 2004-07-22 | condenacao | cvm-pas-rj2001-7557 | fichas/pas/2004-04.md |
-| acordao-crsfn | RJ2001/8739 | 2004-07-14 | parcial | crsfn-5265 | fichas/crsfn/2004-02.md |
-| pas | RJ2002/3087 | 2004-05-20 | condenacao | cvm-pas-rj2002-3087 | fichas/pas/2004-02.md |
-| pas | RJ2001/8029 | 2004-05-06 | condenacao | cvm-pas-rj2001-8029 | fichas/pas/2004-01.md |
-| pas | 09/2000 | 2004-04-15 | condenacao | cvm-pas-09-2000 | fichas/pas/2004-01.md |
-| decisao-colegiado | RJ2004/0812 | 2004-03-09 | nao-provido | cvm-col-20040309-d12 | fichas/colegiado/2004-03.md |
-| decisao-colegiado | RJ2003/7043 | 2004-01-21 | — | cvm-col-20040121-d05 | fichas/colegiado/2004-01.md |
-| termo-compromisso | 09/2000 | 2003-12-16 | rejeitado | cvm-col-20031216-d08 | fichas/tc/2003.md |
-| acordao-crsfn | 06/00 | 2003-12-10 | condenacao | crsfn-4319 | fichas/crsfn/2003-03.md |
-| acordao-crsfn | 32/99 | 2003-12-10 | parcial | crsfn-4170 | fichas/crsfn/2003-03.md |
-| pas | RJ2002/0444 | 2003-11-12 | condenacao | cvm-pas-rj2002-0444 | fichas/pas/2003-04.md |
-| acordao-crsfn | 10/97 | 2003-10-29 | parcial | crsfn-3037 | fichas/crsfn/2003-03.md |
-| decisao-colegiado | IA19/00; RJ2003/7518 | 2003-10-21 | outro | cvm-col-20031021-d02 | fichas/colegiado/2003-12.md |
-| pas | RJ2002/5101 | 2003-10-09 | condenacao | cvm-pas-rj2002-5101 | fichas/pas/2003-04.md |
-| acordao-crsfn | 00/32 | 2003-09-24 | condenacao | crsfn-4083 | fichas/crsfn/2003-02.md |
-| decisao-colegiado | — | 2003-09-19 | outro | cvm-col-20030919-d01 | fichas/colegiado/2003-11.md |
-| pas | RJ2001/8739 | 2003-09-11 | condenacao | cvm-pas-rj2001-8739 | fichas/pas/2003-03.md |
-| decisao-colegiado | — | 2003-03-25 | outro | cvm-col-20030325-d05 | fichas/colegiado/2003-04.md |
-| pas | 01/2001 | 2002-12-12 | condenacao | cvm-pas-01-2001 | fichas/pas/2002-04.md |
-| decisao-colegiado | — | 2002-10-10 | outro | cvm-col-20021010-d02 | fichas/colegiado/2002-23.md |
-| acordao-crsfn | RJ2000/3739 | 2002-08-28 | condenacao | crsfn-3921 | fichas/crsfn/2002-02.md |
-| pas | 06/2000 | 2002-08-22 | condenacao | cvm-pas-06-2000 | fichas/pas/2002-02.md |
-| acordao-crsfn | 07/2000 | 2002-08-01 | condenacao | crsfn-4081 | fichas/crsfn/2002-02.md |
-| pas | RJ2001/7661 | 2002-04-25 | condenacao | cvm-pas-rj2001-7661 | fichas/pas/2002-02.md |
-| pas | 08/2000 | 2002-04-04 | condenacao | cvm-pas-08-2000 | fichas/pas/2002-01.md |
-| acordao-crsfn | 25/99 | 2002-03-25 | condenacao | crsfn-3408 | fichas/crsfn/2002-01.md |
-| pas | 07/2000 | 2001-12-12 | condenacao | cvm-pas-07-2000 | fichas/pas/2001-04.md |
-| acordao-crsfn | 15/96 | 2001-10-30 | parcial | crsfn-3099 | fichas/crsfn/2001-02.md |
-| pas | 32/2000 | 2001-10-10 | condenacao | cvm-pas-32-2000 | fichas/pas/2001-03.md |
-| acordao-crsfn | 19/97 | 2000-09-29 | parcial | crsfn-2916 | fichas/crsfn/2000-04.md |
-| pas | 25/1999 | 2000-08-24 | condenacao | cvm-pas-25-1999 | fichas/pas/2000-01.md |
-| acordao-crsfn | 03/98 | 2000-07-28 | absolvicao | crsfn-3001 | fichas/crsfn/2000-04.md |
-| acordao-crsfn | 17/95 | 2000-07-28 | outro | crsfn-2544-2 | fichas/crsfn/2000-03.md |
-| acordao-crsfn | 98/4845 | 2000-06-15 | condenacao | crsfn-2984 | fichas/crsfn/2000-03.md |
-| acordao-crsfn | 13/96 | 2000-06-15 | absolvicao | crsfn-2628 | fichas/crsfn/2000-02.md |
-| pas | 08/1999 | 2000-06-01 | condenacao | cvm-pas-08-1999 | fichas/pas/2000-01.md |
-| acordao-crsfn | 97/1669 | 1999-10-28 | absolvicao | crsfn-2780 | fichas/crsfn/1999-03.md |
-| acordao-crsfn | 11/95 | 1999-09-30 | arquivamento | crsfn-2872 | fichas/crsfn/1999-03.md |
-| acordao-crsfn | 08/95 | 1999-08-31 | condenacao | crsfn-2737 | fichas/crsfn/1999-02.md |
-| acordao-crsfn | 20/95 | 1999-08-31 | absolvicao | crsfn-2611 | fichas/crsfn/1999-02.md |
-| acordao-crsfn | 97/0065 | 1999-07-29 | absolvicao | crsfn-2617 | fichas/crsfn/1999-01.md |
-| acordao-crsfn | 97/0873 | 1999-07-29 | absolvicao | crsfn-2613 | fichas/crsfn/1999-01.md |
-| acordao-crsfn | 96/2055 | 1999-07-29 | absolvicao | crsfn-2564 | fichas/crsfn/1999-01.md |
-| acordao-crsfn | 96/2042 | 1998-10-29 | condenacao | crsfn-2550 | fichas/crsfn/1998-03.md |
-| acordao-crsfn | 96/2076 | 1998-10-29 | parcial | crsfn-2538 | fichas/crsfn/1998-03.md |
-| acordao-crsfn | 96/2066 | 1998-10-29 | condenacao | crsfn-2534 | fichas/crsfn/1998-03.md |
-| acordao-crsfn | 17/95 | 1998-09-22 | outro | crsfn-2544 | fichas/crsfn/1998-03.md |
-| acordao-crsfn | 96/2040 | 1998-07-30 | condenacao | crsfn-2506 | fichas/crsfn/1998-02.md |
-| acordao-crsfn | 96/2044 | 1998-07-30 | absolvicao | crsfn-2479 | fichas/crsfn/1998-02.md |
-| acordao-crsfn | 96/2035 | 1998-06-25 | absolvicao | crsfn-2478 | fichas/crsfn/1998-02.md |
-| acordao-crsfn | 01/93 | 1997-10-30 | condenacao | crsfn-2270 | fichas/crsfn/1997-01.md |
+| Tipo | Processo | Data | Resultado | Ementa | Id | Ficha |
+|---|---|---|---|---|---|---|
+| pas | 19957.008389/2023-65 | 2026-10-21 | — | PAS CVM nº 19957.008389/2023-65. | cvm-pas-19957-008389-2023-65 | fichas/pas/2026-06.md |
+| pas | 19957.008202/2025-95 | 2026-10-21 | — | PAS contra a KPMG Auditores Independentes Ltda. por prestar auditoria aos fundos BB Joatinga e Opus One por mais de cinco exercícios… | cvm-pas-19957-008202-2025-95 | fichas/pas/2026-06.md |
+| acordao-crsfn | 19957.003685/2023-70 | 2026-06-10 | condenacao | RECURSOS ADMINISTRATIVOS. CVM. AUDITORIA INDEPENDENTE. INOBSERVÂNCIA DE NORMAS CONTÁBEIS NA CONDUÇÃO DE PROCESSOS DE AUDITORIA DE… | crsfn-19957-003685-2023-70 | fichas/crsfn/2026-02.md |
+| acordao-crsfn | 19957.011109/2019-10 | 2026-03-17 | condenacao | RECURSO ADMINISTRATIVO. CVM. AUDITORIA INDEPENDENTE. INOBSERVÂNCIA DE NORMAS EMANADAS PELO CONSELHO FEDERAL DE CONTABILIDADE… | crsfn-10372-000160-2024-60 | fichas/crsfn/2026-01.md |
+| acordao-crsfn | 19957.004715/2020-12 | 2026-03-17 | parcial | RECURSOS ADMINISTRATIVOS. CVM. AUDITORIA INDEPENDENTE. EXERCÍCIO DE ATIVIDADE DE AUDITORIA SEM REGISTRO NA CVM. PERMISSÃO DE ATUAÇÃO DE… | crsfn-10372-000118-2024-49 | fichas/crsfn/2026-01.md |
+| pas | 19957.021470/2024-11 | 2025-12-16 | absolvicao | : Apurar supostas irregularidades no contexto de auditoria independente das demonstrações financeiras da companhia aberta Odontoprev S.A… | cvm-pas-19957-021470-2024-11 | fichas/pas/2025-11.md |
+| pas | 19957.010504/2021-08 | 2025-12-16 | absolvicao | Apuração de supostas irregularidades na realização de auditoria independente de demonstrações contábeis da companhia Companhia de Tecidos… | cvm-pas-19957-010504-2021-08 | fichas/pas/2025-11.md |
+| pas | 19957.000690/2024-10 | 2025-12-09 | outro | Apuração de responsabilidades por suposta inobservância das normas contábeis e de auditoria independente referentes à mensuração de valor… | cvm-pas-19957-000690-2024-10 | fichas/pas/2025-10.md |
+| pas | 19957.015871/2024-32 | 2025-11-11 | condenacao | Apurar o descumprimento ao Programa de Educação Profissional Continuada por parte de diversos sócios e responsáveis técnicos de Auditores… | cvm-pas-19957-015871-2024-32 | fichas/pas/2025-09.md |
+| acordao-crsfn | 19957.014308/2024-47 | 2025-11-11 | absolvicao | RECURSO ADMINISTRATIVO. CVM. AUDITORIA INDEPENDENTE. DESCUMPRIMENTO DE PROGRAMA DE EDUCAÇÃO CONTINUADA (ART 34 da ICVM 308). Sócia gestora… | crsfn-19957-014308-2024-47 | fichas/crsfn/2025-07.md |
+| acordao-crsfn | 19957.012778/2022-12 | 2025-11-11 | condenacao | RECURSOS ADMINISTRATIVOS. CVM. AUDITORIA INDEPENDENTE. FALHA NO PROCEDIMENTO DE VERIFICAÇÃO DA CUSTÓDIA DOS ATIVOS. DESCUMPRIMENTO DO DEVER… | crsfn-19957-012778-2022-12 | fichas/crsfn/2025-06.md |
+| acordao-crsfn | 19957.005248/2021-29 | 2025-11-11 | parcial | RECURSOS ADMINISTRATIVOS. CVM. AUDITORIA INDEPENDENTE. INOBSERVÂNCIA DAS NORMAS BRASILEIRAS DE CONTABILIDADE. ITEM 16 DA NBC TA 230. ITENS… | crsfn-10372-100147-2023-29 | fichas/crsfn/2025-06.md |
+| acordao-crsfn | 19957.005233/2024-11 | 2025-11-02 | condenacao | RECURSOS ADMINISTRATIVOS. CVM. AUDITORIA INDEPENDENTE. FALHAS EM AUDITORIA DAS DEMONSTRAÇÕES FINANCEIRAS DE FUNDOS DE INVESTIMENTO… | crsfn-19957-005233-2024-11 | fichas/crsfn/2025-06.md |
+| pas | 19957.016169/2023-13 | 2025-09-09 | parcial | Apurar a responsabilidade por eventual descumprimento ao disposto no item II do art. 25 e no art. 20 da Resolução CVM nº 23/2021, em função… | cvm-pas-19957-016169-2023-13 | fichas/pas/2025-08.md |
+| pas | 19957.009936/2021-68 | 2025-09-02 | absolvicao | Apurar supostas irregularidades no contexto de auditoria independente das demonstrações financeiras da Copel. Absolvições. | cvm-pas-19957-009936-2021-68 | fichas/pas/2025-08.md |
+| pas | 19957.010489/2021-90 | 2025-08-19 | absolvicao | Apurar supostas irregularidades no contexto de auditoria independente das demonstrações financeiras do Osasco Properties Fundo de… | cvm-pas-19957-010489-2021-90 | fichas/pas/2025-07.md |
+| pas | 19957.008804/2023-81 | 2025-08-05 | absolvicao | Apurar supostas irregularidades na auditoria independente das demonstrações financeiras do Fundo de Investimento Imobiliário – FII Torre… | cvm-pas-19957-008804-2023-81 | fichas/pas/2025-06.md |
+| pas | 19957.010029/2021-61 | 2025-07-22 | absolvicao | Apurar a responsabilidade por descumprimento ao disposto no art. 20 da Instrução CVM nº 308, de 14 de maio de 1999 (vigente à época)… | cvm-pas-19957-010029-2021-61 | fichas/pas/2025-06.md |
+| termo-compromisso | 19957.014316/2024-93; 19957.003060/2025-70 | 2025-07-22 | aceito | O Colegiado aceitou proposta de termo de compromisso de firma de auditoria independente por descumprimento, em tese, do Programa de… | cvm-col-20250722-d3314 | fichas/tc/2025-03.md |
+| acordao-crsfn | 19957.005643/2020-21 | 2025-07-12 | condenacao | RECURSO ADMINISTRATIVO. CVM. AUDITORIA INDEPENDENTE. EMITIR DOCUMENTOS DE AUDITORIA INDEPENDENTE EM DESACORDO COM AS NORMAS CONTÁBEIS… | crsfn-10372-000168-2024-26 | fichas/crsfn/2025-04.md |
+| pas | 19957.011607/2024-20 | 2025-05-27 | condenacao | Apurar suposto descumprimento ao Programa de Educação Profissional Continuada. Multa. | cvm-pas-19957-011607-2024-20 | fichas/pas/2025-05.md |
+| termo-compromisso | 19957.004339/2023-17 | 2025-05-20 | aceito | O Colegiado, por maioria, aceitou a proposta conjunta de termo de compromisso de auditora e responsável técnico, de R$ 1.881.000,00 (R$… | cvm-col-20250520-d3274 | fichas/tc/2025-03.md |
+| termo-compromisso | 19957.014229/2023-55 | 2025-05-13 | aceito | O Colegiado, por unanimidade, aceitou, por conveniência e oportunidade, a proposta conjunta de termo de compromisso de auditora e de seu… | cvm-col-20250513-d3272 | fichas/tc/2025-02.md |
+| pas | 19957.014308/2024-47 | 2025-04-15 | condenacao | Apurar suposto descumprimento ao Programa de Educação Profissional Continuada. Advertência | cvm-pas-19957-014308-2024-47 | fichas/pas/2025-04.md |
+| pas | 19957.003685/2023-70 | 2025-04-15 | parcial | Apurar suposta inobservância de normas contábeis na condução de processos de auditoria de demonstrações financeiras, notadamente no que se… | cvm-pas-19957-003685-2023-70 | fichas/pas/2025-04.md |
+| acordao-crsfn | 19957.009070/2021-95 | 2025-04-08 | condenacao | RECURSO ADMINISTRATIVO. CVM. AUDITORIA. IRREGULARIDADES NA ESTRUTURA DE CONTROLE DE QUALIDADE DE SOCIEDADE DE AUDITORIA INDEPENDENTE E EM… | crsfn-10372-000012-2025-26 | fichas/crsfn/2025-02.md |
+| decisao-colegiado | 19957.019109/2024-25 | 2025-04-01 | provido | O Colegiado, por unanimidade, proveu recurso da Americanas S.A. – Em Recuperação Judicial contra indeferimento de acesso aos autos de PAS… | cvm-col-20250401-d3244 | fichas/colegiado/2025-03.md |
+| pas | 19957.001627/2022-21 | 2025-03-25 | absolvicao | Apurar supostas irregularidades no contexto de auditoria independente das demonstrações financeiras do Vinci Infra Transmissão Fundo de… | cvm-pas-19957-001627-2022-21 | fichas/pas/2025-03.md |
+| pas | 19957.015389/2022-31 | 2025-03-18 | absolvicao | Apurar supostas irregularidades no contexto de auditoria independente das demonstrações financeiras do Fundo de Investimento Imobiliário… | cvm-pas-19957-015389-2022-31 | fichas/pas/2025-02.md |
+| acordao-crsfn | 19957.012792/2022-16 | 2025-03-12 | condenacao | RECURSO ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. AUDITORIA. DESCUMPRIMENTO DO PROGRAMA DE EDUCAÇÃO PROFISSIONAL CONTINUADA (PEPC)… | crsfn-10372-000173-2024-39 | fichas/crsfn/2025-01.md |
+| pas | 19957.005233/2024-11 | 2025-02-25 | condenacao | Falhas em auditoria das demonstrações financeiras de fundos de investimento Multas | cvm-pas-19957-005233-2024-11 | fichas/pas/2025-01.md |
+| pas | 19957.012778/2022-12 | 2025-02-11 | parcial | Apurar supostas irregularidades no contexto de auditoria independente das demonstrações financeiras do Botafogo Institucional Fundo de… | cvm-pas-19957-012778-2022-12 | fichas/pas/2025-01.md |
+| pas | 19957.015125/2022-87 | 2024-12-10 | parcial | Apurar supostas irregularidades no contexto de auditoria independente das demonstrações financeiras do fundo Versalhes Recebíveis… | cvm-pas-19957-015125-2022-87 | fichas/pas/2024-21.md |
+| pas | 19957.010255/2021-42 | 2024-11-05 | absolvicao | Apurar responsabilidades por suposta não observância às normas brasileiras de contabilidade para auditoria independente de informação… | cvm-pas-19957-010255-2021-42 | fichas/pas/2024-19.md |
+| pas | 19957.010272/2021-80 | 2024-10-29 | condenacao | Apuração de responsabilidade por suposta inobservância de normas emanadas pelo Conselho Federal de Contabilidade, em infração ao art. 20 da… | cvm-pas-19957-010272-2021-80 | fichas/pas/2024-18.md |
+| pas | 19957.009070/2021-95 | 2024-10-29 | parcial | Apurar responsabilidade por supostas irregularidades na estrutura de controle de qualidade de sociedade de auditores independentes e em… | cvm-pas-19957-009070-2021-95 | fichas/pas/2024-18.md |
+| acordao-crsfn | 19957.004040/2020-10 | 2024-10-09 | condenacao | RECURSO ADMINISTRATIVO. CVM. AUDITORIA INDEPENDENTE. IRREGULARIDADES NA EMISSÃO DE DOCUMENTOS DE AUDITORIA INDEPENDENTE. Apuração da… | crsfn-10372-000071-2024-13 | fichas/crsfn/2024-07.md |
+| termo-compromisso | 19957.010255/2021-42 | 2024-10-01 | rejeitado | O Colegiado rejeitou nova proposta conjunta de termo de compromisso de auditora independente e de responsável técnico, de R$ 200.000,00 (R$… | cvm-col-20241001-d2709 | fichas/tc/2024-05.md |
+| pas | 19957.012792/2022-16 | 2024-09-10 | condenacao | Apurar eventual responsabilidade de sociedade de auditores por não cumprimento de regulamentação associada ao Programa de Educação… | cvm-pas-19957-012792-2022-16 | fichas/pas/2024-14.md |
+| pas | 19957.010467/2021-20 | 2024-09-03 | absolvicao | Apurar responsabilidade de auditor independente e seu responsável técnico, por suposta inobservância de normas emanadas pelo Conselho… | cvm-pas-19957-010467-2021-20 | fichas/pas/2024-14.md |
+| pas | 19957.002475/2023-64 | 2024-09-03 | absolvicao | Apurar responsabilidade de auditor independente e seu responsável técnico, por infração ao disposto no art. 20 da, então vigente, Instrução… | cvm-pas-19957-002475-2023-64 | fichas/pas/2024-13.md |
+| pas | 19957.005532/2021-03 | 2024-08-13 | absolvicao | Falhas em procedimentos de auditoria das demonstrações financeiras de 31.12.2019 da Porto Sudeste V.M. S.A. Absolvições. | cvm-pas-19957-005532-2021-03 | fichas/pas/2024-12.md |
+| pas | 19957.005643/2020-21 | 2024-08-06 | condenacao | Apurar supostas irregularidades envolvendo a emissão de documentos de auditoria independente. Multas e extinção de punibilidade. | cvm-pas-19957-005643-2020-21 | fichas/pas/2024-11.md |
+| pas | 19957.005226/2020-88 | 2024-07-30 | absolvicao | Apuração de responsabilidade por suposta inobservância de normas emanadas pelo Conselho Federal de Contabilidade, em infração ao art. 20 da… | cvm-pas-19957-005226-2020-88 | fichas/pas/2024-11.md |
+| pas | 19957.009359/2021-12 | 2024-06-20 | condenacao | Apurar supostas irregularidades no contexto de auditoria independente das demonstrações financeiras da CEL Participações S.A. – CELPAR (e… | cvm-pas-19957-009359-2021-12 | fichas/pas/2024-08.md |
+| termo-compromisso | 19957.009327/2023-71 | 2024-06-13 | aceito | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, aceitou a proposta conjunta de termo de compromisso de R$ 533.120,00, em… | cvm-col-20240613-d3080 | fichas/tc/2024-04.md |
+| acordao-crsfn | 19957.009725/2018-20 | 2024-06-12 | condenacao | RECURSOS ADMINISTRATIVOS. CVM. AUDITORIA. FALHAS NOS TRABALHOS DE AUDITORIA SOBRE DEMONSTRAÇÕES FINANCEIRAS. Não reconhecimento de créditos… | crsfn-10372-100046-2023-58 | fichas/crsfn/2024-04.md |
+| acordao-crsfn | 19957.006547/2019-66; RJ2019/4484 | 2024-06-11 | condenacao | RECURSOS ADMINISTRATIVOS. CVM. AUDITORIA INDEPENDENTE. NÃO AVALIAÇÃO E NÃO REPORTE DE AUSÊNCIA NAS DEMONSTRAÇÕES FINANCEIRAS DE DIVULGAÇÕES… | crsfn-10372-100076-2022-83 | fichas/crsfn/2024-04.md |
+| pas | 19957.011109/2019-10 | 2024-06-04 | condenacao | Apuração de responsabilidade por suposta inobservância de normas emanadas pelo Conselho Federal de Contabilidade, em infração ao art. 20 da… | cvm-pas-19957-011109-2019-10 | fichas/pas/2024-06.md |
+| pas | 19957.004285/2019-03 | 2024-06-04 | absolvicao | Apurar eventuais falhas nos trabalhos de auditoria sobre as demonstrações financeiras da Companhia Energética de Minas Gerais - CEMIG… | cvm-pas-19957-004285-2019-03 | fichas/pas/2024-06.md |
+| pas | 19957.009809/2023-21 | 2024-05-14 | condenacao | Descumprimento ao Programa de Educação Profissional Continuada. Multa. | cvm-pas-19957-009809-2023-21 | fichas/pas/2024-05.md |
+| pas | 19957.006520/2021-98 | 2024-05-14 | condenacao | Descumprimento ao Programa de Educação Profissional Continuada. Multa. | cvm-pas-19957-006520-2021-98 | fichas/pas/2024-05.md |
+| decisao-colegiado | 19957.014220/2023-44 | 2024-04-02 | nao-provido | O Colegiado, por unanimidade, negou provimento a recurso contra o indeferimento, pela SNC, do registro de auditor independente pessoa… | cvm-col-20240402-d3046 | fichas/colegiado/2024-04.md |
+| pas | 19957.004715/2020-12 | 2024-03-26 | condenacao | Apurar indícios de irregularidades e de infração às normas da CVM nos trabalhos de auditoria independente realizados sobre as demonstrações… | cvm-pas-19957-004715-2020-12 | fichas/pas/2024-03.md |
+| pas | 19957.010586/2018-87 | 2024-03-19 | parcial | Possível infração aos artigos 20 e 22 da Instrução CVM n° 308/99. Advertência e absolvição. | cvm-pas-19957-010586-2018-87 | fichas/pas/2024-03.md |
+| acordao-crsfn | RJ2017/3970 | 2024-03-12 | outro | EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÃO E CONTRADIÇÃO NO ACÓRDÃO CRSFN 13/2023. Inexistência de omissão e contradição na decisão… | crsfn-10372-100082-2021-50-2 | fichas/crsfn/2024-01.md |
+| pas | 19957.001461/2020-81 | 2024-03-05 | absolvicao | Possível descumprimento dos itens 11.(a) e 15 da NBC TA 200 e itens 10, 11 e 12, da NBC TA 700 e art. 20 da Instrução CVM nº 308/99… | cvm-pas-19957-001461-2020-81 | fichas/pas/2024-02.md |
+| pas | 19957.008371/2023-63 | 2024-02-27 | condenacao | Apuração de responsabilidade de sociedade de auditores por não cumprimento de regulamentação associada ao Programa de Educação Profissional… | cvm-pas-19957-008371-2023-63 | fichas/pas/2024-01.md |
+| decisao-colegiado | 19957.013952/2023-17 | 2024-01-09 | nao-provido | O Colegiado, por unanimidade, negou provimento a recurso da Allos S.A. contra indeferimento de aplicação do art. 31-A da RCVM 23… | cvm-col-20240109-d2991 | fichas/colegiado/2024-01.md |
+| pas | 19957.004040/2020-10 | 2023-12-06 | parcial | Apurar supostas irregularidades na emissão de documentos de auditoria independente da Altere Securitizadora S.A. Multas e extinção de… | cvm-pas-19957-004040-2020-10 | fichas/pas/2023-15.md |
+| acordao-crsfn | 19957.001060/2020-21; SP2020/00159 | 2023-12-04 | parcial | RECURSOS VOLUNTÁRIOS. CVM. AUDITORIA INDEPENDENTE. DESCUMPRIMENTO DE NORMAS CONTÁBEIS. Infrações caracterizadas. Ajuste na dosimetria das… | crsfn-10372-100189-2021-06 | fichas/crsfn/2023-10.md |
+| decisao-colegiado | 19957.008006/2023-59 | 2023-11-21 | nao-provido | O Colegiado, por unanimidade, conheceu e negou provimento a recurso de duas companhias contra indeferimento da SNC de pedido de aplicação… | cvm-col-20231121-d2962 | fichas/colegiado/2023-12.md |
+| pas | 19957.005740_2020_13 | 2023-11-07 | parcial | Apurar infração ao art. 20 da Instrução CVM nº 308/1999, em relação a programa de revisão externa de qualidade e da prestação de serviços… | cvm-pas-19957-005740-2020-13 | fichas/pas/2023-13.md |
+| acordao-crsfn | 19957.006891/2021-70 | 2023-11-07 | condenacao | RECURSO VOLUNTÁRIO. CVM. AUDITOR INDEPENDENTE. DESCUMPRIMENTO PROGRAMA DE EDUCAÇÃO PROFISSIONAL CONTINUADA. Pontuação mínima sobre o… | crsfn-10372-100003-2023-72 | fichas/crsfn/2023-08.md |
+| decisao-colegiado | 19957.002686/2022-16 | 2023-10-03 | nao-provido | O Colegiado, acompanhando a área técnica (SNC), negou provimento a recurso contra suspensão do cadastro de responsável técnico de auditor… | cvm-col-20231003-d2937 | fichas/colegiado/2023-10.md |
+| pas | 19957.005248/2021-29 | 2023-09-05 | parcial | Apurar eventuais irregularidades nos trabalhos de auditoria sobre as demonstrações financeiras da companhia JBS S.A. relativas aos… | cvm-pas-19957-005248-2021-29 | fichas/pas/2023-10.md |
+| termo-compromisso | 19957.004040/2020-10; 19957.005643/2020-21; 19957.004715/2020-12 | 2023-09-05 | rejeitado | O Colegiado rejeitou, por unanimidade, propostas de termo de compromisso de sociedades de auditoria e de auditores (pessoas físicas e… | cvm-col-20230905-d2065 | fichas/tc/2023-06.md |
+| acordao-crsfn | 03/2011 | 2023-08-09 | absolvicao | RECURSOS VOLUNTÁRIOS. IRREGULARIDADES NA COMPOSIÇÃO E DIVULGAÇÃO DE CONTINGÊNCIAS JUDICIAIS EM DEMONSTRAÇÕES FINANCEIRAS. FALHA NO TRABALHO… | crsfn-10372-100285-2019-21 | fichas/crsfn/2023-06.md |
+| acordao-crsfn | 19957.009525/2018-77 | 2023-07-11 | condenacao | RECURSOS VOLUNTÁRIOS. AUDITORIA INDEPENDENTE. FALHAS NA CONDUÇÃO DOS TRABALHOS DE AUDITORIA DE DEMONSTRAÇÕES FINANCEIRAS. Infração ao… | crsfn-10372-100044-2023-69 | fichas/crsfn/2023-05.md |
+| pas | 19957.005452/2019-25 | 2023-06-06 | condenacao | Apurar as responsabilidades de auditor independente e seu responsável técnico, por infração ao disposto no art. 20 da Instrução CVM n°… | cvm-pas-19957-005452-2019-25 | fichas/pas/2023-06.md |
+| acordao-crsfn | 19957.007755/2021-05 | 2023-05-09 | condenacao | RECURSO VOLUNTÁRIO. AUDITOR INDEPENDENTE. PESSOA JURÍDICA. RESPONSABILIDADE PELA NÃO OBTENÇÃO DE PONTUAÇÃO MÍNIMA EXIGIDA PARA ATENDER AO… | crsfn-10372-100035-2023-78 | fichas/crsfn/2023-04.md |
+| termo-compromisso | 19957.012433/2022-51 | 2023-04-11 | aceito | O Colegiado aceitou proposta conjunta de termo de compromisso de auditor independente pessoa jurídica (R$ 806.800,00) e de sócio (R$… | cvm-col-20230411-d2836 | fichas/tc/2023-03.md |
+| acordao-crsfn | RJ2017/3970 | 2023-02-07 | condenacao | RECURSOS VOLUNTÁRIOS. AUDITORIA INDEPENDENTE. INOBSERVÂNCIA DE NORMAS DO CONSELHO FEDERAL DE CONTABILIDADE. Infração ao art. 20 da… | crsfn-10372-100082-2021-50 | fichas/crsfn/2023-01.md |
+| decisao-colegiado | 19957.007552/2022-91 | 2023-01-17 | parcial | O Colegiado conheceu e deu provimento parcial a recurso da Petro Rio S.A. contra SEP e SNC, sobre rodízio de auditor independente. Entendeu… | cvm-col-20230117-d2784 | fichas/colegiado/2023-02.md |
+| termo-compromisso | 19957.000108/2022-45 | 2023-01-17 | aceito | O Colegiado, por unanimidade, divergindo do parecer do Comitê, aceitou a proposta conjunta de termo de compromisso da RSM Brasil Auditores… | cvm-col-20230117-d2783 | fichas/tc/2023-01.md |
+| pas | 19957.011865/2017-87 | 2022-12-15 | absolvicao | Responsabilidade de KPMG Auditores Independentes e de seu sócio e responsável técnico, [pessoa física], pela emissão de relatório de… | cvm-pas-19957-011865-2017-87 | fichas/pas/2022-12.md |
+| pas | 19957.007755/2021-05 | 2022-12-15 | condenacao | Responsabilidade pela não obtenção de pontuação mínima exigida para atender ao Programa de Educação Profissional Continuada, em infração ao… | cvm-pas-19957-007755-2021-05 | fichas/pas/2022-12.md |
+| termo-compromisso | 19957.010489/2021-90 | 2022-12-13 | rejeitado | O Colegiado, por unanimidade e acompanhando o parecer do Comitê, rejeitou proposta conjunta de termo de compromisso de sociedade de… | cvm-col-20221213-d2741 | fichas/tc/2022-06.md |
+| acordao-crsfn | RJ2016/2245 | 2022-12-08 | condenacao | RECURSOS VOLUNTÁRIOS. IRREGULARIDADES NA CONDUÇÃO DOS TRABALHOS DE AUDITORIA DAS DEMONSTRAÇÕES FINANCEIRAS DA RECRUSUL S.A. INOBSERVÂNCIA… | crsfn-10372-100336-2019-15 | fichas/crsfn/2022-10.md |
+| pas | 19957.006394/2021-71 | 2022-11-29 | condenacao | Atuação no mercado de valores mobiliários como auditor independente e respectivo responsável técnico sem os pertinentes registro e cadastro… | cvm-pas-19957-006394-2021-71 | fichas/pas/2022-12.md |
+| termo-compromisso | 19957.001984/2022-99 | 2022-11-01 | aceito | O Colegiado aceitou, acompanhando o Comitê, proposta de termo de compromisso de auditor independente que prestou serviços por mais de cinco… | cvm-col-20221101-d2714 | fichas/tc/2022-05.md |
+| pas | 19957.006548/2019-19 | 2022-10-25 | absolvicao | Irregularidades em trabalhos de auditoria, em violação aos arts. 20 e 25 da Instrução CVM nº 308/1999. Absolvições. | cvm-pas-19957-006548-2019-19 | fichas/pas/2022-10.md |
+| termo-compromisso | 19957.010255/2021-42 | 2022-10-25 | rejeitado | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou proposta conjunta de termo de compromisso de sociedade de auditoria e de seu… | cvm-col-20221025-d2709 | fichas/tc/2022-05.md |
+| pas | 19957.009725/2018-20 | 2022-10-18 | condenacao | Falhas nos trabalhos de auditoria sobre as demonstrações financeiras da Recrusul S.A., dos exercícios sociais de 2015 e 2016, em alegada… | cvm-pas-19957-009725-2018-20 | fichas/pas/2022-10.md |
+| pas | 19957.009525/2018-77 | 2022-10-18 | condenacao | Falhas nos trabalhos de auditoria sobre as demonstrações financeiras da Recrusul S.A., dos exercícios sociais de 2012, 2013 e 2014, em… | cvm-pas-19957-009525-2018-77 | fichas/pas/2022-09.md |
+| termo-compromisso | 19957.010154/2021-71 | 2022-10-11 | aceito | O Colegiado aceitou, acompanhando o Comitê, proposta conjunta de termo de compromisso do auditor-revisor e de seu responsável técnico em… | cvm-col-20221011-d2701 | fichas/tc/2022-05.md |
+| pas | 19957.006891/2021-70 | 2022-09-27 | condenacao | Responsabilidade pela não obtenção de pontuação mínima exigida para atender ao programa de educação profissional continuada, em infração… | cvm-pas-19957-006891-2021-70 | fichas/pas/2022-08.md |
+| pas | 19957.008807/2021-52 | 2022-09-13 | condenacao | Responsabilidade pela não obtenção de pontuação mínima exigida para atender ao programa de educação profissional continuada, em infração… | cvm-pas-19957-008807-2021-52 | fichas/pas/2022-07.md |
+| termo-compromisso | 19957.009070/2021-95 | 2022-09-06 | rejeitado | O Colegiado, por unanimidade e acompanhando o Comitê, rejeitou a proposta de termo de compromisso de firma de auditoria e de seu… | cvm-col-20220906-d2678 | fichas/tc/2022-04.md |
+| termo-compromisso | 19957.003483/2021-66 | 2022-06-28 | aceito | O Colegiado aceitou o termo de compromisso da Deloitte Touche Tohmatsu Auditores Independentes e de seu responsável técnico, acompanhando o… | cvm-col-20220628-d2620 | fichas/tc/2022-03.md |
+| decisao-colegiado | 19957.000742/2022-88 | 2022-04-05 | nao-provido | Recurso contra decisão da SNC. Proc. SEI 19957.000742/2022-88. | cvm-col-20220405-d2552 | fichas/colegiado/2022-05.md |
+| decisao-colegiado | 19957.000355/2022-41 | 2022-03-08 | nao-provido | O Colegiado negou provimento a recurso contra o indeferimento, pela SNC, do pedido de inclusão de responsável técnico em sociedade de… | cvm-col-20220308-d2490 | fichas/colegiado/2022-03.md |
+| termo-compromisso | 19957.002010/2021-41 | 2022-02-08 | aceito | O Colegiado aceitou proposta de termo de compromisso de sócio e responsável técnico de sociedade de auditoria acusado de adulteração de… | cvm-col-20220208-d2472 | fichas/tc/2022-01.md |
+| acordao-crsfn | RJ2015/13093 | 2022-02-08 | condenacao | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Recurso voluntário. Auditoria independente. Cumprimento obrigatório das NBC-TA. Autoria e materialidade… | crsfn-10372-100283-2019-32 | fichas/crsfn/2022-01.md |
+| pas | 19957.006547/2019-66 | 2022-02-01 | parcial | Falhas nos trabalhos de auditoria sobre as demonstrações financeiras da Camil Alimentos S.A., do exercício social findo em 28.02.2017, em… | cvm-pas-19957-006547-2019-66 | fichas/pas/2022-01.md |
+| acordao-crsfn | RJ-2014-13581 | 2021-12-08 | condenacao | RECURSOS VOLUNTÁRIOS. Reconhecimento contábil de ativo fiscal contingente. Matéria sujeita a decisão judicial definitiva com transito em… | crsfn-10372-100293-2018-97 | fichas/crsfn/2021-06.md |
+| termo-compromisso | 19957.006614/2020-86 | 2021-11-30 | aceito | O Colegiado, acompanhando o Comitê, aceitou proposta conjunta de termo de compromisso de auditora independente e de seu responsável… | cvm-col-20211130-d2399 | fichas/tc/2021-08.md |
+| decisao-colegiado | 19957.008269/2021-04 | 2021-11-23 | outro | O Colegiado, divergindo da área técnica (SNC), concluiu que o comitê de auditoria da CCR S.A. atenderia ao art. 31-A, §1º, da Resolução CVM… | cvm-col-20211123-d2390 | fichas/colegiado/2021-20.md |
+| decisao-colegiado | 19957.007563/2021-91 | 2021-11-03 | indeferido | O Colegiado indeferiu o pedido da Oi S.A. - Em Recuperação Judicial de dispensa dos arts. 31-A e 31-B da Resolução CVM 23/2021… | cvm-col-20211103-d2372 | fichas/colegiado/2021-18.md |
+| termo-compromisso | 19957.005740/2020-13 | 2021-10-14 | rejeitado | O Colegiado rejeitou, por unanimidade, proposta conjunta de Termo de Compromisso de auditora independente e de seu responsável técnico… | cvm-col-20211014-d2330 | fichas/tc/2021-07.md |
+| termo-compromisso | 19957.006620/2018-19; 19957.009558/2018-17 | 2021-08-31 | aceito | O Colegiado aceitou, por unanimidade e acompanhando o Comitê, proposta de Termo de Compromisso de auditores independentes (pessoa jurídica… | cvm-col-20210831-d1308-1787 | fichas/tc/2021-05.md |
+| termo-compromisso | 19957.004040/2020-10; 19957.005643/2020-21 | 2021-08-17 | rejeitado | O Colegiado rejeitou, por unanimidade, acompanhando o parecer do Comitê, as duas propostas de Termo de Compromisso, apresentadas por… | cvm-col-20210817-d2065-e-2066 | fichas/tc/2021-05.md |
+| decisao-colegiado | 19957.005047/2021-21 | 2021-07-27 | nao-provido | O Colegiado negou provimento, por unanimidade, acompanhando a área técnica, a recurso contra decisão da SNC que cancelou o registro de… | cvm-col-20210727-d2250 | fichas/colegiado/2021-12.md |
+| decisao-colegiado | 19957.004831/2021-12 | 2021-07-27 | nao-provido | O Colegiado negou provimento, por unanimidade, a recurso contra indeferimento de registro de auditor independente pessoa natural, por falta… | cvm-col-20210727-d2249 | fichas/colegiado/2021-12.md |
+| decisao-colegiado | 19957.002824/2021-86 | 2021-07-20 | nao-provido | O Colegiado, acompanhando a SNC, negou provimento, por unanimidade, a recurso contra indeferimento da inclusão de profissional como… | cvm-col-20210720-d2243 | fichas/colegiado/2021-12.md |
+| decisao-colegiado | 19957.002822/2021-97 | 2021-06-08 | nao-provido | O Colegiado negou provimento a recurso de sociedade de auditoria contra o indeferimento da inclusão de profissional como responsável… | cvm-col-20210608-d2207 | fichas/colegiado/2021-10.md |
+| termo-compromisso | 19957.010586/2018-87; 19957.011109/2019-10 | 2021-05-11 | rejeitado | Por maioria, vencido um diretor, o Colegiado rejeitou a proposta global de termo de compromisso de uma sociedade de auditoria independente… | cvm-col-20210511-d2158 | fichas/tc/2021-03.md |
+| termo-compromisso | 19957.002521/2020-82 | 2021-05-04 | rejeitado | O Colegiado rejeitou a proposta conjunta de termo de compromisso de uma sociedade de auditoria e de sua sócia, acompanhando o Comitê. As… | cvm-col-20210504-d2157 | fichas/tc/2021-03.md |
+| termo-compromisso | 19957.006816/2020-28 | 2021-04-27 | aceito | Por unanimidade, acompanhando o Comitê, o Colegiado aceitou a proposta de termo de compromisso da Deloitte, autodenunciada por prestar… | cvm-col-20210427-d2150 | fichas/tc/2021-03.md |
+| decisao-colegiado | 19957.002501/2021-92 | 2021-04-27 | nao-provido | O Colegiado, por unanimidade, acompanhando a SNC, negou provimento a recurso contra o indeferimento de registro de auditor independente… | cvm-col-20210427-d2140 | fichas/colegiado/2021-07.md |
+| decisao-colegiado | 07/2020; 308/1999; 19957.006874/2019-18 | 2021-02-24 | outro | O Colegiado aprovou a Resolução CVM 23/2021, que substitui a ICVM 308/1999 e disciplina o registro e o exercício da auditoria independente… | cvm-col-20210224-d1590 | fichas/colegiado/2021-04.md |
+| decisao-colegiado | 19957.008129/2020-47 | 2021-02-18 | nao-provido | O Colegiado negou provimento, por unanimidade, a recurso contra a suspensão do registro de auditor independente pessoa física até nova… | cvm-col-20210218-d2064 | fichas/colegiado/2021-03.md |
+| decisao-colegiado | 19957.003040/2020-94 | 2020-12-15 | nao-provido | O Colegiado, acompanhando a SNC, indeferiu pedido de reconsideração de decisão que negou recurso contra a suspensão de responsável técnico… | cvm-col-20201215-d1897 | fichas/colegiado/2020-21.md |
+| acordao-crsfn | RJ-2014-7704 | 2020-11-17 | condenacao | RECURSO VOLUNTÁRIO. Revisão Externa de Qualidade pelos Pares. Auditor independente. Irregularidades nos trabalhos de revisões externas de… | crsfn-10372-100344-2018-81 | fichas/crsfn/2020-09.md |
+| pas | 19957.009227/2017-04; RJ2017/3970 | 2020-11-04 | — | Inobservância de normas do Conselho Federal de Contabilidade, em infração ao art. 20 da Instrução CVM nº 308/1999, e falhas na elaboração… | cvm-pas-19957-009227-2017-04 | fichas/pas/2020-10.md |
+| pas | 19957.006304/2018-47; RJ2018/4441 | 2020-11-04 | absolvicao | Apurar possível descumprimento dos artigos 20 e 25, II, da Instrução CVM nº 308/99 ao realizar os trabalhos de auditoria independente sobre… | cvm-pas-19957-006304-2018-47 | fichas/pas/2020-09.md |
+| decisao-colegiado | 19957.003010/2020-88 | 2020-09-22 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SNC que suspendeu responsável técnico da Audiva Auditores Independentes EPP por… | cvm-col-20200922-d1923 | fichas/colegiado/2020-16.md |
+| acordao-crsfn | RJ2016/5789 | 2020-09-20 | condenacao | RECURSOS VOLUNTÁRIOS. Descumprimento por auditor independente de normas emanadas pelo Conselho Federal de Contabilidade relativas ao… | crsfn-10372-100332-2019-37 | fichas/crsfn/2020-07.md |
+| decisao-colegiado | 19957.003040/2020-94 | 2020-09-01 | nao-provido | O Colegiado negou provimento a recurso contra suspensão do cadastro de responsável técnico de sociedade de auditoria, por descumprimento do… | cvm-col-20200901-d1897 | fichas/colegiado/2020-14.md |
+| termo-compromisso | 19957.003124/2019-94 | 2020-09-01 | aceito | O Colegiado aceitou proposta conjunta de termo de compromisso de auditor independente pessoa jurídica e de seu responsável técnico, por… | cvm-col-20200901-d1669 | fichas/tc/2020-06.md |
+| pas | 19957.002524/2017-11; RJ2017/1334 | 2020-06-30 | parcial | Irregularidades na prestação de serviços de auditoria independente com relação às demonstrações financeiras da Companhia Iguaçu de Café… | cvm-pas-19957-002524-2017-11 | fichas/pas/2020-06.md |
+| termo-compromisso | 19957.005452/2019-25 | 2020-06-16 | rejeitado | O Colegiado rejeitou, por unanimidade, acompanhando o parecer do Comitê, proposta de termo de compromisso de auditor independente e… | cvm-col-20200616-d1837 | fichas/tc/2020-05.md |
+| acordao-crsfn | RJ2016/8251 | 2020-06-16 | parcial | RECURSOS VOLUNTÁRIOS. Não conformidade dos trabalhos de auditoria em demonstrações financeiras. Auditoria Independente. Recursos conhecido… | crsfn-10372-100018-2019-54 | fichas/crsfn/2020-04.md |
+| decisao-colegiado | 19957.000695/2020-19 | 2020-06-02 | nao-provido | O Colegiado conheceu do recurso, afastou as preliminares de ilegitimidade e nulidade e, no mérito, por unanimidade e acompanhando a área… | cvm-col-20200602-d1824 | fichas/colegiado/2020-09.md |
+| acordao-crsfn | RJ2015/13006 | 2020-04-28 | condenacao | RECURSOS VOLUNTÁRIOS. Falta de evidências que sustentem a abstenção de opinião. Falta de evidências que suportem o uso do pressuposto de… | crsfn-10372-100082-2019-35 | fichas/crsfn/2020-03.md |
+| termo-compromisso | 19957.009558/2018-17 | 2020-04-22 | rejeitado | O Colegiado rejeitou, por unanimidade, proposta conjunta de termo de compromisso de auditor independente e de seu responsável técnico (R$… | cvm-col-20200422-d1787 | fichas/tc/2020-03.md |
+| termo-compromisso | 19957.002501/2019-78 | 2020-04-22 | aceito | O Colegiado aceitou, por unanimidade, proposta de termo de compromisso de auditora independente, acompanhando o Comitê, pelo pagamento de… | cvm-col-20200422-d1786 | fichas/tc/2020-03.md |
+| acordao-crsfn | RJ2016/2476 | 2020-03-11 | condenacao | Companhia Aberta. Auditoria Independente. Falhas na emissão de relatório e opinião que acompanham Demonstrações Financeiras. Consolidação… | crsfn-10372-100328-2019-79 | fichas/crsfn/2020-03.md |
+| pas | 19957.011587/2017-68 | 2020-03-10 | parcial | Descumprimento dos itens 26 (alínea “b”) e 28 (alíneas “a” e “b”) da NBC PA 01 c/c o item 17 (alínea “a”) da NBC TA 01 – Estrutura… | cvm-pas-19957-011587-2017-68 | fichas/pas/2020-02.md |
+| termo-compromisso | 19957.002261/2018-21 | 2020-03-03 | aceito | O Colegiado aceitou proposta de termo de compromisso da KPMG Auditores Independentes e de seu sócio responsável técnico por deficiências na… | cvm-col-20200303-d1728 | fichas/tc/2020-01.md |
+| acordao-crsfn | RJ2017/5917 | 2020-01-21 | condenacao | RECURSO VOLUNTÁRIO. Auditoria Independente. Não submissão ao Programa de Revisão Externa de Qualidade. Recurso conhecido e desprovido. | crsfn-10372-100305-2019-64 | fichas/crsfn/2020-01.md |
+| decisao-colegiado | 19957.008259/2019-46 | 2020-01-14 | conhecimento | O Colegiado, por unanimidade, não conheceu de recurso contra indeferimento pela SNC de inclusão de responsável técnico, por… | cvm-col-20200114-d1676 | fichas/colegiado/2020-01.md |
+| pas | 19957.011652/2017-55; RJ2017/5981 | 2019-12-03 | condenacao | Não submissão ao Programa de Revisão Externa de Qualidade. Infração ao art. 33 da Instrução CVM nº 308/99. Multa.. | cvm-pas-19957-011652-2017-55 | fichas/pas/2019-21.md |
+| pas | 19957.002404/2017-13; RJ2017/1238 | 2019-11-26 | absolvicao | Apuração da conduta de auditores independentes nos trabalhos envolvendo as demonstrações financeiras do FIP Bioenergia. Infração ao art… | cvm-pas-19957-002404-2017-13 | fichas/pas/2019-20.md |
+| pas | RJ2018/8643 | 2019-11-12 | absolvicao | Inobservância às normas contábeis NBC TA 200 (itens 3, 5, 13, 15, 17 e 20), NBC TA 315 (itens 20 e 21); NBC TA 320 (itens A1 e A12)… | cvm-pas-rj2018-8643 | fichas/pas/2019-19.md |
+| pas | RJ2017/0136 | 2019-11-12 | condenacao | Ementa : Inobservância de normas contábeis. Infração aos arts. 20 e 25, I, a), da Instrução CVM n° 308/99. Multas. Data decisão CVM Tue Nov… | cvm-pas-rj2017-0136 | fichas/pas/2019-19.md |
+| decisao-colegiado | 19957.006874/2019-18 | 2019-11-05 | outro | Por unanimidade, o Colegiado determinou à SNC e à SDM que incluam na agenda regulatória de 2020 a revisão da ICVM 308/99, para avaliar a… | cvm-col-20191105-d1590 | fichas/colegiado/2019-18.md |
+| pas | RJ2016/2476 | 2019-09-17 | condenacao | Ementa : Descumprimento de normas relativas ao trabalho de auditoria independente de revisão das demonstrações financeiras da Minas… | cvm-pas-rj2016-2476 | fichas/pas/2019-16.md |
+| pas | RJ2017/3030 | 2019-09-10 | condenacao | Descumprimento de normas brasileiras de contabilidade para auditoria independente quando da elaboração do relatório, da documentação e da… | cvm-pas-rj2017-3030 | fichas/pas/2019-15.md |
+| pas | RJ2017/3029 | 2019-09-10 | condenacao | Ementa : Descumprimento de normas brasileiras de contabilidade para auditoria independente. Infração ao art. 20 da Instrução CVM n° 308/99… | cvm-pas-rj2017-3029 | fichas/pas/2019-15.md |
+| termo-compromisso | 19957.009525/2018-77 | 2019-09-10 | rejeitado | O Colegiado rejeitou, por unanimidade, acompanhando o Comitê, proposta de termo de compromisso de sociedade de auditoria e de seu… | cvm-col-20190910-d1525 | fichas/tc/2019-05.md |
+| termo-compromisso | 19957.011584/2017-24 | 2019-09-10 | aceito | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, aceitou proposta de termo de compromisso de firma de auditoria e de seu… | cvm-col-20190910-d1524 | fichas/tc/2019-05.md |
+| pas | RJ2015/13127 | 2019-08-20 | condenacao | Emissão de relatório de auditoria sem ressalvas sobre as demonstrações financeiras da Rossi Residencial S.A., relativas aos exercícios… | cvm-pas-rj2015-13127 | fichas/pas/2019-15.md |
+| pas | RJ2017/5918 | 2019-08-06 | condenacao | Não ter se submetido, na qualidade de auditor independente, ao controle de qualidade externo para o exercício de 2017, ano-base de 2016… | cvm-pas-rj2017-5918 | fichas/pas/2019-14.md |
+| pas | RJ2017/5917 | 2019-08-06 | condenacao | Ementa : Não submissão ao Programa de Revisão Externa de Qualidade. Infração ao art. 33 da ICVM nº 308/99. Multa. Data decisão CVM Tue Aug… | cvm-pas-rj2017-5917 | fichas/pas/2019-13.md |
+| pas | RJ2016/2245 | 2019-07-30 | parcial | Ementa : Irregularidades na condução dos trabalhos de auditoria das demonstrações financeiras da Recrusul S.A., relativas ao exercício… | cvm-pas-rj2016-2245 | fichas/pas/2019-12.md |
+| termo-compromisso | 19957.008434/2018-14 | 2019-07-30 | aceito | O Colegiado, por unanimidade, aceitou proposta conjunta de termo de compromisso de três ex-administradores de companhia, por contratação de… | cvm-col-20190730-d1479 | fichas/tc/2019-04.md |
+| acordao-crsfn | RJ2010/3695 | 2019-07-23 | parcial | Recursos voluntários e de ofício. Auditoria Independente. Inobservância de normas emanadas pelo Conselho Federal de Contabilidade e não… | crsfn-14430 | fichas/crsfn/2019-03.md |
+| acordao-crsfn | RJ-2014-14763 | 2019-07-23 | condenacao | RECURSO VOLUNTÁRIO. Auditoria. Irregularidades apontadas nos trabalhos de revisões externas de qualidade em face das normas de auditoria… | crsfn-10372-100343-2018-36 | fichas/crsfn/2019-02.md |
+| acordao-crsfn | RJ2016/4453 | 2019-07-23 | condenacao | RECURSOS VOLUNTÁRIOS. Inobservância das normas emanadas pelo Conselho Federal de Contabilidade e violação a normas profissionais de… | crsfn-10372-100140-2019-21 | fichas/crsfn/2019-02.md |
+| pas | RJ2016/5789 | 2019-07-09 | condenacao | Apurar responsabilidade de Uhy Moreira - Auditores, [pessoa física] e [pessoa física] nos trabalhos de auditoria realizados na SERGEN… | cvm-pas-rj2016-5789 | fichas/pas/2019-11.md |
+| termo-compromisso | 19957.011609/2017-90 | 2019-07-09 | aceito | O Colegiado, por unanimidade, aceitou proposta de termo de compromisso de ex-responsável técnico de firma de auditoria, acatando o parecer… | cvm-col-20190709-d1249 | fichas/tc/2019-03.md |
+| pas | RJ2015/13093 | 2019-06-25 | parcial | Inobservância de normas emanadas pelo Conselho Federal de Contabilidade. Infração ao art. 20º , da Instrução CVM nº 308/06. Infração ao… | cvm-pas-rj2015-13093 | fichas/pas/2019-10.md |
+| decisao-colegiado | 19957.007855/2018-28 | 2019-06-11 | nao-provido | O Colegiado negou, por unanimidade, provimento ao recurso da Azevedo & Lopes Auditores Independentes e manteve a suspensão de seu registro… | cvm-col-20190611-d1425 | fichas/colegiado/2019-09.md |
+| acordao-crsfn | RJ2015/5468 | 2019-05-28 | condenacao | RECURSOS VOLUNTÁRIOS. Descumprimento de normas regulamentares por parte de auditores independentes. Emitir parecer sem ressalva. Deixar de… | crsfn-10372-100383-2018-88 | fichas/crsfn/2019-02.md |
+| acordao-crsfn | RJ2014/9399 | 2019-05-28 | parcial | RECURSOS VOLUNTÁRIOS. Descumprimento dos itens 1, 2, 4 e 12 da NBC T 11-IT-02. Infringência ao art. 20 da Instrução CVM 308/99 configurada… | crsfn-10372-100254-2017-17 | fichas/crsfn/2019-01.md |
+| termo-compromisso | RJ2015/13326 | 2019-04-30 | rejeitado | O Colegiado, por unanimidade, acompanhando o voto do relator, rejeitou as propostas de termo de compromisso apresentadas no PAS da SEP… | cvm-col-20190430-d0438 | fichas/tc/2019-02.md |
+| pas | RJ2017/5916 | 2019-03-26 | condenacao | Não submissão ao Programa de Revisão Externa de Qualidade para o exercício de 2017, ano-base de 2016. Infração ao art. 33 da Instrução CVM… | cvm-pas-rj2017-5916 | fichas/pas/2019-05.md |
+| pas | RJ2017/5913 | 2019-03-26 | condenacao | Não submissão ao Programa de Revisão Externa de Qualidade para o exercício de 2017, ano-base de 2016. Infração ao art. 33 da Instrução CVM… | cvm-pas-rj2017-5913 | fichas/pas/2019-04.md |
+| acordao-crsfn | RJ2014/12058 | 2019-03-22 | condenacao | RECURSOS VOLUNTÁRIOS. Emissão de parecer sem ressalva em dois exercícios consecutivos onde dividendos antecipados foram incorretamente… | crsfn-10372-100147-2017-81 | fichas/crsfn/2019-01.md |
+| pas | RJ2017/2272 | 2019-02-26 | condenacao | Inobservância de normas emanadas pelo Conselho Federal de Contabilidade. Infração ao art. 20 da Instrução CVM nº 308/99. Multas. Data… | cvm-pas-rj2017-2272 | fichas/pas/2019-04.md |
+| termo-compromisso | 19957.006392/2017-04 | 2019-02-26 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou proposta de Termo de Compromisso de administradores por contratação de auditor… | cvm-col-20190226-d1324 | fichas/tc/2019-01.md |
+| termo-compromisso | 19957.011587/2017-68 | 2019-02-19 | rejeitado | O Colegiado rejeitou proposta conjunta de Termo de Compromisso da LBC Auditores Independentes e de seu responsável técnico, acompanhando o… | cvm-col-20190219-d1188 | fichas/tc/2019-01.md |
+| pas | RJ2016/8903 | 2018-12-26 | condenacao | Não submissão ao Programa de Revisão Periódica do Controle de Qualidade, em atendimento às diretrizes emanadas pelo Conselho Federal de… | cvm-pas-rj2016-8903 | fichas/pas/2018-24.md |
+| pas | RJ2016/8900 | 2018-12-26 | condenacao | Inobservância da regra de rotatividade de auditores, prevista no art. 31 da Instrução CVM nº 308/99. Multa. Data decisão CVM Wed Dec 26… | cvm-pas-rj2016-8900 | fichas/pas/2018-24.md |
+| decisao-colegiado | 19957.008905/2018-94 | 2018-11-27 | nao-provido | O Colegiado, acompanhando a SNC, negou provimento a recurso contra decisão que considerou fora da competência da CVM denúncia sobre auditor… | cvm-col-20181127-d1225 | fichas/colegiado/2018-20.md |
+| termo-compromisso | 19957.011574/2017-99; 19957.011582/2017-35 | 2018-11-27 | aceito | O Colegiado aceitou, por unanimidade, propostas de Termo de Compromisso de duas sociedades de auditoria e de seu responsável técnico, por… | cvm-col-20181127-d1224 | fichas/tc/2018-06.md |
+| acordao-crsfn | RJ2013/13480 | 2018-11-09 | condenacao | RECURSOS VOLUNTÁRIOS. Inobservância da regra de rotatividade dos auditores independentes. Emissão de parecer de auditoria assinado por… | crsfn-10372-100169-2017-41 | fichas/crsfn/2018-09.md |
+| termo-compromisso | 19957.006823/2016-43 | 2018-11-06 | aceito | O Colegiado aceitou, por unanimidade, proposta de Termo de Compromisso de três membros do Conselho de Administração da Brasil Plural… | cvm-col-20181106-d1211 | fichas/tc/2018-06.md |
+| pas | RJ2017/5914 | 2018-10-30 | condenacao | Não submissão da JSW Auditores Independentes S/S ao controle de qualidade externo, por meio do Programa de Revisão Externa de Qualidade… | cvm-pas-rj2017-5914 | fichas/pas/2018-18.md |
+| pas | RJ2017/5701 | 2018-10-30 | condenacao | Não submissão de Auditor Independente – Pessoa Física ao controle de qualidade externo, por meio do Programa de Revisão Externa de… | cvm-pas-rj2017-5701 | fichas/pas/2018-18.md |
+| pas | RJ2016/4453 | 2018-10-30 | condenacao | Inobservância das normas emanadas pelo Conselho Federal de Contabilidade e violação de normas profissionais de auditoria independente… | cvm-pas-rj2016-4453 | fichas/pas/2018-17.md |
+| pas | RJ2015/13006 | 2018-10-30 | condenacao | Inobservância de normas emanadas pelo Conselho Federal de Contabilidade e da regra de rodízio de auditores independentes, em infração aos… | cvm-pas-rj2015-13006 | fichas/pas/2018-16.md |
+| termo-compromisso | 19957.011588/2017-11 | 2018-10-30 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou a proposta de termo de compromisso da Audipec Auditoria e Perícia Contábil e… | cvm-col-20181030-d1196 | fichas/tc/2018-06.md |
+| pas | RJ2016/8769 | 2018-10-23 | condenacao | Apurar a responsabilidade de Audilink & Cia. Auditores e de seu sócio e responsável técnico [pessoa física] na condução dos trabalhos de… | cvm-pas-rj2016-8769 | fichas/pas/2018-16.md |
+| termo-compromisso | 19957.010490/2017-38 | 2018-09-18 | aceito | O Colegiado, acompanhando o Comitê, aceitou proposta de termo de compromisso de sociedade de auditoria acusada de auditar, por seis anos… | cvm-col-20180918-d1152 | fichas/tc/2018-05.md |
+| decisao-colegiado | 19957.001543/2018-19 | 2018-08-28 | nao-provido | O Colegiado, por unanimidade, acompanhando a SNC, negou provimento ao recurso da OMV – Auditores Independentes e manteve o cancelamento de… | cvm-col-20180828-d1131 | fichas/colegiado/2018-15.md |
+| termo-compromisso | 19957.011259/2017-61 | 2018-08-14 | aceito | Por maioria, o Colegiado aceitou proposta conjunta de termo de compromisso de auditora e de seu sócio responsável técnico, acusados de… | cvm-col-20180814-d1108 | fichas/tc/2018-04.md |
+| acordao-crsfn | RJ2015/10367 | 2018-07-24 | condenacao | Recurso Voluntário. Auditoria independente. Não submissão ao Programa de Revisão Externa de Qualidade para o exercício de 2015, ano base… | crsfn-10372-100191-2017-91 | fichas/crsfn/2018-06.md |
+| acordao-crsfn | RJ2015/10858 | 2018-07-24 | parcial | RECURSO VOLUNTÁRIO. Não participação do programa de Revisão em Pares para auditores independentes cadastrados na CVM. Irregularidade… | crsfn-10372-000117-2017-75 | fichas/crsfn/2018-05.md |
+| acordao-crsfn | RJ2015/11472 | 2018-06-26 | condenacao | RECURSO VOLUNTÁRIO. Infração ao art. 33 da Instrução CVM n° 308/99, regulamentado pela Resolução CFC n° 1.323/11, que aprovou a NBC PA 11 —… | crsfn-10372-100151-2017-49 | fichas/crsfn/2018-04.md |
+| pas | RJ2015/11941 | 2018-06-19 | condenacao | Descumprimentos de normas contábeis editadas pelo Conselho Federal de Contabilidade. Falhas na condução da revisão dos trabalhos de… | cvm-pas-rj2015-11941 | fichas/pas/2018-08.md |
+| termo-compromisso | 19957.006364/2017-89 | 2018-06-05 | rejeitado | O Colegiado rejeitou proposta conjunta de termo de compromisso de firma de auditoria e seu responsável técnico, acusados de falhas em… | cvm-col-20180605-d1051 | fichas/tc/2018-03.md |
+| acordao-crsfn | RJ2013/9762 | 2018-04-25 | condenacao | Recursos Voluntários. Auditoria Independente. Emissão de parecer de auditoria sobre as demonstrações financeiras sem qualquer ressalva… | crsfn-14420 | fichas/crsfn/2018-04.md |
+| pas | RJ2016/8902 | 2018-04-17 | condenacao | Não submissão do auditor independente ao Programa de Revisão Externa de Qualidades. Multa. | cvm-pas-rj2016-8902 | fichas/pas/2018-06.md |
+| pas | RJ2014/7704 | 2018-04-03 | condenacao | Irregularidades apontadas nos trabalhos de revisões externas de qualidade em face das normas de auditoria editadas pelo Conselho Federal de… | cvm-pas-rj2014-7704 | fichas/pas/2018-05.md |
+| pas | RJ2014/14763 | 2018-04-03 | condenacao | Irregularidades apontadas nos trabalhos de revisões externas de qualidade em face das normas de auditoria editadas pelo Conselho Federal de… | cvm-pas-rj2014-14763 | fichas/pas/2018-05.md |
+| pas | RJ2014/13581 | 2018-04-03 | condenacao | Inobservâncias das normas contábeis emanadas pelo Conselho Federal de Contabilidade. Multas. | cvm-pas-rj2014-13581 | fichas/pas/2018-04.md |
+| termo-compromisso | 19957.004650/2017-18 | 2018-04-03 | aceito | O Colegiado aceitou termo de compromisso da Bwel Auditores Independentes S.S. e de seu responsável técnico, acompanhando o Comitê: R$… | cvm-col-20180403-d0816 | fichas/tc/2018-02.md |
+| acordao-crsfn | RJ2014/7199 | 2018-03-21 | condenacao | RECURSOS VOLUNTÁRIOS. Auditores Independentes. Inobservância das normas emanadas pelo Conselho Federal de Contabilidade - CFC e dos… | crsfn-10372-100145-2017-91 | fichas/crsfn/2018-02.md |
+| pas | RJ2015/13670 | 2018-03-06 | condenacao | Inobservância de normas contábeis na rescisão do contrato de prestação de serviços de auditoria. Multas. | cvm-pas-rj2015-13670 | fichas/pas/2018-03.md |
+| acordao-crsfn | RJ2013/7589 | 2018-02-21 | absolvicao | RECURSO DE OFÍCIO. Programa de Educação Profissional Continuada. Não obtenção de pontuação mínima no programa no ano de 2011. Infração não… | crsfn-13940 | fichas/crsfn/2018-02.md |
+| pas | RJ2016/8901 | 2018-02-20 | extincao | Descumprimento da obrigação normativa de submissão ao Programa de Revisão Externa de Qualidade estabelecido para os Auditores… | cvm-pas-rj2016-8901 | fichas/pas/2018-02.md |
+| termo-compromisso | 19957.002524/2017-11; RJ2017/1334 | 2018-01-30 | rejeitado | O Colegiado, por unanimidade, rejeitou as propostas de termo de compromisso da Ernst & Young Auditores Independentes (R$ 237.000,00) e de… | cvm-col-20180130-d0914 | fichas/tc/2018-01.md |
+| pas | RJ2015/10642 | 2017-12-19 | parcial | Irregularidades no cumprimento das normas técnicas de auditoria relativas às demonstrações financeiras de companhia aberta – Descumprimento… | cvm-pas-rj2015-10642 | fichas/pas/2017-12.md |
+| termo-compromisso | 19957.005844/2017-22 | 2017-12-19 | aceito | O Colegiado aceitou, por unanimidade, proposta de TC da Deloitte Touche Tohmatsu Auditores Independentes, apresentada antes da instauração… | cvm-col-20171219-d0880 | fichas/tc/2017-06.md |
+| decisao-colegiado | 19957.005581/2016-71 | 2017-11-07 | outro | O Colegiado, acompanhando o relator, declarou a perda do objeto do recurso do IBRACON contra o entendimento da SNC e da PFE sobre consulta… | cvm-col-20171107-d0763 | fichas/colegiado/2017-19.md |
+| termo-compromisso | 19957.008984/2016-71; RJ2016/8769 | 2017-10-31 | rejeitado | O Colegiado rejeitou as propostas da Audilink & Cia Auditores (R$ 15.000,00) e de um dos sócios responsáveis técnicos (afastamento de 2… | cvm-col-20171031-d0838 | fichas/tc/2017-05.md |
+| acordao-crsfn | RJ2014/13534 | 2017-10-25 | condenacao | RECURSOS VOLUNTÁRIOS. CVM. Auditoria Independente. Descumprimento da regra de rotatividade de auditores independentes. Recursos Voluntários… | crsfn-10372-000115-2017-86 | fichas/crsfn/2017-13.md |
+| decisao-colegiado | RJ2016/6384 | 2017-10-17 | nao-provido | O Colegiado, por unanimidade, acompanhando a área técnica, indeferiu recurso de sociedade de auditoria contra a negativa de inclusão de… | cvm-col-20171017-d0455 | fichas/colegiado/2017-18.md |
+| decisao-colegiado | RJ2016/6415 | 2017-10-17 | nao-provido | O Colegiado, acompanhando a SNC, negou provimento ao recurso da Tecnoaud Auditores Independentes contra a negativa de incluir sócia como… | cvm-col-20171017-d0427 | fichas/colegiado/2017-18.md |
+| decisao-colegiado | RJ2016/5611 | 2017-10-17 | nao-provido | O Colegiado, por unanimidade, negou provimento ao recurso da SGA Auditores Independentes contra decisão da SNC que indeferiu a inclusão de… | cvm-col-20171017-d0348 | fichas/colegiado/2017-17.md |
+| decisao-colegiado | RJ2016/6416 | 2017-10-10 | nao-provido | O Colegiado, acompanhando a SNC, negou provimento a recurso contra indeferimento da inclusão de sócio como responsável técnico da Enac… | cvm-col-20171010-d0509 | fichas/colegiado/2017-17.md |
+| termo-compromisso | 19957.008057/2016-51; RJ2016/8251 | 2017-10-03 | rejeitado | O Colegiado rejeitou, por unanimidade, proposta conjunta de TC da PricewaterhouseCoopers e de seu sócio responsável técnico, acompanhando o… | cvm-col-20171003-d0814 | fichas/tc/2017-04.md |
+| decisao-colegiado | 19957.008518/2016-96 | 2017-10-03 | nao-provido | O Colegiado, acompanhando a SNC, negou provimento a recurso contra indeferimento do registro de FM Auditores Independentes como auditor… | cvm-col-20171003-d0596 | fichas/colegiado/2017-17.md |
+| decisao-colegiado | RJ2016/6383 | 2017-10-03 | nao-provido | O Colegiado, por unanimidade, acompanhando a área técnica, indeferiu recurso de sociedade de auditoria contra a negativa de inclusão de… | cvm-col-20171003-d0474 | fichas/colegiado/2017-17.md |
+| decisao-colegiado | 19957.001940/2017-00 | 2017-09-26 | nao-provido | O Colegiado, acompanhando a SNC, negou provimento ao recurso da AMG Auditores Independentes contra o indeferimento de seu registro como… | cvm-col-20170926-d0758 | fichas/colegiado/2017-16.md |
+| decisao-colegiado | 19957.005992/2016-66 | 2017-09-26 | conhecimento | O Colegiado, acompanhando a SNC, não conheceu do recurso da BH Auditores Independentes contra o indeferimento da inclusão de sócia como… | cvm-col-20170926-d0561 | fichas/colegiado/2017-16.md |
+| decisao-colegiado | 19957.006489/2016-28 | 2017-09-26 | outro | O Colegiado, por unanimidade, acompanhou o voto que reviu a decisão da SNC e devolveu à área técnica o pedido de registro de auditor… | cvm-col-20170926-d0558 | fichas/colegiado/2017-16.md |
+| decisao-colegiado | 19957.006482/2016-14 | 2017-09-26 | nao-provido | O Colegiado, acompanhando a SNC, negou provimento a recurso contra indeferimento do registro da Equilibrio Auditores Independentes como… | cvm-col-20170926-d0454 | fichas/colegiado/2017-16.md |
+| decisao-colegiado | 19957.006139/2016-61 | 2017-09-26 | nao-provido | O Colegiado, por unanimidade, acompanhando a área técnica, indeferiu recurso contra decisão da SNC que negou registro de auditor… | cvm-col-20170926-d0448 | fichas/colegiado/2017-16.md |
+| acordao-crsfn | RJ2013/13151 | 2017-09-19 | condenacao | RECURSO VOLUNTÁRIO. Auditoria Independente. Obrigatoriedade de participação no programa de revisão externa de qualidade dos auditores… | crsfn-14050 | fichas/crsfn/2017-13.md |
+| acordao-crsfn | RJ2015/11473 | 2017-09-19 | condenacao | RECURSO VOLUNTÁRIO. Comissão de Valores Mobiliários. Não submissão ao Programa de Revisão Externa de Qualidade. Art. 33 da Instrução CVM nº… | crsfn-10372-100198-2017-11 | fichas/crsfn/2017-12.md |
+| acordao-crsfn | RJ2013/13355 | 2017-09-19 | condenacao | RECURSOS VOLUNTÁRIOS. Comissão de Valores Mobiliários. Inobservância de normas emanadas pelo Conselho Federal de Contabilidade (infração ao… | crsfn-10372-100166-2017-15 | fichas/crsfn/2017-12.md |
+| termo-compromisso | RJ2016/5789 | 2017-08-08 | rejeitado | O Colegiado rejeitou proposta conjunta de Termo de Compromisso da firma de auditoria UHY Moreira Auditores e de dois responsáveis técnicos… | cvm-col-20170808-d0765 | fichas/tc/2017-03.md |
+| acordao-crsfn | RJ2014/4395 | 2017-06-28 | condenacao | RECURSO VOLUNTÁRIO. Auditor Independente. Parecer de auditoria. Não observação e aplicação dos devidos procedimentos de auditoria. | crsfn-14360 | fichas/crsfn/2017-10.md |
+| termo-compromisso | 19957.008192/2016-05; RJ2016/8335 | 2017-06-06 | rejeitado | O Colegiado rejeitou, por unanimidade, proposta de termo de compromisso de auditor independente pessoa física, acusado de descumprir o art… | cvm-col-20170606-d0687 | fichas/tc/2017-02.md |
+| acordao-crsfn | RJ-2013-9766 | 2017-05-24 | condenacao | RECURSO VOLUNTÁRIO. Auditor independente. Não atendimento à pontuação mínima do Programa de Educação Profissional Continuada. | crsfn-14229 | fichas/crsfn/2017-09.md |
+| acordao-crsfn | RJ-2013-13481 | 2017-05-24 | parcial | RECURSO VOLUNTÁRIO. Auditor independente. Não submissão ao Programa de Revisão Externa de Qualidade. | crsfn-14091 | fichas/crsfn/2017-08.md |
+| decisao-colegiado | 19957.006157/2016-43 | 2017-04-25 | conhecimento | O Colegiado, por unanimidade, não conheceu de recurso contra decisão da SNC que indeferiu registro de auditor independente pessoa física… | cvm-col-20170425-d0453 | fichas/colegiado/2017-09.md |
+| decisao-colegiado | RJ2016/8223 | 2017-04-25 | nao-provido | O Colegiado, por unanimidade, negou provimento a recurso contra indeferimento de registro de auditor independente pessoa física pela SNC… | cvm-col-20170425-d0428 | fichas/colegiado/2017-08.md |
+| decisao-colegiado | RJ2016/6370 | 2017-04-25 | nao-provido | O Colegiado negou provimento a recurso de sociedade de auditoria contra indeferimento de registro como auditor independente pessoa… | cvm-col-20170425-d0426 | fichas/colegiado/2017-08.md |
+| pas | RJ2015/11471 | 2017-04-18 | condenacao | Não submissão do auditor independente ao Programa de Revisão Externa de Qualidade. Multa. | cvm-pas-rj2015-11471 | fichas/pas/2017-03.md |
+| termo-compromisso | 19957.007503/2016-19; RJ2016/5098 | 2017-04-18 | aceito | Apreciação de proposta de termo de compromisso. Proc. SEI 19957.007503/2016-19 (PROC. RJ2016/5098). | cvm-col-20170418-d0662 | fichas/tc/2017-02.md |
+| acordao-crsfn | RJ2013/4367 | 2017-03-14 | condenacao | RECURSO VOLUNTÁRIO. Auditor Independente. Não cumprimento da pontuação mínima exigida para fins do atendimento ao Programa de Educação… | crsfn-13872 | fichas/crsfn/2017-04.md |
+| pas | RJ2015/10699 | 2017-03-07 | condenacao | EMENTA: Não submissão ao Programa de Revisão Externa de Qualidade. | cvm-pas-rj2015-10699 | fichas/pas/2017-02.md |
+| pas | RJ2014/9399 | 2017-02-07 | condenacao | Inobservância das normas emanadas pelo Conselho Federal de Contabilidade – Multas. | cvm-pas-rj2014-9399 | fichas/pas/2017-01.md |
+| termo-compromisso | RJ2016/3590 | 2017-01-24 | aceito | O Colegiado aceitou, por unanimidade, proposta conjunta de termo de compromisso de sociedade de auditoria e de seu responsável técnico… | cvm-col-20170124-d0554 | fichas/tc/2017-01.md |
+| termo-compromisso | RJ2016/3445 | 2016-12-20 | aceito | O Colegiado aceitou, por unanimidade, proposta conjunta de Termo de Compromisso da Ernst & Young Auditores Independentes e de seu… | cvm-col-20161220-d0472 | fichas/tc/2016-06.md |
+| termo-compromisso | RJ2015/13670 | 2016-12-20 | rejeitado | O Colegiado, acompanhando o Comitê, rejeitou proposta de termo de compromisso da Ernst & Young Auditores Independentes e de seu responsável… | cvm-col-20161220-d0471 | fichas/tc/2016-06.md |
+| termo-compromisso | RJ2016/4453 | 2016-12-20 | rejeitado | O Colegiado, por unanimidade, rejeitou proposta conjunta de termo de compromisso de auditores independentes em PAS sobre auditorias de 14… | cvm-col-20161220-d0470 | fichas/tc/2016-06.md |
+| pas | RJ2015/11473 | 2016-12-15 | condenacao | Não submissão ao Programa de Revisão Externa de Qualidade. Suspensão temporária. | cvm-pas-rj2015-11473 | fichas/pas/2016-17.md |
+| pas | RJ2015/10367 | 2016-12-15 | condenacao | Não submissão ao Programa de Revisão Externa de Qualidade. Multa. | cvm-pas-rj2015-10367 | fichas/pas/2016-16.md |
+| pas | RJ2014/10630 | 2016-12-15 | condenacao | Inobservância da regra de rotatividade de auditores. Multas. | cvm-pas-rj2014-10630 | fichas/pas/2016-16.md |
+| decisao-colegiado | 19957.008062/2016-64 | 2016-12-13 | nao-provido | O Colegiado, por unanimidade, negou provimento ao recurso da BRF S.A. contra decisão da SEP e da SNC, em consulta, que negou a extensão do… | cvm-col-20161213-d0464 | fichas/colegiado/2016-24.md |
+| pas | RJ2014/11830 | 2016-11-29 | condenacao | Inobservância das normas emanadas do Conselho Federal de Contabilidade e dos Pronunciamentos Técnicos do IBRACON. Ausência de procedimentos… | cvm-pas-rj2014-11830 | fichas/pas/2016-13.md |
+| termo-compromisso | RJ2014/11830 | 2016-11-29 | rejeitado | O Colegiado rejeitou por unanimidade nova proposta de Termo de Compromisso da KPMG e de dois responsáveis técnicos, em PAS instaurado pela… | cvm-col-20161129-d9811 | fichas/tc/2016-05.md |
+| termo-compromisso | 19957.007618/2016-03 | 2016-11-29 | aceito | O Colegiado, por unanimidade, aceitou a proposta de termo de compromisso da Deloitte Touche Tohmatsu Auditores Independentes, aprimorada… | cvm-col-20161129-d0443 | fichas/tc/2016-05.md |
+| pas | RJ2013/13480 | 2016-11-24 | condenacao | Inobservância da regra de rotatividade dos auditores independentes. Emissão de parecer de auditoria assinado por contador não cadastrado… | cvm-pas-rj2013-13480 | fichas/pas/2016-13.md |
+| pas | RJ2013/13355 | 2016-11-24 | condenacao | Inobservância de normas emanadas pelo Conselho Federal de Contabilidade – Não elaboração de relatório circunstanciado sobre os controles… | cvm-pas-rj2013-13355 | fichas/pas/2016-12.md |
+| pas | RJ2014/7199 | 2016-11-08 | condenacao | Inobservância das normas emanadas pelo Conselho Federal de Contabilidade – CFC e dos pronunciamentos técnicos do Instituto Brasileiro de… | cvm-pas-rj2014-7199 | fichas/pas/2016-11.md |
+| acordao-crsfn | RJ-2013-5682 | 2016-10-26 | parcial | RECURSOS VOLUNTÁRIOS. Auditoria independente. Não reconhecimento de perdas classificadas pelo auditor como incertas. Descumprimento de… | crsfn-14445 | fichas/crsfn/2016-09.md |
+| pas | RJ2015/12090 | 2016-10-25 | condenacao | Normal 0 21 false false false PT-BR X-NONE X-NONE MicrosoftInternetExplorer4 /* Style Definitions */ table.MsoNormalTable… | cvm-pas-rj2015-12090 | fichas/pas/2016-10.md |
+| pas | RJ2015/11936 | 2016-10-25 | condenacao | Não Submissão ao Programa de Revisão Externa de Qualidade - Multa. | cvm-pas-rj2015-11936 | fichas/pas/2016-09.md |
+| pas | RJ2015/11472 | 2016-10-25 | condenacao | Não submissão ao Programa de Revisão Externa de Qualidade. Multa. | cvm-pas-rj2015-11472 | fichas/pas/2016-09.md |
+| pas | RJ2014/12058 | 2016-10-25 | condenacao | Emissão de relatórios de auditoria sem ressalva. Multa. | cvm-pas-rj2014-12058 | fichas/pas/2016-09.md |
+| termo-compromisso | RJ2016/2476 | 2016-10-25 | rejeitado | O Colegiado rejeitou, por maioria, proposta de Termo de Compromisso de R$ 5.000,00 apresentada por auditor independente pessoa física em… | cvm-col-20161025-d0413 | fichas/tc/2016-05.md |
+| termo-compromisso | RJ2016/2245 | 2016-10-11 | rejeitado | O Colegiado rejeitou, acompanhando o Comitê, proposta de termo de compromisso de sociedade de auditoria e de seu responsável técnico… | cvm-col-20161011-d0383 | fichas/tc/2016-05.md |
+| pas | RJ2015/10858 | 2016-09-27 | condenacao | Normal 0 21 false false false PT-BR X-NONE X-NONE MicrosoftInternetExplorer4 /* Style Definitions */ table.MsoNormalTable… | cvm-pas-rj2015-10858 | fichas/pas/2016-08.md |
+| acordao-crsfn | RJ2013/11697 | 2016-08-24 | condenacao | RECURSO VOLUNTÁRIO. Auditor externo - Auditoria - Atuação irregular. Atuar como Auditor Independente apesar de estar com seu registro… | crsfn-14045 | fichas/crsfn/2016-06.md |
+| pas | RJ2014/14839 | 2016-08-23 | condenacao | Inobservância das normas de auditoria emanadas do Conselho Federal de Contabilidade e dos procedimentos técnicos do Instituto Brasileiro de… | cvm-pas-rj2014-14839 | fichas/pas/2016-06.md |
+| termo-compromisso | RJ2015/13127 | 2016-08-23 | rejeitado | O Colegiado rejeitou, acompanhando o Comitê, proposta conjunta de termo de compromisso da Ernst & Young Auditores Independentes S/S e de… | cvm-col-20160823-d0335 | fichas/tc/2016-04.md |
+| acordao-crsfn | RJ-2011/14365 | 2016-08-23 | condenacao | RECURSO VOLUNTÁRIO Auditor externo. Inobservância das normas profissionais emanadas do Conselho Federal de Contabilidade (CFC) relativas ao… | crsfn-13729 | fichas/crsfn/2016-05.md |
+| decisao-colegiado | RJ2015/1330 | 2016-08-09 | nao-provido | Acompanhando o voto do relator, o Colegiado indeferiu por unanimidade recurso contra decisão da SNC que negou registro de auditor… | cvm-col-20160809-d9598 | fichas/colegiado/2016-16.md |
+| decisao-colegiado | RJ2013/1636 | 2016-08-02 | nao-provido | O Colegiado negou provimento a recurso da Vértice & Masc Auditoria Contábil contra decisão da SNC que indeferiu a inclusão de sócio como… | cvm-col-20160802-d8613 | fichas/colegiado/2016-15.md |
+| termo-compromisso | RJ2015/13006 | 2016-07-26 | rejeitado | O Colegiado rejeitou, acompanhando o Comitê, proposta conjunta de termo de compromisso da Irmãos Campos & Cerboncini Auditores Associados e… | cvm-col-20160726-d0320 | fichas/tc/2016-03.md |
+| pas | RJ2014/13534 | 2016-07-12 | condenacao | Normal 0 21 false false false PT-BR X-NONE X-NONE MicrosoftInternetExplorer4 /* Style Definitions */ table.MsoNormalTable… | cvm-pas-rj2014-13534 | fichas/pas/2016-03.md |
+| acordao-crsfn | RJ2012/7471 | 2016-06-28 | condenacao | RECURSO VOLUNTÁRIO– Mercado de valores mobiliários – Auditoria independente - Descumprimento da obrigação de submeter-se a programa de… | crsfn-10372-000588-2016-01 | fichas/crsfn/2016-04.md |
+| termo-compromisso | RJ2015/5468 | 2016-06-14 | rejeitado | O Colegiado rejeitou, por unanimidade, a proposta conjunta de Termo de Compromisso da Audilink & Cia. Auditores e de seu responsável… | cvm-col-20160614-d0253 | fichas/tc/2016-03.md |
+| decisao-colegiado | RJ2016/2362 | 2016-03-29 | conhecimento | O Colegiado não conheceu, por unanimidade, recurso contra decisão da SNC que cancelou registro de auditor independente pessoa física, por… | cvm-col-20160329-d0165 | fichas/colegiado/2016-08.md |
+| termo-compromisso | RJ2014/14760 | 2016-03-15 | aceito | O Colegiado, por maioria, aceitou proposta de termo de compromisso da Loudon Blomquist Auditores Independentes no PAS RJ2014/14760, de R$… | cvm-col-20160315-d9963 | fichas/tc/2016-01.md |
+| pas | RJ2013/5682 | 2016-03-01 | condenacao | Normal 0 21 false false false PT-BR X-NONE X-NONE MicrosoftInternetExplorer4 /* Style Definitions */ table.MsoNormalTable… | cvm-pas-rj2013-5682 | fichas/pas/2016-01.md |
+| termo-compromisso | RJ2014/14763 | 2015-12-22 | rejeitado | O Colegiado rejeitou proposta de Termo de Compromisso de R$ 5.000,00 da Loudon Blomquist Auditores Independentes e de seu responsável… | cvm-col-20151222-d9997 | fichas/tc/2015-05.md |
+| pas | RJ2010/3695 | 2015-12-15 | parcial | Inobservância de normas emanadas pelo Conselho Federal de Contabilidade – não elaboração de relatório circunstanciado sobre os controles… | cvm-pas-rj2010-3695 | fichas/pas/2015-13.md |
+| termo-compromisso | RJ2014/14760 | 2015-12-08 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de auditora independente acusada de descumprir o art. 31 da Instrução CVM 308/1999 em… | cvm-col-20151208-d9963 | fichas/tc/2015-05.md |
+| termo-compromisso | RJ2014/13581 | 2015-11-24 | rejeitado | O Colegiado rejeitou proposta conjunta de Termo de Compromisso de R$ 13.000,00 por proponente (R$ 26.000,00 no total), apresentada pela… | cvm-col-20151124-d9950 | fichas/tc/2015-04.md |
+| termo-compromisso | RJ2014/12058 | 2015-11-24 | rejeitado | O Colegiado, acompanhando o parecer do Comitê, rejeitou proposta de Termo de Compromisso de uma sociedade de auditoria e seu responsável… | cvm-col-20151124-d9949 | fichas/tc/2015-04.md |
+| termo-compromisso | RJ2014/13534 | 2015-11-10 | rejeitado | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou proposta conjunta de Termo de Compromisso de duas sociedades de auditoria… | cvm-col-20151110-d9922 | fichas/tc/2015-04.md |
+| termo-compromisso | RJ2015/4992 | 2015-10-27 | rejeitado | O Colegiado rejeitou proposta de Termo de Compromisso com pagamento de R$ 23.000,00, apresentada pela Acal Auditores Independentes S/S e… | cvm-col-20151027-d9664 | fichas/tc/2015-04.md |
+| pas | RJ2013/9762 | 2015-09-29 | condenacao | Emissão de parecer de auditoria sem qualquer ressalva – Não observação do disposto nas normas profissionais de auditoria independente… | cvm-pas-rj2013-9762 | fichas/pas/2015-11.md |
+| termo-compromisso | RJ2014/11830 | 2015-09-01 | rejeitado | O Colegiado rejeitou, por unanimidade, proposta de termo de compromisso da KPMG Auditores Independentes e de dois responsáveis técnicos, de… | cvm-col-20150901-d9811 | fichas/tc/2015-03.md |
+| pas | RJ2014/4395 | 2015-08-11 | condenacao | Inobservância das normas contábeis aplicáveis – Não aplicação dos procedimentos de auditoria aprovados. Multas. | cvm-pas-rj2014-4395 | fichas/pas/2015-09.md |
+| termo-compromisso | RJ2014/11648 | 2015-08-04 | aceito | O Colegiado aceitou proposta conjunta de Termo de Compromisso de três sócios e responsáveis técnicos da BDO Auditores Independentes por… | cvm-col-20150804-d9781 | fichas/tc/2015-03.md |
+| acordao-crsfn | RJ2005/9831 | 2015-07-28 | condenacao | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Auditoria independente – Elaboração de trabalhos sem planejamento geral… | crsfn-11750 | fichas/crsfn/2015-03.md |
+| acordao-crsfn | RJ2011/280 | 2015-06-30 | condenacao | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Auditoria independente - Não inclusão de ressalva em parecer emitido sobre… | crsfn-13396 | fichas/crsfn/2015-02.md |
+| acordao-crsfn | RJ2009-12495 | 2015-05-26 | absolvicao | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Ausência de ressalva em relatório de revisão especial sobre Informações Trimestrais… | crsfn-13286 | fichas/crsfn/2015-02.md |
+| termo-compromisso | RJ2014/7199 | 2015-04-28 | rejeitado | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, rejeitou proposta de termo de compromisso apresentada pela Etae Auditores… | cvm-col-20150428-d9632 | fichas/tc/2015-02.md |
+| termo-compromisso | RJ2013/13480 | 2015-03-31 | rejeitado | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou proposta de termo de compromisso de R$ 40.000,00 apresentada em conjunto por… | cvm-col-20150331-d9611 | fichas/tc/2015-01.md |
+| termo-compromisso | RJ2013/10172 | 2014-12-23 | aceito | O Colegiado aceitou a proposta de termo de compromisso da KPMG Auditores Independentes e de seu responsável técnico, acompanhando o Comitê… | cvm-col-20141223-d01 | fichas/tc/2014-06.md |
+| termo-compromisso | RJ2014/3919 | 2014-12-16 | aceito | O Colegiado, por unanimidade e acompanhando o parecer do Comitê, aceitou a proposta de Termo de Compromisso de oito administradores da… | cvm-col-20141216-d05 | fichas/tc/2014-06.md |
+| termo-compromisso | RJ2014/6913 | 2014-12-09 | rejeitado | O Colegiado rejeitou, por unanimidade, proposta de termo de compromisso de R$ 30.000,00, em duas parcelas, de um ex-responsável técnico de… | cvm-col-20141209-d03 | fichas/tc/2014-05.md |
+| decisao-colegiado | RJ2014/6154 | 2014-11-25 | nao-provido | O Colegiado negou provimento ao recurso da Crowe Horwath Bendoraytes contra decisão da SNC que apontou recontratação de auditor antes do… | cvm-col-20141125-d25 | fichas/colegiado/2014-24.md |
+| termo-compromisso | RJ2014/0413 | 2014-09-23 | aceito | O Colegiado aceitou, por unanimidade, a proposta de termo de compromisso apresentada em conjunto pelos administradores da Mendes Júnior… | cvm-col-20140923-d07 | fichas/tc/2014-03.md |
+| termo-compromisso | RJ2013/11915 | 2014-09-09 | aceito | O Colegiado aceitou proposta de termo de compromisso de empresa de auditoria e de sócio responsável, acusados de parecer sem ressalvas em… | cvm-col-20140909-d01 | fichas/tc/2014-02.md |
+| acordao-crsfn | RJ-2010-9582 | 2014-08-26 | condenacao | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Auditoria Independente - Parecer com abstenção de opinião - Limitação da… | crsfn-13328 | fichas/crsfn/2014-06.md |
+| acordao-crsfn | RJ-2010-16893 | 2014-08-26 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Auditoria independente – Emissão de pareceres sem ressalvas - Relatório de revisão… | crsfn-13317 | fichas/crsfn/2014-06.md |
+| acordao-crsfn | 15/1990 | 2014-08-26 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Desvio de objeto social - Falta de constituição de provisão para… | crsfn-13282 | fichas/crsfn/2014-05.md |
+| pas | RJ2013/13481 | 2014-07-22 | condenacao | Não submissão ao Programa de Revisão Externa de Qualidade. Multa. | cvm-pas-rj2013-13481 | fichas/pas/2014-05.md |
+| acordao-crsfn | RJ-2010-8588 | 2014-07-22 | condenacao | RECURSO(S) VOLUNTÁRIO(S) - Auditoria independente – Descumprimentos de normas baixadas por CVM, CFC e IBRACON – Ausência de suficientes… | crsfn-13276 | fichas/crsfn/2014-05.md |
+| pas | RJ2013/13151 | 2014-05-27 | condenacao | Não submissão ao Programa de Revisão Externa de Qualidade. Multa. | cvm-pas-rj2013-13151 | fichas/pas/2014-04.md |
+| termo-compromisso | RJ2013/4408 | 2014-04-15 | aceito | O Colegiado aceitou proposta de termo de compromisso da Multicon Auditoria e Assessoria Contábil S/S, de R$ 10.000,00, por sócio sem… | cvm-col-20140415-d03 | fichas/tc/2014-01.md |
+| pas | RJ2013/11697 | 2014-04-08 | condenacao | Atuação irregular como auditor independente no âmbito do mercado de valores mobiliários. Multa. | cvm-pas-rj2013-11697 | fichas/pas/2014-03.md |
+| pas | RJ2013/9766 | 2014-03-25 | condenacao | Não obtenção de pontuação mínima exigida para atender ao Programa de Educação Profissional Continuada. Multa. | cvm-pas-rj2013-9766 | fichas/pas/2014-02.md |
+| acordao-crsfn | RJ-2008-9120 | 2014-03-18 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários - Auditoria independente – Emissão de pareceres sem ressalvas - Erro em avaliação de… | crsfn-12794 | fichas/crsfn/2014-02.md |
+| termo-compromisso | RJ2013/5645 | 2013-12-23 | aceito | O Colegiado aceitou, acompanhando o parecer do Comitê, proposta de termo de compromisso da Ernst & Young Terco Auditores Independentes S/S… | cvm-col-20131223-d02 | fichas/tc/2013-06.md |
+| termo-compromisso | RJ2013/4362 | 2013-12-23 | aceito | O Colegiado, por unanimidade, aceitou proposta de Termo de Compromisso da AKW Auditores Independentes S/S no valor de R$ 10.000,00… | cvm-col-20131223-d01 | fichas/tc/2013-06.md |
+| termo-compromisso | RJ2013/6479 | 2013-12-17 | aceito | O Colegiado, acompanhando o parecer do Comitê, aceitou a proposta de Termo de Compromisso da Deloitte Touche Tohmatsu Auditores… | cvm-col-20131217-d11 | fichas/tc/2013-06.md |
+| termo-compromisso | RJ2013/5682 | 2013-12-17 | rejeitado | O Colegiado, por unanimidade, considerou inoportuna e inconveniente a aceitação de proposta de termo de compromisso da Directa Auditores e… | cvm-col-20131217-d10 | fichas/tc/2013-06.md |
+| termo-compromisso | RJ2013/4365 | 2013-12-17 | aceito | O Colegiado, por unanimidade, aceitou proposta de Termo de Compromisso da ACAL Auditores Independentes S/S no valor de R$ 15.000,00… | cvm-col-20131217-d09 | fichas/tc/2013-06.md |
+| pas | RJ2013/7589 | 2013-11-26 | absolvicao | BAUER Imputação de infração ao disposto no art. 34 da Instrução CVM n° 308/99, combinado com o art. 1° da Deliberação CVM n° 570/09… | cvm-pas-rj2013-7589 | fichas/pas/2013-11.md |
+| termo-compromisso | RJ2012/4640 | 2013-11-05 | aceito | O Colegiado aceitou proposta de Termo de Compromisso de R$ 61.500,00 apresentada pela KPMG Auditores Independentes, acompanhando o voto do… | cvm-col-20131105-d01 | fichas/tc/2013-05.md |
+| pas | RJ2013/4367 | 2013-08-20 | condenacao | Confidor Não cumprimento da pontuação mínima exigida. Multa. | cvm-pas-rj2013-4367 | fichas/pas/2013-08.md |
+| pas | RJ2012/7471 | 2013-05-28 | condenacao | [pessoa física] Não participação no Programa de Revisão Externa de Qualidade Para Auditores Independentes. Multa. | cvm-pas-rj2012-7471 | fichas/pas/2013-06.md |
+| termo-compromisso | RJ2012/9557 | 2013-05-21 | aceito | O Colegiado aceitou proposta de termo de compromisso apresentada por empresa de auditoria independente e por seu sócio responsável técnico… | cvm-col-20130521-d03 | fichas/tc/2013-02.md |
+| pas | RJ2011/14365 | 2013-04-02 | condenacao | [pessoa física] Inobservância das normas profissionais emanadas do [pessoa física] de Contabilidade – CFC relativas ao exercício da… | cvm-pas-rj2011-14365 | fichas/pas/2013-04.md |
+| pas | RJ2012/10465 | 2013-03-12 | condenacao | R & M AUDITORES Não cumprimento de regulamentação associada ao Programa de Educação Profissional Continuada de auditor independente… | cvm-pas-rj2012-10465 | fichas/pas/2013-02.md |
+| decisao-colegiado | RJ2013/0944 | 2013-02-19 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2013/0944. | cvm-col-20130219-d16 | fichas/colegiado/2013-05.md |
+| termo-compromisso | RJ2012/7133 | 2013-02-19 | aceito | O Colegiado, por unanimidade, aceitou a proposta de termo de compromisso da PricewaterhouseCoopers Auditores Independentes, acompanhando o… | cvm-col-20130219-d02 | fichas/tc/2013-01.md |
+| decisao-colegiado | RJ2012/12503 | 2013-02-05 | nao-provido | O Colegiado, por unanimidade e acompanhando o voto da relatora, negou provimento ao recurso da Aliansce Shopping Centers S.A. contra… | cvm-col-20130205-d07 | fichas/colegiado/2013-04.md |
+| acordao-crsfn | RJ-2008-11805 | 2012-12-05 | condenacao | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários - Auditoria – Composição de quadro societário em desacordo com a regulamentação… | crsfn-12626 | fichas/crsfn/2012-06.md |
+| acordao-crsfn | RJ-2008-2468 | 2012-11-26 | condenacao | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Auditoria independente - Realização por profissional sem registro na CVM… | crsfn-12521 | fichas/crsfn/2012-05.md |
+| termo-compromisso | RJ2012/4905 | 2012-11-22 | aceito | O Colegiado aceitou, por unanimidade, proposta conjunta de termo de compromisso da ACAL e de seu responsável técnico, de R$ 40.000,00, por… | cvm-col-20121122-d01 | fichas/tc/2012-05.md |
+| decisao-colegiado | RJ2011/14135 | 2012-10-23 | nao-provido | O Colegiado, por unanimidade, manteve decisão de 06.03.12 que negou provimento a recurso da KPMG Auditores Independentes sobre a contagem… | cvm-col-20121023-d04 | fichas/colegiado/2012-19.md |
+| decisao-colegiado | RJ2012/10109 | 2012-10-10 | nao-provido | O Colegiado, acompanhando o voto do relator, negou provimento ao recurso da Fontes Auditores Independentes contra decisão da SNC que… | cvm-col-20121010-d03 | fichas/colegiado/2012-18.md |
+| decisao-colegiado | RJ2012/8300 | 2012-09-11 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SNC que indeferiu registro de auditor independente pessoa física por falta de… | cvm-col-20120911-d14 | fichas/colegiado/2012-17.md |
+| decisao-colegiado | RJ2010/4524 | 2012-07-03 | outro | O Colegiado determinou o arquivamento do PAS, por cumprimento do termo de compromisso firmado pelos únicos acusados. Com base na SAD, os… | cvm-col-20120703-d09 | fichas/colegiado/2012-11.md |
+| termo-compromisso | RJ2012/4905 | 2012-07-03 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso da ACAL Consultoria e Auditoria S/S, acompanhando o parecer do Comitê. A proposta… | cvm-col-20120703-d02 | fichas/tc/2012-03.md |
+| decisao-colegiado | RJ2011/14135 | 2012-03-06 | nao-provido | O Colegiado negou provimento a recurso da KPMG Auditores Independentes contra decisão da SNC: o prazo de rodízio de clientes oriundos de… | cvm-col-20120306-d21 | fichas/colegiado/2012-05.md |
+| decisao-colegiado | RJ2011/11017 | 2012-01-10 | indeferido | O Colegiado não autorizou a Gafisa S.A. a recontratar a PricewaterhouseCoopers Auditores Independentes antes de 31.07.12, por não ter… | cvm-col-20120110-d05 | fichas/colegiado/2012-01.md |
+| decisao-colegiado | RJ2011/0288 | 2012-01-10 | outro | Cumprimento de termo de compromisso. | cvm-col-20120110-d01 | fichas/colegiado/2012-01.md |
+| termo-compromisso | RJ2010/4524 | 2011-12-27 | rejeitado | O Colegiado rejeitou pedido de aditamento à proposta de termo de compromisso da Deloitte Touche Tohmatsu Auditores Independentes e de seu… | cvm-col-20111227-d02 | fichas/tc/2011-06.md |
+| decisao-colegiado | RJ2010/9066 | 2011-12-20 | nao-provido | O Colegiado negou provimento a recurso do Ibracon contra entendimento da SEP de que a leitura do Formulário de Referência pelo auditor… | cvm-col-20111220-d10 | fichas/colegiado/2011-29.md |
+| decisao-colegiado | RJ2011/13530 | 2011-12-20 | nao-provido | O Colegiado negou provimento ao recurso da Ernst & Young Terco Auditores Independentes S/S contra decisão da SNC sobre rodízio de auditor… | cvm-col-20111220-d07 | fichas/colegiado/2011-29.md |
+| pas | RJ2011/280 | 2011-12-13 | condenacao | BKS AUDITORES Não inclusão de ressalva no Parecer de Auditoria emitido sobre as demonstrações financeiras encerradas em 31.12.2004 da… | cvm-pas-rj2011-0280 | fichas/pas/2011-06.md |
+| decisao-colegiado | RJ2010/7631 | 2011-11-16 | outro | O Colegiado determinou o arquivamento do PAS, por cumprimento do termo de compromisso firmado pelos compromitentes. Com base na… | cvm-col-20111116-d01 | fichas/colegiado/2011-24.md |
+| decisao-colegiado | RJ2010/2980 | 2011-10-04 | outro | O Colegiado determinou o arquivamento do PAS RJ2010/2980 em relação aos acusados, por cumprimento do Termo de Compromisso firmado pela… | cvm-col-20111004-d06 | fichas/colegiado/2011-21.md |
+| decisao-colegiado | — | 2011-09-20 | outro | O Colegiado aprovou a edição de Deliberação que altera o inciso I da Deliberação CVM 549/08, para compatibilizar os prazos de manutenção do… | cvm-col-20110920-d11 | fichas/colegiado/2011-19.md |
+| termo-compromisso | RJ2010/4524 | 2011-09-13 | aceito | O Colegiado aceitou nova proposta de termo de compromisso da Deloitte Touche Tohmatsu Auditores Independentes e de seu sócio responsável… | cvm-col-20110913-d01 | fichas/tc/2011-04.md |
+| termo-compromisso | RJ2011/0288 | 2011-09-06 | aceito | O Colegiado aceitou proposta de termo de compromisso da Deloitte e de dois responsáveis técnicos, acusados de descumprir a rotatividade de… | cvm-col-20110906-d06 | fichas/tc/2011-04.md |
+| decisao-colegiado | RJ2011/2590 | 2011-09-06 | nao-provido | O Colegiado negou provimento ao recurso da Cassuli Auditores Independentes SS contra a SNC, que indeferiu seu registro como auditor… | cvm-col-20110906-d02 | fichas/colegiado/2011-17.md |
+| decisao-colegiado | RJ2011/6614 | 2011-08-30 | nao-provido | O Colegiado negou provimento ao recurso da Proaud Auditoria e Consultoria Sociedade Simples contra decisão da SNC que indeferiu seu… | cvm-col-20110830-d01 | fichas/colegiado/2011-17.md |
+| termo-compromisso | RJ2011/0280 | 2011-07-26 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso da BKS Auditores, de R$ 1.000,00, acompanhando o parecer do Comitê, que a… | cvm-col-20110726-d03 | fichas/tc/2011-03.md |
+| pas | RJ2010/9582 | 2011-07-19 | condenacao | Auditores Independentes S/S Não aplicação de diversos procedimentos de auditoria no curso dos trabalhos realizados na TECBLU – Tecelagem… | cvm-pas-rj2010-9582 | fichas/pas/2011-02.md |
+| decisao-colegiado | RJ2011/2590 | 2011-06-21 | — | O Colegiado iniciou a discussão de recurso da Cassuli Auditores Independentes SS contra decisão da SNC sobre auditor independente… | cvm-col-20110621-d02 | fichas/colegiado/2011-13.md |
+| acordao-crsfn | RJ-2003-1631 | 2011-06-15 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários - Auditoria independente realizada de forma cumulativa com… | crsfn-7637 | fichas/crsfn/2011-03.md |
+| acordao-crsfn | RJ-2001-8473 | 2011-06-15 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários - Auditoria independente – Atuação em desacordo com as normas legais… | crsfn-7357 | fichas/crsfn/2011-03.md |
+| pas | RJ2010/16893 | 2011-06-07 | absolvicao | Deloitte Touche Tohmatsu Auditores Independentes Imputação de não emissão de relatório de revisão especial com ressalva sobre demonstrações… | cvm-pas-rj2010-16893 | fichas/pas/2011-02.md |
+| acordao-crsfn | RJ–2005-9823 | 2011-05-31 | condenacao | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Auditoria independente - Descumprimento de normas emanadas do Conselho Federal… | crsfn-11247 | fichas/crsfn/2011-01.md |
+| termo-compromisso | RJ2010/7631 | 2011-04-19 | aceito | O Colegiado aceitou nova proposta de termo de compromisso da KPMG Auditores Independentes e de dois sócios e responsáveis técnicos, de R$… | cvm-col-20110419-d01 | fichas/tc/2011-02.md |
+| decisao-colegiado | RJ2011/3354 | 2011-04-12 | nao-provido | O Colegiado indeferiu o recurso da Linear Auditores Independentes S/S contra decisão da SNC que não aceitou a inclusão de sócio como… | cvm-col-20110412-d04 | fichas/colegiado/2011-09.md |
+| termo-compromisso | RJ2010/2980 | 2011-03-22 | aceito | O Colegiado aceitou nova proposta de Termo de Compromisso da KPMG Auditores Independentes e de dois responsáveis técnicos, no valor de R$… | cvm-col-20110322-d17 | fichas/tc/2011-02.md |
+| pas | RJ2010/8588 | 2010-12-14 | condenacao | BC Control Auditores Independentes Emissão de Parecer sem Abstenção de Opinião, em descumprimento ao item 21 da NBC T11-IT5, aprovada pela… | cvm-pas-rj2010-8588 | fichas/pas/2010-11.md |
+| termo-compromisso | RJ2010/7631 | 2010-12-14 | rejeitado | O Colegiado, acompanhando o Comitê, rejeitou as propostas de termo de compromisso da KPMG Auditores Independentes e de dois responsáveis… | cvm-col-20101214-d05 | fichas/tc/2010-07.md |
+| termo-compromisso | RJ2009/6832 | 2010-12-14 | aceito | Por maioria, o Colegiado aceitou nova proposta de termo de compromisso de sociedade de auditoria independente e dois sócios, acusados de… | cvm-col-20101214-d01 | fichas/tc/2010-06.md |
+| pas | RJ2009/12495 | 2010-12-01 | condenacao | KPMG AUDITORES INDEPENDENTES Não inclusão de ressalva no relatório de revisão especial sobre informações trimestrais. – Multas. | cvm-pas-rj2009-12495 | fichas/pas/2010-10.md |
+| termo-compromisso | RJ2010/4524 | 2010-11-30 | rejeitado | O Colegiado rejeitou as propostas de termo de compromisso da Deloitte Touche Tohmatsu Auditores Independentes e de um sócio responsável… | cvm-col-20101130-d07 | fichas/tc/2010-06.md |
+| decisao-colegiado | RJ2008/11749 | 2010-11-23 | outro | O Colegiado determinou o arquivamento do processo de cumprimento de termo de compromisso firmado pela KPMG Auditores Independentes (PAS… | cvm-col-20101123-d21 | fichas/colegiado/2010-25.md |
+| decisao-colegiado | RJ2010/13298 | 2010-11-16 | nao-provido | Com base na SNC e acompanhando o relator, o Colegiado negou provimento a recurso da Auditasse Auditores Independentes contra decisão que… | cvm-col-20101116-d08 | fichas/colegiado/2010-24.md |
+| termo-compromisso | RJ2009/12495 | 2010-10-26 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso apresentada pela KPMG Auditores Independentes e por dois responsáveis técnicos… | cvm-col-20101026-d02 | fichas/tc/2010-05.md |
+| termo-compromisso | RJ2010/2980 | 2010-10-26 | rejeitado | O Colegiado rejeitou a proposta de Termo de Compromisso da KPMG Auditores Independentes e de dois responsáveis técnicos, acompanhando o… | cvm-col-20101026-d01-r2 | fichas/tc/2010-05.md |
+| decisao-colegiado | RJ2010/9359 | 2010-07-20 | nao-provido | O Colegiado negou provimento a recurso contra indeferimento pela SNC de registro de auditor independente pessoa física, por falta de… | cvm-col-20100720-d04 | fichas/colegiado/2010-15.md |
+| acordao-crsfn | RJ-2006-6017 | 2010-06-08 | outro | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Auditoria independente - Descumprimento do rodízio obrigatório após cinco anos… | crsfn-11608 | fichas/crsfn/2010-05.md |
+| acordao-crsfn | RJ-2006-9227 | 2010-05-25 | absolvicao | RECURSO DE OFÍCIO - Mercado de valores mobiliários - Auditoria independente - Contratação de auditores noticiada a destempo à autoridade… | crsfn-11607 | fichas/crsfn/2010-05.md |
+| termo-compromisso | RJ2009/6832 | 2010-03-23 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso da Audimec Auditores Independentes S/S e de dois sócios responsáveis (PAS… | cvm-col-20100323-d06 | fichas/tc/2010-02.md |
+| acordao-crsfn | RJ-2004-7061 | 2010-01-26 | parcial | RECURSO VOLUNTÁRIO - Mercado de valores mobiliários – Auditoria realizada por pessoa não autorizada pela entidade supervisora – Contratação… | crsfn-9608 | fichas/crsfn/2010-02.md |
+| decisao-colegiado | RJ2009/10632 | 2009-11-24 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2009/10632. | cvm-col-20091124-d12 | fichas/colegiado/2009-21.md |
+| acordao-crsfn | RJ-2004-1278 | 2009-10-27 | condenacao | RECURSOS VOLUNTÁRIOS E DE OFÍCIO Mercado de valores mobiliários - Auditoria independente - Indefinição do escopo do serviço contratado… | crsfn-10041 | fichas/crsfn/2009-06.md |
+| pas | RJ2008/9120 | 2009-10-13 | absolvicao | Ernst & Young Auditores Independentes S/S Imputação de ausência de ressalva nos pareceres de auditoria emitidos para as demonstrações… | cvm-pas-rj2008-9120 | fichas/pas/2009-09.md |
+| termo-compromisso | RJ2008/11749 | 2009-10-06 | aceito | O Colegiado aceitou nova proposta de termo de compromisso da KPMG Auditores Independentes e de seu responsável técnico, que passa a… | cvm-col-20091006-d09 | fichas/tc/2009-06.md |
+| termo-compromisso | RJ2008/11749 | 2009-09-08 | aceito | O Colegiado aceitou proposta de termo de compromisso da KPMG Auditores Independentes e de seu sócio responsável técnico, de R$ 400.000,00… | cvm-col-20090908-d01 | fichas/tc/2009-06.md |
+| acordao-crsfn | RJ-2003-11503 | 2009-07-21 | parcial | RECURSO VOLUNTÁRIO E DE OFÍCIO - Mercado de valores mobiliários – Auditoria Independente - Descumprimento de normas e procedimentos… | crsfn-9426 | fichas/crsfn/2009-04.md |
+| decisao-colegiado | 27/2005 | 2009-07-14 | outro | O Colegiado determinou o arquivamento do PAS 27/2005 (Parmalat Brasil) em relação aos compromitentes, a Deloitte Touche Tohmatsu… | cvm-col-20090714-d04 | fichas/colegiado/2009-13.md |
+| termo-compromisso | RJ2008/9120 | 2009-06-23 | rejeitado | O Colegiado rejeitou proposta de Termo de Compromisso da Ernst & Young Auditores Independentes e de seu sócio responsável, acusados de… | cvm-col-20090623-d08 | fichas/tc/2009-03.md |
+| pas | RJ2008/11805 | 2009-06-03 | condenacao | ANEND Auditores Independentes S/C Descumprimento de requisitos obrigatórios para manutenção, na CVM, de registro de auditor independente… | cvm-pas-rj2008-11805 | fichas/pas/2009-05.md |
+| pas | RJ2008/2468 | 2009-03-31 | condenacao | [pessoa física] Emissão de pareceres de auditoria por pessoa física que teve o registro de Auditor Independente - Pessoa Física cancelado… | cvm-pas-rj2008-2468 | fichas/pas/2009-02.md |
+| pas | RJ2007/4247 | 2009-03-31 | condenacao | JSW AUDITORES INDEPENDENTES S/A Art. 31 da Instrução CVM nº 308/99 - Rotatividade dos auditores independentes - infração - advertência. | cvm-pas-rj2007-4247 | fichas/pas/2009-02.md |
+| termo-compromisso | 27/2005 | 2009-03-03 | aceito | O Colegiado aceitou nova proposta de termo de compromisso da Deloitte Touche Tohmatsu – Auditores Independentes e de dois sócios, após ter… | cvm-col-20090303-d03 | fichas/tc/2009-01.md |
+| acordao-crsfn | 05/00 | 2009-02-16 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários – Auditoria independente – Divergências verificadas em demonstrações… | crsfn-7526 | fichas/crsfn/2009-01.md |
+| decisao-colegiado | RJ2008/10037 | 2008-11-25 | provido | O Colegiado deferiu recurso da Horwath contra decisão da SNC que negou inclusão de responsável técnico sem certificado de exame de… | cvm-col-20081125-d04 | fichas/colegiado/2008-26.md |
+| acordao-crsfn | RJ-2002/00445 | 2008-11-18 | condenacao | RECURSOS VOLUNTÁRIOS – Mercado de valores mobiliários – Auditoria independente – Falhas na supervisão e no controle de qualidade e no exame… | crsfn-6324 | fichas/crsfn/2008-06.md |
+| decisao-colegiado | — | 2008-09-03 | outro | O Colegiado aprovou minuta de Deliberação sobre a rotatividade de auditores independentes na prestação de auditoria de demonstrações… | cvm-col-20080903-d03 | fichas/colegiado/2008-20.md |
+| acordao-crsfn | RJ-2001-8028 | 2008-08-28 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Auditor independente – Irregularidade no registro de auditor na CVM… | crsfn-9057 | fichas/crsfn/2008-05.md |
+| decisao-colegiado | — | 2008-08-12 | deferido | O Colegiado deferiu pedido de adiamento e permitiu que, nos próximos três anos, as companhias deixassem de substituir seus auditores em… | cvm-col-20080812-d02 | fichas/colegiado/2008-18.md |
+| decisao-colegiado | — | 2008-07-29 | outro | O Colegiado entendeu que a CVM pode manter o rodízio obrigatório de auditores independentes, mesmo que Banco Central, SUSEP e SPC o… | cvm-col-20080729-d04 | fichas/colegiado/2008-17.md |
+| decisao-colegiado | RJ2008/5545 | 2008-06-24 | outro | Diante do relatório final da PUC-RJ sobre a rotatividade de auditores independentes, o Colegiado deliberou: discutir o tema no Coremec… | cvm-col-20080624-d04 | fichas/colegiado/2008-14.md |
+| decisao-colegiado | RJ2008/3930 | 2008-06-10 | nao-provido | O Colegiado negou provimento a recurso da Manufatura de Brinquedos Estrela S.A. contra o indeferimento pela SEP de dispensa da revisão das… | cvm-col-20080610-d07 | fichas/colegiado/2008-13.md |
+| acordao-crsfn | RJ2002/4879 | 2008-04-11 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Auditoria independente – Ausência de ressalva em pareceres relativos a demonstrações… | crsfn-9605 | fichas/crsfn/2008-02.md |
+| acordao-crsfn | RJ2005/3106 | 2008-03-26 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Auditoria independente – Contratação de profissional sem registro na CVM – Falha na… | crsfn-9253 | fichas/crsfn/2008-01.md |
+| termo-compromisso | RJ2007/4247 | 2008-03-25 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso da JSW Auditores Independentes S/S e de seu responsável técnico, de pagar R$… | cvm-col-20080325-d02 | fichas/tc/2008-02.md |
+| decisao-colegiado | RJ2001/7661 | 2008-03-18 | indeferido | O Colegiado, por maioria, indeferiu pedido de reabilitação de auditor independente inabilitado temporariamente. Fixou como termo inicial o… | cvm-col-20080318-d01 | fichas/colegiado/2008-07.md |
+| decisao-colegiado | RJ2005/8134 | 2008-02-26 | outro | O Colegiado determinou o arquivamento do processo de cumprimento de termo de compromisso da Price Waterhouse Coopers Auditores… | cvm-col-20080226-d05 | fichas/colegiado/2008-04.md |
+| decisao-colegiado | RJ2007/12583 | 2007-11-27 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2007/12583. | cvm-col-20071127-d05 | fichas/colegiado/2007-23.md |
+| decisao-colegiado | RJ2007/13012 | 2007-11-13 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2007/13012. | cvm-col-20071113-d29 | fichas/colegiado/2007-23.md |
+| pas | RJ2005/9831 | 2007-09-04 | condenacao | Elaboração de trabalhos de auditoria independente nas companhias Tramontina Belém, Agropecuária Rio Uruará e Agropecuária Continental, em… | cvm-pas-rj2005-9831 | fichas/pas/2007-12.md |
+| decisao-colegiado | RJ2007/9361 | 2007-09-04 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SNC que indeferiu o registro da INDEP Auditores Independentes S/S como auditor… | cvm-col-20070904-d03 | fichas/colegiado/2007-16.md |
+| decisao-colegiado | RJ2007/7313 | 2007-07-31 | deferido | O Colegiado, acompanhando o relator, deferiu, com parecer favorável da SNC, a dispensa excepcional do rodízio de auditores independentes… | cvm-col-20070731-d10 | fichas/colegiado/2007-14.md |
+| decisao-colegiado | RJ2006/9227 | 2007-07-03 | provido | Recurso contra decisão da SEP em processo de rito sumário. | cvm-col-20070703-d02 | fichas/colegiado/2007-11.md |
+| pas | RJ2006/6017 | 2007-06-05 | condenacao | QUORUM AUDITORES INDEPENDENTES E ISMAEL MARTINEZ -Descumprimento da regra que estabeleceu o rodízio obrigatório de auditorias após 5 anos… | cvm-pas-rj2006-6017 | fichas/pas/2007-07.md |
+| termo-compromisso | RJ2006/7545 | 2007-04-11 | aceito | O Colegiado aceitou nova proposta de termo de compromisso da PricewaterhouseCoopers Auditores Independentes, em PAS por descumprimento da… | cvm-col-20070411-d01 | fichas/tc/2007-02.md |
+| termo-compromisso | RJ2005/8134 | 2007-04-03 | aceito | O Colegiado aceitou proposta de termo de compromisso da Price Waterhouse Coopers Auditores Independentes e de um sócio responsável… | cvm-col-20070403-d05 | fichas/tc/2007-02.md |
+| termo-compromisso | RJ2005/9738 | 2007-03-14 | aceito | O Colegiado aceitou a nova proposta de termo de compromisso de auditor independente pessoa física, acusado de atuar por cooperativa não… | cvm-col-20070314-d05 | fichas/tc/2007-02.md |
+| termo-compromisso | RJ2006/7545 | 2007-02-26 | outro | O Colegiado solicitou ao Comitê de Termo de Compromisso que reavalie a negociação da proposta da PricewaterhouseCoopers Auditores… | cvm-col-20070226-d03 | fichas/tc/2007-02.md |
+| decisao-colegiado | RJ2007/0322 | 2007-01-30 | nao-provido | O Colegiado negou provimento, por unanimidade, a recurso da Sul América Companhia Nacional de Seguros contra decisão da SNC que fixou o… | cvm-col-20070130-d08 | fichas/colegiado/2007-02.md |
+| termo-compromisso | RJ2005/9831 | 2006-12-12 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso de auditor independente pessoa jurídica e de seu responsável técnico, acompanhando… | cvm-col-20061212-d05 | fichas/tc/2006-07.md |
+| termo-compromisso | RJ2006/6017 | 2006-12-12 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso da Quorum Auditores Independentes e de seu responsável técnico, acusados de… | cvm-col-20061212-d04 | fichas/tc/2006-07.md |
+| decisao-colegiado | RJ2006/4498 | 2006-12-05 | provido | O Colegiado deu provimento a recurso contra decisão da SNC que indeferiu registro de auditor independente pessoa física por falta de… | cvm-col-20061205-d19 | fichas/colegiado/2006-19.md |
+| termo-compromisso | RJ2001/12037 | 2006-11-07 | aceito | O Colegiado acompanhou o relator e aceitou nova proposta de termo de compromisso dos acusados, de R$ 20.655,00, como condição de eficácia… | cvm-col-20061107-d02 | fichas/tc/2006-06.md |
+| termo-compromisso | RJ2006/1507 | 2006-10-03 | aceito | O Colegiado aceitou a proposta de termo de compromisso da GWM Auditores e Consultores S/C e de seu sócio responsável técnico, com os… | cvm-col-20061003-d09 | fichas/tc/2006-05.md |
+| termo-compromisso | RJ2005/9738 | 2006-10-03 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso de auditor independente pessoa física, contra o parecer do Comitê que propunha… | cvm-col-20061003-d08 | fichas/tc/2006-05.md |
+| termo-compromisso | RJ2001/12037 | 2006-09-26 | rejeitado | O Colegiado rejeitou as propostas de termo de compromisso dos acusados sobre pareceres de auditoria em republicações de demonstrações… | cvm-col-20060926-d06 | fichas/tc/2006-04.md |
+| pas | RJ2005/9823 | 2006-09-25 | condenacao | LOPES, MACHADO AUDITORES E CONSULTORES S/C e [pessoa física] - Descumprimento de normas e procedimentos de auditoria relativos às… | cvm-pas-rj2005-9823 | fichas/pas/2006-18.md |
+| decisao-colegiado | RJ2006/3828 | 2006-08-01 | parcial | O Colegiado respondeu negativamente à consulta sobre recontratação da Deloitte como auditora da Light SESA antes do prazo de três anos do… | cvm-col-20060801-d12 | fichas/colegiado/2006-12.md |
+| termo-compromisso | RJ2005/4359 | 2006-05-30 | rejeitado | O Colegiado rejeitou proposta de Termo de Compromisso da Quorum Auditores Independentes, por não ser conveniente nem oportuna, já que não é… | cvm-col-20060530-d01 | fichas/tc/2006-02.md |
+| decisao-colegiado | RJ2004-1278 | 2006-05-18 | outro | O Colegiado acompanhou o voto do relator, que retificou erro material do julgamento de 19.01.06 quanto à penalidade de responsável técnico… | cvm-col-20060518-d10 | fichas/colegiado/2006-08.md |
+| decisao-colegiado | RJ2006/2607 | 2006-04-04 | indeferido | O Colegiado indeferiu pedido da Itaúsa – Investimentos Itaú S.A. de prorrogação do prazo de rodízio de auditores, para manter os de suas… | cvm-col-20060404-d10 | fichas/colegiado/2006-06.md |
+| decisao-colegiado | — | 2006-02-21 | deferido | O Colegiado concedeu prazo adicional até 31/12/2007 para o rodízio do auditor independente de holding pura de instituição financeira, para… | cvm-col-20060221-d11 | fichas/colegiado/2006-04.md |
+| decisao-colegiado | — | 2006-02-21 | outro | O Colegiado acompanhou o entendimento da área técnica (Memo/SNC/GNA/005/06) em consulta de auditor independente: o prazo de relacionamento… | cvm-col-20060221-d03 | fichas/colegiado/2006-03.md |
+| decisao-colegiado | RJ2001/7626 | 2006-01-31 | outro | O Colegiado arquivou processo administrativo sancionador contra sociedade de auditoria independente, com base na análise da área técnica… | cvm-col-20060131-d09 | fichas/colegiado/2006-02.md |
+| pas | RJ2004/7061 | 2006-01-19 | condenacao | O auditor independente, no exercício de sua atividade no âmbito do mercado de valores mobiliários, deve cumprir e fazer cumprir, por seus… | cvm-pas-rj2004-7061 | fichas/pas/2006-03.md |
+| pas | RJ2004/1278 | 2006-01-19 | parcial | Descumprimento dos arts. 24 e 25, inciso II, da Instrução CVM nº 308/99 e não observância de normas legais e regulamentares que disciplinam… | cvm-pas-rj2004-1278 | fichas/pas/2006-02.md |
+| pas | RJ2003/12406 | 2006-01-19 | condenacao | Ausência de aplicação de procedimentos de auditoria na execução dos trabalhos, caracterizando infração aos artigos 20 e 35, I e II, da… | cvm-pas-rj2003-12406 | fichas/pas/2006-02.md |
+| pas | RJ2002/4879 | 2006-01-19 | parcial | Inexistência de contrato de prestação de serviços de auditoria, ausência de carta de responsabilidade da administração da sociedade… | cvm-pas-rj2002-4879 | fichas/pas/2006-02.md |
+| termo-compromisso | RJ2004/7061 | 2006-01-10 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso do proponente, a Imáteo Auditoria e Consultoria, por pareceres de auditoria… | cvm-col-20060110-d03 | fichas/tc/2006-01.md |
+| termo-compromisso | RJ2003/12406 | 2006-01-10 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso apresentada pela HLB Audilink & Cia Auditores e por um dos indiciados no PAS… | cvm-col-20060110-d02 | fichas/tc/2006-01.md |
+| pas | RJ2003/11503 | 2005-11-03 | parcial | Descumprimento das disposições contidas nos artigos 24 e 25 da Instrução CVM nº 216/94, substituída pela Instrução CVM nº 308/99, artigos… | cvm-pas-rj2003-11503 | fichas/pas/2005-14.md |
+| pas | RJ2005/3106 | 2005-10-19 | absolvicao | Imputação de responsabilidade por infração ao parágrafo 1º, do artigo 10, da Resolução CVM nº 2.690/00 e ao art. 27 da Instrução CVM nº… | cvm-pas-rj2005-3106 | fichas/pas/2005-13.md |
+| decisao-colegiado | RJ2005/4359 | 2005-10-11 | nao-provido | O Colegiado negou provimento a recurso da Quorum Auditores Independentes contra decisão da SNC sobre rodízio obrigatório. Manteve o… | cvm-col-20051011-d08 | fichas/colegiado/2005-15.md |
+| decisao-colegiado | RJ2005/5980 | 2005-09-30 | nao-provido | O Colegiado negou provimento a recurso da Lacerda & Auditores Independentes contra o cancelamento, pela SNC, de seu registro como auditor… | cvm-col-20050930-d07 | fichas/colegiado/2005-14.md |
+| decisao-colegiado | RJ2005/4569 | 2005-09-13 | nao-provido | Recurso contra decisão da SNC de cancelamento do registro de auditor independente. Proc. RJ2005/4569. | cvm-col-20050913-d03 | fichas/colegiado/2005-13.md |
+| decisao-colegiado | RJ2005/4470 | 2005-08-23 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SNC que cancelou registro de auditor independente pessoa física por não ter feito… | cvm-col-20050823-d06 | fichas/colegiado/2005-12.md |
+| acordao-crsfn | 09/2000 | 2005-08-23 | parcial | RECURSOS VOLUNTÁRIOS - Mercado de valores mobiliários – Auditoria independente – Falta de planejamento dos trabalhos conforme as Normas… | crsfn-5859 | fichas/crsfn/2005-02.md |
+| decisao-colegiado | RJ2005/4298 | 2005-08-09 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SNC que cancelou registro de auditor independente pessoa física por não ter feito… | cvm-col-20050809-d08 | fichas/colegiado/2005-11.md |
+| decisao-colegiado | RJ2005/0928 | 2005-07-12 | outro | O Colegiado arquivou recurso contra decisão da SNC que indeferiu registro de auditor independente pessoa jurídica, por falta de objeto. O… | cvm-col-20050712-d02 | fichas/colegiado/2005-10.md |
+| acordao-crsfn | RJ2002/5101 | 2005-06-28 | condenacao | RECURSO VOLUNTÁRIO - Mercado de valores mobiliários – Auditoria independente – Realização dos trabalhos sem consonância com os padrões e… | crsfn-5279 | fichas/crsfn/2005-02.md |
+| pas | RJ2004/7001 | 2005-06-09 | condenacao | SOCIVAL AUDITORIA INDEPENDENTE S/C E [pessoa física] Auditoria inepta. Descumprimento das NBC-P-1 - Normas Profissionais de Auditor… | cvm-pas-rj2004-7001 | fichas/pas/2005-08.md |
+| acordao-crsfn | 01/01 | 2005-04-27 | condenacao | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários - Auditoria independente - Execução dos trabalhos em desacordo com as normas… | crsfn-4657 | fichas/crsfn/2005-01.md |
+| pas | RJ2001/8028 | 2005-03-14 | parcial | MOREIRA & ASSOCIADOS AUDITORES E OUTROS Violação do artigo 5º, IV, da Instrução CVM nº 216/94 (irregularidades cadastrais). Não… | cvm-pas-rj2001-8028 | fichas/pas/2005-03.md |
+| acordao-crsfn | 08/00 | 2005-02-23 | outro | RECURSOS VOLUNTÁRIOS – Mercado de valores mobiliários - Falhas em auditoria de demonstrações financeiras de companhias incentivadas… | crsfn-4217 | fichas/crsfn/2005-01.md |
+| acordao-crsfn | RJ2001/7661 | 2005-02-23 | condenacao | RECURSO VOLUNTÁRIO - Mercado de valores mobiliários – Auditoria independente – Emissão de documentos sem constar indicação da categoria… | crsfn-4184 | fichas/crsfn/2005-01.md |
+| pas | RJ2003/1631 | 2005-01-28 | parcial | FERNANDO MOTTA & ASSOCIADOS AUDITORES INDEPENDENTES E OUTROS a) Prestação de serviços de auditoria independente concomitante com o de… | cvm-pas-rj2003-1631 | fichas/pas/2005-01.md |
+| acordao-crsfn | RJ2002/0444 | 2004-10-20 | condenacao | RECURSOS VOLUNTÁRIOS - Mercado de valores mobiliários – Auditoria independente – Reavaliação de valores intangíveis – Ausência de ressalva… | crsfn-5425 | fichas/crsfn/2004-04.md |
+| acordao-crsfn | Recurso 4989 | 2004-10-20 | condenacao | RECURSOS VOLUNTÁRIOS - Mercado de valores mobiliários – Auditoria independente – Não realização de estudo e avaliação do sistema contábil e… | crsfn-4989 | fichas/crsfn/2004-04.md |
+| pas | RJ2001/8473 | 2004-10-18 | parcial | Boucinhas & Campos S/C Auditores Independentes (sucedida por Boucinhas & Campos + Soteconti Auditores Independentes S/C). Inobservância do… | cvm-pas-rj2001-8473 | fichas/pas/2004-13.md |
+| termo-compromisso | RJ2001/8473 | 2004-10-05 | rejeitado | O Colegiado indeferiu proposta de termo de compromisso apresentada pela Boucinhas & Campos S/C Auditores Independentes e por um indiciado… | cvm-col-20041005-d02 | fichas/tc/2004-02.md |
+| decisao-colegiado | RJ2004/4877 | 2004-09-21 | provido | Por maioria, o Colegiado deu provimento a recurso de firma de auditoria contra decisão da SNC que apontou descumprimento do rodízio (art… | cvm-col-20040921-d06 | fichas/colegiado/2004-11.md |
+| termo-compromisso | RJ2001/7626 | 2004-09-10 | aceito | O Colegiado aprovou termo de compromisso proposto por uma sociedade de auditoria independente e outro proponente, para suspender PAS, com… | cvm-col-20040910-d01 | fichas/tc/2004-02.md |
+| pas | RJ2002/445 | 2004-09-09 | condenacao | Auditoria Inepta; demonstrações contábeis que não refletem a real situação da companhia; transferência de obrigações e relacionamento com… | cvm-pas-rj2002-0445 | fichas/pas/2004-10.md |
+| termo-compromisso | 05/00 | 2004-08-05 | rejeitado | O Colegiado não acolheu as propostas de termo de compromisso apresentadas por todos os indiciados no PAS CVM 05/00, com base no voto do… | cvm-col-20040805-d02 | fichas/tc/2004-01.md |
+| pas | RJ2001/7557 | 2004-07-22 | condenacao | AUDITORIA E OUTROS - Auditoria Inepta. - Infração aos artigos 1º, 4º, inciso III, 25 e 29, incisos II e IV, da Instrução CVM nº 216/94… | cvm-pas-rj2001-7557 | fichas/pas/2004-07.md |
+| acordao-crsfn | RJ2001/8739 | 2004-07-14 | parcial | RECURSOS VOLUNTÁRIOS - Mercado de Valores Mobiliários - Auditoria independente - Contratação da pessoa jurídica e serviços efetuados pelo… | crsfn-5265 | fichas/crsfn/2004-03.md |
+| pas | RJ2002/3087 | 2004-05-20 | condenacao | Auditoria Inepta. | cvm-pas-rj2002-3087 | fichas/pas/2004-03.md |
+| pas | RJ2001/8029 | 2004-05-06 | condenacao | Emissão de parecer de auditoria sem ressalva para as demonstrações financeiras do exercício social encerrado em 31/12/99 da companhia… | cvm-pas-rj2001-8029 | fichas/pas/2004-02.md |
+| pas | 09/2000 | 2004-04-15 | condenacao | SISTEMA AUDITORES INDEPENDENTES SC E OUTROS Auditoria inepta - Infração aos artigos 24 e 25 da Instrução CVM nº 216/94. | cvm-pas-09-2000 | fichas/pas/2004-01.md |
+| decisao-colegiado | RJ2004/0812 | 2004-03-09 | nao-provido | O Colegiado, acompanhando a relatora, negou provimento ao recurso contra decisão da SNC que indeferiu o registro de auditor independente… | cvm-col-20040309-d12 | fichas/colegiado/2004-03.md |
+| decisao-colegiado | RJ2003/7043 | 2004-01-21 | — | Consulta da Deloitte sobre rodízio de auditores após a absorção de clientes da antiga Arthur Andersen. O diretor relator votou por contar o… | cvm-col-20040121-d05 | fichas/colegiado/2004-01.md |
+| termo-compromisso | 09/2000 | 2003-12-16 | rejeitado | O Colegiado acompanhou o voto do relator e indeferiu proposta de termo de compromisso das firmas Loudon Blomquist Auditores Independentes e… | cvm-col-20031216-d08 | fichas/tc/2003.md |
+| acordao-crsfn | 06/00 | 2003-12-10 | condenacao | RECURSOS VOLUNTÁRIOS - Mercado de valores mobiliários - Auditoria independente - Desenvolvimento de atividades de auditoria em desacordo… | crsfn-4319 | fichas/crsfn/2003-04.md |
+| acordao-crsfn | 32/99 | 2003-12-10 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários - Auditoria independente - Insuficiência relevante em parecer… | crsfn-4170 | fichas/crsfn/2003-04.md |
+| pas | RJ2002/0444 | 2003-11-12 | condenacao | LOPES, MACHADO AUDITORES S/C E OUTROS - Reavaliação de intangível sem ressalva do auditor - Advertência. | cvm-pas-rj2002-0444 | fichas/pas/2003-07.md |
+| acordao-crsfn | 10/97 | 2003-10-29 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários - Pagamento de dividendos à conta de Capital em face de prejuízo… | crsfn-3037 | fichas/crsfn/2003-03.md |
+| decisao-colegiado | IA19/00; RJ2003/7518 | 2003-10-21 | outro | O Colegiado acompanhou o voto da relatora e considerou cumprido o termo de compromisso assinado pela Veeck & Cia. Auditores e por pessoa… | cvm-col-20031021-d02 | fichas/colegiado/2003-12.md |
+| pas | RJ2002/5101 | 2003-10-09 | condenacao | MESSIAS AUDITORIA E CONSULTORIA S/C E OUTRO O auditor independente no exercício de sua atividade no âmbito do mercado de valores… | cvm-pas-rj2002-5101 | fichas/pas/2003-07.md |
+| acordao-crsfn | 00/32 | 2003-09-24 | condenacao | RECURSOS VOLUNTÁRIOS – Mercado de valores mobiliários - Auditoria independente - Conflito de interesses - Representante técnico da firma de… | crsfn-4083 | fichas/crsfn/2003-03.md |
+| decisao-colegiado | — | 2003-09-19 | outro | O Colegiado decidiu não alterar o rodízio de firmas de auditoria da Instrução CVM 308/99, pedido por entidades de mercado. Fundamento… | cvm-col-20030919-d01 | fichas/colegiado/2003-11.md |
+| pas | RJ2001/8739 | 2003-09-11 | condenacao | Infração ao art. 20 da Instrução CVM nº308/99. | cvm-pas-rj2001-8739 | fichas/pas/2003-05.md |
+| decisao-colegiado | — | 2003-03-25 | outro | O Colegiado aprovou a minuta de instrução sobre auditoria independente nos fundos de investimento financeiro, nos fundos de aplicação em… | cvm-col-20030325-d05 | fichas/colegiado/2003-04.md |
+| pas | 01/2001 | 2002-12-12 | condenacao | [pessoa física] Auditoria Inepta - Infração considerada grave, nos termos do art. 31, b, combinado com o art. 32 da Instrução CVM nº 216… | cvm-pas-01-2001 | fichas/pas/2002-07.md |
+| decisao-colegiado | — | 2002-10-10 | outro | O Colegiado aprovou a colocação em audiência pública da minuta de instrução sobre a divulgação de outros serviços prestados pelo auditor… | cvm-col-20021010-d02 | fichas/colegiado/2002-23.md |
+| acordao-crsfn | RJ2000/3739 | 2002-08-28 | condenacao | RECURSOS VOLUNTÁRIOS - Mercado de valores mobiliários – Auditoria independente – Demonstrações financeiras – Reserva de lucros constituída… | crsfn-3921 | fichas/crsfn/2002-03.md |
+| pas | 06/2000 | 2002-08-22 | condenacao | SOMATEC E OUTRO I - Desenvolvimento da atividade de auditoria independente em desacordo com as normas profissionais emanadas do Conselho… | cvm-pas-06-2000 | fichas/pas/2002-05.md |
+| acordao-crsfn | 07/2000 | 2002-08-01 | condenacao | RECURSOS VOLUNTÁRIOS - Mercado de valores mobiliários – Auditoria independente – Elaboração de laudos sem os requisitos exigidos pelas… | crsfn-4081 | fichas/crsfn/2002-03.md |
+| pas | RJ2001/7661 | 2002-04-25 | condenacao | [pessoa física] Auditoria Inepta | cvm-pas-rj2001-7661 | fichas/pas/2002-04.md |
+| pas | 08/2000 | 2002-04-04 | condenacao | AUDITORIA CONTÁBIL DE EMPRESAS E OUTRO Auditoria inepta de demonstrações financeiras de companhias incentivadas. Infração Grave… | cvm-pas-08-2000 | fichas/pas/2002-02.md |
+| acordao-crsfn | 25/99 | 2002-03-25 | condenacao | RECURSO VOLUNTÁRIO - Mercado de valores mobiliários – Auditoria independente – Inépcia – Conduta contrária a normas expedidas pelo Conselho… | crsfn-3408 | fichas/crsfn/2002-01.md |
+| pas | 07/2000 | 2001-12-12 | condenacao | PAES DE MENEZES AUDITORES INDEPENDENTES S/A E OUTRO Realização de auditoria independente em desacordo com os padrões, normas e… | cvm-pas-07-2000 | fichas/pas/2001-08.md |
+| acordao-crsfn | 15/96 | 2001-10-30 | parcial | RECURSOS VOLUNTÁRIOS – Mercado de valores mobiliários – Fundos mútuo e fiscal de investimento – Auditoria independente – Emissão de parecer… | crsfn-3099 | fichas/crsfn/2001-03.md |
+| pas | 32/2000 | 2001-10-10 | condenacao | [pessoa física], KPMG AUDITORES INDEPENDENTES E OUTRO I.- Empresa de auditoria e seus responsáveis técnicos. O fato de qualquer sócio ou… | cvm-pas-32-2000 | fichas/pas/2001-06.md |
+| acordao-crsfn | 19/97 | 2000-09-29 | parcial | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Auditoria independente – Ausência de ressalvas nos laudos – Falhas caracterizadas… | crsfn-2916 | fichas/crsfn/2000-04.md |
+| pas | 25/1999 | 2000-08-24 | condenacao | GAPLAN AUDITORIA EXTERNA S/C, [pessoa física] Auditoria Inepta | cvm-pas-25-1999 | fichas/pas/2000-03.md |
+| acordao-crsfn | 03/98 | 2000-07-28 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Auditoria independente – Demonstrações contábeis – Publicação desacompanhada do… | crsfn-3001 | fichas/crsfn/2000-04.md |
+| acordao-crsfn | 17/95 | 2000-07-28 | outro | RECURSOS VOLUNTÁRIOS – Mercado de valores mobiliários - Auditoria independente – Elaboração de laudos sem evidência da realização dos… | crsfn-2544-2 | fichas/crsfn/2000-03.md |
+| acordao-crsfn | 98/4845 | 2000-06-15 | condenacao | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Auditoria independente – Relatório de revisão – Assinatura por profissional não… | crsfn-2984 | fichas/crsfn/2000-03.md |
+| acordao-crsfn | 13/96 | 2000-06-15 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falhas em procedimentos de auditoria independente – Ausência de prestação de… | crsfn-2628 | fichas/crsfn/2000-02.md |
+| pas | 08/1999 | 2000-06-01 | condenacao | BINAH AUDITORES ASSOCIADOS S/C, [pessoa física] Descumprimento de dispositivos regulamentares da atividade de auditoria. Infrações… | cvm-pas-08-1999 | fichas/pas/2000-02.md |
+| acordao-crsfn | 97/1669 | 1999-10-28 | absolvicao | RECURSO DE OFÍCIO - Mercado de Valores Mobiliários – Auditor independente – Assinatura de pareceres por profissional não cadastrado na… | crsfn-2780 | fichas/crsfn/1999-03.md |
+| acordao-crsfn | 11/95 | 1999-09-30 | arquivamento | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Auditoria independente – Falhas em pareceres relativos a demonstrações financeiras de… | crsfn-2872 | fichas/crsfn/1999-03.md |
+| acordao-crsfn | 08/95 | 1999-08-31 | condenacao | RECURSO VOLUNTÁRIO - Mercado de valores mobiliários – Auditoria independente – Falhas verificadas na realização dos trabalhos respectivos… | crsfn-2737 | fichas/crsfn/1999-02.md |
+| acordao-crsfn | 20/95 | 1999-08-31 | absolvicao | RECURSO DE OFÍCIO – Mercado de Valores Mobiliários – Falta de contratação de auditor independente para auditar carteira regulada pelo anexo… | crsfn-2611 | fichas/crsfn/1999-02.md |
+| acordao-crsfn | 97/0065 | 1999-07-29 | absolvicao | RECURSO DE OFÍCIO - Mercado de valores mobiliários - Auditor Independente – Responsável técnico – Indicação de número de profissional não… | crsfn-2617 | fichas/crsfn/1999-01.md |
+| acordao-crsfn | 97/0873 | 1999-07-29 | absolvicao | RECURSO DE OFÍCIO - Mercado de Valores Mobiliários – Auditor Independente – Falta de registro na CVM da empresa de auditoria – Acolhimento… | crsfn-2613 | fichas/crsfn/1999-01.md |
+| acordao-crsfn | 96/2055 | 1999-07-29 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Auditor independente – Remessa de informações e pagamento de taxa de fiscalização à… | crsfn-2564 | fichas/crsfn/1999-01.md |
+| acordao-crsfn | 96/2042 | 1998-10-29 | condenacao | RECURSO VOLUNTÁRIO. Mercado de Valores Mobiliários – Auditor independente – Falta de remessa, à CVM, de informações periódicas exigidas… | crsfn-2550 | fichas/crsfn/1998-04.md |
+| acordao-crsfn | 96/2076 | 1998-10-29 | parcial | RECURSO VOLUNTÁRIO. Mercado de Valores Mobiliários – Auditor independente – Falta de tempestiva remessa, à CVM, de informações anuais sobre… | crsfn-2538 | fichas/crsfn/1998-04.md |
+| acordao-crsfn | 96/2066 | 1998-10-29 | condenacao | RECURSO VOLUNTÁRIO. Mercado de Valores Mobiliários – Auditor independente – Falta de tempestiva remessa, à CVM, de informações anuais sobre… | crsfn-2534 | fichas/crsfn/1998-03.md |
+| acordao-crsfn | 17/95 | 1998-09-22 | outro | RECURSOS VOLUNTÁRIOS. Mercado de Valores Mobiliários - Auditoria - Irregularidades verificadas nos trabalhos realizados no período 90/94… | crsfn-2544 | fichas/crsfn/1998-03.md |
+| acordao-crsfn | 96/2040 | 1998-07-30 | condenacao | RECURSO VOLUNTÁRIO. Mercado de Valores Mobiliários - Auditor independente - Falta de tempestiva remessa de informações periódicas exigidas… | crsfn-2506 | fichas/crsfn/1998-02.md |
+| acordao-crsfn | 96/2044 | 1998-07-30 | absolvicao | RECURSO DE OFÍCIO. Mercado de Valores Mobiliários - Auditor independente - Falta de tempestiva remessa de informações periódicas (Instrução… | crsfn-2479 | fichas/crsfn/1998-02.md |
+| acordao-crsfn | 96/2035 | 1998-06-25 | absolvicao | RECURSO DE OFÍCIO. Mercado de Valores Mobiliários - Falta de remessa tempestiva à CVM de informações anuais sobre empresas sujeitas a… | crsfn-2478 | fichas/crsfn/1998-02.md |
+| acordao-crsfn | 01/93 | 1997-10-30 | condenacao | RECURSOS VOLUNTÁRIOS. Comissão de Valores Mobiliários - CVM - Auditor independente - Laudo inepto, desobediência aos procedimentos básicos… | crsfn-2270 | fichas/crsfn/1997-01.md |
 
 Fim do subíndice.

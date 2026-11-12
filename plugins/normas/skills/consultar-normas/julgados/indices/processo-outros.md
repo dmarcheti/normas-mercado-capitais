@@ -7,171 +7,171 @@ Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho rel
 
 Forma do campo `processo` do julgado; nenhuma numeração (NUP, antiga ou curta) foi reconhecida nela.
 
-| Forma no julgado | Tipo | Data | Id | Ficha |
-|---|---|---|---|---|
-| 00/32 | acordao-crsfn | 2003-09-24 | crsfn-4083 | fichas/crsfn/2003-02.md |
-| 01/1950 | acordao-crsfn | 2003-09-24 | crsfn-4058 | fichas/crsfn/2003-02.md |
-| 01/6835 | acordao-crsfn | 2007-01-31 | crsfn-4288-2 | fichas/crsfn/2007-01.md |
-| 01/8023 | acordao-crsfn | 2005-11-09 | crsfn-4779 | fichas/crsfn/2005-02.md |
-| 01/8045 | acordao-crsfn | 2004-04-28 | crsfn-4507 | fichas/crsfn/2004-01.md |
-| 01/8280 | acordao-crsfn | 2005-11-09 | crsfn-4731 | fichas/crsfn/2005-02.md |
-| 02-7539 | acordao-crsfn | 2008-04-28 | crsfn-5590 | fichas/crsfn/2008-02.md |
-| 02/1153 | acordao-crsfn | 2004-01-21 | crsfn-4585 | fichas/crsfn/2004-01.md |
-| 0002/2009 | acordao-crsfn | 2014-10-21 | crsfn-13527 | fichas/crsfn/2014-06.md |
-| 02/6032 | acordao-crsfn | 2008-04-28 | crsfn-9790 | fichas/crsfn/2008-02.md |
-| 0003/2006 | acordao-crsfn | 2014-11-25 | crsfn-13256 | fichas/crsfn/2014-06.md |
-| 0003/2008 | acordao-crsfn | 2015-04-28 | crsfn-13078 | fichas/crsfn/2015-01.md |
-| 0004/2004 | acordao-crsfn | 2014-11-25 | crsfn-10979 | fichas/crsfn/2014-06.md |
-| 05/4215 | acordao-crsfn | 2007-11-22 | crsfn-9249 | fichas/crsfn/2007-02.md |
-| 05/8528 | acordao-crsfn | 2011-05-31 | crsfn-11646 | fichas/crsfn/2011-02.md |
-| 05/9245 | acordao-crsfn | 2009-12-14 | crsfn-11438 | fichas/crsfn/2009-06.md |
-| 0006/2004 | acordao-crsfn | 2014-10-21 | crsfn-13285 | fichas/crsfn/2014-06.md |
-| 0007/2004 | acordao-crsfn | 2014-12-09 | crsfn-11751 | fichas/crsfn/2014-07.md |
-| 09 | acordao-crsfn | 1996-05-15 | crsfn-1649 | fichas/crsfn/1996-01.md |
-| 10/9078 | acordao-crsfn | 2015-07-28 | crsfn-13360 | fichas/crsfn/2015-03.md |
-| 10/11352 | acordao-crsfn | 2017-09-11 | crsfn-13414 | fichas/crsfn/2017-06.md |
-| 0012/2004 | acordao-crsfn | 2014-10-21 | crsfn-13223 | fichas/crsfn/2014-05.md |
-| 13/92; | acordao-crsfn | 1996-03-13 | crsfn-1550 | fichas/crsfn/1996-01.md |
-| 14-2006 | acordao-crsfn | 2013-11-26 | crsfn-13189 | fichas/crsfn/2013-04.md |
-| 0019/2006 | acordao-crsfn | 2014-10-21 | crsfn-13233 | fichas/crsfn/2014-05.md |
-| 0019/2009 | acordao-crsfn | 2014-11-25 | crsfn-13311 | fichas/crsfn/2014-06.md |
-| 0021/2005 | acordao-crsfn | 2014-11-25 | crsfn-13228 | fichas/crsfn/2014-06.md |
-| 0022/2005 | acordao-crsfn | 2014-11-25 | crsfn-12444 | fichas/crsfn/2014-06.md |
-| 23-2000 | acordao-crsfn | 2014-04-15 | crsfn-13180 | fichas/crsfn/2014-02.md |
-| 0028/2005 | acordao-crsfn | 2015-06-30 | crsfn-11267-2 | fichas/crsfn/2015-02.md |
-| 90/0474-2 | acordao-crsfn | 2000-09-29 | crsfn-2818 | fichas/crsfn/2000-04.md |
-| 91/0238-8 | acordao-crsfn | 1998-02-17 | crsfn-2286 | fichas/crsfn/1998-01.md |
-| 91/1181-6 | acordao-crsfn | 1996-02-15 | crsfn-1581 | fichas/crsfn/1996-01.md |
-| 91/1263-4 | acordao-crsfn | 1998-09-22 | crsfn-2556 | fichas/crsfn/1998-03.md |
-| 91/1484-0 | acordao-crsfn | 1998-01-28 | crsfn-2310 | fichas/crsfn/1998-01.md |
-| 91/1566-8 | acordao-crsfn | 1998-02-17 | crsfn-2317 | fichas/crsfn/1998-01.md |
-| 91/1640-0 | acordao-crsfn | 1997-12-10 | crsfn-2325 | fichas/crsfn/1997-02.md |
-| 91/1847-0 | acordao-crsfn | 1998-03-25 | crsfn-1969 | fichas/crsfn/1998-01.md |
-| 92/1330-9 | acordao-crsfn | 1997-10-30 | crsfn-2284 | fichas/crsfn/1997-01.md |
-| 92/1841 | acordao-crsfn | 1999-03-25 | crsfn-2577 | fichas/crsfn/1999-01.md |
-| 95/0357 | acordao-crsfn | 1998-04-28 | crsfn-2355 | fichas/crsfn/1998-01.md |
-| 95/0357 | acordao-crsfn | 1999-10-28 | crsfn-2355-2 | fichas/crsfn/1999-03.md |
-| 95/0778 | acordao-crsfn | 1997-12-10 | crsfn-2283 | fichas/crsfn/1997-02.md |
-| 95/1449 | acordao-crsfn | 1998-01-28 | crsfn-2342 | fichas/crsfn/1998-01.md |
-| 95/2171 | acordao-crsfn | 1998-06-25 | crsfn-2287 | fichas/crsfn/1998-02.md |
-| 95/3243 | acordao-crsfn | 2000-05-30 | crsfn-2705 | fichas/crsfn/2000-02.md |
-| 95/4251 | acordao-crsfn | 1999-06-22 | crsfn-2619 | fichas/crsfn/1999-01.md |
-| 95/4538 | acordao-crsfn | 1999-05-26 | crsfn-2626 | fichas/crsfn/1999-01.md |
-| 95/4542 | acordao-crsfn | 2000-07-28 | crsfn-2894 | fichas/crsfn/2000-03.md |
-| 95/4641 | acordao-crsfn | 1999-06-22 | crsfn-2600 | fichas/crsfn/1999-01.md |
-| 95/4673 | acordao-crsfn | 1998-07-30 | crsfn-2480 | fichas/crsfn/1998-02.md |
-| 95/4692 | acordao-crsfn | 1998-07-30 | crsfn-2508 | fichas/crsfn/1998-02.md |
-| 96/0504 | acordao-crsfn | 1999-08-31 | crsfn-2735 | fichas/crsfn/1999-02.md |
-| 96/1829 | acordao-crsfn | 1998-10-29 | crsfn-2536 | fichas/crsfn/1998-03.md |
-| 96/1905 | acordao-crsfn | 1998-06-25 | crsfn-2504 | fichas/crsfn/1998-02.md |
-| 96/2035 | acordao-crsfn | 1998-06-25 | crsfn-2478 | fichas/crsfn/1998-02.md |
-| 96/2040 | acordao-crsfn | 1998-07-30 | crsfn-2506 | fichas/crsfn/1998-02.md |
-| 96/2042 | acordao-crsfn | 1998-10-29 | crsfn-2550 | fichas/crsfn/1998-03.md |
-| 96/2044 | acordao-crsfn | 1998-07-30 | crsfn-2479 | fichas/crsfn/1998-02.md |
-| 96/2053 | acordao-crsfn | 1998-06-25 | crsfn-2487 | fichas/crsfn/1998-02.md |
-| 96/2055 | acordao-crsfn | 1999-07-29 | crsfn-2564 | fichas/crsfn/1999-01.md |
-| 96/2066 | acordao-crsfn | 1998-10-29 | crsfn-2534 | fichas/crsfn/1998-03.md |
-| 96/2076 | acordao-crsfn | 1998-10-29 | crsfn-2538 | fichas/crsfn/1998-03.md |
-| 96/2086 | acordao-crsfn | 1999-08-31 | crsfn-2562 | fichas/crsfn/1999-02.md |
-| 96/3234 | acordao-crsfn | 1999-01-28 | crsfn-2575 | fichas/crsfn/1999-01.md |
-| 96/3607 | acordao-crsfn | 1998-11-24 | crsfn-2580 | fichas/crsfn/1998-04.md |
-| 96/4258 | acordao-crsfn | 1999-06-22 | crsfn-2623 | fichas/crsfn/1999-01.md |
-| 96/4367 | acordao-crsfn | 1998-11-24 | crsfn-2582 | fichas/crsfn/1998-04.md |
-| 96/4461 | acordao-crsfn | 2000-10-10 | crsfn-2615 | fichas/crsfn/2000-05.md |
-| 96/4591 | acordao-crsfn | 1999-08-31 | crsfn-2851 | fichas/crsfn/1999-02.md |
-| 97/0065 | acordao-crsfn | 1999-07-29 | crsfn-2617 | fichas/crsfn/1999-01.md |
-| 97/0161 | acordao-crsfn | 1999-10-28 | crsfn-2840 | fichas/crsfn/1999-03.md |
-| 97/0706 | acordao-crsfn | 1999-11-25 | crsfn-2979 | fichas/crsfn/1999-04.md |
-| 97/0841 | acordao-crsfn | 1999-09-30 | crsfn-2630 | fichas/crsfn/1999-02.md |
-| 97/0873 | acordao-crsfn | 1999-07-29 | crsfn-2613 | fichas/crsfn/1999-01.md |
-| 97/1157 | acordao-crsfn | 1999-12-27 | crsfn-2878 | fichas/crsfn/1999-04.md |
-| 97/1655 | acordao-crsfn | 1999-08-31 | crsfn-2688 | fichas/crsfn/1999-02.md |
-| 97/1669 | acordao-crsfn | 1999-10-28 | crsfn-2780 | fichas/crsfn/1999-03.md |
-| 97/1853 | acordao-crsfn | 1999-07-29 | crsfn-2736 | fichas/crsfn/1999-01.md |
-| 97/1854 | acordao-crsfn | 1999-07-29 | crsfn-2825 | fichas/crsfn/1999-02.md |
-| 97/1858 | acordao-crsfn | 1999-07-29 | crsfn-2727 | fichas/crsfn/1999-01.md |
-| 97/2956 | acordao-crsfn | 2000-09-29 | crsfn-2782 | fichas/crsfn/2000-04.md |
-| 97/3001 | acordao-crsfn | 1999-11-25 | crsfn-2810 | fichas/crsfn/1999-03.md |
-| 97/3122 | acordao-crsfn | 1999-11-25 | crsfn-2806 | fichas/crsfn/1999-03.md |
-| 97/3413 | acordao-crsfn | 1999-09-30 | crsfn-2837 | fichas/crsfn/1999-03.md |
-| 97/3926 | acordao-crsfn | 2000-05-30 | crsfn-2858 | fichas/crsfn/2000-02.md |
-| 98/0151 | acordao-crsfn | 2000-04-27 | crsfn-2939 | fichas/crsfn/2000-01.md |
-| 98/0159 | acordao-crsfn | 2000-07-28 | crsfn-2988 | fichas/crsfn/2000-04.md |
-| 98/0432 | acordao-crsfn | 2002-02-27 | crsfn-3383 | fichas/crsfn/2002-01.md |
-| 98/3428 | acordao-crsfn | 1999-08-31 | crsfn-2907 | fichas/crsfn/1999-02.md |
-| 98/3429 | acordao-crsfn | 1999-08-31 | crsfn-2899 | fichas/crsfn/1999-02.md |
-| 98/3430 | acordao-crsfn | 1999-11-25 | crsfn-2910 | fichas/crsfn/1999-03.md |
-| 98/3431 | acordao-crsfn | 2000-07-28 | crsfn-2898 | fichas/crsfn/2000-03.md |
-| 98/3547 | acordao-crsfn | 2000-04-27 | crsfn-2945 | fichas/crsfn/2000-02.md |
-| 98/4141 | acordao-crsfn | 1999-11-25 | crsfn-2918 | fichas/crsfn/1999-03.md |
-| 98/4411 | acordao-crsfn | 2000-12-15 | crsfn-2936 | fichas/crsfn/2000-06.md |
-| 98/4578 | acordao-crsfn | 2000-05-30 | crsfn-2992 | fichas/crsfn/2000-02.md |
-| 98/4801 | acordao-crsfn | 2000-05-30 | crsfn-2987 | fichas/crsfn/2000-02.md |
-| 98/4802 | acordao-crsfn | 1999-11-25 | crsfn-2975 | fichas/crsfn/1999-04.md |
-| 98/4845 | acordao-crsfn | 2000-06-15 | crsfn-2984 | fichas/crsfn/2000-03.md |
-| 98/4849 | acordao-crsfn | 1999-11-25 | crsfn-2965 | fichas/crsfn/1999-04.md |
-| 98/4852 | acordao-crsfn | 2000-03-23 | crsfn-2957 | fichas/crsfn/2000-01.md |
-| 98/4853 | acordao-crsfn | 2000-02-25 | crsfn-2943 | fichas/crsfn/2000-01.md |
-| 98/4854 | acordao-crsfn | 2000-04-27 | crsfn-2985 | fichas/crsfn/2000-02.md |
-| 98/5287 | acordao-crsfn | 2000-07-28 | crsfn-3060 | fichas/crsfn/2000-04.md |
-| 98/5607 | acordao-crsfn | 1999-11-25 | crsfn-2942 | fichas/crsfn/1999-03.md |
-| 98/5615 | acordao-crsfn | 2000-12-15 | crsfn-2976 | fichas/crsfn/2000-06.md |
-| 98/5638 | acordao-crsfn | 1999-07-29 | crsfn-2937 | fichas/crsfn/1999-02.md |
-| 98/5639 | acordao-crsfn | 2000-06-15 | crsfn-2997 | fichas/crsfn/2000-03.md |
-| 98/5666 | acordao-crsfn | 1999-11-25 | crsfn-2968 | fichas/crsfn/1999-04.md |
-| 98/5672 | acordao-crsfn | 2000-05-30 | crsfn-2994 | fichas/crsfn/2000-02.md |
-| 98/5675 | acordao-crsfn | 1999-12-15 | crsfn-2963 | fichas/crsfn/1999-04.md |
-| 98/5771 | acordao-crsfn | 2000-06-15 | crsfn-3009 | fichas/crsfn/2000-03.md |
-| 98/5796 | acordao-crsfn | 2000-06-15 | crsfn-3010 | fichas/crsfn/2000-03.md |
-| 99/0847 | acordao-crsfn | 2000-05-30 | crsfn-2989 | fichas/crsfn/2000-02.md |
-| 99/1052 | acordao-crsfn | 2000-05-30 | crsfn-3014 | fichas/crsfn/2000-02.md |
-| 99/1053 | acordao-crsfn | 2000-09-29 | crsfn-3057 | fichas/crsfn/2000-05.md |
-| 99/1885 | acordao-crsfn | 2000-10-10 | crsfn-3041 | fichas/crsfn/2000-05.md |
-| 99/1886 | acordao-crsfn | 2000-11-23 | crsfn-3175 | fichas/crsfn/2000-06.md |
-| 99/1887 | acordao-crsfn | 2001-06-20 | crsfn-3567 | fichas/crsfn/2001-02.md |
-| 99/1945 | acordao-crsfn | 2000-11-07 | crsfn-3171 | fichas/crsfn/2000-06.md |
-| 99/1946 | acordao-crsfn | 2000-09-29 | crsfn-3149 | fichas/crsfn/2000-05.md |
-| 99/3168 | acordao-crsfn | 2000-05-30 | crsfn-3031 | fichas/crsfn/2000-02.md |
-| 99/3170 | acordao-crsfn | 2000-09-29 | crsfn-3059 | fichas/crsfn/2000-05.md |
-| 0527 | acordao-crsfn | 1999-06-22 | crsfn-2587 | fichas/crsfn/1999-01.md |
-| 1998/4733 | acordao-crsfn | 2005-03-29 | crsfn-6019 | fichas/crsfn/2005-01.md |
-| 2002/1173 | acordao-crsfn | 2008-04-28 | crsfn-5936 | fichas/crsfn/2008-02.md |
-| 2002/1823 | acordao-crsfn | 2009-03-19 | crsfn-8549 | fichas/crsfn/2009-02.md |
-| 2004/123 | acordao-crsfn | 2008-04-28 | crsfn-6186 | fichas/crsfn/2008-02.md |
-| 2005-2793 | acordao-crsfn | 2008-06-12 | crsfn-9603 | fichas/crsfn/2008-03.md |
-| 2008/11 | acordao-crsfn | 2017-07-25 | crsfn-13454 | fichas/crsfn/2017-06.md |
-| 2008/9574 | acordao-crsfn | 2017-02-07 | crsfn-13594 | fichas/crsfn/2017-01.md |
-| 2010/11351 | acordao-crsfn | 2015-10-20 | crsfn-13616 | fichas/crsfn/2015-04.md |
-| 2010/12041 | acordao-crsfn | 2017-04-18 | crsfn-13704 | fichas/crsfn/2017-03.md |
-| 2011/14269 | acordao-crsfn | 2017-02-08 | crsfn-13749 | fichas/crsfn/2017-01.md |
-| 2012/03 | acordao-crsfn | 2018-10-19 | crsfn-10372-100002-2018-61 | fichas/crsfn/2018-06.md |
-| 03809/01 | acordao-crsfn | 2003-06-25 | crsfn-4183 | fichas/crsfn/2003-02.md |
-| 0501291250 | acordao-crsfn | 2010-06-22 | crsfn-11745 | fichas/crsfn/2010-05.md |
-| -02/2010 | acordao-crsfn | 2016-06-28 | crsfn-10372-000688-2016-29 | fichas/crsfn/2016-03.md |
-| CVM13/05 | acordao-crsfn | 2017-06-27 | crsfn-13453 | fichas/crsfn/2017-04.md |
-| CVM17/2006 | acordao-crsfn | 2016-12-13 | crsfn-monocratica-13977 | fichas/crsfn/2016-06.md |
-| CVM178/2010 | acordao-crsfn | 2017-05-24 | crsfn-14048 | fichas/crsfn/2017-04.md |
-| CVM2012/869 | acordao-crsfn | 2017-03-14 | crsfn-13750 | fichas/crsfn/2017-01.md |
-| IS-2003-19 | acordao-crsfn | 2013-03-26 | crsfn-11833 | fichas/crsfn/2013-01.md |
-| RJ–2001-4474 | acordao-crsfn | 2009-10-27 | crsfn-8257 | fichas/crsfn/2009-06.md |
-| RJ–2002-397 | acordao-crsfn | 2009-09-30 | crsfn-5632 | fichas/crsfn/2009-04.md |
-| RJ–2005-8604 | acordao-crsfn | 2012-02-13 | crsfn-12039 | fichas/crsfn/2012-01.md |
-| RJ–2005-9823 | acordao-crsfn | 2011-05-31 | crsfn-11247 | fichas/crsfn/2011-01.md |
-| RJ–2006-4663 | acordao-crsfn | 2013-10-30 | crsfn-11828 | fichas/crsfn/2013-04.md |
-| RJ–2007-14044 | acordao-crsfn | 2012-08-13 | crsfn-12506 | fichas/crsfn/2012-03.md |
-| Recurso 4166 | acordao-crsfn | 2004-08-18 | crsfn-4166 | fichas/crsfn/2004-02.md |
-| Recurso 4222 | acordao-crsfn | 2003-10-29 | crsfn-4222 | fichas/crsfn/2003-03.md |
-| Recurso 4989 | acordao-crsfn | 2004-10-20 | crsfn-4989 | fichas/crsfn/2004-03.md |
-| Recurso 5441 | acordao-crsfn | 2004-12-14 | crsfn-5441 | fichas/crsfn/2004-04.md |
-| Recurso 5655 | acordao-crsfn | 2006-03-30 | crsfn-5655 | fichas/crsfn/2006-01.md |
-| Recurso 5953 | acordao-crsfn | 2005-11-09 | crsfn-5953 | fichas/crsfn/2005-02.md |
-| Recurso 5955 | acordao-crsfn | 2005-02-23 | crsfn-5955 | fichas/crsfn/2005-01.md |
-| Recurso 8250 | acordao-crsfn | 2006-06-28 | crsfn-8250 | fichas/crsfn/2006-01.md |
-| Recurso SEI 0372.000645/2016-43 | acordao-crsfn | 2016-06-28 | crsfn-recurso-sei-0372-000645-2016-43 | fichas/crsfn/2016-03.md |
-| SP–2001-0204 | acordao-crsfn | 2010-04-29 | crsfn-11241 | fichas/crsfn/2010-03.md |
-| TARJ2001/7557 | termo-compromisso | 2004-07-02 | cvm-col-20040702-d03 | fichas/tc/2004-01.md |
-| TASP2001/0034 | termo-compromisso | 2004-07-13 | cvm-col-20040713-d04 | fichas/tc/2004-01.md |
-| – | acordao-crsfn | 2007-04-25 | crsfn-5532 | fichas/crsfn/2007-01.md |
-| – | acordao-crsfn | 2007-03-28 | crsfn-9428 | fichas/crsfn/2007-01.md |
+| Forma no julgado | Tipo | Data | Ementa | Id | Ficha |
+|---|---|---|---|---|---|
+| 00/32 | acordao-crsfn | 2003-09-24 | RECURSOS VOLUNTÁRIOS – Mercado de valores mobiliários - Auditoria independente - Conflito de interesses - Representante técnico da firma de… | crsfn-4083 | fichas/crsfn/2003-03.md |
+| 01/1950 | acordao-crsfn | 2003-09-24 | RECURSO DE OFÍCIO – Mercado de valores mobiliários - Fato relevante - Ausência de divulgação - Demonstrações financeiras não concluídas na… | crsfn-4058 | fichas/crsfn/2003-03.md |
+| 01/6835 | acordao-crsfn | 2007-01-31 | RECURSO VOLUNTÁRIO – Pedido de Revisão - Mercado de valores mobiliários – Falta de republicação de demonstrações financeiras do exercício… | crsfn-4288-2 | fichas/crsfn/2007-01.md |
+| 01/8023 | acordao-crsfn | 2005-11-09 | RECURSOS VOLUNTÁRIOS – Mercado de valores mobiliários – Exercício de voto pelos acionistas controladores da companhia – Abuso de poder… | crsfn-4779 | fichas/crsfn/2005-02.md |
+| 01/8045 | acordao-crsfn | 2004-04-28 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários - Publicação de demonstração financeiras sem o competente parecer de… | crsfn-4507 | fichas/crsfn/2004-01.md |
+| 01/8280 | acordao-crsfn | 2005-11-09 | RECURSOS VOLUNTÁRIO E DE OFÍCIO – Mercado de valores mobiliários – Apresentação dos demonstrativos financeiros da companhia sem o… | crsfn-4731 | fichas/crsfn/2005-02.md |
+| 02-7539 | acordao-crsfn | 2008-04-28 | RECURSOS VOLUNTÁRIO E DE OFÍCIO – Mercado de valores mobiliários – Falta de comunicação, à autoridade fiscalizadora, de realização de… | crsfn-5590 | fichas/crsfn/2008-02.md |
+| 02/1153 | acordao-crsfn | 2004-01-21 | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Artigo 115 da Lei 6404/76 - Assembléia Geral - Conflito de interesses - Exercício de… | crsfn-4585 | fichas/crsfn/2004-01.md |
+| 0002/2009 | acordao-crsfn | 2014-10-21 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Concessão irregular de financiamento para realização de operações no mercado de opções… | crsfn-13527 | fichas/crsfn/2014-07.md |
+| 02/6032 | acordao-crsfn | 2008-04-28 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Fundo de investimento – Assembléia geral – Omissão nos itens da convocação dos… | crsfn-9790 | fichas/crsfn/2008-02.md |
+| 0003/2006 | acordao-crsfn | 2014-11-25 | RECURSO DE OFÍCIO - Mercado de valores mobiliários - Realização de operações fraudulentas – Uso de práticas não equitativas - Criação de… | crsfn-13256 | fichas/crsfn/2014-08.md |
+| 0003/2008 | acordao-crsfn | 2015-04-28 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Prática de irregularidades que poderiam acarretar transferência indireta do controle… | crsfn-13078 | fichas/crsfn/2015-01.md |
+| 0004/2004 | acordao-crsfn | 2014-11-25 | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Utilização de informação privilegiada em processo de reestruturação… | crsfn-10979 | fichas/crsfn/2014-07.md |
+| 05/4215 | acordao-crsfn | 2007-11-22 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falta de prestação de informações à autoridade fiscalizadora da área – Impossibilidade… | crsfn-9249 | fichas/crsfn/2007-02.md |
+| 05/8528 | acordao-crsfn | 2011-05-31 | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Falta de a) apresentação das informações periódicas e de manutenção… | crsfn-11646 | fichas/crsfn/2011-02.md |
+| 05/9245 | acordao-crsfn | 2009-12-14 | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Fundos de Investimento - Aplicação em valores superiores ao permitido pelas normas… | crsfn-11438 | fichas/crsfn/2009-07.md |
+| 0006/2004 | acordao-crsfn | 2014-10-21 | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Criação de condições artificiais de demanda, oferta ou preço… | crsfn-13285 | fichas/crsfn/2014-07.md |
+| 0007/2004 | acordao-crsfn | 2014-12-09 | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Prática não equitativa - Uso de informação privilegiada em compra… | crsfn-11751 | fichas/crsfn/2014-08.md |
+| 09 | acordao-crsfn | 1996-05-15 | RECURSO DE OFÍCIO. Criação de condições artificiais de demanda, oferta ou preços de valores mobiliários. Infringência à Instrução Normativa… | crsfn-1649 | fichas/crsfn/1996-01.md |
+| 10/9078 | acordao-crsfn | 2015-07-28 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Suposta inobservância do direito de preferência dos acionistas para adquirir ações de… | crsfn-13360 | fichas/crsfn/2015-03.md |
+| 10/11352 | acordao-crsfn | 2017-09-11 | RECURSOS VOLUNTÁRIOS. Falta de atualização do cadastro da companhia perante a CVM. Não elaboração de demonstrações financeiras. Não… | crsfn-13414 | fichas/crsfn/2017-12.md |
+| 0012/2004 | acordao-crsfn | 2014-10-21 | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Realização de operações fraudulentas - Criação de condições… | crsfn-13223 | fichas/crsfn/2014-06.md |
+| 13/92; | acordao-crsfn | 1996-03-13 | RECURSO DE OFÍCIO. Prática não equitativa no mercado de valores mobiliários. Falta de registros de ordens de negociação. Infrações às… | crsfn-1550 | fichas/crsfn/1996-01.md |
+| 14-2006 | acordao-crsfn | 2013-11-26 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Realização de operações fraudulentas (aquisição de ações e lançamento de opções de… | crsfn-13189 | fichas/crsfn/2013-06.md |
+| 0019/2006 | acordao-crsfn | 2014-10-21 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Uso de informação privilegiada relacionada a negócios com ações realizados em período… | crsfn-13233 | fichas/crsfn/2014-06.md |
+| 0019/2009 | acordao-crsfn | 2014-11-25 | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Utilização de informações ainda não divulgadas ao mercado, relativas a… | crsfn-13311 | fichas/crsfn/2014-08.md |
+| 0021/2005 | acordao-crsfn | 2014-11-25 | RECURSO DE OFÍCIO - Mercado de valores mobiliários - Utilização de informação relevante ainda não divulgada ao mercado na aquisição de… | crsfn-13228 | fichas/crsfn/2014-07.md |
+| 0022/2005 | acordao-crsfn | 2014-11-25 | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO: Mercado de valores mobiliários – Administração de fundos de investimento – Contabilização errônea de… | crsfn-12444 | fichas/crsfn/2014-07.md |
+| 23-2000 | acordao-crsfn | 2014-04-15 | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Práticas não equitativas – Realização de operações fraudulentas - Criação de condições… | crsfn-13180 | fichas/crsfn/2014-03.md |
+| 0028/2005 | acordao-crsfn | 2015-06-30 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Práticas não equitativas –Alienação de participação acionária de fundo de pensão em… | crsfn-11267-2 | fichas/crsfn/2015-02.md |
+| 90/0474-2 | acordao-crsfn | 2000-09-29 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Agente autônomo de investimento – Falta de configuração de exercício irregular… | crsfn-2818 | fichas/crsfn/2000-04.md |
+| 91/0238-8 | acordao-crsfn | 1998-02-17 | RECURSO DE OFÍCIO. Mercado de valores mobiliários - Fichas cadastrais de clientes - Preenchimento incompleto (nome da empresa, dos… | crsfn-2286 | fichas/crsfn/1998-01.md |
+| 91/1181-6 | acordao-crsfn | 1996-02-15 | RECURSO DE OFÍCIO. Ausência de registro de ordens no relógio datador. Registro de ordens fora do horário normal de mercado. Ausência de… | crsfn-1581 | fichas/crsfn/1996-01.md |
+| 91/1263-4 | acordao-crsfn | 1998-09-22 | RECURSO DE OFÍCIO. Mercado de Valores Mobiliários - Falta de adequados controles de registro, execução e distribuição de ordens de… | crsfn-2556 | fichas/crsfn/1998-03.md |
+| 91/1484-0 | acordao-crsfn | 1998-01-28 | RECURSOS VOLUNTÁRIOS. Mercado de Valores Mobiliários - Fichas cadastrais com dados incompletos ou incorretos - Execução de operações sem… | crsfn-2310 | fichas/crsfn/1998-01.md |
+| 91/1566-8 | acordao-crsfn | 1998-02-17 | RECURSO VOLUNTÁRIO. Mercado de valores mobiliários - Incorreto preenchimento de ordens e de cadastro de clientes - Registro de ordens de… | crsfn-2317 | fichas/crsfn/1998-01.md |
+| 91/1640-0 | acordao-crsfn | 1997-12-10 | RECURSO VOLUNTÁRIO: Mercado de Valores Mobiliários - Fichas cadastrais com dados incompletos ou incorretos quanto à identificação do… | crsfn-2325 | fichas/crsfn/1997-02.md |
+| 91/1847-0 | acordao-crsfn | 1998-03-25 | RECURSO DE OFÍCIO. Mercado de Valores Mobiliários - Falhas nos mecanismos de controle internos, inclusive no cadastro de clientes… | crsfn-1969 | fichas/crsfn/1998-01.md |
+| 92/1330-9 | acordao-crsfn | 1997-10-30 | RECURSO DE OFÍCIO. Comissão de Valores Mobiliários - CVM - Preenchimento de fichas cadastrais com ausência de informações do nome e… | crsfn-2284 | fichas/crsfn/1997-01.md |
+| 92/1841 | acordao-crsfn | 1999-03-25 | RECURSO DE OFÍCIO – Mercado de Valores Mobiliários – Fichas Cadastrais – Falhas de preenchimento e controle – Irregularidade caracterizada… | crsfn-2577 | fichas/crsfn/1999-01.md |
+| 95/0357 | acordao-crsfn | 1998-04-28 | RECURSOS VOLUNTÁRIOS. Mercado de Valores Mobiliários - Operação de "box" em bolsa de valores - Atuação do administrador do fundo de… | crsfn-2355 | fichas/crsfn/1998-01.md |
+| 95/0357 | acordao-crsfn | 1999-10-28 | RECURSO DE OFÍCIO – Mercado de Valores Mobiliários – Fundo de investimento – Operação de box em bolsa de valores – Atuação do administrador… | crsfn-2355-2 | fichas/crsfn/1999-03.md |
+| 95/0778 | acordao-crsfn | 1997-12-10 | RECURSO DE OFÍCIO - Mercado de Valores Mobiliários - Atuação indireta do administrador na contraparte de fundo de investimento, sem estar a… | crsfn-2283 | fichas/crsfn/1997-02.md |
+| 95/1449 | acordao-crsfn | 1998-01-28 | RECURSOS VOLUNTÁRIOS. Mercado de valores mobiliários - Realização de operações conjugadas em bolsa (compra e venda de ações), tendo o… | crsfn-2342 | fichas/crsfn/1998-01.md |
+| 95/2171 | acordao-crsfn | 1998-06-25 | RECURSOS VOLUNTARIOS. Mercado de Valores Mobiliários - Operações de "box", tendo a instituição financeira atuado contraparte do fundo que… | crsfn-2287 | fichas/crsfn/1998-02.md |
+| 95/3243 | acordao-crsfn | 2000-05-30 | RECURSOS VOLUNTÁRIOS – Mercado de valores mobiliários – Fundo de investimento – Excesso do limite de aplicações em ações de uma mesma… | crsfn-2705 | fichas/crsfn/2000-02.md |
+| 95/4251 | acordao-crsfn | 1999-06-22 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Aquisição de debêntures com taxa de remuneração – Aquisição vedada a carteiras do… | crsfn-2619 | fichas/crsfn/1999-01.md |
+| 95/4538 | acordao-crsfn | 1999-05-26 | RECURSO DE OFÍCIO – Mercado de Valores Mobiliários – Falta de remessa, à CVM, de informações periódicas relativas ao ano de 1995 – Não… | crsfn-2626 | fichas/crsfn/1999-01.md |
+| 95/4542 | acordao-crsfn | 2000-07-28 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falta de prestação de informações obrigatórias à CVM (Instrução CVM 202/93, arts. 16 e… | crsfn-2894 | fichas/crsfn/2000-03.md |
+| 95/4641 | acordao-crsfn | 1999-06-22 | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Falta de envio de informações obrigatórias à CVM referentes a exercício social… | crsfn-2600 | fichas/crsfn/1999-01.md |
+| 95/4673 | acordao-crsfn | 1998-07-30 | RECURSOS VOLUNTÁRIOS. Mercado de Valores Mobiliários - Atuação do administrador de fundo de investimento como contraparte sem autorização… | crsfn-2480 | fichas/crsfn/1998-02.md |
+| 95/4692 | acordao-crsfn | 1998-07-30 | RECURSO DE OFÍCIO. Mercado de Valores Mobiliários - Realização de operações no mercado tendo como contraparte o administrador da carteira… | crsfn-2508 | fichas/crsfn/1998-02.md |
+| 96/0504 | acordao-crsfn | 1999-08-31 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falhas na distribuição de ordens – Ausência de manipulação nos negócios – Recurso… | crsfn-2735 | fichas/crsfn/1999-02.md |
+| 96/1829 | acordao-crsfn | 1998-10-29 | RECURSO DE OFÍCIO. Mercado de Valores Mobiliários - Atuação como contraparte na aquisição de ações sem anuência do titular da carteira… | crsfn-2536 | fichas/crsfn/1998-03.md |
+| 96/1905 | acordao-crsfn | 1998-06-25 | RECURSO DE OFÍCIO. Mercado de Valores Mobiliários - Falta de tempestiva remessa à CVM da relação de quotistas provenientes de Fundos… | crsfn-2504 | fichas/crsfn/1998-02.md |
+| 96/2035 | acordao-crsfn | 1998-06-25 | RECURSO DE OFÍCIO. Mercado de Valores Mobiliários - Falta de remessa tempestiva à CVM de informações anuais sobre empresas sujeitas a… | crsfn-2478 | fichas/crsfn/1998-02.md |
+| 96/2040 | acordao-crsfn | 1998-07-30 | RECURSO VOLUNTÁRIO. Mercado de Valores Mobiliários - Auditor independente - Falta de tempestiva remessa de informações periódicas exigidas… | crsfn-2506 | fichas/crsfn/1998-02.md |
+| 96/2042 | acordao-crsfn | 1998-10-29 | RECURSO VOLUNTÁRIO. Mercado de Valores Mobiliários – Auditor independente – Falta de remessa, à CVM, de informações periódicas exigidas… | crsfn-2550 | fichas/crsfn/1998-04.md |
+| 96/2044 | acordao-crsfn | 1998-07-30 | RECURSO DE OFÍCIO. Mercado de Valores Mobiliários - Auditor independente - Falta de tempestiva remessa de informações periódicas (Instrução… | crsfn-2479 | fichas/crsfn/1998-02.md |
+| 96/2053 | acordao-crsfn | 1998-06-25 | RECURSO DE OFÍCIO. Mercado de Valores Mobiliários - Falta de remessa tempestiva à CVM de informações anuais sobre empresas sujeitas a… | crsfn-2487 | fichas/crsfn/1998-02.md |
+| 96/2055 | acordao-crsfn | 1999-07-29 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Auditor independente – Remessa de informações e pagamento de taxa de fiscalização à… | crsfn-2564 | fichas/crsfn/1999-01.md |
+| 96/2066 | acordao-crsfn | 1998-10-29 | RECURSO VOLUNTÁRIO. Mercado de Valores Mobiliários – Auditor independente – Falta de tempestiva remessa, à CVM, de informações anuais sobre… | crsfn-2534 | fichas/crsfn/1998-03.md |
+| 96/2076 | acordao-crsfn | 1998-10-29 | RECURSO VOLUNTÁRIO. Mercado de Valores Mobiliários – Auditor independente – Falta de tempestiva remessa, à CVM, de informações anuais sobre… | crsfn-2538 | fichas/crsfn/1998-04.md |
+| 96/2086 | acordao-crsfn | 1999-08-31 | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Atraso no envio à CVM de demonstrações financeiras, de sumário de decisões tomadas em… | crsfn-2562 | fichas/crsfn/1999-02.md |
+| 96/3234 | acordao-crsfn | 1999-01-28 | RECURSOS VOLUNTÁRIOS – Mercado de Valores Mobiliários – Fundo fiscal de investimento (Decreto-lei n° 157/67) – Reclamação de investidor… | crsfn-2575 | fichas/crsfn/1999-01.md |
+| 96/3607 | acordao-crsfn | 1998-11-24 | RECURSOS VOLUNTÁRIOS. Mercado de Valores Mobiliários – Fundo fiscal de investimento (Decreto-Lei 157/67) – Reclamação de investidor quanto… | crsfn-2580 | fichas/crsfn/1998-04.md |
+| 96/4258 | acordao-crsfn | 1999-06-22 | [pessoa física] – Mercados de valores mobiliários – Atuação com contraparte em operações com as carteiras administradas – Irregularidade… | crsfn-2623 | fichas/crsfn/1999-01.md |
+| 96/4367 | acordao-crsfn | 1998-11-24 | RECURSOS VOLUNTÁRIOS. Mercado de Valores Mobiliários – Falta de tempestiva remessa, à CVM, de informações periódicas exigidas pelas normas… | crsfn-2582 | fichas/crsfn/1998-04.md |
+| 96/4461 | acordao-crsfn | 2000-10-10 | RECURSOS VOLUNTÁRIOS – Mercado de valores mobiliários – Derivativos – Realização de operações de financiamento com opções de venda de ações… | crsfn-2615 | fichas/crsfn/2000-05.md |
+| 96/4591 | acordao-crsfn | 1999-08-31 | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Fundo de investimento – Resgate de cotas – Questionamento formulado pelo investidor… | crsfn-2851 | fichas/crsfn/1999-02.md |
+| 97/0065 | acordao-crsfn | 1999-07-29 | RECURSO DE OFÍCIO - Mercado de valores mobiliários - Auditor Independente – Responsável técnico – Indicação de número de profissional não… | crsfn-2617 | fichas/crsfn/1999-01.md |
+| 97/0161 | acordao-crsfn | 1999-10-28 | RECURSO DE OFÍCIO - Mercado de Valores Mobiliários – Bolsa de valores – Realização de negócios com um mesmo comitente, em um ou mais… | crsfn-2840 | fichas/crsfn/1999-03.md |
+| 97/0706 | acordao-crsfn | 1999-11-25 | RECURSO DE OFÍCIO – Falta de remessa, a requerentes (pessoas físicas e jurídicas), da relação de acionistas da instituição financeira a que… | crsfn-2979 | fichas/crsfn/1999-04.md |
+| 97/0841 | acordao-crsfn | 1999-09-30 | RECURSO VOLUNTÁRIO - Mercado de valores mobiliários – Fundo de investimento - Não fornecimento a quotistas de exemplar do Regimento do… | crsfn-2630 | fichas/crsfn/1999-02.md |
+| 97/0873 | acordao-crsfn | 1999-07-29 | RECURSO DE OFÍCIO - Mercado de Valores Mobiliários – Auditor Independente – Falta de registro na CVM da empresa de auditoria – Acolhimento… | crsfn-2613 | fichas/crsfn/1999-01.md |
+| 97/1157 | acordao-crsfn | 1999-12-27 | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Fundo de investimento – Realização de operações em bolsa de valores – Atuação como… | crsfn-2878 | fichas/crsfn/1999-04.md |
+| 97/1655 | acordao-crsfn | 1999-08-31 | RECURSO VOLUNTÁRIO - Mercado de valores mobiliários – Fundo de investimento – Falta de tempestivo encaminhamento, à CVM, de demonstrações… | crsfn-2688 | fichas/crsfn/1999-02.md |
+| 97/1669 | acordao-crsfn | 1999-10-28 | RECURSO DE OFÍCIO - Mercado de Valores Mobiliários – Auditor independente – Assinatura de pareceres por profissional não cadastrado na… | crsfn-2780 | fichas/crsfn/1999-03.md |
+| 97/1853 | acordao-crsfn | 1999-07-29 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Fundos de investimento – Falta de remessa à CVM de exemplar de informações fornecidas… | crsfn-2736 | fichas/crsfn/1999-01.md |
+| 97/1854 | acordao-crsfn | 1999-07-29 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falta de remessa à CVM de exemplar de informações fornecidas aos quotistas – Infração… | crsfn-2825 | fichas/crsfn/1999-02.md |
+| 97/1858 | acordao-crsfn | 1999-07-29 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Fundo de investimento – Falta de remessa à CVM de exemplar de informações fornecidas… | crsfn-2727 | fichas/crsfn/1999-01.md |
+| 97/2956 | acordao-crsfn | 2000-09-29 | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Falta de prestação, à CVM, de informações previstas em norma regulamentar ( Instrução… | crsfn-2782 | fichas/crsfn/2000-04.md |
+| 97/3001 | acordao-crsfn | 1999-11-25 | RECURSO VOLUNTÁRIO - Mercado de valores mobiliários – Falta de remessa, à CVM, de dados acerca da companhia – Falência – Infração… | crsfn-2810 | fichas/crsfn/1999-03.md |
+| 97/3122 | acordao-crsfn | 1999-11-25 | RECURSO VOLUNTÁRIO - Mercado de valores mobiliários – Falta de tempestiva remessa, à CVM, de informações atualizadas sobre o registro de… | crsfn-2806 | fichas/crsfn/1999-03.md |
+| 97/3413 | acordao-crsfn | 1999-09-30 | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Falta de remessa de informações periódicas previstas em normativo regulamentar… | crsfn-2837 | fichas/crsfn/1999-03.md |
+| 97/3926 | acordao-crsfn | 2000-05-30 | RECURSOS VOLUNTÁRIOS – Mercado de valores mobiliários – Fundo de investimento em ações – Rentabilidade nominal mensal assemelhada à de… | crsfn-2858 | fichas/crsfn/2000-02.md |
+| 98/0151 | acordao-crsfn | 2000-04-27 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários – Opções – Descumprimento de ordem verbal dada por cliente… | crsfn-2939 | fichas/crsfn/2000-01.md |
+| 98/0159 | acordao-crsfn | 2000-07-28 | RECURSOS VOLUNTÁRIOS – Mercado de valores mobiliários – Falta de informações sobre identificação e qualificação dos clientes… | crsfn-2988 | fichas/crsfn/2000-04.md |
+| 98/0432 | acordao-crsfn | 2002-02-27 | RECURSOS VOLUNTÁRIOS - Mercado de valores mobiliários – Incorreto preenchimento de fichas cadastrais de clientes – Falta de observância das… | crsfn-3383 | fichas/crsfn/2002-01.md |
+| 98/3428 | acordao-crsfn | 1999-08-31 | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Fundo de investimento – Falta de encaminhamento, à CVM, dos exemplares das informações… | crsfn-2907 | fichas/crsfn/1999-02.md |
+| 98/3429 | acordao-crsfn | 1999-08-31 | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Fundo de investimento – Falta de encaminhamento, à CVM, dos exemplares das informações… | crsfn-2899 | fichas/crsfn/1999-02.md |
+| 98/3430 | acordao-crsfn | 1999-11-25 | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Fundo de investimento – Falta de remessa, à CVM, de informações atualizadas aos… | crsfn-2910 | fichas/crsfn/1999-03.md |
+| 98/3431 | acordao-crsfn | 2000-07-28 | RECURSOS VOLUNTÁRIOS – Mercado de valores mobiliários - Fundo de investimento – Falta de envio, à CVM, das informações aos quotistas dos… | crsfn-2898 | fichas/crsfn/2000-03.md |
+| 98/3547 | acordao-crsfn | 2000-04-27 | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Fundo mútuo de investimento – Falta de divulgação de fato relevante aos cotistas… | crsfn-2945 | fichas/crsfn/2000-02.md |
+| 98/4141 | acordao-crsfn | 1999-11-25 | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Fundo de investimento – Falta de remessa, à CVM, de informações atualizadas relativas… | crsfn-2918 | fichas/crsfn/1999-03.md |
+| 98/4411 | acordao-crsfn | 2000-12-15 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falta de tempestiva remessa, à CVM, de informações obrigatórias previstas em normativo… | crsfn-2936 | fichas/crsfn/2000-07.md |
+| 98/4578 | acordao-crsfn | 2000-05-30 | RECURSO DE OFÍCIO – Falta de envio de informações obrigatórias à CVM (Instrução 202/93) – Exercícios de 1997 e 1998 – Acolhimento das… | crsfn-2992 | fichas/crsfn/2000-02.md |
+| 98/4801 | acordao-crsfn | 2000-05-30 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Ausência de fornecimento, à CVM, de informações semestrais – (Instrução CVM 202 – art… | crsfn-2987 | fichas/crsfn/2000-02.md |
+| 98/4802 | acordao-crsfn | 1999-11-25 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Fundo de investimento – Falta de remessa, à CVM, de informações atualizadas relativas… | crsfn-2975 | fichas/crsfn/1999-04.md |
+| 98/4845 | acordao-crsfn | 2000-06-15 | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Auditoria independente – Relatório de revisão – Assinatura por profissional não… | crsfn-2984 | fichas/crsfn/2000-03.md |
+| 98/4849 | acordao-crsfn | 1999-11-25 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falta de tempestiva remessa, à CVM, de informações atualizadas sobre registro da… | crsfn-2965 | fichas/crsfn/1999-04.md |
+| 98/4852 | acordao-crsfn | 2000-03-23 | RECURSO DE OFÍCIO – Falta de adoção de procedimentos e de envio de informações periódicas na forma prevista em norma regulamentar… | crsfn-2957 | fichas/crsfn/2000-01.md |
+| 98/4853 | acordao-crsfn | 2000-02-25 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Intempestiva prestação de informações previstas em norma regulamentar (art. 16 da… | crsfn-2943 | fichas/crsfn/2000-01.md |
+| 98/4854 | acordao-crsfn | 2000-04-27 | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Não fornecimento de informações obrigatórias à autoridade supervisora (Instrução CVM… | crsfn-2985 | fichas/crsfn/2000-02.md |
+| 98/5287 | acordao-crsfn | 2000-07-28 | RECURSOS VOLUNTÁRIOS – Mercado de valores mobiliários – Fundo de investimento – Existência de quotistas detentores de posição superior a… | crsfn-3060 | fichas/crsfn/2000-04.md |
+| 98/5607 | acordao-crsfn | 1999-11-25 | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Falta de tempestivo envio, à CVM, de informações atualizadas acerca do registro da… | crsfn-2942 | fichas/crsfn/1999-04.md |
+| 98/5615 | acordao-crsfn | 2000-12-15 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falta de tempestiva remessa, à CVM, de informações obrigatórias previstas em normativo… | crsfn-2976 | fichas/crsfn/2000-07.md |
+| 98/5638 | acordao-crsfn | 1999-07-29 | RECURSO DE OFÍCIO – Comissão de Valores Mobiliários - Falta de remessa à CVM de exemplar de informações fornecidas aos quotistas… | crsfn-2937 | fichas/crsfn/1999-02.md |
+| 98/5639 | acordao-crsfn | 2000-06-15 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falta de prestação de informações obrigatórias à CVM (instrução CVM 202/93, art. 16)… | crsfn-2997 | fichas/crsfn/2000-03.md |
+| 98/5666 | acordao-crsfn | 1999-11-25 | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Falta de remessa, à CVM, de informações atualizadas sobre registro da companhia… | crsfn-2968 | fichas/crsfn/1999-04.md |
+| 98/5672 | acordao-crsfn | 2000-05-30 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falta de envio à CVM de informações obrigatórias (Instrução CVM 202 – art. 116)… | crsfn-2994 | fichas/crsfn/2000-02.md |
+| 98/5675 | acordao-crsfn | 1999-12-15 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falta de tempestiva remessa, à CVM, de informações atualizadas da companhia… | crsfn-2963 | fichas/crsfn/1999-04.md |
+| 98/5771 | acordao-crsfn | 2000-06-15 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falta de prestação de informações obrigatórias à CVM (Instrução CVM 202/93, art. 16)… | crsfn-3009 | fichas/crsfn/2000-03.md |
+| 98/5796 | acordao-crsfn | 2000-06-15 | RECURSO DE OFÍCIO – Mercado de valores de mobiliários – Fundo de investimento – Grau de risco das aplicações – Comprovação de notícia aos… | crsfn-3010 | fichas/crsfn/2000-03.md |
+| 99/0847 | acordao-crsfn | 2000-05-30 | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Falta de indicação de diretor responsável pela carteira de valores mobiliária… | crsfn-2989 | fichas/crsfn/2000-02.md |
+| 99/1052 | acordao-crsfn | 2000-05-30 | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Descumprimento de obrigações mínimas de intermediários bursáteis – Intempestividade… | crsfn-3014 | fichas/crsfn/2000-02.md |
+| 99/1053 | acordao-crsfn | 2000-09-29 | RECURSOS VOLUNTÁRIOS - Mercado de valores mobiliários – Ausência de assinaturas das fichas cadastrais – Irregularidade caracterizada… | crsfn-3057 | fichas/crsfn/2000-05.md |
+| 99/1885 | acordao-crsfn | 2000-10-10 | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Falta de remessa, à CVM, de informações sobre a empresa (liquidanda) administrada… | crsfn-3041 | fichas/crsfn/2000-06.md |
+| 99/1886 | acordao-crsfn | 2000-11-23 | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Falta de tempestiva remessa de informações periódicas previstas em normativo… | crsfn-3175 | fichas/crsfn/2000-07.md |
+| 99/1887 | acordao-crsfn | 2001-06-20 | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Falta de envio, à CVM, de informações exigidas em normativo regulamentar (Instrução… | crsfn-3567 | fichas/crsfn/2001-02.md |
+| 99/1945 | acordao-crsfn | 2000-11-07 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falta de remessa, à CVM, de informações exigidas em normativo regulamentar (Instrução… | crsfn-3171 | fichas/crsfn/2000-06.md |
+| 99/1946 | acordao-crsfn | 2000-09-29 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falta de remessa, à CVM, das informações exigidas em normativo regulamentar (… | crsfn-3149 | fichas/crsfn/2000-05.md |
+| 99/3168 | acordao-crsfn | 2000-05-30 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falta de apresentação, à CVM, dos exemplares das informações semestrais fornecidas aos… | crsfn-3031 | fichas/crsfn/2000-02.md |
+| 99/3170 | acordao-crsfn | 2000-09-29 | RECURSOS VOLUNTÁRIOS – Mercado de valores mobiliários – Fundo de investimento – Falta de remessa, à CVM, de exemplar das informações… | crsfn-3059 | fichas/crsfn/2000-05.md |
+| 0527 | acordao-crsfn | 1999-06-22 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falhas nos registros cadastrais – Realização de negócios antes do registro das… | crsfn-2587 | fichas/crsfn/1999-01.md |
+| 1998/4733 | acordao-crsfn | 2005-03-29 | RECURSOS VOLUNTÁRIOS – Mercado de valores mobiliários – Cadastramento de cliente – Falta de zelo e diligência no trato de documentação… | crsfn-6019 | fichas/crsfn/2005-01.md |
+| 2002/1173 | acordao-crsfn | 2008-04-28 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Realização de contrato de transferência de serviços de call center… | crsfn-5936 | fichas/crsfn/2008-02.md |
+| 2002/1823 | acordao-crsfn | 2009-03-19 | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Abuso de poder – Pagamento de comissões de representação comercial sem efetiva… | crsfn-8549 | fichas/crsfn/2009-02.md |
+| 2004/123 | acordao-crsfn | 2008-04-28 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Vendas de ações à revelia do proprietário (espólio) – Atuação diligente dos indiciados… | crsfn-6186 | fichas/crsfn/2008-02.md |
+| 2005-2793 | acordao-crsfn | 2008-06-12 | RECURSOS VOLUNTÁRIO E DE OFÍCIO – Mercado de valores mobiliários – Falta de simultânea divulgação no País de informações adicionais às… | crsfn-9603 | fichas/crsfn/2008-03.md |
+| 2008/11 | acordao-crsfn | 2017-07-25 | RECURSO DE OFÍCIO. Insider trading secundário. Configuração das infrações. Multa. | crsfn-13454 | fichas/crsfn/2017-11.md |
+| 2008/9574 | acordao-crsfn | 2017-02-07 | Recurso de Ofício. Descumprimento do dever de diligência - Recurso desprovido - Arquivamentos confirmados. | crsfn-13594 | fichas/crsfn/2017-01.md |
+| 2010/11351 | acordao-crsfn | 2015-10-20 | RECURSO(S) VOLUNTÁRIO(S)– Mercado de valores mobiliários – Falta de elaboração, dentro do prazo legal, de demonstrações financeiras – Não… | crsfn-13616 | fichas/crsfn/2015-05.md |
+| 2010/12041 | acordao-crsfn | 2017-04-18 | Recursos Voluntários. Convocação intempestiva e não convocação de assembleias gerais ordinárias. Situação de dificuldade financeira não… | crsfn-13704 | fichas/crsfn/2017-05.md |
+| 2011/14269 | acordao-crsfn | 2017-02-08 | Recurso de Ofício. Deixar de prestar informações sobre contrato de mútuo em notas explicativas às demonstrações financeiras - Recurso… | crsfn-13749 | fichas/crsfn/2017-02.md |
+| 2012/03 | acordao-crsfn | 2018-10-19 | RECURSOS VOLUNTÁRIOS. Descumprimento de deveres fiduciários por diretores. Não observância do estatuto social e das alçadas de competências… | crsfn-10372-100002-2018-61 | fichas/crsfn/2018-08.md |
+| 03809/01 | acordao-crsfn | 2003-06-25 | RECURSO VOLUNTÁRIO – Intermediação dissimulada mediante compra reiterada seguida de alienação em bolsa de valores - Irregularidade… | crsfn-4183 | fichas/crsfn/2003-02.md |
+| 0501291250 | acordao-crsfn | 2010-06-22 | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Falta de envio de informações obrigatórias periódicas e eventuais à autoridade… | crsfn-11745 | fichas/crsfn/2010-06.md |
+| -02/2010 | acordao-crsfn | 2016-06-28 | RECURSO DE OFÍCIO - utilização de informações relevantes ainda não divulgadas ao mercado - Irregularidades não caracterizadas – Recurso de… | crsfn-10372-000688-2016-29 | fichas/crsfn/2016-05.md |
+| CVM13/05 | acordao-crsfn | 2017-06-27 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Práticas não equitativas. Registro de ordens de operação no mercado de valores mobiliários sem a correta… | crsfn-13453 | fichas/crsfn/2017-09.md |
+| CVM17/2006 | acordao-crsfn | 2016-12-13 | PEDIDO DE ESCLARECIMENTOS. Prazo para interposição conta-se da data de divulgação do acórdão no site do Conselho, conforme disposição… | crsfn-monocratica-13977 | fichas/crsfn/2016-10.md |
+| CVM178/2010 | acordao-crsfn | 2017-05-24 | Recursos Voluntários. Mercado de valores mobiliários - Uso de prática não equitativa - Falta de diligência no cumprimento e na execução de… | crsfn-14048 | fichas/crsfn/2017-08.md |
+| CVM2012/869 | acordao-crsfn | 2017-03-14 | Recursos Voluntários. Descumprimento do dever de diligência - Adquirir ativos financeiros sem a classificação definitiva emitida pela… | crsfn-13750 | fichas/crsfn/2017-03.md |
+| IS-2003-19 | acordao-crsfn | 2013-03-26 | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Emissão de debêntures – Abuso de poder por parte do controlador da… | crsfn-11833 | fichas/crsfn/2013-01.md |
+| RJ–2001-4474 | acordao-crsfn | 2009-10-27 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários – Abuso e desvio de poder e descumprimento do dever de diligência… | crsfn-8257 | fichas/crsfn/2009-07.md |
+| RJ–2002-397 | acordao-crsfn | 2009-09-30 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Realização de operações fraudulentas, com utilização de práticas não… | crsfn-5632 | fichas/crsfn/2009-05.md |
+| RJ–2005-8604 | acordao-crsfn | 2012-02-13 | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Falta de convocação e de realização de assembleias gerais ordinárias… | crsfn-12039 | fichas/crsfn/2012-01.md |
+| RJ–2005-9823 | acordao-crsfn | 2011-05-31 | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Auditoria independente - Descumprimento de normas emanadas do Conselho Federal… | crsfn-11247 | fichas/crsfn/2011-01.md |
+| RJ–2006-4663 | acordao-crsfn | 2013-10-30 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Fundo de investimento – Não apresentação de termo de adesão devidamente assinado pelo… | crsfn-11828 | fichas/crsfn/2013-05.md |
+| RJ–2007-14044 | acordao-crsfn | 2012-08-13 | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Quebra do dever de sigilo – Omissão de Fato Relevante – Falta de divulgação de… | crsfn-12506 | fichas/crsfn/2012-04.md |
+| Recurso 4166 | acordao-crsfn | 2004-08-18 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários - Distribuição de Contratos de Investimento Coletivo-CIC antes de… | crsfn-4166 | fichas/crsfn/2004-03.md |
+| Recurso 4222 | acordao-crsfn | 2003-10-29 | RECURSOS VOLUNTÁRIO E DE OFÍCIO – Mercado de valores mobiliários - Fundo de investimento imobiliário - Conflito de interesses entre… | crsfn-4222 | fichas/crsfn/2003-04.md |
+| Recurso 4989 | acordao-crsfn | 2004-10-20 | RECURSOS VOLUNTÁRIOS - Mercado de valores mobiliários – Auditoria independente – Não realização de estudo e avaliação do sistema contábil e… | crsfn-4989 | fichas/crsfn/2004-04.md |
+| Recurso 5441 | acordao-crsfn | 2004-12-14 | RECURSOS VOLUNTÁRIOS - Mercado de valores mobiliários – Venda de ações sem liquidez a fundo de previdência complementar – Preço agiado… | crsfn-5441 | fichas/crsfn/2004-05.md |
+| Recurso 5655 | acordao-crsfn | 2006-03-30 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Destinação dos recursos captados em desacordo com o previsto nos… | crsfn-5655 | fichas/crsfn/2006-01.md |
+| Recurso 5953 | acordao-crsfn | 2005-11-09 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Fundo de investimento – Falta de apresentação e não publicação de parecer dos… | crsfn-5953 | fichas/crsfn/2005-02.md |
+| Recurso 5955 | acordao-crsfn | 2005-02-23 | RECURSO DE OFÍCIO – Mercado de valores mobiliários - Fundos de investimentos em ações - Desenquadramento de carteira - Chancela da… | crsfn-5955 | fichas/crsfn/2005-01.md |
+| Recurso 8250 | acordao-crsfn | 2006-06-28 | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Indevido exercício de atividade de intermediação – Falta de habitualidade… | crsfn-8250 | fichas/crsfn/2006-01.md |
+| Recurso SEI 0372.000645/2016-43 | acordao-crsfn | 2016-06-28 | RECURSO VOLUNTÁRIO– Mercado de valores mobiliários – Diretor de Relações com Investidores (DRI) - Falta de comunicação tempestiva à… | crsfn-recurso-sei-0372-000645-2016-43 | fichas/crsfn/2016-05.md |
+| SP–2001-0204 | acordao-crsfn | 2010-04-29 | RECURSO DE OFÍCIO – Mercado de valores mobiliários - Exercício de práticas vedadas a agente autônomo – Irregularidade não caracterizada… | crsfn-11241 | fichas/crsfn/2010-03.md |
+| TARJ2001/7557 | termo-compromisso | 2004-07-02 | O Colegiado não aceitou propostas de Termo de Compromisso para suspender o PAS TARJ2001/7557, apresentadas por pessoas físicas e por uma… | cvm-col-20040702-d03 | fichas/tc/2004-01.md |
+| TASP2001/0034 | termo-compromisso | 2004-07-13 | O Colegiado indeferiu proposta de Termo de Compromisso apresentada por um proponente para suspender o PAS CVM nº TASP2001/0034, contra… | cvm-col-20040713-d04 | fichas/tc/2004-01.md |
+| – | acordao-crsfn | 2007-04-25 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Realização de operações fraudulentas, consistentes no uso de documentos… | crsfn-5532 | fichas/crsfn/2007-01.md |
+| – | acordao-crsfn | 2007-03-28 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Criação de condições artificiais de demanda, oferta ou preço nos negócios realizados… | crsfn-9428 | fichas/crsfn/2007-01.md |
 
 Fim do subíndice.

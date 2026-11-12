@@ -11,15 +11,15 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 7º | pas | SP2010/049 | 2013-11-12 | absolvicao | cvm-pas-sp2010-0049 | fichas/pas/2013-05.md |
+| art. 7º | pas | SP2010/049 | 2013-11-12 | absolvicao | cvm-pas-sp2010-0049 | fichas/pas/2013-10.md |
 
 ## Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 12/2013 | 2017-05-23 | condenacao | crsfn-10372-000747-2016-69 | fichas/crsfn/2017-03.md |
-| acordao-crsfn | RJ2012/1606 | 2017-04-18 | parcial | crsfn-13932 | fichas/crsfn/2017-03.md |
-| pas | 12/2013 | 2016-05-24 | parcial | cvm-pas-12-2013 | fichas/pas/2016-02.md |
+| acordao-crsfn | 12/2013 | 2017-05-23 | condenacao | crsfn-10372-000747-2016-69 | fichas/crsfn/2017-07.md |
+| acordao-crsfn | RJ2012/1606 | 2017-04-18 | parcial | crsfn-13932 | fichas/crsfn/2017-05.md |
+| pas | 12/2013 | 2016-05-24 | parcial | cvm-pas-12-2013 | fichas/pas/2016-03.md |
 | decisao-colegiado | RJ2015/9382 | 2015-11-10 | nao-provido | cvm-col-20151110-d9847 | fichas/colegiado/2015-20.md |
 | decisao-colegiado | RJ2015/9381 | 2015-11-10 | nao-provido | cvm-col-20151110-d9846 | fichas/colegiado/2015-20.md |
 | decisao-colegiado | RJ2015/9380 | 2015-11-10 | nao-provido | cvm-col-20151110-d9845 | fichas/colegiado/2015-20.md |
@@ -41,9 +41,9 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2012/13307 | 2012-12-04 | nao-provido | cvm-col-20121204-d11 | fichas/colegiado/2012-22.md |
 | termo-compromisso | SP2011/0099 | 2012-07-03 | rejeitado | cvm-col-20120703-d07 | fichas/tc/2012-03.md |
 | decisao-colegiado | RJ2011/0964 | 2011-02-08 | nao-provido | cvm-col-20110208-d09 | fichas/colegiado/2011-02.md |
-| pas | SP2008/0038 | 2010-07-13 | parcial | cvm-pas-sp2008-0038 | fichas/pas/2010-03.md |
+| pas | SP2008/0038 | 2010-07-13 | parcial | cvm-pas-sp2008-0038 | fichas/pas/2010-05.md |
 | decisao-colegiado | RJ2009/10539 | 2009-11-17 | parcial | cvm-col-20091117-d25 | fichas/colegiado/2009-20.md |
-| pas | SP2007/033 | 2009-05-19 | condenacao | cvm-pas-sp2007-0033 | fichas/pas/2009-02.md |
+| pas | SP2007/033 | 2009-05-19 | condenacao | cvm-pas-sp2007-0033 | fichas/pas/2009-04.md |
 | decisao-colegiado | SP2008/0060 | 2008-10-21 | deferido | cvm-col-20081021-d09 | fichas/colegiado/2008-23.md |
 | decisao-colegiado | — | 2008-04-15 | outro | cvm-col-20080415-d16 | fichas/colegiado/2008-09.md |
 | decisao-colegiado | RJ2006/3694 | 2006-12-22 | parcial | cvm-col-20061222-d01 | fichas/colegiado/2006-21.md |

@@ -103,10 +103,10 @@ Norma: [cvm/resolucoes/0050.md](../../normas/cvm/resolucoes/0050.md) (texto vige
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.019169/2024-48 | 2025-05-20 | deferido | cvm-col-20250520-d3277 | fichas/colegiado/2025-04.md |
-| pas | 19957.011992/2023-24 | 2025-04-08 | condenacao | cvm-pas-19957-011992-2023-24 | fichas/pas/2025-02.md |
+| pas | 19957.011992/2023-24 | 2025-04-08 | condenacao | cvm-pas-19957-011992-2023-24 | fichas/pas/2025-04.md |
 | decisao-colegiado | 19957.011105/2024-07 | 2025-04-01 | deferido | cvm-col-20250401-d3243 | fichas/colegiado/2025-03.md |
-| pas | 19957.012126/2022-70 | 2023-06-06 | condenacao | cvm-pas-19957-012126-2022-70 | fichas/pas/2023-03.md |
+| pas | 19957.012126/2022-70 | 2023-06-06 | condenacao | cvm-pas-19957-012126-2022-70 | fichas/pas/2023-06.md |
 | decisao-colegiado | 19957.006607/2021-65 | 2021-08-25 | outro | cvm-col-20210825-d2295 | fichas/colegiado/2021-14.md |
-| pas | 09/1997 | 2006-12-13 | parcial | cvm-pas-09-1997 | fichas/pas/2006-14.md |
+| pas | 09/1997 | 2006-12-13 | parcial | cvm-pas-09-1997 | fichas/pas/2006-27.md |
 
 Fim do subíndice.

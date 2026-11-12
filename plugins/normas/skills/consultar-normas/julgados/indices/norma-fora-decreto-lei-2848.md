@@ -11,25 +11,25 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 59-O | acordao-crsfn | RJ-2005-1160 | 2011-11-09 | parcial | crsfn-11431 | fichas/crsfn/2011-03.md |
+| art. 59-O | acordao-crsfn | RJ-2005-1160 | 2011-11-09 | parcial | crsfn-11431 | fichas/crsfn/2011-04.md |
 
 ## art. 61
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 61 | pas | 19957.000198/2020-11; 21/2013 | 2022-03-29 | parcial | cvm-pas-19957-000198-2020-11 | fichas/pas/2022-02.md |
+| art. 61 | pas | 19957.000198/2020-11; 21/2013 | 2022-03-29 | parcial | cvm-pas-19957-000198-2020-11 | fichas/pas/2022-03.md |
 
 ## art. 107
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 107, inciso I | pas | RJ2016/8901 | 2018-02-20 | extincao | cvm-pas-rj2016-8901 | fichas/pas/2018-01.md |
+| art. 107, inciso I | pas | RJ2016/8901 | 2018-02-20 | extincao | cvm-pas-rj2016-8901 | fichas/pas/2018-02.md |
 
 ## art. 109
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 109, inciso II | acordao-crsfn | 19957.001921/2020-71 | 2024-08-13 | condenacao | crsfn-10372-100038-2023-10 | fichas/crsfn/2024-04.md |
+| art. 109, inciso II | acordao-crsfn | 19957.001921/2020-71 | 2024-08-13 | condenacao | crsfn-10372-100038-2023-10 | fichas/crsfn/2024-05.md |
 
 ## art. 111
 
@@ -41,8 +41,8 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 171 | pas | 19957.011029/2019-64 | 2024-05-21 | — | cvm-pas-19957-011029-2019-64 | fichas/pas/2024-03.md |
-| art. 171 | pas | 19957.001450/2022-62 | 2025-10-14 | condenacao | cvm-pas-19957-001450-2022-62 | fichas/pas/2025-04.md |
+| art. 171 | pas | 19957.011029/2019-64 | 2024-05-21 | — | cvm-pas-19957-011029-2019-64 | fichas/pas/2024-05.md |
+| art. 171 | pas | 19957.001450/2022-62 | 2025-10-14 | condenacao | cvm-pas-19957-001450-2022-62 | fichas/pas/2025-08.md |
 
 ## art. 288
 
@@ -61,13 +61,13 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 317 | pas | 19957.005572/2019-22 | 2025-12-09 | absolvicao | cvm-pas-19957-005572-2019-22 | fichas/pas/2025-05.md |
+| art. 317 | pas | 19957.005572/2019-22 | 2025-12-09 | absolvicao | cvm-pas-19957-005572-2019-22 | fichas/pas/2025-10.md |
 
 ## art. 333
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 333 | pas | 19957.005572/2019-22 | 2025-12-09 | absolvicao | cvm-pas-19957-005572-2019-22 | fichas/pas/2025-05.md |
+| art. 333 | pas | 19957.005572/2019-22 | 2025-12-09 | absolvicao | cvm-pas-19957-005572-2019-22 | fichas/pas/2025-10.md |
 
 ## art. 342
 
@@ -79,9 +79,9 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.003673/2020-01 | 2024-06-20 | absolvicao | cvm-pas-19957-003673-2020-01 | fichas/pas/2024-04.md |
+| pas | 19957.003673/2020-01 | 2024-06-20 | absolvicao | cvm-pas-19957-003673-2020-01 | fichas/pas/2024-08.md |
 | acordao-crsfn | RJ2013/8880 | 2024-05-08 | condenacao | crsfn-10372-100059-2020-84 | fichas/crsfn/2024-03.md |
-| pas | 19957.004715/2020-12 | 2024-03-26 | condenacao | cvm-pas-19957-004715-2020-12 | fichas/pas/2024-02.md |
+| pas | 19957.004715/2020-12 | 2024-03-26 | condenacao | cvm-pas-19957-004715-2020-12 | fichas/pas/2024-03.md |
 | pas | 19957.010926/2022-56 | 2023-02-28 | condenacao | cvm-pas-19957-010926-2022-56 | fichas/pas/2023-01.md |
 | acordao-crsfn | IA-2003-04 | 2009-03-18 | parcial | crsfn-9794 | fichas/crsfn/2009-02.md |
 

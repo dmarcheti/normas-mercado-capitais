@@ -23,8 +23,8 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|
 | art. 3º | decisao-colegiado | RJ2010/16753 | 2011-11-29 | deferido | cvm-col-20111129-d33 | fichas/colegiado/2011-27.md |
 | art. 3º | decisao-colegiado | RJ2012/4172 | 2012-07-10 | parcial | cvm-col-20120710-d04 | fichas/colegiado/2012-12.md |
-| art. 3º, inciso I | acordao-crsfn | 19957.007114/2022-23 | 2025-10-15 | condenacao | crsfn-19957-007114-2022-23 | fichas/crsfn/2025-05.md |
-| art. 3º, inciso I | pas | 19957.007114/2022-23 | 2024-10-15 | condenacao | cvm-pas-19957-007114-2022-23 | fichas/pas/2024-09.md |
+| art. 3º, inciso I | acordao-crsfn | 19957.007114/2022-23 | 2025-10-15 | condenacao | crsfn-19957-007114-2022-23 | fichas/crsfn/2025-06.md |
+| art. 3º, inciso I | pas | 19957.007114/2022-23 | 2024-10-15 | condenacao | cvm-pas-19957-007114-2022-23 | fichas/pas/2024-17.md |
 
 ## art. 5º
 
@@ -56,21 +56,21 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 22 | pas | 16/2002 | 2006-10-10 | condenacao | cvm-pas-16-2002 | fichas/pas/2006-10.md |
+| art. 22 | pas | 16/2002 | 2006-10-10 | condenacao | cvm-pas-16-2002 | fichas/pas/2006-20.md |
 
 ## art. 29
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 29 | pas | 10/1999 | 2000-09-14 | parcial | cvm-pas-10-1999 | fichas/pas/2000-02.md |
-| art. 29, inciso II | pas | 10/1999 | 2000-09-14 | parcial | cvm-pas-10-1999 | fichas/pas/2000-02.md |
-| art. 29, inciso III | pas | 10/1999 | 2000-09-14 | parcial | cvm-pas-10-1999 | fichas/pas/2000-02.md |
+| art. 29 | pas | 10/1999 | 2000-09-14 | parcial | cvm-pas-10-1999 | fichas/pas/2000-03.md |
+| art. 29, inciso II | pas | 10/1999 | 2000-09-14 | parcial | cvm-pas-10-1999 | fichas/pas/2000-03.md |
+| art. 29, inciso III | pas | 10/1999 | 2000-09-14 | parcial | cvm-pas-10-1999 | fichas/pas/2000-03.md |
 
 ## art. 30
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 30 | pas | 10/1999 | 2000-09-14 | parcial | cvm-pas-10-1999 | fichas/pas/2000-02.md |
+| art. 30 | pas | 10/1999 | 2000-09-14 | parcial | cvm-pas-10-1999 | fichas/pas/2000-03.md |
 
 ## art. 60
 
@@ -82,8 +82,8 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 04/2012 | 2018-12-11 | parcial | crsfn-14227 | fichas/crsfn/2018-07.md |
-| pas | 04/2012 | 2014-11-25 | parcial | cvm-pas-04-2012 | fichas/pas/2014-04.md |
+| acordao-crsfn | 04/2012 | 2018-12-11 | parcial | crsfn-14227 | fichas/crsfn/2018-10.md |
+| pas | 04/2012 | 2014-11-25 | parcial | cvm-pas-04-2012 | fichas/pas/2014-09.md |
 | decisao-colegiado | RJ2010/9101 | 2013-06-25 | outro | cvm-col-20130625-d02 | fichas/colegiado/2013-12.md |
 | acordao-crsfn | RJ-2005-305 | 2012-10-25 | parcial | crsfn-11417 | fichas/crsfn/2012-04.md |
 | decisao-colegiado | RJ2007/7345 | 2007-10-09 | provido | cvm-col-20071009-d05 | fichas/colegiado/2007-19.md |

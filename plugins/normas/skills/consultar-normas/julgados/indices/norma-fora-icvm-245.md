@@ -54,22 +54,22 @@ Norma: fora do acervo.
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 4º | acordao-crsfn | 38/00 | 2006-08-18 | parcial | crsfn-5278 | fichas/crsfn/2006-01.md |
-| art. 4º | pas | 38/2000 | 2003-04-02 | parcial | cvm-pas-38-2000 | fichas/pas/2003-01.md |
+| art. 4º | pas | 38/2000 | 2003-04-02 | parcial | cvm-pas-38-2000 | fichas/pas/2003-02.md |
 
 ## Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | acordao-crsfn | 25/03 | 2013-04-23 | arquivamento | crsfn-12038 | fichas/crsfn/2013-01.md |
-| acordao-crsfn | 0501291250 | 2010-06-22 | condenacao | crsfn-11745 | fichas/crsfn/2010-05.md |
-| acordao-crsfn | RJ-2006-796 | 2009-09-30 | condenacao | crsfn-10884 | fichas/crsfn/2009-04.md |
-| pas | 25/2003 | 2008-03-25 | parcial | cvm-pas-25-2003 | fichas/pas/2008-02.md |
+| acordao-crsfn | 0501291250 | 2010-06-22 | condenacao | crsfn-11745 | fichas/crsfn/2010-06.md |
+| acordao-crsfn | RJ-2006-796 | 2009-09-30 | condenacao | crsfn-10884 | fichas/crsfn/2009-05.md |
+| pas | 25/2003 | 2008-03-25 | parcial | cvm-pas-25-2003 | fichas/pas/2008-03.md |
 | decisao-colegiado | RJ2008/0301 | 2008-01-29 | nao-provido | cvm-col-20080129-d11 | fichas/colegiado/2008-02.md |
 | decisao-colegiado | RJ2008/0330 | 2008-01-29 | nao-provido | cvm-col-20080129-d09 | fichas/colegiado/2008-02.md |
 | decisao-colegiado | RJ2007/13459 | 2007-11-12 | deferido | cvm-col-20071112-d02 | fichas/colegiado/2007-22.md |
 | decisao-colegiado | RJ2007/1208 | 2007-11-06 | nao-provido | cvm-col-20071106-d04 | fichas/colegiado/2007-22.md |
 | termo-compromisso | RJ2006/5905 | 2007-01-30 | aceito | cvm-col-20070130-d06 | fichas/tc/2007-01.md |
-| pas | RJ2005/4969 | 2006-11-07 | parcial | cvm-pas-rj2005-4969 | fichas/pas/2006-12.md |
+| pas | RJ2005/4969 | 2006-11-07 | parcial | cvm-pas-rj2005-4969 | fichas/pas/2006-24.md |
 | decisao-colegiado | RJ2005/3496 | 2005-06-07 | nao-provido | cvm-col-20050607-d09 | fichas/colegiado/2005-09.md |
 | decisao-colegiado | RJ2004/6333 | 2004-11-30 | deferido | cvm-col-20041130-d03 | fichas/colegiado/2004-15.md |
 | decisao-colegiado | RJ2002/5848 | 2004-07-13 | provido | cvm-col-20040713-d08 | fichas/colegiado/2004-08.md |

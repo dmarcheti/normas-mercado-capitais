@@ -26,6 +26,6 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2012/12105 | 2012-11-06 | nao-provido | cvm-col-20121106-d04 | fichas/colegiado/2012-20.md |
 | decisao-colegiado | RJ2012/12103 | 2012-11-06 | nao-provido | cvm-col-20121106-d03 | fichas/colegiado/2012-20.md |
 | decisao-colegiado | RJ2012/12099 | 2012-11-06 | nao-provido | cvm-col-20121106-d02 | fichas/colegiado/2012-20.md |
-| pas | RJ2008/8662 | 2009-06-03 | parcial | cvm-pas-rj2008-8662 | fichas/pas/2009-03.md |
+| pas | RJ2008/8662 | 2009-06-03 | parcial | cvm-pas-rj2008-8662 | fichas/pas/2009-05.md |
 
 Fim do subíndice.

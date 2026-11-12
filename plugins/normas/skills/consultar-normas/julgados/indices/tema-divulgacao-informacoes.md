@@ -43,1191 +43,1191 @@ Este subíndice tem 1233 linhas e uma leitura única é cortada em silêncio per
 | 1997 | 1228 |
 | 1996 | 1230 |
 
-| Tipo | Processo | Data | Resultado | Id | Ficha |
-|---|---|---|---|---|---|
-| pas | 19957.011231/2025-34 | 2026-10-02 | — | cvm-pas-19957-011231-2025-34 | fichas/pas/2026-03.md |
-| acordao-crsfn | 19957.001912/2024-11 | 2026-09-15 | condenacao | crsfn-19957-001912-2024-11 | fichas/crsfn/2026-03.md |
-| pas | 19957.001811/2025-13 | 2026-09-08 | condenacao | cvm-pas-19957-001811-2025-13 | fichas/pas/2026-02.md |
-| pas | 19957.003612/2020-35 | 2026-07-28 | absolvicao | cvm-pas-19957-003612-2020-35 | fichas/pas/2026-01.md |
-| pas | 19957.011363/2024-85 | 2026-07-14 | parcial | cvm-pas-19957-011363-2024-85 | fichas/pas/2026-01.md |
-| pas | 19957.001044/2025-42 | 2026-07-14 | parcial | cvm-pas-19957-001044-2025-42 | fichas/pas/2026-01.md |
-| termo-compromisso | 19957.009587/2025-16 | 2026-06-23 | aceito | cvm-col-20260623-d3553 | fichas/tc/2026-02.md |
-| termo-compromisso | 19957.011252/2025-50 | 2026-06-23 | rejeitado | cvm-col-20260623-d3533 | fichas/tc/2026-02.md |
-| pas | 19957.011123/2025-61 | 2026-06-02 | condenacao | cvm-pas-19957-011123-2025-61 | fichas/pas/2026-01.md |
-| termo-compromisso | 19957.011231/2025-34 | 2026-05-26 | rejeitado | cvm-col-20260526-d3543 | fichas/tc/2026-01.md |
-| pas | 19957.001045/2025-97 | 2026-05-12 | parcial | cvm-pas-19957-001045-2025-97 | fichas/pas/2026-01.md |
-| termo-compromisso | 19957.009588/2025-52 | 2026-04-07 | aceito | cvm-col-20260407-d3509 | fichas/tc/2026-01.md |
-| termo-compromisso | 19957.000374/2024-30 | 2026-04-07 | aceito | cvm-col-20260407-d3467 | fichas/tc/2026-01.md |
-| termo-compromisso | 19957.002327/2025-10 | 2026-03-31 | outro | cvm-col-20260331-d3406 | fichas/tc/2026-01.md |
-| acordao-crsfn | 19957.016074/2024-72 | 2026-02-10 | parcial | crsfn-19957-016074-2024-72 | fichas/crsfn/2026-01.md |
-| acordao-crsfn | 19957.003714/2023-01 | 2026-02-10 | condenacao | crsfn-19957-003714-2023-01 | fichas/crsfn/2026-01.md |
-| termo-compromisso | 19957.001811/2025-13 | 2026-02-03 | rejeitado | cvm-col-20260203-d3441 | fichas/tc/2026-01.md |
-| termo-compromisso | 19957.007640/2025-36 | 2025-12-16 | aceito | cvm-col-20251216-d3433 | fichas/tc/2025-05.md |
-| termo-compromisso | 19957.020738/2024-06 | 2025-12-16 | aceito | cvm-col-20251216-d3432 | fichas/tc/2025-05.md |
-| pas | 19957.017629/2024-01 | 2025-12-02 | absolvicao | cvm-pas-19957-017629-2024-01 | fichas/pas/2025-05.md |
-| termo-compromisso | 19957.003043/2025-32 | 2025-11-18 | aceito | cvm-col-20251118-d3420 | fichas/tc/2025-05.md |
-| termo-compromisso | 19957.001815/2025-00 | 2025-11-11 | aceito | cvm-col-20251111-d3415 | fichas/tc/2025-05.md |
-| termo-compromisso | 19957.001169/2025-72 | 2025-11-04 | aceito | cvm-col-20251104-d3410 | fichas/tc/2025-05.md |
-| termo-compromisso | 19957.006380/2023-10 | 2025-10-14 | aceito | cvm-col-20251014-d3401 | fichas/tc/2025-05.md |
-| termo-compromisso | 19957.010495/2024-90 | 2025-10-14 | aceito | cvm-col-20251014-d3382 | fichas/tc/2025-04.md |
-| termo-compromisso | 19957.017968/2024-80 | 2025-09-16 | aceito | cvm-col-20250916-d3361 | fichas/tc/2025-04.md |
-| termo-compromisso | 19957.020870/2024-18 | 2025-09-09 | aceito | cvm-col-20250909-d3358 | fichas/tc/2025-04.md |
-| termo-compromisso | 19957.018282/2024-14 | 2025-09-02 | aceito | cvm-col-20250902-d3336 | fichas/tc/2025-04.md |
-| termo-compromisso | 19957.018146/2024-16 | 2025-08-12 | rejeitado | cvm-col-20250812-d3326 | fichas/tc/2025-04.md |
-| termo-compromisso | 19957.016074/2024-72 | 2025-08-12 | rejeitado | cvm-col-20250812-d3321 | fichas/tc/2025-04.md |
-| acordao-crsfn | 19957.001695/2023-71 | 2025-07-16 | parcial | crsfn-19957-001695-2023-71 | fichas/crsfn/2025-04.md |
-| termo-compromisso | 19957.016052/2024-11 | 2025-07-01 | aceito | cvm-col-20250701-d3300 | fichas/tc/2025-03.md |
-| termo-compromisso | 19957.017629/2024-01 | 2025-06-24 | rejeitado | cvm-col-20250624-d3299 | fichas/tc/2025-03.md |
-| acordao-crsfn | 19957.003999/2021-19 | 2025-05-13 | parcial | crsfn-10372-000178-2024-61 | fichas/crsfn/2025-02.md |
-| termo-compromisso | 19957.003174/2024-39 | 2025-05-06 | rejeitado | cvm-col-20250506-d3255 | fichas/tc/2025-02.md |
-| termo-compromisso | 19957.003174/2024-39 | 2025-04-29 | — | cvm-col-20250429-d3255 | fichas/tc/2025-02.md |
-| termo-compromisso | 19957.008609/2024-31 | 2025-04-08 | aceito | cvm-col-20250408-d3253 | fichas/tc/2025-02.md |
-| termo-compromisso | 19957.002703/2023-04 | 2025-04-08 | outro | cvm-col-20250408-d3252 | fichas/tc/2025-02.md |
-| acordao-crsfn | 19957.005866/2018-73 | 2025-04-08 | outro | crsfn-10372-100036-2023-12-2 | fichas/crsfn/2025-02.md |
-| acordao-crsfn | 19957.001549/2023-45 | 2025-04-08 | outro | crsfn-10372-000095-2024-72-2 | fichas/crsfn/2025-01.md |
-| decisao-colegiado | 19957.001368/2025-81 | 2025-04-01 | deferido | cvm-col-20250401-d3247 | fichas/colegiado/2025-03.md |
-| pas | 19957.003714/2023-01 | 2025-03-25 | condenacao | cvm-pas-19957-003714-2023-01 | fichas/pas/2025-02.md |
-| pas | 19957.001912/2024-11 | 2025-03-18 | parcial | cvm-pas-19957-001912-2024-11 | fichas/pas/2025-01.md |
-| decisao-colegiado | 19957.015309/2023-28 | 2025-03-18 | conhecimento | cvm-col-20250318-d3236 | fichas/colegiado/2025-02.md |
-| acordao-crsfn | 19957.012129/2022-11 | 2025-03-12 | condenacao | crsfn-10372-000134-2024-31 | fichas/crsfn/2025-01.md |
-| decisao-colegiado | 19957.021350/2024-14 | 2025-02-11 | provido | cvm-col-20250211-d3223 | fichas/colegiado/2025-01.md |
-| termo-compromisso | 19957.015051/2023-60 | 2025-02-04 | aceito | cvm-col-20250204-d3219 | fichas/tc/2025-01.md |
-| termo-compromisso | 19957.015872/2023-04 | 2025-01-21 | aceito | cvm-col-20250121-d3199 | fichas/tc/2025-01.md |
-| pas | 19957.014716/2023-18 | 2024-12-17 | condenacao | cvm-pas-19957-014716-2023-18 | fichas/pas/2024-11.md |
-| pas | 19957.001695/2023-71 | 2024-12-17 | condenacao | cvm-pas-19957-001695-2023-71 | fichas/pas/2024-11.md |
-| decisao-colegiado | 19957.012859/2023-95 | 2024-12-10 | indeferido | cvm-col-20241210-d3189 | fichas/colegiado/2024-14.md |
-| pas | 19957.003980/2023-26 | 2024-12-03 | parcial | cvm-pas-19957-003980-2023-26 | fichas/pas/2024-10.md |
-| termo-compromisso | 19957.000923/2024-76 | 2024-12-03 | aceito | cvm-col-20241203-d3179 | fichas/tc/2024-07.md |
-| acordao-crsfn | 19957.001549/2023-45 | 2024-12-03 | condenacao | crsfn-10372-000095-2024-72 | fichas/crsfn/2024-07.md |
-| termo-compromisso | 19957.002548/2024-07 | 2024-11-26 | aceito | cvm-col-20241126-d3172 | fichas/tc/2024-06.md |
-| termo-compromisso | 19957.000936/2024-45 | 2024-11-26 | aceito | cvm-col-20241126-d3169 | fichas/tc/2024-06.md |
-| termo-compromisso | 19957.014281/2023-10 | 2024-11-26 | aceito | cvm-col-20241126-d3054 | fichas/tc/2024-06.md |
-| acordao-crsfn | 19957.005866/2018-73 | 2024-11-13 | parcial | crsfn-10372-100036-2023-12 | fichas/crsfn/2024-06.md |
-| termo-compromisso | 19957.000907/2024-83; 19957.000887/2024-41; 19957.001633/2024-40 | 2024-10-29 | aceito | cvm-col-20241029-d3144 | fichas/tc/2024-06.md |
-| termo-compromisso | 19957.000073/2024-14 | 2024-10-22 | aceito | cvm-col-20241022-d3160 | fichas/tc/2024-06.md |
-| decisao-colegiado | 02/2024; 03/2024; 19957.004052/2024-60; 19957.004053/2024-12 | 2024-10-16 | outro | cvm-col-20241016-d3066-3067 | fichas/colegiado/2024-11.md |
-| acordao-crsfn | 19957.009010/2021-72 | 2024-10-09 | parcial | crsfn-10372-100157-2023-64 | fichas/crsfn/2024-06.md |
-| pas | 19957.001933/2021-86 | 2024-09-24 | condenacao | cvm-pas-19957-001933-2021-86 | fichas/pas/2024-08.md |
-| termo-compromisso | 19957.001074/2024-78 | 2024-09-24 | aceito | cvm-col-20240924-d3139 | fichas/tc/2024-05.md |
-| termo-compromisso | 19957.008286/2023-03 | 2024-08-27 | aceito | cvm-col-20240827-d3125 | fichas/tc/2024-05.md |
-| pas | 19957.003999/2021-19 | 2024-08-06 | parcial | cvm-pas-19957-003999-2021-19 | fichas/pas/2024-06.md |
-| termo-compromisso | 19957.009269/2023-85; 19957.012025/2023-80 | 2024-08-06 | aceito | cvm-col-20240806-d3108 | fichas/tc/2024-04.md |
-| pas | 19957.012129/2022-11 | 2024-06-18 | condenacao | cvm-pas-19957-012129-2022-11 | fichas/pas/2024-04.md |
-| pas | 19957.015040/2022-07 | 2024-06-13 | condenacao | cvm-pas-19957-015040-2022-07 | fichas/pas/2024-04.md |
-| termo-compromisso | 19957.012184/2023-84 | 2024-06-13 | aceito | cvm-col-20240613-d3081 | fichas/tc/2024-04.md |
-| termo-compromisso | 19957.013127/2023-12 | 2024-06-04 | aceito | cvm-col-20240604-d3075 | fichas/tc/2024-03.md |
-| termo-compromisso | 19957.001695/2023-71 | 2024-06-04 | aceito | cvm-col-20240604-d3071 | fichas/tc/2024-03.md |
-| termo-compromisso | 19957.012388/2023-15 | 2024-05-21 | aceito | cvm-col-20240521-d3063 | fichas/tc/2024-03.md |
-| termo-compromisso | 19957.007335/2023-82; 19957.014089/2023-15 | 2024-05-14 | aceito | cvm-col-20240514-d3061 | fichas/tc/2024-03.md |
-| termo-compromisso | 19957.007410/2023-13 | 2024-05-14 | aceito | cvm-col-20240514-d3060 | fichas/tc/2024-03.md |
-| acordao-crsfn | 19957.009206/2018-61 | 2024-05-07 | parcial | crsfn-10372-100112-2023-90 | fichas/crsfn/2024-02.md |
-| termo-compromisso | 19957.003612/2020-35 | 2024-04-30 | aceito | cvm-col-20240430-d1905 | fichas/tc/2024-02.md |
-| termo-compromisso | 19957.006263/2023-56 | 2024-04-16 | aceito | cvm-col-20240416-d3048 | fichas/tc/2024-02.md |
-| termo-compromisso | 19957.000589/2022-99; 19957.003084/2023-67; 19957.012448/2023-08; 19957.015357/2022-35 | 2024-04-02 | aceito | cvm-col-20240402-d2749-3044 | fichas/tc/2024-02.md |
-| pas | 19957.001549/2023-45 | 2024-03-26 | condenacao | cvm-pas-19957-001549-2023-45 | fichas/pas/2024-02.md |
-| termo-compromisso | 19957.004318/2023-93 | 2024-03-26 | aceito | cvm-col-20240326-d3029 | fichas/tc/2024-02.md |
-| termo-compromisso | 19957.003980/2023-26 | 2024-03-26 | rejeitado | cvm-col-20240326-d3021 | fichas/tc/2024-01.md |
-| acordao-crsfn | 19957.002247/2020-41 | 2024-02-07 | parcial | crsfn-10372-100136-2023-49 | fichas/crsfn/2024-01.md |
-| decisao-colegiado | 80/2022; 19957.012668/2023-23 | 2024-01-31 | outro | cvm-col-20240131-d3009 | fichas/colegiado/2024-02.md |
-| pas | 19957.002348/2023-65 | 2024-01-30 | parcial | cvm-pas-19957-002348-2023-65 | fichas/pas/2024-01.md |
-| termo-compromisso | 19957.009202/2023-41 | 2024-01-23 | aceito | cvm-col-20240123-d3002 | fichas/tc/2024-01.md |
-| pas | 19957.007550/2019-05 | 2023-12-21 | condenacao | cvm-pas-19957-007550-2019-05 | fichas/pas/2023-10.md |
-| pas | 19957.004286/2022-45 | 2023-12-21 | condenacao | cvm-pas-19957-004286-2022-45 | fichas/pas/2023-10.md |
-| pas | 19957.003793/2021-81 | 2023-12-12 | parcial | cvm-pas-19957-003793-2021-81 | fichas/pas/2023-09.md |
-| decisao-colegiado | 19957.002655/2023-46 | 2023-11-21 | parcial | cvm-col-20231121-d2961 | fichas/colegiado/2023-12.md |
-| pas | 19957.009721/2021-47 | 2023-11-07 | condenacao | cvm-pas-19957-009721-2021-47 | fichas/pas/2023-07.md |
-| termo-compromisso | 19957.000803/2023-98 | 2023-11-07 | aceito | cvm-col-20231107-d2959 | fichas/tc/2023-07.md |
-| termo-compromisso | 19957.000338/2023-95 | 2023-11-07 | aceito | cvm-col-20231107-d2958 | fichas/tc/2023-07.md |
-| acordao-crsfn | 19957.008185/2021-62 | 2023-11-07 | outro | crsfn-10372-100157-2022-83-2 | fichas/crsfn/2023-07.md |
-| acordao-crsfn | 19957.008462/2019-12 | 2023-11-07 | condenacao | crsfn-10372-100113-2023-34 | fichas/crsfn/2023-07.md |
-| termo-compromisso | 19957.002348/2023-65 | 2023-10-31 | rejeitado | cvm-col-20231031-d2951 | fichas/tc/2023-07.md |
-| acordao-crsfn | 19957.009294/2017-11 | 2023-10-10 | condenacao | crsfn-10372-100070-2023-97 | fichas/crsfn/2023-06.md |
-| termo-compromisso | 19957.011713/2022-41 | 2023-09-26 | aceito | cvm-col-20230926-d2933 | fichas/tc/2023-06.md |
-| termo-compromisso | 19957.004985/2022-95 | 2023-08-29 | aceito | cvm-col-20230829-d2830 | fichas/tc/2023-06.md |
-| pas | 19957.009010/2021-72 | 2023-08-15 | condenacao | cvm-pas-19957-009010-2021-72 | fichas/pas/2023-05.md |
-| pas | 19957.002247/2020-41 | 2023-08-08 | condenacao | cvm-pas-19957-002247-2020-41 | fichas/pas/2023-04.md |
-| termo-compromisso | 19957.004286/2022-45 | 2023-07-25 | rejeitado | cvm-col-20230725-d2901 | fichas/tc/2023-05.md |
-| termo-compromisso | 19957.012752/2022-66 | 2023-07-14 | aceito | cvm-col-20230714-d2898 | fichas/tc/2023-05.md |
-| pas | 19957.012414/2022-24 | 2023-07-11 | condenacao | cvm-pas-19957-012414-2022-24 | fichas/pas/2023-04.md |
-| acordao-crsfn | 19957.008185/2021-62 | 2023-07-11 | parcial | crsfn-10372-100157-2022-83 | fichas/crsfn/2023-05.md |
-| termo-compromisso | 19957.005269/2022-25; 19957.001002/2021-88 | 2023-06-06 | aceito | cvm-col-20230606-d2873 | fichas/tc/2023-04.md |
-| termo-compromisso | 19957.004971/2022-71 | 2023-05-30 | aceito | cvm-col-20230530-d2869 | fichas/tc/2023-04.md |
-| termo-compromisso | 19957.011035/2022-17 | 2023-05-16 | aceito | cvm-col-20230516-d2854 | fichas/tc/2023-04.md |
-| acordao-crsfn | 19957.007825/2018-11; RJ2018/5158 | 2023-05-09 | parcial | crsfn-10372-100033-2022-06 | fichas/crsfn/2023-03.md |
-| pas | 19957.009206/2018-61 | 2023-04-11 | parcial | cvm-pas-19957-009206-2018-61 | fichas/pas/2023-02.md |
-| pas | 19957.008462/2019-12 | 2023-04-11 | parcial | cvm-pas-19957-008462-2019-12 | fichas/pas/2023-02.md |
-| termo-compromisso | 19957.004985/2022-95 | 2023-04-11 | rejeitado | cvm-col-20230411-d2830 | fichas/tc/2023-03.md |
-| acordao-crsfn | RJ2019/3127 | 2023-04-11 | condenacao | crsfn-10372-100097-2020-37 | fichas/crsfn/2023-03.md |
-| termo-compromisso | 19957.004799/2022-56 | 2023-04-04 | aceito | cvm-col-20230404-d2826 | fichas/tc/2023-02.md |
-| pas | 19957.009685/2021-11 | 2023-03-14 | condenacao | cvm-pas-19957-009685-2021-11 | fichas/pas/2023-01.md |
-| acordao-crsfn | RJ2014/12838 | 2023-03-07 | condenacao | crsfn-10372-100338-2019-12 | fichas/crsfn/2023-02.md |
-| acordao-crsfn | RJ2014/6517 | 2023-03-07 | parcial | crsfn-10372-100331-2019-92 | fichas/crsfn/2023-02.md |
-| acordao-crsfn | 19957.007674/2018-00; RJ2018/5064 | 2023-03-07 | condenacao | crsfn-10372-100169-2021-27 | fichas/crsfn/2023-02.md |
-| acordao-crsfn | SP2018/0295 | 2023-03-07 | condenacao | crsfn-10372-100094-2021-84 | fichas/crsfn/2023-01.md |
-| acordao-crsfn | 19957.002528/2020-02; RJ2020/01834 | 2023-02-07 | parcial | crsfn-10372-100032-2022-53 | fichas/crsfn/2023-01.md |
-| termo-compromisso | 19957.010153/2021-27 | 2023-01-17 | aceito | cvm-col-20230117-d2782 | fichas/tc/2023-01.md |
-| termo-compromisso | 19957.011066/2022-78 | 2023-01-10 | aceito | cvm-col-20230110-d2757 | fichas/tc/2023-01.md |
-| termo-compromisso | 19957.000589/2022-99; 19957.010955/2022-18 | 2023-01-10 | rejeitado | cvm-col-20230110-d2749 | fichas/tc/2023-01.md |
-| termo-compromisso | 19957.009424/2021-00; 19957.000441/2022-54 | 2022-12-20 | aceito | cvm-col-20221220-d2746 | fichas/tc/2022-06.md |
-| termo-compromisso | 19957.009010/2021-72 | 2022-12-20 | rejeitado | cvm-col-20221220-d2742 | fichas/tc/2022-06.md |
-| pas | 19957.005866/2018-73 | 2022-12-16 | parcial | cvm-pas-19957-005866-2018-73 | fichas/pas/2022-06.md |
-| acordao-crsfn | RJ2014/1020 | 2022-12-08 | outro | crsfn-10372-100118-2018-08-2 | fichas/crsfn/2022-08.md |
-| termo-compromisso | 19957.009228/2021-27 | 2022-12-06 | aceito | cvm-col-20221206-d2739 | fichas/tc/2022-05.md |
-| termo-compromisso | 19957.000516/2022-05 | 2022-10-18 | aceito | cvm-col-20221018-d2705 | fichas/tc/2022-05.md |
-| pas | 19957.009863/2018-17 | 2022-10-11 | parcial | cvm-pas-19957-009863-2018-17 | fichas/pas/2022-05.md |
-| acordao-crsfn | 19957.003594/2021-72; RJ2021/02257 | 2022-10-11 | parcial | crsfn-10372-100096-2022-54 | fichas/crsfn/2022-06.md |
-| termo-compromisso | 19957.008814/2021-54 | 2022-10-04 | aceito | cvm-col-20221004-d2657 | fichas/tc/2022-04.md |
-| termo-compromisso | 19957.007550/2019-05 | 2022-09-27 | rejeitado | cvm-col-20220927-d1833 | fichas/tc/2022-04.md |
-| pas | 19957.008185/2021-62 | 2022-09-20 | condenacao | cvm-pas-19957-008185-2021-62 | fichas/pas/2022-04.md |
-| termo-compromisso | 19957.006745/2021-44 | 2022-09-06 | aceito | cvm-col-20220906-d2679 | fichas/tc/2022-04.md |
-| acordao-crsfn | RJ2019/7807 | 2022-08-09 | parcial | crsfn-10372-100110-2021-39 | fichas/crsfn/2022-05.md |
-| acordao-crsfn | 19957.008986/2020-47; RJ2020/06345 | 2022-08-09 | parcial | crsfn-10372-100034-2022-42 | fichas/crsfn/2022-04.md |
-| pas | 19957.008657/2020-04 | 2022-08-02 | extincao | cvm-pas-19957-008657-2020-04 | fichas/pas/2022-04.md |
-| termo-compromisso | 19957.008096/2021-16 | 2022-08-02 | aceito | cvm-col-20220802-d2660 | fichas/tc/2022-04.md |
-| termo-compromisso | 19957.008814/2021-54 | 2022-07-26 | outro | cvm-col-20220726-d2657 | fichas/tc/2022-04.md |
-| termo-compromisso | 19957.007369/2021-13 | 2022-07-26 | aceito | cvm-col-20220726-d2436 | fichas/tc/2022-03.md |
-| termo-compromisso | 19957.007830/2021-20 | 2022-07-19 | aceito | cvm-col-20220719-d2653 | fichas/tc/2022-03.md |
-| termo-compromisso | 19957.006319/2021-19 | 2022-07-12 | aceito | cvm-col-20220712-d2648 | fichas/tc/2022-03.md |
-| acordao-crsfn | RJ2019/3348 | 2022-07-12 | parcial | crsfn-10372-100073-2021-69 | fichas/crsfn/2022-04.md |
-| termo-compromisso | 19957.005425/2021-77 | 2022-06-28 | aceito | cvm-col-20220628-d2634 | fichas/tc/2022-03.md |
-| termo-compromisso | 19957.008185/2021-62 | 2022-06-28 | rejeitado | cvm-col-20220628-d2514 | fichas/tc/2022-03.md |
-| pas | 19957.004869/2021-95 | 2022-06-21 | parcial | cvm-pas-19957-004869-2021-95 | fichas/pas/2022-03.md |
-| termo-compromisso | 19957.006137/2020-59 | 2022-05-24 | aceito | cvm-col-20220524-d2592 | fichas/tc/2022-02.md |
-| termo-compromisso | 19957.004747/2021-07 | 2022-04-19 | aceito | cvm-col-20220419-d2562 | fichas/tc/2022-02.md |
-| pas | 19957.003594/2021-72 | 2022-04-12 | parcial | cvm-pas-19957-003594-2021-72 | fichas/pas/2022-02.md |
-| termo-compromisso | 19957.000157/2021-05 | 2022-04-05 | aceito | cvm-col-20220405-d2551 | fichas/tc/2022-02.md |
-| acordao-crsfn | RJ2014/14161 | 2022-03-28 | outro | crsfn-edcl-10372-100231-2019-66 | fichas/crsfn/2022-02.md |
-| termo-compromisso | 19957.006488/2021-41 | 2022-03-22 | aceito | cvm-col-20220322-d2531 | fichas/tc/2022-02.md |
-| termo-compromisso | 19957.006435/2021-20 | 2022-03-22 | aceito | cvm-col-20220322-d2530 | fichas/tc/2022-02.md |
-| acordao-crsfn | RJ2016/5733 | 2022-03-09 | parcial | crsfn-10372-100096-2020-92 | fichas/crsfn/2022-01.md |
-| termo-compromisso | 19957.006624/2021-01 | 2022-03-08 | aceito | cvm-col-20220308-d2488 | fichas/tc/2022-02.md |
-| acordao-crsfn | RJ2016/7162 | 2022-02-09 | condenacao | crsfn-10372-100094-2020-01 | fichas/crsfn/2022-01.md |
-| acordao-crsfn | RJ2015/8673 | 2022-02-08 | outro | crsfn-edcl-10372-100037-2018-08 | fichas/crsfn/2022-01.md |
-| acordao-crsfn | RJ2018/7396 | 2022-02-08 | parcial | crsfn-10372-100090-2021-04 | fichas/crsfn/2022-01.md |
-| acordao-crsfn | RJ2018/6282 | 2021-12-08 | outro | crsfn-10372-100107-2020-34 | fichas/crsfn/2021-04.md |
-| termo-compromisso | 19957.008667/2020-31 | 2021-12-07 | aceito | cvm-col-20211207-d2422 | fichas/tc/2021-08.md |
-| termo-compromisso | 19957.004598/2020-9 | 2021-12-07 | aceito | cvm-col-20211207-d2420 | fichas/tc/2021-08.md |
-| termo-compromisso | 19957.004146/2021-96 | 2021-12-07 | aceito | cvm-col-20211207-d2402 | fichas/tc/2021-08.md |
-| decisao-colegiado | 09/2020; 480/2009; 481/2009; 19957.004286/2019-40 | 2021-11-10 | — | cvm-col-20211110-d1673 | fichas/colegiado/2021-19.md |
-| decisao-colegiado | 19957.007927/2020-51 | 2021-11-09 | indeferido | cvm-col-20211109-d2109 | fichas/colegiado/2021-19.md |
-| termo-compromisso | 19957.009294/2017-11 | 2021-11-09 | rejeitado | cvm-col-20211109-d1157 | fichas/tc/2021-07.md |
-| termo-compromisso | 19957.006426/2020-58 | 2021-10-26 | aceito | cvm-col-20211026-d2356 | fichas/tc/2021-07.md |
-| termo-compromisso | 19957.008986/2020-47 | 2021-10-26 | rejeitado | cvm-col-20211026-d2260 | fichas/tc/2021-07.md |
-| termo-compromisso | 19957.006903/2020-85 | 2021-10-14 | aceito | cvm-col-20211014-d2328 | fichas/tc/2021-07.md |
-| termo-compromisso | 19957.008029/2020-11 | 2021-09-28 | aceito | cvm-col-20210928-d2318 | fichas/tc/2021-06.md |
-| termo-compromisso | 19957.007550/2019-05 | 2021-09-28 | rejeitado | cvm-col-20210928-d1833 | fichas/tc/2021-06.md |
-| termo-compromisso | 19957.007123/2020-52 | 2021-09-21 | aceito | cvm-col-20210921-d2311 | fichas/tc/2021-06.md |
-| termo-compromisso | 19957.005978/2020-49 | 2021-09-21 | aceito | cvm-col-20210921-d2310 | fichas/tc/2021-06.md |
-| acordao-crsfn | RJ2018/4279 | 2021-09-15 | outro | crsfn-10372-100335-2019-71 | fichas/crsfn/2021-04.md |
-| acordao-crsfn | RJ2016/4711 | 2021-09-14 | parcial | crsfn-10372-100048-2020-02 | fichas/crsfn/2021-03.md |
-| termo-compromisso | 19957.001968/2020-34 | 2021-08-31 | aceito | cvm-col-20210831-d2290 | fichas/tc/2021-06.md |
-| termo-compromisso | 19957.008035/2020-78 | 2021-08-17 | aceito | cvm-col-20210817-d2271 | fichas/tc/2021-05.md |
-| acordao-crsfn | RJ2014/1020 | 2021-08-10 | condenacao | crsfn-10372-100118-2018-08 | fichas/crsfn/2021-02.md |
-| termo-compromisso | 19957.008986/2020-47 | 2021-08-03 | rejeitado | cvm-col-20210803-d2260 | fichas/tc/2021-05.md |
-| termo-compromisso | 19957.004559/2020-90 | 2021-07-20 | aceito | cvm-col-20210720-d2244 | fichas/tc/2021-05.md |
-| acordao-crsfn | RJ2017/3558 | 2021-07-13 | condenacao | crsfn-10372-100384-2018-22 | fichas/crsfn/2021-02.md |
-| acordao-crsfn | RJ2013-2759 | 2021-06-14 | parcial | crsfn-10372-100291-2018-06 | fichas/crsfn/2021-01.md |
-| termo-compromisso | 19957.006244/2020-87 | 2021-05-25 | aceito | cvm-col-20210525-d2179 | fichas/tc/2021-04.md |
-| termo-compromisso | 19957.005753/2020-92 | 2021-05-18 | aceito | cvm-col-20210518-d2169 | fichas/tc/2021-04.md |
-| termo-compromisso | 19957.001049/2020-61 | 2021-05-18 | aceito | cvm-col-20210518-d2168 | fichas/tc/2021-03.md |
-| termo-compromisso | 19957.001737/2020-21 | 2021-05-18 | aceito | cvm-col-20210518-d2165 | fichas/tc/2021-03.md |
-| termo-compromisso | 19957.005414/2020-14 | 2021-05-11 | aceito | cvm-col-20210511-d2161 | fichas/tc/2021-03.md |
-| termo-compromisso | 19957.010181/2018-49 | 2021-05-04 | aceito | cvm-col-20210504-d1537 | fichas/tc/2021-03.md |
-| termo-compromisso | 19957.002991/2020-46 | 2021-04-20 | aceito | cvm-col-20210420-d2137 | fichas/tc/2021-02.md |
-| acordao-crsfn | RJ-2016-7352 | 2021-04-13 | parcial | crsfn-10372-100320-2018-21 | fichas/crsfn/2021-01.md |
-| termo-compromisso | 19957.001392/2020-13 | 2021-04-06 | aceito | cvm-col-20210406-d2126 | fichas/tc/2021-02.md |
-| termo-compromisso | 19957.006091/2020-78 | 2021-03-02 | aceito | cvm-col-20210302-d2088 | fichas/tc/2021-02.md |
-| termo-compromisso | 19957.009401/2019-72 | 2021-02-18 | aceito | cvm-col-20210218-d2062 | fichas/tc/2021-01.md |
-| termo-compromisso | 19957.007550/2019-05 | 2021-02-09 | rejeitado | cvm-col-20210209-d1833 | fichas/tc/2021-01.md |
-| pas | 19957.010135/2018-40; RJ2018/7396 | 2021-01-19 | parcial | cvm-pas-19957-010135-2018-40 | fichas/pas/2021.md |
-| termo-compromisso | 19957.010395/2019-04 | 2021-01-05 | aceito | cvm-col-20210105-d2025 | fichas/tc/2021-01.md |
-| decisao-colegiado | 19957.007457/2018-10 | 2020-12-08 | parcial | cvm-col-20201208-d1361 | fichas/colegiado/2020-21.md |
-| decisao-colegiado | 480/2009; 19957.004286/2019-40 | 2020-11-06 | — | cvm-col-20201106-d1673 | fichas/colegiado/2020-18.md |
-| decisao-colegiado | 480/2009; 19957.004286/2019-40 | 2020-09-30 | — | cvm-col-20200930-d1673 | fichas/colegiado/2020-16.md |
-| acordao-crsfn | RJ2014/13353 | 2020-09-20 | outro | crsfn-edcl-10372-100295-2018-86 | fichas/crsfn/2020-05.md |
-| acordao-crsfn | RJ-2016-4712 | 2020-09-18 | condenacao | crsfn-10372-100312-2018-85 | fichas/crsfn/2020-05.md |
-| acordao-crsfn | RJ2014/3402 | 2020-09-15 | condenacao | crsfn-10372-100232-2019-19 | fichas/crsfn/2020-04.md |
-| decisao-colegiado | 19957.004764/2020-55 | 2020-07-21 | parcial | cvm-col-20200721-d1861 | fichas/colegiado/2020-11.md |
-| pas | 19957.008895/2019-78; RJ2019/6858 | 2020-07-07 | condenacao | cvm-pas-19957-008895-2019-78 | fichas/pas/2020-03.md |
-| decisao-colegiado | 19957.001316/2020-08 | 2020-07-07 | parcial | cvm-col-20200707-d1848 | fichas/colegiado/2020-11.md |
-| termo-compromisso | 19957.011091/2019-56 | 2020-06-30 | aceito | cvm-col-20200630-d1847 | fichas/tc/2020-05.md |
-| pas | 19957.005762/2019-40; RJ2019/3693 | 2020-06-23 | condenacao | cvm-pas-19957-005762-2019-40 | fichas/pas/2020-03.md |
-| termo-compromisso | 19957.007550/2019-05 | 2020-06-16 | rejeitado | cvm-col-20200616-d1833 | fichas/tc/2020-05.md |
-| termo-compromisso | 19957.010842/2017-55 | 2020-06-09 | aceito | cvm-col-20200609-d1826 | fichas/tc/2020-05.md |
-| termo-compromisso | 19957.010383/2018-91; 19957.004932/2019-79 | 2020-06-02 | rejeitado | cvm-col-20200602-d1567 | fichas/tc/2020-04.md |
-| decisao-colegiado | 19957.005665/2016-12 | 2020-05-19 | parcial | cvm-col-20200519-d0794 | fichas/colegiado/2020-08.md |
-| termo-compromisso | 19957.003224/2019-11 | 2020-05-12 | aceito | cvm-col-20200512-d1801 | fichas/tc/2020-04.md |
-| termo-compromisso | 19957.007404/2019-71 | 2020-05-12 | aceito | cvm-col-20200512-d1796 | fichas/tc/2020-04.md |
-| termo-compromisso | 19957.003525/2019-44 | 2020-05-12 | aceito | cvm-col-20200512-d1795 | fichas/tc/2020-04.md |
-| termo-compromisso | 19957.009217/2018-41 | 2020-05-12 | aceito | cvm-col-20200512-d1793 | fichas/tc/2020-04.md |
-| decisao-colegiado | 19957.002351/2020-36 | 2020-03-31 | outro | cvm-col-20200331-d1767 | fichas/colegiado/2020-06.md |
-| termo-compromisso | 19957.001964/2019-12 | 2020-03-31 | aceito | cvm-col-20200331-d1765 | fichas/tc/2020-03.md |
-| termo-compromisso | 19957.005290/2019-25 | 2020-03-17 | aceito | cvm-col-20200317-d1748 | fichas/tc/2020-02.md |
-| acordao-crsfn | RJ2016/7808 | 2020-03-11 | parcial | crsfn-10372-100012-2019-87 | fichas/crsfn/2020-02.md |
-| acordao-crsfn | RJ2016/5499 | 2020-03-10 | parcial | crsfn-10372-100259-2018-12 | fichas/crsfn/2020-01.md |
-| termo-compromisso | 19957.005428/2019-96 | 2020-03-03 | aceito | cvm-col-20200303-d1730 | fichas/tc/2020-02.md |
-| acordao-crsfn | SP2018/40 | 2020-02-11 | condenacao | crsfn-10372-100434-2018-71 | fichas/crsfn/2020-01.md |
-| acordao-crsfn | RJ2015/10215 | 2020-02-11 | parcial | crsfn-10372-100361-2018-18 | fichas/crsfn/2020-01.md |
-| termo-compromisso | 19957.004388/2019-65 | 2020-02-04 | aceito | cvm-col-20200204-d1686 | fichas/tc/2020-01.md |
-| termo-compromisso | 19957.005332/2018-47 | 2020-02-04 | aceito | cvm-col-20200204-d1323 | fichas/tc/2020-01.md |
-| decisao-colegiado | 19957.000105/2020-40 | 2020-02-04 | outro | cvm-col-20200204-d1022 | fichas/colegiado/2020-02.md |
-| termo-compromisso | 19957.004283/2019-14; 19957.004912/2019-06 | 2020-01-28 | aceito | cvm-col-20200128-d1678 | fichas/tc/2020-01.md |
-| decisao-colegiado | 480/2009; 19957.004286/2019-40 | 2019-12-20 | — | cvm-col-20191220-d1673 | fichas/colegiado/2019-21.md |
-| pas | 19957.005934/2016-32; RJ2016/7162 | 2019-12-10 | condenacao | cvm-pas-19957-005934-2016-32 | fichas/pas/2019-12.md |
-| pas | 19957.004986/2019-34; RJ2019/3127 | 2019-12-10 | condenacao | cvm-pas-19957-004986-2019-34 | fichas/pas/2019-12.md |
-| pas | 19957.009116/2018-71; RJ2018/6282 | 2019-12-03 | condenacao | cvm-pas-19957-009116-2018-71 | fichas/pas/2019-11.md |
-| decisao-colegiado | 19957.008455/2019-11 | 2019-10-08 | nao-provido | cvm-col-20191008-d1569 | fichas/colegiado/2019-16.md |
-| termo-compromisso | 19957.010383/2018-91 | 2019-10-08 | rejeitado | cvm-col-20191008-d1567 | fichas/tc/2019-06.md |
-| termo-compromisso | 19957.010559/2018-12 | 2019-10-01 | aceito | cvm-col-20191001-d1558 | fichas/tc/2019-05.md |
-| pas | SP2017/493 | 2019-09-24 | condenacao | cvm-pas-sp2017-0493 | fichas/pas/2019-09.md |
-| termo-compromisso | 19957.010181/2018-49 | 2019-09-17 | rejeitado | cvm-col-20190917-d1537 | fichas/tc/2019-05.md |
-| termo-compromisso | 19957.009116/2018-71 | 2019-08-20 | rejeitado | cvm-col-20190820-d1499 | fichas/tc/2019-05.md |
-| pas | RJ2018/3434 | 2019-08-06 | condenacao | cvm-pas-rj2018-3434 | fichas/pas/2019-08.md |
-| pas | 19957.005100/2018-99; RJ2018/3434 | 2019-08-06 | condenacao | cvm-pas-19957-005100-2018-99 | fichas/pas/2019-07.md |
-| termo-compromisso | 19957.005866/2018-73 | 2019-08-06 | rejeitado | cvm-col-20190806-d1481 | fichas/tc/2019-04.md |
-| termo-compromisso | 19957.007674/2018-00 | 2019-08-06 | aceito | cvm-col-20190806-d1478 | fichas/tc/2019-04.md |
-| termo-compromisso | 19957.007825/2018-11 | 2019-07-30 | rejeitado | cvm-col-20190730-d1246 | fichas/tc/2019-04.md |
-| acordao-crsfn | RJ2018/3005 | 2019-07-23 | condenacao | crsfn-10372-100075-2019-33 | fichas/crsfn/2019-02.md |
-| pas | RJ2016/7190 | 2019-07-09 | absolvicao | cvm-pas-rj2016-7190 | fichas/pas/2019-06.md |
-| pas | RJ2016/4711 | 2019-07-02 | parcial | cvm-pas-rj2016-4711 | fichas/pas/2019-06.md |
-| pas | RJ2014/6517 | 2019-06-25 | parcial | cvm-pas-rj2014-6517 | fichas/pas/2019-05.md |
-| termo-compromisso | 19957.002738/2016-14 | 2019-05-28 | rejeitado | cvm-col-20190528-d0631 | fichas/tc/2019-03.md |
-| termo-compromisso | 19957.004675/2018-94; 19957.009125/2018-61 | 2019-05-21 | aceito | cvm-col-20190521-d1396 | fichas/tc/2019-03.md |
-| termo-compromisso | 19957.006242/2017-92 | 2019-05-21 | aceito | cvm-col-20190521-d1097 | fichas/tc/2019-03.md |
-| termo-compromisso | 19957.002738/2016-14 | 2019-04-30 | rejeitado | cvm-col-20190430-d0631 | fichas/tc/2019-02.md |
-| acordao-crsfn | 09/2009 | 2019-04-23 | parcial | crsfn-14390 | fichas/crsfn/2019-01.md |
-| termo-compromisso | 19957.005100/2018-99 | 2019-04-22 | rejeitado | cvm-col-20190422-d1377 | fichas/tc/2019-02.md |
-| termo-compromisso | 19957.009294/2017-11 | 2019-04-09 | rejeitado | cvm-col-20190409-d1157 | fichas/tc/2019-02.md |
-| pas | RJ2018/4279 | 2019-04-02 | condenacao | cvm-pas-rj2018-4279 | fichas/pas/2019-03.md |
-| pas | RJ2017/6169 | 2019-04-02 | parcial | cvm-pas-rj2017-6169 | fichas/pas/2019-03.md |
-| termo-compromisso | 19957.005870/2018-31 | 2019-03-19 | aceito | cvm-col-20190319-d1346 | fichas/tc/2019-02.md |
-| termo-compromisso | 19957.005332/2018-47 | 2019-03-19 | aceito | cvm-col-20190319-d1323 | fichas/tc/2019-02.md |
-| pas | RJ2015/10545 | 2019-02-19 | parcial | cvm-pas-rj2015-10545 | fichas/pas/2019-02.md |
-| termo-compromisso | 19957.011050/2017-06 | 2019-02-19 | aceito | cvm-col-20190219-d1315 | fichas/tc/2019-01.md |
-| termo-compromisso | 19957.005419/2018-14 | 2019-02-12 | aceito | cvm-col-20190212-d1307 | fichas/tc/2019-01.md |
-| termo-compromisso | 19957.004423/2018-65 | 2019-02-12 | aceito | cvm-col-20190212-d1306 | fichas/tc/2019-01.md |
-| termo-compromisso | 19957.000925/2018-17 | 2019-02-12 | aceito | cvm-col-20190212-d1303 | fichas/tc/2019-01.md |
-| termo-compromisso | 19957.005922/2018-70 | 2019-01-22 | aceito | cvm-col-20190122-d1282 | fichas/tc/2019-01.md |
-| decisao-colegiado | 19957.003597/2018-19 | 2018-12-27 | provido | cvm-col-20181227-d1018 | fichas/colegiado/2018-21.md |
-| decisao-colegiado | 19957.000448/2018-90 | 2018-12-18 | nao-provido | cvm-col-20181218-d1007 | fichas/colegiado/2018-21.md |
-| pas | RJ2014/3402 | 2018-12-13 | condenacao | cvm-pas-rj2014-3402 | fichas/pas/2018-11.md |
-| acordao-crsfn | RJ2013/8695 | 2018-12-12 | parcial | crsfn-14095 | fichas/crsfn/2018-08.md |
-| acordao-crsfn | 04/2012 | 2018-12-11 | parcial | crsfn-14227 | fichas/crsfn/2018-07.md |
-| pas | RJ2014/14161 | 2018-12-04 | condenacao | cvm-pas-rj2014-14161 | fichas/pas/2018-10.md |
-| termo-compromisso | 19957.009835/2017-19 | 2018-11-27 | rejeitado | cvm-col-20181127-d1226 | fichas/tc/2018-06.md |
-| pas | RJ2018/3005 | 2018-11-13 | parcial | cvm-pas-rj2018-3005 | fichas/pas/2018-10.md |
-| termo-compromisso | 19957.010686/2017-22 | 2018-11-13 | rejeitado | cvm-col-20181113-d1218 | fichas/tc/2018-06.md |
-| acordao-crsfn | RJ2016/8172 | 2018-11-09 | condenacao | crsfn-10372-100340-2018-01 | fichas/crsfn/2018-07.md |
-| decisao-colegiado | 19957.009858/2018-04 | 2018-10-30 | deferido | cvm-col-20181030-d1209 | fichas/colegiado/2018-19.md |
-| decisao-colegiado | 19957.009104/2018-46 | 2018-10-23 | provido | cvm-col-20181023-d1193 | fichas/colegiado/2018-18.md |
-| termo-compromisso | 19957.009681/2017-57 | 2018-09-25 | aceito | cvm-col-20180925-d1169 | fichas/tc/2018-05.md |
-| pas | RJ2017/3190 | 2018-08-21 | condenacao | cvm-pas-rj2017-3190 | fichas/pas/2018-07.md |
-| acordao-crsfn | 08/2009 | 2018-08-21 | parcial | crsfn-14324 | fichas/crsfn/2018-05.md |
-| pas | SP2018/40 | 2018-08-07 | condenacao | cvm-pas-sp2018-0040 | fichas/pas/2018-06.md |
-| pas | 19957.006977/2017-16; RJ2017/3558 | 2018-07-24 | condenacao | cvm-pas-19957-006977-2017-16 | fichas/pas/2018-06.md |
-| pas | 19957.006193/2017-98; RJ2017/2945 | 2018-07-24 | parcial | cvm-pas-19957-006193-2017-98 | fichas/pas/2018-05.md |
-| pas | 19957.001067/2017-47; RJ2017/490 | 2018-07-24 | condenacao | cvm-pas-19957-001067-2017-47 | fichas/pas/2018-05.md |
-| acordao-crsfn | RJ2014/6225 | 2018-07-24 | arquivamento | crsfn-10372-100240-2017-95 | fichas/crsfn/2018-05.md |
-| acordao-crsfn | RJ2015/6319 | 2018-07-24 | condenacao | crsfn-10372-100216-2017-56 | fichas/crsfn/2018-04.md |
-| pas | RJ2016/7808 | 2018-07-12 | condenacao | cvm-pas-rj2016-7808 | fichas/pas/2018-05.md |
-| acordao-crsfn | RJ2011/14514 | 2018-06-26 | parcial | crsfn-revisao-13730 | fichas/crsfn/2018-04.md |
-| pas | RJ2017/1582 | 2018-06-19 | condenacao | cvm-pas-rj2017-1582 | fichas/pas/2018-04.md |
-| termo-compromisso | 19957.003946/2017-11 | 2018-06-05 | aceito | cvm-col-20180605-d1054 | fichas/tc/2018-03.md |
-| acordao-crsfn | RJ2015/3529 | 2018-05-23 | parcial | crsfn-14446 | fichas/crsfn/2018-03.md |
-| termo-compromisso | 19957.008176/2017-95 | 2018-05-22 | aceito | cvm-col-20180522-d0872 | fichas/tc/2018-03.md |
-| pas | 19957.006739/2018-91; 18/2013 | 2018-05-08 | parcial | cvm-pas-19957-006739-2018-91 | fichas/pas/2018-03.md |
-| decisao-colegiado | 19957.000569/2017-51 | 2018-05-02 | nao-provido | cvm-col-20180502-d0732 | fichas/colegiado/2018-08.md |
-| pas | RJ2016/4712 | 2018-04-24 | condenacao | cvm-pas-rj2016-4712 | fichas/pas/2018-03.md |
-| decisao-colegiado | 19957.002727/2016-26 | 2018-04-24 | nao-provido | cvm-col-20180424-d0324 | fichas/colegiado/2018-08.md |
-| pas | RJ2016/4728 | 2018-04-03 | parcial | cvm-pas-rj2016-4728 | fichas/pas/2018-03.md |
-| acordao-crsfn | RJ2012/13047 | 2018-04-03 | parcial | crsfn-14164 | fichas/crsfn/2018-03.md |
-| acordao-crsfn | RJ2014/3839 | 2018-03-21 | parcial | crsfn-10372-100196-2017-13 | fichas/crsfn/2018-02.md |
-| acordao-crsfn | RJ2012/6160 | 2018-03-20 | absolvicao | crsfn-14039 | fichas/crsfn/2018-02.md |
-| acordao-crsfn | RJ2016/4134 | 2018-03-20 | condenacao | crsfn-10372-100230-2017-50 | fichas/crsfn/2018-01.md |
-| decisao-colegiado | 19957.001718/2018-80 | 2018-03-13 | deferido | cvm-col-20180313-d0990 | fichas/colegiado/2018-06.md |
-| termo-compromisso | 19957.003189/2017-78 | 2018-02-27 | aceito | cvm-col-20180227-d0969 | fichas/tc/2018-01.md |
-| termo-compromisso | 19957.002342/2017-40 | 2018-02-27 | aceito | cvm-col-20180227-d0753 | fichas/tc/2018-01.md |
-| acordao-crsfn | RJ2009/8439 | 2018-02-21 | parcial | crsfn-14212 | fichas/crsfn/2018-01.md |
-| acordao-crsfn | RJ2010/8784 | 2018-02-21 | absolvicao | crsfn-13904 | fichas/crsfn/2018-01.md |
-| pas | RJ2016/7352 | 2018-02-20 | parcial | cvm-pas-rj2016-7352 | fichas/pas/2018-01.md |
-| pas | RJ2015/10215 | 2018-02-20 | parcial | cvm-pas-rj2015-10215 | fichas/pas/2018-01.md |
-| termo-compromisso | 19957.002672/2017-35 | 2018-02-20 | aceito | cvm-col-20180220-d0965 | fichas/tc/2018-01.md |
-| termo-compromisso | 19957.005462/2017-07; RJ2017/2515 | 2018-01-30 | aceito | cvm-col-20180130-d0915 | fichas/tc/2018-01.md |
-| termo-compromisso | 19957.001633/2017-11; RJ2017/0873 | 2018-01-30 | aceito | cvm-col-20180130-d0913 | fichas/tc/2018-01.md |
-| pas | RJ2014/7352 | 2018-01-16 | absolvicao | cvm-pas-rj2014-7352 | fichas/pas/2018-01.md |
-| pas | RJ2016/5734 | 2017-12-22 | condenacao | cvm-pas-rj2016-5734 | fichas/pas/2017-06.md |
-| pas | RJ2017/2048 | 2017-12-19 | condenacao | cvm-pas-rj2017-2048 | fichas/pas/2017-06.md |
-| termo-compromisso | 19957.002632/2017-93 | 2017-12-19 | aceito | cvm-col-20171219-d0879 | fichas/tc/2017-06.md |
-| pas | RJ2016/8172 | 2017-12-14 | parcial | cvm-pas-rj2016-8172 | fichas/pas/2017-05.md |
-| pas | RJ2016/5499 | 2017-12-14 | condenacao | cvm-pas-rj2016-5499 | fichas/pas/2017-05.md |
-| acordao-crsfn | RJ2013/4660 | 2017-12-12 | condenacao | crsfn-14334 | fichas/crsfn/2017-08.md |
-| acordao-crsfn | RJ2014/3814 | 2017-12-12 | condenacao | crsfn-14175 | fichas/crsfn/2017-08.md |
-| acordao-crsfn | RJ2008/9511 | 2017-12-12 | parcial | crsfn-12664 | fichas/crsfn/2017-08.md |
-| pas | RJ2014/12710 | 2017-12-05 | absolvicao | cvm-pas-rj2014-12710 | fichas/pas/2017-04.md |
-| pas | RJ2016/7791 | 2017-11-28 | parcial | cvm-pas-rj2016-7791 | fichas/pas/2017-04.md |
-| pas | RJ2016/5735 | 2017-11-28 | condenacao | cvm-pas-rj2016-5735 | fichas/pas/2017-04.md |
-| acordao-crsfn | RJ2013/9463 | 2017-11-21 | parcial | crsfn-14089 | fichas/crsfn/2017-08.md |
-| decisao-colegiado | SP2014/0139 | 2017-11-07 | nao-provido | cvm-col-20171107-d9983 | fichas/colegiado/2017-19.md |
-| acordao-crsfn | RJ2012/14871 | 2017-10-25 | parcial | crsfn-13938 | fichas/crsfn/2017-08.md |
-| acordao-crsfn | RJ2010/11350 | 2017-10-25 | absolvicao | crsfn-13882 | fichas/crsfn/2017-08.md |
-| termo-compromisso | 19957.001328/2017-29; RJ2017/0664 | 2017-10-10 | aceito | cvm-col-20171010-d0812 | fichas/tc/2017-04.md |
-| pas | RJ2015/1591 | 2017-09-26 | absolvicao | cvm-pas-rj2015-1591 | fichas/pas/2017-03.md |
-| termo-compromisso | RJ2014/9034 | 2017-09-19 | aceito | cvm-col-20170919-d9771 | fichas/tc/2017-04.md |
-| acordao-crsfn | RJ2014/8017 | 2017-09-19 | condenacao | crsfn-10372-100164-2017-18 | fichas/crsfn/2017-06.md |
-| acordao-crsfn | 10/11352 | 2017-09-11 | condenacao | crsfn-13414 | fichas/crsfn/2017-06.md |
-| termo-compromisso | 19957.000414/2017-14; RJ2017/0106 | 2017-09-05 | aceito | cvm-col-20170905-d0789 | fichas/tc/2017-04.md |
-| termo-compromisso | 19957.006903/2016-07; RJ2016/7808 | 2017-08-29 | rejeitado | cvm-col-20170829-d0774 | fichas/tc/2017-03.md |
-| decisao-colegiado | SP2015/0084 | 2017-08-29 | nao-provido | cvm-col-20170829-d0236 | fichas/colegiado/2017-15.md |
-| decisao-colegiado | SP2014/0404 | 2017-08-22 | parcial | cvm-col-20170822-d9658 | fichas/colegiado/2017-14.md |
-| acordao-crsfn | RJ2015/9276 | 2017-08-22 | condenacao | crsfn-10372-000119-2017-64 | fichas/crsfn/2017-06.md |
-| acordao-crsfn | RJ-2012-8094 | 2017-07-25 | condenacao | crsfn-14325 | fichas/crsfn/2017-06.md |
-| termo-compromisso | 19957.006103/2016-88; RJ2016/7352 | 2017-07-11 | rejeitado | cvm-col-20170711-d0729 | fichas/tc/2017-03.md |
-| acordao-crsfn | RJ2013/2400 | 2017-06-28 | condenacao | crsfn-14262 | fichas/crsfn/2017-05.md |
-| acordao-crsfn | RJ2013/509 | 2017-06-28 | parcial | crsfn-14216 | fichas/crsfn/2017-05.md |
-| acordao-crsfn | RJ-2010-12042 | 2017-06-28 | parcial | crsfn-13936 | fichas/crsfn/2017-05.md |
-| acordao-crsfn | RJ-2013-10909 | 2017-06-27 | condenacao | crsfn-14282 | fichas/crsfn/2017-05.md |
-| acordao-crsfn | RJ-2013-10321 | 2017-06-27 | parcial | crsfn-14271 | fichas/crsfn/2017-04.md |
-| acordao-crsfn | RJ2013/7916 | 2017-06-27 | parcial | crsfn-14270 | fichas/crsfn/2017-04.md |
-| termo-compromisso | RJ2014/12753 | 2017-06-06 | aceito | cvm-col-20170606-d0112 | fichas/tc/2017-02.md |
-| pas | RJ2016/8116 | 2017-05-30 | absolvicao | cvm-pas-rj2016-8116 | fichas/pas/2017-02.md |
-| decisao-colegiado | 10/2016; 480/2009; RJ2010/7374 | 2017-05-22 | — | cvm-col-20170522-d3185 | fichas/colegiado/2017-10.md |
-| acordao-crsfn | RJ-2014-8793 | 2017-04-19 | condenacao | crsfn-14363 | fichas/crsfn/2017-03.md |
-| acordao-crsfn | RJ-2012-10128 | 2017-04-19 | condenacao | crsfn-13902 | fichas/crsfn/2017-03.md |
-| acordao-crsfn | RJ2014/5807 | 2017-04-19 | condenacao | crsfn-10372-000718-2016-05 | fichas/crsfn/2017-03.md |
-| pas | RJ2014/6225 | 2017-04-18 | parcial | cvm-pas-rj2014-6225 | fichas/pas/2017-01.md |
-| termo-compromisso | 19957.000344/2017-02 | 2017-04-18 | aceito | cvm-col-20170418-d0661 | fichas/tc/2017-02.md |
-| decisao-colegiado | 19957.002933/2017-17 | 2017-03-31 | deferido | cvm-col-20170331-d0642 | fichas/colegiado/2017-07.md |
-| decisao-colegiado | 19957.002670/2017-46 | 2017-03-28 | deferido | cvm-col-20170328-d0636 | fichas/colegiado/2017-07.md |
-| acordao-crsfn | RJ-2011-7937 | 2017-03-14 | condenacao | crsfn-14108 | fichas/crsfn/2017-02.md |
-| acordao-crsfn | RJ8091/2012 | 2017-03-14 | condenacao | crsfn-13751 | fichas/crsfn/2017-02.md |
-| decisao-colegiado | RJ2013/7516 | 2017-03-07 | indeferido | cvm-col-20170307-d0599 | fichas/colegiado/2017-05.md |
-| decisao-colegiado | SP2016/0001 | 2017-03-07 | nao-provido | cvm-col-20170307-d0279 | fichas/colegiado/2017-05.md |
-| termo-compromisso | 19957.003984/2016-85; RJ2016/5499 | 2017-02-07 | rejeitado | cvm-col-20170207-d0564 | fichas/tc/2017-01.md |
-| termo-compromisso | 19957.002817/2016-17; RJ2016/4728 | 2017-01-24 | aceito | cvm-col-20170124-d0376 | fichas/tc/2017-01.md |
-| decisao-colegiado | 19957.007794/2016-37 | 2017-01-17 | parcial | cvm-col-20170117-d0546 | fichas/colegiado/2017-02.md |
-| decisao-colegiado | 19957.000465/2017-46 | 2017-01-11 | outro | cvm-col-20170111-d543 | fichas/colegiado/2017-01.md |
-| termo-compromisso | 19957.000944/2016-81; RJ2016/1459 | 2016-12-20 | aceito | cvm-col-20161220-d0469 | fichas/tc/2016-06.md |
-| termo-compromisso | 19957.001878/2016-67; RJ2016/4377 | 2016-12-20 | aceito | cvm-col-20161220-d0468 | fichas/tc/2016-06.md |
-| pas | RJ2015/11258 | 2016-12-15 | condenacao | cvm-pas-rj2015-11258 | fichas/pas/2016-09.md |
-| acordao-crsfn | RJ-2014-2050 | 2016-12-14 | condenacao | crsfn-14255 | fichas/crsfn/2016-06.md |
-| pas | RJ2015/8456 | 2016-12-13 | parcial | cvm-pas-rj2015-8456-2 | fichas/pas/2016-08.md |
-| pas | RJ2015/3387 | 2016-12-13 | parcial | cvm-pas-rj2015-3387 | fichas/pas/2016-08.md |
-| pas | RJ2015/12595 | 2016-12-13 | absolvicao | cvm-pas-rj2015-12595 | fichas/pas/2016-08.md |
-| pas | RJ2014/3839 | 2016-12-13 | parcial | cvm-pas-rj2014-3839 | fichas/pas/2016-08.md |
-| pas | 19957.002323/2016-32; RJ2015/4134 | 2016-12-13 | condenacao | cvm-pas-19957-002323-2016-32 | fichas/pas/2016-07.md |
-| pas | RJ2015/12594 | 2016-12-06 | absolvicao | cvm-pas-rj2015-12594 | fichas/pas/2016-07.md |
-| termo-compromisso | 19957.002800/2016-60; RJ2016/4729 | 2016-11-29 | aceito | cvm-col-20161129-d0442 | fichas/tc/2016-05.md |
-| acordao-crsfn | RJ-2011-9885 | 2016-11-29 | condenacao | crsfn-14176 | fichas/crsfn/2016-05.md |
-| pas | RJ2015/3141 | 2016-11-22 | parcial | cvm-pas-rj2015-3141 | fichas/pas/2016-07.md |
-| pas | RJ2014/8017 | 2016-11-22 | condenacao | cvm-pas-rj2014-8017 | fichas/pas/2016-06.md |
-| pas | RJ2015/8186 | 2016-11-03 | parcial | cvm-pas-rj2015-8186 | fichas/pas/2016-06.md |
-| termo-compromisso | RJ2014/3402 | 2016-11-01 | rejeitado | cvm-col-20161101-d0416 | fichas/tc/2016-05.md |
-| decisao-colegiado | 19957.006030/2016-24 | 2016-11-01 | provido | cvm-col-20161101-d0368 | fichas/colegiado/2016-21.md |
-| acordao-crsfn | RJ-2011-13095 | 2016-10-26 | condenacao | crsfn-13933 | fichas/crsfn/2016-05.md |
-| pas | RJ2015/3216 | 2016-10-25 | parcial | cvm-pas-rj2015-3216 | fichas/pas/2016-06.md |
-| acordao-crsfn | RJ2011/9493 | 2016-10-07 | arquivamento | crsfn-13690 | fichas/crsfn/2016-05.md |
-| pas | RJ2015/6319 | 2016-09-27 | parcial | cvm-pas-rj2015-6319 | fichas/pas/2016-05.md |
-| acordao-crsfn | RJ-2011-14514 | 2016-09-27 | condenacao | crsfn-13730 | fichas/crsfn/2016-04.md |
-| termo-compromisso | RJ2016/4053 | 2016-09-20 | outro | cvm-col-20160920-d0170 | fichas/tc/2016-04.md |
-| decisao-colegiado | RJ2014/4181 | 2016-09-13 | nao-provido | cvm-col-20160913-d9168 | fichas/colegiado/2016-18.md |
-| decisao-colegiado | 358/2002; RJ2013/5398 | 2016-09-13 | nao-provido | cvm-col-20160913-d8952 | fichas/colegiado/2016-18.md |
-| acordao-crsfn | RJ-2012-10069 | 2016-08-24 | condenacao | crsfn-14261 | fichas/crsfn/2016-04.md |
-| pas | RJ2015/9276 | 2016-08-23 | condenacao | cvm-pas-rj2015-9276 | fichas/pas/2016-04.md |
-| termo-compromisso | RJ2015/10545 | 2016-08-23 | rejeitado | cvm-col-20160823-d0336 | fichas/tc/2016-04.md |
-| acordao-crsfn | RJ-2014-2314 | 2016-08-23 | condenacao | crsfn-14414 | fichas/crsfn/2016-03.md |
-| acordao-crsfn | RJ-2011-8224 | 2016-08-23 | condenacao | crsfn-13931 | fichas/crsfn/2016-03.md |
-| pas | RJ2015/3231 | 2016-08-02 | condenacao | cvm-pas-rj2015-3231 | fichas/pas/2016-03.md |
-| pas | RJ2015/3103 | 2016-08-02 | condenacao | cvm-pas-rj2015-3103 | fichas/pas/2016-03.md |
-| termo-compromisso | RJ2015/6842 | 2016-07-12 | aceito | cvm-col-20160712-d0297 | fichas/tc/2016-03.md |
-| pas | RJ2015/4018 | 2016-06-28 | parcial | cvm-pas-rj2015-4018 | fichas/pas/2016-02.md |
-| acordao-crsfn | Recurso SEI 0372.000645/2016-43 | 2016-06-28 | condenacao | crsfn-recurso-sei-0372-000645-2016-43 | fichas/crsfn/2016-03.md |
-| acordao-crsfn | RJ2011/7381 | 2016-06-28 | parcial | crsfn-10372-000608-2016-35 | fichas/crsfn/2016-03.md |
-| acordao-crsfn | RJ2011/9483 | 2016-05-31 | arquivamento | crsfn-14397 | fichas/crsfn/2016-02.md |
-| decisao-colegiado | 358/2002; RJ2015/6981 | 2016-05-18 | — | cvm-col-20160518-d2844 | fichas/colegiado/2016-10.md |
-| termo-compromisso | RJ2015/3440 | 2016-05-03 | aceito | cvm-col-20160503-d0190 | fichas/tc/2016-02.md |
-| termo-compromisso | RJ2016/0135 | 2016-05-03 | rejeitado | cvm-col-20160503-d0013 | fichas/tc/2016-02.md |
-| decisao-colegiado | RJ2015/7661 | 2016-03-22 | deferido | cvm-col-20160322-d0146 | fichas/colegiado/2016-07.md |
-| pas | RJ2014/5807 | 2016-03-15 | condenacao | cvm-pas-rj2014-5807 | fichas/pas/2016-01.md |
-| acordao-crsfn | RJ2012/3168 | 2016-02-23 | condenacao | crsfn-13625 | fichas/crsfn/2016-01.md |
-| acordao-crsfn | RJ2012/3457 | 2016-01-21 | condenacao | crsfn-13626 | fichas/crsfn/2016-01.md |
-| acordao-crsfn | RJ2011/7390 | 2016-01-21 | condenacao | crsfn-13425 | fichas/crsfn/2016-01.md |
-| acordao-crsfn | RJ2011/7379 | 2016-01-21 | condenacao | crsfn-13417 | fichas/crsfn/2016-01.md |
-| acordao-crsfn | 04/2007 | 2016-01-21 | parcial | crsfn-13274 | fichas/crsfn/2016-01.md |
-| acordao-crsfn | RJ2010/4195 | 2016-01-21 | condenacao | crsfn-13258 | fichas/crsfn/2016-01.md |
-| termo-compromisso | RJ2014/9695 | 2015-12-15 | aceito | cvm-col-20151215-d9985 | fichas/tc/2015-05.md |
-| acordao-crsfn | RJ2011/7939 | 2015-12-15 | parcial | crsfn-13624 | fichas/crsfn/2015-04.md |
-| pas | RJ2015/3529 | 2015-12-08 | parcial | cvm-pas-rj2015-3529 | fichas/pas/2015-06.md |
-| termo-compromisso | RJ2014/14161 | 2015-12-08 | rejeitado | cvm-col-20151208-d9962 | fichas/tc/2015-05.md |
-| termo-compromisso | RJ2013/12595 | 2015-12-08 | aceito | cvm-col-20151208-d9572 | fichas/tc/2015-04.md |
-| termo-compromisso | RJ2014/10859 | 2015-12-01 | aceito | cvm-col-20151201-d9959 | fichas/tc/2015-04.md |
-| pas | RJ2014/2314 | 2015-10-27 | condenacao | cvm-pas-rj2014-2314 | fichas/pas/2015-06.md |
-| acordao-crsfn | RJ2009/9439 | 2015-09-22 | condenacao | crsfn-13395 | fichas/crsfn/2015-04.md |
-| decisao-colegiado | RJ2012/3454 | 2015-08-04 | parcial | cvm-col-20150804-d8926 | fichas/colegiado/2015-14.md |
-| decisao-colegiado | RJ2015/3002 | 2015-07-28 | parcial | cvm-col-20150728-d9749 | fichas/colegiado/2015-14.md |
-| acordao-crsfn | RJ2011/7377 | 2015-07-28 | condenacao | crsfn-13416 | fichas/crsfn/2015-03.md |
-| acordao-crsfn | 16/2009 | 2015-07-28 | condenacao | crsfn-13404 | fichas/crsfn/2015-03.md |
-| acordao-crsfn | RJ2009/12672 | 2015-07-28 | absolvicao | crsfn-13378 | fichas/crsfn/2015-03.md |
-| pas | RJ2014-8793 | 2015-07-21 | condenacao | cvm-pas-rj2014-8793 | fichas/pas/2015-04.md |
-| pas | 09/2009 | 2015-07-21 | parcial | cvm-pas-09-2009 | fichas/pas/2015-04.md |
-| termo-compromisso | RJ2014/9501 | 2015-07-21 | aceito | cvm-col-20150721-d9772 | fichas/tc/2015-03.md |
-| decisao-colegiado | RJ2013/5470 | 2015-07-14 | nao-provido | cvm-col-20150714-d9305 | fichas/colegiado/2015-13.md |
-| decisao-colegiado | SP2014/0017 | 2015-07-14 | nao-provido | cvm-col-20150714-d9208 | fichas/colegiado/2015-13.md |
-| decisao-colegiado | RJ2011/9483 | 2015-07-14 | nao-provido | cvm-col-20150714-d8062 | fichas/colegiado/2015-13.md |
-| decisao-colegiado | RJ2012/8094 | 2015-07-07 | parcial | cvm-col-20150707-d8708 | fichas/colegiado/2015-12.md |
-| pas | RJ2013/4660 | 2015-07-01 | condenacao | cvm-pas-rj2013-4660 | fichas/pas/2015-04.md |
-| acordao-crsfn | RJ2011/7389 | 2015-06-30 | absolvicao | crsfn-13418 | fichas/crsfn/2015-02.md |
-| termo-compromisso | RJ2014/7213 | 2015-06-09 | rejeitado | cvm-col-20150609-d9682 | fichas/tc/2015-03.md |
-| decisao-colegiado | RJ2013/12595 | 2015-06-02 | outro | cvm-col-20150602-d9572 | fichas/colegiado/2015-09.md |
-| decisao-colegiado | RJ2014/6629 | 2015-06-02 | nao-provido | cvm-col-20150602-d9342 | fichas/colegiado/2015-09.md |
-| pas | RJ2012/1730 | 2015-05-19 | absolvicao | cvm-pas-rj2012-1730 | fichas/pas/2015-03.md |
-| termo-compromisso | RJ2014/5478 | 2015-05-05 | aceito | cvm-col-20150505-d9642 | fichas/tc/2015-02.md |
-| pas | 08/2009 | 2015-04-28 | condenacao | cvm-pas-08-2009 | fichas/pas/2015-02.md |
-| pas | RJ2012/1542 | 2015-03-31 | condenacao | cvm-pas-rj2012-1542 | fichas/pas/2015-02.md |
-| pas | RJ2012/10069 | 2015-03-31 | condenacao | cvm-pas-rj2012-10069 | fichas/pas/2015-02.md |
-| decisao-colegiado | — | 2015-03-24 | outro | cvm-col-20150324-d9610 | fichas/colegiado/2015-05.md |
-| decisao-colegiado | RJ2013/5470 | 2015-03-24 | nao-provido | cvm-col-20150324-d9305 | fichas/colegiado/2015-05.md |
-| acordao-crsfn | RJ-2008-12216 | 2015-03-24 | parcial | crsfn-13070 | fichas/crsfn/2015-01.md |
-| pas | RJ2014/2050 | 2015-03-18 | condenacao | cvm-pas-rj2014-2050 | fichas/pas/2015-02.md |
-| pas | RJ2013/7916 | 2015-03-18 | condenacao | cvm-pas-rj2013-7916 | fichas/pas/2015-02.md |
-| pas | RJ2013/2400 | 2015-03-18 | parcial | cvm-pas-rj2013-2400 | fichas/pas/2015-02.md |
-| pas | RJ2013/10909 | 2015-03-18 | condenacao | cvm-pas-rj2013-10909 | fichas/pas/2015-02.md |
-| pas | RJ2013/10321 | 2015-03-18 | parcial | cvm-pas-rj2013-10321 | fichas/pas/2015-01.md |
-| pas | 01/2013 | 2015-03-10 | condenacao | cvm-pas-01-2013 | fichas/pas/2015-01.md |
-| decisao-colegiado | RJ2014/6629 | 2015-03-10 | nao-provido | cvm-col-20150310-d9342 | fichas/colegiado/2015-04.md |
-| decisao-colegiado | RJ2011/2854 | 2015-02-24 | nao-provido | cvm-col-20150224-d7729 | fichas/colegiado/2015-03.md |
-| termo-compromisso | RJ2013/12595 | 2015-02-10 | rejeitado | cvm-col-20150210-d9572 | fichas/tc/2015-01.md |
-| pas | RJ2013/0509 | 2015-01-27 | condenacao | cvm-pas-rj2013-0509 | fichas/pas/2015-01.md |
-| decisao-colegiado | SP2014/0062 | 2015-01-07 | deferido | cvm-col-20150107-d9515 | fichas/colegiado/2015-01.md |
-| termo-compromisso | RJ2013/8696 | 2014-12-16 | aceito | cvm-col-20141216-d02 | fichas/tc/2014-05.md |
-| termo-compromisso | RJ2014/2314 | 2014-12-09 | rejeitado | cvm-col-20141209-d08 | fichas/tc/2014-05.md |
-| termo-compromisso | RJ2014/2050 | 2014-12-09 | rejeitado | cvm-col-20141209-d07 | fichas/tc/2014-05.md |
-| termo-compromisso | RJ2013/12570 | 2014-12-09 | aceito | cvm-col-20141209-d05 | fichas/tc/2014-05.md |
-| decisao-colegiado | — | 2014-12-09 | deferido | cvm-col-20141209-d01-r3 | fichas/colegiado/2014-25.md |
-| termo-compromisso | RJ2013/9737 | 2014-12-02 | aceito | cvm-col-20141202-d16 | fichas/tc/2014-05.md |
-| termo-compromisso | RJ2013/2400 | 2014-12-02 | rejeitado | cvm-col-20141202-d08 | fichas/tc/2014-04.md |
-| pas | 04/2012 | 2014-11-25 | parcial | cvm-pas-04-2012 | fichas/pas/2014-04.md |
-| termo-compromisso | RJ2014/3606 | 2014-11-18 | aceito | cvm-col-20141118-d02 | fichas/tc/2014-03.md |
-| decisao-colegiado | — | 2014-11-17 | deferido | cvm-col-20141117-d01 | fichas/colegiado/2014-22.md |
-| termo-compromisso | RJ2013/8604 | 2014-11-11 | aceito | cvm-col-20141111-d01 | fichas/tc/2014-03.md |
-| decisao-colegiado | — | 2014-11-05 | indeferido | cvm-col-20141105-d01 | fichas/colegiado/2014-21.md |
-| decisao-colegiado | — | 2014-11-03 | deferido | cvm-col-20141103-d01 | fichas/colegiado/2014-20.md |
-| pas | RJ2014/3814 | 2014-10-21 | — | cvm-pas-rj2014-3814 | fichas/pas/2014-04.md |
-| decisao-colegiado | RJ2014/2476 | 2014-10-21 | outro | cvm-col-20141021-d01 | fichas/colegiado/2014-19.md |
-| acordao-crsfn | RJ2010/11567 | 2014-10-21 | parcial | crsfn-13334 | fichas/crsfn/2014-06.md |
-| decisao-colegiado | RJ2014/11126 | 2014-10-20 | parcial | cvm-col-20141020-d01 | fichas/colegiado/2014-19.md |
-| termo-compromisso | RJ2014/3423 | 2014-10-07 | rejeitado | cvm-col-20141007-d02 | fichas/tc/2014-03.md |
-| termo-compromisso | RJ2014/0782 | 2014-10-07 | rejeitado | cvm-col-20141007-d01 | fichas/tc/2014-03.md |
-| termo-compromisso | RJ2013/11592 | 2014-09-09 | aceito | cvm-col-20140909-d03 | fichas/tc/2014-02.md |
-| termo-compromisso | RJ2013/10299 | 2014-09-09 | aceito | cvm-col-20140909-d02 | fichas/tc/2014-02.md |
-| pas | RJ2012/3787 | 2014-09-02 | condenacao | cvm-pas-rj2012-3787 | fichas/pas/2014-03.md |
-| acordao-crsfn | RJ-2008-11199 | 2014-08-26 | arquivamento | crsfn-12839 | fichas/crsfn/2014-04.md |
-| pas | RJ2012/1670 | 2014-07-29 | absolvicao | cvm-pas-rj2012-1670 | fichas/pas/2014-03.md |
-| pas | RJ2013/9463 | 2014-07-22 | condenacao | cvm-pas-rj2013-9463 | fichas/pas/2014-03.md |
-| acordao-crsfn | RJ-2008-9022 | 2014-07-22 | absolvicao | crsfn-12977 | fichas/crsfn/2014-04.md |
-| decisao-colegiado | — | 2014-07-11 | indeferido | cvm-col-20140711-d01 | fichas/colegiado/2014-13.md |
-| decisao-colegiado | RJ2014/3101 | 2014-06-23 | deferido | cvm-col-20140623-d01 | fichas/colegiado/2014-12.md |
-| pas | RJ2013/8695 | 2014-06-03 | condenacao | cvm-pas-rj2013-8695 | fichas/pas/2014-02.md |
-| decisao-colegiado | RJ2012/8095 | 2014-06-03 | provido | cvm-col-20140603-d06 | fichas/colegiado/2014-11.md |
-| acordao-crsfn | RJ-2009-2146 | 2014-06-03 | condenacao | crsfn-13232 | fichas/crsfn/2014-04.md |
-| acordao-crsfn | RJ-2006-8572 | 2014-06-03 | condenacao | crsfn-13177 | fichas/crsfn/2014-04.md |
-| decisao-colegiado | RJ2014/3101 | 2014-05-27 | deferido | cvm-col-20140527-d01-r2 | fichas/colegiado/2014-10.md |
-| acordao-crsfn | RJ-2010-1582 | 2014-05-13 | parcial | crsfn-13359 | fichas/crsfn/2014-03.md |
-| acordao-crsfn | RJ-2009-1365 | 2014-05-13 | parcial | crsfn-13231 | fichas/crsfn/2014-03.md |
-| acordao-crsfn | RJ-2007-8150 | 2014-05-13 | condenacao | crsfn-12757 | fichas/crsfn/2014-03.md |
-| termo-compromisso | RJ2013/5640 | 2014-05-06 | aceito | cvm-col-20140506-d07 | fichas/tc/2014-01.md |
-| termo-compromisso | RJ2013/8699 | 2014-05-06 | aceito | cvm-col-20140506-d06 | fichas/tc/2014-01.md |
-| termo-compromisso | SP2013/0260 | 2014-05-06 | aceito | cvm-col-20140506-d05 | fichas/tc/2014-01.md |
-| acordao-crsfn | RJ-2007-4685 | 2014-04-15 | parcial | crsfn-13229 | fichas/crsfn/2014-03.md |
-| acordao-crsfn | RJ-2009-2172 | 2014-04-15 | condenacao | crsfn-13097 | fichas/crsfn/2014-02.md |
-| decisao-colegiado | — | 2014-04-11 | parcial | cvm-col-20140411-d01 | fichas/colegiado/2014-07.md |
-| decisao-colegiado | RJ2013/10549 | 2014-04-10 | deferido | cvm-col-20140410-d01 | fichas/colegiado/2014-07.md |
-| decisao-colegiado | — | 2014-03-28 | indeferido | cvm-col-20140328-d01 | fichas/colegiado/2014-06.md |
-| decisao-colegiado | — | 2014-03-27 | deferido | cvm-col-20140327-d01 | fichas/colegiado/2014-06.md |
-| decisao-colegiado | — | 2014-03-07 | deferido | cvm-col-20140307-d01 | fichas/colegiado/2014-04.md |
-| pas | RJ2013/9990 | 2014-02-25 | absolvicao | cvm-pas-rj2013-9990 | fichas/pas/2014-01.md |
-| decisao-colegiado | — | 2014-02-24 | deferido | cvm-col-20140224-d01 | fichas/colegiado/2014-03.md |
-| decisao-colegiado | — | 2014-02-18 | deferido | cvm-col-20140218-d01-r3 | fichas/colegiado/2014-03.md |
-| acordao-crsfn | RJ-2008-2209 | 2014-02-18 | condenacao | crsfn-12824 | fichas/crsfn/2014-01.md |
-| decisao-colegiado | — | 2014-01-29 | deferido | cvm-col-20140129-d01-r2 | fichas/colegiado/2014-02.md |
-| acordao-crsfn | RJ-2008-6250 | 2014-01-21 | condenacao | crsfn-12905 | fichas/crsfn/2014-01.md |
-| decisao-colegiado | — | 2013-12-18 | deferido | cvm-col-20131218-d01 | fichas/colegiado/2013-24.md |
-| termo-compromisso | RJ2013/5657 | 2013-12-17 | aceito | cvm-col-20131217-d12 | fichas/tc/2013-06.md |
-| termo-compromisso | RJ2013/5555 | 2013-12-17 | aceito | cvm-col-20131217-d08 | fichas/tc/2013-06.md |
-| pas | RJ2012/4136 | 2013-12-10 | condenacao | cvm-pas-rj2012-4136 | fichas/pas/2013-07.md |
-| pas | RJ2011/9885 | 2013-12-10 | parcial | cvm-pas-rj2011-9885 | fichas/pas/2013-06.md |
-| pas | RJ2011/7941 | 2013-12-10 | parcial | cvm-pas-rj2011-7941 | fichas/pas/2013-06.md |
-| pas | RJ2011/7937 | 2013-12-10 | condenacao | cvm-pas-rj2011-7937 | fichas/pas/2013-06.md |
-| pas | RJ2011/13095 | 2013-12-10 | condenacao | cvm-pas-rj2011-13095 | fichas/pas/2013-06.md |
-| pas | RJ2010/12042 | 2013-12-10 | parcial | cvm-pas-rj2010-12042 | fichas/pas/2013-06.md |
-| pas | RJ2009/8439 | 2013-12-10 | parcial | cvm-pas-rj2009-8439 | fichas/pas/2013-06.md |
-| decisao-colegiado | RJ2011/7381 | 2013-12-10 | parcial | cvm-col-20131210-d06 | fichas/colegiado/2013-23.md |
-| pas | RJ2011/8224 | 2013-12-03 | condenacao | cvm-pas-rj2011-8224 | fichas/pas/2013-06.md |
-| pas | RJ2012/14871 | 2013-11-26 | condenacao | cvm-pas-rj2012-14871 | fichas/pas/2013-05.md |
-| acordao-crsfn | RJ-2008-12124 | 2013-11-26 | outro | crsfn-13144 | fichas/crsfn/2013-04.md |
-| termo-compromisso | RJ2013/2400 | 2013-11-19 | rejeitado | cvm-col-20131119-d04 | fichas/tc/2013-05.md |
-| acordao-crsfn | RJ-2010-11572 | 2013-10-30 | absolvicao | crsfn-13187 | fichas/crsfn/2013-04.md |
-| acordao-crsfn | RJ-2007-10843 | 2013-10-30 | parcial | crsfn-12446 | fichas/crsfn/2013-04.md |
-| termo-compromisso | RJ2013/5638 | 2013-10-29 | aceito | cvm-col-20131029-d01 | fichas/tc/2013-05.md |
-| decisao-colegiado | 358/2002; RJ2013/3945 | 2013-10-22 | nao-provido | cvm-col-20131022-d01 | fichas/colegiado/2013-20.md |
-| termo-compromisso | RJ2013/5582 | 2013-10-15 | aceito | cvm-col-20131015-d03 | fichas/tc/2013-04.md |
-| decisao-colegiado | RJ2013/7298 | 2013-10-01 | indeferido | cvm-col-20131001-d01-r2 | fichas/colegiado/2013-18.md |
-| acordao-crsfn | RJ-2009-5286 | 2013-09-25 | absolvicao | crsfn-13085 | fichas/crsfn/2013-04.md |
-| acordao-crsfn | RJ-2009-4140 | 2013-09-25 | condenacao | crsfn-13043 | fichas/crsfn/2013-03.md |
-| acordao-crsfn | 25/04 | 2013-09-25 | parcial | crsfn-12353 | fichas/crsfn/2013-03.md |
-| acordao-crsfn | RJ-2006-4850 | 2013-09-25 | parcial | crsfn-12045 | fichas/crsfn/2013-03.md |
-| pas | RJ2012/5754 | 2013-09-10 | parcial | cvm-pas-rj2012-5754 | fichas/pas/2013-04.md |
-| pas | RJ2012/10128 | 2013-09-10 | condenacao | cvm-pas-rj2012-10128 | fichas/pas/2013-04.md |
-| acordao-crsfn | RJ2009/4163 | 2013-08-26 | condenacao | crsfn-12996 | fichas/crsfn/2013-03.md |
-| acordao-crsfn | RJ2006/4511 | 2013-08-26 | condenacao | crsfn-12888 | fichas/crsfn/2013-03.md |
-| termo-compromisso | RJ2012/8095 | 2013-08-20 | rejeitado | cvm-col-20130820-d05 | fichas/tc/2013-04.md |
-| pas | RJ2012/3630 | 2013-08-13 | parcial | cvm-pas-rj2012-3630 | fichas/pas/2013-04.md |
-| decisao-colegiado | RJ2013/7307 | 2013-08-02 | deferido | cvm-col-20130802-d01 | fichas/colegiado/2013-14.md |
-| termo-compromisso | RJ2013/3353 | 2013-07-30 | aceito | cvm-col-20130730-d03 | fichas/tc/2013-03.md |
-| acordao-crsfn | RJ-2008-2569 | 2013-07-30 | condenacao | crsfn-13275 | fichas/crsfn/2013-03.md |
-| termo-compromisso | RJ2012/10128 | 2013-07-16 | rejeitado | cvm-col-20130716-d03 | fichas/tc/2013-03.md |
-| termo-compromisso | RJ2012/7867 | 2013-07-02 | aceito | cvm-col-20130702-d02 | fichas/tc/2013-03.md |
-| termo-compromisso | RJ2012/9832 | 2013-06-13 | aceito | cvm-col-20130613-d05 | fichas/tc/2013-03.md |
-| termo-compromisso | RJ2012/8094 | 2013-06-13 | rejeitado | cvm-col-20130613-d04 | fichas/tc/2013-03.md |
-| termo-compromisso | RJ2012/13871 | 2013-06-13 | rejeitado | cvm-col-20130613-d03 | fichas/tc/2013-02.md |
-| pas | RJ2010/8784 | 2013-06-11 | parcial | cvm-pas-rj2010-8784 | fichas/pas/2013-03.md |
-| decisao-colegiado | RJ2012/8335 | 2013-06-11 | deferido | cvm-col-20130611-d01 | fichas/colegiado/2013-11.md |
-| pas | RJ2010/1380 | 2013-05-28 | condenacao | cvm-pas-rj2010-1380 | fichas/pas/2013-03.md |
-| acordao-crsfn | RJ-2009-4133 | 2013-05-21 | condenacao | crsfn-12825 | fichas/crsfn/2013-02.md |
-| termo-compromisso | RJ2012/8093 | 2013-05-14 | aceito | cvm-col-20130514-d02 | fichas/tc/2013-02.md |
-| termo-compromisso | RJ2012/5036 | 2013-05-14 | aceito | cvm-col-20130514-d01 | fichas/tc/2013-02.md |
-| decisao-colegiado | RJ2012/8091 | 2013-05-07 | nao-provido | cvm-col-20130507-d06 | fichas/colegiado/2013-10.md |
-| decisao-colegiado | 358/2002; RJ2013/3945 | 2013-05-07 | nao-provido | cvm-col-20130507-d05 | fichas/colegiado/2013-10.md |
-| decisao-colegiado | — | 2013-05-02 | deferido | cvm-col-20130502-d01 | fichas/colegiado/2013-09.md |
-| decisao-colegiado | — | 2013-05-02 | deferido | cvm-col-20130502-d01-r3 | fichas/colegiado/2013-09.md |
-| decisao-colegiado | — | 2013-05-02 | deferido | cvm-col-20130502-d01-r2 | fichas/colegiado/2013-09.md |
-| pas | RJ2011/14514 | 2013-04-30 | condenacao | cvm-pas-rj2011-14514 | fichas/pas/2013-03.md |
-| pas | RJ2012/8591 | 2013-04-09 | absolvicao | cvm-pas-rj2012-8591 | fichas/pas/2013-02.md |
-| pas | RJ2010/12043 | 2013-04-02 | condenacao | cvm-pas-rj2010-12043 | fichas/pas/2013-02.md |
-| pas | RJ2010/11350 | 2013-04-02 | parcial | cvm-pas-rj2010-11350 | fichas/pas/2013-02.md |
-| decisao-colegiado | RJ2012/9073 | 2013-04-02 | deferido | cvm-col-20130402-d01-r2 | fichas/colegiado/2013-08.md |
-| pas | RJ2011/14269 | 2013-03-26 | parcial | cvm-pas-rj2011-14269 | fichas/pas/2013-02.md |
-| termo-compromisso | RJ2012/8087 | 2013-03-26 | aceito | cvm-col-20130326-d03 | fichas/tc/2013-02.md |
-| termo-compromisso | RJ2012/4464 | 2013-03-26 | aceito | cvm-col-20130326-d02 | fichas/tc/2013-01.md |
-| termo-compromisso | RJ2011/9483 | 2013-03-26 | — | cvm-col-20130326-d01 | fichas/tc/2013-01.md |
-| termo-compromisso | RJ2011/7940 | 2013-03-19 | aceito | cvm-col-20130319-d01 | fichas/tc/2013-01.md |
-| decisao-colegiado | RJ2010/10383 | 2013-02-26 | nao-provido | cvm-col-20130226-d03 | fichas/colegiado/2013-05.md |
-| decisao-colegiado | RJ2012/14908 | 2013-02-20 | deferido | cvm-col-20130220-d01 | fichas/colegiado/2013-05.md |
-| decisao-colegiado | — | 2013-02-06 | indeferido | cvm-col-20130206-d01-r2 | fichas/colegiado/2013-04.md |
-| pas | RJ2007/4665 | 2013-02-05 | condenacao | cvm-pas-rj2007-4665-2 | fichas/pas/2013-01.md |
-| termo-compromisso | RJ2012/3787 | 2013-02-05 | aceito | cvm-col-20130205-d04 | fichas/tc/2013-01.md |
-| termo-compromisso | RJ2011/14514 | 2013-02-05 | rejeitado | cvm-col-20130205-d03 | fichas/tc/2013-01.md |
-| decisao-colegiado | RJ2011/9493 | 2013-02-05 | provido | cvm-col-20130205-d01 | fichas/colegiado/2013-03.md |
-| decisao-colegiado | RJ2012/8335 | 2013-01-25 | deferido | cvm-col-20130125-d01 | fichas/colegiado/2013-02.md |
-| decisao-colegiado | — | 2013-01-10 | deferido | cvm-col-20130110-d01 | fichas/colegiado/2013-01.md |
-| acordao-crsfn | RJ-2008-9947 | 2013-01-10 | parcial | crsfn-12955 | fichas/crsfn/2013-01.md |
-| acordao-crsfn | RJ-2008-8843 | 2013-01-10 | condenacao | crsfn-12795 | fichas/crsfn/2013-01.md |
-| acordao-crsfn | RJ-2007-11415 | 2012-12-18 | arquivamento | crsfn-12697 | fichas/crsfn/2012-05.md |
-| pas | RJ2012/3457 | 2012-12-06 | condenacao | cvm-pas-rj2012-3457 | fichas/pas/2012-03.md |
-| pas | RJ2011/7939 | 2012-12-06 | condenacao | cvm-pas-rj2011-7939 | fichas/pas/2012-03.md |
-| acordao-crsfn | RJ-2009-3951 | 2012-12-05 | condenacao | crsfn-12973 | fichas/crsfn/2012-05.md |
-| decisao-colegiado | RJ2011/7383 | 2012-12-04 | provido | cvm-col-20121204-d01 | fichas/colegiado/2012-22.md |
-| termo-compromisso | RJ2012/4138 | 2012-11-22 | aceito | cvm-col-20121122-d03 | fichas/tc/2012-06.md |
-| termo-compromisso | RJ2012/4137 | 2012-11-22 | aceito | cvm-col-20121122-d02 | fichas/tc/2012-05.md |
-| pas | RJ2012/3168 | 2012-11-13 | condenacao | cvm-pas-rj2012-3168 | fichas/pas/2012-03.md |
-| termo-compromisso | RJ2012/4235 | 2012-11-06 | aceito | cvm-col-20121106-d07 | fichas/tc/2012-05.md |
-| termo-compromisso | RJ2012/1643 | 2012-11-06 | aceito | cvm-col-20121106-d06 | fichas/tc/2012-05.md |
-| decisao-colegiado | RJ2012/9448 | 2012-10-30 | deferido | cvm-col-20121030-d02 | fichas/colegiado/2012-20.md |
-| decisao-colegiado | RJ2011/5683; RJ2011/8203 | 2012-10-30 | indeferido | cvm-col-20121030-d01 | fichas/colegiado/2012-20.md |
-| acordao-crsfn | RJ-2007-4376 | 2012-10-25 | condenacao | crsfn-12661 | fichas/crsfn/2012-04.md |
-| decisao-colegiado | RJ2012/9851 | 2012-10-18 | deferido | cvm-col-20121018-d01 | fichas/colegiado/2012-19.md |
-| decisao-colegiado | RJ2010/14327 | 2012-10-17 | indeferido | cvm-col-20121017-d01 | fichas/colegiado/2012-19.md |
-| pas | RJ2010/11353 | 2012-10-16 | condenacao | cvm-pas-rj2010-11353 | fichas/pas/2012-02.md |
-| pas | RJ2010/11351 | 2012-10-16 | condenacao | cvm-pas-rj2010-11351 | fichas/pas/2012-02.md |
-| decisao-colegiado | RJ2011/9493 | 2012-09-18 | — | cvm-col-20120918-d04 | fichas/colegiado/2012-17.md |
-| decisao-colegiado | RJ2012/9851 | 2012-09-11 | deferido | cvm-col-20120911-d01 | fichas/colegiado/2012-16.md |
-| termo-compromisso | RJ2011/10821 | 2012-08-28 | aceito | cvm-col-20120828-d22 | fichas/tc/2012-05.md |
-| termo-compromisso | RJ2011/14269 | 2012-08-21 | rejeitado | cvm-col-20120821-d04 | fichas/tc/2012-04.md |
-| acordao-crsfn | RJ–2007-14044 | 2012-08-13 | condenacao | crsfn-12506 | fichas/crsfn/2012-03.md |
-| acordao-crsfn | RJ-2006-5136 | 2012-08-13 | parcial | crsfn-12503 | fichas/crsfn/2012-03.md |
-| termo-compromisso | RJ2012/1542 | 2012-08-07 | rejeitado | cvm-col-20120807-d04 | fichas/tc/2012-04.md |
-| termo-compromisso | RJ2010/12040 | 2012-08-07 | aceito | cvm-col-20120807-d03 | fichas/tc/2012-04.md |
-| termo-compromisso | RJ2010/11349 | 2012-08-07 | aceito | cvm-col-20120807-d01 | fichas/tc/2012-04.md |
-| decisao-colegiado | — | 2012-07-30 | deferido | cvm-col-20120730-d01 | fichas/colegiado/2012-13.md |
-| acordao-crsfn | RJ-2007-1079 | 2012-07-30 | parcial | crsfn-11834 | fichas/crsfn/2012-03.md |
-| acordao-crsfn | RJ-2006-4776 | 2012-07-30 | condenacao | crsfn-11424 | fichas/crsfn/2012-03.md |
-| termo-compromisso | RJ2011/7948 | 2012-07-24 | aceito | cvm-col-20120724-d02 | fichas/tc/2012-04.md |
-| acordao-crsfn | RJ-2007-11851 | 2012-07-05 | parcial | crsfn-12505 | fichas/crsfn/2012-02.md |
-| acordao-crsfn | RJ-2005-7740 | 2012-07-05 | condenacao | crsfn-12355 | fichas/crsfn/2012-02.md |
-| decisao-colegiado | RJ2011/7390 | 2012-07-03 | parcial | cvm-col-20120703-d11 | fichas/colegiado/2012-11.md |
-| termo-compromisso | RJ2012/3785 | 2012-07-03 | aceito | cvm-col-20120703-d05 | fichas/tc/2012-03.md |
-| termo-compromisso | RJ2011/8755 | 2012-07-03 | aceito | cvm-col-20120703-d04 | fichas/tc/2012-03.md |
-| termo-compromisso | RJ2010/12041 | 2012-07-03 | rejeitado | cvm-col-20120703-d03 | fichas/tc/2012-03.md |
-| termo-compromisso | RJ2011/10752 | 2012-06-19 | aceito | cvm-col-20120619-d02 | fichas/tc/2012-03.md |
-| termo-compromisso | RJ2011/10840 | 2012-06-12 | aceito | cvm-col-20120612-d02 | fichas/tc/2012-03.md |
-| decisao-colegiado | RJ2012/4338 | 2012-05-15 | parcial | cvm-col-20120515-d08 | fichas/colegiado/2012-09.md |
-| termo-compromisso | RJ2011/8580 | 2012-04-24 | aceito | cvm-col-20120424-d03 | fichas/tc/2012-02.md |
-| termo-compromisso | RJ2010/12043 | 2012-04-24 | rejeitado | cvm-col-20120424-d02 | fichas/tc/2012-02.md |
-| decisao-colegiado | RJ2011/7379 | 2012-04-17 | nao-provido | cvm-col-20120417-d15 | fichas/colegiado/2012-08.md |
-| acordao-crsfn | RJ-2010-11571 | 2012-04-16 | condenacao | crsfn-13226 | fichas/crsfn/2012-02.md |
-| termo-compromisso | RJ2011/7388 | 2012-04-03 | rejeitado | cvm-col-20120403-d02 | fichas/tc/2012-02.md |
-| termo-compromisso | RJ2011/9483 | 2012-04-03 | rejeitado | cvm-col-20120403-d01 | fichas/tc/2012-02.md |
-| decisao-colegiado | RJ2011/7389 | 2012-03-20 | provido | cvm-col-20120320-d07 | fichas/colegiado/2012-05.md |
-| decisao-colegiado | RJ2011/7377 | 2012-03-20 | provido | cvm-col-20120320-d06 | fichas/colegiado/2012-05.md |
-| termo-compromisso | RJ2010/11349 | 2012-03-06 | rejeitado | cvm-col-20120306-d13 | fichas/tc/2012-02.md |
-| pas | RJ2010/11352 | 2012-02-28 | condenacao | cvm-pas-rj2010-11352 | fichas/pas/2012-01.md |
-| termo-compromisso | RJ2011/9493 | 2012-02-23 | rejeitado | cvm-col-20120223-d12 | fichas/tc/2012-02.md |
-| termo-compromisso | RJ2011/9481 | 2012-02-23 | aceito | cvm-col-20120223-d11 | fichas/tc/2012-02.md |
-| termo-compromisso | RJ2011/9487 | 2012-02-23 | aceito | cvm-col-20120223-d10 | fichas/tc/2012-01.md |
-| termo-compromisso | RJ2011/9485 | 2012-02-23 | rejeitado | cvm-col-20120223-d09 | fichas/tc/2012-01.md |
-| termo-compromisso | RJ2011/7383 | 2012-02-23 | rejeitado | cvm-col-20120223-d08 | fichas/tc/2012-01.md |
-| termo-compromisso | RJ2011/9488 | 2012-02-23 | rejeitado | cvm-col-20120223-d07 | fichas/tc/2012-01.md |
-| termo-compromisso | RJ2011/9484 | 2012-02-23 | aceito | cvm-col-20120223-d06 | fichas/tc/2012-01.md |
-| termo-compromisso | RJ2011/9482 | 2012-02-23 | aceito | cvm-col-20120223-d05 | fichas/tc/2012-01.md |
-| termo-compromisso | RJ2011/9480 | 2012-02-23 | aceito | cvm-col-20120223-d04 | fichas/tc/2012-01.md |
-| termo-compromisso | RJ2011/7948 | 2012-02-23 | rejeitado | cvm-col-20120223-d03 | fichas/tc/2012-01.md |
-| termo-compromisso | RJ2011/7374 | 2012-02-23 | rejeitado | cvm-col-20120223-d02 | fichas/tc/2012-01.md |
-| termo-compromisso | RJ2011/9483 | 2012-01-17 | aceito | cvm-col-20120117-d01 | fichas/tc/2012-01.md |
-| decisao-colegiado | RJ2011/7385 | 2011-12-27 | parcial | cvm-col-20111227-d06 | fichas/colegiado/2011-29.md |
-| termo-compromisso | RJ2011/7386 | 2011-12-20 | aceito | cvm-col-20111220-d06 | fichas/tc/2011-06.md |
-| termo-compromisso | RJ2011/7378 | 2011-12-20 | aceito | cvm-col-20111220-d05 | fichas/tc/2011-06.md |
-| termo-compromisso | RJ2011/7375 | 2011-12-20 | aceito | cvm-col-20111220-d04 | fichas/tc/2011-06.md |
-| decisao-colegiado | RJ2011/12097 | 2011-12-13 | outro | cvm-col-20111213-d07 | fichas/colegiado/2011-29.md |
-| pas | RJ2011/3262 | 2011-12-06 | condenacao | cvm-pas-rj2011-3262 | fichas/pas/2011-03.md |
-| pas | RJ2009/9439 | 2011-12-06 | condenacao | cvm-pas-rj2009-9439 | fichas/pas/2011-03.md |
-| pas | 16/2009 | 2011-12-06 | condenacao | cvm-pas-16-2009 | fichas/pas/2011-02.md |
-| decisao-colegiado | RJ2011/7387 | 2011-12-06 | parcial | cvm-col-20111206-d10 | fichas/colegiado/2011-28.md |
-| termo-compromisso | RJ2011/7388 | 2011-12-06 | rejeitado | cvm-col-20111206-d05 | fichas/tc/2011-05.md |
-| termo-compromisso | RJ2011/7380 | 2011-12-06 | aceito | cvm-col-20111206-d04 | fichas/tc/2011-05.md |
-| termo-compromisso | RJ2011/7382 | 2011-12-06 | aceito | cvm-col-20111206-d03 | fichas/tc/2011-05.md |
-| acordao-crsfn | RJ-2009-4095 | 2011-12-06 | parcial | crsfn-12759 | fichas/crsfn/2011-04.md |
-| termo-compromisso | RJ2011/7382 | 2011-11-29 | rejeitado | cvm-col-20111129-d06 | fichas/tc/2011-05.md |
-| termo-compromisso | RJ2011/7381 | 2011-11-29 | rejeitado | cvm-col-20111129-d05 | fichas/tc/2011-05.md |
-| acordao-crsfn | RJ-2008-5752 | 2011-11-09 | parcial | crsfn-12463 | fichas/crsfn/2011-04.md |
-| pas | RJ2011/2148 | 2011-11-08 | condenacao | cvm-pas-rj2011-2148 | fichas/pas/2011-02.md |
-| pas | RJ2010/1582 | 2011-11-08 | condenacao | cvm-pas-rj2010-1582 | fichas/pas/2011-02.md |
-| termo-compromisso | RJ2011/7389 | 2011-10-19 | rejeitado | cvm-col-20111019-d03 | fichas/tc/2011-04.md |
-| termo-compromisso | RJ2011/7384 | 2011-10-19 | outro | cvm-col-20111019-d01 | fichas/tc/2011-04.md |
-| decisao-colegiado | — | 2011-10-11 | parcial | cvm-col-20111011-d01-r3 | fichas/colegiado/2011-21.md |
-| termo-compromisso | RJ2011/9398 | 2011-10-04 | rejeitado | cvm-col-20111004-d02 | fichas/tc/2011-04.md |
-| decisao-colegiado | — | 2011-09-14 | deferido | cvm-col-20110914-d01 | fichas/colegiado/2011-18.md |
-| termo-compromisso | RJ2011/7384 | 2011-09-06 | rejeitado | cvm-col-20110906-d09 | fichas/tc/2011-04.md |
-| termo-compromisso | RJ2011/2039 | 2011-09-06 | aceito | cvm-col-20110906-d08 | fichas/tc/2011-04.md |
-| decisao-colegiado | — | 2011-08-30 | deferido | cvm-col-20110830-d01-r2 | fichas/colegiado/2011-17.md |
-| decisao-colegiado | RJ2011/9155 | 2011-08-16 | deferido | cvm-col-20110816-d11 | fichas/colegiado/2011-16.md |
-| termo-compromisso | RJ2010/14248 | 2011-08-02 | rejeitado | cvm-col-20110802-d02 | fichas/tc/2011-03.md |
-| decisao-colegiado | RJ2010/11567 | 2011-07-26 | parcial | cvm-col-20110726-d05 | fichas/colegiado/2011-15.md |
-| acordao-crsfn | RJ-2006-5829 | 2011-07-26 | absolvicao | crsfn-11439 | fichas/crsfn/2011-02.md |
-| decisao-colegiado | — | 2011-07-21 | deferido | cvm-col-20110721-d01 | fichas/colegiado/2011-15.md |
-| decisao-colegiado | RJ2011/5307 | 2011-07-19 | nao-provido | cvm-col-20110719-d03 | fichas/colegiado/2011-15.md |
-| termo-compromisso | RJ2010/16605 | 2011-06-28 | aceito | cvm-col-20110628-d03 | fichas/tc/2011-03.md |
-| decisao-colegiado | RJ2009/12672 | 2011-06-07 | nao-provido | cvm-col-20110607-d09 | fichas/colegiado/2011-12.md |
-| acordao-crsfn | RJ-2008-2282 | 2011-05-31 | condenacao | crsfn-12078 | fichas/crsfn/2011-02.md |
-| acordao-crsfn | 23/05 | 2011-05-31 | parcial | crsfn-11829 | fichas/crsfn/2011-02.md |
-| acordao-crsfn | 05/8528 | 2011-05-31 | parcial | crsfn-11646 | fichas/crsfn/2011-02.md |
-| acordao-crsfn | RJ-2005-6764 | 2011-05-31 | parcial | crsfn-11421 | fichas/crsfn/2011-01.md |
-| decisao-colegiado | RJ2011/5356 | 2011-05-24 | — | cvm-col-20110524-d03 | fichas/colegiado/2011-11.md |
-| termo-compromisso | RJ2010/17359 | 2011-05-17 | aceito | cvm-col-20110517-d09 | fichas/tc/2011-03.md |
-| termo-compromisso | RJ2010/11348 | 2011-05-17 | aceito | cvm-col-20110517-d08 | fichas/tc/2011-03.md |
-| termo-compromisso | RJ2010/10383 | 2011-05-17 | rejeitado | cvm-col-20110517-d02 | fichas/tc/2011-02.md |
-| decisao-colegiado | — | 2011-05-10 | indeferido | cvm-col-20110510-d10 | fichas/colegiado/2011-10.md |
-| termo-compromisso | RJ2010/0770 | 2011-05-10 | aceito | cvm-col-20110510-d02 | fichas/tc/2011-02.md |
-| decisao-colegiado | RJ2011/2324 | 2011-03-11 | outro | cvm-col-20110311-d01 | fichas/colegiado/2011-06.md |
-| decisao-colegiado | RJ2011/2324 | 2011-03-01 | — | cvm-col-20110301-d16 | fichas/colegiado/2011-05.md |
-| termo-compromisso | RJ2010/13112 | 2011-02-15 | aceito | cvm-col-20110215-d08 | fichas/tc/2011-01.md |
-| decisao-colegiado | — | 2011-02-02 | deferido | cvm-col-20110202-d01 | fichas/colegiado/2011-02.md |
-| termo-compromisso | RJ2010/11566 | 2011-01-19 | aceito | cvm-col-20110119-d03 | fichas/tc/2011-01.md |
-| decisao-colegiado | — | 2010-12-30 | deferido | cvm-col-20101230-d01 | fichas/colegiado/2010-34.md |
-| decisao-colegiado | — | 2010-12-29 | deferido | cvm-col-20101229-d01 | fichas/colegiado/2010-34.md |
-| termo-compromisso | RJ2010/12043 | 2010-12-28 | rejeitado | cvm-col-20101228-d08 | fichas/tc/2010-07.md |
-| termo-compromisso | RJ2010/4953 | 2010-12-28 | aceito | cvm-col-20101228-d07 | fichas/tc/2010-07.md |
-| decisao-colegiado | — | 2010-12-23 | indeferido | cvm-col-20101223-d01 | fichas/colegiado/2010-30.md |
-| decisao-colegiado | RJ2007/2257 | 2010-12-14 | nao-provido | cvm-col-20101214-d14 | fichas/colegiado/2010-29.md |
-| termo-compromisso | RJ2010/11569 | 2010-12-14 | aceito | cvm-col-20101214-d07 | fichas/tc/2010-07.md |
-| termo-compromisso | RJ2010/11568 | 2010-12-14 | rejeitado | cvm-col-20101214-d06 | fichas/tc/2010-07.md |
-| acordao-crsfn | RJ-2007-1176 | 2010-12-13 | condenacao | crsfn-11743 | fichas/crsfn/2010-09.md |
-| decisao-colegiado | RJ2010/14668 | 2010-12-07 | nao-provido | cvm-col-20101207-d42 | fichas/colegiado/2010-28.md |
-| termo-compromisso | RJ2010/12042 | 2010-11-30 | rejeitado | cvm-col-20101130-d04 | fichas/tc/2010-06.md |
-| pas | RJ2010/4195 | 2010-11-23 | condenacao | cvm-pas-rj2010-4195 | fichas/pas/2010-05.md |
-| acordao-crsfn | RJ-2006-5928 | 2010-11-23 | arquivamento | crsfn-11436 | fichas/crsfn/2010-08.md |
-| decisao-colegiado | — | 2010-11-17 | indeferido | cvm-col-20101117-d01-r2 | fichas/colegiado/2010-24.md |
-| decisao-colegiado | — | 2010-11-05 | indeferido | cvm-col-20101105-d02 | fichas/colegiado/2010-23.md |
-| decisao-colegiado | — | 2010-11-05 | indeferido | cvm-col-20101105-d01 | fichas/colegiado/2010-23.md |
-| decisao-colegiado | RJ2010/11571 | 2010-11-04 | nao-provido | cvm-col-20101104-d02 | fichas/colegiado/2010-22.md |
-| termo-compromisso | RJ2010/3278 | 2010-11-04 | aceito | cvm-col-20101104-d01 | fichas/tc/2010-06.md |
-| acordao-crsfn | RJ-2007-4107 | 2010-10-27 | outro | crsfn-12040 | fichas/crsfn/2010-08.md |
-| acordao-crsfn | RJ-2007-9559 | 2010-10-27 | condenacao | crsfn-11955 | fichas/crsfn/2010-08.md |
-| acordao-crsfn | RJ-2005-4969 | 2010-10-27 | parcial | crsfn-11434 | fichas/crsfn/2010-08.md |
-| termo-compromisso | RJ2010/4246 | 2010-10-26 | aceito | cvm-col-20101026-d03 | fichas/tc/2010-05.md |
-| decisao-colegiado | RJ2010/11572 | 2010-10-14 | nao-provido | cvm-col-20101014-d05 | fichas/colegiado/2010-21.md |
-| decisao-colegiado | — | 2010-10-07 | deferido | cvm-col-20101007-d03 | fichas/colegiado/2010-20.md |
-| decisao-colegiado | — | 2010-10-07 | deferido | cvm-col-20101007-d02 | fichas/colegiado/2010-20.md |
-| decisao-colegiado | — | 2010-10-07 | indeferido | cvm-col-20101007-d01 | fichas/colegiado/2010-20.md |
-| decisao-colegiado | RJ2009/13026 | 2010-10-05 | outro | cvm-col-20101005-d09 | fichas/colegiado/2010-20.md |
-| acordao-crsfn | RJ-2005-6703 | 2010-10-05 | parcial | crsfn-11423 | fichas/crsfn/2010-07.md |
-| termo-compromisso | RJ2010/0770 | 2010-09-21 | rejeitado | cvm-col-20100921-d05 | fichas/tc/2010-05.md |
-| decisao-colegiado | — | 2010-09-16 | deferido | cvm-col-20100916-d01 | fichas/colegiado/2010-19.md |
-| acordao-crsfn | RJ-2007-3673 | 2010-09-14 | absolvicao | crsfn-12708 | fichas/crsfn/2010-07.md |
-| acordao-crsfn | RJ-2008-6023 | 2010-09-14 | condenacao | crsfn-12663 | fichas/crsfn/2010-07.md |
-| acordao-crsfn | RJ-2005-5222 | 2010-09-14 | absolvicao | crsfn-11432 | fichas/crsfn/2010-07.md |
-| decisao-colegiado | — | 2010-09-09 | provido | cvm-col-20100909-d05 | fichas/colegiado/2010-18.md |
-| decisao-colegiado | SP2007/0259 | 2010-09-09 | nao-provido | cvm-col-20100909-d03 | fichas/colegiado/2010-18.md |
-| decisao-colegiado | — | 2010-08-18 | deferido | cvm-col-20100818-d01 | fichas/colegiado/2010-17.md |
-| decisao-colegiado | — | 2010-08-13 | deferido | cvm-col-20100813-d01 | fichas/colegiado/2010-17.md |
-| decisao-colegiado | — | 2010-08-03 | indeferido | cvm-col-20100803-d01-r2 | fichas/colegiado/2010-16.md |
-| acordao-crsfn | RJ-2006-9070 | 2010-07-28 | condenacao | crsfn-11956 | fichas/crsfn/2010-06.md |
-| acordao-crsfn | RJ-2006-1267 | 2010-07-28 | parcial | crsfn-11007 | fichas/crsfn/2010-05.md |
-| decisao-colegiado | RJ2009/4088 | 2010-07-20 | nao-provido | cvm-col-20100720-d05 | fichas/colegiado/2010-15.md |
-| decisao-colegiado | — | 2010-07-15 | deferido | cvm-col-20100715-d01 | fichas/colegiado/2010-15.md |
-| decisao-colegiado | — | 2010-07-14 | indeferido | cvm-col-20100714-d01 | fichas/colegiado/2010-15.md |
-| pas | RJ2009/1365 | 2010-07-13 | parcial | cvm-pas-rj2009-1365 | fichas/pas/2010-02.md |
-| pas | RJ2008/12124 | 2010-06-22 | condenacao | cvm-pas-rj2008-12124 | fichas/pas/2010-02.md |
-| acordao-crsfn | 0501291250 | 2010-06-22 | condenacao | crsfn-11745 | fichas/crsfn/2010-05.md |
-| decisao-colegiado | RJ2010/9203 | 2010-06-15 | deferido | cvm-col-20100615-d09 | fichas/colegiado/2010-14.md |
-| decisao-colegiado | RJ2010/3886 | 2010-06-15 | outro | cvm-col-20100615-d05 | fichas/colegiado/2010-14.md |
-| acordao-crsfn | RJ-2007-10884 | 2010-06-08 | parcial | crsfn-12354 | fichas/crsfn/2010-05.md |
-| acordao-crsfn | RJ-2005-4346 | 2010-06-08 | parcial | crsfn-11428 | fichas/crsfn/2010-04.md |
-| acordao-crsfn | RJ-2005-9714 | 2010-06-08 | parcial | crsfn-11427 | fichas/crsfn/2010-04.md |
-| termo-compromisso | RJ2009/6713 | 2010-05-25 | aceito | cvm-col-20100525-d03 | fichas/tc/2010-02.md |
-| acordao-crsfn | RJ-2006-2106 | 2010-05-25 | parcial | crsfn-11430 | fichas/crsfn/2010-04.md |
-| pas | RJ2009/5286 | 2010-05-18 | absolvicao | cvm-pas-rj2009-5286 | fichas/pas/2010-02.md |
-| pas | RJ2009/2172 | 2010-05-18 | condenacao | cvm-pas-rj2009-2172 | fichas/pas/2010-02.md |
-| termo-compromisso | RJ2009/9982 | 2010-05-11 | rejeitado | cvm-col-20100511-d01 | fichas/tc/2010-02.md |
-| decisao-colegiado | — | 2010-05-10 | deferido | cvm-col-20100510-d01 | fichas/colegiado/2010-12.md |
-| acordao-crsfn | RJ-2008-0236 | 2010-04-29 | parcial | crsfn-12571 | fichas/crsfn/2010-04.md |
-| acordao-crsfn | RJ-2007-8672 | 2010-04-29 | condenacao | crsfn-12049 | fichas/crsfn/2010-04.md |
-| acordao-crsfn | RJ-2006-7830 | 2010-04-29 | condenacao | crsfn-11643 | fichas/crsfn/2010-03.md |
-| acordao-crsfn | RJ-2005-7507 | 2010-04-29 | condenacao | crsfn-11326 | fichas/crsfn/2010-03.md |
-| acordao-crsfn | RJ-2006-1266 | 2010-04-29 | condenacao | crsfn-11324 | fichas/crsfn/2010-03.md |
-| acordao-crsfn | RJ-2005-7127 | 2010-04-29 | parcial | crsfn-11275 | fichas/crsfn/2010-03.md |
-| acordao-crsfn | RJ-2006-1853 | 2010-04-29 | parcial | crsfn-11215 | fichas/crsfn/2010-03.md |
-| acordao-crsfn | RJ-2006-1559 | 2010-04-29 | parcial | crsfn-11211 | fichas/crsfn/2010-03.md |
-| acordao-crsfn | RJ-2006-0800 | 2010-04-29 | condenacao | crsfn-11169 | fichas/crsfn/2010-02.md |
-| decisao-colegiado | RJ2010/2427 | 2010-04-27 | indeferido | cvm-col-20100427-d03 | fichas/colegiado/2010-12.md |
-| decisao-colegiado | — | 2010-04-15 | deferido | cvm-col-20100415-d01-r2 | fichas/colegiado/2010-11.md |
-| pas | RJ2008/12216 | 2010-04-13 | condenacao | cvm-pas-rj2008-12216 | fichas/pas/2010-01.md |
-| termo-compromisso | RJ2009/9731 | 2010-04-13 | aceito | cvm-col-20100413-d05 | fichas/tc/2010-02.md |
-| decisao-colegiado | — | 2010-04-07 | outro | cvm-col-20100407-d08 | fichas/colegiado/2010-11.md |
-| decisao-colegiado | RJ2009/4163 | 2010-03-30 | nao-provido | cvm-col-20100330-d15 | fichas/colegiado/2010-10.md |
-| decisao-colegiado | — | 2010-03-26 | indeferido | cvm-col-20100326-d01 | fichas/colegiado/2010-09.md |
-| decisao-colegiado | — | 2010-03-02 | nao-provido | cvm-col-20100302-d25 | fichas/colegiado/2010-07.md |
-| decisao-colegiado | — | 2010-02-26 | deferido | cvm-col-20100226-d01 | fichas/colegiado/2010-06.md |
-| decisao-colegiado | RJ2009/4140 | 2010-02-23 | parcial | cvm-col-20100223-d02 | fichas/colegiado/2010-06.md |
-| pas | RJ2008/9022 | 2010-02-09 | absolvicao | cvm-pas-rj2008-9022 | fichas/pas/2010-01.md |
-| termo-compromisso | RJ2009/6713 | 2010-02-09 | rejeitado | cvm-col-20100209-d07 | fichas/tc/2010-01.md |
-| decisao-colegiado | RJ2009/11362 | 2010-02-09 | nao-provido | cvm-col-20100209-d02 | fichas/colegiado/2010-05.md |
-| decisao-colegiado | — | 2010-02-09 | indeferido | cvm-col-20100209-d01 | fichas/colegiado/2010-05.md |
-| decisao-colegiado | — | 2010-01-26 | indeferido | cvm-col-20100126-d18 | fichas/colegiado/2010-03.md |
-| termo-compromisso | RJ2009/4747 | 2010-01-26 | aceito | cvm-col-20100126-d07 | fichas/tc/2010-01.md |
-| termo-compromisso | RJ2009/9731 | 2010-01-26 | rejeitado | cvm-col-20100126-d06 | fichas/tc/2010-01.md |
-| termo-compromisso | RJ2009/5351 | 2010-01-26 | aceito | cvm-col-20100126-d01 | fichas/tc/2010-01.md |
-| acordao-crsfn | RJ-2006-9068 | 2010-01-26 | condenacao | crsfn-11827 | fichas/crsfn/2010-01.md |
-| acordao-crsfn | RJ-2006-1574 | 2010-01-26 | absolvicao | crsfn-11171 | fichas/crsfn/2010-01.md |
-| decisao-colegiado | — | 2010-01-05 | indeferido | cvm-col-20100105-d01-r3 | fichas/colegiado/2010-01.md |
-| decisao-colegiado | — | 2010-01-05 | indeferido | cvm-col-20100105-d01-r2 | fichas/colegiado/2010-01.md |
-| decisao-colegiado | — | 2009-12-23 | deferido | cvm-col-20091223-d01 | fichas/colegiado/2009-25.md |
-| termo-compromisso | RJ2009/3049 | 2009-12-15 | aceito | cvm-col-20091215-d06 | fichas/tc/2009-09.md |
-| termo-compromisso | RJ2009/5978 | 2009-12-08 | aceito | cvm-col-20091208-d09 | fichas/tc/2009-08.md |
-| termo-compromisso | RJ2009/4096 | 2009-12-08 | aceito | cvm-col-20091208-d08 | fichas/tc/2009-08.md |
-| decisao-colegiado | — | 2009-11-30 | outro | cvm-col-20091130-d01 | fichas/colegiado/2009-21.md |
-| termo-compromisso | RJ2009/4088 | 2009-11-24 | rejeitado | cvm-col-20091124-d07 | fichas/tc/2009-08.md |
-| decisao-colegiado | RJ2009/10758 | 2009-11-17 | nao-provido | cvm-col-20091117-d27 | fichas/colegiado/2009-20.md |
-| acordao-crsfn | RJ-2005-3711 | 2009-11-16 | absolvicao | crsfn-9427 | fichas/crsfn/2009-06.md |
-| acordao-crsfn | RJ-2005-5936 | 2009-11-16 | condenacao | crsfn-11055 | fichas/crsfn/2009-06.md |
-| decisao-colegiado | RJ2009/10804 | 2009-11-10 | nao-provido | cvm-col-20091110-d03 | fichas/colegiado/2009-19.md |
-| decisao-colegiado | — | 2009-11-10 | indeferido | cvm-col-20091110-d01-r2 | fichas/colegiado/2009-19.md |
-| decisao-colegiado | — | 2009-11-06 | indeferido | cvm-col-20091106-d01 | fichas/colegiado/2009-19.md |
-| decisao-colegiado | RJ2009/4165 | 2009-10-27 | parcial | cvm-col-20091027-d14 | fichas/colegiado/2009-19.md |
-| termo-compromisso | RJ2009/6426 | 2009-10-27 | rejeitado | cvm-col-20091027-d12 | fichas/tc/2009-07.md |
-| termo-compromisso | RJ2009/6425 | 2009-10-27 | aceito | cvm-col-20091027-d11 | fichas/tc/2009-07.md |
-| termo-compromisso | RJ2009/4164 | 2009-10-27 | aceito | cvm-col-20091027-d09 | fichas/tc/2009-07.md |
-| acordao-crsfn | RJ-2005-4045 | 2009-10-27 | absolvicao | crsfn-11437 | fichas/crsfn/2009-05.md |
-| acordao-crsfn | RJ-2005-8578 | 2009-10-27 | absolvicao | crsfn-11103 | fichas/crsfn/2009-05.md |
-| decisao-colegiado | RJ2009/4133 | 2009-10-13 | nao-provido | cvm-col-20091013-d19 | fichas/colegiado/2009-18.md |
-| decisao-colegiado | RJ2009/3951 | 2009-10-13 | parcial | cvm-col-20091013-d17 | fichas/colegiado/2009-18.md |
-| decisao-colegiado | RJ2009/4095 | 2009-10-06 | nao-provido | cvm-col-20091006-d06 | fichas/colegiado/2009-17.md |
-| acordao-crsfn | RJ-2006-796 | 2009-09-30 | condenacao | crsfn-10884 | fichas/crsfn/2009-04.md |
-| termo-compromisso | RJ2009/4163 | 2009-09-29 | rejeitado | cvm-col-20090929-d04 | fichas/tc/2009-06.md |
-| pas | RJ2008/8976 | 2009-09-15 | condenacao | cvm-pas-rj2008-8976 | fichas/pas/2009-04.md |
-| pas | RJ2008/8843 | 2009-09-15 | condenacao | cvm-pas-rj2008-8843 | fichas/pas/2009-04.md |
-| termo-compromisso | RJ2009/4006 | 2009-09-15 | aceito | cvm-col-20090915-d05 | fichas/tc/2009-06.md |
-| termo-compromisso | RJ2009/3952 | 2009-09-15 | aceito | cvm-col-20090915-d04 | fichas/tc/2009-06.md |
-| termo-compromisso | RJ2009/3950 | 2009-09-15 | aceito | cvm-col-20090915-d03 | fichas/tc/2009-06.md |
-| pas | RJ2008/2209 | 2009-08-25 | condenacao | cvm-pas-rj2008-2209 | fichas/pas/2009-04.md |
-| pas | RJ2008/11199 | 2009-08-25 | condenacao | cvm-pas-rj2008-11199 | fichas/pas/2009-04.md |
-| termo-compromisso | RJ2008/11105 | 2009-08-18 | aceito | cvm-col-20090818-d08 | fichas/tc/2009-06.md |
-| termo-compromisso | RJ2009/4140 | 2009-08-18 | rejeitado | cvm-col-20090818-d06 | fichas/tc/2009-05.md |
-| termo-compromisso | RJ2009/4089 | 2009-08-18 | aceito | cvm-col-20090818-d05 | fichas/tc/2009-05.md |
-| pas | RJ2007/11415 | 2009-08-04 | absolvicao | cvm-pas-rj2007-11415 | fichas/pas/2009-03.md |
-| decisao-colegiado | RJ2009/3955 | 2009-08-04 | nao-provido | cvm-col-20090804-d03 | fichas/colegiado/2009-14.md |
-| pas | RJ2008/9947 | 2009-07-28 | parcial | cvm-pas-rj2008-9947 | fichas/pas/2009-03.md |
-| termo-compromisso | 06/2008 | 2009-07-28 | aceito | cvm-col-20090728-d13 | fichas/tc/2009-05.md |
-| termo-compromisso | RJ2009/0283 | 2009-07-28 | aceito | cvm-col-20090728-d11 | fichas/tc/2009-05.md |
-| termo-compromisso | RJ2008/2334 | 2009-07-28 | aceito | cvm-col-20090728-d09 | fichas/tc/2009-05.md |
-| termo-compromisso | RJ2009/5730 | 2009-07-28 | aceito | cvm-col-20090728-d08 | fichas/tc/2009-04.md |
-| termo-compromisso | 12/2005 | 2009-07-28 | rejeitado | cvm-col-20090728-d07 | fichas/tc/2009-04.md |
-| decisao-colegiado | — | 2009-07-28 | indeferido | cvm-col-20090728-d01-r3 | fichas/colegiado/2009-14.md |
-| acordao-crsfn | RJ-2005-5937 | 2009-07-21 | absolvicao | crsfn-9541 | fichas/crsfn/2009-04.md |
-| termo-compromisso | RJ2008/11105 | 2009-07-14 | rejeitado | cvm-col-20090714-d11 | fichas/tc/2009-04.md |
-| decisao-colegiado | — | 2009-07-14 | indeferido | cvm-col-20090714-d01 | fichas/colegiado/2009-13.md |
-| termo-compromisso | RJ2008/10437 | 2009-07-07 | aceito | cvm-col-20090707-d06 | fichas/tc/2009-04.md |
-| termo-compromisso | RJ2008/6250 | 2009-07-07 | rejeitado | cvm-col-20090707-d05 | fichas/tc/2009-04.md |
-| termo-compromisso | RJ2008/11003 | 2009-07-07 | aceito | cvm-col-20090707-d02 | fichas/tc/2009-04.md |
-| acordao-crsfn | RJ-2004-6238 | 2009-06-29 | condenacao | crsfn-9200 | fichas/crsfn/2009-04.md |
-| acordao-crsfn | RJ-2001-7749 | 2009-06-29 | parcial | crsfn-7358 | fichas/crsfn/2009-03.md |
-| acordao-crsfn | RJ-2006-1528 | 2009-06-29 | absolvicao | crsfn-11214 | fichas/crsfn/2009-03.md |
-| termo-compromisso | RJ2008/10538 | 2009-06-23 | aceito | cvm-col-20090623-d07 | fichas/tc/2009-03.md |
-| termo-compromisso | RJ2008/11003 | 2009-06-23 | rejeitado | cvm-col-20090623-d02 | fichas/tc/2009-03.md |
-| termo-compromisso | RJ2009/2718 | 2009-06-23 | aceito | cvm-col-20090623-d01 | fichas/tc/2009-03.md |
-| decisao-colegiado | — | 2009-06-23 | indeferido | cvm-col-20090623-d01-r3 | fichas/colegiado/2009-11.md |
-| decisao-colegiado | — | 2009-06-05 | indeferido | cvm-col-20090605-d01 | fichas/colegiado/2009-11.md |
-| pas | RJ2008/8662 | 2009-06-03 | parcial | cvm-pas-rj2008-8662 | fichas/pas/2009-03.md |
-| decisao-colegiado | — | 2009-06-03 | deferido | cvm-col-20090603-d01-r2 | fichas/colegiado/2009-10.md |
-| termo-compromisso | RJ2008/9181 | 2009-06-02 | aceito | cvm-col-20090602-d09 | fichas/tc/2009-03.md |
-| termo-compromisso | RJ2008/8976 | 2009-06-02 | rejeitado | cvm-col-20090602-d07 | fichas/tc/2009-03.md |
-| termo-compromisso | RJ2008/4873 | 2009-06-02 | aceito | cvm-col-20090602-d03 | fichas/tc/2009-03.md |
-| pas | RJ2008/9511 | 2009-05-20 | condenacao | cvm-pas-rj2008-9511 | fichas/pas/2009-03.md |
-| pas | RJ2008/6023 | 2009-05-20 | condenacao | cvm-pas-rj2008-6023 | fichas/pas/2009-02.md |
-| pas | RJ2008/2570 | 2009-05-12 | condenacao | cvm-pas-rj2008-2570 | fichas/pas/2009-02.md |
-| acordao-crsfn | RJ-2006-8981 | 2009-05-06 | condenacao | crsfn-11637 | fichas/crsfn/2009-02.md |
-| acordao-crsfn | RJ-2006-1621 | 2009-05-06 | absolvicao | crsfn-11636 | fichas/crsfn/2009-02.md |
-| termo-compromisso | RJ2009/0283 | 2009-05-05 | rejeitado | cvm-col-20090505-d05 | fichas/tc/2009-03.md |
-| termo-compromisso | RJ2008/2334 | 2009-05-05 | rejeitado | cvm-col-20090505-d02 | fichas/tc/2009-03.md |
-| acordao-crsfn | RJ-2005-3751 | 2009-04-15 | condenacao | crsfn-10970 | fichas/crsfn/2009-02.md |
-| decisao-colegiado | RJ2008/0236 | 2009-04-14 | nao-provido | cvm-col-20090414-d15 | fichas/colegiado/2009-08.md |
-| decisao-colegiado | — | 2009-03-23 | outro | cvm-col-20090323-d01 | fichas/colegiado/2009-04.md |
-| acordao-crsfn | RJ-2006-7828 | 2009-03-18 | condenacao | crsfn-11496 | fichas/crsfn/2009-01.md |
-| decisao-colegiado | — | 2009-03-13 | deferido | cvm-col-20090313-d01 | fichas/colegiado/2009-04.md |
-| termo-compromisso | RJ2008/7414 | 2009-03-10 | aceito | cvm-col-20090310-d07 | fichas/tc/2009-02.md |
-| termo-compromisso | RJ2007/0384 | 2009-03-10 | rejeitado | cvm-col-20090310-d05 | fichas/tc/2009-01.md |
-| termo-compromisso | RJ2008/8108 | 2009-02-10 | aceito | cvm-col-20090210-d03 | fichas/tc/2009-01.md |
-| termo-compromisso | RJ2007/11415 | 2009-02-10 | aceito | cvm-col-20090210-d01 | fichas/tc/2009-01.md |
-| decisao-colegiado | RJ2008/8148 | 2009-01-29 | provido | cvm-col-20090129-d01 | fichas/colegiado/2009-01.md |
-| pas | RJ2008/5752 | 2009-01-27 | condenacao | cvm-pas-rj2008-5752 | fichas/pas/2009-01.md |
-| termo-compromisso | RJ2008/5880 | 2009-01-06 | aceito | cvm-col-20090106-d02 | fichas/tc/2009-01.md |
-| termo-compromisso | RJ2007/8556 | 2008-12-16 | aceito | cvm-col-20081216-d20 | fichas/tc/2008-08.md |
-| termo-compromisso | RJ2007/8556 | 2008-12-09 | aceito | cvm-col-20081209-d03 | fichas/tc/2008-08.md |
-| pas | RJ2007/11851 | 2008-12-02 | parcial | cvm-pas-rj2007-11851 | fichas/pas/2008-05.md |
-| termo-compromisso | RJ2008/4873 | 2008-12-02 | rejeitado | cvm-col-20081202-d01 | fichas/tc/2008-08.md |
-| decisao-colegiado | — | 2008-11-28 | deferido | cvm-col-20081128-d01 | fichas/colegiado/2008-26.md |
-| termo-compromisso | RJ2006/8798 | 2008-11-25 | aceito | cvm-col-20081125-d11 | fichas/tc/2008-07.md |
-| pas | RJ2007/10843 | 2008-11-18 | condenacao | cvm-pas-rj2007-10843 | fichas/pas/2008-04.md |
-| decisao-colegiado | — | 2008-11-13 | deferido | cvm-col-20081113-d01 | fichas/colegiado/2008-25.md |
-| pas | RJ2006/5136 | 2008-11-04 | condenacao | cvm-pas-rj2006-5136 | fichas/pas/2008-04.md |
-| termo-compromisso | RJ2008/4875 | 2008-11-04 | aceito | cvm-col-20081104-d07 | fichas/tc/2008-07.md |
-| termo-compromisso | RJ2008/2712 | 2008-11-04 | aceito | cvm-col-20081104-d06 | fichas/tc/2008-07.md |
-| termo-compromisso | RJ2007/8150 | 2008-11-04 | rejeitado | cvm-col-20081104-d05 | fichas/tc/2008-07.md |
-| decisao-colegiado | — | 2008-10-28 | deferido | cvm-col-20081028-d01-r3 | fichas/colegiado/2008-24.md |
-| decisao-colegiado | — | 2008-10-28 | deferido | cvm-col-20081028-d01-r2 | fichas/colegiado/2008-24.md |
-| acordao-crsfn | RJ-2004/5238 | 2008-10-28 | parcial | crsfn-8614 | fichas/crsfn/2008-05.md |
-| decisao-colegiado | — | 2008-10-27 | deferido | cvm-col-20081027-d01 | fichas/colegiado/2008-23.md |
-| decisao-colegiado | — | 2008-10-24 | deferido | cvm-col-20081024-d01-r2 | fichas/colegiado/2008-23.md |
-| decisao-colegiado | — | 2008-10-09 | deferido | cvm-col-20081009-d01 | fichas/colegiado/2008-22.md |
-| pas | RJ2007/8109 | 2008-10-07 | parcial | cvm-pas-rj2007-8109 | fichas/pas/2008-04.md |
-| decisao-colegiado | RJ2008/7784 | 2008-09-30 | nao-provido | cvm-col-20080930-d20 | fichas/colegiado/2008-21.md |
-| termo-compromisso | RJ2008/5880 | 2008-09-30 | outro | cvm-col-20080930-d06 | fichas/tc/2008-06.md |
-| termo-compromisso | RJ2008/4874 | 2008-09-30 | rejeitado | cvm-col-20080930-d05 | fichas/tc/2008-06.md |
-| termo-compromisso | RJ2007/13889 | 2008-09-30 | aceito | cvm-col-20080930-d04 | fichas/tc/2008-06.md |
-| termo-compromisso | RJ2007/11415 | 2008-09-30 | rejeitado | cvm-col-20080930-d03 | fichas/tc/2008-06.md |
-| decisao-colegiado | RJ2007/10884 | 2008-09-23 | nao-provido | cvm-col-20080923-d04 | fichas/colegiado/2008-21.md |
-| termo-compromisso | RJ2008/4873 | 2008-09-09 | outro | cvm-col-20080909-d05 | fichas/tc/2008-06.md |
-| termo-compromisso | RJ2008/4871 | 2008-09-09 | rejeitado | cvm-col-20080909-d04 | fichas/tc/2008-06.md |
-| termo-compromisso | RJ2008/2569 | 2008-09-09 | rejeitado | cvm-col-20080909-d03 | fichas/tc/2008-06.md |
-| termo-compromisso | RJ2007/11851 | 2008-09-09 | rejeitado | cvm-col-20080909-d02 | fichas/tc/2008-06.md |
-| decisao-colegiado | — | 2008-09-05 | indeferido | cvm-col-20080905-d01 | fichas/colegiado/2008-20.md |
-| pas | 15/2006 | 2008-09-03 | condenacao | cvm-pas-15-2006 | fichas/pas/2008-03.md |
-| decisao-colegiado | — | 2008-08-29 | deferido | cvm-col-20080829-d01 | fichas/colegiado/2008-19.md |
-| decisao-colegiado | — | 2008-08-29 | deferido | cvm-col-20080829-d01-r2 | fichas/colegiado/2008-19.md |
-| acordao-crsfn | RJ-2006-783 | 2008-08-28 | absolvicao | crsfn-9814 | fichas/crsfn/2008-04.md |
-| pas | RJ2006/5343 | 2008-08-26 | parcial | cvm-pas-rj2006-5343 | fichas/pas/2008-03.md |
-| pas | RJ2006/5410 | 2008-08-21 | condenacao | cvm-pas-rj2006-5410 | fichas/pas/2008-02.md |
-| decisao-colegiado | RJ2008/7192 | 2008-08-13 | deferido | cvm-col-20080813-d01-r2 | fichas/colegiado/2008-18.md |
-| acordao-crsfn | RJ-2005/3646 | 2008-07-30 | condenacao | crsfn-9747 | fichas/crsfn/2008-04.md |
-| decisao-colegiado | RJ2008/4135 | 2008-07-22 | deferido | cvm-col-20080722-d26 | fichas/colegiado/2008-17.md |
-| decisao-colegiado | RJ2007/14986 | 2008-07-22 | parcial | cvm-col-20080722-d15 | fichas/colegiado/2008-16.md |
-| decisao-colegiado | RJ2005/7740 | 2008-07-22 | parcial | cvm-col-20080722-d02 | fichas/colegiado/2008-16.md |
-| decisao-colegiado | RJ2008/2282 | 2008-07-15 | nao-provido | cvm-col-20080715-d05 | fichas/colegiado/2008-15.md |
-| decisao-colegiado | RJ2007/11254 | 2008-07-15 | nao-provido | cvm-col-20080715-d04 | fichas/colegiado/2008-15.md |
-| termo-compromisso | 05/2006 | 2008-07-08 | aceito | cvm-col-20080708-d04 | fichas/tc/2008-05.md |
-| termo-compromisso | RJ2007/8556 | 2008-07-08 | outro | cvm-col-20080708-d01 | fichas/tc/2008-05.md |
-| acordao-crsfn | RJ2002/1822 | 2008-06-25 | parcial | crsfn-8557 | fichas/crsfn/2008-03.md |
-| decisao-colegiado | RJ2007/0057 | 2008-06-24 | provido | cvm-col-20080624-d11 | fichas/colegiado/2008-14.md |
-| termo-compromisso | RJ2007/7292; RJ2007/7548 | 2008-06-24 | aceito | cvm-col-20080624-d10 | fichas/tc/2008-04.md |
-| pas | RJ2006/4849 | 2008-06-17 | condenacao | cvm-pas-rj2006-4849 | fichas/pas/2008-02.md |
-| acordao-crsfn | 2005-2793 | 2008-06-12 | parcial | crsfn-9603 | fichas/crsfn/2008-03.md |
-| termo-compromisso | RJ2007/9080 | 2008-06-10 | aceito | cvm-col-20080610-d08 | fichas/tc/2008-04.md |
-| termo-compromisso | RJ2008/0236 | 2008-06-10 | rejeitado | cvm-col-20080610-d03 | fichas/tc/2008-04.md |
-| termo-compromisso | RJ2007/10843 | 2008-06-10 | aceito | cvm-col-20080610-d02 | fichas/tc/2008-04.md |
-| acordao-crsfn | RJ2006/806 | 2008-05-27 | absolvicao | crsfn-9843 | fichas/crsfn/2008-02.md |
-| termo-compromisso | RJ2007/2078 | 2008-05-20 | aceito | cvm-col-20080520-d01 | fichas/tc/2008-03.md |
-| decisao-colegiado | — | 2008-05-15 | indeferido | cvm-col-20080515-d01 | fichas/colegiado/2008-11.md |
-| termo-compromisso | RJ2007/3772; RJ2007/7549 | 2008-05-13 | aceito | cvm-col-20080513-d04 | fichas/tc/2008-03.md |
-| termo-compromisso | RJ2007/10681 | 2008-04-29 | aceito | cvm-col-20080429-d03 | fichas/tc/2008-03.md |
-| decisao-colegiado | RJ2008/2636 | 2008-04-25 | deferido | cvm-col-20080425-d09 | fichas/colegiado/2008-10.md |
-| decisao-colegiado | RJ2007/8672 | 2008-04-25 | nao-provido | cvm-col-20080425-d08 | fichas/colegiado/2008-10.md |
-| decisao-colegiado | RJ2008/2853 | 2008-04-08 | deferido | cvm-col-20080408-d06 | fichas/colegiado/2008-09.md |
-| decisao-colegiado | RJ2007/10965 | 2008-04-01 | nao-provido | cvm-col-20080401-d17 | fichas/colegiado/2008-08.md |
-| decisao-colegiado | RJ2007/3673 | 2008-03-25 | outro | cvm-col-20080325-d5761 | fichas/colegiado/2008-08.md |
-| termo-compromisso | RJ2007/11253 | 2008-03-25 | aceito | cvm-col-20080325-d05 | fichas/tc/2008-02.md |
-| termo-compromisso | RJ2007/5041 | 2008-03-25 | aceito | cvm-col-20080325-d04 | fichas/tc/2008-02.md |
-| termo-compromisso | RJ2007/5035 | 2008-03-25 | aceito | cvm-col-20080325-d03 | fichas/tc/2008-02.md |
-| termo-compromisso | RJ2007/3821 | 2008-03-04 | aceito | cvm-col-20080304-d07 | fichas/tc/2008-02.md |
-| termo-compromisso | 15/2006 | 2008-03-04 | rejeitado | cvm-col-20080304-d04 | fichas/tc/2008-01.md |
-| termo-compromisso | RJ2007/10884 | 2008-02-26 | rejeitado | cvm-col-20080226-d03 | fichas/tc/2008-01.md |
-| decisao-colegiado | RJ2007/3809 | 2008-02-19 | nao-provido | cvm-col-20080219-d09 | fichas/colegiado/2008-03.md |
-| termo-compromisso | RJ2007/7548 | 2008-02-19 | rejeitado | cvm-col-20080219-d08 | fichas/tc/2008-01.md |
-| termo-compromisso | RJ2007/7292 | 2008-02-19 | rejeitado | cvm-col-20080219-d07 | fichas/tc/2008-01.md |
-| pas | RJ2007/4107 | 2008-01-23 | condenacao | cvm-pas-rj2007-4107 | fichas/pas/2008-01.md |
-| pas | RJ2006/9070 | 2008-01-23 | condenacao | cvm-pas-rj2006-9070 | fichas/pas/2008-01.md |
-| decisao-colegiado | — | 2008-01-22 | indeferido | cvm-col-20080122-d06 | fichas/colegiado/2008-02.md |
-| pas | RJ2007/9559 | 2008-01-16 | condenacao | cvm-pas-rj2007-9559 | fichas/pas/2008-01.md |
-| termo-compromisso | RJ2007/10966 | 2008-01-08 | aceito | cvm-col-20080108-d03 | fichas/tc/2008-01.md |
-| decisao-colegiado | — | 2008-01-04 | indeferido | cvm-col-20080104-d01 | fichas/colegiado/2008-01.md |
-| pas | RJ2007/7406 | 2007-12-18 | condenacao | cvm-pas-rj2007-7406 | fichas/pas/2007-08.md |
-| termo-compromisso | RJ2007/10967 | 2007-12-18 | aceito | cvm-col-20071218-d10 | fichas/tc/2007-07.md |
-| termo-compromisso | RJ2007/3820 | 2007-12-18 | aceito | cvm-col-20071218-d08 | fichas/tc/2007-07.md |
-| termo-compromisso | RJ2007/3772; RJ2007/7549 | 2007-12-18 | rejeitado | cvm-col-20071218-d07 | fichas/tc/2007-07.md |
-| termo-compromisso | RJ2007/3809 | 2007-12-18 | rejeitado | cvm-col-20071218-d06 | fichas/tc/2007-07.md |
-| termo-compromisso | RJ2007/8672 | 2007-12-18 | rejeitado | cvm-col-20071218-d02 | fichas/tc/2007-06.md |
-| decisao-colegiado | — | 2007-12-14 | parcial | cvm-col-20071214-d01 | fichas/colegiado/2007-25.md |
-| acordao-crsfn | 05/4215 | 2007-11-22 | absolvicao | crsfn-9249 | fichas/crsfn/2007-02.md |
-| termo-compromisso | RJ2007/8684 | 2007-11-13 | aceito | cvm-col-20071113-d09 | fichas/tc/2007-06.md |
-| termo-compromisso | RJ2007/3084 | 2007-11-13 | aceito | cvm-col-20071113-d08 | fichas/tc/2007-06.md |
-| decisao-colegiado | RJ2007/1208 | 2007-11-06 | nao-provido | cvm-col-20071106-d04 | fichas/colegiado/2007-22.md |
-| pas | RJ2007/3639 | 2007-10-31 | condenacao | cvm-pas-rj2007-3639 | fichas/pas/2007-07.md |
-| decisao-colegiado | — | 2007-10-31 | indeferido | cvm-col-20071031-d02 | fichas/colegiado/2007-21.md |
-| decisao-colegiado | RJ2007/12488 | 2007-10-30 | deferido | cvm-col-20071030-d10 | fichas/colegiado/2007-21.md |
-| pas | RJ2007/1176 | 2007-10-23 | condenacao | cvm-pas-rj2007-1176 | fichas/pas/2007-07.md |
-| termo-compromisso | RJ2006/4849 | 2007-10-17 | rejeitado | cvm-col-20071017-d03 | fichas/tc/2007-05.md |
-| pas | RJ2006/9068 | 2007-10-02 | condenacao | cvm-pas-rj2006-9068 | fichas/pas/2007-07.md |
-| pas | 23/2005 | 2007-10-02 | absolvicao | cvm-pas-23-2005 | fichas/pas/2007-06.md |
-| termo-compromisso | RJ2007/2078 | 2007-09-18 | rejeitado | cvm-col-20070918-d05 | fichas/tc/2007-05.md |
-| decisao-colegiado | RJ2007/10398 | 2007-09-04 | deferido | cvm-col-20070904-d02 | fichas/colegiado/2007-16.md |
-| decisao-colegiado | — | 2007-08-23 | deferido | cvm-col-20070823-d01 | fichas/colegiado/2007-15.md |
-| termo-compromisso | RJ2006/9070 | 2007-08-21 | rejeitado | cvm-col-20070821-d07 | fichas/tc/2007-05.md |
-| termo-compromisso | RJ2007/1176 | 2007-07-31 | rejeitado | cvm-col-20070731-d07 | fichas/tc/2007-04.md |
-| decisao-colegiado | — | 2007-07-25 | indeferido | cvm-col-20070725-d01 | fichas/colegiado/2007-14.md |
-| pas | RJ2007/1079 | 2007-07-10 | parcial | cvm-pas-rj2007-1079 | fichas/pas/2007-05.md |
-| decisao-colegiado | RJ2006/8065 | 2007-07-10 | nao-provido | cvm-col-20070710-d15 | fichas/colegiado/2007-12.md |
-| decisao-colegiado | RJ2006/7830 | 2007-07-10 | nao-provido | cvm-col-20070710-d14 | fichas/colegiado/2007-12.md |
-| decisao-colegiado | RJ2007/4219; RJ2007/4258 | 2007-07-03 | parcial | cvm-col-20070703-d15 | fichas/colegiado/2007-11.md |
-| termo-compromisso | RJ2006/9825 | 2007-07-03 | rejeitado | cvm-col-20070703-d09 | fichas/tc/2007-04.md |
-| decisao-colegiado | — | 2007-06-28 | outro | cvm-col-20070628-d18 | fichas/colegiado/2007-11.md |
-| decisao-colegiado | — | 2007-06-28 | outro | cvm-col-20070628-d17 | fichas/colegiado/2007-11.md |
-| decisao-colegiado | — | 2007-06-22 | indeferido | cvm-col-20070622-d01 | fichas/colegiado/2007-10.md |
-| decisao-colegiado | RJ2007/0196 | 2007-06-12 | provido | cvm-col-20070612-d08 | fichas/colegiado/2007-09.md |
-| decisao-colegiado | RJ2006/7557 | 2007-06-12 | outro | cvm-col-20070612-d01-r2 | fichas/colegiado/2007-09.md |
-| decisao-colegiado | — | 2007-06-05 | indeferido | cvm-col-20070605-d07 | fichas/colegiado/2007-09.md |
-| decisao-colegiado | — | 2007-06-05 | indeferido | cvm-col-20070605-d06 | fichas/colegiado/2007-09.md |
-| decisao-colegiado | RJ2007/3465 | 2007-05-29 | deferido | cvm-col-20070529-d07 | fichas/colegiado/2007-08.md |
-| decisao-colegiado | — | 2007-05-16 | outro | cvm-col-20070516-d01 | fichas/colegiado/2007-07.md |
-| decisao-colegiado | — | 2007-04-18 | deferido | cvm-col-20070418-d01 | fichas/colegiado/2007-06.md |
-| pas | RJ2006/5928 | 2007-04-17 | condenacao | cvm-pas-rj2006-5928 | fichas/pas/2007-02.md |
-| decisao-colegiado | RJ2006/7828 | 2007-04-17 | nao-provido | cvm-col-20070417-d03 | fichas/colegiado/2007-05.md |
-| decisao-colegiado | RJ2006/8981 | 2007-04-17 | nao-provido | cvm-col-20070417-d02 | fichas/colegiado/2007-05.md |
-| termo-compromisso | RJ2006/7829 | 2007-02-26 | rejeitado | cvm-col-20070226-d04 | fichas/tc/2007-02.md |
-| decisao-colegiado | — | 2007-02-22 | outro | cvm-col-20070222-d01 | fichas/colegiado/2007-03.md |
-| pas | 01/2003 | 2007-02-01 | absolvicao | cvm-pas-01-2003 | fichas/pas/2007-02.md |
-| termo-compromisso | RJ2006/5905 | 2007-01-30 | aceito | cvm-col-20070130-d06 | fichas/tc/2007-01.md |
-| termo-compromisso | RJ2006/5820 | 2007-01-30 | aceito | cvm-col-20070130-d05 | fichas/tc/2007-01.md |
-| pas | 02/2003 | 2007-01-24 | parcial | cvm-pas-02-2003 | fichas/pas/2007-01.md |
-| termo-compromisso | RJ2005/7463 | 2007-01-23 | aceito | cvm-col-20070123-d09 | fichas/tc/2007-01.md |
-| termo-compromisso | 26/2005 | 2007-01-23 | aceito | cvm-col-20070123-d04 | fichas/tc/2007-01.md |
-| pas | RJ2006/4776 | 2007-01-17 | condenacao | cvm-pas-rj2006-4776 | fichas/pas/2007-01.md |
-| termo-compromisso | RJ2006/6107 | 2007-01-16 | aceito | cvm-col-20070116-d02 | fichas/tc/2007-01.md |
-| decisao-colegiado | RJ2004/1616 | 2007-01-09 | outro | cvm-col-20070109-d05 | fichas/colegiado/2007-01.md |
-| termo-compromisso | RJ2006/3189 | 2006-12-19 | aceito | cvm-col-20061219-d08 | fichas/tc/2006-07.md |
-| termo-compromisso | RJ2006/5908 | 2006-12-12 | aceito | cvm-col-20061212-d06 | fichas/tc/2006-07.md |
-| termo-compromisso | RJ2006/6106 | 2006-12-05 | aceito | cvm-col-20061205-d09 | fichas/tc/2006-07.md |
-| termo-compromisso | RJ2006/1512 | 2006-12-05 | aceito | cvm-col-20061205-d07 | fichas/tc/2006-07.md |
-| termo-compromisso | RJ2006/6105 | 2006-12-05 | aceito | cvm-col-20061205-d06 | fichas/tc/2006-07.md |
-| decisao-colegiado | RJ2006/5824 | 2006-11-28 | nao-provido | cvm-col-20061128-d07 | fichas/colegiado/2006-18.md |
-| termo-compromisso | RJ2005/3742 | 2006-11-28 | aceito | cvm-col-20061128-d02 | fichas/tc/2006-06.md |
-| termo-compromisso | RJ2006/5822 | 2006-11-22 | rejeitado | cvm-col-20061122-d05 | fichas/tc/2006-06.md |
-| pas | RJ2006/2106 | 2006-11-08 | parcial | cvm-pas-rj2006-2106 | fichas/pas/2006-12.md |
-| pas | RJ2005/7507 | 2006-11-08 | parcial | cvm-pas-rj2005-7507 | fichas/pas/2006-12.md |
-| pas | RJ2005/7127 | 2006-11-08 | parcial | cvm-pas-rj2005-7127 | fichas/pas/2006-12.md |
-| pas | RJ2005/5222 | 2006-11-08 | outro | cvm-pas-rj2005-5222 | fichas/pas/2006-12.md |
-| termo-compromisso | RJ2005/1250 | 2006-11-07 | aceito | cvm-col-20061107-d03 | fichas/tc/2006-06.md |
-| pas | RJ2005/5508 | 2006-10-31 | parcial | cvm-pas-rj2005-5508 | fichas/pas/2006-11.md |
-| pas | RJ2005/4990 | 2006-10-31 | parcial | cvm-pas-rj2005-4990 | fichas/pas/2006-11.md |
-| decisao-colegiado | RJ2006/5829 | 2006-10-31 | nao-provido | cvm-col-20061031-d11 | fichas/colegiado/2006-16.md |
-| decisao-colegiado | RJ2006/0804 | 2006-10-31 | parcial | cvm-col-20061031-d10 | fichas/colegiado/2006-16.md |
-| decisao-colegiado | RJ2004/1616 | 2006-10-31 | outro | cvm-col-20061031-d08 | fichas/colegiado/2006-16.md |
-| termo-compromisso | RJ2006/3461 | 2006-10-03 | aceito | cvm-col-20061003-d10 | fichas/tc/2006-05.md |
-| termo-compromisso | RJ2005/8714 | 2006-10-03 | rejeitado | cvm-col-20061003-d06 | fichas/tc/2006-05.md |
-| pas | RJ2006/1559 | 2006-09-26 | parcial | cvm-pas-rj2006-1559 | fichas/pas/2006-09.md |
-| pas | RJ2005/7128 | 2006-09-11 | absolvicao | cvm-pas-rj2005-7128 | fichas/pas/2006-09.md |
-| pas | RJ2006/1621 | 2006-08-29 | parcial | cvm-pas-rj2006-1621 | fichas/pas/2006-09.md |
-| pas | RJ2006/1266 | 2006-08-29 | parcial | cvm-pas-rj2006-1266 | fichas/pas/2006-08.md |
-| pas | RJ2006/1853 | 2006-08-22 | parcial | cvm-pas-rj2006-1853 | fichas/pas/2006-08.md |
-| pas | RJ2006/1574 | 2006-08-22 | absolvicao | cvm-pas-rj2006-1574 | fichas/pas/2006-08.md |
-| pas | RJ2006/1528 | 2006-08-22 | parcial | cvm-pas-rj2006-1528 | fichas/pas/2006-08.md |
-| decisao-colegiado | RJ2006/3388 | 2006-08-22 | nao-provido | cvm-col-20060822-d04 | fichas/colegiado/2006-13.md |
-| decisao-colegiado | RJ2006/0800 | 2006-08-15 | nao-provido | cvm-col-20060815-d11 | fichas/colegiado/2006-13.md |
-| termo-compromisso | RJ2006/0782 | 2006-08-15 | aceito | cvm-col-20060815-d06 | fichas/tc/2006-04.md |
-| termo-compromisso | RJ2005/8528 | 2006-08-15 | rejeitado | cvm-col-20060815-d05 | fichas/tc/2006-03.md |
-| pas | RJ2006/1623 | 2006-08-01 | parcial | cvm-pas-rj2006-1623 | fichas/pas/2006-07.md |
-| pas | RJ2006/1622 | 2006-08-01 | parcial | cvm-pas-rj2006-1622 | fichas/pas/2006-07.md |
-| termo-compromisso | RJ2006/0808 | 2006-07-18 | rejeitado | cvm-col-20060718-d06 | fichas/tc/2006-03.md |
-| termo-compromisso | RJ2006/0784 | 2006-06-20 | rejeitado | cvm-col-20060620-d05 | fichas/tc/2006-03.md |
-| decisao-colegiado | RJ2006/0806 | 2006-06-20 | nao-provido | cvm-col-20060620-d01 | fichas/colegiado/2006-09.md |
-| pas | RJ2006/1267 | 2006-06-14 | parcial | cvm-pas-rj2006-1267 | fichas/pas/2006-06.md |
-| pas | RJ2005/8229 | 2006-06-14 | parcial | cvm-pas-rj2005-8229 | fichas/pas/2006-06.md |
-| decisao-colegiado | RJ2006/0796 | 2006-06-13 | parcial | cvm-col-20060613-d07 | fichas/colegiado/2006-09.md |
-| termo-compromisso | RJ2005/6765 | 2006-06-13 | aceito | cvm-col-20060613-d03 | fichas/tc/2006-03.md |
-| decisao-colegiado | RJ2006/0783 | 2006-06-06 | nao-provido | cvm-col-20060606-d03 | fichas/colegiado/2006-09.md |
-| termo-compromisso | RJ2005/7740 | 2006-05-30 | rejeitado | cvm-col-20060530-d05 | fichas/tc/2006-02.md |
-| termo-compromisso | RJ2005/7463 | 2006-05-30 | rejeitado | cvm-col-20060530-d04 | fichas/tc/2006-02.md |
-| decisao-colegiado | RJ2006/0801 | 2006-05-18 | nao-provido | cvm-col-20060518-d03 | fichas/colegiado/2006-07.md |
-| decisao-colegiado | RJ2005/8359 | 2006-05-18 | nao-provido | cvm-col-20060518-d02 | fichas/colegiado/2006-07.md |
-| pas | RJ2005/7315 | 2006-05-10 | parcial | cvm-pas-rj2005-7315 | fichas/pas/2006-05.md |
-| pas | RJ2005/7257 | 2006-05-10 | absolvicao | cvm-pas-rj2005-7257 | fichas/pas/2006-05.md |
-| pas | RJ2005/7234 | 2006-05-10 | parcial | cvm-pas-rj2005-7234 | fichas/pas/2006-05.md |
-| decisao-colegiado | — | 2006-05-09 | outro | cvm-col-20060509-d04 | fichas/colegiado/2006-07.md |
-| pas | RJ2005/8578 | 2006-05-04 | parcial | cvm-pas-rj2005-8578 | fichas/pas/2006-04.md |
-| pas | RJ2005/5936 | 2006-05-04 | parcial | cvm-pas-rj2005-5936 | fichas/pas/2006-04.md |
-| pas | RJ2005/5041 | 2006-05-04 | parcial | cvm-pas-rj2005-5041 | fichas/pas/2006-04.md |
-| pas | RJ2005/7244 | 2006-05-03 | parcial | cvm-pas-rj2005-7244 | fichas/pas/2006-04.md |
-| decisao-colegiado | RJ2005/1508 | 2006-05-03 | parcial | cvm-col-20060503-d01 | fichas/colegiado/2006-07.md |
-| decisao-colegiado | — | 2006-04-17 | deferido | cvm-col-20060417-d01 | fichas/colegiado/2006-06.md |
-| termo-compromisso | RJ2005/6729 | 2006-04-11 | aceito | cvm-col-20060411-d06 | fichas/tc/2006-02.md |
-| termo-compromisso | RJ2005/7741 | 2006-04-04 | rejeitado | cvm-col-20060404-d04 | fichas/tc/2006-01.md |
-| decisao-colegiado | RJ2005/5937 | 2006-01-31 | nao-provido | cvm-col-20060131-d08 | fichas/colegiado/2006-02.md |
-| decisao-colegiado | RJ2005/8470; RJ2005/8471 | 2006-01-31 | conhecimento | cvm-col-20060131-d04 | fichas/colegiado/2006-02.md |
-| pas | RJ2005/2793 | 2005-11-30 | parcial | cvm-pas-rj2005-2793 | fichas/pas/2005-08.md |
-| decisao-colegiado | RJ2005/8357 | 2005-11-22 | deferido | cvm-col-20051122-d19 | fichas/colegiado/2005-18.md |
-| termo-compromisso | RJ2002/4311 | 2005-11-17 | rejeitado | cvm-col-20051117-d02 | fichas/tc/2005-03.md |
-| decisao-colegiado | RJ2005/4284 | 2005-11-17 | nao-provido | cvm-col-20051117-d01 | fichas/colegiado/2005-17.md |
-| pas | 01/2004 | 2005-11-16 | parcial | cvm-pas-01-2004 | fichas/pas/2005-08.md |
-| decisao-colegiado | RJ2005/7750 | 2005-11-09 | deferido | cvm-col-20051109-d03 | fichas/colegiado/2005-17.md |
-| decisao-colegiado | RJ2005/7750 | 2005-11-08 | parcial | cvm-col-20051108-d12 | fichas/colegiado/2005-17.md |
-| decisao-colegiado | RJ2005/4961 | 2005-10-11 | nao-provido | cvm-col-20051011-d05 | fichas/colegiado/2005-15.md |
-| pas | RJ2004/6238 | 2005-10-05 | condenacao | cvm-pas-rj2004-6238 | fichas/pas/2005-06.md |
-| termo-compromisso | 19/00 | 2005-09-05 | outro | cvm-col-20050905-d01 | fichas/tc/2005-02.md |
-| decisao-colegiado | RJ2005/4284 | 2005-08-30 | nao-provido | cvm-col-20050830-d02 | fichas/colegiado/2005-12.md |
-| termo-compromisso | RJ2004/1616 | 2005-08-16 | aceito | cvm-col-20050816-d01 | fichas/tc/2005-02.md |
-| decisao-colegiado | RJ2005/0527 | 2005-08-09 | nao-provido | cvm-col-20050809-d09 | fichas/colegiado/2005-11.md |
-| decisao-colegiado | RJ2005/1717 | 2005-06-21 | nao-provido | cvm-col-20050621-d05 | fichas/colegiado/2005-10.md |
-| pas | RJ2002/1822 | 2005-05-06 | condenacao | cvm-pas-rj2002-1822 | fichas/pas/2005-04.md |
-| decisao-colegiado | RJ2005/2597 | 2005-05-03 | deferido | cvm-col-20050503-d06 | fichas/colegiado/2005-08.md |
-| decisao-colegiado | RJ2005/0865 | 2005-03-29 | deferido | cvm-col-20050329-d06 | fichas/colegiado/2005-06.md |
-| decisao-colegiado | RJ2005/0223 | 2005-03-22 | nao-provido | cvm-col-20050322-d08 | fichas/colegiado/2005-05.md |
-| decisao-colegiado | RJ2004/5476 | 2005-03-01 | outro | cvm-col-20050301-d02 | fichas/colegiado/2005-04.md |
-| pas | RJ2002/1415 | 2005-02-17 | condenacao | cvm-pas-rj2002-1415 | fichas/pas/2005-01.md |
-| termo-compromisso | RJ2002/1415 | 2004-12-14 | rejeitado | cvm-col-20041214-d03 | fichas/tc/2004-02.md |
-| decisao-colegiado | RJ2004/5042 | 2004-09-21 | outro | cvm-col-20040921-d02 | fichas/colegiado/2004-11.md |
-| acordao-crsfn | 16/00 | 2004-08-18 | absolvicao | crsfn-4594 | fichas/crsfn/2004-02.md |
-| decisao-colegiado | RJ2004/2728 | 2004-07-27 | nao-provido | cvm-col-20040727-d05 | fichas/colegiado/2004-09.md |
-| decisao-colegiado | RJ2004/2057 | 2004-07-13 | indeferido | cvm-col-20040713-d11 | fichas/colegiado/2004-08.md |
-| decisao-colegiado | RJ2002/5848 | 2004-07-13 | provido | cvm-col-20040713-d08 | fichas/colegiado/2004-08.md |
-| decisao-colegiado | RJ2004/2330 | 2004-07-13 | nao-provido | cvm-col-20040713-d07 | fichas/colegiado/2004-08.md |
-| decisao-colegiado | RJ2004/2899 | 2004-07-06 | nao-provido | cvm-col-20040706-d07 | fichas/colegiado/2004-08.md |
-| decisao-colegiado | RJ2004/0007 | 2004-06-15 | parcial | cvm-col-20040615-d03 | fichas/colegiado/2004-07.md |
-| acordao-crsfn | RJ2001/8385 | 2004-05-26 | parcial | crsfn-4988 | fichas/crsfn/2004-01.md |
-| decisao-colegiado | RJ2002/5560 | 2004-05-18 | conhecimento | cvm-col-20040518-d01 | fichas/colegiado/2004-06.md |
-| acordao-crsfn | 22/99 | 2004-03-24 | absolvicao | crsfn-3963 | fichas/crsfn/2004-01.md |
-| decisao-colegiado | RJ2004/1469 | 2004-03-23 | deferido | cvm-col-20040323-d04 | fichas/colegiado/2004-04.md |
-| decisao-colegiado | RJ2004/0007 | 2004-03-23 | nao-provido | cvm-col-20040323-d02 | fichas/colegiado/2004-04.md |
-| decisao-colegiado | RJ2004/1008 | 2004-03-16 | provido | cvm-col-20040316-d08 | fichas/colegiado/2004-04.md |
-| decisao-colegiado | RJ2003/11977 | 2004-03-09 | nao-provido | cvm-col-20040309-d14 | fichas/colegiado/2004-03.md |
-| pas | 03/2002 | 2004-02-12 | parcial | cvm-pas-03-2002 | fichas/pas/2004-01.md |
-| decisao-colegiado | RJ2003/13500 | 2004-01-27 | nao-provido | cvm-col-20040127-d04 | fichas/colegiado/2004-01.md |
-| termo-compromisso | RJ2003/4007 | 2003-12-22 | aceito | cvm-col-20031222-d03 | fichas/tc/2003.md |
-| pas | RJ2003/0435 | 2003-12-17 | parcial | cvm-pas-rj2003-0435 | fichas/pas/2003-05.md |
-| decisao-colegiado | RJ2002/4159; RJ2002/4168 | 2003-12-16 | provido | cvm-col-20031216-d06 | fichas/colegiado/2003-14.md |
-| decisao-colegiado | RJ2003/7571 | 2003-12-16 | nao-provido | cvm-col-20031216-d05 | fichas/colegiado/2003-14.md |
-| decisao-colegiado | RJ2003/7573 | 2003-12-16 | nao-provido | cvm-col-20031216-d04 | fichas/colegiado/2003-14.md |
-| decisao-colegiado | RJ2003/10947 | 2003-12-16 | provido | cvm-col-20031216-d03 | fichas/colegiado/2003-14.md |
-| acordao-crsfn | RJ2000/6498 | 2003-12-10 | parcial | crsfn-4266 | fichas/crsfn/2003-03.md |
-| decisao-colegiado | — | 2003-11-18 | nao-provido | cvm-col-20031118-d09 | fichas/colegiado/2003-13.md |
-| decisao-colegiado | RJ2003/1422 | 2003-11-11 | nao-provido | cvm-col-20031111-d05 | fichas/colegiado/2003-13.md |
-| decisao-colegiado | RJ2003/5856 | 2003-10-07 | provido | cvm-col-20031007-d01 | fichas/colegiado/2003-12.md |
-| acordao-crsfn | 01/1950 | 2003-09-24 | absolvicao | crsfn-4058 | fichas/crsfn/2003-02.md |
-| decisao-colegiado | RJ2003/6765 | 2003-08-20 | indeferido | cvm-col-20030820-d02 | fichas/colegiado/2003-10.md |
-| decisao-colegiado | RJ2003/4676; RJ2003/6747 | 2003-08-12 | outro | cvm-col-20030812-d02 | fichas/colegiado/2003-10.md |
-| decisao-colegiado | RJ2003/6251 | 2003-07-22 | conhecimento | cvm-col-20030722-d08 | fichas/colegiado/2003-09.md |
-| decisao-colegiado | RJ2003/6252 | 2003-07-22 | — | cvm-col-20030722-d07 | fichas/colegiado/2003-09.md |
-| decisao-colegiado | RJ2003/5289 | 2003-06-25 | provido | cvm-col-20030625-d08 | fichas/colegiado/2003-09.md |
-| decisao-colegiado | RJ2003/3966 | 2003-05-20 | parcial | cvm-col-20030520-d09 | fichas/colegiado/2003-06.md |
-| decisao-colegiado | RJ2003/1912 | 2003-05-13 | indeferido | cvm-col-20030513-d06 | fichas/colegiado/2003-06.md |
-| decisao-colegiado | RJ2002/5560 | 2003-04-17 | nao-provido | cvm-col-20030417-d01 | fichas/colegiado/2003-04.md |
-| decisao-colegiado | SP2002/0474 | 2003-04-17 | nao-provido | cvm-col-20030417-d01-r2 | fichas/colegiado/2003-04.md |
-| pas | SP2002/0047 | 2003-04-03 | parcial | cvm-pas-sp2002-0047 | fichas/pas/2003-01.md |
-| decisao-colegiado | — | 2003-03-12 | deferido | cvm-col-20030312-d04 | fichas/colegiado/2003-03.md |
-| acordao-crsfn | 30/99 | 2003-02-19 | parcial | crsfn-3854 | fichas/crsfn/2003-01.md |
-| acordao-crsfn | 26/99 | 2003-01-29 | condenacao | crsfn-3966 | fichas/crsfn/2003-01.md |
-| acordao-crsfn | RJ2000/4550 | 2003-01-29 | parcial | crsfn-3710 | fichas/crsfn/2003-01.md |
-| acordao-crsfn | 12/00 | 2002-12-11 | parcial | crsfn-4122 | fichas/crsfn/2002-03.md |
-| decisao-colegiado | RJ2002/7380 | 2002-12-10 | indeferido | cvm-col-20021210-d07 | fichas/colegiado/2002-26.md |
-| pas | 16/2000 | 2002-12-05 | parcial | cvm-pas-16-2000 | fichas/pas/2002-03.md |
-| decisao-colegiado | RJ2002/6248 | 2002-12-02 | nao-provido | cvm-col-20021202-d06 | fichas/colegiado/2002-26.md |
-| acordao-crsfn | RJ99/5698 | 2002-11-26 | condenacao | crsfn-3606 | fichas/crsfn/2002-03.md |
-| decisao-colegiado | RJ2002/7052 | 2002-11-22 | indeferido | cvm-col-20021122-d03 | fichas/colegiado/2002-25.md |
-| decisao-colegiado | RJ2002/2712 | 2002-10-29 | nao-provido | cvm-col-20021029-d03 | fichas/colegiado/2002-24.md |
-| decisao-colegiado | RJ2002/5895 | 2002-09-24 | deferido | cvm-col-20020924-d04 | fichas/colegiado/2002-22.md |
-| decisao-colegiado | RJ2002/6273 | 2002-09-20 | provido | cvm-col-20020920-d04 | fichas/colegiado/2002-22.md |
-| decisao-colegiado | RJ2002/6083 | 2002-09-20 | indeferido | cvm-col-20020920-d03 | fichas/colegiado/2002-22.md |
-| decisao-colegiado | RJ2002/6065 | 2002-09-10 | deferido | cvm-col-20020910-d06 | fichas/colegiado/2002-22.md |
-| decisao-colegiado | RJ2002/4945; RJ2002/4976 | 2002-08-30 | deferido | cvm-col-20020830-d09 | fichas/colegiado/2002-21.md |
-| acordao-crsfn | RJ99/1944 | 2002-08-01 | absolvicao | crsfn-3797 | fichas/crsfn/2002-02.md |
-| decisao-colegiado | — | 2002-07-09 | outro | cvm-col-20020709-d11 | fichas/colegiado/2002-17.md |
-| decisao-colegiado | RJ2002/2735 | 2002-07-09 | parcial | cvm-col-20020709-d07 | fichas/colegiado/2002-17.md |
-| acordao-crsfn | 02/2000 | 2002-06-27 | condenacao | crsfn-3853 | fichas/crsfn/2002-02.md |
-| acordao-crsfn | RJ99/1942 | 2002-06-27 | absolvicao | crsfn-3802 | fichas/crsfn/2002-02.md |
-| pas | RJ2001/6835 | 2002-06-05 | condenacao | cvm-pas-rj2001-6835 | fichas/pas/2002-02.md |
-| termo-compromisso | IA19/2000 | 2002-05-29 | aceito | cvm-col-20020529-d3018 | fichas/tc/2002.md |
-| acordao-crsfn | RJ99/1951 | 2002-05-28 | condenacao | crsfn-3753 | fichas/crsfn/2002-01.md |
-| decisao-colegiado | RJ2002/2057 | 2002-05-21 | indeferido | cvm-col-20020521-d01 | fichas/colegiado/2002-12.md |
-| pas | RJ2001/8388 | 2002-04-18 | condenacao | cvm-pas-rj2001-8388 | fichas/pas/2002-02.md |
-| termo-compromisso | RJ2001/9705 | 2002-04-09 | aceito | cvm-tc-rj2001-9705-20020409 | fichas/tc/2002.md |
-| acordao-crsfn | RJ99/1948 | 2002-03-25 | absolvicao | crsfn-3757 | fichas/crsfn/2002-01.md |
-| decisao-colegiado | RJ2001/10329 | 2002-02-19 | provido | cvm-col-20020219-d02 | fichas/colegiado/2002-03.md |
-| pas | 12/2000 | 2002-01-10 | parcial | cvm-pas-12-2000 | fichas/pas/2002-01.md |
-| pas | RJ2001/1950 | 2001-12-12 | absolvicao | cvm-pas-rj2001-1950 | fichas/pas/2001-04.md |
-| pas | 22/1999 | 2001-08-16 | absolvicao | cvm-pas-22-1999 | fichas/pas/2001-03.md |
-| acordao-crsfn | 99/1887 | 2001-06-20 | parcial | crsfn-3567 | fichas/crsfn/2001-02.md |
-| acordao-crsfn | RJ99/1949 | 2001-04-27 | parcial | crsfn-3182 | fichas/crsfn/2001-01.md |
-| acordao-crsfn | 19/93 | 2001-03-30 | parcial | crsfn-2959 | fichas/crsfn/2001-01.md |
-| acordao-crsfn | RJ99/1943 | 2001-01-30 | absolvicao | crsfn-3148 | fichas/crsfn/2001-01.md |
-| acordao-crsfn | RJ98/4968 | 2000-12-15 | condenacao | crsfn-3127 | fichas/crsfn/2000-07.md |
-| acordao-crsfn | 98/5615 | 2000-12-15 | absolvicao | crsfn-2976 | fichas/crsfn/2000-06.md |
-| acordao-crsfn | 98/4411 | 2000-12-15 | absolvicao | crsfn-2936 | fichas/crsfn/2000-06.md |
-| acordao-crsfn | 08/96 | 2000-12-15 | parcial | crsfn-2874 | fichas/crsfn/2000-06.md |
-| acordao-crsfn | 99/1886 | 2000-11-23 | arquivamento | crsfn-3175 | fichas/crsfn/2000-06.md |
-| acordao-crsfn | 99/1945 | 2000-11-07 | absolvicao | crsfn-3171 | fichas/crsfn/2000-06.md |
-| acordao-crsfn | RJ99/1952 | 2000-11-07 | condenacao | crsfn-3130 | fichas/crsfn/2000-06.md |
-| acordao-crsfn | 99/1885 | 2000-10-10 | parcial | crsfn-3041 | fichas/crsfn/2000-05.md |
-| acordao-crsfn | 99/1946 | 2000-09-29 | absolvicao | crsfn-3149 | fichas/crsfn/2000-05.md |
-| acordao-crsfn | 97/2956 | 2000-09-29 | condenacao | crsfn-2782 | fichas/crsfn/2000-04.md |
-| acordao-crsfn | 95/4542 | 2000-07-28 | absolvicao | crsfn-2894 | fichas/crsfn/2000-03.md |
-| acordao-crsfn | 98/5771 | 2000-06-15 | absolvicao | crsfn-3009 | fichas/crsfn/2000-03.md |
-| acordao-crsfn | 98/5639 | 2000-06-15 | absolvicao | crsfn-2997 | fichas/crsfn/2000-03.md |
-| acordao-crsfn | RJ98/4072 | 2000-06-15 | absolvicao | crsfn-2983 | fichas/crsfn/2000-03.md |
-| acordao-crsfn | 98/5672 | 2000-05-30 | absolvicao | crsfn-2994 | fichas/crsfn/2000-02.md |
-| acordao-crsfn | 98/4578 | 2000-05-30 | absolvicao | crsfn-2992 | fichas/crsfn/2000-02.md |
-| acordao-crsfn | 98/4801 | 2000-05-30 | absolvicao | crsfn-2987 | fichas/crsfn/2000-02.md |
-| acordao-crsfn | 98/4854 | 2000-04-27 | absolvicao | crsfn-2985 | fichas/crsfn/2000-02.md |
-| acordao-crsfn | 98/4852 | 2000-03-23 | absolvicao | crsfn-2957 | fichas/crsfn/2000-01.md |
-| acordao-crsfn | SP95/0054 | 2000-02-25 | absolvicao | crsfn-2978 | fichas/crsfn/2000-01.md |
-| acordao-crsfn | 98/4853 | 2000-02-25 | absolvicao | crsfn-2943 | fichas/crsfn/2000-01.md |
-| acordao-crsfn | 15/94 | 2000-02-25 | parcial | crsfn-2609 | fichas/crsfn/2000-01.md |
-| acordao-crsfn | 98/5675 | 1999-12-15 | condenacao | crsfn-2963 | fichas/crsfn/1999-04.md |
-| acordao-crsfn | 97/0706 | 1999-11-25 | absolvicao | crsfn-2979 | fichas/crsfn/1999-04.md |
-| acordao-crsfn | 98/4802 | 1999-11-25 | absolvicao | crsfn-2975 | fichas/crsfn/1999-04.md |
-| acordao-crsfn | 98/5666 | 1999-11-25 | absolvicao | crsfn-2968 | fichas/crsfn/1999-04.md |
-| acordao-crsfn | 98/4849 | 1999-11-25 | absolvicao | crsfn-2965 | fichas/crsfn/1999-04.md |
-| acordao-crsfn | 98/5607 | 1999-11-25 | absolvicao | crsfn-2942 | fichas/crsfn/1999-03.md |
-| acordao-crsfn | 98/4141 | 1999-11-25 | absolvicao | crsfn-2918 | fichas/crsfn/1999-03.md |
-| acordao-crsfn | 98/3430 | 1999-11-25 | absolvicao | crsfn-2910 | fichas/crsfn/1999-03.md |
-| acordao-crsfn | 97/3001 | 1999-11-25 | parcial | crsfn-2810 | fichas/crsfn/1999-03.md |
-| acordao-crsfn | 97/3413 | 1999-09-30 | condenacao | crsfn-2837 | fichas/crsfn/1999-03.md |
-| acordao-crsfn | 98/3428 | 1999-08-31 | absolvicao | crsfn-2907 | fichas/crsfn/1999-02.md |
-| acordao-crsfn | 98/3429 | 1999-08-31 | absolvicao | crsfn-2899 | fichas/crsfn/1999-02.md |
-| acordao-crsfn | 96/2086 | 1999-08-31 | parcial | crsfn-2562 | fichas/crsfn/1999-02.md |
-| acordao-crsfn | 98/5638 | 1999-07-29 | absolvicao | crsfn-2937 | fichas/crsfn/1999-02.md |
-| acordao-crsfn | 97/1854 | 1999-07-29 | absolvicao | crsfn-2825 | fichas/crsfn/1999-02.md |
-| acordao-crsfn | 95/4641 | 1999-06-22 | condenacao | crsfn-2600 | fichas/crsfn/1999-01.md |
-| acordao-crsfn | 95/4538 | 1999-05-26 | absolvicao | crsfn-2626 | fichas/crsfn/1999-01.md |
-| acordao-crsfn | 96/4367 | 1998-11-24 | condenacao | crsfn-2582 | fichas/crsfn/1998-04.md |
-| acordao-crsfn | 96/2053 | 1998-06-25 | absolvicao | crsfn-2487 | fichas/crsfn/1998-02.md |
-| acordao-crsfn | 29/93 | 1997-07-31 | condenacao | crsfn-2211 | fichas/crsfn/1997-01.md |
-| acordao-crsfn | 10/92 | 1997-04-24 | parcial | crsfn-1960 | fichas/crsfn/1997-01.md |
-| acordao-crsfn | 13/88 | 1996-08-07 | parcial | crsfn-1663 | fichas/crsfn/1996-02.md |
-| acordao-crsfn | 10/91 | 1996-04-16 | parcial | crsfn-1618 | fichas/crsfn/1996-01.md |
+| Tipo | Processo | Data | Resultado | Ementa | Id | Ficha |
+|---|---|---|---|---|---|---|
+| pas | 19957.011231/2025-34 | 2026-10-02 | — | PAS, rito simplificado, contra diretores de companhia aberta por não elaborar as demonstrações financeiras de 2024 e os ITR de 1º e 2º… | cvm-pas-19957-011231-2025-34 | fichas/pas/2026-05.md |
+| acordao-crsfn | 19957.001912/2024-11 | 2026-09-15 | condenacao | RECURSO ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. ATRASO E NÃO ENTREGA DE INFORMAÇÕES PERIÓDICAS OBRIGATÓRIAS DE FUNDOS DE INVESTIMENTO. A… | crsfn-19957-001912-2024-11 | fichas/crsfn/2026-03.md |
+| pas | 19957.001811/2025-13 | 2026-09-08 | condenacao | Apurar a responsabilidade de [pessoa física], na qualidade de ex-Diretora de Relações com Investidores da Ybirá Capital S.A., por infração… | cvm-pas-19957-001811-2025-13 | fichas/pas/2026-04.md |
+| pas | 19957.003612/2020-35 | 2026-07-28 | absolvicao | Apuração de eventuais irregularidades relacionadas à divulgação de informações por parte do IRB - BRASIL RESSEGUROS S.A. ("IRBR3") e seus… | cvm-pas-19957-003612-2020-35 | fichas/pas/2026-02.md |
+| pas | 19957.011363/2024-85 | 2026-07-14 | parcial | Apurar a responsabilidade de administradores da Fertilizantes Heringer S.A. pela divulgação de informações incompletas ou inconsistentes ao… | cvm-pas-19957-011363-2024-85 | fichas/pas/2026-02.md |
+| pas | 19957.001044/2025-42 | 2026-07-14 | parcial | Apurar a responsabilidade de administradores da Ammo Varejo S.A. por deixarem de elaborar e enviar tempestivamente informações periódicas… | cvm-pas-19957-001044-2025-42 | fichas/pas/2026-02.md |
+| termo-compromisso | 19957.009587/2025-16 | 2026-06-23 | aceito | O Colegiado aceitou proposta conjunta de dois diretores da Braskem, nos termos ajustados pelo Comitê: R$ 510.000,00 e R$ 255.000,00… | cvm-col-20260623-d3553 | fichas/tc/2026-02.md |
+| termo-compromisso | 19957.011252/2025-50 | 2026-06-23 | rejeitado | O Colegiado, acompanhando o Comitê, rejeitou proposta de termo de compromisso de R$ 150.000,00 apresentada pela diretora financeira de uma… | cvm-col-20260623-d3533 | fichas/tc/2026-02.md |
+| pas | 19957.011123/2025-61 | 2026-06-02 | condenacao | Apurar o descumprimento, pelos administradores da TBM-Têxtil [pessoa física] S.A., das obrigações de elaboração e envio de informações… | cvm-pas-19957-011123-2025-61 | fichas/pas/2026-01.md |
+| termo-compromisso | 19957.011231/2025-34 | 2026-05-26 | rejeitado | O Colegiado, acompanhando o Comitê, rejeitou proposta conjunta de termo de compromisso de dois diretores (R$ 150.000,00 cada) em PAS por… | cvm-col-20260526-d3543 | fichas/tc/2026-01.md |
+| pas | 19957.001045/2025-97 | 2026-05-12 | parcial | Apurar a responsabilidade de diretores da Companhia de Tecidos Norte de Minas – Coteminas Em Recuperação Judicial por infração ao art. 176… | cvm-pas-19957-001045-2025-97 | fichas/pas/2026-01.md |
+| termo-compromisso | 19957.009588/2025-52 | 2026-04-07 | aceito | O Colegiado, por unanimidade, aceitou proposta de termo de compromisso de R$ 340.000,00 do DRI da Unipar Carbocloro S.A. por suposto lapso… | cvm-col-20260407-d3509 | fichas/tc/2026-01.md |
+| termo-compromisso | 19957.000374/2024-30 | 2026-04-07 | aceito | O Colegiado aceitou, acompanhando o Comitê, proposta de termo de compromisso de R$ 1.438.200,00 à CVM, ajustada pelo Comitê a partir de R$… | cvm-col-20260407-d3467 | fichas/tc/2026-01.md |
+| termo-compromisso | 19957.002327/2025-10 | 2026-03-31 | outro | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou quatro propostas de termo de compromisso de administradores da Auzza… | cvm-col-20260331-d3406 | fichas/tc/2026-01.md |
+| acordao-crsfn | 19957.016074/2024-72 | 2026-02-10 | parcial | RECURSO ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. NÃO APRESENTAÇÃO DE FORMULÁRIOS CADASTRAIS (FCA) DE COMPANHIA EM LIQUIDAÇÃO… | crsfn-19957-016074-2024-72 | fichas/crsfn/2026-01.md |
+| acordao-crsfn | 19957.003714/2023-01 | 2026-02-10 | condenacao | RECURSO ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. NÃO DIVULGAR TEMPESTIVAMENTE FATO RELEVANTE. NÃO ADOTAR AS PROVIDÊNCIAS OBRIGATÓRIAS… | crsfn-19957-003714-2023-01 | fichas/crsfn/2026-01.md |
+| termo-compromisso | 19957.001811/2025-13 | 2026-02-03 | rejeitado | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou proposta de termo de compromisso de ex-diretora de relações com investidores… | cvm-col-20260203-d3441 | fichas/tc/2026-01.md |
+| termo-compromisso | 19957.007640/2025-36 | 2025-12-16 | aceito | O Colegiado, por unanimidade, aceitou proposta de termo de compromisso de R$ 400.000,00 do diretor de relações com investidores da… | cvm-col-20251216-d3433 | fichas/tc/2025-05.md |
+| termo-compromisso | 19957.020738/2024-06 | 2025-12-16 | aceito | O Colegiado aceitou, acompanhando o Comitê, proposta de termo de compromisso de R$ 705.000,00 à CVM, ajustada pelo Comitê a partir de R$… | cvm-col-20251216-d3432 | fichas/tc/2025-05.md |
+| pas | 19957.017629/2024-01 | 2025-12-02 | absolvicao | Apurar a responsabilidade da diretora de relações com investidores da Mitre Realty Empreendimentos e Participações S.A. por alegadas falhas… | cvm-pas-19957-017629-2024-01 | fichas/pas/2025-09.md |
+| termo-compromisso | 19957.003043/2025-32 | 2025-11-18 | aceito | O Colegiado aceitou, por unanimidade, a proposta de termo de compromisso do diretor de relações com investidores da Zamp S.A., por suposta… | cvm-col-20251118-d3420 | fichas/tc/2025-05.md |
+| termo-compromisso | 19957.001815/2025-00 | 2025-11-11 | aceito | O Colegiado aceitou, acompanhando o Comitê, proposta de termo de compromisso de R$ 330.000,00 à CVM, ajustada pelo Comitê a partir de R$… | cvm-col-20251111-d3415 | fichas/tc/2025-05.md |
+| termo-compromisso | 19957.001169/2025-72 | 2025-11-04 | aceito | O Colegiado, por unanimidade, aceitou proposta de termo de compromisso de R$ 470.000,00 do DRI da Companhia Brasileira de Distribuição por… | cvm-col-20251104-d3410 | fichas/tc/2025-05.md |
+| termo-compromisso | 19957.006380/2023-10 | 2025-10-14 | aceito | O Colegiado aceitou proposta de termo de compromisso do DRI de companhia aberta por atuação intempestiva na busca de informações junto a… | cvm-col-20251014-d3401 | fichas/tc/2025-05.md |
+| termo-compromisso | 19957.010495/2024-90 | 2025-10-14 | aceito | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, aceitou proposta de termo de compromisso de diretor de relações com… | cvm-col-20251014-d3382 | fichas/tc/2025-04.md |
+| termo-compromisso | 19957.017968/2024-80 | 2025-09-16 | aceito | O Colegiado aceitou proposta de termo de compromisso do DRI de companhia aberta por não divulgação tempestiva de fato relevante sobre… | cvm-col-20250916-d3361 | fichas/tc/2025-04.md |
+| termo-compromisso | 19957.020870/2024-18 | 2025-09-09 | aceito | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, aceitou proposta de termo de compromisso de diretor de relações com… | cvm-col-20250909-d3358 | fichas/tc/2025-04.md |
+| termo-compromisso | 19957.018282/2024-14 | 2025-09-02 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou proposta conjunta de termo de compromisso de R$ 660.000,00 (R$ 330.000,00 por… | cvm-col-20250902-d3336 | fichas/tc/2025-04.md |
+| termo-compromisso | 19957.018146/2024-16 | 2025-08-12 | rejeitado | O Colegiado rejeitou, por unanimidade, proposta de termo de compromisso de administradora de fundo de ações por comunicações de… | cvm-col-20250812-d3326 | fichas/tc/2025-04.md |
+| termo-compromisso | 19957.016074/2024-72 | 2025-08-12 | rejeitado | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, rejeitou proposta de termo de compromisso de liquidante de companhia em… | cvm-col-20250812-d3321 | fichas/tc/2025-04.md |
+| acordao-crsfn | 19957.001695/2023-71 | 2025-07-16 | parcial | RECURSO ADMINISTRATIVO. REPRESENTAÇÃO. MERCADO DE CAPITAIS. DIVULGAÇÃO INTEMPESTIVA DE FATO RELEVANTE. Apuração da responsabilidade do… | crsfn-19957-001695-2023-71 | fichas/crsfn/2025-05.md |
+| termo-compromisso | 19957.016052/2024-11 | 2025-07-01 | aceito | O Colegiado aceitou proposta de termo de compromisso do DRI de companhia aberta por não divulgação tempestiva de fato relevante diante de… | cvm-col-20250701-d3300 | fichas/tc/2025-03.md |
+| termo-compromisso | 19957.017629/2024-01 | 2025-06-24 | rejeitado | O Colegiado rejeitou, por unanimidade, proposta de termo de compromisso de R$ 500.000,00 apresentada pela diretora de relações com… | cvm-col-20250624-d3299 | fichas/tc/2025-03.md |
+| acordao-crsfn | 19957.003999/2021-19 | 2025-05-13 | parcial | RECURSO ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. DESCUMPRIMENTO DE PRAZO REGULAMENTAR NA DIVULGAÇÃO DE PROPOSTA DELIBERADA PELO CONSELHO… | crsfn-10372-000178-2024-61 | fichas/crsfn/2025-03.md |
+| termo-compromisso | 19957.003174/2024-39 | 2025-05-06 | rejeitado | O Colegiado rejeitou, por voto de qualidade do Presidente, proposta de termo de compromisso da gestora, de R$ 780.000,00, em PAS por… | cvm-col-20250506-d3255 | fichas/tc/2025-02.md |
+| termo-compromisso | 19957.003174/2024-39 | 2025-04-29 | — | Proposta de termo de compromisso de gestora por não informar, em comunicados de 2023, interesse em alterar a estrutura administrativa da… | cvm-col-20250429-d3255 | fichas/tc/2025-02.md |
+| termo-compromisso | 19957.008609/2024-31 | 2025-04-08 | aceito | O Colegiado, por maioria, aceitou proposta de termo de compromisso de R$ 330.000,00 do diretor de RI da Raízen S.A., por suposta informação… | cvm-col-20250408-d3253 | fichas/tc/2025-02.md |
+| termo-compromisso | 19957.002703/2023-04 | 2025-04-08 | outro | O Colegiado, por unanimidade, indeferiu pedido de retirada de pauta e, diante da desistência das propostas, remeteu o processo à SEP. As… | cvm-col-20250408-d3252 | fichas/tc/2025-02.md |
+| acordao-crsfn | 19957.005866/2018-73 | 2025-04-08 | outro | EMBARGOS DE DECLARAÇÃO. ALEGADO DESEQUILÍBRIO PROCESSUAL EM PREJUÍZO DAS PARTES E CONTRADIÇÕES NO ACÓRDÃO CRSFN Nº 152/2024. Divisão de… | crsfn-10372-100036-2023-12-2 | fichas/crsfn/2025-02.md |
+| acordao-crsfn | 19957.001549/2023-45 | 2025-04-08 | outro | EMBARGOS DE DECLARAÇÃO. ALEGADA AUSÊNCIA DE INTIMAÇÃO E PUBLICAÇÃO DE ATOS PROCESSUAIS. SUPOSTAS OMISSÕES NO ACÓRDÃO CRSFN Nº 180/2024… | crsfn-10372-000095-2024-72-2 | fichas/crsfn/2025-02.md |
+| decisao-colegiado | 19957.001368/2025-81 | 2025-04-01 | deferido | O Colegiado, por unanimidade, concedeu à Cantu Store S.A. dispensa de informações do Capítulo III da RCVM 78 para a incorporação da… | cvm-col-20250401-d3247 | fichas/colegiado/2025-03.md |
+| pas | 19957.003714/2023-01 | 2025-03-25 | condenacao | Apurar responsabilidade do DRI da Saraiva Livreiros S.A. - Em Recuperação Judicial por eventual violação ao art. 157, §4º, da Lei nº… | cvm-pas-19957-003714-2023-01 | fichas/pas/2025-03.md |
+| pas | 19957.001912/2024-11 | 2025-03-18 | parcial | Atraso e não entrega de informações periódicas obrigatórias de fundos de investimento; dever de diligência. | cvm-pas-19957-001912-2024-11 | fichas/pas/2025-02.md |
+| decisao-colegiado | 19957.015309/2023-28 | 2025-03-18 | conhecimento | O Colegiado, por unanimidade, acompanhando a área técnica, não conheceu de recurso do Fundo Esh Theta contra entendimento da SEP em… | cvm-col-20250318-d3236 | fichas/colegiado/2025-02.md |
+| acordao-crsfn | 19957.012129/2022-11 | 2025-03-12 | condenacao | RECURSO ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. NÃO ENVIO DE INFORMAÇÕES PERIÓDICAS. Apuração da responsabilidade do administrador… | crsfn-10372-000134-2024-31 | fichas/crsfn/2025-01.md |
+| decisao-colegiado | 19957.021350/2024-14 | 2025-02-11 | provido | O Colegiado, por unanimidade, deu provimento ao recurso da BRF contra entendimento da SEP, que exigia complementar receita, EBITDA e lucro… | cvm-col-20250211-d3223 | fichas/colegiado/2025-01.md |
+| termo-compromisso | 19957.015051/2023-60 | 2025-02-04 | aceito | O Colegiado aceitou proposta de termo de compromisso de R$ 420.000,00 da diretora de RI da Oi S.A. – Em Recuperação Judicial, por suposta… | cvm-col-20250204-d3219 | fichas/tc/2025-01.md |
+| termo-compromisso | 19957.015872/2023-04 | 2025-01-21 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou a proposta conjunta de termo de compromisso de dois administradores, no total… | cvm-col-20250121-d3199 | fichas/tc/2025-01.md |
+| pas | 19957.014716/2023-18 | 2024-12-17 | condenacao | Apurar a responsabilidade de administradores da Fontaine Ville Participações S.A. pela não elaboração de demonstrações financeiras, DFP e… | cvm-pas-19957-014716-2023-18 | fichas/pas/2024-22.md |
+| pas | 19957.001695/2023-71 | 2024-12-17 | condenacao | Apurar eventual responsabilidade do Diretor de Relações com Investidores da Inepar S.A. Ind e Construções - Em Recuperação Judicial, por… | cvm-pas-19957-001695-2023-71 | fichas/pas/2024-22.md |
+| decisao-colegiado | 19957.012859/2023-95 | 2024-12-10 | indeferido | O Colegiado, por unanimidade, indeferiu pedido de dispensa de prazos de divulgação periódica de cinco fundos, mantida após a Resolução CVM… | cvm-col-20241210-d3189 | fichas/colegiado/2024-14.md |
+| pas | 19957.003980/2023-26 | 2024-12-03 | parcial | Apurar eventual responsabilidade de ex-diretores da Americanas S.A. (i) por expor informação relevante ainda não divulgada previamente pela… | cvm-pas-19957-003980-2023-26 | fichas/pas/2024-20.md |
+| termo-compromisso | 19957.000923/2024-76 | 2024-12-03 | aceito | O Colegiado aceitou proposta de termo de compromisso de R$ 400.000,00, em parcela única, do diretor de relações com investidores do Banco… | cvm-col-20241203-d3179 | fichas/tc/2024-07.md |
+| acordao-crsfn | 19957.001549/2023-45 | 2024-12-03 | condenacao | RECURSO ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. COMPANHIA ABERTA. NÃO ATUALIZAR E NÃO ENVIAR FORMULÁRIO CADASTRAL (FCA) À CVM. Regime… | crsfn-10372-000095-2024-72 | fichas/crsfn/2024-08.md |
+| termo-compromisso | 19957.002548/2024-07 | 2024-11-26 | aceito | O Colegiado aceitou proposta de termo de compromisso de R$ 340.000,00 de diretor de RI da Movida Participações S.A., relativa a fato… | cvm-col-20241126-d3172 | fichas/tc/2024-06.md |
+| termo-compromisso | 19957.000936/2024-45 | 2024-11-26 | aceito | O Colegiado aceitou, acompanhando o Comitê, a proposta de termo de compromisso do diretor de relações com investidores da Azul S.A… | cvm-col-20241126-d3169 | fichas/tc/2024-06.md |
+| termo-compromisso | 19957.014281/2023-10 | 2024-11-26 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou proposta de termo de compromisso do diretor de RI da Tecnisa S.A. por suposta… | cvm-col-20241126-d3054 | fichas/tc/2024-06.md |
+| acordao-crsfn | 19957.005866/2018-73 | 2024-11-13 | parcial | RECURSO ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. COMPANHIA ABERTA. NÃO DIVULGAÇÃO DE AUMENTO DE PARTICIPAÇÃO POR ACIONISTAS REPRESENTANDO… | crsfn-10372-100036-2023-12 | fichas/crsfn/2024-08.md |
+| termo-compromisso | 19957.000907/2024-83; 19957.000887/2024-41; 19957.001633/2024-40 | 2024-10-29 | aceito | O Colegiado aceitou, acompanhando o Comitê, a proposta global de termo de compromisso do diretor de relações com investidores da Vale S.A… | cvm-col-20241029-d3144 | fichas/tc/2024-06.md |
+| termo-compromisso | 19957.000073/2024-14 | 2024-10-22 | aceito | O Colegiado aceitou proposta conjunta de termo de compromisso de dois administradores da Rio Alto Energias Renováveis S.A., no total de R$… | cvm-col-20241022-d3160 | fichas/tc/2024-06.md |
+| decisao-colegiado | 02/2024; 03/2024; 19957.004052/2024-60; 19957.004053/2024-12 | 2024-10-16 | outro | O Colegiado aprovou, por maioria e com voto vencido de um diretor, as Resoluções CVM 217/2024 e 218/2024. Elas tornam obrigatórios para as… | cvm-col-20241016-d3066-3067 | fichas/colegiado/2024-11.md |
+| acordao-crsfn | 19957.009010/2021-72 | 2024-10-09 | parcial | RECURSO ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. IRREGULARIDADES NA DIVULGAÇÃO DE FATO RELEVANTE. Apuração da responsabilidade de Diretor… | crsfn-10372-100157-2023-64 | fichas/crsfn/2024-07.md |
+| pas | 19957.001933/2021-86 | 2024-09-24 | condenacao | Apurar supostas irregularidades no envio de Demonstrações Financeiras. . Multa. | cvm-pas-19957-001933-2021-86 | fichas/pas/2024-15.md |
+| termo-compromisso | 19957.001074/2024-78 | 2024-09-24 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou proposta de termo de compromisso do diretor de RI da Rio Energy Participações… | cvm-col-20240924-d3139 | fichas/tc/2024-05.md |
+| termo-compromisso | 19957.008286/2023-03 | 2024-08-27 | aceito | O Colegiado aceitou propostas de termo de compromisso do acionista controlador da Sendas Distribuidora S.A. (R$ 470.000,00) e de sua… | cvm-col-20240827-d3125 | fichas/tc/2024-05.md |
+| pas | 19957.003999/2021-19 | 2024-08-06 | parcial | Apurar a responsabilidade do Diretor de Relações com Investidores do Magazine Luiza S.A., por suposto descumprimento ao disposto no artigo… | cvm-pas-19957-003999-2021-19 | fichas/pas/2024-11.md |
+| termo-compromisso | 19957.009269/2023-85; 19957.012025/2023-80 | 2024-08-06 | aceito | O Colegiado aceitou duas propostas de termo de compromisso da SLC Agrícola S.A.: R$ 460.000,00 do diretor de RI e R$ 150.000,00 do… | cvm-col-20240806-d3108 | fichas/tc/2024-04.md |
+| pas | 19957.012129/2022-11 | 2024-06-18 | condenacao | Apurar eventual responsabilidade de [pessoa física], na qualidade de administrador judicial da Massa Falida de Kosmos Comércio de Vestuário… | cvm-pas-19957-012129-2022-11 | fichas/pas/2024-08.md |
+| pas | 19957.015040/2022-07 | 2024-06-13 | condenacao | Apurar responsabilidade de diretor presidente da Blue Tech Solutions EQI S.A. por eventual violação ao art. 157, §4º, da Lei nº 6.404/76, e… | cvm-pas-19957-015040-2022-07 | fichas/pas/2024-07.md |
+| termo-compromisso | 19957.012184/2023-84 | 2024-06-13 | aceito | O Colegiado aceitou proposta de termo de compromisso de diretor de RI do Banco Alfa de Investimentos por não divulgação imediata de fato… | cvm-col-20240613-d3081 | fichas/tc/2024-04.md |
+| termo-compromisso | 19957.013127/2023-12 | 2024-06-04 | aceito | O Colegiado aceitou proposta de termo de compromisso de R$ 340.000,00 de diretor de RI da Méliuz S.A. por suposta omissão na divulgação de… | cvm-col-20240604-d3075 | fichas/tc/2024-03.md |
+| termo-compromisso | 19957.001695/2023-71 | 2024-06-04 | aceito | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, aceitou a proposta de termo de compromisso de R$ 336.000,00, em parcela… | cvm-col-20240604-d3071 | fichas/tc/2024-03.md |
+| termo-compromisso | 19957.012388/2023-15 | 2024-05-21 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou proposta de termo de compromisso do diretor de relações com investidores da… | cvm-col-20240521-d3063 | fichas/tc/2024-03.md |
+| termo-compromisso | 19957.007335/2023-82; 19957.014089/2023-15 | 2024-05-14 | aceito | O Colegiado, por unanimidade, aceitou proposta conjunta de termo de compromisso de R$ 980.000,00 do diretor-presidente e do DRI da Arezzo… | cvm-col-20240514-d3061 | fichas/tc/2024-03.md |
+| termo-compromisso | 19957.007410/2023-13 | 2024-05-14 | aceito | O Colegiado aceitou proposta de termo de compromisso de diretor de RI da IGB Eletrônica – Em Recuperação Judicial por divulgação… | cvm-col-20240514-d3060 | fichas/tc/2024-03.md |
+| acordao-crsfn | 19957.009206/2018-61 | 2024-05-07 | parcial | RECURSOS ADMINISTRATIVOS. CVM. MERCADO DE VALORES MOBILIÁRIOS. NÃO APRESENTAÇÃO DE INFORMAÇÕES EXIGIDAS, COM EMBARAÇO À FISCALIZAÇÃO… | crsfn-10372-100112-2023-90 | fichas/crsfn/2024-03.md |
+| termo-compromisso | 19957.003612/2020-35 | 2024-04-30 | aceito | O Colegiado, por unanimidade, aceitou proposta de termo de compromisso de R$ 400.000,00 do diretor de relações com investidores de… | cvm-col-20240430-d1905 | fichas/tc/2024-02.md |
+| termo-compromisso | 19957.006263/2023-56 | 2024-04-16 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou quatro propostas de termo de compromisso de administradores da Cruzeiro do Sul… | cvm-col-20240416-d3048 | fichas/tc/2024-02.md |
+| termo-compromisso | 19957.000589/2022-99; 19957.003084/2023-67; 19957.012448/2023-08; 19957.015357/2022-35 | 2024-04-02 | aceito | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, aceitou a proposta global de termo de compromisso do proponente, de R$… | cvm-col-20240402-d2749-3044 | fichas/tc/2024-02.md |
+| pas | 19957.001549/2023-45 | 2024-03-26 | condenacao | Apuração de infrações ao art. 23 da Instrução CVM nº 480/2009, por não atualizar o formulário cadastral de 2021, e ao art. 42 da Resolução… | cvm-pas-19957-001549-2023-45 | fichas/pas/2024-03.md |
+| termo-compromisso | 19957.004318/2023-93 | 2024-03-26 | aceito | O Colegiado, por unanimidade, aceitou proposta de termo de compromisso de diretora de relações com investidores de companhia aberta… | cvm-col-20240326-d3029 | fichas/tc/2024-02.md |
+| termo-compromisso | 19957.003980/2023-26 | 2024-03-26 | rejeitado | O Colegiado rejeitou, por unanimidade, as propostas de termo de compromisso de dois proponentes, diretores de RI da Americanas S.A. em… | cvm-col-20240326-d3021 | fichas/tc/2024-01.md |
+| acordao-crsfn | 19957.002247/2020-41 | 2024-02-07 | parcial | RECURSO ADMINISTRATIVO. CVM. DENÚNCIA DE INVESTIDOR NA CVM. DIVULGAÇÃO IRREGULAR E INTEMPESTIVA DE FATO RELEVANTE. VIOLAÇÃO AO PRINCÍPIO… | crsfn-10372-100136-2023-49 | fichas/crsfn/2024-01.md |
+| decisao-colegiado | 80/2022; 19957.012668/2023-23 | 2024-01-31 | outro | O Colegiado aprovou a Resolução CVM 198/2024, que inclui no Formulário de Referência campo sobre pessoas com deficiência e simplifica notas… | cvm-col-20240131-d3009 | fichas/colegiado/2024-02.md |
+| pas | 19957.002348/2023-65 | 2024-01-30 | parcial | Apurar eventual responsabilidade de administradores da Stara S.A. por, no exercício social de 2022, deixarem de enviar tempestivamente… | cvm-pas-19957-002348-2023-65 | fichas/pas/2024-01.md |
+| termo-compromisso | 19957.009202/2023-41 | 2024-01-23 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou a proposta de termo de compromisso de diretora de RI da Sendas Distribuidora… | cvm-col-20240123-d3002 | fichas/tc/2024-01.md |
+| pas | 19957.007550/2019-05 | 2023-12-21 | condenacao | Apurar eventual descumprimento ao disposto no art. 157, §4º, da Lei nº 6.404/1976 c/c art. 3º, §5º, da Instrução CVM nº 358/2002. Multa. | cvm-pas-19957-007550-2019-05 | fichas/pas/2023-19.md |
+| pas | 19957.004286/2022-45 | 2023-12-21 | condenacao | Apurar eventual responsabilidade de administradores da Advanced Digital Health Medicina Preventiva S.A. na (i) elaboração e envio de… | cvm-pas-19957-004286-2022-45 | fichas/pas/2023-18.md |
+| pas | 19957.003793/2021-81 | 2023-12-12 | parcial | Apurar eventual responsabilidade de administradores da Capitalpart Participações S.A. por deixarem de (i) elaborar e apresentar as… | cvm-pas-19957-003793-2021-81 | fichas/pas/2023-16.md |
+| decisao-colegiado | 19957.002655/2023-46 | 2023-11-21 | parcial | Recurso contra entendimento da SEP. Proc. 19957.002655/2023-46. | cvm-col-20231121-d2961 | fichas/colegiado/2023-12.md |
+| pas | 19957.009721/2021-47 | 2023-11-07 | condenacao | Apurar eventual responsabilidade de administradores da Malharia Monte Alegre S.A. por (i) não apresentar as demonstrações financeiras… | cvm-pas-19957-009721-2021-47 | fichas/pas/2023-14.md |
+| termo-compromisso | 19957.000803/2023-98 | 2023-11-07 | aceito | O Colegiado aceitou proposta de termo de compromisso do diretor de RI da Companhia Brasileira de Distribuição, acusado de não divulgar… | cvm-col-20231107-d2959 | fichas/tc/2023-07.md |
+| termo-compromisso | 19957.000338/2023-95 | 2023-11-07 | aceito | O Colegiado aceitou o termo de compromisso de R$ 1.200.000,00 (parcela única), contraproposta do Comitê aceita pelo proponente, diretor de… | cvm-col-20231107-d2958 | fichas/tc/2023-07.md |
+| acordao-crsfn | 19957.008185/2021-62 | 2023-11-07 | outro | EMBARGOS DE DECLARAÇÃO. ALEGAÇÕES DE OMISSÃO NO ACORDÃO CRSFN Nº 100/2023 JULGADO NA 473ª SESSÃO. Vícios não caracterizados. Embargos… | crsfn-10372-100157-2022-83-2 | fichas/crsfn/2023-09.md |
+| acordao-crsfn | 19957.008462/2019-12 | 2023-11-07 | condenacao | RECURSOS VOLUNTÁRIOS. CVM. FALHA NA ENTREGA DE DEMONSTRAÇÕES FINANCEIRAS E FORMULÁRIOS DE INFORMAÇÕES TRIMESTRAIS À CVM. NÃO REALIZAÇÃO… | crsfn-10372-100113-2023-34 | fichas/crsfn/2023-09.md |
+| termo-compromisso | 19957.002348/2023-65 | 2023-10-31 | rejeitado | O Colegiado rejeitou proposta conjunta de termo de compromisso de administradores de companhia aberta, acusados de não entregar informações… | cvm-col-20231031-d2951 | fichas/tc/2023-07.md |
+| acordao-crsfn | 19957.009294/2017-11 | 2023-10-10 | condenacao | RECURSO ADMINISTRATIVO. SOCIEDADE DE CAPITAL ABERTO. DIVULGAÇÃO INTEMPESTIVA DE FATO RELEVANTE. APURAÇÃO DE RESPONSABILIDADE DO DIRETOR DE… | crsfn-10372-100070-2023-97 | fichas/crsfn/2023-08.md |
+| termo-compromisso | 19957.011713/2022-41 | 2023-09-26 | aceito | O Colegiado aceitou proposta de termo de compromisso da diretora de relações com investidores de companhia aberta, acusada de não divulgar… | cvm-col-20230926-d2933 | fichas/tc/2023-06.md |
+| termo-compromisso | 19957.004985/2022-95 | 2023-08-29 | aceito | O Colegiado aceitou a proposta de termo de compromisso de R$ 1.020.000,00 (parcela única) da proponente, diretora de RI da Ânima Holding… | cvm-col-20230829-d2830 | fichas/tc/2023-06.md |
+| pas | 19957.009010/2021-72 | 2023-08-15 | condenacao | Apurar a responsabilidade de Diretor de Relações com Investidores da Marfrig Global Foods S.A. por supostas irregularidades na divulgação… | cvm-pas-19957-009010-2021-72 | fichas/pas/2023-09.md |
+| pas | 19957.002247/2020-41 | 2023-08-08 | condenacao | Apurar responsabilidade de administradores da IGB Eletrônica S.A. por eventual violação ao (i) art. 155, §1º, da Lei nº 6.404/76, combinado… | cvm-pas-19957-002247-2020-41 | fichas/pas/2023-08.md |
+| termo-compromisso | 19957.004286/2022-45 | 2023-07-25 | rejeitado | O Colegiado rejeitou, por unanimidade, a proposta conjunta de termo de compromisso (cinco salários-mínimos) da diretora-presidente e do… | cvm-col-20230725-d2901 | fichas/tc/2023-05.md |
+| termo-compromisso | 19957.012752/2022-66 | 2023-07-14 | aceito | O Colegiado aceitou proposta de termo de compromisso do diretor presidente e do DRI do Grupo SBF S.A., acusados de divulgar informação… | cvm-col-20230714-d2898 | fichas/tc/2023-05.md |
+| pas | 19957.012414/2022-24 | 2023-07-11 | condenacao | Apurar eventual responsabilidade de administradores da Curtume Jangadas S.A. por deixarem, nos exercícios sociais de 2020 e 2021, de (i)… | cvm-pas-19957-012414-2022-24 | fichas/pas/2023-07.md |
+| acordao-crsfn | 19957.008185/2021-62 | 2023-07-11 | parcial | RECURSOS VOLUNTÁRIOS. NÃO DIVULGAÇÃO DE INFORMAÇÕES PERIÓDICAS. NÃO CONVOCAÇÃO DE ASSEMBLEIA GERAL ORDINÁRIA. Infrações caracterizadas… | crsfn-10372-100157-2022-83 | fichas/crsfn/2023-06.md |
+| termo-compromisso | 19957.005269/2022-25; 19957.001002/2021-88 | 2023-06-06 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou proposta global de termo de compromisso do diretor de RI da Eneva S.A… | cvm-col-20230606-d2873 | fichas/tc/2023-04.md |
+| termo-compromisso | 19957.004971/2022-71 | 2023-05-30 | aceito | O Colegiado aceitou a proposta conjunta de termo de compromisso, acompanhando o Comitê, com pagamento de R$ 680.000,00 em parcela única (R$… | cvm-col-20230530-d2869 | fichas/tc/2023-04.md |
+| termo-compromisso | 19957.011035/2022-17 | 2023-05-16 | aceito | O Colegiado aceitou proposta de termo de compromisso de R$ 238.000,00, em parcela única, apresentada por diretor de relações com… | cvm-col-20230516-d2854 | fichas/tc/2023-04.md |
+| acordao-crsfn | 19957.007825/2018-11; RJ2018/5158 | 2023-05-09 | parcial | RECURSO ADMINISTRATIVO. DIRETOR DE RELAÇÕES COM INVESTIDORES (DRI). AUMENTO DE CAPITAL. PUBLICAÇÃO DE INFORMAÇÕES INCONSISTENTES… | crsfn-10372-100033-2022-06 | fichas/crsfn/2023-04.md |
+| pas | 19957.009206/2018-61 | 2023-04-11 | parcial | Apurar eventual responsabilidade por infração (i) aos arts. 10 e 12 da Instrução CVM nº 358/2002; (ii) ao art. 116, p.ú., da Lei nº… | cvm-pas-19957-009206-2018-61 | fichas/pas/2023-03.md |
+| pas | 19957.008462/2019-12 | 2023-04-11 | parcial | Falta de apresentação à CVM de informações financeiras nos prazos aplicáveis e falta de diligência para realizar assembleias gerais… | cvm-pas-19957-008462-2019-12 | fichas/pas/2023-03.md |
+| termo-compromisso | 19957.004985/2022-95 | 2023-04-11 | rejeitado | O Colegiado rejeitou, por maioria, proposta de termo de compromisso da diretora de relações com investidores da Ânima Holding S.A. por… | cvm-col-20230411-d2830 | fichas/tc/2023-03.md |
+| acordao-crsfn | RJ2019/3127 | 2023-04-11 | condenacao | RECURSO ADMINISTRATIVO. EMISSOR DE TÍTULOS. FALÊNCIA. ADMINISTRADOR JUDICIAL. DESCUMPRIMENTO DE DEVERES INFORMACIONAIS PERANTE A CVM… | crsfn-10372-100097-2020-37 | fichas/crsfn/2023-03.md |
+| termo-compromisso | 19957.004799/2022-56 | 2023-04-04 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou proposta conjunta de termo de compromisso de dois diretores da Cielo S.A… | cvm-col-20230404-d2826 | fichas/tc/2023-02.md |
+| pas | 19957.009685/2021-11 | 2023-03-14 | condenacao | Infrações ao art. 12, I, da Instrução CVM nº 265/1997 e ao art. 11, I, da Resolução CVM nº 10/2020, pela não apresentação de demonstrações… | cvm-pas-19957-009685-2021-11 | fichas/pas/2023-02.md |
+| acordao-crsfn | RJ2014/12838 | 2023-03-07 | condenacao | RECURSOS VOLUNTÁRIOS. OMISSÃO DE INFORMAÇÕES RELEVANTES. SITUAÇÃO FINANCEIRA E PATRIMONIAL DA OGX PETRÓLEO E GÁS PARTICIPAÇÕES S.A… | crsfn-10372-100338-2019-12 | fichas/crsfn/2023-02.md |
+| acordao-crsfn | RJ2014/6517 | 2023-03-07 | parcial | RECURSOS VOLUNTÁRIOS. DEVER DE DILIGÊNCIA. NÃO DIVULGAÇÃO DE FATO RELEVANTE. Responsabilidade do Diretor Presidente e do Diretor de… | crsfn-10372-100331-2019-92 | fichas/crsfn/2023-02.md |
+| acordao-crsfn | 19957.007674/2018-00; RJ2018/5064 | 2023-03-07 | condenacao | RECURSO VOLUNTÁRIO. DIVULGAÇÃO DE INFORMAÇÃO RELEVANTE POR MEIO DE COMUNICADO AO MERCADO. Infração ao art. 157, §4º, da Lei nº 6.404/1976… | crsfn-10372-100169-2021-27 | fichas/crsfn/2023-02.md |
+| acordao-crsfn | SP2018/0295 | 2023-03-07 | condenacao | RECURSO VOLUNTÁRIO. OMISSÃO NA DIVULGAÇÃO DE FATO RELEVANTE DA REFINARIA DE PETRÓLEO DE MANGUINHOS S.A. - EM RECUPERAÇÃO JUDICIAL. Apuração… | crsfn-10372-100094-2021-84 | fichas/crsfn/2023-02.md |
+| acordao-crsfn | 19957.002528/2020-02; RJ2020/01834 | 2023-02-07 | parcial | RECURSO VOLUNTÁRIO. FALHA NAS INFORMAÇÕES DIVULGADAS AO MERCADO RELATIVAS À COMPOSIÇÃO DA DIRETORIA DA COMPANHIA. DIVULGAÇÃO DA ELEIÇÃO DE… | crsfn-10372-100032-2022-53 | fichas/crsfn/2023-01.md |
+| termo-compromisso | 19957.010153/2021-27 | 2023-01-17 | aceito | O Colegiado, por unanimidade e acompanhando o parecer do Comitê, aceitou proposta de termo de compromisso de diretor de relações com… | cvm-col-20230117-d2782 | fichas/tc/2023-01.md |
+| termo-compromisso | 19957.011066/2022-78 | 2023-01-10 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou a proposta de termo de compromisso da Atmos Capital Gestão de Recursos Ltda… | cvm-col-20230110-d2757 | fichas/tc/2023-01.md |
+| termo-compromisso | 19957.000589/2022-99; 19957.010955/2022-18 | 2023-01-10 | rejeitado | O Colegiado rejeitou, por unanimidade, acompanhando o Comitê, proposta global de termo de compromisso de R$ 1.225.000,00, em parcela única… | cvm-col-20230110-d2749 | fichas/tc/2023-01.md |
+| termo-compromisso | 19957.009424/2021-00; 19957.000441/2022-54 | 2022-12-20 | aceito | O Colegiado, por unanimidade e acompanhando o parecer do Comitê, aceitou proposta global de termo de compromisso da diretora de relações… | cvm-col-20221220-d2746 | fichas/tc/2022-06.md |
+| termo-compromisso | 19957.009010/2021-72 | 2022-12-20 | rejeitado | O Colegiado rejeitou, por unanimidade, a proposta de termo de compromisso do diretor de relações com investidores da Marfrig Global Foods… | cvm-col-20221220-d2742 | fichas/tc/2022-06.md |
+| pas | 19957.005866/2018-73 | 2022-12-16 | parcial | Responsabilidade por infração ao art. 12 da Instrução CVM nº 358/2002, pela não divulgação de aumento de participação por acionistas… | cvm-pas-19957-005866-2018-73 | fichas/pas/2022-13.md |
+| acordao-crsfn | RJ2014/1020 | 2022-12-08 | outro | EMBARGOS DE DECLARAÇÃO. ACÓRDÃO CRSFN 113/2021. ALEGAÇÃO DE OBSCURIDADE, OMISSÃO OU CONTRADIÇÃO. Inexistência de contradição, omissão… | crsfn-10372-100118-2018-08-2 | fichas/crsfn/2022-10.md |
+| termo-compromisso | 19957.009228/2021-27 | 2022-12-06 | aceito | O Colegiado aceitou, por unanimidade, acompanhando o Comitê, proposta de termo de compromisso de R$ 340.000,00, em parcela única, do… | cvm-col-20221206-d2739 | fichas/tc/2022-05.md |
+| termo-compromisso | 19957.000516/2022-05 | 2022-10-18 | aceito | O Colegiado aceitou, por unanimidade e acompanhando o Comitê, a proposta de termo de compromisso de diretor de RI da Braskem: R$ 400.000,00… | cvm-col-20221018-d2705 | fichas/tc/2022-05.md |
+| pas | 19957.009863/2018-17 | 2022-10-11 | parcial | [pessoa física] e de seus administradores pela não elaboração tempestiva e não divulgação de demonstrações financeiras, em infração ao art… | cvm-pas-19957-009863-2018-17 | fichas/pas/2022-09.md |
+| acordao-crsfn | 19957.003594/2021-72; RJ2021/02257 | 2022-10-11 | parcial | RECURSOS VOLUNTÁRIOS. NÃO CONFORMIDADE EM DEMONSTRAÇÕES FINANCEIRAS. RESPONSABILIDADE DE ADMINISTRADORES DA LONGDIS S.A. PELO… | crsfn-10372-100096-2022-54 | fichas/crsfn/2022-07.md |
+| termo-compromisso | 19957.008814/2021-54 | 2022-10-04 | aceito | O Colegiado aceitou, por unanimidade e acompanhando o Comitê, a proposta de termo de compromisso de um diretor financeiro e de relações com… | cvm-col-20221004-d2657 | fichas/tc/2022-04.md |
+| termo-compromisso | 19957.007550/2019-05 | 2022-09-27 | rejeitado | O Colegiado rejeitou nova proposta de termo de compromisso do acusado em PAS por divulgação incompleta e imprecisa de fatos relevantes… | cvm-col-20220927-d1833 | fichas/tc/2022-04.md |
+| pas | 19957.008185/2021-62 | 2022-09-20 | condenacao | Responsabilidade de administradores da Feniciapar S.A. em virtude do descumprimento do dever de enviar à CVM informações periódicas; da não… | cvm-pas-19957-008185-2021-62 | fichas/pas/2022-08.md |
+| termo-compromisso | 19957.006745/2021-44 | 2022-09-06 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou proposta de termo de compromisso de diretor de RI da Gafisa S.A., de R$… | cvm-col-20220906-d2679 | fichas/tc/2022-04.md |
+| acordao-crsfn | RJ2019/7807 | 2022-08-09 | parcial | RECURSO VOLUNTÁRIO. DESCUMPRIMENTO DO DEVER DE ENVIAR OU PELO ENVIO INTEMPESTIVO DE INFORMAÇÕES PERIÓDICAS OU ADOÇÃO DE MEDIDAS NECESSÁRIAS… | crsfn-10372-100110-2021-39 | fichas/crsfn/2022-06.md |
+| acordao-crsfn | 19957.008986/2020-47; RJ2020/06345 | 2022-08-09 | parcial | RECURSO VOLUNTÁRIO. MERCADO DE CAPITAIS. FALTA DE DIVULGAÇÃO DE FATO RELEVANTE. VAZAMENTO DE INFORMAÇÃO. Materialidade comprovada. Ajuste… | crsfn-10372-100034-2022-42 | fichas/crsfn/2022-05.md |
+| pas | 19957.008657/2020-04 | 2022-08-02 | extincao | Responsabilidade por não divulgação de informações e documentos relativos a transações entre partes relacionadas a Springer S.A., em… | cvm-pas-19957-008657-2020-04 | fichas/pas/2022-07.md |
+| termo-compromisso | 19957.008096/2021-16 | 2022-08-02 | aceito | O Colegiado aceitou, por unanimidade e acompanhando o Comitê, a proposta conjunta de termo de compromisso de dois diretores da Multilaser… | cvm-col-20220802-d2660 | fichas/tc/2022-04.md |
+| termo-compromisso | 19957.008814/2021-54 | 2022-07-26 | outro | O Colegiado, por unanimidade, devolveu ao Comitê a proposta de termo de compromisso (R$ 250.000,00) por divulgação inadequada de Fato… | cvm-col-20220726-d2657 | fichas/tc/2022-04.md |
+| termo-compromisso | 19957.007369/2021-13 | 2022-07-26 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou proposta de termo de compromisso de diretor de RI da Refinaria de Petróleos… | cvm-col-20220726-d2436 | fichas/tc/2022-03.md |
+| termo-compromisso | 19957.007830/2021-20 | 2022-07-19 | aceito | O Colegiado aceitou, por unanimidade e acompanhando o Comitê, a proposta de termo de compromisso da diretora de RI da Companhia Brasileira… | cvm-col-20220719-d2653 | fichas/tc/2022-03.md |
+| termo-compromisso | 19957.006319/2021-19 | 2022-07-12 | aceito | Por maioria, com voto de qualidade do Presidente, o Colegiado aceitou proposta de termo de compromisso de ex-diretor de relações com… | cvm-col-20220712-d2648 | fichas/tc/2022-03.md |
+| acordao-crsfn | RJ2019/3348 | 2022-07-12 | parcial | RECURSOS VOLUNTÁRIOS. MERCADO DE VALORES MOBILIÁRIOS. ADMINISTRADORES DE COMPANHIA ABERTA. NÃO ELABORAÇÃO TEMPESTIVA E NÃO ENTREGA DE… | crsfn-10372-100073-2021-69 | fichas/crsfn/2022-05.md |
+| termo-compromisso | 19957.005425/2021-77 | 2022-06-28 | aceito | O Colegiado aceitou proposta de termo de compromisso de R$ 400.000,00, em parcela única, de diretor de relações com investidores de… | cvm-col-20220628-d2634 | fichas/tc/2022-03.md |
+| termo-compromisso | 19957.008185/2021-62 | 2022-06-28 | rejeitado | O Colegiado rejeitou, por unanimidade, a proposta de termo de compromisso de diretor de Relações com Investidores da Feniciapar S.A… | cvm-col-20220628-d2514 | fichas/tc/2022-03.md |
+| pas | 19957.004869/2021-95 | 2022-06-21 | parcial | Responsabilidade de administradores da Fibam Companhia Industrial (i) por descumprimento de dispositivos da Instrução CVM nº 480/2009; (ii)… | cvm-pas-19957-004869-2021-95 | fichas/pas/2022-06.md |
+| termo-compromisso | 19957.006137/2020-59 | 2022-05-24 | aceito | O Colegiado aceitou o termo de compromisso proposto pela diretora de relações com investidores da LPS Brasil, acompanhando o Comitê, por… | cvm-col-20220524-d2592 | fichas/tc/2022-02.md |
+| termo-compromisso | 19957.004747/2021-07 | 2022-04-19 | aceito | O Colegiado aceitou a proposta conjunta de termo de compromisso de cinco administradores da Venture Capital Participações e Investimentos… | cvm-col-20220419-d2562 | fichas/tc/2022-02.md |
+| pas | 19957.003594/2021-72 | 2022-04-12 | parcial | Apurar responsabilidade de administradores da Longdis S.A. pelo descumprimento de dispositivos da Instrução CVM nº 480/09, pela não… | cvm-pas-19957-003594-2021-72 | fichas/pas/2022-03.md |
+| termo-compromisso | 19957.000157/2021-05 | 2022-04-05 | aceito | O Colegiado aceitou o termo de compromisso proposto pelo diretor de relações com investidores da TOTVS S.A., acompanhando o Comitê, por… | cvm-col-20220405-d2551 | fichas/tc/2022-02.md |
+| acordao-crsfn | RJ2014/14161 | 2022-03-28 | outro | EMBARGOS DE DECLARAÇÃO. Reconhecimento da tempestividade. Obscuridades referentes à utilização de precedentes para a dosimetria não… | crsfn-edcl-10372-100231-2019-66 | fichas/crsfn/2022-02.md |
+| termo-compromisso | 19957.006488/2021-41 | 2022-03-22 | aceito | O Colegiado aceitou proposta de termo de compromisso de R$ 289.000,00, em parcela única, com a diretora de relações com investidores da… | cvm-col-20220322-d2531 | fichas/tc/2022-02.md |
+| termo-compromisso | 19957.006435/2021-20 | 2022-03-22 | aceito | O Colegiado aceitou a proposta de termo de compromisso do diretor de relações com investidores da Minerva S.A., com pagamento de R$… | cvm-col-20220322-d2530 | fichas/tc/2022-02.md |
+| acordao-crsfn | RJ2016/5733 | 2022-03-09 | parcial | RECURSOS VOLUNTÁRIOS. Falha no cumprimento do dever de informar. Infração ao disposto no art. 157, §4º, da Lei nº 6.404/1976, c/c com os… | crsfn-10372-100096-2020-92 | fichas/crsfn/2022-02.md |
+| termo-compromisso | 19957.006624/2021-01 | 2022-03-08 | aceito | O Colegiado aceitou, por unanimidade e acompanhando o Comitê, a proposta de termo de compromisso do diretor de relação com investidores da… | cvm-col-20220308-d2488 | fichas/tc/2022-02.md |
+| acordao-crsfn | RJ2016/7162 | 2022-02-09 | condenacao | RECURSOS VOLUNTÁRIOS. Suspensão de negociação das ações de emissão de companhia. Omissão na adoção de medidas para atender o Regulamento… | crsfn-10372-100094-2020-01 | fichas/crsfn/2022-01.md |
+| acordao-crsfn | RJ2015/8673 | 2022-02-08 | outro | EMBARGOS DE DECLARAÇÃO. Obscuridade quanto ao fundamento da condenação não configurada. Omissão quanto ao argumento de desconhecimento do… | crsfn-edcl-10372-100037-2018-08 | fichas/crsfn/2022-01.md |
+| acordao-crsfn | RJ2018/7396 | 2022-02-08 | parcial | RECURSOS VOLUNTÁRIOS. Não elaboração e apresentação à CVM de documentos informacionais (formulários cadastrais, demonstrações financeiras e… | crsfn-10372-100090-2021-04 | fichas/crsfn/2022-01.md |
+| acordao-crsfn | RJ2018/6282 | 2021-12-08 | outro | RECURSO VOLUNTÁRIO. Não divulgação de fato relevante. Intempestividade. Recurso não conhecido. | crsfn-10372-100107-2020-34 | fichas/crsfn/2021-06.md |
+| termo-compromisso | 19957.008667/2020-31 | 2021-12-07 | aceito | O Colegiado, por unanimidade, aceitou proposta de termo de compromisso do diretor de relações com investidores de companhia aberta, em PAS… | cvm-col-20211207-d2422 | fichas/tc/2021-08.md |
+| termo-compromisso | 19957.004598/2020-9 | 2021-12-07 | aceito | O Colegiado, acompanhando o Comitê, aceitou proposta de termo de compromisso do diretor de relações com investidores da Smiles Fidelidade… | cvm-col-20211207-d2420 | fichas/tc/2021-08.md |
+| termo-compromisso | 19957.004146/2021-96 | 2021-12-07 | aceito | O Colegiado, acompanhando o parecer do Comitê, aceitou proposta de termo de compromisso de R$ 400.000,00, em parcela única, do diretor de… | cvm-col-20211207-d2402 | fichas/tc/2021-08.md |
+| decisao-colegiado | 09/2020; 480/2009; 481/2009; 19957.004286/2019-40 | 2021-11-10 | — | O Colegiado iniciou a discussão dos documentos da Audiência Pública SDM 09/2020, sobre alterações nas Instruções CVM 480/2009 e 481/2009… | cvm-col-20211110-d1673 | fichas/colegiado/2021-19.md |
+| decisao-colegiado | 19957.007927/2020-51 | 2021-11-09 | indeferido | O Colegiado indeferiu, por unanimidade, os pedidos da XP Inc. de confidencialidade do pedido original e de não divulgação de trecho da ata… | cvm-col-20211109-d2109 | fichas/colegiado/2021-19.md |
+| termo-compromisso | 19957.009294/2017-11 | 2021-11-09 | rejeitado | O Colegiado rejeitou pedido de reconsideração de proposta de termo de compromisso de R$ 200.000,00 do diretor de relações com investidores… | cvm-col-20211109-d1157 | fichas/tc/2021-07.md |
+| termo-compromisso | 19957.006426/2020-58 | 2021-10-26 | aceito | O Colegiado aceitou, por unanimidade, proposta de Termo de Compromisso do diretor de relações com investidores da DIMED S.A. por divulgação… | cvm-col-20211026-d2356 | fichas/tc/2021-07.md |
+| termo-compromisso | 19957.008986/2020-47 | 2021-10-26 | rejeitado | O Colegiado rejeitou, por unanimidade, nova proposta de termo de compromisso de diretor de relações com investidores do Banco do Nordeste… | cvm-col-20211026-d2260 | fichas/tc/2021-07.md |
+| termo-compromisso | 19957.006903/2020-85 | 2021-10-14 | aceito | Por unanimidade, o Colegiado aceitou, acompanhando o parecer do Comitê, proposta conjunta de termo de compromisso de um diretor (RI e… | cvm-col-20211014-d2328 | fichas/tc/2021-07.md |
+| termo-compromisso | 19957.008029/2020-11 | 2021-09-28 | aceito | Por unanimidade, o Colegiado aceitou, acompanhando o parecer do Comitê, proposta de termo de compromisso de diretor de RI da Via Varejo… | cvm-col-20210928-d2318 | fichas/tc/2021-06.md |
+| termo-compromisso | 19957.007550/2019-05 | 2021-09-28 | rejeitado | O Colegiado rejeitou, por maioria, nova proposta de termo de compromisso de R$ 1.200.000,00 apresentada pelo diretor de Relações com… | cvm-col-20210928-d1833 | fichas/tc/2021-06.md |
+| termo-compromisso | 19957.007123/2020-52 | 2021-09-21 | aceito | O Colegiado aceitou, por unanimidade, proposta de Termo de Compromisso do representante legal da PPLA Participations LTD por não divulgação… | cvm-col-20210921-d2311 | fichas/tc/2021-06.md |
+| termo-compromisso | 19957.005978/2020-49 | 2021-09-21 | aceito | O Colegiado aceitou, por unanimidade e acompanhando o Comitê, proposta de Termo de Compromisso da BTG Pactual Holding S.A., acionista da… | cvm-col-20210921-d2310 | fichas/tc/2021-06.md |
+| acordao-crsfn | RJ2018/4279 | 2021-09-15 | outro | RECURSOS VOLUNTÁRIOS. Recurso apresentado por advogado sem procuração. Demais recursos intempestivos. Não conhecimento. | crsfn-10372-100335-2019-71 | fichas/crsfn/2021-05.md |
+| acordao-crsfn | RJ2016/4711 | 2021-09-14 | parcial | RECURSOS VOLUNTÁRIOS . Demonstrações financeiras. Envio, com atraso, à CVM de informações periódicas. Diretoria. Conselho de Administração… | crsfn-10372-100048-2020-02 | fichas/crsfn/2021-04.md |
+| termo-compromisso | 19957.001968/2020-34 | 2021-08-31 | aceito | O Colegiado aceitou, por unanimidade, proposta de Termo de Compromisso da diretora de relações com investidores da Gafisa S.A. por não… | cvm-col-20210831-d2290 | fichas/tc/2021-06.md |
+| termo-compromisso | 19957.008035/2020-78 | 2021-08-17 | aceito | O Colegiado aceitou proposta de termo de compromisso de dois administradores da Via Varejo S.A. por divulgação inadequada de informação… | cvm-col-20210817-d2271 | fichas/tc/2021-05.md |
+| acordao-crsfn | RJ2014/1020 | 2021-08-10 | condenacao | RECURSOS VOLUNTÁRIOS. Nulidades arguidas afastadas. Possibilidade de tratamento das irregularidades em um único processo. Manifestação… | crsfn-10372-100118-2018-08 | fichas/crsfn/2021-03.md |
+| termo-compromisso | 19957.008986/2020-47 | 2021-08-03 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso do diretor de relações com investidores do Banco do Nordeste do Brasil S.A… | cvm-col-20210803-d2260 | fichas/tc/2021-05.md |
+| termo-compromisso | 19957.004559/2020-90 | 2021-07-20 | aceito | O Colegiado aceitou proposta de termo de compromisso da diretora de relações com investidores da Oi S.A., em recuperação judicial, por não… | cvm-col-20210720-d2244 | fichas/tc/2021-05.md |
+| acordao-crsfn | RJ2017/3558 | 2021-07-13 | condenacao | RECURSO VOLUNTÁRIO. Não envio à CVM de informações periódicas obrigatórias. Irregularidade caracterizada. Recurso não provido. Multas. | crsfn-10372-100384-2018-22 | fichas/crsfn/2021-03.md |
+| acordao-crsfn | RJ2013-2759 | 2021-06-14 | parcial | RECURSOS VOLUNTÁRIOS. Não divulgação de operações com partes relacionadas nas demonstrações financeiras e em formulário de referência… | crsfn-10372-100291-2018-06 | fichas/crsfn/2021-02.md |
+| termo-compromisso | 19957.006244/2020-87 | 2021-05-25 | aceito | O Colegiado aceitou proposta de Termo de Compromisso de R$ 200.000,00, em parcela única, de diretor de relações com investidores de… | cvm-col-20210525-d2179 | fichas/tc/2021-04.md |
+| termo-compromisso | 19957.005753/2020-92 | 2021-05-18 | aceito | O Colegiado aceitou a proposta de termo de compromisso de DRI de companhia acusado de não divulgar fato relevante sobre programa de ADRs e… | cvm-col-20210518-d2169 | fichas/tc/2021-04.md |
+| termo-compromisso | 19957.001049/2020-61 | 2021-05-18 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou propostas de termo de compromisso de quatro administradores de companhia com… | cvm-col-20210518-d2168 | fichas/tc/2021-03.md |
+| termo-compromisso | 19957.001737/2020-21 | 2021-05-18 | aceito | O Colegiado aceitou a proposta de termo de compromisso de DRI de companhia acusado de não divulgar fato relevante tempestivamente após… | cvm-col-20210518-d2165 | fichas/tc/2021-03.md |
+| termo-compromisso | 19957.005414/2020-14 | 2021-05-11 | aceito | O Colegiado aceitou a proposta de termo de compromisso de DRI de companhia acusado de não divulgar informação relevante sobre reunião do… | cvm-col-20210511-d2161 | fichas/tc/2021-03.md |
+| termo-compromisso | 19957.010181/2018-49 | 2021-05-04 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou nova proposta de termo de compromisso de R$ 660.000,00, em parcela única, do… | cvm-col-20210504-d1537 | fichas/tc/2021-03.md |
+| termo-compromisso | 19957.002991/2020-46 | 2021-04-20 | aceito | O Colegiado aceitou a proposta conjunta de termo de compromisso de dois DRIs de companhias acusados de não divulgar fato relevante… | cvm-col-20210420-d2137 | fichas/tc/2021-02.md |
+| acordao-crsfn | RJ-2016-7352 | 2021-04-13 | parcial | RECURSO VOLUNTÁRIO. Não envio à CVM de informações periódicas obrigatórias. Infração caracterizada. Recurso provido parcialmente. Multa. | crsfn-10372-100320-2018-21 | fichas/crsfn/2021-01.md |
+| termo-compromisso | 19957.001392/2020-13 | 2021-04-06 | aceito | O Colegiado aceitou a proposta de termo de compromisso do DRI de companhia acusado de divulgar fato relevante de forma incompleta (art… | cvm-col-20210406-d2126 | fichas/tc/2021-02.md |
+| termo-compromisso | 19957.006091/2020-78 | 2021-03-02 | aceito | O Colegiado aceitou, por unanimidade, proposta de termo de compromisso da Hotchkis and Wiley Capital Management, gestora estrangeira que se… | cvm-col-20210302-d2088 | fichas/tc/2021-02.md |
+| termo-compromisso | 19957.009401/2019-72 | 2021-02-18 | aceito | O Colegiado aceitou proposta de termo de compromisso do diretor de relações com investidores da Biotoscana Investments S.A. por não… | cvm-col-20210218-d2062 | fichas/tc/2021-01.md |
+| termo-compromisso | 19957.007550/2019-05 | 2021-02-09 | rejeitado | O Colegiado rejeitou, por unanimidade, pedido de reconsideração de proposta de termo de compromisso do diretor de RI de companhia aberta… | cvm-col-20210209-d1833 | fichas/tc/2021-01.md |
+| pas | 19957.010135/2018-40; RJ2018/7396 | 2021-01-19 | parcial | Responsabilidade de administradores da Companhia Aurífera Brasileira S.A. em virtude da (i) não elaboração de Demonstrações Financeiras, em… | cvm-pas-19957-010135-2018-40 | fichas/pas/2021-01.md |
+| termo-compromisso | 19957.010395/2019-04 | 2021-01-05 | aceito | O Colegiado aceitou proposta de termo de compromisso de diretor de relações com investidores de companhia aberta, acusado de divulgar de… | cvm-col-20210105-d2025 | fichas/tc/2021-01.md |
+| decisao-colegiado | 19957.007457/2018-10 | 2020-12-08 | parcial | O Colegiado deu provimento parcial ao recurso da B3 contra decisão da SEP sobre o Formulário de Referência e encargos sociais na… | cvm-col-20201208-d1361 | fichas/colegiado/2020-21.md |
+| decisao-colegiado | 480/2009; 19957.004286/2019-40 | 2020-11-06 | — | O Colegiado continuou a discussão de minuta que altera a Instrução CVM 480/09 para incluir informações de aspectos ASG no regime… | cvm-col-20201106-d1673 | fichas/colegiado/2020-18.md |
+| decisao-colegiado | 480/2009; 19957.004286/2019-40 | 2020-09-30 | — | A SDM apresentou ao Colegiado proposta de inclusão de aspectos sociais, ambientais e de governança corporativa (ASG) nos formulários de… | cvm-col-20200930-d1673 | fichas/colegiado/2020-16.md |
+| acordao-crsfn | RJ2014/13353 | 2020-09-20 | outro | EMBARGOS DE DECLARAÇÃO. Alegação de omissão quanto à alegação de cerceamento de defesa e outros argumentos. Embargos conhecidos e… | crsfn-edcl-10372-100295-2018-86 | fichas/crsfn/2020-07.md |
+| acordao-crsfn | RJ-2016-4712 | 2020-09-18 | condenacao | RECURSOS VOLUNTÁRIOS. Descumprimento do dever de manter informados a CVM, o mercado e os acionistas sobre a situação financeira da empresa… | crsfn-10372-100312-2018-85 | fichas/crsfn/2020-07.md |
+| acordao-crsfn | RJ2014/3402 | 2020-09-15 | condenacao | RECURSO VOLUNTÁRIO. Não divulgação de Fato Relevante sobre nova metodologia de precificação de combustíveis pelo diretor de relações com… | crsfn-10372-100232-2019-19 | fichas/crsfn/2020-06.md |
+| decisao-colegiado | 19957.004764/2020-55 | 2020-07-21 | parcial | O Colegiado, por maioria, deferiu em parte pedido de associações para prorrogar por 45 dias o prazo de entrega do ITR do 2º trimestre de… | cvm-col-20200721-d1861 | fichas/colegiado/2020-11.md |
+| pas | 19957.008895/2019-78; RJ2019/6858 | 2020-07-07 | condenacao | Ementa : Responsabilidade de diretores de companhia incentivada pela não elaboração de demonstrações financeiras; não envio à CVM de… | cvm-pas-19957-008895-2019-78 | fichas/pas/2020-06.md |
+| decisao-colegiado | 19957.001316/2020-08 | 2020-07-07 | parcial | O Colegiado, por unanimidade, deferiu em parte o pedido do Banco do Brasil de dispensa do Comunicado de Transações entre Partes… | cvm-col-20200707-d1848 | fichas/colegiado/2020-11.md |
+| termo-compromisso | 19957.011091/2019-56 | 2020-06-30 | aceito | O Colegiado, acompanhando o parecer do Comitê, aceitou proposta de termo de compromisso de ex-diretor de relações com investidores de… | cvm-col-20200630-d1847 | fichas/tc/2020-05.md |
+| pas | 19957.005762/2019-40; RJ2019/3693 | 2020-06-23 | condenacao | Ementa : Responsabilidade de administradores da Refinaria Pet Manguinhos S.A. pela não entrega de informações periódicas e pela não… | cvm-pas-19957-005762-2019-40 | fichas/pas/2020-05.md |
+| termo-compromisso | 19957.007550/2019-05 | 2020-06-16 | rejeitado | O Colegiado, por unanimidade e contrariamente ao parecer do Comitê, rejeitou proposta de termo de compromisso de R$ 1.080.000,00, em… | cvm-col-20200616-d1833 | fichas/tc/2020-05.md |
+| termo-compromisso | 19957.010842/2017-55 | 2020-06-09 | aceito | O Colegiado aceitou, por unanimidade, acompanhando o parecer do Comitê, propostas de termo de compromisso de três diretores de companhia… | cvm-col-20200609-d1826 | fichas/tc/2020-05.md |
+| termo-compromisso | 19957.010383/2018-91; 19957.004932/2019-79 | 2020-06-02 | rejeitado | O Colegiado rejeitou, por unanimidade, acompanhando o parecer do Comitê, proposta de termo de compromisso de acionista credor, devedora e… | cvm-col-20200602-d1567 | fichas/tc/2020-04.md |
+| decisao-colegiado | 19957.005665/2016-12 | 2020-05-19 | parcial | O Colegiado, por unanimidade, acompanhando o voto do relator, deu provimento parcial a recurso da Estácio Participações contra decisão da… | cvm-col-20200519-d0794 | fichas/colegiado/2020-08.md |
+| termo-compromisso | 19957.003224/2019-11 | 2020-05-12 | aceito | O Colegiado aceitou, por maioria, proposta de termo de compromisso de fundos e da gestora, acionistas de companhia aberta, por… | cvm-col-20200512-d1801 | fichas/tc/2020-04.md |
+| termo-compromisso | 19957.007404/2019-71 | 2020-05-12 | aceito | O Colegiado, por unanimidade e acompanhando o Parecer do Comitê, aceitou proposta de termo de compromisso de R$ 250.000,00 do proponente… | cvm-col-20200512-d1796 | fichas/tc/2020-04.md |
+| termo-compromisso | 19957.003525/2019-44 | 2020-05-12 | aceito | O Colegiado, por unanimidade, aceitou proposta de termo de compromisso da J&F Investimentos, acionista controladora da Alpargatas, por… | cvm-col-20200512-d1795 | fichas/tc/2020-04.md |
+| termo-compromisso | 19957.009217/2018-41 | 2020-05-12 | aceito | O Colegiado aceitou, por unanimidade, acompanhando o parecer do Comitê, proposta de termo de compromisso de ex-DRI e atual DRI de companhia… | cvm-col-20200512-d1793 | fichas/tc/2020-04.md |
+| decisao-colegiado | 19957.002351/2020-36 | 2020-03-31 | outro | O Colegiado aprovou, por unanimidade, a Deliberação CVM 849/20, que adia a entrega de informações periódicas de companhias abertas com… | cvm-col-20200331-d1767 | fichas/colegiado/2020-06.md |
+| termo-compromisso | 19957.001964/2019-12 | 2020-03-31 | aceito | O Colegiado aceitou a proposta conjunta de termo de compromisso de dois diretores da Multiplus S.A., acusados de não mencionar deficiência… | cvm-col-20200331-d1765 | fichas/tc/2020-03.md |
+| termo-compromisso | 19957.005290/2019-25 | 2020-03-17 | aceito | O Colegiado aceitou a proposta de termo de compromisso de diretor de relações com investidores de companhia aberta, acusado de divulgação… | cvm-col-20200317-d1748 | fichas/tc/2020-02.md |
+| acordao-crsfn | RJ2016/7808 | 2020-03-11 | parcial | RECURSOS VOLUNTÁRIOS. Não convocação de assembleias gerais. Não elaboração de demonstrações financeiras. Não submissão de demonstração… | crsfn-10372-100012-2019-87 | fichas/crsfn/2020-02.md |
+| acordao-crsfn | RJ2016/5499 | 2020-03-10 | parcial | RECURSOS VOLUNTÁRIOS. Não elaboração de demonstrações financeiras, não realização de AGO e não apresentação de informações periódicas… | crsfn-10372-100259-2018-12 | fichas/crsfn/2020-02.md |
+| termo-compromisso | 19957.005428/2019-96 | 2020-03-03 | aceito | O Colegiado aceitou, por unanimidade, proposta de termo de compromisso de R$ 300.000,00 por divulgação incompleta de fato relevante (art… | cvm-col-20200303-d1730 | fichas/tc/2020-02.md |
+| acordao-crsfn | SP2018/40 | 2020-02-11 | condenacao | RECURSOS VOLUNTÁRIOS. Não elaboração de demonstrações financeiras. Não envio de formulários obrigatórios. Envio intempestivo não afasta a… | crsfn-10372-100434-2018-71 | fichas/crsfn/2020-02.md |
+| acordao-crsfn | RJ2015/10215 | 2020-02-11 | parcial | RECURSOS VOLUNTÁRIOS. Não realização de AGO e não apresentação de informações periódicas. Recurso intempestivo e não conhecido; Demais… | crsfn-10372-100361-2018-18 | fichas/crsfn/2020-01.md |
+| termo-compromisso | 19957.004388/2019-65 | 2020-02-04 | aceito | O Colegiado, por unanimidade, aceitou proposta de termo de compromisso do diretor de relações com investidores da Kroton, com pagamento de… | cvm-col-20200204-d1686 | fichas/tc/2020-01.md |
+| termo-compromisso | 19957.005332/2018-47 | 2020-02-04 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou proposta de termo de compromisso de diretor de companhia aberta por atraso… | cvm-col-20200204-d1323 | fichas/tc/2020-01.md |
+| decisao-colegiado | 19957.000105/2020-40 | 2020-02-04 | outro | O Colegiado aprovou a Deliberação CVM nº 843/20, com disposição transitória que fixa em 5 de fevereiro de 2020 a data de divulgação do… | cvm-col-20200204-d1022 | fichas/colegiado/2020-02.md |
+| termo-compromisso | 19957.004283/2019-14; 19957.004912/2019-06 | 2020-01-28 | aceito | O Colegiado, por unanimidade, aceitou as propostas de termo de compromisso do diretor de RI da Vale em dois PAS, por omissão de fato… | cvm-col-20200128-d1678 | fichas/tc/2020-01.md |
+| decisao-colegiado | 480/2009; 19957.004286/2019-40 | 2019-12-20 | — | O Colegiado ouviu a conclusão da apresentação da SDM sobre propostas de alteração do regime informacional das companhias: revisão do… | cvm-col-20191220-d1673 | fichas/colegiado/2019-21.md |
+| pas | 19957.005934/2016-32; RJ2016/7162 | 2019-12-10 | condenacao | Irregularidades envolvendo a suspensão de negociação das ações de emissão da Construtora Sultepa S.A. – em recuperação judicial, por… | cvm-pas-19957-005934-2016-32 | fichas/pas/2019-22.md |
+| pas | 19957.004986/2019-34; RJ2019/3127 | 2019-12-10 | condenacao | Apurar responsabilidade de [pessoa física], na qualidade de administrador judicial, equiparado a diretor de relações com investidores, da… | cvm-pas-19957-004986-2019-34 | fichas/pas/2019-22.md |
+| pas | 19957.009116/2018-71; RJ2018/6282 | 2019-12-03 | condenacao | Não divulgação de fato relevante. Infração ao art. 3º, c/c o art. 6º, parágrafo único, ambos da Instrução CVM nº 358/02. Infração ao art… | cvm-pas-19957-009116-2018-71 | fichas/pas/2019-21.md |
+| decisao-colegiado | 19957.008455/2019-11 | 2019-10-08 | nao-provido | O Colegiado negou provimento, por unanimidade, a recurso da BR Home Centers S.A. contra a SEP, que indeferiu dispensa de entrega do… | cvm-col-20191008-d1569 | fichas/colegiado/2019-16.md |
+| termo-compromisso | 19957.010383/2018-91 | 2019-10-08 | rejeitado | O Colegiado rejeitou, por unanimidade, proposta de termo de compromisso do BTG Pactual Holding S.A. (R$ 200.000,00), acusado de não… | cvm-col-20191008-d1567 | fichas/tc/2019-06.md |
+| termo-compromisso | 19957.010559/2018-12 | 2019-10-01 | aceito | O Colegiado, por unanimidade, aceitou proposta de termo de compromisso de R$ 400.000,00 apresentada por um diretor de relações com… | cvm-col-20191001-d1558 | fichas/tc/2019-05.md |
+| pas | SP2017/493 | 2019-09-24 | condenacao | Omissão de informações sobre transações com partes relacionadas. Falhas informacionais nos formulários de referência e demonstrações… | cvm-pas-sp2017-0493 | fichas/pas/2019-16.md |
+| termo-compromisso | 19957.010181/2018-49 | 2019-09-17 | rejeitado | O Colegiado, por unanimidade, rejeitou proposta de termo de compromisso de diretor de relações com investidores de companhia acusado de não… | cvm-col-20190917-d1537 | fichas/tc/2019-05.md |
+| termo-compromisso | 19957.009116/2018-71 | 2019-08-20 | rejeitado | O Colegiado, por unanimidade, rejeitou proposta de termo de compromisso do diretor de relações com investidores de companhia acusado de não… | cvm-col-20190820-d1499 | fichas/tc/2019-05.md |
+| pas | RJ2018/3434 | 2019-08-06 | condenacao | Ementa : Não entrega das demonstrações financeiras referentes ao exercício social findo em 31.12.2016 e respectivo formulário DFP, assim… | cvm-pas-rj2018-3434 | fichas/pas/2019-14.md |
+| pas | 19957.005100/2018-99; RJ2018/3434 | 2019-08-06 | condenacao | Não entrega das demonstrações financeiras referentes ao exercício social findo em 31.12.2016 e respectivo formulário DFP, assim como a ata… | cvm-pas-19957-005100-2018-99 | fichas/pas/2019-13.md |
+| termo-compromisso | 19957.005866/2018-73 | 2019-08-06 | rejeitado | O Colegiado, por maioria, rejeitou três propostas de termo de compromisso sobre não divulgação de atuação sob o mesmo interesse (ICVM… | cvm-col-20190806-d1481 | fichas/tc/2019-04.md |
+| termo-compromisso | 19957.007674/2018-00 | 2019-08-06 | aceito | O Colegiado, por unanimidade e contrariando o parecer do Comitê, que recomendava a rejeição, aceitou a proposta de termo de compromisso do… | cvm-col-20190806-d1478 | fichas/tc/2019-04.md |
+| termo-compromisso | 19957.007825/2018-11 | 2019-07-30 | rejeitado | O Colegiado rejeitou, por unanimidade, proposta de termo de compromisso de ex-diretor de relações com investidores da Telebrás, acusado de… | cvm-col-20190730-d1246 | fichas/tc/2019-04.md |
+| acordao-crsfn | RJ2018/3005 | 2019-07-23 | condenacao | RECURSO VOLUNTÁRIO. Não elaboração e entrega de informações periódicas à CVM pelo DRI. Não convocação de assembleia geral ordinária… | crsfn-10372-100075-2019-33 | fichas/crsfn/2019-02.md |
+| pas | RJ2016/7190 | 2019-07-09 | absolvicao | Não divulgação de fato relevante para comunicar decisão em procedimento arbitral envolvendo a MMX Sudeste S.A. Infração ao art. 157, §4º da… | cvm-pas-rj2016-7190 | fichas/pas/2019-12.md |
+| pas | RJ2016/4711 | 2019-07-02 | parcial | Descumprimento do dever de enviar ou envio com atraso à CVM de informações periódicas por parte dos administradores da Brazal – Brasil… | cvm-pas-rj2016-4711 | fichas/pas/2019-11.md |
+| pas | RJ2014/6517 | 2019-06-25 | parcial | Divulgação de fatos relevantes como instrumento de manipulação de preços da OGX Petróleo e Gás Participações S.A. Divulgação de fato… | cvm-pas-rj2014-6517 | fichas/pas/2019-09.md |
+| termo-compromisso | 19957.002738/2016-14 | 2019-05-28 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de ex-administrador da Brazal Brasil Alimentos S.A. sobre não elaboração tempestiva… | cvm-col-20190528-d0631 | fichas/tc/2019-03.md |
+| termo-compromisso | 19957.004675/2018-94; 19957.009125/2018-61 | 2019-05-21 | aceito | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, aceitou proposta de termo de compromisso do DRI da Brasil Pharma S.A. em… | cvm-col-20190521-d1396 | fichas/tc/2019-03.md |
+| termo-compromisso | 19957.006242/2017-92 | 2019-05-21 | aceito | O Colegiado aceitou, por unanimidade, a proposta de termo de compromisso de sete administradores da Atletas Brasileiros S.A., acompanhando… | cvm-col-20190521-d1097 | fichas/tc/2019-03.md |
+| termo-compromisso | 19957.002738/2016-14 | 2019-04-30 | rejeitado | O Colegiado, por unanimidade, acompanhando o voto do Relator, rejeitou as propostas de termo de compromisso de dois proponentes, de R$… | cvm-col-20190430-d0631 | fichas/tc/2019-02.md |
+| acordao-crsfn | 09/2009 | 2019-04-23 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Descumprimento do dever de diligência. Não convocação de Assembleia Geral. Descumprimento do dever de… | crsfn-14390 | fichas/crsfn/2019-01.md |
+| termo-compromisso | 19957.005100/2018-99 | 2019-04-22 | rejeitado | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou a proposta de termo de compromisso do diretor de RI de companhia, acusado de… | cvm-col-20190422-d1377 | fichas/tc/2019-02.md |
+| termo-compromisso | 19957.009294/2017-11 | 2019-04-09 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso do diretor de relações com investidores da Recrusul S.A. sobre não divulgação de não… | cvm-col-20190409-d1157 | fichas/tc/2019-02.md |
+| pas | RJ2018/4279 | 2019-04-02 | condenacao | Descumprimento reiterado por parte dos membros do conselho de administração da Maori S.A. de suas obrigações de envio à CVM de suas… | cvm-pas-rj2018-4279 | fichas/pas/2019-06.md |
+| pas | RJ2017/6169 | 2019-04-02 | parcial | Não elaboração de demonstrações financeiras da Companhia Docas de Imbituba. Não realização de assembleia geral ordinária. Não envio de… | cvm-pas-rj2017-6169 | fichas/pas/2019-05.md |
+| termo-compromisso | 19957.005870/2018-31 | 2019-03-19 | aceito | O Colegiado aceitou proposta de termo de compromisso de R$ 400.000,00 do diretor de relações com investidores da Alpargatas S.A… | cvm-col-20190319-d1346 | fichas/tc/2019-02.md |
+| termo-compromisso | 19957.005332/2018-47 | 2019-03-19 | aceito | O Colegiado aceitou propostas de termo de compromisso de diretores e conselheiros da Multiner S.A., acusados de não entregar, por mais de… | cvm-col-20190319-d1323 | fichas/tc/2019-02.md |
+| pas | RJ2015/10545 | 2019-02-19 | parcial | Ementa : Não indicação de representante legal, não divulgação de fato relevante e inadequação das informações divulgadas em fato relevante… | cvm-pas-rj2015-10545 | fichas/pas/2019-03.md |
+| termo-compromisso | 19957.011050/2017-06 | 2019-02-19 | aceito | O Colegiado aceitou proposta de Termo de Compromisso da Brandes Investment Partners, L.P., gestora discricionária, por comunicação… | cvm-col-20190219-d1315 | fichas/tc/2019-01.md |
+| termo-compromisso | 19957.005419/2018-14 | 2019-02-12 | aceito | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, aceitou proposta de termo de compromisso de R$ 200.000,00 do diretor de… | cvm-col-20190212-d1307 | fichas/tc/2019-01.md |
+| termo-compromisso | 19957.004423/2018-65 | 2019-02-12 | aceito | O Colegiado aceitou proposta de Termo de Compromisso do diretor de relações com investidores da Usiminas, acompanhando o Comitê, por… | cvm-col-20190212-d1306 | fichas/tc/2019-01.md |
+| termo-compromisso | 19957.000925/2018-17 | 2019-02-12 | aceito | O Colegiado aceitou proposta de termo de compromisso de um diretor de relações com investidores à época dos fatos, acusado de permitir… | cvm-col-20190212-d1303 | fichas/tc/2019-01.md |
+| termo-compromisso | 19957.005922/2018-70 | 2019-01-22 | aceito | O Colegiado aceitou proposta de Termo de Compromisso do diretor de relações com investidores da CCR S.A., acompanhando o Comitê, por… | cvm-col-20190122-d1282 | fichas/tc/2019-01.md |
+| decisao-colegiado | 19957.003597/2018-19 | 2018-12-27 | provido | O Colegiado, por unanimidade, deu provimento a recurso da Petrobras e dispensou a comunicação de operações ordinárias de gestão de caixa e… | cvm-col-20181227-d1018 | fichas/colegiado/2018-21.md |
+| decisao-colegiado | 19957.000448/2018-90 | 2018-12-18 | nao-provido | O Colegiado negou provimento a recurso de fundos de ações minoritários da Coelba contra decisão da SEP que não exigiu divulgação do laudo… | cvm-col-20181218-d1007 | fichas/colegiado/2018-21.md |
+| pas | RJ2014/3402 | 2018-12-13 | condenacao | Não divulgação de fato relevante sobre nova metodologia de precificação de combustíveis em 05.09.2013 pelo diretor de relações com… | cvm-pas-rj2014-3402 | fichas/pas/2018-23.md |
+| acordao-crsfn | RJ2013/8695 | 2018-12-12 | parcial | RECURSOS VOLUNTÁRIOS. Não elaboração de demonstrações financeiras. Não convocação e não realização de Assembleias Gerais Ordinárias… | crsfn-14095 | fichas/crsfn/2018-10.md |
+| acordao-crsfn | 04/2012 | 2018-12-11 | parcial | RECURSOS VOLUNTÁRIO E DE OFÍCIO. Não informar à CVM e ao mercado a aquisição de mais de 10% de participação no capital social de Companhia… | crsfn-14227 | fichas/crsfn/2018-10.md |
+| pas | RJ2014/14161 | 2018-12-04 | condenacao | Obstrução dos trabalhos do conselho fiscal e omissão na divulgação de fato relevante da RJCP Equity S.A. Infração ao art. 154 da Lei nº… | cvm-pas-rj2014-14161 | fichas/pas/2018-21.md |
+| termo-compromisso | 19957.009835/2017-19 | 2018-11-27 | rejeitado | O Colegiado, acompanhando o Comitê, rejeitou a proposta de termo de compromisso de dois administradores da Bahema S.A. (R$ 150.000,00 no… | cvm-col-20181127-d1226 | fichas/tc/2018-06.md |
+| pas | RJ2018/3005 | 2018-11-13 | parcial | Não elaboração e entrega de informações periódicas eventuais à CVM nos anos de 2014 e 2015 pelo DRI da SDV Administradora de Shopping… | cvm-pas-rj2018-3005 | fichas/pas/2018-19.md |
+| termo-compromisso | 19957.010686/2017-22 | 2018-11-13 | rejeitado | O Colegiado, acompanhando o Comitê, rejeitou proposta de termo de compromisso de administradores de companhia aberta por omissões sobre… | cvm-col-20181113-d1218 | fichas/tc/2018-06.md |
+| acordao-crsfn | RJ2016/8172 | 2018-11-09 | condenacao | RECURSOS VOLUNTÁRIOS. Responsabilidade de administradores pelo descumprimento do dever de enviar à CVM informações periódicas. Não… | crsfn-10372-100340-2018-01 | fichas/crsfn/2018-09.md |
+| decisao-colegiado | 19957.009858/2018-04 | 2018-10-30 | deferido | O Colegiado deferiu, por unanimidade e em caráter excepcional, a prorrogação do prazo para entrega do Informe de Governança (Instrução CVM… | cvm-col-20181030-d1209 | fichas/colegiado/2018-19.md |
+| decisao-colegiado | 19957.009104/2018-46 | 2018-10-23 | provido | O Colegiado deu provimento a recurso da Concessionária do Sistema Anhanguera-Bandeirantes S.A. e a dispensou de entregar a proposta do… | cvm-col-20181023-d1193 | fichas/colegiado/2018-18.md |
+| termo-compromisso | 19957.009681/2017-57 | 2018-09-25 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou propostas de Termo de Compromisso de oito proponentes da JBS S.A… | cvm-col-20180925-d1169 | fichas/tc/2018-05.md |
+| pas | RJ2017/3190 | 2018-08-21 | condenacao | Não envio à CVM de informações periódicas obrigatórias – não elaboração de demonstrações financeiras – não convocação de assembleias gerais… | cvm-pas-rj2017-3190 | fichas/pas/2018-13.md |
+| acordao-crsfn | 08/2009 | 2018-08-21 | parcial | Recursos Voluntários. Falta de diligência de Diretor de Relações com Investidores – DRI para apurar oscilações do valor das ações. Falta de… | crsfn-14324 | fichas/crsfn/2018-06.md |
+| pas | SP2018/40 | 2018-08-07 | condenacao | O Colegiado aplicou multas ao diretor-presidente e à diretora de RI da AR Capital Securities por não elaboração das demonstrações… | cvm-pas-sp2018-0040 | fichas/pas/2018-12.md |
+| pas | 19957.006977/2017-16; RJ2017/3558 | 2018-07-24 | condenacao | Não envio à CVM de informações periódicas obrigatórias. Infração a dispositivos da Instrução CVM nº 480/09. Multas. | cvm-pas-19957-006977-2017-16 | fichas/pas/2018-11.md |
+| pas | 19957.006193/2017-98; RJ2017/2945 | 2018-07-24 | parcial | Não elaboração de informações financeiras, não envio à CVM de informações periódicas obrigatórias e não convocação e realização de… | cvm-pas-19957-006193-2017-98 | fichas/pas/2018-11.md |
+| pas | 19957.001067/2017-47; RJ2017/490 | 2018-07-24 | condenacao | Não elaboração de demonstrações financeiras – não envio à CVM de informações periódicas obrigatórias – não convocação de Assembleia Geral… | cvm-pas-19957-001067-2017-47 | fichas/pas/2018-11.md |
+| acordao-crsfn | RJ2014/6225 | 2018-07-24 | arquivamento | RECURSO VOLUNTÁRIO. CVM. Companhia aberta. Responsabilidade do DRI. Oscilação atípica de ações. Irregularidade não caracterizada… | crsfn-10372-100240-2017-95 | fichas/crsfn/2018-06.md |
+| acordao-crsfn | RJ2015/6319 | 2018-07-24 | condenacao | RECURSO VOLUNTÁRIO. Atraso na elaboração e na entrega de documentação de companhia aberta. Recurso desprovido. Multa. | crsfn-10372-100216-2017-56 | fichas/crsfn/2018-06.md |
+| pas | RJ2016/7808 | 2018-07-12 | condenacao | Não elaboração e não envio à CVM das informações periódicas obrigatórias – não convocação de assembleias gerais ordinárias – não elaboração… | cvm-pas-rj2016-7808 | fichas/pas/2018-10.md |
+| acordao-crsfn | RJ2011/14514 | 2018-06-26 | parcial | PEDIDO DE REVISÃO EX-OFFICIO apresentado pela Comissão de Valores Mobiliários. Revisão da Decisão do CRSFN que considerou intempestivo o… | crsfn-revisao-13730 | fichas/crsfn/2018-05.md |
+| pas | RJ2017/1582 | 2018-06-19 | condenacao | Não elaboração de demonstrações financeiras – não envio de informações periódicas – não convocação de assembleia geral ordinária. Multas e… | cvm-pas-rj2017-1582 | fichas/pas/2018-09.md |
+| termo-compromisso | 19957.003946/2017-11 | 2018-06-05 | aceito | O Colegiado aceitou proposta de termo de compromisso de sete administradores de companhia, acusados de atraso em demonstrações, formulários… | cvm-col-20180605-d1054 | fichas/tc/2018-03.md |
+| acordao-crsfn | RJ2015/3529 | 2018-05-23 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Não elaboração de escrituração contábil. Consequente não entrega das Demonstrações Financeiras e de… | crsfn-14446 | fichas/crsfn/2018-04.md |
+| termo-compromisso | 19957.008176/2017-95 | 2018-05-22 | aceito | O Colegiado aceitou proposta de termo de compromisso do diretor de relações com investidores da Prumo Logística S.A., acompanhando o… | cvm-col-20180522-d0872 | fichas/tc/2018-03.md |
+| pas | 19957.006739/2018-91; 18/2013 | 2018-05-08 | parcial | Não convocação de assembleias gerais ordinárias – não elaboração de demonstrações financeiras da companhia – não envio à CVM das… | cvm-pas-19957-006739-2018-91 | fichas/pas/2018-06.md |
+| decisao-colegiado | 19957.000569/2017-51 | 2018-05-02 | nao-provido | O Colegiado, acompanhando a área técnica (Relatório 65/2017 GEA-3), negou provimento ao recurso do reclamante contra entendimento da SEP… | cvm-col-20180502-d0732 | fichas/colegiado/2018-08.md |
+| pas | RJ2016/4712 | 2018-04-24 | condenacao | Não envio à CVM, ou envio com atraso, das informações periódicas obrigatórias. Multa. | cvm-pas-rj2016-4712 | fichas/pas/2018-06.md |
+| decisao-colegiado | 19957.002727/2016-26 | 2018-04-24 | nao-provido | O Colegiado, por unanimidade, acompanhando o relator, negou provimento a recurso da Elekeiroz contra determinação de divulgar laudo de… | cvm-col-20180424-d0324 | fichas/colegiado/2018-08.md |
+| pas | RJ2016/4728 | 2018-04-03 | parcial | Não convocação de AGO – Não elaboração das Demonstrações Financeiras da Companhia – Não entrega das informações periódicas obrigatórias… | cvm-pas-rj2016-4728 | fichas/pas/2018-05.md |
+| acordao-crsfn | RJ2012/13047 | 2018-04-03 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Negociação com ações de emissão da Brasil Brokers Participações S.A., em período vedado - Insider… | crsfn-14164 | fichas/crsfn/2018-04.md |
+| acordao-crsfn | RJ2014/3839 | 2018-03-21 | parcial | RECURSOS VOLUNTÁRIOS. Irregularidades no preenchimento dos Formulários de Referências. Diretor-Presidente e Diretores de Relações com… | crsfn-10372-100196-2017-13 | fichas/crsfn/2018-03.md |
+| acordao-crsfn | RJ2012/6160 | 2018-03-20 | absolvicao | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Intempestividade na elaboração das demonstrações financeiras justificada. Não convocação de Assembleia… | crsfn-14039 | fichas/crsfn/2018-02.md |
+| acordao-crsfn | RJ2016/4134 | 2018-03-20 | condenacao | RECURSO VOLUNTÁRIO. Não envio de documentos obrigatórios. Não convocação de assembleias. Companhia em recuperação judicial. Infrações… | crsfn-10372-100230-2017-50 | fichas/crsfn/2018-02.md |
+| decisao-colegiado | 19957.001718/2018-80 | 2018-03-13 | deferido | O Colegiado prorrogou para 31.10.2018 o prazo de entrega do Informe sobre o Código Brasileiro de Governança Corporativa pelos emissores com… | cvm-col-20180313-d0990 | fichas/colegiado/2018-06.md |
+| termo-compromisso | 19957.003189/2017-78 | 2018-02-27 | aceito | O Colegiado aceitou, acompanhando o Comitê, proposta de Termo de Compromisso de R$ 200.000,00 do diretor de relações com investidores da… | cvm-col-20180227-d0969 | fichas/tc/2018-01.md |
+| termo-compromisso | 19957.002342/2017-40 | 2018-02-27 | aceito | O Colegiado aceitou proposta de termo de compromisso de um diretor de relações com investidores de companhia aberta, por divulgação… | cvm-col-20180227-d0753 | fichas/tc/2018-01.md |
+| acordao-crsfn | RJ2009/8439 | 2018-02-21 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Não prestação de informações periódicas e eventuais. Não elaboração de demonstrações financeiras. Não… | crsfn-14212 | fichas/crsfn/2018-02.md |
+| acordao-crsfn | RJ2010/8784 | 2018-02-21 | absolvicao | RECURSO DE OFÍCIO. Não divulgação de fato relevante. Responsabilidade dos membros do Conselho Fiscal não configurada. Recurso Conhecido… | crsfn-13904 | fichas/crsfn/2018-01.md |
+| pas | RJ2016/7352 | 2018-02-20 | parcial | Não realização de assembleia geral ordinária – não elaboração e não envio à CVM de informações periódicas obrigatórias. Absolvição e Multa. | cvm-pas-rj2016-7352 | fichas/pas/2018-02.md |
+| pas | RJ2015/10215 | 2018-02-20 | parcial | Descumprimento do dever de elaborar e enviar à CVM as informações periódicas obrigatórias – não convocação da assembleia geral ordinária… | cvm-pas-rj2015-10215 | fichas/pas/2018-02.md |
+| termo-compromisso | 19957.002672/2017-35 | 2018-02-20 | aceito | O Colegiado, por unanimidade, aceitou proposta de termo de compromisso de diretor de relações com investidores da Tereos Internacional… | cvm-col-20180220-d0965 | fichas/tc/2018-01.md |
+| termo-compromisso | 19957.005462/2017-07; RJ2017/2515 | 2018-01-30 | aceito | Por unanimidade, acompanhando o Comitê de Termo de Compromisso, o Colegiado aceitou a proposta de TC do diretor de relações com… | cvm-col-20180130-d0915 | fichas/tc/2018-01.md |
+| termo-compromisso | 19957.001633/2017-11; RJ2017/0873 | 2018-01-30 | aceito | O Colegiado aceitou propostas de termo de compromisso de dois administradores da Petro Rio S.A. pela omissão no formulário de referência… | cvm-col-20180130-d0913 | fichas/tc/2018-01.md |
+| pas | RJ2014/7352 | 2018-01-16 | absolvicao | Suposta omissão de informações nos Formulários ITRs da companhia. Absolvições. | cvm-pas-rj2014-7352 | fichas/pas/2018-01.md |
+| pas | RJ2016/5734 | 2017-12-22 | condenacao | Descumprimento da obrigação de envio de informações periódicas à CVM. Multas. | cvm-pas-rj2016-5734 | fichas/pas/2017-13.md |
+| pas | RJ2017/2048 | 2017-12-19 | condenacao | Descumprimento do dever de enviar à CVM informações obrigatórias estipuladas nas normas reguladoras expedidas por esta Comissão de Valores… | cvm-pas-rj2017-2048 | fichas/pas/2017-13.md |
+| termo-compromisso | 19957.002632/2017-93 | 2017-12-19 | aceito | O Colegiado aceitou, por unanimidade, proposta de termo de compromisso de ex-diretor de relações com investidores de companhia siderúrgica… | cvm-col-20171219-d0879 | fichas/tc/2017-06.md |
+| pas | RJ2016/8172 | 2017-12-14 | parcial | Não elaboração das demonstrações financeiras da companhia – não realização da assembleia geral ordinária e não envio das informações… | cvm-pas-rj2016-8172 | fichas/pas/2017-11.md |
+| pas | RJ2016/5499 | 2017-12-14 | condenacao | Não elaboração das demonstrações financeiras – não convocação de assembleias gerais ordinárias – descumprimento do dever de enviar à CVM as… | cvm-pas-rj2016-5499 | fichas/pas/2017-11.md |
+| acordao-crsfn | RJ2013/4660 | 2017-12-12 | condenacao | RECURSO VOLUNTÁRIO. Diretor de Relação com Investidores. Divulgação intempestiva de fatos relevantes. Oscilações atípicas nas quantidades e… | crsfn-14334 | fichas/crsfn/2017-15.md |
+| acordao-crsfn | RJ2014/3814 | 2017-12-12 | condenacao | RECURSO VOLUNTÁRIO. Fato Relevante. Divulgação intempestiva. Autoria e materialidade comprovadas. Multa Pecuniária. Recurso não provido. | crsfn-14175 | fichas/crsfn/2017-14.md |
+| acordao-crsfn | RJ2008/9511 | 2017-12-12 | parcial | RECURSO VOLUNTÁRIO. CVM. Não divulgação de fato relevante. Diretor de Relações com Investidores. Recurso parcialmente provido. | crsfn-12664 | fichas/crsfn/2017-14.md |
+| pas | RJ2014/12710 | 2017-12-05 | absolvicao | Divulgação intempestiva, ou incompleta, de fato relevante – não divulgação de fato relevante – suposto descumprimento do dever de informar… | cvm-pas-rj2014-12710 | fichas/pas/2017-09.md |
+| pas | RJ2016/7791 | 2017-11-28 | parcial | Descumprimento do dever dos administradores de enviar à CVM as informações periódicas da companhia. Não elaboração e não envio à CVM de… | cvm-pas-rj2016-7791 | fichas/pas/2017-08.md |
+| pas | RJ2016/5735 | 2017-11-28 | condenacao | Descumprimento da obrigação de enviar à CVM as informações periódicas da companhia. Multas. | cvm-pas-rj2016-5735 | fichas/pas/2017-08.md |
+| acordao-crsfn | RJ2013/9463 | 2017-11-21 | parcial | RECURSOS VOLUNTÁRIOS. Elaboração de Formulário de Referência com informações incompletas, inconsistentes e com texto sem clareza. Demora na… | crsfn-14089 | fichas/crsfn/2017-14.md |
+| decisao-colegiado | SP2014/0139 | 2017-11-07 | nao-provido | O Colegiado negou provimento a recurso de acionista da CSN contra conclusões da SEP em reclamações sobre divulgação de informações do Termo… | cvm-col-20171107-d9983 | fichas/colegiado/2017-19.md |
+| acordao-crsfn | RJ2012/14871 | 2017-10-25 | parcial | RECURSOS VOLUNTÁRIOS. Fato Relevante. Divulgação intempestiva. Emissor estrangeiro de títulos negociados no país. Responsabilidades do… | crsfn-13938 | fichas/crsfn/2017-14.md |
+| acordao-crsfn | RJ2010/11350 | 2017-10-25 | absolvicao | RECURSO DE OFÍCIO. CVM. Síndico da massa falida. Dever de prestar informações da Companhia. Recurso de Ofício desprovido. | crsfn-13882 | fichas/crsfn/2017-14.md |
+| termo-compromisso | 19957.001328/2017-29; RJ2017/0664 | 2017-10-10 | aceito | O Colegiado, por unanimidade, aceitou proposta de termo de compromisso de R$ 200.000,00 à CVM apresentada por diretor de RI da Petrobras… | cvm-col-20171010-d0812 | fichas/tc/2017-04.md |
+| pas | RJ2015/1591 | 2017-09-26 | absolvicao | Apurar a eventual responsabilidade do ex-diretor de relações com investidores do SEB – Sistema Educacional Brasileiro S.A., pelo… | cvm-pas-rj2015-1591 | fichas/pas/2017-07.md |
+| termo-compromisso | RJ2014/9034 | 2017-09-19 | aceito | O Colegiado aceitou, por unanimidade, nova proposta de termo de compromisso de três administradores de companhia aberta, acusados de… | cvm-col-20170919-d9771 | fichas/tc/2017-04.md |
+| acordao-crsfn | RJ2014/8017 | 2017-09-19 | condenacao | RECURSO VOLUNTÁRIO. Mercado de valores mobiliários. Não elaboração das demonstrações financeiras da Companhia referente ao exercício social… | crsfn-10372-100164-2017-18 | fichas/crsfn/2017-12.md |
+| acordao-crsfn | 10/11352 | 2017-09-11 | condenacao | RECURSOS VOLUNTÁRIOS. Falta de atualização do cadastro da companhia perante a CVM. Não elaboração de demonstrações financeiras. Não… | crsfn-13414 | fichas/crsfn/2017-12.md |
+| termo-compromisso | 19957.000414/2017-14; RJ2017/0106 | 2017-09-05 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou proposta de termo de compromisso de diretor de relações com investidores de… | cvm-col-20170905-d0789 | fichas/tc/2017-04.md |
+| termo-compromisso | 19957.006903/2016-07; RJ2016/7808 | 2017-08-29 | rejeitado | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou propostas de Termo de Compromisso de dois administradores da Metalúrgica… | cvm-col-20170829-d0774 | fichas/tc/2017-03.md |
+| decisao-colegiado | SP2015/0084 | 2017-08-29 | nao-provido | O Colegiado negou provimento a recurso de acionistas do Banco Cruzeiro do Sul contra decisão da SEP que não exigiu a divulgação de… | cvm-col-20170829-d0236 | fichas/colegiado/2017-15.md |
+| decisao-colegiado | SP2014/0404 | 2017-08-22 | parcial | Por erro material, o Colegiado retificou sua decisão de 11.07.2017 e deferiu parcialmente recurso contra entendimento da SEP sobre… | cvm-col-20170822-d9658 | fichas/colegiado/2017-14.md |
+| acordao-crsfn | RJ2015/9276 | 2017-08-22 | condenacao | RECURSO VOLUNTÁRIO. Comissão de Valores Mobiliários. Formulário trimestral inconsistente. Recurso desprovido. | crsfn-10372-000119-2017-64 | fichas/crsfn/2017-11.md |
+| acordao-crsfn | RJ-2012-8094 | 2017-07-25 | condenacao | RECURSO VOLUNTÁRIO. CVM. Sociedade Anônima. Informações periódicas ou eventuais. Atraso na entrega. Recurso desprovido. | crsfn-14325 | fichas/crsfn/2017-11.md |
+| termo-compromisso | 19957.006103/2016-88; RJ2016/7352 | 2017-07-11 | rejeitado | O Colegiado, por unanimidade, rejeitou propostas de termo de compromisso de uma companhia estrangeira e de seu antigo representante legal… | cvm-col-20170711-d0729 | fichas/tc/2017-03.md |
+| acordao-crsfn | RJ2013/2400 | 2017-06-28 | condenacao | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Não Divulgação de Fato Relevante. Diretor de Relação com Investidores, e de forma subsidiária… | crsfn-14262 | fichas/crsfn/2017-10.md |
+| acordao-crsfn | RJ2013/509 | 2017-06-28 | parcial | RECURSO VOLUNTÁRIO. Mercado de valores mobiliários - Deixar de divulgar Fato Relevante - Recurso parcialmente provido, com redução do valor… | crsfn-14216 | fichas/crsfn/2017-10.md |
+| acordao-crsfn | RJ-2010-12042 | 2017-06-28 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Deixar de entregar tempestivamente informações periódicas a CVM - Deixar de elaborar demonstrações… | crsfn-13936 | fichas/crsfn/2017-10.md |
+| acordao-crsfn | RJ-2013-10909 | 2017-06-27 | condenacao | Recurso Voluntário. Ausência de divulgação tempestiva de fato relevante. Materialidade configurada. | crsfn-14282 | fichas/crsfn/2017-09.md |
+| acordao-crsfn | RJ-2013-10321 | 2017-06-27 | parcial | Recursos Voluntários e de Ofício. Deixar de divulgar tempestivamente fato relevante acerca do cancelamento do pedido de registro da oferta… | crsfn-14271 | fichas/crsfn/2017-09.md |
+| acordao-crsfn | RJ2013/7916 | 2017-06-27 | parcial | RECURSOS VOLUNTÁRIOS. Companhia aberta. Administradores. Não divulgação tempestiva de Fato Relevante. Advertências e Multas. Recursos… | crsfn-14270 | fichas/crsfn/2017-09.md |
+| termo-compromisso | RJ2014/12753 | 2017-06-06 | aceito | O Colegiado, por unanimidade, aceitou nova proposta de termo de compromisso de sete administradores da Rossi Residencial S.A., no total de… | cvm-col-20170606-d0112 | fichas/tc/2017-02.md |
+| pas | RJ2016/8116 | 2017-05-30 | absolvicao | Não divulgação de fato relevante. Absolvição. | cvm-pas-rj2016-8116 | fichas/pas/2017-05.md |
+| decisao-colegiado | 10/2016; 480/2009; RJ2010/7374 | 2017-05-22 | — | O Colegiado iniciou a discussão da minuta de instrução, elaborada após a Audiência Pública SDM 10/2016, que altera a Instrução CVM 480/2009… | cvm-col-20170522-d3185 | fichas/colegiado/2017-10.md |
+| acordao-crsfn | RJ-2014-8793 | 2017-04-19 | condenacao | Recursos Voluntários. Deixar de elaborar tempestivamente demonstrações financeiras - Deixar de convocar tempestivamente assembleias gerais… | crsfn-14363 | fichas/crsfn/2017-07.md |
+| acordao-crsfn | RJ-2012-10128 | 2017-04-19 | condenacao | Recurso Voluntário. Companhia aberta. Não divulgação de fato relevante. Não entrega de informações exigidas pela Instrução CVM nº 480/09… | crsfn-13902 | fichas/crsfn/2017-06.md |
+| acordao-crsfn | RJ2014/5807 | 2017-04-19 | condenacao | Recursos Voluntários. Irregularidades nos livros de Registro e de Transferência de Ações. Não ter feito elaborar as demonstrações… | crsfn-10372-000718-2016-05 | fichas/crsfn/2017-06.md |
+| pas | RJ2014/6225 | 2017-04-18 | parcial | Não divulgação de fato relevante. Multa e absolvições. | cvm-pas-rj2014-6225 | fichas/pas/2017-02.md |
+| termo-compromisso | 19957.000344/2017-02 | 2017-04-18 | aceito | O Colegiado, por unanimidade, aceitou proposta de termo de compromisso de R$ 200.000,00 apresentada por diretor de relações com… | cvm-col-20170418-d0661 | fichas/tc/2017-02.md |
+| decisao-colegiado | 19957.002933/2017-17 | 2017-03-31 | deferido | O Colegiado acolheu pedido de exceção à imediata divulgação de fato relevante da Metalgráfica Iguaçu S.A.: a companhia pode optar por não… | cvm-col-20170331-d0642 | fichas/colegiado/2017-07.md |
+| decisao-colegiado | 19957.002670/2017-46 | 2017-03-28 | deferido | O Colegiado decidiu que a Metalgráfica Iguaçu S.A. pode optar por não divulgar a informação, sem notificação ao Colegiado, desde que a… | cvm-col-20170328-d0636 | fichas/colegiado/2017-07.md |
+| acordao-crsfn | RJ-2011-7937 | 2017-03-14 | condenacao | CRSFN. Comissão de Valores Mobiliários. Recursos Voluntários. Omissão de prestação de informações periódicas; não elaboração das… | crsfn-14108 | fichas/crsfn/2017-04.md |
+| acordao-crsfn | RJ8091/2012 | 2017-03-14 | condenacao | RECURSO VOLUNTÁRIO. Diretor de Relações com Investidores - atraso e não envio de informações. | crsfn-13751 | fichas/crsfn/2017-03.md |
+| decisao-colegiado | RJ2013/7516 | 2017-03-07 | indeferido | O Colegiado indeferiu, por unanimidade, o pedido da Petrobras de efeito suspensivo à divulgação imediata do Ofício da SEP que determinou… | cvm-col-20170307-d0599 | fichas/colegiado/2017-05.md |
+| decisao-colegiado | SP2016/0001 | 2017-03-07 | nao-provido | O Colegiado indeferiu, por unanimidade, o recurso do espólio contra entendimento da SEP que não identificou irregularidade na falta de fato… | cvm-col-20170307-d0279 | fichas/colegiado/2017-05.md |
+| termo-compromisso | 19957.003984/2016-85; RJ2016/5499 | 2017-02-07 | rejeitado | O Colegiado rejeitou, por unanimidade, as propostas de Termo de Compromisso de administradores e ex-administradores da RJ Capital Partners… | cvm-col-20170207-d0564 | fichas/tc/2017-01.md |
+| termo-compromisso | 19957.002817/2016-17; RJ2016/4728 | 2017-01-24 | aceito | O Colegiado aceitou proposta conjunta de termo de compromisso de administradores da Taípe Trancoso Empreendimentos S.A. em PAS sobre atraso… | cvm-col-20170124-d0376 | fichas/tc/2017-01.md |
+| decisao-colegiado | 19957.007794/2016-37 | 2017-01-17 | parcial | O Colegiado, por unanimidade, acompanhou a SEP em consulta da Klabin S.A. sobre dispensa de avaliação (art. 264 da Lei 6.404/1976). A SEP… | cvm-col-20170117-d0546 | fichas/colegiado/2017-02.md |
+| decisao-colegiado | 19957.000465/2017-46 | 2017-01-11 | outro | O Colegiado decidiu que a companhia pode optar por não divulgar fato relevante, sem notificar a CVM, se houver legítimo interesse e a… | cvm-col-20170111-d543 | fichas/colegiado/2017-01.md |
+| termo-compromisso | 19957.000944/2016-81; RJ2016/1459 | 2016-12-20 | aceito | O Colegiado aceitou a proposta de termo de compromisso de diretor de RI da Viver Incorporadora e Construtora S.A., acompanhando o Comitê… | cvm-col-20161220-d0469 | fichas/tc/2016-06.md |
+| termo-compromisso | 19957.001878/2016-67; RJ2016/4377 | 2016-12-20 | aceito | O Colegiado aceitou, por unanimidade, proposta de Termo de Compromisso de R$ 200.000,00, acompanhando o Comitê, em processo por divulgação… | cvm-col-20161220-d0468 | fichas/tc/2016-06.md |
+| pas | RJ2015/11258 | 2016-12-15 | condenacao | Não elaboração de demonstrações financeiras – Não manutenção atualizada da escrituração contábil da companhia – Não convocação e não… | cvm-pas-rj2015-11258 | fichas/pas/2016-17.md |
+| acordao-crsfn | RJ-2014-2050 | 2016-12-14 | condenacao | Recurso Voluntário. Falta de divulgação de fato relevante em face da veiculação de notícias na imprensa informando da renúncia do Diretor… | crsfn-14255 | fichas/crsfn/2016-11.md |
+| pas | RJ2015/8456 | 2016-12-13 | parcial | Não elaboração de demonstrações financeiras – Não manutenção atualizada da escrituração contábil da companhia – Não envio à CVM de DFPs… | cvm-pas-rj2015-8456-2 | fichas/pas/2016-15.md |
+| pas | RJ2015/3387 | 2016-12-13 | parcial | Descumprimento do dever de enviar à CVM informações periódicas – Não elaboração das demonstrações financeiras referentes ao exercício… | cvm-pas-rj2015-3387 | fichas/pas/2016-15.md |
+| pas | RJ2015/12595 | 2016-12-13 | absolvicao | Não divulgação de fato relevante – Divulgação intempestiva e por meio inadequado das informações contidas no Comunicado ao Mercado de… | cvm-pas-rj2015-12595 | fichas/pas/2016-14.md |
+| pas | RJ2014/3839 | 2016-12-13 | parcial | Irregularidades no preenchimento dos Formulários de Referências. Absolvições e multas pecuniárias. | cvm-pas-rj2014-3839 | fichas/pas/2016-14.md |
+| pas | 19957.002323/2016-32; RJ2015/4134 | 2016-12-13 | condenacao | Não elaboração das demonstrações financeiras dos exercícios sociais findos em 31.12.2011, 31.12.2012, 31.12.2013 e 31.12.2014 – não… | cvm-pas-19957-002323-2016-32 | fichas/pas/2016-14.md |
+| pas | RJ2015/12594 | 2016-12-06 | absolvicao | Divulgação intempestiva de fato relevante. Absolvição. | cvm-pas-rj2015-12594 | fichas/pas/2016-14.md |
+| termo-compromisso | 19957.002800/2016-60; RJ2016/4729 | 2016-11-29 | aceito | O Colegiado aceitou proposta de Termo de Compromisso de R$ 200.000,00 do DRI da TIM Participações S.A., acusado de divulgação intempestiva… | cvm-col-20161129-d0442 | fichas/tc/2016-05.md |
+| acordao-crsfn | RJ-2011-9885 | 2016-11-29 | condenacao | Recurso de ofício. Deixar de enviar, no prazo regulamentar, documentos e informações periódicas e obrigatórias à CVM - Recurso provido… | crsfn-14176 | fichas/crsfn/2016-09.md |
+| pas | RJ2015/3141 | 2016-11-22 | parcial | Não elaboração de demonstrações financeiras – não manutenção da escrituração contábil da companhia – não convocação e não realização da… | cvm-pas-rj2015-3141 | fichas/pas/2016-12.md |
+| pas | RJ2014/8017 | 2016-11-22 | condenacao | Não elaboração de demonstrações financeiras – atraso no envio e não envio de informações periódicas – não convocação e não realização de… | cvm-pas-rj2014-8017 | fichas/pas/2016-12.md |
+| pas | RJ2015/8186 | 2016-11-03 | parcial | Não convocação e não realização de assembleia geral ordinária. Multa. Não elaboração de demonstrações financeiras. Multa. Não manutenção… | cvm-pas-rj2015-8186 | fichas/pas/2016-11.md |
+| termo-compromisso | RJ2014/3402 | 2016-11-01 | rejeitado | O Colegiado rejeitou a proposta de Termo de Compromisso do proponente, diretor de RI da Petrobras, por omissão de fato relevante sobre… | cvm-col-20161101-d0416 | fichas/tc/2016-05.md |
+| decisao-colegiado | 19957.006030/2016-24 | 2016-11-01 | provido | O Colegiado, por unanimidade, deu provimento a recurso do Valor Econômico contra entendimento da SEP: a publicação adicional e resumida de… | cvm-col-20161101-d0368 | fichas/colegiado/2016-21.md |
+| acordao-crsfn | RJ-2011-13095 | 2016-10-26 | condenacao | Recurso voluntário. Companhia Aberta. Diretor de Relações com Investidores. Envio de informações periódicas obrigatórias à CVM despeitando… | crsfn-13933 | fichas/crsfn/2016-09.md |
+| pas | RJ2015/3216 | 2016-10-25 | parcial | Normal 0 21 false false false PT-BR X-NONE X-NONE MicrosoftInternetExplorer4 /* Style Definitions */ table.MsoNormalTable… | cvm-pas-rj2015-3216 | fichas/pas/2016-10.md |
+| acordao-crsfn | RJ2011/9493 | 2016-10-07 | arquivamento | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Atraso na entrega, à autoridade supervisora, de formulário de informações trimestrais… | crsfn-13690 | fichas/crsfn/2016-09.md |
+| pas | RJ2015/6319 | 2016-09-27 | parcial | Normal 0 21 false false false PT-BR X-NONE X-NONE MicrosoftInternetExplorer4 /* Style Definitions */ table.MsoNormalTable… | cvm-pas-rj2015-6319 | fichas/pas/2016-08.md |
+| acordao-crsfn | RJ-2011-14514 | 2016-09-27 | condenacao | RECURSO(S) VOLUNTÁRIO(S). Não divulgação de fato relevante - Multa Pecuniária - Não conhecimento do recurso voluntário - Conservação da… | crsfn-13730 | fichas/crsfn/2016-07.md |
+| termo-compromisso | RJ2016/4053 | 2016-09-20 | outro | O Colegiado, acompanhando o Comitê, rejeitou a proposta de Termo de Compromisso de um diretor, que não previa ressarcimento do dano difuso… | cvm-col-20160920-d0170 | fichas/tc/2016-04.md |
+| decisao-colegiado | RJ2014/4181 | 2016-09-13 | nao-provido | O Colegiado, por unanimidade, indeferiu recurso da WLM Indústria e Comércio contra a SEP, que considerou obrigatória a divulgação da… | cvm-col-20160913-d9168 | fichas/colegiado/2016-18.md |
+| decisao-colegiado | 358/2002; RJ2013/5398 | 2016-09-13 | nao-provido | O Colegiado indeferiu, por maioria, recurso contra a SEP e manteve seu entendimento: a comunicação de participação acionária do art. 12 da… | cvm-col-20160913-d8952 | fichas/colegiado/2016-18.md |
+| acordao-crsfn | RJ-2012-10069 | 2016-08-24 | condenacao | Mercado de valores mobiliários – Descumprimento do dever legal de divulgar ao mercado Fato Relevante – Irregularidade caracterizadas… | crsfn-14261 | fichas/crsfn/2016-07.md |
+| pas | RJ2015/9276 | 2016-08-23 | condenacao | Normal 0 21 false false false PT-BR X-NONE X-NONE MicrosoftInternetExplorer4 /* Style Definitions */ table.MsoNormalTable… | cvm-pas-rj2015-9276 | fichas/pas/2016-06.md |
+| termo-compromisso | RJ2015/10545 | 2016-08-23 | rejeitado | O Colegiado rejeitou as propostas de termo de compromisso da companhia e de seu ex-representante legal no PAS RJ2015/10545, sobre falta de… | cvm-col-20160823-d0336 | fichas/tc/2016-04.md |
+| acordao-crsfn | RJ-2014-2314 | 2016-08-23 | condenacao | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Descumprimento do dever legal de divulgar ao mercado Fato Relevante e retardar… | crsfn-14414 | fichas/crsfn/2016-06.md |
+| acordao-crsfn | RJ-2011-8224 | 2016-08-23 | condenacao | Mercado de valores mobiliários. Não divulgação de fato relevante. O Recorrente, ao conhecer o fato relevante e não o divulgar quando da… | crsfn-13931 | fichas/crsfn/2016-05.md |
+| pas | RJ2015/3231 | 2016-08-02 | condenacao | Não elaboração de demonstrações financeiras - não convocação e não realização de assembleia geral ordinária - não manutenção atualizada da… | cvm-pas-rj2015-3231 | fichas/pas/2016-05.md |
+| pas | RJ2015/3103 | 2016-08-02 | condenacao | Não elaboração de demonstrações financeiras - não convocação e não realização de assembleia geral ordinária - não manutenção atualizada da… | cvm-pas-rj2015-3103 | fichas/pas/2016-05.md |
+| termo-compromisso | RJ2015/6842 | 2016-07-12 | aceito | O Colegiado, por maioria, acompanhando o Comitê, aceitou a proposta de Termo de Compromisso do diretor de relações com investidores de… | cvm-col-20160712-d0297 | fichas/tc/2016-03.md |
+| pas | RJ2015/4018 | 2016-06-28 | parcial | Normal 0 21 false false false PT-BR X-NONE X-NONE MicrosoftInternetExplorer4 /* Style Definitions */ table.MsoNormalTable… | cvm-pas-rj2015-4018 | fichas/pas/2016-03.md |
+| acordao-crsfn | Recurso SEI 0372.000645/2016-43 | 2016-06-28 | condenacao | RECURSO VOLUNTÁRIO– Mercado de valores mobiliários – Diretor de Relações com Investidores (DRI) - Falta de comunicação tempestiva à… | crsfn-recurso-sei-0372-000645-2016-43 | fichas/crsfn/2016-05.md |
+| acordao-crsfn | RJ2011/7381 | 2016-06-28 | parcial | RECURSO VOLUNTÁRIO E DE OFÍCIO - Mercado de valores mobiliários – Diretor de Relações com Investidores (DRI) – Atraso ou não envio de… | crsfn-10372-000608-2016-35 | fichas/crsfn/2016-04.md |
+| acordao-crsfn | RJ2011/9483 | 2016-05-31 | arquivamento | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Descumprimento do dever de enviar informações periódicas à autoridade supervisora (ata… | crsfn-14397 | fichas/crsfn/2016-04.md |
+| decisao-colegiado | 358/2002; RJ2015/6981 | 2016-05-18 | — | O Colegiado deu início à discussão da minuta de Instrução que altera a Instrução CVM 358/2002, sobre divulgação e uso de informações de ato… | cvm-col-20160518-d2844 | fichas/colegiado/2016-10.md |
+| termo-compromisso | RJ2015/3440 | 2016-05-03 | aceito | O Colegiado, por unanimidade, aceitou proposta de termo de compromisso do diretor de relações com investidores da SABESP no PAS… | cvm-col-20160503-d0190 | fichas/tc/2016-02.md |
+| termo-compromisso | RJ2016/0135 | 2016-05-03 | rejeitado | O Colegiado rejeitou, por unanimidade, proposta de Termo de Compromisso de R$ 10.000,00 apresentada por diretor de relações com… | cvm-col-20160503-d0013 | fichas/tc/2016-02.md |
+| decisao-colegiado | RJ2015/7661 | 2016-03-22 | deferido | O Colegiado deferiu, por unanimidade, acompanhando a SEP, o pedido da Gerdau S.A. de autorização para negociação privada de ações de… | cvm-col-20160322-d0146 | fichas/colegiado/2016-07.md |
+| pas | RJ2014/5807 | 2016-03-15 | condenacao | Normal 0 21 false false false PT-BR X-NONE X-NONE MicrosoftInternetExplorer4 /* Style Definitions */ table.MsoNormalTable… | cvm-pas-rj2014-5807 | fichas/pas/2016-01.md |
+| acordao-crsfn | RJ2012/3168 | 2016-02-23 | condenacao | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Divulgação intempestiva de fato relevante - Presentes os elementos necessários… | crsfn-13625 | fichas/crsfn/2016-02.md |
+| acordao-crsfn | RJ2012/3457 | 2016-01-21 | condenacao | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Diretor de Relação com Investidores – Descumprimento do dever de divulgar… | crsfn-13626 | fichas/crsfn/2016-01.md |
+| acordao-crsfn | RJ2011/7390 | 2016-01-21 | condenacao | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Diretor de Relação com Investidores – Atraso ou não envio de… | crsfn-13425 | fichas/crsfn/2016-01.md |
+| acordao-crsfn | RJ2011/7379 | 2016-01-21 | condenacao | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Diretor de Relação com Investidores – Descumprimento do dever de encaminhar… | crsfn-13417 | fichas/crsfn/2016-01.md |
+| acordao-crsfn | 04/2007 | 2016-01-21 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Falta de manutenção do registro atualizado de companhia aberta… | crsfn-13274 | fichas/crsfn/2016-01.md |
+| acordao-crsfn | RJ2010/4195 | 2016-01-21 | condenacao | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Falta de divulgação de fato relevante – Violação do art. 157, da Lei nº… | crsfn-13258 | fichas/crsfn/2016-01.md |
+| termo-compromisso | RJ2014/9695 | 2015-12-15 | aceito | O Colegiado aceitou proposta de Termo de Compromisso de três diretores da Ideiasnet S.A., acompanhando o Comitê, com pagamento conjunto de… | cvm-col-20151215-d9985 | fichas/tc/2015-05.md |
+| acordao-crsfn | RJ2011/7939 | 2015-12-15 | parcial | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Responsabilidade de Diretor de Relações com Investidores - Falta de manutenção… | crsfn-13624 | fichas/crsfn/2015-05.md |
+| pas | RJ2015/3529 | 2015-12-08 | parcial | Não elaboração de demonstrações financeiras – Não realização de Assembleias Gerais Ordinárias – Não entrega de informações periódicas… | cvm-pas-rj2015-3529 | fichas/pas/2015-13.md |
+| termo-compromisso | RJ2014/14161 | 2015-12-08 | rejeitado | O Colegiado, acompanhando o Comitê, rejeitou propostas de Termo de Compromisso de R$ 10.000,00 cada de dois administradores da RJCP Equity… | cvm-col-20151208-d9962 | fichas/tc/2015-05.md |
+| termo-compromisso | RJ2013/12595 | 2015-12-08 | aceito | O Colegiado aceitou nova proposta de termo de compromisso do diretor de relações com investidores da Eneva S.A. (ex-MPX Energia), de R$… | cvm-col-20151208-d9572 | fichas/tc/2015-04.md |
+| termo-compromisso | RJ2014/10859 | 2015-12-01 | aceito | Apreciação de proposta de termo de compromisso. PAS RJ2014/10859. | cvm-col-20151201-d9959 | fichas/tc/2015-04.md |
+| pas | RJ2014/2314 | 2015-10-27 | condenacao | Normal 0 21 false false false PT-BR X-NONE X-NONE /* Style Definitions */ table.MsoNormalTable {mso-style-name:"Tabela normal"… | cvm-pas-rj2014-2314 | fichas/pas/2015-12.md |
+| acordao-crsfn | RJ2009/9439 | 2015-09-22 | condenacao | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários - Inobservância do dever de sigilo – Não divulgação de fato relevante – Não… | crsfn-13395 | fichas/crsfn/2015-05.md |
+| decisao-colegiado | RJ2012/3454 | 2015-08-04 | parcial | Recursos contra decisão da SEP em julgamento de processo de rito sumário. PAS RJ2012/3454. | cvm-col-20150804-d8926 | fichas/colegiado/2015-14.md |
+| decisao-colegiado | RJ2015/3002 | 2015-07-28 | parcial | O Colegiado deferiu parcialmente o pedido de tratamento sigiloso da Thunnus Participações S.A. para documentos da alienação de controle da… | cvm-col-20150728-d9749 | fichas/colegiado/2015-14.md |
+| acordao-crsfn | RJ2011/7377 | 2015-07-28 | condenacao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Diretor de Relações com Investidores - Atraso ou não envio de informações periódicas… | crsfn-13416 | fichas/crsfn/2015-03.md |
+| acordao-crsfn | 16/2009 | 2015-07-28 | condenacao | RECURSO(S) VOLUNTÁRIO(S)– Mercado de valores mobiliários – Descumprimento do dever legal de antecipar ao mercado a divulgação de Fato… | crsfn-13404 | fichas/crsfn/2015-03.md |
+| acordao-crsfn | RJ2009/12672 | 2015-07-28 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falta de manutenção de registro atualizado de companhia aberta perante a autoridade… | crsfn-13378 | fichas/crsfn/2015-03.md |
+| pas | RJ2014-8793 | 2015-07-21 | condenacao | Normal 0 21 false false false PT-BR X-NONE X-NONE MicrosoftInternetExplorer4 /* Style Definitions */ table.MsoNormalTable… | cvm-pas-rj2014-8793 | fichas/pas/2015-08.md |
+| pas | 09/2009 | 2015-07-21 | parcial | Suposto descumprimento do dever de diligência – Não convocação de Assembleia Geral. Absolvições. Descumprimento do dever de informar – não… | cvm-pas-09-2009 | fichas/pas/2015-07.md |
+| termo-compromisso | RJ2014/9501 | 2015-07-21 | aceito | O Colegiado aceitou proposta de termo de compromisso do proponente, diretor de RI da Eneva S.A., por descumprimento do art. 4º, parágrafo… | cvm-col-20150721-d9772 | fichas/tc/2015-03.md |
+| decisao-colegiado | RJ2013/5470 | 2015-07-14 | nao-provido | O Colegiado, com base no voto do relator, manteve a decisão de 24.03.15 e a da SEP, que dispensou a Brookfield Incorporações S.A. de… | cvm-col-20150714-d9305 | fichas/colegiado/2015-13.md |
+| decisao-colegiado | SP2014/0017 | 2015-07-14 | nao-provido | O Colegiado negou provimento ao recurso dos reclamantes contra entendimento da SEP sobre o Relatório de Atividades da Petrobras (dívida com… | cvm-col-20150714-d9208 | fichas/colegiado/2015-13.md |
+| decisao-colegiado | RJ2011/9483 | 2015-07-14 | nao-provido | Recurso de ofício em julgamento de processo de rito sumário. PAS RJ2011/9483. | cvm-col-20150714-d8062 | fichas/colegiado/2015-13.md |
+| decisao-colegiado | RJ2012/8094 | 2015-07-07 | parcial | Recurso contra decisão da SEP em julgamento de processo de rito sumário. PAS RJ2012/8094. | cvm-col-20150707-d8708 | fichas/colegiado/2015-12.md |
+| pas | RJ2013/4660 | 2015-07-01 | condenacao | /* Style Definitions */ table.MsoNormalTable {mso-style-name:"Tabela normal"; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0… | cvm-pas-rj2013-4660 | fichas/pas/2015-07.md |
+| acordao-crsfn | RJ2011/7389 | 2015-06-30 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Diretor de Relações com Investidores - Não fornecimento, nos prazos regulamentares, de… | crsfn-13418 | fichas/crsfn/2015-03.md |
+| termo-compromisso | RJ2014/7213 | 2015-06-09 | rejeitado | O Colegiado rejeitou, por unanimidade, a proposta conjunta de termo de compromisso de quatro proponentes, diretores da Hopi Hari S.A., no… | cvm-col-20150609-d9682 | fichas/tc/2015-03.md |
+| decisao-colegiado | RJ2013/12595 | 2015-06-02 | outro | O Colegiado aprovou a recapitulação proposta pelo relator, que reenquadra a conduta do diretor de RI no art. 6º, parágrafo único, da… | cvm-col-20150602-d9572 | fichas/colegiado/2015-09.md |
+| decisao-colegiado | RJ2014/6629 | 2015-06-02 | nao-provido | O Colegiado negou o pedido de reconsideração da ALL e manteve a decisão de 10.03.15, que confirmou a SEP no Formulário de Referência 2014… | cvm-col-20150602-d9342 | fichas/colegiado/2015-09.md |
+| pas | RJ2012/1730 | 2015-05-19 | absolvicao | Suposto descumprimento, por parte do DRI da companhia, do dever de fornecer informações obrigatórias. Absolvição. | cvm-pas-rj2012-1730 | fichas/pas/2015-05.md |
+| termo-compromisso | RJ2014/5478 | 2015-05-05 | aceito | O Colegiado, por unanimidade, aceitou proposta de termo de compromisso de R$ 400.000,00 de ex-diretor da Açúcar Guarani S.A. no PAS… | cvm-col-20150505-d9642 | fichas/tc/2015-02.md |
+| pas | 08/2009 | 2015-04-28 | condenacao | Descumprimento, por parte do Diretor de Relações com Investidores da Companhia, do seu dever de diligenciar, junto a pessoas com acesso a… | cvm-pas-08-2009 | fichas/pas/2015-04.md |
+| pas | RJ2012/1542 | 2015-03-31 | condenacao | Não comunicação tempestiva à CVM de informações superiores a 5% ocorridas nas participações acionárias. Multa. | cvm-pas-rj2012-1542 | fichas/pas/2015-04.md |
+| pas | RJ2012/10069 | 2015-03-31 | condenacao | Não divulgação de fato relevante. Advertência. | cvm-pas-rj2012-10069 | fichas/pas/2015-04.md |
+| decisao-colegiado | — | 2015-03-24 | outro | Em pedido de exceção à divulgação imediata, o Colegiado decidiu que a companhia pode deixar de divulgar fato relevante sem notificar o… | cvm-col-20150324-d9610 | fichas/colegiado/2015-05.md |
+| decisao-colegiado | RJ2013/5470 | 2015-03-24 | nao-provido | O Colegiado negou provimento ao recurso do reclamante contra decisão da SEP que concluiu não haver fato relevante a divulgar pela… | cvm-col-20150324-d9305 | fichas/colegiado/2015-05.md |
+| acordao-crsfn | RJ-2008-12216 | 2015-03-24 | parcial | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Divulgação de informações relevantes a respeito de planos de investimento de… | crsfn-13070 | fichas/crsfn/2015-01.md |
+| pas | RJ2014/2050 | 2015-03-18 | condenacao | Não divulgação de fato relevante. Multa. | cvm-pas-rj2014-2050 | fichas/pas/2015-03.md |
+| pas | RJ2013/7916 | 2015-03-18 | condenacao | Não divulgação tempestiva de fato relevante. Advertências e multas. | cvm-pas-rj2013-7916 | fichas/pas/2015-03.md |
+| pas | RJ2013/2400 | 2015-03-18 | parcial | Não divulgação de fato relevante. Absolvições e Multas. | cvm-pas-rj2013-2400 | fichas/pas/2015-03.md |
+| pas | RJ2013/10909 | 2015-03-18 | condenacao | Não divulgação de fato relevante. Multa. | cvm-pas-rj2013-10909 | fichas/pas/2015-03.md |
+| pas | RJ2013/10321 | 2015-03-18 | parcial | Não divulgação de fato relevante. Absolvições, advertências e multas. | cvm-pas-rj2013-10321 | fichas/pas/2015-02.md |
+| pas | 01/2013 | 2015-03-10 | condenacao | Não publicação de fato relevante – descumprimento do dever de diligência - Advertências. | cvm-pas-01-2013 | fichas/pas/2015-02.md |
+| decisao-colegiado | RJ2014/6629 | 2015-03-10 | nao-provido | O Colegiado negou provimento ao recurso da ALL contra a SEP, que determinou reapresentar o Formulário de Referência de 2014, acompanhando o… | cvm-col-20150310-d9342 | fichas/colegiado/2015-04.md |
+| decisao-colegiado | RJ2011/2854 | 2015-02-24 | nao-provido | O Colegiado negou provimento ao recurso da Tempo Capital contra entendimento da SEP que não apurou responsabilidade dos administradores da… | cvm-col-20150224-d7729 | fichas/colegiado/2015-03.md |
+| termo-compromisso | RJ2013/12595 | 2015-02-10 | rejeitado | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou a proposta de termo de compromisso de R$ 200.000,00 do diretor de RI da Eneva… | cvm-col-20150210-d9572 | fichas/tc/2015-01.md |
+| pas | RJ2013/0509 | 2015-01-27 | condenacao | Não divulgação de fato relevante. | cvm-pas-rj2013-0509 | fichas/pas/2015-01.md |
+| decisao-colegiado | SP2014/0062 | 2015-01-07 | deferido | O Colegiado deferiu pedido da ALL – América Latina Logística S.A. de tratamento sigiloso para documento enviado à SEP, por natureza… | cvm-col-20150107-d9515 | fichas/colegiado/2015-01.md |
+| termo-compromisso | RJ2013/8696 | 2014-12-16 | aceito | O Colegiado aceitou, por unanimidade, as propostas de nove administradores da Multiner S.A., acompanhando o Comitê; seis delas, com… | cvm-col-20141216-d02 | fichas/tc/2014-05.md |
+| termo-compromisso | RJ2014/2314 | 2014-12-09 | rejeitado | O Colegiado rejeitou proposta de Termo de Compromisso de diretor de RI por falta de divulgação de fato relevante sobre tratativas de venda… | cvm-col-20141209-d08 | fichas/tc/2014-05.md |
+| termo-compromisso | RJ2014/2050 | 2014-12-09 | rejeitado | O Colegiado rejeitou, por unanimidade, proposta de termo de compromisso de R$ 200.000,00 do diretor de relações com investidores da CCX… | cvm-col-20141209-d07 | fichas/tc/2014-05.md |
+| termo-compromisso | RJ2013/12570 | 2014-12-09 | aceito | O Colegiado aceitou, acompanhando o Comitê, a proposta de termo de compromisso do diretor de relações com investidores de companhia aberta… | cvm-col-20141209-d05 | fichas/tc/2014-05.md |
+| decisao-colegiado | — | 2014-12-09 | deferido | O Colegiado deferiu pedido da Embraer S.A. de tratamento sigiloso à correspondência enviada em resposta a ofício da SEP (art. 56, § 3º, da… | cvm-col-20141209-d01-r3 | fichas/colegiado/2014-25.md |
+| termo-compromisso | RJ2013/9737 | 2014-12-02 | aceito | O Colegiado aceitou, por unanimidade, proposta de termo de compromisso de um acionista controlador e administrador da Frigorífico… | cvm-col-20141202-d16 | fichas/tc/2014-05.md |
+| termo-compromisso | RJ2013/2400 | 2014-12-02 | rejeitado | O Colegiado rejeitou nova proposta de termo de compromisso de dois administradores da LLX Logística S.A., de R$ 250.000,00 cada (R$… | cvm-col-20141202-d08 | fichas/tc/2014-04.md |
+| pas | 04/2012 | 2014-11-25 | parcial | Suposto descumprimento do disposto no item I da Deliberação CVM nº 20/95. Absolvição. Não informação de aquisição de ações de emissão da… | cvm-pas-04-2012 | fichas/pas/2014-09.md |
+| termo-compromisso | RJ2014/3606 | 2014-11-18 | aceito | O Colegiado aceitou, por unanimidade, proposta de termo de compromisso de R$ 200.000,00 apresentada por ex-diretor de RI da Renova Energia… | cvm-col-20141118-d02 | fichas/tc/2014-03.md |
+| decisao-colegiado | — | 2014-11-17 | deferido | O Colegiado deferiu o pedido da Embraer S.A. de tratamento sigiloso à correspondência protocolada em 14.11.2014, em resposta a ofício da… | cvm-col-20141117-d01 | fichas/colegiado/2014-22.md |
+| termo-compromisso | RJ2013/8604 | 2014-11-11 | aceito | O Colegiado aceitou apenas a proposta pecuniária de Termo de Compromisso, de R$ 200.000,00, do diretor de relações com investidores da… | cvm-col-20141111-d01 | fichas/tc/2014-03.md |
+| decisao-colegiado | — | 2014-11-05 | indeferido | O Colegiado indeferiu o pedido de tratamento sigiloso à consulta da COELBA, por a consulta não se enquadrar no § 3º do art. 56 da Instrução… | cvm-col-20141105-d01 | fichas/colegiado/2014-21.md |
+| decisao-colegiado | — | 2014-11-03 | deferido | O Colegiado deferiu pedido da Embraer de tratamento sigiloso para correspondência protocolada em 27.10.2014, em atendimento a ofício da SEP… | cvm-col-20141103-d01 | fichas/colegiado/2014-20.md |
+| pas | RJ2014/3814 | 2014-10-21 | — | Divulgação intempestiva de fato relevante. Multa.. | cvm-pas-rj2014-3814 | fichas/pas/2014-08.md |
+| decisao-colegiado | RJ2014/2476 | 2014-10-21 | outro | O Colegiado arquivou, por perda de objeto, o pedido do Banco Industrial e Comercial S.A. de dispensa do laudo de avaliação (art. 264 da Lei… | cvm-col-20141021-d01 | fichas/colegiado/2014-19.md |
+| acordao-crsfn | RJ2010/11567 | 2014-10-21 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Descumprimento do dever de divulgar, tempestivamente, informações… | crsfn-13334 | fichas/crsfn/2014-07.md |
+| decisao-colegiado | RJ2014/11126 | 2014-10-20 | parcial | O Colegiado deferiu tratamento sigiloso aos Anexos 1, 6, 9, 10 e 11 e aos anexos A a D do Anexo 5, nos termos do § 3º do art. 56 da… | cvm-col-20141020-d01 | fichas/colegiado/2014-19.md |
+| termo-compromisso | RJ2014/3423 | 2014-10-07 | rejeitado | O Colegiado rejeitou as quatro propostas de termo de compromisso de administradores da CCX, acusados de omissão ou atraso na divulgação de… | cvm-col-20141007-d02 | fichas/tc/2014-03.md |
+| termo-compromisso | RJ2014/0782 | 2014-10-07 | rejeitado | O Colegiado rejeitou seis propostas de termo de compromisso de administradores da OGX Petróleo e Gás Participações S.A., acompanhando o… | cvm-col-20141007-d01 | fichas/tc/2014-03.md |
+| termo-compromisso | RJ2013/11592 | 2014-09-09 | aceito | O Colegiado aceitou proposta de Termo de Compromisso do diretor de relações com investidores de um banco, pela não divulgação tempestiva de… | cvm-col-20140909-d03 | fichas/tc/2014-02.md |
+| termo-compromisso | RJ2013/10299 | 2014-09-09 | aceito | O Colegiado aceitou, por unanimidade, a proposta de termo de compromisso de um diretor de relações com investidores da Coelce por não… | cvm-col-20140909-d02 | fichas/tc/2014-02.md |
+| pas | RJ2012/3787 | 2014-09-02 | condenacao | Não divulgação de fato relevante. Multa. | cvm-pas-rj2012-3787 | fichas/pas/2014-06.md |
+| acordao-crsfn | RJ-2008-11199 | 2014-08-26 | arquivamento | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Descumprimento do dever dos administradores de informar ao mercado fatos que… | crsfn-12839 | fichas/crsfn/2014-05.md |
+| pas | RJ2012/1670 | 2014-07-29 | absolvicao | Suposta responsabilidade pelo não fornecimento de informações exigidas pela Instrução CVM nº 481/09. Absolvição. | cvm-pas-rj2012-1670 | fichas/pas/2014-06.md |
+| pas | RJ2013/9463 | 2014-07-22 | condenacao | Irregularidades na divulgação e na atualização de informações exigidas no preenchimento do Formulário de Referência 2011 (FRE), versões 9 E… | cvm-pas-rj2013-9463 | fichas/pas/2014-05.md |
+| acordao-crsfn | RJ-2008-9022 | 2014-07-22 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Divulgação intempestiva de fato relevante- Negociação de ações em períodos vedados… | crsfn-12977 | fichas/crsfn/2014-04.md |
+| decisao-colegiado | — | 2014-07-11 | indeferido | O Colegiado indeferiu, em preliminar, o pedido de tratamento confidencial da Gafisa S.A. e da Construtora Tenda S.A. sobre autorização para… | cvm-col-20140711-d01 | fichas/colegiado/2014-13.md |
+| decisao-colegiado | RJ2014/3101 | 2014-06-23 | deferido | O Colegiado deferiu pedido da Gaia Agro Securitizadora S.A. de tratamento confidencial a contratos enviados à SRE e à SEP no registro de… | cvm-col-20140623-d01 | fichas/colegiado/2014-12.md |
+| pas | RJ2013/8695 | 2014-06-03 | condenacao | Não envio, ou envio com atraso, de informações periódicas – Não elaboração de demonstrações financeiras relativas a exercícios sociais… | cvm-pas-rj2013-8695 | fichas/pas/2014-04.md |
+| decisao-colegiado | RJ2012/8095 | 2014-06-03 | provido | Recurso contra decisão da SEP em julgamento de processo de rito sumário. | cvm-col-20140603-d06 | fichas/colegiado/2014-11.md |
+| acordao-crsfn | RJ-2009-2146 | 2014-06-03 | condenacao | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Não elaboração de demonstrações financeiras - Falta de envio ou atraso na… | crsfn-13232 | fichas/crsfn/2014-04.md |
+| acordao-crsfn | RJ-2006-8572 | 2014-06-03 | condenacao | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Falta de manutenção de registro atualizado de companhia aberta… | crsfn-13177 | fichas/crsfn/2014-04.md |
+| decisao-colegiado | RJ2014/3101 | 2014-05-27 | deferido | O Colegiado deferiu pedido de tratamento confidencial da Gaia Agro Securitizadora S.A. sobre contratos enviados à SRE e à SEP no registro… | cvm-col-20140527-d01-r2 | fichas/colegiado/2014-10.md |
+| acordao-crsfn | RJ-2010-1582 | 2014-05-13 | parcial | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Não divulgação oportuna de fato relevante acerca de negociações para venda de imóvel… | crsfn-13359 | fichas/crsfn/2014-04.md |
+| acordao-crsfn | RJ-2009-1365 | 2014-05-13 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Falta de comunicação (ou comunicação deficiente) de operações com… | crsfn-13231 | fichas/crsfn/2014-03.md |
+| acordao-crsfn | RJ-2007-8150 | 2014-05-13 | condenacao | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Falta de atualização de registro de companhia - Não elaboração de… | crsfn-12757 | fichas/crsfn/2014-03.md |
+| termo-compromisso | RJ2013/5640 | 2014-05-06 | aceito | O Colegiado aceitou proposta de termo de compromisso do proponente, diretor de relações com investidores da Magazine Luiza S.A., no PAS… | cvm-col-20140506-d07 | fichas/tc/2014-01.md |
+| termo-compromisso | RJ2013/8699 | 2014-05-06 | aceito | O Colegiado aceitou proposta conjunta de termo de compromisso de três administradores da Companhia Celg de Participações (CELGPAR), no… | cvm-col-20140506-d06 | fichas/tc/2014-01.md |
+| termo-compromisso | SP2013/0260 | 2014-05-06 | aceito | O Colegiado aceitou, por unanimidade, proposta de termo de compromisso de ex-diretor financeiro de companhia, com pagamento de R$… | cvm-col-20140506-d05 | fichas/tc/2014-01.md |
+| acordao-crsfn | RJ-2007-4685 | 2014-04-15 | parcial | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Falta de envio de informações periódicas e eventuais à entidade supervisora… | crsfn-13229 | fichas/crsfn/2014-03.md |
+| acordao-crsfn | RJ-2009-2172 | 2014-04-15 | condenacao | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Ausência de comunicação de alienação de participação acionária relevante… | crsfn-13097 | fichas/crsfn/2014-02.md |
+| decisao-colegiado | — | 2014-04-11 | parcial | O Colegiado deferiu em parte pedido de confidencialidade da Forjas Taurus S.A. (ICVM 480/09, art. 56, § 4º): indeferiu quanto aos Anexos 2… | cvm-col-20140411-d01 | fichas/colegiado/2014-07.md |
+| decisao-colegiado | RJ2013/10549 | 2014-04-10 | deferido | O Colegiado deferiu pedido de tratamento confidencial da Oi S.A. sobre o mapa de votações da AGE de 27/03/2014 (§ 3º do art. 56 da ICVM… | cvm-col-20140410-d01 | fichas/colegiado/2014-07.md |
+| decisao-colegiado | — | 2014-03-28 | indeferido | O Colegiado indeferiu pedido de tratamento confidencial a dois acordos de acionistas apresentados no registro de companhia aberta categoria… | cvm-col-20140328-d01 | fichas/colegiado/2014-06.md |
+| decisao-colegiado | — | 2014-03-27 | deferido | O Colegiado deferiu pedido de acionistas da CPFL Energia (fundo e Bonaire) para não divulgar fato potencialmente relevante sobre possível… | cvm-col-20140327-d01 | fichas/colegiado/2014-06.md |
+| decisao-colegiado | — | 2014-03-07 | deferido | O Colegiado deferiu pedido de tratamento confidencial, com base no art. 56, §3º, da Instrução CVM 480/09, para correspondência enviada à… | cvm-col-20140307-d01 | fichas/colegiado/2014-04.md |
+| pas | RJ2013/9990 | 2014-02-25 | absolvicao | Susposta divulgação intempestiva de fato relevante. Absolvição. | cvm-pas-rj2013-9990 | fichas/pas/2014-01.md |
+| decisao-colegiado | — | 2014-02-24 | deferido | O Colegiado deferiu pedido de tratamento confidencial, com base no art. 56, §3º, da Instrução CVM 480/09, para informações enviadas à SEP… | cvm-col-20140224-d01 | fichas/colegiado/2014-03.md |
+| decisao-colegiado | — | 2014-02-18 | deferido | O Colegiado deferiu pedido de tratamento confidencial de informações prestadas à SEP pela Discovery Capital Management, LLC, com base no §… | cvm-col-20140218-d01-r3 | fichas/colegiado/2014-03.md |
+| acordao-crsfn | RJ-2008-2209 | 2014-02-18 | condenacao | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Ausência de publicação de Fato Relevante – Falta de comunicação, ao mercado e à… | crsfn-12824 | fichas/crsfn/2014-01.md |
+| decisao-colegiado | — | 2014-01-29 | deferido | O Colegiado deferiu pedido de tratamento confidencial a documentos enviados pela TIM Participações S.A., com base no § 3º do art. 56 da… | cvm-col-20140129-d01-r2 | fichas/colegiado/2014-02.md |
+| acordao-crsfn | RJ-2008-6250 | 2014-01-21 | condenacao | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Elaboração de demonstrações financeiras - Falta de atualização de… | crsfn-12905 | fichas/crsfn/2014-01.md |
+| decisao-colegiado | — | 2013-12-18 | deferido | O Colegiado deferiu tratamento confidencial às informações sobre a composição acionária completa e atual da controladora BTG Pactual… | cvm-col-20131218-d01 | fichas/colegiado/2013-24.md |
+| termo-compromisso | RJ2013/5657 | 2013-12-17 | aceito | O Colegiado aceitou a proposta de Termo de Compromisso do diretor de relações com investidores do Itaú Unibanco Holding S.A., por suposta… | cvm-col-20131217-d12 | fichas/tc/2013-06.md |
+| termo-compromisso | RJ2013/5555 | 2013-12-17 | aceito | O Colegiado aceitou, por unanimidade, a proposta de Termo de Compromisso do controlador da Companhia Brasileira de Distribuição, acusado de… | cvm-col-20131217-d08 | fichas/tc/2013-06.md |
+| pas | RJ2012/4136 | 2013-12-10 | condenacao | Marina Park Descumprimento do dever de enviar tempestivamente à CVM documentos e informações periódicas obrigatórias. Multa. | cvm-pas-rj2012-4136 | fichas/pas/2013-14.md |
+| pas | RJ2011/9885 | 2013-12-10 | parcial | WIEST Descumprimento por parte dos administradores da companhia do dever de enviar à CVM as informações periódicas no prazo legal. – não… | cvm-pas-rj2011-9885 | fichas/pas/2013-13.md |
+| pas | RJ2011/7941 | 2013-12-10 | parcial | Predileto Alimentos Descumprimento por parte dos administradores da companhia do dever de enviar à CVM as informações periódicas e/ou… | cvm-pas-rj2011-7941 | fichas/pas/2013-13.md |
+| pas | RJ2011/7937 | 2013-12-10 | condenacao | Botucatu Têxtil Descumprimento por parte dos administradores da companhia do dever de enviar à CVM as informações periódicas no prazo… | cvm-pas-rj2011-7937 | fichas/pas/2013-13.md |
+| pas | RJ2011/13095 | 2013-12-10 | condenacao | Ferragens Aparelhos Elétricos Atraso no envio à CVM de informações periódicas obrigatórias. Multa. | cvm-pas-rj2011-13095 | fichas/pas/2013-13.md |
+| pas | RJ2010/12042 | 2013-12-10 | parcial | Cachoeira Velonorte Descumprimento por parte dos administradores da companhia do dever de enviar à CVM as informações periódicas no prazo… | cvm-pas-rj2010-12042 | fichas/pas/2013-12.md |
+| pas | RJ2009/8439 | 2013-12-10 | parcial | [pessoa física] Descumprimento por parte dos administradores da companhia do dever de enviar à CVM as informações periódicas no prazo… | cvm-pas-rj2009-8439 | fichas/pas/2013-12.md |
+| decisao-colegiado | RJ2011/7381 | 2013-12-10 | parcial | Recurso contra decisão da SEP em julgamento de processo de rito sumário. | cvm-col-20131210-d06 | fichas/colegiado/2013-23.md |
+| pas | RJ2011/8224 | 2013-12-03 | condenacao | BANCO PANAMERICANO S.A. Não divulgação de fato relevante. Multa. | cvm-pas-rj2011-8224 | fichas/pas/2013-12.md |
+| pas | RJ2012/14871 | 2013-11-26 | condenacao | LAEP Descumprimento do princípio da ampla divulgação (full disclosure) em infração ao disposto no art. 3o da Instrução CVM no 358/2002, que… | cvm-pas-rj2012-14871 | fichas/pas/2013-11.md |
+| acordao-crsfn | RJ-2008-12124 | 2013-11-26 | outro | RECURSO(S) VOLUNTÁRIO(S) Mercado de valores mobiliários – Ausência de publicação de Fato Relevante - Não apresentação de premissas e… | crsfn-13144 | fichas/crsfn/2013-05.md |
+| termo-compromisso | RJ2013/2400 | 2013-11-19 | rejeitado | O Colegiado rejeitou a proposta conjunta de três administradores da LLX Logística S.A. (R$ 450.000,00) e a proposta de um outro… | cvm-col-20131119-d04 | fichas/tc/2013-05.md |
+| acordao-crsfn | RJ-2010-11572 | 2013-10-30 | absolvicao | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Elaboração de demonstrações financeiras - Falta de envio ou atraso no envio de… | crsfn-13187 | fichas/crsfn/2013-05.md |
+| acordao-crsfn | RJ-2007-10843 | 2013-10-30 | parcial | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Descumprimento do dever de comunicar à entidade supervisora a aquisição de… | crsfn-12446 | fichas/crsfn/2013-05.md |
+| termo-compromisso | RJ2013/5638 | 2013-10-29 | aceito | O Colegiado aceitou duas propostas de termo de compromisso de administradores da Amil Participações S.A. por não divulgação de fatos… | cvm-col-20131029-d01 | fichas/tc/2013-05.md |
+| decisao-colegiado | 358/2002; RJ2013/3945 | 2013-10-22 | nao-provido | O Colegiado não conheceu do pedido de reconsideração da RJCP Equity S.A. e, no mérito, manteve a decisão de 07.05.2013, que negou recurso… | cvm-col-20131022-d01 | fichas/colegiado/2013-20.md |
+| termo-compromisso | RJ2013/5582 | 2013-10-15 | aceito | O Colegiado aceitou proposta de termo de compromisso de diretor de relações com investidores da Via Varejo, acusado de não divulgar de… | cvm-col-20131015-d03 | fichas/tc/2013-04.md |
+| decisao-colegiado | RJ2013/7298 | 2013-10-01 | indeferido | O Colegiado indeferiu pedido da Eneva S.A. de tratamento confidencial às declarações de voto de membros do conselho de administração (art… | cvm-col-20131001-d01-r2 | fichas/colegiado/2013-18.md |
+| acordao-crsfn | RJ-2009-5286 | 2013-09-25 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Representante de investidor não residente - Falta de comunicação, à entidade… | crsfn-13085 | fichas/crsfn/2013-05.md |
+| acordao-crsfn | RJ-2009-4140 | 2013-09-25 | condenacao | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Não elaboração de demonstrações financeiras - Falta de envio (ou atraso na… | crsfn-13043 | fichas/crsfn/2013-04.md |
+| acordao-crsfn | 25/04 | 2013-09-25 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Não comunicação, por membro do conselho de administração, à… | crsfn-12353 | fichas/crsfn/2013-04.md |
+| acordao-crsfn | RJ-2006-4850 | 2013-09-25 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Elaboração de demonstrações financeiras - Falta de envio ou atraso… | crsfn-12045 | fichas/crsfn/2013-04.md |
+| pas | RJ2012/5754 | 2013-09-10 | parcial | ELETROPAR Imputação de atraso na elaboração e na divulgação das demonstrações financeiras da companhia. Absolvições. Convocação de… | cvm-pas-rj2012-5754 | fichas/pas/2013-09.md |
+| pas | RJ2012/10128 | 2013-09-10 | condenacao | Construtora Beter Não divulgação de fato relevante – não entrega de informações exigidas pela Instrução CVM nº 480/09 – envio do 2º ITR de… | cvm-pas-rj2012-10128 | fichas/pas/2013-09.md |
+| acordao-crsfn | RJ2009/4163 | 2013-08-26 | condenacao | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Elaboração de demonstrações financeiras - Descumprimento ou atraso no envio de… | crsfn-12996 | fichas/crsfn/2013-03.md |
+| acordao-crsfn | RJ2006/4511 | 2013-08-26 | condenacao | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Ausência de elaboração de demonstrações financeiras - Falta de envio ou atraso… | crsfn-12888 | fichas/crsfn/2013-03.md |
+| termo-compromisso | RJ2012/8095 | 2013-08-20 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso de R$ 20.000,00 apresentada por um diretor de relações com investidores de… | cvm-col-20130820-d05 | fichas/tc/2013-04.md |
+| pas | RJ2012/3630 | 2013-08-13 | parcial | ELETROBRAS Imputação de intempestividade na divulgação das demonstrações financeiras da companhia. Absolvição. Realização intempestiva da… | cvm-pas-rj2012-3630 | fichas/pas/2013-08.md |
+| decisao-colegiado | RJ2013/7307 | 2013-08-02 | deferido | O Colegiado deferiu o pedido da OSX Brasil S.A. de tratamento confidencial para novo plano de negócios, com base no § 3º do art. 56 da… | cvm-col-20130802-d01 | fichas/colegiado/2013-14.md |
+| termo-compromisso | RJ2013/3353 | 2013-07-30 | aceito | O Colegiado aceitou proposta de termo de compromisso do diretor de relações com investidores da Gol, acusado de não divulgar fato relevante… | cvm-col-20130730-d03 | fichas/tc/2013-03.md |
+| acordao-crsfn | RJ-2008-2569 | 2013-07-30 | condenacao | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Não elaboração de demonstrações financeiras - Falta de envio ou atraso na… | crsfn-13275 | fichas/crsfn/2013-03.md |
+| termo-compromisso | RJ2012/10128 | 2013-07-16 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso do diretor de relações com investidores da Construtora Beter S.A. (PAS RJ2012/10128)… | cvm-col-20130716-d03 | fichas/tc/2013-03.md |
+| termo-compromisso | RJ2012/7867 | 2013-07-02 | aceito | Apreciação de proposta de termo de compromisso. | cvm-col-20130702-d02 | fichas/tc/2013-03.md |
+| termo-compromisso | RJ2012/9832 | 2013-06-13 | aceito | O Colegiado aceitou proposta de termo de compromisso de administradores da All Ore Mineração S.A. (ex-diretor presidente e de RI e três… | cvm-col-20130613-d05 | fichas/tc/2013-03.md |
+| termo-compromisso | RJ2012/8094 | 2013-06-13 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de diretor de relações com investidores de companhia aberta, no valor de R$… | cvm-col-20130613-d04 | fichas/tc/2013-03.md |
+| termo-compromisso | RJ2012/13871 | 2013-06-13 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso apresentada por quatro administradores da EMAE, acompanhando o Comitê, que a… | cvm-col-20130613-d03 | fichas/tc/2013-02.md |
+| pas | RJ2010/8784 | 2013-06-11 | parcial | CONSTRUTORA BETER Não divulgação de fato relevante. Absolvições, advertências e multa. | cvm-pas-rj2010-8784 | fichas/pas/2013-06.md |
+| decisao-colegiado | RJ2012/8335 | 2013-06-11 | deferido | O Colegiado deferiu tratamento confidencial a documentos da BM&FBOVESPA apresentados em atendimento ao Ofício CVM/SEP/GEA-3/322/2013… | cvm-col-20130611-d01 | fichas/colegiado/2013-11.md |
+| pas | RJ2010/1380 | 2013-05-28 | condenacao | CELM não elaboração de Demonstrações Financeiras – não convocação e não realização de Assembleias Gerais Ordinárias – não adoção de medidas… | cvm-pas-rj2010-1380 | fichas/pas/2013-05.md |
+| acordao-crsfn | RJ-2009-4133 | 2013-05-21 | condenacao | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Falta de envio ou atraso na remessa de informações periódicas à autoridade… | crsfn-12825 | fichas/crsfn/2013-02.md |
+| termo-compromisso | RJ2012/8093 | 2013-05-14 | aceito | O Colegiado aceitou, por unanimidade, proposta de termo de compromisso de um diretor de relações com investidores no valor de R$ 35.000,00… | cvm-col-20130514-d02 | fichas/tc/2013-02.md |
+| termo-compromisso | RJ2012/5036 | 2013-05-14 | aceito | O Colegiado aceitou a proposta de termo de compromisso de R$ 200.000,00 do diretor de RI da CEMIG, acusado de não divulgar fato relevante… | cvm-col-20130514-d01 | fichas/tc/2013-02.md |
+| decisao-colegiado | RJ2012/8091 | 2013-05-07 | nao-provido | Recurso contra decisão da SEP em julgamento de processo de rito sumário. PAS RJ2012/8091. | cvm-col-20130507-d06 | fichas/colegiado/2013-10.md |
+| decisao-colegiado | 358/2002; RJ2013/3945 | 2013-05-07 | nao-provido | O Colegiado negou provimento, por unanimidade, ao recurso da RJCP Equity S.A. contra exigência da SEP de formulários de negociação de… | cvm-col-20130507-d05 | fichas/colegiado/2013-10.md |
+| decisao-colegiado | — | 2013-05-02 | deferido | O Colegiado deferiu pedido de tratamento confidencial de documentos da Artesia Gestão de Recursos S.A., enviados em atendimento a ofício da… | cvm-col-20130502-d01 | fichas/colegiado/2013-09.md |
+| decisao-colegiado | — | 2013-05-02 | deferido | O Colegiado deferiu pedido de tratamento confidencial de documento da Restoque, apresentado em atendimento a ofício da SEP, com base no §… | cvm-col-20130502-d01-r3 | fichas/colegiado/2013-09.md |
+| decisao-colegiado | — | 2013-05-02 | deferido | O Colegiado, considerando a atuação da SEP no caso e o § 3º do art. 56 da Instrução CVM 480/09, deferiu tratamento confidencial a documento… | cvm-col-20130502-d01-r2 | fichas/colegiado/2013-09.md |
+| pas | RJ2011/14514 | 2013-04-30 | condenacao | ELECTRO AçO ALTONA não divulgação de fato relevante. Multa. | cvm-pas-rj2011-14514 | fichas/pas/2013-05.md |
+| pas | RJ2012/8591 | 2013-04-09 | absolvicao | CAMARGO CORRêA Não divulgação tempestiva de fato relevante. Absolvição. | cvm-pas-rj2012-8591 | fichas/pas/2013-04.md |
+| pas | RJ2010/12043 | 2013-04-02 | condenacao | Fiação Tecelagem São José Descumprimento das obrigações de envio de informações periódicas à CVM. Não envio tempestivo à CVM de formulários… | cvm-pas-rj2010-12043 | fichas/pas/2013-03.md |
+| pas | RJ2010/11350 | 2013-04-02 | parcial | Companhia Paulista de Fertilizantes não elaboração, no prazo legal, de demonstrações financeiras de exercícios sociais findos – não… | cvm-pas-rj2010-11350 | fichas/pas/2013-03.md |
+| decisao-colegiado | RJ2012/9073 | 2013-04-02 | deferido | O Colegiado deferiu pedido de tratamento confidencial de documentos enviados pela companhia em atendimento a ofício da SEP, com base no §… | cvm-col-20130402-d01-r2 | fichas/colegiado/2013-08.md |
+| pas | RJ2011/14269 | 2013-03-26 | parcial | SISA Não divulgação de fato relevante – omissão, nas notas explicativas às demonstrações financeiras da companhia, de informações… | cvm-pas-rj2011-14269 | fichas/pas/2013-03.md |
+| termo-compromisso | RJ2012/8087 | 2013-03-26 | aceito | O Colegiado aceitou, por unanimidade, proposta de termo de compromisso de R$ 35.000,00 apresentada pelo diretor de RI, acompanhando o… | cvm-col-20130326-d03 | fichas/tc/2013-02.md |
+| termo-compromisso | RJ2012/4464 | 2013-03-26 | aceito | O Colegiado aceitou, por unanimidade, proposta de termo de compromisso de um acionista no valor de R$ 250.000,00, acompanhando o Comitê… | cvm-col-20130326-d02 | fichas/tc/2013-01.md |
+| termo-compromisso | RJ2011/9483 | 2013-03-26 | — | O proponente, diretor de RI da CAGECE, apresentou nova proposta de termo de compromisso, de R$ 35.000,00, por atraso em informações… | cvm-col-20130326-d01 | fichas/tc/2013-01.md |
+| termo-compromisso | RJ2011/7940 | 2013-03-19 | aceito | Apreciação de proposta de termo de compromisso. | cvm-col-20130319-d01 | fichas/tc/2013-01.md |
+| decisao-colegiado | RJ2010/10383 | 2013-02-26 | nao-provido | Recurso contra decisão da SRE em julgamento de processo de rito sumário. | cvm-col-20130226-d03 | fichas/colegiado/2013-05.md |
+| decisao-colegiado | RJ2012/14908 | 2013-02-20 | deferido | O Colegiado deferiu tratamento confidencial a petição e documentos contábeis da Kepler Weber S.A. referentes ao exercício de 2012 (art. 56… | cvm-col-20130220-d01 | fichas/colegiado/2013-05.md |
+| decisao-colegiado | — | 2013-02-06 | indeferido | O Colegiado indeferiu pedido de tratamento confidencial formulado pela Laep Investments Ltd. com base no §3º do art. 56 da Instrução CVM… | cvm-col-20130206-d01-r2 | fichas/colegiado/2013-04.md |
+| pas | RJ2007/4665 | 2013-02-05 | condenacao | MESBLA não elaboração, no prazo legal, das demonstrações financeiras da Mesbla S.A. – não eleição de diretor de relações com investidores… | cvm-pas-rj2007-4665-2 | fichas/pas/2013-01.md |
+| termo-compromisso | RJ2012/3787 | 2013-02-05 | aceito | O Colegiado aceitou a proposta de termo de compromisso do proponente, diretor de relações com investidores da Marambaia Energia Renovável… | cvm-col-20130205-d04 | fichas/tc/2013-01.md |
+| termo-compromisso | RJ2011/14514 | 2013-02-05 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de diretor de relações com investidores da Electro Aço Altona S.A., acusado de não… | cvm-col-20130205-d03 | fichas/tc/2013-01.md |
+| decisao-colegiado | RJ2011/9493 | 2013-02-05 | provido | Recurso contra decisão da SEP em processo de rito sumário. PAS RJ2011/9493. | cvm-col-20130205-d01 | fichas/colegiado/2013-03.md |
+| decisao-colegiado | RJ2012/8335 | 2013-01-25 | deferido | O Colegiado deferiu pedido de tratamento confidencial, com base no art. 56, § 3º, da Instrução CVM 480/09, para documento sobre lista de… | cvm-col-20130125-d01 | fichas/colegiado/2013-02.md |
+| decisao-colegiado | — | 2013-01-10 | deferido | O Colegiado deferiu o pedido do Banco do Brasil S.A. para não divulgar fato potencialmente relevante sobre discussões preliminares para… | cvm-col-20130110-d01 | fichas/colegiado/2013-01.md |
+| acordao-crsfn | RJ-2008-9947 | 2013-01-10 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Falta de notícia tempestiva, à companhia, sobre compra de… | crsfn-12955 | fichas/crsfn/2013-01.md |
+| acordao-crsfn | RJ-2008-8843 | 2013-01-10 | condenacao | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Fato relevante - Falta de diligenciamento do diretor de relações com… | crsfn-12795 | fichas/crsfn/2013-01.md |
+| acordao-crsfn | RJ-2007-11415 | 2012-12-18 | arquivamento | RECURSO(S) DE OFÍCIO – Mercado de valores mobiliários – Aquisição de participação superior ao porcentual de 5% (cinco por cento) do capital… | crsfn-12697 | fichas/crsfn/2012-06.md |
+| pas | RJ2012/3457 | 2012-12-06 | condenacao | COMPANHIA INDUSTRIAL SCHLOSSER Não divulgação tempestiva de fato relevante. Multa. | cvm-pas-rj2012-3457 | fichas/pas/2012-06.md |
+| pas | RJ2011/7939 | 2012-12-06 | condenacao | GLOBAL BRASIL S.A. Não manutenção atualizada do registro de companhia aberta – não envio, ou envio com atraso, de informações periódicas e… | cvm-pas-rj2011-7939 | fichas/pas/2012-06.md |
+| acordao-crsfn | RJ-2009-3951 | 2012-12-05 | condenacao | RECURSO(S) VOLUNTÁRIO(S) – Mercado de Valores Mobiliários – Atraso ou não envio de informações periódicas ao órgão regulador… | crsfn-12973 | fichas/crsfn/2012-06.md |
+| decisao-colegiado | RJ2011/7383 | 2012-12-04 | provido | Recurso contra decisão da SEP. | cvm-col-20121204-d01 | fichas/colegiado/2012-22.md |
+| termo-compromisso | RJ2012/4138 | 2012-11-22 | aceito | O Colegiado, por unanimidade, aceitou a proposta de termo de compromisso do proponente, acompanhando o parecer do Comitê, com pagamento de… | cvm-col-20121122-d03 | fichas/tc/2012-06.md |
+| termo-compromisso | RJ2012/4137 | 2012-11-22 | aceito | O Colegiado aceitou, acompanhando o parecer do Comitê, proposta de termo de compromisso de R$ 200.000,00 apresentada por diretor de… | cvm-col-20121122-d02 | fichas/tc/2012-05.md |
+| pas | RJ2012/3168 | 2012-11-13 | condenacao | BANCO CRUZEIRO DO SUL S.A. Divulgação intempestiva de fato relevante. Multa. | cvm-pas-rj2012-3168 | fichas/pas/2012-05.md |
+| termo-compromisso | RJ2012/4235 | 2012-11-06 | aceito | O Colegiado aceitou a proposta de termo de compromisso da I.P.P.S.P.E. Empreendimentos e Participações S.A. de pagar R$ 100.000,00 à CVM… | cvm-col-20121106-d07 | fichas/tc/2012-05.md |
+| termo-compromisso | RJ2012/1643 | 2012-11-06 | aceito | O Colegiado aceitou a proposta de termo de compromisso do proponente, diretor de relações com investidores da Indústria Verolme S.A., no… | cvm-col-20121106-d06 | fichas/tc/2012-05.md |
+| decisao-colegiado | RJ2012/9448 | 2012-10-30 | deferido | O Colegiado deferiu pedido de tratamento confidencial da Laep Investments Ltd. para documento enviado em atendimento ao… | cvm-col-20121030-d02 | fichas/colegiado/2012-20.md |
+| decisao-colegiado | RJ2011/5683; RJ2011/8203 | 2012-10-30 | indeferido | O Colegiado indeferiu pedido de tratamento confidencial da Laep Investments Ltd. para documentos enviados à SEP, com base no §3º do art. 56… | cvm-col-20121030-d01 | fichas/colegiado/2012-20.md |
+| acordao-crsfn | RJ-2007-4376 | 2012-10-25 | condenacao | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Não elaboração de demonstrações financeiras - Falta de envio ou atraso no envio… | crsfn-12661 | fichas/crsfn/2012-05.md |
+| decisao-colegiado | RJ2012/9851 | 2012-10-18 | deferido | O Colegiado deferiu, a pedido da companhia, tratamento confidencial a documento enviado em resposta a ofício da SEP, com base no § 3º do… | cvm-col-20121018-d01 | fichas/colegiado/2012-19.md |
+| decisao-colegiado | RJ2010/14327 | 2012-10-17 | indeferido | O Colegiado indeferiu pedido da Marfrig Alimentos S.A. de efeito suspensivo à divulgação imediata do Ofício/CVM/SEP/GEA-5/Nº 329/12, que… | cvm-col-20121017-d01 | fichas/colegiado/2012-19.md |
+| pas | RJ2010/11353 | 2012-10-16 | condenacao | HUSKY não elaboração, dentro do prazo legal, de demonstrações financeiras – não convocação de AGOs – não manutenção atualizada do registro… | cvm-pas-rj2010-11353 | fichas/pas/2012-04.md |
+| pas | RJ2010/11351 | 2012-10-16 | condenacao | CIDADELA TRUST RECEBÍVEIS S.A. não elaboração, dentro do prazo legal, de demonstrações financeiras – não convocação de AGOs – não… | cvm-pas-rj2010-11351 | fichas/pas/2012-04.md |
+| decisao-colegiado | RJ2011/9493 | 2012-09-18 | — | Recurso contra decisão da SEP em processo de rito sumário. PAS RJ2011/9493. | cvm-col-20120918-d04 | fichas/colegiado/2012-17.md |
+| decisao-colegiado | RJ2012/9851 | 2012-09-11 | deferido | O Colegiado deferiu tratamento confidencial a documentos da Laep Investments Ltd. enviados à SEP, com base no §3º do art. 56 da Instrução… | cvm-col-20120911-d01 | fichas/colegiado/2012-16.md |
+| termo-compromisso | RJ2011/10821 | 2012-08-28 | aceito | O Colegiado aceitou proposta de termo de compromisso de R$ 20.000,00 apresentada pela proponente, acompanhando o relator, que considerou as… | cvm-col-20120828-d22 | fichas/tc/2012-05.md |
+| termo-compromisso | RJ2011/14269 | 2012-08-21 | rejeitado | O Colegiado rejeitou proposta conjunta de termo de compromisso de cinco administradores da Sergipe Industrial S.A. (SISA), de R$… | cvm-col-20120821-d04 | fichas/tc/2012-04.md |
+| acordao-crsfn | RJ–2007-14044 | 2012-08-13 | condenacao | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Quebra do dever de sigilo – Omissão de Fato Relevante – Falta de divulgação de… | crsfn-12506 | fichas/crsfn/2012-04.md |
+| acordao-crsfn | RJ-2006-5136 | 2012-08-13 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Descumprimento do dever de prestar informações periódicas à… | crsfn-12503 | fichas/crsfn/2012-04.md |
+| termo-compromisso | RJ2012/1542 | 2012-08-07 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso no PAS RJ2012/1542, acompanhando o parecer do Comitê, que considerou insuficiente o… | cvm-col-20120807-d04 | fichas/tc/2012-04.md |
+| termo-compromisso | RJ2010/12040 | 2012-08-07 | aceito | O Colegiado aceitou duas propostas de termo de compromisso de administradores da Biomm S.A. por atrasos na convocação de AGOs, em… | cvm-col-20120807-d03 | fichas/tc/2012-04.md |
+| termo-compromisso | RJ2010/11349 | 2012-08-07 | aceito | O Colegiado aceitou nova proposta de termo de compromisso, apresentada em conjunto por sete administradores da Carfepe S.A. (PAS… | cvm-col-20120807-d01 | fichas/tc/2012-04.md |
+| decisao-colegiado | — | 2012-07-30 | deferido | O Colegiado deferiu tratamento confidencial a documentos e informações da Laep Investments Ltd., com base no art. 56, §3º, da Instrução CVM… | cvm-col-20120730-d01 | fichas/colegiado/2012-13.md |
+| acordao-crsfn | RJ-2007-1079 | 2012-07-30 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Não divulgação e divulgação intempestiva de fato relevante… | crsfn-11834 | fichas/crsfn/2012-03.md |
+| acordao-crsfn | RJ-2006-4776 | 2012-07-30 | condenacao | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Não divulgação de fato relevante (concessão de empréstimos à acionista… | crsfn-11424 | fichas/crsfn/2012-03.md |
+| termo-compromisso | RJ2011/7948 | 2012-07-24 | aceito | O Colegiado aceitou nova proposta de termo de compromisso apresentada por um diretor da Manufatura de Brinquedos Estrela S.A., de R$… | cvm-col-20120724-d02 | fichas/tc/2012-04.md |
+| acordao-crsfn | RJ-2007-11851 | 2012-07-05 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Falta de a) atualização de registro de companhia aberta; de b)… | crsfn-12505 | fichas/crsfn/2012-03.md |
+| acordao-crsfn | RJ-2005-7740 | 2012-07-05 | condenacao | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Falta de envio de informações periódicas – Obrigatoriedade do cumprimento dos… | crsfn-12355 | fichas/crsfn/2012-03.md |
+| decisao-colegiado | RJ2011/7390 | 2012-07-03 | parcial | Recurso contra decisão da SEP em processo de rito sumário. | cvm-col-20120703-d11 | fichas/colegiado/2012-11.md |
+| termo-compromisso | RJ2012/3785 | 2012-07-03 | aceito | O Colegiado aceitou, acompanhando o parecer do Comitê, proposta de termo de compromisso de R$ 200.000,00 de um diretor de relações com… | cvm-col-20120703-d05 | fichas/tc/2012-03.md |
+| termo-compromisso | RJ2011/8755 | 2012-07-03 | aceito | O Colegiado aceitou três propostas de termo de compromisso, de R$ 100.000,00 cada, acompanhando o Comitê. Os proponentes foram acusados de… | cvm-col-20120703-d04 | fichas/tc/2012-03.md |
+| termo-compromisso | RJ2010/12041 | 2012-07-03 | rejeitado | O Colegiado rejeitou proposta conjunta de termo de compromisso de três administradores da Cimob Participações S.A., acompanhando o parecer… | cvm-col-20120703-d03 | fichas/tc/2012-03.md |
+| termo-compromisso | RJ2011/10752 | 2012-06-19 | aceito | O Colegiado aceitou, acompanhando o parecer do Comitê, propostas de termo de compromisso de seis pessoas ligadas a Invitel, Argolis, BTP e… | cvm-col-20120619-d02 | fichas/tc/2012-03.md |
+| termo-compromisso | RJ2011/10840 | 2012-06-12 | aceito | O Colegiado aceitou, acompanhando o parecer do Comitê, propostas de termo de compromisso de dois diretores de relações com investidores da… | cvm-col-20120612-d02 | fichas/tc/2012-03.md |
+| decisao-colegiado | RJ2012/4338 | 2012-05-15 | parcial | O Colegiado deferiu parcialmente o pedido da João Fortes na incorporação da Incorporadora Pinheiro Pereira S.A. (IPP): dispensou a… | cvm-col-20120515-d08 | fichas/colegiado/2012-09.md |
+| termo-compromisso | RJ2011/8580 | 2012-04-24 | aceito | O Colegiado aceitou proposta de termo de compromisso do DRI da LLX Logística S.A., acompanhando o parecer do Comitê, pelo pagamento de R$… | cvm-col-20120424-d03 | fichas/tc/2012-02.md |
+| termo-compromisso | RJ2010/12043 | 2012-04-24 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso apresentada em conjunto por cinco administradores da Fiação e Tecelagem São José… | cvm-col-20120424-d02 | fichas/tc/2012-02.md |
+| decisao-colegiado | RJ2011/7379 | 2012-04-17 | nao-provido | Recurso contra decisão da SEP em processo de rito sumário. PAS RJ2011/7379. | cvm-col-20120417-d15 | fichas/colegiado/2012-08.md |
+| acordao-crsfn | RJ-2010-11571 | 2012-04-16 | condenacao | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Falta de envio ou atraso na remessa de informações periódicas à autoridade… | crsfn-13226 | fichas/crsfn/2012-02.md |
+| termo-compromisso | RJ2011/7388 | 2012-04-03 | rejeitado | O Colegiado rejeitou nova proposta de termo de compromisso de R$ 50.000,00 apresentada pela DRI da Taipe Trancoso Empreendimentos S.A., por… | cvm-col-20120403-d02 | fichas/tc/2012-02.md |
+| termo-compromisso | RJ2011/9483 | 2012-04-03 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso de um diretor de relações com investidores da CAGECE, de R$ 35.000,00 e atualização… | cvm-col-20120403-d01 | fichas/tc/2012-02.md |
+| decisao-colegiado | RJ2011/7389 | 2012-03-20 | provido | Recurso contra decisão da SEP em processo de rito sumário. | cvm-col-20120320-d07 | fichas/colegiado/2012-05.md |
+| decisao-colegiado | RJ2011/7377 | 2012-03-20 | provido | Recurso contra decisão da SEP. | cvm-col-20120320-d06 | fichas/colegiado/2012-05.md |
+| termo-compromisso | RJ2010/11349 | 2012-03-06 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso apresentada em conjunto por sete administradores da Carfepe S.A., acompanhando o… | cvm-col-20120306-d13 | fichas/tc/2012-02.md |
+| pas | RJ2010/11352 | 2012-02-28 | condenacao | [pessoa física] Não envio à CVM, por mais de três anos, de informações periódicas e eventuais devidas – não elaboração de demonstrações… | cvm-pas-rj2010-11352 | fichas/pas/2012-01.md |
+| termo-compromisso | RJ2011/9493 | 2012-02-23 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso do DRI da Companhia Energética de Brasília – CEB, em PAS por atraso em informações… | cvm-col-20120223-d12 | fichas/tc/2012-02.md |
+| termo-compromisso | RJ2011/9481 | 2012-02-23 | aceito | O Colegiado aceitou proposta de termo de compromisso do DRI da Centennial Asset Participações Minas-Rio S.A., acompanhando o Comitê, com… | cvm-col-20120223-d11 | fichas/tc/2012-02.md |
+| termo-compromisso | RJ2011/9487 | 2012-02-23 | aceito | O Colegiado aceitou a proposta de termo de compromisso da proponente, diretora de relações com investidores da Multiner S.A., acusada de… | cvm-col-20120223-d10 | fichas/tc/2012-01.md |
+| termo-compromisso | RJ2011/9485 | 2012-02-23 | rejeitado | O Colegiado rejeitou as propostas de termo de compromisso de R$ 3.000,00 e R$ 5.000,00 apresentadas por dois administradores (ex-DRI e DRI)… | cvm-col-20120223-d09 | fichas/tc/2012-01.md |
+| termo-compromisso | RJ2011/7383 | 2012-02-23 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso do DRI da Lark S.A. Máquinas e Equipamentos, em PAS por atraso em informações… | cvm-col-20120223-d08 | fichas/tc/2012-01.md |
+| termo-compromisso | RJ2011/9488 | 2012-02-23 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso do DRI da Pothencia S.A. Reflorestadora, acompanhando o Comitê. Fundamento: óbice… | cvm-col-20120223-d07 | fichas/tc/2012-01.md |
+| termo-compromisso | RJ2011/9484 | 2012-02-23 | aceito | O Colegiado aceitou a proposta de termo de compromisso do proponente, diretor de relações com investidores da Eletrosom S.A., acusado de… | cvm-col-20120223-d06 | fichas/tc/2012-01.md |
+| termo-compromisso | RJ2011/9482 | 2012-02-23 | aceito | O Colegiado aceitou proposta de termo de compromisso de um diretor de relações com investidores da CEDAE, que pagará R$ 35.000,00 à CVM… | cvm-col-20120223-d05 | fichas/tc/2012-01.md |
+| termo-compromisso | RJ2011/9480 | 2012-02-23 | aceito | O Colegiado aceitou a proposta de termo de compromisso de R$ 35.000,00 do proponente, DRI da companhia, acusado de deixar de prestar… | cvm-col-20120223-d04 | fichas/tc/2012-01.md |
+| termo-compromisso | RJ2011/7948 | 2012-02-23 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso do proponente, à época Diretor de Relações com Investidores da Manufatura de… | cvm-col-20120223-d03 | fichas/tc/2012-01.md |
+| termo-compromisso | RJ2011/7374 | 2012-02-23 | rejeitado | O Colegiado rejeitou, acompanhando o Comitê, as propostas de termo de compromisso de dois DRIs da Sanesalto Saneamento S.A. (um atual e um… | cvm-col-20120223-d02 | fichas/tc/2012-01.md |
+| termo-compromisso | RJ2011/9483 | 2012-01-17 | aceito | O Colegiado retirou de pauta a proposta de um diretor de relações com investidores da CAGECE e aceitou a de outro, que se comprometeu a… | cvm-col-20120117-d01 | fichas/tc/2012-01.md |
+| decisao-colegiado | RJ2011/7385 | 2011-12-27 | parcial | Recurso contra decisão da SEP em processo de rito sumário. PAS RJ2011/7385. | cvm-col-20111227-d06 | fichas/colegiado/2011-29.md |
+| termo-compromisso | RJ2011/7386 | 2011-12-20 | aceito | O Colegiado aceitou proposta de termo de compromisso do diretor de relações com investidores da Refinaria Pet Manguinhos S.A., de R$… | cvm-col-20111220-d06 | fichas/tc/2011-06.md |
+| termo-compromisso | RJ2011/7378 | 2011-12-20 | aceito | O Colegiado aceitou a proposta de termo de compromisso de R$ 35.000,00 do proponente, DRI da companhia, acusado de deixar de prestar… | cvm-col-20111220-d05 | fichas/tc/2011-06.md |
+| termo-compromisso | RJ2011/7375 | 2011-12-20 | aceito | O Colegiado aceitou proposta de termo de compromisso do proponente, à época Diretor de Relações com Investidores da 3A Companhia… | cvm-col-20111220-d04 | fichas/tc/2011-06.md |
+| decisao-colegiado | RJ2011/12097 | 2011-12-13 | outro | Em consulta da Petrobras sobre cisão parcial da BRK, o Colegiado entendeu, acompanhando a SEP, que não se justificaria atuação da CVM para… | cvm-col-20111213-d07 | fichas/colegiado/2011-29.md |
+| pas | RJ2011/3262 | 2011-12-06 | condenacao | TECNOSOLO S/A Divulgação intempestiva e incompleta de Comunicados ao Mercado de Valores Mobiliários – não atualização do formulário IAN… | cvm-pas-rj2011-3262 | fichas/pas/2011-06.md |
+| pas | RJ2009/9439 | 2011-12-06 | condenacao | VULCABRÁS S/A Inobservância do dever de sigilo – não divulgação de fato relevante – não inclusão de informações da projeção de faturamento… | cvm-pas-rj2009-9439 | fichas/pas/2011-05.md |
+| pas | 16/2009 | 2011-12-06 | condenacao | VULCABRÁS S/A Não divulgação imediata de fato relevante. Multas. | cvm-pas-16-2009 | fichas/pas/2011-05.md |
+| decisao-colegiado | RJ2011/7387 | 2011-12-06 | parcial | Recurso contra decisão da SEP em julgamento de processo de rito sumário. PAS RJ2011/7387. | cvm-col-20111206-d10 | fichas/colegiado/2011-28.md |
+| termo-compromisso | RJ2011/7388 | 2011-12-06 | rejeitado | O Colegiado rejeitou, acompanhando o parecer do Comitê, a proposta de termo de compromisso da proponente, diretora de relações com… | cvm-col-20111206-d05 | fichas/tc/2011-05.md |
+| termo-compromisso | RJ2011/7380 | 2011-12-06 | aceito | O Colegiado aceitou proposta de termo de compromisso do diretor de relações com investidores da Focus Companhia Securitizadora de Créditos… | cvm-col-20111206-d04 | fichas/tc/2011-05.md |
+| termo-compromisso | RJ2011/7382 | 2011-12-06 | aceito | O Colegiado aceitou nova proposta de termo de compromisso de R$ 35.000,00 do proponente, diretor de relações com investidores da Josapar… | cvm-col-20111206-d03 | fichas/tc/2011-05.md |
+| acordao-crsfn | RJ-2009-4095 | 2011-12-06 | parcial | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Atraso no envio de informações periódicas – Irregularidade caracterizada… | crsfn-12759 | fichas/crsfn/2011-05.md |
+| termo-compromisso | RJ2011/7382 | 2011-11-29 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso do diretor de relações com investidores da Josapar – Joaquim Oliveira S.A… | cvm-col-20111129-d06 | fichas/tc/2011-05.md |
+| termo-compromisso | RJ2011/7381 | 2011-11-29 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de R$ 5.000,00 do proponente, diretor de relações com investidores da Indústria de… | cvm-col-20111129-d05 | fichas/tc/2011-05.md |
+| acordao-crsfn | RJ-2008-5752 | 2011-11-09 | parcial | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Não divulgação de fato relevante (transferência de controle acionário da… | crsfn-12463 | fichas/crsfn/2011-04.md |
+| pas | RJ2011/2148 | 2011-11-08 | condenacao | GAZOLA Ausência de informação sobre a redução, acima de 5%, de participação em ações preferenciais de emissão da Gazola S/A Indústria… | cvm-pas-rj2011-2148 | fichas/pas/2011-05.md |
+| pas | RJ2010/1582 | 2011-11-08 | condenacao | [pessoa física] Não divulgação imediata de fato relevante acerca das negociações para venda de imóvel industrial da companhia [pessoa… | cvm-pas-rj2010-1582 | fichas/pas/2011-04.md |
+| termo-compromisso | RJ2011/7389 | 2011-10-19 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso do diretor de relações com investidores da TECBLU, que oferecia R$ 5.000,00… | cvm-col-20111019-d03 | fichas/tc/2011-04.md |
+| termo-compromisso | RJ2011/7384 | 2011-10-19 | outro | O Colegiado rejeitou a primeira proposta de Termo de Compromisso do proponente (06.09.11) e aceitou a nova, de pagamento de R$ 50.000,00… | cvm-col-20111019-d01 | fichas/tc/2011-04.md |
+| decisao-colegiado | — | 2011-10-11 | parcial | O Colegiado decidiu que a companhia pode optar por não divulgar fato potencialmente relevante (fiscalização da RFB sobre debêntures), nos… | cvm-col-20111011-d01-r3 | fichas/colegiado/2011-21.md |
+| termo-compromisso | RJ2011/9398 | 2011-10-04 | rejeitado | O Colegiado rejeitou proposta de Termo de Compromisso apresentada por cinco acusados no PAS RJ2010/11352, acompanhando o parecer do Comitê… | cvm-col-20111004-d02 | fichas/tc/2011-04.md |
+| decisao-colegiado | — | 2011-09-14 | deferido | O Colegiado deferiu tratamento confidencial à apresentação sobre planos de expansão enviada à SEP pelas Companhias Oi, com base no art. 56… | cvm-col-20110914-d01 | fichas/colegiado/2011-18.md |
+| termo-compromisso | RJ2011/7384 | 2011-09-06 | rejeitado | O Colegiado rejeitou, acompanhando o parecer do Comitê, a proposta de termo de compromisso do acusado, ex-DRI da Marambaia Energia… | cvm-col-20110906-d09 | fichas/tc/2011-04.md |
+| termo-compromisso | RJ2011/2039 | 2011-09-06 | aceito | O Colegiado aceitou a proposta de termo de compromisso do proponente, diretor de RI da Globex Utilidades S.A., acusado de não divulgar fato… | cvm-col-20110906-d08 | fichas/tc/2011-04.md |
+| decisao-colegiado | — | 2011-08-30 | deferido | O Colegiado deferiu tratamento confidencial a relatórios de due diligence enviados à SEP sobre a incorporação de ações da Vanguarda… | cvm-col-20110830-d01-r2 | fichas/colegiado/2011-17.md |
+| decisao-colegiado | RJ2011/9155 | 2011-08-16 | deferido | O Colegiado deferiu a dispensa do prazo de 15 dias do art. 2º da Instrução CVM 319/99 para comunicar as condições da incorporação da Nova… | cvm-col-20110816-d11 | fichas/colegiado/2011-16.md |
+| termo-compromisso | RJ2010/14248 | 2011-08-02 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de diretor presidente e de RI de companhia, acusado de não divulgar empréstimos de… | cvm-col-20110802-d02 | fichas/tc/2011-03.md |
+| decisao-colegiado | RJ2010/11567 | 2011-07-26 | parcial | Recurso contra decisão da SEP em julgamento de processo de rito sumário. | cvm-col-20110726-d05 | fichas/colegiado/2011-15.md |
+| acordao-crsfn | RJ-2006-5829 | 2011-07-26 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falta de envio, à autoridade supervisora, de informações periódicas relativas a… | crsfn-11439 | fichas/crsfn/2011-03.md |
+| decisao-colegiado | — | 2011-07-21 | deferido | O Colegiado deferiu tratamento confidencial à consulta da Indústrias Romi S.A. à SEP sobre o art. 256 da Lei 6.404/76, com base no art. 8º… | cvm-col-20110721-d01 | fichas/colegiado/2011-15.md |
+| decisao-colegiado | RJ2011/5307 | 2011-07-19 | nao-provido | O Colegiado indeferiu recurso da GP Investments Ltd. contra decisão da SEP que negou prazo adicional de 15 dias para o ITR, por falta de… | cvm-col-20110719-d03 | fichas/colegiado/2011-15.md |
+| termo-compromisso | RJ2010/16605 | 2011-06-28 | aceito | O Colegiado aceitou proposta de termo de compromisso de diretor de companhia por nota explicativa equivocada do 1º ITR de 2010, que… | cvm-col-20110628-d03 | fichas/tc/2011-03.md |
+| decisao-colegiado | RJ2009/12672 | 2011-06-07 | nao-provido | Recurso contra decisão da SEP em julgamento de processo de rito sumário. | cvm-col-20110607-d09 | fichas/colegiado/2011-12.md |
+| acordao-crsfn | RJ-2008-2282 | 2011-05-31 | condenacao | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Atraso ou não envio, à autoridade supervisora, de demonstrações financeiras… | crsfn-12078 | fichas/crsfn/2011-02.md |
+| acordao-crsfn | 23/05 | 2011-05-31 | parcial | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Aumento de capital – Falta de publicação de fato relevante e de prestação de… | crsfn-11829 | fichas/crsfn/2011-02.md |
+| acordao-crsfn | 05/8528 | 2011-05-31 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Falta de a) apresentação das informações periódicas e de manutenção… | crsfn-11646 | fichas/crsfn/2011-02.md |
+| acordao-crsfn | RJ-2005-6764 | 2011-05-31 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Falta de a) atualização de registro de companhia aberta; de b)… | crsfn-11421 | fichas/crsfn/2011-02.md |
+| decisao-colegiado | RJ2011/5356 | 2011-05-24 | — | Recurso contra decisão da SMI sobre pedido de divulgação de negociação de units da Terna Participações S.A. Julgamento suspenso por pedido… | cvm-col-20110524-d03 | fichas/colegiado/2011-11.md |
+| termo-compromisso | RJ2010/17359 | 2011-05-17 | aceito | O Colegiado aceitou proposta de termo de compromisso do proponente, diretor da Saraiva S.A. Livreiros Editores, de R$ 100.000,00… | cvm-col-20110517-d09 | fichas/tc/2011-03.md |
+| termo-compromisso | RJ2010/11348 | 2011-05-17 | aceito | O Colegiado aceitou proposta de termo de compromisso dos seis administradores da Américas Empreendimentos Artísticos S.A., de R$ 120.000,00… | cvm-col-20110517-d08 | fichas/tc/2011-03.md |
+| termo-compromisso | RJ2010/10383 | 2011-05-17 | rejeitado | Acompanhando o parecer do Comitê, o Colegiado rejeitou a proposta de Termo de Compromisso da Filmes do Equador Ltda. e de seu sócio… | cvm-col-20110517-d02 | fichas/tc/2011-02.md |
+| decisao-colegiado | — | 2011-05-10 | indeferido | O Colegiado não acolheu novo pedido da ABDIB para prorrogar, até 15.06.11, o prazo de reapresentação dos ITR de 2010 comparados com 2009… | cvm-col-20110510-d10 | fichas/colegiado/2011-10.md |
+| termo-compromisso | RJ2010/0770 | 2011-05-10 | aceito | Por maioria, o Colegiado aceitou nova proposta de Termo de Compromisso do representante da Laep Investments Ltd., de pagamento de R$… | cvm-col-20110510-d02 | fichas/tc/2011-02.md |
+| decisao-colegiado | RJ2011/2324 | 2011-03-11 | outro | Após pedido de vista da Presidente, o Colegiado, acompanhando o voto da Presidente, fixou a interpretação do art. 12 da Instrução CVM… | cvm-col-20110311-d01 | fichas/colegiado/2011-06.md |
+| decisao-colegiado | RJ2011/2324 | 2011-03-01 | — | Consulta da SEP sobre divulgação de informações relativas à participação acionária relevante detida por acionistas não controladores (art… | cvm-col-20110301-d16 | fichas/colegiado/2011-05.md |
+| termo-compromisso | RJ2010/13112 | 2011-02-15 | aceito | O Colegiado aceitou a proposta de Termo de Compromisso da Zaraplast S.A., acompanhando o Comitê, sobre a não divulgação de demonstrações… | cvm-col-20110215-d08 | fichas/tc/2011-01.md |
+| decisao-colegiado | — | 2011-02-02 | deferido | O Colegiado deferiu tratamento confidencial à consulta da Minerva S.A. sobre o regime aplicável a oferta pública de aquisição de bônus de… | cvm-col-20110202-d01 | fichas/colegiado/2011-02.md |
+| termo-compromisso | RJ2010/11566 | 2011-01-19 | aceito | O Colegiado aceitou proposta de termo de compromisso de um diretor de relações com investidores da Allis Participações S.A., acusado de… | cvm-col-20110119-d03 | fichas/tc/2011-01.md |
+| decisao-colegiado | — | 2010-12-30 | deferido | O Colegiado deferiu pedido de confidencialidade da WEG S.A. sobre documentos da aquisição da totalidade das quotas da EQUISUL Indústria e… | cvm-col-20101230-d01 | fichas/colegiado/2010-34.md |
+| decisao-colegiado | — | 2010-12-29 | deferido | O Colegiado deferiu tratamento confidencial a contrato de compra e venda de ações da Brasilcel, firmado entre Telefónica e Portugal… | cvm-col-20101229-d01 | fichas/colegiado/2010-34.md |
+| termo-compromisso | RJ2010/12043 | 2010-12-28 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de R$ 10.000,00 do diretor de relações com investidores da Fiação Tecelagem São José… | cvm-col-20101228-d08 | fichas/tc/2010-07.md |
+| termo-compromisso | RJ2010/4953 | 2010-12-28 | aceito | O Colegiado aceitou proposta conjunta de termo de compromisso dos administradores, de R$ 350.000,00, acompanhando o Comitê. Acusados de… | cvm-col-20101228-d07 | fichas/tc/2010-07.md |
+| decisao-colegiado | — | 2010-12-23 | indeferido | O Colegiado indeferiu pedido de tratamento confidencial da Minupar Participações S.A. para consulta à SRE sobre registro de aquisição de… | cvm-col-20101223-d01 | fichas/colegiado/2010-30.md |
+| decisao-colegiado | RJ2007/2257 | 2010-12-14 | nao-provido | O Colegiado indeferiu recurso de investidor contra entendimento da SOI e da SEP, que não encontraram irregularidades no programa de… | cvm-col-20101214-d14 | fichas/colegiado/2010-29.md |
+| termo-compromisso | RJ2010/11569 | 2010-12-14 | aceito | O Colegiado aceitou proposta de termo de compromisso do diretor de relações com investidores da CAGECE por atrasos em documentos periódicos… | cvm-col-20101214-d07 | fichas/tc/2010-07.md |
+| termo-compromisso | RJ2010/11568 | 2010-12-14 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso do diretor de RI da Botucatu Têxtil S.A., acompanhando o Comitê. Processo… | cvm-col-20101214-d06 | fichas/tc/2010-07.md |
+| acordao-crsfn | RJ-2007-1176 | 2010-12-13 | condenacao | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Descumprimento da obrigatoriedade de informar à CVM sobre alienação de ações… | crsfn-11743 | fichas/crsfn/2010-10.md |
+| decisao-colegiado | RJ2010/14668 | 2010-12-07 | nao-provido | O Colegiado negou provimento ao recurso da Tarpon Investimentos S.A. contra entendimento da SEP sobre divulgação de participação relevante… | cvm-col-20101207-d42 | fichas/colegiado/2010-28.md |
+| termo-compromisso | RJ2010/12042 | 2010-11-30 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso do diretor de relações com investidores de companhia aberta, acusado de atraso no… | cvm-col-20101130-d04 | fichas/tc/2010-06.md |
+| pas | RJ2010/4195 | 2010-11-23 | condenacao | VICUNHA TEXTIL SA Não divulgação de fato relevante. – Multa. | cvm-pas-rj2010-4195 | fichas/pas/2010-09.md |
+| acordao-crsfn | RJ-2006-5928 | 2010-11-23 | arquivamento | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Não publicação de fato relevante (oscilação atípica nos preços e quantidades de… | crsfn-11436 | fichas/crsfn/2010-10.md |
+| decisao-colegiado | — | 2010-11-17 | indeferido | O Colegiado indeferiu pedido de dispensa de divulgação de fato relevante sobre rumores de negociações, por não ter sido apresentado em… | cvm-col-20101117-d01-r2 | fichas/colegiado/2010-24.md |
+| decisao-colegiado | — | 2010-11-05 | indeferido | O Colegiado indeferiu pedido de tratamento confidencial da GDF Suez S.A. para a consulta sobre a incidência do art. 254-A da Lei 6.404/76… | cvm-col-20101105-d02 | fichas/colegiado/2010-23.md |
+| decisao-colegiado | — | 2010-11-05 | indeferido | O Colegiado indeferiu o pedido de tratamento confidencial da CETIP S.A. para pedido de autorização de alteração estatutária, por não… | cvm-col-20101105-d01 | fichas/colegiado/2010-23.md |
+| decisao-colegiado | RJ2010/11571 | 2010-11-04 | nao-provido | Recurso contra decisão da SEP em julgamento de processo de rito sumário. PAS RJ2010/11571. | cvm-col-20101104-d02 | fichas/colegiado/2010-22.md |
+| termo-compromisso | RJ2010/3278 | 2010-11-04 | aceito | O Colegiado aceitou as três propostas de termo de compromisso, de R$ 100.000,00 para cada um de dois proponentes e R$ 200.000,00 para o… | cvm-col-20101104-d01 | fichas/tc/2010-06.md |
+| acordao-crsfn | RJ-2007-4107 | 2010-10-27 | outro | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Fato relevante - Publicação intempestiva acerca do deferimento do pedido de… | crsfn-12040 | fichas/crsfn/2010-10.md |
+| acordao-crsfn | RJ-2007-9559 | 2010-10-27 | condenacao | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Omissão no dever legal, como administradora de investimentos, de comunicação à… | crsfn-11955 | fichas/crsfn/2010-10.md |
+| acordao-crsfn | RJ-2005-4969 | 2010-10-27 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários - Falta de apresentação das informações periódicas e de manutenção de… | crsfn-11434 | fichas/crsfn/2010-10.md |
+| termo-compromisso | RJ2010/4246 | 2010-10-26 | aceito | O Colegiado aceitou proposta de termo de compromisso do proponente, responsável por relações com investidores da Abyara Planejamento… | cvm-col-20101026-d03 | fichas/tc/2010-05.md |
+| decisao-colegiado | RJ2010/11572 | 2010-10-14 | nao-provido | Recurso de ofício da SEP em processo de rito sumário. PAS RJ2010/11572. | cvm-col-20101014-d05 | fichas/colegiado/2010-21.md |
+| decisao-colegiado | — | 2010-10-07 | deferido | O Colegiado deferiu tratamento confidencial a documentos que instruem pedido de autorização para instalar, em instituições distribuidoras… | cvm-col-20101007-d03 | fichas/colegiado/2010-20.md |
+| decisao-colegiado | — | 2010-10-07 | deferido | O Colegiado deferiu tratamento confidencial ao pedido da Companhia Siderúrgica Nacional de autorização para operações privadas com ações de… | cvm-col-20101007-d02 | fichas/colegiado/2010-20.md |
+| decisao-colegiado | — | 2010-10-07 | indeferido | O Colegiado indeferiu pedido de tratamento confidencial de consulta sobre possível reestruturação societária da Mahle Metal Leve, por perda… | cvm-col-20101007-d01 | fichas/colegiado/2010-20.md |
+| decisao-colegiado | RJ2009/13026 | 2010-10-05 | outro | O Colegiado aprovou, para audiência pública de 30 dias, minuta de Instrução e de Nota Explicativa sobre a divulgação voluntária de… | cvm-col-20101005-d09 | fichas/colegiado/2010-20.md |
+| acordao-crsfn | RJ-2005-6703 | 2010-10-05 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários - Falta de manutenção de registro atualizado das companhias abertas… | crsfn-11423 | fichas/crsfn/2010-09.md |
+| termo-compromisso | RJ2010/0770 | 2010-09-21 | rejeitado | O Colegiado, acompanhando o parecer do Comitê, rejeitou proposta de termo de compromisso de R$ 100.000,00 de representante da Laep… | cvm-col-20100921-d05 | fichas/tc/2010-05.md |
+| decisao-colegiado | — | 2010-09-16 | deferido | O Colegiado deferiu tratamento confidencial a contratos de compra e venda de ações da Tivit, com base nos arts. 6º e 7º da Instrução… | cvm-col-20100916-d01 | fichas/colegiado/2010-19.md |
+| acordao-crsfn | RJ-2007-3673 | 2010-09-14 | absolvicao | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Falta de comunicação à CVM sobre investidor estrangeiro em situação irregular… | crsfn-12708 | fichas/crsfn/2010-09.md |
+| acordao-crsfn | RJ-2008-6023 | 2010-09-14 | condenacao | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Não publicação de fato relevante (suspensão de pagamentos em favor de sociedade… | crsfn-12663 | fichas/crsfn/2010-09.md |
+| acordao-crsfn | RJ-2005-5222 | 2010-09-14 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falta de atualização de registro de companhia aberta e entrega de documentos à CVM… | crsfn-11432 | fichas/crsfn/2010-08.md |
+| decisao-colegiado | — | 2010-09-09 | provido | O Colegiado deu provimento a pedido de reconsideração da Braskem S.A. e dispensou a divulgação, por fato ou comunicado, da Cláusula 9 de… | cvm-col-20100909-d05 | fichas/colegiado/2010-18.md |
+| decisao-colegiado | SP2007/0259 | 2010-09-09 | nao-provido | O Colegiado negou provimento a recurso contra entendimento da SEP que considerou improcedente reclamação sobre fato relevante da Agra… | cvm-col-20100909-d03 | fichas/colegiado/2010-18.md |
+| decisao-colegiado | — | 2010-08-18 | deferido | O Colegiado deferiu pedido de tratamento confidencial de cinco documentos (um contrato de compra e venda de ações e quatro contratos de… | cvm-col-20100818-d01 | fichas/colegiado/2010-17.md |
+| decisao-colegiado | — | 2010-08-13 | deferido | O Colegiado deferiu tratamento confidencial ao termsheet firmado entre acionistas do grupo de controle da Telemar Participações e a… | cvm-col-20100813-d01 | fichas/colegiado/2010-17.md |
+| decisao-colegiado | — | 2010-08-03 | indeferido | O Colegiado indeferiu pedido de tratamento confidencial da Braskem para o Acordo de Investimento (OPA da Quattor), por falta de… | cvm-col-20100803-d01-r2 | fichas/colegiado/2010-16.md |
+| acordao-crsfn | RJ-2006-9070 | 2010-07-28 | condenacao | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Comunicação intempestiva, ao mercado, sobre alienação de ações que correspondam… | crsfn-11956 | fichas/crsfn/2010-07.md |
+| acordao-crsfn | RJ-2006-1267 | 2010-07-28 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários - Falta de atualização de registro de companhia aberta – Não entrega… | crsfn-11007 | fichas/crsfn/2010-06.md |
+| decisao-colegiado | RJ2009/4088 | 2010-07-20 | nao-provido | Recurso contra decisão da SEP em julgamento de processo de rito sumário. | cvm-col-20100720-d05 | fichas/colegiado/2010-15.md |
+| decisao-colegiado | — | 2010-07-15 | deferido | O Colegiado deferiu pedido de confidencialidade da Braskem sobre consulta a respeito de laudo de avaliação a preços de mercado (art. 264 da… | cvm-col-20100715-d01 | fichas/colegiado/2010-15.md |
+| decisao-colegiado | — | 2010-07-14 | indeferido | O Colegiado indeferiu pedido de tratamento confidencial de documentos sobre operações de aquisição divulgadas em 02.06.2010, por não… | cvm-col-20100714-d01 | fichas/colegiado/2010-15.md |
+| pas | RJ2009/1365 | 2010-07-13 | parcial | TÊXTIL RENAUVIEW S/A Não divulgação de fato relevante referente à alienação de participação acionária superior a 5% nas operações… | cvm-pas-rj2009-1365 | fichas/pas/2010-04.md |
+| pas | RJ2008/12124 | 2010-06-22 | condenacao | BUETTNER S/A INDÚSTRIA E COMÉRCIO Divulgação de informações relevantes a respeito da Buettner S/A Indústria e Comércio (“Buettner”) sem a… | cvm-pas-rj2008-12124 | fichas/pas/2010-04.md |
+| acordao-crsfn | 0501291250 | 2010-06-22 | condenacao | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Falta de envio de informações obrigatórias periódicas e eventuais à autoridade… | crsfn-11745 | fichas/crsfn/2010-06.md |
+| decisao-colegiado | RJ2010/9203 | 2010-06-15 | deferido | O Colegiado deferiu o pedido do IBRI de prazo adicional para o formulário de referência, contra a manifestação da SEP, que não via… | cvm-col-20100615-d09 | fichas/colegiado/2010-14.md |
+| decisao-colegiado | RJ2010/3886 | 2010-06-15 | outro | O Colegiado acompanhou a SEP em consulta sobre formulário de referência e demonstrações financeiras combinadas de Banco BTG Pactual e BTG… | cvm-col-20100615-d05 | fichas/colegiado/2010-14.md |
+| acordao-crsfn | RJ-2007-10884 | 2010-06-08 | parcial | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Falta de envio de informações obrigatórias à autoridade supervisora… | crsfn-12354 | fichas/crsfn/2010-06.md |
+| acordao-crsfn | RJ-2005-4346 | 2010-06-08 | parcial | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Falta de atualização do registro de companhia aberta – Não cumprimento do dever de… | crsfn-11428 | fichas/crsfn/2010-05.md |
+| acordao-crsfn | RJ-2005-9714 | 2010-06-08 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Falta de atualização do registro de companhia aberta – Não… | crsfn-11427 | fichas/crsfn/2010-05.md |
+| termo-compromisso | RJ2009/6713 | 2010-05-25 | aceito | O Colegiado aceitou nova proposta de termo de compromisso do acusado, à época diretor de RI da Petrobras, de pagar R$ 1.000.000,00 à CVM… | cvm-col-20100525-d03 | fichas/tc/2010-02.md |
+| acordao-crsfn | RJ-2006-2106 | 2010-05-25 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Falta de atualização do registro de companhia aberta – Não… | crsfn-11430 | fichas/crsfn/2010-05.md |
+| pas | RJ2009/5286 | 2010-05-18 | absolvicao | TRIUNFO PARTICIPAÇÕES E INVESTIMENTO S/A Suposta infração ao art. 5º, inciso V, da Resolução CMN nº 2.689/00. Absolvição. | cvm-pas-rj2009-5286 | fichas/pas/2010-03.md |
+| pas | RJ2009/2172 | 2010-05-18 | condenacao | RENAR MAÇÃS S/A Não comunicação imediata à Renar Maçãs S/A da alienação de quantidade equivalente a 5,05% de ações ordinárias de sua… | cvm-pas-rj2009-2172 | fichas/pas/2010-03.md |
+| termo-compromisso | RJ2009/9982 | 2010-05-11 | rejeitado | O Colegiado rejeitou duas propostas de termo de compromisso de ex-acionistas da Têxtil Renauxview S.A. por divulgação incompleta sobre… | cvm-col-20100511-d01 | fichas/tc/2010-02.md |
+| decisao-colegiado | — | 2010-05-10 | deferido | O Colegiado deferiu pedido de tratamento confidencial a compromisso de permuta de ações firmado pela EDP, por não haver regra que obrigue… | cvm-col-20100510-d01 | fichas/colegiado/2010-12.md |
+| acordao-crsfn | RJ-2008-0236 | 2010-04-29 | parcial | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Falta de envio de informações periódicas atualizadas (demonstrações financeiras… | crsfn-12571 | fichas/crsfn/2010-05.md |
+| acordao-crsfn | RJ-2007-8672 | 2010-04-29 | condenacao | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Falta de envio de informações periódicas atualizadas (demonstrações financeiras… | crsfn-12049 | fichas/crsfn/2010-04.md |
+| acordao-crsfn | RJ-2006-7830 | 2010-04-29 | condenacao | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Atraso no envio de informações periódicas (demonstrações financeiras… | crsfn-11643 | fichas/crsfn/2010-04.md |
+| acordao-crsfn | RJ-2005-7507 | 2010-04-29 | condenacao | RECURSOS VOLUNTÁRIO E DE OFÍCIO - Mercado de valores mobiliários – Falta de elaboração de demonstrações financeiras, de divulgação de fato… | crsfn-11326 | fichas/crsfn/2010-04.md |
+| acordao-crsfn | RJ-2006-1266 | 2010-04-29 | condenacao | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Falta de manutenção de informações atualizadas nos registros da… | crsfn-11324 | fichas/crsfn/2010-04.md |
+| acordao-crsfn | RJ-2005-7127 | 2010-04-29 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Não prestação de informações periódicas obrigatórias à autoridade… | crsfn-11275 | fichas/crsfn/2010-04.md |
+| acordao-crsfn | RJ-2006-1853 | 2010-04-29 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Falta de atualização do registro de companhia aberta e de envio de… | crsfn-11215 | fichas/crsfn/2010-03.md |
+| acordao-crsfn | RJ-2006-1559 | 2010-04-29 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Falta de atualização do registro de companhia aberta – Não… | crsfn-11211 | fichas/crsfn/2010-03.md |
+| acordao-crsfn | RJ-2006-0800 | 2010-04-29 | condenacao | RECURSO(S) VOLUNTÁRIO(S) – Mercado de Valores Mobiliários – Falta de remessa, à autoridade supervisora, de informações periódicas previstas… | crsfn-11169 | fichas/crsfn/2010-03.md |
+| decisao-colegiado | RJ2010/2427 | 2010-04-27 | indeferido | Pedido de registro inicial de companhia aberta. Proc. RJ2010/2427. | cvm-col-20100427-d03 | fichas/colegiado/2010-12.md |
+| decisao-colegiado | — | 2010-04-15 | deferido | O Colegiado deferiu pedido de tratamento confidencial de documentos da Inpar S.A. sobre cessão de direitos de preferência, por inexistir… | cvm-col-20100415-d01-r2 | fichas/colegiado/2010-11.md |
+| pas | RJ2008/12216 | 2010-04-13 | condenacao | SANEPAR. Não divulgação de informações relevantes ao mercado – multa – não publicação de fato relevante – advertência. | cvm-pas-rj2008-12216 | fichas/pas/2010-02.md |
+| termo-compromisso | RJ2009/9731 | 2010-04-13 | aceito | O Colegiado aceitou nova proposta de termo de compromisso da Natixis, investidora não residente acusada de não comunicar à CVM, no prazo, a… | cvm-col-20100413-d05 | fichas/tc/2010-02.md |
+| decisao-colegiado | — | 2010-04-07 | outro | O Colegiado aprovou deliberação que prorroga para 30.06.2010 o prazo de entrega anual do formulário de referência de 2010 (art. 24, § 1º… | cvm-col-20100407-d08 | fichas/colegiado/2010-11.md |
+| decisao-colegiado | RJ2009/4163 | 2010-03-30 | nao-provido | Recurso contra decisão da SEP em julgamento de processo de rito sumário. | cvm-col-20100330-d15 | fichas/colegiado/2010-10.md |
+| decisao-colegiado | — | 2010-03-26 | indeferido | O Colegiado indeferiu pedido de tratamento confidencial a acordo de renegociação da dívida da Aracruz com bancos credores e correspondência… | cvm-col-20100326-d01 | fichas/colegiado/2010-09.md |
+| decisao-colegiado | — | 2010-03-02 | nao-provido | O Colegiado indeferiu pedido de reconsideração da Abrasca e manteve a decisão de 26.01.10, que negou adiar para 2011 a vigência do item… | cvm-col-20100302-d25 | fichas/colegiado/2010-07.md |
+| decisao-colegiado | — | 2010-02-26 | deferido | O Colegiado deferiu confidencialidade à consulta sobre demonstrações financeiras para registro de companhia aberta, com base no art. 8º… | cvm-col-20100226-d01 | fichas/colegiado/2010-06.md |
+| decisao-colegiado | RJ2009/4140 | 2010-02-23 | parcial | Recurso contra decisão da SEP em julgamento de processo de rito sumário. | cvm-col-20100223-d02 | fichas/colegiado/2010-06.md |
+| pas | RJ2008/9022 | 2010-02-09 | absolvicao | CYRELA BRAZIL REALTY S/A Imputação de suposta falha na divulgação de fato relevante – imputação de realização de operações irregulares com… | cvm-pas-rj2008-9022 | fichas/pas/2010-01.md |
+| termo-compromisso | RJ2009/6713 | 2010-02-09 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso apresentada por um acusado no PAS RJ2009/6713 por não considerá-la conveniente e… | cvm-col-20100209-d07 | fichas/tc/2010-01.md |
+| decisao-colegiado | RJ2009/11362 | 2010-02-09 | nao-provido | Recurso contra determinação da SIN. Proc. RJ2009/11362. | cvm-col-20100209-d02 | fichas/colegiado/2010-05.md |
+| decisao-colegiado | — | 2010-02-09 | indeferido | O Colegiado indeferiu pedido de tratamento confidencial para consulta sobre o conceito de 'debêntures em circulação' na 6ª Emissão de… | cvm-col-20100209-d01 | fichas/colegiado/2010-05.md |
+| decisao-colegiado | — | 2010-01-26 | indeferido | O Colegiado indeferiu pleito da Abrasca para adiar para 2011 a vigência do item 13.11 do anexo 24 da Instrução 480/09, que manda divulgar a… | cvm-col-20100126-d18 | fichas/colegiado/2010-03.md |
+| termo-compromisso | RJ2009/4747 | 2010-01-26 | aceito | O Colegiado aceitou 13 propostas de termo de compromisso de administradores e acionistas controladores da Positivo Informática S.A… | cvm-col-20100126-d07 | fichas/tc/2010-01.md |
+| termo-compromisso | RJ2009/9731 | 2010-01-26 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de R$ 50.000,00 do investidor não residente acusado de não comunicar à CVM, no prazo… | cvm-col-20100126-d06 | fichas/tc/2010-01.md |
+| termo-compromisso | RJ2009/5351 | 2010-01-26 | aceito | Propostas de termo de compromisso de dez acusados no PAS 19/2006 por omissão de fato relevante, falta de diligência e uso de informação… | cvm-col-20100126-d01 | fichas/tc/2010-01.md |
+| acordao-crsfn | RJ-2006-9068 | 2010-01-26 | condenacao | RECURSOS VOLUNTÁRIO - Mercado de valores mobiliários – Falta de divulgação de fato relevante (alienação judicial de unidade produtiva da… | crsfn-11827 | fichas/crsfn/2010-01.md |
+| acordao-crsfn | RJ-2006-1574 | 2010-01-26 | absolvicao | RECURSO DE OFÍCIO - Mercado de valores mobiliários - Comunicados, pela companhia aberta, objeto de divulgação na imprensa leiga e não… | crsfn-11171 | fichas/crsfn/2010-01.md |
+| decisao-colegiado | — | 2010-01-05 | indeferido | O Colegiado indeferiu pedido da JBS S.A. de tratamento confidencial para atas de comitês independentes e relatório sobre a incorporação da… | cvm-col-20100105-d01-r3 | fichas/colegiado/2010-01.md |
+| decisao-colegiado | — | 2010-01-05 | indeferido | Pedido de concessão de tratamento confidencial. | cvm-col-20100105-d01-r2 | fichas/colegiado/2010-01.md |
+| decisao-colegiado | — | 2009-12-23 | deferido | O Colegiado deferiu tratamento confidencial a laudo usado para fixar o preço de ações do Banco Mercantil do Brasil S.A. em aumento de… | cvm-col-20091223-d01 | fichas/colegiado/2009-25.md |
+| termo-compromisso | RJ2009/3049 | 2009-12-15 | aceito | O Colegiado aceitou as três propostas de termo de compromisso no PAS da Petrobras sobre informações relevantes divulgadas na mídia sem fato… | cvm-col-20091215-d06 | fichas/tc/2009-09.md |
+| termo-compromisso | RJ2009/5978 | 2009-12-08 | aceito | O Colegiado aceitou a proposta de termo de compromisso do proponente, no valor de R$ 200.000,00, acusado, na qualidade de DRI da Redecard… | cvm-col-20091208-d09 | fichas/tc/2009-08.md |
+| termo-compromisso | RJ2009/4096 | 2009-12-08 | aceito | O Colegiado aceitou duas propostas de termo de compromisso no PAS RJ2009/4096, acompanhando o parecer do Comitê: R$ 200.000,00 de um… | cvm-col-20091208-d08 | fichas/tc/2009-08.md |
+| decisao-colegiado | — | 2009-11-30 | outro | O Colegiado deliberou divulgar comunicado ao mercado, com base no art. 9º, §1º, III, da Lei 6.385/76, sobre a GVT S.A. Motivo: a Vivendi… | cvm-col-20091130-d01 | fichas/colegiado/2009-21.md |
+| termo-compromisso | RJ2009/4088 | 2009-11-24 | rejeitado | O Colegiado, acompanhando o parecer do Comitê, rejeitou a proposta de termo de compromisso do diretor de relações com investidores da FG… | cvm-col-20091124-d07 | fichas/tc/2009-08.md |
+| decisao-colegiado | RJ2009/10758 | 2009-11-17 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2009/10758. | cvm-col-20091117-d27 | fichas/colegiado/2009-20.md |
+| acordao-crsfn | RJ-2005-3711 | 2009-11-16 | absolvicao | RECURSO DE OFÍCIO - Mercado de valores mobiliários - Falta da obrigatória apresentação de informações periódicas à autoridade supervisora… | crsfn-9427 | fichas/crsfn/2009-07.md |
+| acordao-crsfn | RJ-2005-5936 | 2009-11-16 | condenacao | RECURSOS VOLUNTÁRIO E DE OFÍCIO - Mercado de valores mobiliários – Falta de atualização de registro de companhia aberta – Apelo voluntário… | crsfn-11055 | fichas/crsfn/2009-07.md |
+| decisao-colegiado | RJ2009/10804 | 2009-11-10 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2009/10804. | cvm-col-20091110-d03 | fichas/colegiado/2009-19.md |
+| decisao-colegiado | — | 2009-11-10 | indeferido | O Colegiado indeferiu pedido de tratamento confidencial, com base no art. 14, §1º, da Instrução 202/93, para documentos enviados em… | cvm-col-20091110-d01-r2 | fichas/colegiado/2009-19.md |
+| decisao-colegiado | — | 2009-11-06 | indeferido | O Colegiado indeferiu o pedido de tratamento confidencial da Dramd Participações e Administração Ltda. para consulta sobre procedimento com… | cvm-col-20091106-d01 | fichas/colegiado/2009-19.md |
+| decisao-colegiado | RJ2009/4165 | 2009-10-27 | parcial | Recurso contra decisão da SEP em julgamento de processo de rito sumário. | cvm-col-20091027-d14 | fichas/colegiado/2009-19.md |
+| termo-compromisso | RJ2009/6426 | 2009-10-27 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso do acusado, diretor de relações com investidores da HSBX Bauru Empreendimentos… | cvm-col-20091027-d12 | fichas/tc/2009-07.md |
+| termo-compromisso | RJ2009/6425 | 2009-10-27 | aceito | O Colegiado aceitou a proposta de termo de compromisso do diretor de relações com investidores da Baladare Participações S.A., acusado de… | cvm-col-20091027-d11 | fichas/tc/2009-07.md |
+| termo-compromisso | RJ2009/4164 | 2009-10-27 | aceito | O Colegiado aceitou a proposta de termo de compromisso do diretor de relações com investidores da DHB Indústria e Comércio S.A., acusado… | cvm-col-20091027-d09 | fichas/tc/2009-07.md |
+| acordao-crsfn | RJ-2005-4045 | 2009-10-27 | absolvicao | RECURSO DE OFÍCIO - Mercado de valores mobiliários - Falta de a) atualização do registro de companhia aberta, de b) realização de… | crsfn-11437 | fichas/crsfn/2009-06.md |
+| acordao-crsfn | RJ-2005-8578 | 2009-10-27 | absolvicao | RECURSO DE OFÍCIO - Mercado de valores mobiliários - Não atualização do registro de companhia aberta (demonstrações financeiras… | crsfn-11103 | fichas/crsfn/2009-06.md |
+| decisao-colegiado | RJ2009/4133 | 2009-10-13 | nao-provido | Recurso contra decisão da SEP em julgamento de processo de rito sumário. | cvm-col-20091013-d19 | fichas/colegiado/2009-18.md |
+| decisao-colegiado | RJ2009/3951 | 2009-10-13 | parcial | Recurso contra decisão da SEP em julgamento de processo de rito sumário. | cvm-col-20091013-d17 | fichas/colegiado/2009-18.md |
+| decisao-colegiado | RJ2009/4095 | 2009-10-06 | nao-provido | Recurso contra decisão da SEP em processo de rito sumário. | cvm-col-20091006-d06 | fichas/colegiado/2009-17.md |
+| acordao-crsfn | RJ-2006-796 | 2009-09-30 | condenacao | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Diretoria de relações com investidores (DRI) – Falta de obrigatório envio de… | crsfn-10884 | fichas/crsfn/2009-05.md |
+| termo-compromisso | RJ2009/4163 | 2009-09-29 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de R$ 10.000,00 do diretor de relações com investidores da CONPEL - Companhia… | cvm-col-20090929-d04 | fichas/tc/2009-06.md |
+| pas | RJ2008/8976 | 2009-09-15 | condenacao | DOCAS Não publicação, por parte do Diretor de Relações com Investidores da DOCAS INVESTIMENTOS S.A, de fato relevante - não divulgação de… | cvm-pas-rj2008-8976 | fichas/pas/2009-09.md |
+| pas | RJ2008/8843 | 2009-09-15 | condenacao | TELEBRÁS Descumprimento, por parte do Diretor de Relações com Investidores da TELEBRAS, do dever de diligenciar previsto na Instrução CVM… | cvm-pas-rj2008-8843 | fichas/pas/2009-08.md |
+| termo-compromisso | RJ2009/4006 | 2009-09-15 | aceito | O Colegiado aceitou proposta de termo de compromisso do diretor de relações com investidores da Refinaria de Petróleos Manguinhos S.A., de… | cvm-col-20090915-d05 | fichas/tc/2009-06.md |
+| termo-compromisso | RJ2009/3952 | 2009-09-15 | aceito | O Colegiado aceitou a proposta de termo de compromisso do diretor de relações com investidores da Wtorre Empreendimentos Imobiliários S.A… | cvm-col-20090915-d04 | fichas/tc/2009-06.md |
+| termo-compromisso | RJ2009/3950 | 2009-09-15 | aceito | O Colegiado aceitou a proposta de Termo de Compromisso de R$ 30.000,00 da diretora de relações com investidores da Araucária Participações… | cvm-col-20090915-d03 | fichas/tc/2009-06.md |
+| pas | RJ2008/2209 | 2009-08-25 | condenacao | CONSTRUTORA SULTEPA S/A Não divulgação ao mercado e não comunicação à CVM de aquisição de participação relevante no capital social da… | cvm-pas-rj2008-2209 | fichas/pas/2009-08.md |
+| pas | RJ2008/11199 | 2009-08-25 | condenacao | MINUPAR PARTICIPAÇÕES S/A Dever dos administradores, em especial do DRI, de informar ao mercado fatos que, por sua relevância, possam… | cvm-pas-rj2008-11199 | fichas/pas/2009-07.md |
+| termo-compromisso | RJ2008/11105 | 2009-08-18 | aceito | O Colegiado aceitou nova proposta de Termo de Compromisso de R$ 350.000,00 do ex-diretor de RI da CSN, por omissão de fato relevante e… | cvm-col-20090818-d08 | fichas/tc/2009-06.md |
+| termo-compromisso | RJ2009/4140 | 2009-08-18 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso do diretor de relações com investidores da Cerâmica Chiarelli S.A., acusado de… | cvm-col-20090818-d06 | fichas/tc/2009-05.md |
+| termo-compromisso | RJ2009/4089 | 2009-08-18 | aceito | O Colegiado aceitou a proposta de Termo de Compromisso de R$ 30.000,00 do diretor de relações com investidores da Monticiano Participações… | cvm-col-20090818-d05 | fichas/tc/2009-05.md |
+| pas | RJ2007/11415 | 2009-08-04 | absolvicao | [pessoa física] Imputação de não publicação de aquisição de ações ordinárias, em descumprimento ao disposto no caput e no § 3º do art. 12… | cvm-pas-rj2007-11415 | fichas/pas/2009-06.md |
+| decisao-colegiado | RJ2009/3955 | 2009-08-04 | nao-provido | Recurso contra decisão da SEP. PAS RJ2009/3955. | cvm-col-20090804-d03 | fichas/colegiado/2009-14.md |
+| pas | RJ2008/9947 | 2009-07-28 | parcial | RECRUSUL S/A Aumento de Participação Acionária - descumprimento das exigências informacionais constantes do art. 12, caput, e § 1º, da… | cvm-pas-rj2008-9947 | fichas/pas/2009-06.md |
+| termo-compromisso | 06/2008 | 2009-07-28 | aceito | Apreciação de proposta de termo de compromisso PAS 06/2008. | cvm-col-20090728-d13 | fichas/tc/2009-05.md |
+| termo-compromisso | RJ2009/0283 | 2009-07-28 | aceito | O Colegiado aceitou nova proposta de Termo de Compromisso de R$ 60.000,00, em conjunto, dos diretores de relações com investidores da… | cvm-col-20090728-d11 | fichas/tc/2009-05.md |
+| termo-compromisso | RJ2008/2334 | 2009-07-28 | aceito | O Colegiado aceitou nova proposta conjunta de Termo de Compromisso de três acusados do Banestes S.A. – Banco do Estado do Espírito Santo… | cvm-col-20090728-d09 | fichas/tc/2009-05.md |
+| termo-compromisso | RJ2009/5730 | 2009-07-28 | aceito | O Colegiado aceitou nova proposta de termo de compromisso de R$ 220.000,00 do DRI da Embratel Participações S.A., acusado de não divulgar… | cvm-col-20090728-d08 | fichas/tc/2009-04.md |
+| termo-compromisso | 12/2005 | 2009-07-28 | rejeitado | O Colegiado rejeitou nova proposta de Termo de Compromisso de R$ 40.000,00 de diretor de relações com o mercado da Encomind Agroindustrial… | cvm-col-20090728-d07 | fichas/tc/2009-04.md |
+| decisao-colegiado | — | 2009-07-28 | indeferido | O Colegiado indeferiu pedido da Marisa S.A. de tratamento confidencial a consulta sobre dispensa de requisitos em reestruturação… | cvm-col-20090728-d01-r3 | fichas/colegiado/2009-14.md |
+| acordao-crsfn | RJ-2005-5937 | 2009-07-21 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falta de envio de informações periódicas à autoridade fiscalizadora (atualização do… | crsfn-9541 | fichas/crsfn/2009-05.md |
+| termo-compromisso | RJ2008/11105 | 2009-07-14 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de R$ 270.000,00 de ex-diretor de RI da CSN, acusado de não divulgar fato relevante… | cvm-col-20090714-d11 | fichas/tc/2009-04.md |
+| decisao-colegiado | — | 2009-07-14 | indeferido | O Colegiado indeferiu pedido de tratamento confidencial da JBS S.A. a novos documentos enviados em atendimento a ofício da SEP, por falta… | cvm-col-20090714-d01 | fichas/colegiado/2009-13.md |
+| termo-compromisso | RJ2008/10437 | 2009-07-07 | aceito | O Colegiado aceitou duas propostas de Termo de Compromisso da UNIPAR – União de Indústrias Petroquímicas S.A.: de R$ 200.000,00 do DRI (não… | cvm-col-20090707-d06 | fichas/tc/2009-04.md |
+| termo-compromisso | RJ2008/6250 | 2009-07-07 | rejeitado | O Colegiado rejeitou proposta de Termo de Compromisso de administradores da Metalon, acusados de não convocar AGOs dos exercícios 2000 a… | cvm-col-20090707-d05 | fichas/tc/2009-04.md |
+| termo-compromisso | RJ2008/11003 | 2009-07-07 | aceito | O Colegiado aceitou nova proposta de Termo de Compromisso de R$ 200.000,00 do diretor de relações com investidores da M&G Poliéster S.A… | cvm-col-20090707-d02 | fichas/tc/2009-04.md |
+| acordao-crsfn | RJ-2004-6238 | 2009-06-29 | condenacao | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Emissão irregular de debêntures – Falta de prévia comunicação de fato relevante… | crsfn-9200 | fichas/crsfn/2009-04.md |
+| acordao-crsfn | RJ-2001-7749 | 2009-06-29 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Falta de atualização, pelo diretor de relação com os investidores, do… | crsfn-7358 | fichas/crsfn/2009-04.md |
+| acordao-crsfn | RJ-2006-1528 | 2009-06-29 | absolvicao | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Falta de prestação, à autoridade fiscalizadora e por período superior a 3 (três)anos… | crsfn-11214 | fichas/crsfn/2009-04.md |
+| termo-compromisso | RJ2008/10538 | 2009-06-23 | aceito | O Colegiado aceitou proposta de Termo de Compromisso do diretor de relações com investidores da JBS S.A., acusado de não divulgar fato… | cvm-col-20090623-d07 | fichas/tc/2009-03.md |
+| termo-compromisso | RJ2008/11003 | 2009-06-23 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de R$ 130.000,00 do diretor de RI da M&G Poliéster S.A., acusado de não divulgar fato… | cvm-col-20090623-d02 | fichas/tc/2009-03.md |
+| termo-compromisso | RJ2009/2718 | 2009-06-23 | aceito | O Colegiado aceitou proposta de termo de compromisso da J. P. Morgan Whitefriars Inc., investidor não residente, de R$ 50.000,00, acusado… | cvm-col-20090623-d01 | fichas/tc/2009-03.md |
+| decisao-colegiado | — | 2009-06-23 | indeferido | O Colegiado indeferiu pedido de tratamento confidencial de documentos enviados pela JBS S.A. à CVM, por falta de fundamentação legal (art… | cvm-col-20090623-d01-r3 | fichas/colegiado/2009-11.md |
+| decisao-colegiado | — | 2009-06-05 | indeferido | O Colegiado indeferiu pedido de tratamento confidencial da Invest Tur Brasil S.A. a documentos que instruirão processo administrativo em… | cvm-col-20090605-d01 | fichas/colegiado/2009-11.md |
+| pas | RJ2008/8662 | 2009-06-03 | parcial | MANASA Madeireira Nacional S/A Renegociação e contabilização de dívida da companhia - Não divulgação de fato relevante. Celebração de… | cvm-pas-rj2008-8662 | fichas/pas/2009-05.md |
+| decisao-colegiado | — | 2009-06-03 | deferido | O Colegiado deferiu pedido de tratamento confidencial da Companhia Vale do Rio Doce sobre autorização para transferir ações em tesouraria… | cvm-col-20090603-d01-r2 | fichas/colegiado/2009-10.md |
+| termo-compromisso | RJ2008/9181 | 2009-06-02 | aceito | O Colegiado aceitou proposta de Termo de Compromisso de R$ 200.000,00 apresentada pelo diretor de relações com investidores da Marfrig, com… | cvm-col-20090602-d09 | fichas/tc/2009-03.md |
+| termo-compromisso | RJ2008/8976 | 2009-06-02 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de diretor de RI acusado de não divulgar fato relevante diante de oscilações atípicas… | cvm-col-20090602-d07 | fichas/tc/2009-03.md |
+| termo-compromisso | RJ2008/4873 | 2009-06-02 | aceito | O Colegiado aceitou nova proposta de termo de compromisso de diretor de RI acusado de não enviar demonstrações e ITRs de 2007 e 2008… | cvm-col-20090602-d03 | fichas/tc/2009-03.md |
+| pas | RJ2008/9511 | 2009-05-20 | condenacao | HAGA S/A Indústria e Comércio Não divulgação de fato relevante - multa. | cvm-pas-rj2008-9511 | fichas/pas/2009-05.md |
+| pas | RJ2008/6023 | 2009-05-20 | condenacao | CONSTRUTORA BETER S/A Não divulgação de fato relevante - advertência. | cvm-pas-rj2008-6023 | fichas/pas/2009-04.md |
+| pas | RJ2008/2570 | 2009-05-12 | condenacao | PARTICIPAÇÕES ABC S/A Não envio de informações periódicas a partir de 31 de março de 1999 - não elaboração, no prazo legal, das… | cvm-pas-rj2008-2570 | fichas/pas/2009-04.md |
+| acordao-crsfn | RJ-2006-8981 | 2009-05-06 | condenacao | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Falta de tempestivo envio, à autoridade supervisora, de informações obrigatórias (em… | crsfn-11637 | fichas/crsfn/2009-03.md |
+| acordao-crsfn | RJ-2006-1621 | 2009-05-06 | absolvicao | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Descumprimento da obrigatoriedade de manter atualizado o registro de companhia aberta… | crsfn-11636 | fichas/crsfn/2009-03.md |
+| termo-compromisso | RJ2009/0283 | 2009-05-05 | rejeitado | O Colegiado rejeitou proposta conjunta de dois diretores de RI, acusados de atraso ou não envio de demonstrações e ITRs de 2007 e 2008… | cvm-col-20090505-d05 | fichas/tc/2009-03.md |
+| termo-compromisso | RJ2008/2334 | 2009-05-05 | rejeitado | O Colegiado rejeitou proposta conjunta de termo de compromisso de três acusados, por não divulgação de fato relevante e falta de sigilo de… | cvm-col-20090505-d02 | fichas/tc/2009-03.md |
+| acordao-crsfn | RJ-2005-3751 | 2009-04-15 | condenacao | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Falha de atualização dos registros da companhia – Não envio, à autoridade… | crsfn-10970 | fichas/crsfn/2009-02.md |
+| decisao-colegiado | RJ2008/0236 | 2009-04-14 | nao-provido | Recurso contra decisão da SEP em processo de rito sumário. | cvm-col-20090414-d15 | fichas/colegiado/2009-08.md |
+| decisao-colegiado | — | 2009-03-23 | outro | O Colegiado não se manifestou expressamente sobre pedido de confidencialidade de deliberações do Conselho de Administração da Telemar Norte… | cvm-col-20090323-d01 | fichas/colegiado/2009-04.md |
+| acordao-crsfn | RJ-2006-7828 | 2009-03-18 | condenacao | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Falta de tempestivo envio, à autoridade supervisora, de informações obrigatórias (em… | crsfn-11496 | fichas/crsfn/2009-01.md |
+| decisao-colegiado | — | 2009-03-13 | deferido | O Colegiado deferiu tratamento confidencial ao pedido de autorização para operações privadas com ações de própria emissão, com dispensa do… | cvm-col-20090313-d01 | fichas/colegiado/2009-04.md |
+| termo-compromisso | RJ2008/7414 | 2009-03-10 | aceito | O Colegiado aceitou, acompanhando o parecer do Comitê, proposta de Termo de Compromisso do diretor de relações com investidores da… | cvm-col-20090310-d07 | fichas/tc/2009-02.md |
+| termo-compromisso | RJ2007/0384 | 2009-03-10 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso da Filmes do Equador Ltda. e de pessoa física, feita antes da instauração de PAS… | cvm-col-20090310-d05 | fichas/tc/2009-01.md |
+| termo-compromisso | RJ2008/8108 | 2009-02-10 | aceito | O Colegiado aceitou proposta de termo de compromisso do diretor de relações com investidores da Serra Azul Water Park, acusado de atraso ou… | cvm-col-20090210-d03 | fichas/tc/2009-01.md |
+| termo-compromisso | RJ2007/11415 | 2009-02-10 | aceito | Apreciação de nova proposta de termo de compromisso. | cvm-col-20090210-d01 | fichas/tc/2009-01.md |
+| decisao-colegiado | RJ2008/8148 | 2009-01-29 | provido | O Colegiado deu provimento a recurso da Perdigão S.A. contra a SEP, que negou prorrogação de 15 dias para recorrer da determinação de… | cvm-col-20090129-d01 | fichas/colegiado/2009-01.md |
+| pas | RJ2008/5752 | 2009-01-27 | condenacao | RECRUSUL S/A Oscilação atípica na cotação das ações de emissão da Recrusul S/A - Não publicação de fato relevante por parte do diretor de… | cvm-pas-rj2008-5752 | fichas/pas/2009-01.md |
+| termo-compromisso | RJ2008/5880 | 2009-01-06 | aceito | O Colegiado aceitou nova proposta de Termo de Compromisso do Banco UBS Pactual S.A. de pagar R$ 200.000,00 à CVM, após rejeitar em 30.09.08… | cvm-col-20090106-d02 | fichas/tc/2009-01.md |
+| termo-compromisso | RJ2007/8556 | 2008-12-16 | aceito | Reformando a rejeição de 09.12.08, o Colegiado aceitou proposta de Termo de Compromisso do diretor de relações com investidores da… | cvm-col-20081216-d20 | fichas/tc/2008-08.md |
+| termo-compromisso | RJ2007/8556 | 2008-12-09 | aceito | O Colegiado, por unanimidade, rejeitou proposta de Termo de Compromisso do diretor de relações com investidores da Iochpe-Maxion S.A… | cvm-col-20081209-d03 | fichas/tc/2008-08.md |
+| pas | RJ2007/11851 | 2008-12-02 | parcial | Não atualização do registro da companhia - infração aos artigos 13, 16 e 17 da Instrução CVM nº 202/93. - Não convocação de A.G.Os… | cvm-pas-rj2007-11851 | fichas/pas/2008-09.md |
+| termo-compromisso | RJ2008/4873 | 2008-12-02 | rejeitado | O Colegiado rejeitou nova proposta de Termo de Compromisso de um diretor de relações com investidores da João Fortes Engenharia S.A., em… | cvm-col-20081202-d01 | fichas/tc/2008-08.md |
+| decisao-colegiado | — | 2008-11-28 | deferido | O Colegiado deferiu o pedido de tratamento confidencial dos documentos enviados à CVM pela Sadia S.A. em resposta a ofícios da SMI e da… | cvm-col-20081128-d01 | fichas/colegiado/2008-26.md |
+| termo-compromisso | RJ2006/8798 | 2008-11-25 | aceito | O Colegiado aceitou a proposta de Termo de Compromisso de um diretor da Sharp S.A. Equipamentos Eletrônicos, no valor de R$ 30.000,00, em… | cvm-col-20081125-d11 | fichas/tc/2008-07.md |
+| pas | RJ2007/10843 | 2008-11-18 | condenacao | [pessoa física] Inobservância do dever de informar, em infração ao disposto no § 3º do art. 12 da Instrução CVM nº 358/02. | cvm-pas-rj2007-10843 | fichas/pas/2008-08.md |
+| decisao-colegiado | — | 2008-11-13 | deferido | O Colegiado deferiu o pedido de tratamento confidencial da Aracruz Celulose S.A. para documentos sobre operações com derivativos informadas… | cvm-col-20081113-d01 | fichas/colegiado/2008-25.md |
+| pas | RJ2006/5136 | 2008-11-04 | condenacao | AL-CAR Empreendimentos e Participações S/A Não atualização do registro de companhia aberta, em infração aos artigos 16 e 17 da Instrução… | cvm-pas-rj2006-5136 | fichas/pas/2008-08.md |
+| termo-compromisso | RJ2008/4875 | 2008-11-04 | aceito | O Colegiado aceitou a proposta de Termo de Compromisso de um diretor de relações com investidores da Sagi Participações S.A., no valor de… | cvm-col-20081104-d07 | fichas/tc/2008-07.md |
+| termo-compromisso | RJ2008/2712 | 2008-11-04 | aceito | O Colegiado aceitou proposta de termo de compromisso de um acionista de Banco Alfa de Investimentos e Financeira Alfa, de R$ 100 mil, por… | cvm-col-20081104-d06 | fichas/tc/2008-07.md |
+| termo-compromisso | RJ2007/8150 | 2008-11-04 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso de quatro administradores da Maisa Participações S.A. no PAS sobre falta de… | cvm-col-20081104-d05 | fichas/tc/2008-07.md |
+| decisao-colegiado | — | 2008-10-28 | deferido | O Colegiado deferiu tratamento confidencial a documentos entregues pela Aracruz Celulose S.A. em atenção ao Ofício CVM/SEP/GEA-4/233/08… | cvm-col-20081028-d01-r3 | fichas/colegiado/2008-24.md |
+| decisao-colegiado | — | 2008-10-28 | deferido | O Colegiado deferiu o pedido de tratamento confidencial de documentos da Sadia S.A. entregues à CVM sobre operações objeto de fatos… | cvm-col-20081028-d01-r2 | fichas/colegiado/2008-24.md |
+| acordao-crsfn | RJ-2004/5238 | 2008-10-28 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Falta de elaboração de demonstrações financeiras ou de tempestivas… | crsfn-8614 | fichas/crsfn/2008-06.md |
+| decisao-colegiado | — | 2008-10-27 | deferido | O Colegiado, por unanimidade, deferiu o pedido do Banco Itaú Holding Financeira S.A. e não considerou irregulares as negociações com ações… | cvm-col-20081027-d01 | fichas/colegiado/2008-23.md |
+| decisao-colegiado | — | 2008-10-24 | deferido | O Colegiado deferiu as duas solicitações do Unibanco, que antecipara a divulgação do 3º ITR: (i) encerrar a vedação de negociação com ações… | cvm-col-20081024-d01-r2 | fichas/colegiado/2008-23.md |
+| decisao-colegiado | — | 2008-10-09 | deferido | Pedido de tratamento confidencial a laudo de avaliação. | cvm-col-20081009-d01 | fichas/colegiado/2008-22.md |
+| pas | RJ2007/8109 | 2008-10-07 | parcial | [pessoa física] e outros (Fator Empreendimentos Imobiliários S/A) Responsabilidade dos administradores da Fator Empreendimentos… | cvm-pas-rj2007-8109 | fichas/pas/2008-07.md |
+| decisao-colegiado | RJ2008/7784 | 2008-09-30 | nao-provido | O Colegiado negou provimento ao recurso da Anhanguera Educacional Participações S.A. contra determinação da SEP de divulgar fato relevante… | cvm-col-20080930-d20 | fichas/colegiado/2008-21.md |
+| termo-compromisso | RJ2008/5880 | 2008-09-30 | outro | O Colegiado considerou desproporcional e insuficiente a proposta de termo de compromisso do Banco UBS Pactual S.A. de pagar R$ 50.000,00 à… | cvm-col-20080930-d06 | fichas/tc/2008-06.md |
+| termo-compromisso | RJ2008/4874 | 2008-09-30 | rejeitado | O Colegiado rejeitou proposta de Termo de Compromisso de R$ 15.000,00 e de adoção de controles internos apresentada pelo proponente, por… | cvm-col-20080930-d05 | fichas/tc/2008-06.md |
+| termo-compromisso | RJ2007/13889 | 2008-09-30 | aceito | O Colegiado aceitou três propostas de termo de compromisso de acusados por notícia na imprensa sem fato relevante (Instrução 358/02): duas… | cvm-col-20080930-d04 | fichas/tc/2008-06.md |
+| termo-compromisso | RJ2007/11415 | 2008-09-30 | rejeitado | Apreciação de proposta de termo de compromisso. | cvm-col-20080930-d03 | fichas/tc/2008-06.md |
+| decisao-colegiado | RJ2007/10884 | 2008-09-23 | nao-provido | Recurso contra decisão da SEP. | cvm-col-20080923-d04 | fichas/colegiado/2008-21.md |
+| termo-compromisso | RJ2008/4873 | 2008-09-09 | outro | Proposta de Termo de Compromisso de R$ 10.000,00 por não envio de informações periódicas (art. 13, I, Instrução 202/93). Em linha com o… | cvm-col-20080909-d05 | fichas/tc/2008-06.md |
+| termo-compromisso | RJ2008/4871 | 2008-09-09 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de um diretor de relações com investidores da Biomm S.A., acusado de não enviar… | cvm-col-20080909-d04 | fichas/tc/2008-06.md |
+| termo-compromisso | RJ2008/2569 | 2008-09-09 | rejeitado | O Colegiado rejeitou proposta de Termo de Compromisso de cinco administradores da Pantanal Plaza Shopping S.A., pelo parecer do Comitê: não… | cvm-col-20080909-d03 | fichas/tc/2008-06.md |
+| termo-compromisso | RJ2007/11851 | 2008-09-09 | rejeitado | Por unanimidade, o Colegiado rejeitou proposta de termo de compromisso de um administrador da COEST Construtora S.A., de convocar AGOs de… | cvm-col-20080909-d02 | fichas/tc/2008-06.md |
+| decisao-colegiado | — | 2008-09-05 | indeferido | O Colegiado indeferiu o pedido de tratamento confidencial a contratos de compra e venda de ações da Petroquímica União S.A., por não… | cvm-col-20080905-d01 | fichas/colegiado/2008-20.md |
+| pas | 15/2006 | 2008-09-03 | condenacao | Cachoeira Velonorte S/A a) Não obediência aos prazos de prestação de informações obrigatórias da companhia, bem como a inadequação e… | cvm-pas-15-2006 | fichas/pas/2008-06.md |
+| decisao-colegiado | — | 2008-08-29 | deferido | O Colegiado deferiu a confidencialidade pedida pela Votorantim Celulose e Papel S.A. sobre proposta de aquisição de ações da Aracruz… | cvm-col-20080829-d01 | fichas/colegiado/2008-19.md |
+| decisao-colegiado | — | 2008-08-29 | deferido | O Colegiado deferiu tratamento confidencial ao contrato de compra e venda de ações da Anglo Ferrous Brazil S.A., pedido pela Anglo American… | cvm-col-20080829-d01-r2 | fichas/colegiado/2008-19.md |
+| acordao-crsfn | RJ-2006-783 | 2008-08-28 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falta de envio de informações periódicas e eventuais à autoridade fiscalizadora… | crsfn-9814 | fichas/crsfn/2008-05.md |
+| pas | RJ2006/5343 | 2008-08-26 | parcial | Companhia Brasileira de Antibióticos - Descumprimento do dever de manter o registro da companhia aberta Cia. Brasileira de Antibióticos… | cvm-pas-rj2006-5343 | fichas/pas/2008-05.md |
+| pas | RJ2006/5410 | 2008-08-21 | condenacao | Cia Nacional do Vestuário - Descumprimento do dever de elaborar as demonstrações financeiras da companhia no prazo legal. Multa. - Não… | cvm-pas-rj2006-5410 | fichas/pas/2008-04.md |
+| decisao-colegiado | RJ2008/7192 | 2008-08-13 | deferido | O Colegiado entendeu que não se justificaria atuação da CVM para exigir da Lupatech S.A., em reestruturação societária, a aplicação… | cvm-col-20080813-d01-r2 | fichas/colegiado/2008-18.md |
+| acordao-crsfn | RJ-2005/3646 | 2008-07-30 | condenacao | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Falta de prestação, à autoridade fiscalizadora e por período de 3 (três) anos… | crsfn-9747 | fichas/crsfn/2008-05.md |
+| decisao-colegiado | RJ2008/4135 | 2008-07-22 | deferido | O Colegiado deferiu o pedido de dispensa da Indústrias Romi S.A. na incorporação da controlada J.A.C. Indústria Metalúrgica Ltda., quanto à… | cvm-col-20080722-d26 | fichas/colegiado/2008-17.md |
+| decisao-colegiado | RJ2007/14986 | 2008-07-22 | parcial | O Colegiado deu parcial provimento a pedido de reconsideração de Bertin S.A., Vigor e Leco contra decisão que indeferiu tratamento… | cvm-col-20080722-d15 | fichas/colegiado/2008-16.md |
+| decisao-colegiado | RJ2005/7740 | 2008-07-22 | parcial | Recurso contra decisão da SEP em processo de rito sumário. PAS RJ2005/7740. | cvm-col-20080722-d02 | fichas/colegiado/2008-16.md |
+| decisao-colegiado | RJ2008/2282 | 2008-07-15 | nao-provido | Recurso contra decisão da SEP em processo de rito sumário. PAS RJ2008/2282. | cvm-col-20080715-d05 | fichas/colegiado/2008-15.md |
+| decisao-colegiado | RJ2007/11254 | 2008-07-15 | nao-provido | Recurso contra decisão da SEP em processo de rito sumário. PAS RJ2007/11254. | cvm-col-20080715-d04 | fichas/colegiado/2008-15.md |
+| termo-compromisso | 05/2006 | 2008-07-08 | aceito | O Colegiado aceitou as propostas de termo de compromisso de dois diretores de relações com investidores, de R$ 100.000,00 cada, por não… | cvm-col-20080708-d04 | fichas/tc/2008-05.md |
+| termo-compromisso | RJ2007/8556 | 2008-07-08 | outro | O Colegiado, acompanhando o voto do relator, encaminhou ao Comitê de Termo de Compromisso a proposta apresentada intempestivamente no PAS… | cvm-col-20080708-d01 | fichas/tc/2008-05.md |
+| acordao-crsfn | RJ2002/1822 | 2008-06-25 | parcial | RECURSO VOLUNTÁRIO E DE OFÍCIO – Mercado de valores mobiliários – Falta de prévia publicação de editais referentes a operações de… | crsfn-8557 | fichas/crsfn/2008-04.md |
+| decisao-colegiado | RJ2007/0057 | 2008-06-24 | provido | O Colegiado deu provimento ao recurso da Gafisa S.A. contra solicitação da SEP para comunicado ao mercado sobre certidão que questionava… | cvm-col-20080624-d11 | fichas/colegiado/2008-14.md |
+| termo-compromisso | RJ2007/7292; RJ2007/7548 | 2008-06-24 | aceito | O Colegiado aceitou nova proposta de Termo de Compromisso da Gradual CCTVM S.A. nos PAS RJ2007/7292 e RJ2007/7548, sobre não divulgação de… | cvm-col-20080624-d10 | fichas/tc/2008-04.md |
+| pas | RJ2006/4849 | 2008-06-17 | condenacao | Campanha Nacional de Álcalis - Não-envio, ou atraso no envio, de informações periódicas e eventuais da companhia, em infração aos artigos… | cvm-pas-rj2006-4849 | fichas/pas/2008-03.md |
+| acordao-crsfn | 2005-2793 | 2008-06-12 | parcial | RECURSOS VOLUNTÁRIO E DE OFÍCIO – Mercado de valores mobiliários – Falta de simultânea divulgação no País de informações adicionais às… | crsfn-9603 | fichas/crsfn/2008-03.md |
+| termo-compromisso | RJ2007/9080 | 2008-06-10 | aceito | O Colegiado aceitou a proposta de termo de compromisso da Mellon Serviços Financeiros DTVM S.A., administradora de fundo, de R$ 40.000,00… | cvm-col-20080610-d08 | fichas/tc/2008-04.md |
+| termo-compromisso | RJ2008/0236 | 2008-06-10 | rejeitado | O Colegiado rejeitou proposta de Termo de Compromisso do diretor de RI da Sola S.A. Indústrias Alimentícias no PAS RJ2008/0236, sobre… | cvm-col-20080610-d03 | fichas/tc/2008-04.md |
+| termo-compromisso | RJ2007/10843 | 2008-06-10 | aceito | O Colegiado aceitou a proposta de Termo de Compromisso de R$ 30.000,00 do acusado no PAS RJ2007/10843, pelos argumentos do parecer do… | cvm-col-20080610-d02 | fichas/tc/2008-04.md |
+| acordao-crsfn | RJ2006/806 | 2008-05-27 | absolvicao | RECURSOS DE OFÍCIO – Mercado de valores mobiliários – Falta de envio de informações periódicas e eventuais à autoridade fiscalizadora… | crsfn-9843 | fichas/crsfn/2008-03.md |
+| termo-compromisso | RJ2007/2078 | 2008-05-20 | aceito | O Colegiado rejeitou as novas propostas da Geração Futuro CV S.A., da Geração Administradora de Recursos S/C Ltda. e de seu diretor, por… | cvm-col-20080520-d01 | fichas/tc/2008-03.md |
+| decisao-colegiado | — | 2008-05-15 | indeferido | O Colegiado negou tratamento sigiloso ao contrato de compra de ações da TNCP, já apresentado pela Vivo sem pedido de confidencialidade em… | cvm-col-20080515-d01 | fichas/colegiado/2008-11.md |
+| termo-compromisso | RJ2007/3772; RJ2007/7549 | 2008-05-13 | aceito | O Colegiado aceitou nova proposta de termo de compromisso da DTVM e de dois investidores representados, de R$ 30.000,00 por processo (R$… | cvm-col-20080513-d04 | fichas/tc/2008-03.md |
+| termo-compromisso | RJ2007/10681 | 2008-04-29 | aceito | O Colegiado aceitou proposta de termo de compromisso de R$ 31.500,00 da distribuidora, por não divulgar nem comunicar à CVM a aquisição de… | cvm-col-20080429-d03 | fichas/tc/2008-03.md |
+| decisao-colegiado | RJ2008/2636 | 2008-04-25 | deferido | O Colegiado concedeu as dispensas pedidas pela Setiba Participações S.A. na cisão parcial com incorporação pela Farmasa: fato relevante… | cvm-col-20080425-d09 | fichas/colegiado/2008-10.md |
+| decisao-colegiado | RJ2007/8672 | 2008-04-25 | nao-provido | Recurso contra decisão da SEP em processo de rito sumário. | cvm-col-20080425-d08 | fichas/colegiado/2008-10.md |
+| decisao-colegiado | RJ2008/2853 | 2008-04-08 | deferido | Pedido de dispensa de apresentação de formulários de demonstrações financeiras padronizadas e de informações trimestrais. Proc. RJ2008/2853. | cvm-col-20080408-d06 | fichas/colegiado/2008-09.md |
+| decisao-colegiado | RJ2007/10965 | 2008-04-01 | nao-provido | Recurso contra decisão da SEP em processo de rito sumário. Proc. RJ2007/10965. | cvm-col-20080401-d17 | fichas/colegiado/2008-08.md |
+| decisao-colegiado | RJ2007/3673 | 2008-03-25 | outro | O Colegiado, com base no parecer da PFE e acompanhando o voto do relator, deu aos fatos nova qualificação jurídica (potencial infração ao… | cvm-col-20080325-d5761 | fichas/colegiado/2008-08.md |
+| termo-compromisso | RJ2007/11253 | 2008-03-25 | aceito | O Colegiado aceitou proposta de termo de compromisso de R$ 15.000,00 apresentada pelo diretor de relações com investidores da… | cvm-col-20080325-d05 | fichas/tc/2008-02.md |
+| termo-compromisso | RJ2007/5041 | 2008-03-25 | aceito | O Colegiado aceitou as propostas de Termo de Compromisso do DRI (R$ 30.000,00) e das três acionistas, em conjunto (R$ 30.000,00), em PAS… | cvm-col-20080325-d04 | fichas/tc/2008-02.md |
+| termo-compromisso | RJ2007/5035 | 2008-03-25 | aceito | O Colegiado aceitou a proposta de Termo de Compromisso de três acionistas, de pagamento de R$ 30.000,00 à CVM em conjunto, e rejeitou a de… | cvm-col-20080325-d03 | fichas/tc/2008-02.md |
+| termo-compromisso | RJ2007/3821 | 2008-03-04 | aceito | O Colegiado aceitou a proposta de termo de compromisso de um acusado no PAS RJ2007/3821, de pagar R$ 100.000,00 (aditada da proposta… | cvm-col-20080304-d07 | fichas/tc/2008-02.md |
+| termo-compromisso | 15/2006 | 2008-03-04 | rejeitado | O Colegiado rejeitou as propostas de Termo de Compromisso de três acusados no PAS sobre divulgação de informações periódicas e eventuais e… | cvm-col-20080304-d04 | fichas/tc/2008-01.md |
+| termo-compromisso | RJ2007/10884 | 2008-02-26 | rejeitado | O Colegiado rejeitou a proposta de Termo de Compromisso do ex-DRI da Livraria do Globo S.A., de R$ 2.000,00, em PAS por não envio de IAN/05… | cvm-col-20080226-d03 | fichas/tc/2008-01.md |
+| decisao-colegiado | RJ2007/3809 | 2008-02-19 | nao-provido | O Colegiado, por unanimidade, manteve o indeferimento de proposta de termo de compromisso de um diretor de relações com investidores de… | cvm-col-20080219-d09 | fichas/colegiado/2008-03.md |
+| termo-compromisso | RJ2007/7548 | 2008-02-19 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso da Gradual CCVM S.A., administradora de fundo, por não divulgar declaração de… | cvm-col-20080219-d08 | fichas/tc/2008-01.md |
+| termo-compromisso | RJ2007/7292 | 2008-02-19 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso da Gradual CCVM S.A., acompanhando o parecer do Comitê, por considerá-la… | cvm-col-20080219-d07 | fichas/tc/2008-01.md |
+| pas | RJ2007/4107 | 2008-01-23 | condenacao | Recrusul S.A. - Publicação intempestiva de fato relevante acerca de deferimento de pedido de Recuperação Judicial e não publicação de fato… | cvm-pas-rj2007-4107 | fichas/pas/2008-02.md |
+| pas | RJ2006/9070 | 2008-01-23 | condenacao | [pessoa física] - Alienação, por investidor, de participação acionária relevante no capital social de companhia aberta sem as devidas… | cvm-pas-rj2006-9070 | fichas/pas/2008-01.md |
+| decisao-colegiado | — | 2008-01-22 | indeferido | O Colegiado indeferiu, por unanimidade, pedido de confidencialidade de contrato de compra de quotas da Goult, integrante da cadeia de… | cvm-col-20080122-d06 | fichas/colegiado/2008-02.md |
+| pas | RJ2007/9559 | 2008-01-16 | condenacao | Mellon Serviços Financeiros DTVM S.A. - Aquisição e alienação por Clube de Investimento de participação acionária relevante no capital… | cvm-pas-rj2007-9559 | fichas/pas/2008-01.md |
+| termo-compromisso | RJ2007/10966 | 2008-01-08 | aceito | O Colegiado aceitou a proposta de termo de compromisso do diretor de relações com investidores da Mendes Júnior Engenharia S.A., por atraso… | cvm-col-20080108-d03 | fichas/tc/2008-01.md |
+| decisao-colegiado | — | 2008-01-04 | indeferido | O Colegiado não concedeu tratamento confidencial a consulta de companhia estrangeira, por não observância do procedimento do art. 14 da… | cvm-col-20080104-d01 | fichas/colegiado/2008-01.md |
+| pas | RJ2007/7406 | 2007-12-18 | condenacao | Alienação, pela Madeireira Giacomet S.A. Indústria e Comércio, de participação acionária relevante no capital social de companhia aberta… | cvm-pas-rj2007-7406 | fichas/pas/2007-15.md |
+| termo-compromisso | RJ2007/10967 | 2007-12-18 | aceito | O Colegiado, com base no parecer do Comitê, aceitou proposta de termo de compromisso do acusado, diretor de relações com investidores da… | cvm-col-20071218-d10 | fichas/tc/2007-07.md |
+| termo-compromisso | RJ2007/3820 | 2007-12-18 | aceito | O Colegiado aceitou proposta de termo de compromisso da diretora de relações com investidores da RIPI, acusada de não divulgar fato… | cvm-col-20071218-d08 | fichas/tc/2007-07.md |
+| termo-compromisso | RJ2007/3772; RJ2007/7549 | 2007-12-18 | rejeitado | Apreciação de proposta de termo de compromisso. | cvm-col-20071218-d07 | fichas/tc/2007-07.md |
+| termo-compromisso | RJ2007/3809 | 2007-12-18 | rejeitado | O Colegiado, acompanhando o parecer do Comitê, rejeitou proposta de termo de compromisso do acusado, diretor de relações com investidores… | cvm-col-20071218-d06 | fichas/tc/2007-07.md |
+| termo-compromisso | RJ2007/8672 | 2007-12-18 | rejeitado | O Colegiado, com base no parecer do Comitê, rejeitou proposta de termo de compromisso do acusado, diretor de relações com investidores da… | cvm-col-20071218-d02 | fichas/tc/2007-06.md |
+| decisao-colegiado | — | 2007-12-14 | parcial | O Colegiado manteve o tratamento confidencial concedido em 18.04.07 a acordos do Grupo Ipiranga, mas determinou a divulgação do Acordo de… | cvm-col-20071214-d01 | fichas/colegiado/2007-25.md |
+| acordao-crsfn | 05/4215 | 2007-11-22 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falta de prestação de informações à autoridade fiscalizadora da área – Impossibilidade… | crsfn-9249 | fichas/crsfn/2007-02.md |
+| termo-compromisso | RJ2007/8684 | 2007-11-13 | aceito | O Colegiado aceitou a proposta de termo de compromisso do diretor de RI da Companhia Técnica de Engenharia Elétrica, em PAS por atrasos em… | cvm-col-20071113-d09 | fichas/tc/2007-06.md |
+| termo-compromisso | RJ2007/3084 | 2007-11-13 | aceito | Acompanhando o parecer do Comitê, o Colegiado aceitou proposta de termo de compromisso de um diretor de RI de companhia aberta (USIMINAS)… | cvm-col-20071113-d08 | fichas/tc/2007-06.md |
+| decisao-colegiado | RJ2007/1208 | 2007-11-06 | nao-provido | Recurso contra decisão da SEP em processo de rito sumário. PAS RJ2007/1208. | cvm-col-20071106-d04 | fichas/colegiado/2007-22.md |
+| pas | RJ2007/3639 | 2007-10-31 | condenacao | Os administradores de companhia aberta são obrigados a comunicar imediatamente à bolsa de valores e a divulgar pela imprensa qualquer… | cvm-pas-rj2007-3639 | fichas/pas/2007-14.md |
+| decisao-colegiado | — | 2007-10-31 | indeferido | O Colegiado indeferiu o tratamento sigiloso pedido para o laudo de avaliação do preço de emissão de ações, por não observado o art. 14 da… | cvm-col-20071031-d02 | fichas/colegiado/2007-21.md |
+| decisao-colegiado | RJ2007/12488 | 2007-10-30 | deferido | O Colegiado concedeu à Petroquímica Comodoro Rivadavia S.A. dispensa de apresentar os formulários DFP e ITR no registro de companhia… | cvm-col-20071030-d10 | fichas/colegiado/2007-21.md |
+| pas | RJ2007/1176 | 2007-10-23 | condenacao | As pessoas mencionadas no caput do art. 12, § 4º (acionistas controladores, diretos ou indiretos, acionistas que elegerem membros do… | cvm-pas-rj2007-1176 | fichas/pas/2007-14.md |
+| termo-compromisso | RJ2006/4849 | 2007-10-17 | rejeitado | O Colegiado rejeitou as nove propostas de Termo de Compromisso dos administradores da Companhia Nacional de Álcalis, acompanhando o parecer… | cvm-col-20071017-d03 | fichas/tc/2007-05.md |
+| pas | RJ2006/9068 | 2007-10-02 | condenacao | Não divulgação de fato relevante, em infração ao disposto no art. 3º da Instrução CVM nº 358/02. Multa. | cvm-pas-rj2006-9068 | fichas/pas/2007-13.md |
+| pas | 23/2005 | 2007-10-02 | absolvicao | Não proceder à publicação de fato relevante quando da deliberação pelo conselho de administração de aumento de capital. Absolvições. - Não… | cvm-pas-23-2005 | fichas/pas/2007-13.md |
+| termo-compromisso | RJ2007/2078 | 2007-09-18 | rejeitado | O Colegiado rejeitou a proposta de Termo de Compromisso da Geração Futuro CV S.A., da Geração Administradora de Recursos S/C Ltda. e de… | cvm-col-20070918-d05 | fichas/tc/2007-05.md |
+| decisao-colegiado | RJ2007/10398 | 2007-09-04 | deferido | O Colegiado deferiu a dispensa de divulgação do ITR do 2º trimestre de 2007 pedida pela CPM Braxis S.A., por entender que, pedida no… | cvm-col-20070904-d02 | fichas/colegiado/2007-16.md |
+| decisao-colegiado | — | 2007-08-23 | deferido | O Colegiado deferiu, por unanimidade, a não divulgação de fato relevante pela Brascan Residential Properties S.A. (art. 7º da Instrução… | cvm-col-20070823-d01 | fichas/colegiado/2007-15.md |
+| termo-compromisso | RJ2006/9070 | 2007-08-21 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso apresentada por um acusado no PAS RJ2006/9070, por não divulgar alienação de… | cvm-col-20070821-d07 | fichas/tc/2007-05.md |
+| termo-compromisso | RJ2007/1176 | 2007-07-31 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso do Instituto Aerus de Seguridade Social, acusado de não comunicar alienações de… | cvm-col-20070731-d07 | fichas/tc/2007-04.md |
+| decisao-colegiado | — | 2007-07-25 | indeferido | O Colegiado indeferiu pedido da Vulcabrás S.A. de dispensa de divulgação de fato relevante sobre aquisição de controle da Azaléia (art. 6º… | cvm-col-20070725-d01 | fichas/colegiado/2007-14.md |
+| pas | RJ2007/1079 | 2007-07-10 | parcial | Cumpre ao Diretor de Relações com Investidores divulgar e comunicar à CVM qualquer ato ou fato relevante ocorrido ou relacionado aos seus… | cvm-pas-rj2007-1079 | fichas/pas/2007-09.md |
+| decisao-colegiado | RJ2006/8065 | 2007-07-10 | nao-provido | Recurso contra decisão da SEP em processo de rito sumário. PAS RJ2006/8065. | cvm-col-20070710-d15 | fichas/colegiado/2007-12.md |
+| decisao-colegiado | RJ2006/7830 | 2007-07-10 | nao-provido | Recurso contra decisão da SEP em processo de rito sumário. PAS RJ2006/7830. | cvm-col-20070710-d14 | fichas/colegiado/2007-12.md |
+| decisao-colegiado | RJ2007/4219; RJ2007/4258 | 2007-07-03 | parcial | O Colegiado entendeu que a obrigatoriedade da divulgação até o nível de pessoa física, como determinada pela SEP e pela SRE, deveria ser… | cvm-col-20070703-d15 | fichas/colegiado/2007-11.md |
+| termo-compromisso | RJ2006/9825 | 2007-07-03 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso do ex-diretor de RI da Livraria do Globo S.A., por omissão de IAN/05 e ITRs/06 e de… | cvm-col-20070703-d09 | fichas/tc/2007-04.md |
+| decisao-colegiado | — | 2007-06-28 | outro | O Colegiado deliberou aplicar à BR Malls Participações S.A. a decisão do processo da Iguatemi Empresa de Shopping Centers S/A, no pedido de… | cvm-col-20070628-d18 | fichas/colegiado/2007-11.md |
+| decisao-colegiado | — | 2007-06-28 | outro | Ao analisar pedido de tratamento confidencial da Iguatemi Empresa de Shopping Centers S.A. sobre preço de aquisição de participação, o… | cvm-col-20070628-d17 | fichas/colegiado/2007-11.md |
+| decisao-colegiado | — | 2007-06-22 | indeferido | O Colegiado indeferiu o pedido de tratamento confidencial. Fundamento: já tomada a decisão de realizar a OPA voluntária da Cosan Limited… | cvm-col-20070622-d01 | fichas/colegiado/2007-10.md |
+| decisao-colegiado | RJ2007/0196 | 2007-06-12 | provido | O Colegiado deu provimento a recurso da Dynamo Administração de Recursos Ltda. contra indeferimento pela SEP da dispensa de fato relevante… | cvm-col-20070612-d08 | fichas/colegiado/2007-09.md |
+| decisao-colegiado | RJ2006/7557 | 2007-06-12 | outro | O Colegiado considerou prejudicada a consulta da ABRASCA sobre se a publicação de fatos relevantes no BDI da Bovespa atende à exigência de… | cvm-col-20070612-d01-r2 | fichas/colegiado/2007-09.md |
+| decisao-colegiado | — | 2007-06-05 | indeferido | O Colegiado indeferiu o pedido de tratamento confidencial da BR Malls Participações S.A. sobre o preço de aquisições, por constatar que o… | cvm-col-20070605-d07 | fichas/colegiado/2007-09.md |
+| decisao-colegiado | — | 2007-06-05 | indeferido | Pedido de concessão de tratamento confidencial. | cvm-col-20070605-d06 | fichas/colegiado/2007-09.md |
+| decisao-colegiado | RJ2007/3465 | 2007-05-29 | deferido | O Colegiado, acompanhando o relator, não exigiu laudo de avaliação a preços de mercado na incorporação da Beverage Associates Holding pela… | cvm-col-20070529-d07 | fichas/colegiado/2007-08.md |
+| decisao-colegiado | — | 2007-05-16 | outro | O Colegiado prorrogou até o fim do dia 17.05.2007 os prazos de entrega de informações periódicas que venceriam em 15 e 16.05.2007… | cvm-col-20070516-d01 | fichas/colegiado/2007-07.md |
+| decisao-colegiado | — | 2007-04-18 | deferido | O Colegiado deferiu tratamento confidencial a documentos da aquisição do controle do Grupo Ipiranga pela Ultrapar, com Braskem e Petrobras… | cvm-col-20070418-d01 | fichas/colegiado/2007-06.md |
+| pas | RJ2006/5928 | 2007-04-17 | condenacao | Não divulgação de fato relevante. Infração ao art. 3º c/c art. 6º, parágrafo único, da Instrução 358/02. Advertência. | cvm-pas-rj2006-5928 | fichas/pas/2007-04.md |
+| decisao-colegiado | RJ2006/7828 | 2007-04-17 | nao-provido | Recurso contra decisão da SEP em processo de rito sumário. | cvm-col-20070417-d03 | fichas/colegiado/2007-05.md |
+| decisao-colegiado | RJ2006/8981 | 2007-04-17 | nao-provido | Recurso contra decisão da SEP em processo de rito sumário. | cvm-col-20070417-d02 | fichas/colegiado/2007-05.md |
+| termo-compromisso | RJ2006/7829 | 2007-02-26 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso do acusado, diretor de relações com investidores da Livraria do Globo S.A. no período… | cvm-col-20070226-d04 | fichas/tc/2007-02.md |
+| decisao-colegiado | — | 2007-02-22 | outro | O Colegiado decidiu, por unanimidade, determinar a imediata divulgação dos fatos relevantes da Sadia S.A. cuja não divulgação fora deferida… | cvm-col-20070222-d01 | fichas/colegiado/2007-03.md |
+| pas | 01/2003 | 2007-02-01 | absolvicao | Não divulgação de fato relevante, em infração ao art. 9º da Instrução CVM nº 31/84. Infração ao dever de diligência previsto no art. 153 da… | cvm-pas-01-2003 | fichas/pas/2007-03.md |
+| termo-compromisso | RJ2006/5905 | 2007-01-30 | aceito | O Colegiado aceitou proposta de termo de compromisso do diretor de relações com investidores da CELM em PAS por falta de informações… | cvm-col-20070130-d06 | fichas/tc/2007-01.md |
+| termo-compromisso | RJ2006/5820 | 2007-01-30 | aceito | O Colegiado aceitou proposta de termo de compromisso da Americel S.A. e de dois dirigentes em PAS por não envio de ITRs (Instrução 202/93)… | cvm-col-20070130-d05 | fichas/tc/2007-01.md |
+| pas | 02/2003 | 2007-01-24 | parcial | [pessoa física]) - Os administradores de companhia aberta são obrigados a comunicar imediatamente à bolsa de valores e a divulgar pela… | cvm-pas-02-2003 | fichas/pas/2007-02.md |
+| termo-compromisso | RJ2005/7463 | 2007-01-23 | aceito | O Colegiado aceitou nova proposta de termo de compromisso do ex-diretor de relações com investidores da Brasil Ferrovias S.A. (fato… | cvm-col-20070123-d09 | fichas/tc/2007-01.md |
+| termo-compromisso | 26/2005 | 2007-01-23 | aceito | O Colegiado acompanhou o parecer do Comitê e aceitou proposta conjunta de termo de compromisso da M&G Poliéster S.A. e de seu diretor de… | cvm-col-20070123-d04 | fichas/tc/2007-01.md |
+| pas | RJ2006/4776 | 2007-01-17 | condenacao | Não divulgação de Fato Relevante sobre a contratação de dois empréstimos concedidos pela Caemi Mineração e Metalurgia S.A. - CAEMI… | cvm-pas-rj2006-4776 | fichas/pas/2007-01.md |
+| termo-compromisso | RJ2006/6107 | 2007-01-16 | aceito | O Colegiado aceitou proposta de termo de compromisso da diretora de relações com investidores da Parcom Participações S.A. em PAS sumário… | cvm-col-20070116-d02 | fichas/tc/2007-01.md |
+| decisao-colegiado | RJ2004/1616 | 2007-01-09 | outro | O Colegiado acompanhou a SEP em manifestação preliminar sobre o cumprimento do Termo de Compromisso da Petrobras (PAS RJ2004/1616), sobre… | cvm-col-20070109-d05 | fichas/colegiado/2007-01.md |
+| termo-compromisso | RJ2006/3189 | 2006-12-19 | aceito | O Colegiado acompanhou o Comitê e aceitou proposta de termo de compromisso de quatro administradores da Lojas Arapuã S.A., apresentada… | cvm-col-20061219-d08 | fichas/tc/2006-07.md |
+| termo-compromisso | RJ2006/5908 | 2006-12-12 | aceito | O Colegiado acompanhou o Comitê e aceitou proposta de termo de compromisso da Epilife Empreendimentos e Participações S.A. por omissão de… | cvm-col-20061212-d06 | fichas/tc/2006-07.md |
+| termo-compromisso | RJ2006/6106 | 2006-12-05 | aceito | O Colegiado aceitou proposta de termo de compromisso da proponente no PAS RJ2006/6106 (Liga de Futebol S.A.), de pagamento de R$ 15.000,00… | cvm-col-20061205-d09 | fichas/tc/2006-07.md |
+| termo-compromisso | RJ2006/1512 | 2006-12-05 | aceito | O Colegiado aceitou proposta de termo de compromisso de diretor da acionista controladora da Usina Costa Pinto S.A. em PAS por não… | cvm-col-20061205-d07 | fichas/tc/2006-07.md |
+| termo-compromisso | RJ2006/6105 | 2006-12-05 | aceito | O Colegiado aceitou proposta de termo de compromisso da diretora de RI da Forpart S.A., em rito sumário por não envio de informações… | cvm-col-20061205-d06 | fichas/tc/2006-07.md |
+| decisao-colegiado | RJ2006/5824 | 2006-11-28 | nao-provido | Recurso contra decisão da SEP em processo de rito sumário. | cvm-col-20061128-d07 | fichas/colegiado/2006-18.md |
+| termo-compromisso | RJ2005/3742 | 2006-11-28 | aceito | Em pedido de reconsideração, o Colegiado aceitou proposta de termo de compromisso dos administradores e acionistas controladores da Usina… | cvm-col-20061128-d02 | fichas/tc/2006-06.md |
+| termo-compromisso | RJ2006/5822 | 2006-11-22 | rejeitado | O Colegiado, acompanhando o Comitê, rejeitou proposta de termo de compromisso da responsável pela DRI da CTM Citrus S.A., por não ser… | cvm-col-20061122-d05 | fichas/tc/2006-06.md |
+| pas | RJ2006/2106 | 2006-11-08 | parcial | Não atualização do registro da companhia aberta Iderol S.A. Equipamentos Rodoviários perante a CVM. Multa para o Diretor de Relações com o… | cvm-pas-rj2006-2106 | fichas/pas/2006-25.md |
+| pas | RJ2005/7507 | 2006-11-08 | parcial | Não manutenção do registro da companhia aberta Dijon S.A. atualizado, em infração ao disposto no art. 6º da Instrução CVM nº 202/93. Multa… | cvm-pas-rj2005-7507 | fichas/pas/2006-25.md |
+| pas | RJ2005/7127 | 2006-11-08 | parcial | Não atualização do registro da companhia aberta Geotécnica S.A. perante a CVM, em infração ao disposto nos arts. 6º c/c os arts. 13, 16 e… | cvm-pas-rj2005-7127 | fichas/pas/2006-24.md |
+| pas | RJ2005/5222 | 2006-11-08 | outro | Não atualização do registro da companhia aberta Lumière S.A. perante a CVM, em infração ao disposto nos arts. 6º c/c os arts. 13, 16 e 17… | cvm-pas-rj2005-5222 | fichas/pas/2006-24.md |
+| termo-compromisso | RJ2005/1250 | 2006-11-07 | aceito | O Colegiado aceitou a segunda proposta de termo de compromisso dos administradores da Companhia Docas de Imbituba, de R$ 50.000,00, por… | cvm-col-20061107-d03 | fichas/tc/2006-06.md |
+| pas | RJ2005/5508 | 2006-10-31 | parcial | Não atualização de registro de companhia aberta, na forma dos arts. 13, 16 e 17 da Instrução CVM 202/93, em infração ao art. 6º desse… | cvm-pas-rj2005-5508 | fichas/pas/2006-22.md |
+| pas | RJ2005/4990 | 2006-10-31 | parcial | Não envio à CVM de informações periódicas e eventuais da companhia aberta SANO S.A., em infração ao disposto nos arts. 6º c/c os arts. 13… | cvm-pas-rj2005-4990 | fichas/pas/2006-22.md |
+| decisao-colegiado | RJ2006/5829 | 2006-10-31 | nao-provido | Recurso de ofício em processo de rito sumário. | cvm-col-20061031-d11 | fichas/colegiado/2006-16.md |
+| decisao-colegiado | RJ2006/0804 | 2006-10-31 | parcial | Recurso contra decisão da SEP em processo de rito sumário. | cvm-col-20061031-d10 | fichas/colegiado/2006-16.md |
+| decisao-colegiado | RJ2004/1616 | 2006-10-31 | outro | O Colegiado determinou que a SEP aprofunde discussões sobre o Manual de Procedimentos de Estimativa de Reservas da Petrobras, para incluir… | cvm-col-20061031-d08 | fichas/colegiado/2006-16.md |
+| termo-compromisso | RJ2006/3461 | 2006-10-03 | aceito | O Colegiado aceitou a proposta de termo de compromisso de um acusado no PAS RJ2006/3461 (Cia. Têxtil do Nordeste), por ser conveniente e… | cvm-col-20061003-d10 | fichas/tc/2006-05.md |
+| termo-compromisso | RJ2005/8714 | 2006-10-03 | rejeitado | O Colegiado rejeitou as propostas de termo de compromisso no PAS RJ2005/8714 (SPSCS Industrial S.A.), acompanhando o parecer do Comitê… | cvm-col-20061003-d06 | fichas/tc/2006-05.md |
+| pas | RJ2006/1559 | 2006-09-26 | parcial | Responsabilização dos administradores da companhia Goyana S.A. Indústrias Brasileiras de Matérias Plásticas pelo reiterado descumprimento… | cvm-pas-rj2006-1559 | fichas/pas/2006-19.md |
+| pas | RJ2005/7128 | 2006-09-11 | absolvicao | Responsabilização dos administradores da companhia Indústrias Madeirit S.A. pelo descumprimento do dever de atualização do registro da… | cvm-pas-rj2005-7128 | fichas/pas/2006-17.md |
+| pas | RJ2006/1621 | 2006-08-29 | parcial | Não atualização do registro da Companhia Brasileira de Estruturas Metálicas S.A., em descumprimento reiterado das disposições contidas nos… | cvm-pas-rj2006-1621 | fichas/pas/2006-17.md |
+| pas | RJ2006/1266 | 2006-08-29 | parcial | Não manutenção do registro de companhia aberta da [pessoa física] S.A. Indústria do Vestuário atualizado, em descumprimento reiterado das… | cvm-pas-rj2006-1266 | fichas/pas/2006-17.md |
+| pas | RJ2006/1853 | 2006-08-22 | parcial | Descumprimento do dever de manter o registro de companhia aberta atualizado, enviando à CVM as informações periódicas previstas nos artigos… | cvm-pas-rj2006-1853 | fichas/pas/2006-16.md |
+| pas | RJ2006/1574 | 2006-08-22 | absolvicao | Absolvido o ex-Diretor de Relações com Investidores da Telemig Celular S.A. da acusação de não ter publicado na imprensa oficial do local… | cvm-pas-rj2006-1574 | fichas/pas/2006-16.md |
+| pas | RJ2006/1528 | 2006-08-22 | parcial | Responsabilização exclusiva do Diretor de Relações com Investidores (anteriormente denominado Diretor de Relações com o Mercado) pela… | cvm-pas-rj2006-1528 | fichas/pas/2006-15.md |
+| decisao-colegiado | RJ2006/3388 | 2006-08-22 | nao-provido | O Colegiado negou provimento ao recurso da Hedging-Griffo CV S.A., representante de fundos, e manteve o entendimento da SEP de não exigir… | cvm-col-20060822-d04 | fichas/colegiado/2006-13.md |
+| decisao-colegiado | RJ2006/0800 | 2006-08-15 | nao-provido | Recurso contra decisão da SEP em processo de rito sumário. PAS RJ2006/0800. | cvm-col-20060815-d11 | fichas/colegiado/2006-13.md |
+| termo-compromisso | RJ2006/0782 | 2006-08-15 | aceito | O Colegiado aceitou proposta de termo de compromisso de dois diretores de relações com investidores da BVA Empreendimentos, por não… | cvm-col-20060815-d06 | fichas/tc/2006-04.md |
+| termo-compromisso | RJ2005/8528 | 2006-08-15 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de três ex-administradores da S.A. Indústria e Comércio Chapecó, acusados de… | cvm-col-20060815-d05 | fichas/tc/2006-03.md |
+| pas | RJ2006/1623 | 2006-08-01 | parcial | Descumprimento do dever de diligência pela não manutenção do registro de companhia aberta atualizado. | cvm-pas-rj2006-1623 | fichas/pas/2006-15.md |
+| pas | RJ2006/1622 | 2006-08-01 | parcial | Descumprimento do dever de diligência pela não manutenção do registro de companhia aberta atualizado. | cvm-pas-rj2006-1622 | fichas/pas/2006-14.md |
+| termo-compromisso | RJ2006/0808 | 2006-07-18 | rejeitado | O Colegiado rejeitou a proposta de Termo de Compromisso do diretor de relações com investidores de companhia aberta, acompanhando o parecer… | cvm-col-20060718-d06 | fichas/tc/2006-03.md |
+| termo-compromisso | RJ2006/0784 | 2006-06-20 | rejeitado | O Colegiado não acatou a proposta de Termo de Compromisso do acusado, diretor de relações com investidores, em PAS de rito sumário por não… | cvm-col-20060620-d05 | fichas/tc/2006-03.md |
+| decisao-colegiado | RJ2006/0806 | 2006-06-20 | nao-provido | Recurso de ofício em processo de rito sumário. PAS RJ2006/0806. | cvm-col-20060620-d01 | fichas/colegiado/2006-09.md |
+| pas | RJ2006/1267 | 2006-06-14 | parcial | Descumprimento reiterado do dever de manter atualizado o registro de companhia aberta, por parte de seu Diretor de Relações com… | cvm-pas-rj2006-1267 | fichas/pas/2006-12.md |
+| pas | RJ2005/8229 | 2006-06-14 | parcial | Responsabilidade do Diretor de Relações com Investidores da Cipla S.A. pelo descumprimento do dever de manter atualizado o registro da… | cvm-pas-rj2005-8229 | fichas/pas/2006-12.md |
+| decisao-colegiado | RJ2006/0796 | 2006-06-13 | parcial | Recurso contra decisão da SEP em processo de rito sumário. PAS RJ2006/0796. | cvm-col-20060613-d07 | fichas/colegiado/2006-09.md |
+| termo-compromisso | RJ2005/6765 | 2006-06-13 | aceito | O Colegiado aceitou a proposta de termo de compromisso do proponente, por informações não enviadas à CVM, considerando que a companhia… | cvm-col-20060613-d03 | fichas/tc/2006-03.md |
+| decisao-colegiado | RJ2006/0783 | 2006-06-06 | nao-provido | Recurso de ofício da SEP em processo de rito sumário. Proc. RJ2006/0783. | cvm-col-20060606-d03 | fichas/colegiado/2006-09.md |
+| termo-compromisso | RJ2005/7740 | 2006-05-30 | rejeitado | O Colegiado, acompanhando o Comitê, rejeitou proposta de Termo de Compromisso do acusado, em PAS de rito sumário por não envio de… | cvm-col-20060530-d05 | fichas/tc/2006-02.md |
+| termo-compromisso | RJ2005/7463 | 2006-05-30 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso do acusado, acompanhando o parecer do Comitê. Para o Comitê, a proposta era mera… | cvm-col-20060530-d04 | fichas/tc/2006-02.md |
+| decisao-colegiado | RJ2006/0801 | 2006-05-18 | nao-provido | Recurso contra decisão da SEP em processo de rito sumário. Proc. RJ2006/0801. | cvm-col-20060518-d03 | fichas/colegiado/2006-07.md |
+| decisao-colegiado | RJ2005/8359 | 2006-05-18 | nao-provido | Recurso contra decisão da SEP em processo de rito sumário. Proc. RJ2005/8359. | cvm-col-20060518-d02 | fichas/colegiado/2006-07.md |
+| pas | RJ2005/7315 | 2006-05-10 | parcial | Não atualização do registro de companhia aberta da Companhia Progresso Industrial Brasil Fábrica Bangu, em descumprimento às disposições… | cvm-pas-rj2005-7315 | fichas/pas/2006-11.md |
+| pas | RJ2005/7257 | 2006-05-10 | absolvicao | Não atualização do registro de companhia aberta da Companhia Bangu de Desenvolvimento e Participações, em descumprimento às disposições… | cvm-pas-rj2005-7257 | fichas/pas/2006-10.md |
+| pas | RJ2005/7234 | 2006-05-10 | parcial | Não atualização do registro de companhia aberta Dona Isabel S/A, em descumprimento às disposições contidas nos artigos 13, 16 e 17 da… | cvm-pas-rj2005-7234 | fichas/pas/2006-10.md |
+| decisao-colegiado | — | 2006-05-09 | outro | O Colegiado analisou proposta da SIN de Ofício-Circular que consideraria fato relevante o fechamento de fundos para novas aplicações e a… | cvm-col-20060509-d04 | fichas/colegiado/2006-07.md |
+| pas | RJ2005/8578 | 2006-05-04 | parcial | Responsabilidade do Diretor de Relações com Investidores da Easypar S.A. pelo descumprimento do dever de manter atualizado o registro da… | cvm-pas-rj2005-8578 | fichas/pas/2006-08.md |
+| pas | RJ2005/5936 | 2006-05-04 | parcial | Responsabilidade do Diretor de Relações com o Mercado da Cia Fiação [pessoa física] pelo descumprimento do dever de manter atualizado o… | cvm-pas-rj2005-5936 | fichas/pas/2006-08.md |
+| pas | RJ2005/5041 | 2006-05-04 | parcial | Responsabilidade do Diretor de Relações com Investidores da Beta S.A. Indústria e Comércio pelo descumprimento do dever de manter… | cvm-pas-rj2005-5041 | fichas/pas/2006-08.md |
+| pas | RJ2005/7244 | 2006-05-03 | parcial | Imputação de responsabilidade pela não apresentação das informações periódicas e pela não atualização do registro de companhia aberta da… | cvm-pas-rj2005-7244 | fichas/pas/2006-07.md |
+| decisao-colegiado | RJ2005/1508 | 2006-05-03 | parcial | O Colegiado deu provimento parcial a recurso da Porto Seguro Imóveis Ltda. contra decisão da SEP sobre a divulgação de ação de indenização… | cvm-col-20060503-d01 | fichas/colegiado/2006-07.md |
+| decisao-colegiado | — | 2006-04-17 | deferido | O Colegiado, por unanimidade, deferiu o pleito e confirmou que as companhias podem realizar conferências telefônicas e de imprensa sobre a… | cvm-col-20060417-d01 | fichas/colegiado/2006-06.md |
+| termo-compromisso | RJ2005/6729 | 2006-04-11 | aceito | O Colegiado aceitou proposta de Termo de Compromisso de proponentes indiciados em PAS por descumprimento da IN CVM 202/93 e da Lei… | cvm-col-20060411-d06 | fichas/tc/2006-02.md |
+| termo-compromisso | RJ2005/7741 | 2006-04-04 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso em rito sumário de diretor de RI da Trorion S.A., indiciado por falhas no art. 13, I… | cvm-col-20060404-d04 | fichas/tc/2006-01.md |
+| decisao-colegiado | RJ2005/5937 | 2006-01-31 | nao-provido | Recurso de ofício em processo de rito sumário. Proc. RJ2005/5937. | cvm-col-20060131-d08 | fichas/colegiado/2006-02.md |
+| decisao-colegiado | RJ2005/8470; RJ2005/8471 | 2006-01-31 | conhecimento | Conforme sugerido pelo relator, que apontou a inocuidade de publicar agora fato relevante complementar, o Colegiado não examinou o mérito… | cvm-col-20060131-d04 | fichas/colegiado/2006-02.md |
+| pas | RJ2005/2793 | 2005-11-30 | parcial | É responsabilidade do diretor de relações com investidores divulgar aos investidores locais, de forma simultânea, as mesmas informações… | cvm-pas-rj2005-2793 | fichas/pas/2005-16.md |
+| decisao-colegiado | RJ2005/8357 | 2005-11-22 | deferido | O Colegiado acatou o pleito das companhias Unibanco Leasing e Dibens Leasing para não atender integralmente às publicações da Instrução CVM… | cvm-col-20051122-d19 | fichas/colegiado/2005-18.md |
+| termo-compromisso | RJ2002/4311 | 2005-11-17 | rejeitado | O Colegiado indeferiu proposta de Termo de Compromisso de nove indiciados no PAS RJ2002/4311, que apura falta de convocação de assembleias… | cvm-col-20051117-d02 | fichas/tc/2005-03.md |
+| decisao-colegiado | RJ2005/4284 | 2005-11-17 | nao-provido | O Colegiado negou provimento a novo pedido de reconsideração da 524 Participações S.A. contra decisão que determinou a reapresentação de… | cvm-col-20051117-d01 | fichas/colegiado/2005-17.md |
+| pas | 01/2004 | 2005-11-16 | parcial | Imputação de descumprimento dos artigos 142, inciso III, e 158 da Lei nº 6.404/76. Absolvição. - Descumprimento do dever de diligência… | cvm-pas-01-2004 | fichas/pas/2005-16.md |
+| decisao-colegiado | RJ2005/7750 | 2005-11-09 | deferido | O Colegiado deferiu pleito da Suzano Petroquímica S.A. de dispensa de exigências em incorporações de companhias fechadas, após atendidas as… | cvm-col-20051109-d03 | fichas/colegiado/2005-17.md |
+| decisao-colegiado | RJ2005/7750 | 2005-11-08 | parcial | O Colegiado condicionou o atendimento do pleito da Suzano Petroquímica S.A. a que, nas incorporações sucessivas, todas as incorporadas… | cvm-col-20051108-d12 | fichas/colegiado/2005-17.md |
+| decisao-colegiado | RJ2005/4961 | 2005-10-11 | nao-provido | O Colegiado negou provimento a recurso do Opportunity Fund e da Opportunity Lógica Rio contra determinação da SEP de arquivamento, no… | cvm-col-20051011-d05 | fichas/colegiado/2005-15.md |
+| pas | RJ2004/6238 | 2005-10-05 | condenacao | VASP - Infração ao art. 3º da Instrução CVM nº 358/02, que dispõe sobre divulgação e comunicação de fato relevante. Multa. | cvm-pas-rj2004-6238 | fichas/pas/2005-12.md |
+| termo-compromisso | 19/00 | 2005-09-05 | outro | Em pedido de reconsideração de decisão que considerou descumprido o Termo de Compromisso de 04.07.02, o Colegiado concedeu prazo de 30 dias… | cvm-col-20050905-d01 | fichas/tc/2005-02.md |
+| decisao-colegiado | RJ2005/4284 | 2005-08-30 | nao-provido | O Colegiado negou provimento a recurso da companhia contra determinação da SEP de reapresentar ITRs de 2002 (31.03.02 e 30.06.02) para… | cvm-col-20050830-d02 | fichas/colegiado/2005-12.md |
+| termo-compromisso | RJ2004/1616 | 2005-08-16 | aceito | O Colegiado aprovou a celebração de termo de compromisso apresentado por dois indiciados por comunicação a analistas sobre reservas de gás… | cvm-col-20050816-d01 | fichas/tc/2005-02.md |
+| decisao-colegiado | RJ2005/0527 | 2005-08-09 | nao-provido | O Colegiado negou provimento ao recurso do espólio contra entendimento da SEP e considerou adequado o provisionamento do Bradesco para… | cvm-col-20050809-d09 | fichas/colegiado/2005-11.md |
+| decisao-colegiado | RJ2005/1717 | 2005-06-21 | nao-provido | O Colegiado negou provimento a recurso da companhia contra determinação da SEP de reapresentar o IAN com atualização do quadro 14.01… | cvm-col-20050621-d05 | fichas/colegiado/2005-10.md |
+| pas | RJ2002/1822 | 2005-05-06 | condenacao | [pessoa física] (CEMEPE INVESTIMENTOS S/A) O fato relevante deve ser reconhecido como tal a partir da avaliação de sua repercussão no valor… | cvm-pas-rj2002-1822 | fichas/pas/2005-07.md |
+| decisao-colegiado | RJ2005/2597 | 2005-05-03 | deferido | O Colegiado acatou os pedidos da Ambev para incorporar a CBB (sociedade anônima fechada): dispensa da publicação completa prevista na… | cvm-col-20050503-d06 | fichas/colegiado/2005-08.md |
+| decisao-colegiado | RJ2005/0865 | 2005-03-29 | deferido | O Colegiado dispensou a companhia fechada Submarino S.A. de publicar fato relevante sobre a incorporação de sua controladora Caicos… | cvm-col-20050329-d06 | fichas/colegiado/2005-06.md |
+| decisao-colegiado | RJ2005/0223 | 2005-03-22 | nao-provido | O Colegiado manteve a decisão da SEP que exigiu fato relevante complementar sobre a condenação arbitral da controlada Cat-Leo Energia S.A… | cvm-col-20050322-d08 | fichas/colegiado/2005-05.md |
+| decisao-colegiado | RJ2004/5476 | 2005-03-01 | outro | O Colegiado acompanhou o Presidente: o laudo de avaliação de aumento de capital da Ferrovia Centro Atlântica S.A. não precisa ser arquivado… | cvm-col-20050301-d02 | fichas/colegiado/2005-04.md |
+| pas | RJ2002/1415 | 2005-02-17 | condenacao | PARANAPANEMA S/A E CIA. PARAIBUNA DE METAIS Operação de cisão parcial com incorporação. [pessoa física] de Ações. Não divulgação imediata… | cvm-pas-rj2002-1415 | fichas/pas/2005-02.md |
+| termo-compromisso | RJ2002/1415 | 2004-12-14 | rejeitado | O Colegiado negou a celebração de Termo de Compromisso no PAS CVM RJ2002/1415, acompanhando o voto do relator: a proposta não seria… | cvm-col-20041214-d03 | fichas/tc/2004-02.md |
+| decisao-colegiado | RJ2004/5042 | 2004-09-21 | outro | O Colegiado entendeu não caber sua manifestação sobre recurso da Usina Costa Pinto S.A. contra entendimento da SEP de que operações de… | cvm-col-20040921-d02 | fichas/colegiado/2004-11.md |
+| acordao-crsfn | 16/00 | 2004-08-18 | absolvicao | RECURSO DE OFÍCIO - Mercado de valores mobiliários - Negociação de ações de companhia - Oscilação de ações em período antecedente à… | crsfn-4594 | fichas/crsfn/2004-03.md |
+| decisao-colegiado | RJ2004/2728 | 2004-07-27 | nao-provido | O Colegiado negou provimento a recurso de investidor contra decisão da SEP que não acolheu pedido de dispensa de publicação de fato… | cvm-col-20040727-d05 | fichas/colegiado/2004-09.md |
+| decisao-colegiado | RJ2004/2057 | 2004-07-13 | indeferido | Recurso contra a decisão da SRE em processo de rito sumário. Proc. RJ2004/2057. | cvm-col-20040713-d11 | fichas/colegiado/2004-08.md |
+| decisao-colegiado | RJ2002/5848 | 2004-07-13 | provido | O Colegiado manifestou-se no sentido de que companhias abertas falidas ou em liquidação estão dispensadas das informações dos incisos I, IV… | cvm-col-20040713-d08 | fichas/colegiado/2004-08.md |
+| decisao-colegiado | RJ2004/2330 | 2004-07-13 | nao-provido | Pedido de reconsideração de decisão do colegiado de aplicação de multa cominatória. Proc. RJ2004/2330. | cvm-col-20040713-d07 | fichas/colegiado/2004-08.md |
+| decisao-colegiado | RJ2004/2899 | 2004-07-06 | nao-provido | O Colegiado negou provimento a recurso da Companhia Energética do Maranhão contra decisão da SEP que determinou a republicação integral, no… | cvm-col-20040706-d07 | fichas/colegiado/2004-08.md |
+| decisao-colegiado | RJ2004/0007 | 2004-06-15 | parcial | O Colegiado acolheu em parte o pedido de reconsideração da Usiminas contra decisão de 23.03.2004 sobre projeções (Instrução CVM 202)… | cvm-col-20040615-d03 | fichas/colegiado/2004-07.md |
+| acordao-crsfn | RJ2001/8385 | 2004-05-26 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários - Atraso na elaboração e publicação de demonstrações financeiras - Não… | crsfn-4988 | fichas/crsfn/2004-02.md |
+| decisao-colegiado | RJ2002/5560 | 2004-05-18 | conhecimento | O Colegiado acompanhou a relatora e extinguiu o processo por estar prejudicada a matéria do recurso da Telefónica S.A. contra entendimento… | cvm-col-20040518-d01 | fichas/colegiado/2004-06.md |
+| acordao-crsfn | 22/99 | 2004-03-24 | absolvicao | RECURSO DE OFÍCIO - Mercado de valores mobiliários - Fato relevante - Negligência no dever de divulgação imputada aos administradores das… | crsfn-3963 | fichas/crsfn/2004-01.md |
+| decisao-colegiado | RJ2004/1469 | 2004-03-23 | deferido | O Colegiado acolheu pedido da Sul América Capitalização S.A. de prorrogação do prazo para entrega das Demonstrações Financeiras… | cvm-col-20040323-d04 | fichas/colegiado/2004-04.md |
+| decisao-colegiado | RJ2004/0007 | 2004-03-23 | nao-provido | O Colegiado, por maioria, acompanhou o voto do Presidente e negou provimento ao recurso da Usiminas contra decisão da SEP que determinou… | cvm-col-20040323-d02 | fichas/colegiado/2004-04.md |
+| decisao-colegiado | RJ2004/1008 | 2004-03-16 | provido | O Colegiado acatou recurso da Sadia S.A. contra decisão da SEP que exigiu a republicação das demonstrações financeiras de 31.12.2003 e… | cvm-col-20040316-d08 | fichas/colegiado/2004-04.md |
+| decisao-colegiado | RJ2003/11977 | 2004-03-09 | nao-provido | O Colegiado reconheceu que o caso não se enquadrava na hipótese do art. 9º, §1º, da Lei 6.385/76 (situação anormal de mercado) e não acatou… | cvm-col-20040309-d14 | fichas/colegiado/2004-03.md |
+| pas | 03/2002 | 2004-02-12 | parcial | O não pagamento de dividendo obrigatório na data prevista constitui hipótese de fato relevante, nos termos da legislação em vigor e a falta… | cvm-pas-03-2002 | fichas/pas/2004-01.md |
+| decisao-colegiado | RJ2003/13500 | 2004-01-27 | nao-provido | O Colegiado acompanhou o voto da relatora e manteve decisão da SEP que indeferiu pedido de dispensa de divulgação pela imprensa do aumento… | cvm-col-20040127-d04 | fichas/colegiado/2004-01.md |
+| termo-compromisso | RJ2003/4007 | 2003-12-22 | aceito | O Colegiado aceitou proposta de termo de compromisso da Hedging-Griffo Corretora de Valores pelo descumprimento da obrigação de divulgar… | cvm-col-20031222-d03 | fichas/tc/2003.md |
+| pas | RJ2003/0435 | 2003-12-17 | parcial | Contratos de Investimento Coletivo (CICs) da Suinvest Agropecuária S/A - Obrigatoriedade de manutenção do registro de companhia aberta… | cvm-pas-rj2003-0435 | fichas/pas/2003-09.md |
+| decisao-colegiado | RJ2002/4159; RJ2002/4168 | 2003-12-16 | provido | O Colegiado acompanhou o voto do relator e deu provimento a recurso da Cosipa/Usiminas S.A. contra decisão da SEP que determinou a… | cvm-col-20031216-d06 | fichas/colegiado/2003-14.md |
+| decisao-colegiado | RJ2003/7571 | 2003-12-16 | nao-provido | O Colegiado indeferiu recurso da Hedging-Griffo Corretora de Valores S.A. e da Hedging-Griffo Asset Management Ltda. contra decisão da SEP… | cvm-col-20031216-d05 | fichas/colegiado/2003-14.md |
+| decisao-colegiado | RJ2003/7573 | 2003-12-16 | nao-provido | O Colegiado indeferiu recurso contra decisão da SEP que negou autorização para dispensa de divulgação pela imprensa do aumento de… | cvm-col-20031216-d04 | fichas/colegiado/2003-14.md |
+| decisao-colegiado | RJ2003/10947 | 2003-12-16 | provido | O Colegiado deu provimento a recurso contra decisão da SEP que exigia divulgação de alteração na composição acionária da Saraiva S/A… | cvm-col-20031216-d03 | fichas/colegiado/2003-14.md |
+| acordao-crsfn | RJ2000/6498 | 2003-12-10 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários - Falta de divulgação, a bolsa de valores e ao mercado, de informações… | crsfn-4266 | fichas/crsfn/2003-04.md |
+| decisao-colegiado | — | 2003-11-18 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SEP de aperfeiçoamento das notas explicativas da 3.ª ITR da Cia. Suzano de Papel e… | cvm-col-20031118-d09 | fichas/colegiado/2003-13.md |
+| decisao-colegiado | RJ2003/1422 | 2003-11-11 | nao-provido | O Colegiado negou provimento a recurso de três diretores da Cremer S.A. e manteve o entendimento da SEP de que são devidas as informações… | cvm-col-20031111-d05 | fichas/colegiado/2003-13.md |
+| decisao-colegiado | RJ2003/5856 | 2003-10-07 | provido | O Colegiado deu provimento ao recurso contra decisão da SEP que determinara a publicação de fato relevante sobre a inadimplência no resgate… | cvm-col-20031007-d01 | fichas/colegiado/2003-12.md |
+| acordao-crsfn | 01/1950 | 2003-09-24 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários - Fato relevante - Ausência de divulgação - Demonstrações financeiras não concluídas na… | crsfn-4058 | fichas/crsfn/2003-03.md |
+| decisao-colegiado | RJ2003/6765 | 2003-08-20 | indeferido | O Colegiado negou dispensa de divulgação na imprensa de fato relevante sobre distrato de alienação de participação acionária, com base no §… | cvm-col-20030820-d02 | fichas/colegiado/2003-10.md |
+| decisao-colegiado | RJ2003/4676; RJ2003/6747 | 2003-08-12 | outro | O Colegiado decidiu pela publicação de novo fato relevante, nos termos do voto do diretor relator, em reclamação de acionistas… | cvm-col-20030812-d02 | fichas/colegiado/2003-10.md |
+| decisao-colegiado | RJ2003/6251 | 2003-07-22 | conhecimento | O Colegiado considerou perdido o objeto do recurso contra exigência da SEP de atualizar o IAN de 31.12.2001, pois a companhia atendeu à… | cvm-col-20030722-d08 | fichas/colegiado/2003-09.md |
+| decisao-colegiado | RJ2003/6252 | 2003-07-22 | — | Recurso contra exigência da SEP de reapresentação do IAN de 31.12.2001 da Cia. Energética de Brasília, em razão da substituição do auditor… | cvm-col-20030722-d07 | fichas/colegiado/2003-09.md |
+| decisao-colegiado | RJ2003/5289 | 2003-06-25 | provido | O Colegiado deu provimento ao recurso da BMG Asset Management DTVM S.A. quanto à republicação de anúncio publicitário do BMG FIDC… | cvm-col-20030625-d08 | fichas/colegiado/2003-09.md |
+| decisao-colegiado | RJ2003/3966 | 2003-05-20 | parcial | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2003/3966. | cvm-col-20030520-d09 | fichas/colegiado/2003-06.md |
+| decisao-colegiado | RJ2003/1912 | 2003-05-13 | indeferido | O Colegiado indeferiu pedido de dispensa de divulgação de informações sobre a incorporação da Marimbu Comércio e Empreendimentos Ltda. pela… | cvm-col-20030513-d06 | fichas/colegiado/2003-06.md |
+| decisao-colegiado | RJ2002/5560 | 2003-04-17 | nao-provido | O Colegiado, por maioria, negou provimento a recurso da Telefónica S/A contra decisão da SEP sobre a dispensa dos procedimentos da… | cvm-col-20030417-d01 | fichas/colegiado/2003-04.md |
+| decisao-colegiado | SP2002/0474 | 2003-04-17 | nao-provido | O Colegiado, por unanimidade, rejeitou os pedidos de reconsideração e revisão, mantendo que o bônus da AmBev não deve ser ajustado pelo… | cvm-col-20030417-d01-r2 | fichas/colegiado/2003-04.md |
+| pas | SP2002/0047 | 2003-04-03 | parcial | IA TA-RJ2002/0047 - 03/04/2003 - Ineficiência de controles; não prestação de informações no prazo exigido; embaraço à fiscalização; não… | cvm-pas-sp2002-0047 | fichas/pas/2003-02.md |
+| decisao-colegiado | — | 2003-03-12 | deferido | O Colegiado retificou a ata de 10.12.2002, que registrara a rejeição, para constar que acolheu o pedido de dispensa de divulgação pela… | cvm-col-20030312-d04 | fichas/colegiado/2003-03.md |
+| acordao-crsfn | 30/99 | 2003-02-19 | parcial | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Atraso no cumprimento de determinação de refazer e republicar demonstrações… | crsfn-3854 | fichas/crsfn/2003-01.md |
+| acordao-crsfn | 26/99 | 2003-01-29 | condenacao | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Falta de elaboração das demonstrações financeiras da companhia e de indicação do nome… | crsfn-3966 | fichas/crsfn/2003-01.md |
+| acordao-crsfn | RJ2000/4550 | 2003-01-29 | parcial | RECURSO VOLUNTÁRIO E DE OFÍCIO ─ Mercado de valores mobiliários ─ Falta de publicação de demonstrações financeiras (Instrução CVM 251/96)… | crsfn-3710 | fichas/crsfn/2003-01.md |
+| acordao-crsfn | 12/00 | 2002-12-11 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários – Captação de recursos com base na Lei 8.685/93 (Lei do audiovisual)… | crsfn-4122 | fichas/crsfn/2002-04.md |
+| decisao-colegiado | RJ2002/7380 | 2002-12-10 | indeferido | O Colegiado indeferiu pedido da Rio Bravo Investimentos S.A. e da Mercúrio S.A. DTVM de dispensa de divulgação pela imprensa de alterações… | cvm-col-20021210-d07 | fichas/colegiado/2002-26.md |
+| pas | 16/2000 | 2002-12-05 | parcial | [pessoa física] E OUTROS (WHITE MARTINS) Oscilação Atípica - Fato Relevante. - Artigos 1° da Instrução CVM n° 31/84, e 157, parágrafo 4°… | cvm-pas-16-2000 | fichas/pas/2002-07.md |
+| decisao-colegiado | RJ2002/6248 | 2002-12-02 | nao-provido | O Colegiado negou provimento a recurso da CEMIG contra decisão da SEP que determinou a reapresentação de ITR, mantendo a decisão da área… | cvm-col-20021202-d06 | fichas/colegiado/2002-26.md |
+| acordao-crsfn | RJ99/5698 | 2002-11-26 | condenacao | RECURSO VOLUNTÁRIO - Mercado de valores mobiliários – Falta de prestação, à autoridade supervisora, de informações obrigatórias previstas… | crsfn-3606 | fichas/crsfn/2002-04.md |
+| decisao-colegiado | RJ2002/7052 | 2002-11-22 | indeferido | Com exceção de um diretor impedido, o Colegiado acompanhou o voto do Diretor-Relator e manteve a obrigatoriedade de divulgação de fato… | cvm-col-20021122-d03 | fichas/colegiado/2002-25.md |
+| decisao-colegiado | RJ2002/2712 | 2002-10-29 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SEP que determinou a republicação das demonstrações financeiras da Celesc… | cvm-col-20021029-d03 | fichas/colegiado/2002-24.md |
+| decisao-colegiado | RJ2002/5895 | 2002-09-24 | deferido | O Colegiado concedeu dispensa de divulgação na imprensa da alienação de ações preferenciais das Lojas Americanas S.A., com base no art. 12… | cvm-col-20020924-d04 | fichas/colegiado/2002-22.md |
+| decisao-colegiado | RJ2002/6273 | 2002-09-20 | provido | O Colegiado proveu recurso da BCP S/A contra decisão da SEP que determinou reapresentar a IAN/2001, em meio eletrônico, com o teor dos… | cvm-col-20020920-d04 | fichas/colegiado/2002-22.md |
+| decisao-colegiado | RJ2002/6083 | 2002-09-20 | indeferido | O Colegiado acompanhou a diretora-relatora e indeferiu pedido de dispensa de divulgação pela imprensa de aquisição de ações preferenciais… | cvm-col-20020920-d03 | fichas/colegiado/2002-22.md |
+| decisao-colegiado | RJ2002/6065 | 2002-09-10 | deferido | O Colegiado concedeu dilação de dez dias úteis para a companhia atender ao art. 16 da Instrução CVM 358/02, pedido subsidiário à dispensa… | cvm-col-20020910-d06 | fichas/colegiado/2002-22.md |
+| decisao-colegiado | RJ2002/4945; RJ2002/4976 | 2002-08-30 | deferido | O Colegiado acompanhou a relatora e concedeu dispensa de divulgação pela imprensa de variações de participação acionária de investidores… | cvm-col-20020830-d09 | fichas/colegiado/2002-21.md |
+| acordao-crsfn | RJ99/1944 | 2002-08-01 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falta de remessa, à CVM, de informações exigidas em normativo regulamentar (Instrução… | crsfn-3797 | fichas/crsfn/2002-02.md |
+| decisao-colegiado | — | 2002-07-09 | outro | A SEP foi autorizada a dispensar a divulgação pela imprensa prevista no § 5º do art. 12 da Instrução CVM 358/2002, que admite a dispensa… | cvm-col-20020709-d11 | fichas/colegiado/2002-17.md |
+| decisao-colegiado | RJ2002/2735 | 2002-07-09 | parcial | Acréscimo de participação acionária. Proc. RJ2002/2735. | cvm-col-20020709-d07 | fichas/colegiado/2002-17.md |
+| acordao-crsfn | 02/2000 | 2002-06-27 | condenacao | RECURSOS VOLUNTÁRIOS - Mercado de valores mobiliários – Falta de atualização do registro de companhia aberta e de envio de informações… | crsfn-3853 | fichas/crsfn/2002-02.md |
+| acordao-crsfn | RJ99/1942 | 2002-06-27 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falta de remessa, à CVM, de informações exigidas em normativo regulamentar (Instrução… | crsfn-3802 | fichas/crsfn/2002-02.md |
+| pas | RJ2001/6835 | 2002-06-05 | condenacao | [pessoa física] E OUTROS (CONSTRUTORA SULTEPA S/A) A obrigação de cumprir determinação de republicação das demonstrações financeiras da… | cvm-pas-rj2001-6835 | fichas/pas/2002-04.md |
+| termo-compromisso | IA19/2000 | 2002-05-29 | aceito | O Colegiado aprovou novo termo de compromisso no inquérito 19/2000, após indeferimento anterior, com a Carbomil S.A. e a Veeck & Cia… | cvm-col-20020529-d3018 | fichas/tc/2002.md |
+| acordao-crsfn | RJ99/1951 | 2002-05-28 | condenacao | RECURSO VOLUNTÁRIO - Mercado de valores mobiliários – Falta de remessa, à CVM, de informações exigidas em normativo regulamentar (Instrução… | crsfn-3753 | fichas/crsfn/2002-01.md |
+| decisao-colegiado | RJ2002/2057 | 2002-05-21 | indeferido | O Colegiado indeferiu pedido de dispensa de publicação da aquisição indireta de 37,1% do controle acionário da Docas Investimentos S.A… | cvm-col-20020521-d01 | fichas/colegiado/2002-12.md |
+| pas | RJ2001/8388 | 2002-04-18 | condenacao | [pessoa física] (ORION S/A) Ausência de comunicação à CVM acerca do aumento de participação acionária de membro do conselho fiscal… | cvm-pas-rj2001-8388 | fichas/pas/2002-04.md |
+| termo-compromisso | RJ2001/9705 | 2002-04-09 | aceito | Termo de compromisso. Proc. RJ2001/9705. | cvm-tc-rj2001-9705-20020409 | fichas/tc/2002.md |
+| acordao-crsfn | RJ99/1948 | 2002-03-25 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falta de tempestiva remessa de informações trimestrais exigidas pela norma… | crsfn-3757 | fichas/crsfn/2002-01.md |
+| decisao-colegiado | RJ2001/10329 | 2002-02-19 | provido | Recurso contra a decisão da SEP. Proc. RJ2001/10329. | cvm-col-20020219-d02 | fichas/colegiado/2002-03.md |
+| pas | 12/2000 | 2002-01-10 | parcial | GUILHERME FONTES FILMES LTDA. E OUTROS I. Omissão na prestação de informações periódicas e apresentação de informações incorretas em… | cvm-pas-12-2000 | fichas/pas/2002-01.md |
+| pas | RJ2001/1950 | 2001-12-12 | absolvicao | [pessoa física] (CIA VALE DO RIO DOCE) Infração à Instrução CVM 31/84. Uma vez que não fique comprovada a existência da informação que… | cvm-pas-rj2001-1950 | fichas/pas/2001-09.md |
+| pas | 22/1999 | 2001-08-16 | absolvicao | Imputação de negligência no dever de divulgação de fatos relevantes aos administradores de companhias controladora e controlada. II - É… | cvm-pas-22-1999 | fichas/pas/2001-05.md |
+| acordao-crsfn | 99/1887 | 2001-06-20 | parcial | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Falta de envio, à CVM, de informações exigidas em normativo regulamentar (Instrução… | crsfn-3567 | fichas/crsfn/2001-02.md |
+| acordao-crsfn | RJ99/1949 | 2001-04-27 | parcial | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Falta de prestação de informações trimestrais previstas em normativo regulamentar… | crsfn-3182 | fichas/crsfn/2001-02.md |
+| acordao-crsfn | 19/93 | 2001-03-30 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Falta de publicação de fato relevante – Publicação de demonstrações… | crsfn-2959 | fichas/crsfn/2001-01.md |
+| acordao-crsfn | RJ99/1943 | 2001-01-30 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falta de remessa, à CVM, de informações exigidas em normativo regulamentar (Instrução… | crsfn-3148 | fichas/crsfn/2001-01.md |
+| acordao-crsfn | RJ98/4968 | 2000-12-15 | condenacao | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Falta de tempestiva remessa, à CVM, de informações exigidas em normativo regulamentar… | crsfn-3127 | fichas/crsfn/2000-07.md |
+| acordao-crsfn | 98/5615 | 2000-12-15 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falta de tempestiva remessa, à CVM, de informações obrigatórias previstas em normativo… | crsfn-2976 | fichas/crsfn/2000-07.md |
+| acordao-crsfn | 98/4411 | 2000-12-15 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falta de tempestiva remessa, à CVM, de informações obrigatórias previstas em normativo… | crsfn-2936 | fichas/crsfn/2000-07.md |
+| acordao-crsfn | 08/96 | 2000-12-15 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Irregular aprovação de contas da companhia – Falta de tempestiva… | crsfn-2874 | fichas/crsfn/2000-07.md |
+| acordao-crsfn | 99/1886 | 2000-11-23 | arquivamento | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Falta de tempestiva remessa de informações periódicas previstas em normativo… | crsfn-3175 | fichas/crsfn/2000-07.md |
+| acordao-crsfn | 99/1945 | 2000-11-07 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falta de remessa, à CVM, de informações exigidas em normativo regulamentar (Instrução… | crsfn-3171 | fichas/crsfn/2000-06.md |
+| acordao-crsfn | RJ99/1952 | 2000-11-07 | condenacao | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Falta de tempestiva remessa, à CVM, de informações exigidas em normativo regulamentar… | crsfn-3130 | fichas/crsfn/2000-06.md |
+| acordao-crsfn | 99/1885 | 2000-10-10 | parcial | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Falta de remessa, à CVM, de informações sobre a empresa (liquidanda) administrada… | crsfn-3041 | fichas/crsfn/2000-06.md |
+| acordao-crsfn | 99/1946 | 2000-09-29 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falta de remessa, à CVM, das informações exigidas em normativo regulamentar (… | crsfn-3149 | fichas/crsfn/2000-05.md |
+| acordao-crsfn | 97/2956 | 2000-09-29 | condenacao | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Falta de prestação, à CVM, de informações previstas em norma regulamentar ( Instrução… | crsfn-2782 | fichas/crsfn/2000-04.md |
+| acordao-crsfn | 95/4542 | 2000-07-28 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falta de prestação de informações obrigatórias à CVM (Instrução CVM 202/93, arts. 16 e… | crsfn-2894 | fichas/crsfn/2000-03.md |
+| acordao-crsfn | 98/5771 | 2000-06-15 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falta de prestação de informações obrigatórias à CVM (Instrução CVM 202/93, art. 16)… | crsfn-3009 | fichas/crsfn/2000-03.md |
+| acordao-crsfn | 98/5639 | 2000-06-15 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falta de prestação de informações obrigatórias à CVM (instrução CVM 202/93, art. 16)… | crsfn-2997 | fichas/crsfn/2000-03.md |
+| acordao-crsfn | RJ98/4072 | 2000-06-15 | absolvicao | RECURSO DE OFÍCIO – Falta de prestação de informações obrigatórias à CVM (Instrução CVM 202/93, art. 16) – Períodos 1996/8 – Empresa falida… | crsfn-2983 | fichas/crsfn/2000-03.md |
+| acordao-crsfn | 98/5672 | 2000-05-30 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falta de envio à CVM de informações obrigatórias (Instrução CVM 202 – art. 116)… | crsfn-2994 | fichas/crsfn/2000-02.md |
+| acordao-crsfn | 98/4578 | 2000-05-30 | absolvicao | RECURSO DE OFÍCIO – Falta de envio de informações obrigatórias à CVM (Instrução 202/93) – Exercícios de 1997 e 1998 – Acolhimento das… | crsfn-2992 | fichas/crsfn/2000-02.md |
+| acordao-crsfn | 98/4801 | 2000-05-30 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Ausência de fornecimento, à CVM, de informações semestrais – (Instrução CVM 202 – art… | crsfn-2987 | fichas/crsfn/2000-02.md |
+| acordao-crsfn | 98/4854 | 2000-04-27 | absolvicao | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Não fornecimento de informações obrigatórias à autoridade supervisora (Instrução CVM… | crsfn-2985 | fichas/crsfn/2000-02.md |
+| acordao-crsfn | 98/4852 | 2000-03-23 | absolvicao | RECURSO DE OFÍCIO – Falta de adoção de procedimentos e de envio de informações periódicas na forma prevista em norma regulamentar… | crsfn-2957 | fichas/crsfn/2000-01.md |
+| acordao-crsfn | SP95/0054 | 2000-02-25 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Fornecimento a investidores da relação de todos os acionistas da sociedade e do… | crsfn-2978 | fichas/crsfn/2000-01.md |
+| acordao-crsfn | 98/4853 | 2000-02-25 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Intempestiva prestação de informações previstas em norma regulamentar (art. 16 da… | crsfn-2943 | fichas/crsfn/2000-01.md |
+| acordao-crsfn | 15/94 | 2000-02-25 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários – Aquisição de ações da própria companhia sem comunicação tempestiva de… | crsfn-2609 | fichas/crsfn/2000-01.md |
+| acordao-crsfn | 98/5675 | 1999-12-15 | condenacao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falta de tempestiva remessa, à CVM, de informações atualizadas da companhia… | crsfn-2963 | fichas/crsfn/1999-04.md |
+| acordao-crsfn | 97/0706 | 1999-11-25 | absolvicao | RECURSO DE OFÍCIO – Falta de remessa, a requerentes (pessoas físicas e jurídicas), da relação de acionistas da instituição financeira a que… | crsfn-2979 | fichas/crsfn/1999-04.md |
+| acordao-crsfn | 98/4802 | 1999-11-25 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Fundo de investimento – Falta de remessa, à CVM, de informações atualizadas relativas… | crsfn-2975 | fichas/crsfn/1999-04.md |
+| acordao-crsfn | 98/5666 | 1999-11-25 | absolvicao | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Falta de remessa, à CVM, de informações atualizadas sobre registro da companhia… | crsfn-2968 | fichas/crsfn/1999-04.md |
+| acordao-crsfn | 98/4849 | 1999-11-25 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falta de tempestiva remessa, à CVM, de informações atualizadas sobre registro da… | crsfn-2965 | fichas/crsfn/1999-04.md |
+| acordao-crsfn | 98/5607 | 1999-11-25 | absolvicao | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Falta de tempestivo envio, à CVM, de informações atualizadas acerca do registro da… | crsfn-2942 | fichas/crsfn/1999-04.md |
+| acordao-crsfn | 98/4141 | 1999-11-25 | absolvicao | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Fundo de investimento – Falta de remessa, à CVM, de informações atualizadas relativas… | crsfn-2918 | fichas/crsfn/1999-03.md |
+| acordao-crsfn | 98/3430 | 1999-11-25 | absolvicao | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Fundo de investimento – Falta de remessa, à CVM, de informações atualizadas aos… | crsfn-2910 | fichas/crsfn/1999-03.md |
+| acordao-crsfn | 97/3001 | 1999-11-25 | parcial | RECURSO VOLUNTÁRIO - Mercado de valores mobiliários – Falta de remessa, à CVM, de dados acerca da companhia – Falência – Infração… | crsfn-2810 | fichas/crsfn/1999-03.md |
+| acordao-crsfn | 97/3413 | 1999-09-30 | condenacao | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Falta de remessa de informações periódicas previstas em normativo regulamentar… | crsfn-2837 | fichas/crsfn/1999-03.md |
+| acordao-crsfn | 98/3428 | 1999-08-31 | absolvicao | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Fundo de investimento – Falta de encaminhamento, à CVM, dos exemplares das informações… | crsfn-2907 | fichas/crsfn/1999-02.md |
+| acordao-crsfn | 98/3429 | 1999-08-31 | absolvicao | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Fundo de investimento – Falta de encaminhamento, à CVM, dos exemplares das informações… | crsfn-2899 | fichas/crsfn/1999-02.md |
+| acordao-crsfn | 96/2086 | 1999-08-31 | parcial | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Atraso no envio à CVM de demonstrações financeiras, de sumário de decisões tomadas em… | crsfn-2562 | fichas/crsfn/1999-02.md |
+| acordao-crsfn | 98/5638 | 1999-07-29 | absolvicao | RECURSO DE OFÍCIO – Comissão de Valores Mobiliários - Falta de remessa à CVM de exemplar de informações fornecidas aos quotistas… | crsfn-2937 | fichas/crsfn/1999-02.md |
+| acordao-crsfn | 97/1854 | 1999-07-29 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falta de remessa à CVM de exemplar de informações fornecidas aos quotistas – Infração… | crsfn-2825 | fichas/crsfn/1999-02.md |
+| acordao-crsfn | 95/4641 | 1999-06-22 | condenacao | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Falta de envio de informações obrigatórias à CVM referentes a exercício social… | crsfn-2600 | fichas/crsfn/1999-01.md |
+| acordao-crsfn | 95/4538 | 1999-05-26 | absolvicao | RECURSO DE OFÍCIO – Mercado de Valores Mobiliários – Falta de remessa, à CVM, de informações periódicas relativas ao ano de 1995 – Não… | crsfn-2626 | fichas/crsfn/1999-01.md |
+| acordao-crsfn | 96/4367 | 1998-11-24 | condenacao | RECURSOS VOLUNTÁRIOS. Mercado de Valores Mobiliários – Falta de tempestiva remessa, à CVM, de informações periódicas exigidas pelas normas… | crsfn-2582 | fichas/crsfn/1998-04.md |
+| acordao-crsfn | 96/2053 | 1998-06-25 | absolvicao | RECURSO DE OFÍCIO. Mercado de Valores Mobiliários - Falta de remessa tempestiva à CVM de informações anuais sobre empresas sujeitas a… | crsfn-2487 | fichas/crsfn/1998-02.md |
+| acordao-crsfn | 29/93 | 1997-07-31 | condenacao | RECURSO VOLUNTÁRIO. Descumprimento do dever de informar previsto na Instrução CVM 60/80 - Falhas de controle e de escrituração contábil… | crsfn-2211 | fichas/crsfn/1997-01.md |
+| acordao-crsfn | 10/92 | 1997-04-24 | parcial | Recursos de oficio. falta de informações a Comissão de Valores Mobiliários. Descumprimento de norma regulamentar - Omissão do dirigente… | crsfn-1960 | fichas/crsfn/1997-01.md |
+| acordao-crsfn | 13/88 | 1996-08-07 | parcial | RECURSOS VOLUNTÁRIO E DE OFÍCIO. Irregularidades na realização de aumento de capital social, no preparo e divulgação de demonstrações… | crsfn-1663 | fichas/crsfn/1996-02.md |
+| acordao-crsfn | 10/91 | 1996-04-16 | parcial | RECURSO DE OFÍCIO. Negociação privada de ações em tesouraria. Não divulgação da ata de reunião autorizando essa alienação e não comunicação… | crsfn-1618 | fichas/crsfn/1996-01.md |
 
 Fim do subíndice.

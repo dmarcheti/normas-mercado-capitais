@@ -24,404 +24,404 @@ Este subíndice tem 427 linhas e uma leitura única é cortada em silêncio pert
 | 2021-02 | 365 |
 | 2021-01 | 403 |
 
-| Processo | Data | Resultado | Id | Ficha |
-|---|---|---|---|---|
-| 400/2003; 476/2009; 480/2009; 588/2017; 6/2020; 8/2020; 54/2021; 19957.006333/2020-23 | 2021-12-22 | outro | cvm-col-20211222-d2457 | fichas/colegiado/2021-23.md |
-| 19957.005822/2021-49 | 2021-12-21 | outro | cvm-col-20211221-d2446 | fichas/colegiado/2021-23.md |
-| 19957.006040/2021-27 | 2021-12-21 | indeferido | cvm-col-20211221-d2445 | fichas/colegiado/2021-23.md |
-| 19957.008889/2021-35 | 2021-12-21 | deferido | cvm-col-20211221-d2444 | fichas/colegiado/2021-23.md |
-| 19957.009370/2021-74 | 2021-12-21 | deferido | cvm-col-20211221-d2442 | fichas/colegiado/2021-23.md |
-| 19957.008884/2021-11 | 2021-12-21 | outro | cvm-col-20211221-d2433 | fichas/colegiado/2021-22.md |
-| 19957.008844/2020-80 | 2021-12-21 | provido | cvm-col-20211221-d2432 | fichas/colegiado/2021-22.md |
-| 19957.008161/2021-11 | 2021-12-21 | nao-provido | cvm-col-20211221-d2429 | fichas/colegiado/2021-22.md |
-| 19957.008281/2021-19 | 2021-12-21 | nao-provido | cvm-col-20211221-d2428 | fichas/colegiado/2021-22.md |
-| 19957.006879/2021-65 | 2021-12-21 | parcial | cvm-col-20211221-d2421 | fichas/colegiado/2021-22.md |
-| 19957.006102/2020-10 | 2021-12-21 | parcial | cvm-col-20211221-d2388 | fichas/colegiado/2021-22.md |
-| 19957.007392/2021-08 | 2021-12-21 | nao-provido | cvm-col-20211221-d2374 | fichas/colegiado/2021-22.md |
-| 19957.010165/2021-51 | 2021-12-17 | indeferido | cvm-col-20211217-d2447 | fichas/colegiado/2021-22.md |
-| — | 2021-12-16 | outro | cvm-col-20211216-d2449 | fichas/colegiado/2021-22.md |
-| 19957.010310/2021-02 | 2021-12-15 | — | cvm-col-20211215-d2448 | fichas/colegiado/2021-22.md |
-| 367/2002; 480/2009; 19957.005520/2019-56 | 2021-12-15 | outro | cvm-col-20211215-d1763 | fichas/colegiado/2021-22.md |
-| 19957.009674/2018-36 | 2021-12-14 | outro | cvm-col-20211214-d2438 | fichas/colegiado/2021-22.md |
-| 19957.001788/2020-52 | 2021-12-14 | outro | cvm-col-20211214-d2434 | fichas/colegiado/2021-22.md |
-| 19957.008916/2020-99 | 2021-12-14 | parcial | cvm-col-20211214-d2424 | fichas/colegiado/2021-22.md |
-| 19957.000695/2021-91 | 2021-12-14 | nao-provido | cvm-col-20211214-d2418 | fichas/colegiado/2021-22.md |
-| 19957.004968/2021-77 | 2021-12-14 | provido | cvm-col-20211214-d2393 | fichas/colegiado/2021-22.md |
-| — | 2021-12-08 | outro | cvm-col-20211208-d2440 | fichas/colegiado/2021-22.md |
-| 472/2008; 19957.007979/2016-41 | 2021-12-08 | outro | cvm-col-20211208-d2097 | fichas/colegiado/2021-21.md |
-| 19957.008089/2021-14 | 2021-12-07 | nao-provido | cvm-col-20211207-d2427 | fichas/colegiado/2021-21.md |
-| 19957.008231/2021-23 | 2021-12-07 | nao-provido | cvm-col-20211207-d2426 | fichas/colegiado/2021-21.md |
-| 19957.005394/2021-54 | 2021-12-07 | parcial | cvm-col-20211207-d2425 | fichas/colegiado/2021-21.md |
-| 19957.009338/2021-99 | 2021-12-07 | nao-provido | cvm-col-20211207-d2417 | fichas/colegiado/2021-21.md |
-| 19957.002097/2016-90 | 2021-12-07 | deferido | cvm-col-20211207-d1410 | fichas/colegiado/2021-21.md |
-| 19957.002528/2021-85; 19957.000115/2019-41 | 2021-12-07 | indeferido | cvm-col-20211207-d1403 | fichas/colegiado/2021-21.md |
-| — | 2021-12-06 | outro | cvm-col-20211206-d2439 | fichas/colegiado/2021-21.md |
-| 19957.008894/2021-48 | 2021-12-01 | outro | cvm-col-20211201-d2413 | fichas/colegiado/2021-21.md |
-| 19957.008877/2021-19 | 2021-12-01 | outro | cvm-col-20211201-d2412 | fichas/colegiado/2021-21.md |
-| 19957.008868/2021-10 | 2021-12-01 | outro | cvm-col-20211201-d2411 | fichas/colegiado/2021-21.md |
-| 19957.008864/2021-31 | 2021-12-01 | outro | cvm-col-20211201-d2410 | fichas/colegiado/2021-21.md |
-| 19957.008883/2021-68 | 2021-12-01 | outro | cvm-col-20211201-d2409 | fichas/colegiado/2021-21.md |
-| 19957.008852/2021-15 | 2021-12-01 | outro | cvm-col-20211201-d2408 | fichas/colegiado/2021-21.md |
-| 19957.009677/2021-75 | 2021-12-01 | outro | cvm-col-20211201-d2404 | fichas/colegiado/2021-21.md |
-| 45/2021; 19957.009677/2021-75 | 2021-12-01 | — | cvm-col-20211201-d2404-2 | fichas/colegiado/2021-21.md |
-| 19957.008736/2021-98; 19957.008737/2021-32 | 2021-11-30 | deferido | cvm-col-20211130-d2416 | fichas/colegiado/2021-20.md |
-| 19957.008885/2021-57 | 2021-11-30 | nao-provido | cvm-col-20211130-d2415 | fichas/colegiado/2021-20.md |
-| 19957.008164/2021-47 | 2021-11-30 | parcial | cvm-col-20211130-d2414 | fichas/colegiado/2021-20.md |
-| 19957.006853/2021-17 | 2021-11-30 | outro | cvm-col-20211130-d2407 | fichas/colegiado/2021-20.md |
-| 19957.008285/2021-99 | 2021-11-30 | parcial | cvm-col-20211130-d2406 | fichas/colegiado/2021-20.md |
-| 19957.007176/2021-54 | 2021-11-30 | deferido | cvm-col-20211130-d2405 | fichas/colegiado/2021-20.md |
-| 19957.009157/2021-62 | 2021-11-30 | nao-provido | cvm-col-20211130-d2403 | fichas/colegiado/2021-20.md |
-| 19957.004924/2020-66 | 2021-11-30 | provido | cvm-col-20211130-d2400 | fichas/colegiado/2021-20.md |
-| 19957.007895/2021-75 | 2021-11-30 | outro | cvm-col-20211130-d1639 | fichas/colegiado/2021-20.md |
-| 09/2020; 480/2009; 481/2009; 19957.004286/2019-40 | 2021-11-24 | outro | cvm-col-20211124-d1673 | fichas/colegiado/2021-20.md |
-| 476/2009; 19957.008629/2021-60 | 2021-11-23 | indeferido | cvm-col-20211123-d2394 | fichas/colegiado/2021-20.md |
-| 19957.008301/2021-43 | 2021-11-23 | outro | cvm-col-20211123-d2391 | fichas/colegiado/2021-20.md |
-| 19957.008269/2021-04 | 2021-11-23 | outro | cvm-col-20211123-d2390 | fichas/colegiado/2021-20.md |
-| 19957.004836/2020-64 | 2021-11-23 | deferido | cvm-col-20211123-d2389 | fichas/colegiado/2021-20.md |
-| 19957.006102/2020-10 | 2021-11-23 | — | cvm-col-20211123-d2388 | fichas/colegiado/2021-20.md |
-| 19957.008140/2021-98 | 2021-11-23 | nao-provido | cvm-col-20211123-d2387 | fichas/colegiado/2021-20.md |
-| 19957.004079/2017-23 | 2021-11-23 | conhecimento | cvm-col-20211123-d2285 | fichas/colegiado/2021-20.md |
-| 09/2020; 480/2009; 481/2009; 19957.004286/2019-40 | 2021-11-17 | — | cvm-col-20211117-d1673 | fichas/colegiado/2021-19.md |
-| 19957.007233/2021-03 | 2021-11-16 | nao-provido | cvm-col-20211116-d2385 | fichas/colegiado/2021-19.md |
-| 19957.005260/2020-52 | 2021-11-16 | provido | cvm-col-20211116-d2384 | fichas/colegiado/2021-19.md |
-| 19957.008103/2021-80 | 2021-11-16 | nao-provido | cvm-col-20211116-d2383 | fichas/colegiado/2021-19.md |
-| 19957.007945/2021-14 | 2021-11-16 | nao-provido | cvm-col-20211116-d2382 | fichas/colegiado/2021-19.md |
-| 19957.010475/2019-51 | 2021-11-16 | outro | cvm-col-20211116-d2381 | fichas/colegiado/2021-19.md |
-| 19957.008306/2021-76 | 2021-11-16 | nao-provido | cvm-col-20211116-d2380 | fichas/colegiado/2021-19.md |
-| 19957.008305/2021-21 | 2021-11-16 | nao-provido | cvm-col-20211116-d2379 | fichas/colegiado/2021-19.md |
-| 19957.008307/2021-11 | 2021-11-16 | nao-provido | cvm-col-20211116-d2378 | fichas/colegiado/2021-19.md |
-| 19957.004010/2021-86 | 2021-11-16 | deferido | cvm-col-20211116-d2375 | fichas/colegiado/2021-19.md |
-| 09/2020; 480/2009; 481/2009; 19957.004286/2019-40 | 2021-11-10 | — | cvm-col-20211110-d1673 | fichas/colegiado/2021-19.md |
-| 19957.004010/2021-86 | 2021-11-09 | outro | cvm-col-20211109-d2375 | fichas/colegiado/2021-19.md |
-| 19957.007392/2021-08 | 2021-11-09 | outro | cvm-col-20211109-d2374 | fichas/colegiado/2021-19.md |
-| 19957.008560/2020-93 | 2021-11-09 | nao-provido | cvm-col-20211109-d2239 | fichas/colegiado/2021-19.md |
-| 19957.007927/2020-51 | 2021-11-09 | indeferido | cvm-col-20211109-d2109 | fichas/colegiado/2021-19.md |
-| 19957.011041/2019-79 | 2021-11-09 | conhecimento | cvm-col-20211109-d0733 | fichas/colegiado/2021-19.md |
-| 05/2020; 19957.000471/2019-65 | 2021-11-04 | outro | cvm-col-20211104-d1640 | fichas/colegiado/2021-19.md |
-| 19957.007563/2021-91 | 2021-11-03 | indeferido | cvm-col-20211103-d2372 | fichas/colegiado/2021-18.md |
-| 19957.008159/2021-34 | 2021-11-03 | nao-provido | cvm-col-20211103-d2371 | fichas/colegiado/2021-18.md |
-| 19957.008576/2021-87 | 2021-11-03 | nao-provido | cvm-col-20211103-d2370 | fichas/colegiado/2021-18.md |
-| 19957.007875/2021-02 | 2021-11-03 | nao-provido | cvm-col-20211103-d2369 | fichas/colegiado/2021-18.md |
-| 19957.004995/2021-40 | 2021-11-03 | conhecimento | cvm-col-20211103-d2368 | fichas/colegiado/2021-18.md |
-| 19957.008272/2021-10 | 2021-11-03 | nao-provido | cvm-col-20211103-d2367 | fichas/colegiado/2021-18.md |
-| 19957.008273/2021-64 | 2021-11-03 | nao-provido | cvm-col-20211103-d2366 | fichas/colegiado/2021-18.md |
-| 19957.006955/2021-32 | 2021-11-03 | nao-provido | cvm-col-20211103-d2365 | fichas/colegiado/2021-18.md |
-| 19957.005774/2020-16 | 2021-11-03 | provido | cvm-col-20211103-d2357 | fichas/colegiado/2021-18.md |
-| 19957.008241/2021-69 | 2021-11-03 | nao-provido | cvm-col-20211103-d2355 | fichas/colegiado/2021-18.md |
-| 19957.008105/2021-79 | 2021-11-03 | nao-provido | cvm-col-20211103-d2354 | fichas/colegiado/2021-18.md |
-| 19957.008117/2021-01 | 2021-11-03 | nao-provido | cvm-col-20211103-d2353 | fichas/colegiado/2021-18.md |
-| 19957.008170/2021-02 | 2021-11-03 | nao-provido | cvm-col-20211103-d2352 | fichas/colegiado/2021-18.md |
-| 19957.008118/2021-48 | 2021-11-03 | nao-provido | cvm-col-20211103-d2351 | fichas/colegiado/2021-18.md |
-| 19957.001413/2015-25 | 2021-11-03 | outro | cvm-col-20211103-d1489 | fichas/colegiado/2021-18.md |
-| 05/2020; 19957.000471/2019-65 | 2021-10-27 | outro | cvm-col-20211027-d1640 | fichas/colegiado/2021-18.md |
-| 19957.008077/2019-75 | 2021-10-26 | nao-provido | cvm-col-20211026-d2362 | fichas/colegiado/2021-18.md |
-| 19957.005068/2021-47 | 2021-10-26 | outro | cvm-col-20211026-d2361 | fichas/colegiado/2021-18.md |
-| 19957.003707/2021-30 | 2021-10-26 | deferido | cvm-col-20211026-d2360 | fichas/colegiado/2021-18.md |
-| 19957.008472/2020-91 | 2021-10-26 | nao-provido | cvm-col-20211026-d2359 | fichas/colegiado/2021-18.md |
-| 19957.002358/2021-39 | 2021-10-26 | indeferido | cvm-col-20211026-d2358 | fichas/colegiado/2021-18.md |
-| 19957.004206/2021-71 | 2021-10-26 | deferido | cvm-col-20211026-d2350 | fichas/colegiado/2021-18.md |
-| 19957.004920/2021-69 | 2021-10-26 | nao-provido | cvm-col-20211026-d2336 | fichas/colegiado/2021-18.md |
-| — | 2021-10-20 | — | cvm-col-20211020-d2373 | fichas/colegiado/2021-17.md |
-| 19957.006283/2020-84 | 2021-10-20 | outro | cvm-col-20211020-d2044 | fichas/colegiado/2021-17.md |
-| 05/2020; 19957.000471/2019-65 | 2021-10-20 | — | cvm-col-20211020-d1640 | fichas/colegiado/2021-17.md |
-| 19957.006545/2021-91 | 2021-10-19 | outro | cvm-col-20211019-d2349 | fichas/colegiado/2021-17.md |
-| 19957.001885/2020-45 | 2021-10-19 | outro | cvm-col-20211019-d2348 | fichas/colegiado/2021-17.md |
-| 19957.001439/2020-31 | 2021-10-19 | outro | cvm-col-20211019-d2347 | fichas/colegiado/2021-17.md |
-| 19957.000797/2020-26 | 2021-10-19 | outro | cvm-col-20211019-d2346 | fichas/colegiado/2021-17.md |
-| 19957.008068/2021-07 | 2021-10-19 | nao-provido | cvm-col-20211019-d2345 | fichas/colegiado/2021-17.md |
-| 19957.007832/2021-19 | 2021-10-19 | nao-provido | cvm-col-20211019-d2344 | fichas/colegiado/2021-17.md |
-| 19957.006852/2021-72 | 2021-10-19 | parcial | cvm-col-20211019-d2342 | fichas/colegiado/2021-17.md |
-| 19957.006924/2021-81 | 2021-10-19 | nao-provido | cvm-col-20211019-d2341 | fichas/colegiado/2021-17.md |
-| 19957.008099/2021-50 | 2021-10-19 | nao-provido | cvm-col-20211019-d2340 | fichas/colegiado/2021-17.md |
-| 19957.007519/2020-08 | 2021-10-19 | outro | cvm-col-20211019-d2334 | fichas/colegiado/2021-17.md |
-| 19957.007664/2021-61 | 2021-10-14 | nao-provido | cvm-col-20211014-d2338 | fichas/colegiado/2021-17.md |
-| 19957.005650/2021-11 | 2021-10-14 | outro | cvm-col-20211014-d2337 | fichas/colegiado/2021-17.md |
-| 19957.007809/2021-24 | 2021-10-14 | nao-provido | cvm-col-20211014-d2327 | fichas/colegiado/2021-17.md |
-| RJ2015/02462 | 2021-10-14 | nao-provido | cvm-col-20211014-d2326 | fichas/colegiado/2021-17.md |
-| RJ2015/4107 | 2021-10-14 | nao-provido | cvm-col-20211014-d2324 | fichas/colegiado/2021-17.md |
-| 19957.006841/2021-92 | 2021-10-14 | nao-provido | cvm-col-20211014-d2315 | fichas/colegiado/2021-17.md |
-| 19957.006646/2021-62; 19957.006640/2021-95 | 2021-10-14 | deferido | cvm-col-20211014-d2313 | fichas/colegiado/2021-17.md |
-| 19957.000797/2020-26; 19957.001439/2020-31; 19957.001885/2020-45; 19957.006545/2021-91 | 2021-10-13 | — | cvm-col-20211013-d2346 | fichas/colegiado/2021-16.md |
-| 05/2020; 19957.000471/2019-65 | 2021-10-13 | — | cvm-col-20211013-d1640 | fichas/colegiado/2021-16.md |
-| 19957.006485/2021-15 | 2021-10-05 | deferido | cvm-col-20211005-d2333 | fichas/colegiado/2021-16.md |
-| 19957.007076/2019-11 | 2021-10-05 | deferido | cvm-col-20211005-d2329 | fichas/colegiado/2021-16.md |
-| 19957.006060/2021-06 | 2021-10-05 | deferido | cvm-col-20211005-d2325 | fichas/colegiado/2021-16.md |
-| 19957.002309/2021-04 | 2021-10-05 | conhecimento | cvm-col-20211005-d2191 | fichas/colegiado/2021-16.md |
-| — | 2021-09-29 | parcial | cvm-col-20210929-d1472 | fichas/colegiado/2021-16.md |
-| 19957.005863/2021-35; 19957.006719/2021-16 | 2021-09-28 | outro | cvm-col-20210928-d2321-2322 | fichas/colegiado/2021-16.md |
-| 19957.006523/2021-21 | 2021-09-28 | deferido | cvm-col-20210928-d2319 | fichas/colegiado/2021-16.md |
-| 19957.006646/2021-62; 19957.006640/2021-95 | 2021-09-28 | — | cvm-col-20210928-d2313 | fichas/colegiado/2021-16.md |
-| 19957.000837/2021-11 | 2021-09-28 | outro | cvm-col-20210928-d2189 | fichas/colegiado/2021-16.md |
-| 19957.006010/2021-11 | 2021-09-21 | outro | cvm-col-20210921-d2312 | fichas/colegiado/2021-16.md |
-| 19957.006460/2017-27 | 2021-09-21 | nao-provido | cvm-col-20210921-d2309 | fichas/colegiado/2021-16.md |
-| 19957.004235/2020-51 | 2021-09-21 | conhecimento | cvm-col-20210921-d1854 | fichas/colegiado/2021-16.md |
-| 19957.005637/2019-30; 19957.011657/2019-40 | 2021-09-21 | parcial | cvm-col-20210921-d1800 | fichas/colegiado/2021-16.md |
-| 19957.007728/2021-24 | 2021-09-16 | outro | cvm-col-20210916-d0303 | fichas/colegiado/2021-15.md |
-| 05/2020; 19957.000471/2019-65 | 2021-09-15 | — | cvm-col-20210915-d1640 | fichas/colegiado/2021-15.md |
-| 19957.006433/2021-31; 19957.006430/2021-05 | 2021-09-14 | deferido | cvm-col-20210914-d2306 | fichas/colegiado/2021-15.md |
-| 19957.003436/2020-31 | 2021-09-14 | outro | cvm-col-20210914-d2305 | fichas/colegiado/2021-15.md |
-| 19957.003241/2021-72 | 2021-09-14 | nao-provido | cvm-col-20210914-d2303 | fichas/colegiado/2021-15.md |
-| 356/2001; 444/2006; 555/2014; 19957.004508/2019-24 | 2021-09-14 | nao-provido | cvm-col-20210914-d2274 | fichas/colegiado/2021-15.md |
-| 19957.005047/2021-21 | 2021-09-14 | conhecimento | cvm-col-20210914-d2250 | fichas/colegiado/2021-15.md |
-| 19957.003851/2021-76 | 2021-09-09 | nao-provido | cvm-col-20210909-d2300 | fichas/colegiado/2021-15.md |
-| 19957.006268/2021-17 | 2021-09-09 | nao-provido | cvm-col-20210909-d2299 | fichas/colegiado/2021-15.md |
-| 19957.006256/2021-92 | 2021-09-09 | nao-provido | cvm-col-20210909-d2298 | fichas/colegiado/2021-15.md |
-| 19957.006209/2021-49 | 2021-09-09 | nao-provido | cvm-col-20210909-d2297 | fichas/colegiado/2021-15.md |
-| 19957.006208/2021-02 | 2021-09-09 | nao-provido | cvm-col-20210909-d2296 | fichas/colegiado/2021-15.md |
-| 19957.005256/2019-51 | 2021-09-08 | outro | cvm-col-20210908-d2307 | fichas/colegiado/2021-15.md |
-| 19957.006482/2021-73 | 2021-08-31 | outro | cvm-col-20210831-d2294 | fichas/colegiado/2021-15.md |
-| 19957.006766/2021-60 | 2021-08-31 | outro | cvm-col-20210831-d2293 | fichas/colegiado/2021-15.md |
-| 519/2007; 19957.006285/2021-54 | 2021-08-31 | outro | cvm-col-20210831-d2292 | fichas/colegiado/2021-15.md |
-| 19957.002231/2020-39 | 2021-08-31 | deferido | cvm-col-20210831-d2289 | fichas/colegiado/2021-15.md |
-| 19957.006244/2021-68 | 2021-08-31 | nao-provido | cvm-col-20210831-d2288 | fichas/colegiado/2021-14.md |
-| 19957.006243/2021-13 | 2021-08-31 | nao-provido | cvm-col-20210831-d2287 | fichas/colegiado/2021-14.md |
-| 19957.006607/2021-65 | 2021-08-25 | outro | cvm-col-20210825-d2295 | fichas/colegiado/2021-14.md |
-| 19957.006482/2021-73 | 2021-08-25 | — | cvm-col-20210825-d2294 | fichas/colegiado/2021-14.md |
-| 19957.006283/2020-84 | 2021-08-25 | outro | cvm-col-20210825-d2044 | fichas/colegiado/2021-14.md |
-| 19957.005732/2021-58 | 2021-08-24 | deferido | cvm-col-20210824-d2286 | fichas/colegiado/2021-14.md |
-| 19957.004079/2017-23 | 2021-08-24 | nao-provido | cvm-col-20210824-d2285 | fichas/colegiado/2021-14.md |
-| 19957.005552/2021-76 | 2021-08-24 | deferido | cvm-col-20210824-d2284 | fichas/colegiado/2021-14.md |
-| 19957.004015/2021-17 | 2021-08-24 | outro | cvm-col-20210824-d2283 | fichas/colegiado/2021-14.md |
-| 19957.005890/2019-93 | 2021-08-24 | deferido | cvm-col-20210824-d2276 | fichas/colegiado/2021-14.md |
-| — | 2021-08-24 | outro | cvm-col-20210824-d1989 | fichas/colegiado/2021-14.md |
-| 19957.006164/2021-11; 19957.010399/2018-01 | 2021-08-24 | indeferido | cvm-col-20210824-d1603 | fichas/colegiado/2021-14.md |
-| 19957.006482/2021-73 | 2021-08-18 | — | cvm-col-20210818-d2294 | fichas/colegiado/2021-14.md |
-| 19957.006121/2021-27 | 2021-08-18 | outro | cvm-col-20210818-d2277 | fichas/colegiado/2021-14.md |
-| 19957.006105/2021-34 | 2021-08-17 | outro | cvm-col-20210817-d2275 | fichas/colegiado/2021-14.md |
-| 356/2001; 444/2006; 555/2014; 19957.004508/2019-24 | 2021-08-17 | — | cvm-col-20210817-d2274 | fichas/colegiado/2021-14.md |
-| 19957.005656/2021-81 | 2021-08-17 | outro | cvm-col-20210817-d2273 | fichas/colegiado/2021-13.md |
-| 19957.005632/2021-21; 19957.005640/2021-78 | 2021-08-17 | deferido | cvm-col-20210817-d2272 | fichas/colegiado/2021-13.md |
-| 19957.006121/2021-27 | 2021-08-11 | outro | cvm-col-20210811-d2277 | fichas/colegiado/2021-13.md |
-| 06/2020; 358/2002; 19957.007901/2016-27 | 2021-08-11 | outro | cvm-col-20210811-d1896 | fichas/colegiado/2021-13.md |
-| 19957.001151/2021-47 | 2021-08-10 | nao-provido | cvm-col-20210810-d2270 | fichas/colegiado/2021-13.md |
-| 19957.001150/2021-01 | 2021-08-10 | nao-provido | cvm-col-20210810-d2269 | fichas/colegiado/2021-13.md |
-| 00783.002822/2018-01 | 2021-08-10 | outro | cvm-col-20210810-d2268 | fichas/colegiado/2021-13.md |
-| 19957.005741/2021-49 | 2021-08-10 | nao-provido | cvm-col-20210810-d2267 | fichas/colegiado/2021-13.md |
-| 19957.005737/2021-81 | 2021-08-10 | nao-provido | cvm-col-20210810-d2266 | fichas/colegiado/2021-13.md |
-| 19957.005735/2021-91 | 2021-08-10 | nao-provido | cvm-col-20210810-d2265 | fichas/colegiado/2021-13.md |
-| 19957.005695/2021-88 | 2021-08-10 | conhecimento | cvm-col-20210810-d2264 | fichas/colegiado/2021-13.md |
-| 06/2020; 358/2002; 19957.007901/2016-27 | 2021-08-04 | — | cvm-col-20210804-d1896 | fichas/colegiado/2021-13.md |
-| 19957.004948/2021-04 | 2021-08-03 | outro | cvm-col-20210803-d2262 | fichas/colegiado/2021-13.md |
-| 19957.005457/2021-72 | 2021-08-03 | nao-provido | cvm-col-20210803-d2259 | fichas/colegiado/2021-13.md |
-| 19957.006037/2021-11 | 2021-07-28 | outro | cvm-col-20210728-d2263 | fichas/colegiado/2021-13.md |
-| 19957.004749/2021-98 | 2021-07-27 | outro | cvm-col-20210727-d6126 | fichas/colegiado/2021-13.md |
-| 19957.001146/2021-34 | 2021-07-27 | nao-provido | cvm-col-20210727-d2258 | fichas/colegiado/2021-12.md |
-| 19957.011528/2019-51 | 2021-07-27 | nao-provido | cvm-col-20210727-d2257 | fichas/colegiado/2021-12.md |
-| 19957.005458/2021-17 | 2021-07-27 | nao-provido | cvm-col-20210727-d2256 | fichas/colegiado/2021-12.md |
-| 19957.001055/2021-07 | 2021-07-27 | nao-provido | cvm-col-20210727-d2255 | fichas/colegiado/2021-12.md |
-| 19957.005467/2021-16 | 2021-07-27 | nao-provido | cvm-col-20210727-d2254 | fichas/colegiado/2021-12.md |
-| 19957.005400/2021-73 | 2021-07-27 | nao-provido | cvm-col-20210727-d2253 | fichas/colegiado/2021-12.md |
-| 19957.005455/2021-83 | 2021-07-27 | nao-provido | cvm-col-20210727-d2251 | fichas/colegiado/2021-12.md |
-| 19957.005047/2021-21 | 2021-07-27 | nao-provido | cvm-col-20210727-d2250 | fichas/colegiado/2021-12.md |
-| 19957.004831/2021-12 | 2021-07-27 | nao-provido | cvm-col-20210727-d2249 | fichas/colegiado/2021-12.md |
-| 19957.003330/2020-38 | 2021-07-27 | conhecimento | cvm-col-20210727-d2248 | fichas/colegiado/2021-12.md |
-| 19957.005731/2019-99 | 2021-07-27 | outro | cvm-col-20210727-d1761 | fichas/colegiado/2021-12.md |
-| 01/2021; 19957.003823/2021-59 | 2021-07-21 | outro | cvm-col-20210721-d2164 | fichas/colegiado/2021-12.md |
-| 06/2020; 19957.007951/2020-91 | 2021-07-21 | outro | cvm-col-20210721-d2012 | fichas/colegiado/2021-12.md |
-| 19957.009468/2018-26 | 2021-07-21 | outro | cvm-col-20210721-d1441 | fichas/colegiado/2021-12.md |
-| 19957.008909/2020-97 | 2021-07-20 | nao-provido | cvm-col-20210720-d2246 | fichas/colegiado/2021-12.md |
-| 19957.002824/2021-86 | 2021-07-20 | nao-provido | cvm-col-20210720-d2243 | fichas/colegiado/2021-12.md |
-| 19957.006626/2020-19 | 2021-07-20 | outro | cvm-col-20210720-d2235 | fichas/colegiado/2021-12.md |
-| 19957.004687/2020-33 | 2021-07-20 | — | cvm-col-20210720-d2143 | fichas/colegiado/2021-12.md |
-| 19957.005524/2021-59 | 2021-07-20 | outro | cvm-col-20210720-d2083 | fichas/colegiado/2021-11.md |
-| 19957.005386/2021-16 | 2021-07-13 | nao-provido | cvm-col-20210713-d2241 | fichas/colegiado/2021-11.md |
-| 19957.005303/2021-81 | 2021-07-13 | nao-provido | cvm-col-20210713-d2240 | fichas/colegiado/2021-11.md |
-| 19957.004443/2021-31 | 2021-07-13 | conhecimento | cvm-col-20210713-d2238 | fichas/colegiado/2021-11.md |
-| 19957.008903/2020-10 | 2021-07-13 | parcial | cvm-col-20210713-d2236 | fichas/colegiado/2021-11.md |
-| 19957.010165/2018-56 | 2021-07-13 | nao-provido | cvm-col-20210713-d2234 | fichas/colegiado/2021-11.md |
-| 19957.009468/2018-26 | 2021-07-07 | — | cvm-col-20210707-d1441 | fichas/colegiado/2021-11.md |
-| 19957.001678/2021-71; 19957.001682/2021-30 | 2021-07-06 | deferido | cvm-col-20210706-d2233 | fichas/colegiado/2021-11.md |
-| 19957.005217/2021-78 | 2021-07-06 | nao-provido | cvm-col-20210706-d2230 | fichas/colegiado/2021-11.md |
-| 19957.001034/2021-83 | 2021-07-06 | nao-provido | cvm-col-20210706-d2229 | fichas/colegiado/2021-11.md |
-| 19957.009898/2019-29 | 2021-07-06 | outro | cvm-col-20210706-d2228 | fichas/colegiado/2021-11.md |
-| 19957.004782/2021-18 | 2021-07-06 | nao-provido | cvm-col-20210706-d2227 | fichas/colegiado/2021-11.md |
-| 19957.005258/2020-83 | 2021-07-06 | nao-provido | cvm-col-20210706-d2226 | fichas/colegiado/2021-11.md |
-| 19957.004974/2021-24 | 2021-07-01 | outro | cvm-col-20210701-d2242 | fichas/colegiado/2021-11.md |
-| — | 2021-06-30 | indeferido | cvm-col-20210630-d1472 | fichas/colegiado/2021-11.md |
-| 19957.005438/2020-65 | 2021-06-29 | outro | cvm-col-20210629-d2224 | fichas/colegiado/2021-11.md |
-| 19957.000072/2021-19 | 2021-06-29 | nao-provido | cvm-col-20210629-d2222 | fichas/colegiado/2021-11.md |
-| 19957.001022/2021-59 | 2021-06-29 | nao-provido | cvm-col-20210629-d2221 | fichas/colegiado/2021-11.md |
-| 19957.004951/2021-10 | 2021-06-29 | conhecimento | cvm-col-20210629-d2220 | fichas/colegiado/2021-11.md |
-| 19957.004863/2021-18 | 2021-06-29 | conhecimento | cvm-col-20210629-d2219 | fichas/colegiado/2021-11.md |
-| 19957.004667/2021-43 | 2021-06-29 | nao-provido | cvm-col-20210629-d2218 | fichas/colegiado/2021-10.md |
-| 19957.004881/2021-08 | 2021-06-29 | nao-provido | cvm-col-20210629-d2217 | fichas/colegiado/2021-10.md |
-| 19957.006936/2017-20; RJ2017/4199 | 2021-06-29 | indeferido | cvm-col-20210629-d1005 | fichas/colegiado/2021-10.md |
-| — | 2021-06-23 | outro | cvm-col-20210623-d1472 | fichas/colegiado/2021-10.md |
-| 19957.004308/2021-96; 19957.004259/2021-91 | 2021-06-22 | deferido | cvm-col-20210622-d2213 | fichas/colegiado/2021-10.md |
-| 19957.004565/2021-28 | 2021-06-22 | nao-provido | cvm-col-20210622-d2212 | fichas/colegiado/2021-10.md |
-| 19957.004492/2021-74 | 2021-06-22 | nao-provido | cvm-col-20210622-d2211 | fichas/colegiado/2021-10.md |
-| 19957.001484/2020-95 | 2021-06-22 | outro | cvm-col-20210622-d1921 | fichas/colegiado/2021-10.md |
-| 19957.002758/2021-44 | 2021-06-16 | outro | cvm-col-20210616-d2216 | fichas/colegiado/2021-10.md |
-| 19957.004700/2021-35 | 2021-06-16 | outro | cvm-col-20210616-d2215 | fichas/colegiado/2021-10.md |
-| 19957.007796/2020-11 | 2021-06-16 | outro | cvm-col-20210616-d2214 | fichas/colegiado/2021-10.md |
-| 19957.008366/2020-16 | 2021-06-15 | nao-provido | cvm-col-20210615-d2210 | fichas/colegiado/2021-10.md |
-| 19957.008088/2020-99 | 2021-06-15 | nao-provido | cvm-col-20210615-d2209 | fichas/colegiado/2021-10.md |
-| 19957.007199/2020-88 | 2021-06-15 | nao-provido | cvm-col-20210615-d2208 | fichas/colegiado/2021-10.md |
-| 19957.003841/2018-35 | 2021-06-15 | parcial | cvm-col-20210615-d2053 | fichas/colegiado/2021-10.md |
-| 19957.002822/2021-97 | 2021-06-08 | nao-provido | cvm-col-20210608-d2207 | fichas/colegiado/2021-10.md |
-| 19957.000279/2021-93 | 2021-06-08 | outro | cvm-col-20210608-d2206 | fichas/colegiado/2021-10.md |
-| 19957.002956/2021-16 | 2021-06-08 | nao-provido | cvm-col-20210608-d2205 | fichas/colegiado/2021-10.md |
-| 19957.000174/2017-58 | 2021-06-08 | nao-provido | cvm-col-20210608-d2194 | fichas/colegiado/2021-10.md |
-| 19957.004018/2017-66 | 2021-06-08 | nao-provido | cvm-col-20210608-d2193 | fichas/colegiado/2021-10.md |
-| 19957.004945/2019-48 | 2021-06-08 | outro | cvm-col-20210608-d1747 | fichas/colegiado/2021-09.md |
-| 19957.007580/2020-47 | 2021-06-01 | nao-provido | cvm-col-20210601-d2199 | fichas/colegiado/2021-09.md |
-| 19957.003877/2020-33 | 2021-06-01 | parcial | cvm-col-20210601-d2196 | fichas/colegiado/2021-09.md |
-| 19957.003282/2021-69 | 2021-06-01 | deferido | cvm-col-20210601-d2195 | fichas/colegiado/2021-09.md |
-| 19957.004363/2021-86; 19957.004364/2021-21 | 2021-06-01 | conhecimento | cvm-col-20210601-d2192 | fichas/colegiado/2021-09.md |
-| 19957.002309/2021-04 | 2021-06-01 | nao-provido | cvm-col-20210601-d2191 | fichas/colegiado/2021-09.md |
-| 19957.005411/2019-39 | 2021-06-01 | indeferido | cvm-col-20210601-d1864 | fichas/colegiado/2021-09.md |
-| 08/2020; 19957.009249/2019-28 | 2021-05-26 | — | cvm-col-20210526-d5474 | fichas/colegiado/2021-09.md |
-| 19957.004004/2021-29 | 2021-05-25 | outro | cvm-col-20210525-d2190 | fichas/colegiado/2021-09.md |
-| 19957.000837/2021-11 | 2021-05-25 | provido | cvm-col-20210525-d2189 | fichas/colegiado/2021-09.md |
-| 19957.008087/2020-44 | 2021-05-25 | nao-provido | cvm-col-20210525-d2188 | fichas/colegiado/2021-09.md |
-| 19957.005939/2020-41 | 2021-05-25 | nao-provido | cvm-col-20210525-d2181 | fichas/colegiado/2021-09.md |
-| 19957.009399/2016-99 | 2021-05-25 | parcial | cvm-col-20210525-d2180 | fichas/colegiado/2021-09.md |
-| 19957.000124/2017-71 | 2021-05-25 | nao-provido | cvm-col-20210525-d2178 | fichas/colegiado/2021-09.md |
-| 19957.002467/2021-56 | 2021-05-25 | nao-provido | cvm-col-20210525-d2177 | fichas/colegiado/2021-09.md |
-| 19957.002618/2016-17 | 2021-05-19 | — | cvm-col-20210519-d2676 | fichas/colegiado/2021-09.md |
-| 19957.004002/2021-30 | 2021-05-18 | outro | cvm-col-20210518-d2175 | fichas/colegiado/2021-09.md |
-| 19957.004921/2020-22 | 2021-05-18 | nao-provido | cvm-col-20210518-d2174 | fichas/colegiado/2021-08.md |
-| 19957.008101/2020-18 | 2021-05-18 | deferido | cvm-col-20210518-d2172 | fichas/colegiado/2021-08.md |
-| 19957.001749/2021-36 | 2021-05-18 | parcial | cvm-col-20210518-d2171 | fichas/colegiado/2021-08.md |
-| 19957.003391/2021-86 | 2021-05-18 | provido | cvm-col-20210518-d2170 | fichas/colegiado/2021-08.md |
-| 19957.003485/2021-55 | 2021-05-18 | nao-provido | cvm-col-20210518-d2167 | fichas/colegiado/2021-08.md |
-| 19957.003508/2021-21 | 2021-05-18 | nao-provido | cvm-col-20210518-d2166 | fichas/colegiado/2021-08.md |
-| 09/2019; 19957.002618/2016-17 | 2021-05-12 | — | cvm-col-20210512-d2676 | fichas/colegiado/2021-08.md |
-| 19957.003645/2021-66 | 2021-05-11 | outro | cvm-col-20210511-d2163 | fichas/colegiado/2021-08.md |
-| 19957.003641/2021-88 | 2021-05-11 | outro | cvm-col-20210511-d2162 | fichas/colegiado/2021-08.md |
-| 19957.002936/2021-37 | 2021-05-11 | deferido | cvm-col-20210511-d2160 | fichas/colegiado/2021-08.md |
-| 19957.003416/2021-41 | 2021-05-11 | deferido | cvm-col-20210511-d2159 | fichas/colegiado/2021-08.md |
-| 19957.004724/2020-11 | 2021-05-11 | nao-provido | cvm-col-20210511-d1995 | fichas/colegiado/2021-08.md |
-| 19957.000017/2019-12 | 2021-05-10 | outro | cvm-col-20210510-d2124 | fichas/colegiado/2021-08.md |
-| 19957.003823/2021-59 | 2021-05-05 | outro | cvm-col-20210505-d2164 | fichas/colegiado/2021-08.md |
-| 19957.000017/2019-12 | 2021-05-05 | — | cvm-col-20210505-d2124 | fichas/colegiado/2021-08.md |
-| 19957.008889/2020-54 | 2021-05-04 | deferido | cvm-col-20210504-d2156 | fichas/colegiado/2021-08.md |
-| 19957.002469/2021-45 | 2021-05-04 | nao-provido | cvm-col-20210504-d2155 | fichas/colegiado/2021-08.md |
-| 19957.002470/2021-70 | 2021-05-04 | nao-provido | cvm-col-20210504-d2154 | fichas/colegiado/2021-08.md |
-| 19957.007797/2020-57 | 2021-05-04 | deferido | cvm-col-20210504-d2153 | fichas/colegiado/2021-07.md |
-| 19957.008030/2020-45 | 2021-05-04 | parcial | cvm-col-20210504-d2152 | fichas/colegiado/2021-07.md |
-| 19957.005970/2020-82 | 2021-05-04 | nao-provido | cvm-col-20210504-d2151 | fichas/colegiado/2021-07.md |
-| 19957.001000/2017-11 | 2021-05-04 | nao-provido | cvm-col-20210504-d2145 | fichas/colegiado/2021-07.md |
-| 19957.000017/2019-12 | 2021-04-28 | — | cvm-col-20210428-d2124 | fichas/colegiado/2021-07.md |
-| 19957.008102/2020-54 | 2021-04-27 | nao-provido | cvm-col-20210427-d2149 | fichas/colegiado/2021-07.md |
-| 19957.008007/2020-51 | 2021-04-27 | nao-provido | cvm-col-20210427-d2148 | fichas/colegiado/2021-07.md |
-| 19957.002555/2021-58 | 2021-04-27 | nao-provido | cvm-col-20210427-d2144 | fichas/colegiado/2021-07.md |
-| 19957.002781/2021-39 | 2021-04-27 | nao-provido | cvm-col-20210427-d2142 | fichas/colegiado/2021-07.md |
-| 19957.002833/2021-77 | 2021-04-27 | nao-provido | cvm-col-20210427-d2141 | fichas/colegiado/2021-07.md |
-| 19957.002501/2021-92 | 2021-04-27 | nao-provido | cvm-col-20210427-d2140 | fichas/colegiado/2021-07.md |
-| 19957.007649/2020-32 | 2021-04-27 | outro | cvm-col-20210427-d2128 | fichas/colegiado/2021-07.md |
-| 19957.005564/2020-10 | 2021-04-27 | parcial | cvm-col-20210427-d2019 | fichas/colegiado/2021-07.md |
-| 19957.008756/2020-88 | 2021-04-20 | nao-provido | cvm-col-20210420-d2138 | fichas/colegiado/2021-07.md |
-| 19957.003841/2018-35 | 2021-04-20 | nao-provido | cvm-col-20210420-d2053 | fichas/colegiado/2021-07.md |
-| 04/2020; 19957.004718/2020-56 | 2021-04-14 | outro | cvm-col-20210414-d1910 | fichas/colegiado/2021-07.md |
-| 19957.001988/2021-96 | 2021-04-13 | outro | cvm-col-20210413-d2136 | fichas/colegiado/2021-07.md |
-| 19957.006470/2020-68 | 2021-04-13 | nao-provido | cvm-col-20210413-d2135 | fichas/colegiado/2021-07.md |
-| 19957.002476/2021-47 | 2021-04-13 | nao-provido | cvm-col-20210413-d2134 | fichas/colegiado/2021-07.md |
-| 19957.002475/2021-01 | 2021-04-13 | nao-provido | cvm-col-20210413-d2133 | fichas/colegiado/2021-06.md |
-| 19957.002473/2021-11 | 2021-04-13 | nao-provido | cvm-col-20210413-d2132 | fichas/colegiado/2021-06.md |
-| 19957.007193/2019-77; 19957.006475/2020-91 | 2021-04-13 | conhecimento | cvm-col-20210413-d2001 | fichas/colegiado/2021-06.md |
-| 19957.001881/2021-48 | 2021-04-06 | nao-provido | cvm-col-20210406-d2129 | fichas/colegiado/2021-06.md |
-| 19957.007649/2020-32 | 2021-04-06 | outro | cvm-col-20210406-d2128 | fichas/colegiado/2021-06.md |
-| 19957.000246/2021-43 | 2021-04-01 | deferido | cvm-col-20210401-d2119 | fichas/colegiado/2021-06.md |
-| 19957.007961/2020-26 | 2021-04-01 | nao-provido | cvm-col-20210401-d2118 | fichas/colegiado/2021-06.md |
-| 19957.001588/2021-81 | 2021-04-01 | nao-provido | cvm-col-20210401-d2117 | fichas/colegiado/2021-06.md |
-| 19957.001838/2021-82 | 2021-04-01 | conhecimento | cvm-col-20210401-d2116 | fichas/colegiado/2021-06.md |
-| 19957.007709/2020-17 | 2021-04-01 | conhecimento | cvm-col-20210401-d2115 | fichas/colegiado/2021-06.md |
-| 19957.007708/2020-72 | 2021-04-01 | conhecimento | cvm-col-20210401-d2114 | fichas/colegiado/2021-06.md |
-| 19957.004739/2020-71 | 2021-04-01 | nao-provido | cvm-col-20210401-d1954 | fichas/colegiado/2021-06.md |
-| 19957.001391/2021-41 | 2021-03-31 | outro | cvm-col-20210331-d2130 | fichas/colegiado/2021-06.md |
-| 19957.000017/2019-12 | 2021-03-31 | — | cvm-col-20210331-d2124 | fichas/colegiado/2021-06.md |
-| 19957.002798/2021-96 | 2021-03-30 | outro | cvm-col-20210330-d2176 | fichas/colegiado/2021-06.md |
-| 19957.000017/2019-12 | 2021-03-24 | outro | cvm-col-20210324-d2124 | fichas/colegiado/2021-06.md |
-| 19957.006607/2021-65 | 2021-03-24 | outro | cvm-col-20210324-d2123 | fichas/colegiado/2021-06.md |
-| 19957.008749/2020-86 | 2021-03-24 | outro | cvm-col-20210324-d2060 | fichas/colegiado/2021-06.md |
-| 19957.002355/2021-03 | 2021-03-23 | deferido | cvm-col-20210323-d2113 | fichas/colegiado/2021-05.md |
-| 19957.001898/2021-03 | 2021-03-23 | nao-provido | cvm-col-20210323-d2112 | fichas/colegiado/2021-05.md |
-| 19957.001871/2021-11 | 2021-03-23 | nao-provido | cvm-col-20210323-d2111 | fichas/colegiado/2021-05.md |
-| 19957.001850/2021-97 | 2021-03-23 | nao-provido | cvm-col-20210323-d2110 | fichas/colegiado/2021-05.md |
-| 19957.007927/2020-51 | 2021-03-23 | indeferido | cvm-col-20210323-d2109 | fichas/colegiado/2021-05.md |
-| 19957.004865/2016-40 | 2021-03-23 | nao-provido | cvm-col-20210323-d2108 | fichas/colegiado/2021-05.md |
-| 19957.000984/2017-12 | 2021-03-23 | nao-provido | cvm-col-20210323-d2107 | fichas/colegiado/2021-05.md |
-| 19957.007440/2020-79 | 2021-03-17 | deferido | cvm-col-20210317-d1472 | fichas/colegiado/2021-05.md |
-| 19957.005697/2020-96 | 2021-03-16 | nao-provido | cvm-col-20210316-d2105 | fichas/colegiado/2021-05.md |
-| 19957.008009/2020-40 | 2021-03-16 | nao-provido | cvm-col-20210316-d2102 | fichas/colegiado/2021-05.md |
-| 19957.000167/2017-56 | 2021-03-16 | nao-provido | cvm-col-20210316-d2101 | fichas/colegiado/2021-05.md |
-| 19957.000089/2017-90 | 2021-03-16 | nao-provido | cvm-col-20210316-d2100 | fichas/colegiado/2021-05.md |
-| 19957.008697/2020-48 | 2021-03-16 | deferido | cvm-col-20210316-d2099 | fichas/colegiado/2021-05.md |
-| 19957.000804/2021-71 | 2021-03-16 | nao-provido | cvm-col-20210316-d2098 | fichas/colegiado/2021-05.md |
-| 19957.007707/2020-28 | 2021-03-16 | conhecimento | cvm-col-20210316-d2094 | fichas/colegiado/2021-05.md |
-| 19957.001658/2021-09 | 2021-03-11 | indeferido | cvm-col-20210311-d2106 | fichas/colegiado/2021-05.md |
-| 472/2008; 19957.007979/2016-41 | 2021-03-10 | — | cvm-col-20210310-d2097 | fichas/colegiado/2021-05.md |
-| 19957.007791/2020-80; 19957.007792/2020-24; 19957.007793/2020-79 | 2021-03-09 | conhecimento | cvm-col-20210309-d2095 | fichas/colegiado/2021-05.md |
-| 19957.007710/2020-41 | 2021-03-09 | conhecimento | cvm-col-20210309-d2093 | fichas/colegiado/2021-05.md |
-| 19957.000950/2021-04 | 2021-03-09 | provido | cvm-col-20210309-d2092 | fichas/colegiado/2021-05.md |
-| 19957.005983/2019-18 | 2021-03-09 | parcial | cvm-col-20210309-d1675 | fichas/colegiado/2021-04.md |
-| 626/2020 | 2021-03-03 | — | cvm-col-20210303-d1472 | fichas/colegiado/2021-04.md |
-| — | 2021-03-02 | outro | cvm-col-20210302-d5821 | fichas/colegiado/2021-04.md |
-| 19957.001193/2021-88 | 2021-03-02 | outro | cvm-col-20210302-d2090 | fichas/colegiado/2021-04.md |
-| 19957.007816/2020-45 | 2021-03-02 | nao-provido | cvm-col-20210302-d2089 | fichas/colegiado/2021-04.md |
-| RJ2015/3716; 19957.001561/2020-15 | 2021-03-02 | nao-provido | cvm-col-20210302-d2078 | fichas/colegiado/2021-04.md |
-| RJ2014/7566; 19957.000197/2021-49 | 2021-03-02 | nao-provido | cvm-col-20210302-d2077 | fichas/colegiado/2021-04.md |
-| 19957.001390/2021-05 | 2021-02-24 | outro | cvm-col-20210224-d2091 | fichas/colegiado/2021-04.md |
-| 07/2020; 308/1999; 19957.006874/2019-18 | 2021-02-24 | outro | cvm-col-20210224-d1590 | fichas/colegiado/2021-04.md |
-| 19957.009300/2018-11 | 2021-02-24 | outro | cvm-col-20210224-d1255 | fichas/colegiado/2021-04.md |
-| 19957.001378/2021-92 | 2021-02-23 | outro | cvm-col-20210223-d2086 | fichas/colegiado/2021-04.md |
-| 19957.007962/2020-71 | 2021-02-23 | provido | cvm-col-20210223-d2084 | fichas/colegiado/2021-04.md |
-| 19957.001365/2021-13 | 2021-02-23 | outro | cvm-col-20210223-d2083 | fichas/colegiado/2021-04.md |
-| 19957.006595/2020-98 | 2021-02-23 | nao-provido | cvm-col-20210223-d2082 | fichas/colegiado/2021-04.md |
-| 19957.004014/2020-83 | 2021-02-23 | provido | cvm-col-20210223-d2080 | fichas/colegiado/2021-04.md |
-| 19957.000951/2021-41 | 2021-02-23 | outro | cvm-col-20210223-d2079 | fichas/colegiado/2021-04.md |
-| 19957.006243/2020-32 | 2021-02-23 | provido | cvm-col-20210223-d2029 | fichas/colegiado/2021-03.md |
-| 19957.005411/2019-39 | 2021-02-23 | outro | cvm-col-20210223-d1864 | fichas/colegiado/2021-03.md |
-| 19957.010715/2018-37; 19957.000495/2019-14 | 2021-02-23 | outro | cvm-col-20210223-d1583 | fichas/colegiado/2021-03.md |
-| 476/2009; 19957.007194/2017-50; 19957.007197/2017-93 | 2021-02-23 | outro | cvm-col-20210223-d1424 | fichas/colegiado/2021-03.md |
-| 19957.000049/2019-18 | 2021-02-18 | nao-provido | cvm-col-20210218-d2075 | fichas/colegiado/2021-03.md |
-| 19957.008524/2020-20 | 2021-02-18 | nao-provido | cvm-col-20210218-d2074 | fichas/colegiado/2021-03.md |
-| 19957.000839/2021-18 | 2021-02-18 | nao-provido | cvm-col-20210218-d2073 | fichas/colegiado/2021-03.md |
-| 19957.000048/2021-80 | 2021-02-18 | nao-provido | cvm-col-20210218-d2072 | fichas/colegiado/2021-03.md |
-| 19957.007688/2020-30 | 2021-02-18 | nao-provido | cvm-col-20210218-d2071 | fichas/colegiado/2021-03.md |
-| 19957.007686/2020-41 | 2021-02-18 | nao-provido | cvm-col-20210218-d2070 | fichas/colegiado/2021-03.md |
-| 19957.000969/2021-42 | 2021-02-18 | nao-provido | cvm-col-20210218-d2069 | fichas/colegiado/2021-03.md |
-| 19957.008129/2020-47 | 2021-02-18 | nao-provido | cvm-col-20210218-d2064 | fichas/colegiado/2021-03.md |
-| 19957.008013/2020-16 | 2021-02-10 | indeferido | cvm-col-20210210-d2076 | fichas/colegiado/2021-03.md |
-| 05/2020; 19957.000841/2021-89 | 2021-02-10 | outro | cvm-col-20210210-d2000 | fichas/colegiado/2021-03.md |
-| 07/2020; 308/1999; 19957.006874/2019-18 | 2021-02-10 | — | cvm-col-20210210-d1590 | fichas/colegiado/2021-03.md |
-| 19957.000807/2021-12 | 2021-02-09 | outro | cvm-col-20210209-d2057 | fichas/colegiado/2021-03.md |
-| 19957.000808/2021-59 | 2021-02-09 | outro | cvm-col-20210209-d2056 | fichas/colegiado/2021-03.md |
-| 19957.005860/2020-11 | 2021-02-09 | nao-provido | cvm-col-20210209-d2055 | fichas/colegiado/2021-02.md |
-| 19957.006449/2020-62 | 2021-02-09 | nao-provido | cvm-col-20210209-d2054 | fichas/colegiado/2021-02.md |
-| 19957.008010/2020-74 | 2021-02-09 | outro | cvm-col-20210209-d2052 | fichas/colegiado/2021-02.md |
-| 19957.006526/2020-84 | 2021-02-09 | deferido | cvm-col-20210209-d2051 | fichas/colegiado/2021-02.md |
-| 19957.008282/2020-74 | 2021-02-09 | parcial | cvm-col-20210209-d2050 | fichas/colegiado/2021-02.md |
-| 19957.011657/2019-40 | 2021-02-09 | conhecimento | cvm-col-20210209-d1800 | fichas/colegiado/2021-02.md |
-| 860/2020; 19957.008749/2020-86 | 2021-02-03 | outro | cvm-col-20210203-d2060 | fichas/colegiado/2021-02.md |
-| 480/2009; 19957.000939/2021-36 | 2021-02-03 | outro | cvm-col-20210203-d2059 | fichas/colegiado/2021-02.md |
-| 19957.008806/2020-27 | 2021-02-02 | outro | cvm-col-20210202-d2047 | fichas/colegiado/2021-02.md |
-| 19957.000391/2021-24 | 2021-02-02 | nao-provido | cvm-col-20210202-d2046 | fichas/colegiado/2021-02.md |
-| 19957.008892/2020-78 | 2021-02-02 | nao-provido | cvm-col-20210202-d2045 | fichas/colegiado/2021-02.md |
-| 19957.000268/2021-11 | 2021-02-02 | outro | cvm-col-20210202-d1941 | fichas/colegiado/2021-02.md |
-| 19957.005795/2020-23 | 2021-01-26 | nao-provido | cvm-col-20210126-d2043 | fichas/colegiado/2021-02.md |
-| 19957.000247/2021-98 | 2021-01-26 | nao-provido | cvm-col-20210126-d2042 | fichas/colegiado/2021-02.md |
-| 19957.008850/2020-37 | 2021-01-26 | nao-provido | cvm-col-20210126-d2041 | fichas/colegiado/2021-02.md |
-| 19957.000001/2021-16 | 2021-01-26 | provido | cvm-col-20210126-d2039 | fichas/colegiado/2021-02.md |
-| 19957.000050/2021-59 | 2021-01-26 | nao-provido | cvm-col-20210126-d2038 | fichas/colegiado/2021-02.md |
-| 19957.007193/2019-77; 19957.006475/2020-91 | 2021-01-26 | conhecimento | cvm-col-20210126-d2001 | fichas/colegiado/2021-01.md |
-| 19957.008349/2020-71 | 2021-01-19 | deferido | cvm-col-20210119-d2037 | fichas/colegiado/2021-01.md |
-| 19957.007831/2020-93 | 2021-01-19 | deferido | cvm-col-20210119-d2036 | fichas/colegiado/2021-01.md |
-| 8/2020; 19957.000029/2021-53 | 2021-01-19 | parcial | cvm-col-20210119-d2034 | fichas/colegiado/2021-01.md |
-| 19957.008017/2020-96 | 2021-01-19 | nao-provido | cvm-col-20210119-d2033 | fichas/colegiado/2021-01.md |
-| 19957.008656/2020-51 | 2021-01-19 | provido | cvm-col-20210119-d2032 | fichas/colegiado/2021-01.md |
-| 19957.003513/2019-10 | 2021-01-19 | nao-provido | cvm-col-20210119-d2031 | fichas/colegiado/2021-01.md |
-| 19957.005199/2020-43 | 2021-01-19 | conhecimento | cvm-col-20210119-d1986 | fichas/colegiado/2021-01.md |
-| 19957.009300/2018-11 | 2021-01-14 | — | cvm-col-20210114-d1255 | fichas/colegiado/2021-01.md |
-| 19957.009300/2018-11 | 2021-01-13 | — | cvm-col-20210113-d1255 | fichas/colegiado/2021-01.md |
-| 19957.009300/2018-11 | 2021-01-13 | — | cvm-col-20210113-d1255-r2 | fichas/colegiado/2021-01.md |
-| 19957.006243/2020-32 | 2021-01-12 | deferido | cvm-col-20210112-d2029 | fichas/colegiado/2021-01.md |
-| 19957.006232/2020-52 | 2021-01-12 | outro | cvm-col-20210112-d2028 | fichas/colegiado/2021-01.md |
-| 19957.009300/2018-11 | 2021-01-07 | — | cvm-col-20210107-d1255 | fichas/colegiado/2021-01.md |
-| 19957.009300/2018-11 | 2021-01-06 | — | cvm-col-20210106-d1255 | fichas/colegiado/2021-01.md |
-| 19957.006232/2020-52 | 2021-01-05 | outro | cvm-col-20210105-d2028 | fichas/colegiado/2021-01.md |
-| 19957.007302/2020-90 | 2021-01-05 | outro | cvm-col-20210105-d2027 | fichas/colegiado/2021-01.md |
-| 19957.005554/2020-84 | 2021-01-05 | nao-provido | cvm-col-20210105-d2026 | fichas/colegiado/2021-01.md |
+| Processo | Data | Resultado | Ementa | Id | Ficha |
+|---|---|---|---|---|---|
+| 400/2003; 476/2009; 480/2009; 588/2017; 6/2020; 8/2020; 54/2021; 19957.006333/2020-23 | 2021-12-22 | outro | Proposta de resolução. Proc. SEI 19957.006333/2020-23. | cvm-col-20211222-d2457 | fichas/colegiado/2021-23.md |
+| 19957.005822/2021-49 | 2021-12-21 | outro | O Colegiado aprovou, por unanimidade, a minuta de Acordo de Cooperação Técnica entre a CVM e o INSS para cumprir a centralização das… | cvm-col-20211221-d2446 | fichas/colegiado/2021-23.md |
+| 19957.006040/2021-27 | 2021-12-21 | indeferido | O Colegiado indeferiu, por maioria, pedido de dispensa do limite de 20% do patrimônio por devedor (art. 40-A da Instrução CVM 356/2001)… | cvm-col-20211221-d2445 | fichas/colegiado/2021-23.md |
+| 19957.008889/2021-35 | 2021-12-21 | deferido | O Colegiado, por unanimidade, deferiu a dispensa do art. 4º da Instrução CVM nº 578/2016 para que o FIP em infraestrutura receba… | cvm-col-20211221-d2444 | fichas/colegiado/2021-23.md |
+| 19957.009370/2021-74 | 2021-12-21 | deferido | O Colegiado autorizou a B3 a adquirir 100% das ações da Neoway Tecnologia Integrada Assessoria e Negócios S.A., por R$ 1,8 bilhão, nos… | cvm-col-20211221-d2442 | fichas/colegiado/2021-23.md |
+| 19957.008884/2021-11 | 2021-12-21 | outro | O Colegiado aprovou, com adendo da SMI, alteração no Regulamento de Processos da ANCORD que permite aceitação parcial de alteração… | cvm-col-20211221-d2433 | fichas/colegiado/2021-22.md |
+| 19957.008844/2020-80 | 2021-12-21 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.008844/2020-80. | cvm-col-20211221-d2432 | fichas/colegiado/2021-22.md |
+| 19957.008161/2021-11 | 2021-12-21 | nao-provido | Recursos contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.008161/2021-11. | cvm-col-20211221-d2429 | fichas/colegiado/2021-22.md |
+| 19957.008281/2021-19 | 2021-12-21 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.008281/2021-19. | cvm-col-20211221-d2428 | fichas/colegiado/2021-22.md |
+| 19957.006879/2021-65 | 2021-12-21 | parcial | Recursos contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.006879/2021-65. | cvm-col-20211221-d2421 | fichas/colegiado/2021-22.md |
+| 19957.006102/2020-10 | 2021-12-21 | parcial | Por maioria, o Colegiado deu provimento parcial a recurso do administrador de FII contra ofício da SSE que pedia distribuir rendimentos… | cvm-col-20211221-d2388 | fichas/colegiado/2021-22.md |
+| 19957.007392/2021-08 | 2021-12-21 | nao-provido | Recursos contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.007392/2021-08. | cvm-col-20211221-d2374 | fichas/colegiado/2021-22.md |
+| 19957.010165/2021-51 | 2021-12-17 | indeferido | O Colegiado indeferiu pedido de interrupção, por 15 dias, do prazo de convocação das AGEs da Terra Santa Propriedades Agrícolas S.A… | cvm-col-20211217-d2447 | fichas/colegiado/2021-22.md |
+| — | 2021-12-16 | outro | O Colegiado aprovou o Parecer de Orientação CVM nº 39/2021 sobre demonstrações financeiras resumidas, conforme o novo art. 289, I e II, da… | cvm-col-20211216-d2449 | fichas/colegiado/2021-22.md |
+| 19957.010310/2021-02 | 2021-12-15 | — | A SNC apresentou ao Colegiado cinco documentos preliminares com alterações pontuais em normas do RCPC 20, relativos a Amendments do IFRS… | cvm-col-20211215-d2448 | fichas/colegiado/2021-22.md |
+| 367/2002; 480/2009; 19957.005520/2019-56 | 2021-12-15 | outro | O Colegiado aprovou submeter à audiência pública proposta de resolução com alterações pontuais nas Instruções CVM 367/2002 e 480/2009 sobre… | cvm-col-20211215-d1763 | fichas/colegiado/2021-22.md |
+| 19957.009674/2018-36 | 2021-12-14 | outro | O Colegiado aprovou, por unanimidade, a minuta de Acordo de Cooperação Técnica entre a CVM, o SEBRAE e o SEBRAE-SP para fomentar inovação… | cvm-col-20211214-d2438 | fichas/colegiado/2021-22.md |
+| 19957.001788/2020-52 | 2021-12-14 | outro | O Colegiado, por unanimidade, devolveu à ASA a proposta de acordo de cooperação técnica com a FGV sobre o mercado de dívida, para… | cvm-col-20211214-d2434 | fichas/colegiado/2021-22.md |
+| 19957.008916/2020-99 | 2021-12-14 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.008916/2020-99. | cvm-col-20211214-d2424 | fichas/colegiado/2021-22.md |
+| 19957.000695/2021-91 | 2021-12-14 | nao-provido | O Colegiado negou provimento a recurso de cotistas de FIP contra decisão da SIN que arquivou reclamação por prescrição quinquenal (Lei nº… | cvm-col-20211214-d2418 | fichas/colegiado/2021-22.md |
+| 19957.004968/2021-77 | 2021-12-14 | provido | O Colegiado conheceu do pedido de reconsideração da proposta de participação no Sandbox Regulatório e, no mérito, reformou a decisão… | cvm-col-20211214-d2393 | fichas/colegiado/2021-22.md |
+| — | 2021-12-08 | outro | O Colegiado deliberou sobre a agenda regulatória da SNC para 2022, proposta pela própria área, com consolidações de normas contábeis para… | cvm-col-20211208-d2440 | fichas/colegiado/2021-22.md |
+| 472/2008; 19957.007979/2016-41 | 2021-12-08 | outro | O Colegiado aprovou submeter à audiência pública proposta de resolução que altera a Instrução CVM nº 472/2008 para vedar expressamente o… | cvm-col-20211208-d2097 | fichas/colegiado/2021-21.md |
+| 19957.008089/2021-14 | 2021-12-07 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.008089/2021-14. | cvm-col-20211207-d2427 | fichas/colegiado/2021-21.md |
+| 19957.008231/2021-23 | 2021-12-07 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.008231/2021-23. | cvm-col-20211207-d2426 | fichas/colegiado/2021-21.md |
+| 19957.005394/2021-54 | 2021-12-07 | parcial | O Colegiado deferiu em parte o pedido de dispensa do art. 39, §2º, da Instrução CVM 356/2001, só para o FIDC NP Cielo, acompanhando a SSE… | cvm-col-20211207-d2425 | fichas/colegiado/2021-21.md |
+| 19957.009338/2021-99 | 2021-12-07 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.009338/2021-99. | cvm-col-20211207-d2417 | fichas/colegiado/2021-21.md |
+| 19957.002097/2016-90 | 2021-12-07 | deferido | O Colegiado, acompanhando a SMI, aprovou nova proposta da B3 para ampliar o programa experimental da oferta RLP, com nova fase de 12 meses… | cvm-col-20211207-d1410 | fichas/colegiado/2021-21.md |
+| 19957.002528/2021-85; 19957.000115/2019-41 | 2021-12-07 | indeferido | O Colegiado indeferiu o pedido de efeito suspensivo a recurso contra decisão que suspendeu por três anos a autorização do requerente para… | cvm-col-20211207-d1403 | fichas/colegiado/2021-21.md |
+| — | 2021-12-06 | outro | O Colegiado deliberou sobre a agenda regulatória da CVM para 2022, proposta pela SDM com a ASA e demais áreas técnicas. Registrou que o… | cvm-col-20211206-d2439 | fichas/colegiado/2021-21.md |
+| 19957.008894/2021-48 | 2021-12-01 | outro | O Colegiado aprovou, com ajustes, a resolução da SNC que consolida o Pronunciamento Técnico CPC 48, sobre instrumentos financeiros… | cvm-col-20211201-d2413 | fichas/colegiado/2021-21.md |
+| 19957.008877/2021-19 | 2021-12-01 | outro | O Colegiado aprovou, com ajustes, a resolução que consolida o Pronunciamento Técnico CPC 29, sobre ativo biológico e produto agrícola, de… | cvm-col-20211201-d2412 | fichas/colegiado/2021-21.md |
+| 19957.008868/2021-10 | 2021-12-01 | outro | O Colegiado aprovou, com ajustes, resolução que consolida o Pronunciamento Técnico CPC 27 (ativo imobilizado) e o torna obrigatório às… | cvm-col-20211201-d2411 | fichas/colegiado/2021-21.md |
+| 19957.008864/2021-31 | 2021-12-01 | outro | O Colegiado aprovou, com ajustes, resolução que consolida o Pronunciamento Técnico CPC 25 (provisões, passivos e ativos contingentes)… | cvm-col-20211201-d2410 | fichas/colegiado/2021-21.md |
+| 19957.008883/2021-68 | 2021-12-01 | outro | O Colegiado aprovou, com ajustes, a resolução da SNC que consolida o Pronunciamento Técnico CPC 37 (R1), sobre adoção inicial das normas… | cvm-col-20211201-d2409 | fichas/colegiado/2021-21.md |
+| 19957.008852/2021-15 | 2021-12-01 | outro | O Colegiado aprovou, com ajustes, a resolução que consolida o Pronunciamento Técnico CPC 15 (R1), sobre combinação de negócios, de adoção… | cvm-col-20211201-d2408 | fichas/colegiado/2021-21.md |
+| 19957.009677/2021-75 | 2021-12-01 | outro | O Colegiado aprovou submeter à audiência pública proposta de resolução que altera pontualmente as Resoluções CVM 45 e 46/2021 para incluir… | cvm-col-20211201-d2404 | fichas/colegiado/2021-21.md |
+| 45/2021; 19957.009677/2021-75 | 2021-12-01 | — | Apresentação preliminar, sem deliberação, pela SPL e pela SPS sobre recomendação da CGU quanto à avaliação de prazos de interessados e… | cvm-col-20211201-d2404-2 | fichas/colegiado/2021-21.md |
+| 19957.008736/2021-98; 19957.008737/2021-32 | 2021-11-30 | deferido | O Colegiado, por unanimidade, deferiu, divergindo da SRE, a dispensa dos arts. 32 e 32-A da Instrução CVM nº 400/2003 (estudo de… | cvm-col-20211130-d2416 | fichas/colegiado/2021-20.md |
+| 19957.008885/2021-57 | 2021-11-30 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.008885/2021-57. | cvm-col-20211130-d2415 | fichas/colegiado/2021-20.md |
+| 19957.008164/2021-47 | 2021-11-30 | parcial | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.008164/2021-47. | cvm-col-20211130-d2414 | fichas/colegiado/2021-20.md |
+| 19957.006853/2021-17 | 2021-11-30 | outro | O Colegiado aprovou, por unanimidade, a minuta de Acordo de Cooperação Técnica entre a CVM e a Prefeitura Municipal de Tubarão/SC para… | cvm-col-20211130-d2407 | fichas/colegiado/2021-20.md |
+| 19957.008285/2021-99 | 2021-11-30 | parcial | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.008285/2021-99. | cvm-col-20211130-d2406 | fichas/colegiado/2021-20.md |
+| 19957.007176/2021-54 | 2021-11-30 | deferido | O Colegiado autorizou fundos de investimento em geral a atuar como formadores de mercado nos programas da B3, apesar do art. 2º da… | cvm-col-20211130-d2405 | fichas/colegiado/2021-20.md |
+| 19957.009157/2021-62 | 2021-11-30 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.009157/2021-62. | cvm-col-20211130-d2403 | fichas/colegiado/2021-20.md |
+| 19957.004924/2020-66 | 2021-11-30 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004924/2020-66. | cvm-col-20211130-d2400 | fichas/colegiado/2021-20.md |
+| 19957.007895/2021-75 | 2021-11-30 | outro | O Colegiado aprovou, por unanimidade, a minuta de Carta de Intenções de colaboração entre a CVM e o CFA Institute para o desenvolvimento do… | cvm-col-20211130-d1639 | fichas/colegiado/2021-20.md |
+| 09/2020; 480/2009; 481/2009; 19957.004286/2019-40 | 2021-11-24 | outro | O Colegiado aprovou a Resolução CVM nº 59/2021, que altera as Instruções CVM nº 480/2009 e nº 481/2009 após a Audiência Pública SDM nº… | cvm-col-20211124-d1673 | fichas/colegiado/2021-20.md |
+| 476/2009; 19957.008629/2021-60 | 2021-11-23 | indeferido | O Colegiado, por unanimidade, indeferiu pedido de dispensa do art. 15, §3º, II, da Instrução CVM nº 476/2009 formulado por seis companhias… | cvm-col-20211123-d2394 | fichas/colegiado/2021-20.md |
+| 19957.008301/2021-43 | 2021-11-23 | outro | O Colegiado aprovou, por unanimidade, a minuta de Acordo de Cooperação Técnica entre a CVM e o IBGC sobre políticas ASG no mercado de… | cvm-col-20211123-d2391 | fichas/colegiado/2021-20.md |
+| 19957.008269/2021-04 | 2021-11-23 | outro | O Colegiado, divergindo da área técnica (SNC), concluiu que o comitê de auditoria da CCR S.A. atenderia ao art. 31-A, §1º, da Resolução CVM… | cvm-col-20211123-d2390 | fichas/colegiado/2021-20.md |
+| 19957.004836/2020-64 | 2021-11-23 | deferido | O Colegiado, por unanimidade, aprovou, acompanhando a SMI, as regras e parâmetros mínimos propostos pela B3 para o registro de ofertas… | cvm-col-20211123-d2389 | fichas/colegiado/2021-20.md |
+| 19957.006102/2020-10 | 2021-11-23 | — | Recurso contra decisão da SSE sobre distribuição de rendimentos de fundo de investimento imobiliário, envolvendo o BTG Pactual Serviços… | cvm-col-20211123-d2388 | fichas/colegiado/2021-20.md |
+| 19957.008140/2021-98 | 2021-11-23 | nao-provido | Recursos contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.008140/2021-98. | cvm-col-20211123-d2387 | fichas/colegiado/2021-20.md |
+| 19957.004079/2017-23 | 2021-11-23 | conhecimento | O Colegiado, por unanimidade, não conheceu do pedido de reconsideração contra decisão que negou provimento a recurso sobre reclassificação… | cvm-col-20211123-d2285 | fichas/colegiado/2021-20.md |
+| 09/2020; 480/2009; 481/2009; 19957.004286/2019-40 | 2021-11-17 | — | O Colegiado continuou a discussão dos documentos da Audiência Pública SDM 09/2020 sobre minuta que altera as Instruções CVM 480/09 e 481/09… | cvm-col-20211117-d1673 | fichas/colegiado/2021-19.md |
+| 19957.007233/2021-03 | 2021-11-16 | nao-provido | O Colegiado, por unanimidade, negou provimento a recurso contra decisão da SIN que indeferiu o credenciamento de pessoa natural como… | cvm-col-20211116-d2385 | fichas/colegiado/2021-19.md |
+| 19957.005260/2020-52 | 2021-11-16 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.005260/2020-52. | cvm-col-20211116-d2384 | fichas/colegiado/2021-19.md |
+| 19957.008103/2021-80 | 2021-11-16 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.008103/2021-80. | cvm-col-20211116-d2383 | fichas/colegiado/2021-19.md |
+| 19957.007945/2021-14 | 2021-11-16 | nao-provido | Recursos contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.007945/2021-14. | cvm-col-20211116-d2382 | fichas/colegiado/2021-19.md |
+| 19957.010475/2019-51 | 2021-11-16 | outro | O Colegiado, por unanimidade, aprovou a minuta de acordo de cooperação técnica entre a CVM e o IBRACON, para intercâmbio de experiências e… | cvm-col-20211116-d2381 | fichas/colegiado/2021-19.md |
+| 19957.008306/2021-76 | 2021-11-16 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.008306/2021-76. | cvm-col-20211116-d2380 | fichas/colegiado/2021-19.md |
+| 19957.008305/2021-21 | 2021-11-16 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.008305/2021-21. | cvm-col-20211116-d2379 | fichas/colegiado/2021-19.md |
+| 19957.008307/2021-11 | 2021-11-16 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.008307/2021-11. | cvm-col-20211116-d2378 | fichas/colegiado/2021-19.md |
+| 19957.004010/2021-86 | 2021-11-16 | deferido | O Colegiado, por unanimidade, aprovou a estrutura de fundo de índice lastreado na variação de preço do CBIO (Crédito de Descarbonização)… | cvm-col-20211116-d2375 | fichas/colegiado/2021-19.md |
+| 09/2020; 480/2009; 481/2009; 19957.004286/2019-40 | 2021-11-10 | — | O Colegiado iniciou a discussão dos documentos da Audiência Pública SDM 09/2020, sobre alterações nas Instruções CVM 480/2009 e 481/2009… | cvm-col-20211110-d1673 | fichas/colegiado/2021-19.md |
+| 19957.004010/2021-86 | 2021-11-09 | outro | O Colegiado iniciou a discussão da consulta do Banco Santander (Brasil) S.A. sobre constituição de fundo de índice lastreado em crédito de… | cvm-col-20211109-d2375 | fichas/colegiado/2021-19.md |
+| 19957.007392/2021-08 | 2021-11-09 | outro | Recursos contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.007392/2021-08. | cvm-col-20211109-d2374 | fichas/colegiado/2021-19.md |
+| 19957.008560/2020-93 | 2021-11-09 | nao-provido | O Colegiado, por unanimidade, negou provimento a recurso contra decisão da SEP que indeferiu o registro inicial de emissor na categoria A… | cvm-col-20211109-d2239 | fichas/colegiado/2021-19.md |
+| 19957.007927/2020-51 | 2021-11-09 | indeferido | O Colegiado indeferiu, por unanimidade, os pedidos da XP Inc. de confidencialidade do pedido original e de não divulgação de trecho da ata… | cvm-col-20211109-d2109 | fichas/colegiado/2021-19.md |
+| 19957.011041/2019-79 | 2021-11-09 | conhecimento | O Colegiado, por unanimidade, não conheceu do recurso contra a decisão da SEP que deixou de instaurar processo por abuso de poder de… | cvm-col-20211109-d0733 | fichas/colegiado/2021-19.md |
+| 05/2020; 19957.000471/2019-65 | 2021-11-04 | outro | O Colegiado aprovou a Resolução CVM nº 60/2021, que cria regime próprio para companhias securitizadoras e para emissões públicas de títulos… | cvm-col-20211104-d1640 | fichas/colegiado/2021-19.md |
+| 19957.007563/2021-91 | 2021-11-03 | indeferido | O Colegiado indeferiu o pedido da Oi S.A. - Em Recuperação Judicial de dispensa dos arts. 31-A e 31-B da Resolução CVM 23/2021… | cvm-col-20211103-d2372 | fichas/colegiado/2021-18.md |
+| 19957.008159/2021-34 | 2021-11-03 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.008159/2021-34. | cvm-col-20211103-d2371 | fichas/colegiado/2021-18.md |
+| 19957.008576/2021-87 | 2021-11-03 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.008576/2021-87. | cvm-col-20211103-d2370 | fichas/colegiado/2021-18.md |
+| 19957.007875/2021-02 | 2021-11-03 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.007875/2021-02. | cvm-col-20211103-d2369 | fichas/colegiado/2021-18.md |
+| 19957.004995/2021-40 | 2021-11-03 | conhecimento | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004995/2021-40. | cvm-col-20211103-d2368 | fichas/colegiado/2021-18.md |
+| 19957.008272/2021-10 | 2021-11-03 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.008272/2021-10. | cvm-col-20211103-d2367 | fichas/colegiado/2021-18.md |
+| 19957.008273/2021-64 | 2021-11-03 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.008273/2021-64. | cvm-col-20211103-d2366 | fichas/colegiado/2021-18.md |
+| 19957.006955/2021-32 | 2021-11-03 | nao-provido | O Colegiado negou provimento, por unanimidade, a recurso contra o indeferimento de credenciamento de pessoa natural como administrador de… | cvm-col-20211103-d2365 | fichas/colegiado/2021-18.md |
+| 19957.005774/2020-16 | 2021-11-03 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.005774/2020-16. | cvm-col-20211103-d2357 | fichas/colegiado/2021-18.md |
+| 19957.008241/2021-69 | 2021-11-03 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.008241/2021-69. | cvm-col-20211103-d2355 | fichas/colegiado/2021-18.md |
+| 19957.008105/2021-79 | 2021-11-03 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.008105/2021-79. | cvm-col-20211103-d2354 | fichas/colegiado/2021-18.md |
+| 19957.008117/2021-01 | 2021-11-03 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.008117/2021-01. | cvm-col-20211103-d2353 | fichas/colegiado/2021-18.md |
+| 19957.008170/2021-02 | 2021-11-03 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.008170/2021-02. | cvm-col-20211103-d2352 | fichas/colegiado/2021-18.md |
+| 19957.008118/2021-48 | 2021-11-03 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.008118/2021-48. | cvm-col-20211103-d2351 | fichas/colegiado/2021-18.md |
+| 19957.001413/2015-25 | 2021-11-03 | outro | O Colegiado, por unanimidade e acompanhando a área técnica, entendeu que a documentação suporta o atesto do cumprimento da obrigação… | cvm-col-20211103-d1489 | fichas/colegiado/2021-18.md |
+| 05/2020; 19957.000471/2019-65 | 2021-10-27 | outro | O Colegiado concluiu o debate sobre a proposta de resolução da SDM, apresentada após a Audiência Pública SDM nº 05/2020, sobre companhias… | cvm-col-20211027-d1640 | fichas/colegiado/2021-18.md |
+| 19957.008077/2019-75 | 2021-10-26 | nao-provido | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.008077/2019-75. | cvm-col-20211026-d2362 | fichas/colegiado/2021-18.md |
+| 19957.005068/2021-47 | 2021-10-26 | outro | O Colegiado aprovou, por unanimidade, a minuta de Memorando de Entendimento entre a CVM e a britânica Financial Conduct Authority (FCA)… | cvm-col-20211026-d2361 | fichas/colegiado/2021-18.md |
+| 19957.003707/2021-30 | 2021-10-26 | deferido | O Colegiado concedeu, por unanimidade e acompanhando a SSE, a dispensa pleiteada do art. 39, §2º, da ICVM 356/2001 para o FIDC-NP NPL II… | cvm-col-20211026-d2360 | fichas/colegiado/2021-18.md |
+| 19957.008472/2020-91 | 2021-10-26 | nao-provido | O Colegiado negou provimento, por unanimidade, ao recurso de gestora contra entendimento da SSE em consulta, mantendo a conclusão de que… | cvm-col-20211026-d2359 | fichas/colegiado/2021-18.md |
+| 19957.002358/2021-39 | 2021-10-26 | indeferido | Por maioria, vencido um dos diretores, o Colegiado indeferiu pedido de dispensa de assembleia de cotistas de FII para aquisição de ativos… | cvm-col-20211026-d2358 | fichas/colegiado/2021-18.md |
+| 19957.004206/2021-71 | 2021-10-26 | deferido | O Colegiado autorizou a CRT4 a funcionar como entidade administradora de mercado de balcão organizado, para registrar contratos a termo de… | cvm-col-20211026-d2350 | fichas/colegiado/2021-18.md |
+| 19957.004920/2021-69 | 2021-10-26 | nao-provido | O Colegiado negou provimento, por unanimidade, ao recurso contra o cancelamento do credenciamento de administrador de carteiras… | cvm-col-20211026-d2336 | fichas/colegiado/2021-18.md |
+| — | 2021-10-20 | — | A SNC consultou previamente o Colegiado sobre procedimentos para consolidar e revisar atos normativos decorrentes de pronunciamentos do… | cvm-col-20211020-d2373 | fichas/colegiado/2021-17.md |
+| 19957.006283/2020-84 | 2021-10-20 | outro | O Colegiado aprovou a Resolução CVM nº 58/2021, após a Audiência Pública SNC nº 02/2021, que altera os CPCs 37 (R1), 48, 29, 27, 25 e 15… | cvm-col-20211020-d2044 | fichas/colegiado/2021-17.md |
+| 05/2020; 19957.000471/2019-65 | 2021-10-20 | — | O Colegiado deu continuidade à discussão do resultado da Audiência Pública SDM nº 05/2020 sobre a minuta de resolução aplicável às… | cvm-col-20211020-d1640 | fichas/colegiado/2021-17.md |
+| 19957.006545/2021-91 | 2021-10-19 | outro | Proposta de resolução. Proc. SEI 19957.006545/2021-91. | cvm-col-20211019-d2349 | fichas/colegiado/2021-17.md |
+| 19957.001885/2020-45 | 2021-10-19 | outro | O Colegiado aprovou, por unanimidade, a edição da Resolução CVM 57/2021, sobre prova de quitação de débitos perante a CVM, no âmbito da… | cvm-col-20211019-d2348 | fichas/colegiado/2021-17.md |
+| 19957.001439/2020-31 | 2021-10-19 | outro | O Colegiado aprovou a Resolução CVM nº 56/2021, sobre restituição e compensação de valores no âmbito da CVM, na consolidação de atos… | cvm-col-20211019-d2347 | fichas/colegiado/2021-17.md |
+| 19957.000797/2020-26 | 2021-10-19 | outro | O Colegiado aprovou, por unanimidade, a Resolução CVM nº 55/2021, que dispõe sobre parcelamento de débitos e dispensa de constituição e… | cvm-col-20211019-d2346 | fichas/colegiado/2021-17.md |
+| 19957.008068/2021-07 | 2021-10-19 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.008068/2021-07. | cvm-col-20211019-d2345 | fichas/colegiado/2021-17.md |
+| 19957.007832/2021-19 | 2021-10-19 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.007832/2021-19. | cvm-col-20211019-d2344 | fichas/colegiado/2021-17.md |
+| 19957.006852/2021-72 | 2021-10-19 | parcial | Recursos contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.006852/2021-72. | cvm-col-20211019-d2342 | fichas/colegiado/2021-17.md |
+| 19957.006924/2021-81 | 2021-10-19 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.006924/2021-81. | cvm-col-20211019-d2341 | fichas/colegiado/2021-17.md |
+| 19957.008099/2021-50 | 2021-10-19 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.008099/2021-50. | cvm-col-20211019-d2340 | fichas/colegiado/2021-17.md |
+| 19957.007519/2020-08 | 2021-10-19 | outro | O Colegiado aprovou, por unanimidade, a minuta de Acordo de Cooperação Técnica entre a CVM e a Associação de Investidores no Mercado de… | cvm-col-20211019-d2334 | fichas/colegiado/2021-17.md |
+| 19957.007664/2021-61 | 2021-10-14 | nao-provido | O Colegiado, por unanimidade, negou provimento a recurso da SPE STX 32 Desenvolvimento Imobiliário S.A. contra a suspensão, pela SRE, da… | cvm-col-20211014-d2338 | fichas/colegiado/2021-17.md |
+| 19957.005650/2021-11 | 2021-10-14 | outro | O Colegiado aprovou, por unanimidade, a edição de stop order contra a Liveb Investimentos Ltda. e outro responsável, determinando… | cvm-col-20211014-d2337 | fichas/colegiado/2021-17.md |
+| 19957.007809/2021-24 | 2021-10-14 | nao-provido | O Colegiado, por unanimidade, negou provimento a recurso de candidato contra decisão da SMI que julgou improcedente reclamação sobre… | cvm-col-20211014-d2327 | fichas/colegiado/2021-17.md |
+| RJ2015/02462 | 2021-10-14 | nao-provido | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI RJ2015/02462. | cvm-col-20211014-d2326 | fichas/colegiado/2021-17.md |
+| RJ2015/4107 | 2021-10-14 | nao-provido | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI RJ2015/4107. | cvm-col-20211014-d2324 | fichas/colegiado/2021-17.md |
+| 19957.006841/2021-92 | 2021-10-14 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.006841/2021-92. | cvm-col-20211014-d2315 | fichas/colegiado/2021-17.md |
+| 19957.006646/2021-62; 19957.006640/2021-95 | 2021-10-14 | deferido | O Colegiado concedeu, por unanimidade e divergindo das áreas técnicas, as dispensas do estudo de viabilidade e da restrição de público-alvo… | cvm-col-20211014-d2313 | fichas/colegiado/2021-17.md |
+| 19957.000797/2020-26; 19957.001439/2020-31; 19957.001885/2020-45; 19957.006545/2021-91 | 2021-10-13 | — | Apresentação. Proc. SEI 19957.000797/2020-26) / RESTITUIÇÃO e COMPENSAÇÃO DE VALORES (PROC. SEI 19957.001439/2020-31) / PROVA DE QUITAÇÃO… | cvm-col-20211013-d2346 | fichas/colegiado/2021-16.md |
+| 05/2020; 19957.000471/2019-65 | 2021-10-13 | — | Sem deliberação registrada. O Colegiado continuou a discussão sobre o resultado da Audiência Pública SDM 05/2020, acerca da regulamentação… | cvm-col-20211013-d1640 | fichas/colegiado/2021-16.md |
+| 19957.006485/2021-15 | 2021-10-05 | deferido | O Colegiado, por unanimidade, manifestou-se favoravelmente ao pleito da emissora Comerc Participações: a ancoragem da oferta (acordo de… | cvm-col-20211005-d2333 | fichas/colegiado/2021-16.md |
+| 19957.007076/2019-11 | 2021-10-05 | deferido | Pedido de autorização para alteração da metodologia de apuração da taxa de administração do mecanismo de ressarcimento de prejuízos. Proc… | cvm-col-20211005-d2329 | fichas/colegiado/2021-16.md |
+| 19957.006060/2021-06 | 2021-10-05 | deferido | O Colegiado concedeu ao Equitas Secular FIA dispensas dos limites de concentração por emissor e de investimento em FIP (ICVM 555, arts… | cvm-col-20211005-d2325 | fichas/colegiado/2021-16.md |
+| 19957.002309/2021-04 | 2021-10-05 | conhecimento | O Colegiado não conheceu, por unanimidade, do pedido de reconsideração da Harmonia DTVM contra decisão que negou provimento a recurso sobre… | cvm-col-20211005-d2191 | fichas/colegiado/2021-16.md |
+| — | 2021-09-29 | parcial | No 1º processo de admissão ao Sandbox Regulatório, o Colegiado aprovou as propostas de Basement, Beegin/CIP/Finchain e Vórtx DTVM/Vórtx QR… | cvm-col-20210929-d1472 | fichas/colegiado/2021-16.md |
+| 19957.005863/2021-35; 19957.006719/2021-16 | 2021-09-28 | outro | O Colegiado aprovou, por unanimidade, as minutas de acordos de cooperação técnica entre a CVM e as prefeituras de João Pessoa e de Maringá… | cvm-col-20210928-d2321-2322 | fichas/colegiado/2021-16.md |
+| 19957.006523/2021-21 | 2021-09-28 | deferido | O Colegiado concedeu, por unanimidade, à B3 a autorização para adquirir participação na Dimensa (ex-TFS Soluções em Software S.A.)… | cvm-col-20210928-d2319 | fichas/colegiado/2021-16.md |
+| 19957.006646/2021-62; 19957.006640/2021-95 | 2021-09-28 | — | Pedido da ISH Tech S.A. de dispensa do estudo de viabilidade econômico-financeira e da restrição de público-alvo da oferta (arts. 32 e 32-A… | cvm-col-20210928-d2313 | fichas/colegiado/2021-16.md |
+| 19957.000837/2021-11 | 2021-09-28 | outro | O Colegiado conheceu do pedido de reconsideração da Rio Bravo, administradora do FII Grand Plaza Shopping, contra decisão que deu… | cvm-col-20210928-d2189 | fichas/colegiado/2021-16.md |
+| 19957.006010/2021-11 | 2021-09-21 | outro | Por unanimidade, o Colegiado aprovou a minuta de Acordo de Cooperação Técnica entre a CVM e a ANBIMA, para cooperação mútua e intercâmbio… | cvm-col-20210921-d2312 | fichas/colegiado/2021-16.md |
+| 19957.006460/2017-27 | 2021-09-21 | nao-provido | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.006460/2017-27. | cvm-col-20210921-d2309 | fichas/colegiado/2021-16.md |
+| 19957.004235/2020-51 | 2021-09-21 | conhecimento | Pedido de reconsideração de decisão do colegiado. Proc. SEI 19957.004235/2020-51. | cvm-col-20210921-d1854 | fichas/colegiado/2021-16.md |
+| 19957.005637/2019-30; 19957.011657/2019-40 | 2021-09-21 | parcial | Em cumprimento a decisão judicial, o Colegiado reconheceu a nulidade dos atos do PAS posteriores à petição de 24.04.2020, sem nova citação… | cvm-col-20210921-d1800 | fichas/colegiado/2021-16.md |
+| 19957.007728/2021-24 | 2021-09-16 | outro | O Colegiado aprovou a Resolução CVM nº 53/2021, que institui o Sistema Integrado de Gestão de Riscos (SGR) da CVM e revoga a Deliberação… | cvm-col-20210916-d0303 | fichas/colegiado/2021-15.md |
+| 05/2020; 19957.000471/2019-65 | 2021-09-15 | — | Sem deliberação registrada. A SDM apresentou os principais pontos da Audiência Pública SDM 05/2020 sobre a regulamentação das companhias… | cvm-col-20210915-d1640 | fichas/colegiado/2021-15.md |
+| 19957.006433/2021-31; 19957.006430/2021-05 | 2021-09-14 | deferido | O Colegiado deferiu, por unanimidade, pedidos da Solar Bebidas S.A. de dispensa dos arts. 32, II, e 32-A da ICVM 400 e do §3º do art. 2º da… | cvm-col-20210914-d2306 | fichas/colegiado/2021-15.md |
+| 19957.003436/2020-31 | 2021-09-14 | outro | O Colegiado aprovou a celebração de termo aditivo ao convênio entre a CVM e a Receita Federal para acesso da CVM aos dados do SPED… | cvm-col-20210914-d2305 | fichas/colegiado/2021-15.md |
+| 19957.003241/2021-72 | 2021-09-14 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.003241/2021-72. | cvm-col-20210914-d2303 | fichas/colegiado/2021-15.md |
+| 356/2001; 444/2006; 555/2014; 19957.004508/2019-24 | 2021-09-14 | nao-provido | Por unanimidade, o Colegiado negou provimento a recurso de gestora e administradores de dois fundos contra decisão da SIN e da SSE que… | cvm-col-20210914-d2274 | fichas/colegiado/2021-15.md |
+| 19957.005047/2021-21 | 2021-09-14 | conhecimento | O Colegiado, acompanhando a SNC, não conheceu do pedido de reconsideração da Verdus Auditores Independentes e manteve a decisão que… | cvm-col-20210914-d2250 | fichas/colegiado/2021-15.md |
+| 19957.003851/2021-76 | 2021-09-09 | nao-provido | Por maioria, vencido um dos diretores, o Colegiado negou provimento a recurso contra exigência da SRE para aprimoramento dos mecanismos de… | cvm-col-20210909-d2300 | fichas/colegiado/2021-15.md |
+| 19957.006268/2021-17 | 2021-09-09 | nao-provido | O Colegiado, por unanimidade, negou provimento a recursos da Intrader DTVM contra três multas cominatórias da SIN, de R$ 30.000,00 cada… | cvm-col-20210909-d2299 | fichas/colegiado/2021-15.md |
+| 19957.006256/2021-92 | 2021-09-09 | nao-provido | O Colegiado negou provimento aos recursos do Banco J. P. Morgan S.A., administrador, à época, de quatro fundos, e manteve multas… | cvm-col-20210909-d2298 | fichas/colegiado/2021-15.md |
+| 19957.006209/2021-49 | 2021-09-09 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.006209/2021-49. | cvm-col-20210909-d2297 | fichas/colegiado/2021-15.md |
+| 19957.006208/2021-02 | 2021-09-09 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.006208/2021-02. | cvm-col-20210909-d2296 | fichas/colegiado/2021-15.md |
+| 19957.005256/2019-51 | 2021-09-08 | outro | O Colegiado aprovou submeter à audiência pública proposta de resolução que altera pontualmente a Resolução CVM 13/2020 para dispensar o… | cvm-col-20210908-d2307 | fichas/colegiado/2021-15.md |
+| 19957.006482/2021-73 | 2021-08-31 | outro | Proposta de resolução – sistema de governança e gestão da CVM. Proc. SEI 19957.006482/2021-73. | cvm-col-20210831-d2294 | fichas/colegiado/2021-15.md |
+| 19957.006766/2021-60 | 2021-08-31 | outro | O Colegiado aprovou, por unanimidade, a Resolução CVM nº 51/2021, que dispõe sobre o cadastro de participantes do mercado na CVM e revoga a… | cvm-col-20210831-d2293 | fichas/colegiado/2021-15.md |
+| 519/2007; 19957.006285/2021-54 | 2021-08-31 | outro | Por unanimidade, o Colegiado determinou o retorno do processo às áreas técnicas para avaliar revisão mais profunda do ato vigente, com… | cvm-col-20210831-d2292 | fichas/colegiado/2021-15.md |
+| 19957.002231/2020-39 | 2021-08-31 | deferido | O Colegiado concedeu à B3 as dispensas do art. 6º da ICVM 467/2008 e do inciso V do art. 62 da ICVM 461/2007 para novos modelos de… | cvm-col-20210831-d2289 | fichas/colegiado/2021-15.md |
+| 19957.006244/2021-68 | 2021-08-31 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.006244/2021-68. | cvm-col-20210831-d2288 | fichas/colegiado/2021-14.md |
+| 19957.006243/2021-13 | 2021-08-31 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.006243/2021-13. | cvm-col-20210831-d2287 | fichas/colegiado/2021-14.md |
+| 19957.006607/2021-65 | 2021-08-25 | outro | O Colegiado aprovou a Resolução CVM nº 50/2021 (PLD/FTP), no âmbito da revisão determinada pelo Decreto 10.139/2019. Acatou a ampliação do… | cvm-col-20210825-d2295 | fichas/colegiado/2021-14.md |
+| 19957.006482/2021-73 | 2021-08-25 | — | Sem deliberação registrada. O Colegiado continuou a discussão da minuta de resolução que institui o Sistema de Governança e Gestão da CVM… | cvm-col-20210825-d2294 | fichas/colegiado/2021-14.md |
+| 19957.006283/2020-84 | 2021-08-25 | outro | O Colegiado aprovou submeter à audiência pública, em conjunto com o CPC e o CFC, minuta de resolução que aprova o Documento de Revisão de… | cvm-col-20210825-d2044 | fichas/colegiado/2021-14.md |
+| 19957.005732/2021-58 | 2021-08-24 | deferido | O Colegiado, por unanimidade, acompanhando a SSE, concedeu a prorrogação, por 180 dias corridos até 28.02.2022, do prazo de enquadramento… | cvm-col-20210824-d2286 | fichas/colegiado/2021-14.md |
+| 19957.004079/2017-23 | 2021-08-24 | nao-provido | O Colegiado negou provimento a recurso da Planner Trustee DTVM Ltda., administradora do Infra Real Estate FII, contra determinação da SIN… | cvm-col-20210824-d2285 | fichas/colegiado/2021-14.md |
+| 19957.005552/2021-76 | 2021-08-24 | deferido | Pedido de dispensa de requisito normativo no âmbito de registro de programa patrocinado de certificado de depósito de valores mobiliários… | cvm-col-20210824-d2284 | fichas/colegiado/2021-14.md |
+| 19957.004015/2021-17 | 2021-08-24 | outro | O Colegiado aprovou, por unanimidade, a minuta de Acordo de Cooperação entre a CVM e a Casa da Moeda do Brasil para movimentação temporária… | cvm-col-20210824-d2283 | fichas/colegiado/2021-14.md |
+| 19957.005890/2019-93 | 2021-08-24 | deferido | O Colegiado deferiu pedido da B3 para alterar normativos de acesso, prevendo acesso de outras infraestruturas aos serviços de CCP e de CSD… | cvm-col-20210824-d2276 | fichas/colegiado/2021-14.md |
+| — | 2021-08-24 | outro | O Colegiado revisou a agenda regulatória de 2021 e retirou três temas, com base na proposta de repactuação da SDM: reforma da regra de… | cvm-col-20210824-d1989 | fichas/colegiado/2021-14.md |
+| 19957.006164/2021-11; 19957.010399/2018-01 | 2021-08-24 | indeferido | O Colegiado indeferiu, por unanimidade, acompanhando o voto da relatora, pedido de efeito suspensivo contra decisão que aplicou… | cvm-col-20210824-d1603 | fichas/colegiado/2021-14.md |
+| 19957.006482/2021-73 | 2021-08-18 | — | A SPL apresentou ao Colegiado proposta de resolução para instituir o Sistema de Governança e Gestão da CVM, consolidando normas internas… | cvm-col-20210818-d2294 | fichas/colegiado/2021-14.md |
+| 19957.006121/2021-27 | 2021-08-18 | outro | O Colegiado aprovou a Resolução CVM 48/2021, que consolida ritos internos sobre vista de processos administrativos e acesso à informação… | cvm-col-20210818-d2277 | fichas/colegiado/2021-14.md |
+| 19957.006105/2021-34 | 2021-08-17 | outro | O Colegiado aprovou, por unanimidade, a minuta de Acordo de Cooperação Técnica entre a CVM e o SEBRAE-MG para programas de educação… | cvm-col-20210817-d2275 | fichas/colegiado/2021-14.md |
+| 356/2001; 444/2006; 555/2014; 19957.004508/2019-24 | 2021-08-17 | — | Recursos, com pedido de efeito suspensivo, contra decisões da SIN e da SSE que concluíram que Unidades de Crédito de Sustentabilidade (UCS)… | cvm-col-20210817-d2274 | fichas/colegiado/2021-14.md |
+| 19957.005656/2021-81 | 2021-08-17 | outro | O Colegiado aprovou, por unanimidade, a Resolução CVM nº 43/2021, que institui a Ouvidoria no âmbito do mercado de valores mobiliários e… | cvm-col-20210817-d2273 | fichas/colegiado/2021-13.md |
+| 19957.005632/2021-21; 19957.005640/2021-78 | 2021-08-17 | deferido | O Colegiado concedeu à Monte Rodovias S.A. dispensas de requisitos das ICVM 400 e 480 aplicáveis a emissor pré-operacional, acompanhando a… | cvm-col-20210817-d2272 | fichas/colegiado/2021-13.md |
+| 19957.006121/2021-27 | 2021-08-11 | outro | O Colegiado aprovou as Resoluções CVM 45, 46, 47 e 49/2021, que consolidam ritos internos da CVM: processo sancionador (45), tramitação no… | cvm-col-20210811-d2277 | fichas/colegiado/2021-13.md |
+| 06/2020; 358/2002; 19957.007901/2016-27 | 2021-08-11 | outro | O Colegiado aprovou a Resolução CVM 44/2021, em substituição à Instrução CVM 358/2002, sobre ato ou fato relevante e negociação por pessoas… | cvm-col-20210811-d1896 | fichas/colegiado/2021-13.md |
+| 19957.001151/2021-47 | 2021-08-10 | nao-provido | O Colegiado negou provimento a recurso de proponente contra decisão do Comitê de Sandbox que considerou inapta sua proposta de participação… | cvm-col-20210810-d2270 | fichas/colegiado/2021-13.md |
+| 19957.001150/2021-01 | 2021-08-10 | nao-provido | O Colegiado negou provimento, por unanimidade, acompanhando o Comitê de Sandbox, a recurso contra decisão que considerou inapta a proposta… | cvm-col-20210810-d2269 | fichas/colegiado/2021-13.md |
+| 00783.002822/2018-01 | 2021-08-10 | outro | Pedido de autorização para encerramento de fundo de garantia. Proc. SEI 00783.002822/2018-01. | cvm-col-20210810-d2268 | fichas/colegiado/2021-13.md |
+| 19957.005741/2021-49 | 2021-08-10 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.005741/2021-49. | cvm-col-20210810-d2267 | fichas/colegiado/2021-13.md |
+| 19957.005737/2021-81 | 2021-08-10 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.005737/2021-81. | cvm-col-20210810-d2266 | fichas/colegiado/2021-13.md |
+| 19957.005735/2021-91 | 2021-08-10 | nao-provido | O Colegiado negou provimento, por unanimidade, acompanhando a área técnica (Ofício Interno 45/2021/CVM/SIN/GIFI), a dois recursos da RJI… | cvm-col-20210810-d2265 | fichas/colegiado/2021-13.md |
+| 19957.005695/2021-88 | 2021-08-10 | conhecimento | O Colegiado, com base no Ofício Interno nº 44/2021 da SIN, não conheceu, por unanimidade, dos recursos da administradora de fundos contra… | cvm-col-20210810-d2264 | fichas/colegiado/2021-13.md |
+| 06/2020; 358/2002; 19957.007901/2016-27 | 2021-08-04 | — | O Colegiado iniciou a discussão dos documentos da Audiência Pública SDM 06/2020, sobre minuta que revisa a Instrução CVM 358/2002… | cvm-col-20210804-d1896 | fichas/colegiado/2021-13.md |
+| 19957.004948/2021-04 | 2021-08-03 | outro | O Colegiado aprovou, por unanimidade, a minuta de Acordo de Cooperação Técnica entre a CVM e a União, representada pelo Ministério da… | cvm-col-20210803-d2262 | fichas/colegiado/2021-13.md |
+| 19957.005457/2021-72 | 2021-08-03 | nao-provido | O Colegiado negou provimento aos recursos da Intrader DTVM Ltda., administradora de sete fundos, e manteve multas cominatórias de R$… | cvm-col-20210803-d2259 | fichas/colegiado/2021-13.md |
+| 19957.006037/2021-11 | 2021-07-28 | outro | O Colegiado aprovou duas propostas de anexos normativos com regras específicas para FUNCINE e FICART, no âmbito da revisão e consolidação… | cvm-col-20210728-d2263 | fichas/colegiado/2021-13.md |
+| 19957.004749/2021-98 | 2021-07-27 | outro | O Colegiado aprovou, por unanimidade, minutas de aditamentos aos convênios entre a CVM e a ANBIMA sobre o procedimento simplificado para… | cvm-col-20210727-d6126 | fichas/colegiado/2021-13.md |
+| 19957.001146/2021-34 | 2021-07-27 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.001146/2021-34. | cvm-col-20210727-d2258 | fichas/colegiado/2021-12.md |
+| 19957.011528/2019-51 | 2021-07-27 | nao-provido | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.011528/2019-51. | cvm-col-20210727-d2257 | fichas/colegiado/2021-12.md |
+| 19957.005458/2021-17 | 2021-07-27 | nao-provido | O Colegiado negou provimento a três recursos da Intrader DTVM Ltda., administradora de três fundos, contra multas cominatórias da SIN de R$… | cvm-col-20210727-d2256 | fichas/colegiado/2021-12.md |
+| 19957.001055/2021-07 | 2021-07-27 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.001055/2021-07. | cvm-col-20210727-d2255 | fichas/colegiado/2021-12.md |
+| 19957.005467/2021-16 | 2021-07-27 | nao-provido | O Colegiado, com base no Ofício Interno nº 40/2021 da SIN, negou provimento, por unanimidade, a recursos da administradora de fundos contra… | cvm-col-20210727-d2254 | fichas/colegiado/2021-12.md |
+| 19957.005400/2021-73 | 2021-07-27 | nao-provido | O Colegiado negou provimento aos recursos da Santander Caceis Brasil DTVM S.A., administradora de dois fundos, e manteve multas… | cvm-col-20210727-d2253 | fichas/colegiado/2021-12.md |
+| 19957.005455/2021-83 | 2021-07-27 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.005455/2021-83. | cvm-col-20210727-d2251 | fichas/colegiado/2021-12.md |
+| 19957.005047/2021-21 | 2021-07-27 | nao-provido | O Colegiado negou provimento, por unanimidade, acompanhando a área técnica, a recurso contra decisão da SNC que cancelou o registro de… | cvm-col-20210727-d2250 | fichas/colegiado/2021-12.md |
+| 19957.004831/2021-12 | 2021-07-27 | nao-provido | O Colegiado negou provimento, por unanimidade, a recurso contra indeferimento de registro de auditor independente pessoa natural, por falta… | cvm-col-20210727-d2249 | fichas/colegiado/2021-12.md |
+| 19957.003330/2020-38 | 2021-07-27 | conhecimento | O Colegiado não conheceu do recurso do reclamante contra decisão da SMI que arquivou reclamação contra a XP Investimentos CCTVM S.A. e… | cvm-col-20210727-d2248 | fichas/colegiado/2021-12.md |
+| 19957.005731/2019-99 | 2021-07-27 | outro | O Colegiado redistribuiu, por conexão, o PAS 19957.005731/2019-99 do diretor originalmente relator à diretora relatora do PAS… | cvm-col-20210727-d1761 | fichas/colegiado/2021-12.md |
+| 01/2021; 19957.003823/2021-59 | 2021-07-21 | outro | O Colegiado aprovou a Resolução CVM 41/2021, após a Audiência Pública SNC 01/2021, que aprova a revisão do CPC 18 e prorroga o expediente… | cvm-col-20210721-d2164 | fichas/colegiado/2021-12.md |
+| 06/2020; 19957.007951/2020-91 | 2021-07-21 | outro | Após a audiência pública SNC nº 06/2020 – proposta de resolução que aprova o pronunciamento técnico CPC nº 50 – contratos de seguro… | cvm-col-20210721-d2012 | fichas/colegiado/2021-12.md |
+| 19957.009468/2018-26 | 2021-07-21 | outro | O Colegiado aprovou submeter a audiência pública duas minutas de resolução que atualizam a regulamentação dos agentes autônomos de… | cvm-col-20210721-d1441 | fichas/colegiado/2021-12.md |
+| 19957.008909/2020-97 | 2021-07-20 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.008909/2020-97. | cvm-col-20210720-d2246 | fichas/colegiado/2021-12.md |
+| 19957.002824/2021-86 | 2021-07-20 | nao-provido | O Colegiado, acompanhando a SNC, negou provimento, por unanimidade, a recurso contra indeferimento da inclusão de profissional como… | cvm-col-20210720-d2243 | fichas/colegiado/2021-12.md |
+| 19957.006626/2020-19 | 2021-07-20 | outro | Por maioria, o Colegiado aprovou a proposta de alteração do Regulamento Processual da BSM, exceto o novo art. 8º, que teve manifestação… | cvm-col-20210720-d2235 | fichas/colegiado/2021-12.md |
+| 19957.004687/2020-33 | 2021-07-20 | — | Recurso do Banco BMG S.A. contra decisão da SEP favorável à reclamação de acionista sobre a recusa da diretoria em converter ações… | cvm-col-20210720-d2143 | fichas/colegiado/2021-12.md |
+| 19957.005524/2021-59 | 2021-07-20 | outro | O Colegiado aprovou, por unanimidade, a Resolução CVM 40/2021, que altera o Regimento Interno da CVM, conforme proposta da área técnica com… | cvm-col-20210720-d2083 | fichas/colegiado/2021-11.md |
+| 19957.005386/2021-16 | 2021-07-13 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.005386/2021-16. | cvm-col-20210713-d2241 | fichas/colegiado/2021-11.md |
+| 19957.005303/2021-81 | 2021-07-13 | nao-provido | O Colegiado negou provimento aos recursos da Tecblu Tecelagem Blumenau S.A. e manteve multas cominatórias de R$ 60.000,00 cada, aplicadas… | cvm-col-20210713-d2240 | fichas/colegiado/2021-11.md |
+| 19957.004443/2021-31 | 2021-07-13 | conhecimento | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004443/2021-31. | cvm-col-20210713-d2238 | fichas/colegiado/2021-11.md |
+| 19957.008903/2020-10 | 2021-07-13 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.008903/2020-10. | cvm-col-20210713-d2236 | fichas/colegiado/2021-11.md |
+| 19957.010165/2018-56 | 2021-07-13 | nao-provido | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.010165/2018-56. | cvm-col-20210713-d2234 | fichas/colegiado/2021-11.md |
+| 19957.009468/2018-26 | 2021-07-07 | — | O Colegiado iniciou a discussão das propostas de resolução sobre a atividade de agente autônomo de investimento e sobre remuneração e… | cvm-col-20210707-d1441 | fichas/colegiado/2021-11.md |
+| 19957.001678/2021-71; 19957.001682/2021-30 | 2021-07-06 | deferido | O Colegiado, por unanimidade, acompanhando as áreas técnicas, concedeu as dispensas pleiteadas pela Rio Energy Participações S.A. dos arts… | cvm-col-20210706-d2233 | fichas/colegiado/2021-11.md |
+| 19957.005217/2021-78 | 2021-07-06 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.005217/2021-78. | cvm-col-20210706-d2230 | fichas/colegiado/2021-11.md |
+| 19957.001034/2021-83 | 2021-07-06 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.001034/2021-83. | cvm-col-20210706-d2229 | fichas/colegiado/2021-11.md |
+| 19957.009898/2019-29 | 2021-07-06 | outro | O Colegiado aprovou, por unanimidade, a minuta de Acordo de Cooperação Técnica entre a CVM, a ATRICON e o Instituto Rui Barbosa, com… | cvm-col-20210706-d2228 | fichas/colegiado/2021-11.md |
+| 19957.004782/2021-18 | 2021-07-06 | nao-provido | Recursos contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.004782/2021-18. | cvm-col-20210706-d2227 | fichas/colegiado/2021-11.md |
+| 19957.005258/2020-83 | 2021-07-06 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.005258/2020-83. | cvm-col-20210706-d2226 | fichas/colegiado/2021-11.md |
+| 19957.004974/2021-24 | 2021-07-01 | outro | O Colegiado aprovou a Resolução CVM 39/2021, de caráter experimental, que estabelece regime transitório para o registro de funcionamento do… | cvm-col-20210701-d2242 | fichas/colegiado/2021-11.md |
+| — | 2021-06-30 | indeferido | O Colegiado recusou, por unanimidade, as duas propostas de participação consideradas aptas pelo CDS no 1º processo de admissão ao Sandbox… | cvm-col-20210630-d1472 | fichas/colegiado/2021-11.md |
+| 19957.005438/2020-65 | 2021-06-29 | outro | O Colegiado aprovou, por unanimidade, a minuta de Acordo de Cooperação Técnica entre a CVM e o Consórcio Interestadual de Desenvolvimento… | cvm-col-20210629-d2224 | fichas/colegiado/2021-11.md |
+| 19957.000072/2021-19 | 2021-06-29 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.000072/2021-19. | cvm-col-20210629-d2222 | fichas/colegiado/2021-11.md |
+| 19957.001022/2021-59 | 2021-06-29 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.001022/2021-59. | cvm-col-20210629-d2221 | fichas/colegiado/2021-11.md |
+| 19957.004951/2021-10 | 2021-06-29 | conhecimento | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.004951/2021-10. | cvm-col-20210629-d2220 | fichas/colegiado/2021-11.md |
+| 19957.004863/2021-18 | 2021-06-29 | conhecimento | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.004863/2021-18. | cvm-col-20210629-d2219 | fichas/colegiado/2021-11.md |
+| 19957.004667/2021-43 | 2021-06-29 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.004667/2021-43. | cvm-col-20210629-d2218 | fichas/colegiado/2021-10.md |
+| 19957.004881/2021-08 | 2021-06-29 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.004881/2021-08. | cvm-col-20210629-d2217 | fichas/colegiado/2021-10.md |
+| 19957.006936/2017-20; RJ2017/4199 | 2021-06-29 | indeferido | O Colegiado indeferiu pedidos de produção de provas da Cabedal Investimentos & Commodities Ltda. e de seu diretor responsável pela… | cvm-col-20210629-d1005 | fichas/colegiado/2021-10.md |
+| — | 2021-06-23 | outro | O Colegiado aprovou o encaminhamento do Comitê de Sandbox no primeiro processo de admissão ao Sandbox Regulatório (Resolução CVM 29/2021)… | cvm-col-20210623-d1472 | fichas/colegiado/2021-10.md |
+| 19957.004308/2021-96; 19957.004259/2021-91 | 2021-06-22 | deferido | O Colegiado concedeu à CSN Cimentos S.A. as dispensas dos arts. 32, II, e 32-A da Instrução CVM 400 e do art. 5º, §2º, da Instrução CVM… | cvm-col-20210622-d2213 | fichas/colegiado/2021-10.md |
+| 19957.004565/2021-28 | 2021-06-22 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.004565/2021-28. | cvm-col-20210622-d2212 | fichas/colegiado/2021-10.md |
+| 19957.004492/2021-74 | 2021-06-22 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.004492/2021-74. | cvm-col-20210622-d2211 | fichas/colegiado/2021-10.md |
+| 19957.001484/2020-95 | 2021-06-22 | outro | O Colegiado, divergindo do Ofício da SRE, decidiu por unanimidade que, na ausência de vedação legal, a assinatura eletrônica simples é… | cvm-col-20210622-d1921 | fichas/colegiado/2021-10.md |
+| 19957.002758/2021-44 | 2021-06-16 | outro | Apresentação da SPL sobre a plataforma Participa + Brasil, para avaliar a viabilidade de experiência piloto de migração dos mecanismos de… | cvm-col-20210616-d2216 | fichas/colegiado/2021-10.md |
+| 19957.004700/2021-35 | 2021-06-16 | outro | Proposta de resolução. Proc. SEI 19957.004700/2021-35. | cvm-col-20210616-d2215 | fichas/colegiado/2021-10.md |
+| 19957.007796/2020-11 | 2021-06-16 | outro | O Colegiado aprovou a realização de audiência pública sobre minuta de resolução que trata da possibilidade de constituição de ônus e… | cvm-col-20210616-d2214 | fichas/colegiado/2021-10.md |
+| 19957.008366/2020-16 | 2021-06-15 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.008366/2020-16. | cvm-col-20210615-d2210 | fichas/colegiado/2021-10.md |
+| 19957.008088/2020-99 | 2021-06-15 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.008088/2020-99. | cvm-col-20210615-d2209 | fichas/colegiado/2021-10.md |
+| 19957.007199/2020-88 | 2021-06-15 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.007199/2020-88. | cvm-col-20210615-d2208 | fichas/colegiado/2021-10.md |
+| 19957.003841/2018-35 | 2021-06-15 | parcial | O Colegiado deu provimento parcial a pedido de reconsideração da Metalgráfica Iguaçu S.A. Afastou alegações de omissão e contradição… | cvm-col-20210615-d2053 | fichas/colegiado/2021-10.md |
+| 19957.002822/2021-97 | 2021-06-08 | nao-provido | O Colegiado negou provimento a recurso de sociedade de auditoria contra o indeferimento da inclusão de profissional como responsável… | cvm-col-20210608-d2207 | fichas/colegiado/2021-10.md |
+| 19957.000279/2021-93 | 2021-06-08 | outro | O Colegiado aprovou, por unanimidade, a minuta de Acordo de Cooperação Técnica entre a CVM e a Secretaria Especial de Desenvolvimento… | cvm-col-20210608-d2206 | fichas/colegiado/2021-10.md |
+| 19957.002956/2021-16 | 2021-06-08 | nao-provido | O Colegiado negou provimento aos recursos da Bem DTVM Ltda., administradora de quatro fundos, e manteve multas cominatórias de R$ 6.000,00… | cvm-col-20210608-d2205 | fichas/colegiado/2021-10.md |
+| 19957.000174/2017-58 | 2021-06-08 | nao-provido | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.000174/2017-58. | cvm-col-20210608-d2194 | fichas/colegiado/2021-10.md |
+| 19957.004018/2017-66 | 2021-06-08 | nao-provido | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.004018/2017-66. | cvm-col-20210608-d2193 | fichas/colegiado/2021-10.md |
+| 19957.004945/2019-48 | 2021-06-08 | outro | O Colegiado tomou conhecimento da manifestação da SMI que atesta o cumprimento das condições suspensivas fixadas em 08.12.2020 para a… | cvm-col-20210608-d1747 | fichas/colegiado/2021-09.md |
+| 19957.007580/2020-47 | 2021-06-01 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.007580/2020-47. | cvm-col-20210601-d2199 | fichas/colegiado/2021-09.md |
+| 19957.003877/2020-33 | 2021-06-01 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.003877/2020-33. | cvm-col-20210601-d2196 | fichas/colegiado/2021-09.md |
+| 19957.003282/2021-69 | 2021-06-01 | deferido | Por maioria, o Colegiado autorizou a B3 a alterar o Regulamento de Emissores e o Manual do Emissor para incluir como mercados reconhecidos… | cvm-col-20210601-d2195 | fichas/colegiado/2021-09.md |
+| 19957.004363/2021-86; 19957.004364/2021-21 | 2021-06-01 | conhecimento | O Colegiado, por unanimidade, com base na SIN, não conheceu de dois recursos da administradora de dois fundos contra multas cominatórias de… | cvm-col-20210601-d2192 | fichas/colegiado/2021-09.md |
+| 19957.002309/2021-04 | 2021-06-01 | nao-provido | O Colegiado negou provimento a recurso da Harmonia DTVM contra o indeferimento, pela GME, de autorização para prestar serviços de… | cvm-col-20210601-d2191 | fichas/colegiado/2021-09.md |
+| 19957.005411/2019-39 | 2021-06-01 | indeferido | O Colegiado não concedeu a dispensa da contraprestação em valores mobiliários do art. 29, §8º, da ICVM 361, pedida pela ofertante para… | cvm-col-20210601-d1864 | fichas/colegiado/2021-09.md |
+| 08/2020; 19957.009249/2019-28 | 2021-05-26 | — | A SDM apresentou ao Colegiado os principais pontos das manifestações recebidas na Audiência Pública SDM nº 08/2020, sobre a proposta de que… | cvm-col-20210526-d5474 | fichas/colegiado/2021-09.md |
+| 19957.004004/2021-29 | 2021-05-25 | outro | O Colegiado, por unanimidade, aprovou as Resoluções CVM 35, 36 e 37/2021, de consolidação de normas sobre intermediação, corretoras de… | cvm-col-20210525-d2190 | fichas/colegiado/2021-09.md |
+| 19957.000837/2021-11 | 2021-05-25 | provido | O Colegiado, por maioria, deu provimento a recurso da Cyrela Commercial Properties contra manifestação da SSE sobre impedimento de voto… | cvm-col-20210525-d2189 | fichas/colegiado/2021-09.md |
+| 19957.008087/2020-44 | 2021-05-25 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.008087/2020-44. | cvm-col-20210525-d2188 | fichas/colegiado/2021-09.md |
+| 19957.005939/2020-41 | 2021-05-25 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.005939/2020-41. | cvm-col-20210525-d2181 | fichas/colegiado/2021-09.md |
+| 19957.009399/2016-99 | 2021-05-25 | parcial | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.009399/2016-99. | cvm-col-20210525-d2180 | fichas/colegiado/2021-09.md |
+| 19957.000124/2017-71 | 2021-05-25 | nao-provido | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.000124/2017-71. | cvm-col-20210525-d2178 | fichas/colegiado/2021-09.md |
+| 19957.002467/2021-56 | 2021-05-25 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.002467/2021-56. | cvm-col-20210525-d2177 | fichas/colegiado/2021-09.md |
+| 19957.002618/2016-17 | 2021-05-19 | — | Apresentação sobre mecanismo de ressarcimento de prejuízos (mrp). Proc. SEI 19957.002618/2016-17. | cvm-col-20210519-d2676 | fichas/colegiado/2021-09.md |
+| 19957.004002/2021-30 | 2021-05-18 | outro | O Colegiado aprovou, por unanimidade, as Resoluções CVM nº 31 a 34/2021, que substituem as ICVMs 541/2013, 542/2013, 543/2013 e 441/2006… | cvm-col-20210518-d2175 | fichas/colegiado/2021-09.md |
+| 19957.004921/2020-22 | 2021-05-18 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004921/2020-22. | cvm-col-20210518-d2174 | fichas/colegiado/2021-08.md |
+| 19957.008101/2020-18 | 2021-05-18 | deferido | O Colegiado, por unanimidade, acompanhando a SRE e a PFE/CVM, autorizou o BNDES a ingressar no sistema de distribuição de valores… | cvm-col-20210518-d2172 | fichas/colegiado/2021-08.md |
+| 19957.001749/2021-36 | 2021-05-18 | parcial | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.001749/2021-36. | cvm-col-20210518-d2171 | fichas/colegiado/2021-08.md |
+| 19957.003391/2021-86 | 2021-05-18 | provido | Por maioria, o Colegiado deu provimento a recurso do administrador fiduciário contra exigência da SIN de plano de adequação de capital… | cvm-col-20210518-d2170 | fichas/colegiado/2021-08.md |
+| 19957.003485/2021-55 | 2021-05-18 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. SEI 19957.003485/2021-55. | cvm-col-20210518-d2167 | fichas/colegiado/2021-08.md |
+| 19957.003508/2021-21 | 2021-05-18 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. SEI 19957.003508/2021-21. | cvm-col-20210518-d2166 | fichas/colegiado/2021-08.md |
+| 09/2019; 19957.002618/2016-17 | 2021-05-12 | — | A SDM apresentou os principais comentários à Audiência Pública SDM 09/2019 sobre minuta de resolução de autorregulação unificada das… | cvm-col-20210512-d2676 | fichas/colegiado/2021-08.md |
+| 19957.003645/2021-66 | 2021-05-11 | outro | O Colegiado aprovou, por unanimidade, a Resolução CVM 30/2021, que revisa a ICVM 539/2013 sobre o dever de verificação da adequação de… | cvm-col-20210511-d2163 | fichas/colegiado/2021-08.md |
+| 19957.003641/2021-88 | 2021-05-11 | outro | O Colegiado aprovou, por unanimidade, a Resolução CVM nº 29/2021, sobre ambiente regulatório experimental (sandbox), revisão da ICVM… | cvm-col-20210511-d2162 | fichas/colegiado/2021-08.md |
+| 19957.002936/2021-37 | 2021-05-11 | deferido | O Colegiado, por unanimidade, acompanhando a SMI, concedeu à B3 autorização para ampliar os valores mobiliários com negociação permitida no… | cvm-col-20210511-d2160 | fichas/colegiado/2021-08.md |
+| 19957.003416/2021-41 | 2021-05-11 | deferido | O Colegiado concedeu dispensa à TIM S.A. do requisito de ações negociadas em bolsa por três anos (ICVM 480/2009, art. 34, I), para fins de… | cvm-col-20210511-d2159 | fichas/colegiado/2021-08.md |
+| 19957.004724/2020-11 | 2021-05-11 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004724/2020-11. | cvm-col-20210511-d1995 | fichas/colegiado/2021-08.md |
+| 19957.000017/2019-12 | 2021-05-10 | outro | O Colegiado aprovou submeter à audiência pública minutas de resoluções que regulamentam BDR, revogando a Instrução CVM 332/2000 e alterando… | cvm-col-20210510-d2124 | fichas/colegiado/2021-08.md |
+| 19957.003823/2021-59 | 2021-05-05 | outro | O Colegiado aprovou submeter à audiência pública, em conjunto com CPC e CFC, minuta de resolução que aprova a revisão do CPC 18… | cvm-col-20210505-d2164 | fichas/colegiado/2021-08.md |
+| 19957.000017/2019-12 | 2021-05-05 | — | O Colegiado continuou a discussão de minutas que revogariam a ICVM 332/2000 e alterariam a ICVM 480/2009, para nova regulamentação de BDRs… | cvm-col-20210505-d2124 | fichas/colegiado/2021-08.md |
+| 19957.008889/2020-54 | 2021-05-04 | deferido | O Colegiado, por unanimidade, acompanhando a SMI, concedeu a autorização pleiteada à SL Tools Serviços de Informações Ltda. para operar… | cvm-col-20210504-d2156 | fichas/colegiado/2021-08.md |
+| 19957.002469/2021-45 | 2021-05-04 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.002469/2021-45. | cvm-col-20210504-d2155 | fichas/colegiado/2021-08.md |
+| 19957.002470/2021-70 | 2021-05-04 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.002470/2021-70. | cvm-col-20210504-d2154 | fichas/colegiado/2021-08.md |
+| 19957.007797/2020-57 | 2021-05-04 | deferido | O Colegiado autorizou a B3 a prestar serviços de apoio às avaliações de KYC, PLDFT e monitoramento cadastral e transacional (art. 13, V… | cvm-col-20210504-d2153 | fichas/colegiado/2021-07.md |
+| 19957.008030/2020-45 | 2021-05-04 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.008030/2020-45. | cvm-col-20210504-d2152 | fichas/colegiado/2021-07.md |
+| 19957.005970/2020-82 | 2021-05-04 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.005970/2020-82. | cvm-col-20210504-d2151 | fichas/colegiado/2021-07.md |
+| 19957.001000/2017-11 | 2021-05-04 | nao-provido | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.001000/2017-11. | cvm-col-20210504-d2145 | fichas/colegiado/2021-07.md |
+| 19957.000017/2019-12 | 2021-04-28 | — | O Colegiado continuou a discussão de minutas de resoluções sobre BDR, para submissão à audiência pública, que revogariam a ICVM 332/2000 e… | cvm-col-20210428-d2124 | fichas/colegiado/2021-07.md |
+| 19957.008102/2020-54 | 2021-04-27 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.008102/2020-54. | cvm-col-20210427-d2149 | fichas/colegiado/2021-07.md |
+| 19957.008007/2020-51 | 2021-04-27 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.008007/2020-51. | cvm-col-20210427-d2148 | fichas/colegiado/2021-07.md |
+| 19957.002555/2021-58 | 2021-04-27 | nao-provido | O Colegiado negou provimento a recurso de FS S.A. e Banco Morgan Stanley contra entendimento da SEP e da SRE de que a emissora é… | cvm-col-20210427-d2144 | fichas/colegiado/2021-07.md |
+| 19957.002781/2021-39 | 2021-04-27 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. SEI 19957.002781/2021-39. | cvm-col-20210427-d2142 | fichas/colegiado/2021-07.md |
+| 19957.002833/2021-77 | 2021-04-27 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. SEI 19957.002833/2021-77. | cvm-col-20210427-d2141 | fichas/colegiado/2021-07.md |
+| 19957.002501/2021-92 | 2021-04-27 | nao-provido | O Colegiado, por unanimidade, acompanhando a SNC, negou provimento a recurso contra o indeferimento de registro de auditor independente… | cvm-col-20210427-d2140 | fichas/colegiado/2021-07.md |
+| 19957.007649/2020-32 | 2021-04-27 | outro | O Colegiado aprovou, por unanimidade, a edição de stop order proposta pela SRE, suspendendo, com efeitos prospectivos, a 5ª emissão de… | cvm-col-20210427-d2128 | fichas/colegiado/2021-07.md |
+| 19957.005564/2020-10 | 2021-04-27 | parcial | O Colegiado não conheceu do recurso contra o arquivamento de processo sobre suposta administração de carteiras sem autorização, por… | cvm-col-20210427-d2019 | fichas/colegiado/2021-07.md |
+| 19957.008756/2020-88 | 2021-04-20 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.008756/2020-88. | cvm-col-20210420-d2138 | fichas/colegiado/2021-07.md |
+| 19957.003841/2018-35 | 2021-04-20 | nao-provido | O Colegiado negou provimento ao recurso da Metalgráfica Iguaçu S.A. e manteve a determinação da SEP de refazer DFs de 2017 a 2019 e ITRs de… | cvm-col-20210420-d2053 | fichas/colegiado/2021-07.md |
+| 04/2020; 19957.004718/2020-56 | 2021-04-14 | outro | O Colegiado aprovou a Resolução CVM 28/2021, que aprova o Pronunciamento Técnico CPC para Entidades em Liquidação, após a Audiência Pública… | cvm-col-20210414-d1910 | fichas/colegiado/2021-07.md |
+| 19957.001988/2021-96 | 2021-04-13 | outro | Em consulta da SRE sobre programa de BDR nível III de emissora sediada em Bermudas, o Colegiado, por unanimidade, divergiu da área técnica… | cvm-col-20210413-d2136 | fichas/colegiado/2021-07.md |
+| 19957.006470/2020-68 | 2021-04-13 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.006470/2020-68. | cvm-col-20210413-d2135 | fichas/colegiado/2021-07.md |
+| 19957.002476/2021-47 | 2021-04-13 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.002476/2021-47. | cvm-col-20210413-d2134 | fichas/colegiado/2021-07.md |
+| 19957.002475/2021-01 | 2021-04-13 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.002475/2021-01. | cvm-col-20210413-d2133 | fichas/colegiado/2021-06.md |
+| 19957.002473/2021-11 | 2021-04-13 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.002473/2021-11. | cvm-col-20210413-d2132 | fichas/colegiado/2021-06.md |
+| 19957.007193/2019-77; 19957.006475/2020-91 | 2021-04-13 | conhecimento | O Colegiado, por unanimidade, acompanhando a área técnica, não conheceu de pedido de reconsideração de decisão que já havia negado recurso… | cvm-col-20210413-d2001 | fichas/colegiado/2021-06.md |
+| 19957.001881/2021-48 | 2021-04-06 | nao-provido | Recursos contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.001881/2021-48. | cvm-col-20210406-d2129 | fichas/colegiado/2021-06.md |
+| 19957.007649/2020-32 | 2021-04-06 | outro | Com a SRE como relatora, o Colegiado deu início à discussão sobre a suspensão de oferta pública de valor mobiliário distribuída com… | cvm-col-20210406-d2128 | fichas/colegiado/2021-06.md |
+| 19957.000246/2021-43 | 2021-04-01 | deferido | O Colegiado concedeu dispensa do art. 55 da Instrução CVM 400 ao GLP Logística FII, acompanhando a SRE, para destinar 10% das cotas à… | cvm-col-20210401-d2119 | fichas/colegiado/2021-06.md |
+| 19957.007961/2020-26 | 2021-04-01 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.007961/2020-26. | cvm-col-20210401-d2118 | fichas/colegiado/2021-06.md |
+| 19957.001588/2021-81 | 2021-04-01 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.001588/2021-81. | cvm-col-20210401-d2117 | fichas/colegiado/2021-06.md |
+| 19957.001838/2021-82 | 2021-04-01 | conhecimento | Recursos contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.001838/2021-82. | cvm-col-20210401-d2116 | fichas/colegiado/2021-06.md |
+| 19957.007709/2020-17 | 2021-04-01 | conhecimento | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.007709/2020-17. | cvm-col-20210401-d2115 | fichas/colegiado/2021-06.md |
+| 19957.007708/2020-72 | 2021-04-01 | conhecimento | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.007708/2020-72. | cvm-col-20210401-d2114 | fichas/colegiado/2021-06.md |
+| 19957.004739/2020-71 | 2021-04-01 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004739/2020-71. | cvm-col-20210401-d1954 | fichas/colegiado/2021-06.md |
+| 19957.001391/2021-41 | 2021-03-31 | outro | O Colegiado aprovou a Resolução CVM nº 26/2021, que posterga prazos de entrega de informações de fundos de investimento e do formulário de… | cvm-col-20210331-d2130 | fichas/colegiado/2021-06.md |
+| 19957.000017/2019-12 | 2021-03-31 | — | O Colegiado iniciou a discussão de minutas de resoluções sobre BDR que revogariam a Instrução CVM 332/00 e alterariam a Instrução CVM… | cvm-col-20210331-d2124 | fichas/colegiado/2021-06.md |
+| 19957.002798/2021-96 | 2021-03-30 | outro | O Colegiado aprovou a Resolução CVM 25/2021, com base no art. 6º da MP 1.040/2021, como regra transitória para as assembleias gerais… | cvm-col-20210330-d2176 | fichas/colegiado/2021-06.md |
+| 19957.000017/2019-12 | 2021-03-24 | outro | O Colegiado acompanhou a maior parte das diretrizes apresentadas pela SDM para nova regulamentação dos BDR e sinalizou aperfeiçoamentos a… | cvm-col-20210324-d2124 | fichas/colegiado/2021-06.md |
+| 19957.006607/2021-65 | 2021-03-24 | outro | O Colegiado tomou conhecimento de relato do NPLDFT sobre a regulamentação de pessoas expostas politicamente (PEP), em linha com… | cvm-col-20210324-d2123 | fichas/colegiado/2021-06.md |
+| 19957.008749/2020-86 | 2021-03-24 | outro | O Colegiado aprovou a Resolução CVM 27/2021, que dispensa o boletim de subscrição em ofertas liquidadas por sistema de entidade… | cvm-col-20210324-d2060 | fichas/colegiado/2021-06.md |
+| 19957.002355/2021-03 | 2021-03-23 | deferido | O Colegiado, por unanimidade, acompanhando a SRE, concedeu dispensa do art. 13 da Instrução CVM 476/2009 (vedação à negociação por 90 dias)… | cvm-col-20210323-d2113 | fichas/colegiado/2021-05.md |
+| 19957.001898/2021-03 | 2021-03-23 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.001898/2021-03. | cvm-col-20210323-d2112 | fichas/colegiado/2021-05.md |
+| 19957.001871/2021-11 | 2021-03-23 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.001871/2021-11. | cvm-col-20210323-d2111 | fichas/colegiado/2021-05.md |
+| 19957.001850/2021-97 | 2021-03-23 | nao-provido | Recursos contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.001850/2021-97. | cvm-col-20210323-d2110 | fichas/colegiado/2021-05.md |
+| 19957.007927/2020-51 | 2021-03-23 | indeferido | O Colegiado, por unanimidade, divergindo da área técnica, indeferiu a dispensa das regras de informe diário e informes mensais da Instrução… | cvm-col-20210323-d2109 | fichas/colegiado/2021-05.md |
+| 19957.004865/2016-40 | 2021-03-23 | nao-provido | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.004865/2016-40. | cvm-col-20210323-d2108 | fichas/colegiado/2021-05.md |
+| 19957.000984/2017-12 | 2021-03-23 | nao-provido | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.000984/2017-12. | cvm-col-20210323-d2107 | fichas/colegiado/2021-05.md |
+| 19957.007440/2020-79 | 2021-03-17 | deferido | O Colegiado, por unanimidade, aprovou a atualização do cronograma do sandbox regulatório, com novo prazo para a análise das propostas e… | cvm-col-20210317-d1472 | fichas/colegiado/2021-05.md |
+| 19957.005697/2020-96 | 2021-03-16 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.005697/2020-96. | cvm-col-20210316-d2105 | fichas/colegiado/2021-05.md |
+| 19957.008009/2020-40 | 2021-03-16 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.008009/2020-40. | cvm-col-20210316-d2102 | fichas/colegiado/2021-05.md |
+| 19957.000167/2017-56 | 2021-03-16 | nao-provido | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.000167/2017-56. | cvm-col-20210316-d2101 | fichas/colegiado/2021-05.md |
+| 19957.000089/2017-90 | 2021-03-16 | nao-provido | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.000089/2017-90. | cvm-col-20210316-d2100 | fichas/colegiado/2021-05.md |
+| 19957.008697/2020-48 | 2021-03-16 | deferido | O Colegiado concedeu, por unanimidade, a dispensa dos §§ 2º e 3º do art. 12 da ICVM 359/2002 ao IT NOW NYSE FANG+ Fundo de Índice… | cvm-col-20210316-d2099 | fichas/colegiado/2021-05.md |
+| 19957.000804/2021-71 | 2021-03-16 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.000804/2021-71. | cvm-col-20210316-d2098 | fichas/colegiado/2021-05.md |
+| 19957.007707/2020-28 | 2021-03-16 | conhecimento | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.007707/2020-28. | cvm-col-20210316-d2094 | fichas/colegiado/2021-05.md |
+| 19957.001658/2021-09 | 2021-03-11 | indeferido | Por unanimidade, acompanhando a área técnica, o Colegiado indeferiu pedido de dois fundos de investimento para interromper por 15 dias o… | cvm-col-20210311-d2106 | fichas/colegiado/2021-05.md |
+| 472/2008; 19957.007979/2016-41 | 2021-03-10 | — | O Colegiado iniciou a discussão da minuta de Resolução que altera a Instrução CVM 472/2008 para vedar expressamente o uso indevido de… | cvm-col-20210310-d2097 | fichas/colegiado/2021-05.md |
+| 19957.007791/2020-80; 19957.007792/2020-24; 19957.007793/2020-79 | 2021-03-09 | conhecimento | Recursos contra decisão da SIN em processos de multa cominatória. Proc. s. SEI 19957.007791/2020-80, 19957.007792/2020-24 e… | cvm-col-20210309-d2095 | fichas/colegiado/2021-05.md |
+| 19957.007710/2020-41 | 2021-03-09 | conhecimento | Recursos contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.007710/2020-41. | cvm-col-20210309-d2093 | fichas/colegiado/2021-05.md |
+| 19957.000950/2021-04 | 2021-03-09 | provido | O Colegiado, por unanimidade, deu provimento a recurso do BTG Pactual e da G2D contra exigência da SRE no registro de oferta pública… | cvm-col-20210309-d2092 | fichas/colegiado/2021-05.md |
+| 19957.005983/2019-18 | 2021-03-09 | parcial | O Colegiado, por unanimidade, acompanhou o voto do Presidente, relator, em pedido de produção de provas feito por fundos acionistas da… | cvm-col-20210309-d1675 | fichas/colegiado/2021-04.md |
+| 626/2020 | 2021-03-03 | — | O Comitê de Sandbox apresentou visão geral das propostas recebidas para admissão ao sandbox regulatório, com critérios de elegibilidade e… | cvm-col-20210303-d1472 | fichas/colegiado/2021-04.md |
+| — | 2021-03-02 | outro | O Colegiado aprovou, por unanimidade, o PAINT/2021 (plano anual de atividades de auditoria interna), conforme proposta da AUD, com os… | cvm-col-20210302-d5821 | fichas/colegiado/2021-04.md |
+| 19957.001193/2021-88 | 2021-03-02 | outro | O Colegiado aprovou, por unanimidade, a minuta de Acordo de Cooperação Técnica entre a CVM e a Secretaria-Geral da Marinha, para disseminar… | cvm-col-20210302-d2090 | fichas/colegiado/2021-04.md |
+| 19957.007816/2020-45 | 2021-03-02 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.007816/2020-45. | cvm-col-20210302-d2089 | fichas/colegiado/2021-04.md |
+| RJ2015/3716; 19957.001561/2020-15 | 2021-03-02 | nao-provido | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2015/3716 (PROC. SEI 19957.001561/2020-15). | cvm-col-20210302-d2078 | fichas/colegiado/2021-04.md |
+| RJ2014/7566; 19957.000197/2021-49 | 2021-03-02 | nao-provido | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2014/7566 (PROC. SEI 19957.000197/2021-49). | cvm-col-20210302-d2077 | fichas/colegiado/2021-04.md |
+| 19957.001390/2021-05 | 2021-02-24 | outro | O Colegiado aprovou, por unanimidade, a Resolução CVM 21/2021 (administração de carteiras, revoga as ICVMs 426, 557, 558 e 597) e a… | cvm-col-20210224-d2091 | fichas/colegiado/2021-04.md |
+| 07/2020; 308/1999; 19957.006874/2019-18 | 2021-02-24 | outro | O Colegiado aprovou a Resolução CVM 23/2021, que substitui a ICVM 308/1999 e disciplina o registro e o exercício da auditoria independente… | cvm-col-20210224-d1590 | fichas/colegiado/2021-04.md |
+| 19957.009300/2018-11 | 2021-02-24 | outro | O Colegiado aprovou submeter à audiência pública a nova regulamentação de ofertas públicas, que pretende consolidar as ICVM 400/2003 e… | cvm-col-20210224-d1255 | fichas/colegiado/2021-04.md |
+| 19957.001378/2021-92 | 2021-02-23 | outro | O Colegiado, por unanimidade, aprovou a Resolução CVM 20/2021, sobre a atividade de analista de valores mobiliários, no âmbito da… | cvm-col-20210223-d2086 | fichas/colegiado/2021-04.md |
+| 19957.007962/2020-71 | 2021-02-23 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.007962/2020-71. | cvm-col-20210223-d2084 | fichas/colegiado/2021-04.md |
+| 19957.001365/2021-13 | 2021-02-23 | outro | O Colegiado aprovou, por unanimidade, o novo Regimento Interno da CVM (Resolução CVM 24/2021), a Deliberação CVM 871/2021 (estrutura… | cvm-col-20210223-d2083 | fichas/colegiado/2021-04.md |
+| 19957.006595/2020-98 | 2021-02-23 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.006595/2020-98. | cvm-col-20210223-d2082 | fichas/colegiado/2021-04.md |
+| 19957.004014/2020-83 | 2021-02-23 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004014/2020-83. | cvm-col-20210223-d2080 | fichas/colegiado/2021-04.md |
+| 19957.000951/2021-41 | 2021-02-23 | outro | O Colegiado aprovou, por unanimidade, a Resolução CVM 19/2021 sobre consultoria de valores mobiliários, que revisa a ICVM 592/2017 sem… | cvm-col-20210223-d2079 | fichas/colegiado/2021-04.md |
+| 19957.006243/2020-32 | 2021-02-23 | provido | Por unanimidade, o Colegiado conheceu do pedido de reconsideração da G2D Investments, Ltd. e, no mérito, aprovou a concessão da dispensa do… | cvm-col-20210223-d2029 | fichas/colegiado/2021-03.md |
+| 19957.005411/2019-39 | 2021-02-23 | outro | O Colegiado decidiu pelo não provimento do recurso e deliberou pela reforma da decisão da SRE que indeferiu registro de OPA por alienação… | cvm-col-20210223-d1864 | fichas/colegiado/2021-03.md |
+| 19957.010715/2018-37; 19957.000495/2019-14 | 2021-02-23 | outro | O Colegiado aprovou, por maioria, as conclusões da SMI sobre oferta a residentes no Brasil de intermediação por estrangeiro em parceria com… | cvm-col-20210223-d1583 | fichas/colegiado/2021-03.md |
+| 476/2009; 19957.007194/2017-50; 19957.007197/2017-93 | 2021-02-23 | outro | O Colegiado entendeu, por unanimidade, em consulta da SRE, que operações sem real esforço de captação junto a público indeterminado podem… | cvm-col-20210223-d1424 | fichas/colegiado/2021-03.md |
+| 19957.000049/2019-18 | 2021-02-18 | nao-provido | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.000049/2019-18. | cvm-col-20210218-d2075 | fichas/colegiado/2021-03.md |
+| 19957.008524/2020-20 | 2021-02-18 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.008524/2020-20. | cvm-col-20210218-d2074 | fichas/colegiado/2021-03.md |
+| 19957.000839/2021-18 | 2021-02-18 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. SEI 19957.000839/2021-18. | cvm-col-20210218-d2073 | fichas/colegiado/2021-03.md |
+| 19957.000048/2021-80 | 2021-02-18 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. SEI 19957.000048/2021-80. | cvm-col-20210218-d2072 | fichas/colegiado/2021-03.md |
+| 19957.007688/2020-30 | 2021-02-18 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.007688/2020-30. | cvm-col-20210218-d2071 | fichas/colegiado/2021-03.md |
+| 19957.007686/2020-41 | 2021-02-18 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.007686/2020-41. | cvm-col-20210218-d2070 | fichas/colegiado/2021-03.md |
+| 19957.000969/2021-42 | 2021-02-18 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.000969/2021-42. | cvm-col-20210218-d2069 | fichas/colegiado/2021-03.md |
+| 19957.008129/2020-47 | 2021-02-18 | nao-provido | O Colegiado negou provimento, por unanimidade, a recurso contra a suspensão do registro de auditor independente pessoa física até nova… | cvm-col-20210218-d2064 | fichas/colegiado/2021-03.md |
+| 19957.008013/2020-16 | 2021-02-10 | indeferido | O Colegiado indeferiu o pleito da ANBIMA para que as segmentações da Certificação de Gestores ANBIMA (CGA) fossem aceitas como requisito de… | cvm-col-20210210-d2076 | fichas/colegiado/2021-03.md |
+| 05/2020; 19957.000841/2021-89 | 2021-02-10 | outro | O Colegiado aprovou a Resolução CVM 18/2021, que aprova o Documento de Revisão de Pronunciamentos Técnicos CPC 17, sobre a reforma da taxa… | cvm-col-20210210-d2000 | fichas/colegiado/2021-03.md |
+| 07/2020; 308/1999; 19957.006874/2019-18 | 2021-02-10 | — | O Colegiado concluiu a discussão da Audiência Pública SDM 07/2020 sobre a minuta de resolução que propõe substituir a Instrução CVM… | cvm-col-20210210-d1590 | fichas/colegiado/2021-03.md |
+| 19957.000807/2021-12 | 2021-02-09 | outro | O Colegiado aprovou, por unanimidade, a Resolução CVM 16/2020, que consolida a regulação do agente autônomo de investimento e revoga as… | cvm-col-20210209-d2057 | fichas/colegiado/2021-03.md |
+| 19957.000808/2021-59 | 2021-02-09 | outro | O Colegiado aprovou, por unanimidade, a Resolução CVM nº 17/2020, sobre o exercício da função de agente fiduciário, revisando e… | cvm-col-20210209-d2056 | fichas/colegiado/2021-03.md |
+| 19957.005860/2020-11 | 2021-02-09 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.005860/2020-11. | cvm-col-20210209-d2055 | fichas/colegiado/2021-02.md |
+| 19957.006449/2020-62 | 2021-02-09 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.006449/2020-62. | cvm-col-20210209-d2054 | fichas/colegiado/2021-02.md |
+| 19957.008010/2020-74 | 2021-02-09 | outro | O Colegiado decidiu, por unanimidade, que a LatAm Digital Holding Limited, subsidiária da SoftBank Group Corp., é assemelhada à companhia… | cvm-col-20210209-d2052 | fichas/colegiado/2021-02.md |
+| 19957.006526/2020-84 | 2021-02-09 | deferido | O Colegiado autorizou a B3 a adquirir 100% do capital da Portal de Documentos S.A., nos termos do art. 13, V, e §1º, da Instrução CVM… | cvm-col-20210209-d2051 | fichas/colegiado/2021-02.md |
+| 19957.008282/2020-74 | 2021-02-09 | parcial | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.008282/2020-74. | cvm-col-20210209-d2050 | fichas/colegiado/2021-02.md |
+| 19957.011657/2019-40 | 2021-02-09 | conhecimento | O Colegiado não conheceu, por unanimidade, do pedido de reconsideração do acusado contra o julgamento do PAS, em que alegava nulidade desde… | cvm-col-20210209-d1800 | fichas/colegiado/2021-02.md |
+| 860/2020; 19957.008749/2020-86 | 2021-02-03 | outro | O Colegiado tomou conhecimento de consulta da ANBIMA sobre dispensar o documento de aceitação da oferta para investidores institucionais em… | cvm-col-20210203-d2060 | fichas/colegiado/2021-02.md |
+| 480/2009; 19957.000939/2021-36 | 2021-02-03 | outro | O Colegiado aprovou submeter à audiência pública minuta que altera a ICVM 480/2009 para criar comunicado sobre demandas judiciais e… | cvm-col-20210203-d2059 | fichas/colegiado/2021-02.md |
+| 19957.008806/2020-27 | 2021-02-02 | outro | Por maioria, vencido o Presidente, o Colegiado entendeu que a vedação do art. 48, II, da ICVM 400/2003 à consulente (plano de recompra… | cvm-col-20210202-d2047 | fichas/colegiado/2021-02.md |
+| 19957.000391/2021-24 | 2021-02-02 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. SEI 19957.000391/2021-24. | cvm-col-20210202-d2046 | fichas/colegiado/2021-02.md |
+| 19957.008892/2020-78 | 2021-02-02 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.008892/2020-78. | cvm-col-20210202-d2045 | fichas/colegiado/2021-02.md |
+| 19957.000268/2021-11 | 2021-02-02 | outro | O Colegiado aprovou, por unanimidade, a Deliberação CVM 870/2021, que altera a estrutura organizacional da CVM (Deliberação 793/2018)… | cvm-col-20210202-d1941 | fichas/colegiado/2021-02.md |
+| 19957.005795/2020-23 | 2021-01-26 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.005795/2020-23. | cvm-col-20210126-d2043 | fichas/colegiado/2021-02.md |
+| 19957.000247/2021-98 | 2021-01-26 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.000247/2021-98. | cvm-col-20210126-d2042 | fichas/colegiado/2021-02.md |
+| 19957.008850/2020-37 | 2021-01-26 | nao-provido | O Colegiado, por unanimidade, acompanhando a SEP, negou provimento a recurso de associação de acionistas minoritários contra a recusa da… | cvm-col-20210126-d2041 | fichas/colegiado/2021-02.md |
+| 19957.000001/2021-16 | 2021-01-26 | provido | O Colegiado deu provimento, por unanimidade, a recurso da True Securitizadora contra entendimento da SRE que exigia deliberação societária… | cvm-col-20210126-d2039 | fichas/colegiado/2021-02.md |
+| 19957.000050/2021-59 | 2021-01-26 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. SEI 19957.000050/2021-59. | cvm-col-20210126-d2038 | fichas/colegiado/2021-02.md |
+| 19957.007193/2019-77; 19957.006475/2020-91 | 2021-01-26 | conhecimento | O Colegiado não conheceu de recurso ao CRSFN contra decisão sobre reclamação envolvendo demonstrações financeiras da BR Distribuidora, por… | cvm-col-20210126-d2001 | fichas/colegiado/2021-01.md |
+| 19957.008349/2020-71 | 2021-01-19 | deferido | O Colegiado, por unanimidade, acompanhando a SIN, concedeu dispensa do art. 39, §2º, da ICVM 356/01 para que o FIDC-NP PCG-Brasil… | cvm-col-20210119-d2037 | fichas/colegiado/2021-01.md |
+| 19957.007831/2020-93 | 2021-01-19 | deferido | O Colegiado concedeu, por unanimidade, a dispensa do art. 39, §2º, da ICVM 356/2001 ao BS Inter FIDC-NP Multissetorial para adquirir… | cvm-col-20210119-d2036 | fichas/colegiado/2021-01.md |
+| 8/2020; 19957.000029/2021-53 | 2021-01-19 | parcial | O Colegiado, acompanhando a SDM, deferiu em parte pedido da ANBIMA: prorrogou para 1º.06.2021 a vigência do art. 14 e de incisos do Anexo A… | cvm-col-20210119-d2034 | fichas/colegiado/2021-01.md |
+| 19957.008017/2020-96 | 2021-01-19 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.008017/2020-96. | cvm-col-20210119-d2033 | fichas/colegiado/2021-01.md |
+| 19957.008656/2020-51 | 2021-01-19 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.008656/2020-51. | cvm-col-20210119-d2032 | fichas/colegiado/2021-01.md |
+| 19957.003513/2019-10 | 2021-01-19 | nao-provido | O Colegiado negou provimento, por unanimidade, a recurso contra decisão da SPS que concedeu acesso parcial a inquérito administrativo… | cvm-col-20210119-d2031 | fichas/colegiado/2021-01.md |
+| 19957.005199/2020-43 | 2021-01-19 | conhecimento | O Colegiado não conheceu, por unanimidade, do pedido de reconsideração de fundos ex-acionistas contra decisão que negou provimento a… | cvm-col-20210119-d1986 | fichas/colegiado/2021-01.md |
+| 19957.009300/2018-11 | 2021-01-14 | — | Continuação da discussão de minuta de nova norma sobre ofertas públicas, que pretende consolidar as ICVM 400/2003, 471/2008 e 476/2009 em… | cvm-col-20210114-d1255 | fichas/colegiado/2021-01.md |
+| 19957.009300/2018-11 | 2021-01-13 | — | O Colegiado continuou a discussão da minuta de nova norma sobre ofertas públicas, que consolidaria as Instruções CVM nºs 400/03, 471/08 e… | cvm-col-20210113-d1255 | fichas/colegiado/2021-01.md |
+| 19957.009300/2018-11 | 2021-01-13 | — | O Colegiado continuou a discussão de minuta de norma que consolidaria as ICVM 400, 471 e 476 em regime único para ofertas públicas. Sem… | cvm-col-20210113-d1255-r2 | fichas/colegiado/2021-01.md |
+| 19957.006243/2020-32 | 2021-01-12 | deferido | O Colegiado concedeu dispensa do requisito de receitas no Brasil (art. 1º, I, a, Anexo 32-I da ICVM 480/09) para classificar a emissora de… | cvm-col-20210112-d2029 | fichas/colegiado/2021-01.md |
+| 19957.006232/2020-52 | 2021-01-12 | outro | O Colegiado, por unanimidade, divergindo da área técnica (SRE), concluiu que a G2D Investments satisfaz os critérios delineados no Processo… | cvm-col-20210112-d2028 | fichas/colegiado/2021-01.md |
+| 19957.009300/2018-11 | 2021-01-07 | — | O Colegiado continuou a discussão de minuta de nova norma sobre ofertas públicas, que pretende consolidar as Instruções CVM 400/2003… | cvm-col-20210107-d1255 | fichas/colegiado/2021-01.md |
+| 19957.009300/2018-11 | 2021-01-06 | — | Continuação da discussão de minuta de nova norma sobre ofertas públicas, que pretende consolidar as ICVM 400/2003, 471/2008 e 476/2009 em… | cvm-col-20210106-d1255 | fichas/colegiado/2021-01.md |
+| 19957.006232/2020-52 | 2021-01-05 | outro | O Colegiado deu início à discussão de consulta da SRE sobre se a G2D Investments, emissora de BDRs constituída em Bermudas, é assemelhada a… | cvm-col-20210105-d2028 | fichas/colegiado/2021-01.md |
+| 19957.007302/2020-90 | 2021-01-05 | outro | O Colegiado decidiu, por unanimidade, que o emissor de lastro de BDR pode ser organizado nos termos da consulta: a VBI US RE Holdco… | cvm-col-20210105-d2027 | fichas/colegiado/2021-01.md |
+| 19957.005554/2020-84 | 2021-01-05 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.005554/2020-84. | cvm-col-20210105-d2026 | fichas/colegiado/2021-01.md |
 
 Fim do subíndice.

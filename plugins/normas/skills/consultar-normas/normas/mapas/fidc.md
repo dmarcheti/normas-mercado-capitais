@@ -91,9 +91,12 @@ Vincula só aderentes (ANBIMA) e participantes (B3); texto extraído de PDF, a v
 | B3, Regulamento de Emissores | listagem de FII, FIDC e respectivos FICs | Anexo A (tabela de prazos, linha de FII e FIDC) | `autorregulacao/b3/regulamento-de-emissores.md` |
 | B3, Manual do Emissor | listagem de fundos; texto de 2022 ainda cita as Instruções CVM 356/399/444, revogadas pela 175, por isso [verificar] antes de usar | item 3.1.2 (fundos de investimento) | `autorregulacao/b3/manual-do-emissor.md` |
 
+## Julgados
+
+- Julgados e decisões do Colegiado da CVM sobre FIDC (processos sancionadores e consultas): estão no acervo. Comece por [`tema-fundos-investimento.md`](../../julgados/indices/tema-fundos-investimento.md) e pelos que citam a Res. CVM 175 ([`norma-cvm-res-175.md`](../../julgados/indices/norma-cvm-res-175.md)); a coluna Ementa mostra o assunto de cada linha. Julgado não é norma: siga "Julgados" no `SKILL.md`.
+
 ## Fora do acervo
 
-- Julgados e decisões do Colegiado da CVM sobre FIDC (processos sancionadores e consultas): não encontrados no acervo.
 - Lei 14.130/2021: não encontrada no acervo como arquivo; altera a Lei 8.668 (FII e Fiagro) e não é aplicada ao FIDC.
 - Lei 13.874/2019 (origem dos arts. 1.368-C a 1.368-F do Código Civil): não encontrada no acervo.
 - Res. CMN 5.343/2026: ato só alterador, sem arquivo; seu efeito aparece no texto da Res. CMN 2.907. O frontmatter da 2.907 registra que a busca do BCB lista também alteração "a partir de 4/1/2027" que o PDF consolidado não traz: [verificar] vigência.

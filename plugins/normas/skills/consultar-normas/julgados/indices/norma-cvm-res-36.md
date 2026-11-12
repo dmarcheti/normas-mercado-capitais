@@ -11,7 +11,7 @@ Norma: [cvm/resolucoes/0036.md](../../normas/cvm/resolucoes/0036.md) (texto vige
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.009070/2021-95 | 2024-10-29 | parcial | cvm-pas-19957-009070-2021-95 | fichas/pas/2024-09.md |
+| pas | 19957.009070/2021-95 | 2024-10-29 | parcial | cvm-pas-19957-009070-2021-95 | fichas/pas/2024-18.md |
 | decisao-colegiado | 19957.009328/2023-15 | 2024-08-06 | deferido | cvm-col-20240806-d3112 | fichas/colegiado/2024-08.md |
 
 Fim do subíndice.

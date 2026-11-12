@@ -27,7 +27,7 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|
 | art. 5º | termo-compromisso | RJ2002/4186 | 2005-05-24 | aceito | cvm-col-20050524-d04 | fichas/tc/2005-02.md |
 | art. 5º | termo-compromisso | RJ2008/12293 | 2009-06-23 | aceito | cvm-col-20090623-d10 | fichas/tc/2009-04.md |
-| art. 5º, § 1º | acordao-crsfn | RJ-2009-5286 | 2013-09-25 | absolvicao | crsfn-13085 | fichas/crsfn/2013-04.md |
+| art. 5º, § 1º | acordao-crsfn | RJ-2009-5286 | 2013-09-25 | absolvicao | crsfn-13085 | fichas/crsfn/2013-05.md |
 | art. 5º, § 1º | decisao-colegiado | RJ2011/4847 | 2012-12-18 | nao-provido | cvm-col-20121218-d04 | fichas/colegiado/2012-24.md |
 
 ## art. 8º
@@ -60,7 +60,7 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2007/3623 | 2007-07-10 | outro | cvm-col-20070710-d24 | fichas/colegiado/2007-13.md |
 | decisao-colegiado | RJ2006/4159 | 2006-07-18 | deferido | cvm-col-20060718-d11 | fichas/colegiado/2006-11.md |
 | decisao-colegiado | RJ2006/0718 | 2006-04-04 | indeferido | cvm-col-20060404-d02 | fichas/colegiado/2006-05.md |
-| pas | RJ2002/6118 | 2006-02-16 | absolvicao | cvm-pas-rj2002-6118 | fichas/pas/2006-02.md |
+| pas | RJ2002/6118 | 2006-02-16 | absolvicao | cvm-pas-rj2002-6118 | fichas/pas/2006-03.md |
 | decisao-colegiado | — | 2005-10-31 | deferido | cvm-col-20051031-d01 | fichas/colegiado/2005-16.md |
 | decisao-colegiado | RJ2005/0610 | 2005-03-08 | indeferido | cvm-col-20050308-d07 | fichas/colegiado/2005-05.md |
 | decisao-colegiado | RJ2004/6550 | 2004-11-23 | deferido | cvm-col-20041123-d10 | fichas/colegiado/2004-14.md |
@@ -68,7 +68,7 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2004/5795 | 2004-11-16 | parcial | cvm-col-20041116-d06 | fichas/colegiado/2004-14.md |
 | decisao-colegiado | RJ2004/3143 | 2004-08-24 | deferido | cvm-col-20040824-d10 | fichas/colegiado/2004-10.md |
 | decisao-colegiado | RJ2004/2185 | 2004-05-25 | deferido | cvm-col-20040525-d02 | fichas/colegiado/2004-06.md |
-| pas | 10/1999 | 2000-09-14 | parcial | cvm-pas-10-1999 | fichas/pas/2000-02.md |
+| pas | 10/1999 | 2000-09-14 | parcial | cvm-pas-10-1999 | fichas/pas/2000-03.md |
 | decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
 
 Fim do subíndice.

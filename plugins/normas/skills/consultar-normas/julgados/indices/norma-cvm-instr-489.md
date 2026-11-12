@@ -11,7 +11,7 @@ Norma: [cvm/instrucoes/0489.md](../../normas/cvm/instrucoes/0489.md) (texto vige
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 3º | pas | RJ2014/11830 | 2016-11-29 | condenacao | cvm-pas-rj2014-11830 | fichas/pas/2016-07.md |
+| art. 3º | pas | RJ2014/11830 | 2016-11-29 | condenacao | cvm-pas-rj2014-11830 | fichas/pas/2016-13.md |
 | art. 3º, § 2º | decisao-colegiado | 19957.004284/2016-16 | 2016-09-06 | parcial | cvm-col-20160906-d0301 | fichas/colegiado/2016-17.md |
 | art. 3º, § 2º, inciso III | decisao-colegiado | 19957.010159/2018-07 | 2019-04-09 | deferido | cvm-col-20190409-d1372 | fichas/colegiado/2019-06.md |
 
@@ -27,12 +27,12 @@ Norma: [cvm/instrucoes/0489.md](../../normas/cvm/instrucoes/0489.md) (texto vige
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.021153/2024-03 | 2025-08-06 | outro | cvm-col-20250806-d3194 | fichas/colegiado/2025-07.md |
 | decisao-colegiado | 19957.021153/2024-03 | 2024-12-17 | outro | cvm-col-20241217-d3194 | fichas/colegiado/2024-14.md |
-| pas | 19957.006858/2019-25 | 2024-10-15 | parcial | cvm-pas-19957-006858-2019-25 | fichas/pas/2024-08.md |
+| pas | 19957.006858/2019-25 | 2024-10-15 | parcial | cvm-pas-19957-006858-2019-25 | fichas/pas/2024-16.md |
 | decisao-colegiado | — | 2024-01-26 | outro | cvm-col-20240126-d3019 | fichas/colegiado/2024-01.md |
 | decisao-colegiado | 19957.009517/2023-98 | 2023-08-16 | outro | cvm-col-20230816-d2795 | fichas/colegiado/2023-09.md |
 | decisao-colegiado | — | 2022-12-14 | outro | cvm-col-20221214-d2795 | fichas/colegiado/2022-17.md |
 | decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
-| acordao-crsfn | RJ2013/9762 | 2018-04-25 | condenacao | crsfn-14420 | fichas/crsfn/2018-03.md |
+| acordao-crsfn | RJ2013/9762 | 2018-04-25 | condenacao | crsfn-14420 | fichas/crsfn/2018-04.md |
 | decisao-colegiado | 19957.001176/2017-64 | 2017-03-07 | deferido | cvm-col-20170307-d0598 | fichas/colegiado/2017-05.md |
 | decisao-colegiado | — | 2016-11-21 | outro | cvm-col-20161121-d5347 | fichas/colegiado/2016-22.md |
 | decisao-colegiado | 04/2015; 19957.003591/2015-91 | 2016-06-14 | outro | cvm-col-20160614-d6789 | fichas/colegiado/2016-12.md |
@@ -42,7 +42,7 @@ Norma: [cvm/instrucoes/0489.md](../../normas/cvm/instrucoes/0489.md) (texto vige
 | decisao-colegiado | — | 2016-05-04 | outro | cvm-col-20160504-d5347 | fichas/colegiado/2016-09.md |
 | decisao-colegiado | RJ2013/12424 | 2016-02-16 | nao-provido | cvm-col-20160216-d0079 | fichas/colegiado/2016-04.md |
 | decisao-colegiado | 19957.003591/2015-91 | 2015-12-15 | outro | cvm-col-20151215-d6789 | fichas/colegiado/2015-24.md |
-| pas | RJ2011/10415 | 2014-12-02 | parcial | cvm-pas-rj2011-10415 | fichas/pas/2014-05.md |
+| pas | RJ2011/10415 | 2014-12-02 | parcial | cvm-pas-rj2011-10415 | fichas/pas/2014-10.md |
 | decisao-colegiado | RJ2013/12286 | 2014-11-25 | nao-provido | cvm-col-20141125-d09 | fichas/colegiado/2014-23.md |
 | decisao-colegiado | RJ2013/12279 | 2014-11-25 | nao-provido | cvm-col-20141125-d08 | fichas/colegiado/2014-23.md |
 | decisao-colegiado | RJ2013/12278 | 2014-11-25 | nao-provido | cvm-col-20141125-d07 | fichas/colegiado/2014-23.md |

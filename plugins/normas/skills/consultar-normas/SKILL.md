@@ -82,7 +82,7 @@ Julgados da CVM e do CRSFN: processos administrativos sancionadores (PAS) julgad
 
 Cada julgado tem duas peças:
 
-- **ficha**, nesta pasta, em `julgados/fichas/`: resumo com id, tipo, processo, data, relator, resultado, ementa, tema, dispositivos citados e um trecho da decisão;
+- **ficha**, nesta pasta, em `julgados/fichas/`: resumo com id, tipo, processo, data, relator, resultado, ementa, tema, dispositivos citados e um trecho da decisão (até 1.500 caracteres; PAS e acórdãos do CRSFN, até 4.000);
 - **texto integral**, fora desta pasta, no GitHub: o link está no campo `texto_integral` da ficha.
 
 ### Julgado não é norma
@@ -96,22 +96,26 @@ Um julgado diz o que a CVM ou o CRSFN decidiu num caso, com os fatos daquele cas
 ### Como navegar
 
 1. Leia `julgados/indice.md`: perímetro, contagens e lista dos subíndices.
-2. Escolha o subíndice em `julgados/indices/`:
-   - `norma-<id>.md`: julgados que citam cada dispositivo de uma norma (ex.: `norma-lei-6404.md`, `norma-cvm-res-175.md`; norma revogada, como `norma-fora-icvm-358.md`; a norma fora do acervo pouco citada fica no arquivo da família, como `norma-fora-outras-icvm.md`, com uma seção `## icvm-NNN` por norma). `normas-citadas.md` lista as normas citadas. É o caminho para "como a CVM aplicou o art. X";
-   - `tema-<tema>.md`: por assunto (ex.: `tema-informacao-privilegiada.md`, `tema-securitizacao.md`);
-   - `<tipo>-<ano>.md`: por tipo e ano (ex.: `pas-2024.md`);
-   - `processo-AAAA.md`: por número de processo, com o PAS, o termo de compromisso e o acórdão do CRSFN do mesmo processo;
-   - `decisao-antiga-AAAA.md` (ou `-s1` e `-s2`, nos anos grandes): uma linha por decisão de 1978 a 2001, com a data da ata, o processo e a ficha; o título da pauta está na ficha.
-3. Na linha do índice, leia a coluna Ficha. Ela traz o caminho relativo a `julgados/` (ex.: `fichas/pas/2023-08.md`). O arquivo tem várias fichas; a do julgado é a seção `## <id>`, com o `Id` da linha. O arquivo de ficha tem até 24 KB: uma leitura basta.
+2. Escolha o subíndice em `julgados/indices/` pelo tipo de pergunta:
+   - por assunto ("decisões sobre X", "como a CVM tratou Y"): `tema-<tema>.md` (ex.: `tema-informacao-privilegiada.md`, `tema-securitizacao.md`) e `<tipo>-<ano>.md` (ex.: `pas-2024.md`). Os dois têm a coluna Ementa (curta, até 140 caracteres): escolha a linha por ela, sem abrir ficha por ficha;
+   - por dispositivo ("como a CVM aplicou o art. X"): `norma-<id>.md` (ex.: `norma-lei-6404.md`, `norma-cvm-res-175.md`; norma revogada, como `norma-fora-icvm-358.md`; a norma fora do acervo pouco citada fica no arquivo da família, como `norma-fora-outras-icvm.md`, com uma seção `## icvm-NNN` por norma). `normas-citadas.md` lista as normas citadas. Este índice não tem coluna Ementa (id, processo, data e resultado bastam para listar): para saber do que trata a linha, leia a ficha;
+   - por número de processo: `processo-AAAA.md`, com o PAS, o termo de compromisso e o acórdão do CRSFN do mesmo processo e a coluna Ementa;
+   - fato anterior a 2002, ou caso que você não sabe datar: varra `decisao-antiga-AAAA.md` (ou `-s1` e `-s2`, `-t1` a `-t4`, nos anos grandes) pela coluna Título. É uma linha por decisão de 1978 a 2001, com a data da ata, o processo, o Título (o título da pauta, com nome de pessoa física trocado por "[pessoa física]") e a ficha.
+3. Na linha do índice, leia a coluna Ficha (e Ementa ou Título, quando houver, para confirmar que é o julgado certo). Ela traz o caminho relativo a `julgados/` (ex.: `fichas/pas/2023-08.md`). O arquivo tem várias fichas; a do julgado é a seção `## <id>`, com o `Id` da linha. O arquivo de ficha tem até 24 KB: uma leitura basta.
 4. Pergunta de listagem ("quais julgados aplicaram o art. X") se responde pelo índice: cite id, processo, data e resultado de cada linha.
 
 ### Fluxo de resposta
 
 1. Ache o julgado pelos índices.
-2. Leia a ficha e responda por ela. O `resultado` e o `trecho` costumam bastar para dizer como o caso terminou.
-3. Se a pergunta pedir o fundamento do voto, os fatos, o raciocínio do relator, a dosimetria da multa ou qualquer coisa que a ficha não traz, tente ler o `texto_integral` com a ferramenta de busca de página (`web_fetch` ou `WebFetch`). No texto integral, leia o Extrato e o Voto antes do Relatório.
+2. Leia a ficha e responda por ela. O `resultado`, a `ementa` e o `trecho` costumam bastar para dizer como o caso terminou, quem foi condenado ou absolvido e a multa. **Se a ficha responde à pergunta, responda e não peça o link do texto integral.**
+3. Só vá ao texto integral quando a pergunta exigir algo que a ficha não traz: o fundamento do voto, os fatos, o raciocínio do relator, a dosimetria da multa, ou quando o `trecho` termina em "[...]" e o corte pegou a parte perguntada (ex.: o resultado de um dos vários acusados). Aí tente ler o `texto_integral` com a ferramenta de busca de página (`web_fetch` ou `WebFetch`). No texto integral, leia o Extrato e o Voto antes do Relatório.
 4. Se a ferramenta recusar a URL (no claude.ai ela recusa URL que o usuário não colou na conversa), não busque o julgado em outro lugar nem responda de memória. Termine a resposta com o que a ficha permite afirmar e peça, com estas palavras: "Para eu ler o texto integral, cole este link na conversa: <url>". Troque `<url>` pelo `texto_integral` da ficha.
 5. Com o link colado, leia o texto integral e complete a resposta.
+
+Exemplos:
+
+- Não peça o link: "Qual foi o resultado do PAS 19957.004810/2019-82 e quais as multas?". O `resultado` e o `trecho` da ficha trazem o dispositivo, com as multas e as absolvições. Responda e diga que é pela ficha.
+- Peça o link: "Qual foi o fundamento do voto do relator para absolver o acusado X?". O fundamento está no voto, que a ficha não traz. Responda o que a ficha permite e peça o link.
 
 Nunca responda de memória o que só o texto integral diria. Quando responder só pela ficha, diga que é pela ficha.
 
@@ -119,14 +123,15 @@ Nunca responda de memória o que só o texto integral diria. Quando responder s�
 
 - Cite assim: "PAS CVM nº 19957.011607/2024-20, j. 2025-05-27, rel. Dir. Fulano"; "Decisão do Colegiado de 2025-12-02, Proc. 19957.xxxxxx/AAAA-DV"; "Acórdão CRSFN nº N, sessão de AAAA-MM-DD". Diga o resultado (`resultado`) e, se houver, a multa como está no texto.
 - `resultado` vazio na ficha: o julgado não tem resultado extraído ou a deliberação não o definiu. Não deduza do trecho; leia o texto integral.
-- `trecho`: recorte de até 1.500 caracteres da decisão, que pode terminar em "[...]". Não é o julgado inteiro e pode omitir o ponto da pergunta.
+- `trecho`: recorte da decisão, de até 1.500 caracteres (PAS e acórdãos do CRSFN: até 4.000, porque têm vários acusados ou partes), que pode terminar em "[...]". Não é o julgado inteiro: se terminar em "[...]" e a pergunta for sobre a parte cortada, vá ao texto integral (ver "Fluxo de resposta").
 - Ementa: a da ficha pode não ser oficial. O campo `ementa_fonte` do texto integral diz a origem: `cvm` ou `crsfn` é oficial; `titulo` foi montada do título; `extracao` foi escrita por modelo de linguagem. Sem ter lido o texto integral, não chame a ementa de oficial e confira no texto antes de usá-la como fundamento.
 - `tema` vem de classificação automática. Confirme no texto antes de apoiar a resposta nele.
 - `nivel_verificacao`: `html-convertido`, `pdf-extraido` ou `ocr` (este com erros pontuais de leitura). Recomende conferir a fonte oficial (campo `fonte_original` do texto integral) antes de usar em parecer ou peça.
 - O índice por norma liga o dispositivo ao texto vigente hoje em `normas/`; o julgado aplicou a redação da época dos fatos. Norma marcada "fora do acervo" (Instruções e Deliberações revogadas) não tem texto no acervo.
 - Fato anterior a 2023: a Resolução CVM vigente hoje (175, 160, 80...) não é a norma aplicada. Use a Instrução revogada da época (índice por norma, "fora do acervo") e diga qual regime o julgado aplicou.
 - Achou um PAS: procure o termo de compromisso e o acórdão do CRSFN do mesmo processo no `processo-AAAA.md` (o ano é o do número do processo) antes de dizer como o caso terminou.
-- FIDC, FII e demais fundos: comece por `julgados/indices/tema-fundos-investimento.md` e pelas normas de fundos do índice por norma, em vez de varrer o ano.
-- Pergunta sem data ou sobre fato anterior a 2002: veja também `julgados/indices/decisao-antiga-AAAA.md`. Nas fichas de 1978 a 2001, a `ementa` é o título da pauta (nome de pessoa física trocado por "[pessoa física]") e não há tema.
+- FIDC, FII e demais fundos: comece por `julgados/indices/tema-fundos-investimento.md` e pelas normas de fundos do índice por norma, em vez de varrer o ano. Os mapas de produto (`normas/mapas/`) apontam para os índices certos.
+- Pergunta sem data ou sobre fato anterior a 2002: veja também `julgados/indices/decisao-antiga-AAAA.md`, pela coluna Título. Nas fichas de 1978 a 2001, a `ementa` é o título da pauta (nome de pessoa física trocado por "[pessoa física]") e não há tema.
+- Ementa curta do índice: é o começo da `ementa` da ficha, cortado em 140 caracteres. Serve para escolher a linha; para citar, use a ementa inteira da ficha.
 - Dados pessoais: CPF, documento, endereço e dados bancários foram retirados (`[dado pessoal retirado]`). Não monte perfil, lista ou histórico de pessoa física a partir dos julgados; responda sobre a conduta, a tese e a decisão.
 - Se o julgado não está no acervo, diga isso. Não cite processo, data ou resultado que não abriu. A ausência no índice não prova que o julgado não exista.

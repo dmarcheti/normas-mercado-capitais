@@ -11,7 +11,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 1º | acordao-crsfn | 06/2012 | 2021-12-07 | condenacao | crsfn-10372-100268-2019-94 | fichas/crsfn/2021-04.md |
+| art. 1º | acordao-crsfn | 06/2012 | 2021-12-07 | condenacao | crsfn-10372-100268-2019-94 | fichas/crsfn/2021-06.md |
 
 ## art. 3º
 
@@ -35,8 +35,8 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 50 | pas | RJ2001/4977 | 2001-12-19 | condenacao | cvm-pas-rj2001-4977 | fichas/pas/2001-05.md |
-| art. 50 | pas | 19957.009118/2019-41 | 2022-05-24 | absolvicao | cvm-pas-19957-009118-2019-41 | fichas/pas/2022-03.md |
+| art. 50 | pas | RJ2001/4977 | 2001-12-19 | condenacao | cvm-pas-rj2001-4977 | fichas/pas/2001-10.md |
+| art. 50 | pas | 19957.009118/2019-41 | 2022-05-24 | absolvicao | cvm-pas-19957-009118-2019-41 | fichas/pas/2022-05.md |
 
 ## art. 59
 
@@ -49,7 +49,7 @@ Norma: fora do acervo.
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 62 | acordao-crsfn | RJ00/6479 | 2005-08-23 | parcial | crsfn-5123 | fichas/crsfn/2005-02.md |
-| art. 62 | pas | RJ2000/6479 | 2003-06-05 | parcial | cvm-pas-rj2000-6479 | fichas/pas/2003-02.md |
+| art. 62 | pas | RJ2000/6479 | 2003-06-05 | parcial | cvm-pas-rj2000-6479 | fichas/pas/2003-03.md |
 
 ## art. 64
 

@@ -17,8 +17,8 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2012/5754 | 2013-09-10 | parcial | cvm-pas-rj2012-5754 | fichas/pas/2013-04.md |
-| pas | RJ2012/3630 | 2013-08-13 | parcial | cvm-pas-rj2012-3630 | fichas/pas/2013-04.md |
+| pas | RJ2012/5754 | 2013-09-10 | parcial | cvm-pas-rj2012-5754 | fichas/pas/2013-09.md |
+| pas | RJ2012/3630 | 2013-08-13 | parcial | cvm-pas-rj2012-3630 | fichas/pas/2013-08.md |
 | decisao-colegiado | RJ2012/13506 | 2012-12-18 | parcial | cvm-col-20121218-d34 | fichas/colegiado/2012-26.md |
 | decisao-colegiado | RJ2012/13505 | 2012-12-18 | nao-provido | cvm-col-20121218-d13 | fichas/colegiado/2012-25.md |
 | decisao-colegiado | RJ2012/13507 | 2012-12-11 | nao-provido | cvm-col-20121211-d22 | fichas/colegiado/2012-23.md |

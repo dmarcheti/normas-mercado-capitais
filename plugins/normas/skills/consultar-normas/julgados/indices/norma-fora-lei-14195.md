@@ -25,8 +25,8 @@ Norma: fora do acervo.
 | decisao-colegiado | 19957.011117/2024-23 | 2025-01-28 | deferido | cvm-col-20250128-d3215 | fichas/colegiado/2025-01.md |
 | decisao-colegiado | 19957.014411/2024-97 | 2024-09-17 | indeferido | cvm-col-20240917-d3138 | fichas/colegiado/2024-10.md |
 | decisao-colegiado | 19957.003021/2020-68 | 2023-12-19 | — | cvm-col-20231219-d1875 | fichas/colegiado/2023-14.md |
-| pas | 19957.004392/2020-67 | 2022-11-08 | condenacao | cvm-pas-19957-004392-2020-67 | fichas/pas/2022-06.md |
-| pas | 19957.003175/2020-50 | 2022-11-08 | absolvicao | cvm-pas-19957-003175-2020-50 | fichas/pas/2022-05.md |
+| pas | 19957.004392/2020-67 | 2022-11-08 | condenacao | cvm-pas-19957-004392-2020-67 | fichas/pas/2022-11.md |
+| pas | 19957.003175/2020-50 | 2022-11-08 | absolvicao | cvm-pas-19957-003175-2020-50 | fichas/pas/2022-11.md |
 | decisao-colegiado | 09/2021; 367/2002; 480/2009; 19957.005520/2019-56 | 2022-09-14 | outro | cvm-col-20220914-d1763 | fichas/colegiado/2022-13.md |
 | decisao-colegiado | 09/2021; 367/2002; 480/2009; 19957.005520/2019-56 | 2022-08-31 | — | cvm-col-20220831-d1763 | fichas/colegiado/2022-13.md |
 | decisao-colegiado | 19957.010165/2021-51 | 2021-12-17 | indeferido | cvm-col-20211217-d2447 | fichas/colegiado/2021-22.md |

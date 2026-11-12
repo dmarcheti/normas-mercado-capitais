@@ -65,7 +65,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 29 | acordao-crsfn | 06/2012 | 2021-12-07 | condenacao | crsfn-10372-100268-2019-94 | fichas/crsfn/2021-04.md |
+| art. 29 | acordao-crsfn | 06/2012 | 2021-12-07 | condenacao | crsfn-10372-100268-2019-94 | fichas/crsfn/2021-06.md |
 | art. 29 | decisao-colegiado | RJ1998/4516 | 2010-04-07 | parcial | cvm-col-20100407-d03 | fichas/colegiado/2010-10.md |
 | art. 29 | decisao-colegiado | RJ2011/0427 | 2013-02-26 | nao-provido | cvm-col-20130226-d01 | fichas/colegiado/2013-05.md |
 | art. 29 | decisao-colegiado | 19957.011151/2018-50 | 2019-01-08 | conhecimento | cvm-col-20190108-d1276 | fichas/colegiado/2019-01.md |
@@ -74,8 +74,8 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 30 | acordao-crsfn | 06/2012 | 2021-12-07 | condenacao | crsfn-10372-100268-2019-94 | fichas/crsfn/2021-04.md |
-| art. 30 | acordao-crsfn | RJ2018/325 | 2022-08-09 | condenacao | crsfn-10372-100092-2021-95 | fichas/crsfn/2022-05.md |
+| art. 30 | acordao-crsfn | 06/2012 | 2021-12-07 | condenacao | crsfn-10372-100268-2019-94 | fichas/crsfn/2021-06.md |
+| art. 30 | acordao-crsfn | RJ2018/325 | 2022-08-09 | condenacao | crsfn-10372-100092-2021-95 | fichas/crsfn/2022-06.md |
 | art. 30 | decisao-colegiado | RJ2011/6936 | 2011-09-20 | nao-provido | cvm-col-20110920-d13 | fichas/colegiado/2011-19.md |
 | art. 30 | decisao-colegiado | RJ2012/6520 | 2012-07-31 | nao-provido | cvm-col-20120731-d04 | fichas/colegiado/2012-13.md |
 | art. 30 | decisao-colegiado | RJ2012/11715 | 2013-01-08 | nao-provido | cvm-col-20130108-d01 | fichas/colegiado/2013-01.md |
@@ -156,14 +156,14 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 37 | acordao-crsfn | 06/2012 | 2021-12-07 | condenacao | crsfn-10372-100268-2019-94 | fichas/crsfn/2021-04.md |
+| art. 37 | acordao-crsfn | 06/2012 | 2021-12-07 | condenacao | crsfn-10372-100268-2019-94 | fichas/crsfn/2021-06.md |
 | art. 37, § 1º | decisao-colegiado | RJ2011/0427 | 2013-02-26 | nao-provido | cvm-col-20130226-d01 | fichas/colegiado/2013-05.md |
 
 ## art. 37-A
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 37-A | acordao-crsfn | 06/2012 | 2021-12-07 | condenacao | crsfn-10372-100268-2019-94 | fichas/crsfn/2021-04.md |
+| art. 37-A | acordao-crsfn | 06/2012 | 2021-12-07 | condenacao | crsfn-10372-100268-2019-94 | fichas/crsfn/2021-06.md |
 | art. 37-A | decisao-colegiado | RJ1999/3696 | 2010-05-18 | nao-provido | cvm-col-20100518-d03 | fichas/colegiado/2010-12.md |
 | art. 37-A | decisao-colegiado | RJ2008/3750 | 2010-05-18 | nao-provido | cvm-col-20100518-d07 | fichas/colegiado/2010-13.md |
 | art. 37-A | decisao-colegiado | RJ2011/6936 | 2011-09-20 | nao-provido | cvm-col-20110920-d13 | fichas/colegiado/2011-19.md |
@@ -195,19 +195,19 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 19957.001933/2021-86 | 2026-07-14 | parcial | crsfn-19957-001933-2021-86 | fichas/crsfn/2026-02.md |
-| acordao-crsfn | 19957.008119/2023-54 | 2025-08-12 | condenacao | crsfn-10372-000010-2025-37 | fichas/crsfn/2025-04.md |
-| acordao-crsfn | 19957.005801/2019-17 | 2024-11-12 | parcial | crsfn-10372-100151-2023-97 | fichas/crsfn/2024-06.md |
-| acordao-crsfn | 19957.005174/2019-14 | 2024-07-16 | parcial | crsfn-10372-100089-2023-33 | fichas/crsfn/2024-04.md |
-| acordao-crsfn | 19957.002596/2017-68 | 2023-09-12 | condenacao | crsfn-10372-100085-2022-74 | fichas/crsfn/2023-05.md |
-| acordao-crsfn | 19957.009351/2017-61; SP2017/441 | 2023-05-09 | condenacao | crsfn-10372-100184-2020-94 | fichas/crsfn/2023-04.md |
-| acordao-crsfn | 19957.006511/2019-82 | 2023-03-08 | condenacao | crsfn-10372-100130-2022-91 | fichas/crsfn/2023-02.md |
-| acordao-crsfn | 14/2010 | 2023-03-08 | outro | crsfn-10372-100071-2021-70-2 | fichas/crsfn/2023-02.md |
-| acordao-crsfn | 19957.003798/2017-27; SP2017/316 | 2022-07-12 | condenacao | crsfn-10372-100179-2020-81 | fichas/crsfn/2022-04.md |
-| acordao-crsfn | 19957.005452/2016-82 | 2022-07-12 | condenacao | crsfn-10372-100175-2020-01 | fichas/crsfn/2022-04.md |
-| acordao-crsfn | 19957.009864/2019-34; RJ2019/7806 | 2022-07-12 | condenacao | crsfn-10372-100057-2021-76 | fichas/crsfn/2022-04.md |
-| acordao-crsfn | RJ2014/3616 | 2022-04-12 | condenacao | crsfn-10372-100225-2019-17 | fichas/crsfn/2022-02.md |
-| acordao-crsfn | RJ2014/578 | 2021-12-08 | condenacao | crsfn-10372-100245-2019-80 | fichas/crsfn/2021-05.md |
+| acordao-crsfn | 19957.001933/2021-86 | 2026-07-14 | parcial | crsfn-19957-001933-2021-86 | fichas/crsfn/2026-03.md |
+| acordao-crsfn | 19957.008119/2023-54 | 2025-08-12 | condenacao | crsfn-10372-000010-2025-37 | fichas/crsfn/2025-05.md |
+| acordao-crsfn | 19957.005801/2019-17 | 2024-11-12 | parcial | crsfn-10372-100151-2023-97 | fichas/crsfn/2024-08.md |
+| acordao-crsfn | 19957.005174/2019-14 | 2024-07-16 | parcial | crsfn-10372-100089-2023-33 | fichas/crsfn/2024-05.md |
+| acordao-crsfn | 19957.002596/2017-68 | 2023-09-12 | condenacao | crsfn-10372-100085-2022-74 | fichas/crsfn/2023-07.md |
+| acordao-crsfn | 19957.009351/2017-61; SP2017/441 | 2023-05-09 | condenacao | crsfn-10372-100184-2020-94 | fichas/crsfn/2023-05.md |
+| acordao-crsfn | 19957.006511/2019-82 | 2023-03-08 | condenacao | crsfn-10372-100130-2022-91 | fichas/crsfn/2023-03.md |
+| acordao-crsfn | 14/2010 | 2023-03-08 | outro | crsfn-10372-100071-2021-70-2 | fichas/crsfn/2023-03.md |
+| acordao-crsfn | 19957.003798/2017-27; SP2017/316 | 2022-07-12 | condenacao | crsfn-10372-100179-2020-81 | fichas/crsfn/2022-05.md |
+| acordao-crsfn | 19957.005452/2016-82 | 2022-07-12 | condenacao | crsfn-10372-100175-2020-01 | fichas/crsfn/2022-05.md |
+| acordao-crsfn | 19957.009864/2019-34; RJ2019/7806 | 2022-07-12 | condenacao | crsfn-10372-100057-2021-76 | fichas/crsfn/2022-05.md |
+| acordao-crsfn | RJ2014/3616 | 2022-04-12 | condenacao | crsfn-10372-100225-2019-17 | fichas/crsfn/2022-03.md |
+| acordao-crsfn | RJ2014/578 | 2021-12-08 | condenacao | crsfn-10372-100245-2019-80 | fichas/crsfn/2021-06.md |
 | decisao-colegiado | 19957.000756/2018-15 | 2019-09-24 | nao-provido | cvm-col-20190924-d1549 | fichas/colegiado/2019-15.md |
 | decisao-colegiado | 19957.011525/2017-56 | 2018-02-06 | nao-provido | cvm-col-20180206-d0916 | fichas/colegiado/2018-02.md |
 | decisao-colegiado | RJ2012/11394 | 2013-05-14 | nao-provido | cvm-col-20130514-d05 | fichas/colegiado/2013-10.md |

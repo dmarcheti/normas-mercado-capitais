@@ -12,8 +12,8 @@ Norma: fora do acervo.
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 1º | termo-compromisso | 19957.000102/2019-72 | 2019-08-27 | aceito | cvm-col-20190827-d1508 | fichas/tc/2019-05.md |
-| art. 1º | pas | 19957.007430/2019-08 | 2022-12-22 | parcial | cvm-pas-19957-007430-2019-08 | fichas/pas/2022-07.md |
-| art. 1º | pas | 19957.008143/2018-26 | 2023-12-20 | parcial | cvm-pas-19957-008143-2018-26 | fichas/pas/2023-09.md |
+| art. 1º | pas | 19957.007430/2019-08 | 2022-12-22 | parcial | cvm-pas-19957-007430-2019-08 | fichas/pas/2022-13.md |
+| art. 1º | pas | 19957.008143/2018-26 | 2023-12-20 | parcial | cvm-pas-19957-008143-2018-26 | fichas/pas/2023-18.md |
 
 ## art. 3º
 
@@ -35,7 +35,7 @@ Norma: fora do acervo.
 | decisao-colegiado | 19957.000951/2021-41 | 2021-02-23 | outro | cvm-col-20210223-d2079 | fichas/colegiado/2021-04.md |
 | decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
 | decisao-colegiado | 01/2019; 19957.002812/2019-37 | 2020-01-22 | outro | cvm-col-20200122-d1382 | fichas/colegiado/2020-01.md |
-| pas | 19957.007006/2017-93; RJ2017/4214 | 2019-10-22 | condenacao | cvm-pas-19957-007006-2017-93 | fichas/pas/2019-09.md |
+| pas | 19957.007006/2017-93; RJ2017/4214 | 2019-10-22 | condenacao | cvm-pas-19957-007006-2017-93 | fichas/pas/2019-17.md |
 | decisao-colegiado | 592/2017; 19957.002812/2019-37 | 2019-04-22 | outro | cvm-col-20190422-d1382 | fichas/colegiado/2019-07.md |
 
 Fim do subíndice.

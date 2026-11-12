@@ -11,13 +11,13 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 1º | pas | 05/2000 | 2004-11-11 | parcial | cvm-pas-05-2000 | fichas/pas/2004-07.md |
+| art. 1º | pas | 05/2000 | 2004-11-11 | parcial | cvm-pas-05-2000 | fichas/pas/2004-14.md |
 
 ## art. 2º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 2º | pas | 05/2000 | 2004-11-11 | parcial | cvm-pas-05-2000 | fichas/pas/2004-07.md |
+| art. 2º | pas | 05/2000 | 2004-11-11 | parcial | cvm-pas-05-2000 | fichas/pas/2004-14.md |
 
 ## art. 3º
 
@@ -29,7 +29,7 @@ Norma: fora do acervo.
 | art. 3º | decisao-antiga | — | 1998-01-09 | — | cvm-dec-1998-0001 | fichas/decisoes-antigas/1998-15.md |
 | art. 3º | decisao-antiga | — | 1999-01-29 | — | cvm-dec-1999-0001 | fichas/decisoes-antigas/1999-28.md |
 | art. 3º | decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
-| art. 3º | pas | 05/2000 | 2004-11-11 | parcial | cvm-pas-05-2000 | fichas/pas/2004-07.md |
+| art. 3º | pas | 05/2000 | 2004-11-11 | parcial | cvm-pas-05-2000 | fichas/pas/2004-14.md |
 
 ## Citada sem dispositivo identificado
 

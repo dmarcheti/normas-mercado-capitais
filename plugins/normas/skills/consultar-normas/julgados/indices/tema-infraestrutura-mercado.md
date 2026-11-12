@@ -38,350 +38,350 @@ Este subíndice tem 387 linhas e uma leitura única é cortada em silêncio pert
 | 2002 | 375 |
 | 2000 | 385 |
 
-| Tipo | Processo | Data | Resultado | Id | Ficha |
-|---|---|---|---|---|---|
-| decisao-colegiado | 19957.002624/2026-38 | 2026-09-01 | deferido | cvm-col-20260901-d3607 | fichas/colegiado/2026-03.md |
-| decisao-colegiado | 19957.002560/2026-75 | 2026-05-06 | parcial | cvm-col-20260506-d3508 | fichas/colegiado/2026-02.md |
-| decisao-colegiado | 19957.008271/2023-37 | 2025-12-02 | deferido | cvm-col-20251202-d3333 | fichas/colegiado/2025-11.md |
-| decisao-colegiado | 19957.015727/2022-34 | 2025-12-02 | deferido | cvm-col-20251202-d3332 | fichas/colegiado/2025-11.md |
-| decisao-colegiado | 19957.008271/2023-37 | 2025-11-25 | — | cvm-col-20251125-d3333 | fichas/colegiado/2025-11.md |
-| decisao-colegiado | 19957.015727/2022-34 | 2025-11-25 | — | cvm-col-20251125-d3332 | fichas/colegiado/2025-11.md |
-| decisao-colegiado | 19957.009318/2025-41 | 2025-10-07 | — | cvm-col-20251007-d3378 | fichas/colegiado/2025-10.md |
-| decisao-colegiado | 19957.000263/2025-12 | 2025-09-09 | nao-provido | cvm-col-20250909-d3351 | fichas/colegiado/2025-09.md |
-| decisao-colegiado | 19957.008271/2023-37 | 2025-09-02 | — | cvm-col-20250902-d3333 | fichas/colegiado/2025-09.md |
-| decisao-colegiado | 19957.015727/2022-34 | 2025-09-02 | — | cvm-col-20250902-d3332 | fichas/colegiado/2025-09.md |
-| decisao-colegiado | 19957.011117/2024-23; 19957.011105/2024-07 | 2025-08-26 | deferido | cvm-col-20250826-d3215-3243 | fichas/colegiado/2025-08.md |
-| decisao-colegiado | 19957.012698/2023-30 | 2025-07-08 | deferido | cvm-col-20250708-d3211 | fichas/colegiado/2025-06.md |
-| decisao-colegiado | 19957.019169/2024-48 | 2025-05-20 | deferido | cvm-col-20250520-d3277 | fichas/colegiado/2025-04.md |
-| decisao-colegiado | 19957.002090/2023-05 | 2025-05-06 | nao-provido | cvm-col-20250506-d3242 | fichas/colegiado/2025-04.md |
-| decisao-colegiado | 19957.003306/2025-11 | 2025-04-15 | deferido | cvm-col-20250415-d3262 | fichas/colegiado/2025-04.md |
-| decisao-colegiado | 19957.011105/2024-07 | 2025-04-01 | deferido | cvm-col-20250401-d3243 | fichas/colegiado/2025-03.md |
-| decisao-colegiado | 19957.002090/2023-05 | 2025-04-01 | — | cvm-col-20250401-d3242 | fichas/colegiado/2025-03.md |
-| decisao-colegiado | 19957.011117/2024-23 | 2025-01-28 | deferido | cvm-col-20250128-d3215 | fichas/colegiado/2025-01.md |
-| decisao-colegiado | 19957.012698/2023-30 | 2025-01-28 | — | cvm-col-20250128-d3211 | fichas/colegiado/2025-01.md |
-| decisao-colegiado | 19957.008829/2020-31 | 2024-12-20 | deferido | cvm-col-20241220-d3192 | fichas/colegiado/2024-14.md |
-| decisao-colegiado | 06/2023; 19957.012068/2022-84 | 2024-10-30 | outro | cvm-col-20241030-d2985 | fichas/colegiado/2024-12.md |
-| decisao-colegiado | 19957.009328/2023-15 | 2024-10-29 | outro | cvm-col-20241029-d3112 | fichas/colegiado/2024-12.md |
-| decisao-colegiado | 19957.003053/2023-14 | 2024-10-08 | deferido | cvm-col-20241008-d2875 | fichas/colegiado/2024-11.md |
-| decisao-colegiado | 19957.002097/2016-90 | 2024-08-13 | parcial | cvm-col-20240813-d1410 | fichas/colegiado/2024-08.md |
-| decisao-colegiado | 19957.009328/2023-15 | 2024-08-06 | deferido | cvm-col-20240806-d3112 | fichas/colegiado/2024-08.md |
-| decisao-colegiado | 19957.012350/2022-61 | 2024-07-02 | provido | cvm-col-20240702-d2877 | fichas/colegiado/2024-07.md |
-| decisao-colegiado | 19957.012349/2022-37 | 2024-07-02 | provido | cvm-col-20240702-d2876 | fichas/colegiado/2024-07.md |
-| decisao-colegiado | 19957.012563/2023-74 | 2024-04-02 | deferido | cvm-col-20240402-d3045 | fichas/colegiado/2024-04.md |
-| decisao-colegiado | 19957.014328/2023-37 | 2024-03-26 | deferido | cvm-col-20240326-d3041 | fichas/colegiado/2024-04.md |
-| decisao-colegiado | 19957.012679/2022-22 | 2024-02-06 | deferido | cvm-col-20240206-d2846 | fichas/colegiado/2024-02.md |
-| decisao-colegiado | 19957.002097/2016-90 | 2024-01-30 | — | cvm-col-20240130-d1410 | fichas/colegiado/2024-01.md |
-| decisao-colegiado | 19957.001605/2021-80 | 2024-01-23 | deferido | cvm-col-20240123-d2482 | fichas/colegiado/2024-01.md |
-| decisao-colegiado | 19957.012669/2023-78 | 2023-12-05 | deferido | cvm-col-20231205-d2969 | fichas/colegiado/2023-13.md |
-| decisao-colegiado | 19957.009938/2021-57 | 2023-09-13 | — | cvm-col-20230913-d2936 | fichas/colegiado/2023-10.md |
-| decisao-colegiado | 19957.001584/2023-64 | 2023-07-11 | deferido | cvm-col-20230711-d2350 | fichas/colegiado/2023-07.md |
-| decisao-colegiado | 19957.001322/2023-08 | 2023-07-11 | parcial | cvm-col-20230711-d1803 | fichas/colegiado/2023-07.md |
-| decisao-colegiado | 19957.002234/2023-15 | 2023-06-27 | deferido | cvm-col-20230627-d2881 | fichas/colegiado/2023-07.md |
-| decisao-colegiado | 19957.003053/2023-14 | 2023-06-27 | deferido | cvm-col-20230627-d2875 | fichas/colegiado/2023-07.md |
-| decisao-colegiado | 19957.007951/2021-71 | 2023-06-27 | outro | cvm-col-20230627-d2818 | fichas/colegiado/2023-07.md |
-| decisao-colegiado | 874/2021; 19957.004670/2021-67 | 2023-05-02 | parcial | cvm-col-20230502-d2498 | fichas/colegiado/2023-04.md |
-| decisao-colegiado | 19957.015402/2022-51 | 2023-04-18 | — | cvm-col-20230418-d2844 | fichas/colegiado/2023-04.md |
-| decisao-colegiado | 19957.015013/2022-26 | 2023-04-11 | deferido | cvm-col-20230411-d2811 | fichas/colegiado/2023-04.md |
-| decisao-colegiado | 19957.015627/2022-16 | 2023-04-04 | outro | cvm-col-20230404-d2819 | fichas/colegiado/2023-04.md |
-| decisao-colegiado | 19957.007951/2021-71 | 2023-03-28 | — | cvm-col-20230328-d2818 | fichas/colegiado/2023-03.md |
-| decisao-colegiado | 19957.012745/2022-64 | 2023-03-07 | deferido | cvm-col-20230307-d2810 | fichas/colegiado/2023-03.md |
-| decisao-colegiado | 19957.012631/2022-14 | 2023-03-07 | deferido | cvm-col-20230307-d2809 | fichas/colegiado/2023-03.md |
-| decisao-colegiado | 19957.012255/2022-68 | 2023-01-10 | deferido | cvm-col-20230110-d2780 | fichas/colegiado/2023-01.md |
-| decisao-colegiado | 19957.014318/2022-11 | 2022-12-20 | deferido | cvm-col-20221220-d2748 | fichas/colegiado/2022-17.md |
-| decisao-colegiado | 19957.012664/2022-64 | 2022-12-20 | parcial | cvm-col-20221220-d2727 | fichas/colegiado/2022-17.md |
-| decisao-colegiado | 873/2021; 19957.003348/2021-11 | 2022-11-29 | indeferido | cvm-col-20221129-d2728 | fichas/colegiado/2022-16.md |
-| decisao-colegiado | 19957.012664/2022-64 | 2022-11-22 | — | cvm-col-20221122-d2727 | fichas/colegiado/2022-15.md |
-| decisao-colegiado | 19957.012075/2022-86 | 2022-10-25 | provido | cvm-col-20221025-d2711 | fichas/colegiado/2022-15.md |
-| decisao-colegiado | 19957.005800/2022-60 | 2022-10-04 | outro | cvm-col-20221004-d2695 | fichas/colegiado/2022-14.md |
-| decisao-colegiado | 19957.011139/2022-21 | 2022-10-04 | parcial | cvm-col-20221004-d2694 | fichas/colegiado/2022-14.md |
-| decisao-colegiado | 00783.002822/2018-01 | 2022-07-12 | deferido | cvm-col-20220712-d2268 | fichas/colegiado/2022-11.md |
-| decisao-colegiado | 09/2019; 19957.002618/2016-17 | 2022-05-16 | — | cvm-col-20220516-d2676 | fichas/colegiado/2022-08.md |
-| decisao-colegiado | 09/2019; 19957.002618/2016-17 | 2022-05-11 | — | cvm-col-20220511-d2676-r2 | fichas/colegiado/2022-07.md |
-| decisao-colegiado | 19957.003975/2022-32 | 2022-05-03 | deferido | cvm-col-20220503-d2573 | fichas/colegiado/2022-07.md |
-| decisao-colegiado | 19957.010659/2021-36 | 2022-03-22 | deferido | cvm-col-20220322-d2537 | fichas/colegiado/2022-04.md |
-| decisao-colegiado | 19957.004670/2021-67 | 2022-03-04 | deferido | cvm-col-20220304-d2498 | fichas/colegiado/2022-02.md |
-| decisao-colegiado | 19957.010175/2021-97 | 2022-01-11 | deferido | cvm-col-20220111-d2458 | fichas/colegiado/2022-01.md |
-| decisao-colegiado | 19957.009370/2021-74 | 2021-12-21 | deferido | cvm-col-20211221-d2442 | fichas/colegiado/2021-23.md |
-| decisao-colegiado | 19957.002097/2016-90 | 2021-12-07 | deferido | cvm-col-20211207-d1410 | fichas/colegiado/2021-21.md |
-| decisao-colegiado | 19957.004836/2020-64 | 2021-11-23 | deferido | cvm-col-20211123-d2389 | fichas/colegiado/2021-20.md |
-| decisao-colegiado | 19957.005260/2020-52 | 2021-11-16 | provido | cvm-col-20211116-d2384 | fichas/colegiado/2021-19.md |
-| decisao-colegiado | 19957.004206/2021-71 | 2021-10-26 | deferido | cvm-col-20211026-d2350 | fichas/colegiado/2021-18.md |
-| decisao-colegiado | 19957.007076/2019-11 | 2021-10-05 | deferido | cvm-col-20211005-d2329 | fichas/colegiado/2021-16.md |
-| decisao-colegiado | 19957.006523/2021-21 | 2021-09-28 | deferido | cvm-col-20210928-d2319 | fichas/colegiado/2021-16.md |
-| decisao-colegiado | 19957.002231/2020-39 | 2021-08-31 | deferido | cvm-col-20210831-d2289 | fichas/colegiado/2021-15.md |
-| decisao-colegiado | 19957.005552/2021-76 | 2021-08-24 | deferido | cvm-col-20210824-d2284 | fichas/colegiado/2021-14.md |
-| decisao-colegiado | 19957.005890/2019-93 | 2021-08-24 | deferido | cvm-col-20210824-d2276 | fichas/colegiado/2021-14.md |
-| decisao-colegiado | 00783.002822/2018-01 | 2021-08-10 | outro | cvm-col-20210810-d2268 | fichas/colegiado/2021-13.md |
-| decisao-colegiado | 19957.004945/2019-48 | 2021-06-08 | outro | cvm-col-20210608-d1747 | fichas/colegiado/2021-09.md |
-| decisao-colegiado | 19957.003877/2020-33 | 2021-06-01 | parcial | cvm-col-20210601-d2196 | fichas/colegiado/2021-09.md |
-| decisao-colegiado | 19957.003282/2021-69 | 2021-06-01 | deferido | cvm-col-20210601-d2195 | fichas/colegiado/2021-09.md |
-| decisao-colegiado | 19957.002309/2021-04 | 2021-06-01 | nao-provido | cvm-col-20210601-d2191 | fichas/colegiado/2021-09.md |
-| decisao-colegiado | 19957.008087/2020-44 | 2021-05-25 | nao-provido | cvm-col-20210525-d2188 | fichas/colegiado/2021-09.md |
-| decisao-colegiado | 09/2019; 19957.002618/2016-17 | 2021-05-12 | — | cvm-col-20210512-d2676 | fichas/colegiado/2021-08.md |
-| decisao-colegiado | 19957.002936/2021-37 | 2021-05-11 | deferido | cvm-col-20210511-d2160 | fichas/colegiado/2021-08.md |
-| decisao-colegiado | 19957.008889/2020-54 | 2021-05-04 | deferido | cvm-col-20210504-d2156 | fichas/colegiado/2021-08.md |
-| decisao-colegiado | 19957.008756/2020-88 | 2021-04-20 | nao-provido | cvm-col-20210420-d2138 | fichas/colegiado/2021-07.md |
-| decisao-colegiado | 19957.006526/2020-84 | 2021-02-09 | deferido | cvm-col-20210209-d2051 | fichas/colegiado/2021-02.md |
-| decisao-colegiado | 19957.002097/2016-90 | 2020-12-15 | deferido | cvm-col-20201215-d1410 | fichas/colegiado/2020-21.md |
-| decisao-colegiado | 19957.004945/2019-48 | 2020-12-08 | deferido | cvm-col-20201208-d1747 | fichas/colegiado/2020-21.md |
-| decisao-colegiado | 19957.006850/2020-01 | 2020-11-03 | deferido | cvm-col-20201103-d1961 | fichas/colegiado/2020-18.md |
-| decisao-colegiado | 19957.006368/2020-62 | 2020-10-27 | deferido | cvm-col-20201027-d1960 | fichas/colegiado/2020-18.md |
-| decisao-colegiado | 19957.006384/2020-55 | 2020-10-20 | outro | cvm-col-20201020-d1958 | fichas/colegiado/2020-17.md |
-| decisao-colegiado | 19957.005839/2020-15 | 2020-09-22 | deferido | cvm-col-20200922-d1919 | fichas/colegiado/2020-16.md |
-| termo-compromisso | 19957.010224/2019-77 | 2020-09-15 | aceito | cvm-col-20200915-d1911 | fichas/tc/2020-06.md |
-| decisao-colegiado | 19957.002097/2016-90 | 2020-08-04 | parcial | cvm-col-20200804-d1410 | fichas/colegiado/2020-12.md |
-| decisao-colegiado | 19957.004294/2020-20 | 2020-07-07 | deferido | cvm-col-20200707-d1850 | fichas/colegiado/2020-11.md |
-| decisao-colegiado | 19957.003410/2020-93 | 2020-06-16 | provido | cvm-col-20200616-d1835 | fichas/colegiado/2020-10.md |
-| decisao-colegiado | 19957.001871/2019-98 | 2020-06-16 | deferido | cvm-col-20200616-d1746 | fichas/colegiado/2020-10.md |
-| decisao-colegiado | 19957.003490/2020-87 | 2020-05-26 | nao-provido | cvm-col-20200526-d1817 | fichas/colegiado/2020-09.md |
-| decisao-colegiado | 19957.002253/2019-65 | 2020-05-12 | deferido | cvm-col-20200512-d1803 | fichas/colegiado/2020-08.md |
-| decisao-colegiado | 19957.002577/2020-37 | 2020-05-05 | nao-provido | cvm-col-20200505-d1798 | fichas/colegiado/2020-08.md |
-| decisao-colegiado | 19957.001747/2020-66 | 2020-04-07 | deferido | cvm-col-20200407-d1769 | fichas/colegiado/2020-06.md |
-| decisao-colegiado | 19957.001871/2019-98 | 2020-03-17 | deferido | cvm-col-20200317-d1746 | fichas/colegiado/2020-05.md |
-| decisao-colegiado | 19957.004945/2019-48 | 2020-03-10 | nao-provido | cvm-col-20200310-d1747 | fichas/colegiado/2020-05.md |
-| decisao-colegiado | 19957.001210/2020-04 | 2020-03-10 | deferido | cvm-col-20200310-d1742 | fichas/colegiado/2020-04.md |
-| decisao-colegiado | 19957.010576/2019-22 | 2020-02-18 | nao-provido | cvm-col-20200218-d1722 | fichas/colegiado/2020-04.md |
-| decisao-colegiado | 461/2007; 19957.010873/2019-78 | 2019-12-10 | deferido | cvm-col-20191210-d1637 | fichas/colegiado/2019-20.md |
-| decisao-colegiado | 461/2007; 19957.002618/2016-17 | 2019-11-13 | — | cvm-col-20191113-d2676 | fichas/colegiado/2019-18.md |
-| decisao-colegiado | 19957.009391/2019-75 | 2019-10-29 | nao-provido | cvm-col-20191029-d1586 | fichas/colegiado/2019-17.md |
-| decisao-colegiado | 19957.004306/2019-82 | 2019-07-02 | deferido | cvm-col-20190702-d1460 | fichas/colegiado/2019-11.md |
-| decisao-colegiado | 19957.005032/2019-49 | 2019-07-02 | parcial | cvm-col-20190702-d1408 | fichas/colegiado/2019-10.md |
-| decisao-colegiado | 19957.007838/2018-91 | 2019-06-04 | nao-provido | cvm-col-20190604-d1419 | fichas/colegiado/2019-09.md |
-| decisao-colegiado | 19957.002097/2016-90 | 2019-05-21 | outro | cvm-col-20190521-d1410 | fichas/colegiado/2019-08.md |
-| decisao-colegiado | 19957.010577/2018-96 | 2019-05-14 | outro | cvm-col-20190514-d1400 | fichas/colegiado/2019-08.md |
-| decisao-colegiado | SP2011/0036 | 2019-04-22 | deferido | cvm-col-20190422-d7688 | fichas/colegiado/2019-07.md |
-| decisao-colegiado | 19957.006590/2018-41 | 2019-01-15 | deferido | cvm-col-20190115-d1277 | fichas/colegiado/2019-01.md |
-| decisao-colegiado | 19957.002618/2016-17 | 2018-11-21 | — | cvm-col-20181121-d2676 | fichas/colegiado/2018-20.md |
-| decisao-colegiado | 19957.002098/2016-34 | 2018-09-25 | deferido | cvm-col-20180925-d1175 | fichas/colegiado/2018-17.md |
-| decisao-colegiado | 19957.003559/2017-77 | 2018-07-17 | deferido | cvm-col-20180717-d1092 | fichas/colegiado/2018-13.md |
-| decisao-colegiado | 19957.004550/2018-64 | 2018-05-15 | deferido | cvm-col-20180515-d103918 | fichas/colegiado/2018-09.md |
-| decisao-colegiado | 19957.002044/2018-31 | 2018-03-29 | deferido | cvm-col-20180329-d1002 | fichas/colegiado/2018-07.md |
-| decisao-colegiado | 19957.002044/2018-31 | 2018-03-27 | outro | cvm-col-20180327-d1002 | fichas/colegiado/2018-06.md |
-| decisao-colegiado | 00783.002948/2017-96 | 2017-11-28 | nao-provido | cvm-col-20171128-d0855 | fichas/colegiado/2017-19.md |
-| decisao-colegiado | 19957.002890/2015-16 | 2017-11-21 | parcial | cvm-col-20171121-d9228 | fichas/colegiado/2017-19.md |
-| decisao-colegiado | 19957.004373/2017-35 | 2017-06-13 | deferido | cvm-col-20170613-d0708 | fichas/colegiado/2017-11.md |
-| decisao-colegiado | 19957.005458/2017-31 | 2017-06-06 | deferido | cvm-col-20170606-d0700 | fichas/colegiado/2017-11.md |
-| decisao-colegiado | 18/2013; 19957.002916/2017-80 | 2017-04-18 | outro | cvm-col-20170418-d8738 | fichas/colegiado/2017-08.md |
-| decisao-colegiado | 19957.001686/2017-31 | 2017-03-22 | deferido | cvm-col-20170322-d | fichas/colegiado/2017-06.md |
-| decisao-colegiado | 19957.006054/2016-83 | 2017-03-07 | nao-provido | cvm-col-20170307-d0597 | fichas/colegiado/2017-05.md |
-| decisao-colegiado | 19957.002332/2016-23 | 2017-03-07 | nao-provido | cvm-col-20170307-d0591 | fichas/colegiado/2017-05.md |
-| decisao-colegiado | 19957.002115/2016-33 | 2017-02-21 | nao-provido | cvm-col-20170221-d0579 | fichas/colegiado/2017-04.md |
-| decisao-colegiado | 19957.001267/2016-19 | 2017-02-14 | provido | cvm-col-20170214-d0566 | fichas/colegiado/2017-04.md |
-| decisao-colegiado | 19957.001109/2017-40 | 2017-02-06 | — | cvm-col-20170206-d0720 | fichas/colegiado/2017-03.md |
-| decisao-colegiado | 19957.003182/2016-75 | 2017-01-24 | nao-provido | cvm-col-20170124-d0552 | fichas/colegiado/2017-02.md |
-| decisao-colegiado | 19957.002814/2016-83 | 2016-10-11 | outro | cvm-col-20161011-d0389 | fichas/colegiado/2016-20.md |
-| decisao-colegiado | 19957.004523/2016-20 | 2016-10-11 | deferido | cvm-col-20161011-d0293 | fichas/colegiado/2016-20.md |
-| decisao-colegiado | 19957.006353/2016-18 | 2016-10-04 | outro | cvm-col-20161004-d8716 | fichas/colegiado/2016-19.md |
-| decisao-colegiado | 19957.004954/2016-96 | 2016-10-04 | provido | cvm-col-20161004-d0372 | fichas/colegiado/2016-19.md |
-| termo-compromisso | RJ2015/13791 | 2016-09-06 | rejeitado | cvm-col-20160906-d0347 | fichas/tc/2016-04.md |
-| decisao-colegiado | 380/2002; 19957.004832/2016-08 | 2016-08-02 | deferido | cvm-col-20160802-d0326 | fichas/colegiado/2016-15.md |
-| decisao-colegiado | — | 2016-07-19 | outro | cvm-col-20160719-d0292 | fichas/colegiado/2016-14.md |
-| decisao-colegiado | 542/2013; 19957.003593/2016-61 | 2016-06-21 | deferido | cvm-col-20160621-d0252 | fichas/colegiado/2016-12.md |
-| decisao-colegiado | 542/2013; 19957.003593/2016-61 | 2016-06-14 | — | cvm-col-20160614-d0252 | fichas/colegiado/2016-12.md |
-| decisao-colegiado | 19957.001813/2015-31 | 2016-05-31 | outro | cvm-col-20160531-d8716 | fichas/colegiado/2016-10.md |
-| decisao-colegiado | SP2015/0122 | 2016-02-23 | deferido | cvm-col-20160223-d0077 | fichas/colegiado/2016-05.md |
-| decisao-colegiado | SP2015/0122 | 2016-02-11 | — | cvm-col-20160211-d0077 | fichas/colegiado/2016-04.md |
-| decisao-colegiado | 19957.000530/2016-52 | 2016-02-02 | nao-provido | cvm-col-20160202-d0036 | fichas/colegiado/2016-02.md |
-| decisao-colegiado | RJ2015/1263 | 2016-02-02 | nao-provido | cvm-col-20160202-d0031 | fichas/colegiado/2016-02.md |
-| decisao-colegiado | 19957.000991/2015-44 | 2016-01-12 | provido | cvm-col-20160112-d0004 | fichas/colegiado/2016-01.md |
-| decisao-colegiado | 541/2013; 542/2013; 19957.003979/2015-91 | 2015-12-22 | indeferido | cvm-col-20151222-d1239 | fichas/colegiado/2015-25.md |
-| termo-compromisso | SP2013/0295 | 2015-12-15 | aceito | cvm-col-20151215-d9987 | fichas/tc/2015-05.md |
-| decisao-colegiado | SP2015/0210 | 2015-11-17 | parcial | cvm-col-20151117-d8716 | fichas/colegiado/2015-21.md |
-| decisao-colegiado | SP2015/0279 | 2015-10-13 | outro | cvm-col-20151013-d4977 | fichas/colegiado/2015-19.md |
-| decisao-colegiado | 19957.002723/2015-67 | 2015-09-22 | provido | cvm-col-20150922-d9838 | fichas/colegiado/2015-17.md |
-| decisao-colegiado | 19957.002447/2015-37 | 2015-09-08 | nao-provido | cvm-col-20150908-d9826 | fichas/colegiado/2015-16.md |
-| decisao-colegiado | 19957.002366/2015-37 | 2015-09-01 | nao-provido | cvm-col-20150901-d9815 | fichas/colegiado/2015-16.md |
-| decisao-colegiado | RJ2013/9858 | 2015-08-25 | nao-provido | cvm-col-20150825-d9800 | fichas/colegiado/2015-15.md |
-| termo-compromisso | RJ2013/11716 | 2015-08-18 | aceito | cvm-col-20150818-d9790 | fichas/tc/2015-03.md |
-| decisao-colegiado | 19957.002038/2015-31 | 2015-07-14 | provido | cvm-col-20150714-d9764 | fichas/colegiado/2015-13.md |
-| decisao-colegiado | RJ2012/3771 | 2015-07-14 | nao-provido | cvm-col-20150714-d8864 | fichas/colegiado/2015-13.md |
-| decisao-colegiado | 19957.002026/2015-14 | 2015-07-07 | nao-provido | cvm-col-20150707-d9754 | fichas/colegiado/2015-13.md |
-| decisao-colegiado | 19957.001751/2015-67 | 2015-06-23 | nao-provido | cvm-col-20150623-d9722 | fichas/colegiado/2015-11.md |
-| decisao-colegiado | RJ2012/15165 | 2015-06-23 | nao-provido | cvm-col-20150623-d8867 | fichas/colegiado/2015-10.md |
-| decisao-colegiado | 19957.001639/2015-26 | 2015-06-16 | nao-provido | cvm-col-20150616-d9690 | fichas/colegiado/2015-10.md |
-| decisao-colegiado | 19957.001638/2015-81 | 2015-06-16 | nao-provido | cvm-col-20150616-d9689 | fichas/colegiado/2015-10.md |
-| decisao-colegiado | 19957.001518/2015-84 | 2015-06-02 | nao-provido | cvm-col-20150602-d9669 | fichas/colegiado/2015-09.md |
-| decisao-colegiado | 19957.001098/2015-36 | 2015-06-02 | parcial | cvm-col-20150602-d9668 | fichas/colegiado/2015-09.md |
-| decisao-colegiado | 19957.001474/2015-92 | 2015-06-02 | nao-provido | cvm-col-20150602-d9667 | fichas/colegiado/2015-09.md |
-| decisao-colegiado | 19957.001013/2015-10 | 2015-06-02 | nao-provido | cvm-col-20150602-d9666 | fichas/colegiado/2015-09.md |
-| decisao-colegiado | RJ2013/8969 | 2015-05-05 | nao-provido | cvm-col-20150505-d9638 | fichas/colegiado/2015-07.md |
-| decisao-colegiado | RJ2014/12858 | 2015-04-28 | nao-provido | cvm-col-20150428-d9628 | fichas/colegiado/2015-07.md |
-| termo-compromisso | RJ2014/0376 | 2015-04-14 | rejeitado | cvm-col-20150414-d9621 | fichas/tc/2015-02.md |
-| decisao-colegiado | SP2015/0010 | 2015-03-24 | parcial | cvm-col-20150324-d8759 | fichas/colegiado/2015-05.md |
-| decisao-colegiado | RJ2014/14579 | 2015-01-27 | nao-provido | cvm-col-20150127-d9549 | fichas/colegiado/2015-02.md |
-| decisao-colegiado | RJ2014/13700 | 2015-01-21 | nao-provido | cvm-col-20150121-d9543 | fichas/colegiado/2015-02.md |
-| decisao-colegiado | RJ2014/12863; RJ2014/14043; RJ2014/14044; RJ2014/14136; RJ2014/14157; RJ2014/14158; RJ2014/14305; RJ2014/14310; RJ2014/14331; RJ2014/14504; RJ2014/14524; RJ2014/14525 | 2015-01-13 | provido | cvm-col-20150113-d9517 | fichas/colegiado/2015-01.md |
-| decisao-colegiado | RJ2014/7528 | 2015-01-06 | provido | cvm-col-20150106-d9501 | fichas/colegiado/2015-01.md |
-| decisao-colegiado | RJ1987/0913 | 2014-12-02 | nao-provido | cvm-col-20141202-d20 | fichas/colegiado/2014-24.md |
-| decisao-colegiado | RJ2014/5259 | 2014-11-11 | nao-provido | cvm-col-20141111-d08 | fichas/colegiado/2014-21.md |
-| decisao-colegiado | RJ2014/7088 | 2014-10-29 | nao-provido | cvm-col-20141029-d02 | fichas/colegiado/2014-20.md |
-| decisao-colegiado | 541/2013; SP2014/0277 | 2014-09-23 | deferido | cvm-col-20140923-d12 | fichas/colegiado/2014-18.md |
-| decisao-colegiado | SP2013/0521 | 2014-07-29 | deferido | cvm-col-20140729-d05 | fichas/colegiado/2014-14.md |
-| decisao-colegiado | SP2013/0521 | 2014-05-06 | — | cvm-col-20140506-d02 | fichas/colegiado/2014-08.md |
-| decisao-colegiado | — | 2013-12-17 | outro | cvm-col-20131217-d17 | fichas/colegiado/2013-24.md |
-| decisao-colegiado | 09/2013; RJ2013/8780 | 2013-12-10 | outro | cvm-col-20131210-d11 | fichas/colegiado/2013-23.md |
-| decisao-colegiado | 06/2013; RJ2003/11499 | 2013-12-04 | outro | cvm-col-20131204-d01 | fichas/colegiado/2013-23.md |
-| decisao-colegiado | SP2013/0397 | 2013-11-12 | parcial | cvm-col-20131112-d03 | fichas/colegiado/2013-21.md |
-| decisao-colegiado | SP2013/0366 | 2013-11-05 | deferido | cvm-col-20131105-d05 | fichas/colegiado/2013-21.md |
-| decisao-colegiado | RJ2013/8780 | 2013-08-20 | outro | cvm-col-20130820-d04 | fichas/colegiado/2013-15.md |
-| decisao-colegiado | SP2013/0267 | 2013-08-09 | parcial | cvm-col-20130809-d01 | fichas/colegiado/2013-14.md |
-| decisao-colegiado | 05/2013; RJ2013/6438 | 2013-08-06 | deferido | cvm-col-20130806-d06 | fichas/colegiado/2013-14.md |
-| decisao-colegiado | SP2013/0331 | 2013-08-06 | indeferido | cvm-col-20130806-d03 | fichas/colegiado/2013-14.md |
-| decisao-colegiado | SP2013/0267 | 2013-06-18 | outro | cvm-col-20130618-d04 | fichas/colegiado/2013-12.md |
-| decisao-colegiado | RJ2003/11499 | 2013-04-17 | — | cvm-col-20130417-d01 | fichas/colegiado/2013-09.md |
-| decisao-colegiado | RJ2011/13386 | 2013-02-19 | outro | cvm-col-20130219-d17 | fichas/colegiado/2013-05.md |
-| decisao-colegiado | 505/2011; SP2012/0139 | 2013-01-29 | outro | cvm-col-20130129-d15 | fichas/colegiado/2013-03.md |
-| decisao-colegiado | RJ2012/10791 | 2012-10-30 | deferido | cvm-col-20121030-d03 | fichas/colegiado/2012-20.md |
-| decisao-colegiado | SP2012/0138 | 2012-10-16 | outro | cvm-col-20121016-d06 | fichas/colegiado/2012-19.md |
-| decisao-colegiado | SP2009/0204 | 2012-05-22 | deferido | cvm-col-20120522-d05 | fichas/colegiado/2012-09.md |
-| decisao-colegiado | RJ2011/12846 | 2012-04-24 | deferido | cvm-col-20120424-d05 | fichas/colegiado/2012-08.md |
-| decisao-colegiado | SP2011/0253 | 2011-11-16 | deferido | cvm-col-20111116-d11 | fichas/colegiado/2011-25.md |
-| decisao-colegiado | SP2009/0045 | 2011-10-25 | deferido | cvm-col-20111025-d02 | fichas/colegiado/2011-22.md |
-| decisao-colegiado | SP2010/0295 | 2011-07-12 | provido | cvm-col-20110712-d05 | fichas/colegiado/2011-14.md |
-| decisao-colegiado | SP2011/0035 | 2011-07-05 | deferido | cvm-col-20110705-d02 | fichas/colegiado/2011-14.md |
-| decisao-colegiado | SP2011/0040 | 2011-06-21 | deferido | cvm-col-20110621-d03 | fichas/colegiado/2011-13.md |
-| decisao-colegiado | SP2011/0039 | 2011-05-31 | deferido | cvm-col-20110531-d13 | fichas/colegiado/2011-12.md |
-| decisao-colegiado | SP2009/0125 | 2011-03-01 | deferido | cvm-col-20110301-d17 | fichas/colegiado/2011-05.md |
-| termo-compromisso | SP2010/0238 | 2011-03-01 | aceito | cvm-col-20110301-d03 | fichas/tc/2011-01.md |
-| decisao-colegiado | SP2010/0139 | 2011-02-01 | deferido | cvm-col-20110201-d07 | fichas/colegiado/2011-02.md |
-| decisao-colegiado | SP2010/0207 | 2010-12-28 | parcial | cvm-col-20101228-d02 | fichas/colegiado/2010-30.md |
-| decisao-colegiado | SP2010/0275 | 2010-12-14 | deferido | cvm-col-20101214-d02 | fichas/colegiado/2010-29.md |
-| decisao-colegiado | SP2010/0275 | 2010-11-30 | — | cvm-col-20101130-d38 | fichas/colegiado/2010-27.md |
-| decisao-colegiado | — | 2010-09-09 | outro | cvm-col-20100909-d04 | fichas/colegiado/2010-18.md |
-| decisao-colegiado | SP2009/0125 | 2010-08-03 | deferido | cvm-col-20100803-d09 | fichas/colegiado/2010-16.md |
-| decisao-colegiado | — | 2010-07-05 | deferido | cvm-col-20100705-d01 | fichas/colegiado/2010-15.md |
-| decisao-colegiado | SP1999/0374 | 2010-05-25 | nao-provido | cvm-col-20100525-d02 | fichas/colegiado/2010-13.md |
-| decisao-colegiado | RJ2009/11922 | 2010-05-11 | deferido | cvm-col-20100511-d02 | fichas/colegiado/2010-12.md |
-| decisao-colegiado | SP2010/0041 | 2010-03-09 | outro | cvm-col-20100309-d01-r3 | fichas/colegiado/2010-07.md |
-| decisao-colegiado | SP2008/0154 | 2009-11-24 | nao-provido | cvm-col-20091124-d01 | fichas/colegiado/2009-21.md |
-| acordao-crsfn | IA21/1999 | 2009-10-27 | absolvicao | crsfn-7463 | fichas/crsfn/2009-06.md |
-| decisao-colegiado | SP2009/0044 | 2009-10-13 | deferido | cvm-col-20091013-d22 | fichas/colegiado/2009-18.md |
-| acordao-crsfn | 06/02 | 2009-09-30 | arquivamento | crsfn-9590 | fichas/crsfn/2009-05.md |
-| decisao-colegiado | SP2008/0160 | 2009-09-15 | nao-provido | cvm-col-20090915-d09 | fichas/colegiado/2009-16.md |
-| decisao-colegiado | SP2009/0048 | 2009-09-08 | deferido | cvm-col-20090908-d03 | fichas/colegiado/2009-15.md |
-| decisao-colegiado | SP2009/0074; SP2009/0075; SP2009/0076; SP2009/0077; SP2009/0078; SP2009/0079; SP2009/0080; SP2009/0081; SP2009/0082; SP2009/0083; SP2009/0084 | 2009-08-25 | nao-provido | cvm-col-20090825-d02 | fichas/colegiado/2009-15.md |
-| acordao-crsfn | 22/96 | 2009-08-24 | absolvicao | crsfn-11148 | fichas/crsfn/2009-04.md |
-| decisao-colegiado | — | 2009-07-28 | outro | cvm-col-20090728-d14 | fichas/colegiado/2009-14.md |
-| decisao-colegiado | SP2009/0059 | 2009-06-30 | — | cvm-col-20090630-d09 | fichas/colegiado/2009-12.md |
-| decisao-colegiado | — | 2009-04-28 | deferido | cvm-col-20090428-d05 | fichas/colegiado/2009-08.md |
-| decisao-colegiado | SP2009/0033 | 2009-04-08 | deferido | cvm-col-20090408-d01 | fichas/colegiado/2009-07.md |
-| decisao-colegiado | 461/2007; 010/2009 | 2009-03-31 | deferido | cvm-col-20090331-d05 | fichas/colegiado/2009-05.md |
-| decisao-colegiado | SP2008/0099 | 2008-12-19 | deferido | cvm-col-20081219-d01 | fichas/colegiado/2008-28.md |
-| decisao-colegiado | SP2008/0062 | 2008-10-21 | outro | cvm-col-20081021-d10 | fichas/colegiado/2008-23.md |
-| decisao-colegiado | RJ2007/9091 | 2008-10-21 | outro | cvm-col-20081021-d02 | fichas/colegiado/2008-22.md |
-| acordao-crsfn | 37/00 | 2008-08-15 | condenacao | crsfn-7530 | fichas/crsfn/2008-04.md |
-| decisao-colegiado | RJ2008/4558 | 2008-06-24 | outro | cvm-col-20080624-d05 | fichas/colegiado/2008-14.md |
-| decisao-colegiado | 11/2008 | 2008-06-17 | deferido | cvm-col-20080617-d13 | fichas/colegiado/2008-14.md |
-| decisao-colegiado | RJ1990/0386 | 2008-06-05 | outro | cvm-col-20080605-d08 | fichas/colegiado/2008-12.md |
-| decisao-colegiado | — | 2008-04-15 | deferido | cvm-col-20080415-d15 | fichas/colegiado/2008-09.md |
-| decisao-colegiado | SP2005/0311 | 2008-04-15 | deferido | cvm-col-20080415-d02 | fichas/colegiado/2008-09.md |
-| decisao-colegiado | — | 2008-02-26 | parcial | cvm-col-20080226-d41 | fichas/colegiado/2008-05.md |
-| decisao-colegiado | SP2007/0209 | 2007-12-18 | outro | cvm-col-20071218-d15 | fichas/colegiado/2007-26.md |
-| decisao-colegiado | SP2007/0202 | 2007-12-04 | nao-provido | cvm-col-20071204-d04 | fichas/colegiado/2007-24.md |
-| decisao-colegiado | RJ2005/2502 | 2007-11-13 | nao-provido | cvm-col-20071113-d03 | fichas/colegiado/2007-22.md |
-| decisao-colegiado | SP2007/0209 | 2007-10-09 | nao-provido | cvm-col-20071009-d11 | fichas/colegiado/2007-19.md |
-| decisao-colegiado | SP2006/0109 | 2007-10-02 | parcial | cvm-col-20071002-d03 | fichas/colegiado/2007-18.md |
-| decisao-colegiado | SP2007/0144 | 2007-10-02 | deferido | cvm-col-20071002-d02 | fichas/colegiado/2007-18.md |
-| acordao-crsfn | SP-2001-465 | 2007-09-27 | condenacao | crsfn-6297 | fichas/crsfn/2007-02.md |
-| decisao-colegiado | SP2007/0168 | 2007-09-25 | nao-provido | cvm-col-20070925-d06 | fichas/colegiado/2007-18.md |
-| decisao-colegiado | — | 2007-08-27 | outro | cvm-col-20070827-d02 | fichas/colegiado/2007-15.md |
-| pas | 15/2002 | 2007-08-21 | absolvicao | cvm-pas-15-2002 | fichas/pas/2007-05.md |
-| decisao-colegiado | SP2006/0109 | 2007-08-14 | provido | cvm-col-20070814-d01 | fichas/colegiado/2007-14.md |
-| decisao-colegiado | RJ2003/9432 | 2007-07-10 | outro | cvm-col-20070710-d01 | fichas/colegiado/2007-12.md |
-| decisao-colegiado | RJ2007/6837 | 2007-06-14 | provido | cvm-col-20070614-d02 | fichas/colegiado/2007-10.md |
-| decisao-colegiado | SP2007/0075 | 2007-05-08 | deferido | cvm-col-20070508-d04 | fichas/colegiado/2007-07.md |
-| termo-compromisso | SP2005/0173 | 2007-03-20 | aceito | cvm-col-20070320-d02 | fichas/tc/2007-02.md |
-| decisao-colegiado | RJ2005/9423 | 2007-03-14 | outro | cvm-col-20070314-d02 | fichas/colegiado/2007-04.md |
-| decisao-colegiado | RJ2006/1119 | 2007-01-23 | outro | cvm-col-20070123-d07 | fichas/colegiado/2007-02.md |
-| decisao-colegiado | RJ2005/3947 | 2006-11-28 | outro | cvm-col-20061128-d04 | fichas/colegiado/2006-18.md |
-| decisao-colegiado | RJ2005/5894 | 2006-11-22 | deferido | cvm-col-20061122-d09 | fichas/colegiado/2006-17.md |
-| decisao-colegiado | SP2006/0205 | 2006-11-22 | outro | cvm-col-20061122-d08 | fichas/colegiado/2006-17.md |
-| decisao-colegiado | RJ2006/5596 | 2006-11-22 | outro | cvm-col-20061122-d03 | fichas/colegiado/2006-17.md |
-| decisao-colegiado | SP2006/0047 | 2006-11-07 | nao-provido | cvm-col-20061107-d07 | fichas/colegiado/2006-17.md |
-| decisao-colegiado | RJ2006/5968 | 2006-11-07 | deferido | cvm-col-20061107-d05 | fichas/colegiado/2006-17.md |
-| decisao-colegiado | — | 2006-09-26 | — | cvm-col-20060926-d08 | fichas/colegiado/2006-15.md |
-| decisao-colegiado | RJ2006/4320 | 2006-08-15 | outro | cvm-col-20060815-d03 | fichas/colegiado/2006-13.md |
-| decisao-colegiado | SP2005/0160 | 2006-08-08 | indeferido | cvm-col-20060808-d05 | fichas/colegiado/2006-12.md |
-| decisao-colegiado | RJ2002/8450 | 2006-08-08 | deferido | cvm-col-20060808-d01 | fichas/colegiado/2006-12.md |
-| decisao-colegiado | SP2005/0282 | 2006-08-01 | outro | cvm-col-20060801-d03 | fichas/colegiado/2006-12.md |
-| decisao-colegiado | RJ2005/5894 | 2006-07-25 | provido | cvm-col-20060725-d01 | fichas/colegiado/2006-11.md |
-| decisao-colegiado | RJ2005/3947 | 2006-06-13 | deferido | cvm-col-20060613-d08 | fichas/colegiado/2006-09.md |
-| termo-compromisso | RJ2005/8404 | 2006-05-30 | rejeitado | cvm-col-20060530-d08 | fichas/tc/2006-02.md |
-| decisao-colegiado | RJ2006/1119 | 2006-04-25 | deferido | cvm-col-20060425-d03 | fichas/colegiado/2006-07.md |
-| decisao-colegiado | RJ2006/0906 | 2006-04-04 | deferido | cvm-col-20060404-d13 | fichas/colegiado/2006-06.md |
-| decisao-colegiado | RJ2006/0718 | 2006-04-04 | indeferido | cvm-col-20060404-d02 | fichas/colegiado/2006-05.md |
-| decisao-colegiado | SP2006/0050 | 2006-03-21 | deferido | cvm-col-20060321-d06 | fichas/colegiado/2006-05.md |
-| decisao-colegiado | RJ2005/9423 | 2006-01-10 | deferido | cvm-col-20060110-d01 | fichas/colegiado/2006-01.md |
-| decisao-colegiado | RJ2005/7852 | 2006-01-03 | provido | cvm-col-20060103-d04 | fichas/colegiado/2006-01.md |
-| decisao-colegiado | RJ2004/6153 | 2005-12-27 | parcial | cvm-col-20051227-d03 | fichas/colegiado/2005-20.md |
-| decisao-colegiado | SP2005/0311 | 2005-12-20 | indeferido | cvm-col-20051220-d06 | fichas/colegiado/2005-20.md |
-| decisao-colegiado | RJ2005/3104 | 2005-12-20 | outro | cvm-col-20051220-d02 | fichas/colegiado/2005-20.md |
-| decisao-colegiado | SP2005/0310 | 2005-12-13 | outro | cvm-col-20051213-d04 | fichas/colegiado/2005-19.md |
-| decisao-colegiado | RJ2005/6920; RJ2005/7852 | 2005-11-29 | outro | cvm-col-20051129-d03 | fichas/colegiado/2005-18.md |
-| decisao-colegiado | RJ90/0387 | 2005-10-25 | parcial | cvm-col-20051025-d01 | fichas/colegiado/2005-15.md |
-| decisao-colegiado | SP2005/0329 | 2005-09-20 | deferido | cvm-col-20050920-d04 | fichas/colegiado/2005-13.md |
-| decisao-colegiado | SP2005/0282 | 2005-08-23 | — | cvm-col-20050823-d07 | fichas/colegiado/2005-12.md |
-| decisao-colegiado | RJ2005/2108 | 2005-08-09 | outro | cvm-col-20050809-d03 | fichas/colegiado/2005-11.md |
-| decisao-colegiado | RJ2004/2758 | 2005-07-21 | deferido | cvm-col-20050721-d01 | fichas/colegiado/2005-10.md |
-| decisao-colegiado | RJ2004/6153 | 2005-05-31 | parcial | cvm-col-20050531-d01 | fichas/colegiado/2005-08.md |
-| termo-compromisso | SP2002/0235 | 2005-05-16 | aceito | cvm-col-20050516-d01 | fichas/tc/2005-01.md |
-| decisao-colegiado | RJ2004/0140 | 2005-04-27 | outro | cvm-col-20050427-d03 | fichas/colegiado/2005-07.md |
-| decisao-colegiado | RJ90/0387 | 2005-04-12 | parcial | cvm-col-20050412-d03 | fichas/colegiado/2005-06.md |
-| decisao-colegiado | RJ2004/7436 | 2005-03-29 | parcial | cvm-col-20050329-d10 | fichas/colegiado/2005-06.md |
-| decisao-colegiado | SP2005/0154 | 2005-03-29 | deferido | cvm-col-20050329-d08 | fichas/colegiado/2005-06.md |
-| decisao-colegiado | — | 2005-02-15 | deferido | cvm-col-20050215-d04 | fichas/colegiado/2005-03.md |
-| pas | 37/2000 | 2004-12-09 | absolvicao | cvm-pas-37-2000 | fichas/pas/2004-08.md |
-| decisao-colegiado | SP2004/0515 | 2004-11-26 | outro | cvm-col-20041126-d01 | fichas/colegiado/2004-14.md |
-| decisao-colegiado | SP2004/0515 | 2004-11-23 | outro | cvm-col-20041123-d06 | fichas/colegiado/2004-14.md |
-| decisao-colegiado | RJ90/0386 | 2004-10-25 | provido | cvm-col-20041025-d01 | fichas/colegiado/2004-12.md |
-| pas | SP2001/465 | 2004-10-06 | condenacao | cvm-pas-sp2001-0465 | fichas/pas/2004-06.md |
-| decisao-colegiado | RJ2001/4771 | 2004-08-24 | parcial | cvm-col-20040824-d02 | fichas/colegiado/2004-10.md |
-| decisao-colegiado | RJ2003/11185 | 2004-08-05 | outro | cvm-col-20040805-d06 | fichas/colegiado/2004-09.md |
-| decisao-colegiado | RJ2001/4771 | 2004-07-13 | — | cvm-col-20040713-d10 | fichas/colegiado/2004-08.md |
-| decisao-colegiado | RJ2004/1838 | 2004-07-06 | outro | cvm-col-20040706-d04 | fichas/colegiado/2004-08.md |
-| decisao-colegiado | SP2002/0205 | 2004-07-06 | nao-provido | cvm-col-20040706-d02 | fichas/colegiado/2004-08.md |
-| decisao-colegiado | SP2003/0359 | 2004-07-02 | nao-provido | cvm-col-20040702-d06 | fichas/colegiado/2004-08.md |
-| decisao-colegiado | SP2003/0342 | 2004-06-24 | nao-provido | cvm-col-20040624-d10 | fichas/colegiado/2004-07.md |
-| decisao-colegiado | SP2003/0167 | 2004-06-24 | provido | cvm-col-20040624-d02 | fichas/colegiado/2004-07.md |
-| decisao-colegiado | RJ90/0386 | 2004-06-24 | outro | cvm-col-20040624-d01 | fichas/colegiado/2004-07.md |
-| decisao-colegiado | SP2002/0274 | 2004-06-15 | nao-provido | cvm-col-20040615-d02 | fichas/colegiado/2004-06.md |
-| decisao-colegiado | SP1995/0053 | 2004-06-15 | provido | cvm-col-20040615-d01 | fichas/colegiado/2004-06.md |
-| decisao-colegiado | RJ2004/1949 | 2004-06-01 | provido | cvm-col-20040601-d01 | fichas/colegiado/2004-06.md |
-| decisao-colegiado | RJ99/5785 | 2004-05-25 | nao-provido | cvm-col-20040525-d01 | fichas/colegiado/2004-06.md |
-| decisao-colegiado | RJ90/0387 | 2004-05-18 | nao-provido | cvm-col-20040518-d03 | fichas/colegiado/2004-06.md |
-| decisao-colegiado | RJ2001/4771 | 2004-05-11 | parcial | cvm-col-20040511-d01 | fichas/colegiado/2004-05.md |
-| decisao-colegiado | SP2003/0167 | 2004-05-04 | — | cvm-col-20040504-d01 | fichas/colegiado/2004-05.md |
-| decisao-colegiado | SP2003/0359 | 2004-04-20 | nao-provido | cvm-col-20040420-d02 | fichas/colegiado/2004-05.md |
-| decisao-colegiado | SP1995/0053 | 2004-03-23 | — | cvm-col-20040323-d01 | fichas/colegiado/2004-04.md |
-| decisao-colegiado | SP2002/0572 | 2004-03-02 | nao-provido | cvm-col-20040302-d01 | fichas/colegiado/2004-02.md |
-| decisao-colegiado | SP2003/0464 | 2004-01-21 | nao-provido | cvm-col-20040121-d06 | fichas/colegiado/2004-01.md |
-| decisao-colegiado | SP2003/0342 | 2003-12-22 | nao-provido | cvm-col-20031222-d01 | fichas/colegiado/2003-14.md |
-| decisao-colegiado | SP2003/0151 | 2003-11-25 | nao-provido | cvm-col-20031125-d02 | fichas/colegiado/2003-13.md |
-| decisao-colegiado | SP99/0255 | 2003-11-18 | outro | cvm-col-20031118-d01 | fichas/colegiado/2003-13.md |
-| decisao-colegiado | — | 2003-10-28 | deferido | cvm-col-20031028-d08 | fichas/colegiado/2003-12.md |
-| decisao-colegiado | 387/2003 | 2003-07-29 | outro | cvm-col-20030729-d03 | fichas/colegiado/2003-10.md |
-| decisao-colegiado | 384/2003 | 2003-07-29 | outro | cvm-col-20030729-d02 | fichas/colegiado/2003-10.md |
-| decisao-colegiado | RJ2003/0023 | 2003-06-10 | nao-provido | cvm-col-20030610-d01 | fichas/colegiado/2003-07.md |
-| decisao-colegiado | SP2002/0107 | 2003-05-20 | nao-provido | cvm-col-20030520-d04 | fichas/colegiado/2003-06.md |
-| decisao-colegiado | RJ2002/8598 | 2003-05-13 | deferido | cvm-col-20030513-d10 | fichas/colegiado/2003-06.md |
-| decisao-colegiado | SP2001/0227 | 2003-05-13 | provido | cvm-col-20030513-d04 | fichas/colegiado/2003-06.md |
-| decisao-colegiado | RJ2002/8450 | 2003-04-29 | deferido | cvm-col-20030429-d11 | fichas/colegiado/2003-05.md |
-| decisao-colegiado | SP2002/0572 | 2003-04-08 | provido | cvm-col-20030408-d05 | fichas/colegiado/2003-04.md |
-| decisao-colegiado | RJ2002/8450 | 2003-03-12 | outro | cvm-col-20030312-d09 | fichas/colegiado/2003-03.md |
-| decisao-colegiado | RJ2001/7977 | 2003-02-04 | nao-provido | cvm-col-20030204-d03 | fichas/colegiado/2003-02.md |
-| decisao-colegiado | RJ2000/6398 | 2003-02-04 | provido | cvm-col-20030204-d02 | fichas/colegiado/2003-02.md |
-| decisao-colegiado | SP2001/0294 | 2003-01-14 | nao-provido | cvm-col-20030114-d10 | fichas/colegiado/2003-01.md |
-| decisao-colegiado | SP2001/0293 | 2003-01-14 | nao-provido | cvm-col-20030114-d09 | fichas/colegiado/2003-01.md |
-| decisao-colegiado | RJ2000/1894 | 2002-11-22 | nao-provido | cvm-col-20021122-d04 | fichas/colegiado/2002-25.md |
-| decisao-colegiado | RJ2002/5645 | 2002-11-05 | deferido | cvm-col-20021105-d01 | fichas/colegiado/2002-25.md |
-| decisao-colegiado | SP2002/0206 | 2002-10-01 | nao-provido | cvm-col-20021001-d05 | fichas/colegiado/2002-23.md |
-| decisao-colegiado | RJ2002/1330 | 2002-09-20 | provido | cvm-col-20020920-d02 | fichas/colegiado/2002-22.md |
-| decisao-colegiado | — | 2002-08-13 | deferido | cvm-col-20020813-d06 | fichas/colegiado/2002-20.md |
-| decisao-colegiado | SP2001/0274 | 2002-07-03 | parcial | cvm-col-20020703-d05 | fichas/colegiado/2002-15.md |
-| decisao-colegiado | RJ2002/2004 | 2002-05-21 | outro | cvm-col-20020521-d02 | fichas/colegiado/2002-12.md |
-| decisao-colegiado | RJ2002/2415 | 2002-05-14 | — | cvm-col-20020514-d05 | fichas/colegiado/2002-11.md |
-| decisao-colegiado | SP2001/0806 | 2002-04-16 | nao-provido | cvm-col-20020416-d04 | fichas/colegiado/2002-08.md |
-| decisao-colegiado | RJ97/0548 | 2002-02-14 | nao-provido | cvm-col-20020214-d02 | fichas/colegiado/2002-02.md |
-| acordao-crsfn | 15/98 | 2000-07-28 | condenacao | crsfn-3006 | fichas/crsfn/2000-04.md |
+| Tipo | Processo | Data | Resultado | Ementa | Id | Ficha |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.002624/2026-38 | 2026-09-01 | deferido | O Colegiado, acompanhando a SMI, deferiu, por 12 meses, dispensas da RCVM 135 pedidas pela Balcão Agrícola do Brasil S.A.: independência do… | cvm-col-20260901-d3607 | fichas/colegiado/2026-03.md |
+| decisao-colegiado | 19957.002560/2026-75 | 2026-05-06 | parcial | O Colegiado, por maioria, deferiu parcialmente pedido da Inter & Co para descontinuar BDR Nível II Patrocinado: admitiu conversão em BDR… | cvm-col-20260506-d3508 | fichas/colegiado/2026-02.md |
+| decisao-colegiado | 19957.008271/2023-37 | 2025-12-02 | deferido | O Colegiado concedeu à CERC S.A. autorização para funcionar como entidade administradora de mercado de balcão organizado, condicionada à… | cvm-col-20251202-d3333 | fichas/colegiado/2025-11.md |
+| decisao-colegiado | 19957.015727/2022-34 | 2025-12-02 | deferido | O Colegiado, por unanimidade, acompanhando as conclusões da área técnica, concedeu à CERC S.A. autorização para prestar serviços de… | cvm-col-20251202-d3332 | fichas/colegiado/2025-11.md |
+| decisao-colegiado | 19957.008271/2023-37 | 2025-11-25 | — | Pedido da CERC S.A. de autorização para funcionar como administradora de mercado de balcão organizado, com dispensa de divulgar os… | cvm-col-20251125-d3333 | fichas/colegiado/2025-11.md |
+| decisao-colegiado | 19957.015727/2022-34 | 2025-11-25 | — | Pedido da CERC S.A. de autorização para prestar serviços de depósito centralizado de CR, CRA, CRI, debêntures e notas comerciais de… | cvm-col-20251125-d3332 | fichas/colegiado/2025-11.md |
+| decisao-colegiado | 19957.009318/2025-41 | 2025-10-07 | — | Recurso contra indeferimento pela SMI de pedido de autorização para atuar como escriturador de valores mobiliários. O Colegiado iniciou a… | cvm-col-20251007-d3378 | fichas/colegiado/2025-10.md |
+| decisao-colegiado | 19957.000263/2025-12 | 2025-09-09 | nao-provido | O Colegiado negou provimento, por unanimidade, a recurso contra indeferimento pela SMI de autorização para atuar como custodiante de… | cvm-col-20250909-d3351 | fichas/colegiado/2025-09.md |
+| decisao-colegiado | 19957.008271/2023-37 | 2025-09-02 | — | Pedido de autorização para funcionamento da CERC S.A. como entidade administradora de mercado de balcão organizado de valores mobiliários… | cvm-col-20250902-d3333 | fichas/colegiado/2025-09.md |
+| decisao-colegiado | 19957.015727/2022-34 | 2025-09-02 | — | Pedido de autorização da CERC S.A. para prestação de serviços de depósito centralizado. Uma diretora declarou-se impedida (RCVM 45, art… | cvm-col-20250902-d3332 | fichas/colegiado/2025-09.md |
+| decisao-colegiado | 19957.011117/2024-23; 19957.011105/2024-07 | 2025-08-26 | deferido | O Colegiado concedeu, em caráter definitivo, à BEE4 S.A. autorização para prestar serviços de depositária central, atuar como entidade… | cvm-col-20250826-d3215-3243 | fichas/colegiado/2025-08.md |
+| decisao-colegiado | 19957.012698/2023-30 | 2025-07-08 | deferido | O Colegiado deferiu, por unanimidade, pedido de autorização para funcionar como entidade administradora de mercado organizado e de mercado… | cvm-col-20250708-d3211 | fichas/colegiado/2025-06.md |
+| decisao-colegiado | 19957.019169/2024-48 | 2025-05-20 | deferido | O Colegiado autorizou, por unanimidade, a B3 a alterar seus normativos de Acesso, Câmara e Negociação para criar o Participante… | cvm-col-20250520-d3277 | fichas/colegiado/2025-04.md |
+| decisao-colegiado | 19957.002090/2023-05 | 2025-05-06 | nao-provido | O Colegiado, por maioria, acompanhando a SMI e o voto do presidente, negou provimento a recurso da OPEA Securitizadora contra o… | cvm-col-20250506-d3242 | fichas/colegiado/2025-04.md |
+| decisao-colegiado | 19957.003306/2025-11 | 2025-04-15 | deferido | O Colegiado aprovou procedimento diferenciado da Almacenes Éxito S.A. para descontinuar BDR Nível II, com prazo de venda (sale facility)… | cvm-col-20250415-d3262 | fichas/colegiado/2025-04.md |
+| decisao-colegiado | 19957.011105/2024-07 | 2025-04-01 | deferido | O Colegiado, por unanimidade, concedeu à BEE4 autorização para constituir e operar entidade administradora de mercado organizado e mercado… | cvm-col-20250401-d3243 | fichas/colegiado/2025-03.md |
+| decisao-colegiado | 19957.002090/2023-05 | 2025-04-01 | — | Recurso da OPEA Securitizadora S/A contra indeferimento, pela SMI, de dispensa de requisito normativo para atuação como escriturador de… | cvm-col-20250401-d3242 | fichas/colegiado/2025-03.md |
+| decisao-colegiado | 19957.011117/2024-23 | 2025-01-28 | deferido | O Colegiado concedeu à BEE4 S.A. autorização para prestar serviço de depositária central de valores mobiliários escriturais (RCVM 31/2021)… | cvm-col-20250128-d3215 | fichas/colegiado/2025-01.md |
+| decisao-colegiado | 19957.012698/2023-30 | 2025-01-28 | — | Pedidos da SL Tools S.A. de autorização para funcionar como entidade administradora de mercado de balcão organizado e de dispensa de… | cvm-col-20250128-d3211 | fichas/colegiado/2025-01.md |
+| decisao-colegiado | 19957.008829/2020-31 | 2024-12-20 | deferido | O Colegiado, por unanimidade, acompanhando a SMI, concedeu à CSD autorização para prestar serviço de depositário central de valores… | cvm-col-20241220-d3192 | fichas/colegiado/2024-14.md |
+| decisao-colegiado | 06/2023; 19957.012068/2022-84 | 2024-10-30 | outro | O Colegiado aprovou a Resolução CVM nº 220/2024, que eleva o limite de participação de participantes do mercado no capital votante de… | cvm-col-20241030-d2985 | fichas/colegiado/2024-12.md |
+| decisao-colegiado | 19957.009328/2023-15 | 2024-10-29 | outro | O Colegiado tomou conhecimento de que a Balcão Agrícola do Brasil S.A. (BAB) cumpriu as condições da decisão de 06.08.2024: AGE e novo… | cvm-col-20241029-d3112 | fichas/colegiado/2024-12.md |
+| decisao-colegiado | 19957.003053/2023-14 | 2024-10-08 | deferido | O Colegiado, por unanimidade, manteve por prazo indeterminado a dispensa à CIP S.A. (Núclea) do art. 30, I, e do art. 42, §1º, do Anexo II… | cvm-col-20241008-d2875 | fichas/colegiado/2024-11.md |
+| decisao-colegiado | 19957.002097/2016-90 | 2024-08-13 | parcial | O Colegiado deu provimento parcial à proposta da B3 sobre ofertas RLP: converteu em mecanismo definitivo para minicontratos de dólar e… | cvm-col-20240813-d1410 | fichas/colegiado/2024-08.md |
+| decisao-colegiado | 19957.009328/2023-15 | 2024-08-06 | deferido | O Colegiado concedeu à Balcão Agrícola do Brasil S.A. autorização para administrar mercado de balcão organizado de derivativos de… | cvm-col-20240806-d3112 | fichas/colegiado/2024-08.md |
+| decisao-colegiado | 19957.012350/2022-61 | 2024-07-02 | provido | O Colegiado deu provimento a recurso contra indeferimento da SMI e deferiu à Laqus Depositária autorização para atuar como custodiante de… | cvm-col-20240702-d2877 | fichas/colegiado/2024-07.md |
+| decisao-colegiado | 19957.012349/2022-37 | 2024-07-02 | provido | O Colegiado, por unanimidade, acompanhando o voto do Presidente relator, reformou a decisão da SMI que indeferira pedido de autorização… | cvm-col-20240702-d2876 | fichas/colegiado/2024-07.md |
+| decisao-colegiado | 19957.012563/2023-74 | 2024-04-02 | deferido | O Colegiado deferiu pedido da B3 para prover solução tecnológica a transações subsequentes de valores mobiliários captados em plataformas… | cvm-col-20240402-d3045 | fichas/colegiado/2024-04.md |
+| decisao-colegiado | 19957.014328/2023-37 | 2024-03-26 | deferido | O Colegiado, por unanimidade, acompanhando a área técnica, autorizou a B3 e sua controlada BLK a participar do capital da B3 IP Holding e… | cvm-col-20240326-d3041 | fichas/colegiado/2024-04.md |
+| decisao-colegiado | 19957.012679/2022-22 | 2024-02-06 | deferido | Não fornecimento de lista de acionistas. Proc. 19957.012679/2022-22. | cvm-col-20240206-d2846 | fichas/colegiado/2024-02.md |
+| decisao-colegiado | 19957.002097/2016-90 | 2024-01-30 | — | Pedidos no âmbito do programa experimental da B3 relativo às ofertas RLP (Retail Liquidity Provider). O Colegiado deu início à discussão… | cvm-col-20240130-d1410 | fichas/colegiado/2024-01.md |
+| decisao-colegiado | 19957.001605/2021-80 | 2024-01-23 | deferido | O Colegiado deferiu, por unanimidade, nos termos do art. 184, II, da RCVM 135, pedido da Vórtx QR Tokenizadora no Sandbox Regulatório para… | cvm-col-20240123-d2482 | fichas/colegiado/2024-01.md |
+| decisao-colegiado | 19957.012669/2023-78 | 2023-12-05 | deferido | O Colegiado, por unanimidade, acompanhando a área técnica, concedeu as dispensas pleiteadas por BBCE, CRT4 e CSDBr do art. 41, III, da RCVM… | cvm-col-20231205-d2969 | fichas/colegiado/2023-13.md |
+| decisao-colegiado | 19957.009938/2021-57 | 2023-09-13 | — | O Colegiado iniciou a discussão da minuta da Consulta Pública SDM 2/2023, que altera as Resoluções CVM 31, 32, 33, 35/2021 e 175/2022 para… | cvm-col-20230913-d2936 | fichas/colegiado/2023-10.md |
+| decisao-colegiado | 19957.001584/2023-64 | 2023-07-11 | deferido | O Colegiado concedeu dispensa temporária do art. 33, caput, da RCVM 135 (atribuição da auditoria interna a diretor estatutário) à CRT4 até… | cvm-col-20230711-d2350 | fichas/colegiado/2023-07.md |
+| decisao-colegiado | 19957.001322/2023-08 | 2023-07-11 | parcial | O Colegiado concedeu parcialmente as dispensas pleiteadas pela CSD BR da RCVM 135, acompanhando a área técnica (SMI), que propôs deferir a… | cvm-col-20230711-d1803 | fichas/colegiado/2023-07.md |
+| decisao-colegiado | 19957.002234/2023-15 | 2023-06-27 | deferido | O Colegiado concedeu as autorizações pleiteadas pela CIP S.A. (Nuclea), acompanhando a SMI: incorporar as ações da CRT4 – Central de… | cvm-col-20230627-d2881 | fichas/colegiado/2023-07.md |
+| decisao-colegiado | 19957.003053/2023-14 | 2023-06-27 | deferido | O Colegiado, por maioria, concedeu à CIP S.A. (Nuclea) dispensas da RCVM 175/2022 (Anexo II, arts. 30, I, 42, §1º e 36, §4º) por um ano… | cvm-col-20230627-d2875 | fichas/colegiado/2023-07.md |
+| decisao-colegiado | 19957.007951/2021-71 | 2023-06-27 | outro | Retomado após pedido de vista, o Colegiado devolveu à área técnica, por unanimidade, o pedido da B3 de alterar normativos e limitar sua… | cvm-col-20230627-d2818 | fichas/colegiado/2023-07.md |
+| decisao-colegiado | 874/2021; 19957.004670/2021-67 | 2023-05-02 | parcial | O Colegiado, acompanhando a recomendação do Comitê de Sandbox (CDS), deferiu parcialmente os pedidos de alteração da Deliberação CVM nº… | cvm-col-20230502-d2498 | fichas/colegiado/2023-04.md |
+| decisao-colegiado | 19957.015402/2022-51 | 2023-04-18 | — | Proposta de nova versão do Regulamento de Emissores da B3. O Colegiado iniciou a discussão, sem deliberação. Julgamento suspenso por pedido… | cvm-col-20230418-d2844 | fichas/colegiado/2023-04.md |
+| decisao-colegiado | 19957.015013/2022-26 | 2023-04-11 | deferido | O Colegiado, por unanimidade, acompanhando a SMI, concedeu à B3 a autorização (art. 11, V, da RCVM 135/2022) para adquirir 100% do capital… | cvm-col-20230411-d2811 | fichas/colegiado/2023-04.md |
+| decisao-colegiado | 19957.015627/2022-16 | 2023-04-04 | outro | O Colegiado, acompanhando a área técnica, respondeu em tese à consulta da B3 sobre grandes lotes: propostas 1 a 6 admissíveis, sujeitas a… | cvm-col-20230404-d2819 | fichas/colegiado/2023-04.md |
+| decisao-colegiado | 19957.007951/2021-71 | 2023-03-28 | — | Pedido da B3 de autorização (art. 180, I, da RCVM 135/2022) para alterar regulamentos e manuais e uniformizar limitação de responsabilidade… | cvm-col-20230328-d2818 | fichas/colegiado/2023-03.md |
+| decisao-colegiado | 19957.012745/2022-64 | 2023-03-07 | deferido | O Colegiado, por unanimidade, acompanhando a SMI, concedeu à B3 a autorização pleiteada, nos termos do art. 11, V, da RCVM 135/2022, para… | cvm-col-20230307-d2810 | fichas/colegiado/2023-03.md |
+| decisao-colegiado | 19957.012631/2022-14 | 2023-03-07 | deferido | O Colegiado concedeu temporariamente, por unanimidade, as dispensas de requisitos da RCVM 135/2022 pleiteadas pela BBCE – Balcão Brasileiro… | cvm-col-20230307-d2809 | fichas/colegiado/2023-03.md |
+| decisao-colegiado | 19957.012255/2022-68 | 2023-01-10 | deferido | O Colegiado, por unanimidade, acompanhando as áreas técnicas, aprovou a proposta da B3 de alterações nos regulamentos do Nível 1, do Nível… | cvm-col-20230110-d2780 | fichas/colegiado/2023-01.md |
+| decisao-colegiado | 19957.014318/2022-11 | 2022-12-20 | deferido | O Colegiado, por unanimidade e acompanhando a SMI, autorizou a B3 a adquirir 100% da Datastock Tecnologia e Serviços Ltda., operação que… | cvm-col-20221220-d2748 | fichas/colegiado/2022-17.md |
+| decisao-colegiado | 19957.012664/2022-64 | 2022-12-20 | parcial | Na descontinuidade do BDR Nível III da Nu Holdings Ltd., o Colegiado deferiu, por unanimidade, opção adicional de troca por BDR Nível I… | cvm-col-20221220-d2727 | fichas/colegiado/2022-17.md |
+| decisao-colegiado | 873/2021; 19957.003348/2021-11 | 2022-11-29 | indeferido | O Colegiado indeferiu, por unanimidade, acompanhando o Comitê de Sandbox, os pedidos da Basement de prorrogação por 12 meses da autorização… | cvm-col-20221129-d2728 | fichas/colegiado/2022-16.md |
+| decisao-colegiado | 19957.012664/2022-64 | 2022-11-22 | — | Pedido de procedimento diferenciado na descontinuidade do BDR Nível III da Nu Holdings Ltd., com cancelamento de registro de emissor… | cvm-col-20221122-d2727 | fichas/colegiado/2022-15.md |
+| decisao-colegiado | 19957.012075/2022-86 | 2022-10-25 | provido | O Colegiado deu provimento, por unanimidade e acompanhando a SEP, ao recurso da ABRADIN contra a negativa da Eletrobras de fornecer… | cvm-col-20221025-d2711 | fichas/colegiado/2022-15.md |
+| decisao-colegiado | 19957.005800/2022-60 | 2022-10-04 | outro | O Colegiado aprovou, por unanimidade, a metodologia da SMI para definir grandes lotes de negociação (art. 95 da RCVM 135/2022), inspirada… | cvm-col-20221004-d2695 | fichas/colegiado/2022-14.md |
+| decisao-colegiado | 19957.011139/2022-21 | 2022-10-04 | parcial | O Colegiado, por unanimidade, acompanhando a SMI, deferiu à B3 a dilação do prazo do art. 189 da RCVM 135/2022 para até 30 dias após a… | cvm-col-20221004-d2694 | fichas/colegiado/2022-14.md |
+| decisao-colegiado | 00783.002822/2018-01 | 2022-07-12 | deferido | Pedido de autorização para encerramento de fundo de garantia. Proc. SEI 00783.002822/2018-01. | cvm-col-20220712-d2268 | fichas/colegiado/2022-11.md |
+| decisao-colegiado | 09/2019; 19957.002618/2016-17 | 2022-05-16 | — | O Colegiado continuou a discussão dos documentos da Audiência Pública SDM 09/2019 sobre propostas de resolução de autorregulação unificada… | cvm-col-20220516-d2676 | fichas/colegiado/2022-08.md |
+| decisao-colegiado | 09/2019; 19957.002618/2016-17 | 2022-05-11 | — | O Colegiado continuou a discussão de três propostas de resolução, resultantes da Audiência Pública SDM nº 09/2019, sobre autorregulação… | cvm-col-20220511-d2676-r2 | fichas/colegiado/2022-07.md |
+| decisao-colegiado | 19957.003975/2022-32 | 2022-05-03 | deferido | O Colegiado autorizou a B3 a constituir a B3 Digital Assets Serviços Digitais Ltda. para atividades com ativos virtuais (art. 13, V, ICVM… | cvm-col-20220503-d2573 | fichas/colegiado/2022-07.md |
+| decisao-colegiado | 19957.010659/2021-36 | 2022-03-22 | deferido | Proposta de política de aplicações financeiras para o patrimônio do mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.010659/2021-36. | cvm-col-20220322-d2537 | fichas/colegiado/2022-04.md |
+| decisao-colegiado | 19957.004670/2021-67 | 2022-03-04 | deferido | O Colegiado deferiu, acompanhando o CDS, o pedido da BEE4 e da BEEGIN para alterar a vigência da Deliberação CVM 874/2021 (Sandbox), com… | cvm-col-20220304-d2498 | fichas/colegiado/2022-02.md |
+| decisao-colegiado | 19957.010175/2021-97 | 2022-01-11 | deferido | O Colegiado, por unanimidade, autorizou a B3 a reduzir os mínimos de BDR nível I não patrocinado e de BDR de ETF, com volume diário médio… | cvm-col-20220111-d2458 | fichas/colegiado/2022-01.md |
+| decisao-colegiado | 19957.009370/2021-74 | 2021-12-21 | deferido | O Colegiado autorizou a B3 a adquirir 100% das ações da Neoway Tecnologia Integrada Assessoria e Negócios S.A., por R$ 1,8 bilhão, nos… | cvm-col-20211221-d2442 | fichas/colegiado/2021-23.md |
+| decisao-colegiado | 19957.002097/2016-90 | 2021-12-07 | deferido | O Colegiado, acompanhando a SMI, aprovou nova proposta da B3 para ampliar o programa experimental da oferta RLP, com nova fase de 12 meses… | cvm-col-20211207-d1410 | fichas/colegiado/2021-21.md |
+| decisao-colegiado | 19957.004836/2020-64 | 2021-11-23 | deferido | O Colegiado, por unanimidade, aprovou, acompanhando a SMI, as regras e parâmetros mínimos propostos pela B3 para o registro de ofertas… | cvm-col-20211123-d2389 | fichas/colegiado/2021-20.md |
+| decisao-colegiado | 19957.005260/2020-52 | 2021-11-16 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.005260/2020-52. | cvm-col-20211116-d2384 | fichas/colegiado/2021-19.md |
+| decisao-colegiado | 19957.004206/2021-71 | 2021-10-26 | deferido | O Colegiado autorizou a CRT4 a funcionar como entidade administradora de mercado de balcão organizado, para registrar contratos a termo de… | cvm-col-20211026-d2350 | fichas/colegiado/2021-18.md |
+| decisao-colegiado | 19957.007076/2019-11 | 2021-10-05 | deferido | Pedido de autorização para alteração da metodologia de apuração da taxa de administração do mecanismo de ressarcimento de prejuízos. Proc… | cvm-col-20211005-d2329 | fichas/colegiado/2021-16.md |
+| decisao-colegiado | 19957.006523/2021-21 | 2021-09-28 | deferido | O Colegiado concedeu, por unanimidade, à B3 a autorização para adquirir participação na Dimensa (ex-TFS Soluções em Software S.A.)… | cvm-col-20210928-d2319 | fichas/colegiado/2021-16.md |
+| decisao-colegiado | 19957.002231/2020-39 | 2021-08-31 | deferido | O Colegiado concedeu à B3 as dispensas do art. 6º da ICVM 467/2008 e do inciso V do art. 62 da ICVM 461/2007 para novos modelos de… | cvm-col-20210831-d2289 | fichas/colegiado/2021-15.md |
+| decisao-colegiado | 19957.005552/2021-76 | 2021-08-24 | deferido | Pedido de dispensa de requisito normativo no âmbito de registro de programa patrocinado de certificado de depósito de valores mobiliários… | cvm-col-20210824-d2284 | fichas/colegiado/2021-14.md |
+| decisao-colegiado | 19957.005890/2019-93 | 2021-08-24 | deferido | O Colegiado deferiu pedido da B3 para alterar normativos de acesso, prevendo acesso de outras infraestruturas aos serviços de CCP e de CSD… | cvm-col-20210824-d2276 | fichas/colegiado/2021-14.md |
+| decisao-colegiado | 00783.002822/2018-01 | 2021-08-10 | outro | Pedido de autorização para encerramento de fundo de garantia. Proc. SEI 00783.002822/2018-01. | cvm-col-20210810-d2268 | fichas/colegiado/2021-13.md |
+| decisao-colegiado | 19957.004945/2019-48 | 2021-06-08 | outro | O Colegiado tomou conhecimento da manifestação da SMI que atesta o cumprimento das condições suspensivas fixadas em 08.12.2020 para a… | cvm-col-20210608-d1747 | fichas/colegiado/2021-09.md |
+| decisao-colegiado | 19957.003877/2020-33 | 2021-06-01 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.003877/2020-33. | cvm-col-20210601-d2196 | fichas/colegiado/2021-09.md |
+| decisao-colegiado | 19957.003282/2021-69 | 2021-06-01 | deferido | Por maioria, o Colegiado autorizou a B3 a alterar o Regulamento de Emissores e o Manual do Emissor para incluir como mercados reconhecidos… | cvm-col-20210601-d2195 | fichas/colegiado/2021-09.md |
+| decisao-colegiado | 19957.002309/2021-04 | 2021-06-01 | nao-provido | O Colegiado negou provimento a recurso da Harmonia DTVM contra o indeferimento, pela GME, de autorização para prestar serviços de… | cvm-col-20210601-d2191 | fichas/colegiado/2021-09.md |
+| decisao-colegiado | 19957.008087/2020-44 | 2021-05-25 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.008087/2020-44. | cvm-col-20210525-d2188 | fichas/colegiado/2021-09.md |
+| decisao-colegiado | 09/2019; 19957.002618/2016-17 | 2021-05-12 | — | A SDM apresentou os principais comentários à Audiência Pública SDM 09/2019 sobre minuta de resolução de autorregulação unificada das… | cvm-col-20210512-d2676 | fichas/colegiado/2021-08.md |
+| decisao-colegiado | 19957.002936/2021-37 | 2021-05-11 | deferido | O Colegiado, por unanimidade, acompanhando a SMI, concedeu à B3 autorização para ampliar os valores mobiliários com negociação permitida no… | cvm-col-20210511-d2160 | fichas/colegiado/2021-08.md |
+| decisao-colegiado | 19957.008889/2020-54 | 2021-05-04 | deferido | O Colegiado, por unanimidade, acompanhando a SMI, concedeu a autorização pleiteada à SL Tools Serviços de Informações Ltda. para operar… | cvm-col-20210504-d2156 | fichas/colegiado/2021-08.md |
+| decisao-colegiado | 19957.008756/2020-88 | 2021-04-20 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.008756/2020-88. | cvm-col-20210420-d2138 | fichas/colegiado/2021-07.md |
+| decisao-colegiado | 19957.006526/2020-84 | 2021-02-09 | deferido | O Colegiado autorizou a B3 a adquirir 100% do capital da Portal de Documentos S.A., nos termos do art. 13, V, e §1º, da Instrução CVM… | cvm-col-20210209-d2051 | fichas/colegiado/2021-02.md |
+| decisao-colegiado | 19957.002097/2016-90 | 2020-12-15 | deferido | Por maioria, o Colegiado, acompanhando a SMI, aprovou a ampliação do programa experimental da oferta RLP na B3 por 12 meses a partir da… | cvm-col-20201215-d1410 | fichas/colegiado/2020-21.md |
+| decisao-colegiado | 19957.004945/2019-48 | 2020-12-08 | deferido | O Colegiado concedeu, acompanhando a SMI, autorização à Mark 2 Market Depositária de Valores Mobiliários S.A. para depósito centralizado de… | cvm-col-20201208-d1747 | fichas/colegiado/2020-21.md |
+| decisao-colegiado | 19957.006850/2020-01 | 2020-11-03 | deferido | Por maioria, com voto de qualidade do Presidente, o Colegiado concedeu dispensa do requisito de independência (arts. 38, §2º, c/c 26, §2º… | cvm-col-20201103-d1961 | fichas/colegiado/2020-18.md |
+| decisao-colegiado | 19957.006368/2020-62 | 2020-10-27 | deferido | O Colegiado concedeu à B3 autorização, nos termos do art. 13, V, da ICVM 461/2007, para prestar serviços aos participantes do Sistema de… | cvm-col-20201027-d1960 | fichas/colegiado/2020-18.md |
+| decisao-colegiado | 19957.006384/2020-55 | 2020-10-20 | outro | O Colegiado aprovou alterações ao Regulamento para Listagem e ao Manual do Emissor da B3, acompanhando as áreas técnicas, que reconheceram… | cvm-col-20201020-d1958 | fichas/colegiado/2020-17.md |
+| decisao-colegiado | 19957.005839/2020-15 | 2020-09-22 | deferido | O Colegiado concedeu à B3 a autorização do art. 13, V, da ICVM 461/07 para adquirir 100% do capital da BLK Serviços Financeiros Ltda… | cvm-col-20200922-d1919 | fichas/colegiado/2020-16.md |
+| termo-compromisso | 19957.010224/2019-77 | 2020-09-15 | aceito | O Colegiado aceitou, por unanimidade, proposta de termo de compromisso da B3 e de dois executivos, acompanhando o parecer do Comitê… | cvm-col-20200915-d1911 | fichas/tc/2020-06.md |
+| decisao-colegiado | 19957.002097/2016-90 | 2020-08-04 | parcial | O Colegiado prorrogou por 12 meses, em caráter experimental, a autorização das ofertas Retail Liquidity Provider (RLP) de minicontratos de… | cvm-col-20200804-d1410 | fichas/colegiado/2020-12.md |
+| decisao-colegiado | 19957.004294/2020-20 | 2020-07-07 | deferido | O Colegiado, acompanhando a SMI, concedeu à CSD Central de Serviços de Registro e Depósito autorização para prestar serviço de registro de… | cvm-col-20200707-d1850 | fichas/colegiado/2020-11.md |
+| decisao-colegiado | 19957.003410/2020-93 | 2020-06-16 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.003410/2020-93. | cvm-col-20200616-d1835 | fichas/colegiado/2020-10.md |
+| decisao-colegiado | 19957.001871/2019-98 | 2020-06-16 | deferido | O Colegiado, acompanhando a SMI, concedeu em caráter definitivo à BBCE – Balcão Brasileiro de Comercialização de Energia S.A. autorização… | cvm-col-20200616-d1746 | fichas/colegiado/2020-10.md |
+| decisao-colegiado | 19957.003490/2020-87 | 2020-05-26 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.003490/2020-87. | cvm-col-20200526-d1817 | fichas/colegiado/2020-09.md |
+| decisao-colegiado | 19957.002253/2019-65 | 2020-05-12 | deferido | O Colegiado concedeu à CSDBR autorização para constituir e administrar mercado de balcão organizado de registro de operações (ICVM 461) e… | cvm-col-20200512-d1803 | fichas/colegiado/2020-08.md |
+| decisao-colegiado | 19957.002577/2020-37 | 2020-05-05 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.002577/2020-37. | cvm-col-20200505-d1798 | fichas/colegiado/2020-08.md |
+| decisao-colegiado | 19957.001747/2020-66 | 2020-04-07 | deferido | O Colegiado concedeu à B3 autorização para supervisão, monitoração e pré-registro de contratos de energia elétrica do Ambiente de… | cvm-col-20200407-d1769 | fichas/colegiado/2020-06.md |
+| decisao-colegiado | 19957.001871/2019-98 | 2020-03-17 | deferido | O Colegiado concedeu, por unanimidade, autorização condicionada ao BBCE para atuar como entidade administradora de mercado organizado de… | cvm-col-20200317-d1746 | fichas/colegiado/2020-05.md |
+| decisao-colegiado | 19957.004945/2019-48 | 2020-03-10 | nao-provido | O Colegiado negou provimento, por unanimidade, a recurso da M2M contra decisão da SMI que não concluiu a análise de pedido de autorização… | cvm-col-20200310-d1747 | fichas/colegiado/2020-05.md |
+| decisao-colegiado | 19957.001210/2020-04 | 2020-03-10 | deferido | O Colegiado concedeu à B3 autorização, nos termos do art. 13, V, da ICVM 461/07, para prestar serviço de registro de operações de seguros… | cvm-col-20200310-d1742 | fichas/colegiado/2020-04.md |
+| decisao-colegiado | 19957.010576/2019-22 | 2020-02-18 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.010576/2019-22. | cvm-col-20200218-d1722 | fichas/colegiado/2020-04.md |
+| decisao-colegiado | 461/2007; 19957.010873/2019-78 | 2019-12-10 | deferido | O Colegiado, por maioria resultante do voto de qualidade do Presidente, concedeu à BSM Supervisão de Mercados dispensa do requisito de… | cvm-col-20191210-d1637 | fichas/colegiado/2019-20.md |
+| decisao-colegiado | 461/2007; 19957.002618/2016-17 | 2019-11-13 | — | O Colegiado continuou a discussão da minuta de instrução que dispõe sobre mercados regulamentados e substitui a Instrução CVM 461/07. Sem… | cvm-col-20191113-d2676 | fichas/colegiado/2019-18.md |
+| decisao-colegiado | 19957.009391/2019-75 | 2019-10-29 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.009391/2019-75. | cvm-col-20191029-d1586 | fichas/colegiado/2019-17.md |
+| decisao-colegiado | 19957.004306/2019-82 | 2019-07-02 | deferido | O Colegiado aprovou, por unanimidade, acompanhando a SMI, as alterações no Estatuto Social da B3 (capital social, terminologia de… | cvm-col-20190702-d1460 | fichas/colegiado/2019-11.md |
+| decisao-colegiado | 19957.005032/2019-49 | 2019-07-02 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.005032/2019-49. | cvm-col-20190702-d1408 | fichas/colegiado/2019-10.md |
+| decisao-colegiado | 19957.007838/2018-91 | 2019-06-04 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.007838/2018-91. | cvm-col-20190604-d1419 | fichas/colegiado/2019-09.md |
+| decisao-colegiado | 19957.002097/2016-90 | 2019-05-21 | outro | O Colegiado, por unanimidade, acompanhando a SMI, aprovou alterações ao Regulamento de Negociação e ao Manual de Procedimentos Operacionais… | cvm-col-20190521-d1410 | fichas/colegiado/2019-08.md |
+| decisao-colegiado | 19957.010577/2018-96 | 2019-05-14 | outro | O Colegiado, por unanimidade, acompanhando a SMI, aprovou novas versões dos manuais da B3 de procedimentos operacionais (câmara e central… | cvm-col-20190514-d1400 | fichas/colegiado/2019-08.md |
+| decisao-colegiado | SP2011/0036 | 2019-04-22 | deferido | O Colegiado, sem oposição, acolheu a SMI e deferiu os pedidos da Bolsa de Valores do Rio de Janeiro (BVRJ) de alteração do estatuto social… | cvm-col-20190422-d7688 | fichas/colegiado/2019-07.md |
+| decisao-colegiado | 19957.006590/2018-41 | 2019-01-15 | deferido | O Colegiado deferiu pedido de autorização para transferência, por doação, de quotas de fundo de investidores não residentes fora de mercado… | cvm-col-20190115-d1277 | fichas/colegiado/2019-01.md |
+| decisao-colegiado | 19957.002618/2016-17 | 2018-11-21 | — | O Colegiado iniciou a discussão da reforma normativa sobre autorregulação unificada dos mercados organizados e das infraestruturas de… | cvm-col-20181121-d2676 | fichas/colegiado/2018-20.md |
+| decisao-colegiado | 19957.002098/2016-34 | 2018-09-25 | deferido | O Colegiado, por unanimidade, deferiu pedido da B3 para suprimir a identificação do intermediário nas telas do PUMA em derivativos… | cvm-col-20180925-d1175 | fichas/colegiado/2018-17.md |
+| decisao-colegiado | 19957.003559/2017-77 | 2018-07-17 | deferido | O Colegiado concedeu, por unanimidade, à B3 autorização do art. 13, V, da Instrução CVM 461/07 para prestar serviços de hosting de… | cvm-col-20180717-d1092 | fichas/colegiado/2018-13.md |
+| decisao-colegiado | 19957.004550/2018-64 | 2018-05-15 | deferido | O Colegiado aprovou, por unanimidade, alterações no Regulamento do MRP propostas pela BSM: criação do MRP Digital (tramitação e… | cvm-col-20180515-d103918 | fichas/colegiado/2018-09.md |
+| decisao-colegiado | 19957.002044/2018-31 | 2018-03-29 | deferido | O Colegiado, acompanhando a área técnica (que opinou pelo deferimento), prorrogou por 30 dias a entrada em vigor do Regulamento de Listagem… | cvm-col-20180329-d1002 | fichas/colegiado/2018-07.md |
+| decisao-colegiado | 19957.002044/2018-31 | 2018-03-27 | outro | O Colegiado aprovou, sob condição, alterações no Regulamento de Listagem da B3 e no Manual do Emissor sobre divulgação de fato relevante… | cvm-col-20180327-d1002 | fichas/colegiado/2018-06.md |
+| decisao-colegiado | 00783.002948/2017-96 | 2017-11-28 | nao-provido | O Colegiado, por unanimidade, acompanhando a SMI, indeferiu recurso da RASM Investimentos e Participações contra decisão que negou… | cvm-col-20171128-d0855 | fichas/colegiado/2017-19.md |
+| decisao-colegiado | 19957.002890/2015-16 | 2017-11-21 | parcial | Recurso contra decisão da SMI. Proc. SEI 19957.002890/2015-16. | cvm-col-20171121-d9228 | fichas/colegiado/2017-19.md |
+| decisao-colegiado | 19957.004373/2017-35 | 2017-06-13 | deferido | O Colegiado aprovou, por unanimidade, as alterações do estatuto social da B3 S.A. – Brasil, Bolsa, Balcão, aprovadas em AGE de 10.5.2017… | cvm-col-20170613-d0708 | fichas/colegiado/2017-11.md |
+| decisao-colegiado | 19957.005458/2017-31 | 2017-06-06 | deferido | O Colegiado aprovou, por unanimidade, nos termos da proposta, a incorporação da CETIP S.A. – Mercados Organizados pela B3 S.A. – Brasil… | cvm-col-20170606-d0700 | fichas/colegiado/2017-11.md |
+| decisao-colegiado | 18/2013; 19957.002916/2017-80 | 2017-04-18 | outro | O Colegiado tomou conhecimento e aprovou os termos do 3º Relatório Semestral do grupo de trabalho CVM/BCB sobre a obrigatoriedade de… | cvm-col-20170418-d8738 | fichas/colegiado/2017-08.md |
+| decisao-colegiado | 19957.001686/2017-31 | 2017-03-22 | deferido | O Colegiado aprovou, por unanimidade, a combinação da BM&FBOVESPA com a CETIP, em que esta se torna subsidiária integral por meio de… | cvm-col-20170322-d | fichas/colegiado/2017-06.md |
+| decisao-colegiado | 19957.006054/2016-83 | 2017-03-07 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.006054/2016-83. | cvm-col-20170307-d0597 | fichas/colegiado/2017-05.md |
+| decisao-colegiado | 19957.002332/2016-23 | 2017-03-07 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.002332/2016-23. | cvm-col-20170307-d0591 | fichas/colegiado/2017-05.md |
+| decisao-colegiado | 19957.002115/2016-33 | 2017-02-21 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.002115/2016-33. | cvm-col-20170221-d0579 | fichas/colegiado/2017-04.md |
+| decisao-colegiado | 19957.001267/2016-19 | 2017-02-14 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.001267/2016-19. | cvm-col-20170214-d0566 | fichas/colegiado/2017-04.md |
+| decisao-colegiado | 19957.001109/2017-40 | 2017-02-06 | — | A SDM e a SMI atualizaram o Colegiado sobre as discussões com o Banco Central do Brasil sobre a regulação da infraestrutura do mercado… | cvm-col-20170206-d0720 | fichas/colegiado/2017-03.md |
+| decisao-colegiado | 19957.003182/2016-75 | 2017-01-24 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.003182/2016-75. | cvm-col-20170124-d0552 | fichas/colegiado/2017-02.md |
+| decisao-colegiado | 19957.002814/2016-83 | 2016-10-11 | outro | O Colegiado declarou a perda do objeto do recurso da BM&FBOVESPA contra decisão da SMI sobre a prestação de serviços pela central… | cvm-col-20161011-d0389 | fichas/colegiado/2016-20.md |
+| decisao-colegiado | 19957.004523/2016-20 | 2016-10-11 | deferido | O Colegiado autorizou, por unanimidade, as alterações estatutárias da BM&FBOVESPA aprovadas em AGE de 20.05.2016, nos termos do art. 117… | cvm-col-20161011-d0293 | fichas/colegiado/2016-20.md |
+| decisao-colegiado | 19957.006353/2016-18 | 2016-10-04 | outro | O Colegiado aprovou, acompanhando a SMI, alterações ao Manual do Emissor da BM&FBOVESPA S.A. sobre BDR Nível I não patrocinado, com… | cvm-col-20161004-d8716 | fichas/colegiado/2016-19.md |
+| decisao-colegiado | 19957.004954/2016-96 | 2016-10-04 | provido | O Colegiado deferiu recurso contra a SIN e autorizou a transferência, fora do mercado organizado, de ações de companhia aberta por doação a… | cvm-col-20161004-d0372 | fichas/colegiado/2016-19.md |
+| termo-compromisso | RJ2015/13791 | 2016-09-06 | rejeitado | O Colegiado rejeitou, por unanimidade, proposta de Termo de Compromisso de R$ 1.000.000,00 da Citibank DTVM, custodiante de dois FIDC, no… | cvm-col-20160906-d0347 | fichas/tc/2016-04.md |
+| decisao-colegiado | 380/2002; 19957.004832/2016-08 | 2016-08-02 | deferido | Pedido de dispensa de requisito normativo. Proc. SEI 19957.004832/2016-08. | cvm-col-20160802-d0326 | fichas/colegiado/2016-15.md |
+| decisao-colegiado | — | 2016-07-19 | outro | O Colegiado tomou conhecimento do relatório do GT Concorrência entre Bolsas, aprovou as propostas nele contidas, inclusive o modelo de… | cvm-col-20160719-d0292 | fichas/colegiado/2016-14.md |
+| decisao-colegiado | 542/2013; 19957.003593/2016-61 | 2016-06-21 | deferido | O Colegiado, por unanimidade, acompanhando a SMI, deferiu dispensas de requisitos da Instrução CVM 542/2013 a custodiantes, estendidas aos… | cvm-col-20160621-d0252 | fichas/colegiado/2016-12.md |
+| decisao-colegiado | 542/2013; 19957.003593/2016-61 | 2016-06-14 | — | Pedidos de dispensa de requisitos da Instrução CVM 542/2013 (custódia de valores mobiliários) formulados por instituições financeiras… | cvm-col-20160614-d0252 | fichas/colegiado/2016-12.md |
+| decisao-colegiado | 19957.001813/2015-31 | 2016-05-31 | outro | Sem examinar o mérito, o Colegiado decidiu, por unanimidade, não aprovar neste momento as alterações ao Regulamento de Listagem e ao Manual… | cvm-col-20160531-d8716 | fichas/colegiado/2016-10.md |
+| decisao-colegiado | SP2015/0122 | 2016-02-23 | deferido | O Colegiado concedeu à BRIX Energia e Futuros S.A. autorização para atuar como entidade administradora de mercado organizado e para operar… | cvm-col-20160223-d0077 | fichas/colegiado/2016-05.md |
+| decisao-colegiado | SP2015/0122 | 2016-02-11 | — | Pedido da BRIX Energia e Futuros S.A. de autorização para funcionar como entidade administradora de mercado organizado e para o… | cvm-col-20160211-d0077 | fichas/colegiado/2016-04.md |
+| decisao-colegiado | 19957.000530/2016-52 | 2016-02-02 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.000530/2016-52. | cvm-col-20160202-d0036 | fichas/colegiado/2016-02.md |
+| decisao-colegiado | RJ2015/1263 | 2016-02-02 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2015/1263. | cvm-col-20160202-d0031 | fichas/colegiado/2016-02.md |
+| decisao-colegiado | 19957.000991/2015-44 | 2016-01-12 | provido | O Colegiado proveu o recurso do BNDES contra o cancelamento de seu registro como custodiante, acompanhando a SMI. Concedeu dispensa do art… | cvm-col-20160112-d0004 | fichas/colegiado/2016-01.md |
+| decisao-colegiado | 541/2013; 542/2013; 19957.003979/2015-91 | 2015-12-22 | indeferido | O Colegiado indeferiu o pleito da ANBIMA de dilação do prazo de adaptação às Instruções CVM 541/2013 e 542/2013 quanto ao registro de ônus… | cvm-col-20151222-d1239 | fichas/colegiado/2015-25.md |
+| termo-compromisso | SP2013/0295 | 2015-12-15 | aceito | Apreciação de proposta de termo de compromisso. Proc. SP2013/0295. | cvm-col-20151215-d9987 | fichas/tc/2015-05.md |
+| decisao-colegiado | SP2015/0210 | 2015-11-17 | parcial | O Colegiado aprovou parcialmente as alterações no Regulamento de Listagem e no Manual do Emissor da BM&FBovespa, com base nas manifestações… | cvm-col-20151117-d8716 | fichas/colegiado/2015-21.md |
+| decisao-colegiado | SP2015/0279 | 2015-10-13 | outro | A SEP propôs não aprovar a alteração proposta pela BM&FBOVESPA ao percentual mínimo de ações em circulação dos Níveis 1 e 2 e do Bovespa… | cvm-col-20151013-d4977 | fichas/colegiado/2015-19.md |
+| decisao-colegiado | 19957.002723/2015-67 | 2015-09-22 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.002723/2015-67. | cvm-col-20150922-d9838 | fichas/colegiado/2015-17.md |
+| decisao-colegiado | 19957.002447/2015-37 | 2015-09-08 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.002447/2015-37. | cvm-col-20150908-d9826 | fichas/colegiado/2015-16.md |
+| decisao-colegiado | 19957.002366/2015-37 | 2015-09-01 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.002366/2015-37. | cvm-col-20150901-d9815 | fichas/colegiado/2015-16.md |
+| decisao-colegiado | RJ2013/9858 | 2015-08-25 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2013/9858. | cvm-col-20150825-d9800 | fichas/colegiado/2015-15.md |
+| termo-compromisso | RJ2013/11716 | 2015-08-18 | aceito | Apreciação de proposta de termo de compromisso. Proc. RJ2013/11716. | cvm-col-20150818-d9790 | fichas/tc/2015-03.md |
+| decisao-colegiado | 19957.002038/2015-31 | 2015-07-14 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.002038/2015-31. | cvm-col-20150714-d9764 | fichas/colegiado/2015-13.md |
+| decisao-colegiado | RJ2012/3771 | 2015-07-14 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2012/3771. | cvm-col-20150714-d8864 | fichas/colegiado/2015-13.md |
+| decisao-colegiado | 19957.002026/2015-14 | 2015-07-07 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.002026/2015-14. | cvm-col-20150707-d9754 | fichas/colegiado/2015-13.md |
+| decisao-colegiado | 19957.001751/2015-67 | 2015-06-23 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.001751/2015-67. | cvm-col-20150623-d9722 | fichas/colegiado/2015-11.md |
+| decisao-colegiado | RJ2012/15165 | 2015-06-23 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2012/15165. | cvm-col-20150623-d8867 | fichas/colegiado/2015-10.md |
+| decisao-colegiado | 19957.001639/2015-26 | 2015-06-16 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.001639/2015-26. | cvm-col-20150616-d9690 | fichas/colegiado/2015-10.md |
+| decisao-colegiado | 19957.001638/2015-81 | 2015-06-16 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.001638/2015-81. | cvm-col-20150616-d9689 | fichas/colegiado/2015-10.md |
+| decisao-colegiado | 19957.001518/2015-84 | 2015-06-02 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.001518/2015-84. | cvm-col-20150602-d9669 | fichas/colegiado/2015-09.md |
+| decisao-colegiado | 19957.001098/2015-36 | 2015-06-02 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.001098/2015-36. | cvm-col-20150602-d9668 | fichas/colegiado/2015-09.md |
+| decisao-colegiado | 19957.001474/2015-92 | 2015-06-02 | nao-provido | O Colegiado, acompanhando a área técnica, negou provimento ao recurso da GBM Brasil DTVM contra o cancelamento de seu credenciamento como… | cvm-col-20150602-d9667 | fichas/colegiado/2015-09.md |
+| decisao-colegiado | 19957.001013/2015-10 | 2015-06-02 | nao-provido | O Colegiado negou provimento ao recurso da Brickell contra decisão da SMI que cancelou seu registro como custodiante, acompanhando a área… | cvm-col-20150602-d9666 | fichas/colegiado/2015-09.md |
+| decisao-colegiado | RJ2013/8969 | 2015-05-05 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2013/8969. | cvm-col-20150505-d9638 | fichas/colegiado/2015-07.md |
+| decisao-colegiado | RJ2014/12858 | 2015-04-28 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2014/12858. | cvm-col-20150428-d9628 | fichas/colegiado/2015-07.md |
+| termo-compromisso | RJ2014/0376 | 2015-04-14 | rejeitado | O Colegiado rejeitou proposta de Termo de Compromisso de R$ 200.000,00 do Citibank DTVM e de dois diretores responsáveis pela custódia… | cvm-col-20150414-d9621 | fichas/tc/2015-02.md |
+| decisao-colegiado | SP2015/0010 | 2015-03-24 | parcial | Pedido de alteração do regulamento do mecanismo de ressarcimento de prejuízos. Proc. SP2015/0010. | cvm-col-20150324-d8759 | fichas/colegiado/2015-05.md |
+| decisao-colegiado | RJ2014/14579 | 2015-01-27 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2014/14579. | cvm-col-20150127-d9549 | fichas/colegiado/2015-02.md |
+| decisao-colegiado | RJ2014/13700 | 2015-01-21 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2014/13700. | cvm-col-20150121-d9543 | fichas/colegiado/2015-02.md |
+| decisao-colegiado | RJ2014/12863; RJ2014/14043; RJ2014/14044; RJ2014/14136; RJ2014/14157; RJ2014/14158; RJ2014/14305; RJ2014/14310; RJ2014/14331; RJ2014/14504; RJ2014/14524; RJ2014/14525 | 2015-01-13 | provido | Recursos em processos de mecanismo de ressarcimento de prejuízos. Proc. s. RJ2014/12863; RJ2014/14043; RJ2014/14044; RJ2014/14136… | cvm-col-20150113-d9517 | fichas/colegiado/2015-01.md |
+| decisao-colegiado | RJ2014/7528 | 2015-01-06 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2014/7528. | cvm-col-20150106-d9501 | fichas/colegiado/2015-01.md |
+| decisao-colegiado | RJ1987/0913 | 2014-12-02 | nao-provido | O Colegiado negou provimento a recurso da BSM que pretendia condicionar o cumprimento, pelo MRP, de decisão do Colegiado de 02.02.90… | cvm-col-20141202-d20 | fichas/colegiado/2014-24.md |
+| decisao-colegiado | RJ2014/5259 | 2014-11-11 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2014/5259. | cvm-col-20141111-d08 | fichas/colegiado/2014-21.md |
+| decisao-colegiado | RJ2014/7088 | 2014-10-29 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2014/7088. | cvm-col-20141029-d02 | fichas/colegiado/2014-20.md |
+| decisao-colegiado | 541/2013; SP2014/0277 | 2014-09-23 | deferido | Pedido de autorização para implantação do novo modelo de comunicação com investidores. Proc. SP2014/0277. | cvm-col-20140923-d12 | fichas/colegiado/2014-18.md |
+| decisao-colegiado | SP2013/0521 | 2014-07-29 | deferido | Novas regras de modelo de acesso. Proc. SP2013/0521. | cvm-col-20140729-d05 | fichas/colegiado/2014-14.md |
+| decisao-colegiado | SP2013/0521 | 2014-05-06 | — | Novas regras de modelo de acesso. Proc. SP2013/0521. | cvm-col-20140506-d02 | fichas/colegiado/2014-08.md |
+| decisao-colegiado | — | 2013-12-17 | outro | O Colegiado aprovou a minuta de Decisão Conjunta CVM–Banco Central para implementar os Princípios para Infraestruturas do Mercado… | cvm-col-20131217-d17 | fichas/colegiado/2013-24.md |
+| decisao-colegiado | 09/2013; RJ2013/8780 | 2013-12-10 | outro | O Colegiado aprovou a edição de Instrução, após audiência pública SDM 09/2013, que altera a ICVM 461/07 para regulamentar o art. 28 da Lei… | cvm-col-20131210-d11 | fichas/colegiado/2013-23.md |
+| decisao-colegiado | 06/2013; RJ2003/11499 | 2013-12-04 | outro | O Colegiado aprovou a edição de três Instruções, após a Audiência Pública SDM 06/2013, que revogam a Instrução CVM 89/88 (autorização para… | cvm-col-20131204-d01 | fichas/colegiado/2013-23.md |
+| decisao-colegiado | SP2013/0397 | 2013-11-12 | parcial | O Colegiado autorizou alterações estatutárias da BSM solicitadas pela BM&FBOVESPA (descontinuação do Comitê Estratégico, informações do… | cvm-col-20131112-d03 | fichas/colegiado/2013-21.md |
+| decisao-colegiado | SP2013/0366 | 2013-11-05 | deferido | O Colegiado aprovou o pedido da BM&FBovespa para revogar a exigência de garantia, para reposição do patrimônio do MRP, dos participantes… | cvm-col-20131105-d05 | fichas/colegiado/2013-21.md |
+| decisao-colegiado | RJ2013/8780 | 2013-08-20 | outro | O Colegiado aprovou, para audiência pública de 30 dias, minuta de Instrução que altera a ICVM 461/07 para regulamentar o art. 28 da Lei… | cvm-col-20130820-d04 | fichas/colegiado/2013-15.md |
+| decisao-colegiado | SP2013/0267 | 2013-08-09 | parcial | O Colegiado aprovou parcialmente o novo Regulamento de Listagem da BM&FBovespa, acompanhando a área técnica (SMI, Memo/CVM/SMI/Nº… | cvm-col-20130809-d01 | fichas/colegiado/2013-14.md |
+| decisao-colegiado | 05/2013; RJ2013/6438 | 2013-08-06 | deferido | O Colegiado prorrogou, até 11.09.13, o prazo para comentários à Audiência Pública SDM 05/2013, sobre a possível introdução de concorrência… | cvm-col-20130806-d06 | fichas/colegiado/2013-14.md |
+| decisao-colegiado | SP2013/0331 | 2013-08-06 | indeferido | Proposta de alteração do regulamento do mecanismo de ressarcimento de prejuízo. Proc. SP2013/0331. | cvm-col-20130806-d03 | fichas/colegiado/2013-14.md |
+| decisao-colegiado | SP2013/0267 | 2013-06-18 | outro | O Colegiado aprovou as exigências e esclarecimentos apresentados pela SMI, a serem encaminhados à BM&FBOVESPA, sobre o pedido de alteração… | cvm-col-20130618-d04 | fichas/colegiado/2013-12.md |
+| decisao-colegiado | RJ2003/11499 | 2013-04-17 | — | O Colegiado deu continuidade à discussão de minutas que substituirão a Instrução CVM 89/88, sobre prestação de serviços de depósito… | cvm-col-20130417-d01 | fichas/colegiado/2013-09.md |
+| decisao-colegiado | RJ2011/13386 | 2013-02-19 | outro | O Colegiado, acompanhando o voto do relator, devolveu à SRE a consulta sobre a exigência de recibos de aquisição físicos (Deliberação CVM… | cvm-col-20130219-d17 | fichas/colegiado/2013-05.md |
+| decisao-colegiado | 505/2011; SP2012/0139 | 2013-01-29 | outro | O Colegiado, em consultas da CETIP e da ANBIMA sobre a Instrução CVM 505/11, decidiu que os arts. 19 e 20 (execução de ordens) não se… | cvm-col-20130129-d15 | fichas/colegiado/2013-03.md |
+| decisao-colegiado | RJ2012/10791 | 2012-10-30 | deferido | O Colegiado aprovou as propostas da BM&FBOVESPA de alteração do Regulamento de Clubes de Investimento (art. 39 da Instrução CVM 494/11)… | cvm-col-20121030-d03 | fichas/colegiado/2012-20.md |
+| decisao-colegiado | SP2012/0138 | 2012-10-16 | outro | O Colegiado aprovou o Regulamento de Registro de Ativos e Operações do Mercado de Balcão Organizado da BM&FBovespa, com condições: contas… | cvm-col-20121016-d06 | fichas/colegiado/2012-19.md |
+| decisao-colegiado | SP2009/0204 | 2012-05-22 | deferido | O Colegiado autorizou a BM&FBOVESPA a mudar o procedimento para operações de mesmo comitente, permitindo sua ultimação com análise… | cvm-col-20120522-d05 | fichas/colegiado/2012-09.md |
+| decisao-colegiado | RJ2011/12846 | 2012-04-24 | deferido | Pedido de autorização para prestação do serviço de escrituração de cotas para terceiros. Proc. RJ2011/12846. | cvm-col-20120424-d05 | fichas/colegiado/2012-08.md |
+| decisao-colegiado | SP2011/0253 | 2011-11-16 | deferido | O Colegiado concedeu a dispensa do requisito de independência (art. 47, §1º, combinado com o art. 26 da Instrução CVM 461/07) para a… | cvm-col-20111116-d11 | fichas/colegiado/2011-25.md |
+| decisao-colegiado | SP2009/0045 | 2011-10-25 | deferido | Proposta de novo regulamento para credenciamento do formador de mercado. Proc. SP2009/0045. | cvm-col-20111025-d02 | fichas/colegiado/2011-22.md |
+| decisao-colegiado | SP2010/0295 | 2011-07-12 | provido | O Colegiado deu provimento a recurso da BM&FBovespa contra decisão da SMI e autorizou o Plano de Racionalização de informativos impressos a… | cvm-col-20110712-d05 | fichas/colegiado/2011-14.md |
+| decisao-colegiado | SP2011/0035 | 2011-07-05 | deferido | O Colegiado concedeu à BM&FBOVESPA a autorização pleiteada, nos termos do art. 117, I, da Instrução CVM 461/07, para alterar as regras de… | cvm-col-20110705-d02 | fichas/colegiado/2011-14.md |
+| decisao-colegiado | SP2011/0040 | 2011-06-21 | deferido | Fixação dos valores mínimo e máximo do patrimônio do mecanismo de ressarcimento de prejuízos. Proc. SP2011/0040. | cvm-col-20110621-d03 | fichas/colegiado/2011-13.md |
+| decisao-colegiado | SP2011/0039 | 2011-05-31 | deferido | O Colegiado confirmou a autorização para instalação de telas de acesso da bolsa estrangeira LIFFE, nos termos do §1º do art. 113 da… | cvm-col-20110531-d13 | fichas/colegiado/2011-12.md |
+| decisao-colegiado | SP2009/0125 | 2011-03-01 | deferido | BM&FBOVESPA. Proc. SP2009/0125. | cvm-col-20110301-d17 | fichas/colegiado/2011-05.md |
+| termo-compromisso | SP2010/0238 | 2011-03-01 | aceito | O Colegiado aceitou proposta de termo de compromisso de R$ 300.000,00 (R$ 200.000,00 da Cetip e R$ 100.000,00 de seu diretor geral)… | cvm-col-20110301-d03 | fichas/tc/2011-01.md |
+| decisao-colegiado | SP2010/0139 | 2011-02-01 | deferido | Pedido de autorização para instalação de telas de acesso aos sistemas de negociação. Proc. SP2010/0139. | cvm-col-20110201-d07 | fichas/colegiado/2011-02.md |
+| decisao-colegiado | SP2010/0207 | 2010-12-28 | parcial | O Colegiado aprovou em parte o estatuto da BSM: indeferiu a dispensa do art. 47 da Instrução 461/07 (Diretor de Autorregulação como membro… | cvm-col-20101228-d02 | fichas/colegiado/2010-30.md |
+| decisao-colegiado | SP2010/0275 | 2010-12-14 | deferido | O Colegiado deferiu pedidos da CETIP para alterar o estatuto e exercer nova atividade, relacionada à incorporação da GRV Solutions S.A… | cvm-col-20101214-d02 | fichas/colegiado/2010-29.md |
+| decisao-colegiado | SP2010/0275 | 2010-11-30 | — | O Colegiado iniciou a discussão de pedido de autorização prévia para alteração do estatuto social da Cetip S.A. Julgamento suspenso por… | cvm-col-20101130-d38 | fichas/colegiado/2010-27.md |
+| decisao-colegiado | — | 2010-09-09 | outro | O Colegiado aprovou, para audiência pública de 30 dias, minuta que altera a Instrução 467/08 para acrescentar o art. 4º-A, dando suporte ao… | cvm-col-20100909-d04 | fichas/colegiado/2010-18.md |
+| decisao-colegiado | SP2009/0125 | 2010-08-03 | deferido | O Colegiado deferiu, com exigências, pedido da BM&FBOVESPA para reestruturar o DMA 1 e implantar os DMA 2, 3 e 4 no Segmento Bovespa… | cvm-col-20100803-d09 | fichas/colegiado/2010-16.md |
+| decisao-colegiado | — | 2010-07-05 | deferido | O Colegiado deferiu pedido de tratamento confidencial da Sergal Serviços Ltda., em nome da bolsa ICE Futures Europe, para lista de… | cvm-col-20100705-d01 | fichas/colegiado/2010-15.md |
+| decisao-colegiado | SP1999/0374 | 2010-05-25 | nao-provido | Pedido de reconsideração de decisão do colegiado. Proc. SP1999/0374. | cvm-col-20100525-d02 | fichas/colegiado/2010-13.md |
+| decisao-colegiado | RJ2009/11922 | 2010-05-11 | deferido | Por unanimidade, o Colegiado deferiu pedido de investidores não residentes para autorizar a transferência de ações decorrente de… | cvm-col-20100511-d02 | fichas/colegiado/2010-12.md |
+| decisao-colegiado | SP2010/0041 | 2010-03-09 | outro | Em consulta confidencial, o Colegiado, acompanhando a SMI (RA/GMA-2/007/10), fixou entendimento: pela Instrução 461/07, mercado organizado… | cvm-col-20100309-d01-r3 | fichas/colegiado/2010-07.md |
+| decisao-colegiado | SP2008/0154 | 2009-11-24 | nao-provido | Pedido de reconsideração de decisão do colegiado. Proc. SP2008/0154. | cvm-col-20091124-d01 | fichas/colegiado/2009-21.md |
+| acordao-crsfn | IA21/1999 | 2009-10-27 | absolvicao | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Falta de adoção de providências relacionadas com ilícitos em operações day-trade… | crsfn-7463 | fichas/crsfn/2009-07.md |
+| decisao-colegiado | SP2009/0044 | 2009-10-13 | deferido | O Colegiado confirmou a autorização para instalação, no Brasil, de telas de acesso às bolsas NYMEX e COMEX (art. 113, §1º, Instrução… | cvm-col-20091013-d22 | fichas/colegiado/2009-18.md |
+| acordao-crsfn | 06/02 | 2009-09-30 | arquivamento | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Empresa de telecomunicação – Ações – Subscrição – Fichas cadastrais… | crsfn-9590 | fichas/crsfn/2009-06.md |
+| decisao-colegiado | SP2008/0160 | 2009-09-15 | nao-provido | O Colegiado negou provimento a recurso da BOVESBA contra decisão da SMI que indeferiu novo pedido para leilões de ações do FINAM, com base… | cvm-col-20090915-d09 | fichas/colegiado/2009-16.md |
+| decisao-colegiado | SP2009/0048 | 2009-09-08 | deferido | O Colegiado confirmou a autorização para a ICE Futures U.S., Inc. instalar no país telas de acesso ao seu sistema de negociação, nos termos… | cvm-col-20090908-d03 | fichas/colegiado/2009-15.md |
+| decisao-colegiado | SP2009/0074; SP2009/0075; SP2009/0076; SP2009/0077; SP2009/0078; SP2009/0079; SP2009/0080; SP2009/0081; SP2009/0082; SP2009/0083; SP2009/0084 | 2009-08-25 | nao-provido | Recursos em processos de mecanismo de ressarcimento de prejuízos. Proc. s. SP2009/0074, SP2009/0075, SP2009/0076, SP2009/0077, SP2009/0078… | cvm-col-20090825-d02 | fichas/colegiado/2009-15.md |
+| acordao-crsfn | 22/96 | 2009-08-24 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Irregularidades na custódia de títulos e na concessão de financiamento para aquisição… | crsfn-11148 | fichas/crsfn/2009-05.md |
+| decisao-colegiado | — | 2009-07-28 | outro | O Colegiado entendeu não haver motivos para restringir os arranjos de acesso de intermediários brasileiros às telas de bolsas estrangeiras… | cvm-col-20090728-d14 | fichas/colegiado/2009-14.md |
+| decisao-colegiado | SP2009/0059 | 2009-06-30 | — | Regulamentos do novo mercado de balcão. Proc. SP2009/0059. | cvm-col-20090630-d09 | fichas/colegiado/2009-12.md |
+| decisao-colegiado | — | 2009-04-28 | deferido | O Colegiado aprovou a minuta de alteração do Estatuto Social da BM&FBOVESPA S.A., proposta nos termos do art. 20, § 2º, e do art. 117, II… | cvm-col-20090428-d05 | fichas/colegiado/2009-08.md |
+| decisao-colegiado | SP2009/0033 | 2009-04-08 | deferido | O Colegiado aprovou minuta de alteração do estatuto social da CETIP S.A., conforme análise da SMI que concluiu atender à Instrução CVM 461… | cvm-col-20090408-d01 | fichas/colegiado/2009-07.md |
+| decisao-colegiado | 461/2007; 010/2009 | 2009-03-31 | deferido | Cumprimento de requisitos da instrução nº 461/2007. | cvm-col-20090331-d05 | fichas/colegiado/2009-05.md |
+| decisao-colegiado | SP2008/0099 | 2008-12-19 | deferido | O Colegiado confirmou a autorização para instalação, no Brasil, de telas de acesso aos sistemas de negociação da Chicago Mercantile… | cvm-col-20081219-d01 | fichas/colegiado/2008-28.md |
+| decisao-colegiado | SP2008/0062 | 2008-10-21 | outro | O Colegiado considerou adaptados à Instrução CVM 461/07 os estatutos e normas da CETIP S.A., com base na manifestação favorável da SMI… | cvm-col-20081021-d10 | fichas/colegiado/2008-23.md |
+| decisao-colegiado | RJ2007/9091 | 2008-10-21 | outro | O Colegiado tomou ciência da aprovação pela SMI dos regulamentos da BSM e da BVSP sobre listagem, custódia e liquidação de BDRs Nível 1 não… | cvm-col-20081021-d02 | fichas/colegiado/2008-22.md |
+| acordao-crsfn | 37/00 | 2008-08-15 | condenacao | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Realização de operações com contratos futuros de Ibovespa em bolsa de mercadorias… | crsfn-7530 | fichas/crsfn/2008-05.md |
+| decisao-colegiado | RJ2008/4558 | 2008-06-24 | outro | O Colegiado deliberou pela perda de objeto e arquivou o pedido do Banco ABN Amro Real S.A. de autorização para venda, fora de bolsa, de… | cvm-col-20080624-d05 | fichas/colegiado/2008-14.md |
+| decisao-colegiado | 11/2008 | 2008-06-17 | deferido | O Colegiado autorizou BM&F, Bovespa e Cetip a enviar à SUSEP, sem o lapso de 30 dias, informações sobre operações e posições com… | cvm-col-20080617-d13 | fichas/colegiado/2008-14.md |
+| decisao-colegiado | RJ1990/0386 | 2008-06-05 | outro | Entendimento colegiado. Proc. RJ1990/0386. | cvm-col-20080605-d08 | fichas/colegiado/2008-12.md |
+| decisao-colegiado | — | 2008-04-15 | deferido | O Colegiado prorrogou, de 22 de abril para 22 de julho de 2008, o prazo para que as entidades administradoras de mercado (BM&F, Bovespa e… | cvm-col-20080415-d15 | fichas/colegiado/2008-09.md |
+| decisao-colegiado | SP2005/0311 | 2008-04-15 | deferido | O Colegiado aprovou a implantação do projeto de Envio Eletrônico de Informativos ao Investidor da Bovespa/CBLC (ANA e extratos de custódia… | cvm-col-20080415-d02 | fichas/colegiado/2008-09.md |
+| decisao-colegiado | — | 2008-02-26 | parcial | Regulamento processual e regulamento do mecanismo de ressarcimento de prejuízos da BSM. | cvm-col-20080226-d41 | fichas/colegiado/2008-05.md |
+| decisao-colegiado | SP2007/0209 | 2007-12-18 | outro | O Colegiado não acolheu reclamações da TOV CCTVM sobre convocação da AGE da BM&F, desmutualização e demonstrações financeiras, por não… | cvm-col-20071218-d15 | fichas/colegiado/2007-26.md |
+| decisao-colegiado | SP2007/0202 | 2007-12-04 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2007/0202. | cvm-col-20071204-d04 | fichas/colegiado/2007-24.md |
+| decisao-colegiado | RJ2005/2502 | 2007-11-13 | nao-provido | O Colegiado, por maioria, manteve decisão de 18.09.07 sobre reclamações ao fundo de garantia da BVSP, esclarecendo que nada mais é devido… | cvm-col-20071113-d03 | fichas/colegiado/2007-22.md |
+| decisao-colegiado | SP2007/0209 | 2007-10-09 | nao-provido | Aditamento ao pedido de reconsideração de decisão do colegiado. Proc. SP2007/0209. | cvm-col-20071009-d11 | fichas/colegiado/2007-19.md |
+| decisao-colegiado | SP2006/0109 | 2007-10-02 | parcial | Pedido de reconsideração de decisão do colegiado em processo de fundo de garantia. Proc. SP2006/0109. | cvm-col-20071002-d03 | fichas/colegiado/2007-18.md |
+| decisao-colegiado | SP2007/0144 | 2007-10-02 | deferido | O Colegiado aprovou o pedido da BM&F para lançamento de contratos a termo de metais e de contratos de opções de compra e venda sobre metais… | cvm-col-20071002-d02 | fichas/colegiado/2007-18.md |
+| acordao-crsfn | SP-2001-465 | 2007-09-27 | condenacao | RECURSOS VOLUNTÁRIOS – Mercado de valores mobiliários – Determinação da autoridade fiscalizadora para ressarcimento a investidores do Fundo… | crsfn-6297 | fichas/crsfn/2007-02.md |
+| decisao-colegiado | SP2007/0168 | 2007-09-25 | nao-provido | Pedido de reconsideração de decisão do colegiado. Proc. SP2007/0168. | cvm-col-20070925-d06 | fichas/colegiado/2007-18.md |
+| decisao-colegiado | — | 2007-08-27 | outro | O Colegiado aceitou a estrutura de auto-regulação proposta pela Bovespa na desmutualização, condicionando a aprovação dos estatutos da BM&F… | cvm-col-20070827-d02 | fichas/colegiado/2007-15.md |
+| pas | 15/2002 | 2007-08-21 | absolvicao | Supostos descumprimento ao art. 16 da Instrução CVM nº 89/88 e infração ao disposto no item III, do art. 11, do Regulamento Anexo à… | cvm-pas-15-2002 | fichas/pas/2007-10.md |
+| decisao-colegiado | SP2006/0109 | 2007-08-14 | provido | Recurso em processo de fundo de garantia. Proc. SP2006/0109. | cvm-col-20070814-d01 | fichas/colegiado/2007-14.md |
+| decisao-colegiado | RJ2003/9432 | 2007-07-10 | outro | O Colegiado acompanhou a proposta do Presidente e declarou a perda de objeto do processo de cancelamento da autorização da Cetip para atuar… | cvm-col-20070710-d01 | fichas/colegiado/2007-12.md |
+| decisao-colegiado | RJ2007/6837 | 2007-06-14 | provido | O Colegiado deu provimento ao recurso do Banco da Patagônia S.A. contra respostas da SEP em consulta: admitiu ADR lastreado em valores que… | cvm-col-20070614-d02 | fichas/colegiado/2007-10.md |
+| decisao-colegiado | SP2007/0075 | 2007-05-08 | deferido | O Colegiado entendeu que os Créditos de Volume Florestal não são valores mobiliários (inciso IX do art. 2º da Lei 6.385/76), com base no… | cvm-col-20070508-d04 | fichas/colegiado/2007-07.md |
+| termo-compromisso | SP2005/0173 | 2007-03-20 | aceito | O Colegiado aceitou proposta de termo de compromisso do Banco ABN Amro Real S.A., da Cia. Real de Valores DTVM e de um diretor, por… | cvm-col-20070320-d02 | fichas/tc/2007-02.md |
+| decisao-colegiado | RJ2005/9423 | 2007-03-14 | outro | Dissolução do fundo de garantia da bolsa de valores regional. Proc. RJ2005/9423. | cvm-col-20070314-d02 | fichas/colegiado/2007-04.md |
+| decisao-colegiado | RJ2006/1119 | 2007-01-23 | outro | O Colegiado aprovou a dissolução do Fundo de Garantia da Bolsa de Valores de Pernambuco e Paraíba, por cumpridas as condições fixadas em… | cvm-col-20070123-d07 | fichas/colegiado/2007-02.md |
+| decisao-colegiado | RJ2005/3947 | 2006-11-28 | outro | O Colegiado aprovou o convênio entre a Bovespa e a BMV para o projeto piloto de integração, com as alterações sugeridas pelas áreas (PFE… | cvm-col-20061128-d04 | fichas/colegiado/2006-18.md |
+| decisao-colegiado | RJ2005/5894 | 2006-11-22 | deferido | O Colegiado autorizou a CBLC a enviar extratos de custódia semestrais, em vez de mensais, relativos a debêntures da BNDESPAR, mantido o… | cvm-col-20061122-d09 | fichas/colegiado/2006-17.md |
+| decisao-colegiado | SP2006/0205 | 2006-11-22 | outro | O Colegiado aprovou alteração do regulamento de credenciamento e atuação do formador de mercado nos mercados de renda fixa da Bovespa, que… | cvm-col-20061122-d08 | fichas/colegiado/2006-17.md |
+| decisao-colegiado | RJ2006/5596 | 2006-11-22 | outro | O Colegiado, por unanimidade, acompanhou o voto do diretor que pediu vista sobre a listagem de companhias incentivadas em bolsa liquidanda… | cvm-col-20061122-d03 | fichas/colegiado/2006-17.md |
+| decisao-colegiado | SP2006/0047 | 2006-11-07 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2006/0047. | cvm-col-20061107-d07 | fichas/colegiado/2006-17.md |
+| decisao-colegiado | RJ2006/5968 | 2006-11-07 | deferido | O Colegiado aprovou o produto Capital Protegido e Participação (CPP), consultado pela Bovespa e pela CBLC, desde que atendidas as… | cvm-col-20061107-d05 | fichas/colegiado/2006-17.md |
+| decisao-colegiado | — | 2006-09-26 | — | Sem deliberação sobre pedido. O Colegiado registrou avaliação positiva da intenção da BOVESPA de se desmutualizar, com eventual registro… | cvm-col-20060926-d08 | fichas/colegiado/2006-15.md |
+| decisao-colegiado | RJ2006/4320 | 2006-08-15 | outro | O Colegiado aprovou, por unanimidade, enviar ao CMN proposta de alteração da Resolução 2.689/00 para prever cancelamento unilateral do… | cvm-col-20060815-d03 | fichas/colegiado/2006-13.md |
+| decisao-colegiado | SP2005/0160 | 2006-08-08 | indeferido | Em consulta da Eurex US, o Colegiado não autorizou a instalação no Brasil de trading screens de bolsa de futuros estrangeira, por falta de… | cvm-col-20060808-d05 | fichas/colegiado/2006-12.md |
+| decisao-colegiado | RJ2002/8450 | 2006-08-08 | deferido | Pedido de extinção do fundo de garantia da bolsa de valores do extremo sul. Proc. RJ2002/8450. | cvm-col-20060808-d01 | fichas/colegiado/2006-12.md |
+| decisao-colegiado | SP2005/0282 | 2006-08-01 | outro | O Colegiado decidiu, acompanhando a tese da SMI e não a da PFE, que contratos de curto prazo de energia elétrica negociados na BM&F não são… | cvm-col-20060801-d03 | fichas/colegiado/2006-12.md |
+| decisao-colegiado | RJ2005/5894 | 2006-07-25 | provido | O Colegiado deu provimento ao recurso da CBLC contra decisão da SMI sobre cálculo de eventos de custódia segregados por agente, por… | cvm-col-20060725-d01 | fichas/colegiado/2006-11.md |
+| decisao-colegiado | RJ2005/3947 | 2006-06-13 | deferido | O Colegiado autorizou o projeto piloto de integração entre a BOVESPA e a Bolsa Mexicana de Valores e concedeu dispensa de registro, nos… | cvm-col-20060613-d08 | fichas/colegiado/2006-09.md |
+| termo-compromisso | RJ2005/8404 | 2006-05-30 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso da Máxima S.A. DTVM e de um acusado, por contratação de instituição não credenciada… | cvm-col-20060530-d08 | fichas/tc/2006-02.md |
+| decisao-colegiado | RJ2006/1119 | 2006-04-25 | deferido | O Colegiado acolheu proposta da SMI e aprovou a dissolução da Bolsa de Valores de Pernambuco e Paraíba, precedida de aviso aos clientes das… | cvm-col-20060425-d03 | fichas/colegiado/2006-07.md |
+| decisao-colegiado | RJ2006/0906 | 2006-04-04 | deferido | O Colegiado autorizou a transferência de ativos do investidor não residente Refco LLC, custodiados no Banco Itaú, para a Man Financial… | cvm-col-20060404-d13 | fichas/colegiado/2006-06.md |
+| decisao-colegiado | RJ2006/0718 | 2006-04-04 | indeferido | Por maioria, vencido o relator, o Colegiado não autorizou a Citibank DTVM a transferir, fora de bolsa ou balcão organizado, posições de… | cvm-col-20060404-d02 | fichas/colegiado/2006-05.md |
+| decisao-colegiado | SP2006/0050 | 2006-03-21 | deferido | O Colegiado aprovou o pleito da BM&F de alterar contratos futuros de Ibovespa (ponto de R$ 3,00 para R$ 1,00; mini, de R$ 0,30 para R$… | cvm-col-20060321-d06 | fichas/colegiado/2006-05.md |
+| decisao-colegiado | RJ2005/9423 | 2006-01-10 | deferido | O Colegiado aprovou, acolhendo proposta da SMI, a dissolução da Bolsa de Valores Regional, precedida de aviso aos clientes das corretoras… | cvm-col-20060110-d01 | fichas/colegiado/2006-01.md |
+| decisao-colegiado | RJ2005/7852 | 2006-01-03 | provido | O Colegiado acolheu pedido de reconsideração da Bolsa de Valores do Paraná contra decisão de 29.11.05 que aprovou sua dissolução… | cvm-col-20060103-d04 | fichas/colegiado/2006-01.md |
+| decisao-colegiado | RJ2004/6153 | 2005-12-27 | parcial | O Colegiado conheceu em parte do pedido de reconsideração da TOV CCTVM e rejeitou o restante. Entendeu que estatutos com múltiplos… | cvm-col-20051227-d03 | fichas/colegiado/2005-20.md |
+| decisao-colegiado | SP2005/0311 | 2005-12-20 | indeferido | O Colegiado acompanhou o voto do Presidente e não acolheu proposta da Bovespa de envio eletrônico, em vez de correio, de documentos de… | cvm-col-20051220-d06 | fichas/colegiado/2005-20.md |
+| decisao-colegiado | RJ2005/3104 | 2005-12-20 | outro | O Colegiado, por maioria, manteve o número de conselheiros do estatuto da BM&F desde 2002 (17, acima do máximo de 13 do art. 13 da… | cvm-col-20051220-d02 | fichas/colegiado/2005-20.md |
+| decisao-colegiado | SP2005/0310 | 2005-12-13 | outro | O Colegiado aprovou o Regulamento do segmento Bovespa Mais, ressalvando que o cancelamento de registro nesse segmento, ainda que com… | cvm-col-20051213-d04 | fichas/colegiado/2005-19.md |
+| decisao-colegiado | RJ2005/6920; RJ2005/7852 | 2005-11-29 | outro | O Colegiado acolheu proposta da SMI e aprovou a dissolução da Bolsa de Valores do Paraná. A dissolução deverá ser precedida de aviso aos… | cvm-col-20051129-d03 | fichas/colegiado/2005-18.md |
+| decisao-colegiado | RJ90/0387 | 2005-10-25 | parcial | Novo pedido de reconsideração de decisão do colegiado em processo de fundo de garantia. Proc. RJ90/0387. | cvm-col-20051025-d01 | fichas/colegiado/2005-15.md |
+| decisao-colegiado | SP2005/0329 | 2005-09-20 | deferido | O Colegiado, acompanhando a área técnica, aprovou o Sistema de Negociação para Câmbio Interbancário (roda de dólar pronto) da BM&F… | cvm-col-20050920-d04 | fichas/colegiado/2005-13.md |
+| decisao-colegiado | SP2005/0282 | 2005-08-23 | — | O Colegiado aprovou o Regulamento do Contrato a Curto Prazo de Energia Elétrica apresentado pela BM&F. A SMI entendeu que o contrato não… | cvm-col-20050823-d07 | fichas/colegiado/2005-12.md |
+| decisao-colegiado | RJ2005/2108 | 2005-08-09 | outro | O Colegiado, após manifestação favorável da área técnica, nada teve a opor, dentro da esfera de competência da CVM, à consulta da BM&F… | cvm-col-20050809-d03 | fichas/colegiado/2005-11.md |
+| decisao-colegiado | RJ2004/2758 | 2005-07-21 | deferido | O Colegiado aprovou o Manual de Procedimentos Operacionais e o Regulamento de Operações do Mercado de Balcão Organizado da Bovespa… | cvm-col-20050721-d01 | fichas/colegiado/2005-10.md |
+| decisao-colegiado | RJ2004/6153 | 2005-05-31 | parcial | O Colegiado, por maioria, decidiu que a cláusula estatutária da BM&F que dispensa de motivar a não admissão de corretora não viola a… | cvm-col-20050531-d01 | fichas/colegiado/2005-08.md |
+| termo-compromisso | SP2002/0235 | 2005-05-16 | aceito | O Colegiado indeferiu as propostas de termo de compromisso da Telles Comercial e Corretora de Mercadorias Ltda. e de três pessoas físicas… | cvm-col-20050516-d01 | fichas/tc/2005-01.md |
+| decisao-colegiado | RJ2004/0140 | 2005-04-27 | outro | O Colegiado aprovou, com alterações, para audiência pública até 27 de maio, as minutas de Edital e de Instrução sobre operações sujeitas a… | cvm-col-20050427-d03 | fichas/colegiado/2005-07.md |
+| decisao-colegiado | RJ90/0387 | 2005-04-12 | parcial | Pedido de reconsideração de decisão do colegiado em processo de fundo de garantia. Proc. RJ90/0387. | cvm-col-20050412-d03 | fichas/colegiado/2005-06.md |
+| decisao-colegiado | RJ2004/7436 | 2005-03-29 | parcial | Com base nos fatos expostos pelo relator, o Colegiado concedeu ao Banco do Estado de Santa Catarina prorrogação de 120 dias, e não os 180… | cvm-col-20050329-d10 | fichas/colegiado/2005-06.md |
+| decisao-colegiado | SP2005/0154 | 2005-03-29 | deferido | O Colegiado, após ouvir a área técnica, autorizou as alterações no Regulamento de Operações e nos Procedimentos Operacionais da CBLC… | cvm-col-20050329-d08 | fichas/colegiado/2005-06.md |
+| decisao-colegiado | — | 2005-02-15 | deferido | O Colegiado autorizou a Bovespa a recomprar títulos patrimoniais, estendendo a autorização de 23.10.01 às aquisições de conglomerados… | cvm-col-20050215-d04 | fichas/colegiado/2005-03.md |
+| pas | 37/2000 | 2004-12-09 | absolvicao | Omissão no exercício de fiscalização das operações com contratos futuros de Ibovespa (Item III da Resolução CMN nº 1.645/89. Absolvição. | cvm-pas-37-2000 | fichas/pas/2004-15.md |
+| decisao-colegiado | SP2004/0515 | 2004-11-26 | outro | O Colegiado aprovou a minuta do Regulamento Web Trading BM&F sem ressalva, após a BM&F confirmar cobertura do fundo de garantia a… | cvm-col-20041126-d01 | fichas/colegiado/2004-14.md |
+| decisao-colegiado | SP2004/0515 | 2004-11-23 | outro | O Colegiado aprovou o Regulamento do sistema Web Trading da BM&F para contratos derivativos mini, condicionado à revisão dos arts. 17, 18 e… | cvm-col-20041123-d06 | fichas/colegiado/2004-14.md |
+| decisao-colegiado | RJ90/0386 | 2004-10-25 | provido | Após pedido de vista do Presidente, o Colegiado, acompanhando o relator, acolheu recurso de investidor contra decisão da SMI e determinou a… | cvm-col-20041025-d01 | fichas/colegiado/2004-12.md |
+| pas | SP2001/465 | 2004-10-06 | condenacao | BOLSA DE VALORES DE MINAS - [pessoa física] - BRASÍLIA E OUTRO - Descumprimento de decisões CVM exaradas em processos de Fundo de Garantia… | cvm-pas-sp2001-0465 | fichas/pas/2004-12.md |
+| decisao-colegiado | RJ2001/4771 | 2004-08-24 | parcial | Pedido de reconsideração de decisão do colegiado em processo de fundo de garantia. Proc. RJ2001/4771. | cvm-col-20040824-d02 | fichas/colegiado/2004-10.md |
+| decisao-colegiado | RJ2003/11185 | 2004-08-05 | outro | Recurso contra decisão da SMI. Proc. RJ2003/11185. | cvm-col-20040805-d06 | fichas/colegiado/2004-09.md |
+| decisao-colegiado | RJ2001/4771 | 2004-07-13 | — | Pedido de reconsideração de decisão do colegiado em processo de fundo de garantia. Proc. RJ2001/4771. | cvm-col-20040713-d10 | fichas/colegiado/2004-08.md |
+| decisao-colegiado | RJ2004/1838 | 2004-07-06 | outro | Consulta da bvrj sobre utilização de recursos do fundo de garantia para pagamento de indenização trabalhista. Proc. RJ2004/1838. | cvm-col-20040706-d04 | fichas/colegiado/2004-08.md |
+| decisao-colegiado | SP2002/0205 | 2004-07-06 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2002/0205. | cvm-col-20040706-d02 | fichas/colegiado/2004-08.md |
+| decisao-colegiado | SP2003/0359 | 2004-07-02 | nao-provido | Pedido de reconsideração de decisão do colegiado em processo de fundo de garantia. Proc. SP2003/0359. | cvm-col-20040702-d06 | fichas/colegiado/2004-08.md |
+| decisao-colegiado | SP2003/0342 | 2004-06-24 | nao-provido | Pedido de reconsideração de decisão do colegiado em processo de fundo de garantia. Proc. SP2003/0342. | cvm-col-20040624-d10 | fichas/colegiado/2004-07.md |
+| decisao-colegiado | SP2003/0167 | 2004-06-24 | provido | Recurso em processo de fundo de garantia. Proc. SP2003/0167. | cvm-col-20040624-d02 | fichas/colegiado/2004-07.md |
+| decisao-colegiado | RJ90/0386 | 2004-06-24 | outro | Recurso em processo de fundo de garantia. Proc. RJ90/0386. | cvm-col-20040624-d01 | fichas/colegiado/2004-07.md |
+| decisao-colegiado | SP2002/0274 | 2004-06-15 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2002/0274. | cvm-col-20040615-d02 | fichas/colegiado/2004-06.md |
+| decisao-colegiado | SP1995/0053 | 2004-06-15 | provido | Pedido de revisão de decisão do colegiado. Proc. SP 1995/0053. | cvm-col-20040615-d01 | fichas/colegiado/2004-06.md |
+| decisao-colegiado | RJ2004/1949 | 2004-06-01 | provido | O Colegiado acompanhou o voto do diretor-relator e deu provimento a recurso do Banco Sudameris contra entendimento da SEP de que a… | cvm-col-20040601-d01 | fichas/colegiado/2004-06.md |
+| decisao-colegiado | RJ99/5785 | 2004-05-25 | nao-provido | Recurso em processo de fundo de garantia. Proc. RJ99/5785. | cvm-col-20040525-d01 | fichas/colegiado/2004-06.md |
+| decisao-colegiado | RJ90/0387 | 2004-05-18 | nao-provido | Recurso contra a decisão da SMI em processo de fundo de garantia. Proc. RJ90/0387. | cvm-col-20040518-d03 | fichas/colegiado/2004-06.md |
+| decisao-colegiado | RJ2001/4771 | 2004-05-11 | parcial | Pedido de reconsideração de decisão do colegiado em processo de fundo de garantia. Proc. RJ2001/4771. | cvm-col-20040511-d01 | fichas/colegiado/2004-05.md |
+| decisao-colegiado | SP2003/0167 | 2004-05-04 | — | Recurso em processo de fundo de garantia. Proc. SP2003/0167. | cvm-col-20040504-d01 | fichas/colegiado/2004-05.md |
+| decisao-colegiado | SP2003/0359 | 2004-04-20 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2003/0359. | cvm-col-20040420-d02 | fichas/colegiado/2004-05.md |
+| decisao-colegiado | SP1995/0053 | 2004-03-23 | — | Pedido de revisão da decisão do Colegiado de 30.08.2002, que reformou a decisão da Bovespa e determinou a reposição, pelo fundo de… | cvm-col-20040323-d01 | fichas/colegiado/2004-04.md |
+| decisao-colegiado | SP2002/0572 | 2004-03-02 | nao-provido | O Colegiado, acompanhando a Diretora-Relatora, não acolheu pedido de reconsideração da decisão de 08/04/2003, que acolheu reclamação de… | cvm-col-20040302-d01 | fichas/colegiado/2004-02.md |
+| decisao-colegiado | SP2003/0464 | 2004-01-21 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2003/0464. | cvm-col-20040121-d06 | fichas/colegiado/2004-01.md |
+| decisao-colegiado | SP2003/0342 | 2003-12-22 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2003/0342. | cvm-col-20031222-d01 | fichas/colegiado/2003-14.md |
+| decisao-colegiado | SP2003/0151 | 2003-11-25 | nao-provido | O Colegiado indeferiu efeito suspensivo e pedido de reconsideração da Solidez CCTVM Ltda., mantendo decisão do Fundo de Garantia da Bovespa… | cvm-col-20031125-d02 | fichas/colegiado/2003-13.md |
+| decisao-colegiado | SP99/0255 | 2003-11-18 | outro | Recurso em processo de fundo de garantia da BOVESPA. Proc. SP99/0255. | cvm-col-20031118-d01 | fichas/colegiado/2003-13.md |
+| decisao-colegiado | — | 2003-10-28 | deferido | O Colegiado aprovou o novo contrato futuro da BM&F referenciado no índice Dow Jones Brazil ADR Index (ADRIndex). | cvm-col-20031028-d08 | fichas/colegiado/2003-12.md |
+| decisao-colegiado | 387/2003 | 2003-07-29 | outro | O Colegiado aprovou as Resoluções nºs 288/03, 289/03, 290/03 e 291/03 do Conselho de Administração da Bovespa, nos termos do art. 22 da… | cvm-col-20030729-d03 | fichas/colegiado/2003-10.md |
+| decisao-colegiado | 384/2003 | 2003-07-29 | outro | O Colegiado aprovou a Resolução 293/03 do Conselho de Administração da Bovespa, apreciada nos termos do art. 3º da Instrução CVM 384/2003. | cvm-col-20030729-d02 | fichas/colegiado/2003-10.md |
+| decisao-colegiado | RJ2003/0023 | 2003-06-10 | nao-provido | O Colegiado negou provimento a recurso da Opportunity DTVM contra indeferimento de certidão dos assentamentos do livro de ações… | cvm-col-20030610-d01 | fichas/colegiado/2003-07.md |
+| decisao-colegiado | SP2002/0107 | 2003-05-20 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2002/0107. | cvm-col-20030520-d04 | fichas/colegiado/2003-06.md |
+| decisao-colegiado | RJ2002/8598 | 2003-05-13 | deferido | Cancelamento da autorização da centralclearing de compensação e liquidação S.A. Proc. RJ2002/8598. | cvm-col-20030513-d10 | fichas/colegiado/2003-06.md |
+| decisao-colegiado | SP2001/0227 | 2003-05-13 | provido | Recurso em processo de fundo de garantia. Proc. SP2001/0227. | cvm-col-20030513-d04 | fichas/colegiado/2003-06.md |
+| decisao-colegiado | RJ2002/8450 | 2003-04-29 | deferido | O Colegiado aprovou o pedido de cancelamento de registro da Bolsa de Valores do Extremo Sul, em liquidação. | cvm-col-20030429-d11 | fichas/colegiado/2003-05.md |
+| decisao-colegiado | SP2002/0572 | 2003-04-08 | provido | Recurso em processo de fundo de garantia da bvrj. Proc. SP2002/0572. | cvm-col-20030408-d05 | fichas/colegiado/2003-04.md |
+| decisao-colegiado | RJ2002/8450 | 2003-03-12 | outro | O Colegiado acompanhou o voto do diretor-relator e aprovou a dissolução da Bolsa de Valores do Extremo Sul (BVES), deliberada por suas… | cvm-col-20030312-d09 | fichas/colegiado/2003-03.md |
+| decisao-colegiado | RJ2001/7977 | 2003-02-04 | nao-provido | Recurso em processo de fundo de garantia. Proc. RJ2001/7977. | cvm-col-20030204-d03 | fichas/colegiado/2003-02.md |
+| decisao-colegiado | RJ2000/6398 | 2003-02-04 | provido | Recurso contra decisão da SMI em processo de fundo de garantia. Proc. RJ2000/6398. | cvm-col-20030204-d02 | fichas/colegiado/2003-02.md |
+| decisao-colegiado | SP2001/0294 | 2003-01-14 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2001/0294. | cvm-col-20030114-d10 | fichas/colegiado/2003-01.md |
+| decisao-colegiado | SP2001/0293 | 2003-01-14 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2001/0293. | cvm-col-20030114-d09 | fichas/colegiado/2003-01.md |
+| decisao-colegiado | RJ2000/1894 | 2002-11-22 | nao-provido | Recurso contra decisão da SMI em processo de fundo de garantia. Proc. RJ2000/1894. | cvm-col-20021122-d04 | fichas/colegiado/2002-25.md |
+| decisao-colegiado | RJ2002/5645 | 2002-11-05 | deferido | Pleito da bolsa de valores do paraná de encerramento de seu fundo de garantia. Proc. RJ2002/5645. | cvm-col-20021105-d01 | fichas/colegiado/2002-25.md |
+| decisao-colegiado | SP2002/0206 | 2002-10-01 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2002/0206. | cvm-col-20021001-d05 | fichas/colegiado/2002-23.md |
+| decisao-colegiado | RJ2002/1330 | 2002-09-20 | provido | O Colegiado acatou pedido de reconsideração da Centro Hospitalar Albert Sabin S.A. contra decisão que indeferiu recurso por atraso na 1ª… | cvm-col-20020920-d02 | fichas/colegiado/2002-22.md |
+| decisao-colegiado | — | 2002-08-13 | deferido | O Colegiado autorizou o funcionamento da CentralClearing de Compensação e Liquidação S.A., com as observações da área técnica. A SMI havia… | cvm-col-20020813-d06 | fichas/colegiado/2002-20.md |
+| decisao-colegiado | SP2001/0274 | 2002-07-03 | parcial | O Colegiado acompanhou o voto do relator, que acolheu em parte pedido de reconsideração da BVRJ: corrigiu para 94.000 os recibos Telebrás a… | cvm-col-20020703-d05 | fichas/colegiado/2002-15.md |
+| decisao-colegiado | RJ2002/2004 | 2002-05-21 | outro | O Colegiado aprovou o descredenciamento da Bolsa de Valores de Santos, incorporada pela Bovespa. Segundo a SMI, em concordância com a GME… | cvm-col-20020521-d02 | fichas/colegiado/2002-12.md |
+| decisao-colegiado | RJ2002/2415 | 2002-05-14 | — | Recurso contra decisão da SMI que determinou a convocação de assembleia da Bolsa de Valores da Bahia - Sergipe - Alagoas em 3 dias. A… | cvm-col-20020514-d05 | fichas/colegiado/2002-11.md |
+| decisao-colegiado | SP2001/0806 | 2002-04-16 | nao-provido | Recurso contra a decisão da SMI em processo de fundo de garantia. Proc. SP2001/0806. | cvm-col-20020416-d04 | fichas/colegiado/2002-08.md |
+| decisao-colegiado | RJ97/0548 | 2002-02-14 | nao-provido | O Colegiado negou provimento a recurso contra parecer da SOI que considerou regular a atuação da BVRJ na liquidação de operações a termo… | cvm-col-20020214-d02 | fichas/colegiado/2002-02.md |
+| acordao-crsfn | 15/98 | 2000-07-28 | condenacao | RECURSO DE OFÍCIO – Custódia de valores mobiliários de clientes – Caracterização de irregularidades na movimentação – Decretação de… | crsfn-3006 | fichas/crsfn/2000-04.md |
 
 Fim do subíndice.

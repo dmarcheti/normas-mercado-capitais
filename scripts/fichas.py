@@ -33,7 +33,10 @@ id ou data e erro: o script falha e diz qual arquivo. Falta de texto nunca vira
 "ok": sem corpo, o trecho diz "sem texto no acervo".
 
 Regra do trecho da decisao (ate 1.500 caracteres, cortado em limite de palavra,
-com " [...]" no fim quando cortou; espacos colapsados; negritos removidos).
+com " [...]" no fim quando cortou; espacos colapsados; negritos removidos). Nos grupos `pas` e `crsfn`
+o limite e 4.000 (LIMITE_TRECHO_GRUPO): decisao com varios acusados ou varias partes (multas, absolvicoes,
+resultado por acusado) era cortada em 1.500 e a resposta perdia parte do dispositivo. Os demais grupos
+ficam em 1.500. A divisao dos arquivos em -NN (24.000 bytes) absorve a ficha maior.
 Regras testadas na ordem, a primeira que acerta vale. O titulo (linha "# ...")
 fica fora da busca, porque "DECISAO" aparece nele ("recurso contra DECISAO da
 SEP"): 5.236 julgados do Colegiado tinham esse marcador so por causa disso.
@@ -56,7 +59,7 @@ SEP"): 5.236 julgados do Colegiado tinham esse marcador so por causa disso.
 5. frase-decisoria: no corpo todo, a primeira frase "O Colegiado ... <verbo
    decisorio>"; sem ela, "decidiu", "deliberou", "por unanimidade", "Ante o
    exposto" ou "voto por" (nessa ordem). Comeca no achado.
-6. fallback-fim: sem marcador, os ultimos 1.500 caracteres do corpo (o campo
+6. fallback-fim: sem marcador, os ultimos caracteres do corpo (limite do grupo) (o campo
    resultado ja vai na ficha). Corpo vazio: "sem texto no acervo".
 
 decisoes-antigas: cada arquivo anual (1978 a 2001) traz varias decisoes, cada
@@ -89,6 +92,8 @@ PASTA_FICHAS = "fichas"  # nome da pasta sob `julgados/` da skill; os indices ci
 BASE_URL = "https://raw.githubusercontent.com/dmarcheti/normas-mercado-capitais/main/julgados/"
 LIMITE_ARQUIVO = 24000
 LIMITE_TRECHO = 1500
+# Grupos de decisao com varias partes: o trecho vai a 4.000 caracteres. Os demais usam LIMITE_TRECHO.
+LIMITE_TRECHO_GRUPO = {"pas": 4000, "crsfn": 4000}
 SEMENTE_AMOSTRA = 20261112
 
 CAMPOS = ["id", "tipo", "processo", "data", "relator", "resultado", "ementa", "tema",
@@ -267,9 +272,9 @@ def grupo_e_ano(rel, fm):
 
 def ficha_de_julgado(rel, fm, corpo):
     grupo, ano = grupo_e_ano(rel, fm)
-    trecho, regra = trecho_decisao(corpo)
+    trecho, regra = trecho_decisao(corpo, LIMITE_TRECHO_GRUPO.get(grupo, LIMITE_TRECHO))
     return {"grupo": grupo, "ano": ano, "data": fm["data"], "id": fm["id"], "rel": rel,
-            "regra": regra,
+            "regra": regra, "ementa": _limpar(fm.get("ementa", "") or ""),
             "texto": formatar_ficha(fm, url_texto(rel), regra, trecho)}
 
 

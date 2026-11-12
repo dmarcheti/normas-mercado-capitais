@@ -28,8 +28,8 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|
 | art. 5º | decisao-colegiado | 578/2016; 19957.006557/2017-30 | 2017-08-16 | outro | cvm-col-20170816-d0785 | fichas/colegiado/2017-14.md |
 | art. 5º | decisao-colegiado | 19957.006804/2017-06 | 2018-01-16 | nao-provido | cvm-col-20180116-d0895 | fichas/colegiado/2018-01.md |
-| art. 5º | pas | 19957.010053/2021-09 | 2024-06-13 | parcial | cvm-pas-19957-010053-2021-09 | fichas/pas/2024-03.md |
-| art. 5º | pas | 19957.010194/2019-07 | 2024-06-13 | parcial | cvm-pas-19957-010194-2019-07 | fichas/pas/2024-04.md |
+| art. 5º | pas | 19957.010053/2021-09 | 2024-06-13 | parcial | cvm-pas-19957-010053-2021-09 | fichas/pas/2024-06.md |
+| art. 5º | pas | 19957.010194/2019-07 | 2024-06-13 | parcial | cvm-pas-19957-010194-2019-07 | fichas/pas/2024-07.md |
 
 ## art. 9º
 
@@ -116,7 +116,7 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|
 | art. 38 | decisao-colegiado | 19957.005558/2020-62 | 2020-09-29 | deferido | cvm-col-20200929-d1913 | fichas/colegiado/2020-16.md |
 | art. 38 | decisao-colegiado | 19957.002358/2021-39 | 2021-10-26 | indeferido | cvm-col-20211026-d2358 | fichas/colegiado/2021-18.md |
-| art. 38, § 2º | pas | 19957.007626/2019-94 | 2024-12-03 | parcial | cvm-pas-19957-007626-2019-94 | fichas/pas/2024-10.md |
+| art. 38, § 2º | pas | 19957.007626/2019-94 | 2024-12-03 | parcial | cvm-pas-19957-007626-2019-94 | fichas/pas/2024-20.md |
 
 ## art. 39
 
@@ -170,11 +170,11 @@ Norma: fora do acervo.
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.005021/2021-83 | 2025-07-22 | — | cvm-col-20250722-d3315 | fichas/colegiado/2025-07.md |
-| pas | 19957.005532/2021-03 | 2024-08-13 | absolvicao | cvm-pas-19957-005532-2021-03 | fichas/pas/2024-06.md |
-| pas | 19957.005226/2020-88 | 2024-07-30 | absolvicao | cvm-pas-19957-005226-2020-88 | fichas/pas/2024-06.md |
+| pas | 19957.005532/2021-03 | 2024-08-13 | absolvicao | cvm-pas-19957-005532-2021-03 | fichas/pas/2024-12.md |
+| pas | 19957.005226/2020-88 | 2024-07-30 | absolvicao | cvm-pas-19957-005226-2020-88 | fichas/pas/2024-11.md |
 | decisao-colegiado | 19957.009753/2023-12 | 2023-11-29 | — | cvm-col-20231129-d2947 | fichas/colegiado/2023-13.md |
-| pas | 19957.002026/2019-30 | 2023-09-26 | parcial | cvm-pas-19957-002026-2019-30 | fichas/pas/2023-06.md |
-| pas | 19957.001921/2020-71 | 2022-11-08 | parcial | cvm-pas-19957-001921-2020-71 | fichas/pas/2022-05.md |
+| pas | 19957.002026/2019-30 | 2023-09-26 | parcial | cvm-pas-19957-002026-2019-30 | fichas/pas/2023-11.md |
+| pas | 19957.001921/2020-71 | 2022-11-08 | parcial | cvm-pas-19957-001921-2020-71 | fichas/pas/2022-11.md |
 | decisao-colegiado | 19957.006040/2021-27 | 2021-12-21 | indeferido | cvm-col-20211221-d2445 | fichas/colegiado/2021-23.md |
 | termo-compromisso | 19957.007626/2019-94 | 2021-11-09 | rejeitado | cvm-col-20211109-d2182 | fichas/tc/2021-07.md |
 | decisao-colegiado | 19957.006060/2021-06 | 2021-10-05 | deferido | cvm-col-20211005-d2325 | fichas/colegiado/2021-16.md |

@@ -26,7 +26,7 @@ Norma: [cvm/resolucoes/0024.md](../../normas/cvm/resolucoes/0024.md) (texto vige
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 59 | pas | 19957.011865/2017-87 | 2022-12-15 | absolvicao | cvm-pas-19957-011865-2017-87 | fichas/pas/2022-06.md |
+| art. 59 | pas | 19957.011865/2017-87 | 2022-12-15 | absolvicao | cvm-pas-19957-011865-2017-87 | fichas/pas/2022-12.md |
 
 ## art. 73
 
@@ -38,7 +38,7 @@ Norma: [cvm/resolucoes/0024.md](../../normas/cvm/resolucoes/0024.md) (texto vige
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 90, § 8º | pas | 19957.009152/2018-34 | 2023-12-12 | parcial | cvm-pas-19957-009152-2018-34 | fichas/pas/2023-09.md |
+| art. 90, § 8º | pas | 19957.009152/2018-34 | 2023-12-12 | parcial | cvm-pas-19957-009152-2018-34 | fichas/pas/2023-17.md |
 
 ## art. 91
 

@@ -76,12 +76,15 @@ Vincula só aderentes (ANBIMA) e participantes (B3); texto extraído de PDF, a v
 | B3, Manual de Normas do Subsistema de Registro, de Depósito Centralizado e de Compensação e Liquidação | regras-base dos subsistemas a que o manual de CRI remete | sem artigos citados | `autorregulacao/b3/manual-de-normas-do-subsistema-de-registro-do-subsistema-de-deposito-centralizad.md` |
 | B3, Regulamento do Balcão B3 | regras-base do Balcão a que o manual de CRI remete | sem artigos citados | `autorregulacao/b3/regulamento-do-balcao-b3.md` |
 
+## Julgados
+
+- Julgados e decisões do Colegiado da CVM sobre securitizadoras e agentes fiduciários: estão no acervo. Comece por [`tema-securitizacao.md`](../../julgados/indices/tema-securitizacao.md) e pelos que citam a Res. CVM 60 ([`norma-cvm-res-60.md`](../../julgados/indices/norma-cvm-res-60.md)) e a Lei 14.430 ([`norma-lei-14430.md`](../../julgados/indices/norma-lei-14430.md)); a coluna Ementa mostra o assunto de cada linha. Julgado não é norma: siga "Julgados" no `SKILL.md`.
+
 ## Fora do acervo
 
 - Lei 4.591/1964 (incorporação imobiliária; patrimônio de afetação, arts. 31-A e 31-B, citados no Anexo I da Res. CVM 60): não encontrada no acervo.
 - Decreto-Lei 70/1966 (agentes fiduciários no SFH, citado na Res. CMN 2.572 e na Res. CMN 2.830): não encontrado no acervo.
 - Lei 13.874/2019 e Lei 14.130/2021: não encontradas no acervo como arquivo (não regem o CRI diretamente).
-- Julgados e decisões do Colegiado da CVM sobre securitizadoras e agentes fiduciários: não encontrados no acervo.
 - Regulamentação da Receita Federal sobre a isenção e a tributação de CRI: não encontrada no acervo.
 - Instrução CVM 414 (CRI) e demais instruções revogadas pelo art. 67 da Res. CVM 60: fora do perímetro (norma revogada).
 - Ofícios da CVM só com verbete, sem texto no acervo: SIN 10/19 e SIN 08/19 (informações de CRI e CRA com patrimônio separado), SIN 08/20 (securitizadoras de créditos financeiros), SRE 02/17 (crowdfunding, Instrução 588). Situação não informada pela CVM.

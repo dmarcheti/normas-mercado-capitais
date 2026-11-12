@@ -28,10 +28,10 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|
 | art. 11 | acordao-crsfn | 02/99 | 2005-04-27 | parcial | crsfn-4287 | fichas/crsfn/2005-01.md |
 | art. 11 | acordao-crsfn | SP-2001-0034 | 2007-09-26 | parcial | crsfn-7361 | fichas/crsfn/2007-02.md |
-| art. 11 | pas | 02/1999 | 2001-09-06 | parcial | cvm-pas-02-1999 | fichas/pas/2001-03.md |
-| art. 11 | pas | 05/2004 | 2007-04-24 | absolvicao | cvm-pas-05-2004 | fichas/pas/2007-03.md |
-| art. 11, inciso I | pas | 05/2004 | 2007-04-24 | absolvicao | cvm-pas-05-2004 | fichas/pas/2007-03.md |
-| art. 11, inciso II | pas | 05/2004 | 2007-04-24 | absolvicao | cvm-pas-05-2004 | fichas/pas/2007-03.md |
+| art. 11 | pas | 02/1999 | 2001-09-06 | parcial | cvm-pas-02-1999 | fichas/pas/2001-06.md |
+| art. 11 | pas | 05/2004 | 2007-04-24 | absolvicao | cvm-pas-05-2004 | fichas/pas/2007-05.md |
+| art. 11, inciso I | pas | 05/2004 | 2007-04-24 | absolvicao | cvm-pas-05-2004 | fichas/pas/2007-05.md |
+| art. 11, inciso II | pas | 05/2004 | 2007-04-24 | absolvicao | cvm-pas-05-2004 | fichas/pas/2007-05.md |
 
 ## art. 12
 
@@ -58,7 +58,7 @@ Norma: fora do acervo.
 | acordao-crsfn | 05/04 | 2012-02-13 | arquivamento | crsfn-11632 | fichas/crsfn/2012-01.md |
 | termo-compromisso | 05/2004 | 2007-02-14 | rejeitado | cvm-col-20070214-d04 | fichas/tc/2007-01.md |
 | decisao-colegiado | — | 2006-10-18 | outro | cvm-col-20061018-d03 | fichas/colegiado/2006-16.md |
-| pas | 35/1999 | 2003-10-09 | parcial | cvm-pas-35-1999 | fichas/pas/2003-03.md |
+| pas | 35/1999 | 2003-10-09 | parcial | cvm-pas-35-1999 | fichas/pas/2003-06.md |
 | decisao-antiga | — | 1997-01-13 | — | cvm-dec-1997-0001 | fichas/decisoes-antigas/1997-12.md |
 
 Fim do subíndice.

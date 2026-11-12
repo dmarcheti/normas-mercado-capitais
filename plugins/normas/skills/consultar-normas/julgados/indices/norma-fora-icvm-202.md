@@ -54,21 +54,21 @@ Este subíndice tem 2837 linhas e uma leitura única é cortada em silêncio per
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 1º | acordao-crsfn | 28/00 | 2005-11-09 | condenacao | crsfn-4788 | fichas/crsfn/2005-02.md |
-| art. 1º | pas | 28/2000 | 2002-11-14 | — | cvm-pas-28-2000 | fichas/pas/2002-03.md |
+| art. 1º | pas | 28/2000 | 2002-11-14 | — | cvm-pas-28-2000 | fichas/pas/2002-06.md |
 
 ## art. 2º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 2º | acordao-crsfn | 38/00 | 2006-08-18 | parcial | crsfn-5278 | fichas/crsfn/2006-01.md |
-| art. 2º | pas | 38/2000 | 2003-04-02 | parcial | cvm-pas-38-2000 | fichas/pas/2003-01.md |
+| art. 2º | pas | 38/2000 | 2003-04-02 | parcial | cvm-pas-38-2000 | fichas/pas/2003-02.md |
 | art. 2º | pas | 11/2013 | 2018-01-30 | parcial | cvm-pas-11-2013 | fichas/pas/2018-01.md |
 
 ## art. 3º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 3º | pas | RJ2007/3639 | 2007-10-31 | condenacao | cvm-pas-rj2007-3639 | fichas/pas/2007-07.md |
+| art. 3º | pas | RJ2007/3639 | 2007-10-31 | condenacao | cvm-pas-rj2007-3639 | fichas/pas/2007-14.md |
 
 ## art. 4º
 
@@ -92,16 +92,16 @@ Este subíndice tem 2837 linhas e uma leitura única é cortada em silêncio per
 | art. 5º | acordao-crsfn | RJ2001/06835 | 2005-11-09 | condenacao | crsfn-4288 | fichas/crsfn/2005-02.md |
 | art. 5º | acordao-crsfn | 05/8528 | 2011-05-31 | parcial | crsfn-11646 | fichas/crsfn/2011-02.md |
 | art. 5º | acordao-crsfn | RJ2007/4665 | 2016-03-29 | parcial | crsfn-12570 | fichas/crsfn/2016-02.md |
-| art. 5º | acordao-crsfn | RJ2010/1380 | 2017-03-14 | condenacao | crsfn-13870 | fichas/crsfn/2017-02.md |
+| art. 5º | acordao-crsfn | RJ2010/1380 | 2017-03-14 | condenacao | crsfn-13870 | fichas/crsfn/2017-03.md |
 | art. 5º | decisao-colegiado | RJ2005/6541 | 2007-10-09 | nao-provido | cvm-col-20071009-d01 | fichas/colegiado/2007-18.md |
 | art. 5º | termo-compromisso | RJ2007/13030 | 2008-05-27 | rejeitado | cvm-col-20080527-d03 | fichas/tc/2008-04.md |
 | art. 5º | termo-compromisso | RJ2010/8708 | 2010-11-30 | rejeitado | cvm-col-20101130-d03 | fichas/tc/2010-06.md |
 | art. 5º | decisao-antiga | — | 1999-01-29 | — | cvm-dec-1999-0001 | fichas/decisoes-antigas/1999-28.md |
-| art. 5º | pas | 26/1999 | 2001-09-06 | condenacao | cvm-pas-26-1999 | fichas/pas/2001-03.md |
-| art. 5º | pas | RJ2005/8528 | 2007-01-24 | parcial | cvm-pas-rj2005-8528 | fichas/pas/2007-01.md |
-| art. 5º | pas | RJ2007/4665 | 2009-03-03 | parcial | cvm-pas-rj2007-4665 | fichas/pas/2009-01.md |
+| art. 5º | pas | 26/1999 | 2001-09-06 | condenacao | cvm-pas-26-1999 | fichas/pas/2001-06.md |
+| art. 5º | pas | RJ2005/8528 | 2007-01-24 | parcial | cvm-pas-rj2005-8528 | fichas/pas/2007-02.md |
+| art. 5º | pas | RJ2007/4665 | 2009-03-03 | parcial | cvm-pas-rj2007-4665 | fichas/pas/2009-02.md |
 | art. 5º | pas | RJ2007/4665 | 2013-02-05 | condenacao | cvm-pas-rj2007-4665-2 | fichas/pas/2013-01.md |
-| art. 5º | pas | RJ2010/1380 | 2013-05-28 | condenacao | cvm-pas-rj2010-1380 | fichas/pas/2013-03.md |
+| art. 5º | pas | RJ2010/1380 | 2013-05-28 | condenacao | cvm-pas-rj2010-1380 | fichas/pas/2013-05.md |
 
 ## art. 6º
 
@@ -109,66 +109,66 @@ Este subíndice tem 2837 linhas e uma leitura única é cortada em silêncio per
 |---|---|---|---|---|---|---|
 | art. 6º | acordao-crsfn | 97/2956 | 2000-09-29 | condenacao | crsfn-2782 | fichas/crsfn/2000-04.md |
 | art. 6º | acordao-crsfn | RJ2001/06835 | 2005-11-09 | condenacao | crsfn-4288 | fichas/crsfn/2005-02.md |
-| art. 6º | acordao-crsfn | RJ-2006/1622 | 2008-07-30 | absolvicao | crsfn-11474 | fichas/crsfn/2008-04.md |
-| art. 6º | acordao-crsfn | RJ-2006/1623 | 2008-07-30 | absolvicao | crsfn-11475 | fichas/crsfn/2008-04.md |
-| art. 6º | acordao-crsfn | 09/03 | 2008-05-27 | parcial | crsfn-9793 | fichas/crsfn/2008-02.md |
-| art. 6º | acordao-crsfn | RJ-2006-783 | 2008-08-28 | absolvicao | crsfn-9814 | fichas/crsfn/2008-04.md |
-| art. 6º | acordao-crsfn | RJ2006/806 | 2008-05-27 | absolvicao | crsfn-9843 | fichas/crsfn/2008-02.md |
-| art. 6º | acordao-crsfn | RJ-2005-5936 | 2009-11-16 | condenacao | crsfn-11055 | fichas/crsfn/2009-06.md |
-| art. 6º | acordao-crsfn | RJ-2005-8578 | 2009-10-27 | absolvicao | crsfn-11103 | fichas/crsfn/2009-05.md |
-| art. 6º | acordao-crsfn | RJ-2005-7128 | 2009-08-24 | extincao | crsfn-11205 | fichas/crsfn/2009-04.md |
-| art. 6º | acordao-crsfn | RJ-2006-1528 | 2009-06-29 | absolvicao | crsfn-11214 | fichas/crsfn/2009-03.md |
-| art. 6º | acordao-crsfn | RJ-2005-4045 | 2009-10-27 | absolvicao | crsfn-11437 | fichas/crsfn/2009-05.md |
-| art. 6º | acordao-crsfn | RJ-2006-1621 | 2009-05-06 | absolvicao | crsfn-11636 | fichas/crsfn/2009-02.md |
-| art. 6º | acordao-crsfn | RJ-2006-8981 | 2009-05-06 | condenacao | crsfn-11637 | fichas/crsfn/2009-02.md |
-| art. 6º | acordao-crsfn | RJ-2001-7749 | 2009-06-29 | parcial | crsfn-7358 | fichas/crsfn/2009-03.md |
-| art. 6º | acordao-crsfn | RJ-2005-3711 | 2009-11-16 | absolvicao | crsfn-9427 | fichas/crsfn/2009-06.md |
+| art. 6º | acordao-crsfn | RJ-2006/1622 | 2008-07-30 | absolvicao | crsfn-11474 | fichas/crsfn/2008-05.md |
+| art. 6º | acordao-crsfn | RJ-2006/1623 | 2008-07-30 | absolvicao | crsfn-11475 | fichas/crsfn/2008-05.md |
+| art. 6º | acordao-crsfn | 09/03 | 2008-05-27 | parcial | crsfn-9793 | fichas/crsfn/2008-03.md |
+| art. 6º | acordao-crsfn | RJ-2006-783 | 2008-08-28 | absolvicao | crsfn-9814 | fichas/crsfn/2008-05.md |
+| art. 6º | acordao-crsfn | RJ2006/806 | 2008-05-27 | absolvicao | crsfn-9843 | fichas/crsfn/2008-03.md |
+| art. 6º | acordao-crsfn | RJ-2005-5936 | 2009-11-16 | condenacao | crsfn-11055 | fichas/crsfn/2009-07.md |
+| art. 6º | acordao-crsfn | RJ-2005-8578 | 2009-10-27 | absolvicao | crsfn-11103 | fichas/crsfn/2009-06.md |
+| art. 6º | acordao-crsfn | RJ-2005-7128 | 2009-08-24 | extincao | crsfn-11205 | fichas/crsfn/2009-05.md |
+| art. 6º | acordao-crsfn | RJ-2006-1528 | 2009-06-29 | absolvicao | crsfn-11214 | fichas/crsfn/2009-04.md |
+| art. 6º | acordao-crsfn | RJ-2005-4045 | 2009-10-27 | absolvicao | crsfn-11437 | fichas/crsfn/2009-06.md |
+| art. 6º | acordao-crsfn | RJ-2006-1621 | 2009-05-06 | absolvicao | crsfn-11636 | fichas/crsfn/2009-03.md |
+| art. 6º | acordao-crsfn | RJ-2006-8981 | 2009-05-06 | condenacao | crsfn-11637 | fichas/crsfn/2009-03.md |
+| art. 6º | acordao-crsfn | RJ-2001-7749 | 2009-06-29 | parcial | crsfn-7358 | fichas/crsfn/2009-04.md |
+| art. 6º | acordao-crsfn | RJ-2005-3711 | 2009-11-16 | absolvicao | crsfn-9427 | fichas/crsfn/2009-07.md |
 | art. 6º | acordao-crsfn | RJ-2005/3182 | 2009-01-28 | absolvicao | crsfn-9791 | fichas/crsfn/2009-01.md |
-| art. 6º | acordao-crsfn | RJ-2005-7316 | 2010-11-23 | parcial | crsfn-10380 | fichas/crsfn/2010-08.md |
-| art. 6º | acordao-crsfn | RJ-2005-7244 | 2010-04-29 | parcial | crsfn-10554 | fichas/crsfn/2010-02.md |
+| art. 6º | acordao-crsfn | RJ-2005-7316 | 2010-11-23 | parcial | crsfn-10380 | fichas/crsfn/2010-10.md |
+| art. 6º | acordao-crsfn | RJ-2005-7244 | 2010-04-29 | parcial | crsfn-10554 | fichas/crsfn/2010-03.md |
 | art. 6º | acordao-crsfn | RJ-2005-7234 | 2010-01-26 | parcial | crsfn-10555 | fichas/crsfn/2010-01.md |
 | art. 6º | acordao-crsfn | RJ-2005-5041 | 2010-01-26 | parcial | crsfn-10975 | fichas/crsfn/2010-01.md |
 | art. 6º | acordao-crsfn | RJ-2006-1559 | 2010-04-29 | parcial | crsfn-11211 | fichas/crsfn/2010-03.md |
 | art. 6º | acordao-crsfn | RJ-2006-1853 | 2010-04-29 | parcial | crsfn-11215 | fichas/crsfn/2010-03.md |
-| art. 6º | acordao-crsfn | RJ-2005-7127 | 2010-04-29 | parcial | crsfn-11275 | fichas/crsfn/2010-03.md |
-| art. 6º | acordao-crsfn | RJ-2005-7507 | 2010-04-29 | condenacao | crsfn-11326 | fichas/crsfn/2010-03.md |
-| art. 6º | acordao-crsfn | RJ-2005-9714 | 2010-06-08 | parcial | crsfn-11427 | fichas/crsfn/2010-04.md |
-| art. 6º | acordao-crsfn | RJ-2005-4346 | 2010-06-08 | parcial | crsfn-11428 | fichas/crsfn/2010-04.md |
-| art. 6º | acordao-crsfn | RJ-2006-2106 | 2010-05-25 | parcial | crsfn-11430 | fichas/crsfn/2010-04.md |
-| art. 6º | acordao-crsfn | RJ-2005-5222 | 2010-09-14 | absolvicao | crsfn-11432 | fichas/crsfn/2010-07.md |
-| art. 6º | acordao-crsfn | RJ-2006-7830 | 2010-04-29 | condenacao | crsfn-11643 | fichas/crsfn/2010-03.md |
+| art. 6º | acordao-crsfn | RJ-2005-7127 | 2010-04-29 | parcial | crsfn-11275 | fichas/crsfn/2010-04.md |
+| art. 6º | acordao-crsfn | RJ-2005-7507 | 2010-04-29 | condenacao | crsfn-11326 | fichas/crsfn/2010-04.md |
+| art. 6º | acordao-crsfn | RJ-2005-9714 | 2010-06-08 | parcial | crsfn-11427 | fichas/crsfn/2010-05.md |
+| art. 6º | acordao-crsfn | RJ-2005-4346 | 2010-06-08 | parcial | crsfn-11428 | fichas/crsfn/2010-05.md |
+| art. 6º | acordao-crsfn | RJ-2006-2106 | 2010-05-25 | parcial | crsfn-11430 | fichas/crsfn/2010-05.md |
+| art. 6º | acordao-crsfn | RJ-2005-5222 | 2010-09-14 | absolvicao | crsfn-11432 | fichas/crsfn/2010-08.md |
+| art. 6º | acordao-crsfn | RJ-2006-7830 | 2010-04-29 | condenacao | crsfn-11643 | fichas/crsfn/2010-04.md |
 | art. 6º | acordao-crsfn | RJ-2005-5508 | 2010-04-29 | parcial | crsfn-11645 | fichas/crsfn/2010-04.md |
 | art. 6º | acordao-crsfn | RJ-2005-4990 | 2010-04-29 | absolvicao | crsfn-11826 | fichas/crsfn/2010-04.md |
-| art. 6º | acordao-crsfn | RJ-2007-10884 | 2010-06-08 | parcial | crsfn-12354 | fichas/crsfn/2010-05.md |
-| art. 6º | acordao-crsfn | RJ-2008-0236 | 2010-04-29 | parcial | crsfn-12571 | fichas/crsfn/2010-04.md |
-| art. 6º | acordao-crsfn | RJ-2005-6764 | 2011-05-31 | parcial | crsfn-11421 | fichas/crsfn/2011-01.md |
+| art. 6º | acordao-crsfn | RJ-2007-10884 | 2010-06-08 | parcial | crsfn-12354 | fichas/crsfn/2010-06.md |
+| art. 6º | acordao-crsfn | RJ-2008-0236 | 2010-04-29 | parcial | crsfn-12571 | fichas/crsfn/2010-05.md |
+| art. 6º | acordao-crsfn | RJ-2005-6764 | 2011-05-31 | parcial | crsfn-11421 | fichas/crsfn/2011-02.md |
 | art. 6º | acordao-crsfn | RJ-2005-4410 | 2011-11-09 | condenacao | crsfn-11440 | fichas/crsfn/2011-04.md |
 | art. 6º | acordao-crsfn | 05/8528 | 2011-05-31 | parcial | crsfn-11646 | fichas/crsfn/2011-02.md |
-| art. 6º | acordao-crsfn | RJ-2005-7740 | 2012-07-05 | condenacao | crsfn-12355 | fichas/crsfn/2012-02.md |
-| art. 6º | acordao-crsfn | RJ-2006-5136 | 2012-08-13 | parcial | crsfn-12503 | fichas/crsfn/2012-03.md |
-| art. 6º | acordao-crsfn | RJ-2007-11851 | 2012-07-05 | parcial | crsfn-12505 | fichas/crsfn/2012-02.md |
-| art. 6º | acordao-crsfn | RJ-2007-4376 | 2012-10-25 | condenacao | crsfn-12661 | fichas/crsfn/2012-04.md |
-| art. 6º | acordao-crsfn | RJ-2009-3951 | 2012-12-05 | condenacao | crsfn-12973 | fichas/crsfn/2012-05.md |
-| art. 6º | acordao-crsfn | RJ-2006-4850 | 2013-09-25 | parcial | crsfn-12045 | fichas/crsfn/2013-03.md |
+| art. 6º | acordao-crsfn | RJ-2005-7740 | 2012-07-05 | condenacao | crsfn-12355 | fichas/crsfn/2012-03.md |
+| art. 6º | acordao-crsfn | RJ-2006-5136 | 2012-08-13 | parcial | crsfn-12503 | fichas/crsfn/2012-04.md |
+| art. 6º | acordao-crsfn | RJ-2007-11851 | 2012-07-05 | parcial | crsfn-12505 | fichas/crsfn/2012-03.md |
+| art. 6º | acordao-crsfn | RJ-2007-4376 | 2012-10-25 | condenacao | crsfn-12661 | fichas/crsfn/2012-05.md |
+| art. 6º | acordao-crsfn | RJ-2009-3951 | 2012-12-05 | condenacao | crsfn-12973 | fichas/crsfn/2012-06.md |
+| art. 6º | acordao-crsfn | RJ-2006-4850 | 2013-09-25 | parcial | crsfn-12045 | fichas/crsfn/2013-04.md |
 | art. 6º | acordao-crsfn | RJ-2007-8109 | 2013-02-26 | parcial | crsfn-12449 | fichas/crsfn/2013-01.md |
 | art. 6º | acordao-crsfn | RJ-2006-5343 | 2013-06-18 | parcial | crsfn-12504 | fichas/crsfn/2013-02.md |
 | art. 6º | acordao-crsfn | RJ-2009-4133 | 2013-05-21 | condenacao | crsfn-12825 | fichas/crsfn/2013-02.md |
 | art. 6º | acordao-crsfn | RJ-2008-2569 | 2013-07-30 | condenacao | crsfn-13275 | fichas/crsfn/2013-03.md |
-| art. 6º | acordao-crsfn | IA-2006-15 | 2014-03-18 | arquivamento | crsfn-12359 | fichas/crsfn/2014-01.md |
+| art. 6º | acordao-crsfn | IA-2006-15 | 2014-03-18 | arquivamento | crsfn-12359 | fichas/crsfn/2014-02.md |
 | art. 6º | acordao-crsfn | RJ-2007-8150 | 2014-05-13 | condenacao | crsfn-12757 | fichas/crsfn/2014-03.md |
 | art. 6º | acordao-crsfn | RJ-2008-6250 | 2014-01-21 | condenacao | crsfn-12905 | fichas/crsfn/2014-01.md |
 | art. 6º | acordao-crsfn | RJ-2006-8572 | 2014-06-03 | condenacao | crsfn-13177 | fichas/crsfn/2014-04.md |
-| art. 6º | acordao-crsfn | RJ-2009-1504 | 2014-07-22 | parcial | crsfn-13190 | fichas/crsfn/2014-04.md |
+| art. 6º | acordao-crsfn | RJ-2009-1504 | 2014-07-22 | parcial | crsfn-13190 | fichas/crsfn/2014-05.md |
 | art. 6º | acordao-crsfn | RJ-2007-4685 | 2014-04-15 | parcial | crsfn-13229 | fichas/crsfn/2014-03.md |
-| art. 6º | acordao-crsfn | 2010/11351 | 2015-10-20 | condenacao | crsfn-13616 | fichas/crsfn/2015-04.md |
-| art. 6º | acordao-crsfn | RJ2011/7939 | 2015-12-15 | parcial | crsfn-13624 | fichas/crsfn/2015-04.md |
+| art. 6º | acordao-crsfn | 2010/11351 | 2015-10-20 | condenacao | crsfn-13616 | fichas/crsfn/2015-05.md |
+| art. 6º | acordao-crsfn | RJ2011/7939 | 2015-12-15 | parcial | crsfn-13624 | fichas/crsfn/2015-05.md |
 | art. 6º | acordao-crsfn | 04/2007 | 2016-01-21 | parcial | crsfn-13274 | fichas/crsfn/2016-01.md |
-| art. 6º | acordao-crsfn | 10/11352 | 2017-09-11 | condenacao | crsfn-13414 | fichas/crsfn/2017-06.md |
-| art. 6º | acordao-crsfn | 2010/12041 | 2017-04-18 | parcial | crsfn-13704 | fichas/crsfn/2017-03.md |
-| art. 6º | acordao-crsfn | RJ2010/11350 | 2017-10-25 | absolvicao | crsfn-13882 | fichas/crsfn/2017-08.md |
-| art. 6º | acordao-crsfn | RJ-2010-12042 | 2017-06-28 | parcial | crsfn-13936 | fichas/crsfn/2017-05.md |
-| art. 6º | acordao-crsfn | RJ2012/3110 | 2018-08-21 | condenacao | crsfn-10372-100210-2017-89 | fichas/crsfn/2018-05.md |
-| art. 6º | acordao-crsfn | RJ2009/8439 | 2018-02-21 | parcial | crsfn-14212 | fichas/crsfn/2018-01.md |
+| art. 6º | acordao-crsfn | 10/11352 | 2017-09-11 | condenacao | crsfn-13414 | fichas/crsfn/2017-12.md |
+| art. 6º | acordao-crsfn | 2010/12041 | 2017-04-18 | parcial | crsfn-13704 | fichas/crsfn/2017-05.md |
+| art. 6º | acordao-crsfn | RJ2010/11350 | 2017-10-25 | absolvicao | crsfn-13882 | fichas/crsfn/2017-14.md |
+| art. 6º | acordao-crsfn | RJ-2010-12042 | 2017-06-28 | parcial | crsfn-13936 | fichas/crsfn/2017-10.md |
+| art. 6º | acordao-crsfn | RJ2012/3110 | 2018-08-21 | condenacao | crsfn-10372-100210-2017-89 | fichas/crsfn/2018-06.md |
+| art. 6º | acordao-crsfn | RJ2009/8439 | 2018-02-21 | parcial | crsfn-14212 | fichas/crsfn/2018-02.md |
 | art. 6º | decisao-colegiado | RJ2005/5140 | 2005-11-29 | nao-provido | cvm-col-20051129-d02 | fichas/colegiado/2005-18.md |
 | art. 6º | termo-compromisso | RJ2005/3751 | 2006-01-31 | rejeitado | cvm-col-20060131-d11 | fichas/tc/2006-01.md |
 | art. 6º | decisao-colegiado | RJ2005/8359 | 2006-05-18 | nao-provido | cvm-col-20060518-d02 | fichas/colegiado/2006-07.md |
@@ -202,92 +202,92 @@ Este subíndice tem 2837 linhas e uma leitura única é cortada em silêncio per
 | art. 6º | termo-compromisso | RJ2012/3110 | 2014-08-12 | rejeitado | cvm-col-20140812-d01 | fichas/tc/2014-02.md |
 | art. 6º | decisao-antiga | — | 1999-01-29 | — | cvm-dec-1999-0001 | fichas/decisoes-antigas/1999-28.md |
 | art. 6º | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
-| art. 6º | pas | 28/2000 | 2002-11-14 | — | cvm-pas-28-2000 | fichas/pas/2002-03.md |
-| art. 6º | pas | 05/2000 | 2004-11-11 | parcial | cvm-pas-05-2000 | fichas/pas/2004-07.md |
-| art. 6º | pas | RJ2001/7749 | 2004-10-14 | parcial | cvm-pas-rj2001-7749 | fichas/pas/2004-06.md |
-| art. 6º | pas | 17/1997 | 2005-05-19 | parcial | cvm-pas-17-1997 | fichas/pas/2005-04.md |
-| art. 6º | pas | RJ2004/5238 | 2005-03-28 | condenacao | cvm-pas-rj2004-5238 | fichas/pas/2005-02.md |
-| art. 6º | pas | RJ2005/3646 | 2005-12-14 | condenacao | cvm-pas-rj2005-3646 | fichas/pas/2005-10.md |
-| art. 6º | pas | RJ2005/3711 | 2005-12-14 | parcial | cvm-pas-rj2005-3711 | fichas/pas/2005-10.md |
-| art. 6º | pas | RJ2005/3750 | 2005-10-19 | absolvicao | cvm-pas-rj2005-3750 | fichas/pas/2005-07.md |
-| art. 6º | pas | RJ2005/4215 | 2005-11-03 | absolvicao | cvm-pas-rj2005-4215 | fichas/pas/2005-07.md |
-| art. 6º | pas | 09/2003 | 2006-01-25 | parcial | cvm-pas-09-2003 | fichas/pas/2006-02.md |
+| art. 6º | pas | 28/2000 | 2002-11-14 | — | cvm-pas-28-2000 | fichas/pas/2002-06.md |
+| art. 6º | pas | 05/2000 | 2004-11-11 | parcial | cvm-pas-05-2000 | fichas/pas/2004-14.md |
+| art. 6º | pas | RJ2001/7749 | 2004-10-14 | parcial | cvm-pas-rj2001-7749 | fichas/pas/2004-12.md |
+| art. 6º | pas | 17/1997 | 2005-05-19 | parcial | cvm-pas-17-1997 | fichas/pas/2005-07.md |
+| art. 6º | pas | RJ2004/5238 | 2005-03-28 | condenacao | cvm-pas-rj2004-5238 | fichas/pas/2005-05.md |
+| art. 6º | pas | RJ2005/3646 | 2005-12-14 | condenacao | cvm-pas-rj2005-3646 | fichas/pas/2005-20.md |
+| art. 6º | pas | RJ2005/3711 | 2005-12-14 | parcial | cvm-pas-rj2005-3711 | fichas/pas/2005-20.md |
+| art. 6º | pas | RJ2005/3750 | 2005-10-19 | absolvicao | cvm-pas-rj2005-3750 | fichas/pas/2005-13.md |
+| art. 6º | pas | RJ2005/4215 | 2005-11-03 | absolvicao | cvm-pas-rj2005-4215 | fichas/pas/2005-14.md |
+| art. 6º | pas | 09/2003 | 2006-01-25 | parcial | cvm-pas-09-2003 | fichas/pas/2006-03.md |
 | art. 6º | pas | RJ2005/2933 | 2006-01-11 | parcial | cvm-pas-rj2005-2933 | fichas/pas/2006-01.md |
 | art. 6º | pas | RJ2005/3108 | 2006-01-11 | parcial | cvm-pas-rj2005-3108 | fichas/pas/2006-01.md |
-| art. 6º | pas | RJ2005/3182 | 2006-03-08 | parcial | cvm-pas-rj2005-3182 | fichas/pas/2006-02.md |
-| art. 6º | pas | RJ2005/3710 | 2006-06-20 | condenacao | cvm-pas-rj2005-3710 | fichas/pas/2006-06.md |
-| art. 6º | pas | RJ2005/3751 | 2006-05-09 | condenacao | cvm-pas-rj2005-3751 | fichas/pas/2006-04.md |
-| art. 6º | pas | RJ2005/4045 | 2006-09-28 | parcial | cvm-pas-rj2005-4045 | fichas/pas/2006-10.md |
-| art. 6º | pas | RJ2005/4346 | 2006-11-07 | parcial | cvm-pas-rj2005-4346 | fichas/pas/2006-12.md |
-| art. 6º | pas | RJ2005/4410 | 2006-11-07 | parcial | cvm-pas-rj2005-4410 | fichas/pas/2006-12.md |
-| art. 6º | pas | RJ2005/4969 | 2006-11-07 | parcial | cvm-pas-rj2005-4969 | fichas/pas/2006-12.md |
-| art. 6º | pas | RJ2005/4990 | 2006-10-31 | parcial | cvm-pas-rj2005-4990 | fichas/pas/2006-11.md |
-| art. 6º | pas | RJ2005/5041 | 2006-05-04 | parcial | cvm-pas-rj2005-5041 | fichas/pas/2006-04.md |
-| art. 6º | pas | RJ2005/5222 | 2006-11-08 | outro | cvm-pas-rj2005-5222 | fichas/pas/2006-12.md |
-| art. 6º | pas | RJ2005/5508 | 2006-10-31 | parcial | cvm-pas-rj2005-5508 | fichas/pas/2006-11.md |
-| art. 6º | pas | RJ2005/5936 | 2006-05-04 | parcial | cvm-pas-rj2005-5936 | fichas/pas/2006-04.md |
-| art. 6º | pas | RJ2005/6764 | 2006-10-31 | parcial | cvm-pas-rj2005-6764 | fichas/pas/2006-11.md |
-| art. 6º | pas | RJ2005/7127 | 2006-11-08 | parcial | cvm-pas-rj2005-7127 | fichas/pas/2006-12.md |
-| art. 6º | pas | RJ2005/7128 | 2006-09-11 | absolvicao | cvm-pas-rj2005-7128 | fichas/pas/2006-09.md |
-| art. 6º | pas | RJ2005/7234 | 2006-05-10 | parcial | cvm-pas-rj2005-7234 | fichas/pas/2006-05.md |
-| art. 6º | pas | RJ2005/7244 | 2006-05-03 | parcial | cvm-pas-rj2005-7244 | fichas/pas/2006-04.md |
-| art. 6º | pas | RJ2005/7257 | 2006-05-10 | absolvicao | cvm-pas-rj2005-7257 | fichas/pas/2006-05.md |
-| art. 6º | pas | RJ2005/7315 | 2006-05-10 | parcial | cvm-pas-rj2005-7315 | fichas/pas/2006-05.md |
-| art. 6º | pas | RJ2005/7316 | 2006-04-05 | parcial | cvm-pas-rj2005-7316 | fichas/pas/2006-03.md |
-| art. 6º | pas | RJ2005/7507 | 2006-11-08 | parcial | cvm-pas-rj2005-7507 | fichas/pas/2006-12.md |
-| art. 6º | pas | RJ2005/8229 | 2006-06-14 | parcial | cvm-pas-rj2005-8229 | fichas/pas/2006-06.md |
-| art. 6º | pas | RJ2005/8578 | 2006-05-04 | parcial | cvm-pas-rj2005-8578 | fichas/pas/2006-04.md |
-| art. 6º | pas | RJ2006/1266 | 2006-08-29 | parcial | cvm-pas-rj2006-1266 | fichas/pas/2006-08.md |
-| art. 6º | pas | RJ2006/1267 | 2006-06-14 | parcial | cvm-pas-rj2006-1267 | fichas/pas/2006-06.md |
-| art. 6º | pas | RJ2006/1528 | 2006-08-22 | parcial | cvm-pas-rj2006-1528 | fichas/pas/2006-08.md |
-| art. 6º | pas | RJ2006/1559 | 2006-09-26 | parcial | cvm-pas-rj2006-1559 | fichas/pas/2006-09.md |
-| art. 6º | pas | RJ2006/1621 | 2006-08-29 | parcial | cvm-pas-rj2006-1621 | fichas/pas/2006-09.md |
-| art. 6º | pas | RJ2006/1622 | 2006-08-01 | parcial | cvm-pas-rj2006-1622 | fichas/pas/2006-07.md |
-| art. 6º | pas | RJ2006/1623 | 2006-08-01 | parcial | cvm-pas-rj2006-1623 | fichas/pas/2006-07.md |
-| art. 6º | pas | RJ2006/1853 | 2006-08-22 | parcial | cvm-pas-rj2006-1853 | fichas/pas/2006-08.md |
-| art. 6º | pas | RJ2006/2106 | 2006-11-08 | parcial | cvm-pas-rj2006-2106 | fichas/pas/2006-12.md |
-| art. 6º | pas | 02/2003 | 2007-01-24 | parcial | cvm-pas-02-2003 | fichas/pas/2007-01.md |
-| art. 6º | pas | RJ2001/11808 | 2007-10-02 | parcial | cvm-pas-rj2001-11808 | fichas/pas/2007-07.md |
-| art. 6º | pas | RJ2005/6763 | 2007-01-31 | parcial | cvm-pas-rj2005-6763 | fichas/pas/2007-01.md |
-| art. 6º | pas | RJ2005/8528 | 2007-01-24 | parcial | cvm-pas-rj2005-8528 | fichas/pas/2007-01.md |
-| art. 6º | pas | RJ2005/8604 | 2007-04-04 | condenacao | cvm-pas-rj2005-8604 | fichas/pas/2007-02.md |
-| art. 6º | pas | RJ2005/8714 | 2007-02-13 | parcial | cvm-pas-rj2005-8714 | fichas/pas/2007-02.md |
-| art. 6º | pas | RJ2006/4850 | 2007-12-18 | condenacao | cvm-pas-rj2006-4850 | fichas/pas/2007-07.md |
-| art. 6º | pas | 15/2006 | 2008-09-03 | condenacao | cvm-pas-15-2006 | fichas/pas/2008-03.md |
-| art. 6º | pas | RJ2006/4849 | 2008-06-17 | condenacao | cvm-pas-rj2006-4849 | fichas/pas/2008-02.md |
-| art. 6º | pas | RJ2006/5136 | 2008-11-04 | condenacao | cvm-pas-rj2006-5136 | fichas/pas/2008-04.md |
-| art. 6º | pas | RJ2006/5343 | 2008-08-26 | parcial | cvm-pas-rj2006-5343 | fichas/pas/2008-03.md |
-| art. 6º | pas | RJ2006/5410 | 2008-08-21 | condenacao | cvm-pas-rj2006-5410 | fichas/pas/2008-02.md |
-| art. 6º | pas | RJ2007/11851 | 2008-12-02 | parcial | cvm-pas-rj2007-11851 | fichas/pas/2008-05.md |
-| art. 6º | pas | RJ2007/8109 | 2008-10-07 | parcial | cvm-pas-rj2007-8109 | fichas/pas/2008-04.md |
-| art. 6º | pas | RJ2006/4511 | 2009-05-19 | condenacao | cvm-pas-rj2006-4511 | fichas/pas/2009-02.md |
+| art. 6º | pas | RJ2005/3182 | 2006-03-08 | parcial | cvm-pas-rj2005-3182 | fichas/pas/2006-04.md |
+| art. 6º | pas | RJ2005/3710 | 2006-06-20 | condenacao | cvm-pas-rj2005-3710 | fichas/pas/2006-13.md |
+| art. 6º | pas | RJ2005/3751 | 2006-05-09 | condenacao | cvm-pas-rj2005-3751 | fichas/pas/2006-09.md |
+| art. 6º | pas | RJ2005/4045 | 2006-09-28 | parcial | cvm-pas-rj2005-4045 | fichas/pas/2006-19.md |
+| art. 6º | pas | RJ2005/4346 | 2006-11-07 | parcial | cvm-pas-rj2005-4346 | fichas/pas/2006-23.md |
+| art. 6º | pas | RJ2005/4410 | 2006-11-07 | parcial | cvm-pas-rj2005-4410 | fichas/pas/2006-23.md |
+| art. 6º | pas | RJ2005/4969 | 2006-11-07 | parcial | cvm-pas-rj2005-4969 | fichas/pas/2006-24.md |
+| art. 6º | pas | RJ2005/4990 | 2006-10-31 | parcial | cvm-pas-rj2005-4990 | fichas/pas/2006-22.md |
+| art. 6º | pas | RJ2005/5041 | 2006-05-04 | parcial | cvm-pas-rj2005-5041 | fichas/pas/2006-08.md |
+| art. 6º | pas | RJ2005/5222 | 2006-11-08 | outro | cvm-pas-rj2005-5222 | fichas/pas/2006-24.md |
+| art. 6º | pas | RJ2005/5508 | 2006-10-31 | parcial | cvm-pas-rj2005-5508 | fichas/pas/2006-22.md |
+| art. 6º | pas | RJ2005/5936 | 2006-05-04 | parcial | cvm-pas-rj2005-5936 | fichas/pas/2006-08.md |
+| art. 6º | pas | RJ2005/6764 | 2006-10-31 | parcial | cvm-pas-rj2005-6764 | fichas/pas/2006-22.md |
+| art. 6º | pas | RJ2005/7127 | 2006-11-08 | parcial | cvm-pas-rj2005-7127 | fichas/pas/2006-24.md |
+| art. 6º | pas | RJ2005/7128 | 2006-09-11 | absolvicao | cvm-pas-rj2005-7128 | fichas/pas/2006-17.md |
+| art. 6º | pas | RJ2005/7234 | 2006-05-10 | parcial | cvm-pas-rj2005-7234 | fichas/pas/2006-10.md |
+| art. 6º | pas | RJ2005/7244 | 2006-05-03 | parcial | cvm-pas-rj2005-7244 | fichas/pas/2006-07.md |
+| art. 6º | pas | RJ2005/7257 | 2006-05-10 | absolvicao | cvm-pas-rj2005-7257 | fichas/pas/2006-10.md |
+| art. 6º | pas | RJ2005/7315 | 2006-05-10 | parcial | cvm-pas-rj2005-7315 | fichas/pas/2006-11.md |
+| art. 6º | pas | RJ2005/7316 | 2006-04-05 | parcial | cvm-pas-rj2005-7316 | fichas/pas/2006-06.md |
+| art. 6º | pas | RJ2005/7507 | 2006-11-08 | parcial | cvm-pas-rj2005-7507 | fichas/pas/2006-25.md |
+| art. 6º | pas | RJ2005/8229 | 2006-06-14 | parcial | cvm-pas-rj2005-8229 | fichas/pas/2006-12.md |
+| art. 6º | pas | RJ2005/8578 | 2006-05-04 | parcial | cvm-pas-rj2005-8578 | fichas/pas/2006-08.md |
+| art. 6º | pas | RJ2006/1266 | 2006-08-29 | parcial | cvm-pas-rj2006-1266 | fichas/pas/2006-17.md |
+| art. 6º | pas | RJ2006/1267 | 2006-06-14 | parcial | cvm-pas-rj2006-1267 | fichas/pas/2006-12.md |
+| art. 6º | pas | RJ2006/1528 | 2006-08-22 | parcial | cvm-pas-rj2006-1528 | fichas/pas/2006-15.md |
+| art. 6º | pas | RJ2006/1559 | 2006-09-26 | parcial | cvm-pas-rj2006-1559 | fichas/pas/2006-19.md |
+| art. 6º | pas | RJ2006/1621 | 2006-08-29 | parcial | cvm-pas-rj2006-1621 | fichas/pas/2006-17.md |
+| art. 6º | pas | RJ2006/1622 | 2006-08-01 | parcial | cvm-pas-rj2006-1622 | fichas/pas/2006-14.md |
+| art. 6º | pas | RJ2006/1623 | 2006-08-01 | parcial | cvm-pas-rj2006-1623 | fichas/pas/2006-15.md |
+| art. 6º | pas | RJ2006/1853 | 2006-08-22 | parcial | cvm-pas-rj2006-1853 | fichas/pas/2006-16.md |
+| art. 6º | pas | RJ2006/2106 | 2006-11-08 | parcial | cvm-pas-rj2006-2106 | fichas/pas/2006-25.md |
+| art. 6º | pas | 02/2003 | 2007-01-24 | parcial | cvm-pas-02-2003 | fichas/pas/2007-02.md |
+| art. 6º | pas | RJ2001/11808 | 2007-10-02 | parcial | cvm-pas-rj2001-11808 | fichas/pas/2007-13.md |
+| art. 6º | pas | RJ2005/6763 | 2007-01-31 | parcial | cvm-pas-rj2005-6763 | fichas/pas/2007-02.md |
+| art. 6º | pas | RJ2005/8528 | 2007-01-24 | parcial | cvm-pas-rj2005-8528 | fichas/pas/2007-02.md |
+| art. 6º | pas | RJ2005/8604 | 2007-04-04 | condenacao | cvm-pas-rj2005-8604 | fichas/pas/2007-04.md |
+| art. 6º | pas | RJ2005/8714 | 2007-02-13 | parcial | cvm-pas-rj2005-8714 | fichas/pas/2007-03.md |
+| art. 6º | pas | RJ2006/4850 | 2007-12-18 | condenacao | cvm-pas-rj2006-4850 | fichas/pas/2007-15.md |
+| art. 6º | pas | 15/2006 | 2008-09-03 | condenacao | cvm-pas-15-2006 | fichas/pas/2008-06.md |
+| art. 6º | pas | RJ2006/4849 | 2008-06-17 | condenacao | cvm-pas-rj2006-4849 | fichas/pas/2008-03.md |
+| art. 6º | pas | RJ2006/5136 | 2008-11-04 | condenacao | cvm-pas-rj2006-5136 | fichas/pas/2008-08.md |
+| art. 6º | pas | RJ2006/5343 | 2008-08-26 | parcial | cvm-pas-rj2006-5343 | fichas/pas/2008-05.md |
+| art. 6º | pas | RJ2006/5410 | 2008-08-21 | condenacao | cvm-pas-rj2006-5410 | fichas/pas/2008-04.md |
+| art. 6º | pas | RJ2007/11851 | 2008-12-02 | parcial | cvm-pas-rj2007-11851 | fichas/pas/2008-09.md |
+| art. 6º | pas | RJ2007/8109 | 2008-10-07 | parcial | cvm-pas-rj2007-8109 | fichas/pas/2008-07.md |
+| art. 6º | pas | RJ2006/4511 | 2009-05-19 | condenacao | cvm-pas-rj2006-4511 | fichas/pas/2009-04.md |
 | art. 6º | pas | RJ2007/4376 | 2009-01-27 | condenacao | cvm-pas-rj2007-4376 | fichas/pas/2009-01.md |
-| art. 6º | pas | RJ2007/8150 | 2009-09-01 | condenacao | cvm-pas-rj2007-8150 | fichas/pas/2009-04.md |
-| art. 6º | pas | RJ2008/4842 | 2009-09-01 | condenacao | cvm-pas-rj2008-4842 | fichas/pas/2009-04.md |
-| art. 6º | pas | RJ2008/6250 | 2009-10-20 | parcial | cvm-pas-rj2008-6250 | fichas/pas/2009-05.md |
-| art. 6º | pas | 04/2007 | 2010-11-09 | parcial | cvm-pas-04-2007 | fichas/pas/2010-04.md |
-| art. 6º | pas | RJ2007/4685 | 2010-07-13 | parcial | cvm-pas-rj2007-4685 | fichas/pas/2010-02.md |
-| art. 6º | pas | RJ2008/2569 | 2010-11-30 | condenacao | cvm-pas-rj2008-2569 | fichas/pas/2010-05.md |
-| art. 6º | pas | RJ2008/2916 | 2010-03-23 | condenacao | cvm-pas-rj2008-2916 | fichas/pas/2010-01.md |
+| art. 6º | pas | RJ2007/8150 | 2009-09-01 | condenacao | cvm-pas-rj2007-8150 | fichas/pas/2009-08.md |
+| art. 6º | pas | RJ2008/4842 | 2009-09-01 | condenacao | cvm-pas-rj2008-4842 | fichas/pas/2009-08.md |
+| art. 6º | pas | RJ2008/6250 | 2009-10-20 | parcial | cvm-pas-rj2008-6250 | fichas/pas/2009-09.md |
+| art. 6º | pas | 04/2007 | 2010-11-09 | parcial | cvm-pas-04-2007 | fichas/pas/2010-08.md |
+| art. 6º | pas | RJ2007/4685 | 2010-07-13 | parcial | cvm-pas-rj2007-4685 | fichas/pas/2010-04.md |
+| art. 6º | pas | RJ2008/2569 | 2010-11-30 | condenacao | cvm-pas-rj2008-2569 | fichas/pas/2010-09.md |
+| art. 6º | pas | RJ2008/2916 | 2010-03-23 | condenacao | cvm-pas-rj2008-2916 | fichas/pas/2010-02.md |
 | art. 6º | pas | RJ2008/8572 | 2010-03-16 | parcial | cvm-pas-rj2008-8572 | fichas/pas/2010-01.md |
-| art. 6º | pas | RJ2009/1504 | 2010-08-17 | parcial | cvm-pas-rj2009-1504 | fichas/pas/2010-03.md |
+| art. 6º | pas | RJ2009/1504 | 2010-08-17 | parcial | cvm-pas-rj2009-1504 | fichas/pas/2010-05.md |
 | art. 6º | pas | RJ2009/1930 | 2010-05-18 | condenacao | cvm-pas-rj2009-1930 | fichas/pas/2010-02.md |
-| art. 6º | pas | RJ2009/2146 | 2010-07-20 | condenacao | cvm-pas-rj2009-2146 | fichas/pas/2010-03.md |
-| art. 6º | pas | RJ2009/8440 | 2010-10-26 | parcial | cvm-pas-rj2009-8440 | fichas/pas/2010-04.md |
-| art. 6º | pas | RJ2010/11351 | 2012-10-16 | condenacao | cvm-pas-rj2010-11351 | fichas/pas/2012-02.md |
+| art. 6º | pas | RJ2009/2146 | 2010-07-20 | condenacao | cvm-pas-rj2009-2146 | fichas/pas/2010-05.md |
+| art. 6º | pas | RJ2009/8440 | 2010-10-26 | parcial | cvm-pas-rj2009-8440 | fichas/pas/2010-08.md |
+| art. 6º | pas | RJ2010/11351 | 2012-10-16 | condenacao | cvm-pas-rj2010-11351 | fichas/pas/2012-04.md |
 | art. 6º | pas | RJ2010/11352 | 2012-02-28 | condenacao | cvm-pas-rj2010-11352 | fichas/pas/2012-01.md |
-| art. 6º | pas | RJ2010/11353 | 2012-10-16 | condenacao | cvm-pas-rj2010-11353 | fichas/pas/2012-02.md |
-| art. 6º | pas | RJ2011/7939 | 2012-12-06 | condenacao | cvm-pas-rj2011-7939 | fichas/pas/2012-03.md |
-| art. 6º | pas | RJ2009/8439 | 2013-12-10 | parcial | cvm-pas-rj2009-8439 | fichas/pas/2013-06.md |
-| art. 6º | pas | RJ2010/11350 | 2013-04-02 | parcial | cvm-pas-rj2010-11350 | fichas/pas/2013-02.md |
-| art. 6º | pas | RJ2010/12042 | 2013-12-10 | parcial | cvm-pas-rj2010-12042 | fichas/pas/2013-06.md |
-| art. 6º | pas | RJ2010/12043 | 2013-04-02 | condenacao | cvm-pas-rj2010-12043 | fichas/pas/2013-02.md |
-| art. 6º | pas | RJ2010/1380 | 2013-05-28 | condenacao | cvm-pas-rj2010-1380 | fichas/pas/2013-03.md |
-| art. 6º | pas | RJ2011/7941 | 2013-12-10 | parcial | cvm-pas-rj2011-7941 | fichas/pas/2013-06.md |
+| art. 6º | pas | RJ2010/11353 | 2012-10-16 | condenacao | cvm-pas-rj2010-11353 | fichas/pas/2012-04.md |
+| art. 6º | pas | RJ2011/7939 | 2012-12-06 | condenacao | cvm-pas-rj2011-7939 | fichas/pas/2012-06.md |
+| art. 6º | pas | RJ2009/8439 | 2013-12-10 | parcial | cvm-pas-rj2009-8439 | fichas/pas/2013-12.md |
+| art. 6º | pas | RJ2010/11350 | 2013-04-02 | parcial | cvm-pas-rj2010-11350 | fichas/pas/2013-03.md |
+| art. 6º | pas | RJ2010/12042 | 2013-12-10 | parcial | cvm-pas-rj2010-12042 | fichas/pas/2013-12.md |
+| art. 6º | pas | RJ2010/12043 | 2013-04-02 | condenacao | cvm-pas-rj2010-12043 | fichas/pas/2013-03.md |
+| art. 6º | pas | RJ2010/1380 | 2013-05-28 | condenacao | cvm-pas-rj2010-1380 | fichas/pas/2013-05.md |
+| art. 6º | pas | RJ2011/7941 | 2013-12-10 | parcial | cvm-pas-rj2011-7941 | fichas/pas/2013-13.md |
 | art. 6º | pas | RJ2014/5807 | 2016-03-15 | condenacao | cvm-pas-rj2014-5807 | fichas/pas/2016-01.md |
 | art. 6º | pas | RJ2012/3110 | 2017-02-14 | parcial | cvm-pas-rj2012-3110 | fichas/pas/2017-01.md |
-| art. 6º | pas | 19957.006739/2018-91; 18/2013 | 2018-05-08 | parcial | cvm-pas-19957-006739-2018-91 | fichas/pas/2018-03.md |
-| art. 6º | pas | RJ2016/817 | 2019-06-25 | condenacao | cvm-pas-rj2016-0817 | fichas/pas/2019-06.md |
+| art. 6º | pas | 19957.006739/2018-91; 18/2013 | 2018-05-08 | parcial | cvm-pas-19957-006739-2018-91 | fichas/pas/2018-06.md |
+| art. 6º | pas | RJ2016/817 | 2019-06-25 | condenacao | cvm-pas-rj2016-0817 | fichas/pas/2019-10.md |
 
 ## art. 7º
 
@@ -322,17 +322,17 @@ Este subíndice tem 2837 linhas e uma leitura única é cortada em silêncio per
 | art. 7º, inciso XIII | decisao-colegiado | RJ2007/12285; RJ2007/12842 | 2007-11-06 | deferido | cvm-col-20071106-d09 | fichas/colegiado/2007-22.md |
 | art. 7º, inciso XIII | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
 | art. 7º, inciso XV | decisao-colegiado | RJ2006/0638 | 2006-07-04 | nao-provido | cvm-col-20060704-d04 | fichas/colegiado/2006-10.md |
-| art. 7º, inciso XVI | acordao-crsfn | 17/97 | 2008-11-19 | parcial | crsfn-9226 | fichas/crsfn/2008-06.md |
-| art. 7º, inciso XVI | pas | 17/1997 | 2005-06-20 | parcial | cvm-pas-17-1997-2 | fichas/pas/2005-05.md |
-| art. 7º, inciso XVI | pas | 17/1997 | 2005-05-19 | parcial | cvm-pas-17-1997 | fichas/pas/2005-04.md |
+| art. 7º, inciso XVI | acordao-crsfn | 17/97 | 2008-11-19 | parcial | crsfn-9226 | fichas/crsfn/2008-07.md |
+| art. 7º, inciso XVI | pas | 17/1997 | 2005-06-20 | parcial | cvm-pas-17-1997-2 | fichas/pas/2005-09.md |
+| art. 7º, inciso XVI | pas | 17/1997 | 2005-05-19 | parcial | cvm-pas-17-1997 | fichas/pas/2005-07.md |
 
 ## art. 8º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 8º | acordao-crsfn | RJ–2007-14044 | 2012-08-13 | condenacao | crsfn-12506 | fichas/crsfn/2012-03.md |
-| art. 8º | acordao-crsfn | RJ-2008-12124 | 2013-11-26 | outro | crsfn-13144 | fichas/crsfn/2013-04.md |
-| art. 8º | acordao-crsfn | RJ2009/9439 | 2015-09-22 | condenacao | crsfn-13395 | fichas/crsfn/2015-04.md |
+| art. 8º | acordao-crsfn | RJ–2007-14044 | 2012-08-13 | condenacao | crsfn-12506 | fichas/crsfn/2012-04.md |
+| art. 8º | acordao-crsfn | RJ-2008-12124 | 2013-11-26 | outro | crsfn-13144 | fichas/crsfn/2013-05.md |
+| art. 8º | acordao-crsfn | RJ2009/9439 | 2015-09-22 | condenacao | crsfn-13395 | fichas/crsfn/2015-05.md |
 | art. 8º | decisao-colegiado | RJ2004/0007 | 2004-03-23 | nao-provido | cvm-col-20040323-d02 | fichas/colegiado/2004-04.md |
 | art. 8º | decisao-colegiado | RJ2004/0007 | 2004-06-15 | parcial | cvm-col-20040615-d03 | fichas/colegiado/2004-07.md |
 | art. 8º | decisao-colegiado | RJ2005/1717 | 2005-06-21 | nao-provido | cvm-col-20050621-d05 | fichas/colegiado/2005-10.md |
@@ -341,20 +341,20 @@ Este subíndice tem 2837 linhas e uma leitura única é cortada em silêncio per
 | art. 8º | termo-compromisso | RJ2008/10437 | 2009-07-07 | aceito | cvm-col-20090707-d06 | fichas/tc/2009-04.md |
 | art. 8º | termo-compromisso | RJ2009/3049 | 2009-12-15 | aceito | cvm-col-20091215-d06 | fichas/tc/2009-09.md |
 | art. 8º | termo-compromisso | 19957.010181/2018-49 | 2021-05-04 | aceito | cvm-col-20210504-d1537 | fichas/tc/2021-03.md |
-| art. 8º | pas | RJ2007/3639 | 2007-10-31 | condenacao | cvm-pas-rj2007-3639 | fichas/pas/2007-07.md |
-| art. 8º | pas | RJ2007/14044 | 2008-12-16 | condenacao | cvm-pas-rj2007-14044 | fichas/pas/2008-05.md |
-| art. 8º | pas | RJ2008/12124 | 2010-06-22 | condenacao | cvm-pas-rj2008-12124 | fichas/pas/2010-02.md |
-| art. 8º | pas | RJ2009/9439 | 2011-12-06 | condenacao | cvm-pas-rj2009-9439 | fichas/pas/2011-03.md |
-| art. 8º, inciso I | acordao-crsfn | RJ-2008-12124 | 2013-11-26 | outro | crsfn-13144 | fichas/crsfn/2013-04.md |
+| art. 8º | pas | RJ2007/3639 | 2007-10-31 | condenacao | cvm-pas-rj2007-3639 | fichas/pas/2007-14.md |
+| art. 8º | pas | RJ2007/14044 | 2008-12-16 | condenacao | cvm-pas-rj2007-14044 | fichas/pas/2008-09.md |
+| art. 8º | pas | RJ2008/12124 | 2010-06-22 | condenacao | cvm-pas-rj2008-12124 | fichas/pas/2010-04.md |
+| art. 8º | pas | RJ2009/9439 | 2011-12-06 | condenacao | cvm-pas-rj2009-9439 | fichas/pas/2011-05.md |
+| art. 8º, inciso I | acordao-crsfn | RJ-2008-12124 | 2013-11-26 | outro | crsfn-13144 | fichas/crsfn/2013-05.md |
 | art. 8º, inciso I | decisao-colegiado | RJ2006/0157 | 2006-01-12 | nao-provido | cvm-col-20060112-d01 | fichas/colegiado/2006-01.md |
 | art. 8º, inciso I | termo-compromisso | RJ2008/12124 | 2009-06-23 | rejeitado | cvm-col-20090623-d09 | fichas/tc/2009-04.md |
-| art. 8º, inciso I | pas | RJ2008/12124 | 2010-06-22 | condenacao | cvm-pas-rj2008-12124 | fichas/pas/2010-02.md |
-| art. 8º, inciso II | acordao-crsfn | RJ-2008-12124 | 2013-11-26 | outro | crsfn-13144 | fichas/crsfn/2013-04.md |
+| art. 8º, inciso I | pas | RJ2008/12124 | 2010-06-22 | condenacao | cvm-pas-rj2008-12124 | fichas/pas/2010-04.md |
+| art. 8º, inciso II | acordao-crsfn | RJ-2008-12124 | 2013-11-26 | outro | crsfn-13144 | fichas/crsfn/2013-05.md |
 | art. 8º, inciso II | decisao-colegiado | RJ2006/0157 | 2006-01-12 | nao-provido | cvm-col-20060112-d01 | fichas/colegiado/2006-01.md |
 | art. 8º, inciso II | termo-compromisso | RJ2008/12124 | 2009-06-23 | rejeitado | cvm-col-20090623-d09 | fichas/tc/2009-04.md |
-| art. 8º, inciso II | pas | RJ2007/3639 | 2007-10-31 | condenacao | cvm-pas-rj2007-3639 | fichas/pas/2007-07.md |
-| art. 8º, inciso II | pas | RJ2008/12124 | 2010-06-22 | condenacao | cvm-pas-rj2008-12124 | fichas/pas/2010-02.md |
-| art. 8º, inciso III | pas | RJ2007/3639 | 2007-10-31 | condenacao | cvm-pas-rj2007-3639 | fichas/pas/2007-07.md |
+| art. 8º, inciso II | pas | RJ2007/3639 | 2007-10-31 | condenacao | cvm-pas-rj2007-3639 | fichas/pas/2007-14.md |
+| art. 8º, inciso II | pas | RJ2008/12124 | 2010-06-22 | condenacao | cvm-pas-rj2008-12124 | fichas/pas/2010-04.md |
+| art. 8º, inciso III | pas | RJ2007/3639 | 2007-10-31 | condenacao | cvm-pas-rj2007-3639 | fichas/pas/2007-14.md |
 
 ## art. 10
 
@@ -384,82 +384,82 @@ Este subíndice tem 2837 linhas e uma leitura única é cortada em silêncio per
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 13 | acordao-crsfn | 98/4411 | 2000-12-15 | absolvicao | crsfn-2936 | fichas/crsfn/2000-06.md |
-| art. 13 | acordao-crsfn | 98/5615 | 2000-12-15 | absolvicao | crsfn-2976 | fichas/crsfn/2000-06.md |
+| art. 13 | acordao-crsfn | 98/4411 | 2000-12-15 | absolvicao | crsfn-2936 | fichas/crsfn/2000-07.md |
+| art. 13 | acordao-crsfn | 98/5615 | 2000-12-15 | absolvicao | crsfn-2976 | fichas/crsfn/2000-07.md |
 | art. 13 | acordao-crsfn | 05/4215 | 2007-11-22 | absolvicao | crsfn-9249 | fichas/crsfn/2007-02.md |
 | art. 13 | acordao-crsfn | RJ-2005-3750 | 2007-01-30 | absolvicao | crsfn-9250 | fichas/crsfn/2007-01.md |
-| art. 13 | acordao-crsfn | RJ-2006/1622 | 2008-07-30 | absolvicao | crsfn-11474 | fichas/crsfn/2008-04.md |
-| art. 13 | acordao-crsfn | RJ-2006/1623 | 2008-07-30 | absolvicao | crsfn-11475 | fichas/crsfn/2008-04.md |
-| art. 13 | acordao-crsfn | RJ2005/2933 | 2008-12-10 | parcial | crsfn-9610 | fichas/crsfn/2008-06.md |
-| art. 13 | acordao-crsfn | RJ-2005/3646 | 2008-07-30 | condenacao | crsfn-9747 | fichas/crsfn/2008-04.md |
-| art. 13 | acordao-crsfn | RJ2006/806 | 2008-05-27 | absolvicao | crsfn-9843 | fichas/crsfn/2008-02.md |
+| art. 13 | acordao-crsfn | RJ-2006/1622 | 2008-07-30 | absolvicao | crsfn-11474 | fichas/crsfn/2008-05.md |
+| art. 13 | acordao-crsfn | RJ-2006/1623 | 2008-07-30 | absolvicao | crsfn-11475 | fichas/crsfn/2008-05.md |
+| art. 13 | acordao-crsfn | RJ2005/2933 | 2008-12-10 | parcial | crsfn-9610 | fichas/crsfn/2008-07.md |
+| art. 13 | acordao-crsfn | RJ-2005/3646 | 2008-07-30 | condenacao | crsfn-9747 | fichas/crsfn/2008-05.md |
+| art. 13 | acordao-crsfn | RJ2006/806 | 2008-05-27 | absolvicao | crsfn-9843 | fichas/crsfn/2008-03.md |
 | art. 13 | acordao-crsfn | RJ-2005-3751 | 2009-04-15 | condenacao | crsfn-10970 | fichas/crsfn/2009-02.md |
-| art. 13 | acordao-crsfn | RJ-2005-5936 | 2009-11-16 | condenacao | crsfn-11055 | fichas/crsfn/2009-06.md |
-| art. 13 | acordao-crsfn | RJ-2005-8578 | 2009-10-27 | absolvicao | crsfn-11103 | fichas/crsfn/2009-05.md |
-| art. 13 | acordao-crsfn | RJ-2005-7128 | 2009-08-24 | extincao | crsfn-11205 | fichas/crsfn/2009-04.md |
-| art. 13 | acordao-crsfn | RJ-2006-1528 | 2009-06-29 | absolvicao | crsfn-11214 | fichas/crsfn/2009-03.md |
-| art. 13 | acordao-crsfn | RJ-2005-4045 | 2009-10-27 | absolvicao | crsfn-11437 | fichas/crsfn/2009-05.md |
+| art. 13 | acordao-crsfn | RJ-2005-5936 | 2009-11-16 | condenacao | crsfn-11055 | fichas/crsfn/2009-07.md |
+| art. 13 | acordao-crsfn | RJ-2005-8578 | 2009-10-27 | absolvicao | crsfn-11103 | fichas/crsfn/2009-06.md |
+| art. 13 | acordao-crsfn | RJ-2005-7128 | 2009-08-24 | extincao | crsfn-11205 | fichas/crsfn/2009-05.md |
+| art. 13 | acordao-crsfn | RJ-2006-1528 | 2009-06-29 | absolvicao | crsfn-11214 | fichas/crsfn/2009-04.md |
+| art. 13 | acordao-crsfn | RJ-2005-4045 | 2009-10-27 | absolvicao | crsfn-11437 | fichas/crsfn/2009-06.md |
 | art. 13 | acordao-crsfn | RJ-2006-7828 | 2009-03-18 | condenacao | crsfn-11496 | fichas/crsfn/2009-01.md |
-| art. 13 | acordao-crsfn | RJ-2006-1621 | 2009-05-06 | absolvicao | crsfn-11636 | fichas/crsfn/2009-02.md |
-| art. 13 | acordao-crsfn | RJ-2006-8981 | 2009-05-06 | condenacao | crsfn-11637 | fichas/crsfn/2009-02.md |
-| art. 13 | acordao-crsfn | RJ-2001-7749 | 2009-06-29 | parcial | crsfn-7358 | fichas/crsfn/2009-03.md |
-| art. 13 | acordao-crsfn | RJ-2005-3711 | 2009-11-16 | absolvicao | crsfn-9427 | fichas/crsfn/2009-06.md |
-| art. 13 | acordao-crsfn | RJ-2005-5937 | 2009-07-21 | absolvicao | crsfn-9541 | fichas/crsfn/2009-04.md |
+| art. 13 | acordao-crsfn | RJ-2006-1621 | 2009-05-06 | absolvicao | crsfn-11636 | fichas/crsfn/2009-03.md |
+| art. 13 | acordao-crsfn | RJ-2006-8981 | 2009-05-06 | condenacao | crsfn-11637 | fichas/crsfn/2009-03.md |
+| art. 13 | acordao-crsfn | RJ-2001-7749 | 2009-06-29 | parcial | crsfn-7358 | fichas/crsfn/2009-04.md |
+| art. 13 | acordao-crsfn | RJ-2005-3711 | 2009-11-16 | absolvicao | crsfn-9427 | fichas/crsfn/2009-07.md |
+| art. 13 | acordao-crsfn | RJ-2005-5937 | 2009-07-21 | absolvicao | crsfn-9541 | fichas/crsfn/2009-05.md |
 | art. 13 | acordao-crsfn | RJ-2005/3182 | 2009-01-28 | absolvicao | crsfn-9791 | fichas/crsfn/2009-01.md |
-| art. 13 | acordao-crsfn | RJ-2005-7316 | 2010-11-23 | parcial | crsfn-10380 | fichas/crsfn/2010-08.md |
-| art. 13 | acordao-crsfn | RJ-2005-7244 | 2010-04-29 | parcial | crsfn-10554 | fichas/crsfn/2010-02.md |
+| art. 13 | acordao-crsfn | RJ-2005-7316 | 2010-11-23 | parcial | crsfn-10380 | fichas/crsfn/2010-10.md |
+| art. 13 | acordao-crsfn | RJ-2005-7244 | 2010-04-29 | parcial | crsfn-10554 | fichas/crsfn/2010-03.md |
 | art. 13 | acordao-crsfn | RJ-2005-7234 | 2010-01-26 | parcial | crsfn-10555 | fichas/crsfn/2010-01.md |
 | art. 13 | acordao-crsfn | RJ-2005-7315 | 2010-01-26 | parcial | crsfn-10585 | fichas/crsfn/2010-01.md |
 | art. 13 | acordao-crsfn | RJ-2005-5041 | 2010-01-26 | parcial | crsfn-10975 | fichas/crsfn/2010-01.md |
 | art. 13 | acordao-crsfn | RJ-2005-8229 | 2010-01-26 | condenacao | crsfn-11144 | fichas/crsfn/2010-01.md |
 | art. 13 | acordao-crsfn | RJ-2006-1559 | 2010-04-29 | parcial | crsfn-11211 | fichas/crsfn/2010-03.md |
 | art. 13 | acordao-crsfn | RJ-2006-1853 | 2010-04-29 | parcial | crsfn-11215 | fichas/crsfn/2010-03.md |
-| art. 13 | acordao-crsfn | RJ-2005-7127 | 2010-04-29 | parcial | crsfn-11275 | fichas/crsfn/2010-03.md |
-| art. 13 | acordao-crsfn | RJ-2006-1266 | 2010-04-29 | condenacao | crsfn-11324 | fichas/crsfn/2010-03.md |
-| art. 13 | acordao-crsfn | RJ-2005-7507 | 2010-04-29 | condenacao | crsfn-11326 | fichas/crsfn/2010-03.md |
-| art. 13 | acordao-crsfn | RJ-2005-6703 | 2010-10-05 | parcial | crsfn-11423 | fichas/crsfn/2010-07.md |
-| art. 13 | acordao-crsfn | RJ-2005-9714 | 2010-06-08 | parcial | crsfn-11427 | fichas/crsfn/2010-04.md |
-| art. 13 | acordao-crsfn | RJ-2005-4346 | 2010-06-08 | parcial | crsfn-11428 | fichas/crsfn/2010-04.md |
-| art. 13 | acordao-crsfn | RJ-2006-2106 | 2010-05-25 | parcial | crsfn-11430 | fichas/crsfn/2010-04.md |
-| art. 13 | acordao-crsfn | RJ-2005-5222 | 2010-09-14 | absolvicao | crsfn-11432 | fichas/crsfn/2010-07.md |
-| art. 13 | acordao-crsfn | RJ-2005-4969 | 2010-10-27 | parcial | crsfn-11434 | fichas/crsfn/2010-08.md |
-| art. 13 | acordao-crsfn | RJ-2006-9227 | 2010-05-25 | absolvicao | crsfn-11607 | fichas/crsfn/2010-04.md |
-| art. 13 | acordao-crsfn | RJ-2006-7830 | 2010-04-29 | condenacao | crsfn-11643 | fichas/crsfn/2010-03.md |
+| art. 13 | acordao-crsfn | RJ-2005-7127 | 2010-04-29 | parcial | crsfn-11275 | fichas/crsfn/2010-04.md |
+| art. 13 | acordao-crsfn | RJ-2006-1266 | 2010-04-29 | condenacao | crsfn-11324 | fichas/crsfn/2010-04.md |
+| art. 13 | acordao-crsfn | RJ-2005-7507 | 2010-04-29 | condenacao | crsfn-11326 | fichas/crsfn/2010-04.md |
+| art. 13 | acordao-crsfn | RJ-2005-6703 | 2010-10-05 | parcial | crsfn-11423 | fichas/crsfn/2010-09.md |
+| art. 13 | acordao-crsfn | RJ-2005-9714 | 2010-06-08 | parcial | crsfn-11427 | fichas/crsfn/2010-05.md |
+| art. 13 | acordao-crsfn | RJ-2005-4346 | 2010-06-08 | parcial | crsfn-11428 | fichas/crsfn/2010-05.md |
+| art. 13 | acordao-crsfn | RJ-2006-2106 | 2010-05-25 | parcial | crsfn-11430 | fichas/crsfn/2010-05.md |
+| art. 13 | acordao-crsfn | RJ-2005-5222 | 2010-09-14 | absolvicao | crsfn-11432 | fichas/crsfn/2010-08.md |
+| art. 13 | acordao-crsfn | RJ-2005-4969 | 2010-10-27 | parcial | crsfn-11434 | fichas/crsfn/2010-10.md |
+| art. 13 | acordao-crsfn | RJ-2006-9227 | 2010-05-25 | absolvicao | crsfn-11607 | fichas/crsfn/2010-05.md |
+| art. 13 | acordao-crsfn | RJ-2006-7830 | 2010-04-29 | condenacao | crsfn-11643 | fichas/crsfn/2010-04.md |
 | art. 13 | acordao-crsfn | RJ-2005-5508 | 2010-04-29 | parcial | crsfn-11645 | fichas/crsfn/2010-04.md |
 | art. 13 | acordao-crsfn | RJ-2005-4990 | 2010-04-29 | absolvicao | crsfn-11826 | fichas/crsfn/2010-04.md |
-| art. 13 | acordao-crsfn | RJ-2007-10884 | 2010-06-08 | parcial | crsfn-12354 | fichas/crsfn/2010-05.md |
-| art. 13 | acordao-crsfn | RJ-2005-6764 | 2011-05-31 | parcial | crsfn-11421 | fichas/crsfn/2011-01.md |
-| art. 13 | acordao-crsfn | RJ-2006-5829 | 2011-07-26 | absolvicao | crsfn-11439 | fichas/crsfn/2011-02.md |
+| art. 13 | acordao-crsfn | RJ-2007-10884 | 2010-06-08 | parcial | crsfn-12354 | fichas/crsfn/2010-06.md |
+| art. 13 | acordao-crsfn | RJ-2005-6764 | 2011-05-31 | parcial | crsfn-11421 | fichas/crsfn/2011-02.md |
+| art. 13 | acordao-crsfn | RJ-2006-5829 | 2011-07-26 | absolvicao | crsfn-11439 | fichas/crsfn/2011-03.md |
 | art. 13 | acordao-crsfn | RJ-2005-4410 | 2011-11-09 | condenacao | crsfn-11440 | fichas/crsfn/2011-04.md |
 | art. 13 | acordao-crsfn | 05/8528 | 2011-05-31 | parcial | crsfn-11646 | fichas/crsfn/2011-02.md |
 | art. 13 | acordao-crsfn | RJ-2008-2282 | 2011-05-31 | condenacao | crsfn-12078 | fichas/crsfn/2011-02.md |
-| art. 13 | acordao-crsfn | IA-02/04 | 2012-03-06 | arquivamento | crsfn-10838 | fichas/crsfn/2012-01.md |
+| art. 13 | acordao-crsfn | IA-02/04 | 2012-03-06 | arquivamento | crsfn-10838 | fichas/crsfn/2012-02.md |
 | art. 13 | acordao-crsfn | RJ–2005-8604 | 2012-02-13 | condenacao | crsfn-12039 | fichas/crsfn/2012-01.md |
-| art. 13 | acordao-crsfn | RJ-2005-7740 | 2012-07-05 | condenacao | crsfn-12355 | fichas/crsfn/2012-02.md |
-| art. 13 | acordao-crsfn | RJ-2006-5136 | 2012-08-13 | parcial | crsfn-12503 | fichas/crsfn/2012-03.md |
-| art. 13 | acordao-crsfn | RJ-2007-11851 | 2012-07-05 | parcial | crsfn-12505 | fichas/crsfn/2012-02.md |
-| art. 13 | acordao-crsfn | RJ-2007-4376 | 2012-10-25 | condenacao | crsfn-12661 | fichas/crsfn/2012-04.md |
+| art. 13 | acordao-crsfn | RJ-2005-7740 | 2012-07-05 | condenacao | crsfn-12355 | fichas/crsfn/2012-03.md |
+| art. 13 | acordao-crsfn | RJ-2006-5136 | 2012-08-13 | parcial | crsfn-12503 | fichas/crsfn/2012-04.md |
+| art. 13 | acordao-crsfn | RJ-2007-11851 | 2012-07-05 | parcial | crsfn-12505 | fichas/crsfn/2012-03.md |
+| art. 13 | acordao-crsfn | RJ-2007-4376 | 2012-10-25 | condenacao | crsfn-12661 | fichas/crsfn/2012-05.md |
 | art. 13 | acordao-crsfn | RJ-2010-11571 | 2012-04-16 | condenacao | crsfn-13226 | fichas/crsfn/2012-02.md |
-| art. 13 | acordao-crsfn | RJ-2006-4850 | 2013-09-25 | parcial | crsfn-12045 | fichas/crsfn/2013-03.md |
+| art. 13 | acordao-crsfn | RJ-2006-4850 | 2013-09-25 | parcial | crsfn-12045 | fichas/crsfn/2013-04.md |
 | art. 13 | acordao-crsfn | RJ-2007-8109 | 2013-02-26 | parcial | crsfn-12449 | fichas/crsfn/2013-01.md |
 | art. 13 | acordao-crsfn | RJ-2006-5343 | 2013-06-18 | parcial | crsfn-12504 | fichas/crsfn/2013-02.md |
 | art. 13 | acordao-crsfn | RJ2009/4163 | 2013-08-26 | condenacao | crsfn-12996 | fichas/crsfn/2013-03.md |
-| art. 13 | acordao-crsfn | RJ-2009-4140 | 2013-09-25 | condenacao | crsfn-13043 | fichas/crsfn/2013-03.md |
+| art. 13 | acordao-crsfn | RJ-2009-4140 | 2013-09-25 | condenacao | crsfn-13043 | fichas/crsfn/2013-04.md |
 | art. 13 | acordao-crsfn | RJ-2008-2569 | 2013-07-30 | condenacao | crsfn-13275 | fichas/crsfn/2013-03.md |
-| art. 13 | acordao-crsfn | IA-2006-15 | 2014-03-18 | arquivamento | crsfn-12359 | fichas/crsfn/2014-01.md |
+| art. 13 | acordao-crsfn | IA-2006-15 | 2014-03-18 | arquivamento | crsfn-12359 | fichas/crsfn/2014-02.md |
 | art. 13 | acordao-crsfn | RJ-2007-8150 | 2014-05-13 | condenacao | crsfn-12757 | fichas/crsfn/2014-03.md |
 | art. 13 | acordao-crsfn | RJ-2008-6250 | 2014-01-21 | condenacao | crsfn-12905 | fichas/crsfn/2014-01.md |
 | art. 13 | acordao-crsfn | RJ-2006-8572 | 2014-06-03 | condenacao | crsfn-13177 | fichas/crsfn/2014-04.md |
-| art. 13 | acordao-crsfn | RJ-2009-1504 | 2014-07-22 | parcial | crsfn-13190 | fichas/crsfn/2014-04.md |
+| art. 13 | acordao-crsfn | RJ-2009-1504 | 2014-07-22 | parcial | crsfn-13190 | fichas/crsfn/2014-05.md |
 | art. 13 | acordao-crsfn | RJ-2007-4685 | 2014-04-15 | parcial | crsfn-13229 | fichas/crsfn/2014-03.md |
-| art. 13 | acordao-crsfn | RJ2010/11567 | 2014-10-21 | parcial | crsfn-13334 | fichas/crsfn/2014-06.md |
+| art. 13 | acordao-crsfn | RJ2010/11567 | 2014-10-21 | parcial | crsfn-13334 | fichas/crsfn/2014-07.md |
 | art. 13 | acordao-crsfn | RJ2009/12672 | 2015-07-28 | absolvicao | crsfn-13378 | fichas/crsfn/2015-03.md |
-| art. 13 | acordao-crsfn | 2010/11351 | 2015-10-20 | condenacao | crsfn-13616 | fichas/crsfn/2015-04.md |
-| art. 13 | acordao-crsfn | RJ2011/7939 | 2015-12-15 | parcial | crsfn-13624 | fichas/crsfn/2015-04.md |
-| art. 13 | acordao-crsfn | 10/11352 | 2017-09-11 | condenacao | crsfn-13414 | fichas/crsfn/2017-06.md |
-| art. 13 | acordao-crsfn | 2010/12041 | 2017-04-18 | parcial | crsfn-13704 | fichas/crsfn/2017-03.md |
-| art. 13 | acordao-crsfn | RJ2010/11350 | 2017-10-25 | absolvicao | crsfn-13882 | fichas/crsfn/2017-08.md |
-| art. 13 | acordao-crsfn | RJ2009/8439 | 2018-02-21 | parcial | crsfn-14212 | fichas/crsfn/2018-01.md |
+| art. 13 | acordao-crsfn | 2010/11351 | 2015-10-20 | condenacao | crsfn-13616 | fichas/crsfn/2015-05.md |
+| art. 13 | acordao-crsfn | RJ2011/7939 | 2015-12-15 | parcial | crsfn-13624 | fichas/crsfn/2015-05.md |
+| art. 13 | acordao-crsfn | 10/11352 | 2017-09-11 | condenacao | crsfn-13414 | fichas/crsfn/2017-12.md |
+| art. 13 | acordao-crsfn | 2010/12041 | 2017-04-18 | parcial | crsfn-13704 | fichas/crsfn/2017-05.md |
+| art. 13 | acordao-crsfn | RJ2010/11350 | 2017-10-25 | absolvicao | crsfn-13882 | fichas/crsfn/2017-14.md |
+| art. 13 | acordao-crsfn | RJ2009/8439 | 2018-02-21 | parcial | crsfn-14212 | fichas/crsfn/2018-02.md |
 | art. 13 | decisao-colegiado | RJ2004/5777 | 2004-10-05 | outro | cvm-col-20041005-d07 | fichas/colegiado/2004-12.md |
 | art. 13 | decisao-colegiado | RJ2005/1442 | 2005-03-14 | outro | cvm-col-20050314-d02 | fichas/colegiado/2005-05.md |
 | art. 13 | decisao-colegiado | RJ2005/5140 | 2005-11-29 | nao-provido | cvm-col-20051129-d02 | fichas/colegiado/2005-18.md |
@@ -531,115 +531,115 @@ Este subíndice tem 2837 linhas e uma leitura única é cortada em silêncio per
 | art. 13 | decisao-antiga | — | 1999-01-29 | — | cvm-dec-1999-0001 | fichas/decisoes-antigas/1999-28.md |
 | art. 13 | decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
 | art. 13 | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
-| art. 13 | pas | 36/1998 | 2000-09-28 | parcial | cvm-pas-36-1998 | fichas/pas/2000-02.md |
-| art. 13 | pas | RJ2000/6498 | 2002-04-17 | parcial | cvm-pas-rj2000-6498 | fichas/pas/2002-02.md |
-| art. 13 | pas | RJ2001/7749 | 2004-10-14 | parcial | cvm-pas-rj2001-7749 | fichas/pas/2004-06.md |
-| art. 13 | pas | 02/2004 | 2005-12-07 | parcial | cvm-pas-02-2004 | fichas/pas/2005-09.md |
-| art. 13 | pas | RJ2005/3646 | 2005-12-14 | condenacao | cvm-pas-rj2005-3646 | fichas/pas/2005-10.md |
-| art. 13 | pas | RJ2005/3711 | 2005-12-14 | parcial | cvm-pas-rj2005-3711 | fichas/pas/2005-10.md |
-| art. 13 | pas | RJ2005/3750 | 2005-10-19 | absolvicao | cvm-pas-rj2005-3750 | fichas/pas/2005-07.md |
-| art. 13 | pas | RJ2005/4215 | 2005-11-03 | absolvicao | cvm-pas-rj2005-4215 | fichas/pas/2005-07.md |
+| art. 13 | pas | 36/1998 | 2000-09-28 | parcial | cvm-pas-36-1998 | fichas/pas/2000-04.md |
+| art. 13 | pas | RJ2000/6498 | 2002-04-17 | parcial | cvm-pas-rj2000-6498 | fichas/pas/2002-03.md |
+| art. 13 | pas | RJ2001/7749 | 2004-10-14 | parcial | cvm-pas-rj2001-7749 | fichas/pas/2004-12.md |
+| art. 13 | pas | 02/2004 | 2005-12-07 | parcial | cvm-pas-02-2004 | fichas/pas/2005-18.md |
+| art. 13 | pas | RJ2005/3646 | 2005-12-14 | condenacao | cvm-pas-rj2005-3646 | fichas/pas/2005-20.md |
+| art. 13 | pas | RJ2005/3711 | 2005-12-14 | parcial | cvm-pas-rj2005-3711 | fichas/pas/2005-20.md |
+| art. 13 | pas | RJ2005/3750 | 2005-10-19 | absolvicao | cvm-pas-rj2005-3750 | fichas/pas/2005-13.md |
+| art. 13 | pas | RJ2005/4215 | 2005-11-03 | absolvicao | cvm-pas-rj2005-4215 | fichas/pas/2005-14.md |
 | art. 13 | pas | RJ2005/2933 | 2006-01-11 | parcial | cvm-pas-rj2005-2933 | fichas/pas/2006-01.md |
 | art. 13 | pas | RJ2005/3108 | 2006-01-11 | parcial | cvm-pas-rj2005-3108 | fichas/pas/2006-01.md |
-| art. 13 | pas | RJ2005/3182 | 2006-03-08 | parcial | cvm-pas-rj2005-3182 | fichas/pas/2006-02.md |
-| art. 13 | pas | RJ2005/3710 | 2006-06-20 | condenacao | cvm-pas-rj2005-3710 | fichas/pas/2006-06.md |
-| art. 13 | pas | RJ2005/3751 | 2006-05-09 | condenacao | cvm-pas-rj2005-3751 | fichas/pas/2006-04.md |
-| art. 13 | pas | RJ2005/4045 | 2006-09-28 | parcial | cvm-pas-rj2005-4045 | fichas/pas/2006-10.md |
-| art. 13 | pas | RJ2005/4346 | 2006-11-07 | parcial | cvm-pas-rj2005-4346 | fichas/pas/2006-12.md |
-| art. 13 | pas | RJ2005/4410 | 2006-11-07 | parcial | cvm-pas-rj2005-4410 | fichas/pas/2006-12.md |
-| art. 13 | pas | RJ2005/4969 | 2006-11-07 | parcial | cvm-pas-rj2005-4969 | fichas/pas/2006-12.md |
-| art. 13 | pas | RJ2005/4990 | 2006-10-31 | parcial | cvm-pas-rj2005-4990 | fichas/pas/2006-11.md |
-| art. 13 | pas | RJ2005/5041 | 2006-05-04 | parcial | cvm-pas-rj2005-5041 | fichas/pas/2006-04.md |
-| art. 13 | pas | RJ2005/5222 | 2006-11-08 | outro | cvm-pas-rj2005-5222 | fichas/pas/2006-12.md |
-| art. 13 | pas | RJ2005/5508 | 2006-10-31 | parcial | cvm-pas-rj2005-5508 | fichas/pas/2006-11.md |
-| art. 13 | pas | RJ2005/5936 | 2006-05-04 | parcial | cvm-pas-rj2005-5936 | fichas/pas/2006-04.md |
-| art. 13 | pas | RJ2005/6764 | 2006-10-31 | parcial | cvm-pas-rj2005-6764 | fichas/pas/2006-11.md |
-| art. 13 | pas | RJ2005/7127 | 2006-11-08 | parcial | cvm-pas-rj2005-7127 | fichas/pas/2006-12.md |
-| art. 13 | pas | RJ2005/7234 | 2006-05-10 | parcial | cvm-pas-rj2005-7234 | fichas/pas/2006-05.md |
-| art. 13 | pas | RJ2005/7244 | 2006-05-03 | parcial | cvm-pas-rj2005-7244 | fichas/pas/2006-04.md |
-| art. 13 | pas | RJ2005/7257 | 2006-05-10 | absolvicao | cvm-pas-rj2005-7257 | fichas/pas/2006-05.md |
-| art. 13 | pas | RJ2005/7315 | 2006-05-10 | parcial | cvm-pas-rj2005-7315 | fichas/pas/2006-05.md |
-| art. 13 | pas | RJ2005/7316 | 2006-04-05 | parcial | cvm-pas-rj2005-7316 | fichas/pas/2006-03.md |
-| art. 13 | pas | RJ2005/7507 | 2006-11-08 | parcial | cvm-pas-rj2005-7507 | fichas/pas/2006-12.md |
-| art. 13 | pas | RJ2005/8229 | 2006-06-14 | parcial | cvm-pas-rj2005-8229 | fichas/pas/2006-06.md |
-| art. 13 | pas | RJ2005/8578 | 2006-05-04 | parcial | cvm-pas-rj2005-8578 | fichas/pas/2006-04.md |
-| art. 13 | pas | RJ2006/1266 | 2006-08-29 | parcial | cvm-pas-rj2006-1266 | fichas/pas/2006-08.md |
-| art. 13 | pas | RJ2006/1267 | 2006-06-14 | parcial | cvm-pas-rj2006-1267 | fichas/pas/2006-06.md |
-| art. 13 | pas | RJ2006/1528 | 2006-08-22 | parcial | cvm-pas-rj2006-1528 | fichas/pas/2006-08.md |
-| art. 13 | pas | RJ2006/1559 | 2006-09-26 | parcial | cvm-pas-rj2006-1559 | fichas/pas/2006-09.md |
-| art. 13 | pas | RJ2006/1621 | 2006-08-29 | parcial | cvm-pas-rj2006-1621 | fichas/pas/2006-09.md |
-| art. 13 | pas | RJ2006/1622 | 2006-08-01 | parcial | cvm-pas-rj2006-1622 | fichas/pas/2006-07.md |
-| art. 13 | pas | RJ2006/1623 | 2006-08-01 | parcial | cvm-pas-rj2006-1623 | fichas/pas/2006-07.md |
-| art. 13 | pas | RJ2006/1853 | 2006-08-22 | parcial | cvm-pas-rj2006-1853 | fichas/pas/2006-08.md |
-| art. 13 | pas | RJ2006/2106 | 2006-11-08 | parcial | cvm-pas-rj2006-2106 | fichas/pas/2006-12.md |
-| art. 13 | pas | 19/2003 | 2007-04-24 | parcial | cvm-pas-19-2003 | fichas/pas/2007-03.md |
-| art. 13 | pas | RJ2001/11808 | 2007-10-02 | parcial | cvm-pas-rj2001-11808 | fichas/pas/2007-07.md |
-| art. 13 | pas | RJ2005/6763 | 2007-01-31 | parcial | cvm-pas-rj2005-6763 | fichas/pas/2007-01.md |
-| art. 13 | pas | RJ2005/8528 | 2007-01-24 | parcial | cvm-pas-rj2005-8528 | fichas/pas/2007-01.md |
-| art. 13 | pas | RJ2005/8604 | 2007-04-04 | condenacao | cvm-pas-rj2005-8604 | fichas/pas/2007-02.md |
-| art. 13 | pas | RJ2005/8714 | 2007-02-13 | parcial | cvm-pas-rj2005-8714 | fichas/pas/2007-02.md |
-| art. 13 | pas | RJ2006/4850 | 2007-12-18 | condenacao | cvm-pas-rj2006-4850 | fichas/pas/2007-07.md |
-| art. 13 | pas | 15/2006 | 2008-09-03 | condenacao | cvm-pas-15-2006 | fichas/pas/2008-03.md |
-| art. 13 | pas | RJ2006/4849 | 2008-06-17 | condenacao | cvm-pas-rj2006-4849 | fichas/pas/2008-02.md |
-| art. 13 | pas | RJ2006/5343 | 2008-08-26 | parcial | cvm-pas-rj2006-5343 | fichas/pas/2008-03.md |
-| art. 13 | pas | RJ2006/5410 | 2008-08-21 | condenacao | cvm-pas-rj2006-5410 | fichas/pas/2008-02.md |
-| art. 13 | pas | RJ2007/11851 | 2008-12-02 | parcial | cvm-pas-rj2007-11851 | fichas/pas/2008-05.md |
-| art. 13 | pas | RJ2007/8109 | 2008-10-07 | parcial | cvm-pas-rj2007-8109 | fichas/pas/2008-04.md |
-| art. 13 | pas | RJ2006/4511 | 2009-05-19 | condenacao | cvm-pas-rj2006-4511 | fichas/pas/2009-02.md |
-| art. 13 | pas | RJ2006/8798 | 2009-12-08 | parcial | cvm-pas-rj2006-8798 | fichas/pas/2009-05.md |
+| art. 13 | pas | RJ2005/3182 | 2006-03-08 | parcial | cvm-pas-rj2005-3182 | fichas/pas/2006-04.md |
+| art. 13 | pas | RJ2005/3710 | 2006-06-20 | condenacao | cvm-pas-rj2005-3710 | fichas/pas/2006-13.md |
+| art. 13 | pas | RJ2005/3751 | 2006-05-09 | condenacao | cvm-pas-rj2005-3751 | fichas/pas/2006-09.md |
+| art. 13 | pas | RJ2005/4045 | 2006-09-28 | parcial | cvm-pas-rj2005-4045 | fichas/pas/2006-19.md |
+| art. 13 | pas | RJ2005/4346 | 2006-11-07 | parcial | cvm-pas-rj2005-4346 | fichas/pas/2006-23.md |
+| art. 13 | pas | RJ2005/4410 | 2006-11-07 | parcial | cvm-pas-rj2005-4410 | fichas/pas/2006-23.md |
+| art. 13 | pas | RJ2005/4969 | 2006-11-07 | parcial | cvm-pas-rj2005-4969 | fichas/pas/2006-24.md |
+| art. 13 | pas | RJ2005/4990 | 2006-10-31 | parcial | cvm-pas-rj2005-4990 | fichas/pas/2006-22.md |
+| art. 13 | pas | RJ2005/5041 | 2006-05-04 | parcial | cvm-pas-rj2005-5041 | fichas/pas/2006-08.md |
+| art. 13 | pas | RJ2005/5222 | 2006-11-08 | outro | cvm-pas-rj2005-5222 | fichas/pas/2006-24.md |
+| art. 13 | pas | RJ2005/5508 | 2006-10-31 | parcial | cvm-pas-rj2005-5508 | fichas/pas/2006-22.md |
+| art. 13 | pas | RJ2005/5936 | 2006-05-04 | parcial | cvm-pas-rj2005-5936 | fichas/pas/2006-08.md |
+| art. 13 | pas | RJ2005/6764 | 2006-10-31 | parcial | cvm-pas-rj2005-6764 | fichas/pas/2006-22.md |
+| art. 13 | pas | RJ2005/7127 | 2006-11-08 | parcial | cvm-pas-rj2005-7127 | fichas/pas/2006-24.md |
+| art. 13 | pas | RJ2005/7234 | 2006-05-10 | parcial | cvm-pas-rj2005-7234 | fichas/pas/2006-10.md |
+| art. 13 | pas | RJ2005/7244 | 2006-05-03 | parcial | cvm-pas-rj2005-7244 | fichas/pas/2006-07.md |
+| art. 13 | pas | RJ2005/7257 | 2006-05-10 | absolvicao | cvm-pas-rj2005-7257 | fichas/pas/2006-10.md |
+| art. 13 | pas | RJ2005/7315 | 2006-05-10 | parcial | cvm-pas-rj2005-7315 | fichas/pas/2006-11.md |
+| art. 13 | pas | RJ2005/7316 | 2006-04-05 | parcial | cvm-pas-rj2005-7316 | fichas/pas/2006-06.md |
+| art. 13 | pas | RJ2005/7507 | 2006-11-08 | parcial | cvm-pas-rj2005-7507 | fichas/pas/2006-25.md |
+| art. 13 | pas | RJ2005/8229 | 2006-06-14 | parcial | cvm-pas-rj2005-8229 | fichas/pas/2006-12.md |
+| art. 13 | pas | RJ2005/8578 | 2006-05-04 | parcial | cvm-pas-rj2005-8578 | fichas/pas/2006-08.md |
+| art. 13 | pas | RJ2006/1266 | 2006-08-29 | parcial | cvm-pas-rj2006-1266 | fichas/pas/2006-17.md |
+| art. 13 | pas | RJ2006/1267 | 2006-06-14 | parcial | cvm-pas-rj2006-1267 | fichas/pas/2006-12.md |
+| art. 13 | pas | RJ2006/1528 | 2006-08-22 | parcial | cvm-pas-rj2006-1528 | fichas/pas/2006-15.md |
+| art. 13 | pas | RJ2006/1559 | 2006-09-26 | parcial | cvm-pas-rj2006-1559 | fichas/pas/2006-19.md |
+| art. 13 | pas | RJ2006/1621 | 2006-08-29 | parcial | cvm-pas-rj2006-1621 | fichas/pas/2006-17.md |
+| art. 13 | pas | RJ2006/1622 | 2006-08-01 | parcial | cvm-pas-rj2006-1622 | fichas/pas/2006-14.md |
+| art. 13 | pas | RJ2006/1623 | 2006-08-01 | parcial | cvm-pas-rj2006-1623 | fichas/pas/2006-15.md |
+| art. 13 | pas | RJ2006/1853 | 2006-08-22 | parcial | cvm-pas-rj2006-1853 | fichas/pas/2006-16.md |
+| art. 13 | pas | RJ2006/2106 | 2006-11-08 | parcial | cvm-pas-rj2006-2106 | fichas/pas/2006-25.md |
+| art. 13 | pas | 19/2003 | 2007-04-24 | parcial | cvm-pas-19-2003 | fichas/pas/2007-05.md |
+| art. 13 | pas | RJ2001/11808 | 2007-10-02 | parcial | cvm-pas-rj2001-11808 | fichas/pas/2007-13.md |
+| art. 13 | pas | RJ2005/6763 | 2007-01-31 | parcial | cvm-pas-rj2005-6763 | fichas/pas/2007-02.md |
+| art. 13 | pas | RJ2005/8528 | 2007-01-24 | parcial | cvm-pas-rj2005-8528 | fichas/pas/2007-02.md |
+| art. 13 | pas | RJ2005/8604 | 2007-04-04 | condenacao | cvm-pas-rj2005-8604 | fichas/pas/2007-04.md |
+| art. 13 | pas | RJ2005/8714 | 2007-02-13 | parcial | cvm-pas-rj2005-8714 | fichas/pas/2007-03.md |
+| art. 13 | pas | RJ2006/4850 | 2007-12-18 | condenacao | cvm-pas-rj2006-4850 | fichas/pas/2007-15.md |
+| art. 13 | pas | 15/2006 | 2008-09-03 | condenacao | cvm-pas-15-2006 | fichas/pas/2008-06.md |
+| art. 13 | pas | RJ2006/4849 | 2008-06-17 | condenacao | cvm-pas-rj2006-4849 | fichas/pas/2008-03.md |
+| art. 13 | pas | RJ2006/5343 | 2008-08-26 | parcial | cvm-pas-rj2006-5343 | fichas/pas/2008-05.md |
+| art. 13 | pas | RJ2006/5410 | 2008-08-21 | condenacao | cvm-pas-rj2006-5410 | fichas/pas/2008-04.md |
+| art. 13 | pas | RJ2007/11851 | 2008-12-02 | parcial | cvm-pas-rj2007-11851 | fichas/pas/2008-09.md |
+| art. 13 | pas | RJ2007/8109 | 2008-10-07 | parcial | cvm-pas-rj2007-8109 | fichas/pas/2008-07.md |
+| art. 13 | pas | RJ2006/4511 | 2009-05-19 | condenacao | cvm-pas-rj2006-4511 | fichas/pas/2009-04.md |
+| art. 13 | pas | RJ2006/8798 | 2009-12-08 | parcial | cvm-pas-rj2006-8798 | fichas/pas/2009-10.md |
 | art. 13 | pas | RJ2007/4376 | 2009-01-27 | condenacao | cvm-pas-rj2007-4376 | fichas/pas/2009-01.md |
-| art. 13 | pas | RJ2007/8150 | 2009-09-01 | condenacao | cvm-pas-rj2007-8150 | fichas/pas/2009-04.md |
-| art. 13 | pas | RJ2008/2570 | 2009-05-12 | condenacao | cvm-pas-rj2008-2570 | fichas/pas/2009-02.md |
-| art. 13 | pas | RJ2008/4842 | 2009-09-01 | condenacao | cvm-pas-rj2008-4842 | fichas/pas/2009-04.md |
-| art. 13 | pas | RJ2008/6250 | 2009-10-20 | parcial | cvm-pas-rj2008-6250 | fichas/pas/2009-05.md |
-| art. 13 | pas | RJ2007/4685 | 2010-07-13 | parcial | cvm-pas-rj2007-4685 | fichas/pas/2010-02.md |
-| art. 13 | pas | RJ2008/2569 | 2010-11-30 | condenacao | cvm-pas-rj2008-2569 | fichas/pas/2010-05.md |
-| art. 13 | pas | RJ2008/2916 | 2010-03-23 | condenacao | cvm-pas-rj2008-2916 | fichas/pas/2010-01.md |
+| art. 13 | pas | RJ2007/8150 | 2009-09-01 | condenacao | cvm-pas-rj2007-8150 | fichas/pas/2009-08.md |
+| art. 13 | pas | RJ2008/2570 | 2009-05-12 | condenacao | cvm-pas-rj2008-2570 | fichas/pas/2009-04.md |
+| art. 13 | pas | RJ2008/4842 | 2009-09-01 | condenacao | cvm-pas-rj2008-4842 | fichas/pas/2009-08.md |
+| art. 13 | pas | RJ2008/6250 | 2009-10-20 | parcial | cvm-pas-rj2008-6250 | fichas/pas/2009-09.md |
+| art. 13 | pas | RJ2007/4685 | 2010-07-13 | parcial | cvm-pas-rj2007-4685 | fichas/pas/2010-04.md |
+| art. 13 | pas | RJ2008/2569 | 2010-11-30 | condenacao | cvm-pas-rj2008-2569 | fichas/pas/2010-09.md |
+| art. 13 | pas | RJ2008/2916 | 2010-03-23 | condenacao | cvm-pas-rj2008-2916 | fichas/pas/2010-02.md |
 | art. 13 | pas | RJ2008/8572 | 2010-03-16 | parcial | cvm-pas-rj2008-8572 | fichas/pas/2010-01.md |
-| art. 13 | pas | RJ2009/1504 | 2010-08-17 | parcial | cvm-pas-rj2009-1504 | fichas/pas/2010-03.md |
+| art. 13 | pas | RJ2009/1504 | 2010-08-17 | parcial | cvm-pas-rj2009-1504 | fichas/pas/2010-05.md |
 | art. 13 | pas | RJ2009/1930 | 2010-05-18 | condenacao | cvm-pas-rj2009-1930 | fichas/pas/2010-02.md |
-| art. 13 | pas | RJ2009/2146 | 2010-07-20 | condenacao | cvm-pas-rj2009-2146 | fichas/pas/2010-03.md |
-| art. 13 | pas | RJ2009/8440 | 2010-10-26 | parcial | cvm-pas-rj2009-8440 | fichas/pas/2010-04.md |
-| art. 13 | pas | RJ2010/11351 | 2012-10-16 | condenacao | cvm-pas-rj2010-11351 | fichas/pas/2012-02.md |
+| art. 13 | pas | RJ2009/2146 | 2010-07-20 | condenacao | cvm-pas-rj2009-2146 | fichas/pas/2010-05.md |
+| art. 13 | pas | RJ2009/8440 | 2010-10-26 | parcial | cvm-pas-rj2009-8440 | fichas/pas/2010-08.md |
+| art. 13 | pas | RJ2010/11351 | 2012-10-16 | condenacao | cvm-pas-rj2010-11351 | fichas/pas/2012-04.md |
 | art. 13 | pas | RJ2010/11352 | 2012-02-28 | condenacao | cvm-pas-rj2010-11352 | fichas/pas/2012-01.md |
-| art. 13 | pas | RJ2010/11353 | 2012-10-16 | condenacao | cvm-pas-rj2010-11353 | fichas/pas/2012-02.md |
-| art. 13 | pas | RJ2011/7939 | 2012-12-06 | condenacao | cvm-pas-rj2011-7939 | fichas/pas/2012-03.md |
-| art. 13 | pas | RJ2009/8439 | 2013-12-10 | parcial | cvm-pas-rj2009-8439 | fichas/pas/2013-06.md |
-| art. 13 | pas | RJ2010/11350 | 2013-04-02 | parcial | cvm-pas-rj2010-11350 | fichas/pas/2013-02.md |
-| art. 13 | pas | RJ2010/12042 | 2013-12-10 | parcial | cvm-pas-rj2010-12042 | fichas/pas/2013-06.md |
-| art. 13 | pas | RJ2010/12043 | 2013-04-02 | condenacao | cvm-pas-rj2010-12043 | fichas/pas/2013-02.md |
-| art. 13 | pas | RJ2010/8784 | 2013-06-11 | parcial | cvm-pas-rj2010-8784 | fichas/pas/2013-03.md |
-| art. 13 | pas | RJ2011/7941 | 2013-12-10 | parcial | cvm-pas-rj2011-7941 | fichas/pas/2013-06.md |
+| art. 13 | pas | RJ2010/11353 | 2012-10-16 | condenacao | cvm-pas-rj2010-11353 | fichas/pas/2012-04.md |
+| art. 13 | pas | RJ2011/7939 | 2012-12-06 | condenacao | cvm-pas-rj2011-7939 | fichas/pas/2012-06.md |
+| art. 13 | pas | RJ2009/8439 | 2013-12-10 | parcial | cvm-pas-rj2009-8439 | fichas/pas/2013-12.md |
+| art. 13 | pas | RJ2010/11350 | 2013-04-02 | parcial | cvm-pas-rj2010-11350 | fichas/pas/2013-03.md |
+| art. 13 | pas | RJ2010/12042 | 2013-12-10 | parcial | cvm-pas-rj2010-12042 | fichas/pas/2013-12.md |
+| art. 13 | pas | RJ2010/12043 | 2013-04-02 | condenacao | cvm-pas-rj2010-12043 | fichas/pas/2013-03.md |
+| art. 13 | pas | RJ2010/8784 | 2013-06-11 | parcial | cvm-pas-rj2010-8784 | fichas/pas/2013-06.md |
+| art. 13 | pas | RJ2011/7941 | 2013-12-10 | parcial | cvm-pas-rj2011-7941 | fichas/pas/2013-13.md |
 | art. 13 | pas | RJ2014/5807 | 2016-03-15 | condenacao | cvm-pas-rj2014-5807 | fichas/pas/2016-01.md |
-| art. 13, inciso I | acordao-crsfn | RJ-2006-783 | 2008-08-28 | absolvicao | crsfn-9814 | fichas/crsfn/2008-04.md |
-| art. 13, inciso I | acordao-crsfn | RJ-2006-796 | 2009-09-30 | condenacao | crsfn-10884 | fichas/crsfn/2009-04.md |
-| art. 13, inciso I | acordao-crsfn | RJ-2005-5936 | 2009-11-16 | condenacao | crsfn-11055 | fichas/crsfn/2009-06.md |
-| art. 13, inciso I | acordao-crsfn | RJ-2005-8578 | 2009-10-27 | absolvicao | crsfn-11103 | fichas/crsfn/2009-05.md |
-| art. 13, inciso I | acordao-crsfn | RJ-2005-7128 | 2009-08-24 | extincao | crsfn-11205 | fichas/crsfn/2009-04.md |
-| art. 13, inciso I | acordao-crsfn | RJ-2006-8981 | 2009-05-06 | condenacao | crsfn-11637 | fichas/crsfn/2009-02.md |
+| art. 13, inciso I | acordao-crsfn | RJ-2006-783 | 2008-08-28 | absolvicao | crsfn-9814 | fichas/crsfn/2008-05.md |
+| art. 13, inciso I | acordao-crsfn | RJ-2006-796 | 2009-09-30 | condenacao | crsfn-10884 | fichas/crsfn/2009-05.md |
+| art. 13, inciso I | acordao-crsfn | RJ-2005-5936 | 2009-11-16 | condenacao | crsfn-11055 | fichas/crsfn/2009-07.md |
+| art. 13, inciso I | acordao-crsfn | RJ-2005-8578 | 2009-10-27 | absolvicao | crsfn-11103 | fichas/crsfn/2009-06.md |
+| art. 13, inciso I | acordao-crsfn | RJ-2005-7128 | 2009-08-24 | extincao | crsfn-11205 | fichas/crsfn/2009-05.md |
+| art. 13, inciso I | acordao-crsfn | RJ-2006-8981 | 2009-05-06 | condenacao | crsfn-11637 | fichas/crsfn/2009-03.md |
 | art. 13, inciso I | acordao-crsfn | RJ-2005-5041 | 2010-01-26 | parcial | crsfn-10975 | fichas/crsfn/2010-01.md |
-| art. 13, inciso I | acordao-crsfn | RJ-2006-0800 | 2010-04-29 | condenacao | crsfn-11169 | fichas/crsfn/2010-02.md |
+| art. 13, inciso I | acordao-crsfn | RJ-2006-0800 | 2010-04-29 | condenacao | crsfn-11169 | fichas/crsfn/2010-03.md |
 | art. 13, inciso I | acordao-crsfn | RJ-2006-1853 | 2010-04-29 | parcial | crsfn-11215 | fichas/crsfn/2010-03.md |
-| art. 13, inciso I | acordao-crsfn | RJ-2005-7127 | 2010-04-29 | parcial | crsfn-11275 | fichas/crsfn/2010-03.md |
-| art. 13, inciso I | acordao-crsfn | RJ-2006-2106 | 2010-05-25 | parcial | crsfn-11430 | fichas/crsfn/2010-04.md |
+| art. 13, inciso I | acordao-crsfn | RJ-2005-7127 | 2010-04-29 | parcial | crsfn-11275 | fichas/crsfn/2010-04.md |
+| art. 13, inciso I | acordao-crsfn | RJ-2006-2106 | 2010-05-25 | parcial | crsfn-11430 | fichas/crsfn/2010-05.md |
 | art. 13, inciso I | acordao-crsfn | RJ-2007-8672 | 2010-04-29 | condenacao | crsfn-12049 | fichas/crsfn/2010-04.md |
-| art. 13, inciso I | acordao-crsfn | RJ-2007-10884 | 2010-06-08 | parcial | crsfn-12354 | fichas/crsfn/2010-05.md |
-| art. 13, inciso I | acordao-crsfn | RJ-2008-0236 | 2010-04-29 | parcial | crsfn-12571 | fichas/crsfn/2010-04.md |
-| art. 13, inciso I | acordao-crsfn | RJ-2009-4095 | 2011-12-06 | parcial | crsfn-12759 | fichas/crsfn/2011-04.md |
-| art. 13, inciso I | acordao-crsfn | RJ-2005-7740 | 2012-07-05 | condenacao | crsfn-12355 | fichas/crsfn/2012-02.md |
-| art. 13, inciso I | acordao-crsfn | RJ-2007-4376 | 2012-10-25 | condenacao | crsfn-12661 | fichas/crsfn/2012-04.md |
-| art. 13, inciso I | acordao-crsfn | RJ-2009-3951 | 2012-12-05 | condenacao | crsfn-12973 | fichas/crsfn/2012-05.md |
+| art. 13, inciso I | acordao-crsfn | RJ-2007-10884 | 2010-06-08 | parcial | crsfn-12354 | fichas/crsfn/2010-06.md |
+| art. 13, inciso I | acordao-crsfn | RJ-2008-0236 | 2010-04-29 | parcial | crsfn-12571 | fichas/crsfn/2010-05.md |
+| art. 13, inciso I | acordao-crsfn | RJ-2009-4095 | 2011-12-06 | parcial | crsfn-12759 | fichas/crsfn/2011-05.md |
+| art. 13, inciso I | acordao-crsfn | RJ-2005-7740 | 2012-07-05 | condenacao | crsfn-12355 | fichas/crsfn/2012-03.md |
+| art. 13, inciso I | acordao-crsfn | RJ-2007-4376 | 2012-10-25 | condenacao | crsfn-12661 | fichas/crsfn/2012-05.md |
+| art. 13, inciso I | acordao-crsfn | RJ-2009-3951 | 2012-12-05 | condenacao | crsfn-12973 | fichas/crsfn/2012-06.md |
 | art. 13, inciso I | acordao-crsfn | RJ-2010-11571 | 2012-04-16 | condenacao | crsfn-13226 | fichas/crsfn/2012-02.md |
 | art. 13, inciso I | acordao-crsfn | RJ-2009-4133 | 2013-05-21 | condenacao | crsfn-12825 | fichas/crsfn/2013-02.md |
 | art. 13, inciso I | acordao-crsfn | RJ2009/4163 | 2013-08-26 | condenacao | crsfn-12996 | fichas/crsfn/2013-03.md |
-| art. 13, inciso I | acordao-crsfn | RJ-2009-4165 | 2013-09-25 | absolvicao | crsfn-13146 | fichas/crsfn/2013-04.md |
-| art. 13, inciso I | acordao-crsfn | IA-2006-15 | 2014-03-18 | arquivamento | crsfn-12359 | fichas/crsfn/2014-01.md |
+| art. 13, inciso I | acordao-crsfn | RJ-2009-4165 | 2013-09-25 | absolvicao | crsfn-13146 | fichas/crsfn/2013-05.md |
+| art. 13, inciso I | acordao-crsfn | IA-2006-15 | 2014-03-18 | arquivamento | crsfn-12359 | fichas/crsfn/2014-02.md |
 | art. 13, inciso I | acordao-crsfn | RJ-2009-2172 | 2014-04-15 | condenacao | crsfn-13097 | fichas/crsfn/2014-02.md |
-| art. 13, inciso I | acordao-crsfn | RJ2010/11567 | 2014-10-21 | parcial | crsfn-13334 | fichas/crsfn/2014-06.md |
+| art. 13, inciso I | acordao-crsfn | RJ2010/11567 | 2014-10-21 | parcial | crsfn-13334 | fichas/crsfn/2014-07.md |
 | art. 13, inciso I | acordao-crsfn | RJ2009/12672 | 2015-07-28 | absolvicao | crsfn-13378 | fichas/crsfn/2015-03.md |
 | art. 13, inciso I | acordao-crsfn | 04/2007 | 2016-01-21 | parcial | crsfn-13274 | fichas/crsfn/2016-01.md |
-| art. 13, inciso I | acordao-crsfn | RJ2010/1380 | 2017-03-14 | condenacao | crsfn-13870 | fichas/crsfn/2017-02.md |
-| art. 13, inciso I | acordao-crsfn | RJ2009/8439 | 2018-02-21 | parcial | crsfn-14212 | fichas/crsfn/2018-01.md |
+| art. 13, inciso I | acordao-crsfn | RJ2010/1380 | 2017-03-14 | condenacao | crsfn-13870 | fichas/crsfn/2017-03.md |
+| art. 13, inciso I | acordao-crsfn | RJ2009/8439 | 2018-02-21 | parcial | crsfn-14212 | fichas/crsfn/2018-02.md |
 | art. 13, inciso I | decisao-colegiado | RJ2005/5140 | 2005-11-29 | nao-provido | cvm-col-20051129-d02 | fichas/colegiado/2005-18.md |
 | art. 13, inciso I | decisao-colegiado | RJ2005/5937 | 2006-01-31 | nao-provido | cvm-col-20060131-d08 | fichas/colegiado/2006-02.md |
 | art. 13, inciso I | termo-compromisso | RJ2005/7741 | 2006-04-04 | rejeitado | cvm-col-20060404-d04 | fichas/tc/2006-01.md |
@@ -731,47 +731,47 @@ Este subíndice tem 2837 linhas e uma leitura única é cortada em silêncio per
 | art. 13, inciso I | decisao-antiga | — | 1998-01-09 | — | cvm-dec-1998-0001 | fichas/decisoes-antigas/1998-15.md |
 | art. 13, inciso I | decisao-antiga | — | 1999-01-29 | — | cvm-dec-1999-0001 | fichas/decisoes-antigas/1999-28.md |
 | art. 13, inciso I | decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
-| art. 13, inciso I | pas | 16/1999 | 2000-11-23 | condenacao | cvm-pas-16-1999 | fichas/pas/2000-03.md |
-| art. 13, inciso I | pas | RJ2005/3710 | 2006-06-20 | condenacao | cvm-pas-rj2005-3710 | fichas/pas/2006-06.md |
-| art. 13, inciso I | pas | RJ2005/4045 | 2006-09-28 | parcial | cvm-pas-rj2005-4045 | fichas/pas/2006-10.md |
-| art. 13, inciso I | pas | RJ2005/4346 | 2006-11-07 | parcial | cvm-pas-rj2005-4346 | fichas/pas/2006-12.md |
-| art. 13, inciso I | pas | RJ2005/4410 | 2006-11-07 | parcial | cvm-pas-rj2005-4410 | fichas/pas/2006-12.md |
-| art. 13, inciso I | pas | RJ2005/5041 | 2006-05-04 | parcial | cvm-pas-rj2005-5041 | fichas/pas/2006-04.md |
-| art. 13, inciso I | pas | RJ2005/5508 | 2006-10-31 | parcial | cvm-pas-rj2005-5508 | fichas/pas/2006-11.md |
-| art. 13, inciso I | pas | RJ2005/5936 | 2006-05-04 | parcial | cvm-pas-rj2005-5936 | fichas/pas/2006-04.md |
-| art. 13, inciso I | pas | RJ2005/7127 | 2006-11-08 | parcial | cvm-pas-rj2005-7127 | fichas/pas/2006-12.md |
-| art. 13, inciso I | pas | RJ2005/7128 | 2006-09-11 | absolvicao | cvm-pas-rj2005-7128 | fichas/pas/2006-09.md |
-| art. 13, inciso I | pas | RJ2005/8229 | 2006-06-14 | parcial | cvm-pas-rj2005-8229 | fichas/pas/2006-06.md |
-| art. 13, inciso I | pas | RJ2005/8578 | 2006-05-04 | parcial | cvm-pas-rj2005-8578 | fichas/pas/2006-04.md |
-| art. 13, inciso I | pas | RJ2006/1267 | 2006-06-14 | parcial | cvm-pas-rj2006-1267 | fichas/pas/2006-06.md |
-| art. 13, inciso I | pas | RJ2006/1559 | 2006-09-26 | parcial | cvm-pas-rj2006-1559 | fichas/pas/2006-09.md |
-| art. 13, inciso I | pas | RJ2006/1853 | 2006-08-22 | parcial | cvm-pas-rj2006-1853 | fichas/pas/2006-08.md |
-| art. 13, inciso I | pas | RJ2006/2106 | 2006-11-08 | parcial | cvm-pas-rj2006-2106 | fichas/pas/2006-12.md |
-| art. 13, inciso I | pas | RJ2005/8604 | 2007-04-04 | condenacao | cvm-pas-rj2005-8604 | fichas/pas/2007-02.md |
-| art. 13, inciso I | pas | 15/2006 | 2008-09-03 | condenacao | cvm-pas-15-2006 | fichas/pas/2008-03.md |
+| art. 13, inciso I | pas | 16/1999 | 2000-11-23 | condenacao | cvm-pas-16-1999 | fichas/pas/2000-05.md |
+| art. 13, inciso I | pas | RJ2005/3710 | 2006-06-20 | condenacao | cvm-pas-rj2005-3710 | fichas/pas/2006-13.md |
+| art. 13, inciso I | pas | RJ2005/4045 | 2006-09-28 | parcial | cvm-pas-rj2005-4045 | fichas/pas/2006-19.md |
+| art. 13, inciso I | pas | RJ2005/4346 | 2006-11-07 | parcial | cvm-pas-rj2005-4346 | fichas/pas/2006-23.md |
+| art. 13, inciso I | pas | RJ2005/4410 | 2006-11-07 | parcial | cvm-pas-rj2005-4410 | fichas/pas/2006-23.md |
+| art. 13, inciso I | pas | RJ2005/5041 | 2006-05-04 | parcial | cvm-pas-rj2005-5041 | fichas/pas/2006-08.md |
+| art. 13, inciso I | pas | RJ2005/5508 | 2006-10-31 | parcial | cvm-pas-rj2005-5508 | fichas/pas/2006-22.md |
+| art. 13, inciso I | pas | RJ2005/5936 | 2006-05-04 | parcial | cvm-pas-rj2005-5936 | fichas/pas/2006-08.md |
+| art. 13, inciso I | pas | RJ2005/7127 | 2006-11-08 | parcial | cvm-pas-rj2005-7127 | fichas/pas/2006-24.md |
+| art. 13, inciso I | pas | RJ2005/7128 | 2006-09-11 | absolvicao | cvm-pas-rj2005-7128 | fichas/pas/2006-17.md |
+| art. 13, inciso I | pas | RJ2005/8229 | 2006-06-14 | parcial | cvm-pas-rj2005-8229 | fichas/pas/2006-12.md |
+| art. 13, inciso I | pas | RJ2005/8578 | 2006-05-04 | parcial | cvm-pas-rj2005-8578 | fichas/pas/2006-08.md |
+| art. 13, inciso I | pas | RJ2006/1267 | 2006-06-14 | parcial | cvm-pas-rj2006-1267 | fichas/pas/2006-12.md |
+| art. 13, inciso I | pas | RJ2006/1559 | 2006-09-26 | parcial | cvm-pas-rj2006-1559 | fichas/pas/2006-19.md |
+| art. 13, inciso I | pas | RJ2006/1853 | 2006-08-22 | parcial | cvm-pas-rj2006-1853 | fichas/pas/2006-16.md |
+| art. 13, inciso I | pas | RJ2006/2106 | 2006-11-08 | parcial | cvm-pas-rj2006-2106 | fichas/pas/2006-25.md |
+| art. 13, inciso I | pas | RJ2005/8604 | 2007-04-04 | condenacao | cvm-pas-rj2005-8604 | fichas/pas/2007-04.md |
+| art. 13, inciso I | pas | 15/2006 | 2008-09-03 | condenacao | cvm-pas-15-2006 | fichas/pas/2008-06.md |
 | art. 13, inciso I | pas | RJ2007/4376 | 2009-01-27 | condenacao | cvm-pas-rj2007-4376 | fichas/pas/2009-01.md |
-| art. 13, inciso I | pas | 04/2007 | 2010-11-09 | parcial | cvm-pas-04-2007 | fichas/pas/2010-04.md |
-| art. 13, inciso I | pas | RJ2007/4685 | 2010-07-13 | parcial | cvm-pas-rj2007-4685 | fichas/pas/2010-02.md |
-| art. 13, inciso I | pas | RJ2008/2569 | 2010-11-30 | condenacao | cvm-pas-rj2008-2569 | fichas/pas/2010-05.md |
-| art. 13, inciso I | pas | RJ2008/2916 | 2010-03-23 | condenacao | cvm-pas-rj2008-2916 | fichas/pas/2010-01.md |
+| art. 13, inciso I | pas | 04/2007 | 2010-11-09 | parcial | cvm-pas-04-2007 | fichas/pas/2010-08.md |
+| art. 13, inciso I | pas | RJ2007/4685 | 2010-07-13 | parcial | cvm-pas-rj2007-4685 | fichas/pas/2010-04.md |
+| art. 13, inciso I | pas | RJ2008/2569 | 2010-11-30 | condenacao | cvm-pas-rj2008-2569 | fichas/pas/2010-09.md |
+| art. 13, inciso I | pas | RJ2008/2916 | 2010-03-23 | condenacao | cvm-pas-rj2008-2916 | fichas/pas/2010-02.md |
 | art. 13, inciso I | pas | RJ2009/1930 | 2010-05-18 | condenacao | cvm-pas-rj2009-1930 | fichas/pas/2010-02.md |
-| art. 13, inciso I | pas | RJ2009/8439 | 2013-12-10 | parcial | cvm-pas-rj2009-8439 | fichas/pas/2013-06.md |
-| art. 13, inciso I | pas | RJ2010/11350 | 2013-04-02 | parcial | cvm-pas-rj2010-11350 | fichas/pas/2013-02.md |
-| art. 13, inciso I | pas | RJ2010/12043 | 2013-04-02 | condenacao | cvm-pas-rj2010-12043 | fichas/pas/2013-02.md |
-| art. 13, inciso I | pas | RJ2010/1380 | 2013-05-28 | condenacao | cvm-pas-rj2010-1380 | fichas/pas/2013-03.md |
+| art. 13, inciso I | pas | RJ2009/8439 | 2013-12-10 | parcial | cvm-pas-rj2009-8439 | fichas/pas/2013-12.md |
+| art. 13, inciso I | pas | RJ2010/11350 | 2013-04-02 | parcial | cvm-pas-rj2010-11350 | fichas/pas/2013-03.md |
+| art. 13, inciso I | pas | RJ2010/12043 | 2013-04-02 | condenacao | cvm-pas-rj2010-12043 | fichas/pas/2013-03.md |
+| art. 13, inciso I | pas | RJ2010/1380 | 2013-05-28 | condenacao | cvm-pas-rj2010-1380 | fichas/pas/2013-05.md |
 | art. 13, inciso I | pas | RJ2014/5807 | 2016-03-15 | condenacao | cvm-pas-rj2014-5807 | fichas/pas/2016-01.md |
-| art. 13, inciso I | pas | RJ2015/9276 | 2016-08-23 | condenacao | cvm-pas-rj2015-9276 | fichas/pas/2016-04.md |
-| art. 13, inciso III | acordao-crsfn | RJ-2006-9227 | 2010-05-25 | absolvicao | crsfn-11607 | fichas/crsfn/2010-04.md |
+| art. 13, inciso I | pas | RJ2015/9276 | 2016-08-23 | condenacao | cvm-pas-rj2015-9276 | fichas/pas/2016-06.md |
+| art. 13, inciso III | acordao-crsfn | RJ-2006-9227 | 2010-05-25 | absolvicao | crsfn-11607 | fichas/crsfn/2010-05.md |
 | art. 13, inciso III | decisao-colegiado | RJ2004/6135 | 2005-01-04 | nao-provido | cvm-col-20050104-d07 | fichas/colegiado/2005-01.md |
 | art. 13, inciso III | decisao-colegiado | RJ2005/8359 | 2006-05-18 | nao-provido | cvm-col-20060518-d02 | fichas/colegiado/2006-07.md |
 | art. 13, inciso III | decisao-colegiado | RJ2006/9227 | 2007-07-03 | provido | cvm-col-20070703-d02 | fichas/colegiado/2007-11.md |
 | art. 13, inciso III | termo-compromisso | RJ2006/9825 | 2007-07-03 | rejeitado | cvm-col-20070703-d09 | fichas/tc/2007-04.md |
 | art. 13, inciso III | decisao-colegiado | RJ2007/12091 | 2007-10-23 | nao-provido | cvm-col-20071023-d07 | fichas/colegiado/2007-20.md |
-| art. 13, inciso III | pas | RJ2005/8528 | 2007-01-24 | parcial | cvm-pas-rj2005-8528 | fichas/pas/2007-01.md |
-| art. 13, inciso III | pas | RJ2011/7939 | 2012-12-06 | condenacao | cvm-pas-rj2011-7939 | fichas/pas/2012-03.md |
-| art. 13, inciso XVI | pas | 16/1999 | 2000-11-23 | condenacao | cvm-pas-16-1999 | fichas/pas/2000-03.md |
+| art. 13, inciso III | pas | RJ2005/8528 | 2007-01-24 | parcial | cvm-pas-rj2005-8528 | fichas/pas/2007-02.md |
+| art. 13, inciso III | pas | RJ2011/7939 | 2012-12-06 | condenacao | cvm-pas-rj2011-7939 | fichas/pas/2012-06.md |
+| art. 13, inciso XVI | pas | 16/1999 | 2000-11-23 | condenacao | cvm-pas-16-1999 | fichas/pas/2000-05.md |
 | art. 13, parágrafo único | acordao-crsfn | 05/8528 | 2011-05-31 | parcial | crsfn-11646 | fichas/crsfn/2011-02.md |
-| art. 13, parágrafo único | pas | RJ2005/8528 | 2007-01-24 | parcial | cvm-pas-rj2005-8528 | fichas/pas/2007-01.md |
+| art. 13, parágrafo único | pas | RJ2005/8528 | 2007-01-24 | parcial | cvm-pas-rj2005-8528 | fichas/pas/2007-02.md |
 
 ## art. 14
 
@@ -811,100 +811,100 @@ Este subíndice tem 2837 linhas e uma leitura única é cortada em silêncio per
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 15 | acordao-crsfn | IA-2006-15 | 2014-03-18 | arquivamento | crsfn-12359 | fichas/crsfn/2014-01.md |
+| art. 15 | acordao-crsfn | IA-2006-15 | 2014-03-18 | arquivamento | crsfn-12359 | fichas/crsfn/2014-02.md |
 | art. 15 | decisao-colegiado | RJ2007/10398 | 2007-09-04 | deferido | cvm-col-20070904-d02 | fichas/colegiado/2007-16.md |
 | art. 15 | decisao-colegiado | 19957.008455/2019-11 | 2019-10-08 | nao-provido | cvm-col-20191008-d1569 | fichas/colegiado/2019-16.md |
-| art. 15 | pas | RJ2006/5410 | 2008-08-21 | condenacao | cvm-pas-rj2006-5410 | fichas/pas/2008-02.md |
+| art. 15 | pas | RJ2006/5410 | 2008-08-21 | condenacao | cvm-pas-rj2006-5410 | fichas/pas/2008-04.md |
 
 ## art. 16
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 16 | acordao-crsfn | 95/4542 | 2000-07-28 | absolvicao | crsfn-2894 | fichas/crsfn/2000-03.md |
-| art. 16 | acordao-crsfn | 98/4411 | 2000-12-15 | absolvicao | crsfn-2936 | fichas/crsfn/2000-06.md |
+| art. 16 | acordao-crsfn | 98/4411 | 2000-12-15 | absolvicao | crsfn-2936 | fichas/crsfn/2000-07.md |
 | art. 16 | acordao-crsfn | 98/4853 | 2000-02-25 | absolvicao | crsfn-2943 | fichas/crsfn/2000-01.md |
-| art. 16 | acordao-crsfn | 98/5615 | 2000-12-15 | absolvicao | crsfn-2976 | fichas/crsfn/2000-06.md |
+| art. 16 | acordao-crsfn | 98/5615 | 2000-12-15 | absolvicao | crsfn-2976 | fichas/crsfn/2000-07.md |
 | art. 16 | acordao-crsfn | RJ98/4072 | 2000-06-15 | absolvicao | crsfn-2983 | fichas/crsfn/2000-03.md |
 | art. 16 | acordao-crsfn | 98/4801 | 2000-05-30 | absolvicao | crsfn-2987 | fichas/crsfn/2000-02.md |
 | art. 16 | acordao-crsfn | 98/5639 | 2000-06-15 | absolvicao | crsfn-2997 | fichas/crsfn/2000-03.md |
 | art. 16 | acordao-crsfn | 98/5771 | 2000-06-15 | absolvicao | crsfn-3009 | fichas/crsfn/2000-03.md |
 | art. 16 | acordao-crsfn | RJ99/1952 | 2000-11-07 | condenacao | crsfn-3130 | fichas/crsfn/2000-06.md |
-| art. 16 | acordao-crsfn | 99/1886 | 2000-11-23 | arquivamento | crsfn-3175 | fichas/crsfn/2000-06.md |
+| art. 16 | acordao-crsfn | 99/1886 | 2000-11-23 | arquivamento | crsfn-3175 | fichas/crsfn/2000-07.md |
 | art. 16 | acordao-crsfn | 28/00 | 2005-11-09 | condenacao | crsfn-4788 | fichas/crsfn/2005-02.md |
 | art. 16 | acordao-crsfn | 05/4215 | 2007-11-22 | absolvicao | crsfn-9249 | fichas/crsfn/2007-02.md |
-| art. 16 | acordao-crsfn | RJ-2006/1622 | 2008-07-30 | absolvicao | crsfn-11474 | fichas/crsfn/2008-04.md |
-| art. 16 | acordao-crsfn | RJ-2006/1623 | 2008-07-30 | absolvicao | crsfn-11475 | fichas/crsfn/2008-04.md |
-| art. 16 | acordao-crsfn | RJ-2004/5238 | 2008-10-28 | parcial | crsfn-8614 | fichas/crsfn/2008-05.md |
-| art. 16 | acordao-crsfn | RJ-2005/3646 | 2008-07-30 | condenacao | crsfn-9747 | fichas/crsfn/2008-04.md |
-| art. 16 | acordao-crsfn | RJ-2006-796 | 2009-09-30 | condenacao | crsfn-10884 | fichas/crsfn/2009-04.md |
+| art. 16 | acordao-crsfn | RJ-2006/1622 | 2008-07-30 | absolvicao | crsfn-11474 | fichas/crsfn/2008-05.md |
+| art. 16 | acordao-crsfn | RJ-2006/1623 | 2008-07-30 | absolvicao | crsfn-11475 | fichas/crsfn/2008-05.md |
+| art. 16 | acordao-crsfn | RJ-2004/5238 | 2008-10-28 | parcial | crsfn-8614 | fichas/crsfn/2008-06.md |
+| art. 16 | acordao-crsfn | RJ-2005/3646 | 2008-07-30 | condenacao | crsfn-9747 | fichas/crsfn/2008-05.md |
+| art. 16 | acordao-crsfn | RJ-2006-796 | 2009-09-30 | condenacao | crsfn-10884 | fichas/crsfn/2009-05.md |
 | art. 16 | acordao-crsfn | RJ-2005-3751 | 2009-04-15 | condenacao | crsfn-10970 | fichas/crsfn/2009-02.md |
-| art. 16 | acordao-crsfn | RJ-2005-5936 | 2009-11-16 | condenacao | crsfn-11055 | fichas/crsfn/2009-06.md |
-| art. 16 | acordao-crsfn | RJ-2005-8578 | 2009-10-27 | absolvicao | crsfn-11103 | fichas/crsfn/2009-05.md |
-| art. 16 | acordao-crsfn | RJ-2005-7128 | 2009-08-24 | extincao | crsfn-11205 | fichas/crsfn/2009-04.md |
-| art. 16 | acordao-crsfn | RJ-2006-1528 | 2009-06-29 | absolvicao | crsfn-11214 | fichas/crsfn/2009-03.md |
-| art. 16 | acordao-crsfn | RJ-2005-4045 | 2009-10-27 | absolvicao | crsfn-11437 | fichas/crsfn/2009-05.md |
+| art. 16 | acordao-crsfn | RJ-2005-5936 | 2009-11-16 | condenacao | crsfn-11055 | fichas/crsfn/2009-07.md |
+| art. 16 | acordao-crsfn | RJ-2005-8578 | 2009-10-27 | absolvicao | crsfn-11103 | fichas/crsfn/2009-06.md |
+| art. 16 | acordao-crsfn | RJ-2005-7128 | 2009-08-24 | extincao | crsfn-11205 | fichas/crsfn/2009-05.md |
+| art. 16 | acordao-crsfn | RJ-2006-1528 | 2009-06-29 | absolvicao | crsfn-11214 | fichas/crsfn/2009-04.md |
+| art. 16 | acordao-crsfn | RJ-2005-4045 | 2009-10-27 | absolvicao | crsfn-11437 | fichas/crsfn/2009-06.md |
 | art. 16 | acordao-crsfn | RJ-2006-7828 | 2009-03-18 | condenacao | crsfn-11496 | fichas/crsfn/2009-01.md |
-| art. 16 | acordao-crsfn | RJ-2006-1621 | 2009-05-06 | absolvicao | crsfn-11636 | fichas/crsfn/2009-02.md |
-| art. 16 | acordao-crsfn | RJ-2006-8981 | 2009-05-06 | condenacao | crsfn-11637 | fichas/crsfn/2009-02.md |
-| art. 16 | acordao-crsfn | RJ-2001-7749 | 2009-06-29 | parcial | crsfn-7358 | fichas/crsfn/2009-03.md |
-| art. 16 | acordao-crsfn | RJ-2005-3711 | 2009-11-16 | absolvicao | crsfn-9427 | fichas/crsfn/2009-06.md |
-| art. 16 | acordao-crsfn | RJ-2005-5937 | 2009-07-21 | absolvicao | crsfn-9541 | fichas/crsfn/2009-04.md |
+| art. 16 | acordao-crsfn | RJ-2006-1621 | 2009-05-06 | absolvicao | crsfn-11636 | fichas/crsfn/2009-03.md |
+| art. 16 | acordao-crsfn | RJ-2006-8981 | 2009-05-06 | condenacao | crsfn-11637 | fichas/crsfn/2009-03.md |
+| art. 16 | acordao-crsfn | RJ-2001-7749 | 2009-06-29 | parcial | crsfn-7358 | fichas/crsfn/2009-04.md |
+| art. 16 | acordao-crsfn | RJ-2005-3711 | 2009-11-16 | absolvicao | crsfn-9427 | fichas/crsfn/2009-07.md |
+| art. 16 | acordao-crsfn | RJ-2005-5937 | 2009-07-21 | absolvicao | crsfn-9541 | fichas/crsfn/2009-05.md |
 | art. 16 | acordao-crsfn | RJ-2005/3182 | 2009-01-28 | absolvicao | crsfn-9791 | fichas/crsfn/2009-01.md |
-| art. 16 | acordao-crsfn | RJ-2005-7316 | 2010-11-23 | parcial | crsfn-10380 | fichas/crsfn/2010-08.md |
-| art. 16 | acordao-crsfn | RJ-2005-7244 | 2010-04-29 | parcial | crsfn-10554 | fichas/crsfn/2010-02.md |
+| art. 16 | acordao-crsfn | RJ-2005-7316 | 2010-11-23 | parcial | crsfn-10380 | fichas/crsfn/2010-10.md |
+| art. 16 | acordao-crsfn | RJ-2005-7244 | 2010-04-29 | parcial | crsfn-10554 | fichas/crsfn/2010-03.md |
 | art. 16 | acordao-crsfn | RJ-2005-7234 | 2010-01-26 | parcial | crsfn-10555 | fichas/crsfn/2010-01.md |
 | art. 16 | acordao-crsfn | RJ-2005-7315 | 2010-01-26 | parcial | crsfn-10585 | fichas/crsfn/2010-01.md |
 | art. 16 | acordao-crsfn | RJ-2005-5041 | 2010-01-26 | parcial | crsfn-10975 | fichas/crsfn/2010-01.md |
 | art. 16 | acordao-crsfn | RJ-2005-8229 | 2010-01-26 | condenacao | crsfn-11144 | fichas/crsfn/2010-01.md |
 | art. 16 | acordao-crsfn | RJ-2006-1559 | 2010-04-29 | parcial | crsfn-11211 | fichas/crsfn/2010-03.md |
 | art. 16 | acordao-crsfn | RJ-2006-1853 | 2010-04-29 | parcial | crsfn-11215 | fichas/crsfn/2010-03.md |
-| art. 16 | acordao-crsfn | RJ-2005-7127 | 2010-04-29 | parcial | crsfn-11275 | fichas/crsfn/2010-03.md |
-| art. 16 | acordao-crsfn | RJ-2006-1266 | 2010-04-29 | condenacao | crsfn-11324 | fichas/crsfn/2010-03.md |
-| art. 16 | acordao-crsfn | RJ-2002-4311 | 2010-10-05 | condenacao | crsfn-11325 | fichas/crsfn/2010-07.md |
-| art. 16 | acordao-crsfn | RJ-2005-7507 | 2010-04-29 | condenacao | crsfn-11326 | fichas/crsfn/2010-03.md |
-| art. 16 | acordao-crsfn | RJ-2005-6703 | 2010-10-05 | parcial | crsfn-11423 | fichas/crsfn/2010-07.md |
-| art. 16 | acordao-crsfn | RJ-2005-9714 | 2010-06-08 | parcial | crsfn-11427 | fichas/crsfn/2010-04.md |
-| art. 16 | acordao-crsfn | RJ-2005-4346 | 2010-06-08 | parcial | crsfn-11428 | fichas/crsfn/2010-04.md |
-| art. 16 | acordao-crsfn | RJ-2006-2106 | 2010-05-25 | parcial | crsfn-11430 | fichas/crsfn/2010-04.md |
-| art. 16 | acordao-crsfn | RJ-2005-5222 | 2010-09-14 | absolvicao | crsfn-11432 | fichas/crsfn/2010-07.md |
-| art. 16 | acordao-crsfn | RJ-2005-4969 | 2010-10-27 | parcial | crsfn-11434 | fichas/crsfn/2010-08.md |
+| art. 16 | acordao-crsfn | RJ-2005-7127 | 2010-04-29 | parcial | crsfn-11275 | fichas/crsfn/2010-04.md |
+| art. 16 | acordao-crsfn | RJ-2006-1266 | 2010-04-29 | condenacao | crsfn-11324 | fichas/crsfn/2010-04.md |
+| art. 16 | acordao-crsfn | RJ-2002-4311 | 2010-10-05 | condenacao | crsfn-11325 | fichas/crsfn/2010-09.md |
+| art. 16 | acordao-crsfn | RJ-2005-7507 | 2010-04-29 | condenacao | crsfn-11326 | fichas/crsfn/2010-04.md |
+| art. 16 | acordao-crsfn | RJ-2005-6703 | 2010-10-05 | parcial | crsfn-11423 | fichas/crsfn/2010-09.md |
+| art. 16 | acordao-crsfn | RJ-2005-9714 | 2010-06-08 | parcial | crsfn-11427 | fichas/crsfn/2010-05.md |
+| art. 16 | acordao-crsfn | RJ-2005-4346 | 2010-06-08 | parcial | crsfn-11428 | fichas/crsfn/2010-05.md |
+| art. 16 | acordao-crsfn | RJ-2006-2106 | 2010-05-25 | parcial | crsfn-11430 | fichas/crsfn/2010-05.md |
+| art. 16 | acordao-crsfn | RJ-2005-5222 | 2010-09-14 | absolvicao | crsfn-11432 | fichas/crsfn/2010-08.md |
+| art. 16 | acordao-crsfn | RJ-2005-4969 | 2010-10-27 | parcial | crsfn-11434 | fichas/crsfn/2010-10.md |
 | art. 16 | acordao-crsfn | RJ-2005-5508 | 2010-04-29 | parcial | crsfn-11645 | fichas/crsfn/2010-04.md |
 | art. 16 | acordao-crsfn | RJ-2007-8672 | 2010-04-29 | condenacao | crsfn-12049 | fichas/crsfn/2010-04.md |
-| art. 16 | acordao-crsfn | RJ-2007-10884 | 2010-06-08 | parcial | crsfn-12354 | fichas/crsfn/2010-05.md |
-| art. 16 | acordao-crsfn | RJ-2005-6764 | 2011-05-31 | parcial | crsfn-11421 | fichas/crsfn/2011-01.md |
-| art. 16 | acordao-crsfn | RJ-2006-5829 | 2011-07-26 | absolvicao | crsfn-11439 | fichas/crsfn/2011-02.md |
+| art. 16 | acordao-crsfn | RJ-2007-10884 | 2010-06-08 | parcial | crsfn-12354 | fichas/crsfn/2010-06.md |
+| art. 16 | acordao-crsfn | RJ-2005-6764 | 2011-05-31 | parcial | crsfn-11421 | fichas/crsfn/2011-02.md |
+| art. 16 | acordao-crsfn | RJ-2006-5829 | 2011-07-26 | absolvicao | crsfn-11439 | fichas/crsfn/2011-03.md |
 | art. 16 | acordao-crsfn | RJ-2005-4410 | 2011-11-09 | condenacao | crsfn-11440 | fichas/crsfn/2011-04.md |
 | art. 16 | acordao-crsfn | 05/8528 | 2011-05-31 | parcial | crsfn-11646 | fichas/crsfn/2011-02.md |
-| art. 16 | acordao-crsfn | 15/05 | 2011-08-30 | absolvicao | crsfn-11663 | fichas/crsfn/2011-03.md |
+| art. 16 | acordao-crsfn | 15/05 | 2011-08-30 | absolvicao | crsfn-11663 | fichas/crsfn/2011-04.md |
 | art. 16 | acordao-crsfn | RJ-2008-2282 | 2011-05-31 | condenacao | crsfn-12078 | fichas/crsfn/2011-02.md |
-| art. 16 | acordao-crsfn | IA-02/04 | 2012-03-06 | arquivamento | crsfn-10838 | fichas/crsfn/2012-01.md |
+| art. 16 | acordao-crsfn | IA-02/04 | 2012-03-06 | arquivamento | crsfn-10838 | fichas/crsfn/2012-02.md |
 | art. 16 | acordao-crsfn | RJ–2005-8604 | 2012-02-13 | condenacao | crsfn-12039 | fichas/crsfn/2012-01.md |
-| art. 16 | acordao-crsfn | RJ-2005-7740 | 2012-07-05 | condenacao | crsfn-12355 | fichas/crsfn/2012-02.md |
-| art. 16 | acordao-crsfn | RJ-2006-5136 | 2012-08-13 | parcial | crsfn-12503 | fichas/crsfn/2012-03.md |
-| art. 16 | acordao-crsfn | RJ-2007-11851 | 2012-07-05 | parcial | crsfn-12505 | fichas/crsfn/2012-02.md |
-| art. 16 | acordao-crsfn | RJ-2007-4376 | 2012-10-25 | condenacao | crsfn-12661 | fichas/crsfn/2012-04.md |
-| art. 16 | acordao-crsfn | RJ-2009-3951 | 2012-12-05 | condenacao | crsfn-12973 | fichas/crsfn/2012-05.md |
+| art. 16 | acordao-crsfn | RJ-2005-7740 | 2012-07-05 | condenacao | crsfn-12355 | fichas/crsfn/2012-03.md |
+| art. 16 | acordao-crsfn | RJ-2006-5136 | 2012-08-13 | parcial | crsfn-12503 | fichas/crsfn/2012-04.md |
+| art. 16 | acordao-crsfn | RJ-2007-11851 | 2012-07-05 | parcial | crsfn-12505 | fichas/crsfn/2012-03.md |
+| art. 16 | acordao-crsfn | RJ-2007-4376 | 2012-10-25 | condenacao | crsfn-12661 | fichas/crsfn/2012-05.md |
+| art. 16 | acordao-crsfn | RJ-2009-3951 | 2012-12-05 | condenacao | crsfn-12973 | fichas/crsfn/2012-06.md |
 | art. 16 | acordao-crsfn | RJ-2010-11571 | 2012-04-16 | condenacao | crsfn-13226 | fichas/crsfn/2012-02.md |
-| art. 16 | acordao-crsfn | RJ-2006-4850 | 2013-09-25 | parcial | crsfn-12045 | fichas/crsfn/2013-03.md |
+| art. 16 | acordao-crsfn | RJ-2006-4850 | 2013-09-25 | parcial | crsfn-12045 | fichas/crsfn/2013-04.md |
 | art. 16 | acordao-crsfn | RJ-2007-8109 | 2013-02-26 | parcial | crsfn-12449 | fichas/crsfn/2013-01.md |
 | art. 16 | acordao-crsfn | RJ-2006-5343 | 2013-06-18 | parcial | crsfn-12504 | fichas/crsfn/2013-02.md |
 | art. 16 | acordao-crsfn | RJ-2009-4133 | 2013-05-21 | condenacao | crsfn-12825 | fichas/crsfn/2013-02.md |
-| art. 16 | acordao-crsfn | RJ-2009-4165 | 2013-09-25 | absolvicao | crsfn-13146 | fichas/crsfn/2013-04.md |
+| art. 16 | acordao-crsfn | RJ-2009-4165 | 2013-09-25 | absolvicao | crsfn-13146 | fichas/crsfn/2013-05.md |
 | art. 16 | acordao-crsfn | RJ-2008-2569 | 2013-07-30 | condenacao | crsfn-13275 | fichas/crsfn/2013-03.md |
 | art. 16 | acordao-crsfn | RJ-2007-8150 | 2014-05-13 | condenacao | crsfn-12757 | fichas/crsfn/2014-03.md |
 | art. 16 | acordao-crsfn | RJ-2008-6250 | 2014-01-21 | condenacao | crsfn-12905 | fichas/crsfn/2014-01.md |
-| art. 16 | acordao-crsfn | RJ-2009-1930 | 2014-04-15 | condenacao | crsfn-13145 | fichas/crsfn/2014-02.md |
+| art. 16 | acordao-crsfn | RJ-2009-1930 | 2014-04-15 | condenacao | crsfn-13145 | fichas/crsfn/2014-03.md |
 | art. 16 | acordao-crsfn | RJ-2006-8572 | 2014-06-03 | condenacao | crsfn-13177 | fichas/crsfn/2014-04.md |
-| art. 16 | acordao-crsfn | RJ-2009-1504 | 2014-07-22 | parcial | crsfn-13190 | fichas/crsfn/2014-04.md |
+| art. 16 | acordao-crsfn | RJ-2009-1504 | 2014-07-22 | parcial | crsfn-13190 | fichas/crsfn/2014-05.md |
 | art. 16 | acordao-crsfn | RJ-2007-4685 | 2014-04-15 | parcial | crsfn-13229 | fichas/crsfn/2014-03.md |
-| art. 16 | acordao-crsfn | RJ2010/11567 | 2014-10-21 | parcial | crsfn-13334 | fichas/crsfn/2014-06.md |
+| art. 16 | acordao-crsfn | RJ2010/11567 | 2014-10-21 | parcial | crsfn-13334 | fichas/crsfn/2014-07.md |
 | art. 16 | acordao-crsfn | RJ2009/12672 | 2015-07-28 | absolvicao | crsfn-13378 | fichas/crsfn/2015-03.md |
-| art. 16 | acordao-crsfn | 2010/11351 | 2015-10-20 | condenacao | crsfn-13616 | fichas/crsfn/2015-04.md |
+| art. 16 | acordao-crsfn | 2010/11351 | 2015-10-20 | condenacao | crsfn-13616 | fichas/crsfn/2015-05.md |
 | art. 16 | acordao-crsfn | 04/2007 | 2016-01-21 | parcial | crsfn-13274 | fichas/crsfn/2016-01.md |
-| art. 16 | acordao-crsfn | RJ2014/5807 | 2017-04-19 | condenacao | crsfn-10372-000718-2016-05 | fichas/crsfn/2017-03.md |
-| art. 16 | acordao-crsfn | 10/11352 | 2017-09-11 | condenacao | crsfn-13414 | fichas/crsfn/2017-06.md |
-| art. 16 | acordao-crsfn | 2010/12041 | 2017-04-18 | parcial | crsfn-13704 | fichas/crsfn/2017-03.md |
-| art. 16 | acordao-crsfn | RJ2009/8439 | 2018-02-21 | parcial | crsfn-14212 | fichas/crsfn/2018-01.md |
+| art. 16 | acordao-crsfn | RJ2014/5807 | 2017-04-19 | condenacao | crsfn-10372-000718-2016-05 | fichas/crsfn/2017-06.md |
+| art. 16 | acordao-crsfn | 10/11352 | 2017-09-11 | condenacao | crsfn-13414 | fichas/crsfn/2017-12.md |
+| art. 16 | acordao-crsfn | 2010/12041 | 2017-04-18 | parcial | crsfn-13704 | fichas/crsfn/2017-05.md |
+| art. 16 | acordao-crsfn | RJ2009/8439 | 2018-02-21 | parcial | crsfn-14212 | fichas/crsfn/2018-02.md |
 | art. 16 | decisao-colegiado | RJ2002/1329 | 2002-04-10 | provido | cvm-col-20020410-d02 | fichas/colegiado/2002-07.md |
 | art. 16 | decisao-colegiado | RJ2002/1328 | 2002-04-10 | provido | cvm-col-20020410-d03 | fichas/colegiado/2002-07.md |
 | art. 16 | decisao-colegiado | RJ2002/1343 | 2002-04-10 | nao-provido | cvm-col-20020410-d04 | fichas/colegiado/2002-07.md |
@@ -1089,114 +1089,114 @@ Este subíndice tem 2837 linhas e uma leitura única é cortada em silêncio per
 | art. 16 | decisao-antiga | — | 1999-01-29 | — | cvm-dec-1999-0001 | fichas/decisoes-antigas/1999-28.md |
 | art. 16 | decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
 | art. 16 | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
-| art. 16 | pas | 36/1998 | 2000-09-28 | parcial | cvm-pas-36-1998 | fichas/pas/2000-02.md |
-| art. 16 | pas | 20/2000 | 2001-06-27 | condenacao | cvm-pas-20-2000 | fichas/pas/2001-02.md |
-| art. 16 | pas | 28/2000 | 2002-11-14 | — | cvm-pas-28-2000 | fichas/pas/2002-03.md |
-| art. 16 | pas | RJ2000/6498 | 2002-04-17 | parcial | cvm-pas-rj2000-6498 | fichas/pas/2002-02.md |
-| art. 16 | pas | RJ2001/7749 | 2004-10-14 | parcial | cvm-pas-rj2001-7749 | fichas/pas/2004-06.md |
-| art. 16 | pas | 02/2004 | 2005-12-07 | parcial | cvm-pas-02-2004 | fichas/pas/2005-09.md |
-| art. 16 | pas | RJ2004/5238 | 2005-03-28 | condenacao | cvm-pas-rj2004-5238 | fichas/pas/2005-02.md |
-| art. 16 | pas | RJ2005/3646 | 2005-12-14 | condenacao | cvm-pas-rj2005-3646 | fichas/pas/2005-10.md |
-| art. 16 | pas | RJ2005/3711 | 2005-12-14 | parcial | cvm-pas-rj2005-3711 | fichas/pas/2005-10.md |
-| art. 16 | pas | RJ2005/3750 | 2005-10-19 | absolvicao | cvm-pas-rj2005-3750 | fichas/pas/2005-07.md |
-| art. 16 | pas | RJ2005/4215 | 2005-11-03 | absolvicao | cvm-pas-rj2005-4215 | fichas/pas/2005-07.md |
-| art. 16 | pas | 15/2005 | 2006-11-29 | parcial | cvm-pas-15-2005 | fichas/pas/2006-13.md |
-| art. 16 | pas | RJ2002/4311 | 2006-09-25 | condenacao | cvm-pas-rj2002-4311 | fichas/pas/2006-09.md |
+| art. 16 | pas | 36/1998 | 2000-09-28 | parcial | cvm-pas-36-1998 | fichas/pas/2000-04.md |
+| art. 16 | pas | 20/2000 | 2001-06-27 | condenacao | cvm-pas-20-2000 | fichas/pas/2001-03.md |
+| art. 16 | pas | 28/2000 | 2002-11-14 | — | cvm-pas-28-2000 | fichas/pas/2002-06.md |
+| art. 16 | pas | RJ2000/6498 | 2002-04-17 | parcial | cvm-pas-rj2000-6498 | fichas/pas/2002-03.md |
+| art. 16 | pas | RJ2001/7749 | 2004-10-14 | parcial | cvm-pas-rj2001-7749 | fichas/pas/2004-12.md |
+| art. 16 | pas | 02/2004 | 2005-12-07 | parcial | cvm-pas-02-2004 | fichas/pas/2005-18.md |
+| art. 16 | pas | RJ2004/5238 | 2005-03-28 | condenacao | cvm-pas-rj2004-5238 | fichas/pas/2005-05.md |
+| art. 16 | pas | RJ2005/3646 | 2005-12-14 | condenacao | cvm-pas-rj2005-3646 | fichas/pas/2005-20.md |
+| art. 16 | pas | RJ2005/3711 | 2005-12-14 | parcial | cvm-pas-rj2005-3711 | fichas/pas/2005-20.md |
+| art. 16 | pas | RJ2005/3750 | 2005-10-19 | absolvicao | cvm-pas-rj2005-3750 | fichas/pas/2005-13.md |
+| art. 16 | pas | RJ2005/4215 | 2005-11-03 | absolvicao | cvm-pas-rj2005-4215 | fichas/pas/2005-14.md |
+| art. 16 | pas | 15/2005 | 2006-11-29 | parcial | cvm-pas-15-2005 | fichas/pas/2006-26.md |
+| art. 16 | pas | RJ2002/4311 | 2006-09-25 | condenacao | cvm-pas-rj2002-4311 | fichas/pas/2006-18.md |
 | art. 16 | pas | RJ2005/2933 | 2006-01-11 | parcial | cvm-pas-rj2005-2933 | fichas/pas/2006-01.md |
 | art. 16 | pas | RJ2005/3108 | 2006-01-11 | parcial | cvm-pas-rj2005-3108 | fichas/pas/2006-01.md |
-| art. 16 | pas | RJ2005/3182 | 2006-03-08 | parcial | cvm-pas-rj2005-3182 | fichas/pas/2006-02.md |
-| art. 16 | pas | RJ2005/3751 | 2006-05-09 | condenacao | cvm-pas-rj2005-3751 | fichas/pas/2006-04.md |
-| art. 16 | pas | RJ2005/4045 | 2006-09-28 | parcial | cvm-pas-rj2005-4045 | fichas/pas/2006-10.md |
-| art. 16 | pas | RJ2005/4346 | 2006-11-07 | parcial | cvm-pas-rj2005-4346 | fichas/pas/2006-12.md |
-| art. 16 | pas | RJ2005/4410 | 2006-11-07 | parcial | cvm-pas-rj2005-4410 | fichas/pas/2006-12.md |
-| art. 16 | pas | RJ2005/4969 | 2006-11-07 | parcial | cvm-pas-rj2005-4969 | fichas/pas/2006-12.md |
-| art. 16 | pas | RJ2005/4990 | 2006-10-31 | parcial | cvm-pas-rj2005-4990 | fichas/pas/2006-11.md |
-| art. 16 | pas | RJ2005/5041 | 2006-05-04 | parcial | cvm-pas-rj2005-5041 | fichas/pas/2006-04.md |
-| art. 16 | pas | RJ2005/5222 | 2006-11-08 | outro | cvm-pas-rj2005-5222 | fichas/pas/2006-12.md |
-| art. 16 | pas | RJ2005/5508 | 2006-10-31 | parcial | cvm-pas-rj2005-5508 | fichas/pas/2006-11.md |
-| art. 16 | pas | RJ2005/5936 | 2006-05-04 | parcial | cvm-pas-rj2005-5936 | fichas/pas/2006-04.md |
-| art. 16 | pas | RJ2005/6764 | 2006-10-31 | parcial | cvm-pas-rj2005-6764 | fichas/pas/2006-11.md |
-| art. 16 | pas | RJ2005/7127 | 2006-11-08 | parcial | cvm-pas-rj2005-7127 | fichas/pas/2006-12.md |
-| art. 16 | pas | RJ2005/7128 | 2006-09-11 | absolvicao | cvm-pas-rj2005-7128 | fichas/pas/2006-09.md |
-| art. 16 | pas | RJ2005/7234 | 2006-05-10 | parcial | cvm-pas-rj2005-7234 | fichas/pas/2006-05.md |
-| art. 16 | pas | RJ2005/7244 | 2006-05-03 | parcial | cvm-pas-rj2005-7244 | fichas/pas/2006-04.md |
-| art. 16 | pas | RJ2005/7257 | 2006-05-10 | absolvicao | cvm-pas-rj2005-7257 | fichas/pas/2006-05.md |
-| art. 16 | pas | RJ2005/7315 | 2006-05-10 | parcial | cvm-pas-rj2005-7315 | fichas/pas/2006-05.md |
-| art. 16 | pas | RJ2005/7316 | 2006-04-05 | parcial | cvm-pas-rj2005-7316 | fichas/pas/2006-03.md |
-| art. 16 | pas | RJ2005/7507 | 2006-11-08 | parcial | cvm-pas-rj2005-7507 | fichas/pas/2006-12.md |
-| art. 16 | pas | RJ2005/8229 | 2006-06-14 | parcial | cvm-pas-rj2005-8229 | fichas/pas/2006-06.md |
-| art. 16 | pas | RJ2005/8578 | 2006-05-04 | parcial | cvm-pas-rj2005-8578 | fichas/pas/2006-04.md |
-| art. 16 | pas | RJ2006/1266 | 2006-08-29 | parcial | cvm-pas-rj2006-1266 | fichas/pas/2006-08.md |
-| art. 16 | pas | RJ2006/1267 | 2006-06-14 | parcial | cvm-pas-rj2006-1267 | fichas/pas/2006-06.md |
-| art. 16 | pas | RJ2006/1528 | 2006-08-22 | parcial | cvm-pas-rj2006-1528 | fichas/pas/2006-08.md |
-| art. 16 | pas | RJ2006/1559 | 2006-09-26 | parcial | cvm-pas-rj2006-1559 | fichas/pas/2006-09.md |
-| art. 16 | pas | RJ2006/1621 | 2006-08-29 | parcial | cvm-pas-rj2006-1621 | fichas/pas/2006-09.md |
-| art. 16 | pas | RJ2006/1622 | 2006-08-01 | parcial | cvm-pas-rj2006-1622 | fichas/pas/2006-07.md |
-| art. 16 | pas | RJ2006/1623 | 2006-08-01 | parcial | cvm-pas-rj2006-1623 | fichas/pas/2006-07.md |
-| art. 16 | pas | RJ2006/1853 | 2006-08-22 | parcial | cvm-pas-rj2006-1853 | fichas/pas/2006-08.md |
-| art. 16 | pas | RJ2006/2106 | 2006-11-08 | parcial | cvm-pas-rj2006-2106 | fichas/pas/2006-12.md |
-| art. 16 | pas | 19/2003 | 2007-04-24 | parcial | cvm-pas-19-2003 | fichas/pas/2007-03.md |
-| art. 16 | pas | RJ2001/11808 | 2007-10-02 | parcial | cvm-pas-rj2001-11808 | fichas/pas/2007-07.md |
-| art. 16 | pas | RJ2005/6763 | 2007-01-31 | parcial | cvm-pas-rj2005-6763 | fichas/pas/2007-01.md |
-| art. 16 | pas | RJ2005/8528 | 2007-01-24 | parcial | cvm-pas-rj2005-8528 | fichas/pas/2007-01.md |
-| art. 16 | pas | RJ2005/8604 | 2007-04-04 | condenacao | cvm-pas-rj2005-8604 | fichas/pas/2007-02.md |
-| art. 16 | pas | RJ2005/8714 | 2007-02-13 | parcial | cvm-pas-rj2005-8714 | fichas/pas/2007-02.md |
-| art. 16 | pas | RJ2006/4850 | 2007-12-18 | condenacao | cvm-pas-rj2006-4850 | fichas/pas/2007-07.md |
-| art. 16 | pas | 15/2006 | 2008-09-03 | condenacao | cvm-pas-15-2006 | fichas/pas/2008-03.md |
-| art. 16 | pas | RJ2006/4849 | 2008-06-17 | condenacao | cvm-pas-rj2006-4849 | fichas/pas/2008-02.md |
-| art. 16 | pas | RJ2006/5136 | 2008-11-04 | condenacao | cvm-pas-rj2006-5136 | fichas/pas/2008-04.md |
-| art. 16 | pas | RJ2006/5343 | 2008-08-26 | parcial | cvm-pas-rj2006-5343 | fichas/pas/2008-03.md |
-| art. 16 | pas | RJ2006/5410 | 2008-08-21 | condenacao | cvm-pas-rj2006-5410 | fichas/pas/2008-02.md |
-| art. 16 | pas | RJ2007/11851 | 2008-12-02 | parcial | cvm-pas-rj2007-11851 | fichas/pas/2008-05.md |
-| art. 16 | pas | RJ2007/12545 | 2008-10-07 | condenacao | cvm-pas-rj2007-12545 | fichas/pas/2008-04.md |
-| art. 16 | pas | RJ2007/8109 | 2008-10-07 | parcial | cvm-pas-rj2007-8109 | fichas/pas/2008-04.md |
-| art. 16 | pas | RJ2006/4511 | 2009-05-19 | condenacao | cvm-pas-rj2006-4511 | fichas/pas/2009-02.md |
-| art. 16 | pas | RJ2006/8798 | 2009-12-08 | parcial | cvm-pas-rj2006-8798 | fichas/pas/2009-05.md |
+| art. 16 | pas | RJ2005/3182 | 2006-03-08 | parcial | cvm-pas-rj2005-3182 | fichas/pas/2006-04.md |
+| art. 16 | pas | RJ2005/3751 | 2006-05-09 | condenacao | cvm-pas-rj2005-3751 | fichas/pas/2006-09.md |
+| art. 16 | pas | RJ2005/4045 | 2006-09-28 | parcial | cvm-pas-rj2005-4045 | fichas/pas/2006-19.md |
+| art. 16 | pas | RJ2005/4346 | 2006-11-07 | parcial | cvm-pas-rj2005-4346 | fichas/pas/2006-23.md |
+| art. 16 | pas | RJ2005/4410 | 2006-11-07 | parcial | cvm-pas-rj2005-4410 | fichas/pas/2006-23.md |
+| art. 16 | pas | RJ2005/4969 | 2006-11-07 | parcial | cvm-pas-rj2005-4969 | fichas/pas/2006-24.md |
+| art. 16 | pas | RJ2005/4990 | 2006-10-31 | parcial | cvm-pas-rj2005-4990 | fichas/pas/2006-22.md |
+| art. 16 | pas | RJ2005/5041 | 2006-05-04 | parcial | cvm-pas-rj2005-5041 | fichas/pas/2006-08.md |
+| art. 16 | pas | RJ2005/5222 | 2006-11-08 | outro | cvm-pas-rj2005-5222 | fichas/pas/2006-24.md |
+| art. 16 | pas | RJ2005/5508 | 2006-10-31 | parcial | cvm-pas-rj2005-5508 | fichas/pas/2006-22.md |
+| art. 16 | pas | RJ2005/5936 | 2006-05-04 | parcial | cvm-pas-rj2005-5936 | fichas/pas/2006-08.md |
+| art. 16 | pas | RJ2005/6764 | 2006-10-31 | parcial | cvm-pas-rj2005-6764 | fichas/pas/2006-22.md |
+| art. 16 | pas | RJ2005/7127 | 2006-11-08 | parcial | cvm-pas-rj2005-7127 | fichas/pas/2006-24.md |
+| art. 16 | pas | RJ2005/7128 | 2006-09-11 | absolvicao | cvm-pas-rj2005-7128 | fichas/pas/2006-17.md |
+| art. 16 | pas | RJ2005/7234 | 2006-05-10 | parcial | cvm-pas-rj2005-7234 | fichas/pas/2006-10.md |
+| art. 16 | pas | RJ2005/7244 | 2006-05-03 | parcial | cvm-pas-rj2005-7244 | fichas/pas/2006-07.md |
+| art. 16 | pas | RJ2005/7257 | 2006-05-10 | absolvicao | cvm-pas-rj2005-7257 | fichas/pas/2006-10.md |
+| art. 16 | pas | RJ2005/7315 | 2006-05-10 | parcial | cvm-pas-rj2005-7315 | fichas/pas/2006-11.md |
+| art. 16 | pas | RJ2005/7316 | 2006-04-05 | parcial | cvm-pas-rj2005-7316 | fichas/pas/2006-06.md |
+| art. 16 | pas | RJ2005/7507 | 2006-11-08 | parcial | cvm-pas-rj2005-7507 | fichas/pas/2006-25.md |
+| art. 16 | pas | RJ2005/8229 | 2006-06-14 | parcial | cvm-pas-rj2005-8229 | fichas/pas/2006-12.md |
+| art. 16 | pas | RJ2005/8578 | 2006-05-04 | parcial | cvm-pas-rj2005-8578 | fichas/pas/2006-08.md |
+| art. 16 | pas | RJ2006/1266 | 2006-08-29 | parcial | cvm-pas-rj2006-1266 | fichas/pas/2006-17.md |
+| art. 16 | pas | RJ2006/1267 | 2006-06-14 | parcial | cvm-pas-rj2006-1267 | fichas/pas/2006-12.md |
+| art. 16 | pas | RJ2006/1528 | 2006-08-22 | parcial | cvm-pas-rj2006-1528 | fichas/pas/2006-15.md |
+| art. 16 | pas | RJ2006/1559 | 2006-09-26 | parcial | cvm-pas-rj2006-1559 | fichas/pas/2006-19.md |
+| art. 16 | pas | RJ2006/1621 | 2006-08-29 | parcial | cvm-pas-rj2006-1621 | fichas/pas/2006-17.md |
+| art. 16 | pas | RJ2006/1622 | 2006-08-01 | parcial | cvm-pas-rj2006-1622 | fichas/pas/2006-14.md |
+| art. 16 | pas | RJ2006/1623 | 2006-08-01 | parcial | cvm-pas-rj2006-1623 | fichas/pas/2006-15.md |
+| art. 16 | pas | RJ2006/1853 | 2006-08-22 | parcial | cvm-pas-rj2006-1853 | fichas/pas/2006-16.md |
+| art. 16 | pas | RJ2006/2106 | 2006-11-08 | parcial | cvm-pas-rj2006-2106 | fichas/pas/2006-25.md |
+| art. 16 | pas | 19/2003 | 2007-04-24 | parcial | cvm-pas-19-2003 | fichas/pas/2007-05.md |
+| art. 16 | pas | RJ2001/11808 | 2007-10-02 | parcial | cvm-pas-rj2001-11808 | fichas/pas/2007-13.md |
+| art. 16 | pas | RJ2005/6763 | 2007-01-31 | parcial | cvm-pas-rj2005-6763 | fichas/pas/2007-02.md |
+| art. 16 | pas | RJ2005/8528 | 2007-01-24 | parcial | cvm-pas-rj2005-8528 | fichas/pas/2007-02.md |
+| art. 16 | pas | RJ2005/8604 | 2007-04-04 | condenacao | cvm-pas-rj2005-8604 | fichas/pas/2007-04.md |
+| art. 16 | pas | RJ2005/8714 | 2007-02-13 | parcial | cvm-pas-rj2005-8714 | fichas/pas/2007-03.md |
+| art. 16 | pas | RJ2006/4850 | 2007-12-18 | condenacao | cvm-pas-rj2006-4850 | fichas/pas/2007-15.md |
+| art. 16 | pas | 15/2006 | 2008-09-03 | condenacao | cvm-pas-15-2006 | fichas/pas/2008-06.md |
+| art. 16 | pas | RJ2006/4849 | 2008-06-17 | condenacao | cvm-pas-rj2006-4849 | fichas/pas/2008-03.md |
+| art. 16 | pas | RJ2006/5136 | 2008-11-04 | condenacao | cvm-pas-rj2006-5136 | fichas/pas/2008-08.md |
+| art. 16 | pas | RJ2006/5343 | 2008-08-26 | parcial | cvm-pas-rj2006-5343 | fichas/pas/2008-05.md |
+| art. 16 | pas | RJ2006/5410 | 2008-08-21 | condenacao | cvm-pas-rj2006-5410 | fichas/pas/2008-04.md |
+| art. 16 | pas | RJ2007/11851 | 2008-12-02 | parcial | cvm-pas-rj2007-11851 | fichas/pas/2008-09.md |
+| art. 16 | pas | RJ2007/12545 | 2008-10-07 | condenacao | cvm-pas-rj2007-12545 | fichas/pas/2008-07.md |
+| art. 16 | pas | RJ2007/8109 | 2008-10-07 | parcial | cvm-pas-rj2007-8109 | fichas/pas/2008-07.md |
+| art. 16 | pas | RJ2006/4511 | 2009-05-19 | condenacao | cvm-pas-rj2006-4511 | fichas/pas/2009-04.md |
+| art. 16 | pas | RJ2006/8798 | 2009-12-08 | parcial | cvm-pas-rj2006-8798 | fichas/pas/2009-10.md |
 | art. 16 | pas | RJ2007/4376 | 2009-01-27 | condenacao | cvm-pas-rj2007-4376 | fichas/pas/2009-01.md |
-| art. 16 | pas | RJ2007/8150 | 2009-09-01 | condenacao | cvm-pas-rj2007-8150 | fichas/pas/2009-04.md |
-| art. 16 | pas | RJ2008/2570 | 2009-05-12 | condenacao | cvm-pas-rj2008-2570 | fichas/pas/2009-02.md |
-| art. 16 | pas | RJ2008/4842 | 2009-09-01 | condenacao | cvm-pas-rj2008-4842 | fichas/pas/2009-04.md |
-| art. 16 | pas | RJ2008/6250 | 2009-10-20 | parcial | cvm-pas-rj2008-6250 | fichas/pas/2009-05.md |
-| art. 16 | pas | RJ2007/4685 | 2010-07-13 | parcial | cvm-pas-rj2007-4685 | fichas/pas/2010-02.md |
-| art. 16 | pas | RJ2008/2569 | 2010-11-30 | condenacao | cvm-pas-rj2008-2569 | fichas/pas/2010-05.md |
-| art. 16 | pas | RJ2008/2916 | 2010-03-23 | condenacao | cvm-pas-rj2008-2916 | fichas/pas/2010-01.md |
+| art. 16 | pas | RJ2007/8150 | 2009-09-01 | condenacao | cvm-pas-rj2007-8150 | fichas/pas/2009-08.md |
+| art. 16 | pas | RJ2008/2570 | 2009-05-12 | condenacao | cvm-pas-rj2008-2570 | fichas/pas/2009-04.md |
+| art. 16 | pas | RJ2008/4842 | 2009-09-01 | condenacao | cvm-pas-rj2008-4842 | fichas/pas/2009-08.md |
+| art. 16 | pas | RJ2008/6250 | 2009-10-20 | parcial | cvm-pas-rj2008-6250 | fichas/pas/2009-09.md |
+| art. 16 | pas | RJ2007/4685 | 2010-07-13 | parcial | cvm-pas-rj2007-4685 | fichas/pas/2010-04.md |
+| art. 16 | pas | RJ2008/2569 | 2010-11-30 | condenacao | cvm-pas-rj2008-2569 | fichas/pas/2010-09.md |
+| art. 16 | pas | RJ2008/2916 | 2010-03-23 | condenacao | cvm-pas-rj2008-2916 | fichas/pas/2010-02.md |
 | art. 16 | pas | RJ2008/8572 | 2010-03-16 | parcial | cvm-pas-rj2008-8572 | fichas/pas/2010-01.md |
-| art. 16 | pas | RJ2009/1504 | 2010-08-17 | parcial | cvm-pas-rj2009-1504 | fichas/pas/2010-03.md |
+| art. 16 | pas | RJ2009/1504 | 2010-08-17 | parcial | cvm-pas-rj2009-1504 | fichas/pas/2010-05.md |
 | art. 16 | pas | RJ2009/1930 | 2010-05-18 | condenacao | cvm-pas-rj2009-1930 | fichas/pas/2010-02.md |
-| art. 16 | pas | RJ2009/2146 | 2010-07-20 | condenacao | cvm-pas-rj2009-2146 | fichas/pas/2010-03.md |
-| art. 16 | pas | RJ2009/8440 | 2010-10-26 | parcial | cvm-pas-rj2009-8440 | fichas/pas/2010-04.md |
-| art. 16 | pas | RJ2009/9439 | 2011-12-06 | condenacao | cvm-pas-rj2009-9439 | fichas/pas/2011-03.md |
-| art. 16 | pas | RJ2010/1582 | 2011-11-08 | condenacao | cvm-pas-rj2010-1582 | fichas/pas/2011-02.md |
-| art. 16 | pas | RJ2010/11351 | 2012-10-16 | condenacao | cvm-pas-rj2010-11351 | fichas/pas/2012-02.md |
+| art. 16 | pas | RJ2009/2146 | 2010-07-20 | condenacao | cvm-pas-rj2009-2146 | fichas/pas/2010-05.md |
+| art. 16 | pas | RJ2009/8440 | 2010-10-26 | parcial | cvm-pas-rj2009-8440 | fichas/pas/2010-08.md |
+| art. 16 | pas | RJ2009/9439 | 2011-12-06 | condenacao | cvm-pas-rj2009-9439 | fichas/pas/2011-05.md |
+| art. 16 | pas | RJ2010/1582 | 2011-11-08 | condenacao | cvm-pas-rj2010-1582 | fichas/pas/2011-04.md |
+| art. 16 | pas | RJ2010/11351 | 2012-10-16 | condenacao | cvm-pas-rj2010-11351 | fichas/pas/2012-04.md |
 | art. 16 | pas | RJ2010/11352 | 2012-02-28 | condenacao | cvm-pas-rj2010-11352 | fichas/pas/2012-01.md |
-| art. 16 | pas | RJ2010/11353 | 2012-10-16 | condenacao | cvm-pas-rj2010-11353 | fichas/pas/2012-02.md |
-| art. 16 | pas | RJ2011/7939 | 2012-12-06 | condenacao | cvm-pas-rj2011-7939 | fichas/pas/2012-03.md |
-| art. 16 | pas | RJ2009/8439 | 2013-12-10 | parcial | cvm-pas-rj2009-8439 | fichas/pas/2013-06.md |
-| art. 16 | pas | RJ2010/11350 | 2013-04-02 | parcial | cvm-pas-rj2010-11350 | fichas/pas/2013-02.md |
-| art. 16 | pas | RJ2010/12041 | 2013-03-26 | condenacao | cvm-pas-rj2010-12041 | fichas/pas/2013-01.md |
-| art. 16 | pas | RJ2010/12042 | 2013-12-10 | parcial | cvm-pas-rj2010-12042 | fichas/pas/2013-06.md |
-| art. 16 | pas | RJ2010/12043 | 2013-04-02 | condenacao | cvm-pas-rj2010-12043 | fichas/pas/2013-02.md |
-| art. 16 | pas | RJ2010/1380 | 2013-05-28 | condenacao | cvm-pas-rj2010-1380 | fichas/pas/2013-03.md |
-| art. 16 | pas | RJ2010/8784 | 2013-06-11 | parcial | cvm-pas-rj2010-8784 | fichas/pas/2013-03.md |
-| art. 16 | pas | RJ2011/7941 | 2013-12-10 | parcial | cvm-pas-rj2011-7941 | fichas/pas/2013-06.md |
+| art. 16 | pas | RJ2010/11353 | 2012-10-16 | condenacao | cvm-pas-rj2010-11353 | fichas/pas/2012-04.md |
+| art. 16 | pas | RJ2011/7939 | 2012-12-06 | condenacao | cvm-pas-rj2011-7939 | fichas/pas/2012-06.md |
+| art. 16 | pas | RJ2009/8439 | 2013-12-10 | parcial | cvm-pas-rj2009-8439 | fichas/pas/2013-12.md |
+| art. 16 | pas | RJ2010/11350 | 2013-04-02 | parcial | cvm-pas-rj2010-11350 | fichas/pas/2013-03.md |
+| art. 16 | pas | RJ2010/12041 | 2013-03-26 | condenacao | cvm-pas-rj2010-12041 | fichas/pas/2013-02.md |
+| art. 16 | pas | RJ2010/12042 | 2013-12-10 | parcial | cvm-pas-rj2010-12042 | fichas/pas/2013-12.md |
+| art. 16 | pas | RJ2010/12043 | 2013-04-02 | condenacao | cvm-pas-rj2010-12043 | fichas/pas/2013-03.md |
+| art. 16 | pas | RJ2010/1380 | 2013-05-28 | condenacao | cvm-pas-rj2010-1380 | fichas/pas/2013-05.md |
+| art. 16 | pas | RJ2010/8784 | 2013-06-11 | parcial | cvm-pas-rj2010-8784 | fichas/pas/2013-06.md |
+| art. 16 | pas | RJ2011/7941 | 2013-12-10 | parcial | cvm-pas-rj2011-7941 | fichas/pas/2013-13.md |
 | art. 16 | pas | RJ2014/5807 | 2016-03-15 | condenacao | cvm-pas-rj2014-5807 | fichas/pas/2016-01.md |
-| art. 16 | pas | 19957.006739/2018-91; 18/2013 | 2018-05-08 | parcial | cvm-pas-19957-006739-2018-91 | fichas/pas/2018-03.md |
-| art. 16, inciso I | acordao-crsfn | RJ-2006-783 | 2008-08-28 | absolvicao | crsfn-9814 | fichas/crsfn/2008-04.md |
-| art. 16, inciso I | acordao-crsfn | RJ2006/806 | 2008-05-27 | absolvicao | crsfn-9843 | fichas/crsfn/2008-02.md |
-| art. 16, inciso I | acordao-crsfn | RJ-2006-0800 | 2010-04-29 | condenacao | crsfn-11169 | fichas/crsfn/2010-02.md |
-| art. 16, inciso I | acordao-crsfn | RJ-2005-4346 | 2010-06-08 | parcial | crsfn-11428 | fichas/crsfn/2010-04.md |
+| art. 16 | pas | 19957.006739/2018-91; 18/2013 | 2018-05-08 | parcial | cvm-pas-19957-006739-2018-91 | fichas/pas/2018-06.md |
+| art. 16, inciso I | acordao-crsfn | RJ-2006-783 | 2008-08-28 | absolvicao | crsfn-9814 | fichas/crsfn/2008-05.md |
+| art. 16, inciso I | acordao-crsfn | RJ2006/806 | 2008-05-27 | absolvicao | crsfn-9843 | fichas/crsfn/2008-03.md |
+| art. 16, inciso I | acordao-crsfn | RJ-2006-0800 | 2010-04-29 | condenacao | crsfn-11169 | fichas/crsfn/2010-03.md |
+| art. 16, inciso I | acordao-crsfn | RJ-2005-4346 | 2010-06-08 | parcial | crsfn-11428 | fichas/crsfn/2010-05.md |
 | art. 16, inciso I | acordao-crsfn | RJ-2005-5508 | 2010-04-29 | parcial | crsfn-11645 | fichas/crsfn/2010-04.md |
 | art. 16, inciso I | acordao-crsfn | RJ-2005-4410 | 2011-11-09 | condenacao | crsfn-11440 | fichas/crsfn/2011-04.md |
 | art. 16, inciso I | acordao-crsfn | RJ–2005-8604 | 2012-02-13 | condenacao | crsfn-12039 | fichas/crsfn/2012-01.md |
-| art. 16, inciso I | acordao-crsfn | RJ-2005-7740 | 2012-07-05 | condenacao | crsfn-12355 | fichas/crsfn/2012-02.md |
-| art. 16, inciso I | acordao-crsfn | RJ-2007-11851 | 2012-07-05 | parcial | crsfn-12505 | fichas/crsfn/2012-02.md |
+| art. 16, inciso I | acordao-crsfn | RJ-2005-7740 | 2012-07-05 | condenacao | crsfn-12355 | fichas/crsfn/2012-03.md |
+| art. 16, inciso I | acordao-crsfn | RJ-2007-11851 | 2012-07-05 | parcial | crsfn-12505 | fichas/crsfn/2012-03.md |
 | art. 16, inciso I | acordao-crsfn | RJ-2010-11571 | 2012-04-16 | condenacao | crsfn-13226 | fichas/crsfn/2012-02.md |
-| art. 16, inciso I | acordao-crsfn | RJ-2006-4850 | 2013-09-25 | parcial | crsfn-12045 | fichas/crsfn/2013-03.md |
+| art. 16, inciso I | acordao-crsfn | RJ-2006-4850 | 2013-09-25 | parcial | crsfn-12045 | fichas/crsfn/2013-04.md |
 | art. 16, inciso I | acordao-crsfn | RJ-2007-8109 | 2013-02-26 | parcial | crsfn-12449 | fichas/crsfn/2013-01.md |
 | art. 16, inciso I | acordao-crsfn | RJ-2006-5343 | 2013-06-18 | parcial | crsfn-12504 | fichas/crsfn/2013-02.md |
-| art. 16, inciso I | acordao-crsfn | RJ2010/11567 | 2014-10-21 | parcial | crsfn-13334 | fichas/crsfn/2014-06.md |
+| art. 16, inciso I | acordao-crsfn | RJ2010/11567 | 2014-10-21 | parcial | crsfn-13334 | fichas/crsfn/2014-07.md |
 | art. 16, inciso I | acordao-crsfn | 04/2007 | 2016-01-21 | parcial | crsfn-13274 | fichas/crsfn/2016-01.md |
-| art. 16, inciso I | acordao-crsfn | RJ2014/5807 | 2017-04-19 | condenacao | crsfn-10372-000718-2016-05 | fichas/crsfn/2017-03.md |
+| art. 16, inciso I | acordao-crsfn | RJ2014/5807 | 2017-04-19 | condenacao | crsfn-10372-000718-2016-05 | fichas/crsfn/2017-06.md |
 | art. 16, inciso I | decisao-colegiado | RJ2003/6108 | 2003-11-11 | nao-provido | cvm-col-20031111-d06 | fichas/colegiado/2003-13.md |
 | art. 16, inciso I | decisao-colegiado | RJ2004/6357 | 2005-03-01 | nao-provido | cvm-col-20050301-d05 | fichas/colegiado/2005-04.md |
 | art. 16, inciso I | decisao-colegiado | RJ2005/7725 | 2005-11-17 | nao-provido | cvm-col-20051117-d10 | fichas/colegiado/2005-17.md |
@@ -1319,36 +1319,36 @@ Este subíndice tem 2837 linhas e uma leitura única é cortada em silêncio per
 | art. 16, inciso I | decisao-antiga | — | 1998-01-09 | — | cvm-dec-1998-0001 | fichas/decisoes-antigas/1998-15.md |
 | art. 16, inciso I | decisao-antiga | — | 1999-01-29 | — | cvm-dec-1999-0001 | fichas/decisoes-antigas/1999-28.md |
 | art. 16, inciso I | decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
-| art. 16, inciso I | pas | RJ2001/8045 | 2002-12-20 | parcial | cvm-pas-rj2001-8045 | fichas/pas/2002-04.md |
-| art. 16, inciso I | pas | RJ2005/3750 | 2005-10-19 | absolvicao | cvm-pas-rj2005-3750 | fichas/pas/2005-07.md |
-| art. 16, inciso I | pas | RJ2005/4215 | 2005-11-03 | absolvicao | cvm-pas-rj2005-4215 | fichas/pas/2005-07.md |
-| art. 16, inciso I | pas | RJ2005/4346 | 2006-11-07 | parcial | cvm-pas-rj2005-4346 | fichas/pas/2006-12.md |
-| art. 16, inciso I | pas | RJ2005/4410 | 2006-11-07 | parcial | cvm-pas-rj2005-4410 | fichas/pas/2006-12.md |
-| art. 16, inciso I | pas | RJ2005/4969 | 2006-11-07 | parcial | cvm-pas-rj2005-4969 | fichas/pas/2006-12.md |
-| art. 16, inciso I | pas | RJ2005/5222 | 2006-11-08 | outro | cvm-pas-rj2005-5222 | fichas/pas/2006-12.md |
-| art. 16, inciso I | pas | RJ2005/5508 | 2006-10-31 | parcial | cvm-pas-rj2005-5508 | fichas/pas/2006-11.md |
-| art. 16, inciso I | pas | RJ2005/7128 | 2006-09-11 | absolvicao | cvm-pas-rj2005-7128 | fichas/pas/2006-09.md |
-| art. 16, inciso I | pas | RJ2005/7316 | 2006-04-05 | parcial | cvm-pas-rj2005-7316 | fichas/pas/2006-03.md |
-| art. 16, inciso I | pas | RJ2006/1622 | 2006-08-01 | parcial | cvm-pas-rj2006-1622 | fichas/pas/2006-07.md |
-| art. 16, inciso I | pas | RJ2006/1623 | 2006-08-01 | parcial | cvm-pas-rj2006-1623 | fichas/pas/2006-07.md |
-| art. 16, inciso I | pas | RJ2005/8604 | 2007-04-04 | condenacao | cvm-pas-rj2005-8604 | fichas/pas/2007-02.md |
-| art. 16, inciso I | pas | RJ2006/4850 | 2007-12-18 | condenacao | cvm-pas-rj2006-4850 | fichas/pas/2007-07.md |
-| art. 16, inciso I | pas | RJ2006/5136 | 2008-11-04 | condenacao | cvm-pas-rj2006-5136 | fichas/pas/2008-04.md |
-| art. 16, inciso I | pas | RJ2006/5343 | 2008-08-26 | parcial | cvm-pas-rj2006-5343 | fichas/pas/2008-03.md |
-| art. 16, inciso I | pas | RJ2006/5410 | 2008-08-21 | condenacao | cvm-pas-rj2006-5410 | fichas/pas/2008-02.md |
-| art. 16, inciso I | pas | RJ2007/3613 | 2008-09-23 | condenacao | cvm-pas-rj2007-3613 | fichas/pas/2008-03.md |
-| art. 16, inciso I | pas | RJ2008/4842 | 2009-09-01 | condenacao | cvm-pas-rj2008-4842 | fichas/pas/2009-04.md |
-| art. 16, inciso I | pas | RJ2008/6250 | 2009-10-20 | parcial | cvm-pas-rj2008-6250 | fichas/pas/2009-05.md |
-| art. 16, inciso I | pas | 04/2007 | 2010-11-09 | parcial | cvm-pas-04-2007 | fichas/pas/2010-04.md |
-| art. 16, inciso I | pas | RJ2007/4685 | 2010-07-13 | parcial | cvm-pas-rj2007-4685 | fichas/pas/2010-02.md |
-| art. 16, inciso I | pas | RJ2008/2569 | 2010-11-30 | condenacao | cvm-pas-rj2008-2569 | fichas/pas/2010-05.md |
+| art. 16, inciso I | pas | RJ2001/8045 | 2002-12-20 | parcial | cvm-pas-rj2001-8045 | fichas/pas/2002-08.md |
+| art. 16, inciso I | pas | RJ2005/3750 | 2005-10-19 | absolvicao | cvm-pas-rj2005-3750 | fichas/pas/2005-13.md |
+| art. 16, inciso I | pas | RJ2005/4215 | 2005-11-03 | absolvicao | cvm-pas-rj2005-4215 | fichas/pas/2005-14.md |
+| art. 16, inciso I | pas | RJ2005/4346 | 2006-11-07 | parcial | cvm-pas-rj2005-4346 | fichas/pas/2006-23.md |
+| art. 16, inciso I | pas | RJ2005/4410 | 2006-11-07 | parcial | cvm-pas-rj2005-4410 | fichas/pas/2006-23.md |
+| art. 16, inciso I | pas | RJ2005/4969 | 2006-11-07 | parcial | cvm-pas-rj2005-4969 | fichas/pas/2006-24.md |
+| art. 16, inciso I | pas | RJ2005/5222 | 2006-11-08 | outro | cvm-pas-rj2005-5222 | fichas/pas/2006-24.md |
+| art. 16, inciso I | pas | RJ2005/5508 | 2006-10-31 | parcial | cvm-pas-rj2005-5508 | fichas/pas/2006-22.md |
+| art. 16, inciso I | pas | RJ2005/7128 | 2006-09-11 | absolvicao | cvm-pas-rj2005-7128 | fichas/pas/2006-17.md |
+| art. 16, inciso I | pas | RJ2005/7316 | 2006-04-05 | parcial | cvm-pas-rj2005-7316 | fichas/pas/2006-06.md |
+| art. 16, inciso I | pas | RJ2006/1622 | 2006-08-01 | parcial | cvm-pas-rj2006-1622 | fichas/pas/2006-14.md |
+| art. 16, inciso I | pas | RJ2006/1623 | 2006-08-01 | parcial | cvm-pas-rj2006-1623 | fichas/pas/2006-15.md |
+| art. 16, inciso I | pas | RJ2005/8604 | 2007-04-04 | condenacao | cvm-pas-rj2005-8604 | fichas/pas/2007-04.md |
+| art. 16, inciso I | pas | RJ2006/4850 | 2007-12-18 | condenacao | cvm-pas-rj2006-4850 | fichas/pas/2007-15.md |
+| art. 16, inciso I | pas | RJ2006/5136 | 2008-11-04 | condenacao | cvm-pas-rj2006-5136 | fichas/pas/2008-08.md |
+| art. 16, inciso I | pas | RJ2006/5343 | 2008-08-26 | parcial | cvm-pas-rj2006-5343 | fichas/pas/2008-05.md |
+| art. 16, inciso I | pas | RJ2006/5410 | 2008-08-21 | condenacao | cvm-pas-rj2006-5410 | fichas/pas/2008-04.md |
+| art. 16, inciso I | pas | RJ2007/3613 | 2008-09-23 | condenacao | cvm-pas-rj2007-3613 | fichas/pas/2008-06.md |
+| art. 16, inciso I | pas | RJ2008/4842 | 2009-09-01 | condenacao | cvm-pas-rj2008-4842 | fichas/pas/2009-08.md |
+| art. 16, inciso I | pas | RJ2008/6250 | 2009-10-20 | parcial | cvm-pas-rj2008-6250 | fichas/pas/2009-09.md |
+| art. 16, inciso I | pas | 04/2007 | 2010-11-09 | parcial | cvm-pas-04-2007 | fichas/pas/2010-08.md |
+| art. 16, inciso I | pas | RJ2007/4685 | 2010-07-13 | parcial | cvm-pas-rj2007-4685 | fichas/pas/2010-04.md |
+| art. 16, inciso I | pas | RJ2008/2569 | 2010-11-30 | condenacao | cvm-pas-rj2008-2569 | fichas/pas/2010-09.md |
 | art. 16, inciso I | pas | RJ2008/8572 | 2010-03-16 | parcial | cvm-pas-rj2008-8572 | fichas/pas/2010-01.md |
 | art. 16, inciso I | pas | RJ2009/1930 | 2010-05-18 | condenacao | cvm-pas-rj2009-1930 | fichas/pas/2010-02.md |
 | art. 16, inciso I | pas | RJ2010/11352 | 2012-02-28 | condenacao | cvm-pas-rj2010-11352 | fichas/pas/2012-01.md |
-| art. 16, inciso I | pas | RJ2010/11350 | 2013-04-02 | parcial | cvm-pas-rj2010-11350 | fichas/pas/2013-02.md |
-| art. 16, inciso I | pas | RJ2010/12042 | 2013-12-10 | parcial | cvm-pas-rj2010-12042 | fichas/pas/2013-06.md |
-| art. 16, inciso I | pas | RJ2010/1380 | 2013-05-28 | condenacao | cvm-pas-rj2010-1380 | fichas/pas/2013-03.md |
-| art. 16, inciso I | pas | RJ2011/7941 | 2013-12-10 | parcial | cvm-pas-rj2011-7941 | fichas/pas/2013-06.md |
+| art. 16, inciso I | pas | RJ2010/11350 | 2013-04-02 | parcial | cvm-pas-rj2010-11350 | fichas/pas/2013-03.md |
+| art. 16, inciso I | pas | RJ2010/12042 | 2013-12-10 | parcial | cvm-pas-rj2010-12042 | fichas/pas/2013-12.md |
+| art. 16, inciso I | pas | RJ2010/1380 | 2013-05-28 | condenacao | cvm-pas-rj2010-1380 | fichas/pas/2013-05.md |
+| art. 16, inciso I | pas | RJ2011/7941 | 2013-12-10 | parcial | cvm-pas-rj2011-7941 | fichas/pas/2013-13.md |
 | art. 16, inciso I | pas | RJ2014/5807 | 2016-03-15 | condenacao | cvm-pas-rj2014-5807 | fichas/pas/2016-01.md |
 | art. 16, inciso I, alínea a | decisao-colegiado | RJ2005/7495 | 2005-11-17 | nao-provido | cvm-col-20051117-d13 | fichas/colegiado/2005-17.md |
 | art. 16, inciso I, alínea a | decisao-colegiado | RJ2009/7825 | 2009-09-01 | nao-provido | cvm-col-20090901-d03 | fichas/colegiado/2009-15.md |
@@ -1360,23 +1360,23 @@ Este subíndice tem 2837 linhas e uma leitura única é cortada em silêncio per
 | art. 16, inciso I, alínea b | decisao-antiga | — | 1999-01-29 | — | cvm-dec-1999-0001 | fichas/decisoes-antigas/1999-28.md |
 | art. 16, inciso I, alínea o | decisao-antiga | — | 1997-01-13 | — | cvm-dec-1997-0001 | fichas/decisoes-antigas/1997-12.md |
 | art. 16, inciso I, alínea o | decisao-antiga | — | 1999-01-29 | — | cvm-dec-1999-0001 | fichas/decisoes-antigas/1999-28.md |
-| art. 16, inciso II | acordao-crsfn | RJ2005/2933 | 2008-12-10 | parcial | crsfn-9610 | fichas/crsfn/2008-06.md |
-| art. 16, inciso II | acordao-crsfn | RJ-2006-783 | 2008-08-28 | absolvicao | crsfn-9814 | fichas/crsfn/2008-04.md |
-| art. 16, inciso II | acordao-crsfn | RJ2006/806 | 2008-05-27 | absolvicao | crsfn-9843 | fichas/crsfn/2008-02.md |
-| art. 16, inciso II | acordao-crsfn | RJ-2005-4346 | 2010-06-08 | parcial | crsfn-11428 | fichas/crsfn/2010-04.md |
+| art. 16, inciso II | acordao-crsfn | RJ2005/2933 | 2008-12-10 | parcial | crsfn-9610 | fichas/crsfn/2008-07.md |
+| art. 16, inciso II | acordao-crsfn | RJ-2006-783 | 2008-08-28 | absolvicao | crsfn-9814 | fichas/crsfn/2008-05.md |
+| art. 16, inciso II | acordao-crsfn | RJ2006/806 | 2008-05-27 | absolvicao | crsfn-9843 | fichas/crsfn/2008-03.md |
+| art. 16, inciso II | acordao-crsfn | RJ-2005-4346 | 2010-06-08 | parcial | crsfn-11428 | fichas/crsfn/2010-05.md |
 | art. 16, inciso II | acordao-crsfn | RJ-2005-5508 | 2010-04-29 | parcial | crsfn-11645 | fichas/crsfn/2010-04.md |
 | art. 16, inciso II | acordao-crsfn | RJ-2005-4410 | 2011-11-09 | condenacao | crsfn-11440 | fichas/crsfn/2011-04.md |
-| art. 16, inciso II | acordao-crsfn | 15/05 | 2011-08-30 | absolvicao | crsfn-11663 | fichas/crsfn/2011-03.md |
+| art. 16, inciso II | acordao-crsfn | 15/05 | 2011-08-30 | absolvicao | crsfn-11663 | fichas/crsfn/2011-04.md |
 | art. 16, inciso II | acordao-crsfn | RJ–2005-8604 | 2012-02-13 | condenacao | crsfn-12039 | fichas/crsfn/2012-01.md |
-| art. 16, inciso II | acordao-crsfn | RJ-2005-7740 | 2012-07-05 | condenacao | crsfn-12355 | fichas/crsfn/2012-02.md |
+| art. 16, inciso II | acordao-crsfn | RJ-2005-7740 | 2012-07-05 | condenacao | crsfn-12355 | fichas/crsfn/2012-03.md |
 | art. 16, inciso II | acordao-crsfn | RJ-2010-11571 | 2012-04-16 | condenacao | crsfn-13226 | fichas/crsfn/2012-02.md |
-| art. 16, inciso II | acordao-crsfn | RJ-2006-4850 | 2013-09-25 | parcial | crsfn-12045 | fichas/crsfn/2013-03.md |
+| art. 16, inciso II | acordao-crsfn | RJ-2006-4850 | 2013-09-25 | parcial | crsfn-12045 | fichas/crsfn/2013-04.md |
 | art. 16, inciso II | acordao-crsfn | RJ-2007-8109 | 2013-02-26 | parcial | crsfn-12449 | fichas/crsfn/2013-01.md |
 | art. 16, inciso II | acordao-crsfn | RJ-2006-5343 | 2013-06-18 | parcial | crsfn-12504 | fichas/crsfn/2013-02.md |
-| art. 16, inciso II | acordao-crsfn | RJ-2009-4165 | 2013-09-25 | absolvicao | crsfn-13146 | fichas/crsfn/2013-04.md |
-| art. 16, inciso II | acordao-crsfn | RJ2010/11567 | 2014-10-21 | parcial | crsfn-13334 | fichas/crsfn/2014-06.md |
+| art. 16, inciso II | acordao-crsfn | RJ-2009-4165 | 2013-09-25 | absolvicao | crsfn-13146 | fichas/crsfn/2013-05.md |
+| art. 16, inciso II | acordao-crsfn | RJ2010/11567 | 2014-10-21 | parcial | crsfn-13334 | fichas/crsfn/2014-07.md |
 | art. 16, inciso II | acordao-crsfn | 04/2007 | 2016-01-21 | parcial | crsfn-13274 | fichas/crsfn/2016-01.md |
-| art. 16, inciso II | acordao-crsfn | RJ2014/5807 | 2017-04-19 | condenacao | crsfn-10372-000718-2016-05 | fichas/crsfn/2017-03.md |
+| art. 16, inciso II | acordao-crsfn | RJ2014/5807 | 2017-04-19 | condenacao | crsfn-10372-000718-2016-05 | fichas/crsfn/2017-06.md |
 | art. 16, inciso II | decisao-colegiado | RJ2002/2710 | 2002-06-18 | nao-provido | cvm-col-20020618-d06 | fichas/colegiado/2002-14.md |
 | art. 16, inciso II | decisao-colegiado | RJ2003/6108 | 2003-11-11 | nao-provido | cvm-col-20031111-d06 | fichas/colegiado/2003-13.md |
 | art. 16, inciso II | decisao-colegiado | RJ2004/6357 | 2005-03-01 | nao-provido | cvm-col-20050301-d05 | fichas/colegiado/2005-04.md |
@@ -1488,40 +1488,40 @@ Este subíndice tem 2837 linhas e uma leitura única é cortada em silêncio per
 | art. 16, inciso II | termo-compromisso | RJ2011/9398 | 2011-10-04 | rejeitado | cvm-col-20111004-d02 | fichas/tc/2011-04.md |
 | art. 16, inciso II | termo-compromisso | RJ2010/11349 | 2012-03-06 | rejeitado | cvm-col-20120306-d13 | fichas/tc/2012-02.md |
 | art. 16, inciso II | decisao-antiga | — | 1999-01-29 | — | cvm-dec-1999-0001 | fichas/decisoes-antigas/1999-28.md |
-| art. 16, inciso II | pas | RJ2005/3750 | 2005-10-19 | absolvicao | cvm-pas-rj2005-3750 | fichas/pas/2005-07.md |
-| art. 16, inciso II | pas | RJ2005/4215 | 2005-11-03 | absolvicao | cvm-pas-rj2005-4215 | fichas/pas/2005-07.md |
-| art. 16, inciso II | pas | 15/2005 | 2006-11-29 | parcial | cvm-pas-15-2005 | fichas/pas/2006-13.md |
-| art. 16, inciso II | pas | RJ2002/4311 | 2006-09-25 | condenacao | cvm-pas-rj2002-4311 | fichas/pas/2006-09.md |
+| art. 16, inciso II | pas | RJ2005/3750 | 2005-10-19 | absolvicao | cvm-pas-rj2005-3750 | fichas/pas/2005-13.md |
+| art. 16, inciso II | pas | RJ2005/4215 | 2005-11-03 | absolvicao | cvm-pas-rj2005-4215 | fichas/pas/2005-14.md |
+| art. 16, inciso II | pas | 15/2005 | 2006-11-29 | parcial | cvm-pas-15-2005 | fichas/pas/2006-26.md |
+| art. 16, inciso II | pas | RJ2002/4311 | 2006-09-25 | condenacao | cvm-pas-rj2002-4311 | fichas/pas/2006-18.md |
 | art. 16, inciso II | pas | RJ2005/2933 | 2006-01-11 | parcial | cvm-pas-rj2005-2933 | fichas/pas/2006-01.md |
-| art. 16, inciso II | pas | RJ2005/4346 | 2006-11-07 | parcial | cvm-pas-rj2005-4346 | fichas/pas/2006-12.md |
-| art. 16, inciso II | pas | RJ2005/4410 | 2006-11-07 | parcial | cvm-pas-rj2005-4410 | fichas/pas/2006-12.md |
-| art. 16, inciso II | pas | RJ2005/4969 | 2006-11-07 | parcial | cvm-pas-rj2005-4969 | fichas/pas/2006-12.md |
-| art. 16, inciso II | pas | RJ2005/5222 | 2006-11-08 | outro | cvm-pas-rj2005-5222 | fichas/pas/2006-12.md |
-| art. 16, inciso II | pas | RJ2005/5508 | 2006-10-31 | parcial | cvm-pas-rj2005-5508 | fichas/pas/2006-11.md |
-| art. 16, inciso II | pas | RJ2005/7128 | 2006-09-11 | absolvicao | cvm-pas-rj2005-7128 | fichas/pas/2006-09.md |
-| art. 16, inciso II | pas | RJ2006/1622 | 2006-08-01 | parcial | cvm-pas-rj2006-1622 | fichas/pas/2006-07.md |
-| art. 16, inciso II | pas | RJ2006/1623 | 2006-08-01 | parcial | cvm-pas-rj2006-1623 | fichas/pas/2006-07.md |
-| art. 16, inciso II | pas | RJ2005/8604 | 2007-04-04 | condenacao | cvm-pas-rj2005-8604 | fichas/pas/2007-02.md |
-| art. 16, inciso II | pas | RJ2006/4850 | 2007-12-18 | condenacao | cvm-pas-rj2006-4850 | fichas/pas/2007-07.md |
-| art. 16, inciso II | pas | RJ2006/5136 | 2008-11-04 | condenacao | cvm-pas-rj2006-5136 | fichas/pas/2008-04.md |
-| art. 16, inciso II | pas | RJ2006/5343 | 2008-08-26 | parcial | cvm-pas-rj2006-5343 | fichas/pas/2008-03.md |
-| art. 16, inciso II | pas | RJ2006/5410 | 2008-08-21 | condenacao | cvm-pas-rj2006-5410 | fichas/pas/2008-02.md |
-| art. 16, inciso II | pas | 04/2007 | 2010-11-09 | parcial | cvm-pas-04-2007 | fichas/pas/2010-04.md |
-| art. 16, inciso II | pas | RJ2007/4685 | 2010-07-13 | parcial | cvm-pas-rj2007-4685 | fichas/pas/2010-02.md |
-| art. 16, inciso II | pas | RJ2008/2569 | 2010-11-30 | condenacao | cvm-pas-rj2008-2569 | fichas/pas/2010-05.md |
+| art. 16, inciso II | pas | RJ2005/4346 | 2006-11-07 | parcial | cvm-pas-rj2005-4346 | fichas/pas/2006-23.md |
+| art. 16, inciso II | pas | RJ2005/4410 | 2006-11-07 | parcial | cvm-pas-rj2005-4410 | fichas/pas/2006-23.md |
+| art. 16, inciso II | pas | RJ2005/4969 | 2006-11-07 | parcial | cvm-pas-rj2005-4969 | fichas/pas/2006-24.md |
+| art. 16, inciso II | pas | RJ2005/5222 | 2006-11-08 | outro | cvm-pas-rj2005-5222 | fichas/pas/2006-24.md |
+| art. 16, inciso II | pas | RJ2005/5508 | 2006-10-31 | parcial | cvm-pas-rj2005-5508 | fichas/pas/2006-22.md |
+| art. 16, inciso II | pas | RJ2005/7128 | 2006-09-11 | absolvicao | cvm-pas-rj2005-7128 | fichas/pas/2006-17.md |
+| art. 16, inciso II | pas | RJ2006/1622 | 2006-08-01 | parcial | cvm-pas-rj2006-1622 | fichas/pas/2006-14.md |
+| art. 16, inciso II | pas | RJ2006/1623 | 2006-08-01 | parcial | cvm-pas-rj2006-1623 | fichas/pas/2006-15.md |
+| art. 16, inciso II | pas | RJ2005/8604 | 2007-04-04 | condenacao | cvm-pas-rj2005-8604 | fichas/pas/2007-04.md |
+| art. 16, inciso II | pas | RJ2006/4850 | 2007-12-18 | condenacao | cvm-pas-rj2006-4850 | fichas/pas/2007-15.md |
+| art. 16, inciso II | pas | RJ2006/5136 | 2008-11-04 | condenacao | cvm-pas-rj2006-5136 | fichas/pas/2008-08.md |
+| art. 16, inciso II | pas | RJ2006/5343 | 2008-08-26 | parcial | cvm-pas-rj2006-5343 | fichas/pas/2008-05.md |
+| art. 16, inciso II | pas | RJ2006/5410 | 2008-08-21 | condenacao | cvm-pas-rj2006-5410 | fichas/pas/2008-04.md |
+| art. 16, inciso II | pas | 04/2007 | 2010-11-09 | parcial | cvm-pas-04-2007 | fichas/pas/2010-08.md |
+| art. 16, inciso II | pas | RJ2007/4685 | 2010-07-13 | parcial | cvm-pas-rj2007-4685 | fichas/pas/2010-04.md |
+| art. 16, inciso II | pas | RJ2008/2569 | 2010-11-30 | condenacao | cvm-pas-rj2008-2569 | fichas/pas/2010-09.md |
 | art. 16, inciso II | pas | RJ2009/1930 | 2010-05-18 | condenacao | cvm-pas-rj2009-1930 | fichas/pas/2010-02.md |
 | art. 16, inciso II | pas | RJ2010/11352 | 2012-02-28 | condenacao | cvm-pas-rj2010-11352 | fichas/pas/2012-01.md |
 | art. 16, inciso II | pas | RJ2014/5807 | 2016-03-15 | condenacao | cvm-pas-rj2014-5807 | fichas/pas/2016-01.md |
-| art. 16, inciso III | acordao-crsfn | RJ-2006-783 | 2008-08-28 | absolvicao | crsfn-9814 | fichas/crsfn/2008-04.md |
-| art. 16, inciso III | acordao-crsfn | RJ2006/806 | 2008-05-27 | absolvicao | crsfn-9843 | fichas/crsfn/2008-02.md |
-| art. 16, inciso III | acordao-crsfn | RJ-2006-0800 | 2010-04-29 | condenacao | crsfn-11169 | fichas/crsfn/2010-02.md |
-| art. 16, inciso III | acordao-crsfn | 15/05 | 2011-08-30 | absolvicao | crsfn-11663 | fichas/crsfn/2011-03.md |
-| art. 16, inciso III | acordao-crsfn | RJ-2009-4095 | 2011-12-06 | parcial | crsfn-12759 | fichas/crsfn/2011-04.md |
-| art. 16, inciso III | acordao-crsfn | RJ-2005-7740 | 2012-07-05 | condenacao | crsfn-12355 | fichas/crsfn/2012-02.md |
-| art. 16, inciso III | acordao-crsfn | RJ-2006-4850 | 2013-09-25 | parcial | crsfn-12045 | fichas/crsfn/2013-03.md |
+| art. 16, inciso III | acordao-crsfn | RJ-2006-783 | 2008-08-28 | absolvicao | crsfn-9814 | fichas/crsfn/2008-05.md |
+| art. 16, inciso III | acordao-crsfn | RJ2006/806 | 2008-05-27 | absolvicao | crsfn-9843 | fichas/crsfn/2008-03.md |
+| art. 16, inciso III | acordao-crsfn | RJ-2006-0800 | 2010-04-29 | condenacao | crsfn-11169 | fichas/crsfn/2010-03.md |
+| art. 16, inciso III | acordao-crsfn | 15/05 | 2011-08-30 | absolvicao | crsfn-11663 | fichas/crsfn/2011-04.md |
+| art. 16, inciso III | acordao-crsfn | RJ-2009-4095 | 2011-12-06 | parcial | crsfn-12759 | fichas/crsfn/2011-05.md |
+| art. 16, inciso III | acordao-crsfn | RJ-2005-7740 | 2012-07-05 | condenacao | crsfn-12355 | fichas/crsfn/2012-03.md |
+| art. 16, inciso III | acordao-crsfn | RJ-2006-4850 | 2013-09-25 | parcial | crsfn-12045 | fichas/crsfn/2013-04.md |
 | art. 16, inciso III | acordao-crsfn | RJ-2007-8109 | 2013-02-26 | parcial | crsfn-12449 | fichas/crsfn/2013-01.md |
 | art. 16, inciso III | acordao-crsfn | RJ-2006-5343 | 2013-06-18 | parcial | crsfn-12504 | fichas/crsfn/2013-02.md |
-| art. 16, inciso III | acordao-crsfn | RJ2014/5807 | 2017-04-19 | condenacao | crsfn-10372-000718-2016-05 | fichas/crsfn/2017-03.md |
+| art. 16, inciso III | acordao-crsfn | RJ2014/5807 | 2017-04-19 | condenacao | crsfn-10372-000718-2016-05 | fichas/crsfn/2017-06.md |
 | art. 16, inciso III | decisao-colegiado | RJ2005/5140 | 2005-11-29 | nao-provido | cvm-col-20051129-d02 | fichas/colegiado/2005-18.md |
 | art. 16, inciso III | decisao-colegiado | RJ2005/5937 | 2006-01-31 | nao-provido | cvm-col-20060131-d08 | fichas/colegiado/2006-02.md |
 | art. 16, inciso III | decisao-colegiado | RJ2005/8359 | 2006-05-18 | nao-provido | cvm-col-20060518-d02 | fichas/colegiado/2006-07.md |
@@ -1590,34 +1590,34 @@ Este subíndice tem 2837 linhas e uma leitura única é cortada em silêncio per
 | art. 16, inciso III | termo-compromisso | RJ2011/9398 | 2011-10-04 | rejeitado | cvm-col-20111004-d02 | fichas/tc/2011-04.md |
 | art. 16, inciso III | termo-compromisso | RJ2010/11349 | 2012-03-06 | rejeitado | cvm-col-20120306-d13 | fichas/tc/2012-02.md |
 | art. 16, inciso III | termo-compromisso | RJ2010/12040 | 2012-08-07 | aceito | cvm-col-20120807-d03 | fichas/tc/2012-04.md |
-| art. 16, inciso III | pas | 05/2000 | 2004-11-11 | parcial | cvm-pas-05-2000 | fichas/pas/2004-07.md |
-| art. 16, inciso III | pas | 15/2005 | 2006-11-29 | parcial | cvm-pas-15-2005 | fichas/pas/2006-13.md |
-| art. 16, inciso III | pas | RJ2006/4850 | 2007-12-18 | condenacao | cvm-pas-rj2006-4850 | fichas/pas/2007-07.md |
-| art. 16, inciso III | pas | RJ2006/5136 | 2008-11-04 | condenacao | cvm-pas-rj2006-5136 | fichas/pas/2008-04.md |
-| art. 16, inciso III | pas | RJ2006/5343 | 2008-08-26 | parcial | cvm-pas-rj2006-5343 | fichas/pas/2008-03.md |
-| art. 16, inciso III | pas | RJ2006/5410 | 2008-08-21 | condenacao | cvm-pas-rj2006-5410 | fichas/pas/2008-02.md |
-| art. 16, inciso III | pas | RJ2007/4685 | 2010-07-13 | parcial | cvm-pas-rj2007-4685 | fichas/pas/2010-02.md |
-| art. 16, inciso III | pas | RJ2008/2569 | 2010-11-30 | condenacao | cvm-pas-rj2008-2569 | fichas/pas/2010-05.md |
+| art. 16, inciso III | pas | 05/2000 | 2004-11-11 | parcial | cvm-pas-05-2000 | fichas/pas/2004-14.md |
+| art. 16, inciso III | pas | 15/2005 | 2006-11-29 | parcial | cvm-pas-15-2005 | fichas/pas/2006-26.md |
+| art. 16, inciso III | pas | RJ2006/4850 | 2007-12-18 | condenacao | cvm-pas-rj2006-4850 | fichas/pas/2007-15.md |
+| art. 16, inciso III | pas | RJ2006/5136 | 2008-11-04 | condenacao | cvm-pas-rj2006-5136 | fichas/pas/2008-08.md |
+| art. 16, inciso III | pas | RJ2006/5343 | 2008-08-26 | parcial | cvm-pas-rj2006-5343 | fichas/pas/2008-05.md |
+| art. 16, inciso III | pas | RJ2006/5410 | 2008-08-21 | condenacao | cvm-pas-rj2006-5410 | fichas/pas/2008-04.md |
+| art. 16, inciso III | pas | RJ2007/4685 | 2010-07-13 | parcial | cvm-pas-rj2007-4685 | fichas/pas/2010-04.md |
+| art. 16, inciso III | pas | RJ2008/2569 | 2010-11-30 | condenacao | cvm-pas-rj2008-2569 | fichas/pas/2010-09.md |
 | art. 16, inciso III | pas | RJ2009/1930 | 2010-05-18 | condenacao | cvm-pas-rj2009-1930 | fichas/pas/2010-02.md |
 | art. 16, inciso III | pas | RJ2010/11352 | 2012-02-28 | condenacao | cvm-pas-rj2010-11352 | fichas/pas/2012-01.md |
 | art. 16, inciso III | pas | RJ2014/5807 | 2016-03-15 | condenacao | cvm-pas-rj2014-5807 | fichas/pas/2016-01.md |
 | art. 16, inciso IIII | decisao-colegiado | RJ2007/14042 | 2007-12-11 | nao-provido | cvm-col-20071211-d14 | fichas/colegiado/2007-25.md |
-| art. 16, inciso IV | acordao-crsfn | RJ2005/2933 | 2008-12-10 | parcial | crsfn-9610 | fichas/crsfn/2008-06.md |
-| art. 16, inciso IV | acordao-crsfn | RJ-2006-783 | 2008-08-28 | absolvicao | crsfn-9814 | fichas/crsfn/2008-04.md |
-| art. 16, inciso IV | acordao-crsfn | RJ2006/806 | 2008-05-27 | absolvicao | crsfn-9843 | fichas/crsfn/2008-02.md |
-| art. 16, inciso IV | acordao-crsfn | RJ-2006-0800 | 2010-04-29 | condenacao | crsfn-11169 | fichas/crsfn/2010-02.md |
-| art. 16, inciso IV | acordao-crsfn | RJ-2005-4346 | 2010-06-08 | parcial | crsfn-11428 | fichas/crsfn/2010-04.md |
+| art. 16, inciso IV | acordao-crsfn | RJ2005/2933 | 2008-12-10 | parcial | crsfn-9610 | fichas/crsfn/2008-07.md |
+| art. 16, inciso IV | acordao-crsfn | RJ-2006-783 | 2008-08-28 | absolvicao | crsfn-9814 | fichas/crsfn/2008-05.md |
+| art. 16, inciso IV | acordao-crsfn | RJ2006/806 | 2008-05-27 | absolvicao | crsfn-9843 | fichas/crsfn/2008-03.md |
+| art. 16, inciso IV | acordao-crsfn | RJ-2006-0800 | 2010-04-29 | condenacao | crsfn-11169 | fichas/crsfn/2010-03.md |
+| art. 16, inciso IV | acordao-crsfn | RJ-2005-4346 | 2010-06-08 | parcial | crsfn-11428 | fichas/crsfn/2010-05.md |
 | art. 16, inciso IV | acordao-crsfn | RJ-2005-5508 | 2010-04-29 | parcial | crsfn-11645 | fichas/crsfn/2010-04.md |
 | art. 16, inciso IV | acordao-crsfn | RJ-2005-4410 | 2011-11-09 | condenacao | crsfn-11440 | fichas/crsfn/2011-04.md |
-| art. 16, inciso IV | acordao-crsfn | 15/05 | 2011-08-30 | absolvicao | crsfn-11663 | fichas/crsfn/2011-03.md |
+| art. 16, inciso IV | acordao-crsfn | 15/05 | 2011-08-30 | absolvicao | crsfn-11663 | fichas/crsfn/2011-04.md |
 | art. 16, inciso IV | acordao-crsfn | RJ–2005-8604 | 2012-02-13 | condenacao | crsfn-12039 | fichas/crsfn/2012-01.md |
-| art. 16, inciso IV | acordao-crsfn | RJ-2005-7740 | 2012-07-05 | condenacao | crsfn-12355 | fichas/crsfn/2012-02.md |
-| art. 16, inciso IV | acordao-crsfn | RJ-2006-4850 | 2013-09-25 | parcial | crsfn-12045 | fichas/crsfn/2013-03.md |
+| art. 16, inciso IV | acordao-crsfn | RJ-2005-7740 | 2012-07-05 | condenacao | crsfn-12355 | fichas/crsfn/2012-03.md |
+| art. 16, inciso IV | acordao-crsfn | RJ-2006-4850 | 2013-09-25 | parcial | crsfn-12045 | fichas/crsfn/2013-04.md |
 | art. 16, inciso IV | acordao-crsfn | RJ-2007-8109 | 2013-02-26 | parcial | crsfn-12449 | fichas/crsfn/2013-01.md |
 | art. 16, inciso IV | acordao-crsfn | RJ-2006-5343 | 2013-06-18 | parcial | crsfn-12504 | fichas/crsfn/2013-02.md |
 | art. 16, inciso IV | acordao-crsfn | 04/2007 | 2016-01-21 | parcial | crsfn-13274 | fichas/crsfn/2016-01.md |
-| art. 16, inciso IV | acordao-crsfn | RJ2014/5807 | 2017-04-19 | condenacao | crsfn-10372-000718-2016-05 | fichas/crsfn/2017-03.md |
-| art. 16, inciso IV | acordao-crsfn | 2010/12041 | 2017-04-18 | parcial | crsfn-13704 | fichas/crsfn/2017-03.md |
+| art. 16, inciso IV | acordao-crsfn | RJ2014/5807 | 2017-04-19 | condenacao | crsfn-10372-000718-2016-05 | fichas/crsfn/2017-06.md |
+| art. 16, inciso IV | acordao-crsfn | 2010/12041 | 2017-04-18 | parcial | crsfn-13704 | fichas/crsfn/2017-05.md |
 | art. 16, inciso IV | decisao-colegiado | — | 2003-09-16 | parcial | cvm-col-20030916-d03 | fichas/colegiado/2003-11.md |
 | art. 16, inciso IV | decisao-colegiado | RJ2003/6108 | 2003-11-11 | nao-provido | cvm-col-20031111-d06 | fichas/colegiado/2003-13.md |
 | art. 16, inciso IV | decisao-colegiado | RJ2005/7920 | 2005-11-22 | nao-provido | cvm-col-20051122-d09 | fichas/colegiado/2005-18.md |
@@ -1683,39 +1683,39 @@ Este subíndice tem 2837 linhas e uma leitura única é cortada em silêncio per
 | art. 16, inciso IV | decisao-antiga | — | 1997-01-13 | — | cvm-dec-1997-0001 | fichas/decisoes-antigas/1997-12.md |
 | art. 16, inciso IV | decisao-antiga | — | 1999-01-29 | — | cvm-dec-1999-0001 | fichas/decisoes-antigas/1999-28.md |
 | art. 16, inciso IV | decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
-| art. 16, inciso IV | pas | RJ2005/3750 | 2005-10-19 | absolvicao | cvm-pas-rj2005-3750 | fichas/pas/2005-07.md |
-| art. 16, inciso IV | pas | RJ2005/4215 | 2005-11-03 | absolvicao | cvm-pas-rj2005-4215 | fichas/pas/2005-07.md |
-| art. 16, inciso IV | pas | 15/2005 | 2006-11-29 | parcial | cvm-pas-15-2005 | fichas/pas/2006-13.md |
+| art. 16, inciso IV | pas | RJ2005/3750 | 2005-10-19 | absolvicao | cvm-pas-rj2005-3750 | fichas/pas/2005-13.md |
+| art. 16, inciso IV | pas | RJ2005/4215 | 2005-11-03 | absolvicao | cvm-pas-rj2005-4215 | fichas/pas/2005-14.md |
+| art. 16, inciso IV | pas | 15/2005 | 2006-11-29 | parcial | cvm-pas-15-2005 | fichas/pas/2006-26.md |
 | art. 16, inciso IV | pas | RJ2005/2933 | 2006-01-11 | parcial | cvm-pas-rj2005-2933 | fichas/pas/2006-01.md |
-| art. 16, inciso IV | pas | RJ2005/4346 | 2006-11-07 | parcial | cvm-pas-rj2005-4346 | fichas/pas/2006-12.md |
-| art. 16, inciso IV | pas | RJ2005/4410 | 2006-11-07 | parcial | cvm-pas-rj2005-4410 | fichas/pas/2006-12.md |
-| art. 16, inciso IV | pas | RJ2005/4969 | 2006-11-07 | parcial | cvm-pas-rj2005-4969 | fichas/pas/2006-12.md |
-| art. 16, inciso IV | pas | RJ2005/5222 | 2006-11-08 | outro | cvm-pas-rj2005-5222 | fichas/pas/2006-12.md |
-| art. 16, inciso IV | pas | RJ2005/5508 | 2006-10-31 | parcial | cvm-pas-rj2005-5508 | fichas/pas/2006-11.md |
-| art. 16, inciso IV | pas | RJ2005/7128 | 2006-09-11 | absolvicao | cvm-pas-rj2005-7128 | fichas/pas/2006-09.md |
-| art. 16, inciso IV | pas | RJ2006/1622 | 2006-08-01 | parcial | cvm-pas-rj2006-1622 | fichas/pas/2006-07.md |
-| art. 16, inciso IV | pas | RJ2006/1623 | 2006-08-01 | parcial | cvm-pas-rj2006-1623 | fichas/pas/2006-07.md |
-| art. 16, inciso IV | pas | RJ2005/8604 | 2007-04-04 | condenacao | cvm-pas-rj2005-8604 | fichas/pas/2007-02.md |
-| art. 16, inciso IV | pas | RJ2006/4850 | 2007-12-18 | condenacao | cvm-pas-rj2006-4850 | fichas/pas/2007-07.md |
-| art. 16, inciso IV | pas | RJ2006/5136 | 2008-11-04 | condenacao | cvm-pas-rj2006-5136 | fichas/pas/2008-04.md |
-| art. 16, inciso IV | pas | RJ2006/5343 | 2008-08-26 | parcial | cvm-pas-rj2006-5343 | fichas/pas/2008-03.md |
-| art. 16, inciso IV | pas | RJ2006/5410 | 2008-08-21 | condenacao | cvm-pas-rj2006-5410 | fichas/pas/2008-02.md |
-| art. 16, inciso IV | pas | 04/2007 | 2010-11-09 | parcial | cvm-pas-04-2007 | fichas/pas/2010-04.md |
-| art. 16, inciso IV | pas | RJ2007/4685 | 2010-07-13 | parcial | cvm-pas-rj2007-4685 | fichas/pas/2010-02.md |
-| art. 16, inciso IV | pas | RJ2008/2569 | 2010-11-30 | condenacao | cvm-pas-rj2008-2569 | fichas/pas/2010-05.md |
+| art. 16, inciso IV | pas | RJ2005/4346 | 2006-11-07 | parcial | cvm-pas-rj2005-4346 | fichas/pas/2006-23.md |
+| art. 16, inciso IV | pas | RJ2005/4410 | 2006-11-07 | parcial | cvm-pas-rj2005-4410 | fichas/pas/2006-23.md |
+| art. 16, inciso IV | pas | RJ2005/4969 | 2006-11-07 | parcial | cvm-pas-rj2005-4969 | fichas/pas/2006-24.md |
+| art. 16, inciso IV | pas | RJ2005/5222 | 2006-11-08 | outro | cvm-pas-rj2005-5222 | fichas/pas/2006-24.md |
+| art. 16, inciso IV | pas | RJ2005/5508 | 2006-10-31 | parcial | cvm-pas-rj2005-5508 | fichas/pas/2006-22.md |
+| art. 16, inciso IV | pas | RJ2005/7128 | 2006-09-11 | absolvicao | cvm-pas-rj2005-7128 | fichas/pas/2006-17.md |
+| art. 16, inciso IV | pas | RJ2006/1622 | 2006-08-01 | parcial | cvm-pas-rj2006-1622 | fichas/pas/2006-14.md |
+| art. 16, inciso IV | pas | RJ2006/1623 | 2006-08-01 | parcial | cvm-pas-rj2006-1623 | fichas/pas/2006-15.md |
+| art. 16, inciso IV | pas | RJ2005/8604 | 2007-04-04 | condenacao | cvm-pas-rj2005-8604 | fichas/pas/2007-04.md |
+| art. 16, inciso IV | pas | RJ2006/4850 | 2007-12-18 | condenacao | cvm-pas-rj2006-4850 | fichas/pas/2007-15.md |
+| art. 16, inciso IV | pas | RJ2006/5136 | 2008-11-04 | condenacao | cvm-pas-rj2006-5136 | fichas/pas/2008-08.md |
+| art. 16, inciso IV | pas | RJ2006/5343 | 2008-08-26 | parcial | cvm-pas-rj2006-5343 | fichas/pas/2008-05.md |
+| art. 16, inciso IV | pas | RJ2006/5410 | 2008-08-21 | condenacao | cvm-pas-rj2006-5410 | fichas/pas/2008-04.md |
+| art. 16, inciso IV | pas | 04/2007 | 2010-11-09 | parcial | cvm-pas-04-2007 | fichas/pas/2010-08.md |
+| art. 16, inciso IV | pas | RJ2007/4685 | 2010-07-13 | parcial | cvm-pas-rj2007-4685 | fichas/pas/2010-04.md |
+| art. 16, inciso IV | pas | RJ2008/2569 | 2010-11-30 | condenacao | cvm-pas-rj2008-2569 | fichas/pas/2010-09.md |
 | art. 16, inciso IV | pas | RJ2009/1930 | 2010-05-18 | condenacao | cvm-pas-rj2009-1930 | fichas/pas/2010-02.md |
 | art. 16, inciso IV | pas | RJ2010/11352 | 2012-02-28 | condenacao | cvm-pas-rj2010-11352 | fichas/pas/2012-01.md |
 | art. 16, inciso IV | pas | RJ2014/5807 | 2016-03-15 | condenacao | cvm-pas-rj2014-5807 | fichas/pas/2016-01.md |
 | art. 16, inciso IV, alínea a | acordao-crsfn | 05/8528 | 2011-05-31 | parcial | crsfn-11646 | fichas/crsfn/2011-02.md |
 | art. 16, inciso IV, alínea a | decisao-colegiado | RJ2009/7825 | 2009-09-01 | nao-provido | cvm-col-20090901-d03 | fichas/colegiado/2009-15.md |
-| art. 16, inciso V | acordao-crsfn | RJ-2006-783 | 2008-08-28 | absolvicao | crsfn-9814 | fichas/crsfn/2008-04.md |
-| art. 16, inciso V | acordao-crsfn | RJ2006/806 | 2008-05-27 | absolvicao | crsfn-9843 | fichas/crsfn/2008-02.md |
-| art. 16, inciso V | acordao-crsfn | 15/05 | 2011-08-30 | absolvicao | crsfn-11663 | fichas/crsfn/2011-03.md |
-| art. 16, inciso V | acordao-crsfn | RJ-2005-7740 | 2012-07-05 | condenacao | crsfn-12355 | fichas/crsfn/2012-02.md |
-| art. 16, inciso V | acordao-crsfn | RJ-2006-4850 | 2013-09-25 | parcial | crsfn-12045 | fichas/crsfn/2013-03.md |
+| art. 16, inciso V | acordao-crsfn | RJ-2006-783 | 2008-08-28 | absolvicao | crsfn-9814 | fichas/crsfn/2008-05.md |
+| art. 16, inciso V | acordao-crsfn | RJ2006/806 | 2008-05-27 | absolvicao | crsfn-9843 | fichas/crsfn/2008-03.md |
+| art. 16, inciso V | acordao-crsfn | 15/05 | 2011-08-30 | absolvicao | crsfn-11663 | fichas/crsfn/2011-04.md |
+| art. 16, inciso V | acordao-crsfn | RJ-2005-7740 | 2012-07-05 | condenacao | crsfn-12355 | fichas/crsfn/2012-03.md |
+| art. 16, inciso V | acordao-crsfn | RJ-2006-4850 | 2013-09-25 | parcial | crsfn-12045 | fichas/crsfn/2013-04.md |
 | art. 16, inciso V | acordao-crsfn | RJ-2007-8109 | 2013-02-26 | parcial | crsfn-12449 | fichas/crsfn/2013-01.md |
 | art. 16, inciso V | acordao-crsfn | RJ-2006-5343 | 2013-06-18 | parcial | crsfn-12504 | fichas/crsfn/2013-02.md |
-| art. 16, inciso V | acordao-crsfn | RJ2014/5807 | 2017-04-19 | condenacao | crsfn-10372-000718-2016-05 | fichas/crsfn/2017-03.md |
+| art. 16, inciso V | acordao-crsfn | RJ2014/5807 | 2017-04-19 | condenacao | crsfn-10372-000718-2016-05 | fichas/crsfn/2017-06.md |
 | art. 16, inciso V | decisao-colegiado | RJ2005/7433 | 2005-11-17 | nao-provido | cvm-col-20051117-d12 | fichas/colegiado/2005-17.md |
 | art. 16, inciso V | decisao-colegiado | RJ2005/5140 | 2005-11-29 | nao-provido | cvm-col-20051129-d02 | fichas/colegiado/2005-18.md |
 | art. 16, inciso V | decisao-colegiado | RJ2005/5937 | 2006-01-31 | nao-provido | cvm-col-20060131-d08 | fichas/colegiado/2006-02.md |
@@ -1764,28 +1764,28 @@ Este subíndice tem 2837 linhas e uma leitura única é cortada em silêncio per
 | art. 16, inciso V | termo-compromisso | RJ2010/11348 | 2011-05-17 | aceito | cvm-col-20110517-d08 | fichas/tc/2011-03.md |
 | art. 16, inciso V | termo-compromisso | RJ2011/9398 | 2011-10-04 | rejeitado | cvm-col-20111004-d02 | fichas/tc/2011-04.md |
 | art. 16, inciso V | termo-compromisso | RJ2010/11349 | 2012-03-06 | rejeitado | cvm-col-20120306-d13 | fichas/tc/2012-02.md |
-| art. 16, inciso V | pas | 15/2005 | 2006-11-29 | parcial | cvm-pas-15-2005 | fichas/pas/2006-13.md |
-| art. 16, inciso V | pas | RJ2006/4850 | 2007-12-18 | condenacao | cvm-pas-rj2006-4850 | fichas/pas/2007-07.md |
-| art. 16, inciso V | pas | RJ2006/5136 | 2008-11-04 | condenacao | cvm-pas-rj2006-5136 | fichas/pas/2008-04.md |
-| art. 16, inciso V | pas | RJ2006/5343 | 2008-08-26 | parcial | cvm-pas-rj2006-5343 | fichas/pas/2008-03.md |
-| art. 16, inciso V | pas | RJ2006/5410 | 2008-08-21 | condenacao | cvm-pas-rj2006-5410 | fichas/pas/2008-02.md |
-| art. 16, inciso V | pas | RJ2007/4685 | 2010-07-13 | parcial | cvm-pas-rj2007-4685 | fichas/pas/2010-02.md |
-| art. 16, inciso V | pas | RJ2008/2569 | 2010-11-30 | condenacao | cvm-pas-rj2008-2569 | fichas/pas/2010-05.md |
+| art. 16, inciso V | pas | 15/2005 | 2006-11-29 | parcial | cvm-pas-15-2005 | fichas/pas/2006-26.md |
+| art. 16, inciso V | pas | RJ2006/4850 | 2007-12-18 | condenacao | cvm-pas-rj2006-4850 | fichas/pas/2007-15.md |
+| art. 16, inciso V | pas | RJ2006/5136 | 2008-11-04 | condenacao | cvm-pas-rj2006-5136 | fichas/pas/2008-08.md |
+| art. 16, inciso V | pas | RJ2006/5343 | 2008-08-26 | parcial | cvm-pas-rj2006-5343 | fichas/pas/2008-05.md |
+| art. 16, inciso V | pas | RJ2006/5410 | 2008-08-21 | condenacao | cvm-pas-rj2006-5410 | fichas/pas/2008-04.md |
+| art. 16, inciso V | pas | RJ2007/4685 | 2010-07-13 | parcial | cvm-pas-rj2007-4685 | fichas/pas/2010-04.md |
+| art. 16, inciso V | pas | RJ2008/2569 | 2010-11-30 | condenacao | cvm-pas-rj2008-2569 | fichas/pas/2010-09.md |
 | art. 16, inciso V | pas | RJ2009/1930 | 2010-05-18 | condenacao | cvm-pas-rj2009-1930 | fichas/pas/2010-02.md |
 | art. 16, inciso V | pas | RJ2010/11352 | 2012-02-28 | condenacao | cvm-pas-rj2010-11352 | fichas/pas/2012-01.md |
 | art. 16, inciso V | pas | RJ2014/5807 | 2016-03-15 | condenacao | cvm-pas-rj2014-5807 | fichas/pas/2016-01.md |
-| art. 16, inciso VI | acordao-crsfn | RJ-2006-783 | 2008-08-28 | absolvicao | crsfn-9814 | fichas/crsfn/2008-04.md |
-| art. 16, inciso VI | acordao-crsfn | RJ2006/806 | 2008-05-27 | absolvicao | crsfn-9843 | fichas/crsfn/2008-02.md |
-| art. 16, inciso VI | acordao-crsfn | RJ-2006-0800 | 2010-04-29 | condenacao | crsfn-11169 | fichas/crsfn/2010-02.md |
-| art. 16, inciso VI | acordao-crsfn | 15/05 | 2011-08-30 | absolvicao | crsfn-11663 | fichas/crsfn/2011-03.md |
-| art. 16, inciso VI | acordao-crsfn | RJ-2005-7740 | 2012-07-05 | condenacao | crsfn-12355 | fichas/crsfn/2012-02.md |
+| art. 16, inciso VI | acordao-crsfn | RJ-2006-783 | 2008-08-28 | absolvicao | crsfn-9814 | fichas/crsfn/2008-05.md |
+| art. 16, inciso VI | acordao-crsfn | RJ2006/806 | 2008-05-27 | absolvicao | crsfn-9843 | fichas/crsfn/2008-03.md |
+| art. 16, inciso VI | acordao-crsfn | RJ-2006-0800 | 2010-04-29 | condenacao | crsfn-11169 | fichas/crsfn/2010-03.md |
+| art. 16, inciso VI | acordao-crsfn | 15/05 | 2011-08-30 | absolvicao | crsfn-11663 | fichas/crsfn/2011-04.md |
+| art. 16, inciso VI | acordao-crsfn | RJ-2005-7740 | 2012-07-05 | condenacao | crsfn-12355 | fichas/crsfn/2012-03.md |
 | art. 16, inciso VI | acordao-crsfn | RJ-2010-11571 | 2012-04-16 | condenacao | crsfn-13226 | fichas/crsfn/2012-02.md |
-| art. 16, inciso VI | acordao-crsfn | RJ-2006-4850 | 2013-09-25 | parcial | crsfn-12045 | fichas/crsfn/2013-03.md |
+| art. 16, inciso VI | acordao-crsfn | RJ-2006-4850 | 2013-09-25 | parcial | crsfn-12045 | fichas/crsfn/2013-04.md |
 | art. 16, inciso VI | acordao-crsfn | RJ-2007-8109 | 2013-02-26 | parcial | crsfn-12449 | fichas/crsfn/2013-01.md |
 | art. 16, inciso VI | acordao-crsfn | RJ-2006-5343 | 2013-06-18 | parcial | crsfn-12504 | fichas/crsfn/2013-02.md |
-| art. 16, inciso VI | acordao-crsfn | RJ2010/11567 | 2014-10-21 | parcial | crsfn-13334 | fichas/crsfn/2014-06.md |
+| art. 16, inciso VI | acordao-crsfn | RJ2010/11567 | 2014-10-21 | parcial | crsfn-13334 | fichas/crsfn/2014-07.md |
 | art. 16, inciso VI | acordao-crsfn | 04/2007 | 2016-01-21 | parcial | crsfn-13274 | fichas/crsfn/2016-01.md |
-| art. 16, inciso VI | acordao-crsfn | RJ2014/5807 | 2017-04-19 | condenacao | crsfn-10372-000718-2016-05 | fichas/crsfn/2017-03.md |
+| art. 16, inciso VI | acordao-crsfn | RJ2014/5807 | 2017-04-19 | condenacao | crsfn-10372-000718-2016-05 | fichas/crsfn/2017-06.md |
 | art. 16, inciso VI | decisao-colegiado | RJ2005/7433 | 2005-11-17 | nao-provido | cvm-col-20051117-d12 | fichas/colegiado/2005-17.md |
 | art. 16, inciso VI | decisao-colegiado | RJ2005/7920 | 2005-11-22 | nao-provido | cvm-col-20051122-d09 | fichas/colegiado/2005-18.md |
 | art. 16, inciso VI | decisao-colegiado | RJ2005/5140 | 2005-11-29 | nao-provido | cvm-col-20051129-d02 | fichas/colegiado/2005-18.md |
@@ -1877,43 +1877,43 @@ Este subíndice tem 2837 linhas e uma leitura única é cortada em silêncio per
 | art. 16, inciso VI | termo-compromisso | RJ2011/9398 | 2011-10-04 | rejeitado | cvm-col-20111004-d02 | fichas/tc/2011-04.md |
 | art. 16, inciso VI | termo-compromisso | RJ2010/11349 | 2012-03-06 | rejeitado | cvm-col-20120306-d13 | fichas/tc/2012-02.md |
 | art. 16, inciso VI | decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
-| art. 16, inciso VI | pas | 15/2005 | 2006-11-29 | parcial | cvm-pas-15-2005 | fichas/pas/2006-13.md |
-| art. 16, inciso VI | pas | RJ2006/4850 | 2007-12-18 | condenacao | cvm-pas-rj2006-4850 | fichas/pas/2007-07.md |
-| art. 16, inciso VI | pas | RJ2006/5136 | 2008-11-04 | condenacao | cvm-pas-rj2006-5136 | fichas/pas/2008-04.md |
-| art. 16, inciso VI | pas | RJ2006/5343 | 2008-08-26 | parcial | cvm-pas-rj2006-5343 | fichas/pas/2008-03.md |
-| art. 16, inciso VI | pas | RJ2006/5410 | 2008-08-21 | condenacao | cvm-pas-rj2006-5410 | fichas/pas/2008-02.md |
-| art. 16, inciso VI | pas | 04/2007 | 2010-11-09 | parcial | cvm-pas-04-2007 | fichas/pas/2010-04.md |
-| art. 16, inciso VI | pas | RJ2007/4685 | 2010-07-13 | parcial | cvm-pas-rj2007-4685 | fichas/pas/2010-02.md |
-| art. 16, inciso VI | pas | RJ2008/2569 | 2010-11-30 | condenacao | cvm-pas-rj2008-2569 | fichas/pas/2010-05.md |
+| art. 16, inciso VI | pas | 15/2005 | 2006-11-29 | parcial | cvm-pas-15-2005 | fichas/pas/2006-26.md |
+| art. 16, inciso VI | pas | RJ2006/4850 | 2007-12-18 | condenacao | cvm-pas-rj2006-4850 | fichas/pas/2007-15.md |
+| art. 16, inciso VI | pas | RJ2006/5136 | 2008-11-04 | condenacao | cvm-pas-rj2006-5136 | fichas/pas/2008-08.md |
+| art. 16, inciso VI | pas | RJ2006/5343 | 2008-08-26 | parcial | cvm-pas-rj2006-5343 | fichas/pas/2008-05.md |
+| art. 16, inciso VI | pas | RJ2006/5410 | 2008-08-21 | condenacao | cvm-pas-rj2006-5410 | fichas/pas/2008-04.md |
+| art. 16, inciso VI | pas | 04/2007 | 2010-11-09 | parcial | cvm-pas-04-2007 | fichas/pas/2010-08.md |
+| art. 16, inciso VI | pas | RJ2007/4685 | 2010-07-13 | parcial | cvm-pas-rj2007-4685 | fichas/pas/2010-04.md |
+| art. 16, inciso VI | pas | RJ2008/2569 | 2010-11-30 | condenacao | cvm-pas-rj2008-2569 | fichas/pas/2010-09.md |
 | art. 16, inciso VI | pas | RJ2009/1930 | 2010-05-18 | condenacao | cvm-pas-rj2009-1930 | fichas/pas/2010-02.md |
 | art. 16, inciso VI | pas | RJ2010/11352 | 2012-02-28 | condenacao | cvm-pas-rj2010-11352 | fichas/pas/2012-01.md |
 | art. 16, inciso VI | pas | RJ2014/5807 | 2016-03-15 | condenacao | cvm-pas-rj2014-5807 | fichas/pas/2016-01.md |
-| art. 16, inciso VII | acordao-crsfn | RJ-2006-0800 | 2010-04-29 | condenacao | crsfn-11169 | fichas/crsfn/2010-02.md |
-| art. 16, inciso VII | acordao-crsfn | RJ-2005-7740 | 2012-07-05 | condenacao | crsfn-12355 | fichas/crsfn/2012-02.md |
-| art. 16, inciso VII | acordao-crsfn | RJ-2006-4850 | 2013-09-25 | parcial | crsfn-12045 | fichas/crsfn/2013-03.md |
+| art. 16, inciso VII | acordao-crsfn | RJ-2006-0800 | 2010-04-29 | condenacao | crsfn-11169 | fichas/crsfn/2010-03.md |
+| art. 16, inciso VII | acordao-crsfn | RJ-2005-7740 | 2012-07-05 | condenacao | crsfn-12355 | fichas/crsfn/2012-03.md |
+| art. 16, inciso VII | acordao-crsfn | RJ-2006-4850 | 2013-09-25 | parcial | crsfn-12045 | fichas/crsfn/2013-04.md |
 | art. 16, inciso VII | decisao-colegiado | RJ2006/0804 | 2006-10-31 | parcial | cvm-col-20061031-d10 | fichas/colegiado/2006-16.md |
 | art. 16, inciso VII | decisao-colegiado | RJ2006/5829 | 2006-10-31 | nao-provido | cvm-col-20061031-d11 | fichas/colegiado/2006-16.md |
 | art. 16, inciso VII | termo-compromisso | RJ2010/11349 | 2012-03-06 | rejeitado | cvm-col-20120306-d13 | fichas/tc/2012-02.md |
 | art. 16, inciso VII | decisao-colegiado | RJ2012/7960 | 2012-07-31 | nao-provido | cvm-col-20120731-d02 | fichas/colegiado/2012-13.md |
-| art. 16, inciso VII | pas | RJ2006/4850 | 2007-12-18 | condenacao | cvm-pas-rj2006-4850 | fichas/pas/2007-07.md |
-| art. 16, inciso VIII | acordao-crsfn | 17/97 | 2008-11-19 | parcial | crsfn-9226 | fichas/crsfn/2008-06.md |
-| art. 16, inciso VIII | acordao-crsfn | RJ-2006-783 | 2008-08-28 | absolvicao | crsfn-9814 | fichas/crsfn/2008-04.md |
-| art. 16, inciso VIII | acordao-crsfn | RJ2006/806 | 2008-05-27 | absolvicao | crsfn-9843 | fichas/crsfn/2008-02.md |
+| art. 16, inciso VII | pas | RJ2006/4850 | 2007-12-18 | condenacao | cvm-pas-rj2006-4850 | fichas/pas/2007-15.md |
+| art. 16, inciso VIII | acordao-crsfn | 17/97 | 2008-11-19 | parcial | crsfn-9226 | fichas/crsfn/2008-07.md |
+| art. 16, inciso VIII | acordao-crsfn | RJ-2006-783 | 2008-08-28 | absolvicao | crsfn-9814 | fichas/crsfn/2008-05.md |
+| art. 16, inciso VIII | acordao-crsfn | RJ2006/806 | 2008-05-27 | absolvicao | crsfn-9843 | fichas/crsfn/2008-03.md |
 | art. 16, inciso VIII | acordao-crsfn | 05/00 | 2009-02-16 | parcial | crsfn-7526 | fichas/crsfn/2009-01.md |
-| art. 16, inciso VIII | acordao-crsfn | RJ-2006-0800 | 2010-04-29 | condenacao | crsfn-11169 | fichas/crsfn/2010-02.md |
-| art. 16, inciso VIII | acordao-crsfn | RJ-2005-4346 | 2010-06-08 | parcial | crsfn-11428 | fichas/crsfn/2010-04.md |
+| art. 16, inciso VIII | acordao-crsfn | RJ-2006-0800 | 2010-04-29 | condenacao | crsfn-11169 | fichas/crsfn/2010-03.md |
+| art. 16, inciso VIII | acordao-crsfn | RJ-2005-4346 | 2010-06-08 | parcial | crsfn-11428 | fichas/crsfn/2010-05.md |
 | art. 16, inciso VIII | acordao-crsfn | RJ-2005-5508 | 2010-04-29 | parcial | crsfn-11645 | fichas/crsfn/2010-04.md |
-| art. 16, inciso VIII | acordao-crsfn | 0501291250 | 2010-06-22 | condenacao | crsfn-11745 | fichas/crsfn/2010-05.md |
+| art. 16, inciso VIII | acordao-crsfn | 0501291250 | 2010-06-22 | condenacao | crsfn-11745 | fichas/crsfn/2010-06.md |
 | art. 16, inciso VIII | acordao-crsfn | RJ-2005-4410 | 2011-11-09 | condenacao | crsfn-11440 | fichas/crsfn/2011-04.md |
-| art. 16, inciso VIII | acordao-crsfn | 15/05 | 2011-08-30 | absolvicao | crsfn-11663 | fichas/crsfn/2011-03.md |
+| art. 16, inciso VIII | acordao-crsfn | 15/05 | 2011-08-30 | absolvicao | crsfn-11663 | fichas/crsfn/2011-04.md |
 | art. 16, inciso VIII | acordao-crsfn | RJ–2005-8604 | 2012-02-13 | condenacao | crsfn-12039 | fichas/crsfn/2012-01.md |
 | art. 16, inciso VIII | acordao-crsfn | RJ-2010-11571 | 2012-04-16 | condenacao | crsfn-13226 | fichas/crsfn/2012-02.md |
 | art. 16, inciso VIII | acordao-crsfn | RJ-2007-8109 | 2013-02-26 | parcial | crsfn-12449 | fichas/crsfn/2013-01.md |
 | art. 16, inciso VIII | acordao-crsfn | RJ-2006-5343 | 2013-06-18 | parcial | crsfn-12504 | fichas/crsfn/2013-02.md |
-| art. 16, inciso VIII | acordao-crsfn | RJ2010/11567 | 2014-10-21 | parcial | crsfn-13334 | fichas/crsfn/2014-06.md |
+| art. 16, inciso VIII | acordao-crsfn | RJ2010/11567 | 2014-10-21 | parcial | crsfn-13334 | fichas/crsfn/2014-07.md |
 | art. 16, inciso VIII | acordao-crsfn | 04/2007 | 2016-01-21 | parcial | crsfn-13274 | fichas/crsfn/2016-01.md |
 | art. 16, inciso VIII | acordao-crsfn | RJ2011/7390 | 2016-01-21 | condenacao | crsfn-13425 | fichas/crsfn/2016-01.md |
-| art. 16, inciso VIII | acordao-crsfn | RJ2014/5807 | 2017-04-19 | condenacao | crsfn-10372-000718-2016-05 | fichas/crsfn/2017-03.md |
+| art. 16, inciso VIII | acordao-crsfn | RJ2014/5807 | 2017-04-19 | condenacao | crsfn-10372-000718-2016-05 | fichas/crsfn/2017-06.md |
 | art. 16, inciso VIII | decisao-colegiado | RJ2003/6108 | 2003-11-11 | nao-provido | cvm-col-20031111-d06 | fichas/colegiado/2003-13.md |
 | art. 16, inciso VIII | decisao-colegiado | RJ2005/3496 | 2005-06-07 | nao-provido | cvm-col-20050607-d09 | fichas/colegiado/2005-09.md |
 | art. 16, inciso VIII | decisao-colegiado | RJ2005/7920 | 2005-11-22 | nao-provido | cvm-col-20051122-d09 | fichas/colegiado/2005-18.md |
@@ -2041,39 +2041,39 @@ Este subíndice tem 2837 linhas e uma leitura única é cortada em silêncio per
 | art. 16, inciso VIII | termo-compromisso | 19957.001931/2020-14 | 2021-10-05 | rejeitado | cvm-col-20211005-d2317 | fichas/tc/2021-06.md |
 | art. 16, inciso VIII | decisao-antiga | — | 1999-01-29 | — | cvm-dec-1999-0001 | fichas/decisoes-antigas/1999-28.md |
 | art. 16, inciso VIII | decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
-| art. 16, inciso VIII | pas | 05/2000 | 2004-11-11 | parcial | cvm-pas-05-2000 | fichas/pas/2004-07.md |
-| art. 16, inciso VIII | pas | 17/1997 | 2005-06-20 | parcial | cvm-pas-17-1997-2 | fichas/pas/2005-05.md |
-| art. 16, inciso VIII | pas | 17/1997 | 2005-05-19 | parcial | cvm-pas-17-1997 | fichas/pas/2005-04.md |
-| art. 16, inciso VIII | pas | RJ2005/3750 | 2005-10-19 | absolvicao | cvm-pas-rj2005-3750 | fichas/pas/2005-07.md |
-| art. 16, inciso VIII | pas | RJ2005/4215 | 2005-11-03 | absolvicao | cvm-pas-rj2005-4215 | fichas/pas/2005-07.md |
-| art. 16, inciso VIII | pas | 15/2005 | 2006-11-29 | parcial | cvm-pas-15-2005 | fichas/pas/2006-13.md |
-| art. 16, inciso VIII | pas | RJ2005/4346 | 2006-11-07 | parcial | cvm-pas-rj2005-4346 | fichas/pas/2006-12.md |
-| art. 16, inciso VIII | pas | RJ2005/4410 | 2006-11-07 | parcial | cvm-pas-rj2005-4410 | fichas/pas/2006-12.md |
-| art. 16, inciso VIII | pas | RJ2005/4969 | 2006-11-07 | parcial | cvm-pas-rj2005-4969 | fichas/pas/2006-12.md |
-| art. 16, inciso VIII | pas | RJ2005/5222 | 2006-11-08 | outro | cvm-pas-rj2005-5222 | fichas/pas/2006-12.md |
-| art. 16, inciso VIII | pas | RJ2005/5508 | 2006-10-31 | parcial | cvm-pas-rj2005-5508 | fichas/pas/2006-11.md |
-| art. 16, inciso VIII | pas | RJ2005/7128 | 2006-09-11 | absolvicao | cvm-pas-rj2005-7128 | fichas/pas/2006-09.md |
-| art. 16, inciso VIII | pas | RJ2006/1622 | 2006-08-01 | parcial | cvm-pas-rj2006-1622 | fichas/pas/2006-07.md |
-| art. 16, inciso VIII | pas | RJ2006/1623 | 2006-08-01 | parcial | cvm-pas-rj2006-1623 | fichas/pas/2006-07.md |
-| art. 16, inciso VIII | pas | RJ2005/8604 | 2007-04-04 | condenacao | cvm-pas-rj2005-8604 | fichas/pas/2007-02.md |
-| art. 16, inciso VIII | pas | RJ2006/5136 | 2008-11-04 | condenacao | cvm-pas-rj2006-5136 | fichas/pas/2008-04.md |
-| art. 16, inciso VIII | pas | RJ2006/5343 | 2008-08-26 | parcial | cvm-pas-rj2006-5343 | fichas/pas/2008-03.md |
-| art. 16, inciso VIII | pas | RJ2006/5410 | 2008-08-21 | condenacao | cvm-pas-rj2006-5410 | fichas/pas/2008-02.md |
-| art. 16, inciso VIII | pas | 04/2007 | 2010-11-09 | parcial | cvm-pas-04-2007 | fichas/pas/2010-04.md |
-| art. 16, inciso VIII | pas | RJ2007/4685 | 2010-07-13 | parcial | cvm-pas-rj2007-4685 | fichas/pas/2010-02.md |
-| art. 16, inciso VIII | pas | RJ2008/2569 | 2010-11-30 | condenacao | cvm-pas-rj2008-2569 | fichas/pas/2010-05.md |
+| art. 16, inciso VIII | pas | 05/2000 | 2004-11-11 | parcial | cvm-pas-05-2000 | fichas/pas/2004-14.md |
+| art. 16, inciso VIII | pas | 17/1997 | 2005-06-20 | parcial | cvm-pas-17-1997-2 | fichas/pas/2005-09.md |
+| art. 16, inciso VIII | pas | 17/1997 | 2005-05-19 | parcial | cvm-pas-17-1997 | fichas/pas/2005-07.md |
+| art. 16, inciso VIII | pas | RJ2005/3750 | 2005-10-19 | absolvicao | cvm-pas-rj2005-3750 | fichas/pas/2005-13.md |
+| art. 16, inciso VIII | pas | RJ2005/4215 | 2005-11-03 | absolvicao | cvm-pas-rj2005-4215 | fichas/pas/2005-14.md |
+| art. 16, inciso VIII | pas | 15/2005 | 2006-11-29 | parcial | cvm-pas-15-2005 | fichas/pas/2006-26.md |
+| art. 16, inciso VIII | pas | RJ2005/4346 | 2006-11-07 | parcial | cvm-pas-rj2005-4346 | fichas/pas/2006-23.md |
+| art. 16, inciso VIII | pas | RJ2005/4410 | 2006-11-07 | parcial | cvm-pas-rj2005-4410 | fichas/pas/2006-23.md |
+| art. 16, inciso VIII | pas | RJ2005/4969 | 2006-11-07 | parcial | cvm-pas-rj2005-4969 | fichas/pas/2006-24.md |
+| art. 16, inciso VIII | pas | RJ2005/5222 | 2006-11-08 | outro | cvm-pas-rj2005-5222 | fichas/pas/2006-24.md |
+| art. 16, inciso VIII | pas | RJ2005/5508 | 2006-10-31 | parcial | cvm-pas-rj2005-5508 | fichas/pas/2006-22.md |
+| art. 16, inciso VIII | pas | RJ2005/7128 | 2006-09-11 | absolvicao | cvm-pas-rj2005-7128 | fichas/pas/2006-17.md |
+| art. 16, inciso VIII | pas | RJ2006/1622 | 2006-08-01 | parcial | cvm-pas-rj2006-1622 | fichas/pas/2006-14.md |
+| art. 16, inciso VIII | pas | RJ2006/1623 | 2006-08-01 | parcial | cvm-pas-rj2006-1623 | fichas/pas/2006-15.md |
+| art. 16, inciso VIII | pas | RJ2005/8604 | 2007-04-04 | condenacao | cvm-pas-rj2005-8604 | fichas/pas/2007-04.md |
+| art. 16, inciso VIII | pas | RJ2006/5136 | 2008-11-04 | condenacao | cvm-pas-rj2006-5136 | fichas/pas/2008-08.md |
+| art. 16, inciso VIII | pas | RJ2006/5343 | 2008-08-26 | parcial | cvm-pas-rj2006-5343 | fichas/pas/2008-05.md |
+| art. 16, inciso VIII | pas | RJ2006/5410 | 2008-08-21 | condenacao | cvm-pas-rj2006-5410 | fichas/pas/2008-04.md |
+| art. 16, inciso VIII | pas | 04/2007 | 2010-11-09 | parcial | cvm-pas-04-2007 | fichas/pas/2010-08.md |
+| art. 16, inciso VIII | pas | RJ2007/4685 | 2010-07-13 | parcial | cvm-pas-rj2007-4685 | fichas/pas/2010-04.md |
+| art. 16, inciso VIII | pas | RJ2008/2569 | 2010-11-30 | condenacao | cvm-pas-rj2008-2569 | fichas/pas/2010-09.md |
 | art. 16, inciso VIII | pas | RJ2009/1930 | 2010-05-18 | condenacao | cvm-pas-rj2009-1930 | fichas/pas/2010-02.md |
 | art. 16, inciso VIII | pas | RJ2010/11352 | 2012-02-28 | condenacao | cvm-pas-rj2010-11352 | fichas/pas/2012-01.md |
 | art. 16, inciso VIII | pas | RJ2014/5807 | 2016-03-15 | condenacao | cvm-pas-rj2014-5807 | fichas/pas/2016-01.md |
 | art. 16, § 2º | acordao-crsfn | 99/1946 | 2000-09-29 | absolvicao | crsfn-3149 | fichas/crsfn/2000-05.md |
-| art. 16, § 2º | acordao-crsfn | RJ-2005-3711 | 2009-11-16 | absolvicao | crsfn-9427 | fichas/crsfn/2009-06.md |
+| art. 16, § 2º | acordao-crsfn | RJ-2005-3711 | 2009-11-16 | absolvicao | crsfn-9427 | fichas/crsfn/2009-07.md |
 | art. 16, § 2º | acordao-crsfn | RJ-2006-1853 | 2010-04-29 | parcial | crsfn-11215 | fichas/crsfn/2010-03.md |
-| art. 16, § 2º | acordao-crsfn | RJ-2006-1266 | 2010-04-29 | condenacao | crsfn-11324 | fichas/crsfn/2010-03.md |
-| art. 16, § 2º | acordao-crsfn | RJ-2006-2106 | 2010-05-25 | parcial | crsfn-11430 | fichas/crsfn/2010-04.md |
+| art. 16, § 2º | acordao-crsfn | RJ-2006-1266 | 2010-04-29 | condenacao | crsfn-11324 | fichas/crsfn/2010-04.md |
+| art. 16, § 2º | acordao-crsfn | RJ-2006-2106 | 2010-05-25 | parcial | crsfn-11430 | fichas/crsfn/2010-05.md |
 | art. 16, § 2º | acordao-crsfn | RJ-2005-4990 | 2010-04-29 | absolvicao | crsfn-11826 | fichas/crsfn/2010-04.md |
-| art. 16, § 2º | acordao-crsfn | RJ-2007-4376 | 2012-10-25 | condenacao | crsfn-12661 | fichas/crsfn/2012-04.md |
-| art. 16, § 2º | acordao-crsfn | RJ2010/11350 | 2017-10-25 | absolvicao | crsfn-13882 | fichas/crsfn/2017-08.md |
-| art. 16, § 2º | acordao-crsfn | RJ2009/8439 | 2018-02-21 | parcial | crsfn-14212 | fichas/crsfn/2018-01.md |
+| art. 16, § 2º | acordao-crsfn | RJ-2007-4376 | 2012-10-25 | condenacao | crsfn-12661 | fichas/crsfn/2012-05.md |
+| art. 16, § 2º | acordao-crsfn | RJ2010/11350 | 2017-10-25 | absolvicao | crsfn-13882 | fichas/crsfn/2017-14.md |
+| art. 16, § 2º | acordao-crsfn | RJ2009/8439 | 2018-02-21 | parcial | crsfn-14212 | fichas/crsfn/2018-02.md |
 | art. 16, § 2º | decisao-colegiado | RJ2002/5848 | 2004-07-13 | provido | cvm-col-20040713-d08 | fichas/colegiado/2004-08.md |
 | art. 16, § 2º | decisao-colegiado | RJ2004/5777 | 2004-10-05 | outro | cvm-col-20041005-d07 | fichas/colegiado/2004-12.md |
 | art. 16, § 2º | decisao-colegiado | RJ2006/3545 | 2006-05-09 | deferido | cvm-col-20060509-d03 | fichas/colegiado/2006-07.md |
@@ -2081,21 +2081,21 @@ Este subíndice tem 2837 linhas e uma leitura única é cortada em silêncio per
 | art. 16, § 2º | termo-compromisso | RJ2006/8798 | 2008-11-25 | aceito | cvm-col-20081125-d11 | fichas/tc/2008-07.md |
 | art. 16, § 2º | decisao-antiga | — | 1999-01-29 | — | cvm-dec-1999-0001 | fichas/decisoes-antigas/1999-28.md |
 | art. 16, § 2º | decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
-| art. 16, § 2º | pas | RJ2005/3711 | 2005-12-14 | parcial | cvm-pas-rj2005-3711 | fichas/pas/2005-10.md |
-| art. 16, § 2º | pas | RJ2005/4990 | 2006-10-31 | parcial | cvm-pas-rj2005-4990 | fichas/pas/2006-11.md |
-| art. 16, § 2º | pas | RJ2006/1266 | 2006-08-29 | parcial | cvm-pas-rj2006-1266 | fichas/pas/2006-08.md |
-| art. 16, § 2º | pas | RJ2006/1528 | 2006-08-22 | parcial | cvm-pas-rj2006-1528 | fichas/pas/2006-08.md |
-| art. 16, § 2º | pas | RJ2006/1853 | 2006-08-22 | parcial | cvm-pas-rj2006-1853 | fichas/pas/2006-08.md |
-| art. 16, § 2º | pas | RJ2006/2106 | 2006-11-08 | parcial | cvm-pas-rj2006-2106 | fichas/pas/2006-12.md |
-| art. 16, § 2º | pas | RJ2001/11808 | 2007-10-02 | parcial | cvm-pas-rj2001-11808 | fichas/pas/2007-07.md |
-| art. 16, § 2º | pas | RJ2005/8528 | 2007-01-24 | parcial | cvm-pas-rj2005-8528 | fichas/pas/2007-01.md |
+| art. 16, § 2º | pas | RJ2005/3711 | 2005-12-14 | parcial | cvm-pas-rj2005-3711 | fichas/pas/2005-20.md |
+| art. 16, § 2º | pas | RJ2005/4990 | 2006-10-31 | parcial | cvm-pas-rj2005-4990 | fichas/pas/2006-22.md |
+| art. 16, § 2º | pas | RJ2006/1266 | 2006-08-29 | parcial | cvm-pas-rj2006-1266 | fichas/pas/2006-17.md |
+| art. 16, § 2º | pas | RJ2006/1528 | 2006-08-22 | parcial | cvm-pas-rj2006-1528 | fichas/pas/2006-15.md |
+| art. 16, § 2º | pas | RJ2006/1853 | 2006-08-22 | parcial | cvm-pas-rj2006-1853 | fichas/pas/2006-16.md |
+| art. 16, § 2º | pas | RJ2006/2106 | 2006-11-08 | parcial | cvm-pas-rj2006-2106 | fichas/pas/2006-25.md |
+| art. 16, § 2º | pas | RJ2001/11808 | 2007-10-02 | parcial | cvm-pas-rj2001-11808 | fichas/pas/2007-13.md |
+| art. 16, § 2º | pas | RJ2005/8528 | 2007-01-24 | parcial | cvm-pas-rj2005-8528 | fichas/pas/2007-02.md |
 | art. 16, § 2º | pas | RJ2007/4376 | 2009-01-27 | condenacao | cvm-pas-rj2007-4376 | fichas/pas/2009-01.md |
-| art. 16, § 2º | pas | RJ2008/2916 | 2010-03-23 | condenacao | cvm-pas-rj2008-2916 | fichas/pas/2010-01.md |
+| art. 16, § 2º | pas | RJ2008/2916 | 2010-03-23 | condenacao | cvm-pas-rj2008-2916 | fichas/pas/2010-02.md |
 | art. 16, § 2º | pas | RJ2007/4665 | 2013-02-05 | condenacao | cvm-pas-rj2007-4665-2 | fichas/pas/2013-01.md |
-| art. 16, § 2º | pas | RJ2009/8439 | 2013-12-10 | parcial | cvm-pas-rj2009-8439 | fichas/pas/2013-06.md |
-| art. 16, § 2º | pas | RJ2010/11350 | 2013-04-02 | parcial | cvm-pas-rj2010-11350 | fichas/pas/2013-02.md |
+| art. 16, § 2º | pas | RJ2009/8439 | 2013-12-10 | parcial | cvm-pas-rj2009-8439 | fichas/pas/2013-12.md |
+| art. 16, § 2º | pas | RJ2010/11350 | 2013-04-02 | parcial | cvm-pas-rj2010-11350 | fichas/pas/2013-03.md |
 | art. 16, § 3º | acordao-crsfn | 99/1946 | 2000-09-29 | absolvicao | crsfn-3149 | fichas/crsfn/2000-05.md |
-| art. 16, § 3º | acordao-crsfn | RJ99/5698 | 2002-11-26 | condenacao | crsfn-3606 | fichas/crsfn/2002-03.md |
+| art. 16, § 3º | acordao-crsfn | RJ99/5698 | 2002-11-26 | condenacao | crsfn-3606 | fichas/crsfn/2002-04.md |
 | art. 16, § 3º | acordao-crsfn | RJ99/1951 | 2002-05-28 | condenacao | crsfn-3753 | fichas/crsfn/2002-01.md |
 | art. 16, § 3º | acordao-crsfn | RJ99/1944 | 2002-08-01 | absolvicao | crsfn-3797 | fichas/crsfn/2002-02.md |
 | art. 16, § 3º | acordao-crsfn | RJ99/1942 | 2002-06-27 | absolvicao | crsfn-3802 | fichas/crsfn/2002-02.md |
@@ -2106,7 +2106,7 @@ Este subíndice tem 2837 linhas e uma leitura única é cortada em silêncio per
 | art. 16, § 4º | decisao-colegiado | RJ2005/0383 | 2005-02-22 | nao-provido | cvm-col-20050222-d06 | fichas/colegiado/2005-04.md |
 | art. 16, § 4º | decisao-colegiado | RJ2005/3016 | 2005-05-16 | nao-provido | cvm-col-20050516-d05 | fichas/colegiado/2005-08.md |
 | art. 16, § 4º | decisao-colegiado | RJ2005/3016 | 2005-06-28 | nao-provido | cvm-col-20050628-d03 | fichas/colegiado/2005-10.md |
-| art. 16, § 7º | acordao-crsfn | RJ2009/9439 | 2015-09-22 | condenacao | crsfn-13395 | fichas/crsfn/2015-04.md |
+| art. 16, § 7º | acordao-crsfn | RJ2009/9439 | 2015-09-22 | condenacao | crsfn-13395 | fichas/crsfn/2015-05.md |
 | art. 16, § 7º | decisao-colegiado | RJ2003/3051 | 2003-05-13 | nao-provido | cvm-col-20030513-d08 | fichas/colegiado/2003-06.md |
 | art. 16, § 7º | decisao-colegiado | RJ2003/3160 | 2003-06-17 | nao-provido | cvm-col-20030617-d13 | fichas/colegiado/2003-08.md |
 | art. 16, § 7º | decisao-colegiado | RJ2003/6355; RJ2003/1614 | 2003-09-02 | provido | cvm-col-20030902-d03 | fichas/colegiado/2003-11.md |
@@ -2116,8 +2116,8 @@ Este subíndice tem 2837 linhas e uma leitura única é cortada em silêncio per
 | art. 16, § 7º | decisao-colegiado | RJ2005/1717 | 2005-06-21 | nao-provido | cvm-col-20050621-d05 | fichas/colegiado/2005-10.md |
 | art. 16, § 7º | termo-compromisso | RJ2008/10437 | 2009-07-07 | aceito | cvm-col-20090707-d06 | fichas/tc/2009-04.md |
 | art. 16, § 7º | termo-compromisso | 19957.010181/2018-49 | 2021-05-04 | aceito | cvm-col-20210504-d1537 | fichas/tc/2021-03.md |
-| art. 16, § 7º | pas | RJ2007/10843 | 2008-11-18 | condenacao | cvm-pas-rj2007-10843 | fichas/pas/2008-04.md |
-| art. 16, § 7º | pas | RJ2009/9439 | 2011-12-06 | condenacao | cvm-pas-rj2009-9439 | fichas/pas/2011-03.md |
+| art. 16, § 7º | pas | RJ2007/10843 | 2008-11-18 | condenacao | cvm-pas-rj2007-10843 | fichas/pas/2008-08.md |
+| art. 16, § 7º | pas | RJ2009/9439 | 2011-12-06 | condenacao | cvm-pas-rj2009-9439 | fichas/pas/2011-05.md |
 
 ## art. 17
 
@@ -2125,65 +2125,65 @@ Este subíndice tem 2837 linhas e uma leitura única é cortada em silêncio per
 |---|---|---|---|---|---|---|
 | art. 17 | acordao-crsfn | 95/4542 | 2000-07-28 | absolvicao | crsfn-2894 | fichas/crsfn/2000-03.md |
 | art. 17 | acordao-crsfn | 05/4215 | 2007-11-22 | absolvicao | crsfn-9249 | fichas/crsfn/2007-02.md |
-| art. 17 | acordao-crsfn | RJ-2006/1622 | 2008-07-30 | absolvicao | crsfn-11474 | fichas/crsfn/2008-04.md |
-| art. 17 | acordao-crsfn | RJ-2006/1623 | 2008-07-30 | absolvicao | crsfn-11475 | fichas/crsfn/2008-04.md |
-| art. 17 | acordao-crsfn | RJ-2004/5238 | 2008-10-28 | parcial | crsfn-8614 | fichas/crsfn/2008-05.md |
-| art. 17 | acordao-crsfn | RJ-2005/3646 | 2008-07-30 | condenacao | crsfn-9747 | fichas/crsfn/2008-04.md |
-| art. 17 | acordao-crsfn | RJ-2005-5936 | 2009-11-16 | condenacao | crsfn-11055 | fichas/crsfn/2009-06.md |
-| art. 17 | acordao-crsfn | RJ-2005-8578 | 2009-10-27 | absolvicao | crsfn-11103 | fichas/crsfn/2009-05.md |
-| art. 17 | acordao-crsfn | RJ-2005-7128 | 2009-08-24 | extincao | crsfn-11205 | fichas/crsfn/2009-04.md |
-| art. 17 | acordao-crsfn | RJ-2006-1528 | 2009-06-29 | absolvicao | crsfn-11214 | fichas/crsfn/2009-03.md |
-| art. 17 | acordao-crsfn | RJ-2005-4045 | 2009-10-27 | absolvicao | crsfn-11437 | fichas/crsfn/2009-05.md |
-| art. 17 | acordao-crsfn | RJ-2006-1621 | 2009-05-06 | absolvicao | crsfn-11636 | fichas/crsfn/2009-02.md |
-| art. 17 | acordao-crsfn | RJ-2001-7749 | 2009-06-29 | parcial | crsfn-7358 | fichas/crsfn/2009-03.md |
-| art. 17 | acordao-crsfn | RJ-2005-3711 | 2009-11-16 | absolvicao | crsfn-9427 | fichas/crsfn/2009-06.md |
+| art. 17 | acordao-crsfn | RJ-2006/1622 | 2008-07-30 | absolvicao | crsfn-11474 | fichas/crsfn/2008-05.md |
+| art. 17 | acordao-crsfn | RJ-2006/1623 | 2008-07-30 | absolvicao | crsfn-11475 | fichas/crsfn/2008-05.md |
+| art. 17 | acordao-crsfn | RJ-2004/5238 | 2008-10-28 | parcial | crsfn-8614 | fichas/crsfn/2008-06.md |
+| art. 17 | acordao-crsfn | RJ-2005/3646 | 2008-07-30 | condenacao | crsfn-9747 | fichas/crsfn/2008-05.md |
+| art. 17 | acordao-crsfn | RJ-2005-5936 | 2009-11-16 | condenacao | crsfn-11055 | fichas/crsfn/2009-07.md |
+| art. 17 | acordao-crsfn | RJ-2005-8578 | 2009-10-27 | absolvicao | crsfn-11103 | fichas/crsfn/2009-06.md |
+| art. 17 | acordao-crsfn | RJ-2005-7128 | 2009-08-24 | extincao | crsfn-11205 | fichas/crsfn/2009-05.md |
+| art. 17 | acordao-crsfn | RJ-2006-1528 | 2009-06-29 | absolvicao | crsfn-11214 | fichas/crsfn/2009-04.md |
+| art. 17 | acordao-crsfn | RJ-2005-4045 | 2009-10-27 | absolvicao | crsfn-11437 | fichas/crsfn/2009-06.md |
+| art. 17 | acordao-crsfn | RJ-2006-1621 | 2009-05-06 | absolvicao | crsfn-11636 | fichas/crsfn/2009-03.md |
+| art. 17 | acordao-crsfn | RJ-2001-7749 | 2009-06-29 | parcial | crsfn-7358 | fichas/crsfn/2009-04.md |
+| art. 17 | acordao-crsfn | RJ-2005-3711 | 2009-11-16 | absolvicao | crsfn-9427 | fichas/crsfn/2009-07.md |
 | art. 17 | acordao-crsfn | RJ-2005/3182 | 2009-01-28 | absolvicao | crsfn-9791 | fichas/crsfn/2009-01.md |
-| art. 17 | acordao-crsfn | RJ-2005-7316 | 2010-11-23 | parcial | crsfn-10380 | fichas/crsfn/2010-08.md |
-| art. 17 | acordao-crsfn | RJ-2005-7244 | 2010-04-29 | parcial | crsfn-10554 | fichas/crsfn/2010-02.md |
+| art. 17 | acordao-crsfn | RJ-2005-7316 | 2010-11-23 | parcial | crsfn-10380 | fichas/crsfn/2010-10.md |
+| art. 17 | acordao-crsfn | RJ-2005-7244 | 2010-04-29 | parcial | crsfn-10554 | fichas/crsfn/2010-03.md |
 | art. 17 | acordao-crsfn | RJ-2005-7234 | 2010-01-26 | parcial | crsfn-10555 | fichas/crsfn/2010-01.md |
 | art. 17 | acordao-crsfn | RJ-2005-7315 | 2010-01-26 | parcial | crsfn-10585 | fichas/crsfn/2010-01.md |
 | art. 17 | acordao-crsfn | RJ-2005-5041 | 2010-01-26 | parcial | crsfn-10975 | fichas/crsfn/2010-01.md |
 | art. 17 | acordao-crsfn | RJ-2005-8229 | 2010-01-26 | condenacao | crsfn-11144 | fichas/crsfn/2010-01.md |
 | art. 17 | acordao-crsfn | RJ-2006-1559 | 2010-04-29 | parcial | crsfn-11211 | fichas/crsfn/2010-03.md |
 | art. 17 | acordao-crsfn | RJ-2006-1853 | 2010-04-29 | parcial | crsfn-11215 | fichas/crsfn/2010-03.md |
-| art. 17 | acordao-crsfn | RJ-2005-7127 | 2010-04-29 | parcial | crsfn-11275 | fichas/crsfn/2010-03.md |
-| art. 17 | acordao-crsfn | RJ-2006-1266 | 2010-04-29 | condenacao | crsfn-11324 | fichas/crsfn/2010-03.md |
-| art. 17 | acordao-crsfn | RJ-2005-7507 | 2010-04-29 | condenacao | crsfn-11326 | fichas/crsfn/2010-03.md |
-| art. 17 | acordao-crsfn | RJ-2005-6703 | 2010-10-05 | parcial | crsfn-11423 | fichas/crsfn/2010-07.md |
-| art. 17 | acordao-crsfn | RJ-2005-9714 | 2010-06-08 | parcial | crsfn-11427 | fichas/crsfn/2010-04.md |
-| art. 17 | acordao-crsfn | RJ-2005-4346 | 2010-06-08 | parcial | crsfn-11428 | fichas/crsfn/2010-04.md |
-| art. 17 | acordao-crsfn | RJ-2006-2106 | 2010-05-25 | parcial | crsfn-11430 | fichas/crsfn/2010-04.md |
-| art. 17 | acordao-crsfn | RJ-2005-5222 | 2010-09-14 | absolvicao | crsfn-11432 | fichas/crsfn/2010-07.md |
-| art. 17 | acordao-crsfn | RJ-2005-4969 | 2010-10-27 | parcial | crsfn-11434 | fichas/crsfn/2010-08.md |
+| art. 17 | acordao-crsfn | RJ-2005-7127 | 2010-04-29 | parcial | crsfn-11275 | fichas/crsfn/2010-04.md |
+| art. 17 | acordao-crsfn | RJ-2006-1266 | 2010-04-29 | condenacao | crsfn-11324 | fichas/crsfn/2010-04.md |
+| art. 17 | acordao-crsfn | RJ-2005-7507 | 2010-04-29 | condenacao | crsfn-11326 | fichas/crsfn/2010-04.md |
+| art. 17 | acordao-crsfn | RJ-2005-6703 | 2010-10-05 | parcial | crsfn-11423 | fichas/crsfn/2010-09.md |
+| art. 17 | acordao-crsfn | RJ-2005-9714 | 2010-06-08 | parcial | crsfn-11427 | fichas/crsfn/2010-05.md |
+| art. 17 | acordao-crsfn | RJ-2005-4346 | 2010-06-08 | parcial | crsfn-11428 | fichas/crsfn/2010-05.md |
+| art. 17 | acordao-crsfn | RJ-2006-2106 | 2010-05-25 | parcial | crsfn-11430 | fichas/crsfn/2010-05.md |
+| art. 17 | acordao-crsfn | RJ-2005-5222 | 2010-09-14 | absolvicao | crsfn-11432 | fichas/crsfn/2010-08.md |
+| art. 17 | acordao-crsfn | RJ-2005-4969 | 2010-10-27 | parcial | crsfn-11434 | fichas/crsfn/2010-10.md |
 | art. 17 | acordao-crsfn | RJ-2005-5508 | 2010-04-29 | parcial | crsfn-11645 | fichas/crsfn/2010-04.md |
 | art. 17 | acordao-crsfn | RJ-2005-4990 | 2010-04-29 | absolvicao | crsfn-11826 | fichas/crsfn/2010-04.md |
-| art. 17 | acordao-crsfn | RJ-2007-10884 | 2010-06-08 | parcial | crsfn-12354 | fichas/crsfn/2010-05.md |
-| art. 17 | acordao-crsfn | RJ-2005-6764 | 2011-05-31 | parcial | crsfn-11421 | fichas/crsfn/2011-01.md |
+| art. 17 | acordao-crsfn | RJ-2007-10884 | 2010-06-08 | parcial | crsfn-12354 | fichas/crsfn/2010-06.md |
+| art. 17 | acordao-crsfn | RJ-2005-6764 | 2011-05-31 | parcial | crsfn-11421 | fichas/crsfn/2011-02.md |
 | art. 17 | acordao-crsfn | RJ-2005-4410 | 2011-11-09 | condenacao | crsfn-11440 | fichas/crsfn/2011-04.md |
 | art. 17 | acordao-crsfn | 05/8528 | 2011-05-31 | parcial | crsfn-11646 | fichas/crsfn/2011-02.md |
-| art. 17 | acordao-crsfn | 15/05 | 2011-08-30 | absolvicao | crsfn-11663 | fichas/crsfn/2011-03.md |
-| art. 17 | acordao-crsfn | IA-02/04 | 2012-03-06 | arquivamento | crsfn-10838 | fichas/crsfn/2012-01.md |
+| art. 17 | acordao-crsfn | 15/05 | 2011-08-30 | absolvicao | crsfn-11663 | fichas/crsfn/2011-04.md |
+| art. 17 | acordao-crsfn | IA-02/04 | 2012-03-06 | arquivamento | crsfn-10838 | fichas/crsfn/2012-02.md |
 | art. 17 | acordao-crsfn | RJ–2005-8604 | 2012-02-13 | condenacao | crsfn-12039 | fichas/crsfn/2012-01.md |
-| art. 17 | acordao-crsfn | RJ-2005-7740 | 2012-07-05 | condenacao | crsfn-12355 | fichas/crsfn/2012-02.md |
-| art. 17 | acordao-crsfn | RJ-2006-5136 | 2012-08-13 | parcial | crsfn-12503 | fichas/crsfn/2012-03.md |
-| art. 17 | acordao-crsfn | RJ-2007-11851 | 2012-07-05 | parcial | crsfn-12505 | fichas/crsfn/2012-02.md |
-| art. 17 | acordao-crsfn | RJ-2007-4376 | 2012-10-25 | condenacao | crsfn-12661 | fichas/crsfn/2012-04.md |
-| art. 17 | acordao-crsfn | RJ-2006-4850 | 2013-09-25 | parcial | crsfn-12045 | fichas/crsfn/2013-03.md |
+| art. 17 | acordao-crsfn | RJ-2005-7740 | 2012-07-05 | condenacao | crsfn-12355 | fichas/crsfn/2012-03.md |
+| art. 17 | acordao-crsfn | RJ-2006-5136 | 2012-08-13 | parcial | crsfn-12503 | fichas/crsfn/2012-04.md |
+| art. 17 | acordao-crsfn | RJ-2007-11851 | 2012-07-05 | parcial | crsfn-12505 | fichas/crsfn/2012-03.md |
+| art. 17 | acordao-crsfn | RJ-2007-4376 | 2012-10-25 | condenacao | crsfn-12661 | fichas/crsfn/2012-05.md |
+| art. 17 | acordao-crsfn | RJ-2006-4850 | 2013-09-25 | parcial | crsfn-12045 | fichas/crsfn/2013-04.md |
 | art. 17 | acordao-crsfn | RJ-2007-8109 | 2013-02-26 | parcial | crsfn-12449 | fichas/crsfn/2013-01.md |
 | art. 17 | acordao-crsfn | RJ-2006-5343 | 2013-06-18 | parcial | crsfn-12504 | fichas/crsfn/2013-02.md |
 | art. 17 | acordao-crsfn | RJ-2008-2569 | 2013-07-30 | condenacao | crsfn-13275 | fichas/crsfn/2013-03.md |
-| art. 17 | acordao-crsfn | IA-2006-15 | 2014-03-18 | arquivamento | crsfn-12359 | fichas/crsfn/2014-01.md |
+| art. 17 | acordao-crsfn | IA-2006-15 | 2014-03-18 | arquivamento | crsfn-12359 | fichas/crsfn/2014-02.md |
 | art. 17 | acordao-crsfn | RJ-2007-8150 | 2014-05-13 | condenacao | crsfn-12757 | fichas/crsfn/2014-03.md |
 | art. 17 | acordao-crsfn | RJ-2008-6250 | 2014-01-21 | condenacao | crsfn-12905 | fichas/crsfn/2014-01.md |
-| art. 17 | acordao-crsfn | RJ-2009-1930 | 2014-04-15 | condenacao | crsfn-13145 | fichas/crsfn/2014-02.md |
+| art. 17 | acordao-crsfn | RJ-2009-1930 | 2014-04-15 | condenacao | crsfn-13145 | fichas/crsfn/2014-03.md |
 | art. 17 | acordao-crsfn | RJ-2006-8572 | 2014-06-03 | condenacao | crsfn-13177 | fichas/crsfn/2014-04.md |
-| art. 17 | acordao-crsfn | RJ-2009-1504 | 2014-07-22 | parcial | crsfn-13190 | fichas/crsfn/2014-04.md |
+| art. 17 | acordao-crsfn | RJ-2009-1504 | 2014-07-22 | parcial | crsfn-13190 | fichas/crsfn/2014-05.md |
 | art. 17 | acordao-crsfn | RJ-2007-4685 | 2014-04-15 | parcial | crsfn-13229 | fichas/crsfn/2014-03.md |
-| art. 17 | acordao-crsfn | 2010/11351 | 2015-10-20 | condenacao | crsfn-13616 | fichas/crsfn/2015-04.md |
-| art. 17 | acordao-crsfn | 10/11352 | 2017-09-11 | condenacao | crsfn-13414 | fichas/crsfn/2017-06.md |
-| art. 17 | acordao-crsfn | 2010/12041 | 2017-04-18 | parcial | crsfn-13704 | fichas/crsfn/2017-03.md |
+| art. 17 | acordao-crsfn | 2010/11351 | 2015-10-20 | condenacao | crsfn-13616 | fichas/crsfn/2015-05.md |
+| art. 17 | acordao-crsfn | 10/11352 | 2017-09-11 | condenacao | crsfn-13414 | fichas/crsfn/2017-12.md |
+| art. 17 | acordao-crsfn | 2010/12041 | 2017-04-18 | parcial | crsfn-13704 | fichas/crsfn/2017-05.md |
 | art. 17 | acordao-crsfn | RJ2010/8784 | 2018-02-21 | absolvicao | crsfn-13904 | fichas/crsfn/2018-01.md |
-| art. 17 | acordao-crsfn | RJ2009/8439 | 2018-02-21 | parcial | crsfn-14212 | fichas/crsfn/2018-01.md |
+| art. 17 | acordao-crsfn | RJ2009/8439 | 2018-02-21 | parcial | crsfn-14212 | fichas/crsfn/2018-02.md |
 | art. 17 | decisao-colegiado | RJ2002/6273 | 2002-09-20 | provido | cvm-col-20020920-d04 | fichas/colegiado/2002-22.md |
 | art. 17 | decisao-colegiado | RJ2003/6355; RJ2003/1614 | 2003-09-02 | provido | cvm-col-20030902-d03 | fichas/colegiado/2003-11.md |
 | art. 17 | decisao-colegiado | RJ2003/5743 | 2003-09-02 | provido | cvm-col-20030902-d04 | fichas/colegiado/2003-11.md |
@@ -2250,93 +2250,93 @@ Este subíndice tem 2837 linhas e uma leitura única é cortada em silêncio per
 | art. 17 | decisao-antiga | — | 1999-01-29 | — | cvm-dec-1999-0001 | fichas/decisoes-antigas/1999-28.md |
 | art. 17 | decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
 | art. 17 | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
-| art. 17 | pas | 36/1998 | 2000-09-28 | parcial | cvm-pas-36-1998 | fichas/pas/2000-02.md |
-| art. 17 | pas | 20/2000 | 2001-06-27 | condenacao | cvm-pas-20-2000 | fichas/pas/2001-02.md |
-| art. 17 | pas | RJ2000/6498 | 2002-04-17 | parcial | cvm-pas-rj2000-6498 | fichas/pas/2002-02.md |
-| art. 17 | pas | RJ2001/7749 | 2004-10-14 | parcial | cvm-pas-rj2001-7749 | fichas/pas/2004-06.md |
-| art. 17 | pas | 02/2004 | 2005-12-07 | parcial | cvm-pas-02-2004 | fichas/pas/2005-09.md |
-| art. 17 | pas | RJ2005/3646 | 2005-12-14 | condenacao | cvm-pas-rj2005-3646 | fichas/pas/2005-10.md |
-| art. 17 | pas | RJ2005/3711 | 2005-12-14 | parcial | cvm-pas-rj2005-3711 | fichas/pas/2005-10.md |
-| art. 17 | pas | RJ2005/3750 | 2005-10-19 | absolvicao | cvm-pas-rj2005-3750 | fichas/pas/2005-07.md |
-| art. 17 | pas | RJ2005/4215 | 2005-11-03 | absolvicao | cvm-pas-rj2005-4215 | fichas/pas/2005-07.md |
+| art. 17 | pas | 36/1998 | 2000-09-28 | parcial | cvm-pas-36-1998 | fichas/pas/2000-04.md |
+| art. 17 | pas | 20/2000 | 2001-06-27 | condenacao | cvm-pas-20-2000 | fichas/pas/2001-03.md |
+| art. 17 | pas | RJ2000/6498 | 2002-04-17 | parcial | cvm-pas-rj2000-6498 | fichas/pas/2002-03.md |
+| art. 17 | pas | RJ2001/7749 | 2004-10-14 | parcial | cvm-pas-rj2001-7749 | fichas/pas/2004-12.md |
+| art. 17 | pas | 02/2004 | 2005-12-07 | parcial | cvm-pas-02-2004 | fichas/pas/2005-18.md |
+| art. 17 | pas | RJ2005/3646 | 2005-12-14 | condenacao | cvm-pas-rj2005-3646 | fichas/pas/2005-20.md |
+| art. 17 | pas | RJ2005/3711 | 2005-12-14 | parcial | cvm-pas-rj2005-3711 | fichas/pas/2005-20.md |
+| art. 17 | pas | RJ2005/3750 | 2005-10-19 | absolvicao | cvm-pas-rj2005-3750 | fichas/pas/2005-13.md |
+| art. 17 | pas | RJ2005/4215 | 2005-11-03 | absolvicao | cvm-pas-rj2005-4215 | fichas/pas/2005-14.md |
 | art. 17 | pas | RJ2005/3108 | 2006-01-11 | parcial | cvm-pas-rj2005-3108 | fichas/pas/2006-01.md |
-| art. 17 | pas | RJ2005/3182 | 2006-03-08 | parcial | cvm-pas-rj2005-3182 | fichas/pas/2006-02.md |
-| art. 17 | pas | RJ2005/4045 | 2006-09-28 | parcial | cvm-pas-rj2005-4045 | fichas/pas/2006-10.md |
-| art. 17 | pas | RJ2005/4346 | 2006-11-07 | parcial | cvm-pas-rj2005-4346 | fichas/pas/2006-12.md |
-| art. 17 | pas | RJ2005/4410 | 2006-11-07 | parcial | cvm-pas-rj2005-4410 | fichas/pas/2006-12.md |
-| art. 17 | pas | RJ2005/4969 | 2006-11-07 | parcial | cvm-pas-rj2005-4969 | fichas/pas/2006-12.md |
-| art. 17 | pas | RJ2005/4990 | 2006-10-31 | parcial | cvm-pas-rj2005-4990 | fichas/pas/2006-11.md |
-| art. 17 | pas | RJ2005/5041 | 2006-05-04 | parcial | cvm-pas-rj2005-5041 | fichas/pas/2006-04.md |
-| art. 17 | pas | RJ2005/5222 | 2006-11-08 | outro | cvm-pas-rj2005-5222 | fichas/pas/2006-12.md |
-| art. 17 | pas | RJ2005/5508 | 2006-10-31 | parcial | cvm-pas-rj2005-5508 | fichas/pas/2006-11.md |
-| art. 17 | pas | RJ2005/5936 | 2006-05-04 | parcial | cvm-pas-rj2005-5936 | fichas/pas/2006-04.md |
-| art. 17 | pas | RJ2005/6764 | 2006-10-31 | parcial | cvm-pas-rj2005-6764 | fichas/pas/2006-11.md |
-| art. 17 | pas | RJ2005/7127 | 2006-11-08 | parcial | cvm-pas-rj2005-7127 | fichas/pas/2006-12.md |
-| art. 17 | pas | RJ2005/7234 | 2006-05-10 | parcial | cvm-pas-rj2005-7234 | fichas/pas/2006-05.md |
-| art. 17 | pas | RJ2005/7244 | 2006-05-03 | parcial | cvm-pas-rj2005-7244 | fichas/pas/2006-04.md |
-| art. 17 | pas | RJ2005/7257 | 2006-05-10 | absolvicao | cvm-pas-rj2005-7257 | fichas/pas/2006-05.md |
-| art. 17 | pas | RJ2005/7315 | 2006-05-10 | parcial | cvm-pas-rj2005-7315 | fichas/pas/2006-05.md |
-| art. 17 | pas | RJ2005/7316 | 2006-04-05 | parcial | cvm-pas-rj2005-7316 | fichas/pas/2006-03.md |
-| art. 17 | pas | RJ2005/7507 | 2006-11-08 | parcial | cvm-pas-rj2005-7507 | fichas/pas/2006-12.md |
-| art. 17 | pas | RJ2005/8229 | 2006-06-14 | parcial | cvm-pas-rj2005-8229 | fichas/pas/2006-06.md |
-| art. 17 | pas | RJ2005/8578 | 2006-05-04 | parcial | cvm-pas-rj2005-8578 | fichas/pas/2006-04.md |
-| art. 17 | pas | RJ2006/1266 | 2006-08-29 | parcial | cvm-pas-rj2006-1266 | fichas/pas/2006-08.md |
-| art. 17 | pas | RJ2006/1267 | 2006-06-14 | parcial | cvm-pas-rj2006-1267 | fichas/pas/2006-06.md |
-| art. 17 | pas | RJ2006/1528 | 2006-08-22 | parcial | cvm-pas-rj2006-1528 | fichas/pas/2006-08.md |
-| art. 17 | pas | RJ2006/1559 | 2006-09-26 | parcial | cvm-pas-rj2006-1559 | fichas/pas/2006-09.md |
-| art. 17 | pas | RJ2006/1621 | 2006-08-29 | parcial | cvm-pas-rj2006-1621 | fichas/pas/2006-09.md |
-| art. 17 | pas | RJ2006/1622 | 2006-08-01 | parcial | cvm-pas-rj2006-1622 | fichas/pas/2006-07.md |
-| art. 17 | pas | RJ2006/1623 | 2006-08-01 | parcial | cvm-pas-rj2006-1623 | fichas/pas/2006-07.md |
-| art. 17 | pas | RJ2006/1853 | 2006-08-22 | parcial | cvm-pas-rj2006-1853 | fichas/pas/2006-08.md |
-| art. 17 | pas | RJ2006/2106 | 2006-11-08 | parcial | cvm-pas-rj2006-2106 | fichas/pas/2006-12.md |
-| art. 17 | pas | RJ2001/11808 | 2007-10-02 | parcial | cvm-pas-rj2001-11808 | fichas/pas/2007-07.md |
-| art. 17 | pas | RJ2005/6763 | 2007-01-31 | parcial | cvm-pas-rj2005-6763 | fichas/pas/2007-01.md |
-| art. 17 | pas | RJ2005/8528 | 2007-01-24 | parcial | cvm-pas-rj2005-8528 | fichas/pas/2007-01.md |
-| art. 17 | pas | RJ2005/8604 | 2007-04-04 | condenacao | cvm-pas-rj2005-8604 | fichas/pas/2007-02.md |
-| art. 17 | pas | RJ2005/8714 | 2007-02-13 | parcial | cvm-pas-rj2005-8714 | fichas/pas/2007-02.md |
-| art. 17 | pas | RJ2006/4850 | 2007-12-18 | condenacao | cvm-pas-rj2006-4850 | fichas/pas/2007-07.md |
-| art. 17 | pas | RJ2006/4849 | 2008-06-17 | condenacao | cvm-pas-rj2006-4849 | fichas/pas/2008-02.md |
-| art. 17 | pas | RJ2006/5136 | 2008-11-04 | condenacao | cvm-pas-rj2006-5136 | fichas/pas/2008-04.md |
-| art. 17 | pas | RJ2006/5343 | 2008-08-26 | parcial | cvm-pas-rj2006-5343 | fichas/pas/2008-03.md |
-| art. 17 | pas | RJ2006/5410 | 2008-08-21 | condenacao | cvm-pas-rj2006-5410 | fichas/pas/2008-02.md |
-| art. 17 | pas | RJ2007/11851 | 2008-12-02 | parcial | cvm-pas-rj2007-11851 | fichas/pas/2008-05.md |
-| art. 17 | pas | RJ2007/8109 | 2008-10-07 | parcial | cvm-pas-rj2007-8109 | fichas/pas/2008-04.md |
-| art. 17 | pas | RJ2006/4511 | 2009-05-19 | condenacao | cvm-pas-rj2006-4511 | fichas/pas/2009-02.md |
-| art. 17 | pas | RJ2006/8798 | 2009-12-08 | parcial | cvm-pas-rj2006-8798 | fichas/pas/2009-05.md |
+| art. 17 | pas | RJ2005/3182 | 2006-03-08 | parcial | cvm-pas-rj2005-3182 | fichas/pas/2006-04.md |
+| art. 17 | pas | RJ2005/4045 | 2006-09-28 | parcial | cvm-pas-rj2005-4045 | fichas/pas/2006-19.md |
+| art. 17 | pas | RJ2005/4346 | 2006-11-07 | parcial | cvm-pas-rj2005-4346 | fichas/pas/2006-23.md |
+| art. 17 | pas | RJ2005/4410 | 2006-11-07 | parcial | cvm-pas-rj2005-4410 | fichas/pas/2006-23.md |
+| art. 17 | pas | RJ2005/4969 | 2006-11-07 | parcial | cvm-pas-rj2005-4969 | fichas/pas/2006-24.md |
+| art. 17 | pas | RJ2005/4990 | 2006-10-31 | parcial | cvm-pas-rj2005-4990 | fichas/pas/2006-22.md |
+| art. 17 | pas | RJ2005/5041 | 2006-05-04 | parcial | cvm-pas-rj2005-5041 | fichas/pas/2006-08.md |
+| art. 17 | pas | RJ2005/5222 | 2006-11-08 | outro | cvm-pas-rj2005-5222 | fichas/pas/2006-24.md |
+| art. 17 | pas | RJ2005/5508 | 2006-10-31 | parcial | cvm-pas-rj2005-5508 | fichas/pas/2006-22.md |
+| art. 17 | pas | RJ2005/5936 | 2006-05-04 | parcial | cvm-pas-rj2005-5936 | fichas/pas/2006-08.md |
+| art. 17 | pas | RJ2005/6764 | 2006-10-31 | parcial | cvm-pas-rj2005-6764 | fichas/pas/2006-22.md |
+| art. 17 | pas | RJ2005/7127 | 2006-11-08 | parcial | cvm-pas-rj2005-7127 | fichas/pas/2006-24.md |
+| art. 17 | pas | RJ2005/7234 | 2006-05-10 | parcial | cvm-pas-rj2005-7234 | fichas/pas/2006-10.md |
+| art. 17 | pas | RJ2005/7244 | 2006-05-03 | parcial | cvm-pas-rj2005-7244 | fichas/pas/2006-07.md |
+| art. 17 | pas | RJ2005/7257 | 2006-05-10 | absolvicao | cvm-pas-rj2005-7257 | fichas/pas/2006-10.md |
+| art. 17 | pas | RJ2005/7315 | 2006-05-10 | parcial | cvm-pas-rj2005-7315 | fichas/pas/2006-11.md |
+| art. 17 | pas | RJ2005/7316 | 2006-04-05 | parcial | cvm-pas-rj2005-7316 | fichas/pas/2006-06.md |
+| art. 17 | pas | RJ2005/7507 | 2006-11-08 | parcial | cvm-pas-rj2005-7507 | fichas/pas/2006-25.md |
+| art. 17 | pas | RJ2005/8229 | 2006-06-14 | parcial | cvm-pas-rj2005-8229 | fichas/pas/2006-12.md |
+| art. 17 | pas | RJ2005/8578 | 2006-05-04 | parcial | cvm-pas-rj2005-8578 | fichas/pas/2006-08.md |
+| art. 17 | pas | RJ2006/1266 | 2006-08-29 | parcial | cvm-pas-rj2006-1266 | fichas/pas/2006-17.md |
+| art. 17 | pas | RJ2006/1267 | 2006-06-14 | parcial | cvm-pas-rj2006-1267 | fichas/pas/2006-12.md |
+| art. 17 | pas | RJ2006/1528 | 2006-08-22 | parcial | cvm-pas-rj2006-1528 | fichas/pas/2006-15.md |
+| art. 17 | pas | RJ2006/1559 | 2006-09-26 | parcial | cvm-pas-rj2006-1559 | fichas/pas/2006-19.md |
+| art. 17 | pas | RJ2006/1621 | 2006-08-29 | parcial | cvm-pas-rj2006-1621 | fichas/pas/2006-17.md |
+| art. 17 | pas | RJ2006/1622 | 2006-08-01 | parcial | cvm-pas-rj2006-1622 | fichas/pas/2006-14.md |
+| art. 17 | pas | RJ2006/1623 | 2006-08-01 | parcial | cvm-pas-rj2006-1623 | fichas/pas/2006-15.md |
+| art. 17 | pas | RJ2006/1853 | 2006-08-22 | parcial | cvm-pas-rj2006-1853 | fichas/pas/2006-16.md |
+| art. 17 | pas | RJ2006/2106 | 2006-11-08 | parcial | cvm-pas-rj2006-2106 | fichas/pas/2006-25.md |
+| art. 17 | pas | RJ2001/11808 | 2007-10-02 | parcial | cvm-pas-rj2001-11808 | fichas/pas/2007-13.md |
+| art. 17 | pas | RJ2005/6763 | 2007-01-31 | parcial | cvm-pas-rj2005-6763 | fichas/pas/2007-02.md |
+| art. 17 | pas | RJ2005/8528 | 2007-01-24 | parcial | cvm-pas-rj2005-8528 | fichas/pas/2007-02.md |
+| art. 17 | pas | RJ2005/8604 | 2007-04-04 | condenacao | cvm-pas-rj2005-8604 | fichas/pas/2007-04.md |
+| art. 17 | pas | RJ2005/8714 | 2007-02-13 | parcial | cvm-pas-rj2005-8714 | fichas/pas/2007-03.md |
+| art. 17 | pas | RJ2006/4850 | 2007-12-18 | condenacao | cvm-pas-rj2006-4850 | fichas/pas/2007-15.md |
+| art. 17 | pas | RJ2006/4849 | 2008-06-17 | condenacao | cvm-pas-rj2006-4849 | fichas/pas/2008-03.md |
+| art. 17 | pas | RJ2006/5136 | 2008-11-04 | condenacao | cvm-pas-rj2006-5136 | fichas/pas/2008-08.md |
+| art. 17 | pas | RJ2006/5343 | 2008-08-26 | parcial | cvm-pas-rj2006-5343 | fichas/pas/2008-05.md |
+| art. 17 | pas | RJ2006/5410 | 2008-08-21 | condenacao | cvm-pas-rj2006-5410 | fichas/pas/2008-04.md |
+| art. 17 | pas | RJ2007/11851 | 2008-12-02 | parcial | cvm-pas-rj2007-11851 | fichas/pas/2008-09.md |
+| art. 17 | pas | RJ2007/8109 | 2008-10-07 | parcial | cvm-pas-rj2007-8109 | fichas/pas/2008-07.md |
+| art. 17 | pas | RJ2006/4511 | 2009-05-19 | condenacao | cvm-pas-rj2006-4511 | fichas/pas/2009-04.md |
+| art. 17 | pas | RJ2006/8798 | 2009-12-08 | parcial | cvm-pas-rj2006-8798 | fichas/pas/2009-10.md |
 | art. 17 | pas | RJ2007/4376 | 2009-01-27 | condenacao | cvm-pas-rj2007-4376 | fichas/pas/2009-01.md |
-| art. 17 | pas | RJ2007/8150 | 2009-09-01 | condenacao | cvm-pas-rj2007-8150 | fichas/pas/2009-04.md |
-| art. 17 | pas | RJ2008/2570 | 2009-05-12 | condenacao | cvm-pas-rj2008-2570 | fichas/pas/2009-02.md |
-| art. 17 | pas | RJ2008/4842 | 2009-09-01 | condenacao | cvm-pas-rj2008-4842 | fichas/pas/2009-04.md |
-| art. 17 | pas | RJ2008/6250 | 2009-10-20 | parcial | cvm-pas-rj2008-6250 | fichas/pas/2009-05.md |
-| art. 17 | pas | RJ2007/4685 | 2010-07-13 | parcial | cvm-pas-rj2007-4685 | fichas/pas/2010-02.md |
-| art. 17 | pas | RJ2008/2569 | 2010-11-30 | condenacao | cvm-pas-rj2008-2569 | fichas/pas/2010-05.md |
-| art. 17 | pas | RJ2008/2916 | 2010-03-23 | condenacao | cvm-pas-rj2008-2916 | fichas/pas/2010-01.md |
+| art. 17 | pas | RJ2007/8150 | 2009-09-01 | condenacao | cvm-pas-rj2007-8150 | fichas/pas/2009-08.md |
+| art. 17 | pas | RJ2008/2570 | 2009-05-12 | condenacao | cvm-pas-rj2008-2570 | fichas/pas/2009-04.md |
+| art. 17 | pas | RJ2008/4842 | 2009-09-01 | condenacao | cvm-pas-rj2008-4842 | fichas/pas/2009-08.md |
+| art. 17 | pas | RJ2008/6250 | 2009-10-20 | parcial | cvm-pas-rj2008-6250 | fichas/pas/2009-09.md |
+| art. 17 | pas | RJ2007/4685 | 2010-07-13 | parcial | cvm-pas-rj2007-4685 | fichas/pas/2010-04.md |
+| art. 17 | pas | RJ2008/2569 | 2010-11-30 | condenacao | cvm-pas-rj2008-2569 | fichas/pas/2010-09.md |
+| art. 17 | pas | RJ2008/2916 | 2010-03-23 | condenacao | cvm-pas-rj2008-2916 | fichas/pas/2010-02.md |
 | art. 17 | pas | RJ2008/8572 | 2010-03-16 | parcial | cvm-pas-rj2008-8572 | fichas/pas/2010-01.md |
-| art. 17 | pas | RJ2009/1504 | 2010-08-17 | parcial | cvm-pas-rj2009-1504 | fichas/pas/2010-03.md |
+| art. 17 | pas | RJ2009/1504 | 2010-08-17 | parcial | cvm-pas-rj2009-1504 | fichas/pas/2010-05.md |
 | art. 17 | pas | RJ2009/1930 | 2010-05-18 | condenacao | cvm-pas-rj2009-1930 | fichas/pas/2010-02.md |
-| art. 17 | pas | RJ2009/2146 | 2010-07-20 | condenacao | cvm-pas-rj2009-2146 | fichas/pas/2010-03.md |
-| art. 17 | pas | RJ2009/8440 | 2010-10-26 | parcial | cvm-pas-rj2009-8440 | fichas/pas/2010-04.md |
-| art. 17 | pas | RJ2010/11351 | 2012-10-16 | condenacao | cvm-pas-rj2010-11351 | fichas/pas/2012-02.md |
+| art. 17 | pas | RJ2009/2146 | 2010-07-20 | condenacao | cvm-pas-rj2009-2146 | fichas/pas/2010-05.md |
+| art. 17 | pas | RJ2009/8440 | 2010-10-26 | parcial | cvm-pas-rj2009-8440 | fichas/pas/2010-08.md |
+| art. 17 | pas | RJ2010/11351 | 2012-10-16 | condenacao | cvm-pas-rj2010-11351 | fichas/pas/2012-04.md |
 | art. 17 | pas | RJ2010/11352 | 2012-02-28 | condenacao | cvm-pas-rj2010-11352 | fichas/pas/2012-01.md |
-| art. 17 | pas | RJ2010/11353 | 2012-10-16 | condenacao | cvm-pas-rj2010-11353 | fichas/pas/2012-02.md |
-| art. 17 | pas | RJ2009/8439 | 2013-12-10 | parcial | cvm-pas-rj2009-8439 | fichas/pas/2013-06.md |
-| art. 17 | pas | RJ2010/11350 | 2013-04-02 | parcial | cvm-pas-rj2010-11350 | fichas/pas/2013-02.md |
-| art. 17 | pas | RJ2010/1380 | 2013-05-28 | condenacao | cvm-pas-rj2010-1380 | fichas/pas/2013-03.md |
-| art. 17 | pas | RJ2010/8784 | 2013-06-11 | parcial | cvm-pas-rj2010-8784 | fichas/pas/2013-03.md |
-| art. 17, inciso I | acordao-crsfn | 15/05 | 2011-08-30 | absolvicao | crsfn-11663 | fichas/crsfn/2011-03.md |
+| art. 17 | pas | RJ2010/11353 | 2012-10-16 | condenacao | cvm-pas-rj2010-11353 | fichas/pas/2012-04.md |
+| art. 17 | pas | RJ2009/8439 | 2013-12-10 | parcial | cvm-pas-rj2009-8439 | fichas/pas/2013-12.md |
+| art. 17 | pas | RJ2010/11350 | 2013-04-02 | parcial | cvm-pas-rj2010-11350 | fichas/pas/2013-03.md |
+| art. 17 | pas | RJ2010/1380 | 2013-05-28 | condenacao | cvm-pas-rj2010-1380 | fichas/pas/2013-05.md |
+| art. 17 | pas | RJ2010/8784 | 2013-06-11 | parcial | cvm-pas-rj2010-8784 | fichas/pas/2013-06.md |
+| art. 17, inciso I | acordao-crsfn | 15/05 | 2011-08-30 | absolvicao | crsfn-11663 | fichas/crsfn/2011-04.md |
 | art. 17, inciso I | decisao-colegiado | RJ2006/4204 | 2006-05-30 | indeferido | cvm-col-20060530-d11 | fichas/colegiado/2006-08.md |
-| art. 17, inciso I | pas | 15/2005 | 2006-11-29 | parcial | cvm-pas-15-2005 | fichas/pas/2006-13.md |
-| art. 17, inciso II | acordao-crsfn | 15/05 | 2011-08-30 | absolvicao | crsfn-11663 | fichas/crsfn/2011-03.md |
+| art. 17, inciso I | pas | 15/2005 | 2006-11-29 | parcial | cvm-pas-15-2005 | fichas/pas/2006-26.md |
+| art. 17, inciso II | acordao-crsfn | 15/05 | 2011-08-30 | absolvicao | crsfn-11663 | fichas/crsfn/2011-04.md |
 | art. 17, inciso II | decisao-colegiado | — | 2004-02-11 | parcial | cvm-col-20040211-d03 | fichas/colegiado/2004-02.md |
-| art. 17, inciso II | pas | 15/2005 | 2006-11-29 | parcial | cvm-pas-15-2005 | fichas/pas/2006-13.md |
-| art. 17, inciso III | acordao-crsfn | 15/05 | 2011-08-30 | absolvicao | crsfn-11663 | fichas/crsfn/2011-03.md |
-| art. 17, inciso III | pas | 15/2005 | 2006-11-29 | parcial | cvm-pas-15-2005 | fichas/pas/2006-13.md |
+| art. 17, inciso II | pas | 15/2005 | 2006-11-29 | parcial | cvm-pas-15-2005 | fichas/pas/2006-26.md |
+| art. 17, inciso III | acordao-crsfn | 15/05 | 2011-08-30 | absolvicao | crsfn-11663 | fichas/crsfn/2011-04.md |
+| art. 17, inciso III | pas | 15/2005 | 2006-11-29 | parcial | cvm-pas-15-2005 | fichas/pas/2006-26.md |
 | art. 17, inciso IV | decisao-colegiado | RJ2001/10329 | 2002-02-19 | provido | cvm-col-20020219-d02 | fichas/colegiado/2002-03.md |
 | art. 17, inciso IV | decisao-colegiado | RJ2007/14986 | 2008-07-22 | parcial | cvm-col-20080722-d15 | fichas/colegiado/2008-16.md |
 | art. 17, inciso VII | acordao-crsfn | RJ2010/8784 | 2018-02-21 | absolvicao | crsfn-13904 | fichas/crsfn/2018-01.md |
-| art. 17, inciso VII | pas | RJ2010/8784 | 2013-06-11 | parcial | cvm-pas-rj2010-8784 | fichas/pas/2013-03.md |
-| art. 17, inciso X | pas | RJ2005/4990 | 2006-10-31 | parcial | cvm-pas-rj2005-4990 | fichas/pas/2006-11.md |
-| art. 17, inciso X | pas | RJ2009/8439 | 2013-12-10 | parcial | cvm-pas-rj2009-8439 | fichas/pas/2013-06.md |
+| art. 17, inciso VII | pas | RJ2010/8784 | 2013-06-11 | parcial | cvm-pas-rj2010-8784 | fichas/pas/2013-06.md |
+| art. 17, inciso X | pas | RJ2005/4990 | 2006-10-31 | parcial | cvm-pas-rj2005-4990 | fichas/pas/2006-22.md |
+| art. 17, inciso X | pas | RJ2009/8439 | 2013-12-10 | parcial | cvm-pas-rj2009-8439 | fichas/pas/2013-12.md |
 | art. 17, inciso XI | decisao-colegiado | RJ2005/0884 | 2005-04-12 | nao-provido | cvm-col-20050412-d10 | fichas/colegiado/2005-06.md |
 | art. 17, inciso XI | decisao-colegiado | RJ2004/3601 | 2005-05-24 | nao-provido | cvm-col-20050524-d05 | fichas/colegiado/2005-08.md |
 
@@ -2344,22 +2344,22 @@ Este subíndice tem 2837 linhas e uma leitura única é cortada em silêncio per
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 18 | acordao-crsfn | RJ-2006/1622 | 2008-07-30 | absolvicao | crsfn-11474 | fichas/crsfn/2008-04.md |
-| art. 18 | acordao-crsfn | RJ-2006/1623 | 2008-07-30 | absolvicao | crsfn-11475 | fichas/crsfn/2008-04.md |
-| art. 18 | acordao-crsfn | RJ-2005-5936 | 2009-11-16 | condenacao | crsfn-11055 | fichas/crsfn/2009-06.md |
-| art. 18 | acordao-crsfn | RJ-2005-8578 | 2009-10-27 | absolvicao | crsfn-11103 | fichas/crsfn/2009-05.md |
-| art. 18 | acordao-crsfn | RJ-2005-4045 | 2009-10-27 | absolvicao | crsfn-11437 | fichas/crsfn/2009-05.md |
-| art. 18 | acordao-crsfn | RJ-2006-1621 | 2009-05-06 | absolvicao | crsfn-11636 | fichas/crsfn/2009-02.md |
+| art. 18 | acordao-crsfn | RJ-2006/1622 | 2008-07-30 | absolvicao | crsfn-11474 | fichas/crsfn/2008-05.md |
+| art. 18 | acordao-crsfn | RJ-2006/1623 | 2008-07-30 | absolvicao | crsfn-11475 | fichas/crsfn/2008-05.md |
+| art. 18 | acordao-crsfn | RJ-2005-5936 | 2009-11-16 | condenacao | crsfn-11055 | fichas/crsfn/2009-07.md |
+| art. 18 | acordao-crsfn | RJ-2005-8578 | 2009-10-27 | absolvicao | crsfn-11103 | fichas/crsfn/2009-06.md |
+| art. 18 | acordao-crsfn | RJ-2005-4045 | 2009-10-27 | absolvicao | crsfn-11437 | fichas/crsfn/2009-06.md |
+| art. 18 | acordao-crsfn | RJ-2006-1621 | 2009-05-06 | absolvicao | crsfn-11636 | fichas/crsfn/2009-03.md |
 | art. 18 | acordao-crsfn | RJ-2005/3182 | 2009-01-28 | absolvicao | crsfn-9791 | fichas/crsfn/2009-01.md |
 | art. 18 | acordao-crsfn | RJ-2005-7234 | 2010-01-26 | parcial | crsfn-10555 | fichas/crsfn/2010-01.md |
 | art. 18 | acordao-crsfn | RJ-2005-7315 | 2010-01-26 | parcial | crsfn-10585 | fichas/crsfn/2010-01.md |
 | art. 18 | acordao-crsfn | RJ-2005-5041 | 2010-01-26 | parcial | crsfn-10975 | fichas/crsfn/2010-01.md |
 | art. 18 | acordao-crsfn | RJ-2006-1559 | 2010-04-29 | parcial | crsfn-11211 | fichas/crsfn/2010-03.md |
 | art. 18 | acordao-crsfn | RJ-2006-1853 | 2010-04-29 | parcial | crsfn-11215 | fichas/crsfn/2010-03.md |
-| art. 18 | acordao-crsfn | RJ-2005-7127 | 2010-04-29 | parcial | crsfn-11275 | fichas/crsfn/2010-03.md |
-| art. 18 | acordao-crsfn | RJ-2006-1266 | 2010-04-29 | condenacao | crsfn-11324 | fichas/crsfn/2010-03.md |
-| art. 18 | acordao-crsfn | RJ-2005-4969 | 2010-10-27 | parcial | crsfn-11434 | fichas/crsfn/2010-08.md |
-| art. 18 | acordao-crsfn | RJ-2005-6764 | 2011-05-31 | parcial | crsfn-11421 | fichas/crsfn/2011-01.md |
+| art. 18 | acordao-crsfn | RJ-2005-7127 | 2010-04-29 | parcial | crsfn-11275 | fichas/crsfn/2010-04.md |
+| art. 18 | acordao-crsfn | RJ-2006-1266 | 2010-04-29 | condenacao | crsfn-11324 | fichas/crsfn/2010-04.md |
+| art. 18 | acordao-crsfn | RJ-2005-4969 | 2010-10-27 | parcial | crsfn-11434 | fichas/crsfn/2010-10.md |
+| art. 18 | acordao-crsfn | RJ-2005-6764 | 2011-05-31 | parcial | crsfn-11421 | fichas/crsfn/2011-02.md |
 | art. 18 | decisao-colegiado | RJ2003/7228 | 2003-08-28 | nao-provido | cvm-col-20030828-d04 | fichas/colegiado/2003-10.md |
 | art. 18 | decisao-colegiado | RJ2003/7229 | 2003-08-28 | nao-provido | cvm-col-20030828-d05 | fichas/colegiado/2003-10.md |
 | art. 18 | decisao-colegiado | RJ2003/6825 | 2003-09-02 | provido | cvm-col-20030902-d05 | fichas/colegiado/2003-11.md |
@@ -2438,29 +2438,29 @@ Este subíndice tem 2837 linhas e uma leitura única é cortada em silêncio per
 | art. 18 | decisao-antiga | — | 1999-01-29 | — | cvm-dec-1999-0001 | fichas/decisoes-antigas/1999-28.md |
 | art. 18 | decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
 | art. 18 | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
-| art. 18 | pas | 20/2000 | 2001-06-27 | condenacao | cvm-pas-20-2000 | fichas/pas/2001-02.md |
-| art. 18 | pas | RJ2005/3182 | 2006-03-08 | parcial | cvm-pas-rj2005-3182 | fichas/pas/2006-02.md |
-| art. 18 | pas | RJ2005/4045 | 2006-09-28 | parcial | cvm-pas-rj2005-4045 | fichas/pas/2006-10.md |
-| art. 18 | pas | RJ2005/4969 | 2006-11-07 | parcial | cvm-pas-rj2005-4969 | fichas/pas/2006-12.md |
-| art. 18 | pas | RJ2005/5041 | 2006-05-04 | parcial | cvm-pas-rj2005-5041 | fichas/pas/2006-04.md |
-| art. 18 | pas | RJ2005/5222 | 2006-11-08 | outro | cvm-pas-rj2005-5222 | fichas/pas/2006-12.md |
-| art. 18 | pas | RJ2005/5936 | 2006-05-04 | parcial | cvm-pas-rj2005-5936 | fichas/pas/2006-04.md |
-| art. 18 | pas | RJ2005/6764 | 2006-10-31 | parcial | cvm-pas-rj2005-6764 | fichas/pas/2006-11.md |
-| art. 18 | pas | RJ2005/7127 | 2006-11-08 | parcial | cvm-pas-rj2005-7127 | fichas/pas/2006-12.md |
-| art. 18 | pas | RJ2005/7234 | 2006-05-10 | parcial | cvm-pas-rj2005-7234 | fichas/pas/2006-05.md |
-| art. 18 | pas | RJ2005/7257 | 2006-05-10 | absolvicao | cvm-pas-rj2005-7257 | fichas/pas/2006-05.md |
-| art. 18 | pas | RJ2005/7315 | 2006-05-10 | parcial | cvm-pas-rj2005-7315 | fichas/pas/2006-05.md |
-| art. 18 | pas | RJ2005/7507 | 2006-11-08 | parcial | cvm-pas-rj2005-7507 | fichas/pas/2006-12.md |
-| art. 18 | pas | RJ2005/8229 | 2006-06-14 | parcial | cvm-pas-rj2005-8229 | fichas/pas/2006-06.md |
-| art. 18 | pas | RJ2005/8578 | 2006-05-04 | parcial | cvm-pas-rj2005-8578 | fichas/pas/2006-04.md |
-| art. 18 | pas | RJ2006/1266 | 2006-08-29 | parcial | cvm-pas-rj2006-1266 | fichas/pas/2006-08.md |
-| art. 18 | pas | RJ2006/1267 | 2006-06-14 | parcial | cvm-pas-rj2006-1267 | fichas/pas/2006-06.md |
-| art. 18 | pas | RJ2006/1528 | 2006-08-22 | parcial | cvm-pas-rj2006-1528 | fichas/pas/2006-08.md |
-| art. 18 | pas | RJ2006/1559 | 2006-09-26 | parcial | cvm-pas-rj2006-1559 | fichas/pas/2006-09.md |
-| art. 18 | pas | RJ2006/1621 | 2006-08-29 | parcial | cvm-pas-rj2006-1621 | fichas/pas/2006-09.md |
-| art. 18 | pas | RJ2006/1622 | 2006-08-01 | parcial | cvm-pas-rj2006-1622 | fichas/pas/2006-07.md |
-| art. 18 | pas | RJ2006/1623 | 2006-08-01 | parcial | cvm-pas-rj2006-1623 | fichas/pas/2006-07.md |
-| art. 18 | pas | RJ2006/1853 | 2006-08-22 | parcial | cvm-pas-rj2006-1853 | fichas/pas/2006-08.md |
+| art. 18 | pas | 20/2000 | 2001-06-27 | condenacao | cvm-pas-20-2000 | fichas/pas/2001-03.md |
+| art. 18 | pas | RJ2005/3182 | 2006-03-08 | parcial | cvm-pas-rj2005-3182 | fichas/pas/2006-04.md |
+| art. 18 | pas | RJ2005/4045 | 2006-09-28 | parcial | cvm-pas-rj2005-4045 | fichas/pas/2006-19.md |
+| art. 18 | pas | RJ2005/4969 | 2006-11-07 | parcial | cvm-pas-rj2005-4969 | fichas/pas/2006-24.md |
+| art. 18 | pas | RJ2005/5041 | 2006-05-04 | parcial | cvm-pas-rj2005-5041 | fichas/pas/2006-08.md |
+| art. 18 | pas | RJ2005/5222 | 2006-11-08 | outro | cvm-pas-rj2005-5222 | fichas/pas/2006-24.md |
+| art. 18 | pas | RJ2005/5936 | 2006-05-04 | parcial | cvm-pas-rj2005-5936 | fichas/pas/2006-08.md |
+| art. 18 | pas | RJ2005/6764 | 2006-10-31 | parcial | cvm-pas-rj2005-6764 | fichas/pas/2006-22.md |
+| art. 18 | pas | RJ2005/7127 | 2006-11-08 | parcial | cvm-pas-rj2005-7127 | fichas/pas/2006-24.md |
+| art. 18 | pas | RJ2005/7234 | 2006-05-10 | parcial | cvm-pas-rj2005-7234 | fichas/pas/2006-10.md |
+| art. 18 | pas | RJ2005/7257 | 2006-05-10 | absolvicao | cvm-pas-rj2005-7257 | fichas/pas/2006-10.md |
+| art. 18 | pas | RJ2005/7315 | 2006-05-10 | parcial | cvm-pas-rj2005-7315 | fichas/pas/2006-11.md |
+| art. 18 | pas | RJ2005/7507 | 2006-11-08 | parcial | cvm-pas-rj2005-7507 | fichas/pas/2006-25.md |
+| art. 18 | pas | RJ2005/8229 | 2006-06-14 | parcial | cvm-pas-rj2005-8229 | fichas/pas/2006-12.md |
+| art. 18 | pas | RJ2005/8578 | 2006-05-04 | parcial | cvm-pas-rj2005-8578 | fichas/pas/2006-08.md |
+| art. 18 | pas | RJ2006/1266 | 2006-08-29 | parcial | cvm-pas-rj2006-1266 | fichas/pas/2006-17.md |
+| art. 18 | pas | RJ2006/1267 | 2006-06-14 | parcial | cvm-pas-rj2006-1267 | fichas/pas/2006-12.md |
+| art. 18 | pas | RJ2006/1528 | 2006-08-22 | parcial | cvm-pas-rj2006-1528 | fichas/pas/2006-15.md |
+| art. 18 | pas | RJ2006/1559 | 2006-09-26 | parcial | cvm-pas-rj2006-1559 | fichas/pas/2006-19.md |
+| art. 18 | pas | RJ2006/1621 | 2006-08-29 | parcial | cvm-pas-rj2006-1621 | fichas/pas/2006-17.md |
+| art. 18 | pas | RJ2006/1622 | 2006-08-01 | parcial | cvm-pas-rj2006-1622 | fichas/pas/2006-14.md |
+| art. 18 | pas | RJ2006/1623 | 2006-08-01 | parcial | cvm-pas-rj2006-1623 | fichas/pas/2006-15.md |
+| art. 18 | pas | RJ2006/1853 | 2006-08-22 | parcial | cvm-pas-rj2006-1853 | fichas/pas/2006-16.md |
 | art. 18, inciso I | decisao-colegiado | RJ2003/6108 | 2003-11-11 | nao-provido | cvm-col-20031111-d06 | fichas/colegiado/2003-13.md |
 | art. 18, inciso I | decisao-colegiado | RJ2005/7725 | 2005-11-17 | nao-provido | cvm-col-20051117-d10 | fichas/colegiado/2005-17.md |
 | art. 18, inciso I | decisao-colegiado | RJ2005/7495 | 2005-11-17 | nao-provido | cvm-col-20051117-d13 | fichas/colegiado/2005-17.md |
@@ -2495,13 +2495,13 @@ Este subíndice tem 2837 linhas e uma leitura única é cortada em silêncio per
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 19 | acordao-crsfn | RJ–2001-4474 | 2009-10-27 | parcial | crsfn-8257 | fichas/crsfn/2009-06.md |
-| art. 19 | acordao-crsfn | RJ-2002-4311 | 2010-10-05 | condenacao | crsfn-11325 | fichas/crsfn/2010-07.md |
+| art. 19 | acordao-crsfn | RJ–2001-4474 | 2009-10-27 | parcial | crsfn-8257 | fichas/crsfn/2009-07.md |
+| art. 19 | acordao-crsfn | RJ-2002-4311 | 2010-10-05 | condenacao | crsfn-11325 | fichas/crsfn/2010-09.md |
 | art. 19 | acordao-crsfn | 05/8528 | 2011-05-31 | parcial | crsfn-11646 | fichas/crsfn/2011-02.md |
-| art. 19 | acordao-crsfn | RJ-2006-5136 | 2012-08-13 | parcial | crsfn-12503 | fichas/crsfn/2012-03.md |
+| art. 19 | acordao-crsfn | RJ-2006-5136 | 2012-08-13 | parcial | crsfn-12503 | fichas/crsfn/2012-04.md |
 | art. 19 | acordao-crsfn | RJ-2008-6250 | 2014-01-21 | condenacao | crsfn-12905 | fichas/crsfn/2014-01.md |
-| art. 19 | acordao-crsfn | RJ-2009-1930 | 2014-04-15 | condenacao | crsfn-13145 | fichas/crsfn/2014-02.md |
-| art. 19 | acordao-crsfn | 2010/12041 | 2017-04-18 | parcial | crsfn-13704 | fichas/crsfn/2017-03.md |
+| art. 19 | acordao-crsfn | RJ-2009-1930 | 2014-04-15 | condenacao | crsfn-13145 | fichas/crsfn/2014-03.md |
+| art. 19 | acordao-crsfn | 2010/12041 | 2017-04-18 | parcial | crsfn-13704 | fichas/crsfn/2017-05.md |
 | art. 19 | decisao-colegiado | RJ2004/2476 | 2004-09-21 | outro | cvm-col-20040921-d09 | fichas/colegiado/2004-12.md |
 | art. 19 | termo-compromisso | RJ2001/4474 | 2004-12-14 | rejeitado | cvm-col-20041214-d01 | fichas/tc/2004-02.md |
 | art. 19 | decisao-colegiado | RJ2005/0383 | 2005-02-22 | nao-provido | cvm-col-20050222-d06 | fichas/colegiado/2005-04.md |
@@ -2516,48 +2516,48 @@ Este subíndice tem 2837 linhas e uma leitura única é cortada em silêncio per
 | art. 19 | termo-compromisso | RJ2010/12041 | 2012-07-03 | rejeitado | cvm-col-20120703-d03 | fichas/tc/2012-03.md |
 | art. 19 | decisao-antiga | — | 1996-01-12 | — | cvm-dec-1996-0001 | fichas/decisoes-antigas/1996-07.md |
 | art. 19 | decisao-antiga | — | 1998-01-09 | — | cvm-dec-1998-0001 | fichas/decisoes-antigas/1998-15.md |
-| art. 19 | pas | 05/2000 | 2004-11-11 | parcial | cvm-pas-05-2000 | fichas/pas/2004-07.md |
-| art. 19 | pas | RJ2001/4474 | 2005-03-30 | parcial | cvm-pas-rj2001-4474 | fichas/pas/2005-03.md |
-| art. 19 | pas | RJ2004/5238 | 2005-03-28 | condenacao | cvm-pas-rj2004-5238 | fichas/pas/2005-02.md |
-| art. 19 | pas | RJ2002/4311 | 2006-09-25 | condenacao | cvm-pas-rj2002-4311 | fichas/pas/2006-09.md |
-| art. 19 | pas | RJ2005/3182 | 2006-03-08 | parcial | cvm-pas-rj2005-3182 | fichas/pas/2006-02.md |
-| art. 19 | pas | RJ2005/3710 | 2006-06-20 | condenacao | cvm-pas-rj2005-3710 | fichas/pas/2006-06.md |
-| art. 19 | pas | RJ2005/7316 | 2006-04-05 | parcial | cvm-pas-rj2005-7316 | fichas/pas/2006-03.md |
-| art. 19 | pas | RJ2005/7507 | 2006-11-08 | parcial | cvm-pas-rj2005-7507 | fichas/pas/2006-12.md |
-| art. 19 | pas | RJ2006/1623 | 2006-08-01 | parcial | cvm-pas-rj2006-1623 | fichas/pas/2006-07.md |
-| art. 19 | pas | RJ2005/8604 | 2007-04-04 | condenacao | cvm-pas-rj2005-8604 | fichas/pas/2007-02.md |
-| art. 19 | pas | RJ2006/5410 | 2008-08-21 | condenacao | cvm-pas-rj2006-5410 | fichas/pas/2008-02.md |
-| art. 19 | pas | RJ2006/4511 | 2009-05-19 | condenacao | cvm-pas-rj2006-4511 | fichas/pas/2009-02.md |
-| art. 19 | pas | RJ2008/6250 | 2009-10-20 | parcial | cvm-pas-rj2008-6250 | fichas/pas/2009-05.md |
+| art. 19 | pas | 05/2000 | 2004-11-11 | parcial | cvm-pas-05-2000 | fichas/pas/2004-14.md |
+| art. 19 | pas | RJ2001/4474 | 2005-03-30 | parcial | cvm-pas-rj2001-4474 | fichas/pas/2005-05.md |
+| art. 19 | pas | RJ2004/5238 | 2005-03-28 | condenacao | cvm-pas-rj2004-5238 | fichas/pas/2005-05.md |
+| art. 19 | pas | RJ2002/4311 | 2006-09-25 | condenacao | cvm-pas-rj2002-4311 | fichas/pas/2006-18.md |
+| art. 19 | pas | RJ2005/3182 | 2006-03-08 | parcial | cvm-pas-rj2005-3182 | fichas/pas/2006-04.md |
+| art. 19 | pas | RJ2005/3710 | 2006-06-20 | condenacao | cvm-pas-rj2005-3710 | fichas/pas/2006-13.md |
+| art. 19 | pas | RJ2005/7316 | 2006-04-05 | parcial | cvm-pas-rj2005-7316 | fichas/pas/2006-06.md |
+| art. 19 | pas | RJ2005/7507 | 2006-11-08 | parcial | cvm-pas-rj2005-7507 | fichas/pas/2006-25.md |
+| art. 19 | pas | RJ2006/1623 | 2006-08-01 | parcial | cvm-pas-rj2006-1623 | fichas/pas/2006-15.md |
+| art. 19 | pas | RJ2005/8604 | 2007-04-04 | condenacao | cvm-pas-rj2005-8604 | fichas/pas/2007-04.md |
+| art. 19 | pas | RJ2006/5410 | 2008-08-21 | condenacao | cvm-pas-rj2006-5410 | fichas/pas/2008-04.md |
+| art. 19 | pas | RJ2006/4511 | 2009-05-19 | condenacao | cvm-pas-rj2006-4511 | fichas/pas/2009-04.md |
+| art. 19 | pas | RJ2008/6250 | 2009-10-20 | parcial | cvm-pas-rj2008-6250 | fichas/pas/2009-09.md |
 | art. 19, inciso II | termo-compromisso | RJ2006/4849 | 2007-10-17 | rejeitado | cvm-col-20071017-d03 | fichas/tc/2007-05.md |
 | art. 19, inciso II | termo-compromisso | RJ2006/5410 | 2008-02-19 | rejeitado | cvm-col-20080219-d06 | fichas/tc/2008-01.md |
 | art. 19, inciso II | termo-compromisso | RJ2006/5343 | 2008-04-25 | rejeitado | cvm-col-20080425-d07 | fichas/tc/2008-03.md |
 | art. 19, inciso II | termo-compromisso | RJ2007/11851 | 2008-09-09 | rejeitado | cvm-col-20080909-d02 | fichas/tc/2008-06.md |
 | art. 19, inciso II | termo-compromisso | RJ2007/4685 | 2009-06-23 | aceito | cvm-col-20090623-d03 | fichas/tc/2009-03.md |
-| art. 19, inciso II | pas | RJ2005/8604 | 2007-04-04 | condenacao | cvm-pas-rj2005-8604 | fichas/pas/2007-02.md |
-| art. 19, inciso II | pas | RJ2006/5343 | 2008-08-26 | parcial | cvm-pas-rj2006-5343 | fichas/pas/2008-03.md |
-| art. 19, inciso II | pas | RJ2006/5410 | 2008-08-21 | condenacao | cvm-pas-rj2006-5410 | fichas/pas/2008-02.md |
-| art. 19, inciso II | pas | RJ2006/4511 | 2009-05-19 | condenacao | cvm-pas-rj2006-4511 | fichas/pas/2009-02.md |
-| art. 19, inciso II | pas | RJ2008/4842 | 2009-09-01 | condenacao | cvm-pas-rj2008-4842 | fichas/pas/2009-04.md |
-| art. 19, inciso II | pas | RJ2009/1504 | 2010-08-17 | parcial | cvm-pas-rj2009-1504 | fichas/pas/2010-03.md |
-| art. 19, inciso II | pas | RJ2009/8440 | 2010-10-26 | parcial | cvm-pas-rj2009-8440 | fichas/pas/2010-04.md |
-| art. 19, parágrafo único | acordao-crsfn | RJ/2001/12173 | 2006-10-19 | condenacao | crsfn-5966 | fichas/crsfn/2006-01.md |
-| art. 19, parágrafo único | acordao-crsfn | RJ-2004/5238 | 2008-10-28 | parcial | crsfn-8614 | fichas/crsfn/2008-05.md |
+| art. 19, inciso II | pas | RJ2005/8604 | 2007-04-04 | condenacao | cvm-pas-rj2005-8604 | fichas/pas/2007-04.md |
+| art. 19, inciso II | pas | RJ2006/5343 | 2008-08-26 | parcial | cvm-pas-rj2006-5343 | fichas/pas/2008-05.md |
+| art. 19, inciso II | pas | RJ2006/5410 | 2008-08-21 | condenacao | cvm-pas-rj2006-5410 | fichas/pas/2008-04.md |
+| art. 19, inciso II | pas | RJ2006/4511 | 2009-05-19 | condenacao | cvm-pas-rj2006-4511 | fichas/pas/2009-04.md |
+| art. 19, inciso II | pas | RJ2008/4842 | 2009-09-01 | condenacao | cvm-pas-rj2008-4842 | fichas/pas/2009-08.md |
+| art. 19, inciso II | pas | RJ2009/1504 | 2010-08-17 | parcial | cvm-pas-rj2009-1504 | fichas/pas/2010-05.md |
+| art. 19, inciso II | pas | RJ2009/8440 | 2010-10-26 | parcial | cvm-pas-rj2009-8440 | fichas/pas/2010-08.md |
+| art. 19, parágrafo único | acordao-crsfn | RJ/2001/12173 | 2006-10-19 | condenacao | crsfn-5966 | fichas/crsfn/2006-02.md |
+| art. 19, parágrafo único | acordao-crsfn | RJ-2004/5238 | 2008-10-28 | parcial | crsfn-8614 | fichas/crsfn/2008-06.md |
 | art. 19, parágrafo único | acordao-crsfn | RJ-2005-3751 | 2009-04-15 | condenacao | crsfn-10970 | fichas/crsfn/2009-02.md |
-| art. 19, parágrafo único | acordao-crsfn | RJ-2002-4311 | 2010-10-05 | condenacao | crsfn-11325 | fichas/crsfn/2010-07.md |
+| art. 19, parágrafo único | acordao-crsfn | RJ-2002-4311 | 2010-10-05 | condenacao | crsfn-11325 | fichas/crsfn/2010-09.md |
 | art. 19, parágrafo único | acordao-crsfn | RJ-2006-5343 | 2013-06-18 | parcial | crsfn-12504 | fichas/crsfn/2013-02.md |
 | art. 19, parágrafo único | termo-compromisso | RJ2005/3742 | 2006-05-30 | rejeitado | cvm-col-20060530-d02 | fichas/tc/2006-02.md |
-| art. 19, parágrafo único | pas | RJ2001/12173 | 2003-12-10 | parcial | cvm-pas-rj2001-12173 | fichas/pas/2003-05.md |
-| art. 19, parágrafo único | pas | RJ2002/2047 | 2005-05-19 | parcial | cvm-pas-rj2002-2047 | fichas/pas/2005-04.md |
-| art. 19, parágrafo único | pas | RJ2004/5238 | 2005-03-28 | condenacao | cvm-pas-rj2004-5238 | fichas/pas/2005-02.md |
-| art. 19, parágrafo único | pas | RJ2002/4311 | 2006-09-25 | condenacao | cvm-pas-rj2002-4311 | fichas/pas/2006-09.md |
-| art. 19, parágrafo único | pas | RJ2005/3710 | 2006-06-20 | condenacao | cvm-pas-rj2005-3710 | fichas/pas/2006-06.md |
-| art. 19, parágrafo único | pas | RJ2005/3751 | 2006-05-09 | condenacao | cvm-pas-rj2005-3751 | fichas/pas/2006-04.md |
-| art. 19, parágrafo único | pas | RJ2006/4849 | 2008-06-17 | condenacao | cvm-pas-rj2006-4849 | fichas/pas/2008-02.md |
-| art. 19, parágrafo único | pas | RJ2006/5343 | 2008-08-26 | parcial | cvm-pas-rj2006-5343 | fichas/pas/2008-03.md |
-| art. 19, parágrafo único | pas | RJ2007/4665 | 2009-03-03 | parcial | cvm-pas-rj2007-4665 | fichas/pas/2009-01.md |
+| art. 19, parágrafo único | pas | RJ2001/12173 | 2003-12-10 | parcial | cvm-pas-rj2001-12173 | fichas/pas/2003-08.md |
+| art. 19, parágrafo único | pas | RJ2002/2047 | 2005-05-19 | parcial | cvm-pas-rj2002-2047 | fichas/pas/2005-08.md |
+| art. 19, parágrafo único | pas | RJ2004/5238 | 2005-03-28 | condenacao | cvm-pas-rj2004-5238 | fichas/pas/2005-05.md |
+| art. 19, parágrafo único | pas | RJ2002/4311 | 2006-09-25 | condenacao | cvm-pas-rj2002-4311 | fichas/pas/2006-18.md |
+| art. 19, parágrafo único | pas | RJ2005/3710 | 2006-06-20 | condenacao | cvm-pas-rj2005-3710 | fichas/pas/2006-13.md |
+| art. 19, parágrafo único | pas | RJ2005/3751 | 2006-05-09 | condenacao | cvm-pas-rj2005-3751 | fichas/pas/2006-09.md |
+| art. 19, parágrafo único | pas | RJ2006/4849 | 2008-06-17 | condenacao | cvm-pas-rj2006-4849 | fichas/pas/2008-03.md |
+| art. 19, parágrafo único | pas | RJ2006/5343 | 2008-08-26 | parcial | cvm-pas-rj2006-5343 | fichas/pas/2008-05.md |
+| art. 19, parágrafo único | pas | RJ2007/4665 | 2009-03-03 | parcial | cvm-pas-rj2007-4665 | fichas/pas/2009-02.md |
 | art. 19, parágrafo único | pas | RJ2010/11352 | 2012-02-28 | condenacao | cvm-pas-rj2010-11352 | fichas/pas/2012-01.md |
-| art. 19, parágrafo único, inciso II | acordao-crsfn | RJ-2005-7507 | 2010-04-29 | condenacao | crsfn-11326 | fichas/crsfn/2010-03.md |
+| art. 19, parágrafo único, inciso II | acordao-crsfn | RJ-2005-7507 | 2010-04-29 | condenacao | crsfn-11326 | fichas/crsfn/2010-04.md |
 | art. 19, parágrafo único, inciso II | acordao-crsfn | 05/8528 | 2011-05-31 | parcial | crsfn-11646 | fichas/crsfn/2011-02.md |
 | art. 19, parágrafo único, inciso II | acordao-crsfn | RJ-2007-8109 | 2013-02-26 | parcial | crsfn-12449 | fichas/crsfn/2013-01.md |
 | art. 19, parágrafo único, inciso II | decisao-colegiado | RJ2003/6108 | 2003-11-11 | nao-provido | cvm-col-20031111-d06 | fichas/colegiado/2003-13.md |
@@ -2565,40 +2565,40 @@ Este subíndice tem 2837 linhas e uma leitura única é cortada em silêncio per
 | art. 19, parágrafo único, inciso II | termo-compromisso | RJ2005/1250 | 2006-11-07 | aceito | cvm-col-20061107-d03 | fichas/tc/2006-06.md |
 | art. 19, parágrafo único, inciso II | decisao-colegiado | RJ2008/9254 | 2008-10-07 | parcial | cvm-col-20081007-d13 | fichas/colegiado/2008-22.md |
 | art. 19, parágrafo único, inciso II | pas | RJ2005/2933 | 2006-01-11 | parcial | cvm-pas-rj2005-2933 | fichas/pas/2006-01.md |
-| art. 19, parágrafo único, inciso II | pas | RJ2005/8528 | 2007-01-24 | parcial | cvm-pas-rj2005-8528 | fichas/pas/2007-01.md |
-| art. 19, parágrafo único, inciso II | pas | RJ2006/4511 | 2009-05-19 | condenacao | cvm-pas-rj2006-4511 | fichas/pas/2009-02.md |
-| art. 19, parágrafo único, inciso II | pas | RJ2008/2569 | 2010-11-30 | condenacao | cvm-pas-rj2008-2569 | fichas/pas/2010-05.md |
+| art. 19, parágrafo único, inciso II | pas | RJ2005/8528 | 2007-01-24 | parcial | cvm-pas-rj2005-8528 | fichas/pas/2007-02.md |
+| art. 19, parágrafo único, inciso II | pas | RJ2006/4511 | 2009-05-19 | condenacao | cvm-pas-rj2006-4511 | fichas/pas/2009-04.md |
+| art. 19, parágrafo único, inciso II | pas | RJ2008/2569 | 2010-11-30 | condenacao | cvm-pas-rj2008-2569 | fichas/pas/2010-09.md |
 | art. 19, parágrafo único, inciso II | pas | RJ2008/8572 | 2010-03-16 | parcial | cvm-pas-rj2008-8572 | fichas/pas/2010-01.md |
-| art. 19, parágrafo único, inciso II | pas | RJ2009/1504 | 2010-08-17 | parcial | cvm-pas-rj2009-1504 | fichas/pas/2010-03.md |
-| art. 19, parágrafo único, inciso II | pas | RJ2009/2146 | 2010-07-20 | condenacao | cvm-pas-rj2009-2146 | fichas/pas/2010-03.md |
-| art. 19, parágrafo único, inciso II | pas | RJ2009/8440 | 2010-10-26 | parcial | cvm-pas-rj2009-8440 | fichas/pas/2010-04.md |
-| art. 19, parágrafo único, inciso II | pas | RJ2010/11351 | 2012-10-16 | condenacao | cvm-pas-rj2010-11351 | fichas/pas/2012-02.md |
-| art. 19, parágrafo único, inciso II | pas | RJ2010/11353 | 2012-10-16 | condenacao | cvm-pas-rj2010-11353 | fichas/pas/2012-02.md |
-| art. 19, parágrafo único, inciso II | pas | RJ2010/11350 | 2013-04-02 | parcial | cvm-pas-rj2010-11350 | fichas/pas/2013-02.md |
-| art. 19, parágrafo único, inciso III | acordao-crsfn | RJ2005/2933 | 2008-12-10 | parcial | crsfn-9610 | fichas/crsfn/2008-06.md |
-| art. 19, parágrafo único, inciso III | acordao-crsfn | RJ-2005-5936 | 2009-11-16 | condenacao | crsfn-11055 | fichas/crsfn/2009-06.md |
-| art. 19, parágrafo único, inciso III | acordao-crsfn | RJ-2005-3711 | 2009-11-16 | absolvicao | crsfn-9427 | fichas/crsfn/2009-06.md |
-| art. 19, parágrafo único, inciso III | acordao-crsfn | RJ-2005-7244 | 2010-04-29 | parcial | crsfn-10554 | fichas/crsfn/2010-02.md |
+| art. 19, parágrafo único, inciso II | pas | RJ2009/1504 | 2010-08-17 | parcial | cvm-pas-rj2009-1504 | fichas/pas/2010-05.md |
+| art. 19, parágrafo único, inciso II | pas | RJ2009/2146 | 2010-07-20 | condenacao | cvm-pas-rj2009-2146 | fichas/pas/2010-05.md |
+| art. 19, parágrafo único, inciso II | pas | RJ2009/8440 | 2010-10-26 | parcial | cvm-pas-rj2009-8440 | fichas/pas/2010-08.md |
+| art. 19, parágrafo único, inciso II | pas | RJ2010/11351 | 2012-10-16 | condenacao | cvm-pas-rj2010-11351 | fichas/pas/2012-04.md |
+| art. 19, parágrafo único, inciso II | pas | RJ2010/11353 | 2012-10-16 | condenacao | cvm-pas-rj2010-11353 | fichas/pas/2012-04.md |
+| art. 19, parágrafo único, inciso II | pas | RJ2010/11350 | 2013-04-02 | parcial | cvm-pas-rj2010-11350 | fichas/pas/2013-03.md |
+| art. 19, parágrafo único, inciso III | acordao-crsfn | RJ2005/2933 | 2008-12-10 | parcial | crsfn-9610 | fichas/crsfn/2008-07.md |
+| art. 19, parágrafo único, inciso III | acordao-crsfn | RJ-2005-5936 | 2009-11-16 | condenacao | crsfn-11055 | fichas/crsfn/2009-07.md |
+| art. 19, parágrafo único, inciso III | acordao-crsfn | RJ-2005-3711 | 2009-11-16 | absolvicao | crsfn-9427 | fichas/crsfn/2009-07.md |
+| art. 19, parágrafo único, inciso III | acordao-crsfn | RJ-2005-7244 | 2010-04-29 | parcial | crsfn-10554 | fichas/crsfn/2010-03.md |
 | art. 19, parágrafo único, inciso III | acordao-crsfn | RJ-2006-1853 | 2010-04-29 | parcial | crsfn-11215 | fichas/crsfn/2010-03.md |
-| art. 19, parágrafo único, inciso III | acordao-crsfn | RJ-2006-1266 | 2010-04-29 | condenacao | crsfn-11324 | fichas/crsfn/2010-03.md |
-| art. 19, parágrafo único, inciso III | acordao-crsfn | RJ-2005-4346 | 2010-06-08 | parcial | crsfn-11428 | fichas/crsfn/2010-04.md |
+| art. 19, parágrafo único, inciso III | acordao-crsfn | RJ-2006-1266 | 2010-04-29 | condenacao | crsfn-11324 | fichas/crsfn/2010-04.md |
+| art. 19, parágrafo único, inciso III | acordao-crsfn | RJ-2005-4346 | 2010-06-08 | parcial | crsfn-11428 | fichas/crsfn/2010-05.md |
 | art. 19, parágrafo único, inciso III | acordao-crsfn | RJ-2005-4990 | 2010-04-29 | absolvicao | crsfn-11826 | fichas/crsfn/2010-04.md |
 | art. 19, parágrafo único, inciso III | acordao-crsfn | RJ-2005-4410 | 2011-11-09 | condenacao | crsfn-11440 | fichas/crsfn/2011-04.md |
 | art. 19, parágrafo único, inciso III | acordao-crsfn | 05/8528 | 2011-05-31 | parcial | crsfn-11646 | fichas/crsfn/2011-02.md |
 | art. 19, parágrafo único, inciso III | termo-compromisso | RJ2005/8714 | 2006-10-03 | rejeitado | cvm-col-20061003-d06 | fichas/tc/2006-05.md |
-| art. 19, parágrafo único, inciso III | pas | RJ2005/3711 | 2005-12-14 | parcial | cvm-pas-rj2005-3711 | fichas/pas/2005-10.md |
-| art. 19, parágrafo único, inciso III | pas | RJ2005/4346 | 2006-11-07 | parcial | cvm-pas-rj2005-4346 | fichas/pas/2006-12.md |
-| art. 19, parágrafo único, inciso III | pas | RJ2005/4990 | 2006-10-31 | parcial | cvm-pas-rj2005-4990 | fichas/pas/2006-11.md |
-| art. 19, parágrafo único, inciso III | pas | RJ2005/5041 | 2006-05-04 | parcial | cvm-pas-rj2005-5041 | fichas/pas/2006-04.md |
-| art. 19, parágrafo único, inciso III | pas | RJ2005/5936 | 2006-05-04 | parcial | cvm-pas-rj2005-5936 | fichas/pas/2006-04.md |
-| art. 19, parágrafo único, inciso III | pas | RJ2006/1267 | 2006-06-14 | parcial | cvm-pas-rj2006-1267 | fichas/pas/2006-06.md |
-| art. 19, parágrafo único, inciso III | pas | RJ2006/1559 | 2006-09-26 | parcial | cvm-pas-rj2006-1559 | fichas/pas/2006-09.md |
-| art. 19, parágrafo único, inciso III | pas | RJ2006/1622 | 2006-08-01 | parcial | cvm-pas-rj2006-1622 | fichas/pas/2006-07.md |
-| art. 19, parágrafo único, inciso III | pas | RJ2006/1623 | 2006-08-01 | parcial | cvm-pas-rj2006-1623 | fichas/pas/2006-07.md |
-| art. 19, parágrafo único, inciso III | pas | RJ2006/1853 | 2006-08-22 | parcial | cvm-pas-rj2006-1853 | fichas/pas/2006-08.md |
-| art. 19, parágrafo único, inciso III | pas | RJ2005/8604 | 2007-04-04 | condenacao | cvm-pas-rj2005-8604 | fichas/pas/2007-02.md |
-| art. 19, parágrafo único, inciso III | pas | RJ2007/8150 | 2009-09-01 | condenacao | cvm-pas-rj2007-8150 | fichas/pas/2009-04.md |
-| art. 19, parágrafo único, inciso III | pas | RJ2011/7939 | 2012-12-06 | condenacao | cvm-pas-rj2011-7939 | fichas/pas/2012-03.md |
+| art. 19, parágrafo único, inciso III | pas | RJ2005/3711 | 2005-12-14 | parcial | cvm-pas-rj2005-3711 | fichas/pas/2005-20.md |
+| art. 19, parágrafo único, inciso III | pas | RJ2005/4346 | 2006-11-07 | parcial | cvm-pas-rj2005-4346 | fichas/pas/2006-23.md |
+| art. 19, parágrafo único, inciso III | pas | RJ2005/4990 | 2006-10-31 | parcial | cvm-pas-rj2005-4990 | fichas/pas/2006-22.md |
+| art. 19, parágrafo único, inciso III | pas | RJ2005/5041 | 2006-05-04 | parcial | cvm-pas-rj2005-5041 | fichas/pas/2006-08.md |
+| art. 19, parágrafo único, inciso III | pas | RJ2005/5936 | 2006-05-04 | parcial | cvm-pas-rj2005-5936 | fichas/pas/2006-08.md |
+| art. 19, parágrafo único, inciso III | pas | RJ2006/1267 | 2006-06-14 | parcial | cvm-pas-rj2006-1267 | fichas/pas/2006-12.md |
+| art. 19, parágrafo único, inciso III | pas | RJ2006/1559 | 2006-09-26 | parcial | cvm-pas-rj2006-1559 | fichas/pas/2006-19.md |
+| art. 19, parágrafo único, inciso III | pas | RJ2006/1622 | 2006-08-01 | parcial | cvm-pas-rj2006-1622 | fichas/pas/2006-14.md |
+| art. 19, parágrafo único, inciso III | pas | RJ2006/1623 | 2006-08-01 | parcial | cvm-pas-rj2006-1623 | fichas/pas/2006-15.md |
+| art. 19, parágrafo único, inciso III | pas | RJ2006/1853 | 2006-08-22 | parcial | cvm-pas-rj2006-1853 | fichas/pas/2006-16.md |
+| art. 19, parágrafo único, inciso III | pas | RJ2005/8604 | 2007-04-04 | condenacao | cvm-pas-rj2005-8604 | fichas/pas/2007-04.md |
+| art. 19, parágrafo único, inciso III | pas | RJ2007/8150 | 2009-09-01 | condenacao | cvm-pas-rj2007-8150 | fichas/pas/2009-08.md |
+| art. 19, parágrafo único, inciso III | pas | RJ2011/7939 | 2012-12-06 | condenacao | cvm-pas-rj2011-7939 | fichas/pas/2012-06.md |
 
 ## art. 20
 
@@ -2632,7 +2632,7 @@ Este subíndice tem 2837 linhas e uma leitura única é cortada em silêncio per
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 26, § 2º | pas | RJ2001/11808 | 2007-10-02 | parcial | cvm-pas-rj2001-11808 | fichas/pas/2007-07.md |
+| art. 26, § 2º | pas | RJ2001/11808 | 2007-10-02 | parcial | cvm-pas-rj2001-11808 | fichas/pas/2007-13.md |
 
 ## art. 36
 
@@ -2650,52 +2650,52 @@ Este subíndice tem 2837 linhas e uma leitura única é cortada em silêncio per
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 132 | pas | RJ2008/6250 | 2009-10-20 | parcial | cvm-pas-rj2008-6250 | fichas/pas/2009-05.md |
-| art. 132 | pas | RJ2010/11350 | 2013-04-02 | parcial | cvm-pas-rj2010-11350 | fichas/pas/2013-02.md |
+| art. 132 | pas | RJ2008/6250 | 2009-10-20 | parcial | cvm-pas-rj2008-6250 | fichas/pas/2009-09.md |
+| art. 132 | pas | RJ2010/11350 | 2013-04-02 | parcial | cvm-pas-rj2010-11350 | fichas/pas/2013-03.md |
 
 ## art. 133
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 133 | pas | RJ2009/1504 | 2010-08-17 | parcial | cvm-pas-rj2009-1504 | fichas/pas/2010-03.md |
+| art. 133 | pas | RJ2009/1504 | 2010-08-17 | parcial | cvm-pas-rj2009-1504 | fichas/pas/2010-05.md |
 
 ## art. 161
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 161 | pas | RJ2006/5136 | 2008-11-04 | condenacao | cvm-pas-rj2006-5136 | fichas/pas/2008-04.md |
+| art. 161 | pas | RJ2006/5136 | 2008-11-04 | condenacao | cvm-pas-rj2006-5136 | fichas/pas/2008-08.md |
 
 ## art. 163
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 163 | acordao-crsfn | RJ-2005-5936 | 2009-11-16 | condenacao | crsfn-11055 | fichas/crsfn/2009-06.md |
-| art. 163 | pas | RJ2005/4346 | 2006-11-07 | parcial | cvm-pas-rj2005-4346 | fichas/pas/2006-12.md |
-| art. 163 | pas | RJ2005/5041 | 2006-05-04 | parcial | cvm-pas-rj2005-5041 | fichas/pas/2006-04.md |
-| art. 163 | pas | RJ2005/5936 | 2006-05-04 | parcial | cvm-pas-rj2005-5936 | fichas/pas/2006-04.md |
-| art. 163 | pas | RJ2005/8578 | 2006-05-04 | parcial | cvm-pas-rj2005-8578 | fichas/pas/2006-04.md |
-| art. 163 | pas | RJ2006/1267 | 2006-06-14 | parcial | cvm-pas-rj2006-1267 | fichas/pas/2006-06.md |
-| art. 163 | pas | RJ2006/1559 | 2006-09-26 | parcial | cvm-pas-rj2006-1559 | fichas/pas/2006-09.md |
-| art. 163 | pas | RJ2008/6250 | 2009-10-20 | parcial | cvm-pas-rj2008-6250 | fichas/pas/2009-05.md |
+| art. 163 | acordao-crsfn | RJ-2005-5936 | 2009-11-16 | condenacao | crsfn-11055 | fichas/crsfn/2009-07.md |
+| art. 163 | pas | RJ2005/4346 | 2006-11-07 | parcial | cvm-pas-rj2005-4346 | fichas/pas/2006-23.md |
+| art. 163 | pas | RJ2005/5041 | 2006-05-04 | parcial | cvm-pas-rj2005-5041 | fichas/pas/2006-08.md |
+| art. 163 | pas | RJ2005/5936 | 2006-05-04 | parcial | cvm-pas-rj2005-5936 | fichas/pas/2006-08.md |
+| art. 163 | pas | RJ2005/8578 | 2006-05-04 | parcial | cvm-pas-rj2005-8578 | fichas/pas/2006-08.md |
+| art. 163 | pas | RJ2006/1267 | 2006-06-14 | parcial | cvm-pas-rj2006-1267 | fichas/pas/2006-12.md |
+| art. 163 | pas | RJ2006/1559 | 2006-09-26 | parcial | cvm-pas-rj2006-1559 | fichas/pas/2006-19.md |
+| art. 163 | pas | RJ2008/6250 | 2009-10-20 | parcial | cvm-pas-rj2008-6250 | fichas/pas/2009-09.md |
 
 ## art. 171
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 171 | acordao-crsfn | RJ-2001-7749 | 2009-06-29 | parcial | crsfn-7358 | fichas/crsfn/2009-03.md |
+| art. 171 | acordao-crsfn | RJ-2001-7749 | 2009-06-29 | parcial | crsfn-7358 | fichas/crsfn/2009-04.md |
 
 ## art. 172
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 172 | pas | 15/2006 | 2008-09-03 | condenacao | cvm-pas-15-2006 | fichas/pas/2008-03.md |
-| art. 172 | pas | RJ2006/5136 | 2008-11-04 | condenacao | cvm-pas-rj2006-5136 | fichas/pas/2008-04.md |
+| art. 172 | pas | 15/2006 | 2008-09-03 | condenacao | cvm-pas-15-2006 | fichas/pas/2008-06.md |
+| art. 172 | pas | RJ2006/5136 | 2008-11-04 | condenacao | cvm-pas-rj2006-5136 | fichas/pas/2008-08.md |
 
 ## art. 174
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 174 | pas | RJ2008/6250 | 2009-10-20 | parcial | cvm-pas-rj2008-6250 | fichas/pas/2009-05.md |
+| art. 174 | pas | RJ2008/6250 | 2009-10-20 | parcial | cvm-pas-rj2008-6250 | fichas/pas/2009-09.md |
 
 ## art. 184
 
@@ -2707,7 +2707,7 @@ Este subíndice tem 2837 linhas e uma leitura única é cortada em silêncio per
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 225 | pas | RJ2006/4511 | 2009-05-19 | condenacao | cvm-pas-rj2006-4511 | fichas/pas/2009-02.md |
+| art. 225 | pas | RJ2006/4511 | 2009-05-19 | condenacao | cvm-pas-rj2006-4511 | fichas/pas/2009-04.md |
 
 ## Citada sem dispositivo identificado
 
@@ -2716,14 +2716,14 @@ Este subíndice tem 2837 linhas e uma leitura única é cortada em silêncio per
 | decisao-colegiado | 19957.000562/2025-49 | 2025-07-15 | deferido | cvm-col-20250715-d3307 | fichas/colegiado/2025-06.md |
 | termo-compromisso | 19957.007369/2023-77 | 2024-04-16 | rejeitado | cvm-col-20240416-d3049 | fichas/tc/2024-02.md |
 | termo-compromisso | 19957.005456/2021-28 | 2023-04-11 | rejeitado | cvm-col-20230411-d2829 | fichas/tc/2023-03.md |
-| acordao-crsfn | RJ2017/3558 | 2021-07-13 | condenacao | crsfn-10372-100384-2018-22 | fichas/crsfn/2021-02.md |
-| acordao-crsfn | SP2018/40 | 2020-02-11 | condenacao | crsfn-10372-100434-2018-71 | fichas/crsfn/2020-01.md |
+| acordao-crsfn | RJ2017/3558 | 2021-07-13 | condenacao | crsfn-10372-100384-2018-22 | fichas/crsfn/2021-03.md |
+| acordao-crsfn | SP2018/40 | 2020-02-11 | condenacao | crsfn-10372-100434-2018-71 | fichas/crsfn/2020-02.md |
 | termo-compromisso | 19957.008434/2018-14 | 2019-07-30 | aceito | cvm-col-20190730-d1479 | fichas/tc/2019-04.md |
-| pas | RJ2015/13326 | 2019-07-02 | parcial | cvm-pas-rj2015-13326 | fichas/pas/2019-06.md |
-| pas | RJ2015/1954 | 2019-05-27 | absolvicao | cvm-pas-rj2015-1954 | fichas/pas/2019-04.md |
-| acordao-crsfn | RJ2013/8695 | 2018-12-12 | parcial | crsfn-14095 | fichas/crsfn/2018-08.md |
-| pas | RJ2017/1582 | 2018-06-19 | condenacao | cvm-pas-rj2017-1582 | fichas/pas/2018-04.md |
-| acordao-crsfn | RJ2013/9463 | 2017-11-21 | parcial | crsfn-14089 | fichas/crsfn/2017-08.md |
+| pas | RJ2015/13326 | 2019-07-02 | parcial | cvm-pas-rj2015-13326 | fichas/pas/2019-11.md |
+| pas | RJ2015/1954 | 2019-05-27 | absolvicao | cvm-pas-rj2015-1954 | fichas/pas/2019-07.md |
+| acordao-crsfn | RJ2013/8695 | 2018-12-12 | parcial | crsfn-14095 | fichas/crsfn/2018-10.md |
+| pas | RJ2017/1582 | 2018-06-19 | condenacao | cvm-pas-rj2017-1582 | fichas/pas/2018-09.md |
+| acordao-crsfn | RJ2013/9463 | 2017-11-21 | parcial | crsfn-14089 | fichas/crsfn/2017-14.md |
 | decisao-colegiado | RJ2012/3454 | 2015-08-04 | parcial | cvm-col-20150804-d8926 | fichas/colegiado/2015-14.md |
 | decisao-colegiado | RJ2014/13742 | 2015-04-07 | nao-provido | cvm-col-20150407-d9481 | fichas/colegiado/2015-06.md |
 | decisao-colegiado | RJ2014/13743 | 2015-04-07 | nao-provido | cvm-col-20150407-d9457 | fichas/colegiado/2015-06.md |
@@ -2731,7 +2731,7 @@ Este subíndice tem 2837 linhas e uma leitura única é cortada em silêncio per
 | decisao-colegiado | RJ2014/13738 | 2015-04-07 | nao-provido | cvm-col-20150407-d9455 | fichas/colegiado/2015-06.md |
 | decisao-colegiado | RJ2012/6615 | 2014-07-15 | outro | cvm-col-20140715-d06 | fichas/colegiado/2014-13.md |
 | decisao-colegiado | RJ2011/7381 | 2013-12-10 | parcial | cvm-col-20131210-d06 | fichas/colegiado/2013-23.md |
-| acordao-crsfn | RJ-2007-10843 | 2013-10-30 | parcial | crsfn-12446 | fichas/crsfn/2013-04.md |
+| acordao-crsfn | RJ-2007-10843 | 2013-10-30 | parcial | crsfn-12446 | fichas/crsfn/2013-05.md |
 | decisao-colegiado | RJ2012/3663 | 2013-07-09 | nao-provido | cvm-col-20130709-d06 | fichas/colegiado/2013-13.md |
 | decisao-colegiado | 681/2012; RJ2012/5159 | 2013-05-07 | nao-provido | cvm-col-20130507-d03 | fichas/colegiado/2013-10.md |
 | termo-compromisso | RJ2012/4767 | 2012-10-02 | aceito | cvm-col-20121002-d01 | fichas/tc/2012-05.md |
@@ -2742,9 +2742,9 @@ Este subíndice tem 2837 linhas e uma leitura única é cortada em silêncio per
 | decisao-colegiado | RJ2010/14969 | 2010-12-07 | nao-provido | cvm-col-20101207-d18 | fichas/colegiado/2010-27.md |
 | decisao-colegiado | RJ2010/14968 | 2010-12-07 | nao-provido | cvm-col-20101207-d17 | fichas/colegiado/2010-27.md |
 | decisao-colegiado | RJ2010/14967 | 2010-12-07 | nao-provido | cvm-col-20101207-d16 | fichas/colegiado/2010-27.md |
-| acordao-crsfn | RJ-2007-4107 | 2010-10-27 | outro | crsfn-12040 | fichas/crsfn/2010-08.md |
-| acordao-crsfn | 13/01 | 2010-10-27 | absolvicao | crsfn-11412 | fichas/crsfn/2010-08.md |
-| acordao-crsfn | 01/03 | 2010-09-14 | absolvicao | crsfn-11414 | fichas/crsfn/2010-07.md |
+| acordao-crsfn | RJ-2007-4107 | 2010-10-27 | outro | crsfn-12040 | fichas/crsfn/2010-10.md |
+| acordao-crsfn | 13/01 | 2010-10-27 | absolvicao | crsfn-11412 | fichas/crsfn/2010-09.md |
+| acordao-crsfn | 01/03 | 2010-09-14 | absolvicao | crsfn-11414 | fichas/crsfn/2010-08.md |
 | decisao-colegiado | RJ2003/1765 | 2009-11-18 | outro | cvm-col-20091118-d01 | fichas/colegiado/2009-21.md |
 | decisao-colegiado | RJ2009/10759 | 2009-11-17 | nao-provido | cvm-col-20091117-d28 | fichas/colegiado/2009-20.md |
 | decisao-colegiado | RJ2009/10758 | 2009-11-17 | nao-provido | cvm-col-20091117-d27 | fichas/colegiado/2009-20.md |
@@ -2776,10 +2776,10 @@ Este subíndice tem 2837 linhas e uma leitura única é cortada em silêncio per
 | decisao-colegiado | RJ2007/9346 | 2008-03-18 | outro | cvm-col-20080318-d02 | fichas/colegiado/2008-07.md |
 | decisao-colegiado | RJ2008/0440 | 2008-01-29 | nao-provido | cvm-col-20080129-d13 | fichas/colegiado/2008-02.md |
 | decisao-colegiado | RJ2008/0326 | 2008-01-29 | nao-provido | cvm-col-20080129-d12 | fichas/colegiado/2008-02.md |
-| pas | RJ2007/4107 | 2008-01-23 | condenacao | cvm-pas-rj2007-4107 | fichas/pas/2008-01.md |
+| pas | RJ2007/4107 | 2008-01-23 | condenacao | cvm-pas-rj2007-4107 | fichas/pas/2008-02.md |
 | decisao-colegiado | RJ2007/14323 | 2008-01-08 | nao-provido | cvm-col-20080108-d05 | fichas/colegiado/2008-01.md |
 | decisao-colegiado | RJ2007/8887 | 2007-08-21 | nao-provido | cvm-col-20070821-d12 | fichas/colegiado/2007-15.md |
-| pas | RJ2007/1079 | 2007-07-10 | parcial | cvm-pas-rj2007-1079 | fichas/pas/2007-05.md |
+| pas | RJ2007/1079 | 2007-07-10 | parcial | cvm-pas-rj2007-1079 | fichas/pas/2007-09.md |
 | decisao-colegiado | RJ2006/5905 | 2007-06-28 | outro | cvm-col-20070628-d04 | fichas/colegiado/2007-10.md |
 | decisao-colegiado | RJ2007/1739; RJ2007/1741 | 2007-05-08 | outro | cvm-col-20070508-d07 | fichas/colegiado/2007-07.md |
 | decisao-colegiado | — | 2007-04-18 | deferido | cvm-col-20070418-d01 | fichas/colegiado/2007-06.md |
@@ -2807,15 +2807,15 @@ Este subíndice tem 2837 linhas e uma leitura única é cortada em silêncio per
 | decisao-colegiado | RJ2005/0382 | 2005-02-10 | nao-provido | cvm-col-20050210-d04 | fichas/colegiado/2005-03.md |
 | decisao-colegiado | RJ2004/6511 | 2004-12-14 | parcial | cvm-col-20041214-d05 | fichas/colegiado/2004-16.md |
 | decisao-colegiado | RJ2004/3487 | 2004-10-05 | indeferido | cvm-col-20041005-d01 | fichas/colegiado/2004-12.md |
-| pas | RJ2002/7635 | 2004-09-09 | condenacao | cvm-pas-rj2002-7635 | fichas/pas/2004-05.md |
+| pas | RJ2002/7635 | 2004-09-09 | condenacao | cvm-pas-rj2002-7635 | fichas/pas/2004-10.md |
 | decisao-colegiado | RJ2003/0504; RJ2003/6655 | 2004-08-05 | nao-provido | cvm-col-20040805-d08 | fichas/colegiado/2004-09.md |
 | decisao-colegiado | RJ2004/2377 | 2004-07-13 | nao-provido | cvm-col-20040713-d14 | fichas/colegiado/2004-09.md |
 | decisao-colegiado | RJ2004/2439 | 2004-05-11 | nao-provido | cvm-col-20040511-d06 | fichas/colegiado/2004-05.md |
 | decisao-colegiado | RJ2004/2330 | 2004-05-11 | nao-provido | cvm-col-20040511-d05 | fichas/colegiado/2004-05.md |
 | decisao-colegiado | RJ2003/3966 | 2003-05-20 | parcial | cvm-col-20030520-d09 | fichas/colegiado/2003-06.md |
 | decisao-colegiado | SP2000/0240 | 2003-01-08 | outro | cvm-col-20030108-d09 | fichas/colegiado/2003-01.md |
-| pas | 16/2000 | 2002-12-05 | parcial | cvm-pas-16-2000 | fichas/pas/2002-03.md |
-| pas | RJ2001/8280 | 2002-11-14 | parcial | cvm-pas-rj2001-8280 | fichas/pas/2002-03.md |
+| pas | 16/2000 | 2002-12-05 | parcial | cvm-pas-16-2000 | fichas/pas/2002-07.md |
+| pas | RJ2001/8280 | 2002-11-14 | parcial | cvm-pas-rj2001-8280 | fichas/pas/2002-07.md |
 | decisao-colegiado | RJ2002/4820 | 2002-10-10 | provido | cvm-col-20021010-d07 | fichas/colegiado/2002-23.md |
 | decisao-colegiado | RJ2002/3243 | 2002-07-09 | nao-provido | cvm-col-20020709-d04 | fichas/colegiado/2002-16.md |
 | termo-compromisso | IA19/2000 | 2002-05-29 | aceito | cvm-col-20020529-d3018 | fichas/tc/2002.md |
@@ -2824,7 +2824,7 @@ Este subíndice tem 2837 linhas e uma leitura única é cortada em silêncio per
 | acordao-crsfn | RJ99/1948 | 2002-03-25 | absolvicao | crsfn-3757 | fichas/crsfn/2002-01.md |
 | decisao-colegiado | RJ2001/8002 | 2002-03-19 | nao-provido | cvm-col-20020319-d17 | fichas/colegiado/2002-06.md |
 | acordao-crsfn | 99/1887 | 2001-06-20 | parcial | crsfn-3567 | fichas/crsfn/2001-02.md |
-| acordao-crsfn | RJ99/1949 | 2001-04-27 | parcial | crsfn-3182 | fichas/crsfn/2001-01.md |
+| acordao-crsfn | RJ99/1949 | 2001-04-27 | parcial | crsfn-3182 | fichas/crsfn/2001-02.md |
 | acordao-crsfn | RJ99/1943 | 2001-01-30 | absolvicao | crsfn-3148 | fichas/crsfn/2001-01.md |
 | acordao-crsfn | RJ98/4968 | 2000-12-15 | condenacao | crsfn-3127 | fichas/crsfn/2000-07.md |
 | acordao-crsfn | 99/1945 | 2000-11-07 | absolvicao | crsfn-3171 | fichas/crsfn/2000-06.md |

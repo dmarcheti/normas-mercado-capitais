@@ -129,6 +129,6 @@ Norma: fora do acervo.
 | decisao-colegiado | 19957.010008/2019-21 | 2020-03-18 | outro | cvm-col-20200318-d2376 | fichas/colegiado/2020-05.md |
 | decisao-colegiado | 19957.010008/2019-21 | 2019-11-05 | outro | cvm-col-20191105-d2376 | fichas/colegiado/2019-18.md |
 | decisao-colegiado | — | 2006-05-26 | outro | cvm-col-20060526-d06 | fichas/colegiado/2006-08.md |
-| acordao-crsfn | 12/00 | 2002-12-11 | parcial | crsfn-4122 | fichas/crsfn/2002-03.md |
+| acordao-crsfn | 12/00 | 2002-12-11 | parcial | crsfn-4122 | fichas/crsfn/2002-04.md |
 
 Fim do subíndice.

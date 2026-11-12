@@ -20,7 +20,7 @@ Norma: fora do acervo.
 | decisao-colegiado | 19957.006926/2022-51 | 2022-10-25 | deferido | cvm-col-20221025-d2707 | fichas/colegiado/2022-14.md |
 | decisao-colegiado | 19957.005755/2022-43 | 2022-07-26 | deferido | cvm-col-20220726-d2659 | fichas/colegiado/2022-12.md |
 | decisao-colegiado | 19957.005411/2019-39 | 2021-06-01 | indeferido | cvm-col-20210601-d1864 | fichas/colegiado/2021-09.md |
-| pas | 19957.008274/2018-11; RJ2018/5469 | 2020-06-09 | condenacao | cvm-pas-19957-008274-2018-11 | fichas/pas/2020-02.md |
+| pas | 19957.008274/2018-11; RJ2018/5469 | 2020-06-09 | condenacao | cvm-pas-19957-008274-2018-11 | fichas/pas/2020-04.md |
 | decisao-colegiado | 19957.010983/2017-78 | 2020-04-14 | nao-provido | cvm-col-20200414-d1776 | fichas/colegiado/2020-06.md |
 | decisao-colegiado | 19957.001012/2019-07 | 2019-06-18 | deferido | cvm-col-20190618-d1356 | fichas/colegiado/2019-09.md |
 | decisao-colegiado | 19957.007811/2018-06 | 2019-04-02 | — | cvm-col-20190402-d1360 | fichas/colegiado/2019-05.md |

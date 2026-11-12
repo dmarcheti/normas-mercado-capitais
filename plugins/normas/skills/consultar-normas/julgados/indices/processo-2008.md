@@ -7,148 +7,148 @@ Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho rel
 
 Número normalizado: NUP `99999-999999-AAAA-DD`; processo antigo `rj2015-13791` (sigla em minúsculas, ano, número com 4 dígitos); numeração curta dos PAS `NN-AAAA`. Procure pelo número normalizado ou pela forma do julgado. Dois julgados do mesmo processo (um PAS e o termo de compromisso ou o acórdão do CRSFN dele) aparecem com o mesmo número.
 
-| Processo (normalizado) | Forma no julgado | Tipo | Data | Id | Ficha |
-|---|---|---|---|---|---|
-| 02-2008 | 02/2008 | termo-compromisso | 2010-04-27 | cvm-col-20100427-d08 | fichas/tc/2010-02.md |
-| 02-2008 | 02/2008 | termo-compromisso | 2012-04-24 | cvm-tc-02-2008-20120424 | fichas/tc/2012-03.md |
-| 02-2008 | 02/2008 | pas | 2013-03-05 | cvm-pas-02-2008 | fichas/pas/2013-01.md |
-| 02-2008 | 02/2008 | acordao-crsfn | 2020-03-11 | crsfn-edcl-13703 | fichas/crsfn/2020-02.md |
-| 03-2008 | 03/2008 | pas | 2010-03-23 | cvm-pas-03-2008 | fichas/pas/2010-01.md |
-| 05-2008 | 05/2008 | termo-compromisso | 2011-05-10 | cvm-col-20110510-d01-r2 | fichas/tc/2011-02.md |
-| 05-2008 | 05/2008 | termo-compromisso | 2011-11-08 | cvm-col-20111108-d15 | fichas/tc/2011-05.md |
-| 05-2008 | 05/2008 | termo-compromisso | 2012-04-17 | cvm-col-20120417-d01 | fichas/tc/2012-02.md |
-| 05-2008 | 05/2008 | pas | 2012-12-12 | cvm-pas-05-2008 | fichas/pas/2012-03.md |
-| 05-2008 | 05/2008 | acordao-crsfn | 2017-02-07 | crsfn-13727 | fichas/crsfn/2017-01.md |
-| 06-2008 | 06/2008 | termo-compromisso | 2009-07-28 | cvm-col-20090728-d13 | fichas/tc/2009-05.md |
-| 07-2008 | 07/2008 | termo-compromisso | 2009-09-15 | cvm-col-20090915-d02 | fichas/tc/2009-06.md |
-| 09-2008 | 09/2008 | termo-compromisso | 2009-12-15 | cvm-col-20091215-d04 | fichas/tc/2009-09.md |
-| 10-2008 | 10/2008 | pas | 2010-11-23 | cvm-pas-10-2008 | fichas/pas/2010-04.md |
-| 11-2008 | 11/2008 | pas | 2012-08-21 | cvm-pas-11-2008 | fichas/pas/2012-02.md |
-| 14-2008 | 14/2008 | pas | 2011-08-09 | cvm-pas-14-2008 | fichas/pas/2011-01.md |
-| 14-2008 | 14/2008 | acordao-crsfn | 2015-07-28 | crsfn-13420 | fichas/crsfn/2015-03.md |
-| 15-2008 | 15/2008 | pas | 2012-02-28 | cvm-pas-15-2008 | fichas/pas/2012-01.md |
-| 15-2008 | 15/2008 | acordao-crsfn | 2015-08-25 | crsfn-13411 | fichas/crsfn/2015-04.md |
-| 16-2008 | 16/2008 | termo-compromisso | 2010-09-09 | cvm-col-20100909-d07 | fichas/tc/2010-04.md |
-| 16-2008 | 16/2008 | termo-compromisso | 2012-09-04 | cvm-col-20120904-d11 | fichas/tc/2012-05.md |
-| 16-2008 | 16/2008 | termo-compromisso | 2013-07-09 | cvm-col-20130709-d02 | fichas/tc/2013-03.md |
-| 18-2008 | 18/2008 | termo-compromisso | 2010-09-09 | cvm-col-20100909-d06 | fichas/tc/2010-04.md |
-| 18-2008 | 18/2008 | pas | 2010-12-14 | cvm-pas-18-2008 | fichas/pas/2010-05.md |
-| 18-2008 | 18/2008 | acordao-crsfn | 2015-08-25 | crsfn-13310 | fichas/crsfn/2015-04.md |
-| ia2008-0002 | IA2008/02 | acordao-crsfn | 2018-08-21 | crsfn-13703 | fichas/crsfn/2018-05.md |
-| ia2008-0010 | IA-2008-10 | acordao-crsfn | 2014-12-09 | crsfn-13283 | fichas/crsfn/2014-07.md |
-| rj2008-0236 | RJ2008/0236 | termo-compromisso | 2008-06-10 | cvm-col-20080610-d03 | fichas/tc/2008-04.md |
-| rj2008-0236 | RJ-2008-0236 | acordao-crsfn | 2010-04-29 | crsfn-12571 | fichas/crsfn/2010-04.md |
-| rj2008-0900 | RJ2008/0900 | termo-compromisso | 2008-10-07 | cvm-col-20081007-d03 | fichas/tc/2008-07.md |
-| rj2008-0970 | RJ2008/0970 | pas | 2008-11-04 | cvm-pas-rj2008-0970 | fichas/pas/2008-04.md |
-| rj2008-1594 | RJ2008/1594 | termo-compromisso | 2008-08-12 | cvm-col-20080812-d07 | fichas/tc/2008-06.md |
-| rj2008-1594 | RJ2008/1594 | termo-compromisso | 2008-12-16 | cvm-col-20081216-d02 | fichas/tc/2008-08.md |
-| rj2008-1766 | RJ2008/1766 | pas | 2009-06-16 | cvm-pas-rj2008-1766 | fichas/pas/2009-03.md |
-| rj2008-1766 | RJ-2008-1766 | acordao-crsfn | 2014-03-18 | crsfn-12662 | fichas/crsfn/2014-02.md |
-| rj2008-1815 | RJ2008/1815 | pas | 2009-04-28 | cvm-pas-rj2008-1815 | fichas/pas/2009-02.md |
-| rj2008-1815 | RJ-2008-1815 | acordao-crsfn | 2011-11-09 | crsfn-12709 | fichas/crsfn/2011-04.md |
-| rj2008-2209 | RJ2008/2209 | pas | 2009-08-25 | cvm-pas-rj2008-2209 | fichas/pas/2009-04.md |
-| rj2008-2209 | RJ-2008-2209 | acordao-crsfn | 2014-02-18 | crsfn-12824 | fichas/crsfn/2014-01.md |
-| rj2008-2282 | RJ-2008-2282 | acordao-crsfn | 2011-05-31 | crsfn-12078 | fichas/crsfn/2011-02.md |
-| rj2008-2334 | RJ2008/2334 | termo-compromisso | 2009-05-05 | cvm-col-20090505-d02 | fichas/tc/2009-03.md |
-| rj2008-2334 | RJ2008/2334 | termo-compromisso | 2009-07-28 | cvm-col-20090728-d09 | fichas/tc/2009-05.md |
-| rj2008-2468 | RJ2008/2468 | pas | 2009-03-31 | cvm-pas-rj2008-2468 | fichas/pas/2009-01.md |
-| rj2008-2468 | RJ-2008-2468 | acordao-crsfn | 2012-11-26 | crsfn-12521 | fichas/crsfn/2012-04.md |
-| rj2008-2530 | RJ2008/2530 | pas | 2008-12-02 | cvm-pas-rj2008-2530 | fichas/pas/2008-05.md |
-| rj2008-2569 | RJ2008/2569 | termo-compromisso | 2008-09-09 | cvm-col-20080909-d03 | fichas/tc/2008-06.md |
-| rj2008-2569 | RJ2008/2569 | pas | 2010-11-30 | cvm-pas-rj2008-2569 | fichas/pas/2010-05.md |
-| rj2008-2569 | RJ-2008-2569 | acordao-crsfn | 2013-07-30 | crsfn-13275 | fichas/crsfn/2013-03.md |
-| rj2008-2570 | RJ2008/2570 | pas | 2009-05-12 | cvm-pas-rj2008-2570 | fichas/pas/2009-02.md |
-| rj2008-2712 | RJ2008/2712 | termo-compromisso | 2008-11-04 | cvm-col-20081104-d06 | fichas/tc/2008-07.md |
-| rj2008-2916 | RJ2008/2916 | pas | 2010-03-23 | cvm-pas-rj2008-2916 | fichas/pas/2010-01.md |
-| rj2008-3539 | RJ2008/3539 | termo-compromisso | 2010-11-30 | cvm-col-20101130-d06 | fichas/tc/2010-06.md |
-| rj2008-3931 | RJ2008/3931 | termo-compromisso | 2008-07-08 | cvm-col-20080708-d05 | fichas/tc/2008-05.md |
-| rj2008-3931 | RJ2008/3931 | termo-compromisso | 2009-01-06 | cvm-col-20090106-d01 | fichas/tc/2009-01.md |
-| rj2008-4369 | RJ2008/4369 | termo-compromisso | 2009-03-31 | cvm-col-20090331-d04 | fichas/tc/2009-02.md |
-| rj2008-4768 | RJ2008/4768 | pas | 2010-04-13 | cvm-pas-rj2008-4768 | fichas/pas/2010-01.md |
-| rj2008-4842 | RJ2008/4842 | pas | 2009-09-01 | cvm-pas-rj2008-4842 | fichas/pas/2009-04.md |
-| rj2008-4857 | RJ2008/4857 | termo-compromisso | 2009-04-07 | cvm-col-20090407-d06 | fichas/tc/2009-02.md |
-| rj2008-4857 | RJ2008/4857 | pas | 2011-08-23 | cvm-pas-rj2008-4857 | fichas/pas/2011-02.md |
-| rj2008-4871 | RJ2008/4871 | termo-compromisso | 2008-09-09 | cvm-col-20080909-d04 | fichas/tc/2008-06.md |
-| rj2008-4873 | RJ2008/4873 | termo-compromisso | 2008-09-09 | cvm-col-20080909-d05 | fichas/tc/2008-06.md |
-| rj2008-4873 | RJ2008/4873 | termo-compromisso | 2008-12-02 | cvm-col-20081202-d01 | fichas/tc/2008-08.md |
-| rj2008-4873 | RJ2008/4873 | termo-compromisso | 2009-06-02 | cvm-col-20090602-d03 | fichas/tc/2009-03.md |
-| rj2008-4874 | RJ2008/4874 | termo-compromisso | 2008-09-30 | cvm-col-20080930-d05 | fichas/tc/2008-06.md |
-| rj2008-4875 | RJ2008/4875 | termo-compromisso | 2008-11-04 | cvm-col-20081104-d07 | fichas/tc/2008-07.md |
-| rj2008-4877 | RJ2008/4877 | pas | 2009-05-12 | cvm-pas-rj2008-4877 | fichas/pas/2009-02.md |
-| rj2008-4877 | RJ2008/4877 | acordao-crsfn | 2013-07-30 | crsfn-12796 | fichas/crsfn/2013-02.md |
-| rj2008-5220 | RJ2008/5220 | termo-compromisso | 2008-08-19 | cvm-col-20080819-d04 | fichas/tc/2008-06.md |
-| rj2008-5752 | RJ2008/5752 | pas | 2009-01-27 | cvm-pas-rj2008-5752 | fichas/pas/2009-01.md |
-| rj2008-5752 | RJ-2008-5752 | acordao-crsfn | 2011-11-09 | crsfn-12463 | fichas/crsfn/2011-04.md |
-| rj2008-5880 | RJ2008/5880 | termo-compromisso | 2008-09-30 | cvm-col-20080930-d06 | fichas/tc/2008-06.md |
-| rj2008-5880 | RJ2008/5880 | termo-compromisso | 2009-01-06 | cvm-col-20090106-d02 | fichas/tc/2009-01.md |
-| rj2008-5980 | RJ2008/5980 | termo-compromisso | 2008-12-09 | cvm-col-20081209-d06 | fichas/tc/2008-08.md |
-| rj2008-5980 | RJ2008/5980 | termo-compromisso | 2009-11-24 | cvm-col-20091124-d04 | fichas/tc/2009-08.md |
-| rj2008-6023 | RJ2008/6023 | pas | 2009-05-20 | cvm-pas-rj2008-6023 | fichas/pas/2009-02.md |
-| rj2008-6023 | RJ-2008-6023 | acordao-crsfn | 2010-09-14 | crsfn-12663 | fichas/crsfn/2010-07.md |
-| rj2008-6250 | RJ2008/6250 | termo-compromisso | 2009-07-07 | cvm-col-20090707-d05 | fichas/tc/2009-04.md |
-| rj2008-6250 | RJ2008/6250 | pas | 2009-10-20 | cvm-pas-rj2008-6250 | fichas/pas/2009-05.md |
-| rj2008-6250 | RJ-2008-6250 | acordao-crsfn | 2014-01-21 | crsfn-12905 | fichas/crsfn/2014-01.md |
-| rj2008-7414 | RJ2008/7414 | termo-compromisso | 2009-03-10 | cvm-col-20090310-d07 | fichas/tc/2009-02.md |
-| rj2008-8046 | RJ2008/8046 | termo-compromisso | 2009-05-05 | cvm-col-20090505-d03 | fichas/tc/2009-03.md |
-| rj2008-8046 | RJ2008/8046 | termo-compromisso | 2009-11-24 | cvm-col-20091124-d05 | fichas/tc/2009-08.md |
-| rj2008-8046 | RJ2008/8046; 19957-010233-2018-87 | pas | 2018-10-30 | cvm-pas-rj2008-8046 | fichas/pas/2018-08.md |
-| rj2008-8108 | RJ2008/8108 | termo-compromisso | 2009-02-10 | cvm-col-20090210-d03 | fichas/tc/2009-01.md |
-| rj2008-8243 | RJ2008/8243 | termo-compromisso | 2009-04-14 | cvm-col-20090414-d09 | fichas/tc/2009-02.md |
-| rj2008-8243 | RJ2008/8243 | termo-compromisso | 2009-08-18 | cvm-col-20090818-d03 | fichas/tc/2009-05.md |
-| rj2008-8572 | RJ2008/8572 | pas | 2010-03-16 | cvm-pas-rj2008-8572 | fichas/pas/2010-01.md |
-| rj2008-8662 | RJ2008/8662 | pas | 2009-06-03 | cvm-pas-rj2008-8662 | fichas/pas/2009-03.md |
-| rj2008-8662 | RJ-2008-8662 | acordao-crsfn | 2014-01-21 | crsfn-12710 | fichas/crsfn/2014-01.md |
-| rj2008-8843 | RJ2008/8843 | pas | 2009-09-15 | cvm-pas-rj2008-8843 | fichas/pas/2009-04.md |
-| rj2008-8843 | RJ-2008-8843 | acordao-crsfn | 2013-01-10 | crsfn-12795 | fichas/crsfn/2013-01.md |
-| rj2008-8976 | RJ2008/8976 | termo-compromisso | 2009-06-02 | cvm-col-20090602-d07 | fichas/tc/2009-03.md |
-| rj2008-8976 | RJ2008/8976 | pas | 2009-09-15 | cvm-pas-rj2008-8976 | fichas/pas/2009-04.md |
-| rj2008-9022 | RJ2008/9022 | termo-compromisso | 2009-06-02 | cvm-col-20090602-d08 | fichas/tc/2009-03.md |
-| rj2008-9022 | RJ2008/9022 | termo-compromisso | 2009-12-15 | cvm-col-20091215-d03 | fichas/tc/2009-09.md |
-| rj2008-9022 | RJ2008/9022 | pas | 2010-02-09 | cvm-pas-rj2008-9022 | fichas/pas/2010-01.md |
-| rj2008-9022 | RJ-2008-9022 | acordao-crsfn | 2014-07-22 | crsfn-12977 | fichas/crsfn/2014-04.md |
-| rj2008-9120 | RJ2008/9120 | termo-compromisso | 2009-06-23 | cvm-col-20090623-d08 | fichas/tc/2009-03.md |
-| rj2008-9120 | RJ2008/9120 | pas | 2009-10-13 | cvm-pas-rj2008-9120 | fichas/pas/2009-05.md |
-| rj2008-9120 | RJ-2008-9120 | acordao-crsfn | 2014-03-18 | crsfn-12794 | fichas/crsfn/2014-02.md |
-| rj2008-9181 | RJ2008/9181 | termo-compromisso | 2009-06-02 | cvm-col-20090602-d09 | fichas/tc/2009-03.md |
-| rj2008-9511 | RJ2008/9511 | pas | 2009-05-20 | cvm-pas-rj2008-9511 | fichas/pas/2009-03.md |
-| rj2008-9511 | RJ2008/9511 | acordao-crsfn | 2017-12-12 | crsfn-12664 | fichas/crsfn/2017-08.md |
-| rj2008-9514 | RJ2008/9514 | termo-compromisso | 2009-02-10 | cvm-col-20090210-d04 | fichas/tc/2009-01.md |
-| rj2008-9574 | RJ2008/9574 | termo-compromisso | 2009-11-17 | cvm-col-20091117-d04 | fichas/tc/2009-07.md |
-| rj2008-9574 | RJ2008/9574 | pas | 2012-11-27 | cvm-pas-rj2008-9574 | fichas/pas/2012-03.md |
-| rj2008-9947 | RJ2008/9947 | pas | 2009-07-28 | cvm-pas-rj2008-9947 | fichas/pas/2009-03.md |
-| rj2008-9947 | RJ-2008-9947 | acordao-crsfn | 2013-01-10 | crsfn-12955 | fichas/crsfn/2013-01.md |
-| rj2008-10181 | RJ2008/10181 | pas | 2009-03-31 | cvm-pas-rj2008-10181 | fichas/pas/2009-01.md |
-| rj2008-10181 | RJ-2008-10181 | acordao-crsfn | 2010-08-18 | crsfn-12508 | fichas/crsfn/2010-06.md |
-| rj2008-10302 | RJ2008/10302 | termo-compromisso | 2010-02-09 | cvm-col-20100209-d03 | fichas/tc/2010-01.md |
-| rj2008-10421 | RJ2008/10421 | termo-compromisso | 2009-08-18 | cvm-col-20090818-d04 | fichas/tc/2009-05.md |
-| rj2008-10437 | RJ2008/10437 | termo-compromisso | 2009-07-07 | cvm-col-20090707-d06 | fichas/tc/2009-04.md |
-| rj2008-10538 | RJ2008/10538 | termo-compromisso | 2009-06-23 | cvm-col-20090623-d07 | fichas/tc/2009-03.md |
-| rj2008-10703; rj2008-11846 | RJ2008/10703; RJ2008/11846 | termo-compromisso | 2009-05-05 | cvm-col-20090505-d04 | fichas/tc/2009-03.md |
-| rj2008-10703; rj2008-11846 | RJ2008/10703; RJ2008/11846 | termo-compromisso | 2009-07-28 | cvm-col-20090728-d10 | fichas/tc/2009-05.md |
-| rj2008-10874 | RJ2008/10874 | pas | 2009-04-28 | cvm-pas-rj2008-10874 | fichas/pas/2009-02.md |
-| rj2008-10874 | RJ-2008-10874 | acordao-crsfn | 2010-06-08 | crsfn-12625 | fichas/crsfn/2010-05.md |
-| rj2008-11003 | RJ2008/11003 | termo-compromisso | 2009-06-23 | cvm-col-20090623-d02 | fichas/tc/2009-03.md |
-| rj2008-11003 | RJ2008/11003 | termo-compromisso | 2009-07-07 | cvm-col-20090707-d02 | fichas/tc/2009-04.md |
-| rj2008-11105 | RJ2008/11105 | termo-compromisso | 2009-07-14 | cvm-col-20090714-d11 | fichas/tc/2009-04.md |
-| rj2008-11105 | RJ2008/11105 | termo-compromisso | 2009-08-18 | cvm-col-20090818-d08 | fichas/tc/2009-06.md |
-| rj2008-11199 | RJ2008/11199 | pas | 2009-08-25 | cvm-pas-rj2008-11199 | fichas/pas/2009-04.md |
-| rj2008-11199 | RJ-2008-11199 | acordao-crsfn | 2014-08-26 | crsfn-12839 | fichas/crsfn/2014-04.md |
-| rj2008-11749 | RJ2008/11749 | termo-compromisso | 2009-09-08 | cvm-col-20090908-d01 | fichas/tc/2009-06.md |
-| rj2008-11749 | RJ2008/11749 | termo-compromisso | 2009-10-06 | cvm-col-20091006-d09 | fichas/tc/2009-06.md |
-| rj2008-11805 | RJ2008/11805 | pas | 2009-06-03 | cvm-pas-rj2008-11805 | fichas/pas/2009-03.md |
-| rj2008-11805 | RJ-2008-11805 | acordao-crsfn | 2012-12-05 | crsfn-12626 | fichas/crsfn/2012-05.md |
-| rj2008-12062 | RJ2008/12062 | pas | 2009-07-14 | cvm-pas-rj2008-12062 | fichas/pas/2009-03.md |
-| rj2008-12062 | RJ2008/12062 | acordao-crsfn | 2014-10-21 | crsfn-12711 | fichas/crsfn/2014-05.md |
-| rj2008-12088 | RJ2008/12088 | pas | 2010-02-09 | cvm-pas-rj2008-12088 | fichas/pas/2010-01.md |
-| rj2008-12088 | RJ2008/12088 | acordao-crsfn | 2015-01-27 | crsfn-13157 | fichas/crsfn/2015-01.md |
-| rj2008-12124 | RJ2008/12124 | termo-compromisso | 2009-06-23 | cvm-col-20090623-d09 | fichas/tc/2009-04.md |
-| rj2008-12124 | RJ2008/12124 | pas | 2010-06-22 | cvm-pas-rj2008-12124 | fichas/pas/2010-02.md |
-| rj2008-12124 | RJ-2008-12124 | acordao-crsfn | 2013-11-26 | crsfn-13144 | fichas/crsfn/2013-04.md |
-| rj2008-12216 | RJ2008/12216 | pas | 2010-04-13 | cvm-pas-rj2008-12216 | fichas/pas/2010-01.md |
-| rj2008-12216 | RJ-2008-12216 | acordao-crsfn | 2015-03-24 | crsfn-13070 | fichas/crsfn/2015-01.md |
-| rj2008-12293 | RJ2008/12293 | termo-compromisso | 2009-06-23 | cvm-col-20090623-d10 | fichas/tc/2009-04.md |
-| rj2008-12727 | RJ2008/12727 | termo-compromisso | 2009-06-02 | cvm-col-20090602-d10 | fichas/tc/2009-03.md |
-| sp2008-0038 | SP2008/0038 | pas | 2010-07-13 | cvm-pas-sp2008-0038 | fichas/pas/2010-03.md |
-| sp2008-0040 | SP2008/0040 | termo-compromisso | 2009-11-24 | cvm-col-20091124-d09 | fichas/tc/2009-08.md |
+| Processo (normalizado) | Forma no julgado | Tipo | Data | Ementa | Id | Ficha |
+|---|---|---|---|---|---|---|
+| 02-2008 | 02/2008 | termo-compromisso | 2010-04-27 | O Colegiado, em embargos que reiteravam proposta de termo de compromisso no PAS 02/2008, esclareceu que a proposta guarda-chuva rejeitada… | cvm-col-20100427-d08 | fichas/tc/2010-02.md |
+| 02-2008 | 02/2008 | termo-compromisso | 2012-04-24 | O Colegiado aprovou em 24/04/2012 a proposta de termo de compromisso no PAS 02/2008, com pagamento de R$ 500.000,00 à CVM como condição… | cvm-tc-02-2008-20120424 | fichas/tc/2012-03.md |
+| 02-2008 | 02/2008 | pas | 2013-03-05 | BRASIL TELECOM Suposto descumprimento do dever de diligência. Absolvição. Não divulgação do empréstimo contratado entre partes relacionadas… | cvm-pas-02-2008 | fichas/pas/2013-01.md |
+| 02-2008 | 02/2008 | acordao-crsfn | 2020-03-11 | EMBARGOS DE DECLARAÇÃO. O Decreto nº 20.910, de 1932, não é aplicável aos processos administrativos, em especial após a edição da Lei nº… | crsfn-edcl-13703 | fichas/crsfn/2020-03.md |
+| 03-2008 | 03/2008 | pas | 2010-03-23 | SANTOS BRASIL S/A. Imputação de eventuais irregularidades que poderiam ensejar a suposta transferência indireta do controle acionário da… | cvm-pas-03-2008 | fichas/pas/2010-01.md |
+| 05-2008 | 05/2008 | termo-compromisso | 2011-05-10 | O Colegiado rejeitou nova proposta de termo de compromisso da Gradual Corretora de Câmbio, Títulos e Valores Mobiliários S.A., de R$… | cvm-col-20110510-d01-r2 | fichas/tc/2011-02.md |
+| 05-2008 | 05/2008 | termo-compromisso | 2011-11-08 | O Colegiado aceitou, por maioria, nova proposta de termo de compromisso da Gradual Corretora no PAS 05/2008, com estudo sobre a eficiência… | cvm-col-20111108-d15 | fichas/tc/2011-05.md |
+| 05-2008 | 05/2008 | termo-compromisso | 2012-04-17 | O Colegiado rejeitou nova proposta de termo de compromisso de 17 proponentes (16 acusados e a Serrainvest Factoring Fomento Mercantil… | cvm-col-20120417-d01 | fichas/tc/2012-02.md |
+| 05-2008 | 05/2008 | pas | 2012-12-12 | FITVM LIBRIUM realização de operações fraudulentas no mercado de valores mobiliários – anuência, concorrência e/ou benefício com essas… | cvm-pas-05-2008 | fichas/pas/2012-07.md |
+| 05-2008 | 05/2008 | acordao-crsfn | 2017-02-07 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Realização de operações fraudulentas no mercado de valores mobiliários - anuência, concorrência e/ou… | crsfn-13727 | fichas/crsfn/2017-01.md |
+| 06-2008 | 06/2008 | termo-compromisso | 2009-07-28 | Apreciação de proposta de termo de compromisso PAS 06/2008. | cvm-col-20090728-d13 | fichas/tc/2009-05.md |
+| 07-2008 | 07/2008 | termo-compromisso | 2009-09-15 | O Colegiado aceitou as seis propostas de Termo de Compromisso no PAS 07/2008 (DTCom), por condições artificiais de demanda, oferta ou preço… | cvm-col-20090915-d02 | fichas/tc/2009-06.md |
+| 09-2008 | 09/2008 | termo-compromisso | 2009-12-15 | O Colegiado aceitou nove propostas de termo de compromisso no PAS 09/2008 (valores individuais de R$ 200.000,00 a R$ 3.030.000,00)… | cvm-col-20091215-d04 | fichas/tc/2009-09.md |
+| 10-2008 | 10/2008 | pas | 2010-11-23 | REFINARIA DE PETRÓLEO IPIRANGA S.A E OUTROS Ementa: Exercício irregular da atividade de administração de carteira – Utilização de… | cvm-pas-10-2008 | fichas/pas/2010-09.md |
+| 11-2008 | 11/2008 | pas | 2012-08-21 | SUZANO PETROQUÍMICA S.A. suposta utilização de informação privilegiada. Absolvições. | cvm-pas-11-2008 | fichas/pas/2012-03.md |
+| 14-2008 | 14/2008 | pas | 2011-08-09 | BOVINUS Tecnologia em Pecuária S.A emissão e distribuição pública de valores mobiliários sem registro na CVM – não envio à CVM de… | cvm-pas-14-2008 | fichas/pas/2011-02.md |
+| 14-2008 | 14/2008 | acordao-crsfn | 2015-07-28 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Distribuição pública de valores mobiliários sem registro na entidade supervisora… | crsfn-13420 | fichas/crsfn/2015-04.md |
+| 15-2008 | 15/2008 | pas | 2012-02-28 | [pessoa física] Suposto descumprimento do dever de diligência de administradores de carteira – supostas irregularidades na gestão de fundos… | cvm-pas-15-2008 | fichas/pas/2012-01.md |
+| 15-2008 | 15/2008 | acordao-crsfn | 2015-08-25 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Inobservância de deveres de administradores de fundo de investimento (permissão de… | crsfn-13411 | fichas/crsfn/2015-04.md |
+| 16-2008 | 16/2008 | termo-compromisso | 2010-09-09 | O Colegiado, acompanhando o parecer do Comitê, rejeitou dez propostas de termo de compromisso de administradores da Aracruz Celulose em PAS… | cvm-col-20100909-d07 | fichas/tc/2010-04.md |
+| 16-2008 | 16/2008 | termo-compromisso | 2012-09-04 | O Colegiado aceitou as propostas de termo de compromisso e de ajustamento de conduta apresentadas por 16 proponentes no PAS 16/2008… | cvm-col-20120904-d11 | fichas/tc/2012-05.md |
+| 16-2008 | 16/2008 | termo-compromisso | 2013-07-09 | O Colegiado aceitou nova proposta de termo de compromisso e de ajustamento de conduta de diretor financeiro, acusado de omitir risco de… | cvm-col-20130709-d02 | fichas/tc/2013-03.md |
+| 18-2008 | 18/2008 | termo-compromisso | 2010-09-09 | O Colegiado rejeitou as 14 propostas de termo de compromisso apresentadas por acusados no PAS 18/2008 (responsabilidade de administradores… | cvm-col-20100909-d06 | fichas/tc/2010-04.md |
+| 18-2008 | 18/2008 | pas | 2010-12-14 | SADIA Descumprimento do esperado dever de diligência por parte dos administradores de uma companhia aberta. –Multas e inabilitações… | cvm-pas-18-2008 | fichas/pas/2010-11.md |
+| 18-2008 | 18/2008 | acordao-crsfn | 2015-08-25 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Descumprimento do dever de diligência por parte de administradores de companhia aberta… | crsfn-13310 | fichas/crsfn/2015-04.md |
+| ia2008-0002 | IA2008/02 | acordao-crsfn | 2018-08-21 | RECURSOS VOLUNTÁRIO E DE OFÍCIO. Não divulgação de empréstimos entre partes relacionadas nas demonstrações sociais dos exercícios de 2003 e… | crsfn-13703 | fichas/crsfn/2018-06.md |
+| ia2008-0010 | IA-2008-10 | acordao-crsfn | 2014-12-09 | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Exercício irregular da atividade de administração de carteira – Utilização de… | crsfn-13283 | fichas/crsfn/2014-08.md |
+| rj2008-0236 | RJ2008/0236 | termo-compromisso | 2008-06-10 | O Colegiado rejeitou proposta de Termo de Compromisso do diretor de RI da Sola S.A. Indústrias Alimentícias no PAS RJ2008/0236, sobre… | cvm-col-20080610-d03 | fichas/tc/2008-04.md |
+| rj2008-0236 | RJ-2008-0236 | acordao-crsfn | 2010-04-29 | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Falta de envio de informações periódicas atualizadas (demonstrações financeiras… | crsfn-12571 | fichas/crsfn/2010-05.md |
+| rj2008-0900 | RJ2008/0900 | termo-compromisso | 2008-10-07 | O Colegiado aceitou a proposta sucessiva de R$ 50 mil (a inicial era de R$ 26 mil) de acusado de se manifestar na mídia antes do anúncio de… | cvm-col-20081007-d03 | fichas/tc/2008-07.md |
+| rj2008-0970 | RJ2008/0970 | pas | 2008-11-04 | [pessoa física] a) Não comunicação de operações da Rural CTVM à CVM. Multa. b) Dever de manter atualizadas as fichas cadastrais de clientes… | cvm-pas-rj2008-0970 | fichas/pas/2008-08.md |
+| rj2008-1594 | RJ2008/1594 | termo-compromisso | 2008-08-12 | O Colegiado rejeitou proposta de termo de compromisso do Banco Fator S.A., intermediário de OPA para cancelamento de registro da Companhia… | cvm-col-20080812-d07 | fichas/tc/2008-06.md |
+| rj2008-1594 | RJ2008/1594 | termo-compromisso | 2008-12-16 | O Colegiado rejeitou as propostas de termo de compromisso da DFV Participações S.A. (R$ 200.000,00) e do Banco Fator S.A. (R$ 63.196,54)… | cvm-col-20081216-d02 | fichas/tc/2008-08.md |
+| rj2008-1766 | RJ2008/1766 | pas | 2009-06-16 | KEPLER WEBER S/A Não elaboração e não apresentação, ao Conselho de Administração, nas informações trimestrais referentes aos trimestres… | cvm-pas-rj2008-1766 | fichas/pas/2009-05.md |
+| rj2008-1766 | RJ-2008-1766 | acordao-crsfn | 2014-03-18 | RECURSO VOLUNTÁRIO - Mercado de valores mobiliários – Descumprimento do dever de revisar, a cada exercício, o estudo técnico exigido para… | crsfn-12662 | fichas/crsfn/2014-02.md |
+| rj2008-1815 | RJ2008/1815 | pas | 2009-04-28 | MOSSI & GHISOLFI INTERNACIONAL S/A e outros (M&G POLIÉSTER S/A) Caracterização de conduta irregular do acionista controlador - constituição… | cvm-pas-rj2008-1815 | fichas/pas/2009-03.md |
+| rj2008-1815 | RJ-2008-1815 | acordao-crsfn | 2011-11-09 | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Constituição, pela acionista controladora, de empresa para… | crsfn-12709 | fichas/crsfn/2011-04.md |
+| rj2008-2209 | RJ2008/2209 | pas | 2009-08-25 | CONSTRUTORA SULTEPA S/A Não divulgação ao mercado e não comunicação à CVM de aquisição de participação relevante no capital social da… | cvm-pas-rj2008-2209 | fichas/pas/2009-08.md |
+| rj2008-2209 | RJ-2008-2209 | acordao-crsfn | 2014-02-18 | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Ausência de publicação de Fato Relevante – Falta de comunicação, ao mercado e à… | crsfn-12824 | fichas/crsfn/2014-01.md |
+| rj2008-2282 | RJ-2008-2282 | acordao-crsfn | 2011-05-31 | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Atraso ou não envio, à autoridade supervisora, de demonstrações financeiras… | crsfn-12078 | fichas/crsfn/2011-02.md |
+| rj2008-2334 | RJ2008/2334 | termo-compromisso | 2009-05-05 | O Colegiado rejeitou proposta conjunta de termo de compromisso de três acusados, por não divulgação de fato relevante e falta de sigilo de… | cvm-col-20090505-d02 | fichas/tc/2009-03.md |
+| rj2008-2334 | RJ2008/2334 | termo-compromisso | 2009-07-28 | O Colegiado aceitou nova proposta conjunta de Termo de Compromisso de três acusados do Banestes S.A. – Banco do Estado do Espírito Santo… | cvm-col-20090728-d09 | fichas/tc/2009-05.md |
+| rj2008-2468 | RJ2008/2468 | pas | 2009-03-31 | [pessoa física] Emissão de pareceres de auditoria por pessoa física que teve o registro de Auditor Independente - Pessoa Física cancelado… | cvm-pas-rj2008-2468 | fichas/pas/2009-02.md |
+| rj2008-2468 | RJ-2008-2468 | acordao-crsfn | 2012-11-26 | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Auditoria independente - Realização por profissional sem registro na CVM… | crsfn-12521 | fichas/crsfn/2012-05.md |
+| rj2008-2530 | RJ2008/2530 | pas | 2008-12-02 | [pessoa física] Oferta pública de ações de emissão da EMBRAER. Manifestação, em canal de mídia aberto, sobre a oferta publica secundária de… | cvm-pas-rj2008-2530 | fichas/pas/2008-09.md |
+| rj2008-2569 | RJ2008/2569 | termo-compromisso | 2008-09-09 | O Colegiado rejeitou proposta de Termo de Compromisso de cinco administradores da Pantanal Plaza Shopping S.A., pelo parecer do Comitê: não… | cvm-col-20080909-d03 | fichas/tc/2008-06.md |
+| rj2008-2569 | RJ2008/2569 | pas | 2010-11-30 | PANTANAL PLAZA SHOPPING S/A Não elaboração de Demonstrações Financeiras – não convocação de AGOs – não manutenção do registro de companhia… | cvm-pas-rj2008-2569 | fichas/pas/2010-09.md |
+| rj2008-2569 | RJ-2008-2569 | acordao-crsfn | 2013-07-30 | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Não elaboração de demonstrações financeiras - Falta de envio ou atraso na… | crsfn-13275 | fichas/crsfn/2013-03.md |
+| rj2008-2570 | RJ2008/2570 | pas | 2009-05-12 | PARTICIPAÇÕES ABC S/A Não envio de informações periódicas a partir de 31 de março de 1999 - não elaboração, no prazo legal, das… | cvm-pas-rj2008-2570 | fichas/pas/2009-04.md |
+| rj2008-2712 | RJ2008/2712 | termo-compromisso | 2008-11-04 | O Colegiado aceitou proposta de termo de compromisso de um acionista de Banco Alfa de Investimentos e Financeira Alfa, de R$ 100 mil, por… | cvm-col-20081104-d06 | fichas/tc/2008-07.md |
+| rj2008-2916 | RJ2008/2916 | pas | 2010-03-23 | Não envio de informações periódicas e eventuais, em infração aos artigos 13, 16 e 17 da Instrução CVM nº 202/93 – Multas. - Não elaboração… | cvm-pas-rj2008-2916 | fichas/pas/2010-02.md |
+| rj2008-3539 | RJ2008/3539 | termo-compromisso | 2010-11-30 | O Colegiado aceitou a proposta de termo de compromisso de uma investidora pessoa física, que pagará R$ 65.487,98 à CVM, correspondente ao… | cvm-col-20101130-d06 | fichas/tc/2010-06.md |
+| rj2008-3931 | RJ2008/3931 | termo-compromisso | 2008-07-08 | O Colegiado aceitou a proposta de termo de compromisso do proponente, pessoa física, de pagamento de R$ 50.000,00 por suposta violação ao… | cvm-col-20080708-d05 | fichas/tc/2008-05.md |
+| rj2008-3931 | RJ2008/3931 | termo-compromisso | 2009-01-06 | O Colegiado aceitou proposta de termo de compromisso do Banco Morgan Stanley S.A. por possíveis infrações ao período de silêncio em oferta… | cvm-col-20090106-d01 | fichas/tc/2009-01.md |
+| rj2008-4369 | RJ2008/4369 | termo-compromisso | 2009-03-31 | O Colegiado aceitou a terceira proposta alternativa da Fama Investimentos e de seu sócio (R$ 100.000,00) e a proposta do Banco Santander e… | cvm-col-20090331-d04 | fichas/tc/2009-02.md |
+| rj2008-4768 | RJ2008/4768 | pas | 2010-04-13 | MENDESPREV. Descumprimento do art. 161, § 4º, alínea “a”, da Lei nº 6.404/76 – Multa. | cvm-pas-rj2008-4768 | fichas/pas/2010-02.md |
+| rj2008-4842 | RJ2008/4842 | pas | 2009-09-01 | AUFERVILLE TRUST S/A Não manutenção obrigatória do registro de companhia aberta atualizado - Não elaboração de demonstrações financeiras… | cvm-pas-rj2008-4842 | fichas/pas/2009-08.md |
+| rj2008-4857 | RJ2008/4857 | termo-compromisso | 2009-04-07 | O Colegiado rejeitou, acompanhando o parecer do Comitê, três propostas de Termo de Compromisso (R$ 650.000,00, R$ 100.000,00 e R$… | cvm-col-20090407-d06 | fichas/tc/2009-02.md |
+| rj2008-4857 | RJ2008/4857 | pas | 2011-08-23 | EMBRATEL PARTICIPAÇÕES Descumprimento dos deveres de lealdade e de diligência – desvio de poder usurpação de competência. Inabilitações. | cvm-pas-rj2008-4857 | fichas/pas/2011-03.md |
+| rj2008-4871 | RJ2008/4871 | termo-compromisso | 2008-09-09 | O Colegiado rejeitou proposta de termo de compromisso de um diretor de relações com investidores da Biomm S.A., acusado de não enviar… | cvm-col-20080909-d04 | fichas/tc/2008-06.md |
+| rj2008-4873 | RJ2008/4873 | termo-compromisso | 2008-09-09 | Proposta de Termo de Compromisso de R$ 10.000,00 por não envio de informações periódicas (art. 13, I, Instrução 202/93). Em linha com o… | cvm-col-20080909-d05 | fichas/tc/2008-06.md |
+| rj2008-4873 | RJ2008/4873 | termo-compromisso | 2008-12-02 | O Colegiado rejeitou nova proposta de Termo de Compromisso de um diretor de relações com investidores da João Fortes Engenharia S.A., em… | cvm-col-20081202-d01 | fichas/tc/2008-08.md |
+| rj2008-4873 | RJ2008/4873 | termo-compromisso | 2009-06-02 | O Colegiado aceitou nova proposta de termo de compromisso de diretor de RI acusado de não enviar demonstrações e ITRs de 2007 e 2008… | cvm-col-20090602-d03 | fichas/tc/2009-03.md |
+| rj2008-4874 | RJ2008/4874 | termo-compromisso | 2008-09-30 | O Colegiado rejeitou proposta de Termo de Compromisso de R$ 15.000,00 e de adoção de controles internos apresentada pelo proponente, por… | cvm-col-20080930-d05 | fichas/tc/2008-06.md |
+| rj2008-4875 | RJ2008/4875 | termo-compromisso | 2008-11-04 | O Colegiado aceitou a proposta de Termo de Compromisso de um diretor de relações com investidores da Sagi Participações S.A., no valor de… | cvm-col-20081104-d07 | fichas/tc/2008-07.md |
+| rj2008-4877 | RJ2008/4877 | pas | 2009-05-12 | BANCO DO ESTADO DE SERGIPE S/A Pagamento de juros sobre capital próprio antes da absorção do saldo integral de prejuízos acumulados… | cvm-pas-rj2008-4877 | fichas/pas/2009-04.md |
+| rj2008-4877 | RJ2008/4877 | acordao-crsfn | 2013-07-30 | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Exercício abusivo do poder de controle - Descumprimento dos deveres de… | crsfn-12796 | fichas/crsfn/2013-03.md |
+| rj2008-5220 | RJ2008/5220 | termo-compromisso | 2008-08-19 | O Colegiado aceitou proposta de Termo de Compromisso do Banif Banco de Investimento (Brasil) S.A., referente a material publicitário do… | cvm-col-20080819-d04 | fichas/tc/2008-06.md |
+| rj2008-5752 | RJ2008/5752 | pas | 2009-01-27 | RECRUSUL S/A Oscilação atípica na cotação das ações de emissão da Recrusul S/A - Não publicação de fato relevante por parte do diretor de… | cvm-pas-rj2008-5752 | fichas/pas/2009-01.md |
+| rj2008-5752 | RJ-2008-5752 | acordao-crsfn | 2011-11-09 | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Não divulgação de fato relevante (transferência de controle acionário da… | crsfn-12463 | fichas/crsfn/2011-04.md |
+| rj2008-5880 | RJ2008/5880 | termo-compromisso | 2008-09-30 | O Colegiado considerou desproporcional e insuficiente a proposta de termo de compromisso do Banco UBS Pactual S.A. de pagar R$ 50.000,00 à… | cvm-col-20080930-d06 | fichas/tc/2008-06.md |
+| rj2008-5880 | RJ2008/5880 | termo-compromisso | 2009-01-06 | O Colegiado aceitou nova proposta de Termo de Compromisso do Banco UBS Pactual S.A. de pagar R$ 200.000,00 à CVM, após rejeitar em 30.09.08… | cvm-col-20090106-d02 | fichas/tc/2009-01.md |
+| rj2008-5980 | RJ2008/5980 | termo-compromisso | 2008-12-09 | O Colegiado rejeitou proposta de termo de compromisso da Ideiasnet S.A. em processo por possível infração ao art. 171 da Lei 6.404/76 em… | cvm-col-20081209-d06 | fichas/tc/2008-08.md |
+| rj2008-5980 | RJ2008/5980 | termo-compromisso | 2009-11-24 | O Colegiado aceitou proposta de termo de compromisso do proponente, diretor financeiro da Ideiasnet S.A., acompanhando o parecer do Comitê… | cvm-col-20091124-d04 | fichas/tc/2009-08.md |
+| rj2008-6023 | RJ2008/6023 | pas | 2009-05-20 | CONSTRUTORA BETER S/A Não divulgação de fato relevante - advertência. | cvm-pas-rj2008-6023 | fichas/pas/2009-04.md |
+| rj2008-6023 | RJ-2008-6023 | acordao-crsfn | 2010-09-14 | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Não publicação de fato relevante (suspensão de pagamentos em favor de sociedade… | crsfn-12663 | fichas/crsfn/2010-09.md |
+| rj2008-6250 | RJ2008/6250 | termo-compromisso | 2009-07-07 | O Colegiado rejeitou proposta de Termo de Compromisso de administradores da Metalon, acusados de não convocar AGOs dos exercícios 2000 a… | cvm-col-20090707-d05 | fichas/tc/2009-04.md |
+| rj2008-6250 | RJ2008/6250 | pas | 2009-10-20 | METALON Indústrias Reunidas S/A - Não atualização do registro de companhia aberta da Metalon Indústrias Reunidas S/A - não envio de… | cvm-pas-rj2008-6250 | fichas/pas/2009-09.md |
+| rj2008-6250 | RJ-2008-6250 | acordao-crsfn | 2014-01-21 | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Elaboração de demonstrações financeiras - Falta de atualização de… | crsfn-12905 | fichas/crsfn/2014-01.md |
+| rj2008-7414 | RJ2008/7414 | termo-compromisso | 2009-03-10 | O Colegiado aceitou, acompanhando o parecer do Comitê, proposta de Termo de Compromisso do diretor de relações com investidores da… | cvm-col-20090310-d07 | fichas/tc/2009-02.md |
+| rj2008-8046 | RJ2008/8046 | termo-compromisso | 2009-05-05 | O Colegiado rejeitou proposta de Termo de Compromisso de seis administradores da Construtora Lix da Cunha S.A., acusados de irregularidades… | cvm-col-20090505-d03 | fichas/tc/2009-03.md |
+| rj2008-8046 | RJ2008/8046 | termo-compromisso | 2009-11-24 | O Colegiado aceitou nova proposta de termo de compromisso de seis administradores da Construtora Lix da Cunha S.A., após rejeição da… | cvm-col-20091124-d05 | fichas/tc/2009-08.md |
+| rj2008-8046 | RJ2008/8046; 19957-010233-2018-87 | pas | 2018-10-30 | Destinação de dividendos às ações ordinárias de emissão da Construtora Lix da Cunha S.A. inferiores aos que fariam jus nos exercícios… | cvm-pas-rj2008-8046 | fichas/pas/2018-16.md |
+| rj2008-8108 | RJ2008/8108 | termo-compromisso | 2009-02-10 | O Colegiado aceitou proposta de termo de compromisso do diretor de relações com investidores da Serra Azul Water Park, acusado de atraso ou… | cvm-col-20090210-d03 | fichas/tc/2009-01.md |
+| rj2008-8243 | RJ2008/8243 | termo-compromisso | 2009-04-14 | O Colegiado aceitou a proposta de termo de compromisso da Intra S.A. CCV, de R$ 150.000,00 no total, e rejeitou a da Interfloat HZ CCTVM… | cvm-col-20090414-d09 | fichas/tc/2009-02.md |
+| rj2008-8243 | RJ2008/8243 | termo-compromisso | 2009-08-18 | O Colegiado aceitou nova proposta de termo de compromisso da Interfloat e de um de seus diretores, de R$ 180.000,00 (R$ 90.000,00 para cada… | cvm-col-20090818-d03 | fichas/tc/2009-05.md |
+| rj2008-8572 | RJ2008/8572 | pas | 2010-03-16 | OLVEBRA. Não manutenção de registro de companhia aberta atualizado. Multas. Não elaboração, no devido prazo legal, de Demonstrações… | cvm-pas-rj2008-8572 | fichas/pas/2010-01.md |
+| rj2008-8662 | RJ2008/8662 | pas | 2009-06-03 | MANASA Madeireira Nacional S/A Renegociação e contabilização de dívida da companhia - Não divulgação de fato relevante. Celebração de… | cvm-pas-rj2008-8662 | fichas/pas/2009-05.md |
+| rj2008-8662 | RJ-2008-8662 | acordao-crsfn | 2014-01-21 | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Elaboração de demonstrações financeiras – Inobservância do regime… | crsfn-12710 | fichas/crsfn/2014-01.md |
+| rj2008-8843 | RJ2008/8843 | pas | 2009-09-15 | TELEBRÁS Descumprimento, por parte do Diretor de Relações com Investidores da TELEBRAS, do dever de diligenciar previsto na Instrução CVM… | cvm-pas-rj2008-8843 | fichas/pas/2009-08.md |
+| rj2008-8843 | RJ-2008-8843 | acordao-crsfn | 2013-01-10 | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Fato relevante - Falta de diligenciamento do diretor de relações com… | crsfn-12795 | fichas/crsfn/2013-01.md |
+| rj2008-8976 | RJ2008/8976 | termo-compromisso | 2009-06-02 | O Colegiado rejeitou proposta de termo de compromisso de diretor de RI acusado de não divulgar fato relevante diante de oscilações atípicas… | cvm-col-20090602-d07 | fichas/tc/2009-03.md |
+| rj2008-8976 | RJ2008/8976 | pas | 2009-09-15 | DOCAS Não publicação, por parte do Diretor de Relações com Investidores da DOCAS INVESTIMENTOS S.A, de fato relevante - não divulgação de… | cvm-pas-rj2008-8976 | fichas/pas/2009-09.md |
+| rj2008-9022 | RJ2008/9022 | termo-compromisso | 2009-06-02 | O Colegiado rejeitou as propostas de termo de compromisso apresentadas individualmente por quatro acusados, por negociação de ações antes… | cvm-col-20090602-d08 | fichas/tc/2009-03.md |
+| rj2008-9022 | RJ2008/9022 | termo-compromisso | 2009-12-15 | O Colegiado rejeitou as quatro novas propostas de termo de compromisso de administradores da Cyrela Brazil Realty S.A. (total de R$ 1… | cvm-col-20091215-d03 | fichas/tc/2009-09.md |
+| rj2008-9022 | RJ2008/9022 | pas | 2010-02-09 | CYRELA BRAZIL REALTY S/A Imputação de suposta falha na divulgação de fato relevante – imputação de realização de operações irregulares com… | cvm-pas-rj2008-9022 | fichas/pas/2010-01.md |
+| rj2008-9022 | RJ-2008-9022 | acordao-crsfn | 2014-07-22 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Divulgação intempestiva de fato relevante- Negociação de ações em períodos vedados… | crsfn-12977 | fichas/crsfn/2014-04.md |
+| rj2008-9120 | RJ2008/9120 | termo-compromisso | 2009-06-23 | O Colegiado rejeitou proposta de Termo de Compromisso da Ernst & Young Auditores Independentes e de seu sócio responsável, acusados de… | cvm-col-20090623-d08 | fichas/tc/2009-03.md |
+| rj2008-9120 | RJ2008/9120 | pas | 2009-10-13 | Ernst & Young Auditores Independentes S/S Imputação de ausência de ressalva nos pareceres de auditoria emitidos para as demonstrações… | cvm-pas-rj2008-9120 | fichas/pas/2009-09.md |
+| rj2008-9120 | RJ-2008-9120 | acordao-crsfn | 2014-03-18 | RECURSO DE OFÍCIO – Mercado de valores mobiliários - Auditoria independente – Emissão de pareceres sem ressalvas - Erro em avaliação de… | crsfn-12794 | fichas/crsfn/2014-02.md |
+| rj2008-9181 | RJ2008/9181 | termo-compromisso | 2009-06-02 | O Colegiado aceitou proposta de Termo de Compromisso de R$ 200.000,00 apresentada pelo diretor de relações com investidores da Marfrig, com… | cvm-col-20090602-d09 | fichas/tc/2009-03.md |
+| rj2008-9511 | RJ2008/9511 | pas | 2009-05-20 | HAGA S/A Indústria e Comércio Não divulgação de fato relevante - multa. | cvm-pas-rj2008-9511 | fichas/pas/2009-05.md |
+| rj2008-9511 | RJ2008/9511 | acordao-crsfn | 2017-12-12 | RECURSO VOLUNTÁRIO. CVM. Não divulgação de fato relevante. Diretor de Relações com Investidores. Recurso parcialmente provido. | crsfn-12664 | fichas/crsfn/2017-14.md |
+| rj2008-9514 | RJ2008/9514 | termo-compromisso | 2009-02-10 | O Colegiado rejeitou proposta de termo de compromisso de conselheiro, acusado de negociação em período vedado (art. 13, §4º, Instrução… | cvm-col-20090210-d04 | fichas/tc/2009-01.md |
+| rj2008-9574 | RJ2008/9574 | termo-compromisso | 2009-11-17 | O Colegiado rejeitou proposta de termo de compromisso de R$ 375.000,00 de três conselheiros de administração, no PAS RJ2008/9574, acusados… | cvm-col-20091117-d04 | fichas/tc/2009-07.md |
+| rj2008-9574 | RJ2008/9574 | pas | 2012-11-27 | INVITEL Suposta infração ao dever de diligência. Absolvições. | cvm-pas-rj2008-9574 | fichas/pas/2012-05.md |
+| rj2008-9947 | RJ2008/9947 | pas | 2009-07-28 | RECRUSUL S/A Aumento de Participação Acionária - descumprimento das exigências informacionais constantes do art. 12, caput, e § 1º, da… | cvm-pas-rj2008-9947 | fichas/pas/2009-06.md |
+| rj2008-9947 | RJ-2008-9947 | acordao-crsfn | 2013-01-10 | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Falta de notícia tempestiva, à companhia, sobre compra de… | crsfn-12955 | fichas/crsfn/2013-01.md |
+| rj2008-10181 | RJ2008/10181 | pas | 2009-03-31 | [pessoa física] Exercício irregular da atividade de administrador de carteiras de valoresmobiliários - multa. | cvm-pas-rj2008-10181 | fichas/pas/2009-02.md |
+| rj2008-10181 | RJ-2008-10181 | acordao-crsfn | 2010-08-18 | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Exercício da atividade de administrador de carteiras de valores mobiliários sem… | crsfn-12508 | fichas/crsfn/2010-08.md |
+| rj2008-10302 | RJ2008/10302 | termo-compromisso | 2010-02-09 | O Colegiado aceitou a proposta de termo de compromisso da Pothencia Tecnologia Ambiental Ltda. em processo por suposta oferta pública sem… | cvm-col-20100209-d03 | fichas/tc/2010-01.md |
+| rj2008-10421 | RJ2008/10421 | termo-compromisso | 2009-08-18 | O Colegiado aceitou a proposta de Termo de Compromisso do controlador da Agra Empreendimentos Imobiliários S.A., de R$ 1.372.000,00, por… | cvm-col-20090818-d04 | fichas/tc/2009-05.md |
+| rj2008-10437 | RJ2008/10437 | termo-compromisso | 2009-07-07 | O Colegiado aceitou duas propostas de Termo de Compromisso da UNIPAR – União de Indústrias Petroquímicas S.A.: de R$ 200.000,00 do DRI (não… | cvm-col-20090707-d06 | fichas/tc/2009-04.md |
+| rj2008-10538 | RJ2008/10538 | termo-compromisso | 2009-06-23 | O Colegiado aceitou proposta de Termo de Compromisso do diretor de relações com investidores da JBS S.A., acusado de não divulgar fato… | cvm-col-20090623-d07 | fichas/tc/2009-03.md |
+| rj2008-10703; rj2008-11846 | RJ2008/10703; RJ2008/11846 | termo-compromisso | 2009-05-05 | O Colegiado rejeitou proposta conjunta de termo de compromisso da Prosper S.A. CVC, da Prosper Gestão de Recursos e de dois diretores, por… | cvm-col-20090505-d04 | fichas/tc/2009-03.md |
+| rj2008-10703; rj2008-11846 | RJ2008/10703; RJ2008/11846 | termo-compromisso | 2009-07-28 | O Colegiado aceitou nova proposta de Termo de Compromisso da Prosper S/A CVC, da Prosper Gestão de Recursos e de dois diretores… | cvm-col-20090728-d10 | fichas/tc/2009-05.md |
+| rj2008-10874 | RJ2008/10874 | pas | 2009-04-28 | TDS SYSTEM LTDA. Exercício da atividade de administradores de carteira de valores mobiliários sem a prévia autorização da CVM - infração… | cvm-pas-rj2008-10874 | fichas/pas/2009-03.md |
+| rj2008-10874 | RJ-2008-10874 | acordao-crsfn | 2010-06-08 | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Prestação de serviços de administração de carteira sem registro na autoridade… | crsfn-12625 | fichas/crsfn/2010-06.md |
+| rj2008-11003 | RJ2008/11003 | termo-compromisso | 2009-06-23 | O Colegiado rejeitou proposta de termo de compromisso de R$ 130.000,00 do diretor de RI da M&G Poliéster S.A., acusado de não divulgar fato… | cvm-col-20090623-d02 | fichas/tc/2009-03.md |
+| rj2008-11003 | RJ2008/11003 | termo-compromisso | 2009-07-07 | O Colegiado aceitou nova proposta de Termo de Compromisso de R$ 200.000,00 do diretor de relações com investidores da M&G Poliéster S.A… | cvm-col-20090707-d02 | fichas/tc/2009-04.md |
+| rj2008-11105 | RJ2008/11105 | termo-compromisso | 2009-07-14 | O Colegiado rejeitou proposta de termo de compromisso de R$ 270.000,00 de ex-diretor de RI da CSN, acusado de não divulgar fato relevante… | cvm-col-20090714-d11 | fichas/tc/2009-04.md |
+| rj2008-11105 | RJ2008/11105 | termo-compromisso | 2009-08-18 | O Colegiado aceitou nova proposta de Termo de Compromisso de R$ 350.000,00 do ex-diretor de RI da CSN, por omissão de fato relevante e… | cvm-col-20090818-d08 | fichas/tc/2009-06.md |
+| rj2008-11199 | RJ2008/11199 | pas | 2009-08-25 | MINUPAR PARTICIPAÇÕES S/A Dever dos administradores, em especial do DRI, de informar ao mercado fatos que, por sua relevância, possam… | cvm-pas-rj2008-11199 | fichas/pas/2009-07.md |
+| rj2008-11199 | RJ-2008-11199 | acordao-crsfn | 2014-08-26 | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Descumprimento do dever dos administradores de informar ao mercado fatos que… | crsfn-12839 | fichas/crsfn/2014-05.md |
+| rj2008-11749 | RJ2008/11749 | termo-compromisso | 2009-09-08 | O Colegiado aceitou proposta de termo de compromisso da KPMG Auditores Independentes e de seu sócio responsável técnico, de R$ 400.000,00… | cvm-col-20090908-d01 | fichas/tc/2009-06.md |
+| rj2008-11749 | RJ2008/11749 | termo-compromisso | 2009-10-06 | O Colegiado aceitou nova proposta de termo de compromisso da KPMG Auditores Independentes e de seu responsável técnico, que passa a… | cvm-col-20091006-d09 | fichas/tc/2009-06.md |
+| rj2008-11805 | RJ2008/11805 | pas | 2009-06-03 | ANEND Auditores Independentes S/C Descumprimento de requisitos obrigatórios para manutenção, na CVM, de registro de auditor independente… | cvm-pas-rj2008-11805 | fichas/pas/2009-05.md |
+| rj2008-11805 | RJ-2008-11805 | acordao-crsfn | 2012-12-05 | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários - Auditoria – Composição de quadro societário em desacordo com a regulamentação… | crsfn-12626 | fichas/crsfn/2012-06.md |
+| rj2008-12062 | RJ2008/12062 | pas | 2009-07-14 | TELEBRÁS Assembléia Geral - Estatuto Social - Edital de Convocação de Acionistas - Admissão de Acionistas na Assembléia - Mesa Diretora da… | cvm-pas-rj2008-12062 | fichas/pas/2009-05.md |
+| rj2008-12062 | RJ2008/12062 | acordao-crsfn | 2014-10-21 | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Atuação de Presidente e Secretária de Mesa em Assembleia Geral… | crsfn-12711 | fichas/crsfn/2014-06.md |
+| rj2008-12088 | RJ2008/12088 | pas | 2010-02-09 | AGENTE BR SOCIEDADE CORRETORA DE CÂMBIO LTDA. Administração irregular de Carteira de Valores Mobiliários – funcionamento de clube de… | cvm-pas-rj2008-12088 | fichas/pas/2010-01.md |
+| rj2008-12088 | RJ2008/12088 | acordao-crsfn | 2015-01-27 | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Administração irregular de carteira - Funcionamento de clube de investimento… | crsfn-13157 | fichas/crsfn/2015-01.md |
+| rj2008-12124 | RJ2008/12124 | termo-compromisso | 2009-06-23 | O Colegiado rejeitou proposta de Termo de Compromisso de administrador da Buettner S.A. Indústria e Comércio, acusado de não guardar sigilo… | cvm-col-20090623-d09 | fichas/tc/2009-04.md |
+| rj2008-12124 | RJ2008/12124 | pas | 2010-06-22 | BUETTNER S/A INDÚSTRIA E COMÉRCIO Divulgação de informações relevantes a respeito da Buettner S/A Indústria e Comércio (“Buettner”) sem a… | cvm-pas-rj2008-12124 | fichas/pas/2010-04.md |
+| rj2008-12124 | RJ-2008-12124 | acordao-crsfn | 2013-11-26 | RECURSO(S) VOLUNTÁRIO(S) Mercado de valores mobiliários – Ausência de publicação de Fato Relevante - Não apresentação de premissas e… | crsfn-13144 | fichas/crsfn/2013-05.md |
+| rj2008-12216 | RJ2008/12216 | pas | 2010-04-13 | SANEPAR. Não divulgação de informações relevantes ao mercado – multa – não publicação de fato relevante – advertência. | cvm-pas-rj2008-12216 | fichas/pas/2010-02.md |
+| rj2008-12216 | RJ-2008-12216 | acordao-crsfn | 2015-03-24 | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Divulgação de informações relevantes a respeito de planos de investimento de… | crsfn-13070 | fichas/crsfn/2015-01.md |
+| rj2008-12293 | RJ2008/12293 | termo-compromisso | 2009-06-23 | O Colegiado aceitou proposta de termo de compromisso de R$ 100.000,00 da SOCOPA Sociedade Corretora Paulista S.A., acusada de não… | cvm-col-20090623-d10 | fichas/tc/2009-04.md |
+| rj2008-12727 | RJ2008/12727 | termo-compromisso | 2009-06-02 | O Colegiado rejeitou as três propostas de termo de compromisso de administradores da Santos Brasil Participações S.A., inclusive a de R$… | cvm-col-20090602-d10 | fichas/tc/2009-03.md |
+| sp2008-0038 | SP2008/0038 | pas | 2010-07-13 | UNIBANCO INVESTSHOP CVMC S/A Manutenção de cadastros incompletos. Não comunicação à CVM de operações incompatíveis com patrimônios e… | cvm-pas-sp2008-0038 | fichas/pas/2010-05.md |
+| sp2008-0040 | SP2008/0040 | termo-compromisso | 2009-11-24 | O Colegiado aceitou a proposta conjunta de termo de compromisso da Pax Corretora de Valores e Câmbio Ltda., da Renda Corretora de… | cvm-col-20091124-d09 | fichas/tc/2009-08.md |
 
 Fim do subíndice.

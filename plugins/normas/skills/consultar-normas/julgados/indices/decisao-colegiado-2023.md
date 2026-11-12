@@ -5,213 +5,213 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
-| Processo | Data | Resultado | Id | Ficha |
-|---|---|---|---|---|
-| 19957.015890/2023-88 | 2023-12-26 | deferido | cvm-col-20231226-d2984 | fichas/colegiado/2023-15.md |
-| 07/2023; 19957.012858/2023-41 | 2023-12-26 | outro | cvm-col-20231226-d2955 | fichas/colegiado/2023-14.md |
-| 19957.010088/2023-00 | 2023-12-19 | outro | cvm-col-20231219-d2983 | fichas/colegiado/2023-14.md |
-| 19957.010087/2023-57 | 2023-12-19 | outro | cvm-col-20231219-d2982 | fichas/colegiado/2023-14.md |
-| 19957.002504/2023-98 | 2023-12-19 | outro | cvm-col-20231219-d2981 | fichas/colegiado/2023-14.md |
-| 19957.000541/2023-61 | 2023-12-19 | outro | cvm-col-20231219-d2980 | fichas/colegiado/2023-14.md |
-| 19957.014621/2022-13 | 2023-12-19 | outro | cvm-col-20231219-d2979 | fichas/colegiado/2023-14.md |
-| 19957.001207/2023-25 | 2023-12-19 | conhecimento | cvm-col-20231219-d2978 | fichas/colegiado/2023-14.md |
-| 19957.014214/2023-97 | 2023-12-19 | outro | cvm-col-20231219-d2974 | fichas/colegiado/2023-14.md |
-| 19957.006771/2020-91 | 2023-12-19 | conhecimento | cvm-col-20231219-d2890 | fichas/colegiado/2023-14.md |
-| 19957.002835/2022-47; 19957.015162/2023-76 | 2023-12-19 | nao-provido | cvm-col-20231219-d2820 | fichas/colegiado/2023-14.md |
-| 19957.012127/2022-14 | 2023-12-19 | outro | cvm-col-20231219-d2803 | fichas/colegiado/2023-14.md |
-| 19957.003021/2020-68 | 2023-12-19 | — | cvm-col-20231219-d1875 | fichas/colegiado/2023-14.md |
-| 175/2022; 19957.007496/2023-76 | 2023-12-13 | outro | cvm-col-20231213-d2986 | fichas/colegiado/2023-13.md |
-| 35/2021; 19957.014214/2023-97 | 2023-12-13 | — | cvm-col-20231213-d2974 | fichas/colegiado/2023-13.md |
-| 19957.012068/2022-84 | 2023-12-06 | outro | cvm-col-20231206-d2985 | fichas/colegiado/2023-13.md |
-| 19957.008429/2023-79 | 2023-12-05 | outro | cvm-col-20231205-d2972 | fichas/colegiado/2023-13.md |
-| 19957.011962/2023-18 | 2023-12-05 | nao-provido | cvm-col-20231205-d2970 | fichas/colegiado/2023-13.md |
-| 19957.012669/2023-78 | 2023-12-05 | deferido | cvm-col-20231205-d2969 | fichas/colegiado/2023-13.md |
-| 19957.004239/2022-00 | 2023-12-05 | provido | cvm-col-20231205-d2899 | fichas/colegiado/2023-13.md |
-| 19957.004968/2021-77 | 2023-12-05 | deferido | cvm-col-20231205-d2393 | fichas/colegiado/2023-13.md |
-| — | 2023-11-29 | outro | cvm-col-20231129-d2976 | fichas/colegiado/2023-13.md |
-| 19957.012824/2023-56 | 2023-11-29 | indeferido | cvm-col-20231129-d2968 | fichas/colegiado/2023-13.md |
-| 19957.009753/2023-12 | 2023-11-29 | — | cvm-col-20231129-d2947 | fichas/colegiado/2023-13.md |
-| 19957.007519/2020-08 | 2023-11-29 | outro | cvm-col-20231129-d2334 | fichas/colegiado/2023-13.md |
-| 141/2022; 151/2022; 19957.011032/2023-64 | 2023-11-22 | outro | cvm-col-20231122-d2973 | fichas/colegiado/2023-13.md |
-| 85/2022; 19957.007933/2018-94 | 2023-11-22 | outro | cvm-col-20231122-d2878 | fichas/colegiado/2023-13.md |
-| 19957.008006/2023-59 | 2023-11-21 | nao-provido | cvm-col-20231121-d2962 | fichas/colegiado/2023-12.md |
-| 19957.002655/2023-46 | 2023-11-21 | parcial | cvm-col-20231121-d2961 | fichas/colegiado/2023-12.md |
-| 85/2022; 19957.007933/2018-94 | 2023-11-21 | — | cvm-col-20231121-d2878 | fichas/colegiado/2023-12.md |
-| 19957.008986/2021-28 | 2023-11-21 | nao-provido | cvm-col-20231121-d2710 | fichas/colegiado/2023-12.md |
-| 19957.003216/2021-99 | 2023-11-08 | outro | cvm-col-20231108-d2967 | fichas/colegiado/2023-12.md |
-| 85/2022; 19957.007933/2018-94 | 2023-11-08 | — | cvm-col-20231108-d2878 | fichas/colegiado/2023-12.md |
-| 85/2022; 19957.007933/2018-94 | 2023-11-08 | — | cvm-col-20231108-d2878-r2 | fichas/colegiado/2023-12.md |
-| 19957.008569/2019-61 | 2023-11-07 | outro | cvm-col-20231107-d1804 | fichas/colegiado/2023-12.md |
-| 60/2021; 19957.009911/2021-64 | 2023-11-01 | outro | cvm-col-20231101-d1640 | fichas/colegiado/2023-12.md |
-| 19957.004974/2021-24 | 2023-10-18 | outro | cvm-col-20231018-d2242 | fichas/colegiado/2023-12.md |
-| 19957.012111/2023-92 | 2023-10-17 | deferido | cvm-col-20231017-d2949 | fichas/colegiado/2023-12.md |
-| 19957.012068/2023-65 | 2023-10-17 | deferido | cvm-col-20231017-d2948 | fichas/colegiado/2023-12.md |
-| 19957.009753/2023-12 | 2023-10-17 | — | cvm-col-20231017-d2947 | fichas/colegiado/2023-11.md |
-| 19957.011044/2019-11 | 2023-10-17 | outro | cvm-col-20231017-d1738 | fichas/colegiado/2023-11.md |
-| 19957.003419/2023-47 | 2023-10-11 | outro | cvm-col-20231011-d2957 | fichas/colegiado/2023-11.md |
-| 19957.012747/2023-34 | 2023-10-11 | indeferido | cvm-col-20231011-d2946 | fichas/colegiado/2023-11.md |
-| 85/2022; 19957.007933/2018-94 | 2023-10-11 | — | cvm-col-20231011-d2878 | fichas/colegiado/2023-11.md |
-| 19957.003953/2021-91; 19957.004982/2021-71 | 2023-10-10 | conhecimento | cvm-col-20231010-d2566-2567 | fichas/colegiado/2023-11.md |
-| 19957.012857/2023-04 | 2023-10-04 | outro | cvm-col-20231004-d2956 | fichas/colegiado/2023-11.md |
-| 19957.012858/2023-41 | 2023-10-04 | outro | cvm-col-20231004-d2955 | fichas/colegiado/2023-11.md |
-| 05/2023; 19957.014130/2022-72 | 2023-10-04 | outro | cvm-col-20231004-d2888 | fichas/colegiado/2023-11.md |
-| 04/2023; 19957.007414/2023-93 | 2023-10-04 | outro | cvm-col-20231004-d2887 | fichas/colegiado/2023-11.md |
-| 03/2023; 19957.003462/2023-11 | 2023-10-04 | outro | cvm-col-20231004-d2857 | fichas/colegiado/2023-11.md |
-| 02/2023; 19957.003456/2023-55 | 2023-10-04 | outro | cvm-col-20231004-d2855 | fichas/colegiado/2023-11.md |
-| 19957.004812/2022-77 | 2023-10-03 | provido | cvm-col-20231003-d2939 | fichas/colegiado/2023-11.md |
-| 19957.002686/2022-16 | 2023-10-03 | nao-provido | cvm-col-20231003-d2937 | fichas/colegiado/2023-10.md |
-| 19957.010412/2017-33 | 2023-10-03 | nao-provido | cvm-col-20231003-d0852 | fichas/colegiado/2023-10.md |
-| 19957.014275/2022-73 | 2023-09-27 | — | cvm-col-20230927-d2940 | fichas/colegiado/2023-10.md |
-| 19957.007883/2023-11 | 2023-09-26 | — | cvm-col-20230926-d2934 | fichas/colegiado/2023-10.md |
-| 19957.007883/2023-11 | 2023-09-26 | outro | cvm-col-20230926-d2934-r2 | fichas/colegiado/2023-10.md |
-| 19957.004081/2023-41 | 2023-09-26 | outro | cvm-col-20230926-d2929 | fichas/colegiado/2023-10.md |
-| 19957.012679/2022-22 | 2023-09-26 | parcial | cvm-col-20230926-d2846 | fichas/colegiado/2023-10.md |
-| 19957.009335/2021-55 | 2023-09-26 | indeferido | cvm-col-20230926-d2576 | fichas/colegiado/2023-10.md |
-| 19957.009938/2021-57 | 2023-09-20 | outro | cvm-col-20230920-d2936 | fichas/colegiado/2023-10.md |
-| 19957.011889/2022-01 | 2023-09-19 | deferido | cvm-col-20230919-d2923 | fichas/colegiado/2023-10.md |
-| 19957.005033/2018-11 | 2023-09-19 | nao-provido | cvm-col-20230919-d1155 | fichas/colegiado/2023-10.md |
-| 19957.009938/2021-57 | 2023-09-13 | — | cvm-col-20230913-d2936 | fichas/colegiado/2023-10.md |
-| 19957.010736/2022-39 | 2023-09-12 | indeferido | cvm-col-20230912-d2924 | fichas/colegiado/2023-10.md |
-| 19957.011889/2022-01 | 2023-09-12 | — | cvm-col-20230912-d2923 | fichas/colegiado/2023-10.md |
-| 81/2022; 19957.011456/2017-81 | 2023-09-06 | outro | cvm-col-20230906-d2925 | fichas/colegiado/2023-10.md |
-| 19957.004762/2023-17 | 2023-09-05 | outro | cvm-col-20230905-d2916 | fichas/colegiado/2023-10.md |
-| 19957.004416/2016-00; 19957.009023/2023-11 | 2023-09-05 | nao-provido | cvm-col-20230905-d1498 | fichas/colegiado/2023-09.md |
-| 81/2022; 19957.011456/2017-81 | 2023-08-30 | — | cvm-col-20230830-d2925 | fichas/colegiado/2023-09.md |
-| 19957.003763/2023-36 | 2023-08-29 | nao-provido | cvm-col-20230829-d2922 | fichas/colegiado/2023-09.md |
-| 19957.004403/2022-71 | 2023-08-29 | parcial | cvm-col-20230829-d2921 | fichas/colegiado/2023-09.md |
-| 19957.004816/2022-55 | 2023-08-29 | parcial | cvm-col-20230829-d2920 | fichas/colegiado/2023-09.md |
-| 19957.000972/2023-28 | 2023-08-29 | parcial | cvm-col-20230829-d2894 | fichas/colegiado/2023-09.md |
-| 19957.001764/2018-89 | 2023-08-29 | conhecimento | cvm-col-20230829-d2578 | fichas/colegiado/2023-09.md |
-| 81/2022; 19957.011456/2017-81 | 2023-08-23 | outro | cvm-col-20230823-d2925 | fichas/colegiado/2023-09.md |
-| 19957.004762/2023-17 | 2023-08-22 | outro | cvm-col-20230822-d2916 | fichas/colegiado/2023-09.md |
-| 19957.012803/2022-50 | 2023-08-22 | nao-provido | cvm-col-20230822-d2915 | fichas/colegiado/2023-09.md |
-| 19957.008727/2023-69 | 2023-08-16 | outro | cvm-col-20230816-d2917 | fichas/colegiado/2023-09.md |
-| 19957.009517/2023-98 | 2023-08-16 | outro | cvm-col-20230816-d2795 | fichas/colegiado/2023-09.md |
-| 19957.001770/2023-01 | 2023-08-15 | outro | cvm-col-20230815-d2914 | fichas/colegiado/2023-09.md |
-| 19957.002556/2021-01 | 2023-08-15 | outro | cvm-col-20230815-d2910 | fichas/colegiado/2023-09.md |
-| 19957.003455/2023-19 | 2023-08-15 | conhecimento | cvm-col-20230815-d2906 | fichas/colegiado/2023-09.md |
-| 555/2014; 19957.012247/2023-01 | 2023-08-09 | outro | cvm-col-20230809-d2930 | fichas/colegiado/2023-09.md |
-| 19957.008727/2023-69 | 2023-08-09 | — | cvm-col-20230809-d2917 | fichas/colegiado/2023-08.md |
-| 19957.008903/2023-62 | 2023-08-08 | deferido | cvm-col-20230808-d2908 | fichas/colegiado/2023-08.md |
-| 19957.008444/2023-17 | 2023-08-08 | nao-provido | cvm-col-20230808-d2904 | fichas/colegiado/2023-08.md |
-| 19957.004239/2022-00 | 2023-08-08 | — | cvm-col-20230808-d2899 | fichas/colegiado/2023-08.md |
-| 19957.008764/2021-13 | 2023-08-08 | conhecimento | cvm-col-20230808-d2617 | fichas/colegiado/2023-08.md |
-| 19957.004968/2021-77 | 2023-08-01 | deferido | cvm-col-20230801-d2393 | fichas/colegiado/2023-08.md |
-| 19957.000972/2023-28 | 2023-07-14 | outro | cvm-col-20230714-d2894 | fichas/colegiado/2023-08.md |
-| 19957.015402/2022-51 | 2023-07-14 | outro | cvm-col-20230714-d2844 | fichas/colegiado/2023-08.md |
-| 19957.008364/2023-61 | 2023-07-14 | outro | cvm-col-20230714-d2083 | fichas/colegiado/2023-08.md |
-| 19957.002556/2021-01 | 2023-07-12 | — | cvm-col-20230712-d2910 | fichas/colegiado/2023-08.md |
-| 19957.015034/2022-41 | 2023-07-11 | deferido | cvm-col-20230711-d2896 | fichas/colegiado/2023-08.md |
-| 19957.000972/2023-28 | 2023-07-11 | — | cvm-col-20230711-d2894 | fichas/colegiado/2023-08.md |
-| 19957.005809/2022-71 | 2023-07-11 | parcial | cvm-col-20230711-d2893 | fichas/colegiado/2023-08.md |
-| 19957.006544/2023-17 | 2023-07-11 | provido | cvm-col-20230711-d2892 | fichas/colegiado/2023-08.md |
-| 19957.007266/2022-26 | 2023-07-11 | indeferido | cvm-col-20230711-d2813 | fichas/colegiado/2023-07.md |
-| 19957.001584/2023-64 | 2023-07-11 | deferido | cvm-col-20230711-d2350 | fichas/colegiado/2023-07.md |
-| 19957.001322/2023-08 | 2023-07-11 | parcial | cvm-col-20230711-d1803 | fichas/colegiado/2023-07.md |
-| 9/2020; 19957.000127/2020-18 | 2023-07-11 | outro | cvm-col-20230711-d1683 | fichas/colegiado/2023-07.md |
-| 19957.009696/2021-00 | 2023-07-05 | outro | cvm-col-20230705-d2909 | fichas/colegiado/2023-07.md |
-| 19957.006771/2020-91 | 2023-07-04 | conhecimento | cvm-col-20230704-d2890 | fichas/colegiado/2023-07.md |
-| 19957.004375/2022-91 | 2023-07-04 | parcial | cvm-col-20230704-d2885 | fichas/colegiado/2023-07.md |
-| 19957.004398/2022-04 | 2023-07-04 | parcial | cvm-col-20230704-d2884 | fichas/colegiado/2023-07.md |
-| 19957.002234/2023-15 | 2023-06-27 | deferido | cvm-col-20230627-d2881 | fichas/colegiado/2023-07.md |
-| 19957.012901/2022-97 | 2023-06-27 | outro | cvm-col-20230627-d2880 | fichas/colegiado/2023-07.md |
-| 19957.003918/2023-34 | 2023-06-27 | deferido | cvm-col-20230627-d2878 | fichas/colegiado/2023-07.md |
-| 19957.003053/2023-14 | 2023-06-27 | deferido | cvm-col-20230627-d2875 | fichas/colegiado/2023-07.md |
-| 19957.007951/2021-71 | 2023-06-27 | outro | cvm-col-20230627-d2818 | fichas/colegiado/2023-07.md |
-| 19957.003983/2022-89 | 2023-06-22 | nao-provido | cvm-col-20230622-d2882 | fichas/colegiado/2023-07.md |
-| 19957.014130/2022-72 | 2023-06-21 | outro | cvm-col-20230621-d2888 | fichas/colegiado/2023-07.md |
-| 19957.007414/2023-93 | 2023-06-21 | outro | cvm-col-20230621-d2887 | fichas/colegiado/2023-06.md |
-| 19957.006318/2023-28 | 2023-06-20 | indeferido | cvm-col-20230620-d2883 | fichas/colegiado/2023-06.md |
-| 19957.003690/2017-34 | 2023-06-20 | nao-provido | cvm-col-20230620-d0677 | fichas/colegiado/2023-06.md |
-| 19957.002266/2023-11 | 2023-06-06 | conhecimento | cvm-col-20230606-d2872 | fichas/colegiado/2023-06.md |
-| 19957.008014/2018-38 | 2023-06-06 | outro | cvm-col-20230606-d1141 | fichas/colegiado/2023-06.md |
-| 19957.002409/2023-94 | 2023-05-30 | outro | cvm-col-20230530-d2868 | fichas/colegiado/2023-06.md |
-| 19957.002408/2023-40 | 2023-05-30 | outro | cvm-col-20230530-d2867 | fichas/colegiado/2023-06.md |
-| 19957.004368/2022-90 | 2023-05-30 | parcial | cvm-col-20230530-d2865 | fichas/colegiado/2023-06.md |
-| 19957.001093/2023-13 | 2023-05-30 | parcial | cvm-col-20230530-d2864 | fichas/colegiado/2023-06.md |
-| 19957.008434/2019-03 | 2023-05-30 | outro | cvm-col-20230530-d2200 | fichas/colegiado/2023-06.md |
-| 19957.004687/2020-33 | 2023-05-30 | parcial | cvm-col-20230530-d2143 | fichas/colegiado/2023-06.md |
-| 19957.001989/2022-11 | 2023-05-23 | parcial | cvm-col-20230523-d2863 | fichas/colegiado/2023-06.md |
-| 19957.005460/2022-77 | 2023-05-23 | outro | cvm-col-20230523-d2861 | fichas/colegiado/2023-06.md |
-| 19957.014576/2022-05 | 2023-05-23 | outro | cvm-col-20230523-d2859 | fichas/colegiado/2023-06.md |
-| 19957.003825/2022-29 | 2023-05-23 | provido | cvm-col-20230523-d2858 | fichas/colegiado/2023-06.md |
-| 19957.002055/2022-05 | 2023-05-23 | nao-provido | cvm-col-20230523-d2804 | fichas/colegiado/2023-06.md |
-| 175/2022; 19957.006037/2021-11 | 2023-05-17 | outro | cvm-col-20230517-d5474 | fichas/colegiado/2023-05.md |
-| 19957.008764/2021-13 | 2023-05-16 | nao-provido | cvm-col-20230516-d2617 | fichas/colegiado/2023-05.md |
-| 19957.004381/2021-68 | 2023-05-16 | conhecimento | cvm-col-20230516-d2479 | fichas/colegiado/2023-05.md |
-| 19957.003462/2023-11 | 2023-05-10 | outro | cvm-col-20230510-d2857 | fichas/colegiado/2023-05.md |
-| 19957.003459/2023-99 | 2023-05-10 | outro | cvm-col-20230510-d2856 | fichas/colegiado/2023-05.md |
-| 19957.003456/2023-55 | 2023-05-10 | outro | cvm-col-20230510-d2855 | fichas/colegiado/2023-05.md |
-| 19957.010357/2022-49 | 2023-05-09 | conhecimento | cvm-col-20230509-d2851 | fichas/colegiado/2023-05.md |
-| 19957.015087/2022-62 | 2023-05-09 | parcial | cvm-col-20230509-d2825 | fichas/colegiado/2023-05.md |
-| 03/2021; 19957.000017/2019-12 | 2023-05-03 | outro | cvm-col-20230503-d2124 | fichas/colegiado/2023-05.md |
-| 00783.002228/2018-10 | 2023-05-02 | outro | cvm-col-20230502-d2850 | fichas/colegiado/2023-05.md |
-| 19957.015087/2022-62 | 2023-05-02 | provido | cvm-col-20230502-d2825 | fichas/colegiado/2023-05.md |
-| 19957.006179/2021-71 | 2023-05-02 | conhecimento | cvm-col-20230502-d2699 | fichas/colegiado/2023-04.md |
-| 874/2021; 19957.004670/2021-67 | 2023-05-02 | parcial | cvm-col-20230502-d2498 | fichas/colegiado/2023-04.md |
-| 19957.002748/2023-71 | 2023-04-25 | indeferido | cvm-col-20230425-d2848 | fichas/colegiado/2023-04.md |
-| 19957.014104/2022-44 | 2023-04-25 | nao-provido | cvm-col-20230425-d2832 | fichas/colegiado/2023-04.md |
-| 19957.015402/2022-51 | 2023-04-18 | — | cvm-col-20230418-d2844 | fichas/colegiado/2023-04.md |
-| 19957.010130/2022-01 | 2023-04-11 | conhecimento | cvm-col-20230411-d2831 | fichas/colegiado/2023-04.md |
-| 19957.015013/2022-26 | 2023-04-11 | deferido | cvm-col-20230411-d2811 | fichas/colegiado/2023-04.md |
-| 19957.003690/2017-34 | 2023-04-11 | — | cvm-col-20230411-d0677 | fichas/colegiado/2023-04.md |
-| 175/2022; 19957.006037/2021-11 | 2023-04-05 | outro | cvm-col-20230405-d5474 | fichas/colegiado/2023-04.md |
-| 19957.015087/2022-62 | 2023-04-04 | — | cvm-col-20230404-d2825 | fichas/colegiado/2023-04.md |
-| 19957.001660/2023-31 | 2023-04-04 | deferido | cvm-col-20230404-d2822 | fichas/colegiado/2023-04.md |
-| 19957.015627/2022-16 | 2023-04-04 | outro | cvm-col-20230404-d2819 | fichas/colegiado/2023-04.md |
-| 19957.005174/2019-14 | 2023-04-04 | conhecimento | cvm-col-20230404-d2430 | fichas/colegiado/2023-04.md |
-| 19957.002146/2023-13 | 2023-03-28 | outro | cvm-col-20230328-d5474 | fichas/colegiado/2023-04.md |
-| 19957.011851/2022-21 | 2023-03-28 | deferido | cvm-col-20230328-d2821 | fichas/colegiado/2023-03.md |
-| 19957.007951/2021-71 | 2023-03-28 | — | cvm-col-20230328-d2818 | fichas/colegiado/2023-03.md |
-| 19957.008764/2021-13 | 2023-03-28 | — | cvm-col-20230328-d2617 | fichas/colegiado/2023-03.md |
-| 80/2022; 160/2022; 19957.000850/2023-31 | 2023-03-21 | outro | cvm-col-20230321-d2814 | fichas/colegiado/2023-03.md |
-| 19957.001096/2023-57 | 2023-03-21 | nao-provido | cvm-col-20230321-d2775 | fichas/colegiado/2023-03.md |
-| 19957.012745/2022-64 | 2023-03-07 | deferido | cvm-col-20230307-d2810 | fichas/colegiado/2023-03.md |
-| 19957.012631/2022-14 | 2023-03-07 | deferido | cvm-col-20230307-d2809 | fichas/colegiado/2023-03.md |
-| 19957.002055/2022-05 | 2023-02-28 | outro | cvm-col-20230228-d2804 | fichas/colegiado/2023-03.md |
-| 19957.012127/2022-14 | 2023-02-28 | outro | cvm-col-20230228-d2803 | fichas/colegiado/2023-03.md |
-| 19957.010091/2022-34 | 2023-02-28 | provido | cvm-col-20230228-d2692 | fichas/colegiado/2023-03.md |
-| 19957.007423/2021-12 | 2023-02-28 | nao-provido | cvm-col-20230228-d2672 | fichas/colegiado/2023-03.md |
-| 19957.004478/2019-56 | 2023-02-28 | nao-provido | cvm-col-20230228-d1439 | fichas/colegiado/2023-03.md |
-| 19957.004657/2021-16 | 2023-02-14 | conhecimento | cvm-col-20230214-d2801 | fichas/colegiado/2023-03.md |
-| 19957.013909/2022-71 | 2023-02-14 | nao-provido | cvm-col-20230214-d2799 | fichas/colegiado/2023-03.md |
-| 875/2021; 19957.001605/2021-80 | 2023-02-14 | parcial | cvm-col-20230214-d2482 | fichas/colegiado/2023-03.md |
-| 19957.008143/2018-26; 19957.008816/2018-48; 19957.010958/2018-75 | 2023-02-14 | nao-provido | cvm-col-20230214-d1497 | fichas/colegiado/2023-02.md |
-| 05/2021; 19957.009468/2018-26 | 2023-02-08 | — | cvm-col-20230208-d1441 | fichas/colegiado/2023-02.md |
-| 05/2021; 19957.009468/2018-26 | 2023-02-08 | outro | cvm-col-20230208-d1441-r2 | fichas/colegiado/2023-02.md |
-| 19957.000462/2022-70 | 2023-02-07 | parcial | cvm-col-20230207-d2797 | fichas/colegiado/2023-02.md |
-| 19957.006097/2018-21 | 2023-02-07 | conhecimento | cvm-col-20230207-d1510 | fichas/colegiado/2023-02.md |
-| 19957.004861/2022-18 | 2023-01-31 | parcial | cvm-col-20230131-d2686 | fichas/colegiado/2023-02.md |
-| 19957.002296/2020-84 | 2023-01-31 | parcial | cvm-col-20230131-d2014 | fichas/colegiado/2023-02.md |
-| 19957.008816/2018-48; 19957.004810/2019-82 | 2023-01-31 | indeferido | cvm-col-20230131-d1535 | fichas/colegiado/2023-02.md |
-| 19957.014007/2022-51 | 2023-01-24 | nao-provido | cvm-col-20230124-d2788 | fichas/colegiado/2023-02.md |
-| — | 2023-01-17 | outro | cvm-col-20230117-d5821 | fichas/colegiado/2023-02.md |
-| 19957.014007/2022-51 | 2023-01-17 | — | cvm-col-20230117-d2788 | fichas/colegiado/2023-02.md |
-| 19957.015491/2022-36 | 2023-01-17 | outro | cvm-col-20230117-d2787 | fichas/colegiado/2023-02.md |
-| 19957.013018/2022-14 | 2023-01-17 | outro | cvm-col-20230117-d2786 | fichas/colegiado/2023-02.md |
-| 19957.012617/2022-11 | 2023-01-17 | outro | cvm-col-20230117-d2785 | fichas/colegiado/2023-02.md |
-| 19957.007552/2022-91 | 2023-01-17 | parcial | cvm-col-20230117-d2784 | fichas/colegiado/2023-02.md |
-| 19957.012255/2022-68 | 2023-01-10 | deferido | cvm-col-20230110-d2780 | fichas/colegiado/2023-01.md |
-| 19957.012902/2022-31 | 2023-01-10 | nao-provido | cvm-col-20230110-d2779 | fichas/colegiado/2023-01.md |
-| 19957.013803/2022-77 | 2023-01-10 | outro | cvm-col-20230110-d2773 | fichas/colegiado/2023-01.md |
-| 19957.010949/2022-61 | 2023-01-10 | nao-provido | cvm-col-20230110-d2768 | fichas/colegiado/2023-01.md |
-| 19957.000695/2021-91 | 2023-01-10 | nao-provido | cvm-col-20230110-d2418 | fichas/colegiado/2023-01.md |
-| 19957.003690/2017-34 | 2023-01-10 | — | cvm-col-20230110-d0677 | fichas/colegiado/2023-01.md |
-| 19957.015702/2022-31 | 2023-01-04 | deferido | cvm-col-20230104-d2777 | fichas/colegiado/2023-01.md |
-| 19957.015411/2022-42 | 2023-01-03 | indeferido | cvm-col-20230103-d2775 | fichas/colegiado/2023-01.md |
-| 19957.000152/2022-55 | 2023-01-03 | nao-provido | cvm-col-20230103-d2771 | fichas/colegiado/2023-01.md |
-| 19957.000151/2022-19 | 2023-01-03 | nao-provido | cvm-col-20230103-d2770 | fichas/colegiado/2023-01.md |
-| 19957.000150/2022-66 | 2023-01-03 | nao-provido | cvm-col-20230103-d2769 | fichas/colegiado/2023-01.md |
-| 19957.012904/2022-21 | 2023-01-03 | nao-provido | cvm-col-20230103-d2767 | fichas/colegiado/2023-01.md |
-| 19957.013064/2022-13 | 2023-01-03 | nao-provido | cvm-col-20230103-d2766 | fichas/colegiado/2023-01.md |
-| 19957.013066/2022-11 | 2023-01-03 | nao-provido | cvm-col-20230103-d2765 | fichas/colegiado/2023-01.md |
-| 19957.012927/2022-35 | 2023-01-03 | nao-provido | cvm-col-20230103-d2764 | fichas/colegiado/2023-01.md |
-| 19957.012858/2022-60 | 2023-01-03 | nao-provido | cvm-col-20230103-d2763 | fichas/colegiado/2023-01.md |
-| 19957.013063/2022-79 | 2023-01-03 | nao-provido | cvm-col-20230103-d2762 | fichas/colegiado/2023-01.md |
-| 19957.013062/2022-24 | 2023-01-03 | nao-provido | cvm-col-20230103-d2761 | fichas/colegiado/2023-01.md |
-| 19957.013065/2022-68 | 2023-01-03 | nao-provido | cvm-col-20230103-d2760 | fichas/colegiado/2023-01.md |
-| 19957.013061/2022-80 | 2023-01-03 | nao-provido | cvm-col-20230103-d2759 | fichas/colegiado/2023-01.md |
-| 19957.010511/2021-00 | 2023-01-03 | conhecimento | cvm-col-20230103-d2523 | fichas/colegiado/2023-01.md |
-| 19957.000025/2022-56 | 2023-01-03 | conhecimento | cvm-col-20230103-d2502 | fichas/colegiado/2023-01.md |
+| Processo | Data | Resultado | Ementa | Id | Ficha |
+|---|---|---|---|---|---|
+| 19957.015890/2023-88 | 2023-12-26 | deferido | O Colegiado, por maioria, acompanhando a SEP, autorizou o conselho de administração da Casas Bahia a aprovar transferência de ações em… | cvm-col-20231226-d2984 | fichas/colegiado/2023-15.md |
+| 07/2023; 19957.012858/2023-41 | 2023-12-26 | outro | O Colegiado aprovou a Resolução CVM 197/2023, após a Consulta Pública SNC 07/2023, que aprova o RCPC 24 e o torna obrigatório: divulgação… | cvm-col-20231226-d2955 | fichas/colegiado/2023-14.md |
+| 19957.010088/2023-00 | 2023-12-19 | outro | O Colegiado aprovou, por unanimidade, termo aditivo ao convênio de 16.12.2013 entre a CVM e a B3 sobre sistemas eletrônicos de informações… | cvm-col-20231219-d2983 | fichas/colegiado/2023-14.md |
+| 19957.010087/2023-57 | 2023-12-19 | outro | O Colegiado, por unanimidade, aprovou termo aditivo ao Convênio de Cooperação Técnica entre a CVM e a B3 (de 13.12.2011), sobre… | cvm-col-20231219-d2982 | fichas/colegiado/2023-14.md |
+| 19957.002504/2023-98 | 2023-12-19 | outro | O Colegiado aprovou, por unanimidade, Acordo de Cooperação Técnica entre a CVM e o Município do Rio de Janeiro, para soluções de tecnologia… | cvm-col-20231219-d2981 | fichas/colegiado/2023-14.md |
+| 19957.000541/2023-61 | 2023-12-19 | outro | O Colegiado, por unanimidade, aprovou a adesão da CVM ao Acordo de Cooperação Técnica da Rede Equidade, firmado pelo Senado Federal e… | cvm-col-20231219-d2980 | fichas/colegiado/2023-14.md |
+| 19957.014621/2022-13 | 2023-12-19 | outro | O Colegiado aprovou, por unanimidade, a celebração de acordo de cooperação técnica entre a CVM e a Corporación Andina de Fomento (CAF) para… | cvm-col-20231219-d2979 | fichas/colegiado/2023-14.md |
+| 19957.001207/2023-25 | 2023-12-19 | conhecimento | O Colegiado, por unanimidade, acompanhando a área técnica, não conheceu do recurso de cotistas do Cidade FII contra decisões da SSE em… | cvm-col-20231219-d2978 | fichas/colegiado/2023-14.md |
+| 19957.014214/2023-97 | 2023-12-19 | outro | O Colegiado aprovou, por unanimidade, a Resolução CVM 196/2023, que prorroga para 01.11.2024 a entrada em vigor das seções III e IV do… | cvm-col-20231219-d2974 | fichas/colegiado/2023-14.md |
+| 19957.006771/2020-91 | 2023-12-19 | conhecimento | O Colegiado, por unanimidade, não conheceu de pedido de reconsideração em reclamação sobre a administração e a gestão do Titânio XV (FIP)… | cvm-col-20231219-d2890 | fichas/colegiado/2023-14.md |
+| 19957.002835/2022-47; 19957.015162/2023-76 | 2023-12-19 | nao-provido | O Colegiado negou, por unanimidade, o pedido de efeito suspensivo da recorrente quanto à proibição temporária de 102 meses imposta em PAS… | cvm-col-20231219-d2820 | fichas/colegiado/2023-14.md |
+| 19957.012127/2022-14 | 2023-12-19 | outro | O Colegiado, por unanimidade, aprovou termo aditivo ao Acordo de Cooperação Técnica entre a CVM e a FGV, celebrado em 04.04.2023, para… | cvm-col-20231219-d2803 | fichas/colegiado/2023-14.md |
+| 19957.003021/2020-68 | 2023-12-19 | — | Recurso da Petro Rio S.A., com pedido de efeito suspensivo, contra decisão da SEP que considerou irregular a limitação a 10% do voto de… | cvm-col-20231219-d1875 | fichas/colegiado/2023-14.md |
+| 175/2022; 19957.007496/2023-76 | 2023-12-13 | outro | O Colegiado aprovou minuta de resolução da SDM que altera a parte geral da RCVM 175/2022 para regulamentar os fundos de investimento para… | cvm-col-20231213-d2986 | fichas/colegiado/2023-13.md |
+| 35/2021; 19957.014214/2023-97 | 2023-12-13 | — | Minuta de resolução para prorrogar a entrada em vigor, fixada em 02.01.2024, das seções III e IV do Capítulo VII-A da Resolução CVM nº… | cvm-col-20231213-d2974 | fichas/colegiado/2023-13.md |
+| 19957.012068/2022-84 | 2023-12-06 | outro | O Colegiado aprovou submeter à Consulta Pública SDM nº 06/2023 minuta de resolução que flexibiliza restrições à participação no capital… | cvm-col-20231206-d2985 | fichas/colegiado/2023-13.md |
+| 19957.008429/2023-79 | 2023-12-05 | outro | O Colegiado, por unanimidade, aprovou a celebração de Acordo de Cooperação Técnica entre a CVM e a EMERJ (Escola da Magistratura do Estado… | cvm-col-20231205-d2972 | fichas/colegiado/2023-13.md |
+| 19957.011962/2023-18 | 2023-12-05 | nao-provido | O Colegiado negou provimento, por unanimidade, aos recursos da LDB Exchange DTVM e da LDB Exchange Consultoria e Licenciamento de Softwares… | cvm-col-20231205-d2970 | fichas/colegiado/2023-13.md |
+| 19957.012669/2023-78 | 2023-12-05 | deferido | O Colegiado, por unanimidade, acompanhando a área técnica, concedeu as dispensas pleiteadas por BBCE, CRT4 e CSDBr do art. 41, III, da RCVM… | cvm-col-20231205-d2969 | fichas/colegiado/2023-13.md |
+| 19957.004239/2022-00 | 2023-12-05 | provido | O Colegiado conheceu e, por maioria, deu provimento a recurso da Braskem contra entendimento da SEP em reclamação de acionista… | cvm-col-20231205-d2899 | fichas/colegiado/2023-13.md |
+| 19957.004968/2021-77 | 2023-12-05 | deferido | O Colegiado, por unanimidade, acompanhando o Comitê de Sandbox, deferiu o pedido de alteração da Deliberação CVM 877/2021 da Start Me Up… | cvm-col-20231205-d2393 | fichas/colegiado/2023-13.md |
+| — | 2023-11-29 | outro | O Colegiado deliberou sobre a agenda regulatória da CVM para 2024, conforme proposta da SDM após interação com a ASA e demais áreas… | cvm-col-20231129-d2976 | fichas/colegiado/2023-13.md |
+| 19957.012824/2023-56 | 2023-11-29 | indeferido | O Colegiado, por unanimidade, acompanhando a área técnica, não autorizou a Eletrobras a adotar critério metodológico diverso para os laudos… | cvm-col-20231129-d2968 | fichas/colegiado/2023-13.md |
+| 19957.009753/2023-12 | 2023-11-29 | — | Recurso da XP Investimentos CTVM S.A. contra entendimento da SSE de que FII e FIDC voltados ao público em geral devem expressar suas taxas… | cvm-col-20231129-d2947 | fichas/colegiado/2023-13.md |
+| 19957.007519/2020-08 | 2023-11-29 | outro | O Colegiado, por unanimidade, aprovou minuta de aditamento ao Acordo de Cooperação Técnica com a AMEC – Associação de Investidores no… | cvm-col-20231129-d2334 | fichas/colegiado/2023-13.md |
+| 141/2022; 151/2022; 19957.011032/2023-64 | 2023-11-22 | outro | O Colegiado deliberou sobre propostas da SNC de retificações pontuais às RCVM 141/2022 (demonstrações combinadas) e 151/2022 (informações… | cvm-col-20231122-d2973 | fichas/colegiado/2023-13.md |
+| 85/2022; 19957.007933/2018-94 | 2023-11-22 | outro | O Colegiado concluiu a discussão e aprovou as minutas A e B da SDM sobre OPA, em substituição à RCVM 85/2022, para consulta pública… | cvm-col-20231122-d2878 | fichas/colegiado/2023-13.md |
+| 19957.008006/2023-59 | 2023-11-21 | nao-provido | O Colegiado, por unanimidade, conheceu e negou provimento a recurso de duas companhias contra indeferimento da SNC de pedido de aplicação… | cvm-col-20231121-d2962 | fichas/colegiado/2023-12.md |
+| 19957.002655/2023-46 | 2023-11-21 | parcial | Recurso contra entendimento da SEP. Proc. 19957.002655/2023-46. | cvm-col-20231121-d2961 | fichas/colegiado/2023-12.md |
+| 85/2022; 19957.007933/2018-94 | 2023-11-21 | — | O Colegiado continuou a discussão da Minuta A, que substituirá a Resolução CVM 85/2022 sobre ofertas públicas de aquisição de ações (OPA)… | cvm-col-20231121-d2878 | fichas/colegiado/2023-12.md |
+| 19957.008986/2021-28 | 2023-11-21 | nao-provido | O Colegiado negou provimento, acompanhando a área técnica, a recurso contra decisão da SMI que negou acesso integral aos autos e… | cvm-col-20231121-d2710 | fichas/colegiado/2023-12.md |
+| 19957.003216/2021-99 | 2023-11-08 | outro | O Colegiado aprovou submeter à Consulta Pública SDM nº 04/2023 edital conceitual sobre opções regulatórias para a atuação de… | cvm-col-20231108-d2967 | fichas/colegiado/2023-12.md |
+| 85/2022; 19957.007933/2018-94 | 2023-11-08 | — | O Colegiado iniciou a discussão das minutas de norma da SDM que substituirão a Resolução CVM 85/2022 sobre OPA e serão submetidas a… | cvm-col-20231108-d2878 | fichas/colegiado/2023-12.md |
+| 85/2022; 19957.007933/2018-94 | 2023-11-08 | — | O Colegiado continuou a discussão das minutas da SDM que visam substituir a Resolução CVM 85/2022 (OPA), tendo avançado pela Minuta A até a… | cvm-col-20231108-d2878-r2 | fichas/colegiado/2023-12.md |
+| 19957.008569/2019-61 | 2023-11-07 | outro | O Colegiado aprovou, por unanimidade, minuta de termo aditivo ao acordo de cooperação técnica e educacional entre a CVM e a ANBIMA (de… | cvm-col-20231107-d1804 | fichas/colegiado/2023-12.md |
+| 60/2021; 19957.009911/2021-64 | 2023-11-01 | outro | O Colegiado aprovou a Resolução CVM 194/2023, com ajustes pontuais na Resolução CVM 60/2021 (securitizadoras) para sistematizá-la com a Lei… | cvm-col-20231101-d1640 | fichas/colegiado/2023-12.md |
+| 19957.004974/2021-24 | 2023-10-18 | outro | O Colegiado aprovou edital e minuta de anexo normativo à Resolução CVM 175/2022 sobre fundos FIAGRO, para a Consulta Pública SDM 3/2023… | cvm-col-20231018-d2242 | fichas/colegiado/2023-12.md |
+| 19957.012111/2023-92 | 2023-10-17 | deferido | O Colegiado concedeu a dispensa de requisito do art. 18 da Instrução CVM 400 às ofertas de debêntures (3ª e 4ª emissões) e de cotas do FIP… | cvm-col-20231017-d2949 | fichas/colegiado/2023-12.md |
+| 19957.012068/2023-65 | 2023-10-17 | deferido | O Colegiado aprovou, por unanimidade, acordo de cooperação técnica entre a CVM e o Instituto Brasileiro de Finanças Digitais para criar o… | cvm-col-20231017-d2948 | fichas/colegiado/2023-12.md |
+| 19957.009753/2023-12 | 2023-10-17 | — | O Colegiado iniciou a discussão de recurso da XP Investimentos CTVM S.A. contra entendimento da SSE sobre o cálculo das taxas de… | cvm-col-20231017-d2947 | fichas/colegiado/2023-11.md |
+| 19957.011044/2019-11 | 2023-10-17 | outro | O Colegiado aprovou a Resolução CVM 192/2023, que revoga 40 atos normativos já tacitamente revogados (38 instruções normativas alteradoras… | cvm-col-20231017-d1738 | fichas/colegiado/2023-11.md |
+| 19957.003419/2023-47 | 2023-10-11 | outro | O Colegiado aprovou a Resolução CVM nº 193/2023, que permite elaborar, de forma voluntária, relatório de informações de sustentabilidade… | cvm-col-20231011-d2957 | fichas/colegiado/2023-11.md |
+| 19957.012747/2023-34 | 2023-10-11 | indeferido | O Colegiado indeferiu, por unanimidade, o pedido de acionista da Getninjas S.A. para adiar em 30 dias a AGE de 23.10.2023, que delibera… | cvm-col-20231011-d2946 | fichas/colegiado/2023-11.md |
+| 85/2022; 19957.007933/2018-94 | 2023-10-11 | — | Apresentação da SDM sobre propostas de reforma da Resolução CVM 85/2022 (OPA), com foco na OPA por aumento de participação, para colher… | cvm-col-20231011-d2878 | fichas/colegiado/2023-11.md |
+| 19957.003953/2021-91; 19957.004982/2021-71 | 2023-10-10 | conhecimento | O Colegiado, por unanimidade, não conheceu da reclamação da Reit Securitizadora S.A., tratada como pedido de reconsideração de decisão que… | cvm-col-20231010-d2566-2567 | fichas/colegiado/2023-11.md |
+| 19957.012857/2023-04 | 2023-10-04 | outro | Para consulta pública – proposta de resolução – pronunciamento técnico CPC 09(R1) – demonstração do valor adicionado – obrigatoriedade para… | cvm-col-20231004-d2956 | fichas/colegiado/2023-11.md |
+| 19957.012858/2023-41 | 2023-10-04 | outro | O Colegiado aprovou submeter à Consulta Pública SNC 7/2023, em conjunto com CPC e CFC, minuta que aprova o Documento de Revisão de… | cvm-col-20231004-d2955 | fichas/colegiado/2023-11.md |
+| 05/2023; 19957.014130/2022-72 | 2023-10-04 | outro | O Colegiado aprovou a Resolução CVM nº 191/2023, que torna obrigatório para companhias abertas o Documento de Revisão de Pronunciamentos… | cvm-col-20231004-d2888 | fichas/colegiado/2023-11.md |
+| 04/2023; 19957.007414/2023-93 | 2023-10-04 | outro | O Colegiado aprovou a Resolução CVM 188/2023, após a Consulta Pública SNC 04/2023, que torna obrigatório para as companhias abertas o… | cvm-col-20231004-d2887 | fichas/colegiado/2023-11.md |
+| 03/2023; 19957.003462/2023-11 | 2023-10-04 | outro | O Colegiado aprovou a Resolução CVM 189/2023, que aprova a OCPC 07(R1), sobre evidenciação em relatórios financeiros para fins gerais, e a… | cvm-col-20231004-d2857 | fichas/colegiado/2023-11.md |
+| 02/2023; 19957.003456/2023-55 | 2023-10-04 | outro | Após a consulta pública SNC nº 02/2023 – proposta de resolução – pronunciamento técnico CPC 12(R1) – ajuste a valor presente… | cvm-col-20231004-d2855 | fichas/colegiado/2023-11.md |
+| 19957.004812/2022-77 | 2023-10-03 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.004812/2022-77. | cvm-col-20231003-d2939 | fichas/colegiado/2023-11.md |
+| 19957.002686/2022-16 | 2023-10-03 | nao-provido | O Colegiado, acompanhando a área técnica (SNC), negou provimento a recurso contra suspensão do cadastro de responsável técnico de auditor… | cvm-col-20231003-d2937 | fichas/colegiado/2023-10.md |
+| 19957.010412/2017-33 | 2023-10-03 | nao-provido | O Colegiado negou provimento a recurso de ex-membro independente do conselho de administração contra entendimento da SEP em reclamação… | cvm-col-20231003-d0852 | fichas/colegiado/2023-10.md |
+| 19957.014275/2022-73 | 2023-09-27 | — | Em reunião do Colegiado, o GT LAB apresentou o conceito de capital híbrido (blended finance), que usa capital catalítico (filantrópico ou… | cvm-col-20230927-d2940 | fichas/colegiado/2023-10.md |
+| 19957.007883/2023-11 | 2023-09-26 | — | Proposta de resolução para alterar a Resolução CVM nº 175/22. O Colegiado iniciou a discussão e deliberou que o assunto seja apreciado no… | cvm-col-20230926-d2934 | fichas/colegiado/2023-10.md |
+| 19957.007883/2023-11 | 2023-09-26 | outro | O Colegiado aprovou a Resolução CVM 187/2023, com ajustes pontuais na Resolução CVM 175/2022 (regime dos fundos) em dispositivos gerais e… | cvm-col-20230926-d2934-r2 | fichas/colegiado/2023-10.md |
+| 19957.004081/2023-41 | 2023-09-26 | outro | Após desistência do recurso da Brascorp Participações Ltda. contra a SRE, o Colegiado conheceu o tema como consulta sobre a OPA por aumento… | cvm-col-20230926-d2929 | fichas/colegiado/2023-10.md |
+| 19957.012679/2022-22 | 2023-09-26 | parcial | O Colegiado deu provimento parcial a recurso de acionista minoritário contra a recusa da companhia em fornecer certidões dos livros de… | cvm-col-20230926-d2846 | fichas/colegiado/2023-10.md |
+| 19957.009335/2021-55 | 2023-09-26 | indeferido | O Colegiado indeferiu os pedidos de produção de provas apresentados pelo acusado no PAS instaurado pela SMI sobre atuação como agente… | cvm-col-20230926-d2576 | fichas/colegiado/2023-10.md |
+| 19957.009938/2021-57 | 2023-09-20 | outro | O Colegiado aprovou o edital e a minuta de resolução da Consulta Pública SDM nº 2/2023 sobre portabilidade de valores mobiliários, que… | cvm-col-20230920-d2936 | fichas/colegiado/2023-10.md |
+| 19957.011889/2022-01 | 2023-09-19 | deferido | O Colegiado concedeu, por unanimidade, à Banestes DTVM S.A. a dispensa de indicar diretor estatutário responsável exigida pelas Resoluções… | cvm-col-20230919-d2923 | fichas/colegiado/2023-10.md |
+| 19957.005033/2018-11 | 2023-09-19 | nao-provido | O Colegiado, acompanhando o voto do Diretor Relator e as conclusões da SEP e da SMI, negou provimento a recurso contra decisão da SEP e da… | cvm-col-20230919-d1155 | fichas/colegiado/2023-10.md |
+| 19957.009938/2021-57 | 2023-09-13 | — | O Colegiado iniciou a discussão da minuta da Consulta Pública SDM 2/2023, que altera as Resoluções CVM 31, 32, 33, 35/2021 e 175/2022 para… | cvm-col-20230913-d2936 | fichas/colegiado/2023-10.md |
+| 19957.010736/2022-39 | 2023-09-12 | indeferido | O Colegiado, por unanimidade, indeferiu pedido de dispensa das vedações da ICVM 356 (art. 39, §2º e art. 40-A, §9º) e da RCVM 175 (Anexo… | cvm-col-20230912-d2924 | fichas/colegiado/2023-10.md |
+| 19957.011889/2022-01 | 2023-09-12 | — | O Colegiado iniciou a discussão do pedido da Banestes DTVM S.A. de dispensa da indicação de diretor estatutário responsável (Resoluções CVM… | cvm-col-20230912-d2923 | fichas/colegiado/2023-10.md |
+| 81/2022; 19957.011456/2017-81 | 2023-09-06 | outro | O Colegiado aprovou edital e minuta para a Consulta Pública SDM 1/2023, com proposta de reforma da Resolução CVM 81/2022 sobre participação… | cvm-col-20230906-d2925 | fichas/colegiado/2023-10.md |
+| 19957.004762/2023-17 | 2023-09-05 | outro | O Colegiado aprovou, por unanimidade, a celebração de acordo de cooperação técnica entre a CVM e o IBTCC, para soluções de tecnologia da… | cvm-col-20230905-d2916 | fichas/colegiado/2023-10.md |
+| 19957.004416/2016-00; 19957.009023/2023-11 | 2023-09-05 | nao-provido | O Colegiado negou provimento a pedido de efeito suspensivo do acusado contra condenação em PAS (multa de R$ 169.448.080,00 e inabilitação… | cvm-col-20230905-d1498 | fichas/colegiado/2023-09.md |
+| 81/2022; 19957.011456/2017-81 | 2023-08-30 | — | O Colegiado iniciou a discussão do edital e da minuta da Consulta Pública SDM nº 1/2023, que reforma a Resolução CVM 81/2022 quanto à… | cvm-col-20230830-d2925 | fichas/colegiado/2023-09.md |
+| 19957.003763/2023-36 | 2023-08-29 | nao-provido | O Colegiado, por unanimidade, acompanhando a área técnica, negou provimento a recurso contra indeferimento de credenciamento de… | cvm-col-20230829-d2922 | fichas/colegiado/2023-09.md |
+| 19957.004403/2022-71 | 2023-08-29 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.004403/2022-71. | cvm-col-20230829-d2921 | fichas/colegiado/2023-09.md |
+| 19957.004816/2022-55 | 2023-08-29 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.004816/2022-55. | cvm-col-20230829-d2920 | fichas/colegiado/2023-09.md |
+| 19957.000972/2023-28 | 2023-08-29 | parcial | O Colegiado, acompanhando a SRE, não conheceu do pedido de reconsideração contra a decisão que revogou a dispensa de leilão da OPA para… | cvm-col-20230829-d2894 | fichas/colegiado/2023-09.md |
+| 19957.001764/2018-89 | 2023-08-29 | conhecimento | O Colegiado, por unanimidade, não conheceu do pedido de reconsideração da BRF S.A. contra decisão de 10.05.2022, que negou provimento a… | cvm-col-20230829-d2578 | fichas/colegiado/2023-09.md |
+| 81/2022; 19957.011456/2017-81 | 2023-08-23 | outro | O Colegiado deliberou pela adoção da combinação de alternativas do Relatório de AIR sobre a reforma da RCVM 81/2022 (votação a distância em… | cvm-col-20230823-d2925 | fichas/colegiado/2023-09.md |
+| 19957.004762/2023-17 | 2023-08-22 | outro | O Colegiado, por unanimidade, devolveu à área técnica a proposta de acordo de cooperação técnica entre a CVM e o IBTCC para diligências… | cvm-col-20230822-d2916 | fichas/colegiado/2023-09.md |
+| 19957.012803/2022-50 | 2023-08-22 | nao-provido | O Colegiado negou provimento, por unanimidade, a recurso contra entendimento da SSE, dado em consulta, que manteve o real como moeda… | cvm-col-20230822-d2915 | fichas/colegiado/2023-09.md |
+| 19957.008727/2023-69 | 2023-08-16 | outro | O Colegiado aprovou submeter à consulta pública, com CPC e CFC, minuta de resolução que aprova a OCPC 10 (créditos de descarbonização)… | cvm-col-20230816-d2917 | fichas/colegiado/2023-09.md |
+| 19957.009517/2023-98 | 2023-08-16 | outro | O Colegiado aprovou a revisão da agenda regulatória de 2023 da SNC, com retirada de itens (ICVM 516, 489, 579 e 577; OCPC 06; OCPC sobre… | cvm-col-20230816-d2795 | fichas/colegiado/2023-09.md |
+| 19957.001770/2023-01 | 2023-08-15 | outro | O Colegiado aprovou, por unanimidade, propostas da BSM Supervisão de Mercados de alteração de Estatuto, Regulamento Processual, Regimento… | cvm-col-20230815-d2914 | fichas/colegiado/2023-09.md |
+| 19957.002556/2021-01 | 2023-08-15 | outro | O Colegiado aprovou, por unanimidade, a edição de Parecer de Orientação sobre as sociedades anônimas do futebol (SAF) e o mercado de… | cvm-col-20230815-d2910 | fichas/colegiado/2023-09.md |
+| 19957.003455/2023-19 | 2023-08-15 | conhecimento | O Colegiado não conheceu de recurso de administrador da Celesc contra a SEP, em reclamação sobre a eleição de conselheiros que também… | cvm-col-20230815-d2906 | fichas/colegiado/2023-09.md |
+| 555/2014; 19957.012247/2023-01 | 2023-08-09 | outro | O Colegiado aprovou a ARR sobre o regime informacional dos fundos regidos pela ICVM 555/2014, nos termos do art. 42 da Resolução CVM… | cvm-col-20230809-d2930 | fichas/colegiado/2023-09.md |
+| 19957.008727/2023-69 | 2023-08-09 | — | O Colegiado iniciou o debate de minuta de resolução que aprova a OCPC 10 (créditos de descarbonização), a ser submetida a consulta pública… | cvm-col-20230809-d2917 | fichas/colegiado/2023-08.md |
+| 19957.008903/2023-62 | 2023-08-08 | deferido | O Colegiado, por unanimidade, deu provimento a pedido de acionista para adiar a AGE da PDG Realty S.A., convocada para 10.08.2023 (aumento… | cvm-col-20230808-d2908 | fichas/colegiado/2023-08.md |
+| 19957.008444/2023-17 | 2023-08-08 | nao-provido | O Colegiado, por unanimidade, acompanhando a área técnica, negou provimento a recurso da Curtume Jangadas S.A. contra cancelamento de… | cvm-col-20230808-d2904 | fichas/colegiado/2023-08.md |
+| 19957.004239/2022-00 | 2023-08-08 | — | Recurso contra entendimento da SEP em processo de reclamação envolvendo a Braskem S.A. O Colegiado iniciou a discussão e o Presidente pediu… | cvm-col-20230808-d2899 | fichas/colegiado/2023-08.md |
+| 19957.008764/2021-13 | 2023-08-08 | conhecimento | O Colegiado, por maioria, acompanhando a área técnica, não conheceu do pedido de reconsideração contra decisão que manteve a não… | cvm-col-20230808-d2617 | fichas/colegiado/2023-08.md |
+| 19957.004968/2021-77 | 2023-08-01 | deferido | O Colegiado, por unanimidade, acompanhando o Comitê de Sandbox (CDS), deferiu pedidos de prorrogação da Deliberação CVM 877/21 até… | cvm-col-20230801-d2393 | fichas/colegiado/2023-08.md |
+| 19957.000972/2023-28 | 2023-07-14 | outro | O Colegiado, por unanimidade, acompanhando a SRE, revogou a dispensa de leilão da OPA para cancelamento de registro da Têxtil Renauxview e… | cvm-col-20230714-d2894 | fichas/colegiado/2023-08.md |
+| 19957.015402/2022-51 | 2023-07-14 | outro | O Colegiado aprovou, por unanimidade, a nova versão do Regulamento de Emissores da B3, que consolida o Regulamento para Listagem e o Manual… | cvm-col-20230714-d2844 | fichas/colegiado/2023-08.md |
+| 19957.008364/2023-61 | 2023-07-14 | outro | O Colegiado aprovou a Resolução CVM 186/2023, que altera o Regimento Interno da CVM (RCVM 24/2021) para refletir o Decreto 11.594/2023… | cvm-col-20230714-d2083 | fichas/colegiado/2023-08.md |
+| 19957.002556/2021-01 | 2023-07-12 | — | O Colegiado assistiu à apresentação da SDM e da Presidência sobre a minuta de parecer de orientação sobre a Sociedade Anônima do Futebol… | cvm-col-20230712-d2910 | fichas/colegiado/2023-08.md |
+| 19957.015034/2022-41 | 2023-07-11 | deferido | O Colegiado, por unanimidade, aprovou a celebração de acordo de cooperação técnica entre a CVM e a FIESP para fomentar o acesso da… | cvm-col-20230711-d2896 | fichas/colegiado/2023-08.md |
+| 19957.000972/2023-28 | 2023-07-11 | — | Pedido de adoção de procedimento diferenciado no âmbito da OPA para cancelamento de registro e da OPA concorrente de Têxtil Renauxview S.A… | cvm-col-20230711-d2894 | fichas/colegiado/2023-08.md |
+| 19957.005809/2022-71 | 2023-07-11 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.005809/2022-71. | cvm-col-20230711-d2893 | fichas/colegiado/2023-08.md |
+| 19957.006544/2023-17 | 2023-07-11 | provido | O Colegiado deu provimento a recurso do Instituto Ibero-Americano da Empresa contra a recusa da Americanas S.A. em fornecer certidões do… | cvm-col-20230711-d2892 | fichas/colegiado/2023-08.md |
+| 19957.007266/2022-26 | 2023-07-11 | indeferido | O Colegiado indeferiu, por unanimidade, os pedidos de produção de provas (perícia grafotécnica, oitivas e juntada de documentos) formulados… | cvm-col-20230711-d2813 | fichas/colegiado/2023-07.md |
+| 19957.001584/2023-64 | 2023-07-11 | deferido | O Colegiado concedeu dispensa temporária do art. 33, caput, da RCVM 135 (atribuição da auditoria interna a diretor estatutário) à CRT4 até… | cvm-col-20230711-d2350 | fichas/colegiado/2023-07.md |
+| 19957.001322/2023-08 | 2023-07-11 | parcial | O Colegiado concedeu parcialmente as dispensas pleiteadas pela CSD BR da RCVM 135, acompanhando a área técnica (SMI), que propôs deferir a… | cvm-col-20230711-d1803 | fichas/colegiado/2023-07.md |
+| 9/2020; 19957.000127/2020-18 | 2023-07-11 | outro | O Colegiado, por unanimidade, aprovou a Resolução CVM nº 185/2023, que adequa a Resolução CVM nº 9/2020 ao limite de 60 dias do Decreto nº… | cvm-col-20230711-d1683 | fichas/colegiado/2023-07.md |
+| 19957.009696/2021-00 | 2023-07-05 | outro | Após AIR sobre a obrigatoriedade do conselho fiscal em companhias de pequeno e médio porte, o Colegiado decidiu pela não ação, em… | cvm-col-20230705-d2909 | fichas/colegiado/2023-07.md |
+| 19957.006771/2020-91 | 2023-07-04 | conhecimento | O Colegiado, por unanimidade, não conheceu de recurso contra decisão da SSE em reclamação sobre FIP, que apontava vício em assembleia… | cvm-col-20230704-d2890 | fichas/colegiado/2023-07.md |
+| 19957.004375/2022-91 | 2023-07-04 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.004375/2022-91. | cvm-col-20230704-d2885 | fichas/colegiado/2023-07.md |
+| 19957.004398/2022-04 | 2023-07-04 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.004398/2022-04. | cvm-col-20230704-d2884 | fichas/colegiado/2023-07.md |
+| 19957.002234/2023-15 | 2023-06-27 | deferido | O Colegiado concedeu as autorizações pleiteadas pela CIP S.A. (Nuclea), acompanhando a SMI: incorporar as ações da CRT4 – Central de… | cvm-col-20230627-d2881 | fichas/colegiado/2023-07.md |
+| 19957.012901/2022-97 | 2023-06-27 | outro | O Colegiado aprovou, por unanimidade, a celebração de acordo de cooperação técnica entre a CVM e o FGC, para intercâmbio de informações… | cvm-col-20230627-d2880 | fichas/colegiado/2023-07.md |
+| 19957.003918/2023-34 | 2023-06-27 | deferido | O Colegiado, contra manifestação desfavorável da SRE, aprovou procedimento diferenciado para descontinuidade dos BDR Nível III da Nu… | cvm-col-20230627-d2878 | fichas/colegiado/2023-07.md |
+| 19957.003053/2023-14 | 2023-06-27 | deferido | O Colegiado, por maioria, concedeu à CIP S.A. (Nuclea) dispensas da RCVM 175/2022 (Anexo II, arts. 30, I, 42, §1º e 36, §4º) por um ano… | cvm-col-20230627-d2875 | fichas/colegiado/2023-07.md |
+| 19957.007951/2021-71 | 2023-06-27 | outro | Retomado após pedido de vista, o Colegiado devolveu à área técnica, por unanimidade, o pedido da B3 de alterar normativos e limitar sua… | cvm-col-20230627-d2818 | fichas/colegiado/2023-07.md |
+| 19957.003983/2022-89 | 2023-06-22 | nao-provido | O Colegiado, acompanhando a área técnica, negou provimento a recurso de acionistas minoritários que pedia a suspensão da OPA por alienação… | cvm-col-20230622-d2882 | fichas/colegiado/2023-07.md |
+| 19957.014130/2022-72 | 2023-06-21 | outro | O Colegiado aprovou submeter à consulta pública, com CPC e CFC, minuta de resolução que torna obrigatório para as companhias abertas o… | cvm-col-20230621-d2888 | fichas/colegiado/2023-07.md |
+| 19957.007414/2023-93 | 2023-06-21 | outro | O Colegiado aprovou submeter à consulta pública, junto com CPC e CFC, minuta de resolução que torna obrigatória às companhias abertas a… | cvm-col-20230621-d2887 | fichas/colegiado/2023-06.md |
+| 19957.006318/2023-28 | 2023-06-20 | indeferido | O Colegiado indeferiu, por unanimidade, pedido de grupo de acionistas para adiar o curso do prazo de convocação da AGO/E da Oi em… | cvm-col-20230620-d2883 | fichas/colegiado/2023-06.md |
+| 19957.003690/2017-34 | 2023-06-20 | nao-provido | Recurso contra decisão da SRE. Proc. 19957.003690/2017-34. | cvm-col-20230620-d0677 | fichas/colegiado/2023-06.md |
+| 19957.002266/2023-11 | 2023-06-06 | conhecimento | O Colegiado não conheceu, por unanimidade, do recurso do Instituto Ibero-Americano da Empresa contra entendimento da SEP em reclamação… | cvm-col-20230606-d2872 | fichas/colegiado/2023-06.md |
+| 19957.008014/2018-38 | 2023-06-06 | outro | O Colegiado aprovou, por unanimidade, minuta de aditamento ao convênio da CVM com o CFC (de 24.04.2020), para incluir cláusula sobre a LGPD… | cvm-col-20230606-d1141 | fichas/colegiado/2023-06.md |
+| 19957.002409/2023-94 | 2023-05-30 | outro | O Colegiado aprovou, por unanimidade, minuta de aditamento ao convênio entre a CVM e a B3 sobre acompanhamento e fiscalização da prestação… | cvm-col-20230530-d2868 | fichas/colegiado/2023-06.md |
+| 19957.002408/2023-40 | 2023-05-30 | outro | O Colegiado aprovou, por unanimidade, minuta de aditamento ao convênio da CVM com a B3 (de 16.12.2013), para atualizar a denominação social… | cvm-col-20230530-d2867 | fichas/colegiado/2023-06.md |
+| 19957.004368/2022-90 | 2023-05-30 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.004368/2022-90. | cvm-col-20230530-d2865 | fichas/colegiado/2023-06.md |
+| 19957.001093/2023-13 | 2023-05-30 | parcial | O Colegiado, por unanimidade, deu provimento parcial a recurso de fundo acionista contra a negativa da Gafisa S.A. de certidão do livro de… | cvm-col-20230530-d2864 | fichas/colegiado/2023-06.md |
+| 19957.008434/2019-03 | 2023-05-30 | outro | O Colegiado aprovou, por unanimidade, nova definição jurídica dos fatos (art. 47, RCVM 45/2021) em PAS sobre a incorporação da Bertin pela… | cvm-col-20230530-d2200 | fichas/colegiado/2023-06.md |
+| 19957.004687/2020-33 | 2023-05-30 | parcial | Após pedido de vista, o Colegiado deu parcial provimento a recurso do Banco BMG contra decisão da SEP favorável à reclamação de acionista… | cvm-col-20230530-d2143 | fichas/colegiado/2023-06.md |
+| 19957.001989/2022-11 | 2023-05-23 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.001989/2022-11. | cvm-col-20230523-d2863 | fichas/colegiado/2023-06.md |
+| 19957.005460/2022-77 | 2023-05-23 | outro | O Colegiado aprovou, por unanimidade, acordo de cooperação técnica entre a CVM e a Associação Brasileira de Criptoeconomia (ABCripto) para… | cvm-col-20230523-d2861 | fichas/colegiado/2023-06.md |
+| 19957.014576/2022-05 | 2023-05-23 | outro | Em consulta da SEP, o Colegiado, por maioria (vencido um diretor), entendeu possível distribuir dividendos intercalares apurados em balanço… | cvm-col-20230523-d2859 | fichas/colegiado/2023-06.md |
+| 19957.003825/2022-29 | 2023-05-23 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.003825/2022-29. | cvm-col-20230523-d2858 | fichas/colegiado/2023-06.md |
+| 19957.002055/2022-05 | 2023-05-23 | nao-provido | O Colegiado, por unanimidade, acompanhando a área técnica, negou provimento a recurso de dois denunciantes contra decisão da SEP que deu… | cvm-col-20230523-d2804 | fichas/colegiado/2023-06.md |
+| 175/2022; 19957.006037/2021-11 | 2023-05-17 | outro | O Colegiado aprovou a Resolução CVM 184/2023, que faz ajustes pontuais na Resolução CVM 175/2022 (marco dos fundos) e acrescenta anexos… | cvm-col-20230517-d5474 | fichas/colegiado/2023-05.md |
+| 19957.008764/2021-13 | 2023-05-16 | nao-provido | Em retomada após pedido de vista, o Colegiado, por maioria, negou provimento a recurso de fundos minoritários da Coelba e manteve o… | cvm-col-20230516-d2617 | fichas/colegiado/2023-05.md |
+| 19957.004381/2021-68 | 2023-05-16 | conhecimento | O Colegiado, por unanimidade, não conheceu dos embargos de declaração opostos pela Monetar DTVM e por um acusado contra decisão… | cvm-col-20230516-d2479 | fichas/colegiado/2023-05.md |
+| 19957.003462/2023-11 | 2023-05-10 | outro | O Colegiado aprovou submeter à consulta pública, junto com CPC e CFC, minuta de resolução que torna obrigatória às companhias abertas a… | cvm-col-20230510-d2857 | fichas/colegiado/2023-05.md |
+| 19957.003459/2023-99 | 2023-05-10 | outro | O Colegiado aprovou submeter à consulta pública, com o CPC e o CFC, minuta de resolução que torna obrigatório para as companhias abertas o… | cvm-col-20230510-d2856 | fichas/colegiado/2023-05.md |
+| 19957.003456/2023-55 | 2023-05-10 | outro | O Colegiado aprovou submeter à consulta pública, com o CPC e o CFC, minuta de resolução que aprova o Pronunciamento Técnico CPC nº 12(R1)… | cvm-col-20230510-d2855 | fichas/colegiado/2023-05.md |
+| 19957.010357/2022-49 | 2023-05-09 | conhecimento | O Colegiado conheceu do recurso de um cotista do BB Progressivo II FII apenas como consulta e, por unanimidade, acompanhou a SSE. Entendeu… | cvm-col-20230509-d2851 | fichas/colegiado/2023-05.md |
+| 19957.015087/2022-62 | 2023-05-09 | parcial | Em pedido de reconsideração da SEP e da SNC, o Colegiado reformou o adiamento para 2024 e fixou o CPC 50 para DFPs de exercícios iniciados… | cvm-col-20230509-d2825 | fichas/colegiado/2023-05.md |
+| 03/2021; 19957.000017/2019-12 | 2023-05-03 | outro | O Colegiado aprovou, após a Audiência Pública SDM nº 03/2021, a edição das Resoluções CVM nºs 182 e 183/2023 sobre BDR. A 182 disciplina… | cvm-col-20230503-d2124 | fichas/colegiado/2023-05.md |
+| 00783.002228/2018-10 | 2023-05-02 | outro | O Colegiado, por unanimidade, aprovou termo aditivo que prorroga a vigência do termo de cooperação técnica entre a CVM e o Ministério… | cvm-col-20230502-d2850 | fichas/colegiado/2023-05.md |
+| 19957.015087/2022-62 | 2023-05-02 | provido | O Colegiado deu provimento, por maioria, ao recurso da CNseg contra entendimento da SEP e da SNC que indeferiu o adiamento do CPC 50 para… | cvm-col-20230502-d2825 | fichas/colegiado/2023-05.md |
+| 19957.006179/2021-71 | 2023-05-02 | conhecimento | O Colegiado não conheceu do recurso da GBB contra decisão da SEP que não instaurou PAS sobre permuta de debêntures da Hauscenter, por… | cvm-col-20230502-d2699 | fichas/colegiado/2023-04.md |
+| 874/2021; 19957.004670/2021-67 | 2023-05-02 | parcial | O Colegiado, acompanhando a recomendação do Comitê de Sandbox (CDS), deferiu parcialmente os pedidos de alteração da Deliberação CVM nº… | cvm-col-20230502-d2498 | fichas/colegiado/2023-04.md |
+| 19957.002748/2023-71 | 2023-04-25 | indeferido | O Colegiado, por unanimidade, acompanhando a SEP, não determinou a interrupção do prazo de convocação da AGE da Gafisa de 28.04.2023… | cvm-col-20230425-d2848 | fichas/colegiado/2023-04.md |
+| 19957.014104/2022-44 | 2023-04-25 | nao-provido | O Colegiado negou provimento, por unanimidade, ao recurso da gestora do FIP Fabbriani contra entendimento da SIN em reclamação sobre a… | cvm-col-20230425-d2832 | fichas/colegiado/2023-04.md |
+| 19957.015402/2022-51 | 2023-04-18 | — | Proposta de nova versão do Regulamento de Emissores da B3. O Colegiado iniciou a discussão, sem deliberação. Julgamento suspenso por pedido… | cvm-col-20230418-d2844 | fichas/colegiado/2023-04.md |
+| 19957.010130/2022-01 | 2023-04-11 | conhecimento | O Colegiado, por unanimidade, acompanhando a área técnica (SIN), não conheceu dos recursos da MDL Trust contra 67 multas cominatórias, de… | cvm-col-20230411-d2831 | fichas/colegiado/2023-04.md |
+| 19957.015013/2022-26 | 2023-04-11 | deferido | O Colegiado, por unanimidade, acompanhando a SMI, concedeu à B3 a autorização (art. 11, V, da RCVM 135/2022) para adquirir 100% do capital… | cvm-col-20230411-d2811 | fichas/colegiado/2023-04.md |
+| 19957.003690/2017-34 | 2023-04-11 | — | Recurso contra decisão da SRE. Proc. 19957.003690/2017-34. | cvm-col-20230411-d0677 | fichas/colegiado/2023-04.md |
+| 175/2022; 19957.006037/2021-11 | 2023-04-05 | outro | O Colegiado iniciou o debate sobre proposta da SDM que altera a Resolução CVM 175 e acrescenta anexos normativos. Nesta reunião, aprovou os… | cvm-col-20230405-d5474 | fichas/colegiado/2023-04.md |
+| 19957.015087/2022-62 | 2023-04-04 | — | O Colegiado iniciou a discussão do recurso da CNseg contra entendimento da SEP e da SNC que indeferiram o adiamento do CPC 50 (contratos de… | cvm-col-20230404-d2825 | fichas/colegiado/2023-04.md |
+| 19957.001660/2023-31 | 2023-04-04 | deferido | O Colegiado concedeu dispensa de requisito do art. 18 da Instrução CVM 400/2003 para as ofertas de duas emissões de debêntures e de cotas… | cvm-col-20230404-d2822 | fichas/colegiado/2023-04.md |
+| 19957.015627/2022-16 | 2023-04-04 | outro | O Colegiado, acompanhando a área técnica, respondeu em tese à consulta da B3 sobre grandes lotes: propostas 1 a 6 admissíveis, sujeitas a… | cvm-col-20230404-d2819 | fichas/colegiado/2023-04.md |
+| 19957.005174/2019-14 | 2023-04-04 | conhecimento | O Colegiado não conheceu dos embargos de declaração opostos contra condenação em PAS por front running e restituiu aos acusados o prazo… | cvm-col-20230404-d2430 | fichas/colegiado/2023-04.md |
+| 19957.002146/2023-13 | 2023-03-28 | outro | O Colegiado, por unanimidade, aprovou a Resolução CVM 181/2023, que altera pontualmente a Resolução CVM 175/2022 (marco dos fundos) e… | cvm-col-20230328-d5474 | fichas/colegiado/2023-04.md |
+| 19957.011851/2022-21 | 2023-03-28 | deferido | O Colegiado deferiu o pedido da ofertante de prazo adicional de 10 dias, contados da comunicação da decisão, para divulgar o edital da OPA… | cvm-col-20230328-d2821 | fichas/colegiado/2023-03.md |
+| 19957.007951/2021-71 | 2023-03-28 | — | Pedido da B3 de autorização (art. 180, I, da RCVM 135/2022) para alterar regulamentos e manuais e uniformizar limitação de responsabilidade… | cvm-col-20230328-d2818 | fichas/colegiado/2023-03.md |
+| 19957.008764/2021-13 | 2023-03-28 | — | Recurso de fundos minoritários da Coelba contra entendimento da SRE de que não haveria OPA por aumento de participação na aquisição da… | cvm-col-20230328-d2617 | fichas/colegiado/2023-03.md |
+| 80/2022; 160/2022; 19957.000850/2023-31 | 2023-03-21 | outro | O Colegiado, por unanimidade, aprovou a RCVM 180/2023, que altera as RCVM 160 e 80: esclarece o conceito de emissor frequente de renda fixa… | cvm-col-20230321-d2814 | fichas/colegiado/2023-03.md |
+| 19957.001096/2023-57 | 2023-03-21 | nao-provido | O Colegiado, por unanimidade, acompanhando a SEP, recebeu o pedido de reconsideração como consulta e manteve o entendimento de que o art… | cvm-col-20230321-d2775 | fichas/colegiado/2023-03.md |
+| 19957.012745/2022-64 | 2023-03-07 | deferido | O Colegiado, por unanimidade, acompanhando a SMI, concedeu à B3 a autorização pleiteada, nos termos do art. 11, V, da RCVM 135/2022, para… | cvm-col-20230307-d2810 | fichas/colegiado/2023-03.md |
+| 19957.012631/2022-14 | 2023-03-07 | deferido | O Colegiado concedeu temporariamente, por unanimidade, as dispensas de requisitos da RCVM 135/2022 pleiteadas pela BBCE – Balcão Brasileiro… | cvm-col-20230307-d2809 | fichas/colegiado/2023-03.md |
+| 19957.002055/2022-05 | 2023-02-28 | outro | O Colegiado decidiu encaminhar o processo à PFE/CVM para manifestação sobre recurso contra decisão da SEP em pedido de acesso aos autos… | cvm-col-20230228-d2804 | fichas/colegiado/2023-03.md |
+| 19957.012127/2022-14 | 2023-02-28 | outro | O Colegiado aprovou a celebração de Acordo de Cooperação Técnica entre a CVM e a FGV para projetos de pesquisa sobre o desenvolvimento do… | cvm-col-20230228-d2803 | fichas/colegiado/2023-03.md |
+| 19957.010091/2022-34 | 2023-02-28 | provido | O Colegiado, por unanimidade, acompanhando a SIN, deferiu pedido de reconsideração da MDL Trust e manteve o credenciamento como… | cvm-col-20230228-d2692 | fichas/colegiado/2023-03.md |
+| 19957.007423/2021-12 | 2023-02-28 | nao-provido | O Colegiado conheceu e negou provimento ao recurso do SPS I Fundo de Investimento de Ações contra entendimento da SEP em reclamação sobre a… | cvm-col-20230228-d2672 | fichas/colegiado/2023-03.md |
+| 19957.004478/2019-56 | 2023-02-28 | nao-provido | O Colegiado, por unanimidade, negou provimento ao recurso da Gafisa S.A. contra manifestação da SEP que concluiu pela irregularidade das… | cvm-col-20230228-d1439 | fichas/colegiado/2023-03.md |
+| 19957.004657/2021-16 | 2023-02-14 | conhecimento | O Colegiado não conheceu, por unanimidade, do recurso da Reit Securitizadora contra entendimento da SSE em reclamação sobre suposto… | cvm-col-20230214-d2801 | fichas/colegiado/2023-03.md |
+| 19957.013909/2022-71 | 2023-02-14 | nao-provido | O Colegiado, acompanhando a área técnica, negou provimento a recurso contra indeferimento de credenciamento como administrador de carteiras… | cvm-col-20230214-d2799 | fichas/colegiado/2023-03.md |
+| 875/2021; 19957.001605/2021-80 | 2023-02-14 | parcial | O Colegiado, por maioria, deferiu em parte os pedidos de alteração da Deliberação CVM 875/2021 (sandbox regulatório) das Vórtx DTVM e Vórtx… | cvm-col-20230214-d2482 | fichas/colegiado/2023-03.md |
+| 19957.008143/2018-26; 19957.008816/2018-48; 19957.010958/2018-75 | 2023-02-14 | nao-provido | O Colegiado julgou prejudicado, por perda de objeto, o pedido de conexão entre três PAS apresentado pela Argus e por outra acusada, pois a… | cvm-col-20230214-d1497 | fichas/colegiado/2023-02.md |
+| 05/2021; 19957.009468/2018-26 | 2023-02-08 | — | O Colegiado iniciou o debate sobre as propostas de resoluções que regulam a atividade de assessor de investimento (Audiência Pública SDM… | cvm-col-20230208-d1441 | fichas/colegiado/2023-02.md |
+| 05/2021; 19957.009468/2018-26 | 2023-02-08 | outro | O Colegiado aprovou a edição das Resoluções CVM 178 e 179, de 14.02.2023, após a Audiência Pública SDM 05/2021. A RCVM 178 cria o marco… | cvm-col-20230208-d1441-r2 | fichas/colegiado/2023-02.md |
+| 19957.000462/2022-70 | 2023-02-07 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.000462/2022-70. | cvm-col-20230207-d2797 | fichas/colegiado/2023-02.md |
+| 19957.006097/2018-21 | 2023-02-07 | conhecimento | O Colegiado não conheceu, por unanimidade, acompanhando a SIN, de recurso de credores da massa falida do Banco Cruzeiro do Sul contra… | cvm-col-20230207-d1510 | fichas/colegiado/2023-02.md |
+| 19957.004861/2022-18 | 2023-01-31 | parcial | O Colegiado concedeu dispensa da vedação de alienação de ações pelo ofertante durante o período da OPA (art. 20, I, RCVM 85/2022)… | cvm-col-20230131-d2686 | fichas/colegiado/2023-02.md |
+| 19957.002296/2020-84 | 2023-01-31 | parcial | O Colegiado deferiu, por unanimidade, acompanhando o voto da relatora, pedido de ofício à corretora para fornecer e-mails e registros de… | cvm-col-20230131-d2014 | fichas/colegiado/2023-02.md |
+| 19957.008816/2018-48; 19957.004810/2019-82 | 2023-01-31 | indeferido | O Colegiado, por unanimidade, acompanhando o voto do relator, entendeu pela inexistência de conexão entre os PAS 19957.008816/2018-48 e… | cvm-col-20230131-d1535 | fichas/colegiado/2023-02.md |
+| 19957.014007/2022-51 | 2023-01-24 | nao-provido | Após vista, o Colegiado negou provimento, por maioria, a recurso do Banco BTG Pactual S.A. contra exigência da SRE em OPA unificada do… | cvm-col-20230124-d2788 | fichas/colegiado/2023-02.md |
+| — | 2023-01-17 | outro | O Colegiado aprovou, por unanimidade, o Plano Anual de Atividades de Auditoria Interna (PAINT/2023), elaborado pela AUD com base na IN SFC… | cvm-col-20230117-d5821 | fichas/colegiado/2023-02.md |
+| 19957.014007/2022-51 | 2023-01-17 | — | Recurso do Banco BTG Pactual S.A. contra exigência da SRE no pedido de registro de OPA unificada (alienação de controle e cancelamento de… | cvm-col-20230117-d2788 | fichas/colegiado/2023-02.md |
+| 19957.015491/2022-36 | 2023-01-17 | outro | O Colegiado aprovou, por unanimidade, a celebração de acordo de cooperação técnica e educacional entre a CVM e o Instituto Pensar… | cvm-col-20230117-d2787 | fichas/colegiado/2023-02.md |
+| 19957.013018/2022-14 | 2023-01-17 | outro | O Colegiado aprovou, por unanimidade, a celebração de acordo de cooperação técnica e educacional entre a CVM e o Centro de Estudos de… | cvm-col-20230117-d2786 | fichas/colegiado/2023-02.md |
+| 19957.012617/2022-11 | 2023-01-17 | outro | O Colegiado aprovou, por unanimidade, acompanhando a SMI, alterações no Regulamento do Programa de Educação Continuada dos Assessores de… | cvm-col-20230117-d2785 | fichas/colegiado/2023-02.md |
+| 19957.007552/2022-91 | 2023-01-17 | parcial | O Colegiado conheceu e deu provimento parcial a recurso da Petro Rio S.A. contra SEP e SNC, sobre rodízio de auditor independente. Entendeu… | cvm-col-20230117-d2784 | fichas/colegiado/2023-02.md |
+| 19957.012255/2022-68 | 2023-01-10 | deferido | O Colegiado, por unanimidade, acompanhando as áreas técnicas, aprovou a proposta da B3 de alterações nos regulamentos do Nível 1, do Nível… | cvm-col-20230110-d2780 | fichas/colegiado/2023-01.md |
+| 19957.012902/2022-31 | 2023-01-10 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. 19957.012902/2022-31. | cvm-col-20230110-d2779 | fichas/colegiado/2023-01.md |
+| 19957.013803/2022-77 | 2023-01-10 | outro | O Colegiado aprovou, por unanimidade, a celebração de acordo de cooperação técnica entre a CVM e a ABVCAP para o desenvolvimento do mercado… | cvm-col-20230110-d2773 | fichas/colegiado/2023-01.md |
+| 19957.010949/2022-61 | 2023-01-10 | nao-provido | O Colegiado, por unanimidade, negou provimento aos recursos da Bem DTVM Ltda., administradora de fundos, contra três multas cominatórias da… | cvm-col-20230110-d2768 | fichas/colegiado/2023-01.md |
+| 19957.000695/2021-91 | 2023-01-10 | nao-provido | O Colegiado, por unanimidade, acompanhando a SIN, conheceu do pedido de reconsideração e, no mérito, o indeferiu. Manteve o arquivamento… | cvm-col-20230110-d2418 | fichas/colegiado/2023-01.md |
+| 19957.003690/2017-34 | 2023-01-10 | — | Recurso contra decisão da SRE. Proc. SEI 19957.003690/2017-34. | cvm-col-20230110-d0677 | fichas/colegiado/2023-01.md |
+| 19957.015702/2022-31 | 2023-01-04 | deferido | O Colegiado deferiu pedido de acionista e adiou por 21 dias, contados da divulgação de informações, a AGE da Saraiva Livreiros S.A. marcada… | cvm-col-20230104-d2777 | fichas/colegiado/2023-01.md |
+| 19957.015411/2022-42 | 2023-01-03 | indeferido | O Colegiado, por unanimidade, acompanhando a SEP, indeferiu a interrupção do prazo de convocação da AGE da Eletrobras de 05.01.2023 por… | cvm-col-20230103-d2775 | fichas/colegiado/2023-01.md |
+| 19957.000152/2022-55 | 2023-01-03 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. 19957.000152/2022-55. | cvm-col-20230103-d2771 | fichas/colegiado/2023-01.md |
+| 19957.000151/2022-19 | 2023-01-03 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. 19957.000151/2022-19. | cvm-col-20230103-d2770 | fichas/colegiado/2023-01.md |
+| 19957.000150/2022-66 | 2023-01-03 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. 19957.000150/2022-66. | cvm-col-20230103-d2769 | fichas/colegiado/2023-01.md |
+| 19957.012904/2022-21 | 2023-01-03 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. 19957.012904/2022-21. | cvm-col-20230103-d2767 | fichas/colegiado/2023-01.md |
+| 19957.013064/2022-13 | 2023-01-03 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. 19957.013064/2022-13. | cvm-col-20230103-d2766 | fichas/colegiado/2023-01.md |
+| 19957.013066/2022-11 | 2023-01-03 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. 19957.013066/2022-11. | cvm-col-20230103-d2765 | fichas/colegiado/2023-01.md |
+| 19957.012927/2022-35 | 2023-01-03 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. 19957.012927/2022-35. | cvm-col-20230103-d2764 | fichas/colegiado/2023-01.md |
+| 19957.012858/2022-60 | 2023-01-03 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. 19957.012858/2022-60. | cvm-col-20230103-d2763 | fichas/colegiado/2023-01.md |
+| 19957.013063/2022-79 | 2023-01-03 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. 19957.013063/2022-79. | cvm-col-20230103-d2762 | fichas/colegiado/2023-01.md |
+| 19957.013062/2022-24 | 2023-01-03 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. 19957.013062/2022-24. | cvm-col-20230103-d2761 | fichas/colegiado/2023-01.md |
+| 19957.013065/2022-68 | 2023-01-03 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. 19957.013065/2022-68. | cvm-col-20230103-d2760 | fichas/colegiado/2023-01.md |
+| 19957.013061/2022-80 | 2023-01-03 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. 19957.013061/2022-80. | cvm-col-20230103-d2759 | fichas/colegiado/2023-01.md |
+| 19957.010511/2021-00 | 2023-01-03 | conhecimento | Pedido de reconsideração de decisão do colegiado. Proc. SEI 19957.010511/2021-00. | cvm-col-20230103-d2523 | fichas/colegiado/2023-01.md |
+| 19957.000025/2022-56 | 2023-01-03 | conhecimento | Pedido de reconsideração de decisão do colegiado. Proc. 19957.000025/2022-56. | cvm-col-20230103-d2502 | fichas/colegiado/2023-01.md |
 
 Fim do subíndice.

@@ -11,7 +11,7 @@ Norma: [cvm/pareceres-orientacao/0017.md](../../normas/cvm/pareceres-orientacao/
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 14/2009 | 2015-08-11 | parcial | cvm-pas-14-2009 | fichas/pas/2015-04.md |
+| pas | 14/2009 | 2015-08-11 | parcial | cvm-pas-14-2009 | fichas/pas/2015-08.md |
 | decisao-colegiado | RJ2009/6750 | 2009-10-13 | provido | cvm-col-20091013-d20 | fichas/colegiado/2009-18.md |
 
 Fim do subíndice.

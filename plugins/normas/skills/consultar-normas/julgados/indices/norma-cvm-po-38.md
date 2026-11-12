@@ -11,8 +11,8 @@ Norma: [cvm/pareceres-orientacao/0038.md](../../normas/cvm/pareceres-orientacao/
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 19957.007552/2016-43 | 2024-10-08 | condenacao | crsfn-10372-100066-2021-67 | fichas/crsfn/2024-05.md |
-| pas | 19957.007552/2016-43 | 2020-09-29 | — | cvm-pas-19957-007552-2016-43 | fichas/pas/2020-04.md |
+| acordao-crsfn | 19957.007552/2016-43 | 2024-10-08 | condenacao | crsfn-10372-100066-2021-67 | fichas/crsfn/2024-06.md |
+| pas | 19957.007552/2016-43 | 2020-09-29 | — | cvm-pas-19957-007552-2016-43 | fichas/pas/2020-08.md |
 | decisao-colegiado | 19957.004306/2019-82 | 2019-07-02 | deferido | cvm-col-20190702-d1460 | fichas/colegiado/2019-11.md |
 
 Fim do subíndice.

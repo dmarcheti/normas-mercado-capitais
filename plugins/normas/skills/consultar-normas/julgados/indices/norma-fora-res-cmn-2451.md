@@ -17,8 +17,8 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 2º | pas | RJ2011/10415 | 2014-12-02 | parcial | cvm-pas-rj2011-10415 | fichas/pas/2014-05.md |
-| art. 2º, parágrafo único | acordao-crsfn | RJ-2007-14710 | 2012-07-05 | absolvicao | crsfn-12758 | fichas/crsfn/2012-02.md |
+| art. 2º | pas | RJ2011/10415 | 2014-12-02 | parcial | cvm-pas-rj2011-10415 | fichas/pas/2014-10.md |
+| art. 2º, parágrafo único | acordao-crsfn | RJ-2007-14710 | 2012-07-05 | absolvicao | crsfn-12758 | fichas/crsfn/2012-03.md |
 | art. 2º, parágrafo único | termo-compromisso | RJ2007/14710 | 2008-05-27 | aceito | cvm-col-20080527-d02 | fichas/tc/2008-04.md |
 | art. 2º, parágrafo único | termo-compromisso | RJ2007/14710 | 2008-11-11 | outro | cvm-col-20081111-d03 | fichas/tc/2008-07.md |
 | art. 2º, parágrafo único | decisao-colegiado | RJ2007/14710 | 2009-09-29 | nao-provido | cvm-col-20090929-d07 | fichas/colegiado/2009-17.md |
@@ -32,11 +32,11 @@ Norma: fora do acervo.
 | acordao-crsfn | RJ2011/10415 | 2020-02-11 | parcial | crsfn-10372-000322-2016-50 | fichas/crsfn/2020-01.md |
 | decisao-colegiado | 558/2015; 19957.002943/2016-71 | 2017-02-14 | outro | cvm-col-20170214-d0222 | fichas/colegiado/2017-03.md |
 | decisao-colegiado | 558/2015; 19957.002943/2016-71 | 2016-05-24 | — | cvm-col-20160524-d0222 | fichas/colegiado/2016-10.md |
-| acordao-crsfn | IA-2005-1 | 2012-12-05 | parcial | crsfn-12519 | fichas/crsfn/2012-04.md |
-| acordao-crsfn | RJ-2003-12656 | 2010-07-28 | arquivamento | crsfn-11453 | fichas/crsfn/2010-06.md |
-| pas | 01/2005 | 2008-11-26 | parcial | cvm-pas-01-2005 | fichas/pas/2008-05.md |
-| pas | 13/2003 | 2005-12-14 | parcial | cvm-pas-13-2003 | fichas/pas/2005-10.md |
+| acordao-crsfn | IA-2005-1 | 2012-12-05 | parcial | crsfn-12519 | fichas/crsfn/2012-06.md |
+| acordao-crsfn | RJ-2003-12656 | 2010-07-28 | arquivamento | crsfn-11453 | fichas/crsfn/2010-07.md |
+| pas | 01/2005 | 2008-11-26 | parcial | cvm-pas-01-2005 | fichas/pas/2008-08.md |
+| pas | 13/2003 | 2005-12-14 | parcial | cvm-pas-13-2003 | fichas/pas/2005-20.md |
 | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
-| pas | 10/1999 | 2000-09-14 | parcial | cvm-pas-10-1999 | fichas/pas/2000-02.md |
+| pas | 10/1999 | 2000-09-14 | parcial | cvm-pas-10-1999 | fichas/pas/2000-03.md |
 
 Fim do subíndice.

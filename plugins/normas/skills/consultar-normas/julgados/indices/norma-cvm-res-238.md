@@ -13,8 +13,8 @@ Norma: [cvm/resolucoes/0238.md](../../normas/cvm/resolucoes/0238.md) (texto vige
 |---|---|---|---|---|---|
 | acordao-crsfn | 10/05 | 2013-07-30 | parcial | crsfn-12805 | fichas/crsfn/2013-03.md |
 | acordao-crsfn | SP–2001-0204 | 2010-04-29 | absolvicao | crsfn-11241 | fichas/crsfn/2010-03.md |
-| pas | 10/2005 | 2009-08-25 | parcial | cvm-pas-10-2005 | fichas/pas/2009-04.md |
-| pas | SP2004/0193 | 2007-09-04 | condenacao | cvm-pas-sp2004-0193 | fichas/pas/2007-06.md |
+| pas | 10/2005 | 2009-08-25 | parcial | cvm-pas-10-2005 | fichas/pas/2009-07.md |
+| pas | SP2004/0193 | 2007-09-04 | condenacao | cvm-pas-sp2004-0193 | fichas/pas/2007-12.md |
 | decisao-colegiado | RJ2002/3227 | 2005-04-08 | nao-provido | cvm-col-20050408-d02 | fichas/colegiado/2005-06.md |
 | decisao-colegiado | RJ2002/1342 | 2002-04-16 | nao-provido | cvm-col-20020416-d05 | fichas/colegiado/2002-08.md |
 | decisao-colegiado | RJ2001/12804 | 2002-03-19 | provido | cvm-col-20020319-d12 | fichas/colegiado/2002-05.md |
@@ -22,7 +22,7 @@ Norma: [cvm/resolucoes/0238.md](../../normas/cvm/resolucoes/0238.md) (texto vige
 | decisao-colegiado | RJ2001/12014 | 2002-03-19 | nao-provido | cvm-col-20020319-d10 | fichas/colegiado/2002-05.md |
 | decisao-colegiado | RJ2001/11397 | 2002-03-19 | provido | cvm-col-20020319-d09 | fichas/colegiado/2002-05.md |
 | decisao-colegiado | RJ2001/11675 | 2002-01-08 | provido | cvm-col-20020108-d02 | fichas/colegiado/2002-01.md |
-| pas | 03/2000 | 2001-06-07 | parcial | cvm-pas-03-2000 | fichas/pas/2001-01.md |
+| pas | 03/2000 | 2001-06-07 | parcial | cvm-pas-03-2000 | fichas/pas/2001-03.md |
 | decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
 | decisao-antiga | — | 1999-01-29 | — | cvm-dec-1999-0001 | fichas/decisoes-antigas/1999-28.md |
 | decisao-antiga | — | 1998-01-09 | — | cvm-dec-1998-0001 | fichas/decisoes-antigas/1998-15.md |

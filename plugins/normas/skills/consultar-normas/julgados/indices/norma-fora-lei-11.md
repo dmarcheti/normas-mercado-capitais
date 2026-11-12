@@ -11,26 +11,26 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 23 | pas | 19957.008119/2023-54 | 2024-10-22 | parcial | cvm-pas-19957-008119-2023-54 | fichas/pas/2024-09.md |
+| art. 23 | pas | 19957.008119/2023-54 | 2024-10-22 | parcial | cvm-pas-19957-008119-2023-54 | fichas/pas/2024-17.md |
 
 ## art. 132
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 132 | acordao-crsfn | 2010/11351 | 2015-10-20 | condenacao | crsfn-13616 | fichas/crsfn/2015-04.md |
+| art. 132 | acordao-crsfn | 2010/11351 | 2015-10-20 | condenacao | crsfn-13616 | fichas/crsfn/2015-05.md |
 
 ## art. 133
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 133 | acordao-crsfn | 2010/11351 | 2015-10-20 | condenacao | crsfn-13616 | fichas/crsfn/2015-04.md |
+| art. 133 | acordao-crsfn | 2010/11351 | 2015-10-20 | condenacao | crsfn-13616 | fichas/crsfn/2015-05.md |
 
 ## Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 14/2010; 19957.010796/2019-56 | 2020-03-03 | parcial | cvm-pas-19957-010796-2019-56 | fichas/pas/2020-01.md |
-| pas | RJ2014/10556 | 2017-11-29 | parcial | cvm-pas-rj2014-10556 | fichas/pas/2017-04.md |
+| pas | 14/2010; 19957.010796/2019-56 | 2020-03-03 | parcial | cvm-pas-19957-010796-2019-56 | fichas/pas/2020-02.md |
+| pas | RJ2014/10556 | 2017-11-29 | parcial | cvm-pas-rj2014-10556 | fichas/pas/2017-09.md |
 | decisao-colegiado | RJ2012/3071 | 2016-03-08 | provido | cvm-col-20160308-d8398 | fichas/colegiado/2016-07.md |
 | decisao-colegiado | RJ2015/12681 | 2016-02-16 | nao-provido | cvm-col-20160216-d0086 | fichas/colegiado/2016-04.md |
 | termo-compromisso | RJ2014/14760 | 2015-12-08 | rejeitado | cvm-col-20151208-d9963 | fichas/tc/2015-05.md |

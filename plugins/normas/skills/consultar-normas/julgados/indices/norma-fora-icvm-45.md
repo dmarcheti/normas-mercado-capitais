@@ -11,19 +11,19 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 5º | pas | 19957.009010/2021-72 | 2023-08-15 | condenacao | cvm-pas-19957-009010-2021-72 | fichas/pas/2023-05.md |
+| art. 5º | pas | 19957.009010/2021-72 | 2023-08-15 | condenacao | cvm-pas-19957-009010-2021-72 | fichas/pas/2023-09.md |
 
 ## art. 6º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 6º | pas | 19957.009010/2021-72 | 2023-08-15 | condenacao | cvm-pas-19957-009010-2021-72 | fichas/pas/2023-05.md |
+| art. 6º | pas | 19957.009010/2021-72 | 2023-08-15 | condenacao | cvm-pas-19957-009010-2021-72 | fichas/pas/2023-09.md |
 
 ## art. 66
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 66 | acordao-crsfn | 19957.004318/2021-21 | 2024-09-10 | condenacao | crsfn-10372-000064-2024-11 | fichas/crsfn/2024-04.md |
+| art. 66 | acordao-crsfn | 19957.004318/2021-21 | 2024-09-10 | condenacao | crsfn-10372-000064-2024-11 | fichas/crsfn/2024-05.md |
 | art. 66, inciso IV | acordao-crsfn | 19957.006509/2019-11; RJ2019/04665 | 2024-03-13 | outro | crsfn-10372-100090-2022-87-3 | fichas/crsfn/2024-02.md |
 | art. 66, § 1º | acordao-crsfn | 19957.006509/2019-11; RJ2019/04665 | 2024-03-13 | outro | crsfn-10372-100090-2022-87-3 | fichas/crsfn/2024-02.md |
 
@@ -31,10 +31,10 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 19957.001695/2023-71 | 2025-07-16 | parcial | crsfn-19957-001695-2023-71 | fichas/crsfn/2025-04.md |
-| pas | 19957.004791/2020-28 | 2024-06-18 | parcial | cvm-pas-19957-004791-2020-28 | fichas/pas/2024-04.md |
-| acordao-crsfn | 19957.007344/2019-97 | 2023-10-11 | condenacao | crsfn-10372-100072-2023-86 | fichas/crsfn/2023-06.md |
-| acordao-crsfn | 19957.003798/2017-27; SP2017/316 | 2022-07-12 | condenacao | crsfn-10372-100179-2020-81 | fichas/crsfn/2022-04.md |
+| acordao-crsfn | 19957.001695/2023-71 | 2025-07-16 | parcial | crsfn-19957-001695-2023-71 | fichas/crsfn/2025-05.md |
+| pas | 19957.004791/2020-28 | 2024-06-18 | parcial | cvm-pas-19957-004791-2020-28 | fichas/pas/2024-07.md |
+| acordao-crsfn | 19957.007344/2019-97 | 2023-10-11 | condenacao | crsfn-10372-100072-2023-86 | fichas/crsfn/2023-08.md |
+| acordao-crsfn | 19957.003798/2017-27; SP2017/316 | 2022-07-12 | condenacao | crsfn-10372-100179-2020-81 | fichas/crsfn/2022-05.md |
 | decisao-colegiado | RJ2015/12354 | 2015-12-01 | nao-provido | cvm-col-20151201-d9955 | fichas/colegiado/2015-23.md |
 | decisao-colegiado | RJ2015/9414 | 2015-09-29 | nao-provido | cvm-col-20150929-d9853 | fichas/colegiado/2015-17.md |
 | decisao-colegiado | RJ2015/9382 | 2015-09-22 | nao-provido | cvm-col-20150922-d9847 | fichas/colegiado/2015-17.md |

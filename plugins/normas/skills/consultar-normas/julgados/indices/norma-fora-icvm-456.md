@@ -18,7 +18,7 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | RJ2012/6987 | 2018-10-18 | condenacao | crsfn-14215 | fichas/crsfn/2018-06.md |
+| acordao-crsfn | RJ2012/6987 | 2018-10-18 | condenacao | crsfn-14215 | fichas/crsfn/2018-08.md |
 | decisao-colegiado | RJ2008/1971 | 2008-03-25 | nao-provido | cvm-col-20080325-d14 | fichas/colegiado/2008-07.md |
 | decisao-colegiado | RJ2008/1970 | 2008-03-25 | nao-provido | cvm-col-20080325-d13 | fichas/colegiado/2008-07.md |
 | decisao-colegiado | RJ2008/1969 | 2008-03-25 | nao-provido | cvm-col-20080325-d12 | fichas/colegiado/2008-07.md |

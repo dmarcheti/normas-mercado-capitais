@@ -11,14 +11,14 @@ Norma: [cvm/resolucoes/0020.md](../../normas/cvm/resolucoes/0020.md) (texto vige
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 20, inciso VII | pas | 19957.005450/2021-51 | 2024-12-17 | condenacao | cvm-pas-19957-005450-2021-51 | fichas/pas/2024-11.md |
+| art. 20, inciso VII | pas | 19957.005450/2021-51 | 2024-12-17 | condenacao | cvm-pas-19957-005450-2021-51 | fichas/pas/2024-22.md |
 
 ## Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.011363/2024-85 | 2026-07-14 | parcial | cvm-pas-19957-011363-2024-85 | fichas/pas/2026-01.md |
-| pas | 19957.005726/2025-24 | 2025-12-18 | absolvicao | cvm-pas-19957-005726-2025-24 | fichas/pas/2025-06.md |
+| pas | 19957.011363/2024-85 | 2026-07-14 | parcial | cvm-pas-19957-011363-2024-85 | fichas/pas/2026-02.md |
+| pas | 19957.005726/2025-24 | 2025-12-18 | absolvicao | cvm-pas-19957-005726-2025-24 | fichas/pas/2025-12.md |
 | decisao-colegiado | 19957.001630/2025-97 | 2025-05-27 | provido | cvm-col-20250527-d3282 | fichas/colegiado/2025-05.md |
 | decisao-colegiado | 19957.001378/2021-92 | 2021-02-23 | outro | cvm-col-20210223-d2086 | fichas/colegiado/2021-04.md |
 

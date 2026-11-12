@@ -11,7 +11,7 @@ Norma: [cvm/resolucoes/0011.md](../../normas/cvm/resolucoes/0011.md) (texto vige
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 20 | pas | 19957.008119/2023-54 | 2024-10-22 | parcial | cvm-pas-19957-008119-2023-54 | fichas/pas/2024-09.md |
+| art. 20 | pas | 19957.008119/2023-54 | 2024-10-22 | parcial | cvm-pas-19957-008119-2023-54 | fichas/pas/2024-17.md |
 
 ## Citada sem dispositivo identificado
 

@@ -11,6 +11,6 @@ Norma: [bcb/circulares/3106.md](../../normas/bcb/circulares/3106.md) (texto vige
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2018/4585 | 2019-11-26 | absolvicao | cvm-pas-rj2018-4585 | fichas/pas/2019-11.md |
+| pas | RJ2018/4585 | 2019-11-26 | absolvicao | cvm-pas-rj2018-4585 | fichas/pas/2019-20.md |
 
 Fim do subíndice.

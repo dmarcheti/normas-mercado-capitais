@@ -29,15 +29,15 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 20, inciso II, alínea a | pas | 19957.014206/2022-60 | 2024-07-04 | condenacao | cvm-pas-19957-014206-2022-60 | fichas/pas/2024-05.md |
-| art. 20, inciso II, alínea g | pas | 19957.014206/2022-60 | 2024-07-04 | condenacao | cvm-pas-19957-014206-2022-60 | fichas/pas/2024-05.md |
+| art. 20, inciso II, alínea a | pas | 19957.014206/2022-60 | 2024-07-04 | condenacao | cvm-pas-19957-014206-2022-60 | fichas/pas/2024-09.md |
+| art. 20, inciso II, alínea g | pas | 19957.014206/2022-60 | 2024-07-04 | condenacao | cvm-pas-19957-014206-2022-60 | fichas/pas/2024-09.md |
 
 ## Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.005584/2022-52 | 2022-08-30 | deferido | cvm-col-20220830-d2677 | fichas/colegiado/2022-13.md |
-| pas | 19957.009366/2017-20 | 2022-04-12 | condenacao | cvm-pas-19957-009366-2017-20 | fichas/pas/2022-02.md |
+| pas | 19957.009366/2017-20 | 2022-04-12 | condenacao | cvm-pas-19957-009366-2017-20 | fichas/pas/2022-03.md |
 | decisao-colegiado | 19957.004206/2021-71 | 2021-10-26 | deferido | cvm-col-20211026-d2350 | fichas/colegiado/2021-18.md |
 | decisao-colegiado | 19957.006607/2021-65 | 2021-08-25 | outro | cvm-col-20210825-d2295 | fichas/colegiado/2021-14.md |
 | decisao-colegiado | 19957.006626/2020-19 | 2021-07-20 | outro | cvm-col-20210720-d2235 | fichas/colegiado/2021-12.md |

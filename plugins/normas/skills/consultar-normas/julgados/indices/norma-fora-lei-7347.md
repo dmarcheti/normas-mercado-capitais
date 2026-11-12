@@ -22,7 +22,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 6º | pas | 19957.001575/2020-21; 08/2014 | 2020-06-30 | parcial | cvm-pas-19957-001575-2020-21 | fichas/pas/2020-03.md |
+| art. 6º | pas | 19957.001575/2020-21; 08/2014 | 2020-06-30 | parcial | cvm-pas-19957-001575-2020-21 | fichas/pas/2020-06.md |
 
 ## art. 10
 

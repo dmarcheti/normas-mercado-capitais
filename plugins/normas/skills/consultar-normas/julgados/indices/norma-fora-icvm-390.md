@@ -66,7 +66,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 7º, § 2º | pas | 13/2005 | 2012-06-25 | parcial | cvm-pas-13-2005 | fichas/pas/2012-01.md |
+| art. 7º, § 2º | pas | 13/2005 | 2012-06-25 | parcial | cvm-pas-13-2005 | fichas/pas/2012-02.md |
 | art. 7º, § 5º | termo-compromisso | 19957.009190/2018-97 | 2020-03-03 | aceito | cvm-col-20200303-d1729 | fichas/tc/2020-02.md |
 
 ## art. 10
@@ -101,8 +101,8 @@ Norma: fora do acervo.
 | decisao-colegiado | — | 2011-06-14 | outro | cvm-col-20110614-d01-r2 | fichas/colegiado/2011-13.md |
 | decisao-colegiado | RJ2010/14060 | 2011-04-05 | deferido | cvm-col-20110405-d05 | fichas/colegiado/2011-08.md |
 | termo-compromisso | RJ2007/1118 | 2007-10-30 | rejeitado | cvm-col-20071030-d04 | fichas/tc/2007-06.md |
-| pas | RJ2002/6413 | 2005-12-14 | condenacao | cvm-pas-rj2002-6413 | fichas/pas/2005-10.md |
-| pas | RJ2002/2047 | 2005-05-19 | parcial | cvm-pas-rj2002-2047 | fichas/pas/2005-04.md |
-| pas | RJ2001/8028 | 2005-03-14 | parcial | cvm-pas-rj2001-8028 | fichas/pas/2005-02.md |
+| pas | RJ2002/6413 | 2005-12-14 | condenacao | cvm-pas-rj2002-6413 | fichas/pas/2005-20.md |
+| pas | RJ2002/2047 | 2005-05-19 | parcial | cvm-pas-rj2002-2047 | fichas/pas/2005-08.md |
+| pas | RJ2001/8028 | 2005-03-14 | parcial | cvm-pas-rj2001-8028 | fichas/pas/2005-03.md |
 
 Fim do subíndice.

@@ -11,8 +11,8 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 1º | acordao-crsfn | 30/2005 | 2020-04-14 | parcial | crsfn-13083-2 | fichas/crsfn/2020-02.md |
-| art. 1º | pas | 30/2005 | 2012-12-11 | parcial | cvm-pas-30-2005 | fichas/pas/2012-03.md |
+| art. 1º | acordao-crsfn | 30/2005 | 2020-04-14 | parcial | crsfn-13083-2 | fichas/crsfn/2020-03.md |
+| art. 1º | pas | 30/2005 | 2012-12-11 | parcial | cvm-pas-30-2005 | fichas/pas/2012-06.md |
 
 ## art. 34
 
@@ -26,8 +26,8 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.008951/2024-31 | 2025-07-29 | provido | cvm-col-20250729-d3287 | fichas/colegiado/2025-07.md |
 | decisao-colegiado | 19957.002296/2020-84; 19957.001134/2025-33 | 2025-04-15 | nao-provido | cvm-col-20250415-d2014 | fichas/colegiado/2025-03.md |
-| pas | RJ2017/646 | 2018-11-14 | condenacao | cvm-pas-rj2017-0646 | fichas/pas/2018-10.md |
-| pas | RJ2015/12130 | 2018-08-14 | condenacao | cvm-pas-rj2015-12130 | fichas/pas/2018-06.md |
+| pas | RJ2017/646 | 2018-11-14 | condenacao | cvm-pas-rj2017-0646 | fichas/pas/2018-20.md |
+| pas | RJ2015/12130 | 2018-08-14 | condenacao | cvm-pas-rj2015-12130 | fichas/pas/2018-13.md |
 | decisao-antiga | — | 1984-01-05 | — | cvm-dec-1984-0001 | fichas/decisoes-antigas/1984-04.md |
 | decisao-antiga | — | 1983-02-03 | — | cvm-dec-1983-0001 | fichas/decisoes-antigas/1983-04.md |
 | decisao-antiga | — | 1982-01-07 | — | cvm-dec-1982-0001 | fichas/decisoes-antigas/1982-04.md |

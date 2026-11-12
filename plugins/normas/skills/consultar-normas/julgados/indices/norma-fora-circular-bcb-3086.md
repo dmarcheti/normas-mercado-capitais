@@ -11,18 +11,18 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 1º | pas | RJ2003/5596 | 2005-04-25 | condenacao | cvm-pas-rj2003-5596 | fichas/pas/2005-03.md |
-| art. 1º, § 2º, inciso II | pas | RJ2003/5596 | 2005-04-25 | condenacao | cvm-pas-rj2003-5596 | fichas/pas/2005-03.md |
+| art. 1º | pas | RJ2003/5596 | 2005-04-25 | condenacao | cvm-pas-rj2003-5596 | fichas/pas/2005-06.md |
+| art. 1º, § 2º, inciso II | pas | RJ2003/5596 | 2005-04-25 | condenacao | cvm-pas-rj2003-5596 | fichas/pas/2005-06.md |
 
 ## art. 2º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 2º | acordao-crsfn | RJ-2007-2966 | 2011-07-26 | parcial | crsfn-11953 | fichas/crsfn/2011-03.md |
-| art. 2º | acordao-crsfn | 0022/2005 | 2014-11-25 | parcial | crsfn-12444 | fichas/crsfn/2014-06.md |
+| art. 2º | acordao-crsfn | 0022/2005 | 2014-11-25 | parcial | crsfn-12444 | fichas/crsfn/2014-07.md |
 | art. 2º | termo-compromisso | 22/2005 | 2007-08-07 | rejeitado | cvm-col-20070807-d03 | fichas/tc/2007-04.md |
-| art. 2º | pas | RJ2003/5849 | 2005-12-21 | absolvicao | cvm-pas-rj2003-5849 | fichas/pas/2005-10.md |
-| art. 2º | pas | 22/2005 | 2008-08-26 | parcial | cvm-pas-22-2005 | fichas/pas/2008-03.md |
+| art. 2º | pas | RJ2003/5849 | 2005-12-21 | absolvicao | cvm-pas-rj2003-5849 | fichas/pas/2005-21.md |
+| art. 2º | pas | 22/2005 | 2008-08-26 | parcial | cvm-pas-22-2005 | fichas/pas/2008-05.md |
 | art. 2º | pas | RJ2007/2966 | 2008-01-23 | parcial | cvm-pas-rj2007-2966 | fichas/pas/2008-01.md |
 | art. 2º, § 1º | acordao-crsfn | RJ-2007-2966 | 2011-07-26 | parcial | crsfn-11953 | fichas/crsfn/2011-03.md |
 | art. 2º, § 1º | pas | RJ2007/2966 | 2008-01-23 | parcial | cvm-pas-rj2007-2966 | fichas/pas/2008-01.md |
@@ -35,36 +35,36 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|
 | art. 3º | acordao-crsfn | RJ-2003/6098 | 2006-12-13 | absolvicao | crsfn-9228 | fichas/crsfn/2006-02.md |
 | art. 3º | acordao-crsfn | RJ-2003-7642 | 2007-01-31 | absolvicao | crsfn-8546 | fichas/crsfn/2007-01.md |
-| art. 3º | acordao-crsfn | RJ-2003/5596 | 2008-07-29 | arquivamento | crsfn-8547 | fichas/crsfn/2008-03.md |
+| art. 3º | acordao-crsfn | RJ-2003/5596 | 2008-07-29 | arquivamento | crsfn-8547 | fichas/crsfn/2008-04.md |
 | art. 3º | acordao-crsfn | RJ-2003/5509 | 2008-02-26 | absolvicao | crsfn-9229 | fichas/crsfn/2008-01.md |
-| art. 3º | acordao-crsfn | RJ-2003-5849 | 2008-09-23 | absolvicao | crsfn-9798 | fichas/crsfn/2008-05.md |
+| art. 3º | acordao-crsfn | RJ-2003-5849 | 2008-09-23 | absolvicao | crsfn-9798 | fichas/crsfn/2008-06.md |
 | art. 3º | acordao-crsfn | RJ-2002-8428 | 2009-04-15 | parcial | crsfn-7356 | fichas/crsfn/2009-02.md |
-| art. 3º | acordao-crsfn | RJ-2003-5058 | 2009-05-06 | absolvicao | crsfn-8545 | fichas/crsfn/2009-02.md |
+| art. 3º | acordao-crsfn | RJ-2003-5058 | 2009-05-06 | absolvicao | crsfn-8545 | fichas/crsfn/2009-03.md |
 | art. 3º | acordao-crsfn | RJ-2003/7697 | 2009-07-21 | absolvicao | crsfn-8674 | fichas/crsfn/2009-04.md |
 | art. 3º | termo-compromisso | RJ2003/7697 | 2004-08-05 | rejeitado | cvm-col-20040805-d04 | fichas/tc/2004-01.md |
 | art. 3º | termo-compromisso | RJ2003/6098 | 2005-10-18 | rejeitado | cvm-col-20051018-d01 | fichas/tc/2005-02.md |
 | art. 3º | termo-compromisso | RJ2007/10329 | 2008-07-08 | aceito | cvm-col-20080708-d02 | fichas/tc/2008-05.md |
 | art. 3º | termo-compromisso | RJ2007/10331 | 2008-07-08 | aceito | cvm-col-20080708-d03 | fichas/tc/2008-05.md |
-| art. 3º | pas | RJ2003/12312 | 2005-06-27 | absolvicao | cvm-pas-rj2003-12312 | fichas/pas/2005-05.md |
-| art. 3º | pas | RJ2003/5058 | 2005-06-20 | absolvicao | cvm-pas-rj2003-5058 | fichas/pas/2005-05.md |
-| art. 3º | pas | RJ2003/5509 | 2005-06-24 | absolvicao | cvm-pas-rj2003-5509 | fichas/pas/2005-05.md |
-| art. 3º | pas | RJ2003/5596 | 2005-04-25 | condenacao | cvm-pas-rj2003-5596 | fichas/pas/2005-03.md |
-| art. 3º | pas | RJ2003/5849 | 2005-12-21 | absolvicao | cvm-pas-rj2003-5849 | fichas/pas/2005-10.md |
-| art. 3º | pas | RJ2003/6098 | 2005-11-08 | absolvicao | cvm-pas-rj2003-6098 | fichas/pas/2005-08.md |
-| art. 3º | pas | RJ2003/6894 | 2005-11-08 | absolvicao | cvm-pas-rj2003-6894 | fichas/pas/2005-08.md |
-| art. 3º | pas | RJ2003/7642 | 2005-06-27 | absolvicao | cvm-pas-rj2003-7642 | fichas/pas/2005-05.md |
-| art. 3º | pas | RJ2003/7697 | 2005-08-23 | absolvicao | cvm-pas-rj2003-7697 | fichas/pas/2005-06.md |
-| art. 3º | pas | RJ2003/13021 | 2007-07-31 | parcial | cvm-pas-rj2003-13021 | fichas/pas/2007-05.md |
-| art. 3º, § 1º | acordao-crsfn | RJ-2003-5058 | 2009-05-06 | absolvicao | crsfn-8545 | fichas/crsfn/2009-02.md |
-| art. 3º, § 1º | pas | RJ2003/5058 | 2005-06-20 | absolvicao | cvm-pas-rj2003-5058 | fichas/pas/2005-05.md |
+| art. 3º | pas | RJ2003/12312 | 2005-06-27 | absolvicao | cvm-pas-rj2003-12312 | fichas/pas/2005-10.md |
+| art. 3º | pas | RJ2003/5058 | 2005-06-20 | absolvicao | cvm-pas-rj2003-5058 | fichas/pas/2005-09.md |
+| art. 3º | pas | RJ2003/5509 | 2005-06-24 | absolvicao | cvm-pas-rj2003-5509 | fichas/pas/2005-09.md |
+| art. 3º | pas | RJ2003/5596 | 2005-04-25 | condenacao | cvm-pas-rj2003-5596 | fichas/pas/2005-06.md |
+| art. 3º | pas | RJ2003/5849 | 2005-12-21 | absolvicao | cvm-pas-rj2003-5849 | fichas/pas/2005-21.md |
+| art. 3º | pas | RJ2003/6098 | 2005-11-08 | absolvicao | cvm-pas-rj2003-6098 | fichas/pas/2005-15.md |
+| art. 3º | pas | RJ2003/6894 | 2005-11-08 | absolvicao | cvm-pas-rj2003-6894 | fichas/pas/2005-15.md |
+| art. 3º | pas | RJ2003/7642 | 2005-06-27 | absolvicao | cvm-pas-rj2003-7642 | fichas/pas/2005-10.md |
+| art. 3º | pas | RJ2003/7697 | 2005-08-23 | absolvicao | cvm-pas-rj2003-7697 | fichas/pas/2005-11.md |
+| art. 3º | pas | RJ2003/13021 | 2007-07-31 | parcial | cvm-pas-rj2003-13021 | fichas/pas/2007-10.md |
+| art. 3º, § 1º | acordao-crsfn | RJ-2003-5058 | 2009-05-06 | absolvicao | crsfn-8545 | fichas/crsfn/2009-03.md |
+| art. 3º, § 1º | pas | RJ2003/5058 | 2005-06-20 | absolvicao | cvm-pas-rj2003-5058 | fichas/pas/2005-09.md |
 | art. 3º, § 1º, inciso I | acordao-crsfn | RJ-2002-8428 | 2009-04-15 | parcial | crsfn-7356 | fichas/crsfn/2009-02.md |
-| art. 3º, § 1º, inciso I | pas | RJ2002/8428 | 2004-10-14 | parcial | cvm-pas-rj2002-8428 | fichas/pas/2004-06.md |
-| art. 3º, § 1º, inciso I | pas | RJ2003/5509 | 2005-06-24 | absolvicao | cvm-pas-rj2003-5509 | fichas/pas/2005-05.md |
+| art. 3º, § 1º, inciso I | pas | RJ2002/8428 | 2004-10-14 | parcial | cvm-pas-rj2002-8428 | fichas/pas/2004-12.md |
+| art. 3º, § 1º, inciso I | pas | RJ2003/5509 | 2005-06-24 | absolvicao | cvm-pas-rj2003-5509 | fichas/pas/2005-09.md |
 | art. 3º, § 1º, inciso II | acordao-crsfn | RJ-2003/5509 | 2008-02-26 | absolvicao | crsfn-9229 | fichas/crsfn/2008-01.md |
 | art. 3º, § 1º, inciso II | acordao-crsfn | RJ-2002-8428 | 2009-04-15 | parcial | crsfn-7356 | fichas/crsfn/2009-02.md |
-| art. 3º, § 1º, inciso II | pas | RJ2002/8428 | 2004-10-14 | parcial | cvm-pas-rj2002-8428 | fichas/pas/2004-06.md |
-| art. 3º, § 1º, inciso II | pas | RJ2003/5509 | 2005-06-24 | absolvicao | cvm-pas-rj2003-5509 | fichas/pas/2005-05.md |
-| art. 3º, § 1º, inciso III | pas | RJ2003/5509 | 2005-06-24 | absolvicao | cvm-pas-rj2003-5509 | fichas/pas/2005-05.md |
+| art. 3º, § 1º, inciso II | pas | RJ2002/8428 | 2004-10-14 | parcial | cvm-pas-rj2002-8428 | fichas/pas/2004-12.md |
+| art. 3º, § 1º, inciso II | pas | RJ2003/5509 | 2005-06-24 | absolvicao | cvm-pas-rj2003-5509 | fichas/pas/2005-09.md |
+| art. 3º, § 1º, inciso III | pas | RJ2003/5509 | 2005-06-24 | absolvicao | cvm-pas-rj2003-5509 | fichas/pas/2005-09.md |
 
 ## art. 5º
 
@@ -72,32 +72,32 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|
 | art. 5º | acordao-crsfn | RJ-2003-7642 | 2007-01-31 | absolvicao | crsfn-8546 | fichas/crsfn/2007-01.md |
 | art. 5º | acordao-crsfn | RJ-2003/7697 | 2009-07-21 | absolvicao | crsfn-8674 | fichas/crsfn/2009-04.md |
-| art. 5º | pas | RJ2003/12312 | 2005-06-27 | absolvicao | cvm-pas-rj2003-12312 | fichas/pas/2005-05.md |
-| art. 5º | pas | RJ2003/7642 | 2005-06-27 | absolvicao | cvm-pas-rj2003-7642 | fichas/pas/2005-05.md |
-| art. 5º | pas | RJ2003/7697 | 2005-08-23 | absolvicao | cvm-pas-rj2003-7697 | fichas/pas/2005-06.md |
+| art. 5º | pas | RJ2003/12312 | 2005-06-27 | absolvicao | cvm-pas-rj2003-12312 | fichas/pas/2005-10.md |
+| art. 5º | pas | RJ2003/7642 | 2005-06-27 | absolvicao | cvm-pas-rj2003-7642 | fichas/pas/2005-10.md |
+| art. 5º | pas | RJ2003/7697 | 2005-08-23 | absolvicao | cvm-pas-rj2003-7697 | fichas/pas/2005-11.md |
 
 ## art. 11
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 11 | pas | RJ2003/7697 | 2005-08-23 | absolvicao | cvm-pas-rj2003-7697 | fichas/pas/2005-06.md |
-| art. 11, parágrafo único | pas | RJ2003/5058 | 2005-06-20 | absolvicao | cvm-pas-rj2003-5058 | fichas/pas/2005-05.md |
+| art. 11 | pas | RJ2003/7697 | 2005-08-23 | absolvicao | cvm-pas-rj2003-7697 | fichas/pas/2005-11.md |
+| art. 11, parágrafo único | pas | RJ2003/5058 | 2005-06-20 | absolvicao | cvm-pas-rj2003-5058 | fichas/pas/2005-09.md |
 
 ## art. 12
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 12 | acordao-crsfn | RJ-2003-5058 | 2009-05-06 | absolvicao | crsfn-8545 | fichas/crsfn/2009-02.md |
-| art. 12 | pas | RJ2003/5058 | 2005-06-20 | absolvicao | cvm-pas-rj2003-5058 | fichas/pas/2005-05.md |
-| art. 12 | pas | RJ2003/5596 | 2005-04-25 | condenacao | cvm-pas-rj2003-5596 | fichas/pas/2005-03.md |
-| art. 12 | pas | RJ2003/6098 | 2005-11-08 | absolvicao | cvm-pas-rj2003-6098 | fichas/pas/2005-08.md |
-| art. 12 | pas | RJ2003/6894 | 2005-11-08 | absolvicao | cvm-pas-rj2003-6894 | fichas/pas/2005-08.md |
+| art. 12 | acordao-crsfn | RJ-2003-5058 | 2009-05-06 | absolvicao | crsfn-8545 | fichas/crsfn/2009-03.md |
+| art. 12 | pas | RJ2003/5058 | 2005-06-20 | absolvicao | cvm-pas-rj2003-5058 | fichas/pas/2005-09.md |
+| art. 12 | pas | RJ2003/5596 | 2005-04-25 | condenacao | cvm-pas-rj2003-5596 | fichas/pas/2005-06.md |
+| art. 12 | pas | RJ2003/6098 | 2005-11-08 | absolvicao | cvm-pas-rj2003-6098 | fichas/pas/2005-15.md |
+| art. 12 | pas | RJ2003/6894 | 2005-11-08 | absolvicao | cvm-pas-rj2003-6894 | fichas/pas/2005-15.md |
 
 ## Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | acordao-crsfn | RJ-2003-13021 | 2012-02-13 | absolvicao | crsfn-11748 | fichas/crsfn/2012-01.md |
-| pas | 25/2003 | 2008-03-25 | parcial | cvm-pas-25-2003 | fichas/pas/2008-02.md |
+| pas | 25/2003 | 2008-03-25 | parcial | cvm-pas-25-2003 | fichas/pas/2008-03.md |
 
 Fim do subíndice.

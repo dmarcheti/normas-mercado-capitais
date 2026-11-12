@@ -36,7 +36,7 @@ Norma: [cvm/resolucoes/0086.md](../../normas/cvm/resolucoes/0086.md) (texto vige
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | decisao-colegiado | 86/2022; 19957.011104/2022-92 | 2024-12-10 | outro | cvm-col-20241210-d3117 | fichas/colegiado/2024-14.md |
-| acordao-crsfn | 19957.010438/2017-81; RJ2018/00370 | 2023-11-07 | parcial | crsfn-10372-100235-2021-69 | fichas/crsfn/2023-07.md |
+| acordao-crsfn | 19957.010438/2017-81; RJ2018/00370 | 2023-11-07 | parcial | crsfn-10372-100235-2021-69 | fichas/crsfn/2023-09.md |
 | decisao-colegiado | 19957.009726/2021-70 | 2022-03-30 | outro | cvm-col-20220330-d2568 | fichas/colegiado/2022-05.md |
 
 Fim do subíndice.

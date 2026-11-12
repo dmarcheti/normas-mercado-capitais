@@ -60,7 +60,7 @@ Este subíndice tem 512 linhas e uma leitura única é cortada em silêncio pert
 | art. 2º | termo-compromisso | 19957.011363/2024-85 | 2025-04-01 | rejeitado | cvm-col-20250401-d3241 | fichas/tc/2025-02.md |
 | art. 2º | termo-compromisso | 19957.019653/2024-77 | 2025-10-07 | rejeitado | cvm-col-20251007-d3383 | fichas/tc/2025-04.md |
 | art. 2º | decisao-colegiado | 19957.012301/2026-52 | 2026-07-24 | indeferido | cvm-col-20260724-d3583 | fichas/colegiado/2026-03.md |
-| art. 2º | pas | 19957.011363/2024-85 | 2026-07-14 | parcial | cvm-pas-19957-011363-2024-85 | fichas/pas/2026-01.md |
+| art. 2º | pas | 19957.011363/2024-85 | 2026-07-14 | parcial | cvm-pas-19957-011363-2024-85 | fichas/pas/2026-02.md |
 
 ## art. 3º
 
@@ -83,10 +83,10 @@ Este subíndice tem 512 linhas e uma leitura única é cortada em silêncio pert
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 6º | decisao-colegiado | 19957.004239/2022-00 | 2023-12-05 | provido | cvm-col-20231205-d2899 | fichas/colegiado/2023-13.md |
-| art. 6º, § 1º | pas | 19957.011363/2024-85 | 2026-07-14 | parcial | cvm-pas-19957-011363-2024-85 | fichas/pas/2026-01.md |
+| art. 6º, § 1º | pas | 19957.011363/2024-85 | 2026-07-14 | parcial | cvm-pas-19957-011363-2024-85 | fichas/pas/2026-02.md |
 | art. 6º, § 2º | decisao-colegiado | 19957.014176/2023-72 | 2024-10-29 | provido | cvm-col-20241029-d3158 | fichas/colegiado/2024-12.md |
-| art. 6º, § 3º | pas | 19957.011363/2024-85 | 2026-07-14 | parcial | cvm-pas-19957-011363-2024-85 | fichas/pas/2026-01.md |
-| art. 6º, § 4º | pas | 19957.011363/2024-85 | 2026-07-14 | parcial | cvm-pas-19957-011363-2024-85 | fichas/pas/2026-01.md |
+| art. 6º, § 3º | pas | 19957.011363/2024-85 | 2026-07-14 | parcial | cvm-pas-19957-011363-2024-85 | fichas/pas/2026-02.md |
+| art. 6º, § 4º | pas | 19957.011363/2024-85 | 2026-07-14 | parcial | cvm-pas-19957-011363-2024-85 | fichas/pas/2026-02.md |
 | art. 6º, § 5º | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-03.md |
 
 ## art. 7º
@@ -155,7 +155,7 @@ Este subíndice tem 512 linhas e uma leitura única é cortada em silêncio pert
 | art. 11 | termo-compromisso | 19957.001811/2025-13 | 2026-02-03 | rejeitado | cvm-col-20260203-d3441 | fichas/tc/2026-01.md |
 | art. 11 | decisao-colegiado | 19957.012301/2026-52 | 2026-07-24 | indeferido | cvm-col-20260724-d3583 | fichas/colegiado/2026-03.md |
 | art. 11 | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-03.md |
-| art. 11 | pas | 19957.001811/2025-13 | 2026-09-08 | condenacao | cvm-pas-19957-001811-2025-13 | fichas/pas/2026-02.md |
+| art. 11 | pas | 19957.001811/2025-13 | 2026-09-08 | condenacao | cvm-pas-19957-001811-2025-13 | fichas/pas/2026-04.md |
 | art. 11, inciso I | decisao-colegiado | 19957.006318/2023-28 | 2023-06-20 | indeferido | cvm-col-20230620-d2883 | fichas/colegiado/2023-06.md |
 | art. 11, inciso I | decisao-colegiado | 19957.003470/2025-11 | 2025-04-22 | indeferido | cvm-col-20250422-d3264 | fichas/colegiado/2025-04.md |
 | art. 11, inciso I | decisao-colegiado | 19957.009400/2025-76 | 2025-08-20 | indeferido | cvm-col-20250820-d3344 | fichas/colegiado/2025-08.md |
@@ -242,7 +242,7 @@ Este subíndice tem 512 linhas e uma leitura única é cortada em silêncio pert
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 28 | pas | 19957.011363/2024-85 | 2026-07-14 | parcial | cvm-pas-19957-011363-2024-85 | fichas/pas/2026-01.md |
+| art. 28 | pas | 19957.011363/2024-85 | 2026-07-14 | parcial | cvm-pas-19957-011363-2024-85 | fichas/pas/2026-02.md |
 
 ## art. 31
 
@@ -298,27 +298,27 @@ Este subíndice tem 512 linhas e uma leitura única é cortada em silêncio pert
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 58 | acordao-crsfn | 19957.008183/2024-16 | 2026-02-10 | condenacao | crsfn-19957-008183-2024-16 | fichas/crsfn/2026-01.md |
-| art. 58 | pas | 19957.008183/2024-16 | 2025-03-18 | condenacao | cvm-pas-19957-008183-2024-16 | fichas/pas/2025-01.md |
+| art. 58 | pas | 19957.008183/2024-16 | 2025-03-18 | condenacao | cvm-pas-19957-008183-2024-16 | fichas/pas/2025-02.md |
 | art. 58, § 1º | decisao-colegiado | 19957.000294/2024-84 | 2024-09-10 | conhecimento | cvm-col-20240910-d3130 | fichas/colegiado/2024-09.md |
-| art. 58, § 1º | pas | 19957.008183/2024-16 | 2025-03-18 | condenacao | cvm-pas-19957-008183-2024-16 | fichas/pas/2025-01.md |
+| art. 58, § 1º | pas | 19957.008183/2024-16 | 2025-03-18 | condenacao | cvm-pas-19957-008183-2024-16 | fichas/pas/2025-02.md |
 | art. 58, § 1º, inciso I | acordao-crsfn | 19957.008183/2024-16 | 2026-02-10 | condenacao | crsfn-19957-008183-2024-16 | fichas/crsfn/2026-01.md |
 | art. 58, § 1º, inciso I | decisao-colegiado | 19957.000294/2024-84 | 2024-09-10 | conhecimento | cvm-col-20240910-d3130 | fichas/colegiado/2024-09.md |
-| art. 58, § 1º, inciso I | pas | 19957.008183/2024-16 | 2025-03-18 | condenacao | cvm-pas-19957-008183-2024-16 | fichas/pas/2025-01.md |
-| art. 58, § 2º | pas | 19957.008183/2024-16 | 2025-03-18 | condenacao | cvm-pas-19957-008183-2024-16 | fichas/pas/2025-01.md |
+| art. 58, § 1º, inciso I | pas | 19957.008183/2024-16 | 2025-03-18 | condenacao | cvm-pas-19957-008183-2024-16 | fichas/pas/2025-02.md |
+| art. 58, § 2º | pas | 19957.008183/2024-16 | 2025-03-18 | condenacao | cvm-pas-19957-008183-2024-16 | fichas/pas/2025-02.md |
 | art. 58, § 2º, inciso I | acordao-crsfn | 19957.008183/2024-16 | 2026-02-10 | condenacao | crsfn-19957-008183-2024-16 | fichas/crsfn/2026-01.md |
-| art. 58, § 2º, inciso I | pas | 19957.008183/2024-16 | 2025-03-18 | condenacao | cvm-pas-19957-008183-2024-16 | fichas/pas/2025-01.md |
+| art. 58, § 2º, inciso I | pas | 19957.008183/2024-16 | 2025-03-18 | condenacao | cvm-pas-19957-008183-2024-16 | fichas/pas/2025-02.md |
 | art. 58, § 2º, inciso II | acordao-crsfn | 19957.008183/2024-16 | 2026-02-10 | condenacao | crsfn-19957-008183-2024-16 | fichas/crsfn/2026-01.md |
-| art. 58, § 2º, inciso II | pas | 19957.008183/2024-16 | 2025-03-18 | condenacao | cvm-pas-19957-008183-2024-16 | fichas/pas/2025-01.md |
+| art. 58, § 2º, inciso II | pas | 19957.008183/2024-16 | 2025-03-18 | condenacao | cvm-pas-19957-008183-2024-16 | fichas/pas/2025-02.md |
 | art. 58, § 3º | acordao-crsfn | 19957.008183/2024-16 | 2026-02-10 | condenacao | crsfn-19957-008183-2024-16 | fichas/crsfn/2026-01.md |
 | art. 58, § 3º | decisao-colegiado | 19957.000294/2024-84 | 2024-09-10 | conhecimento | cvm-col-20240910-d3130 | fichas/colegiado/2024-09.md |
-| art. 58, § 3º | pas | 19957.008183/2024-16 | 2025-03-18 | condenacao | cvm-pas-19957-008183-2024-16 | fichas/pas/2025-01.md |
-| art. 58, § 3º, inciso III | pas | 19957.008183/2024-16 | 2025-03-18 | condenacao | cvm-pas-19957-008183-2024-16 | fichas/pas/2025-01.md |
+| art. 58, § 3º | pas | 19957.008183/2024-16 | 2025-03-18 | condenacao | cvm-pas-19957-008183-2024-16 | fichas/pas/2025-02.md |
+| art. 58, § 3º, inciso III | pas | 19957.008183/2024-16 | 2025-03-18 | condenacao | cvm-pas-19957-008183-2024-16 | fichas/pas/2025-02.md |
 
 ## art. 59
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 59 | pas | 19957.008183/2024-16 | 2025-03-18 | condenacao | cvm-pas-19957-008183-2024-16 | fichas/pas/2025-01.md |
+| art. 59 | pas | 19957.008183/2024-16 | 2025-03-18 | condenacao | cvm-pas-19957-008183-2024-16 | fichas/pas/2025-02.md |
 
 ## art. 62
 

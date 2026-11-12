@@ -12,10 +12,10 @@ Norma: fora do acervo.
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.005021/2021-83 | 2025-07-22 | — | cvm-col-20250722-d3315 | fichas/colegiado/2025-07.md |
-| pas | 19957.003999/2021-19 | 2024-08-06 | parcial | cvm-pas-19957-003999-2021-19 | fichas/pas/2024-06.md |
-| pas | 19957.004286/2022-45 | 2023-12-21 | condenacao | cvm-pas-19957-004286-2022-45 | fichas/pas/2023-10.md |
-| acordao-crsfn | 19957.008185/2021-62 | 2023-11-07 | outro | crsfn-10372-100157-2022-83-2 | fichas/crsfn/2023-07.md |
-| acordao-crsfn | 19957.008185/2021-62 | 2023-07-11 | parcial | crsfn-10372-100157-2022-83 | fichas/crsfn/2023-05.md |
+| pas | 19957.003999/2021-19 | 2024-08-06 | parcial | cvm-pas-19957-003999-2021-19 | fichas/pas/2024-11.md |
+| pas | 19957.004286/2022-45 | 2023-12-21 | condenacao | cvm-pas-19957-004286-2022-45 | fichas/pas/2023-18.md |
+| acordao-crsfn | 19957.008185/2021-62 | 2023-11-07 | outro | crsfn-10372-100157-2022-83-2 | fichas/crsfn/2023-09.md |
+| acordao-crsfn | 19957.008185/2021-62 | 2023-07-11 | parcial | crsfn-10372-100157-2022-83 | fichas/crsfn/2023-06.md |
 | termo-compromisso | 19957.004747/2021-07 | 2022-04-19 | aceito | cvm-col-20220419-d2562 | fichas/tc/2022-02.md |
 | decisao-colegiado | 19957.008134/2021-31 | 2022-02-15 | parcial | cvm-col-20220215-d2474 | fichas/colegiado/2022-02.md |
 | decisao-colegiado | 19957.008089/2021-14 | 2021-12-07 | nao-provido | cvm-col-20211207-d2427 | fichas/colegiado/2021-21.md |

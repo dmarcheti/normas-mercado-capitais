@@ -11,7 +11,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 14 | acordao-crsfn | 19957.011368/2017-89; RJ2018/00251 | 2024-03-12 | condenacao | crsfn-10372-100089-2022-52 | fichas/crsfn/2024-01.md |
+| art. 14 | acordao-crsfn | 19957.011368/2017-89; RJ2018/00251 | 2024-03-12 | condenacao | crsfn-10372-100089-2022-52 | fichas/crsfn/2024-02.md |
 
 ## art. 21
 
@@ -90,8 +90,8 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 04/2012 | 2018-12-11 | parcial | crsfn-14227 | fichas/crsfn/2018-07.md |
-| pas | 04/2012 | 2014-11-25 | parcial | cvm-pas-04-2012 | fichas/pas/2014-04.md |
+| acordao-crsfn | 04/2012 | 2018-12-11 | parcial | crsfn-14227 | fichas/crsfn/2018-10.md |
+| pas | 04/2012 | 2014-11-25 | parcial | cvm-pas-04-2012 | fichas/pas/2014-09.md |
 | decisao-colegiado | RJ2012/1605 | 2012-07-10 | nao-provido | cvm-col-20120710-d07 | fichas/colegiado/2012-12.md |
 | decisao-colegiado | RJ2004/6153 | 2005-05-31 | parcial | cvm-col-20050531-d01 | fichas/colegiado/2005-08.md |
 | decisao-colegiado | RJ90/0387 | 2005-01-31 | nao-provido | cvm-col-20050131-d01 | fichas/colegiado/2005-03.md |

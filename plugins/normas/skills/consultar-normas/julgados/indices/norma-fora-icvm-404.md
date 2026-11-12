@@ -23,10 +23,10 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | RJ2016/7995 | 2021-09-15 | absolvicao | crsfn-10372-100112-2020-47 | fichas/crsfn/2021-03.md |
+| acordao-crsfn | RJ2016/7995 | 2021-09-15 | absolvicao | crsfn-10372-100112-2020-47 | fichas/crsfn/2021-04.md |
 | decisao-colegiado | RJ2013/1290 | 2013-10-15 | deferido | cvm-col-20131015-d06 | fichas/colegiado/2013-19.md |
 | decisao-colegiado | RJ2010/9101 | 2013-06-25 | outro | cvm-col-20130625-d02 | fichas/colegiado/2013-12.md |
-| acordao-crsfn | RJ-2007-1118 | 2009-10-27 | absolvicao | crsfn-12041 | fichas/crsfn/2009-06.md |
+| acordao-crsfn | RJ-2007-1118 | 2009-10-27 | absolvicao | crsfn-12041 | fichas/crsfn/2009-07.md |
 | decisao-colegiado | RJ2007/11393 | 2007-11-27 | parcial | cvm-col-20071127-d01 | fichas/colegiado/2007-23.md |
 
 Fim do subíndice.

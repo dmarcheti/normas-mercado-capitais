@@ -73,12 +73,15 @@ Vincula só aderentes (ANBIMA) e participantes (B3); texto extraído de PDF, a v
 | B3, Manual do Emissor | listagem de fundos; texto de 2022 ainda cita a Instrução CVM 472, revogada pela 175, por isso [verificar] antes de usar | item 3.1.2 (fundos de investimento) | `autorregulacao/b3/manual-do-emissor.md` |
 | B3, Manual de Normas de Cotas de Fundo de Investimento | registro e depósito centralizado de cotas no Balcão B3 (cotas de fundo fechado negociáveis) | cap. IV (depósito centralizado); cap. V (mercado de balcão organizado); cap. VII (cotas) | `autorregulacao/b3/manual-de-normas-de-cotas-de-fundo-de-investimento.md` |
 
+## Julgados
+
+- Julgados e decisões do Colegiado da CVM sobre FII (distribuição de resultados, conflito de interesses): estão no acervo. Comece por [`tema-fundos-investimento.md`](../../julgados/indices/tema-fundos-investimento.md) e pelos que citam a Res. CVM 175 ([`norma-cvm-res-175.md`](../../julgados/indices/norma-cvm-res-175.md)) e a Lei 8.668 ([`norma-lei-8668.md`](../../julgados/indices/norma-lei-8668.md)); a coluna Ementa mostra o assunto de cada linha. Julgado não é norma: siga "Julgados" no `SKILL.md`.
+
 ## Fora do acervo
 
 - Lei 14.130/2021: não encontrada no acervo como arquivo; suas alterações já estão no texto compilado da Lei 8.668.
 - Lei 13.874/2019 (origem dos arts. 1.368-C a 1.368-F do Código Civil): não encontrada no acervo.
 - Instrução CVM 472/2008 e demais instruções revogadas pelo art. 141 da Parte Geral da 175: fora do perímetro (norma revogada).
-- Julgados e decisões do Colegiado da CVM sobre FII (distribuição de resultados, conflito de interesses): não encontrados no acervo.
 - Regulamentação da Receita Federal sobre a tributação de FII (a Lei 14.754, art. 45, remete à RFB): não encontrada no acervo.
 - Ofícios da CVM só com verbete, sem texto no acervo: SSE 02/21 (cotas de SCP por FII), SSE 01/21 (Informe Anual de FII), SIN 05/20 (voto à distância), SIN 07/16 e SIN 04/16 (informações periódicas de FII), SIN/SNC 01/15 e 01/14 (distribuição de resultados), SRE 1153/05, SRE 51/05 e SRE 735/99. Situação não informada pela CVM; vários podem estar superados pela 175.
 - Lei 8.245/1991 (locação) e Lei 4.591/1964 (incorporação), relevantes para FII com imóveis em renda ou desenvolvimento: não encontradas no acervo.

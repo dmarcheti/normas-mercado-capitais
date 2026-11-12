@@ -11,15 +11,15 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2015/6229 | 2018-03-20 | condenacao | cvm-pas-rj2015-6229 | fichas/pas/2018-02.md |
+| pas | RJ2015/6229 | 2018-03-20 | condenacao | cvm-pas-rj2015-6229 | fichas/pas/2018-04.md |
 | acordao-crsfn | RJ-2008-1766 | 2014-03-18 | condenacao | crsfn-12662 | fichas/crsfn/2014-02.md |
 | acordao-crsfn | SP-24/03 | 2009-09-30 | parcial | crsfn-8928 | fichas/crsfn/2009-05.md |
-| pas | RJ2008/1766 | 2009-06-16 | condenacao | cvm-pas-rj2008-1766 | fichas/pas/2009-03.md |
+| pas | RJ2008/1766 | 2009-06-16 | condenacao | cvm-pas-rj2008-1766 | fichas/pas/2009-05.md |
 | decisao-colegiado | RJ2008/10638 | 2008-12-16 | — | cvm-col-20081216-d11 | fichas/colegiado/2008-28.md |
-| pas | RJ2005/5132 | 2006-08-22 | parcial | cvm-pas-rj2005-5132 | fichas/pas/2006-08.md |
+| pas | RJ2005/5132 | 2006-08-22 | parcial | cvm-pas-rj2005-5132 | fichas/pas/2006-15.md |
 | decisao-colegiado | RJ2006/1134 | 2006-03-21 | parcial | cvm-col-20060321-d03 | fichas/colegiado/2006-05.md |
-| pas | 24/2003 | 2005-06-09 | parcial | cvm-pas-24-2003 | fichas/pas/2005-04.md |
-| pas | 05/2000 | 2004-11-11 | parcial | cvm-pas-05-2000 | fichas/pas/2004-07.md |
+| pas | 24/2003 | 2005-06-09 | parcial | cvm-pas-24-2003 | fichas/pas/2005-08.md |
+| pas | 05/2000 | 2004-11-11 | parcial | cvm-pas-05-2000 | fichas/pas/2004-14.md |
 | decisao-colegiado | RJ2003/0504; RJ2003/6655 | 2004-08-05 | nao-provido | cvm-col-20040805-d08 | fichas/colegiado/2004-09.md |
 | decisao-colegiado | RJ2002/4159; RJ2002/4168 | 2003-12-16 | provido | cvm-col-20031216-d06 | fichas/colegiado/2003-14.md |
 | decisao-colegiado | RJ2003/2367 | 2003-11-04 | provido | cvm-col-20031104-d03 | fichas/colegiado/2003-12.md |

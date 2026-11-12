@@ -15,14 +15,14 @@ Norma: fora do acervo.
 | termo-compromisso | 19957.008321/2021-14 | 2023-07-04 | aceito | cvm-col-20230704-d2664 | fichas/tc/2023-04.md |
 | termo-compromisso | 19957.008321/2021-14 | 2022-08-02 | rejeitado | cvm-col-20220802-d2664 | fichas/tc/2022-04.md |
 | decisao-colegiado | 19957.002504/2022-15 | 2022-05-24 | nao-provido | cvm-col-20220524-d2594 | fichas/colegiado/2022-09.md |
-| acordao-crsfn | RJ2015/10020 | 2022-05-10 | parcial | crsfn-10372-100115-2020-81 | fichas/crsfn/2022-03.md |
+| acordao-crsfn | RJ2015/10020 | 2022-05-10 | parcial | crsfn-10372-100115-2020-81 | fichas/crsfn/2022-04.md |
 | decisao-colegiado | 19957.010556/2021-76 | 2022-04-12 | parcial | cvm-col-20220412-d2555 | fichas/colegiado/2022-06.md |
 | acordao-crsfn | RJ2014/13977; 19957.001882/2020-10 | 2022-02-08 | parcial | crsfn-10372-100171-2020-15 | fichas/crsfn/2022-01.md |
 | decisao-colegiado | 19957.006879/2021-65 | 2021-12-21 | parcial | cvm-col-20211221-d2421 | fichas/colegiado/2021-22.md |
 | decisao-colegiado | 19957.007392/2021-08 | 2021-12-21 | nao-provido | cvm-col-20211221-d2374 | fichas/colegiado/2021-22.md |
-| acordao-crsfn | 07/2015 | 2021-12-08 | condenacao | crsfn-10372-100114-2020-36 | fichas/crsfn/2021-05.md |
-| acordao-crsfn | RJ2018/6282 | 2021-12-08 | outro | crsfn-10372-100107-2020-34 | fichas/crsfn/2021-04.md |
-| acordao-crsfn | RJ2016/7995 | 2021-09-15 | absolvicao | crsfn-10372-100112-2020-47 | fichas/crsfn/2021-03.md |
+| acordao-crsfn | 07/2015 | 2021-12-08 | condenacao | crsfn-10372-100114-2020-36 | fichas/crsfn/2021-06.md |
+| acordao-crsfn | RJ2018/6282 | 2021-12-08 | outro | crsfn-10372-100107-2020-34 | fichas/crsfn/2021-06.md |
+| acordao-crsfn | RJ2016/7995 | 2021-09-15 | absolvicao | crsfn-10372-100112-2020-47 | fichas/crsfn/2021-04.md |
 | acordao-crsfn | 08/2016; 19957.009805/2019-66 | 2021-07-13 | condenacao | crsfn-10372-100172-2020-60 | fichas/crsfn/2021-02.md |
 | decisao-colegiado | 19957.004951/2021-10 | 2021-06-29 | conhecimento | cvm-col-20210629-d2220 | fichas/colegiado/2021-11.md |
 | decisao-colegiado | 19957.003485/2021-55 | 2021-05-18 | nao-provido | cvm-col-20210518-d2167 | fichas/colegiado/2021-08.md |
@@ -36,7 +36,7 @@ Norma: fora do acervo.
 | decisao-colegiado | 19957.011657/2019-40 | 2021-02-09 | conhecimento | cvm-col-20210209-d1800 | fichas/colegiado/2021-02.md |
 | decisao-colegiado | 19957.000391/2021-24 | 2021-02-02 | nao-provido | cvm-col-20210202-d2046 | fichas/colegiado/2021-02.md |
 | decisao-colegiado | 19957.000247/2021-98 | 2021-01-26 | nao-provido | cvm-col-20210126-d2042 | fichas/colegiado/2021-02.md |
-| pas | 19957.011657/2019-40; SP2020/35 | 2021-01-12 | condenacao | cvm-pas-19957-011657-2019-40 | fichas/pas/2021.md |
+| pas | 19957.011657/2019-40; SP2020/35 | 2021-01-12 | condenacao | cvm-pas-19957-011657-2019-40 | fichas/pas/2021-01.md |
 | decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
 | decisao-colegiado | 19957.011059/2019-71 | 2020-09-22 | outro | cvm-col-20200922-d1879 | fichas/colegiado/2020-15.md |
 | decisao-colegiado | 19957.005411/2019-39 | 2020-09-01 | — | cvm-col-20200901-d1864 | fichas/colegiado/2020-14.md |

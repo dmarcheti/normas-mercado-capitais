@@ -20,7 +20,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 2º | acordao-crsfn | RJ2012/7353 | 2022-12-07 | parcial | crsfn-10372-100052-2020-62 | fichas/crsfn/2022-07.md |
+| art. 2º | acordao-crsfn | RJ2012/7353 | 2022-12-07 | parcial | crsfn-10372-100052-2020-62 | fichas/crsfn/2022-08.md |
 | art. 2º | decisao-colegiado | RJ2002/6539 | 2009-10-27 | nao-provido | cvm-col-20091027-d07 | fichas/colegiado/2009-19.md |
 | art. 2º | decisao-colegiado | RJ2007/9370 | 2009-11-24 | nao-provido | cvm-col-20091124-d06 | fichas/colegiado/2009-21.md |
 | art. 2º | decisao-colegiado | RJ2002/5624 | 2010-02-02 | nao-provido | cvm-col-20100202-d16 | fichas/colegiado/2010-04.md |
@@ -49,7 +49,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 26, parágrafo único | acordao-crsfn | RJ2012/7353 | 2022-12-07 | parcial | crsfn-10372-100052-2020-62 | fichas/crsfn/2022-07.md |
+| art. 26, parágrafo único | acordao-crsfn | RJ2012/7353 | 2022-12-07 | parcial | crsfn-10372-100052-2020-62 | fichas/crsfn/2022-08.md |
 | art. 26, parágrafo único | decisao-colegiado | RJ2010/15660; RJ2010/5704 | 2012-09-11 | nao-provido | cvm-col-20120911-d16 | fichas/colegiado/2012-17.md |
 | art. 26, parágrafo único | decisao-antiga | — | 1989-01-04 | — | cvm-dec-1989-0001 | fichas/decisoes-antigas/1989-04.md |
 | art. 26, parágrafo único | pas | RJ2005/5828 | 2006-01-11 | parcial | cvm-pas-rj2005-5828 | fichas/pas/2006-01.md |

@@ -18,7 +18,7 @@ Norma: fora do acervo.
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 6º | decisao-colegiado | 19957.008905/2018-94 | 2018-11-27 | nao-provido | cvm-col-20181127-d1225 | fichas/colegiado/2018-20.md |
-| art. 6º | pas | RJ2016/5789 | 2019-07-09 | condenacao | cvm-pas-rj2016-5789 | fichas/pas/2019-06.md |
+| art. 6º | pas | RJ2016/5789 | 2019-07-09 | condenacao | cvm-pas-rj2016-5789 | fichas/pas/2019-11.md |
 
 ## art. 12
 
@@ -37,13 +37,13 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.015871/2024-32 | 2025-11-11 | condenacao | cvm-pas-19957-015871-2024-32 | fichas/pas/2025-04.md |
-| acordao-crsfn | 19957.001060/2020-21; SP2020/00159 | 2023-12-04 | parcial | crsfn-10372-100189-2021-06 | fichas/crsfn/2023-08.md |
-| acordao-crsfn | RJ2016/5789 | 2020-09-20 | condenacao | crsfn-10372-100332-2019-37 | fichas/crsfn/2020-05.md |
-| acordao-crsfn | RJ2013/13480 | 2018-11-09 | condenacao | crsfn-10372-100169-2017-41 | fichas/crsfn/2018-07.md |
-| pas | RJ2013/13480 | 2016-11-24 | condenacao | cvm-pas-rj2013-13480 | fichas/pas/2016-07.md |
+| pas | 19957.015871/2024-32 | 2025-11-11 | condenacao | cvm-pas-19957-015871-2024-32 | fichas/pas/2025-09.md |
+| acordao-crsfn | 19957.001060/2020-21; SP2020/00159 | 2023-12-04 | parcial | crsfn-10372-100189-2021-06 | fichas/crsfn/2023-10.md |
+| acordao-crsfn | RJ2016/5789 | 2020-09-20 | condenacao | crsfn-10372-100332-2019-37 | fichas/crsfn/2020-07.md |
+| acordao-crsfn | RJ2013/13480 | 2018-11-09 | condenacao | crsfn-10372-100169-2017-41 | fichas/crsfn/2018-09.md |
+| pas | RJ2013/13480 | 2016-11-24 | condenacao | cvm-pas-rj2013-13480 | fichas/pas/2016-13.md |
 | decisao-colegiado | RJ2016/2362 | 2016-03-29 | conhecimento | cvm-col-20160329-d0165 | fichas/colegiado/2016-08.md |
 | decisao-colegiado | RJ2010/13298 | 2010-11-16 | nao-provido | cvm-col-20101116-d08 | fichas/colegiado/2010-24.md |
-| pas | 09/1993 | 2006-12-14 | condenacao | cvm-pas-09-1993 | fichas/pas/2006-14.md |
+| pas | 09/1993 | 2006-12-14 | condenacao | cvm-pas-09-1993 | fichas/pas/2006-28.md |
 
 Fim do subíndice.

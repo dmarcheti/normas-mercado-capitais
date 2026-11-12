@@ -33,9 +33,9 @@ Este subíndice tem 838 linhas e uma leitura única é cortada em silêncio pert
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.008378/2023-85 | 2024-12-18 | absolvicao | cvm-pas-19957-008378-2023-85 | fichas/pas/2024-12.md |
+| pas | 19957.008378/2023-85 | 2024-12-18 | absolvicao | cvm-pas-19957-008378-2023-85 | fichas/pas/2024-23.md |
 | decisao-colegiado | 19957.007920/2018-15 | 2024-12-03 | conhecimento | cvm-col-20241203-d2187 | fichas/colegiado/2024-13.md |
-| acordao-crsfn | 19957.007552/2016-43 | 2024-10-08 | condenacao | crsfn-10372-100066-2021-67 | fichas/crsfn/2024-05.md |
+| acordao-crsfn | 19957.007552/2016-43 | 2024-10-08 | condenacao | crsfn-10372-100066-2021-67 | fichas/crsfn/2024-06.md |
 | acordao-crsfn | RJ2013/8880 | 2024-05-08 | condenacao | crsfn-10372-100059-2020-84 | fichas/crsfn/2024-03.md |
 | decisao-colegiado | 19957.003021/2020-68 | 2023-12-19 | — | cvm-col-20231219-d1875 | fichas/colegiado/2023-14.md |
 | decisao-colegiado | 19957.010412/2017-33 | 2023-10-03 | nao-provido | cvm-col-20231003-d0852 | fichas/colegiado/2023-10.md |
@@ -80,7 +80,7 @@ Este subíndice tem 838 linhas e uma leitura única é cortada em silêncio pert
 | decisao-colegiado | 19957.003841/2018-35 | 2021-04-20 | nao-provido | cvm-col-20210420-d2053 | fichas/colegiado/2021-07.md |
 | decisao-colegiado | 19957.001988/2021-96 | 2021-04-13 | outro | cvm-col-20210413-d2136 | fichas/colegiado/2021-07.md |
 | decisao-colegiado | 19957.007193/2019-77; 19957.006475/2020-91 | 2021-04-13 | conhecimento | cvm-col-20210413-d2001 | fichas/colegiado/2021-06.md |
-| pas | 19957.010833/2018-45 | 2021-03-23 | condenacao | cvm-pas-19957-010833-2018-45 | fichas/pas/2021.md |
+| pas | 19957.010833/2018-45 | 2021-03-23 | condenacao | cvm-pas-19957-010833-2018-45 | fichas/pas/2021-02.md |
 | decisao-colegiado | 19957.001898/2021-03 | 2021-03-23 | nao-provido | cvm-col-20210323-d2112 | fichas/colegiado/2021-05.md |
 | decisao-colegiado | 19957.000950/2021-04 | 2021-03-09 | provido | cvm-col-20210309-d2092 | fichas/colegiado/2021-05.md |
 | decisao-colegiado | 19957.006243/2020-32 | 2021-02-23 | provido | cvm-col-20210223-d2029 | fichas/colegiado/2021-03.md |
@@ -90,14 +90,14 @@ Este subíndice tem 838 linhas e uma leitura única é cortada em silêncio pert
 | decisao-colegiado | 19957.007193/2019-77; 19957.006475/2020-91 | 2021-01-26 | conhecimento | cvm-col-20210126-d2001 | fichas/colegiado/2021-01.md |
 | decisao-colegiado | 19957.003513/2019-10 | 2021-01-19 | nao-provido | cvm-col-20210119-d2031 | fichas/colegiado/2021-01.md |
 | decisao-colegiado | 19957.005199/2020-43 | 2021-01-19 | conhecimento | cvm-col-20210119-d1986 | fichas/colegiado/2021-01.md |
-| pas | 19957.011657/2019-40; SP2020/35 | 2021-01-12 | condenacao | cvm-pas-19957-011657-2019-40 | fichas/pas/2021.md |
+| pas | 19957.011657/2019-40; SP2020/35 | 2021-01-12 | condenacao | cvm-pas-19957-011657-2019-40 | fichas/pas/2021-01.md |
 | decisao-colegiado | 19957.008277/2020-61 | 2020-12-22 | provido | cvm-col-20201222-d2024 | fichas/colegiado/2020-22.md |
 | decisao-colegiado | 19957.004648/2020-36 | 2020-12-08 | nao-provido | cvm-col-20201208-d2004 | fichas/colegiado/2020-21.md |
 | decisao-colegiado | 19957.007193/2019-77; 19957.006475/2020-91 | 2020-12-08 | nao-provido | cvm-col-20201208-d2001 | fichas/colegiado/2020-21.md |
 | decisao-colegiado | 19957.007457/2018-10 | 2020-12-08 | parcial | cvm-col-20201208-d1361 | fichas/colegiado/2020-21.md |
 | decisao-colegiado | 19957.007684/2020-51 | 2020-11-24 | nao-provido | cvm-col-20201124-d1988 | fichas/colegiado/2020-20.md |
 | decisao-colegiado | 19957.007667/2020-14 | 2020-11-24 | nao-provido | cvm-col-20201124-d1987 | fichas/colegiado/2020-20.md |
-| acordao-crsfn | RJ2016/8347 | 2020-11-18 | parcial | crsfn-10372-100052-2019-29 | fichas/crsfn/2020-07.md |
+| acordao-crsfn | RJ2016/8347 | 2020-11-18 | parcial | crsfn-10372-100052-2019-29 | fichas/crsfn/2020-09.md |
 | decisao-colegiado | 19957.005563/2020-75 | 2020-11-13 | provido | cvm-col-20201113-d1979 | fichas/colegiado/2020-19.md |
 | decisao-colegiado | 19957.000609/2020-60 | 2020-11-10 | conhecimento | cvm-col-20201110-d1967 | fichas/colegiado/2020-19.md |
 | decisao-colegiado | 19957.003611/2020-91; 19957.003612/2020-35 | 2020-11-03 | nao-provido | cvm-col-20201103-d1905 | fichas/colegiado/2020-18.md |
@@ -106,7 +106,7 @@ Este subíndice tem 838 linhas e uma leitura única é cortada em silêncio pert
 | decisao-colegiado | 19957.006076/2020-20 | 2020-10-15 | provido | cvm-col-20201015-d1957 | fichas/colegiado/2020-17.md |
 | decisao-colegiado | 19957.006377/2020-53; 19957.005060/2019-66 | 2020-10-13 | nao-provido | cvm-col-20201013-d1946 | fichas/colegiado/2020-17.md |
 | decisao-colegiado | 19957.005168/2020-92 | 2020-10-13 | nao-provido | cvm-col-20201013-d1944 | fichas/colegiado/2020-17.md |
-| pas | 19957.007552/2016-43 | 2020-09-29 | — | cvm-pas-19957-007552-2016-43 | fichas/pas/2020-04.md |
+| pas | 19957.007552/2016-43 | 2020-09-29 | — | cvm-pas-19957-007552-2016-43 | fichas/pas/2020-08.md |
 | decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
 | decisao-colegiado | 19957.003010/2020-88 | 2020-09-22 | nao-provido | cvm-col-20200922-d1923 | fichas/colegiado/2020-16.md |
 | decisao-colegiado | 19957.011059/2019-71 | 2020-09-22 | outro | cvm-col-20200922-d1879 | fichas/colegiado/2020-15.md |
@@ -121,7 +121,7 @@ Este subíndice tem 838 linhas e uma leitura única é cortada em silêncio pert
 | decisao-colegiado | 19957.004741/2020-41 | 2020-08-11 | nao-provido | cvm-col-20200811-d1882 | fichas/colegiado/2020-13.md |
 | decisao-colegiado | 19957.002727/2016-26 | 2020-07-28 | nao-provido | cvm-col-20200728-d0324 | fichas/colegiado/2020-12.md |
 | decisao-colegiado | 19957.007728/2019-18 | 2020-06-18 | nao-provido | cvm-col-20200618-d1838 | fichas/colegiado/2020-10.md |
-| acordao-crsfn | 04/2009 | 2020-06-16 | condenacao | crsfn-10372-000070-2016-69 | fichas/crsfn/2020-03.md |
+| acordao-crsfn | 04/2009 | 2020-06-16 | condenacao | crsfn-10372-000070-2016-69 | fichas/crsfn/2020-04.md |
 | decisao-colegiado | 19957.005471/2018-71 | 2020-06-09 | conhecimento | cvm-col-20200609-d1831 | fichas/colegiado/2020-10.md |
 | decisao-colegiado | 19957.005013/2019-12 | 2020-06-09 | conhecimento | cvm-col-20200609-d1830 | fichas/colegiado/2020-09.md |
 | decisao-colegiado | SP2016/0467 | 2020-06-02 | nao-provido | cvm-col-20200602-d1825 | fichas/colegiado/2020-09.md |
@@ -153,7 +153,7 @@ Este subíndice tem 838 linhas e uma leitura única é cortada em silêncio pert
 | decisao-colegiado | 08/2016 | 2019-11-26 | conhecimento | cvm-col-20191126-d1173 | fichas/colegiado/2019-19.md |
 | decisao-colegiado | 19957.004658/2019-38 | 2019-11-05 | nao-provido | cvm-col-20191105-d1464 | fichas/colegiado/2019-17.md |
 | decisao-colegiado | 19957.004385/2019-21 | 2019-11-05 | outro | cvm-col-20191105-d1389 | fichas/colegiado/2019-17.md |
-| pas | RJ2016/773 | 2019-10-29 | condenacao | cvm-pas-rj2016-0773 | fichas/pas/2019-10.md |
+| pas | RJ2016/773 | 2019-10-29 | condenacao | cvm-pas-rj2016-0773 | fichas/pas/2019-18.md |
 | decisao-colegiado | 19957.004674/2019-21 | 2019-10-29 | nao-provido | cvm-col-20191029-d1588 | fichas/colegiado/2019-17.md |
 | decisao-colegiado | 14/2010 | 2019-10-15 | conhecimento | cvm-col-20191015-d8609 | fichas/colegiado/2019-17.md |
 | decisao-colegiado | 19957.000893/2019-31 | 2019-10-15 | nao-provido | cvm-col-20191015-d1573 | fichas/colegiado/2019-16.md |
@@ -165,7 +165,7 @@ Este subíndice tem 838 linhas e uma leitura única é cortada em silêncio pert
 | decisao-colegiado | RJ2015/2386 | 2019-07-23 | nao-provido | cvm-col-20190723-d9884 | fichas/colegiado/2019-11.md |
 | decisao-colegiado | 19957.004070/2019-84 | 2019-07-02 | nao-provido | cvm-col-20190702-d1458 | fichas/colegiado/2019-11.md |
 | decisao-colegiado | 19957.003194/2019-42 | 2019-07-02 | conhecimento | cvm-col-20190702-d1386 | fichas/colegiado/2019-10.md |
-| pas | RJ2013/8880 | 2019-06-11 | condenacao | cvm-pas-rj2013-8880 | fichas/pas/2019-04.md |
+| pas | RJ2013/8880 | 2019-06-11 | condenacao | cvm-pas-rj2013-8880 | fichas/pas/2019-08.md |
 | decisao-colegiado | 01/2018; 452/2007; 555/2014; 463/2003; 19957.006566/2017-21 | 2019-05-30 | outro | cvm-col-20190530-d1022 | fichas/colegiado/2019-09.md |
 | decisao-colegiado | RJ2013/8880 | 2019-05-28 | conhecimento | cvm-col-20190528-d8981 | fichas/colegiado/2019-09.md |
 | decisao-colegiado | 19957.003280/2019-55 | 2019-05-28 | provido | cvm-col-20190528-d1420 | fichas/colegiado/2019-08.md |
@@ -173,7 +173,7 @@ Este subíndice tem 838 linhas e uma leitura única é cortada em silêncio pert
 | decisao-colegiado | 19957.003194/2019-42 | 2019-04-30 | nao-provido | cvm-col-20190430-d1386 | fichas/colegiado/2019-07.md |
 | decisao-colegiado | 19957.003410/2019-50 | 2019-04-09 | conhecimento | cvm-col-20190409-d1285 | fichas/colegiado/2019-06.md |
 | decisao-colegiado | 19957.003411/2019-02 | 2019-04-09 | conhecimento | cvm-col-20190409-d1284 | fichas/colegiado/2019-06.md |
-| pas | RJ2015/2027 | 2019-04-02 | parcial | cvm-pas-rj2015-2027 | fichas/pas/2019-03.md |
+| pas | RJ2015/2027 | 2019-04-02 | parcial | cvm-pas-rj2015-2027 | fichas/pas/2019-05.md |
 | decisao-colegiado | 19957.000861/2019-35 | 2019-04-02 | nao-provido | cvm-col-20190402-d1355 | fichas/colegiado/2019-05.md |
 | decisao-colegiado | 19957.009590/2018-01 | 2019-04-02 | nao-provido | cvm-col-20190402-d1321 | fichas/colegiado/2019-05.md |
 | decisao-colegiado | RJ2016/4098; 19957.009411/2017-46 | 2019-04-02 | outro | cvm-col-20190402-d0205-0847 | fichas/colegiado/2019-05.md |
@@ -380,7 +380,7 @@ Este subíndice tem 838 linhas e uma leitura única é cortada em silêncio pert
 | decisao-colegiado | 19957.001060/2016-44 | 2016-03-01 | nao-provido | cvm-col-20160301-d0132 | fichas/colegiado/2016-06.md |
 | decisao-colegiado | RJ2016/1503 | 2016-03-01 | nao-provido | cvm-col-20160301-d0131 | fichas/colegiado/2016-06.md |
 | decisao-colegiado | RJ2015/12607 | 2016-03-01 | nao-provido | cvm-col-20160301-d0114 | fichas/colegiado/2016-05.md |
-| acordao-crsfn | SP2004/193 | 2016-02-23 | parcial | crsfn-11957 | fichas/crsfn/2016-01.md |
+| acordao-crsfn | SP2004/193 | 2016-02-23 | parcial | crsfn-11957 | fichas/crsfn/2016-02.md |
 | acordao-crsfn | SP2004/193 | 2016-02-23 | parcial | crsfn-10372-000585-2016-69 | fichas/crsfn/2016-01.md |
 | decisao-colegiado | RJ2014/8516 | 2016-02-16 | provido | cvm-col-20160216-d9460 | fichas/colegiado/2016-04.md |
 | decisao-colegiado | RJ2015/12354 | 2016-02-11 | nao-provido | cvm-col-20160211-d9955 | fichas/colegiado/2016-04.md |
@@ -665,7 +665,7 @@ Este subíndice tem 838 linhas e uma leitura única é cortada em silêncio pert
 | decisao-colegiado | RJ2010/0275 | 2010-03-23 | — | cvm-col-20100323-d02 | fichas/colegiado/2010-09.md |
 | decisao-colegiado | RJ2010/0341 | 2010-03-09 | nao-provido | cvm-col-20100309-d24 | fichas/colegiado/2010-08.md |
 | decisao-colegiado | RJ2001/12336 | 2010-03-09 | parcial | cvm-col-20100309-d20 | fichas/colegiado/2010-08.md |
-| pas | 13/2006 | 2009-12-15 | condenacao | cvm-pas-13-2006 | fichas/pas/2009-05.md |
+| pas | 13/2006 | 2009-12-15 | condenacao | cvm-pas-13-2006 | fichas/pas/2009-10.md |
 | decisao-colegiado | RJ2009/3887 | 2009-12-15 | nao-provido | cvm-col-20091215-d10 | fichas/colegiado/2009-23.md |
 | decisao-colegiado | RJ2009/3884 | 2009-12-15 | nao-provido | cvm-col-20091215-d09 | fichas/colegiado/2009-23.md |
 | decisao-colegiado | RJ2009/3864 | 2009-12-15 | nao-provido | cvm-col-20091215-d08 | fichas/colegiado/2009-23.md |

@@ -149,11 +149,12 @@ class TestIndiceDasDecisoesAntigas(unittest.TestCase):
         arqs = self.gerar()
         self.assertIn("indices/decisao-antiga-1985.md", arqs)
         md = arqs["indices/decisao-antiga-1985.md"]
-        self.assertIn("| Data da ata | Processo | Id | Ficha |", md)
-        self.assertIn("| 1985-03-05 | — | cvm-col-1985-antigas-0001 | fichas/decisoes-antigas/1985.md |", md)
-        self.assertIn("| 1985-03-05 | — | cvm-col-1985-antigas-0002 | fichas/decisoes-antigas/1985.md |", md)
+        self.assertIn("| Data da ata | Processo | Título | Id | Ficha |", md)
+        self.assertIn("| 1985-03-05 | — | CONSULTA SOBRE DEBÊNTURES CONVERSÍVEIS | cvm-col-1985-antigas-0001 | "
+                      "fichas/decisoes-antigas/1985.md |", md)
+        self.assertIn("| 1985-03-05 | — | AUMENTO DE CAPITAL POR SUBSCRIÇÃO | cvm-col-1985-antigas-0002 | "
+                      "fichas/decisoes-antigas/1985.md |", md)
         self.assertEqual(md.count("fichas/decisoes-antigas/1985.md"), 2)  # uma linha por ficha, não por ano
-        self.assertNotIn("DEBÊNTURES", md)  # o título é a ementa da ficha, não vai para o índice
         self.assertNotIn("julgados/cvm/decisoes-antigas", md)
         self.assertIn("(indices/decisao-antiga-1985.md)", arqs["indice.md"])
 
@@ -167,7 +168,7 @@ class TestIndiceDasDecisoesAntigas(unittest.TestCase):
         self.assertEqual(len(linhas), 2)
         for l in linhas:
             cel = [c.strip() for c in l.strip("|").split("|")]
-            self.assertEqual(por_id[cel[2]], cel[3])
+            self.assertEqual(por_id[cel[3]], cel[4])
 
     def test_ano_grande_divide_por_semestre_e_cada_parte_tem_link(self):
         self.anual(1999, [("1", "05.02.1999", [("CONSULTA SOBRE DEBÊNTURES CONVERSÍVEIS", CORPO)]),
@@ -176,7 +177,8 @@ class TestIndiceDasDecisoesAntigas(unittest.TestCase):
             arqs = self.gerar()
         self.assertNotIn("indices/decisao-antiga-1999.md", arqs)
         s1, s2 = arqs["indices/decisao-antiga-1999-s1.md"], arqs["indices/decisao-antiga-1999-s2.md"]
-        self.assertIn("1999-02-05 | — | cvm-col-1999-antigas-0001 | fichas/decisoes-antigas/1999.md", s1)
+        self.assertIn("1999-02-05 | — | CONSULTA SOBRE DEBÊNTURES CONVERSÍVEIS | cvm-col-1999-antigas-0001 | "
+                      "fichas/decisoes-antigas/1999.md", s1)
         self.assertNotIn("1999-09-05", s1)
         self.assertIn("1999-09-05", s2)
         for rel in ("indices/decisao-antiga-1999-s1.md", "indices/decisao-antiga-1999-s2.md"):
@@ -187,6 +189,20 @@ class TestIndiceDasDecisoesAntigas(unittest.TestCase):
         for rel, md in self.gerar().items():
             self.assertNotIn("ZEFE" + "RINO", md, rel)
             self.assertNotIn("QUAR" + "TAMENTE", md, rel)
+
+    def test_titulo_e_a_ementa_da_ficha_com_a_marca_de_pessoa_fisica(self):
+        self.anual(1990, [("5", "10.04.1990", [("RECLAMAÇÃO – " + NOME + " – PEDIDO DE RESSARCIMENTO", CORPO)])])
+        md = self.gerar()["indices/decisao-antiga-1990.md"]
+        self.assertIn("| RECLAMAÇÃO – [pessoa física] – PEDIDO DE RESSARCIMENTO |", md)
+
+    def test_titulo_longo_sai_com_ate_140_caracteres_e_reticencias(self):
+        longo = "CONSULTA SOBRE " + " ".join(["EMISSÃO"] * 40)
+        self.anual(1985, [("12", "05.03.1985", [(longo, CORPO)])])
+        md = self.gerar()["indices/decisao-antiga-1985.md"]
+        linha = next(l for l in md.split("\n") if l.startswith("| 1985-"))
+        titulo = [c.strip() for c in linha.strip("|").split("|")][2]
+        self.assertLessEqual(len(titulo), indice.EMENTA_CURTA)
+        self.assertTrue(titulo.endswith("…"))
 
     def test_geracao_e_estavel(self):
         self.anual(1985, [("12", "05.03.1985", [("CONSULTA SOBRE DEBÊNTURES CONVERSÍVEIS", CORPO)])])

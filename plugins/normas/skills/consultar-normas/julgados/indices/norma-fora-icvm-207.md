@@ -13,7 +13,7 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|
 | art. 1º | termo-compromisso | RJ2006/1512 | 2006-12-05 | aceito | cvm-col-20061205-d07 | fichas/tc/2006-07.md |
 | art. 1º | decisao-colegiado | 19957.006030/2016-24 | 2016-11-01 | provido | cvm-col-20161101-d0368 | fichas/colegiado/2016-21.md |
-| art. 1º, alínea a | pas | 36/1998 | 2000-09-28 | parcial | cvm-pas-36-1998 | fichas/pas/2000-02.md |
+| art. 1º, alínea a | pas | 36/1998 | 2000-09-28 | parcial | cvm-pas-36-1998 | fichas/pas/2000-04.md |
 | art. 1º, alínea b | decisao-colegiado | RJ2004/2899 | 2004-07-06 | nao-provido | cvm-col-20040706-d07 | fichas/colegiado/2004-08.md |
 
 ## art. 3º
@@ -31,7 +31,7 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2012/15244 | 2013-02-05 | parcial | cvm-col-20130205-d06 | fichas/colegiado/2013-03.md |
 | decisao-colegiado | SP2007/0202 | 2007-12-04 | nao-provido | cvm-col-20071204-d04 | fichas/colegiado/2007-24.md |
 | decisao-colegiado | RJ2006/0796 | 2006-06-13 | parcial | cvm-col-20060613-d07 | fichas/colegiado/2006-09.md |
-| pas | 18/2003 | 2005-12-08 | parcial | cvm-pas-18-2003 | fichas/pas/2005-09.md |
+| pas | 18/2003 | 2005-12-08 | parcial | cvm-pas-18-2003 | fichas/pas/2005-19.md |
 | decisao-antiga | — | 1995-01-04 | — | cvm-dec-1995-0001 | fichas/decisoes-antigas/1995-04.md |
 
 Fim do subíndice.

@@ -17,7 +17,7 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.004791/2020-28 | 2024-06-18 | parcial | cvm-pas-19957-004791-2020-28 | fichas/pas/2024-04.md |
+| pas | 19957.004791/2020-28 | 2024-06-18 | parcial | cvm-pas-19957-004791-2020-28 | fichas/pas/2024-07.md |
 | decisao-colegiado | RJ2015/12329 | 2015-12-01 | nao-provido | cvm-col-20151201-d9954 | fichas/colegiado/2015-23.md |
 | decisao-colegiado | RJ2015/9382 | 2015-09-22 | nao-provido | cvm-col-20150922-d9847 | fichas/colegiado/2015-17.md |
 | decisao-colegiado | RJ2015/9381 | 2015-09-22 | nao-provido | cvm-col-20150922-d9846 | fichas/colegiado/2015-17.md |

@@ -44,16 +44,16 @@ Norma: fora do acervo.
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | pas | 19957.003200/2017-08 | 2023-01-31 | condenacao | cvm-pas-19957-003200-2017-08 | fichas/pas/2023-01.md |
-| pas | 19957.002404/2017-13; RJ2017/1238 | 2019-11-26 | absolvicao | cvm-pas-19957-002404-2017-13 | fichas/pas/2019-11.md |
+| pas | 19957.002404/2017-13; RJ2017/1238 | 2019-11-26 | absolvicao | cvm-pas-19957-002404-2017-13 | fichas/pas/2019-20.md |
 | decisao-colegiado | RJ2013/12238 | 2015-11-10 | nao-provido | cvm-col-20151110-d9913 | fichas/colegiado/2015-20.md |
 | decisao-colegiado | RJ2013/12051 | 2014-05-20 | deferido | cvm-col-20140520-d13 | fichas/colegiado/2014-09.md |
-| acordao-crsfn | RJ-2003/5596 | 2008-07-29 | arquivamento | crsfn-8547 | fichas/crsfn/2008-03.md |
-| pas | RJ2003/13021 | 2007-07-31 | parcial | cvm-pas-rj2003-13021 | fichas/pas/2007-05.md |
+| acordao-crsfn | RJ-2003/5596 | 2008-07-29 | arquivamento | crsfn-8547 | fichas/crsfn/2008-04.md |
+| pas | RJ2003/13021 | 2007-07-31 | parcial | cvm-pas-rj2003-13021 | fichas/pas/2007-10.md |
 | decisao-colegiado | RJ2006/1525 | 2006-05-03 | deferido | cvm-col-20060503-d04 | fichas/colegiado/2006-07.md |
-| pas | RJ2003/7697 | 2005-08-23 | absolvicao | cvm-pas-rj2003-7697 | fichas/pas/2005-06.md |
-| pas | RJ2003/5058 | 2005-06-20 | absolvicao | cvm-pas-rj2003-5058 | fichas/pas/2005-05.md |
-| pas | RJ2003/5596 | 2005-04-25 | condenacao | cvm-pas-rj2003-5596 | fichas/pas/2005-03.md |
-| pas | RJ2002/8428 | 2004-10-14 | parcial | cvm-pas-rj2002-8428 | fichas/pas/2004-06.md |
+| pas | RJ2003/7697 | 2005-08-23 | absolvicao | cvm-pas-rj2003-7697 | fichas/pas/2005-11.md |
+| pas | RJ2003/5058 | 2005-06-20 | absolvicao | cvm-pas-rj2003-5058 | fichas/pas/2005-09.md |
+| pas | RJ2003/5596 | 2005-04-25 | condenacao | cvm-pas-rj2003-5596 | fichas/pas/2005-06.md |
+| pas | RJ2002/8428 | 2004-10-14 | parcial | cvm-pas-rj2002-8428 | fichas/pas/2004-12.md |
 | decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
 
 Fim do subíndice.

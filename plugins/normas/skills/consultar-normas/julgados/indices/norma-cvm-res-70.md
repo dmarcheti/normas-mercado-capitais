@@ -24,8 +24,8 @@ Norma: [cvm/resolucoes/0070.md](../../normas/cvm/resolucoes/0070.md) (texto vige
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-03.md |
-| pas | 19957.011669/2017-11 | 2023-09-19 | absolvicao | cvm-pas-19957-011669-2017-11 | fichas/pas/2023-06.md |
-| pas | 19957.008172/2021-93 | 2023-09-05 | absolvicao | cvm-pas-19957-008172-2021-93 | fichas/pas/2023-05.md |
+| pas | 19957.011669/2017-11 | 2023-09-19 | absolvicao | cvm-pas-19957-011669-2017-11 | fichas/pas/2023-11.md |
+| pas | 19957.008172/2021-93 | 2023-09-05 | absolvicao | cvm-pas-19957-008172-2021-93 | fichas/pas/2023-10.md |
 | decisao-colegiado | 19957.009725/2021-25 | 2022-03-15 | outro | cvm-col-20220315-d2516 | fichas/colegiado/2022-03.md |
 
 Fim do subíndice.

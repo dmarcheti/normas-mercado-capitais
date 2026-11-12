@@ -17,10 +17,10 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 68 | acordao-crsfn | RJ-2005-7229 | 2010-09-14 | parcial | crsfn-11145 | fichas/crsfn/2010-07.md |
+| art. 68 | acordao-crsfn | RJ-2005-7229 | 2010-09-14 | parcial | crsfn-11145 | fichas/crsfn/2010-08.md |
 | art. 68 | decisao-colegiado | RJ2003/7878 | 2003-09-05 | indeferido | cvm-col-20030905-d01 | fichas/colegiado/2003-11.md |
 | art. 68 | decisao-colegiado | RJ2003/7878 | 2004-12-07 | nao-provido | cvm-col-20041207-d02 | fichas/colegiado/2004-15.md |
-| art. 68 | pas | RJ2005/7229 | 2006-05-10 | parcial | cvm-pas-rj2005-7229 | fichas/pas/2006-05.md |
+| art. 68 | pas | RJ2005/7229 | 2006-05-10 | parcial | cvm-pas-rj2005-7229 | fichas/pas/2006-10.md |
 
 ## art. 86
 
@@ -32,8 +32,8 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 97 | acordao-crsfn | 09/2006 | 2017-04-05 | parcial | crsfn-13720 | fichas/crsfn/2017-02.md |
-| art. 97 | pas | 09/2006 | 2013-03-05 | parcial | cvm-pas-09-2006 | fichas/pas/2013-01.md |
+| art. 97 | acordao-crsfn | 09/2006 | 2017-04-05 | parcial | crsfn-13720 | fichas/crsfn/2017-05.md |
+| art. 97 | pas | 09/2006 | 2013-03-05 | parcial | cvm-pas-09-2006 | fichas/pas/2013-02.md |
 
 ## art. 98
 
@@ -105,7 +105,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 201 | acordao-crsfn | RJ-2005-7229 | 2010-09-14 | parcial | crsfn-11145 | fichas/crsfn/2010-07.md |
-| art. 201 | pas | RJ2005/7229 | 2006-05-10 | parcial | cvm-pas-rj2005-7229 | fichas/pas/2006-05.md |
+| art. 201 | acordao-crsfn | RJ-2005-7229 | 2010-09-14 | parcial | crsfn-11145 | fichas/crsfn/2010-08.md |
+| art. 201 | pas | RJ2005/7229 | 2006-05-10 | parcial | cvm-pas-rj2005-7229 | fichas/pas/2006-10.md |
 
 Fim do subíndice.

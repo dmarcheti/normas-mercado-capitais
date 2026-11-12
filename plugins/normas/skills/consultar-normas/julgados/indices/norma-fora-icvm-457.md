@@ -12,7 +12,7 @@ Norma: fora do acervo.
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 1º | termo-compromisso | RJ2012/8371 | 2013-05-14 | aceito | cvm-col-20130514-d03 | fichas/tc/2013-02.md |
-| art. 1º | pas | RJ2016/8769 | 2018-10-23 | condenacao | cvm-pas-rj2016-8769 | fichas/pas/2018-08.md |
+| art. 1º | pas | RJ2016/8769 | 2018-10-23 | condenacao | cvm-pas-rj2016-8769 | fichas/pas/2018-16.md |
 
 ## art. 2º
 
@@ -28,7 +28,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 3º | pas | 06/2012 | 2018-08-20 | parcial | cvm-pas-06-2012 | fichas/pas/2018-06.md |
+| art. 3º | pas | 06/2012 | 2018-08-20 | parcial | cvm-pas-06-2012 | fichas/pas/2018-13.md |
 
 ## art. 4º
 
@@ -36,7 +36,7 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|
 | art. 4º | termo-compromisso | 19957.008984/2016-71; RJ2016/8769 | 2017-10-31 | rejeitado | cvm-col-20171031-d0838 | fichas/tc/2017-05.md |
 | art. 4º | decisao-colegiado | 19957.008984/2016-71 | 2019-01-29 | indeferido | cvm-col-20190129-d0838 | fichas/colegiado/2019-02.md |
-| art. 4º | pas | RJ2016/8769 | 2018-10-23 | condenacao | cvm-pas-rj2016-8769 | fichas/pas/2018-08.md |
+| art. 4º | pas | RJ2016/8769 | 2018-10-23 | condenacao | cvm-pas-rj2016-8769 | fichas/pas/2018-16.md |
 
 ## art. 13
 
@@ -58,7 +58,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 81 | pas | RJ2016/8769 | 2018-10-23 | condenacao | cvm-pas-rj2016-8769 | fichas/pas/2018-08.md |
+| art. 81 | pas | RJ2016/8769 | 2018-10-23 | condenacao | cvm-pas-rj2016-8769 | fichas/pas/2018-16.md |
 
 ## Citada sem dispositivo identificado
 
@@ -67,11 +67,11 @@ Norma: fora do acervo.
 | decisao-colegiado | 19957.015838/2023-21 | 2024-03-27 | nao-provido | cvm-col-20240327-d3025 | fichas/colegiado/2024-04.md |
 | decisao-colegiado | 191/1992; 457/2007; 458/2010; 527/2012; 19957.005398/2022-13; 19957.005466/2022-44; 19957.005473/2022-46 | 2022-06-15 | outro | cvm-col-20220615-d2630 | fichas/colegiado/2022-10.md |
 | decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
-| pas | RJ2015/13127 | 2019-08-20 | condenacao | cvm-pas-rj2015-13127 | fichas/pas/2019-08.md |
+| pas | RJ2015/13127 | 2019-08-20 | condenacao | cvm-pas-rj2015-13127 | fichas/pas/2019-15.md |
 | decisao-colegiado | 19957.006289/2018-37 | 2018-07-03 | outro | cvm-col-20180703-d1063 | fichas/colegiado/2018-11.md |
-| acordao-crsfn | RJ2011/9483 | 2016-05-31 | arquivamento | crsfn-14397 | fichas/crsfn/2016-02.md |
-| pas | RJ2011/7941 | 2013-12-10 | parcial | cvm-pas-rj2011-7941 | fichas/pas/2013-06.md |
-| pas | RJ2012/5754 | 2013-09-10 | parcial | cvm-pas-rj2012-5754 | fichas/pas/2013-04.md |
+| acordao-crsfn | RJ2011/9483 | 2016-05-31 | arquivamento | crsfn-14397 | fichas/crsfn/2016-04.md |
+| pas | RJ2011/7941 | 2013-12-10 | parcial | cvm-pas-rj2011-7941 | fichas/pas/2013-13.md |
+| pas | RJ2012/5754 | 2013-09-10 | parcial | cvm-pas-rj2012-5754 | fichas/pas/2013-09.md |
 | termo-compromisso | RJ2011/9483 | 2013-03-26 | — | cvm-col-20130326-d01 | fichas/tc/2013-01.md |
 | decisao-colegiado | RJ2011/13070 | 2011-12-06 | nao-provido | cvm-col-20111206-d18 | fichas/colegiado/2011-28.md |
 | decisao-colegiado | RJ2011/13068 | 2011-12-06 | nao-provido | cvm-col-20111206-d17 | fichas/colegiado/2011-28.md |

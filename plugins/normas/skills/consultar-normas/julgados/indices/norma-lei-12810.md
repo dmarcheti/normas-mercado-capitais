@@ -37,11 +37,11 @@ Norma: [leis/lei-12810.md](../../normas/leis/lei-12810.md) (texto vigente hoje; 
 | decisao-colegiado | 19957.008271/2023-37 | 2025-12-02 | deferido | cvm-col-20251202-d3333 | fichas/colegiado/2025-11.md |
 | decisao-colegiado | 19957.008271/2023-37 | 2025-11-25 | — | cvm-col-20251125-d3333 | fichas/colegiado/2025-11.md |
 | decisao-colegiado | 19957.017962/2024-11 | 2024-12-10 | indeferido | cvm-col-20241210-d3190 | fichas/colegiado/2024-14.md |
-| pas | 19957.005388/2017-11 | 2023-10-31 | absolvicao | cvm-pas-19957-005388-2017-11 | fichas/pas/2023-07.md |
+| pas | 19957.005388/2017-11 | 2023-10-31 | absolvicao | cvm-pas-19957-005388-2017-11 | fichas/pas/2023-13.md |
 | decisao-colegiado | 19957.004010/2021-86 | 2021-11-16 | deferido | cvm-col-20211116-d2375 | fichas/colegiado/2021-19.md |
 | decisao-colegiado | 356/2001; 444/2006; 555/2014; 19957.004508/2019-24 | 2021-09-14 | nao-provido | cvm-col-20210914-d2274 | fichas/colegiado/2021-15.md |
 | decisao-colegiado | 19957.004945/2019-48 | 2021-06-08 | outro | cvm-col-20210608-d1747 | fichas/colegiado/2021-09.md |
-| pas | RJ2015/13791 | 2019-05-21 | parcial | cvm-pas-rj2015-13791 | fichas/pas/2019-04.md |
-| pas | RJ2013/5456 | 2015-10-20 | parcial | cvm-pas-rj2013-5456 | fichas/pas/2015-06.md |
+| pas | RJ2015/13791 | 2019-05-21 | parcial | cvm-pas-rj2015-13791 | fichas/pas/2019-06.md |
+| pas | RJ2013/5456 | 2015-10-20 | parcial | cvm-pas-rj2013-5456 | fichas/pas/2015-11.md |
 
 Fim do subíndice.

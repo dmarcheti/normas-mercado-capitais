@@ -7,136 +7,136 @@ Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho rel
 
 Número normalizado: NUP `99999-999999-AAAA-DD`; processo antigo `rj2015-13791` (sigla em minúsculas, ano, número com 4 dígitos); numeração curta dos PAS `NN-AAAA`. Procure pelo número normalizado ou pela forma do julgado. Dois julgados do mesmo processo (um PAS e o termo de compromisso ou o acórdão do CRSFN dele) aparecem com o mesmo número.
 
-| Processo (normalizado) | Forma no julgado | Tipo | Data | Id | Ficha |
-|---|---|---|---|---|---|
-| 01-2011 | 01/2011 | termo-compromisso | 2017-10-31 | cvm-col-20171031-d9229-2 | fichas/tc/2017-05.md |
-| 01-2011 | 01/2011 | pas | 2018-02-27 | cvm-pas-01-2011 | fichas/pas/2018-02.md |
-| 01-2011 | 1/2011 | acordao-crsfn | 2020-12-14 | crsfn-10372-100447-2018-41 | fichas/crsfn/2020-07.md |
-| 02-2011 | 02/2011 | pas | 2015-12-08 | cvm-pas-02-2011 | fichas/pas/2015-06.md |
-| 03-2011 | 03/2011 | termo-compromisso | 2016-07-12 | cvm-col-20160712-d0299 | fichas/tc/2016-03.md |
-| 03-2011 | 03/2011 | pas | 2019-07-02 | cvm-pas-03-2011 | fichas/pas/2019-06.md |
-| 03-2011 | 03/2011 | acordao-crsfn | 2023-08-09 | crsfn-10372-100285-2019-21 | fichas/crsfn/2023-05.md |
-| 04-2011 | 04/2011 | termo-compromisso | 2015-05-19 | cvm-col-20150519-d9650 | fichas/tc/2015-02.md |
-| ia2011-0002 | IA-2011-2 | acordao-crsfn | 2020-08-18 | crsfn-10372-000380-2016-83 | fichas/crsfn/2020-04.md |
-| rj2011-0280 | RJ2011/0280 | termo-compromisso | 2011-07-26 | cvm-col-20110726-d03 | fichas/tc/2011-03.md |
-| rj2011-0280 | RJ2011/280 | pas | 2011-12-13 | cvm-pas-rj2011-0280 | fichas/pas/2011-03.md |
-| rj2011-0280 | RJ2011/280 | acordao-crsfn | 2015-06-30 | crsfn-13396 | fichas/crsfn/2015-02.md |
-| rj2011-0288 | RJ2011/0288 | termo-compromisso | 2011-09-06 | cvm-col-20110906-d06 | fichas/tc/2011-04.md |
-| rj2011-0940 | RJ2011/940 | pas | 2012-07-10 | cvm-pas-rj2011-0940 | fichas/pas/2012-01.md |
-| rj2011-0940 | RJ2011/940 | acordao-crsfn | 2016-01-21 | crsfn-13528 | fichas/crsfn/2016-01.md |
-| rj2011-1323 | RJ2011/1323 | termo-compromisso | 2011-07-26 | cvm-col-20110726-d02 | fichas/tc/2011-03.md |
-| rj2011-1894 | RJ2011/1894 | termo-compromisso | 2011-09-06 | cvm-col-20110906-d07 | fichas/tc/2011-04.md |
-| rj2011-1894 | RJ2011/1894 | pas | 2012-10-16 | cvm-pas-rj2011-1894 | fichas/pas/2012-02.md |
-| rj2011-1894 | RJ2011/1894 | acordao-crsfn | 2015-12-15 | crsfn-13513 | fichas/crsfn/2015-04.md |
-| rj2011-2039 | RJ2011/2039 | termo-compromisso | 2011-09-06 | cvm-col-20110906-d08 | fichas/tc/2011-04.md |
-| rj2011-2148 | RJ2011/2148 | pas | 2011-11-08 | cvm-pas-rj2011-2148 | fichas/pas/2011-02.md |
-| rj2011-2522 | RJ2011/2522 | termo-compromisso | 2011-11-29 | cvm-col-20111129-d03 | fichas/tc/2011-05.md |
-| rj2011-2595 | RJ2011/2595 | pas | 2014-07-29 | cvm-pas-rj2011-2595 | fichas/pas/2014-03.md |
-| rj2011-2595 | RJ2011/2595 | acordao-crsfn | 2018-06-26 | crsfn-14180 | fichas/crsfn/2018-03.md |
-| rj2011-2595 | RJ2011/2595 | acordao-crsfn | 2019-02-26 | crsfn-edcl-14180 | fichas/crsfn/2019-01.md |
-| rj2011-2789 | RJ2011/2789 | pas | 2012-08-28 | cvm-pas-rj2011-2789 | fichas/pas/2012-02.md |
-| rj2011-2789 | RJ2011/2789 | acordao-crsfn | 2016-04-26 | crsfn-13433 | fichas/crsfn/2016-02.md |
-| rj2011-3262 | RJ2011/3262 | pas | 2011-12-06 | cvm-pas-rj2011-3262 | fichas/pas/2011-03.md |
-| rj2011-3665 | RJ2011/3665 | pas | 2012-04-03 | cvm-pas-rj2011-3665 | fichas/pas/2012-01.md |
-| rj2011-3665 | RJ2011/3665 | acordao-crsfn | 2015-07-28 | crsfn-13415 | fichas/crsfn/2015-03.md |
-| rj2011-3823; rj2011-13492 | RJ2011/3823; RJ2011/13492 | termo-compromisso | 2015-10-20 | cvm-col-20151020-d8043 | fichas/tc/2015-04.md |
-| rj2011-3823 | RJ2011/3823 | pas | 2015-12-09 | cvm-pas-rj2011-3823 | fichas/pas/2015-07.md |
-| rj2011-4517 | RJ2011/4517 | pas | 2013-12-17 | cvm-pas-rj2011-4517 | fichas/pas/2013-07.md |
-| rj2011-4517 | RJ2011/4517 | acordao-crsfn | 2017-03-14 | crsfn-14007 | fichas/crsfn/2017-02.md |
-| rj2011-4690; rj2011-6787 | RJ2011/4690; RJ2011/6787 | termo-compromisso | 2014-12-02 | cvm-col-20141202-d12 | fichas/tc/2014-04.md |
-| rj2011-5211 | RJ2011/5211 | pas | 2015-07-01 | cvm-pas-rj2011-5211 | fichas/pas/2015-03.md |
-| rj2011-5211 | RJ2011/5211 | acordao-crsfn | 2018-09-20 | crsfn-14362 | fichas/crsfn/2018-06.md |
-| rj2011-5748 | RJ2011/5748 | termo-compromisso | 2012-02-23 | cvm-col-20120223-d01 | fichas/tc/2012-01.md |
-| rj2011-5750 | RJ2011/5750 | termo-compromisso | 2011-08-02 | cvm-col-20110802-d03 | fichas/tc/2011-03.md |
-| rj2011-6066 | RJ2011/6066 | termo-compromisso | 2012-12-11 | cvm-col-20121211-d01 | fichas/tc/2012-06.md |
-| rj2011-7288 | RJ2011/7288 | termo-compromisso | 2011-09-06 | cvm-col-20110906-d03 | fichas/tc/2011-03.md |
-| rj2011-7374 | RJ2011/7374 | termo-compromisso | 2012-02-23 | cvm-col-20120223-d02 | fichas/tc/2012-01.md |
-| rj2011-7375 | RJ2011/7375 | termo-compromisso | 2011-12-20 | cvm-col-20111220-d04 | fichas/tc/2011-06.md |
-| rj2011-7377 | RJ2011/7377 | acordao-crsfn | 2015-07-28 | crsfn-13416 | fichas/crsfn/2015-03.md |
-| rj2011-7378 | RJ2011/7378 | termo-compromisso | 2011-12-20 | cvm-col-20111220-d05 | fichas/tc/2011-06.md |
-| rj2011-7379 | RJ2011/7379 | acordao-crsfn | 2016-01-21 | crsfn-13417 | fichas/crsfn/2016-01.md |
-| rj2011-7380 | RJ2011/7380 | termo-compromisso | 2011-12-06 | cvm-col-20111206-d04 | fichas/tc/2011-05.md |
-| rj2011-7381 | RJ2011/7381 | termo-compromisso | 2011-11-29 | cvm-col-20111129-d05 | fichas/tc/2011-05.md |
-| rj2011-7381 | RJ2011/7381 | acordao-crsfn | 2016-06-28 | crsfn-10372-000608-2016-35 | fichas/crsfn/2016-03.md |
-| rj2011-7382 | RJ2011/7382 | termo-compromisso | 2011-11-29 | cvm-col-20111129-d06 | fichas/tc/2011-05.md |
-| rj2011-7382 | RJ2011/7382 | termo-compromisso | 2011-12-06 | cvm-col-20111206-d03 | fichas/tc/2011-05.md |
-| rj2011-7383 | RJ2011/7383 | termo-compromisso | 2012-02-23 | cvm-col-20120223-d08 | fichas/tc/2012-01.md |
-| rj2011-7384 | RJ2011/7384 | termo-compromisso | 2011-09-06 | cvm-col-20110906-d09 | fichas/tc/2011-04.md |
-| rj2011-7384 | RJ2011/7384 | termo-compromisso | 2011-10-19 | cvm-col-20111019-d01 | fichas/tc/2011-04.md |
-| rj2011-7384 | RJ2011/7384 | termo-compromisso | 2011-10-19 | cvm-tc-rj2011-7384-20111018 | fichas/tc/2011-04.md |
-| rj2011-7386 | RJ2011/7386 | termo-compromisso | 2011-12-20 | cvm-col-20111220-d06 | fichas/tc/2011-06.md |
-| rj2011-7388 | RJ2011/7388 | termo-compromisso | 2011-12-06 | cvm-col-20111206-d05 | fichas/tc/2011-05.md |
-| rj2011-7388 | RJ2011/7388 | termo-compromisso | 2012-04-03 | cvm-col-20120403-d02 | fichas/tc/2012-02.md |
-| rj2011-7389 | RJ2011/7389 | termo-compromisso | 2011-10-19 | cvm-col-20111019-d03 | fichas/tc/2011-04.md |
-| rj2011-7389 | RJ2011/7389 | acordao-crsfn | 2015-06-30 | crsfn-13418 | fichas/crsfn/2015-02.md |
-| rj2011-7390 | RJ2011/7390 | acordao-crsfn | 2016-01-21 | crsfn-13425 | fichas/crsfn/2016-01.md |
-| rj2011-7712 | RJ2011/7712 | termo-compromisso | 2011-12-06 | cvm-col-20111206-d02 | fichas/tc/2011-05.md |
-| rj2011-7923 | RJ2011/7923 | termo-compromisso | 2012-12-11 | cvm-col-20121211-d02 | fichas/tc/2012-06.md |
-| rj2011-7923 | RJ2011/7923 | termo-compromisso | 2013-12-10 | cvm-col-20131210-d02 | fichas/tc/2013-05.md |
-| rj2011-7937 | RJ2011/7937 | pas | 2013-12-10 | cvm-pas-rj2011-7937 | fichas/pas/2013-06.md |
-| rj2011-7937 | RJ-2011-7937 | acordao-crsfn | 2017-03-14 | crsfn-14108 | fichas/crsfn/2017-02.md |
-| rj2011-7939 | RJ2011/7939 | pas | 2012-12-06 | cvm-pas-rj2011-7939 | fichas/pas/2012-03.md |
-| rj2011-7939 | RJ2011/7939 | acordao-crsfn | 2015-12-15 | crsfn-13624 | fichas/crsfn/2015-04.md |
-| rj2011-7940 | RJ2011/7940 | termo-compromisso | 2013-03-19 | cvm-col-20130319-d01 | fichas/tc/2013-01.md |
-| rj2011-7941 | RJ2011/7941 | pas | 2013-12-10 | cvm-pas-rj2011-7941 | fichas/pas/2013-06.md |
-| rj2011-7948 | RJ2011/7948 | termo-compromisso | 2012-02-23 | cvm-col-20120223-d03 | fichas/tc/2012-01.md |
-| rj2011-7948 | RJ2011/7948 | termo-compromisso | 2012-07-24 | cvm-col-20120724-d02 | fichas/tc/2012-04.md |
-| rj2011-8224 | RJ2011/8224 | pas | 2013-12-03 | cvm-pas-rj2011-8224 | fichas/pas/2013-06.md |
-| rj2011-8224 | RJ-2011-8224 | acordao-crsfn | 2016-08-23 | crsfn-13931 | fichas/crsfn/2016-03.md |
-| rj2011-8580 | RJ2011/8580 | termo-compromisso | 2012-04-24 | cvm-col-20120424-d03 | fichas/tc/2012-02.md |
-| rj2011-8755 | RJ2011/8755 | termo-compromisso | 2012-07-03 | cvm-col-20120703-d04 | fichas/tc/2012-03.md |
-| rj2011-9304 | RJ2011/9304 | termo-compromisso | 2012-10-02 | cvm-col-20121002-d02 | fichas/tc/2012-05.md |
-| rj2011-9398 | RJ2011/9398 | termo-compromisso | 2011-10-04 | cvm-col-20111004-d02 | fichas/tc/2011-04.md |
-| rj2011-9480 | RJ2011/9480 | termo-compromisso | 2012-02-23 | cvm-col-20120223-d04 | fichas/tc/2012-01.md |
-| rj2011-9481 | RJ2011/9481 | termo-compromisso | 2012-02-23 | cvm-col-20120223-d11 | fichas/tc/2012-02.md |
-| rj2011-9482 | RJ2011/9482 | termo-compromisso | 2012-02-23 | cvm-col-20120223-d05 | fichas/tc/2012-01.md |
-| rj2011-9483 | RJ2011/9483 | termo-compromisso | 2012-01-17 | cvm-col-20120117-d01 | fichas/tc/2012-01.md |
-| rj2011-9483 | RJ2011/9483 | termo-compromisso | 2012-04-03 | cvm-col-20120403-d01 | fichas/tc/2012-02.md |
-| rj2011-9483 | RJ2011/9483 | termo-compromisso | 2013-03-26 | cvm-col-20130326-d01 | fichas/tc/2013-01.md |
-| rj2011-9483 | RJ2011/9483 | acordao-crsfn | 2016-05-31 | crsfn-14397 | fichas/crsfn/2016-02.md |
-| rj2011-9484 | RJ2011/9484 | termo-compromisso | 2012-02-23 | cvm-col-20120223-d06 | fichas/tc/2012-01.md |
-| rj2011-9485 | RJ2011/9485 | termo-compromisso | 2012-02-23 | cvm-col-20120223-d09 | fichas/tc/2012-01.md |
-| rj2011-9487 | RJ2011/9487 | termo-compromisso | 2012-02-23 | cvm-col-20120223-d10 | fichas/tc/2012-01.md |
-| rj2011-9488 | RJ2011/9488 | termo-compromisso | 2012-02-23 | cvm-col-20120223-d07 | fichas/tc/2012-01.md |
-| rj2011-9493 | RJ2011/9493 | termo-compromisso | 2012-02-23 | cvm-col-20120223-d12 | fichas/tc/2012-02.md |
-| rj2011-9493 | RJ2011/9493 | acordao-crsfn | 2016-10-07 | crsfn-13690 | fichas/crsfn/2016-05.md |
-| rj2011-9734 | RJ2011/9734 | termo-compromisso | 2011-10-19 | cvm-col-20111019-d04 | fichas/tc/2011-04.md |
-| rj2011-9734 | RJ2011/9734 | termo-compromisso | 2011-10-19 | cvm-tc-rj2011-9734-20111018 | fichas/tc/2011-04.md |
-| rj2011-9885 | RJ2011/9885 | pas | 2013-12-10 | cvm-pas-rj2011-9885 | fichas/pas/2013-06.md |
-| rj2011-9885 | RJ-2011-9885 | acordao-crsfn | 2016-11-29 | crsfn-14176 | fichas/crsfn/2016-05.md |
-| rj2011-10170 | RJ2011/10170 | termo-compromisso | 2012-08-21 | cvm-col-20120821-d03 | fichas/tc/2012-04.md |
-| rj2011-10405 | RJ2011/10405 | termo-compromisso | 2011-11-08 | cvm-col-20111108-d02 | fichas/tc/2011-05.md |
-| rj2011-10415 | RJ2011/10415 | pas | 2014-12-02 | cvm-pas-rj2011-10415 | fichas/pas/2014-05.md |
-| rj2011-10415 | RJ2011/10415 | acordao-crsfn | 2020-02-11 | crsfn-10372-000322-2016-50 | fichas/crsfn/2020-01.md |
-| rj2011-10752 | RJ2011/10752 | termo-compromisso | 2012-06-19 | cvm-col-20120619-d02 | fichas/tc/2012-03.md |
-| rj2011-10821 | RJ2011/10821 | termo-compromisso | 2012-08-28 | cvm-col-20120828-d22 | fichas/tc/2012-05.md |
-| rj2011-10840 | RJ2011/10840 | termo-compromisso | 2012-06-12 | cvm-col-20120612-d02 | fichas/tc/2012-03.md |
-| rj2011-10878 | RJ2011/10878 | termo-compromisso | 2014-11-11 | cvm-col-20141111-d02 | fichas/tc/2014-03.md |
-| rj2011-11073 | RJ2011/11073 | pas | 2015-12-15 | cvm-pas-rj2011-11073 | fichas/pas/2015-07.md |
-| rj2011-11073 | RJ2011/11073 | acordao-crsfn | 2018-03-21 | crsfn-14486 | fichas/crsfn/2018-03.md |
-| rj2011-12660 | RJ2011/12660 | pas | 2013-11-19 | cvm-pas-rj2011-12660 | fichas/pas/2013-05.md |
-| rj2011-12660 | RJ2011/12660 | acordao-crsfn | 2017-10-24 | crsfn-13937 | fichas/crsfn/2017-07.md |
-| rj2011-13095 | RJ2011/13095 | pas | 2013-12-10 | cvm-pas-rj2011-13095 | fichas/pas/2013-06.md |
-| rj2011-13095 | RJ-2011-13095 | acordao-crsfn | 2016-10-26 | crsfn-13933 | fichas/crsfn/2016-05.md |
-| rj2011-13279 | RJ2011/13279 | termo-compromisso | 2012-07-24 | cvm-col-20120724-d03 | fichas/tc/2012-04.md |
-| rj2011-13492 | RJ2011/13492 | termo-compromisso | 2012-06-19 | cvm-col-20120619-d01 | fichas/tc/2012-03.md |
-| rj2011-13837 | RJ2011/13837 | termo-compromisso | 2012-04-24 | cvm-col-20120424-d01 | fichas/tc/2012-02.md |
-| rj2011-14167 | RJ2011/14167 | termo-compromisso | 2012-07-17 | cvm-col-20120717-d02 | fichas/tc/2012-04.md |
-| rj2011-14269 | RJ2011/14269 | termo-compromisso | 2012-08-21 | cvm-col-20120821-d04 | fichas/tc/2012-04.md |
-| rj2011-14269 | RJ2011/14269 | pas | 2013-03-26 | cvm-pas-rj2011-14269 | fichas/pas/2013-02.md |
-| rj2011-14365 | RJ2011/14365 | pas | 2013-04-02 | cvm-pas-rj2011-14365 | fichas/pas/2013-02.md |
-| rj2011-14365 | RJ-2011/14365 | acordao-crsfn | 2016-08-23 | crsfn-13729 | fichas/crsfn/2016-03.md |
-| rj2011-14514 | RJ2011/14514 | termo-compromisso | 2013-02-05 | cvm-col-20130205-d03 | fichas/tc/2013-01.md |
-| rj2011-14514 | RJ2011/14514 | pas | 2013-04-30 | cvm-pas-rj2011-14514 | fichas/pas/2013-03.md |
-| rj2011-14514 | RJ-2011-14514 | acordao-crsfn | 2016-09-27 | crsfn-13730 | fichas/crsfn/2016-04.md |
-| rj2011-14514 | RJ2011/14514 | acordao-crsfn | 2018-06-26 | crsfn-revisao-13730 | fichas/crsfn/2018-04.md |
-| sp2011-0099 | SP2011/0099 | termo-compromisso | 2012-07-03 | cvm-col-20120703-d07 | fichas/tc/2012-03.md |
-| sp2011-0099 | SP2011/0099 | termo-compromisso | 2013-05-28 | cvm-col-20130528-d03 | fichas/tc/2013-02.md |
-| sp2011-0173 | SP2011/0173 | termo-compromisso | 2015-03-17 | cvm-col-20150317-d9599 | fichas/tc/2015-01.md |
-| sp2011-0233 | SP2011/233 | pas | 2014-03-25 | cvm-pas-sp2011-0233 | fichas/pas/2014-01.md |
-| sp2011-0233 | SP2011/233 | acordao-crsfn | 2017-08-22 | crsfn-14097 | fichas/crsfn/2017-06.md |
-| sp2011-0260 | SP2011/0260 | termo-compromisso | 2014-11-04 | cvm-col-20141104-d05 | fichas/tc/2014-03.md |
-| sp2011-0284 | SP2011/284 | pas | 2015-12-18 | cvm-pas-sp2011-0284 | fichas/pas/2015-07.md |
-| sp2011-0284 | SP-2011-284 | acordao-crsfn | 2017-02-08 | crsfn-14459 | fichas/crsfn/2017-01.md |
+| Processo (normalizado) | Forma no julgado | Tipo | Data | Ementa | Id | Ficha |
+|---|---|---|---|---|---|---|
+| 01-2011 | 01/2011 | termo-compromisso | 2017-10-31 | O Colegiado rejeitou, por unanimidade, acompanhando o relator, proposta de termo de compromisso de controladora e de presidente do conselho… | cvm-col-20171031-d9229-2 | fichas/tc/2017-05.md |
+| 01-2011 | 01/2011 | pas | 2018-02-27 | RECEBIMENTO, EM RAZÃO DOS CARGOS OCUPADOS NA COMPANHIA, DE [pessoa física] – DESCUMPRIMENTO DOS DEVERES DE DILIGÊNCIA E DE LEALDADE… | cvm-pas-01-2011 | fichas/pas/2018-03.md |
+| 01-2011 | 1/2011 | acordao-crsfn | 2020-12-14 | RECURSOS VOLUNTÁRIOS. Prazo prescricional penal aplicável em decorrência da existência de ação penal. Atos de apuração anteriores à… | crsfn-10372-100447-2018-41 | fichas/crsfn/2020-10.md |
+| 02-2011 | 02/2011 | pas | 2015-12-08 | Abuso do poder de controle (art. 116 da Lei nº 6.404/76, c/c o art. 1º, III, da Instrução CVM nº 323/00); demonstrações financeiras… | cvm-pas-02-2011 | fichas/pas/2015-12.md |
+| 03-2011 | 03/2011 | termo-compromisso | 2016-07-12 | O Colegiado rejeitou, por unanimidade, propostas de termo de compromisso de sete proponentes no PAS 03/2011, sobre contingências judiciais… | cvm-col-20160712-d0299 | fichas/tc/2016-03.md |
+| 03-2011 | 03/2011 | pas | 2019-07-02 | Irregularidades na composição e divulgação de Contingências Judiciais verificadas nos balanços da Brasil Telecom S.A. no período de 2005 a… | cvm-pas-03-2011 | fichas/pas/2019-11.md |
+| 03-2011 | 03/2011 | acordao-crsfn | 2023-08-09 | RECURSOS VOLUNTÁRIOS. IRREGULARIDADES NA COMPOSIÇÃO E DIVULGAÇÃO DE CONTINGÊNCIAS JUDICIAIS EM DEMONSTRAÇÕES FINANCEIRAS. FALHA NO TRABALHO… | crsfn-10372-100285-2019-21 | fichas/crsfn/2023-06.md |
+| 04-2011 | 04/2011 | termo-compromisso | 2015-05-19 | O Colegiado aceitou, por unanimidade, quatro propostas de termo de compromisso no PAS 04/2011 (Vicunha Têxtil S.A.), acompanhando o Comitê… | cvm-col-20150519-d9650 | fichas/tc/2015-02.md |
+| ia2011-0002 | IA-2011-2 | acordao-crsfn | 2020-08-18 | RECURSOS VOLUNTÁRIOS. Abuso do poder de controle. Descumprimento do dever de diligência. Não divulgação de fato relevante. Violação de… | crsfn-10372-000380-2016-83 | fichas/crsfn/2020-05.md |
+| rj2011-0280 | RJ2011/0280 | termo-compromisso | 2011-07-26 | O Colegiado rejeitou a proposta de termo de compromisso da BKS Auditores, de R$ 1.000,00, acompanhando o parecer do Comitê, que a… | cvm-col-20110726-d03 | fichas/tc/2011-03.md |
+| rj2011-0280 | RJ2011/280 | pas | 2011-12-13 | BKS AUDITORES Não inclusão de ressalva no Parecer de Auditoria emitido sobre as demonstrações financeiras encerradas em 31.12.2004 da… | cvm-pas-rj2011-0280 | fichas/pas/2011-06.md |
+| rj2011-0280 | RJ2011/280 | acordao-crsfn | 2015-06-30 | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Auditoria independente - Não inclusão de ressalva em parecer emitido sobre… | crsfn-13396 | fichas/crsfn/2015-02.md |
+| rj2011-0288 | RJ2011/0288 | termo-compromisso | 2011-09-06 | O Colegiado aceitou proposta de termo de compromisso da Deloitte e de dois responsáveis técnicos, acusados de descumprir a rotatividade de… | cvm-col-20110906-d06 | fichas/tc/2011-04.md |
+| rj2011-0940 | RJ2011/940 | pas | 2012-07-10 | FIRV administração irregular de carteira de valores mobiliários – oferta pública irregular de valores mobiliários. Inabilitação temporária… | cvm-pas-rj2011-0940 | fichas/pas/2012-02.md |
+| rj2011-0940 | RJ2011/940 | acordao-crsfn | 2016-01-21 | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Administração irregular de carteira – Oferta pública irregular – Irregularidade não… | crsfn-13528 | fichas/crsfn/2016-01.md |
+| rj2011-1323 | RJ2011/1323 | termo-compromisso | 2011-07-26 | O Colegiado aceitou proposta de termo de compromisso de quatro membros do conselho de administração da UNIPAR, por dividendos pagos com… | cvm-col-20110726-d02 | fichas/tc/2011-03.md |
+| rj2011-1894 | RJ2011/1894 | termo-compromisso | 2011-09-06 | O Colegiado rejeitou proposta de termo de compromisso da Solidez CCTVM e de seu diretor, acusados de alterar unilateralmente a taxa de… | cvm-col-20110906-d07 | fichas/tc/2011-04.md |
+| rj2011-1894 | RJ2011/1894 | pas | 2012-10-16 | [pessoa física] alteração, unilateral, da taxa de administração de Clube de Investimento – imputação de infração ao art. 10 da Instrução… | cvm-pas-rj2011-1894 | fichas/pas/2012-04.md |
+| rj2011-1894 | RJ2011/1894 | acordao-crsfn | 2015-12-15 | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Instituição financeira – Corretora de Câmbio, Títulos e Valores… | crsfn-13513 | fichas/crsfn/2015-05.md |
+| rj2011-2039 | RJ2011/2039 | termo-compromisso | 2011-09-06 | O Colegiado aceitou a proposta de termo de compromisso do proponente, diretor de RI da Globex Utilidades S.A., acusado de não divulgar fato… | cvm-col-20110906-d08 | fichas/tc/2011-04.md |
+| rj2011-2148 | RJ2011/2148 | pas | 2011-11-08 | GAZOLA Ausência de informação sobre a redução, acima de 5%, de participação em ações preferenciais de emissão da Gazola S/A Indústria… | cvm-pas-rj2011-2148 | fichas/pas/2011-05.md |
+| rj2011-2522 | RJ2011/2522 | termo-compromisso | 2011-11-29 | O Colegiado considerou inoportuna e inconveniente a aceitação das propostas de termo de compromisso apresentadas por dez proponentes no PAS… | cvm-col-20111129-d03 | fichas/tc/2011-05.md |
+| rj2011-2595 | RJ2011/2595 | pas | 2014-07-29 | Suposto descumprimento dos deveres de diligência e de lealdade – Prática de ato de liberalidade – Abuso dos poderes de voto e de controle… | cvm-pas-rj2011-2595 | fichas/pas/2014-05.md |
+| rj2011-2595 | RJ2011/2595 | acordao-crsfn | 2018-06-26 | RECURSO DE OFÍCIO. CVM. Descumprimento dos deveres de diligência e de lealdade. Abuso dos poderes de voto e de controle. Lei 6.404/1976… | crsfn-14180 | fichas/crsfn/2018-04.md |
+| rj2011-2595 | RJ2011/2595 | acordao-crsfn | 2019-02-26 | EMBARGOS DE DECLARAÇÃO. Inexistência de omissão. Conhecidos e desprovidos. | crsfn-edcl-14180 | fichas/crsfn/2019-01.md |
+| rj2011-2789 | RJ2011/2789 | pas | 2012-08-28 | [pessoa física] suposta utilização de informações relevantes ainda não divulgadas ao mercado de valores mobiliários. Absolvição. | cvm-pas-rj2011-2789 | fichas/pas/2012-03.md |
+| rj2011-2789 | RJ2011/2789 | acordao-crsfn | 2016-04-26 | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Uso de informações privilegiadas – Configurada a prática de insider trading… | crsfn-13433 | fichas/crsfn/2016-03.md |
+| rj2011-3262 | RJ2011/3262 | pas | 2011-12-06 | TECNOSOLO S/A Divulgação intempestiva e incompleta de Comunicados ao Mercado de Valores Mobiliários – não atualização do formulário IAN… | cvm-pas-rj2011-3262 | fichas/pas/2011-06.md |
+| rj2011-3665 | RJ2011/3665 | pas | 2012-04-03 | LUCIANO E [pessoa física] Utilização de informação confidencial ainda não divulgada ao mercado. Multas. | cvm-pas-rj2011-3665 | fichas/pas/2012-02.md |
+| rj2011-3665 | RJ2011/3665 | acordao-crsfn | 2015-07-28 | RECURSO(S) VOLUNTÁRIO(S)– Mercado de valores mobiliários – Utilização de informação relevante ainda não divulgada ao mercado… | crsfn-13415 | fichas/crsfn/2015-03.md |
+| rj2011-3823; rj2011-13492 | RJ2011/3823; RJ2011/13492 | termo-compromisso | 2015-10-20 | O Colegiado rejeitou proposta de Termo de Compromisso de R$ 150.000,00 por venda de BDRs da Laep Investments Ltd. com informação… | cvm-col-20151020-d8043 | fichas/tc/2015-04.md |
+| rj2011-3823 | RJ2011/3823 | pas | 2015-12-09 | Uso de informação privilegiada ainda não divulgada ao mercado. Absolvições e Multas. | cvm-pas-rj2011-3823 | fichas/pas/2015-13.md |
+| rj2011-4517 | RJ2011/4517 | pas | 2013-12-17 | GRP Investimentos Ltda. Inobservância do dever de diligência. Absolvições, advertências e multas. | cvm-pas-rj2011-4517 | fichas/pas/2013-14.md |
+| rj2011-4517 | RJ2011/4517 | acordao-crsfn | 2017-03-14 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Administradora de Fundos. Diretores Responsáveis. Inobservância do dever de diligência. | crsfn-14007 | fichas/crsfn/2017-04.md |
+| rj2011-4690; rj2011-6787 | RJ2011/4690; RJ2011/6787 | termo-compromisso | 2014-12-02 | O Colegiado aceitou, por unanimidade, proposta conjunta de termo de compromisso de dois administradores da Minerva S.A., de R$ 300.000,00… | cvm-col-20141202-d12 | fichas/tc/2014-04.md |
+| rj2011-5211 | RJ2011/5211 | pas | 2015-07-01 | Remuneração de administrador da companhia em desacordo com o disposto em lei. Não exercício das atribuições conferidas por lei ao… | cvm-pas-rj2011-5211 | fichas/pas/2015-07.md |
+| rj2011-5211 | RJ2011/5211 | acordao-crsfn | 2018-09-20 | RECURSOS VOLUNTÁRIOS. Violação aos artigos 152 e 154 da Lei 6.404/76 não comprovada. Recurso de Carmen Vetter Werner parcialmente provido e… | crsfn-14362 | fichas/crsfn/2018-07.md |
+| rj2011-5748 | RJ2011/5748 | termo-compromisso | 2012-02-23 | O Colegiado aceitou proposta de termo de compromisso de uma sociedade estrangeira e de uma pessoa física, que pagarão R$ 60.000,00 à CVM… | cvm-col-20120223-d01 | fichas/tc/2012-01.md |
+| rj2011-5750 | RJ2011/5750 | termo-compromisso | 2011-08-02 | O Colegiado aceitou termo de compromisso de dois diretores da Minerva S.A. por possível infração ao art. 48, IV, da Instrução 400/03… | cvm-col-20110802-d03 | fichas/tc/2011-03.md |
+| rj2011-6066 | RJ2011/6066 | termo-compromisso | 2012-12-11 | O Colegiado aceitou, acompanhando o parecer do Comitê, proposta de termo de compromisso de R$ 500.000,00 (R$ 250.000,00 por proponente) da… | cvm-col-20121211-d01 | fichas/tc/2012-06.md |
+| rj2011-7288 | RJ2011/7288 | termo-compromisso | 2011-09-06 | O Colegiado rejeitou quatro propostas de termo de compromisso de um gerente da Sadia, dois clubes de investimento e um diretor de… | cvm-col-20110906-d03 | fichas/tc/2011-03.md |
+| rj2011-7374 | RJ2011/7374 | termo-compromisso | 2012-02-23 | O Colegiado rejeitou, acompanhando o Comitê, as propostas de termo de compromisso de dois DRIs da Sanesalto Saneamento S.A. (um atual e um… | cvm-col-20120223-d02 | fichas/tc/2012-01.md |
+| rj2011-7375 | RJ2011/7375 | termo-compromisso | 2011-12-20 | O Colegiado aceitou proposta de termo de compromisso do proponente, à época Diretor de Relações com Investidores da 3A Companhia… | cvm-col-20111220-d04 | fichas/tc/2011-06.md |
+| rj2011-7377 | RJ2011/7377 | acordao-crsfn | 2015-07-28 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Diretor de Relações com Investidores - Atraso ou não envio de informações periódicas… | crsfn-13416 | fichas/crsfn/2015-03.md |
+| rj2011-7378 | RJ2011/7378 | termo-compromisso | 2011-12-20 | O Colegiado aceitou a proposta de termo de compromisso de R$ 35.000,00 do proponente, DRI da companhia, acusado de deixar de prestar… | cvm-col-20111220-d05 | fichas/tc/2011-06.md |
+| rj2011-7379 | RJ2011/7379 | acordao-crsfn | 2016-01-21 | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Diretor de Relação com Investidores – Descumprimento do dever de encaminhar… | crsfn-13417 | fichas/crsfn/2016-01.md |
+| rj2011-7380 | RJ2011/7380 | termo-compromisso | 2011-12-06 | O Colegiado aceitou proposta de termo de compromisso do diretor de relações com investidores da Focus Companhia Securitizadora de Créditos… | cvm-col-20111206-d04 | fichas/tc/2011-05.md |
+| rj2011-7381 | RJ2011/7381 | termo-compromisso | 2011-11-29 | O Colegiado rejeitou proposta de termo de compromisso de R$ 5.000,00 do proponente, diretor de relações com investidores da Indústria de… | cvm-col-20111129-d05 | fichas/tc/2011-05.md |
+| rj2011-7381 | RJ2011/7381 | acordao-crsfn | 2016-06-28 | RECURSO VOLUNTÁRIO E DE OFÍCIO - Mercado de valores mobiliários – Diretor de Relações com Investidores (DRI) – Atraso ou não envio de… | crsfn-10372-000608-2016-35 | fichas/crsfn/2016-04.md |
+| rj2011-7382 | RJ2011/7382 | termo-compromisso | 2011-11-29 | O Colegiado rejeitou proposta de termo de compromisso do diretor de relações com investidores da Josapar – Joaquim Oliveira S.A… | cvm-col-20111129-d06 | fichas/tc/2011-05.md |
+| rj2011-7382 | RJ2011/7382 | termo-compromisso | 2011-12-06 | O Colegiado aceitou nova proposta de termo de compromisso de R$ 35.000,00 do proponente, diretor de relações com investidores da Josapar… | cvm-col-20111206-d03 | fichas/tc/2011-05.md |
+| rj2011-7383 | RJ2011/7383 | termo-compromisso | 2012-02-23 | O Colegiado rejeitou a proposta de termo de compromisso do DRI da Lark S.A. Máquinas e Equipamentos, em PAS por atraso em informações… | cvm-col-20120223-d08 | fichas/tc/2012-01.md |
+| rj2011-7384 | RJ2011/7384 | termo-compromisso | 2011-09-06 | O Colegiado rejeitou, acompanhando o parecer do Comitê, a proposta de termo de compromisso do acusado, ex-DRI da Marambaia Energia… | cvm-col-20110906-d09 | fichas/tc/2011-04.md |
+| rj2011-7384 | RJ2011/7384 | termo-compromisso | 2011-10-19 | O Colegiado rejeitou a primeira proposta de Termo de Compromisso do proponente (06.09.11) e aceitou a nova, de pagamento de R$ 50.000,00… | cvm-col-20111019-d01 | fichas/tc/2011-04.md |
+| rj2011-7384 | RJ2011/7384 | termo-compromisso | 2011-10-19 | O Colegiado aprovou termo de compromisso com uma pessoa física, mediante pagamento de R$50.000,00 à CVM, com suspensão do PAS RJ2011/7384 e… | cvm-tc-rj2011-7384-20111018 | fichas/tc/2011-04.md |
+| rj2011-7386 | RJ2011/7386 | termo-compromisso | 2011-12-20 | O Colegiado aceitou proposta de termo de compromisso do diretor de relações com investidores da Refinaria Pet Manguinhos S.A., de R$… | cvm-col-20111220-d06 | fichas/tc/2011-06.md |
+| rj2011-7388 | RJ2011/7388 | termo-compromisso | 2011-12-06 | O Colegiado rejeitou, acompanhando o parecer do Comitê, a proposta de termo de compromisso da proponente, diretora de relações com… | cvm-col-20111206-d05 | fichas/tc/2011-05.md |
+| rj2011-7388 | RJ2011/7388 | termo-compromisso | 2012-04-03 | O Colegiado rejeitou nova proposta de termo de compromisso de R$ 50.000,00 apresentada pela DRI da Taipe Trancoso Empreendimentos S.A., por… | cvm-col-20120403-d02 | fichas/tc/2012-02.md |
+| rj2011-7389 | RJ2011/7389 | termo-compromisso | 2011-10-19 | O Colegiado rejeitou proposta de termo de compromisso do diretor de relações com investidores da TECBLU, que oferecia R$ 5.000,00… | cvm-col-20111019-d03 | fichas/tc/2011-04.md |
+| rj2011-7389 | RJ2011/7389 | acordao-crsfn | 2015-06-30 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Diretor de Relações com Investidores - Não fornecimento, nos prazos regulamentares, de… | crsfn-13418 | fichas/crsfn/2015-03.md |
+| rj2011-7390 | RJ2011/7390 | acordao-crsfn | 2016-01-21 | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Diretor de Relação com Investidores – Atraso ou não envio de… | crsfn-13425 | fichas/crsfn/2016-01.md |
+| rj2011-7712 | RJ2011/7712 | termo-compromisso | 2011-12-06 | O Colegiado aceitou a proposta de termo de compromisso da Mapfre DTVM S.A. e de diretor responsável pela administração de carteira… | cvm-col-20111206-d02 | fichas/tc/2011-05.md |
+| rj2011-7923 | RJ2011/7923 | termo-compromisso | 2012-12-11 | Apreciação de proposta de termo de compromisso. | cvm-col-20121211-d02 | fichas/tc/2012-06.md |
+| rj2011-7923 | RJ2011/7923 | termo-compromisso | 2013-12-10 | O Colegiado considerou aceitáveis as razões apresentadas pela Integral Investments B.V. para a intempestividade na entrega das vias… | cvm-col-20131210-d02 | fichas/tc/2013-05.md |
+| rj2011-7937 | RJ2011/7937 | pas | 2013-12-10 | Botucatu Têxtil Descumprimento por parte dos administradores da companhia do dever de enviar à CVM as informações periódicas no prazo… | cvm-pas-rj2011-7937 | fichas/pas/2013-13.md |
+| rj2011-7937 | RJ-2011-7937 | acordao-crsfn | 2017-03-14 | CRSFN. Comissão de Valores Mobiliários. Recursos Voluntários. Omissão de prestação de informações periódicas; não elaboração das… | crsfn-14108 | fichas/crsfn/2017-04.md |
+| rj2011-7939 | RJ2011/7939 | pas | 2012-12-06 | GLOBAL BRASIL S.A. Não manutenção atualizada do registro de companhia aberta – não envio, ou envio com atraso, de informações periódicas e… | cvm-pas-rj2011-7939 | fichas/pas/2012-06.md |
+| rj2011-7939 | RJ2011/7939 | acordao-crsfn | 2015-12-15 | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Responsabilidade de Diretor de Relações com Investidores - Falta de manutenção… | crsfn-13624 | fichas/crsfn/2015-05.md |
+| rj2011-7940 | RJ2011/7940 | termo-compromisso | 2013-03-19 | Apreciação de proposta de termo de compromisso. | cvm-col-20130319-d01 | fichas/tc/2013-01.md |
+| rj2011-7941 | RJ2011/7941 | pas | 2013-12-10 | Predileto Alimentos Descumprimento por parte dos administradores da companhia do dever de enviar à CVM as informações periódicas e/ou… | cvm-pas-rj2011-7941 | fichas/pas/2013-13.md |
+| rj2011-7948 | RJ2011/7948 | termo-compromisso | 2012-02-23 | O Colegiado rejeitou proposta de termo de compromisso do proponente, à época Diretor de Relações com Investidores da Manufatura de… | cvm-col-20120223-d03 | fichas/tc/2012-01.md |
+| rj2011-7948 | RJ2011/7948 | termo-compromisso | 2012-07-24 | O Colegiado aceitou nova proposta de termo de compromisso apresentada por um diretor da Manufatura de Brinquedos Estrela S.A., de R$… | cvm-col-20120724-d02 | fichas/tc/2012-04.md |
+| rj2011-8224 | RJ2011/8224 | pas | 2013-12-03 | BANCO PANAMERICANO S.A. Não divulgação de fato relevante. Multa. | cvm-pas-rj2011-8224 | fichas/pas/2013-12.md |
+| rj2011-8224 | RJ-2011-8224 | acordao-crsfn | 2016-08-23 | Mercado de valores mobiliários. Não divulgação de fato relevante. O Recorrente, ao conhecer o fato relevante e não o divulgar quando da… | crsfn-13931 | fichas/crsfn/2016-05.md |
+| rj2011-8580 | RJ2011/8580 | termo-compromisso | 2012-04-24 | O Colegiado aceitou proposta de termo de compromisso do DRI da LLX Logística S.A., acompanhando o parecer do Comitê, pelo pagamento de R$… | cvm-col-20120424-d03 | fichas/tc/2012-02.md |
+| rj2011-8755 | RJ2011/8755 | termo-compromisso | 2012-07-03 | O Colegiado aceitou três propostas de termo de compromisso, de R$ 100.000,00 cada, acompanhando o Comitê. Os proponentes foram acusados de… | cvm-col-20120703-d04 | fichas/tc/2012-03.md |
+| rj2011-9304 | RJ2011/9304 | termo-compromisso | 2012-10-02 | O Colegiado aceitou proposta de termo de compromisso de um acusado por uso de informação privilegiada em ações da Lupatech S.A… | cvm-col-20121002-d02 | fichas/tc/2012-05.md |
+| rj2011-9398 | RJ2011/9398 | termo-compromisso | 2011-10-04 | O Colegiado rejeitou proposta de Termo de Compromisso apresentada por cinco acusados no PAS RJ2010/11352, acompanhando o parecer do Comitê… | cvm-col-20111004-d02 | fichas/tc/2011-04.md |
+| rj2011-9480 | RJ2011/9480 | termo-compromisso | 2012-02-23 | O Colegiado aceitou a proposta de termo de compromisso de R$ 35.000,00 do proponente, DRI da companhia, acusado de deixar de prestar… | cvm-col-20120223-d04 | fichas/tc/2012-01.md |
+| rj2011-9481 | RJ2011/9481 | termo-compromisso | 2012-02-23 | O Colegiado aceitou proposta de termo de compromisso do DRI da Centennial Asset Participações Minas-Rio S.A., acompanhando o Comitê, com… | cvm-col-20120223-d11 | fichas/tc/2012-02.md |
+| rj2011-9482 | RJ2011/9482 | termo-compromisso | 2012-02-23 | O Colegiado aceitou proposta de termo de compromisso de um diretor de relações com investidores da CEDAE, que pagará R$ 35.000,00 à CVM… | cvm-col-20120223-d05 | fichas/tc/2012-01.md |
+| rj2011-9483 | RJ2011/9483 | termo-compromisso | 2012-01-17 | O Colegiado retirou de pauta a proposta de um diretor de relações com investidores da CAGECE e aceitou a de outro, que se comprometeu a… | cvm-col-20120117-d01 | fichas/tc/2012-01.md |
+| rj2011-9483 | RJ2011/9483 | termo-compromisso | 2012-04-03 | O Colegiado rejeitou a proposta de termo de compromisso de um diretor de relações com investidores da CAGECE, de R$ 35.000,00 e atualização… | cvm-col-20120403-d01 | fichas/tc/2012-02.md |
+| rj2011-9483 | RJ2011/9483 | termo-compromisso | 2013-03-26 | O proponente, diretor de RI da CAGECE, apresentou nova proposta de termo de compromisso, de R$ 35.000,00, por atraso em informações… | cvm-col-20130326-d01 | fichas/tc/2013-01.md |
+| rj2011-9483 | RJ2011/9483 | acordao-crsfn | 2016-05-31 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Descumprimento do dever de enviar informações periódicas à autoridade supervisora (ata… | crsfn-14397 | fichas/crsfn/2016-04.md |
+| rj2011-9484 | RJ2011/9484 | termo-compromisso | 2012-02-23 | O Colegiado aceitou a proposta de termo de compromisso do proponente, diretor de relações com investidores da Eletrosom S.A., acusado de… | cvm-col-20120223-d06 | fichas/tc/2012-01.md |
+| rj2011-9485 | RJ2011/9485 | termo-compromisso | 2012-02-23 | O Colegiado rejeitou as propostas de termo de compromisso de R$ 3.000,00 e R$ 5.000,00 apresentadas por dois administradores (ex-DRI e DRI)… | cvm-col-20120223-d09 | fichas/tc/2012-01.md |
+| rj2011-9487 | RJ2011/9487 | termo-compromisso | 2012-02-23 | O Colegiado aceitou a proposta de termo de compromisso da proponente, diretora de relações com investidores da Multiner S.A., acusada de… | cvm-col-20120223-d10 | fichas/tc/2012-01.md |
+| rj2011-9488 | RJ2011/9488 | termo-compromisso | 2012-02-23 | O Colegiado rejeitou proposta de termo de compromisso do DRI da Pothencia S.A. Reflorestadora, acompanhando o Comitê. Fundamento: óbice… | cvm-col-20120223-d07 | fichas/tc/2012-01.md |
+| rj2011-9493 | RJ2011/9493 | termo-compromisso | 2012-02-23 | O Colegiado rejeitou a proposta de termo de compromisso do DRI da Companhia Energética de Brasília – CEB, em PAS por atraso em informações… | cvm-col-20120223-d12 | fichas/tc/2012-02.md |
+| rj2011-9493 | RJ2011/9493 | acordao-crsfn | 2016-10-07 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Atraso na entrega, à autoridade supervisora, de formulário de informações trimestrais… | crsfn-13690 | fichas/crsfn/2016-09.md |
+| rj2011-9734 | RJ2011/9734 | termo-compromisso | 2011-10-19 | O Colegiado aceitou proposta de termo de compromisso de três proponentes sobre declarações à imprensa durante análise de registro de… | cvm-col-20111019-d04 | fichas/tc/2011-04.md |
+| rj2011-9734 | RJ2011/9734 | termo-compromisso | 2011-10-19 | O Colegiado aprovou proposta de termo de compromisso de três compromitentes no PA RJ2011/9734, com pagamento de R$ 100.000,00 cada (R$… | cvm-tc-rj2011-9734-20111018 | fichas/tc/2011-04.md |
+| rj2011-9885 | RJ2011/9885 | pas | 2013-12-10 | WIEST Descumprimento por parte dos administradores da companhia do dever de enviar à CVM as informações periódicas no prazo legal. – não… | cvm-pas-rj2011-9885 | fichas/pas/2013-13.md |
+| rj2011-9885 | RJ-2011-9885 | acordao-crsfn | 2016-11-29 | Recurso de ofício. Deixar de enviar, no prazo regulamentar, documentos e informações periódicas e obrigatórias à CVM - Recurso provido… | crsfn-14176 | fichas/crsfn/2016-09.md |
+| rj2011-10170 | RJ2011/10170 | termo-compromisso | 2012-08-21 | O Colegiado aceitou proposta conjunta de termo de compromisso de dois diretores da JB Duarte, de R$ 400.000,00, acompanhando o Comitê… | cvm-col-20120821-d03 | fichas/tc/2012-04.md |
+| rj2011-10405 | RJ2011/10405 | termo-compromisso | 2011-11-08 | O Colegiado rejeitou proposta de termo de compromisso da gestora e de seu diretor responsável por aquisição de cotas de fundo vedadas pelo… | cvm-col-20111108-d02 | fichas/tc/2011-05.md |
+| rj2011-10415 | RJ2011/10415 | pas | 2014-12-02 | Descumprimento de várias das atribuições inerentes aos administradores de Fundos –Inobservância dos deveres regulamentares do custodiante… | cvm-pas-rj2011-10415 | fichas/pas/2014-10.md |
+| rj2011-10415 | RJ2011/10415 | acordao-crsfn | 2020-02-11 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. FIDCS. Subcontratação de atividades pelo Custodiante. Possibilidade. Ausência de divulgação de… | crsfn-10372-000322-2016-50 | fichas/crsfn/2020-01.md |
+| rj2011-10752 | RJ2011/10752 | termo-compromisso | 2012-06-19 | O Colegiado aceitou, acompanhando o parecer do Comitê, propostas de termo de compromisso de seis pessoas ligadas a Invitel, Argolis, BTP e… | cvm-col-20120619-d02 | fichas/tc/2012-03.md |
+| rj2011-10821 | RJ2011/10821 | termo-compromisso | 2012-08-28 | O Colegiado aceitou proposta de termo de compromisso de R$ 20.000,00 apresentada pela proponente, acompanhando o relator, que considerou as… | cvm-col-20120828-d22 | fichas/tc/2012-05.md |
+| rj2011-10840 | RJ2011/10840 | termo-compromisso | 2012-06-12 | O Colegiado aceitou, acompanhando o parecer do Comitê, propostas de termo de compromisso de dois diretores de relações com investidores da… | cvm-col-20120612-d02 | fichas/tc/2012-03.md |
+| rj2011-10878 | RJ2011/10878 | termo-compromisso | 2014-11-11 | O Colegiado aceitou, por unanimidade, proposta de termo de compromisso da Socopa, de seu diretor responsável e do Banco Paulista… | cvm-col-20141111-d02 | fichas/tc/2014-03.md |
+| rj2011-11073 | RJ2011/11073 | pas | 2015-12-15 | Não divulgação, no Formulário de Referência, de informações relevantes acerca de contratos de mútuo. Advertência e Absolvições. Operação… | cvm-pas-rj2011-11073 | fichas/pas/2015-14.md |
+| rj2011-11073 | RJ2011/11073 | acordao-crsfn | 2018-03-21 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Não divulgação de informações relevantes. Operação fraudulenta. Abuso de poder de controle. Não… | crsfn-14486 | fichas/crsfn/2018-03.md |
+| rj2011-12660 | RJ2011/12660 | pas | 2013-11-19 | Cruzeiro do Sul Imputação de realização de operação fraudulenta no mercado de valores mobiliários. Absolvições ‐ Imputação de cobrança… | cvm-pas-rj2011-12660 | fichas/pas/2013-10.md |
+| rj2011-12660 | RJ2011/12660 | acordao-crsfn | 2017-10-24 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Descumprimento de Regulamento do Fundo e declaração em relatório trimestral que as taxas eram de mercado… | crsfn-13937 | fichas/crsfn/2017-13.md |
+| rj2011-13095 | RJ2011/13095 | pas | 2013-12-10 | Ferragens Aparelhos Elétricos Atraso no envio à CVM de informações periódicas obrigatórias. Multa. | cvm-pas-rj2011-13095 | fichas/pas/2013-13.md |
+| rj2011-13095 | RJ-2011-13095 | acordao-crsfn | 2016-10-26 | Recurso voluntário. Companhia Aberta. Diretor de Relações com Investidores. Envio de informações periódicas obrigatórias à CVM despeitando… | crsfn-13933 | fichas/crsfn/2016-09.md |
+| rj2011-13279 | RJ2011/13279 | termo-compromisso | 2012-07-24 | O Colegiado aceitou proposta conjunta de termo de compromisso de dois administradores da Localiza, de R$ 350.000,00 no total, acompanhando… | cvm-col-20120724-d03 | fichas/tc/2012-04.md |
+| rj2011-13492 | RJ2011/13492 | termo-compromisso | 2012-06-19 | O Colegiado considerou inoportuna e inconveniente a aceitação das nove propostas de termo de compromisso no PAS RJ2011/3823, apesar da… | cvm-col-20120619-d01 | fichas/tc/2012-03.md |
+| rj2011-13837 | RJ2011/13837 | termo-compromisso | 2012-04-24 | O Colegiado aceitou, acompanhando o parecer do Comitê, proposta conjunta de termo de compromisso de dois conselheiros da Brasil Telecom… | cvm-col-20120424-d01 | fichas/tc/2012-02.md |
+| rj2011-14167 | RJ2011/14167 | termo-compromisso | 2012-07-17 | O Colegiado aceitou proposta de termo de compromisso de um diretor financeiro e de relações com investidores da Minerva S.A. (PAS… | cvm-col-20120717-d02 | fichas/tc/2012-04.md |
+| rj2011-14269 | RJ2011/14269 | termo-compromisso | 2012-08-21 | O Colegiado rejeitou proposta conjunta de termo de compromisso de cinco administradores da Sergipe Industrial S.A. (SISA), de R$… | cvm-col-20120821-d04 | fichas/tc/2012-04.md |
+| rj2011-14269 | RJ2011/14269 | pas | 2013-03-26 | SISA Não divulgação de fato relevante – omissão, nas notas explicativas às demonstrações financeiras da companhia, de informações… | cvm-pas-rj2011-14269 | fichas/pas/2013-03.md |
+| rj2011-14365 | RJ2011/14365 | pas | 2013-04-02 | [pessoa física] Inobservância das normas profissionais emanadas do [pessoa física] de Contabilidade – CFC relativas ao exercício da… | cvm-pas-rj2011-14365 | fichas/pas/2013-04.md |
+| rj2011-14365 | RJ-2011/14365 | acordao-crsfn | 2016-08-23 | RECURSO VOLUNTÁRIO Auditor externo. Inobservância das normas profissionais emanadas do Conselho Federal de Contabilidade (CFC) relativas ao… | crsfn-13729 | fichas/crsfn/2016-05.md |
+| rj2011-14514 | RJ2011/14514 | termo-compromisso | 2013-02-05 | O Colegiado rejeitou proposta de termo de compromisso de diretor de relações com investidores da Electro Aço Altona S.A., acusado de não… | cvm-col-20130205-d03 | fichas/tc/2013-01.md |
+| rj2011-14514 | RJ2011/14514 | pas | 2013-04-30 | ELECTRO AçO ALTONA não divulgação de fato relevante. Multa. | cvm-pas-rj2011-14514 | fichas/pas/2013-05.md |
+| rj2011-14514 | RJ-2011-14514 | acordao-crsfn | 2016-09-27 | RECURSO(S) VOLUNTÁRIO(S). Não divulgação de fato relevante - Multa Pecuniária - Não conhecimento do recurso voluntário - Conservação da… | crsfn-13730 | fichas/crsfn/2016-07.md |
+| rj2011-14514 | RJ2011/14514 | acordao-crsfn | 2018-06-26 | PEDIDO DE REVISÃO EX-OFFICIO apresentado pela Comissão de Valores Mobiliários. Revisão da Decisão do CRSFN que considerou intempestivo o… | crsfn-revisao-13730 | fichas/crsfn/2018-05.md |
+| sp2011-0099 | SP2011/0099 | termo-compromisso | 2012-07-03 | O Colegiado rejeitou proposta conjunta de termo de compromisso de R$ 45.000,00 de uma corretora e de seu diretor responsável pelas… | cvm-col-20120703-d07 | fichas/tc/2012-03.md |
+| sp2011-0099 | SP2011/0099 | termo-compromisso | 2013-05-28 | O Colegiado aceitou nova proposta de termo de compromisso da TOV Corretora de Câmbio, Títulos e Valores Mobiliários Ltda. e de seu diretor… | cvm-col-20130528-d03 | fichas/tc/2013-02.md |
+| sp2011-0173 | SP2011/0173 | termo-compromisso | 2015-03-17 | O Colegiado aceitou proposta de termo de compromisso conjunta de 17 proponentes, administradores e ex-administradores da Allis… | cvm-col-20150317-d9599 | fichas/tc/2015-01.md |
+| sp2011-0233 | SP2011/233 | pas | 2014-03-25 | Operação fraudulenta – pagamento em cheque sem anular a cláusula “à sua ordem” – pagamento a terceiros – mudança de endereço na ficha… | cvm-pas-sp2011-0233 | fichas/pas/2014-02.md |
+| sp2011-0233 | SP2011/233 | acordao-crsfn | 2017-08-22 | RECURSOS VOLUNTÁRIOS. Operação fraudulenta no mercado de valores mobiliários. Infração aos itens I e II, letra "c" da ICVM nº 08/79… | crsfn-14097 | fichas/crsfn/2017-11.md |
+| sp2011-0260 | SP2011/0260 | termo-compromisso | 2014-11-04 | O Colegiado aceitou, por unanimidade, a proposta de termo de compromisso da corretora Um Investimentos e de um diretor responsável… | cvm-col-20141104-d05 | fichas/tc/2014-03.md |
+| sp2011-0284 | SP2011/284 | pas | 2015-12-18 | Exercício irregular das atividades de agente autônomo de investimento e de administração de carteira de valores mobiliários. Absolvições… | cvm-pas-sp2011-0284 | fichas/pas/2015-14.md |
+| sp2011-0284 | SP-2011-284 | acordao-crsfn | 2017-02-08 | Recursos Voluntários e de Ofício. Exercício irregular da atividade de agente autônomo sem prévia autorização pela CVM e sem contrato de… | crsfn-14459 | fichas/crsfn/2017-02.md |
 
 Fim do subíndice.

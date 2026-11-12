@@ -43,562 +43,562 @@ Este subíndice tem 604 linhas e uma leitura única é cortada em silêncio pert
 | 1997 | 595 |
 | 1996 | 597 |
 
-| Tipo | Processo | Data | Resultado | Id | Ficha |
-|---|---|---|---|---|---|
-| pas | 19957.003286/2024-90 | 2026-10-22 | — | cvm-pas-19957-003286-2024-90 | fichas/pas/2026-03.md |
-| pas | 19957.000728/2022-84 | 2026-10-21 | — | cvm-pas-19957-000728-2022-84 | fichas/pas/2026-03.md |
-| pas | 19957.007976/2020-94 | 2026-09-08 | parcial | cvm-pas-19957-007976-2020-94 | fichas/pas/2026-03.md |
-| pas | 19957.005363/2021-01 | 2026-09-08 | absolvicao | cvm-pas-19957-005363-2021-01 | fichas/pas/2026-02.md |
-| acordao-crsfn | 19957.013886/2022-02 | 2026-08-11 | parcial | crsfn-19957-013886-2022-02 | fichas/crsfn/2026-02.md |
-| acordao-crsfn | 19957.002026/2019-30 | 2026-08-11 | condenacao | crsfn-10372-000035-2024-50 | fichas/crsfn/2026-02.md |
-| acordao-crsfn | 14/2010 | 2026-07-15 | condenacao | crsfn-10372-100071-2021-70-3 | fichas/crsfn/2026-02.md |
-| termo-compromisso | 19957.021536/2024-73 | 2026-06-23 | outro | cvm-col-20260623-d3353 | fichas/tc/2026-02.md |
-| termo-compromisso | 19957.008954/2024-75 | 2026-06-23 | outro | cvm-col-20260623-d3203 | fichas/tc/2026-01.md |
-| acordao-crsfn | 19957.002306/2023-24 | 2026-06-09 | parcial | crsfn-19957-002306-2023-24 | fichas/crsfn/2026-02.md |
-| pas | 19957.001524/2020-07 | 2026-05-27 | — | cvm-pas-19957-001524-2020-07 | fichas/pas/2026-01.md |
-| termo-compromisso | 19957.011239/2025-09 | 2026-05-19 | rejeitado | cvm-col-20260519-d3531 | fichas/tc/2026-01.md |
-| termo-compromisso | 19957.007592/2025-86 | 2026-05-12 | aceito | cvm-col-20260512-d3528 | fichas/tc/2026-01.md |
-| acordao-crsfn | 19957.000198/2020-11; 21/2013 | 2026-04-07 | parcial | crsfn-10372-100091-2022-21 | fichas/crsfn/2026-01.md |
-| termo-compromisso | 19957.007976/2020-94 | 2025-12-02 | rejeitado | cvm-col-20251202-d2655 | fichas/tc/2025-05.md |
-| pas | 19957.013886/2022-02 | 2025-11-25 | parcial | cvm-pas-19957-013886-2022-02 | fichas/pas/2025-04.md |
-| termo-compromisso | 19957.018693/2024-00 | 2025-11-11 | aceito | cvm-col-20251111-d3417 | fichas/tc/2025-05.md |
-| decisao-colegiado | 19957.003486/2025-23 | 2025-11-11 | conhecimento | cvm-col-20251111-d3402 | fichas/colegiado/2025-11.md |
-| decisao-colegiado | 19957.002950/2025-64 | 2025-11-11 | conhecimento | cvm-col-20251111-d3384 | fichas/colegiado/2025-11.md |
-| acordao-crsfn | 19957.009395/2021-78 | 2025-11-02 | condenacao | crsfn-19957-009395-2021-78 | fichas/crsfn/2025-05.md |
-| acordao-crsfn | 19957.007122/2023-51 | 2025-10-15 | condenacao | crsfn-10372-000112-2024-71 | fichas/crsfn/2025-05.md |
-| pas | 19957.001450/2022-62 | 2025-10-14 | condenacao | cvm-pas-19957-001450-2022-62 | fichas/pas/2025-04.md |
-| termo-compromisso | 19957.003051/2024-06 | 2025-10-14 | aceito | cvm-col-20251014-d3380 | fichas/tc/2025-04.md |
-| termo-compromisso | 19957.005754/2024-61; 19957.015425/2024-28 | 2025-09-23 | outro | cvm-col-20250923-d3368-3369 | fichas/tc/2025-04.md |
-| acordao-crsfn | 19957.012197/2023-53 | 2025-09-16 | condenacao | crsfn-19957-012197-2023-53 | fichas/crsfn/2025-05.md |
-| acordao-crsfn | 19957.007224/2023-76 | 2025-09-16 | parcial | crsfn-19957-007224-2023-76 | fichas/crsfn/2025-04.md |
-| acordao-crsfn | 06/2007 | 2025-09-16 | outro | crsfn-10372-100181-2020-51-2 | fichas/crsfn/2025-04.md |
-| pas | 19957.008087/2021-25 | 2025-08-19 | condenacao | cvm-pas-19957-008087-2021-25 | fichas/pas/2025-03.md |
-| pas | 19957.001300/2023-30 | 2025-08-12 | condenacao | cvm-pas-19957-001300-2023-30 | fichas/pas/2025-03.md |
-| acordao-crsfn | 19957.008119/2023-54 | 2025-08-12 | condenacao | crsfn-10372-000010-2025-37 | fichas/crsfn/2025-04.md |
-| pas | 19957.004388/2023-41 | 2025-08-05 | parcial | cvm-pas-19957-004388-2023-41 | fichas/pas/2025-03.md |
-| termo-compromisso | 19957.006911/2021-11 | 2025-07-22 | rejeitado | cvm-col-20250722-d3232 | fichas/tc/2025-03.md |
-| acordao-crsfn | 19957.011657/2019-40 | 2025-07-16 | condenacao | crsfn-10372-000152-2024-13 | fichas/crsfn/2025-04.md |
-| termo-compromisso | 19957.002600/2020-93 | 2025-06-03 | rejeitado | cvm-col-20250603-d3224 | fichas/tc/2025-03.md |
-| pas | 19957.018237/2024-51 | 2025-05-27 | condenacao | cvm-pas-19957-018237-2024-51 | fichas/pas/2025-03.md |
-| termo-compromisso | 19957.007976/2020-94 | 2025-05-27 | — | cvm-col-20250527-d2655 | fichas/tc/2025-03.md |
-| acordao-crsfn | 19957.014206/2022-60 | 2025-05-13 | condenacao | crsfn-10372-000138-2024-10 | fichas/crsfn/2025-02.md |
-| pas | 19957.009395/2021-78 | 2025-04-15 | parcial | cvm-pas-19957-009395-2021-78 | fichas/pas/2025-02.md |
-| pas | 19957.001483/2020-41 | 2025-03-25 | condenacao | cvm-pas-19957-001483-2020-41 | fichas/pas/2025-01.md |
-| pas | 19957.008597/2023-64 | 2025-03-11 | condenacao | cvm-pas-19957-008597-2023-64 | fichas/pas/2025-01.md |
-| acordao-crsfn | 06/2007 | 2025-02-12 | parcial | crsfn-10372-100181-2020-51 | fichas/crsfn/2025-01.md |
-| acordao-crsfn | 19957.007862/2018-20 | 2025-02-11 | parcial | crsfn-10372-100110-2023-09 | fichas/crsfn/2025-01.md |
-| acordao-crsfn | 19957.003680/2021-85 | 2025-02-11 | absolvicao | crsfn-10372-000066-2024-19 | fichas/crsfn/2025-01.md |
-| termo-compromisso | 19957.008087/2021-25 | 2025-01-28 | rejeitado | cvm-col-20250128-d3212 | fichas/tc/2025-01.md |
-| pas | 19957.003611/2020-91 | 2024-12-19 | parcial | cvm-pas-19957-003611-2020-91 | fichas/pas/2024-12.md |
-| termo-compromisso | 19957.003270/2023-04 | 2024-12-17 | aceito | cvm-col-20241217-d2926 | fichas/tc/2024-07.md |
-| pas | 19957.007224/2023-76 | 2024-12-10 | condenacao | cvm-pas-19957-007224-2023-76 | fichas/pas/2024-11.md |
-| pas | 19957.002595/2017-13 | 2024-12-10 | parcial | cvm-pas-19957-002595-2017-13 | fichas/pas/2024-11.md |
-| pas | 19957.000824/2022-22 | 2024-12-10 | condenacao | cvm-pas-19957-000824-2022-22 | fichas/pas/2024-10.md |
-| acordao-crsfn | 19957.008143/2018-26 | 2024-12-04 | condenacao | crsfn-10372-000072-2024-68 | fichas/crsfn/2024-07.md |
-| pas | 19957.007626/2019-94 | 2024-12-03 | parcial | cvm-pas-19957-007626-2019-94 | fichas/pas/2024-10.md |
-| pas | 19957.002306/2023-24 | 2024-11-26 | condenacao | cvm-pas-19957-002306-2023-24 | fichas/pas/2024-10.md |
-| acordao-crsfn | 19957.005801/2019-17 | 2024-11-12 | parcial | crsfn-10372-100151-2023-97 | fichas/crsfn/2024-06.md |
-| acordao-crsfn | 19957.005174/2019-14 | 2024-11-12 | outro | crsfn-10372-100089-2023-33-2 | fichas/crsfn/2024-06.md |
-| pas | 19957.012197/2023-53 | 2024-11-05 | parcial | cvm-pas-19957-012197-2023-53 | fichas/pas/2024-10.md |
-| pas | 19957.001865/2024-06 | 2024-11-05 | condenacao | cvm-pas-19957-001865-2024-06 | fichas/pas/2024-09.md |
-| termo-compromisso | 19957.001909/2020-66 | 2024-11-05 | rejeitado | cvm-col-20241105-d3167 | fichas/tc/2024-06.md |
-| decisao-colegiado | 19957.008361/2023-28 | 2024-10-29 | conhecimento | cvm-col-20241029-d3162 | fichas/colegiado/2024-12.md |
-| pas | 19957.008119/2023-54 | 2024-10-22 | parcial | cvm-pas-19957-008119-2023-54 | fichas/pas/2024-09.md |
-| pas | 19957.006858/2019-25 | 2024-10-15 | parcial | cvm-pas-19957-006858-2019-25 | fichas/pas/2024-08.md |
-| pas | 19957.001888/2024-11 | 2024-10-08 | condenacao | cvm-pas-19957-001888-2024-11 | fichas/pas/2024-08.md |
-| termo-compromisso | 19957.007224/2023-76 | 2024-09-17 | rejeitado | cvm-col-20240917-d3136 | fichas/tc/2024-05.md |
-| pas | 19957.007963/2020-15 | 2024-09-10 | condenacao | cvm-pas-19957-007963-2020-15 | fichas/pas/2024-07.md |
-| termo-compromisso | 19957.004388/2023-41 | 2024-09-03 | rejeitado | cvm-col-20240903-d3128 | fichas/tc/2024-05.md |
-| termo-compromisso | 19957.007976/2020-94 | 2024-09-03 | outro | cvm-col-20240903-d2655 | fichas/tc/2024-05.md |
-| pas | 19957.011657/2019-40 | 2024-08-27 | condenacao | cvm-pas-19957-011657-2019-40-2 | fichas/pas/2024-07.md |
-| termo-compromisso | 19957.003270/2023-04 | 2024-08-27 | rejeitado | cvm-col-20240827-d2926 | fichas/tc/2024-05.md |
-| termo-compromisso | 19957.007976/2020-94 | 2024-08-27 | — | cvm-col-20240827-d2655 | fichas/tc/2024-04.md |
-| pas | 19957.003418/2023-01 | 2024-08-20 | parcial | cvm-pas-19957-003418-2023-01 | fichas/pas/2024-06.md |
-| acordao-crsfn | 19957.001921/2020-71 | 2024-08-13 | condenacao | crsfn-10372-100038-2023-10 | fichas/crsfn/2024-04.md |
-| termo-compromisso | 19957.015007/2023-50 | 2024-07-30 | rejeitado | cvm-col-20240730-d3104 | fichas/tc/2024-04.md |
-| acordao-crsfn | 19957.005174/2019-14 | 2024-07-16 | parcial | crsfn-10372-100089-2023-33 | fichas/crsfn/2024-04.md |
-| pas | 19957.014206/2022-60 | 2024-07-04 | condenacao | cvm-pas-19957-014206-2022-60 | fichas/pas/2024-05.md |
-| pas | 19957.004791/2020-28 | 2024-06-18 | parcial | cvm-pas-19957-004791-2020-28 | fichas/pas/2024-04.md |
-| termo-compromisso | 19957.003919/2023-89 | 2024-06-13 | aceito | cvm-col-20240613-d3078 | fichas/tc/2024-03.md |
-| pas | 19957.011029/2019-64 | 2024-05-21 | — | cvm-pas-19957-011029-2019-64 | fichas/pas/2024-03.md |
-| acordao-crsfn | 19957.010399/2018-01; RJ2018/7696 | 2024-05-08 | condenacao | crsfn-10372-100166-2021-93 | fichas/crsfn/2024-03.md |
-| acordao-crsfn | RJ2013/8880 | 2024-05-08 | condenacao | crsfn-10372-100059-2020-84 | fichas/crsfn/2024-03.md |
-| termo-compromisso | 19957.008316/2023-73 | 2024-05-07 | aceito | cvm-col-20240507-d3058 | fichas/tc/2024-03.md |
-| termo-compromisso | 19957.008434/2019-03 | 2024-05-07 | aceito | cvm-col-20240507-d2200 | fichas/tc/2024-02.md |
-| acordao-crsfn | 19957.005025/2021-61 | 2024-05-07 | condenacao | crsfn-10372-100097-2023-80 | fichas/crsfn/2024-02.md |
-| pas | 19957.007122/2023-51 | 2024-04-30 | condenacao | cvm-pas-19957-007122-2023-51 | fichas/pas/2024-02.md |
-| termo-compromisso | 19957.001693/2023-81 | 2024-04-30 | aceito | cvm-col-20240430-d3053 | fichas/tc/2024-02.md |
-| termo-compromisso | 19957.007369/2023-77 | 2024-04-16 | rejeitado | cvm-col-20240416-d3049 | fichas/tc/2024-02.md |
-| termo-compromisso | 19957.007122/2023-51 | 2024-04-02 | rejeitado | cvm-col-20240402-d2994 | fichas/tc/2024-02.md |
-| termo-compromisso | 19957.008119/2023-54 | 2024-03-12 | rejeitado | cvm-col-20240312-d3031 | fichas/tc/2024-01.md |
-| termo-compromisso | 19957.003270/2023-04 | 2024-03-12 | rejeitado | cvm-col-20240312-d2926 | fichas/tc/2024-01.md |
-| acordao-crsfn | 02/2014; 19957.010256/2019-72 | 2024-03-12 | outro | crsfn-10372-100174-2020-59-2 | fichas/crsfn/2024-02.md |
-| acordao-crsfn | RJ2019/6757 | 2024-03-08 | parcial | crsfn-10372-100083-2021-02 | fichas/crsfn/2024-01.md |
-| pas | 19957.006657/2020-61 | 2024-02-27 | absolvicao | cvm-pas-19957-006657-2020-61 | fichas/pas/2024-01.md |
-| acordao-crsfn | SP2014/465 | 2024-02-07 | condenacao | crsfn-10372-100310-2019-77 | fichas/crsfn/2024-01.md |
-| termo-compromisso | 19957.002011/2023-58 | 2024-01-30 | aceito | cvm-col-20240130-d3006 | fichas/tc/2024-01.md |
-| pas | 19957.008143/2018-26 | 2023-12-20 | parcial | cvm-pas-19957-008143-2018-26 | fichas/pas/2023-09.md |
-| pas | 19957.001124/2021-74 | 2023-12-12 | condenacao | cvm-pas-19957-001124-2021-74 | fichas/pas/2023-09.md |
-| pas | 19957.003680/2021-85 | 2023-11-30 | condenacao | cvm-pas-19957-003680-2021-85 | fichas/pas/2023-08.md |
-| pas | 19957.001616/2022-41 | 2023-11-14 | condenacao | cvm-pas-19957-001616-2022-41 | fichas/pas/2023-08.md |
-| pas | 19957.001482/2020-04 | 2023-11-14 | condenacao | cvm-pas-19957-001482-2020-04 | fichas/pas/2023-07.md |
-| termo-compromisso | 19957.011449/2022-46 | 2023-11-07 | aceito | cvm-col-20231107-d2952 | fichas/tc/2023-07.md |
-| pas | 19957.005388/2017-11 | 2023-10-31 | absolvicao | cvm-pas-19957-005388-2017-11 | fichas/pas/2023-07.md |
-| pas | 19957.003549/2018-12 | 2023-10-31 | absolvicao | cvm-pas-19957-003549-2018-12 | fichas/pas/2023-07.md |
-| acordao-crsfn | 21/2010 | 2023-10-10 | outro | crsfn-10372-100066-2020-86-2 | fichas/crsfn/2023-06.md |
-| pas | 19957.005801/2019-17 | 2023-10-03 | condenacao | cvm-pas-19957-005801-2019-17 | fichas/pas/2023-06.md |
-| decisao-colegiado | 19957.005033/2018-11 | 2023-09-19 | nao-provido | cvm-col-20230919-d1155 | fichas/colegiado/2023-10.md |
-| acordao-crsfn | 02/2014; 19957.010256/2019-72 | 2023-09-12 | condenacao | crsfn-10372-100174-2020-59 | fichas/crsfn/2023-06.md |
-| acordao-crsfn | RJ2019/2631 | 2023-09-12 | outro | crsfn-10372-100118-2021-03-2 | fichas/crsfn/2023-06.md |
-| acordao-crsfn | 19957.002596/2017-68 | 2023-09-12 | condenacao | crsfn-10372-100085-2022-74 | fichas/crsfn/2023-05.md |
-| termo-compromisso | 19957.013886/2022-02 | 2023-09-05 | rejeitado | cvm-col-20230905-d2866 | fichas/tc/2023-06.md |
-| termo-compromisso | 19957.007321/2022-88 | 2023-08-15 | aceito | cvm-col-20230815-d2874 | fichas/tc/2023-05.md |
-| pas | 19957.010831/2019-37 | 2023-08-08 | condenacao | cvm-pas-19957-010831-2019-37 | fichas/pas/2023-04.md |
-| termo-compromisso | 19957.007321/2022-88 | 2023-06-27 | outro | cvm-col-20230627-d2874 | fichas/tc/2023-04.md |
-| pas | 19957.004478/2018-75 | 2023-06-20 | parcial | cvm-pas-19957-004478-2018-75 | fichas/pas/2023-03.md |
-| acordao-crsfn | RJ2014/13977; 19957.001882/2020-10 | 2023-06-13 | outro | crsfn-10372-100171-2020-15-2 | fichas/crsfn/2023-04.md |
-| acordao-crsfn | 19957.008901/2016-44; RJ2017/02029 | 2023-06-13 | condenacao | crsfn-10372-100109-2022-95 | fichas/crsfn/2023-04.md |
-| pas | 19957.005025/2021-61 | 2023-05-30 | condenacao | cvm-pas-19957-005025-2021-61 | fichas/pas/2023-03.md |
-| pas | 19957.007862/2018-20 | 2023-05-09 | parcial | cvm-pas-19957-007862-2018-20 | fichas/pas/2023-03.md |
-| acordao-crsfn | 19957.009351/2017-61; SP2017/441 | 2023-05-09 | condenacao | crsfn-10372-100184-2020-94 | fichas/crsfn/2023-04.md |
-| acordao-crsfn | RJ2019/2631 | 2023-05-09 | parcial | crsfn-10372-100118-2021-03 | fichas/crsfn/2023-04.md |
-| acordao-crsfn | 21/2010 | 2023-05-09 | condenacao | crsfn-10372-100066-2020-86 | fichas/crsfn/2023-04.md |
-| acordao-crsfn | 19957.010098/2019-51; RJ2015/9195 | 2023-05-09 | condenacao | crsfn-10372-100054-2021-32 | fichas/crsfn/2023-04.md |
-| acordao-crsfn | 19957.008818/2018-37 | 2023-05-09 | condenacao | crsfn-10372-100013-2023-16 | fichas/crsfn/2023-03.md |
-| acordao-crsfn | 19957.007543/2019-03; RJ2019/5673 | 2023-05-09 | condenacao | crsfn-10372-100012-2021-00 | fichas/crsfn/2023-03.md |
-| termo-compromisso | 19957.005025/2021-61 | 2023-04-25 | rejeitado | cvm-col-20230425-d2376 | fichas/tc/2023-04.md |
-| acordao-crsfn | 07/2013 | 2023-04-12 | outro | crsfn-10372-100057-2020-95-2 | fichas/crsfn/2023-03.md |
-| termo-compromisso | 19957.005456/2021-28 | 2023-04-11 | rejeitado | cvm-col-20230411-d2829 | fichas/tc/2023-03.md |
-| termo-compromisso | 19957.001524/2020-07 | 2023-04-04 | rejeitado | cvm-col-20230404-d2781 | fichas/tc/2023-02.md |
-| acordao-crsfn | 19957.006511/2019-82 | 2023-03-08 | condenacao | crsfn-10372-100130-2022-91 | fichas/crsfn/2023-02.md |
-| termo-compromisso | 19957.008434/2019-03 | 2023-02-28 | rejeitado | cvm-col-20230228-d2200 | fichas/tc/2023-02.md |
-| acordao-crsfn | RJ-2016-7192 | 2023-02-08 | outro | crsfn-10372-100315-2018-19-2 | fichas/crsfn/2023-01.md |
-| termo-compromisso | 19957.009395/2021-78 | 2023-01-10 | rejeitado | cvm-col-20230110-d2756 | fichas/tc/2023-01.md |
-| termo-compromisso | 19957.007976/2020-94 | 2022-12-20 | rejeitado | cvm-col-20221220-d2655 | fichas/tc/2022-06.md |
-| acordao-crsfn | 14/2010 | 2022-12-08 | condenacao | crsfn-10372-100071-2021-70 | fichas/crsfn/2022-07.md |
-| acordao-crsfn | 07/2013 | 2022-12-08 | condenacao | crsfn-10372-100057-2020-95 | fichas/crsfn/2022-07.md |
-| acordao-crsfn | 19957.000511/2018-98; RJ2018/00373 | 2022-12-07 | parcial | crsfn-10372-100136-2021-87 | fichas/crsfn/2022-07.md |
-| pas | 19957.008818/2018-37 | 2022-11-29 | condenacao | cvm-pas-19957-008818-2018-37 | fichas/pas/2022-06.md |
-| termo-compromisso | 19957.006441/2021-87; 19957.010180/2022-81 | 2022-11-16 | aceito | cvm-col-20221116-d2720 | fichas/tc/2022-05.md |
-| pas | 19957.001921/2020-71 | 2022-11-08 | parcial | cvm-pas-19957-001921-2020-71 | fichas/pas/2022-05.md |
-| acordao-crsfn | SP2018/15 | 2022-11-08 | condenacao | crsfn-10372-100054-2020-51 | fichas/crsfn/2022-06.md |
-| acordao-crsfn | SP2014/230 | 2022-11-08 | parcial | crsfn-10372-100034-2019-47 | fichas/crsfn/2022-06.md |
-| acordao-crsfn | 19957.000592/2019-15; RJ2019/958 | 2022-11-07 | outro | crsfn-10372-100011-2021-57-2 | fichas/crsfn/2022-06.md |
-| pas | 19957.005174/2019-14 | 2022-10-11 | condenacao | cvm-pas-19957-005174-2019-14 | fichas/pas/2022-05.md |
-| pas | 19957.004852/2019-13 | 2022-08-30 | condenacao | cvm-pas-19957-004852-2019-13 | fichas/pas/2022-04.md |
-| termo-compromisso | 19957.005385/2020-82 | 2022-08-16 | aceito | cvm-col-20220816-d2575 | fichas/tc/2022-04.md |
-| acordao-crsfn | 06/2012 | 2022-07-12 | outro | crsfn-10372-100268-2019-94-2 | fichas/crsfn/2022-04.md |
-| acordao-crsfn | 19957.003798/2017-27; SP2017/316 | 2022-07-12 | condenacao | crsfn-10372-100179-2020-81 | fichas/crsfn/2022-04.md |
-| acordao-crsfn | 19957.005452/2016-82 | 2022-07-12 | condenacao | crsfn-10372-100175-2020-01 | fichas/crsfn/2022-04.md |
-| acordao-crsfn | 19957.009864/2019-34; RJ2019/7806 | 2022-07-12 | condenacao | crsfn-10372-100057-2021-76 | fichas/crsfn/2022-04.md |
-| acordao-crsfn | RJ2018/4165 | 2022-07-12 | parcial | crsfn-10372-100033-2020-36 | fichas/crsfn/2022-04.md |
-| pas | 19957.009452/2018-13 | 2022-06-21 | condenacao | cvm-pas-19957-009452-2018-13 | fichas/pas/2022-03.md |
-| pas | 19957.006511/2019-82 | 2022-06-14 | condenacao | cvm-pas-19957-006511-2019-82 | fichas/pas/2022-03.md |
-| pas | 19957.008901/2016-44 | 2022-05-17 | condenacao | cvm-pas-19957-008901-2016-44 | fichas/pas/2022-03.md |
-| acordao-crsfn | 19957.000592/2019-15; RJ2019/958 | 2022-05-10 | condenacao | crsfn-10372-100011-2021-57 | fichas/crsfn/2022-03.md |
-| acordao-crsfn | RJ-2016-7192 | 2022-04-13 | condenacao | crsfn-10372-100315-2018-19 | fichas/crsfn/2022-02.md |
-| acordao-crsfn | RJ2014/12081 | 2022-04-12 | parcial | crsfn-10372-100317-2019-99 | fichas/crsfn/2022-02.md |
-| pas | 19957.000198/2020-11; 21/2013 | 2022-03-29 | parcial | cvm-pas-19957-000198-2020-11 | fichas/pas/2022-02.md |
-| pas | 19957.002596/2017-68 | 2022-03-15 | parcial | cvm-pas-19957-002596-2017-68 | fichas/pas/2022-01.md |
-| termo-compromisso | 19957.000198/2020-11 | 2022-03-08 | rejeitado | cvm-col-20220308-d1489 | fichas/tc/2022-01.md |
-| termo-compromisso | 19957.006657/2020-61 | 2022-02-15 | rejeitado | cvm-col-20220215-d2291 | fichas/tc/2022-01.md |
-| termo-compromisso | 19957.005801/2019-17 | 2022-02-15 | rejeitado | cvm-col-20220215-d1768 | fichas/tc/2022-01.md |
-| decisao-colegiado | 8/1979; 19957.009317/2021-73 | 2022-01-18 | outro | cvm-col-20220118-d2441 | fichas/colegiado/2022-01.md |
-| termo-compromisso | 19957.008699/2019-01 | 2021-12-21 | rejeitado | cvm-col-20211221-d1920 | fichas/tc/2021-09.md |
-| termo-compromisso | 19957.005174/2019-14 | 2021-12-14 | rejeitado | cvm-col-20211214-d2430 | fichas/tc/2021-08.md |
-| acordao-crsfn | 06/2012 | 2021-12-07 | condenacao | crsfn-10372-100268-2019-94 | fichas/crsfn/2021-04.md |
-| termo-compromisso | 19957.008721/2018-24 | 2021-11-30 | rejeitado | cvm-col-20211130-d2363 | fichas/tc/2021-08.md |
-| termo-compromisso | 19957.007626/2019-94 | 2021-11-09 | rejeitado | cvm-col-20211109-d2182 | fichas/tc/2021-07.md |
-| termo-compromisso | 19957.008434/2019-03 | 2021-10-19 | rejeitado | cvm-col-20211019-d2200 | fichas/tc/2021-07.md |
-| acordao-crsfn | 08/2004 | 2021-06-14 | outro | crsfn-edcl-13732 | fichas/crsfn/2021-02.md |
-| termo-compromisso | 19957.003801/2018-93 | 2021-06-08 | aceito | cvm-col-20210608-d2058 | fichas/tc/2021-04.md |
-| termo-compromisso | 19957.000791/2020-59 | 2021-06-01 | aceito | cvm-col-20210601-d2198 | fichas/tc/2021-04.md |
-| termo-compromisso | 19957.006910/2019-43 | 2021-05-04 | aceito | cvm-col-20210504-d1884 | fichas/tc/2021-03.md |
-| acordao-crsfn | SP2013/448 | 2021-04-13 | condenacao | crsfn-10372-100089-2019-57 | fichas/crsfn/2021-01.md |
-| termo-compromisso | 19957.000511/2018-98 | 2021-03-23 | rejeitado | cvm-col-20210323-d1104 | fichas/tc/2021-02.md |
-| termo-compromisso | 19957.001921/2020-71 | 2021-03-16 | rejeitado | cvm-col-20210316-d1974 | fichas/tc/2021-02.md |
-| termo-compromisso | 19957.006858/2019-25 | 2021-03-16 | rejeitado | cvm-col-20210316-d1952 | fichas/tc/2021-02.md |
-| termo-compromisso | 19957.008699/2019-01; 03/2016 | 2021-02-23 | rejeitado | cvm-col-20210223-d1920 | fichas/tc/2021-01.md |
-| termo-compromisso | 19957.003801/2018-93 | 2021-02-09 | outro | cvm-col-20210209-d2058 | fichas/tc/2021-01.md |
-| pas | 19957.011657/2019-40; SP2020/35 | 2021-01-12 | condenacao | cvm-pas-19957-011657-2019-40 | fichas/pas/2021.md |
-| termo-compromisso | 19957.009798/2019-01 | 2020-12-22 | outro | cvm-col-20201222-d1836 | fichas/tc/2020-07.md |
-| acordao-crsfn | RJ2015/2027 | 2020-11-17 | condenacao | crsfn-10372-100333-2019-81 | fichas/crsfn/2020-06.md |
-| termo-compromisso | 19957.009798/2019-01 | 2020-11-03 | — | cvm-col-20201103-d1836 | fichas/tc/2020-06.md |
-| termo-compromisso | 19957.000198/2020-11; 21/2013 | 2020-09-29 | rejeitado | cvm-col-20200929-d1489 | fichas/tc/2020-06.md |
-| acordao-crsfn | 30/2005 | 2020-09-20 | outro | crsfn-edcl-13803 | fichas/crsfn/2020-05.md |
-| acordao-crsfn | RJ2016/7486 | 2020-09-20 | condenacao | crsfn-10372-100323-2019-46 | fichas/crsfn/2020-05.md |
-| termo-compromisso | 19957.004923/2016-35 | 2020-09-08 | aceito | cvm-col-20200908-d0513 | fichas/tc/2020-06.md |
-| acordao-crsfn | RJ2014/13353 | 2020-08-25 | condenacao | crsfn-10372-100295-2018-86 | fichas/crsfn/2020-04.md |
-| termo-compromisso | 19957.006910/2019-43 | 2020-08-18 | rejeitado | cvm-col-20200818-d1884 | fichas/tc/2020-06.md |
-| termo-compromisso | 19957.008751/2019-11 | 2020-08-04 | rejeitado | cvm-col-20200804-d1872 | fichas/tc/2020-06.md |
-| acordao-crsfn | RJ-2016-5348 | 2020-07-22 | condenacao | crsfn-10372-100314-2018-74 | fichas/crsfn/2020-03.md |
-| pas | 19957.010098/2019-51; RJ2015/9195 | 2020-07-07 | parcial | cvm-pas-19957-010098-2019-51 | fichas/pas/2020-04.md |
-| termo-compromisso | 19957.004091/2019-08 | 2020-07-07 | rejeitado | cvm-col-20200707-d1851 | fichas/tc/2020-05.md |
-| termo-compromisso | 19957.006511/2019-82 | 2020-06-24 | rejeitado | cvm-col-20200624-d1842 | fichas/tc/2020-05.md |
-| pas | 19957.009351/2017-61; SP2017/441 | 2020-06-23 | condenacao | cvm-pas-19957-009351-2017-61 | fichas/pas/2020-03.md |
-| pas | 19957.003798/2017-27; SP2017/316 | 2020-06-09 | condenacao | cvm-pas-19957-003798-2017-27 | fichas/pas/2020-02.md |
-| decisao-colegiado | 19957.005013/2019-12 | 2020-06-09 | conhecimento | cvm-col-20200609-d1830 | fichas/colegiado/2020-09.md |
-| termo-compromisso | 19957.004923/2016-35 | 2020-06-09 | aceito | cvm-col-20200609-d0513 | fichas/tc/2020-05.md |
-| pas | 19957.007809/2018-29; RJ2018/5150 | 2020-06-02 | condenacao | cvm-pas-19957-007809-2018-29 | fichas/pas/2020-02.md |
-| pas | 19957.007543/2019-03; RJ2019/5673 | 2020-06-02 | condenacao | cvm-pas-19957-007543-2019-03 | fichas/pas/2020-02.md |
-| pas | 19957.005452/2016-82; IA2016/5452 | 2020-06-02 | condenacao | cvm-pas-19957-005452-2016-82 | fichas/pas/2020-02.md |
-| pas | 19957.000592/2019-15; RJ2019/958 | 2020-06-02 | condenacao | cvm-pas-19957-000592-2019-15 | fichas/pas/2020-02.md |
-| termo-compromisso | 19957.005641/2018-17 | 2020-05-19 | aceito | cvm-col-20200519-d1805 | fichas/tc/2020-04.md |
-| termo-compromisso | 19957.008816/2018-48 | 2020-05-19 | rejeitado | cvm-col-20200519-d1535 | fichas/tc/2020-04.md |
-| termo-compromisso | 19957.004471/2019-34 | 2020-05-05 | aceito | cvm-col-20200505-d1790 | fichas/tc/2020-03.md |
-| termo-compromisso | 19957.004852/2019-13 | 2020-04-22 | rejeitado | cvm-col-20200422-d1785 | fichas/tc/2020-03.md |
-| acordao-crsfn | 30/2005 | 2020-04-14 | parcial | crsfn-13083-2 | fichas/crsfn/2020-02.md |
-| termo-compromisso | 19957.005801/2019-17 | 2020-04-07 | rejeitado | cvm-col-20200407-d1768 | fichas/tc/2020-03.md |
-| termo-compromisso | 19957.007862/2018-20 | 2020-03-31 | rejeitado | cvm-col-20200331-d1476 | fichas/tc/2020-02.md |
-| acordao-crsfn | 08/2004 | 2020-03-10 | parcial | crsfn-13732 | fichas/crsfn/2020-01.md |
-| pas | 14/2010; 19957.010796/2019-56 | 2020-03-03 | parcial | cvm-pas-19957-010796-2019-56 | fichas/pas/2020-01.md |
-| termo-compromisso | 19957.011708/2017-71 | 2020-02-18 | aceito | cvm-col-20200218-d1475 | fichas/tc/2020-01.md |
-| termo-compromisso | 19957.008196/2019-28 | 2020-02-11 | rejeitado | cvm-col-20200211-d1715 | fichas/tc/2020-01.md |
-| pas | 02/2014; 19957.010256/2019-72 | 2019-12-17 | parcial | cvm-pas-19957-010256-2019-72 | fichas/pas/2019-13.md |
-| decisao-colegiado | 19957.005197/2016-78 | 2019-12-17 | conhecimento | cvm-col-20191217-d1565 | fichas/colegiado/2019-21.md |
-| termo-compromisso | 19957.010399/2018-01 | 2019-11-19 | rejeitado | cvm-col-20191119-d1603 | fichas/tc/2019-06.md |
-| acordao-crsfn | RJ2016/1742 | 2019-10-22 | condenacao | crsfn-10372-100293-2017-14 | fichas/crsfn/2019-03.md |
-| pas | 21/2010 | 2019-10-15 | parcial | cvm-pas-21-2010 | fichas/pas/2019-09.md |
-| termo-compromisso | 19957.003057/2019-16 | 2019-10-15 | aceito | cvm-col-20191015-d1574 | fichas/tc/2019-06.md |
-| pas | 07/2013 | 2019-10-08 | condenacao | cvm-pas-07-2013 | fichas/pas/2019-09.md |
-| pas | RJ2018/4165 | 2019-10-01 | condenacao | cvm-pas-rj2018-4165 | fichas/pas/2019-09.md |
-| termo-compromisso | 19957.007651/2018-97 | 2019-09-24 | aceito | cvm-col-20190924-d1548 | fichas/tc/2019-05.md |
-| acordao-crsfn | RJ2015/9909 | 2019-09-24 | condenacao | crsfn-10372-100061-2018-39 | fichas/crsfn/2019-03.md |
-| acordao-crsfn | RJ2017/646 | 2019-08-27 | condenacao | crsfn-10372-100020-2019-23 | fichas/crsfn/2019-02.md |
-| termo-compromisso | 19957.002595/2017-13 | 2019-08-20 | outro | cvm-col-20190820-d1286 | fichas/tc/2019-05.md |
-| pas | SP2018-15 | 2019-08-13 | parcial | cvm-pas-sp2018-0015 | fichas/pas/2019-08.md |
-| termo-compromisso | 19957.002437/2016-82 | 2019-08-13 | aceito | cvm-col-20190813-d1495 | fichas/tc/2019-04.md |
-| termo-compromisso | 19957.011708/2017-71 | 2019-07-30 | — | cvm-col-20190730-d1475 | fichas/tc/2019-04.md |
-| acordao-crsfn | RJ2016/1465 | 2019-07-23 | condenacao | crsfn-10372-100449-2018-30 | fichas/crsfn/2019-02.md |
-| acordao-crsfn | SP2016/268 | 2019-07-23 | condenacao | crsfn-10372-100157-2019-88 | fichas/crsfn/2019-02.md |
-| termo-compromisso | 19957.007809/2018-29 | 2019-07-16 | rejeitado | cvm-col-20190716-d1470 | fichas/tc/2019-04.md |
-| termo-compromisso | 19957.003798/2017-27 | 2019-07-09 | rejeitado | cvm-col-20190709-d1256 | fichas/tc/2019-03.md |
-| termo-compromisso | 19957.005452/2016-82 | 2019-06-25 | rejeitado | cvm-col-20190625-d1179 | fichas/tc/2019-03.md |
-| pas | RJ2016/7486 | 2019-06-18 | condenacao | cvm-pas-rj2016-7486 | fichas/pas/2019-05.md |
-| pas | RJ2014/12081 | 2019-06-18 | parcial | cvm-pas-rj2014-12081 | fichas/pas/2019-05.md |
-| pas | 10/2014 | 2019-06-18 | absolvicao | cvm-pas-10-2014 | fichas/pas/2019-04.md |
-| pas | RJ2013/8880 | 2019-06-11 | condenacao | cvm-pas-rj2013-8880 | fichas/pas/2019-04.md |
-| termo-compromisso | 19957.006130/2017-31 | 2019-06-04 | rejeitado | cvm-col-20190604-d1231 | fichas/tc/2019-03.md |
-| termo-compromisso | 19957.005283/2018-42 | 2019-05-21 | aceito | cvm-col-20190521-d1395 | fichas/tc/2019-03.md |
-| termo-compromisso | 19957.011759/2017-01 | 2019-05-14 | aceito | cvm-col-20190514-d1394 | fichas/tc/2019-03.md |
-| termo-compromisso | 19957.005918/2018-10 | 2019-04-16 | aceito | cvm-col-20190416-d1374 | fichas/tc/2019-02.md |
-| termo-compromisso | 19957.006019/2018-26 | 2019-04-09 | rejeitado | cvm-col-20190409-d1368 | fichas/tc/2019-02.md |
-| pas | RJ2015/2027 | 2019-04-02 | parcial | cvm-pas-rj2015-2027 | fichas/pas/2019-03.md |
-| termo-compromisso | 19957.006602/2018-37; 19957.008430/2018-36 | 2019-03-12 | aceito | cvm-col-20190312-d1343 | fichas/tc/2019-02.md |
-| termo-compromisso | 19957.007822/2016-16 | 2019-03-12 | aceito | cvm-col-20190312-d1335 | fichas/tc/2019-01.md |
-| pas | 02/2013 | 2019-01-22 | parcial | cvm-pas-02-2013 | fichas/pas/2019-01.md |
-| decisao-colegiado | RJ2015/9195 | 2019-01-15 | outro | cvm-col-20190115-d0148 | fichas/colegiado/2019-01.md |
-| termo-compromisso | 19957.011336/2017-83 | 2018-12-18 | aceito | cvm-col-20181218-d1248 | fichas/tc/2018-07.md |
-| decisao-colegiado | 13/2013 | 2018-12-18 | outro | cvm-col-20181218-d0001 | fichas/colegiado/2018-21.md |
-| termo-compromisso | 19957.003262/2015-40 | 2018-12-11 | aceito | cvm-col-20181211-d1237 | fichas/tc/2018-07.md |
-| acordao-crsfn | RJ2012/9808 | 2018-12-11 | parcial | crsfn-edcl-14449 | fichas/crsfn/2018-07.md |
-| pas | RJ2017/646 | 2018-11-14 | condenacao | cvm-pas-rj2017-0646 | fichas/pas/2018-10.md |
-| pas | SP2016/268 | 2018-11-13 | condenacao | cvm-pas-sp2016-0268 | fichas/pas/2018-10.md |
-| pas | 10/2012 | 2018-11-13 | absolvicao | cvm-pas-10-2012 | fichas/pas/2018-09.md |
-| pas | SP2014/465 | 2018-11-06 | parcial | cvm-pas-sp2014-0465 | fichas/pas/2018-09.md |
-| termo-compromisso | 19957.005504/2017-00 | 2018-09-25 | aceito | cvm-col-20180925-d0986 | fichas/tc/2018-05.md |
-| acordao-crsfn | RJ2012/9808 | 2018-09-20 | parcial | crsfn-14449 | fichas/crsfn/2018-06.md |
-| termo-compromisso | 19957.011547/2017-16 | 2018-09-04 | aceito | cvm-col-20180904-d1109 | fichas/tc/2018-04.md |
-| pas | 06/2012 | 2018-08-20 | parcial | cvm-pas-06-2012 | fichas/pas/2018-06.md |
-| pas | RJ2015/12130 | 2018-08-14 | condenacao | cvm-pas-rj2015-12130 | fichas/pas/2018-06.md |
-| termo-compromisso | 19957.010277/2017-26 | 2018-08-14 | aceito | cvm-col-20180814-d1023 | fichas/tc/2018-04.md |
-| termo-compromisso | 19957.006768/2017-72 | 2018-07-24 | aceito | cvm-col-20180724-d1094 | fichas/tc/2018-04.md |
-| acordao-crsfn | RJ2014/12921 | 2018-07-24 | parcial | crsfn-10372-100205-2017-76 | fichas/crsfn/2018-04.md |
-| pas | SP2013/448 | 2018-06-08 | parcial | cvm-pas-sp2013-0448 | fichas/pas/2018-04.md |
-| pas | SP2014/230 | 2018-05-29 | condenacao | cvm-pas-sp2014-0230 | fichas/pas/2018-04.md |
-| termo-compromisso | SP2013/0448 | 2018-05-22 | rejeitado | cvm-col-20180522-d0275 | fichas/tc/2018-03.md |
-| pas | RJ2016/1465 | 2018-05-15 | condenacao | cvm-pas-rj2016-1465 | fichas/pas/2018-03.md |
-| termo-compromisso | 19957.006132/2017-21 | 2018-05-08 | aceito | cvm-col-20180508-d1032 | fichas/tc/2018-02.md |
-| pas | RJ2016/5348 | 2018-04-17 | condenacao | cvm-pas-rj2016-5348 | fichas/pas/2018-03.md |
-| termo-compromisso | 09/2013; 19957.001045/2015-15 | 2018-04-17 | rejeitado | cvm-col-20180417-d0640 | fichas/tc/2018-02.md |
-| acordao-crsfn | RJ2011/11073 | 2018-03-21 | parcial | crsfn-14486 | fichas/crsfn/2018-03.md |
-| acordao-crsfn | SP2007/113 | 2018-03-21 | absolvicao | crsfn-13748 | fichas/crsfn/2018-02.md |
-| pas | RJ2016/7192 | 2018-03-13 | condenacao | cvm-pas-rj2016-7192 | fichas/pas/2018-02.md |
-| acordao-crsfn | RJ2012/13605 | 2018-02-20 | condenacao | crsfn-10372-100146-2017-36 | fichas/crsfn/2018-01.md |
-| termo-compromisso | 07/2015; 19957.003834/2015-91 | 2018-01-30 | rejeitado | cvm-col-20180130-d0912 | fichas/tc/2018-01.md |
-| pas | RJ2014/13353 | 2017-12-22 | parcial | cvm-pas-rj2014-13353 | fichas/pas/2017-06.md |
-| termo-compromisso | 19957.001903/2015-21; 02/2014 | 2017-10-17 | rejeitado | cvm-col-20171017-d0718 | fichas/tc/2017-05.md |
-| pas | RJ2015/9909 | 2017-09-05 | condenacao | cvm-pas-rj2015-9909 | fichas/pas/2017-03.md |
-| acordao-crsfn | SP2011/233 | 2017-08-22 | condenacao | crsfn-14097 | fichas/crsfn/2017-06.md |
-| acordao-crsfn | RJ2013/5194 | 2017-07-26 | condenacao | crsfn-14222 | fichas/crsfn/2017-06.md |
-| acordao-crsfn | IA2010/24 | 2017-07-25 | condenacao | crsfn-14035 | fichas/crsfn/2017-06.md |
-| termo-compromisso | 19957.007693/2016-66; RJ2016/8033 | 2017-07-11 | aceito | cvm-col-20170711-d0730 | fichas/tc/2017-03.md |
-| acordao-crsfn | CVM13/05 | 2017-06-27 | parcial | crsfn-13453 | fichas/crsfn/2017-04.md |
-| termo-compromisso | 19957.006346/2016-16; RJ2016/7420 | 2017-06-26 | aceito | cvm-col-20170626-d0717 | fichas/tc/2017-03.md |
-| termo-compromisso | 19957.002047/2015-21; 03/2015 | 2017-06-26 | rejeitado | cvm-col-20170626-d0716 | fichas/tc/2017-03.md |
-| termo-compromisso | 19957.005977/2016-18; RJ2016/7192 | 2017-06-26 | rejeitado | cvm-col-20170626-d0702 | fichas/tc/2017-03.md |
-| acordao-crsfn | IA-2010-4 | 2017-05-24 | condenacao | crsfn-14086 | fichas/crsfn/2017-04.md |
-| acordao-crsfn | CVM178/2010 | 2017-05-24 | condenacao | crsfn-14048 | fichas/crsfn/2017-04.md |
-| pas | RJ2016/1742 | 2017-04-18 | condenacao | cvm-pas-rj2016-1742 | fichas/pas/2017-02.md |
-| acordao-crsfn | RJ2005/7389 | 2017-03-14 | parcial | crsfn-11330 | fichas/crsfn/2017-01.md |
-| pas | RJ2014/12921 | 2017-02-10 | parcial | cvm-pas-rj2014-12921 | fichas/pas/2017-01.md |
-| acordao-crsfn | SP2007/139 | 2017-02-08 | parcial | crsfn-13873 | fichas/crsfn/2017-01.md |
-| acordao-crsfn | 05/2008 | 2017-02-07 | parcial | crsfn-13727 | fichas/crsfn/2017-01.md |
-| pas | RJ2012/11002 | 2016-12-15 | absolvicao | cvm-pas-rj2012-11002 | fichas/pas/2016-08.md |
-| acordao-crsfn | 21/2006 | 2016-12-14 | parcial | crsfn-13622 | fichas/crsfn/2016-06.md |
-| termo-compromisso | 19957.002112/2016-08; RJ2016/3951 | 2016-12-06 | aceito | cvm-col-20161206-d0456 | fichas/tc/2016-05.md |
-| termo-compromisso | 19957.001639/2016-15; RJ2016/2384 | 2016-10-11 | rejeitado | cvm-col-20161011-d0390 | fichas/tc/2016-05.md |
-| acordao-crsfn | SP2007/140 | 2016-08-26 | condenacao | crsfn-13905 | fichas/crsfn/2016-04.md |
-| acordao-crsfn | IA-2010-12 | 2016-08-24 | parcial | crsfn-14223 | fichas/crsfn/2016-04.md |
-| pas | RJ2012/13605 | 2016-08-23 | parcial | cvm-pas-rj2012-13605 | fichas/pas/2016-03.md |
-| termo-compromisso | RJ2015/12130 | 2016-07-12 | rejeitado | cvm-col-20160712-d0298 | fichas/tc/2016-03.md |
-| termo-compromisso | SP2013/0448 | 2016-06-28 | rejeitado | cvm-col-20160628-d0275 | fichas/tc/2016-03.md |
-| termo-compromisso | RJ2016/0092 | 2016-04-26 | rejeitado | cvm-col-20160426-d0001 | fichas/tc/2016-01.md |
-| termo-compromisso | RJ2012/11002 | 2016-03-01 | rejeitado | cvm-col-20160301-d8703 | fichas/tc/2016-01.md |
-| termo-compromisso | RJ2015/6221 | 2016-02-23 | rejeitado | cvm-col-20160223-d9743 | fichas/tc/2016-01.md |
-| acordao-crsfn | 14/2001 | 2016-02-23 | parcial | crsfn-8550 | fichas/crsfn/2016-02.md |
-| pas | RJ2012/9808 | 2015-12-18 | parcial | cvm-pas-rj2012-9808 | fichas/pas/2015-07.md |
-| acordao-crsfn | 04/2000 | 2015-07-28 | parcial | crsfn-7703 | fichas/crsfn/2015-04.md |
-| acordao-crsfn | 0028/2005 | 2015-06-30 | arquivamento | crsfn-11267-2 | fichas/crsfn/2015-02.md |
-| acordao-crsfn | 04/01 | 2015-05-26 | parcial | crsfn-9058 | fichas/crsfn/2015-02.md |
-| acordao-crsfn | 20/2005 | 2015-03-24 | parcial | crsfn-13356 | fichas/crsfn/2015-01.md |
-| acordao-crsfn | 16/2002 | 2015-01-27 | parcial | crsfn-11411 | fichas/crsfn/2015-01.md |
-| pas | RJ2013/5194 | 2014-12-19 | condenacao | cvm-pas-rj2013-5194 | fichas/pas/2014-05.md |
-| termo-compromisso | RJ2013/4966 | 2014-12-02 | aceito | cvm-col-20141202-d13 | fichas/tc/2014-04.md |
-| acordao-crsfn | 0003/2006 | 2014-11-25 | absolvicao | crsfn-13256 | fichas/crsfn/2014-06.md |
-| termo-compromisso | SP2013/0097 | 2014-11-18 | aceito | cvm-col-20141118-d04 | fichas/tc/2014-04.md |
-| termo-compromisso | RJ2013/13124 | 2014-11-18 | rejeitado | cvm-col-20141118-d01 | fichas/tc/2014-03.md |
-| acordao-crsfn | 0006/2004 | 2014-10-21 | parcial | crsfn-13285 | fichas/crsfn/2014-06.md |
-| acordao-crsfn | 0012/2004 | 2014-10-21 | parcial | crsfn-13223 | fichas/crsfn/2014-05.md |
-| pas | 12/2010 | 2014-10-07 | parcial | cvm-pas-12-2010 | fichas/pas/2014-03.md |
-| pas | 04/2010 | 2014-09-23 | condenacao | cvm-pas-04-2010 | fichas/pas/2014-03.md |
-| termo-compromisso | RJ2013/5194 | 2014-08-05 | rejeitado | cvm-col-20140805-d01 | fichas/tc/2014-02.md |
-| termo-compromisso | 12/2010 | 2014-07-29 | rejeitado | cvm-col-20140729-d01 | fichas/tc/2014-02.md |
-| acordao-crsfn | 23-2000 | 2014-04-15 | absolvicao | crsfn-13180 | fichas/crsfn/2014-02.md |
-| termo-compromisso | 01/2012 | 2014-04-01 | aceito | cvm-col-20140401-d05 | fichas/tc/2014-01.md |
-| pas | SP2011/233 | 2014-03-25 | condenacao | cvm-pas-sp2011-0233 | fichas/pas/2014-01.md |
-| pas | SP2010/178 | 2014-03-25 | condenacao | cvm-pas-sp2010-0178 | fichas/pas/2014-01.md |
-| acordao-crsfn | IA-2004-15 | 2014-03-18 | condenacao | crsfn-12756 | fichas/crsfn/2014-02.md |
-| decisao-colegiado | 12/2010 | 2014-03-11 | outro | cvm-col-20140311-d8094 | fichas/colegiado/2014-04.md |
-| pas | 04/2013 | 2014-02-25 | condenacao | cvm-pas-04-2013 | fichas/pas/2014-01.md |
-| termo-compromisso | RJ2013/8159 | 2014-02-25 | aceito | cvm-col-20140225-d01 | fichas/tc/2014-01.md |
-| acordao-crsfn | SP-2005/0338 | 2014-02-18 | absolvicao | crsfn-12569 | fichas/crsfn/2014-01.md |
-| termo-compromisso | RJ2013/7426 | 2013-12-17 | rejeitado | cvm-col-20131217-d06 | fichas/tc/2013-05.md |
-| acordao-crsfn | 14-2006 | 2013-11-26 | absolvicao | crsfn-13189 | fichas/crsfn/2013-04.md |
-| termo-compromisso | RJ2013/6120 | 2013-11-19 | rejeitado | cvm-col-20131119-d03 | fichas/tc/2013-05.md |
-| pas | SP2007/140 | 2013-10-15 | condenacao | cvm-pas-sp2007-0140 | fichas/pas/2013-04.md |
-| termo-compromisso | RJ2013/4946 | 2013-09-10 | rejeitado | cvm-col-20130910-d02 | fichas/tc/2013-04.md |
-| pas | SP2007/139 | 2013-07-30 | parcial | cvm-pas-sp2007-0139 | fichas/pas/2013-04.md |
-| acordao-crsfn | 10/05 | 2013-07-30 | parcial | crsfn-12805 | fichas/crsfn/2013-03.md |
-| acordao-crsfn | IA-2005-3 | 2013-07-30 | arquivamento | crsfn-12443 | fichas/crsfn/2013-02.md |
-| pas | 01/2010 | 2013-07-16 | condenacao | cvm-pas-01-2010 | fichas/pas/2013-03.md |
-| acordao-crsfn | IA-2006-11 | 2013-06-18 | absolvicao | crsfn-11952 | fichas/crsfn/2013-02.md |
-| pas | SP2007/0113 | 2013-03-26 | absolvicao | cvm-pas-sp2007-0113 | fichas/pas/2013-02.md |
-| pas | 05/2008 | 2012-12-12 | parcial | cvm-pas-05-2008 | fichas/pas/2012-03.md |
-| pas | 08/2004 | 2012-12-06 | parcial | cvm-pas-08-2004 | fichas/pas/2012-03.md |
-| decisao-colegiado | 30/2005 | 2012-11-27 | nao-provido | cvm-col-20121127-d08 | fichas/colegiado/2012-22.md |
-| pas | 21/2006 | 2012-08-07 | parcial | cvm-pas-21-2006 | fichas/pas/2012-02.md |
-| acordao-crsfn | SP-2006-169 | 2012-07-30 | parcial | crsfn-11746 | fichas/crsfn/2012-03.md |
-| termo-compromisso | 05/2008 | 2012-04-17 | rejeitado | cvm-col-20120417-d01 | fichas/tc/2012-02.md |
-| acordao-crsfn | IA-1998-32 | 2012-02-13 | condenacao | crsfn-7355-2 | fichas/crsfn/2012-01.md |
-| acordao-crsfn | 05/04 | 2012-02-13 | arquivamento | crsfn-11632 | fichas/crsfn/2012-01.md |
-| acordao-crsfn | RJ-2005-5442 | 2012-01-10 | condenacao | crsfn-11638 | fichas/crsfn/2012-01.md |
-| termo-compromisso | SP2009/0054 | 2011-11-29 | aceito | cvm-col-20111129-d04 | fichas/tc/2011-05.md |
-| termo-compromisso | RJ2011/2522 | 2011-11-29 | rejeitado | cvm-col-20111129-d03 | fichas/tc/2011-05.md |
-| decisao-colegiado | RJ2009/5934; 05/2008 | 2011-11-08 | outro | cvm-col-20111108-d16 | fichas/colegiado/2011-24.md |
-| termo-compromisso | 05/2008 | 2011-11-08 | aceito | cvm-col-20111108-d15 | fichas/tc/2011-05.md |
-| acordao-crsfn | 15/02 | 2011-09-20 | absolvicao | crsfn-11747 | fichas/crsfn/2011-03.md |
-| acordao-crsfn | SP-2004-602 | 2011-08-30 | absolvicao | crsfn-11420 | fichas/crsfn/2011-03.md |
-| acordao-crsfn | 02/02 | 2011-06-15 | parcial | crsfn-11612 | fichas/crsfn/2011-02.md |
-| termo-compromisso | SP2006/0066 | 2011-05-10 | aceito | cvm-col-20110510-d03 | fichas/tc/2011-02.md |
-| termo-compromisso | 05/2008 | 2011-05-10 | rejeitado | cvm-col-20110510-d01-r2 | fichas/tc/2011-02.md |
-| acordao-crsfn | IA-1998-12 | 2011-04-27 | parcial | crsfn-8254 | fichas/crsfn/2011-01.md |
-| pas | 20/2005 | 2011-04-12 | parcial | cvm-pas-20-2005 | fichas/pas/2011-01.md |
-| decisao-colegiado | RJ2010/14060 | 2011-04-05 | deferido | cvm-col-20110405-d05 | fichas/colegiado/2011-08.md |
-| termo-compromisso | SP2007/0139 | 2011-03-01 | rejeitado | cvm-col-20110301-d01 | fichas/tc/2011-01.md |
-| termo-compromisso | RJ2010/16049 | 2010-12-28 | rejeitado | cvm-col-20101228-d05 | fichas/tc/2010-07.md |
-| termo-compromisso | RJ2010/15761 | 2010-12-09 | aceito | cvm-col-20101209-d01 | fichas/tc/2010-06.md |
-| pas | 03/2006 | 2010-12-01 | absolvicao | cvm-pas-03-2006 | fichas/pas/2010-05.md |
-| termo-compromisso | RJ2009/11393 | 2010-11-30 | aceito | cvm-col-20101130-d02 | fichas/tc/2010-06.md |
-| pas | 06/2004 | 2010-11-09 | parcial | cvm-pas-06-2004 | fichas/pas/2010-04.md |
-| acordao-crsfn | IA-2002-9 | 2010-10-05 | parcial | crsfn-11212 | fichas/crsfn/2010-07.md |
-| termo-compromisso | SP2006/0066 | 2010-09-21 | rejeitado | cvm-col-20100921-d03 | fichas/tc/2010-04.md |
-| pas | 14/2006 | 2010-08-31 | absolvicao | cvm-pas-14-2006 | fichas/pas/2010-03.md |
-| termo-compromisso | 06/2004 | 2010-08-31 | rejeitado | cvm-col-20100831-d01 | fichas/tc/2010-04.md |
-| acordao-crsfn | 03/95 | 2010-08-18 | parcial | crsfn-11208 | fichas/crsfn/2010-06.md |
-| acordao-crsfn | 09/04 | 2010-08-18 | parcial | crsfn-11107 | fichas/crsfn/2010-06.md |
-| pas | 16/2005 | 2010-08-10 | absolvicao | cvm-pas-16-2005 | fichas/pas/2010-03.md |
-| acordao-crsfn | 04/02 | 2010-07-28 | parcial | crsfn-5746 | fichas/crsfn/2010-06.md |
-| acordao-crsfn | IA-2002-13 | 2010-07-28 | parcial | crsfn-11170 | fichas/crsfn/2010-06.md |
-| acordao-crsfn | RJ-2004-210 | 2010-07-28 | parcial | crsfn-11056 | fichas/crsfn/2010-05.md |
-| termo-compromisso | 16/2005 | 2010-07-20 | aceito | cvm-col-20100720-d01 | fichas/tc/2010-03.md |
-| termo-compromisso | RJ2009/12461 | 2010-06-29 | rejeitado | cvm-col-20100629-d03 | fichas/tc/2010-03.md |
-| termo-compromisso | RJ2009/5934 | 2010-06-29 | rejeitado | cvm-col-20100629-d02 | fichas/tc/2010-03.md |
-| pas | 23/2000 | 2010-05-25 | absolvicao | cvm-pas-23-2000 | fichas/pas/2010-02.md |
-| termo-compromisso | RJ2009/5519 | 2010-05-25 | aceito | cvm-col-20100525-d04 | fichas/tc/2010-03.md |
-| pas | 12/2004 | 2010-05-11 | parcial | cvm-pas-12-2004 | fichas/pas/2010-01.md |
-| termo-compromisso | RJ2009/8196 | 2010-04-13 | aceito | cvm-col-20100413-d04 | fichas/tc/2010-02.md |
-| termo-compromisso | RJ2009/8787 | 2010-03-23 | aceito | cvm-col-20100323-d04 | fichas/tc/2010-02.md |
-| termo-compromisso | RJ2009/8224 | 2010-02-09 | rejeitado | cvm-col-20100209-d04 | fichas/tc/2010-01.md |
-| termo-compromisso | RJ2009/5519 | 2010-02-09 | outro | cvm-col-20100209-d01-r2 | fichas/tc/2010-01.md |
-| termo-compromisso | RJ2009/6226 | 2010-01-26 | rejeitado | cvm-col-20100126-d05 | fichas/tc/2010-01.md |
-| acordao-crsfn | 24/00 | 2010-01-26 | parcial | crsfn-9634 | fichas/crsfn/2010-02.md |
-| acordao-crsfn | SP-2001/0236 | 2010-01-26 | parcial | crsfn-6065 | fichas/crsfn/2010-01.md |
-| acordao-crsfn | IA-2001-5 | 2009-10-27 | parcial | crsfn-6197 | fichas/crsfn/2009-06.md |
-| acordao-crsfn | RJ–2002-397 | 2009-09-30 | parcial | crsfn-5632 | fichas/crsfn/2009-04.md |
-| termo-compromisso | 07/2008 | 2009-09-15 | aceito | cvm-col-20090915-d02 | fichas/tc/2009-06.md |
-| pas | 10/2005 | 2009-08-25 | parcial | cvm-pas-10-2005 | fichas/pas/2009-04.md |
-| acordao-crsfn | SP-2003-444 | 2009-08-24 | absolvicao | crsfn-11051 | fichas/crsfn/2009-04.md |
-| pas | 15/2004 | 2009-08-04 | condenacao | cvm-pas-15-2004 | fichas/pas/2009-03.md |
-| termo-compromisso | RJ2009/3306 | 2009-07-14 | rejeitado | cvm-col-20090714-d09 | fichas/tc/2009-04.md |
-| pas | 20/2003 | 2009-07-01 | parcial | cvm-pas-20-2003 | fichas/pas/2009-03.md |
-| decisao-colegiado | RJ2009/5778 | 2009-06-30 | deferido | cvm-col-20090630-d01-r2 | fichas/colegiado/2009-12.md |
-| acordao-crsfn | RJ-2002-6738 | 2009-06-29 | parcial | crsfn-6180 | fichas/crsfn/2009-03.md |
-| acordao-crsfn | 31/98 | 2009-01-28 | absolvicao | crsfn-9796 | fichas/crsfn/2009-01.md |
-| acordao-crsfn | RJ-2003/823 | 2008-12-10 | absolvicao | crsfn-9550 | fichas/crsfn/2008-06.md |
-| acordao-crsfn | SP2005/158 | 2008-11-19 | parcial | crsfn-9201 | fichas/crsfn/2008-05.md |
-| decisao-colegiado | — | 2008-07-08 | deferido | cvm-col-20080708-d10 | fichas/colegiado/2008-15.md |
-| pas | 03/2005 | 2008-07-02 | absolvicao | cvm-pas-03-2005 | fichas/pas/2008-02.md |
-| acordao-crsfn | 27/03 | 2008-06-24 | parcial | crsfn-9637 | fichas/crsfn/2008-03.md |
-| acordao-crsfn | SP2002/564 | 2008-06-24 | parcial | crsfn-5426 | fichas/crsfn/2008-03.md |
-| acordao-crsfn | 15/97 | 2008-06-23 | condenacao | crsfn-4321-2 | fichas/crsfn/2008-03.md |
-| decisao-colegiado | RJ2008/2748 | 2008-06-05 | provido | cvm-col-20080605-d09 | fichas/colegiado/2008-13.md |
-| termo-compromisso | 13/2005 | 2008-06-05 | aceito | cvm-col-20080605-d03 | fichas/tc/2008-04.md |
-| decisao-colegiado | RJ2008/2748 | 2008-05-06 | indeferido | cvm-col-20080506-d02 | fichas/colegiado/2008-10.md |
-| decisao-colegiado | RJ2008/2207; RJ2008/2067 | 2008-04-15 | deferido | cvm-col-20080415-d17 | fichas/colegiado/2008-10.md |
-| acordao-crsfn | IA-1993-9 | 2008-03-26 | condenacao | crsfn-revisao-1739 | fichas/crsfn/2008-01.md |
-| pas | 11/2006 | 2008-03-04 | absolvicao | cvm-pas-11-2006 | fichas/pas/2008-01.md |
-| acordao-crsfn | 14/00 | 2008-01-29 | parcial | crsfn-7359 | fichas/crsfn/2008-01.md |
-| termo-compromisso | 15/2004 | 2007-11-13 | rejeitado | cvm-col-20071113-d05 | fichas/tc/2007-06.md |
-| acordao-crsfn | IA-1998-32 | 2007-09-27 | parcial | crsfn-7355 | fichas/crsfn/2007-02.md |
-| termo-compromisso | SP2006/0085 | 2007-09-18 | aceito | cvm-col-20070918-d02 | fichas/tc/2007-05.md |
-| pas | SP2006/0169 | 2007-08-28 | parcial | cvm-pas-sp2006-0169 | fichas/pas/2007-06.md |
-| termo-compromisso | 13/2004 | 2007-07-10 | aceito | cvm-col-20070710-d06 | fichas/tc/2007-04.md |
-| pas | 28/2005 | 2007-07-03 | absolvicao | cvm-pas-28-2005 | fichas/pas/2007-04.md |
-| acordao-crsfn | SP-2001-240 | 2007-04-25 | parcial | crsfn-6187 | fichas/crsfn/2007-01.md |
-| acordao-crsfn | – | 2007-04-25 | parcial | crsfn-5532 | fichas/crsfn/2007-01.md |
-| pas | 05/2004 | 2007-04-24 | absolvicao | cvm-pas-05-2004 | fichas/pas/2007-03.md |
-| acordao-crsfn | – | 2007-03-28 | absolvicao | crsfn-9428 | fichas/crsfn/2007-01.md |
-| pas | SP2004/0602 | 2007-02-01 | absolvicao | cvm-pas-sp2004-0602 | fichas/pas/2007-02.md |
-| pas | 02/2002 | 2007-01-17 | parcial | cvm-pas-02-2002 | fichas/pas/2007-01.md |
-| pas | 29/2003 | 2007-01-16 | absolvicao | cvm-pas-29-2003 | fichas/pas/2007-01.md |
-| pas | 09/1993 | 2006-12-14 | condenacao | cvm-pas-09-1993 | fichas/pas/2006-14.md |
-| acordao-crsfn | RJ2002/5015 | 2006-12-13 | condenacao | crsfn-5591 | fichas/crsfn/2006-02.md |
-| pas | SP2003/0461 | 2006-12-05 | parcial | cvm-pas-sp2003-0461 | fichas/pas/2006-13.md |
-| termo-compromisso | 02/2002 | 2006-11-22 | aceito | cvm-col-20061122-d04 | fichas/tc/2006-06.md |
-| pas | 16/2003 | 2006-11-08 | absolvicao | cvm-pas-16-2003 | fichas/pas/2006-12.md |
-| pas | RJ2004/2870 | 2006-11-07 | parcial | cvm-pas-rj2004-2870 | fichas/pas/2006-11.md |
-| termo-compromisso | 09/01 | 2006-11-07 | aceito | cvm-col-20061107-d01 | fichas/tc/2006-06.md |
-| pas | RJ2005/7389 | 2006-10-10 | parcial | cvm-pas-rj2005-7389 | fichas/pas/2006-10.md |
-| pas | 16/2002 | 2006-10-10 | condenacao | cvm-pas-16-2002 | fichas/pas/2006-10.md |
-| termo-compromisso | SP2005/0155 | 2006-10-03 | aceito | cvm-col-20061003-d04 | fichas/tc/2006-04.md |
-| decisao-colegiado | 12/2004 | 2006-10-03 | provido | cvm-col-20061003-d02 | fichas/colegiado/2006-15.md |
-| termo-compromisso | 02/2002 | 2006-09-26 | aceito | cvm-col-20060926-d07 | fichas/tc/2006-04.md |
-| pas | SP2004/0543 | 2006-09-11 | condenacao | cvm-pas-sp2004-0543 | fichas/pas/2006-09.md |
-| termo-compromisso | SP2005/0268 | 2006-08-29 | aceito | cvm-col-20060829-d03 | fichas/tc/2006-04.md |
-| termo-compromisso | 09/2001 | 2006-08-29 | rejeitado | cvm-col-20060829-d02 | fichas/tc/2006-04.md |
-| acordao-crsfn | 38/00 | 2006-08-18 | parcial | crsfn-5278 | fichas/crsfn/2006-01.md |
-| pas | 13/2002 | 2006-07-19 | parcial | cvm-pas-13-2002 | fichas/pas/2006-07.md |
-| pas | 09/2002 | 2006-07-19 | parcial | cvm-pas-09-2002 | fichas/pas/2006-07.md |
-| pas | SP2002/0063 | 2006-07-11 | parcial | cvm-pas-sp2002-0063 | fichas/pas/2006-07.md |
-| pas | 09/2004 | 2006-06-20 | parcial | cvm-pas-09-2004 | fichas/pas/2006-06.md |
-| pas | SP2003/0489 | 2006-05-04 | parcial | cvm-pas-sp2003-0489 | fichas/pas/2006-04.md |
-| pas | SP2003/0314 | 2006-03-29 | parcial | cvm-pas-sp2003-0314 | fichas/pas/2006-03.md |
-| pas | RJ2004/0210 | 2006-03-29 | parcial | cvm-pas-rj2004-0210 | fichas/pas/2006-02.md |
-| termo-compromisso | 16/03 | 2006-03-14 | rejeitado | cvm-col-20060314-d03 | fichas/tc/2006-01.md |
-| pas | SP2004/0197 | 2006-01-12 | parcial | cvm-pas-sp2004-0197 | fichas/pas/2006-01.md |
-| pas | 31/1998 | 2005-11-30 | absolvicao | cvm-pas-31-1998 | fichas/pas/2005-08.md |
-| pas | SP2004/154 | 2005-11-03 | parcial | cvm-pas-sp2004-0154 | fichas/pas/2005-07.md |
-| pas | 16/2001 | 2005-11-03 | absolvicao | cvm-pas-16-2001 | fichas/pas/2005-07.md |
-| pas | SP2005/158 | 2005-09-14 | parcial | cvm-pas-sp2005-0158 | fichas/pas/2005-06.md |
-| pas | 27/2003 | 2005-08-18 | parcial | cvm-pas-27-2003 | fichas/pas/2005-06.md |
-| pas | 24/2000 | 2005-08-18 | parcial | cvm-pas-24-2000 | fichas/pas/2005-05.md |
-| pas | 04/2001 | 2005-06-13 | parcial | cvm-pas-04-2001 | fichas/pas/2005-05.md |
-| pas | RJ2003/0823 | 2005-05-20 | parcial | cvm-pas-rj2003-0823 | fichas/pas/2005-04.md |
-| acordao-crsfn | 02/99 | 2005-04-27 | parcial | crsfn-4287 | fichas/crsfn/2005-01.md |
-| termo-compromisso | 04/2003 | 2005-04-26 | rejeitado | cvm-col-20050426-d02 | fichas/tc/2005-01.md |
-| pas | 35/2000 | 2005-04-12 | parcial | cvm-pas-35-2000 | fichas/pas/2005-03.md |
-| pas | 14/2001 | 2005-04-12 | parcial | cvm-pas-14-2001 | fichas/pas/2005-03.md |
-| pas | SP2003/0444 | 2005-03-11 | absolvicao | cvm-pas-sp2003-0444 | fichas/pas/2005-02.md |
-| pas | SP2003/0313 | 2005-03-11 | parcial | cvm-pas-sp2003-0313 | fichas/pas/2005-01.md |
-| pas | 04/2000 | 2005-02-17 | parcial | cvm-pas-04-2000 | fichas/pas/2005-01.md |
-| pas | RJ2004/2132 | 2005-01-19 | condenacao | cvm-pas-rj2004-2132 | fichas/pas/2005-01.md |
-| pas | 14/2000 | 2004-12-17 | parcial | cvm-pas-14-2000 | fichas/pas/2004-08.md |
-| acordao-crsfn | Recurso 5441 | 2004-12-14 | condenacao | crsfn-5441 | fichas/crsfn/2004-04.md |
-| acordao-crsfn | 06/94 | 2004-12-14 | parcial | crsfn-4297 | fichas/crsfn/2004-04.md |
-| pas | SP2004/0113 | 2004-12-09 | parcial | cvm-pas-sp2004-0113 | fichas/pas/2004-08.md |
-| pas | 21/1999 | 2004-12-09 | parcial | cvm-pas-21-1999 | fichas/pas/2004-08.md |
-| acordao-crsfn | 15/97 | 2004-11-17 | parcial | crsfn-4321 | fichas/crsfn/2004-03.md |
-| acordao-crsfn | SP2001/0003 | 2004-09-15 | parcial | crsfn-4819 | fichas/crsfn/2004-03.md |
-| acordao-crsfn | 17/99 | 2004-09-15 | parcial | crsfn-3721 | fichas/crsfn/2004-02.md |
-| pas | SP2003/0288 | 2004-09-08 | parcial | cvm-pas-sp2003-0288 | fichas/pas/2004-05.md |
-| pas | SP2001/0240 | 2004-07-22 | parcial | cvm-pas-sp2001-0240 | fichas/pas/2004-04.md |
-| pas | SP2001/0236 | 2004-07-19 | parcial | cvm-pas-sp2001-0236 | fichas/pas/2004-04.md |
-| pas | 05/2001 | 2004-07-19 | parcial | cvm-pas-05-2001-2 | fichas/pas/2004-04.md |
-| acordao-crsfn | 20/99 | 2004-07-14 | absolvicao | crsfn-4197 | fichas/crsfn/2004-02.md |
-| pas | RJ2002/6738 | 2004-07-08 | parcial | cvm-pas-rj2002-6738 | fichas/pas/2004-03.md |
-| pas | RJ2002/5113 | 2004-07-01 | condenacao | cvm-pas-rj2002-5113 | fichas/pas/2004-03.md |
-| acordao-crsfn | 26/00 | 2004-06-28 | arquivamento | crsfn-4730 | fichas/crsfn/2004-02.md |
-| pas | SP2002/0197 | 2004-06-24 | parcial | cvm-pas-sp2002-0197 | fichas/pas/2004-03.md |
-| pas | 25/2000 | 2004-06-24 | parcial | cvm-pas-25-2000 | fichas/pas/2004-02.md |
-| pas | 05/2001 | 2004-06-21 | parcial | cvm-pas-05-2001 | fichas/pas/2004-02.md |
-| acordao-crsfn | RJ/2001/6226 | 2004-05-26 | condenacao | crsfn-5039 | fichas/crsfn/2004-02.md |
-| pas | 34/1998 | 2004-05-06 | parcial | cvm-pas-34-1998 | fichas/pas/2004-01.md |
-| pas | 32/1998 | 2004-05-06 | parcial | cvm-pas-32-1998 | fichas/pas/2004-01.md |
-| pas | 22/1994 | 2004-04-15 | condenacao | cvm-pas-22-1994 | fichas/pas/2004-01.md |
-| pas | SP2002/0397 | 2003-12-18 | parcial | cvm-pas-sp2002-0397 | fichas/pas/2003-06.md |
-| pas | SP2003/0148 | 2003-12-17 | parcial | cvm-pas-sp2003-0148 | fichas/pas/2003-05.md |
-| pas | RJ2002/5015 | 2003-12-11 | condenacao | cvm-pas-rj2002-5015 | fichas/pas/2003-05.md |
-| pas | SP2002/0564 | 2003-11-19 | parcial | cvm-pas-sp2002-0564 | fichas/pas/2003-04.md |
-| pas | 04/2002 | 2003-11-13 | parcial | cvm-pas-04-2002 | fichas/pas/2003-04.md |
-| pas | RJ2002/2937 | 2003-09-17 | condenacao | cvm-pas-rj2002-2937 | fichas/pas/2003-03.md |
-| pas | SP2002/0098 | 2003-09-11 | parcial | cvm-pas-sp2002-0098 | fichas/pas/2003-03.md |
-| acordao-crsfn | 39/98 | 2003-08-18 | condenacao | crsfn-4223 | fichas/crsfn/2003-02.md |
-| pas | RJ2001/6226 | 2003-05-15 | condenacao | cvm-pas-rj2001-6226 | fichas/pas/2003-02.md |
-| pas | 38/2000 | 2003-04-02 | parcial | cvm-pas-38-2000 | fichas/pas/2003-01.md |
-| pas | 28/1999 | 2003-03-20 | parcial | cvm-pas-28-1999 | fichas/pas/2003-01.md |
-| acordao-crsfn | 21/95 | 2003-02-19 | parcial | crsfn-3333 | fichas/crsfn/2003-01.md |
-| acordao-crsfn | 02/2000 | 2003-01-29 | parcial | crsfn-3878 | fichas/crsfn/2003-01.md |
-| pas | 26/2000 | 2002-12-12 | condenacao | cvm-pas-26-2000 | fichas/pas/2002-04.md |
-| acordao-crsfn | 10/96 | 2002-12-11 | parcial | crsfn-3678 | fichas/crsfn/2002-03.md |
-| acordao-crsfn | 34/99 | 2002-10-24 | parcial | crsfn-4019 | fichas/crsfn/2002-03.md |
-| termo-compromisso | RJ2001/6226 | 2002-09-20 | rejeitado | cvm-col-20020920-d01 | fichas/tc/2002.md |
-| acordao-crsfn | 05/98 | 2002-08-01 | parcial | crsfn-3649 | fichas/crsfn/2002-02.md |
-| acordao-crsfn | 16/97 | 2002-06-27 | parcial | crsfn-3015 | fichas/crsfn/2002-01.md |
-| pas | 20/1999 | 2002-04-18 | absolvicao | cvm-pas-20-1999 | fichas/pas/2002-02.md |
-| acordao-crsfn | 13/99 | 2002-03-25 | parcial | crsfn-3785 | fichas/crsfn/2002-01.md |
-| pas | 06/1999 | 2002-03-21 | condenacao | cvm-pas-06-1999 | fichas/pas/2002-01.md |
-| pas | 06/1994 | 2002-03-21 | parcial | cvm-pas-06-1994 | fichas/pas/2002-01.md |
-| acordao-crsfn | 35/98 | 2002-02-27 | arquivamento | crsfn-3435 | fichas/crsfn/2002-01.md |
-| pas | 01/1999 | 2001-12-19 | parcial | cvm-pas-01-1999 | fichas/pas/2001-05.md |
-| acordao-crsfn | 02/98 | 2001-11-29 | parcial | crsfn-3071 | fichas/crsfn/2001-02.md |
-| pas | 39/1998 | 2001-11-21 | condenacao | cvm-pas-39-1998 | fichas/pas/2001-04.md |
-| pas | 11/1997 | 2001-10-18 | condenacao | cvm-pas-11-1997 | fichas/pas/2001-04.md |
-| pas | 02/1999 | 2001-09-06 | parcial | cvm-pas-02-1999 | fichas/pas/2001-03.md |
-| pas | 33/1999 | 2001-08-30 | parcial | cvm-pas-33-1999 | fichas/pas/2001-03.md |
-| pas | 15/1997 | 2001-08-23 | parcial | cvm-pas-15-1997 | fichas/pas/2001-03.md |
-| pas | 02/2000 | 2001-06-07 | parcial | cvm-pas-02-2000 | fichas/pas/2001-01.md |
-| acordao-crsfn | 016/93 | 2001-04-27 | parcial | crsfn-2605 | fichas/crsfn/2001-01.md |
-| pas | 13/1999 | 2001-04-05 | parcial | cvm-pas-13-1999 | fichas/pas/2001-01.md |
-| acordao-crsfn | 04/98 | 2001-02-13 | parcial | crsfn-3058 | fichas/crsfn/2001-01.md |
-| pas | 17/1999 | 2001-01-25 | parcial | cvm-pas-17-1999 | fichas/pas/2001-01.md |
-| acordao-crsfn | 07/98 | 2000-12-15 | condenacao | crsfn-3063 | fichas/crsfn/2000-07.md |
-| pas | 05/1999 | 2000-11-23 | condenacao | cvm-pas-05-1999 | fichas/pas/2000-02.md |
-| pas | 05/1998 | 2000-11-16 | parcial | cvm-pas-05-1998-2 | fichas/pas/2000-02.md |
-| pas | 10/1996 | 2000-11-09 | parcial | cvm-pas-10-1996 | fichas/pas/2000-02.md |
-| acordao-crsfn | 23/98 | 2000-11-07 | condenacao | crsfn-3096 | fichas/crsfn/2000-06.md |
-| acordao-crsfn | 05/97 | 2000-09-29 | absolvicao | crsfn-3016 | fichas/crsfn/2000-05.md |
-| pas | 35/1998 | 2000-09-21 | absolvicao | cvm-pas-35-1998 | fichas/pas/2000-02.md |
-| pas | 01/1998 | 2000-08-07 | parcial | cvm-pas-01-1998 | fichas/pas/2000-01.md |
-| acordao-crsfn | 12/96 | 2000-07-28 | condenacao | crsfn-2876 | fichas/crsfn/2000-03.md |
-| acordao-crsfn | 19/95 | 2000-07-28 | parcial | crsfn-2870 | fichas/crsfn/2000-03.md |
-| acordao-crsfn | 16/98 | 2000-06-15 | parcial | crsfn-3024 | fichas/crsfn/2000-03.md |
-| pas | 21/1995 | 2000-06-08 | parcial | cvm-pas-21-1995 | fichas/pas/2000-01.md |
-| acordao-crsfn | 18/96 | 2000-04-27 | absolvicao | crsfn-2909 | fichas/crsfn/2000-01.md |
-| acordao-crsfn | 01/97 | 2000-03-23 | absolvicao | crsfn-2903 | fichas/crsfn/2000-01.md |
-| acordao-crsfn | 12/90 | 1999-11-25 | parcial | crsfn-2595 | fichas/crsfn/1999-03.md |
-| acordao-crsfn | 97/0161 | 1999-10-28 | arquivamento | crsfn-2840 | fichas/crsfn/1999-03.md |
-| acordao-crsfn | 002/95 | 1999-07-29 | parcial | crsfn-2566 | fichas/crsfn/1999-01.md |
-| acordao-crsfn | 18/89 | 1998-11-24 | parcial | crsfn-2522 | fichas/crsfn/1998-03.md |
-| acordao-crsfn | 08/90 | 1998-02-17 | parcial | crsfn-2280 | fichas/crsfn/1998-01.md |
-| acordao-crsfn | 08/87 | 1998-01-28 | absolvicao | crsfn-2307 | fichas/crsfn/1998-01.md |
-| acordao-crsfn | 18/87 | 1997-10-30 | absolvicao | crsfn-2153 | fichas/crsfn/1997-01.md |
-| acordao-crsfn | 08/90 | 1997-04-24 | condenacao | crsfn-1961 | fichas/crsfn/1997-01.md |
-| acordao-crsfn | 06/93 | 1996-12-11 | condenacao | crsfn-1956 | fichas/crsfn/1996-02.md |
-| acordao-crsfn | 07/89 | 1996-11-26 | parcial | crsfn-1733 | fichas/crsfn/1996-02.md |
-| acordao-crsfn | 16/93 | 1996-09-12 | outro | crsfn-1651 | fichas/crsfn/1996-02.md |
-| acordao-crsfn | 09/93 | 1996-08-07 | outro | crsfn-1739 | fichas/crsfn/1996-02.md |
-| acordao-crsfn | 09 | 1996-05-15 | absolvicao | crsfn-1649 | fichas/crsfn/1996-01.md |
-| acordao-crsfn | 11/88 | 1996-02-15 | parcial | crsfn-1552 | fichas/crsfn/1996-01.md |
+| Tipo | Processo | Data | Resultado | Ementa | Id | Ficha |
+|---|---|---|---|---|---|---|
+| pas | 19957.003286/2024-90 | 2026-10-22 | — | PAS sobre suposta operação fraudulenta com recursos da UEG Araucária Ltda. em ativos ligados à GBX Tietê II, entre 2014 e 2017. O diretor… | cvm-pas-19957-003286-2024-90 | fichas/pas/2026-06.md |
+| pas | 19957.000728/2022-84 | 2026-10-21 | — | PAS por operação fraudulenta na aquisição de cédulas de crédito bancário para fundo e por quebra do dever de diligência da gestora. Voto de… | cvm-pas-19957-000728-2022-84 | fichas/pas/2026-05.md |
+| pas | 19957.007976/2020-94 | 2026-09-08 | parcial | Apurar irregularidades atreladas à 3ª emissão de cotas do Brazil Realty FII, sob a alegação de operação fraudulenta no mercado de capitais… | cvm-pas-19957-007976-2020-94 | fichas/pas/2026-04.md |
+| pas | 19957.005363/2021-01 | 2026-09-08 | absolvicao | Apurar suposta criação de condições artificiais de demanda, oferta ou preço de valores mobiliários em transferência de cotas do Brazil… | cvm-pas-19957-005363-2021-01 | fichas/pas/2026-04.md |
+| acordao-crsfn | 19957.013886/2022-02 | 2026-08-11 | parcial | RECURSOS ADMINISTRATIVOS. CVM. MERCADO DE CAPITAIS. VALORES MOBILIÁRIOS. IRREGULARIDADES RELACIONADAS A PRÁTICAS NÃO EQUITATIVAS… | crsfn-19957-013886-2022-02 | fichas/crsfn/2026-03.md |
+| acordao-crsfn | 19957.002026/2019-30 | 2026-08-11 | condenacao | RECURSOS ADMINISTRATIVOS. CVM. MERCADO DE CAPITAIS. VALORES MOBILIÁRIOS. OPERAÇÕES FRAUDULENTAS. DESCUMPRIMENTO DO DEVER DE LEALDADE EM… | crsfn-10372-000035-2024-50 | fichas/crsfn/2026-03.md |
+| acordao-crsfn | 14/2010 | 2026-07-15 | condenacao | INCIDENTE DE AUTOTUTELA ADMINISTRATIVA. CVM. MULTA. ERRO DE FATO VERIFICÁVEL. RETIFICAÇÃO DO EXTRATO DE JULGAMENTO DA CVM. ANULAÇÃO PARCIAL… | crsfn-10372-100071-2021-70-3 | fichas/crsfn/2026-03.md |
+| termo-compromisso | 19957.021536/2024-73 | 2026-06-23 | outro | O Colegiado, acompanhando o Comitê, aceitou proposta conjunta da Nova Futura CTVM e de uma pessoa física, de R$ 252.000,00 e R$ 126.000,00… | cvm-col-20260623-d3353 | fichas/tc/2026-02.md |
+| termo-compromisso | 19957.008954/2024-75 | 2026-06-23 | outro | O Colegiado, por unanimidade, no exercício de juízo de conveniência e oportunidade, devolveu ao Comitê de Termo de Compromisso a proposta… | cvm-col-20260623-d3203 | fichas/tc/2026-01.md |
+| acordao-crsfn | 19957.002306/2023-24 | 2026-06-09 | parcial | RECURSO ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. MANIPULAÇÃO DE PREÇOS DE AÇÕES PREFERENCIAIS. Manipulação de preços do ativo AZEV4… | crsfn-19957-002306-2023-24 | fichas/crsfn/2026-02.md |
+| pas | 19957.001524/2020-07 | 2026-05-27 | — | Relatório de PAS sobre operação fraudulenta com aportes de R$ 92,92 milhões de regime previdenciário municipal (cerca de 50,2% do… | cvm-pas-19957-001524-2020-07 | fichas/pas/2026-01.md |
+| termo-compromisso | 19957.011239/2025-09 | 2026-05-19 | rejeitado | O Colegiado, acompanhando o Comitê, rejeitou proposta de termo de compromisso de um emissor de ordens em opções: R$ 198.000,00 em 66… | cvm-col-20260519-d3531 | fichas/tc/2026-01.md |
+| termo-compromisso | 19957.007592/2025-86 | 2026-05-12 | aceito | O Colegiado aceitou, por unanimidade, a proposta de termo de compromisso de gestor de FIA acusado, em tese, de operações fraudulentas (art… | cvm-col-20260512-d3528 | fichas/tc/2026-01.md |
+| acordao-crsfn | 19957.000198/2020-11; 21/2013 | 2026-04-07 | parcial | RECURSOS ADMINISTRATIVOS. CVM. VALORES MOBILIÁRIOS. EXERCÍCIO DA ATIVIDADE DE ADMINISTRAÇÃO DE CARTEIRA SEM AUTORIZAÇÃO DA CVM. OPERAÇÃO… | crsfn-10372-100091-2022-21 | fichas/crsfn/2026-02.md |
+| termo-compromisso | 19957.007976/2020-94 | 2025-12-02 | rejeitado | O Colegiado rejeitou, por unanimidade, novas propostas de termo de compromisso de cinco proponentes, em PAS com outros 14 acusados, por… | cvm-col-20251202-d2655 | fichas/tc/2025-05.md |
+| pas | 19957.013886/2022-02 | 2025-11-25 | parcial | Apurar eventuais irregularidades relacionadas às práticas de manipulação de preços, operações fraudulentas e uso de práticas não… | cvm-pas-19957-013886-2022-02 | fichas/pas/2025-09.md |
+| termo-compromisso | 19957.018693/2024-00 | 2025-11-11 | aceito | O Colegiado aceitou, por unanimidade, a proposta conjunta de termo de compromisso de dois gestores de FIA acusados de manipulação de preços… | cvm-col-20251111-d3417 | fichas/tc/2025-05.md |
+| decisao-colegiado | 19957.003486/2025-23 | 2025-11-11 | conhecimento | O Colegiado, por unanimidade, não conheceu de recurso contra decisão da SMI que encerrou denúncia de suposta manobra fraudulenta com ações… | cvm-col-20251111-d3402 | fichas/colegiado/2025-11.md |
+| decisao-colegiado | 19957.002950/2025-64 | 2025-11-11 | conhecimento | O Colegiado, por unanimidade, não conheceu de recurso contra decisão da SMI que arquivou denúncia de possíveis irregularidades em… | cvm-col-20251111-d3384 | fichas/colegiado/2025-11.md |
+| acordao-crsfn | 19957.009395/2021-78 | 2025-11-02 | condenacao | RECURSOS ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. REALIZAÇÃO DE OPERAÇÃO FRAUDULENTA. Operações por meio de negócios coordenados, com o… | crsfn-19957-009395-2021-78 | fichas/crsfn/2025-06.md |
+| acordao-crsfn | 19957.007122/2023-51 | 2025-10-15 | condenacao | RECURSOS ADMINISTRATIVOS. CVM. MERCADO DE CAPITAIS. CRIAÇÃO DE CONDIÇÕES ARTIFICIAIS DE OFERTA DE VALORES MOBILIÁRIOS. Operações de mesmo… | crsfn-10372-000112-2024-71 | fichas/crsfn/2025-06.md |
+| pas | 19957.001450/2022-62 | 2025-10-14 | condenacao | Apurar infrações ao art. 3º da Instrução 306/1999 e art. 2º da Instrução CVM nº 558/2015, c/c art. 23, caput, da Lei nº 6.385/1976, pela… | cvm-pas-19957-001450-2022-62 | fichas/pas/2025-08.md |
+| termo-compromisso | 19957.003051/2024-06 | 2025-10-14 | aceito | O Colegiado, por unanimidade, aceitou proposta de termo de compromisso de R$ 1.224.000,00 da Riza Gestora e de seu executivo (R$ 612.000,00… | cvm-col-20251014-d3380 | fichas/tc/2025-04.md |
+| termo-compromisso | 19957.005754/2024-61; 19957.015425/2024-28 | 2025-09-23 | outro | O Colegiado aceitou, por unanimidade, proposta de termo de compromisso no PAS 19957.005754/2024-61 (ressarcimento de investidores e R$… | cvm-col-20250923-d3368-3369 | fichas/tc/2025-04.md |
+| acordao-crsfn | 19957.012197/2023-53 | 2025-09-16 | condenacao | RECURSO ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. VALORES MOBILIÁRIOS. CRIAÇÃO DE CONDIÇÕES ARTIFICIAIS DE DEMANDA. REALIZAÇÃO DE OPERAÇÕES… | crsfn-19957-012197-2023-53 | fichas/crsfn/2025-05.md |
+| acordao-crsfn | 19957.007224/2023-76 | 2025-09-16 | parcial | RECURSO ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. USO DE PRÁTICAS NÃO EQUITATIVAS. FRONT RUNNING. Infração caracterizada. Ajuste na… | crsfn-19957-007224-2023-76 | fichas/crsfn/2025-05.md |
+| acordao-crsfn | 06/2007 | 2025-09-16 | outro | EMBARGOS DE DECLARAÇÃO. ALEGADAS OMISSÕES, CONTRADIÇÕES E ERRO MATERIAL NO ACÓRDÃO CRSFN 25/2025. Inconformismo quanto à interpretação de… | crsfn-10372-100181-2020-51-2 | fichas/crsfn/2025-05.md |
+| pas | 19957.008087/2021-25 | 2025-08-19 | condenacao | Apurar suposta prática não equitativa no mercado de valores mobiliários, na modalidade front running. Multas. | cvm-pas-19957-008087-2021-25 | fichas/pas/2025-07.md |
+| pas | 19957.001300/2023-30 | 2025-08-12 | condenacao | Apurar suposta operação fraudulenta, administração irregular de carteira e atividade irregular como agente autônomo de investimento. Multas… | cvm-pas-19957-001300-2023-30 | fichas/pas/2025-06.md |
+| acordao-crsfn | 19957.008119/2023-54 | 2025-08-12 | condenacao | RECURSO ADMINISTRATIVO. CVM. VALORES MOBILIÁRIOS. OPERAÇÃO FRAUDULENTA NO MERCADO DE VALORES MOBILIÁRIOS. Infração aos arts. 3º e 2º… | crsfn-10372-000010-2025-37 | fichas/crsfn/2025-05.md |
+| pas | 19957.004388/2023-41 | 2025-08-05 | parcial | Apurar responsabilidades por suposta realização de operação fraudulenta no mercado de valores mobiliários e de oferta pública de valores… | cvm-pas-19957-004388-2023-41 | fichas/pas/2025-06.md |
+| termo-compromisso | 19957.006911/2021-11 | 2025-07-22 | rejeitado | O Colegiado rejeitou, por unanimidade, quatro propostas de termo de compromisso no PAS sobre o FIP Fontaine Ville Urbanismo Multiestratégia… | cvm-col-20250722-d3232 | fichas/tc/2025-03.md |
+| acordao-crsfn | 19957.011657/2019-40 | 2025-07-16 | condenacao | RECURSO ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. PRÁTICA NÃO EQUITATIVA NO MERCADO DE VALORES MOBILIÁRIOS (FRONT RUNNING). Infração ao… | crsfn-10372-000152-2024-13 | fichas/crsfn/2025-05.md |
+| termo-compromisso | 19957.002600/2020-93 | 2025-06-03 | rejeitado | O Colegiado, por unanimidade, rejeitou a proposta conjunta de termo de compromisso de R$ 640.000,00 da gestora e de cinco pessoas acusadas… | cvm-col-20250603-d3224 | fichas/tc/2025-03.md |
+| pas | 19957.018237/2024-51 | 2025-05-27 | condenacao | Apurar responsabilidades por infração ao art. 3°, da Resolução CVM n° 62/22, em decorrência de criação de condições artificiais de oferta… | cvm-pas-19957-018237-2024-51 | fichas/pas/2025-05.md |
+| termo-compromisso | 19957.007976/2020-94 | 2025-05-27 | — | Novas propostas de termo de compromisso de pessoas e empresas acusadas de operações fraudulentas com cotas de FII (ICVM 8/1979), em PAS da… | cvm-col-20250527-d2655 | fichas/tc/2025-03.md |
+| acordao-crsfn | 19957.014206/2022-60 | 2025-05-13 | condenacao | RECURSO ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. PRÁTICA NÃO EQUITATIVA. ADMINISTRAÇÃO IRREGULAR DE CARTEIRA VALORES MOBILIÁRIOS… | crsfn-10372-000138-2024-10 | fichas/crsfn/2025-02.md |
+| pas | 19957.009395/2021-78 | 2025-04-15 | parcial | Apurar suposta operação fraudulenta e possível quebra do dever de lealdade. Multa e Absolvição. | cvm-pas-19957-009395-2021-78 | fichas/pas/2025-04.md |
+| pas | 19957.001483/2020-41 | 2025-03-25 | condenacao | Apurar as responsabilidades de Miner Ltda. EPP, [pessoa física] e [pessoa física] pelo (i) exercício irregular da atividade de… | cvm-pas-19957-001483-2020-41 | fichas/pas/2025-02.md |
+| pas | 19957.008597/2023-64 | 2025-03-11 | condenacao | Criação de condições artificiais de oferta de valores mobiliários, em infração ao artigo 3º da RCVM nº 62/2022. Proibição temporária. | cvm-pas-19957-008597-2023-64 | fichas/pas/2025-01.md |
+| acordao-crsfn | 06/2007 | 2025-02-12 | parcial | RECURSOS ADMINISTRATIVOS. CVM. VALORES MOBILIÁRIOS. REALIZAÇÃO DE OPERAÇÕES FRAUDULENTAS NO MERCADO DE VALORES MOBILIÁRIOS POR MEIO DE… | crsfn-10372-100181-2020-51 | fichas/crsfn/2025-01.md |
+| acordao-crsfn | 19957.007862/2018-20 | 2025-02-11 | parcial | RECURSOS ADMINISTRATIVOS. CVM. FUNDOS DE INVESTIMENTOS. IRREGULARIDADES EM FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS. PRÁTICA DE… | crsfn-10372-100110-2023-09 | fichas/crsfn/2025-01.md |
+| acordao-crsfn | 19957.003680/2021-85 | 2025-02-11 | absolvicao | RECURSO ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. OPERAÇÃO FRAUDULENTA NO MERCADO DE VALORES MOBILIÁRIOS. Infração não caraterizada… | crsfn-10372-000066-2024-19 | fichas/crsfn/2025-01.md |
+| termo-compromisso | 19957.008087/2021-25 | 2025-01-28 | rejeitado | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou a proposta conjunta de termo de compromisso de R$ 600.000,00 de um gestor e… | cvm-col-20250128-d3212 | fichas/tc/2025-01.md |
+| pas | 19957.003611/2020-91 | 2024-12-19 | parcial | Apurar eventual responsabilidade de ex-diretores do IRB Brasil Resseguros S.A. por descumprimento do dever de diligência e pela prática… | cvm-pas-19957-003611-2020-91 | fichas/pas/2024-24.md |
+| termo-compromisso | 19957.003270/2023-04 | 2024-12-17 | aceito | O Colegiado aceitou, por unanimidade, a terceira proposta de termo de compromisso de um investidor, em nome próprio e da TGA (extinta), de… | cvm-col-20241217-d2926 | fichas/tc/2024-07.md |
+| pas | 19957.007224/2023-76 | 2024-12-10 | condenacao | Apurar suposto uso de práticas não equitativas, na modalidade de front running, em infração, em tese, ao disposto no inciso I c/c inciso… | cvm-pas-19957-007224-2023-76 | fichas/pas/2024-21.md |
+| pas | 19957.002595/2017-13 | 2024-12-10 | parcial | Apurar eventuais irregularidades em operações em bolsa e intermediadas por ICAP do Brasil Corretora de Títulos e Valores Mobiliários Ltda… | cvm-pas-19957-002595-2017-13 | fichas/pas/2024-21.md |
+| pas | 19957.000824/2022-22 | 2024-12-10 | condenacao | Apurar infrações ao item I c/c item II, alínea “c”, da Instrução CVM nº 08/1979, pela prática de operação fraudulenta no mercado de valores… | cvm-pas-19957-000824-2022-22 | fichas/pas/2024-21.md |
+| acordao-crsfn | 19957.008143/2018-26 | 2024-12-04 | condenacao | RECURSOS ADMINISTRATIVOS. CVM. MERCADO DE CAPITAIS. COMPANHIA ABERTA. PRÁTICA DE OPERAÇÃO FRAUDULENTA. EMISSÃO DE RELATÓRIO DE RISCO… | crsfn-10372-000072-2024-68 | fichas/crsfn/2024-09.md |
+| pas | 19957.007626/2019-94 | 2024-12-03 | parcial | Apurar supostas irregularidades de operação fraudulenta, atuação irregular no mercado de valores mobiliários e quebra de dever de… | cvm-pas-19957-007626-2019-94 | fichas/pas/2024-20.md |
+| pas | 19957.002306/2023-24 | 2024-11-26 | condenacao | Apurar responsabilidade de investidor por infração ao item I c/c item II, alínea “b”, da Instrução CVM n° 08/79, em razão de suposta… | cvm-pas-19957-002306-2023-24 | fichas/pas/2024-19.md |
+| acordao-crsfn | 19957.005801/2019-17 | 2024-11-12 | parcial | RECURSO ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. MANIPULAÇÃO DE PREÇOS POR MEIO DA UTILIZAÇÃO DE OFERTAS ARTIFICIAIS DE NEGOCIAÇÃO… | crsfn-10372-100151-2023-97 | fichas/crsfn/2024-08.md |
+| acordao-crsfn | 19957.005174/2019-14 | 2024-11-12 | outro | EMBARGOS DE DECLARAÇÃO. ALEGADA OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE NO ACÓRDÃO CRSFN Nº 91/2024. Inexistência dos vícios alegados na… | crsfn-10372-100089-2023-33-2 | fichas/crsfn/2024-07.md |
+| pas | 19957.012197/2023-53 | 2024-11-05 | parcial | Apurar eventual criação de condições artificiais de oferta de valores mobiliários e supostas operações com ações realizadas durante período… | cvm-pas-19957-012197-2023-53 | fichas/pas/2024-19.md |
+| pas | 19957.001865/2024-06 | 2024-11-05 | condenacao | Apurar responsabilidade por suposta prática de manipulação de preço por meio de ofertas artificiais de negociação, em infração ao artigo 3º… | cvm-pas-19957-001865-2024-06 | fichas/pas/2024-18.md |
+| termo-compromisso | 19957.001909/2020-66 | 2024-11-05 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de R$ 500.000,00, em três parcelas, de gestora de fundo multimercado, por supostas… | cvm-col-20241105-d3167 | fichas/tc/2024-06.md |
+| decisao-colegiado | 19957.008361/2023-28 | 2024-10-29 | conhecimento | O Colegiado, por unanimidade, não conheceu de recurso de fundo multimercado contra entendimento da SMI sobre reclamação de possível… | cvm-col-20241029-d3162 | fichas/colegiado/2024-12.md |
+| pas | 19957.008119/2023-54 | 2024-10-22 | parcial | Apurar supostas práticas de administração irregular de carteira de valores mobiliários, em infração, em tese, ao art. 2º, da Resolução CVM… | cvm-pas-19957-008119-2023-54 | fichas/pas/2024-17.md |
+| pas | 19957.006858/2019-25 | 2024-10-15 | parcial | Apurar eventual prática de operação fraudulenta na gestão de Fundos de Investimento em Direitos Creditórios - FIDCs, em infração à… | cvm-pas-19957-006858-2019-25 | fichas/pas/2024-16.md |
+| pas | 19957.001888/2024-11 | 2024-10-08 | condenacao | Apurar responsabilidade por suposta prática de operação fraudulenta no mercado de valores mobiliários , em infração ao art. 3º, da… | cvm-pas-19957-001888-2024-11 | fichas/pas/2024-15.md |
+| termo-compromisso | 19957.007224/2023-76 | 2024-09-17 | rejeitado | O Colegiado rejeitou, acompanhando o Comitê, propostas de termo de compromisso de três proponentes acusados de práticas não equitativas… | cvm-col-20240917-d3136 | fichas/tc/2024-05.md |
+| pas | 19957.007963/2020-15 | 2024-09-10 | condenacao | Apurar responsabilidades por suposta prática de operações fraudulentas no mercado de valores mobiliários, realização de oferta de valores… | cvm-pas-19957-007963-2020-15 | fichas/pas/2024-14.md |
+| termo-compromisso | 19957.004388/2023-41 | 2024-09-03 | rejeitado | O Colegiado rejeitou, acompanhando o Comitê, proposta conjunta de termo de compromisso de R$ 200.000,00 apresentada por dois proponentes no… | cvm-col-20240903-d3128 | fichas/tc/2024-05.md |
+| termo-compromisso | 19957.007976/2020-94 | 2024-09-03 | outro | O Colegiado decidiu, por unanimidade, enviar ao Comitê de Termo de Compromisso as novas propostas no PAS 19957.007976/2020-94 (Brazil… | cvm-col-20240903-d2655 | fichas/tc/2024-05.md |
+| pas | 19957.011657/2019-40 | 2024-08-27 | condenacao | Apurar infração ao item I c/c item II, alínea “d”, da Instrução CVM nº 08/1979, por suposta prática não equitativa no mercado de valores… | cvm-pas-19957-011657-2019-40-2 | fichas/pas/2024-13.md |
+| termo-compromisso | 19957.003270/2023-04 | 2024-08-27 | rejeitado | O Colegiado rejeitou nova proposta de termo de compromisso em nome próprio e de sociedade extinta, acompanhando o parecer do Comitê… | cvm-col-20240827-d2926 | fichas/tc/2024-05.md |
+| termo-compromisso | 19957.007976/2020-94 | 2024-08-27 | — | Novas propostas de termo de compromisso no PAS sobre operações supostamente fraudulentas com cotas do Brazil Realty FII (ICVM 8/1979)… | cvm-col-20240827-d2655 | fichas/tc/2024-04.md |
+| pas | 19957.003418/2023-01 | 2024-08-20 | parcial | Apuração de responsabilidade por (i) suposta operação fraudulenta no mercado de valores mobiliários; (ii) suposta oferta de valores… | cvm-pas-19957-003418-2023-01 | fichas/pas/2024-12.md |
+| acordao-crsfn | 19957.001921/2020-71 | 2024-08-13 | condenacao | RECURSOS ADMINISTRATIVOS. CVM. FUNDO DE INVESTIMENTO EM PARTICIPAÇÕES (FIP). PRÁTICA DE OPERAÇÃO FRAUDULENTA NO MERCADO DE VALORES… | crsfn-10372-100038-2023-10 | fichas/crsfn/2024-05.md |
+| termo-compromisso | 19957.015007/2023-50 | 2024-07-30 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de investidor pessoa física acusado de operação fraudulenta e manipulação de preços… | cvm-col-20240730-d3104 | fichas/tc/2024-04.md |
+| acordao-crsfn | 19957.005174/2019-14 | 2024-07-16 | parcial | RECURSOS ADMINISTRATIVOS. CVM. MERCADO DE VALORES MOBILIÁRIOS. USO DE PRÁTICA NÃO EQUITATIVA, NA MODALIDADE DE FRONT RUNNING. Infração ao… | crsfn-10372-100089-2023-33 | fichas/crsfn/2024-05.md |
+| pas | 19957.014206/2022-60 | 2024-07-04 | condenacao | Apurar responsabilidade por supostas (i) prática não equitativa, em infração ao item I c/c item II, alínea “d”, da Instrução CVM n° 8/1979… | cvm-pas-19957-014206-2022-60 | fichas/pas/2024-09.md |
+| pas | 19957.004791/2020-28 | 2024-06-18 | parcial | Apurar infrações ao item I c/c item II, alínea “c”, da Instrução CVM nº 08/1979, pela prática de operação fraudulenta no mercado de valores… | cvm-pas-19957-004791-2020-28 | fichas/pas/2024-07.md |
+| termo-compromisso | 19957.003919/2023-89 | 2024-06-13 | aceito | O Colegiado, por maioria, aceitou proposta conjunta de termo de compromisso de R$ 800.000,00: R$ 400.000,00 da gestora Ponta Sul… | cvm-col-20240613-d3078 | fichas/tc/2024-03.md |
+| pas | 19957.011029/2019-64 | 2024-05-21 | — | Apuração de responsabilidade por suposta operação fraudulenta no mercado de valores mobiliários em infração à alínea “c” do inciso II da… | cvm-pas-19957-011029-2019-64 | fichas/pas/2024-05.md |
+| acordao-crsfn | 19957.010399/2018-01; RJ2018/7696 | 2024-05-08 | condenacao | RECURSO ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. MANIPULAÇÃO DE PREÇOS. OPERAÇÕES ENTRE EMPRESAS DO MESMO GRUPO ECONÔMICO. Operações… | crsfn-10372-100166-2021-93 | fichas/crsfn/2024-03.md |
+| acordao-crsfn | RJ2013/8880 | 2024-05-08 | condenacao | RECURSO ADMINISTRATIVO. CVM. MANIPULAÇÃO DE PREÇOS. USO DE FATOS RELEVANTES E POSTAGENS EM REDES SOCIAIS. INSTRUÇÃO CVM nº 08/1979… | crsfn-10372-100059-2020-84 | fichas/crsfn/2024-03.md |
+| termo-compromisso | 19957.008316/2023-73 | 2024-05-07 | aceito | O Colegiado, por unanimidade, divergindo do Comitê, que opinou pela rejeição, aceitou proposta de termo de compromisso de agente autônomo… | cvm-col-20240507-d3058 | fichas/tc/2024-03.md |
+| termo-compromisso | 19957.008434/2019-03 | 2024-05-07 | aceito | O Colegiado, por unanimidade, aprovou propostas conjuntas de termo de compromisso de cinco proponentes em PAS sobre operações fraudulentas… | cvm-col-20240507-d2200 | fichas/tc/2024-02.md |
+| acordao-crsfn | 19957.005025/2021-61 | 2024-05-07 | condenacao | RECURSO ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. OPERAÇÃO FRAUDULENTA. FRAUDE DOCUMENTAL. GESTÃO IRREGULAR DE RECURSOS DE TERCEIROS… | crsfn-10372-100097-2023-80 | fichas/crsfn/2024-02.md |
+| pas | 19957.007122/2023-51 | 2024-04-30 | condenacao | Eventual criação de condições artificiais de oferta de valores mobiliários, em operações de mesmo comitente em leilão de valores… | cvm-pas-19957-007122-2023-51 | fichas/pas/2024-04.md |
+| termo-compromisso | 19957.001693/2023-81 | 2024-04-30 | aceito | O Colegiado, por unanimidade, aceitou proposta conjunta de termo de compromisso de quatro proponentes, de R$ 340.000,00 cada, totalizando… | cvm-col-20240430-d3053 | fichas/tc/2024-02.md |
+| termo-compromisso | 19957.007369/2023-77 | 2024-04-16 | rejeitado | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, rejeitou a proposta conjunta de termo de compromisso de MMS Participações… | cvm-col-20240416-d3049 | fichas/tc/2024-02.md |
+| termo-compromisso | 19957.007122/2023-51 | 2024-04-02 | rejeitado | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou proposta de termo de compromisso de acusado por operações de mesmo comitente… | cvm-col-20240402-d2994 | fichas/tc/2024-02.md |
+| termo-compromisso | 19957.008119/2023-54 | 2024-03-12 | rejeitado | O Colegiado, por unanimidade, rejeitou proposta de termo de compromisso (R$ 36.777,87 e afastamento de seis meses de atuação como… | cvm-col-20240312-d3031 | fichas/tc/2024-01.md |
+| termo-compromisso | 19957.003270/2023-04 | 2024-03-12 | rejeitado | O Colegiado, por unanimidade, rejeitou, contra a sugestão de aceitação do Comitê, proposta de termo de compromisso em PAS por criação de… | cvm-col-20240312-d2926 | fichas/tc/2024-01.md |
+| acordao-crsfn | 02/2014; 19957.010256/2019-72 | 2024-03-12 | outro | EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE VÍCIOS NO ACÓRDÃO CRSFN 117/2023. Preliminar de suspeição apreciada pela CVM. Inexistência de erro… | crsfn-10372-100174-2020-59-2 | fichas/crsfn/2024-02.md |
+| acordao-crsfn | RJ2019/6757 | 2024-03-08 | parcial | RECURSO ADMINISTRATIVO. CVM. MANIPULAÇÃO DE PREÇOS NO MERCADO DE VALORES MOBILIÁRIOS. OPERAÇÕES DE MESMO COMITENTE (OMC). Infração ao item… | crsfn-10372-100083-2021-02 | fichas/crsfn/2024-01.md |
+| pas | 19957.006657/2020-61 | 2024-02-27 | absolvicao | Apurar supostas operações fraudulentas no mercado de valores mobiliários, na forma conceituada pelo item II, “c”, da Instrução CVM n°… | cvm-pas-19957-006657-2020-61 | fichas/pas/2024-01.md |
+| acordao-crsfn | SP2014/465 | 2024-02-07 | condenacao | RECURSO ADMINISTRATIVO. CVM. PRÁTICA DE OPERAÇÃO FRAUDULENTA NO MERCADO DE VALORES MOBILIÁRIOS. NEGOCIAÇÕES EXCESSIVAS DE ATIVOS. COBRANÇA… | crsfn-10372-100310-2019-77 | fichas/crsfn/2024-01.md |
+| termo-compromisso | 19957.002011/2023-58 | 2024-01-30 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou propostas de termo de compromisso em PAS da SMI por práticas não equitativas e… | cvm-col-20240130-d3006 | fichas/tc/2024-01.md |
+| pas | 19957.008143/2018-26 | 2023-12-20 | parcial | Apuração de irregularidades relacionadas às debêntures de emissão da EBPH Participações S.A., em alegadas infrações ao disposto no item I… | cvm-pas-19957-008143-2018-26 | fichas/pas/2023-18.md |
+| pas | 19957.001124/2021-74 | 2023-12-12 | condenacao | Alegada prática de operação fraudulenta e de oferta de valores mobiliários sem obtenção de registro ou de sua dispensa. Multas e proibição… | cvm-pas-19957-001124-2021-74 | fichas/pas/2023-16.md |
+| pas | 19957.003680/2021-85 | 2023-11-30 | condenacao | Apurar responsabilidade por suposta operação fraudulenta no mercado de valores mobiliários, em infração aos itens I e II, alínea “c”, da… | cvm-pas-19957-003680-2021-85 | fichas/pas/2023-15.md |
+| pas | 19957.001616/2022-41 | 2023-11-14 | condenacao | Apurar responsabilidade por suposta manipulação de preços do ativo IDNT3, em infração ao item I c/c item II, alínea “b”, da Instrução CVM… | cvm-pas-19957-001616-2022-41 | fichas/pas/2023-14.md |
+| pas | 19957.001482/2020-04 | 2023-11-14 | condenacao | Apurar responsabilidade por suposta (i) criação de condições artificiais de demanda, oferta ou preço de valores mobiliários, em infração… | cvm-pas-19957-001482-2020-04 | fichas/pas/2023-14.md |
+| termo-compromisso | 19957.011449/2022-46 | 2023-11-07 | aceito | O Colegiado aceitou, por unanimidade, a proposta conjunta de termo de compromisso do Itaú Unibanco S.A. e de quatro pessoas naturais, em… | cvm-col-20231107-d2952 | fichas/tc/2023-07.md |
+| pas | 19957.005388/2017-11 | 2023-10-31 | absolvicao | Apurar eventual responsabilidade por operações com uso de práticas não equitativas, em violação à Instrução CVM nº 8/1979, II, alínea “d”… | cvm-pas-19957-005388-2017-11 | fichas/pas/2023-13.md |
+| pas | 19957.003549/2018-12 | 2023-10-31 | absolvicao | Apuração de operações com contratos derivativos de taxas de juros, com eventual uso de práticas não equitativas, em infração à Instrução… | cvm-pas-19957-003549-2018-12 | fichas/pas/2023-12.md |
+| acordao-crsfn | 21/2010 | 2023-10-10 | outro | EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÃO NO ACÓRDÃO CRSFN 71/2023. NÃO INDIVIDUALIZAÇÃO DA PENA. CONDENAÇÃO BASEADA EM PROVAS… | crsfn-10372-100066-2020-86-2 | fichas/crsfn/2023-07.md |
+| pas | 19957.005801/2019-17 | 2023-10-03 | condenacao | Apurar responsabilidade por violação ao item I c/c item II, alínea “b”, da Instrução CVM n° 08/1979, por suposta manipulação de preços por… | cvm-pas-19957-005801-2019-17 | fichas/pas/2023-12.md |
+| decisao-colegiado | 19957.005033/2018-11 | 2023-09-19 | nao-provido | O Colegiado, acompanhando o voto do Diretor Relator e as conclusões da SEP e da SMI, negou provimento a recurso contra decisão da SEP e da… | cvm-col-20230919-d1155 | fichas/colegiado/2023-10.md |
+| acordao-crsfn | 02/2014; 19957.010256/2019-72 | 2023-09-12 | condenacao | RECURSOS VOLUNTÁRIOS. MANIPULAÇÃO DE PREÇOS. REALIZAÇÃO DE NEGÓCIOS IRREGULARES NO MERCADO DE BOLSA COM AÇÕES PREFERENCIAIS DE EMISSÃO DO… | crsfn-10372-100174-2020-59 | fichas/crsfn/2023-07.md |
+| acordao-crsfn | RJ2019/2631 | 2023-09-12 | outro | EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÃO NO ACÓRDÃO CRSFN 69/2023. Matéria suscitada não foi objeto do recurso e não integrou a… | crsfn-10372-100118-2021-03-2 | fichas/crsfn/2023-07.md |
+| acordao-crsfn | 19957.002596/2017-68 | 2023-09-12 | condenacao | RECURSOS VOLUNTÁRIOS. RESPONSABILIDADE DE INVESTIDORES PELA SUPOSTA CRIAÇÃO DE CONDIÇÕES ARTIFICIAIS DE DEMANDA, OFERTA E PREÇO. MONEY… | crsfn-10372-100085-2022-74 | fichas/crsfn/2023-07.md |
+| termo-compromisso | 19957.013886/2022-02 | 2023-09-05 | rejeitado | O Colegiado rejeitou duas propostas de termo de compromisso sobre manipulação de preços do ativo CARE11 (RCVM 62): R$ 500.000,00 da Cortel… | cvm-col-20230905-d2866 | fichas/tc/2023-06.md |
+| termo-compromisso | 19957.007321/2022-88 | 2023-08-15 | aceito | O Colegiado, por unanimidade, aceitou propostas de termo de compromisso de dois investidores por suposta manipulação de preços de cotas do… | cvm-col-20230815-d2874 | fichas/tc/2023-05.md |
+| pas | 19957.010831/2019-37 | 2023-08-08 | condenacao | Apurar responsabilidade por violação ao item I c/c item II, alínea “b”, da Instrução CVM n° 08/1979, por suposta manipulação de preços por… | cvm-pas-19957-010831-2019-37 | fichas/pas/2023-08.md |
+| termo-compromisso | 19957.007321/2022-88 | 2023-06-27 | outro | O Colegiado, acolhendo sugestão do SGE e nos termos do art. 86, § 1º, da RCVM 45, determinou o retorno ao Comitê das propostas de termo de… | cvm-col-20230627-d2874 | fichas/tc/2023-04.md |
+| pas | 19957.004478/2018-75 | 2023-06-20 | parcial | Operação fraudulenta e descumprimento de dever de diligência relativo a falhas informacionais, no âmbito de oferta pública de distribuição… | cvm-pas-19957-004478-2018-75 | fichas/pas/2023-06.md |
+| acordao-crsfn | RJ2014/13977; 19957.001882/2020-10 | 2023-06-13 | outro | EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÃO OU CONTRADIÇÃO NO ACÓRDÃO CRSFN 23/2022. Omissão ou contradição não configuradas. Não cabimento… | crsfn-10372-100171-2020-15-2 | fichas/crsfn/2023-05.md |
+| acordao-crsfn | 19957.008901/2016-44; RJ2017/02029 | 2023-06-13 | condenacao | RECURSOS VOLUNTÁRIOS. OPERAÇÃO FRAUDULENTA NO MERCADO DE VALORES MOBILIÁRIOS. IRREGULARIDADES NA ADMINISTRAÇÃO, GESTÃO E CUSTÓDIA DE FUNDO… | crsfn-10372-100109-2022-95 | fichas/crsfn/2023-05.md |
+| pas | 19957.005025/2021-61 | 2023-05-30 | condenacao | Apurar eventual responsabilidade por infração à alínea “c” do item II da Instrução CVM n° 8/1979, em virtude da prática de operação… | cvm-pas-19957-005025-2021-61 | fichas/pas/2023-05.md |
+| pas | 19957.007862/2018-20 | 2023-05-09 | parcial | Apurar eventuais irregularidades em fundo de investimento em direitos creditórios em potencial infração (i) ao item I c/c item II, alínea… | cvm-pas-19957-007862-2018-20 | fichas/pas/2023-04.md |
+| acordao-crsfn | 19957.009351/2017-61; SP2017/441 | 2023-05-09 | condenacao | RECURSO VOLUNTÁRIO. Prática não equitativa no mercado de valores mobiliários. Infração ao item I c/c item II, “d”, da Instrução CVM nº 8 de… | crsfn-10372-100184-2020-94 | fichas/crsfn/2023-05.md |
+| acordao-crsfn | RJ2019/2631 | 2023-05-09 | parcial | RECURSO ADMINISTRATIVO. MANIPULAÇÃO DE PREÇOS. CRIAÇÃO DE CONDIÇÕES ARTIFICIAIS DE DEMANDA POR MEIO DA ESTRATÉGIA DE LAYERING. Apuração… | crsfn-10372-100118-2021-03 | fichas/crsfn/2023-05.md |
+| acordao-crsfn | 21/2010 | 2023-05-09 | condenacao | RECURSOS VOLUNTÁRIOS. VALORES MOBILIÁRIOS. CRIAÇÃO DE CONDIÇÕES ARTIFICIAIS DE DEMANDA, OFERTA OU PREÇO DE VALORES MOBILIÁRIOS. PRÁTICA NÃO… | crsfn-10372-100066-2020-86 | fichas/crsfn/2023-04.md |
+| acordao-crsfn | 19957.010098/2019-51; RJ2015/9195 | 2023-05-09 | condenacao | RECURSO VOLUNTÁRIO. PRÁTICA NÃO EQUITATIVA. OPERAÇÃO DE PIPE (PRIVATE INVESTMENT IN PUBLIC EQUITY). Infração prevista na Instrução CVM nº… | crsfn-10372-100054-2021-32 | fichas/crsfn/2023-04.md |
+| acordao-crsfn | 19957.008818/2018-37 | 2023-05-09 | condenacao | RECURSO VOLUNTÁRIO. CVM. RESPONSABILIDADE POR MANIPULAÇÃO DE PREÇO NO MERCADO DE VALORES MOBILIÁRIOS. Infração ao inciso I da Instrução CVM… | crsfn-10372-100013-2023-16 | fichas/crsfn/2023-04.md |
+| acordao-crsfn | 19957.007543/2019-03; RJ2019/5673 | 2023-05-09 | condenacao | RECURSO VOLUNTÁRIO. MANIPULAÇÃO DE PREÇOS. CRIAÇÃO DE CONDIÇÕES ARTIFICIAIS DE DEMANDA POR MEIO DA ESTRATÉGIA DE LAYERING. Apuração interna… | crsfn-10372-100012-2021-00 | fichas/crsfn/2023-04.md |
+| termo-compromisso | 19957.005025/2021-61 | 2023-04-25 | rejeitado | O Colegiado, acompanhando o voto do relator, rejeitou proposta de termo de compromisso de R$ 50.000,00 (incrementável até R$ 72.000,00) de… | cvm-col-20230425-d2376 | fichas/tc/2023-04.md |
+| acordao-crsfn | 07/2013 | 2023-04-12 | outro | EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÕES NO ACÓRDÃO CRSFN 176/2022. Omissões não caracterizadas. Embargos rejeitados. | crsfn-10372-100057-2020-95-2 | fichas/crsfn/2023-03.md |
+| termo-compromisso | 19957.005456/2021-28 | 2023-04-11 | rejeitado | O Colegiado rejeitou as três propostas de termo de compromisso (R$ 1.000.000,00 de cada pessoa natural e R$ 500.000,00 da pessoa jurídica)… | cvm-col-20230411-d2829 | fichas/tc/2023-03.md |
+| termo-compromisso | 19957.001524/2020-07 | 2023-04-04 | rejeitado | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou proposta de termo de compromisso de sócio e diretor da T.N. Gestão e… | cvm-col-20230404-d2781 | fichas/tc/2023-02.md |
+| acordao-crsfn | 19957.006511/2019-82 | 2023-03-08 | condenacao | RECURSO VOLUNTÁRIO. PRÁTICA DE MANIPULAÇÃO DE PREÇOS NO MERCADO DE VALORES MOBILIÁRIOS, POR MEIO DE LAYERING. Infração ao item I da… | crsfn-10372-100130-2022-91 | fichas/crsfn/2023-03.md |
+| termo-compromisso | 19957.008434/2019-03 | 2023-02-28 | rejeitado | O Colegiado rejeitou a proposta conjunta de termo de compromisso de três proponentes (R$ 3.000.000,00, R$ 3.000.000,00 e R$ 1.000.000,00… | cvm-col-20230228-d2200 | fichas/tc/2023-02.md |
+| acordao-crsfn | RJ-2016-7192 | 2023-02-08 | outro | EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OBSCURIDADE E ERRO MATERIAL. SUPOSTOS VÍCIOS REFERENTES À TITULARIDADE DO VOTO DE QUALIDADE. Não… | crsfn-10372-100315-2018-19-2 | fichas/crsfn/2023-01.md |
+| termo-compromisso | 19957.009395/2021-78 | 2023-01-10 | rejeitado | O Colegiado, por unanimidade e acompanhando o parecer do Comitê, rejeitou proposta conjunta de termo de compromisso de gestora de clube de… | cvm-col-20230110-d2756 | fichas/tc/2023-01.md |
+| termo-compromisso | 19957.007976/2020-94 | 2022-12-20 | rejeitado | O Colegiado, por unanimidade e acompanhando o parecer do Comitê, rejeitou quatro propostas de termo de compromisso no PAS sobre suposta… | cvm-col-20221220-d2655 | fichas/tc/2022-06.md |
+| acordao-crsfn | 14/2010 | 2022-12-08 | condenacao | RECURSOS VOLUNTÁRIOS. USO DE PRÁTICAS NÃO EQUITATIVAS NO MERCADO DE VALORES MOBILIÁRIOS. DESCUMPRIMENTO DO DEVER DE DILIGÊNCIA, FALHAS NO… | crsfn-10372-100071-2021-70 | fichas/crsfn/2022-09.md |
+| acordao-crsfn | 07/2013 | 2022-12-08 | condenacao | RECURSOS VOLUNTÁRIOS. MERCADO DE VALORES MOBILIÁRIOS. PARTICIPAÇÃO NA CRIAÇÃO DE CONDIÇÕES ARTIFICIAIS DE DEMANDA, OFERTA E PREÇO DE… | crsfn-10372-100057-2020-95 | fichas/crsfn/2022-09.md |
+| acordao-crsfn | 19957.000511/2018-98; RJ2018/00373 | 2022-12-07 | parcial | RECURSO VOLUNTÁRIO. MANIPULAÇÃO DE PREÇOS. OPERAÇÕES DE MESMO COMITENTE. Infração ao item II, alínea "b", da Instrução CVM nº 8/79 e vedada… | crsfn-10372-100136-2021-87 | fichas/crsfn/2022-08.md |
+| pas | 19957.008818/2018-37 | 2022-11-29 | condenacao | Responsabilidade por manipulação de preço no mercado de valores mobiliários, em infração ao inciso I da Instrução CVM nº 8/1979, conforme… | cvm-pas-19957-008818-2018-37 | fichas/pas/2022-12.md |
+| termo-compromisso | 19957.006441/2021-87; 19957.010180/2022-81 | 2022-11-16 | aceito | O Colegiado aceitou, acompanhando o Comitê, proposta global de termo de compromisso relativa a manipulação de preços (PAS sobre CARE11 e PA… | cvm-col-20221116-d2720 | fichas/tc/2022-05.md |
+| pas | 19957.001921/2020-71 | 2022-11-08 | parcial | Fundo de Investimento em Participações (FIP). Prática de operação fraudulenta no mercado de valores mobiliários, conforme definida na letra… | cvm-pas-19957-001921-2020-71 | fichas/pas/2022-11.md |
+| acordao-crsfn | SP2018/15 | 2022-11-08 | condenacao | RECURSO VOLUNTÁRIO. PRÁTICA NÃO EQUITATIVA NO MERCADO DE VALORES MOBILIÁRIOS. Responsabilidade de administradores da CORVAL Corretora de… | crsfn-10372-100054-2020-51 | fichas/crsfn/2022-08.md |
+| acordao-crsfn | SP2014/230 | 2022-11-08 | parcial | RECURSOS VOLUNTÁRIOS. CRIAÇÃO DE CONDIÇÕES ARTIFICIAIS DE DEMANDA, OFERTA E PREÇO NO MERCADO DE VALORES MOBILIÁRIOS. INFRAÇÃO À INSTRUÇÃO… | crsfn-10372-100034-2019-47 | fichas/crsfn/2022-07.md |
+| acordao-crsfn | 19957.000592/2019-15; RJ2019/958 | 2022-11-07 | outro | EMBARGOS DE DECLARAÇÃO. LAYERING. ALEGAÇÃO DE CONTRADIÇÃO, OBSCURIDADE OU OMISSÃO. Não caracterizados os requisitos para embargos. Embargos… | crsfn-10372-100011-2021-57-2 | fichas/crsfn/2022-07.md |
+| pas | 19957.005174/2019-14 | 2022-10-11 | condenacao | Prática não equitativa no mercado de valores mobiliários, na modalidade de front running, na forma conceituada pelo item II, “d”, da… | cvm-pas-19957-005174-2019-14 | fichas/pas/2022-09.md |
+| pas | 19957.004852/2019-13 | 2022-08-30 | condenacao | Responsabilidade por operações fraudulentas, em infração ao Item I da Instrução CVM nº 8/1979, consoante definida no Item II, “c”.Multa | cvm-pas-19957-004852-2019-13 | fichas/pas/2022-07.md |
+| termo-compromisso | 19957.005385/2020-82 | 2022-08-16 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou nova proposta de termo de compromisso de investidor (diretor da área de… | cvm-col-20220816-d2575 | fichas/tc/2022-04.md |
+| acordao-crsfn | 06/2012 | 2022-07-12 | outro | EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÃO E CONTRADIÇÃO. Argumentos não procedentes. Embargos rejeitados. | crsfn-10372-100268-2019-94-2 | fichas/crsfn/2022-05.md |
+| acordao-crsfn | 19957.003798/2017-27; SP2017/316 | 2022-07-12 | condenacao | RECURSOS VOLUNTÁRIOS. MANIPULAÇÃO DE PREÇOS NO MERCADO DE VALORES MOBILIÁRIOS. CONTRATOS FUTUROS DE MILHO NO PERÍODO DE 02.04.2015 A… | crsfn-10372-100179-2020-81 | fichas/crsfn/2022-05.md |
+| acordao-crsfn | 19957.005452/2016-82 | 2022-07-12 | condenacao | RECURSO VOLUNTÁRIO. MANIPULAÇÃO DE PREÇOS NO MERCADO DE VALORES MOBILIÁRIOS POR MEIO DA INSERÇÃO DE OFERTAS ARTIFICIAIS DE COMPRA E DE… | crsfn-10372-100175-2020-01 | fichas/crsfn/2022-05.md |
+| acordao-crsfn | 19957.009864/2019-34; RJ2019/7806 | 2022-07-12 | condenacao | RECURSO VOLUNTÁRIO. MANIPULAÇÃO DE PREÇOS. PRÁTICA DE SPOOFING POR CONDUTA REITERADA E PRÁTICA SISTEMÁTICA IDENTIFICADA EM DIFERENTES… | crsfn-10372-100057-2021-76 | fichas/crsfn/2022-05.md |
+| acordao-crsfn | RJ2018/4165 | 2022-07-12 | parcial | EMENTA: RECURSO VOLUNTÁRIO. MANIPULAÇÃO DE PREÇOS NO MERCADO DE VALORES MOBILIÁRIOS POR MEIO DA INSERÇÃO DE OFERTAS ARTIFICIAIS DE COMPRA E… | crsfn-10372-100033-2020-36 | fichas/crsfn/2022-05.md |
+| pas | 19957.009452/2018-13 | 2022-06-21 | condenacao | Manipulação de preços por meio da utilização de ofertas artificiais de negociação, nas modalidades layering e spoofing, em infração ao… | cvm-pas-19957-009452-2018-13 | fichas/pas/2022-06.md |
+| pas | 19957.006511/2019-82 | 2022-06-14 | condenacao | Prática de manipulação de preços, por meio de layering, em infração ao item I da Instrução CVM nº 8/1979, consoante definida no item II… | cvm-pas-19957-006511-2019-82 | fichas/pas/2022-05.md |
+| pas | 19957.008901/2016-44 | 2022-05-17 | condenacao | Operação fraudulenta no mercado de valores mobiliários, em violação ao item II, “c”, da Instrução CVM n° 08/1979, assim como… | cvm-pas-19957-008901-2016-44 | fichas/pas/2022-05.md |
+| acordao-crsfn | 19957.000592/2019-15; RJ2019/958 | 2022-05-10 | condenacao | RECURSO VOLUNTÁRIO. PRÁTICA DE MANIPULAÇÃO DE PREÇOS NO MERCADO DE VALORES MOBILIÁRIOS POR MEIO DA CRIAÇÃO DE CAMADAS ARTIFICIAIS DE… | crsfn-10372-100011-2021-57 | fichas/crsfn/2022-04.md |
+| acordao-crsfn | RJ-2016-7192 | 2022-04-13 | condenacao | RECURSOS VOLUNTÁRIOS. MANIPULAÇÃO DE PREÇOS POR MEIO DA INSERÇÃO DE ORDENS ARTIFICIAIS DE COMPRA E VENDA (Spoofing). Infração ao inciso I… | crsfn-10372-100315-2018-19 | fichas/crsfn/2022-03.md |
+| acordao-crsfn | RJ2014/12081 | 2022-04-12 | parcial | RECURSOS VOLUNTÁRIOS. PRÁTICA DE OPERAÇÃO FRAUDULENTA NO MERCADO DE VALORES MOBILIÁRIOS. Falta com o dever de diligência. Falhas na… | crsfn-10372-100317-2019-99 | fichas/crsfn/2022-03.md |
+| pas | 19957.000198/2020-11; 21/2013 | 2022-03-29 | parcial | Exercício da atividade de administração de carteira, sem autorização da CVM, em infração ao art. 3º da Instrução CVM nº 306/1999, c/c… | cvm-pas-19957-000198-2020-11 | fichas/pas/2022-03.md |
+| pas | 19957.002596/2017-68 | 2022-03-15 | parcial | Responsabilidade de investidores pela suposta criação de condições artificiais de demanda, oferta e preço, nos termos definidos no inciso… | cvm-pas-19957-002596-2017-68 | fichas/pas/2022-02.md |
+| termo-compromisso | 19957.000198/2020-11 | 2022-03-08 | rejeitado | O Colegiado rejeitou nova proposta de termo de compromisso, de R$ 825.328,17, apresentada por integrante do sistema de distribuição acusado… | cvm-col-20220308-d1489 | fichas/tc/2022-01.md |
+| termo-compromisso | 19957.006657/2020-61 | 2022-02-15 | rejeitado | Apreciação de propostas de termo de compromisso. PAS SEI 19957.006657/2020-61. | cvm-col-20220215-d2291 | fichas/tc/2022-01.md |
+| termo-compromisso | 19957.005801/2019-17 | 2022-02-15 | rejeitado | O Colegiado rejeitou nova proposta de termo de compromisso, de R$ 292.710,00, apresentada por investidor acusado de manipulação de preços… | cvm-col-20220215-d1768 | fichas/tc/2022-01.md |
+| decisao-colegiado | 8/1979; 19957.009317/2021-73 | 2022-01-18 | outro | O Colegiado aprovou, sem audiência pública nem AIR por não haver mudança de mérito, a Resolução CVM 62/2022, que veda condições… | cvm-col-20220118-d2441 | fichas/colegiado/2022-01.md |
+| termo-compromisso | 19957.008699/2019-01 | 2021-12-21 | rejeitado | O Colegiado rejeitou nova proposta de termo de compromisso de um diretor técnico de gestora, em PAS por operação, em tese, fraudulenta e… | cvm-col-20211221-d1920 | fichas/tc/2021-09.md |
+| termo-compromisso | 19957.005174/2019-14 | 2021-12-14 | rejeitado | O Colegiado rejeitou as propostas de termo de compromisso de cinco proponentes (pagamento conjunto de R$ 934.500,00, em parcela única) e de… | cvm-col-20211214-d2430 | fichas/tc/2021-08.md |
+| acordao-crsfn | 06/2012 | 2021-12-07 | condenacao | RECURSOS VOLUNTÁRIOS. Práticas não equitativas no mercado de valores mobiliários. Infração ao item I, c/c item II, alínea “d”, da Instrução… | crsfn-10372-100268-2019-94 | fichas/crsfn/2021-06.md |
+| termo-compromisso | 19957.008721/2018-24 | 2021-11-30 | rejeitado | O Colegiado rejeitou as propostas de termo de compromisso: a conjunta da consultora e de dois sócios (R$ 264.977,93, em 24 parcelas) e a… | cvm-col-20211130-d2363 | fichas/tc/2021-08.md |
+| termo-compromisso | 19957.007626/2019-94 | 2021-11-09 | rejeitado | O Colegiado rejeitou, por unanimidade, as propostas de termo de compromisso no PAS por operação fraudulenta envolvendo fundo de… | cvm-col-20211109-d2182 | fichas/tc/2021-07.md |
+| termo-compromisso | 19957.008434/2019-03 | 2021-10-19 | rejeitado | Por unanimidade, o Colegiado rejeitou proposta conjunta de termo de compromisso de dois administradores da Bracol Holding (R$ 200.000,00 e… | cvm-col-20211019-d2200 | fichas/tc/2021-07.md |
+| acordao-crsfn | 08/2004 | 2021-06-14 | outro | EMBARGOS DE DECLARAÇÃO. Contradição na apreciação de Recurso de Ofício. Contradição no entendimento de não ter ocorrido prescrição… | crsfn-edcl-13732 | fichas/crsfn/2021-02.md |
+| termo-compromisso | 19957.003801/2018-93 | 2021-06-08 | aceito | O Colegiado, acompanhando o parecer do Comitê, aceitou as propostas de termo de compromisso apresentadas por pessoas físicas e pela BTG… | cvm-col-20210608-d2058 | fichas/tc/2021-04.md |
+| termo-compromisso | 19957.000791/2020-59 | 2021-06-01 | aceito | O Colegiado aceitou proposta de termo de compromisso de Goldman Sachs do Brasil, Goldman Sachs International e um diretor de tesouraria… | cvm-col-20210601-d2198 | fichas/tc/2021-04.md |
+| termo-compromisso | 19957.006910/2019-43 | 2021-05-04 | aceito | O Colegiado aceitou nova proposta de termo de compromisso de banco, sua acionista estrangeira e dois representantes, acusados de operações… | cvm-col-20210504-d1884 | fichas/tc/2021-03.md |
+| acordao-crsfn | SP2013/448 | 2021-04-13 | condenacao | RECURSO VOLUNTÁRIO. Recurso Voluntário. Prática não equitativa no mercado de valores mobiliários. Recursos conhecidos e desprovidos. | crsfn-10372-100089-2019-57 | fichas/crsfn/2021-01.md |
+| termo-compromisso | 19957.000511/2018-98 | 2021-03-23 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso de investidor acusado de manipulação de preço da WLMM3 em 2017, acompanhando o… | cvm-col-20210323-d1104 | fichas/tc/2021-02.md |
+| termo-compromisso | 19957.001921/2020-71 | 2021-03-16 | rejeitado | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou proposta conjunta de termo de compromisso de corretora e dois diretores (R$… | cvm-col-20210316-d1974 | fichas/tc/2021-02.md |
+| termo-compromisso | 19957.006858/2019-25 | 2021-03-16 | rejeitado | O Colegiado rejeitou, por unanimidade, quatro propostas de termo de compromisso, acompanhando o parecer do Comitê: da gestora Florim e seu… | cvm-col-20210316-d1952 | fichas/tc/2021-02.md |
+| termo-compromisso | 19957.008699/2019-01; 03/2016 | 2021-02-23 | rejeitado | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, rejeitou as propostas de termo de compromisso da DTVM e de três pessoas… | cvm-col-20210223-d1920 | fichas/tc/2021-01.md |
+| termo-compromisso | 19957.003801/2018-93 | 2021-02-09 | outro | O Colegiado determinou, por unanimidade, o retorno ao Comitê de Termo de Compromisso para negociação (ICVM 607/2019, art. 86, §1º). Em PAS… | cvm-col-20210209-d2058 | fichas/tc/2021-01.md |
+| pas | 19957.011657/2019-40; SP2020/35 | 2021-01-12 | condenacao | Prática não equitativa em operações com contratos futuros de milho: Infração ao item I c/c item II, letra “d”, da Instrução CVM nº 08/1979… | cvm-pas-19957-011657-2019-40 | fichas/pas/2021-01.md |
+| termo-compromisso | 19957.009798/2019-01 | 2020-12-22 | outro | O Colegiado deliberou, por unanimidade, que os fatos trazidos após a reunião de 01.12.2020 não justificam revisar a decisão que aceitou a… | cvm-col-20201222-d1836 | fichas/tc/2020-07.md |
+| acordao-crsfn | RJ2015/2027 | 2020-11-17 | condenacao | RECURSOS VOLUNTÁRIOS. Operações fraudulentas com dano vultoso ao patrimônio de fundo de pensão. Recursos Voluntários conhecidos e… | crsfn-10372-100333-2019-81 | fichas/crsfn/2020-09.md |
+| termo-compromisso | 19957.009798/2019-01 | 2020-11-03 | — | Discussão de propostas de Termo de Compromisso de oito proponentes, em PAS instaurado pela SRE por infrações à ICVM 8/79, à ICVM 476/09 e à… | cvm-col-20201103-d1836 | fichas/tc/2020-06.md |
+| termo-compromisso | 19957.000198/2020-11; 21/2013 | 2020-09-29 | rejeitado | O Colegiado rejeitou as propostas de termo de compromisso de agentes autônomos de investimento e de integrante do sistema de distribuição… | cvm-col-20200929-d1489 | fichas/tc/2020-06.md |
+| acordao-crsfn | 30/2005 | 2020-09-20 | outro | EMBARGOS DE DECLARAÇÃO. Ausência de demonstração de ilícito e de nexo de causalidade e outras omissões no Acórdão CRSFN. Embargo conhecido… | crsfn-edcl-13803 | fichas/crsfn/2020-07.md |
+| acordao-crsfn | RJ2016/7486 | 2020-09-20 | condenacao | RECURSO VOLUNTÁRIO. Responsabilidade de Agente Autônomo de Investimentos por realização de operação fraudulenta. Fraude configurada… | crsfn-10372-100323-2019-46 | fichas/crsfn/2020-07.md |
+| termo-compromisso | 19957.004923/2016-35 | 2020-09-08 | aceito | O Colegiado, por maioria, aceitou proposta de adesão ao termo de compromisso já firmado por outros acusados, com base no art. 84 da ICVM… | cvm-col-20200908-d0513 | fichas/tc/2020-06.md |
+| acordao-crsfn | RJ2014/13353 | 2020-08-25 | condenacao | RECURSOS VOLUNTÁRIOS. Práticas não equitativas no mercado de valores mobiliários. Recursos conhecido e não providos. | crsfn-10372-100295-2018-86 | fichas/crsfn/2020-05.md |
+| termo-compromisso | 19957.006910/2019-43 | 2020-08-18 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de banco e de um executivo acusados de operações sem intuito de transferência de… | cvm-col-20200818-d1884 | fichas/tc/2020-06.md |
+| termo-compromisso | 19957.008751/2019-11 | 2020-08-04 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de investidor acusado de manipulação de preços (Instrução CVM 8/79) por operações de… | cvm-col-20200804-d1872 | fichas/tc/2020-06.md |
+| acordao-crsfn | RJ-2016-5348 | 2020-07-22 | condenacao | RECURSO VOLUNTÁRIO. Cometimento da infração de criar condições artificiais de oferta, preço e demanda de valores mobiliários, infringindo o… | crsfn-10372-100314-2018-74 | fichas/crsfn/2020-05.md |
+| pas | 19957.010098/2019-51; RJ2015/9195 | 2020-07-07 | parcial | Uso de práticas não equitativas em operações de PIPE (Private Investment in Public Equity), definido no item II, “d”, da Instrução CVM n°… | cvm-pas-19957-010098-2019-51 | fichas/pas/2020-06.md |
+| termo-compromisso | 19957.004091/2019-08 | 2020-07-07 | rejeitado | O Colegiado rejeitou, por unanimidade, acompanhando o Comitê, proposta de termo de compromisso de investidor acusado de manipulação de… | cvm-col-20200707-d1851 | fichas/tc/2020-05.md |
+| termo-compromisso | 19957.006511/2019-82 | 2020-06-24 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de investidor acusado de manipulação de preços por ofertas artificiais (layering)… | cvm-col-20200624-d1842 | fichas/tc/2020-05.md |
+| pas | 19957.009351/2017-61; SP2017/441 | 2020-06-23 | condenacao | Prática não equitativa no mercado de valores mobiliários. Infração ao item I da Instrução CVM nº 8/1979. Multa. Data decisão CVM Tue Jun 23… | cvm-pas-19957-009351-2017-61 | fichas/pas/2020-05.md |
+| pas | 19957.003798/2017-27; SP2017/316 | 2020-06-09 | condenacao | Manipulação de preços – Contratos futuros de milho. Infração ao inciso I c/c inciso II, letra “b”, da Instrução CVM n° 08/1979. Multas… | cvm-pas-19957-003798-2017-27 | fichas/pas/2020-04.md |
+| decisao-colegiado | 19957.005013/2019-12 | 2020-06-09 | conhecimento | O Colegiado, por unanimidade, não conheceu do recurso da associação contra decisão da SEP que entendeu não caber processo sancionador em… | cvm-col-20200609-d1830 | fichas/colegiado/2020-09.md |
+| termo-compromisso | 19957.004923/2016-35 | 2020-06-09 | aceito | O Colegiado aceitou, por unanimidade, acompanhando o voto do relator, proposta de termo de compromisso de gestora e diretor responsável… | cvm-col-20200609-d0513 | fichas/tc/2020-05.md |
+| pas | 19957.007809/2018-29; RJ2018/5150 | 2020-06-02 | condenacao | Manipulação de preços – Layering. Infração ao inciso I c/c inciso II, letra “b” da Instrução CVM n° 08/1979. Multa. Data decisão CVM Tue… | cvm-pas-19957-007809-2018-29 | fichas/pas/2020-03.md |
+| pas | 19957.007543/2019-03; RJ2019/5673 | 2020-06-02 | condenacao | Manipulação de preços – Layering. Infração ao inciso I c/c inciso II, letra “b” da Instrução CVM n° 08/1979. Multa. Data decisão CVM Tue… | cvm-pas-19957-007543-2019-03 | fichas/pas/2020-03.md |
+| pas | 19957.005452/2016-82; IA2016/5452 | 2020-06-02 | condenacao | Manipulação de preços – Layering. Infração ao inciso I c/c inciso II, letra “b” da Instrução CVM n° 08/1979. Multa. Data decisão CVM Tue… | cvm-pas-19957-005452-2016-82 | fichas/pas/2020-03.md |
+| pas | 19957.000592/2019-15; RJ2019/958 | 2020-06-02 | condenacao | Manipulação de preços – Layering. Infração ao inciso I c/c inciso II, letra “b” da Instrução CVM n° 08/1979. Multa. Data decisão CVM Tue… | cvm-pas-19957-000592-2019-15 | fichas/pas/2020-03.md |
+| termo-compromisso | 19957.005641/2018-17 | 2020-05-19 | aceito | O Colegiado, por unanimidade, aceitou proposta de termo de compromisso da gestora de dois fundos e de um emissor de ordens, acompanhando o… | cvm-col-20200519-d1805 | fichas/tc/2020-04.md |
+| termo-compromisso | 19957.008816/2018-48 | 2020-05-19 | rejeitado | O Colegiado rejeitou, por unanimidade, acompanhando o Comitê, proposta de termo de compromisso de companhia e de dois sócios acusados de… | cvm-col-20200519-d1535 | fichas/tc/2020-04.md |
+| termo-compromisso | 19957.004471/2019-34 | 2020-05-05 | aceito | O Colegiado aceitou, por unanimidade, acompanhando o parecer do Comitê, proposta conjunta de termo de compromisso de investidora e seu… | cvm-col-20200505-d1790 | fichas/tc/2020-03.md |
+| termo-compromisso | 19957.004852/2019-13 | 2020-04-22 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de um acusado por operações fraudulentas no mercado (itens I e II, alínea c, da… | cvm-col-20200422-d1785 | fichas/tc/2020-03.md |
+| acordao-crsfn | 30/2005 | 2020-04-14 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Realização de práticas não equitativas e operações fraudulentas no mercado de valores mobiliários. Falta… | crsfn-13083-2 | fichas/crsfn/2020-03.md |
+| termo-compromisso | 19957.005801/2019-17 | 2020-04-07 | rejeitado | O Colegiado rejeitou, por unanimidade, proposta de termo de compromisso de R$ 10.000,00 de investidor acusado de manipulação de preços… | cvm-col-20200407-d1768 | fichas/tc/2020-03.md |
+| termo-compromisso | 19957.007862/2018-20 | 2020-03-31 | rejeitado | O Colegiado rejeitou todas as propostas de termo de compromisso de proponentes acusados de operação fraudulenta e falha na fiscalização de… | cvm-col-20200331-d1476 | fichas/tc/2020-02.md |
+| acordao-crsfn | 08/2004 | 2020-03-10 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Práticas não equitativas no mercado de valores mobiliários. Especificações tardias de ordens na BM&F… | crsfn-13732 | fichas/crsfn/2020-02.md |
+| pas | 14/2010; 19957.010796/2019-56 | 2020-03-03 | parcial | Prática não equitativa no mercado de valores, em infração ao inciso I da Instrução CVM nº 08/79, no tipo descrito no inciso II, ‘d’, e… | cvm-pas-19957-010796-2019-56 | fichas/pas/2020-02.md |
+| termo-compromisso | 19957.011708/2017-71 | 2020-02-18 | aceito | O Colegiado aceitou proposta complementar de termo de compromisso do grupo Morgan Stanley em PAS sobre manipulação de preços da OGXP3, com… | cvm-col-20200218-d1475 | fichas/tc/2020-01.md |
+| termo-compromisso | 19957.008196/2019-28 | 2020-02-11 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de diretor responsável por administração de carteiras, em apuração de operação… | cvm-col-20200211-d1715 | fichas/tc/2020-01.md |
+| pas | 02/2014; 19957.010256/2019-72 | 2019-12-17 | parcial | Ementa : Realização de negócios irregulares no mercado de bolsa com ações preferenciais de emissão do Banco Cruzeiro do Sul S.A… | cvm-pas-19957-010256-2019-72 | fichas/pas/2019-24.md |
+| decisao-colegiado | 19957.005197/2016-78 | 2019-12-17 | conhecimento | O Colegiado, por unanimidade, não conheceu de recurso da companhia contra arquivamento, pela SMI, de processo sobre suposta manipulação de… | cvm-col-20191217-d1565 | fichas/colegiado/2019-21.md |
+| termo-compromisso | 19957.010399/2018-01 | 2019-11-19 | rejeitado | O Colegiado, por unanimidade, rejeitou proposta de termo de compromisso de R$ 300.000,00 de acionista controlador de companhia aberta por… | cvm-col-20191119-d1603 | fichas/tc/2019-06.md |
+| acordao-crsfn | RJ2016/1742 | 2019-10-22 | condenacao | RECURSO VOLUNTÁRIO. Manipulação de preço. Negociações diretas sem interesse econômico legítimo. Intenção de elevar ou impedir queda do… | crsfn-10372-100293-2017-14 | fichas/crsfn/2019-03.md |
+| pas | 21/2010 | 2019-10-15 | parcial | Criação de condições artificiais de demanda, oferta ou preço de valores mobiliários. Prática não equitativa no mercado de valores… | cvm-pas-21-2010 | fichas/pas/2019-17.md |
+| termo-compromisso | 19957.003057/2019-16 | 2019-10-15 | aceito | O Colegiado aceitou, por unanimidade, as duas propostas de termo de compromisso, de R$ 300.000,00 e R$ 200.000,00, acompanhando o parecer… | cvm-col-20191015-d1574 | fichas/tc/2019-06.md |
+| pas | 07/2013 | 2019-10-08 | condenacao | Apurar irregularidades na negociação de contratos futuros intermediados pela Walpires S.A. Corretorade Câmbio, Títulos e Valores… | cvm-pas-07-2013 | fichas/pas/2019-17.md |
+| pas | RJ2018/4165 | 2019-10-01 | condenacao | Manipulação de preços no mercado de valores mobiliários por meio da inserção de ofertas artificiais de compra e de venda de ativos para… | cvm-pas-rj2018-4165 | fichas/pas/2019-16.md |
+| termo-compromisso | 19957.007651/2018-97 | 2019-09-24 | aceito | O Colegiado, por unanimidade e acompanhando o Comitê, aceitou a proposta de termo de compromisso da Louis Dreyfus Company Brasil S/A e de… | cvm-col-20190924-d1548 | fichas/tc/2019-05.md |
+| acordao-crsfn | RJ2015/9909 | 2019-09-24 | condenacao | RECURSO VOLUNTÁRIO. Operação fraudulenta no mercado de valores mobiliários, resultando em perdas substanciais a fundo de pensão… | crsfn-10372-100061-2018-39 | fichas/crsfn/2019-03.md |
+| acordao-crsfn | RJ2017/646 | 2019-08-27 | condenacao | RECURSO VOLUNTÁRIO. Manipulação de preços. Infração caracterizada e recurso desprovido. Multa. | crsfn-10372-100020-2019-23 | fichas/crsfn/2019-03.md |
+| termo-compromisso | 19957.002595/2017-13 | 2019-08-20 | outro | O Colegiado, por unanimidade e acompanhando o Comitê, aceitou as propostas de termo de compromisso da ICAP, de um diretor dela, de um… | cvm-col-20190820-d1286 | fichas/tc/2019-05.md |
+| pas | SP2018-15 | 2019-08-13 | parcial | Ementa : Prática de operação fraudulenta no mercado de valores mobiliários por administradores e funcionários da CORVAL Corretora de… | cvm-pas-sp2018-0015 | fichas/pas/2019-14.md |
+| termo-compromisso | 19957.002437/2016-82 | 2019-08-13 | aceito | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, aceitou proposta de termo de compromisso de administradora de carteiras e… | cvm-col-20190813-d1495 | fichas/tc/2019-04.md |
+| termo-compromisso | 19957.011708/2017-71 | 2019-07-30 | — | Proposta de termo de compromisso de empresas do grupo Morgan Stanley (gestora, banco, cotistas e investidor não residente) acusadas de… | cvm-col-20190730-d1475 | fichas/tc/2019-04.md |
+| acordao-crsfn | RJ2016/1465 | 2019-07-23 | condenacao | RECURSOS VOLUNTÁRIOS. Prática não equitativa no mercado de valores mobiliários. Recursos conhecidos e desprovidos. | crsfn-10372-100449-2018-30 | fichas/crsfn/2019-02.md |
+| acordao-crsfn | SP2016/268 | 2019-07-23 | condenacao | RECURSO VOLUNTÁRIO. Prática não equitativa no mercado de valores mobiliários. Recurso conhecido e desprovido. | crsfn-10372-100157-2019-88 | fichas/crsfn/2019-02.md |
+| termo-compromisso | 19957.007809/2018-29 | 2019-07-16 | rejeitado | O Colegiado, por unanimidade, rejeitou proposta de termo de compromisso de investidor acusado de manipulação de preços por ofertas… | cvm-col-20190716-d1470 | fichas/tc/2019-04.md |
+| termo-compromisso | 19957.003798/2017-27 | 2019-07-09 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de investidora e agente autônomo acusados de manipular preços de contratos futuros de… | cvm-col-20190709-d1256 | fichas/tc/2019-03.md |
+| termo-compromisso | 19957.005452/2016-82 | 2019-06-25 | rejeitado | O Colegiado, por unanimidade, acompanhando o voto do relator, rejeitou proposta de termo de compromisso da proponente acusada de manipular… | cvm-col-20190625-d1179 | fichas/tc/2019-03.md |
+| pas | RJ2016/7486 | 2019-06-18 | condenacao | E m e n t a : Prática de operação fraudulenta no mercado de valores mobiliários. Infração ao item I c/c o item II, letra “c”, da Instrução… | cvm-pas-rj2016-7486 | fichas/pas/2019-08.md |
+| pas | RJ2014/12081 | 2019-06-18 | parcial | Prática de operação fraudulenta no mercado de valores mobiliários. Descumprimento do dever de diligência. Descumprimento do dever de… | cvm-pas-rj2014-12081 | fichas/pas/2019-08.md |
+| pas | 10/2014 | 2019-06-18 | absolvicao | Prática de operação fraudulenta no mercado de valores mobiliários e criação de condições artificiais de manda, oferta ou preço de valores… | cvm-pas-10-2014 | fichas/pas/2019-08.md |
+| pas | RJ2013/8880 | 2019-06-11 | condenacao | Manipulação de preços das ações da RJCP Equity S.A. e descumprimento do dever de diligência. Infração definida pelo inciso II, ‘b’, e… | cvm-pas-rj2013-8880 | fichas/pas/2019-08.md |
+| termo-compromisso | 19957.006130/2017-31 | 2019-06-04 | rejeitado | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou nova proposta de termo de compromisso de um investidor acusado de práticas… | cvm-col-20190604-d1231 | fichas/tc/2019-03.md |
+| termo-compromisso | 19957.005283/2018-42 | 2019-05-21 | aceito | O Colegiado aceitou proposta de termo de compromisso da gestora Bravia Impact Assets Ltda. e de três pessoas físicas, acompanhando o… | cvm-col-20190521-d1395 | fichas/tc/2019-03.md |
+| termo-compromisso | 19957.011759/2017-01 | 2019-05-14 | aceito | O Colegiado, por unanimidade, aceitou proposta de termo de compromisso da gestora Canepa Asset Management e de seu administrador de… | cvm-col-20190514-d1394 | fichas/tc/2019-03.md |
+| termo-compromisso | 19957.005918/2018-10 | 2019-04-16 | aceito | O Colegiado aceitou a proposta de termo de compromisso do Itaú Unibanco e do Banco Itaucard por condições artificiais de demanda, oferta e… | cvm-col-20190416-d1374 | fichas/tc/2019-02.md |
+| termo-compromisso | 19957.006019/2018-26 | 2019-04-09 | rejeitado | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou proposta de termo de compromisso de R$ 100.000,00, em até duas parcelas, de… | cvm-col-20190409-d1368 | fichas/tc/2019-02.md |
+| pas | RJ2015/2027 | 2019-04-02 | parcial | Operação fraudulenta no mercado de valores mobiliários. Descumprimento do dever de diligência por administrador de fundo de investimento… | cvm-pas-rj2015-2027 | fichas/pas/2019-05.md |
+| termo-compromisso | 19957.006602/2018-37; 19957.008430/2018-36 | 2019-03-12 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou as propostas de termo de compromisso de dez proponentes em dois processos… | cvm-col-20190312-d1343 | fichas/tc/2019-02.md |
+| termo-compromisso | 19957.007822/2016-16 | 2019-03-12 | aceito | O Colegiado aceitou propostas de termo de compromisso de um banco, da sociedade do mesmo grupo e de duas pessoas físicas, acusados de criar… | cvm-col-20190312-d1335 | fichas/tc/2019-01.md |
+| pas | 02/2013 | 2019-01-22 | parcial | Operações fraudulentas – Irregularidades relacionadas à utilização de créditos contra o Fundo de Compensação de Variações Salariais (FCVS)… | cvm-pas-02-2013 | fichas/pas/2019-01.md |
+| decisao-colegiado | RJ2015/9195 | 2019-01-15 | outro | O Colegiado aprovou nova definição jurídica dos fatos no PAS RJ2015/9195, proposta pelo relator: a acusação de operação fraudulenta passa a… | cvm-col-20190115-d0148 | fichas/colegiado/2019-01.md |
+| termo-compromisso | 19957.011336/2017-83 | 2018-12-18 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou proposta de termo de compromisso do investidor Paladin FII Investors (Brazil)… | cvm-col-20181218-d1248 | fichas/tc/2018-07.md |
+| decisao-colegiado | 13/2013 | 2018-12-18 | outro | O Colegiado, por unanimidade, acompanhou o relator, que propôs reenquadrar os fatos do PAS 13/2013 como prática não equitativa (Instrução… | cvm-col-20181218-d0001 | fichas/colegiado/2018-21.md |
+| termo-compromisso | 19957.003262/2015-40 | 2018-12-11 | aceito | O Colegiado aceitou proposta de Termo de Compromisso de dois bancos e quatro administradores, acompanhando o Comitê, em caso de negócios… | cvm-col-20181211-d1237 | fichas/tc/2018-07.md |
+| acordao-crsfn | RJ2012/9808 | 2018-12-11 | parcial | EMBARGOS DE DECLARAÇÃO. A conduta mesmo tendo impacto limitado é típica. A atuação de vendas em pequenos lotes visava impedir que o mercado… | crsfn-edcl-14449 | fichas/crsfn/2018-10.md |
+| pas | RJ2017/646 | 2018-11-14 | condenacao | O Colegiado, por unanimidade, aplicou multa de R$ 157.575,86 ao acusado, duas vezes o ganho econômico de R$ 64.979,00, atualizado pelo IPCA… | cvm-pas-rj2017-0646 | fichas/pas/2018-20.md |
+| pas | SP2016/268 | 2018-11-13 | condenacao | Prática não equitativa no mercado de valores mobiliários. Infração ao disposto nos incisos I e II, alínea ‘d’, da Instrução CVM nº 08/79… | cvm-pas-sp2016-0268 | fichas/pas/2018-19.md |
+| pas | 10/2012 | 2018-11-13 | absolvicao | Prática não equitativa no mercado de valores mobiliários na negociação de ações de emissão da Vanguarda Agro S.A. Infração ao disposto nos… | cvm-pas-10-2012 | fichas/pas/2018-19.md |
+| pas | SP2014/465 | 2018-11-06 | parcial | Suposta prática de administração de carteira de valores mobiliários sem a prévia autorização da CVM e prática de operação fraudulenta… | cvm-pas-sp2014-0465 | fichas/pas/2018-18.md |
+| termo-compromisso | 19957.005504/2017-00 | 2018-09-25 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou as duas propostas de termo de compromisso da Garde Asset e do Banco BTG… | cvm-col-20180925-d0986 | fichas/tc/2018-05.md |
+| acordao-crsfn | RJ2012/9808 | 2018-09-20 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Acusações de insider trading. Compras efetuadas se encontravam dentro do padrão de investimento dos… | crsfn-14449 | fichas/crsfn/2018-07.md |
+| termo-compromisso | 19957.011547/2017-16 | 2018-09-04 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou a proposta de termo de compromisso de um operador acusado de manipulação de… | cvm-col-20180904-d1109 | fichas/tc/2018-04.md |
+| pas | 06/2012 | 2018-08-20 | parcial | Práticas não equitativas no mercado de valores mobiliários. Infração ao item I, c/c item II, alínea ‘d’, da Instrução CVM nº 08/79. Criação… | cvm-pas-06-2012 | fichas/pas/2018-13.md |
+| pas | RJ2015/12130 | 2018-08-14 | condenacao | O Colegiado, por unanimidade, aplicou ao acusado proibição temporária, por cinco anos, de atuar em qualquer operação no mercado de valores… | cvm-pas-rj2015-12130 | fichas/pas/2018-13.md |
+| termo-compromisso | 19957.010277/2017-26 | 2018-08-14 | aceito | O Colegiado aceitou, acatando o Comitê, propostas de Termo de Compromisso da JSL S.A. (R$ 8.700.000,00, atualizados pelo IPCA, em três… | cvm-col-20180814-d1023 | fichas/tc/2018-04.md |
+| termo-compromisso | 19957.006768/2017-72 | 2018-07-24 | aceito | O Colegiado aceitou proposta conjunta de termo de compromisso de banco e de um operador, acusados de criar condições artificiais de oferta… | cvm-col-20180724-d1094 | fichas/tc/2018-04.md |
+| acordao-crsfn | RJ2014/12921 | 2018-07-24 | parcial | RECURSO VOLUNTÁRIO. CVM. Operação fraudulenta. Prática de churning. Instrução CVM n° 08/79. Recurso parcialmente provido. | crsfn-10372-100205-2017-76 | fichas/crsfn/2018-06.md |
+| pas | SP2013/448 | 2018-06-08 | parcial | Prática não equitativa no mercado de valores mobiliários. Absolvição, multas e proibições temporárias. | cvm-pas-sp2013-0448 | fichas/pas/2018-07.md |
+| pas | SP2014/230 | 2018-05-29 | condenacao | Criação de condições artificiais de demanda, oferta e preço no mercado de valores mobiliários. Multas. | cvm-pas-sp2014-0230 | fichas/pas/2018-07.md |
+| termo-compromisso | SP2013/0448 | 2018-05-22 | rejeitado | O Colegiado, por unanimidade, acompanhando o relator, rejeitou nova proposta de termo de compromisso de R$ 100.000,00 de um acusado por… | cvm-col-20180522-d0275 | fichas/tc/2018-03.md |
+| pas | RJ2016/1465 | 2018-05-15 | condenacao | Prática não equitativa no mercado de valores mobiliários. Multa e Proibição temporária. | cvm-pas-rj2016-1465 | fichas/pas/2018-07.md |
+| termo-compromisso | 19957.006132/2017-21 | 2018-05-08 | aceito | O Colegiado aceitou proposta de termo de compromisso de banco acusado de criar condições artificiais de oferta, demanda e preço (Instrução… | cvm-col-20180508-d1032 | fichas/tc/2018-02.md |
+| pas | RJ2016/5348 | 2018-04-17 | condenacao | Criação de condições artificiais de demanda, oferta, ou preço no mercado de valores mobiliários. Multa. | cvm-pas-rj2016-5348 | fichas/pas/2018-05.md |
+| termo-compromisso | 09/2013; 19957.001045/2015-15 | 2018-04-17 | rejeitado | O Colegiado rejeitou a proposta conjunta de Termo de Compromisso de oito proponentes, entre eles a Laep Investments Ltd., por não ser… | cvm-col-20180417-d0640 | fichas/tc/2018-02.md |
+| acordao-crsfn | RJ2011/11073 | 2018-03-21 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Não divulgação de informações relevantes. Operação fraudulenta. Abuso de poder de controle. Não… | crsfn-14486 | fichas/crsfn/2018-03.md |
+| acordao-crsfn | SP2007/113 | 2018-03-21 | absolvicao | RECURSO DE OFÍCIO. Acusação de prática de "operações fraudulentas". Indícios insuficientes. Absolvição. Recurso conhecido, mas não provido. | crsfn-13748 | fichas/crsfn/2018-03.md |
+| pas | RJ2016/7192 | 2018-03-13 | condenacao | Manipulação de preços por meio da inserção de ordens artificiais de compra e venda de valores mobiliários, caracterizando a prática de… | cvm-pas-rj2016-7192 | fichas/pas/2018-03.md |
+| acordao-crsfn | RJ2012/13605 | 2018-02-20 | condenacao | RECURSOS VOLUNTÁRIOS. Prática não equitativa. Atraso na atualização de formulário de referência. Irregularidades configuradas. Negado… | crsfn-10372-100146-2017-36 | fichas/crsfn/2018-01.md |
+| termo-compromisso | 07/2015; 19957.003834/2015-91 | 2018-01-30 | rejeitado | O Colegiado, por unanimidade, rejeitou proposta de termo de compromisso de pessoa natural no PAS 07/2015 (administração de carteiras sem… | cvm-col-20180130-d0912 | fichas/tc/2018-01.md |
+| pas | RJ2014/13353 | 2017-12-22 | parcial | EMENTA: Práticas não equitativas no mercado de valores mobiliários – Absolvições, multas pecuniárias, inabilitação e proibição temporárias. | cvm-pas-rj2014-13353 | fichas/pas/2017-13.md |
+| termo-compromisso | 19957.001903/2015-21; 02/2014 | 2017-10-17 | rejeitado | O Colegiado, por unanimidade, rejeitou proposta de termo de compromisso de R$ 100.000,00 de acusado por suposta contribuição a esquema de… | cvm-col-20171017-d0718 | fichas/tc/2017-05.md |
+| pas | RJ2015/9909 | 2017-09-05 | condenacao | Prática de operação fraudulenta no mercado de valores mobiliários. Multa. | cvm-pas-rj2015-9909 | fichas/pas/2017-06.md |
+| acordao-crsfn | SP2011/233 | 2017-08-22 | condenacao | RECURSOS VOLUNTÁRIOS. Operação fraudulenta no mercado de valores mobiliários. Infração aos itens I e II, letra "c" da ICVM nº 08/79… | crsfn-14097 | fichas/crsfn/2017-11.md |
+| acordao-crsfn | RJ2013/5194 | 2017-07-26 | condenacao | Recurso Voluntário. Manipulação de preço. Utilização de fóruns na internet para indução de terceiros a erro. Publicação de informações… | crsfn-14222 | fichas/crsfn/2017-11.md |
+| acordao-crsfn | IA2010/24 | 2017-07-25 | condenacao | RECURSO VOLUNTÁRIO. Administração irregular de carteira e operações fraudulentas. Churning. Infrações configuradas. Multa e inabilitação… | crsfn-14035 | fichas/crsfn/2017-11.md |
+| termo-compromisso | 19957.007693/2016-66; RJ2016/8033 | 2017-07-11 | aceito | O Colegiado, por maioria, acompanhando o Comitê, aceitou propostas de termo de compromisso de duas empresas acusadas de criar condições… | cvm-col-20170711-d0730 | fichas/tc/2017-03.md |
+| acordao-crsfn | CVM13/05 | 2017-06-27 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Práticas não equitativas. Registro de ordens de operação no mercado de valores mobiliários sem a correta… | crsfn-13453 | fichas/crsfn/2017-09.md |
+| termo-compromisso | 19957.006346/2016-16; RJ2016/7420 | 2017-06-26 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou propostas de termo de compromisso de dois proponentes acusados de criar… | cvm-col-20170626-d0717 | fichas/tc/2017-03.md |
+| termo-compromisso | 19957.002047/2015-21; 03/2015 | 2017-06-26 | rejeitado | O Colegiado rejeitou, por unanimidade, as propostas de termo de compromisso de quatro proponentes no PAS 03/2015, por prática não… | cvm-col-20170626-d0716 | fichas/tc/2017-03.md |
+| termo-compromisso | 19957.005977/2016-18; RJ2016/7192 | 2017-06-26 | rejeitado | O Colegiado rejeitou, por unanimidade, proposta conjunta de Termo de Compromisso de R$ 100.000,00 apresentada por um administrador de… | cvm-col-20170626-d0702 | fichas/tc/2017-03.md |
+| acordao-crsfn | IA-2010-4 | 2017-05-24 | condenacao | Recursos Voluntários. Mercado de Valores Mobiliários Fundo Mútuo de Investimentos em Ações – Carteira Livre. Mercado de Valores… | crsfn-14086 | fichas/crsfn/2017-08.md |
+| acordao-crsfn | CVM178/2010 | 2017-05-24 | condenacao | Recursos Voluntários. Mercado de valores mobiliários - Uso de prática não equitativa - Falta de diligência no cumprimento e na execução de… | crsfn-14048 | fichas/crsfn/2017-08.md |
+| pas | RJ2016/1742 | 2017-04-18 | condenacao | Manipulação de preço de ações. Proibição temporária. | cvm-pas-rj2016-1742 | fichas/pas/2017-03.md |
+| acordao-crsfn | RJ2005/7389 | 2017-03-14 | parcial | RECURSOS VOLUNTÁRIOS e DE OFÍCIO. Mercado de Títulos e Valores Mobiliários: Atução em conjunto na negociação de ações de baixa liquidez… | crsfn-11330 | fichas/crsfn/2017-02.md |
+| pas | RJ2014/12921 | 2017-02-10 | parcial | Exercício da atividade de administração profissional de carteira de valores mobiliários sem a prévia autorização da CVM – Prática de… | cvm-pas-rj2014-12921 | fichas/pas/2017-01.md |
+| acordao-crsfn | SP2007/139 | 2017-02-08 | parcial | Recursos voluntários e de ofício. Práticas não equitativas. Permitir o registro de ordens de operação no mercado de valores mobiliários sem… | crsfn-13873 | fichas/crsfn/2017-02.md |
+| acordao-crsfn | 05/2008 | 2017-02-07 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Realização de operações fraudulentas no mercado de valores mobiliários - anuência, concorrência e/ou… | crsfn-13727 | fichas/crsfn/2017-01.md |
+| pas | RJ2012/11002 | 2016-12-15 | absolvicao | Suposta violação do dever de guardar sigilo. Absolvição – Suposto uso indevido de informação privilegiada. Absolvição – Suposta… | cvm-pas-rj2012-11002 | fichas/pas/2016-15.md |
+| acordao-crsfn | 21/2006 | 2016-12-14 | parcial | Recursos voluntários e de ofício. Mercado de valores mobiliários - Operações fraudulentas – Práticas não equitativas – Descumprimento do… | crsfn-13622 | fichas/crsfn/2016-11.md |
+| termo-compromisso | 19957.002112/2016-08; RJ2016/3951 | 2016-12-06 | aceito | O Colegiado aceitou, por unanimidade, proposta de Termo de Compromisso, acompanhando o Comitê, em processo por criação de condições… | cvm-col-20161206-d0456 | fichas/tc/2016-05.md |
+| termo-compromisso | 19957.001639/2016-15; RJ2016/2384 | 2016-10-11 | rejeitado | O Colegiado rejeitou, por unanimidade, a proposta do investidor acusado de manipulação de preço das ações da All Ore Mineração S.A. e de… | cvm-col-20161011-d0390 | fichas/tc/2016-05.md |
+| acordao-crsfn | SP2007/140 | 2016-08-26 | condenacao | Recurso voluntário. Mercado de Capitais. Práticas não equitativas. Recurso desprovido. | crsfn-13905 | fichas/crsfn/2016-07.md |
+| acordao-crsfn | IA-2010-12 | 2016-08-24 | parcial | RECURSOS VOLUNTÁRIO E DE OFÍCIO - Comprovadas as irregularidades praticadas pelo recorrente. Operações realizadas voltadas exclusivamente à… | crsfn-14223 | fichas/crsfn/2016-07.md |
+| pas | RJ2012/13605 | 2016-08-23 | parcial | Normal 0 21 false false false PT-BR X-NONE X-NONE MicrosoftInternetExplorer4 /* Style Definitions */ table.MsoNormalTable… | cvm-pas-rj2012-13605 | fichas/pas/2016-05.md |
+| termo-compromisso | RJ2015/12130 | 2016-07-12 | rejeitado | O Colegiado, acompanhando o Comitê e por unanimidade, rejeitou a proposta de Termo de Compromisso do acusado de manipulação de preços por… | cvm-col-20160712-d0298 | fichas/tc/2016-03.md |
+| termo-compromisso | SP2013/0448 | 2016-06-28 | rejeitado | O Colegiado rejeitou, por unanimidade, a proposta conjunta de Termo de Compromisso de cinco proponentes acusados de prática não equitativa… | cvm-col-20160628-d0275 | fichas/tc/2016-03.md |
+| termo-compromisso | RJ2016/0092 | 2016-04-26 | rejeitado | O Colegiado rejeitou, por unanimidade, a proposta de Termo de Compromisso do controlador indireto e administrador da Laep Investments Ltd… | cvm-col-20160426-d0001 | fichas/tc/2016-01.md |
+| termo-compromisso | RJ2012/11002 | 2016-03-01 | rejeitado | O Colegiado rejeitou nova proposta de termo de compromisso de acusado no PAS sobre manipulação de mercado e uso de informação privilegiada… | cvm-col-20160301-d8703 | fichas/tc/2016-01.md |
+| termo-compromisso | RJ2015/6221 | 2016-02-23 | rejeitado | O Colegiado, por unanimidade, rejeitou as propostas de termo de compromisso da Walpires S.A. CCTVM e de outros 12 proponentes, no PAS… | cvm-col-20160223-d9743 | fichas/tc/2016-01.md |
+| acordao-crsfn | 14/2001 | 2016-02-23 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Instituições Financeiras – Operações fraudulentas – Criação de… | crsfn-8550 | fichas/crsfn/2016-02.md |
+| pas | RJ2012/9808 | 2015-12-18 | parcial | Normal 0 21 false false false PT-BR X-NONE X-NONE MicrosoftInternetExplorer4 /* Style Definitions */ table.MsoNormalTable… | cvm-pas-rj2012-9808 | fichas/pas/2015-14.md |
+| acordao-crsfn | 04/2000 | 2015-07-28 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Realização de práticas não equitativas - Realização de operações… | crsfn-7703 | fichas/crsfn/2015-04.md |
+| acordao-crsfn | 0028/2005 | 2015-06-30 | arquivamento | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Práticas não equitativas –Alienação de participação acionária de fundo de pensão em… | crsfn-11267-2 | fichas/crsfn/2015-02.md |
+| acordao-crsfn | 04/01 | 2015-05-26 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários - Realização de operações fraudulentas – Irregularidades, inclusive… | crsfn-9058 | fichas/crsfn/2015-02.md |
+| acordao-crsfn | 20/2005 | 2015-03-24 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Práticas não equitativas no mercado futuro de Ibovespa - Falta de… | crsfn-13356 | fichas/crsfn/2015-01.md |
+| acordao-crsfn | 16/2002 | 2015-01-27 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Realização de operação fraudulenta - Exercício irregular da… | crsfn-11411 | fichas/crsfn/2015-01.md |
+| pas | RJ2013/5194 | 2014-12-19 | condenacao | Manipulação de preços de papéis na negociação de ações CTPC3 de emissão da Marambaia Energia Renovável S.A. Multa e proibição temporária. | cvm-pas-rj2013-5194 | fichas/pas/2014-11.md |
+| termo-compromisso | RJ2013/4966 | 2014-12-02 | aceito | O Colegiado aceitou a proposta conjunta de termo de compromisso da Somma Investimentos S.A. e de seu diretor, no valor de R$200.000,00… | cvm-col-20141202-d13 | fichas/tc/2014-04.md |
+| acordao-crsfn | 0003/2006 | 2014-11-25 | absolvicao | RECURSO DE OFÍCIO - Mercado de valores mobiliários - Realização de operações fraudulentas – Uso de práticas não equitativas - Criação de… | crsfn-13256 | fichas/crsfn/2014-08.md |
+| termo-compromisso | SP2013/0097 | 2014-11-18 | aceito | O Colegiado aceitou a proposta conjunta de Termo de Compromisso de três proponentes responsabilizados por prática não equitativa (Instrução… | cvm-col-20141118-d04 | fichas/tc/2014-04.md |
+| termo-compromisso | RJ2013/13124 | 2014-11-18 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de R$ 15.000,00 apresentada por um diretor de relações com investidores… | cvm-col-20141118-d01 | fichas/tc/2014-03.md |
+| acordao-crsfn | 0006/2004 | 2014-10-21 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Criação de condições artificiais de demanda, oferta ou preço… | crsfn-13285 | fichas/crsfn/2014-07.md |
+| acordao-crsfn | 0012/2004 | 2014-10-21 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Realização de operações fraudulentas - Criação de condições… | crsfn-13223 | fichas/crsfn/2014-06.md |
+| pas | 12/2010 | 2014-10-07 | parcial | Criação de condições artificiais de demanda, oferta ou preço de valores mobiliários. Absolvição e multas. | cvm-pas-12-2010 | fichas/pas/2014-07.md |
+| pas | 04/2010 | 2014-09-23 | condenacao | Práticas não equitativas – descumprimento do dever de diligência. Multas. | cvm-pas-04-2010 | fichas/pas/2014-06.md |
+| termo-compromisso | RJ2013/5194 | 2014-08-05 | rejeitado | O Colegiado rejeitou, por unanimidade, proposta conjunta de Termo de Compromisso de dois proponentes acusados de manipulação de preços de… | cvm-col-20140805-d01 | fichas/tc/2014-02.md |
+| termo-compromisso | 12/2010 | 2014-07-29 | rejeitado | O Colegiado rejeitou proposta conjunta de termo de compromisso da Gradual CCTVM S.A. e de uma proponente pessoa física (R$ 150.000,00), por… | cvm-col-20140729-d01 | fichas/tc/2014-02.md |
+| acordao-crsfn | 23-2000 | 2014-04-15 | absolvicao | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Práticas não equitativas – Realização de operações fraudulentas - Criação de condições… | crsfn-13180 | fichas/crsfn/2014-03.md |
+| termo-compromisso | 01/2012 | 2014-04-01 | aceito | O Colegiado aceitou proposta de termo de compromisso de diretor financeiro de banco estadual, acusado de prática não equitativa e de… | cvm-col-20140401-d05 | fichas/tc/2014-01.md |
+| pas | SP2011/233 | 2014-03-25 | condenacao | Operação fraudulenta – pagamento em cheque sem anular a cláusula “à sua ordem” – pagamento a terceiros – mudança de endereço na ficha… | cvm-pas-sp2011-0233 | fichas/pas/2014-02.md |
+| pas | SP2010/178 | 2014-03-25 | condenacao | Realização de práticas não equitativas no mercado de valores mobiliários – Falta de diligência no cumprimento e na execução de ordens de… | cvm-pas-sp2010-0178 | fichas/pas/2014-02.md |
+| acordao-crsfn | IA-2004-15 | 2014-03-18 | condenacao | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Práticas não equitativas - Utilização indevida de informações… | crsfn-12756 | fichas/crsfn/2014-02.md |
+| decisao-colegiado | 12/2010 | 2014-03-11 | outro | O Colegiado, por unanimidade, aprovou a recapitulação das infrações imputadas no PAS 12/2010 à Gradual CCTVM S.A.: operações nos mercados… | cvm-col-20140311-d8094 | fichas/colegiado/2014-04.md |
+| pas | 04/2013 | 2014-02-25 | condenacao | Criação de condições artificiais de demanda. Multas. | cvm-pas-04-2013 | fichas/pas/2014-01.md |
+| termo-compromisso | RJ2013/8159 | 2014-02-25 | aceito | O Colegiado aceitou proposta de termo de compromisso do proponente, acusado de prática não equitativa (Instrução CVM 08/79) em operações… | cvm-col-20140225-d01 | fichas/tc/2014-01.md |
+| acordao-crsfn | SP-2005/0338 | 2014-02-18 | absolvicao | RECURSO DE OFÍCIO - Mercado de valores mobiliários – - Uso de práticas não equitativas – Exercício da atividade de agente autônomo de… | crsfn-12569 | fichas/crsfn/2014-01.md |
+| termo-compromisso | RJ2013/7426 | 2013-12-17 | rejeitado | O Colegiado rejeitou, por unanimidade, proposta de termo de compromisso da Ekika Empreendimentos e Participações S/A e da Riverdale… | cvm-col-20131217-d06 | fichas/tc/2013-05.md |
+| acordao-crsfn | 14-2006 | 2013-11-26 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Realização de operações fraudulentas (aquisição de ações e lançamento de opções de… | crsfn-13189 | fichas/crsfn/2013-06.md |
+| termo-compromisso | RJ2013/6120 | 2013-11-19 | rejeitado | O Colegiado rejeitou cinco propostas de Termo de Compromisso de agentes autônomos acusados de concorrer para manipulação de preços de ações… | cvm-col-20131119-d03 | fichas/tc/2013-05.md |
+| pas | SP2007/140 | 2013-10-15 | condenacao | [pessoa física] Prática não equitativa. Multa. | cvm-pas-sp2007-0140 | fichas/pas/2013-09.md |
+| termo-compromisso | RJ2013/4946 | 2013-09-10 | rejeitado | O Colegiado rejeitou as propostas de termo de compromisso da Arouch Invest Empreendimentos e Serviços S/C Ltda. e de duas pessoas físicas… | cvm-col-20130910-d02 | fichas/tc/2013-04.md |
+| pas | SP2007/139 | 2013-07-30 | parcial | [pessoa física] Ltda. Práticas não equitativas. Não cumprimento do dever de diligência exigido dos administradores de companhia aberta no… | cvm-pas-sp2007-0139 | fichas/pas/2013-07.md |
+| acordao-crsfn | 10/05 | 2013-07-30 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários - Uso de prática não equitativa, com indevida posição de vantagem em… | crsfn-12805 | fichas/crsfn/2013-03.md |
+| acordao-crsfn | IA-2005-3 | 2013-07-30 | arquivamento | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Fundos de investimento – Realização de operações fraudulentas –Negociação de ações… | crsfn-12443 | fichas/crsfn/2013-03.md |
+| pas | 01/2010 | 2013-07-16 | condenacao | BI CAPITAL Práticas não equitativas exercidas por administradores de carteiras em operações realizadas no mercado de valores mobiliários… | cvm-pas-01-2010 | fichas/pas/2013-07.md |
+| acordao-crsfn | IA-2006-11 | 2013-06-18 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Fundos de investimento –Negociação de ações realizada de forma indutora de prática… | crsfn-11952 | fichas/crsfn/2013-02.md |
+| pas | SP2007/0113 | 2013-03-26 | absolvicao | [pessoa física], áGORA-SENIOR CTVM S/A E OUTROS Suposta realização de operações fraudulentas. Absolvições. | cvm-pas-sp2007-0113 | fichas/pas/2013-03.md |
+| pas | 05/2008 | 2012-12-12 | parcial | FITVM LIBRIUM realização de operações fraudulentas no mercado de valores mobiliários – anuência, concorrência e/ou benefício com essas… | cvm-pas-05-2008 | fichas/pas/2012-07.md |
+| pas | 08/2004 | 2012-12-06 | parcial | LAETA práticas não equitativas no mercado de valores mobiliários – multas e absolvições – suposto descumprimento do dever de diligência… | cvm-pas-08-2004 | fichas/pas/2012-06.md |
+| decisao-colegiado | 30/2005 | 2012-11-27 | nao-provido | O Colegiado rejeitou pedido de reconsideração no PAS 30/2005 e manteve decisão de 29.11.11 que rejeitou proposta de termo de compromisso de… | cvm-col-20121127-d08 | fichas/colegiado/2012-22.md |
+| pas | 21/2006 | 2012-08-07 | parcial | FACEB realização de operações fraudulentas e de práticas não equitativas no mercado de valores mobiliários – absolvições, multas e… | cvm-pas-21-2006 | fichas/pas/2012-03.md |
+| acordao-crsfn | SP-2006-169 | 2012-07-30 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários - Realização de operações fraudulentas – Inexistência de documentação… | crsfn-11746 | fichas/crsfn/2012-03.md |
+| termo-compromisso | 05/2008 | 2012-04-17 | rejeitado | O Colegiado rejeitou nova proposta de termo de compromisso de 17 proponentes (16 acusados e a Serrainvest Factoring Fomento Mercantil… | cvm-col-20120417-d01 | fichas/tc/2012-02.md |
+| acordao-crsfn | IA-1998-32 | 2012-02-13 | condenacao | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários - Realização de operações fraudulentas – Inexistência de documentação cadastral… | crsfn-7355-2 | fichas/crsfn/2012-01.md |
+| acordao-crsfn | 05/04 | 2012-02-13 | arquivamento | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Abuso de poder – Intermediação indevida e negociação de ações realizada de forma não… | crsfn-11632 | fichas/crsfn/2012-01.md |
+| acordao-crsfn | RJ-2005-5442 | 2012-01-10 | condenacao | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Fundo de investimento - Criação de condições artificiais de oferta e demanda em… | crsfn-11638 | fichas/crsfn/2012-01.md |
+| termo-compromisso | SP2009/0054 | 2011-11-29 | aceito | O Colegiado aceitou a proposta de termo de compromisso do proponente, acompanhando o parecer do Comitê, com pagamento de R$ 15.000,00 à CVM… | cvm-col-20111129-d04 | fichas/tc/2011-05.md |
+| termo-compromisso | RJ2011/2522 | 2011-11-29 | rejeitado | O Colegiado considerou inoportuna e inconveniente a aceitação das propostas de termo de compromisso apresentadas por dez proponentes no PAS… | cvm-col-20111129-d03 | fichas/tc/2011-05.md |
+| decisao-colegiado | RJ2009/5934; 05/2008 | 2011-11-08 | outro | O Colegiado retificou erro material de itens de reuniões anteriores (Proc. RJ2009/5934 e PAS 05/2008) para registrar que a proponente… | cvm-col-20111108-d16 | fichas/colegiado/2011-24.md |
+| termo-compromisso | 05/2008 | 2011-11-08 | aceito | O Colegiado aceitou, por maioria, nova proposta de termo de compromisso da Gradual Corretora no PAS 05/2008, com estudo sobre a eficiência… | cvm-col-20111108-d15 | fichas/tc/2011-05.md |
+| acordao-crsfn | 15/02 | 2011-09-20 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Operações fraudulentas - Não verificação de autenticidade de endossos e legitimidade… | crsfn-11747 | fichas/crsfn/2011-04.md |
+| acordao-crsfn | SP-2004-602 | 2011-08-30 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Operações ilícitas – Indícios de fraude – Falta de autenticidade de endossos e de… | crsfn-11420 | fichas/crsfn/2011-03.md |
+| acordao-crsfn | 02/02 | 2011-06-15 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Realização de operações fraudulentas – Formação de condições… | crsfn-11612 | fichas/crsfn/2011-02.md |
+| termo-compromisso | SP2006/0066 | 2011-05-10 | aceito | O Colegiado aceitou as novas propostas de termo de compromisso no PAS SP2006/0066, por prática não equitativa e ordens sem identificação de… | cvm-col-20110510-d03 | fichas/tc/2011-02.md |
+| termo-compromisso | 05/2008 | 2011-05-10 | rejeitado | O Colegiado rejeitou nova proposta de termo de compromisso da Gradual Corretora de Câmbio, Títulos e Valores Mobiliários S.A., de R$… | cvm-col-20110510-d01-r2 | fichas/tc/2011-02.md |
+| acordao-crsfn | IA-1998-12 | 2011-04-27 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários - Prática não-equitativa - Manipulação de preços ocorrida em negócios… | crsfn-8254 | fichas/crsfn/2011-01.md |
+| pas | 20/2005 | 2011-04-12 | parcial | UMUARAMA S/A CTVM Práticas não equitativas. Falta de cuidado e diligência na administração da carteira da Prevdata. Absolvição e multas. | cvm-pas-20-2005 | fichas/pas/2011-01.md |
+| decisao-colegiado | RJ2010/14060 | 2011-04-05 | deferido | O Colegiado autorizou a Braskem a adquirir ações de sua própria emissão por negociação privada, via contrato de swap com instituição… | cvm-col-20110405-d05 | fichas/colegiado/2011-08.md |
+| termo-compromisso | SP2007/0139 | 2011-03-01 | rejeitado | O Colegiado rejeitou a proposta conjunta de termo de compromisso da TOV Corretora e de outros oito proponentes no PAS SP2007/0139… | cvm-col-20110301-d01 | fichas/tc/2011-01.md |
+| termo-compromisso | RJ2010/16049 | 2010-12-28 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso de R$ 200.000,00 de um acusado de prática não equitativa (negociação com ações da… | cvm-col-20101228-d05 | fichas/tc/2010-07.md |
+| termo-compromisso | RJ2010/15761 | 2010-12-09 | aceito | O Colegiado aceitou a proposta aditada de termo de compromisso da Vivendi S.A., no valor de R$ 150.000.000,00, contra manifestação… | cvm-col-20101209-d01 | fichas/tc/2010-06.md |
+| pas | 03/2006 | 2010-12-01 | absolvicao | CERES, POSTALIS E PORTUS Suposta realização de operações fraudulentas, práticas não equitativas e criação de condições artificiais de… | cvm-pas-03-2006 | fichas/pas/2010-10.md |
+| termo-compromisso | RJ2009/11393 | 2010-11-30 | aceito | O Colegiado aceitou a proposta de termo de compromisso da BTG Pactual Asset Management S.A. DTVM (antiga UBS Pactual) e de dois… | cvm-col-20101130-d02 | fichas/tc/2010-06.md |
+| pas | 06/2004 | 2010-11-09 | parcial | IPANEMA S/A CORRETORA DE MERCADORIAS Criação de condições artificiais de demanda, oferta ou preço de valores mobiliários. – Multas… | cvm-pas-06-2004 | fichas/pas/2010-08.md |
+| acordao-crsfn | IA-2002-9 | 2010-10-05 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Transferência ilícita de ações de propriedade de empresas mediante… | crsfn-11212 | fichas/crsfn/2010-09.md |
+| termo-compromisso | SP2006/0066 | 2010-09-21 | rejeitado | O Colegiado, acompanhando o Comitê, rejeitou as propostas de três proponentes no PAS SP2006/0066: R$ 100.000,00 da corretora e de seu… | cvm-col-20100921-d03 | fichas/tc/2010-04.md |
+| pas | 14/2006 | 2010-08-31 | absolvicao | [pessoa física] Suposta realização de operações fraudulentas – práticas não equitativas e criação de condições artificiais de preço… | cvm-pas-14-2006 | fichas/pas/2010-06.md |
+| termo-compromisso | 06/2004 | 2010-08-31 | rejeitado | O Colegiado rejeitou nova proposta de termo de compromisso de corretora e outros acusados de condições artificiais e práticas não… | cvm-col-20100831-d01 | fichas/tc/2010-04.md |
+| acordao-crsfn | 03/95 | 2010-08-18 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários - Prática não-equitativa - Manipulação de preços ocorrida em negócios… | crsfn-11208 | fichas/crsfn/2010-08.md |
+| acordao-crsfn | 09/04 | 2010-08-18 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Realização de operações fraudulentas – Celebração de contrato entre… | crsfn-11107 | fichas/crsfn/2010-07.md |
+| pas | 16/2005 | 2010-08-10 | absolvicao | CENTRUS Suposta realização de operações fraudulentas, práticas não equitativas e criação de condições artificiais de preço, demanda e… | cvm-pas-16-2005 | fichas/pas/2010-05.md |
+| acordao-crsfn | 04/02 | 2010-07-28 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Realização de operações fraudulentas, consistentes no uso de… | crsfn-5746 | fichas/crsfn/2010-07.md |
+| acordao-crsfn | IA-2002-13 | 2010-07-28 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Falhas verificadas nos registros da companhia na autoridade… | crsfn-11170 | fichas/crsfn/2010-07.md |
+| acordao-crsfn | RJ-2004-210 | 2010-07-28 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Realização de operações em bolsa de valores - Manipulação de preços… | crsfn-11056 | fichas/crsfn/2010-06.md |
+| termo-compromisso | 16/2005 | 2010-07-20 | aceito | O Colegiado aceitou a proposta de sete proponentes no PAS 16/2005 (CENTRUS), de R$ 50.000,00 cada à CVM, totalizando R$ 350.000,00, por ser… | cvm-col-20100720-d01 | fichas/tc/2010-03.md |
+| termo-compromisso | RJ2009/12461 | 2010-06-29 | rejeitado | O Colegiado rejeitou proposta conjunta de termo de compromisso de dezesseis proponentes, uma delas a Serrainvest Factoring Fomento… | cvm-col-20100629-d03 | fichas/tc/2010-03.md |
+| termo-compromisso | RJ2009/5934 | 2010-06-29 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso da Gradual de R$ 1.800.000,00, acompanhando o Comitê, que a considerou… | cvm-col-20100629-d02 | fichas/tc/2010-03.md |
+| pas | 23/2000 | 2010-05-25 | absolvicao | CERES/AVIAN Suposta realização sistemática, pelas Fundações CERES, FCOPEL e FUNDIÁGUA, de operações“estruturadas” na BVRJ, que consistiam… | cvm-pas-23-2000 | fichas/pas/2010-03.md |
+| termo-compromisso | RJ2009/5519 | 2010-05-25 | aceito | O Colegiado aceitou três propostas de termo de compromisso no PAS 16/2005 (CENTRUS), acompanhando o Comitê, que as considerou convenientes… | cvm-col-20100525-d04 | fichas/tc/2010-03.md |
+| pas | 12/2004 | 2010-05-11 | parcial | SÃO PAULO CORRETORA DE VALORES LTDA. Operações em opções flexíveis de dólar. Realização de operações fraudulentas – Absolvições Criação… | cvm-pas-12-2004 | fichas/pas/2010-02.md |
+| termo-compromisso | RJ2009/8196 | 2010-04-13 | aceito | O Colegiado aceitou duas propostas de termo de compromisso (R$ 150.000,00, de três proponentes; R$ 200.000,00, de quatro) em processo por… | cvm-col-20100413-d04 | fichas/tc/2010-02.md |
+| termo-compromisso | RJ2009/8787 | 2010-03-23 | aceito | O Colegiado aceitou a proposta de termo de compromisso de uma corretora e de um diretor e rejeitou a da outra corretora e de seu diretor… | cvm-col-20100323-d04 | fichas/tc/2010-02.md |
+| termo-compromisso | RJ2009/8224 | 2010-02-09 | rejeitado | O Colegiado rejeitou as duas propostas de termo de compromisso no PAS 03/2006 por operações fraudulentas, práticas não equitativas e… | cvm-col-20100209-d04 | fichas/tc/2010-01.md |
+| termo-compromisso | RJ2009/5519 | 2010-02-09 | outro | O Colegiado aceitou propostas de Termo de Compromisso de quatro grupos de proponentes, três por unanimidade e um por maioria, vencido um… | cvm-col-20100209-d01-r2 | fichas/tc/2010-01.md |
+| termo-compromisso | RJ2009/6226 | 2010-01-26 | rejeitado | O Colegiado, acompanhando o parecer do Comitê, rejeitou propostas de termo de compromisso de seis proponentes no PAS 06/2007, por operação… | cvm-col-20100126-d05 | fichas/tc/2010-01.md |
+| acordao-crsfn | 24/00 | 2010-01-26 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários - Criação de condições artificiais de oferta e demanda - Realização de… | crsfn-9634 | fichas/crsfn/2010-02.md |
+| acordao-crsfn | SP-2001/0236 | 2010-01-26 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários – Realização de operações em bolsa de valores - Leilão eletrônico - Call… | crsfn-6065 | fichas/crsfn/2010-01.md |
+| acordao-crsfn | IA-2001-5 | 2009-10-27 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado | crsfn-6197 | fichas/crsfn/2009-07.md |
+| acordao-crsfn | RJ–2002-397 | 2009-09-30 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Realização de operações fraudulentas, com utilização de práticas não… | crsfn-5632 | fichas/crsfn/2009-05.md |
+| termo-compromisso | 07/2008 | 2009-09-15 | aceito | O Colegiado aceitou as seis propostas de Termo de Compromisso no PAS 07/2008 (DTCom), por condições artificiais de demanda, oferta ou preço… | cvm-col-20090915-d02 | fichas/tc/2009-06.md |
+| pas | 10/2005 | 2009-08-25 | parcial | TELMA/TELPE Realização de práticas não equitativas e operações fraudulentas - Exercício irregular da atividade de agente autônomo. Multas… | cvm-pas-10-2005 | fichas/pas/2009-07.md |
+| acordao-crsfn | SP-2003-444 | 2009-08-24 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Negociação de ações mediante uso de documentos falsos – Ausência de elementos… | crsfn-11051 | fichas/crsfn/2009-05.md |
+| pas | 15/2004 | 2009-08-04 | condenacao | [pessoa física] e outros Práticas não eqüitativas em negócios realizados no mercado de valores mobiliários, consistentes no uso de… | cvm-pas-15-2004 | fichas/pas/2009-06.md |
+| termo-compromisso | RJ2009/3306 | 2009-07-14 | rejeitado | O Colegiado rejeitou proposta de Termo de Compromisso de acusado de operações fraudulentas e práticas não equitativas na BM&F (PAS… | cvm-col-20090714-d09 | fichas/tc/2009-04.md |
+| pas | 20/2003 | 2009-07-01 | parcial | ARROW CORRETORA DE CÃMBIO E VALORES S/A Realização de operações fraudulentas no mercado de valores mobiliários, em prejuízo dos segurados… | cvm-pas-20-2003 | fichas/pas/2009-05.md |
+| decisao-colegiado | RJ2009/5778 | 2009-06-30 | deferido | O Colegiado aprovou, na forma apresentada, a transferência de ações em tesouraria da Vale para subsidiária no exterior, para lastrear… | cvm-col-20090630-d01-r2 | fichas/colegiado/2009-12.md |
+| acordao-crsfn | RJ-2002-6738 | 2009-06-29 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Realização de operações fraudulentas, | crsfn-6180 | fichas/crsfn/2009-04.md |
+| acordao-crsfn | 31/98 | 2009-01-28 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários - Manipulação de preços e prática não equitativa em detrimento de fundos de previdência… | crsfn-9796 | fichas/crsfn/2009-01.md |
+| acordao-crsfn | RJ-2003/823 | 2008-12-10 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Desbloqueio de ações pertencentes a massas falidas, mediante uso de procurações falsas… | crsfn-9550 | fichas/crsfn/2008-07.md |
+| acordao-crsfn | SP2005/158 | 2008-11-19 | parcial | RECURSOS VOLUNTÁRIO E DE OFÍCIO – Comissão de valores mobiliários – Transferências de ações – Elementos de falsidade na outorga da… | crsfn-9201 | fichas/crsfn/2008-07.md |
+| decisao-colegiado | — | 2008-07-08 | deferido | O Colegiado autorizou a JBS S.A. a negociar privadamente ações em tesouraria como pagamento da aquisição da National Beef Packing Company… | cvm-col-20080708-d10 | fichas/colegiado/2008-15.md |
+| pas | 03/2005 | 2008-07-02 | absolvicao | Fundação de Assistência dos Empregados da CEB - FACEB - Texto da Ementa: Práticas não-eqüitativas, operações fraudulentas e criação de… | cvm-pas-03-2005 | fichas/pas/2008-04.md |
+| acordao-crsfn | 27/03 | 2008-06-24 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários – Fundo de investimento – Criação de condições artificiais de demanda… | crsfn-9637 | fichas/crsfn/2008-04.md |
+| acordao-crsfn | SP2002/564 | 2008-06-24 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários – Prática não eqüitativa (realização de operações previamente… | crsfn-5426 | fichas/crsfn/2008-03.md |
+| acordao-crsfn | 15/97 | 2008-06-23 | condenacao | RECURSOS VOLUNTÁRIOS – Pedido de Revisão - Mercado de valores mobiliários – Realização de operações day- trade em detrimento de fundações… | crsfn-4321-2 | fichas/crsfn/2008-03.md |
+| decisao-colegiado | RJ2008/2748 | 2008-06-05 | provido | O Colegiado deu provimento a reconsideração da Suzano e da Votorantim e autorizou negociação privada de ações próprias ao preço de mercado… | cvm-col-20080605-d09 | fichas/colegiado/2008-13.md |
+| termo-compromisso | 13/2005 | 2008-06-05 | aceito | O Colegiado rejeitou seis propostas de termo de compromisso e aceitou duas no PAS 13/2005, sobre favorecimento de investidores em negócios… | cvm-col-20080605-d03 | fichas/tc/2008-04.md |
+| decisao-colegiado | RJ2008/2748 | 2008-05-06 | indeferido | O Colegiado, por unanimidade, negou autorização para negociação privada de ações próprias a preço acima do de mercado, pedida por Suzano e… | cvm-col-20080506-d02 | fichas/colegiado/2008-10.md |
+| decisao-colegiado | RJ2008/2207; RJ2008/2067 | 2008-04-15 | deferido | O Colegiado concedeu à companhia dispensa para operações privadas de empréstimo de ações em tesouraria ao estabilizador de preços… | cvm-col-20080415-d17 | fichas/colegiado/2008-10.md |
+| acordao-crsfn | IA-1993-9 | 2008-03-26 | condenacao | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Prática não eqüitativa – Alienação, pelos acionistas controladores e por pessoas a… | crsfn-revisao-1739 | fichas/crsfn/2008-01.md |
+| pas | 11/2006 | 2008-03-04 | absolvicao | Telemar Participações S.A. - Imputação de prática não eqüitativa, nos termos do inciso II, alínea d, da Instrução CVM nº 08/79, infração… | cvm-pas-11-2006 | fichas/pas/2008-02.md |
+| acordao-crsfn | 14/00 | 2008-01-29 | parcial | RECURSOS VOLUNTÁRIO E DE OFÍCIO – Mercado de valores mobiliários – Criação de condições artificiais de demanda, oferta e preço em negócios… | crsfn-7359 | fichas/crsfn/2008-01.md |
+| termo-compromisso | 15/2004 | 2007-11-13 | rejeitado | Por unanimidade, o Colegiado rejeitou as quatro propostas de termo de compromisso apresentadas por acusados em PAS sobre negócios na… | cvm-col-20071113-d05 | fichas/tc/2007-06.md |
+| acordao-crsfn | IA-1998-32 | 2007-09-27 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Inexistência de documentação cadastral dos proprietários de ações… | crsfn-7355 | fichas/crsfn/2007-02.md |
+| termo-compromisso | SP2006/0085 | 2007-09-18 | aceito | O Colegiado aceitou a proposta de termo de compromisso do proponente, pessoa física, que prevê indenizar investidores que teriam sido… | cvm-col-20070918-d02 | fichas/tc/2007-05.md |
+| pas | SP2006/0169 | 2007-08-28 | parcial | Prática de operação fraudulenta, em descumprimento ao disposto no inciso I e na alínea “c”, inciso II, da Instrução CVM nº 08/79. Multas… | cvm-pas-sp2006-0169 | fichas/pas/2007-12.md |
+| termo-compromisso | 13/2004 | 2007-07-10 | aceito | O Colegiado aceitou a celebração de termos de compromisso da Romanche Investment Corporation e do Banco UBS Pactual S.A. e outros (PAS… | cvm-col-20070710-d06 | fichas/tc/2007-04.md |
+| pas | 28/2005 | 2007-07-03 | absolvicao | Prática não-eqüitativa no mercado de valores mobiliários, definida nos termos da alínea “d” do item II da Instrução CVM nº 08/79 e vedada… | cvm-pas-28-2005 | fichas/pas/2007-08.md |
+| acordao-crsfn | SP-2001-240 | 2007-04-25 | parcial | RECURSO VOLUNTÁRIO E DE OFÍCIO – Mercado de valores mobiliários – Negociação de ações mediante uso de documentos falsos – Irregularidade… | crsfn-6187 | fichas/crsfn/2007-01.md |
+| acordao-crsfn | – | 2007-04-25 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Realização de operações fraudulentas, consistentes no uso de documentos… | crsfn-5532 | fichas/crsfn/2007-01.md |
+| pas | 05/2004 | 2007-04-24 | absolvicao | Intermediação e negociação realizadas de forma não prevista no sistema de distribuição de títulos e valores mobiliários, em infração ao… | cvm-pas-05-2004 | fichas/pas/2007-05.md |
+| acordao-crsfn | – | 2007-03-28 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Criação de condições artificiais de demanda, oferta ou preço nos negócios realizados… | crsfn-9428 | fichas/crsfn/2007-01.md |
+| pas | SP2004/0602 | 2007-02-01 | absolvicao | Utilização de procurações falsas com o intuito de obter a posição acionária de determinadas pessoas, sem, contudo, a concretização de ordem… | cvm-pas-sp2004-0602 | fichas/pas/2007-03.md |
+| pas | 02/2002 | 2007-01-17 | parcial | Realização de operações formadoras de condições artificiais de demanda, oferta ou preço de valores mobiliários, conforme definidas pelo… | cvm-pas-02-2002 | fichas/pas/2007-01.md |
+| pas | 29/2003 | 2007-01-16 | absolvicao | Operações de manipulação de preços e de prática não-eqüitativa, conforme definidas pelo item II, alíneas b e d, da Instrução CVM nº 08/79… | cvm-pas-29-2003 | fichas/pas/2007-01.md |
+| pas | 09/1993 | 2006-12-14 | condenacao | Prática não eqüitativa relacionada às operações de venda de ações efetuada pelos acusados à Marcopolo S.A. Carrocerias e Ônibus, em… | cvm-pas-09-1993 | fichas/pas/2006-28.md |
+| acordao-crsfn | RJ2002/5015 | 2006-12-13 | condenacao | RECURSOS VOLUNTÁRIOS – Mercado de valores mobiliários – Criação de condições artificiais de mercado (ilicitudes de demanda, oferta e preço)… | crsfn-5591 | fichas/crsfn/2006-02.md |
+| pas | SP2003/0461 | 2006-12-05 | parcial | Realização de prática não eqüitativa, conforme definida no item II, d, da Instrução CVM nº 08/79. Multas. - Realização de operação… | cvm-pas-sp2003-0461 | fichas/pas/2006-26.md |
+| termo-compromisso | 02/2002 | 2006-11-22 | aceito | O Colegiado aceitou a nova proposta de termo de compromisso do Banco Daycoval S.A. e de seus diretores no PAS 02/2002: pagamento da dívida… | cvm-col-20061122-d04 | fichas/tc/2006-06.md |
+| pas | 16/2003 | 2006-11-08 | absolvicao | FUNDAÇÃO DOS ECONOMIÁRIOS FEDERAIS - Imputações de manipulação de preços no mercado de valores mobiliários, em infração à Instrução CVM nº… | cvm-pas-16-2003 | fichas/pas/2006-24.md |
+| pas | RJ2004/2870 | 2006-11-07 | parcial | Intermediação de valores mobiliários sem prévia autorização da CVM. Absolvição. - Realização de operação fraudulenta, conforme conceituada… | cvm-pas-rj2004-2870 | fichas/pas/2006-23.md |
+| termo-compromisso | 09/01 | 2006-11-07 | aceito | O Colegiado aceitou nova proposta de termo de compromisso do Exprinter Losan e outros, nos termos do voto do relator: pagamento à Receita… | cvm-col-20061107-d01 | fichas/tc/2006-06.md |
+| pas | RJ2005/7389 | 2006-10-10 | parcial | Manipulação de preços em negociações realizadas no mercado de balcão organizado (SOMA) com ações da Cemar. Multas e absolvição. | cvm-pas-rj2005-7389 | fichas/pas/2006-20.md |
+| pas | 16/2002 | 2006-10-10 | condenacao | Realização de operação fraudulenta, conforme conceituada na alínea “c”, do item I, prática vedada pelo item II, ambos da Instrução CVM nº… | cvm-pas-16-2002 | fichas/pas/2006-20.md |
+| termo-compromisso | SP2005/0155 | 2006-10-03 | aceito | O Colegiado aceitou a proposta de termo de compromisso da corretora e de seu diretor, no valor conjunto de R$ 40.000,00 a pagar em 30 dias… | cvm-col-20061003-d04 | fichas/tc/2006-04.md |
+| decisao-colegiado | 12/2004 | 2006-10-03 | provido | O Colegiado, por maioria, acolheu pedido de reconsideração da Gramercy Participações Ltda. e outros contra decisão que indeferiu sua… | cvm-col-20061003-d02 | fichas/colegiado/2006-15.md |
+| termo-compromisso | 02/2002 | 2006-09-26 | aceito | O Colegiado rejeitou as propostas de termo de compromisso apresentadas pelo Banco Daycoval S.A., pela São Paulo Corretora de Valores e… | cvm-col-20060926-d07 | fichas/tc/2006-04.md |
+| pas | SP2004/0543 | 2006-09-11 | condenacao | Ocorrência de irregularidades nos procedimentos de registro de ordens de clientes e execução das operações intermediadas pela Laeta S.A… | cvm-pas-sp2004-0543 | fichas/pas/2006-18.md |
+| termo-compromisso | SP2005/0268 | 2006-08-29 | aceito | Por maioria, o Colegiado aceitou as cinco propostas de termo de compromisso no PAS SP2005/0268 (Boavista CCVM), sobre ajustes de Índice… | cvm-col-20060829-d03 | fichas/tc/2006-04.md |
+| termo-compromisso | 09/2001 | 2006-08-29 | rejeitado | O Colegiado indeferiu proposta de Termo de Compromisso do banco e de outros três indiciados, em inquérito sobre condições artificiais e… | cvm-col-20060829-d02 | fichas/tc/2006-04.md |
+| acordao-crsfn | 38/00 | 2006-08-18 | parcial | RECURSOS VOLUNTÁRIO E DE OFÍCIO – Mercado de valores mobiliários – Realização de operações fraudulentas – Utilização de prática… | crsfn-5278 | fichas/crsfn/2006-01.md |
+| pas | 13/2002 | 2006-07-19 | parcial | Realização de operações fraudulentas no mercado de valores mobiliários, conforme definição da alínea c do inciso II da Instrução CVM nº… | cvm-pas-13-2002 | fichas/pas/2006-14.md |
+| pas | 09/2002 | 2006-07-19 | parcial | EMPREENDIMENTOS E PARTICIPAÇÕES LTDA., [pessoa física] e OUTROS - Transferência irregular de ações de propriedade de diversas empresas… | cvm-pas-09-2002 | fichas/pas/2006-14.md |
+| pas | SP2002/0063 | 2006-07-11 | parcial | Intermediação de ações no mercado de balcão não organizado, em violação ao artigo 36 do Regulamento Anexo à Resolução CMN nº 1.656/89… | cvm-pas-sp2002-0063 | fichas/pas/2006-14.md |
+| pas | 09/2004 | 2006-06-20 | parcial | Utilização de artifício destinado a induzir e manter a Votorantim Comercial Exportadora e Importadora Ltda. em erro, através da… | cvm-pas-09-2004 | fichas/pas/2006-12.md |
+| pas | SP2003/0489 | 2006-05-04 | parcial | Realização de operação fraudulenta, vedada pelo item I e conceituada pelo item II, alínea c, da Instrução CVM nº 08/79. Multa e… | cvm-pas-sp2003-0489 | fichas/pas/2006-08.md |
+| pas | SP2003/0314 | 2006-03-29 | parcial | É vedada aos administradores e acionistas de companhias abertas, aos intermediários e aos demais participantes do mercado de valores… | cvm-pas-sp2003-0314 | fichas/pas/2006-06.md |
+| pas | RJ2004/0210 | 2006-03-29 | parcial | SOCIEDADE ANÔNIMA DE ADMINISTRAÇÃO, PARTICIPAÇÃO E ENGENHARIA e OUTROS - É vedada aos administradores e acionistas de companhias abertas… | cvm-pas-rj2004-0210 | fichas/pas/2006-05.md |
+| termo-compromisso | 16/03 | 2006-03-14 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de indiciados no PAS 16/03 por manipulação de preço (Instrução CVM 8/79, II, b), dada… | cvm-col-20060314-d03 | fichas/tc/2006-01.md |
+| pas | SP2004/0197 | 2006-01-12 | parcial | Realização de operação fraudulenta, conforme previsto na letra c, do item I, da Instrução CVM nº 08/79, prática vedada pelo item II da… | cvm-pas-sp2004-0197 | fichas/pas/2006-02.md |
+| pas | 31/1998 | 2005-11-30 | absolvicao | [pessoa física] E OUTROS Manipulação de preços e práticas não eqüitativas em operações realizadas em bolsa de valores no ano de 1992 com a… | cvm-pas-31-1998 | fichas/pas/2005-16.md |
+| pas | SP2004/154 | 2005-11-03 | parcial | Imputação de violação dos incisos I e II, do art. 11, do Regulamento Anexo à Resolução CMN nº 1.655/89, c/c os artigos 3º, 4º e 5º, da… | cvm-pas-sp2004-0154 | fichas/pas/2005-15.md |
+| pas | 16/2001 | 2005-11-03 | absolvicao | Imputação de criação de condições artificiais de demanda, oferta ou preço de valores mobiliários, em infração ao item I, conforme definido… | cvm-pas-16-2001 | fichas/pas/2005-14.md |
+| pas | SP2005/158 | 2005-09-14 | parcial | Prática de operação fraudulenta, conforme descrição no inciso II, alínea c, vedada pelo inciso I, ambos da Instrução CVM nº 08/79. Multa… | cvm-pas-sp2005-0158 | fichas/pas/2005-12.md |
+| pas | 27/2003 | 2005-08-18 | parcial | Infração ao preceituado no inciso II, alínea d, da Instrução CVM nº 08/79 - Prática não eqüitativa. - Infração ao preceituado no artigo 57… | cvm-pas-27-2003 | fichas/pas/2005-11.md |
+| pas | 24/2000 | 2005-08-18 | parcial | QUALITY CORRETORA DE MERCADORIAS LTDA. E OUTROS Infração ao preceituado no inciso II, alínea c, e vedada pelo inciso I, ambos da Instrução… | cvm-pas-24-2000 | fichas/pas/2005-10.md |
+| pas | 04/2001 | 2005-06-13 | parcial | POSTALIS Realização de operações fraudulentas, nos termos do inciso II, alínea c, e vedadas pelo inciso I, ambos da Instrução CVM nº 08/79… | cvm-pas-04-2001 | fichas/pas/2005-09.md |
+| pas | RJ2003/0823 | 2005-05-20 | parcial | SUN VISION CONSULTORIA E PARTICIPAÇÕES LTDA. E OUTROS. a) constitui infração ao item I, conforme definido no item II, alínea c, da… | cvm-pas-rj2003-0823 | fichas/pas/2005-08.md |
+| acordao-crsfn | 02/99 | 2005-04-27 | parcial | RECURSOS VOLUNTÁRIOS – Mercado de valores mobiliários – Práticas não eqüitativas – Falta de remessa de demonstrativo de negociações com… | crsfn-4287 | fichas/crsfn/2005-01.md |
+| termo-compromisso | 04/2003 | 2005-04-26 | rejeitado | O Colegiado rejeitou proposta de Termo de Compromisso do Banco Opportunity S.A. e de um indiciado pessoa física no PAS 04/2003, por… | cvm-col-20050426-d02 | fichas/tc/2005-01.md |
+| pas | 35/2000 | 2005-04-12 | parcial | Manipulação de preço e uso de práticas não eqüitativas em operações realizadas no mercado de valores mobiliários com ações da Companhia… | cvm-pas-35-2000 | fichas/pas/2005-06.md |
+| pas | 14/2001 | 2005-04-12 | parcial | BANCO BOAVISTA INTERATLÂNTICO, SUCESSOR DO BANCO BOAVISTA S/A 1) Criação de condições artificiais de demanda, oferta e preço de valores… | cvm-pas-14-2001 | fichas/pas/2005-06.md |
+| pas | SP2003/0444 | 2005-03-11 | absolvicao | BANCO ABN AMRO REAL S.A. (EX-BANCO ABN AMRO S.A.) E OUTROS a) o comprador de ações vendidas mediante documentação falsa só pode ser… | cvm-pas-sp2003-0444 | fichas/pas/2005-03.md |
+| pas | SP2003/0313 | 2005-03-11 | parcial | NIRALDO EVARISTO NOGUEIRA a) Tentativa de realização de operação fraudulenta mediante a transferência de ações de investidor com… | cvm-pas-sp2003-0313 | fichas/pas/2005-03.md |
+| pas | 04/2000 | 2005-02-17 | parcial | RMC SOCIEDADE CORRETORA E OUTROS S/A Realização de práticas não eqüitativas em operações realizadas no mercado de valores mobiliários, na… | cvm-pas-04-2000 | fichas/pas/2005-02.md |
+| pas | RJ2004/2132 | 2005-01-19 | condenacao | [pessoa física] Manipulação de preço de ações mediante a elevação das cotações no mercado à vista com a finalidade de viabilizar a… | cvm-pas-rj2004-2132 | fichas/pas/2005-01.md |
+| pas | 14/2000 | 2004-12-17 | parcial | Daniel Bernasayag Birmann e outros. Criação de condições artificiais de demanda, oferta e preço em negócios realizados em bolsas de… | cvm-pas-14-2000 | fichas/pas/2004-16.md |
+| acordao-crsfn | Recurso 5441 | 2004-12-14 | condenacao | RECURSOS VOLUNTÁRIOS - Mercado de valores mobiliários – Venda de ações sem liquidez a fundo de previdência complementar – Preço agiado… | crsfn-5441 | fichas/crsfn/2004-05.md |
+| acordao-crsfn | 06/94 | 2004-12-14 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários – Prática não-eqüitativa (compra e venda dos mesmos papéis, em curto… | crsfn-4297 | fichas/crsfn/2004-05.md |
+| pas | SP2004/0113 | 2004-12-09 | parcial | Realização de operações fraudulentas, conforme conceituado na alínea “c” do inciso II e vedada pelo Inciso I da Instrução CVM nº 08/79… | cvm-pas-sp2004-0113 | fichas/pas/2004-15.md |
+| pas | 21/1999 | 2004-12-09 | parcial | Bolsa de Mercadorias e Futuros - BM&Fe outros. Não configuração de infração à Resolução CMN nº 1.645/89, item II - Absolvição. Infração à… | cvm-pas-21-1999 | fichas/pas/2004-15.md |
+| acordao-crsfn | 15/97 | 2004-11-17 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários – Realização de operações day-trade em detrimento de fundações de… | crsfn-4321 | fichas/crsfn/2004-04.md |
+| acordao-crsfn | SP2001/0003 | 2004-09-15 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Alienação de ações, em bolsa de valores, mediante uso de documentos… | crsfn-4819 | fichas/crsfn/2004-03.md |
+| acordao-crsfn | 17/99 | 2004-09-15 | parcial | RECURSOS VOLUNTÁRIO E DE OFÍCIO - Mercado de valores mobiliários - Práticas não-eqüitativas - Realização de operações day-trade - Quebra de… | crsfn-3721 | fichas/crsfn/2004-03.md |
+| pas | SP2003/0288 | 2004-09-08 | parcial | Prática de operação fraudulenta, vedada pelo inciso I, conforme conceituado na alínea “c”, do inciso II, ambos da Instrução CVM nº 08/79… | cvm-pas-sp2003-0288 | fichas/pas/2004-09.md |
+| pas | SP2001/0240 | 2004-07-22 | parcial | Prática de operação fraudulenta no mercado de valores mobiliários, conforme definida no incisos I e II, “c”, da Instrução CVM nº 08/79… | cvm-pas-sp2001-0240 | fichas/pas/2004-07.md |
+| pas | SP2001/0236 | 2004-07-19 | parcial | Prática de manipulação de preços, conforme definida na alínea “b” do inciso II da Instrução CVM nº 08/79, em infração ao item I da referida… | cvm-pas-sp2001-0236 | fichas/pas/2004-07.md |
+| pas | 05/2001 | 2004-07-19 | parcial | a) Realização de operação fraudulenta decorrente do conhecimento prévio por outros investidores do mercado da compra de valores mobiliários… | cvm-pas-05-2001-2 | fichas/pas/2004-07.md |
+| acordao-crsfn | 20/99 | 2004-07-14 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários - Criação de condições artificiais de demanda - Ausência de suficientes elementos… | crsfn-4197 | fichas/crsfn/2004-02.md |
+| pas | RJ2002/6738 | 2004-07-08 | parcial | a) Realização de operação fraudulenta no mercado de valores mobiliários envolvendo entidade de previdência privada e a negociação no… | cvm-pas-rj2002-6738 | fichas/pas/2004-06.md |
+| pas | RJ2002/5113 | 2004-07-01 | condenacao | a) A inclusão de valores mobiliários, retirados de outras contas, na conta de custódia de investidor, por ocasião de transferência de uma… | cvm-pas-rj2002-5113 | fichas/pas/2004-05.md |
+| acordao-crsfn | 26/00 | 2004-06-28 | arquivamento | RECURSOS VOLUNTÁRIOS - Mercado de valores mobiliários - Ocorrência de criação artificial de demanda - Manipulação de preço - Negociação de… | crsfn-4730 | fichas/crsfn/2004-02.md |
+| pas | SP2002/0197 | 2004-06-24 | parcial | a)Realização de operação fraudulenta no mercado com o cadastramento de investidor mediante documentação falsa e venda de suas ações… | cvm-pas-sp2002-0197 | fichas/pas/2004-05.md |
+| pas | 25/2000 | 2004-06-24 | parcial | Não caracterização da acusação de infração aos incisos I e II do artigo 1º da Instrução CVM nº 220/94. Absolvição. Não caracterização da… | cvm-pas-25-2000 | fichas/pas/2004-04.md |
+| pas | 05/2001 | 2004-06-21 | parcial | MILBANCO CCV E OUTROS a) Realização de operação fraudulenta decorrente do conhecimento prévio por outros investidores do mercado da compra… | cvm-pas-05-2001 | fichas/pas/2004-03.md |
+| acordao-crsfn | RJ/2001/6226 | 2004-05-26 | condenacao | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários - Internet - Difusão, pela rede, de falsa informação acerca de recompra de ações de… | crsfn-5039 | fichas/crsfn/2004-02.md |
+| pas | 34/1998 | 2004-05-06 | parcial | Operações fraudulentas- Multa e Absolvição. Exercício, sem autorização, da atividade de administrador de carteira de valores mobiliários… | cvm-pas-34-1998 | fichas/pas/2004-02.md |
+| pas | 32/1998 | 2004-05-06 | parcial | Infração ao artigos 4º e 10º, itens I e II, da Instrução CVM nº 220/94 - Multas e Absolvição. - Violação dos incisos I e II, “c” da… | cvm-pas-32-1998 | fichas/pas/2004-02.md |
+| pas | 22/1994 | 2004-04-15 | condenacao | Utilização de prática não-equitativa, conforme conceituada no inciso II, alínea “d”, da Instrução CVM n° 08, de 08.10.79. Multas | cvm-pas-22-1994 | fichas/pas/2004-02.md |
+| pas | SP2002/0397 | 2003-12-18 | parcial | Realização de prática não-eqüitativa, conceituada na alínea "d" do item II e vedada pelo item I da Instrução CVM nº 08/79. Multa e… | cvm-pas-sp2002-0397 | fichas/pas/2003-10.md |
+| pas | SP2003/0148 | 2003-12-17 | parcial | Realização de operações no mercado de valores mobiliários com base em procuração e informações cadastrais falsas. Infração ao disposto no… | cvm-pas-sp2003-0148 | fichas/pas/2003-10.md |
+| pas | RJ2002/5015 | 2003-12-11 | condenacao | A realização de negócios de compra e venda em bolsa de valores com o objetivo de gerar lucro para uma das partes e prejuízo para a outra é… | cvm-pas-rj2002-5015 | fichas/pas/2003-09.md |
+| pas | SP2002/0564 | 2003-11-19 | parcial | Ocorrência de prática não-equitativa, vedada pelo inciso I da Instrução CVM nº 08/79, e tipificada na alínea “d” do inciso II da norma… | cvm-pas-sp2002-0564 | fichas/pas/2003-08.md |
+| pas | 04/2002 | 2003-11-13 | parcial | Operação fraudulenta. Desvio de ações da custódia de sociedade corretora - pena de 3 vezes o valor da vantagem econômica obtida e… | cvm-pas-04-2002 | fichas/pas/2003-08.md |
+| pas | RJ2002/2937 | 2003-09-17 | condenacao | a) Realização de operação fraudulenta no mercado de valores mobiliários envolvendo entidade de previdência privada (Instrução CVM Nº 8/79)… | cvm-pas-rj2002-2937 | fichas/pas/2003-05.md |
+| pas | SP2002/0098 | 2003-09-11 | parcial | Realização de operação fraudulenta em infração ao item I, da Instrução CVM nº 08/79- absolvição e proibição. Infração aos artigos 3º, 4º e… | cvm-pas-sp2002-0098 | fichas/pas/2003-05.md |
+| acordao-crsfn | 39/98 | 2003-08-18 | condenacao | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários - Realização de operações em detrimento de cliente da sociedade - Irregularidade… | crsfn-4223 | fichas/crsfn/2003-02.md |
+| pas | RJ2001/6226 | 2003-05-15 | condenacao | Tentativa de manipulação de preço de ações através de simulação de conversa em "site" mantido por corretora destinado à troca de opiniões… | cvm-pas-rj2001-6226 | fichas/pas/2003-03.md |
+| pas | 38/2000 | 2003-04-02 | parcial | infração ao item I da Instrução CVM nº 08/79, conforme conceituado nas alíneas "c" e "d" do inciso II da mesma Instrução CVM nº 08/79… | cvm-pas-38-2000 | fichas/pas/2003-02.md |
+| pas | 28/1999 | 2003-03-20 | parcial | A venda de ações com o recebimento do preço sem a entrega dos respectivos títulos se constitui em operação fraudulenta, ainda que os… | cvm-pas-28-1999 | fichas/pas/2003-01.md |
+| acordao-crsfn | 21/95 | 2003-02-19 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Práticas não eqüitativas em operações day-trade – Intermediação… | crsfn-3333 | fichas/crsfn/2003-01.md |
+| acordao-crsfn | 02/2000 | 2003-01-29 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO ─ Mercado de valores mobiliários ─ Prática não eqüitativa ─ Falta de informações referentes às… | crsfn-3878 | fichas/crsfn/2003-01.md |
+| pas | 26/2000 | 2002-12-12 | condenacao | FUNDAÇÃO DE SEGURIDADE SOCIAL DOS SISTEMAS EMBRAPA E EMBRATER) Criação de condições artificiais de demanda e manipulação de preços… | cvm-pas-26-2000 | fichas/pas/2002-07.md |
+| acordao-crsfn | 10/96 | 2002-12-11 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários – Práticas não eqüitativas – Realização de operações day trade… | crsfn-3678 | fichas/crsfn/2002-04.md |
+| acordao-crsfn | 34/99 | 2002-10-24 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários – Realização de operações de compra de ações fora de bolsa de valores… | crsfn-4019 | fichas/crsfn/2002-03.md |
+| termo-compromisso | RJ2001/6226 | 2002-09-20 | rejeitado | O Colegiado acompanhou o voto da diretora relatora e indeferiu a proposta de termo de compromisso do acusado em inquérito por manipulação… | cvm-col-20020920-d01 | fichas/tc/2002.md |
+| acordao-crsfn | 05/98 | 2002-08-01 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários – Realização de operações ("day-trade") no mercado futuro de índice de… | crsfn-3649 | fichas/crsfn/2002-02.md |
+| acordao-crsfn | 16/97 | 2002-06-27 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Criação de condições artificiais de demanda, oferta ou preço de valores… | crsfn-3015 | fichas/crsfn/2002-02.md |
+| pas | 20/1999 | 2002-04-18 | absolvicao | BANCO MARKA S/A E OUTROS Operações realizadas na BM&F, envolvendo contratos de índice futuro IBOVESPA, por conta do "The Evolution Fund… | cvm-pas-20-1999 | fichas/pas/2002-03.md |
+| acordao-crsfn | 13/99 | 2002-03-25 | parcial | RECURSO VOLUNTÁRIO E DE OFÍCIO - Mercado de valores mobiliários – Prática não equitativa – Intermediação de operações de compra e venda de… | crsfn-3785 | fichas/crsfn/2002-01.md |
+| pas | 06/1999 | 2002-03-21 | condenacao | CQJR DTVM LTDA E OUTROS Operação fraudulenta no Mercado de Valores Mobiliários. Transferência de carteira de ações sem ordem do investidor… | cvm-pas-06-1999 | fichas/pas/2002-02.md |
+| pas | 06/1994 | 2002-03-21 | parcial | [pessoa física], SOCOPA E OUTROS Em face do conhecimento acerca das intenções negociais, no mercado de valores mobiliários, de diversos… | cvm-pas-06-1994 | fichas/pas/2002-01.md |
+| acordao-crsfn | 35/98 | 2002-02-27 | arquivamento | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Bolsa de valores – Mercado à vista – Manipulação de preços – Volatilidade – Movimento… | crsfn-3435 | fichas/crsfn/2002-01.md |
+| pas | 01/1999 | 2001-12-19 | parcial | MAFRA DTVM LTDA., [pessoa física] E OUTROS I. Desvio de custódia de ações e apropriação indevida de valores e títulos de propriedade de… | cvm-pas-01-1999 | fichas/pas/2001-09.md |
+| acordao-crsfn | 02/98 | 2001-11-29 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários – Práticas não eqüitativas – Realização de operações com índice… | crsfn-3071 | fichas/crsfn/2001-03.md |
+| pas | 39/1998 | 2001-11-21 | condenacao | [pessoa física] E OUTROS Operação fraudulenta no Mercado de Valores Mobiliários, por parte de [pessoa física] e [pessoa física] de [pessoa… | cvm-pas-39-1998 | fichas/pas/2001-07.md |
+| pas | 11/1997 | 2001-10-18 | condenacao | [pessoa física] E OUTROS (CEMAT) [pessoa física] e Outros / Centrais Elétricas de Mato Grosso - CEMAT: - Atos de liberalidade por parte de… | cvm-pas-11-1997 | fichas/pas/2001-07.md |
+| pas | 02/1999 | 2001-09-06 | parcial | Operações day-trade interpraças com prévio conhecimento e direcionamento artificial das operações de venda a praça onde as ações… | cvm-pas-02-1999 | fichas/pas/2001-06.md |
+| pas | 33/1999 | 2001-08-30 | parcial | AÇÃO S/A CVC, [pessoa física] E OUTROS Ementa: I. Empréstimo de ações intermediado por corretora, em prejuízo dos clientes. Operação… | cvm-pas-33-1999 | fichas/pas/2001-05.md |
+| pas | 15/1997 | 2001-08-23 | parcial | PAULINO CAMPOS FERNANDES BASTOS, PROBANK DTVM LTDA e OUTROS (TRIBO LICENCIAMENTOS E AGENCIAMENTOS LTDA.) Operações Fraudulentas e… | cvm-pas-15-1997 | fichas/pas/2001-05.md |
+| pas | 02/2000 | 2001-06-07 | parcial | [pessoa física], RENDA DTVM LTDA., INDUSVAL S/A TVM E OUTROS Realização de negócios em bolsa de valores sem observância dos parâmetros… | cvm-pas-02-2000 | fichas/pas/2001-02.md |
+| acordao-crsfn | 016/93 | 2001-04-27 | parcial | RECURSOS VOLUNTÁRIO E DE OFÍCIO – Mercado de valores mobiliários – Criação de condições artificiais de oferta de ações preferenciais… | crsfn-2605 | fichas/crsfn/2001-01.md |
+| pas | 13/1999 | 2001-04-05 | parcial | Prática n&atide;o-equitativa no mercado de valores mobiliários em negociação direta intermediada pela Rendicap Corretora de Câmbio, Títulos… | cvm-pas-13-1999 | fichas/pas/2001-01.md |
+| acordao-crsfn | 04/98 | 2001-02-13 | parcial | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Prática não eqüitativa - "Day-trade" – Operação de clientes no mercado de opções sem… | crsfn-3058 | fichas/crsfn/2001-01.md |
+| pas | 17/1999 | 2001-01-25 | parcial | [pessoa física] E OUTROS (ARIJU S/A CCTVM) Práticas não-equitativas em negócios efetuados com ações de emissão da Usinas Siderúrgicas de… | cvm-pas-17-1999 | fichas/pas/2001-01.md |
+| acordao-crsfn | 07/98 | 2000-12-15 | condenacao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Prática não eqüitativa – Irregularidade na administração de carteira de valores… | crsfn-3063 | fichas/crsfn/2000-07.md |
+| pas | 05/1999 | 2000-11-23 | condenacao | BANCO DE INVESTIMENTOS CREDIT SUISSE FIRST BOSTON GARANTIA S.A., J.C. PENNEY BRASIL COMERCIAL LTDA., [pessoa física], [pessoa física] Uso… | cvm-pas-05-1999 | fichas/pas/2000-05.md |
+| pas | 05/1998 | 2000-11-16 | parcial | DC CORRETORA DE CÂMBIO, TÍTULOS E VALORES MOBILIÁRIOS S/A, [pessoa física], ITAÚ CV S/A, [pessoa física], [pessoa física], [pessoa física]… | cvm-pas-05-1998-2 | fichas/pas/2000-04.md |
+| pas | 10/1996 | 2000-11-09 | parcial | [pessoa física], BANCO ITAÚ S.A., [pessoa física], ITAÚ CORRETORA DE VALORES S.A., [pessoa física], BALUARTE CORRETORA DE TÍTULOS E VALORES… | cvm-pas-10-1996 | fichas/pas/2000-04.md |
+| acordao-crsfn | 23/98 | 2000-11-07 | condenacao | RECURSOS VOLUNTÁRIOS – Mercado de valores mobiliários – Prática não eqüitativa – Realização de operação "day- trade" com ações de baixa… | crsfn-3096 | fichas/crsfn/2000-06.md |
+| acordao-crsfn | 05/97 | 2000-09-29 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Prática não eqüitativa – Compra e venda de ações por clientes da corretora indiciada… | crsfn-3016 | fichas/crsfn/2000-05.md |
+| pas | 35/1998 | 2000-09-21 | absolvicao | [pessoa física], MERRILL LYNCH DTVM, MERRILL LYNCH CAPITAL MARKETS PLC, [pessoa física], CITIBANK DTVM S/A Contrato futuro de índice… | cvm-pas-35-1998 | fichas/pas/2000-03.md |
+| pas | 01/1998 | 2000-08-07 | parcial | Bittencourt S/A CTVC Carlos Guilherme Frederico Schiller de Souza, [pessoa física], [pessoa física], [pessoa física], [pessoa física]… | cvm-pas-01-1998 | fichas/pas/2000-02.md |
+| acordao-crsfn | 12/96 | 2000-07-28 | condenacao | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Carteira de clientes – Indevida movimentação pelo gerente da sociedade corretora… | crsfn-2876 | fichas/crsfn/2000-03.md |
+| acordao-crsfn | 19/95 | 2000-07-28 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Criação de condições artificiais de demanda, oferta ou preço – Prática… | crsfn-2870 | fichas/crsfn/2000-03.md |
+| acordao-crsfn | 16/98 | 2000-06-15 | parcial | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Realização de operações do tipo "day-trade" – Criação de condições artificiais de… | crsfn-3024 | fichas/crsfn/2000-03.md |
+| pas | 21/1995 | 2000-06-08 | parcial | [pessoa física], BANCO DO BRASIL S.A., BANCO ITAÚ S.A., [pessoa física], [pessoa física], [pessoa física], [pessoa física], [pessoa… | cvm-pas-21-1995 | fichas/pas/2000-02.md |
+| acordao-crsfn | 18/96 | 2000-04-27 | absolvicao | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Criação de condições artificiais de compra e venda de ações – Elevação das cotações em… | crsfn-2909 | fichas/crsfn/2000-01.md |
+| acordao-crsfn | 01/97 | 2000-03-23 | absolvicao | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Prática não eqüitativa – Operação day-trade - Operação de compra de ações por preços… | crsfn-2903 | fichas/crsfn/2000-01.md |
+| acordao-crsfn | 12/90 | 1999-11-25 | parcial | RECURSOS VOLUNTÁRIOS - Mercado de valores mobiliários – Contratação de empréstimo – Utilização do nome e do status creditício da empresa a… | crsfn-2595 | fichas/crsfn/1999-03.md |
+| acordao-crsfn | 97/0161 | 1999-10-28 | arquivamento | RECURSO DE OFÍCIO - Mercado de Valores Mobiliários – Bolsa de valores – Realização de negócios com um mesmo comitente, em um ou mais… | crsfn-2840 | fichas/crsfn/1999-03.md |
+| acordao-crsfn | 002/95 | 1999-07-29 | parcial | RECURSOS VOLUNTÁRIO E DE OFÍCIO – Mercado de valores mobiliários – Condições artificiais de demanda, oferta ou preço de ações – Uso de… | crsfn-2566 | fichas/crsfn/1999-01.md |
+| acordao-crsfn | 18/89 | 1998-11-24 | parcial | RECURSO VOLUNTÁRIOS E DE OFÍCIO. Mercado de Valores Mobiliários – Criação de condições artificiais de demanda – Manipulação de preço… | crsfn-2522 | fichas/crsfn/1998-04.md |
+| acordao-crsfn | 08/90 | 1998-02-17 | parcial | RECURSOS VOLUNTÁRIO E DE OFÍCIO. Mercado de valores mobiliários - Realização de operações dentro da sistemática de opções de compra de ação… | crsfn-2280 | fichas/crsfn/1998-01.md |
+| acordao-crsfn | 08/87 | 1998-01-28 | absolvicao | RECURSO DE OFÍCIO. Mercado de valores mobiliários - Ações preferenciais - Criação de condições artificiais de demanda - Irregularidades… | crsfn-2307 | fichas/crsfn/1998-01.md |
+| acordao-crsfn | 18/87 | 1997-10-30 | absolvicao | RECURSO DE OFÍCIO. Comissão de Valores Mobiliários - CVM - Manipulação de preços e criação artificial de demanda com ações em bolsa de… | crsfn-2153 | fichas/crsfn/1997-01.md |
+| acordao-crsfn | 08/90 | 1997-04-24 | condenacao | RECURSO DE OFÍCIO. Criação de condições artificiais de demanda, oferta e preço de valores mobiliários, mediante negociações artificiais em… | crsfn-1961 | fichas/crsfn/1997-01.md |
+| acordao-crsfn | 06/93 | 1996-12-11 | condenacao | RECURSO DE OFÍCIO. Criação de condições artificiais de demanda, oferta ou preço, através de realização de operações "day trade" e quebra… | crsfn-1956 | fichas/crsfn/1996-02.md |
+| acordao-crsfn | 07/89 | 1996-11-26 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO: Criação de condições artificiais de mercado e manipulação de preço, em operações simuladas realizadas por… | crsfn-1733 | fichas/crsfn/1996-02.md |
+| acordao-crsfn | 16/93 | 1996-09-12 | outro | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Criação de condições artificiais de demanda e oferta de valores mobiliários. Manipulação de preços e uso… | crsfn-1651 | fichas/crsfn/1996-02.md |
+| acordao-crsfn | 09/93 | 1996-08-07 | outro | RECURSO DE OFÍCIO. Operações de compra e venda de ações vedadas pela Instrução CVM 10/80 art. 2º, alínea "d", e de prática não equitativa… | crsfn-1739 | fichas/crsfn/1996-02.md |
+| acordao-crsfn | 09 | 1996-05-15 | absolvicao | RECURSO DE OFÍCIO. Criação de condições artificiais de demanda, oferta ou preços de valores mobiliários. Infringência à Instrução Normativa… | crsfn-1649 | fichas/crsfn/1996-01.md |
+| acordao-crsfn | 11/88 | 1996-02-15 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Criação de condições artificiais de demanda, oferta e preço. Uso de práticas não equitativas em operações… | crsfn-1552 | fichas/crsfn/1996-01.md |
 
 Fim do subíndice.

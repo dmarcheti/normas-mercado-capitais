@@ -106,7 +106,7 @@ Norma: fora do acervo.
 | decisao-colegiado | 19957.004938/2018-65 | 2020-01-14 | conhecimento | cvm-col-20200114-d1363 | fichas/colegiado/2020-01.md |
 | decisao-colegiado | 05/2018; RJ2015/8824 | 2018-11-14 | parcial | cvm-col-20181114-d1160 | fichas/colegiado/2018-19.md |
 | decisao-colegiado | 505/2011; RJ2015/8824 | 2018-09-05 | outro | cvm-col-20180905-d1160 | fichas/colegiado/2018-16.md |
-| acordao-crsfn | RJ-2013-5682 | 2016-10-26 | parcial | crsfn-14445 | fichas/crsfn/2016-05.md |
+| acordao-crsfn | RJ-2013-5682 | 2016-10-26 | parcial | crsfn-14445 | fichas/crsfn/2016-09.md |
 | decisao-colegiado | 19957.001099/2015-81 | 2015-08-11 | nao-provido | cvm-col-20150811-d9785 | fichas/colegiado/2015-15.md |
 | decisao-colegiado | SP2007/0056 | 2012-02-23 | nao-provido | cvm-col-20120223-d23 | fichas/colegiado/2012-04.md |
 | decisao-colegiado | SP2007/0055 | 2012-02-23 | nao-provido | cvm-col-20120223-d22 | fichas/colegiado/2012-04.md |

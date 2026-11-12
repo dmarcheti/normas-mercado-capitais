@@ -62,7 +62,7 @@ Este subíndice tem 583 linhas e uma leitura única é cortada em silêncio pert
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 30/2005 | 2012-12-11 | parcial | cvm-pas-30-2005 | fichas/pas/2012-03.md |
+| pas | 30/2005 | 2012-12-11 | parcial | cvm-pas-30-2005 | fichas/pas/2012-06.md |
 
 ## in-2
 
@@ -70,7 +70,7 @@ Este subíndice tem 583 linhas e uma leitura única é cortada em silêncio pert
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 08/2009 | 2015-04-28 | condenacao | cvm-pas-08-2009 | fichas/pas/2015-02.md |
+| pas | 08/2009 | 2015-04-28 | condenacao | cvm-pas-08-2009 | fichas/pas/2015-04.md |
 
 ## in-7
 
@@ -78,7 +78,7 @@ Este subíndice tem 583 linhas e uma leitura única é cortada em silêncio pert
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 07/2001 | 2005-03-21 | absolvicao | cvm-pas-07-2001 | fichas/pas/2005-02.md |
+| pas | 07/2001 | 2005-03-21 | absolvicao | cvm-pas-07-2001 | fichas/pas/2005-04.md |
 
 ## in-32
 
@@ -86,13 +86,13 @@ Este subíndice tem 583 linhas e uma leitura única é cortada em silêncio pert
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 4º | acordao-crsfn | 08211.001203/2019-68 | 2020-05-19 | condenacao | crsfn-19957-100012-2019-81 | fichas/crsfn/2020-02.md |
+| art. 4º | acordao-crsfn | 08211.001203/2019-68 | 2020-05-19 | condenacao | crsfn-19957-100012-2019-81 | fichas/crsfn/2020-03.md |
 
 ### art. 5º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 5º | acordao-crsfn | 08211.001203/2019-68 | 2020-05-19 | condenacao | crsfn-19957-100012-2019-81 | fichas/crsfn/2020-02.md |
+| art. 5º | acordao-crsfn | 08211.001203/2019-68 | 2020-05-19 | condenacao | crsfn-19957-100012-2019-81 | fichas/crsfn/2020-03.md |
 
 ## in-51
 
@@ -100,7 +100,7 @@ Este subíndice tem 583 linhas e uma leitura única é cortada em silêncio pert
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 39 | acordao-crsfn | 11/98 | 2005-06-28 | condenacao | crsfn-4995 | fichas/crsfn/2005-01.md |
+| art. 39 | acordao-crsfn | 11/98 | 2005-06-28 | condenacao | crsfn-4995 | fichas/crsfn/2005-02.md |
 
 ## in-59
 
@@ -140,36 +140,36 @@ Este subíndice tem 583 linhas e uma leitura única é cortada em silêncio pert
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 4º | acordao-crsfn | 08211.001379/2019-10 | 2020-06-16 | condenacao | crsfn-19957-100003-2019-90 | fichas/crsfn/2020-03.md |
-| art. 4º | acordao-crsfn | 08211.001203/2019-68 | 2020-05-19 | condenacao | crsfn-19957-100012-2019-81 | fichas/crsfn/2020-02.md |
-| art. 4º | acordao-crsfn | 08211.001367/2019-95 | 2020-11-17 | arquivamento | crsfn-19957-100015-2019-14 | fichas/crsfn/2020-07.md |
-| art. 4º | acordao-crsfn | 08211.001267/2019-69 | 2020-06-16 | condenacao | crsfn-19957-100017-2019-11 | fichas/crsfn/2020-03.md |
+| art. 4º | acordao-crsfn | 08211.001379/2019-10 | 2020-06-16 | condenacao | crsfn-19957-100003-2019-90 | fichas/crsfn/2020-04.md |
+| art. 4º | acordao-crsfn | 08211.001203/2019-68 | 2020-05-19 | condenacao | crsfn-19957-100012-2019-81 | fichas/crsfn/2020-03.md |
+| art. 4º | acordao-crsfn | 08211.001367/2019-95 | 2020-11-17 | arquivamento | crsfn-19957-100015-2019-14 | fichas/crsfn/2020-09.md |
+| art. 4º | acordao-crsfn | 08211.001267/2019-69 | 2020-06-16 | condenacao | crsfn-19957-100017-2019-11 | fichas/crsfn/2020-04.md |
 
 ### art. 5º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 5º | acordao-crsfn | 08211.001379/2019-10 | 2020-06-16 | condenacao | crsfn-19957-100003-2019-90 | fichas/crsfn/2020-03.md |
-| art. 5º | acordao-crsfn | 08211.001203/2019-68 | 2020-05-19 | condenacao | crsfn-19957-100012-2019-81 | fichas/crsfn/2020-02.md |
-| art. 5º | acordao-crsfn | 08211.001367/2019-95 | 2020-11-17 | arquivamento | crsfn-19957-100015-2019-14 | fichas/crsfn/2020-07.md |
-| art. 5º | acordao-crsfn | 08211.001267/2019-69 | 2020-06-16 | condenacao | crsfn-19957-100017-2019-11 | fichas/crsfn/2020-03.md |
+| art. 5º | acordao-crsfn | 08211.001379/2019-10 | 2020-06-16 | condenacao | crsfn-19957-100003-2019-90 | fichas/crsfn/2020-04.md |
+| art. 5º | acordao-crsfn | 08211.001203/2019-68 | 2020-05-19 | condenacao | crsfn-19957-100012-2019-81 | fichas/crsfn/2020-03.md |
+| art. 5º | acordao-crsfn | 08211.001367/2019-95 | 2020-11-17 | arquivamento | crsfn-19957-100015-2019-14 | fichas/crsfn/2020-09.md |
+| art. 5º | acordao-crsfn | 08211.001267/2019-69 | 2020-06-16 | condenacao | crsfn-19957-100017-2019-11 | fichas/crsfn/2020-04.md |
 
 ### art. 7º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 7º | acordao-crsfn | 08211.001379/2019-10 | 2020-06-16 | condenacao | crsfn-19957-100003-2019-90 | fichas/crsfn/2020-03.md |
-| art. 7º | acordao-crsfn | 08211.001264/2019-25 | 2020-04-15 | condenacao | crsfn-19957-100007-2019-78 | fichas/crsfn/2020-02.md |
-| art. 7º | acordao-crsfn | 08211.001387/2019-66 | 2020-05-19 | condenacao | crsfn-19957-100009-2019-67 | fichas/crsfn/2020-02.md |
-| art. 7º | acordao-crsfn | 08211.001203/2019-68 | 2020-05-19 | condenacao | crsfn-19957-100012-2019-81 | fichas/crsfn/2020-02.md |
-| art. 7º | acordao-crsfn | 08211.001267/2019-69 | 2020-06-16 | condenacao | crsfn-19957-100017-2019-11 | fichas/crsfn/2020-03.md |
-| art. 7º | acordao-crsfn | 08211.001233/2019-74 | 2020-04-15 | condenacao | crsfn-19957-100018-2019-58 | fichas/crsfn/2020-02.md |
+| art. 7º | acordao-crsfn | 08211.001379/2019-10 | 2020-06-16 | condenacao | crsfn-19957-100003-2019-90 | fichas/crsfn/2020-04.md |
+| art. 7º | acordao-crsfn | 08211.001264/2019-25 | 2020-04-15 | condenacao | crsfn-19957-100007-2019-78 | fichas/crsfn/2020-03.md |
+| art. 7º | acordao-crsfn | 08211.001387/2019-66 | 2020-05-19 | condenacao | crsfn-19957-100009-2019-67 | fichas/crsfn/2020-03.md |
+| art. 7º | acordao-crsfn | 08211.001203/2019-68 | 2020-05-19 | condenacao | crsfn-19957-100012-2019-81 | fichas/crsfn/2020-03.md |
+| art. 7º | acordao-crsfn | 08211.001267/2019-69 | 2020-06-16 | condenacao | crsfn-19957-100017-2019-11 | fichas/crsfn/2020-04.md |
+| art. 7º | acordao-crsfn | 08211.001233/2019-74 | 2020-04-15 | condenacao | crsfn-19957-100018-2019-58 | fichas/crsfn/2020-03.md |
 
 ### art. 9º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 9º, inciso I | acordao-crsfn | 08211.001267/2019-69 | 2020-06-16 | condenacao | crsfn-19957-100017-2019-11 | fichas/crsfn/2020-03.md |
+| art. 9º, inciso I | acordao-crsfn | 08211.001267/2019-69 | 2020-06-16 | condenacao | crsfn-19957-100017-2019-11 | fichas/crsfn/2020-04.md |
 
 ### Citada sem dispositivo identificado
 
@@ -183,7 +183,7 @@ Este subíndice tem 583 linhas e uma leitura única é cortada em silêncio pert
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 16 | acordao-crsfn | RJ-2006-1266 | 2010-04-29 | condenacao | crsfn-11324 | fichas/crsfn/2010-03.md |
+| art. 16 | acordao-crsfn | RJ-2006-1266 | 2010-04-29 | condenacao | crsfn-11324 | fichas/crsfn/2010-04.md |
 | art. 16, inciso I, alínea a | decisao-colegiado | RJ2009/7788 | 2009-09-01 | nao-provido | cvm-col-20090901-d02 | fichas/colegiado/2009-15.md |
 | art. 16, inciso II | decisao-colegiado | RJ2009/7675 | 2009-08-25 | nao-provido | cvm-col-20090825-d06 | fichas/colegiado/2009-15.md |
 
@@ -191,13 +191,13 @@ Este subíndice tem 583 linhas e uma leitura única é cortada em silêncio pert
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 17 | acordao-crsfn | RJ-2006-1266 | 2010-04-29 | condenacao | crsfn-11324 | fichas/crsfn/2010-03.md |
+| art. 17 | acordao-crsfn | RJ-2006-1266 | 2010-04-29 | condenacao | crsfn-11324 | fichas/crsfn/2010-04.md |
 
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | RJ2005/2933 | 2008-12-10 | parcial | crsfn-9610 | fichas/crsfn/2008-06.md |
+| acordao-crsfn | RJ2005/2933 | 2008-12-10 | parcial | crsfn-9610 | fichas/crsfn/2008-07.md |
 | decisao-colegiado | RJ2008/8276 | 2008-09-16 | nao-provido | cvm-col-20080916-d07 | fichas/colegiado/2008-20.md |
 | decisao-colegiado | RJ2008/8275 | 2008-09-16 | nao-provido | cvm-col-20080916-d06 | fichas/colegiado/2008-20.md |
 
@@ -240,7 +240,7 @@ Este subíndice tem 583 linhas e uma leitura única é cortada em silêncio pert
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 3º | pas | SP2002/0257 | 2003-11-13 | condenacao | cvm-pas-sp2002-0257 | fichas/pas/2003-04.md |
+| art. 3º | pas | SP2002/0257 | 2003-11-13 | condenacao | cvm-pas-sp2002-0257 | fichas/pas/2003-08.md |
 
 ## in-302
 
@@ -249,8 +249,8 @@ Este subíndice tem 583 linhas e uma leitura única é cortada em silêncio pert
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 57, inciso IV | acordao-crsfn | SP-2004-113 | 2008-06-24 | arquivamento | crsfn-7529 | fichas/crsfn/2008-03.md |
-| art. 57, inciso IV | acordao-crsfn | 03/97 | 2008-06-24 | parcial | crsfn-8615 | fichas/crsfn/2008-03.md |
-| art. 57, inciso IV | acordao-crsfn | 27/03 | 2008-06-24 | parcial | crsfn-9637 | fichas/crsfn/2008-03.md |
+| art. 57, inciso IV | acordao-crsfn | 03/97 | 2008-06-24 | parcial | crsfn-8615 | fichas/crsfn/2008-04.md |
+| art. 57, inciso IV | acordao-crsfn | 27/03 | 2008-06-24 | parcial | crsfn-9637 | fichas/crsfn/2008-04.md |
 
 ## in-306
 
@@ -258,7 +258,7 @@ Este subíndice tem 583 linhas e uma leitura única é cortada em silêncio pert
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 2º | pas | 21/2006 | 2012-08-07 | parcial | cvm-pas-21-2006 | fichas/pas/2012-02.md |
+| art. 2º | pas | 21/2006 | 2012-08-07 | parcial | cvm-pas-21-2006 | fichas/pas/2012-03.md |
 
 ### art. 12
 
@@ -270,7 +270,7 @@ Este subíndice tem 583 linhas e uma leitura única é cortada em silêncio pert
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | RJ2013/11654 | 2018-10-03 | absolvicao | crsfn-14088 | fichas/crsfn/2018-06.md |
+| acordao-crsfn | RJ2013/11654 | 2018-10-03 | absolvicao | crsfn-14088 | fichas/crsfn/2018-08.md |
 
 ## in-308
 
@@ -278,8 +278,8 @@ Este subíndice tem 583 linhas e uma leitura única é cortada em silêncio pert
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 6º-A | pas | 19957.006891/2021-70 | 2022-09-27 | condenacao | cvm-pas-19957-006891-2021-70 | fichas/pas/2022-04.md |
-| art. 6º-A, inciso VI | acordao-crsfn | 19957.006891/2021-70 | 2023-11-07 | condenacao | crsfn-10372-100003-2023-72 | fichas/crsfn/2023-07.md |
+| art. 6º-A | pas | 19957.006891/2021-70 | 2022-09-27 | condenacao | cvm-pas-19957-006891-2021-70 | fichas/pas/2022-08.md |
+| art. 6º-A, inciso VI | acordao-crsfn | 19957.006891/2021-70 | 2023-11-07 | condenacao | crsfn-10372-100003-2023-72 | fichas/crsfn/2023-08.md |
 
 ### art. 16
 
@@ -297,7 +297,7 @@ Este subíndice tem 583 linhas e uma leitura única é cortada em silêncio pert
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 25, inciso II | acordao-crsfn | RJ2013/13355 | 2017-09-19 | condenacao | crsfn-10372-100166-2017-15 | fichas/crsfn/2017-07.md |
+| art. 25, inciso II | acordao-crsfn | RJ2013/13355 | 2017-09-19 | condenacao | crsfn-10372-100166-2017-15 | fichas/crsfn/2017-12.md |
 
 ## in-309
 
@@ -323,13 +323,13 @@ Este subíndice tem 583 linhas e uma leitura única é cortada em silêncio pert
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 2º | pas | 19957.007550/2019-05 | 2023-12-21 | condenacao | cvm-pas-19957-007550-2019-05 | fichas/pas/2023-10.md |
+| art. 2º | pas | 19957.007550/2019-05 | 2023-12-21 | condenacao | cvm-pas-19957-007550-2019-05 | fichas/pas/2023-19.md |
 
 ### art. 11
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 11 | acordao-crsfn | RJ2014/13353 | 2020-09-20 | outro | crsfn-edcl-10372-100295-2018-86 | fichas/crsfn/2020-05.md |
+| art. 11 | acordao-crsfn | RJ2014/13353 | 2020-09-20 | outro | crsfn-edcl-10372-100295-2018-86 | fichas/crsfn/2020-07.md |
 
 ### art. 12
 
@@ -359,7 +359,7 @@ Este subíndice tem 583 linhas e uma leitura única é cortada em silêncio pert
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | acordao-crsfn | 05/00 | 2009-02-16 | parcial | crsfn-7526 | fichas/crsfn/2009-01.md |
-| pas | 05/2000 | 2004-11-11 | parcial | cvm-pas-05-2000 | fichas/pas/2004-07.md |
+| pas | 05/2000 | 2004-11-11 | parcial | cvm-pas-05-2000 | fichas/pas/2004-14.md |
 
 ## in-372
 
@@ -381,7 +381,7 @@ Este subíndice tem 583 linhas e uma leitura única é cortada em silêncio pert
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 3º | pas | 19957.009486/2023-75 | 2025-08-26 | parcial | cvm-pas-19957-009486-2023-75 | fichas/pas/2025-04.md |
+| art. 3º | pas | 19957.009486/2023-75 | 2025-08-26 | parcial | cvm-pas-19957-009486-2023-75 | fichas/pas/2025-07.md |
 
 ### Citada sem dispositivo identificado
 
@@ -509,7 +509,7 @@ Este subíndice tem 583 linhas e uma leitura única é cortada em silêncio pert
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 37, § 1º | acordao-crsfn | RJ-2013-3484 | 2016-09-28 | parcial | crsfn-14049 | fichas/crsfn/2016-04.md |
+| art. 37, § 1º | acordao-crsfn | RJ-2013-3484 | 2016-09-28 | parcial | crsfn-14049 | fichas/crsfn/2016-08.md |
 
 ## in-543
 
@@ -533,7 +533,7 @@ Este subíndice tem 583 linhas e uma leitura única é cortada em silêncio pert
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | RJ2013/11654 | 2018-10-03 | absolvicao | crsfn-14088 | fichas/crsfn/2018-06.md |
+| acordao-crsfn | RJ2013/11654 | 2018-10-03 | absolvicao | crsfn-14088 | fichas/crsfn/2018-08.md |
 
 ## in-607
 
@@ -547,14 +547,14 @@ Este subíndice tem 583 linhas e uma leitura única é cortada em silêncio pert
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 66, § 3º | acordao-crsfn | 19957.008986/2020-47; RJ2020/06345 | 2022-08-09 | parcial | crsfn-10372-100034-2022-42 | fichas/crsfn/2022-04.md |
+| art. 66, § 3º | acordao-crsfn | 19957.008986/2020-47; RJ2020/06345 | 2022-08-09 | parcial | crsfn-10372-100034-2022-42 | fichas/crsfn/2022-05.md |
 
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 19957.008401/2016-11; RJ2017/38 | 2022-05-10 | parcial | crsfn-10372-100008-2021-33 | fichas/crsfn/2022-03.md |
-| acordao-crsfn | 30/2005 | 2020-04-14 | parcial | crsfn-13083-2 | fichas/crsfn/2020-02.md |
+| acordao-crsfn | 19957.008401/2016-11; RJ2017/38 | 2022-05-10 | parcial | crsfn-10372-100008-2021-33 | fichas/crsfn/2022-04.md |
+| acordao-crsfn | 30/2005 | 2020-04-14 | parcial | crsfn-13083-2 | fichas/crsfn/2020-03.md |
 
 ## in-834
 

@@ -11,12 +11,12 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 1º | acordao-crsfn | 18/2010 | 2016-06-28 | parcial | crsfn-10372-000632-2016-74 | fichas/crsfn/2016-03.md |
-| art. 1º | pas | 18/2010 | 2013-11-26 | parcial | cvm-pas-18-2010 | fichas/pas/2013-05.md |
-| art. 1º | pas | 19957.005572/2019-22 | 2025-12-09 | absolvicao | cvm-pas-19957-005572-2019-22 | fichas/pas/2025-05.md |
+| art. 1º | acordao-crsfn | 18/2010 | 2016-06-28 | parcial | crsfn-10372-000632-2016-74 | fichas/crsfn/2016-04.md |
+| art. 1º | pas | 18/2010 | 2013-11-26 | parcial | cvm-pas-18-2010 | fichas/pas/2013-11.md |
+| art. 1º | pas | 19957.005572/2019-22 | 2025-12-09 | absolvicao | cvm-pas-19957-005572-2019-22 | fichas/pas/2025-10.md |
 | art. 1º, inciso II | decisao-colegiado | RJ2008/4091 | 2009-01-21 | indeferido | cvm-col-20090121-d03 | fichas/colegiado/2009-01.md |
-| art. 1º, inciso II | pas | RJ2008/9120 | 2009-10-13 | absolvicao | cvm-pas-rj2008-9120 | fichas/pas/2009-05.md |
-| art. 1º, inciso II | pas | 19957.005572/2019-22 | 2025-12-09 | absolvicao | cvm-pas-19957-005572-2019-22 | fichas/pas/2025-05.md |
+| art. 1º, inciso II | pas | RJ2008/9120 | 2009-10-13 | absolvicao | cvm-pas-rj2008-9120 | fichas/pas/2009-09.md |
+| art. 1º, inciso II | pas | 19957.005572/2019-22 | 2025-12-09 | absolvicao | cvm-pas-19957-005572-2019-22 | fichas/pas/2025-10.md |
 
 ## art. 4º
 
@@ -28,7 +28,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 5º | acordao-crsfn | RJ-2006-2106 | 2010-05-25 | parcial | crsfn-11430 | fichas/crsfn/2010-04.md |
+| art. 5º | acordao-crsfn | RJ-2006-2106 | 2010-05-25 | parcial | crsfn-11430 | fichas/crsfn/2010-05.md |
 | art. 5º, § 1º | decisao-colegiado | RJ2014/6629 | 2015-03-10 | nao-provido | cvm-col-20150310-d9342 | fichas/colegiado/2015-04.md |
 
 ## art. 7º
@@ -54,14 +54,14 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 15 | pas | RJ2015/1034 | 2016-08-23 | condenacao | cvm-pas-rj2015-1034 | fichas/pas/2016-03.md |
-| art. 15 | pas | SP2012/0374 | 2016-07-19 | parcial | cvm-pas-sp2012-0374 | fichas/pas/2016-02.md |
+| art. 15 | pas | RJ2015/1034 | 2016-08-23 | condenacao | cvm-pas-rj2015-1034 | fichas/pas/2016-06.md |
+| art. 15 | pas | SP2012/0374 | 2016-07-19 | parcial | cvm-pas-sp2012-0374 | fichas/pas/2016-04.md |
 
 ## art. 18
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 18 | acordao-crsfn | 03/2011 | 2023-08-09 | absolvicao | crsfn-10372-100285-2019-21 | fichas/crsfn/2023-05.md |
+| art. 18 | acordao-crsfn | 03/2011 | 2023-08-09 | absolvicao | crsfn-10372-100285-2019-21 | fichas/crsfn/2023-06.md |
 
 ## art. 23
 
@@ -76,14 +76,14 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 26 | acordao-crsfn | RJ2013/7916 | 2017-06-27 | parcial | crsfn-14270 | fichas/crsfn/2017-04.md |
+| art. 26 | acordao-crsfn | RJ2013/7916 | 2017-06-27 | parcial | crsfn-14270 | fichas/crsfn/2017-09.md |
 
 ## art. 31
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 31, § 1º | acordao-crsfn | 03/2011 | 2023-08-09 | absolvicao | crsfn-10372-100285-2019-21 | fichas/crsfn/2023-05.md |
-| art. 31, § 2º | acordao-crsfn | 03/2011 | 2023-08-09 | absolvicao | crsfn-10372-100285-2019-21 | fichas/crsfn/2023-05.md |
+| art. 31, § 1º | acordao-crsfn | 03/2011 | 2023-08-09 | absolvicao | crsfn-10372-100285-2019-21 | fichas/crsfn/2023-06.md |
+| art. 31, § 2º | acordao-crsfn | 03/2011 | 2023-08-09 | absolvicao | crsfn-10372-100285-2019-21 | fichas/crsfn/2023-06.md |
 
 ## art. 34
 
@@ -97,8 +97,8 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 78 | pas | RJ2015/1034 | 2016-08-23 | condenacao | cvm-pas-rj2015-1034 | fichas/pas/2016-03.md |
-| art. 78 | pas | SP2012/0374 | 2016-07-19 | parcial | cvm-pas-sp2012-0374 | fichas/pas/2016-02.md |
+| art. 78 | pas | RJ2015/1034 | 2016-08-23 | condenacao | cvm-pas-rj2015-1034 | fichas/pas/2016-06.md |
+| art. 78 | pas | SP2012/0374 | 2016-07-19 | parcial | cvm-pas-sp2012-0374 | fichas/pas/2016-04.md |
 
 ## Citada sem dispositivo identificado
 
@@ -106,19 +106,19 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.005195/2025-70 | 2026-06-24 | nao-provido | cvm-col-20260624-d4-d3436 | fichas/colegiado/2026-03.md |
 | decisao-colegiado | 19957.005195/2025-70 | 2026-05-06 | nao-provido | cvm-col-20260506-d3436 | fichas/colegiado/2026-02.md |
-| pas | 19957.003611/2020-91 | 2024-12-19 | parcial | cvm-pas-19957-003611-2020-91 | fichas/pas/2024-12.md |
+| pas | 19957.003611/2020-91 | 2024-12-19 | parcial | cvm-pas-19957-003611-2020-91 | fichas/pas/2024-24.md |
 | decisao-colegiado | 19957.003611/2020-91 | 2024-11-05 | indeferido | cvm-col-20241105-d1905 | fichas/colegiado/2024-12.md |
-| acordao-crsfn | 19957.002835/2022-47 | 2024-05-07 | condenacao | crsfn-10372-100148-2023-73 | fichas/crsfn/2024-02.md |
-| pas | 19957.009206/2018-61 | 2023-04-11 | parcial | cvm-pas-19957-009206-2018-61 | fichas/pas/2023-02.md |
+| acordao-crsfn | 19957.002835/2022-47 | 2024-05-07 | condenacao | crsfn-10372-100148-2023-73 | fichas/crsfn/2024-03.md |
+| pas | 19957.009206/2018-61 | 2023-04-11 | parcial | cvm-pas-19957-009206-2018-61 | fichas/pas/2023-03.md |
 | decisao-colegiado | 19957.006626/2020-19 | 2021-07-20 | outro | cvm-col-20210720-d2235 | fichas/colegiado/2021-12.md |
 | decisao-colegiado | 19957.003611/2020-91; 19957.003612/2020-35 | 2020-09-08 | nao-provido | cvm-col-20200908-d1905 | fichas/colegiado/2020-15.md |
-| pas | 19957.005981/2016-86; RJ2016/7197 | 2019-11-19 | absolvicao | cvm-pas-19957-005981-2016-86 | fichas/pas/2019-10.md |
+| pas | 19957.005981/2016-86; RJ2016/7197 | 2019-11-19 | absolvicao | cvm-pas-19957-005981-2016-86 | fichas/pas/2019-19.md |
 | decisao-colegiado | 19957.007916/2019-38 | 2019-10-22 | parcial | cvm-col-20191022-d1582 | fichas/colegiado/2019-17.md |
-| acordao-crsfn | RJ2008/12062 | 2014-10-21 | arquivamento | crsfn-12711 | fichas/crsfn/2014-05.md |
+| acordao-crsfn | RJ2008/12062 | 2014-10-21 | arquivamento | crsfn-12711 | fichas/crsfn/2014-06.md |
 | acordao-crsfn | RJ-2008-9120 | 2014-03-18 | absolvicao | crsfn-12794 | fichas/crsfn/2014-02.md |
 | decisao-colegiado | RJ2012/7865 | 2013-02-26 | nao-provido | cvm-col-20130226-d04 | fichas/colegiado/2013-05.md |
 | decisao-colegiado | RJ2008/4134 | 2009-03-03 | nao-provido | cvm-col-20090303-d02 | fichas/colegiado/2009-03.md |
-| pas | 04/2004 | 2006-06-28 | parcial | cvm-pas-04-2004 | fichas/pas/2006-07.md |
+| pas | 04/2004 | 2006-06-28 | parcial | cvm-pas-04-2004 | fichas/pas/2006-13.md |
 | decisao-colegiado | RJ2002/7471 | 2004-12-23 | nao-provido | cvm-col-20041223-d25 | fichas/colegiado/2004-17.md |
 
 Fim do subíndice.

@@ -7,9 +7,9 @@ Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho rel
 
 Número normalizado: NUP `99999-999999-AAAA-DD`; processo antigo `rj2015-13791` (sigla em minúsculas, ano, número com 4 dígitos); numeração curta dos PAS `NN-AAAA`. Procure pelo número normalizado ou pela forma do julgado. Dois julgados do mesmo processo (um PAS e o termo de compromisso ou o acórdão do CRSFN dele) aparecem com o mesmo número.
 
-| Processo (normalizado) | Forma no julgado | Tipo | Data | Id | Ficha |
-|---|---|---|---|---|---|
-| 08-1987 | 08/87 | acordao-crsfn | 1998-01-28 | crsfn-2307 | fichas/crsfn/1998-01.md |
-| 18-1987 | 18/87 | acordao-crsfn | 1997-10-30 | crsfn-2153 | fichas/crsfn/1997-01.md |
+| Processo (normalizado) | Forma no julgado | Tipo | Data | Ementa | Id | Ficha |
+|---|---|---|---|---|---|---|
+| 08-1987 | 08/87 | acordao-crsfn | 1998-01-28 | RECURSO DE OFÍCIO. Mercado de valores mobiliários - Ações preferenciais - Criação de condições artificiais de demanda - Irregularidades… | crsfn-2307 | fichas/crsfn/1998-01.md |
+| 18-1987 | 18/87 | acordao-crsfn | 1997-10-30 | RECURSO DE OFÍCIO. Comissão de Valores Mobiliários - CVM - Manipulação de preços e criação artificial de demanda com ações em bolsa de… | crsfn-2153 | fichas/crsfn/1997-01.md |
 
 Fim do subíndice.

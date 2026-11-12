@@ -11,7 +11,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 12, inciso III | pas | 17/2001 | 2003-10-16 | condenacao | cvm-pas-17-2001 | fichas/pas/2003-04.md |
+| art. 12, inciso III | pas | 17/2001 | 2003-10-16 | condenacao | cvm-pas-17-2001 | fichas/pas/2003-07.md |
 
 ## art. 22
 
@@ -40,7 +40,7 @@ Norma: fora do acervo.
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 52 | decisao-antiga | — | 1994-01-04 | — | cvm-dec-1994-0001 | fichas/decisoes-antigas/1994-05.md |
-| art. 52 | pas | RJ2015/10642 | 2017-12-19 | parcial | cvm-pas-rj2015-10642 | fichas/pas/2017-06.md |
+| art. 52 | pas | RJ2015/10642 | 2017-12-19 | parcial | cvm-pas-rj2015-10642 | fichas/pas/2017-12.md |
 | art. 52, inciso II | acordao-crsfn | RJ-2002/03 | 2009-01-27 | absolvicao | crsfn-5656 | fichas/crsfn/2009-01.md |
 
 ## art. 95
@@ -48,7 +48,7 @@ Norma: fora do acervo.
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 95, alínea d | acordao-crsfn | RJ-2006-1853 | 2010-04-29 | parcial | crsfn-11215 | fichas/crsfn/2010-03.md |
-| art. 95, alínea d | acordao-crsfn | RJ-2005-7507 | 2010-04-29 | condenacao | crsfn-11326 | fichas/crsfn/2010-03.md |
+| art. 95, alínea d | acordao-crsfn | RJ-2005-7507 | 2010-04-29 | condenacao | crsfn-11326 | fichas/crsfn/2010-04.md |
 
 ## art. 123
 
@@ -60,6 +60,6 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 16/2010 | 2021-08-10 | parcial | crsfn-edcl-10372-100252-2019-81 | fichas/crsfn/2021-02.md |
+| acordao-crsfn | 16/2010 | 2021-08-10 | parcial | crsfn-edcl-10372-100252-2019-81 | fichas/crsfn/2021-03.md |
 
 Fim do subíndice.

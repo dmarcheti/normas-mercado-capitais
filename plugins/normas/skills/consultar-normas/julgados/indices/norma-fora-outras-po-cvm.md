@@ -14,7 +14,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2015/12594 | 2016-12-06 | absolvicao | cvm-pas-rj2015-12594 | fichas/pas/2016-07.md |
+| pas | RJ2015/12594 | 2016-12-06 | absolvicao | cvm-pas-rj2015-12594 | fichas/pas/2016-14.md |
 
 ## po-cvm-4-2018
 
@@ -22,7 +22,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 03/2012 | 2023-08-24 | condenacao | crsfn-10372-100031-2020-47 | fichas/crsfn/2023-05.md |
+| acordao-crsfn | 03/2012 | 2023-08-24 | condenacao | crsfn-10372-100031-2020-47 | fichas/crsfn/2023-06.md |
 
 ## po-cvm-11-2008
 
@@ -30,7 +30,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 7º | pas | RJ2011/4517 | 2013-12-17 | parcial | cvm-pas-rj2011-4517 | fichas/pas/2013-07.md |
+| art. 7º | pas | RJ2011/4517 | 2013-12-17 | parcial | cvm-pas-rj2011-4517 | fichas/pas/2013-14.md |
 
 ## po-cvm-29-1986
 
@@ -78,7 +78,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.008172/2021-93 | 2023-09-05 | absolvicao | cvm-pas-19957-008172-2021-93 | fichas/pas/2023-05.md |
+| pas | 19957.008172/2021-93 | 2023-09-05 | absolvicao | cvm-pas-19957-008172-2021-93 | fichas/pas/2023-10.md |
 
 ## po-cvm-351
 
@@ -86,7 +86,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2014/10556 | 2017-11-29 | parcial | cvm-pas-rj2014-10556 | fichas/pas/2017-04.md |
+| pas | RJ2014/10556 | 2017-11-29 | parcial | cvm-pas-rj2014-10556 | fichas/pas/2017-09.md |
 
 ## po-cvm-3218
 
@@ -94,7 +94,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.007254/2021-11 | 2024-03-05 | parcial | cvm-pas-19957-007254-2021-11 | fichas/pas/2024-01.md |
+| pas | 19957.007254/2021-11 | 2024-03-05 | parcial | cvm-pas-19957-007254-2021-11 | fichas/pas/2024-02.md |
 
 ## po-cvm-3526
 
@@ -102,7 +102,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.009118/2019-41 | 2022-05-24 | absolvicao | cvm-pas-19957-009118-2019-41 | fichas/pas/2022-03.md |
+| pas | 19957.009118/2019-41 | 2022-05-24 | absolvicao | cvm-pas-19957-009118-2019-41 | fichas/pas/2022-05.md |
 
 ## po-cvm-3661
 

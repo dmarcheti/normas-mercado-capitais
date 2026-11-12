@@ -30,8 +30,8 @@ Norma: fora do acervo.
 | art. 6º, inciso III | decisao-colegiado | RJ2014/7526 | 2014-07-29 | nao-provido | cvm-col-20140729-d04 | fichas/colegiado/2014-14.md |
 | art. 6º, inciso III | decisao-colegiado | 19957.003611/2020-91; 19957.003612/2020-35 | 2020-09-08 | nao-provido | cvm-col-20200908-d1905 | fichas/colegiado/2020-15.md |
 | art. 6º, inciso III | decisao-colegiado | 19957.002055/2022-05 | 2023-05-23 | nao-provido | cvm-col-20230523-d2804 | fichas/colegiado/2023-06.md |
-| art. 6º, inciso III | pas | 19957.009152/2018-34 | 2023-12-12 | parcial | cvm-pas-19957-009152-2018-34 | fichas/pas/2023-09.md |
-| art. 6º, inciso III | pas | 19957.009206/2018-61 | 2023-04-11 | parcial | cvm-pas-19957-009206-2018-61 | fichas/pas/2023-02.md |
+| art. 6º, inciso III | pas | 19957.009152/2018-34 | 2023-12-12 | parcial | cvm-pas-19957-009152-2018-34 | fichas/pas/2023-17.md |
+| art. 6º, inciso III | pas | 19957.009206/2018-61 | 2023-04-11 | parcial | cvm-pas-19957-009206-2018-61 | fichas/pas/2023-03.md |
 
 ## art. 7º
 
@@ -101,7 +101,7 @@ Norma: fora do acervo.
 | decisao-colegiado | 19957.003343/2025-11 | 2026-03-24 | parcial | cvm-col-20260324-d3438 | fichas/colegiado/2026-01.md |
 | decisao-colegiado | 19957.013283/2024-64 | 2025-09-02 | nao-provido | cvm-col-20250902-d3302 | fichas/colegiado/2025-09.md |
 | decisao-colegiado | 19957.021350/2024-14 | 2025-02-11 | provido | cvm-col-20250211-d3223 | fichas/colegiado/2025-01.md |
-| acordao-crsfn | 19957.002835/2022-47 | 2024-05-07 | condenacao | crsfn-10372-100148-2023-73 | fichas/crsfn/2024-02.md |
+| acordao-crsfn | 19957.002835/2022-47 | 2024-05-07 | condenacao | crsfn-10372-100148-2023-73 | fichas/crsfn/2024-03.md |
 | decisao-colegiado | 19957.005866/2018-73 | 2022-12-06 | indeferido | cvm-col-20221206-d1481-19 | fichas/colegiado/2022-16.md |
 | decisao-colegiado | 19957.005755/2022-43 | 2022-07-26 | deferido | cvm-col-20220726-d2659 | fichas/colegiado/2022-12.md |
 | decisao-colegiado | 19957.009028/2021-74 | 2022-05-31 | parcial | cvm-col-20220531-d2608 | fichas/colegiado/2022-09.md |

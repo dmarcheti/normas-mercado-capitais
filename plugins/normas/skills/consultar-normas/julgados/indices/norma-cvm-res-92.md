@@ -11,7 +11,7 @@ Norma: [cvm/resolucoes/0092.md](../../normas/cvm/resolucoes/0092.md) (texto vige
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 63, § 4º | pas | 19957.002835/2022-47 | 2023-08-29 | condenacao | cvm-pas-19957-002835-2022-47 | fichas/pas/2023-05.md |
+| art. 63, § 4º | pas | 19957.002835/2022-47 | 2023-08-29 | condenacao | cvm-pas-19957-002835-2022-47 | fichas/pas/2023-09.md |
 
 ## Citada sem dispositivo identificado
 

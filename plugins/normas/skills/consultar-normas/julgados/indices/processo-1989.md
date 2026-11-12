@@ -7,12 +7,12 @@ Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho rel
 
 Número normalizado: NUP `99999-999999-AAAA-DD`; processo antigo `rj2015-13791` (sigla em minúsculas, ano, número com 4 dígitos); numeração curta dos PAS `NN-AAAA`. Procure pelo número normalizado ou pela forma do julgado. Dois julgados do mesmo processo (um PAS e o termo de compromisso ou o acórdão do CRSFN dele) aparecem com o mesmo número.
 
-| Processo (normalizado) | Forma no julgado | Tipo | Data | Id | Ficha |
-|---|---|---|---|---|---|
-| 04-1989 | 04/89 | acordao-crsfn | 2001-02-13 | crsfn-2808 | fichas/crsfn/2001-01.md |
-| 06-1989 | 06/89 | acordao-crsfn | 1996-02-15 | crsfn-1583 | fichas/crsfn/1996-01.md |
-| 07-1989 | 07/89 | acordao-crsfn | 1996-11-26 | crsfn-1733 | fichas/crsfn/1996-02.md |
-| 17-1989 | 17/89 | acordao-crsfn | 1996-03-13 | crsfn-1554 | fichas/crsfn/1996-01.md |
-| 18-1989 | 18/89 | acordao-crsfn | 1998-11-24 | crsfn-2522 | fichas/crsfn/1998-03.md |
+| Processo (normalizado) | Forma no julgado | Tipo | Data | Ementa | Id | Ficha |
+|---|---|---|---|---|---|---|
+| 04-1989 | 04/89 | acordao-crsfn | 2001-02-13 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários - Debêntures – Emissão sem o prévio registro na CVM – Irregularidade… | crsfn-2808 | fichas/crsfn/2001-01.md |
+| 06-1989 | 06/89 | acordao-crsfn | 1996-02-15 | RECURSOS VOLUNTÁRIO E DE OFÍCIO. Alienação do controle acionário da Têxtil Arp S.A. (TASA), sem a realização de oferta pública e sem as… | crsfn-1583 | fichas/crsfn/1996-01.md |
+| 07-1989 | 07/89 | acordao-crsfn | 1996-11-26 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO: Criação de condições artificiais de mercado e manipulação de preço, em operações simuladas realizadas por… | crsfn-1733 | fichas/crsfn/1996-02.md |
+| 17-1989 | 17/89 | acordao-crsfn | 1996-03-13 | RECURSO DE OFÍCIO. Empréstimos favorecidos. Taxas de remuneração inferior às de captação no mercado. Infrações descaracterizadas. | crsfn-1554 | fichas/crsfn/1996-01.md |
+| 18-1989 | 18/89 | acordao-crsfn | 1998-11-24 | RECURSO VOLUNTÁRIOS E DE OFÍCIO. Mercado de Valores Mobiliários – Criação de condições artificiais de demanda – Manipulação de preço… | crsfn-2522 | fichas/crsfn/1998-04.md |
 
 Fim do subíndice.

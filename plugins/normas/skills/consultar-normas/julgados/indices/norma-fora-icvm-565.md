@@ -68,7 +68,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 9º | pas | RJ2016/773 | 2019-10-29 | condenacao | cvm-pas-rj2016-0773 | fichas/pas/2019-10.md |
+| art. 9º | pas | RJ2016/773 | 2019-10-29 | condenacao | cvm-pas-rj2016-0773 | fichas/pas/2019-18.md |
 
 ## art. 10
 

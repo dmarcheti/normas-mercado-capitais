@@ -11,7 +11,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 5º, § 1º | acordao-crsfn | 07/2015 | 2021-12-08 | condenacao | crsfn-10372-100114-2020-36 | fichas/crsfn/2021-05.md |
+| art. 5º, § 1º | acordao-crsfn | 07/2015 | 2021-12-08 | condenacao | crsfn-10372-100114-2020-36 | fichas/crsfn/2021-06.md |
 
 ## art. 8º
 
@@ -31,9 +31,9 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| Anexo I art. 5º | acordao-crsfn | 19957.008901/2016-44; RJ2017/02029 | 2023-06-13 | condenacao | crsfn-10372-100109-2022-95 | fichas/crsfn/2023-04.md |
-| Anexo I art. 5º, § 1º | acordao-crsfn | 07/2015 | 2021-12-08 | condenacao | crsfn-10372-100114-2020-36 | fichas/crsfn/2021-05.md |
-| Anexo I art. 5º, § 1º | acordao-crsfn | 19957.008901/2016-44; RJ2017/02029 | 2023-06-13 | condenacao | crsfn-10372-100109-2022-95 | fichas/crsfn/2023-04.md |
+| Anexo I art. 5º | acordao-crsfn | 19957.008901/2016-44; RJ2017/02029 | 2023-06-13 | condenacao | crsfn-10372-100109-2022-95 | fichas/crsfn/2023-05.md |
+| Anexo I art. 5º, § 1º | acordao-crsfn | 07/2015 | 2021-12-08 | condenacao | crsfn-10372-100114-2020-36 | fichas/crsfn/2021-06.md |
+| Anexo I art. 5º, § 1º | acordao-crsfn | 19957.008901/2016-44; RJ2017/02029 | 2023-06-13 | condenacao | crsfn-10372-100109-2022-95 | fichas/crsfn/2023-05.md |
 
 ## Citada sem dispositivo identificado
 

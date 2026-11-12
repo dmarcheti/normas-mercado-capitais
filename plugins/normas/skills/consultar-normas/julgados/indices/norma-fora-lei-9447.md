@@ -25,12 +25,12 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|
 | decisao-colegiado | RJ2013/7556 | 2014-04-15 | nao-provido | cvm-col-20140415-d10 | fichas/colegiado/2014-07.md |
 | decisao-colegiado | RJ2013/7179 | 2014-01-07 | nao-provido | cvm-col-20140107-d04 | fichas/colegiado/2014-01.md |
-| acordao-crsfn | SP-2002-07 | 2010-12-13 | parcial | crsfn-7702 | fichas/crsfn/2010-09.md |
-| pas | RJ2009/12495 | 2010-12-01 | condenacao | cvm-pas-rj2009-12495 | fichas/pas/2010-05.md |
+| acordao-crsfn | SP-2002-07 | 2010-12-13 | parcial | crsfn-7702 | fichas/crsfn/2010-11.md |
+| pas | RJ2009/12495 | 2010-12-01 | condenacao | cvm-pas-rj2009-12495 | fichas/pas/2010-10.md |
 | acordao-crsfn | 03/96 | 2007-08-30 | parcial | crsfn-6039 | fichas/crsfn/2007-01.md |
 | decisao-colegiado | 12/03 | 2004-11-23 | outro | cvm-col-20041123-d07 | fichas/colegiado/2004-14.md |
-| pas | 07/2002 | 2004-11-22 | parcial | cvm-pas-07-2002 | fichas/pas/2004-07.md |
-| pas | 03/1996 | 2004-07-08 | parcial | cvm-pas-03-1996 | fichas/pas/2004-03.md |
+| pas | 07/2002 | 2004-11-22 | parcial | cvm-pas-07-2002 | fichas/pas/2004-14.md |
+| pas | 03/1996 | 2004-07-08 | parcial | cvm-pas-03-1996 | fichas/pas/2004-06.md |
 | decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
 | decisao-antiga | — | 1999-01-29 | — | cvm-dec-1999-0001 | fichas/decisoes-antigas/1999-28.md |
 | decisao-antiga | — | 1998-01-09 | — | cvm-dec-1998-0001 | fichas/decisoes-antigas/1998-15.md |

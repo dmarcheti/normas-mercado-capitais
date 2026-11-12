@@ -12,7 +12,7 @@ Norma: [cvm/instrucoes/0579.md](../../normas/cvm/instrucoes/0579.md) (texto vige
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 2º | decisao-colegiado | 19957.008241/2020-88 | 2022-09-20 | parcial | cvm-col-20220920-d2547 | fichas/colegiado/2022-13.md |
-| art. 2º | pas | 19957.002404/2017-13; RJ2017/1238 | 2019-11-26 | absolvicao | cvm-pas-19957-002404-2017-13 | fichas/pas/2019-11.md |
+| art. 2º | pas | 19957.002404/2017-13; RJ2017/1238 | 2019-11-26 | absolvicao | cvm-pas-19957-002404-2017-13 | fichas/pas/2019-20.md |
 
 ## art. 3º
 
@@ -21,10 +21,10 @@ Norma: [cvm/instrucoes/0579.md](../../normas/cvm/instrucoes/0579.md) (texto vige
 | art. 3º | decisao-colegiado | 19957.005558/2020-62 | 2020-09-29 | deferido | cvm-col-20200929-d1913 | fichas/colegiado/2020-16.md |
 | art. 3º | decisao-colegiado | 19957.008241/2020-88 | 2022-09-20 | parcial | cvm-col-20220920-d2547 | fichas/colegiado/2022-13.md |
 | art. 3º | termo-compromisso | 19957.003695/2021-43 | 2023-05-30 | rejeitado | cvm-col-20230530-d2870 | fichas/tc/2023-04.md |
-| art. 3º | pas | 19957.004715/2020-12 | 2024-03-26 | condenacao | cvm-pas-19957-004715-2020-12 | fichas/pas/2024-02.md |
-| art. 3º | pas | 19957.007626/2019-94 | 2024-12-03 | parcial | cvm-pas-19957-007626-2019-94 | fichas/pas/2024-10.md |
-| art. 3º | pas | 19957.000690/2024-10 | 2025-12-09 | outro | cvm-pas-19957-000690-2024-10 | fichas/pas/2025-05.md |
-| art. 3º | pas | 19957.001627/2022-21 | 2025-03-25 | absolvicao | cvm-pas-19957-001627-2022-21 | fichas/pas/2025-01.md |
+| art. 3º | pas | 19957.004715/2020-12 | 2024-03-26 | condenacao | cvm-pas-19957-004715-2020-12 | fichas/pas/2024-03.md |
+| art. 3º | pas | 19957.007626/2019-94 | 2024-12-03 | parcial | cvm-pas-19957-007626-2019-94 | fichas/pas/2024-20.md |
+| art. 3º | pas | 19957.000690/2024-10 | 2025-12-09 | outro | cvm-pas-19957-000690-2024-10 | fichas/pas/2025-10.md |
+| art. 3º | pas | 19957.001627/2022-21 | 2025-03-25 | absolvicao | cvm-pas-19957-001627-2022-21 | fichas/pas/2025-03.md |
 
 ## art. 4º
 
@@ -37,8 +37,8 @@ Norma: [cvm/instrucoes/0579.md](../../normas/cvm/instrucoes/0579.md) (texto vige
 | art. 4º | decisao-colegiado | 19957.008241/2020-88 | 2022-09-20 | parcial | cvm-col-20220920-d2547 | fichas/colegiado/2022-13.md |
 | art. 4º | decisao-colegiado | 19957.012745/2022-64 | 2023-03-07 | deferido | cvm-col-20230307-d2810 | fichas/colegiado/2023-03.md |
 | art. 4º | termo-compromisso | 19957.009327/2023-71 | 2024-06-13 | aceito | cvm-col-20240613-d3080 | fichas/tc/2024-04.md |
-| art. 4º | pas | 19957.008143/2018-26 | 2023-12-20 | parcial | cvm-pas-19957-008143-2018-26 | fichas/pas/2023-09.md |
-| art. 4º | pas | 19957.007626/2019-94 | 2024-12-03 | parcial | cvm-pas-19957-007626-2019-94 | fichas/pas/2024-10.md |
+| art. 4º | pas | 19957.008143/2018-26 | 2023-12-20 | parcial | cvm-pas-19957-008143-2018-26 | fichas/pas/2023-18.md |
+| art. 4º | pas | 19957.007626/2019-94 | 2024-12-03 | parcial | cvm-pas-19957-007626-2019-94 | fichas/pas/2024-20.md |
 | art. 4º, inciso I | decisao-colegiado | 19957.006804/2017-06 | 2018-01-16 | nao-provido | cvm-col-20180116-d0895 | fichas/colegiado/2018-01.md |
 | art. 4º, inciso I | decisao-colegiado | 19957.006804/2017-06 | 2018-04-17 | conhecimento | cvm-col-20180417-d0895 | fichas/colegiado/2018-07.md |
 | art. 4º, inciso I | decisao-colegiado | 19957.005558/2020-62 | 2020-09-29 | deferido | cvm-col-20200929-d1913 | fichas/colegiado/2020-16.md |
@@ -63,7 +63,7 @@ Norma: [cvm/instrucoes/0579.md](../../normas/cvm/instrucoes/0579.md) (texto vige
 | art. 5º | decisao-colegiado | 19957.008241/2020-88 | 2022-09-20 | parcial | cvm-col-20220920-d2547 | fichas/colegiado/2022-13.md |
 | art. 5º | decisao-colegiado | 19957.012745/2022-64 | 2023-03-07 | deferido | cvm-col-20230307-d2810 | fichas/colegiado/2023-03.md |
 | art. 5º | termo-compromisso | 19957.009327/2023-71 | 2024-06-13 | aceito | cvm-col-20240613-d3080 | fichas/tc/2024-04.md |
-| art. 5º | pas | 19957.008143/2018-26 | 2023-12-20 | parcial | cvm-pas-19957-008143-2018-26 | fichas/pas/2023-09.md |
+| art. 5º | pas | 19957.008143/2018-26 | 2023-12-20 | parcial | cvm-pas-19957-008143-2018-26 | fichas/pas/2023-18.md |
 | art. 5º, inciso III | decisao-colegiado | 19957.006804/2017-06 | 2018-01-16 | nao-provido | cvm-col-20180116-d0895 | fichas/colegiado/2018-01.md |
 | art. 5º, inciso III | decisao-colegiado | 19957.008241/2020-88 | 2022-09-20 | parcial | cvm-col-20220920-d2547 | fichas/colegiado/2022-13.md |
 | art. 5º, inciso IV | decisao-colegiado | 19957.008241/2020-88 | 2022-09-20 | parcial | cvm-col-20220920-d2547 | fichas/colegiado/2022-13.md |
@@ -92,9 +92,9 @@ Norma: [cvm/instrucoes/0579.md](../../normas/cvm/instrucoes/0579.md) (texto vige
 | art. 8º | termo-compromisso | 19957.007626/2019-94 | 2021-11-09 | rejeitado | cvm-col-20211109-d2182 | fichas/tc/2021-07.md |
 | art. 8º | decisao-colegiado | 19957.008241/2020-88 | 2022-09-20 | parcial | cvm-col-20220920-d2547 | fichas/colegiado/2022-13.md |
 | art. 8º | termo-compromisso | 19957.009327/2023-71 | 2024-06-13 | aceito | cvm-col-20240613-d3080 | fichas/tc/2024-04.md |
-| art. 8º | pas | 19957.008143/2018-26 | 2023-12-20 | parcial | cvm-pas-19957-008143-2018-26 | fichas/pas/2023-09.md |
-| art. 8º | pas | 19957.004715/2020-12 | 2024-03-26 | condenacao | cvm-pas-19957-004715-2020-12 | fichas/pas/2024-02.md |
-| art. 8º | pas | 19957.007626/2019-94 | 2024-12-03 | parcial | cvm-pas-19957-007626-2019-94 | fichas/pas/2024-10.md |
+| art. 8º | pas | 19957.008143/2018-26 | 2023-12-20 | parcial | cvm-pas-19957-008143-2018-26 | fichas/pas/2023-18.md |
+| art. 8º | pas | 19957.004715/2020-12 | 2024-03-26 | condenacao | cvm-pas-19957-004715-2020-12 | fichas/pas/2024-03.md |
+| art. 8º | pas | 19957.007626/2019-94 | 2024-12-03 | parcial | cvm-pas-19957-007626-2019-94 | fichas/pas/2024-20.md |
 
 ## art. 10
 
@@ -107,7 +107,7 @@ Norma: [cvm/instrucoes/0579.md](../../normas/cvm/instrucoes/0579.md) (texto vige
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 18, inciso I | termo-compromisso | 19957.009327/2023-71 | 2024-06-13 | aceito | cvm-col-20240613-d3080 | fichas/tc/2024-04.md |
-| art. 18, inciso II | pas | 19957.000690/2024-10 | 2025-12-09 | outro | cvm-pas-19957-000690-2024-10 | fichas/pas/2025-05.md |
+| art. 18, inciso II | pas | 19957.000690/2024-10 | 2025-12-09 | outro | cvm-pas-19957-000690-2024-10 | fichas/pas/2025-10.md |
 
 ## art. 20
 
@@ -132,7 +132,7 @@ Norma: [cvm/instrucoes/0579.md](../../normas/cvm/instrucoes/0579.md) (texto vige
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.010272/2021-80 | 2024-10-29 | condenacao | cvm-pas-19957-010272-2021-80 | fichas/pas/2024-09.md |
+| pas | 19957.010272/2021-80 | 2024-10-29 | condenacao | cvm-pas-19957-010272-2021-80 | fichas/pas/2024-18.md |
 | decisao-colegiado | — | 2024-01-26 | outro | cvm-col-20240126-d3019 | fichas/colegiado/2024-01.md |
 | termo-compromisso | 19957.004040/2020-10; 19957.005643/2020-21; 19957.004715/2020-12 | 2023-09-05 | rejeitado | cvm-col-20230905-d2065 | fichas/tc/2023-06.md |
 | decisao-colegiado | 19957.009517/2023-98 | 2023-08-16 | outro | cvm-col-20230816-d2795 | fichas/colegiado/2023-09.md |

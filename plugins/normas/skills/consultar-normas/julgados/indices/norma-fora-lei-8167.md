@@ -14,7 +14,7 @@ Norma: fora do acervo.
 | art. 5º | decisao-colegiado | RJ2007/2311 | 2009-12-01 | nao-provido | cvm-col-20091201-d16 | fichas/colegiado/2009-22.md |
 | art. 5º | decisao-colegiado | RJ2008/11655 | 2011-04-26 | nao-provido | cvm-col-20110426-d03 | fichas/colegiado/2011-09.md |
 | art. 5º | decisao-colegiado | RJ2015/4262 | 2016-06-14 | deferido | cvm-col-20160614-d0125 | fichas/colegiado/2016-11.md |
-| art. 5º, § 3º | acordao-crsfn | IA2012/02 | 2017-12-12 | absolvicao | crsfn-14046 | fichas/crsfn/2017-08.md |
+| art. 5º, § 3º | acordao-crsfn | IA2012/02 | 2017-12-12 | absolvicao | crsfn-14046 | fichas/crsfn/2017-14.md |
 | art. 5º, § 3º | pas | 02/2012 | 2014-02-04 | parcial | cvm-pas-02-2012 | fichas/pas/2014-01.md |
 
 ## art. 8º
@@ -31,15 +31,15 @@ Norma: fora do acervo.
 | art. 9º | decisao-colegiado | RJ2008/11655 | 2011-04-26 | nao-provido | cvm-col-20110426-d03 | fichas/colegiado/2011-09.md |
 | art. 9º | decisao-colegiado | RJ2010/10635 | 2011-07-26 | deferido | cvm-col-20110726-d04 | fichas/colegiado/2011-15.md |
 | art. 9º | decisao-colegiado | 02/2014; RJ2012/5550 | 2015-01-14 | outro | cvm-col-20150114-d4843 | fichas/colegiado/2015-02.md |
-| art. 9º | pas | 01/2004 | 2005-11-16 | parcial | cvm-pas-01-2004 | fichas/pas/2005-08.md |
-| art. 9º | pas | RJ2011/14269 | 2013-03-26 | parcial | cvm-pas-rj2011-14269 | fichas/pas/2013-02.md |
+| art. 9º | pas | 01/2004 | 2005-11-16 | parcial | cvm-pas-01-2004 | fichas/pas/2005-16.md |
+| art. 9º | pas | RJ2011/14269 | 2013-03-26 | parcial | cvm-pas-rj2011-14269 | fichas/pas/2013-03.md |
 
 ## art. 12
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 12, § 3º | acordao-crsfn | RJ2013-9266 | 2021-07-13 | parcial | crsfn-10372-100298-2018-10 | fichas/crsfn/2021-02.md |
-| art. 12, § 3º | pas | RJ2013/9266 | 2018-03-27 | parcial | cvm-pas-rj2013-9266 | fichas/pas/2018-02.md |
+| art. 12, § 3º | acordao-crsfn | RJ2013-9266 | 2021-07-13 | parcial | crsfn-10372-100298-2018-10 | fichas/crsfn/2021-03.md |
+| art. 12, § 3º | pas | RJ2013/9266 | 2018-03-27 | parcial | cvm-pas-rj2013-9266 | fichas/pas/2018-04.md |
 
 ## art. 18
 
@@ -58,7 +58,7 @@ Norma: fora do acervo.
 | art. 21 | decisao-colegiado | RJ2007/2616 | 2009-05-19 | nao-provido | cvm-col-20090519-d06 | fichas/colegiado/2009-09.md |
 | art. 21 | decisao-colegiado | RJ2002/4401 | 2009-10-13 | nao-provido | cvm-col-20091013-d10 | fichas/colegiado/2009-17.md |
 | art. 21 | decisao-colegiado | RJ2009/1254 | 2009-10-13 | outro | cvm-col-20091013-d16 | fichas/colegiado/2009-18.md |
-| art. 21 | pas | 01/2001 | 2002-12-12 | condenacao | cvm-pas-01-2001 | fichas/pas/2002-04.md |
+| art. 21 | pas | 01/2001 | 2002-12-12 | condenacao | cvm-pas-01-2001 | fichas/pas/2002-07.md |
 | art. 21, inciso I | decisao-colegiado | RJ2010/17205 | 2012-01-17 | nao-provido | cvm-col-20120117-d06 | fichas/colegiado/2012-01.md |
 | art. 21, § 1º | decisao-colegiado | RJ2007/9370 | 2009-11-24 | nao-provido | cvm-col-20091124-d06 | fichas/colegiado/2009-21.md |
 | art. 21, § 1º | decisao-colegiado | RJ2002/0456 | 2010-02-02 | nao-provido | cvm-col-20100202-d17 | fichas/colegiado/2010-04.md |

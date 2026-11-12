@@ -43,933 +43,933 @@ Este subíndice tem 975 linhas e uma leitura única é cortada em silêncio pert
 | 1997 | 962 |
 | 1996 | 967 |
 
-| Tipo | Processo | Data | Resultado | Id | Ficha |
-|---|---|---|---|---|---|
-| pas | 19957.011331/2025-61 | 2026-07-28 | condenacao | cvm-pas-19957-011331-2025-61 | fichas/pas/2026-02.md |
-| termo-compromisso | 19957.001449/2022-38 | 2026-07-21 | aceito | cvm-col-20260721-d3295 | fichas/tc/2026-02.md |
-| acordao-crsfn | 19957.009288/2019-25 | 2026-07-14 | outro | crsfn-10372-000113-2024-16-2 | fichas/crsfn/2026-02.md |
-| decisao-colegiado | 19957.017372/2025-61 | 2026-03-17 | conhecimento | cvm-col-20260317-d3484 | fichas/colegiado/2026-01.md |
-| acordao-crsfn | 19957.009288/2019-25 | 2026-03-17 | parcial | crsfn-10372-000113-2024-16 | fichas/crsfn/2026-01.md |
-| decisao-colegiado | 19957.010435/2023-96 | 2025-08-19 | — | cvm-col-20250819-d3339 | fichas/colegiado/2025-08.md |
-| decisao-colegiado | 19957.008446/2023-14 | 2025-07-22 | — | cvm-col-20250722-d3316 | fichas/colegiado/2025-07.md |
-| termo-compromisso | 19957.001954/2020-11 | 2025-05-20 | rejeitado | cvm-col-20250520-d3195 | fichas/tc/2025-02.md |
-| decisao-colegiado | 19957.007217/2021-11 | 2025-05-13 | parcial | cvm-col-20250513-d3271 | fichas/colegiado/2025-04.md |
-| decisao-colegiado | 19957.015892/2023-77 | 2025-03-11 | parcial | cvm-col-20250311-d3230 | fichas/colegiado/2025-02.md |
-| decisao-colegiado | 19957.000889/2023-59 | 2025-02-04 | parcial | cvm-col-20250204-d3221 | fichas/colegiado/2025-01.md |
-| decisao-colegiado | 19957.000897/2023-03 | 2025-02-04 | parcial | cvm-col-20250204-d3220 | fichas/colegiado/2025-01.md |
-| decisao-colegiado | 19957.012912/2023-58 | 2025-01-28 | parcial | cvm-col-20250128-d3216 | fichas/colegiado/2025-01.md |
-| termo-compromisso | 19957.014625/2023-82 | 2025-01-28 | aceito | cvm-col-20250128-d3205 | fichas/tc/2025-01.md |
-| pas | 19957.005325/2024-93 | 2024-12-18 | condenacao | cvm-pas-19957-005325-2024-93 | fichas/pas/2024-12.md |
-| termo-compromisso | 19957.002134/2020-46 | 2024-10-29 | aceito | cvm-col-20241029-d2963 | fichas/tc/2024-06.md |
-| decisao-colegiado | 19957.002515/2023-78 | 2024-10-22 | — | cvm-col-20241022-d3161 | fichas/colegiado/2024-11.md |
-| decisao-colegiado | 19957.003982/2023-15 | 2024-10-15 | deferido | cvm-col-20241015-d3154 | fichas/colegiado/2024-11.md |
-| acordao-crsfn | 19957.001493/2016-08; 04/2016 | 2024-10-09 | outro | crsfn-10372-100141-2021-90-2 | fichas/crsfn/2024-05.md |
-| pas | 19957.009162/2023-37 | 2024-10-08 | parcial | cvm-pas-19957-009162-2023-37 | fichas/pas/2024-08.md |
-| decisao-colegiado | 19957.007430/2023-86 | 2024-09-17 | provido | cvm-col-20240917-d3135 | fichas/colegiado/2024-10.md |
-| decisao-colegiado | 19957.001748/2023-53 | 2024-09-17 | parcial | cvm-col-20240917-d3134 | fichas/colegiado/2024-10.md |
-| decisao-colegiado | 179/2023; 19957.011047/2024-11 | 2024-09-10 | indeferido | cvm-col-20240910-d3133 | fichas/colegiado/2024-09.md |
-| decisao-colegiado | 19957.004976/2017-37 | 2024-09-03 | provido | cvm-col-20240903-d0993 | fichas/colegiado/2024-09.md |
-| decisao-colegiado | 19957.012300/2023-65 | 2024-08-27 | parcial | cvm-col-20240827-d3110 | fichas/colegiado/2024-09.md |
-| decisao-colegiado | 19957.003288/2024-89 | 2024-08-20 | provido | cvm-col-20240820-d3118 | fichas/colegiado/2024-09.md |
-| decisao-colegiado | 19957.007431/2023-21 | 2024-07-23 | parcial | cvm-col-20240723-d3103 | fichas/colegiado/2024-08.md |
-| decisao-colegiado | 19957.000885/2023-71 | 2024-07-23 | parcial | cvm-col-20240723-d3088 | fichas/colegiado/2024-08.md |
-| decisao-colegiado | 19957.002520/2023-81 | 2024-07-09 | parcial | cvm-col-20240709-d3093 | fichas/colegiado/2024-08.md |
-| decisao-colegiado | 19957.003202/2023-37 | 2024-07-02 | parcial | cvm-col-20240702-d3090 | fichas/colegiado/2024-07.md |
-| decisao-colegiado | 19957.002519/2023-56 | 2024-05-28 | parcial | cvm-col-20240528-d3070 | fichas/colegiado/2024-06.md |
-| pas | 19957.000466/2023-39 | 2024-05-14 | condenacao | cvm-pas-19957-000466-2023-39 | fichas/pas/2024-03.md |
-| termo-compromisso | 19957.014268/2022-71 | 2024-05-14 | aceito | cvm-col-20240514-d3057 | fichas/tc/2024-03.md |
-| decisao-colegiado | 19957.013821/2022-59 | 2024-04-30 | parcial | cvm-col-20240430-d3052 | fichas/colegiado/2024-05.md |
-| decisao-colegiado | 19957.009381/2021-54 | 2024-04-30 | parcial | cvm-col-20240430-d3023 | fichas/colegiado/2024-04.md |
-| acordao-crsfn | 19957.001493/2016-08; 04/2016 | 2024-04-09 | condenacao | crsfn-10372-100141-2021-90 | fichas/crsfn/2024-02.md |
-| acordao-crsfn | 19957.009663/2017-75 | 2024-03-12 | parcial | crsfn-10372-100130-2023-71 | fichas/crsfn/2024-02.md |
-| decisao-colegiado | 19957.012626/2022-10 | 2024-02-06 | parcial | cvm-col-20240206-d2990 | fichas/colegiado/2024-02.md |
-| decisao-colegiado | 19957.012458/2023-35 | 2024-02-06 | nao-provido | cvm-col-20240206-d2989 | fichas/colegiado/2024-02.md |
-| decisao-colegiado | 19957.000197/2022-20 | 2024-02-06 | parcial | cvm-col-20240206-d2988 | fichas/colegiado/2024-02.md |
-| termo-compromisso | 19957.004489/2022-31 | 2023-11-07 | aceito | cvm-col-20231107-d2824 | fichas/tc/2023-07.md |
-| decisao-colegiado | 19957.004812/2022-77 | 2023-10-03 | provido | cvm-col-20231003-d2939 | fichas/colegiado/2023-11.md |
-| decisao-colegiado | 19957.011889/2022-01 | 2023-09-19 | deferido | cvm-col-20230919-d2923 | fichas/colegiado/2023-10.md |
-| decisao-colegiado | 19957.011889/2022-01 | 2023-09-12 | — | cvm-col-20230912-d2923 | fichas/colegiado/2023-10.md |
-| acordao-crsfn | 19957.009366/2017-20; SP2018/00412 | 2023-09-12 | parcial | crsfn-10372-100088-2022-16 | fichas/crsfn/2023-06.md |
-| decisao-colegiado | 19957.004403/2022-71 | 2023-08-29 | parcial | cvm-col-20230829-d2921 | fichas/colegiado/2023-09.md |
-| decisao-colegiado | 19957.004816/2022-55 | 2023-08-29 | parcial | cvm-col-20230829-d2920 | fichas/colegiado/2023-09.md |
-| termo-compromisso | 19957.004489/2022-31 | 2023-08-08 | outro | cvm-col-20230808-d2824 | fichas/tc/2023-05.md |
-| pas | 19957.009663/2017-75 | 2023-07-11 | condenacao | cvm-pas-19957-009663-2017-75 | fichas/pas/2023-04.md |
-| decisao-colegiado | 19957.005809/2022-71 | 2023-07-11 | parcial | cvm-col-20230711-d2893 | fichas/colegiado/2023-08.md |
-| decisao-colegiado | 19957.004375/2022-91 | 2023-07-04 | parcial | cvm-col-20230704-d2885 | fichas/colegiado/2023-07.md |
-| decisao-colegiado | 19957.004398/2022-04 | 2023-07-04 | parcial | cvm-col-20230704-d2884 | fichas/colegiado/2023-07.md |
-| decisao-colegiado | 19957.004368/2022-90 | 2023-05-30 | parcial | cvm-col-20230530-d2865 | fichas/colegiado/2023-06.md |
-| decisao-colegiado | 19957.001989/2022-11 | 2023-05-23 | parcial | cvm-col-20230523-d2863 | fichas/colegiado/2023-06.md |
-| decisao-colegiado | 19957.003825/2022-29 | 2023-05-23 | provido | cvm-col-20230523-d2858 | fichas/colegiado/2023-06.md |
-| acordao-crsfn | 19957.005057/2019-42; RJ2019/09315 | 2023-03-07 | parcial | crsfn-10372-100240-2021-71 | fichas/crsfn/2023-02.md |
-| decisao-colegiado | 05/2021; 19957.009468/2018-26 | 2023-02-08 | outro | cvm-col-20230208-d1441-r2 | fichas/colegiado/2023-02.md |
-| decisao-colegiado | 19957.000462/2022-70 | 2023-02-07 | parcial | cvm-col-20230207-d2797 | fichas/colegiado/2023-02.md |
-| decisao-colegiado | 19957.012617/2022-11 | 2023-01-17 | outro | cvm-col-20230117-d2785 | fichas/colegiado/2023-02.md |
-| decisao-colegiado | 19957.010754/2022-11 | 2022-12-20 | parcial | cvm-col-20221220-d2745 | fichas/colegiado/2022-17.md |
-| acordao-crsfn | 19957.011693/2017-41; SP2018/420 | 2022-12-08 | condenacao | crsfn-10372-100009-2022-69 | fichas/crsfn/2022-07.md |
-| decisao-colegiado | 19957.001479/2021-63 | 2022-11-01 | parcial | cvm-col-20221101-d2715 | fichas/colegiado/2022-15.md |
-| termo-compromisso | 19957.006343/2021-40 | 2022-10-25 | aceito | cvm-col-20221025-d2713 | fichas/tc/2022-05.md |
-| decisao-colegiado | 19957.000200/2021-24 | 2022-10-11 | parcial | cvm-col-20221011-d2700 | fichas/colegiado/2022-14.md |
-| decisao-colegiado | 19957.006651/2021-75 | 2022-09-27 | parcial | cvm-col-20220927-d2688 | fichas/colegiado/2022-14.md |
-| decisao-colegiado | 19957.003374/2021-49 | 2022-08-09 | parcial | cvm-col-20220809-d2665 | fichas/colegiado/2022-12.md |
-| decisao-colegiado | 19957.000787/2021-71 | 2022-07-12 | provido | cvm-col-20220712-d2641 | fichas/colegiado/2022-11.md |
-| decisao-colegiado | 19957.009122/2018-28 | 2022-06-14 | conhecimento | cvm-col-20220614-d2615 | fichas/colegiado/2022-10.md |
-| decisao-colegiado | 19957.000035/2021-19 | 2022-05-24 | provido | cvm-col-20220524-d2586 | fichas/colegiado/2022-08.md |
-| decisao-colegiado | 19957.006697/2020-11 | 2022-05-17 | parcial | cvm-col-20220517-d2580 | fichas/colegiado/2022-08.md |
-| decisao-colegiado | 19957.000783/2021-93 | 2022-05-10 | parcial | cvm-col-20220510-d2574 | fichas/colegiado/2022-07.md |
-| pas | 19957.009366/2017-20 | 2022-04-12 | condenacao | cvm-pas-19957-009366-2017-20 | fichas/pas/2022-02.md |
-| acordao-crsfn | SP2018/0538 | 2022-04-12 | extincao | crsfn-10372-100106-2021-71 | fichas/crsfn/2022-02.md |
-| decisao-colegiado | 19957.007235/2020-11 | 2022-03-29 | parcial | cvm-col-20220329-d2546 | fichas/colegiado/2022-05.md |
-| decisao-colegiado | 19957.000767/2021-09 | 2022-03-22 | provido | cvm-col-20220322-d2536 | fichas/colegiado/2022-04.md |
-| decisao-colegiado | 19957.000765/2021-10 | 2022-03-08 | parcial | cvm-col-20220308-d2496 | fichas/colegiado/2022-03.md |
-| pas | 19957.009592/2017-19 | 2022-02-22 | condenacao | cvm-pas-19957-009592-2017-19 | fichas/pas/2022-01.md |
-| decisao-colegiado | 19957.004903/2020-41 | 2022-01-25 | parcial | cvm-col-20220125-d2464 | fichas/colegiado/2022-01.md |
-| termo-compromisso | 19957.007432/2020-22 | 2022-01-11 | aceito | cvm-col-20220111-d2451 | fichas/tc/2022-01.md |
-| decisao-colegiado | 19957.008884/2021-11 | 2021-12-21 | outro | cvm-col-20211221-d2433 | fichas/colegiado/2021-22.md |
-| decisao-colegiado | 19957.008844/2020-80 | 2021-12-21 | provido | cvm-col-20211221-d2432 | fichas/colegiado/2021-22.md |
-| decisao-colegiado | 19957.008916/2020-99 | 2021-12-14 | parcial | cvm-col-20211214-d2424 | fichas/colegiado/2021-22.md |
-| decisao-colegiado | 19957.004924/2020-66 | 2021-11-30 | provido | cvm-col-20211130-d2400 | fichas/colegiado/2021-20.md |
-| acordao-crsfn | RJ2017/977 | 2021-11-09 | parcial | crsfn-10372-100271-2019-16 | fichas/crsfn/2021-04.md |
-| decisao-colegiado | 19957.004995/2021-40 | 2021-11-03 | conhecimento | cvm-col-20211103-d2368 | fichas/colegiado/2021-18.md |
-| decisao-colegiado | 19957.005774/2020-16 | 2021-11-03 | provido | cvm-col-20211103-d2357 | fichas/colegiado/2021-18.md |
-| decisao-colegiado | 19957.007809/2021-24 | 2021-10-14 | nao-provido | cvm-col-20211014-d2327 | fichas/colegiado/2021-17.md |
-| decisao-colegiado | 19957.003241/2021-72 | 2021-09-14 | nao-provido | cvm-col-20210914-d2303 | fichas/colegiado/2021-15.md |
-| decisao-colegiado | 19957.001146/2021-34 | 2021-07-27 | nao-provido | cvm-col-20210727-d2258 | fichas/colegiado/2021-12.md |
-| decisao-colegiado | 19957.001055/2021-07 | 2021-07-27 | nao-provido | cvm-col-20210727-d2255 | fichas/colegiado/2021-12.md |
-| decisao-colegiado | 19957.003330/2020-38 | 2021-07-27 | conhecimento | cvm-col-20210727-d2248 | fichas/colegiado/2021-12.md |
-| decisao-colegiado | 19957.008909/2020-97 | 2021-07-20 | nao-provido | cvm-col-20210720-d2246 | fichas/colegiado/2021-12.md |
-| decisao-colegiado | 19957.004443/2021-31 | 2021-07-13 | conhecimento | cvm-col-20210713-d2238 | fichas/colegiado/2021-11.md |
-| decisao-colegiado | 19957.008903/2020-10 | 2021-07-13 | parcial | cvm-col-20210713-d2236 | fichas/colegiado/2021-11.md |
-| decisao-colegiado | 19957.001034/2021-83 | 2021-07-06 | nao-provido | cvm-col-20210706-d2229 | fichas/colegiado/2021-11.md |
-| decisao-colegiado | 19957.005258/2020-83 | 2021-07-06 | nao-provido | cvm-col-20210706-d2226 | fichas/colegiado/2021-11.md |
-| decisao-colegiado | 19957.000072/2021-19 | 2021-06-29 | nao-provido | cvm-col-20210629-d2222 | fichas/colegiado/2021-11.md |
-| decisao-colegiado | 19957.001022/2021-59 | 2021-06-29 | nao-provido | cvm-col-20210629-d2221 | fichas/colegiado/2021-11.md |
-| decisao-colegiado | 19957.008366/2020-16 | 2021-06-15 | nao-provido | cvm-col-20210615-d2210 | fichas/colegiado/2021-10.md |
-| decisao-colegiado | 19957.008088/2020-99 | 2021-06-15 | nao-provido | cvm-col-20210615-d2209 | fichas/colegiado/2021-10.md |
-| decisao-colegiado | 19957.007199/2020-88 | 2021-06-15 | nao-provido | cvm-col-20210615-d2208 | fichas/colegiado/2021-10.md |
-| decisao-colegiado | 19957.007580/2020-47 | 2021-06-01 | nao-provido | cvm-col-20210601-d2199 | fichas/colegiado/2021-09.md |
-| decisao-colegiado | 19957.005939/2020-41 | 2021-05-25 | nao-provido | cvm-col-20210525-d2181 | fichas/colegiado/2021-09.md |
-| decisao-colegiado | 19957.002618/2016-17 | 2021-05-19 | — | cvm-col-20210519-d2676 | fichas/colegiado/2021-09.md |
-| decisao-colegiado | 19957.004921/2020-22 | 2021-05-18 | nao-provido | cvm-col-20210518-d2174 | fichas/colegiado/2021-08.md |
-| decisao-colegiado | 19957.003645/2021-66 | 2021-05-11 | outro | cvm-col-20210511-d2163 | fichas/colegiado/2021-08.md |
-| decisao-colegiado | 19957.004724/2020-11 | 2021-05-11 | nao-provido | cvm-col-20210511-d1995 | fichas/colegiado/2021-08.md |
-| decisao-colegiado | 19957.008030/2020-45 | 2021-05-04 | parcial | cvm-col-20210504-d2152 | fichas/colegiado/2021-07.md |
-| decisao-colegiado | 19957.005970/2020-82 | 2021-05-04 | nao-provido | cvm-col-20210504-d2151 | fichas/colegiado/2021-07.md |
-| decisao-colegiado | 19957.008102/2020-54 | 2021-04-27 | nao-provido | cvm-col-20210427-d2149 | fichas/colegiado/2021-07.md |
-| decisao-colegiado | 19957.008007/2020-51 | 2021-04-27 | nao-provido | cvm-col-20210427-d2148 | fichas/colegiado/2021-07.md |
-| termo-compromisso | 19957.005057/2019-42 | 2021-04-27 | outro | cvm-col-20210427-d1929 | fichas/tc/2021-03.md |
-| decisao-colegiado | 19957.006470/2020-68 | 2021-04-13 | nao-provido | cvm-col-20210413-d2135 | fichas/colegiado/2021-07.md |
-| acordao-crsfn | RJ2016/4685 | 2021-04-13 | condenacao | crsfn-10372-100241-2019-00 | fichas/crsfn/2021-01.md |
-| decisao-colegiado | 19957.007961/2020-26 | 2021-04-01 | nao-provido | cvm-col-20210401-d2118 | fichas/colegiado/2021-06.md |
-| decisao-colegiado | 19957.001588/2021-81 | 2021-04-01 | nao-provido | cvm-col-20210401-d2117 | fichas/colegiado/2021-06.md |
-| decisao-colegiado | 19957.004739/2020-71 | 2021-04-01 | nao-provido | cvm-col-20210401-d1954 | fichas/colegiado/2021-06.md |
-| decisao-colegiado | 19957.005697/2020-96 | 2021-03-16 | nao-provido | cvm-col-20210316-d2105 | fichas/colegiado/2021-05.md |
-| decisao-colegiado | 19957.008009/2020-40 | 2021-03-16 | nao-provido | cvm-col-20210316-d2102 | fichas/colegiado/2021-05.md |
-| decisao-colegiado | 19957.000804/2021-71 | 2021-03-16 | nao-provido | cvm-col-20210316-d2098 | fichas/colegiado/2021-05.md |
-| decisao-colegiado | 19957.007816/2020-45 | 2021-03-02 | nao-provido | cvm-col-20210302-d2089 | fichas/colegiado/2021-04.md |
-| decisao-colegiado | 19957.007962/2020-71 | 2021-02-23 | provido | cvm-col-20210223-d2084 | fichas/colegiado/2021-04.md |
-| decisao-colegiado | 19957.006595/2020-98 | 2021-02-23 | nao-provido | cvm-col-20210223-d2082 | fichas/colegiado/2021-04.md |
-| decisao-colegiado | 19957.004014/2020-83 | 2021-02-23 | provido | cvm-col-20210223-d2080 | fichas/colegiado/2021-04.md |
-| decisao-colegiado | 19957.010715/2018-37; 19957.000495/2019-14 | 2021-02-23 | outro | cvm-col-20210223-d1583 | fichas/colegiado/2021-03.md |
-| decisao-colegiado | 19957.000807/2021-12 | 2021-02-09 | outro | cvm-col-20210209-d2057 | fichas/colegiado/2021-03.md |
-| decisao-colegiado | 19957.005860/2020-11 | 2021-02-09 | nao-provido | cvm-col-20210209-d2055 | fichas/colegiado/2021-02.md |
-| decisao-colegiado | 19957.006449/2020-62 | 2021-02-09 | nao-provido | cvm-col-20210209-d2054 | fichas/colegiado/2021-02.md |
-| decisao-colegiado | 19957.005795/2020-23 | 2021-01-26 | nao-provido | cvm-col-20210126-d2043 | fichas/colegiado/2021-02.md |
-| decisao-colegiado | 19957.008017/2020-96 | 2021-01-19 | nao-provido | cvm-col-20210119-d2033 | fichas/colegiado/2021-01.md |
-| decisao-colegiado | 19957.008656/2020-51 | 2021-01-19 | provido | cvm-col-20210119-d2032 | fichas/colegiado/2021-01.md |
-| decisao-colegiado | 19957.005554/2020-84 | 2021-01-05 | nao-provido | cvm-col-20210105-d2026 | fichas/colegiado/2021-01.md |
-| pas | 19957.004072/2016-21; SP2017/630 | 2020-12-22 | parcial | cvm-pas-19957-004072-2016-21 | fichas/pas/2020-06.md |
-| decisao-colegiado | 19957.006906/2020-19 | 2020-12-22 | nao-provido | cvm-col-20201222-d2022 | fichas/colegiado/2020-22.md |
-| decisao-colegiado | 19957.005389/2020-61 | 2020-12-15 | nao-provido | cvm-col-20201215-d2017 | fichas/colegiado/2020-21.md |
-| decisao-colegiado | 19957.005827/2020-91 | 2020-12-08 | nao-provido | cvm-col-20201208-d2003 | fichas/colegiado/2020-21.md |
-| decisao-colegiado | 19957.004922/2020-77 | 2020-12-08 | conhecimento | cvm-col-20201208-d2002 | fichas/colegiado/2020-21.md |
-| decisao-colegiado | 19957.004016/2020-72 | 2020-12-01 | nao-provido | cvm-col-20201201-d1994 | fichas/colegiado/2020-20.md |
-| decisao-colegiado | 19957.006211/2020-37 | 2020-12-01 | nao-provido | cvm-col-20201201-d1993 | fichas/colegiado/2020-20.md |
-| decisao-colegiado | 19957.006221/2020-72 | 2020-12-01 | nao-provido | cvm-col-20201201-d1992 | fichas/colegiado/2020-20.md |
-| decisao-colegiado | 19957.005388/2020-16 | 2020-11-24 | parcial | cvm-col-20201124-d1984 | fichas/colegiado/2020-19.md |
-| decisao-colegiado | 19957.006044/2020-24 | 2020-11-24 | nao-provido | cvm-col-20201124-d1983 | fichas/colegiado/2020-19.md |
-| decisao-colegiado | 19957.005981/2020-62 | 2020-11-24 | nao-provido | cvm-col-20201124-d1982 | fichas/colegiado/2020-19.md |
-| decisao-colegiado | 19957.005374/2020-01 | 2020-11-17 | nao-provido | cvm-col-20201117-d1971 | fichas/colegiado/2020-19.md |
-| decisao-colegiado | 19957.005343/2020-41 | 2020-11-10 | nao-provido | cvm-col-20201110-d1968 | fichas/colegiado/2020-19.md |
-| decisao-colegiado | 19957.000609/2020-60 | 2020-11-10 | conhecimento | cvm-col-20201110-d1967 | fichas/colegiado/2020-19.md |
-| decisao-colegiado | 19957.010715/2018-37; 19957.000495/2019-14 | 2020-11-03 | — | cvm-col-20201103-d1583 | fichas/colegiado/2020-18.md |
-| decisao-colegiado | 19957.005281/2020-78 | 2020-10-13 | nao-provido | cvm-col-20201013-d1949 | fichas/colegiado/2020-17.md |
-| decisao-colegiado | 19957.005259/2020-28 | 2020-10-13 | nao-provido | cvm-col-20201013-d1948 | fichas/colegiado/2020-17.md |
-| decisao-colegiado | 19957.005308/2020-22 | 2020-10-13 | nao-provido | cvm-col-20201013-d1943 | fichas/colegiado/2020-17.md |
-| decisao-colegiado | 19957.005307/2020-88 | 2020-09-29 | nao-provido | cvm-col-20200929-d1931 | fichas/colegiado/2020-16.md |
-| decisao-colegiado | 19957.002800/2019-11 | 2020-09-23 | — | cvm-col-20200923-d1926 | fichas/colegiado/2020-16.md |
-| decisao-colegiado | 19957.005306/2020-33 | 2020-09-22 | nao-provido | cvm-col-20200922-d1918 | fichas/colegiado/2020-16.md |
-| decisao-colegiado | 19957.004288/2020-72 | 2020-09-15 | nao-provido | cvm-col-20200915-d1915 | fichas/colegiado/2020-15.md |
-| acordao-crsfn | RJ2018/269 | 2020-09-15 | condenacao | crsfn-10372-100062-2020-06 | fichas/crsfn/2020-04.md |
-| decisao-colegiado | 19957.004297/2020-63 | 2020-09-08 | nao-provido | cvm-col-20200908-d1904 | fichas/colegiado/2020-14.md |
-| decisao-colegiado | 19957.005736/2020-55 | 2020-09-08 | provido | cvm-col-20200908-d1903 | fichas/colegiado/2020-14.md |
-| decisao-colegiado | 19957.004544/2020-21 | 2020-09-08 | nao-provido | cvm-col-20200908-d1902 | fichas/colegiado/2020-14.md |
-| decisao-colegiado | 19957.004684/2020-08 | 2020-08-25 | nao-provido | cvm-col-20200825-d1895 | fichas/colegiado/2020-14.md |
-| decisao-colegiado | 19957.004289/2020-17 | 2020-08-25 | nao-provido | cvm-col-20200825-d1894 | fichas/colegiado/2020-14.md |
-| decisao-colegiado | 19957.004284/2020-94 | 2020-08-25 | nao-provido | cvm-col-20200825-d1893 | fichas/colegiado/2020-14.md |
-| decisao-colegiado | 19957.002938/2020-45 | 2020-07-28 | nao-provido | cvm-col-20200728-d1862 | fichas/colegiado/2020-12.md |
-| decisao-colegiado | 19957.004108/2020-52 | 2020-07-21 | nao-provido | cvm-col-20200721-d1858 | fichas/colegiado/2020-11.md |
-| decisao-colegiado | 19957.002796/2020-16 | 2020-07-21 | nao-provido | cvm-col-20200721-d1855 | fichas/colegiado/2020-11.md |
-| decisao-colegiado | 19957.004235/2020-51 | 2020-07-14 | nao-provido | cvm-col-20200714-d1854 | fichas/colegiado/2020-11.md |
-| decisao-colegiado | 19957.004163/2020-42 | 2020-07-14 | nao-provido | cvm-col-20200714-d1853 | fichas/colegiado/2020-11.md |
-| decisao-colegiado | 19957.003238/2020-78 | 2020-06-16 | nao-provido | cvm-col-20200616-d1829 | fichas/colegiado/2020-10.md |
-| decisao-colegiado | 19957.002795/2020-71 | 2020-06-02 | nao-provido | cvm-col-20200602-d1823 | fichas/colegiado/2020-09.md |
-| decisao-colegiado | 19957.001749/2020-55 | 2020-05-26 | nao-provido | cvm-col-20200526-d1814 | fichas/colegiado/2020-08.md |
-| decisao-colegiado | 19957.003369/2018-31 | 2020-03-03 | outro | cvm-col-20200303-d1733 | fichas/colegiado/2020-04.md |
-| decisao-colegiado | 19957.005204/2017-12 | 2020-02-04 | nao-provido | cvm-col-20200204-d1687 | fichas/colegiado/2020-02.md |
-| decisao-colegiado | 19957.007308/2018-42 | 2020-02-04 | nao-provido | cvm-col-20200204-d1682 | fichas/colegiado/2020-02.md |
-| decisao-colegiado | 19957.004377/2017-13 | 2020-02-04 | parcial | cvm-col-20200204-d1140 | fichas/colegiado/2020-02.md |
-| decisao-colegiado | 19957.011100/2019-17 | 2020-01-28 | conhecimento | cvm-col-20200128-d1677 | fichas/colegiado/2020-02.md |
-| decisao-colegiado | 19957.009342/2019-32 | 2020-01-28 | conhecimento | cvm-col-20200128-d1674 | fichas/colegiado/2020-02.md |
-| decisao-colegiado | 19957.010972/2017-98 | 2020-01-21 | provido | cvm-col-20200121-d1663 | fichas/colegiado/2020-01.md |
-| decisao-colegiado | 19957.004402/2019-21 | 2020-01-21 | provido | cvm-col-20200121-d1662 | fichas/colegiado/2020-01.md |
-| decisao-colegiado | 19957.009837/2019-61 | 2020-01-21 | nao-provido | cvm-col-20200121-d1661 | fichas/colegiado/2020-01.md |
-| decisao-colegiado | 19957.006973/2018-19 | 2020-01-21 | nao-provido | cvm-col-20200121-d1660 | fichas/colegiado/2020-01.md |
-| decisao-colegiado | 19957.006456/2018-40 | 2020-01-21 | nao-provido | cvm-col-20200121-d1659 | fichas/colegiado/2020-01.md |
-| decisao-colegiado | 19957.007915/2019-93 | 2020-01-21 | parcial | cvm-col-20200121-d1657 | fichas/colegiado/2020-01.md |
-| decisao-colegiado | 19957.009333/2019-41 | 2020-01-14 | outro | cvm-col-20200114-d1668 | fichas/colegiado/2020-01.md |
-| decisao-colegiado | 19957.008675/2019-44 | 2020-01-14 | conhecimento | cvm-col-20200114-d1658 | fichas/colegiado/2020-01.md |
-| decisao-colegiado | 19957.007915/2019-93 | 2020-01-14 | outro | cvm-col-20200114-d1657 | fichas/colegiado/2020-01.md |
-| decisao-colegiado | 19957.008192/2019-40 | 2020-01-14 | nao-provido | cvm-col-20200114-d1656 | fichas/colegiado/2020-01.md |
-| decisao-colegiado | 19957.003570/2016-56 | 2020-01-14 | provido | cvm-col-20200114-d1655 | fichas/colegiado/2020-01.md |
-| termo-compromisso | 19957.001483/2018-26 | 2019-12-17 | aceito | cvm-col-20191217-d1644 | fichas/tc/2019-07.md |
-| decisao-colegiado | 19957.009163/2019-03 | 2019-12-17 | conhecimento | cvm-col-20191217-d1641 | fichas/colegiado/2019-21.md |
-| decisao-colegiado | 19957.005116/2018-00 | 2019-12-10 | parcial | cvm-col-20191210-d1632 | fichas/colegiado/2019-20.md |
-| acordao-crsfn | SP-2014-14 | 2019-11-27 | parcial | crsfn-10372-100294-2018-31 | fichas/crsfn/2019-03.md |
-| decisao-colegiado | 19957.003110/2019-71 | 2019-11-12 | nao-provido | cvm-col-20191112-d1591 | fichas/colegiado/2019-18.md |
-| pas | RJ2016/8711 | 2019-10-29 | parcial | cvm-pas-rj2016-8711 | fichas/pas/2019-10.md |
-| decisao-colegiado | 19957.009392/2019-10 | 2019-10-29 | nao-provido | cvm-col-20191029-d1587 | fichas/colegiado/2019-17.md |
-| pas | 19957.004737/2017-87; RJ2018/269 | 2019-10-22 | parcial | cvm-pas-19957-004737-2017-87 | fichas/pas/2019-09.md |
-| decisao-colegiado | 19957.008839/2019-33 | 2019-10-22 | nao-provido | cvm-col-20191022-d1584 | fichas/colegiado/2019-17.md |
-| decisao-colegiado | 19957.010715/2018-37; 19957.000495/2019-14 | 2019-10-22 | outro | cvm-col-20191022-d1583 | fichas/colegiado/2019-17.md |
-| decisao-colegiado | 19957.008367/2019-19 | 2019-10-15 | nao-provido | cvm-col-20191015-d1578 | fichas/colegiado/2019-17.md |
-| decisao-colegiado | 19957.003114/2019-59 | 2019-10-15 | provido | cvm-col-20191015-d1577 | fichas/colegiado/2019-16.md |
-| decisao-colegiado | 19957.008826/2019-64 | 2019-09-24 | outro | cvm-col-20190924-d1547 | fichas/colegiado/2019-15.md |
-| decisao-colegiado | 19957.000387/2019-41 | 2019-09-24 | parcial | cvm-col-20190924-d1544 | fichas/colegiado/2019-15.md |
-| decisao-colegiado | 19957.008763/2019-46 | 2019-09-24 | outro | cvm-col-20190924-d1541 | fichas/colegiado/2019-15.md |
-| termo-compromisso | 19957.009366/2017-20 | 2019-09-10 | rejeitado | cvm-col-20190910-d1423 | fichas/tc/2019-05.md |
-| decisao-colegiado | 19957.003334/2016-30 | 2019-09-03 | parcial | cvm-col-20190903-d1519 | fichas/colegiado/2019-14.md |
-| decisao-colegiado | 19957.004999/2019-11 | 2019-08-27 | deferido | cvm-col-20190827-d1512 | fichas/colegiado/2019-13.md |
-| pas | RJ2017/4091 | 2019-08-13 | absolvicao | cvm-pas-rj2017-4091 | fichas/pas/2019-08.md |
-| decisao-colegiado | 19957.006256/2019-78 | 2019-08-13 | nao-provido | cvm-col-20190813-d1496 | fichas/colegiado/2019-12.md |
-| decisao-colegiado | 19957.004436/2018-34 | 2019-08-06 | nao-provido | cvm-col-20190806-d1490 | fichas/colegiado/2019-12.md |
-| termo-compromisso | 19957.010217/2017-11 | 2019-07-30 | rejeitado | cvm-col-20190730-d1480 | fichas/tc/2019-04.md |
-| decisao-colegiado | 05/2018; 505/2011; 19957.010782/2018-51 | 2019-07-24 | — | cvm-col-20190724-d1160 | fichas/colegiado/2019-11.md |
-| decisao-colegiado | 19957.003579/2016-67 | 2019-07-02 | nao-provido | cvm-col-20190702-d1459 | fichas/colegiado/2019-11.md |
-| decisao-colegiado | 19957.005955/2016-58 | 2019-06-18 | nao-provido | cvm-col-20190618-d1438 | fichas/colegiado/2019-10.md |
-| decisao-colegiado | 19957.002330/2016-34 | 2019-06-04 | nao-provido | cvm-col-20190604-d1421 | fichas/colegiado/2019-09.md |
-| decisao-colegiado | 19957.010406/2017-86 | 2019-06-04 | nao-provido | cvm-col-20190604-d1412 | fichas/colegiado/2019-09.md |
-| decisao-colegiado | 19957.003148/2016-09 | 2019-06-04 | nao-provido | cvm-col-20190604-d1411 | fichas/colegiado/2019-09.md |
-| decisao-colegiado | 19957.002097/2016-90 | 2019-05-28 | deferido | cvm-col-20190528-d1410 | fichas/colegiado/2019-08.md |
-| decisao-colegiado | 19957.005798/2018-42 | 2019-05-21 | provido | cvm-col-20190521-d1406 | fichas/colegiado/2019-08.md |
-| decisao-colegiado | 19957.010159/2018-07 | 2019-04-09 | deferido | cvm-col-20190409-d1372 | fichas/colegiado/2019-06.md |
-| decisao-colegiado | 19957.003490/2016-09 | 2019-04-09 | nao-provido | cvm-col-20190409-d1371 | fichas/colegiado/2019-06.md |
-| decisao-colegiado | 19957.011575/2017-33 | 2019-04-09 | nao-provido | cvm-col-20190409-d1370 | fichas/colegiado/2019-06.md |
-| decisao-colegiado | 19957.000876/2018-12 | 2019-04-02 | nao-provido | cvm-col-20190402-d1364 | fichas/colegiado/2019-06.md |
-| decisao-colegiado | 19957.004938/2018-65 | 2019-04-02 | nao-provido | cvm-col-20190402-d1363 | fichas/colegiado/2019-06.md |
-| decisao-colegiado | 19957.006826/2018-49 | 2019-03-26 | nao-provido | cvm-col-20190326-d1353 | fichas/colegiado/2019-05.md |
-| decisao-colegiado | 19957.004043/2016-69 | 2019-03-19 | nao-provido | cvm-col-20190319-d1266 | fichas/colegiado/2019-04.md |
-| termo-compromisso | 19957.001493/2016-08 | 2019-03-19 | outro | cvm-col-20190319-d1115 | fichas/tc/2019-02.md |
-| decisao-colegiado | SP2016/0019 | 2019-02-26 | outro | cvm-col-20190226-d1239 | fichas/colegiado/2019-03.md |
-| decisao-colegiado | 19957.002872/2017-98 | 2019-02-26 | nao-provido | cvm-col-20190226-d1139 | fichas/colegiado/2019-03.md |
-| pas | RJ2016/4685 | 2019-02-19 | condenacao | cvm-pas-rj2016-4685 | fichas/pas/2019-02.md |
-| acordao-crsfn | SP2012/402 | 2018-12-12 | condenacao | crsfn-14335 | fichas/crsfn/2018-08.md |
-| acordao-crsfn | SP2012/374 | 2018-12-11 | parcial | crsfn-10372-000122-2017-88 | fichas/crsfn/2018-07.md |
-| pas | SP2015/41 | 2018-11-27 | parcial | cvm-pas-sp2015-0041 | fichas/pas/2018-10.md |
-| termo-compromisso | 19957.004737/2017-87 | 2018-11-27 | rejeitado | cvm-col-20181127-d1158 | fichas/tc/2018-06.md |
-| decisao-colegiado | 19957.002553/2015-11 | 2018-11-06 | nao-provido | cvm-col-20181106-d1101 | fichas/colegiado/2018-19.md |
-| termo-compromisso | 19957.010324/2017-31 | 2018-10-30 | rejeitado | cvm-col-20181030-d1078 | fichas/tc/2018-06.md |
-| decisao-colegiado | 19957.006039/2017-16 | 2018-10-02 | outro | cvm-col-20181002-d1181 | fichas/colegiado/2018-18.md |
-| decisao-colegiado | 19957.009661/2016-03 | 2018-10-02 | conhecimento | cvm-col-20181002-d1180 | fichas/colegiado/2018-17.md |
-| decisao-colegiado | 19957.002872/2017-98 | 2018-09-25 | — | cvm-col-20180925-d1139 | fichas/colegiado/2018-17.md |
-| decisao-colegiado | 19957.008723/2016-51 | 2018-09-25 | nao-provido | cvm-col-20180925-d0778 | fichas/colegiado/2018-17.md |
-| decisao-colegiado | 19957.009077/2017-21 | 2018-09-11 | nao-provido | cvm-col-20180911-d1142 | fichas/colegiado/2018-17.md |
-| decisao-colegiado | 19957.009244/2017-33 | 2018-09-11 | provido | cvm-col-20180911-d1141 | fichas/colegiado/2018-16.md |
-| decisao-colegiado | 19957.004377/2017-13 | 2018-09-11 | outro | cvm-col-20180911-d1140 | fichas/colegiado/2018-16.md |
-| decisao-colegiado | 19957.001631/2016-41 | 2018-09-11 | nao-provido | cvm-col-20180911-d1138 | fichas/colegiado/2018-16.md |
-| decisao-colegiado | 19957.009547/2017-56 | 2018-08-14 | nao-provido | cvm-col-20180814-d1111 | fichas/colegiado/2018-14.md |
-| decisao-colegiado | 19957.004126/2015-77 | 2018-08-14 | nao-provido | cvm-col-20180814-d1110 | fichas/colegiado/2018-14.md |
-| decisao-colegiado | 19957.001443/2017-01 | 2018-08-07 | nao-provido | cvm-col-20180807-d1100 | fichas/colegiado/2018-14.md |
-| decisao-colegiado | 19957.002553/2015-11 | 2018-07-31 | — | cvm-col-20180731-d1101 | fichas/colegiado/2018-13.md |
-| decisao-colegiado | 19957.003436/2015-74 | 2018-07-31 | conhecimento | cvm-col-20180731-d0116 | fichas/colegiado/2018-13.md |
-| decisao-colegiado | 19957.006712/2017-18 | 2018-06-26 | nao-provido | cvm-col-20180626-d1068 | fichas/colegiado/2018-11.md |
-| decisao-colegiado | 19957.004976/2017-37 | 2018-06-19 | conhecimento | cvm-col-20180619-d0993 | fichas/colegiado/2018-10.md |
-| decisao-colegiado | 19957.008039/2017-51 | 2018-03-20 | nao-provido | cvm-col-20180320-d0994 | fichas/colegiado/2018-06.md |
-| decisao-colegiado | 19957.004976/2017-37 | 2018-03-20 | provido | cvm-col-20180320-d0993 | fichas/colegiado/2018-06.md |
-| decisao-colegiado | 19957.009048/2017-69 | 2018-03-13 | nao-provido | cvm-col-20180313-d0989 | fichas/colegiado/2018-06.md |
-| decisao-colegiado | SP2015/0384 | 2018-02-27 | conhecimento | cvm-col-20180227-d0967 | fichas/colegiado/2018-04.md |
-| termo-compromisso | 19957.000250/2017-25 | 2018-02-20 | rejeitado | cvm-col-20180220-d0801 | fichas/tc/2018-01.md |
-| acordao-crsfn | SP2010/266 | 2018-02-20 | parcial | crsfn-13906 | fichas/crsfn/2018-01.md |
-| decisao-colegiado | SP2013/0385 | 2018-02-15 | conhecimento | cvm-col-20180215-d0932 | fichas/colegiado/2018-03.md |
-| decisao-colegiado | 19957.003648/2017-13 | 2018-02-06 | nao-provido | cvm-col-20180206-d0929 | fichas/colegiado/2018-03.md |
-| pas | 11/2013 | 2018-01-30 | parcial | cvm-pas-11-2013 | fichas/pas/2018-01.md |
-| decisao-colegiado | 19957.001613/2016-69 | 2017-12-26 | nao-provido | cvm-col-20171226-d0884 | fichas/colegiado/2017-21.md |
-| decisao-colegiado | 19957.002722/2015-12 | 2017-12-26 | nao-provido | cvm-col-20171226-d0883 | fichas/colegiado/2017-21.md |
-| decisao-colegiado | 19957.001628/2016-27 | 2017-10-03 | provido | cvm-col-20171003-d0811 | fichas/colegiado/2017-17.md |
-| decisao-colegiado | 19957.000787/2016-12 | 2017-08-29 | nao-provido | cvm-col-20170829-d0779 | fichas/colegiado/2017-15.md |
-| termo-compromisso | 19957.006406/2016-09; RJ2016/7486 | 2017-08-29 | rejeitado | cvm-col-20170829-d0772 | fichas/tc/2017-03.md |
-| decisao-colegiado | 19957.002364/2015-48 | 2017-08-15 | parcial | cvm-col-20170815-d9816 | fichas/colegiado/2017-14.md |
-| decisao-colegiado | 19957.009044/2016-08 | 2017-08-08 | nao-provido | cvm-col-20170808-d0771 | fichas/colegiado/2017-14.md |
-| decisao-colegiado | 19957.007576/2016-01 | 2017-08-08 | parcial | cvm-col-20170808-d0768 | fichas/colegiado/2017-14.md |
-| decisao-colegiado | 19957.000985/2017-59 | 2017-08-08 | nao-provido | cvm-col-20170808-d0767 | fichas/colegiado/2017-14.md |
-| acordao-crsfn | SP2014/383 | 2017-07-25 | condenacao | crsfn-10372-000116-2017-21 | fichas/crsfn/2017-05.md |
-| decisao-colegiado | 19957.002230/2015-27 | 2017-07-18 | nao-provido | cvm-col-20170718-d9787 | fichas/colegiado/2017-13.md |
-| decisao-colegiado | 19957.001854/2016-16 | 2017-07-18 | parcial | cvm-col-20170718-d0742 | fichas/colegiado/2017-13.md |
-| decisao-colegiado | 19957.001853/2016-63 | 2017-07-18 | parcial | cvm-col-20170718-d0741 | fichas/colegiado/2017-13.md |
-| decisao-colegiado | 19957.001852/2016-19 | 2017-07-18 | parcial | cvm-col-20170718-d0740 | fichas/colegiado/2017-13.md |
-| decisao-colegiado | 19957.008199/2016-19 | 2017-07-18 | nao-provido | cvm-col-20170718-d0739 | fichas/colegiado/2017-13.md |
-| decisao-colegiado | 19957.008361/2016-07 | 2017-07-18 | parcial | cvm-col-20170718-d0738 | fichas/colegiado/2017-13.md |
-| decisao-colegiado | 19957.002004/2016-27 | 2017-07-18 | nao-provido | cvm-col-20170718-d0737 | fichas/colegiado/2017-13.md |
-| decisao-colegiado | 19957.001864/2016-43 | 2017-07-18 | nao-provido | cvm-col-20170718-d0736 | fichas/colegiado/2017-13.md |
-| decisao-colegiado | 19957.002003/2016-82 | 2017-07-04 | nao-provido | cvm-col-20170704-d0726 | fichas/colegiado/2017-12.md |
-| decisao-colegiado | RJ2009/6405 | 2017-06-26 | nao-provido | cvm-col-20170626-d9558 | fichas/colegiado/2017-12.md |
-| termo-compromisso | 19957.006464/2016-24; RJ2016/7644 | 2017-06-26 | aceito | cvm-col-20170626-d0701 | fichas/tc/2017-02.md |
-| acordao-crsfn | SP-2010-186 | 2017-04-19 | parcial | crsfn-14238 | fichas/crsfn/2017-03.md |
-| decisao-colegiado | 19957.006271/2016-73 | 2017-03-07 | nao-provido | cvm-col-20170307-d0593 | fichas/colegiado/2017-05.md |
-| decisao-colegiado | 19957.007098/2016-21 | 2017-02-21 | nao-provido | cvm-col-20170221-d0580 | fichas/colegiado/2017-04.md |
-| acordao-crsfn | RJ2007/4414 | 2017-02-07 | condenacao | crsfn-13357 | fichas/crsfn/2017-01.md |
-| decisao-colegiado | 19957.000658/2016-16 | 2017-01-31 | nao-provido | cvm-col-20170131-d0559 | fichas/colegiado/2017-03.md |
-| decisao-colegiado | 19957.000513/2016-15 | 2017-01-03 | provido | cvm-col-20170103-d0528 | fichas/colegiado/2017-01.md |
-| decisao-colegiado | 19957.001652/2016-66 | 2016-10-25 | nao-provido | cvm-col-20161025-d0411 | fichas/colegiado/2016-21.md |
-| decisao-colegiado | 19957.001207/2016-04 | 2016-10-25 | nao-provido | cvm-col-20161025-d0410 | fichas/colegiado/2016-21.md |
-| decisao-colegiado | 19957.001096/2015-47 | 2016-09-27 | provido | cvm-col-20160927-d9874 | fichas/colegiado/2016-19.md |
-| decisao-colegiado | RJ2013/2306 | 2016-08-09 | nao-provido | cvm-col-20160809-d9181 | fichas/colegiado/2016-16.md |
-| decisao-colegiado | RJ2012/7159 | 2016-08-09 | nao-provido | cvm-col-20160809-d8866 | fichas/colegiado/2016-16.md |
-| pas | SP2014/0383 | 2016-08-02 | condenacao | cvm-pas-sp2014-0383 | fichas/pas/2016-03.md |
-| decisao-colegiado | 19957.002315/2016-96 | 2016-07-12 | parcial | cvm-col-20160712-d0296 | fichas/colegiado/2016-14.md |
-| termo-compromisso | RJ2016/1262 | 2016-07-12 | rejeitado | cvm-col-20160712-d0124 | fichas/tc/2016-03.md |
-| decisao-colegiado | 505/2011; SP2015/0097 | 2016-06-14 | parcial | cvm-col-20160614-d9646 | fichas/colegiado/2016-12.md |
-| termo-compromisso | SP2015/0193 | 2016-04-19 | aceito | cvm-col-20160419-d0181 | fichas/tc/2016-01.md |
-| decisao-colegiado | RJ2015/1295 | 2016-03-08 | nao-provido | cvm-col-20160308-d0137 | fichas/colegiado/2016-06.md |
-| decisao-colegiado | RJ2015/1264 | 2016-03-08 | nao-provido | cvm-col-20160308-d0136 | fichas/colegiado/2016-06.md |
-| decisao-colegiado | RJ2014/12861 | 2016-03-08 | provido | cvm-col-20160308-d0135 | fichas/colegiado/2016-06.md |
-| decisao-colegiado | 19957.002501/2015-44 | 2016-03-01 | nao-provido | cvm-col-20160301-d0128 | fichas/colegiado/2016-06.md |
-| decisao-colegiado | 19957.002502/2015-99 | 2016-03-01 | nao-provido | cvm-col-20160301-d0127 | fichas/colegiado/2016-06.md |
-| decisao-colegiado | 19957.003637/2015-71 | 2016-03-01 | nao-provido | cvm-col-20160301-d0126 | fichas/colegiado/2016-06.md |
-| decisao-colegiado | RJ2015/1322; RJ2015/1324 | 2016-03-01 | nao-provido | cvm-col-20160301-d0121 | fichas/colegiado/2016-06.md |
-| decisao-colegiado | 19957.002876/2015-12 | 2016-03-01 | nao-provido | cvm-col-20160301-d0118 | fichas/colegiado/2016-06.md |
-| decisao-colegiado | 19957.002503/2015-33 | 2016-03-01 | nao-provido | cvm-col-20160301-d0117 | fichas/colegiado/2016-06.md |
-| decisao-colegiado | 19957.003436/2015-74 | 2016-03-01 | nao-provido | cvm-col-20160301-d0116 | fichas/colegiado/2016-06.md |
-| decisao-colegiado | 19957.003225/2015-31 | 2016-03-01 | nao-provido | cvm-col-20160301-d0115 | fichas/colegiado/2016-05.md |
-| acordao-crsfn | SP2004/193 | 2016-02-23 | parcial | crsfn-11957 | fichas/crsfn/2016-01.md |
-| acordao-crsfn | SP2004/193 | 2016-02-23 | parcial | crsfn-10372-000585-2016-69 | fichas/crsfn/2016-01.md |
-| decisao-colegiado | RJ2015/1321 | 2016-02-16 | nao-provido | cvm-col-20160216-d0062 | fichas/colegiado/2016-04.md |
-| decisao-colegiado | RJ2015/1289 | 2016-02-16 | nao-provido | cvm-col-20160216-d0061 | fichas/colegiado/2016-04.md |
-| decisao-colegiado | RJ2014/13277 | 2016-02-16 | nao-provido | cvm-col-20160216-d0060 | fichas/colegiado/2016-04.md |
-| decisao-colegiado | RJ2014/13157 | 2016-02-16 | nao-provido | cvm-col-20160216-d0059 | fichas/colegiado/2016-04.md |
-| decisao-colegiado | RJ2013/0267 | 2016-02-11 | parcial | cvm-col-20160211-d8723 | fichas/colegiado/2016-04.md |
-| decisao-colegiado | RJ2013/0301 | 2016-02-02 | nao-provido | cvm-col-20160202-d8905 | fichas/colegiado/2016-03.md |
-| decisao-colegiado | 19957.004148/2015-37 | 2016-02-02 | nao-provido | cvm-col-20160202-d0039 | fichas/colegiado/2016-03.md |
-| decisao-colegiado | 19957.004147/2015-92 | 2016-02-02 | nao-provido | cvm-col-20160202-d0038 | fichas/colegiado/2016-03.md |
-| decisao-colegiado | 19957.002720/2015-23 | 2016-02-02 | nao-provido | cvm-col-20160202-d0037 | fichas/colegiado/2016-03.md |
-| decisao-colegiado | 19957.002964/2015-14 | 2016-02-02 | parcial | cvm-col-20160202-d0035 | fichas/colegiado/2016-02.md |
-| decisao-colegiado | 19957.003248/2015-46 | 2015-11-10 | nao-provido | cvm-col-20151110-d9921 | fichas/colegiado/2015-21.md |
-| decisao-colegiado | 19957.003228/2015-75 | 2015-11-10 | nao-provido | cvm-col-20151110-d9920 | fichas/colegiado/2015-21.md |
-| decisao-colegiado | 19957.003103/2015-45 | 2015-11-10 | provido | cvm-col-20151110-d9919 | fichas/colegiado/2015-21.md |
-| decisao-colegiado | 19957.002365/2015-92 | 2015-11-10 | nao-provido | cvm-col-20151110-d9918 | fichas/colegiado/2015-21.md |
-| decisao-colegiado | 19957.001513/2015-51 | 2015-11-10 | nao-provido | cvm-col-20151110-d9917 | fichas/colegiado/2015-21.md |
-| decisao-colegiado | 19957.003104/2015-90 | 2015-11-03 | nao-provido | cvm-col-20151103-d9909 | fichas/colegiado/2015-20.md |
-| decisao-colegiado | 19957.003089/2015-80 | 2015-10-27 | provido | cvm-col-20151027-d9903 | fichas/colegiado/2015-20.md |
-| decisao-colegiado | RJ2014/7075 | 2015-10-13 | provido | cvm-col-20151013-d9276 | fichas/colegiado/2015-19.md |
-| decisao-colegiado | 19957.001431/2015-15 | 2015-10-06 | nao-provido | cvm-col-20151006-d9875 | fichas/colegiado/2015-18.md |
-| decisao-colegiado | 19957.001096/2015-47 | 2015-10-06 | — | cvm-col-20151006-d9874 | fichas/colegiado/2015-18.md |
-| decisao-colegiado | RJ2015/1399 | 2015-09-22 | nao-provido | cvm-col-20150922-d9848 | fichas/colegiado/2015-17.md |
-| decisao-colegiado | RJ2015/0423 | 2015-09-22 | nao-provido | cvm-col-20150922-d9840 | fichas/colegiado/2015-17.md |
-| decisao-colegiado | 19957.002647/2015-90 | 2015-09-22 | nao-provido | cvm-col-20150922-d9839 | fichas/colegiado/2015-17.md |
-| acordao-crsfn | RJ2012/1605 | 2015-09-22 | condenacao | crsfn-13430 | fichas/crsfn/2015-04.md |
-| decisao-colegiado | 19957.002452/2015-40 | 2015-09-08 | nao-provido | cvm-col-20150908-d9827 | fichas/colegiado/2015-16.md |
-| decisao-colegiado | 19957.002450/2015-51 | 2015-09-08 | nao-provido | cvm-col-20150908-d9825 | fichas/colegiado/2015-16.md |
-| decisao-colegiado | 19957.002364/2015-48 | 2015-09-01 | conhecimento | cvm-col-20150901-d9816 | fichas/colegiado/2015-16.md |
-| decisao-colegiado | 19957.002445/2015-48 | 2015-09-01 | provido | cvm-col-20150901-d9812 | fichas/colegiado/2015-16.md |
-| decisao-colegiado | RJ2015/1260 | 2015-08-25 | nao-provido | cvm-col-20150825-d9799 | fichas/colegiado/2015-15.md |
-| decisao-colegiado | 19957.001099/2015-81 | 2015-08-11 | nao-provido | cvm-col-20150811-d9785 | fichas/colegiado/2015-15.md |
-| decisao-colegiado | RJ2012/8574 | 2015-08-11 | nao-provido | cvm-col-20150811-d8763 | fichas/colegiado/2015-14.md |
-| decisao-colegiado | RJ2012/14432 | 2015-07-21 | nao-provido | cvm-col-20150721-d8904 | fichas/colegiado/2015-14.md |
-| decisao-colegiado | 19957.002024/2015-17 | 2015-07-14 | nao-provido | cvm-col-20150714-d9763 | fichas/colegiado/2015-13.md |
-| decisao-colegiado | 19957.001507/2015-02 | 2015-07-14 | nao-provido | cvm-col-20150714-d9762 | fichas/colegiado/2015-13.md |
-| decisao-colegiado | 19957.002025/2015-61 | 2015-07-07 | provido | cvm-col-20150707-d9755 | fichas/colegiado/2015-13.md |
-| decisao-colegiado | RJ2015/1325 | 2015-07-07 | nao-provido | cvm-col-20150707-d9753 | fichas/colegiado/2015-13.md |
-| pas | SP2012/402 | 2015-07-01 | condenacao | cvm-pas-sp2012-0402 | fichas/pas/2015-04.md |
-| decisao-colegiado | 19957.001517/2015-30 | 2015-06-30 | nao-provido | cvm-col-20150630-d9746 | fichas/colegiado/2015-12.md |
-| acordao-crsfn | 06/2009 | 2015-06-30 | parcial | crsfn-13358 | fichas/crsfn/2015-02.md |
-| acordao-crsfn | RJ2007/14868 | 2015-06-30 | extincao | crsfn-12077 | fichas/crsfn/2015-02.md |
-| decisao-colegiado | 19957.001535/2015-11 | 2015-06-23 | parcial | cvm-col-20150623-d9721 | fichas/colegiado/2015-11.md |
-| decisao-colegiado | RJ2015/246 | 2015-06-09 | nao-provido | cvm-col-20150609-d9681 | fichas/colegiado/2015-09.md |
-| decisao-colegiado | RJ2013/2125 | 2015-06-09 | provido | cvm-col-20150609-d9180 | fichas/colegiado/2015-09.md |
-| decisao-colegiado | 19957.001514/2015-04 | 2015-06-02 | nao-provido | cvm-col-20150602-d9671 | fichas/colegiado/2015-09.md |
-| decisao-colegiado | 19957.001515/2015-41 | 2015-06-02 | nao-provido | cvm-col-20150602-d9670 | fichas/colegiado/2015-09.md |
-| decisao-colegiado | RJ2013/11191 | 2015-05-26 | parcial | cvm-col-20150526-d9183 | fichas/colegiado/2015-08.md |
-| decisao-colegiado | RJ2015/251 | 2015-05-19 | nao-provido | cvm-col-20150519-d9656 | fichas/colegiado/2015-08.md |
-| decisao-colegiado | RJ2015/0250 | 2015-05-19 | nao-provido | cvm-col-20150519-d9655 | fichas/colegiado/2015-08.md |
-| termo-compromisso | SP2014/0014 | 2015-05-19 | rejeitado | cvm-col-20150519-d9651 | fichas/tc/2015-02.md |
-| decisao-colegiado | RJ2015/247 | 2015-05-05 | parcial | cvm-col-20150505-d9640 | fichas/colegiado/2015-07.md |
-| decisao-colegiado | RJ2015/282 | 2015-05-05 | parcial | cvm-col-20150505-d9639 | fichas/colegiado/2015-07.md |
-| decisao-colegiado | RJ2015/1404 | 2015-05-05 | nao-provido | cvm-col-20150505-d9636 | fichas/colegiado/2015-07.md |
-| decisao-colegiado | RJ2015/0248 | 2015-05-05 | parcial | cvm-col-20150505-d9635 | fichas/colegiado/2015-07.md |
-| decisao-colegiado | RJ2014/12860 | 2015-05-05 | nao-provido | cvm-col-20150505-d9634 | fichas/colegiado/2015-07.md |
-| decisao-colegiado | RJ2015/1261 | 2015-04-28 | nao-provido | cvm-col-20150428-d9629 | fichas/colegiado/2015-07.md |
-| decisao-colegiado | RJ2015/1262 | 2015-04-14 | nao-provido | cvm-col-20150414-d9622 | fichas/colegiado/2015-06.md |
-| decisao-colegiado | RJ2013/9083; RJ2013/9162 | 2015-03-17 | nao-provido | cvm-col-20150317-d9198-9199 | fichas/colegiado/2015-05.md |
-| decisao-colegiado | 497/2011; RJ2014/12792 | 2015-03-10 | deferido | cvm-col-20150310-d8260 | fichas/colegiado/2015-04.md |
-| decisao-colegiado | RJ2013/3510 | 2015-02-10 | nao-provido | cvm-col-20150210-d9076 | fichas/colegiado/2015-03.md |
-| decisao-colegiado | RJ2014/14384 | 2015-02-03 | nao-provido | cvm-col-20150203-d9556 | fichas/colegiado/2015-03.md |
-| pas | SP2010/186 | 2015-01-27 | condenacao | cvm-pas-sp2010-0186 | fichas/pas/2015-01.md |
-| decisao-colegiado | RJ2014/15012; RJ2014/15013; RJ2014/15014; RJ2014/15032; RJ2014/15039 | 2015-01-27 | provido | cvm-col-20150127-d9550 | fichas/colegiado/2015-02.md |
-| decisao-colegiado | RJ2013/8546 | 2015-01-27 | nao-provido | cvm-col-20150127-d9548 | fichas/colegiado/2015-02.md |
-| decisao-colegiado | RJ2014/2606 | 2015-01-27 | nao-provido | cvm-col-20150127-d9516 | fichas/colegiado/2015-02.md |
-| decisao-colegiado | RJ2014/7074 | 2015-01-21 | nao-provido | cvm-col-20150121-d9540 | fichas/colegiado/2015-02.md |
-| decisao-colegiado | RJ2014/5766 | 2015-01-06 | nao-provido | cvm-col-20150106-d9509 | fichas/colegiado/2015-01.md |
-| decisao-colegiado | RJ2014/12862 | 2015-01-06 | parcial | cvm-col-20150106-d9503 | fichas/colegiado/2015-01.md |
-| decisao-colegiado | RJ2014/7529 | 2015-01-06 | nao-provido | cvm-col-20150106-d9502 | fichas/colegiado/2015-01.md |
-| decisao-colegiado | RJ2014/6264 | 2015-01-06 | nao-provido | cvm-col-20150106-d9500 | fichas/colegiado/2015-01.md |
-| decisao-colegiado | RJ2014/4244 | 2015-01-06 | nao-provido | cvm-col-20150106-d9499 | fichas/colegiado/2015-01.md |
-| decisao-colegiado | RJ2014/3897 | 2015-01-06 | nao-provido | cvm-col-20150106-d9498 | fichas/colegiado/2015-01.md |
-| decisao-colegiado | RJ2012/10928 | 2014-12-09 | nao-provido | cvm-col-20141209-d16 | fichas/colegiado/2014-25.md |
-| decisao-colegiado | 539/2013; RJ2011/1898 | 2014-12-03 | deferido | cvm-col-20141203-d01 | fichas/colegiado/2014-25.md |
-| decisao-colegiado | RJ2014/3941 | 2014-12-02 | deferido | cvm-col-20141202-d19 | fichas/colegiado/2014-24.md |
-| termo-compromisso | RJ2013/2758 | 2014-12-02 | outro | cvm-col-20141202-d10 | fichas/tc/2014-04.md |
-| decisao-colegiado | RJ2014/2113 | 2014-11-18 | nao-provido | cvm-col-20141118-d07 | fichas/colegiado/2014-22.md |
-| decisao-colegiado | RJ2013/2697 | 2014-11-11 | nao-provido | cvm-col-20141111-d07 | fichas/colegiado/2014-21.md |
-| termo-compromisso | SP2011/0260 | 2014-11-04 | aceito | cvm-col-20141104-d05 | fichas/tc/2014-03.md |
-| decisao-colegiado | RJ2014/7076 | 2014-10-29 | provido | cvm-col-20141029-d01-r2 | fichas/colegiado/2014-20.md |
-| acordao-crsfn | 0002/2009 | 2014-10-21 | outro | crsfn-13527 | fichas/crsfn/2014-06.md |
-| acordao-crsfn | SP2010/0001 | 2014-10-21 | condenacao | crsfn-13329 | fichas/crsfn/2014-06.md |
-| decisao-colegiado | RJ2013/2596 | 2014-09-16 | nao-provido | cvm-col-20140916-d04 | fichas/colegiado/2014-18.md |
-| decisao-colegiado | RJ2013/2422 | 2014-08-19 | nao-provido | cvm-col-20140819-d11 | fichas/colegiado/2014-15.md |
-| decisao-colegiado | RJ2014/4245 | 2014-08-12 | parcial | cvm-col-20140812-d12 | fichas/colegiado/2014-15.md |
-| decisao-colegiado | RJ2014/3922 | 2014-08-12 | nao-provido | cvm-col-20140812-d11 | fichas/colegiado/2014-15.md |
-| decisao-colegiado | RJ2013/8640 | 2014-08-05 | nao-provido | cvm-col-20140805-d06 | fichas/colegiado/2014-14.md |
-| termo-compromisso | SP2013/0157 | 2014-08-05 | aceito | cvm-col-20140805-d02 | fichas/tc/2014-02.md |
-| decisao-colegiado | — | 2014-07-22 | nao-provido | cvm-col-20140722-d05 | fichas/colegiado/2014-14.md |
-| acordao-crsfn | RJ-2007-14708 | 2014-07-22 | arquivamento | crsfn-13230 | fichas/crsfn/2014-04.md |
-| decisao-colegiado | RJ2013/3347 | 2014-07-15 | nao-provido | cvm-col-20140715-d13 | fichas/colegiado/2014-13.md |
-| decisao-colegiado | RJ2013/8558 | 2014-06-10 | nao-provido | cvm-col-20140610-d13 | fichas/colegiado/2014-12.md |
-| decisao-colegiado | RJ2014/2597 | 2014-06-03 | nao-provido | cvm-col-20140603-d05 | fichas/colegiado/2014-11.md |
-| decisao-colegiado | RJ2013/2487 | 2014-06-03 | nao-provido | cvm-col-20140603-d04 | fichas/colegiado/2014-11.md |
-| decisao-colegiado | RJ2013/1771 | 2014-06-03 | provido | cvm-col-20140603-d03 | fichas/colegiado/2014-11.md |
-| decisao-colegiado | RJ2013/7086 | 2014-05-20 | nao-provido | cvm-col-20140520-d01 | fichas/colegiado/2014-09.md |
-| acordao-crsfn | 12/06 | 2014-05-13 | parcial | crsfn-13263 | fichas/crsfn/2014-03.md |
-| decisao-colegiado | RJ2012/14720 | 2014-05-06 | provido | cvm-col-20140506-d10 | fichas/colegiado/2014-08.md |
-| decisao-colegiado | RJ2012/14404 | 2014-05-06 | nao-provido | cvm-col-20140506-d09 | fichas/colegiado/2014-08.md |
-| termo-compromisso | RJ2013/10791 | 2014-04-15 | rejeitado | cvm-col-20140415-d01 | fichas/tc/2014-01.md |
-| decisao-colegiado | SP2009/0025 | 2014-04-08 | nao-provido | cvm-col-20140408-d02 | fichas/colegiado/2014-06.md |
-| decisao-colegiado | RJ2013/7203 | 2014-03-25 | parcial | cvm-col-20140325-d06 | fichas/colegiado/2014-05.md |
-| decisao-colegiado | RJ2013/2278 | 2014-03-18 | provido | cvm-col-20140318-d11 | fichas/colegiado/2014-05.md |
-| decisao-colegiado | RJ2013/10105; RJ2013/10789; RJ2013/10936 | 2014-03-18 | nao-provido | cvm-col-20140318-d10 | fichas/colegiado/2014-05.md |
-| decisao-colegiado | RJ2013/0267 | 2014-03-18 | provido | cvm-col-20140318-d09 | fichas/colegiado/2014-05.md |
-| decisao-colegiado | RJ2012/3842 | 2014-03-11 | nao-provido | cvm-col-20140311-d02 | fichas/colegiado/2014-04.md |
-| decisao-colegiado | RJ2013/1914 | 2014-02-25 | nao-provido | cvm-col-20140225-d22 | fichas/colegiado/2014-04.md |
-| decisao-colegiado | RJ2013/2027 | 2014-02-18 | nao-provido | cvm-col-20140218-d03 | fichas/colegiado/2014-03.md |
-| decisao-colegiado | RJ2013/0275 | 2014-02-11 | nao-provido | cvm-col-20140211-d05 | fichas/colegiado/2014-03.md |
-| decisao-colegiado | RJ2012/14743 | 2014-01-07 | nao-provido | cvm-col-20140107-d03 | fichas/colegiado/2014-01.md |
-| decisao-colegiado | RJ2010/14527 | 2013-12-17 | nao-provido | cvm-col-20131217-d22 | fichas/colegiado/2013-24.md |
-| decisao-colegiado | RJ2012/14319 | 2013-12-17 | nao-provido | cvm-col-20131217-d21 | fichas/colegiado/2013-24.md |
-| decisao-colegiado | RJ2012/7123 | 2013-12-17 | nao-provido | cvm-col-20131217-d03 | fichas/colegiado/2013-23.md |
-| decisao-colegiado | RJ2012/1976 | 2013-12-03 | nao-provido | cvm-col-20131203-d07 | fichas/colegiado/2013-23.md |
-| termo-compromisso | RJ2012/3796 | 2013-11-12 | rejeitado | cvm-col-20131112-d01 | fichas/tc/2013-05.md |
-| decisao-colegiado | RJ2012/13328 | 2013-10-29 | outro | cvm-col-20131029-d16 | fichas/colegiado/2013-21.md |
-| decisao-colegiado | RJ2012/4162 | 2013-10-29 | nao-provido | cvm-col-20131029-d15 | fichas/colegiado/2013-21.md |
-| pas | SP2010/266 | 2013-10-15 | condenacao | cvm-pas-sp2010-0266 | fichas/pas/2013-05.md |
-| decisao-colegiado | RJ2013/4048 | 2013-10-15 | nao-provido | cvm-col-20131015-d07 | fichas/colegiado/2013-19.md |
-| decisao-colegiado | RJ2012/2904 | 2013-10-08 | nao-provido | cvm-col-20131008-d10 | fichas/colegiado/2013-19.md |
-| decisao-colegiado | RJ2012/0251; RJ2012/0252 | 2013-09-17 | nao-provido | cvm-col-20130917-d08 | fichas/colegiado/2013-17.md |
-| decisao-colegiado | RJ2012/7465 | 2013-09-10 | nao-provido | cvm-col-20130910-d11 | fichas/colegiado/2013-17.md |
-| decisao-colegiado | RJ2012/8806 | 2013-07-30 | provido | cvm-col-20130730-d14 | fichas/colegiado/2013-14.md |
-| decisao-colegiado | RJ2013/0267 | 2013-07-23 | outro | cvm-col-20130723-d04 | fichas/colegiado/2013-13.md |
-| decisao-colegiado | RJ2012/3951 | 2013-07-23 | provido | cvm-col-20130723-d03 | fichas/colegiado/2013-13.md |
-| decisao-colegiado | RJ2012/10919 | 2013-07-09 | nao-provido | cvm-col-20130709-d05 | fichas/colegiado/2013-13.md |
-| decisao-colegiado | 497/2011; SP2013/0225 | 2013-05-28 | outro | cvm-col-20130528-d07 | fichas/colegiado/2013-11.md |
-| decisao-colegiado | 505/2011; SP2013/0219 | 2013-05-28 | outro | cvm-col-20130528-d06 | fichas/colegiado/2013-11.md |
-| termo-compromisso | SP2011/0099 | 2013-05-28 | aceito | cvm-col-20130528-d03 | fichas/tc/2013-02.md |
-| decisao-colegiado | RJ2012/3913 | 2013-05-07 | nao-provido | cvm-col-20130507-d08 | fichas/colegiado/2013-10.md |
-| decisao-colegiado | RJ2012/2908 | 2013-04-09 | provido | cvm-col-20130409-d04 | fichas/colegiado/2013-08.md |
-| decisao-colegiado | RJ2012/2907 | 2013-04-09 | provido | cvm-col-20130409-d03 | fichas/colegiado/2013-08.md |
-| decisao-colegiado | RJ2012/4161 | 2013-02-05 | parcial | cvm-col-20130205-d10 | fichas/colegiado/2013-04.md |
-| decisao-colegiado | 505/2011; 506/2011; RJ2013/1139 | 2013-01-29 | outro | cvm-col-20130129-d04 | fichas/colegiado/2013-03.md |
-| acordao-crsfn | SP-2001-0799 | 2013-01-10 | parcial | crsfn-10461 | fichas/crsfn/2013-01.md |
-| pas | 30/2005 | 2012-12-11 | parcial | cvm-pas-30-2005 | fichas/pas/2012-03.md |
-| decisao-colegiado | RJ2012/10733 | 2012-12-11 | nao-provido | cvm-col-20121211-d42 | fichas/colegiado/2012-24.md |
-| decisao-colegiado | RJ2012/7158 | 2012-11-22 | nao-provido | cvm-col-20121122-d10 | fichas/colegiado/2012-21.md |
-| decisao-colegiado | RJ2012/12237 | 2012-11-22 | provido | cvm-col-20121122-d09 | fichas/colegiado/2012-21.md |
-| decisao-colegiado | SP2012/0342 | 2012-11-13 | provido | cvm-col-20121113-d01 | fichas/colegiado/2012-21.md |
-| decisao-colegiado | SP2012/0342 | 2012-10-30 | — | cvm-col-20121030-d09 | fichas/colegiado/2012-20.md |
-| decisao-colegiado | RJ2012/3922 | 2012-10-23 | nao-provido | cvm-col-20121023-d10 | fichas/colegiado/2012-19.md |
-| decisao-colegiado | 505/2011; SP2012/0139 | 2012-09-18 | outro | cvm-col-20120918-d09 | fichas/colegiado/2012-17.md |
-| decisao-colegiado | RJ2012/0259 | 2012-09-18 | provido | cvm-col-20120918-d03 | fichas/colegiado/2012-17.md |
-| decisao-colegiado | RJ2012/0259 | 2012-09-04 | — | cvm-col-20120904-d16 | fichas/colegiado/2012-16.md |
-| decisao-colegiado | SP2011/0215 | 2012-09-04 | nao-provido | cvm-col-20120904-d15 | fichas/colegiado/2012-15.md |
-| decisao-colegiado | SP2011/0072 | 2012-09-04 | nao-provido | cvm-col-20120904-d14 | fichas/colegiado/2012-15.md |
-| decisao-colegiado | RJ2012/1974 | 2012-08-28 | nao-provido | cvm-col-20120828-d17 | fichas/colegiado/2012-15.md |
-| decisao-colegiado | SP2010/0052 | 2012-08-28 | nao-provido | cvm-col-20120828-d16 | fichas/colegiado/2012-15.md |
-| decisao-colegiado | SP2007/0050 | 2012-08-28 | nao-provido | cvm-col-20120828-d15 | fichas/colegiado/2012-15.md |
-| decisao-colegiado | SP2007/0049 | 2012-08-28 | nao-provido | cvm-col-20120828-d14 | fichas/colegiado/2012-15.md |
-| decisao-colegiado | SP2007/0047 | 2012-08-28 | nao-provido | cvm-col-20120828-d13 | fichas/colegiado/2012-15.md |
-| decisao-colegiado | SP2007/0046 | 2012-08-28 | nao-provido | cvm-col-20120828-d12 | fichas/colegiado/2012-15.md |
-| decisao-colegiado | SP2007/0045 | 2012-08-28 | nao-provido | cvm-col-20120828-d11 | fichas/colegiado/2012-15.md |
-| decisao-colegiado | SP2007/0043 | 2012-08-28 | nao-provido | cvm-col-20120828-d10 | fichas/colegiado/2012-14.md |
-| decisao-colegiado | SP2007/0042 | 2012-08-28 | nao-provido | cvm-col-20120828-d09 | fichas/colegiado/2012-14.md |
-| decisao-colegiado | SP2007/0041 | 2012-08-28 | nao-provido | cvm-col-20120828-d08 | fichas/colegiado/2012-14.md |
-| decisao-colegiado | SP2007/0040 | 2012-08-28 | nao-provido | cvm-col-20120828-d07 | fichas/colegiado/2012-14.md |
-| decisao-colegiado | SP2010/0051 | 2012-08-28 | nao-provido | cvm-col-20120828-d06 | fichas/colegiado/2012-14.md |
-| decisao-colegiado | RJ2012/6514 | 2012-08-28 | deferido | cvm-col-20120828-d04 | fichas/colegiado/2012-14.md |
-| decisao-colegiado | RJ2010/14209 | 2012-08-21 | nao-provido | cvm-col-20120821-d14 | fichas/colegiado/2012-14.md |
-| decisao-colegiado | RJ2012/2032 | 2012-08-21 | nao-provido | cvm-col-20120821-d11 | fichas/colegiado/2012-14.md |
-| decisao-colegiado | SP2010/0197 | 2012-08-21 | nao-provido | cvm-col-20120821-d10 | fichas/colegiado/2012-14.md |
-| decisao-colegiado | RJ2010/10274 | 2012-08-21 | nao-provido | cvm-col-20120821-d09 | fichas/colegiado/2012-14.md |
-| decisao-colegiado | RJ2012/6514 | 2012-08-21 | — | cvm-col-20120821-d02 | fichas/colegiado/2012-14.md |
-| decisao-colegiado | RJ2010/11959 | 2012-08-14 | nao-provido | cvm-col-20120814-d07 | fichas/colegiado/2012-13.md |
-| decisao-colegiado | RJ2010/12289 | 2012-08-14 | nao-provido | cvm-col-20120814-d06 | fichas/colegiado/2012-13.md |
-| decisao-colegiado | RJ2010/12288 | 2012-08-14 | nao-provido | cvm-col-20120814-d05 | fichas/colegiado/2012-13.md |
-| decisao-colegiado | RJ2010/12286 | 2012-08-14 | nao-provido | cvm-col-20120814-d04 | fichas/colegiado/2012-13.md |
-| decisao-colegiado | RJ2010/17051 | 2012-08-07 | nao-provido | cvm-col-20120807-d05 | fichas/colegiado/2012-13.md |
-| decisao-colegiado | RJ2010/14211 | 2012-07-31 | nao-provido | cvm-col-20120731-d06 | fichas/colegiado/2012-13.md |
-| decisao-colegiado | RJ2012/6514 | 2012-07-24 | — | cvm-col-20120724-d01 | fichas/colegiado/2012-12.md |
-| decisao-colegiado | RJ2012/1605 | 2012-07-10 | nao-provido | cvm-col-20120710-d07 | fichas/colegiado/2012-12.md |
-| decisao-colegiado | RJ2010/10836 | 2012-07-10 | nao-provido | cvm-col-20120710-d06 | fichas/colegiado/2012-12.md |
-| decisao-colegiado | SP2011/0295 | 2012-07-10 | nao-provido | cvm-col-20120710-d05 | fichas/colegiado/2012-12.md |
-| termo-compromisso | SP2007/0140 | 2012-07-10 | aceito | cvm-col-20120710-d03 | fichas/tc/2012-04.md |
-| acordao-crsfn | RJ-2007-14710 | 2012-07-05 | absolvicao | crsfn-12758 | fichas/crsfn/2012-02.md |
-| decisao-colegiado | RJ2010/13966 | 2012-07-03 | nao-provido | cvm-col-20120703-d24 | fichas/colegiado/2012-11.md |
-| termo-compromisso | SP2011/0099 | 2012-07-03 | rejeitado | cvm-col-20120703-d07 | fichas/tc/2012-03.md |
-| decisao-colegiado | RJ2010/10275 | 2012-06-19 | nao-provido | cvm-col-20120619-d07 | fichas/colegiado/2012-10.md |
-| decisao-colegiado | RJ2010/11962 | 2012-06-12 | nao-provido | cvm-col-20120612-d03 | fichas/colegiado/2012-10.md |
-| decisao-colegiado | RJ2011/3414 | 2012-06-05 | nao-provido | cvm-col-20120605-d04 | fichas/colegiado/2012-10.md |
-| decisao-colegiado | RJ2010/13179 | 2012-05-29 | nao-provido | cvm-col-20120529-d03 | fichas/colegiado/2012-10.md |
-| decisao-colegiado | RJ2010/12838 | 2012-05-22 | nao-provido | cvm-col-20120522-d06 | fichas/colegiado/2012-10.md |
-| decisao-colegiado | SP2010/0167 | 2012-05-15 | nao-provido | cvm-col-20120515-d03 | fichas/colegiado/2012-09.md |
-| decisao-colegiado | SP2010/0223 | 2012-05-08 | nao-provido | cvm-col-20120508-d05 | fichas/colegiado/2012-09.md |
-| decisao-colegiado | SP2010/0222 | 2012-05-08 | nao-provido | cvm-col-20120508-d04 | fichas/colegiado/2012-09.md |
-| decisao-colegiado | SP2011/0214 | 2012-05-02 | nao-provido | cvm-col-20120502-d03 | fichas/colegiado/2012-08.md |
-| decisao-colegiado | RJ2011/14524 | 2012-04-17 | nao-provido | cvm-col-20120417-d08 | fichas/colegiado/2012-07.md |
-| decisao-colegiado | RJ2011/11225 | 2012-04-17 | conhecimento | cvm-col-20120417-d07 | fichas/colegiado/2012-07.md |
-| decisao-colegiado | SP2011/0184 | 2012-04-17 | provido | cvm-col-20120417-d06 | fichas/colegiado/2012-07.md |
-| decisao-colegiado | RJ2011/6992 | 2012-04-17 | nao-provido | cvm-col-20120417-d05 | fichas/colegiado/2012-07.md |
-| acordao-crsfn | RJ-2005-7521 | 2012-04-16 | absolvicao | crsfn-11831 | fichas/crsfn/2012-02.md |
-| decisao-colegiado | RJ2010/17052 | 2012-04-10 | nao-provido | cvm-col-20120410-d05 | fichas/colegiado/2012-07.md |
-| decisao-colegiado | SP2011/0197 | 2012-04-03 | nao-provido | cvm-col-20120403-d04 | fichas/colegiado/2012-06.md |
-| decisao-colegiado | SP2010/0169 | 2012-04-03 | nao-provido | cvm-col-20120403-d03 | fichas/colegiado/2012-06.md |
-| decisao-colegiado | RJ2010/10272 | 2012-03-27 | provido | cvm-col-20120327-d10 | fichas/colegiado/2012-06.md |
-| termo-compromisso | SP2006/0137 | 2012-03-27 | aceito | cvm-col-20120327-d09 | fichas/tc/2012-02.md |
-| decisao-colegiado | RJ2010/10273 | 2012-03-20 | nao-provido | cvm-col-20120320-d05 | fichas/colegiado/2012-05.md |
-| decisao-colegiado | SP2007/0056 | 2012-02-23 | nao-provido | cvm-col-20120223-d23 | fichas/colegiado/2012-04.md |
-| decisao-colegiado | SP2007/0055 | 2012-02-23 | nao-provido | cvm-col-20120223-d22 | fichas/colegiado/2012-04.md |
-| decisao-colegiado | SP2007/0054 | 2012-02-23 | nao-provido | cvm-col-20120223-d21 | fichas/colegiado/2012-04.md |
-| decisao-colegiado | SP2007/0053 | 2012-02-23 | nao-provido | cvm-col-20120223-d20 | fichas/colegiado/2012-04.md |
-| decisao-colegiado | SP2007/0052 | 2012-02-23 | nao-provido | cvm-col-20120223-d19 | fichas/colegiado/2012-04.md |
-| decisao-colegiado | SP2007/0051 | 2012-02-23 | nao-provido | cvm-col-20120223-d18 | fichas/colegiado/2012-04.md |
-| decisao-colegiado | SP2007/0044 | 2012-02-23 | nao-provido | cvm-col-20120223-d17 | fichas/colegiado/2012-04.md |
-| decisao-colegiado | SP2007/0039 | 2012-02-23 | nao-provido | cvm-col-20120223-d16 | fichas/colegiado/2012-04.md |
-| decisao-colegiado | SP2007/0038 | 2012-02-23 | nao-provido | cvm-col-20120223-d15 | fichas/colegiado/2012-03.md |
-| decisao-colegiado | SP2007/0037 | 2012-02-23 | nao-provido | cvm-col-20120223-d14 | fichas/colegiado/2012-03.md |
-| decisao-colegiado | RJ2011/10371 | 2012-01-17 | deferido | cvm-col-20120117-d08 | fichas/colegiado/2012-01.md |
-| decisao-colegiado | SP2007/0147 | 2012-01-17 | nao-provido | cvm-col-20120117-d07 | fichas/colegiado/2012-01.md |
-| acordao-crsfn | 30/00 | 2012-01-10 | parcial | crsfn-11634 | fichas/crsfn/2012-01.md |
-| decisao-colegiado | — | 2011-12-20 | outro | cvm-col-20111220-d01 | fichas/colegiado/2011-29.md |
-| decisao-colegiado | RJ2009/6905 | 2011-12-13 | nao-provido | cvm-col-20111213-d10 | fichas/colegiado/2011-29.md |
-| decisao-colegiado | RJ2010/10835 | 2011-11-29 | parcial | cvm-col-20111129-d01 | fichas/colegiado/2011-26.md |
-| decisao-colegiado | RJ2010/16961 | 2011-11-16 | nao-provido | cvm-col-20111116-d10 | fichas/colegiado/2011-25.md |
-| decisao-colegiado | RJ2010/14526 | 2011-10-25 | conhecimento | cvm-col-20111025-d10 | fichas/colegiado/2011-23.md |
-| decisao-colegiado | RJ2010/15872 | 2011-10-25 | nao-provido | cvm-col-20111025-d09 | fichas/colegiado/2011-23.md |
-| decisao-colegiado | RJ2010/10271 | 2011-10-19 | nao-provido | cvm-col-20111019-d10 | fichas/colegiado/2011-22.md |
-| decisao-colegiado | RJ2010/9625 | 2011-10-19 | nao-provido | cvm-col-20111019-d09 | fichas/colegiado/2011-22.md |
-| decisao-colegiado | RJ2010/3347 | 2011-10-11 | nao-provido | cvm-col-20111011-d03 | fichas/colegiado/2011-21.md |
-| decisao-colegiado | RJ2010/10272 | 2011-09-20 | — | cvm-col-20110920-d02 | fichas/colegiado/2011-18.md |
-| decisao-colegiado | SP2010/0171 | 2011-09-06 | conhecimento | cvm-col-20110906-d23 | fichas/colegiado/2011-18.md |
-| decisao-colegiado | SP2010/0170 | 2011-09-06 | nao-provido | cvm-col-20110906-d22 | fichas/colegiado/2011-18.md |
-| decisao-colegiado | SP2010/0167 | 2011-09-06 | nao-provido | cvm-col-20110906-d20 | fichas/colegiado/2011-18.md |
-| decisao-colegiado | SP2010/0053 | 2011-09-06 | nao-provido | cvm-col-20110906-d19 | fichas/colegiado/2011-18.md |
-| decisao-colegiado | SP2010/0050 | 2011-08-30 | nao-provido | cvm-col-20110830-d03 | fichas/colegiado/2011-17.md |
-| acordao-crsfn | SP-2003-0489 | 2011-08-30 | parcial | crsfn-10984 | fichas/crsfn/2011-03.md |
-| pas | RJ2007/4414 | 2011-08-16 | condenacao | cvm-pas-rj2007-4414 | fichas/pas/2011-02.md |
-| decisao-colegiado | SP2010/0135 | 2011-08-16 | outro | cvm-col-20110816-d18 | fichas/colegiado/2011-16.md |
-| decisao-colegiado | SP2010/0284 | 2011-08-16 | provido | cvm-col-20110816-d03 | fichas/colegiado/2011-16.md |
-| termo-compromisso | SP2010/0266 | 2011-06-28 | rejeitado | cvm-col-20110628-d02 | fichas/tc/2011-03.md |
-| termo-compromisso | RJ2010/17024 | 2011-06-28 | rejeitado | cvm-col-20110628-d01 | fichas/tc/2011-03.md |
-| decisao-colegiado | RJ2010/15204 | 2011-05-10 | outro | cvm-col-20110510-d09 | fichas/colegiado/2011-10.md |
-| termo-compromisso | SP2010/0135 | 2011-05-10 | aceito | cvm-col-20110510-d06 | fichas/tc/2011-02.md |
-| decisao-colegiado | 03/2010; SP2010/0038 | 2011-05-04 | — | cvm-col-20110504-d03 | fichas/colegiado/2011-10.md |
-| decisao-colegiado | RJ2010/15204 | 2011-04-12 | — | cvm-col-20110412-d03 | fichas/colegiado/2011-09.md |
-| decisao-colegiado | RJ2010/3345 | 2011-04-05 | nao-provido | cvm-col-20110405-d12 | fichas/colegiado/2011-08.md |
-| termo-compromisso | SP2010/0178 | 2011-04-05 | rejeitado | cvm-col-20110405-d02 | fichas/tc/2011-02.md |
-| decisao-colegiado | RJ2010/11758 | 2011-03-29 | nao-provido | cvm-col-20110329-d02 | fichas/colegiado/2011-07.md |
-| pas | SP2010/001 | 2011-03-22 | condenacao | cvm-pas-sp2010-0001 | fichas/pas/2011-01.md |
-| acordao-crsfn | RJ-2007-0974 | 2011-01-26 | parcial | crsfn-11954 | fichas/crsfn/2011-01.md |
-| decisao-colegiado | RJ2010/3348 | 2011-01-11 | nao-provido | cvm-col-20110111-d06 | fichas/colegiado/2011-01.md |
-| acordao-crsfn | RJ-2004-2870 | 2010-12-13 | absolvicao | crsfn-11749 | fichas/crsfn/2010-09.md |
-| pas | 12/2006 | 2010-12-08 | parcial | cvm-pas-12-2006 | fichas/pas/2010-05.md |
-| decisao-colegiado | RJ2010/11958 | 2010-12-07 | nao-provido | cvm-col-20101207-d40 | fichas/colegiado/2010-28.md |
-| pas | 02/2009 | 2010-12-01 | absolvicao | cvm-pas-02-2009 | fichas/pas/2010-05.md |
-| decisao-colegiado | RJ2010/10272 | 2010-11-16 | conhecimento | cvm-col-20101116-d06 | fichas/colegiado/2010-24.md |
-| decisao-colegiado | RJ2010/13557 | 2010-11-16 | nao-provido | cvm-col-20101116-d05 | fichas/colegiado/2010-24.md |
-| decisao-colegiado | RJ2007/14708 | 2010-10-19 | provido | cvm-col-20101019-d08 | fichas/colegiado/2010-21.md |
-| decisao-colegiado | SP2009/0102 | 2010-10-05 | outro | cvm-col-20101005-d03 | fichas/colegiado/2010-20.md |
-| decisao-colegiado | SP2000/0379 | 2010-09-21 | parcial | cvm-col-20100921-d14 | fichas/colegiado/2010-19.md |
-| termo-compromisso | SP2010/0001 | 2010-09-21 | rejeitado | cvm-col-20100921-d04 | fichas/tc/2010-05.md |
-| termo-compromisso | RJ2010/4159 | 2010-09-21 | aceito | cvm-col-20100921-d01 | fichas/tc/2010-04.md |
-| decisao-colegiado | SP2010/0092 | 2010-09-09 | provido | cvm-col-20100909-d13 | fichas/colegiado/2010-19.md |
-| decisao-colegiado | RJ2010/2739 | 2010-09-09 | nao-provido | cvm-col-20100909-d12 | fichas/colegiado/2010-19.md |
-| decisao-colegiado | SP2009/0198 | 2010-09-09 | nao-provido | cvm-col-20100909-d11 | fichas/colegiado/2010-19.md |
-| decisao-colegiado | SP2010/0036 | 2010-08-31 | parcial | cvm-col-20100831-d06 | fichas/colegiado/2010-18.md |
-| decisao-colegiado | RJ2010/3996 | 2010-08-17 | nao-provido | cvm-col-20100817-d03 | fichas/colegiado/2010-17.md |
-| decisao-colegiado | SP2010/0079 | 2010-08-17 | nao-provido | cvm-col-20100817-d02 | fichas/colegiado/2010-17.md |
-| decisao-colegiado | RJ2010/7086 | 2010-08-10 | nao-provido | cvm-col-20100810-d11 | fichas/colegiado/2010-17.md |
-| acordao-crsfn | SP-2002-63 | 2010-07-28 | parcial | crsfn-11179 | fichas/crsfn/2010-06.md |
-| acordao-crsfn | RJ-2005-3304 | 2010-07-28 | absolvicao | crsfn-10851 | fichas/crsfn/2010-05.md |
-| decisao-colegiado | SP2010/0066 | 2010-07-27 | nao-provido | cvm-col-20100727-d05 | fichas/colegiado/2010-16.md |
-| decisao-colegiado | SP2010/0062 | 2010-07-06 | nao-provido | cvm-col-20100706-d03 | fichas/colegiado/2010-15.md |
-| termo-compromisso | RJ2010/4159 | 2010-06-29 | rejeitado | cvm-col-20100629-d05 | fichas/tc/2010-03.md |
-| termo-compromisso | RJ2009/5744 | 2010-06-22 | rejeitado | cvm-col-20100622-d04 | fichas/tc/2010-03.md |
-| acordao-crsfn | SP-2004-185 | 2010-06-22 | condenacao | crsfn-11328 | fichas/crsfn/2010-05.md |
-| decisao-colegiado | RJ2010/3346 | 2010-06-15 | nao-provido | cvm-col-20100615-d08 | fichas/colegiado/2010-14.md |
-| decisao-colegiado | SP2009/0194 | 2010-06-08 | nao-provido | cvm-col-20100608-d03 | fichas/colegiado/2010-14.md |
-| acordao-crsfn | SP-2004-0543 | 2010-06-08 | condenacao | crsfn-11255 | fichas/crsfn/2010-04.md |
-| decisao-colegiado | RJ2010/2753 | 2010-06-01 | nao-provido | cvm-col-20100601-d06 | fichas/colegiado/2010-13.md |
-| decisao-colegiado | SP2010/0065 | 2010-05-25 | nao-provido | cvm-col-20100525-d07 | fichas/colegiado/2010-13.md |
-| decisao-colegiado | SP2009/0196 | 2010-05-11 | nao-provido | cvm-col-20100511-d05 | fichas/colegiado/2010-12.md |
-| acordao-crsfn | SP–2001-0204 | 2010-04-29 | absolvicao | crsfn-11241 | fichas/crsfn/2010-03.md |
-| decisao-colegiado | SP2009/0195 | 2010-03-30 | nao-provido | cvm-col-20100330-d10 | fichas/colegiado/2010-10.md |
-| decisao-colegiado | RJ2009/9679 | 2010-02-09 | nao-provido | cvm-col-20100209-d14 | fichas/colegiado/2010-05.md |
-| decisao-colegiado | RJ2009/10132 | 2009-12-08 | nao-provido | cvm-col-20091208-d02 | fichas/colegiado/2009-22.md |
-| termo-compromisso | SP2008/0040 | 2009-11-24 | aceito | cvm-col-20091124-d09 | fichas/tc/2009-08.md |
-| decisao-colegiado | RJ2009/3776 | 2009-11-17 | nao-provido | cvm-col-20091117-d19 | fichas/colegiado/2009-20.md |
-| decisao-colegiado | SP2009/0001 | 2009-11-17 | nao-provido | cvm-col-20091117-d18 | fichas/colegiado/2009-20.md |
-| termo-compromisso | RJ2004/4457 | 2009-10-27 | aceito | cvm-col-20091027-d08 | fichas/tc/2009-07.md |
-| decisao-colegiado | SP2009/0010 | 2009-10-13 | nao-provido | cvm-col-20091013-d01 | fichas/colegiado/2009-17.md |
-| decisao-colegiado | RJ2009/5844 | 2009-10-06 | nao-provido | cvm-col-20091006-d05 | fichas/colegiado/2009-17.md |
-| decisao-colegiado | RJ2007/14710 | 2009-09-29 | nao-provido | cvm-col-20090929-d07 | fichas/colegiado/2009-17.md |
-| decisao-colegiado | SP2007/0183 | 2009-08-04 | indeferido | cvm-col-20090804-d05 | fichas/colegiado/2009-14.md |
-| decisao-colegiado | SP2009/0009 | 2009-06-30 | nao-provido | cvm-col-20090630-d02 | fichas/colegiado/2009-12.md |
-| termo-compromisso | RJ2008/12293 | 2009-06-23 | aceito | cvm-col-20090623-d10 | fichas/tc/2009-04.md |
-| acordao-crsfn | SP2003-288 | 2009-05-21 | parcial | crsfn-6352 | fichas/crsfn/2009-03.md |
-| pas | SP2007/0167 | 2009-04-07 | parcial | cvm-pas-sp2007-0167 | fichas/pas/2009-01.md |
-| decisao-colegiado | RJ2006/3312 | 2009-04-07 | nao-provido | cvm-col-20090407-d02 | fichas/colegiado/2009-06.md |
-| decisao-colegiado | SP2009/0009 | 2009-03-31 | nao-provido | cvm-col-20090331-d06 | fichas/colegiado/2009-05.md |
-| termo-compromisso | SP2006/0137 | 2009-03-31 | rejeitado | cvm-col-20090331-d02 | fichas/tc/2009-02.md |
-| decisao-colegiado | SP2008/0297 | 2009-03-17 | nao-provido | cvm-col-20090317-d04 | fichas/colegiado/2009-04.md |
-| decisao-colegiado | RJ2008/10799 | 2009-03-03 | nao-provido | cvm-col-20090303-d08 | fichas/colegiado/2009-03.md |
-| acordao-crsfn | SP2003/0446 | 2009-02-16 | condenacao | crsfn-6188 | fichas/crsfn/2009-01.md |
-| decisao-colegiado | SP2009/0012 | 2009-02-10 | deferido | cvm-col-20090210-d07 | fichas/colegiado/2009-02.md |
-| decisao-colegiado | SP2006/0101 | 2009-02-10 | nao-provido | cvm-col-20090210-d06 | fichas/colegiado/2009-02.md |
-| decisao-colegiado | SP2006/0104 | 2009-02-10 | nao-provido | cvm-col-20090210-d05 | fichas/colegiado/2009-02.md |
-| decisao-colegiado | RJ2008/9985 | 2009-02-03 | nao-provido | cvm-col-20090203-d09 | fichas/colegiado/2009-02.md |
-| decisao-colegiado | SP2006/0102 | 2009-02-03 | nao-provido | cvm-col-20090203-d08 | fichas/colegiado/2009-02.md |
-| decisao-colegiado | SP2006/0103 | 2009-02-03 | parcial | cvm-col-20090203-d07 | fichas/colegiado/2009-02.md |
-| decisao-colegiado | SP2006/0106 | 2009-02-03 | provido | cvm-col-20090203-d06 | fichas/colegiado/2009-02.md |
-| decisao-colegiado | SP2008/0154 | 2009-02-03 | parcial | cvm-col-20090203-d01 | fichas/colegiado/2009-01.md |
-| decisao-colegiado | RJ2008/11733 | 2008-12-16 | nao-provido | cvm-col-20081216-d13 | fichas/colegiado/2008-28.md |
-| decisao-colegiado | SP2006/0105 | 2008-12-02 | nao-provido | cvm-col-20081202-d06 | fichas/colegiado/2008-27.md |
-| termo-compromisso | SP2006/0137 | 2008-11-25 | rejeitado | cvm-col-20081125-d05 | fichas/tc/2008-07.md |
-| acordao-crsfn | SP-2002-493 | 2008-11-19 | parcial | crsfn-9540 | fichas/crsfn/2008-06.md |
-| decisao-colegiado | RJ2006/3312 | 2008-11-18 | nao-provido | cvm-col-20081118-d07 | fichas/colegiado/2008-25.md |
-| termo-compromisso | RJ2007/14710 | 2008-11-11 | outro | cvm-col-20081111-d03 | fichas/tc/2008-07.md |
-| decisao-colegiado | SP2008/0060 | 2008-10-21 | deferido | cvm-col-20081021-d09 | fichas/colegiado/2008-23.md |
-| acordao-crsfn | 06/95 | 2008-08-28 | parcial | crsfn-8544 | fichas/crsfn/2008-04.md |
-| decisao-colegiado | RJ2007/14868 | 2008-07-22 | nao-provido | cvm-col-20080722-d22 | fichas/colegiado/2008-16.md |
-| decisao-colegiado | SP2006/0211 | 2008-07-22 | nao-provido | cvm-col-20080722-d10 | fichas/colegiado/2008-16.md |
-| decisao-colegiado | SP2007/0199 | 2008-07-15 | nao-provido | cvm-col-20080715-d10 | fichas/colegiado/2008-15.md |
-| pas | 01/2006 | 2008-07-01 | condenacao | cvm-pas-01-2006 | fichas/pas/2008-02.md |
-| acordao-crsfn | SP-2004-113 | 2008-06-24 | arquivamento | crsfn-7529 | fichas/crsfn/2008-03.md |
-| termo-compromisso | RJ2007/14710 | 2008-05-27 | aceito | cvm-col-20080527-d02 | fichas/tc/2008-04.md |
-| pas | SP2006/0168 | 2008-05-14 | condenacao | cvm-pas-sp2006-0168 | fichas/pas/2008-02.md |
-| decisao-colegiado | SP2007/0201 | 2008-05-13 | nao-provido | cvm-col-20080513-d05 | fichas/colegiado/2008-11.md |
-| acordao-crsfn | 2004/123 | 2008-04-28 | absolvicao | crsfn-6186 | fichas/crsfn/2008-02.md |
-| acordao-crsfn | 02-7539 | 2008-04-28 | parcial | crsfn-5590 | fichas/crsfn/2008-02.md |
-| decisao-colegiado | RJ2006/8252 | 2008-04-15 | nao-provido | cvm-col-20080415-d04 | fichas/colegiado/2008-09.md |
-| acordao-crsfn | SP-2003-148 | 2008-04-11 | parcial | crsfn-5662 | fichas/crsfn/2008-02.md |
-| pas | RJ2007/0974 | 2008-01-16 | parcial | cvm-pas-rj2007-0974 | fichas/pas/2008-01.md |
-| decisao-colegiado | SP2007/0116 | 2007-12-18 | nao-provido | cvm-col-20071218-d13 | fichas/colegiado/2007-25.md |
-| decisao-colegiado | RJ2005/4555 | 2007-12-11 | outro | cvm-col-20071211-d03 | fichas/colegiado/2007-24.md |
-| decisao-colegiado | SP2006/0137 | 2007-12-04 | outro | cvm-col-20071204-d5492 | fichas/colegiado/2007-24.md |
-| termo-compromisso | SP2006/0168 | 2007-12-04 | rejeitado | cvm-col-20071204-d02 | fichas/tc/2007-06.md |
-| termo-compromisso | RJ2006/3616 | 2007-12-04 | aceito | cvm-col-20071204-d01 | fichas/tc/2007-06.md |
-| pas | RJ2006/5853 | 2007-10-23 | absolvicao | cvm-pas-rj2006-5853 | fichas/pas/2007-07.md |
-| acordao-crsfn | RJ-2004/3169 | 2007-09-27 | absolvicao | crsfn-7351 | fichas/crsfn/2007-02.md |
-| decisao-colegiado | RJ2005/2502 | 2007-09-18 | parcial | cvm-col-20070918-d09 | fichas/colegiado/2007-17.md |
-| pas | RJ2005/7521 | 2007-08-21 | absolvicao | cvm-pas-rj2005-7521 | fichas/pas/2007-05.md |
-| termo-compromisso | 01/2006 | 2007-08-21 | rejeitado | cvm-col-20070821-d04 | fichas/tc/2007-04.md |
-| decisao-colegiado | SP2006/0180 | 2007-08-14 | provido | cvm-col-20070814-d02 | fichas/colegiado/2007-14.md |
-| decisao-colegiado | RJ2007/7034 | 2007-08-07 | nao-provido | cvm-col-20070807-d07 | fichas/colegiado/2007-14.md |
-| decisao-colegiado | RJ2007/5903 | 2007-08-07 | nao-provido | cvm-col-20070807-d05 | fichas/colegiado/2007-14.md |
-| termo-compromisso | 10/2005 | 2007-08-07 | aceito | cvm-col-20070807-d01-r2 | fichas/tc/2007-04.md |
-| pas | SP2005/0338 | 2007-07-03 | absolvicao | cvm-pas-sp2005-0338 | fichas/pas/2007-04.md |
-| termo-compromisso | 06/2004 | 2007-07-03 | aceito | cvm-col-20070703-d06 | fichas/tc/2007-03.md |
-| termo-compromisso | SP2005/0338 | 2007-07-03 | aceito | cvm-col-20070703-d04 | fichas/tc/2007-03.md |
-| decisao-colegiado | RJ2006/5499 | 2007-06-12 | outro | cvm-col-20070612-d05 | fichas/colegiado/2007-09.md |
-| acordao-crsfn | RJ-2002-08509 | 2007-04-25 | condenacao | crsfn-6311 | fichas/crsfn/2007-01.md |
-| decisao-colegiado | RJ2005/8000 | 2007-02-05 | outro | cvm-col-20070205-d07 | fichas/colegiado/2007-02.md |
-| decisao-colegiado | RJ2006/9208 | 2007-01-09 | outro | cvm-col-20070109-d07 | fichas/colegiado/2007-01.md |
-| termo-compromisso | 06/2004 | 2007-01-03 | aceito | cvm-col-20070103-d01 | fichas/tc/2007-01.md |
-| decisao-colegiado | SP2006/0077 | 2006-12-19 | nao-provido | cvm-col-20061219-d14 | fichas/colegiado/2006-20.md |
-| decisao-colegiado | RJ2006/0495 | 2006-12-19 | nao-provido | cvm-col-20061219-d04 | fichas/colegiado/2006-20.md |
-| decisao-colegiado | RJ2006/7510 | 2006-12-05 | nao-provido | cvm-col-20061205-d18 | fichas/colegiado/2006-19.md |
-| termo-compromisso | 12/2004 | 2006-11-07 | rejeitado | cvm-col-20061107-d04 | fichas/tc/2006-06.md |
-| decisao-colegiado | SP2001/0204 | 2006-10-31 | nao-provido | cvm-col-20061031-d06 | fichas/colegiado/2006-16.md |
-| pas | 30/2000 | 2006-10-17 | parcial | cvm-pas-30-2000 | fichas/pas/2006-10.md |
-| decisao-colegiado | RJ2006/6823 | 2006-09-19 | outro | cvm-col-20060919-d05 | fichas/colegiado/2006-14.md |
-| decisao-colegiado | RJ2005/1382 | 2006-09-11 | outro | cvm-col-20060911-d02 | fichas/colegiado/2006-14.md |
-| termo-compromisso | RJ2005/9001 | 2006-08-29 | rejeitado | cvm-col-20060829-d04 | fichas/tc/2006-04.md |
-| pas | 03/1995 | 2006-08-22 | parcial | cvm-pas-03-1995 | fichas/pas/2006-07.md |
-| decisao-colegiado | RJ2005/1595 | 2006-08-22 | nao-provido | cvm-col-20060822-d06 | fichas/colegiado/2006-13.md |
-| termo-compromisso | 30/2000 | 2006-08-22 | rejeitado | cvm-col-20060822-d03 | fichas/tc/2006-04.md |
-| acordao-crsfn | SP2002/0098 | 2006-08-18 | absolvicao | crsfn-5596 | fichas/crsfn/2006-01.md |
-| decisao-colegiado | SP2005/0148 | 2006-08-15 | nao-provido | cvm-col-20060815-d09 | fichas/colegiado/2006-13.md |
-| decisao-colegiado | SP2006/0056 | 2006-08-15 | provido | cvm-col-20060815-d08 | fichas/colegiado/2006-13.md |
-| decisao-colegiado | SP2005/0209 | 2006-08-01 | nao-provido | cvm-col-20060801-d13 | fichas/colegiado/2006-12.md |
-| decisao-colegiado | SP2005/0368 | 2006-08-01 | provido | cvm-col-20060801-d06 | fichas/colegiado/2006-12.md |
-| decisao-colegiado | SP2006/0077 | 2006-08-01 | provido | cvm-col-20060801-d05 | fichas/colegiado/2006-12.md |
-| termo-compromisso | 12/2004 | 2006-08-01 | aceito | cvm-col-20060801-d02 | fichas/tc/2006-03.md |
-| decisao-colegiado | RJ2004/0469; RJ2003/12851 | 2006-07-18 | nao-provido | cvm-col-20060718-d01 | fichas/colegiado/2006-11.md |
-| decisao-colegiado | RJ2004/3034 | 2006-06-20 | outro | cvm-col-20060620-d07 | fichas/colegiado/2006-09.md |
-| decisao-colegiado | SP2005/0311 | 2006-06-20 | indeferido | cvm-col-20060620-d03 | fichas/colegiado/2006-09.md |
-| pas | SP2005/0371 | 2006-06-14 | parcial | cvm-pas-sp2005-0371 | fichas/pas/2006-06.md |
-| decisao-colegiado | RJ2005/2919 | 2006-06-13 | nao-provido | cvm-col-20060613-d06 | fichas/colegiado/2006-09.md |
-| pas | 22/1996 | 2006-05-03 | parcial | cvm-pas-22-1996 | fichas/pas/2006-03.md |
-| decisao-colegiado | SP2005/0238 | 2006-05-03 | nao-provido | cvm-col-20060503-d03 | fichas/colegiado/2006-07.md |
-| termo-compromisso | SP2005/0339 | 2006-04-04 | aceito | cvm-col-20060404-d06 | fichas/tc/2006-02.md |
-| decisao-colegiado | RJ2002/8494 | 2006-04-04 | nao-provido | cvm-col-20060404-d01 | fichas/colegiado/2006-05.md |
-| decisao-colegiado | RJ2005/9128 | 2006-03-07 | nao-provido | cvm-col-20060307-d07 | fichas/colegiado/2006-05.md |
-| decisao-colegiado | RJ2005/8832 | 2006-03-07 | outro | cvm-col-20060307-d05 | fichas/colegiado/2006-04.md |
-| decisao-colegiado | RJ2003/5746 | 2006-03-07 | nao-provido | cvm-col-20060307-d03 | fichas/colegiado/2006-04.md |
-| decisao-colegiado | SP2003/0298 | 2006-02-21 | parcial | cvm-col-20060221-d08 | fichas/colegiado/2006-04.md |
-| decisao-colegiado | RJ2005/8988 | 2006-02-15 | nao-provido | cvm-col-20060215-d13 | fichas/colegiado/2006-03.md |
-| decisao-colegiado | RJ2002/7824 | 2006-02-15 | nao-provido | cvm-col-20060215-d04 | fichas/colegiado/2006-03.md |
-| decisao-colegiado | RJ2005/9129 | 2006-01-31 | nao-provido | cvm-col-20060131-d05 | fichas/colegiado/2006-02.md |
-| decisao-colegiado | SP2006/0008 | 2006-01-24 | deferido | cvm-col-20060124-d11 | fichas/colegiado/2006-02.md |
-| decisao-colegiado | RJ2005/8901 | 2006-01-24 | nao-provido | cvm-col-20060124-d10 | fichas/colegiado/2006-02.md |
-| decisao-colegiado | RJ2005/9128 | 2006-01-03 | nao-provido | cvm-col-20060103-d08 | fichas/colegiado/2006-01.md |
-| decisao-colegiado | SP2005/0303 | 2006-01-03 | outro | cvm-col-20060103-d06 | fichas/colegiado/2006-01.md |
-| pas | SP2002/049 | 2005-11-30 | parcial | cvm-pas-sp2002-0049 | fichas/pas/2005-09.md |
-| pas | SP2001/0799 | 2005-11-30 | parcial | cvm-pas-sp2001-0799 | fichas/pas/2005-08.md |
-| decisao-colegiado | RJ2005/7049 | 2005-11-17 | provido | cvm-col-20051117-d03 | fichas/colegiado/2005-17.md |
-| decisao-colegiado | RJ2003/5746 | 2005-11-08 | nao-provido | cvm-col-20051108-d01 | fichas/colegiado/2005-16.md |
-| decisao-colegiado | RJ2005/5308 | 2005-10-18 | outro | cvm-col-20051018-d09 | fichas/colegiado/2005-15.md |
-| decisao-colegiado | SP2004/0067 | 2005-10-18 | nao-provido | cvm-col-20051018-d04 | fichas/colegiado/2005-15.md |
-| decisao-colegiado | RJ2001/8273 | 2005-10-04 | provido | cvm-col-20051004-d08 | fichas/colegiado/2005-14.md |
-| termo-compromisso | SP2002/0049 | 2005-10-04 | rejeitado | cvm-col-20051004-d01 | fichas/tc/2005-02.md |
-| termo-compromisso | RJ2004/5891 | 2005-09-20 | aceito | cvm-col-20050920-d02 | fichas/tc/2005-02.md |
-| decisao-colegiado | SP2004/0210 | 2005-08-23 | parcial | cvm-col-20050823-d01 | fichas/colegiado/2005-12.md |
-| decisao-colegiado | SP2004/0360 | 2005-08-16 | nao-provido | cvm-col-20050816-d02 | fichas/colegiado/2005-12.md |
-| decisao-colegiado | RJ2004/5689; RJ2004/1286 | 2005-07-26 | provido | cvm-col-20050726-d01 | fichas/colegiado/2005-11.md |
-| decisao-colegiado | 387/2003; SP2005/0258 | 2005-07-21 | deferido | cvm-col-20050721-d02 | fichas/colegiado/2005-10.md |
-| decisao-colegiado | RJ2003/5746 | 2005-07-05 | nao-provido | cvm-col-20050705-d03 | fichas/colegiado/2005-10.md |
-| acordao-crsfn | 11/98 | 2005-06-28 | condenacao | crsfn-4995 | fichas/crsfn/2005-01.md |
-| decisao-colegiado | SP2004/0360 | 2005-06-14 | nao-provido | cvm-col-20050614-d03 | fichas/colegiado/2005-09.md |
-| termo-compromisso | 20/03 | 2005-06-14 | aceito | cvm-col-20050614-d01 | fichas/tc/2005-02.md |
-| decisao-colegiado | SP2004/0361 | 2005-05-24 | nao-provido | cvm-col-20050524-d03 | fichas/colegiado/2005-08.md |
-| decisao-colegiado | RJ2003/5746 | 2005-05-10 | nao-provido | cvm-col-20050510-d04 | fichas/colegiado/2005-08.md |
-| pas | 06/1995 | 2005-05-05 | parcial | cvm-pas-06-1995 | fichas/pas/2005-04.md |
-| acordao-crsfn | SP-2002-197 | 2005-04-28 | absolvicao | crsfn-6075 | fichas/crsfn/2005-01.md |
-| decisao-colegiado | RJ2004/6577 | 2005-04-19 | nao-provido | cvm-col-20050419-d05 | fichas/colegiado/2005-07.md |
-| decisao-colegiado | SP2003/0099 | 2005-04-12 | nao-provido | cvm-col-20050412-d05 | fichas/colegiado/2005-06.md |
-| decisao-colegiado | RJ2004/4717 | 2005-04-12 | nao-provido | cvm-col-20050412-d04 | fichas/colegiado/2005-06.md |
-| decisao-colegiado | RJ1990/0386 | 2005-04-12 | nao-provido | cvm-col-20050412-d01 | fichas/colegiado/2005-06.md |
-| decisao-colegiado | SP2002/0562 | 2005-04-08 | nao-provido | cvm-col-20050408-d05 | fichas/colegiado/2005-06.md |
-| decisao-colegiado | RJ2002/3227 | 2005-04-08 | nao-provido | cvm-col-20050408-d02 | fichas/colegiado/2005-06.md |
-| pas | 01/2002 | 2005-03-31 | parcial | cvm-pas-01-2002 | fichas/pas/2005-03.md |
-| decisao-colegiado | SP2002/0494 | 2005-03-29 | nao-provido | cvm-col-20050329-d07 | fichas/colegiado/2005-06.md |
-| pas | RJ2001/8363 | 2005-03-28 | parcial | cvm-pas-rj2001-8363 | fichas/pas/2005-02.md |
-| decisao-colegiado | SP2003/0380 | 2005-03-22 | nao-provido | cvm-col-20050322-d06 | fichas/colegiado/2005-05.md |
-| decisao-colegiado | SP2003/0463 | 2005-03-22 | nao-provido | cvm-col-20050322-d05 | fichas/colegiado/2005-05.md |
-| pas | SP2003/0445 | 2005-03-21 | parcial | cvm-pas-sp2003-0445 | fichas/pas/2005-02.md |
-| decisao-colegiado | SP2003/0465 | 2005-03-01 | nao-provido | cvm-col-20050301-d12 | fichas/colegiado/2005-04.md |
-| decisao-colegiado | SP2003/0494 | 2005-02-22 | nao-provido | cvm-col-20050222-d03 | fichas/colegiado/2005-03.md |
-| decisao-colegiado | SP2004/0228 | 2005-02-10 | parcial | cvm-col-20050210-d03 | fichas/colegiado/2005-03.md |
-| decisao-colegiado | SP2004/0209 | 2005-01-31 | nao-provido | cvm-col-20050131-d11 | fichas/colegiado/2005-03.md |
-| decisao-colegiado | SP2002/0494 | 2005-01-31 | provido | cvm-col-20050131-d10 | fichas/colegiado/2005-03.md |
-| decisao-colegiado | SP2003/0380 | 2005-01-31 | provido | cvm-col-20050131-d07 | fichas/colegiado/2005-03.md |
-| decisao-colegiado | SP2003/0099 | 2005-01-31 | provido | cvm-col-20050131-d06 | fichas/colegiado/2005-03.md |
-| decisao-colegiado | SP2004/0012 | 2005-01-31 | nao-provido | cvm-col-20050131-d05 | fichas/colegiado/2005-03.md |
-| decisao-colegiado | RJ90/0387 | 2005-01-31 | nao-provido | cvm-col-20050131-d01 | fichas/colegiado/2005-03.md |
-| decisao-colegiado | SP2003/0463 | 2005-01-25 | parcial | cvm-col-20050125-d04 | fichas/colegiado/2005-02.md |
-| pas | RJ2004/3169 | 2005-01-19 | absolvicao | cvm-pas-rj2004-3169 | fichas/pas/2005-01.md |
-| decisao-colegiado | RJ2004/5689; RJ2004/1286 | 2005-01-11 | nao-provido | cvm-col-20050111-d06 | fichas/colegiado/2005-01.md |
-| decisao-colegiado | RJ90/0386 | 2005-01-11 | nao-provido | cvm-col-20050111-d01 | fichas/colegiado/2005-01.md |
-| decisao-colegiado | SP2004/0009 | 2004-12-23 | nao-provido | cvm-col-20041223-d24 | fichas/colegiado/2004-17.md |
-| decisao-colegiado | SP2002/0559 | 2004-12-23 | nao-provido | cvm-col-20041223-d23 | fichas/colegiado/2004-17.md |
-| decisao-colegiado | RJ2002/8002 | 2004-12-23 | nao-provido | cvm-col-20041223-d22 | fichas/colegiado/2004-17.md |
-| decisao-colegiado | SP2004/0011 | 2004-12-14 | nao-provido | cvm-col-20041214-d11 | fichas/colegiado/2004-16.md |
-| decisao-colegiado | SP2004/0010 | 2004-12-14 | nao-provido | cvm-col-20041214-d10 | fichas/colegiado/2004-16.md |
-| pas | RJ2003/13210 | 2004-11-26 | condenacao | cvm-pas-rj2003-13210 | fichas/pas/2004-07.md |
-| decisao-colegiado | SP2004/0229 | 2004-11-16 | nao-provido | cvm-col-20041116-d04 | fichas/colegiado/2004-14.md |
-| termo-compromisso | RJ2003/0823 | 2004-11-16 | rejeitado | cvm-col-20041116-d01 | fichas/tc/2004-02.md |
-| decisao-colegiado | SP2004/0359 | 2004-11-09 | nao-provido | cvm-col-20041109-d05 | fichas/colegiado/2004-13.md |
-| decisao-colegiado | SP2004/0209 | 2004-11-03 | provido | cvm-col-20041103-d08 | fichas/colegiado/2004-13.md |
-| decisao-colegiado | RJ2003/1110 | 2004-11-03 | provido | cvm-col-20041103-d07 | fichas/colegiado/2004-13.md |
-| decisao-colegiado | SP2004/0228 | 2004-11-03 | provido | cvm-col-20041103-d03 | fichas/colegiado/2004-13.md |
-| decisao-colegiado | RJ2002/8509 | 2004-11-03 | nao-provido | cvm-col-20041103-d02 | fichas/colegiado/2004-13.md |
-| pas | SP2004/0123 | 2004-10-18 | absolvicao | cvm-pas-sp2004-0123 | fichas/pas/2004-07.md |
-| decisao-colegiado | SP2004/0038 | 2004-09-28 | nao-provido | cvm-col-20040928-d02 | fichas/colegiado/2004-12.md |
-| pas | SP2003/0446 | 2004-09-16 | condenacao | cvm-pas-sp2003-0446 | fichas/pas/2004-06.md |
-| pas | SP2003/100 | 2004-09-09 | condenacao | cvm-pas-sp2003-0100 | fichas/pas/2004-05.md |
-| decisao-colegiado | RJ2002/1965 | 2004-08-24 | nao-provido | cvm-col-20040824-d07 | fichas/colegiado/2004-10.md |
-| decisao-colegiado | SP2003/0383 | 2004-08-24 | nao-provido | cvm-col-20040824-d04 | fichas/colegiado/2004-10.md |
-| pas | SP2001/0034 | 2004-08-12 | parcial | cvm-pas-sp2001-0034 | fichas/pas/2004-05.md |
-| termo-compromisso | RJ2003/7697 | 2004-08-05 | rejeitado | cvm-col-20040805-d04 | fichas/tc/2004-01.md |
-| decisao-colegiado | RJ2002/0989 | 2004-07-27 | nao-provido | cvm-col-20040727-d03 | fichas/colegiado/2004-09.md |
-| acordao-crsfn | 06/99 | 2004-07-14 | condenacao | crsfn-4142 | fichas/crsfn/2004-02.md |
-| decisao-colegiado | SP2001/0172 | 2004-07-13 | nao-provido | cvm-col-20040713-d01 | fichas/colegiado/2004-08.md |
-| decisao-colegiado | SP2001/0813 | 2004-07-06 | nao-provido | cvm-col-20040706-d08 | fichas/colegiado/2004-08.md |
-| decisao-colegiado | SP2003/0383 | 2004-07-06 | nao-provido | cvm-col-20040706-d05 | fichas/colegiado/2004-08.md |
-| decisao-colegiado | SP2002/0344 | 2004-07-06 | nao-provido | cvm-col-20040706-d03 | fichas/colegiado/2004-08.md |
-| pas | SP2002/0462 | 2004-06-24 | absolvicao | cvm-pas-sp2002-0462 | fichas/pas/2004-03.md |
-| decisao-colegiado | RJ2002/3227 | 2004-06-24 | nao-provido | cvm-col-20040624-d09 | fichas/colegiado/2004-07.md |
-| acordao-crsfn | SP2002/0048 | 2004-05-26 | condenacao | crsfn-4854 | fichas/crsfn/2004-01.md |
-| acordao-crsfn | 01/99 | 2004-05-26 | parcial | crsfn-4130 | fichas/crsfn/2004-01.md |
-| pas | 12/1998 | 2004-05-20 | condenacao | cvm-pas-12-1998 | fichas/pas/2004-02.md |
-| decisao-colegiado | SP99/0255 | 2004-04-27 | nao-provido | cvm-col-20040427-d04 | fichas/colegiado/2004-05.md |
-| decisao-colegiado | SP2002/0429 | 2004-03-16 | outro | cvm-col-20040316-d03 | fichas/colegiado/2004-04.md |
-| decisao-colegiado | RJ2004/1156 | 2004-03-09 | deferido | cvm-col-20040309-d11 | fichas/colegiado/2004-03.md |
-| decisao-colegiado | RJ2004/1110 | 2004-02-17 | deferido | cvm-col-20040217-d03 | fichas/colegiado/2004-02.md |
-| acordao-crsfn | SP2001/0724 | 2004-01-21 | arquivamento | crsfn-4787 | fichas/crsfn/2004-01.md |
-| pas | RJ2002/6765 | 2003-12-11 | condenacao | cvm-pas-rj2002-6765 | fichas/pas/2003-05.md |
-| decisao-colegiado | RJ2001/8981 | 2003-11-18 | provido | cvm-col-20031118-d08 | fichas/colegiado/2003-13.md |
-| decisao-colegiado | SP99/0360 | 2003-11-11 | outro | cvm-col-20031111-d03 | fichas/colegiado/2003-13.md |
-| decisao-colegiado | SP2003/0167 | 2003-11-11 | outro | cvm-col-20031111-d02 | fichas/colegiado/2003-13.md |
-| decisao-colegiado | SP99/0360 | 2003-10-28 | — | cvm-col-20031028-d07 | fichas/colegiado/2003-12.md |
-| termo-compromisso | RJ2002/5015 | 2003-10-28 | rejeitado | cvm-col-20031028-d06 | fichas/tc/2003.md |
-| decisao-colegiado | — | 2003-10-14 | outro | cvm-col-20031014-d02 | fichas/colegiado/2003-12.md |
-| decisao-colegiado | — | 2003-10-07 | outro | cvm-col-20031007-d05 | fichas/colegiado/2003-12.md |
-| decisao-colegiado | SP2003/0151 | 2003-10-07 | nao-provido | cvm-col-20031007-d04 | fichas/colegiado/2003-12.md |
-| decisao-colegiado | — | 2003-10-07 | deferido | cvm-col-20031007-d03 | fichas/colegiado/2003-12.md |
-| acordao-crsfn | 29/98 | 2003-09-24 | parcial | crsfn-4015 | fichas/crsfn/2003-02.md |
-| acordao-crsfn | 03/00 | 2003-09-24 | parcial | crsfn-3877 | fichas/crsfn/2003-02.md |
-| decisao-colegiado | SP2002/0106 | 2003-08-28 | nao-provido | cvm-col-20030828-d10 | fichas/colegiado/2003-11.md |
-| termo-compromisso | RJ2001/1789 | 2003-08-05 | aceito | cvm-col-20030805-d05 | fichas/tc/2003.md |
-| decisao-colegiado | RJ2002/7533 | 2003-07-22 | nao-provido | cvm-col-20030722-d09 | fichas/colegiado/2003-09.md |
-| decisao-colegiado | RJ2003/1110 | 2003-06-17 | nao-provido | cvm-col-20030617-d11 | fichas/colegiado/2003-08.md |
-| decisao-colegiado | RJ2001/11285 | 2003-05-13 | provido | cvm-col-20030513-d02 | fichas/colegiado/2003-05.md |
-| decisao-colegiado | RJ2001/8080 | 2003-05-05 | nao-provido | cvm-col-20030505-d01 | fichas/colegiado/2003-05.md |
-| acordao-crsfn | SP99/0411 | 2003-04-29 | condenacao | crsfn-4044 | fichas/crsfn/2003-02.md |
-| decisao-colegiado | 035/2003 | 2003-04-08 | deferido | cvm-col-20030408-d04 | fichas/colegiado/2003-04.md |
-| pas | 11/1998 | 2003-04-02 | condenacao | cvm-pas-11-1998 | fichas/pas/2003-01.md |
-| termo-compromisso | RJ2001/12098 | 2003-03-17 | rejeitado | cvm-col-20030317-d04 | fichas/tc/2003.md |
-| pas | SP2002/0048 | 2003-03-13 | parcial | cvm-pas-sp2002-0048 | fichas/pas/2003-01.md |
-| decisao-colegiado | SP99/0255 | 2003-03-12 | outro | cvm-col-20030312-d08 | fichas/colegiado/2003-03.md |
-| decisao-colegiado | RJ2002/0310 | 2003-03-12 | provido | cvm-col-20030312-d01 | fichas/colegiado/2003-03.md |
-| decisao-colegiado | RJ2001/9272 | 2003-01-21 | nao-provido | cvm-col-20030121-d05 | fichas/colegiado/2003-01.md |
-| decisao-colegiado | RJ2003/0136 | 2003-01-21 | deferido | cvm-col-20030121-d04 | fichas/colegiado/2003-01.md |
-| decisao-colegiado | RJ2000/6120 | 2003-01-14 | nao-provido | cvm-col-20030114-d08 | fichas/colegiado/2003-01.md |
-| decisao-colegiado | RJ2001/8981 | 2003-01-08 | nao-provido | cvm-col-20030108-d04 | fichas/colegiado/2003-01.md |
-| decisao-colegiado | RJ2001/11506 | 2002-12-23 | provido | cvm-col-20021223-d06 | fichas/colegiado/2002-26.md |
-| pas | SP2001/0724 | 2002-12-20 | parcial | cvm-pas-sp2001-0724-2 | fichas/pas/2002-04.md |
-| decisao-colegiado | RJ2002/0486 | 2002-12-10 | nao-provido | cvm-col-20021210-d06 | fichas/colegiado/2002-26.md |
-| decisao-colegiado | SP2001/0212 | 2002-12-10 | parcial | cvm-col-20021210-d02 | fichas/colegiado/2002-26.md |
-| decisao-colegiado | — | 2002-11-12 | nao-provido | cvm-col-20021112-d06 | fichas/colegiado/2002-25.md |
-| decisao-colegiado | — | 2002-11-05 | deferido | cvm-col-20021105-d04 | fichas/colegiado/2002-25.md |
-| decisao-colegiado | SP2002/0403 | 2002-10-29 | provido | cvm-col-20021029-d10 | fichas/colegiado/2002-25.md |
-| decisao-colegiado | RJ2002/0310 | 2002-10-15 | — | cvm-col-20021015-d01 | fichas/colegiado/2002-23.md |
-| pas | SP2001/0724 | 2002-10-10 | outro | cvm-pas-sp2001-0724 | fichas/pas/2002-03.md |
-| pas | 12/1996 | 2002-10-10 | — | cvm-pas-12-1996 | fichas/pas/2002-03.md |
-| decisao-colegiado | SP2001/0204 | 2002-10-10 | outro | cvm-col-20021010-d03 | fichas/colegiado/2002-23.md |
-| decisao-colegiado | SP2002/0104 | 2002-10-01 | outro | cvm-col-20021001-d06 | fichas/colegiado/2002-23.md |
-| decisao-colegiado | SP2002/0300 | 2002-10-01 | parcial | cvm-col-20021001-d04 | fichas/colegiado/2002-23.md |
-| acordao-crsfn | 24/98 | 2002-09-26 | condenacao | crsfn-3875 | fichas/crsfn/2002-03.md |
-| decisao-colegiado | RJ99/0893 | 2002-09-24 | outro | cvm-col-20020924-d01 | fichas/colegiado/2002-22.md |
-| decisao-colegiado | SP2002/0418 | 2002-09-20 | outro | cvm-col-20020920-d06 | fichas/colegiado/2002-22.md |
-| decisao-colegiado | RJ2001/8273 | 2002-09-10 | nao-provido | cvm-col-20020910-d03 | fichas/colegiado/2002-21.md |
-| decisao-colegiado | RJ2002/3495 | 2002-08-30 | outro | cvm-col-20020830-d08 | fichas/colegiado/2002-21.md |
-| decisao-colegiado | RJ2001/11505 | 2002-08-30 | nao-provido | cvm-col-20020830-d07 | fichas/colegiado/2002-21.md |
-| decisao-colegiado | — | 2002-08-30 | deferido | cvm-col-20020830-d03 | fichas/colegiado/2002-21.md |
-| decisao-colegiado | SP95/0053 | 2002-08-30 | provido | cvm-col-20020830-d01 | fichas/colegiado/2002-20.md |
-| decisao-colegiado | RJ2001/5996 | 2002-08-20 | outro | cvm-col-20020820-d05 | fichas/colegiado/2002-20.md |
-| decisao-colegiado | RJ2002/0925 | 2002-08-20 | — | cvm-col-20020820-d02 | fichas/colegiado/2002-20.md |
-| decisao-colegiado | RJ2002/0921 | 2002-08-20 | — | cvm-col-20020820-d01 | fichas/colegiado/2002-20.md |
-| acordao-crsfn | 33/99 | 2002-08-01 | parcial | crsfn-4049 | fichas/crsfn/2002-02.md |
-| decisao-colegiado | SP2000/0345 | 2002-07-29 | nao-provido | cvm-col-20020729-d05 | fichas/colegiado/2002-19.md |
-| decisao-colegiado | SP2001/0177 | 2002-07-23 | nao-provido | cvm-col-20020723-d05 | fichas/colegiado/2002-18.md |
-| decisao-colegiado | RJ99/0893 | 2002-07-16 | outro | cvm-col-20020716-d01 | fichas/colegiado/2002-17.md |
-| decisao-colegiado | SP2002/0021 | 2002-07-09 | nao-provido | cvm-col-20020709-d06 | fichas/colegiado/2002-17.md |
-| decisao-colegiado | SP2001/0754 | 2002-07-09 | provido | cvm-col-20020709-d05 | fichas/colegiado/2002-17.md |
-| decisao-colegiado | SP2002/0109 | 2002-07-09 | provido | cvm-col-20020709-d03 | fichas/colegiado/2002-16.md |
-| decisao-colegiado | SP2002/0019 | 2002-07-09 | outro | cvm-col-20020709-d02 | fichas/colegiado/2002-16.md |
-| acordao-crsfn | RJ98/4757 | 2002-06-27 | condenacao | crsfn-3937 | fichas/crsfn/2002-02.md |
-| decisao-colegiado | SP2001/0279 | 2002-06-25 | nao-provido | cvm-col-20020625-d05 | fichas/colegiado/2002-15.md |
-| decisao-colegiado | SP2001/0803 | 2002-06-25 | nao-provido | cvm-col-20020625-d04 | fichas/colegiado/2002-15.md |
-| decisao-colegiado | SP2001/0291 | 2002-06-25 | nao-provido | cvm-col-20020625-d01 | fichas/colegiado/2002-14.md |
-| decisao-colegiado | SP2002/0011 | 2002-06-18 | provido | cvm-col-20020618-d08 | fichas/colegiado/2002-14.md |
-| decisao-colegiado | SP2002/0074 | 2002-06-18 | nao-provido | cvm-col-20020618-d05 | fichas/colegiado/2002-14.md |
-| decisao-colegiado | SP2001/0296 | 2002-06-18 | provido | cvm-col-20020618-d04 | fichas/colegiado/2002-14.md |
-| decisao-colegiado | SP2001/0787 | 2002-06-18 | nao-provido | cvm-col-20020618-d03 | fichas/colegiado/2002-14.md |
-| decisao-colegiado | SP2001/0295 | 2002-06-18 | nao-provido | cvm-col-20020618-d02 | fichas/colegiado/2002-14.md |
-| decisao-colegiado | SP2001/0282 | 2002-06-18 | parcial | cvm-col-20020618-d01 | fichas/colegiado/2002-13.md |
-| decisao-colegiado | — | 2002-06-11 | deferido | cvm-col-20020611-d13 | fichas/colegiado/2002-13.md |
-| decisao-colegiado | RJ2001/11675 | 2002-06-11 | provido | cvm-col-20020611-d10 | fichas/colegiado/2002-13.md |
-| decisao-colegiado | SP2001/0300 | 2002-06-11 | nao-provido | cvm-col-20020611-d09 | fichas/colegiado/2002-13.md |
-| decisao-colegiado | SP2001/0299 | 2002-06-11 | provido | cvm-col-20020611-d08 | fichas/colegiado/2002-13.md |
-| decisao-colegiado | SP2001/0276 | 2002-06-11 | nao-provido | cvm-col-20020611-d06 | fichas/colegiado/2002-13.md |
-| decisao-colegiado | RJ98/1971 | 2002-06-11 | outro | cvm-col-20020611-d04 | fichas/colegiado/2002-13.md |
-| decisao-colegiado | SP2002/0103 | 2002-05-29 | provido | cvm-col-20020529-d03 | fichas/colegiado/2002-12.md |
-| decisao-colegiado | RJ2001/4771 | 2002-05-29 | nao-provido | cvm-col-20020529-d02 | fichas/colegiado/2002-12.md |
-| decisao-colegiado | — | 2002-05-29 | nao-provido | cvm-col-20020529-d01 | fichas/colegiado/2002-12.md |
-| decisao-colegiado | SP2002/0016 | 2002-05-21 | nao-provido | cvm-col-20020521-d03 | fichas/colegiado/2002-12.md |
-| decisao-colegiado | SP2001/0237; SP2001/0269; SP2001/0271; SP2001/0272; SP2001/0438 | 2002-05-14 | outro | cvm-col-20020514-d09 | fichas/colegiado/2002-11.md |
-| decisao-colegiado | SP2002/0073 | 2002-05-14 | provido | cvm-col-20020514-d08 | fichas/colegiado/2002-11.md |
-| decisao-colegiado | SP99/0058 | 2002-05-14 | nao-provido | cvm-col-20020514-d07 | fichas/colegiado/2002-11.md |
-| decisao-colegiado | RJ1999/0113 | 2002-05-14 | outro | cvm-col-20020514-d06 | fichas/colegiado/2002-11.md |
-| decisao-colegiado | SP2000/0408 | 2002-05-07 | nao-provido | cvm-col-20020507-d05 | fichas/colegiado/2002-10.md |
-| decisao-colegiado | SP2001/61 | 2002-04-30 | outro | cvm-col-20020430-d03 | fichas/colegiado/2002-10.md |
-| decisao-colegiado | SP2000/0314 | 2002-04-26 | outro | cvm-col-20020426-d09 | fichas/colegiado/2002-09.md |
-| decisao-colegiado | SP2001/0439 | 2002-04-26 | nao-provido | cvm-col-20020426-d08 | fichas/colegiado/2002-09.md |
-| decisao-colegiado | RJ2000/5852 | 2002-04-16 | outro | cvm-col-20020416-d06 | fichas/colegiado/2002-08.md |
-| decisao-colegiado | RJ2002/1342 | 2002-04-16 | nao-provido | cvm-col-20020416-d05 | fichas/colegiado/2002-08.md |
-| decisao-colegiado | SP2001/0281 | 2002-04-16 | nao-provido | cvm-col-20020416-d03 | fichas/colegiado/2002-08.md |
-| decisao-colegiado | SP2001/0275 | 2002-04-16 | nao-provido | cvm-col-20020416-d02 | fichas/colegiado/2002-08.md |
-| decisao-colegiado | RJ2001/0811 | 2002-04-10 | outro | cvm-col-20020410-d10 | fichas/colegiado/2002-08.md |
-| decisao-colegiado | RJ2001/12016 | 2002-04-10 | nao-provido | cvm-col-20020410-d09 | fichas/colegiado/2002-08.md |
-| decisao-colegiado | SP2001/0278 | 2002-04-10 | nao-provido | cvm-col-20020410-d08 | fichas/colegiado/2002-07.md |
-| decisao-colegiado | SP2001/0274 | 2002-04-10 | nao-provido | cvm-col-20020410-d07 | fichas/colegiado/2002-07.md |
-| decisao-colegiado | SP2001/0086 | 2002-04-10 | nao-provido | cvm-col-20020410-d06 | fichas/colegiado/2002-07.md |
-| decisao-colegiado | RJ2001/11285 | 2002-04-10 | nao-provido | cvm-col-20020410-d01 | fichas/colegiado/2002-07.md |
-| decisao-colegiado | RJ2001/11996 | 2002-03-28 | provido | cvm-col-20020328-d03 | fichas/colegiado/2002-06.md |
-| decisao-colegiado | RJ2001/12804 | 2002-03-19 | provido | cvm-col-20020319-d12 | fichas/colegiado/2002-05.md |
-| decisao-colegiado | RJ2001/8341 | 2002-03-19 | provido | cvm-col-20020319-d11 | fichas/colegiado/2002-05.md |
-| decisao-colegiado | RJ2001/12014 | 2002-03-19 | nao-provido | cvm-col-20020319-d10 | fichas/colegiado/2002-05.md |
-| decisao-colegiado | RJ2001/11397 | 2002-03-19 | provido | cvm-col-20020319-d09 | fichas/colegiado/2002-05.md |
-| decisao-colegiado | RJ2001/12086 | 2002-03-19 | provido | cvm-col-20020319-d07 | fichas/colegiado/2002-05.md |
-| decisao-colegiado | RJ2001/11513 | 2002-03-19 | provido | cvm-col-20020319-d06 | fichas/colegiado/2002-05.md |
-| decisao-colegiado | SP2001/0280 | 2002-03-19 | nao-provido | cvm-col-20020319-d03 | fichas/colegiado/2002-05.md |
-| decisao-colegiado | SP2001/0055 | 2002-03-12 | nao-provido | cvm-col-20020312-d05 | fichas/colegiado/2002-04.md |
-| decisao-colegiado | RJ99/5746 | 2002-03-12 | nao-provido | cvm-col-20020312-d03 | fichas/colegiado/2002-04.md |
-| decisao-colegiado | RJ2001/11993 | 2002-02-27 | provido | cvm-col-20020227-d02 | fichas/colegiado/2002-03.md |
-| acordao-crsfn | 98/0432 | 2002-02-27 | condenacao | crsfn-3383 | fichas/crsfn/2002-01.md |
-| decisao-colegiado | RJ1998/5050 | 2002-01-22 | outro | cvm-col-20020122-d03 | fichas/colegiado/2002-01.md |
-| decisao-colegiado | RJ2001/11675 | 2002-01-08 | provido | cvm-col-20020108-d02 | fichas/colegiado/2002-01.md |
-| decisao-colegiado | SP2001/0148 | 2002-01-08 | outro | cvm-col-20020108-d01 | fichas/colegiado/2002-01.md |
-| acordao-crsfn | 013/98 | 2001-08-29 | condenacao | crsfn-3416 | fichas/crsfn/2001-02.md |
-| pas | 03/2000 | 2001-06-07 | parcial | cvm-pas-03-2000 | fichas/pas/2001-01.md |
-| acordao-crsfn | 1/98 | 2001-06-01 | parcial | crsfn-3419 | fichas/crsfn/2001-02.md |
-| acordao-crsfn | SP99/502 | 2001-06-01 | absolvicao | crsfn-3329 | fichas/crsfn/2001-02.md |
-| acordao-crsfn | 06/97 | 2001-04-27 | parcial | crsfn-3000 | fichas/crsfn/2001-01.md |
-| acordao-crsfn | RJ98/1555 | 2000-10-26 | condenacao | crsfn-2934 | fichas/crsfn/2000-05.md |
-| acordao-crsfn | 08/97 | 2000-07-28 | condenacao | crsfn-2919 | fichas/crsfn/2000-04.md |
-| acordao-crsfn | 99/1052 | 2000-05-30 | outro | crsfn-3014 | fichas/crsfn/2000-02.md |
-| acordao-crsfn | 06/98 | 2000-04-27 | absolvicao | crsfn-2960 | fichas/crsfn/2000-02.md |
-| acordao-crsfn | 98/0151 | 2000-04-27 | parcial | crsfn-2939 | fichas/crsfn/2000-01.md |
-| acordao-crsfn | 19/96 | 2000-02-25 | arquivamento | crsfn-2680 | fichas/crsfn/2000-01.md |
-| pas | 09/1999 | 2000-01-25 | condenacao | cvm-pas-09-1999 | fichas/pas/2000-01.md |
-| acordao-crsfn | 23/96 | 1999-12-15 | absolvicao | crsfn-2887 | fichas/crsfn/1999-04.md |
-| acordao-crsfn | 14/98 | 1999-11-25 | parcial | crsfn-2961 | fichas/crsfn/1999-04.md |
-| acordao-crsfn | 96/0504 | 1999-08-31 | absolvicao | crsfn-2735 | fichas/crsfn/1999-02.md |
-| acordao-crsfn | 0527 | 1999-06-22 | absolvicao | crsfn-2587 | fichas/crsfn/1999-01.md |
-| termo-compromisso | SP96/0072 | 1998-12-11 | aceito | cvm-tc-sp1996-0072-19981211 | fichas/tc/1998.md |
-| termo-compromisso | SP97/00250 | 1998-12-03 | aceito | cvm-tc-sp1997-0250-19981203 | fichas/tc/1998.md |
-| acordao-crsfn | 91/1263-4 | 1998-09-22 | absolvicao | crsfn-2556 | fichas/crsfn/1998-03.md |
-| acordao-crsfn | 09/95 | 1998-08-26 | condenacao | crsfn-2492 | fichas/crsfn/1998-02.md |
-| acordao-crsfn | 07/95 | 1998-07-30 | parcial | crsfn-2491 | fichas/crsfn/1998-02.md |
-| acordao-crsfn | 91/1847-0 | 1998-03-25 | absolvicao | crsfn-1969 | fichas/crsfn/1998-01.md |
-| acordao-crsfn | 91/1566-8 | 1998-02-17 | arquivamento | crsfn-2317 | fichas/crsfn/1998-01.md |
-| acordao-crsfn | 91/0238-8 | 1998-02-17 | absolvicao | crsfn-2286 | fichas/crsfn/1998-01.md |
-| acordao-crsfn | 91/1484-0 | 1998-01-28 | condenacao | crsfn-2310 | fichas/crsfn/1998-01.md |
-| acordao-crsfn | 91/1640-0 | 1997-12-10 | condenacao | crsfn-2325 | fichas/crsfn/1997-02.md |
-| acordao-crsfn | 03/92 | 1997-11-26 | parcial | crsfn-2251 | fichas/crsfn/1997-01.md |
-| acordao-crsfn | 10/94 | 1997-11-26 | condenacao | crsfn-2201 | fichas/crsfn/1997-01.md |
-| acordao-crsfn | 92/1330-9 | 1997-10-30 | absolvicao | crsfn-2284 | fichas/crsfn/1997-01.md |
-| acordao-crsfn | 11/90 | 1997-08-26 | parcial | crsfn-1954 | fichas/crsfn/1997-01.md |
-| acordao-crsfn | 10/93 | 1996-10-10 | absolvicao | crsfn-1617 | fichas/crsfn/1996-02.md |
-| acordao-crsfn | 03/93 | 1996-08-08 | absolvicao | crsfn-1842 | fichas/crsfn/1996-02.md |
-| acordao-crsfn | 18/90 | 1996-06-19 | parcial | crsfn-1741 | fichas/crsfn/1996-02.md |
-| acordao-crsfn | 16/92 | 1996-04-16 | condenacao | crsfn-1619 | fichas/crsfn/1996-01.md |
-| acordao-crsfn | 18/93 | 1996-03-13 | parcial | crsfn-1551 | fichas/crsfn/1996-01.md |
-| acordao-crsfn | 13/92; | 1996-03-13 | condenacao | crsfn-1550 | fichas/crsfn/1996-01.md |
-| acordao-crsfn | 91/1181-6 | 1996-02-15 | absolvicao | crsfn-1581 | fichas/crsfn/1996-01.md |
+| Tipo | Processo | Data | Resultado | Ementa | Id | Ficha |
+|---|---|---|---|---|---|---|
+| pas | 19957.011331/2025-61 | 2026-07-28 | condenacao | Apurar a responsabilidade de assessor de investimento em razão da utilização de senhas e logins de clientes para a realização de operações… | cvm-pas-19957-011331-2025-61 | fichas/pas/2026-03.md |
+| termo-compromisso | 19957.001449/2022-38 | 2026-07-21 | aceito | O Colegiado, acompanhando o Comitê, aceitou proposta conjunta da XP e de um diretor (R$ 1.485.000,00 à CVM, além de comprovar indenização… | cvm-col-20260721-d3295 | fichas/tc/2026-02.md |
+| acordao-crsfn | 19957.009288/2019-25 | 2026-07-14 | outro | EMBARGOS DE DECLARAÇÃO. ALEGADAS OMISSÕES NO ACÓRDÃO CRSFN 16/2026. NÃO CONSIDERAÇÃO DE PRECEDENTES DO CRSFN. DOSIMETRIA. VIOLAÇÃO AO… | crsfn-10372-000113-2024-16-2 | fichas/crsfn/2026-02.md |
+| decisao-colegiado | 19957.017372/2025-61 | 2026-03-17 | conhecimento | O Colegiado, por unanimidade, não conheceu de recurso de investidor contra o arquivamento de reclamação sobre assessor de investimentos… | cvm-col-20260317-d3484 | fichas/colegiado/2026-01.md |
+| acordao-crsfn | 19957.009288/2019-25 | 2026-03-17 | parcial | RECURSOS ADMINISTRATIVOS. CVM. MERCADO DE CAPITAIS. ATUAÇÃO IRREGULAR COMO AGENTE AUTÔNOMO DE INVESTIMENTO E DELEGAÇÃO A TERCEIROS DA… | crsfn-10372-000113-2024-16 | fichas/crsfn/2026-01.md |
+| decisao-colegiado | 19957.010435/2023-96 | 2025-08-19 | — | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.010435/2023-96. | cvm-col-20250819-d3339 | fichas/colegiado/2025-08.md |
+| decisao-colegiado | 19957.008446/2023-14 | 2025-07-22 | — | Recurso contra interpretação normativa da SMI sobre a criação de franquia empresarial na área de assessoria de investimentos, interposto… | cvm-col-20250722-d3316 | fichas/colegiado/2025-07.md |
+| termo-compromisso | 19957.001954/2020-11 | 2025-05-20 | rejeitado | O Colegiado rejeitou, por unanimidade, a proposta conjunta de termo de compromisso da XP Investimentos CCTVM, de dirigentes e de escritório… | cvm-col-20250520-d3195 | fichas/tc/2025-02.md |
+| decisao-colegiado | 19957.007217/2021-11 | 2025-05-13 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.007217/2021-11. | cvm-col-20250513-d3271 | fichas/colegiado/2025-04.md |
+| decisao-colegiado | 19957.015892/2023-77 | 2025-03-11 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.015892/2023-77. | cvm-col-20250311-d3230 | fichas/colegiado/2025-02.md |
+| decisao-colegiado | 19957.000889/2023-59 | 2025-02-04 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.000889/2023-59. | cvm-col-20250204-d3221 | fichas/colegiado/2025-01.md |
+| decisao-colegiado | 19957.000897/2023-03 | 2025-02-04 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.000897/2023-03. | cvm-col-20250204-d3220 | fichas/colegiado/2025-01.md |
+| decisao-colegiado | 19957.012912/2023-58 | 2025-01-28 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.012912/2023-58. | cvm-col-20250128-d3216 | fichas/colegiado/2025-01.md |
+| termo-compromisso | 19957.014625/2023-82 | 2025-01-28 | aceito | O Colegiado aceitou, por unanimidade, a proposta conjunta de termo de compromisso da distribuidora RB Investimentos e de três diretores… | cvm-col-20250128-d3205 | fichas/tc/2025-01.md |
+| pas | 19957.005325/2024-93 | 2024-12-18 | condenacao | Apurar responsabilidade por suposta infração as regras de conduta de agente autônomo de investimento (caput do artigo 15 e artigo 18… | cvm-pas-19957-005325-2024-93 | fichas/pas/2024-23.md |
+| termo-compromisso | 19957.002134/2020-46 | 2024-10-29 | aceito | O Colegiado aceitou proposta conjunta de termo de compromisso de R$ 3.630.000,00, em três parcelas mensais, mais obrigação de fazer… | cvm-col-20241029-d2963 | fichas/tc/2024-06.md |
+| decisao-colegiado | 19957.002515/2023-78 | 2024-10-22 | — | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.002515/2023-78. | cvm-col-20241022-d3161 | fichas/colegiado/2024-11.md |
+| decisao-colegiado | 19957.003982/2023-15 | 2024-10-15 | deferido | O Colegiado deferiu, por unanimidade, o pedido da Fundação Escola Nacional de Seguros (ENS) para atuar como entidade certificadora de… | cvm-col-20241015-d3154 | fichas/colegiado/2024-11.md |
+| acordao-crsfn | 19957.001493/2016-08; 04/2016 | 2024-10-09 | outro | EMBARGOS DE DECLARAÇÃO. ALEGADO ERRO MATERIAL, OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO NO ACÓRDÃO CRSFN 33/2024. Inexistência dos vícios… | crsfn-10372-100141-2021-90-2 | fichas/crsfn/2024-07.md |
+| pas | 19957.009162/2023-37 | 2024-10-08 | parcial | Apurar infrações ao art. 18, incisos VII e VIII, e ao art. 15 da Resolução CVM nº 16/20021, bem como ao art. 3º da Resolução CVM nº… | cvm-pas-19957-009162-2023-37 | fichas/pas/2024-16.md |
+| decisao-colegiado | 19957.007430/2023-86 | 2024-09-17 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.007430/2023-86. | cvm-col-20240917-d3135 | fichas/colegiado/2024-10.md |
+| decisao-colegiado | 19957.001748/2023-53 | 2024-09-17 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.001748/2023-53. | cvm-col-20240917-d3134 | fichas/colegiado/2024-10.md |
+| decisao-colegiado | 179/2023; 19957.011047/2024-11 | 2024-09-10 | indeferido | O Colegiado indeferiu os pedidos da ANCORD de nova prorrogação da entrada em vigor da RCVM 179 e de forma alternativa de divulgação de… | cvm-col-20240910-d3133 | fichas/colegiado/2024-09.md |
+| decisao-colegiado | 19957.004976/2017-37 | 2024-09-03 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.004976/2017-37. | cvm-col-20240903-d0993 | fichas/colegiado/2024-09.md |
+| decisao-colegiado | 19957.012300/2023-65 | 2024-08-27 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.012300/2023-65. | cvm-col-20240827-d3110 | fichas/colegiado/2024-09.md |
+| decisao-colegiado | 19957.003288/2024-89 | 2024-08-20 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.003288/2024-89. | cvm-col-20240820-d3118 | fichas/colegiado/2024-09.md |
+| decisao-colegiado | 19957.007431/2023-21 | 2024-07-23 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.007431/2023-21. | cvm-col-20240723-d3103 | fichas/colegiado/2024-08.md |
+| decisao-colegiado | 19957.000885/2023-71 | 2024-07-23 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.000885/2023-71. | cvm-col-20240723-d3088 | fichas/colegiado/2024-08.md |
+| decisao-colegiado | 19957.002520/2023-81 | 2024-07-09 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.002520/2023-81. | cvm-col-20240709-d3093 | fichas/colegiado/2024-08.md |
+| decisao-colegiado | 19957.003202/2023-37 | 2024-07-02 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.003202/2023-37. | cvm-col-20240702-d3090 | fichas/colegiado/2024-07.md |
+| decisao-colegiado | 19957.002519/2023-56 | 2024-05-28 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.002519/2023-56. | cvm-col-20240528-d3070 | fichas/colegiado/2024-06.md |
+| pas | 19957.000466/2023-39 | 2024-05-14 | condenacao | Apurar eventual responsabilidade por atuação irregular como agente autônomo de investimento. Infração ao art. 10, caput, e art. 13, inciso… | cvm-pas-19957-000466-2023-39 | fichas/pas/2024-05.md |
+| termo-compromisso | 19957.014268/2022-71 | 2024-05-14 | aceito | Por maioria, o Colegiado aceitou, contra o parecer do Comitê, proposta de termo de compromisso de R$ 1.000.000,00 (parcela única) da XP… | cvm-col-20240514-d3057 | fichas/tc/2024-03.md |
+| decisao-colegiado | 19957.013821/2022-59 | 2024-04-30 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.013821/2022-59. | cvm-col-20240430-d3052 | fichas/colegiado/2024-05.md |
+| decisao-colegiado | 19957.009381/2021-54 | 2024-04-30 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.009381/2021-54. | cvm-col-20240430-d3023 | fichas/colegiado/2024-04.md |
+| acordao-crsfn | 19957.001493/2016-08; 04/2016 | 2024-04-09 | condenacao | RECURSO ADMINISTRATIVO. CVM. REALIZAÇÃO DE NEGÓCIOS EM NOME DE CLIENTE SEM ORDEM. CHURNING. Agente Autônomo de Investimento. Aplicação das… | crsfn-10372-100141-2021-90 | fichas/crsfn/2024-02.md |
+| acordao-crsfn | 19957.009663/2017-75 | 2024-03-12 | parcial | RECURSO ADMINISTRATIVO. CVM. NÃO ADOÇÃO E IMPLEMENTAÇÃO DE REGRAS ADEQUADAS E EFICAZES PARA O CUMPRIMENTO DO DISPOSTO NA INSTRUÇÃO CVM Nº… | crsfn-10372-100130-2023-71 | fichas/crsfn/2024-02.md |
+| decisao-colegiado | 19957.012626/2022-10 | 2024-02-06 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.012626/2022-10. | cvm-col-20240206-d2990 | fichas/colegiado/2024-02.md |
+| decisao-colegiado | 19957.012458/2023-35 | 2024-02-06 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.012458/2023-35. | cvm-col-20240206-d2989 | fichas/colegiado/2024-02.md |
+| decisao-colegiado | 19957.000197/2022-20 | 2024-02-06 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.000197/2022-20. | cvm-col-20240206-d2988 | fichas/colegiado/2024-02.md |
+| termo-compromisso | 19957.004489/2022-31 | 2023-11-07 | aceito | O Colegiado aceitou a proposta de termo de compromisso da Nova Futura CTVM e de seu diretor responsável, acompanhando o Comitê, que fixou… | cvm-col-20231107-d2824 | fichas/tc/2023-07.md |
+| decisao-colegiado | 19957.004812/2022-77 | 2023-10-03 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.004812/2022-77. | cvm-col-20231003-d2939 | fichas/colegiado/2023-11.md |
+| decisao-colegiado | 19957.011889/2022-01 | 2023-09-19 | deferido | O Colegiado concedeu, por unanimidade, à Banestes DTVM S.A. a dispensa de indicar diretor estatutário responsável exigida pelas Resoluções… | cvm-col-20230919-d2923 | fichas/colegiado/2023-10.md |
+| decisao-colegiado | 19957.011889/2022-01 | 2023-09-12 | — | O Colegiado iniciou a discussão do pedido da Banestes DTVM S.A. de dispensa da indicação de diretor estatutário responsável (Resoluções CVM… | cvm-col-20230912-d2923 | fichas/colegiado/2023-10.md |
+| acordao-crsfn | 19957.009366/2017-20; SP2018/00412 | 2023-09-12 | parcial | RECURSO VOLUNTÁRIO. CVM. DEFICIÊNCIA NOS REGISTROS DAS ORDENS DE NEGÓCIOS NA CORRETORA DE VALORES MOBILIÁRIOS. Irregularidade configurada… | crsfn-10372-100088-2022-16 | fichas/crsfn/2023-07.md |
+| decisao-colegiado | 19957.004403/2022-71 | 2023-08-29 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.004403/2022-71. | cvm-col-20230829-d2921 | fichas/colegiado/2023-09.md |
+| decisao-colegiado | 19957.004816/2022-55 | 2023-08-29 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.004816/2022-55. | cvm-col-20230829-d2920 | fichas/colegiado/2023-09.md |
+| termo-compromisso | 19957.004489/2022-31 | 2023-08-08 | outro | O Colegiado divergiu do enquadramento do Item VI do Grupo III do Anexo A da RCVM 45 dado à corretora e a seu diretor responsável, acusados… | cvm-col-20230808-d2824 | fichas/tc/2023-05.md |
+| pas | 19957.009663/2017-75 | 2023-07-11 | condenacao | Apurar eventual responsabilidade por irregularidades relacionadas (i) à não adoção e implementação de (a) regras adequadas e eficazes para… | cvm-pas-19957-009663-2017-75 | fichas/pas/2023-07.md |
+| decisao-colegiado | 19957.005809/2022-71 | 2023-07-11 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.005809/2022-71. | cvm-col-20230711-d2893 | fichas/colegiado/2023-08.md |
+| decisao-colegiado | 19957.004375/2022-91 | 2023-07-04 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.004375/2022-91. | cvm-col-20230704-d2885 | fichas/colegiado/2023-07.md |
+| decisao-colegiado | 19957.004398/2022-04 | 2023-07-04 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.004398/2022-04. | cvm-col-20230704-d2884 | fichas/colegiado/2023-07.md |
+| decisao-colegiado | 19957.004368/2022-90 | 2023-05-30 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.004368/2022-90. | cvm-col-20230530-d2865 | fichas/colegiado/2023-06.md |
+| decisao-colegiado | 19957.001989/2022-11 | 2023-05-23 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.001989/2022-11. | cvm-col-20230523-d2863 | fichas/colegiado/2023-06.md |
+| decisao-colegiado | 19957.003825/2022-29 | 2023-05-23 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.003825/2022-29. | cvm-col-20230523-d2858 | fichas/colegiado/2023-06.md |
+| acordao-crsfn | 19957.005057/2019-42; RJ2019/09315 | 2023-03-07 | parcial | RECURSOS VOLUNTÁRIOS. ATUAR COMO AGENTE AUTÔNOMO DE INVESTIMENTO SEM AUTORIZAÇÃO DA CVM. DELEGAÇÃO A TERCEIROS DA EXECUÇÃO DE SERVIÇOS… | crsfn-10372-100240-2021-71 | fichas/crsfn/2023-02.md |
+| decisao-colegiado | 05/2021; 19957.009468/2018-26 | 2023-02-08 | outro | O Colegiado aprovou a edição das Resoluções CVM 178 e 179, de 14.02.2023, após a Audiência Pública SDM 05/2021. A RCVM 178 cria o marco… | cvm-col-20230208-d1441-r2 | fichas/colegiado/2023-02.md |
+| decisao-colegiado | 19957.000462/2022-70 | 2023-02-07 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.000462/2022-70. | cvm-col-20230207-d2797 | fichas/colegiado/2023-02.md |
+| decisao-colegiado | 19957.012617/2022-11 | 2023-01-17 | outro | O Colegiado aprovou, por unanimidade, acompanhando a SMI, alterações no Regulamento do Programa de Educação Continuada dos Assessores de… | cvm-col-20230117-d2785 | fichas/colegiado/2023-02.md |
+| decisao-colegiado | 19957.010754/2022-11 | 2022-12-20 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.010754/2022-11. | cvm-col-20221220-d2745 | fichas/colegiado/2022-17.md |
+| acordao-crsfn | 19957.011693/2017-41; SP2018/420 | 2022-12-08 | condenacao | RECURSO VOLUNTÁRIO. DEFICIÊNCIAS NA ADOÇÃO E IMPLEMENTAÇÃO DE PROCEDIMENTOS E CONTROLES INTERNOS PARA ATENDIMENTO AO DISPOSTO NA INSTRUÇÃO… | crsfn-10372-100009-2022-69 | fichas/crsfn/2022-08.md |
+| decisao-colegiado | 19957.001479/2021-63 | 2022-11-01 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.001479/2021-63. | cvm-col-20221101-d2715 | fichas/colegiado/2022-15.md |
+| termo-compromisso | 19957.006343/2021-40 | 2022-10-25 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou proposta de termo de compromisso da Prosperidade Investimentos AAI de R$… | cvm-col-20221025-d2713 | fichas/tc/2022-05.md |
+| decisao-colegiado | 19957.000200/2021-24 | 2022-10-11 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.000200/2021-24. | cvm-col-20221011-d2700 | fichas/colegiado/2022-14.md |
+| decisao-colegiado | 19957.006651/2021-75 | 2022-09-27 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.006651/2021-75. | cvm-col-20220927-d2688 | fichas/colegiado/2022-14.md |
+| decisao-colegiado | 19957.003374/2021-49 | 2022-08-09 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.003374/2021-49. | cvm-col-20220809-d2665 | fichas/colegiado/2022-12.md |
+| decisao-colegiado | 19957.000787/2021-71 | 2022-07-12 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.000787/2021-71. | cvm-col-20220712-d2641 | fichas/colegiado/2022-11.md |
+| decisao-colegiado | 19957.009122/2018-28 | 2022-06-14 | conhecimento | O Colegiado não conheceu do recurso de investidor contra decisão da SMI que não adotou medidas adicionais em reclamação contra a XP… | cvm-col-20220614-d2615 | fichas/colegiado/2022-10.md |
+| decisao-colegiado | 19957.000035/2021-19 | 2022-05-24 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.000035/2021-19. | cvm-col-20220524-d2586 | fichas/colegiado/2022-08.md |
+| decisao-colegiado | 19957.006697/2020-11 | 2022-05-17 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.006697/2020-11. | cvm-col-20220517-d2580 | fichas/colegiado/2022-08.md |
+| decisao-colegiado | 19957.000783/2021-93 | 2022-05-10 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.000783/2021-93. | cvm-col-20220510-d2574 | fichas/colegiado/2022-07.md |
+| pas | 19957.009366/2017-20 | 2022-04-12 | condenacao | Responsabilidade por irregularidades relacionadas (i) à não adoção e implementação de (a) regras adequadas e eficazes para o cumprimento do… | cvm-pas-19957-009366-2017-20 | fichas/pas/2022-03.md |
+| acordao-crsfn | SP2018/0538 | 2022-04-12 | extincao | RECURSO VOLUNTÁRIO. AUSÊNCIA DE REGRAS ADEQUADAS E EFICAZES PARA O CUMPRIMENTO DE NORMAS SOBRE AS OPERAÇÕES. AUSÊNCIA DE PROCEDIMENTOS E… | crsfn-10372-100106-2021-71 | fichas/crsfn/2022-02.md |
+| decisao-colegiado | 19957.007235/2020-11 | 2022-03-29 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.007235/2020-11. | cvm-col-20220329-d2546 | fichas/colegiado/2022-05.md |
+| decisao-colegiado | 19957.000767/2021-09 | 2022-03-22 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.000767/2021-09. | cvm-col-20220322-d2536 | fichas/colegiado/2022-04.md |
+| decisao-colegiado | 19957.000765/2021-10 | 2022-03-08 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.000765/2021-10. | cvm-col-20220308-d2496 | fichas/colegiado/2022-03.md |
+| pas | 19957.009592/2017-19 | 2022-02-22 | condenacao | Falhas na prestação de serviços de intermediação e custódia de valores mobiliários, em infração aos art. 12, inciso I, combinado com o art… | cvm-pas-19957-009592-2017-19 | fichas/pas/2022-02.md |
+| decisao-colegiado | 19957.004903/2020-41 | 2022-01-25 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004903/2020-41. | cvm-col-20220125-d2464 | fichas/colegiado/2022-01.md |
+| termo-compromisso | 19957.007432/2020-22 | 2022-01-11 | aceito | O Colegiado, divergindo do parecer do Comitê, aceitou contraproposta de R$ 5.000.000,00 da XP Investimentos CCTVM S.A. e de quatro… | cvm-col-20220111-d2451 | fichas/tc/2022-01.md |
+| decisao-colegiado | 19957.008884/2021-11 | 2021-12-21 | outro | O Colegiado aprovou, com adendo da SMI, alteração no Regulamento de Processos da ANCORD que permite aceitação parcial de alteração… | cvm-col-20211221-d2433 | fichas/colegiado/2021-22.md |
+| decisao-colegiado | 19957.008844/2020-80 | 2021-12-21 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.008844/2020-80. | cvm-col-20211221-d2432 | fichas/colegiado/2021-22.md |
+| decisao-colegiado | 19957.008916/2020-99 | 2021-12-14 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.008916/2020-99. | cvm-col-20211214-d2424 | fichas/colegiado/2021-22.md |
+| decisao-colegiado | 19957.004924/2020-66 | 2021-11-30 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004924/2020-66. | cvm-col-20211130-d2400 | fichas/colegiado/2021-20.md |
+| acordao-crsfn | RJ2017/977 | 2021-11-09 | parcial | RECURSOS VOLUNTÁRIOS. Atuação Irregular de Agente Autônomo de Investimento. Provimento parcial. | crsfn-10372-100271-2019-16 | fichas/crsfn/2021-05.md |
+| decisao-colegiado | 19957.004995/2021-40 | 2021-11-03 | conhecimento | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004995/2021-40. | cvm-col-20211103-d2368 | fichas/colegiado/2021-18.md |
+| decisao-colegiado | 19957.005774/2020-16 | 2021-11-03 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.005774/2020-16. | cvm-col-20211103-d2357 | fichas/colegiado/2021-18.md |
+| decisao-colegiado | 19957.007809/2021-24 | 2021-10-14 | nao-provido | O Colegiado, por unanimidade, negou provimento a recurso de candidato contra decisão da SMI que julgou improcedente reclamação sobre… | cvm-col-20211014-d2327 | fichas/colegiado/2021-17.md |
+| decisao-colegiado | 19957.003241/2021-72 | 2021-09-14 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.003241/2021-72. | cvm-col-20210914-d2303 | fichas/colegiado/2021-15.md |
+| decisao-colegiado | 19957.001146/2021-34 | 2021-07-27 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.001146/2021-34. | cvm-col-20210727-d2258 | fichas/colegiado/2021-12.md |
+| decisao-colegiado | 19957.001055/2021-07 | 2021-07-27 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.001055/2021-07. | cvm-col-20210727-d2255 | fichas/colegiado/2021-12.md |
+| decisao-colegiado | 19957.003330/2020-38 | 2021-07-27 | conhecimento | O Colegiado não conheceu do recurso do reclamante contra decisão da SMI que arquivou reclamação contra a XP Investimentos CCTVM S.A. e… | cvm-col-20210727-d2248 | fichas/colegiado/2021-12.md |
+| decisao-colegiado | 19957.008909/2020-97 | 2021-07-20 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.008909/2020-97. | cvm-col-20210720-d2246 | fichas/colegiado/2021-12.md |
+| decisao-colegiado | 19957.004443/2021-31 | 2021-07-13 | conhecimento | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004443/2021-31. | cvm-col-20210713-d2238 | fichas/colegiado/2021-11.md |
+| decisao-colegiado | 19957.008903/2020-10 | 2021-07-13 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.008903/2020-10. | cvm-col-20210713-d2236 | fichas/colegiado/2021-11.md |
+| decisao-colegiado | 19957.001034/2021-83 | 2021-07-06 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.001034/2021-83. | cvm-col-20210706-d2229 | fichas/colegiado/2021-11.md |
+| decisao-colegiado | 19957.005258/2020-83 | 2021-07-06 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.005258/2020-83. | cvm-col-20210706-d2226 | fichas/colegiado/2021-11.md |
+| decisao-colegiado | 19957.000072/2021-19 | 2021-06-29 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.000072/2021-19. | cvm-col-20210629-d2222 | fichas/colegiado/2021-11.md |
+| decisao-colegiado | 19957.001022/2021-59 | 2021-06-29 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.001022/2021-59. | cvm-col-20210629-d2221 | fichas/colegiado/2021-11.md |
+| decisao-colegiado | 19957.008366/2020-16 | 2021-06-15 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.008366/2020-16. | cvm-col-20210615-d2210 | fichas/colegiado/2021-10.md |
+| decisao-colegiado | 19957.008088/2020-99 | 2021-06-15 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.008088/2020-99. | cvm-col-20210615-d2209 | fichas/colegiado/2021-10.md |
+| decisao-colegiado | 19957.007199/2020-88 | 2021-06-15 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.007199/2020-88. | cvm-col-20210615-d2208 | fichas/colegiado/2021-10.md |
+| decisao-colegiado | 19957.007580/2020-47 | 2021-06-01 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.007580/2020-47. | cvm-col-20210601-d2199 | fichas/colegiado/2021-09.md |
+| decisao-colegiado | 19957.005939/2020-41 | 2021-05-25 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.005939/2020-41. | cvm-col-20210525-d2181 | fichas/colegiado/2021-09.md |
+| decisao-colegiado | 19957.002618/2016-17 | 2021-05-19 | — | Apresentação sobre mecanismo de ressarcimento de prejuízos (mrp). Proc. SEI 19957.002618/2016-17. | cvm-col-20210519-d2676 | fichas/colegiado/2021-09.md |
+| decisao-colegiado | 19957.004921/2020-22 | 2021-05-18 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004921/2020-22. | cvm-col-20210518-d2174 | fichas/colegiado/2021-08.md |
+| decisao-colegiado | 19957.003645/2021-66 | 2021-05-11 | outro | O Colegiado aprovou, por unanimidade, a Resolução CVM 30/2021, que revisa a ICVM 539/2013 sobre o dever de verificação da adequação de… | cvm-col-20210511-d2163 | fichas/colegiado/2021-08.md |
+| decisao-colegiado | 19957.004724/2020-11 | 2021-05-11 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004724/2020-11. | cvm-col-20210511-d1995 | fichas/colegiado/2021-08.md |
+| decisao-colegiado | 19957.008030/2020-45 | 2021-05-04 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.008030/2020-45. | cvm-col-20210504-d2152 | fichas/colegiado/2021-07.md |
+| decisao-colegiado | 19957.005970/2020-82 | 2021-05-04 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.005970/2020-82. | cvm-col-20210504-d2151 | fichas/colegiado/2021-07.md |
+| decisao-colegiado | 19957.008102/2020-54 | 2021-04-27 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.008102/2020-54. | cvm-col-20210427-d2149 | fichas/colegiado/2021-07.md |
+| decisao-colegiado | 19957.008007/2020-51 | 2021-04-27 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.008007/2020-51. | cvm-col-20210427-d2148 | fichas/colegiado/2021-07.md |
+| termo-compromisso | 19957.005057/2019-42 | 2021-04-27 | outro | O Colegiado aceitou a proposta de termo de compromisso da RJ Investimentos – AAI, acusada de delegar a terceiros serviços de intermediação… | cvm-col-20210427-d1929 | fichas/tc/2021-03.md |
+| decisao-colegiado | 19957.006470/2020-68 | 2021-04-13 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.006470/2020-68. | cvm-col-20210413-d2135 | fichas/colegiado/2021-07.md |
+| acordao-crsfn | RJ2016/4685 | 2021-04-13 | condenacao | RECURSO VOLUNTÁRIO. Atuação do agente autônomo de investimento como procurador de cliente perante instituição integrante do sistema de… | crsfn-10372-100241-2019-00 | fichas/crsfn/2021-01.md |
+| decisao-colegiado | 19957.007961/2020-26 | 2021-04-01 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.007961/2020-26. | cvm-col-20210401-d2118 | fichas/colegiado/2021-06.md |
+| decisao-colegiado | 19957.001588/2021-81 | 2021-04-01 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.001588/2021-81. | cvm-col-20210401-d2117 | fichas/colegiado/2021-06.md |
+| decisao-colegiado | 19957.004739/2020-71 | 2021-04-01 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004739/2020-71. | cvm-col-20210401-d1954 | fichas/colegiado/2021-06.md |
+| decisao-colegiado | 19957.005697/2020-96 | 2021-03-16 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.005697/2020-96. | cvm-col-20210316-d2105 | fichas/colegiado/2021-05.md |
+| decisao-colegiado | 19957.008009/2020-40 | 2021-03-16 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.008009/2020-40. | cvm-col-20210316-d2102 | fichas/colegiado/2021-05.md |
+| decisao-colegiado | 19957.000804/2021-71 | 2021-03-16 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.000804/2021-71. | cvm-col-20210316-d2098 | fichas/colegiado/2021-05.md |
+| decisao-colegiado | 19957.007816/2020-45 | 2021-03-02 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.007816/2020-45. | cvm-col-20210302-d2089 | fichas/colegiado/2021-04.md |
+| decisao-colegiado | 19957.007962/2020-71 | 2021-02-23 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.007962/2020-71. | cvm-col-20210223-d2084 | fichas/colegiado/2021-04.md |
+| decisao-colegiado | 19957.006595/2020-98 | 2021-02-23 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.006595/2020-98. | cvm-col-20210223-d2082 | fichas/colegiado/2021-04.md |
+| decisao-colegiado | 19957.004014/2020-83 | 2021-02-23 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004014/2020-83. | cvm-col-20210223-d2080 | fichas/colegiado/2021-04.md |
+| decisao-colegiado | 19957.010715/2018-37; 19957.000495/2019-14 | 2021-02-23 | outro | O Colegiado aprovou, por maioria, as conclusões da SMI sobre oferta a residentes no Brasil de intermediação por estrangeiro em parceria com… | cvm-col-20210223-d1583 | fichas/colegiado/2021-03.md |
+| decisao-colegiado | 19957.000807/2021-12 | 2021-02-09 | outro | O Colegiado aprovou, por unanimidade, a Resolução CVM 16/2020, que consolida a regulação do agente autônomo de investimento e revoga as… | cvm-col-20210209-d2057 | fichas/colegiado/2021-03.md |
+| decisao-colegiado | 19957.005860/2020-11 | 2021-02-09 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.005860/2020-11. | cvm-col-20210209-d2055 | fichas/colegiado/2021-02.md |
+| decisao-colegiado | 19957.006449/2020-62 | 2021-02-09 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.006449/2020-62. | cvm-col-20210209-d2054 | fichas/colegiado/2021-02.md |
+| decisao-colegiado | 19957.005795/2020-23 | 2021-01-26 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.005795/2020-23. | cvm-col-20210126-d2043 | fichas/colegiado/2021-02.md |
+| decisao-colegiado | 19957.008017/2020-96 | 2021-01-19 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.008017/2020-96. | cvm-col-20210119-d2033 | fichas/colegiado/2021-01.md |
+| decisao-colegiado | 19957.008656/2020-51 | 2021-01-19 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.008656/2020-51. | cvm-col-20210119-d2032 | fichas/colegiado/2021-01.md |
+| decisao-colegiado | 19957.005554/2020-84 | 2021-01-05 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.005554/2020-84. | cvm-col-20210105-d2026 | fichas/colegiado/2021-01.md |
+| pas | 19957.004072/2016-21; SP2017/630 | 2020-12-22 | parcial | Responsabilidade de (i) ARC Agentes Autônomos de Investimentos Ltda., por infração ao artigo 15, inciso I, da Instrução CVM nº 434/2006… | cvm-pas-19957-004072-2016-21 | fichas/pas/2020-10.md |
+| decisao-colegiado | 19957.006906/2020-19 | 2020-12-22 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.006906/2020-19. | cvm-col-20201222-d2022 | fichas/colegiado/2020-22.md |
+| decisao-colegiado | 19957.005389/2020-61 | 2020-12-15 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.005389/2020-61. | cvm-col-20201215-d2017 | fichas/colegiado/2020-21.md |
+| decisao-colegiado | 19957.005827/2020-91 | 2020-12-08 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.005827/2020-91. | cvm-col-20201208-d2003 | fichas/colegiado/2020-21.md |
+| decisao-colegiado | 19957.004922/2020-77 | 2020-12-08 | conhecimento | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004922/2020-77. | cvm-col-20201208-d2002 | fichas/colegiado/2020-21.md |
+| decisao-colegiado | 19957.004016/2020-72 | 2020-12-01 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004016/2020-72. | cvm-col-20201201-d1994 | fichas/colegiado/2020-20.md |
+| decisao-colegiado | 19957.006211/2020-37 | 2020-12-01 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.006211/2020-37. | cvm-col-20201201-d1993 | fichas/colegiado/2020-20.md |
+| decisao-colegiado | 19957.006221/2020-72 | 2020-12-01 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.006221/2020-72. | cvm-col-20201201-d1992 | fichas/colegiado/2020-20.md |
+| decisao-colegiado | 19957.005388/2020-16 | 2020-11-24 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.005388/2020-16. | cvm-col-20201124-d1984 | fichas/colegiado/2020-19.md |
+| decisao-colegiado | 19957.006044/2020-24 | 2020-11-24 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.006044/2020-24. | cvm-col-20201124-d1983 | fichas/colegiado/2020-19.md |
+| decisao-colegiado | 19957.005981/2020-62 | 2020-11-24 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.005981/2020-62. | cvm-col-20201124-d1982 | fichas/colegiado/2020-19.md |
+| decisao-colegiado | 19957.005374/2020-01 | 2020-11-17 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.005374/2020-01. | cvm-col-20201117-d1971 | fichas/colegiado/2020-19.md |
+| decisao-colegiado | 19957.005343/2020-41 | 2020-11-10 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.005343/2020-41. | cvm-col-20201110-d1968 | fichas/colegiado/2020-19.md |
+| decisao-colegiado | 19957.000609/2020-60 | 2020-11-10 | conhecimento | O Colegiado, acompanhando a SMI (Memorando 107/2020), decidiu, por unanimidade, não conhecer recurso contra arquivamento de processo sobre… | cvm-col-20201110-d1967 | fichas/colegiado/2020-19.md |
+| decisao-colegiado | 19957.010715/2018-37; 19957.000495/2019-14 | 2020-11-03 | — | Consulta da SMI sobre oferta de serviços de intermediação de valores mobiliários por intermediário estrangeiro, em parceria com… | cvm-col-20201103-d1583 | fichas/colegiado/2020-18.md |
+| decisao-colegiado | 19957.005281/2020-78 | 2020-10-13 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.005281/2020-78. | cvm-col-20201013-d1949 | fichas/colegiado/2020-17.md |
+| decisao-colegiado | 19957.005259/2020-28 | 2020-10-13 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.005259/2020-28. | cvm-col-20201013-d1948 | fichas/colegiado/2020-17.md |
+| decisao-colegiado | 19957.005308/2020-22 | 2020-10-13 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.005308/2020-22. | cvm-col-20201013-d1943 | fichas/colegiado/2020-17.md |
+| decisao-colegiado | 19957.005307/2020-88 | 2020-09-29 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.005307/2020-88. | cvm-col-20200929-d1931 | fichas/colegiado/2020-16.md |
+| decisao-colegiado | 19957.002800/2019-11 | 2020-09-23 | — | O Colegiado ouviu a ASA sobre a primeira fase do estudo de internalização de ordens. Alguns dados positivos da oferta RLP da B3 podem… | cvm-col-20200923-d1926 | fichas/colegiado/2020-16.md |
+| decisao-colegiado | 19957.005306/2020-33 | 2020-09-22 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.005306/2020-33. | cvm-col-20200922-d1918 | fichas/colegiado/2020-16.md |
+| decisao-colegiado | 19957.004288/2020-72 | 2020-09-15 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004288/2020-72. | cvm-col-20200915-d1915 | fichas/colegiado/2020-15.md |
+| acordao-crsfn | RJ2018/269 | 2020-09-15 | condenacao | RECURSO VOLUNTÁRIO. Não ter supervisionado o cumprimento e a efetividade dos procedimentos e controles internos. Ter acumulado as funções… | crsfn-10372-100062-2020-06 | fichas/crsfn/2020-06.md |
+| decisao-colegiado | 19957.004297/2020-63 | 2020-09-08 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004297/2020-63. | cvm-col-20200908-d1904 | fichas/colegiado/2020-14.md |
+| decisao-colegiado | 19957.005736/2020-55 | 2020-09-08 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.005736/2020-55. | cvm-col-20200908-d1903 | fichas/colegiado/2020-14.md |
+| decisao-colegiado | 19957.004544/2020-21 | 2020-09-08 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004544/2020-21. | cvm-col-20200908-d1902 | fichas/colegiado/2020-14.md |
+| decisao-colegiado | 19957.004684/2020-08 | 2020-08-25 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004684/2020-08. | cvm-col-20200825-d1895 | fichas/colegiado/2020-14.md |
+| decisao-colegiado | 19957.004289/2020-17 | 2020-08-25 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004289/2020-17. | cvm-col-20200825-d1894 | fichas/colegiado/2020-14.md |
+| decisao-colegiado | 19957.004284/2020-94 | 2020-08-25 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004284/2020-94. | cvm-col-20200825-d1893 | fichas/colegiado/2020-14.md |
+| decisao-colegiado | 19957.002938/2020-45 | 2020-07-28 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.002938/2020-45. | cvm-col-20200728-d1862 | fichas/colegiado/2020-12.md |
+| decisao-colegiado | 19957.004108/2020-52 | 2020-07-21 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004108/2020-52. | cvm-col-20200721-d1858 | fichas/colegiado/2020-11.md |
+| decisao-colegiado | 19957.002796/2020-16 | 2020-07-21 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.002796/2020-16. | cvm-col-20200721-d1855 | fichas/colegiado/2020-11.md |
+| decisao-colegiado | 19957.004235/2020-51 | 2020-07-14 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004235/2020-51. | cvm-col-20200714-d1854 | fichas/colegiado/2020-11.md |
+| decisao-colegiado | 19957.004163/2020-42 | 2020-07-14 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004163/2020-42. | cvm-col-20200714-d1853 | fichas/colegiado/2020-11.md |
+| decisao-colegiado | 19957.003238/2020-78 | 2020-06-16 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.003238/2020-78. | cvm-col-20200616-d1829 | fichas/colegiado/2020-10.md |
+| decisao-colegiado | 19957.002795/2020-71 | 2020-06-02 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.002795/2020-71. | cvm-col-20200602-d1823 | fichas/colegiado/2020-09.md |
+| decisao-colegiado | 19957.001749/2020-55 | 2020-05-26 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.001749/2020-55. | cvm-col-20200526-d1814 | fichas/colegiado/2020-08.md |
+| decisao-colegiado | 19957.003369/2018-31 | 2020-03-03 | outro | O Colegiado aprovou o regulamento do Programa de Educação Continuada dos agentes autônomos proposto pela Ancord, com credenciamento… | cvm-col-20200303-d1733 | fichas/colegiado/2020-04.md |
+| decisao-colegiado | 19957.005204/2017-12 | 2020-02-04 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.005204/2017-12. | cvm-col-20200204-d1687 | fichas/colegiado/2020-02.md |
+| decisao-colegiado | 19957.007308/2018-42 | 2020-02-04 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.007308/2018-42. | cvm-col-20200204-d1682 | fichas/colegiado/2020-02.md |
+| decisao-colegiado | 19957.004377/2017-13 | 2020-02-04 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004377/2017-13. | cvm-col-20200204-d1140 | fichas/colegiado/2020-02.md |
+| decisao-colegiado | 19957.011100/2019-17 | 2020-01-28 | conhecimento | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.011100/2019-17. | cvm-col-20200128-d1677 | fichas/colegiado/2020-02.md |
+| decisao-colegiado | 19957.009342/2019-32 | 2020-01-28 | conhecimento | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.009342/2019-32. | cvm-col-20200128-d1674 | fichas/colegiado/2020-02.md |
+| decisao-colegiado | 19957.010972/2017-98 | 2020-01-21 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.010972/2017-98. | cvm-col-20200121-d1663 | fichas/colegiado/2020-01.md |
+| decisao-colegiado | 19957.004402/2019-21 | 2020-01-21 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004402/2019-21. | cvm-col-20200121-d1662 | fichas/colegiado/2020-01.md |
+| decisao-colegiado | 19957.009837/2019-61 | 2020-01-21 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.009837/2019-61. | cvm-col-20200121-d1661 | fichas/colegiado/2020-01.md |
+| decisao-colegiado | 19957.006973/2018-19 | 2020-01-21 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.006973/2018-19. | cvm-col-20200121-d1660 | fichas/colegiado/2020-01.md |
+| decisao-colegiado | 19957.006456/2018-40 | 2020-01-21 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.006456/2018-40. | cvm-col-20200121-d1659 | fichas/colegiado/2020-01.md |
+| decisao-colegiado | 19957.007915/2019-93 | 2020-01-21 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.007915/2019-93. | cvm-col-20200121-d1657 | fichas/colegiado/2020-01.md |
+| decisao-colegiado | 19957.009333/2019-41 | 2020-01-14 | outro | O Colegiado, por unanimidade, acompanhou as áreas técnicas em consulta da Anbima, Ancord e Febraban sobre bloqueio de ativos pelo Bacen… | cvm-col-20200114-d1668 | fichas/colegiado/2020-01.md |
+| decisao-colegiado | 19957.008675/2019-44 | 2020-01-14 | conhecimento | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.008675/2019-44. | cvm-col-20200114-d1658 | fichas/colegiado/2020-01.md |
+| decisao-colegiado | 19957.007915/2019-93 | 2020-01-14 | outro | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.007915/2019-93. | cvm-col-20200114-d1657 | fichas/colegiado/2020-01.md |
+| decisao-colegiado | 19957.008192/2019-40 | 2020-01-14 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.008192/2019-40. | cvm-col-20200114-d1656 | fichas/colegiado/2020-01.md |
+| decisao-colegiado | 19957.003570/2016-56 | 2020-01-14 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.003570/2016-56. | cvm-col-20200114-d1655 | fichas/colegiado/2020-01.md |
+| termo-compromisso | 19957.001483/2018-26 | 2019-12-17 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou a proposta conjunta de termo de compromisso da XP Investimentos e de dois… | cvm-col-20191217-d1644 | fichas/tc/2019-07.md |
+| decisao-colegiado | 19957.009163/2019-03 | 2019-12-17 | conhecimento | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.009163/2019-03. | cvm-col-20191217-d1641 | fichas/colegiado/2019-21.md |
+| decisao-colegiado | 19957.005116/2018-00 | 2019-12-10 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.005116/2018-00. | cvm-col-20191210-d1632 | fichas/colegiado/2019-20.md |
+| acordao-crsfn | SP-2014-14 | 2019-11-27 | parcial | RECURSO VOLUNTÁRIO. Utilização de pessoas não integrantes do sistema de distribuição de valores mobiliários nas atividades próprias dos… | crsfn-10372-100294-2018-31 | fichas/crsfn/2019-04.md |
+| decisao-colegiado | 19957.003110/2019-71 | 2019-11-12 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.003110/2019-71. | cvm-col-20191112-d1591 | fichas/colegiado/2019-18.md |
+| pas | RJ2016/8711 | 2019-10-29 | parcial | Atuação, por conta própria, em intermediário diverso daquele a que a pessoa está vinculada. Inobservância do dever de atualização cadastral… | cvm-pas-rj2016-8711 | fichas/pas/2019-18.md |
+| decisao-colegiado | 19957.009392/2019-10 | 2019-10-29 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.009392/2019-10. | cvm-col-20191029-d1587 | fichas/colegiado/2019-17.md |
+| pas | 19957.004737/2017-87; RJ2018/269 | 2019-10-22 | parcial | Atuação irregular de administradores de corretora de valores mobiliários e de agentes autônomos de investimento, incluindo o exercício… | cvm-pas-19957-004737-2017-87 | fichas/pas/2019-17.md |
+| decisao-colegiado | 19957.008839/2019-33 | 2019-10-22 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.008839/2019-33. | cvm-col-20191022-d1584 | fichas/colegiado/2019-17.md |
+| decisao-colegiado | 19957.010715/2018-37; 19957.000495/2019-14 | 2019-10-22 | outro | Por maioria, o Colegiado devolveu à área técnica consulta da SMI sobre contratos de parceria entre intermediário estrangeiro e nacional… | cvm-col-20191022-d1583 | fichas/colegiado/2019-17.md |
+| decisao-colegiado | 19957.008367/2019-19 | 2019-10-15 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.008367/2019-19. | cvm-col-20191015-d1578 | fichas/colegiado/2019-17.md |
+| decisao-colegiado | 19957.003114/2019-59 | 2019-10-15 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.003114/2019-59. | cvm-col-20191015-d1577 | fichas/colegiado/2019-16.md |
+| decisao-colegiado | 19957.008826/2019-64 | 2019-09-24 | outro | O Colegiado, acompanhando a SMI, aprovou regulamento proposto pela Ancord sobre concessão, suspensão e cancelamento de credenciamento de… | cvm-col-20190924-d1547 | fichas/colegiado/2019-15.md |
+| decisao-colegiado | 19957.000387/2019-41 | 2019-09-24 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.000387/2019-41. | cvm-col-20190924-d1544 | fichas/colegiado/2019-15.md |
+| decisao-colegiado | 19957.008763/2019-46 | 2019-09-24 | outro | O Colegiado, por unanimidade, acompanhando a área técnica, entendeu que a CVM não precisa mais aprovar previamente os detalhes do exame de… | cvm-col-20190924-d1541 | fichas/colegiado/2019-15.md |
+| termo-compromisso | 19957.009366/2017-20 | 2019-09-10 | rejeitado | O Colegiado, por unanimidade, rejeitou proposta de termo de compromisso de diretor responsável por controles internos de corretora (ICVM… | cvm-col-20190910-d1423 | fichas/tc/2019-05.md |
+| decisao-colegiado | 19957.003334/2016-30 | 2019-09-03 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.003334/2016-30. | cvm-col-20190903-d1519 | fichas/colegiado/2019-14.md |
+| decisao-colegiado | 19957.004999/2019-11 | 2019-08-27 | deferido | O Colegiado, por unanimidade, acompanhando a área técnica, deferiu pedido da Eternit S.A. em recuperação judicial para usar comissário na… | cvm-col-20190827-d1512 | fichas/colegiado/2019-13.md |
+| pas | RJ2017/4091 | 2019-08-13 | absolvicao | Responsabilidades da XP Investimentos CCTVM S.A. e do seu diretor responsável, [pessoa física], por falhas no registro e arquivamento de… | cvm-pas-rj2017-4091 | fichas/pas/2019-14.md |
+| decisao-colegiado | 19957.006256/2019-78 | 2019-08-13 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.006256/2019-78. | cvm-col-20190813-d1496 | fichas/colegiado/2019-12.md |
+| decisao-colegiado | 19957.004436/2018-34 | 2019-08-06 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004436/2018-34. | cvm-col-20190806-d1490 | fichas/colegiado/2019-12.md |
+| termo-compromisso | 19957.010217/2017-11 | 2019-07-30 | rejeitado | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, rejeitou as propostas de termo de compromisso de uma corretora e de dois… | cvm-col-20190730-d1480 | fichas/tc/2019-04.md |
+| decisao-colegiado | 05/2018; 505/2011; 19957.010782/2018-51 | 2019-07-24 | — | O Colegiado iniciou a discussão dos documentos da Audiência Pública SDM 05/2018, sobre minuta de instrução que altera a Instrução CVM… | cvm-col-20190724-d1160 | fichas/colegiado/2019-11.md |
+| decisao-colegiado | 19957.003579/2016-67 | 2019-07-02 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.003579/2016-67. | cvm-col-20190702-d1459 | fichas/colegiado/2019-11.md |
+| decisao-colegiado | 19957.005955/2016-58 | 2019-06-18 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.005955/2016-58. | cvm-col-20190618-d1438 | fichas/colegiado/2019-10.md |
+| decisao-colegiado | 19957.002330/2016-34 | 2019-06-04 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.002330/2016-34. | cvm-col-20190604-d1421 | fichas/colegiado/2019-09.md |
+| decisao-colegiado | 19957.010406/2017-86 | 2019-06-04 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.010406/2017-86. | cvm-col-20190604-d1412 | fichas/colegiado/2019-09.md |
+| decisao-colegiado | 19957.003148/2016-09 | 2019-06-04 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.003148/2016-09. | cvm-col-20190604-d1411 | fichas/colegiado/2019-09.md |
+| decisao-colegiado | 19957.002097/2016-90 | 2019-05-28 | deferido | O Colegiado, por unanimidade, aprovou proposta da B3 para, no período experimental de ofertas RLP em minicontratos de dólar e Ibovespa… | cvm-col-20190528-d1410 | fichas/colegiado/2019-08.md |
+| decisao-colegiado | 19957.005798/2018-42 | 2019-05-21 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.005798/2018-42. | cvm-col-20190521-d1406 | fichas/colegiado/2019-08.md |
+| decisao-colegiado | 19957.010159/2018-07 | 2019-04-09 | deferido | O Colegiado concedeu, por unanimidade, ao Banco GMAC S.A. dispensa da Instrução CVM 505/11 e do Comunicado CETIP 009/2013, acompanhando a… | cvm-col-20190409-d1372 | fichas/colegiado/2019-06.md |
+| decisao-colegiado | 19957.003490/2016-09 | 2019-04-09 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.003490/2016-09. | cvm-col-20190409-d1371 | fichas/colegiado/2019-06.md |
+| decisao-colegiado | 19957.011575/2017-33 | 2019-04-09 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.011575/2017-33. | cvm-col-20190409-d1370 | fichas/colegiado/2019-06.md |
+| decisao-colegiado | 19957.000876/2018-12 | 2019-04-02 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.000876/2018-12. | cvm-col-20190402-d1364 | fichas/colegiado/2019-06.md |
+| decisao-colegiado | 19957.004938/2018-65 | 2019-04-02 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004938/2018-65. | cvm-col-20190402-d1363 | fichas/colegiado/2019-06.md |
+| decisao-colegiado | 19957.006826/2018-49 | 2019-03-26 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.006826/2018-49. | cvm-col-20190326-d1353 | fichas/colegiado/2019-05.md |
+| decisao-colegiado | 19957.004043/2016-69 | 2019-03-19 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004043/2016-69. | cvm-col-20190319-d1266 | fichas/colegiado/2019-04.md |
+| termo-compromisso | 19957.001493/2016-08 | 2019-03-19 | outro | O Colegiado, por unanimidade, aceitou cinco propostas de termo de compromisso e rejeitou uma, em PAS sobre atuação irregular de agentes… | cvm-col-20190319-d1115 | fichas/tc/2019-02.md |
+| decisao-colegiado | SP2016/0019 | 2019-02-26 | outro | O Colegiado, acompanhando o voto do Presidente, devolveu à SMI recurso de investidora contra o arquivamento de reclamação sobre operações… | cvm-col-20190226-d1239 | fichas/colegiado/2019-03.md |
+| decisao-colegiado | 19957.002872/2017-98 | 2019-02-26 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.002872/2017-98. | cvm-col-20190226-d1139 | fichas/colegiado/2019-03.md |
+| pas | RJ2016/4685 | 2019-02-19 | condenacao | Ementa : Atuação do agente autônomo de investimento como procurador de cliente perante instituição integrante do sistema de distribuição de… | cvm-pas-rj2016-4685 | fichas/pas/2019-03.md |
+| acordao-crsfn | SP2012/402 | 2018-12-12 | condenacao | RECURSO VOLUNTÁRIO. Realização de serviços vedados pela Instrução CVM nº 497, de 2011. Materialidade e autoria comprovadas. Recurso… | crsfn-14335 | fichas/crsfn/2018-11.md |
+| acordao-crsfn | SP2012/374 | 2018-12-11 | parcial | RECURSOS VOLUNTÁRIOS. CVM. Gestão de Carteira de Investimentos. Corretora de títulos e valores mobiliários. Diretor responsável. Falta de… | crsfn-10372-000122-2017-88 | fichas/crsfn/2018-09.md |
+| pas | SP2015/41 | 2018-11-27 | parcial | Apuração de responsabilidade de diretores da Corval Corretora de Valores S.A. relacionada à concessão de financiamento a administradores da… | cvm-pas-sp2015-0041 | fichas/pas/2018-20.md |
+| termo-compromisso | 19957.004737/2017-87 | 2018-11-27 | rejeitado | O Colegiado rejeitou proposta de Termo de Compromisso do proponente, administrador da Corval Corretora de Valores Mobiliários S.A. e sócio… | cvm-col-20181127-d1158 | fichas/tc/2018-06.md |
+| decisao-colegiado | 19957.002553/2015-11 | 2018-11-06 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.002553/2015-11. | cvm-col-20181106-d1101 | fichas/colegiado/2018-19.md |
+| termo-compromisso | 19957.010324/2017-31 | 2018-10-30 | rejeitado | O Colegiado rejeitou proposta conjunta de Termo de Compromisso da Gradual CCTVM S.A. e de seu diretor estatutário, acompanhando o Comitê. A… | cvm-col-20181030-d1078 | fichas/tc/2018-06.md |
+| decisao-colegiado | 19957.006039/2017-16 | 2018-10-02 | outro | O Colegiado autorizou a determinação à Ancord para alterar o Regulamento do Exame de Certificação de Agentes Autônomos, conforme proposta… | cvm-col-20181002-d1181 | fichas/colegiado/2018-18.md |
+| decisao-colegiado | 19957.009661/2016-03 | 2018-10-02 | conhecimento | O Colegiado, por maioria, não conheceu do recurso de investidor contra o arquivamento, pela SMI, de reclamação contra a XP Investimentos… | cvm-col-20181002-d1180 | fichas/colegiado/2018-17.md |
+| decisao-colegiado | 19957.002872/2017-98 | 2018-09-25 | — | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.002872/2017-98. | cvm-col-20180925-d1139 | fichas/colegiado/2018-17.md |
+| decisao-colegiado | 19957.008723/2016-51 | 2018-09-25 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.008723/2016-51. | cvm-col-20180925-d0778 | fichas/colegiado/2018-17.md |
+| decisao-colegiado | 19957.009077/2017-21 | 2018-09-11 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.009077/2017-21. | cvm-col-20180911-d1142 | fichas/colegiado/2018-17.md |
+| decisao-colegiado | 19957.009244/2017-33 | 2018-09-11 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.009244/2017-33. | cvm-col-20180911-d1141 | fichas/colegiado/2018-16.md |
+| decisao-colegiado | 19957.004377/2017-13 | 2018-09-11 | outro | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004377/2017-13. | cvm-col-20180911-d1140 | fichas/colegiado/2018-16.md |
+| decisao-colegiado | 19957.001631/2016-41 | 2018-09-11 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.001631/2016-41. | cvm-col-20180911-d1138 | fichas/colegiado/2018-16.md |
+| decisao-colegiado | 19957.009547/2017-56 | 2018-08-14 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.009547/2017-56. | cvm-col-20180814-d1111 | fichas/colegiado/2018-14.md |
+| decisao-colegiado | 19957.004126/2015-77 | 2018-08-14 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004126/2015-77. | cvm-col-20180814-d1110 | fichas/colegiado/2018-14.md |
+| decisao-colegiado | 19957.001443/2017-01 | 2018-08-07 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.001443/2017-01. | cvm-col-20180807-d1100 | fichas/colegiado/2018-14.md |
+| decisao-colegiado | 19957.002553/2015-11 | 2018-07-31 | — | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.002553/2015-11. | cvm-col-20180731-d1101 | fichas/colegiado/2018-13.md |
+| decisao-colegiado | 19957.003436/2015-74 | 2018-07-31 | conhecimento | Pedido de reconsideração de decisão do colegiado. Proc. SEI 19957.003436/2015-74. | cvm-col-20180731-d0116 | fichas/colegiado/2018-13.md |
+| decisao-colegiado | 19957.006712/2017-18 | 2018-06-26 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.006712/2017-18. | cvm-col-20180626-d1068 | fichas/colegiado/2018-11.md |
+| decisao-colegiado | 19957.004976/2017-37 | 2018-06-19 | conhecimento | Pedido de reconsideração de decisão do colegiado. Proc. SEI 19957.004976/2017-37. | cvm-col-20180619-d0993 | fichas/colegiado/2018-10.md |
+| decisao-colegiado | 19957.008039/2017-51 | 2018-03-20 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.008039/2017-51. | cvm-col-20180320-d0994 | fichas/colegiado/2018-06.md |
+| decisao-colegiado | 19957.004976/2017-37 | 2018-03-20 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004976/2017-37. | cvm-col-20180320-d0993 | fichas/colegiado/2018-06.md |
+| decisao-colegiado | 19957.009048/2017-69 | 2018-03-13 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.009048/2017-69. | cvm-col-20180313-d0989 | fichas/colegiado/2018-06.md |
+| decisao-colegiado | SP2015/0384 | 2018-02-27 | conhecimento | O Colegiado, por unanimidade, não conheceu de recurso contra decisão da SMI que arquivou reclamação contra corretora por suposta falha de… | cvm-col-20180227-d0967 | fichas/colegiado/2018-04.md |
+| termo-compromisso | 19957.000250/2017-25 | 2018-02-20 | rejeitado | O Colegiado, por unanimidade, rejeitou proposta conjunta de termo de compromisso da Wall Trader Agente Autônomo de Investimentos EIRELI e… | cvm-col-20180220-d0801 | fichas/tc/2018-01.md |
+| acordao-crsfn | SP2010/266 | 2018-02-20 | parcial | RECURSOS VOLUNTÁRIOS. MERCADO DE TÍTULOS E VALORES MOBILIÁRIOS: Registro de ordens de operações no mercado de títulos e valores… | crsfn-13906 | fichas/crsfn/2018-01.md |
+| decisao-colegiado | SP2013/0385 | 2018-02-15 | conhecimento | O Colegiado, por unanimidade, não conheceu de recurso contra o arquivamento, pela SMI, de reclamação sobre agente autônomo de investimentos… | cvm-col-20180215-d0932 | fichas/colegiado/2018-03.md |
+| decisao-colegiado | 19957.003648/2017-13 | 2018-02-06 | nao-provido | Recurso em processo de mecanismo de ressarcimentos de prejuízos. Proc. SEI 19957.003648/2017-13. | cvm-col-20180206-d0929 | fichas/colegiado/2018-03.md |
+| pas | 11/2013 | 2018-01-30 | parcial | Irregularidades na administração e na gestão de clubes de investimento. Prática de negociação excessiva (churning). Negligência na defesa… | cvm-pas-11-2013 | fichas/pas/2018-01.md |
+| decisao-colegiado | 19957.001613/2016-69 | 2017-12-26 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.001613/2016-69. | cvm-col-20171226-d0884 | fichas/colegiado/2017-21.md |
+| decisao-colegiado | 19957.002722/2015-12 | 2017-12-26 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.002722/2015-12. | cvm-col-20171226-d0883 | fichas/colegiado/2017-21.md |
+| decisao-colegiado | 19957.001628/2016-27 | 2017-10-03 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.001628/2016-27. | cvm-col-20171003-d0811 | fichas/colegiado/2017-17.md |
+| decisao-colegiado | 19957.000787/2016-12 | 2017-08-29 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.000787/2016-12. | cvm-col-20170829-d0779 | fichas/colegiado/2017-15.md |
+| termo-compromisso | 19957.006406/2016-09; RJ2016/7486 | 2017-08-29 | rejeitado | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou proposta de termo de compromisso de agente autônomo de investimentos e sua… | cvm-col-20170829-d0772 | fichas/tc/2017-03.md |
+| decisao-colegiado | 19957.002364/2015-48 | 2017-08-15 | parcial | Embargos de declaração. Proc. SEI 19957.002364/2015-48. | cvm-col-20170815-d9816 | fichas/colegiado/2017-14.md |
+| decisao-colegiado | 19957.009044/2016-08 | 2017-08-08 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.009044/2016-08. | cvm-col-20170808-d0771 | fichas/colegiado/2017-14.md |
+| decisao-colegiado | 19957.007576/2016-01 | 2017-08-08 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.007576/2016-01. | cvm-col-20170808-d0768 | fichas/colegiado/2017-14.md |
+| decisao-colegiado | 19957.000985/2017-59 | 2017-08-08 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.000985/2017-59. | cvm-col-20170808-d0767 | fichas/colegiado/2017-14.md |
+| acordao-crsfn | SP2014/383 | 2017-07-25 | condenacao | RECURSOS VOLUNTÁRIOS. Corretora de Títulos e Valores Mobiliários. Não agir de boa fé, privilegiando seu próprio interesse em detrimento de… | crsfn-10372-000116-2017-21 | fichas/crsfn/2017-10.md |
+| decisao-colegiado | 19957.002230/2015-27 | 2017-07-18 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.002230/2015-27. | cvm-col-20170718-d9787 | fichas/colegiado/2017-13.md |
+| decisao-colegiado | 19957.001854/2016-16 | 2017-07-18 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. | cvm-col-20170718-d0742 | fichas/colegiado/2017-13.md |
+| decisao-colegiado | 19957.001853/2016-63 | 2017-07-18 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.001853/2016-63. | cvm-col-20170718-d0741 | fichas/colegiado/2017-13.md |
+| decisao-colegiado | 19957.001852/2016-19 | 2017-07-18 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.001852/2016-19. | cvm-col-20170718-d0740 | fichas/colegiado/2017-13.md |
+| decisao-colegiado | 19957.008199/2016-19 | 2017-07-18 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.008199/2016-19. | cvm-col-20170718-d0739 | fichas/colegiado/2017-13.md |
+| decisao-colegiado | 19957.008361/2016-07 | 2017-07-18 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.008361/2016-07. | cvm-col-20170718-d0738 | fichas/colegiado/2017-13.md |
+| decisao-colegiado | 19957.002004/2016-27 | 2017-07-18 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.002004/2016-27. | cvm-col-20170718-d0737 | fichas/colegiado/2017-13.md |
+| decisao-colegiado | 19957.001864/2016-43 | 2017-07-18 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.001864/2016-43. | cvm-col-20170718-d0736 | fichas/colegiado/2017-13.md |
+| decisao-colegiado | 19957.002003/2016-82 | 2017-07-04 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.002003/2016-82. | cvm-col-20170704-d0726 | fichas/colegiado/2017-12.md |
+| decisao-colegiado | RJ2009/6405 | 2017-06-26 | nao-provido | O Colegiado, por unanimidade, negou provimento a recurso contra o arquivamento de reclamação sobre a TOV CCTVM, mantendo a decisão da SMI e… | cvm-col-20170626-d9558 | fichas/colegiado/2017-12.md |
+| termo-compromisso | 19957.006464/2016-24; RJ2016/7644 | 2017-06-26 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou proposta de termo de compromisso de diretor responsável de consultoria de… | cvm-col-20170626-d0701 | fichas/tc/2017-02.md |
+| acordao-crsfn | SP-2010-186 | 2017-04-19 | parcial | RECURSOS VOLUNTÁRIOS - Sociedade corretora de títulos e valores mobiliários - Intermediação irregular de operações - Captações por… | crsfn-14238 | fichas/crsfn/2017-07.md |
+| decisao-colegiado | 19957.006271/2016-73 | 2017-03-07 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.006271/2016-73. | cvm-col-20170307-d0593 | fichas/colegiado/2017-05.md |
+| decisao-colegiado | 19957.007098/2016-21 | 2017-02-21 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.007098/2016-21. | cvm-col-20170221-d0580 | fichas/colegiado/2017-04.md |
+| acordao-crsfn | RJ2007/4414 | 2017-02-07 | condenacao | RECURSOS VOLUNTÁRIOS. Termo de Compromisso cumprido, que resultou no arquivamento de acusação para a entidade acusada de exercer sem… | crsfn-13357 | fichas/crsfn/2017-01.md |
+| decisao-colegiado | 19957.000658/2016-16 | 2017-01-31 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.000658/2016-16. | cvm-col-20170131-d0559 | fichas/colegiado/2017-03.md |
+| decisao-colegiado | 19957.000513/2016-15 | 2017-01-03 | provido | Recursos em processos de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.000513/2016-15. | cvm-col-20170103-d0528 | fichas/colegiado/2017-01.md |
+| decisao-colegiado | 19957.001652/2016-66 | 2016-10-25 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.001652/2016-66. | cvm-col-20161025-d0411 | fichas/colegiado/2016-21.md |
+| decisao-colegiado | 19957.001207/2016-04 | 2016-10-25 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.001207/2016-04. | cvm-col-20161025-d0410 | fichas/colegiado/2016-21.md |
+| decisao-colegiado | 19957.001096/2015-47 | 2016-09-27 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.001096/2015-47. | cvm-col-20160927-d9874 | fichas/colegiado/2016-19.md |
+| decisao-colegiado | RJ2013/2306 | 2016-08-09 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2013/2306. | cvm-col-20160809-d9181 | fichas/colegiado/2016-16.md |
+| decisao-colegiado | RJ2012/7159 | 2016-08-09 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2012/7159. | cvm-col-20160809-d8866 | fichas/colegiado/2016-16.md |
+| pas | SP2014/0383 | 2016-08-02 | condenacao | Não exercício das atividades da Corretora com boa-fé, diligência e lealdade para com o cliente e falta de informações sobre o produto… | cvm-pas-sp2014-0383 | fichas/pas/2016-05.md |
+| decisao-colegiado | 19957.002315/2016-96 | 2016-07-12 | parcial | O Colegiado deferiu parcialmente consulta e pedido de dispensa da Inepar S.A. em recuperação judicial e de sua corretora, sobre atuação de… | cvm-col-20160712-d0296 | fichas/colegiado/2016-14.md |
+| termo-compromisso | RJ2016/1262 | 2016-07-12 | rejeitado | O Colegiado, acompanhando o Comitê, rejeitou por unanimidade as propostas de Termo de Compromisso de seis proponentes (uma DTVM, duas… | cvm-col-20160712-d0124 | fichas/tc/2016-03.md |
+| decisao-colegiado | 505/2011; SP2015/0097 | 2016-06-14 | parcial | O Colegiado deferiu parcialmente recurso do Banco Yamaha Motor do Brasil S.A. contra decisão da SMI que negou dispensa da Instrução 505… | cvm-col-20160614-d9646 | fichas/colegiado/2016-12.md |
+| termo-compromisso | SP2015/0193 | 2016-04-19 | aceito | O Colegiado, por unanimidade, aceitou proposta de termo de compromisso da Ágora Corretora de Títulos e Valores Mobiliários - CTVM S.A. no… | cvm-col-20160419-d0181 | fichas/tc/2016-01.md |
+| decisao-colegiado | RJ2015/1295 | 2016-03-08 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2015/1295. | cvm-col-20160308-d0137 | fichas/colegiado/2016-06.md |
+| decisao-colegiado | RJ2015/1264 | 2016-03-08 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2015/1264. | cvm-col-20160308-d0136 | fichas/colegiado/2016-06.md |
+| decisao-colegiado | RJ2014/12861 | 2016-03-08 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2014/12861. | cvm-col-20160308-d0135 | fichas/colegiado/2016-06.md |
+| decisao-colegiado | 19957.002501/2015-44 | 2016-03-01 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.002501/2015-44. | cvm-col-20160301-d0128 | fichas/colegiado/2016-06.md |
+| decisao-colegiado | 19957.002502/2015-99 | 2016-03-01 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.002502/2015-99. | cvm-col-20160301-d0127 | fichas/colegiado/2016-06.md |
+| decisao-colegiado | 19957.003637/2015-71 | 2016-03-01 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.003637/2015-71. | cvm-col-20160301-d0126 | fichas/colegiado/2016-06.md |
+| decisao-colegiado | RJ2015/1322; RJ2015/1324 | 2016-03-01 | nao-provido | Recursos em processos de mecanismo de ressarcimento de prejuízos. Proc. s. RJ2015/1322 e RJ2015/1324. | cvm-col-20160301-d0121 | fichas/colegiado/2016-06.md |
+| decisao-colegiado | 19957.002876/2015-12 | 2016-03-01 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.002876/2015-12. | cvm-col-20160301-d0118 | fichas/colegiado/2016-06.md |
+| decisao-colegiado | 19957.002503/2015-33 | 2016-03-01 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.002503/2015-33. | cvm-col-20160301-d0117 | fichas/colegiado/2016-06.md |
+| decisao-colegiado | 19957.003436/2015-74 | 2016-03-01 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.003436/2015-74. | cvm-col-20160301-d0116 | fichas/colegiado/2016-06.md |
+| decisao-colegiado | 19957.003225/2015-31 | 2016-03-01 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.003225/2015-31. | cvm-col-20160301-d0115 | fichas/colegiado/2016-05.md |
+| acordao-crsfn | SP2004/193 | 2016-02-23 | parcial | RECURSOS VOLUNTÁRIOS - Mercado de valores mobiliários – Contratação de pessoas não autorizadas a intermediar valores mobiliários… | crsfn-11957 | fichas/crsfn/2016-02.md |
+| acordao-crsfn | SP2004/193 | 2016-02-23 | parcial | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Contratação de pessoas não autorizadas a intermediar valores mobiliários… | crsfn-10372-000585-2016-69 | fichas/crsfn/2016-01.md |
+| decisao-colegiado | RJ2015/1321 | 2016-02-16 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2015/1321. | cvm-col-20160216-d0062 | fichas/colegiado/2016-04.md |
+| decisao-colegiado | RJ2015/1289 | 2016-02-16 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2015/1289. | cvm-col-20160216-d0061 | fichas/colegiado/2016-04.md |
+| decisao-colegiado | RJ2014/13277 | 2016-02-16 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2014/13277. | cvm-col-20160216-d0060 | fichas/colegiado/2016-04.md |
+| decisao-colegiado | RJ2014/13157 | 2016-02-16 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2014/13157. | cvm-col-20160216-d0059 | fichas/colegiado/2016-04.md |
+| decisao-colegiado | RJ2013/0267 | 2016-02-11 | parcial | Pedido de reconsideração de decisão do colegiado. Proc. RJ2013/0267. | cvm-col-20160211-d8723 | fichas/colegiado/2016-04.md |
+| decisao-colegiado | RJ2013/0301 | 2016-02-02 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2013/0301. | cvm-col-20160202-d8905 | fichas/colegiado/2016-03.md |
+| decisao-colegiado | 19957.004148/2015-37 | 2016-02-02 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004148/2015-37. | cvm-col-20160202-d0039 | fichas/colegiado/2016-03.md |
+| decisao-colegiado | 19957.004147/2015-92 | 2016-02-02 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004147/2015-92. | cvm-col-20160202-d0038 | fichas/colegiado/2016-03.md |
+| decisao-colegiado | 19957.002720/2015-23 | 2016-02-02 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.002720/2015-23. | cvm-col-20160202-d0037 | fichas/colegiado/2016-03.md |
+| decisao-colegiado | 19957.002964/2015-14 | 2016-02-02 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.002964/2015-14. | cvm-col-20160202-d0035 | fichas/colegiado/2016-02.md |
+| decisao-colegiado | 19957.003248/2015-46 | 2015-11-10 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.003248/2015-46. | cvm-col-20151110-d9921 | fichas/colegiado/2015-21.md |
+| decisao-colegiado | 19957.003228/2015-75 | 2015-11-10 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.003228/2015-75. | cvm-col-20151110-d9920 | fichas/colegiado/2015-21.md |
+| decisao-colegiado | 19957.003103/2015-45 | 2015-11-10 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.003103/2015-45. | cvm-col-20151110-d9919 | fichas/colegiado/2015-21.md |
+| decisao-colegiado | 19957.002365/2015-92 | 2015-11-10 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.002365/2015-92. | cvm-col-20151110-d9918 | fichas/colegiado/2015-21.md |
+| decisao-colegiado | 19957.001513/2015-51 | 2015-11-10 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.001513/2015-51. | cvm-col-20151110-d9917 | fichas/colegiado/2015-21.md |
+| decisao-colegiado | 19957.003104/2015-90 | 2015-11-03 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.003104/2015-90. | cvm-col-20151103-d9909 | fichas/colegiado/2015-20.md |
+| decisao-colegiado | 19957.003089/2015-80 | 2015-10-27 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.003089/2015-80. | cvm-col-20151027-d9903 | fichas/colegiado/2015-20.md |
+| decisao-colegiado | RJ2014/7075 | 2015-10-13 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2014/7075. | cvm-col-20151013-d9276 | fichas/colegiado/2015-19.md |
+| decisao-colegiado | 19957.001431/2015-15 | 2015-10-06 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.001431/2015-15. | cvm-col-20151006-d9875 | fichas/colegiado/2015-18.md |
+| decisao-colegiado | 19957.001096/2015-47 | 2015-10-06 | — | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.001096/2015-47. | cvm-col-20151006-d9874 | fichas/colegiado/2015-18.md |
+| decisao-colegiado | RJ2015/1399 | 2015-09-22 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2015/1399. | cvm-col-20150922-d9848 | fichas/colegiado/2015-17.md |
+| decisao-colegiado | RJ2015/0423 | 2015-09-22 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2015/0423. | cvm-col-20150922-d9840 | fichas/colegiado/2015-17.md |
+| decisao-colegiado | 19957.002647/2015-90 | 2015-09-22 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.002647/2015-90. | cvm-col-20150922-d9839 | fichas/colegiado/2015-17.md |
+| acordao-crsfn | RJ2012/1605 | 2015-09-22 | condenacao | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários - Realização de operações de financiamento sem contrato e em desrespeito aos… | crsfn-13430 | fichas/crsfn/2015-05.md |
+| decisao-colegiado | 19957.002452/2015-40 | 2015-09-08 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.002452/2015-40. | cvm-col-20150908-d9827 | fichas/colegiado/2015-16.md |
+| decisao-colegiado | 19957.002450/2015-51 | 2015-09-08 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.002450/2015-51. | cvm-col-20150908-d9825 | fichas/colegiado/2015-16.md |
+| decisao-colegiado | 19957.002364/2015-48 | 2015-09-01 | conhecimento | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.002364/2015-48. | cvm-col-20150901-d9816 | fichas/colegiado/2015-16.md |
+| decisao-colegiado | 19957.002445/2015-48 | 2015-09-01 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.002445/2015-48. | cvm-col-20150901-d9812 | fichas/colegiado/2015-16.md |
+| decisao-colegiado | RJ2015/1260 | 2015-08-25 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2015/1260. | cvm-col-20150825-d9799 | fichas/colegiado/2015-15.md |
+| decisao-colegiado | 19957.001099/2015-81 | 2015-08-11 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.001099/2015-81. | cvm-col-20150811-d9785 | fichas/colegiado/2015-15.md |
+| decisao-colegiado | RJ2012/8574 | 2015-08-11 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2012/8574. | cvm-col-20150811-d8763 | fichas/colegiado/2015-14.md |
+| decisao-colegiado | RJ2012/14432 | 2015-07-21 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2012/14432. | cvm-col-20150721-d8904 | fichas/colegiado/2015-14.md |
+| decisao-colegiado | 19957.002024/2015-17 | 2015-07-14 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.002024/2015-17. | cvm-col-20150714-d9763 | fichas/colegiado/2015-13.md |
+| decisao-colegiado | 19957.001507/2015-02 | 2015-07-14 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.001507/2015-02. | cvm-col-20150714-d9762 | fichas/colegiado/2015-13.md |
+| decisao-colegiado | 19957.002025/2015-61 | 2015-07-07 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.002025/2015-61. | cvm-col-20150707-d9755 | fichas/colegiado/2015-13.md |
+| decisao-colegiado | RJ2015/1325 | 2015-07-07 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2015/1325. | cvm-col-20150707-d9753 | fichas/colegiado/2015-13.md |
+| pas | SP2012/402 | 2015-07-01 | condenacao | Remuneração por prestação de serviço na qualidade de agente autônomo de investimento. Multa | cvm-pas-sp2012-0402 | fichas/pas/2015-07.md |
+| decisao-colegiado | 19957.001517/2015-30 | 2015-06-30 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.001517/2015-30. | cvm-col-20150630-d9746 | fichas/colegiado/2015-12.md |
+| acordao-crsfn | 06/2009 | 2015-06-30 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Atuação irregular como agente autônomo de investimentos, com… | crsfn-13358 | fichas/crsfn/2015-02.md |
+| acordao-crsfn | RJ2007/14868 | 2015-06-30 | extincao | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Concessão de financiamento sem formalização de contrato – Irregularidades… | crsfn-12077 | fichas/crsfn/2015-02.md |
+| decisao-colegiado | 19957.001535/2015-11 | 2015-06-23 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.001535/2015-11. | cvm-col-20150623-d9721 | fichas/colegiado/2015-11.md |
+| decisao-colegiado | RJ2015/246 | 2015-06-09 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2015/246. | cvm-col-20150609-d9681 | fichas/colegiado/2015-09.md |
+| decisao-colegiado | RJ2013/2125 | 2015-06-09 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2013/2125. | cvm-col-20150609-d9180 | fichas/colegiado/2015-09.md |
+| decisao-colegiado | 19957.001514/2015-04 | 2015-06-02 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.001514/2015-04. | cvm-col-20150602-d9671 | fichas/colegiado/2015-09.md |
+| decisao-colegiado | 19957.001515/2015-41 | 2015-06-02 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.001515/2015-41. | cvm-col-20150602-d9670 | fichas/colegiado/2015-09.md |
+| decisao-colegiado | RJ2013/11191 | 2015-05-26 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2013/11191. | cvm-col-20150526-d9183 | fichas/colegiado/2015-08.md |
+| decisao-colegiado | RJ2015/251 | 2015-05-19 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2015/251. | cvm-col-20150519-d9656 | fichas/colegiado/2015-08.md |
+| decisao-colegiado | RJ2015/0250 | 2015-05-19 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2015/0250. | cvm-col-20150519-d9655 | fichas/colegiado/2015-08.md |
+| termo-compromisso | SP2014/0014 | 2015-05-19 | rejeitado | O Colegiado rejeitou as propostas de termo de compromisso apresentadas pelos quatro proponentes, acompanhando o parecer do Comitê, que… | cvm-col-20150519-d9651 | fichas/tc/2015-02.md |
+| decisao-colegiado | RJ2015/247 | 2015-05-05 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2015/247. | cvm-col-20150505-d9640 | fichas/colegiado/2015-07.md |
+| decisao-colegiado | RJ2015/282 | 2015-05-05 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2015/282. | cvm-col-20150505-d9639 | fichas/colegiado/2015-07.md |
+| decisao-colegiado | RJ2015/1404 | 2015-05-05 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2015/1404. | cvm-col-20150505-d9636 | fichas/colegiado/2015-07.md |
+| decisao-colegiado | RJ2015/0248 | 2015-05-05 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2015/0248. | cvm-col-20150505-d9635 | fichas/colegiado/2015-07.md |
+| decisao-colegiado | RJ2014/12860 | 2015-05-05 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2014/12860. | cvm-col-20150505-d9634 | fichas/colegiado/2015-07.md |
+| decisao-colegiado | RJ2015/1261 | 2015-04-28 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2015/1261. | cvm-col-20150428-d9629 | fichas/colegiado/2015-07.md |
+| decisao-colegiado | RJ2015/1262 | 2015-04-14 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2015/1262. | cvm-col-20150414-d9622 | fichas/colegiado/2015-06.md |
+| decisao-colegiado | RJ2013/9083; RJ2013/9162 | 2015-03-17 | nao-provido | Recursos em processos de mecanismo de ressarcimento de prejuízos. Proc. s. RJ2013/9083 e RJ2013/9162. | cvm-col-20150317-d9198-9199 | fichas/colegiado/2015-05.md |
+| decisao-colegiado | 497/2011; RJ2014/12792 | 2015-03-10 | deferido | O Colegiado aprovou o Programa de Educação Continuada da ANCORD para agentes autônomos de investimento, condicionado às observações da área… | cvm-col-20150310-d8260 | fichas/colegiado/2015-04.md |
+| decisao-colegiado | RJ2013/3510 | 2015-02-10 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2013/3510. | cvm-col-20150210-d9076 | fichas/colegiado/2015-03.md |
+| decisao-colegiado | RJ2014/14384 | 2015-02-03 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2014/14384. | cvm-col-20150203-d9556 | fichas/colegiado/2015-03.md |
+| pas | SP2010/186 | 2015-01-27 | condenacao | Intermediação irregular de operações no mercado de valores mobiliários Descumprimento do dever de diligência. Embaraço à fiscalização… | cvm-pas-sp2010-0186 | fichas/pas/2015-01.md |
+| decisao-colegiado | RJ2014/15012; RJ2014/15013; RJ2014/15014; RJ2014/15032; RJ2014/15039 | 2015-01-27 | provido | Recursos em processos de mecanismo de ressarcimento de prejuízos. Proc. s. RJ2014/15012; RJ2014/15013; RJ2014/15014; RJ2014/15032… | cvm-col-20150127-d9550 | fichas/colegiado/2015-02.md |
+| decisao-colegiado | RJ2013/8546 | 2015-01-27 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2013/8546. | cvm-col-20150127-d9548 | fichas/colegiado/2015-02.md |
+| decisao-colegiado | RJ2014/2606 | 2015-01-27 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2014/2606. | cvm-col-20150127-d9516 | fichas/colegiado/2015-02.md |
+| decisao-colegiado | RJ2014/7074 | 2015-01-21 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2014/7074. | cvm-col-20150121-d9540 | fichas/colegiado/2015-02.md |
+| decisao-colegiado | RJ2014/5766 | 2015-01-06 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2014/5766. | cvm-col-20150106-d9509 | fichas/colegiado/2015-01.md |
+| decisao-colegiado | RJ2014/12862 | 2015-01-06 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2014/12862. | cvm-col-20150106-d9503 | fichas/colegiado/2015-01.md |
+| decisao-colegiado | RJ2014/7529 | 2015-01-06 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2014/7529. | cvm-col-20150106-d9502 | fichas/colegiado/2015-01.md |
+| decisao-colegiado | RJ2014/6264 | 2015-01-06 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2014/6264. | cvm-col-20150106-d9500 | fichas/colegiado/2015-01.md |
+| decisao-colegiado | RJ2014/4244 | 2015-01-06 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2014/4244. | cvm-col-20150106-d9499 | fichas/colegiado/2015-01.md |
+| decisao-colegiado | RJ2014/3897 | 2015-01-06 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2014/3897. | cvm-col-20150106-d9498 | fichas/colegiado/2015-01.md |
+| decisao-colegiado | RJ2012/10928 | 2014-12-09 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2012/10928. | cvm-col-20141209-d16 | fichas/colegiado/2014-25.md |
+| decisao-colegiado | 539/2013; RJ2011/1898 | 2014-12-03 | deferido | O Colegiado deferiu o pedido da ANBIMA de prorrogação da entrada em vigor da Instrução CVM 539/2013 (suitability), que passará a valer… | cvm-col-20141203-d01 | fichas/colegiado/2014-25.md |
+| decisao-colegiado | RJ2014/3941 | 2014-12-02 | deferido | O Colegiado aprovou o Projeto de Modernização do Exame de Certificação de Agente Autônomo de Investimento apresentado pela ANCORD (art. 19… | cvm-col-20141202-d19 | fichas/colegiado/2014-24.md |
+| termo-compromisso | RJ2013/2758 | 2014-12-02 | outro | O Colegiado, acompanhando o Comitê, aceitou oito propostas de termo de compromisso por irregularidades na intermediação, com pagamentos de… | cvm-col-20141202-d10 | fichas/tc/2014-04.md |
+| decisao-colegiado | RJ2014/2113 | 2014-11-18 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2014/2113. | cvm-col-20141118-d07 | fichas/colegiado/2014-22.md |
+| decisao-colegiado | RJ2013/2697 | 2014-11-11 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2013/2697. | cvm-col-20141111-d07 | fichas/colegiado/2014-21.md |
+| termo-compromisso | SP2011/0260 | 2014-11-04 | aceito | O Colegiado aceitou, por unanimidade, a proposta de termo de compromisso da corretora Um Investimentos e de um diretor responsável… | cvm-col-20141104-d05 | fichas/tc/2014-03.md |
+| decisao-colegiado | RJ2014/7076 | 2014-10-29 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2014/7076. | cvm-col-20141029-d01-r2 | fichas/colegiado/2014-20.md |
+| acordao-crsfn | 0002/2009 | 2014-10-21 | outro | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Concessão irregular de financiamento para realização de operações no mercado de opções… | crsfn-13527 | fichas/crsfn/2014-07.md |
+| acordao-crsfn | SP2010/0001 | 2014-10-21 | condenacao | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Falhas em registros de ordens de operações – Falta de indicação de horário de… | crsfn-13329 | fichas/crsfn/2014-07.md |
+| decisao-colegiado | RJ2013/2596 | 2014-09-16 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2013/2596. | cvm-col-20140916-d04 | fichas/colegiado/2014-18.md |
+| decisao-colegiado | RJ2013/2422 | 2014-08-19 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2013/2422. | cvm-col-20140819-d11 | fichas/colegiado/2014-15.md |
+| decisao-colegiado | RJ2014/4245 | 2014-08-12 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2014/4245. | cvm-col-20140812-d12 | fichas/colegiado/2014-15.md |
+| decisao-colegiado | RJ2014/3922 | 2014-08-12 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2014/3922. | cvm-col-20140812-d11 | fichas/colegiado/2014-15.md |
+| decisao-colegiado | RJ2013/8640 | 2014-08-05 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2013/8640. | cvm-col-20140805-d06 | fichas/colegiado/2014-14.md |
+| termo-compromisso | SP2013/0157 | 2014-08-05 | aceito | O Colegiado aceitou, acompanhando o Comitê, proposta de termo de compromisso da Terra Investimentos Corretora de Mercadorias Ltda. e de um… | cvm-col-20140805-d02 | fichas/tc/2014-02.md |
+| decisao-colegiado | — | 2014-07-22 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. | cvm-col-20140722-d05 | fichas/colegiado/2014-14.md |
+| acordao-crsfn | RJ-2007-14708 | 2014-07-22 | arquivamento | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Sociedade corretora - Concessão de financiamentos para compra de ações sem… | crsfn-13230 | fichas/crsfn/2014-05.md |
+| decisao-colegiado | RJ2013/3347 | 2014-07-15 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2013/3347. | cvm-col-20140715-d13 | fichas/colegiado/2014-13.md |
+| decisao-colegiado | RJ2013/8558 | 2014-06-10 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2013/8558. | cvm-col-20140610-d13 | fichas/colegiado/2014-12.md |
+| decisao-colegiado | RJ2014/2597 | 2014-06-03 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2014/2597. | cvm-col-20140603-d05 | fichas/colegiado/2014-11.md |
+| decisao-colegiado | RJ2013/2487 | 2014-06-03 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2013/2487. | cvm-col-20140603-d04 | fichas/colegiado/2014-11.md |
+| decisao-colegiado | RJ2013/1771 | 2014-06-03 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2013/1771. | cvm-col-20140603-d03 | fichas/colegiado/2014-11.md |
+| decisao-colegiado | RJ2013/7086 | 2014-05-20 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2013/7086. | cvm-col-20140520-d01 | fichas/colegiado/2014-09.md |
+| acordao-crsfn | 12/06 | 2014-05-13 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Intermediação de contratos futuros de índice Ibovespa (IND)… | crsfn-13263 | fichas/crsfn/2014-04.md |
+| decisao-colegiado | RJ2012/14720 | 2014-05-06 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2012/14720. | cvm-col-20140506-d10 | fichas/colegiado/2014-08.md |
+| decisao-colegiado | RJ2012/14404 | 2014-05-06 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2012/14404. | cvm-col-20140506-d09 | fichas/colegiado/2014-08.md |
+| termo-compromisso | RJ2013/10791 | 2014-04-15 | rejeitado | O Colegiado rejeitou, por unanimidade, três propostas de Termo de Compromisso, de uma sociedade e seu sócio administrador, de uma pessoa… | cvm-col-20140415-d01 | fichas/tc/2014-01.md |
+| decisao-colegiado | SP2009/0025 | 2014-04-08 | nao-provido | O Colegiado, por unanimidade, manteve o arquivamento pela SMI de reclamação contra a Planner Corretora de Valores S.A. e seu preposto, por… | cvm-col-20140408-d02 | fichas/colegiado/2014-06.md |
+| decisao-colegiado | RJ2013/7203 | 2014-03-25 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2013/7203. | cvm-col-20140325-d06 | fichas/colegiado/2014-05.md |
+| decisao-colegiado | RJ2013/2278 | 2014-03-18 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2013/2278. | cvm-col-20140318-d11 | fichas/colegiado/2014-05.md |
+| decisao-colegiado | RJ2013/10105; RJ2013/10789; RJ2013/10936 | 2014-03-18 | nao-provido | Recursos em processo de mecanismo de ressarcimento de prejuízos. Proc. s. RJ2013/10105, RJ2013/10789 e RJ2013/10936. | cvm-col-20140318-d10 | fichas/colegiado/2014-05.md |
+| decisao-colegiado | RJ2013/0267 | 2014-03-18 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2013/0267. | cvm-col-20140318-d09 | fichas/colegiado/2014-05.md |
+| decisao-colegiado | RJ2012/3842 | 2014-03-11 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2012/3842. | cvm-col-20140311-d02 | fichas/colegiado/2014-04.md |
+| decisao-colegiado | RJ2013/1914 | 2014-02-25 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2013/1914. | cvm-col-20140225-d22 | fichas/colegiado/2014-04.md |
+| decisao-colegiado | RJ2013/2027 | 2014-02-18 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2013/2027. | cvm-col-20140218-d03 | fichas/colegiado/2014-03.md |
+| decisao-colegiado | RJ2013/0275 | 2014-02-11 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2013/0275. | cvm-col-20140211-d05 | fichas/colegiado/2014-03.md |
+| decisao-colegiado | RJ2012/14743 | 2014-01-07 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2012/14743. | cvm-col-20140107-d03 | fichas/colegiado/2014-01.md |
+| decisao-colegiado | RJ2010/14527 | 2013-12-17 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2010/14527. | cvm-col-20131217-d22 | fichas/colegiado/2013-24.md |
+| decisao-colegiado | RJ2012/14319 | 2013-12-17 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2012/14319. | cvm-col-20131217-d21 | fichas/colegiado/2013-24.md |
+| decisao-colegiado | RJ2012/7123 | 2013-12-17 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2012/7123. | cvm-col-20131217-d03 | fichas/colegiado/2013-23.md |
+| decisao-colegiado | RJ2012/1976 | 2013-12-03 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2012/1976. | cvm-col-20131203-d07 | fichas/colegiado/2013-23.md |
+| termo-compromisso | RJ2012/3796 | 2013-11-12 | rejeitado | O Colegiado rejeitou, acompanhando o Comitê, a nova proposta de termo de compromisso de um diretor de corretora, de pagar R$ 200.000,00… | cvm-col-20131112-d01 | fichas/tc/2013-05.md |
+| decisao-colegiado | RJ2012/13328 | 2013-10-29 | outro | O Colegiado tornou sem efeito decisão da SMI que indeferiu pedido de suspensão de registro de agente autônomo de investimentos e remeteu os… | cvm-col-20131029-d16 | fichas/colegiado/2013-21.md |
+| decisao-colegiado | RJ2012/4162 | 2013-10-29 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2012/4162. | cvm-col-20131029-d15 | fichas/colegiado/2013-21.md |
+| pas | SP2010/266 | 2013-10-15 | condenacao | [pessoa física] Irregularidades no registro de ordens de operações day-trade. – Registro de ordens sem a identificação do cliente final… | cvm-pas-sp2010-0266 | fichas/pas/2013-09.md |
+| decisao-colegiado | RJ2013/4048 | 2013-10-15 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2013/4048. | cvm-col-20131015-d07 | fichas/colegiado/2013-19.md |
+| decisao-colegiado | RJ2012/2904 | 2013-10-08 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2012/2904. | cvm-col-20131008-d10 | fichas/colegiado/2013-19.md |
+| decisao-colegiado | RJ2012/0251; RJ2012/0252 | 2013-09-17 | nao-provido | Recursos em processo de mecanismo de ressarcimento de prejuízos. Proc. s. RJ2012/0251 e RJ2012/0252. | cvm-col-20130917-d08 | fichas/colegiado/2013-17.md |
+| decisao-colegiado | RJ2012/7465 | 2013-09-10 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2012/7465. | cvm-col-20130910-d11 | fichas/colegiado/2013-17.md |
+| decisao-colegiado | RJ2012/8806 | 2013-07-30 | provido | O Colegiado deferiu recurso de agente autônomo de investimento contra decisão da SMI que cancelou seu registro em março de 2012… | cvm-col-20130730-d14 | fichas/colegiado/2013-14.md |
+| decisao-colegiado | RJ2013/0267 | 2013-07-23 | outro | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2013/0267. | cvm-col-20130723-d04 | fichas/colegiado/2013-13.md |
+| decisao-colegiado | RJ2012/3951 | 2013-07-23 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2012/3951. | cvm-col-20130723-d03 | fichas/colegiado/2013-13.md |
+| decisao-colegiado | RJ2012/10919 | 2013-07-09 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2012/10919. | cvm-col-20130709-d05 | fichas/colegiado/2013-13.md |
+| decisao-colegiado | 497/2011; SP2013/0225 | 2013-05-28 | outro | O Colegiado concordou, por unanimidade, com a interpretação do inciso VIII do art. 13 da Instrução CVM 497/11 proposta por SMI e SIN… | cvm-col-20130528-d07 | fichas/colegiado/2013-11.md |
+| decisao-colegiado | 505/2011; SP2013/0219 | 2013-05-28 | outro | O Colegiado acompanhou a SMI (Relatório/SMI/Nº 020/2013) em consultas sobre diretor de controles internos (art. 4º da Instrução CVM… | cvm-col-20130528-d06 | fichas/colegiado/2013-11.md |
+| termo-compromisso | SP2011/0099 | 2013-05-28 | aceito | O Colegiado aceitou nova proposta de termo de compromisso da TOV Corretora de Câmbio, Títulos e Valores Mobiliários Ltda. e de seu diretor… | cvm-col-20130528-d03 | fichas/tc/2013-02.md |
+| decisao-colegiado | RJ2012/3913 | 2013-05-07 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2012/3913. | cvm-col-20130507-d08 | fichas/colegiado/2013-10.md |
+| decisao-colegiado | RJ2012/2908 | 2013-04-09 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2012/2908. | cvm-col-20130409-d04 | fichas/colegiado/2013-08.md |
+| decisao-colegiado | RJ2012/2907 | 2013-04-09 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2012/2907. | cvm-col-20130409-d03 | fichas/colegiado/2013-08.md |
+| decisao-colegiado | RJ2012/4161 | 2013-02-05 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2012/4161. | cvm-col-20130205-d10 | fichas/colegiado/2013-04.md |
+| decisao-colegiado | 505/2011; 506/2011; RJ2013/1139 | 2013-01-29 | outro | O Colegiado, em consulta da ANBIMA sobre as Instruções CVM 505/11 e 506/11, decidiu pela inaplicabilidade ao mercado secundário de cotas de… | cvm-col-20130129-d04 | fichas/colegiado/2013-03.md |
+| acordao-crsfn | SP-2001-0799 | 2013-01-10 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Sociedade distribuidora - Intermediação indevida em negócios com… | crsfn-10461 | fichas/crsfn/2013-01.md |
+| pas | 30/2005 | 2012-12-11 | parcial | REFER realização de práticas não equitativas e operações fraudulentas no mercado de valores mobiliários – falta de diligência no… | cvm-pas-30-2005 | fichas/pas/2012-06.md |
+| decisao-colegiado | RJ2012/10733 | 2012-12-11 | nao-provido | O Colegiado negou provimento ao recurso contra o indeferimento pela SMI de pedido de autorização para agente autônomo de investimento, por… | cvm-col-20121211-d42 | fichas/colegiado/2012-24.md |
+| decisao-colegiado | RJ2012/7158 | 2012-11-22 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2012/7158. | cvm-col-20121122-d10 | fichas/colegiado/2012-21.md |
+| decisao-colegiado | RJ2012/12237 | 2012-11-22 | provido | O Colegiado deferiu, por unanimidade, recurso contra decisão da SMI que indeferiu autorização de agente autônomo de investimento, por… | cvm-col-20121122-d09 | fichas/colegiado/2012-21.md |
+| decisao-colegiado | SP2012/0342 | 2012-11-13 | provido | O Colegiado, por unanimidade, deferiu o recurso da Marsam DTVM contra a SMI, que negara dispensa do art. 4º, II, da ICVM 505/11 (diretor… | cvm-col-20121113-d01 | fichas/colegiado/2012-21.md |
+| decisao-colegiado | SP2012/0342 | 2012-10-30 | — | Recurso da Marsam DTVM contra decisão da SMI sobre pedido de dispensa do cumprimento do art. 4º, II, da ICVM 505/11. Julgamento suspenso… | cvm-col-20121030-d09 | fichas/colegiado/2012-20.md |
+| decisao-colegiado | RJ2012/3922 | 2012-10-23 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2012/3922. | cvm-col-20121023-d10 | fichas/colegiado/2012-19.md |
+| decisao-colegiado | 505/2011; SP2012/0139 | 2012-09-18 | outro | Pedido de alteração do artigo 37 da instrução CVM 505/2011. Proc. SP2012/0139. | cvm-col-20120918-d09 | fichas/colegiado/2012-17.md |
+| decisao-colegiado | RJ2012/0259 | 2012-09-18 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2012/0259. | cvm-col-20120918-d03 | fichas/colegiado/2012-17.md |
+| decisao-colegiado | RJ2012/0259 | 2012-09-04 | — | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2012/0259. | cvm-col-20120904-d16 | fichas/colegiado/2012-16.md |
+| decisao-colegiado | SP2011/0215 | 2012-09-04 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2011/0215. | cvm-col-20120904-d15 | fichas/colegiado/2012-15.md |
+| decisao-colegiado | SP2011/0072 | 2012-09-04 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2011/0072. | cvm-col-20120904-d14 | fichas/colegiado/2012-15.md |
+| decisao-colegiado | RJ2012/1974 | 2012-08-28 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2012/1974. | cvm-col-20120828-d17 | fichas/colegiado/2012-15.md |
+| decisao-colegiado | SP2010/0052 | 2012-08-28 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2010/0052. | cvm-col-20120828-d16 | fichas/colegiado/2012-15.md |
+| decisao-colegiado | SP2007/0050 | 2012-08-28 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2007/0050. | cvm-col-20120828-d15 | fichas/colegiado/2012-15.md |
+| decisao-colegiado | SP2007/0049 | 2012-08-28 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2007/0049. | cvm-col-20120828-d14 | fichas/colegiado/2012-15.md |
+| decisao-colegiado | SP2007/0047 | 2012-08-28 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2007/0047. | cvm-col-20120828-d13 | fichas/colegiado/2012-15.md |
+| decisao-colegiado | SP2007/0046 | 2012-08-28 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2007/0046. | cvm-col-20120828-d12 | fichas/colegiado/2012-15.md |
+| decisao-colegiado | SP2007/0045 | 2012-08-28 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2007/0045. | cvm-col-20120828-d11 | fichas/colegiado/2012-15.md |
+| decisao-colegiado | SP2007/0043 | 2012-08-28 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2007/0043. | cvm-col-20120828-d10 | fichas/colegiado/2012-14.md |
+| decisao-colegiado | SP2007/0042 | 2012-08-28 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2007/0042. | cvm-col-20120828-d09 | fichas/colegiado/2012-14.md |
+| decisao-colegiado | SP2007/0041 | 2012-08-28 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2007/0041. | cvm-col-20120828-d08 | fichas/colegiado/2012-14.md |
+| decisao-colegiado | SP2007/0040 | 2012-08-28 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2007/0040. | cvm-col-20120828-d07 | fichas/colegiado/2012-14.md |
+| decisao-colegiado | SP2010/0051 | 2012-08-28 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2010/0051. | cvm-col-20120828-d06 | fichas/colegiado/2012-14.md |
+| decisao-colegiado | RJ2012/6514 | 2012-08-28 | deferido | O Colegiado concedeu à ANCORD autorização para atuar como entidade credenciadora de agentes autônomos de investimento, a partir de… | cvm-col-20120828-d04 | fichas/colegiado/2012-14.md |
+| decisao-colegiado | RJ2010/14209 | 2012-08-21 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2010/14209. | cvm-col-20120821-d14 | fichas/colegiado/2012-14.md |
+| decisao-colegiado | RJ2012/2032 | 2012-08-21 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2012/2032. | cvm-col-20120821-d11 | fichas/colegiado/2012-14.md |
+| decisao-colegiado | SP2010/0197 | 2012-08-21 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2010/0197. | cvm-col-20120821-d10 | fichas/colegiado/2012-14.md |
+| decisao-colegiado | RJ2010/10274 | 2012-08-21 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2010/10274. | cvm-col-20120821-d09 | fichas/colegiado/2012-14.md |
+| decisao-colegiado | RJ2012/6514 | 2012-08-21 | — | Autorização para a ANCORD atuar como entidade credenciadora de agentes autônomos de investimento. O Colegiado deu continuidade à discussão… | cvm-col-20120821-d02 | fichas/colegiado/2012-14.md |
+| decisao-colegiado | RJ2010/11959 | 2012-08-14 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2010/11959. | cvm-col-20120814-d07 | fichas/colegiado/2012-13.md |
+| decisao-colegiado | RJ2010/12289 | 2012-08-14 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2010/12289. | cvm-col-20120814-d06 | fichas/colegiado/2012-13.md |
+| decisao-colegiado | RJ2010/12288 | 2012-08-14 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2010/12288. | cvm-col-20120814-d05 | fichas/colegiado/2012-13.md |
+| decisao-colegiado | RJ2010/12286 | 2012-08-14 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2010/12286. | cvm-col-20120814-d04 | fichas/colegiado/2012-13.md |
+| decisao-colegiado | RJ2010/17051 | 2012-08-07 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2010/17051. | cvm-col-20120807-d05 | fichas/colegiado/2012-13.md |
+| decisao-colegiado | RJ2010/14211 | 2012-07-31 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2010/14211. | cvm-col-20120731-d06 | fichas/colegiado/2012-13.md |
+| decisao-colegiado | RJ2012/6514 | 2012-07-24 | — | Pedido de autorização para a Ancord atuar como entidade credenciadora de agentes autônomos de investimento. O Colegiado deu início à… | cvm-col-20120724-d01 | fichas/colegiado/2012-12.md |
+| decisao-colegiado | RJ2012/1605 | 2012-07-10 | nao-provido | Recurso contra decisão da SMI em processo de rito sumário. PAS RJ2012/1605. | cvm-col-20120710-d07 | fichas/colegiado/2012-12.md |
+| decisao-colegiado | RJ2010/10836 | 2012-07-10 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2010/10836. | cvm-col-20120710-d06 | fichas/colegiado/2012-12.md |
+| decisao-colegiado | SP2011/0295 | 2012-07-10 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2011/0295. | cvm-col-20120710-d05 | fichas/colegiado/2012-12.md |
+| termo-compromisso | SP2007/0140 | 2012-07-10 | aceito | O Colegiado aceitou nova proposta de termo de compromisso, apresentada em conjunto pela Alpes Corretora e por um dos acusados (PAS… | cvm-col-20120710-d03 | fichas/tc/2012-04.md |
+| acordao-crsfn | RJ-2007-14710 | 2012-07-05 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Realização de operações de financiamento sem formalização de contrato… | crsfn-12758 | fichas/crsfn/2012-03.md |
+| decisao-colegiado | RJ2010/13966 | 2012-07-03 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2010/13966. | cvm-col-20120703-d24 | fichas/colegiado/2012-11.md |
+| termo-compromisso | SP2011/0099 | 2012-07-03 | rejeitado | O Colegiado rejeitou proposta conjunta de termo de compromisso de R$ 45.000,00 de uma corretora e de seu diretor responsável pelas… | cvm-col-20120703-d07 | fichas/tc/2012-03.md |
+| decisao-colegiado | RJ2010/10275 | 2012-06-19 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2010/10275. | cvm-col-20120619-d07 | fichas/colegiado/2012-10.md |
+| decisao-colegiado | RJ2010/11962 | 2012-06-12 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2010/11962. | cvm-col-20120612-d03 | fichas/colegiado/2012-10.md |
+| decisao-colegiado | RJ2011/3414 | 2012-06-05 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2011/3414. | cvm-col-20120605-d04 | fichas/colegiado/2012-10.md |
+| decisao-colegiado | RJ2010/13179 | 2012-05-29 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2010/13179. | cvm-col-20120529-d03 | fichas/colegiado/2012-10.md |
+| decisao-colegiado | RJ2010/12838 | 2012-05-22 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2010/12838. | cvm-col-20120522-d06 | fichas/colegiado/2012-10.md |
+| decisao-colegiado | SP2010/0167 | 2012-05-15 | nao-provido | Pedido de reconsideração de decisão do colegiado. Proc. SP2010/0167. | cvm-col-20120515-d03 | fichas/colegiado/2012-09.md |
+| decisao-colegiado | SP2010/0223 | 2012-05-08 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2010/0223. | cvm-col-20120508-d05 | fichas/colegiado/2012-09.md |
+| decisao-colegiado | SP2010/0222 | 2012-05-08 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2010/0222. | cvm-col-20120508-d04 | fichas/colegiado/2012-09.md |
+| decisao-colegiado | SP2011/0214 | 2012-05-02 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2011/0214. | cvm-col-20120502-d03 | fichas/colegiado/2012-08.md |
+| decisao-colegiado | RJ2011/14524 | 2012-04-17 | nao-provido | O Colegiado negou provimento a recurso contra o indeferimento, pela SMI, do credenciamento de agente autônomo de investimento. O pedido de… | cvm-col-20120417-d08 | fichas/colegiado/2012-07.md |
+| decisao-colegiado | RJ2011/11225 | 2012-04-17 | conhecimento | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2011/11225. | cvm-col-20120417-d07 | fichas/colegiado/2012-07.md |
+| decisao-colegiado | SP2011/0184 | 2012-04-17 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2011/0184. | cvm-col-20120417-d06 | fichas/colegiado/2012-07.md |
+| decisao-colegiado | RJ2011/6992 | 2012-04-17 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SMI que indeferiu autorização de agente autônomo de investimento por falta de… | cvm-col-20120417-d05 | fichas/colegiado/2012-07.md |
+| acordao-crsfn | RJ-2005-7521 | 2012-04-16 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Irregularidades em operações financeiras e na venda de ações de companhia mineradora… | crsfn-11831 | fichas/crsfn/2012-02.md |
+| decisao-colegiado | RJ2010/17052 | 2012-04-10 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2010/17052. | cvm-col-20120410-d05 | fichas/colegiado/2012-07.md |
+| decisao-colegiado | SP2011/0197 | 2012-04-03 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2011/0197. | cvm-col-20120403-d04 | fichas/colegiado/2012-06.md |
+| decisao-colegiado | SP2010/0169 | 2012-04-03 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2010/0169. | cvm-col-20120403-d03 | fichas/colegiado/2012-06.md |
+| decisao-colegiado | RJ2010/10272 | 2012-03-27 | provido | Pedido de reconsideração de decisão do colegiado. Proc. RJ2010/10272. | cvm-col-20120327-d10 | fichas/colegiado/2012-06.md |
+| termo-compromisso | SP2006/0137 | 2012-03-27 | aceito | O Colegiado aceitou nova proposta de termo de compromisso da Ativa S.A. Corretora de Títulos, Câmbio e Valores e de um diretor, no total de… | cvm-col-20120327-d09 | fichas/tc/2012-02.md |
+| decisao-colegiado | RJ2010/10273 | 2012-03-20 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2010/10273. | cvm-col-20120320-d05 | fichas/colegiado/2012-05.md |
+| decisao-colegiado | SP2007/0056 | 2012-02-23 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2007/0056. | cvm-col-20120223-d23 | fichas/colegiado/2012-04.md |
+| decisao-colegiado | SP2007/0055 | 2012-02-23 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2007/0055. | cvm-col-20120223-d22 | fichas/colegiado/2012-04.md |
+| decisao-colegiado | SP2007/0054 | 2012-02-23 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2007/0054. | cvm-col-20120223-d21 | fichas/colegiado/2012-04.md |
+| decisao-colegiado | SP2007/0053 | 2012-02-23 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2007/0053. | cvm-col-20120223-d20 | fichas/colegiado/2012-04.md |
+| decisao-colegiado | SP2007/0052 | 2012-02-23 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2007/0052. | cvm-col-20120223-d19 | fichas/colegiado/2012-04.md |
+| decisao-colegiado | SP2007/0051 | 2012-02-23 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2007/0051. | cvm-col-20120223-d18 | fichas/colegiado/2012-04.md |
+| decisao-colegiado | SP2007/0044 | 2012-02-23 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2007/0044. | cvm-col-20120223-d17 | fichas/colegiado/2012-04.md |
+| decisao-colegiado | SP2007/0039 | 2012-02-23 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2007/0039. | cvm-col-20120223-d16 | fichas/colegiado/2012-04.md |
+| decisao-colegiado | SP2007/0038 | 2012-02-23 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2007/0038. | cvm-col-20120223-d15 | fichas/colegiado/2012-03.md |
+| decisao-colegiado | SP2007/0037 | 2012-02-23 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2007/0037. | cvm-col-20120223-d14 | fichas/colegiado/2012-03.md |
+| decisao-colegiado | RJ2011/10371 | 2012-01-17 | deferido | O Colegiado autorizou a Brum Investimentos a exercer a atividade de agente autônomo de investimentos, por entender que a vedação do art… | cvm-col-20120117-d08 | fichas/colegiado/2012-01.md |
+| decisao-colegiado | SP2007/0147 | 2012-01-17 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2007/0147. | cvm-col-20120117-d07 | fichas/colegiado/2012-01.md |
+| acordao-crsfn | 30/00 | 2012-01-10 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Aquisição, no mercado de balcão não organizado, de forma… | crsfn-11634 | fichas/crsfn/2012-01.md |
+| decisao-colegiado | — | 2011-12-20 | outro | O Colegiado aprovou alteração da Instrução CVM 497/11, sobre agente autônomo de investimento: ajusta o § 2º do art. 13 para abranger todos… | cvm-col-20111220-d01 | fichas/colegiado/2011-29.md |
+| decisao-colegiado | RJ2009/6905 | 2011-12-13 | nao-provido | O Colegiado, acompanhando o voto do relator, negou provimento a recurso de pessoa física contra decisão da SMI que indeferiu pedido de… | cvm-col-20111213-d10 | fichas/colegiado/2011-29.md |
+| decisao-colegiado | RJ2010/10835 | 2011-11-29 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2010/10835. | cvm-col-20111129-d01 | fichas/colegiado/2011-26.md |
+| decisao-colegiado | RJ2010/16961 | 2011-11-16 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2010/16961. | cvm-col-20111116-d10 | fichas/colegiado/2011-25.md |
+| decisao-colegiado | RJ2010/14526 | 2011-10-25 | conhecimento | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2010/14526. | cvm-col-20111025-d10 | fichas/colegiado/2011-23.md |
+| decisao-colegiado | RJ2010/15872 | 2011-10-25 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2010/15872. | cvm-col-20111025-d09 | fichas/colegiado/2011-23.md |
+| decisao-colegiado | RJ2010/10271 | 2011-10-19 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2010/10271. | cvm-col-20111019-d10 | fichas/colegiado/2011-22.md |
+| decisao-colegiado | RJ2010/9625 | 2011-10-19 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2010/9625. | cvm-col-20111019-d09 | fichas/colegiado/2011-22.md |
+| decisao-colegiado | RJ2010/3347 | 2011-10-11 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2010/3347. | cvm-col-20111011-d03 | fichas/colegiado/2011-21.md |
+| decisao-colegiado | RJ2010/10272 | 2011-09-20 | — | Pedido de reconsideração de decisão do colegiado. Proc. RJ2010/10272. | cvm-col-20110920-d02 | fichas/colegiado/2011-18.md |
+| decisao-colegiado | SP2010/0171 | 2011-09-06 | conhecimento | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2010/0171. | cvm-col-20110906-d23 | fichas/colegiado/2011-18.md |
+| decisao-colegiado | SP2010/0170 | 2011-09-06 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2010/0170. | cvm-col-20110906-d22 | fichas/colegiado/2011-18.md |
+| decisao-colegiado | SP2010/0167 | 2011-09-06 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2010/0167. | cvm-col-20110906-d20 | fichas/colegiado/2011-18.md |
+| decisao-colegiado | SP2010/0053 | 2011-09-06 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2010/0053. | cvm-col-20110906-d19 | fichas/colegiado/2011-18.md |
+| decisao-colegiado | SP2010/0050 | 2011-08-30 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2010/0050. | cvm-col-20110830-d03 | fichas/colegiado/2011-17.md |
+| acordao-crsfn | SP-2003-0489 | 2011-08-30 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Agente autônomo – Realização de operações fraudulentas… | crsfn-10984 | fichas/crsfn/2011-03.md |
+| pas | RJ2007/4414 | 2011-08-16 | condenacao | BÔNUS-BANVAL Contratação de pessoas não autorizadas ou registradas na CVM para intermediação de negócios envolvendo valores mobiliários… | cvm-pas-rj2007-4414 | fichas/pas/2011-03.md |
+| decisao-colegiado | SP2010/0135 | 2011-08-16 | outro | O Colegiado determinou o arquivamento do PAS SP2010/0135, por cumprimento dos termos de compromisso firmados pela Fator S.A. Corretora de… | cvm-col-20110816-d18 | fichas/colegiado/2011-16.md |
+| decisao-colegiado | SP2010/0284 | 2011-08-16 | provido | O Colegiado deu provimento a recurso da Itaú Corretora contra decisão da SMI e autorizou a implementação do Projeto Cadastro Automatizado… | cvm-col-20110816-d03 | fichas/colegiado/2011-16.md |
+| termo-compromisso | SP2010/0266 | 2011-06-28 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso da Elite Corretora de Câmbio e Valores Mobiliários Ltda. e de seu diretor… | cvm-col-20110628-d02 | fichas/tc/2011-03.md |
+| termo-compromisso | RJ2010/17024 | 2011-06-28 | rejeitado | O Colegiado rejeitou proposta conjunta de termo de compromisso de corretora e de diretor responsável pela Instrução CVM 387/03 (registro de… | cvm-col-20110628-d01 | fichas/tc/2011-03.md |
+| decisao-colegiado | RJ2010/15204 | 2011-05-10 | outro | O Colegiado decidiu que o Banco do Brasil pode operar em nome próprio, sem intermediário, operações compromissadas com valores distribuídos… | cvm-col-20110510-d09 | fichas/colegiado/2011-10.md |
+| termo-compromisso | SP2010/0135 | 2011-05-10 | aceito | O Colegiado aceitou as propostas de Termo de Compromisso da Fator S.A. Corretora de Valores e de um diretor responsável, de R$ 200.000,00… | cvm-col-20110510-d06 | fichas/tc/2011-02.md |
+| decisao-colegiado | 03/2010; SP2010/0038 | 2011-05-04 | — | O Colegiado deu início ao exame dos comentários recebidos na Audiência Pública SDM 03/2010 sobre a regulamentação do agente autônomo de… | cvm-col-20110504-d03 | fichas/colegiado/2011-10.md |
+| decisao-colegiado | RJ2010/15204 | 2011-04-12 | — | Consulta do Banco do Brasil sobre atuação direta, sem intermediário, em operações compromissadas com valores mobiliários distribuídos com… | cvm-col-20110412-d03 | fichas/colegiado/2011-09.md |
+| decisao-colegiado | RJ2010/3345 | 2011-04-05 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2010/3345. | cvm-col-20110405-d12 | fichas/colegiado/2011-08.md |
+| termo-compromisso | SP2010/0178 | 2011-04-05 | rejeitado | O Colegiado rejeitou as propostas de termo de compromisso da Cruzeiro do Sul S.A. Corretora e de seu diretor (R$ 200.000,00 cada, total R$… | cvm-col-20110405-d02 | fichas/tc/2011-02.md |
+| decisao-colegiado | RJ2010/11758 | 2011-03-29 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2010/11758. | cvm-col-20110329-d02 | fichas/colegiado/2011-07.md |
+| pas | SP2010/001 | 2011-03-22 | condenacao | UM Investimentos S/A Registro de operações no mercado de valores mobiliários sem a indicação do horário de seu recebimento e sem a… | cvm-pas-sp2010-0001 | fichas/pas/2011-01.md |
+| acordao-crsfn | RJ-2007-0974 | 2011-01-26 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários - Contratação de agentes autônomos de investimento estendida a… | crsfn-11954 | fichas/crsfn/2011-01.md |
+| decisao-colegiado | RJ2010/3348 | 2011-01-11 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2010/3348. | cvm-col-20110111-d06 | fichas/colegiado/2011-01.md |
+| acordao-crsfn | RJ-2004-2870 | 2010-12-13 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Transferência ilícita de ações de propriedade de empresas mediante uso de procurações… | crsfn-11749 | fichas/crsfn/2010-10.md |
+| pas | 12/2006 | 2010-12-08 | parcial | DIMARCO Não cumprimento das regras de conduta e das regras e parâmetros relativos à atuação como corretora de mercadorias. Exercício da… | cvm-pas-12-2006 | fichas/pas/2010-11.md |
+| decisao-colegiado | RJ2010/11958 | 2010-12-07 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2010/11958. | cvm-col-20101207-d40 | fichas/colegiado/2010-28.md |
+| pas | 02/2009 | 2010-12-01 | absolvicao | UMUARAMA Concessão de financiamento para realização de operações no mercado de valores mobiliários. – Absolvições. | cvm-pas-02-2009 | fichas/pas/2010-10.md |
+| decisao-colegiado | RJ2010/10272 | 2010-11-16 | conhecimento | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2010/10272. | cvm-col-20101116-d06 | fichas/colegiado/2010-24.md |
+| decisao-colegiado | RJ2010/13557 | 2010-11-16 | nao-provido | O Colegiado negou provimento a recurso da recorrente, pessoa física, contra decisão da SMI que indeferiu autorização para agente autônomo… | cvm-col-20101116-d05 | fichas/colegiado/2010-24.md |
+| decisao-colegiado | RJ2007/14708 | 2010-10-19 | provido | Recurso de ofício da SMI em processo de rito sumário. PAS RJ2007/14708. | cvm-col-20101019-d08 | fichas/colegiado/2010-21.md |
+| decisao-colegiado | SP2009/0102 | 2010-10-05 | outro | Consulta: os serviços que a ICAP do Brasil propôs a clientes não residentes não encontram óbice na legislação nem exigem autorização da… | cvm-col-20101005-d03 | fichas/colegiado/2010-20.md |
+| decisao-colegiado | SP2000/0379 | 2010-09-21 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2000/0379. | cvm-col-20100921-d14 | fichas/colegiado/2010-19.md |
+| termo-compromisso | SP2010/0001 | 2010-09-21 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de R$ 150.000,00, de três proponentes (R$ 50.000,00 cada), em PAS por registro de… | cvm-col-20100921-d04 | fichas/tc/2010-05.md |
+| termo-compromisso | RJ2010/4159 | 2010-09-21 | aceito | O Colegiado, por maioria, aceitou as novas propostas de termo de compromisso da Ágora Corretora e de seu diretor responsável, de R$… | cvm-col-20100921-d01 | fichas/tc/2010-04.md |
+| decisao-colegiado | SP2010/0092 | 2010-09-09 | provido | Recurso em processo de fundo de garantia. Proc. SP2010/0092. | cvm-col-20100909-d13 | fichas/colegiado/2010-19.md |
+| decisao-colegiado | RJ2010/2739 | 2010-09-09 | nao-provido | Recurso em processo de fundo de garantia. Proc. RJ2010/2739. | cvm-col-20100909-d12 | fichas/colegiado/2010-19.md |
+| decisao-colegiado | SP2009/0198 | 2010-09-09 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2009/0198. | cvm-col-20100909-d11 | fichas/colegiado/2010-19.md |
+| decisao-colegiado | SP2010/0036 | 2010-08-31 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2010/0036. | cvm-col-20100831-d06 | fichas/colegiado/2010-18.md |
+| decisao-colegiado | RJ2010/3996 | 2010-08-17 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2010/3996. | cvm-col-20100817-d03 | fichas/colegiado/2010-17.md |
+| decisao-colegiado | SP2010/0079 | 2010-08-17 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2010/0079. | cvm-col-20100817-d02 | fichas/colegiado/2010-17.md |
+| decisao-colegiado | RJ2010/7086 | 2010-08-10 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2010/7086. | cvm-col-20100810-d11 | fichas/colegiado/2010-17.md |
+| acordao-crsfn | SP-2002-63 | 2010-07-28 | parcial | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários - Realização de operações em bolsa de valores - Intermediação no… | crsfn-11179 | fichas/crsfn/2010-07.md |
+| acordao-crsfn | RJ-2005-3304 | 2010-07-28 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Contratação de agente autônomo de investimento sem estar o profissional devidamente… | crsfn-10851 | fichas/crsfn/2010-06.md |
+| decisao-colegiado | SP2010/0066 | 2010-07-27 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2010/0066. | cvm-col-20100727-d05 | fichas/colegiado/2010-16.md |
+| decisao-colegiado | SP2010/0062 | 2010-07-06 | nao-provido | O Colegiado negou provimento a recurso de investidor contra decisão da SMI que indeferiu a divulgação, por corretoras de home broker, de… | cvm-col-20100706-d03 | fichas/colegiado/2010-15.md |
+| termo-compromisso | RJ2010/4159 | 2010-06-29 | rejeitado | O Colegiado rejeitou propostas de termo de compromisso da Ágora e de um diretor responsável, de R$ 100.000,00 cada, por não serem… | cvm-col-20100629-d05 | fichas/tc/2010-03.md |
+| termo-compromisso | RJ2009/5744 | 2010-06-22 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso da Fator S.A. Corretora de Valores, de R$ 10.000,00, por não ser proporcional à… | cvm-col-20100622-d04 | fichas/tc/2010-03.md |
+| acordao-crsfn | SP-2004-185 | 2010-06-22 | condenacao | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Contratação - Atuação de administrador de carteira e de agente autônomo sem… | crsfn-11328 | fichas/crsfn/2010-06.md |
+| decisao-colegiado | RJ2010/3346 | 2010-06-15 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2010/3346. | cvm-col-20100615-d08 | fichas/colegiado/2010-14.md |
+| decisao-colegiado | SP2009/0194 | 2010-06-08 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2009/0194. | cvm-col-20100608-d03 | fichas/colegiado/2010-14.md |
+| acordao-crsfn | SP-2004-0543 | 2010-06-08 | condenacao | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Falta de confirmação sobre legitimidade de ordens de negociação… | crsfn-11255 | fichas/crsfn/2010-05.md |
+| decisao-colegiado | RJ2010/2753 | 2010-06-01 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2010/2753. | cvm-col-20100601-d06 | fichas/colegiado/2010-13.md |
+| decisao-colegiado | SP2010/0065 | 2010-05-25 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2010/0065. | cvm-col-20100525-d07 | fichas/colegiado/2010-13.md |
+| decisao-colegiado | SP2009/0196 | 2010-05-11 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2009/0196. | cvm-col-20100511-d05 | fichas/colegiado/2010-12.md |
+| acordao-crsfn | SP–2001-0204 | 2010-04-29 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários - Exercício de práticas vedadas a agente autônomo – Irregularidade não caracterizada… | crsfn-11241 | fichas/crsfn/2010-03.md |
+| decisao-colegiado | SP2009/0195 | 2010-03-30 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2009/0195. | cvm-col-20100330-d10 | fichas/colegiado/2010-10.md |
+| decisao-colegiado | RJ2009/9679 | 2010-02-09 | nao-provido | O Colegiado indeferiu recurso contra decisão da SMI que negou autorização a agente autônomo de investimento, por duas inabilitações de um… | cvm-col-20100209-d14 | fichas/colegiado/2010-05.md |
+| decisao-colegiado | RJ2009/10132 | 2009-12-08 | nao-provido | O Colegiado negou provimento ao recurso contra decisão da SMI que indeferiu autorização de agente autônomo de investimento, porque o exame… | cvm-col-20091208-d02 | fichas/colegiado/2009-22.md |
+| termo-compromisso | SP2008/0040 | 2009-11-24 | aceito | O Colegiado aceitou a proposta conjunta de termo de compromisso da Pax Corretora de Valores e Câmbio Ltda., da Renda Corretora de… | cvm-col-20091124-d09 | fichas/tc/2009-08.md |
+| decisao-colegiado | RJ2009/3776 | 2009-11-17 | nao-provido | O Colegiado negou provimento ao recurso contra decisão da SMI que indeferiu autorização para atuar como agente autônomo de investimento… | cvm-col-20091117-d19 | fichas/colegiado/2009-20.md |
+| decisao-colegiado | SP2009/0001 | 2009-11-17 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2009/0001. | cvm-col-20091117-d18 | fichas/colegiado/2009-20.md |
+| termo-compromisso | RJ2004/4457 | 2009-10-27 | aceito | O Colegiado aceitou proposta de termo de compromisso da Ágora CTVM S.A., acompanhando o parecer do Comitê, em PAS por operações no mercado… | cvm-col-20091027-d08 | fichas/tc/2009-07.md |
+| decisao-colegiado | SP2009/0010 | 2009-10-13 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2009/0010. | cvm-col-20091013-d01 | fichas/colegiado/2009-17.md |
+| decisao-colegiado | RJ2009/5844 | 2009-10-06 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SMI que indeferiu novo registro de agente autônomo de investimento, por falta de… | cvm-col-20091006-d05 | fichas/colegiado/2009-17.md |
+| decisao-colegiado | RJ2007/14710 | 2009-09-29 | nao-provido | Recurso de ofício da SMI em processo de rito sumário. | cvm-col-20090929-d07 | fichas/colegiado/2009-17.md |
+| decisao-colegiado | SP2007/0183 | 2009-08-04 | indeferido | O Colegiado indeferiu o pedido do Banco de Desenvolvimento de Minas Gerais S.A. de registro para atuar na distribuição primária e… | cvm-col-20090804-d05 | fichas/colegiado/2009-14.md |
+| decisao-colegiado | SP2009/0009 | 2009-06-30 | nao-provido | Pedido de reconsideração de decisão do colegiado. Proc. SP2009/0009. | cvm-col-20090630-d02 | fichas/colegiado/2009-12.md |
+| termo-compromisso | RJ2008/12293 | 2009-06-23 | aceito | O Colegiado aceitou proposta de termo de compromisso de R$ 100.000,00 da SOCOPA Sociedade Corretora Paulista S.A., acusada de não… | cvm-col-20090623-d10 | fichas/tc/2009-04.md |
+| acordao-crsfn | SP2003-288 | 2009-05-21 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Falta de devida diligência por parte dos intermediários no trato com… | crsfn-6352 | fichas/crsfn/2009-03.md |
+| pas | SP2007/0167 | 2009-04-07 | parcial | UMUARAMA S/A CTVM Concessão de financiamento para operações no mercado de valores mobiliários em condições diversas das previstas na… | cvm-pas-sp2007-0167 | fichas/pas/2009-02.md |
+| decisao-colegiado | RJ2006/3312 | 2009-04-07 | nao-provido | Pedido de reconsideração de decisão do colegiado em processo de fundo de garantia. Proc. RJ2006/3312. | cvm-col-20090407-d02 | fichas/colegiado/2009-06.md |
+| decisao-colegiado | SP2009/0009 | 2009-03-31 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2009/0009. | cvm-col-20090331-d06 | fichas/colegiado/2009-05.md |
+| termo-compromisso | SP2006/0137 | 2009-03-31 | rejeitado | O Colegiado, por unanimidade, rejeitou a nova proposta de termo de compromisso da Ativa S.A. CTVM e de um diretor, de R$ 80.000,00 (R$… | cvm-col-20090331-d02 | fichas/tc/2009-02.md |
+| decisao-colegiado | SP2008/0297 | 2009-03-17 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2008/0297. | cvm-col-20090317-d04 | fichas/colegiado/2009-04.md |
+| decisao-colegiado | RJ2008/10799 | 2009-03-03 | nao-provido | O Colegiado negou recurso contra indeferimento de registro de agente autônomo pela SMI, por falta de conclusão do ensino médio (art. 5º, I… | cvm-col-20090303-d08 | fichas/colegiado/2009-03.md |
+| acordao-crsfn | SP2003/0446 | 2009-02-16 | condenacao | RECURSOS VOLUNTÁRIOS – Mercado de valores mobiliários – Exercício de atividade privativa de agente autônomo de investimento credenciado… | crsfn-6188 | fichas/crsfn/2009-01.md |
+| decisao-colegiado | SP2009/0012 | 2009-02-10 | deferido | O Colegiado aprovou o pedido da BM&FBovespa para que sociedades distribuidoras de valores mobiliários operem em ambientes administrados por… | cvm-col-20090210-d07 | fichas/colegiado/2009-02.md |
+| decisao-colegiado | SP2006/0101 | 2009-02-10 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2006/0101. | cvm-col-20090210-d06 | fichas/colegiado/2009-02.md |
+| decisao-colegiado | SP2006/0104 | 2009-02-10 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2006/0104. | cvm-col-20090210-d05 | fichas/colegiado/2009-02.md |
+| decisao-colegiado | RJ2008/9985 | 2009-02-03 | nao-provido | Por unanimidade, o Colegiado negou provimento a recurso contra indeferimento pela SMI do registro de agente autônomo de investimento, por… | cvm-col-20090203-d09 | fichas/colegiado/2009-02.md |
+| decisao-colegiado | SP2006/0102 | 2009-02-03 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2006/0102. | cvm-col-20090203-d08 | fichas/colegiado/2009-02.md |
+| decisao-colegiado | SP2006/0103 | 2009-02-03 | parcial | Recurso em processo de fundo de garantia. Proc. SP2006/0103. | cvm-col-20090203-d07 | fichas/colegiado/2009-02.md |
+| decisao-colegiado | SP2006/0106 | 2009-02-03 | provido | Recurso em processo de fundo de garantia. Proc. SP2006/0106. | cvm-col-20090203-d06 | fichas/colegiado/2009-02.md |
+| decisao-colegiado | SP2008/0154 | 2009-02-03 | parcial | Recurso em processo de fundo de garantia. Proc. SP2008/0154. | cvm-col-20090203-d01 | fichas/colegiado/2009-01.md |
+| decisao-colegiado | RJ2008/11733 | 2008-12-16 | nao-provido | O Colegiado negou provimento ao recurso contra decisão da SMI que indeferiu recredenciamento como agente autônomo de investimento… | cvm-col-20081216-d13 | fichas/colegiado/2008-28.md |
+| decisao-colegiado | SP2006/0105 | 2008-12-02 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2006/0105. | cvm-col-20081202-d06 | fichas/colegiado/2008-27.md |
+| termo-compromisso | SP2006/0137 | 2008-11-25 | rejeitado | O Colegiado rejeitou a proposta conjunta de termo de compromisso da Ativa S.A. CTVM e de seu diretor (R$ 30.000,00 cada, total de R$… | cvm-col-20081125-d05 | fichas/tc/2008-07.md |
+| acordao-crsfn | SP-2002-493 | 2008-11-19 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Indevida atuação no sistema de intermediação – Realização de operações… | crsfn-9540 | fichas/crsfn/2008-07.md |
+| decisao-colegiado | RJ2006/3312 | 2008-11-18 | nao-provido | Recurso em processo de fundo de garantia. Proc. RJ2006/3312. | cvm-col-20081118-d07 | fichas/colegiado/2008-25.md |
+| termo-compromisso | RJ2007/14710 | 2008-11-11 | outro | O Colegiado alterou os compromitentes do termo de compromisso aprovado em 27.05.08 no PAS RJ2007/14710 (Unibanco Investshop CVMC S.A.)… | cvm-col-20081111-d03 | fichas/tc/2008-07.md |
+| decisao-colegiado | SP2008/0060 | 2008-10-21 | deferido | Consulta relativa à negociação de valores mobiliários por meio eletrônico. Proc. SP2008/0060. | cvm-col-20081021-d09 | fichas/colegiado/2008-23.md |
+| acordao-crsfn | 06/95 | 2008-08-28 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Falta de apresentação, à autoridade supervisora de documentos relativos… | crsfn-8544 | fichas/crsfn/2008-05.md |
+| decisao-colegiado | RJ2007/14868 | 2008-07-22 | nao-provido | Recurso contra decisão da SMI em processo de rito sumário. PAS RJ2007/14868. | cvm-col-20080722-d22 | fichas/colegiado/2008-16.md |
+| decisao-colegiado | SP2006/0211 | 2008-07-22 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2006/0211. | cvm-col-20080722-d10 | fichas/colegiado/2008-16.md |
+| decisao-colegiado | SP2007/0199 | 2008-07-15 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2007/0199. | cvm-col-20080715-d10 | fichas/colegiado/2008-15.md |
+| pas | 01/2006 | 2008-07-01 | condenacao | Bonus-Banval Commoditieso Integrantes do sistema de distribuição de valores mobiliários, pessoas não integrantes deste sistema, ou, ainda… | cvm-pas-01-2006 | fichas/pas/2008-04.md |
+| acordao-crsfn | SP-2004-113 | 2008-06-24 | arquivamento | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Falta de confirmação sobre a legitimidade das ordens de negociação – Inconsistência de… | crsfn-7529 | fichas/crsfn/2008-03.md |
+| termo-compromisso | RJ2007/14710 | 2008-05-27 | aceito | O Colegiado aceitou a proposta de Termo de Compromisso da Unibanco Investshop CVMC S.A. e de seu diretor (PAS RJ2007/14710), acompanhando o… | cvm-col-20080527-d02 | fichas/tc/2008-04.md |
+| pas | SP2006/0168 | 2008-05-14 | condenacao | [pessoa física] e Pax Corretora de Valores e Câmbio Ltda. As sociedades corretoras e distribuidoras, sempre que efetuarem pagamento em… | cvm-pas-sp2006-0168 | fichas/pas/2008-03.md |
+| decisao-colegiado | SP2007/0201 | 2008-05-13 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2007/0201. | cvm-col-20080513-d05 | fichas/colegiado/2008-11.md |
+| acordao-crsfn | 2004/123 | 2008-04-28 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Vendas de ações à revelia do proprietário (espólio) – Atuação diligente dos indiciados… | crsfn-6186 | fichas/crsfn/2008-02.md |
+| acordao-crsfn | 02-7539 | 2008-04-28 | parcial | RECURSOS VOLUNTÁRIO E DE OFÍCIO – Mercado de valores mobiliários – Falta de comunicação, à autoridade fiscalizadora, de realização de… | crsfn-5590 | fichas/crsfn/2008-02.md |
+| decisao-colegiado | RJ2006/8252 | 2008-04-15 | nao-provido | Recurso em processo de fundo de garantia. Proc. RJ2006/8252. | cvm-col-20080415-d04 | fichas/colegiado/2008-09.md |
+| acordao-crsfn | SP-2003-148 | 2008-04-11 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Negociação de ações mediante uso de falsas procurações e falsos… | crsfn-5662 | fichas/crsfn/2008-02.md |
+| pas | RJ2007/0974 | 2008-01-16 | parcial | Estratégia Investimentos S/A Corretora de Valores e Câmbio - A atividade profissional de agente autônomo de investimento somente pode ser… | cvm-pas-rj2007-0974 | fichas/pas/2008-01.md |
+| decisao-colegiado | SP2007/0116 | 2007-12-18 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2007/0116. | cvm-col-20071218-d13 | fichas/colegiado/2007-25.md |
+| decisao-colegiado | RJ2005/4555 | 2007-12-11 | outro | Com as confirmações da SAD e da SMI de que o termo de compromisso aprovado em 06.03.07 foi cumprido na forma convencionada e não há… | cvm-col-20071211-d03 | fichas/colegiado/2007-24.md |
+| decisao-colegiado | SP2006/0137 | 2007-12-04 | outro | O Colegiado aprovou a recapitulação das infrações imputadas à Ativa S.A. CTVM e a seu diretor responsável, nos termos do voto do relator… | cvm-col-20071204-d5492 | fichas/colegiado/2007-24.md |
+| termo-compromisso | SP2006/0168 | 2007-12-04 | rejeitado | O Colegiado, por maioria, rejeitou proposta de termo de compromisso da PAX Corretora de Valores e Câmbio Ltda. e de seu diretor responsável… | cvm-col-20071204-d02 | fichas/tc/2007-06.md |
+| termo-compromisso | RJ2006/3616 | 2007-12-04 | aceito | O Colegiado aceitou nova proposta de termo de compromisso da Estratégia Investimentos S.A. CVC e de seu diretor, acompanhando o parecer do… | cvm-col-20071204-d01 | fichas/tc/2007-06.md |
+| pas | RJ2006/5853 | 2007-10-23 | absolvicao | Improcedência de todas as imputações de responsabilidade por supostas infrações à Instrução CVM nº40/84, tendo em vista que os clubes de… | cvm-pas-rj2006-5853 | fichas/pas/2007-13.md |
+| acordao-crsfn | RJ-2004/3169 | 2007-09-27 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Realização de operações por meio de corretora que não a sociedade controlada pelo… | crsfn-7351 | fichas/crsfn/2007-02.md |
+| decisao-colegiado | RJ2005/2502 | 2007-09-18 | parcial | Recurso em processo de fundo de garantia. Proc. RJ2005/2502. | cvm-col-20070918-d09 | fichas/colegiado/2007-17.md |
+| pas | RJ2005/7521 | 2007-08-21 | absolvicao | Suposta infração ao disposto nos incisos I, II, III e IV do art. 1º da Instrução CVM nº 220/94. Absolvições. | cvm-pas-rj2005-7521 | fichas/pas/2007-11.md |
+| termo-compromisso | 01/2006 | 2007-08-21 | rejeitado | O Colegiado, por unanimidade, rejeitou propostas de termo de compromisso da Planner Corretora de Valores S.A. e de seu diretor de ações, de… | cvm-col-20070821-d04 | fichas/tc/2007-04.md |
+| decisao-colegiado | SP2006/0180 | 2007-08-14 | provido | Recurso em processo de fundo de garantia. Proc. SP2006/0180. | cvm-col-20070814-d02 | fichas/colegiado/2007-14.md |
+| decisao-colegiado | RJ2007/7034 | 2007-08-07 | nao-provido | O Colegiado negou provimento a recurso de pessoa física contra decisão da SMI que indeferiu seu registro como agente autônomo de… | cvm-col-20070807-d07 | fichas/colegiado/2007-14.md |
+| decisao-colegiado | RJ2007/5903 | 2007-08-07 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SMI que indeferiu registro de agente autônomo de investimento por falta de… | cvm-col-20070807-d05 | fichas/colegiado/2007-14.md |
+| termo-compromisso | 10/2005 | 2007-08-07 | aceito | O Colegiado aceitou propostas de termo de compromisso da Opportunity DTVM Ltda. e de um proponente pessoa física, rejeitou a de outro… | cvm-col-20070807-d01-r2 | fichas/tc/2007-04.md |
+| pas | SP2005/0338 | 2007-07-03 | absolvicao | Preterimento na distribuição de negócios, no sentido de terem sido atribuídos os melhores preços para a empresa Ações e Opções Agentes de… | cvm-pas-sp2005-0338 | fichas/pas/2007-08.md |
+| termo-compromisso | 06/2004 | 2007-07-03 | aceito | O Colegiado aceitou nova proposta de termo de compromisso, de R$ 110 mil à vista, apresentada pela São Paulo Corretora de Valores Ltda. e… | cvm-col-20070703-d06 | fichas/tc/2007-03.md |
+| termo-compromisso | SP2005/0338 | 2007-07-03 | aceito | O Colegiado aceitou nova proposta de Termo de Compromisso da EGEMP Gestão Patrimonial Ltda. (ex-Égide CTVM) e de outro proponente… | cvm-col-20070703-d04 | fichas/tc/2007-03.md |
+| decisao-colegiado | RJ2006/5499 | 2007-06-12 | outro | Acompanhando o relator, o Colegiado entendeu, contra a interpretação da SMI, que a pessoa jurídica de agente autônomo pode ter sócios não… | cvm-col-20070612-d05 | fichas/colegiado/2007-09.md |
+| acordao-crsfn | RJ-2002-08509 | 2007-04-25 | condenacao | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Financiamento de saldos devedores de responsabilidade de cliente sem prévia… | crsfn-6311 | fichas/crsfn/2007-01.md |
+| decisao-colegiado | RJ2005/8000 | 2007-02-05 | outro | O Colegiado aprovou minuta de deliberação que determina a imediata suspensão das atividades de intermediação da Acquajoin Camarões do… | cvm-col-20070205-d07 | fichas/colegiado/2007-02.md |
+| decisao-colegiado | RJ2006/9208 | 2007-01-09 | outro | O Colegiado acompanhou o voto do relator e respondeu afirmativamente à consulta da SIN: administrador de carteira que não atue como agente… | cvm-col-20070109-d07 | fichas/colegiado/2007-01.md |
+| termo-compromisso | 06/2004 | 2007-01-03 | aceito | O Colegiado acolheu o parecer do Comitê: rejeitou as propostas da São Paulo CV S.A. e da Forte S.A. CCTVM e outros, e aceitou a de um… | cvm-col-20070103-d01 | fichas/tc/2007-01.md |
+| decisao-colegiado | SP2006/0077 | 2006-12-19 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2006/0077. | cvm-col-20061219-d14 | fichas/colegiado/2006-20.md |
+| decisao-colegiado | RJ2006/0495 | 2006-12-19 | nao-provido | Recurso contra decisão da SMI em processo de rito sumário. | cvm-col-20061219-d04 | fichas/colegiado/2006-20.md |
+| decisao-colegiado | RJ2006/7510 | 2006-12-05 | nao-provido | O Colegiado negou provimento a recurso e manteve a decisão da SMI que indeferiu autorização para agente autônomo, por falta de aprovação em… | cvm-col-20061205-d18 | fichas/colegiado/2006-19.md |
+| termo-compromisso | 12/2004 | 2006-11-07 | rejeitado | O Colegiado indeferiu nova proposta de termo de compromisso da Ipanema S.A. CCTVM (atual Forte S/A CCTVM) e de um acusado, em inquérito… | cvm-col-20061107-d04 | fichas/tc/2006-06.md |
+| decisao-colegiado | SP2001/0204 | 2006-10-31 | nao-provido | Recurso de ofício em processo de rito sumário. | cvm-col-20061031-d06 | fichas/colegiado/2006-16.md |
+| pas | 30/2000 | 2006-10-17 | parcial | Aquisição no mercado de balcão não organizado, sistemática e habitualmente, de ações admitidas à negociação em bolsa de valores, em… | cvm-pas-30-2000 | fichas/pas/2006-21.md |
+| decisao-colegiado | RJ2006/6823 | 2006-09-19 | outro | O Colegiado decidiu, em consulta da SMI, manter a exigência da denominação “Agente Autônomo de Investimentos” para agentes autônomos pessoa… | cvm-col-20060919-d05 | fichas/colegiado/2006-14.md |
+| decisao-colegiado | RJ2005/1382 | 2006-09-11 | outro | O Colegiado aprovou, com pequenos ajustes, minuta de deliberação que determina a imediata suspensão das atividades de intermediação de duas… | cvm-col-20060911-d02 | fichas/colegiado/2006-14.md |
+| termo-compromisso | RJ2005/9001 | 2006-08-29 | rejeitado | O Colegiado rejeitou a proposta de Termo de Compromisso da BRB DTVM S.A. e de seu diretor, em PAS por uso indevido de recursos de… | cvm-col-20060829-d04 | fichas/tc/2006-04.md |
+| pas | 03/1995 | 2006-08-22 | parcial | Operação de day-trade: quebra de prioridade na execução de ordens de venda registradas no mesmo horário, em infração à alínea a do inciso… | cvm-pas-03-1995 | fichas/pas/2006-15.md |
+| decisao-colegiado | RJ2005/1595 | 2006-08-22 | nao-provido | Recurso em processo de fundo de garantia. Proc. RJ2005/1595. | cvm-col-20060822-d06 | fichas/colegiado/2006-13.md |
+| termo-compromisso | 30/2000 | 2006-08-22 | rejeitado | O Colegiado indeferiu as propostas de termo de compromisso dos acusados no PAS 30/2000 (Agenda, Égide, Senior e seus diretores), sobre… | cvm-col-20060822-d03 | fichas/tc/2006-04.md |
+| acordao-crsfn | SP2002/0098 | 2006-08-18 | absolvicao | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Falta de diligência no cadastramento de clientes e na verificação de procurações e… | crsfn-5596 | fichas/crsfn/2006-01.md |
+| decisao-colegiado | SP2005/0148 | 2006-08-15 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2005/0148. | cvm-col-20060815-d09 | fichas/colegiado/2006-13.md |
+| decisao-colegiado | SP2006/0056 | 2006-08-15 | provido | Recurso em processo de fundo de garantia. Proc. SP2006/0056. | cvm-col-20060815-d08 | fichas/colegiado/2006-13.md |
+| decisao-colegiado | SP2005/0209 | 2006-08-01 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2005/0209. | cvm-col-20060801-d13 | fichas/colegiado/2006-12.md |
+| decisao-colegiado | SP2005/0368 | 2006-08-01 | provido | Recurso em processo de fundo de garantia. Proc. SP2005/0368. | cvm-col-20060801-d06 | fichas/colegiado/2006-12.md |
+| decisao-colegiado | SP2006/0077 | 2006-08-01 | provido | Recurso em processo de fundo de garantia. Proc. SP2006/0077. | cvm-col-20060801-d05 | fichas/colegiado/2006-12.md |
+| termo-compromisso | 12/2004 | 2006-08-01 | aceito | O Colegiado, por maioria, acompanhou o voto do relator e indeferiu quatro das cinco propostas de Termo de Compromisso em inquérito… | cvm-col-20060801-d02 | fichas/tc/2006-03.md |
+| decisao-colegiado | RJ2004/0469; RJ2003/12851 | 2006-07-18 | nao-provido | Acompanhando o relator, o Colegiado negou provimento a recurso contra negativa de autorização a agente autônomo, mantendo a decisão da SMI… | cvm-col-20060718-d01 | fichas/colegiado/2006-11.md |
+| decisao-colegiado | RJ2004/3034 | 2006-06-20 | outro | O Colegiado ratificou o texto da área técnica, com as alterações determinadas em 13.02.06, e aprovou a edição de Instrução que dispõe sobre… | cvm-col-20060620-d07 | fichas/colegiado/2006-09.md |
+| decisao-colegiado | SP2005/0311 | 2006-06-20 | indeferido | O Colegiado não acolheu nova proposta da Bovespa de envio eletrônico, em alternativa ao correio, do Aviso de Negociação de Ações, dos… | cvm-col-20060620-d03 | fichas/colegiado/2006-09.md |
+| pas | SP2005/0371 | 2006-06-14 | parcial | Não manutenção de cadastro de cliente atualizado, em suposta infração ao art. 3º da Instrução CVM nº 220/94. Absolvição. - Intermediação de… | cvm-pas-sp2005-0371 | fichas/pas/2006-12.md |
+| decisao-colegiado | RJ2005/2919 | 2006-06-13 | nao-provido | Recurso contra decisão da SMI em processo de rito sumário. PAS RJ2005/2919. | cvm-col-20060613-d06 | fichas/colegiado/2006-09.md |
+| pas | 22/1996 | 2006-05-03 | parcial | Ocorrência de operações fraudulentas no mercado de valores mobiliários, definidas na alínea “c” do item II e vedadas pelo item I, ambos da… | cvm-pas-22-1996 | fichas/pas/2006-07.md |
+| decisao-colegiado | SP2005/0238 | 2006-05-03 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2005/0238. | cvm-col-20060503-d03 | fichas/colegiado/2006-07.md |
+| termo-compromisso | SP2005/0339 | 2006-04-04 | aceito | O Colegiado aceitou proposta de Termo de Compromisso da Égide CTVM Ltda. e de seu diretor responsável, acompanhando o parecer do Comitê… | cvm-col-20060404-d06 | fichas/tc/2006-02.md |
+| decisao-colegiado | RJ2002/8494 | 2006-04-04 | nao-provido | Recurso em processo de fundo de garantia. Proc. RJ2002/8494. | cvm-col-20060404-d01 | fichas/colegiado/2006-05.md |
+| decisao-colegiado | RJ2005/9128 | 2006-03-07 | nao-provido | O Colegiado indeferiu pedido de reconsideração de decisão de 03/01/2006 que negou provimento a recurso contra indeferimento de inscrição… | cvm-col-20060307-d07 | fichas/colegiado/2006-05.md |
+| decisao-colegiado | RJ2005/8832 | 2006-03-07 | outro | Em consulta da SMI, o Colegiado entendeu que o prazo de 30 dias do art. 6º da Instrução CVM 424/05 valia só para instituições que… | cvm-col-20060307-d05 | fichas/colegiado/2006-04.md |
+| decisao-colegiado | RJ2003/5746 | 2006-03-07 | nao-provido | O Colegiado, acompanhando o relator, rejeitou o terceiro pedido de reconsideração de decisão que indeferiu ressarcimento pelo Fundo de… | cvm-col-20060307-d03 | fichas/colegiado/2006-04.md |
+| decisao-colegiado | SP2003/0298 | 2006-02-21 | parcial | Recurso em processo de fundo de garantia. Proc. SP2003/0298. | cvm-col-20060221-d08 | fichas/colegiado/2006-04.md |
+| decisao-colegiado | RJ2005/8988 | 2006-02-15 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SMI que indeferiu novo pedido de autorização para agente autônomo de investimento… | cvm-col-20060215-d13 | fichas/colegiado/2006-03.md |
+| decisao-colegiado | RJ2002/7824 | 2006-02-15 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SGE que não instaurou procedimento contra instituições financeiras e agência de… | cvm-col-20060215-d04 | fichas/colegiado/2006-03.md |
+| decisao-colegiado | RJ2005/9129 | 2006-01-31 | nao-provido | O Colegiado negou provimento a recurso contra a SMI que indeferiu autorização para agente autônomo de investimento por falta de aprovação… | cvm-col-20060131-d05 | fichas/colegiado/2006-02.md |
+| decisao-colegiado | SP2006/0008 | 2006-01-24 | deferido | O Colegiado autorizou operações na Bovespa de pessoas vinculadas à ING CCT S.A. por outras corretoras, pois o art. 15 da Instrução 387/03… | cvm-col-20060124-d11 | fichas/colegiado/2006-02.md |
+| decisao-colegiado | RJ2005/8901 | 2006-01-24 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SMI que indeferiu autorização para agente autônomo de investimento por falta de… | cvm-col-20060124-d10 | fichas/colegiado/2006-02.md |
+| decisao-colegiado | RJ2005/9128 | 2006-01-03 | nao-provido | O Colegiado negou provimento a recurso de pessoa física contra decisão da SMI que negou autorização para atuar como agente autônomo, por… | cvm-col-20060103-d08 | fichas/colegiado/2006-01.md |
+| decisao-colegiado | SP2005/0303 | 2006-01-03 | outro | O Colegiado aprovou minuta de deliberação que determina a suspensão imediata das atividades de intermediação da Tropical Flora… | cvm-col-20060103-d06 | fichas/colegiado/2006-01.md |
+| pas | SP2002/049 | 2005-11-30 | parcial | Imputação de infração ao item I da Instrução CVM nº 08/79: absolvição. - Imputação de infração ao art.1º da Instrução CVM nº 33/84… | cvm-pas-sp2002-0049 | fichas/pas/2005-17.md |
+| pas | SP2001/0799 | 2005-11-30 | parcial | Descumprimento dos arts. 4º e 5º da Instrução CVM nº 220/94 e do art. 36 da Resolução CMN nº 1.656/89. Multa. - Descumprimento do art. 16… | cvm-pas-sp2001-0799 | fichas/pas/2005-17.md |
+| decisao-colegiado | RJ2005/7049 | 2005-11-17 | provido | O Colegiado deu provimento a recurso contra indeferimento pela SMI de autorização para agente autônomo de investimento por falta de ensino… | cvm-col-20051117-d03 | fichas/colegiado/2005-17.md |
+| decisao-colegiado | RJ2003/5746 | 2005-11-08 | nao-provido | Novo pedido de reconsideração de decisão do colegiado em processo de fundo de garantia. Proc. RJ2003/5746. | cvm-col-20051108-d01 | fichas/colegiado/2005-16.md |
+| decisao-colegiado | RJ2005/5308 | 2005-10-18 | outro | O Colegiado aprovou a minuta de Deliberação apresentada pela área técnica que suspende as atividades de intermediação e análise de valores… | cvm-col-20051018-d09 | fichas/colegiado/2005-15.md |
+| decisao-colegiado | SP2004/0067 | 2005-10-18 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2004/0067. | cvm-col-20051018-d04 | fichas/colegiado/2005-15.md |
+| decisao-colegiado | RJ2001/8273 | 2005-10-04 | provido | O Colegiado deu provimento a recurso contra decisão da SMI que negou autorização de agente autônomo de investimento por falta de reputação… | cvm-col-20051004-d08 | fichas/colegiado/2005-14.md |
+| termo-compromisso | SP2002/0049 | 2005-10-04 | rejeitado | O Colegiado negou a celebração de termo de compromisso proposto pela Umuarama CTVM S.A. e por seu diretor responsável pelo mercado… | cvm-col-20051004-d01 | fichas/tc/2005-02.md |
+| termo-compromisso | RJ2004/5891 | 2005-09-20 | aceito | O Colegiado aprovou a celebração de termo de compromisso com a Panamericano DTVM S.A. e outro, com as alterações do voto do relator… | cvm-col-20050920-d02 | fichas/tc/2005-02.md |
+| decisao-colegiado | SP2004/0210 | 2005-08-23 | parcial | Recurso em processo de fundo de garantia. Proc. SP2004/0210. | cvm-col-20050823-d01 | fichas/colegiado/2005-12.md |
+| decisao-colegiado | SP2004/0360 | 2005-08-16 | nao-provido | Pedido de reconsideração de decisão do colegiado em processo de fundo de garantia. Proc. SP2004/0360. | cvm-col-20050816-d02 | fichas/colegiado/2005-12.md |
+| decisao-colegiado | RJ2004/5689; RJ2004/1286 | 2005-07-26 | provido | O Colegiado reconsiderou decisão de 11.01.05 que indeferira autorização para agente autônomo de investimento por falta de reputação… | cvm-col-20050726-d01 | fichas/colegiado/2005-11.md |
+| decisao-colegiado | 387/2003; SP2005/0258 | 2005-07-21 | deferido | O Colegiado atendeu consulta do Citibank CCTVM e autorizou operações na Bovespa de pessoas vinculadas por outras corretoras, pois o art. 15… | cvm-col-20050721-d02 | fichas/colegiado/2005-10.md |
+| decisao-colegiado | RJ2003/5746 | 2005-07-05 | nao-provido | Pedido de reconsideração de decisão do colegiado em processo de fundo de garantia. Proc. RJ2003/5746. | cvm-col-20050705-d03 | fichas/colegiado/2005-10.md |
+| acordao-crsfn | 11/98 | 2005-06-28 | condenacao | RECURSO VOLUNTÁRIO - . Mercado de valores mobiliários – Indevida movimentação da custódia de valores mobiliários de clientes – Ausência de… | crsfn-4995 | fichas/crsfn/2005-02.md |
+| decisao-colegiado | SP2004/0360 | 2005-06-14 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2004/0360. | cvm-col-20050614-d03 | fichas/colegiado/2005-09.md |
+| termo-compromisso | 20/03 | 2005-06-14 | aceito | O Colegiado aprovou a celebração de termo de compromisso conforme pleiteado pelos quatro proponentes, indiciados no PAS CVM 20/03 por… | cvm-col-20050614-d01 | fichas/tc/2005-02.md |
+| decisao-colegiado | SP2004/0361 | 2005-05-24 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2004/0361. | cvm-col-20050524-d03 | fichas/colegiado/2005-08.md |
+| decisao-colegiado | RJ2003/5746 | 2005-05-10 | nao-provido | Recurso em processo de fundo de garantia. Proc. RJ2003/5746. | cvm-col-20050510-d04 | fichas/colegiado/2005-08.md |
+| pas | 06/1995 | 2005-05-05 | parcial | [pessoa física] E OUTROS Os indícios possuem valor probatório suficiente para ensejar condenação. Exige-se, todavia, que tais indícios… | cvm-pas-06-1995 | fichas/pas/2005-07.md |
+| acordao-crsfn | SP-2002-197 | 2005-04-28 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários Realização de operações de guarda de ações de investidores - Instrumento de procuração… | crsfn-6075 | fichas/crsfn/2005-01.md |
+| decisao-colegiado | RJ2004/6577 | 2005-04-19 | nao-provido | O Colegiado negou provimento ao recurso contra decisão da SMI que negou autorização para agente autônomo de investimento. Fundamento: o… | cvm-col-20050419-d05 | fichas/colegiado/2005-07.md |
+| decisao-colegiado | SP2003/0099 | 2005-04-12 | nao-provido | Pedido de reconsideração de decisão do colegiado em processo de fundo de garantia. Proc. SP2003/0099. | cvm-col-20050412-d05 | fichas/colegiado/2005-06.md |
+| decisao-colegiado | RJ2004/4717 | 2005-04-12 | nao-provido | O Colegiado rejeitou pedido de reconsideração da decisão de 16.04.02 que negou autorização para o exercício de agente autônomo à… | cvm-col-20050412-d04 | fichas/colegiado/2005-06.md |
+| decisao-colegiado | RJ1990/0386 | 2005-04-12 | nao-provido | Pedido de reconsideração de decisão do colegiado relativa a fundo de garantia. Proc. RJ1990/0386. | cvm-col-20050412-d01 | fichas/colegiado/2005-06.md |
+| decisao-colegiado | SP2002/0562 | 2005-04-08 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2002/0562. | cvm-col-20050408-d05 | fichas/colegiado/2005-06.md |
+| decisao-colegiado | RJ2002/3227 | 2005-04-08 | nao-provido | O Colegiado manteve a decisão anterior no Processo RJ2002/3227 e uniformizou o entendimento, a pedido da SMI, no sentido de que as pessoas… | cvm-col-20050408-d02 | fichas/colegiado/2005-06.md |
+| pas | 01/2002 | 2005-03-31 | parcial | Inobservância do disposto no art. 15, c/c o art. 16, "caput", e parágrafo único, da Lei nº 6.385/76 - intermediação irregular de valores… | cvm-pas-01-2002 | fichas/pas/2005-05.md |
+| decisao-colegiado | SP2002/0494 | 2005-03-29 | nao-provido | Pedido de reconsideração de decisão colegiado em processo de fundo de garantia. Proc. SP2002/0494. | cvm-col-20050329-d07 | fichas/colegiado/2005-06.md |
+| pas | RJ2001/8363 | 2005-03-28 | parcial | ESTRATÉGIA INVESTIMENTOS S/A CVC E OUTROS (RIOPART / RIOINVEST) 1) Mediação de valores mobiliários fora de bolsa, por pessoas não… | cvm-pas-rj2001-8363 | fichas/pas/2005-04.md |
+| decisao-colegiado | SP2003/0380 | 2005-03-22 | nao-provido | Pedido de reconsideração de decisão do colegiado em processo de fundo de garantia. Proc. SP2003/0380. | cvm-col-20050322-d06 | fichas/colegiado/2005-05.md |
+| decisao-colegiado | SP2003/0463 | 2005-03-22 | nao-provido | Pedido de reconsideração de decisão do colegiado em processo de fundo de garantia. Proc. SP2003/0463. | cvm-col-20050322-d05 | fichas/colegiado/2005-05.md |
+| pas | SP2003/0445 | 2005-03-21 | parcial | Contratação de pessoas não autorizadas pela CVM para a atividade de intermediação de negócios envolvendo valores mobiliários, em infração… | cvm-pas-sp2003-0445 | fichas/pas/2005-04.md |
+| decisao-colegiado | SP2003/0465 | 2005-03-01 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2003/0465. | cvm-col-20050301-d12 | fichas/colegiado/2005-04.md |
+| decisao-colegiado | SP2003/0494 | 2005-02-22 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2003/0494. | cvm-col-20050222-d03 | fichas/colegiado/2005-03.md |
+| decisao-colegiado | SP2004/0228 | 2005-02-10 | parcial | Pedido de reconsideração de decisão do colegiado relativa a fundo de garantia. Proc. SP2004/0228. | cvm-col-20050210-d03 | fichas/colegiado/2005-03.md |
+| decisao-colegiado | SP2004/0209 | 2005-01-31 | nao-provido | Pedido de reconsideração decisão do colegiado em processo de fundo de garantia. Proc. SP2004/0209. | cvm-col-20050131-d11 | fichas/colegiado/2005-03.md |
+| decisao-colegiado | SP2002/0494 | 2005-01-31 | provido | Recurso em processo de fundo de garantia. Proc. SP2002/0494. | cvm-col-20050131-d10 | fichas/colegiado/2005-03.md |
+| decisao-colegiado | SP2003/0380 | 2005-01-31 | provido | Recurso em processo de fundo de garantia. Proc. SP2003/0380. | cvm-col-20050131-d07 | fichas/colegiado/2005-03.md |
+| decisao-colegiado | SP2003/0099 | 2005-01-31 | provido | Recurso em processo de fundo de garantia. Proc. SP2003/0099. | cvm-col-20050131-d06 | fichas/colegiado/2005-03.md |
+| decisao-colegiado | SP2004/0012 | 2005-01-31 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2004/0012. | cvm-col-20050131-d05 | fichas/colegiado/2005-03.md |
+| decisao-colegiado | RJ90/0387 | 2005-01-31 | nao-provido | Pedido de reconsideração de decisão do colegiado em processo de fundo de garantia. Proc. RJ90/0387. | cvm-col-20050131-d01 | fichas/colegiado/2005-03.md |
+| decisao-colegiado | SP2003/0463 | 2005-01-25 | parcial | Recurso em processo de fundo de garantia. Proc. SP2003/0463. | cvm-col-20050125-d04 | fichas/colegiado/2005-02.md |
+| pas | RJ2004/3169 | 2005-01-19 | absolvicao | [pessoa física] Não incidência do artigo 12 da Instrução CVM nº 220/94, uma vez que não ficou caracterizada a atuação, por outra Corretora… | cvm-pas-rj2004-3169 | fichas/pas/2005-01.md |
+| decisao-colegiado | RJ2004/5689; RJ2004/1286 | 2005-01-11 | nao-provido | Recurso de pessoa física contra decisão da SMI que negou autorização para atuar como agente autônomo de investimento, por reputação ilibada… | cvm-col-20050111-d06 | fichas/colegiado/2005-01.md |
+| decisao-colegiado | RJ90/0386 | 2005-01-11 | nao-provido | Pedido de reconsideração de decisão do colegiado relativa a fundo de garantia. Proc. RJ90/0386. | cvm-col-20050111-d01 | fichas/colegiado/2005-01.md |
+| decisao-colegiado | SP2004/0009 | 2004-12-23 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2004/0009. | cvm-col-20041223-d24 | fichas/colegiado/2004-17.md |
+| decisao-colegiado | SP2002/0559 | 2004-12-23 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2002/0559. | cvm-col-20041223-d23 | fichas/colegiado/2004-17.md |
+| decisao-colegiado | RJ2002/8002 | 2004-12-23 | nao-provido | Recurso em processo de fundo de garantia. Proc. RJ2002/8002. | cvm-col-20041223-d22 | fichas/colegiado/2004-17.md |
+| decisao-colegiado | SP2004/0011 | 2004-12-14 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2004/0011. | cvm-col-20041214-d11 | fichas/colegiado/2004-16.md |
+| decisao-colegiado | SP2004/0010 | 2004-12-14 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2004/0010. | cvm-col-20041214-d10 | fichas/colegiado/2004-16.md |
+| pas | RJ2003/13210 | 2004-11-26 | condenacao | SAFIC CVC S/A e outro. Descumprimento do art. 10, inciso II, da Instrução CVM nº 220/94. Advertências. | cvm-pas-rj2003-13210 | fichas/pas/2004-14.md |
+| decisao-colegiado | SP2004/0229 | 2004-11-16 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2004/0229. | cvm-col-20041116-d04 | fichas/colegiado/2004-14.md |
+| termo-compromisso | RJ2003/0823 | 2004-11-16 | rejeitado | O Colegiado, acompanhando a relatora, negou a celebração de termo de compromisso da Corretora Souza Barros CT S/A (PAS RJ2003/0823)… | cvm-col-20041116-d01 | fichas/tc/2004-02.md |
+| decisao-colegiado | SP2004/0359 | 2004-11-09 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2004/0359. | cvm-col-20041109-d05 | fichas/colegiado/2004-13.md |
+| decisao-colegiado | SP2004/0209 | 2004-11-03 | provido | Recurso em processo de fundo de garantia. Proc. SP2004/0209. | cvm-col-20041103-d08 | fichas/colegiado/2004-13.md |
+| decisao-colegiado | RJ2003/1110 | 2004-11-03 | provido | Por voto de qualidade do Presidente, o Colegiado acolheu pedido de reconsideração e deferiu autorização para agente autônomo de… | cvm-col-20041103-d07 | fichas/colegiado/2004-13.md |
+| decisao-colegiado | SP2004/0228 | 2004-11-03 | provido | Recurso em processo de fundo de garantia. Proc. SP2004/0228. | cvm-col-20041103-d03 | fichas/colegiado/2004-13.md |
+| decisao-colegiado | RJ2002/8509 | 2004-11-03 | nao-provido | Recurso contra a decisão da SMI em processo de rito sumário. Proc. RJ2002/8509. | cvm-col-20041103-d02 | fichas/colegiado/2004-13.md |
+| pas | SP2004/0123 | 2004-10-18 | absolvicao | Não caracterização da acusação de inobservância ao disposto nos incisos I e III do art. 11 do Regulamento Anexo à Resolução CMN nº… | cvm-pas-sp2004-0123 | fichas/pas/2004-13.md |
+| decisao-colegiado | SP2004/0038 | 2004-09-28 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2004/0038. | cvm-col-20040928-d02 | fichas/colegiado/2004-12.md |
+| pas | SP2003/0446 | 2004-09-16 | condenacao | Intermediação e contratação de pessoa não autorizada pela CVM a intermediar negócios envolvendo valores mobiliários. Violação do art. 16 da… | cvm-pas-sp2003-0446 | fichas/pas/2004-11.md |
+| pas | SP2003/100 | 2004-09-09 | condenacao | Infração ao art. 12, caput, da Instrução CVM nº 14/80. | cvm-pas-sp2003-0100 | fichas/pas/2004-11.md |
+| decisao-colegiado | RJ2002/1965 | 2004-08-24 | nao-provido | Recurso em processo de fundo de garantia. Proc. RJ2002/1965. | cvm-col-20040824-d07 | fichas/colegiado/2004-10.md |
+| decisao-colegiado | SP2003/0383 | 2004-08-24 | nao-provido | Pedido de reconsideração de decisão do colegiado em processo de fundo de garantia. Proc. SP2003/0383. | cvm-col-20040824-d04 | fichas/colegiado/2004-10.md |
+| pas | SP2001/0034 | 2004-08-12 | parcial | Intermediação de valores mobiliários por pessoa não integrante do sistema de distribuição de valores - Infração ao artigo 16, III, da Lei… | cvm-pas-sp2001-0034 | fichas/pas/2004-09.md |
+| termo-compromisso | RJ2003/7697 | 2004-08-05 | rejeitado | O Colegiado, com exceção de um diretor que declarou impedimento, indeferiu a proposta de Termo de Compromisso no PAS CVM TA RJ2003/7697… | cvm-col-20040805-d04 | fichas/tc/2004-01.md |
+| decisao-colegiado | RJ2002/0989 | 2004-07-27 | nao-provido | Recurso em processo de fundo de garantia. Proc. RJ2002/0989. | cvm-col-20040727-d03 | fichas/colegiado/2004-09.md |
+| acordao-crsfn | 06/99 | 2004-07-14 | condenacao | RECURSOS VOLUNTÁRIOS - Mercado de valores mobiliários - Indevida movimentação de custódia - Negociação feita sem autorização do cliente e… | crsfn-4142 | fichas/crsfn/2004-02.md |
+| decisao-colegiado | SP2001/0172 | 2004-07-13 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2001/0172. | cvm-col-20040713-d01 | fichas/colegiado/2004-08.md |
+| decisao-colegiado | SP2001/0813 | 2004-07-06 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2001/0813. | cvm-col-20040706-d08 | fichas/colegiado/2004-08.md |
+| decisao-colegiado | SP2003/0383 | 2004-07-06 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2003/0383. | cvm-col-20040706-d05 | fichas/colegiado/2004-08.md |
+| decisao-colegiado | SP2002/0344 | 2004-07-06 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2002/0344. | cvm-col-20040706-d03 | fichas/colegiado/2004-08.md |
+| pas | SP2002/0462 | 2004-06-24 | absolvicao | Inaplicabilidade do disposto no parágrafo único do art.16 da Lei nº 6.385/76, uma vez que não restou configurada a continuidade na… | cvm-pas-sp2002-0462 | fichas/pas/2004-05.md |
+| decisao-colegiado | RJ2002/3227 | 2004-06-24 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SMI que negou autorização para o exercício da atividade de agente autônomo de… | cvm-col-20040624-d09 | fichas/colegiado/2004-07.md |
+| acordao-crsfn | SP2002/0048 | 2004-05-26 | condenacao | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários - Não lançamento, em extrato de conta corrente de cliente, de depósitos… | crsfn-4854 | fichas/crsfn/2004-02.md |
+| acordao-crsfn | 01/99 | 2004-05-26 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários - Custódia (desvio de ações de clientes) - Incorreto preenchimento de… | crsfn-4130 | fichas/crsfn/2004-02.md |
+| pas | 12/1998 | 2004-05-20 | condenacao | Realização de prática não-equitativa. Multas. - Execução de ordens antes do registro. - Não observância da seriação cronológica de ordens… | cvm-pas-12-1998 | fichas/pas/2004-03.md |
+| decisao-colegiado | SP99/0255 | 2004-04-27 | nao-provido | Pedido de reconsideração de decisão do colegiado em processo de fundo de garantia. Proc. SP99/0255. | cvm-col-20040427-d04 | fichas/colegiado/2004-05.md |
+| decisao-colegiado | SP2002/0429 | 2004-03-16 | outro | Recurso em processo de fundo de garantia. Proc. SP2002/0429. | cvm-col-20040316-d03 | fichas/colegiado/2004-04.md |
+| decisao-colegiado | RJ2004/1156 | 2004-03-09 | deferido | O Colegiado acompanhou o voto do diretor-relator e deferiu o pedido para que diploma de curso superior obtido no exterior substitua a… | cvm-col-20040309-d11 | fichas/colegiado/2004-03.md |
+| decisao-colegiado | RJ2004/1110 | 2004-02-17 | deferido | O Colegiado autorizou a realização do 7.º, 8.º e 9.º exames de certificação da atividade de agente autônomo e delegou à SMI a competência… | cvm-col-20040217-d03 | fichas/colegiado/2004-02.md |
+| acordao-crsfn | SP2001/0724 | 2004-01-21 | arquivamento | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários - Inobservância dos deveres de diligência e zelo ao permitir atuação de… | crsfn-4787 | fichas/crsfn/2004-01.md |
+| pas | RJ2002/6765 | 2003-12-11 | condenacao | As sociedades corretoras devem possuir regras de emissão de ordens de operações que comprovem a sua realização, por exigência do artigo 2º… | cvm-pas-rj2002-6765 | fichas/pas/2003-09.md |
+| decisao-colegiado | RJ2001/8981 | 2003-11-18 | provido | O Colegiado deu provimento a pedido de reconsideração de decisão que negara registro de agente autônomo de investimento, acompanhando o… | cvm-col-20031118-d08 | fichas/colegiado/2003-13.md |
+| decisao-colegiado | SP99/0360 | 2003-11-11 | outro | Recurso em processo de fundo de garantia. Proc. SP99/0360. | cvm-col-20031111-d03 | fichas/colegiado/2003-13.md |
+| decisao-colegiado | SP2003/0167 | 2003-11-11 | outro | Recurso em processo de fundo de garantia. Proc. SP2003/0167. | cvm-col-20031111-d02 | fichas/colegiado/2003-13.md |
+| decisao-colegiado | SP99/0360 | 2003-10-28 | — | Recurso em processo de fundo de garantia. Proc. SP99/0360. | cvm-col-20031028-d07 | fichas/colegiado/2003-12.md |
+| termo-compromisso | RJ2002/5015 | 2003-10-28 | rejeitado | O Colegiado indeferiu a proposta de termo de compromisso da Americainvest CTVM Ltda. e de seu diretor, acompanhando o voto da… | cvm-col-20031028-d06 | fichas/tc/2003.md |
+| decisao-colegiado | — | 2003-10-14 | outro | O Colegiado aprovou as deliberações da BM&F que regulam tipos de ordens e de ofertas e as regras de conduta das corretoras, na forma da IN… | cvm-col-20031014-d02 | fichas/colegiado/2003-12.md |
+| decisao-colegiado | — | 2003-10-07 | outro | O Colegiado aprovou as resoluções da SOMA que regulam as regras de conduta dos intermediários por ela credenciados, os tipos de ordens, o… | cvm-col-20031007-d05 | fichas/colegiado/2003-12.md |
+| decisao-colegiado | SP2003/0151 | 2003-10-07 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2003/0151. | cvm-col-20031007-d04 | fichas/colegiado/2003-12.md |
+| decisao-colegiado | — | 2003-10-07 | deferido | O Colegiado aprovou prorrogação, pedida pela Bovespa, do prazo do art. 22 da IN CVM 387/03 para elaboração de regras de atuação das… | cvm-col-20031007-d03 | fichas/colegiado/2003-12.md |
+| acordao-crsfn | 29/98 | 2003-09-24 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários - Indevida intermediação de valores - Falhas no preenchimento de fichas… | crsfn-4015 | fichas/crsfn/2003-03.md |
+| acordao-crsfn | 03/00 | 2003-09-24 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários - Inadequados controles de preenchimento e execução de ordens de operação… | crsfn-3877 | fichas/crsfn/2003-02.md |
+| decisao-colegiado | SP2002/0106 | 2003-08-28 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2002/0106. | cvm-col-20030828-d10 | fichas/colegiado/2003-11.md |
+| termo-compromisso | RJ2001/1789 | 2003-08-05 | aceito | O Colegiado aprovou nova proposta de termo de compromisso apresentada por agente autônomo de investimentos, conforme voto do… | cvm-col-20030805-d05 | fichas/tc/2003.md |
+| decisao-colegiado | RJ2002/7533 | 2003-07-22 | nao-provido | O Colegiado negou provimento ao recurso contra decisão da SMI que negou autorização para o exercício de atividade de agente autônomo de… | cvm-col-20030722-d09 | fichas/colegiado/2003-09.md |
+| decisao-colegiado | RJ2003/1110 | 2003-06-17 | nao-provido | O Colegiado, por maioria, negou provimento a recurso contra decisão da SMI que indeferiu pedido de autorização para o exercício da… | cvm-col-20030617-d11 | fichas/colegiado/2003-08.md |
+| decisao-colegiado | RJ2001/11285 | 2003-05-13 | provido | O Colegiado deu provimento a pedido de reconsideração de decisão anterior que manteve o indeferimento de autorização para exercício de… | cvm-col-20030513-d02 | fichas/colegiado/2003-05.md |
+| decisao-colegiado | RJ2001/8080 | 2003-05-05 | nao-provido | Recurso em processo de fundo de garantia. Proc. RJ2001/8080. | cvm-col-20030505-d01 | fichas/colegiado/2003-05.md |
+| acordao-crsfn | SP99/0411 | 2003-04-29 | condenacao | RECURSOS VOLUNTÁRIOS - Mercado de valores mobiliários - Concessão de empréstimo a integrante do sistema de distribuição - Atuação de agente… | crsfn-4044 | fichas/crsfn/2003-02.md |
+| decisao-colegiado | 035/2003 | 2003-04-08 | deferido | O Colegiado autorizou a realização do 5º e do 6º exames de certificação da atividade de agente autônomo, conforme MEMO/CVM/SGE/Nº 035/2003. | cvm-col-20030408-d04 | fichas/colegiado/2003-04.md |
+| pas | 11/1998 | 2003-04-02 | condenacao | descumprimento ao disposto na alínea “a” do Inciso I da Resolução CMN 1133/86, conjugado com o disposto no inciso I do artigo 12 da… | cvm-pas-11-1998 | fichas/pas/2003-01.md |
+| termo-compromisso | RJ2001/12098 | 2003-03-17 | rejeitado | O Colegiado rejeitou nova proposta de termo de compromisso apresentada pelo BB DTVM em processo de rito sumário, porque a minuta não… | cvm-col-20030317-d04 | fichas/tc/2003.md |
+| pas | SP2002/0048 | 2003-03-13 | parcial | UNITAS DTVM E OUTROS A existência de contrato de agenciamento não afasta a responsabilidade do intermediário por atos irregulares… | cvm-pas-sp2002-0048 | fichas/pas/2003-01.md |
+| decisao-colegiado | SP99/0255 | 2003-03-12 | outro | Recurso em processo de fundo de garantia. Proc. SP99/0255. | cvm-col-20030312-d08 | fichas/colegiado/2003-03.md |
+| decisao-colegiado | RJ2002/0310 | 2003-03-12 | provido | O Colegiado acompanhou o voto da diretora-relatora e deu provimento a recurso contra decisão da SMI que negou autorização para agente… | cvm-col-20030312-d01 | fichas/colegiado/2003-03.md |
+| decisao-colegiado | RJ2001/9272 | 2003-01-21 | nao-provido | Por maioria, o Colegiado acompanhou o voto do diretor-relator e negou provimento a recurso contra decisão da SMI que indeferiu pedido de… | cvm-col-20030121-d05 | fichas/colegiado/2003-01.md |
+| decisao-colegiado | RJ2003/0136 | 2003-01-21 | deferido | O Colegiado autorizou a realização do 4º exame de certificação de atividade de agente autônomo de investimento. | cvm-col-20030121-d04 | fichas/colegiado/2003-01.md |
+| decisao-colegiado | RJ2000/6120 | 2003-01-14 | nao-provido | Recurso contra decisão da SMI em processo de fundo de garantia. Proc. RJ2000/6120. | cvm-col-20030114-d08 | fichas/colegiado/2003-01.md |
+| decisao-colegiado | RJ2001/8981 | 2003-01-08 | nao-provido | O Colegiado negou provimento a recurso contra o indeferimento pela SMI de autorização para o exercício da atividade de agente autônomo de… | cvm-col-20030108-d04 | fichas/colegiado/2003-01.md |
+| decisao-colegiado | RJ2001/11506 | 2002-12-23 | provido | O Colegiado acompanhou o voto da Diretora-Relatora e deu provimento a recurso contra decisão da SMI que negou credenciamento como agente… | cvm-col-20021223-d06 | fichas/colegiado/2002-26.md |
+| pas | SP2001/0724 | 2002-12-20 | parcial | SUPRA CV LTDA., INVESTIPLAN PARTICIPAÇÕES E ADMINISTRAÇÃO LTDA. E OUTROS a) Prática de intermediação sem a devida autorização e com “stop… | cvm-pas-sp2001-0724-2 | fichas/pas/2002-08.md |
+| decisao-colegiado | RJ2002/0486 | 2002-12-10 | nao-provido | Recurso em processo de fundo de garantia da BOVESPA. Proc. RJ2002/0486. | cvm-col-20021210-d06 | fichas/colegiado/2002-26.md |
+| decisao-colegiado | SP2001/0212 | 2002-12-10 | parcial | Recurso em processo de fundo de garantia. Proc. SP2001/0212. | cvm-col-20021210-d02 | fichas/colegiado/2002-26.md |
+| decisao-colegiado | — | 2002-11-12 | nao-provido | O Colegiado negou provimento, por maioria, ao recurso contra decisão da SMI que negou autorização para agente autônomo de investimento, nos… | cvm-col-20021112-d06 | fichas/colegiado/2002-25.md |
+| decisao-colegiado | — | 2002-11-05 | deferido | O Colegiado autorizou a CEF a atuar como integrante do sistema de distribuição de valores mobiliários, nos termos do art. 15 da Lei… | cvm-col-20021105-d04 | fichas/colegiado/2002-25.md |
+| decisao-colegiado | SP2002/0403 | 2002-10-29 | provido | Recurso em processo de fundo de garantia. Proc. SP2002/0403. | cvm-col-20021029-d10 | fichas/colegiado/2002-25.md |
+| decisao-colegiado | RJ2002/0310 | 2002-10-15 | — | Recurso contra decisão da SMI que negou autorização de agente autônomo de investimento por exigir exame de certificação de quem não tinha… | cvm-col-20021015-d01 | fichas/colegiado/2002-23.md |
+| pas | SP2001/0724 | 2002-10-10 | outro | SUPRA CV LTDA. E OUTROS. | cvm-pas-sp2001-0724 | fichas/pas/2002-05.md |
+| pas | 12/1996 | 2002-10-10 | — | MASSA FALIDA Prática de operação fraudulenta no mercado de valores mobiliários; descumprimento de dispositivos legais das Instruções CVM nº… | cvm-pas-12-1996 | fichas/pas/2002-05.md |
+| decisao-colegiado | SP2001/0204 | 2002-10-10 | outro | O Colegiado aprovou a minuta que determina a suspensão imediata das atividades de intermediação de sete pessoas (proc. SP2001/0204). | cvm-col-20021010-d03 | fichas/colegiado/2002-23.md |
+| decisao-colegiado | SP2002/0104 | 2002-10-01 | outro | O Colegiado acompanhou a minuta de deliberação que determina a imediata suspensão das atividades de intermediação de um intermediário e de… | cvm-col-20021001-d06 | fichas/colegiado/2002-23.md |
+| decisao-colegiado | SP2002/0300 | 2002-10-01 | parcial | Recurso em processo de fundo de garantia. Proc. SP2002/0300. | cvm-col-20021001-d04 | fichas/colegiado/2002-23.md |
+| acordao-crsfn | 24/98 | 2002-09-26 | condenacao | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários – Exercício de administrador de carteira sem registro na CVM – Práticas… | crsfn-3875 | fichas/crsfn/2002-03.md |
+| decisao-colegiado | RJ99/0893 | 2002-09-24 | outro | O Colegiado aprovou a minuta de deliberação que determina a imediata suspensão das atividades de intermediação de um intermediário, pessoa… | cvm-col-20020924-d01 | fichas/colegiado/2002-22.md |
+| decisao-colegiado | SP2002/0418 | 2002-09-20 | outro | O Colegiado aprovou a minuta de deliberação que determina a suspensão imediata das atividades de intermediação de duas pessoas físicas. | cvm-col-20020920-d06 | fichas/colegiado/2002-22.md |
+| decisao-colegiado | RJ2001/8273 | 2002-09-10 | nao-provido | O Colegiado negou provimento ao recurso contra decisão da SMI que indeferiu autorização para agente autônomo de investimento, por não se… | cvm-col-20020910-d03 | fichas/colegiado/2002-21.md |
+| decisao-colegiado | RJ2002/3495 | 2002-08-30 | outro | O Colegiado acompanhou o voto da diretora-relatora em recurso contra decisão da SMI que negou autorização para agente autônomo de… | cvm-col-20020830-d08 | fichas/colegiado/2002-21.md |
+| decisao-colegiado | RJ2001/11505 | 2002-08-30 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SMI que indeferiu autorização para agente autônomo de investimento, por falta de… | cvm-col-20020830-d07 | fichas/colegiado/2002-21.md |
+| decisao-colegiado | — | 2002-08-30 | deferido | O Colegiado aprovou a realização do 3º exame de certificação de agente autônomo de investimento, pela ANCOR com a Fundação Carlos Chagas… | cvm-col-20020830-d03 | fichas/colegiado/2002-21.md |
+| decisao-colegiado | SP95/0053 | 2002-08-30 | provido | Recurso em processo de fundo de garantia. Proc. SP95/0053. | cvm-col-20020830-d01 | fichas/colegiado/2002-20.md |
+| decisao-colegiado | RJ2001/5996 | 2002-08-20 | outro | O Colegiado aprovou minuta de Deliberação que determina a suspensão imediata das atividades de intermediação de três pessoas físicas no… | cvm-col-20020820-d05 | fichas/colegiado/2002-20.md |
+| decisao-colegiado | RJ2002/0925 | 2002-08-20 | — | Recurso contra decisão da SMI que indeferiu pedido de autorização para exercer a atividade de agente autônomo de investimento (art. 6º da… | cvm-col-20020820-d02 | fichas/colegiado/2002-20.md |
+| decisao-colegiado | RJ2002/0921 | 2002-08-20 | — | Recurso contra decisão da SMI que indeferiu autorização para o exercício da atividade de agente autônomo de investimento (Instrução CVM… | cvm-col-20020820-d01 | fichas/colegiado/2002-20.md |
+| acordao-crsfn | 33/99 | 2002-08-01 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários – Ocorrência de prejuízos a clientes da sociedade corretora - Manutenção… | crsfn-4049 | fichas/crsfn/2002-02.md |
+| decisao-colegiado | SP2000/0345 | 2002-07-29 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2000/0345. | cvm-col-20020729-d05 | fichas/colegiado/2002-19.md |
+| decisao-colegiado | SP2001/0177 | 2002-07-23 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2001/0177. | cvm-col-20020723-d05 | fichas/colegiado/2002-18.md |
+| decisao-colegiado | RJ99/0893 | 2002-07-16 | outro | Recurso contra a decisão da SMI em processo de fundo de garantia. Proc. RJ99/0893. | cvm-col-20020716-d01 | fichas/colegiado/2002-17.md |
+| decisao-colegiado | SP2002/0021 | 2002-07-09 | nao-provido | Recurso contra a decisão da BOVESPA em processo de fundo de garantia. Proc. SP2002/0021. | cvm-col-20020709-d06 | fichas/colegiado/2002-17.md |
+| decisao-colegiado | SP2001/0754 | 2002-07-09 | provido | Recurso em processo de fundo de garantia. Proc. SP2001/0754. | cvm-col-20020709-d05 | fichas/colegiado/2002-17.md |
+| decisao-colegiado | SP2002/0109 | 2002-07-09 | provido | Recurso em processo de fundo de garantia. Proc. SP2002/0109. | cvm-col-20020709-d03 | fichas/colegiado/2002-16.md |
+| decisao-colegiado | SP2002/0019 | 2002-07-09 | outro | Recurso em processo de fundo de garantia. Proc. SP2002/0019. | cvm-col-20020709-d02 | fichas/colegiado/2002-16.md |
+| acordao-crsfn | RJ98/4757 | 2002-06-27 | condenacao | RECURSOS VOLUNTÁRIOS - Mercado de valores mobiliários – Denúncia oferecida por instituição financeira – Transferência de ações custodiadas… | crsfn-3937 | fichas/crsfn/2002-02.md |
+| decisao-colegiado | SP2001/0279 | 2002-06-25 | nao-provido | Recurso de decisão de fundo de garantia. Proc. SP2001/0279. | cvm-col-20020625-d05 | fichas/colegiado/2002-15.md |
+| decisao-colegiado | SP2001/0803 | 2002-06-25 | nao-provido | Recurso de decisão de fundo de garantia. Proc. SP2001/0803. | cvm-col-20020625-d04 | fichas/colegiado/2002-15.md |
+| decisao-colegiado | SP2001/0291 | 2002-06-25 | nao-provido | Recurso contra a decisão da SMI em processo de fundo de garantia. Proc. SP2001/0291. | cvm-col-20020625-d01 | fichas/colegiado/2002-14.md |
+| decisao-colegiado | SP2002/0011 | 2002-06-18 | provido | Recurso em processo de fundo de garantia. Proc. SP2002/0011. | cvm-col-20020618-d08 | fichas/colegiado/2002-14.md |
+| decisao-colegiado | SP2002/0074 | 2002-06-18 | nao-provido | Recurso contra a decisão da bvrj em processo de fundo de garantia. Proc. SP2002/0074. | cvm-col-20020618-d05 | fichas/colegiado/2002-14.md |
+| decisao-colegiado | SP2001/0296 | 2002-06-18 | provido | Recurso contra a decisão da SMI em processo de fundo de garantia. Proc. SP2001/0296. | cvm-col-20020618-d04 | fichas/colegiado/2002-14.md |
+| decisao-colegiado | SP2001/0787 | 2002-06-18 | nao-provido | Recurso contra a decisão da SMI em processo de fundo de garantia. Proc. SP2001/0787. | cvm-col-20020618-d03 | fichas/colegiado/2002-14.md |
+| decisao-colegiado | SP2001/0295 | 2002-06-18 | nao-provido | Recurso contra a decisão da SMI em processo de fundo de garantia. Proc. SP2001/0295. | cvm-col-20020618-d02 | fichas/colegiado/2002-14.md |
+| decisao-colegiado | SP2001/0282 | 2002-06-18 | parcial | Recurso contra a decisão da SMI em processo de fundo de garantia. Proc. SP2001/0282. | cvm-col-20020618-d01 | fichas/colegiado/2002-13.md |
+| decisao-colegiado | — | 2002-06-11 | deferido | O Colegiado autorizou a ANBID a realizar, até 31.12.2002, exame de certificação previsto no art. 2º, I, da Resolução CMN nº 2.838/2001… | cvm-col-20020611-d13 | fichas/colegiado/2002-13.md |
+| decisao-colegiado | RJ2001/11675 | 2002-06-11 | provido | O Colegiado, acompanhando a relatora e a PJU, revogou a exigência de pagamento de anuidades do RGA, extinto, imposta ao agente autônomo em… | cvm-col-20020611-d10 | fichas/colegiado/2002-13.md |
+| decisao-colegiado | SP2001/0300 | 2002-06-11 | nao-provido | Recurso contra a decisão da SMI em processo de fundo de garantia. Proc. SP2001/0300. | cvm-col-20020611-d09 | fichas/colegiado/2002-13.md |
+| decisao-colegiado | SP2001/0299 | 2002-06-11 | provido | Recurso contra a decisão da SMI em processo de fundo de garantia. Proc. SP2001/0299. | cvm-col-20020611-d08 | fichas/colegiado/2002-13.md |
+| decisao-colegiado | SP2001/0276 | 2002-06-11 | nao-provido | Recurso contra a decisão da SMI em processo de fundo de garantia. Proc. SP2001/0276. | cvm-col-20020611-d06 | fichas/colegiado/2002-13.md |
+| decisao-colegiado | RJ98/1971 | 2002-06-11 | outro | Minuta de deliberação que determina a imediata suspensão das atividades de intermediação de josé ricardo cordeiro, maria silvia nunes barja… | cvm-col-20020611-d04 | fichas/colegiado/2002-13.md |
+| decisao-colegiado | SP2002/0103 | 2002-05-29 | provido | Recurso contra a decisão da bvrj em processo de fundo de garantia. Proc. SP2002/0103. | cvm-col-20020529-d03 | fichas/colegiado/2002-12.md |
+| decisao-colegiado | RJ2001/4771 | 2002-05-29 | nao-provido | Recurso contra a decisão da BOVESPA em processo de fundo de garantia. Proc. RJ2001/4771. | cvm-col-20020529-d02 | fichas/colegiado/2002-12.md |
+| decisao-colegiado | — | 2002-05-29 | nao-provido | Recurso contra a decisão da SMI em processo de fundo de garantia. | cvm-col-20020529-d01 | fichas/colegiado/2002-12.md |
+| decisao-colegiado | SP2002/0016 | 2002-05-21 | nao-provido | Recurso contra a decisão da BOVESPA em processo de fundo de garantia. Proc. SP2002/0016. | cvm-col-20020521-d03 | fichas/colegiado/2002-12.md |
+| decisao-colegiado | SP2001/0237; SP2001/0269; SP2001/0271; SP2001/0272; SP2001/0438 | 2002-05-14 | outro | Minuta de ofício à bolsa do rio em relação ao fundo de garantia. Proc. s. SP2001/0237, SP2001/0269, SP2001/0271, SP2001/0272 e SP2001/0438. | cvm-col-20020514-d09 | fichas/colegiado/2002-11.md |
+| decisao-colegiado | SP2002/0073 | 2002-05-14 | provido | Recurso contra a decisão da SMI em processo de fundo de garantia. Proc. SP2002/0073. | cvm-col-20020514-d08 | fichas/colegiado/2002-11.md |
+| decisao-colegiado | SP99/0058 | 2002-05-14 | nao-provido | Recurso contra a decisão da SMI em processo de fundo de garantia. Proc. SP99/0058. | cvm-col-20020514-d07 | fichas/colegiado/2002-11.md |
+| decisao-colegiado | RJ1999/0113 | 2002-05-14 | outro | O Colegiado aprovou a minuta de deliberação que determina a suspensão imediata das atividades de intermediação de pessoas físicas. Os… | cvm-col-20020514-d06 | fichas/colegiado/2002-11.md |
+| decisao-colegiado | SP2000/0408 | 2002-05-07 | nao-provido | Recurso contra a decisão da SMI em processo de fundo de garantia. Proc. SP2000/0408. | cvm-col-20020507-d05 | fichas/colegiado/2002-10.md |
+| decisao-colegiado | SP2001/61 | 2002-04-30 | outro | O Colegiado aprovou a minuta de deliberação que determina a suspensão imediata das atividades de intermediação de duas pessoas físicas. | cvm-col-20020430-d03 | fichas/colegiado/2002-10.md |
+| decisao-colegiado | SP2000/0314 | 2002-04-26 | outro | O Colegiado aprovou minuta de deliberação que determina a suspensão imediata das atividades de intermediação de uma pessoa física. | cvm-col-20020426-d09 | fichas/colegiado/2002-09.md |
+| decisao-colegiado | SP2001/0439 | 2002-04-26 | nao-provido | Recurso contra a decisão da SMI em processo de fundo de garantia. Proc. SP2001/0439. | cvm-col-20020426-d08 | fichas/colegiado/2002-09.md |
+| decisao-colegiado | RJ2000/5852 | 2002-04-16 | outro | Minuta de deliberação que determina a imediata suspensão das atividades de intermediação da BCB capital intermediação de negócios s/c… | cvm-col-20020416-d06 | fichas/colegiado/2002-08.md |
+| decisao-colegiado | RJ2002/1342 | 2002-04-16 | nao-provido | O Colegiado negou provimento ao recurso e manteve decisão da SMI que negou autorização para exercer a atividade de agente autônomo de… | cvm-col-20020416-d05 | fichas/colegiado/2002-08.md |
+| decisao-colegiado | SP2001/0281 | 2002-04-16 | nao-provido | Recurso contra a decisão da SMI em processo de fundo de garantia. Proc. SP2001/0281. | cvm-col-20020416-d03 | fichas/colegiado/2002-08.md |
+| decisao-colegiado | SP2001/0275 | 2002-04-16 | nao-provido | Recurso contra decisão da SMI em processo de fundo de garantia. Proc. SP2001/0275. | cvm-col-20020416-d02 | fichas/colegiado/2002-08.md |
+| decisao-colegiado | RJ2001/0811 | 2002-04-10 | outro | O Colegiado acompanhou as minutas de deliberação que determinam a suspensão imediata das atividades de intermediação de oito pessoas… | cvm-col-20020410-d10 | fichas/colegiado/2002-08.md |
+| decisao-colegiado | RJ2001/12016 | 2002-04-10 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SMI que negou autorização de agente autônomo, acompanhando o relator. Para… | cvm-col-20020410-d09 | fichas/colegiado/2002-08.md |
+| decisao-colegiado | SP2001/0278 | 2002-04-10 | nao-provido | Recurso contra a decisão da SMI em processo de fundo de garantia. Proc. SP2001/0278. | cvm-col-20020410-d08 | fichas/colegiado/2002-07.md |
+| decisao-colegiado | SP2001/0274 | 2002-04-10 | nao-provido | Recurso contra a decisão da SMI em processo de fundo de garantia. Proc. SP2001/0274. | cvm-col-20020410-d07 | fichas/colegiado/2002-07.md |
+| decisao-colegiado | SP2001/0086 | 2002-04-10 | nao-provido | Recurso contra a decisão da SMI em processo de fundo de garantia. Proc. SP2001/0086. | cvm-col-20020410-d06 | fichas/colegiado/2002-07.md |
+| decisao-colegiado | RJ2001/11285 | 2002-04-10 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SMI que indeferiu registro de agente autônomo, acompanhando o relator. A… | cvm-col-20020410-d01 | fichas/colegiado/2002-07.md |
+| decisao-colegiado | RJ2001/11996 | 2002-03-28 | provido | O Colegiado deu provimento a recurso contra decisão da SMI que negou autorização de agente autônomo, acompanhando o relator. Aplicou… | cvm-col-20020328-d03 | fichas/colegiado/2002-06.md |
+| decisao-colegiado | RJ2001/12804 | 2002-03-19 | provido | O Colegiado acompanhou o voto da diretora-relatora e proveu recurso contra decisão da SMI que negara autorização para atuar como agente… | cvm-col-20020319-d12 | fichas/colegiado/2002-05.md |
+| decisao-colegiado | RJ2001/8341 | 2002-03-19 | provido | O Colegiado deu provimento a recurso contra decisão da SMI que negou autorização para agente autônomo de investimento e concedeu a… | cvm-col-20020319-d11 | fichas/colegiado/2002-05.md |
+| decisao-colegiado | RJ2001/12014 | 2002-03-19 | nao-provido | O Colegiado, acompanhando a relatora, negou provimento a recurso contra decisão da SMI que negou autorização de agente autônomo. O… | cvm-col-20020319-d10 | fichas/colegiado/2002-05.md |
+| decisao-colegiado | RJ2001/11397 | 2002-03-19 | provido | O Colegiado acompanhou a diretora-relatora e deu provimento a recurso contra decisão da SMI que negou autorização para atuar como agente… | cvm-col-20020319-d09 | fichas/colegiado/2002-05.md |
+| decisao-colegiado | RJ2001/12086 | 2002-03-19 | provido | O Colegiado deu provimento a recurso contra decisão da SMI que negou autorização para agente autônomo de investimento, concedendo-a. O… | cvm-col-20020319-d07 | fichas/colegiado/2002-05.md |
+| decisao-colegiado | RJ2001/11513 | 2002-03-19 | provido | O Colegiado deu provimento ao recurso contra decisão da SMI que negou autorização a agente autônomo de investimento: concedeu a autorização… | cvm-col-20020319-d06 | fichas/colegiado/2002-05.md |
+| decisao-colegiado | SP2001/0280 | 2002-03-19 | nao-provido | Recurso contra decisão da SMI em processo de fundo de garantia. Proc. SP2001/0280. | cvm-col-20020319-d03 | fichas/colegiado/2002-05.md |
+| decisao-colegiado | SP2001/0055 | 2002-03-12 | nao-provido | Recurso contra a decisão da SMI em processo de fundo de garantia. Proc. SP2001/0055. | cvm-col-20020312-d05 | fichas/colegiado/2002-04.md |
+| decisao-colegiado | RJ99/5746 | 2002-03-12 | nao-provido | O Colegiado negou provimento a pedido de reconsideração da Estratégia Investimentos S/A – CVC contra decisão que determinou ressarcimento… | cvm-col-20020312-d03 | fichas/colegiado/2002-04.md |
+| decisao-colegiado | RJ2001/11993 | 2002-02-27 | provido | O Colegiado deu provimento a recurso contra decisão da SMI que negou autorização para agente autônomo de investimento e concedeu a… | cvm-col-20020227-d02 | fichas/colegiado/2002-03.md |
+| acordao-crsfn | 98/0432 | 2002-02-27 | condenacao | RECURSOS VOLUNTÁRIOS - Mercado de valores mobiliários – Incorreto preenchimento de fichas cadastrais de clientes – Falta de observância das… | crsfn-3383 | fichas/crsfn/2002-01.md |
+| decisao-colegiado | RJ1998/5050 | 2002-01-22 | outro | O Colegiado aprovou a minuta de Deliberação que determina a suspensão imediata das atividades de intermediação de uma pessoa física. | cvm-col-20020122-d03 | fichas/colegiado/2002-01.md |
+| decisao-colegiado | RJ2001/11675 | 2002-01-08 | provido | O Colegiado deu provimento a recurso contra decisão da SMI que não incluiu agente autônomo na lista de credenciados por débito de anuidade… | cvm-col-20020108-d02 | fichas/colegiado/2002-01.md |
+| decisao-colegiado | SP2001/0148 | 2002-01-08 | outro | O Colegiado aprovou a minuta de deliberação que determina a suspensão imediata das atividades de intermediação de duas pessoas físicas. | cvm-col-20020108-d01 | fichas/colegiado/2002-01.md |
+| acordao-crsfn | 013/98 | 2001-08-29 | condenacao | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Atuação de cliente comum como agente autônomo sem devido credenciamento no RGA… | crsfn-3416 | fichas/crsfn/2001-02.md |
+| pas | 03/2000 | 2001-06-07 | parcial | AGENDA CCVM LTDA.,[pessoa física] E OUTROS Inadequação dos controles de preenchimento e execução de ordens de operação por sociedade… | cvm-pas-03-2000 | fichas/pas/2001-03.md |
+| acordao-crsfn | 1/98 | 2001-06-01 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Falhas na recepção, preenchimento, distribuição e execução de ordens de… | crsfn-3419 | fichas/crsfn/2001-02.md |
+| acordao-crsfn | SP99/502 | 2001-06-01 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Indevida atuação de operador de bolsa – Negociação fora do vínculo entre o… | crsfn-3329 | fichas/crsfn/2001-02.md |
+| acordao-crsfn | 06/97 | 2001-04-27 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Incorreto preenchimento de fichas cadastrais de clientes e de ordens… | crsfn-3000 | fichas/crsfn/2001-02.md |
+| acordao-crsfn | RJ98/1555 | 2000-10-26 | condenacao | RECURSOS VOLUNTÁRIOS – Mercado de valores mobiliários – Fundo de investimento – Empréstimo de ações pertencentes a carteira de investidor… | crsfn-2934 | fichas/crsfn/2000-06.md |
+| acordao-crsfn | 08/97 | 2000-07-28 | condenacao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Ordens de compra e venda – Falhas de cadastro e de execução – Ausência de contrato… | crsfn-2919 | fichas/crsfn/2000-04.md |
+| acordao-crsfn | 99/1052 | 2000-05-30 | outro | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Descumprimento de obrigações mínimas de intermediários bursáteis – Intempestividade… | crsfn-3014 | fichas/crsfn/2000-02.md |
+| acordao-crsfn | 06/98 | 2000-04-27 | absolvicao | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Operação de venda de ações – Revelia do cliente – Irregularidade caracterizada – Falta… | crsfn-2960 | fichas/crsfn/2000-02.md |
+| acordao-crsfn | 98/0151 | 2000-04-27 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários – Opções – Descumprimento de ordem verbal dada por cliente… | crsfn-2939 | fichas/crsfn/2000-01.md |
+| acordao-crsfn | 19/96 | 2000-02-25 | arquivamento | RECURSO VOLUNTÁRIO - Mercado de valores mobiliários – Concessão de financiamento a clientes mediante existência de saldos devedores… | crsfn-2680 | fichas/crsfn/2000-01.md |
+| pas | 09/1999 | 2000-01-25 | condenacao | [pessoa física], [pessoa física] E INVEST-RIO DTVM LTDA. Responsabilidade de Distribuidora pela movimentação irregular de ações… | cvm-pas-09-1999 | fichas/pas/2000-01.md |
+| acordao-crsfn | 23/96 | 1999-12-15 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Práticas não eqüitativas – Atuação de agente autônomo sem credenciamento – Falta de… | crsfn-2887 | fichas/crsfn/1999-04.md |
+| acordao-crsfn | 14/98 | 1999-11-25 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários – Prática não eqüitativa – Identificação de rasuras em ordens de… | crsfn-2961 | fichas/crsfn/1999-04.md |
+| acordao-crsfn | 96/0504 | 1999-08-31 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falhas na distribuição de ordens – Ausência de manipulação nos negócios – Recurso… | crsfn-2735 | fichas/crsfn/1999-02.md |
+| acordao-crsfn | 0527 | 1999-06-22 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falhas nos registros cadastrais – Realização de negócios antes do registro das… | crsfn-2587 | fichas/crsfn/1999-01.md |
+| termo-compromisso | SP96/0072 | 1998-12-11 | aceito | O Colegiado aprovou termo de compromisso com a Primus Corretora de Valores e Câmbio S/A e uma pessoa física, com suspensão do PAS SP96/0072… | cvm-tc-sp1996-0072-19981211 | fichas/tc/1998.md |
+| termo-compromisso | SP97/00250 | 1998-12-03 | aceito | O Colegiado aprovou, em 03/12/1998, duas propostas de termo de compromisso no Processo de Rito Sumário CVM nº SP97/0250: cessar… | cvm-tc-sp1997-0250-19981203 | fichas/tc/1998.md |
+| acordao-crsfn | 91/1263-4 | 1998-09-22 | absolvicao | RECURSO DE OFÍCIO. Mercado de Valores Mobiliários - Falta de adequados controles de registro, execução e distribuição de ordens de… | crsfn-2556 | fichas/crsfn/1998-03.md |
+| acordao-crsfn | 09/95 | 1998-08-26 | condenacao | RECURSOS VOLUNTÁRIOS. Mercado de Valores Mobiliários - Realização de operações de compra e venda de ações fora de bolsa de valores… | crsfn-2492 | fichas/crsfn/1998-03.md |
+| acordao-crsfn | 07/95 | 1998-07-30 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Mercado de Valores Mobiliários - "Day-trade" - Prática não eqüitativa - Execução de operações sem o… | crsfn-2491 | fichas/crsfn/1998-02.md |
+| acordao-crsfn | 91/1847-0 | 1998-03-25 | absolvicao | RECURSO DE OFÍCIO. Mercado de Valores Mobiliários - Falhas nos mecanismos de controle internos, inclusive no cadastro de clientes… | crsfn-1969 | fichas/crsfn/1998-01.md |
+| acordao-crsfn | 91/1566-8 | 1998-02-17 | arquivamento | RECURSO VOLUNTÁRIO. Mercado de valores mobiliários - Incorreto preenchimento de ordens e de cadastro de clientes - Registro de ordens de… | crsfn-2317 | fichas/crsfn/1998-01.md |
+| acordao-crsfn | 91/0238-8 | 1998-02-17 | absolvicao | RECURSO DE OFÍCIO. Mercado de valores mobiliários - Fichas cadastrais de clientes - Preenchimento incompleto (nome da empresa, dos… | crsfn-2286 | fichas/crsfn/1998-01.md |
+| acordao-crsfn | 91/1484-0 | 1998-01-28 | condenacao | RECURSOS VOLUNTÁRIOS. Mercado de Valores Mobiliários - Fichas cadastrais com dados incompletos ou incorretos - Execução de operações sem… | crsfn-2310 | fichas/crsfn/1998-01.md |
+| acordao-crsfn | 91/1640-0 | 1997-12-10 | condenacao | RECURSO VOLUNTÁRIO: Mercado de Valores Mobiliários - Fichas cadastrais com dados incompletos ou incorretos quanto à identificação do… | crsfn-2325 | fichas/crsfn/1997-02.md |
+| acordao-crsfn | 03/92 | 1997-11-26 | parcial | RECURSOS VOLUNTÁRIO E DE OFÍCIO. Mercado de valores mobiliários - Quebra de prioridade no registro e execução de ordens de negociação pelo… | crsfn-2251 | fichas/crsfn/1997-02.md |
+| acordao-crsfn | 10/94 | 1997-11-26 | condenacao | RECURSOS VOLUNTÁRIOS. Comissão de Valores Mobiliários - CVM - Operações em nome de clientes, envolvendo conexamente pessoas impedidas de… | crsfn-2201 | fichas/crsfn/1997-01.md |
+| acordao-crsfn | 92/1330-9 | 1997-10-30 | absolvicao | RECURSO DE OFÍCIO. Comissão de Valores Mobiliários - CVM - Preenchimento de fichas cadastrais com ausência de informações do nome e… | crsfn-2284 | fichas/crsfn/1997-01.md |
+| acordao-crsfn | 11/90 | 1997-08-26 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Intermediação de operações com ações de emissão de companhia fechada no mercado de balção - Falta de… | crsfn-1954 | fichas/crsfn/1997-01.md |
+| acordao-crsfn | 10/93 | 1996-10-10 | absolvicao | RECURSO DE OFÍCIO. Intermediação de operações com valores mobiliários de titularidade de entes públicos, em que os valores públicos… | crsfn-1617 | fichas/crsfn/1996-02.md |
+| acordao-crsfn | 03/93 | 1996-08-08 | absolvicao | RECURSO DE OFÍCIO. Quebra do critério de prioridade na execução de ordem de negociação em bolsa de valores e de realização de operações sem… | crsfn-1842 | fichas/crsfn/1996-02.md |
+| acordao-crsfn | 18/90 | 1996-06-19 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Irregularidades no cadastramento de clientes de Bolsa de Valores e na administração de carteiras… | crsfn-1741 | fichas/crsfn/1996-02.md |
+| acordao-crsfn | 16/92 | 1996-04-16 | condenacao | RECURSOS VOLUNTÁRIOS. Irregularidades nas atividades da pessoa jurídica recorrente no mercado de valores mobiliários, com infração às… | crsfn-1619 | fichas/crsfn/1996-01.md |
+| acordao-crsfn | 18/93 | 1996-03-13 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Irregularidades ocorridas na concessão de financiamentos a clientes, durante o exercício de 1991… | crsfn-1551 | fichas/crsfn/1996-01.md |
+| acordao-crsfn | 13/92; | 1996-03-13 | condenacao | RECURSO DE OFÍCIO. Prática não equitativa no mercado de valores mobiliários. Falta de registros de ordens de negociação. Infrações às… | crsfn-1550 | fichas/crsfn/1996-01.md |
+| acordao-crsfn | 91/1181-6 | 1996-02-15 | absolvicao | RECURSO DE OFÍCIO. Ausência de registro de ordens no relógio datador. Registro de ordens fora do horário normal de mercado. Ausência de… | crsfn-1581 | fichas/crsfn/1996-01.md |
 
 Fim do subíndice.

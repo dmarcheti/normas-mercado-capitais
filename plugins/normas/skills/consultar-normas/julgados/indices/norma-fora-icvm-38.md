@@ -18,9 +18,9 @@ Norma: fora do acervo.
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 4º, inciso I | acordao-crsfn | 15/1990 | 2014-08-26 | parcial | crsfn-13282 | fichas/crsfn/2014-05.md |
-| art. 4º, inciso I | pas | 15/1990 | 2010-08-24 | parcial | cvm-pas-15-1990 | fichas/pas/2010-03.md |
+| art. 4º, inciso I | pas | 15/1990 | 2010-08-24 | parcial | cvm-pas-15-1990 | fichas/pas/2010-06.md |
 | art. 4º, inciso V | acordao-crsfn | 15/1990 | 2014-08-26 | parcial | crsfn-13282 | fichas/crsfn/2014-05.md |
-| art. 4º, inciso V | pas | 15/1990 | 2010-08-24 | parcial | cvm-pas-15-1990 | fichas/pas/2010-03.md |
+| art. 4º, inciso V | pas | 15/1990 | 2010-08-24 | parcial | cvm-pas-15-1990 | fichas/pas/2010-06.md |
 
 ## art. 5º
 
@@ -33,7 +33,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 18 | pas | 19957.001450/2022-62 | 2025-10-14 | condenacao | cvm-pas-19957-001450-2022-62 | fichas/pas/2025-04.md |
+| art. 18 | pas | 19957.001450/2022-62 | 2025-10-14 | condenacao | cvm-pas-19957-001450-2022-62 | fichas/pas/2025-08.md |
 
 ## art. 37
 
@@ -47,7 +47,7 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.004260/2022-05 | 2022-05-24 | nao-provido | cvm-col-20220524-d2590 | fichas/colegiado/2022-08.md |
 | decisao-colegiado | 19957.004259/2022-72 | 2022-05-17 | nao-provido | cvm-col-20220517-d2583 | fichas/colegiado/2022-08.md |
-| pas | RJ2001/8028 | 2005-03-14 | parcial | cvm-pas-rj2001-8028 | fichas/pas/2005-02.md |
+| pas | RJ2001/8028 | 2005-03-14 | parcial | cvm-pas-rj2001-8028 | fichas/pas/2005-03.md |
 | termo-compromisso | RJ2001/8028 | 2005-02-15 | rejeitado | cvm-col-20050215-d02 | fichas/tc/2005-01.md |
 | acordao-crsfn | 01/93 | 1997-10-30 | condenacao | crsfn-2270 | fichas/crsfn/1997-01.md |
 | decisao-antiga | — | 1992-01-02 | — | cvm-dec-1992-0001 | fichas/decisoes-antigas/1992-12.md |

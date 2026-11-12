@@ -11,19 +11,19 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.011331/2025-61 | 2026-07-28 | condenacao | cvm-pas-19957-011331-2025-61 | fichas/pas/2026-02.md |
-| pas | 19957.001450/2022-62 | 2025-10-14 | condenacao | cvm-pas-19957-001450-2022-62 | fichas/pas/2025-04.md |
-| acordao-crsfn | 19957.002296/2020-84 | 2025-07-16 | condenacao | crsfn-19957-002296-2020-84 | fichas/crsfn/2025-04.md |
-| pas | 19957.009162/2023-37 | 2024-10-08 | parcial | cvm-pas-19957-009162-2023-37 | fichas/pas/2024-08.md |
-| pas | 19957.002296/2020-84 | 2024-10-08 | condenacao | cvm-pas-19957-002296-2020-84 | fichas/pas/2024-08.md |
-| pas | 19957.000466/2023-39 | 2024-05-14 | condenacao | cvm-pas-19957-000466-2023-39 | fichas/pas/2024-03.md |
-| pas | 19957.009288/2019-25 | 2024-03-19 | condenacao | cvm-pas-19957-009288-2019-25 | fichas/pas/2024-02.md |
-| pas | 19957.008143/2018-26 | 2023-12-20 | parcial | cvm-pas-19957-008143-2018-26 | fichas/pas/2023-09.md |
-| pas | 19957.007266/2022-26 | 2023-12-20 | condenacao | cvm-pas-19957-007266-2022-26 | fichas/pas/2023-09.md |
-| pas | 19957.009335/2021-55 | 2023-12-12 | condenacao | cvm-pas-19957-009335-2021-55 | fichas/pas/2023-09.md |
-| pas | 19957.001292/2022-41 | 2023-12-12 | condenacao | cvm-pas-19957-001292-2022-41 | fichas/pas/2023-09.md |
+| pas | 19957.011331/2025-61 | 2026-07-28 | condenacao | cvm-pas-19957-011331-2025-61 | fichas/pas/2026-03.md |
+| pas | 19957.001450/2022-62 | 2025-10-14 | condenacao | cvm-pas-19957-001450-2022-62 | fichas/pas/2025-08.md |
+| acordao-crsfn | 19957.002296/2020-84 | 2025-07-16 | condenacao | crsfn-19957-002296-2020-84 | fichas/crsfn/2025-05.md |
+| pas | 19957.009162/2023-37 | 2024-10-08 | parcial | cvm-pas-19957-009162-2023-37 | fichas/pas/2024-16.md |
+| pas | 19957.002296/2020-84 | 2024-10-08 | condenacao | cvm-pas-19957-002296-2020-84 | fichas/pas/2024-16.md |
+| pas | 19957.000466/2023-39 | 2024-05-14 | condenacao | cvm-pas-19957-000466-2023-39 | fichas/pas/2024-05.md |
+| pas | 19957.009288/2019-25 | 2024-03-19 | condenacao | cvm-pas-19957-009288-2019-25 | fichas/pas/2024-03.md |
+| pas | 19957.008143/2018-26 | 2023-12-20 | parcial | cvm-pas-19957-008143-2018-26 | fichas/pas/2023-18.md |
+| pas | 19957.007266/2022-26 | 2023-12-20 | condenacao | cvm-pas-19957-007266-2022-26 | fichas/pas/2023-17.md |
+| pas | 19957.009335/2021-55 | 2023-12-12 | condenacao | cvm-pas-19957-009335-2021-55 | fichas/pas/2023-17.md |
+| pas | 19957.001292/2022-41 | 2023-12-12 | condenacao | cvm-pas-19957-001292-2022-41 | fichas/pas/2023-16.md |
 | termo-compromisso | 19957.009335/2021-55 | 2023-11-14 | outro | cvm-col-20231114-d2576 | fichas/tc/2023-07.md |
-| pas | 19957.003473/2021-21 | 2023-11-07 | condenacao | cvm-pas-19957-003473-2021-21 | fichas/pas/2023-07.md |
+| pas | 19957.003473/2021-21 | 2023-11-07 | condenacao | cvm-pas-19957-003473-2021-21 | fichas/pas/2023-13.md |
 | decisao-colegiado | 19957.003690/2017-34 | 2023-06-20 | nao-provido | cvm-col-20230620-d0677 | fichas/colegiado/2023-06.md |
 | decisao-colegiado | 19957.003690/2017-34 | 2023-04-11 | — | cvm-col-20230411-d0677 | fichas/colegiado/2023-04.md |
 | pas | 19957.007344/2019-97 | 2023-02-28 | condenacao | cvm-pas-19957-007344-2019-97 | fichas/pas/2023-01.md |

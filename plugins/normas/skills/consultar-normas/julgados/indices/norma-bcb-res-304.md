@@ -22,6 +22,6 @@ Norma: [bcb/resolucoes/0304.md](../../normas/bcb/resolucoes/0304.md) (texto vige
 | decisao-colegiado | 19957.008271/2023-37 | 2025-11-25 | — | cvm-col-20251125-d3333 | fichas/colegiado/2025-11.md |
 | decisao-colegiado | 19957.011117/2024-23; 19957.011105/2024-07 | 2025-08-26 | deferido | cvm-col-20250826-d3215-3243 | fichas/colegiado/2025-08.md |
 | decisao-colegiado | 19957.012698/2023-30 | 2025-07-08 | deferido | cvm-col-20250708-d3211 | fichas/colegiado/2025-06.md |
-| pas | 19957.011992/2023-24 | 2025-04-08 | condenacao | cvm-pas-19957-011992-2023-24 | fichas/pas/2025-02.md |
+| pas | 19957.011992/2023-24 | 2025-04-08 | condenacao | cvm-pas-19957-011992-2023-24 | fichas/pas/2025-04.md |
 
 Fim do subíndice.

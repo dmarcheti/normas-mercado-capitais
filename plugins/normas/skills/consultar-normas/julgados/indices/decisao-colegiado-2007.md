@@ -24,482 +24,482 @@ Este subíndice tem 505 linhas e uma leitura única é cortada em silêncio pert
 | 2007-02 | 449 |
 | 2007-01 | 476 |
 
-| Processo | Data | Resultado | Id | Ficha |
-|---|---|---|---|---|
-| SP2007/0209 | 2007-12-18 | outro | cvm-col-20071218-d15 | fichas/colegiado/2007-26.md |
-| RJ2007/13956 | 2007-12-18 | deferido | cvm-col-20071218-d14 | fichas/colegiado/2007-26.md |
-| SP2007/0116 | 2007-12-18 | nao-provido | cvm-col-20071218-d13 | fichas/colegiado/2007-25.md |
-| RJ2007/12346 | 2007-12-18 | nao-provido | cvm-col-20071218-d12 | fichas/colegiado/2007-25.md |
-| — | 2007-12-18 | outro | cvm-col-20071218-d11 | fichas/colegiado/2007-25.md |
-| RJ2005/6595 | 2007-12-18 | nao-provido | cvm-col-20071218-d01 | fichas/colegiado/2007-25.md |
-| RJ2007/14245 | 2007-12-17 | indeferido | cvm-col-20071217-d01 | fichas/colegiado/2007-25.md |
-| — | 2007-12-14 | parcial | cvm-col-20071214-d01 | fichas/colegiado/2007-25.md |
-| RJ2007/12121 | 2007-12-11 | parcial | cvm-col-20071211-d21 | fichas/colegiado/2007-25.md |
-| SP2005/0173 | 2007-12-11 | outro | cvm-col-20071211-d20 | fichas/colegiado/2007-25.md |
-| RJ2007/13896 | 2007-12-11 | parcial | cvm-col-20071211-d19 | fichas/colegiado/2007-25.md |
-| RJ2007/14043 | 2007-12-11 | nao-provido | cvm-col-20071211-d18 | fichas/colegiado/2007-25.md |
-| RJ2007/14047 | 2007-12-11 | nao-provido | cvm-col-20071211-d17 | fichas/colegiado/2007-25.md |
-| RJ2007/14046 | 2007-12-11 | nao-provido | cvm-col-20071211-d16 | fichas/colegiado/2007-25.md |
-| RJ2007/14045 | 2007-12-11 | nao-provido | cvm-col-20071211-d15 | fichas/colegiado/2007-25.md |
-| RJ2007/14042 | 2007-12-11 | nao-provido | cvm-col-20071211-d14 | fichas/colegiado/2007-25.md |
-| RJ2007/13897 | 2007-12-11 | parcial | cvm-col-20071211-d13 | fichas/colegiado/2007-25.md |
-| RJ2007/13895 | 2007-12-11 | parcial | cvm-col-20071211-d12 | fichas/colegiado/2007-25.md |
-| RJ2007/13851 | 2007-12-11 | nao-provido | cvm-col-20071211-d11 | fichas/colegiado/2007-25.md |
-| RJ2007/13850 | 2007-12-11 | nao-provido | cvm-col-20071211-d10 | fichas/colegiado/2007-25.md |
-| RJ2007/13849 | 2007-12-11 | nao-provido | cvm-col-20071211-d09 | fichas/colegiado/2007-25.md |
-| RJ2007/13842 | 2007-12-11 | nao-provido | cvm-col-20071211-d08 | fichas/colegiado/2007-25.md |
-| RJ2007/13839 | 2007-12-11 | nao-provido | cvm-col-20071211-d07 | fichas/colegiado/2007-25.md |
-| RJ2007/13838 | 2007-12-11 | nao-provido | cvm-col-20071211-d06 | fichas/colegiado/2007-24.md |
-| RJ2007/12146 | 2007-12-11 | nao-provido | cvm-col-20071211-d05 | fichas/colegiado/2007-24.md |
-| RJ2007/12144 | 2007-12-11 | nao-provido | cvm-col-20071211-d04 | fichas/colegiado/2007-24.md |
-| RJ2005/4555 | 2007-12-11 | outro | cvm-col-20071211-d03 | fichas/colegiado/2007-24.md |
-| 29/2003 | 2007-12-11 | outro | cvm-col-20071211-d02 | fichas/colegiado/2007-24.md |
-| RJ2007/0352 | 2007-12-11 | outro | cvm-col-20071211-d01 | fichas/colegiado/2007-24.md |
-| SP2006/0137 | 2007-12-04 | outro | cvm-col-20071204-d5492 | fichas/colegiado/2007-24.md |
-| RJ2007/11850 | 2007-12-04 | nao-provido | cvm-col-20071204-d17 | fichas/colegiado/2007-24.md |
-| RJ2006/9223 | 2007-12-04 | nao-provido | cvm-col-20071204-d16 | fichas/colegiado/2007-24.md |
-| RJ2007/13894 | 2007-12-04 | nao-provido | cvm-col-20071204-d15 | fichas/colegiado/2007-24.md |
-| RJ2007/13954 | 2007-12-04 | nao-provido | cvm-col-20071204-d14 | fichas/colegiado/2007-24.md |
-| RJ2007/13858 | 2007-12-04 | nao-provido | cvm-col-20071204-d13 | fichas/colegiado/2007-24.md |
-| RJ2007/13853 | 2007-12-04 | nao-provido | cvm-col-20071204-d12 | fichas/colegiado/2007-24.md |
-| RJ2007/13946 | 2007-12-04 | nao-provido | cvm-col-20071204-d11 | fichas/colegiado/2007-24.md |
-| RJ2007/13914 | 2007-12-04 | nao-provido | cvm-col-20071204-d10 | fichas/colegiado/2007-24.md |
-| RJ2007/13913 | 2007-12-04 | nao-provido | cvm-col-20071204-d09 | fichas/colegiado/2007-24.md |
-| RJ2007/13893 | 2007-12-04 | nao-provido | cvm-col-20071204-d08 | fichas/colegiado/2007-24.md |
-| RJ2007/13731 | 2007-12-04 | nao-provido | cvm-col-20071204-d07 | fichas/colegiado/2007-24.md |
-| RJ2007/13636 | 2007-12-04 | nao-provido | cvm-col-20071204-d06 | fichas/colegiado/2007-24.md |
-| RJ2006/0469 | 2007-12-04 | nao-provido | cvm-col-20071204-d05 | fichas/colegiado/2007-24.md |
-| SP2007/0202 | 2007-12-04 | nao-provido | cvm-col-20071204-d04 | fichas/colegiado/2007-24.md |
-| SP2007/0214 | 2007-12-04 | outro | cvm-col-20071204-d03 | fichas/colegiado/2007-24.md |
-| RJ2007/12961 | 2007-11-27 | nao-provido | cvm-col-20071127-d08 | fichas/colegiado/2007-24.md |
-| RJ2007/12733 | 2007-11-27 | nao-provido | cvm-col-20071127-d07 | fichas/colegiado/2007-24.md |
-| RJ2007/12593 | 2007-11-27 | nao-provido | cvm-col-20071127-d06 | fichas/colegiado/2007-24.md |
-| RJ2007/12583 | 2007-11-27 | nao-provido | cvm-col-20071127-d05 | fichas/colegiado/2007-23.md |
-| RJ2007/13547 | 2007-11-27 | nao-provido | cvm-col-20071127-d04 | fichas/colegiado/2007-23.md |
-| RJ2007/12399 | 2007-11-27 | nao-provido | cvm-col-20071127-d03 | fichas/colegiado/2007-23.md |
-| RJ2007/12281 | 2007-11-27 | outro | cvm-col-20071127-d02 | fichas/colegiado/2007-23.md |
-| RJ2007/11393 | 2007-11-27 | parcial | cvm-col-20071127-d01 | fichas/colegiado/2007-23.md |
-| SP2005/0050 | 2007-11-27 | outro | cvm-col-20071127-d01-r2 | fichas/colegiado/2007-23.md |
-| — | 2007-11-26 | indeferido | cvm-col-20071126-d01 | fichas/colegiado/2007-23.md |
-| RJ2007/3430 | 2007-11-21 | outro | cvm-col-20071121-d03 | fichas/colegiado/2007-23.md |
-| RJ2007/10501 | 2007-11-21 | outro | cvm-col-20071121-d02 | fichas/colegiado/2007-23.md |
-| RJ2007/5317 | 2007-11-21 | nao-provido | cvm-col-20071121-d01 | fichas/colegiado/2007-23.md |
-| RJ2007/13400 | 2007-11-13 | parcial | cvm-col-20071113-d31 | fichas/colegiado/2007-23.md |
-| RJ2007/9773 | 2007-11-13 | deferido | cvm-col-20071113-d30 | fichas/colegiado/2007-23.md |
-| RJ2007/13012 | 2007-11-13 | nao-provido | cvm-col-20071113-d29 | fichas/colegiado/2007-23.md |
-| RJ2007/12868 | 2007-11-13 | nao-provido | cvm-col-20071113-d28 | fichas/colegiado/2007-23.md |
-| RJ2007/12734 | 2007-11-13 | nao-provido | cvm-col-20071113-d27 | fichas/colegiado/2007-23.md |
-| RJ2007/12702 | 2007-11-13 | nao-provido | cvm-col-20071113-d26 | fichas/colegiado/2007-23.md |
-| RJ2007/9189 | 2007-11-13 | nao-provido | cvm-col-20071113-d25 | fichas/colegiado/2007-23.md |
-| RJ2007/0236 | 2007-11-13 | nao-provido | cvm-col-20071113-d24 | fichas/colegiado/2007-23.md |
-| RJ2007/12872 | 2007-11-13 | nao-provido | cvm-col-20071113-d23 | fichas/colegiado/2007-23.md |
-| RJ2007/12871 | 2007-11-13 | nao-provido | cvm-col-20071113-d22 | fichas/colegiado/2007-23.md |
-| RJ2007/12870 | 2007-11-13 | nao-provido | cvm-col-20071113-d21 | fichas/colegiado/2007-23.md |
-| RJ2007/12869 | 2007-11-13 | nao-provido | cvm-col-20071113-d20 | fichas/colegiado/2007-23.md |
-| RJ2007/12867 | 2007-11-13 | nao-provido | cvm-col-20071113-d19 | fichas/colegiado/2007-23.md |
-| RJ2007/12703 | 2007-11-13 | nao-provido | cvm-col-20071113-d18 | fichas/colegiado/2007-23.md |
-| RJ2007/12700 | 2007-11-13 | nao-provido | cvm-col-20071113-d17 | fichas/colegiado/2007-22.md |
-| RJ2007/12699 | 2007-11-13 | nao-provido | cvm-col-20071113-d16 | fichas/colegiado/2007-22.md |
-| RJ2007/12698 | 2007-11-13 | nao-provido | cvm-col-20071113-d15 | fichas/colegiado/2007-22.md |
-| RJ2007/12058 | 2007-11-13 | provido | cvm-col-20071113-d14 | fichas/colegiado/2007-22.md |
-| RJ2004/3764 | 2007-11-13 | outro | cvm-col-20071113-d13 | fichas/colegiado/2007-22.md |
-| RJ2006/6572 | 2007-11-13 | outro | cvm-col-20071113-d12 | fichas/colegiado/2007-22.md |
-| 10/2005 | 2007-11-13 | outro | cvm-col-20071113-d11 | fichas/colegiado/2007-22.md |
-| RJ2006/8625 | 2007-11-13 | outro | cvm-col-20071113-d10 | fichas/colegiado/2007-22.md |
-| RJ2005/2502 | 2007-11-13 | nao-provido | cvm-col-20071113-d03 | fichas/colegiado/2007-22.md |
-| RJ2007/9211 | 2007-11-13 | parcial | cvm-col-20071113-d02 | fichas/colegiado/2007-22.md |
-| RJ2007/8160 | 2007-11-13 | outro | cvm-col-20071113-d01 | fichas/colegiado/2007-22.md |
-| RJ2007/13459 | 2007-11-12 | deferido | cvm-col-20071112-d02 | fichas/colegiado/2007-22.md |
-| RJ2007/13175 | 2007-11-12 | outro | cvm-col-20071112-d01 | fichas/colegiado/2007-22.md |
-| RJ2007/12285; RJ2007/12842 | 2007-11-06 | deferido | cvm-col-20071106-d09 | fichas/colegiado/2007-22.md |
-| RJ2007/12822 | 2007-11-06 | parcial | cvm-col-20071106-d08 | fichas/colegiado/2007-22.md |
-| RJ2007/12721 | 2007-11-06 | nao-provido | cvm-col-20071106-d07 | fichas/colegiado/2007-22.md |
-| RJ2007/12300 | 2007-11-06 | nao-provido | cvm-col-20071106-d06 | fichas/colegiado/2007-22.md |
-| RJ2007/12299 | 2007-11-06 | nao-provido | cvm-col-20071106-d05 | fichas/colegiado/2007-22.md |
-| RJ2007/1208 | 2007-11-06 | nao-provido | cvm-col-20071106-d04 | fichas/colegiado/2007-22.md |
-| RJ2007/11445 | 2007-11-06 | nao-provido | cvm-col-20071106-d03 | fichas/colegiado/2007-22.md |
-| RJ2007/11120 | 2007-11-06 | nao-provido | cvm-col-20071106-d02 | fichas/colegiado/2007-22.md |
-| RJ2007/12913 | 2007-11-06 | outro | cvm-col-20071106-d01 | fichas/colegiado/2007-22.md |
-| — | 2007-10-31 | indeferido | cvm-col-20071031-d02 | fichas/colegiado/2007-21.md |
-| RJ2007/3296 | 2007-10-31 | provido | cvm-col-20071031-d01 | fichas/colegiado/2007-21.md |
-| RJ2007/10666; RJ2007/12022; RJ2007/12035; RJ2007/12117; RJ2007/12118; RJ2007/12133; RJ2007/12222; RJ2007/12373; RJ2007/12850 | 2007-10-30 | deferido | cvm-col-20071030-d20 | fichas/colegiado/2007-21.md |
-| RJ2007/8075 | 2007-10-30 | provido | cvm-col-20071030-d19 | fichas/colegiado/2007-21.md |
-| RJ2007/7551 | 2007-10-30 | deferido | cvm-col-20071030-d18 | fichas/colegiado/2007-21.md |
-| RJ2007/8929 | 2007-10-30 | deferido | cvm-col-20071030-d17 | fichas/colegiado/2007-21.md |
-| RJ2007/12490 | 2007-10-30 | nao-provido | cvm-col-20071030-d16 | fichas/colegiado/2007-21.md |
-| RJ2007/12486 | 2007-10-30 | nao-provido | cvm-col-20071030-d15 | fichas/colegiado/2007-21.md |
-| RJ2007/12193 | 2007-10-30 | nao-provido | cvm-col-20071030-d14 | fichas/colegiado/2007-21.md |
-| RJ2007/12146 | 2007-10-30 | nao-provido | cvm-col-20071030-d13 | fichas/colegiado/2007-21.md |
-| RJ2007/12144 | 2007-10-30 | nao-provido | cvm-col-20071030-d12 | fichas/colegiado/2007-21.md |
-| RJ2007/12094 | 2007-10-30 | provido | cvm-col-20071030-d11 | fichas/colegiado/2007-21.md |
-| RJ2007/12488 | 2007-10-30 | deferido | cvm-col-20071030-d10 | fichas/colegiado/2007-21.md |
-| RJ2007/12274 | 2007-10-30 | nao-provido | cvm-col-20071030-d09 | fichas/colegiado/2007-21.md |
-| RJ2007/12237 | 2007-10-30 | nao-provido | cvm-col-20071030-d08 | fichas/colegiado/2007-21.md |
-| RJ2007/12214 | 2007-10-30 | nao-provido | cvm-col-20071030-d07 | fichas/colegiado/2007-21.md |
-| RJ2007/12083 | 2007-10-30 | nao-provido | cvm-col-20071030-d06 | fichas/colegiado/2007-21.md |
-| 06/2005 | 2007-10-30 | outro | cvm-col-20071030-d05 | fichas/colegiado/2007-21.md |
-| RJ2005/2968 | 2007-10-30 | outro | cvm-col-20071030-d02-r2 | fichas/colegiado/2007-21.md |
-| RJ2007/12819 | 2007-10-30 | outro | cvm-col-20071030-d01 | fichas/colegiado/2007-20.md |
-| RJ2004/4101 | 2007-10-30 | outro | cvm-col-20071030-d01-r2 | fichas/colegiado/2007-21.md |
-| RJ2007/12443 | 2007-10-23 | provido | cvm-col-20071023-d13 | fichas/colegiado/2007-20.md |
-| RJ2007/12179 | 2007-10-23 | nao-provido | cvm-col-20071023-d12 | fichas/colegiado/2007-20.md |
-| RJ2007/12169 | 2007-10-23 | nao-provido | cvm-col-20071023-d11 | fichas/colegiado/2007-20.md |
-| RJ2007/12167 | 2007-10-23 | nao-provido | cvm-col-20071023-d10 | fichas/colegiado/2007-20.md |
-| RJ2007/12147 | 2007-10-23 | nao-provido | cvm-col-20071023-d09 | fichas/colegiado/2007-20.md |
-| RJ2007/12005 | 2007-10-23 | nao-provido | cvm-col-20071023-d08 | fichas/colegiado/2007-20.md |
-| RJ2007/12091 | 2007-10-23 | nao-provido | cvm-col-20071023-d07 | fichas/colegiado/2007-20.md |
-| RJ2007/10687 | 2007-10-23 | deferido | cvm-col-20071023-d06 | fichas/colegiado/2007-20.md |
-| RJ2005/6595 | 2007-10-23 | conhecimento | cvm-col-20071023-d05 | fichas/colegiado/2007-20.md |
-| RJ2007/10322 | 2007-10-23 | deferido | cvm-col-20071023-d04 | fichas/colegiado/2007-20.md |
-| RJ2007/9152 | 2007-10-23 | deferido | cvm-col-20071023-d03 | fichas/colegiado/2007-20.md |
-| RJ2006/4241 | 2007-10-23 | nao-provido | cvm-col-20071023-d02 | fichas/colegiado/2007-20.md |
-| RJ2006/9858 | 2007-10-23 | indeferido | cvm-col-20071023-d01 | fichas/colegiado/2007-20.md |
-| RJ2007/12447 | 2007-10-22 | indeferido | cvm-col-20071022-d01 | fichas/colegiado/2007-20.md |
-| RJ2007/10777 | 2007-10-17 | parcial | cvm-col-20071017-d17 | fichas/colegiado/2007-20.md |
-| RJ2006/4592 | 2007-10-17 | outro | cvm-col-20071017-d16 | fichas/colegiado/2007-20.md |
-| RJ2007/12191 | 2007-10-17 | nao-provido | cvm-col-20071017-d15 | fichas/colegiado/2007-20.md |
-| RJ2007/12170 | 2007-10-17 | nao-provido | cvm-col-20071017-d14 | fichas/colegiado/2007-20.md |
-| RJ2007/12166 | 2007-10-17 | nao-provido | cvm-col-20071017-d13 | fichas/colegiado/2007-20.md |
-| RJ2007/12049 | 2007-10-17 | nao-provido | cvm-col-20071017-d12 | fichas/colegiado/2007-20.md |
-| RJ2007/12039 | 2007-10-17 | nao-provido | cvm-col-20071017-d11 | fichas/colegiado/2007-19.md |
-| RJ2007/12033 | 2007-10-17 | nao-provido | cvm-col-20071017-d10 | fichas/colegiado/2007-19.md |
-| RJ2007/12000 | 2007-10-17 | nao-provido | cvm-col-20071017-d09 | fichas/colegiado/2007-19.md |
-| RJ2007/11996 | 2007-10-17 | nao-provido | cvm-col-20071017-d08 | fichas/colegiado/2007-19.md |
-| RJ2004/5303 | 2007-10-17 | outro | cvm-col-20071017-d07 | fichas/colegiado/2007-19.md |
-| RJ2007/0174 | 2007-10-17 | outro | cvm-col-20071017-d06 | fichas/colegiado/2007-19.md |
-| 13/2004 | 2007-10-17 | outro | cvm-col-20071017-d05 | fichas/colegiado/2007-19.md |
-| 06/2004 | 2007-10-17 | outro | cvm-col-20071017-d04 | fichas/colegiado/2007-19.md |
-| RJ2007/11573 | 2007-10-17 | — | cvm-col-20071017-d02 | fichas/colegiado/2007-19.md |
-| 26/2005 | 2007-10-17 | nao-provido | cvm-col-20071017-d01 | fichas/colegiado/2007-19.md |
-| — | 2007-10-09 | indeferido | cvm-col-20071009-d12 | fichas/colegiado/2007-19.md |
-| SP2007/0209 | 2007-10-09 | nao-provido | cvm-col-20071009-d11 | fichas/colegiado/2007-19.md |
-| RJ2007/8194 | 2007-10-09 | outro | cvm-col-20071009-d09 | fichas/colegiado/2007-19.md |
-| SP2007/0181 | 2007-10-09 | outro | cvm-col-20071009-d08 | fichas/colegiado/2007-19.md |
-| RJ2007/11028 | 2007-10-09 | deferido | cvm-col-20071009-d07 | fichas/colegiado/2007-19.md |
-| RJ2007/8519 | 2007-10-09 | deferido | cvm-col-20071009-d06 | fichas/colegiado/2007-19.md |
-| RJ2007/7345 | 2007-10-09 | provido | cvm-col-20071009-d05 | fichas/colegiado/2007-19.md |
-| RJ2007/8844 | 2007-10-09 | nao-provido | cvm-col-20071009-d04 | fichas/colegiado/2007-19.md |
-| RJ2007/10682 | 2007-10-09 | outro | cvm-col-20071009-d03 | fichas/colegiado/2007-19.md |
-| SP2007/0168 | 2007-10-09 | provido | cvm-col-20071009-d02 | fichas/colegiado/2007-18.md |
-| RJ2005/6541 | 2007-10-09 | nao-provido | cvm-col-20071009-d01 | fichas/colegiado/2007-18.md |
-| RJ2007/11573 | 2007-10-04 | nao-provido | cvm-col-20071004-d01 | fichas/colegiado/2007-18.md |
-| RJ2007/10684 | 2007-10-02 | deferido | cvm-col-20071002-d10 | fichas/colegiado/2007-18.md |
-| RJ2007/10988 | 2007-10-02 | deferido | cvm-col-20071002-d09 | fichas/colegiado/2007-18.md |
-| RJ2007/4747 | 2007-10-02 | provido | cvm-col-20071002-d08 | fichas/colegiado/2007-18.md |
-| RJ2005/9000 | 2007-10-02 | outro | cvm-col-20071002-d07 | fichas/colegiado/2007-18.md |
-| RJ2006/4780 | 2007-10-02 | outro | cvm-col-20071002-d06 | fichas/colegiado/2007-18.md |
-| RJ2006/1216 | 2007-10-02 | provido | cvm-col-20071002-d05 | fichas/colegiado/2007-18.md |
-| SP2006/0180 | 2007-10-02 | nao-provido | cvm-col-20071002-d04 | fichas/colegiado/2007-18.md |
-| SP2006/0109 | 2007-10-02 | parcial | cvm-col-20071002-d03 | fichas/colegiado/2007-18.md |
-| SP2007/0144 | 2007-10-02 | deferido | cvm-col-20071002-d02 | fichas/colegiado/2007-18.md |
-| RJ2007/0646 | 2007-10-02 | outro | cvm-col-20071002-d01 | fichas/colegiado/2007-18.md |
-| RJ2007/11592 | 2007-09-28 | parcial | cvm-col-20070928-d01 | fichas/colegiado/2007-18.md |
-| SP2007/0168 | 2007-09-25 | nao-provido | cvm-col-20070925-d06 | fichas/colegiado/2007-18.md |
-| SP2005/0003 | 2007-09-25 | nao-provido | cvm-col-20070925-d05 | fichas/colegiado/2007-17.md |
-| RJ2007/10392 | 2007-09-25 | deferido | cvm-col-20070925-d04 | fichas/colegiado/2007-17.md |
-| RJ2007/7144 | 2007-09-25 | parcial | cvm-col-20070925-d03 | fichas/colegiado/2007-17.md |
-| RJ2007/9227 | 2007-09-25 | nao-provido | cvm-col-20070925-d02 | fichas/colegiado/2007-17.md |
-| RJ2007/11135 | 2007-09-25 | outro | cvm-col-20070925-d01 | fichas/colegiado/2007-17.md |
-| SP2005/0173 | 2007-09-18 | deferido | cvm-col-20070918-d14 | fichas/colegiado/2007-17.md |
-| RJ2007/9330 | 2007-09-18 | deferido | cvm-col-20070918-d13 | fichas/colegiado/2007-17.md |
-| RJ2007/10693 | 2007-09-18 | deferido | cvm-col-20070918-d12 | fichas/colegiado/2007-17.md |
-| RJ2007/3296 | 2007-09-18 | parcial | cvm-col-20070918-d11 | fichas/colegiado/2007-17.md |
-| RJ2006/3984 | 2007-09-18 | outro | cvm-col-20070918-d10 | fichas/colegiado/2007-17.md |
-| RJ2005/2502 | 2007-09-18 | parcial | cvm-col-20070918-d09 | fichas/colegiado/2007-17.md |
-| RJ2007/3061 | 2007-09-18 | outro | cvm-col-20070918-d08 | fichas/colegiado/2007-17.md |
-| RJ2007/3406 | 2007-09-18 | nao-provido | cvm-col-20070918-d07 | fichas/colegiado/2007-17.md |
-| RJ2006/7209 | 2007-09-18 | outro | cvm-col-20070918-d06 | fichas/colegiado/2007-17.md |
-| RJ2003/11142 | 2007-09-18 | outro | cvm-col-20070918-d01 | fichas/colegiado/2007-17.md |
-| — | 2007-09-17 | outro | cvm-col-20070917-d02 | fichas/colegiado/2007-17.md |
-| SP2007/0168 | 2007-09-17 | indeferido | cvm-col-20070917-d01 | fichas/colegiado/2007-17.md |
-| — | 2007-09-14 | indeferido | cvm-col-20070914-d01 | fichas/colegiado/2007-16.md |
-| RJ2007/4022 | 2007-09-14 | outro | cvm-col-20070914-d01-r2 | fichas/colegiado/2007-16.md |
-| — | 2007-09-11 | outro | cvm-col-20070911-d05 | fichas/colegiado/2007-16.md |
-| RJ2007/8607 | 2007-09-11 | deferido | cvm-col-20070911-d04 | fichas/colegiado/2007-16.md |
-| RJ2006/6380 | 2007-09-11 | deferido | cvm-col-20070911-d03 | fichas/colegiado/2007-16.md |
-| RJ2006/0180 | 2007-09-11 | outro | cvm-col-20070911-d02 | fichas/colegiado/2007-16.md |
-| RJ2005/4555 | 2007-09-11 | deferido | cvm-col-20070911-d01 | fichas/colegiado/2007-16.md |
-| RJ2007/7345 | 2007-09-04 | indeferido | cvm-col-20070904-d05 | fichas/colegiado/2007-16.md |
-| RJ2007/4500 | 2007-09-04 | deferido | cvm-col-20070904-d04 | fichas/colegiado/2007-16.md |
-| RJ2007/9361 | 2007-09-04 | nao-provido | cvm-col-20070904-d03 | fichas/colegiado/2007-16.md |
-| RJ2007/10398 | 2007-09-04 | deferido | cvm-col-20070904-d02 | fichas/colegiado/2007-16.md |
-| SP2007/0062 | 2007-09-04 | parcial | cvm-col-20070904-d01 | fichas/colegiado/2007-16.md |
-| — | 2007-09-03 | deferido | cvm-col-20070903-d02 | fichas/colegiado/2007-16.md |
-| RJ2007/9346 | 2007-09-03 | outro | cvm-col-20070903-d01 | fichas/colegiado/2007-16.md |
-| RJ2007/9211 | 2007-08-28 | nao-provido | cvm-col-20070828-d07 | fichas/colegiado/2007-16.md |
-| RJ2006-5733 | 2007-08-28 | outro | cvm-col-20070828-d06 | fichas/colegiado/2007-16.md |
-| RJ2006/1325 | 2007-08-28 | outro | cvm-col-20070828-d05 | fichas/colegiado/2007-16.md |
-| RJ2007/9196 | 2007-08-28 | indeferido | cvm-col-20070828-d04 | fichas/colegiado/2007-16.md |
-| RJ2007/8644 | 2007-08-28 | deferido | cvm-col-20070828-d03 | fichas/colegiado/2007-16.md |
-| RJ2007/4120 | 2007-08-28 | outro | cvm-col-20070828-d02 | fichas/colegiado/2007-16.md |
-| — | 2007-08-27 | outro | cvm-col-20070827-d02 | fichas/colegiado/2007-15.md |
-| — | 2007-08-27 | outro | cvm-col-20070827-d01 | fichas/colegiado/2007-15.md |
-| — | 2007-08-24 | outro | cvm-col-20070824-d01 | fichas/colegiado/2007-15.md |
-| — | 2007-08-23 | deferido | cvm-col-20070823-d01 | fichas/colegiado/2007-15.md |
-| RJ2007/8887 | 2007-08-21 | nao-provido | cvm-col-20070821-d12 | fichas/colegiado/2007-15.md |
-| RJ2007/4480 | 2007-08-21 | nao-provido | cvm-col-20070821-d11 | fichas/colegiado/2007-15.md |
-| RJ2007/3560 | 2007-08-21 | provido | cvm-col-20070821-d10 | fichas/colegiado/2007-15.md |
-| RJ2007/3547 | 2007-08-21 | provido | cvm-col-20070821-d09 | fichas/colegiado/2007-15.md |
-| RJ2007/9211 | 2007-08-21 | — | cvm-col-20070821-d08 | fichas/colegiado/2007-15.md |
-| RJ2004/5303 | 2007-08-21 | outro | cvm-col-20070821-d03 | fichas/colegiado/2007-15.md |
-| RJ2007/2952 | 2007-08-21 | provido | cvm-col-20070821-d02 | fichas/colegiado/2007-15.md |
-| RJ2006/7837 | 2007-08-21 | indeferido | cvm-col-20070821-d01 | fichas/colegiado/2007-15.md |
-| RJ2004/1335 | 2007-08-14 | outro | cvm-col-20070814-d05 | fichas/colegiado/2007-15.md |
-| RJ2007/3296 | 2007-08-14 | parcial | cvm-col-20070814-d04 | fichas/colegiado/2007-15.md |
-| RJ2007/2035 | 2007-08-14 | outro | cvm-col-20070814-d03 | fichas/colegiado/2007-15.md |
-| SP2006/0180 | 2007-08-14 | provido | cvm-col-20070814-d02 | fichas/colegiado/2007-14.md |
-| SP2006/0109 | 2007-08-14 | provido | cvm-col-20070814-d01 | fichas/colegiado/2007-14.md |
-| RJ2007/4432; RJ2007/4453 | 2007-08-07 | indeferido | cvm-col-20070807-d09 | fichas/colegiado/2007-14.md |
-| RJ2007/5163 | 2007-08-07 | deferido | cvm-col-20070807-d08 | fichas/colegiado/2007-14.md |
-| RJ2007/7034 | 2007-08-07 | nao-provido | cvm-col-20070807-d07 | fichas/colegiado/2007-14.md |
-| RJ2006/4241 | 2007-08-07 | nao-provido | cvm-col-20070807-d06 | fichas/colegiado/2007-14.md |
-| RJ2007/5903 | 2007-08-07 | nao-provido | cvm-col-20070807-d05 | fichas/colegiado/2007-14.md |
-| RJ2006/1854 | 2007-08-07 | outro | cvm-col-20070807-d04 | fichas/colegiado/2007-14.md |
-| RJ2006/6136 | 2007-08-07 | outro | cvm-col-20070807-d01 | fichas/colegiado/2007-14.md |
-| SP2005/0050 | 2007-08-02 | outro | cvm-col-20070802-d01 | fichas/colegiado/2007-14.md |
-| 06/2007 | 2007-07-31 | outro | cvm-col-20070731-d11 | fichas/colegiado/2007-14.md |
-| RJ2007/7313 | 2007-07-31 | deferido | cvm-col-20070731-d10 | fichas/colegiado/2007-14.md |
-| RJ2006/5499 | 2007-07-31 | outro | cvm-col-20070731-d09 | fichas/colegiado/2007-14.md |
-| RJ2007/7563 | 2007-07-31 | deferido | cvm-col-20070731-d08 | fichas/colegiado/2007-14.md |
-| RJ2006/1623 | 2007-07-31 | provido | cvm-col-20070731-d04 | fichas/colegiado/2007-14.md |
-| RJ2006/1622 | 2007-07-31 | provido | cvm-col-20070731-d03 | fichas/colegiado/2007-14.md |
-| 02/2003 | 2007-07-31 | conhecimento | cvm-col-20070731-d02 | fichas/colegiado/2007-14.md |
-| SP2005/0268 | 2007-07-31 | outro | cvm-col-20070731-d01 | fichas/colegiado/2007-14.md |
-| — | 2007-07-25 | indeferido | cvm-col-20070725-d01 | fichas/colegiado/2007-14.md |
-| — | 2007-07-24 | indeferido | cvm-col-20070724-d01 | fichas/colegiado/2007-13.md |
-| RJ/2007/8844 | 2007-07-23 | indeferido | cvm-col-20070723-d01 | fichas/colegiado/2007-13.md |
-| — | 2007-07-17 | outro | cvm-col-20070717-d10 | fichas/colegiado/2007-13.md |
-| RJ2007/4125; RJ2007/1298 | 2007-07-17 | outro | cvm-col-20070717-d09 | fichas/colegiado/2007-13.md |
-| RJ2007/3266 | 2007-07-17 | deferido | cvm-col-20070717-d08 | fichas/colegiado/2007-13.md |
-| RJ2007/7199 | 2007-07-17 | deferido | cvm-col-20070717-d07 | fichas/colegiado/2007-13.md |
-| RJ2007/8517 | 2007-07-17 | provido | cvm-col-20070717-d06 | fichas/colegiado/2007-13.md |
-| RJ2003/7911 | 2007-07-17 | outro | cvm-col-20070717-d05 | fichas/colegiado/2007-13.md |
-| RJ2006/7545 | 2007-07-17 | outro | cvm-col-20070717-d04 | fichas/colegiado/2007-13.md |
-| RJ2006/5674 | 2007-07-17 | outro | cvm-col-20070717-d03 | fichas/colegiado/2007-13.md |
-| RJ2006/1507 | 2007-07-17 | outro | cvm-col-20070717-d02 | fichas/colegiado/2007-13.md |
-| 09/2001 | 2007-07-17 | outro | cvm-col-20070717-d01 | fichas/colegiado/2007-13.md |
-| RJ2007/4235 | 2007-07-11 | outro | cvm-col-20070711-d01 | fichas/colegiado/2007-13.md |
-| RJ2007/7230 | 2007-07-11 | nao-provido | cvm-col-20070711-d01-r2 | fichas/colegiado/2007-13.md |
-| RJ2007/5879 | 2007-07-10 | deferido | cvm-col-20070710-d25 | fichas/colegiado/2007-13.md |
-| RJ2007/3623 | 2007-07-10 | outro | cvm-col-20070710-d24 | fichas/colegiado/2007-13.md |
-| RJ2007/7169 | 2007-07-10 | outro | cvm-col-20070710-d23 | fichas/colegiado/2007-13.md |
-| RJ2007/0547 | 2007-07-10 | nao-provido | cvm-col-20070710-d22 | fichas/colegiado/2007-13.md |
-| SP2007/0023 | 2007-07-10 | outro | cvm-col-20070710-d21 | fichas/colegiado/2007-13.md |
-| RJ2007/2592 | 2007-07-10 | nao-provido | cvm-col-20070710-d20 | fichas/colegiado/2007-12.md |
-| RJ1999/3663 | 2007-07-10 | outro | cvm-col-20070710-d19 | fichas/colegiado/2007-12.md |
-| RJ2006/9864 | 2007-07-10 | nao-provido | cvm-col-20070710-d18 | fichas/colegiado/2007-12.md |
-| RJ2005/7230 | 2007-07-10 | nao-provido | cvm-col-20070710-d17 | fichas/colegiado/2007-12.md |
-| RJ2007/3246; RJ2006/5701 | 2007-07-10 | nao-provido | cvm-col-20070710-d16 | fichas/colegiado/2007-12.md |
-| RJ2006/8065 | 2007-07-10 | nao-provido | cvm-col-20070710-d15 | fichas/colegiado/2007-12.md |
-| RJ2006/7830 | 2007-07-10 | nao-provido | cvm-col-20070710-d14 | fichas/colegiado/2007-12.md |
-| RJ2000/4440 | 2007-07-10 | outro | cvm-col-20070710-d13 | fichas/colegiado/2007-12.md |
-| RJ2000/4442 | 2007-07-10 | outro | cvm-col-20070710-d12 | fichas/colegiado/2007-12.md |
-| RJ2006/5820 | 2007-07-10 | outro | cvm-col-20070710-d11 | fichas/colegiado/2007-12.md |
-| RJ2006/4234 | 2007-07-10 | outro | cvm-col-20070710-d10 | fichas/colegiado/2007-12.md |
-| RJ2005/9738 | 2007-07-10 | outro | cvm-col-20070710-d09 | fichas/colegiado/2007-12.md |
-| RJ2007/6085 | 2007-07-10 | deferido | cvm-col-20070710-d08 | fichas/colegiado/2007-12.md |
-| RJ2006/9292 | 2007-07-10 | provido | cvm-col-20070710-d05 | fichas/colegiado/2007-12.md |
-| RJ2005/0137 | 2007-07-10 | deferido | cvm-col-20070710-d04 | fichas/colegiado/2007-12.md |
-| RJ2006/0594; RJ2005/0147 | 2007-07-10 | parcial | cvm-col-20070710-d03 | fichas/colegiado/2007-12.md |
-| SP2004/0171 | 2007-07-10 | provido | cvm-col-20070710-d02 | fichas/colegiado/2007-12.md |
-| RJ2003/9432 | 2007-07-10 | outro | cvm-col-20070710-d01 | fichas/colegiado/2007-12.md |
-| RJ2007/2625 | 2007-07-03 | deferido | cvm-col-20070703-d16 | fichas/colegiado/2007-12.md |
-| RJ2007/4219; RJ2007/4258 | 2007-07-03 | parcial | cvm-col-20070703-d15 | fichas/colegiado/2007-11.md |
-| RJ2007/4473 | 2007-07-03 | deferido | cvm-col-20070703-d14 | fichas/colegiado/2007-11.md |
-| RJ2006/4341 | 2007-07-03 | outro | cvm-col-20070703-d13 | fichas/colegiado/2007-11.md |
-| — | 2007-07-03 | outro | cvm-col-20070703-d12 | fichas/colegiado/2007-11.md |
-| SP2006/0162 | 2007-07-03 | nao-provido | cvm-col-20070703-d11 | fichas/colegiado/2007-11.md |
-| SP2005/0372 | 2007-07-03 | nao-provido | cvm-col-20070703-d10 | fichas/colegiado/2007-11.md |
-| RJ2007/3480 | 2007-07-03 | provido | cvm-col-20070703-d03 | fichas/colegiado/2007-11.md |
-| RJ2006/9227 | 2007-07-03 | provido | cvm-col-20070703-d02 | fichas/colegiado/2007-11.md |
-| RJ2007/7826 | 2007-07-03 | nao-provido | cvm-col-20070703-d01 | fichas/colegiado/2007-11.md |
-| RJ2007/6628 | 2007-06-28 | deferido | cvm-col-20070628-d20 | fichas/colegiado/2007-11.md |
-| — | 2007-06-28 | indeferido | cvm-col-20070628-d19 | fichas/colegiado/2007-11.md |
-| — | 2007-06-28 | outro | cvm-col-20070628-d18 | fichas/colegiado/2007-11.md |
-| — | 2007-06-28 | outro | cvm-col-20070628-d17 | fichas/colegiado/2007-11.md |
-| RJ2003/11142 | 2007-06-28 | outro | cvm-col-20070628-d16 | fichas/colegiado/2007-11.md |
-| — | 2007-06-28 | outro | cvm-col-20070628-d15 | fichas/colegiado/2007-11.md |
-| RJ2006/6192 | 2007-06-28 | nao-provido | cvm-col-20070628-d14 | fichas/colegiado/2007-11.md |
-| RJ2007/1488 | 2007-06-28 | nao-provido | cvm-col-20070628-d13 | fichas/colegiado/2007-11.md |
-| RJ2006/8591 | 2007-06-28 | outro | cvm-col-20070628-d12 | fichas/colegiado/2007-11.md |
-| RJ2007/3503 | 2007-06-28 | deferido | cvm-col-20070628-d11 | fichas/colegiado/2007-10.md |
-| RJ2007/5870 | 2007-06-28 | deferido | cvm-col-20070628-d10 | fichas/colegiado/2007-10.md |
-| 06/2005 | 2007-06-28 | deferido | cvm-col-20070628-d09 | fichas/colegiado/2007-10.md |
-| RJ2007/3611 | 2007-06-28 | deferido | cvm-col-20070628-d08 | fichas/colegiado/2007-10.md |
-| RJ2007/3265 | 2007-06-28 | indeferido | cvm-col-20070628-d07 | fichas/colegiado/2007-10.md |
-| RJ2006/5664 | 2007-06-28 | outro | cvm-col-20070628-d06 | fichas/colegiado/2007-10.md |
-| RJ2006/4337 | 2007-06-28 | outro | cvm-col-20070628-d05 | fichas/colegiado/2007-10.md |
-| RJ2006/5905 | 2007-06-28 | outro | cvm-col-20070628-d04 | fichas/colegiado/2007-10.md |
-| RJ2007/4003 | 2007-06-28 | outro | cvm-col-20070628-d03 | fichas/colegiado/2007-10.md |
-| RJ2007/3280 | 2007-06-28 | indeferido | cvm-col-20070628-d02 | fichas/colegiado/2007-10.md |
-| — | 2007-06-22 | indeferido | cvm-col-20070622-d01 | fichas/colegiado/2007-10.md |
-| RJ2007/4125 | 2007-06-19 | outro | cvm-col-20070619-d05 | fichas/colegiado/2007-10.md |
-| RJ2007/4933 | 2007-06-19 | outro | cvm-col-20070619-d04 | fichas/colegiado/2007-10.md |
-| RJ2006/3410 | 2007-06-19 | outro | cvm-col-20070619-d03 | fichas/colegiado/2007-10.md |
-| RJ2005/7463 | 2007-06-19 | outro | cvm-col-20070619-d02 | fichas/colegiado/2007-10.md |
-| RJ2007/6837 | 2007-06-14 | provido | cvm-col-20070614-d02 | fichas/colegiado/2007-10.md |
-| — | 2007-06-14 | deferido | cvm-col-20070614-d01 | fichas/colegiado/2007-10.md |
-| RJ2005/9059 | 2007-06-12 | outro | cvm-col-20070612-d09 | fichas/colegiado/2007-09.md |
-| RJ2007/0196 | 2007-06-12 | provido | cvm-col-20070612-d08 | fichas/colegiado/2007-09.md |
-| RJ2007/0266 | 2007-06-12 | nao-provido | cvm-col-20070612-d07 | fichas/colegiado/2007-09.md |
-| RJ2006/8624 | 2007-06-12 | nao-provido | cvm-col-20070612-d06 | fichas/colegiado/2007-09.md |
-| RJ2006/5499 | 2007-06-12 | outro | cvm-col-20070612-d05 | fichas/colegiado/2007-09.md |
-| — | 2007-06-12 | outro | cvm-col-20070612-d04 | fichas/colegiado/2007-09.md |
-| RJ2007/3083 | 2007-06-12 | deferido | cvm-col-20070612-d04-r2 | fichas/colegiado/2007-09.md |
-| RJ2007/3212 | 2007-06-12 | outro | cvm-col-20070612-d03 | fichas/colegiado/2007-09.md |
-| RJ2007/1102 | 2007-06-12 | deferido | cvm-col-20070612-d03-r2 | fichas/colegiado/2007-09.md |
-| RJ2006/9805 | 2007-06-12 | outro | cvm-col-20070612-d02 | fichas/colegiado/2007-09.md |
-| RJ2007/0152 | 2007-06-12 | outro | cvm-col-20070612-d02-r2 | fichas/colegiado/2007-09.md |
-| RJ2005/3958 | 2007-06-12 | outro | cvm-col-20070612-d01 | fichas/colegiado/2007-09.md |
-| RJ2006/7557 | 2007-06-12 | outro | cvm-col-20070612-d01-r2 | fichas/colegiado/2007-09.md |
-| — | 2007-06-05 | indeferido | cvm-col-20070605-d07 | fichas/colegiado/2007-09.md |
-| — | 2007-06-05 | indeferido | cvm-col-20070605-d06 | fichas/colegiado/2007-09.md |
-| RJ2007/1963; RJ2007/2521; RJ2007/2522; RJ2007/2523 | 2007-06-05 | deferido | cvm-col-20070605-d05 | fichas/colegiado/2007-09.md |
-| RJ2007/5345 | 2007-06-05 | deferido | cvm-col-20070605-d04 | fichas/colegiado/2007-08.md |
-| RJ2007/3948 | 2007-06-05 | deferido | cvm-col-20070605-d03 | fichas/colegiado/2007-08.md |
-| RJ2005/6805; RJ2006/5082 | 2007-06-05 | nao-provido | cvm-col-20070605-d02 | fichas/colegiado/2007-08.md |
-| — | 2007-06-05 | outro | cvm-col-20070605-d01 | fichas/colegiado/2007-08.md |
-| RJ2007/5587 | 2007-05-29 | outro | cvm-col-20070529-d11 | fichas/colegiado/2007-08.md |
-| 26/2005 | 2007-05-29 | outro | cvm-col-20070529-d10 | fichas/colegiado/2007-08.md |
-| RJ2006/6107 | 2007-05-29 | outro | cvm-col-20070529-d09 | fichas/colegiado/2007-08.md |
-| RJ2005/3742 | 2007-05-29 | outro | cvm-col-20070529-d08 | fichas/colegiado/2007-08.md |
-| RJ2007/3465 | 2007-05-29 | deferido | cvm-col-20070529-d07 | fichas/colegiado/2007-08.md |
-| SP2007/0112 | 2007-05-29 | provido | cvm-col-20070529-d06 | fichas/colegiado/2007-08.md |
-| RJ2007/1590 | 2007-05-29 | deferido | cvm-col-20070529-d05 | fichas/colegiado/2007-08.md |
-| RJ2006/9221 | 2007-05-29 | deferido | cvm-col-20070529-d04 | fichas/colegiado/2007-08.md |
-| 24/2004 | 2007-05-29 | nao-provido | cvm-col-20070529-d01 | fichas/colegiado/2007-08.md |
-| RJ2007/3617 | 2007-05-22 | outro | cvm-col-20070522-d08 | fichas/colegiado/2007-08.md |
-| RJ2007/3447 | 2007-05-22 | parcial | cvm-col-20070522-d07 | fichas/colegiado/2007-08.md |
-| RJ2007/0947 | 2007-05-22 | outro | cvm-col-20070522-d06 | fichas/colegiado/2007-08.md |
-| RJ2006/5908 | 2007-05-22 | outro | cvm-col-20070522-d05 | fichas/colegiado/2007-08.md |
-| RJ2006/6106 | 2007-05-22 | outro | cvm-col-20070522-d04 | fichas/colegiado/2007-08.md |
-| RJ2006/6105 | 2007-05-22 | outro | cvm-col-20070522-d03 | fichas/colegiado/2007-07.md |
-| 12/2004 | 2007-05-22 | outro | cvm-col-20070522-d02 | fichas/colegiado/2007-07.md |
-| RJ2005/9740 | 2007-05-22 | nao-provido | cvm-col-20070522-d01 | fichas/colegiado/2007-07.md |
-| — | 2007-05-16 | outro | cvm-col-20070516-d01 | fichas/colegiado/2007-07.md |
-| RJ2007/3443 | 2007-05-15 | deferido | cvm-col-20070515-d04 | fichas/colegiado/2007-07.md |
-| RJ2006/4651 | 2007-05-15 | parcial | cvm-col-20070515-d03 | fichas/colegiado/2007-07.md |
-| RJ2004/3751 | 2007-05-15 | nao-provido | cvm-col-20070515-d02 | fichas/colegiado/2007-07.md |
-| RJ2007/4235 | 2007-05-14 | outro | cvm-col-20070514-d02 | fichas/colegiado/2007-07.md |
-| RJ2007/2013 | 2007-05-14 | outro | cvm-col-20070514-d01 | fichas/colegiado/2007-07.md |
-| RJ2006/3881 | 2007-05-08 | outro | cvm-col-20070508-d08 | fichas/colegiado/2007-07.md |
-| RJ2007/1739; RJ2007/1741 | 2007-05-08 | outro | cvm-col-20070508-d07 | fichas/colegiado/2007-07.md |
-| RJ2007/0429 | 2007-05-08 | outro | cvm-col-20070508-d06 | fichas/colegiado/2007-07.md |
-| RJ2005/5211 | 2007-05-08 | indeferido | cvm-col-20070508-d05 | fichas/colegiado/2007-07.md |
-| SP2007/0075 | 2007-05-08 | deferido | cvm-col-20070508-d04 | fichas/colegiado/2007-07.md |
-| SP2005/0155 | 2007-05-08 | outro | cvm-col-20070508-d03 | fichas/colegiado/2007-07.md |
-| RJ2006/3189 | 2007-05-08 | outro | cvm-col-20070508-d02 | fichas/colegiado/2007-07.md |
-| RJ2006/1512 | 2007-05-08 | outro | cvm-col-20070508-d01 | fichas/colegiado/2007-07.md |
-| 04/2007; RJ2007/3206 | 2007-05-03 | outro | cvm-col-20070503-d01 | fichas/colegiado/2007-07.md |
-| RJ2007/0830 | 2007-05-02 | outro | cvm-col-20070502-d03 | fichas/colegiado/2007-07.md |
-| RJ2007/0831 | 2007-05-02 | outro | cvm-col-20070502-d02 | fichas/colegiado/2007-06.md |
-| RJ2007/2199 | 2007-05-02 | deferido | cvm-col-20070502-d01 | fichas/colegiado/2007-06.md |
-| RJ2006/5661 | 2007-04-25 | outro | cvm-col-20070425-d03 | fichas/colegiado/2007-06.md |
-| RJ2004/1269 | 2007-04-25 | outro | cvm-col-20070425-d02 | fichas/colegiado/2007-06.md |
-| RJ2006/1586 | 2007-04-25 | outro | cvm-col-20070425-d01 | fichas/colegiado/2007-06.md |
-| RJ2007/1488 | 2007-04-24 | — | cvm-col-20070424-d05 | fichas/colegiado/2007-06.md |
-| RJ2006/3618 | 2007-04-24 | outro | cvm-col-20070424-d03 | fichas/colegiado/2007-06.md |
-| RJ2005/1250 | 2007-04-24 | outro | cvm-col-20070424-d02 | fichas/colegiado/2007-06.md |
-| 15/1996 | 2007-04-24 | outro | cvm-col-20070424-d01 | fichas/colegiado/2007-06.md |
-| — | 2007-04-18 | deferido | cvm-col-20070418-d01 | fichas/colegiado/2007-06.md |
-| RJ2007/3453 | 2007-04-18 | indeferido | cvm-col-20070418-d01-r2 | fichas/colegiado/2007-06.md |
-| 02/2003 | 2007-04-17 | nao-provido | cvm-col-20070417-d09 | fichas/colegiado/2007-06.md |
-| RJ2007/1996 | 2007-04-17 | provido | cvm-col-20070417-d08 | fichas/colegiado/2007-06.md |
-| 02/2002 | 2007-04-17 | outro | cvm-col-20070417-d06 | fichas/colegiado/2007-06.md |
-| RJ2006/6327; RJ2006/6406 | 2007-04-17 | parcial | cvm-col-20070417-d05 | fichas/colegiado/2007-06.md |
-| RJ2007/2920 | 2007-04-17 | outro | cvm-col-20070417-d04 | fichas/colegiado/2007-05.md |
-| RJ2006/7828 | 2007-04-17 | nao-provido | cvm-col-20070417-d03 | fichas/colegiado/2007-05.md |
-| RJ2006/8981 | 2007-04-17 | nao-provido | cvm-col-20070417-d02 | fichas/colegiado/2007-05.md |
-| RJ2006/7658 | 2007-04-11 | indeferido | cvm-col-20070411-d07 | fichas/colegiado/2007-05.md |
-| RJ2006/9205 | 2007-04-11 | provido | cvm-col-20070411-d06 | fichas/colegiado/2007-05.md |
-| RJ2006/3461 | 2007-04-11 | outro | cvm-col-20070411-d05 | fichas/colegiado/2007-05.md |
-| RJ2005/8999 | 2007-04-11 | outro | cvm-col-20070411-d04 | fichas/colegiado/2007-05.md |
-| RJ2001/4619 | 2007-04-11 | outro | cvm-col-20070411-d03 | fichas/colegiado/2007-05.md |
-| RJ2001/12037 | 2007-04-11 | outro | cvm-col-20070411-d02 | fichas/colegiado/2007-05.md |
-| 020/2007 | 2007-04-03 | outro | cvm-col-20070403-d06 | fichas/colegiado/2007-05.md |
-| RJ2007/2788 | 2007-04-03 | outro | cvm-col-20070403-d04 | fichas/colegiado/2007-05.md |
-| RJ2006/8815 | 2007-04-03 | deferido | cvm-col-20070403-d03 | fichas/colegiado/2007-05.md |
-| RJ2007/0370 | 2007-04-03 | deferido | cvm-col-20070403-d02 | fichas/colegiado/2007-05.md |
-| RJ2007/1075 | 2007-04-03 | deferido | cvm-col-20070403-d01 | fichas/colegiado/2007-05.md |
-| RJ2007/1195 | 2007-04-02 | deferido | cvm-col-20070402-d01 | fichas/colegiado/2007-05.md |
-| RJ2007/1366 | 2007-03-27 | parcial | cvm-col-20070327-d08 | fichas/colegiado/2007-05.md |
-| RJ2007/1357 | 2007-03-27 | deferido | cvm-col-20070327-d07 | fichas/colegiado/2007-05.md |
-| RJ2006/8131 | 2007-03-27 | indeferido | cvm-col-20070327-d06 | fichas/colegiado/2007-05.md |
-| RJ2006/3739 | 2007-03-27 | deferido | cvm-col-20070327-d05 | fichas/colegiado/2007-05.md |
-| RJ2007/2013 | 2007-03-27 | outro | cvm-col-20070327-d04 | fichas/colegiado/2007-05.md |
-| RJ2007/2623 | 2007-03-27 | outro | cvm-col-20070327-d03 | fichas/colegiado/2007-05.md |
-| RJ2005/5222 | 2007-03-27 | outro | cvm-col-20070327-d02 | fichas/colegiado/2007-04.md |
-| RJ2007/1865 | 2007-03-27 | provido | cvm-col-20070327-d01 | fichas/colegiado/2007-04.md |
-| RJ2007/1996 | 2007-03-21 | parcial | cvm-col-20070321-d01 | fichas/colegiado/2007-04.md |
-| RJ2006/1296 | 2007-03-20 | outro | cvm-col-20070320-d05 | fichas/colegiado/2007-04.md |
-| RJ2006/5133 | 2007-03-20 | — | cvm-col-20070320-d04 | fichas/colegiado/2007-04.md |
-| RJ2005/5296 | 2007-03-20 | outro | cvm-col-20070320-d03 | fichas/colegiado/2007-04.md |
-| RJ2007/1075 | 2007-03-14 | deferido | cvm-col-20070314-d04 | fichas/colegiado/2007-04.md |
-| RJ2007/0959 | 2007-03-14 | deferido | cvm-col-20070314-d03 | fichas/colegiado/2007-04.md |
-| RJ2005/9423 | 2007-03-14 | outro | cvm-col-20070314-d02 | fichas/colegiado/2007-04.md |
-| RJ2006/0449 | 2007-03-07 | outro | cvm-col-20070307-d03 | fichas/colegiado/2007-04.md |
-| RJ2006/9805 | 2007-03-07 | outro | cvm-col-20070307-d02 | fichas/colegiado/2007-04.md |
-| RJ2006/1586 | 2007-03-07 | outro | cvm-col-20070307-d01 | fichas/colegiado/2007-04.md |
-| RJ2007/1613 | 2007-03-06 | indeferido | cvm-col-20070306-d04 | fichas/colegiado/2007-04.md |
-| RJ2006/6076 | 2007-03-06 | outro | cvm-col-20070306-d03 | fichas/colegiado/2007-04.md |
-| RJ2006/0657 | 2007-03-06 | outro | cvm-col-20070306-d02 | fichas/colegiado/2007-04.md |
-| — | 2007-03-02 | outro | cvm-col-20070302-d03 | fichas/colegiado/2007-04.md |
-| — | 2007-03-02 | outro | cvm-col-20070302-d02 | fichas/colegiado/2007-04.md |
-| RJ2005/3958 | 2007-03-02 | outro | cvm-col-20070302-d01 | fichas/colegiado/2007-04.md |
-| — | 2007-02-27 | deferido | cvm-col-20070227-d01 | fichas/colegiado/2007-04.md |
-| RJ2007/0191 | 2007-02-26 | outro | cvm-col-20070226-d12 | fichas/colegiado/2007-03.md |
-| RJ2006/8591 | 2007-02-26 | parcial | cvm-col-20070226-d11 | fichas/colegiado/2007-03.md |
-| RJ2007/1087 | 2007-02-26 | deferido | cvm-col-20070226-d10 | fichas/colegiado/2007-03.md |
-| RJ2006/9292 | 2007-02-26 | nao-provido | cvm-col-20070226-d09 | fichas/colegiado/2007-03.md |
-| RJ2001/4652 | 2007-02-26 | outro | cvm-col-20070226-d08 | fichas/colegiado/2007-03.md |
-| RJ2007/1033 | 2007-02-26 | provido | cvm-col-20070226-d07 | fichas/colegiado/2007-03.md |
-| RJ2006/0740 | 2007-02-26 | outro | cvm-col-20070226-d06 | fichas/colegiado/2007-03.md |
-| RJ2006/8965 | 2007-02-26 | provido | cvm-col-20070226-d05 | fichas/colegiado/2007-03.md |
-| RJ2006/8566 | 2007-02-26 | parcial | cvm-col-20070226-d01 | fichas/colegiado/2007-03.md |
-| — | 2007-02-22 | outro | cvm-col-20070222-d01 | fichas/colegiado/2007-03.md |
-| RJ2004/3764 | 2007-02-14 | outro | cvm-col-20070214-d09 | fichas/colegiado/2007-03.md |
-| RJ2006/6382 | 2007-02-14 | outro | cvm-col-20070214-d08 | fichas/colegiado/2007-03.md |
-| RJ2007/0866 | 2007-02-14 | outro | cvm-col-20070214-d07 | fichas/colegiado/2007-03.md |
-| RJ2007/0393 | 2007-02-14 | nao-provido | cvm-col-20070214-d03 | fichas/colegiado/2007-03.md |
-| RJ2005/0250 | 2007-02-14 | provido | cvm-col-20070214-d02 | fichas/colegiado/2007-03.md |
-| RJ2007/0358 | 2007-02-14 | deferido | cvm-col-20070214-d01 | fichas/colegiado/2007-03.md |
-| RJ2007/0523 | 2007-02-05 | deferido | cvm-col-20070205-d10 | fichas/colegiado/2007-03.md |
-| RJ2007/0339 | 2007-02-05 | deferido | cvm-col-20070205-d09 | fichas/colegiado/2007-03.md |
-| RJ2006/1757 | 2007-02-05 | outro | cvm-col-20070205-d08 | fichas/colegiado/2007-02.md |
-| RJ2005/8000 | 2007-02-05 | outro | cvm-col-20070205-d07 | fichas/colegiado/2007-02.md |
-| RJ2006/8970 | 2007-02-05 | indeferido | cvm-col-20070205-d06 | fichas/colegiado/2007-02.md |
-| RJ2007/0139 | 2007-02-05 | parcial | cvm-col-20070205-d05 | fichas/colegiado/2007-02.md |
-| SP2005/0268 | 2007-02-05 | outro | cvm-col-20070205-d04 | fichas/colegiado/2007-02.md |
-| RJ2005/8796 | 2007-02-05 | nao-provido | cvm-col-20070205-d03 | fichas/colegiado/2007-02.md |
-| RJ1998/1639 | 2007-02-05 | nao-provido | cvm-col-20070205-d02 | fichas/colegiado/2007-02.md |
-| RJ2005/4984 | 2007-02-05 | outro | cvm-col-20070205-d01 | fichas/colegiado/2007-02.md |
-| — | 2007-01-31 | outro | cvm-col-20070131-d01 | fichas/colegiado/2007-02.md |
-| RJ2004/1616 | 2007-01-30 | deferido | cvm-col-20070130-d11 | fichas/colegiado/2007-02.md |
-| RJ2005/6765 | 2007-01-30 | outro | cvm-col-20070130-d10 | fichas/colegiado/2007-02.md |
-| RJ2006/8820 | 2007-01-30 | provido | cvm-col-20070130-d09 | fichas/colegiado/2007-02.md |
-| RJ2007/0322 | 2007-01-30 | nao-provido | cvm-col-20070130-d08 | fichas/colegiado/2007-02.md |
-| — | 2007-01-30 | outro | cvm-col-20070130-d07 | fichas/colegiado/2007-02.md |
-| RJ2006/5768; RJ2006/5773 | 2007-01-30 | parcial | cvm-col-20070130-d01 | fichas/colegiado/2007-02.md |
-| SP2005/0195 | 2007-01-23 | nao-provido | cvm-col-20070123-d08 | fichas/colegiado/2007-02.md |
-| RJ2006/1119 | 2007-01-23 | outro | cvm-col-20070123-d07 | fichas/colegiado/2007-02.md |
-| RJ2006/4866 | 2007-01-23 | deferido | cvm-col-20070123-d06 | fichas/colegiado/2007-02.md |
-| RJ2007/0191 | 2007-01-23 | parcial | cvm-col-20070123-d05 | fichas/colegiado/2007-02.md |
-| — | 2007-01-16 | outro | cvm-col-20070116-d05 | fichas/colegiado/2007-01.md |
-| RJ2007/0040 | 2007-01-16 | outro | cvm-col-20070116-d04 | fichas/colegiado/2007-01.md |
-| RJ2006/6802 | 2007-01-16 | parcial | cvm-col-20070116-d03 | fichas/colegiado/2007-01.md |
-| RJ2007/0191 | 2007-01-11 | deferido | cvm-col-20070111-d01 | fichas/colegiado/2007-01.md |
-| RJ2005/3327 | 2007-01-10 | outro | cvm-col-20070110-d01 | fichas/colegiado/2007-01.md |
-| RJ2006/7717 | 2007-01-09 | outro | cvm-col-20070109-d4957 | fichas/colegiado/2007-01.md |
-| — | 2007-01-09 | outro | cvm-col-20070109-d11 | fichas/colegiado/2007-01.md |
-| RJ2006/4665 | 2007-01-09 | outro | cvm-col-20070109-d10 | fichas/colegiado/2007-01.md |
-| RJ2006/9159 | 2007-01-09 | nao-provido | cvm-col-20070109-d09 | fichas/colegiado/2007-01.md |
-| RJ2006/8891 | 2007-01-09 | nao-provido | cvm-col-20070109-d08 | fichas/colegiado/2007-01.md |
-| RJ2006/9208 | 2007-01-09 | outro | cvm-col-20070109-d07 | fichas/colegiado/2007-01.md |
-| RJ2006/1854 | 2007-01-09 | outro | cvm-col-20070109-d06 | fichas/colegiado/2007-01.md |
-| RJ2004/1616 | 2007-01-09 | outro | cvm-col-20070109-d05 | fichas/colegiado/2007-01.md |
-| SP2006/0138 | 2007-01-09 | outro | cvm-col-20070109-d03 | fichas/colegiado/2007-01.md |
-| RJ2006/8152 | 2007-01-09 | provido | cvm-col-20070109-d02 | fichas/colegiado/2007-01.md |
-| 20/2003 | 2007-01-09 | outro | cvm-col-20070109-d01 | fichas/colegiado/2007-01.md |
-| RJ2006/6221; RJ2006/9503; RJ2006/8192 | 2007-01-03 | parcial | cvm-col-20070103-d02 | fichas/colegiado/2007-01.md |
+| Processo | Data | Resultado | Ementa | Id | Ficha |
+|---|---|---|---|---|---|
+| SP2007/0209 | 2007-12-18 | outro | O Colegiado não acolheu reclamações da TOV CCTVM sobre convocação da AGE da BM&F, desmutualização e demonstrações financeiras, por não… | cvm-col-20071218-d15 | fichas/colegiado/2007-26.md |
+| RJ2007/13956 | 2007-12-18 | deferido | O Colegiado autorizou a reestruturação do Gávea Brasil FIM em fundo de cotas do Gávea Master FIM, com conferência direta de ativos… | cvm-col-20071218-d14 | fichas/colegiado/2007-26.md |
+| SP2007/0116 | 2007-12-18 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2007/0116. | cvm-col-20071218-d13 | fichas/colegiado/2007-25.md |
+| RJ2007/12346 | 2007-12-18 | nao-provido | O Colegiado negou provimento a recurso da Estratégia Investimentos S.A. Corretora de Valores e Câmbio contra decisão da SRE que… | cvm-col-20071218-d12 | fichas/colegiado/2007-25.md |
+| — | 2007-12-18 | outro | O Colegiado aprovou a minuta de convênio entre a CVM e o Ministério Público Federal, apresentada pela PFE, para intercâmbio e cooperação… | cvm-col-20071218-d11 | fichas/colegiado/2007-25.md |
+| RJ2005/6595 | 2007-12-18 | nao-provido | O Colegiado negou provimento a pedido de reconsideração de decisão que reconheceu a prescrição do exercício da opção de conversão em ações… | cvm-col-20071218-d01 | fichas/colegiado/2007-25.md |
+| RJ2007/14245 | 2007-12-17 | indeferido | O Colegiado não acatou cinco pedidos de interrupção do prazo de convocação das AGEs da RPI, DPPI e CBPI, relativas à incorporação de ações… | cvm-col-20071217-d01 | fichas/colegiado/2007-25.md |
+| — | 2007-12-14 | parcial | O Colegiado manteve o tratamento confidencial concedido em 18.04.07 a acordos do Grupo Ipiranga, mas determinou a divulgação do Acordo de… | cvm-col-20071214-d01 | fichas/colegiado/2007-25.md |
+| RJ2007/12121 | 2007-12-11 | parcial | O Colegiado autorizou a unificação da OPA por aumento de participação com a OPA para cancelamento de registro da Granóleo S.A… | cvm-col-20071211-d21 | fichas/colegiado/2007-25.md |
+| SP2005/0173 | 2007-12-11 | outro | O Colegiado deliberou pelo arquivamento do processo de cumprimento de termo de compromisso (PAS SP2005/0173) em relação aos proponentes… | cvm-col-20071211-d20 | fichas/colegiado/2007-25.md |
+| RJ2007/13896 | 2007-12-11 | parcial | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/13896. | cvm-col-20071211-d19 | fichas/colegiado/2007-25.md |
+| RJ2007/14043 | 2007-12-11 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/14043. | cvm-col-20071211-d18 | fichas/colegiado/2007-25.md |
+| RJ2007/14047 | 2007-12-11 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/14047. | cvm-col-20071211-d17 | fichas/colegiado/2007-25.md |
+| RJ2007/14046 | 2007-12-11 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/14046. | cvm-col-20071211-d16 | fichas/colegiado/2007-25.md |
+| RJ2007/14045 | 2007-12-11 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/14045. | cvm-col-20071211-d15 | fichas/colegiado/2007-25.md |
+| RJ2007/14042 | 2007-12-11 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/14042. | cvm-col-20071211-d14 | fichas/colegiado/2007-25.md |
+| RJ2007/13897 | 2007-12-11 | parcial | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/13897. | cvm-col-20071211-d13 | fichas/colegiado/2007-25.md |
+| RJ2007/13895 | 2007-12-11 | parcial | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/13895. | cvm-col-20071211-d12 | fichas/colegiado/2007-25.md |
+| RJ2007/13851 | 2007-12-11 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/13851. | cvm-col-20071211-d11 | fichas/colegiado/2007-25.md |
+| RJ2007/13850 | 2007-12-11 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/13850. | cvm-col-20071211-d10 | fichas/colegiado/2007-25.md |
+| RJ2007/13849 | 2007-12-11 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/13849. | cvm-col-20071211-d09 | fichas/colegiado/2007-25.md |
+| RJ2007/13842 | 2007-12-11 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/13842. | cvm-col-20071211-d08 | fichas/colegiado/2007-25.md |
+| RJ2007/13839 | 2007-12-11 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/13839. | cvm-col-20071211-d07 | fichas/colegiado/2007-25.md |
+| RJ2007/13838 | 2007-12-11 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/13838. | cvm-col-20071211-d06 | fichas/colegiado/2007-24.md |
+| RJ2007/12146 | 2007-12-11 | nao-provido | Pedido de reconsideração de decisão do colegiado. Proc. RJ2007/12146. | cvm-col-20071211-d05 | fichas/colegiado/2007-24.md |
+| RJ2007/12144 | 2007-12-11 | nao-provido | Pedido de reconsideração de decisão do colegiado. Proc. RJ2007/12144. | cvm-col-20071211-d04 | fichas/colegiado/2007-24.md |
+| RJ2005/4555 | 2007-12-11 | outro | Com as confirmações da SAD e da SMI de que o termo de compromisso aprovado em 06.03.07 foi cumprido na forma convencionada e não há… | cvm-col-20071211-d03 | fichas/colegiado/2007-24.md |
+| 29/2003 | 2007-12-11 | outro | Com base em atestações da SFI (pagamentos aos cotistas) e da SAD (pagamento de 5% à CVM), o Colegiado determinou o arquivamento do processo… | cvm-col-20071211-d02 | fichas/colegiado/2007-24.md |
+| RJ2007/0352 | 2007-12-11 | outro | O Colegiado arquivou o processo em relação à compromitente, por cumprido o termo de compromisso aprovado em 21.08.07: a SAD atestou o… | cvm-col-20071211-d01 | fichas/colegiado/2007-24.md |
+| SP2006/0137 | 2007-12-04 | outro | O Colegiado aprovou a recapitulação das infrações imputadas à Ativa S.A. CTVM e a seu diretor responsável, nos termos do voto do relator… | cvm-col-20071204-d5492 | fichas/colegiado/2007-24.md |
+| RJ2007/11850 | 2007-12-04 | nao-provido | O Colegiado manteve o indeferimento do credenciamento como administrador de carteiras, em recurso, por falta de comprovação de cinco anos… | cvm-col-20071204-d17 | fichas/colegiado/2007-24.md |
+| RJ2006/9223 | 2007-12-04 | nao-provido | Com base nos fundamentos do despacho da área técnica, o Colegiado indeferiu recurso contra indeferimento de credenciamento como… | cvm-col-20071204-d16 | fichas/colegiado/2007-24.md |
+| RJ2007/13894 | 2007-12-04 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/13894. | cvm-col-20071204-d15 | fichas/colegiado/2007-24.md |
+| RJ2007/13954 | 2007-12-04 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/13954. | cvm-col-20071204-d14 | fichas/colegiado/2007-24.md |
+| RJ2007/13858 | 2007-12-04 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/13858. | cvm-col-20071204-d13 | fichas/colegiado/2007-24.md |
+| RJ2007/13853 | 2007-12-04 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/13853. | cvm-col-20071204-d12 | fichas/colegiado/2007-24.md |
+| RJ2007/13946 | 2007-12-04 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/13946. | cvm-col-20071204-d11 | fichas/colegiado/2007-24.md |
+| RJ2007/13914 | 2007-12-04 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/13914. | cvm-col-20071204-d10 | fichas/colegiado/2007-24.md |
+| RJ2007/13913 | 2007-12-04 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/13913. | cvm-col-20071204-d09 | fichas/colegiado/2007-24.md |
+| RJ2007/13893 | 2007-12-04 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/13893. | cvm-col-20071204-d08 | fichas/colegiado/2007-24.md |
+| RJ2007/13731 | 2007-12-04 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/13731. | cvm-col-20071204-d07 | fichas/colegiado/2007-24.md |
+| RJ2007/13636 | 2007-12-04 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/13636. | cvm-col-20071204-d06 | fichas/colegiado/2007-24.md |
+| RJ2006/0469 | 2007-12-04 | nao-provido | O Colegiado negou provimento ao recurso da Rio Grande Energia S.A. contra entendimento da SEP que considerou ilegal o ajuste contábil de… | cvm-col-20071204-d05 | fichas/colegiado/2007-24.md |
+| SP2007/0202 | 2007-12-04 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2007/0202. | cvm-col-20071204-d04 | fichas/colegiado/2007-24.md |
+| SP2007/0214 | 2007-12-04 | outro | O Colegiado, em vez de suspender a oferta por deliberação, determinou ofício à CVRA – Companhia Vale do Rio Anari para cessar oferta… | cvm-col-20071204-d03 | fichas/colegiado/2007-24.md |
+| RJ2007/12961 | 2007-11-27 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2007/12961. | cvm-col-20071127-d08 | fichas/colegiado/2007-24.md |
+| RJ2007/12733 | 2007-11-27 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2007/12733. | cvm-col-20071127-d07 | fichas/colegiado/2007-24.md |
+| RJ2007/12593 | 2007-11-27 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2007/12593. | cvm-col-20071127-d06 | fichas/colegiado/2007-24.md |
+| RJ2007/12583 | 2007-11-27 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2007/12583. | cvm-col-20071127-d05 | fichas/colegiado/2007-23.md |
+| RJ2007/13547 | 2007-11-27 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2007/13547. | cvm-col-20071127-d04 | fichas/colegiado/2007-23.md |
+| RJ2007/12399 | 2007-11-27 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2007/12399. | cvm-col-20071127-d03 | fichas/colegiado/2007-23.md |
+| RJ2007/12281 | 2007-11-27 | outro | O Colegiado, por unanimidade, respondeu em tese consulta do HSBC Bank Brasil S.A. sobre o art. 17 da Instrução 409/04: dispensas dessa… | cvm-col-20071127-d02 | fichas/colegiado/2007-23.md |
+| RJ2007/11393 | 2007-11-27 | parcial | Acompanhando o voto do relator, contra o entendimento da SRE, o Colegiado afastou para o FIDC aberto o prazo de 180 dias do art. 18 da IN… | cvm-col-20071127-d01 | fichas/colegiado/2007-23.md |
+| SP2005/0050 | 2007-11-27 | outro | Após audiência pública, o Colegiado requereu alterações finais e aprovou a minuta que altera a Instrução 301/99, sobre identificação… | cvm-col-20071127-d01-r2 | fichas/colegiado/2007-23.md |
+| — | 2007-11-26 | indeferido | O Colegiado indeferiu, por unanimidade, o pedido de tratamento confidencial da National Titanium Dioxide Company LTD. sobre mensagens e… | cvm-col-20071126-d01 | fichas/colegiado/2007-23.md |
+| RJ2007/3430 | 2007-11-21 | outro | O Colegiado aprovou a minuta de Deliberação, apresentada pela SIN, sobre atuação irregular no mercado de valores mobiliários da TDS System… | cvm-col-20071121-d03 | fichas/colegiado/2007-23.md |
+| RJ2007/10501 | 2007-11-21 | outro | Após audiência pública. Proc. RJ2007/10501. | cvm-col-20071121-d02 | fichas/colegiado/2007-23.md |
+| RJ2007/5317 | 2007-11-21 | nao-provido | Acompanhando o voto do relator, o Colegiado manteve o entendimento da SEP de que não cabe apurar responsabilidade por abuso de poder de… | cvm-col-20071121-d01 | fichas/colegiado/2007-23.md |
+| RJ2007/13400 | 2007-11-13 | parcial | O Colegiado reduziu de trinta para vinte dias a suspensão, pela SRE, da oferta de certificados de depósito de ações da Brazilian Finance &… | cvm-col-20071113-d31 | fichas/colegiado/2007-23.md |
+| RJ2007/9773 | 2007-11-13 | deferido | O Colegiado concedeu, com condições, as dispensas pedidas pela Vulcabras do Nordeste S.A. na OPA por alienação de controle da Calçados… | cvm-col-20071113-d30 | fichas/colegiado/2007-23.md |
+| RJ2007/13012 | 2007-11-13 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2007/13012. | cvm-col-20071113-d29 | fichas/colegiado/2007-23.md |
+| RJ2007/12868 | 2007-11-13 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2007/12868. | cvm-col-20071113-d28 | fichas/colegiado/2007-23.md |
+| RJ2007/12734 | 2007-11-13 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2007/12734. | cvm-col-20071113-d27 | fichas/colegiado/2007-23.md |
+| RJ2007/12702 | 2007-11-13 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2007/12702. | cvm-col-20071113-d26 | fichas/colegiado/2007-23.md |
+| RJ2007/9189 | 2007-11-13 | nao-provido | O Colegiado indeferiu recurso contra o indeferimento de credenciamento como administrador de carteiras, por atuação financeira em empresas… | cvm-col-20071113-d25 | fichas/colegiado/2007-23.md |
+| RJ2007/0236 | 2007-11-13 | nao-provido | Com base no relatório da SIN, o Colegiado indeferiu recurso contra indeferimento de credenciamento como administrador de carteiras. Não… | cvm-col-20071113-d24 | fichas/colegiado/2007-23.md |
+| RJ2007/12872 | 2007-11-13 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12872. | cvm-col-20071113-d23 | fichas/colegiado/2007-23.md |
+| RJ2007/12871 | 2007-11-13 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12871. | cvm-col-20071113-d22 | fichas/colegiado/2007-23.md |
+| RJ2007/12870 | 2007-11-13 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12870. | cvm-col-20071113-d21 | fichas/colegiado/2007-23.md |
+| RJ2007/12869 | 2007-11-13 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12869. | cvm-col-20071113-d20 | fichas/colegiado/2007-23.md |
+| RJ2007/12867 | 2007-11-13 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12867. | cvm-col-20071113-d19 | fichas/colegiado/2007-23.md |
+| RJ2007/12703 | 2007-11-13 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12703. | cvm-col-20071113-d18 | fichas/colegiado/2007-23.md |
+| RJ2007/12700 | 2007-11-13 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12700. | cvm-col-20071113-d17 | fichas/colegiado/2007-22.md |
+| RJ2007/12699 | 2007-11-13 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12699. | cvm-col-20071113-d16 | fichas/colegiado/2007-22.md |
+| RJ2007/12698 | 2007-11-13 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12698. | cvm-col-20071113-d15 | fichas/colegiado/2007-22.md |
+| RJ2007/12058 | 2007-11-13 | provido | O Colegiado, por unanimidade, deu provimento ao recurso do Banco Industrial do Brasil S.A. e reformou exigência da SEP de baixa de ágio de… | cvm-col-20071113-d14 | fichas/colegiado/2007-22.md |
+| RJ2004/3764 | 2007-11-13 | outro | O Colegiado aprovou o cancelamento de ofício do registro de cinco companhias abertas propostas pela SEP, nos termos do art. 2º da Instrução… | cvm-col-20071113-d13 | fichas/colegiado/2007-22.md |
+| RJ2006/6572 | 2007-11-13 | outro | Com base na manifestação da SAD, que atestou pagamento na forma convencionada e ausência de obrigação adicional, o Colegiado determinou o… | cvm-col-20071113-d12 | fichas/colegiado/2007-22.md |
+| 10/2005 | 2007-11-13 | outro | O Colegiado determinou o arquivamento do PAS 10/2005 em relação aos proponentes do termo de compromisso, por cumprido o termo aprovado em… | cvm-col-20071113-d11 | fichas/colegiado/2007-22.md |
+| RJ2006/8625 | 2007-11-13 | outro | O Colegiado determinou o arquivamento do PAS RJ2006/8625, por ter sido cumprido o termo de compromisso firmado pelo único indiciado. Base… | cvm-col-20071113-d10 | fichas/colegiado/2007-22.md |
+| RJ2005/2502 | 2007-11-13 | nao-provido | O Colegiado, por maioria, manteve decisão de 18.09.07 sobre reclamações ao fundo de garantia da BVSP, esclarecendo que nada mais é devido… | cvm-col-20071113-d03 | fichas/colegiado/2007-22.md |
+| RJ2007/9211 | 2007-11-13 | parcial | Pedido de reconsideração de decisão do colegiado. Proc. RJ2007/9211. | cvm-col-20071113-d02 | fichas/colegiado/2007-22.md |
+| RJ2007/8160 | 2007-11-13 | outro | O Colegiado aprovou a minuta de convênio entre a CVM e a Abrasca sobre cooperação e intercâmbio técnico e acadêmico nas áreas societária… | cvm-col-20071113-d01 | fichas/colegiado/2007-22.md |
+| RJ2007/13459 | 2007-11-12 | deferido | Acompanhando a SEP (Memo/SEP/GEA-4/143/07), o Colegiado entendeu que, sendo a incorporada de capital fechado, com contas consolidadas nas… | cvm-col-20071112-d02 | fichas/colegiado/2007-22.md |
+| RJ2007/13175 | 2007-11-12 | outro | O Colegiado, em consulta do Banco do Brasil S.A., manifestou-se pela possibilidade, no caso, de critérios de avaliação diferenciados para a… | cvm-col-20071112-d01 | fichas/colegiado/2007-22.md |
+| RJ2007/12285; RJ2007/12842 | 2007-11-06 | deferido | O Colegiado concedeu dispensa do estudo de viabilidade econômico-financeira (inciso XIII do art. 7º da Instrução 202/93) no registro de… | cvm-col-20071106-d09 | fichas/colegiado/2007-22.md |
+| RJ2007/12822 | 2007-11-06 | parcial | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12822. | cvm-col-20071106-d08 | fichas/colegiado/2007-22.md |
+| RJ2007/12721 | 2007-11-06 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12721. | cvm-col-20071106-d07 | fichas/colegiado/2007-22.md |
+| RJ2007/12300 | 2007-11-06 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12300. | cvm-col-20071106-d06 | fichas/colegiado/2007-22.md |
+| RJ2007/12299 | 2007-11-06 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12299. | cvm-col-20071106-d05 | fichas/colegiado/2007-22.md |
+| RJ2007/1208 | 2007-11-06 | nao-provido | Recurso contra decisão da SEP em processo de rito sumário. PAS RJ2007/1208. | cvm-col-20071106-d04 | fichas/colegiado/2007-22.md |
+| RJ2007/11445 | 2007-11-06 | nao-provido | Acompanhando a SEP, o Colegiado negou provimento a recurso contra o entendimento de que, em companhia incentivada (IN 265/97, art. 35), não… | cvm-col-20071106-d03 | fichas/colegiado/2007-22.md |
+| RJ2007/11120 | 2007-11-06 | nao-provido | Recurso contra decisão da SOI em processo de multa cominatória. Proc. RJ2007/11120. | cvm-col-20071106-d02 | fichas/colegiado/2007-22.md |
+| RJ2007/12913 | 2007-11-06 | outro | O Colegiado aprovou, com pequenas alterações, minuta de Decisão-Conjunta CVM/SPC que fixa os índices de referência admitidos para cobrança… | cvm-col-20071106-d01 | fichas/colegiado/2007-22.md |
+| — | 2007-10-31 | indeferido | O Colegiado indeferiu o tratamento sigiloso pedido para o laudo de avaliação do preço de emissão de ações, por não observado o art. 14 da… | cvm-col-20071031-d02 | fichas/colegiado/2007-21.md |
+| RJ2007/3296 | 2007-10-31 | provido | Em pedido de reconsideração da decisão de 18.09.07 sobre OPA unificada da TRAFO Equipamentos Elétricos S.A., o Colegiado reformou a decisão… | cvm-col-20071031-d01 | fichas/colegiado/2007-21.md |
+| RJ2007/10666; RJ2007/12022; RJ2007/12035; RJ2007/12117; RJ2007/12118; RJ2007/12133; RJ2007/12222; RJ2007/12373; RJ2007/12850 | 2007-10-30 | deferido | O Colegiado concedeu as nove dispensas pleiteadas para FIDC-NP, com arquivamento, pela vedação à negociação das cotas em mercado público e… | cvm-col-20071030-d20 | fichas/colegiado/2007-21.md |
+| RJ2007/8075 | 2007-10-30 | provido | O Colegiado, por maioria, deu provimento a recurso contra indeferimento da SIN e concedeu credenciamento para administração de carteiras de… | cvm-col-20071030-d19 | fichas/colegiado/2007-21.md |
+| RJ2007/7551 | 2007-10-30 | deferido | O Colegiado concedeu credenciamento como administrador de carteiras de valores mobiliários ao requerente, com base em experiência de… | cvm-col-20071030-d18 | fichas/colegiado/2007-21.md |
+| RJ2007/8929 | 2007-10-30 | deferido | O Colegiado concedeu credenciamento como administrador de carteiras de valores mobiliários, por maioria, por analogia ao precedente… | cvm-col-20071030-d17 | fichas/colegiado/2007-21.md |
+| RJ2007/12490 | 2007-10-30 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12490. | cvm-col-20071030-d16 | fichas/colegiado/2007-21.md |
+| RJ2007/12486 | 2007-10-30 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12486. | cvm-col-20071030-d15 | fichas/colegiado/2007-21.md |
+| RJ2007/12193 | 2007-10-30 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12193. | cvm-col-20071030-d14 | fichas/colegiado/2007-21.md |
+| RJ2007/12146 | 2007-10-30 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12146. | cvm-col-20071030-d13 | fichas/colegiado/2007-21.md |
+| RJ2007/12144 | 2007-10-30 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12144. | cvm-col-20071030-d12 | fichas/colegiado/2007-21.md |
+| RJ2007/12094 | 2007-10-30 | provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12094. | cvm-col-20071030-d11 | fichas/colegiado/2007-21.md |
+| RJ2007/12488 | 2007-10-30 | deferido | O Colegiado concedeu à Petroquímica Comodoro Rivadavia S.A. dispensa de apresentar os formulários DFP e ITR no registro de companhia… | cvm-col-20071030-d10 | fichas/colegiado/2007-21.md |
+| RJ2007/12274 | 2007-10-30 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12274. | cvm-col-20071030-d09 | fichas/colegiado/2007-21.md |
+| RJ2007/12237 | 2007-10-30 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12237. | cvm-col-20071030-d08 | fichas/colegiado/2007-21.md |
+| RJ2007/12214 | 2007-10-30 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12214. | cvm-col-20071030-d07 | fichas/colegiado/2007-21.md |
+| RJ2007/12083 | 2007-10-30 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12083. | cvm-col-20071030-d06 | fichas/colegiado/2007-21.md |
+| 06/2005 | 2007-10-30 | outro | O Colegiado determinou o arquivamento do PAS 06/2005 em relação aos indiciados, por ter cumprido o termo de compromisso aprovado em… | cvm-col-20071030-d05 | fichas/colegiado/2007-21.md |
+| RJ2005/2968 | 2007-10-30 | outro | O Colegiado aprovou, após audiência pública, a minuta de Deliberação que aprova o Pronunciamento CPC 01 (redução no valor recuperável de… | cvm-col-20071030-d02-r2 | fichas/colegiado/2007-21.md |
+| RJ2007/12819 | 2007-10-30 | outro | O Colegiado aprovou, com alterações, para audiência pública de 30 dias, minuta de Deliberação que substitui a Deliberação 457/02 e reforma… | cvm-col-20071030-d01 | fichas/colegiado/2007-20.md |
+| RJ2004/4101 | 2007-10-30 | outro | O Colegiado aprovou, com alterações, a minuta de Instrução sobre constituição, administração, funcionamento, oferta de cotas e divulgação… | cvm-col-20071030-d01-r2 | fichas/colegiado/2007-21.md |
+| RJ2007/12443 | 2007-10-23 | provido | O Colegiado proveu recurso do BESC contra a SMI e concedeu o prazo adicional de 20 dias, pedido pelo BESC, para reprocessar as carteiras… | cvm-col-20071023-d13 | fichas/colegiado/2007-20.md |
+| RJ2007/12179 | 2007-10-23 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12179. | cvm-col-20071023-d12 | fichas/colegiado/2007-20.md |
+| RJ2007/12169 | 2007-10-23 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12169. | cvm-col-20071023-d11 | fichas/colegiado/2007-20.md |
+| RJ2007/12167 | 2007-10-23 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12167. | cvm-col-20071023-d10 | fichas/colegiado/2007-20.md |
+| RJ2007/12147 | 2007-10-23 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12147. | cvm-col-20071023-d09 | fichas/colegiado/2007-20.md |
+| RJ2007/12005 | 2007-10-23 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12005. | cvm-col-20071023-d08 | fichas/colegiado/2007-20.md |
+| RJ2007/12091 | 2007-10-23 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12091. | cvm-col-20071023-d07 | fichas/colegiado/2007-20.md |
+| RJ2007/10687 | 2007-10-23 | deferido | O Colegiado concedeu dispensa de publicação de fato relevante resumido na incorporação de controlada da Lupatech S.A. e afirmou que a CVM… | cvm-col-20071023-d06 | fichas/colegiado/2007-20.md |
+| RJ2005/6595 | 2007-10-23 | conhecimento | O Colegiado não conheceu do mérito de recurso contra entendimento conjunto da PFE e da SEP sobre a prescrição do direito de conversão, em… | cvm-col-20071023-d05 | fichas/colegiado/2007-20.md |
+| RJ2007/10322 | 2007-10-23 | deferido | O Colegiado concedeu a dispensa de isenção da responsabilidade do custodiante pela verificação do lastro dos créditos do FIDC Fornecedores… | cvm-col-20071023-d04 | fichas/colegiado/2007-20.md |
+| RJ2007/9152 | 2007-10-23 | deferido | O Colegiado deferiu ao MSquare Multicarteira FIDC-NP dispensas de requisitos de registro (Instrução 444/06, art. 9º; Instrução 356/01, art… | cvm-col-20071023-d03 | fichas/colegiado/2007-20.md |
+| RJ2006/4241 | 2007-10-23 | nao-provido | O Colegiado manteve decisão de 07.08.07, que negou provimento a recurso contra o arquivamento pela SOI de reclamação sobre destinação de… | cvm-col-20071023-d02 | fichas/colegiado/2007-20.md |
+| RJ2006/9858 | 2007-10-23 | indeferido | O Colegiado indeferiu pedido de investidor não residente para alienar privadamente 2.500 quotas do FII River Shopping, pois a Resolução CMN… | cvm-col-20071023-d01 | fichas/colegiado/2007-20.md |
+| RJ2007/12447 | 2007-10-22 | indeferido | O Colegiado acompanhou a SEP e indeferiu pedido de interrupção do prazo da AGE do Banco do Brasil S.A. Fundamento: ausentes os requisitos… | cvm-col-20071022-d01 | fichas/colegiado/2007-20.md |
+| RJ2007/10777 | 2007-10-17 | parcial | O Colegiado deferiu a dispensa de apresentar as demonstrações financeiras históricas da emissora Laep Investments Ltd no prospecto de BDRs… | cvm-col-20071017-d17 | fichas/colegiado/2007-20.md |
+| RJ2006/4592 | 2007-10-17 | outro | O Colegiado aprovou a minuta de convênio de cooperação acadêmica e técnica entre a CVM e o IBRADEMP – Instituto Brasileiro de Direito… | cvm-col-20071017-d16 | fichas/colegiado/2007-20.md |
+| RJ2007/12191 | 2007-10-17 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12191. | cvm-col-20071017-d15 | fichas/colegiado/2007-20.md |
+| RJ2007/12170 | 2007-10-17 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12170. | cvm-col-20071017-d14 | fichas/colegiado/2007-20.md |
+| RJ2007/12166 | 2007-10-17 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12166. | cvm-col-20071017-d13 | fichas/colegiado/2007-20.md |
+| RJ2007/12049 | 2007-10-17 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12049. | cvm-col-20071017-d12 | fichas/colegiado/2007-20.md |
+| RJ2007/12039 | 2007-10-17 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12039. | cvm-col-20071017-d11 | fichas/colegiado/2007-19.md |
+| RJ2007/12033 | 2007-10-17 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12033. | cvm-col-20071017-d10 | fichas/colegiado/2007-19.md |
+| RJ2007/12000 | 2007-10-17 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12000. | cvm-col-20071017-d09 | fichas/colegiado/2007-19.md |
+| RJ2007/11996 | 2007-10-17 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/11996. | cvm-col-20071017-d08 | fichas/colegiado/2007-19.md |
+| RJ2004/5303 | 2007-10-17 | outro | O Colegiado determinou o arquivamento, em relação aos compromitentes, do processo de cumprimento de Termo de Compromisso firmado em… | cvm-col-20071017-d07 | fichas/colegiado/2007-19.md |
+| RJ2007/0174 | 2007-10-17 | outro | O Colegiado determinou o arquivamento do processo em relação ao compromitente Western Asset Management Company Ltda., por ter cumprido o… | cvm-col-20071017-d06 | fichas/colegiado/2007-19.md |
+| 13/2004 | 2007-10-17 | outro | O Colegiado determinou o arquivamento do PAS 13/2004 contra Romanche Investment Corporation LLC e outros, por cumprimento do Termo de… | cvm-col-20071017-d05 | fichas/colegiado/2007-19.md |
+| 06/2004 | 2007-10-17 | outro | O Colegiado determinou o arquivamento do PAS 06/2004 em relação aos proponentes citados, por cumprimento dos Termos de Compromisso… | cvm-col-20071017-d04 | fichas/colegiado/2007-19.md |
+| RJ2007/11573 | 2007-10-17 | — | Pedido de reconsideração de acionistas preferencialistas das Ipiranga contra decisão do Colegiado de 04.10.07, que negou provimento a… | cvm-col-20071017-d02 | fichas/colegiado/2007-19.md |
+| 26/2005 | 2007-10-17 | nao-provido | O Colegiado indeferiu o pedido de reconsideração da Hedging-Grifo CV S.A., acionista minoritária da M&G Poliéster S.A., contra decisão da… | cvm-col-20071017-d01 | fichas/colegiado/2007-19.md |
+| — | 2007-10-09 | indeferido | O Colegiado indeferiu pleito da ANBID para que, em caráter excepcional, companhias com pedido de registro em análise tivessem a vedação de… | cvm-col-20071009-d12 | fichas/colegiado/2007-19.md |
+| SP2007/0209 | 2007-10-09 | nao-provido | Aditamento ao pedido de reconsideração de decisão do colegiado. Proc. SP2007/0209. | cvm-col-20071009-d11 | fichas/colegiado/2007-19.md |
+| RJ2007/8194 | 2007-10-09 | outro | O Colegiado aprovou o texto da minuta de Instrução sobre o fundo de investimento em participações em infraestrutura, após audiência pública. | cvm-col-20071009-d09 | fichas/colegiado/2007-19.md |
+| SP2007/0181 | 2007-10-09 | outro | O Colegiado decidiu que a CVM não deve opor restrição à adoção, pelos emissores em ofertas de ações, do mecanismo de rateio do varejo… | cvm-col-20071009-d08 | fichas/colegiado/2007-19.md |
+| RJ2007/11028 | 2007-10-09 | deferido | O Colegiado concedeu as sete dispensas pleiteadas para o registro de funcionamento do FIDC-NP Alemanha Multicarteira, pelos argumentos do… | cvm-col-20071009-d07 | fichas/colegiado/2007-19.md |
+| RJ2007/8519 | 2007-10-09 | deferido | O Colegiado acompanhou a área técnica e aprovou o registro de OPA unificada da Tavex Algodonera S.A., por aumento de participação e para… | cvm-col-20071009-d06 | fichas/colegiado/2007-19.md |
+| RJ2007/7345 | 2007-10-09 | provido | O Colegiado reformou sua decisão de 04/09/07, acompanhando o relator, e dispensou o estudo de viabilidade econômico-financeira no registro… | cvm-col-20071009-d05 | fichas/colegiado/2007-19.md |
+| RJ2007/8844 | 2007-10-09 | nao-provido | O Colegiado manteve decisão de 23.07.07, que, acompanhando a SEP, indeferiu pedido de interrupção do prazo de convocação de AGE da M&G… | cvm-col-20071009-d04 | fichas/colegiado/2007-19.md |
+| RJ2007/10682 | 2007-10-09 | outro | O Colegiado respondeu à consulta da SEP mantendo o entendimento do Proc. RJ2001/12242 (aprovado em 26.04.02): o art. 8º, §1º, III, da Lei… | cvm-col-20071009-d03 | fichas/colegiado/2007-19.md |
+| SP2007/0168 | 2007-10-09 | provido | O Colegiado, por maioria, deu provimento a recurso da BM&F contra decisão da SMI que determinara divulgar aos associados o detalhamento das… | cvm-col-20071009-d02 | fichas/colegiado/2007-18.md |
+| RJ2005/6541 | 2007-10-09 | nao-provido | O Colegiado, por maioria, negou provimento ao recurso contra exigência da SIN de designar no contrato social o diretor responsável pela… | cvm-col-20071009-d01 | fichas/colegiado/2007-18.md |
+| RJ2007/11573 | 2007-10-04 | nao-provido | O Colegiado negou provimento a recurso de acionistas preferencialistas contra a SRE sobre laudo de avaliação das OPAs de RPI, DPPI e CBPI… | cvm-col-20071004-d01 | fichas/colegiado/2007-18.md |
+| RJ2007/10684 | 2007-10-02 | deferido | O Colegiado deferiu, no caso concreto, a dispensa do art. 35, III, da Instrução 391/03 pleiteada pela BEM DTVM, gestora do GIF II – Fundo… | cvm-col-20071002-d10 | fichas/colegiado/2007-18.md |
+| RJ2007/10988 | 2007-10-02 | deferido | O Colegiado concedeu a dispensa do estudo de viabilidade econômico-financeira da Bovespa Holding S.A., condicionada a seção específica no… | cvm-col-20071002-d09 | fichas/colegiado/2007-18.md |
+| RJ2007/4747 | 2007-10-02 | provido | O Colegiado deu provimento ao recurso da recorrente contra o indeferimento, pela SIN, do credenciamento como consultora de valores… | cvm-col-20071002-d08 | fichas/colegiado/2007-18.md |
+| RJ2005/9000 | 2007-10-02 | outro | O Colegiado determinou o arquivamento do PAS RJ2005/9000 contra o Banco Itaú S.A. e outro proponente, por cumprimento do Termo de… | cvm-col-20071002-d07 | fichas/colegiado/2007-18.md |
+| RJ2006/4780 | 2007-10-02 | outro | O Colegiado determinou o arquivamento do processo de cumprimento de Termo de Compromisso do PAS RJ2006/4780, por ter sido cumprido por… | cvm-col-20071002-d06 | fichas/colegiado/2007-18.md |
+| RJ2006/1216 | 2007-10-02 | provido | O Colegiado, com base no art. 65 da Lei 9.784/99, reviu a decisão de 20.06.07 que aplicou multa no PAS RJ2006/1216 e excluiu do processo o… | cvm-col-20071002-d05 | fichas/colegiado/2007-18.md |
+| SP2006/0180 | 2007-10-02 | nao-provido | Pedido de reconsideração de decisão do colegiado em processo de fundo de garantia. Proc. SP2006/0180. | cvm-col-20071002-d04 | fichas/colegiado/2007-18.md |
+| SP2006/0109 | 2007-10-02 | parcial | Pedido de reconsideração de decisão do colegiado em processo de fundo de garantia. Proc. SP2006/0109. | cvm-col-20071002-d03 | fichas/colegiado/2007-18.md |
+| SP2007/0144 | 2007-10-02 | deferido | O Colegiado aprovou o pedido da BM&F para lançamento de contratos a termo de metais e de contratos de opções de compra e venda sobre metais… | cvm-col-20071002-d02 | fichas/colegiado/2007-18.md |
+| RJ2007/0646 | 2007-10-02 | outro | O Colegiado facultou à ofertante, na OPA da Banex S.A. CFI, escolher entre novo leilão, com a antiga denominação em destaque e inversão do… | cvm-col-20071002-d01 | fichas/colegiado/2007-18.md |
+| RJ2007/11592 | 2007-09-28 | parcial | Pedido de postergação do prazo para realização de assembléia geral extraordinária. Proc. nº RJ 2007/11592. | cvm-col-20070928-d01 | fichas/colegiado/2007-18.md |
+| SP2007/0168 | 2007-09-25 | nao-provido | Pedido de reconsideração de decisão do colegiado. Proc. SP2007/0168. | cvm-col-20070925-d06 | fichas/colegiado/2007-18.md |
+| SP2005/0003 | 2007-09-25 | nao-provido | O Colegiado negou provimento a recurso de investidor contra o Banco Itaú S.A., administrador de fundos de ações que recusou novas… | cvm-col-20070925-d05 | fichas/colegiado/2007-17.md |
+| RJ2007/10392 | 2007-09-25 | deferido | O Colegiado concedeu as dispensas de demonstrações financeiras históricas da emissora e de estudo de viabilidade da SEB – Sistema… | cvm-col-20070925-d04 | fichas/colegiado/2007-17.md |
+| RJ2007/7144 | 2007-09-25 | parcial | O Colegiado negou a dispensa do registro da oferta de cotas do Recovery do Brasil FIDC NP Multisetorial, que deverá ser requerido. Se… | cvm-col-20070925-d03 | fichas/colegiado/2007-17.md |
+| RJ2007/9227 | 2007-09-25 | nao-provido | O Colegiado negou provimento a recurso contra o cancelamento automático, pela SRE, do 2º Programa de Distribuição Pública de Debêntures da… | cvm-col-20070925-d02 | fichas/colegiado/2007-17.md |
+| RJ2007/11135 | 2007-09-25 | outro | O Colegiado aprovou minuta de convênio entre a CVM e a RIOPREVIDÊNCIA (Fundo Único de Previdência Social do Estado do Rio de Janeiro) para… | cvm-col-20070925-d01 | fichas/colegiado/2007-17.md |
+| SP2005/0173 | 2007-09-18 | deferido | O Colegiado concedeu prazo adicional de 30 dias para cumprir termo de compromisso no PAS SP2005/0173 (ABN AMRO Real e outros), com opinião… | cvm-col-20070918-d14 | fichas/colegiado/2007-17.md |
+| RJ2007/9330 | 2007-09-18 | deferido | O Colegiado deferiu a dispensa do estudo de viabilidade econômico-financeira na oferta de ações da Marisa S.A., desde que o prospecto… | cvm-col-20070918-d13 | fichas/colegiado/2007-17.md |
+| RJ2007/10693 | 2007-09-18 | deferido | O Colegiado deferiu a dispensa do estudo de viabilidade econômico-financeira (Instrução 400, art. 32, II) na oferta primária e secundária… | cvm-col-20070918-d12 | fichas/colegiado/2007-17.md |
+| RJ2007/3296 | 2007-09-18 | parcial | O Colegiado não autorizou a unificação das ofertas de OPA sobre a TRAFO nos termos propostos pela SRE, que a recomendava, por não assegurar… | cvm-col-20070918-d11 | fichas/colegiado/2007-17.md |
+| RJ2006/3984 | 2007-09-18 | outro | O Colegiado aprovou a minuta de Deliberação sobre atuação irregular no mercado de valores mobiliários, apresentada pela Superintendência de… | cvm-col-20070918-d10 | fichas/colegiado/2007-17.md |
+| RJ2005/2502 | 2007-09-18 | parcial | Recurso em processo de fundo de garantia. Proc. RJ2005/2502. | cvm-col-20070918-d09 | fichas/colegiado/2007-17.md |
+| RJ2007/3061 | 2007-09-18 | outro | O Colegiado acompanhou o voto do relator para que a SIN considere, no credenciamento de pessoa natural como administrador de carteira, o… | cvm-col-20070918-d08 | fichas/colegiado/2007-17.md |
+| RJ2007/3406 | 2007-09-18 | nao-provido | O Colegiado negou provimento a recurso contra o indeferimento, pela SIN, de registro de administrador de carteira de valores mobiliários… | cvm-col-20070918-d07 | fichas/colegiado/2007-17.md |
+| RJ2006/7209 | 2007-09-18 | outro | O Colegiado determinou o arquivamento do PAS RJ2006/7209 em relação aos indiciados, por ter sido cumprido o termo de compromisso aprovado… | cvm-col-20070918-d06 | fichas/colegiado/2007-17.md |
+| RJ2003/11142 | 2007-09-18 | outro | O Colegiado aprovou o texto final, com diversas alterações, da minuta de Instrução sobre mercados regulamentados de valores mobiliários e a… | cvm-col-20070918-d01 | fichas/colegiado/2007-17.md |
+| — | 2007-09-17 | outro | O Colegiado prorrogou até 17.10.2007 o prazo para envio de sugestões e comentários à Audiência Pública 09/07, que altera a Instrução 388/03… | cvm-col-20070917-d02 | fichas/colegiado/2007-17.md |
+| SP2007/0168 | 2007-09-17 | indeferido | O Colegiado, por maioria, rejeitou os pedidos da TOV contra a AGE da BM&F: o art. 124, §5º, da Lei 6.404/76 só se aplica a companhias… | cvm-col-20070917-d01 | fichas/colegiado/2007-17.md |
+| — | 2007-09-14 | indeferido | O Colegiado indeferiu o pedido de tratamento confidencial para análise dos pedidos de registro de companhia e de oferta de BDR da… | cvm-col-20070914-d01 | fichas/colegiado/2007-16.md |
+| RJ2007/4022 | 2007-09-14 | outro | O Colegiado autorizou o envio de novas exigências à ofertante e ao intermediário no registro da OPA da Companhia Brasileira de Petróleo… | cvm-col-20070914-d01-r2 | fichas/colegiado/2007-16.md |
+| — | 2007-09-11 | outro | O Colegiado prorrogou até 25.09.2007 o prazo para envio de sugestões e comentários à Audiência Pública 08/07, que altera a Instrução 301/99… | cvm-col-20070911-d05 | fichas/colegiado/2007-16.md |
+| RJ2007/8607 | 2007-09-11 | deferido | O Colegiado concedeu autorização para o investidor não residente Castlerigg Master Investments, LTD transferir seus investimentos à… | cvm-col-20070911-d04 | fichas/colegiado/2007-16.md |
+| RJ2006/6380 | 2007-09-11 | deferido | O Colegiado concedeu autorização para o Opportunnity Fund transferir seus investimentos para a International Markets Investments C.V… | cvm-col-20070911-d03 | fichas/colegiado/2007-16.md |
+| RJ2006/0180 | 2007-09-11 | outro | O Colegiado determinou o arquivamento do processo da Dohler S.A., por cumprimento do Termo de Compromisso firmado pelos nove indiciados… | cvm-col-20070911-d02 | fichas/colegiado/2007-16.md |
+| RJ2005/4555 | 2007-09-11 | deferido | O Colegiado concedeu prazo adicional de 45 dias para cumprimento da cláusula 4 do Termo de Compromisso (apresentação de relatório de… | cvm-col-20070911-d01 | fichas/colegiado/2007-16.md |
+| RJ2007/7345 | 2007-09-04 | indeferido | O Colegiado negou a dispensa da apresentação de estudo de viabilidade econômico-financeira no registro inicial da Centennial Asset… | cvm-col-20070904-d05 | fichas/colegiado/2007-16.md |
+| RJ2007/4500 | 2007-09-04 | deferido | O Colegiado aprovou, acompanhando a SRE, a dispensa de laudo de avaliação e de instituição intermediária na OPA com procedimento… | cvm-col-20070904-d04 | fichas/colegiado/2007-16.md |
+| RJ2007/9361 | 2007-09-04 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SNC que indeferiu o registro da INDEP Auditores Independentes S/S como auditor… | cvm-col-20070904-d03 | fichas/colegiado/2007-16.md |
+| RJ2007/10398 | 2007-09-04 | deferido | O Colegiado deferiu a dispensa de divulgação do ITR do 2º trimestre de 2007 pedida pela CPM Braxis S.A., por entender que, pedida no… | cvm-col-20070904-d02 | fichas/colegiado/2007-16.md |
+| SP2007/0062 | 2007-09-04 | parcial | Recurso contra decisão da SOI em processo de multa cominatória. Proc. SP2007/0062. | cvm-col-20070904-d01 | fichas/colegiado/2007-16.md |
+| — | 2007-09-03 | deferido | O Colegiado acatou o pleito da ANBID e concedeu prazo de dez dias, contados da entrada em vigor das alterações de regulamentos e… | cvm-col-20070903-d02 | fichas/colegiado/2007-16.md |
+| RJ2007/9346 | 2007-09-03 | outro | O Colegiado aprovou, com alterações, a minuta de Deliberação que dispõe sobre a obrigatoriedade de identificação dos acionistas… | cvm-col-20070903-d01 | fichas/colegiado/2007-16.md |
+| RJ2007/9211 | 2007-08-28 | nao-provido | O Colegiado, por maioria, negou provimento a recurso da Duke Energy Paranapanema S.A. contra entendimento da SEP, em divergência do voto do… | cvm-col-20070828-d07 | fichas/colegiado/2007-16.md |
+| RJ2006-5733 | 2007-08-28 | outro | O Colegiado aprovou, com alterações, após audiência pública, minuta de Instrução que regulamenta os fundos de investimento vinculados a… | cvm-col-20070828-d06 | fichas/colegiado/2007-16.md |
+| RJ2006/1325 | 2007-08-28 | outro | O Colegiado determinou o arquivamento do PAS RJ2006/1325 por ter sido cumprido o Termo de Compromisso da Geração Futuro Corretora de… | cvm-col-20070828-d05 | fichas/colegiado/2007-16.md |
+| RJ2007/9196 | 2007-08-28 | indeferido | O Colegiado indeferiu pedido da DGF Gestão de Fundos Ltda., administradora do FIP Terra Viva, de dispensa de registro da oferta de cotas do… | cvm-col-20070828-d04 | fichas/colegiado/2007-16.md |
+| RJ2007/8644 | 2007-08-28 | deferido | O Colegiado deferiu pedido do Banco Opportunity S.A., administrador do FII Trade Center, de dispensa de prospecto e de anúncios de início e… | cvm-col-20070828-d03 | fichas/colegiado/2007-16.md |
+| RJ2007/4120 | 2007-08-28 | outro | O Colegiado aprovou o texto do Protocolo de Cooperação entre a CVM e a Comissão do Mercado de Capitais de Angola. | cvm-col-20070828-d02 | fichas/colegiado/2007-16.md |
+| — | 2007-08-27 | outro | O Colegiado aceitou a estrutura de auto-regulação proposta pela Bovespa na desmutualização, condicionando a aprovação dos estatutos da BM&F… | cvm-col-20070827-d02 | fichas/colegiado/2007-15.md |
+| — | 2007-08-27 | outro | Minuta de instrução que dispõe sobre o fundo de investimento do fundo de garantia do tempo de serviço (fi-fgts) e sobre o fundo de… | cvm-col-20070827-d01 | fichas/colegiado/2007-15.md |
+| — | 2007-08-24 | outro | O Colegiado esclareceu que a suspensão de aquisições de ações pelo programa de recompra da Brascan Residential Properties S.A. vale… | cvm-col-20070824-d01 | fichas/colegiado/2007-15.md |
+| — | 2007-08-23 | deferido | O Colegiado deferiu, por unanimidade, a não divulgação de fato relevante pela Brascan Residential Properties S.A. (art. 7º da Instrução… | cvm-col-20070823-d01 | fichas/colegiado/2007-15.md |
+| RJ2007/8887 | 2007-08-21 | nao-provido | O Colegiado negou provimento a recurso da Geração Futuro Corretora de Valores S/A e manteve a decisão da SRE que indeferiu o registro de… | cvm-col-20070821-d12 | fichas/colegiado/2007-15.md |
+| RJ2007/4480 | 2007-08-21 | nao-provido | O Colegiado indeferiu recurso contra decisão da SIN que negou credenciamento para administração de carteira de valores mobiliários, por não… | cvm-col-20070821-d11 | fichas/colegiado/2007-15.md |
+| RJ2007/3560 | 2007-08-21 | provido | Recurso contra decisão da SIN em processo de rito sumário. | cvm-col-20070821-d10 | fichas/colegiado/2007-15.md |
+| RJ2007/3547 | 2007-08-21 | provido | Recurso contra decisão da SIN em processo de rito sumário. | cvm-col-20070821-d09 | fichas/colegiado/2007-15.md |
+| RJ2007/9211 | 2007-08-21 | — | Recurso da Duke Energy International Geração Paranapanema S.A. contra entendimento da SEP sobre a conversão de ações ordinárias em… | cvm-col-20070821-d08 | fichas/colegiado/2007-15.md |
+| RJ2004/5303 | 2007-08-21 | outro | O Colegiado declarou a perda de objeto do pedido de prorrogação do prazo para cumprimento de Termo de Compromisso (RJ2004/5303, aprovado em… | cvm-col-20070821-d03 | fichas/colegiado/2007-15.md |
+| RJ2007/2952 | 2007-08-21 | provido | Recurso contra decisão da SOI em processo de multa cominatória. Proc. RJ2007/2952. | cvm-col-20070821-d02 | fichas/colegiado/2007-15.md |
+| RJ2006/7837 | 2007-08-21 | indeferido | O Colegiado indeferiu a pretensão da BB Administração de Ativos DTVM S.A. de contabilizar pelo valor nominal corrigido títulos federais na… | cvm-col-20070821-d01 | fichas/colegiado/2007-15.md |
+| RJ2004/1335 | 2007-08-14 | outro | O Colegiado aprovou, com alterações, para audiência pública de 30 dias, minuta de Instrução sobre aprovação de contratos derivativos… | cvm-col-20070814-d05 | fichas/colegiado/2007-15.md |
+| RJ2007/3296 | 2007-08-14 | parcial | O Colegiado concedeu, a pedido da SRE, prazo suplementar para a área comunicar à WEG e ao intermediário sua posição final sobre o registro… | cvm-col-20070814-d04 | fichas/colegiado/2007-15.md |
+| RJ2007/2035 | 2007-08-14 | outro | O Colegiado determinou a emissão de normativo que revoga as exigências do §4º e do inc. II do §5º do art. 38 da Instrução 356/01 às… | cvm-col-20070814-d03 | fichas/colegiado/2007-15.md |
+| SP2006/0180 | 2007-08-14 | provido | Recurso em processo de fundo de garantia. Proc. SP2006/0180. | cvm-col-20070814-d02 | fichas/colegiado/2007-14.md |
+| SP2006/0109 | 2007-08-14 | provido | Recurso em processo de fundo de garantia. Proc. SP2006/0109. | cvm-col-20070814-d01 | fichas/colegiado/2007-14.md |
+| RJ2007/4432; RJ2007/4453 | 2007-08-07 | indeferido | O Colegiado manteve a decisão de 15.08.06, segundo a qual fundos de investimento constituídos como investment companies não podem… | cvm-col-20070807-d09 | fichas/colegiado/2007-14.md |
+| RJ2007/5163 | 2007-08-07 | deferido | O Colegiado concedeu as quatro dispensas pleiteadas na oferta da 5ª série de CRI da Rio Bravo Crédito Companhia de Securitização… | cvm-col-20070807-d08 | fichas/colegiado/2007-14.md |
+| RJ2007/7034 | 2007-08-07 | nao-provido | O Colegiado negou provimento a recurso de pessoa física contra decisão da SMI que indeferiu seu registro como agente autônomo de… | cvm-col-20070807-d07 | fichas/colegiado/2007-14.md |
+| RJ2006/4241 | 2007-08-07 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SOI que arquivou reclamação sobre a destinação de resultados (exercícios 2002 a… | cvm-col-20070807-d06 | fichas/colegiado/2007-14.md |
+| RJ2007/5903 | 2007-08-07 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SMI que indeferiu registro de agente autônomo de investimento por falta de… | cvm-col-20070807-d05 | fichas/colegiado/2007-14.md |
+| RJ2006/1854 | 2007-08-07 | outro | O Colegiado aprovou, de ofício, o cancelamento do registro de dez companhias abertas nos termos do art. 2º da Instrução 287/98, acatando o… | cvm-col-20070807-d04 | fichas/colegiado/2007-14.md |
+| RJ2006/6136 | 2007-08-07 | outro | O Colegiado aprovou, com alterações, minuta de Instrução sobre a atividade de analista de valores mobiliários para audiência pública de 30… | cvm-col-20070807-d01 | fichas/colegiado/2007-14.md |
+| SP2005/0050 | 2007-08-02 | outro | O Colegiado aprovou, para audiência pública de 30 dias, minuta que altera a Instrução CVM 301/99 sobre identificação, cadastro, registro… | cvm-col-20070802-d01 | fichas/colegiado/2007-14.md |
+| 06/2007 | 2007-07-31 | outro | O Colegiado prorrogou até 06.08.07 o prazo para sugestões e comentários à Audiência Pública nº 06/2007, sobre mercados regulamentados de… | cvm-col-20070731-d11 | fichas/colegiado/2007-14.md |
+| RJ2007/7313 | 2007-07-31 | deferido | O Colegiado, acompanhando o relator, deferiu, com parecer favorável da SNC, a dispensa excepcional do rodízio de auditores independentes… | cvm-col-20070731-d10 | fichas/colegiado/2007-14.md |
+| RJ2006/5499 | 2007-07-31 | outro | O Colegiado aprovou, com alterações, minuta de Deliberação e de Ofício/Circular da SMI alertando agentes autônomos de investimento pessoa… | cvm-col-20070731-d09 | fichas/colegiado/2007-14.md |
+| RJ2007/7563 | 2007-07-31 | deferido | O Colegiado deferiu, com condição, a dispensa de estudo de viabilidade econômico-financeira na distribuição primária de BDR nível III da… | cvm-col-20070731-d08 | fichas/colegiado/2007-14.md |
+| RJ2006/1623 | 2007-07-31 | provido | Com base no art. 65 da Lei 9.784/99, o Colegiado reformou sua decisão de 01/08/2006 e excluiu do PAS RJ2006/1623 o acusado, falecido antes… | cvm-col-20070731-d04 | fichas/colegiado/2007-14.md |
+| RJ2006/1622 | 2007-07-31 | provido | O Colegiado, com base no art. 65 da Lei 9.784/99, reviu a decisão de 01.08.06 que aplicara multa no PAS RJ2006/1622 (Motortec Indústria… | cvm-col-20070731-d03 | fichas/colegiado/2007-14.md |
+| 02/2003 | 2007-07-31 | conhecimento | O Colegiado não conheceu de novos embargos de declaração no PAS 02/2003 (Bompreço), por serem incabíveis após o encerramento do processo na… | cvm-col-20070731-d02 | fichas/colegiado/2007-14.md |
+| SP2005/0268 | 2007-07-31 | outro | O Colegiado determinou o arquivamento do PAS SP2005/0268 em relação aos proponentes citados, por ter sido cumprido o Termo de Compromisso… | cvm-col-20070731-d01 | fichas/colegiado/2007-14.md |
+| — | 2007-07-25 | indeferido | O Colegiado indeferiu pedido da Vulcabrás S.A. de dispensa de divulgação de fato relevante sobre aquisição de controle da Azaléia (art. 6º… | cvm-col-20070725-d01 | fichas/colegiado/2007-14.md |
+| — | 2007-07-24 | indeferido | O Colegiado indeferiu, por inoportunidade e inconveniência, autorização excepcional para que clube de investimento aplique até 49% do… | cvm-col-20070724-d01 | fichas/colegiado/2007-13.md |
+| RJ/2007/8844 | 2007-07-23 | indeferido | Por unanimidade, o Colegiado indeferiu pedido de interrupção do prazo de convocação de AGE da M&G Poliéster (incorporação de ações da MG… | cvm-col-20070723-d01 | fichas/colegiado/2007-13.md |
+| — | 2007-07-17 | outro | O Colegiado deliberou submeter ao Ministro da Fazenda minutas de voto e de resolução do CMN que alteram os arts. 3º, 7º e 8º e revogam o… | cvm-col-20070717-d10 | fichas/colegiado/2007-13.md |
+| RJ2007/4125; RJ2007/1298 | 2007-07-17 | outro | O Colegiado aprovou a edição de Alerta ao Mercado sobre emissões de CICs lastreadas em direitos de jogadores de futebol, conforme minuta… | cvm-col-20070717-d09 | fichas/colegiado/2007-13.md |
+| RJ2007/3266 | 2007-07-17 | deferido | O Colegiado deferiu cinco dispensas de requisitos de registro pedidas para o V3 FIDC Multicarteira Não-Padronizado, com base na limitação… | cvm-col-20070717-d08 | fichas/colegiado/2007-13.md |
+| RJ2007/7199 | 2007-07-17 | deferido | O Colegiado acompanhou a área técnica e deferiu a dispensa de estudo de viabilidade econômico-financeira na oferta primária de ações da… | cvm-col-20070717-d07 | fichas/colegiado/2007-13.md |
+| RJ2007/8517 | 2007-07-17 | provido | Em reconsideração, o Colegiado aprovou dispensas indeferidas antes: parecer de advogado, prospecto, responsabilidade do custodiante pela… | cvm-col-20070717-d06 | fichas/colegiado/2007-13.md |
+| RJ2003/7911 | 2007-07-17 | outro | O Colegiado determinou o arquivamento de processo que propunha estender a identificação de comitentes da Instrução CVM 122/90 às corretoras… | cvm-col-20070717-d05 | fichas/colegiado/2007-13.md |
+| RJ2006/7545 | 2007-07-17 | outro | O Colegiado determinou o arquivamento do PAS RJ2006/7545 (PricewaterhouseCoopers Auditores Independentes), por ter sido cumprido o termo de… | cvm-col-20070717-d04 | fichas/colegiado/2007-13.md |
+| RJ2006/5674 | 2007-07-17 | outro | O Colegiado determinou o arquivamento do PAS RJ2006/5674 por cumprimento do Termo de Compromisso firmado pelo único indiciado, aprovado em… | cvm-col-20070717-d03 | fichas/colegiado/2007-13.md |
+| RJ2006/1507 | 2007-07-17 | outro | O Colegiado determinou o arquivamento do PAS RJ2006/1507 em relação a todos os indiciados, por ter sido cumprido o Termo de Compromisso… | cvm-col-20070717-d02 | fichas/colegiado/2007-13.md |
+| 09/2001 | 2007-07-17 | outro | O Colegiado determinou o arquivamento do PAS 09/2001 por ter sido cumprido o Termo de Compromisso firmado por todos os indiciados, aprovado… | cvm-col-20070717-d01 | fichas/colegiado/2007-13.md |
+| RJ2007/4235 | 2007-07-11 | outro | O Colegiado aprovou, após audiência pública, o texto da minuta de Instrução sobre a elaboração e divulgação de demonstrações contábeis… | cvm-col-20070711-d01 | fichas/colegiado/2007-13.md |
+| RJ2007/7230 | 2007-07-11 | nao-provido | O Colegiado negou provimento a recurso de acionistas da Copesul contra a SRE, que não exigiu OPA por alienação de controle. Fundamento: no… | cvm-col-20070711-d01-r2 | fichas/colegiado/2007-13.md |
+| RJ2007/5879 | 2007-07-10 | deferido | O Colegiado deferiu, sob condição, a dispensa do estudo de viabilidade econômico-financeira na oferta primária e secundária de ações da MRV… | cvm-col-20070710-d25 | fichas/colegiado/2007-13.md |
+| RJ2007/3623 | 2007-07-10 | outro | O Colegiado, ouvida a área técnica, condicionou a validação do laudo de avaliação da OPA para cancelamento de registro da Copesul ao… | cvm-col-20070710-d24 | fichas/colegiado/2007-13.md |
+| RJ2007/7169 | 2007-07-10 | outro | O Colegiado aprovou a proposta da Bovespa de divulgar na internet reuniões de road show de ofertas públicas de ações (arts. 48 a 50 da… | cvm-col-20070710-d23 | fichas/colegiado/2007-13.md |
+| RJ2007/0547 | 2007-07-10 | nao-provido | O Colegiado negou provimento a recurso da Rio Bravo Crédito Companhia de Securitização e manteve a decisão da SRE que indeferiu o registro… | cvm-col-20070710-d22 | fichas/colegiado/2007-13.md |
+| SP2007/0023 | 2007-07-10 | outro | O Colegiado declarou a perda de objeto da consulta da SMI sobre metodologia de índices para derivativos, por entender que a matéria deve… | cvm-col-20070710-d21 | fichas/colegiado/2007-13.md |
+| RJ2007/2592 | 2007-07-10 | nao-provido | O Colegiado negou provimento a recurso de pessoa física contra decisão da SIN que indeferiu seu registro como administrador de carteiras… | cvm-col-20070710-d20 | fichas/colegiado/2007-12.md |
+| RJ1999/3663 | 2007-07-10 | outro | O Colegiado compatibilizou decisões anteriores sobre administrador de carteira e consultor de valores mobiliários. (i) Ter registro de… | cvm-col-20070710-d19 | fichas/colegiado/2007-12.md |
+| RJ2006/9864 | 2007-07-10 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SIN que indeferiu registro de administrador de carteiras por falta de experiência… | cvm-col-20070710-d18 | fichas/colegiado/2007-12.md |
+| RJ2005/7230 | 2007-07-10 | nao-provido | O Colegiado negou provimento ao recurso de advogados e outros contra o arquivamento, pela SEP, do processo sobre obrigações emitidas pela… | cvm-col-20070710-d17 | fichas/colegiado/2007-12.md |
+| RJ2007/3246; RJ2006/5701 | 2007-07-10 | nao-provido | O Colegiado negou provimento a recurso da Souza Cruz S.A. contra entendimento da SEP sobre instalação e eleição do conselho fiscal (Lei… | cvm-col-20070710-d16 | fichas/colegiado/2007-12.md |
+| RJ2006/8065 | 2007-07-10 | nao-provido | Recurso contra decisão da SEP em processo de rito sumário. PAS RJ2006/8065. | cvm-col-20070710-d15 | fichas/colegiado/2007-12.md |
+| RJ2006/7830 | 2007-07-10 | nao-provido | Recurso contra decisão da SEP em processo de rito sumário. PAS RJ2006/7830. | cvm-col-20070710-d14 | fichas/colegiado/2007-12.md |
+| RJ2000/4440 | 2007-07-10 | outro | O Colegiado declarou a perda de objeto e arquivou o processo do recurso contra decisão da SEP de republicação das demonstrações financeiras… | cvm-col-20070710-d13 | fichas/colegiado/2007-12.md |
+| RJ2000/4442 | 2007-07-10 | outro | O Colegiado declarou a perda de objeto do recurso contra determinação da SEP de republicar demonstrações financeiras do Consórcio Alfa de… | cvm-col-20070710-d12 | fichas/colegiado/2007-12.md |
+| RJ2006/5820 | 2007-07-10 | outro | O Colegiado determinou o arquivamento do PAS RJ2006/5820 (Americel S.A.) por ter sido cumprido o termo de compromisso. Fundamento… | cvm-col-20070710-d11 | fichas/colegiado/2007-12.md |
+| RJ2006/4234 | 2007-07-10 | outro | O Colegiado determinou o arquivamento do PAS RJ2006/4234 (Marcopolo S.A.) por cumprimento do Termo de Compromisso celebrado pelo… | cvm-col-20070710-d10 | fichas/colegiado/2007-12.md |
+| RJ2005/9738 | 2007-07-10 | outro | O Colegiado determinou o arquivamento do PAS RJ2005/9738 por ter sido cumprido o Termo de Compromisso aprovado em 14.03.07, conforme… | cvm-col-20070710-d09 | fichas/colegiado/2007-12.md |
+| RJ2007/6085 | 2007-07-10 | deferido | O Colegiado deferiu, com condições, a dispensa de estudo de viabilidade econômico-financeira na oferta de Units da Estácio Participações… | cvm-col-20070710-d08 | fichas/colegiado/2007-12.md |
+| RJ2006/9292 | 2007-07-10 | provido | O Colegiado deu provimento ao pedido de reconsideração da Recrusul S.A., que mantivera multa aplicada pela SOI, e anulou a multa, por a… | cvm-col-20070710-d05 | fichas/colegiado/2007-12.md |
+| RJ2005/0137 | 2007-07-10 | deferido | O Colegiado reconheceu a inexistência de obrigação de OPA por alienação do controle da Companhia Docas de Imbituba (art. 254-A, Lei… | cvm-col-20070710-d04 | fichas/colegiado/2007-12.md |
+| RJ2006/0594; RJ2005/0147 | 2007-07-10 | parcial | O Colegiado manteve a SEP só quanto à exigência de lucro para JCP, vedado antes de compensar prejuízos acumulados. Entendeu que a redução… | cvm-col-20070710-d03 | fichas/colegiado/2007-12.md |
+| SP2004/0171 | 2007-07-10 | provido | Recurso contra a decisão da SMI de aplicação de multa cominatória. Proc. SP2004/0171. | cvm-col-20070710-d02 | fichas/colegiado/2007-12.md |
+| RJ2003/9432 | 2007-07-10 | outro | O Colegiado acompanhou a proposta do Presidente e declarou a perda de objeto do processo de cancelamento da autorização da Cetip para atuar… | cvm-col-20070710-d01 | fichas/colegiado/2007-12.md |
+| RJ2007/2625 | 2007-07-03 | deferido | O Colegiado autorizou a negociação privada, fora de bolsa, de ações da Noxville Investimentos S.A. (companhia fechada não registrada na… | cvm-col-20070703-d16 | fichas/colegiado/2007-12.md |
+| RJ2007/4219; RJ2007/4258 | 2007-07-03 | parcial | O Colegiado entendeu que a obrigatoriedade da divulgação até o nível de pessoa física, como determinada pela SEP e pela SRE, deveria ser… | cvm-col-20070703-d15 | fichas/colegiado/2007-11.md |
+| RJ2007/4473 | 2007-07-03 | deferido | O Colegiado aprovou o registro de companhia aberta e da oferta primária de ações da Companhia Brasileira de Desenvolvimento Imobiliário e… | cvm-col-20070703-d14 | fichas/colegiado/2007-11.md |
+| RJ2006/4341 | 2007-07-03 | outro | O Colegiado determinou o arquivamento do PAS RJ2006/4341 por ter sido cumprido o Termo de Compromisso, aprovado em 26/02/2007. Base… | cvm-col-20070703-d13 | fichas/colegiado/2007-11.md |
+| — | 2007-07-03 | outro | O Colegiado aprovou, para audiência pública de 30 dias, minuta de Instrução sobre fundos de investimento em participações em… | cvm-col-20070703-d12 | fichas/colegiado/2007-11.md |
+| SP2006/0162 | 2007-07-03 | nao-provido | O Colegiado negou provimento, por maioria, a recurso de fundos administrados pela Hedging-Griffo contra o indeferimento de pedido de lista… | cvm-col-20070703-d11 | fichas/colegiado/2007-11.md |
+| SP2005/0372 | 2007-07-03 | nao-provido | Recurso contra decisão da SMI em processo de rito sumário. | cvm-col-20070703-d10 | fichas/colegiado/2007-11.md |
+| RJ2007/3480 | 2007-07-03 | provido | O Colegiado deu provimento ao recurso da CPM S.A. contra determinação da SEP de republicar demonstrações de 2006 (ágio em operação com… | cvm-col-20070703-d03 | fichas/colegiado/2007-11.md |
+| RJ2006/9227 | 2007-07-03 | provido | Recurso contra decisão da SEP em processo de rito sumário. | cvm-col-20070703-d02 | fichas/colegiado/2007-11.md |
+| RJ2007/7826 | 2007-07-03 | nao-provido | Recurso contra a decisão da SFI de aplicação de multa cominatória. Proc. RJ2007/7826. | cvm-col-20070703-d01 | fichas/colegiado/2007-11.md |
+| RJ2007/6628 | 2007-06-28 | deferido | O Colegiado dispensou o estudo de viabilidade econômico-financeira do art. 32 da Instrução 400/03 para o pedido da Springs Global… | cvm-col-20070628-d20 | fichas/colegiado/2007-11.md |
+| — | 2007-06-28 | indeferido | O Colegiado indeferiu o pedido de tratamento confidencial de documentos da Bematech Indústria e Comércio de Equipamentos Eletrônicos S.A… | cvm-col-20070628-d19 | fichas/colegiado/2007-11.md |
+| — | 2007-06-28 | outro | O Colegiado deliberou aplicar à BR Malls Participações S.A. a decisão do processo da Iguatemi Empresa de Shopping Centers S/A, no pedido de… | cvm-col-20070628-d18 | fichas/colegiado/2007-11.md |
+| — | 2007-06-28 | outro | Ao analisar pedido de tratamento confidencial da Iguatemi Empresa de Shopping Centers S.A. sobre preço de aquisição de participação, o… | cvm-col-20070628-d17 | fichas/colegiado/2007-11.md |
+| RJ2003/11142 | 2007-06-28 | outro | O Colegiado aprovou para audiência pública, pelo prazo de 30 dias, minuta de Instrução sobre mercados regulamentados de valores mobiliários… | cvm-col-20070628-d16 | fichas/colegiado/2007-11.md |
+| — | 2007-06-28 | outro | A SRE reformou sua decisão de indeferir o registro de oferta primária de ações da Marfrig, que se baseava em RCA de fixação do preço e… | cvm-col-20070628-d15 | fichas/colegiado/2007-11.md |
+| RJ2006/6192 | 2007-06-28 | nao-provido | O Colegiado negou provimento a recurso contra indeferimento pela SIN do credenciamento para administração de carteira de valores… | cvm-col-20070628-d14 | fichas/colegiado/2007-11.md |
+| RJ2007/1488 | 2007-06-28 | nao-provido | Por maioria, vencida a relatora, o Colegiado indeferiu recurso de acionista minoritário contra a recusa da Duke Energy Internacional… | cvm-col-20070628-d13 | fichas/colegiado/2007-11.md |
+| RJ2006/8591 | 2007-06-28 | outro | Em pedido de reconsideração, o Colegiado decidiu que o pedido de registro da OPA da Energisa S.A. (aumento de participação, art. 34 da… | cvm-col-20070628-d12 | fichas/colegiado/2007-11.md |
+| RJ2007/3503 | 2007-06-28 | deferido | O Colegiado concedeu ao FIDC Não Padronizado Tratex Precatório I as dispensas de prospecto e de anúncios de início e encerramento da… | cvm-col-20070628-d11 | fichas/colegiado/2007-10.md |
+| RJ2007/5870 | 2007-06-28 | deferido | O Colegiado deferiu as dispensas pedidas pela Kroton Educacional S.A. e pelo Banco Morgan Stanley Dean Witter S.A. para a oferta de units… | cvm-col-20070628-d10 | fichas/colegiado/2007-10.md |
+| 06/2005 | 2007-06-28 | deferido | O Colegiado dispensou o envio de correspondência individual (AR de mão própria) aos acionistas com cadastro desatualizado, bastando aviso… | cvm-col-20070628-d09 | fichas/colegiado/2007-10.md |
+| RJ2007/3611 | 2007-06-28 | deferido | O Colegiado concedeu as seis dispensas pleiteadas no registro de funcionamento e de oferta do Carval Master FIDC Multicarteira NP (art. 9º… | cvm-col-20070628-d08 | fichas/colegiado/2007-10.md |
+| RJ2007/3265 | 2007-06-28 | indeferido | O Colegiado não concedeu as dispensas, pleiteadas com base no art. 9º da Instrução 444/06, de cinco requisitos do registro de funcionamento… | cvm-col-20070628-d07 | fichas/colegiado/2007-10.md |
+| RJ2006/5664 | 2007-06-28 | outro | O Colegiado determinou o arquivamento do processo RJ2006/5664 por cumprimento do Termo de Compromisso, com base na manifestação da SAD… | cvm-col-20070628-d06 | fichas/colegiado/2007-10.md |
+| RJ2006/4337 | 2007-06-28 | outro | O Colegiado determinou o arquivamento do PAS RJ2006/4337 por cumprimento do Termo de Compromisso pelo proponente, conforme manifestação da… | cvm-col-20070628-d05 | fichas/colegiado/2007-10.md |
+| RJ2006/5905 | 2007-06-28 | outro | O Colegiado suspendeu o andamento do PAS RJ2006/5905 até 31.08.2007, para que o proponente regularize sua situação e assine o Termo de… | cvm-col-20070628-d04 | fichas/colegiado/2007-10.md |
+| RJ2007/4003 | 2007-06-28 | outro | O Colegiado aprovou, com alterações, a minuta de deliberação que determina a suspensão imediata das atividades de administração de carteira… | cvm-col-20070628-d03 | fichas/colegiado/2007-10.md |
+| RJ2007/3280 | 2007-06-28 | indeferido | O Colegiado indeferiu a dispensa de registro da oferta pública de cotas do FIDC Seprosp Serviços e de seus requisitos (agência… | cvm-col-20070628-d02 | fichas/colegiado/2007-10.md |
+| — | 2007-06-22 | indeferido | O Colegiado indeferiu o pedido de tratamento confidencial. Fundamento: já tomada a decisão de realizar a OPA voluntária da Cosan Limited… | cvm-col-20070622-d01 | fichas/colegiado/2007-10.md |
+| RJ2007/4125 | 2007-06-19 | outro | O Colegiado decidiu emitir Alerta ao Mercado informando que a Palestra Investimentos Esportivos Ltda. não está habilitada a oferecer… | cvm-col-20070619-d05 | fichas/colegiado/2007-10.md |
+| RJ2007/4933 | 2007-06-19 | outro | Em consulta do Banco do Brasil e do BESC sobre incorporação, o Colegiado concordou com a SEP: critérios diferenciados para a relação de… | cvm-col-20070619-d04 | fichas/colegiado/2007-10.md |
+| RJ2006/3410 | 2007-06-19 | outro | O Colegiado determinou o arquivamento do PAS RJ2006/3410 por cumprimento do Termo de Compromisso. Fundamento: manifestação da SAD de que o… | cvm-col-20070619-d03 | fichas/colegiado/2007-10.md |
+| RJ2005/7463 | 2007-06-19 | outro | O Colegiado determinou o arquivamento do PAS RJ2005/7463 por cumprimento do Termo de Compromisso celebrado por um proponente, com base na… | cvm-col-20070619-d02 | fichas/colegiado/2007-10.md |
+| RJ2007/6837 | 2007-06-14 | provido | O Colegiado deu provimento ao recurso do Banco da Patagônia S.A. contra respostas da SEP em consulta: admitiu ADR lastreado em valores que… | cvm-col-20070614-d02 | fichas/colegiado/2007-10.md |
+| — | 2007-06-14 | deferido | O Colegiado concedeu à CVRD a autorização pedida, pela Instrução 10/80, para estruturar emissão de títulos permutáveis no exterior por… | cvm-col-20070614-d01 | fichas/colegiado/2007-10.md |
+| RJ2005/9059 | 2007-06-12 | outro | O Colegiado determinou o arquivamento do PAS RJ2005/9059 por cumprimento do Termo de Compromisso celebrado pela Votorantim Asset Management… | cvm-col-20070612-d09 | fichas/colegiado/2007-09.md |
+| RJ2007/0196 | 2007-06-12 | provido | O Colegiado deu provimento a recurso da Dynamo Administração de Recursos Ltda. contra indeferimento pela SEP da dispensa de fato relevante… | cvm-col-20070612-d08 | fichas/colegiado/2007-09.md |
+| RJ2007/0266 | 2007-06-12 | nao-provido | O Colegiado negou provimento a recurso da ex-conselheira de administração da COPEL contra conclusão da SEP pela desnecessidade de processo… | cvm-col-20070612-d07 | fichas/colegiado/2007-09.md |
+| RJ2006/8624 | 2007-06-12 | nao-provido | O Colegiado negou provimento ao recurso contra decisão da SIN que indeferiu credenciamento como administrador de carteira de valores… | cvm-col-20070612-d06 | fichas/colegiado/2007-09.md |
+| RJ2006/5499 | 2007-06-12 | outro | Acompanhando o relator, o Colegiado entendeu, contra a interpretação da SMI, que a pessoa jurídica de agente autônomo pode ter sócios não… | cvm-col-20070612-d05 | fichas/colegiado/2007-09.md |
+| — | 2007-06-12 | outro | O Colegiado aprovou, por unanimidade, proposta da SNC de incluir na pauta as minutas de pronunciamentos do CPC somente após a audiência… | cvm-col-20070612-d04 | fichas/colegiado/2007-09.md |
+| RJ2007/3083 | 2007-06-12 | deferido | O Colegiado concedeu as quatro dispensas pedidas pela Intrag DTVM Ltda. para o FIDC NP América Multicarteira: parecer legal, prospecto… | cvm-col-20070612-d04-r2 | fichas/colegiado/2007-09.md |
+| RJ2007/3212 | 2007-06-12 | outro | O Colegiado aprovou, com alterações, o texto da SDM para Instrução que aperfeiçoa a regulação sobre aplicação de recursos no exterior por… | cvm-col-20070612-d03 | fichas/colegiado/2007-09.md |
+| RJ2007/1102 | 2007-06-12 | deferido | O Colegiado concedeu as três dispensas pleiteadas no registro de funcionamento e de oferta do FIDC Multicarteira NP Campos, considerando… | cvm-col-20070612-d03-r2 | fichas/colegiado/2007-09.md |
+| RJ2006/9805 | 2007-06-12 | outro | O Colegiado aprovou, com alterações, a minuta de Deliberação que disciplina o Sistema de Supervisão Baseada em Risco do mercado de valores… | cvm-col-20070612-d02 | fichas/colegiado/2007-09.md |
+| RJ2007/0152 | 2007-06-12 | outro | O Colegiado aprovou o entendimento da SRE em consulta do Banco do Brasil sobre FIDC: a aplicação analógica do parágrafo único do art. 84 da… | cvm-col-20070612-d02-r2 | fichas/colegiado/2007-09.md |
+| RJ2005/3958 | 2007-06-12 | outro | O Colegiado aprovou, com alterações, a minuta apresentada pela SDM que altera as Instruções 409/04 e 332/00. | cvm-col-20070612-d01 | fichas/colegiado/2007-09.md |
+| RJ2006/7557 | 2007-06-12 | outro | O Colegiado considerou prejudicada a consulta da ABRASCA sobre se a publicação de fatos relevantes no BDI da Bovespa atende à exigência de… | cvm-col-20070612-d01-r2 | fichas/colegiado/2007-09.md |
+| — | 2007-06-05 | indeferido | O Colegiado indeferiu o pedido de tratamento confidencial da BR Malls Participações S.A. sobre o preço de aquisições, por constatar que o… | cvm-col-20070605-d07 | fichas/colegiado/2007-09.md |
+| — | 2007-06-05 | indeferido | Pedido de concessão de tratamento confidencial. | cvm-col-20070605-d06 | fichas/colegiado/2007-09.md |
+| RJ2007/1963; RJ2007/2521; RJ2007/2522; RJ2007/2523 | 2007-06-05 | deferido | O Colegiado, acompanhando a SEP, dispensou o estudo de viabilidade econômico-financeira (art. 7º, XIII, da Instrução 202/93) para quatro… | cvm-col-20070605-d05 | fichas/colegiado/2007-09.md |
+| RJ2007/5345 | 2007-06-05 | deferido | O Colegiado deferiu, no caso concreto, a dispensa do art. 35, III, da Instrução 391/03 (vedação de prestar fiança, aval ou coobrigação) ao… | cvm-col-20070605-d04 | fichas/colegiado/2007-08.md |
+| RJ2007/3948 | 2007-06-05 | deferido | O Colegiado concedeu a dispensa do estudo de viabilidade (art. 32, Instrução 400/03) na oferta pública primária de ações da EZ TEC S.A… | cvm-col-20070605-d03 | fichas/colegiado/2007-08.md |
+| RJ2005/6805; RJ2006/5082 | 2007-06-05 | nao-provido | O Colegiado manteve o entendimento da área técnica (SEP) e negou provimento a recurso de KL & KL Participações Ltda. e de um acionista… | cvm-col-20070605-d02 | fichas/colegiado/2007-08.md |
+| — | 2007-06-05 | outro | O Colegiado, acompanhando a PFE, acatou a sugestão da SRE e determinou que a SDM elabore minuta incluindo as companhias hipotecárias no… | cvm-col-20070605-d01 | fichas/colegiado/2007-08.md |
+| RJ2007/5587 | 2007-05-29 | outro | O Colegiado decidiu, contra o entendimento da SRE, que as OPAs voluntárias da Telemar Participações não precisam de registro na CVM… | cvm-col-20070529-d11 | fichas/colegiado/2007-08.md |
+| 26/2005 | 2007-05-29 | outro | O Colegiado determinou o arquivamento do PAS 26/2005 por cumprimento do Termo de Compromisso, com base na manifestação da SAD: pagamento na… | cvm-col-20070529-d10 | fichas/colegiado/2007-08.md |
+| RJ2006/6107 | 2007-05-29 | outro | O Colegiado determinou o arquivamento do PAS RJ2006/6107 por cumprimento do Termo de Compromisso celebrado por um proponente, conforme… | cvm-col-20070529-d09 | fichas/colegiado/2007-08.md |
+| RJ2005/3742 | 2007-05-29 | outro | O Colegiado determinou o arquivamento do PAS RJ2005/3742 em relação aos 15 compromitentes, por cumprimento do Termo de Compromisso… | cvm-col-20070529-d08 | fichas/colegiado/2007-08.md |
+| RJ2007/3465 | 2007-05-29 | deferido | O Colegiado, acompanhando o relator, não exigiu laudo de avaliação a preços de mercado na incorporação da Beverage Associates Holding pela… | cvm-col-20070529-d07 | fichas/colegiado/2007-08.md |
+| SP2007/0112 | 2007-05-29 | provido | Recurso contra decisão da SOI em processo de multa cominatória. Proc. SP2007/0112. | cvm-col-20070529-d06 | fichas/colegiado/2007-08.md |
+| RJ2007/1590 | 2007-05-29 | deferido | O Colegiado aprovou a dispensa de leilão na liquidação da OPA para cancelamento de registro da Companhia Eldorado de Hotéis, com… | cvm-col-20070529-d05 | fichas/colegiado/2007-08.md |
+| RJ2006/9221 | 2007-05-29 | deferido | O Colegiado concedeu registro de funcionamento e de oferta do Brasil FIDC NP FCVS, com dispensa de prospecto e de anúncios (art. 4º… | cvm-col-20070529-d04 | fichas/colegiado/2007-08.md |
+| 24/2004 | 2007-05-29 | nao-provido | O Colegiado indeferiu pedidos de reconsideração de cinco indiciados contra a rejeição de propostas de Termo de Compromisso no PAS 24/2004… | cvm-col-20070529-d01 | fichas/colegiado/2007-08.md |
+| RJ2007/3617 | 2007-05-22 | outro | O Colegiado encerrou o recurso do Banco Cruzeiro do Sul S.A. contra exigência da SEP no registro inicial de companhia aberta (refazimento… | cvm-col-20070522-d08 | fichas/colegiado/2007-08.md |
+| RJ2007/3447 | 2007-05-22 | parcial | O Colegiado deu provimento parcial ao recurso da Manasa Madeireira Nacional S.A. contra decisão da SEP, acompanhando o voto da relatora… | cvm-col-20070522-d07 | fichas/colegiado/2007-08.md |
+| RJ2007/0947 | 2007-05-22 | outro | O Colegiado acompanhou o relator em consulta da Iochpe-Maxion sobre migração ao Novo Mercado. Fixou entendimentos sobre voto em assembleia… | cvm-col-20070522-d06 | fichas/colegiado/2007-08.md |
+| RJ2006/5908 | 2007-05-22 | outro | O Colegiado determinou o arquivamento do PAS RJ2006/5908 por cumprimento do Termo de Compromisso aceito em 12.12.06, conforme manifestação… | cvm-col-20070522-d05 | fichas/colegiado/2007-08.md |
+| RJ2006/6106 | 2007-05-22 | outro | O Colegiado determinou o arquivamento do PAS RJ2006/6106 por cumprimento do Termo de Compromisso aprovado em 05.12.2006. Fundamento… | cvm-col-20070522-d04 | fichas/colegiado/2007-08.md |
+| RJ2006/6105 | 2007-05-22 | outro | O Colegiado determinou o arquivamento do PAS RJ2006/6105 por cumprimento do Termo de Compromisso aceito em 05.12.06, com base na… | cvm-col-20070522-d03 | fichas/colegiado/2007-07.md |
+| 12/2004 | 2007-05-22 | outro | O Colegiado determinou o arquivamento do PAS 12/2004 em relação aos proponentes citados, por cumprimento do Termo de Compromisso, com base… | cvm-col-20070522-d02 | fichas/colegiado/2007-07.md |
+| RJ2005/9740 | 2007-05-22 | nao-provido | O Colegiado negou pedido de reconsideração de ex-conselheiro fiscal contra a decisão de 31.10.06, que deu provimento parcial a recurso da… | cvm-col-20070522-d01 | fichas/colegiado/2007-07.md |
+| — | 2007-05-16 | outro | O Colegiado prorrogou até o fim do dia 17.05.2007 os prazos de entrega de informações periódicas que venceriam em 15 e 16.05.2007… | cvm-col-20070516-d01 | fichas/colegiado/2007-07.md |
+| RJ2007/3443 | 2007-05-15 | deferido | O Colegiado concedeu, no caso concreto, a dispensa do estudo de viabilidade econômico-financeira (art. 32, II, da Instrução 400/03) à… | cvm-col-20070515-d04 | fichas/colegiado/2007-07.md |
+| RJ2006/4651 | 2007-05-15 | parcial | Pedido de reconsideração de decisão do colegiado. Proc. RJ2006/4651. | cvm-col-20070515-d03 | fichas/colegiado/2007-07.md |
+| RJ2004/3751 | 2007-05-15 | nao-provido | O Colegiado manteve a decisão de 28.11.06, que dera provimento a recurso de um conselheiro fiscal e devolvera à SEP a reavaliação de… | cvm-col-20070515-d02 | fichas/colegiado/2007-07.md |
+| RJ2007/4235 | 2007-05-14 | outro | O Colegiado aprovou, para audiência pública até 30 de junho de 2007, minuta de Instrução sobre elaboração e divulgação de demonstrações… | cvm-col-20070514-d02 | fichas/colegiado/2007-07.md |
+| RJ2007/2013 | 2007-05-14 | outro | O Colegiado aprovou o texto da minuta de Deliberação elaborada pela SNC após audiência pública, que dispõe sobre a audiência pública e a… | cvm-col-20070514-d01 | fichas/colegiado/2007-07.md |
+| RJ2006/3881 | 2007-05-08 | outro | O Colegiado suspendeu, até 08.06.07, o prazo de análise (art. 9º da Instrução CVM 361/02) do pedido de registro de OPA de ações da Plascar… | cvm-col-20070508-d08 | fichas/colegiado/2007-07.md |
+| RJ2007/1739; RJ2007/1741 | 2007-05-08 | outro | O Colegiado autorizou a SEP a interromper o prazo de análise do registro de companhia aberta (Serasa S/A) em caso de descasamento com o… | cvm-col-20070508-d07 | fichas/colegiado/2007-07.md |
+| RJ2007/0429 | 2007-05-08 | outro | O Colegiado manteve a reforma, proposta pela SRE, do indeferimento de registro de funcionamento e de oferta do Ingresso Fácil FIDC – Notas… | cvm-col-20070508-d06 | fichas/colegiado/2007-07.md |
+| RJ2005/5211 | 2007-05-08 | indeferido | O Colegiado indeferiu a renúncia dos Bancos Tricury S.A. e Paulista S.A. como agentes fiduciários de debêntures da Feniciapar S.A. e… | cvm-col-20070508-d05 | fichas/colegiado/2007-07.md |
+| SP2007/0075 | 2007-05-08 | deferido | O Colegiado entendeu que os Créditos de Volume Florestal não são valores mobiliários (inciso IX do art. 2º da Lei 6.385/76), com base no… | cvm-col-20070508-d04 | fichas/colegiado/2007-07.md |
+| SP2005/0155 | 2007-05-08 | outro | O Colegiado determinou o arquivamento do PAS SP2005/0155 em relação aos compromitentes São Paulo Corretora de Valores Ltda. e outro, por… | cvm-col-20070508-d03 | fichas/colegiado/2007-07.md |
+| RJ2006/3189 | 2007-05-08 | outro | O Colegiado determinou o arquivamento do PAS RJ2006/3189 por cumprimento do Termo de Compromisso, com base na manifestação da SAD de que o… | cvm-col-20070508-d02 | fichas/colegiado/2007-07.md |
+| RJ2006/1512 | 2007-05-08 | outro | O Colegiado determinou o arquivamento do processo RJ2006/1512 por cumprimento do Termo de Compromisso, com base na manifestação da SAD: o… | cvm-col-20070508-d01 | fichas/colegiado/2007-07.md |
+| 04/2007; RJ2007/3206 | 2007-05-03 | outro | O Colegiado prorrogou para 21.05.07 o prazo para sugestões e comentários na Audiência Pública nº 04/07, sobre o dever de verificar a… | cvm-col-20070503-d01 | fichas/colegiado/2007-07.md |
+| RJ2007/0830 | 2007-05-02 | outro | O Colegiado aprovou a suspensão de ofício do registro de companhia aberta da Ferragens Demellot S.A., nos termos do art. 3º da Instrução… | cvm-col-20070502-d03 | fichas/colegiado/2007-07.md |
+| RJ2007/0831 | 2007-05-02 | outro | O Colegiado acolheu a proposta da SEP e aprovou a suspensão de ofício do registro de companhia aberta da Bergamo Cia. Industrial, nos… | cvm-col-20070502-d02 | fichas/colegiado/2007-06.md |
+| RJ2007/2199 | 2007-05-02 | deferido | O Colegiado concordou com a área técnica (SRE), mas condicionou a dispensa do estudo de viabilidade (art. 32, V, Instrução 400/03) na… | cvm-col-20070502-d01 | fichas/colegiado/2007-06.md |
+| RJ2006/5661 | 2007-04-25 | outro | O Colegiado aprovou a minuta de Instrução, elaborada após audiência pública, que altera as Instruções 209/94, 391/03 e 406/04 para… | cvm-col-20070425-d03 | fichas/colegiado/2007-06.md |
+| RJ2004/1269 | 2007-04-25 | outro | O Colegiado aprovou, com alterações, a minuta de Instrução sobre captação de ordens pulverizadas, após audiência pública. Manteve o teto de… | cvm-col-20070425-d02 | fichas/colegiado/2007-06.md |
+| RJ2006/1586 | 2007-04-25 | outro | Minuta de instrução sobre multa cominatória e revoga a instrução nº 273/98. Proc. RJ2006/1586. | cvm-col-20070425-d01 | fichas/colegiado/2007-06.md |
+| RJ2007/1488 | 2007-04-24 | — | Recurso de acionista minoritário contra a recusa da Duke Energy Internacional Geração Paranapanema S.A. em fornecer a relação de acionistas… | cvm-col-20070424-d05 | fichas/colegiado/2007-06.md |
+| RJ2006/3618 | 2007-04-24 | outro | O Colegiado determinou o arquivamento do PAS RJ2006/3618 por ter sido cumprido o Termo de Compromisso. Fundamento: manifestação da SAD de… | cvm-col-20070424-d03 | fichas/colegiado/2007-06.md |
+| RJ2005/1250 | 2007-04-24 | outro | O Colegiado determinou o arquivamento do PAS RJ2005/1250 por cumprimento do Termo de Compromisso, com base na manifestação da SAD de que o… | cvm-col-20070424-d02 | fichas/colegiado/2007-06.md |
+| 15/1996 | 2007-04-24 | outro | O Colegiado determinou que a SIN desentranhe, do PAS 15/96 já arquivado, as peças sobre a proposta do Banco Bradesco S.A. para administrar… | cvm-col-20070424-d01 | fichas/colegiado/2007-06.md |
+| — | 2007-04-18 | deferido | O Colegiado deferiu tratamento confidencial a documentos da aquisição do controle do Grupo Ipiranga pela Ultrapar, com Braskem e Petrobras… | cvm-col-20070418-d01 | fichas/colegiado/2007-06.md |
+| RJ2007/3453 | 2007-04-18 | indeferido | O Colegiado indeferiu pedido da Mosaic Fertilizantes do Brasil S.A. de interrupção, por até quinze dias, do prazo de convocação de AGE e… | cvm-col-20070418-d01-r2 | fichas/colegiado/2007-06.md |
+| 02/2003 | 2007-04-17 | nao-provido | O Colegiado, acompanhando o voto do relator, indeferiu embargos de declaração apresentados por indiciado no PAS 02/2003 (Bompreço S.A.)… | cvm-col-20070417-d09 | fichas/colegiado/2007-06.md |
+| RJ2007/1996 | 2007-04-17 | provido | O Colegiado deu provimento a pedido de reconsideração da Mittal Steel Company N.V. na OPA de Arcelor Brasil S.A.: unificou a OPA por… | cvm-col-20070417-d08 | fichas/colegiado/2007-06.md |
+| 02/2002 | 2007-04-17 | outro | O Colegiado determinou o arquivamento de PAS por cumprimento do termo de compromisso, após a SAD atestar que o pagamento foi feito na forma… | cvm-col-20070417-d06 | fichas/colegiado/2007-06.md |
+| RJ2006/6327; RJ2006/6406 | 2007-04-17 | parcial | O Colegiado aprovou apenas a dispensa à IFC de reconciliação ao padrão contábil brasileiro e de tradução de documentos, conforme fatores de… | cvm-col-20070417-d05 | fichas/colegiado/2007-06.md |
+| RJ2007/2920 | 2007-04-17 | outro | O Colegiado, acompanhando a área técnica (SEP), entendeu que não se justificaria exigir laudos de avaliação do PL a preços de mercado na… | cvm-col-20070417-d04 | fichas/colegiado/2007-05.md |
+| RJ2006/7828 | 2007-04-17 | nao-provido | Recurso contra decisão da SEP em processo de rito sumário. | cvm-col-20070417-d03 | fichas/colegiado/2007-05.md |
+| RJ2006/8981 | 2007-04-17 | nao-provido | Recurso contra decisão da SEP em processo de rito sumário. | cvm-col-20070417-d02 | fichas/colegiado/2007-05.md |
+| RJ2006/7658 | 2007-04-11 | indeferido | O Colegiado indeferiu o pedido de afastamento da OPA obrigatória por alienação indireta de controle da Elektro Eletricidade e Serviços S.A… | cvm-col-20070411-d07 | fichas/colegiado/2007-05.md |
+| RJ2006/9205 | 2007-04-11 | provido | O Colegiado deu provimento a recurso do Banco Itaucard S.A. contra exigência da SIN de adaptar regulamento de fundo de investimento à… | cvm-col-20070411-d06 | fichas/colegiado/2007-05.md |
+| RJ2006/3461 | 2007-04-11 | outro | O Colegiado determinou o arquivamento de PAS por cumprimento do termo de compromisso celebrado por um dos acusados, conforme manifestação… | cvm-col-20070411-d05 | fichas/colegiado/2007-05.md |
+| RJ2005/8999 | 2007-04-11 | outro | O Colegiado determinou o arquivamento do PAS contra a Matone CVMC Ltda. e outra pessoa, por cumprimento do termo de compromisso, conforme… | cvm-col-20070411-d04 | fichas/colegiado/2007-05.md |
+| RJ2001/4619 | 2007-04-11 | outro | O Colegiado determinou o arquivamento do processo da AES Sul Distribuidora Gaúcha de Energia S.A., por cumprimento do Termo de Compromisso… | cvm-col-20070411-d03 | fichas/colegiado/2007-05.md |
+| RJ2001/12037 | 2007-04-11 | outro | O Colegiado determinou o arquivamento do PAS, por cumprimento do Termo de Compromisso firmado pela Ruhtra Locações Ltda. (ex-Arthur… | cvm-col-20070411-d02 | fichas/colegiado/2007-05.md |
+| 020/2007 | 2007-04-03 | outro | Minuta de deliberação sobre atuação irregular no mercado de valores mobiliários – fx-br forex trading, carlos cezar baú e maria do socorro… | cvm-col-20070403-d06 | fichas/colegiado/2007-05.md |
+| RJ2007/2788 | 2007-04-03 | outro | O Colegiado aprovou, com pequenas alterações, minuta de Deliberação sobre critérios e diretrizes para a celebração de convênios com… | cvm-col-20070403-d04 | fichas/colegiado/2007-05.md |
+| RJ2006/8815 | 2007-04-03 | deferido | O Colegiado deferiu dilatação por 90 dias do prazo de interrupção da análise de registro do FIDC Royalties de Petróleo e Gás (Alagoas)… | cvm-col-20070403-d03 | fichas/colegiado/2007-05.md |
+| RJ2007/0370 | 2007-04-03 | deferido | O Colegiado deferiu registro de funcionamento do Everest FIDC Aberto Multicrédito com dispensa de prospecto, acatando a manifestação… | cvm-col-20070403-d02 | fichas/colegiado/2007-05.md |
+| RJ2007/1075 | 2007-04-03 | deferido | O Colegiado manteve a dispensa de estudo de viabilidade econômico-financeira concedida à JHSF Participações S.A. na oferta pública de… | cvm-col-20070403-d01 | fichas/colegiado/2007-05.md |
+| RJ2007/1195 | 2007-04-02 | deferido | O Colegiado deferiu a dispensa de estudo de viabilidade econômico-financeira na oferta primária de ações da BR Malls Participações S.A… | cvm-col-20070402-d01 | fichas/colegiado/2007-05.md |
+| RJ2007/1366 | 2007-03-27 | parcial | O Colegiado concedeu parcialmente a dispensa pedida pelo Banco Santander Banespa S.A., administrador do Brasoil FIP: dispensou o art. 35… | cvm-col-20070327-d08 | fichas/colegiado/2007-05.md |
+| RJ2007/1357 | 2007-03-27 | deferido | O Colegiado concedeu à Agra Empreendimentos Imobiliários S.A. dispensa de estudo de viabilidade em distribuição primária e secundária de… | cvm-col-20070327-d07 | fichas/colegiado/2007-05.md |
+| RJ2006/8131 | 2007-03-27 | indeferido | O Colegiado indeferiu, quanto ao laudo de avaliação, o pedido de dispensa na OPA para cancelamento de registro das Indústrias Micheletto… | cvm-col-20070327-d06 | fichas/colegiado/2007-05.md |
+| RJ2006/3739 | 2007-03-27 | deferido | O Colegiado deferiu a extensão do prazo do art. 10, § 2º, da Instrução 361/02 na OPA voluntária da Embratel Participações: opção de venda… | cvm-col-20070327-d05 | fichas/colegiado/2007-05.md |
+| RJ2007/2013 | 2007-03-27 | outro | O Colegiado aprovou, para audiência pública de 30 dias, minuta de Deliberação sobre a audiência pública e a aceitação pela CVM dos… | cvm-col-20070327-d04 | fichas/colegiado/2007-05.md |
+| RJ2007/2623 | 2007-03-27 | outro | O Colegiado aprovou minuta apresentada pela área técnica que altera a Instrução 398/03 para adequá-la à Lei 11.437/06, que alterou o art… | cvm-col-20070327-d03 | fichas/colegiado/2007-05.md |
+| RJ2005/5222 | 2007-03-27 | outro | O Colegiado revisou, com base no art. 65 da Lei 9.784/99, sua decisão de 08.11.06 para excluir do PAS o acusado, cujo falecimento anterior… | cvm-col-20070327-d02 | fichas/colegiado/2007-04.md |
+| RJ2007/1865 | 2007-03-27 | provido | Recurso contra decisão da SOI em processo de multa cominatória. Proc. RJ2007/1865. | cvm-col-20070327-d01 | fichas/colegiado/2007-04.md |
+| RJ2007/1996 | 2007-03-21 | parcial | O Colegiado decidiu em parte o recurso das recorrentes contra decisão da SRE sobre o preço da OPA da Arcelor Brasil: dispensou o laudo de… | cvm-col-20070321-d01 | fichas/colegiado/2007-04.md |
+| RJ2006/1296 | 2007-03-20 | outro | O Colegiado determinou o arquivamento do PAS contra o Banco BNP Paribas Brasil S.A. e outro proponente, por cumprimento das obrigações do… | cvm-col-20070320-d05 | fichas/colegiado/2007-04.md |
+| RJ2006/5133 | 2007-03-20 | — | A SIN propôs deliberação alertando sobre atuação irregular de duas pessoas no mercado Forex, por meio de dois sites. Em pesquisa na… | cvm-col-20070320-d04 | fichas/colegiado/2007-04.md |
+| RJ2005/5296 | 2007-03-20 | outro | O Colegiado não editou deliberação de stop order proposta pela SMI contra a atuação irregular de duas pessoas no mercado Forex, pois o site… | cvm-col-20070320-d03 | fichas/colegiado/2007-04.md |
+| RJ2007/1075 | 2007-03-14 | deferido | O Colegiado concedeu, no caso concreto, a dispensa de estudo de viabilidade econômico-financeira na oferta da JHSF Participações S.A., nos… | cvm-col-20070314-d04 | fichas/colegiado/2007-04.md |
+| RJ2007/0959 | 2007-03-14 | deferido | O Colegiado concedeu a dispensa de registro de oferta pública de cotas do RB Nordeste II – FMIEE, pleiteada pela Rio Bravo Investimentos… | cvm-col-20070314-d03 | fichas/colegiado/2007-04.md |
+| RJ2005/9423 | 2007-03-14 | outro | Dissolução do fundo de garantia da bolsa de valores regional. Proc. RJ2005/9423. | cvm-col-20070314-d02 | fichas/colegiado/2007-04.md |
+| RJ2006/0449 | 2007-03-07 | outro | O Colegiado aprovou, com alterações, o texto da SDM para a minuta de Instrução que altera a Instrução CVM 358/02, após audiência pública. | cvm-col-20070307-d03 | fichas/colegiado/2007-04.md |
+| RJ2006/9805 | 2007-03-07 | outro | O Colegiado aprovou, com alterações, para audiência pública de 30 dias, a minuta de Deliberação sobre supervisão baseada em risco do… | cvm-col-20070307-d02 | fichas/colegiado/2007-04.md |
+| RJ2006/1586 | 2007-03-07 | outro | Minuta de instrução sobre multa cominatória e revoga a instrução nº 273/98. Proc. RJ2006/1586. | cvm-col-20070307-d01 | fichas/colegiado/2007-04.md |
+| RJ2007/1613 | 2007-03-06 | indeferido | O Colegiado não acatou pedido de adiamento da AGE da Politeno Indústria e Comércio S.A., convocada para 12.03.07, e entendeu que o resgate… | cvm-col-20070306-d04 | fichas/colegiado/2007-04.md |
+| RJ2006/6076 | 2007-03-06 | outro | O Colegiado aprovou minuta de Deliberação sobre oferta pública irregular de ações da Mineração Titã Minas S.A. | cvm-col-20070306-d03 | fichas/colegiado/2007-04.md |
+| RJ2006/0657 | 2007-03-06 | outro | Para o Colegiado, a dispensa automática de registro de oferta de pequeno porte e microempresas (art. 5º, III, Instrução 400/03) depende do… | cvm-col-20070306-d02 | fichas/colegiado/2007-04.md |
+| — | 2007-03-02 | outro | O Colegiado aprovou, para audiência pública de 30 dias, minuta de Instrução que aperfeiçoa a regulação sobre aplicação de recursos no… | cvm-col-20070302-d03 | fichas/colegiado/2007-04.md |
+| — | 2007-03-02 | outro | O Colegiado aprovou, para audiência pública de 30 dias, minuta de Instrução que exige verificação de adequação ao investidor (objetivos… | cvm-col-20070302-d02 | fichas/colegiado/2007-04.md |
+| RJ2005/3958 | 2007-03-02 | outro | O Colegiado aprovou, com alterações, a minuta que altera a Instrução 409/04, após audiência pública, a ser submetida ao Banco Central antes… | cvm-col-20070302-d01 | fichas/colegiado/2007-04.md |
+| — | 2007-02-27 | deferido | Solicitação de tratamento confidencial. | cvm-col-20070227-d01 | fichas/colegiado/2007-04.md |
+| RJ2007/0191 | 2007-02-26 | outro | Concluiu-se que o pedido de reconsideração da PREVI, de decisão do Colegiado de 23.01.07 sobre o estatuto da Sadia, perdeu o objeto. A nova… | cvm-col-20070226-d12 | fichas/colegiado/2007-03.md |
+| RJ2006/8591 | 2007-02-26 | parcial | O Colegiado, acompanhando a SRE, concedeu a dispensa de edital de oferta e de leilão em bolsa na OPA com procedimento diferenciado da… | cvm-col-20070226-d11 | fichas/colegiado/2007-03.md |
+| RJ2007/1087 | 2007-02-26 | deferido | O Colegiado concedeu a dispensa de relatório de classificação de risco para a 2ª emissão de cotas do MULTICRÉDITO I FIDC, administrado pela… | cvm-col-20070226-d10 | fichas/colegiado/2007-03.md |
+| RJ2006/9292 | 2007-02-26 | nao-provido | Recurso contra decisão da SOI em processo de multa cominatória. Proc. RJ2006/9292. | cvm-col-20070226-d09 | fichas/colegiado/2007-03.md |
+| RJ2001/4652 | 2007-02-26 | outro | O Colegiado determinou o arquivamento do processo em relação aos compromitentes, por cumprimento do Termo de Compromisso, com base em… | cvm-col-20070226-d08 | fichas/colegiado/2007-03.md |
+| RJ2007/1033 | 2007-02-26 | provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2007/1033. | cvm-col-20070226-d07 | fichas/colegiado/2007-03.md |
+| RJ2006/0740 | 2007-02-26 | outro | O Colegiado arquivou consulta da SIN sobre denúncias contra relatórios de analistas credenciados pela APIMEC, após o Comitê de Ética da… | cvm-col-20070226-d06 | fichas/colegiado/2007-03.md |
+| RJ2006/8965 | 2007-02-26 | provido | Recurso de karlla farias de senna garcia de lima e marcia freire da costa. Proc. RJ2006/8965. | cvm-col-20070226-d05 | fichas/colegiado/2007-03.md |
+| RJ2006/8566 | 2007-02-26 | parcial | O Colegiado decidiu, no caso concreto, que cédulas de debêntures ofertadas publicamente são valores mobiliários (Lei 6.385/76), mas que a… | cvm-col-20070226-d01 | fichas/colegiado/2007-03.md |
+| — | 2007-02-22 | outro | O Colegiado decidiu, por unanimidade, determinar a imediata divulgação dos fatos relevantes da Sadia S.A. cuja não divulgação fora deferida… | cvm-col-20070222-d01 | fichas/colegiado/2007-03.md |
+| RJ2004/3764 | 2007-02-14 | outro | O Colegiado aprovou o cancelamento de ofício do registro de 06 companhias abertas listadas no Memo/SEP/GEA-3/Nº 025/07, acatando os… | cvm-col-20070214-d09 | fichas/colegiado/2007-03.md |
+| RJ2006/6382 | 2007-02-14 | outro | O Colegiado, acompanhando a SEP, acolheu pedido da Excelsior Alimentos S.A. para refazer e republicar as demonstrações de 2005 junto com as… | cvm-col-20070214-d08 | fichas/colegiado/2007-03.md |
+| RJ2007/0866 | 2007-02-14 | outro | O Colegiado aprovou minuta de convênio entre a CVM e a Bovespa para divulgação em tempo real, no Portal do Investidor, de nove índices da… | cvm-col-20070214-d07 | fichas/colegiado/2007-03.md |
+| RJ2007/0393 | 2007-02-14 | nao-provido | O Colegiado acompanhou o voto do relator, que seguiu a SEP e a SNC, e manteve a determinação de refazer e republicar as demonstrações… | cvm-col-20070214-d03 | fichas/colegiado/2007-03.md |
+| RJ2005/0250 | 2007-02-14 | provido | O Colegiado deu provimento a recurso do Banco JP Morgan contra o indeferimento, pela SIN, de incorporação de três fundos por fundo… | cvm-col-20070214-d02 | fichas/colegiado/2007-03.md |
+| RJ2007/0358 | 2007-02-14 | deferido | O Colegiado deferiu, nos termos da proposta da SRE, a dispensa do item 5.2.1 do Anexo III da Instrução 400 (DFs dos três últimos exercícios… | cvm-col-20070214-d01 | fichas/colegiado/2007-03.md |
+| RJ2007/0523 | 2007-02-05 | deferido | O Colegiado concedeu a dispensa pleiteada de registro de oferta pública de cotas do FUNDOTEC II FMIEE, administrado pela FIR Capital… | cvm-col-20070205-d10 | fichas/colegiado/2007-03.md |
+| RJ2007/0339 | 2007-02-05 | deferido | O Colegiado concedeu dispensa de registro de oferta pública de cotas do FIPAC FMIEE, de até R$ 100 milhões, nos termos do… | cvm-col-20070205-d09 | fichas/colegiado/2007-03.md |
+| RJ2006/1757 | 2007-02-05 | outro | O Colegiado aprovou minuta de convênio de cooperação acadêmica da CVM com a UERJ, voltada a estudos, pesquisas e eventos sobre o mercado de… | cvm-col-20070205-d08 | fichas/colegiado/2007-02.md |
+| RJ2005/8000 | 2007-02-05 | outro | O Colegiado aprovou minuta de deliberação que determina a imediata suspensão das atividades de intermediação da Acquajoin Camarões do… | cvm-col-20070205-d07 | fichas/colegiado/2007-02.md |
+| RJ2006/8970 | 2007-02-05 | indeferido | O Colegiado indeferiu pedido da Caixa de dispensa de assembleia de cotistas para alterar regulamentos de fundos. Pelo voto da relatora… | cvm-col-20070205-d06 | fichas/colegiado/2007-02.md |
+| RJ2007/0139 | 2007-02-05 | parcial | O Colegiado concedeu dilatação de prazo à Eletropaulo S.A. para atender decisão sobre reavaliação de ativos (Pronunciamento IBRACON, item… | cvm-col-20070205-d05 | fichas/colegiado/2007-02.md |
+| SP2005/0268 | 2007-02-05 | outro | O Colegiado determinou o arquivamento do processo em relação aos compromitentes, por manifestação favorável da SAD, área que atesta o… | cvm-col-20070205-d04 | fichas/colegiado/2007-02.md |
+| RJ2005/8796 | 2007-02-05 | nao-provido | O Colegiado negou provimento a pedido de reconsideração da Predileto Alimentos S.A., mantendo decisão que negou recurso contra determinação… | cvm-col-20070205-d03 | fichas/colegiado/2007-02.md |
+| RJ1998/1639 | 2007-02-05 | nao-provido | O Colegiado negou provimento a recurso da Yasmina Agropastoril S.A. contra exigências da SEP para cancelamento de registro de companhia… | cvm-col-20070205-d02 | fichas/colegiado/2007-02.md |
+| RJ2005/4984 | 2007-02-05 | outro | O Colegiado entendeu, em tese, possível a cessão de emolumentos notariais a FIDC, após novo entendimento da PFE de que o direito pertence… | cvm-col-20070205-d01 | fichas/colegiado/2007-02.md |
+| — | 2007-01-31 | outro | O Colegiado aprovou minuta de Instrução que altera o Anexo III da Instrução 306/99. | cvm-col-20070131-d01 | fichas/colegiado/2007-02.md |
+| RJ2004/1616 | 2007-01-30 | deferido | O Colegiado deferiu a prorrogação, por sessenta dias, do prazo para cumprimento de termo de compromisso celebrado por administradores da… | cvm-col-20070130-d11 | fichas/colegiado/2007-02.md |
+| RJ2005/6765 | 2007-01-30 | outro | O Colegiado determinou o arquivamento de PAS por cumprimento do termo de compromisso celebrado pelo acusado, conforme manifestação da SAD… | cvm-col-20070130-d10 | fichas/colegiado/2007-02.md |
+| RJ2006/8820 | 2007-01-30 | provido | O Colegiado deu provimento a recurso contra decisão da SIN que determinou cancelar registro de administrador de carteira ou de agente… | cvm-col-20070130-d09 | fichas/colegiado/2007-02.md |
+| RJ2007/0322 | 2007-01-30 | nao-provido | O Colegiado negou provimento, por unanimidade, a recurso da Sul América Companhia Nacional de Seguros contra decisão da SNC que fixou o… | cvm-col-20070130-d08 | fichas/colegiado/2007-02.md |
+| — | 2007-01-30 | outro | O Colegiado aprovou a minuta de convênio de cooperação acadêmica e técnica entre a CVM e a PUC-RIO, para estudos, pesquisas, eventos… | cvm-col-20070130-d07 | fichas/colegiado/2007-02.md |
+| RJ2006/5768; RJ2006/5773 | 2007-01-30 | parcial | O Colegiado deu parcial provimento a recurso da Mellon DTVM contra determinações da SIN sobre fundos multimercado. Admitiu a… | cvm-col-20070130-d01 | fichas/colegiado/2007-02.md |
+| SP2005/0195 | 2007-01-23 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SMI que indeferiu pedido de vista e cópia de processo de investigação, mantendo o… | cvm-col-20070123-d08 | fichas/colegiado/2007-02.md |
+| RJ2006/1119 | 2007-01-23 | outro | O Colegiado aprovou a dissolução do Fundo de Garantia da Bolsa de Valores de Pernambuco e Paraíba, por cumpridas as condições fixadas em… | cvm-col-20070123-d07 | fichas/colegiado/2007-02.md |
+| RJ2006/4866 | 2007-01-23 | deferido | O Colegiado deferiu pedido do Banco Bradesco S.A. para manter em funcionamento normal os fundos Boavista Fundo de Investimento Referenciado… | cvm-col-20070123-d06 | fichas/colegiado/2007-02.md |
+| RJ2007/0191 | 2007-01-23 | parcial | O Colegiado se manifestou sobre a legalidade de cláusulas da Sadia S.A. sobre impedimentos e conflitos na eleição de conselheiros de… | cvm-col-20070123-d05 | fichas/colegiado/2007-02.md |
+| — | 2007-01-16 | outro | O Colegiado determinou à SMI ato declaratório de que a Investnorte CVMC Ltda. perdeu a qualidade de membro da BOVAPP, com cessação de suas… | cvm-col-20070116-d05 | fichas/colegiado/2007-01.md |
+| RJ2007/0040 | 2007-01-16 | outro | O Colegiado aprovou a minuta de convênio de cooperação técnica entre a CVM e o IBMEC, para estudos, pesquisas, eventos técnicos e outros… | cvm-col-20070116-d04 | fichas/colegiado/2007-01.md |
+| RJ2006/6802 | 2007-01-16 | parcial | O Colegiado deferiu a dispensa de laudo de avaliação (art. 8º, Instrução 361/02) na OPA para alienação de controle da Light S.A. pela Rio… | cvm-col-20070116-d03 | fichas/colegiado/2007-01.md |
+| RJ2007/0191 | 2007-01-11 | deferido | O Colegiado acatou o pedido da PREVI e interrompeu, por quinze dias, o prazo de convocação da AGE da Sadia S.A. para analisar propostas… | cvm-col-20070111-d01 | fichas/colegiado/2007-01.md |
+| RJ2005/3327 | 2007-01-10 | outro | O Colegiado aprovou minuta de instrução que acrescenta o art. 3º-A e altera o art. 1º da Instrução CVM 273/98. | cvm-col-20070110-d01 | fichas/colegiado/2007-01.md |
+| RJ2006/7717 | 2007-01-09 | outro | O Colegiado aprovou o Plano Anual de Atividades de Auditoria Interna para o exercício de 2007 e registrou elogio ao trabalho do então… | cvm-col-20070109-d4957 | fichas/colegiado/2007-01.md |
+| — | 2007-01-09 | outro | O Colegiado considerou desnecessária autorização da CVM para o fundo receber ações de companhia fechada por incorporação, pois a aquisição… | cvm-col-20070109-d11 | fichas/colegiado/2007-01.md |
+| RJ2006/4665 | 2007-01-09 | outro | O Colegiado, por unanimidade, acompanhou o despacho do relator, que determinou a devolução dos autos à SIN para complementar o Termo de… | cvm-col-20070109-d10 | fichas/colegiado/2007-01.md |
+| RJ2006/9159 | 2007-01-09 | nao-provido | Recurso contra decisão da SOI em processo de multa cominatória. Proc. RJ2006/9159. | cvm-col-20070109-d09 | fichas/colegiado/2007-01.md |
+| RJ2006/8891 | 2007-01-09 | nao-provido | Recurso contra decisão da SOI em processo de multa cominatória. Proc. RJ2006/8891. | cvm-col-20070109-d08 | fichas/colegiado/2007-01.md |
+| RJ2006/9208 | 2007-01-09 | outro | O Colegiado acompanhou o voto do relator e respondeu afirmativamente à consulta da SIN: administrador de carteira que não atue como agente… | cvm-col-20070109-d07 | fichas/colegiado/2007-01.md |
+| RJ2006/1854 | 2007-01-09 | outro | O Colegiado aprovou o cancelamento de ofício do registro das companhias listadas no Memo/SEP/GEA-3/nº 002/07, acatando os argumentos da… | cvm-col-20070109-d06 | fichas/colegiado/2007-01.md |
+| RJ2004/1616 | 2007-01-09 | outro | O Colegiado acompanhou a SEP em manifestação preliminar sobre o cumprimento do Termo de Compromisso da Petrobras (PAS RJ2004/1616), sobre… | cvm-col-20070109-d05 | fichas/colegiado/2007-01.md |
+| SP2006/0138 | 2007-01-09 | outro | O Colegiado acompanhou o voto do relator e informou à consulente que a assinatura eletrônica em cadastros e contratos de clientes está em… | cvm-col-20070109-d03 | fichas/colegiado/2007-01.md |
+| RJ2006/8152 | 2007-01-09 | provido | Recurso contra a decisão da SIN de aplicação de multa cominatória. Proc. RJ2006/8152. | cvm-col-20070109-d02 | fichas/colegiado/2007-01.md |
+| 20/2003 | 2007-01-09 | outro | O Colegiado arquivou o PAS 20/2003 quanto aos indiciados, pois a área responsável atestou o cumprimento integral do Termo de Compromisso… | cvm-col-20070109-d01 | fichas/colegiado/2007-01.md |
+| RJ2006/6221; RJ2006/9503; RJ2006/8192 | 2007-01-03 | parcial | O Colegiado suspendeu a contagem do prazo de exigências de registro inicial do Banco Santander Banespa S.A. até manifestação do Banco… | cvm-col-20070103-d02 | fichas/colegiado/2007-01.md |
 
 Fim do subíndice.

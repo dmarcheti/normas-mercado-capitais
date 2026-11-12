@@ -15,7 +15,7 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2013/5993 | 2014-01-28 | — | cvm-col-20140128-d03 | fichas/colegiado/2014-02.md |
 | decisao-colegiado | RJ2005/5664 | 2006-04-11 | nao-provido | cvm-col-20060411-d03 | fichas/colegiado/2006-06.md |
 | pas | RJ2005/5828 | 2006-01-11 | parcial | cvm-pas-rj2005-5828 | fichas/pas/2006-01.md |
-| pas | RJ2005/2815 | 2005-10-05 | parcial | cvm-pas-rj2005-2815 | fichas/pas/2005-07.md |
+| pas | RJ2005/2815 | 2005-10-05 | parcial | cvm-pas-rj2005-2815 | fichas/pas/2005-13.md |
 | decisao-colegiado | RJ2002/4819 | 2004-08-05 | provido | cvm-col-20040805-d10 | fichas/colegiado/2004-09.md |
 | decisao-colegiado | RJ2003/3718 | 2003-06-17 | provido | cvm-col-20030617-d03 | fichas/colegiado/2003-08.md |
 | decisao-colegiado | RJ2003/3716 | 2003-06-17 | provido | cvm-col-20030617-d02 | fichas/colegiado/2003-08.md |

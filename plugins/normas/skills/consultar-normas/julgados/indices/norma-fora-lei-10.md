@@ -37,16 +37,16 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.007423/2021-12 | 2023-02-28 | nao-provido | cvm-col-20230228-d2672 | fichas/colegiado/2023-03.md |
 | termo-compromisso | 19957.011708/2017-71 | 2020-02-18 | aceito | cvm-col-20200218-d1475 | fichas/tc/2020-01.md |
-| pas | 19957.006209/2016-81; RJ2016/7499 | 2019-12-10 | parcial | cvm-pas-19957-006209-2016-81 | fichas/pas/2019-12.md |
-| acordao-crsfn | RJ2013/13172 | 2019-09-24 | absolvicao | crsfn-10372-100001-2018-16 | fichas/crsfn/2019-02.md |
-| pas | RJ2014/3616 | 2018-11-13 | parcial | cvm-pas-rj2014-3616 | fichas/pas/2018-09.md |
-| pas | RJ2016/7963 | 2018-10-09 | condenacao | cvm-pas-rj2016-7963 | fichas/pas/2018-07.md |
-| pas | RJ2014/10290 | 2017-06-13 | condenacao | cvm-pas-rj2014-10290 | fichas/pas/2017-03.md |
-| pas | RJ2013/13172 | 2017-06-13 | condenacao | cvm-pas-rj2013-13172 | fichas/pas/2017-02.md |
-| pas | RJ2014/8149 | 2016-12-15 | condenacao | cvm-pas-rj2014-8149 | fichas/pas/2016-09.md |
-| pas | RJ2014/6515 | 2016-12-15 | condenacao | cvm-pas-rj2014-6515 | fichas/pas/2016-08.md |
+| pas | 19957.006209/2016-81; RJ2016/7499 | 2019-12-10 | parcial | cvm-pas-19957-006209-2016-81 | fichas/pas/2019-22.md |
+| acordao-crsfn | RJ2013/13172 | 2019-09-24 | absolvicao | crsfn-10372-100001-2018-16 | fichas/crsfn/2019-03.md |
+| pas | RJ2014/3616 | 2018-11-13 | parcial | cvm-pas-rj2014-3616 | fichas/pas/2018-19.md |
+| pas | RJ2016/7963 | 2018-10-09 | condenacao | cvm-pas-rj2016-7963 | fichas/pas/2018-14.md |
+| pas | RJ2014/10290 | 2017-06-13 | condenacao | cvm-pas-rj2014-10290 | fichas/pas/2017-05.md |
+| pas | RJ2013/13172 | 2017-06-13 | condenacao | cvm-pas-rj2013-13172 | fichas/pas/2017-05.md |
+| pas | RJ2014/8149 | 2016-12-15 | condenacao | cvm-pas-rj2014-8149 | fichas/pas/2016-16.md |
+| pas | RJ2014/6515 | 2016-12-15 | condenacao | cvm-pas-rj2014-6515 | fichas/pas/2016-16.md |
 | decisao-colegiado | RJ2015/10623 | 2015-11-10 | nao-provido | cvm-col-20151110-d9911 | fichas/colegiado/2015-20.md |
-| pas | RJ2012/13047 | 2014-11-04 | parcial | cvm-pas-rj2012-13047 | fichas/pas/2014-04.md |
+| pas | RJ2012/13047 | 2014-11-04 | parcial | cvm-pas-rj2012-13047 | fichas/pas/2014-08.md |
 | decisao-colegiado | RJ2002/3792 | 2003-04-08 | provido | cvm-col-20030408-d01 | fichas/colegiado/2003-04.md |
 
 Fim do subíndice.

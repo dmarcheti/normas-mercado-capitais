@@ -143,7 +143,7 @@ Este subíndice tem 277 linhas e uma leitura única é cortada em silêncio pert
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 3º | acordao-crsfn | RJ-2012-4062 | 2017-09-19 | parcial | crsfn-13934 | fichas/crsfn/2017-07.md |
+| art. 3º | acordao-crsfn | RJ-2012-4062 | 2017-09-19 | parcial | crsfn-13934 | fichas/crsfn/2017-12.md |
 | art. 3º | decisao-colegiado | RJ2002/6137 | 2002-08-27 | indeferido | cvm-col-20020827-d01 | fichas/colegiado/2002-20.md |
 | art. 3º | decisao-colegiado | RJ2003/1072 | 2003-02-14 | indeferido | cvm-col-20030214-d01 | fichas/colegiado/2003-02.md |
 | art. 3º | decisao-colegiado | RJ2003/12767 | 2003-12-03 | indeferido | cvm-col-20031203-d01 | fichas/colegiado/2003-14.md |
@@ -196,8 +196,8 @@ Este subíndice tem 277 linhas e uma leitura única é cortada em silêncio pert
 | art. 3º | decisao-colegiado | 19957.003175/2022-11 | 2022-04-18 | conhecimento | cvm-col-20220418-d2569 | fichas/colegiado/2022-06.md |
 | art. 3º | decisao-colegiado | 19957.003729/2022-81 | 2022-04-27 | indeferido | cvm-col-20220427-d2572 | fichas/colegiado/2022-07.md |
 | art. 3º | decisao-colegiado | 19957.015411/2022-42 | 2023-01-03 | indeferido | cvm-col-20230103-d2775 | fichas/colegiado/2023-01.md |
-| art. 3º | pas | RJ2008/1815 | 2009-04-28 | parcial | cvm-pas-rj2008-1815 | fichas/pas/2009-02.md |
-| art. 3º | pas | RJ2012/4062 | 2013-12-17 | parcial | cvm-pas-rj2012-4062 | fichas/pas/2013-07.md |
+| art. 3º | pas | RJ2008/1815 | 2009-04-28 | parcial | cvm-pas-rj2008-1815 | fichas/pas/2009-03.md |
+| art. 3º | pas | RJ2012/4062 | 2013-12-17 | parcial | cvm-pas-rj2012-4062 | fichas/pas/2013-15.md |
 | art. 3º, § 1º | decisao-colegiado | 19957.003729/2022-81 | 2022-04-27 | indeferido | cvm-col-20220427-d2572 | fichas/colegiado/2022-07.md |
 | art. 3º, § 2º | decisao-colegiado | RJ2005/5203 | 2005-08-24 | indeferido | cvm-col-20050824-d01 | fichas/colegiado/2005-12.md |
 | art. 3º, § 2º | decisao-colegiado | RJ2005/5203 | 2005-08-26 | nao-provido | cvm-col-20050826-d01 | fichas/colegiado/2005-12.md |
@@ -244,7 +244,7 @@ Este subíndice tem 277 linhas e uma leitura única é cortada em silêncio pert
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.004416/2016-00 | 2023-05-30 | parcial | cvm-pas-19957-004416-2016-00 | fichas/pas/2023-03.md |
+| pas | 19957.004416/2016-00 | 2023-05-30 | parcial | cvm-pas-19957-004416-2016-00 | fichas/pas/2023-05.md |
 | decisao-colegiado | 19957.003841/2018-35 | 2021-04-20 | nao-provido | cvm-col-20210420-d2053 | fichas/colegiado/2021-07.md |
 | decisao-colegiado | 19957.006440/2020-51 | 2020-10-06 | indeferido | cvm-col-20201006-d1940 | fichas/colegiado/2020-17.md |
 | decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
@@ -256,7 +256,7 @@ Este subíndice tem 277 linhas e uma leitura única é cortada em silêncio pert
 | decisao-colegiado | 19957.005974/2016-84 | 2016-09-06 | outro | cvm-col-20160906-d0356 | fichas/colegiado/2016-17.md |
 | decisao-colegiado | 19957.005974/2016-84 | 2016-09-05 | outro | cvm-col-20160905-d0356 | fichas/colegiado/2016-17.md |
 | decisao-colegiado | 19957.002527/2016-73 | 2016-04-26 | indeferido | cvm-col-20160426-d0186 | fichas/colegiado/2016-08.md |
-| pas | RJ2014/10060 | 2015-11-10 | condenacao | cvm-pas-rj2014-10060 | fichas/pas/2015-06.md |
+| pas | RJ2014/10060 | 2015-11-10 | condenacao | cvm-pas-rj2014-10060 | fichas/pas/2015-12.md |
 | decisao-colegiado | RJ2014/11888 | 2014-10-22 | parcial | cvm-col-20141022-d01-r2 | fichas/colegiado/2014-20.md |
 | decisao-colegiado | RJ2014/4201 | 2014-07-29 | parcial | cvm-col-20140729-d03 | fichas/colegiado/2014-14.md |
 | decisao-colegiado | RJ2012/3718 | 2012-04-17 | outro | cvm-col-20120417-d13 | fichas/colegiado/2012-08.md |

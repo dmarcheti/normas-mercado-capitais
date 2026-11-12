@@ -11,7 +11,7 @@ Norma: [cvm/resolucoes/0027.md](../../normas/cvm/resolucoes/0027.md) (texto vige
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 3º | pas | 19957.012126/2022-70 | 2023-06-06 | condenacao | cvm-pas-19957-012126-2022-70 | fichas/pas/2023-03.md |
+| art. 3º | pas | 19957.012126/2022-70 | 2023-06-06 | condenacao | cvm-pas-19957-012126-2022-70 | fichas/pas/2023-06.md |
 
 ## Citada sem dispositivo identificado
 

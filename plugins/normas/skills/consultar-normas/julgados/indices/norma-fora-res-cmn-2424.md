@@ -28,10 +28,10 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2003/5849 | 2005-12-21 | absolvicao | cvm-pas-rj2003-5849 | fichas/pas/2005-10.md |
-| pas | RJ2003/7697 | 2005-08-23 | absolvicao | cvm-pas-rj2003-7697 | fichas/pas/2005-06.md |
-| pas | RJ2003/7642 | 2005-06-27 | absolvicao | cvm-pas-rj2003-7642 | fichas/pas/2005-05.md |
-| pas | RJ2003/5509 | 2005-06-24 | absolvicao | cvm-pas-rj2003-5509 | fichas/pas/2005-05.md |
-| pas | RJ2003/5058 | 2005-06-20 | absolvicao | cvm-pas-rj2003-5058 | fichas/pas/2005-05.md |
+| pas | RJ2003/5849 | 2005-12-21 | absolvicao | cvm-pas-rj2003-5849 | fichas/pas/2005-21.md |
+| pas | RJ2003/7697 | 2005-08-23 | absolvicao | cvm-pas-rj2003-7697 | fichas/pas/2005-11.md |
+| pas | RJ2003/7642 | 2005-06-27 | absolvicao | cvm-pas-rj2003-7642 | fichas/pas/2005-10.md |
+| pas | RJ2003/5509 | 2005-06-24 | absolvicao | cvm-pas-rj2003-5509 | fichas/pas/2005-09.md |
+| pas | RJ2003/5058 | 2005-06-20 | absolvicao | cvm-pas-rj2003-5058 | fichas/pas/2005-09.md |
 
 Fim do subíndice.

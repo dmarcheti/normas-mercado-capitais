@@ -19,8 +19,8 @@ Norma: fora do acervo.
 | art. 1º | termo-compromisso | RJ2005/9001 | 2006-08-29 | rejeitado | cvm-col-20060829-d04 | fichas/tc/2006-04.md |
 | art. 1º | decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
 | art. 1º | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
-| art. 1º | pas | SP2002/0257 | 2003-11-13 | condenacao | cvm-pas-sp2002-0257 | fichas/pas/2003-04.md |
-| art. 1º | pas | SP2003/0042 | 2004-05-06 | condenacao | cvm-pas-sp2003-0042 | fichas/pas/2004-02.md |
+| art. 1º | pas | SP2002/0257 | 2003-11-13 | condenacao | cvm-pas-sp2002-0257 | fichas/pas/2003-08.md |
+| art. 1º | pas | SP2003/0042 | 2004-05-06 | condenacao | cvm-pas-sp2003-0042 | fichas/pas/2004-03.md |
 | art. 1º, inciso I | decisao-colegiado | RJ2004/5777 | 2004-10-05 | outro | cvm-col-20041005-d07 | fichas/colegiado/2004-12.md |
 | art. 1º, inciso I, alínea b | decisao-colegiado | RJ2005/1442 | 2005-03-14 | outro | cvm-col-20050314-d02 | fichas/colegiado/2005-05.md |
 | art. 1º, inciso I, alínea b | decisao-colegiado | RJ2005/8359 | 2006-05-18 | nao-provido | cvm-col-20060518-d02 | fichas/colegiado/2006-07.md |
@@ -34,7 +34,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 2º | pas | RJ2006/1267 | 2006-06-14 | parcial | cvm-pas-rj2006-1267 | fichas/pas/2006-06.md |
+| art. 2º | pas | RJ2006/1267 | 2006-06-14 | parcial | cvm-pas-rj2006-1267 | fichas/pas/2006-12.md |
 
 ## art. 32
 
@@ -56,7 +56,7 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2008/4871 | 2009-03-10 | nao-provido | cvm-col-20090310-d10 | fichas/colegiado/2009-03.md |
 | decisao-colegiado | RJ2007/14868 | 2008-07-22 | nao-provido | cvm-col-20080722-d22 | fichas/colegiado/2008-16.md |
 | decisao-colegiado | RJ2006/0796 | 2006-06-13 | parcial | cvm-col-20060613-d07 | fichas/colegiado/2006-09.md |
-| pas | 06/2002 | 2005-11-16 | parcial | cvm-pas-06-2002 | fichas/pas/2005-08.md |
+| pas | 06/2002 | 2005-11-16 | parcial | cvm-pas-06-2002 | fichas/pas/2005-16.md |
 | pas | 28/1999 | 2003-03-20 | parcial | cvm-pas-28-1999 | fichas/pas/2003-01.md |
 | acordao-crsfn | RJ2000/4550 | 2003-01-29 | parcial | crsfn-3710 | fichas/crsfn/2003-01.md |
 | decisao-colegiado | SP2000/0108 | 2002-01-22 | nao-provido | cvm-col-20020122-d05 | fichas/colegiado/2002-02.md |

@@ -23,7 +23,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 28, inciso I | pas | 19957.004318/2021-21 | 2023-12-06 | parcial | cvm-pas-19957-004318-2021-21 | fichas/pas/2023-08.md |
+| art. 28, inciso I | pas | 19957.004318/2021-21 | 2023-12-06 | parcial | cvm-pas-19957-004318-2021-21 | fichas/pas/2023-16.md |
 
 ## art. 33
 
@@ -37,7 +37,7 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.002090/2023-05 | 2025-05-06 | nao-provido | cvm-col-20250506-d3242 | fichas/colegiado/2025-04.md |
 | decisao-colegiado | 19957.012349/2022-37 | 2024-07-02 | provido | cvm-col-20240702-d2876 | fichas/colegiado/2024-07.md |
-| pas | 19957.009366/2017-20 | 2022-04-12 | condenacao | cvm-pas-19957-009366-2017-20 | fichas/pas/2022-02.md |
+| pas | 19957.009366/2017-20 | 2022-04-12 | condenacao | cvm-pas-19957-009366-2017-20 | fichas/pas/2022-03.md |
 | decisao-colegiado | 19957.002309/2021-04 | 2021-10-05 | conhecimento | cvm-col-20211005-d2191 | fichas/colegiado/2021-16.md |
 | decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
 | decisao-colegiado | 19957.009333/2019-41 | 2020-01-14 | outro | cvm-col-20200114-d1668 | fichas/colegiado/2020-01.md |

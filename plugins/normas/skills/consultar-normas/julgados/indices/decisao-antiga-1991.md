@@ -5,231 +5,231 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
-Uma linha por decisão (uma ficha `<id-anual>-NNNN`, na ordem do arquivo anual), da mais recente para a mais antiga: data da ata, processo (quando o título traz) e ficha. O título (`ementa` da ficha) vem do arquivo anual, que o conversor do PDF abriu em toda linha em caixa alta: títulos de 1997 a 2001 podem vir cortados ou imprecisos.
+Uma linha por decisão (uma ficha `<id-anual>-NNNN`, na ordem do arquivo anual), da mais recente para a mais antiga: data da ata, processo (quando o título traz), título da pauta (`ementa` da ficha, até 140 caracteres, nome de pessoa física trocado por "[pessoa física]") e ficha. O título vem do arquivo anual, que o conversor do PDF abriu em toda linha em caixa alta: títulos de 1997 a 2001 podem vir cortados ou imprecisos.
 
-| Data da ata | Processo | Id | Ficha |
-|---|---|---|---|
-| 1991-12-23 | — | cvm-dec-1991-0001 | fichas/decisoes-antigas/1991-08.md |
-| 1991-12-23 | — | cvm-dec-1991-0002 | fichas/decisoes-antigas/1991-08.md |
-| 1991-12-23 | — | cvm-dec-1991-0003 | fichas/decisoes-antigas/1991-08.md |
-| 1991-12-23 | — | cvm-dec-1991-0004 | fichas/decisoes-antigas/1991-08.md |
-| 1991-12-23 | — | cvm-dec-1991-0005 | fichas/decisoes-antigas/1991-08.md |
-| 1991-12-23 | — | cvm-dec-1991-0006 | fichas/decisoes-antigas/1991-08.md |
-| 1991-12-23 | — | cvm-dec-1991-0007 | fichas/decisoes-antigas/1991-08.md |
-| 1991-12-17 | — | cvm-dec-1991-0008 | fichas/decisoes-antigas/1991-07.md |
-| 1991-12-17 | — | cvm-dec-1991-0009 | fichas/decisoes-antigas/1991-07.md |
-| 1991-12-17 | — | cvm-dec-1991-0010 | fichas/decisoes-antigas/1991-07.md |
-| 1991-12-17 | — | cvm-dec-1991-0011 | fichas/decisoes-antigas/1991-08.md |
-| 1991-12-17 | — | cvm-dec-1991-0012 | fichas/decisoes-antigas/1991-08.md |
-| 1991-12-17 | — | cvm-dec-1991-0013 | fichas/decisoes-antigas/1991-08.md |
-| 1991-12-17 | — | cvm-dec-1991-0014 | fichas/decisoes-antigas/1991-08.md |
-| 1991-12-17 | — | cvm-dec-1991-0015 | fichas/decisoes-antigas/1991-08.md |
-| 1991-12-11 | — | cvm-dec-1991-0016 | fichas/decisoes-antigas/1991-07.md |
-| 1991-12-11 | — | cvm-dec-1991-0017 | fichas/decisoes-antigas/1991-07.md |
-| 1991-12-11 | — | cvm-dec-1991-0018 | fichas/decisoes-antigas/1991-07.md |
-| 1991-12-11 | — | cvm-dec-1991-0019 | fichas/decisoes-antigas/1991-07.md |
-| 1991-12-11 | — | cvm-dec-1991-0020 | fichas/decisoes-antigas/1991-07.md |
-| 1991-12-11 | — | cvm-dec-1991-0021 | fichas/decisoes-antigas/1991-07.md |
-| 1991-12-05 | — | cvm-dec-1991-0022 | fichas/decisoes-antigas/1991-07.md |
-| 1991-12-05 | — | cvm-dec-1991-0023 | fichas/decisoes-antigas/1991-07.md |
-| 1991-12-05 | — | cvm-dec-1991-0024 | fichas/decisoes-antigas/1991-07.md |
-| 1991-12-05 | — | cvm-dec-1991-0025 | fichas/decisoes-antigas/1991-07.md |
-| 1991-12-05 | — | cvm-dec-1991-0026 | fichas/decisoes-antigas/1991-07.md |
-| 1991-12-05 | — | cvm-dec-1991-0027 | fichas/decisoes-antigas/1991-07.md |
-| 1991-12-05 | — | cvm-dec-1991-0028 | fichas/decisoes-antigas/1991-07.md |
-| 1991-12-02 | — | cvm-dec-1991-0029 | fichas/decisoes-antigas/1991-07.md |
-| 1991-11-28 | — | cvm-dec-1991-0030 | fichas/decisoes-antigas/1991-07.md |
-| 1991-11-28 | — | cvm-dec-1991-0031 | fichas/decisoes-antigas/1991-07.md |
-| 1991-11-28 | — | cvm-dec-1991-0032 | fichas/decisoes-antigas/1991-07.md |
-| 1991-11-28 | — | cvm-dec-1991-0033 | fichas/decisoes-antigas/1991-07.md |
-| 1991-11-28 | — | cvm-dec-1991-0034 | fichas/decisoes-antigas/1991-07.md |
-| 1991-11-21 | — | cvm-dec-1991-0035 | fichas/decisoes-antigas/1991-07.md |
-| 1991-11-21 | — | cvm-dec-1991-0036 | fichas/decisoes-antigas/1991-07.md |
-| 1991-11-21 | — | cvm-dec-1991-0037 | fichas/decisoes-antigas/1991-07.md |
-| 1991-11-21 | — | cvm-dec-1991-0038 | fichas/decisoes-antigas/1991-07.md |
-| 1991-11-21 | — | cvm-dec-1991-0039 | fichas/decisoes-antigas/1991-07.md |
-| 1991-11-21 | — | cvm-dec-1991-0040 | fichas/decisoes-antigas/1991-07.md |
-| 1991-11-21 | — | cvm-dec-1991-0041 | fichas/decisoes-antigas/1991-07.md |
-| 1991-11-13 | — | cvm-dec-1991-0042 | fichas/decisoes-antigas/1991-06.md |
-| 1991-11-13 | — | cvm-dec-1991-0043 | fichas/decisoes-antigas/1991-07.md |
-| 1991-11-13 | — | cvm-dec-1991-0044 | fichas/decisoes-antigas/1991-07.md |
-| 1991-11-13 | — | cvm-dec-1991-0045 | fichas/decisoes-antigas/1991-07.md |
-| 1991-11-05 | — | cvm-dec-1991-0046 | fichas/decisoes-antigas/1991-06.md |
-| 1991-11-05 | — | cvm-dec-1991-0047 | fichas/decisoes-antigas/1991-06.md |
-| 1991-11-05 | — | cvm-dec-1991-0048 | fichas/decisoes-antigas/1991-06.md |
-| 1991-10-31 | — | cvm-dec-1991-0049 | fichas/decisoes-antigas/1991-06.md |
-| 1991-10-31 | — | cvm-dec-1991-0050 | fichas/decisoes-antigas/1991-06.md |
-| 1991-10-31 | — | cvm-dec-1991-0051 | fichas/decisoes-antigas/1991-06.md |
-| 1991-10-31 | — | cvm-dec-1991-0052 | fichas/decisoes-antigas/1991-06.md |
-| 1991-10-31 | — | cvm-dec-1991-0053 | fichas/decisoes-antigas/1991-06.md |
-| 1991-10-31 | — | cvm-dec-1991-0054 | fichas/decisoes-antigas/1991-06.md |
-| 1991-10-31 | — | cvm-dec-1991-0055 | fichas/decisoes-antigas/1991-06.md |
-| 1991-10-31 | — | cvm-dec-1991-0056 | fichas/decisoes-antigas/1991-06.md |
-| 1991-10-31 | — | cvm-dec-1991-0057 | fichas/decisoes-antigas/1991-06.md |
-| 1991-10-31 | — | cvm-dec-1991-0058 | fichas/decisoes-antigas/1991-06.md |
-| 1991-10-31 | — | cvm-dec-1991-0059 | fichas/decisoes-antigas/1991-06.md |
-| 1991-10-31 | — | cvm-dec-1991-0060 | fichas/decisoes-antigas/1991-06.md |
-| 1991-10-31 | — | cvm-dec-1991-0061 | fichas/decisoes-antigas/1991-06.md |
-| 1991-10-31 | 88/2946 | cvm-dec-1991-0062 | fichas/decisoes-antigas/1991-06.md |
-| 1991-10-31 | — | cvm-dec-1991-0063 | fichas/decisoes-antigas/1991-06.md |
-| 1991-10-31 | — | cvm-dec-1991-0064 | fichas/decisoes-antigas/1991-06.md |
-| 1991-10-23 | — | cvm-dec-1991-0065 | fichas/decisoes-antigas/1991-05.md |
-| 1991-10-23 | — | cvm-dec-1991-0066 | fichas/decisoes-antigas/1991-05.md |
-| 1991-10-23 | — | cvm-dec-1991-0067 | fichas/decisoes-antigas/1991-05.md |
-| 1991-10-23 | — | cvm-dec-1991-0068 | fichas/decisoes-antigas/1991-05.md |
-| 1991-10-23 | — | cvm-dec-1991-0069 | fichas/decisoes-antigas/1991-05.md |
-| 1991-10-23 | — | cvm-dec-1991-0070 | fichas/decisoes-antigas/1991-05.md |
-| 1991-10-23 | — | cvm-dec-1991-0071 | fichas/decisoes-antigas/1991-05.md |
-| 1991-10-23 | — | cvm-dec-1991-0072 | fichas/decisoes-antigas/1991-05.md |
-| 1991-10-23 | — | cvm-dec-1991-0073 | fichas/decisoes-antigas/1991-05.md |
-| 1991-10-23 | — | cvm-dec-1991-0074 | fichas/decisoes-antigas/1991-05.md |
-| 1991-10-23 | — | cvm-dec-1991-0075 | fichas/decisoes-antigas/1991-05.md |
-| 1991-10-23 | — | cvm-dec-1991-0076 | fichas/decisoes-antigas/1991-05.md |
-| 1991-10-23 | — | cvm-dec-1991-0077 | fichas/decisoes-antigas/1991-05.md |
-| 1991-10-23 | — | cvm-dec-1991-0078 | fichas/decisoes-antigas/1991-05.md |
-| 1991-10-23 | — | cvm-dec-1991-0079 | fichas/decisoes-antigas/1991-05.md |
-| 1991-10-23 | — | cvm-dec-1991-0080 | fichas/decisoes-antigas/1991-05.md |
-| 1991-10-23 | — | cvm-dec-1991-0081 | fichas/decisoes-antigas/1991-06.md |
-| 1991-10-23 | — | cvm-dec-1991-0082 | fichas/decisoes-antigas/1991-06.md |
-| 1991-10-23 | — | cvm-dec-1991-0083 | fichas/decisoes-antigas/1991-06.md |
-| 1991-10-23 | — | cvm-dec-1991-0084 | fichas/decisoes-antigas/1991-06.md |
-| 1991-10-23 | — | cvm-dec-1991-0085 | fichas/decisoes-antigas/1991-06.md |
-| 1991-10-23 | — | cvm-dec-1991-0086 | fichas/decisoes-antigas/1991-06.md |
-| 1991-10-23 | — | cvm-dec-1991-0087 | fichas/decisoes-antigas/1991-06.md |
-| 1991-10-23 | — | cvm-dec-1991-0088 | fichas/decisoes-antigas/1991-06.md |
-| 1991-09-25 | — | cvm-dec-1991-0089 | fichas/decisoes-antigas/1991-04.md |
-| 1991-09-25 | — | cvm-dec-1991-0090 | fichas/decisoes-antigas/1991-04.md |
-| 1991-09-25 | — | cvm-dec-1991-0091 | fichas/decisoes-antigas/1991-04.md |
-| 1991-09-25 | — | cvm-dec-1991-0092 | fichas/decisoes-antigas/1991-04.md |
-| 1991-09-25 | — | cvm-dec-1991-0093 | fichas/decisoes-antigas/1991-04.md |
-| 1991-09-25 | — | cvm-dec-1991-0094 | fichas/decisoes-antigas/1991-05.md |
-| 1991-09-25 | — | cvm-dec-1991-0095 | fichas/decisoes-antigas/1991-05.md |
-| 1991-09-25 | — | cvm-dec-1991-0096 | fichas/decisoes-antigas/1991-05.md |
-| 1991-09-25 | — | cvm-dec-1991-0097 | fichas/decisoes-antigas/1991-05.md |
-| 1991-09-25 | — | cvm-dec-1991-0098 | fichas/decisoes-antigas/1991-05.md |
-| 1991-09-25 | — | cvm-dec-1991-0099 | fichas/decisoes-antigas/1991-05.md |
-| 1991-09-25 | — | cvm-dec-1991-0100 | fichas/decisoes-antigas/1991-05.md |
-| 1991-09-25 | — | cvm-dec-1991-0101 | fichas/decisoes-antigas/1991-05.md |
-| 1991-09-25 | — | cvm-dec-1991-0102 | fichas/decisoes-antigas/1991-05.md |
-| 1991-09-25 | — | cvm-dec-1991-0103 | fichas/decisoes-antigas/1991-05.md |
-| 1991-09-17 | — | cvm-dec-1991-0104 | fichas/decisoes-antigas/1991-04.md |
-| 1991-09-17 | — | cvm-dec-1991-0105 | fichas/decisoes-antigas/1991-04.md |
-| 1991-09-17 | — | cvm-dec-1991-0106 | fichas/decisoes-antigas/1991-04.md |
-| 1991-09-17 | — | cvm-dec-1991-0107 | fichas/decisoes-antigas/1991-04.md |
-| 1991-09-17 | — | cvm-dec-1991-0108 | fichas/decisoes-antigas/1991-04.md |
-| 1991-09-17 | — | cvm-dec-1991-0109 | fichas/decisoes-antigas/1991-04.md |
-| 1991-09-17 | — | cvm-dec-1991-0110 | fichas/decisoes-antigas/1991-04.md |
-| 1991-09-17 | — | cvm-dec-1991-0111 | fichas/decisoes-antigas/1991-04.md |
-| 1991-09-17 | — | cvm-dec-1991-0112 | fichas/decisoes-antigas/1991-04.md |
-| 1991-09-17 | — | cvm-dec-1991-0113 | fichas/decisoes-antigas/1991-04.md |
-| 1991-09-17 | — | cvm-dec-1991-0114 | fichas/decisoes-antigas/1991-04.md |
-| 1991-09-17 | — | cvm-dec-1991-0115 | fichas/decisoes-antigas/1991-04.md |
-| 1991-09-17 | — | cvm-dec-1991-0116 | fichas/decisoes-antigas/1991-04.md |
-| 1991-08-29 | — | cvm-dec-1991-0117 | fichas/decisoes-antigas/1991-04.md |
-| 1991-08-29 | — | cvm-dec-1991-0118 | fichas/decisoes-antigas/1991-04.md |
-| 1991-08-29 | — | cvm-dec-1991-0119 | fichas/decisoes-antigas/1991-04.md |
-| 1991-08-29 | — | cvm-dec-1991-0120 | fichas/decisoes-antigas/1991-04.md |
-| 1991-08-29 | — | cvm-dec-1991-0121 | fichas/decisoes-antigas/1991-04.md |
-| 1991-08-29 | — | cvm-dec-1991-0122 | fichas/decisoes-antigas/1991-04.md |
-| 1991-08-29 | — | cvm-dec-1991-0123 | fichas/decisoes-antigas/1991-04.md |
-| 1991-08-29 | — | cvm-dec-1991-0124 | fichas/decisoes-antigas/1991-04.md |
-| 1991-08-29 | — | cvm-dec-1991-0125 | fichas/decisoes-antigas/1991-04.md |
-| 1991-08-21 | — | cvm-dec-1991-0126 | fichas/decisoes-antigas/1991-03.md |
-| 1991-08-21 | — | cvm-dec-1991-0127 | fichas/decisoes-antigas/1991-03.md |
-| 1991-08-21 | — | cvm-dec-1991-0128 | fichas/decisoes-antigas/1991-03.md |
-| 1991-08-21 | — | cvm-dec-1991-0129 | fichas/decisoes-antigas/1991-03.md |
-| 1991-08-21 | — | cvm-dec-1991-0130 | fichas/decisoes-antigas/1991-03.md |
-| 1991-08-21 | — | cvm-dec-1991-0131 | fichas/decisoes-antigas/1991-03.md |
-| 1991-08-21 | — | cvm-dec-1991-0132 | fichas/decisoes-antigas/1991-03.md |
-| 1991-08-21 | — | cvm-dec-1991-0133 | fichas/decisoes-antigas/1991-03.md |
-| 1991-08-21 | — | cvm-dec-1991-0134 | fichas/decisoes-antigas/1991-03.md |
-| 1991-08-21 | — | cvm-dec-1991-0135 | fichas/decisoes-antigas/1991-04.md |
-| 1991-08-21 | — | cvm-dec-1991-0136 | fichas/decisoes-antigas/1991-04.md |
-| 1991-08-21 | — | cvm-dec-1991-0137 | fichas/decisoes-antigas/1991-04.md |
-| 1991-08-15 | — | cvm-dec-1991-0138 | fichas/decisoes-antigas/1991-03.md |
-| 1991-08-15 | — | cvm-dec-1991-0139 | fichas/decisoes-antigas/1991-03.md |
-| 1991-08-15 | — | cvm-dec-1991-0140 | fichas/decisoes-antigas/1991-03.md |
-| 1991-08-15 | — | cvm-dec-1991-0141 | fichas/decisoes-antigas/1991-03.md |
-| 1991-08-07 | — | cvm-dec-1991-0142 | fichas/decisoes-antigas/1991-03.md |
-| 1991-08-07 | — | cvm-dec-1991-0143 | fichas/decisoes-antigas/1991-03.md |
-| 1991-08-07 | — | cvm-dec-1991-0144 | fichas/decisoes-antigas/1991-03.md |
-| 1991-07-31 | — | cvm-dec-1991-0145 | fichas/decisoes-antigas/1991-03.md |
-| 1991-07-31 | — | cvm-dec-1991-0146 | fichas/decisoes-antigas/1991-03.md |
-| 1991-07-31 | — | cvm-dec-1991-0147 | fichas/decisoes-antigas/1991-03.md |
-| 1991-07-31 | — | cvm-dec-1991-0148 | fichas/decisoes-antigas/1991-03.md |
-| 1991-07-31 | — | cvm-dec-1991-0149 | fichas/decisoes-antigas/1991-03.md |
-| 1991-07-31 | — | cvm-dec-1991-0150 | fichas/decisoes-antigas/1991-03.md |
-| 1991-07-31 | — | cvm-dec-1991-0151 | fichas/decisoes-antigas/1991-03.md |
-| 1991-07-31 | — | cvm-dec-1991-0152 | fichas/decisoes-antigas/1991-03.md |
-| 1991-07-31 | — | cvm-dec-1991-0153 | fichas/decisoes-antigas/1991-03.md |
-| 1991-07-24 | — | cvm-dec-1991-0154 | fichas/decisoes-antigas/1991-02.md |
-| 1991-07-24 | — | cvm-dec-1991-0155 | fichas/decisoes-antigas/1991-02.md |
-| 1991-07-24 | — | cvm-dec-1991-0156 | fichas/decisoes-antigas/1991-03.md |
-| 1991-07-24 | — | cvm-dec-1991-0157 | fichas/decisoes-antigas/1991-03.md |
-| 1991-07-24 | — | cvm-dec-1991-0158 | fichas/decisoes-antigas/1991-03.md |
-| 1991-07-24 | — | cvm-dec-1991-0159 | fichas/decisoes-antigas/1991-03.md |
-| 1991-07-24 | — | cvm-dec-1991-0160 | fichas/decisoes-antigas/1991-03.md |
-| 1991-07-24 | — | cvm-dec-1991-0161 | fichas/decisoes-antigas/1991-03.md |
-| 1991-07-24 | — | cvm-dec-1991-0162 | fichas/decisoes-antigas/1991-03.md |
-| 1991-07-24 | — | cvm-dec-1991-0163 | fichas/decisoes-antigas/1991-03.md |
-| 1991-07-19 | — | cvm-dec-1991-0164 | fichas/decisoes-antigas/1991-02.md |
-| 1991-07-16 | — | cvm-dec-1991-0165 | fichas/decisoes-antigas/1991-02.md |
-| 1991-07-10 | — | cvm-dec-1991-0166 | fichas/decisoes-antigas/1991-02.md |
-| 1991-07-10 | — | cvm-dec-1991-0167 | fichas/decisoes-antigas/1991-02.md |
-| 1991-07-10 | — | cvm-dec-1991-0168 | fichas/decisoes-antigas/1991-02.md |
-| 1991-07-10 | — | cvm-dec-1991-0169 | fichas/decisoes-antigas/1991-02.md |
-| 1991-07-10 | — | cvm-dec-1991-0170 | fichas/decisoes-antigas/1991-02.md |
-| 1991-07-10 | — | cvm-dec-1991-0171 | fichas/decisoes-antigas/1991-02.md |
-| 1991-07-03 | — | cvm-dec-1991-0172 | fichas/decisoes-antigas/1991-02.md |
-| 1991-07-03 | — | cvm-dec-1991-0173 | fichas/decisoes-antigas/1991-02.md |
-| 1991-06-13 | — | cvm-dec-1991-0174 | fichas/decisoes-antigas/1991-02.md |
-| 1991-06-13 | — | cvm-dec-1991-0175 | fichas/decisoes-antigas/1991-02.md |
-| 1991-06-05 | — | cvm-dec-1991-0176 | fichas/decisoes-antigas/1991-02.md |
-| 1991-06-05 | — | cvm-dec-1991-0177 | fichas/decisoes-antigas/1991-02.md |
-| 1991-06-05 | — | cvm-dec-1991-0178 | fichas/decisoes-antigas/1991-02.md |
-| 1991-05-29 | — | cvm-dec-1991-0179 | fichas/decisoes-antigas/1991-02.md |
-| 1991-05-29 | — | cvm-dec-1991-0180 | fichas/decisoes-antigas/1991-02.md |
-| 1991-05-29 | — | cvm-dec-1991-0181 | fichas/decisoes-antigas/1991-02.md |
-| 1991-05-10 | — | cvm-dec-1991-0182 | fichas/decisoes-antigas/1991-02.md |
-| 1991-05-08 | — | cvm-dec-1991-0183 | fichas/decisoes-antigas/1991-02.md |
-| 1991-05-08 | — | cvm-dec-1991-0184 | fichas/decisoes-antigas/1991-02.md |
-| 1991-05-02 | — | cvm-dec-1991-0185 | fichas/decisoes-antigas/1991-02.md |
-| 1991-05-02 | — | cvm-dec-1991-0186 | fichas/decisoes-antigas/1991-02.md |
-| 1991-04-25 | — | cvm-dec-1991-0187 | fichas/decisoes-antigas/1991-02.md |
-| 1991-04-25 | — | cvm-dec-1991-0188 | fichas/decisoes-antigas/1991-02.md |
-| 1991-04-25 | — | cvm-dec-1991-0189 | fichas/decisoes-antigas/1991-02.md |
-| 1991-04-25 | — | cvm-dec-1991-0190 | fichas/decisoes-antigas/1991-02.md |
-| 1991-04-25 | — | cvm-dec-1991-0191 | fichas/decisoes-antigas/1991-02.md |
-| 1991-04-25 | — | cvm-dec-1991-0192 | fichas/decisoes-antigas/1991-02.md |
-| 1991-04-18 | — | cvm-dec-1991-0193 | fichas/decisoes-antigas/1991-02.md |
-| 1991-04-17 | — | cvm-dec-1991-0194 | fichas/decisoes-antigas/1991-01.md |
-| 1991-04-16 | — | cvm-dec-1991-0195 | fichas/decisoes-antigas/1991-01.md |
-| 1991-04-10 | — | cvm-dec-1991-0196 | fichas/decisoes-antigas/1991-01.md |
-| 1991-04-02 | — | cvm-dec-1991-0197 | fichas/decisoes-antigas/1991-01.md |
-| 1991-03-27 | — | cvm-dec-1991-0198 | fichas/decisoes-antigas/1991-01.md |
-| 1991-03-26 | — | cvm-dec-1991-0199 | fichas/decisoes-antigas/1991-01.md |
-| 1991-03-20 | — | cvm-dec-1991-0200 | fichas/decisoes-antigas/1991-01.md |
-| 1991-03-20 | — | cvm-dec-1991-0201 | fichas/decisoes-antigas/1991-01.md |
-| 1991-03-05 | — | cvm-dec-1991-0202 | fichas/decisoes-antigas/1991-01.md |
-| 1991-02-26 | — | cvm-dec-1991-0203 | fichas/decisoes-antigas/1991-01.md |
-| 1991-02-05 | — | cvm-dec-1991-0204 | fichas/decisoes-antigas/1991-01.md |
-| 1991-02-05 | — | cvm-dec-1991-0205 | fichas/decisoes-antigas/1991-01.md |
-| 1991-01-22 | — | cvm-dec-1991-0206 | fichas/decisoes-antigas/1991-01.md |
-| 1991-01-22 | — | cvm-dec-1991-0207 | fichas/decisoes-antigas/1991-01.md |
-| 1991-01-16 | — | cvm-dec-1991-0208 | fichas/decisoes-antigas/1991-01.md |
-| 1991-01-15 | — | cvm-dec-1991-0209 | fichas/decisoes-antigas/1991-01.md |
-| 1991-01-15 | — | cvm-dec-1991-0210 | fichas/decisoes-antigas/1991-01.md |
-| 1991-01-15 | — | cvm-dec-1991-0211 | fichas/decisoes-antigas/1991-01.md |
-| 1991-01-15 | — | cvm-dec-1991-0212 | fichas/decisoes-antigas/1991-01.md |
-| 1991-01-15 | — | cvm-dec-1991-0213 | fichas/decisoes-antigas/1991-01.md |
-| 1991-01-08 | — | cvm-dec-1991-0214 | fichas/decisoes-antigas/1991-01.md |
-| 1991-01-08 | — | cvm-dec-1991-0215 | fichas/decisoes-antigas/1991-01.md |
-| 1991-01-08 | — | cvm-dec-1991-0216 | fichas/decisoes-antigas/1991-01.md |
-| 1991-01-08 | — | cvm-dec-1991-0217 | fichas/decisoes-antigas/1991-01.md |
-| 1991-01-08 | — | cvm-dec-1991-0218 | fichas/decisoes-antigas/1991-01.md |
-| 1991-01-04 | — | cvm-dec-1991-0219 | fichas/decisoes-antigas/1991-01.md |
-| 1991-01-04 | — | cvm-dec-1991-0220 | fichas/decisoes-antigas/1991-01.md |
-| 1991-01-04 | — | cvm-dec-1991-0221 | fichas/decisoes-antigas/1991-01.md |
-| 1991-01-04 | — | cvm-dec-1991-0222 | fichas/decisoes-antigas/1991-01.md |
+| Data da ata | Processo | Título | Id | Ficha |
+|---|---|---|---|---|
+| 1991-12-23 | — | PARTICIPANTES: | cvm-dec-1991-0001 | fichas/decisoes-antigas/1991-08.md |
+| 1991-12-23 | — | PEDIDO DE RECONSIDERAÇÃO DE DECISÃO DO JULGAMENTO DO INQUÉRITO ADMINISTRATIVO CVM Nº 03/90 | cvm-dec-1991-0002 | fichas/decisoes-antigas/1991-08.md |
+| 1991-12-23 | — | ALTERAÇÃO DA INSTRUÇÃO CVM Nº 035/84 | cvm-dec-1991-0003 | fichas/decisoes-antigas/1991-08.md |
+| 1991-12-23 | — | DELIBERAÇÃO SOBRE ALIENAÇÃO, POR PARTE DAS ENTIDADES FECHADAS DE PREVIDÊNCIA PRIVADA, SOCIEDADES SEGURADORAS E DE CAPITALIZAÇÃO, DE AÇÕES E… | cvm-dec-1991-0004 | fichas/decisoes-antigas/1991-08.md |
+| 1991-12-23 | — | CASA ANGLO BRASILEIRA S.A. – RECURSO CONTRA DETERMINAÇÃO DA SEP – ITR 3º TRIMESTRE | cvm-dec-1991-0005 | fichas/decisoes-antigas/1991-08.md |
+| 1991-12-23 | — | AUMENTO DE CAPITAL DE ELETROBRÁS – TRATAMENTO EXCEPCIONAL | cvm-dec-1991-0006 | fichas/decisoes-antigas/1991-08.md |
+| 1991-12-23 | — | CONSULTA DA ABRASCA SOBRE PRAZO PARA ADAPTAÇÃO DOS ESTATUTOS DAS S.A. PREVISTO NA LEI Nº 8.021/90, QUE DETERMINA A EMISSÃO DE TÍTULOS… | cvm-dec-1991-0007 | fichas/decisoes-antigas/1991-08.md |
+| 1991-12-17 | — | INSTRUÇÃO – CRITÉRIOS PARA REGISTRO DA CORREÇÃO MONETÁRIA PREVISTA NA LEI 8.200/91 E NO 332/91. | cvm-dec-1991-0008 | fichas/decisoes-antigas/1991-07.md |
+| 1991-12-17 | — | PLEITO DO BANCO BOZANO, SIMONSEN S.A. – REGISTRO ANEXO IV – [pessoa física] | cvm-dec-1991-0009 | fichas/decisoes-antigas/1991-07.md |
+| 1991-12-17 | — | PLEITO DA J.P. MORGAN DTVM S.A. – REGISTRO ANEXO IV – CONTA COLETIVA, J.P. MORGAN SECURITIES LIMITED | cvm-dec-1991-0010 | fichas/decisoes-antigas/1991-07.md |
+| 1991-12-17 | — | PLEITO DO J.P. MORGAN DTVM S.A. – REGISTRO ANEXO IV – J.P. MORGAN SECURITIES LIMITED – IN 160 – ART. 1º, | cvm-dec-1991-0011 | fichas/decisoes-antigas/1991-08.md |
+| 1991-12-17 | — | CONTA COLETIVA [pessoa física] BANK N.A., INCLUSÃO DO INVESTIDOR ESTRANGEIRO TEMPLETON EMERGING MARKETS INVESTMENT TRUST PLC. | cvm-dec-1991-0012 | fichas/decisoes-antigas/1991-08.md |
+| 1991-12-17 | — | CONTA COLETIVA [pessoa física], INCLUSÃO INVESTIDOR ESTRANGEIRO MORGAN STANLEY EMERGING MARKETS FUND, INC. | cvm-dec-1991-0013 | fichas/decisoes-antigas/1991-08.md |
+| 1991-12-17 | — | CONTA COLETIVA BROWN BROTHERS HARRIMON & CO., INCLUSÃO DOS INVESTIDORES ESTRANGEIROS PAINEWEBBER GROWTH AND INCOME FUND E PAINEWEBBER ATLAS… | cvm-dec-1991-0014 | fichas/decisoes-antigas/1991-08.md |
+| 1991-12-17 | — | CONTA COLETIVA BROWN BROTHERS HARRIMAN & CO., INCLUSÃO DE 10 INVESTIDORES ESTRANGEIROS | cvm-dec-1991-0015 | fichas/decisoes-antigas/1991-08.md |
+| 1991-12-11 | — | INCLUSÃO DO INVESTIDOR "GT EMERGING MARKETS FUND" NA CONTA COLETIVA "[pessoa física] BANK N.A."DOC./CGP/EXE/Nº 254/91 | cvm-dec-1991-0016 | fichas/decisoes-antigas/1991-07.md |
+| 1991-12-11 | — | MINUTA DE INSTRUÇÃO QUE DISPÕE SOBRE A EXECUÇÃO DE PEQUENAS ORDENS DE COMPRA E VENDA DE VALORES MOBILIÁRIOS E REVOGA A INSTRUÇÃO CVM Nº 84… | cvm-dec-1991-0017 | fichas/decisoes-antigas/1991-07.md |
+| 1991-12-11 | — | MINUTA DE DELIBERAÇÃO QUE DISPÕE SOBRE A CORREÇÃO MONETÁRIA DAS INFORMAÇÕES TRIMESTRAIS | cvm-dec-1991-0018 | fichas/decisoes-antigas/1991-07.md |
+| 1991-12-11 | — | MINUTA DE INSTRUÇÃO PARA CARTEIRA SELECIONADA DE AÇÕES | cvm-dec-1991-0019 | fichas/decisoes-antigas/1991-07.md |
+| 1991-12-11 | — | VOTO MÚLTIPLO – PROPOSTA DE ALTERAÇÃO DA INSTRUÇÃO CVM Nº 164/91 | cvm-dec-1991-0020 | fichas/decisoes-antigas/1991-07.md |
+| 1991-12-11 | — | TAXA DE FISCALIZAÇÃO – EMISSÃO DE NOTA PROMISSÓRIA | cvm-dec-1991-0021 | fichas/decisoes-antigas/1991-07.md |
+| 1991-12-05 | — | INCLUSÃO NA CONTA COLETIVA "BARING INTERNATIONAL INVESTMENT MANAGEMENT LIMITED" DO INVESTIDOR "THE BARING CHRYSALIS FUND LIMITED" | cvm-dec-1991-0022 | fichas/decisoes-antigas/1991-07.md |
+| 1991-12-05 | — | INCLUSÃO NA CONTA COLETIVA "LATIN AMERICAN SECURITIES LTD" DO INVESTIDOR "LAING & CRUICKSHANK INVESTMENT MANAGEMENT LIMITED" | cvm-dec-1991-0023 | fichas/decisoes-antigas/1991-07.md |
+| 1991-12-05 | — | INCLUSÃO NA CONTA COLETIVA "BROWN BROTHERS, HARRIMAN & CO.", DE 10 INVESTIDORES ESTRANGEIROS | cvm-dec-1991-0024 | fichas/decisoes-antigas/1991-07.md |
+| 1991-12-05 | — | INCLUSÃO NA CONTA COLETIVA "THE [pessoa física] BANK N.A.", DOS INVESTIDORES NEW WORLD INVESTMENT FUND; EMERGING MARKETS GROWTH FUND, INC… | cvm-dec-1991-0025 | fichas/decisoes-antigas/1991-07.md |
+| 1991-12-05 | — | PLEITO ADMINISTRAÇÃO CARTEIRA VALS. MOBILS. CONTA COLETIVA – ANEXO IV – BEAR, STEARNS & CO. INC. E INCLUSÃO DE 05 INVESTIDORES ESTRANGEIROS | cvm-dec-1991-0026 | fichas/decisoes-antigas/1991-07.md |
+| 1991-12-05 | — | PEDIDO DE RECONSIDERAÇÃO INTERPOSTO POR MIL CCV S.A. | cvm-dec-1991-0027 | fichas/decisoes-antigas/1991-07.md |
+| 1991-12-05 | — | [pessoa física] – REGISTRO – ANEXO IV | cvm-dec-1991-0028 | fichas/decisoes-antigas/1991-07.md |
+| 1991-12-02 | — | RECURSO CONTRA DECISÃO DA SEP – REALIZAÇÃO DE LEILÃO COM AÇÕES DA METAL LEVE S/A | cvm-dec-1991-0029 | fichas/decisoes-antigas/1991-07.md |
+| 1991-11-28 | — | MINUTA DE INSTRUÇÃO SOBRE O CANCELAMENTO DO REGISTRO DE QUE TRATA O ARTIGO 21 DA LEI Nº 6.385/76 | cvm-dec-1991-0030 | fichas/decisoes-antigas/1991-07.md |
+| 1991-11-28 | — | CANCELAMENTO DE REGISTRO – DE ANTONI S.A. MÁQUINAS E IMPLEMENTO AGRÍCOLA | cvm-dec-1991-0031 | fichas/decisoes-antigas/1991-07.md |
+| 1991-11-28 | — | PLEITO DE TOZZINI, FREIRE, TEIXEIRA E SILVA – CONSULTATIO BURSATIL S.A. | cvm-dec-1991-0032 | fichas/decisoes-antigas/1991-07.md |
+| 1991-11-28 | — | INCLUSÃO DE INVESTIDORES CONTA COLETIVA THE [pessoa física] BANK N.A. – MERRILL LYNCH DEVELOPING CAPITAL MARKETS FUND E MERRIL [pessoa… | cvm-dec-1991-0033 | fichas/decisoes-antigas/1991-07.md |
+| 1991-11-28 | — | COMUNICADO-CONJUNTO CVM/SNPSC PERMITINDO QUE AS ENTIDADES FECHADAS DE PREVIDÊNCIA PRIVADA POSSAM REALIZAR OPERAÇÕES DE "TRAVA" EM MERCADOS… | cvm-dec-1991-0034 | fichas/decisoes-antigas/1991-07.md |
+| 1991-11-21 | — | PLEITO DE TOZZINI, FREIRE, TEIXEIRA E SILVA – THE [pessoa física] EQUITY FUND, INC. | cvm-dec-1991-0035 | fichas/decisoes-antigas/1991-07.md |
+| 1991-11-21 | — | PLEITO TENDÊNCIA CCTVM LTDA. – PICTET & CIE. | cvm-dec-1991-0036 | fichas/decisoes-antigas/1991-07.md |
+| 1991-11-21 | — | INCLUSÃO INVESTIDOR EM CONTA COLETIVA – GOVERNMENT OF SINGAPORE INVESTMENT CORPORATION PTE. LTD. – BANCO [pessoa física] S.A. | cvm-dec-1991-0037 | fichas/decisoes-antigas/1991-07.md |
+| 1991-11-21 | — | INCLUSÃO INVESTIDOR EM CONTA COLETIVA – TEMPLETON EMERGING MARKETS FUND, INC. – BANCO CHASE | cvm-dec-1991-0038 | fichas/decisoes-antigas/1991-07.md |
+| 1991-11-21 | — | FUNDO FATOR DE INVESTIMENTO – CAPITAL ESTRANGEIRO – ENQUADRAMENTO NA RESOLUÇÃO CMN 1.877/91 | cvm-dec-1991-0039 | fichas/decisoes-antigas/1991-07.md |
+| 1991-11-21 | — | INCLUSÃO DE INVESTIDOR EM CONTA COLETIVA – DEVELOPING GROWTH STOCK FUND – [pessoa física] | cvm-dec-1991-0040 | fichas/decisoes-antigas/1991-07.md |
+| 1991-11-21 | — | SOLICITAÇÃO DE REGISTRO DA COMPANHIA BMU E PARTICIPAÇÕES | cvm-dec-1991-0041 | fichas/decisoes-antigas/1991-07.md |
+| 1991-11-13 | — | PLEITO BANCO ICATU S.A. – [pessoa física] | cvm-dec-1991-0042 | fichas/decisoes-antigas/1991-06.md |
+| 1991-11-13 | — | PLEITO TOZZINI, FREIRE, TEIXEIRA E SILVA – BARING INTERNATIONAL INVESTMENT MANAGEMENT LIMITED | cvm-dec-1991-0043 | fichas/decisoes-antigas/1991-07.md |
+| 1991-11-13 | — | CONSULTA ANEXO IV – PATRIMÔNIO PLANEJAMENTO FINANCEIRO LTDA - [pessoa física] | cvm-dec-1991-0044 | fichas/decisoes-antigas/1991-07.md |
+| 1991-11-13 | — | PLEITO BANCO PACTUAL S.A. – ENQUADRAMENTO QUANTUM BRASIL FUNDO DE INVESTIMENTO – CAPITAL ESTRANGEIRO E INFINITY FUNDO DE INVESTIMENTO… | cvm-dec-1991-0045 | fichas/decisoes-antigas/1991-07.md |
+| 1991-11-05 | — | PLEITO TOZZINI, FREIRE, TEIXEIRA E SILVA – MORLEY INVESTMENT LIMITED | cvm-dec-1991-0046 | fichas/decisoes-antigas/1991-06.md |
+| 1991-11-05 | — | PLEITO TOZZINI, FREIRE, TEIXEIRA E SILVA – THE LATIN AMERICAN CAPITAL FUND | cvm-dec-1991-0047 | fichas/decisoes-antigas/1991-06.md |
+| 1991-11-05 | — | PLEITO BFB CCVM S.A. – D.A. CAMPBELL COMPANY, INC. | cvm-dec-1991-0048 | fichas/decisoes-antigas/1991-06.md |
+| 1991-10-31 | — | MINUTA DE INSTRUÇÃO – ALTERAÇÃO ITEM XV DA INSTRUÇÃO CVM Nº 135 (RITO SUMÁRIO) | cvm-dec-1991-0049 | fichas/decisoes-antigas/1991-06.md |
+| 1991-10-31 | — | MINUTA DE INSTRUÇÃO SOBRE VOTO MÚLTIPLO | cvm-dec-1991-0050 | fichas/decisoes-antigas/1991-06.md |
+| 1991-10-31 | — | AUTORIZAÇÃO PARA PRESTAR SERVIÇOS DE CUSTÓDIA DE VALORES MOBILIÁRIOS – BB DTVM | cvm-dec-1991-0051 | fichas/decisoes-antigas/1991-06.md |
+| 1991-10-31 | — | CREDENCIAMENTO DE CUSTÓDIA (INFUNGÍVEL) DE VALORES MOBILIÁRIOS – BANCO MERCANTIL DE SÃO PAULO | cvm-dec-1991-0052 | fichas/decisoes-antigas/1991-06.md |
+| 1991-10-31 | — | PEDIDO DE DISPENSA – [pessoa física] | cvm-dec-1991-0053 | fichas/decisoes-antigas/1991-06.md |
+| 1991-10-31 | — | UNIFORMIZAÇÃO PROCEDIMENTO CANCELAMENTO DE REGISTRO | cvm-dec-1991-0054 | fichas/decisoes-antigas/1991-06.md |
+| 1991-10-31 | — | PLEITO DE CELTEC S.A. CCVM – DELTEC SECURITIES CORPORATION | cvm-dec-1991-0055 | fichas/decisoes-antigas/1991-06.md |
+| 1991-10-31 | — | PLEITO BANCO ITAÚ S.A. – [pessoa física] | cvm-dec-1991-0056 | fichas/decisoes-antigas/1991-06.md |
+| 1991-10-31 | — | PLEITO BANCO ITAÚ S.A. – CONTA COLETIVA – [pessoa física] | cvm-dec-1991-0057 | fichas/decisoes-antigas/1991-06.md |
+| 1991-10-31 | — | NORTHERN TRUST COMPANY | cvm-dec-1991-0058 | fichas/decisoes-antigas/1991-06.md |
+| 1991-10-31 | — | CONSULTAS ANEXO IV | cvm-dec-1991-0059 | fichas/decisoes-antigas/1991-06.md |
+| 1991-10-31 | — | CONSULTA – ANEXO IV – CITIBANK | cvm-dec-1991-0060 | fichas/decisoes-antigas/1991-06.md |
+| 1991-10-31 | — | PLEITO CITIBANK DTVM – CONTA COLETIVA – CITICORP SCRIMGEOUR VICKERS INTERNATIONAL LIMITED | cvm-dec-1991-0061 | fichas/decisoes-antigas/1991-06.md |
+| 1991-10-31 | 88/2946 | RECURSO DA CHAVES CORRETORA DE VALORES S.A. CONTRA DECISÃO DA SMI EM RECLAMAÇÃO DO BRADESCO CONTRA O FUNDO DE GARANTIA DA BVSP - PROC. CVM… | cvm-dec-1991-0062 | fichas/decisoes-antigas/1991-06.md |
+| 1991-10-31 | — | PLEITO DA CIA. AMÉRICA FABRIL EM LIQUIDAÇÃO – TAXA DE FISCALIZAÇÃO | cvm-dec-1991-0063 | fichas/decisoes-antigas/1991-06.md |
+| 1991-10-31 | — | DE FISCALIZAÇÃO | cvm-dec-1991-0064 | fichas/decisoes-antigas/1991-06.md |
+| 1991-10-23 | — | CANCELAMENTO DE REGISTRO – [pessoa física] | cvm-dec-1991-0065 | fichas/decisoes-antigas/1991-05.md |
+| 1991-10-23 | — | DELIBERAÇÃO SOBRE LIMITES VINCULADOS AO VOLUME DE EXPORTAÇÕES DAS CIAS. EMISSORAS DE DEBÊNTURES COM CLÁUSULA DE VARIAÇÃO CAMBIAL | cvm-dec-1991-0066 | fichas/decisoes-antigas/1991-05.md |
+| 1991-10-23 | — | PLEITO [pessoa física] – CONTA COLETIVA | cvm-dec-1991-0067 | fichas/decisoes-antigas/1991-05.md |
+| 1991-10-23 | — | RECURSO DECISÃO SEP – PRORROGAÇÃO REMESSA DE INFORMAÇÕES TRIMESTRAIS (ITR) – LOJAS HERING S.A. | cvm-dec-1991-0068 | fichas/decisoes-antigas/1991-05.md |
+| 1991-10-23 | — | CONSULTA BANCO MULTIPLIC S.A. – DEBÊNTURES – INDEXAÇÃO E PRÊMIO PELA VARIAÇÃO DO BTN CAMBIAL | cvm-dec-1991-0069 | fichas/decisoes-antigas/1991-05.md |
+| 1991-10-23 | — | LANÇAMENTO AÇÕES DE [pessoa física] NO PATRIMÔNIO DO FUNDO DE GARANTIA DA BVSP SENDO CREDORA QUIROGRAFÁRIA DA EMBRACOR S.A. CCVM – EM… | cvm-dec-1991-0070 | fichas/decisoes-antigas/1991-05.md |
+| 1991-10-23 | — | PARTICIPANTES: | cvm-dec-1991-0071 | fichas/decisoes-antigas/1991-05.md |
+| 1991-10-23 | — | RECLAMAÇÃO DE [pessoa física] AO FUNDO DE GARANTIA DA BVRJ CONTRA VETOR CVM S.A. | cvm-dec-1991-0072 | fichas/decisoes-antigas/1991-05.md |
+| 1991-10-23 | — | RECURSO CONTRA DECISÃO SEP – PANEX S.A. INDÚSTRIA E COMÉRCIO | cvm-dec-1991-0073 | fichas/decisoes-antigas/1991-05.md |
+| 1991-10-23 | — | RECURSO CONTRA DECISÃO SEP – PERDIGÃO AGROINDUSTRIAL S.A. | cvm-dec-1991-0074 | fichas/decisoes-antigas/1991-05.md |
+| 1991-10-23 | — | REPUBLICAÇÃO DEMONSTRAÇÃO FINANCEIRA – CHAPECÓ AVÍCOLA S.A., [pessoa física]. E COM. CHAPECÓ, ALBARUS S.A., BORLEM S.A. EMPREENDIMENTOS… | cvm-dec-1991-0075 | fichas/decisoes-antigas/1991-05.md |
+| 1991-10-23 | — | CARTA CONSULTA UNIBANCO – ANEXO IV | cvm-dec-1991-0076 | fichas/decisoes-antigas/1991-05.md |
+| 1991-10-23 | — | PROPOSTA DE ALTERAÇÃO NO CONTRATO DE ADMINISTRAÇÃO ENTRE [pessoa física] E O BRADESCO | cvm-dec-1991-0077 | fichas/decisoes-antigas/1991-05.md |
+| 1991-10-23 | — | PLEITO TOZZINI, FREIRE, TEIXEIRA E SILVA (G.T. [pessoa física] FUND) | cvm-dec-1991-0078 | fichas/decisoes-antigas/1991-05.md |
+| 1991-10-23 | — | PLEITO BANCO HKB S.A. – CONTA COLETIVA – ([pessoa física] INC.) | cvm-dec-1991-0079 | fichas/decisoes-antigas/1991-05.md |
+| 1991-10-23 | — | APROVADO "AD REFEREDUM" | cvm-dec-1991-0080 | fichas/decisoes-antigas/1991-05.md |
+| 1991-10-23 | — | PLEITO SODRIL S.A. CTV – CONTA COLETIVA – (BROWN BROTHERS HARRIMAN & CO.) | cvm-dec-1991-0081 | fichas/decisoes-antigas/1991-06.md |
+| 1991-10-23 | — | APROVADO "AD REFEREDUM" | cvm-dec-1991-0082 | fichas/decisoes-antigas/1991-06.md |
+| 1991-10-23 | — | DISPENSA DE REPUBLICAÇÃO DE DEMONSTRAÇÕES FINANCEIRAS – VARIG S/A E CRUZEIRO DO SUL S/A | cvm-dec-1991-0083 | fichas/decisoes-antigas/1991-06.md |
+| 1991-10-23 | — | PEDIDO DE RECONSIDERAÇÃO DE DECISÃO DO COLEGIADO – [pessoa física] – RECLAMAÇÃO AO FUNDO DE GARANTIA DA BVRJ CONTRA A UNIBANCO CORRETORA | cvm-dec-1991-0084 | fichas/decisoes-antigas/1991-06.md |
+| 1991-10-23 | — | RECLAMAÇÃO DE [pessoa física] AO FUNDO DE GARANTIA DA BOVESPA CONTRA A GRIFFO CORRETORA DE VALORES – RECURSO DA BVSP CONTRA DECISÃO DO SMI | cvm-dec-1991-0085 | fichas/decisoes-antigas/1991-06.md |
+| 1991-10-23 | — | RECLAMAÇÃO DE [pessoa física] AO FUNDO DE GARANTIA DA BVRJ CONTRA MIL CORRETORA DE CÂMBIO E VALORES S/A | cvm-dec-1991-0086 | fichas/decisoes-antigas/1991-06.md |
+| 1991-10-23 | — | CONSULTA DO BANCO OMEGA S/A – CONSTITUIÇÃO DE CLUBE DE INVESTIMENTO PELA CAIXA DOS EMPREGADOS | cvm-dec-1991-0087 | fichas/decisoes-antigas/1991-06.md |
+| 1991-10-23 | — | DEVOLUÇÃO DA TAXA DE FISCALIZAÇÃO – TUPY METAL MECÂNICA S.A E TUPY S.A. | cvm-dec-1991-0088 | fichas/decisoes-antigas/1991-06.md |
+| 1991-09-25 | — | DISTRIBUIÇÃO DE AÇÕES DO FUNDO BRASIL | cvm-dec-1991-0089 | fichas/decisoes-antigas/1991-04.md |
+| 1991-09-25 | — | CONTA COLETIVA – PLEITO CITIBANK DTVM S.A. (BARING SECURITIES INC.) | cvm-dec-1991-0090 | fichas/decisoes-antigas/1991-04.md |
+| 1991-09-25 | — | PLEITO CITIBANK DTVM S.A. (THE LIBRA 2000 INTERNATIONAL FUND LIMITED) | cvm-dec-1991-0091 | fichas/decisoes-antigas/1991-04.md |
+| 1991-09-25 | — | CONTA COLETIVA – PLEITO BANCO BOZANO, SIMONSEN S.A. (SCHROEDER CAPITAL MANAGEMENT INTERNATIONAL | cvm-dec-1991-0092 | fichas/decisoes-antigas/1991-04.md |
+| 1991-09-25 | — | PLEITO TOZZINI, FREIRE, TEIXEIRA E SILVA (LATIN AMERICAN SECURITIES LIMITED) | cvm-dec-1991-0093 | fichas/decisoes-antigas/1991-04.md |
+| 1991-09-25 | — | PLEITO TOZZINI, FREIRE, TEIXEIRA E SILVA (WORLDWIDE GROWTH FUND) | cvm-dec-1991-0094 | fichas/decisoes-antigas/1991-05.md |
+| 1991-09-25 | — | PLEITO TOZZINI, FREIRE, TEIXEIRA E SILVA (G.T. INTERNATIONAL GROWTH FUND) | cvm-dec-1991-0095 | fichas/decisoes-antigas/1991-05.md |
+| 1991-09-25 | — | PLEITO TOZZINI, FREIRE, TEIXEIRA E SILVA (G.T. [pessoa física] GROWTH FUND) | cvm-dec-1991-0096 | fichas/decisoes-antigas/1991-05.md |
+| 1991-09-25 | — | PLEITO BCN BARCLAYS BANCO DE INVESTIMENTO S.A. (BZW SECURITIES LIMITED) | cvm-dec-1991-0097 | fichas/decisoes-antigas/1991-05.md |
+| 1991-09-25 | — | CONSULTA CITIBANK – BARING SECURITIES, INC. | cvm-dec-1991-0098 | fichas/decisoes-antigas/1991-05.md |
+| 1991-09-25 | — | CONSULTA JP MORGAN – ANEXO IV E PRIVATIZAÇÃO | cvm-dec-1991-0099 | fichas/decisoes-antigas/1991-05.md |
+| 1991-09-25 | — | CONSULTA [pessoa física] | cvm-dec-1991-0100 | fichas/decisoes-antigas/1991-05.md |
+| 1991-09-25 | — | CONSULTA BOZANO, SIMONSEN S.A. | cvm-dec-1991-0101 | fichas/decisoes-antigas/1991-05.md |
+| 1991-09-25 | — | CONSULTA TOZZINI, FREIRE, TEIXEIRA E SILVA – BRAZILIAN HOLDINGS FUNDO DE INVESTIMENTO ESTRANGEIRO | cvm-dec-1991-0102 | fichas/decisoes-antigas/1991-05.md |
+| 1991-09-25 | — | CONSULTAS SORE ANEXO IV DA RESOLUÇÃO Nº 1289 | cvm-dec-1991-0103 | fichas/decisoes-antigas/1991-05.md |
+| 1991-09-17 | — | PLEITO BANCO PACTUAL S.A. (TCW AMERICAS DEVELOPMENT ASSOCIATION, L.P.) | cvm-dec-1991-0104 | fichas/decisoes-antigas/1991-04.md |
+| 1991-09-17 | — | PLEITO BANCO DE INVESTIMENTO GARANTIA S.A. (THE SOUTH AMERICA FUND N.V.) | cvm-dec-1991-0105 | fichas/decisoes-antigas/1991-04.md |
+| 1991-09-17 | — | PLEITO TOZZINI, FREIRE, TEIXEIRA E SILVA (THE FLEMING EMERGING MARKETS INVESTMENT TRUST PLC) | cvm-dec-1991-0106 | fichas/decisoes-antigas/1991-04.md |
+| 1991-09-17 | — | PLEITO SODRIL S.A. CTV (ARNHOLD AND S. BLEICHROEDER, INC.) | cvm-dec-1991-0107 | fichas/decisoes-antigas/1991-04.md |
+| 1991-09-17 | — | PLEITO BANCO PACTUAL S.A. (QUASAR PARTNERS C.V.) | cvm-dec-1991-0108 | fichas/decisoes-antigas/1991-04.md |
+| 1991-09-17 | — | PLEITO TOZZINI, FREIRE, TEIXEIRA E SILVA (GENESIS ASSET MANAGERS LIMITED) | cvm-dec-1991-0109 | fichas/decisoes-antigas/1991-04.md |
+| 1991-09-17 | — | PLEITO TOZZINI, FREIRE, TEIXEIRA E SILVA (GENESIS EMERGING MARKETS FUND LIMITED) | cvm-dec-1991-0110 | fichas/decisoes-antigas/1991-04.md |
+| 1991-09-17 | — | PLEITO TOZZINI, FREIRE, TEIXEIRA E SILVA (GENESIS CONDOR FUND LIMITED) | cvm-dec-1991-0111 | fichas/decisoes-antigas/1991-04.md |
+| 1991-09-17 | — | PLEITO BANCO ICATU S.A. (LAZARD FRERES & CO.) | cvm-dec-1991-0112 | fichas/decisoes-antigas/1991-04.md |
+| 1991-09-17 | — | PLEITO CITIBANK DTVM (MORGAN STANLEY & CO., INCORPORATED) | cvm-dec-1991-0113 | fichas/decisoes-antigas/1991-04.md |
+| 1991-09-17 | — | PLEITO [pessoa física] – ADVOGADOS (THE BARING PUMA FUND LIMITED) | cvm-dec-1991-0114 | fichas/decisoes-antigas/1991-04.md |
+| 1991-09-17 | — | DELIBERAÇÃO SUSPENDENDO NEGOCIAÇÕES POR PARTE DE PRESTCONTROL – PRESTAÇÕES DE SERVIÇOS S/C | cvm-dec-1991-0115 | fichas/decisoes-antigas/1991-04.md |
+| 1991-09-17 | — | PLEITO DA ANDIMA – RECONHECIMENTO DO SISTEMA "PRIVATIZAR" COMO MERCADO DE BALCÃO PARA EFEITOS DE PRIVATIZAÇÃO | cvm-dec-1991-0116 | fichas/decisoes-antigas/1991-04.md |
+| 1991-08-29 | — | PLEITO BANCO DE INVESTIMENTO GARANTIA S.A. (THE SOUTH AMERICA FUND N.V.) | cvm-dec-1991-0117 | fichas/decisoes-antigas/1991-04.md |
+| 1991-08-29 | — | PLEITO [pessoa física] – [pessoa física] | cvm-dec-1991-0118 | fichas/decisoes-antigas/1991-04.md |
+| 1991-08-29 | — | PLEITO FATOR S.A. (PACIFIC OVERSEAS INTERNATIONAL BANK LTD) | cvm-dec-1991-0119 | fichas/decisoes-antigas/1991-04.md |
+| 1991-08-29 | — | PLEITO TOZZINI, FREIRE, TEIXEIRA E SILVA (STEPHEN ROSE AND PARTNERS LIMITED) | cvm-dec-1991-0120 | fichas/decisoes-antigas/1991-04.md |
+| 1991-08-29 | — | PLEITO CITIBANK N.A/LIBRA 2000 FUND LIMITED – AUTORIZAÇÃO DIFERENCIADA | cvm-dec-1991-0121 | fichas/decisoes-antigas/1991-04.md |
+| 1991-08-29 | — | LIBERAÇÃO TOTAL DAS OBRIGAÇÕES QUE A EMPRESA TEM PARA COM A CVM – FERTIPLAN/FERTIBASE | cvm-dec-1991-0122 | fichas/decisoes-antigas/1991-04.md |
+| 1991-08-29 | — | ATUALIZAÇÃO TABELA DE CORRETAGEM – REFORMULAÇÃO DA INSTRUÇÃO CVM 102 | cvm-dec-1991-0123 | fichas/decisoes-antigas/1991-04.md |
+| 1991-08-29 | — | CLUBE DE INVESTIMENTOS – PLEITO UNAMIBB – UNIÃO DOS ACIONISTAS MINORITÁRIOS DO BANCO DO BRASIL | cvm-dec-1991-0124 | fichas/decisoes-antigas/1991-04.md |
+| 1991-08-29 | — | CONVÊNIO CVM/IBMEC | cvm-dec-1991-0125 | fichas/decisoes-antigas/1991-04.md |
+| 1991-08-21 | — | MINUTA DE INSTRUÇÃO SOBRE LIQUIDAÇÃO FÍSICA E FINANCEIRA DAS OPERAÇÕES REALIZADAS EM BOLSAS DE | cvm-dec-1991-0126 | fichas/decisoes-antigas/1991-03.md |
+| 1991-08-21 | — | MINUTA DE DELIBERAÇÃO SOBRE INFORMAÇÕES TRIMESTRAIS DAS INSTITUIÇÕES AUTORIZADAS A FUNCIONAR PELO BANCO CENTRAL DO BRASIL | cvm-dec-1991-0127 | fichas/decisoes-antigas/1991-03.md |
+| 1991-08-21 | — | PLEITO [pessoa física] – [pessoa física] | cvm-dec-1991-0128 | fichas/decisoes-antigas/1991-03.md |
+| 1991-08-21 | — | PLEITO THE BRAZIL EQUITIES FUND, LTD. (BANCO STOCK S.A.) | cvm-dec-1991-0129 | fichas/decisoes-antigas/1991-03.md |
+| 1991-08-21 | — | PLEITO SODRIL S.A. CTV ([pessoa física]) | cvm-dec-1991-0130 | fichas/decisoes-antigas/1991-03.md |
+| 1991-08-21 | — | PLEITO SODRIL S.A. CTV (ARNHOLD AND S. BLEICHROEDER, INC.) | cvm-dec-1991-0131 | fichas/decisoes-antigas/1991-03.md |
+| 1991-08-21 | — | MINUTA DE ESCLARECIMENTO DA RESOLUÇÃO CMN 1832 E "[pessoa física]" | cvm-dec-1991-0132 | fichas/decisoes-antigas/1991-03.md |
+| 1991-08-21 | — | MINUTA DE RESOLUÇÃO DE ALTERAÇÃO DA RESOLUÇÃO CMN 1.289 | cvm-dec-1991-0133 | fichas/decisoes-antigas/1991-03.md |
+| 1991-08-21 | — | PLEITO DO BANCO PACTUAL S/A – CARTEIRA DE INVESTIDOR INSTITUCIONAL ESTRANGEIRO – TCW AMERICAS DEVELOPMENT ASSOCIATION, L.P. | cvm-dec-1991-0134 | fichas/decisoes-antigas/1991-03.md |
+| 1991-08-21 | — | INSTRUÇÃO – FUNDOS MÚTUOS DE PRIVATIZAÇÃO INTEGRALIZADOS COM CRÉDITOS E TÍTULOS REPRESENTATIVOS DA DÍVIDA EXTERNA BRASILEIRA, ADMITIDOS NO… | cvm-dec-1991-0135 | fichas/decisoes-antigas/1991-04.md |
+| 1991-08-21 | — | INSTRUÇÃO ALTERANDO DISPOSITIVOS DA INSTRUÇÃO CVM Nº 153/91, QUE DISPÕE SOBRE A CONSTITUIÇÃO, O FUNCIONAMENTO E A ADMINISTRAÇÃO DOS FUNDOS… | cvm-dec-1991-0136 | fichas/decisoes-antigas/1991-04.md |
+| 1991-08-21 | — | INSTRUÇÃO QUE DISPÕE SOBRE A LIQUIDAÇÃO FÍSICA E FINANCEIRA DAS OPERAÇÕES REALIZADAS EM BOLSAS DE | cvm-dec-1991-0137 | fichas/decisoes-antigas/1991-04.md |
+| 1991-08-15 | — | GRUPAMENTO DE AÇÕES – CASOS BRASPÉROLA INDÚSTRIA E COMÉRCIO S/A. – POSICIONAMENTO DO COLEGIADO | cvm-dec-1991-0138 | fichas/decisoes-antigas/1991-03.md |
+| 1991-08-15 | — | RECURSO DA OLVEBRA S/A – PREÇOS DE EMISSÃO DE AÇÕES | cvm-dec-1991-0139 | fichas/decisoes-antigas/1991-03.md |
+| 1991-08-15 | — | INSTRUÇÃO SOBRE A DISPENSA OU CANCELAMENTO DE REGISTRO DAS SOCIEDADES BENFICIÁRIAS DE RECURSOS ORIUNDOS DE INCENTIVOS FISCAIS | cvm-dec-1991-0140 | fichas/decisoes-antigas/1991-03.md |
+| 1991-08-15 | — | MARGEM DE GARANTIA EM AÇÕES , TÍTULOS DE SÓCIO EFETIVO DA BM&F E QUOTAS DE FUNDOS FECHADOS EM | cvm-dec-1991-0141 | fichas/decisoes-antigas/1991-03.md |
+| 1991-08-07 | — | MINUTA DE INSTRUÇÃO SOBRE A SIMPLIFICAÇÃO DOS REQUISITOS EXIGIDOS PARA OBTENÇÃO DE REGISTRO DE DISTRIBUIÇÃO DE NOTAS PROMISSÓRIAS E… | cvm-dec-1991-0142 | fichas/decisoes-antigas/1991-03.md |
+| 1991-08-07 | — | RESOLUÇÃO BVRJ – CA-268/91 – FIXA HORÁRIO DE FUNCIONAMENTO DO PREGÃO E TELEPREGÃO | cvm-dec-1991-0143 | fichas/decisoes-antigas/1991-03.md |
+| 1991-08-07 | — | ALTERAÇÃO NA COMPOSIÇÃO DA COMISSÃO CONSULTIVA SOBRE POLÍTICAS DE DIVULGAÇÃO DE INFORMAÇÕES DAS COMPANHIAS ABERTAS DO MERCADO DE VALORES… | cvm-dec-1991-0144 | fichas/decisoes-antigas/1991-03.md |
+| 1991-07-31 | — | SOLICITAÇÃO DE DISPENSA DA APRESENTAÇÃO DOS FORMULÁRIOS ITR DO ANO DE 1990 – PLEITO DE MUNDIAL ARTEFATOS DE COURO S.A. | cvm-dec-1991-0145 | fichas/decisoes-antigas/1991-03.md |
+| 1991-07-31 | — | CREDENCIAMENTO PARA PRESTAÇÃO DOS SERVIÇOS DE AÇÕES ESCRITURAIS – BANCO SAFRA DE INVESTIMENTOS | cvm-dec-1991-0146 | fichas/decisoes-antigas/1991-03.md |
+| 1991-07-31 | — | CREDENCIAMENTO PARA PRESTAÇÃO DOS SERVIÇOS DE AÇÕES ESCRITURAIS – BANCO DE INVESTIMENTO S.A. – | cvm-dec-1991-0147 | fichas/decisoes-antigas/1991-03.md |
+| 1991-07-31 | — | AUTORIZAÇÃO PARA NEGOCIAÇÃO DE OPÇÕES, NO PERÍODO VESPERTINO, NO CATS – BOVESPA | cvm-dec-1991-0148 | fichas/decisoes-antigas/1991-03.md |
+| 1991-07-31 | — | REPUBLICAÇÃO DAS DEMONSTRAÇÕES FINANCEIRAS – CORRÊA RIBEIRO S.A. COM. IND. | cvm-dec-1991-0149 | fichas/decisoes-antigas/1991-03.md |
+| 1991-07-31 | — | PRORROGAÇÃO REMESSA INFORMAÇÕES TRIMESTRAIS (ITR) – LOJAS HERING S.A. | cvm-dec-1991-0150 | fichas/decisoes-antigas/1991-03.md |
+| 1991-07-31 | — | NEGOCIAÇÃO DE RECIBOS DE SUBSCRIÇÃO DE AUMENTO DE CAPITAL EM SUSPENSO POR FORÇA DE MEDIDA LIMINAR – TELEBRÁS | cvm-dec-1991-0151 | fichas/decisoes-antigas/1991-03.md |
+| 1991-07-31 | — | ADMINISTRAÇÃO DE CARTEIRA DE INVESTIDOR INSTITUCIONAL ESTRANGEIRO – BANCO PACTUAL S.A. ([pessoa física] & CO. INC.) | cvm-dec-1991-0152 | fichas/decisoes-antigas/1991-03.md |
+| 1991-07-31 | — | PARECER DE ORIENTAÇÃO SOBRE AUMENTOS DE CAPITAL POR SUBSCRIÇÃO PÚBLICA. DINÂMICA DOS PROCEDIMENTOS NECESSÁRIOS À OFERTA PÚBLICA E DOS… | cvm-dec-1991-0153 | fichas/decisoes-antigas/1991-03.md |
+| 1991-07-24 | — | MINUTA DE INSTRUÇÃO SOBRE A CONSTITUIÇÃO, O FUNCIONAMENTO E A ADMINISTRAÇÃO DOS FUNDOS DE AÇÕES INCENTIVADAS PREVISTOS NO ARTIGO 18 DA LEI… | cvm-dec-1991-0154 | fichas/decisoes-antigas/1991-02.md |
+| 1991-07-24 | — | MINUTA DE DELIBERAÇÃO SOBRE DISPENSA DE REGISTRO PRÉVIO NA CVM O PROCESSO DE PROCURA DE INTERESSADOS NA AQUISIÇÃO DE VALORES MOBILIÁRIOS DE… | cvm-dec-1991-0155 | fichas/decisoes-antigas/1991-02.md |
+| 1991-07-24 | — | OFÍCIO-CIRCULAR SOBRE REGISTRO DE CAPITAL ESTRANGEIRO – RESOLUÇÃO CMN 1832/91 | cvm-dec-1991-0156 | fichas/decisoes-antigas/1991-03.md |
+| 1991-07-24 | — | DISCUSSÃO SOBRE INDEXADOR E ITR | cvm-dec-1991-0157 | fichas/decisoes-antigas/1991-03.md |
+| 1991-07-24 | — | AUTORIZAÇÃO PARA EMISSÃO DE AÇÕES PARA COLOCAÇÃO NO MERCADO INTERNACIONAL – PLEITO DA BRAZIL | cvm-dec-1991-0158 | fichas/decisoes-antigas/1991-03.md |
+| 1991-07-24 | — | MINUTA DE DELIBERAÇÃO DELEGANDO COMPETÊNCIA A SUPERINTÊNCIA DE RELAÇÕES COM O MERCADO E INTERMEDIÁRIOS PARA CANCELAR AUTORIZAÇÃO PARA… | cvm-dec-1991-0159 | fichas/decisoes-antigas/1991-03.md |
+| 1991-07-24 | — | ADMINISTRAÇÃO DE CARTEIRA DE INVESTIDOR INSTITUCIONAL ESTRANGEIRO – BANCO PACTUAL S.A. | cvm-dec-1991-0160 | fichas/decisoes-antigas/1991-03.md |
+| 1991-07-24 | — | ADMINISTRAÇÃO DE CARTEIRA DE INVESTIDOR INSTITUCIONAL ESTRANGEIRO – HKB S.A. ([pessoa física]) | cvm-dec-1991-0161 | fichas/decisoes-antigas/1991-03.md |
+| 1991-07-24 | — | ADMINISTRAÇÃO DE CARTEIRA DE INVESTIDOR INSTITUCIONAL ESTRANGEIRO – BANCO BRADESCO DE INVESTIMENTO S.A. ([pessoa física] INC.) | cvm-dec-1991-0162 | fichas/decisoes-antigas/1991-03.md |
+| 1991-07-24 | — | MINUTA DE INSTRUÇÃO QUE PERMITE A UTILIZAÇÃO DE QUOTAS DE FUNDOS FECHADOS DE INVESTIMENTO EM AÇÕES COMO GARANTIA NOS MERCADOS FUTUROS DE… | cvm-dec-1991-0163 | fichas/decisoes-antigas/1991-03.md |
+| 1991-07-19 | — | CONSTITUIÇÃO DE CARTEIRA – ANEXO IV RESOLUÇÃO Nº 1289 – PLEITO DO BANCO ICATU S/A | cvm-dec-1991-0164 | fichas/decisoes-antigas/1991-02.md |
+| 1991-07-16 | — | MODIFICAÇÃO DA DELIBERAÇÃO CVM Nº 83, DE 07.03.90 | cvm-dec-1991-0165 | fichas/decisoes-antigas/1991-02.md |
+| 1991-07-10 | — | AUTORIZAÇÃO PROVISÓRIA PARA FUNCIONAMENTO – CALISPA – CAIXA DE LIQUIDAÇÃO DE SÃO PAULO | cvm-dec-1991-0166 | fichas/decisoes-antigas/1991-02.md |
+| 1991-07-10 | — | MINUTA DE INSTRUÇÃO RESGATANDO OS TERMOS DA RESOLUÇÃO Nº 1.796 – PLEITO DA ANBID | cvm-dec-1991-0167 | fichas/decisoes-antigas/1991-02.md |
+| 1991-07-10 | — | MINUTA DE INSTRUÇÃO SOBRE INFORMAÇÕES QUE DEVEM CONSTAR NOS RECIBOS UTILIZADOS PELOS INTEGRANTES DO SISTEMA DE DISTRIBUIÇÃO | cvm-dec-1991-0168 | fichas/decisoes-antigas/1991-02.md |
+| 1991-07-10 | — | ALTERAÇÕES NO REGULAMENTO ANEXO II À RESOLUÇÃO 1.289/87 | cvm-dec-1991-0169 | fichas/decisoes-antigas/1991-02.md |
+| 1991-07-10 | — | PRESTAÇÃO DE SERVIÇOS DE AÇÕES ESCRITURAIS – ITAÚ CORRETORA DE VALORES S/A | cvm-dec-1991-0170 | fichas/decisoes-antigas/1991-02.md |
+| 1991-07-10 | — | ALTERAÇÃO DA INSTRUÇÃO CVM Nº 120, DE 06/06/90 | cvm-dec-1991-0171 | fichas/decisoes-antigas/1991-02.md |
+| 1991-07-03 | — | FUNDAÇÕES DE PREVIDÊNCIA PRIVADA X CVM | cvm-dec-1991-0172 | fichas/decisoes-antigas/1991-02.md |
+| 1991-07-03 | — | MINUTA DE INSTRUÇÃO SOBRE A SIMPLIFICAÇÃO DOS REQUISITOS EXIGIDOS PARA OBTENÇÃO DE REGISTRO DE DISTRIBUIÇÃO DE NOTAS PROMISSÓRIAS E… | cvm-dec-1991-0173 | fichas/decisoes-antigas/1991-02.md |
+| 1991-06-13 | — | MINUTA DE DELIBERAÇÃO – DELEGAÇÃO DE COMPETÊNCIA PARA AUTORIZAR A ADMINISTRAÇÃO DE CARTEIRA DE | cvm-dec-1991-0174 | fichas/decisoes-antigas/1991-02.md |
+| 1991-06-13 | — | MINUTA DE DELIBERAÇÃO – INCLUSÃO DE MEMBRO NA COMISSÃO CONSULTIVA SOBRE POLÍTICAS DE DIVULGAÇÃO DE INFORMAÇÕES DAS CIAS. ABERTAS AO MVM | cvm-dec-1991-0175 | fichas/decisoes-antigas/1991-02.md |
+| 1991-06-05 | — | MINUTA DE DELIBERAÇÃO – IMPOSSIBILIDADE DE ALTERAÇÃO DE CLÁUSULAS DE ESCRITURA DE EMISSÃO DE DEBÊNTURES ANTERIORMENTE AO SEU VENCIMENTO | cvm-dec-1991-0176 | fichas/decisoes-antigas/1991-02.md |
+| 1991-06-05 | — | MINUTA DE COMUNICADO-CONJUNTO BACEN/CVM SOBRE A NEGOCIAÇÃO, EM BOLSAS DE VALORES OU MERCADO DE BALCÃO, DE TÍTULOS DA DÍVIDA AGRÁRIA – TDA… | cvm-dec-1991-0177 | fichas/decisoes-antigas/1991-02.md |
+| 1991-06-05 | — | BOVMESB – INSTRUÇÃO CVM Nº 35/84 | cvm-dec-1991-0178 | fichas/decisoes-antigas/1991-02.md |
+| 1991-05-29 | — | PARTICIPANTES: | cvm-dec-1991-0179 | fichas/decisoes-antigas/1991-02.md |
+| 1991-05-29 | — | BVRJ – CONSTITUIÇÃO DA CÂMARA DE LIQUIDAÇÃO E CUSTÓDIA S.A. | cvm-dec-1991-0180 | fichas/decisoes-antigas/1991-02.md |
+| 1991-05-29 | — | DILATAÇÃO DO PRAZO PARA ENTREGA DE DFP – CIA. DESENVOLVIMENTO DO ARAGUAIA | cvm-dec-1991-0181 | fichas/decisoes-antigas/1991-02.md |
+| 1991-05-10 | — | MINUTA DE INSTRUÇÃO SOBRE NORMAS TÉCNICAS DE AUDITORIA INDEPENDENTE | cvm-dec-1991-0182 | fichas/decisoes-antigas/1991-02.md |
+| 1991-05-08 | — | MINUTA DE INSTRUÇÃO SOBRE A CONSTITUIÇÃO, O FUNCIONAMENTO E A ADMINISTRAÇÃO DOS FUNDOS MÚTUOS DE AÇÕES INCENTIVADAS PREVISTOS NO ARTIGO 18… | cvm-dec-1991-0183 | fichas/decisoes-antigas/1991-02.md |
+| 1991-05-08 | — | PLEITO DE GARANTIA ADMINISTRAÇÃO DE INVESTIMENTOS GARDI S/A PARA CONSTITUIÇÃO DE CARTEIRA DE TÍTULOS E VALORES MOBILIÁRIOS PELO "BARING… | cvm-dec-1991-0184 | fichas/decisoes-antigas/1991-02.md |
+| 1991-05-02 | — | DELIBERAÇÃO ALTERANDO A COMISSÃO JURÍDICA | cvm-dec-1991-0185 | fichas/decisoes-antigas/1991-02.md |
+| 1991-05-02 | — | ALIENAÇÃO DE AÇÕES DA CIA. INTERNACIONAL DE SEGUROS | cvm-dec-1991-0186 | fichas/decisoes-antigas/1991-02.md |
+| 1991-04-25 | — | D+0/D+1 – REUNIÃO COM A BM&F, BVRJ E BOVESPA | cvm-dec-1991-0187 | fichas/decisoes-antigas/1991-02.md |
+| 1991-04-25 | — | DEVOLUÇÃO DE CORRETAGEM | cvm-dec-1991-0188 | fichas/decisoes-antigas/1991-02.md |
+| 1991-04-25 | — | LEILÃO ESPECIAL DE AÇÕES COMPONENTES DA CARTEIRA DO BNDESPAR NA BVRJ | cvm-dec-1991-0189 | fichas/decisoes-antigas/1991-02.md |
+| 1991-04-25 | — | RECURSO CONTRA DECISÃO DA SEP – REPUBLICAÇÃO DAS DEMONSTRAÇÕES FINANCEIRAS – EDISA INFORMÁTICA | cvm-dec-1991-0190 | fichas/decisoes-antigas/1991-02.md |
+| 1991-04-25 | — | RECURSO CONTRA DECISÃO DA SEP – PARTICIPAÇÃO DE DISTRIBUIDORA EM OPERAÇÕES DE COMPRA E VENDA DE AÇÕES – BANCO ANTONIO DE QUEIROZ S.A. | cvm-dec-1991-0191 | fichas/decisoes-antigas/1991-02.md |
+| 1991-04-25 | — | ASSUNTOS GERAIS | cvm-dec-1991-0192 | fichas/decisoes-antigas/1991-02.md |
+| 1991-04-18 | — | NEGOCIAÇÃO DE DEBÊNTURES E NOTAS PROMISSÓRIAS EM BOLSA DE VALORES X CORRETAGEM LEGAL | cvm-dec-1991-0193 | fichas/decisoes-antigas/1991-02.md |
+| 1991-04-17 | — | DEMONSTRAÇÕES FINANCEIRAS DE 31.12.90 – RECURSO [pessoa física] CONTRA DECISÃO SEP – UTILIZAÇÃO DE INDEXADORES | cvm-dec-1991-0194 | fichas/decisoes-antigas/1991-01.md |
+| 1991-04-16 | — | MINUTA DE INSTRUÇÃO SOBRE A CONSTITUIÇÃO, ADMINISTRAÇÃO E O FUNCIONAMENTO DE FUNDOS DE PRIVATIZAÇÃO INTEGRALIZADOS COM DIREITOS DE… | cvm-dec-1991-0195 | fichas/decisoes-antigas/1991-01.md |
+| 1991-04-10 | — | RECURSO CONTRA DECISÃO DA SEP – GEOTÉCNICA – PEDIDO DE CANCELAMENTO DE REGISTRO | cvm-dec-1991-0196 | fichas/decisoes-antigas/1991-01.md |
+| 1991-04-02 | — | MINUTA DE INSTRUÇÃO SOBRE A DISPENSA OU CANCELAMENTO DE REGISTRO DAS SOCIEDADES BENEFICIÁRIAS DE RECURSOS ORIUNDOS DE INCENTIVOS FISCAIS | cvm-dec-1991-0197 | fichas/decisoes-antigas/1991-01.md |
+| 1991-03-27 | — | MINUTA DE INSTRUÇÃO SOBRE FUNDOS MÚTUOS DE PRIVATIZAÇÃO INTEGRALIZADOS COM CERTIFICADOS DE PRIVATIZAÇÃO | cvm-dec-1991-0198 | fichas/decisoes-antigas/1991-01.md |
+| 1991-03-26 | — | MANDADO DE SEGURANÇA Nº 88.0027478-1 IMPETRADO POR SENNE ASSOCIADOS S/C – AUDITORES E CONSULTORES CONTRA A SNC | cvm-dec-1991-0199 | fichas/decisoes-antigas/1991-01.md |
+| 1991-03-20 | — | ALTERAÇÃO DA COMPOSIÇÃO DA CARTEIRA DE TÍTULOS E VALORES MOBILIÁRIOS DOS FUNDOS DE CONVERSÃO – CAPITAL ESTRANGEIRO E FUNDOS DE CONVERSÃO… | cvm-dec-1991-0200 | fichas/decisoes-antigas/1991-01.md |
+| 1991-03-20 | — | RECURSO CONTRA DECISÃO DA SEP – COMPANHIA SIDERÚRGICA NACIONAL – REPUBLICAÇÃO DE DEMONSTRAÇÕES FINANCEIRAS | cvm-dec-1991-0201 | fichas/decisoes-antigas/1991-01.md |
+| 1991-03-05 | — | RECURSOS CONTRA DECISÃO DA SEP – PARBRIL PARTICPAÇÕES LTDA. E ROSAFER S.A. – OFERTA PÚBLICA DE PERMUTA DE AÇÕES – BOMBRIL S.A. | cvm-dec-1991-0202 | fichas/decisoes-antigas/1991-01.md |
+| 1991-02-26 | — | TAXA DE FISCALIZAÇÃO – AUDITOR INDEPENDENTE – [pessoa física] | cvm-dec-1991-0203 | fichas/decisoes-antigas/1991-01.md |
+| 1991-02-05 | — | PROPOSTA DE TOMADA DE POSIÇÃO DO COLEGIADO – BALANÇO DAS COMPANHIAS ABERTAS RELATIVO A 31.12.90 | cvm-dec-1991-0204 | fichas/decisoes-antigas/1991-01.md |
+| 1991-02-05 | — | QUANTIFICAÇÃO DOS EFEITOS RELEVANTES DECORRENTES DO USO DO BTN NOS BALANÇOS DE 1990 | cvm-dec-1991-0205 | fichas/decisoes-antigas/1991-01.md |
+| 1991-01-22 | — | DESREGULAMENTAÇÃO – CONSTITUIÇÃO DE SOCIEDADES CORRETORAS E DISTRIBUIDORAS – MINUTA DE | cvm-dec-1991-0206 | fichas/decisoes-antigas/1991-01.md |
+| 1991-01-22 | — | RECURSO CONTRA DECISÃO DO COLEGIADO – CIA. INDUSTRIAL CATAGUASES | cvm-dec-1991-0207 | fichas/decisoes-antigas/1991-01.md |
+| 1991-01-16 | — | PARECER DE ORIENTAÇÃO QUE DISPÕE SOBRE PROCEDIMENTOS A SEREM OBSERVADOS PELAS COMPANHIAS ABERTAS E AUDITORES INDEPENDENTES APLICÁVEIS ÀS… | cvm-dec-1991-0208 | fichas/decisoes-antigas/1991-01.md |
+| 1991-01-15 | — | CONSTITUIÇÃO DE SOCIEDADE DISTRIBUIDORA – OPERADORA DTVM LTDA. | cvm-dec-1991-0209 | fichas/decisoes-antigas/1991-01.md |
+| 1991-01-15 | — | CONSTITUIÇÃO DE SOCIEDADE DISTRIBUIDORA – BRASEG DTVM LTDA. | cvm-dec-1991-0210 | fichas/decisoes-antigas/1991-01.md |
+| 1991-01-15 | — | CONSTITUIÇÃO DE SOCIEDADE DISTRIBUIDORA – SPREAD DTVM LTDA. | cvm-dec-1991-0211 | fichas/decisoes-antigas/1991-01.md |
+| 1991-01-15 | — | CONSTITUIÇÃO DE SOCIEDADE CORRETORA – SENSO CCVM | cvm-dec-1991-0212 | fichas/decisoes-antigas/1991-01.md |
+| 1991-01-15 | — | BUAIZ S.A. INDÚSTRIA E COMÉRCIO | cvm-dec-1991-0213 | fichas/decisoes-antigas/1991-01.md |
+| 1991-01-08 | — | TAXA DE FISCALIZAÇÃO – ALCOA [pessoa física]. | cvm-dec-1991-0214 | fichas/decisoes-antigas/1991-01.md |
+| 1991-01-08 | — | RECURSO CONTRA DECISÃO DA SEP – [pessoa física]. INDÚSTRIA [pessoa física] | cvm-dec-1991-0215 | fichas/decisoes-antigas/1991-01.md |
+| 1991-01-08 | — | RECURSO CONTRA APLICAÇÃO DE MULTA – SUL BRASILEIRO COM. IMP. EXP. S.A. | cvm-dec-1991-0216 | fichas/decisoes-antigas/1991-01.md |
+| 1991-01-08 | — | RECURSO CONTRA DECISÃO DA SEP – BUAIZ S.A. INDÚSTRIA E COMÉRCIO | cvm-dec-1991-0217 | fichas/decisoes-antigas/1991-01.md |
+| 1991-01-08 | — | RECURSO CONTRA DECISÃO DA SEP – [pessoa física] CIA. AGROPASTORIL | cvm-dec-1991-0218 | fichas/decisoes-antigas/1991-01.md |
+| 1991-01-04 | — | RECURSO CONTRA DECISÃO DA SEP – GESTIL S.A. E OUTRAS | cvm-dec-1991-0219 | fichas/decisoes-antigas/1991-01.md |
+| 1991-01-04 | — | RECURSO CONTRA DECISÃO DO COLEGIADO – INVESPAR S.A. – REPUBLICAÇÃO DE DEMONSTRAÇÕES FINANCEIRAS | cvm-dec-1991-0220 | fichas/decisoes-antigas/1991-01.md |
+| 1991-01-04 | — | RECURSO CONTRA APLICAÇÃO DE MULTA – ALFRED S.A. COMÉRCIO DO VESTUÁRIO | cvm-dec-1991-0221 | fichas/decisoes-antigas/1991-01.md |
+| 1991-01-04 | — | PROPOSTA DE EMISSÃO DE DELIBERAÇÃO DETERMINANDO A SUSTAÇÃO DE OPERAÇÕES COM EXTRATOS DE CRÉDITOS ORIUNDOS DE EMPRÉSTIMOS COMPULSÓRIOS… | cvm-dec-1991-0222 | fichas/decisoes-antigas/1991-01.md |
 
 Fim do subíndice.

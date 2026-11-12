@@ -36,7 +36,7 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2014/3839 | 2016-12-13 | parcial | cvm-pas-rj2014-3839 | fichas/pas/2016-08.md |
+| pas | RJ2014/3839 | 2016-12-13 | parcial | cvm-pas-rj2014-3839 | fichas/pas/2016-14.md |
 | decisao-colegiado | RJ2012/11664 | 2013-01-04 | nao-provido | cvm-col-20130104-d02 | fichas/colegiado/2013-01.md |
 | decisao-colegiado | RJ2012/11664 | 2012-10-30 | nao-provido | cvm-col-20121030-d02-r2 | fichas/colegiado/2012-20.md |
 | termo-compromisso | RJ2011/9487 | 2012-02-23 | aceito | cvm-col-20120223-d10 | fichas/tc/2012-01.md |

@@ -56,7 +56,7 @@ Este subíndice tem 410 linhas e uma leitura única é cortada em silêncio pert
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | acordao-crsfn | SP-24/03 | 2009-09-30 | parcial | crsfn-8928 | fichas/crsfn/2009-05.md |
-| pas | 24/2003 | 2005-06-09 | parcial | cvm-pas-24-2003 | fichas/pas/2005-04.md |
+| pas | 24/2003 | 2005-06-09 | parcial | cvm-pas-24-2003 | fichas/pas/2005-08.md |
 
 ## lcp-18
 
@@ -64,7 +64,7 @@ Este subíndice tem 410 linhas e uma leitura única é cortada em silêncio pert
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 03/2005 | 2008-07-02 | absolvicao | cvm-pas-03-2005 | fichas/pas/2008-02.md |
+| pas | 03/2005 | 2008-07-02 | absolvicao | cvm-pas-03-2005 | fichas/pas/2008-04.md |
 
 ## lcp-63
 
@@ -83,7 +83,7 @@ Este subíndice tem 410 linhas e uma leitura única é cortada em silêncio pert
 | art. 1º | decisao-colegiado | 19957.008923/2016-12 | 2017-08-08 | conhecimento | cvm-col-20170808-d0476 | fichas/colegiado/2017-14.md |
 | art. 1º | termo-compromisso | 19957.007605/2020-11 | 2020-11-24 | outro | cvm-col-20201124-d1965 | fichas/tc/2020-07.md |
 | art. 1º | decisao-colegiado | 19957.007271/2022-39 | 2024-04-16 | outro | cvm-col-20240416-d2845 | fichas/colegiado/2024-04.md |
-| art. 1º | pas | 19957.007469/2023-01 | 2024-12-18 | absolvicao | cvm-pas-19957-007469-2023-01 | fichas/pas/2024-12.md |
+| art. 1º | pas | 19957.007469/2023-01 | 2024-12-18 | absolvicao | cvm-pas-19957-007469-2023-01 | fichas/pas/2024-23.md |
 | art. 1º, alínea d | decisao-colegiado | RJ2007/11399 | 2008-12-16 | nao-provido | cvm-col-20081216-d01 | fichas/colegiado/2008-27.md |
 | art. 1º, alínea e | decisao-colegiado | RJ2007/11399 | 2008-12-16 | nao-provido | cvm-col-20081216-d01 | fichas/colegiado/2008-27.md |
 | art. 1º, alínea g | decisao-colegiado | RJ2007/11399 | 2008-12-16 | nao-provido | cvm-col-20081216-d01 | fichas/colegiado/2008-27.md |
@@ -111,13 +111,13 @@ Este subíndice tem 410 linhas e uma leitura única é cortada em silêncio pert
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 2º | pas | 24/2003 | 2005-06-09 | parcial | cvm-pas-24-2003 | fichas/pas/2005-04.md |
+| art. 2º | pas | 24/2003 | 2005-06-09 | parcial | cvm-pas-24-2003 | fichas/pas/2005-08.md |
 
 ### art. 3º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 3º | pas | 24/2003 | 2005-06-09 | parcial | cvm-pas-24-2003 | fichas/pas/2005-04.md |
+| art. 3º | pas | 24/2003 | 2005-06-09 | parcial | cvm-pas-24-2003 | fichas/pas/2005-08.md |
 
 ### Citada sem dispositivo identificado
 
@@ -131,7 +131,7 @@ Este subíndice tem 410 linhas e uma leitura única é cortada em silêncio pert
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 28 | acordao-crsfn | RJ2008/12062 | 2014-10-21 | arquivamento | crsfn-12711 | fichas/crsfn/2014-05.md |
+| art. 28 | acordao-crsfn | RJ2008/12062 | 2014-10-21 | arquivamento | crsfn-12711 | fichas/crsfn/2014-06.md |
 
 ### art. 40
 
@@ -140,8 +140,8 @@ Este subíndice tem 410 linhas e uma leitura única é cortada em silêncio pert
 | art. 40, § 1º | acordao-crsfn | RJ-2009-4133 | 2013-05-21 | condenacao | crsfn-12825 | fichas/crsfn/2013-02.md |
 | art. 40, § 1º | decisao-colegiado | 19957.000695/2021-91 | 2021-12-14 | nao-provido | cvm-col-20211214-d2418 | fichas/colegiado/2021-22.md |
 | art. 40, § 1º | decisao-colegiado | 19957.000695/2021-91 | 2023-01-10 | nao-provido | cvm-col-20230110-d2418 | fichas/colegiado/2023-01.md |
-| art. 40, § 1º | pas | 19957.007759/2020-02 | 2025-12-18 | condenacao | cvm-pas-19957-007759-2020-02 | fichas/pas/2025-06.md |
-| art. 40, § 2º | acordao-crsfn | RJ2010/10528 | 2014-08-26 | condenacao | crsfn-13413 | fichas/crsfn/2014-05.md |
+| art. 40, § 1º | pas | 19957.007759/2020-02 | 2025-12-18 | condenacao | cvm-pas-19957-007759-2020-02 | fichas/pas/2025-12.md |
+| art. 40, § 2º | acordao-crsfn | RJ2010/10528 | 2014-08-26 | condenacao | crsfn-13413 | fichas/crsfn/2014-06.md |
 
 ## lcp-75
 
@@ -201,25 +201,25 @@ Este subíndice tem 410 linhas e uma leitura única é cortada em silêncio pert
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 10 | pas | 11/2012 | 2014-12-02 | condenacao | cvm-pas-11-2012 | fichas/pas/2014-05.md |
+| art. 10 | pas | 11/2012 | 2014-12-02 | condenacao | cvm-pas-11-2012 | fichas/pas/2014-10.md |
 
 ### art. 11
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 11 | pas | 11/2012 | 2014-12-02 | condenacao | cvm-pas-11-2012 | fichas/pas/2014-05.md |
+| art. 11 | pas | 11/2012 | 2014-12-02 | condenacao | cvm-pas-11-2012 | fichas/pas/2014-10.md |
 
 ### art. 13
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 13, inciso VI | pas | 11/2012 | 2014-12-02 | condenacao | cvm-pas-11-2012 | fichas/pas/2014-05.md |
+| art. 13, inciso VI | pas | 11/2012 | 2014-12-02 | condenacao | cvm-pas-11-2012 | fichas/pas/2014-10.md |
 
 ### art. 25
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 25 | pas | 11/2012 | 2014-12-02 | condenacao | cvm-pas-11-2012 | fichas/pas/2014-05.md |
+| art. 25 | pas | 11/2012 | 2014-12-02 | condenacao | cvm-pas-11-2012 | fichas/pas/2014-10.md |
 
 ### art. 28
 
@@ -231,8 +231,8 @@ Este subíndice tem 410 linhas e uma leitura única é cortada em silêncio pert
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 29 | acordao-crsfn | 11/2012 | 2018-10-19 | condenacao | crsfn-14228 | fichas/crsfn/2018-06.md |
-| art. 29 | pas | 11/2012 | 2014-12-02 | condenacao | cvm-pas-11-2012 | fichas/pas/2014-05.md |
+| art. 29 | acordao-crsfn | 11/2012 | 2018-10-19 | condenacao | crsfn-14228 | fichas/crsfn/2018-08.md |
+| art. 29 | pas | 11/2012 | 2014-12-02 | condenacao | cvm-pas-11-2012 | fichas/pas/2014-10.md |
 
 ### art. 252
 
@@ -246,8 +246,8 @@ Este subíndice tem 410 linhas e uma leitura única é cortada em silêncio pert
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.000800/2024-35 | 2024-06-18 | conhecimento | cvm-col-20240618-d3082 | fichas/colegiado/2024-07.md |
 | termo-compromisso | 19957.007626/2019-94 | 2021-11-09 | rejeitado | cvm-col-20211109-d2182 | fichas/tc/2021-07.md |
-| acordao-crsfn | RJ2010/10555 | 2015-04-28 | parcial | crsfn-13361 | fichas/crsfn/2015-01.md |
-| pas | RJ2010/10555 | 2011-09-06 | condenacao | cvm-pas-rj2010-10555 | fichas/pas/2011-02.md |
+| acordao-crsfn | RJ2010/10555 | 2015-04-28 | parcial | crsfn-13361 | fichas/crsfn/2015-02.md |
+| pas | RJ2010/10555 | 2011-09-06 | condenacao | cvm-pas-rj2010-10555 | fichas/pas/2011-04.md |
 
 ## lcp-118
 
@@ -292,7 +292,7 @@ Este subíndice tem 410 linhas e uma leitura única é cortada em silêncio pert
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.007254/2021-11 | 2024-03-05 | parcial | cvm-pas-19957-007254-2021-11 | fichas/pas/2024-01.md |
+| pas | 19957.007254/2021-11 | 2024-03-05 | parcial | cvm-pas-19957-007254-2021-11 | fichas/pas/2024-02.md |
 | acordao-crsfn | 17/2013 | 2022-06-07 | parcial | crsfn-10372-100337-2019-60 | fichas/crsfn/2022-04.md |
 | decisao-colegiado | RJ2008/10302 | 2009-01-21 | indeferido | cvm-col-20090121-d04 | fichas/colegiado/2009-01.md |
 | decisao-colegiado | RJ2006/0657 | 2007-03-06 | outro | cvm-col-20070306-d02 | fichas/colegiado/2007-04.md |
@@ -352,7 +352,7 @@ Este subíndice tem 410 linhas e uma leitura única é cortada em silêncio pert
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.009925/2017-00 | 2021-03-09 | parcial | cvm-pas-19957-009925-2017-00 | fichas/pas/2021.md |
+| pas | 19957.009925/2017-00 | 2021-03-09 | parcial | cvm-pas-19957-009925-2017-00 | fichas/pas/2021-02.md |
 
 ## lcp-182
 
@@ -360,7 +360,7 @@ Este subíndice tem 410 linhas e uma leitura única é cortada em silêncio pert
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.004286/2022-45 | 2023-12-21 | condenacao | cvm-pas-19957-004286-2022-45 | fichas/pas/2023-10.md |
+| pas | 19957.004286/2022-45 | 2023-12-21 | condenacao | cvm-pas-19957-004286-2022-45 | fichas/pas/2023-18.md |
 | acordao-crsfn | RJ2019/2333 | 2023-02-07 | parcial | crsfn-10372-100089-2021-71 | fichas/crsfn/2023-01.md |
 | acordao-crsfn | RJ2019/2333 | 2023-02-07 | parcial | crsfn-10372-100089-2021-71-2 | fichas/crsfn/2023-01.md |
 
@@ -376,20 +376,20 @@ Este subíndice tem 410 linhas e uma leitura única é cortada em silêncio pert
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 89 | acordao-crsfn | RJ2019/9541 | 2023-05-09 | parcial | crsfn-10372-100173-2020-12 | fichas/crsfn/2023-04.md |
+| art. 89 | acordao-crsfn | RJ2019/9541 | 2023-05-09 | parcial | crsfn-10372-100173-2020-12 | fichas/crsfn/2023-05.md |
 
 ### art. 93
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 93 | acordao-crsfn | RJ2019/9541 | 2023-05-09 | parcial | crsfn-10372-100173-2020-12 | fichas/crsfn/2023-04.md |
+| art. 93 | acordao-crsfn | RJ2019/9541 | 2023-05-09 | parcial | crsfn-10372-100173-2020-12 | fichas/crsfn/2023-05.md |
 | art. 93 | decisao-colegiado | 19957.007951/2019-57 | 2019-08-28 | indeferido | cvm-col-20190828-d1518 | fichas/colegiado/2019-13.md |
 
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.011244/2019-65; RJ2019/9541 | 2020-07-14 | condenacao | cvm-pas-19957-011244-2019-65 | fichas/pas/2020-04.md |
+| pas | 19957.011244/2019-65; RJ2019/9541 | 2020-07-14 | condenacao | cvm-pas-19957-011244-2019-65 | fichas/pas/2020-07.md |
 
 ## lcp-920
 
@@ -397,7 +397,7 @@ Este subíndice tem 410 linhas e uma leitura única é cortada em silêncio pert
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.011244/2019-65; RJ2019/9541 | 2020-07-14 | condenacao | cvm-pas-19957-011244-2019-65 | fichas/pas/2020-04.md |
+| pas | 19957.011244/2019-65; RJ2019/9541 | 2020-07-14 | condenacao | cvm-pas-19957-011244-2019-65 | fichas/pas/2020-07.md |
 
 ## lcp-1232
 

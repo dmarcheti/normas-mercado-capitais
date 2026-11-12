@@ -18,14 +18,14 @@ Norma: fora do acervo.
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 2º | decisao-colegiado | RJ2007/0191 | 2007-01-11 | deferido | cvm-col-20070111-d01 | fichas/colegiado/2007-01.md |
-| art. 2º, inciso II | acordao-crsfn | 19957.009739/2021-49 | 2023-12-04 | condenacao | crsfn-10372-100117-2023-12 | fichas/crsfn/2023-08.md |
+| art. 2º, inciso II | acordao-crsfn | 19957.009739/2021-49 | 2023-12-04 | condenacao | crsfn-10372-100117-2023-12 | fichas/crsfn/2023-10.md |
 | art. 2º, inciso II | termo-compromisso | 19957.002393/2023-10 | 2024-03-12 | rejeitado | cvm-col-20240312-d2928 | fichas/tc/2024-01.md |
-| art. 2º, inciso II | pas | 19957.009739/2021-49 | 2023-05-23 | condenacao | cvm-pas-19957-009739-2021-49 | fichas/pas/2023-03.md |
+| art. 2º, inciso II | pas | 19957.009739/2021-49 | 2023-05-23 | condenacao | cvm-pas-19957-009739-2021-49 | fichas/pas/2023-05.md |
 | art. 2º, inciso IV | termo-compromisso | RJ2011/13837 | 2012-04-24 | aceito | cvm-col-20120424-d01 | fichas/tc/2012-02.md |
 | art. 2º, inciso IV | pas | 02/2008 | 2013-03-05 | parcial | cvm-pas-02-2008 | fichas/pas/2013-01.md |
-| art. 2º, inciso IV | pas | 11/2012 | 2014-12-02 | condenacao | cvm-pas-11-2012 | fichas/pas/2014-05.md |
+| art. 2º, inciso IV | pas | 11/2012 | 2014-12-02 | condenacao | cvm-pas-11-2012 | fichas/pas/2014-10.md |
 | art. 2º, § 1º | decisao-colegiado | RJ2007/0191 | 2007-01-11 | deferido | cvm-col-20070111-d01 | fichas/colegiado/2007-01.md |
-| art. 2º, § 1º | pas | RJ2014/8013 | 2018-08-28 | parcial | cvm-pas-rj2014-8013 | fichas/pas/2018-07.md |
+| art. 2º, § 1º | pas | RJ2014/8013 | 2018-08-28 | parcial | cvm-pas-rj2014-8013 | fichas/pas/2018-13.md |
 | art. 2º, § 1º, inciso II | decisao-colegiado | RJ2007/0191 | 2007-01-11 | deferido | cvm-col-20070111-d01 | fichas/colegiado/2007-01.md |
 | art. 2º, § 1º, inciso II | decisao-colegiado | 19957.006440/2020-51 | 2020-10-06 | indeferido | cvm-col-20201006-d1940 | fichas/colegiado/2020-17.md |
 | art. 2º, § 3º | termo-compromisso | 19957.007927/2016-75; RJ2016/8134 | 2017-08-29 | aceito | cvm-col-20170829-d0776 | fichas/tc/2017-04.md |
@@ -34,7 +34,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 3º, § 2º | pas | RJ2014/8013 | 2018-08-28 | parcial | cvm-pas-rj2014-8013 | fichas/pas/2018-07.md |
+| art. 3º, § 2º | pas | RJ2014/8013 | 2018-08-28 | parcial | cvm-pas-rj2014-8013 | fichas/pas/2018-13.md |
 
 ## Citada sem dispositivo identificado
 

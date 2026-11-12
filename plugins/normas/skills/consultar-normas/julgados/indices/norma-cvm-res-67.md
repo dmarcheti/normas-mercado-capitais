@@ -192,7 +192,7 @@ Norma: [cvm/resolucoes/0067.md](../../normas/cvm/resolucoes/0067.md) (texto vige
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 33, § 5º | acordao-crsfn | 19957.009486/2017-27; RJ2017/4719 | 2022-06-07 | condenacao | crsfn-10372-100168-2021-82 | fichas/crsfn/2022-03.md |
+| art. 33, § 5º | acordao-crsfn | 19957.009486/2017-27; RJ2017/4719 | 2022-06-07 | condenacao | crsfn-10372-100168-2021-82 | fichas/crsfn/2022-04.md |
 
 ## art. 42
 

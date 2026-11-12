@@ -11,10 +11,10 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.010613/2019-01 | 2024-10-29 | parcial | cvm-pas-19957-010613-2019-01 | fichas/pas/2024-09.md |
+| pas | 19957.010613/2019-01 | 2024-10-29 | parcial | cvm-pas-19957-010613-2019-01 | fichas/pas/2024-18.md |
 | decisao-colegiado | 19957.003336/2020-13 | 2020-06-24 | deferido | cvm-col-20200624-d1844 | fichas/colegiado/2020-10.md |
-| pas | RJ2016/802 | 2019-01-29 | condenacao | cvm-pas-rj2016-0802 | fichas/pas/2019-01.md |
-| pas | RJ2013/6635 | 2015-05-26 | condenacao | cvm-pas-rj2013-6635 | fichas/pas/2015-03.md |
+| pas | RJ2016/802 | 2019-01-29 | condenacao | cvm-pas-rj2016-0802 | fichas/pas/2019-02.md |
+| pas | RJ2013/6635 | 2015-05-26 | condenacao | cvm-pas-rj2013-6635 | fichas/pas/2015-06.md |
 | decisao-colegiado | RJ2011/12826 | 2012-03-06 | deferido | cvm-col-20120306-d20 | fichas/colegiado/2012-05.md |
 | termo-compromisso | RJ2007/4932 | 2008-05-20 | aceito | cvm-col-20080520-d05 | fichas/tc/2008-04.md |
 | decisao-colegiado | RJ2006/8591 | 2007-02-26 | parcial | cvm-col-20070226-d11 | fichas/colegiado/2007-03.md |

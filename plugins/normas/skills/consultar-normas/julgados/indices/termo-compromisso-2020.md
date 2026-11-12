@@ -5,83 +5,83 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
-| Processo | Data | Resultado | Id | Ficha |
-|---|---|---|---|---|
-| 19957.010231/2019-79 | 2020-12-22 | aceito | cvm-col-20201222-d2021 | fichas/tc/2020-07.md |
-| 19957.009798/2019-01 | 2020-12-22 | outro | cvm-col-20201222-d1836 | fichas/tc/2020-07.md |
-| 19957.009798/2019-01 | 2020-12-01 | aceito | cvm-col-20201201-d1836 | fichas/tc/2020-07.md |
-| 19957.007605/2020-11 | 2020-11-24 | outro | cvm-col-20201124-d1965 | fichas/tc/2020-07.md |
-| 19957.006799/2019-95 | 2020-11-10 | aceito | cvm-col-20201110-d1964 | fichas/tc/2020-07.md |
-| 19957.009371/2019-02 | 2020-11-03 | rejeitado | cvm-col-20201103-d1963 | fichas/tc/2020-07.md |
-| 19957.009798/2019-01 | 2020-11-03 | — | cvm-col-20201103-d1836 | fichas/tc/2020-06.md |
-| 19957.002688/2020-43 | 2020-10-20 | aceito | cvm-col-20201020-d1956 | fichas/tc/2020-06.md |
-| 19957.009399/2018-51 | 2020-10-06 | aceito | cvm-col-20201006-d1936 | fichas/tc/2020-06.md |
-| 19957.000198/2020-11; 21/2013 | 2020-09-29 | rejeitado | cvm-col-20200929-d1489 | fichas/tc/2020-06.md |
-| 19957.010224/2019-77 | 2020-09-15 | aceito | cvm-col-20200915-d1911 | fichas/tc/2020-06.md |
-| 19957.008642/2019-02 | 2020-09-08 | rejeitado | cvm-col-20200908-d1900 | fichas/tc/2020-06.md |
-| 19957.004923/2016-35 | 2020-09-08 | aceito | cvm-col-20200908-d0513 | fichas/tc/2020-06.md |
-| 19957.003124/2019-94 | 2020-09-01 | aceito | cvm-col-20200901-d1669 | fichas/tc/2020-06.md |
-| 19957.006910/2019-43 | 2020-08-18 | rejeitado | cvm-col-20200818-d1884 | fichas/tc/2020-06.md |
-| 19957.009104/2019-27 | 2020-08-11 | rejeitado | cvm-col-20200811-d1881 | fichas/tc/2020-06.md |
-| 19957.009444/2019-58 | 2020-08-11 | rejeitado | cvm-col-20200811-d1878 | fichas/tc/2020-06.md |
-| 19957.008751/2019-11 | 2020-08-04 | rejeitado | cvm-col-20200804-d1872 | fichas/tc/2020-06.md |
-| 19957.004471/2019-34 | 2020-08-04 | aceito | cvm-col-20200804-d1790 | fichas/tc/2020-05.md |
-| 19957.000596/2019-95 | 2020-08-04 | rejeitado | cvm-col-20200804-d1743 | fichas/tc/2020-05.md |
-| 19957.007785/2019-99 | 2020-07-28 | rejeitado | cvm-col-20200728-d1762 | fichas/tc/2020-05.md |
-| 19957.005983/2019-18 | 2020-07-28 | rejeitado | cvm-col-20200728-d1675 | fichas/tc/2020-05.md |
-| 19957.004091/2019-08 | 2020-07-07 | rejeitado | cvm-col-20200707-d1851 | fichas/tc/2020-05.md |
-| 19957.011696/2017-85 | 2020-07-07 | aceito | cvm-col-20200707-d1392 | fichas/tc/2020-05.md |
-| 19957.011091/2019-56 | 2020-06-30 | aceito | cvm-col-20200630-d1847 | fichas/tc/2020-05.md |
-| 19957.006511/2019-82 | 2020-06-24 | rejeitado | cvm-col-20200624-d1842 | fichas/tc/2020-05.md |
-| 19957.003839/2019-47 | 2020-06-24 | aceito | cvm-col-20200624-d1841 | fichas/tc/2020-05.md |
-| 19957.005452/2019-25 | 2020-06-16 | rejeitado | cvm-col-20200616-d1837 | fichas/tc/2020-05.md |
-| 19957.007550/2019-05 | 2020-06-16 | rejeitado | cvm-col-20200616-d1833 | fichas/tc/2020-05.md |
-| 19957.010842/2017-55 | 2020-06-09 | aceito | cvm-col-20200609-d1826 | fichas/tc/2020-05.md |
-| 19957.004923/2016-35 | 2020-06-09 | aceito | cvm-col-20200609-d0513 | fichas/tc/2020-05.md |
-| 19957.007030/2019-94 | 2020-06-02 | aceito | cvm-col-20200602-d1820 | fichas/tc/2020-04.md |
-| 19957.010383/2018-91; 19957.004932/2019-79 | 2020-06-02 | rejeitado | cvm-col-20200602-d1567 | fichas/tc/2020-04.md |
-| 19957.008545/2019-10 | 2020-05-26 | aceito | cvm-col-20200526-d1811 | fichas/tc/2020-04.md |
-| 19957.005641/2018-17 | 2020-05-19 | aceito | cvm-col-20200519-d1805 | fichas/tc/2020-04.md |
-| 19957.008816/2018-48 | 2020-05-19 | rejeitado | cvm-col-20200519-d1535 | fichas/tc/2020-04.md |
-| 19957.003224/2019-11 | 2020-05-12 | aceito | cvm-col-20200512-d1801 | fichas/tc/2020-04.md |
-| 19957.007404/2019-71 | 2020-05-12 | aceito | cvm-col-20200512-d1796 | fichas/tc/2020-04.md |
-| 19957.003525/2019-44 | 2020-05-12 | aceito | cvm-col-20200512-d1795 | fichas/tc/2020-04.md |
-| 19957.009217/2018-41 | 2020-05-12 | aceito | cvm-col-20200512-d1793 | fichas/tc/2020-04.md |
-| 19957.003514/2019-64 | 2020-05-05 | aceito | cvm-col-20200505-d1794 | fichas/tc/2020-04.md |
-| 19957.006509/2019-11 | 2020-05-05 | rejeitado | cvm-col-20200505-d1791 | fichas/tc/2020-04.md |
-| 19957.004471/2019-34 | 2020-05-05 | aceito | cvm-col-20200505-d1790 | fichas/tc/2020-03.md |
-| 19957.001434/2018-93 | 2020-05-05 | rejeitado | cvm-col-20200505-d1220 | fichas/tc/2020-03.md |
-| 19957.009558/2018-17 | 2020-04-22 | rejeitado | cvm-col-20200422-d1787 | fichas/tc/2020-03.md |
-| 19957.002501/2019-78 | 2020-04-22 | aceito | cvm-col-20200422-d1786 | fichas/tc/2020-03.md |
-| 19957.004852/2019-13 | 2020-04-22 | rejeitado | cvm-col-20200422-d1785 | fichas/tc/2020-03.md |
-| 19957.007008/2019-44 | 2020-04-22 | aceito | cvm-col-20200422-d1783 | fichas/tc/2020-03.md |
-| 19957.003609/2017-16 | 2020-04-14 | aceito | cvm-col-20200414-d1782 | fichas/tc/2020-03.md |
-| 19957.010078/2018-07 | 2020-04-14 | aceito | cvm-col-20200414-d1745 | fichas/tc/2020-03.md |
-| 19957.005983/2019-18 | 2020-04-14 | outro | cvm-col-20200414-d1675 | fichas/tc/2020-03.md |
-| 19957.005801/2019-17 | 2020-04-07 | rejeitado | cvm-col-20200407-d1768 | fichas/tc/2020-03.md |
-| 19957.011763/2017-61 | 2020-04-07 | aceito | cvm-col-20200407-d1090 | fichas/tc/2020-03.md |
-| 19957.001964/2019-12 | 2020-03-31 | aceito | cvm-col-20200331-d1765 | fichas/tc/2020-03.md |
-| 19957.004415/2016-57 | 2020-03-31 | rejeitado | cvm-col-20200331-d1616 | fichas/tc/2020-02.md |
-| 19957.007862/2018-20 | 2020-03-31 | rejeitado | cvm-col-20200331-d1476 | fichas/tc/2020-02.md |
-| 19957.005128/2019-15 | 2020-03-24 | aceito | cvm-col-20200324-d1760 | fichas/tc/2020-02.md |
-| 19957.004700/2019-11 | 2020-03-24 | aceito | cvm-col-20200324-d1749 | fichas/tc/2020-02.md |
-| 19957.006426/2019-14 | 2020-03-24 | rejeitado | cvm-col-20200324-d1593 | fichas/tc/2020-02.md |
-| 19957.010958/2018-75 | 2020-03-24 | rejeitado | cvm-col-20200324-d1572 | fichas/tc/2020-02.md |
-| 19957.005290/2019-25 | 2020-03-17 | aceito | cvm-col-20200317-d1748 | fichas/tc/2020-02.md |
-| 19957.011346/2018-08 | 2020-03-10 | rejeitado | cvm-col-20200310-d1505 | fichas/tc/2020-02.md |
-| 19957.004730/2016-84 | 2020-03-10 | outro | cvm-col-20200310-d0512 | fichas/tc/2020-02.md |
-| 19957.005428/2019-96 | 2020-03-03 | aceito | cvm-col-20200303-d1730 | fichas/tc/2020-02.md |
-| 19957.009190/2018-97 | 2020-03-03 | aceito | cvm-col-20200303-d1729 | fichas/tc/2020-02.md |
-| 19957.002261/2018-21 | 2020-03-03 | aceito | cvm-col-20200303-d1728 | fichas/tc/2020-01.md |
-| 19957.005982/2019-73 | 2020-02-18 | aceito | cvm-col-20200218-d1719 | fichas/tc/2020-01.md |
-| 19957.011708/2017-71 | 2020-02-18 | aceito | cvm-col-20200218-d1475 | fichas/tc/2020-01.md |
-| 19957.007486/2018-73 | 2020-02-18 | aceito | cvm-col-20200218-d1312 | fichas/tc/2020-01.md |
-| 19957.008196/2019-28 | 2020-02-11 | rejeitado | cvm-col-20200211-d1715 | fichas/tc/2020-01.md |
-| 19957.009590/2018-01; 19957.000861/2019-35 | 2020-02-11 | aceito | cvm-col-20200211-d1321-1355 | fichas/tc/2020-01.md |
-| 19957.004388/2019-65 | 2020-02-04 | aceito | cvm-col-20200204-d1686 | fichas/tc/2020-01.md |
-| 19957.000238/2019-82 | 2020-02-04 | rejeitado | cvm-col-20200204-d1665 | fichas/tc/2020-01.md |
-| 19957.005332/2018-47 | 2020-02-04 | aceito | cvm-col-20200204-d1323 | fichas/tc/2020-01.md |
-| 19957.000754/2019-15 | 2020-01-28 | aceito | cvm-col-20200128-d1679 | fichas/tc/2020-01.md |
-| 19957.004283/2019-14; 19957.004912/2019-06 | 2020-01-28 | aceito | cvm-col-20200128-d1678 | fichas/tc/2020-01.md |
+| Processo | Data | Resultado | Ementa | Id | Ficha |
+|---|---|---|---|---|---|
+| 19957.010231/2019-79 | 2020-12-22 | aceito | O Colegiado aceitou proposta de termo de compromisso de gestora e de seu diretor responsável por critérios não equitativos na alocação de… | cvm-col-20201222-d2021 | fichas/tc/2020-07.md |
+| 19957.009798/2019-01 | 2020-12-22 | outro | O Colegiado deliberou, por unanimidade, que os fatos trazidos após a reunião de 01.12.2020 não justificam revisar a decisão que aceitou a… | cvm-col-20201222-d1836 | fichas/tc/2020-07.md |
+| 19957.009798/2019-01 | 2020-12-01 | aceito | Após pedido de vista, o Colegiado aceitou propostas de termo de compromisso de pessoas físicas e jurídicas (incluindo intermediária líder e… | cvm-col-20201201-d1836 | fichas/tc/2020-07.md |
+| 19957.007605/2020-11 | 2020-11-24 | outro | O Colegiado acompanhou a proposta do Comitê de Termo de Compromisso para limitar a dez anos, contados da primeira apreciação pelo CTC, as… | cvm-col-20201124-d1965 | fichas/tc/2020-07.md |
+| 19957.006799/2019-95 | 2020-11-10 | aceito | O Colegiado aceitou proposta de termo de compromisso do diretor de banco Banco Pine S.A., acompanhando o parecer do Comitê, pelo pagamento… | cvm-col-20201110-d1964 | fichas/tc/2020-07.md |
+| 19957.009371/2019-02 | 2020-11-03 | rejeitado | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, rejeitou proposta conjunta de termo de compromisso de três membros do… | cvm-col-20201103-d1963 | fichas/tc/2020-07.md |
+| 19957.009798/2019-01 | 2020-11-03 | — | Discussão de propostas de Termo de Compromisso de oito proponentes, em PAS instaurado pela SRE por infrações à ICVM 8/79, à ICVM 476/09 e à… | cvm-col-20201103-d1836 | fichas/tc/2020-06.md |
+| 19957.002688/2020-43 | 2020-10-20 | aceito | O Colegiado aceitou a proposta de Termo de Compromisso de um diretor de companhia aberta acusado de adquirir ações três dias antes de fato… | cvm-col-20201020-d1956 | fichas/tc/2020-06.md |
+| 19957.009399/2018-51 | 2020-10-06 | aceito | O Colegiado aceitou a proposta de Termo de Compromisso de dois investidores acusados de uso de informação relevante ainda não divulgada em… | cvm-col-20201006-d1936 | fichas/tc/2020-06.md |
+| 19957.000198/2020-11; 21/2013 | 2020-09-29 | rejeitado | O Colegiado rejeitou as propostas de termo de compromisso de agentes autônomos de investimento e de integrante do sistema de distribuição… | cvm-col-20200929-d1489 | fichas/tc/2020-06.md |
+| 19957.010224/2019-77 | 2020-09-15 | aceito | O Colegiado aceitou, por unanimidade, proposta de termo de compromisso da B3 e de dois executivos, acompanhando o parecer do Comitê… | cvm-col-20200915-d1911 | fichas/tc/2020-06.md |
+| 19957.008642/2019-02 | 2020-09-08 | rejeitado | O Colegiado rejeitou propostas de termo de compromisso de acionista controlador indireto, administradores e conselheiros acusados em… | cvm-col-20200908-d1900 | fichas/tc/2020-06.md |
+| 19957.004923/2016-35 | 2020-09-08 | aceito | O Colegiado, por maioria, aceitou proposta de adesão ao termo de compromisso já firmado por outros acusados, com base no art. 84 da ICVM… | cvm-col-20200908-d0513 | fichas/tc/2020-06.md |
+| 19957.003124/2019-94 | 2020-09-01 | aceito | O Colegiado aceitou proposta conjunta de termo de compromisso de auditor independente pessoa jurídica e de seu responsável técnico, por… | cvm-col-20200901-d1669 | fichas/tc/2020-06.md |
+| 19957.006910/2019-43 | 2020-08-18 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de banco e de um executivo acusados de operações sem intuito de transferência de… | cvm-col-20200818-d1884 | fichas/tc/2020-06.md |
+| 19957.009104/2019-27 | 2020-08-11 | rejeitado | O Colegiado rejeitou, por unanimidade, proposta de termo de compromisso conjunta de dois diretores financeiros de companhia de energia, em… | cvm-col-20200811-d1881 | fichas/tc/2020-06.md |
+| 19957.009444/2019-58 | 2020-08-11 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de companhias e de seu administrador acusados de oferta sem registro (art. 19, Lei… | cvm-col-20200811-d1878 | fichas/tc/2020-06.md |
+| 19957.008751/2019-11 | 2020-08-04 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de investidor acusado de manipulação de preços (Instrução CVM 8/79) por operações de… | cvm-col-20200804-d1872 | fichas/tc/2020-06.md |
+| 19957.004471/2019-34 | 2020-08-04 | aceito | O Colegiado aceitou o aditamento ao Termo de Compromisso nº 28/2020, acompanhando o Comitê: ressarcimento de R$ 1.247,63 ao fundo PERFIN… | cvm-col-20200804-d1790 | fichas/tc/2020-05.md |
+| 19957.000596/2019-95 | 2020-08-04 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de sociedade distribuidora e de sua diretora em processo sobre oferta de debêntures… | cvm-col-20200804-d1743 | fichas/tc/2020-05.md |
+| 19957.007785/2019-99 | 2020-07-28 | rejeitado | O Colegiado rejeitou, por unanimidade, proposta de termo de compromisso do dirigente de companhia estatal de saneamento, em PAS por… | cvm-col-20200728-d1762 | fichas/tc/2020-05.md |
+| 19957.005983/2019-18 | 2020-07-28 | rejeitado | O Colegiado rejeitou, acompanhando o parecer do Comitê, a proposta conjunta de termo de compromisso de dezenove administradores da Coelba… | cvm-col-20200728-d1675 | fichas/tc/2020-05.md |
+| 19957.004091/2019-08 | 2020-07-07 | rejeitado | O Colegiado rejeitou, por unanimidade, acompanhando o Comitê, proposta de termo de compromisso de investidor acusado de manipulação de… | cvm-col-20200707-d1851 | fichas/tc/2020-05.md |
+| 19957.011696/2017-85 | 2020-07-07 | aceito | O Colegiado aceitou, por unanimidade, a proposta de termo de compromisso do proponente, agente autônomo de investimento, pela administração… | cvm-col-20200707-d1392 | fichas/tc/2020-05.md |
+| 19957.011091/2019-56 | 2020-06-30 | aceito | O Colegiado, acompanhando o parecer do Comitê, aceitou proposta de termo de compromisso de ex-diretor de relações com investidores de… | cvm-col-20200630-d1847 | fichas/tc/2020-05.md |
+| 19957.006511/2019-82 | 2020-06-24 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de investidor acusado de manipulação de preços por ofertas artificiais (layering)… | cvm-col-20200624-d1842 | fichas/tc/2020-05.md |
+| 19957.003839/2019-47 | 2020-06-24 | aceito | O Colegiado aceitou propostas de termo de compromisso do Banco Mercantil de Investimentos (emissor) e do Banco Votorantim (coordenador… | cvm-col-20200624-d1841 | fichas/tc/2020-05.md |
+| 19957.005452/2019-25 | 2020-06-16 | rejeitado | O Colegiado rejeitou, por unanimidade, acompanhando o parecer do Comitê, proposta de termo de compromisso de auditor independente e… | cvm-col-20200616-d1837 | fichas/tc/2020-05.md |
+| 19957.007550/2019-05 | 2020-06-16 | rejeitado | O Colegiado, por unanimidade e contrariamente ao parecer do Comitê, rejeitou proposta de termo de compromisso de R$ 1.080.000,00, em… | cvm-col-20200616-d1833 | fichas/tc/2020-05.md |
+| 19957.010842/2017-55 | 2020-06-09 | aceito | O Colegiado aceitou, por unanimidade, acompanhando o parecer do Comitê, propostas de termo de compromisso de três diretores de companhia… | cvm-col-20200609-d1826 | fichas/tc/2020-05.md |
+| 19957.004923/2016-35 | 2020-06-09 | aceito | O Colegiado aceitou, por unanimidade, acompanhando o voto do relator, proposta de termo de compromisso de gestora e diretor responsável… | cvm-col-20200609-d0513 | fichas/tc/2020-05.md |
+| 19957.007030/2019-94 | 2020-06-02 | aceito | O Colegiado, por unanimidade e acompanhando o Parecer do Comitê, aceitou proposta de termo de compromisso de R$ 208.068,00, em parcela… | cvm-col-20200602-d1820 | fichas/tc/2020-04.md |
+| 19957.010383/2018-91; 19957.004932/2019-79 | 2020-06-02 | rejeitado | O Colegiado rejeitou, por unanimidade, acompanhando o parecer do Comitê, proposta de termo de compromisso de acionista credor, devedora e… | cvm-col-20200602-d1567 | fichas/tc/2020-04.md |
+| 19957.008545/2019-10 | 2020-05-26 | aceito | O Colegiado aceitou, por unanimidade, acompanhando o parecer do Comitê, proposta de termo de compromisso de acionista controlador da Linx… | cvm-col-20200526-d1811 | fichas/tc/2020-04.md |
+| 19957.005641/2018-17 | 2020-05-19 | aceito | O Colegiado, por unanimidade, aceitou proposta de termo de compromisso da gestora de dois fundos e de um emissor de ordens, acompanhando o… | cvm-col-20200519-d1805 | fichas/tc/2020-04.md |
+| 19957.008816/2018-48 | 2020-05-19 | rejeitado | O Colegiado rejeitou, por unanimidade, acompanhando o Comitê, proposta de termo de compromisso de companhia e de dois sócios acusados de… | cvm-col-20200519-d1535 | fichas/tc/2020-04.md |
+| 19957.003224/2019-11 | 2020-05-12 | aceito | O Colegiado aceitou, por maioria, proposta de termo de compromisso de fundos e da gestora, acionistas de companhia aberta, por… | cvm-col-20200512-d1801 | fichas/tc/2020-04.md |
+| 19957.007404/2019-71 | 2020-05-12 | aceito | O Colegiado, por unanimidade e acompanhando o Parecer do Comitê, aceitou proposta de termo de compromisso de R$ 250.000,00 do proponente… | cvm-col-20200512-d1796 | fichas/tc/2020-04.md |
+| 19957.003525/2019-44 | 2020-05-12 | aceito | O Colegiado, por unanimidade, aceitou proposta de termo de compromisso da J&F Investimentos, acionista controladora da Alpargatas, por… | cvm-col-20200512-d1795 | fichas/tc/2020-04.md |
+| 19957.009217/2018-41 | 2020-05-12 | aceito | O Colegiado aceitou, por unanimidade, acompanhando o parecer do Comitê, proposta de termo de compromisso de ex-DRI e atual DRI de companhia… | cvm-col-20200512-d1793 | fichas/tc/2020-04.md |
+| 19957.003514/2019-64 | 2020-05-05 | aceito | O Colegiado, acompanhando o parecer do Comitê, aceitou proposta de termo de compromisso de superintendente de banco que se manifestou na… | cvm-col-20200505-d1794 | fichas/tc/2020-04.md |
+| 19957.006509/2019-11 | 2020-05-05 | rejeitado | O Colegiado, por unanimidade, rejeitou proposta de termo de compromisso de R$ 25.000,00 de administrador acusado de votar contas da… | cvm-col-20200505-d1791 | fichas/tc/2020-04.md |
+| 19957.004471/2019-34 | 2020-05-05 | aceito | O Colegiado aceitou, por unanimidade, acompanhando o parecer do Comitê, proposta conjunta de termo de compromisso de investidora e seu… | cvm-col-20200505-d1790 | fichas/tc/2020-03.md |
+| 19957.001434/2018-93 | 2020-05-05 | rejeitado | O Colegiado rejeitou, por unanimidade, acompanhando o parecer do Comitê, nova proposta de termo de compromisso de pessoa vinculada que… | cvm-col-20200505-d1220 | fichas/tc/2020-03.md |
+| 19957.009558/2018-17 | 2020-04-22 | rejeitado | O Colegiado rejeitou, por unanimidade, proposta conjunta de termo de compromisso de auditor independente e de seu responsável técnico (R$… | cvm-col-20200422-d1787 | fichas/tc/2020-03.md |
+| 19957.002501/2019-78 | 2020-04-22 | aceito | O Colegiado aceitou, por unanimidade, proposta de termo de compromisso de auditora independente, acompanhando o Comitê, pelo pagamento de… | cvm-col-20200422-d1786 | fichas/tc/2020-03.md |
+| 19957.004852/2019-13 | 2020-04-22 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de um acusado por operações fraudulentas no mercado (itens I e II, alínea c, da… | cvm-col-20200422-d1785 | fichas/tc/2020-03.md |
+| 19957.007008/2019-44 | 2020-04-22 | aceito | O Colegiado aceitou, por unanimidade, proposta de termo de compromisso de R$ 200.000,00 de coordenador líder de oferta pública de cotas de… | cvm-col-20200422-d1783 | fichas/tc/2020-03.md |
+| 19957.003609/2017-16 | 2020-04-14 | aceito | O Colegiado aceitou a proposta conjunta de termo de compromisso da Azul S.A., de executivos, do Banco Itaú BBA e de representantes, por… | cvm-col-20200414-d1782 | fichas/tc/2020-03.md |
+| 19957.010078/2018-07 | 2020-04-14 | aceito | O Colegiado aceitou, por unanimidade, proposta de termo de compromisso de diretor responsável por corretora, acompanhando o Parecer do… | cvm-col-20200414-d1745 | fichas/tc/2020-03.md |
+| 19957.005983/2019-18 | 2020-04-14 | outro | O Colegiado determinou o retorno ao Comitê do processo de propostas de termo de compromisso de 19 administradores da Companhia de… | cvm-col-20200414-d1675 | fichas/tc/2020-03.md |
+| 19957.005801/2019-17 | 2020-04-07 | rejeitado | O Colegiado rejeitou, por unanimidade, proposta de termo de compromisso de R$ 10.000,00 de investidor acusado de manipulação de preços… | cvm-col-20200407-d1768 | fichas/tc/2020-03.md |
+| 19957.011763/2017-61 | 2020-04-07 | aceito | O Colegiado aceitou proposta de termo de compromisso de administradora de fundos e seu diretor responsável por inadequação de controles… | cvm-col-20200407-d1090 | fichas/tc/2020-03.md |
+| 19957.001964/2019-12 | 2020-03-31 | aceito | O Colegiado aceitou a proposta conjunta de termo de compromisso de dois diretores da Multiplus S.A., acusados de não mencionar deficiência… | cvm-col-20200331-d1765 | fichas/tc/2020-03.md |
+| 19957.004415/2016-57 | 2020-03-31 | rejeitado | O Colegiado rejeitou, por unanimidade, duas propostas de termo de compromisso (R$ 300.000,00 da controladora indireta da Oi e R$ 100.000,00… | cvm-col-20200331-d1616 | fichas/tc/2020-02.md |
+| 19957.007862/2018-20 | 2020-03-31 | rejeitado | O Colegiado rejeitou todas as propostas de termo de compromisso de proponentes acusados de operação fraudulenta e falha na fiscalização de… | cvm-col-20200331-d1476 | fichas/tc/2020-02.md |
+| 19957.005128/2019-15 | 2020-03-24 | aceito | O Colegiado aceitou, por unanimidade, proposta de termo de compromisso de R$ 150.000,00 de diretor financeiro e de relações com… | cvm-col-20200324-d1760 | fichas/tc/2020-02.md |
+| 19957.004700/2019-11 | 2020-03-24 | aceito | O Colegiado aceitou, por unanimidade, proposta conjunta de termo de compromisso de companhia ofertante e de seu administrador, acompanhando… | cvm-col-20200324-d1749 | fichas/tc/2020-02.md |
+| 19957.006426/2019-14 | 2020-03-24 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de empresa e sócios por oferta de valores mobiliários sem registro (Lei 6.385/76… | cvm-col-20200324-d1593 | fichas/tc/2020-02.md |
+| 19957.010958/2018-75 | 2020-03-24 | rejeitado | O Colegiado rejeitou a proposta conjunta de termo de compromisso de gestora de fundos e de seu diretor responsável por carteiras, cuja… | cvm-col-20200324-d1572 | fichas/tc/2020-02.md |
+| 19957.005290/2019-25 | 2020-03-17 | aceito | O Colegiado aceitou a proposta de termo de compromisso de diretor de relações com investidores de companhia aberta, acusado de divulgação… | cvm-col-20200317-d1748 | fichas/tc/2020-02.md |
+| 19957.011346/2018-08 | 2020-03-10 | rejeitado | O Colegiado rejeitou, por unanimidade, proposta de termo de compromisso da CELESC, acionista da CASAN, por infração aos arts. 239 e 240 da… | cvm-col-20200310-d1505 | fichas/tc/2020-02.md |
+| 19957.004730/2016-84 | 2020-03-10 | outro | O Colegiado aceitou propostas de termo de compromisso de dois dos proponentes e rejeitou as de outros três, acompanhando o Comitê, por… | cvm-col-20200310-d0512 | fichas/tc/2020-02.md |
+| 19957.005428/2019-96 | 2020-03-03 | aceito | O Colegiado aceitou, por unanimidade, proposta de termo de compromisso de R$ 300.000,00 por divulgação incompleta de fato relevante (art… | cvm-col-20200303-d1730 | fichas/tc/2020-02.md |
+| 19957.009190/2018-97 | 2020-03-03 | aceito | O Colegiado aceitou proposta de termo de compromisso de conselheiro que negociou ações no período vedado, antes da divulgação de ITR (ICVM… | cvm-col-20200303-d1729 | fichas/tc/2020-02.md |
+| 19957.002261/2018-21 | 2020-03-03 | aceito | O Colegiado aceitou proposta de termo de compromisso da KPMG Auditores Independentes e de seu sócio responsável técnico por deficiências na… | cvm-col-20200303-d1728 | fichas/tc/2020-01.md |
+| 19957.005982/2019-73 | 2020-02-18 | aceito | O Colegiado aceitou a proposta de termo de compromisso de um diretor da Azul S.A. por venda de ações dois dias antes de fato relevante… | cvm-col-20200218-d1719 | fichas/tc/2020-01.md |
+| 19957.011708/2017-71 | 2020-02-18 | aceito | O Colegiado aceitou proposta complementar de termo de compromisso do grupo Morgan Stanley em PAS sobre manipulação de preços da OGXP3, com… | cvm-col-20200218-d1475 | fichas/tc/2020-01.md |
+| 19957.007486/2018-73 | 2020-02-18 | aceito | O Colegiado manteve a aceitação da proposta de termo de compromisso de R$ 35.000,00 de um dos proponentes, acompanhando o Comitê (art. 87… | cvm-col-20200218-d1312 | fichas/tc/2020-01.md |
+| 19957.008196/2019-28 | 2020-02-11 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de diretor responsável por administração de carteiras, em apuração de operação… | cvm-col-20200211-d1715 | fichas/tc/2020-01.md |
+| 19957.009590/2018-01; 19957.000861/2019-35 | 2020-02-11 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou a proposta conjunta de termo de compromisso de duas empresas e de quinze… | cvm-col-20200211-d1321-1355 | fichas/tc/2020-01.md |
+| 19957.004388/2019-65 | 2020-02-04 | aceito | O Colegiado, por unanimidade, aceitou proposta de termo de compromisso do diretor de relações com investidores da Kroton, com pagamento de… | cvm-col-20200204-d1686 | fichas/tc/2020-01.md |
+| 19957.000238/2019-82 | 2020-02-04 | rejeitado | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou proposta conjunta de termo de compromisso de R$ 500.000,00 da Unick Sociedade… | cvm-col-20200204-d1665 | fichas/tc/2020-01.md |
+| 19957.005332/2018-47 | 2020-02-04 | aceito | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou proposta de termo de compromisso de diretor de companhia aberta por atraso… | cvm-col-20200204-d1323 | fichas/tc/2020-01.md |
+| 19957.000754/2019-15 | 2020-01-28 | aceito | O Colegiado, por unanimidade, aceitou proposta de termo de compromisso de três diretores da Biosev, por infração aos arts. 153 e 160 da Lei… | cvm-col-20200128-d1679 | fichas/tc/2020-01.md |
+| 19957.004283/2019-14; 19957.004912/2019-06 | 2020-01-28 | aceito | O Colegiado, por unanimidade, aceitou as propostas de termo de compromisso do diretor de RI da Vale em dois PAS, por omissão de fato… | cvm-col-20200128-d1678 | fichas/tc/2020-01.md |
 
 Fim do subíndice.

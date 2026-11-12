@@ -411,12 +411,12 @@ Este subíndice tem 436 linhas e uma leitura única é cortada em silêncio pert
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.007976/2020-94 | 2026-09-08 | parcial | cvm-pas-19957-007976-2020-94 | fichas/pas/2026-03.md |
+| pas | 19957.007976/2020-94 | 2026-09-08 | parcial | cvm-pas-19957-007976-2020-94 | fichas/pas/2026-04.md |
 | decisao-colegiado | 19957.003474/2025-07 | 2026-08-25 | parcial | cvm-col-20260825-d3540 | fichas/colegiado/2026-03.md |
 | decisao-colegiado | 19957.009862/2026-74 | 2026-07-14 | provido | cvm-col-20260714-d3573 | fichas/colegiado/2026-03.md |
 | decisao-colegiado | 19957.007639/2025-10 | 2025-09-02 | deferido | cvm-col-20250902-d3340 | fichas/colegiado/2025-09.md |
 | decisao-colegiado | 19957.006603/2025-19; 19957.006664/2025-78 | 2025-06-16 | deferido | cvm-col-20250616-d3297 | fichas/colegiado/2025-05.md |
-| pas | 19957.007626/2019-94 | 2024-12-03 | parcial | cvm-pas-19957-007626-2019-94 | fichas/pas/2024-10.md |
+| pas | 19957.007626/2019-94 | 2024-12-03 | parcial | cvm-pas-19957-007626-2019-94 | fichas/pas/2024-20.md |
 | decisao-colegiado | 05/2023; 85/2022; 19957.007933/2018-94 | 2024-10-09 | outro | cvm-col-20241009-d2878 | fichas/colegiado/2024-11.md |
 | decisao-colegiado | 05/2023; 85/2022; 19957.007933/2018-94 | 2024-10-02 | — | cvm-col-20241002-d2878 | fichas/colegiado/2024-10.md |
 | decisao-colegiado | 05/2023; 85/2022; 19957.007933/2018-94 | 2024-10-02 | — | cvm-col-20241002-d2878-r2 | fichas/colegiado/2024-11.md |
@@ -427,7 +427,7 @@ Este subíndice tem 436 linhas e uma leitura única é cortada em silêncio pert
 | decisao-colegiado | 85/2022; 19957.007933/2018-94 | 2023-11-08 | — | cvm-col-20231108-d2878 | fichas/colegiado/2023-12.md |
 | decisao-colegiado | 85/2022; 19957.007933/2018-94 | 2023-11-08 | — | cvm-col-20231108-d2878-r2 | fichas/colegiado/2023-12.md |
 | decisao-colegiado | 85/2022; 19957.007933/2018-94 | 2023-10-11 | — | cvm-col-20231011-d2878 | fichas/colegiado/2023-11.md |
-| pas | 19957.009206/2018-61 | 2023-04-11 | parcial | cvm-pas-19957-009206-2018-61 | fichas/pas/2023-02.md |
+| pas | 19957.009206/2018-61 | 2023-04-11 | parcial | cvm-pas-19957-009206-2018-61 | fichas/pas/2023-03.md |
 | decisao-colegiado | 19957.012664/2022-64 | 2022-12-20 | parcial | cvm-col-20221220-d2727 | fichas/colegiado/2022-17.md |
 | decisao-colegiado | — | 2022-12-02 | outro | cvm-col-20221202-d2793 | fichas/colegiado/2022-16.md |
 | decisao-colegiado | RJ2015/3702; 19957.007771/2019-75 | 2022-08-16 | outro | cvm-col-20220816-d9718 | fichas/colegiado/2022-12.md |

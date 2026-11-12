@@ -21,8 +21,8 @@ Norma: [leis/lei-08668.md](../../normas/leis/lei-08668.md) (texto vigente hoje; 
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 3º | pas | 19957.003286/2024-90 | 2026-10-22 | — | cvm-pas-19957-003286-2024-90 | fichas/pas/2026-03.md |
-| art. 3º | pas | 19957.005363/2021-01 | 2026-09-08 | absolvicao | cvm-pas-19957-005363-2021-01 | fichas/pas/2026-02.md |
+| art. 3º | pas | 19957.003286/2024-90 | 2026-10-22 | — | cvm-pas-19957-003286-2024-90 | fichas/pas/2026-06.md |
+| art. 3º | pas | 19957.005363/2021-01 | 2026-09-08 | absolvicao | cvm-pas-19957-005363-2021-01 | fichas/pas/2026-04.md |
 
 ## art. 4º
 
@@ -44,20 +44,20 @@ Norma: [leis/lei-08668.md](../../normas/leis/lei-08668.md) (texto vigente hoje; 
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 6º | acordao-crsfn | 19957.002315/2021-53 | 2024-08-13 | parcial | crsfn-10372-100150-2022-61 | fichas/crsfn/2024-04.md |
-| art. 6º | pas | 19957.002315/2021-53 | 2022-07-05 | parcial | cvm-pas-19957-002315-2021-53 | fichas/pas/2022-03.md |
+| art. 6º | acordao-crsfn | 19957.002315/2021-53 | 2024-08-13 | parcial | crsfn-10372-100150-2022-61 | fichas/crsfn/2024-05.md |
+| art. 6º | pas | 19957.002315/2021-53 | 2022-07-05 | parcial | cvm-pas-19957-002315-2021-53 | fichas/pas/2022-06.md |
 
 ## art. 7º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 7º | acordao-crsfn | 19957.002315/2021-53 | 2024-08-13 | parcial | crsfn-10372-100150-2022-61 | fichas/crsfn/2024-04.md |
+| art. 7º | acordao-crsfn | 19957.002315/2021-53 | 2024-08-13 | parcial | crsfn-10372-100150-2022-61 | fichas/crsfn/2024-05.md |
 | art. 7º | decisao-colegiado | RJ2001/11828 | 2003-02-25 | outro | cvm-col-20030225-d03 | fichas/colegiado/2003-02.md |
 | art. 7º | decisao-colegiado | RJ2005/0589 | 2005-05-31 | outro | cvm-col-20050531-d03 | fichas/colegiado/2005-09.md |
 | art. 7º | termo-compromisso | 19957.008699/2019-01; 03/2016 | 2021-02-23 | rejeitado | cvm-col-20210223-d1920 | fichas/tc/2021-01.md |
-| art. 7º | pas | RJ2001/4187 | 2002-04-18 | parcial | cvm-pas-rj2001-4187 | fichas/pas/2002-02.md |
-| art. 7º | pas | 19957.002315/2021-53 | 2022-07-05 | parcial | cvm-pas-19957-002315-2021-53 | fichas/pas/2022-03.md |
-| art. 7º | pas | 19957.007976/2020-94 | 2026-09-08 | parcial | cvm-pas-19957-007976-2020-94 | fichas/pas/2026-03.md |
+| art. 7º | pas | RJ2001/4187 | 2002-04-18 | parcial | cvm-pas-rj2001-4187 | fichas/pas/2002-03.md |
+| art. 7º | pas | 19957.002315/2021-53 | 2022-07-05 | parcial | cvm-pas-19957-002315-2021-53 | fichas/pas/2022-06.md |
+| art. 7º | pas | 19957.007976/2020-94 | 2026-09-08 | parcial | cvm-pas-19957-007976-2020-94 | fichas/pas/2026-04.md |
 | art. 7º, inciso VI | decisao-colegiado | RJ2001/11828 | 2003-02-25 | outro | cvm-col-20030225-d03 | fichas/colegiado/2003-02.md |
 
 ## art. 8º
@@ -71,9 +71,9 @@ Norma: [leis/lei-08668.md](../../normas/leis/lei-08668.md) (texto vigente hoje; 
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 9º | acordao-crsfn | 19957.002315/2021-53 | 2024-08-13 | parcial | crsfn-10372-100150-2022-61 | fichas/crsfn/2024-04.md |
+| art. 9º | acordao-crsfn | 19957.002315/2021-53 | 2024-08-13 | parcial | crsfn-10372-100150-2022-61 | fichas/crsfn/2024-05.md |
 | art. 9º | decisao-colegiado | RJ2001/11828 | 2003-02-25 | outro | cvm-col-20030225-d03 | fichas/colegiado/2003-02.md |
-| art. 9º | pas | 19957.002315/2021-53 | 2022-07-05 | parcial | cvm-pas-19957-002315-2021-53 | fichas/pas/2022-03.md |
+| art. 9º | pas | 19957.002315/2021-53 | 2022-07-05 | parcial | cvm-pas-19957-002315-2021-53 | fichas/pas/2022-06.md |
 
 ## art. 10
 

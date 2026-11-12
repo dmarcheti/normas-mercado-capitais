@@ -43,11 +43,11 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 19957.007114/2022-23 | 2025-10-15 | condenacao | crsfn-19957-007114-2022-23 | fichas/crsfn/2025-05.md |
-| pas | 19957.007114/2022-23 | 2024-10-15 | condenacao | cvm-pas-19957-007114-2022-23 | fichas/pas/2024-09.md |
-| pas | 19957.010194/2019-07 | 2024-06-13 | parcial | cvm-pas-19957-010194-2019-07 | fichas/pas/2024-04.md |
-| pas | 19957.010053/2021-09 | 2024-06-13 | parcial | cvm-pas-19957-010053-2021-09 | fichas/pas/2024-03.md |
-| pas | 19957.003680/2021-85 | 2023-11-30 | condenacao | cvm-pas-19957-003680-2021-85 | fichas/pas/2023-08.md |
+| acordao-crsfn | 19957.007114/2022-23 | 2025-10-15 | condenacao | crsfn-19957-007114-2022-23 | fichas/crsfn/2025-06.md |
+| pas | 19957.007114/2022-23 | 2024-10-15 | condenacao | cvm-pas-19957-007114-2022-23 | fichas/pas/2024-17.md |
+| pas | 19957.010194/2019-07 | 2024-06-13 | parcial | cvm-pas-19957-010194-2019-07 | fichas/pas/2024-07.md |
+| pas | 19957.010053/2021-09 | 2024-06-13 | parcial | cvm-pas-19957-010053-2021-09 | fichas/pas/2024-06.md |
+| pas | 19957.003680/2021-85 | 2023-11-30 | condenacao | cvm-pas-19957-003680-2021-85 | fichas/pas/2023-15.md |
 | termo-compromisso | 19957.001524/2020-07 | 2023-04-04 | rejeitado | cvm-col-20230404-d2781 | fichas/tc/2023-02.md |
 | decisao-colegiado | 19957.006483/2019-01 | 2019-09-10 | nao-provido | cvm-col-20190910-d1530 | fichas/colegiado/2019-14.md |
 | decisao-colegiado | 19957.003689/2017-18 | 2018-10-30 | outro | cvm-col-20181030-d0819 | fichas/colegiado/2018-19.md |

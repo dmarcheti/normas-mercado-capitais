@@ -11,7 +11,7 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2017/1298 | 2018-12-11 | absolvicao | cvm-pas-rj2017-1298 | fichas/pas/2018-11.md |
+| pas | RJ2017/1298 | 2018-12-11 | absolvicao | cvm-pas-rj2017-1298 | fichas/pas/2018-22.md |
 | termo-compromisso | RJ2014/13902 | 2016-04-26 | aceito | cvm-col-20160426-d0184 | fichas/tc/2016-02.md |
 | termo-compromisso | RJ2015/6735 | 2016-04-19 | — | cvm-col-20160419-d0180 | fichas/tc/2016-01.md |
 | termo-compromisso | RJ2014/7072 | 2015-12-15 | rejeitado | cvm-col-20151215-d9984 | fichas/tc/2015-05.md |

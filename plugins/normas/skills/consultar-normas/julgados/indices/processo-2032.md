@@ -7,8 +7,8 @@ Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho rel
 
 Número normalizado: NUP `99999-999999-AAAA-DD`; processo antigo `rj2015-13791` (sigla em minúsculas, ano, número com 4 dígitos); numeração curta dos PAS `NN-AAAA`. Procure pelo número normalizado ou pela forma do julgado. Dois julgados do mesmo processo (um PAS e o termo de compromisso ou o acórdão do CRSFN dele) aparecem com o mesmo número.
 
-| Processo (normalizado) | Forma no julgado | Tipo | Data | Id | Ficha |
-|---|---|---|---|---|---|
-| ia2032-0099 | IA32/99 | acordao-crsfn | 2008-04-10 | crsfn-4170-2 | fichas/crsfn/2008-01.md |
+| Processo (normalizado) | Forma no julgado | Tipo | Data | Ementa | Id | Ficha |
+|---|---|---|---|---|---|---|
+| ia2032-0099 | IA32/99 | acordao-crsfn | 2008-04-10 | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Utilização de taxa de depreciação de aeronaves – Descumprimento de determinação da… | crsfn-4170-2 | fichas/crsfn/2008-02.md |
 
 Fim do subíndice.

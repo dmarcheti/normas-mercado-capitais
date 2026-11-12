@@ -24,539 +24,539 @@ Este subíndice tem 562 linhas e uma leitura única é cortada em silêncio pert
 | 2013-02 | 445 |
 | 2013-01 | 498 |
 
-| Processo | Data | Resultado | Id | Ficha |
-|---|---|---|---|---|
-| RJ2013/11745 | 2013-12-23 | deferido | cvm-col-20131223-d11 | fichas/colegiado/2013-25.md |
-| RJ2012/8804 | 2013-12-23 | nao-provido | cvm-col-20131223-d10 | fichas/colegiado/2013-25.md |
-| RJ2012/6182 | 2013-12-23 | nao-provido | cvm-col-20131223-d09 | fichas/colegiado/2013-25.md |
-| RJ2012/6181 | 2013-12-23 | nao-provido | cvm-col-20131223-d08 | fichas/colegiado/2013-25.md |
-| RJ2013/13063 | 2013-12-23 | nao-provido | cvm-col-20131223-d07 | fichas/colegiado/2013-25.md |
-| RJ2013/13062 | 2013-12-23 | nao-provido | cvm-col-20131223-d06 | fichas/colegiado/2013-25.md |
-| RJ2013/13061 | 2013-12-23 | nao-provido | cvm-col-20131223-d05 | fichas/colegiado/2013-25.md |
-| RJ2013/10067 | 2013-12-23 | parcial | cvm-col-20131223-d04 | fichas/colegiado/2013-25.md |
-| RJ2013/12006 | 2013-12-23 | deferido | cvm-col-20131223-d03 | fichas/colegiado/2013-25.md |
-| RJ2013/11623 | 2013-12-19 | deferido | cvm-col-20131219-d01 | fichas/colegiado/2013-25.md |
-| — | 2013-12-18 | deferido | cvm-col-20131218-d01 | fichas/colegiado/2013-24.md |
-| RJ2011/5211 | 2013-12-17 | outro | cvm-col-20131217-d7944 | fichas/colegiado/2013-24.md |
-| 11/2013; RJ2003/1074; RJ2008/11441; RJ2011/3464 | 2013-12-17 | deferido | cvm-col-20131217-d29 | fichas/colegiado/2013-24.md |
-| RJ2010/16884 | 2013-12-17 | nao-provido | cvm-col-20131217-d28 | fichas/colegiado/2013-24.md |
-| RJ2013/9441 | 2013-12-17 | deferido | cvm-col-20131217-d27 | fichas/colegiado/2013-24.md |
-| RJ2013/13148 | 2013-12-17 | outro | cvm-col-20131217-d26 | fichas/colegiado/2013-24.md |
-| RJ2013/13144 | 2013-12-17 | outro | cvm-col-20131217-d25 | fichas/colegiado/2013-24.md |
-| 01/2013; RJ2013/9746 | 2013-12-17 | outro | cvm-col-20131217-d24 | fichas/colegiado/2013-24.md |
-| 02/2013; RJ2013/9745 | 2013-12-17 | outro | cvm-col-20131217-d23 | fichas/colegiado/2013-24.md |
-| RJ2010/14527 | 2013-12-17 | nao-provido | cvm-col-20131217-d22 | fichas/colegiado/2013-24.md |
-| RJ2012/14319 | 2013-12-17 | nao-provido | cvm-col-20131217-d21 | fichas/colegiado/2013-24.md |
-| RJ2011/0170 | 2013-12-17 | outro | cvm-col-20131217-d20 | fichas/colegiado/2013-24.md |
-| RJ2013/4911 | 2013-12-17 | — | cvm-col-20131217-d19 | fichas/colegiado/2013-24.md |
-| RJ2013/6295 | 2013-12-17 | — | cvm-col-20131217-d18 | fichas/colegiado/2013-24.md |
-| — | 2013-12-17 | outro | cvm-col-20131217-d17 | fichas/colegiado/2013-24.md |
-| RJ2013/4659 | 2013-12-17 | outro | cvm-col-20131217-d16 | fichas/colegiado/2013-24.md |
-| RJ2013/1859 | 2013-12-17 | outro | cvm-col-20131217-d15 | fichas/colegiado/2013-24.md |
-| 16/2008 | 2013-12-17 | outro | cvm-col-20131217-d14 | fichas/colegiado/2013-24.md |
-| RJ2008/8046 | 2013-12-17 | deferido | cvm-col-20131217-d05 | fichas/colegiado/2013-23.md |
-| 14/2009 | 2013-12-17 | nao-provido | cvm-col-20131217-d04 | fichas/colegiado/2013-23.md |
-| RJ2012/7123 | 2013-12-17 | nao-provido | cvm-col-20131217-d03 | fichas/colegiado/2013-23.md |
-| RJ2009/13346 | 2013-12-17 | nao-provido | cvm-col-20131217-d01 | fichas/colegiado/2013-23.md |
-| 09/2013; RJ2013/8780 | 2013-12-10 | outro | cvm-col-20131210-d11 | fichas/colegiado/2013-23.md |
-| RJ2013/12501 | 2013-12-10 | nao-provido | cvm-col-20131210-d10 | fichas/colegiado/2013-23.md |
-| RJ2013/7388 | 2013-12-10 | nao-provido | cvm-col-20131210-d09 | fichas/colegiado/2013-23.md |
-| RJ2013/7386 | 2013-12-10 | nao-provido | cvm-col-20131210-d08 | fichas/colegiado/2013-23.md |
-| RJ2013/5583 | 2013-12-10 | nao-provido | cvm-col-20131210-d07 | fichas/colegiado/2013-23.md |
-| RJ2011/7381 | 2013-12-10 | parcial | cvm-col-20131210-d06 | fichas/colegiado/2013-23.md |
-| RJ2013/12714 | 2013-12-10 | nao-provido | cvm-col-20131210-d05 | fichas/colegiado/2013-23.md |
-| 29/2000 | 2013-12-10 | conhecimento | cvm-col-20131210-d01 | fichas/colegiado/2013-23.md |
-| 06/2013; RJ2003/11499 | 2013-12-04 | outro | cvm-col-20131204-d01 | fichas/colegiado/2013-23.md |
-| 409/2004; RJ2012/13688 | 2013-12-03 | — | cvm-col-20131203-d08 | fichas/colegiado/2013-23.md |
-| RJ2012/1976 | 2013-12-03 | nao-provido | cvm-col-20131203-d07 | fichas/colegiado/2013-23.md |
-| RJ2012/8222 | 2013-12-03 | deferido | cvm-col-20131203-d06 | fichas/colegiado/2013-23.md |
-| RJ2012/9832 | 2013-12-03 | outro | cvm-col-20131203-d05 | fichas/colegiado/2013-23.md |
-| RJ2012/7867 | 2013-12-03 | outro | cvm-col-20131203-d04 | fichas/colegiado/2013-23.md |
-| RJ2012/14390 | 2013-12-03 | outro | cvm-col-20131203-d03 | fichas/colegiado/2013-23.md |
-| RJ2011/4430 | 2013-12-03 | nao-provido | cvm-col-20131203-d02 | fichas/colegiado/2013-23.md |
-| 06/2013; RJ2003/11499 | 2013-11-27 | — | cvm-col-20131127-d01 | fichas/colegiado/2013-23.md |
-| 409/2004; RJ2012/13688 | 2013-11-26 | — | cvm-col-20131126-d06 | fichas/colegiado/2013-22.md |
-| 409/2004; RJ2013/12178 | 2013-11-26 | outro | cvm-col-20131126-d05 | fichas/colegiado/2013-22.md |
-| 08/2005; 168/1991; RJ2004/0140 | 2013-11-26 | outro | cvm-col-20131126-d04 | fichas/colegiado/2013-22.md |
-| RJ2013/8744 | 2013-11-26 | nao-provido | cvm-col-20131126-d03 | fichas/colegiado/2013-22.md |
-| RJ2013/8860 | 2013-11-26 | deferido | cvm-col-20131126-d02 | fichas/colegiado/2013-22.md |
-| RJ2010/15139 | 2013-11-26 | outro | cvm-col-20131126-d01 | fichas/colegiado/2013-22.md |
-| 409/2004; RJ2012/13688 | 2013-11-19 | — | cvm-col-20131119-d15 | fichas/colegiado/2013-22.md |
-| RJ2013/7141 | 2013-11-19 | parcial | cvm-col-20131119-d14 | fichas/colegiado/2013-22.md |
-| RJ2013/5993 | 2013-11-19 | — | cvm-col-20131119-d13 | fichas/colegiado/2013-22.md |
-| RJ2013/10444 | 2013-11-19 | nao-provido | cvm-col-20131119-d12 | fichas/colegiado/2013-22.md |
-| RJ2013/11397 | 2013-11-19 | nao-provido | cvm-col-20131119-d11 | fichas/colegiado/2013-22.md |
-| RJ2013/10199 | 2013-11-19 | nao-provido | cvm-col-20131119-d10 | fichas/colegiado/2013-22.md |
-| RJ2013/10197 | 2013-11-19 | nao-provido | cvm-col-20131119-d09 | fichas/colegiado/2013-22.md |
-| 400/2003; RJ2011/9292 | 2013-11-19 | outro | cvm-col-20131119-d08 | fichas/colegiado/2013-22.md |
-| 07/2013; 391/2003; RJ2013/5710 | 2013-11-19 | outro | cvm-col-20131119-d07 | fichas/colegiado/2013-22.md |
-| RJ2013/3353 | 2013-11-19 | outro | cvm-col-20131119-d06 | fichas/colegiado/2013-22.md |
-| RJ2012/13291 | 2013-11-19 | nao-provido | cvm-col-20131119-d02 | fichas/colegiado/2013-22.md |
-| RJ2012/11534 | 2013-11-19 | nao-provido | cvm-col-20131119-d01 | fichas/colegiado/2013-22.md |
-| RJ2013/8860 | 2013-11-12 | — | cvm-col-20131112-d07 | fichas/colegiado/2013-22.md |
-| RJ2013/10195 | 2013-11-12 | nao-provido | cvm-col-20131112-d06 | fichas/colegiado/2013-22.md |
-| RJ2013/9993 | 2013-11-12 | nao-provido | cvm-col-20131112-d05 | fichas/colegiado/2013-21.md |
-| RJ2011/13590 | 2013-11-12 | nao-provido | cvm-col-20131112-d04 | fichas/colegiado/2013-21.md |
-| SP2013/0397 | 2013-11-12 | parcial | cvm-col-20131112-d03 | fichas/colegiado/2013-21.md |
-| RJ2013/8860 | 2013-11-05 | — | cvm-col-20131105-d07 | fichas/colegiado/2013-21.md |
-| RJ2013/4310 | 2013-11-05 | outro | cvm-col-20131105-d06 | fichas/colegiado/2013-21.md |
-| SP2013/0366 | 2013-11-05 | deferido | cvm-col-20131105-d05 | fichas/colegiado/2013-21.md |
-| RJ2013/10110 | 2013-11-05 | nao-provido | cvm-col-20131105-d04 | fichas/colegiado/2013-21.md |
-| RJ2013/9958 | 2013-11-05 | nao-provido | cvm-col-20131105-d03 | fichas/colegiado/2013-21.md |
-| RJ2012/12946 | 2013-11-05 | outro | cvm-col-20131105-d02 | fichas/colegiado/2013-21.md |
-| 15/2011; RJ2011/1898 | 2013-10-30 | outro | cvm-col-20131030-d01 | fichas/colegiado/2013-21.md |
-| RJ2013/2270 | 2013-10-29 | outro | cvm-col-20131029-d18 | fichas/colegiado/2013-21.md |
-| RJ2013/10228 | 2013-10-29 | nao-provido | cvm-col-20131029-d17 | fichas/colegiado/2013-21.md |
-| RJ2012/13328 | 2013-10-29 | outro | cvm-col-20131029-d16 | fichas/colegiado/2013-21.md |
-| RJ2012/4162 | 2013-10-29 | nao-provido | cvm-col-20131029-d15 | fichas/colegiado/2013-21.md |
-| RJ2013/4313 | 2013-10-29 | outro | cvm-col-20131029-d14 | fichas/colegiado/2013-21.md |
-| RJ2013/7865 | 2013-10-29 | deferido | cvm-col-20131029-d13 | fichas/colegiado/2013-21.md |
-| RJ2013/10521 | 2013-10-29 | deferido | cvm-col-20131029-d12 | fichas/colegiado/2013-21.md |
-| RJ2012/9185 | 2013-10-29 | nao-provido | cvm-col-20131029-d11 | fichas/colegiado/2013-21.md |
-| RJ2012/9082 | 2013-10-29 | conhecimento | cvm-col-20131029-d10 | fichas/colegiado/2013-21.md |
-| RJ2012/8096 | 2013-10-29 | nao-provido | cvm-col-20131029-d09 | fichas/colegiado/2013-21.md |
-| RJ2012/7211 | 2013-10-29 | nao-provido | cvm-col-20131029-d08 | fichas/colegiado/2013-21.md |
-| RJ2012/5020 | 2013-10-29 | provido | cvm-col-20131029-d07 | fichas/colegiado/2013-21.md |
-| RJ2012/4745 | 2013-10-29 | provido | cvm-col-20131029-d06 | fichas/colegiado/2013-21.md |
-| RJ2011/6318 | 2013-10-29 | nao-provido | cvm-col-20131029-d05 | fichas/colegiado/2013-21.md |
-| RJ2011/4924 | 2013-10-29 | nao-provido | cvm-col-20131029-d04 | fichas/colegiado/2013-20.md |
-| 16/2008 | 2013-10-29 | outro | cvm-col-20131029-d03 | fichas/colegiado/2013-20.md |
-| RJ2013/8708 | 2013-10-29 | deferido | cvm-col-20131029-d02 | fichas/colegiado/2013-20.md |
-| RJ2013/7956 | 2013-10-22 | outro | cvm-col-20131022-d14 | fichas/colegiado/2013-20.md |
-| RJ2013/10227 | 2013-10-22 | nao-provido | cvm-col-20131022-d13 | fichas/colegiado/2013-20.md |
-| RJ2013/10225 | 2013-10-22 | nao-provido | cvm-col-20131022-d12 | fichas/colegiado/2013-20.md |
-| RJ2013/10003 | 2013-10-22 | nao-provido | cvm-col-20131022-d11 | fichas/colegiado/2013-20.md |
-| RJ2013/10001 | 2013-10-22 | nao-provido | cvm-col-20131022-d10 | fichas/colegiado/2013-20.md |
-| RJ2013/10327 | 2013-10-22 | nao-provido | cvm-col-20131022-d09 | fichas/colegiado/2013-20.md |
-| RJ2013/10226 | 2013-10-22 | parcial | cvm-col-20131022-d08 | fichas/colegiado/2013-20.md |
-| RJ2013/10232 | 2013-10-22 | nao-provido | cvm-col-20131022-d07 | fichas/colegiado/2013-20.md |
-| RJ2013/10230 | 2013-10-22 | nao-provido | cvm-col-20131022-d06 | fichas/colegiado/2013-20.md |
-| RJ1999/2682 | 2013-10-22 | nao-provido | cvm-col-20131022-d03 | fichas/colegiado/2013-20.md |
-| 358/2002; RJ2013/3945 | 2013-10-22 | nao-provido | cvm-col-20131022-d01 | fichas/colegiado/2013-20.md |
-| RJ2010/0963 | 2013-10-15 | outro | cvm-col-20131015-d29 | fichas/colegiado/2013-20.md |
-| 05/2010; 483/2010; RJ2010/12770 | 2013-10-15 | outro | cvm-col-20131015-d28 | fichas/colegiado/2013-20.md |
-| RJ2013/10477 | 2013-10-15 | nao-provido | cvm-col-20131015-d27 | fichas/colegiado/2013-20.md |
-| RJ2013/10223 | 2013-10-15 | nao-provido | cvm-col-20131015-d26 | fichas/colegiado/2013-20.md |
-| RJ2013/10194 | 2013-10-15 | parcial | cvm-col-20131015-d25 | fichas/colegiado/2013-20.md |
-| RJ2013/10011 | 2013-10-15 | nao-provido | cvm-col-20131015-d24 | fichas/colegiado/2013-20.md |
-| RJ2013/10224 | 2013-10-15 | nao-provido | cvm-col-20131015-d23 | fichas/colegiado/2013-20.md |
-| RJ2013/10222 | 2013-10-15 | nao-provido | cvm-col-20131015-d22 | fichas/colegiado/2013-20.md |
-| RJ2013/10220 | 2013-10-15 | nao-provido | cvm-col-20131015-d21 | fichas/colegiado/2013-20.md |
-| RJ2013/10218 | 2013-10-15 | nao-provido | cvm-col-20131015-d20 | fichas/colegiado/2013-20.md |
-| RJ2013/10021 | 2013-10-15 | nao-provido | cvm-col-20131015-d19 | fichas/colegiado/2013-20.md |
-| RJ2013/10020 | 2013-10-15 | nao-provido | cvm-col-20131015-d18 | fichas/colegiado/2013-20.md |
-| RJ2013/10018 | 2013-10-15 | nao-provido | cvm-col-20131015-d17 | fichas/colegiado/2013-19.md |
-| RJ2013/10017 | 2013-10-15 | nao-provido | cvm-col-20131015-d16 | fichas/colegiado/2013-19.md |
-| RJ2013/10015 | 2013-10-15 | parcial | cvm-col-20131015-d15 | fichas/colegiado/2013-19.md |
-| RJ2013/10013 | 2013-10-15 | nao-provido | cvm-col-20131015-d14 | fichas/colegiado/2013-19.md |
-| RJ2013/10012 | 2013-10-15 | nao-provido | cvm-col-20131015-d13 | fichas/colegiado/2013-19.md |
-| RJ2013/10010 | 2013-10-15 | nao-provido | cvm-col-20131015-d12 | fichas/colegiado/2013-19.md |
-| RJ2013/10008 | 2013-10-15 | nao-provido | cvm-col-20131015-d11 | fichas/colegiado/2013-19.md |
-| RJ2013/10006 | 2013-10-15 | nao-provido | cvm-col-20131015-d10 | fichas/colegiado/2013-19.md |
-| RJ2013/10005 | 2013-10-15 | nao-provido | cvm-col-20131015-d09 | fichas/colegiado/2013-19.md |
-| RJ2012/14288 | 2013-10-15 | nao-provido | cvm-col-20131015-d08 | fichas/colegiado/2013-19.md |
-| RJ2013/4048 | 2013-10-15 | nao-provido | cvm-col-20131015-d07 | fichas/colegiado/2013-19.md |
-| RJ2013/1290 | 2013-10-15 | deferido | cvm-col-20131015-d06 | fichas/colegiado/2013-19.md |
-| RJ2012/7564 | 2013-10-15 | nao-provido | cvm-col-20131015-d02 | fichas/colegiado/2013-19.md |
-| SP2007/0139 | 2013-10-15 | nao-provido | cvm-col-20131015-d01 | fichas/colegiado/2013-19.md |
-| — | 2013-10-11 | outro | cvm-col-20131011-d01 | fichas/colegiado/2013-19.md |
-| RJ2013/5756 | 2013-10-09 | — | cvm-col-20131009-d01 | fichas/colegiado/2013-19.md |
-| RJ2012/2904 | 2013-10-08 | nao-provido | cvm-col-20131008-d10 | fichas/colegiado/2013-19.md |
-| RJ2013/7830 | 2013-10-08 | outro | cvm-col-20131008-d09 | fichas/colegiado/2013-19.md |
-| RJ2013/5369 | 2013-10-08 | nao-provido | cvm-col-20131008-d08 | fichas/colegiado/2013-19.md |
-| RJ2013/9962 | 2013-10-08 | nao-provido | cvm-col-20131008-d07 | fichas/colegiado/2013-19.md |
-| RJ2013/9961 | 2013-10-08 | nao-provido | cvm-col-20131008-d06 | fichas/colegiado/2013-19.md |
-| RJ2013/9959 | 2013-10-08 | nao-provido | cvm-col-20131008-d05 | fichas/colegiado/2013-19.md |
-| RJ2013/9957 | 2013-10-08 | nao-provido | cvm-col-20131008-d04 | fichas/colegiado/2013-19.md |
-| RJ2011/7940 | 2013-10-08 | outro | cvm-col-20131008-d03 | fichas/colegiado/2013-19.md |
-| RJ2012/9832 | 2013-10-08 | — | cvm-col-20131008-d02 | fichas/colegiado/2013-18.md |
-| RJ2013/5756 | 2013-10-08 | — | cvm-col-20131008-d01-r2 | fichas/colegiado/2013-18.md |
-| RJ2013/0740 | 2013-10-01 | outro | cvm-col-20131001-d19 | fichas/colegiado/2013-18.md |
-| RJ2013/10000 | 2013-10-01 | nao-provido | cvm-col-20131001-d18 | fichas/colegiado/2013-18.md |
-| RJ2013/9998 | 2013-10-01 | nao-provido | cvm-col-20131001-d17 | fichas/colegiado/2013-18.md |
-| RJ2013/10041 | 2013-10-01 | nao-provido | cvm-col-20131001-d16 | fichas/colegiado/2013-18.md |
-| RJ2013/10039 | 2013-10-01 | nao-provido | cvm-col-20131001-d15 | fichas/colegiado/2013-18.md |
-| RJ2013/9911 | 2013-10-01 | nao-provido | cvm-col-20131001-d14 | fichas/colegiado/2013-18.md |
-| RJ2013/9948 | 2013-10-01 | nao-provido | cvm-col-20131001-d13 | fichas/colegiado/2013-18.md |
-| RJ2013/9946 | 2013-10-01 | nao-provido | cvm-col-20131001-d12 | fichas/colegiado/2013-18.md |
-| RJ2013/9943 | 2013-10-01 | nao-provido | cvm-col-20131001-d11 | fichas/colegiado/2013-18.md |
-| RJ2013/9940 | 2013-10-01 | nao-provido | cvm-col-20131001-d10 | fichas/colegiado/2013-18.md |
-| RJ2013/9939 | 2013-10-01 | nao-provido | cvm-col-20131001-d09 | fichas/colegiado/2013-18.md |
-| RJ2013/9938 | 2013-10-01 | nao-provido | cvm-col-20131001-d08 | fichas/colegiado/2013-18.md |
-| RJ2013/9909 | 2013-10-01 | nao-provido | cvm-col-20131001-d07 | fichas/colegiado/2013-18.md |
-| RJ2013/9907 | 2013-10-01 | nao-provido | cvm-col-20131001-d06 | fichas/colegiado/2013-18.md |
-| RJ2013/9906 | 2013-10-01 | nao-provido | cvm-col-20131001-d05 | fichas/colegiado/2013-18.md |
-| RJ2013/9684 | 2013-10-01 | nao-provido | cvm-col-20131001-d04 | fichas/colegiado/2013-18.md |
-| RJ2013/9897 | 2013-10-01 | nao-provido | cvm-col-20131001-d03 | fichas/colegiado/2013-18.md |
-| RJ2013/9871 | 2013-10-01 | parcial | cvm-col-20131001-d02 | fichas/colegiado/2013-18.md |
-| RJ2013/9574 | 2013-10-01 | nao-provido | cvm-col-20131001-d01 | fichas/colegiado/2013-18.md |
-| RJ2013/7298 | 2013-10-01 | indeferido | cvm-col-20131001-d01-r2 | fichas/colegiado/2013-18.md |
-| 08/2013; 358/2002; 480/2009; RJ2013/5758 | 2013-09-25 | outro | cvm-col-20130925-d01 | fichas/colegiado/2013-18.md |
-| RJ2013/9823 | 2013-09-24 | parcial | cvm-col-20130924-d13 | fichas/colegiado/2013-18.md |
-| RJ2013/9803 | 2013-09-24 | parcial | cvm-col-20130924-d12 | fichas/colegiado/2013-18.md |
-| RJ2013/9802 | 2013-09-24 | parcial | cvm-col-20130924-d11 | fichas/colegiado/2013-18.md |
-| RJ2013/9765 | 2013-09-24 | parcial | cvm-col-20130924-d10 | fichas/colegiado/2013-17.md |
-| RJ2013/9698 | 2013-09-24 | parcial | cvm-col-20130924-d09 | fichas/colegiado/2013-17.md |
-| RJ2013/9685 | 2013-09-24 | parcial | cvm-col-20130924-d08 | fichas/colegiado/2013-17.md |
-| 472/2008; RJ2011/12610 | 2013-09-24 | — | cvm-col-20130924-d07 | fichas/colegiado/2013-17.md |
-| 521/2012; RJ2011/14772 | 2013-09-24 | outro | cvm-col-20130924-d06 | fichas/colegiado/2013-17.md |
-| 400/2003 | 2013-09-24 | outro | cvm-col-20130924-d05 | fichas/colegiado/2013-17.md |
-| RJ2012/8371 | 2013-09-24 | outro | cvm-col-20130924-d04 | fichas/colegiado/2013-17.md |
-| RJ2012/8093 | 2013-09-24 | outro | cvm-col-20130924-d03 | fichas/colegiado/2013-17.md |
-| RJ2012/5036 | 2013-09-24 | outro | cvm-col-20130924-d02 | fichas/colegiado/2013-17.md |
-| RJ2012/8087 | 2013-09-24 | outro | cvm-col-20130924-d01 | fichas/colegiado/2013-17.md |
-| RJ2013/9746 | 2013-09-18 | outro | cvm-col-20130918-d03 | fichas/colegiado/2013-17.md |
-| RJ2013/9745 | 2013-09-18 | outro | cvm-col-20130918-d02 | fichas/colegiado/2013-17.md |
-| 13/2012; RJ2012/15066 | 2013-09-18 | outro | cvm-col-20130918-d01 | fichas/colegiado/2013-17.md |
-| RJ2012/0251; RJ2012/0252 | 2013-09-17 | nao-provido | cvm-col-20130917-d08 | fichas/colegiado/2013-17.md |
-| RJ2013/5756 | 2013-09-17 | — | cvm-col-20130917-d07 | fichas/colegiado/2013-17.md |
-| RJ2012/9557 | 2013-09-17 | outro | cvm-col-20130917-d06 | fichas/colegiado/2013-17.md |
-| RJ2012/10347 | 2013-09-17 | outro | cvm-col-20130917-d05 | fichas/colegiado/2013-17.md |
-| SP2011/0099 | 2013-09-17 | outro | cvm-col-20130917-d04 | fichas/colegiado/2013-17.md |
-| RJ2013/9694 | 2013-09-17 | parcial | cvm-col-20130917-d03 | fichas/colegiado/2013-17.md |
-| RJ2012/12063 | 2013-09-17 | nao-provido | cvm-col-20130917-d02 | fichas/colegiado/2013-17.md |
-| RJ2012/1046 | 2013-09-17 | parcial | cvm-col-20130917-d01 | fichas/colegiado/2013-17.md |
-| RJ2013/8607 | 2013-09-10 | deferido | cvm-col-20130910-d12 | fichas/colegiado/2013-17.md |
-| RJ2012/7465 | 2013-09-10 | nao-provido | cvm-col-20130910-d11 | fichas/colegiado/2013-17.md |
-| RJ2013/7536 | 2013-09-10 | nao-provido | cvm-col-20130910-d10 | fichas/colegiado/2013-16.md |
-| RJ2013/7335 | 2013-09-10 | nao-provido | cvm-col-20130910-d09 | fichas/colegiado/2013-16.md |
-| RJ2013/7334 | 2013-09-10 | nao-provido | cvm-col-20130910-d08 | fichas/colegiado/2013-16.md |
-| RJ2013/7332 | 2013-09-10 | nao-provido | cvm-col-20130910-d07 | fichas/colegiado/2013-16.md |
-| RJ2013/7208; RJ2013/7212; RJ2013/7232; RJ2013/7234; RJ2013/7235; RJ2013/7237; RJ2013/7238; RJ2013/7240; RJ2013/7242; RJ2013/7243; RJ2013/7246; RJ2013/7252; RJ2013/7254; RJ2013/7256; RJ2013/7257 | 2013-09-10 | nao-provido | cvm-col-20130910-d06 | fichas/colegiado/2013-16.md |
-| RJ2013/7054 | 2013-09-10 | deferido | cvm-col-20130910-d05 | fichas/colegiado/2013-16.md |
-| RJ2003/1074; RJ2008/11441; RJ2011/3464 | 2013-09-10 | outro | cvm-col-20130910-d04 | fichas/colegiado/2013-16.md |
-| RJ2003/1074; RJ2008/11441; RJ2011/3464 | 2013-09-04 | — | cvm-col-20130904-d01 | fichas/colegiado/2013-16.md |
-| RJ2012/4464 | 2013-09-03 | outro | cvm-col-20130903-d05 | fichas/colegiado/2013-16.md |
-| RJ1990/1867 | 2013-09-03 | deferido | cvm-col-20130903-d04 | fichas/colegiado/2013-16.md |
-| RJ2011/14560 | 2013-09-03 | outro | cvm-col-20130903-d03 | fichas/colegiado/2013-16.md |
-| RJ2008/4035 | 2013-09-03 | outro | cvm-col-20130903-d02 | fichas/colegiado/2013-16.md |
-| RJ2011/9487 | 2013-09-03 | outro | cvm-col-20130903-d01 | fichas/colegiado/2013-16.md |
-| RJ2003/1074; RJ2008/11441; RJ2011/3464 | 2013-08-28 | — | cvm-col-20130828-d01 | fichas/colegiado/2013-16.md |
-| RJ2013/5929 | 2013-08-27 | deferido | cvm-col-20130827-d03 | fichas/colegiado/2013-16.md |
-| 494/2011; RJ2012/10374 | 2013-08-27 | outro | cvm-col-20130827-d01 | fichas/colegiado/2013-16.md |
-| 06/2013; RJ2003/11499 | 2013-08-23 | parcial | cvm-col-20130823-d01 | fichas/colegiado/2013-16.md |
-| RJ2003/1074; RJ2008/11441; RJ2011/3464 | 2013-08-21 | — | cvm-col-20130821-d01 | fichas/colegiado/2013-16.md |
-| RJ2012/7132 | 2013-08-20 | outro | cvm-col-20130820-d13 | fichas/colegiado/2013-15.md |
-| 409/2004; RJ2013/8435 | 2013-08-20 | outro | cvm-col-20130820-d12 | fichas/colegiado/2013-15.md |
-| RJ2013/7210 | 2013-08-20 | nao-provido | cvm-col-20130820-d11 | fichas/colegiado/2013-15.md |
-| RJ2013/7209 | 2013-08-20 | nao-provido | cvm-col-20130820-d10 | fichas/colegiado/2013-15.md |
-| RJ2010/14254 | 2013-08-20 | provido | cvm-col-20130820-d09 | fichas/colegiado/2013-15.md |
-| SP2011/0056 | 2013-08-20 | nao-provido | cvm-col-20130820-d08 | fichas/colegiado/2013-15.md |
-| RJ2013/6421 | 2013-08-20 | outro | cvm-col-20130820-d07 | fichas/colegiado/2013-15.md |
-| RJ2013/8780 | 2013-08-20 | outro | cvm-col-20130820-d04 | fichas/colegiado/2013-15.md |
-| RJ2009/10850 | 2013-08-20 | nao-provido | cvm-col-20130820-d03 | fichas/colegiado/2013-15.md |
-| RJ2009/10849 | 2013-08-20 | nao-provido | cvm-col-20130820-d02 | fichas/colegiado/2013-15.md |
-| 358/2002; 480/2009; RJ2013/5758 | 2013-08-20 | outro | cvm-col-20130820-d01 | fichas/colegiado/2013-15.md |
-| RJ2003/1074; RJ2008/11441; RJ2011/3464 | 2013-08-14 | — | cvm-col-20130814-d01 | fichas/colegiado/2013-15.md |
-| 028/2013 | 2013-08-13 | outro | cvm-col-20130813-d09 | fichas/colegiado/2013-15.md |
-| SP2013/0207 | 2013-08-13 | deferido | cvm-col-20130813-d08 | fichas/colegiado/2013-15.md |
-| RJ2013/7388 | 2013-08-13 | nao-provido | cvm-col-20130813-d07 | fichas/colegiado/2013-15.md |
-| RJ2013/7387 | 2013-08-13 | nao-provido | cvm-col-20130813-d06 | fichas/colegiado/2013-15.md |
-| RJ2013/7386 | 2013-08-13 | nao-provido | cvm-col-20130813-d05 | fichas/colegiado/2013-15.md |
-| RJ2013/6461 | 2013-08-13 | nao-provido | cvm-col-20130813-d04 | fichas/colegiado/2013-15.md |
-| RJ2013/1890 | 2013-08-13 | deferido | cvm-col-20130813-d03 | fichas/colegiado/2013-15.md |
-| RJ2012/0130 | 2013-08-13 | outro | cvm-col-20130813-d02 | fichas/colegiado/2013-14.md |
-| RJ2012/2986 | 2013-08-13 | nao-provido | cvm-col-20130813-d01 | fichas/colegiado/2013-14.md |
-| SP2013/0267 | 2013-08-09 | parcial | cvm-col-20130809-d01 | fichas/colegiado/2013-14.md |
-| 08/2012; 359/2002; RJ2012/10996 | 2013-08-07 | outro | cvm-col-20130807-d01 | fichas/colegiado/2013-14.md |
-| 05/2013; RJ2013/6438 | 2013-08-06 | deferido | cvm-col-20130806-d06 | fichas/colegiado/2013-14.md |
-| RJ2012/13362 | 2013-08-06 | indeferido | cvm-col-20130806-d05 | fichas/colegiado/2013-14.md |
-| RJ2012/3787 | 2013-08-06 | indeferido | cvm-col-20130806-d04 | fichas/colegiado/2013-14.md |
-| SP2013/0331 | 2013-08-06 | indeferido | cvm-col-20130806-d03 | fichas/colegiado/2013-14.md |
-| 472/2008; RJ2013/4565 | 2013-08-06 | — | cvm-col-20130806-d02 | fichas/colegiado/2013-14.md |
-| 472/2008; RJ2012/13220; RJ2012/15177 | 2013-08-06 | indeferido | cvm-col-20130806-d01 | fichas/colegiado/2013-14.md |
-| RJ2013/7307 | 2013-08-02 | deferido | cvm-col-20130802-d01 | fichas/colegiado/2013-14.md |
-| RJ2012/14764 | 2013-07-30 | nao-provido | cvm-col-20130730-d15 | fichas/colegiado/2013-14.md |
-| RJ2012/8806 | 2013-07-30 | provido | cvm-col-20130730-d14 | fichas/colegiado/2013-14.md |
-| RJ2013/3537 | 2013-07-30 | deferido | cvm-col-20130730-d13 | fichas/colegiado/2013-14.md |
-| RJ2013/5454 | 2013-07-30 | nao-provido | cvm-col-20130730-d12 | fichas/colegiado/2013-14.md |
-| RJ2013/7398 | 2013-07-30 | nao-provido | cvm-col-20130730-d11 | fichas/colegiado/2013-14.md |
-| RJ2013/7402 | 2013-07-30 | nao-provido | cvm-col-20130730-d10 | fichas/colegiado/2013-14.md |
-| RJ2013/7401 | 2013-07-30 | nao-provido | cvm-col-20130730-d09 | fichas/colegiado/2013-14.md |
-| RJ2013/7399 | 2013-07-30 | nao-provido | cvm-col-20130730-d08 | fichas/colegiado/2013-14.md |
-| RJ2013/5496 | 2013-07-30 | nao-provido | cvm-col-20130730-d07 | fichas/colegiado/2013-14.md |
-| RJ2012/11394 | 2013-07-30 | nao-provido | cvm-col-20130730-d06 | fichas/colegiado/2013-14.md |
-| RJ2012/7765 | 2013-07-30 | outro | cvm-col-20130730-d05 | fichas/colegiado/2013-13.md |
-| RJ2012/7133 | 2013-07-30 | outro | cvm-col-20130730-d04 | fichas/colegiado/2013-13.md |
-| — | 2013-07-30 | outro | cvm-col-20130730-d01 | fichas/colegiado/2013-13.md |
-| RJ2011/6066 | 2013-07-23 | outro | cvm-col-20130723-d06 | fichas/colegiado/2013-13.md |
-| SP2013/0235 | 2013-07-23 | outro | cvm-col-20130723-d05 | fichas/colegiado/2013-13.md |
-| RJ2013/0267 | 2013-07-23 | outro | cvm-col-20130723-d04 | fichas/colegiado/2013-13.md |
-| RJ2012/3951 | 2013-07-23 | provido | cvm-col-20130723-d03 | fichas/colegiado/2013-13.md |
-| RJ2012/4742 | 2013-07-23 | nao-provido | cvm-col-20130723-d02 | fichas/colegiado/2013-13.md |
-| RJ2012/15551 | 2013-07-23 | deferido | cvm-col-20130723-d01 | fichas/colegiado/2013-13.md |
-| RJ2012/15551 | 2013-07-16 | — | cvm-col-20130716-d01 | fichas/colegiado/2013-13.md |
-| — | 2013-07-09 | outro | cvm-col-20130709-d09 | fichas/colegiado/2013-13.md |
-| RJ2013/0565 | 2013-07-09 | deferido | cvm-col-20130709-d08 | fichas/colegiado/2013-13.md |
-| 20/2009 | 2013-07-09 | outro | cvm-col-20130709-d07 | fichas/colegiado/2013-13.md |
-| RJ2012/3663 | 2013-07-09 | nao-provido | cvm-col-20130709-d06 | fichas/colegiado/2013-13.md |
-| RJ2012/10919 | 2013-07-09 | nao-provido | cvm-col-20130709-d05 | fichas/colegiado/2013-13.md |
-| RJ2009/12118 | 2013-07-09 | parcial | cvm-col-20130709-d04 | fichas/colegiado/2013-13.md |
-| RJ2009/12110 | 2013-07-09 | parcial | cvm-col-20130709-d03 | fichas/colegiado/2013-13.md |
-| RJ2003/1074; RJ2008/11441; RJ2011/3464 | 2013-07-03 | — | cvm-col-20130703-d01 | fichas/colegiado/2013-13.md |
-| RJ2012/4696 | 2013-07-02 | outro | cvm-col-20130702-d05 | fichas/colegiado/2013-13.md |
-| RJ2013/318 | 2013-07-02 | outro | cvm-col-20130702-d04 | fichas/colegiado/2013-13.md |
-| RJ2013/5710 | 2013-07-02 | outro | cvm-col-20130702-d03 | fichas/colegiado/2013-13.md |
-| RJ2013/7059 | 2013-06-25 | outro | cvm-col-20130625-d06 | fichas/colegiado/2013-12.md |
-| RJ2013/430 | 2013-06-25 | deferido | cvm-col-20130625-d05 | fichas/colegiado/2013-12.md |
-| RJ2013/1452 | 2013-06-25 | deferido | cvm-col-20130625-d04 | fichas/colegiado/2013-12.md |
-| RJ2012/8019 | 2013-06-25 | deferido | cvm-col-20130625-d03 | fichas/colegiado/2013-12.md |
-| RJ2010/9101 | 2013-06-25 | outro | cvm-col-20130625-d02 | fichas/colegiado/2013-12.md |
-| 09/2012; RJ2011/8260 | 2013-06-19 | outro | cvm-col-20130619-d01 | fichas/colegiado/2013-12.md |
-| RJ2013/1628 | 2013-06-18 | outro | cvm-col-20130618-d05 | fichas/colegiado/2013-12.md |
-| SP2013/0267 | 2013-06-18 | outro | cvm-col-20130618-d04 | fichas/colegiado/2013-12.md |
-| RJ2013/5182 | 2013-06-18 | nao-provido | cvm-col-20130618-d03 | fichas/colegiado/2013-12.md |
-| RJ2012/13700 | 2013-06-18 | nao-provido | cvm-col-20130618-d02 | fichas/colegiado/2013-12.md |
-| 04/2013; RJ2009/12670 | 2013-06-18 | deferido | cvm-col-20130618-d01 | fichas/colegiado/2013-12.md |
-| RJ2013/5583 | 2013-06-13 | nao-provido | cvm-col-20130613-d10 | fichas/colegiado/2013-12.md |
-| RJ2012/14854 | 2013-06-13 | deferido | cvm-col-20130613-d09 | fichas/colegiado/2013-12.md |
-| RJ2013/5452 | 2013-06-13 | nao-provido | cvm-col-20130613-d08 | fichas/colegiado/2013-12.md |
-| RJ2013/5225 | 2013-06-13 | nao-provido | cvm-col-20130613-d07 | fichas/colegiado/2013-12.md |
-| RJ2013/0349; RJ2013/0350; RJ2013/0351 | 2013-06-13 | nao-provido | cvm-col-20130613-d06 | fichas/colegiado/2013-12.md |
-| RJ2012/12177 | 2013-06-13 | outro | cvm-col-20130613-d02 | fichas/colegiado/2013-12.md |
-| 05/2008 | 2013-06-13 | nao-provido | cvm-col-20130613-d01 | fichas/colegiado/2013-12.md |
-| RJ2013/6438 | 2013-06-12 | outro | cvm-col-20130612-d02 | fichas/colegiado/2013-12.md |
-| RJ2003/11499 | 2013-06-12 | outro | cvm-col-20130612-d01 | fichas/colegiado/2013-12.md |
-| RJ2012/8335 | 2013-06-11 | deferido | cvm-col-20130611-d01 | fichas/colegiado/2013-11.md |
-| RJ2013/5608 | 2013-06-04 | indeferido | cvm-col-20130604-d09 | fichas/colegiado/2013-11.md |
-| RJ2013/5542 | 2013-06-04 | nao-provido | cvm-col-20130604-d08 | fichas/colegiado/2013-11.md |
-| RJ2013/5520 | 2013-06-04 | nao-provido | cvm-col-20130604-d07 | fichas/colegiado/2013-11.md |
-| RJ2013/5484 | 2013-06-04 | nao-provido | cvm-col-20130604-d06 | fichas/colegiado/2013-11.md |
-| RJ2012/12858 | 2013-06-04 | nao-provido | cvm-col-20130604-d05 | fichas/colegiado/2013-11.md |
-| RJ2011/11171 | 2013-06-04 | outro | cvm-col-20130604-d04 | fichas/colegiado/2013-11.md |
-| RJ2010/15523 | 2013-06-04 | outro | cvm-col-20130604-d03 | fichas/colegiado/2013-11.md |
-| RJ2012/8972 | 2013-06-04 | nao-provido | cvm-col-20130604-d02 | fichas/colegiado/2013-11.md |
-| RJ2012/8114 | 2013-06-04 | nao-provido | cvm-col-20130604-d01 | fichas/colegiado/2013-11.md |
-| RJ2013/5968 | 2013-05-28 | outro | cvm-col-20130528-d15 | fichas/colegiado/2013-11.md |
-| 003/2013 | 2013-05-28 | outro | cvm-col-20130528-d14 | fichas/colegiado/2013-11.md |
-| RJ2011/10821 | 2013-05-28 | outro | cvm-col-20130528-d13 | fichas/colegiado/2013-11.md |
-| RJ2013/5448 | 2013-05-28 | nao-provido | cvm-col-20130528-d12 | fichas/colegiado/2013-11.md |
-| RJ2012/13291 | 2013-05-28 | provido | cvm-col-20130528-d11 | fichas/colegiado/2013-11.md |
-| 472/2008; RJ2012/13220; RJ2012/15177 | 2013-05-28 | — | cvm-col-20130528-d10 | fichas/colegiado/2013-11.md |
-| RJ2013/0315 | 2013-05-28 | nao-provido | cvm-col-20130528-d09 | fichas/colegiado/2013-11.md |
-| RJ2012/14744 | 2013-05-28 | outro | cvm-col-20130528-d08 | fichas/colegiado/2013-11.md |
-| 497/2011; SP2013/0225 | 2013-05-28 | outro | cvm-col-20130528-d07 | fichas/colegiado/2013-11.md |
-| 505/2011; SP2013/0219 | 2013-05-28 | outro | cvm-col-20130528-d06 | fichas/colegiado/2013-11.md |
-| RJ2008/11645 | 2013-05-28 | nao-provido | cvm-col-20130528-d05 | fichas/colegiado/2013-11.md |
-| RJ1998/4571 | 2013-05-28 | parcial | cvm-col-20130528-d04 | fichas/colegiado/2013-11.md |
-| — | 2013-05-28 | — | cvm-col-20130528-d02 | fichas/colegiado/2013-11.md |
-| 356/2001; RJ2011/11737 | 2013-05-28 | deferido | cvm-col-20130528-d01 | fichas/colegiado/2013-10.md |
-| — | 2013-05-27 | outro | cvm-col-20130527-d01 | fichas/colegiado/2013-10.md |
-| 10/2012; SP2012/0379 | 2013-05-22 | outro | cvm-col-20130522-d01 | fichas/colegiado/2013-10.md |
-| RJ2012/11216 | 2013-05-21 | deferido | cvm-col-20130521-d07 | fichas/colegiado/2013-10.md |
-| RJ2012/11523 | 2013-05-21 | nao-provido | cvm-col-20130521-d06 | fichas/colegiado/2013-10.md |
-| RJ2013/2321 | 2013-05-21 | nao-provido | cvm-col-20130521-d05 | fichas/colegiado/2013-10.md |
-| RJ2013/5569 | 2013-05-21 | outro | cvm-col-20130521-d04 | fichas/colegiado/2013-10.md |
-| RJ2003/11499 | 2013-05-16 | — | cvm-col-20130516-d01 | fichas/colegiado/2013-10.md |
-| 03/2013; RJ2010/7200 | 2013-05-14 | deferido | cvm-col-20130514-d10 | fichas/colegiado/2013-10.md |
-| RJ2012/4138 | 2013-05-14 | outro | cvm-col-20130514-d09 | fichas/colegiado/2013-10.md |
-| RJ2011/8580 | 2013-05-14 | outro | cvm-col-20130514-d08 | fichas/colegiado/2013-10.md |
-| RJ2010/11349 | 2013-05-14 | outro | cvm-col-20130514-d07 | fichas/colegiado/2013-10.md |
-| RJ2012/4767 | 2013-05-14 | outro | cvm-col-20130514-d06 | fichas/colegiado/2013-10.md |
-| RJ2012/11394 | 2013-05-14 | nao-provido | cvm-col-20130514-d05 | fichas/colegiado/2013-10.md |
-| RJ2009/12670 | 2013-05-09 | outro | cvm-col-20130509-d01 | fichas/colegiado/2013-10.md |
-| RJ2003/11499 | 2013-05-08 | — | cvm-col-20130508-d01 | fichas/colegiado/2013-10.md |
-| RJ2013/4906 | 2013-05-07 | nao-provido | cvm-col-20130507-d09 | fichas/colegiado/2013-10.md |
-| RJ2012/3913 | 2013-05-07 | nao-provido | cvm-col-20130507-d08 | fichas/colegiado/2013-10.md |
-| RJ2010/8982 | 2013-05-07 | deferido | cvm-col-20130507-d07 | fichas/colegiado/2013-10.md |
-| RJ2012/8091 | 2013-05-07 | nao-provido | cvm-col-20130507-d06 | fichas/colegiado/2013-10.md |
-| 358/2002; RJ2013/3945 | 2013-05-07 | nao-provido | cvm-col-20130507-d05 | fichas/colegiado/2013-10.md |
-| RJ2012/4137 | 2013-05-07 | outro | cvm-col-20130507-d04 | fichas/colegiado/2013-10.md |
-| 681/2012; RJ2012/5159 | 2013-05-07 | nao-provido | cvm-col-20130507-d03 | fichas/colegiado/2013-10.md |
-| 30/2005 | 2013-05-07 | provido | cvm-col-20130507-d01 | fichas/colegiado/2013-09.md |
-| — | 2013-05-02 | deferido | cvm-col-20130502-d01 | fichas/colegiado/2013-09.md |
-| — | 2013-05-02 | deferido | cvm-col-20130502-d01-r3 | fichas/colegiado/2013-09.md |
-| — | 2013-05-02 | deferido | cvm-col-20130502-d01-r2 | fichas/colegiado/2013-09.md |
-| RJ2012/4235 | 2013-04-30 | outro | cvm-col-20130430-d07 | fichas/colegiado/2013-09.md |
-| RJ2012/1643 | 2013-04-30 | outro | cvm-col-20130430-d06 | fichas/colegiado/2013-09.md |
-| 02/2006 | 2013-04-30 | outro | cvm-col-20130430-d05 | fichas/colegiado/2013-09.md |
-| RJ2010/6915 | 2013-04-30 | outro | cvm-col-20130430-d04 | fichas/colegiado/2013-09.md |
-| RJ2013/4254 | 2013-04-30 | nao-provido | cvm-col-20130430-d03 | fichas/colegiado/2013-09.md |
-| RJ2013/3380 | 2013-04-30 | deferido | cvm-col-20130430-d02 | fichas/colegiado/2013-09.md |
-| RJ2013/3316 | 2013-04-30 | deferido | cvm-col-20130430-d01 | fichas/colegiado/2013-09.md |
-| 05/2008 | 2013-04-24 | nao-provido | cvm-col-20130424-d08 | fichas/colegiado/2013-09.md |
-| RJ2012/14029 | 2013-04-24 | nao-provido | cvm-col-20130424-d07 | fichas/colegiado/2013-09.md |
-| RJ2013/4304 | 2013-04-24 | nao-provido | cvm-col-20130424-d06 | fichas/colegiado/2013-09.md |
-| RJ2013/4403 | 2013-04-24 | nao-provido | cvm-col-20130424-d05 | fichas/colegiado/2013-09.md |
-| RJ2012/9365 | 2013-04-24 | provido | cvm-col-20130424-d04 | fichas/colegiado/2013-09.md |
-| RJ2011/5251 | 2013-04-24 | conhecimento | cvm-col-20130424-d03 | fichas/colegiado/2013-09.md |
-| RJ2011/4421 | 2013-04-24 | conhecimento | cvm-col-20130424-d02 | fichas/colegiado/2013-09.md |
-| RJ2012/12067 | 2013-04-24 | nao-provido | cvm-col-20130424-d01 | fichas/colegiado/2013-09.md |
-| RJ2003/11499 | 2013-04-17 | — | cvm-col-20130417-d01 | fichas/colegiado/2013-09.md |
-| RJ2003/11499 | 2013-04-10 | — | cvm-col-20130410-d01 | fichas/colegiado/2013-09.md |
-| RJ2012/12177 | 2013-04-09 | outro | cvm-col-20130409-d08 | fichas/colegiado/2013-09.md |
-| 20/2009 | 2013-04-09 | deferido | cvm-col-20130409-d07 | fichas/colegiado/2013-09.md |
-| RJ2011/9304 | 2013-04-09 | outro | cvm-col-20130409-d06 | fichas/colegiado/2013-08.md |
-| RJ2012/4588 | 2013-04-09 | outro | cvm-col-20130409-d05 | fichas/colegiado/2013-08.md |
-| RJ2012/2908 | 2013-04-09 | provido | cvm-col-20130409-d04 | fichas/colegiado/2013-08.md |
-| RJ2012/2907 | 2013-04-09 | provido | cvm-col-20130409-d03 | fichas/colegiado/2013-08.md |
-| 682/2012; RJ2012/14652 | 2013-04-09 | nao-provido | cvm-col-20130409-d02 | fichas/colegiado/2013-08.md |
-| RJ2012/11464 | 2013-04-09 | outro | cvm-col-20130409-d01 | fichas/colegiado/2013-08.md |
-| 07/2012; RJ2011/8043 | 2013-04-08 | outro | cvm-col-20130408-d01 | fichas/colegiado/2013-08.md |
-| RJ2012/6317 | 2013-04-02 | nao-provido | cvm-col-20130402-d11 | fichas/colegiado/2013-08.md |
-| 301/1999; SP2013/0174 | 2013-04-02 | outro | cvm-col-20130402-d10 | fichas/colegiado/2013-08.md |
-| 472/2008; RJ2012/11170 | 2013-04-02 | outro | cvm-col-20130402-d09 | fichas/colegiado/2013-08.md |
-| 391/2003; RJ2013/1902 | 2013-04-02 | deferido | cvm-col-20130402-d08 | fichas/colegiado/2013-08.md |
-| RJ2012/10414 | 2013-04-02 | nao-provido | cvm-col-20130402-d07 | fichas/colegiado/2013-08.md |
-| RJ2012/15029 | 2013-04-02 | nao-provido | cvm-col-20130402-d06 | fichas/colegiado/2013-08.md |
-| RJ2013/0460 | 2013-04-02 | nao-provido | cvm-col-20130402-d05 | fichas/colegiado/2013-08.md |
-| 663/2011; RJ2010/3811 | 2013-04-02 | nao-provido | cvm-col-20130402-d04 | fichas/colegiado/2013-08.md |
-| RJ2013/3075 | 2013-04-02 | outro | cvm-col-20130402-d03 | fichas/colegiado/2013-08.md |
-| RJ2013/1239 | 2013-04-02 | deferido | cvm-col-20130402-d02 | fichas/colegiado/2013-08.md |
-| RJ2013/0367 | 2013-04-02 | deferido | cvm-col-20130402-d01 | fichas/colegiado/2013-08.md |
-| RJ2012/9073 | 2013-04-02 | deferido | cvm-col-20130402-d01-r2 | fichas/colegiado/2013-08.md |
-| RJ2009/12670 | 2013-04-01 | — | cvm-col-20130401-d01 | fichas/colegiado/2013-07.md |
-| 07/2011; RJ2011/8208 | 2013-03-27 | outro | cvm-col-20130327-d02 | fichas/colegiado/2013-07.md |
-| 06/2011; RJ2011/8206 | 2013-03-27 | outro | cvm-col-20130327-d01 | fichas/colegiado/2013-07.md |
-| RJ2012/13452 | 2013-03-26 | nao-provido | cvm-col-20130326-d17 | fichas/colegiado/2013-07.md |
-| RJ2012/13451 | 2013-03-26 | nao-provido | cvm-col-20130326-d16 | fichas/colegiado/2013-07.md |
-| RJ2012/13450 | 2013-03-26 | nao-provido | cvm-col-20130326-d15 | fichas/colegiado/2013-07.md |
-| RJ2012/13449 | 2013-03-26 | nao-provido | cvm-col-20130326-d14 | fichas/colegiado/2013-07.md |
-| RJ2012/13448 | 2013-03-26 | nao-provido | cvm-col-20130326-d13 | fichas/colegiado/2013-07.md |
-| RJ2012/13465 | 2013-03-26 | nao-provido | cvm-col-20130326-d12 | fichas/colegiado/2013-07.md |
-| RJ2013/0946 | 2013-03-26 | nao-provido | cvm-col-20130326-d11 | fichas/colegiado/2013-07.md |
-| RJ2012/15059 | 2013-03-26 | nao-provido | cvm-col-20130326-d10 | fichas/colegiado/2013-07.md |
-| RJ2012/12891 | 2013-03-26 | nao-provido | cvm-col-20130326-d09 | fichas/colegiado/2013-07.md |
-| RJ2012/12890 | 2013-03-26 | nao-provido | cvm-col-20130326-d08 | fichas/colegiado/2013-07.md |
-| RJ2012/11717 | 2013-03-26 | nao-provido | cvm-col-20130326-d07 | fichas/colegiado/2013-07.md |
-| 498/2006; RJ2006/0156 | 2013-03-26 | outro | cvm-col-20130326-d06 | fichas/colegiado/2013-07.md |
-| RJ2012/13425 | 2013-03-26 | outro | cvm-col-20130326-d05 | fichas/colegiado/2013-07.md |
-| RJ2012/12177 | 2013-03-26 | outro | cvm-col-20130326-d04 | fichas/colegiado/2013-07.md |
-| RJ2013/0869 | 2013-03-22 | deferido | cvm-col-20130322-d01 | fichas/colegiado/2013-07.md |
-| 06/2007 | 2013-03-19 | nao-provido | cvm-col-20130319-d10 | fichas/colegiado/2013-07.md |
-| RJ2012/13241 | 2013-03-19 | deferido | cvm-col-20130319-d09 | fichas/colegiado/2013-07.md |
-| RJ2013/2393 | 2013-03-19 | nao-provido | cvm-col-20130319-d08 | fichas/colegiado/2013-06.md |
-| RJ2013/2321 | 2013-03-19 | nao-provido | cvm-col-20130319-d07 | fichas/colegiado/2013-06.md |
-| RJ2007/13030 | 2013-03-19 | outro | cvm-col-20130319-d06 | fichas/colegiado/2013-06.md |
-| RJ2011/7948 | 2013-03-19 | outro | cvm-col-20130319-d05 | fichas/colegiado/2013-06.md |
-| RJ2012/2766 | 2013-03-19 | outro | cvm-col-20130319-d04 | fichas/colegiado/2013-06.md |
-| RJ2011/9481 | 2013-03-12 | outro | cvm-col-20130312-d07 | fichas/colegiado/2013-06.md |
-| 02/2013; 504/2011; RJ2012/3958 | 2013-03-12 | outro | cvm-col-20130312-d06 | fichas/colegiado/2013-06.md |
-| RJ2012/13828 | 2013-03-12 | nao-provido | cvm-col-20130312-d05 | fichas/colegiado/2013-06.md |
-| RJ2012/13453 | 2013-03-12 | nao-provido | cvm-col-20130312-d04 | fichas/colegiado/2013-06.md |
-| RJ2013/0869 | 2013-03-12 | deferido | cvm-col-20130312-d03 | fichas/colegiado/2013-06.md |
-| RJ2012/14383 | 2013-03-12 | outro | cvm-col-20130312-d02 | fichas/colegiado/2013-06.md |
-| RJ2011/5356 | 2013-03-12 | nao-provido | cvm-col-20130312-d01 | fichas/colegiado/2013-06.md |
-| RJ2010/7200 | 2013-03-06 | outro | cvm-col-20130306-d01 | fichas/colegiado/2013-06.md |
-| RJ2011/12976 | 2013-03-05 | nao-provido | cvm-col-20130305-d04 | fichas/colegiado/2013-06.md |
-| RJ2013/2142 | 2013-03-05 | nao-provido | cvm-col-20130305-d03 | fichas/colegiado/2013-06.md |
-| RJ2011/10679 | 2013-03-05 | outro | cvm-col-20130305-d02 | fichas/colegiado/2013-06.md |
-| RJ2009/0428 | 2013-03-05 | outro | cvm-col-20130305-d01 | fichas/colegiado/2013-06.md |
-| RJ2012/14288 | 2013-02-26 | outro | cvm-col-20130226-d23 | fichas/colegiado/2013-06.md |
-| RJ2012/8386 | 2013-02-26 | — | cvm-col-20130226-d22 | fichas/colegiado/2013-06.md |
-| RJ2012/13358 | 2013-02-26 | nao-provido | cvm-col-20130226-d21 | fichas/colegiado/2013-06.md |
-| RJ2011/10170 | 2013-02-26 | outro | cvm-col-20130226-d20 | fichas/colegiado/2013-06.md |
-| RJ2013/1435 | 2013-02-26 | deferido | cvm-col-20130226-d19 | fichas/colegiado/2013-06.md |
-| RJ2013/1140 | 2013-02-26 | nao-provido | cvm-col-20130226-d18 | fichas/colegiado/2013-05.md |
-| RJ2013/0365 | 2013-02-26 | nao-provido | cvm-col-20130226-d17 | fichas/colegiado/2013-05.md |
-| RJ2012/15554 | 2013-02-26 | nao-provido | cvm-col-20130226-d16 | fichas/colegiado/2013-05.md |
-| RJ2012/15403 | 2013-02-26 | nao-provido | cvm-col-20130226-d15 | fichas/colegiado/2013-05.md |
-| RJ2012/15388 | 2013-02-26 | nao-provido | cvm-col-20130226-d14 | fichas/colegiado/2013-05.md |
-| RJ2012/15338 | 2013-02-26 | nao-provido | cvm-col-20130226-d13 | fichas/colegiado/2013-05.md |
-| RJ2012/15319 | 2013-02-26 | nao-provido | cvm-col-20130226-d12 | fichas/colegiado/2013-05.md |
-| RJ2012/15023 | 2013-02-26 | nao-provido | cvm-col-20130226-d11 | fichas/colegiado/2013-05.md |
-| RJ2013/0455 | 2013-02-26 | nao-provido | cvm-col-20130226-d10 | fichas/colegiado/2013-05.md |
-| RJ2012/15398 | 2013-02-26 | nao-provido | cvm-col-20130226-d09 | fichas/colegiado/2013-05.md |
-| 494/2011; RJ2012/10374 | 2013-02-26 | — | cvm-col-20130226-d08 | fichas/colegiado/2013-05.md |
-| RJ2013/1646 | 2013-02-26 | nao-provido | cvm-col-20130226-d07 | fichas/colegiado/2013-05.md |
-| RJ2012/11072 | 2013-02-26 | nao-provido | cvm-col-20130226-d05 | fichas/colegiado/2013-05.md |
-| RJ2012/7865 | 2013-02-26 | nao-provido | cvm-col-20130226-d04 | fichas/colegiado/2013-05.md |
-| RJ2010/10383 | 2013-02-26 | nao-provido | cvm-col-20130226-d03 | fichas/colegiado/2013-05.md |
-| RJ2011/0974 | 2013-02-26 | outro | cvm-col-20130226-d02 | fichas/colegiado/2013-05.md |
-| RJ2011/0427 | 2013-02-26 | nao-provido | cvm-col-20130226-d01 | fichas/colegiado/2013-05.md |
-| RJ2012/14908 | 2013-02-20 | deferido | cvm-col-20130220-d01 | fichas/colegiado/2013-05.md |
-| RJ2011/12680 | 2013-02-19 | outro | cvm-col-20130219-d18 | fichas/colegiado/2013-05.md |
-| RJ2011/13386 | 2013-02-19 | outro | cvm-col-20130219-d17 | fichas/colegiado/2013-05.md |
-| RJ2013/0944 | 2013-02-19 | nao-provido | cvm-col-20130219-d16 | fichas/colegiado/2013-05.md |
-| RJ2012/15304 | 2013-02-19 | nao-provido | cvm-col-20130219-d15 | fichas/colegiado/2013-05.md |
-| RJ2012/15303 | 2013-02-19 | nao-provido | cvm-col-20130219-d14 | fichas/colegiado/2013-04.md |
-| RJ2012/15298 | 2013-02-19 | nao-provido | cvm-col-20130219-d13 | fichas/colegiado/2013-04.md |
-| RJ2012/15296 | 2013-02-19 | nao-provido | cvm-col-20130219-d12 | fichas/colegiado/2013-04.md |
-| RJ2012/15295 | 2013-02-19 | nao-provido | cvm-col-20130219-d11 | fichas/colegiado/2013-04.md |
-| RJ2012/15151 | 2013-02-19 | nao-provido | cvm-col-20130219-d10 | fichas/colegiado/2013-04.md |
-| RJ2012/15129 | 2013-02-19 | nao-provido | cvm-col-20130219-d09 | fichas/colegiado/2013-04.md |
-| RJ2012/15082 | 2013-02-19 | nao-provido | cvm-col-20130219-d08 | fichas/colegiado/2013-04.md |
-| RJ2012/15076 | 2013-02-19 | nao-provido | cvm-col-20130219-d07 | fichas/colegiado/2013-04.md |
-| RJ2012/14820 | 2013-02-19 | deferido | cvm-col-20130219-d06 | fichas/colegiado/2013-04.md |
-| RJ2012/13046 | 2013-02-19 | nao-provido | cvm-col-20130219-d05 | fichas/colegiado/2013-04.md |
-| RJ2012/12522 | 2013-02-19 | deferido | cvm-col-20130219-d04 | fichas/colegiado/2013-04.md |
-| RJ2010/7200 | 2013-02-06 | — | cvm-col-20130206-d01 | fichas/colegiado/2013-04.md |
-| — | 2013-02-06 | indeferido | cvm-col-20130206-d01-r2 | fichas/colegiado/2013-04.md |
-| — | 2013-02-05 | deferido | cvm-col-20130205-d16 | fichas/colegiado/2013-04.md |
-| RJ2012/12484 | 2013-02-05 | deferido | cvm-col-20130205-d15 | fichas/colegiado/2013-04.md |
-| RJ2012/12205 | 2013-02-05 | nao-provido | cvm-col-20130205-d14 | fichas/colegiado/2013-04.md |
-| SP2012/0213 | 2013-02-05 | deferido | cvm-col-20130205-d13 | fichas/colegiado/2013-04.md |
-| SP2012/0241 | 2013-02-05 | deferido | cvm-col-20130205-d12 | fichas/colegiado/2013-04.md |
-| SP2012/0040 | 2013-02-05 | deferido | cvm-col-20130205-d11 | fichas/colegiado/2013-04.md |
-| RJ2012/4161 | 2013-02-05 | parcial | cvm-col-20130205-d10 | fichas/colegiado/2013-04.md |
-| RJ2012/2032 | 2013-02-05 | nao-provido | cvm-col-20130205-d09 | fichas/colegiado/2013-04.md |
-| RJ2012/12461 | 2013-02-05 | nao-provido | cvm-col-20130205-d08 | fichas/colegiado/2013-04.md |
-| RJ2012/12503 | 2013-02-05 | nao-provido | cvm-col-20130205-d07 | fichas/colegiado/2013-04.md |
-| RJ2012/15244 | 2013-02-05 | parcial | cvm-col-20130205-d06 | fichas/colegiado/2013-03.md |
-| RJ2012/13353 | 2013-02-05 | nao-provido | cvm-col-20130205-d02 | fichas/colegiado/2013-03.md |
-| RJ2011/9493 | 2013-02-05 | provido | cvm-col-20130205-d01 | fichas/colegiado/2013-03.md |
-| 05/2012; RJ2009/7807 | 2013-01-30 | outro | cvm-col-20130130-d01 | fichas/colegiado/2013-03.md |
-| 505/2011; SP2012/0139 | 2013-01-29 | outro | cvm-col-20130129-d15 | fichas/colegiado/2013-03.md |
-| RJ2012/9648 | 2013-01-29 | deferido | cvm-col-20130129-d14 | fichas/colegiado/2013-03.md |
-| RJ2012/15287 | 2013-01-29 | nao-provido | cvm-col-20130129-d13 | fichas/colegiado/2013-03.md |
-| RJ2012/15279 | 2013-01-29 | nao-provido | cvm-col-20130129-d12 | fichas/colegiado/2013-03.md |
-| RJ2012/15242 | 2013-01-29 | nao-provido | cvm-col-20130129-d11 | fichas/colegiado/2013-03.md |
-| RJ2012/15238 | 2013-01-29 | nao-provido | cvm-col-20130129-d10 | fichas/colegiado/2013-03.md |
-| RJ2012/15207 | 2013-01-29 | nao-provido | cvm-col-20130129-d09 | fichas/colegiado/2013-03.md |
-| RJ2012/15206 | 2013-01-29 | nao-provido | cvm-col-20130129-d08 | fichas/colegiado/2013-03.md |
-| RJ2012/15153 | 2013-01-29 | nao-provido | cvm-col-20130129-d07 | fichas/colegiado/2013-03.md |
-| RJ2012/15024 | 2013-01-29 | nao-provido | cvm-col-20130129-d06 | fichas/colegiado/2013-03.md |
-| RJ2012/15022 | 2013-01-29 | nao-provido | cvm-col-20130129-d05 | fichas/colegiado/2013-03.md |
-| 505/2011; 506/2011; RJ2013/1139 | 2013-01-29 | outro | cvm-col-20130129-d04 | fichas/colegiado/2013-03.md |
-| RJ2013/1160 | 2013-01-29 | deferido | cvm-col-20130129-d03 | fichas/colegiado/2013-03.md |
-| RJ2011/8234 | 2013-01-29 | outro | cvm-col-20130129-d02 | fichas/colegiado/2013-03.md |
-| RJ2008/12185 | 2013-01-29 | nao-provido | cvm-col-20130129-d01 | fichas/colegiado/2013-02.md |
-| RJ2012/8335 | 2013-01-25 | deferido | cvm-col-20130125-d01 | fichas/colegiado/2013-02.md |
-| 05/2012; RJ2009/7807 | 2013-01-23 | — | cvm-col-20130123-d01 | fichas/colegiado/2013-02.md |
-| SP2007/0140 | 2013-01-22 | outro | cvm-col-20130122-d17 | fichas/colegiado/2013-02.md |
-| RJ2012/13345 | 2013-01-22 | deferido | cvm-col-20130122-d16 | fichas/colegiado/2013-02.md |
-| RJ2012/15216 | 2013-01-22 | nao-provido | cvm-col-20130122-d15 | fichas/colegiado/2013-02.md |
-| RJ2012/15208 | 2013-01-22 | nao-provido | cvm-col-20130122-d14 | fichas/colegiado/2013-02.md |
-| RJ2012/15147 | 2013-01-22 | nao-provido | cvm-col-20130122-d13 | fichas/colegiado/2013-02.md |
-| RJ2012/15141 | 2013-01-22 | nao-provido | cvm-col-20130122-d12 | fichas/colegiado/2013-02.md |
-| RJ2012/15025 | 2013-01-22 | nao-provido | cvm-col-20130122-d11 | fichas/colegiado/2013-02.md |
-| RJ2012/15149 | 2013-01-22 | nao-provido | cvm-col-20130122-d10 | fichas/colegiado/2013-02.md |
-| RJ2012/15142 | 2013-01-22 | nao-provido | cvm-col-20130122-d09 | fichas/colegiado/2013-02.md |
-| RJ2012/15083 | 2013-01-22 | nao-provido | cvm-col-20130122-d08 | fichas/colegiado/2013-02.md |
-| RJ2012/15075 | 2013-01-22 | nao-provido | cvm-col-20130122-d07 | fichas/colegiado/2013-02.md |
-| RJ2012/15028 | 2013-01-22 | nao-provido | cvm-col-20130122-d06 | fichas/colegiado/2013-02.md |
-| RJ2012/5189 | 2013-01-22 | nao-provido | cvm-col-20130122-d05 | fichas/colegiado/2013-02.md |
-| RJ2012/13237 | 2013-01-22 | deferido | cvm-col-20130122-d04 | fichas/colegiado/2013-02.md |
-| RJ2012/15248 | 2013-01-22 | provido | cvm-col-20130122-d03 | fichas/colegiado/2013-02.md |
-| RJ2011/13796 | 2013-01-22 | outro | cvm-col-20130122-d02 | fichas/colegiado/2013-02.md |
-| RJ2012/14764 | 2013-01-22 | — | cvm-col-20130122-d01 | fichas/colegiado/2013-02.md |
-| RJ2010/7200 | 2013-01-16 | — | cvm-col-20130116-d01 | fichas/colegiado/2013-02.md |
-| RJ2012/12227; RJ2012/12228; RJ2012/12229; RJ2012/12230 | 2013-01-15 | nao-provido | cvm-col-20130115-d09 | fichas/colegiado/2013-02.md |
-| RJ2011/12024 | 2013-01-15 | parcial | cvm-col-20130115-d08 | fichas/colegiado/2013-02.md |
-| RJ2012/15150 | 2013-01-15 | nao-provido | cvm-col-20130115-d07 | fichas/colegiado/2013-02.md |
-| RJ2012/13452 | 2013-01-15 | nao-provido | cvm-col-20130115-d06 | fichas/colegiado/2013-01.md |
-| RJ2012/13451 | 2013-01-15 | nao-provido | cvm-col-20130115-d05 | fichas/colegiado/2013-01.md |
-| RJ2012/13450 | 2013-01-15 | nao-provido | cvm-col-20130115-d04 | fichas/colegiado/2013-01.md |
-| RJ2012/13449 | 2013-01-15 | nao-provido | cvm-col-20130115-d03 | fichas/colegiado/2013-01.md |
-| RJ2012/13448 | 2013-01-15 | nao-provido | cvm-col-20130115-d02 | fichas/colegiado/2013-01.md |
-| RJ2010/12040 | 2013-01-15 | outro | cvm-col-20130115-d01 | fichas/colegiado/2013-01.md |
-| — | 2013-01-10 | deferido | cvm-col-20130110-d01 | fichas/colegiado/2013-01.md |
-| RJ2012/3958 | 2013-01-09 | outro | cvm-col-20130109-d02 | fichas/colegiado/2013-01.md |
-| RJ2011/9419 | 2013-01-09 | outro | cvm-col-20130109-d01 | fichas/colegiado/2013-01.md |
-| RJ2007/10395 | 2013-01-08 | outro | cvm-col-20130108-d11 | fichas/colegiado/2013-01.md |
-| RJ2012/15081 | 2013-01-08 | nao-provido | cvm-col-20130108-d10 | fichas/colegiado/2013-01.md |
-| RJ2012/15029 | 2013-01-08 | nao-provido | cvm-col-20130108-d09 | fichas/colegiado/2013-01.md |
-| RJ2012/15021 | 2013-01-08 | nao-provido | cvm-col-20130108-d08 | fichas/colegiado/2013-01.md |
-| RJ2012/12226 | 2013-01-08 | nao-provido | cvm-col-20130108-d07 | fichas/colegiado/2013-01.md |
-| RJ2012/13613 | 2013-01-08 | deferido | cvm-col-20130108-d06 | fichas/colegiado/2013-01.md |
-| RJ2012/13612 | 2013-01-08 | deferido | cvm-col-20130108-d05 | fichas/colegiado/2013-01.md |
-| RJ2012/12925 | 2013-01-08 | deferido | cvm-col-20130108-d04 | fichas/colegiado/2013-01.md |
-| RJ2012/7947 | 2013-01-08 | deferido | cvm-col-20130108-d03 | fichas/colegiado/2013-01.md |
-| RJ2012/15007 | 2013-01-08 | nao-provido | cvm-col-20130108-d02 | fichas/colegiado/2013-01.md |
-| RJ2012/11715 | 2013-01-08 | nao-provido | cvm-col-20130108-d01 | fichas/colegiado/2013-01.md |
-| RJ2012/15077 | 2013-01-04 | outro | cvm-col-20130104-d5821 | fichas/colegiado/2013-01.md |
-| RJ2012/3506 | 2013-01-04 | outro | cvm-col-20130104-d03 | fichas/colegiado/2013-01.md |
-| RJ2012/11664 | 2013-01-04 | nao-provido | cvm-col-20130104-d02 | fichas/colegiado/2013-01.md |
-| RJ2012/11663 | 2013-01-04 | nao-provido | cvm-col-20130104-d01 | fichas/colegiado/2013-01.md |
+| Processo | Data | Resultado | Ementa | Id | Ficha |
+|---|---|---|---|---|---|
+| RJ2013/11745 | 2013-12-23 | deferido | O Colegiado autorizou a negociação privada de ações da Zurich Santander Brasil S.A. solicitada pelo Citibank DTVM S.A., custodiante de… | cvm-col-20131223-d11 | fichas/colegiado/2013-25.md |
+| RJ2012/8804 | 2013-12-23 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/8804. | cvm-col-20131223-d10 | fichas/colegiado/2013-25.md |
+| RJ2012/6182 | 2013-12-23 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/6182. | cvm-col-20131223-d09 | fichas/colegiado/2013-25.md |
+| RJ2012/6181 | 2013-12-23 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/6181. | cvm-col-20131223-d08 | fichas/colegiado/2013-25.md |
+| RJ2013/13063 | 2013-12-23 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória extraordinária. Proc. RJ2013/13063. | cvm-col-20131223-d07 | fichas/colegiado/2013-25.md |
+| RJ2013/13062 | 2013-12-23 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória extraordinária. Proc. RJ2013/13062. | cvm-col-20131223-d06 | fichas/colegiado/2013-25.md |
+| RJ2013/13061 | 2013-12-23 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória extraordinária. Proc. RJ2013/13061. | cvm-col-20131223-d05 | fichas/colegiado/2013-25.md |
+| RJ2013/10067 | 2013-12-23 | parcial | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2013/10067. | cvm-col-20131223-d04 | fichas/colegiado/2013-25.md |
+| RJ2013/12006 | 2013-12-23 | deferido | O Colegiado concedeu anuência à quarta emissão privada de debêntures simples, não conversíveis, com garantia flutuante, da Companhia de Gás… | cvm-col-20131223-d03 | fichas/colegiado/2013-25.md |
+| RJ2013/11623 | 2013-12-19 | deferido | O Colegiado deferiu pedido da JBS S.A. de tratamento confidencial, com base no art. 9º-A da ICVM 361/02, para documentos sobre aquisição de… | cvm-col-20131219-d01 | fichas/colegiado/2013-25.md |
+| — | 2013-12-18 | deferido | O Colegiado deferiu tratamento confidencial às informações sobre a composição acionária completa e atual da controladora BTG Pactual… | cvm-col-20131218-d01 | fichas/colegiado/2013-24.md |
+| RJ2011/5211 | 2013-12-17 | outro | O Colegiado aprovou, por unanimidade, a recapitulação legal das infrações de membros do conselho de administração da Electro Aço Altona… | cvm-col-20131217-d7944 | fichas/colegiado/2013-24.md |
+| 11/2013; RJ2003/1074; RJ2008/11441; RJ2011/3464 | 2013-12-17 | deferido | O Colegiado, atendendo a pedido da ANBIMA, prorrogou por mais trinta dias, até 03.02.2014, o prazo para comentários à minuta de Instrução… | cvm-col-20131217-d29 | fichas/colegiado/2013-24.md |
+| RJ2010/16884 | 2013-12-17 | nao-provido | O Colegiado negou provimento a recurso de acionista do Banco Bradesco contra ofício de alerta da SEP, em vez de processo sancionador, sobre… | cvm-col-20131217-d28 | fichas/colegiado/2013-24.md |
+| RJ2013/9441 | 2013-12-17 | deferido | O Colegiado deliberou a dispensa do laudo de avaliação da JBS S.A., exigido pelo art. 8º, §7º, da Instrução CVM 361/02, na OPA voluntária… | cvm-col-20131217-d27 | fichas/colegiado/2013-24.md |
+| RJ2013/13148 | 2013-12-17 | outro | O Colegiado aprovou, para audiência pública até 19.02.2014, minuta de deliberação que aprova o Documento de Revisão de Pronunciamentos… | cvm-col-20131217-d26 | fichas/colegiado/2013-24.md |
+| RJ2013/13144 | 2013-12-17 | outro | O Colegiado aprovou, para audiência pública até 19.02.2014, minuta de deliberação que aprova o Documento de Revisão de Pronunciamentos… | cvm-col-20131217-d25 | fichas/colegiado/2013-24.md |
+| 01/2013; RJ2013/9746 | 2013-12-17 | outro | O Colegiado aprovou a edição de Deliberação, após audiência pública SNC 01/2013, que aprova o Documento de Revisão de Pronunciamentos… | cvm-col-20131217-d24 | fichas/colegiado/2013-24.md |
+| 02/2013; RJ2013/9745 | 2013-12-17 | outro | O Colegiado aprovou a Deliberação que edita o Documento de Revisão de Interpretações Técnicas nº 01 das ICPC 03, 07, 13, 14 e 16 do CPC… | cvm-col-20131217-d23 | fichas/colegiado/2013-24.md |
+| RJ2010/14527 | 2013-12-17 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2010/14527. | cvm-col-20131217-d22 | fichas/colegiado/2013-24.md |
+| RJ2012/14319 | 2013-12-17 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2012/14319. | cvm-col-20131217-d21 | fichas/colegiado/2013-24.md |
+| RJ2011/0170 | 2013-12-17 | outro | O Colegiado aprovou a minuta de Convênio de Cooperação entre a CVM e a BM&FBOVESPA para aprimorar o Sistema de Registro de Investidores Não… | cvm-col-20131217-d20 | fichas/colegiado/2013-24.md |
+| RJ2013/4911 | 2013-12-17 | — | Pedido de dispensa de requisito normativo formulado pela BRL Trust DTVM S.A. e pela Gradual CCTVM S.A. Julgamento suspenso por pedido de… | cvm-col-20131217-d19 | fichas/colegiado/2013-24.md |
+| RJ2013/6295 | 2013-12-17 | — | Recurso da João Fortes Engenharia S.A. contra o entendimento da SEP de que deve fazer leilão em bolsa das sobras de ações não subscritas… | cvm-col-20131217-d18 | fichas/colegiado/2013-24.md |
+| — | 2013-12-17 | outro | O Colegiado aprovou a minuta de Decisão Conjunta CVM–Banco Central para implementar os Princípios para Infraestruturas do Mercado… | cvm-col-20131217-d17 | fichas/colegiado/2013-24.md |
+| RJ2013/4659 | 2013-12-17 | outro | O Colegiado determinou o arquivamento do Proc. RJ2013/4659 por cumprido o Termo de Compromisso do BB - Banco de Investimento S.A., após… | cvm-col-20131217-d16 | fichas/colegiado/2013-24.md |
+| RJ2013/1859 | 2013-12-17 | outro | O Colegiado determinou o arquivamento do PAS RJ2012/10487 em relação aos compromitentes, após a SAD atestar o pagamento previsto no Termo… | cvm-col-20131217-d15 | fichas/colegiado/2013-24.md |
+| 16/2008 | 2013-12-17 | outro | O Colegiado arquivou o PAS 16/2008 em relação aos compromitentes, cumprido o termo de compromisso, com base na manifestação da SAD. Esta… | cvm-col-20131217-d14 | fichas/colegiado/2013-24.md |
+| RJ2008/8046 | 2013-12-17 | deferido | O Colegiado, por unanimidade, autorizou por mais dois anos a prorrogação do prazo para cumprimento dos compromissos do Termo de Compromisso… | cvm-col-20131217-d05 | fichas/colegiado/2013-23.md |
+| 14/2009 | 2013-12-17 | nao-provido | O Colegiado não acatou pedido de reconsideração e manteve decisão sobre vista e cópias de elementos de prova do Inquérito Administrativo… | cvm-col-20131217-d04 | fichas/colegiado/2013-23.md |
+| RJ2012/7123 | 2013-12-17 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2012/7123. | cvm-col-20131217-d03 | fichas/colegiado/2013-23.md |
+| RJ2009/13346 | 2013-12-17 | nao-provido | O Colegiado, acompanhando a relatora, indeferiu recurso contra decisão da SRE que julgou improcedente reclamação pedindo OPA por alienação… | cvm-col-20131217-d01 | fichas/colegiado/2013-23.md |
+| 09/2013; RJ2013/8780 | 2013-12-10 | outro | O Colegiado aprovou a edição de Instrução, após audiência pública SDM 09/2013, que altera a ICVM 461/07 para regulamentar o art. 28 da Lei… | cvm-col-20131210-d11 | fichas/colegiado/2013-23.md |
+| RJ2013/12501 | 2013-12-10 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/12501. | cvm-col-20131210-d10 | fichas/colegiado/2013-23.md |
+| RJ2013/7388 | 2013-12-10 | nao-provido | Pedido de reconsideração de decisão do colegiado. Proc. RJ2013/7388. | cvm-col-20131210-d09 | fichas/colegiado/2013-23.md |
+| RJ2013/7386 | 2013-12-10 | nao-provido | Pedido de reconsideração de decisão do colegiado. Proc. RJ2013/7386. | cvm-col-20131210-d08 | fichas/colegiado/2013-23.md |
+| RJ2013/5583 | 2013-12-10 | nao-provido | Pedido de reconsideração de decisão do colegiado. Proc. RJ2013/5583. | cvm-col-20131210-d07 | fichas/colegiado/2013-23.md |
+| RJ2011/7381 | 2013-12-10 | parcial | Recurso contra decisão da SEP em julgamento de processo de rito sumário. | cvm-col-20131210-d06 | fichas/colegiado/2013-23.md |
+| RJ2013/12714 | 2013-12-10 | nao-provido | Recurso contra decisão da SRE em processo de multa cominatória. Proc. RJ2013/12714. | cvm-col-20131210-d05 | fichas/colegiado/2013-23.md |
+| 29/2000 | 2013-12-10 | conhecimento | O Colegiado não conheceu de pedido de reconsideração contra a rejeição de proposta de termo de compromisso no PAS 29/2000 e manteve a… | cvm-col-20131210-d01 | fichas/colegiado/2013-23.md |
+| 06/2013; RJ2003/11499 | 2013-12-04 | outro | O Colegiado aprovou a edição de três Instruções, após a Audiência Pública SDM 06/2013, que revogam a Instrução CVM 89/88 (autorização para… | cvm-col-20131204-d01 | fichas/colegiado/2013-23.md |
+| 409/2004; RJ2012/13688 | 2013-12-03 | — | O Colegiado deu continuidade à discussão da alteração da Instrução CVM 409/04, sobre constituição, administração, funcionamento e… | cvm-col-20131203-d08 | fichas/colegiado/2013-23.md |
+| RJ2012/1976 | 2013-12-03 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2012/1976. | cvm-col-20131203-d07 | fichas/colegiado/2013-23.md |
+| RJ2012/8222 | 2013-12-03 | deferido | O Colegiado autorizou, por unanimidade, a transferência de ações em tesouraria da Oi S.A. aos beneficiários de seu ILP, desde que atendidos… | cvm-col-20131203-d06 | fichas/colegiado/2013-23.md |
+| RJ2012/9832 | 2013-12-03 | outro | O Colegiado determinou o arquivamento do PAS RJ2012/9832, por ter sido cumprido o Termo de Compromisso firmado pelos acusados, com base na… | cvm-col-20131203-d05 | fichas/colegiado/2013-23.md |
+| RJ2012/7867 | 2013-12-03 | outro | Cumprimento de termo de compromisso. PAS RJ2012/7867. | cvm-col-20131203-d04 | fichas/colegiado/2013-23.md |
+| RJ2012/14390 | 2013-12-03 | outro | O Colegiado determinou o arquivamento do Proc. RJ2012/14390 em relação aos compromitentes Banco Santander (Brasil) S.A. e HH Picchioni S.A… | cvm-col-20131203-d03 | fichas/colegiado/2013-23.md |
+| RJ2011/4430 | 2013-12-03 | nao-provido | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2011/4430. | cvm-col-20131203-d02 | fichas/colegiado/2013-23.md |
+| 06/2013; RJ2003/11499 | 2013-11-27 | — | O Colegiado deu início à discussão de três instruções, após audiência pública SDM 06/2013, que revogam a Instrução CVM 89/88 e regulam… | cvm-col-20131127-d01 | fichas/colegiado/2013-23.md |
+| 409/2004; RJ2012/13688 | 2013-11-26 | — | O Colegiado deu continuidade à discussão, para audiência pública, de alteração da Instrução CVM 409/04 sobre constituição, administração… | cvm-col-20131126-d06 | fichas/colegiado/2013-22.md |
+| 409/2004; RJ2013/12178 | 2013-11-26 | outro | O Colegiado aprovou, para audiência pública de 30 dias, minuta de instrução que altera a ICVM 409/04 (fundos de investimento), refletindo… | cvm-col-20131126-d05 | fichas/colegiado/2013-22.md |
+| 08/2005; 168/1991; RJ2004/0140 | 2013-11-26 | outro | O Colegiado, por unanimidade, arquivou a Audiência Pública SDM 08/2005, que tinha por objetivo revisar a Instrução CVM 168/91… | cvm-col-20131126-d04 | fichas/colegiado/2013-22.md |
+| RJ2013/8744 | 2013-11-26 | nao-provido | O Colegiado negou provimento a recurso contra o cancelamento da autorização de administrador de carteira por falta de reputação ilibada… | cvm-col-20131126-d03 | fichas/colegiado/2013-22.md |
+| RJ2013/8860 | 2013-11-26 | deferido | O Colegiado, por unanimidade, aprovou o registro da oferta da 10ª série de CRA da 1ª emissão da Octante Securitizadora S.A., com… | cvm-col-20131126-d02 | fichas/colegiado/2013-22.md |
+| RJ2010/15139 | 2013-11-26 | outro | O Colegiado deliberou prosseguir com a análise dos limites para a outorga, pela assembleia geral, de poderes a outro órgão da companhia… | cvm-col-20131126-d01 | fichas/colegiado/2013-22.md |
+| 409/2004; RJ2012/13688 | 2013-11-19 | — | O Colegiado deu início à discussão de alteração da Instrução CVM 409/04, sobre constituição, administração, funcionamento e divulgação de… | cvm-col-20131119-d15 | fichas/colegiado/2013-22.md |
+| RJ2013/7141 | 2013-11-19 | parcial | O Colegiado concedeu ao FIDC dispensa do art. 40 da ICVM 356/01 para enquadrar a carteira em 180 dias do início das atividades, autorizou o… | cvm-col-20131119-d14 | fichas/colegiado/2013-22.md |
+| RJ2013/5993 | 2013-11-19 | — | O Colegiado iniciou a discussão de recurso contra decisão da SEP sobre o registro inicial de emissor da Azul S.A. Julgamento suspenso por… | cvm-col-20131119-d13 | fichas/colegiado/2013-22.md |
+| RJ2013/10444 | 2013-11-19 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/10444. | cvm-col-20131119-d12 | fichas/colegiado/2013-22.md |
+| RJ2013/11397 | 2013-11-19 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/11397. | cvm-col-20131119-d11 | fichas/colegiado/2013-22.md |
+| RJ2013/10199 | 2013-11-19 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/10199. | cvm-col-20131119-d10 | fichas/colegiado/2013-22.md |
+| RJ2013/10197 | 2013-11-19 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/10197. | cvm-col-20131119-d09 | fichas/colegiado/2013-22.md |
+| 400/2003; RJ2011/9292 | 2013-11-19 | outro | O Colegiado aprovou, para audiência pública de 60 dias, minuta que altera a Instrução CVM 400/03 para dispensar a publicação em jornal dos… | cvm-col-20131119-d08 | fichas/colegiado/2013-22.md |
+| 07/2013; 391/2003; RJ2013/5710 | 2013-11-19 | outro | O Colegiado aprovou a edição de Instrução, após a Audiência Pública SDM 07/2013, que altera a ICVM 391/03 sobre Fundos de Investimento em… | cvm-col-20131119-d07 | fichas/colegiado/2013-22.md |
+| RJ2013/3353 | 2013-11-19 | outro | O Colegiado determinou o arquivamento do PAS RJ2013/3353 por ter sido cumprido o termo de compromisso firmado pelo único acusado, aprovado… | cvm-col-20131119-d06 | fichas/colegiado/2013-22.md |
+| RJ2012/13291 | 2013-11-19 | nao-provido | O Colegiado manteve a decisão de 28.05.13, que deferiu recurso da JVCO Participações Ltda. e determinou à TIM S.A. fornecer certidão dos… | cvm-col-20131119-d02 | fichas/colegiado/2013-22.md |
+| RJ2012/11534 | 2013-11-19 | nao-provido | O Colegiado negou provimento ao recurso contra multa de mora sobre a multa pecuniária imposta no PAS 27/2003, mantendo a cobrança, com base… | cvm-col-20131119-d01 | fichas/colegiado/2013-22.md |
+| RJ2013/8860 | 2013-11-12 | — | Pedido de registro de oferta pública apresentado pela Octante Securitizadora S.A., após manifestação da PFE junto à CVM. Julgamento… | cvm-col-20131112-d07 | fichas/colegiado/2013-22.md |
+| RJ2013/10195 | 2013-11-12 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/10195. | cvm-col-20131112-d06 | fichas/colegiado/2013-22.md |
+| RJ2013/9993 | 2013-11-12 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/9993. | cvm-col-20131112-d05 | fichas/colegiado/2013-21.md |
+| RJ2011/13590 | 2013-11-12 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2011/13590. | cvm-col-20131112-d04 | fichas/colegiado/2013-21.md |
+| SP2013/0397 | 2013-11-12 | parcial | O Colegiado autorizou alterações estatutárias da BSM solicitadas pela BM&FBOVESPA (descontinuação do Comitê Estratégico, informações do… | cvm-col-20131112-d03 | fichas/colegiado/2013-21.md |
+| RJ2013/8860 | 2013-11-05 | — | Pedido de registro de oferta pública da Octante Securitizadora S.A. O Colegiado iniciou a discussão e solicitou a manifestação da… | cvm-col-20131105-d07 | fichas/colegiado/2013-21.md |
+| RJ2013/4310 | 2013-11-05 | outro | O Colegiado aprovou a minuta de Memorando de Entendimento (MOU) entre a CVM e a Associação Columbia Global Center/Brasil para ações… | cvm-col-20131105-d06 | fichas/colegiado/2013-21.md |
+| SP2013/0366 | 2013-11-05 | deferido | O Colegiado aprovou o pedido da BM&FBovespa para revogar a exigência de garantia, para reposição do patrimônio do MRP, dos participantes… | cvm-col-20131105-d05 | fichas/colegiado/2013-21.md |
+| RJ2013/10110 | 2013-11-05 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/10110. | cvm-col-20131105-d04 | fichas/colegiado/2013-21.md |
+| RJ2013/9958 | 2013-11-05 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/9958. | cvm-col-20131105-d03 | fichas/colegiado/2013-21.md |
+| RJ2012/12946 | 2013-11-05 | outro | O Colegiado aprovou a minuta de convênio de cooperação entre a CVM e a BM&FBOVESPA para desenvolvimento e manutenção de sistemas… | cvm-col-20131105-d02 | fichas/colegiado/2013-21.md |
+| 15/2011; RJ2011/1898 | 2013-10-30 | outro | O Colegiado aprovou a edição de instrução, após audiência pública SDM 15/2011, que dispõe sobre o dever de verificação da adequação de… | cvm-col-20131030-d01 | fichas/colegiado/2013-21.md |
+| RJ2013/2270 | 2013-10-29 | outro | O Colegiado determinou o arquivamento do Proc. RJ2013/2270 em relação aos compromitentes, por cumprimento dos termos de compromisso… | cvm-col-20131029-d18 | fichas/colegiado/2013-21.md |
+| RJ2013/10228 | 2013-10-29 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/10228. | cvm-col-20131029-d17 | fichas/colegiado/2013-21.md |
+| RJ2012/13328 | 2013-10-29 | outro | O Colegiado tornou sem efeito decisão da SMI que indeferiu pedido de suspensão de registro de agente autônomo de investimentos e remeteu os… | cvm-col-20131029-d16 | fichas/colegiado/2013-21.md |
+| RJ2012/4162 | 2013-10-29 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2012/4162. | cvm-col-20131029-d15 | fichas/colegiado/2013-21.md |
+| RJ2013/4313 | 2013-10-29 | outro | O Colegiado aprovou a minuta de Convênio de Cooperação Técnica entre a CVM e o Instituto Brasileiro de Certificação de Profissionais… | cvm-col-20131029-d14 | fichas/colegiado/2013-21.md |
+| RJ2013/7865 | 2013-10-29 | deferido | O Colegiado concedeu anuência à Companhia Paranaense de Gás (COMPAGAS) para a 1ª emissão privada de debêntures simples com garantia… | cvm-col-20131029-d13 | fichas/colegiado/2013-21.md |
+| RJ2013/10521 | 2013-10-29 | deferido | O Colegiado concedeu a anuência para a 3ª emissão privada de debêntures simples nominativas com garantia real da SABESP, com base em… | cvm-col-20131029-d12 | fichas/colegiado/2013-21.md |
+| RJ2012/9185 | 2013-10-29 | nao-provido | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2012/9185. | cvm-col-20131029-d11 | fichas/colegiado/2013-21.md |
+| RJ2012/9082 | 2013-10-29 | conhecimento | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2012/9082. | cvm-col-20131029-d10 | fichas/colegiado/2013-21.md |
+| RJ2012/8096 | 2013-10-29 | nao-provido | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2012/8096. | cvm-col-20131029-d09 | fichas/colegiado/2013-21.md |
+| RJ2012/7211 | 2013-10-29 | nao-provido | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2012/7211. | cvm-col-20131029-d08 | fichas/colegiado/2013-21.md |
+| RJ2012/5020 | 2013-10-29 | provido | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2012/5020. | cvm-col-20131029-d07 | fichas/colegiado/2013-21.md |
+| RJ2012/4745 | 2013-10-29 | provido | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2012/4745. | cvm-col-20131029-d06 | fichas/colegiado/2013-21.md |
+| RJ2011/6318 | 2013-10-29 | nao-provido | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2011/6318. | cvm-col-20131029-d05 | fichas/colegiado/2013-21.md |
+| RJ2011/4924 | 2013-10-29 | nao-provido | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2011/4924. | cvm-col-20131029-d04 | fichas/colegiado/2013-20.md |
+| 16/2008 | 2013-10-29 | outro | Com base em manifestações da SAD e da PFE, o Colegiado determinou o arquivamento do PAS 16/2008 em relação a um dos proponentes, por ter… | cvm-col-20131029-d03 | fichas/colegiado/2013-20.md |
+| RJ2013/8708 | 2013-10-29 | deferido | O Colegiado deferiu pedido do Banco Industrial e Comercial S.A. de autorização para negociação privada de ações de própria emissão, nos… | cvm-col-20131029-d02 | fichas/colegiado/2013-20.md |
+| RJ2013/7956 | 2013-10-22 | outro | O Colegiado, acompanhando a área técnica, aprovou a edição de Deliberação proposta pela SRE sobre atuação irregular no mercado de valores… | cvm-col-20131022-d14 | fichas/colegiado/2013-20.md |
+| RJ2013/10227 | 2013-10-22 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/10227. | cvm-col-20131022-d13 | fichas/colegiado/2013-20.md |
+| RJ2013/10225 | 2013-10-22 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/10225. | cvm-col-20131022-d12 | fichas/colegiado/2013-20.md |
+| RJ2013/10003 | 2013-10-22 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/10003. | cvm-col-20131022-d11 | fichas/colegiado/2013-20.md |
+| RJ2013/10001 | 2013-10-22 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/10001. | cvm-col-20131022-d10 | fichas/colegiado/2013-20.md |
+| RJ2013/10327 | 2013-10-22 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/10327. | cvm-col-20131022-d09 | fichas/colegiado/2013-20.md |
+| RJ2013/10226 | 2013-10-22 | parcial | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/10226. | cvm-col-20131022-d08 | fichas/colegiado/2013-20.md |
+| RJ2013/10232 | 2013-10-22 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/10232. | cvm-col-20131022-d07 | fichas/colegiado/2013-20.md |
+| RJ2013/10230 | 2013-10-22 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/10230. | cvm-col-20131022-d06 | fichas/colegiado/2013-20.md |
+| RJ1999/2682 | 2013-10-22 | nao-provido | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/2682. | cvm-col-20131022-d03 | fichas/colegiado/2013-20.md |
+| 358/2002; RJ2013/3945 | 2013-10-22 | nao-provido | O Colegiado não conheceu do pedido de reconsideração da RJCP Equity S.A. e, no mérito, manteve a decisão de 07.05.2013, que negou recurso… | cvm-col-20131022-d01 | fichas/colegiado/2013-20.md |
+| RJ2010/0963 | 2013-10-15 | outro | O Colegiado determinou o arquivamento do PAS 10/2008 em relação ao compromitente, por cumprimento do termo de compromisso e de ajustamento… | cvm-col-20131015-d29 | fichas/colegiado/2013-20.md |
+| 05/2010; 483/2010; RJ2010/12770 | 2013-10-15 | outro | O Colegiado aprovou a edição de instrução, após audiência pública SDM 05/2010, que altera a Instrução CVM 483/10, sobre a atividade de… | cvm-col-20131015-d28 | fichas/colegiado/2013-20.md |
+| RJ2013/10477 | 2013-10-15 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/10477. | cvm-col-20131015-d27 | fichas/colegiado/2013-20.md |
+| RJ2013/10223 | 2013-10-15 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/10223. | cvm-col-20131015-d26 | fichas/colegiado/2013-20.md |
+| RJ2013/10194 | 2013-10-15 | parcial | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/10194. | cvm-col-20131015-d25 | fichas/colegiado/2013-20.md |
+| RJ2013/10011 | 2013-10-15 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/10011. | cvm-col-20131015-d24 | fichas/colegiado/2013-20.md |
+| RJ2013/10224 | 2013-10-15 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/10224. | cvm-col-20131015-d23 | fichas/colegiado/2013-20.md |
+| RJ2013/10222 | 2013-10-15 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/10222. | cvm-col-20131015-d22 | fichas/colegiado/2013-20.md |
+| RJ2013/10220 | 2013-10-15 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/10220. | cvm-col-20131015-d21 | fichas/colegiado/2013-20.md |
+| RJ2013/10218 | 2013-10-15 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/10218. | cvm-col-20131015-d20 | fichas/colegiado/2013-20.md |
+| RJ2013/10021 | 2013-10-15 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/10021. | cvm-col-20131015-d19 | fichas/colegiado/2013-20.md |
+| RJ2013/10020 | 2013-10-15 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/10020. | cvm-col-20131015-d18 | fichas/colegiado/2013-20.md |
+| RJ2013/10018 | 2013-10-15 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/10018. | cvm-col-20131015-d17 | fichas/colegiado/2013-19.md |
+| RJ2013/10017 | 2013-10-15 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/10017. | cvm-col-20131015-d16 | fichas/colegiado/2013-19.md |
+| RJ2013/10015 | 2013-10-15 | parcial | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/10015. | cvm-col-20131015-d15 | fichas/colegiado/2013-19.md |
+| RJ2013/10013 | 2013-10-15 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/10013. | cvm-col-20131015-d14 | fichas/colegiado/2013-19.md |
+| RJ2013/10012 | 2013-10-15 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/10012. | cvm-col-20131015-d13 | fichas/colegiado/2013-19.md |
+| RJ2013/10010 | 2013-10-15 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/10010. | cvm-col-20131015-d12 | fichas/colegiado/2013-19.md |
+| RJ2013/10008 | 2013-10-15 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/10008. | cvm-col-20131015-d11 | fichas/colegiado/2013-19.md |
+| RJ2013/10006 | 2013-10-15 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/10006. | cvm-col-20131015-d10 | fichas/colegiado/2013-19.md |
+| RJ2013/10005 | 2013-10-15 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/10005. | cvm-col-20131015-d09 | fichas/colegiado/2013-19.md |
+| RJ2012/14288 | 2013-10-15 | nao-provido | O Colegiado indeferiu pedido de reconsideração de decisão que aprovou a Deliberação CVM 704/2013, determinando a suspensão, por sociedades… | cvm-col-20131015-d08 | fichas/colegiado/2013-19.md |
+| RJ2013/4048 | 2013-10-15 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2013/4048. | cvm-col-20131015-d07 | fichas/colegiado/2013-19.md |
+| RJ2013/1290 | 2013-10-15 | deferido | O Colegiado aprovou o registro da oferta pública de distribuição de cotas da 2ª emissão do BBIF FIDC Master LP, com dispensas de prospecto… | cvm-col-20131015-d06 | fichas/colegiado/2013-19.md |
+| RJ2012/7564 | 2013-10-15 | nao-provido | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2012/7564. | cvm-col-20131015-d02 | fichas/colegiado/2013-19.md |
+| SP2007/0139 | 2013-10-15 | nao-provido | O Colegiado indeferiu pedido de revisão de decisão sancionadora no PAS SP2007/0139, apresentado pela TOV CCTVM Ltda. e outros, por… | cvm-col-20131015-d01 | fichas/colegiado/2013-19.md |
+| — | 2013-10-11 | outro | O Colegiado aprovou a versão final do relatório semestral (jan-jun/2013) do Plano Bienal 2013/2014 do Sistema de Supervisão Baseado em… | cvm-col-20131011-d01 | fichas/colegiado/2013-19.md |
+| RJ2013/5756 | 2013-10-09 | — | O Colegiado deu continuidade à discussão de minuta que incluiria ações e debêntures conversíveis ou permutáveis em ações no rol de valores… | cvm-col-20131009-d01 | fichas/colegiado/2013-19.md |
+| RJ2012/2904 | 2013-10-08 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2012/2904. | cvm-col-20131008-d10 | fichas/colegiado/2013-19.md |
+| RJ2013/7830 | 2013-10-08 | outro | O Colegiado, acompanhando a área técnica, aprovou a edição de Deliberação da SIN sobre atuação irregular no mercado de valores mobiliários… | cvm-col-20131008-d09 | fichas/colegiado/2013-19.md |
+| RJ2013/5369 | 2013-10-08 | nao-provido | O Colegiado negou provimento a recurso contra indeferimento, pela SIN, de credenciamento de administrador de carteira por falta do… | cvm-col-20131008-d08 | fichas/colegiado/2013-19.md |
+| RJ2013/9962 | 2013-10-08 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/9962. | cvm-col-20131008-d07 | fichas/colegiado/2013-19.md |
+| RJ2013/9961 | 2013-10-08 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/9961. | cvm-col-20131008-d06 | fichas/colegiado/2013-19.md |
+| RJ2013/9959 | 2013-10-08 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/9959. | cvm-col-20131008-d05 | fichas/colegiado/2013-19.md |
+| RJ2013/9957 | 2013-10-08 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/9957. | cvm-col-20131008-d04 | fichas/colegiado/2013-19.md |
+| RJ2011/7940 | 2013-10-08 | outro | O Colegiado arquivou o PAS RJ2011/7940 para cinco proponentes, por terem pago o Termo de Compromisso na forma convencionada e não haver… | cvm-col-20131008-d03 | fichas/colegiado/2013-19.md |
+| RJ2012/9832 | 2013-10-08 | — | Requerimento de prazo adicional de 10 dias para cumprir a obrigação pecuniária do termo de compromisso aprovado em 13.06.2013 no PAS… | cvm-col-20131008-d02 | fichas/colegiado/2013-18.md |
+| RJ2013/5756 | 2013-10-08 | — | O Colegiado deu continuidade à discussão de minuta que inclui ações e debêntures conversíveis ou permutáveis em ações no rol de valores… | cvm-col-20131008-d01-r2 | fichas/colegiado/2013-18.md |
+| RJ2013/0740 | 2013-10-01 | outro | O Colegiado determinou o arquivamento do PAS RJ2012/9652 em relação aos compromitentes, por ter sido cumprido o Termo de Compromisso… | cvm-col-20131001-d19 | fichas/colegiado/2013-18.md |
+| RJ2013/10000 | 2013-10-01 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/10000. | cvm-col-20131001-d18 | fichas/colegiado/2013-18.md |
+| RJ2013/9998 | 2013-10-01 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/9998. | cvm-col-20131001-d17 | fichas/colegiado/2013-18.md |
+| RJ2013/10041 | 2013-10-01 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/10041. | cvm-col-20131001-d16 | fichas/colegiado/2013-18.md |
+| RJ2013/10039 | 2013-10-01 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/10039. | cvm-col-20131001-d15 | fichas/colegiado/2013-18.md |
+| RJ2013/9911 | 2013-10-01 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/9911. | cvm-col-20131001-d14 | fichas/colegiado/2013-18.md |
+| RJ2013/9948 | 2013-10-01 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/9948. | cvm-col-20131001-d13 | fichas/colegiado/2013-18.md |
+| RJ2013/9946 | 2013-10-01 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/9946. | cvm-col-20131001-d12 | fichas/colegiado/2013-18.md |
+| RJ2013/9943 | 2013-10-01 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/9943. | cvm-col-20131001-d11 | fichas/colegiado/2013-18.md |
+| RJ2013/9940 | 2013-10-01 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/9940. | cvm-col-20131001-d10 | fichas/colegiado/2013-18.md |
+| RJ2013/9939 | 2013-10-01 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/9939. | cvm-col-20131001-d09 | fichas/colegiado/2013-18.md |
+| RJ2013/9938 | 2013-10-01 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/9938. | cvm-col-20131001-d08 | fichas/colegiado/2013-18.md |
+| RJ2013/9909 | 2013-10-01 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/9909. | cvm-col-20131001-d07 | fichas/colegiado/2013-18.md |
+| RJ2013/9907 | 2013-10-01 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/9907. | cvm-col-20131001-d06 | fichas/colegiado/2013-18.md |
+| RJ2013/9906 | 2013-10-01 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/9906. | cvm-col-20131001-d05 | fichas/colegiado/2013-18.md |
+| RJ2013/9684 | 2013-10-01 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/9684. | cvm-col-20131001-d04 | fichas/colegiado/2013-18.md |
+| RJ2013/9897 | 2013-10-01 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2013/9897. | cvm-col-20131001-d03 | fichas/colegiado/2013-18.md |
+| RJ2013/9871 | 2013-10-01 | parcial | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2013/9871. | cvm-col-20131001-d02 | fichas/colegiado/2013-18.md |
+| RJ2013/9574 | 2013-10-01 | nao-provido | O Colegiado indeferiu, acompanhando a SRE, o recurso de nove fundos contra a decisão que negou atualizar o laudo de avaliação da OPA… | cvm-col-20131001-d01 | fichas/colegiado/2013-18.md |
+| RJ2013/7298 | 2013-10-01 | indeferido | O Colegiado indeferiu pedido da Eneva S.A. de tratamento confidencial às declarações de voto de membros do conselho de administração (art… | cvm-col-20131001-d01-r2 | fichas/colegiado/2013-18.md |
+| 08/2013; 358/2002; 480/2009; RJ2013/5758 | 2013-09-25 | outro | O Colegiado, atendendo a pedido da AMEC, prorrogou até 10/10/2013 o prazo para comentários à audiência pública SDM 08/2013, sobre minuta… | cvm-col-20130925-d01 | fichas/colegiado/2013-18.md |
+| RJ2013/9823 | 2013-09-24 | parcial | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2013/9823. | cvm-col-20130924-d13 | fichas/colegiado/2013-18.md |
+| RJ2013/9803 | 2013-09-24 | parcial | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2013/9803. | cvm-col-20130924-d12 | fichas/colegiado/2013-18.md |
+| RJ2013/9802 | 2013-09-24 | parcial | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2013/9802. | cvm-col-20130924-d11 | fichas/colegiado/2013-18.md |
+| RJ2013/9765 | 2013-09-24 | parcial | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2013/9765. | cvm-col-20130924-d10 | fichas/colegiado/2013-17.md |
+| RJ2013/9698 | 2013-09-24 | parcial | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2013/9698. | cvm-col-20130924-d09 | fichas/colegiado/2013-17.md |
+| RJ2013/9685 | 2013-09-24 | parcial | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2013/9685. | cvm-col-20130924-d08 | fichas/colegiado/2013-17.md |
+| 472/2008; RJ2011/12610 | 2013-09-24 | — | Reclamação de cotista contra a administradora de FII Caixa Econômica Federal sobre o quórum para destituição e substituição do… | cvm-col-20130924-d07 | fichas/colegiado/2013-17.md |
+| 521/2012; RJ2011/14772 | 2013-09-24 | outro | O Colegiado, por unanimidade, acompanhou o voto do relator e as conclusões da SIN na consulta da Fitch Ratings sobre a Instrução CVM… | cvm-col-20130924-d06 | fichas/colegiado/2013-17.md |
+| 400/2003 | 2013-09-24 | outro | O Colegiado aprovou, para audiência pública de 30 dias, minuta que altera a Instrução CVM 400/03 (ofertas públicas de distribuição) para… | cvm-col-20130924-d05 | fichas/colegiado/2013-17.md |
+| RJ2012/8371 | 2013-09-24 | outro | O Colegiado determinou o arquivamento do PAS RJ2012/8371, por ter sido cumprido o Termo de Compromisso firmado pelos únicos acusados. A SAD… | cvm-col-20130924-d04 | fichas/colegiado/2013-17.md |
+| RJ2012/8093 | 2013-09-24 | outro | O Colegiado determinou o arquivamento do PAS RJ2012/8093, por ter sido cumprido o termo de compromisso firmado pelo único acusado, pessoa… | cvm-col-20130924-d03 | fichas/colegiado/2013-17.md |
+| RJ2012/5036 | 2013-09-24 | outro | O Colegiado determinou o arquivamento do PAS RJ2012/5036 em relação ao único acusado, por ter sido cumprido o Termo de Compromisso aprovado… | cvm-col-20130924-d02 | fichas/colegiado/2013-17.md |
+| RJ2012/8087 | 2013-09-24 | outro | O Colegiado determinou o arquivamento do PAS RJ2012/8087 por cumprimento do Termo de Compromisso firmado pelo único acusado (aprovado em… | cvm-col-20130924-d01 | fichas/colegiado/2013-17.md |
+| RJ2013/9746 | 2013-09-18 | outro | O Colegiado aprovou, para audiência pública de 30 dias, minuta de deliberação que aprova o Documento de Revisão de Pronunciamentos Técnicos… | cvm-col-20130918-d03 | fichas/colegiado/2013-17.md |
+| RJ2013/9745 | 2013-09-18 | outro | O Colegiado aprovou, para audiência pública de 30 dias, a minuta de deliberação que aprova o Documento de Revisão de Interpretações… | cvm-col-20130918-d02 | fichas/colegiado/2013-17.md |
+| 13/2012; RJ2012/15066 | 2013-09-18 | outro | O Colegiado aprovou a Deliberação que aprova a Interpretação Técnica ICPC 18 (custos de remoção de estéril na fase de produção de mina de… | cvm-col-20130918-d01 | fichas/colegiado/2013-17.md |
+| RJ2012/0251; RJ2012/0252 | 2013-09-17 | nao-provido | Recursos em processo de mecanismo de ressarcimento de prejuízos. Proc. s. RJ2012/0251 e RJ2012/0252. | cvm-col-20130917-d08 | fichas/colegiado/2013-17.md |
+| RJ2013/5756 | 2013-09-17 | — | O Colegiado deu início à discussão de alteração da Instrução CVM 476/09 para incluir ações e debêntures conversíveis ou permutáveis em… | cvm-col-20130917-d07 | fichas/colegiado/2013-17.md |
+| RJ2012/9557 | 2013-09-17 | outro | O Colegiado determinou o arquivamento do PAS RJ2012/9557, por ter sido cumprido o termo de compromisso firmado pela Martinelli Auditores e… | cvm-col-20130917-d06 | fichas/colegiado/2013-17.md |
+| RJ2012/10347 | 2013-09-17 | outro | O Colegiado determinou o arquivamento do processo em relação aos compromitentes, por ter sido cumprido o Termo de Compromisso aprovado em… | cvm-col-20130917-d05 | fichas/colegiado/2013-17.md |
+| SP2011/0099 | 2013-09-17 | outro | O Colegiado determinou o arquivamento do PAS SP2011/0099 por cumprimento do Termo de Compromisso firmado pela corretora e por um acusado… | cvm-col-20130917-d04 | fichas/colegiado/2013-17.md |
+| RJ2013/9694 | 2013-09-17 | parcial | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2013/9694. | cvm-col-20130917-d03 | fichas/colegiado/2013-17.md |
+| RJ2012/12063 | 2013-09-17 | nao-provido | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2012/12063. | cvm-col-20130917-d02 | fichas/colegiado/2013-17.md |
+| RJ2012/1046 | 2013-09-17 | parcial | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2012/1046. | cvm-col-20130917-d01 | fichas/colegiado/2013-17.md |
+| RJ2013/8607 | 2013-09-10 | deferido | O Colegiado deferiu o pedido de Santander e BTG Pactual para que investidores com registro na Resolução CMN 2.689/00 recebam, em eventual… | cvm-col-20130910-d12 | fichas/colegiado/2013-17.md |
+| RJ2012/7465 | 2013-09-10 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2012/7465. | cvm-col-20130910-d11 | fichas/colegiado/2013-17.md |
+| RJ2013/7536 | 2013-09-10 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/7536. | cvm-col-20130910-d10 | fichas/colegiado/2013-16.md |
+| RJ2013/7335 | 2013-09-10 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/7335. | cvm-col-20130910-d09 | fichas/colegiado/2013-16.md |
+| RJ2013/7334 | 2013-09-10 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/7334. | cvm-col-20130910-d08 | fichas/colegiado/2013-16.md |
+| RJ2013/7332 | 2013-09-10 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/7332. | cvm-col-20130910-d07 | fichas/colegiado/2013-16.md |
+| RJ2013/7208; RJ2013/7212; RJ2013/7232; RJ2013/7234; RJ2013/7235; RJ2013/7237; RJ2013/7238; RJ2013/7240; RJ2013/7242; RJ2013/7243; RJ2013/7246; RJ2013/7252; RJ2013/7254; RJ2013/7256; RJ2013/7257 | 2013-09-10 | nao-provido | Recursos contra decisão da SIN em processo de multa cominatória. Proc. s. RJ2013/7208, RJ2013/7212, RJ2013/7232, RJ2013/7234, RJ2013/7235… | cvm-col-20130910-d06 | fichas/colegiado/2013-16.md |
+| RJ2013/7054 | 2013-09-10 | deferido | O Colegiado, por unanimidade, autorizou a negociação privada de cotas do Union National FIDC, em liquidação ordinária, pelo investidor não… | cvm-col-20130910-d05 | fichas/colegiado/2013-16.md |
+| RJ2003/1074; RJ2008/11441; RJ2011/3464 | 2013-09-10 | outro | O Colegiado aprovou, para audiência pública de 60 dias, minuta de Instrução que revoga a Instrução CVM 10/80 (aquisição de ações próprias)… | cvm-col-20130910-d04 | fichas/colegiado/2013-16.md |
+| RJ2003/1074; RJ2008/11441; RJ2011/3464 | 2013-09-04 | — | Sem deliberação final: o Colegiado deu continuidade à discussão de minuta de Instrução que revogaria a Instrução CVM 10/80 (ações de… | cvm-col-20130904-d01 | fichas/colegiado/2013-16.md |
+| RJ2012/4464 | 2013-09-03 | outro | O Colegiado determinou o arquivamento do PAS RJ2012/4464 da Vanguarda Agro S.A., por ter sido cumprido o Termo de Compromisso firmado pelo… | cvm-col-20130903-d05 | fichas/colegiado/2013-16.md |
+| RJ1990/1867 | 2013-09-03 | deferido | O Colegiado deferiu o pedido da Credit Suisse Hedging-Griffo Corretora de Valores S.A. para indicar mais um diretor responsável pela… | cvm-col-20130903-d04 | fichas/colegiado/2013-16.md |
+| RJ2011/14560 | 2013-09-03 | outro | O Colegiado, por unanimidade, acompanhou o voto da relatora e o entendimento da SIN que deferiu o credenciamento do Banco Société Générale… | cvm-col-20130903-d03 | fichas/colegiado/2013-16.md |
+| RJ2008/4035 | 2013-09-03 | outro | O Colegiado aprovou a minuta de termo aditivo ao convênio de cooperação acadêmica e técnica entre a CVM e o Instituto Internacional de… | cvm-col-20130903-d02 | fichas/colegiado/2013-16.md |
+| RJ2011/9487 | 2013-09-03 | outro | O Colegiado determinou o arquivamento do PAS RJ2011/9487 da Multiner S.A., por ter sido cumprido o Termo de Compromisso firmado pela única… | cvm-col-20130903-d01 | fichas/colegiado/2013-16.md |
+| RJ2003/1074; RJ2008/11441; RJ2011/3464 | 2013-08-28 | — | O Colegiado deu continuidade à discussão de minuta para revogar as Instruções CVM 10/80 (recompra de ações para cancelamento ou tesouraria)… | cvm-col-20130828-d01 | fichas/colegiado/2013-16.md |
+| RJ2013/5929 | 2013-08-27 | deferido | O Colegiado, por unanimidade, autorizou o registro da oferta pública da 9ª série da 1ª emissão de CRA da Octante Securitizadora S.A… | cvm-col-20130827-d03 | fichas/colegiado/2013-16.md |
+| 494/2011; RJ2012/10374 | 2013-08-27 | outro | O Colegiado, acompanhando o voto do Presidente, decidiu que a CVM pode rever o entendimento da Bolsa sobre cogestão em clubes de… | cvm-col-20130827-d01 | fichas/colegiado/2013-16.md |
+| 06/2013; RJ2003/11499 | 2013-08-23 | parcial | O Colegiado atendeu em parte o pedido da ATG – Americas Trading Group S.A. e prorrogou até 10.09.13 o prazo para comentários às minutas de… | cvm-col-20130823-d01 | fichas/colegiado/2013-16.md |
+| RJ2003/1074; RJ2008/11441; RJ2011/3464 | 2013-08-21 | — | O Colegiado deu continuidade à discussão de minuta de Instrução que revogaria as Instruções CVM 10/80 e 390/03 e alteraria a Instrução CVM… | cvm-col-20130821-d01 | fichas/colegiado/2013-16.md |
+| RJ2012/7132 | 2013-08-20 | outro | O Colegiado determinou o arquivamento do PAS RJ2012/7132 por cumprimento dos Termos de Compromisso firmados pelos únicos acusados… | cvm-col-20130820-d13 | fichas/colegiado/2013-15.md |
+| 409/2004; RJ2013/8435 | 2013-08-20 | outro | O Colegiado aprovou a edição de Instrução que acrescenta dispositivo à ICVM 409/04 prevendo autorização automática da CVM para… | cvm-col-20130820-d12 | fichas/colegiado/2013-15.md |
+| RJ2013/7210 | 2013-08-20 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/7210. | cvm-col-20130820-d11 | fichas/colegiado/2013-15.md |
+| RJ2013/7209 | 2013-08-20 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/7209. | cvm-col-20130820-d10 | fichas/colegiado/2013-15.md |
+| RJ2010/14254 | 2013-08-20 | provido | O Colegiado deu provimento ao recurso da BR Malls Participações S.A. contra entendimento da SEP, reformando-o: a avaliação do patrimônio… | cvm-col-20130820-d09 | fichas/colegiado/2013-15.md |
+| SP2011/0056 | 2013-08-20 | nao-provido | O Colegiado indeferiu, por unanimidade, recurso contra decisão da SIN que não identificou irregularidade na convocação de assembleia de… | cvm-col-20130820-d08 | fichas/colegiado/2013-15.md |
+| RJ2013/6421 | 2013-08-20 | outro | O Colegiado recomendou à SRE que aprofunde a análise de possível oferta pública irregular da Porto Forte Participações, Assessoria… | cvm-col-20130820-d07 | fichas/colegiado/2013-15.md |
+| RJ2013/8780 | 2013-08-20 | outro | O Colegiado aprovou, para audiência pública de 30 dias, minuta de Instrução que altera a ICVM 461/07 para regulamentar o art. 28 da Lei… | cvm-col-20130820-d04 | fichas/colegiado/2013-15.md |
+| RJ2009/10850 | 2013-08-20 | nao-provido | O Colegiado negou o pedido de reconsideração da Inepar S.A. Indústria e Construções, por não haver fatos novos, e manteve a decisão de… | cvm-col-20130820-d03 | fichas/colegiado/2013-15.md |
+| RJ2009/10849 | 2013-08-20 | nao-provido | O Colegiado, por unanimidade, manteve a decisão de 16/11/2011 que indeferiu recurso sobre ajustes nas demonstrações financeiras da Inepar… | cvm-col-20130820-d02 | fichas/colegiado/2013-15.md |
+| 358/2002; 480/2009; RJ2013/5758 | 2013-08-20 | outro | O Colegiado aprovou minuta de Instrução que altera a Instrução CVM 358/02 (ato ou fato relevante) e a Instrução CVM 480/09 (registro de… | cvm-col-20130820-d01 | fichas/colegiado/2013-15.md |
+| RJ2003/1074; RJ2008/11441; RJ2011/3464 | 2013-08-14 | — | O Colegiado deu continuidade à discussão de minuta que revoga as Instruções CVM 10/80 (ações de emissão própria) e 390/03 (opções sobre… | cvm-col-20130814-d01 | fichas/colegiado/2013-15.md |
+| 028/2013 | 2013-08-13 | outro | O Colegiado aprovou a minuta de convênio entre a CVM e o Conselho Federal de Contabilidade para intercâmbio de informações sobre… | cvm-col-20130813-d09 | fichas/colegiado/2013-15.md |
+| SP2013/0207 | 2013-08-13 | deferido | O Colegiado, por unanimidade, aprovou o pedido do Banco Santander (Brasil) S.A. de programa de reinvestimento automático de dividendos, com… | cvm-col-20130813-d08 | fichas/colegiado/2013-15.md |
+| RJ2013/7388 | 2013-08-13 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/7388. | cvm-col-20130813-d07 | fichas/colegiado/2013-15.md |
+| RJ2013/7387 | 2013-08-13 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/7387. | cvm-col-20130813-d06 | fichas/colegiado/2013-15.md |
+| RJ2013/7386 | 2013-08-13 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/7386. | cvm-col-20130813-d05 | fichas/colegiado/2013-15.md |
+| RJ2013/6461 | 2013-08-13 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/6461. | cvm-col-20130813-d04 | fichas/colegiado/2013-15.md |
+| RJ2013/1890 | 2013-08-13 | deferido | O Colegiado autorizou o Banco Pine S.A. a negociar de forma privada ações de sua emissão, mantidas em tesouraria ou recompradas, para… | cvm-col-20130813-d03 | fichas/colegiado/2013-15.md |
+| RJ2012/0130 | 2013-08-13 | outro | O Colegiado determinou o arquivamento do PAS RJ2012/0130 da Cemig Telecomunicações S.A., por ter sido cumprido o Termo de Compromisso… | cvm-col-20130813-d02 | fichas/colegiado/2013-14.md |
+| RJ2012/2986 | 2013-08-13 | nao-provido | O Colegiado manteve a determinação da SIN, acompanhando o voto de um diretor: a destituição e a substituição do administrador de FII… | cvm-col-20130813-d01 | fichas/colegiado/2013-14.md |
+| SP2013/0267 | 2013-08-09 | parcial | O Colegiado aprovou parcialmente o novo Regulamento de Listagem da BM&FBovespa, acompanhando a área técnica (SMI, Memo/CVM/SMI/Nº… | cvm-col-20130809-d01 | fichas/colegiado/2013-14.md |
+| 08/2012; 359/2002; RJ2012/10996 | 2013-08-07 | outro | O Colegiado aprovou a edição de Instrução, após audiência pública SDM 08/2012, que altera a Instrução CVM 359/02 para dispor sobre a… | cvm-col-20130807-d01 | fichas/colegiado/2013-14.md |
+| 05/2013; RJ2013/6438 | 2013-08-06 | deferido | O Colegiado prorrogou, até 11.09.13, o prazo para comentários à Audiência Pública SDM 05/2013, sobre a possível introdução de concorrência… | cvm-col-20130806-d06 | fichas/colegiado/2013-14.md |
+| RJ2012/13362 | 2013-08-06 | indeferido | O Colegiado indeferiu, por unanimidade, o pedido de cancelamento de registro de companhia aberta, com base na SRE: a CVM não pode dispensar… | cvm-col-20130806-d05 | fichas/colegiado/2013-14.md |
+| RJ2012/3787 | 2013-08-06 | indeferido | O Colegiado indeferiu o pedido de prorrogação do prazo para assinatura de Termo de Compromisso aprovado em 05/02/2013 (PAS RJ2012/3787)… | cvm-col-20130806-d04 | fichas/colegiado/2013-14.md |
+| SP2013/0331 | 2013-08-06 | indeferido | Proposta de alteração do regulamento do mecanismo de ressarcimento de prejuízo. Proc. SP2013/0331. | cvm-col-20130806-d03 | fichas/colegiado/2013-14.md |
+| 472/2008; RJ2013/4565 | 2013-08-06 | — | Consulta sobre a figura do representante dos cotistas de fundo de investimento imobiliário, à luz da Instrução CVM 472/2008. Julgamento… | cvm-col-20130806-d02 | fichas/colegiado/2013-14.md |
+| 472/2008; RJ2012/13220; RJ2012/15177 | 2013-08-06 | indeferido | O Colegiado indeferiu dispensa do art. 34 da Instrução CVM 472/08 pleiteada por administradoras de FII: operações com administrador, gestor… | cvm-col-20130806-d01 | fichas/colegiado/2013-14.md |
+| RJ2013/7307 | 2013-08-02 | deferido | O Colegiado deferiu o pedido da OSX Brasil S.A. de tratamento confidencial para novo plano de negócios, com base no § 3º do art. 56 da… | cvm-col-20130802-d01 | fichas/colegiado/2013-14.md |
+| RJ2012/14764 | 2013-07-30 | nao-provido | O Colegiado indeferiu recurso de acionistas contra a SRE, que julgara improcedente reclamação sobre revisão de preço (art. 4º-A, Lei… | cvm-col-20130730-d15 | fichas/colegiado/2013-14.md |
+| RJ2012/8806 | 2013-07-30 | provido | O Colegiado deferiu recurso de agente autônomo de investimento contra decisão da SMI que cancelou seu registro em março de 2012… | cvm-col-20130730-d14 | fichas/colegiado/2013-14.md |
+| RJ2013/3537 | 2013-07-30 | deferido | O Colegiado deferiu, acompanhando a manifestação da SIN (Memo/CVM/SIN/GIF/Nº 129/2013), a dispensa de Lâmina de Informações Essenciais e de… | cvm-col-20130730-d13 | fichas/colegiado/2013-14.md |
+| RJ2013/5454 | 2013-07-30 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/5454. | cvm-col-20130730-d12 | fichas/colegiado/2013-14.md |
+| RJ2013/7398 | 2013-07-30 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/7398. | cvm-col-20130730-d11 | fichas/colegiado/2013-14.md |
+| RJ2013/7402 | 2013-07-30 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/7402. | cvm-col-20130730-d10 | fichas/colegiado/2013-14.md |
+| RJ2013/7401 | 2013-07-30 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/7401. | cvm-col-20130730-d09 | fichas/colegiado/2013-14.md |
+| RJ2013/7399 | 2013-07-30 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/7399. | cvm-col-20130730-d08 | fichas/colegiado/2013-14.md |
+| RJ2013/5496 | 2013-07-30 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/5496. | cvm-col-20130730-d07 | fichas/colegiado/2013-14.md |
+| RJ2012/11394 | 2013-07-30 | nao-provido | O Colegiado não acatou pedido de reconsideração da massa falida da S.A. Viação Aérea Rio-Grandense contra decisão que manteve multa de mora… | cvm-col-20130730-d06 | fichas/colegiado/2013-14.md |
+| RJ2012/7765 | 2013-07-30 | outro | O Colegiado determinou o arquivamento do processo RJ2012/7765 em relação à XP Investimentos CCTVM S.A., por cumprimento do termo de… | cvm-col-20130730-d05 | fichas/colegiado/2013-13.md |
+| RJ2012/7133 | 2013-07-30 | outro | O Colegiado determinou o arquivamento do PAS RJ2012/7133 por cumprimento do termo de compromisso firmado pela PricewaterhouseCoopers… | cvm-col-20130730-d04 | fichas/colegiado/2013-13.md |
+| — | 2013-07-30 | outro | O Colegiado aprovou a minuta de Convênio com a ACAF (Associação dos Apoiadores do Comitê de Aquisições e Fusões) para aproveitar a atuação… | cvm-col-20130730-d01 | fichas/colegiado/2013-13.md |
+| RJ2011/6066 | 2013-07-23 | outro | O Colegiado determinou o arquivamento do PAS RJ2011/6066 por cumprimento do termo de compromisso firmado pela Santander Brasil Asset… | cvm-col-20130723-d06 | fichas/colegiado/2013-13.md |
+| SP2013/0235 | 2013-07-23 | outro | O Colegiado, acompanhando a área técnica, aprovou a edição de Deliberação da SIN sobre atuação irregular no mercado de valores mobiliários… | cvm-col-20130723-d05 | fichas/colegiado/2013-13.md |
+| RJ2013/0267 | 2013-07-23 | outro | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2013/0267. | cvm-col-20130723-d04 | fichas/colegiado/2013-13.md |
+| RJ2012/3951 | 2013-07-23 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2012/3951. | cvm-col-20130723-d03 | fichas/colegiado/2013-13.md |
+| RJ2012/4742 | 2013-07-23 | nao-provido | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2012/4742. | cvm-col-20130723-d02 | fichas/colegiado/2013-13.md |
+| RJ2012/15551 | 2013-07-23 | deferido | O Colegiado concedeu as dispensas pleiteadas (laudo de avaliação e prospecto sobre Abertis) na OPA mista por alienação de controle da… | cvm-col-20130723-d01 | fichas/colegiado/2013-13.md |
+| RJ2012/15551 | 2013-07-16 | — | Pedido de registro de OPA por alienação de controle da Arteris S.A., com procedimento diferenciado (art. 34 da Instrução CVM 361/02)… | cvm-col-20130716-d01 | fichas/colegiado/2013-13.md |
+| — | 2013-07-09 | outro | O Colegiado aprovou minuta de Decisão Conjunta CVM/BACEN que cria grupo de trabalho com servidores das duas instituições para estudar a… | cvm-col-20130709-d09 | fichas/colegiado/2013-13.md |
+| RJ2013/0565 | 2013-07-09 | deferido | O Colegiado deferiu pedido da JBS para alienar privadamente aproximadamente 8.900.000 ações em tesouraria como pagamento na aquisição de… | cvm-col-20130709-d08 | fichas/colegiado/2013-13.md |
+| 20/2009 | 2013-07-09 | outro | O Colegiado determinou o arquivamento do PAS 20/2009 por cumprimento do termo de compromisso firmado pelas empresas Petrix Overseas Ltd. e… | cvm-col-20130709-d07 | fichas/colegiado/2013-13.md |
+| RJ2012/3663 | 2013-07-09 | nao-provido | O Colegiado indeferiu recurso contra multa de mora (art. 37-A da Lei 10.522/02) incidente sobre a multa pecuniária do PAS RJ2007/8672… | cvm-col-20130709-d06 | fichas/colegiado/2013-13.md |
+| RJ2012/10919 | 2013-07-09 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2012/10919. | cvm-col-20130709-d05 | fichas/colegiado/2013-13.md |
+| RJ2009/12118 | 2013-07-09 | parcial | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2009/12118. | cvm-col-20130709-d04 | fichas/colegiado/2013-13.md |
+| RJ2009/12110 | 2013-07-09 | parcial | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2009/12110. | cvm-col-20130709-d03 | fichas/colegiado/2013-13.md |
+| RJ2003/1074; RJ2008/11441; RJ2011/3464 | 2013-07-03 | — | O Colegiado deu início à discussão de minuta de Instrução que revogaria as Instruções CVM 10/80 (aquisição de ações próprias) e 390/03… | cvm-col-20130703-d01 | fichas/colegiado/2013-13.md |
+| RJ2012/4696 | 2013-07-02 | outro | O Colegiado aprovou o texto do Memorando de Entendimento (MOU) a ser assinado entre a CVM e a FINRA, para cooperação e troca de… | cvm-col-20130702-d05 | fichas/colegiado/2013-13.md |
+| RJ2013/318 | 2013-07-02 | outro | O Colegiado aprovou o texto do Memorando de Entendimento (MOU) a ser assinado entre a CVM e a Emirates Securities and Commodities Authority… | cvm-col-20130702-d04 | fichas/colegiado/2013-13.md |
+| RJ2013/5710 | 2013-07-02 | outro | O Colegiado aprovou minuta de instrução que altera a Instrução CVM 391/03 (fundos de investimento em participações) para audiência pública… | cvm-col-20130702-d03 | fichas/colegiado/2013-13.md |
+| RJ2013/7059 | 2013-06-25 | outro | O Colegiado, por unanimidade, aprovou a política uniformizada de identificação e gerenciamento de riscos da CVM, nos termos do… | cvm-col-20130625-d06 | fichas/colegiado/2013-12.md |
+| RJ2013/430 | 2013-06-25 | deferido | O Colegiado deferiu, por unanimidade, a prorrogação por um ano do prazo de funcionamento do Life FMIEE, com dispensa do caput do art. 2º da… | cvm-col-20130625-d05 | fichas/colegiado/2013-12.md |
+| RJ2013/1452 | 2013-06-25 | deferido | O Colegiado deferiu, acatando integralmente a manifestação da SIN (Memo/SIN/GIE/117/2013), a prorrogação por três anos do prazo de… | cvm-col-20130625-d04 | fichas/colegiado/2013-12.md |
+| RJ2012/8019 | 2013-06-25 | deferido | O Colegiado concedeu as três dispensas pleiteadas pela Marfrig Alimentos S.A. no registro de OPA por alienação de controle da Excelsior… | cvm-col-20130625-d03 | fichas/colegiado/2013-12.md |
+| RJ2010/9101 | 2013-06-25 | outro | O Colegiado, por unanimidade, arquivou o pedido de dispensas de requisitos para oferta pública de derivativos Forex do Didier Levy… | cvm-col-20130625-d02 | fichas/colegiado/2013-12.md |
+| 09/2012; RJ2011/8260 | 2013-06-19 | outro | O Colegiado aprovou a edição de Instrução, elaborada após audiência pública SDM 09/2012, que altera a Instrução CVM 391/03 (FIP) para… | cvm-col-20130619-d01 | fichas/colegiado/2013-12.md |
+| RJ2013/1628 | 2013-06-18 | outro | O Colegiado, acompanhando a área técnica, aprovou a edição de Deliberação apresentada pela SRE sobre atuação irregular no mercado de… | cvm-col-20130618-d05 | fichas/colegiado/2013-12.md |
+| SP2013/0267 | 2013-06-18 | outro | O Colegiado aprovou as exigências e esclarecimentos apresentados pela SMI, a serem encaminhados à BM&FBOVESPA, sobre o pedido de alteração… | cvm-col-20130618-d04 | fichas/colegiado/2013-12.md |
+| RJ2013/5182 | 2013-06-18 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SIN que indeferiu credenciamento de administrador de carteira por não atendimento… | cvm-col-20130618-d03 | fichas/colegiado/2013-12.md |
+| RJ2012/13700 | 2013-06-18 | nao-provido | O Colegiado, por unanimidade, indeferiu recurso de fundo multimercado contra decisão da SEP que negou acesso a procedimento arbitral… | cvm-col-20130618-d02 | fichas/colegiado/2013-12.md |
+| 04/2013; RJ2009/12670 | 2013-06-18 | deferido | O Colegiado deferiu pedidos da AMEC e do IBGC e prorrogou até 22.07.13 o prazo para comentários à minuta que altera a Instrução CVM 319/99… | cvm-col-20130618-d01 | fichas/colegiado/2013-12.md |
+| RJ2013/5583 | 2013-06-13 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/5583. | cvm-col-20130613-d10 | fichas/colegiado/2013-12.md |
+| RJ2012/14854 | 2013-06-13 | deferido | O Colegiado deferiu à Minerva S.A. autorização para alienar em negociação privada 830.000 ações ordinárias mantidas em tesouraria, a R$… | cvm-col-20130613-d09 | fichas/colegiado/2013-12.md |
+| RJ2013/5452 | 2013-06-13 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/5452. | cvm-col-20130613-d08 | fichas/colegiado/2013-12.md |
+| RJ2013/5225 | 2013-06-13 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/5225. | cvm-col-20130613-d07 | fichas/colegiado/2013-12.md |
+| RJ2013/0349; RJ2013/0350; RJ2013/0351 | 2013-06-13 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. s. RJ2013/0349, RJ2013/0350 e RJ2013/0351. | cvm-col-20130613-d06 | fichas/colegiado/2013-12.md |
+| RJ2012/12177 | 2013-06-13 | outro | O Colegiado, por unanimidade, declarou a perda de objeto do pedido de reconsideração do indeferimento de registro da 289ª série de CRI da… | cvm-col-20130613-d02 | fichas/colegiado/2013-12.md |
+| 05/2008 | 2013-06-13 | nao-provido | O Colegiado, por unanimidade, manteve decisões monocráticas que indeferiram pedidos de revisão (art. 65 da Lei 9.784/99) com pedido de… | cvm-col-20130613-d01 | fichas/colegiado/2013-12.md |
+| RJ2013/6438 | 2013-06-12 | outro | O Colegiado aprovou, para audiência pública até 12 de agosto de 2013, convite a manifestações sobre opções regulatórias para riscos… | cvm-col-20130612-d02 | fichas/colegiado/2013-12.md |
+| RJ2003/11499 | 2013-06-12 | outro | O Colegiado aprovou para audiência pública, pelo prazo de 60 dias, minutas de Instrução que alteram a Instrução CVM 89/88, com regras de… | cvm-col-20130612-d01 | fichas/colegiado/2013-12.md |
+| RJ2012/8335 | 2013-06-11 | deferido | O Colegiado deferiu tratamento confidencial a documentos da BM&FBOVESPA apresentados em atendimento ao Ofício CVM/SEP/GEA-3/322/2013… | cvm-col-20130611-d01 | fichas/colegiado/2013-11.md |
+| RJ2013/5608 | 2013-06-04 | indeferido | O Colegiado indeferiu pedido de interrupção do prazo de antecedência da AGE do Banco Mercantil do Brasil S.A., convocada para 10.06.2013… | cvm-col-20130604-d09 | fichas/colegiado/2013-11.md |
+| RJ2013/5542 | 2013-06-04 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/5542. | cvm-col-20130604-d08 | fichas/colegiado/2013-11.md |
+| RJ2013/5520 | 2013-06-04 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/5520. | cvm-col-20130604-d07 | fichas/colegiado/2013-11.md |
+| RJ2013/5484 | 2013-06-04 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/5484. | cvm-col-20130604-d06 | fichas/colegiado/2013-11.md |
+| RJ2012/12858 | 2013-06-04 | nao-provido | O Colegiado, acompanhando por unanimidade o voto do relator, negou provimento a recurso contra manifestação da SEP que considerou regular o… | cvm-col-20130604-d05 | fichas/colegiado/2013-11.md |
+| RJ2011/11171 | 2013-06-04 | outro | O Colegiado determinou o arquivamento do PAS RJ2011/11171 contra a Acal Consultoria e Auditoria S/S e uma pessoa física, únicos acusados… | cvm-col-20130604-d04 | fichas/colegiado/2013-11.md |
+| RJ2010/15523 | 2013-06-04 | outro | O Colegiado determinou o arquivamento do PAS RJ2010/15523 por cumprimento do termo de compromisso firmado pelo Banco Itaucard S.A. e pelos… | cvm-col-20130604-d03 | fichas/colegiado/2013-11.md |
+| RJ2012/8972 | 2013-06-04 | nao-provido | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2012/8972. | cvm-col-20130604-d02 | fichas/colegiado/2013-11.md |
+| RJ2012/8114 | 2013-06-04 | nao-provido | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2012/8114. | cvm-col-20130604-d01 | fichas/colegiado/2013-11.md |
+| RJ2013/5968 | 2013-05-28 | outro | O Colegiado aprovou a minuta de Convênio entre a CVM e a União, por intermédio da Receita Federal, para ampliar os pontos de atendimento a… | cvm-col-20130528-d15 | fichas/colegiado/2013-11.md |
+| 003/2013 | 2013-05-28 | outro | O Colegiado aprovou a Deliberação apresentada pela SGE que regulamenta os procedimentos de acesso à informação na CVM, à luz da Lei… | cvm-col-20130528-d14 | fichas/colegiado/2013-11.md |
+| RJ2011/10821 | 2013-05-28 | outro | O Colegiado determinou o arquivamento do PAS RJ2011/10821 contra a única acusada, por cumprimento do termo de compromisso aprovado em… | cvm-col-20130528-d13 | fichas/colegiado/2013-11.md |
+| RJ2013/5448 | 2013-05-28 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/5448. | cvm-col-20130528-d12 | fichas/colegiado/2013-11.md |
+| RJ2012/13291 | 2013-05-28 | provido | O Colegiado deu provimento ao recurso da JVCO Participações Ltda. contra a recusa da TIM Participações S.A. de fornecer certidão do livro… | cvm-col-20130528-d11 | fichas/colegiado/2013-11.md |
+| 472/2008; RJ2012/13220; RJ2012/15177 | 2013-05-28 | — | Pedido de dispensa do cumprimento do artigo 34 da instrução nº 472/2008. Proc. s. RJ2012/13220 e RJ2012/15177. | cvm-col-20130528-d10 | fichas/colegiado/2013-11.md |
+| RJ2013/0315 | 2013-05-28 | nao-provido | O Colegiado, por unanimidade, negou provimento a recurso contra indeferimento de credenciamento como administrador de carteira por falta de… | cvm-col-20130528-d09 | fichas/colegiado/2013-11.md |
+| RJ2012/14744 | 2013-05-28 | outro | O Colegiado, acompanhando a área técnica, aprovou a edição de Deliberação da SIN sobre atuação irregular no mercado de valores mobiliários… | cvm-col-20130528-d08 | fichas/colegiado/2013-11.md |
+| 497/2011; SP2013/0225 | 2013-05-28 | outro | O Colegiado concordou, por unanimidade, com a interpretação do inciso VIII do art. 13 da Instrução CVM 497/11 proposta por SMI e SIN… | cvm-col-20130528-d07 | fichas/colegiado/2013-11.md |
+| 505/2011; SP2013/0219 | 2013-05-28 | outro | O Colegiado acompanhou a SMI (Relatório/SMI/Nº 020/2013) em consultas sobre diretor de controles internos (art. 4º da Instrução CVM… | cvm-col-20130528-d06 | fichas/colegiado/2013-11.md |
+| RJ2008/11645 | 2013-05-28 | nao-provido | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2008/11645. | cvm-col-20130528-d05 | fichas/colegiado/2013-11.md |
+| RJ1998/4571 | 2013-05-28 | parcial | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1998/4571. | cvm-col-20130528-d04 | fichas/colegiado/2013-11.md |
+| — | 2013-05-28 | — | Proposta de criação do Comitê de Gestão de Riscos Institucionais, para monitorar riscos operacionais e reputacionais da CVM e os… | cvm-col-20130528-d02 | fichas/colegiado/2013-11.md |
+| 356/2001; RJ2011/11737 | 2013-05-28 | deferido | O Colegiado acompanhou voto que concedeu ao Crédit Agricole Brasil DTVM dispensas da Instrução CVM 356/01 para o Atlântico Sul FICFIDC… | cvm-col-20130528-d01 | fichas/colegiado/2013-10.md |
+| — | 2013-05-27 | outro | Sistema de supervisão baseado em risco do mercado de valores mobiliários. | cvm-col-20130527-d01 | fichas/colegiado/2013-10.md |
+| 10/2012; SP2012/0379 | 2013-05-22 | outro | O Colegiado aprovou a edição de Instrução, elaborada após audiência pública SDM 10/2012, que altera a Instrução CVM 301/99 para adequá-la à… | cvm-col-20130522-d01 | fichas/colegiado/2013-10.md |
+| RJ2012/11216 | 2013-05-21 | deferido | O Colegiado deferiu pedido do Caixa Fundo de Investimento Imobiliário Porto Maravilha para operar com CEPAC fora de mercados organizados… | cvm-col-20130521-d07 | fichas/colegiado/2013-10.md |
+| RJ2012/11523 | 2013-05-21 | nao-provido | O Colegiado, por unanimidade, indeferiu recurso de acionistas da Laep Investments Ltd. contra entendimento da SEP de que a Lei 6.404/76 não… | cvm-col-20130521-d06 | fichas/colegiado/2013-10.md |
+| RJ2013/2321 | 2013-05-21 | nao-provido | Pedido de reconsideração de decisão do colegiado. Proc. RJ2013/2321. | cvm-col-20130521-d05 | fichas/colegiado/2013-10.md |
+| RJ2013/5569 | 2013-05-21 | outro | O Colegiado aprovou a minuta de Acordo de Cooperação Técnica entre a União (Ministério do Planejamento, Orçamento e Gestão, Receita… | cvm-col-20130521-d04 | fichas/colegiado/2013-10.md |
+| RJ2003/11499 | 2013-05-16 | — | O Colegiado deu continuidade à discussão de minutas que substituirão a Instrução CVM 89/88, sobre depósito centralizado, custódia… | cvm-col-20130516-d01 | fichas/colegiado/2013-10.md |
+| 03/2013; RJ2010/7200 | 2013-05-14 | deferido | O Colegiado deferiu o pedido da ABRASCA de prorrogação, até 29.05.13, do prazo para comentários à minuta que altera as Instruções CVM… | cvm-col-20130514-d10 | fichas/colegiado/2013-10.md |
+| RJ2012/4138 | 2013-05-14 | outro | O Colegiado determinou o arquivamento do PAS RJ2012/4138 por ter sido cumprido o Termo de Compromisso firmado pelo único acusado. Base… | cvm-col-20130514-d09 | fichas/colegiado/2013-10.md |
+| RJ2011/8580 | 2013-05-14 | outro | Com base na manifestação da SAD, que atestou pagamento na forma convencionada e ausência de obrigação adicional, o Colegiado determinou o… | cvm-col-20130514-d08 | fichas/colegiado/2013-10.md |
+| RJ2010/11349 | 2013-05-14 | outro | O Colegiado determinou o arquivamento do PAS RJ2010/11349, por ter sido cumprido o Termo de Compromisso pelos acusados, com base na SAD… | cvm-col-20130514-d07 | fichas/colegiado/2013-10.md |
+| RJ2012/4767 | 2013-05-14 | outro | O Colegiado determinou o arquivamento do PAS RJ2010/12042 em relação aos compromitentes, por cumprimento do Termo de Compromisso aprovado… | cvm-col-20130514-d06 | fichas/colegiado/2013-10.md |
+| RJ2012/11394 | 2013-05-14 | nao-provido | O Colegiado negou provimento a recurso da massa falida da Viação Aérea Rio-Grandense contra multa de mora (art. 37-A da Lei 10.522/02)… | cvm-col-20130514-d05 | fichas/colegiado/2013-10.md |
+| RJ2009/12670 | 2013-05-09 | outro | O Colegiado aprovou, para audiência pública de 30 dias, minuta de instrução com novas regras para fusão, cisão, incorporação e incorporação… | cvm-col-20130509-d01 | fichas/colegiado/2013-10.md |
+| RJ2003/11499 | 2013-05-08 | — | O Colegiado deu continuidade à discussão de minutas de Instrução que substituirão a Instrução CVM 89/88, sobre prestação de serviços de… | cvm-col-20130508-d01 | fichas/colegiado/2013-10.md |
+| RJ2013/4906 | 2013-05-07 | nao-provido | Recurso contra decisão da SRE em processo de multa cominatória. Proc. RJ2013/4906. | cvm-col-20130507-d09 | fichas/colegiado/2013-10.md |
+| RJ2012/3913 | 2013-05-07 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2012/3913. | cvm-col-20130507-d08 | fichas/colegiado/2013-10.md |
+| RJ2010/8982 | 2013-05-07 | deferido | Acompanhando a SIN (Memo/SIN/Nº 120/2013), o Colegiado deferiu pedido da Gávea Investimentos Ltda. para designar mais um diretor… | cvm-col-20130507-d07 | fichas/colegiado/2013-10.md |
+| RJ2012/8091 | 2013-05-07 | nao-provido | Recurso contra decisão da SEP em julgamento de processo de rito sumário. PAS RJ2012/8091. | cvm-col-20130507-d06 | fichas/colegiado/2013-10.md |
+| 358/2002; RJ2013/3945 | 2013-05-07 | nao-provido | O Colegiado negou provimento, por unanimidade, ao recurso da RJCP Equity S.A. contra exigência da SEP de formulários de negociação de… | cvm-col-20130507-d05 | fichas/colegiado/2013-10.md |
+| RJ2012/4137 | 2013-05-07 | outro | O Colegiado determinou o arquivamento do PAS RJ2012/4137 por ter sido cumprido o Termo de Compromisso firmado pelo único acusado. Base… | cvm-col-20130507-d04 | fichas/colegiado/2013-10.md |
+| 681/2012; RJ2012/5159 | 2013-05-07 | nao-provido | O Colegiado, por unanimidade, indeferiu pedido de reconsideração da Deliberação CVM 681/12, que alertou o mercado de que a Platz… | cvm-col-20130507-d03 | fichas/colegiado/2013-10.md |
+| 30/2005 | 2013-05-07 | provido | O Colegiado revisou, por unanimidade, decisão de 11.12.12 com base no art. 65 da Lei 9.784/99, em linha com decisão de 29.08.06 (PAS… | cvm-col-20130507-d01 | fichas/colegiado/2013-09.md |
+| — | 2013-05-02 | deferido | O Colegiado deferiu pedido de tratamento confidencial de documentos da Artesia Gestão de Recursos S.A., enviados em atendimento a ofício da… | cvm-col-20130502-d01 | fichas/colegiado/2013-09.md |
+| — | 2013-05-02 | deferido | O Colegiado deferiu pedido de tratamento confidencial de documento da Restoque, apresentado em atendimento a ofício da SEP, com base no §… | cvm-col-20130502-d01-r3 | fichas/colegiado/2013-09.md |
+| — | 2013-05-02 | deferido | O Colegiado, considerando a atuação da SEP no caso e o § 3º do art. 56 da Instrução CVM 480/09, deferiu tratamento confidencial a documento… | cvm-col-20130502-d01-r2 | fichas/colegiado/2013-09.md |
+| RJ2012/4235 | 2013-04-30 | outro | O Colegiado determinou o arquivamento do Proc. RJ2012/4235 em relação ao compromitente, por cumprimento do Termo de Compromisso aprovado em… | cvm-col-20130430-d07 | fichas/colegiado/2013-09.md |
+| RJ2012/1643 | 2013-04-30 | outro | O Colegiado determinou o arquivamento do PAS RJ2012/1643 por ter sido cumprido o Termo de Compromisso firmado pelo único acusado. Base… | cvm-col-20130430-d06 | fichas/colegiado/2013-09.md |
+| 02/2006 | 2013-04-30 | outro | Com base na manifestação da SAD, que atestou pagamento na forma convencionada e ausência de obrigação adicional, o Colegiado determinou o… | cvm-col-20130430-d05 | fichas/colegiado/2013-09.md |
+| RJ2010/6915 | 2013-04-30 | outro | O Colegiado arquivou reclamação de debenturista sobre o cancelamento de registro de companhia aberta (MMSA), acompanhando o voto do… | cvm-col-20130430-d04 | fichas/colegiado/2013-09.md |
+| RJ2013/4254 | 2013-04-30 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/4254. | cvm-col-20130430-d03 | fichas/colegiado/2013-09.md |
+| RJ2013/3380 | 2013-04-30 | deferido | O Colegiado deferiu a dispensa da vedação do art. 35, III, da Instrução CVM 391/03 para o Banco Bradesco, administrador do FIP Brasil… | cvm-col-20130430-d02 | fichas/colegiado/2013-09.md |
+| RJ2013/3316 | 2013-04-30 | deferido | O Colegiado, acompanhando a área técnica (MEMO/CVM/SIN/GIE/Nº 114/2013), deferiu dispensa do art. 35, III, da Instrução CVM 391/03, que… | cvm-col-20130430-d01 | fichas/colegiado/2013-09.md |
+| 05/2008 | 2013-04-24 | nao-provido | O Colegiado manteve, por unanimidade, a decisão recorrida que indeferiu devolução de prazo para recurso ao CRSFN no PAS 05/2008. Entendeu… | cvm-col-20130424-d08 | fichas/colegiado/2013-09.md |
+| RJ2012/14029 | 2013-04-24 | nao-provido | O Colegiado negou provimento, por unanimidade, ao recurso da Rima Industrial S.A. contra decisão da SEP que cancelou de ofício o registro… | cvm-col-20130424-d07 | fichas/colegiado/2013-09.md |
+| RJ2013/4304 | 2013-04-24 | nao-provido | Recurso contra decisão da SRE em processo de multa cominatória. Proc. RJ2013/4304. | cvm-col-20130424-d06 | fichas/colegiado/2013-09.md |
+| RJ2013/4403 | 2013-04-24 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2013/4403. | cvm-col-20130424-d05 | fichas/colegiado/2013-09.md |
+| RJ2012/9365 | 2013-04-24 | provido | O Colegiado deu provimento a recurso da Oi S.A. contra entendimento da SEP sobre tratamento contábil do ágio, aceitando o estorno da mais… | cvm-col-20130424-d04 | fichas/colegiado/2013-09.md |
+| RJ2011/5251 | 2013-04-24 | conhecimento | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2011/5251. | cvm-col-20130424-d03 | fichas/colegiado/2013-09.md |
+| RJ2011/4421 | 2013-04-24 | conhecimento | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2011/4421. | cvm-col-20130424-d02 | fichas/colegiado/2013-09.md |
+| RJ2012/12067 | 2013-04-24 | nao-provido | O Colegiado, após discutir os argumentos do proponente, rejeitou pedido de reconsideração e manteve a rejeição da proposta de termo de… | cvm-col-20130424-d01 | fichas/colegiado/2013-09.md |
+| RJ2003/11499 | 2013-04-17 | — | O Colegiado deu continuidade à discussão de minutas que substituirão a Instrução CVM 89/88, sobre prestação de serviços de depósito… | cvm-col-20130417-d01 | fichas/colegiado/2013-09.md |
+| RJ2003/11499 | 2013-04-10 | — | O Colegiado iniciou a discussão das minutas de Instrução que substituirão a Instrução CVM 89/88, sobre depósito centralizado, custódia… | cvm-col-20130410-d01 | fichas/colegiado/2013-09.md |
+| RJ2012/12177 | 2013-04-09 | outro | O Colegiado indeferiu o efeito suspensivo pedido em reconsideração contra decisão que considerou que créditos de financiamento imobiliário… | cvm-col-20130409-d08 | fichas/colegiado/2013-09.md |
+| 20/2009 | 2013-04-09 | deferido | O Colegiado deferiu o pedido: o prazo de dez dias para cumprir o termo do PAS 20/2009 começa com a divulgação do IPCA de março de 2013, e… | cvm-col-20130409-d07 | fichas/colegiado/2013-09.md |
+| RJ2011/9304 | 2013-04-09 | outro | O Colegiado determinou o arquivamento do PAS RJ2011/9304, por ter sido cumprido o Termo de Compromisso pelo único acusado, com base na SAD… | cvm-col-20130409-d06 | fichas/colegiado/2013-08.md |
+| RJ2012/4588 | 2013-04-09 | outro | O Colegiado determinou o arquivamento do PAS 02/2010 em relação ao compromitente, por cumprimento do Termo de Compromisso aprovado em… | cvm-col-20130409-d05 | fichas/colegiado/2013-08.md |
+| RJ2012/2908 | 2013-04-09 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2012/2908. | cvm-col-20130409-d04 | fichas/colegiado/2013-08.md |
+| RJ2012/2907 | 2013-04-09 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2012/2907. | cvm-col-20130409-d03 | fichas/colegiado/2013-08.md |
+| 682/2012; RJ2012/14652 | 2013-04-09 | nao-provido | O Colegiado indeferiu, por unanimidade, pedido de reconsideração contra a Deliberação CVM 682/2012, que suspendeu a veiculação de oferta… | cvm-col-20130409-d02 | fichas/colegiado/2013-08.md |
+| RJ2012/11464 | 2013-04-09 | outro | O Colegiado aprovou alteração do art. 6º do texto padrão do Memorando de Entendimento (MOU) com a ESMA, a ser assinado pela CVM e pelos… | cvm-col-20130409-d01 | fichas/colegiado/2013-08.md |
+| 07/2012; RJ2011/8043 | 2013-04-08 | outro | O Colegiado aprovou a edição de Instrução, após a Audiência Pública SDM 07/2012, que altera o art. 48 da Instrução CVM 400/03 para ampliar… | cvm-col-20130408-d01 | fichas/colegiado/2013-08.md |
+| RJ2012/6317 | 2013-04-02 | nao-provido | O Colegiado, acompanhando o voto do relator, negou provimento a recurso de acionista contra decisão da SRE sobre OPA unificada e… | cvm-col-20130402-d11 | fichas/colegiado/2013-08.md |
+| 301/1999; SP2013/0174 | 2013-04-02 | outro | O Colegiado aprovou a edição de Deliberação que delega ao titular da SMI a competência para autorizar intermediários a adotarem sistemas… | cvm-col-20130402-d10 | fichas/colegiado/2013-08.md |
+| 472/2008; RJ2012/11170 | 2013-04-02 | outro | Consulta sobre interpretação do inciso VII do artigo 45 da instrução CVM 472/2008. Proc. RJ2012/11170. | cvm-col-20130402-d09 | fichas/colegiado/2013-08.md |
+| 391/2003; RJ2013/1902 | 2013-04-02 | deferido | Dispensa de cumprimento de requisitos da instrução CVM 391/2003. Proc. RJ2013/1902. | cvm-col-20130402-d08 | fichas/colegiado/2013-08.md |
+| RJ2012/10414 | 2013-04-02 | nao-provido | O Colegiado, pelos argumentos da área técnica, negou provimento a recurso contra decisão da SIN que indeferiu credenciamento como… | cvm-col-20130402-d07 | fichas/colegiado/2013-08.md |
+| RJ2012/15029 | 2013-04-02 | nao-provido | Pedido de reconsideração de decisão do colegiado. Proc. RJ2012/15029. | cvm-col-20130402-d06 | fichas/colegiado/2013-08.md |
+| RJ2013/0460 | 2013-04-02 | nao-provido | Recurso contra decisão da SIN em processo de multa de mora sobre multa cominatória. Proc. RJ2013/0460. | cvm-col-20130402-d05 | fichas/colegiado/2013-08.md |
+| 663/2011; RJ2010/3811 | 2013-04-02 | nao-provido | O Colegiado indeferiu pedido de retirada do nome do requerente da Deliberação CVM 663/2011, que alertou sobre atividades não autorizadas… | cvm-col-20130402-d04 | fichas/colegiado/2013-08.md |
+| RJ2013/3075 | 2013-04-02 | outro | Em consulta da Ambev sobre incorporação de suas ações pela controladora InBev Part., o Colegiado entendeu não se justificar exigir o laudo… | cvm-col-20130402-d03 | fichas/colegiado/2013-08.md |
+| RJ2013/1239 | 2013-04-02 | deferido | O Colegiado autorizou, por unanimidade, o Banco do Brasil a negociar ações de sua emissão durante a reorganização societária e a oferta… | cvm-col-20130402-d02 | fichas/colegiado/2013-08.md |
+| RJ2013/0367 | 2013-04-02 | deferido | O Colegiado autorizou o Banco do Brasil a negociar ações de sua emissão durante a reorganização societária e a oferta pública da BB… | cvm-col-20130402-d01 | fichas/colegiado/2013-08.md |
+| RJ2012/9073 | 2013-04-02 | deferido | O Colegiado deferiu pedido de tratamento confidencial de documentos enviados pela companhia em atendimento a ofício da SEP, com base no §… | cvm-col-20130402-d01-r2 | fichas/colegiado/2013-08.md |
+| RJ2009/12670 | 2013-04-01 | — | O Colegiado deu início à discussão de alteração da Instrução CVM 319/99, sobre fusão, cisão, incorporação e incorporação de ações de… | cvm-col-20130401-d01 | fichas/colegiado/2013-07.md |
+| 07/2011; RJ2011/8208 | 2013-03-27 | outro | O Colegiado aprovou a edição de Deliberação que aprova a Orientação Técnica OCPC 06, após audiência pública SNC 07/2011, sobre informações… | cvm-col-20130327-d02 | fichas/colegiado/2013-07.md |
+| 06/2011; RJ2011/8206 | 2013-03-27 | outro | O Colegiado aprovou a edição de Deliberação que aprova o Pronunciamento Técnico CPC 44 (Demonstrações Combinadas), após audiência pública… | cvm-col-20130327-d01 | fichas/colegiado/2013-07.md |
+| RJ2012/13452 | 2013-03-26 | nao-provido | Pedido de reconsideração de decisão do colegiado. Proc. RJ2012/13452. | cvm-col-20130326-d17 | fichas/colegiado/2013-07.md |
+| RJ2012/13451 | 2013-03-26 | nao-provido | Pedido de reconsideração de decisão do colegiado. Proc. RJ2012/13451. | cvm-col-20130326-d16 | fichas/colegiado/2013-07.md |
+| RJ2012/13450 | 2013-03-26 | nao-provido | Pedido de reconsideração de decisão do colegiado. Proc. RJ2012/13450. | cvm-col-20130326-d15 | fichas/colegiado/2013-07.md |
+| RJ2012/13449 | 2013-03-26 | nao-provido | Pedido de reconsideração de decisão do colegiado. Proc. RJ2012/13449. | cvm-col-20130326-d14 | fichas/colegiado/2013-07.md |
+| RJ2012/13448 | 2013-03-26 | nao-provido | Pedido de reconsideração de decisão do colegiado. Proc. RJ2012/13448. | cvm-col-20130326-d13 | fichas/colegiado/2013-07.md |
+| RJ2012/13465 | 2013-03-26 | nao-provido | Pedido de reconsideração de decisão do colegiado. Proc. RJ2012/13465. | cvm-col-20130326-d12 | fichas/colegiado/2013-07.md |
+| RJ2013/0946 | 2013-03-26 | nao-provido | O Colegiado negou provimento, por unanimidade, a recurso contra decisão da SIN que indeferiu credenciamento de administrador de carteiras… | cvm-col-20130326-d11 | fichas/colegiado/2013-07.md |
+| RJ2012/15059 | 2013-03-26 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/15059. | cvm-col-20130326-d10 | fichas/colegiado/2013-07.md |
+| RJ2012/12891 | 2013-03-26 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/12891. | cvm-col-20130326-d09 | fichas/colegiado/2013-07.md |
+| RJ2012/12890 | 2013-03-26 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/12890. | cvm-col-20130326-d08 | fichas/colegiado/2013-07.md |
+| RJ2012/11717 | 2013-03-26 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/11717. | cvm-col-20130326-d07 | fichas/colegiado/2013-07.md |
+| 498/2006; RJ2006/0156 | 2013-03-26 | outro | Alteração da deliberação CVM 498/2006. Proc. RJ2006/0156. | cvm-col-20130326-d06 | fichas/colegiado/2013-07.md |
+| RJ2012/13425 | 2013-03-26 | outro | O Colegiado, acompanhando a área técnica, aprovou a edição de Deliberação da SRE sobre atuação irregular no mercado de valores mobiliários… | cvm-col-20130326-d05 | fichas/colegiado/2013-07.md |
+| RJ2012/12177 | 2013-03-26 | outro | Em consulta da SRE sobre oferta de CRI da Brazilian Securities Companhia de Securitização, o Colegiado, por unanimidade, discordou da área… | cvm-col-20130326-d04 | fichas/colegiado/2013-07.md |
+| RJ2013/0869 | 2013-03-22 | deferido | O Colegiado dispensou a observância do art. 64, VI, da Instrução CVM 409/04 e autorizou o Energia São Paulo Fundo de Investimento em Ações… | cvm-col-20130322-d01 | fichas/colegiado/2013-07.md |
+| 06/2007 | 2013-03-19 | nao-provido | O Colegiado manteve, por unanimidade e por seus próprios fundamentos, a decisão contra a qual os acusados pediram reconsideração, que… | cvm-col-20130319-d10 | fichas/colegiado/2013-07.md |
+| RJ2012/13241 | 2013-03-19 | deferido | O Colegiado deferiu o pedido de unificação de OPA por alienação de controle, saída do Novo Mercado e cancelamento de registro da Amil… | cvm-col-20130319-d09 | fichas/colegiado/2013-07.md |
+| RJ2013/2393 | 2013-03-19 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/2393. | cvm-col-20130319-d08 | fichas/colegiado/2013-06.md |
+| RJ2013/2321 | 2013-03-19 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/2321. | cvm-col-20130319-d07 | fichas/colegiado/2013-06.md |
+| RJ2007/13030 | 2013-03-19 | outro | O Colegiado determinou o arquivamento do PAS RJ2007/13030, por ter sido cumprido o Termo de Compromisso pelos acusados, com base em… | cvm-col-20130319-d06 | fichas/colegiado/2013-06.md |
+| RJ2011/7948 | 2013-03-19 | outro | O Colegiado determinou o arquivamento do PAS RJ2011/7948 em relação ao único acusado, por cumprimento do Termo de Compromisso aprovado em… | cvm-col-20130319-d05 | fichas/colegiado/2013-06.md |
+| RJ2012/2766 | 2013-03-19 | outro | O Colegiado determinou o arquivamento do Proc. RJ2012/2766 em relação ao compromitente, por ter sido cumprido o Termo de Compromisso… | cvm-col-20130319-d04 | fichas/colegiado/2013-06.md |
+| RJ2011/9481 | 2013-03-12 | outro | O Colegiado determinou o arquivamento do PAS RJ2011/9481 por ter sido cumprido o Termo de Compromisso firmado pelo único acusado. Base… | cvm-col-20130312-d07 | fichas/colegiado/2013-06.md |
+| 02/2013; 504/2011; RJ2012/3958 | 2013-03-12 | outro | O Colegiado aprovou a edição de instrução, após audiência pública SDM 02/2013, que altera a Instrução CVM 504/11 sobre o envio de dados da… | cvm-col-20130312-d06 | fichas/colegiado/2013-06.md |
+| RJ2012/13828 | 2013-03-12 | nao-provido | Recurso contra decisão da SEP. Proc. RJ2012/13828. | cvm-col-20130312-d05 | fichas/colegiado/2013-06.md |
+| RJ2012/13453 | 2013-03-12 | nao-provido | Pedido de reconsideração de decisão do colegiado. Proc. RJ2012/13453. | cvm-col-20130312-d04 | fichas/colegiado/2013-06.md |
+| RJ2013/0869 | 2013-03-12 | deferido | O Colegiado deferiu pedido de administradora para o Energia São Paulo FIA adquirir ações da CPFL Energia impedidas de negociação… | cvm-col-20130312-d03 | fichas/colegiado/2013-06.md |
+| RJ2012/14383 | 2013-03-12 | outro | O Colegiado entendeu que a CVM não tem poder para dispensar OPA por alienação de controle decorrente de imposição legal e recebeu o… | cvm-col-20130312-d02 | fichas/colegiado/2013-06.md |
+| RJ2011/5356 | 2013-03-12 | nao-provido | O Colegiado, por unanimidade, manteve decisão que negou acesso à denúncia informal usada em processos sancionadores, em pedido de… | cvm-col-20130312-d01 | fichas/colegiado/2013-06.md |
+| RJ2010/7200 | 2013-03-06 | outro | O Colegiado aprovou, para audiência pública de 60 dias, minuta de Instrução que altera as Instruções CVM 358/02, 480/09 e 481/09, para… | cvm-col-20130306-d01 | fichas/colegiado/2013-06.md |
+| RJ2011/12976 | 2013-03-05 | nao-provido | O Colegiado, por unanimidade, acompanhando o voto da relatora, indeferiu o recurso da ECO Securitizadora contra decisão da SRE que negou… | cvm-col-20130305-d04 | fichas/colegiado/2013-06.md |
+| RJ2013/2142 | 2013-03-05 | nao-provido | Recurso contra decisão da SPS em processo de multa cominatória. Proc. RJ2013/2142. | cvm-col-20130305-d03 | fichas/colegiado/2013-06.md |
+| RJ2011/10679 | 2013-03-05 | outro | O Colegiado, acompanhando a área técnica (Memo/SIN/GIE/Nº 298/2012), fixou como data de fechamento para resgate de cotas de três fundos… | cvm-col-20130305-d02 | fichas/colegiado/2013-06.md |
+| RJ2009/0428 | 2013-03-05 | outro | O Colegiado determinou o arquivamento do Proc. RJ2009/0428 em relação ao compromitente, por cumprimento do Termo de Compromisso e de… | cvm-col-20130305-d01 | fichas/colegiado/2013-06.md |
+| RJ2012/14288 | 2013-02-26 | outro | O Colegiado, acompanhando a área técnica, aprovou a edição de Deliberação da SIN sobre atuação irregular no mercado de valores mobiliários… | cvm-col-20130226-d23 | fichas/colegiado/2013-06.md |
+| RJ2012/8386 | 2013-02-26 | — | Recurso da Energisa S.A. contra decisão da SEP que não instaurou processo administrativo sancionador. Julgamento suspenso por pedido de… | cvm-col-20130226-d22 | fichas/colegiado/2013-06.md |
+| RJ2012/13358 | 2013-02-26 | nao-provido | Pedido de reconsideração de decisão do colegiado. Proc. RJ2012/13358. | cvm-col-20130226-d21 | fichas/colegiado/2013-06.md |
+| RJ2011/10170 | 2013-02-26 | outro | O Colegiado determinou o arquivamento do PAS RJ2011/10170 em relação aos acusados que firmaram termo de compromisso, por cumprimento deste… | cvm-col-20130226-d20 | fichas/colegiado/2013-06.md |
+| RJ2013/1435 | 2013-02-26 | deferido | O Colegiado, acompanhando a área técnica, deferiu as dispensas pleiteadas pela Pátria Investimentos Ltda. e pela Bem DTVM Ltda… | cvm-col-20130226-d19 | fichas/colegiado/2013-06.md |
+| RJ2013/1140 | 2013-02-26 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/1140. | cvm-col-20130226-d18 | fichas/colegiado/2013-05.md |
+| RJ2013/0365 | 2013-02-26 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/0365. | cvm-col-20130226-d17 | fichas/colegiado/2013-05.md |
+| RJ2012/15554 | 2013-02-26 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/15554. | cvm-col-20130226-d16 | fichas/colegiado/2013-05.md |
+| RJ2012/15403 | 2013-02-26 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/15403. | cvm-col-20130226-d15 | fichas/colegiado/2013-05.md |
+| RJ2012/15388 | 2013-02-26 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/15388. | cvm-col-20130226-d14 | fichas/colegiado/2013-05.md |
+| RJ2012/15338 | 2013-02-26 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/15338. | cvm-col-20130226-d13 | fichas/colegiado/2013-05.md |
+| RJ2012/15319 | 2013-02-26 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/15319. | cvm-col-20130226-d12 | fichas/colegiado/2013-05.md |
+| RJ2012/15023 | 2013-02-26 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/15023. | cvm-col-20130226-d11 | fichas/colegiado/2013-05.md |
+| RJ2013/0455 | 2013-02-26 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/0455. | cvm-col-20130226-d10 | fichas/colegiado/2013-05.md |
+| RJ2012/15398 | 2013-02-26 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/15398. | cvm-col-20130226-d09 | fichas/colegiado/2013-05.md |
+| 494/2011; RJ2012/10374 | 2013-02-26 | — | Consulta sobre a aplicação da Instrução CVM 494/11 a clube de investimento dos empregados da Vale S.A. Julgamento suspenso por pedido de… | cvm-col-20130226-d08 | fichas/colegiado/2013-05.md |
+| RJ2013/1646 | 2013-02-26 | nao-provido | O Colegiado, em reapreciação e com base na manifestação da SGE, manteve o indeferimento de pedido de pessoa física de acesso, via e-SIC, à… | cvm-col-20130226-d07 | fichas/colegiado/2013-05.md |
+| RJ2012/11072 | 2013-02-26 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SMI que indeferiu pedido de vista e cópia integral de processo de investigação… | cvm-col-20130226-d05 | fichas/colegiado/2013-05.md |
+| RJ2012/7865 | 2013-02-26 | nao-provido | O Colegiado negou provimento a recurso de acionista, terceiro interessado, contra decisão da SEP que indeferiu pedido de vista de processo… | cvm-col-20130226-d04 | fichas/colegiado/2013-05.md |
+| RJ2010/10383 | 2013-02-26 | nao-provido | Recurso contra decisão da SRE em julgamento de processo de rito sumário. | cvm-col-20130226-d03 | fichas/colegiado/2013-05.md |
+| RJ2011/0974 | 2013-02-26 | outro | O Colegiado, acompanhando o voto da relatora, declarou a perda de objeto do recurso da corretora TOV contra decisão da SMI que negara a… | cvm-col-20130226-d02 | fichas/colegiado/2013-05.md |
+| RJ2011/0427 | 2013-02-26 | nao-provido | O Colegiado indeferiu os pedidos de dois recorrentes contra decisão da SAD, que alegavam ilegalidade da inscrição no CADIN antes da decisão… | cvm-col-20130226-d01 | fichas/colegiado/2013-05.md |
+| RJ2012/14908 | 2013-02-20 | deferido | O Colegiado deferiu tratamento confidencial a petição e documentos contábeis da Kepler Weber S.A. referentes ao exercício de 2012 (art. 56… | cvm-col-20130220-d01 | fichas/colegiado/2013-05.md |
+| RJ2011/12680 | 2013-02-19 | outro | Por maioria, o Colegiado, acompanhando a área técnica, aprovou a edição de Deliberação da SIN sobre atuação irregular no mercado de valores… | cvm-col-20130219-d18 | fichas/colegiado/2013-05.md |
+| RJ2011/13386 | 2013-02-19 | outro | O Colegiado, acompanhando o voto do relator, devolveu à SRE a consulta sobre a exigência de recibos de aquisição físicos (Deliberação CVM… | cvm-col-20130219-d17 | fichas/colegiado/2013-05.md |
+| RJ2013/0944 | 2013-02-19 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2013/0944. | cvm-col-20130219-d16 | fichas/colegiado/2013-05.md |
+| RJ2012/15304 | 2013-02-19 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/15304. | cvm-col-20130219-d15 | fichas/colegiado/2013-05.md |
+| RJ2012/15303 | 2013-02-19 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/15303. | cvm-col-20130219-d14 | fichas/colegiado/2013-04.md |
+| RJ2012/15298 | 2013-02-19 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/15298. | cvm-col-20130219-d13 | fichas/colegiado/2013-04.md |
+| RJ2012/15296 | 2013-02-19 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/15296. | cvm-col-20130219-d12 | fichas/colegiado/2013-04.md |
+| RJ2012/15295 | 2013-02-19 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/15295. | cvm-col-20130219-d11 | fichas/colegiado/2013-04.md |
+| RJ2012/15151 | 2013-02-19 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/15151. | cvm-col-20130219-d10 | fichas/colegiado/2013-04.md |
+| RJ2012/15129 | 2013-02-19 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/15129. | cvm-col-20130219-d09 | fichas/colegiado/2013-04.md |
+| RJ2012/15082 | 2013-02-19 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/15082. | cvm-col-20130219-d08 | fichas/colegiado/2013-04.md |
+| RJ2012/15076 | 2013-02-19 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/15076. | cvm-col-20130219-d07 | fichas/colegiado/2013-04.md |
+| RJ2012/14820 | 2013-02-19 | deferido | O Colegiado, com base em manifestação favorável da SIN, deferiu o pedido do administrador do Investimage 1 – FUNCINE e decidiu que o prazo… | cvm-col-20130219-d06 | fichas/colegiado/2013-04.md |
+| RJ2012/13046 | 2013-02-19 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2012/13046. | cvm-col-20130219-d05 | fichas/colegiado/2013-04.md |
+| RJ2012/12522 | 2013-02-19 | deferido | O Colegiado deferiu a autorização para a Minerva S.A. alienar privadamente ações ordinárias em tesouraria, nos termos do art. 23 da… | cvm-col-20130219-d04 | fichas/colegiado/2013-04.md |
+| RJ2010/7200 | 2013-02-06 | — | O Colegiado continuou a discussão da reforma da Instrução CVM 480/09 (registro de emissor de valores mobiliários), a ser submetida a… | cvm-col-20130206-d01 | fichas/colegiado/2013-04.md |
+| — | 2013-02-06 | indeferido | O Colegiado indeferiu pedido de tratamento confidencial formulado pela Laep Investments Ltd. com base no §3º do art. 56 da Instrução CVM… | cvm-col-20130206-d01-r2 | fichas/colegiado/2013-04.md |
+| — | 2013-02-05 | deferido | O Colegiado, com base em manifestação da SIN, prorrogou excepcionalmente para 14/02/2013 o prazo de envio dos documentos mensais de fundos… | cvm-col-20130205-d16 | fichas/colegiado/2013-04.md |
+| RJ2012/12484 | 2013-02-05 | deferido | O Colegiado, por unanimidade, autorizou o Banco Santander (Brasil) S.A. a adquirir opções de compra sobre Units de própria emissão com… | cvm-col-20130205-d15 | fichas/colegiado/2013-04.md |
+| RJ2012/12205 | 2013-02-05 | nao-provido | O Colegiado, por unanimidade, indeferiu pedido de reconsideração de decisão que determinou a suspensão de ofertas de veículos de… | cvm-col-20130205-d14 | fichas/colegiado/2013-04.md |
+| SP2012/0213 | 2013-02-05 | deferido | O Colegiado autorizou, por unanimidade, a Corretora Souza Barros Câmbio e Títulos S.A. a validar cadastro de pessoas físicas por cruzamento… | cvm-col-20130205-d13 | fichas/colegiado/2013-04.md |
+| SP2012/0241 | 2013-02-05 | deferido | O Colegiado, por unanimidade, acompanhando o voto da relatora, autorizou as corretoras Bradesco S.A. CTVM e Ágora CTVM a implantar projeto… | cvm-col-20130205-d12 | fichas/colegiado/2013-04.md |
+| SP2012/0040 | 2013-02-05 | deferido | O Colegiado autorizou, por unanimidade, a Renascença DTVM Ltda. a adotar sistema alternativo de cadastro de clientes, com imagens… | cvm-col-20130205-d11 | fichas/colegiado/2013-04.md |
+| RJ2012/4161 | 2013-02-05 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2012/4161. | cvm-col-20130205-d10 | fichas/colegiado/2013-04.md |
+| RJ2012/2032 | 2013-02-05 | nao-provido | Pedido de reconsideração de decisão do colegiado. Proc. RJ2012/2032. | cvm-col-20130205-d09 | fichas/colegiado/2013-04.md |
+| RJ2012/12461 | 2013-02-05 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2012/12461. | cvm-col-20130205-d08 | fichas/colegiado/2013-04.md |
+| RJ2012/12503 | 2013-02-05 | nao-provido | O Colegiado, por unanimidade e acompanhando o voto da relatora, negou provimento ao recurso da Aliansce Shopping Centers S.A. contra… | cvm-col-20130205-d07 | fichas/colegiado/2013-04.md |
+| RJ2012/15244 | 2013-02-05 | parcial | O Colegiado indeferiu a dispensa de publicação do aviso ao mercado e dos anúncios da oferta da Senior Solution S.A., por prejuízo… | cvm-col-20130205-d06 | fichas/colegiado/2013-03.md |
+| RJ2012/13353 | 2013-02-05 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2012/13353. | cvm-col-20130205-d02 | fichas/colegiado/2013-03.md |
+| RJ2011/9493 | 2013-02-05 | provido | Recurso contra decisão da SEP em processo de rito sumário. PAS RJ2011/9493. | cvm-col-20130205-d01 | fichas/colegiado/2013-03.md |
+| 05/2012; RJ2009/7807 | 2013-01-30 | outro | O Colegiado aprovou a edição de Instrução, elaborada após a Audiência Pública SDM 05/2012, que dispõe sobre as atribuições dos prestadores… | cvm-col-20130130-d01 | fichas/colegiado/2013-03.md |
+| 505/2011; SP2012/0139 | 2013-01-29 | outro | O Colegiado, em consultas da CETIP e da ANBIMA sobre a Instrução CVM 505/11, decidiu que os arts. 19 e 20 (execução de ordens) não se… | cvm-col-20130129-d15 | fichas/colegiado/2013-03.md |
+| RJ2012/9648 | 2013-01-29 | deferido | O Colegiado deferiu a realização de OPA unificada da Redentor Energia S.A. para cancelamento de registro e saída do Novo Mercado, com… | cvm-col-20130129-d14 | fichas/colegiado/2013-03.md |
+| RJ2012/15287 | 2013-01-29 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/15287. | cvm-col-20130129-d13 | fichas/colegiado/2013-03.md |
+| RJ2012/15279 | 2013-01-29 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/15279. | cvm-col-20130129-d12 | fichas/colegiado/2013-03.md |
+| RJ2012/15242 | 2013-01-29 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/15242. | cvm-col-20130129-d11 | fichas/colegiado/2013-03.md |
+| RJ2012/15238 | 2013-01-29 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/15238. | cvm-col-20130129-d10 | fichas/colegiado/2013-03.md |
+| RJ2012/15207 | 2013-01-29 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/15207. | cvm-col-20130129-d09 | fichas/colegiado/2013-03.md |
+| RJ2012/15206 | 2013-01-29 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/15206. | cvm-col-20130129-d08 | fichas/colegiado/2013-03.md |
+| RJ2012/15153 | 2013-01-29 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/15153. | cvm-col-20130129-d07 | fichas/colegiado/2013-03.md |
+| RJ2012/15024 | 2013-01-29 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/15024. | cvm-col-20130129-d06 | fichas/colegiado/2013-03.md |
+| RJ2012/15022 | 2013-01-29 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/15022. | cvm-col-20130129-d05 | fichas/colegiado/2013-03.md |
+| 505/2011; 506/2011; RJ2013/1139 | 2013-01-29 | outro | O Colegiado, em consulta da ANBIMA sobre as Instruções CVM 505/11 e 506/11, decidiu pela inaplicabilidade ao mercado secundário de cotas de… | cvm-col-20130129-d04 | fichas/colegiado/2013-03.md |
+| RJ2013/1160 | 2013-01-29 | deferido | O Colegiado, por unanimidade e acompanhando a área técnica favorável, concedeu à ANBIMA prorrogação, excepcional para 2013, do prazo de… | cvm-col-20130129-d03 | fichas/colegiado/2013-03.md |
+| RJ2011/8234 | 2013-01-29 | outro | O Colegiado declarou a perda de objeto de recurso contra decisão da SEP que indeferiu pedido de vista e cópia de processo, porque as… | cvm-col-20130129-d02 | fichas/colegiado/2013-03.md |
+| RJ2008/12185 | 2013-01-29 | nao-provido | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2008/12185. | cvm-col-20130129-d01 | fichas/colegiado/2013-02.md |
+| RJ2012/8335 | 2013-01-25 | deferido | O Colegiado deferiu pedido de tratamento confidencial, com base no art. 56, § 3º, da Instrução CVM 480/09, para documento sobre lista de… | cvm-col-20130125-d01 | fichas/colegiado/2013-02.md |
+| 05/2012; RJ2009/7807 | 2013-01-23 | — | O Colegiado deu início à discussão de minuta sobre as atribuições dos prestadores de serviços dos fundos de investimento em direitos… | cvm-col-20130123-d01 | fichas/colegiado/2013-02.md |
+| SP2007/0140 | 2013-01-22 | outro | O Colegiado determinou o arquivamento do PAS SP2007/0140 em relação aos compromitentes, após a SAD atestar que os pagamentos do Termo de… | cvm-col-20130122-d17 | fichas/colegiado/2013-02.md |
+| RJ2012/13345 | 2013-01-22 | deferido | O Colegiado deferiu à Totvs S.A. autorização para negociar de forma privada ações de sua emissão, nos termos do art. 23 da Instrução CVM… | cvm-col-20130122-d16 | fichas/colegiado/2013-02.md |
+| RJ2012/15216 | 2013-01-22 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/15216. | cvm-col-20130122-d15 | fichas/colegiado/2013-02.md |
+| RJ2012/15208 | 2013-01-22 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/15208. | cvm-col-20130122-d14 | fichas/colegiado/2013-02.md |
+| RJ2012/15147 | 2013-01-22 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/15147. | cvm-col-20130122-d13 | fichas/colegiado/2013-02.md |
+| RJ2012/15141 | 2013-01-22 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/15141. | cvm-col-20130122-d12 | fichas/colegiado/2013-02.md |
+| RJ2012/15025 | 2013-01-22 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/15025. | cvm-col-20130122-d11 | fichas/colegiado/2013-02.md |
+| RJ2012/15149 | 2013-01-22 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/15149. | cvm-col-20130122-d10 | fichas/colegiado/2013-02.md |
+| RJ2012/15142 | 2013-01-22 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/15142. | cvm-col-20130122-d09 | fichas/colegiado/2013-02.md |
+| RJ2012/15083 | 2013-01-22 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/15083. | cvm-col-20130122-d08 | fichas/colegiado/2013-02.md |
+| RJ2012/15075 | 2013-01-22 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/15075. | cvm-col-20130122-d07 | fichas/colegiado/2013-02.md |
+| RJ2012/15028 | 2013-01-22 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/15028. | cvm-col-20130122-d06 | fichas/colegiado/2013-02.md |
+| RJ2012/5189 | 2013-01-22 | nao-provido | O Colegiado indeferiu recurso da Fitch Ratings Brasil contra exigência da SIN de divulgar, no Formulário de Referência, o valor pago por… | cvm-col-20130122-d05 | fichas/colegiado/2013-02.md |
+| RJ2012/13237 | 2013-01-22 | deferido | O Colegiado concedeu a dispensa de laudo de avaliação para definição de preço justo na OPA para cancelamento de registro da Usina Costa… | cvm-col-20130122-d04 | fichas/colegiado/2013-02.md |
+| RJ2012/15248 | 2013-01-22 | provido | Pedido de prorrogação de prazo de distribuição pública de cepac. Proc. RJ2012/15248. | cvm-col-20130122-d03 | fichas/colegiado/2013-02.md |
+| RJ2011/13796 | 2013-01-22 | outro | O Colegiado, por maioria e acompanhando a SRE, aprovou a edição de Deliberação sobre a colocação irregular de contratos de investimento… | cvm-col-20130122-d02 | fichas/colegiado/2013-02.md |
+| RJ2012/14764 | 2013-01-22 | — | O Colegiado iniciou a discussão de recurso com efeito suspensivo no âmbito da OPA unificada por alienação de controle da NET Serviços de… | cvm-col-20130122-d01 | fichas/colegiado/2013-02.md |
+| RJ2010/7200 | 2013-01-16 | — | O Colegiado iniciou a discussão da reforma da Instrução CVM 480/09, sobre registro de emissor de valores mobiliários, sem deliberação nesta… | cvm-col-20130116-d01 | fichas/colegiado/2013-02.md |
+| RJ2012/12227; RJ2012/12228; RJ2012/12229; RJ2012/12230 | 2013-01-15 | nao-provido | Recursos contra decisão da SIN em processos de multa cominatória. Proc. s. RJ2012/12227, RJ2012/12228, RJ2012/12229, RJ2012/12230. | cvm-col-20130115-d09 | fichas/colegiado/2013-02.md |
+| RJ2011/12024 | 2013-01-15 | parcial | O Colegiado deu provimento parcial a recurso contra a suspensão, pela SIN, da análise de pedido de credenciamento de administrador de… | cvm-col-20130115-d08 | fichas/colegiado/2013-02.md |
+| RJ2012/15150 | 2013-01-15 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2012/15150. | cvm-col-20130115-d07 | fichas/colegiado/2013-02.md |
+| RJ2012/13452 | 2013-01-15 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2012/13452. | cvm-col-20130115-d06 | fichas/colegiado/2013-01.md |
+| RJ2012/13451 | 2013-01-15 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2012/13451. | cvm-col-20130115-d05 | fichas/colegiado/2013-01.md |
+| RJ2012/13450 | 2013-01-15 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2012/13450. | cvm-col-20130115-d04 | fichas/colegiado/2013-01.md |
+| RJ2012/13449 | 2013-01-15 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2012/13449. | cvm-col-20130115-d03 | fichas/colegiado/2013-01.md |
+| RJ2012/13448 | 2013-01-15 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2012/13448. | cvm-col-20130115-d02 | fichas/colegiado/2013-01.md |
+| RJ2010/12040 | 2013-01-15 | outro | O Colegiado determinou o arquivamento do PAS RJ2010/12040 por terem sido cumpridos os Termos de Compromisso firmados pelos únicos acusados… | cvm-col-20130115-d01 | fichas/colegiado/2013-01.md |
+| — | 2013-01-10 | deferido | O Colegiado deferiu o pedido do Banco do Brasil S.A. para não divulgar fato potencialmente relevante sobre discussões preliminares para… | cvm-col-20130110-d01 | fichas/colegiado/2013-01.md |
+| RJ2012/3958 | 2013-01-09 | outro | O Colegiado aprovou, para audiência pública por 30 dias, minuta de instrução que altera a Instrução CVM 504/11, sobre envio de informações… | cvm-col-20130109-d02 | fichas/colegiado/2013-01.md |
+| RJ2011/9419 | 2013-01-09 | outro | O Colegiado deu diretrizes à SDM para iniciar a elaboração de minuta de instrução sobre a regulamentação do art. 55 da Lei 6.404/76… | cvm-col-20130109-d01 | fichas/colegiado/2013-01.md |
+| RJ2007/10395 | 2013-01-08 | outro | O Colegiado determinou o arquivamento do processo em relação aos compromitentes do Termo de Compromisso aprovado em 14.10.10, com base nas… | cvm-col-20130108-d11 | fichas/colegiado/2013-01.md |
+| RJ2012/15081 | 2013-01-08 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/15081. | cvm-col-20130108-d10 | fichas/colegiado/2013-01.md |
+| RJ2012/15029 | 2013-01-08 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/15029. | cvm-col-20130108-d09 | fichas/colegiado/2013-01.md |
+| RJ2012/15021 | 2013-01-08 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/15021. | cvm-col-20130108-d08 | fichas/colegiado/2013-01.md |
+| RJ2012/12226 | 2013-01-08 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/12226. | cvm-col-20130108-d07 | fichas/colegiado/2013-01.md |
+| RJ2012/13613 | 2013-01-08 | deferido | Pedido de dispensa de requisitos da instrução CVM 356/01. Proc. RJ2012/13613. | cvm-col-20130108-d06 | fichas/colegiado/2013-01.md |
+| RJ2012/13612 | 2013-01-08 | deferido | O Colegiado deferiu pedido da BEM DTVM S.A., administradora do Chemical VII FIDC, para dispensar o custodiante da cobrança direta de… | cvm-col-20130108-d05 | fichas/colegiado/2013-01.md |
+| RJ2012/12925 | 2013-01-08 | deferido | O Colegiado, por unanimidade, deferiu o pedido da CRV DTVM S.A., administradora do Polo Crédito Consignado FIDC II, de dispensa do inciso… | cvm-col-20130108-d04 | fichas/colegiado/2013-01.md |
+| RJ2012/7947 | 2013-01-08 | deferido | O Colegiado, por unanimidade, deferiu o pedido da SOCOPA - Sociedade Corretora Paulista S.A., administradora do FIDC NP Multiplix… | cvm-col-20130108-d03 | fichas/colegiado/2013-01.md |
+| RJ2012/15007 | 2013-01-08 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/15007. | cvm-col-20130108-d02 | fichas/colegiado/2013-01.md |
+| RJ2012/11715 | 2013-01-08 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/11715. | cvm-col-20130108-d01 | fichas/colegiado/2013-01.md |
+| RJ2012/15077 | 2013-01-04 | outro | O Colegiado aprovou o Plano Anual de Atividades de Auditoria Interna (PAINT 2013), elaborado com base na IN SFC 01/07 e no Manual do… | cvm-col-20130104-d5821 | fichas/colegiado/2013-01.md |
+| RJ2012/3506 | 2013-01-04 | outro | O Colegiado, acompanhando a área técnica, aprovou por unanimidade a edição de Deliberação apresentada pela SIN sobre atuação irregular no… | cvm-col-20130104-d03 | fichas/colegiado/2013-01.md |
+| RJ2012/11664 | 2013-01-04 | nao-provido | Pedido de reconsideração de decisão do colegiado. Proc. RJ2012/11664. | cvm-col-20130104-d02 | fichas/colegiado/2013-01.md |
+| RJ2012/11663 | 2013-01-04 | nao-provido | Pedido de reconsideração de decisão do colegiado. Proc. RJ2012/11663. | cvm-col-20130104-d01 | fichas/colegiado/2013-01.md |
 
 Fim do subíndice.

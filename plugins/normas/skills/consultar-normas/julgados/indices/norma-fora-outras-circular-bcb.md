@@ -57,8 +57,8 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 | termo-compromisso | 19957.009590/2018-01; 19957.000861/2019-35 | 2020-02-11 | aceito | cvm-col-20200211-d1321-1355 | fichas/tc/2020-01.md |
 | decisao-colegiado | 19957.009333/2019-41 | 2020-01-14 | outro | cvm-col-20200114-d1668 | fichas/colegiado/2020-01.md |
 | termo-compromisso | 19957.009590/2018-01; 19957.000861/2019-35 | 2019-12-17 | outro | cvm-col-20191217-d1321e1355 | fichas/tc/2019-07.md |
-| pas | 19957.005934/2016-32; RJ2016/7162 | 2019-12-10 | condenacao | cvm-pas-19957-005934-2016-32 | fichas/pas/2019-12.md |
-| acordao-crsfn | RJ2017/1698 | 2018-07-24 | condenacao | crsfn-10372-100141-2018-94 | fichas/crsfn/2018-04.md |
+| pas | 19957.005934/2016-32; RJ2016/7162 | 2019-12-10 | condenacao | cvm-pas-19957-005934-2016-32 | fichas/pas/2019-22.md |
+| acordao-crsfn | RJ2017/1698 | 2018-07-24 | condenacao | crsfn-10372-100141-2018-94 | fichas/crsfn/2018-05.md |
 | decisao-colegiado | RJ2012/2986 | 2015-04-28 | nao-provido | cvm-col-20150428-d8385 | fichas/colegiado/2015-07.md |
 
 ## circular-bcb-7
@@ -67,8 +67,8 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.004588/2020-51 | 2024-07-09 | condenacao | cvm-pas-19957-004588-2020-51 | fichas/pas/2024-05.md |
-| pas | 19957.002220/2021-30 | 2024-07-09 | condenacao | cvm-pas-19957-002220-2021-30 | fichas/pas/2024-05.md |
+| pas | 19957.004588/2020-51 | 2024-07-09 | condenacao | cvm-pas-19957-004588-2020-51 | fichas/pas/2024-10.md |
+| pas | 19957.002220/2021-30 | 2024-07-09 | condenacao | cvm-pas-19957-002220-2021-30 | fichas/pas/2024-10.md |
 
 ## circular-bcb-8
 
@@ -76,16 +76,16 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 13 | pas | RJ2010/9129 | 2011-08-09 | condenacao | cvm-pas-rj2010-9129 | fichas/pas/2011-01.md |
+| art. 13 | pas | RJ2010/9129 | 2011-08-09 | condenacao | cvm-pas-rj2010-9129 | fichas/pas/2011-03.md |
 
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.018237/2024-51 | 2025-05-27 | condenacao | cvm-pas-19957-018237-2024-51 | fichas/pas/2025-03.md |
+| pas | 19957.018237/2024-51 | 2025-05-27 | condenacao | cvm-pas-19957-018237-2024-51 | fichas/pas/2025-05.md |
 | decisao-colegiado | 19957.001022/2021-59 | 2021-06-29 | nao-provido | cvm-col-20210629-d2221 | fichas/colegiado/2021-11.md |
-| pas | 19957.005966/2016-38; RJ2016/7189 | 2020-06-16 | absolvicao | cvm-pas-19957-005966-2016-38 | fichas/pas/2020-03.md |
-| pas | RJ2012/7471 | 2013-05-28 | condenacao | cvm-pas-rj2012-7471 | fichas/pas/2013-03.md |
+| pas | 19957.005966/2016-38; RJ2016/7189 | 2020-06-16 | absolvicao | cvm-pas-19957-005966-2016-38 | fichas/pas/2020-04.md |
+| pas | RJ2012/7471 | 2013-05-28 | condenacao | cvm-pas-rj2012-7471 | fichas/pas/2013-06.md |
 
 ## circular-bcb-11
 
@@ -93,7 +93,7 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.012344/2022-12 | 2024-08-27 | parcial | cvm-pas-19957-012344-2022-12 | fichas/pas/2024-07.md |
+| pas | 19957.012344/2022-12 | 2024-08-27 | parcial | cvm-pas-19957-012344-2022-12 | fichas/pas/2024-13.md |
 | termo-compromisso | 19957.012344/2022-12 | 2023-10-17 | rejeitado | cvm-col-20231017-d2945 | fichas/tc/2023-06.md |
 
 ## circular-bcb-15
@@ -104,7 +104,7 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.007430/2023-86 | 2024-09-17 | provido | cvm-col-20240917-d3135 | fichas/colegiado/2024-10.md |
 | decisao-colegiado | 19957.002936/2021-37 | 2021-05-11 | deferido | cvm-col-20210511-d2160 | fichas/colegiado/2021-08.md |
-| pas | 01/2005 | 2008-11-26 | parcial | cvm-pas-01-2005 | fichas/pas/2008-05.md |
+| pas | 01/2005 | 2008-11-26 | parcial | cvm-pas-01-2005 | fichas/pas/2008-08.md |
 
 ## circular-bcb-16
 
@@ -120,8 +120,8 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.003714/2023-01 | 2025-03-25 | condenacao | cvm-pas-19957-003714-2023-01 | fichas/pas/2025-02.md |
-| pas | 19957.009010/2021-72 | 2023-08-15 | condenacao | cvm-pas-19957-009010-2021-72 | fichas/pas/2023-05.md |
+| pas | 19957.003714/2023-01 | 2025-03-25 | condenacao | cvm-pas-19957-003714-2023-01 | fichas/pas/2025-03.md |
+| pas | 19957.009010/2021-72 | 2023-08-15 | condenacao | cvm-pas-19957-009010-2021-72 | fichas/pas/2023-09.md |
 | termo-compromisso | 19957.004388/2019-65 | 2020-02-04 | aceito | cvm-col-20200204-d1686 | fichas/tc/2020-01.md |
 
 ## circular-bcb-27
@@ -130,7 +130,7 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2014/6517 | 2019-06-25 | parcial | cvm-pas-rj2014-6517 | fichas/pas/2019-05.md |
+| pas | RJ2014/6517 | 2019-06-25 | parcial | cvm-pas-rj2014-6517 | fichas/pas/2019-09.md |
 
 ## circular-bcb-28
 
@@ -146,8 +146,8 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 26/2010 | 2018-11-27 | parcial | cvm-pas-26-2010 | fichas/pas/2018-10.md |
-| pas | 22/2005 | 2008-08-26 | parcial | cvm-pas-22-2005 | fichas/pas/2008-03.md |
+| pas | 26/2010 | 2018-11-27 | parcial | cvm-pas-26-2010 | fichas/pas/2018-20.md |
+| pas | 22/2005 | 2008-08-26 | parcial | cvm-pas-22-2005 | fichas/pas/2008-05.md |
 
 ## circular-bcb-33
 
@@ -155,7 +155,7 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.010831/2019-37 | 2023-08-08 | condenacao | cvm-pas-19957-010831-2019-37 | fichas/pas/2023-04.md |
+| pas | 19957.010831/2019-37 | 2023-08-08 | condenacao | cvm-pas-19957-010831-2019-37 | fichas/pas/2023-08.md |
 | termo-compromisso | 19957.010224/2019-77 | 2020-09-15 | aceito | cvm-col-20200915-d1911 | fichas/tc/2020-06.md |
 
 ## circular-bcb-36
@@ -182,7 +182,7 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.005966/2016-38; RJ2016/7189 | 2020-06-16 | absolvicao | cvm-pas-19957-005966-2016-38 | fichas/pas/2020-03.md |
+| pas | 19957.005966/2016-38; RJ2016/7189 | 2020-06-16 | absolvicao | cvm-pas-19957-005966-2016-38 | fichas/pas/2020-04.md |
 
 ## circular-bcb-46
 
@@ -206,7 +206,7 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | SP-2014-14 | 2019-11-27 | parcial | crsfn-10372-100294-2018-31 | fichas/crsfn/2019-03.md |
+| acordao-crsfn | SP-2014-14 | 2019-11-27 | parcial | crsfn-10372-100294-2018-31 | fichas/crsfn/2019-04.md |
 | decisao-colegiado | 19957.003490/2016-09 | 2019-04-09 | nao-provido | cvm-col-20190409-d1371 | fichas/colegiado/2019-06.md |
 | decisao-colegiado | 19957.000985/2017-59 | 2017-08-08 | nao-provido | cvm-col-20170808-d0767 | fichas/colegiado/2017-14.md |
 
@@ -216,11 +216,11 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | SP2007/139 | 2017-02-08 | parcial | crsfn-13873 | fichas/crsfn/2017-01.md |
-| pas | SP2010/178 | 2014-03-25 | condenacao | cvm-pas-sp2010-0178 | fichas/pas/2014-01.md |
-| pas | SP2010/266 | 2013-10-15 | condenacao | cvm-pas-sp2010-0266 | fichas/pas/2013-05.md |
-| pas | SP2007/139 | 2013-07-30 | parcial | cvm-pas-sp2007-0139 | fichas/pas/2013-04.md |
-| pas | 30/2005 | 2012-12-11 | parcial | cvm-pas-30-2005 | fichas/pas/2012-03.md |
+| acordao-crsfn | SP2007/139 | 2017-02-08 | parcial | crsfn-13873 | fichas/crsfn/2017-02.md |
+| pas | SP2010/178 | 2014-03-25 | condenacao | cvm-pas-sp2010-0178 | fichas/pas/2014-02.md |
+| pas | SP2010/266 | 2013-10-15 | condenacao | cvm-pas-sp2010-0266 | fichas/pas/2013-09.md |
+| pas | SP2007/139 | 2013-07-30 | parcial | cvm-pas-sp2007-0139 | fichas/pas/2013-07.md |
+| pas | 30/2005 | 2012-12-11 | parcial | cvm-pas-30-2005 | fichas/pas/2012-06.md |
 | termo-compromisso | SP2010/0135 | 2011-05-10 | aceito | cvm-col-20110510-d06 | fichas/tc/2011-02.md |
 | pas | SP2010/001 | 2011-03-22 | condenacao | cvm-pas-sp2010-0001 | fichas/pas/2011-01.md |
 
@@ -230,7 +230,7 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.009663/2017-75 | 2023-07-11 | condenacao | cvm-pas-19957-009663-2017-75 | fichas/pas/2023-04.md |
+| pas | 19957.009663/2017-75 | 2023-07-11 | condenacao | cvm-pas-19957-009663-2017-75 | fichas/pas/2023-07.md |
 
 ## circular-bcb-63
 
@@ -246,7 +246,7 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 12/2013 | 2016-05-24 | parcial | cvm-pas-12-2013 | fichas/pas/2016-02.md |
+| pas | 12/2013 | 2016-05-24 | parcial | cvm-pas-12-2013 | fichas/pas/2016-03.md |
 
 ## circular-bcb-67
 
@@ -262,7 +262,7 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 11/2012 | 2014-12-02 | condenacao | cvm-pas-11-2012 | fichas/pas/2014-05.md |
+| pas | 11/2012 | 2014-12-02 | condenacao | cvm-pas-11-2012 | fichas/pas/2014-10.md |
 
 ## circular-bcb-69
 
@@ -286,7 +286,7 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | SP2010/266 | 2013-10-15 | condenacao | cvm-pas-sp2010-0266 | fichas/pas/2013-05.md |
+| pas | SP2010/266 | 2013-10-15 | condenacao | cvm-pas-sp2010-0266 | fichas/pas/2013-09.md |
 
 ## circular-bcb-78
 
@@ -328,7 +328,7 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 |---|---|---|---|---|---|
 | acordao-crsfn | SP2002/0098 | 2006-08-18 | absolvicao | crsfn-5596 | fichas/crsfn/2006-01.md |
 | decisao-colegiado | SP2004/0360 | 2005-06-14 | nao-provido | cvm-col-20050614-d03 | fichas/colegiado/2005-09.md |
-| pas | SP2002/0098 | 2003-09-11 | parcial | cvm-pas-sp2002-0098 | fichas/pas/2003-03.md |
+| pas | SP2002/0098 | 2003-09-11 | parcial | cvm-pas-sp2002-0098 | fichas/pas/2003-05.md |
 
 ## circular-bcb-106
 
@@ -345,7 +345,7 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | acordao-crsfn | SP-2001-0034 | 2007-09-26 | parcial | crsfn-7361 | fichas/crsfn/2007-02.md |
-| pas | SP2001/0034 | 2004-08-12 | parcial | cvm-pas-sp2001-0034 | fichas/pas/2004-05.md |
+| pas | SP2001/0034 | 2004-08-12 | parcial | cvm-pas-sp2001-0034 | fichas/pas/2004-09.md |
 
 ## circular-bcb-118
 
@@ -353,11 +353,11 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.007122/2023-51 | 2024-04-30 | condenacao | cvm-pas-19957-007122-2023-51 | fichas/pas/2024-02.md |
-| acordao-crsfn | 30/2005 | 2020-04-14 | parcial | crsfn-13083-2 | fichas/crsfn/2020-02.md |
+| pas | 19957.007122/2023-51 | 2024-04-30 | condenacao | cvm-pas-19957-007122-2023-51 | fichas/pas/2024-04.md |
+| acordao-crsfn | 30/2005 | 2020-04-14 | parcial | crsfn-13083-2 | fichas/crsfn/2020-03.md |
 | decisao-colegiado | RJ2013/7203 | 2014-03-25 | parcial | cvm-col-20140325-d06 | fichas/colegiado/2014-05.md |
-| pas | 03/2009 | 2013-04-30 | parcial | cvm-pas-03-2009 | fichas/pas/2013-02.md |
-| pas | 30/2005 | 2012-12-11 | parcial | cvm-pas-30-2005 | fichas/pas/2012-03.md |
+| pas | 03/2009 | 2013-04-30 | parcial | cvm-pas-03-2009 | fichas/pas/2013-05.md |
+| pas | 30/2005 | 2012-12-11 | parcial | cvm-pas-30-2005 | fichas/pas/2012-06.md |
 
 ## circular-bcb-127
 
@@ -373,7 +373,7 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.008143/2018-26 | 2023-12-20 | parcial | cvm-pas-19957-008143-2018-26 | fichas/pas/2023-09.md |
+| pas | 19957.008143/2018-26 | 2023-12-20 | parcial | cvm-pas-19957-008143-2018-26 | fichas/pas/2023-18.md |
 
 ## circular-bcb-142
 
@@ -381,7 +381,7 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.003980/2023-26 | 2024-12-03 | parcial | cvm-pas-19957-003980-2023-26 | fichas/pas/2024-10.md |
+| pas | 19957.003980/2023-26 | 2024-12-03 | parcial | cvm-pas-19957-003980-2023-26 | fichas/pas/2024-20.md |
 
 ## circular-bcb-158
 
@@ -397,9 +397,9 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | SP2004/193 | 2016-02-23 | parcial | crsfn-11957 | fichas/crsfn/2016-01.md |
+| acordao-crsfn | SP2004/193 | 2016-02-23 | parcial | crsfn-11957 | fichas/crsfn/2016-02.md |
 | acordao-crsfn | SP2004/193 | 2016-02-23 | parcial | crsfn-10372-000585-2016-69 | fichas/crsfn/2016-01.md |
-| pas | RJ2005/3304 | 2006-05-30 | parcial | cvm-pas-rj2005-3304 | fichas/pas/2006-06.md |
+| pas | RJ2005/3304 | 2006-05-30 | parcial | cvm-pas-rj2005-3304 | fichas/pas/2006-11.md |
 | decisao-colegiado | RJ2005/9129 | 2006-01-31 | nao-provido | cvm-col-20060131-d05 | fichas/colegiado/2006-02.md |
 | decisao-colegiado | RJ99/0893 | 2002-07-16 | outro | cvm-col-20020716-d01 | fichas/colegiado/2002-17.md |
 
@@ -418,7 +418,7 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | acordao-crsfn | SP-2005-155 | 2012-09-25 | parcial | crsfn-11744 | fichas/crsfn/2012-04.md |
-| pas | SP2005/0155 | 2007-08-21 | parcial | cvm-pas-sp2005-0155 | fichas/pas/2007-06.md |
+| pas | SP2005/0155 | 2007-08-21 | parcial | cvm-pas-sp2005-0155 | fichas/pas/2007-11.md |
 
 ## circular-bcb-545
 
@@ -484,9 +484,9 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.011889/2022-01 | 2023-09-19 | deferido | cvm-col-20230919-d2923 | fichas/colegiado/2023-10.md |
-| acordao-crsfn | 1/2011 | 2020-12-14 | parcial | crsfn-10372-100447-2018-41 | fichas/crsfn/2020-07.md |
+| acordao-crsfn | 1/2011 | 2020-12-14 | parcial | crsfn-10372-100447-2018-41 | fichas/crsfn/2020-10.md |
 | decisao-colegiado | 19957.003175/2017-54 | 2017-06-06 | provido | cvm-col-20170606-d0676 | fichas/colegiado/2017-10.md |
-| pas | RJ2016/4608 | 2016-04-26 | condenacao | cvm-pas-rj2016-4608 | fichas/pas/2016-01.md |
+| pas | RJ2016/4608 | 2016-04-26 | condenacao | cvm-pas-rj2016-4608 | fichas/pas/2016-02.md |
 
 ## circular-bcb-1397
 
@@ -503,7 +503,7 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | acordao-crsfn | 03/96 | 2007-08-30 | parcial | crsfn-6039 | fichas/crsfn/2007-01.md |
-| pas | RJ2001/4187 | 2002-04-18 | parcial | cvm-pas-rj2001-4187 | fichas/pas/2002-02.md |
+| pas | RJ2001/4187 | 2002-04-18 | parcial | cvm-pas-rj2001-4187 | fichas/pas/2002-03.md |
 
 ## circular-bcb-1877
 
@@ -519,7 +519,7 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 09/1997 | 2006-12-13 | parcial | cvm-pas-09-1997 | fichas/pas/2006-14.md |
+| pas | 09/1997 | 2006-12-13 | parcial | cvm-pas-09-1997 | fichas/pas/2006-27.md |
 
 ## circular-bcb-1922
 
@@ -529,11 +529,11 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 |---|---|---|---|---|---|
 | acordao-crsfn | RJ-2003/5509 | 2008-02-26 | absolvicao | crsfn-9229 | fichas/crsfn/2008-01.md |
 | acordao-crsfn | RJ-2003-7642 | 2007-01-31 | absolvicao | crsfn-8546 | fichas/crsfn/2007-01.md |
-| pas | RJ2003/5849 | 2005-12-21 | absolvicao | cvm-pas-rj2003-5849 | fichas/pas/2005-10.md |
-| pas | RJ2003/6894 | 2005-11-08 | absolvicao | cvm-pas-rj2003-6894 | fichas/pas/2005-08.md |
-| pas | RJ2003/7642 | 2005-06-27 | absolvicao | cvm-pas-rj2003-7642 | fichas/pas/2005-05.md |
-| pas | RJ2003/5509 | 2005-06-24 | absolvicao | cvm-pas-rj2003-5509 | fichas/pas/2005-05.md |
-| pas | RJ2003/5058 | 2005-06-20 | absolvicao | cvm-pas-rj2003-5058 | fichas/pas/2005-05.md |
+| pas | RJ2003/5849 | 2005-12-21 | absolvicao | cvm-pas-rj2003-5849 | fichas/pas/2005-21.md |
+| pas | RJ2003/6894 | 2005-11-08 | absolvicao | cvm-pas-rj2003-6894 | fichas/pas/2005-15.md |
+| pas | RJ2003/7642 | 2005-06-27 | absolvicao | cvm-pas-rj2003-7642 | fichas/pas/2005-10.md |
+| pas | RJ2003/5509 | 2005-06-24 | absolvicao | cvm-pas-rj2003-5509 | fichas/pas/2005-09.md |
+| pas | RJ2003/5058 | 2005-06-20 | absolvicao | cvm-pas-rj2003-5058 | fichas/pas/2005-09.md |
 
 ## circular-bcb-2020
 
@@ -549,7 +549,7 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 2º | acordao-crsfn | RJ-2003-5058 | 2009-05-06 | absolvicao | crsfn-8545 | fichas/crsfn/2009-02.md |
+| art. 2º | acordao-crsfn | RJ-2003-5058 | 2009-05-06 | absolvicao | crsfn-8545 | fichas/crsfn/2009-03.md |
 
 ## circular-bcb-2328
 
@@ -557,8 +557,8 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 9º | acordao-crsfn | RJ-2003/5596 | 2008-07-29 | arquivamento | crsfn-8547 | fichas/crsfn/2008-03.md |
-| art. 9º | pas | RJ2003/5596 | 2005-04-25 | condenacao | cvm-pas-rj2003-5596 | fichas/pas/2005-03.md |
+| art. 9º | acordao-crsfn | RJ-2003/5596 | 2008-07-29 | arquivamento | crsfn-8547 | fichas/crsfn/2008-04.md |
+| art. 9º | pas | RJ2003/5596 | 2005-04-25 | condenacao | cvm-pas-rj2003-5596 | fichas/pas/2005-06.md |
 
 ## circular-bcb-2511
 
@@ -566,7 +566,7 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 5º | pas | RJ2001/4187 | 2002-04-18 | parcial | cvm-pas-rj2001-4187 | fichas/pas/2002-02.md |
+| art. 5º | pas | RJ2001/4187 | 2002-04-18 | parcial | cvm-pas-rj2001-4187 | fichas/pas/2002-03.md |
 
 ## circular-bcb-2530
 
@@ -575,7 +575,7 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | acordao-crsfn | 03/96 | 2007-08-30 | parcial | crsfn-6039 | fichas/crsfn/2007-01.md |
-| pas | 03/1996 | 2004-07-08 | parcial | cvm-pas-03-1996 | fichas/pas/2004-03.md |
+| pas | 03/1996 | 2004-07-08 | parcial | cvm-pas-03-1996 | fichas/pas/2004-06.md |
 
 ## circular-bcb-2582
 
@@ -591,7 +591,7 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2005/5204 | 2005-12-07 | condenacao | cvm-pas-rj2005-5204 | fichas/pas/2005-09.md |
+| pas | RJ2005/5204 | 2005-12-07 | condenacao | cvm-pas-rj2005-5204 | fichas/pas/2005-18.md |
 
 ## circular-bcb-2601
 
@@ -599,9 +599,9 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | RJ-2003/5596 | 2008-07-29 | arquivamento | crsfn-8547 | fichas/crsfn/2008-03.md |
-| pas | RJ2003/5058 | 2005-06-20 | absolvicao | cvm-pas-rj2003-5058 | fichas/pas/2005-05.md |
-| pas | RJ2003/5596 | 2005-04-25 | condenacao | cvm-pas-rj2003-5596 | fichas/pas/2005-03.md |
+| acordao-crsfn | RJ-2003/5596 | 2008-07-29 | arquivamento | crsfn-8547 | fichas/crsfn/2008-04.md |
+| pas | RJ2003/5058 | 2005-06-20 | absolvicao | cvm-pas-rj2003-5058 | fichas/pas/2005-09.md |
+| pas | RJ2003/5596 | 2005-04-25 | condenacao | cvm-pas-rj2003-5596 | fichas/pas/2005-06.md |
 
 ## circular-bcb-2615
 
@@ -617,7 +617,7 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2005/5204 | 2005-12-07 | condenacao | cvm-pas-rj2005-5204 | fichas/pas/2005-09.md |
+| pas | RJ2005/5204 | 2005-12-07 | condenacao | cvm-pas-rj2005-5204 | fichas/pas/2005-18.md |
 
 ## circular-bcb-2626
 
@@ -634,7 +634,7 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | acordao-crsfn | 03/96 | 2007-08-30 | parcial | crsfn-6039 | fichas/crsfn/2007-01.md |
-| pas | 03/1996 | 2004-07-08 | parcial | cvm-pas-03-1996 | fichas/pas/2004-03.md |
+| pas | 03/1996 | 2004-07-08 | parcial | cvm-pas-03-1996 | fichas/pas/2004-06.md |
 
 ## circular-bcb-2677
 
@@ -642,7 +642,7 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 35/1998 | 2000-09-21 | absolvicao | cvm-pas-35-1998 | fichas/pas/2000-02.md |
+| pas | 35/1998 | 2000-09-21 | absolvicao | cvm-pas-35-1998 | fichas/pas/2000-03.md |
 
 ## circular-bcb-2688
 
@@ -657,7 +657,7 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | acordao-crsfn | 14/03 | 2012-04-16 | arquivamento | crsfn-11472 | fichas/crsfn/2012-02.md |
-| pas | 14/2003 | 2007-05-15 | absolvicao | cvm-pas-14-2003 | fichas/pas/2007-03.md |
+| pas | 14/2003 | 2007-05-15 | absolvicao | cvm-pas-14-2003 | fichas/pas/2007-06.md |
 
 ## circular-bcb-2714
 
@@ -665,7 +665,7 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2003/5058 | 2005-06-20 | absolvicao | cvm-pas-rj2003-5058 | fichas/pas/2005-05.md |
+| pas | RJ2003/5058 | 2005-06-20 | absolvicao | cvm-pas-rj2003-5058 | fichas/pas/2005-09.md |
 | decisao-colegiado | — | 2004-03-09 | outro | cvm-col-20040309-d07 | fichas/colegiado/2004-03.md |
 
 ## circular-bcb-2737
@@ -674,8 +674,8 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | RJ-2003/5596 | 2008-07-29 | arquivamento | crsfn-8547 | fichas/crsfn/2008-03.md |
-| pas | RJ2003/5596 | 2005-04-25 | condenacao | cvm-pas-rj2003-5596 | fichas/pas/2005-03.md |
+| acordao-crsfn | RJ-2003/5596 | 2008-07-29 | arquivamento | crsfn-8547 | fichas/crsfn/2008-04.md |
+| pas | RJ2003/5596 | 2005-04-25 | condenacao | cvm-pas-rj2003-5596 | fichas/pas/2005-06.md |
 
 ## circular-bcb-2739
 
@@ -727,10 +727,10 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 1º | acordao-crsfn | 13/03 | 2010-10-27 | parcial | crsfn-9591 | fichas/crsfn/2010-08.md |
-| art. 1º | pas | 13/2003 | 2005-12-14 | parcial | cvm-pas-13-2003 | fichas/pas/2005-10.md |
-| art. 1º, § 1º | acordao-crsfn | 13/03 | 2010-10-27 | parcial | crsfn-9591 | fichas/crsfn/2010-08.md |
-| art. 1º, § 1º | pas | 13/2003 | 2005-12-14 | parcial | cvm-pas-13-2003 | fichas/pas/2005-10.md |
+| art. 1º | acordao-crsfn | 13/03 | 2010-10-27 | parcial | crsfn-9591 | fichas/crsfn/2010-10.md |
+| art. 1º | pas | 13/2003 | 2005-12-14 | parcial | cvm-pas-13-2003 | fichas/pas/2005-20.md |
+| art. 1º, § 1º | acordao-crsfn | 13/03 | 2010-10-27 | parcial | crsfn-9591 | fichas/crsfn/2010-10.md |
+| art. 1º, § 1º | pas | 13/2003 | 2005-12-14 | parcial | cvm-pas-13-2003 | fichas/pas/2005-20.md |
 
 ## circular-bcb-2794
 
@@ -757,13 +757,13 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 1º | pas | SP2001/0386 | 2003-09-03 | absolvicao | cvm-pas-sp2001-0386 | fichas/pas/2003-02.md |
+| art. 1º | pas | SP2001/0386 | 2003-09-03 | absolvicao | cvm-pas-sp2001-0386 | fichas/pas/2003-04.md |
 
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | SP2007/033 | 2009-05-19 | condenacao | cvm-pas-sp2007-0033 | fichas/pas/2009-02.md |
+| pas | SP2007/033 | 2009-05-19 | condenacao | cvm-pas-sp2007-0033 | fichas/pas/2009-04.md |
 | decisao-colegiado | RJ2000/0318 | 2002-12-10 | parcial | cvm-col-20021210-d01 | fichas/colegiado/2002-26.md |
 
 ## circular-bcb-2929
@@ -772,14 +772,14 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | RJ-2003/5596 | 2008-07-29 | arquivamento | crsfn-8547 | fichas/crsfn/2008-03.md |
+| acordao-crsfn | RJ-2003/5596 | 2008-07-29 | arquivamento | crsfn-8547 | fichas/crsfn/2008-04.md |
 | acordao-crsfn | RJ-2003/5509 | 2008-02-26 | absolvicao | crsfn-9229 | fichas/crsfn/2008-01.md |
-| pas | RJ2003/5849 | 2005-12-21 | absolvicao | cvm-pas-rj2003-5849 | fichas/pas/2005-10.md |
-| pas | RJ2003/6894 | 2005-11-08 | absolvicao | cvm-pas-rj2003-6894 | fichas/pas/2005-08.md |
-| pas | RJ2003/6098 | 2005-11-08 | absolvicao | cvm-pas-rj2003-6098 | fichas/pas/2005-08.md |
-| pas | RJ2003/5509 | 2005-06-24 | absolvicao | cvm-pas-rj2003-5509 | fichas/pas/2005-05.md |
-| pas | RJ2003/5058 | 2005-06-20 | absolvicao | cvm-pas-rj2003-5058 | fichas/pas/2005-05.md |
-| pas | RJ2003/5596 | 2005-04-25 | condenacao | cvm-pas-rj2003-5596 | fichas/pas/2005-03.md |
+| pas | RJ2003/5849 | 2005-12-21 | absolvicao | cvm-pas-rj2003-5849 | fichas/pas/2005-21.md |
+| pas | RJ2003/6894 | 2005-11-08 | absolvicao | cvm-pas-rj2003-6894 | fichas/pas/2005-15.md |
+| pas | RJ2003/6098 | 2005-11-08 | absolvicao | cvm-pas-rj2003-6098 | fichas/pas/2005-15.md |
+| pas | RJ2003/5509 | 2005-06-24 | absolvicao | cvm-pas-rj2003-5509 | fichas/pas/2005-09.md |
+| pas | RJ2003/5058 | 2005-06-20 | absolvicao | cvm-pas-rj2003-5058 | fichas/pas/2005-09.md |
+| pas | RJ2003/5596 | 2005-04-25 | condenacao | cvm-pas-rj2003-5596 | fichas/pas/2005-06.md |
 
 ## circular-bcb-2958
 
@@ -793,9 +793,9 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 2º | pas | 01/2005 | 2008-11-26 | parcial | cvm-pas-01-2005 | fichas/pas/2008-05.md |
-| art. 2º, inciso I | acordao-crsfn | IA-2005-1 | 2012-12-05 | parcial | crsfn-12519 | fichas/crsfn/2012-04.md |
-| art. 2º, inciso II | acordao-crsfn | IA-2005-1 | 2012-12-05 | parcial | crsfn-12519 | fichas/crsfn/2012-04.md |
+| art. 2º | pas | 01/2005 | 2008-11-26 | parcial | cvm-pas-01-2005 | fichas/pas/2008-08.md |
+| art. 2º, inciso I | acordao-crsfn | IA-2005-1 | 2012-12-05 | parcial | crsfn-12519 | fichas/crsfn/2012-06.md |
+| art. 2º, inciso II | acordao-crsfn | IA-2005-1 | 2012-12-05 | parcial | crsfn-12519 | fichas/crsfn/2012-06.md |
 
 ### art. 3º
 
@@ -807,7 +807,7 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | RJ-2005/5204 | 2008-09-23 | condenacao | crsfn-9609 | fichas/crsfn/2008-04.md |
+| acordao-crsfn | RJ-2005/5204 | 2008-09-23 | condenacao | crsfn-9609 | fichas/crsfn/2008-05.md |
 
 ## circular-bcb-2963
 
@@ -841,7 +841,7 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 1º, inciso I | decisao-colegiado | 14/03 | 2005-09-30 | outro | cvm-col-20050930-d4076 | fichas/colegiado/2005-14.md |
-| art. 1º, inciso I | pas | 14/2003 | 2007-05-15 | absolvicao | cvm-pas-14-2003 | fichas/pas/2007-03.md |
+| art. 1º, inciso I | pas | 14/2003 | 2007-05-15 | absolvicao | cvm-pas-14-2003 | fichas/pas/2007-06.md |
 
 ### art. 4º
 
@@ -854,8 +854,8 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 0022/2005 | 2014-11-25 | parcial | crsfn-12444 | fichas/crsfn/2014-06.md |
-| pas | 22/2005 | 2008-08-26 | parcial | cvm-pas-22-2005 | fichas/pas/2008-03.md |
+| acordao-crsfn | 0022/2005 | 2014-11-25 | parcial | crsfn-12444 | fichas/crsfn/2014-07.md |
+| pas | 22/2005 | 2008-08-26 | parcial | cvm-pas-22-2005 | fichas/pas/2008-05.md |
 
 ## circular-bcb-3057
 
@@ -875,7 +875,7 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.011889/2022-01 | 2023-09-19 | deferido | cvm-col-20230919-d2923 | fichas/colegiado/2023-10.md |
-| pas | RJ2002/8428 | 2004-10-14 | parcial | cvm-pas-rj2002-8428 | fichas/pas/2004-06.md |
+| pas | RJ2002/8428 | 2004-10-14 | parcial | cvm-pas-rj2002-8428 | fichas/pas/2004-12.md |
 
 ## circular-bcb-3069
 
@@ -891,7 +891,7 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.008086/2019-66 | 2022-09-27 | parcial | cvm-pas-19957-008086-2019-66 | fichas/pas/2022-04.md |
+| pas | 19957.008086/2019-66 | 2022-09-27 | parcial | cvm-pas-19957-008086-2019-66 | fichas/pas/2022-08.md |
 
 ## circular-bcb-3179
 
@@ -899,7 +899,7 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2010/9078 | 2011-10-25 | absolvicao | cvm-pas-rj2010-9078 | fichas/pas/2011-02.md |
+| pas | RJ2010/9078 | 2011-10-25 | absolvicao | cvm-pas-rj2010-9078 | fichas/pas/2011-04.md |
 | decisao-colegiado | RJ2009/4691 | 2009-06-30 | deferido | cvm-col-20090630-d15 | fichas/colegiado/2009-12.md |
 
 ## circular-bcb-3248
@@ -916,11 +916,11 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 08/2012 | 2020-09-15 | parcial | crsfn-10372-000204-2016-41 | fichas/crsfn/2020-04.md |
-| acordao-crsfn | 04/2013 | 2020-08-18 | condenacao | crsfn-10372-000470-2016-74 | fichas/crsfn/2020-04.md |
-| acordao-crsfn | IA-2011-2 | 2020-08-18 | condenacao | crsfn-10372-000380-2016-83 | fichas/crsfn/2020-04.md |
+| acordao-crsfn | 08/2012 | 2020-09-15 | parcial | crsfn-10372-000204-2016-41 | fichas/crsfn/2020-06.md |
+| acordao-crsfn | 04/2013 | 2020-08-18 | condenacao | crsfn-10372-000470-2016-74 | fichas/crsfn/2020-05.md |
+| acordao-crsfn | IA-2011-2 | 2020-08-18 | condenacao | crsfn-10372-000380-2016-83 | fichas/crsfn/2020-05.md |
 | acordao-crsfn | RJ-2005/2815 | 2009-03-18 | arquivamento | crsfn-9198 | fichas/crsfn/2009-01.md |
-| acordao-crsfn | 03/97 | 2008-06-24 | parcial | crsfn-8615 | fichas/crsfn/2008-03.md |
+| acordao-crsfn | 03/97 | 2008-06-24 | parcial | crsfn-8615 | fichas/crsfn/2008-04.md |
 | acordao-crsfn | SP-2004-113 | 2008-06-24 | arquivamento | crsfn-7529 | fichas/crsfn/2008-03.md |
 
 ## circular-bcb-3347
@@ -1021,7 +1021,7 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2003/5058 | 2005-06-20 | absolvicao | cvm-pas-rj2003-5058 | fichas/pas/2005-05.md |
+| pas | RJ2003/5058 | 2005-06-20 | absolvicao | cvm-pas-rj2003-5058 | fichas/pas/2005-09.md |
 
 ## circular-bcb-3857
 
@@ -1029,19 +1029,19 @@ circular-bcb-4027 (1046); circular-bcb-782008 (1054)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 4º | acordao-crsfn | 1/2011 | 2020-12-14 | parcial | crsfn-10372-100447-2018-41 | fichas/crsfn/2020-07.md |
+| art. 4º | acordao-crsfn | 1/2011 | 2020-12-14 | parcial | crsfn-10372-100447-2018-41 | fichas/crsfn/2020-10.md |
 
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | acordao-crsfn | SP2018/0538 | 2022-04-12 | extincao | crsfn-10372-100106-2021-71 | fichas/crsfn/2022-02.md |
-| acordao-crsfn | RJ2017/1239 | 2020-11-18 | parcial | crsfn-10372-100056-2019-15 | fichas/crsfn/2020-07.md |
-| acordao-crsfn | RJ2016/8347 | 2020-11-18 | parcial | crsfn-10372-100052-2019-29 | fichas/crsfn/2020-07.md |
-| pas | 19957.008274/2018-11; RJ2018/5469 | 2020-06-09 | condenacao | cvm-pas-19957-008274-2018-11 | fichas/pas/2020-02.md |
-| acordao-crsfn | 30/2005 | 2020-04-14 | parcial | crsfn-13083-2 | fichas/crsfn/2020-02.md |
-| acordao-crsfn | RJ2013/9762 | 2018-04-25 | condenacao | crsfn-14420 | fichas/crsfn/2018-03.md |
-| pas | RJ2016/7192 | 2018-03-13 | condenacao | cvm-pas-rj2016-7192 | fichas/pas/2018-02.md |
+| acordao-crsfn | RJ2017/1239 | 2020-11-18 | parcial | crsfn-10372-100056-2019-15 | fichas/crsfn/2020-09.md |
+| acordao-crsfn | RJ2016/8347 | 2020-11-18 | parcial | crsfn-10372-100052-2019-29 | fichas/crsfn/2020-09.md |
+| pas | 19957.008274/2018-11; RJ2018/5469 | 2020-06-09 | condenacao | cvm-pas-19957-008274-2018-11 | fichas/pas/2020-04.md |
+| acordao-crsfn | 30/2005 | 2020-04-14 | parcial | crsfn-13083-2 | fichas/crsfn/2020-03.md |
+| acordao-crsfn | RJ2013/9762 | 2018-04-25 | condenacao | crsfn-14420 | fichas/crsfn/2018-04.md |
+| pas | RJ2016/7192 | 2018-03-13 | condenacao | cvm-pas-rj2016-7192 | fichas/pas/2018-03.md |
 
 ## circular-bcb-4027
 

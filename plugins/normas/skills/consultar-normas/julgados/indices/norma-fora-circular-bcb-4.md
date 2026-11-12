@@ -13,13 +13,13 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.007176/2021-54 | 2021-11-30 | deferido | cvm-col-20211130-d2405 | fichas/colegiado/2021-20.md |
 | decisao-colegiado | 19957.003330/2020-38 | 2021-07-27 | conhecimento | cvm-col-20210727-d2248 | fichas/colegiado/2021-12.md |
-| pas | 19957.007809/2018-29; RJ2018/5150 | 2020-06-02 | condenacao | cvm-pas-19957-007809-2018-29 | fichas/pas/2020-02.md |
-| pas | 19957.007543/2019-03; RJ2019/5673 | 2020-06-02 | condenacao | cvm-pas-19957-007543-2019-03 | fichas/pas/2020-02.md |
-| pas | 19957.005452/2016-82; IA2016/5452 | 2020-06-02 | condenacao | cvm-pas-19957-005452-2016-82 | fichas/pas/2020-02.md |
-| pas | 19957.000592/2019-15; RJ2019/958 | 2020-06-02 | condenacao | cvm-pas-19957-000592-2019-15 | fichas/pas/2020-02.md |
+| pas | 19957.007809/2018-29; RJ2018/5150 | 2020-06-02 | condenacao | cvm-pas-19957-007809-2018-29 | fichas/pas/2020-03.md |
+| pas | 19957.007543/2019-03; RJ2019/5673 | 2020-06-02 | condenacao | cvm-pas-19957-007543-2019-03 | fichas/pas/2020-03.md |
+| pas | 19957.005452/2016-82; IA2016/5452 | 2020-06-02 | condenacao | cvm-pas-19957-005452-2016-82 | fichas/pas/2020-03.md |
+| pas | 19957.000592/2019-15; RJ2019/958 | 2020-06-02 | condenacao | cvm-pas-19957-000592-2019-15 | fichas/pas/2020-03.md |
 | decisao-colegiado | 19957.007396/2017-00 | 2019-02-26 | — | cvm-col-20190226-d1052 | fichas/colegiado/2019-03.md |
-| acordao-crsfn | RJ2011/5211 | 2018-09-20 | parcial | crsfn-14362 | fichas/crsfn/2018-06.md |
-| acordao-crsfn | RJ2014/5099 | 2018-08-21 | parcial | crsfn-14487 | fichas/crsfn/2018-05.md |
+| acordao-crsfn | RJ2011/5211 | 2018-09-20 | parcial | crsfn-14362 | fichas/crsfn/2018-07.md |
+| acordao-crsfn | RJ2014/5099 | 2018-08-21 | parcial | crsfn-14487 | fichas/crsfn/2018-07.md |
 | decisao-colegiado | RJ2011/1588 | 2011-03-22 | nao-provido | cvm-col-20110322-d14 | fichas/colegiado/2011-07.md |
 
 Fim do subíndice.

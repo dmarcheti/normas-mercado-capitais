@@ -39,806 +39,806 @@ Este subíndice tem 844 linhas e uma leitura única é cortada em silêncio pert
 | 1999 | 838 |
 | 1996 | 840 |
 
-| Tipo | Processo | Data | Resultado | Id | Ficha |
-|---|---|---|---|---|---|
-| decisao-colegiado | 19957.005195/2025-70 | 2026-06-24 | nao-provido | cvm-col-20260624-d4-d3436 | fichas/colegiado/2026-03.md |
-| decisao-colegiado | 19957.000952/2023-57 | 2026-05-06 | nao-provido | cvm-col-20260506-d3518 | fichas/colegiado/2026-02.md |
-| decisao-colegiado | 19957.003100/2023-11 | 2026-05-06 | nao-provido | cvm-col-20260506-d3443 | fichas/colegiado/2026-02.md |
-| decisao-colegiado | 19957.005195/2025-70 | 2026-05-06 | nao-provido | cvm-col-20260506-d3436 | fichas/colegiado/2026-02.md |
-| decisao-colegiado | 19957.003711/2025-21 | 2026-05-06 | parcial | cvm-col-20260506-d3345 | fichas/colegiado/2026-02.md |
-| decisao-colegiado | 19957.003343/2025-11 | 2026-03-24 | parcial | cvm-col-20260324-d3438 | fichas/colegiado/2026-01.md |
-| decisao-colegiado | 19957.003558/2025-32 | 2026-03-17 | deferido | cvm-col-20260317-d3506 | fichas/colegiado/2026-01.md |
-| decisao-colegiado | 19957.000628/2025-09 | 2026-03-03 | outro | cvm-col-20260303-d3479 | fichas/colegiado/2026-01.md |
-| pas | 19957.007759/2020-02 | 2025-12-18 | condenacao | cvm-pas-19957-007759-2020-02 | fichas/pas/2025-06.md |
-| decisao-colegiado | 19957.005195/2025-70 | 2025-12-04 | nao-provido | cvm-col-20251204-d3436 | fichas/colegiado/2025-12.md |
-| decisao-colegiado | 19957.008553/2024-15 | 2025-11-18 | parcial | cvm-col-20251118-d3349 | fichas/colegiado/2025-11.md |
-| decisao-colegiado | 19957.002328/2025-56 | 2025-11-18 | — | cvm-col-20251118-d3324 | fichas/colegiado/2025-11.md |
-| decisao-colegiado | 04/2024; 45/2021; 19957.002633/2024-67 | 2025-10-29 | — | cvm-col-20251029-d3150 | fichas/colegiado/2025-10.md |
-| decisao-colegiado | 19957.003749/2024-13 | 2025-09-23 | nao-provido | cvm-col-20250923-d3357 | fichas/colegiado/2025-09.md |
-| decisao-colegiado | 19957.006682/2025-50 | 2025-09-23 | conhecimento | cvm-col-20250923-d3320 | fichas/colegiado/2025-09.md |
-| acordao-crsfn | 19957.004989/2021-92 | 2025-09-16 | outro | crsfn-10372-000089-2024-15-2 | fichas/crsfn/2025-04.md |
-| decisao-colegiado | 19957.006191/2025-17 | 2025-09-09 | nao-provido | cvm-col-20250909-d3348 | fichas/colegiado/2025-09.md |
-| decisao-colegiado | 19957.013283/2024-64 | 2025-09-02 | nao-provido | cvm-col-20250902-d3302 | fichas/colegiado/2025-09.md |
-| decisao-colegiado | 19957.006682/2025-50 | 2025-08-12 | nao-provido | cvm-col-20250812-d3320 | fichas/colegiado/2025-08.md |
-| decisao-colegiado | 19957.019109/2024-25 | 2025-06-17 | nao-provido | cvm-col-20250617-d3244 | fichas/colegiado/2025-05.md |
-| decisao-colegiado | 19957.009746/2021-41 | 2025-05-27 | indeferido | cvm-col-20250527-d9798 | fichas/colegiado/2025-05.md |
-| decisao-colegiado | 19957.005393/2018-12 | 2025-04-29 | nao-provido | cvm-col-20250429-d3267 | fichas/colegiado/2025-04.md |
-| decisao-colegiado | 19957.002296/2020-84; 19957.001134/2025-33 | 2025-04-15 | nao-provido | cvm-col-20250415-d2014 | fichas/colegiado/2025-03.md |
-| decisao-colegiado | 19957.013547/2024-80 | 2025-03-11 | nao-provido | cvm-col-20250311-d3209 | fichas/colegiado/2025-02.md |
-| decisao-colegiado | 19957.019092/2024-14 | 2025-03-11 | conhecimento | cvm-col-20250311-d2938 | fichas/colegiado/2025-02.md |
-| decisao-colegiado | 19957.001917/2025-17 | 2025-03-10 | conhecimento | cvm-col-20250310-d3234 | fichas/colegiado/2025-02.md |
-| decisao-colegiado | 19957.001830/2021-16; 19957.019092/2024-14 | 2024-12-17 | nao-provido | cvm-col-20241217-d2938 | fichas/colegiado/2024-14.md |
-| decisao-colegiado | 19957.009040/2023-41 | 2024-12-10 | nao-provido | cvm-col-20241210-d3188 | fichas/colegiado/2024-14.md |
-| decisao-colegiado | 19957.016002/2024-25 | 2024-11-12 | nao-provido | cvm-col-20241112-d3170 | fichas/colegiado/2024-13.md |
-| decisao-colegiado | 19957.003484/2020-20; 19957.012344/2022-12; 19957.019083/2024-15 | 2024-11-12 | nao-provido | cvm-col-20241112-d2186-2945 | fichas/colegiado/2024-13.md |
-| decisao-colegiado | 19957.003611/2020-91 | 2024-11-05 | indeferido | cvm-col-20241105-d1905 | fichas/colegiado/2024-12.md |
-| acordao-crsfn | RJ2013/8880 | 2024-10-09 | outro | crsfn-10372-100059-2020-84-2 | fichas/crsfn/2024-05.md |
-| decisao-colegiado | 19957.003980/2023-26 | 2024-10-08 | indeferido | cvm-col-20241008-d3021 | fichas/colegiado/2024-11.md |
-| decisao-colegiado | 19957.006858/2019-25 | 2024-09-17 | nao-provido | cvm-col-20240917-d1952 | fichas/colegiado/2024-10.md |
-| decisao-colegiado | 19957.001207/2023-25 | 2024-08-27 | conhecimento | cvm-col-20240827-d2978 | fichas/colegiado/2024-09.md |
-| decisao-colegiado | 19957.008119/2023-54 | 2024-07-09 | parcial | cvm-col-20240709-d3031 | fichas/colegiado/2024-08.md |
-| decisao-colegiado | 19957.005643/2020-21 | 2024-07-09 | indeferido | cvm-col-20240709-d2066 | fichas/colegiado/2024-08.md |
-| decisao-colegiado | 19957.007304/2021-60 | 2024-06-13 | conhecimento | cvm-col-20240613-d3017 | fichas/colegiado/2024-06.md |
-| decisao-colegiado | 19957.007916/2019-38 | 2024-06-04 | parcial | cvm-col-20240604-d1582 | fichas/colegiado/2024-06.md |
-| decisao-colegiado | 19957.001830/2021-16 | 2024-05-21 | indeferido | cvm-col-20240521-d2938 | fichas/colegiado/2024-05.md |
-| decisao-colegiado | 19957.010194/2019-07; 19957.004588/2020-51; 19957.008718/2020-25; 19957.010053/2021-09 | 2024-05-21 | outro | cvm-col-20240521-d1973 | fichas/colegiado/2024-05.md |
-| acordao-crsfn | RJ2019/9541 | 2024-04-09 | outro | crsfn-10372-100173-2020-12-2 | fichas/crsfn/2024-02.md |
-| decisao-colegiado | 19957.001207/2023-25 | 2024-04-02 | conhecimento | cvm-col-20240402-d2978 | fichas/colegiado/2024-04.md |
-| decisao-colegiado | 19957.002296/2020-84 | 2024-03-12 | parcial | cvm-col-20240312-d2014 | fichas/colegiado/2024-03.md |
-| acordao-crsfn | SP2017/294 | 2024-03-12 | outro | crsfn-10372-100096-2021-73-2 | fichas/crsfn/2024-01.md |
-| decisao-colegiado | 19957.004239/2022-00 | 2024-03-05 | conhecimento | cvm-col-20240305-d2899 | fichas/colegiado/2024-03.md |
-| acordao-crsfn | RJ2016/6284 | 2024-02-27 | extincao | crsfn-10372-100299-2019-45 | fichas/crsfn/2024-01.md |
-| decisao-colegiado | 19957.004239/2022-00 | 2024-02-20 | — | cvm-col-20240220-d2899 | fichas/colegiado/2024-02.md |
-| decisao-colegiado | 19957.000152/2022-55 | 2024-01-09 | conhecimento | cvm-col-20240109-d2771 | fichas/colegiado/2024-01.md |
-| decisao-colegiado | 19957.006771/2020-91 | 2023-12-19 | conhecimento | cvm-col-20231219-d2890 | fichas/colegiado/2023-14.md |
-| decisao-colegiado | 19957.002835/2022-47; 19957.015162/2023-76 | 2023-12-19 | nao-provido | cvm-col-20231219-d2820 | fichas/colegiado/2023-14.md |
-| acordao-crsfn | SP2017/440 | 2023-12-04 | outro | crsfn-10372-100097-2021-18-2 | fichas/crsfn/2023-08.md |
-| decisao-colegiado | 19957.008986/2021-28 | 2023-11-21 | nao-provido | cvm-col-20231121-d2710 | fichas/colegiado/2023-12.md |
-| termo-compromisso | 19957.009335/2021-55 | 2023-11-14 | outro | cvm-col-20231114-d2576 | fichas/tc/2023-07.md |
-| termo-compromisso | 19957.008369/2022-11 | 2023-10-31 | outro | cvm-col-20231031-d2919-item1 | fichas/tc/2023-06.md |
-| decisao-colegiado | 19957.003953/2021-91; 19957.004982/2021-71 | 2023-10-10 | conhecimento | cvm-col-20231010-d2566-2567 | fichas/colegiado/2023-11.md |
-| acordao-crsfn | RJ2019/1400 | 2023-10-10 | outro | crsfn-10372-100111-2020-01-2 | fichas/crsfn/2023-06.md |
-| decisao-colegiado | 19957.009335/2021-55 | 2023-09-26 | indeferido | cvm-col-20230926-d2576 | fichas/colegiado/2023-10.md |
-| acordao-crsfn | 19957.007543/2019-03; RJ2019/5673 | 2023-09-12 | outro | crsfn-10372-100012-2021-00-2 | fichas/crsfn/2023-05.md |
-| decisao-colegiado | 19957.004416/2016-00; 19957.009023/2023-11 | 2023-09-05 | nao-provido | cvm-col-20230905-d1498 | fichas/colegiado/2023-09.md |
-| decisao-colegiado | 19957.001764/2018-89 | 2023-08-29 | conhecimento | cvm-col-20230829-d2578 | fichas/colegiado/2023-09.md |
-| termo-compromisso | 19957.009444/2019-58 | 2023-08-29 | rejeitado | cvm-col-20230829-d1878 | fichas/tc/2023-05.md |
-| decisao-colegiado | 19957.007266/2022-26 | 2023-07-11 | indeferido | cvm-col-20230711-d2813 | fichas/colegiado/2023-07.md |
-| decisao-colegiado | 19957.002055/2022-05 | 2023-05-23 | nao-provido | cvm-col-20230523-d2804 | fichas/colegiado/2023-06.md |
-| decisao-colegiado | 19957.004381/2021-68 | 2023-05-16 | conhecimento | cvm-col-20230516-d2479 | fichas/colegiado/2023-05.md |
-| acordao-crsfn | 07/2015 | 2023-05-09 | outro | crsfn-10372-100114-2020-36-4 | fichas/crsfn/2023-04.md |
-| acordao-crsfn | IA-2013-11 | 2023-04-12 | outro | crsfn-10372-100284-2018-04-2 | fichas/crsfn/2023-03.md |
-| decisao-colegiado | 19957.005174/2019-14 | 2023-04-04 | conhecimento | cvm-col-20230404-d2430 | fichas/colegiado/2023-04.md |
-| acordao-crsfn | 14/2010 | 2023-03-08 | outro | crsfn-10372-100071-2021-70-2 | fichas/crsfn/2023-02.md |
-| acordao-crsfn | SP2014/230 | 2023-03-07 | outro | crsfn-10372-100034-2019-47-2 | fichas/crsfn/2023-01.md |
-| decisao-colegiado | 19957.002055/2022-05 | 2023-02-28 | outro | cvm-col-20230228-d2804 | fichas/colegiado/2023-03.md |
-| decisao-colegiado | 19957.008143/2018-26; 19957.008816/2018-48; 19957.010958/2018-75 | 2023-02-14 | nao-provido | cvm-col-20230214-d1497 | fichas/colegiado/2023-02.md |
-| decisao-colegiado | 19957.006097/2018-21 | 2023-02-07 | conhecimento | cvm-col-20230207-d1510 | fichas/colegiado/2023-02.md |
-| acordao-crsfn | 07/2015 | 2023-02-07 | outro | crsfn-10372-100114-2020-36-3 | fichas/crsfn/2023-01.md |
-| decisao-colegiado | 19957.002296/2020-84 | 2023-01-31 | parcial | cvm-col-20230131-d2014 | fichas/colegiado/2023-02.md |
-| decisao-colegiado | 19957.008816/2018-48; 19957.004810/2019-82 | 2023-01-31 | indeferido | cvm-col-20230131-d1535 | fichas/colegiado/2023-02.md |
-| decisao-colegiado | 19957.000695/2021-91 | 2023-01-10 | nao-provido | cvm-col-20230110-d2418 | fichas/colegiado/2023-01.md |
-| termo-compromisso | 19957.004676/2018-39 | 2023-01-10 | rejeitado | cvm-col-20230110-d1257 | fichas/tc/2023-01.md |
-| decisao-colegiado | 19957.010511/2021-00 | 2023-01-03 | conhecimento | cvm-col-20230103-d2523 | fichas/colegiado/2023-01.md |
-| decisao-colegiado | 19957.000025/2022-56 | 2023-01-03 | conhecimento | cvm-col-20230103-d2502 | fichas/colegiado/2023-01.md |
-| termo-compromisso | 19957.005866/2018-73 | 2022-12-13 | rejeitado | cvm-col-20221213-d1481 | fichas/tc/2022-06.md |
-| decisao-colegiado | 19957.005866/2018-73 | 2022-12-06 | indeferido | cvm-col-20221206-d1481-19 | fichas/colegiado/2022-16.md |
-| decisao-colegiado | 19957.002315/2021-53 | 2022-11-08 | conhecimento | cvm-col-20221108-d2437 | fichas/colegiado/2022-15.md |
-| acordao-crsfn | RJ2018/4165 | 2022-11-08 | outro | crsfn-10372-100033-2020-36-2 | fichas/crsfn/2022-06.md |
-| decisao-colegiado | 19957.008986/2021-28 | 2022-10-25 | — | cvm-col-20221025-d2710 | fichas/colegiado/2022-14.md |
-| decisao-colegiado | 19957.004040/2020-10 | 2022-09-20 | parcial | cvm-col-20220920-d2065 | fichas/colegiado/2022-13.md |
-| decisao-colegiado | 19957.004588/2020-51 | 2022-08-30 | outro | cvm-col-20220830-d2301 | fichas/colegiado/2022-13.md |
-| decisao-colegiado | 19957.008816/2018-48; 19957.008143/2018-26; 19957.010958/2018-75 | 2022-08-30 | indeferido | cvm-col-20220830-d1497-1535-e-1572 | fichas/colegiado/2022-13.md |
-| decisao-colegiado | 19957.010316/2021-71 | 2022-08-02 | conhecimento | cvm-col-20220802-d2661 | fichas/colegiado/2022-12.md |
-| decisao-colegiado | 19957.007862/2018-20 | 2022-08-02 | nao-provido | cvm-col-20220802-d1476 | fichas/colegiado/2022-12.md |
-| decisao-colegiado | 19957.001764/2018-89 | 2022-06-28 | — | cvm-col-20220628-d2578 | fichas/colegiado/2022-10.md |
-| decisao-colegiado | 19957.010592/2021-30 | 2022-06-07 | nao-provido | cvm-col-20220607-d2469 | fichas/colegiado/2022-09.md |
-| decisao-colegiado | 19957.000482/2022-41 | 2022-05-24 | conhecimento | cvm-col-20220524-d2534 | fichas/colegiado/2022-08.md |
-| decisao-colegiado | 19957.008201/2021-17 | 2022-05-24 | conhecimento | cvm-col-20220524-d2462 | fichas/colegiado/2022-08.md |
-| decisao-colegiado | 19957.001764/2018-89 | 2022-05-10 | nao-provido | cvm-col-20220510-d2578 | fichas/colegiado/2022-07.md |
-| decisao-colegiado | 19957.004478/2018-75 | 2022-05-10 | parcial | cvm-col-20220510-d1339 | fichas/colegiado/2022-07.md |
-| acordao-crsfn | RJ2016/5160 | 2022-05-10 | outro | crsfn-10372-100224-2019-64 | fichas/crsfn/2022-03.md |
-| acordao-crsfn | RJ2014/578 | 2022-05-05 | outro | crsfn-10372-100245-2019-80-2 | fichas/crsfn/2022-03.md |
-| acordao-crsfn | RJ2014/578 | 2022-04-13 | outro | crsfn-edcl-10372-100245-2019-80 | fichas/crsfn/2022-03.md |
-| acordao-crsfn | RJ2018/6282 | 2022-04-13 | outro | crsfn-edcl-10372-100107-2020-34 | fichas/crsfn/2022-03.md |
-| acordao-crsfn | RJ2016/8143 | 2022-04-13 | outro | crsfn-edcl-10372-100055-2020-04 | fichas/crsfn/2022-03.md |
-| decisao-colegiado | 19957.002796/2020-16 | 2022-03-15 | nao-provido | cvm-col-20220315-d1855 | fichas/colegiado/2022-03.md |
-| decisao-colegiado | 19957.008901/2016-44; 19957.006688/2016-36 | 2022-01-25 | outro | cvm-col-20220125-d0817-e-0766 | fichas/colegiado/2022-01.md |
-| decisao-colegiado | 19957.000695/2021-91 | 2021-12-14 | nao-provido | cvm-col-20211214-d2418 | fichas/colegiado/2021-22.md |
-| decisao-colegiado | 19957.002528/2021-85; 19957.000115/2019-41 | 2021-12-07 | indeferido | cvm-col-20211207-d1403 | fichas/colegiado/2021-21.md |
-| decisao-colegiado | 45/2021; 19957.009677/2021-75 | 2021-12-01 | — | cvm-col-20211201-d2404-2 | fichas/colegiado/2021-21.md |
-| decisao-colegiado | 19957.004079/2017-23 | 2021-11-23 | conhecimento | cvm-col-20211123-d2285 | fichas/colegiado/2021-20.md |
-| decisao-colegiado | 19957.011041/2019-79 | 2021-11-09 | conhecimento | cvm-col-20211109-d0733 | fichas/colegiado/2021-19.md |
-| acordao-crsfn | 13/2014 | 2021-11-09 | outro | crsfn-10372-100058-2020-30-2 | fichas/crsfn/2021-04.md |
-| decisao-colegiado | 19957.001413/2015-25 | 2021-11-03 | outro | cvm-col-20211103-d1489 | fichas/colegiado/2021-18.md |
-| decisao-colegiado | 19957.002309/2021-04 | 2021-10-05 | conhecimento | cvm-col-20211005-d2191 | fichas/colegiado/2021-16.md |
-| decisao-colegiado | 19957.004235/2020-51 | 2021-09-21 | conhecimento | cvm-col-20210921-d1854 | fichas/colegiado/2021-16.md |
-| decisao-colegiado | 19957.005637/2019-30; 19957.011657/2019-40 | 2021-09-21 | parcial | cvm-col-20210921-d1800 | fichas/colegiado/2021-16.md |
-| decisao-colegiado | 19957.005047/2021-21 | 2021-09-14 | conhecimento | cvm-col-20210914-d2250 | fichas/colegiado/2021-15.md |
-| decisao-colegiado | 19957.006164/2021-11; 19957.010399/2018-01 | 2021-08-24 | indeferido | cvm-col-20210824-d1603 | fichas/colegiado/2021-14.md |
-| acordao-crsfn | RJ2015/2027 | 2021-08-11 | outro | crsfn-edcl-10372-100333-2019-81 | fichas/crsfn/2021-03.md |
-| acordao-crsfn | SP2013/210 | 2021-08-11 | arquivamento | crsfn-10372-100139-2019-04 | fichas/crsfn/2021-03.md |
-| termo-compromisso | 19957.003795/2018-74 | 2021-08-10 | rejeitado | cvm-col-20210810-d1950 | fichas/tc/2021-05.md |
-| decisao-colegiado | 19957.005731/2019-99 | 2021-07-27 | outro | cvm-col-20210727-d1761 | fichas/colegiado/2021-12.md |
-| decisao-colegiado | 19957.006626/2020-19 | 2021-07-20 | outro | cvm-col-20210720-d2235 | fichas/colegiado/2021-12.md |
-| decisao-colegiado | 19957.006936/2017-20; RJ2017/4199 | 2021-06-29 | indeferido | cvm-col-20210629-d1005 | fichas/colegiado/2021-10.md |
-| decisao-colegiado | 19957.007193/2019-77; 19957.006475/2020-91 | 2021-04-13 | conhecimento | cvm-col-20210413-d2001 | fichas/colegiado/2021-06.md |
-| decisao-colegiado | 19957.005983/2019-18 | 2021-03-09 | parcial | cvm-col-20210309-d1675 | fichas/colegiado/2021-04.md |
-| decisao-colegiado | 19957.011657/2019-40 | 2021-02-09 | conhecimento | cvm-col-20210209-d1800 | fichas/colegiado/2021-02.md |
-| decisao-colegiado | 19957.000247/2021-98 | 2021-01-26 | nao-provido | cvm-col-20210126-d2042 | fichas/colegiado/2021-02.md |
-| decisao-colegiado | 19957.007193/2019-77; 19957.006475/2020-91 | 2021-01-26 | conhecimento | cvm-col-20210126-d2001 | fichas/colegiado/2021-01.md |
-| decisao-colegiado | 19957.003513/2019-10 | 2021-01-19 | nao-provido | cvm-col-20210119-d2031 | fichas/colegiado/2021-01.md |
-| decisao-colegiado | 19957.000238/2019-82 | 2020-12-22 | conhecimento | cvm-col-20201222-d1665 | fichas/colegiado/2020-21.md |
-| decisao-colegiado | RJ2014/13977; 19957.006752/2020-65 | 2020-12-15 | indeferido | cvm-col-20201215-d9750 | fichas/colegiado/2020-21.md |
-| decisao-colegiado | 19957.000701/2018-13; 11/2013 | 2020-12-15 | deferido | cvm-col-20201215-d9564 | fichas/colegiado/2020-21.md |
-| decisao-colegiado | 19957.002526/2020-13 | 2020-12-15 | conhecimento | cvm-col-20201215-d1816 | fichas/colegiado/2020-21.md |
-| termo-compromisso | 19957.007605/2020-11 | 2020-11-24 | outro | cvm-col-20201124-d1965 | fichas/tc/2020-07.md |
-| decisao-colegiado | 19957.004297/2020-63 | 2020-11-17 | conhecimento | cvm-col-20201117-d1904 | fichas/colegiado/2020-19.md |
-| decisao-colegiado | 05/2014; 19957.011659/2019-39 | 2020-11-17 | indeferido | cvm-col-20201117-d0308 | fichas/colegiado/2020-19.md |
-| acordao-crsfn | RJ2012/11002 | 2020-11-17 | outro | crsfn-edcl-185 | fichas/crsfn/2020-07.md |
-| decisao-colegiado | 19957.003611/2020-91; 19957.003612/2020-35 | 2020-11-03 | nao-provido | cvm-col-20201103-d1905 | fichas/colegiado/2020-18.md |
-| decisao-colegiado | 19957.009227/2017-04 | 2020-11-03 | parcial | cvm-col-20201103-d0983 | fichas/colegiado/2020-18.md |
-| decisao-colegiado | 19957.005247/2020-01 | 2020-10-27 | conhecimento | cvm-col-20201027-d1892 | fichas/colegiado/2020-18.md |
-| decisao-colegiado | 19957.006773/2020-81; 06/2007; 19957.003121/2015-27 | 2020-10-13 | indeferido | cvm-col-20201013-d4403 | fichas/colegiado/2020-17.md |
-| decisao-colegiado | 19957.007543/2019-03 | 2020-10-06 | deferido | cvm-col-20201006-d1688 | fichas/colegiado/2020-16.md |
-| decisao-colegiado | 19957.000592/2019-15 | 2020-10-06 | deferido | cvm-col-20201006-d1671 | fichas/colegiado/2020-16.md |
-| decisao-colegiado | 19957.007552/2016-43; RJ2016/7929 | 2020-09-22 | conhecimento | cvm-col-20200922-d0775 | fichas/colegiado/2020-15.md |
-| acordao-crsfn | RJ2016/5499 | 2020-09-21 | outro | crsfn-edcl-10372-100259-2018-12 | fichas/crsfn/2020-06.md |
-| acordao-crsfn | 08/2012 | 2020-09-15 | parcial | crsfn-10372-000204-2016-41 | fichas/crsfn/2020-04.md |
-| decisao-colegiado | 19957.003611/2020-91; 19957.003612/2020-35 | 2020-09-08 | nao-provido | cvm-col-20200908-d1905 | fichas/colegiado/2020-15.md |
-| decisao-colegiado | 19957.005393/2018-12 | 2020-09-01 | provido | cvm-col-20200901-d1867 | fichas/colegiado/2020-14.md |
-| decisao-colegiado | 19957.007552/2016-43; RJ2016/7929 | 2020-08-25 | outro | cvm-col-20200825-d0775 | fichas/colegiado/2020-13.md |
-| decisao-colegiado | 19957.006012/2016-42 | 2020-08-25 | indeferido | cvm-col-20200825-d0619 | fichas/colegiado/2020-13.md |
-| decisao-colegiado | 06/2016; 19957.011654/2019-14 | 2020-08-18 | outro | cvm-col-20200818-d1511 | fichas/colegiado/2020-13.md |
-| decisao-colegiado | 05/2016; 19957.010647/2019-97 | 2020-08-18 | parcial | cvm-col-20200818-d1494 | fichas/colegiado/2020-13.md |
-| decisao-colegiado | 19957.005789/2017-71; SP2017/0294 | 2020-08-18 | indeferido | cvm-col-20200818-d0863 | fichas/colegiado/2020-13.md |
-| acordao-crsfn | 04/2013 | 2020-08-18 | condenacao | crsfn-10372-000470-2016-74 | fichas/crsfn/2020-04.md |
-| acordao-crsfn | IA-2011-2 | 2020-08-18 | condenacao | crsfn-10372-000380-2016-83 | fichas/crsfn/2020-04.md |
-| decisao-colegiado | 19957.003609/2017-16 | 2020-08-11 | deferido | cvm-col-20200811-d1782 | fichas/colegiado/2020-13.md |
-| decisao-colegiado | 19957.001413/2015-25; 21/2013 | 2020-08-11 | deferido | cvm-col-20200811-d1489 | fichas/colegiado/2020-12.md |
-| decisao-colegiado | 19957.009590/2018-01; 19957.000861/2019-35 | 2020-08-11 | deferido | cvm-col-20200811-d1321-1355 | fichas/colegiado/2020-12.md |
-| decisao-colegiado | 19957.011190/2019-38 | 2020-07-14 | indeferido | cvm-col-20200714-d1813 | fichas/colegiado/2020-11.md |
-| decisao-colegiado | 19957.000238/2019-82 | 2020-07-14 | conhecimento | cvm-col-20200714-d1665 | fichas/colegiado/2020-11.md |
-| decisao-colegiado | 19957.000115/2019-41 | 2020-07-07 | indeferido | cvm-col-20200707-d1403 | fichas/colegiado/2020-11.md |
-| decisao-colegiado | 19957.005540/2018-46 | 2020-06-09 | conhecimento | cvm-col-20200609-d1832 | fichas/colegiado/2020-10.md |
-| decisao-colegiado | 19957.009351/2017-61 | 2020-06-09 | indeferido | cvm-col-20200609-d1009 | fichas/colegiado/2020-09.md |
-| decisao-colegiado | 19957.005933/2019-31; 19957.007695/2019-06; 19957.011012/2019-15 | 2020-06-02 | conhecimento | cvm-col-20200602-d1822 | fichas/colegiado/2020-09.md |
-| decisao-colegiado | 19957.005983/2019-18 | 2020-05-05 | conhecimento | cvm-col-20200505-d1675 | fichas/colegiado/2020-07.md |
-| decisao-colegiado | 19957.000380/2020-63 | 2020-04-22 | conhecimento | cvm-col-20200422-d1704 | fichas/colegiado/2020-07.md |
-| decisao-colegiado | 19957.004070/2019-84 | 2020-04-14 | conhecimento | cvm-col-20200414-d1458 | fichas/colegiado/2020-06.md |
-| decisao-colegiado | 19957.010274/2019-54 | 2020-04-07 | conhecimento | cvm-col-20200407-d1667 | fichas/colegiado/2020-06.md |
-| decisao-colegiado | 19957.006304/2018-47 | 2020-03-24 | outro | cvm-col-20200324-d1230 | fichas/colegiado/2020-05.md |
-| decisao-colegiado | 19957.010637/2019-51; RJ2015/2386 | 2020-03-17 | indeferido | cvm-col-20200317-d9884 | fichas/colegiado/2020-05.md |
-| decisao-colegiado | 19957.005983/2019-18 | 2020-03-17 | nao-provido | cvm-col-20200317-d1675 | fichas/colegiado/2020-05.md |
-| decisao-colegiado | 19957.003225/2018-84 | 2020-03-10 | indeferido | cvm-col-20200310-d1568 | fichas/colegiado/2020-04.md |
-| decisao-colegiado | 19957.004116/2017-01 | 2020-03-10 | outro | cvm-col-20200310-d0690 | fichas/colegiado/2020-04.md |
-| decisao-colegiado | 607/2019; 19957.010563/2018-72 | 2020-03-03 | conhecimento | cvm-col-20200303-d1666 | fichas/colegiado/2020-04.md |
-| decisao-colegiado | 19957.006097/2018-21 | 2020-03-03 | conhecimento | cvm-col-20200303-d1510 | fichas/colegiado/2020-04.md |
-| decisao-colegiado | 19957.007006/2017-93; 19957.000885/2020-28 | 2020-02-18 | indeferido | cvm-col-20200218-d1075 | fichas/colegiado/2020-03.md |
-| decisao-colegiado | 19957.008937/2019-71 | 2020-02-04 | conhecimento | cvm-col-20200204-d1640 | fichas/colegiado/2020-02.md |
-| decisao-colegiado | 19957.008957/2019-41 | 2020-02-04 | conhecimento | cvm-col-20200204-d1633 | fichas/colegiado/2020-02.md |
-| decisao-colegiado | 19957.004938/2018-65 | 2020-01-14 | conhecimento | cvm-col-20200114-d1363 | fichas/colegiado/2020-01.md |
-| decisao-colegiado | 14/2013; 19957.000671/2020-51 | 2020-01-14 | outro | cvm-col-20200114-d0124 | fichas/colegiado/2020-01.md |
-| decisao-colegiado | RJ2014/3161 | 2019-11-26 | outro | cvm-col-20191126-d9961 | fichas/colegiado/2019-19.md |
-| decisao-colegiado | 19957.008455/2019-11 | 2019-11-26 | conhecimento | cvm-col-20191126-d1569 | fichas/colegiado/2019-19.md |
-| decisao-colegiado | 08/2016 | 2019-11-26 | conhecimento | cvm-col-20191126-d1173 | fichas/colegiado/2019-19.md |
-| decisao-colegiado | 14/2013 | 2019-11-26 | outro | cvm-col-20191126-d0124 | fichas/colegiado/2019-19.md |
-| decisao-colegiado | 19957.004542/2017-37 | 2019-11-19 | indeferido | cvm-col-20191119-d0804 | fichas/colegiado/2019-18.md |
-| decisao-colegiado | 19957.007937/2016-19 | 2019-11-19 | indeferido | cvm-col-20191119-d0719 | fichas/colegiado/2019-18.md |
-| decisao-colegiado | RJ2015/13326 | 2019-11-05 | indeferido | cvm-col-20191105-d0438 | fichas/colegiado/2019-17.md |
-| decisao-colegiado | 19957.007916/2019-38 | 2019-10-22 | parcial | cvm-col-20191022-d1582 | fichas/colegiado/2019-17.md |
-| decisao-colegiado | 14/2010 | 2019-10-15 | conhecimento | cvm-col-20191015-d8609 | fichas/colegiado/2019-17.md |
-| decisao-colegiado | 08/2016 | 2019-10-08 | indeferido | cvm-col-20191008-d1173 | fichas/colegiado/2019-16.md |
-| decisao-colegiado | 09/2016 | 2019-10-08 | indeferido | cvm-col-20191008-d0810 | fichas/colegiado/2019-16.md |
-| decisao-colegiado | 07/2015 | 2019-09-24 | indeferido | cvm-col-20190924-d0912 | fichas/colegiado/2019-15.md |
-| decisao-colegiado | 19957.005798/2018-42 | 2019-09-03 | conhecimento | cvm-col-20190903-d1406 | fichas/colegiado/2019-13.md |
-| decisao-colegiado | 19957.006097/2018-21 | 2019-08-27 | outro | cvm-col-20190827-d1510 | fichas/colegiado/2019-13.md |
-| decisao-colegiado | 19957.002890/2015-16 | 2019-08-20 | conhecimento | cvm-col-20190820-d9228 | fichas/colegiado/2019-12.md |
-| decisao-colegiado | 21/2010 | 2019-08-13 | indeferido | cvm-col-20190813-d9868 | fichas/colegiado/2019-12.md |
-| decisao-colegiado | RJ2015/2386 | 2019-07-23 | nao-provido | cvm-col-20190723-d9884 | fichas/colegiado/2019-11.md |
-| acordao-crsfn | 11/2002 | 2019-07-23 | outro | crsfn-edcl-13747 | fichas/crsfn/2019-02.md |
-| decisao-colegiado | RJ2014/4077 | 2019-07-16 | indeferido | cvm-col-20190716-d9579 | fichas/colegiado/2019-11.md |
-| decisao-colegiado | 19957.003194/2019-42 | 2019-07-02 | conhecimento | cvm-col-20190702-d1386 | fichas/colegiado/2019-10.md |
-| decisao-colegiado | 17/2013 | 2019-06-18 | indeferido | cvm-col-20190618-d0273 | fichas/colegiado/2019-09.md |
-| decisao-colegiado | RJ2013/8880 | 2019-05-28 | conhecimento | cvm-col-20190528-d8981 | fichas/colegiado/2019-09.md |
-| decisao-colegiado | 16/2010 | 2019-05-21 | indeferido | cvm-col-20190521-d0337-2 | fichas/colegiado/2019-08.md |
-| decisao-colegiado | 16/2010 | 2019-05-21 | indeferido | cvm-col-20190521-d0337-1 | fichas/colegiado/2019-08.md |
-| decisao-colegiado | 02/2018; 19957.006565/2017-86 | 2019-05-15 | — | cvm-col-20190515-d2894 | fichas/colegiado/2019-08.md |
-| decisao-colegiado | RJ2014/6517 | 2019-04-30 | indeferido | cvm-col-20190430-d9468 | fichas/colegiado/2019-07.md |
-| decisao-colegiado | 06/2012 | 2019-04-09 | indeferido | cvm-col-20190409-d9998 | fichas/colegiado/2019-06.md |
-| decisao-colegiado | 19957.003410/2019-50 | 2019-04-09 | conhecimento | cvm-col-20190409-d1285 | fichas/colegiado/2019-06.md |
-| decisao-colegiado | 19957.003411/2019-02 | 2019-04-09 | conhecimento | cvm-col-20190409-d1284 | fichas/colegiado/2019-06.md |
-| decisao-colegiado | 00783.006230/2018-50 | 2019-03-26 | outro | cvm-col-20190326-d1354 | fichas/colegiado/2019-05.md |
-| decisao-colegiado | 19957.008798/2018-02 | 2019-03-12 | conhecimento | cvm-col-20190312-d2-d1287 | fichas/colegiado/2019-04.md |
-| acordao-crsfn | RJ2011/2595 | 2019-02-26 | outro | crsfn-edcl-14180 | fichas/crsfn/2019-01.md |
-| decisao-colegiado | 19957.006406/2016-09 | 2019-02-19 | outro | cvm-col-20190219-d0772 | fichas/colegiado/2019-03.md |
-| decisao-colegiado | RJ2013/8880 | 2019-02-12 | conhecimento | cvm-col-20190212-d8981 | fichas/colegiado/2019-03.md |
-| decisao-colegiado | 19957.008984/2016-71 | 2019-01-29 | indeferido | cvm-col-20190129-d0838 | fichas/colegiado/2019-02.md |
-| decisao-colegiado | 22/2013 | 2019-01-22 | indeferido | cvm-col-20190122-d1057 | fichas/colegiado/2019-01.md |
-| decisao-colegiado | 14/2010 | 2019-01-15 | indeferido | cvm-col-20190115-d8609 | fichas/colegiado/2019-01.md |
-| pas | RJ2017/2553 | 2018-12-18 | extincao | cvm-pas-rj2017-2553 | fichas/pas/2018-12.md |
-| termo-compromisso | 19957.011609/2017-90 | 2018-12-18 | outro | cvm-col-20181218-d1249 | fichas/tc/2018-07.md |
-| acordao-crsfn | RJ2014/10290 | 2018-12-12 | outro | crsfn-edcl-10372-100292-2017-61 | fichas/crsfn/2018-08.md |
-| decisao-colegiado | 19957.007121/2018-49 | 2018-12-04 | conhecimento | cvm-col-20181204-d1163 | fichas/colegiado/2018-20.md |
-| decisao-colegiado | 19957.008099/2018-54 | 2018-12-04 | conhecimento | cvm-col-20181204-d1153 | fichas/colegiado/2018-20.md |
-| decisao-colegiado | 796/2018; 19957.007345/2018-51 | 2018-11-27 | nao-provido | cvm-col-20181127-d1085 | fichas/colegiado/2018-20.md |
-| decisao-colegiado | 19957.009681/2017-57 | 2018-11-13 | parcial | cvm-col-20181113-d1169 | fichas/colegiado/2018-19.md |
-| decisao-colegiado | 06/2012 | 2018-11-06 | conhecimento | cvm-col-20181106-d9998 | fichas/colegiado/2018-19.md |
-| termo-compromisso | 19957.011587/2017-68 | 2018-10-23 | outro | cvm-col-20181023-d1188 | fichas/tc/2018-05.md |
-| decisao-colegiado | RJ2016/1465 | 2018-10-23 | indeferido | cvm-col-20181023-d0334 | fichas/colegiado/2018-18.md |
-| decisao-colegiado | RJ2015/12087 | 2018-10-23 | indeferido | cvm-col-20181023-d0217 | fichas/colegiado/2018-18.md |
-| acordao-crsfn | RJ2013/1402 | 2018-10-19 | parcial | crsfn-revisao-14096 | fichas/crsfn/2018-07.md |
-| decisao-colegiado | 19957.003496/2016-78 | 2018-10-09 | indeferido | cvm-col-20181009-d0594 | fichas/colegiado/2018-18.md |
-| decisao-colegiado | 06/2012 | 2018-09-11 | nao-provido | cvm-col-20180911-d0998 | fichas/colegiado/2018-16.md |
-| decisao-colegiado | SP2013/0448 | 2018-09-11 | indeferido | cvm-col-20180911-d0275-item3 | fichas/colegiado/2018-16.md |
-| decisao-colegiado | SP2013/0448 | 2018-09-11 | indeferido | cvm-col-20180911-d0275-item2 | fichas/colegiado/2018-16.md |
-| decisao-colegiado | RJ2014/13353 | 2018-08-28 | parcial | cvm-col-20180828-d9798 | fichas/colegiado/2018-15.md |
-| decisao-colegiado | 19957.001068/2017-91 | 2018-08-28 | parcial | cvm-col-20180828-d0798 | fichas/colegiado/2018-15.md |
-| decisao-colegiado | 796/2018; 19957.007345/2018-51 | 2018-08-21 | outro | cvm-col-20180821-d1085-19957-007345-2018-51 | fichas/colegiado/2018-14.md |
-| decisao-colegiado | 796/2018; 19957.007322/2018-46 | 2018-08-21 | outro | cvm-col-20180821-d1085-19957-007322-2018-46 | fichas/colegiado/2018-14.md |
-| decisao-colegiado | 13/2013 | 2018-08-21 | indeferido | cvm-col-20180821-d0001 | fichas/colegiado/2018-14.md |
-| decisao-colegiado | 19957.010436/2017-92 | 2018-08-14 | conhecimento | cvm-col-20180814-d1087 | fichas/colegiado/2018-14.md |
-| decisao-colegiado | 06/2012 | 2018-08-09 | indeferido | cvm-col-20180809-d9998 | fichas/colegiado/2018-14.md |
-| decisao-colegiado | 19957.005977/2016-18 | 2018-08-07 | conhecimento | cvm-col-20180807-d0702 | fichas/colegiado/2018-14.md |
-| decisao-colegiado | RJ2014/13157 | 2018-08-07 | conhecimento | cvm-col-20180807-d0059 | fichas/colegiado/2018-14.md |
-| decisao-colegiado | 19957.004628/2016-89; RJ2015/1321 | 2018-07-31 | conhecimento | cvm-col-20180731-d0062 | fichas/colegiado/2018-13.md |
-| decisao-colegiado | RJ2014/14763 | 2018-07-24 | indeferido | cvm-col-20180724-d9997 | fichas/colegiado/2018-13.md |
-| decisao-colegiado | 19957.001068/2017-91 | 2018-07-17 | conhecimento | cvm-col-20180717-d0798 | fichas/colegiado/2018-12.md |
-| decisao-colegiado | RJ2014/13977 | 2018-07-10 | nao-provido | cvm-col-20180710-d9750 | fichas/colegiado/2018-12.md |
-| decisao-colegiado | RJ2014/7704 | 2018-07-10 | deferido | cvm-col-20180710-d9563 | fichas/colegiado/2018-12.md |
-| decisao-colegiado | 19957.006989/2016-60 | 2018-07-10 | nao-provido | cvm-col-20180710-d0693 | fichas/colegiado/2018-12.md |
-| decisao-colegiado | 06/2012 | 2018-07-03 | deferido | cvm-col-20180703-d9998 | fichas/colegiado/2018-11.md |
-| decisao-colegiado | 19957.004930/2016-37 | 2018-07-03 | outro | cvm-col-20180703-d0605 | fichas/colegiado/2018-11.md |
-| decisao-colegiado | RJ2014/13353 | 2018-06-26 | indeferido | cvm-col-20180626-d9798 | fichas/colegiado/2018-11.md |
-| decisao-colegiado | 19957.003158/2017-17 | 2018-06-19 | nao-provido | cvm-col-20180619-d1060 | fichas/colegiado/2018-11.md |
-| decisao-colegiado | 19957.003426/2017-09 | 2018-06-19 | conhecimento | cvm-col-20180619-d0670 | fichas/colegiado/2018-10.md |
-| decisao-colegiado | RJ2016/6384 | 2018-06-19 | conhecimento | cvm-col-20180619-d0455 | fichas/colegiado/2018-10.md |
-| decisao-colegiado | 19957.009227/2017-04 | 2018-06-05 | deferido | cvm-col-20180605-d0983 | fichas/colegiado/2018-10.md |
-| decisao-colegiado | 01/2011 | 2018-05-29 | indeferido | cvm-col-20180529-d9229 | fichas/colegiado/2018-10.md |
-| decisao-colegiado | 538/2008; 19957.006565/2017-86 | 2018-05-25 | — | cvm-col-20180525-d2894 | fichas/colegiado/2018-10.md |
-| decisao-colegiado | RJ2013/8609 | 2018-05-15 | indeferido | cvm-col-20180515-d897814 | fichas/colegiado/2018-09.md |
-| decisao-colegiado | 19957.003818/2018-41 | 2018-05-15 | conhecimento | cvm-col-20180515-d1024-pedidoreconsid | fichas/colegiado/2018-09.md |
-| decisao-colegiado | 19957.000115/2017-80 | 2018-05-08 | conhecimento | cvm-col-20180508-d0547 | fichas/colegiado/2018-09.md |
-| decisao-colegiado | 01/2011 | 2018-05-02 | indeferido | cvm-col-20180502-d9229 | fichas/colegiado/2018-09.md |
-| decisao-colegiado | 19957.000062/2018-88 | 2018-04-24 | conhecimento | cvm-col-20180424-d0890 | fichas/colegiado/2018-08.md |
-| decisao-colegiado | 02/2013 | 2018-04-24 | nao-provido | cvm-col-20180424-d0227 | fichas/colegiado/2018-08.md |
-| decisao-colegiado | 19957.006804/2017-06 | 2018-04-17 | conhecimento | cvm-col-20180417-d0895 | fichas/colegiado/2018-07.md |
-| decisao-colegiado | 19957.004829/2016-86 | 2018-04-10 | nao-provido | cvm-col-20180410-d1011 | fichas/colegiado/2018-07.md |
-| decisao-colegiado | RJ2014/13977 | 2018-04-03 | nao-provido | cvm-col-20180403-d9750 | fichas/colegiado/2018-07.md |
-| decisao-colegiado | 19957.001623/2016-02 | 2018-04-03 | conhecimento | cvm-col-20180403-d0750 | fichas/colegiado/2018-07.md |
-| decisao-colegiado | 19957.001809/2016-53 | 2018-03-27 | conhecimento | cvm-col-20180327-d0999 | fichas/colegiado/2018-06.md |
-| decisao-colegiado | RJ2014/9881 | 2018-03-27 | outro | cvm-col-20180327-d0886 | fichas/colegiado/2018-06.md |
-| decisao-colegiado | 538/2008; 19957.006565/2017-86 | 2018-03-23 | — | cvm-col-20180323-d2894 | fichas/colegiado/2018-06.md |
-| decisao-colegiado | 19957.006989/2016-60 | 2018-03-20 | outro | cvm-col-20180320-d0693 | fichas/colegiado/2018-06.md |
-| decisao-colegiado | 19957.008144/2016-17; RJ2016/2365 | 2018-03-13 | conhecimento | cvm-col-20180313-d0329 | fichas/colegiado/2018-05.md |
-| decisao-colegiado | 19957.009227/2017-04 | 2018-03-06 | nao-provido | cvm-col-20180306-d0983 | fichas/colegiado/2018-05.md |
-| decisao-colegiado | 19957.011269/2017-05 | 2018-02-27 | conhecimento | cvm-col-20180227-d0870 | fichas/colegiado/2018-04.md |
-| decisao-colegiado | 19957.006319/2017-24 | 2018-02-27 | nao-provido | cvm-col-20180227-d0795 | fichas/colegiado/2018-04.md |
-| decisao-colegiado | 19957.009044/2016-08 | 2018-02-27 | conhecimento | cvm-col-20180227-d0771 | fichas/colegiado/2018-04.md |
-| decisao-colegiado | 19957.005789/2017-71; RJ2015/3346 | 2018-02-15 | conhecimento | cvm-col-20180215-d0863 | fichas/colegiado/2018-03.md |
-| decisao-colegiado | 19957.000647/2018-06 | 2018-02-06 | nao-provido | cvm-col-20180206-d0928 | fichas/colegiado/2018-03.md |
-| decisao-colegiado | RJ2013/8609 | 2018-01-16 | deferido | cvm-col-20180116-d8978 | fichas/colegiado/2018-01.md |
-| decisao-colegiado | 07/2012 | 2018-01-09 | deferido | cvm-col-20180109-d9317 | fichas/colegiado/2018-01.md |
-| decisao-colegiado | 19957.005789/2017-71; RJ2015/3346 | 2017-12-12 | parcial | cvm-col-20171212-d0863 | fichas/colegiado/2017-20.md |
-| decisao-colegiado | SP2014/0017 | 2017-11-14 | nao-provido | cvm-col-20171114-d9208 | fichas/colegiado/2017-19.md |
-| decisao-colegiado | 01/2011 | 2017-10-31 | indeferido | cvm-col-20171031-d9229-1 | fichas/colegiado/2017-18.md |
-| decisao-colegiado | RJ2015/13325 | 2017-10-31 | outro | cvm-col-20171031-d0346 | fichas/colegiado/2017-18.md |
-| decisao-colegiado | 19957.002477/2016-24; RJ2016/4573 | 2017-10-17 | outro | cvm-col-20171017-d0618 | fichas/colegiado/2017-18.md |
-| decisao-colegiado | 19957.002928/2016-23 | 2017-10-17 | conhecimento | cvm-col-20171017-d0302 | fichas/colegiado/2017-17.md |
-| decisao-colegiado | RJ2013/2759 | 2017-10-03 | outro | cvm-col-20171003-d9210 | fichas/colegiado/2017-17.md |
-| decisao-colegiado | RJ2015/13325 | 2017-10-03 | outro | cvm-col-20171003-d0346 | fichas/colegiado/2017-16.md |
-| decisao-colegiado | RJ2013/13172 | 2017-08-29 | conhecimento | cvm-col-20170829-d8771 | fichas/colegiado/2017-15.md |
-| decisao-colegiado | RJ2015/12854 | 2017-08-29 | conhecimento | cvm-col-20170829-d10006 | fichas/colegiado/2017-15.md |
-| decisao-colegiado | RJ2013/7516 | 2017-08-08 | conhecimento | cvm-col-20170808-d0599 | fichas/colegiado/2017-14.md |
-| decisao-colegiado | 19957.002332/2017-12 | 2017-08-01 | conhecimento | cvm-col-20170801-d0672 | fichas/colegiado/2017-13.md |
-| decisao-colegiado | RJ2012/8574 | 2017-07-11 | conhecimento | cvm-col-20170711-d8763 | fichas/colegiado/2017-13.md |
-| termo-compromisso | 19957.006844/2016-69; RJ2016/7674 | 2017-07-04 | outro | cvm-col-20170704-d0680 | fichas/tc/2017-03.md |
-| decisao-colegiado | 19957.008144/2016-17; RJ2016/2365 | 2017-06-13 | outro | cvm-col-20170613-d0329 | fichas/colegiado/2017-11.md |
-| termo-compromisso | 19957.006844/2016-69; RJ2016/7674 | 2017-05-16 | outro | cvm-col-20170516-d0680 | fichas/tc/2017-02.md |
-| decisao-colegiado | 19957.001108/2017-03 | 2017-05-16 | conhecimento | cvm-col-20170516-d0589 | fichas/colegiado/2017-10.md |
-| decisao-colegiado | 19957.002115/2016-33 | 2017-04-25 | conhecimento | cvm-col-20170425-d0579 | fichas/colegiado/2017-09.md |
-| decisao-colegiado | — | 2017-04-18 | outro | cvm-col-20170418-d6213 | fichas/colegiado/2017-08.md |
-| decisao-colegiado | RJ2013/7516 | 2017-04-18 | — | cvm-col-20170418-d0599 | fichas/colegiado/2017-08.md |
-| decisao-colegiado | RJ2013/12872 | 2017-04-18 | outro | cvm-col-20170418-d0338 | fichas/colegiado/2017-08.md |
-| decisao-colegiado | RJ2013/6294 | 2017-03-21 | outro | cvm-col-20170321-d9437 | fichas/colegiado/2017-06.md |
-| decisao-colegiado | RJ2014/6517 | 2017-03-14 | nao-provido | cvm-col-20170314-d9468 | fichas/colegiado/2017-05.md |
-| decisao-colegiado | 19957.005894/2016-29 | 2017-03-14 | conhecimento | cvm-col-20170314-d0349 | fichas/colegiado/2017-05.md |
-| decisao-colegiado | RJ2014/11715; 19957.001098/2016-17 | 2017-03-14 | conhecimento | cvm-col-20170314-d0158 | fichas/colegiado/2017-05.md |
-| decisao-colegiado | RJ2013/10460 | 2017-02-21 | conhecimento | cvm-col-20170221-d9580 | fichas/colegiado/2017-05.md |
-| decisao-colegiado | SP2013/0295 | 2017-02-14 | outro | cvm-col-20170214-d9987 | fichas/colegiado/2017-04.md |
-| decisao-colegiado | RJ2015/2077 | 2017-01-24 | outro | cvm-col-20170124-d9986 | fichas/colegiado/2017-03.md |
-| decisao-colegiado | RJ2015/3569 | 2017-01-24 | outro | cvm-col-20170124-d0215 | fichas/colegiado/2017-02.md |
-| decisao-colegiado | RJ2013/11703 | 2017-01-17 | — | cvm-col-20170117-d9211 | fichas/colegiado/2017-02.md |
-| decisao-colegiado | RJ2015/6842 | 2017-01-03 | outro | cvm-col-20170103-d0297 | fichas/colegiado/2017-01.md |
-| acordao-crsfn | CVM17/2006 | 2016-12-13 | outro | crsfn-monocratica-13977 | fichas/crsfn/2016-06.md |
-| decisao-colegiado | RJ2012/11002 | 2016-11-22 | indeferido | cvm-col-20161122-d8703rp | fichas/colegiado/2016-23.md |
-| decisao-colegiado | RJ2012/11002 | 2016-11-22 | indeferido | cvm-col-20161122-d8703m | fichas/colegiado/2016-23.md |
-| decisao-colegiado | RJ2016/1261 | 2016-11-08 | outro | cvm-col-20161108-d0078 | fichas/colegiado/2016-22.md |
-| decisao-colegiado | RJ2013/11703 | 2016-10-25 | — | cvm-col-20161025-d9211 | fichas/colegiado/2016-21.md |
-| decisao-colegiado | RJ2013/0267 | 2016-10-20 | conhecimento | cvm-col-20161020-d8723 | fichas/colegiado/2016-21.md |
-| decisao-colegiado | RJ2012/11002 | 2016-10-20 | indeferido | cvm-col-20161020-d8703 | fichas/colegiado/2016-21.md |
-| decisao-colegiado | RJ2015/3974 | 2016-10-20 | outro | cvm-col-20161020-d0276 | fichas/colegiado/2016-20.md |
-| decisao-colegiado | RJ2014/13902 | 2016-10-20 | outro | cvm-col-20161020-d0184 | fichas/colegiado/2016-20.md |
-| decisao-colegiado | RJ2014/14760 | 2016-09-27 | outro | cvm-col-20160927-d9963 | fichas/colegiado/2016-19.md |
-| decisao-colegiado | RJ2013/8697 | 2016-09-27 | indeferido | cvm-col-20160927-d9574 | fichas/colegiado/2016-19.md |
-| decisao-colegiado | 19957.001449/2016-90; RJ2016/4013 | 2016-09-27 | outro | cvm-col-20160927-d0270 | fichas/colegiado/2016-18.md |
-| termo-compromisso | 03/2012 | 2016-09-20 | rejeitado | cvm-col-20160920-d9489 | fichas/tc/2016-04.md |
-| decisao-colegiado | RJ2012/11002 | 2016-09-13 | conhecimento | cvm-col-20160913-d8703 | fichas/colegiado/2016-18.md |
-| decisao-colegiado | RJ2015/6124 | 2016-09-13 | deferido | cvm-col-20160913-d0216 | fichas/colegiado/2016-17.md |
-| decisao-colegiado | 01/2007 | 2016-08-30 | nao-provido | cvm-col-20160830-d7214 | fichas/colegiado/2016-16.md |
-| decisao-colegiado | RJ2014/9994 | 2016-08-30 | deferido | cvm-col-20160830-d0207 | fichas/colegiado/2016-16.md |
-| decisao-colegiado | RJ2012/11002 | 2016-08-16 | parcial | cvm-col-20160816-d8703 | fichas/colegiado/2016-16.md |
-| decisao-colegiado | RJ2014/0915 | 2016-08-09 | outro | cvm-col-20160809-d9947 | fichas/colegiado/2016-16.md |
-| decisao-colegiado | RJ2015/10623 | 2016-08-09 | conhecimento | cvm-col-20160809-d9911 | fichas/colegiado/2016-16.md |
-| decisao-colegiado | RJ2008/8046 | 2016-08-02 | indeferido | cvm-col-20160802-d6505 | fichas/colegiado/2016-15.md |
-| decisao-colegiado | 19957.004743/2016-53 | 2016-08-02 | conhecimento | cvm-col-20160802-d0306 | fichas/colegiado/2016-15.md |
-| decisao-colegiado | RJ2013/6183 | 2016-07-26 | outro | cvm-col-20160726-d8565 | fichas/colegiado/2016-15.md |
-| decisao-colegiado | RJ2014/11126 | 2016-07-19 | outro | cvm-col-20160719-d0195 | fichas/colegiado/2016-14.md |
-| decisao-colegiado | RJ2014/0027 | 2016-07-05 | outro | cvm-col-20160705-d8977 | fichas/colegiado/2016-14.md |
-| decisao-colegiado | RJ2015/1652 | 2016-06-28 | outro | cvm-col-20160628-d0023 | fichas/colegiado/2016-13.md |
-| decisao-colegiado | RJ2015/2239 | 2016-06-28 | outro | cvm-col-20160628-d0022 | fichas/colegiado/2016-13.md |
-| decisao-colegiado | RJ2013/13172 | 2016-06-14 | conhecimento | cvm-col-20160614-d8771 | fichas/colegiado/2016-12.md |
-| decisao-colegiado | RJ2014/9695 | 2016-05-31 | outro | cvm-col-20160531-d9985 | fichas/colegiado/2016-10.md |
-| decisao-colegiado | RJ2010/10742 | 2016-05-03 | nao-provido | cvm-col-20160503-d8627 | fichas/colegiado/2016-09.md |
-| decisao-colegiado | RJ2013/12595 | 2016-04-26 | outro | cvm-col-20160426-d9572 | fichas/colegiado/2016-08.md |
-| decisao-colegiado | RJ2014/10859 | 2016-03-08 | outro | cvm-col-20160308-d9959 | fichas/colegiado/2016-07.md |
-| decisao-colegiado | RJ2015/10623 | 2016-03-08 | conhecimento | cvm-col-20160308-d9911 | fichas/colegiado/2016-07.md |
-| decisao-colegiado | RJ2015/5511 | 2016-03-01 | conhecimento | cvm-col-20160301-d9705 | fichas/colegiado/2016-06.md |
-| decisao-colegiado | RJ2015/5513 | 2016-03-01 | conhecimento | cvm-col-20160301-d9695 | fichas/colegiado/2016-06.md |
-| decisao-colegiado | RJ2010/10742 | 2016-02-11 | conhecimento | cvm-col-20160211-d8627 | fichas/colegiado/2016-04.md |
-| decisao-colegiado | RJ2013/10745 | 2016-02-02 | outro | cvm-col-20160202-d9765 | fichas/colegiado/2016-03.md |
-| decisao-colegiado | RJ2012/8369 | 2015-12-22 | outro | cvm-col-20151222-d9380 | fichas/colegiado/2015-25.md |
-| decisao-colegiado | RJ2014/13107 | 2015-12-15 | nao-provido | cvm-col-20151215-d8609 | fichas/colegiado/2015-24.md |
-| decisao-colegiado | RJ2013/1852 | 2015-12-08 | outro | cvm-col-20151208-d8781 | fichas/colegiado/2015-23.md |
-| decisao-colegiado | RJ2014/9918 | 2015-12-01 | outro | cvm-col-20151201-d9607 | fichas/colegiado/2015-23.md |
-| termo-compromisso | RJ2013/8697 | 2015-12-01 | outro | cvm-col-20151201-d9574 | fichas/tc/2015-04.md |
-| decisao-colegiado | 04/2011 | 2015-11-24 | outro | cvm-col-20151124-d9650 | fichas/colegiado/2015-22.md |
-| decisao-colegiado | RJ2013/8696 | 2015-11-24 | outro | cvm-col-20151124-d9462 | fichas/colegiado/2015-22.md |
-| decisao-colegiado | 14/2009 | 2015-11-24 | nao-provido | cvm-col-20151124-d7851 | fichas/colegiado/2015-21.md |
-| decisao-colegiado | RJ2014/13043 | 2015-11-10 | outro | cvm-col-20151110-d9608 | fichas/colegiado/2015-20.md |
-| decisao-colegiado | 538/2008; RJ2015/5493 | 2015-10-27 | conhecimento | cvm-col-20151027-d9883 | fichas/colegiado/2015-19.md |
-| decisao-colegiado | RJ2013/11191 | 2015-10-27 | outro | cvm-col-20151027-d9183 | fichas/colegiado/2015-19.md |
-| decisao-colegiado | 12/2010 | 2015-10-27 | conhecimento | cvm-col-20151027-d8094 | fichas/colegiado/2015-19.md |
-| decisao-colegiado | RJ2014/3606 | 2015-10-20 | outro | cvm-col-20151020-d9080 | fichas/colegiado/2015-19.md |
-| decisao-colegiado | RJ2012/11094 | 2015-09-29 | outro | cvm-col-20150929-d9351 | fichas/colegiado/2015-17.md |
-| decisao-colegiado | RJ2013/2758 | 2015-09-29 | outro | cvm-col-20150929-d8617 | fichas/colegiado/2015-17.md |
-| decisao-colegiado | RJ2013/13240 | 2015-09-22 | outro | cvm-col-20150922-d9439 | fichas/colegiado/2015-17.md |
-| decisao-colegiado | RJ2014/8297 | 2015-09-15 | parcial | cvm-col-20150915-d9584 | fichas/colegiado/2015-16.md |
-| decisao-colegiado | 19957.002189/2015-99 | 2015-09-01 | nao-provido | cvm-col-20150901-d9814 | fichas/colegiado/2015-16.md |
-| decisao-colegiado | 19957.002190/2015-13 | 2015-09-01 | nao-provido | cvm-col-20150901-d9813 | fichas/colegiado/2015-16.md |
-| decisao-colegiado | 19957.001474/2015-92 | 2015-08-04 | outro | cvm-col-20150804-d9667 | fichas/colegiado/2015-14.md |
-| decisao-colegiado | RJ2014/5102 | 2015-07-14 | outro | cvm-col-20150714-d9466 | fichas/colegiado/2015-13.md |
-| decisao-colegiado | RJ2013/12570 | 2015-07-14 | outro | cvm-col-20150714-d9438 | fichas/colegiado/2015-13.md |
-| decisao-colegiado | RJ2013/5237 | 2015-07-14 | outro | cvm-col-20150714-d9425 | fichas/colegiado/2015-13.md |
-| decisao-colegiado | SP2013/0157 | 2015-07-14 | outro | cvm-col-20150714-d9204 | fichas/colegiado/2015-13.md |
-| decisao-colegiado | RJ2014/4397 | 2015-07-14 | conhecimento | cvm-col-20150714-d9122 | fichas/colegiado/2015-13.md |
-| decisao-colegiado | RJ2013/13240 | 2015-07-07 | outro | cvm-col-20150707-d9439 | fichas/colegiado/2015-12.md |
-| decisao-colegiado | RJ2011/4690; RJ2011/6787 | 2015-06-30 | outro | cvm-col-20150630-d9423 | fichas/colegiado/2015-11.md |
-| decisao-colegiado | RJ2013/11915 | 2015-06-16 | outro | cvm-col-20150616-d8924 | fichas/colegiado/2015-10.md |
-| decisao-colegiado | RJ2013/1205 | 2015-05-26 | outro | cvm-col-20150526-d9288 | fichas/colegiado/2015-08.md |
-| decisao-colegiado | RJ2013/10299 | 2015-05-26 | outro | cvm-col-20150526-d9271 | fichas/colegiado/2015-08.md |
-| decisao-colegiado | RJ2013/5640 | 2015-05-26 | outro | cvm-col-20150526-d9115 | fichas/colegiado/2015-08.md |
-| decisao-colegiado | RJ2014/0413 | 2015-03-31 | outro | cvm-col-20150331-d9292 | fichas/colegiado/2015-05.md |
-| termo-compromisso | 26/2010 | 2015-03-31 | outro | cvm-col-20150331-d8672 | fichas/tc/2015-01.md |
-| decisao-colegiado | RJ2013/6444 | 2015-03-17 | outro | cvm-col-20150317-d8869 | fichas/colegiado/2015-04.md |
-| decisao-colegiado | 01/2007 | 2015-03-17 | nao-provido | cvm-col-20150317-d7214 | fichas/colegiado/2015-04.md |
-| decisao-colegiado | RJ2013/1852 | 2015-03-03 | outro | cvm-col-20150303-d8781 | fichas/colegiado/2015-04.md |
-| decisao-colegiado | RJ2013/7943 | 2015-02-04 | deferido | cvm-col-20150204-d8970 | fichas/colegiado/2015-03.md |
-| decisao-colegiado | 09/2013; 13/2013 | 2015-01-21 | nao-provido | cvm-col-20150121-d9546 | fichas/colegiado/2015-02.md |
-| decisao-colegiado | 14/2009 | 2014-11-25 | nao-provido | cvm-col-20141125-d01 | fichas/colegiado/2014-23.md |
-| decisao-colegiado | RJ2013/13121 | 2014-11-18 | outro | cvm-col-20141118-d33 | fichas/colegiado/2014-23.md |
-| decisao-colegiado | RJ2013/4365 | 2014-10-07 | outro | cvm-col-20141007-d03 | fichas/colegiado/2014-19.md |
-| decisao-colegiado | RJ2013/4362 | 2014-09-23 | outro | cvm-col-20140923-d19 | fichas/colegiado/2014-19.md |
-| decisao-colegiado | RJ2013/10153 | 2014-09-23 | outro | cvm-col-20140923-d18 | fichas/colegiado/2014-19.md |
-| decisao-colegiado | RJ2013/6775 | 2014-09-23 | outro | cvm-col-20140923-d15 | fichas/colegiado/2014-18.md |
-| decisao-colegiado | RJ2010/17292 | 2014-09-23 | outro | cvm-col-20140923-d14 | fichas/colegiado/2014-18.md |
-| decisao-colegiado | SP2011/0220 | 2014-09-16 | nao-provido | cvm-col-20140916-d05 | fichas/colegiado/2014-18.md |
-| decisao-colegiado | 01/2012; RJ2013/8159 | 2014-09-16 | outro | cvm-col-20140916-d02 | fichas/colegiado/2014-18.md |
-| decisao-colegiado | RJ2013/5645 | 2014-09-09 | outro | cvm-col-20140909-d10 | fichas/colegiado/2014-18.md |
-| decisao-colegiado | RJ2014/5566 | 2014-09-02 | nao-provido | cvm-col-20140902-d02 | fichas/colegiado/2014-16.md |
-| decisao-colegiado | SP2012/0228 | 2014-08-26 | nao-provido | cvm-col-20140826-d02 | fichas/colegiado/2014-16.md |
-| decisao-colegiado | SP2014/0086 | 2014-08-12 | nao-provido | cvm-col-20140812-d13 | fichas/colegiado/2014-15.md |
-| decisao-colegiado | RJ2012/12067 | 2014-08-05 | outro | cvm-col-20140805-d04 | fichas/colegiado/2014-14.md |
-| decisao-colegiado | RJ2014/7526 | 2014-07-29 | nao-provido | cvm-col-20140729-d04 | fichas/colegiado/2014-14.md |
-| decisao-colegiado | RJ2013/3484 | 2014-07-22 | nao-provido | cvm-col-20140722-d01 | fichas/colegiado/2014-13.md |
-| decisao-colegiado | RJ2012/2833 | 2014-06-17 | outro | cvm-col-20140617-d12 | fichas/colegiado/2014-12.md |
-| decisao-colegiado | RJ2013/4432 | 2014-05-27 | outro | cvm-col-20140527-d05 | fichas/colegiado/2014-10.md |
-| decisao-colegiado | RJ2013/1052 | 2014-05-27 | outro | cvm-col-20140527-d03 | fichas/colegiado/2014-10.md |
-| decisao-colegiado | RJ2012/9509 | 2014-05-06 | outro | cvm-col-20140506-d12 | fichas/colegiado/2014-08.md |
-| decisao-colegiado | SP2013/0107 | 2014-05-06 | conhecimento | cvm-col-20140506-d08 | fichas/colegiado/2014-08.md |
-| decisao-colegiado | RJ2011/7940 | 2014-05-06 | outro | cvm-col-20140506-d01 | fichas/colegiado/2014-08.md |
-| decisao-colegiado | RJ2011/7923 | 2014-04-08 | outro | cvm-col-20140408-d13 | fichas/colegiado/2014-07.md |
-| decisao-colegiado | 01/2013; RJ2009/4333 | 2014-01-22 | outro | cvm-col-20140122-d01 | fichas/colegiado/2014-02.md |
-| decisao-colegiado | RJ2013/11623 | 2013-12-19 | deferido | cvm-col-20131219-d01 | fichas/colegiado/2013-25.md |
-| decisao-colegiado | RJ2011/5211 | 2013-12-17 | outro | cvm-col-20131217-d7944 | fichas/colegiado/2013-24.md |
-| decisao-colegiado | RJ2013/4659 | 2013-12-17 | outro | cvm-col-20131217-d16 | fichas/colegiado/2013-24.md |
-| decisao-colegiado | 16/2008 | 2013-12-17 | outro | cvm-col-20131217-d14 | fichas/colegiado/2013-24.md |
-| decisao-colegiado | RJ2008/8046 | 2013-12-17 | deferido | cvm-col-20131217-d05 | fichas/colegiado/2013-23.md |
-| decisao-colegiado | 14/2009 | 2013-12-17 | nao-provido | cvm-col-20131217-d04 | fichas/colegiado/2013-23.md |
-| termo-compromisso | RJ2011/7923 | 2013-12-10 | outro | cvm-col-20131210-d02 | fichas/tc/2013-05.md |
-| decisao-colegiado | 29/2000 | 2013-12-10 | conhecimento | cvm-col-20131210-d01 | fichas/colegiado/2013-23.md |
-| decisao-colegiado | RJ2012/9832 | 2013-12-03 | outro | cvm-col-20131203-d05 | fichas/colegiado/2013-23.md |
-| decisao-colegiado | RJ2012/7867 | 2013-12-03 | outro | cvm-col-20131203-d04 | fichas/colegiado/2013-23.md |
-| decisao-colegiado | RJ2012/9082 | 2013-10-29 | conhecimento | cvm-col-20131029-d10 | fichas/colegiado/2013-21.md |
-| decisao-colegiado | SP2007/0139 | 2013-10-15 | nao-provido | cvm-col-20131015-d01 | fichas/colegiado/2013-19.md |
-| decisao-colegiado | RJ2012/9832 | 2013-10-08 | — | cvm-col-20131008-d02 | fichas/colegiado/2013-18.md |
-| termo-compromisso | RJ2012/13953 | 2013-10-08 | outro | cvm-col-20131008-d01 | fichas/tc/2013-04.md |
-| decisao-colegiado | RJ2013/0740 | 2013-10-01 | outro | cvm-col-20131001-d19 | fichas/colegiado/2013-18.md |
-| decisao-colegiado | RJ2012/8093 | 2013-09-24 | outro | cvm-col-20130924-d03 | fichas/colegiado/2013-17.md |
-| decisao-colegiado | RJ2012/5036 | 2013-09-24 | outro | cvm-col-20130924-d02 | fichas/colegiado/2013-17.md |
-| decisao-colegiado | RJ2012/8087 | 2013-09-24 | outro | cvm-col-20130924-d01 | fichas/colegiado/2013-17.md |
-| decisao-colegiado | RJ2012/9557 | 2013-09-17 | outro | cvm-col-20130917-d06 | fichas/colegiado/2013-17.md |
-| decisao-colegiado | RJ2012/10347 | 2013-09-17 | outro | cvm-col-20130917-d05 | fichas/colegiado/2013-17.md |
-| decisao-colegiado | SP2011/0099 | 2013-09-17 | outro | cvm-col-20130917-d04 | fichas/colegiado/2013-17.md |
-| decisao-colegiado | RJ2012/7132 | 2013-08-20 | outro | cvm-col-20130820-d13 | fichas/colegiado/2013-15.md |
-| decisao-colegiado | RJ2012/3787 | 2013-08-06 | indeferido | cvm-col-20130806-d04 | fichas/colegiado/2013-14.md |
-| decisao-colegiado | RJ2012/7133 | 2013-07-30 | outro | cvm-col-20130730-d04 | fichas/colegiado/2013-13.md |
-| decisao-colegiado | RJ2011/6066 | 2013-07-23 | outro | cvm-col-20130723-d06 | fichas/colegiado/2013-13.md |
-| decisao-colegiado | 20/2009 | 2013-07-09 | outro | cvm-col-20130709-d07 | fichas/colegiado/2013-13.md |
-| decisao-colegiado | RJ2012/12177 | 2013-06-13 | outro | cvm-col-20130613-d02 | fichas/colegiado/2013-12.md |
-| decisao-colegiado | 05/2008 | 2013-06-13 | nao-provido | cvm-col-20130613-d01 | fichas/colegiado/2013-12.md |
-| decisao-colegiado | RJ2010/15523 | 2013-06-04 | outro | cvm-col-20130604-d03 | fichas/colegiado/2013-11.md |
-| decisao-colegiado | RJ2011/10821 | 2013-05-28 | outro | cvm-col-20130528-d13 | fichas/colegiado/2013-11.md |
-| acordao-crsfn | RJ-2007-3547 | 2013-05-21 | arquivamento | crsfn-11641 | fichas/crsfn/2013-01.md |
-| decisao-colegiado | RJ2012/4138 | 2013-05-14 | outro | cvm-col-20130514-d09 | fichas/colegiado/2013-10.md |
-| decisao-colegiado | RJ2012/4137 | 2013-05-07 | outro | cvm-col-20130507-d04 | fichas/colegiado/2013-10.md |
-| decisao-colegiado | 30/2005 | 2013-05-07 | provido | cvm-col-20130507-d01 | fichas/colegiado/2013-09.md |
-| decisao-colegiado | RJ2012/1643 | 2013-04-30 | outro | cvm-col-20130430-d06 | fichas/colegiado/2013-09.md |
-| decisao-colegiado | 05/2008 | 2013-04-24 | nao-provido | cvm-col-20130424-d08 | fichas/colegiado/2013-09.md |
-| acordao-crsfn | 25/03 | 2013-04-23 | arquivamento | crsfn-12038 | fichas/crsfn/2013-01.md |
-| decisao-colegiado | 20/2009 | 2013-04-09 | deferido | cvm-col-20130409-d07 | fichas/colegiado/2013-09.md |
-| decisao-colegiado | 06/2007 | 2013-03-19 | nao-provido | cvm-col-20130319-d10 | fichas/colegiado/2013-07.md |
-| decisao-colegiado | RJ2012/2766 | 2013-03-19 | outro | cvm-col-20130319-d04 | fichas/colegiado/2013-06.md |
-| decisao-colegiado | RJ2011/9481 | 2013-03-12 | outro | cvm-col-20130312-d07 | fichas/colegiado/2013-06.md |
-| decisao-colegiado | RJ2011/5356 | 2013-03-12 | nao-provido | cvm-col-20130312-d01 | fichas/colegiado/2013-06.md |
-| decisao-colegiado | RJ2012/8386 | 2013-02-26 | — | cvm-col-20130226-d22 | fichas/colegiado/2013-06.md |
-| decisao-colegiado | RJ2012/11072 | 2013-02-26 | nao-provido | cvm-col-20130226-d05 | fichas/colegiado/2013-05.md |
-| decisao-colegiado | RJ2012/7865 | 2013-02-26 | nao-provido | cvm-col-20130226-d04 | fichas/colegiado/2013-05.md |
-| decisao-colegiado | RJ2012/2032 | 2013-02-05 | nao-provido | cvm-col-20130205-d09 | fichas/colegiado/2013-04.md |
-| decisao-colegiado | RJ2011/8234 | 2013-01-29 | outro | cvm-col-20130129-d02 | fichas/colegiado/2013-03.md |
-| decisao-colegiado | SP2007/0140 | 2013-01-22 | outro | cvm-col-20130122-d17 | fichas/colegiado/2013-02.md |
-| decisao-colegiado | RJ2011/5356 | 2012-12-18 | nao-provido | cvm-col-20121218-d01 | fichas/colegiado/2012-24.md |
-| decisao-colegiado | 05/2008 | 2012-12-04 | nao-provido | cvm-col-20121204-d02 | fichas/colegiado/2012-22.md |
-| decisao-colegiado | 05/2008 | 2012-11-13 | nao-provido | cvm-col-20121113-d02 | fichas/colegiado/2012-21.md |
-| decisao-colegiado | RJ2010/12289 | 2012-10-23 | nao-provido | cvm-col-20121023-d03 | fichas/colegiado/2012-19.md |
-| decisao-colegiado | RJ2010/12288 | 2012-10-23 | nao-provido | cvm-col-20121023-d02 | fichas/colegiado/2012-19.md |
-| decisao-colegiado | RJ2010/12286 | 2012-10-23 | nao-provido | cvm-col-20121023-d01 | fichas/colegiado/2012-19.md |
-| decisao-colegiado | RJ2012/4489 | 2012-10-16 | outro | cvm-col-20121016-d03 | fichas/colegiado/2012-18.md |
-| decisao-colegiado | RJ2012/12037 | 2012-10-10 | parcial | cvm-col-20121010-d02 | fichas/colegiado/2012-18.md |
-| decisao-colegiado | RJ2011/9482 | 2012-09-11 | outro | cvm-col-20120911-d06 | fichas/colegiado/2012-16.md |
-| decisao-colegiado | SP2007/0056 | 2012-09-04 | nao-provido | cvm-col-20120904-d10 | fichas/colegiado/2012-15.md |
-| decisao-colegiado | SP2007/0055 | 2012-09-04 | nao-provido | cvm-col-20120904-d09 | fichas/colegiado/2012-15.md |
-| decisao-colegiado | SP2007/0054 | 2012-09-04 | nao-provido | cvm-col-20120904-d08 | fichas/colegiado/2012-15.md |
-| decisao-colegiado | SP2007/0053 | 2012-09-04 | nao-provido | cvm-col-20120904-d07 | fichas/colegiado/2012-15.md |
-| decisao-colegiado | SP2007/0052 | 2012-09-04 | nao-provido | cvm-col-20120904-d06 | fichas/colegiado/2012-15.md |
-| decisao-colegiado | SP2007/0051 | 2012-09-04 | nao-provido | cvm-col-20120904-d05 | fichas/colegiado/2012-15.md |
-| decisao-colegiado | SP2007/0044 | 2012-09-04 | nao-provido | cvm-col-20120904-d04 | fichas/colegiado/2012-15.md |
-| decisao-colegiado | SP2007/0039 | 2012-09-04 | nao-provido | cvm-col-20120904-d03 | fichas/colegiado/2012-15.md |
-| decisao-colegiado | SP2007/0038 | 2012-09-04 | nao-provido | cvm-col-20120904-d02 | fichas/colegiado/2012-15.md |
-| decisao-colegiado | SP2007/0037 | 2012-09-04 | nao-provido | cvm-col-20120904-d01 | fichas/colegiado/2012-15.md |
-| decisao-colegiado | IA24/2010 | 2012-08-28 | nao-provido | cvm-col-20120828-d18 | fichas/colegiado/2012-15.md |
-| decisao-colegiado | RJ2012/3785 | 2012-08-28 | outro | cvm-col-20120828-d05 | fichas/colegiado/2012-14.md |
-| decisao-colegiado | RJ2011/9483 | 2012-08-21 | outro | cvm-col-20120821-d13 | fichas/colegiado/2012-14.md |
-| decisao-colegiado | RJ2011/11225 | 2012-08-14 | nao-provido | cvm-col-20120814-d09 | fichas/colegiado/2012-14.md |
-| decisao-colegiado | 19/2010 | 2012-08-14 | nao-provido | cvm-col-20120814-d03 | fichas/colegiado/2012-13.md |
-| decisao-colegiado | RJ2011/13837 | 2012-07-31 | outro | cvm-col-20120731-d01 | fichas/colegiado/2012-13.md |
-| decisao-colegiado | SP2006/0137 | 2012-07-24 | outro | cvm-col-20120724-d07 | fichas/colegiado/2012-13.md |
-| decisao-colegiado | RJ2011/7386 | 2012-07-03 | outro | cvm-col-20120703-d10 | fichas/colegiado/2012-11.md |
-| termo-compromisso | RJ2010/2419 | 2012-07-03 | aceito | cvm-col-20120703-d01-r2 | fichas/tc/2012-03.md |
-| decisao-colegiado | RJ2011/5748 | 2012-06-19 | outro | cvm-col-20120619-d03 | fichas/colegiado/2012-10.md |
-| decisao-colegiado | 06/2010 | 2012-05-29 | outro | cvm-col-20120529-d05 | fichas/colegiado/2012-10.md |
-| decisao-colegiado | RJ2012/3862 | 2012-05-29 | conhecimento | cvm-col-20120529-d01 | fichas/colegiado/2012-10.md |
-| decisao-colegiado | RJ2011/7378 | 2012-05-22 | outro | cvm-col-20120522-d04 | fichas/colegiado/2012-09.md |
-| decisao-colegiado | RJ2011/7380 | 2012-05-22 | outro | cvm-col-20120522-d02 | fichas/colegiado/2012-09.md |
-| decisao-colegiado | RJ2009/3082 | 2012-05-15 | outro | cvm-col-20120515-d09 | fichas/colegiado/2012-09.md |
-| decisao-colegiado | SP2010/0171 | 2012-05-15 | nao-provido | cvm-col-20120515-d06 | fichas/colegiado/2012-09.md |
-| decisao-colegiado | SP2010/0170 | 2012-05-15 | nao-provido | cvm-col-20120515-d05 | fichas/colegiado/2012-09.md |
-| decisao-colegiado | SP2010/0168 | 2012-05-15 | nao-provido | cvm-col-20120515-d04 | fichas/colegiado/2012-09.md |
-| decisao-colegiado | SP2010/0053 | 2012-05-15 | nao-provido | cvm-col-20120515-d02 | fichas/colegiado/2012-09.md |
-| decisao-colegiado | SP2010/0050 | 2012-05-15 | nao-provido | cvm-col-20120515-d01 | fichas/colegiado/2012-09.md |
-| decisao-colegiado | RJ2010/15685 | 2012-04-03 | outro | cvm-col-20120403-d09 | fichas/colegiado/2012-07.md |
-| decisao-colegiado | RJ2011/9734 | 2012-03-06 | outro | cvm-col-20120306-d16 | fichas/colegiado/2012-05.md |
-| decisao-colegiado | RJ2011/9398 | 2012-02-28 | nao-provido | cvm-col-20120228-d01 | fichas/colegiado/2012-04.md |
-| decisao-colegiado | SP2010/0242 | 2011-12-27 | nao-provido | cvm-col-20111227-d04 | fichas/colegiado/2011-29.md |
-| decisao-colegiado | RJ2008/8046 | 2011-11-29 | deferido | cvm-col-20111129-d02 | fichas/colegiado/2011-26.md |
-| decisao-colegiado | 14/2009 | 2011-10-25 | nao-provido | cvm-col-20111025-d08 | fichas/colegiado/2011-23.md |
-| decisao-colegiado | RJ2010/11569 | 2011-10-04 | outro | cvm-col-20111004-d05 | fichas/colegiado/2011-21.md |
-| decisao-colegiado | RJ2010/16605 | 2011-09-27 | outro | cvm-col-20110927-d29 | fichas/colegiado/2011-20.md |
-| decisao-colegiado | RJ2010/15505 | 2011-09-27 | nao-provido | cvm-col-20110927-d04 | fichas/colegiado/2011-19.md |
-| decisao-colegiado | RJ2010/17359 | 2011-08-16 | outro | cvm-col-20110816-d19 | fichas/colegiado/2011-16.md |
-| decisao-colegiado | SP2006/0066 | 2011-08-16 | outro | cvm-col-20110816-d15 | fichas/colegiado/2011-16.md |
-| decisao-colegiado | RJ2010/13112 | 2011-08-09 | outro | cvm-col-20110809-d04 | fichas/colegiado/2011-15.md |
-| decisao-colegiado | SP2010/0238 | 2011-07-26 | outro | cvm-col-20110726-d01 | fichas/colegiado/2011-15.md |
-| decisao-colegiado | RJ2010/11519 | 2011-07-19 | outro | cvm-col-20110719-d02 | fichas/colegiado/2011-15.md |
-| decisao-colegiado | RJ2009/11007 | 2011-07-19 | outro | cvm-col-20110719-d01 | fichas/colegiado/2011-15.md |
-| decisao-colegiado | RJ2011/1535 | 2011-04-19 | nao-provido | cvm-col-20110419-d03 | fichas/colegiado/2011-09.md |
-| decisao-colegiado | RJ2006/7256 | 2011-04-12 | outro | cvm-col-20110412-d06 | fichas/colegiado/2011-09.md |
-| decisao-colegiado | RJ2009/5351 | 2011-04-12 | outro | cvm-col-20110412-d05 | fichas/colegiado/2011-09.md |
-| decisao-colegiado | RJ2008/3539 | 2011-03-29 | outro | cvm-col-20110329-d12 | fichas/colegiado/2011-08.md |
-| decisao-colegiado | RJ2010/15416 | 2011-03-01 | conhecimento | cvm-col-20110301-d18 | fichas/colegiado/2011-05.md |
-| decisao-colegiado | RJ2010/4246 | 2011-02-22 | outro | cvm-col-20110222-d26 | fichas/colegiado/2011-05.md |
-| decisao-colegiado | RJ2010/9547 | 2011-02-22 | outro | cvm-col-20110222-d25 | fichas/colegiado/2011-05.md |
-| decisao-colegiado | RJ2004/4457 | 2011-01-25 | outro | cvm-col-20110125-d02-r2 | fichas/colegiado/2011-01.md |
-| decisao-colegiado | RJ2009/5519 | 2011-01-04 | outro | cvm-col-20110104-d01 | fichas/colegiado/2011-01.md |
-| decisao-colegiado | RJ2010/16497 | 2010-11-23 | nao-provido | cvm-col-20101123-d22 | fichas/colegiado/2010-25.md |
-| decisao-colegiado | RJ2008/4857 | 2010-11-16 | outro | cvm-col-20101116-d6484 | fichas/colegiado/2010-24.md |
-| decisao-colegiado | 04/2001; SP2002/0235 | 2010-11-09 | outro | cvm-col-20101109-d01 | fichas/colegiado/2010-23.md |
-| decisao-colegiado | RJ2009/9579 | 2010-10-26 | outro | cvm-col-20101026-d20 | fichas/colegiado/2010-22.md |
-| decisao-colegiado | RJ2009/8196 | 2010-09-28 | outro | cvm-col-20100928-d07 | fichas/colegiado/2010-20.md |
-| decisao-colegiado | RJ2008/8066 | 2010-09-09 | nao-provido | cvm-col-20100909-d14 | fichas/colegiado/2010-19.md |
-| decisao-colegiado | RJ2009/4333 | 2010-09-01 | outro | cvm-col-20100901-d02 | fichas/colegiado/2010-18.md |
-| decisao-colegiado | RJ2009/13069 | 2010-08-31 | outro | cvm-col-20100831-d09 | fichas/colegiado/2010-18.md |
-| decisao-colegiado | 06/2007 | 2010-08-04 | nao-provido | cvm-col-20100804-d01 | fichas/colegiado/2010-16.md |
-| decisao-colegiado | RJ2009/9731 | 2010-07-06 | outro | cvm-col-20100706-d06 | fichas/colegiado/2010-15.md |
-| decisao-colegiado | RJ2009/8787 | 2010-07-06 | outro | cvm-col-20100706-d05 | fichas/colegiado/2010-15.md |
-| decisao-colegiado | RJ2009/4747 | 2010-06-08 | outro | cvm-col-20100608-d05 | fichas/colegiado/2010-14.md |
-| decisao-colegiado | 06/2007 | 2010-06-01 | nao-provido | cvm-col-20100601-d01 | fichas/colegiado/2010-13.md |
-| decisao-colegiado | RJ2009/4096 | 2010-05-18 | outro | cvm-col-20100518-d12 | fichas/colegiado/2010-13.md |
-| decisao-colegiado | 22/2006 | 2010-05-18 | outro | cvm-col-20100518-d10 | fichas/colegiado/2010-13.md |
-| termo-compromisso | 02/2008 | 2010-04-27 | rejeitado | cvm-col-20100427-d08 | fichas/tc/2010-02.md |
-| decisao-colegiado | 09/2008 | 2010-04-27 | outro | cvm-col-20100427-d06 | fichas/colegiado/2010-12.md |
-| decisao-colegiado | RJ2009/5978 | 2010-04-27 | outro | cvm-col-20100427-d05 | fichas/colegiado/2010-12.md |
-| decisao-colegiado | SP2008/0040 | 2010-04-27 | outro | cvm-col-20100427-d04 | fichas/colegiado/2010-12.md |
-| decisao-colegiado | RJ2009/3950 | 2010-04-20 | outro | cvm-col-20100420-d07 | fichas/colegiado/2010-11.md |
-| decisao-colegiado | RJ2009/6713 | 2010-04-20 | nao-provido | cvm-col-20100420-d02 | fichas/colegiado/2010-11.md |
-| decisao-colegiado | RJ2009/0485 | 2010-04-13 | outro | cvm-col-20100413-d08 | fichas/colegiado/2010-11.md |
-| decisao-colegiado | 04/2009 | 2010-04-07 | nao-provido | cvm-col-20100407-d07 | fichas/colegiado/2010-11.md |
-| decisao-colegiado | RJ2009/5542 | 2010-04-07 | outro | cvm-col-20100407-d05 | fichas/colegiado/2010-11.md |
-| decisao-colegiado | 18/2008 | 2010-04-07 | provido | cvm-col-20100407-d02 | fichas/colegiado/2010-10.md |
-| decisao-colegiado | RJ2008/5980 | 2010-03-30 | outro | cvm-col-20100330-d16 | fichas/colegiado/2010-10.md |
-| decisao-colegiado | RJ2010/3180 | 2010-03-30 | nao-provido | cvm-col-20100330-d08 | fichas/colegiado/2010-10.md |
-| decisao-colegiado | RJ2009/5710 | 2010-03-16 | outro | cvm-col-20100316-d07 | fichas/colegiado/2010-09.md |
-| decisao-colegiado | RJ2000/5536; RJ2002/3252 | 2010-02-24 | provido | cvm-col-20100224-d01 | fichas/colegiado/2010-06.md |
-| decisao-colegiado | RJ2009/6425 | 2010-02-09 | outro | cvm-col-20100209-d25 | fichas/colegiado/2010-05.md |
-| decisao-colegiado | RJ2009/3884 | 2009-12-15 | nao-provido | cvm-col-20091215-d09 | fichas/colegiado/2009-23.md |
-| decisao-colegiado | RJ2009/3864 | 2009-12-15 | nao-provido | cvm-col-20091215-d08 | fichas/colegiado/2009-23.md |
-| decisao-colegiado | — | 2009-12-08 | deferido | cvm-col-20091208-d01-r2 | fichas/colegiado/2009-22.md |
-| decisao-colegiado | RJ2008/10421 | 2009-11-24 | outro | cvm-col-20091124-d10 | fichas/colegiado/2009-21.md |
-| decisao-colegiado | RJ2009/4089 | 2009-11-17 | outro | cvm-col-20091117-d36 | fichas/colegiado/2009-21.md |
-| decisao-colegiado | RJ2008/12293 | 2009-11-17 | outro | cvm-col-20091117-d35 | fichas/colegiado/2009-20.md |
-| decisao-colegiado | RJ2008/10538 | 2009-11-17 | outro | cvm-col-20091117-d34 | fichas/colegiado/2009-20.md |
-| decisao-colegiado | RJ2009/0283 | 2009-11-17 | outro | cvm-col-20091117-d33 | fichas/colegiado/2009-20.md |
-| decisao-colegiado | RJ2008/2334 | 2009-11-17 | outro | cvm-col-20091117-d32 | fichas/colegiado/2009-20.md |
-| decisao-colegiado | RJ2008/8243 | 2009-11-17 | outro | cvm-col-20091117-d31 | fichas/colegiado/2009-20.md |
-| decisao-colegiado | RJ2007/4685 | 2009-11-17 | outro | cvm-col-20091117-d30 | fichas/colegiado/2009-20.md |
-| decisao-colegiado | RJ2007/4414 | 2009-11-17 | outro | cvm-col-20091117-d29 | fichas/colegiado/2009-20.md |
-| decisao-colegiado | SP2009/0089; SP2009/0090 | 2009-11-03 | nao-provido | cvm-col-20091103-d02 | fichas/colegiado/2009-19.md |
-| decisao-colegiado | RJ2009/5730 | 2009-10-27 | outro | cvm-col-20091027-d13 | fichas/colegiado/2009-19.md |
-| decisao-colegiado | RJ2008/4877 | 2009-10-20 | nao-provido | cvm-col-20091020-d05 | fichas/colegiado/2009-18.md |
-| decisao-colegiado | 14/2005 | 2009-10-15 | nao-provido | cvm-col-20091015-d01 | fichas/colegiado/2009-18.md |
-| decisao-colegiado | RJ2008/1815 | 2009-10-13 | nao-provido | cvm-col-20091013-d05 | fichas/colegiado/2009-17.md |
-| decisao-colegiado | SP2009/0096; SP2009/0097; SP2009/0098; SP2009/0099; SP2009/0100 | 2009-10-06 | nao-provido | cvm-col-20091006-d04 | fichas/colegiado/2009-17.md |
-| decisao-colegiado | RJ2008/10437 | 2009-09-29 | outro | cvm-col-20090929-d02 | fichas/colegiado/2009-16.md |
-| decisao-colegiado | SP2006/0164 | 2009-09-29 | outro | cvm-col-20090929-d01 | fichas/colegiado/2009-16.md |
-| decisao-colegiado | RJ2008/9181 | 2009-09-22 | outro | cvm-col-20090922-d07 | fichas/colegiado/2009-16.md |
-| decisao-colegiado | RJ2009/2718 | 2009-09-22 | outro | cvm-col-20090922-d05 | fichas/colegiado/2009-16.md |
-| acordao-crsfn | SP-2002-49 | 2009-08-24 | extincao | crsfn-9612 | fichas/crsfn/2009-04.md |
-| acordao-crsfn | RJ-2005-7128 | 2009-08-24 | extincao | crsfn-11205 | fichas/crsfn/2009-04.md |
-| decisao-colegiado | RJ2008/4369 | 2009-08-11 | outro | cvm-col-20090811-d05 | fichas/colegiado/2009-14.md |
-| decisao-colegiado | RJ2008/4873 | 2009-08-11 | outro | cvm-col-20090811-d04 | fichas/colegiado/2009-14.md |
-| termo-compromisso | 13/2006 | 2009-07-07 | outro | cvm-col-20090707-d01 | fichas/tc/2009-04.md |
-| decisao-colegiado | RJ2008/3931 | 2009-06-09 | outro | cvm-col-20090609-d03 | fichas/colegiado/2009-11.md |
-| decisao-colegiado | RJ2007/8556 | 2009-05-12 | outro | cvm-col-20090512-d02 | fichas/colegiado/2009-09.md |
-| decisao-colegiado | RJ2005/1578 | 2009-04-07 | outro | cvm-col-20090407-d07 | fichas/colegiado/2009-06.md |
-| decisao-colegiado | — | 2009-04-07 | indeferido | cvm-col-20090407-d01-r2 | fichas/colegiado/2009-06.md |
-| decisao-colegiado | RJ2007/12231 | 2009-03-17 | outro | cvm-col-20090317-d09 | fichas/colegiado/2009-04.md |
-| decisao-colegiado | 13/2005 | 2009-02-10 | outro | cvm-col-20090210-d10 | fichas/colegiado/2009-02.md |
-| decisao-colegiado | RJ2007/1854 | 2009-02-10 | outro | cvm-col-20090210-d09 | fichas/colegiado/2009-02.md |
-| decisao-colegiado | RJ2007/1454 | 2009-02-10 | outro | cvm-col-20090210-d08 | fichas/colegiado/2009-02.md |
-| decisao-colegiado | RJ2008/6985 | 2009-02-03 | conhecimento | cvm-col-20090203-d10 | fichas/colegiado/2009-02.md |
-| decisao-colegiado | RJ2008/0900 | 2009-02-03 | outro | cvm-col-20090203-d04 | fichas/colegiado/2009-02.md |
-| decisao-colegiado | 25/2005 | 2009-01-21 | outro | cvm-col-20090121-d02 | fichas/colegiado/2009-01.md |
-| decisao-colegiado | 12/2004 | 2009-01-21 | parcial | cvm-col-20090121-d01 | fichas/colegiado/2009-01.md |
-| decisao-colegiado | RJ2007/11305 | 2009-01-13 | outro | cvm-col-20090113-d04 | fichas/colegiado/2009-01.md |
-| decisao-colegiado | SP2005/0338 | 2009-01-06 | outro | cvm-col-20090106-d07 | fichas/colegiado/2009-01.md |
-| decisao-colegiado | RJ2007/12581 | 2009-01-06 | outro | cvm-col-20090106-d06 | fichas/colegiado/2009-01.md |
-| decisao-colegiado | 26/2006 | 2009-01-06 | outro | cvm-col-20090106-d05 | fichas/colegiado/2009-01.md |
-| decisao-colegiado | — | 2008-12-16 | indeferido | cvm-col-20081216-d01-r2 | fichas/colegiado/2008-27.md |
-| decisao-colegiado | SP2008/0274 | 2008-12-09 | conhecimento | cvm-col-20081209-d10 | fichas/colegiado/2008-27.md |
-| decisao-colegiado | RJ2005/7025 | 2008-12-09 | outro | cvm-col-20081209-d01 | fichas/colegiado/2008-27.md |
-| decisao-colegiado | SP2006/0211 | 2008-11-25 | nao-provido | cvm-col-20081125-d21 | fichas/colegiado/2008-26.md |
-| decisao-colegiado | RJ2008/9545 | 2008-11-11 | outro | cvm-col-20081111-d02 | fichas/colegiado/2008-25.md |
-| decisao-colegiado | RJ2007/10389 | 2008-10-21 | outro | cvm-col-20081021-d24 | fichas/colegiado/2008-23.md |
-| decisao-colegiado | 26/2006 | 2008-10-07 | outro | cvm-col-20081007-d06 | fichas/colegiado/2008-22.md |
-| decisao-colegiado | RJ2007/5035 | 2008-10-07 | outro | cvm-col-20081007-d05 | fichas/colegiado/2008-22.md |
-| decisao-colegiado | — | 2008-10-03 | indeferido | cvm-col-20081003-d01 | fichas/colegiado/2008-22.md |
-| decisao-colegiado | RJ2008/3931 | 2008-09-30 | outro | cvm-col-20080930-d19 | fichas/colegiado/2008-21.md |
-| decisao-colegiado | — | 2008-09-22 | indeferido | cvm-col-20080922-d01 | fichas/colegiado/2008-20.md |
-| decisao-colegiado | RJ2007/5041 | 2008-09-16 | outro | cvm-col-20080916-d08 | fichas/colegiado/2008-20.md |
-| decisao-colegiado | RJ2006/0852 | 2008-09-02 | outro | cvm-col-20080902-d04 | fichas/colegiado/2008-19.md |
-| decisao-colegiado | RJ2007/3809 | 2008-09-02 | outro | cvm-col-20080902-d01 | fichas/colegiado/2008-19.md |
-| decisao-colegiado | 13/2005 | 2008-08-26 | deferido | cvm-col-20080826-d04 | fichas/colegiado/2008-19.md |
-| decisao-colegiado | RJ2007/10681 | 2008-08-26 | outro | cvm-col-20080826-d03 | fichas/colegiado/2008-19.md |
-| decisao-colegiado | RJ2006/3616 | 2008-08-19 | outro | cvm-col-20080819-d08 | fichas/colegiado/2008-19.md |
-| decisao-colegiado | RJ2007/0057 | 2008-08-12 | nao-provido | cvm-col-20080812-d03 | fichas/colegiado/2008-18.md |
-| decisao-colegiado | RJ2007/5035 | 2008-07-22 | outro | cvm-col-20080722-d29 | fichas/colegiado/2008-17.md |
-| decisao-colegiado | RJ2006/1778 | 2008-07-22 | nao-provido | cvm-col-20080722-d17 | fichas/colegiado/2008-16.md |
-| acordao-crsfn | RJ-2004-3648 | 2008-05-27 | arquivamento | crsfn-9255 | fichas/crsfn/2008-02.md |
-| decisao-colegiado | RJ2006/3616 | 2008-05-13 | deferido | cvm-col-20080513-d06 | fichas/colegiado/2008-11.md |
-| decisao-colegiado | RJ2007/4107 | 2008-04-29 | nao-provido | cvm-col-20080429-d02 | fichas/colegiado/2008-10.md |
-| decisao-colegiado | RJ2007/10873 | 2008-04-08 | outro | cvm-col-20080408-d02 | fichas/colegiado/2008-09.md |
-| decisao-colegiado | RJ2007/8684 | 2008-04-08 | outro | cvm-col-20080408-d01 | fichas/colegiado/2008-09.md |
-| decisao-colegiado | RJ2007/3428 | 2008-04-01 | outro | cvm-col-20080401-d01 | fichas/colegiado/2008-08.md |
-| acordao-crsfn | IA01/88 | 2008-03-27 | absolvicao | crsfn-8551 | fichas/crsfn/2008-01.md |
-| decisao-colegiado | RJ2007/3084 | 2008-03-25 | outro | cvm-col-20080325-d07 | fichas/colegiado/2008-07.md |
-| decisao-colegiado | 09/1997 | 2008-02-26 | provido | cvm-col-20080226-d45 | fichas/colegiado/2008-05.md |
-| decisao-colegiado | 15/2004 | 2008-02-19 | outro | cvm-col-20080219-d04 | fichas/colegiado/2008-03.md |
-| decisao-colegiado | 10/2005 | 2008-02-19 | outro | cvm-col-20080219-d03 | fichas/colegiado/2008-03.md |
-| decisao-colegiado | 10/2005 | 2008-01-29 | deferido | cvm-col-20080129-d14 | fichas/colegiado/2008-02.md |
-| decisao-colegiado | 26/2005 | 2008-01-22 | nao-provido | cvm-col-20080122-d02 | fichas/colegiado/2008-01.md |
-| decisao-colegiado | 10/2005 | 2008-01-15 | deferido | cvm-col-20080115-d05 | fichas/colegiado/2008-01.md |
-| decisao-colegiado | 18/2005 | 2008-01-15 | outro | cvm-col-20080115-d04 | fichas/colegiado/2008-01.md |
-| decisao-colegiado | RJ2007/3533 | 2008-01-08 | outro | cvm-col-20080108-d04 | fichas/colegiado/2008-01.md |
-| decisao-colegiado | RJ2005/6595 | 2007-12-18 | nao-provido | cvm-col-20071218-d01 | fichas/colegiado/2007-25.md |
-| decisao-colegiado | RJ2005/6595 | 2007-10-23 | conhecimento | cvm-col-20071023-d05 | fichas/colegiado/2007-20.md |
-| decisao-colegiado | RJ2006/4241 | 2007-10-23 | nao-provido | cvm-col-20071023-d02 | fichas/colegiado/2007-20.md |
-| decisao-colegiado | RJ2004/5303 | 2007-10-17 | outro | cvm-col-20071017-d07 | fichas/colegiado/2007-19.md |
-| decisao-colegiado | 26/2005 | 2007-10-17 | nao-provido | cvm-col-20071017-d01 | fichas/colegiado/2007-19.md |
-| decisao-colegiado | RJ2006/4780 | 2007-10-02 | outro | cvm-col-20071002-d06 | fichas/colegiado/2007-18.md |
-| decisao-colegiado | RJ2006/1216 | 2007-10-02 | provido | cvm-col-20071002-d05 | fichas/colegiado/2007-18.md |
-| decisao-colegiado | SP2006/0180 | 2007-10-02 | nao-provido | cvm-col-20071002-d04 | fichas/colegiado/2007-18.md |
-| decisao-colegiado | SP2005/0173 | 2007-09-18 | deferido | cvm-col-20070918-d14 | fichas/colegiado/2007-17.md |
-| decisao-colegiado | RJ2005/4555 | 2007-09-11 | deferido | cvm-col-20070911-d01 | fichas/colegiado/2007-16.md |
-| decisao-colegiado | RJ2004/5303 | 2007-08-21 | outro | cvm-col-20070821-d03 | fichas/colegiado/2007-15.md |
-| decisao-colegiado | RJ2006/1623 | 2007-07-31 | provido | cvm-col-20070731-d04 | fichas/colegiado/2007-14.md |
-| decisao-colegiado | RJ2006/1622 | 2007-07-31 | provido | cvm-col-20070731-d03 | fichas/colegiado/2007-14.md |
-| decisao-colegiado | 02/2003 | 2007-07-31 | conhecimento | cvm-col-20070731-d02 | fichas/colegiado/2007-14.md |
-| decisao-colegiado | SP2005/0268 | 2007-07-31 | outro | cvm-col-20070731-d01 | fichas/colegiado/2007-14.md |
-| decisao-colegiado | RJ2006/1507 | 2007-07-17 | outro | cvm-col-20070717-d02 | fichas/colegiado/2007-13.md |
-| decisao-colegiado | RJ2005/9738 | 2007-07-10 | outro | cvm-col-20070710-d09 | fichas/colegiado/2007-12.md |
-| decisao-colegiado | RJ2006/5664 | 2007-06-28 | outro | cvm-col-20070628-d06 | fichas/colegiado/2007-10.md |
-| decisao-colegiado | RJ2006/5905 | 2007-06-28 | outro | cvm-col-20070628-d04 | fichas/colegiado/2007-10.md |
-| decisao-colegiado | 26/2005 | 2007-05-29 | outro | cvm-col-20070529-d10 | fichas/colegiado/2007-08.md |
-| decisao-colegiado | RJ2007/3447 | 2007-05-22 | parcial | cvm-col-20070522-d07 | fichas/colegiado/2007-08.md |
-| decisao-colegiado | 12/2004 | 2007-05-22 | outro | cvm-col-20070522-d02 | fichas/colegiado/2007-07.md |
-| decisao-colegiado | RJ2004/3751 | 2007-05-15 | nao-provido | cvm-col-20070515-d02 | fichas/colegiado/2007-07.md |
-| decisao-colegiado | RJ2006/1512 | 2007-05-08 | outro | cvm-col-20070508-d01 | fichas/colegiado/2007-07.md |
-| decisao-colegiado | 02/2003 | 2007-04-17 | nao-provido | cvm-col-20070417-d09 | fichas/colegiado/2007-06.md |
-| decisao-colegiado | 02/2002 | 2007-04-17 | outro | cvm-col-20070417-d06 | fichas/colegiado/2007-06.md |
-| decisao-colegiado | RJ2006/3461 | 2007-04-11 | outro | cvm-col-20070411-d05 | fichas/colegiado/2007-05.md |
-| decisao-colegiado | RJ2005/8999 | 2007-04-11 | outro | cvm-col-20070411-d04 | fichas/colegiado/2007-05.md |
-| decisao-colegiado | RJ2001/12037 | 2007-04-11 | outro | cvm-col-20070411-d02 | fichas/colegiado/2007-05.md |
-| decisao-colegiado | RJ2005/5222 | 2007-03-27 | outro | cvm-col-20070327-d02 | fichas/colegiado/2007-04.md |
-| decisao-colegiado | RJ2006/1296 | 2007-03-20 | outro | cvm-col-20070320-d05 | fichas/colegiado/2007-04.md |
-| decisao-colegiado | RJ2007/0191 | 2007-02-26 | outro | cvm-col-20070226-d12 | fichas/colegiado/2007-03.md |
-| acordao-crsfn | 01/6835 | 2007-01-31 | extincao | crsfn-4288-2 | fichas/crsfn/2007-01.md |
-| decisao-colegiado | RJ2004/1616 | 2007-01-30 | deferido | cvm-col-20070130-d11 | fichas/colegiado/2007-02.md |
-| decisao-colegiado | RJ2005/6765 | 2007-01-30 | outro | cvm-col-20070130-d10 | fichas/colegiado/2007-02.md |
-| acordao-crsfn | RJ-2005-3750 | 2007-01-30 | absolvicao | crsfn-9250 | fichas/crsfn/2007-01.md |
-| decisao-colegiado | SP2005/0195 | 2007-01-23 | nao-provido | cvm-col-20070123-d08 | fichas/colegiado/2007-02.md |
-| decisao-colegiado | RJ2006/4665 | 2007-01-09 | outro | cvm-col-20070109-d10 | fichas/colegiado/2007-01.md |
-| decisao-colegiado | 20/2003 | 2007-01-09 | outro | cvm-col-20070109-d01 | fichas/colegiado/2007-01.md |
-| decisao-colegiado | RJ2006/3694 | 2006-12-22 | parcial | cvm-col-20061222-d01 | fichas/colegiado/2006-21.md |
-| termo-compromisso | 02/2003 | 2006-12-19 | rejeitado | cvm-col-20061219-d05 | fichas/tc/2006-07.md |
-| decisao-colegiado | RJ2006/0782 | 2006-12-05 | outro | cvm-col-20061205-d11 | fichas/colegiado/2006-18.md |
-| decisao-colegiado | RJ2002/8494 | 2006-11-07 | nao-provido | cvm-col-20061107-d11 | fichas/colegiado/2006-17.md |
-| decisao-colegiado | RJ2005/7229 | 2006-10-24 | conhecimento | cvm-col-20061024-d02 | fichas/colegiado/2006-16.md |
-| decisao-colegiado | RJ2003/5473; RJ2002/7017 | 2006-10-10 | outro | cvm-col-20061010-d02 | fichas/colegiado/2006-15.md |
-| decisao-colegiado | SP2006/0018 | 2006-09-19 | conhecimento | cvm-col-20060919-d04 | fichas/colegiado/2006-14.md |
-| decisao-colegiado | SP2006/0077 | 2006-09-19 | nao-provido | cvm-col-20060919-d01 | fichas/colegiado/2006-14.md |
-| decisao-colegiado | 21/00 | 2006-08-29 | provido | cvm-col-20060829-d09 | fichas/colegiado/2006-14.md |
-| decisao-colegiado | RJ2006/5993 | 2006-08-22 | nao-provido | cvm-col-20060822-d07 | fichas/colegiado/2006-13.md |
-| decisao-colegiado | RJ2002/8494 | 2006-08-08 | nao-provido | cvm-col-20060808-d04 | fichas/colegiado/2006-12.md |
-| decisao-colegiado | 11/03 | 2006-08-08 | outro | cvm-col-20060808-d02 | fichas/colegiado/2006-12.md |
-| decisao-colegiado | RJ2006/4891 | 2006-07-25 | nao-provido | cvm-col-20060725-d11 | fichas/colegiado/2006-12.md |
-| decisao-colegiado | SP1999/0374 | 2006-07-25 | conhecimento | cvm-col-20060725-d09 | fichas/colegiado/2006-12.md |
-| decisao-colegiado | RJ2005/6729 | 2006-07-18 | outro | cvm-col-20060718-d07 | fichas/colegiado/2006-11.md |
-| decisao-colegiado | RJ2005/7245 | 2006-07-18 | deferido | cvm-col-20060718-d03 | fichas/colegiado/2006-11.md |
-| decisao-colegiado | RJ2005/9128 | 2006-07-04 | nao-provido | cvm-col-20060704-d07 | fichas/colegiado/2006-10.md |
-| decisao-colegiado | RJ2004/5580 | 2006-07-04 | nao-provido | cvm-col-20060704-d01 | fichas/colegiado/2006-10.md |
-| decisao-colegiado | SP2005/0350 | 2006-06-06 | nao-provido | cvm-col-20060606-d05 | fichas/colegiado/2006-09.md |
-| decisao-colegiado | RJ2004/5891 | 2006-06-06 | outro | cvm-col-20060606-d02 | fichas/colegiado/2006-09.md |
-| decisao-colegiado | RJ2005/4357 | 2006-05-23 | outro | cvm-col-20060523-d06 | fichas/colegiado/2006-08.md |
-| decisao-colegiado | SP2002/0440; SP2005/0099 | 2006-05-23 | outro | cvm-col-20060523-d05 | fichas/colegiado/2006-08.md |
-| decisao-colegiado | RJ2003/5473 | 2006-05-18 | outro | cvm-col-20060518-d01 | fichas/colegiado/2006-07.md |
-| decisao-colegiado | 10/2004 | 2006-04-25 | outro | cvm-col-20060425-d04 | fichas/colegiado/2006-07.md |
-| decisao-colegiado | 20/2003 | 2006-04-25 | deferido | cvm-col-20060425-d01 | fichas/colegiado/2006-06.md |
-| decisao-colegiado | RJ2006/3107 | 2006-04-19 | nao-provido | cvm-col-20060419-d08 | fichas/colegiado/2006-06.md |
-| decisao-colegiado | RJ2005/8542 | 2006-04-11 | outro | cvm-col-20060411-d5041 | fichas/colegiado/2006-06.md |
-| decisao-colegiado | 12/2003 | 2006-04-04 | outro | cvm-col-20060404-d08 | fichas/colegiado/2006-05.md |
-| decisao-colegiado | RJ2002/4186 | 2006-03-28 | outro | cvm-col-20060328-d01 | fichas/colegiado/2006-05.md |
-| decisao-colegiado | SP2005/0393 | 2006-03-21 | provido | cvm-col-20060321-d05 | fichas/colegiado/2006-05.md |
-| decisao-colegiado | 16/2001 | 2006-03-07 | outro | cvm-col-20060307-d02 | fichas/colegiado/2006-04.md |
-| decisao-colegiado | RJ2003/12406 | 2006-03-07 | nao-provido | cvm-col-20060307-d01 | fichas/colegiado/2006-04.md |
-| decisao-colegiado | RJ2001/12130 | 2006-03-03 | outro | cvm-col-20060303-d02 | fichas/colegiado/2006-04.md |
-| decisao-colegiado | RJ2005/4961 | 2006-02-21 | outro | cvm-col-20060221-d02 | fichas/colegiado/2006-03.md |
-| decisao-colegiado | RJ2004/6068 | 2006-02-15 | deferido | cvm-col-20060215-d08 | fichas/colegiado/2006-03.md |
-| decisao-colegiado | RJ2006/0595 | 2006-02-07 | nao-provido | cvm-col-20060207-d01 | fichas/colegiado/2006-03.md |
-| decisao-colegiado | RJ2001/12130 | 2006-01-24 | outro | cvm-col-20060124-d03 | fichas/colegiado/2006-01.md |
-| decisao-colegiado | RJ2004/5328 | 2006-01-03 | nao-provido | cvm-col-20060103-d09 | fichas/colegiado/2006-01.md |
-| decisao-colegiado | RJ2003/4007 | 2006-01-03 | outro | cvm-col-20060103-d01 | fichas/colegiado/2006-01.md |
-| decisao-colegiado | RJ2003/5473 | 2005-12-27 | deferido | cvm-col-20051227-d13 | fichas/colegiado/2005-21.md |
-| termo-compromisso | RJ2004/3648 | 2005-12-27 | outro | cvm-col-20051227-d04 | fichas/tc/2005-03.md |
-| decisao-colegiado | RJ2004/6068 | 2005-12-20 | deferido | cvm-col-20051220-d11 | fichas/colegiado/2005-20.md |
-| decisao-colegiado | RJ2004/1616 | 2005-12-13 | parcial | cvm-col-20051213-d05 | fichas/colegiado/2005-19.md |
-| decisao-colegiado | RJ2003/5473; RJ2002/7017 | 2005-12-13 | parcial | cvm-col-20051213-d02 | fichas/colegiado/2005-19.md |
-| decisao-colegiado | RJ2005/7874 | 2005-12-06 | nao-provido | cvm-col-20051206-d03 | fichas/colegiado/2005-19.md |
-| decisao-colegiado | RJ2004/5891 | 2005-11-22 | deferido | cvm-col-20051122-d21 | fichas/colegiado/2005-18.md |
-| decisao-colegiado | 08/02 | 2005-11-17 | outro | cvm-col-20051117-d06 | fichas/colegiado/2005-17.md |
-| decisao-colegiado | RJ2002/6032 | 2005-11-08 | outro | cvm-col-20051108-d3883 | fichas/colegiado/2005-17.md |
-| decisao-colegiado | 04/01 | 2005-10-25 | nao-provido | cvm-col-20051025-d11 | fichas/colegiado/2005-16.md |
-| termo-compromisso | 20/03 | 2005-10-18 | outro | cvm-col-20051018-d08 | fichas/tc/2005-02.md |
-| decisao-colegiado | RJ2005/4653 | 2005-10-18 | outro | cvm-col-20051018-d03 | fichas/colegiado/2005-15.md |
-| decisao-colegiado | RJ2005/4284 | 2005-10-11 | conhecimento | cvm-col-20051011-d03 | fichas/colegiado/2005-14.md |
-| decisao-colegiado | SP2005/0209 | 2005-10-04 | provido | cvm-col-20051004-d06 | fichas/colegiado/2005-14.md |
-| decisao-colegiado | RJ2004/2692 | 2005-10-04 | outro | cvm-col-20051004-d02 | fichas/colegiado/2005-14.md |
-| decisao-colegiado | 14/03 | 2005-09-30 | outro | cvm-col-20050930-d4076 | fichas/colegiado/2005-14.md |
-| decisao-colegiado | 02/01 | 2005-09-30 | outro | cvm-col-20050930-d01 | fichas/colegiado/2005-13.md |
-| decisao-colegiado | RJ2003/5596 | 2005-09-20 | nao-provido | cvm-col-20050920-d03 | fichas/colegiado/2005-13.md |
-| decisao-colegiado | RJ2003/4367 | 2005-09-20 | indeferido | cvm-col-20050920-d01 | fichas/colegiado/2005-13.md |
-| decisao-colegiado | RJ2004/3648 | 2005-08-09 | outro | cvm-col-20050809-d05 | fichas/colegiado/2005-11.md |
-| decisao-colegiado | SP2003/0167 | 2005-08-09 | nao-provido | cvm-col-20050809-d04 | fichas/colegiado/2005-11.md |
-| decisao-colegiado | RJ2003/4367 | 2005-07-12 | deferido | cvm-col-20050712-d06 | fichas/colegiado/2005-10.md |
-| decisao-colegiado | RJ2002/6453 | 2005-07-12 | outro | cvm-col-20050712-d01 | fichas/colegiado/2005-10.md |
-| decisao-colegiado | RJ2003/3972 | 2005-07-05 | outro | cvm-col-20050705-d04 | fichas/colegiado/2005-10.md |
-| decisao-colegiado | 08/02 | 2005-06-21 | outro | cvm-col-20050621-d02 | fichas/colegiado/2005-09.md |
-| decisao-colegiado | RJ2002/8173 | 2005-06-21 | outro | cvm-col-20050621-d01 | fichas/colegiado/2005-09.md |
-| decisao-colegiado | RJ2003/5459 | 2005-06-14 | deferido | cvm-col-20050614-d06 | fichas/colegiado/2005-09.md |
-| decisao-colegiado | 21/2004; RJ2005/1779 | 2005-06-14 | parcial | cvm-col-20050614-d05 | fichas/colegiado/2005-09.md |
-| decisao-colegiado | 08/02 | 2005-06-14 | deferido | cvm-col-20050614-d02 | fichas/colegiado/2005-09.md |
-| decisao-colegiado | SP2004/0110 | 2005-06-07 | nao-provido | cvm-col-20050607-d11 | fichas/colegiado/2005-09.md |
-| decisao-colegiado | SP2003/0167 | 2005-06-07 | provido | cvm-col-20050607-d08 | fichas/colegiado/2005-09.md |
-| decisao-colegiado | RJ2002/1965 | 2005-05-16 | nao-provido | cvm-col-20050516-d03 | fichas/colegiado/2005-08.md |
-| termo-compromisso | 16/01 | 2005-05-16 | outro | cvm-col-20050516-d02 | fichas/tc/2005-01.md |
-| decisao-colegiado | 08/02 | 2005-05-10 | deferido | cvm-col-20050510-d02 | fichas/colegiado/2005-08.md |
-| decisao-colegiado | RJ2004/3098 | 2005-04-19 | nao-provido | cvm-col-20050419-d09 | fichas/colegiado/2005-07.md |
-| decisao-colegiado | 01/88 | 2005-04-12 | outro | cvm-col-20050412-d12 | fichas/colegiado/2005-07.md |
-| decisao-colegiado | RJ2004/2728 | 2005-03-22 | nao-provido | cvm-col-20050322-d03 | fichas/colegiado/2005-05.md |
-| decisao-colegiado | RJ1990/0386 | 2005-03-14 | deferido | cvm-col-20050314-d01 | fichas/colegiado/2005-05.md |
-| acordao-crsfn | IA-2000/25 | 2005-02-23 | extincao | crsfn-5957 | fichas/crsfn/2005-01.md |
-| decisao-colegiado | SP2000/0110 | 2005-01-25 | outro | cvm-col-20050125-d13 | fichas/colegiado/2005-02.md |
-| decisao-colegiado | RJ2002/7471 | 2004-12-23 | nao-provido | cvm-col-20041223-d25 | fichas/colegiado/2004-17.md |
-| decisao-colegiado | RJ2003/5551; SP2003/0294; RJ2003/11969 | 2004-12-23 | nao-provido | cvm-col-20041223-d02 | fichas/colegiado/2004-16.md |
-| decisao-colegiado | RJ90/0386 | 2004-12-23 | outro | cvm-col-20041223-d01 | fichas/colegiado/2004-16.md |
-| termo-compromisso | RJ2001/4652 | 2004-12-07 | outro | cvm-col-20041207-d13 | fichas/tc/2004-02.md |
-| decisao-colegiado | 25/98 | 2004-12-07 | outro | cvm-col-20041207-d07 | fichas/colegiado/2004-15.md |
-| decisao-colegiado | 30/93 | 2004-12-07 | outro | cvm-col-20041207-d01 | fichas/colegiado/2004-15.md |
-| decisao-colegiado | IA04/03 | 2004-11-30 | conhecimento | cvm-col-20041130-d02 | fichas/colegiado/2004-15.md |
-| decisao-colegiado | 12/03 | 2004-11-23 | outro | cvm-col-20041123-d07 | fichas/colegiado/2004-14.md |
-| decisao-colegiado | 19/00 | 2004-10-25 | outro | cvm-col-20041025-d08 | fichas/colegiado/2004-12.md |
-| decisao-colegiado | RJ2004/2626 | 2004-09-21 | nao-provido | cvm-col-20040921-d08 | fichas/colegiado/2004-11.md |
-| decisao-colegiado | RJ2003/12755 | 2004-09-10 | outro | cvm-col-20040910-d07 | fichas/colegiado/2004-11.md |
-| termo-compromisso | SP2001/0204 | 2004-08-05 | rejeitado | cvm-col-20040805-d05 | fichas/tc/2004-01.md |
-| decisao-colegiado | RJ99/5785 | 2004-07-27 | nao-provido | cvm-col-20040727-d06 | fichas/colegiado/2004-09.md |
-| termo-compromisso | 05/02 | 2004-07-02 | rejeitado | cvm-col-20040702-d05 | fichas/tc/2004-01.md |
-| decisao-colegiado | SP2003/0462 | 2004-06-08 | nao-provido | cvm-col-20040608-d01 | fichas/colegiado/2004-06.md |
-| decisao-colegiado | RJ2001/1789 | 2004-05-11 | outro | cvm-col-20040511-d07 | fichas/colegiado/2004-05.md |
-| decisao-colegiado | SP99/0360 | 2004-05-11 | nao-provido | cvm-col-20040511-d03 | fichas/colegiado/2004-05.md |
-| decisao-colegiado | RJ2003/6116 | 2004-03-09 | deferido | cvm-col-20040309-d16 | fichas/colegiado/2004-03.md |
-| decisao-colegiado | RJ2004/0203 | 2004-03-09 | deferido | cvm-col-20040309-d10 | fichas/colegiado/2004-03.md |
-| decisao-colegiado | RJ2004/0712 | 2004-03-09 | deferido | cvm-col-20040309-d09 | fichas/colegiado/2004-03.md |
-| decisao-colegiado | — | 2004-01-21 | deferido | cvm-col-20040121-d08 | fichas/colegiado/2004-01.md |
-| decisao-colegiado | RJ2003/6134 | 2003-12-16 | deferido | cvm-col-20031216-d10 | fichas/colegiado/2003-14.md |
-| decisao-colegiado | RJ2003/12767 | 2003-12-08 | nao-provido | cvm-col-20031208-d01 | fichas/colegiado/2003-14.md |
-| decisao-colegiado | RJ2001/11505 | 2003-11-11 | nao-provido | cvm-col-20031111-d09 | fichas/colegiado/2003-13.md |
-| decisao-colegiado | RJ2003/6116; RJ2002/4166 | 2003-10-28 | outro | cvm-col-20031028-d04 | fichas/colegiado/2003-12.md |
-| decisao-colegiado | — | 2003-10-28 | outro | cvm-col-20031028-d02 | fichas/colegiado/2003-12.md |
-| decisao-colegiado | RJ2003/7947 | 2003-10-21 | conhecimento | cvm-col-20031021-d01 | fichas/colegiado/2003-12.md |
-| decisao-colegiado | RJ2002/2555 | 2003-08-20 | deferido | cvm-col-20030820-d01 | fichas/colegiado/2003-10.md |
-| decisao-colegiado | IA03/97 | 2003-08-05 | nao-provido | cvm-col-20030805-d01 | fichas/colegiado/2003-10.md |
-| decisao-colegiado | RJ1997/0696 | 2003-04-08 | outro | cvm-col-20030408-d03 | fichas/colegiado/2003-04.md |
-| decisao-colegiado | — | 2002-12-23 | outro | cvm-col-20021223-d01 | fichas/colegiado/2002-26.md |
-| decisao-colegiado | RJ2001/6951 | 2002-11-22 | outro | cvm-col-20021122-d01 | fichas/colegiado/2002-25.md |
-| decisao-colegiado | RJ2002/2714 | 2002-11-12 | nao-provido | cvm-col-20021112-d09 | fichas/colegiado/2002-25.md |
-| decisao-colegiado | SP2001/0227 | 2002-10-15 | outro | cvm-col-20021015-d04 | fichas/colegiado/2002-24.md |
-| decisao-colegiado | RJ2001/12253 | 2002-10-15 | nao-provido | cvm-col-20021015-d02 | fichas/colegiado/2002-24.md |
-| decisao-colegiado | — | 2002-09-24 | nao-provido | cvm-col-20020924-d03 | fichas/colegiado/2002-22.md |
-| decisao-colegiado | RJ2000/2075 | 2002-07-03 | nao-provido | cvm-col-20020703-d06 | fichas/colegiado/2002-16.md |
-| decisao-colegiado | RJ2001/100519 | 2002-06-18 | nao-provido | cvm-col-20020618-d11 | fichas/colegiado/2002-14.md |
-| decisao-colegiado | SP2001/0806 | 2002-06-11 | deferido | cvm-col-20020611-d11 | fichas/colegiado/2002-13.md |
-| decisao-colegiado | SP2001/0297 | 2002-06-11 | nao-provido | cvm-col-20020611-d07 | fichas/colegiado/2002-13.md |
-| decisao-colegiado | SP2001/0437 | 2002-05-14 | outro | cvm-col-20020514-d04 | fichas/colegiado/2002-11.md |
-| decisao-colegiado | RJ2000/0250 | 2002-04-26 | indeferido | cvm-col-20020426-d07 | fichas/colegiado/2002-09.md |
-| decisao-colegiado | SP2001/0270 | 2002-04-16 | nao-provido | cvm-col-20020416-d01 | fichas/colegiado/2002-08.md |
-| decisao-colegiado | RJ2000/5874 | 2002-03-19 | nao-provido | cvm-col-20020319-d14 | fichas/colegiado/2002-06.md |
-| decisao-colegiado | RJ99/5785 | 2002-03-19 | nao-provido | cvm-col-20020319-d02 | fichas/colegiado/2002-05.md |
-| decisao-colegiado | RJ2000/4250 | 2002-03-12 | nao-provido | cvm-col-20020312-d01 | fichas/colegiado/2002-04.md |
-| decisao-colegiado | RJ2000/4801 | 2002-02-14 | nao-provido | cvm-col-20020214-d03 | fichas/colegiado/2002-02.md |
-| decisao-colegiado | SP2001/0292 | 2002-02-05 | nao-provido | cvm-col-20020205-d02 | fichas/colegiado/2002-02.md |
-| acordao-crsfn | 97/3122 | 1999-11-25 | outro | crsfn-2806 | fichas/crsfn/1999-03.md |
-| pas | 05/1998 | 1999-07-08 | outro | cvm-pas-05-1998 | fichas/pas/1999.md |
-| acordao-crsfn | 03/90 | 1996-04-16 | outro | crsfn-1145 | fichas/crsfn/1996-01.md |
-| acordao-crsfn | 11/93 | 1996-02-15 | condenacao | crsfn-1620 | fichas/crsfn/1996-01.md |
-| acordao-crsfn | 12/92 | 1996-02-15 | outro | crsfn-1582 | fichas/crsfn/1996-01.md |
+| Tipo | Processo | Data | Resultado | Ementa | Id | Ficha |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.005195/2025-70 | 2026-06-24 | nao-provido | O Colegiado, por unanimidade, acompanhando a área técnica, negou provimento a recurso de investigado contra decisão da SPS que concedeu… | cvm-col-20260624-d4-d3436 | fichas/colegiado/2026-03.md |
+| decisao-colegiado | 19957.000952/2023-57 | 2026-05-06 | nao-provido | O Colegiado, por unanimidade, negou provimento a recurso, interposto em nome de associação de defesa do investidor, contra indeferimento… | cvm-col-20260506-d3518 | fichas/colegiado/2026-02.md |
+| decisao-colegiado | 19957.003100/2023-11 | 2026-05-06 | nao-provido | O Colegiado, por unanimidade, acompanhando a área técnica, negou provimento a recurso contra decisão da SPS que concedeu acesso parcial a… | cvm-col-20260506-d3443 | fichas/colegiado/2026-02.md |
+| decisao-colegiado | 19957.005195/2025-70 | 2026-05-06 | nao-provido | O Colegiado negou provimento, por unanimidade, a recurso contra decisão da SPS que deu acesso parcial a inquérito sobre operações com ações… | cvm-col-20260506-d3436 | fichas/colegiado/2026-02.md |
+| decisao-colegiado | 19957.003711/2025-21 | 2026-05-06 | parcial | O Colegiado, por unanimidade, indeferiu o pedido da Usiminas de confidencialidade integral dos autos de sua consulta e deferiu o pedido… | cvm-col-20260506-d3345 | fichas/colegiado/2026-02.md |
+| decisao-colegiado | 19957.003343/2025-11 | 2026-03-24 | parcial | O Colegiado conheceu de recurso contra o arquivamento, pela SEP, de reclamação sobre compra de ações da Alliança Saúde pela Braslight e… | cvm-col-20260324-d3438 | fichas/colegiado/2026-01.md |
+| decisao-colegiado | 19957.003558/2025-32 | 2026-03-17 | deferido | O Colegiado, por unanimidade, deferiu pedido da SMI de prorrogação por três meses do prazo de análise do Processo 19957.003558/2025-32… | cvm-col-20260317-d3506 | fichas/colegiado/2026-01.md |
+| decisao-colegiado | 19957.000628/2025-09 | 2026-03-03 | outro | O Colegiado, por unanimidade, devolveu à SGE o processo sobre esclarecimento do alcance de decisão do Colegiado, para as providências… | cvm-col-20260303-d3479 | fichas/colegiado/2026-01.md |
+| pas | 19957.007759/2020-02 | 2025-12-18 | condenacao | Apurar eventual irregularidade em negócios com Bonds da JBS USA LLC, realizados pela Antigua LLC, e com ações da JBS S.A., realizados pela… | cvm-pas-19957-007759-2020-02 | fichas/pas/2025-12.md |
+| decisao-colegiado | 19957.005195/2025-70 | 2025-12-04 | nao-provido | O Colegiado, por unanimidade, acompanhando a área técnica, negou provimento a recurso contra decisão da SPS que concedeu acesso parcial a… | cvm-col-20251204-d3436 | fichas/colegiado/2025-12.md |
+| decisao-colegiado | 19957.008553/2024-15 | 2025-11-18 | parcial | O Colegiado deu provimento parcial a recurso contra decisão da SRE que restringiu vista dos autos. Determinou mais documentos e vista dos… | cvm-col-20251118-d3349 | fichas/colegiado/2025-11.md |
+| decisao-colegiado | 19957.002328/2025-56 | 2025-11-18 | — | O Colegiado, por unanimidade e acompanhando a SMI, negou provimento ao recurso do Esh Theta Master FIF Multimercado contra a decisão do… | cvm-col-20251118-d3324 | fichas/colegiado/2025-11.md |
+| decisao-colegiado | 04/2024; 45/2021; 19957.002633/2024-67 | 2025-10-29 | — | O Colegiado iniciou a discussão da Consulta Pública SDM 4/2024, que propõe ampliar as infrações sujeitas ao rito simplificado do PAS e… | cvm-col-20251029-d3150 | fichas/colegiado/2025-10.md |
+| decisao-colegiado | 19957.003749/2024-13 | 2025-09-23 | nao-provido | O Colegiado, por unanimidade, acompanhando a área técnica, negou provimento a recurso contra decisão da SMI que concedeu acesso parcial aos… | cvm-col-20250923-d3357 | fichas/colegiado/2025-09.md |
+| decisao-colegiado | 19957.006682/2025-50 | 2025-09-23 | conhecimento | Por unanimidade, acompanhando a SMI, o Colegiado não conheceu de pedido de reconsideração da decisão de 12.08.2025 sobre acesso aos votos… | cvm-col-20250923-d3320 | fichas/colegiado/2025-09.md |
+| acordao-crsfn | 19957.004989/2021-92 | 2025-09-16 | outro | EMBARGOS DE DECLARAÇÃO. SUPOSTAS OMISSÕES NO ACÓRDÃO CRSFN 84/2025. Alegação de omissão quanto à nulidade da citação. Inexistência de… | crsfn-10372-000089-2024-15-2 | fichas/crsfn/2025-05.md |
+| decisao-colegiado | 19957.006191/2025-17 | 2025-09-09 | nao-provido | O Colegiado negou provimento, por unanimidade, a recurso contra decisão da SEP que deferiu parcialmente o acesso aos autos e negou acesso à… | cvm-col-20250909-d3348 | fichas/colegiado/2025-09.md |
+| decisao-colegiado | 19957.013283/2024-64 | 2025-09-02 | nao-provido | O Colegiado negou provimento, por unanimidade, a recurso contra decisão da SEP que indeferiu tratamento sigiloso de documentos em processo… | cvm-col-20250902-d3302 | fichas/colegiado/2025-09.md |
+| decisao-colegiado | 19957.006682/2025-50 | 2025-08-12 | nao-provido | Por unanimidade, acompanhando a SMI, o Colegiado negou provimento a recurso de fundo contra indeferimento de acesso aos votos do Comitê de… | cvm-col-20250812-d3320 | fichas/colegiado/2025-08.md |
+| decisao-colegiado | 19957.019109/2024-25 | 2025-06-17 | nao-provido | O Colegiado, por unanimidade, negou provimento a recurso da KPMG e de sua responsável técnica que pedia restrições ao acesso da Americanas… | cvm-col-20250617-d3244 | fichas/colegiado/2025-05.md |
+| decisao-colegiado | 19957.009746/2021-41 | 2025-05-27 | indeferido | O Colegiado, por unanimidade, indeferiu pedido de exclusão de imputação de descumprimento da ICVM 480/2009 (art. 24) e, por maioria, pedido… | cvm-col-20250527-d9798 | fichas/colegiado/2025-05.md |
+| decisao-colegiado | 19957.005393/2018-12 | 2025-04-29 | nao-provido | O Colegiado, por unanimidade, acompanhando a SEP, negou provimento a recurso contra concessão parcial de acesso ao processo. A SEP manteve… | cvm-col-20250429-d3267 | fichas/colegiado/2025-04.md |
+| decisao-colegiado | 19957.002296/2020-84; 19957.001134/2025-33 | 2025-04-15 | nao-provido | O Colegiado, por maioria, acompanhando o voto da relatora, negou provimento a pedido de efeito suspensivo, em recurso ao CRSFN, contra a… | cvm-col-20250415-d2014 | fichas/colegiado/2025-03.md |
+| decisao-colegiado | 19957.013547/2024-80 | 2025-03-11 | nao-provido | O Colegiado, por unanimidade, acompanhando a SIN, negou provimento a pedido de reconsideração de decisão que manteve o indeferimento de… | cvm-col-20250311-d3209 | fichas/colegiado/2025-02.md |
+| decisao-colegiado | 19957.019092/2024-14 | 2025-03-11 | conhecimento | O Colegiado, por maioria, não conheceu do recurso ao CRSFN contra decisão que indeferiu efeito suspensivo em PAS (inabilitação de 60… | cvm-col-20250311-d2938 | fichas/colegiado/2025-02.md |
+| decisao-colegiado | 19957.001917/2025-17 | 2025-03-10 | conhecimento | O Colegiado, por unanimidade, acompanhando a SEP, não conheceu do pedido de reconsideração da Gafisa S.A. contra a decisão que deferiu a… | cvm-col-20250310-d3234 | fichas/colegiado/2025-02.md |
+| decisao-colegiado | 19957.001830/2021-16; 19957.019092/2024-14 | 2024-12-17 | nao-provido | O Colegiado, por maioria, negou provimento ao pedido de efeito suspensivo contra condenação a inabilitação temporária de 60 meses por… | cvm-col-20241217-d2938 | fichas/colegiado/2024-14.md |
+| decisao-colegiado | 19957.009040/2023-41 | 2024-12-10 | nao-provido | O Colegiado negou provimento a recurso da Fortlev Energia Solar S.A. contra decisão da SSE que deu acesso parcial a PAS, mantendo o sigilo… | cvm-col-20241210-d3188 | fichas/colegiado/2024-14.md |
+| decisao-colegiado | 19957.016002/2024-25 | 2024-11-12 | nao-provido | O Colegiado negou provimento a recurso de fundo de investimento e de sua representante legal contra indeferimento de acesso à ata de… | cvm-col-20241112-d3170 | fichas/colegiado/2024-13.md |
+| decisao-colegiado | 19957.003484/2020-20; 19957.012344/2022-12; 19957.019083/2024-15 | 2024-11-12 | nao-provido | O Colegiado conheceu do pedido de efeito suspensivo apenas quanto à proibição temporária de 39 meses imposta à WeMake e a outro condenado… | cvm-col-20241112-d2186-2945 | fichas/colegiado/2024-13.md |
+| decisao-colegiado | 19957.003611/2020-91 | 2024-11-05 | indeferido | O Colegiado indeferiu, por unanimidade e acompanhando o voto do relator, pedido de produção de provas (cadeia de custódia, perícia e… | cvm-col-20241105-d1905 | fichas/colegiado/2024-12.md |
+| acordao-crsfn | RJ2013/8880 | 2024-10-09 | outro | EMBARGOS DE DECLARAÇÃO. ALEGADA OMISSÃO NO ACÓRDÃO CRSFN 51/2024. INTIMAÇÃO. Omissão não verificada. Embargos rejeitados. | crsfn-10372-100059-2020-84-2 | fichas/crsfn/2024-07.md |
+| decisao-colegiado | 19957.003980/2023-26 | 2024-10-08 | indeferido | O Colegiado indeferiu, por unanimidade e acompanhando o voto do diretor relator, pedido de produção de provas em PAS sobre o regime… | cvm-col-20241008-d3021 | fichas/colegiado/2024-11.md |
+| decisao-colegiado | 19957.006858/2019-25 | 2024-09-17 | nao-provido | O Colegiado negou provimento a recursos contra despacho que indeferiu produção de provas em PAS sobre fundos FIDC, por ser protelatória a… | cvm-col-20240917-d1952 | fichas/colegiado/2024-10.md |
+| decisao-colegiado | 19957.001207/2023-25 | 2024-08-27 | conhecimento | O Colegiado, por unanimidade, não conheceu de novo pedido de reconsideração, por entender descabido submeter ao Colegiado novos pedidos… | cvm-col-20240827-d2978 | fichas/colegiado/2024-09.md |
+| decisao-colegiado | 19957.008119/2023-54 | 2024-07-09 | parcial | O Colegiado, por unanimidade, acompanhando o voto do diretor relator, recebeu a petição e indeferiu os demais pedidos do acusado em PAS da… | cvm-col-20240709-d3031 | fichas/colegiado/2024-08.md |
+| decisao-colegiado | 19957.005643/2020-21 | 2024-07-09 | indeferido | O Colegiado indeferiu os pedidos de produção de provas do acusado em PAS sobre auditoria independente (originais de documentos, perícia… | cvm-col-20240709-d2066 | fichas/colegiado/2024-08.md |
+| decisao-colegiado | 19957.007304/2021-60 | 2024-06-13 | conhecimento | O Colegiado, por unanimidade, não conheceu de pedido de reconsideração de decisão anterior sobre Ato Declaratório da SMI. Acompanhando a… | cvm-col-20240613-d3017 | fichas/colegiado/2024-06.md |
+| decisao-colegiado | 19957.007916/2019-38 | 2024-06-04 | parcial | O Colegiado deferiu a oitiva de uma testemunha e indeferiu as demais provas pedidas pelo acusado (outras testemunhas e ofício à CGU)… | cvm-col-20240604-d1582 | fichas/colegiado/2024-06.md |
+| decisao-colegiado | 19957.001830/2021-16 | 2024-05-21 | indeferido | O Colegiado, por unanimidade, acompanhando o voto do Presidente relator, indeferiu pedidos de produção de prova de acusado em PAS da SPS… | cvm-col-20240521-d2938 | fichas/colegiado/2024-05.md |
+| decisao-colegiado | 19957.010194/2019-07; 19957.004588/2020-51; 19957.008718/2020-25; 19957.010053/2021-09 | 2024-05-21 | outro | O Colegiado desmembrou o PAS 19957.010194/2019-07 da conexão com os PAS 19957.008718/2020-25 e 19957.004588/2020-51 e reconheceu sua… | cvm-col-20240521-d1973 | fichas/colegiado/2024-05.md |
+| acordao-crsfn | RJ2019/9541 | 2024-04-09 | outro | EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÃO, CONTRADIÇÃO E OBSCURIDADE NO ACÓRDÃO CRSFN 68/2023. Intempestividade. Embargos de declaração… | crsfn-10372-100173-2020-12-2 | fichas/crsfn/2024-02.md |
+| decisao-colegiado | 19957.001207/2023-25 | 2024-04-02 | conhecimento | O Colegiado, por unanimidade, reconheceu o descabimento de pedido de reconsideração de decisão em reclamação, apresentado por cotistas do… | cvm-col-20240402-d2978 | fichas/colegiado/2024-04.md |
+| decisao-colegiado | 19957.002296/2020-84 | 2024-03-12 | parcial | O Colegiado, por unanimidade, não conheceu do pedido de reconsideração do acusado contra decisão de 31.01.2023 que deferiu parcialmente… | cvm-col-20240312-d2014 | fichas/colegiado/2024-03.md |
+| acordao-crsfn | SP2017/294 | 2024-03-12 | outro | EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE CONTRADIÇÃO NO ACÓRDÃO CRSFN 46/2023. Suposta contradição referente a avaliações dos elementos que… | crsfn-10372-100096-2021-73-2 | fichas/crsfn/2024-02.md |
+| decisao-colegiado | 19957.004239/2022-00 | 2024-03-05 | conhecimento | O Colegiado, por unanimidade, não conheceu de pedido de reconsideração de fundo acionista da Braskem S.A. contra decisão de 05.12.2023… | cvm-col-20240305-d2899 | fichas/colegiado/2024-03.md |
+| acordao-crsfn | RJ2016/6284 | 2024-02-27 | extincao | RECURSOS ADMINISTRATIVOS. CVM. ADMINISTRAÇÃO DE CARTEIRA DE VALORES MOBILIÁRIOS. AUSÊNCIA DE POLÍTICA DE GESTÃO, MONITORAMENTO E MENSURAÇÃO… | crsfn-10372-100299-2019-45 | fichas/crsfn/2024-01.md |
+| decisao-colegiado | 19957.004239/2022-00 | 2024-02-20 | — | Pedido de reconsideração de decisão do Colegiado em reclamação sobre eleição do conselho de administração da Braskem S.A. (AGOE de… | cvm-col-20240220-d2899 | fichas/colegiado/2024-02.md |
+| decisao-colegiado | 19957.000152/2022-55 | 2024-01-09 | conhecimento | Pedido de reconsideração de decisão do colegiado. Proc. 19957.000152/2022-55. | cvm-col-20240109-d2771 | fichas/colegiado/2024-01.md |
+| decisao-colegiado | 19957.006771/2020-91 | 2023-12-19 | conhecimento | O Colegiado, por unanimidade, não conheceu de pedido de reconsideração em reclamação sobre a administração e a gestão do Titânio XV (FIP)… | cvm-col-20231219-d2890 | fichas/colegiado/2023-14.md |
+| decisao-colegiado | 19957.002835/2022-47; 19957.015162/2023-76 | 2023-12-19 | nao-provido | O Colegiado negou, por unanimidade, o pedido de efeito suspensivo da recorrente quanto à proibição temporária de 102 meses imposta em PAS… | cvm-col-20231219-d2820 | fichas/colegiado/2023-14.md |
+| acordao-crsfn | SP2017/440 | 2023-12-04 | outro | EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÕES NO ACÓRDÃO CRSFN 60/2023. Inexistência das omissões alegadas. Embargos de Declaração… | crsfn-10372-100097-2021-18-2 | fichas/crsfn/2023-09.md |
+| decisao-colegiado | 19957.008986/2021-28 | 2023-11-21 | nao-provido | O Colegiado negou provimento, acompanhando a área técnica, a recurso contra decisão da SMI que negou acesso integral aos autos e… | cvm-col-20231121-d2710 | fichas/colegiado/2023-12.md |
+| termo-compromisso | 19957.009335/2021-55 | 2023-11-14 | outro | O Colegiado, por unanimidade, acompanhando o voto da Relatora, não conheceu da proposta de termo de compromisso de agente autônomo de… | cvm-col-20231114-d2576 | fichas/tc/2023-07.md |
+| termo-compromisso | 19957.008369/2022-11 | 2023-10-31 | outro | O Colegiado, por unanimidade, não conheceu do pedido de terceiro para suspender a deliberação de termo de compromisso da B Fintech Serviços… | cvm-col-20231031-d2919-item1 | fichas/tc/2023-06.md |
+| decisao-colegiado | 19957.003953/2021-91; 19957.004982/2021-71 | 2023-10-10 | conhecimento | O Colegiado, por unanimidade, não conheceu da reclamação da Reit Securitizadora S.A., tratada como pedido de reconsideração de decisão que… | cvm-col-20231010-d2566-2567 | fichas/colegiado/2023-11.md |
+| acordao-crsfn | RJ2019/1400 | 2023-10-10 | outro | EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÃO E ERRO NO ACÓRDÃO CRSFN 84/2023. FALTA ANÁLISE DE ARGUMENTOS. ERRO DA CVM NÃO CORRIGIDO EM GRAU… | crsfn-10372-100111-2020-01-2 | fichas/crsfn/2023-08.md |
+| decisao-colegiado | 19957.009335/2021-55 | 2023-09-26 | indeferido | O Colegiado indeferiu os pedidos de produção de provas apresentados pelo acusado no PAS instaurado pela SMI sobre atuação como agente… | cvm-col-20230926-d2576 | fichas/colegiado/2023-10.md |
+| acordao-crsfn | 19957.007543/2019-03; RJ2019/5673 | 2023-09-12 | outro | EMBARGOS DE DECLARAÇÃO. ALEGADA OMISSÃO NO ACÓRDÃO CRSFN 66/2023. CRITÉRIO DE CORREÇÃO MONETÁRIA. Matéria suscitada não foi objeto do… | crsfn-10372-100012-2021-00-2 | fichas/crsfn/2023-06.md |
+| decisao-colegiado | 19957.004416/2016-00; 19957.009023/2023-11 | 2023-09-05 | nao-provido | O Colegiado negou provimento a pedido de efeito suspensivo do acusado contra condenação em PAS (multa de R$ 169.448.080,00 e inabilitação… | cvm-col-20230905-d1498 | fichas/colegiado/2023-09.md |
+| decisao-colegiado | 19957.001764/2018-89 | 2023-08-29 | conhecimento | O Colegiado, por unanimidade, não conheceu do pedido de reconsideração da BRF S.A. contra decisão de 10.05.2022, que negou provimento a… | cvm-col-20230829-d2578 | fichas/colegiado/2023-09.md |
+| termo-compromisso | 19957.009444/2019-58 | 2023-08-29 | rejeitado | O Colegiado, por unanimidade, não conheceu do pedido de reconsideração da decisão que rejeitou proposta de termo de compromisso de… | cvm-col-20230829-d1878 | fichas/tc/2023-05.md |
+| decisao-colegiado | 19957.007266/2022-26 | 2023-07-11 | indeferido | O Colegiado indeferiu, por unanimidade, os pedidos de produção de provas (perícia grafotécnica, oitivas e juntada de documentos) formulados… | cvm-col-20230711-d2813 | fichas/colegiado/2023-07.md |
+| decisao-colegiado | 19957.002055/2022-05 | 2023-05-23 | nao-provido | O Colegiado, por unanimidade, acompanhando a área técnica, negou provimento a recurso de dois denunciantes contra decisão da SEP que deu… | cvm-col-20230523-d2804 | fichas/colegiado/2023-06.md |
+| decisao-colegiado | 19957.004381/2021-68 | 2023-05-16 | conhecimento | O Colegiado, por unanimidade, não conheceu dos embargos de declaração opostos pela Monetar DTVM e por um acusado contra decisão… | cvm-col-20230516-d2479 | fichas/colegiado/2023-05.md |
+| acordao-crsfn | 07/2015 | 2023-05-09 | outro | EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO NO ACÓRDÃO CRSFN 1/2023. Ausência de… | crsfn-10372-100114-2020-36-4 | fichas/crsfn/2023-05.md |
+| acordao-crsfn | IA-2013-11 | 2023-04-12 | outro | EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÃO E ERRO. ACÓRDÃO CRSFN 18/2021. OMISSÃO QUANTO À PRESCRIÇÃO DA PRETENSÃO PUNITIVA DA CVM. ERRO… | crsfn-10372-100284-2018-04-2 | fichas/crsfn/2023-04.md |
+| decisao-colegiado | 19957.005174/2019-14 | 2023-04-04 | conhecimento | O Colegiado não conheceu dos embargos de declaração opostos contra condenação em PAS por front running e restituiu aos acusados o prazo… | cvm-col-20230404-d2430 | fichas/colegiado/2023-04.md |
+| acordao-crsfn | 14/2010 | 2023-03-08 | outro | EMBARGOS DE DECLARAÇÃO. ALEGAÇÕES DE OMISSÃO, OBSCURIDADE E CONTRADIÇÃO NO ACÓRDÃO CRSFN 171/2022. Vícios apontados não caracterizados… | crsfn-10372-100071-2021-70-2 | fichas/crsfn/2023-03.md |
+| acordao-crsfn | SP2014/230 | 2023-03-07 | outro | EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÕES E OBSCURIDADES NO ACÓRDÃO CRSFN 161/2022. As questões levantadas pelos Embargantes foram… | crsfn-10372-100034-2019-47-2 | fichas/crsfn/2023-01.md |
+| decisao-colegiado | 19957.002055/2022-05 | 2023-02-28 | outro | O Colegiado decidiu encaminhar o processo à PFE/CVM para manifestação sobre recurso contra decisão da SEP em pedido de acesso aos autos… | cvm-col-20230228-d2804 | fichas/colegiado/2023-03.md |
+| decisao-colegiado | 19957.008143/2018-26; 19957.008816/2018-48; 19957.010958/2018-75 | 2023-02-14 | nao-provido | O Colegiado julgou prejudicado, por perda de objeto, o pedido de conexão entre três PAS apresentado pela Argus e por outra acusada, pois a… | cvm-col-20230214-d1497 | fichas/colegiado/2023-02.md |
+| decisao-colegiado | 19957.006097/2018-21 | 2023-02-07 | conhecimento | O Colegiado não conheceu, por unanimidade, acompanhando a SIN, de recurso de credores da massa falida do Banco Cruzeiro do Sul contra… | cvm-col-20230207-d1510 | fichas/colegiado/2023-02.md |
+| acordao-crsfn | 07/2015 | 2023-02-07 | outro | EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DECLARAÇÃO. OBSCURIDADE, OMISSÃO OU CONTRADIÇÃO NO ACÓRDÃO CRSFN 59/2022. Inocorrência. Embargos… | crsfn-10372-100114-2020-36-3 | fichas/crsfn/2023-01.md |
+| decisao-colegiado | 19957.002296/2020-84 | 2023-01-31 | parcial | O Colegiado deferiu, por unanimidade, acompanhando o voto da relatora, pedido de ofício à corretora para fornecer e-mails e registros de… | cvm-col-20230131-d2014 | fichas/colegiado/2023-02.md |
+| decisao-colegiado | 19957.008816/2018-48; 19957.004810/2019-82 | 2023-01-31 | indeferido | O Colegiado, por unanimidade, acompanhando o voto do relator, entendeu pela inexistência de conexão entre os PAS 19957.008816/2018-48 e… | cvm-col-20230131-d1535 | fichas/colegiado/2023-02.md |
+| decisao-colegiado | 19957.000695/2021-91 | 2023-01-10 | nao-provido | O Colegiado, por unanimidade, acompanhando a SIN, conheceu do pedido de reconsideração e, no mérito, o indeferiu. Manteve o arquivamento… | cvm-col-20230110-d2418 | fichas/colegiado/2023-01.md |
+| termo-compromisso | 19957.004676/2018-39 | 2023-01-10 | rejeitado | O Colegiado não conheceu como reconsideração o pedido de dois proponentes contra a decisão do Colegiado de 03.05.2022 que rejeitou proposta… | cvm-col-20230110-d1257 | fichas/tc/2023-01.md |
+| decisao-colegiado | 19957.010511/2021-00 | 2023-01-03 | conhecimento | Pedido de reconsideração de decisão do colegiado. Proc. SEI 19957.010511/2021-00. | cvm-col-20230103-d2523 | fichas/colegiado/2023-01.md |
+| decisao-colegiado | 19957.000025/2022-56 | 2023-01-03 | conhecimento | Pedido de reconsideração de decisão do colegiado. Proc. 19957.000025/2022-56. | cvm-col-20230103-d2502 | fichas/colegiado/2023-01.md |
+| termo-compromisso | 19957.005866/2018-73 | 2022-12-13 | rejeitado | O Colegiado, por unanimidade, acompanhando a relatora, rejeitou nova proposta de termo de compromisso da Petro Rio S.A. no PAS… | cvm-col-20221213-d1481 | fichas/tc/2022-06.md |
+| decisao-colegiado | 19957.005866/2018-73 | 2022-12-06 | indeferido | O Colegiado, por unanimidade, acompanhando a relatora, indeferiu os pedidos da Petro Rio S.A. de vista de outro PAS, de abertura de prazo… | cvm-col-20221206-d1481-19 | fichas/colegiado/2022-16.md |
+| decisao-colegiado | 19957.002315/2021-53 | 2022-11-08 | conhecimento | O Colegiado não conheceu de pedido de reconsideração contra decisão condenatória em PAS, acompanhando o voto do relator. Segundo o voto, o… | cvm-col-20221108-d2437 | fichas/colegiado/2022-15.md |
+| acordao-crsfn | RJ2018/4165 | 2022-11-08 | outro | EMBARGOS DE DECLARAÇÃO. ERRO MATERIAL NA ATA DE JULGAMENTO DA 462ª SESSÃO. Menção equivocada à atualização pelo IPCA. Erro já sanado com a… | crsfn-10372-100033-2020-36-2 | fichas/crsfn/2022-07.md |
+| decisao-colegiado | 19957.008986/2021-28 | 2022-10-25 | — | Recurso contra decisão da SMI sobre pedido de acesso aos autos. Um diretor votou pelo não provimento, acompanhando a área técnica… | cvm-col-20221025-d2710 | fichas/colegiado/2022-14.md |
+| decisao-colegiado | 19957.004040/2020-10 | 2022-09-20 | parcial | O Colegiado, por unanimidade, acompanhou o voto do relator sobre pedido de produção de provas de acusado em PAS sobre relatórios de… | cvm-col-20220920-d2065 | fichas/colegiado/2022-13.md |
+| decisao-colegiado | 19957.004588/2020-51 | 2022-08-30 | outro | O Colegiado redistribuiu, por unanimidade, o PAS, por conexão com outros dois PAS (art. 36, II e §2º, Resolução CVM 45/2021), a outro… | cvm-col-20220830-d2301 | fichas/colegiado/2022-13.md |
+| decisao-colegiado | 19957.008816/2018-48; 19957.008143/2018-26; 19957.010958/2018-75 | 2022-08-30 | indeferido | O Colegiado reconheceu a inexistência de conexão entre três PAS sobre emissões de debêntures distintas, acompanhando o voto do relator: não… | cvm-col-20220830-d1497-1535-e-1572 | fichas/colegiado/2022-13.md |
+| decisao-colegiado | 19957.010316/2021-71 | 2022-08-02 | conhecimento | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.010316/2021-71. | cvm-col-20220802-d2661 | fichas/colegiado/2022-12.md |
+| decisao-colegiado | 19957.007862/2018-20 | 2022-08-02 | nao-provido | O Colegiado negou provimento, por unanimidade e acompanhando o voto do relator, a recurso contra despacho do diretor relator que indeferiu… | cvm-col-20220802-d1476 | fichas/colegiado/2022-12.md |
+| decisao-colegiado | 19957.001764/2018-89 | 2022-06-28 | — | Pedido de reconsideração da BRF S.A. contra decisão do Colegiado de 10.05.2022 que negou provimento a recurso contra intimações da SSR para… | cvm-col-20220628-d2578 | fichas/colegiado/2022-10.md |
+| decisao-colegiado | 19957.010592/2021-30 | 2022-06-07 | nao-provido | O Colegiado não conheceu do pedido de reconsideração da SLW CVC contra a decisão de 01.02.2022, que manteve multas cominatórias de R$… | cvm-col-20220607-d2469 | fichas/colegiado/2022-09.md |
+| decisao-colegiado | 19957.000482/2022-41 | 2022-05-24 | conhecimento | O Colegiado não conheceu do pedido de reconsideração da APDIMEC contra decisão que negou provimento a recurso sobre a negativa de certidão… | cvm-col-20220524-d2534 | fichas/colegiado/2022-08.md |
+| decisao-colegiado | 19957.008201/2021-17 | 2022-05-24 | conhecimento | O Colegiado não conheceu do pedido de reconsideração da Fram Capital DTVM contra decisão que manteve multas cominatórias da SIN por atraso… | cvm-col-20220524-d2462 | fichas/colegiado/2022-08.md |
+| decisao-colegiado | 19957.001764/2018-89 | 2022-05-10 | nao-provido | O Colegiado negou provimento a recurso da BRF S.A. contra decisão da SSR que manteve intimações da CVM para entrega de documentos… | cvm-col-20220510-d2578 | fichas/colegiado/2022-07.md |
+| decisao-colegiado | 19957.004478/2018-75 | 2022-05-10 | parcial | O Colegiado, por unanimidade, acompanhando o relator, indeferiu prova testemunhal pedida por acusado em PAS da SRE, por desnecessária para… | cvm-col-20220510-d1339 | fichas/colegiado/2022-07.md |
+| acordao-crsfn | RJ2016/5160 | 2022-05-10 | outro | EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE INTIMAÇÃO POR ESCRITO PARA A APRESENTAÇÃO DE DEFESA ADMINISTRATIVA DOS ACUSADOS, INEXISTÊNCIA DE… | crsfn-10372-100224-2019-64 | fichas/crsfn/2022-04.md |
+| acordao-crsfn | RJ2014/578 | 2022-05-05 | outro | EMBARGOS DE DECLARAÇÃO. OMISSÃO REFERENTE À ANÁLISE DA LIQUIDAÇÃO DAS GARANTIAS. OMISSÃO REFERENTE À CONCLUSÃO SOBRE A MANIPULAÇÃO DE… | crsfn-10372-100245-2019-80-2 | fichas/crsfn/2022-04.md |
+| acordao-crsfn | RJ2014/578 | 2022-04-13 | outro | EMBARGOS DE DECLARAÇÃO. Alegações sobre i) omissão referente à análise da liquidação das garantias; ii) omissão referente à conclusão sobre… | crsfn-edcl-10372-100245-2019-80 | fichas/crsfn/2022-04.md |
+| acordao-crsfn | RJ2018/6282 | 2022-04-13 | outro | EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÕES E CONTRADIÇÕES REFERENTES AO RECONHECIMENTO DA INTEMPESTIVIDADE DO RECURSO. Não apontamento… | crsfn-edcl-10372-100107-2020-34 | fichas/crsfn/2022-03.md |
+| acordao-crsfn | RJ2016/8143 | 2022-04-13 | outro | EMBARGOS DE DECLARAÇÃO. Alegação de omissão ou obscuridade referente a falta de fundamentação. Contradição referente a citação por edital… | crsfn-edcl-10372-100055-2020-04 | fichas/crsfn/2022-03.md |
+| decisao-colegiado | 19957.002796/2020-16 | 2022-03-15 | nao-provido | Pedido de reconsideração de decisão do colegiado. Proc. SEI 19957.002796/2020-16. | cvm-col-20220315-d1855 | fichas/colegiado/2022-03.md |
+| decisao-colegiado | 19957.008901/2016-44; 19957.006688/2016-36 | 2022-01-25 | outro | O Colegiado, por unanimidade, reconheceu a inexistência de conexão entre dois PAS (SEI 19957.008901/2016-44 e 19957.006688/2016-36)… | cvm-col-20220125-d0817-e-0766 | fichas/colegiado/2022-01.md |
+| decisao-colegiado | 19957.000695/2021-91 | 2021-12-14 | nao-provido | O Colegiado negou provimento a recurso de cotistas de FIP contra decisão da SIN que arquivou reclamação por prescrição quinquenal (Lei nº… | cvm-col-20211214-d2418 | fichas/colegiado/2021-22.md |
+| decisao-colegiado | 19957.002528/2021-85; 19957.000115/2019-41 | 2021-12-07 | indeferido | O Colegiado indeferiu o pedido de efeito suspensivo a recurso contra decisão que suspendeu por três anos a autorização do requerente para… | cvm-col-20211207-d1403 | fichas/colegiado/2021-21.md |
+| decisao-colegiado | 45/2021; 19957.009677/2021-75 | 2021-12-01 | — | Apresentação preliminar, sem deliberação, pela SPL e pela SPS sobre recomendação da CGU quanto à avaliação de prazos de interessados e… | cvm-col-20211201-d2404-2 | fichas/colegiado/2021-21.md |
+| decisao-colegiado | 19957.004079/2017-23 | 2021-11-23 | conhecimento | O Colegiado, por unanimidade, não conheceu do pedido de reconsideração contra decisão que negou provimento a recurso sobre reclassificação… | cvm-col-20211123-d2285 | fichas/colegiado/2021-20.md |
+| decisao-colegiado | 19957.011041/2019-79 | 2021-11-09 | conhecimento | O Colegiado, por unanimidade, não conheceu do recurso contra a decisão da SEP que deixou de instaurar processo por abuso de poder de… | cvm-col-20211109-d0733 | fichas/colegiado/2021-19.md |
+| acordao-crsfn | 13/2014 | 2021-11-09 | outro | EMBARGOS DE DECLARAÇÃO. Inexistência de omissão. Embargos conhecidos e rejeitados. | crsfn-10372-100058-2020-30-2 | fichas/crsfn/2021-05.md |
+| decisao-colegiado | 19957.001413/2015-25 | 2021-11-03 | outro | O Colegiado, por unanimidade e acompanhando a área técnica, entendeu que a documentação suporta o atesto do cumprimento da obrigação… | cvm-col-20211103-d1489 | fichas/colegiado/2021-18.md |
+| decisao-colegiado | 19957.002309/2021-04 | 2021-10-05 | conhecimento | O Colegiado não conheceu, por unanimidade, do pedido de reconsideração da Harmonia DTVM contra decisão que negou provimento a recurso sobre… | cvm-col-20211005-d2191 | fichas/colegiado/2021-16.md |
+| decisao-colegiado | 19957.004235/2020-51 | 2021-09-21 | conhecimento | Pedido de reconsideração de decisão do colegiado. Proc. SEI 19957.004235/2020-51. | cvm-col-20210921-d1854 | fichas/colegiado/2021-16.md |
+| decisao-colegiado | 19957.005637/2019-30; 19957.011657/2019-40 | 2021-09-21 | parcial | Em cumprimento a decisão judicial, o Colegiado reconheceu a nulidade dos atos do PAS posteriores à petição de 24.04.2020, sem nova citação… | cvm-col-20210921-d1800 | fichas/colegiado/2021-16.md |
+| decisao-colegiado | 19957.005047/2021-21 | 2021-09-14 | conhecimento | O Colegiado, acompanhando a SNC, não conheceu do pedido de reconsideração da Verdus Auditores Independentes e manteve a decisão que… | cvm-col-20210914-d2250 | fichas/colegiado/2021-15.md |
+| decisao-colegiado | 19957.006164/2021-11; 19957.010399/2018-01 | 2021-08-24 | indeferido | O Colegiado indeferiu, por unanimidade, acompanhando o voto da relatora, pedido de efeito suspensivo contra decisão que aplicou… | cvm-col-20210824-d1603 | fichas/colegiado/2021-14.md |
+| acordao-crsfn | RJ2015/2027 | 2021-08-11 | outro | EMBARGOS DE DECLARAÇÃO. Inexistência de omissões no Acórdão Embargado. Embargos rejeitados. | crsfn-edcl-10372-100333-2019-81 | fichas/crsfn/2021-04.md |
+| acordao-crsfn | SP2013/210 | 2021-08-11 | arquivamento | RECURSO VOLUNTÁRIO. Operação fraudulenta no mercado de valores imobiliários. Recurso conhecido e prescrição configurada (art. 1º, da Lei… | crsfn-10372-100139-2019-04 | fichas/crsfn/2021-03.md |
+| termo-compromisso | 19957.003795/2018-74 | 2021-08-10 | rejeitado | O Colegiado não conheceu de pedido de reconsideração contra a rejeição de termo de compromisso da Refinaria de Manguinhos e de outros… | cvm-col-20210810-d1950 | fichas/tc/2021-05.md |
+| decisao-colegiado | 19957.005731/2019-99 | 2021-07-27 | outro | O Colegiado redistribuiu, por conexão, o PAS 19957.005731/2019-99 do diretor originalmente relator à diretora relatora do PAS… | cvm-col-20210727-d1761 | fichas/colegiado/2021-12.md |
+| decisao-colegiado | 19957.006626/2020-19 | 2021-07-20 | outro | Por maioria, o Colegiado aprovou a proposta de alteração do Regulamento Processual da BSM, exceto o novo art. 8º, que teve manifestação… | cvm-col-20210720-d2235 | fichas/colegiado/2021-12.md |
+| decisao-colegiado | 19957.006936/2017-20; RJ2017/4199 | 2021-06-29 | indeferido | O Colegiado indeferiu pedidos de produção de provas da Cabedal Investimentos & Commodities Ltda. e de seu diretor responsável pela… | cvm-col-20210629-d1005 | fichas/colegiado/2021-10.md |
+| decisao-colegiado | 19957.007193/2019-77; 19957.006475/2020-91 | 2021-04-13 | conhecimento | O Colegiado, por unanimidade, acompanhando a área técnica, não conheceu de pedido de reconsideração de decisão que já havia negado recurso… | cvm-col-20210413-d2001 | fichas/colegiado/2021-06.md |
+| decisao-colegiado | 19957.005983/2019-18 | 2021-03-09 | parcial | O Colegiado, por unanimidade, acompanhou o voto do Presidente, relator, em pedido de produção de provas feito por fundos acionistas da… | cvm-col-20210309-d1675 | fichas/colegiado/2021-04.md |
+| decisao-colegiado | 19957.011657/2019-40 | 2021-02-09 | conhecimento | O Colegiado não conheceu, por unanimidade, do pedido de reconsideração do acusado contra o julgamento do PAS, em que alegava nulidade desde… | cvm-col-20210209-d1800 | fichas/colegiado/2021-02.md |
+| decisao-colegiado | 19957.000247/2021-98 | 2021-01-26 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.000247/2021-98. | cvm-col-20210126-d2042 | fichas/colegiado/2021-02.md |
+| decisao-colegiado | 19957.007193/2019-77; 19957.006475/2020-91 | 2021-01-26 | conhecimento | O Colegiado não conheceu de recurso ao CRSFN contra decisão sobre reclamação envolvendo demonstrações financeiras da BR Distribuidora, por… | cvm-col-20210126-d2001 | fichas/colegiado/2021-01.md |
+| decisao-colegiado | 19957.003513/2019-10 | 2021-01-19 | nao-provido | O Colegiado negou provimento, por unanimidade, a recurso contra decisão da SPS que concedeu acesso parcial a inquérito administrativo… | cvm-col-20210119-d2031 | fichas/colegiado/2021-01.md |
+| decisao-colegiado | 19957.000238/2019-82 | 2020-12-22 | conhecimento | O Colegiado, por unanimidade, não conheceu de pedido de reconsideração contra decisão que condenou o requerente à multa por distribuição e… | cvm-col-20201222-d1665 | fichas/colegiado/2020-21.md |
+| decisao-colegiado | RJ2014/13977; 19957.006752/2020-65 | 2020-12-15 | indeferido | O Colegiado, por unanimidade, acompanhando o voto do relator, indeferiu pedidos de efeito suspensivo contra decisão condenatória em PAS que… | cvm-col-20201215-d9750 | fichas/colegiado/2020-21.md |
+| decisao-colegiado | 19957.000701/2018-13; 11/2013 | 2020-12-15 | deferido | O Colegiado deferiu, acompanhando o Comitê, pedido de alteração das condições do Termo de Compromisso do PAS 11/2013, tornando sem efeito a… | cvm-col-20201215-d9564 | fichas/colegiado/2020-21.md |
+| decisao-colegiado | 19957.002526/2020-13 | 2020-12-15 | conhecimento | Pedido de reconsideração de decisão do colegiado. Proc. SEI 19957.002526/2020-13. | cvm-col-20201215-d1816 | fichas/colegiado/2020-21.md |
+| termo-compromisso | 19957.007605/2020-11 | 2020-11-24 | outro | O Colegiado acompanhou a proposta do Comitê de Termo de Compromisso para limitar a dez anos, contados da primeira apreciação pelo CTC, as… | cvm-col-20201124-d1965 | fichas/tc/2020-07.md |
+| decisao-colegiado | 19957.004297/2020-63 | 2020-11-17 | conhecimento | Pedido de reconsideração de decisão do colegiado. Proc. SEI 19957.004297/2020-63. | cvm-col-20201117-d1904 | fichas/colegiado/2020-19.md |
+| decisao-colegiado | 05/2014; 19957.011659/2019-39 | 2020-11-17 | indeferido | O Colegiado, por unanimidade, acompanhando o voto do relator, indeferiu pedido de produção de prova testemunhal em PAS sobre uso de… | cvm-col-20201117-d0308 | fichas/colegiado/2020-19.md |
+| acordao-crsfn | RJ2012/11002 | 2020-11-17 | outro | EMBARGOS DE DECLARAÇÃO. Embargos intempestivos. Não conhecimento. Retificação de dois itens do Acórdão - Autotutela Administrativa. | crsfn-edcl-185 | fichas/crsfn/2020-09.md |
+| decisao-colegiado | 19957.003611/2020-91; 19957.003612/2020-35 | 2020-11-03 | nao-provido | O Colegiado conheceu e negou provimento a pedido de reconsideração que pedia a correção do extrato da ata de reunião sobre pedido de acesso… | cvm-col-20201103-d1905 | fichas/colegiado/2020-18.md |
+| decisao-colegiado | 19957.009227/2017-04 | 2020-11-03 | parcial | O Colegiado deferiu pedido de produção extraordinária de prova (art. 58 da ICVM 607/2019) para juntada de nova documentação apresentada… | cvm-col-20201103-d0983 | fichas/colegiado/2020-18.md |
+| decisao-colegiado | 19957.005247/2020-01 | 2020-10-27 | conhecimento | O Colegiado não conheceu do pedido de reconsideração da IRB Brasil Resseguros contra decisão que deu provimento a recurso para obtenção de… | cvm-col-20201027-d1892 | fichas/colegiado/2020-18.md |
+| decisao-colegiado | 19957.006773/2020-81; 06/2007; 19957.003121/2015-27 | 2020-10-13 | indeferido | O Colegiado, por unanimidade, acompanhando o despacho do relator, indeferiu pedido de efeito suspensivo contra decisão condenatória em PAS… | cvm-col-20201013-d4403 | fichas/colegiado/2020-17.md |
+| decisao-colegiado | 19957.007543/2019-03 | 2020-10-06 | deferido | O Colegiado deferiu a reabertura do prazo para recurso ao CRSFN, por justa causa (único procurador internado por COVID-19), aplicando por… | cvm-col-20201006-d1688 | fichas/colegiado/2020-16.md |
+| decisao-colegiado | 19957.000592/2019-15 | 2020-10-06 | deferido | O Colegiado deferiu pedido de reabertura do prazo para recurso ao CRSFN contra condenação em PAS, acompanhando o relator e a PFE/CVM… | cvm-col-20201006-d1671 | fichas/colegiado/2020-16.md |
+| decisao-colegiado | 19957.007552/2016-43; RJ2016/7929 | 2020-09-22 | conhecimento | O Colegiado não conheceu de pedido de reconsideração da decisão que indeferiu prova documental complementar em PAS da SEP, por não se… | cvm-col-20200922-d0775 | fichas/colegiado/2020-15.md |
+| acordao-crsfn | RJ2016/5499 | 2020-09-21 | outro | EMBARGOS DE DECLARAÇÃO. Manifestação da CVM sobre citações com erros. Princípio da autotutela. Falha sanada. | crsfn-edcl-10372-100259-2018-12 | fichas/crsfn/2020-08.md |
+| acordao-crsfn | 08/2012 | 2020-09-15 | parcial | RECURSOS VOLUNTÁRIOS. Não Divulgação de Fato Relevante. Contabilização Inadequada de valores no balanço. Desvio de Poder. Fluência do prazo… | crsfn-10372-000204-2016-41 | fichas/crsfn/2020-06.md |
+| decisao-colegiado | 19957.003611/2020-91; 19957.003612/2020-35 | 2020-09-08 | nao-provido | O Colegiado, por unanimidade, negou provimento ao recurso de acesso aos autos de inquéritos administrativos, mantendo sigilo sobre parte… | cvm-col-20200908-d1905 | fichas/colegiado/2020-15.md |
+| decisao-colegiado | 19957.005393/2018-12 | 2020-09-01 | provido | O Colegiado deu provimento a recurso de fundo multimercado, acionista minoritário da CCR S.A., contra negativa de acesso integral a… | cvm-col-20200901-d1867 | fichas/colegiado/2020-14.md |
+| decisao-colegiado | 19957.007552/2016-43; RJ2016/7929 | 2020-08-25 | outro | O Colegiado indeferiu, por unanimidade, pedido genérico de produção de prova documental complementar de dois acusados em PAS da SEP sobre… | cvm-col-20200825-d0775 | fichas/colegiado/2020-13.md |
+| decisao-colegiado | 19957.006012/2016-42 | 2020-08-25 | indeferido | O Colegiado indeferiu pedido de efeito suspensivo contra decisão condenatória que impôs ao requerente proibição temporária de 24 meses de… | cvm-col-20200825-d0619 | fichas/colegiado/2020-13.md |
+| decisao-colegiado | 06/2016; 19957.011654/2019-14 | 2020-08-18 | outro | O Colegiado indeferiu, por unanimidade, pedidos genéricos de produção de provas (testemunhal, documental, perícia e depoimentos) de cinco… | cvm-col-20200818-d1511 | fichas/colegiado/2020-13.md |
+| decisao-colegiado | 05/2016; 19957.010647/2019-97 | 2020-08-18 | parcial | O Colegiado, acompanhando o relator, aproveitou atos do PAS CVM 06/2016, conexo, e indeferiu os demais pedidos de produção de prova no PAS… | cvm-col-20200818-d1494 | fichas/colegiado/2020-13.md |
+| decisao-colegiado | 19957.005789/2017-71; SP2017/0294 | 2020-08-18 | indeferido | O Colegiado indeferiu, por unanimidade, acompanhando o voto do relator, pedidos genéricos de produção de provas (oral, testemunhal e oitiva… | cvm-col-20200818-d0863 | fichas/colegiado/2020-13.md |
+| acordao-crsfn | 04/2013 | 2020-08-18 | condenacao | RECURSOS VOLUNTÁRIOS Operações cursadas para ajustar o resultado esperado a título de taxa de performance. Fluência do prazo trienal da… | crsfn-10372-000470-2016-74 | fichas/crsfn/2020-05.md |
+| acordao-crsfn | IA-2011-2 | 2020-08-18 | condenacao | RECURSOS VOLUNTÁRIOS. Abuso do poder de controle. Descumprimento do dever de diligência. Não divulgação de fato relevante. Violação de… | crsfn-10372-000380-2016-83 | fichas/crsfn/2020-05.md |
+| decisao-colegiado | 19957.003609/2017-16 | 2020-08-11 | deferido | O Colegiado, acompanhando o Comitê de Termo de Compromisso, deferiu pedido de prorrogação do prazo para pagamento das obrigações do termo… | cvm-col-20200811-d1782 | fichas/colegiado/2020-13.md |
+| decisao-colegiado | 19957.001413/2015-25; 21/2013 | 2020-08-11 | deferido | O Colegiado deferiu pedido da compromitente para alterar os prazos de pagamento das obrigações pecuniárias do Termo de Compromisso (PAS… | cvm-col-20200811-d1489 | fichas/colegiado/2020-12.md |
+| decisao-colegiado | 19957.009590/2018-01; 19957.000861/2019-35 | 2020-08-11 | deferido | O Colegiado, por unanimidade, deferiu prazo até 21.09.2020 para dois compromitentes pessoas naturais cumprirem a obrigação de… | cvm-col-20200811-d1321-1355 | fichas/colegiado/2020-12.md |
+| decisao-colegiado | 19957.011190/2019-38 | 2020-07-14 | indeferido | O Colegiado indeferiu, por unanimidade, acompanhando o voto do relator, pedido de produção de provas em PAS contra membro de conselho de… | cvm-col-20200714-d1813 | fichas/colegiado/2020-11.md |
+| decisao-colegiado | 19957.000238/2019-82 | 2020-07-14 | conhecimento | O Colegiado, acompanhando o parecer do Comitê de Termo de Compromisso, não conheceu de pedido de reconsideração da rejeição, em 04.02.2020… | cvm-col-20200714-d1665 | fichas/colegiado/2020-11.md |
+| decisao-colegiado | 19957.000115/2019-41 | 2020-07-07 | indeferido | O Colegiado indeferiu, por unanimidade, acompanhando o voto do relator, pedido genérico de produção de provas e pedido de denunciação da… | cvm-col-20200707-d1403 | fichas/colegiado/2020-11.md |
+| decisao-colegiado | 19957.005540/2018-46 | 2020-06-09 | conhecimento | O Colegiado não conheceu, por unanimidade, de recurso de três reclamantes contra o arquivamento, pela SMI, de reclamação contra corretora e… | cvm-col-20200609-d1832 | fichas/colegiado/2020-10.md |
+| decisao-colegiado | 19957.009351/2017-61 | 2020-06-09 | indeferido | O Colegiado indeferiu pedido do acusado de produção de prova em PAS por prática não equitativa em contratos de dólar, por entender… | cvm-col-20200609-d1009 | fichas/colegiado/2020-09.md |
+| decisao-colegiado | 19957.005933/2019-31; 19957.007695/2019-06; 19957.011012/2019-15 | 2020-06-02 | conhecimento | O Colegiado não conheceu, por unanimidade, de recursos de reclamantes contra decisões da SEP sobre Banco do Brasil e Cassi. Fundamentos… | cvm-col-20200602-d1822 | fichas/colegiado/2020-09.md |
+| decisao-colegiado | 19957.005983/2019-18 | 2020-05-05 | conhecimento | O Colegiado, por unanimidade, não conheceu de pedido de reconsideração de fundos geridos pela Argucia Capital contra decisão que indeferiu… | cvm-col-20200505-d1675 | fichas/colegiado/2020-07.md |
+| decisao-colegiado | 19957.000380/2020-63 | 2020-04-22 | conhecimento | Pedido de reconsideração de decisão do colegiado. Proc. SEI 19957.000380/2020-63. | cvm-col-20200422-d1704 | fichas/colegiado/2020-07.md |
+| decisao-colegiado | 19957.004070/2019-84 | 2020-04-14 | conhecimento | O Colegiado, por unanimidade, não conheceu de pedido de reconsideração de decisão do Colegiado que manteve o cancelamento de credenciamento… | cvm-col-20200414-d1458 | fichas/colegiado/2020-06.md |
+| decisao-colegiado | 19957.010274/2019-54 | 2020-04-07 | conhecimento | O Colegiado não conheceu, por unanimidade, de pedido de reconsideração de companhia contra decisão que dera provimento a recurso de… | cvm-col-20200407-d1667 | fichas/colegiado/2020-06.md |
+| decisao-colegiado | 19957.006304/2018-47 | 2020-03-24 | outro | O Colegiado redistribuiu, por unanimidade, PAS da relatoria de uma diretora ao diretor destinatário, por conexão com outros dois PAS (art… | cvm-col-20200324-d1230 | fichas/colegiado/2020-05.md |
+| decisao-colegiado | 19957.010637/2019-51; RJ2015/2386 | 2020-03-17 | indeferido | O Colegiado negou a admissibilidade excepcional de provas juntadas durante a suspensão do julgamento (art. 57, §5º, da Instrução CVM… | cvm-col-20200317-d9884 | fichas/colegiado/2020-05.md |
+| decisao-colegiado | 19957.005983/2019-18 | 2020-03-17 | nao-provido | O Colegiado negou provimento, por unanimidade, a recurso contra decisão da SEP que indeferiu a participação de fundos geridos por uma… | cvm-col-20200317-d1675 | fichas/colegiado/2020-05.md |
+| decisao-colegiado | 19957.003225/2018-84 | 2020-03-10 | indeferido | O Colegiado indeferiu o pedido da administradora de fundos de prorrogação do prazo para cumprimento de termo de compromisso, acompanhando o… | cvm-col-20200310-d1568 | fichas/colegiado/2020-04.md |
+| decisao-colegiado | 19957.004116/2017-01 | 2020-03-10 | outro | O Colegiado acompanhou o despacho do relator, que homologou o pedido de desistência de recurso de companhia contra decisão da SEP de não… | cvm-col-20200310-d0690 | fichas/colegiado/2020-04.md |
+| decisao-colegiado | 607/2019; 19957.010563/2018-72 | 2020-03-03 | conhecimento | O Colegiado, por unanimidade, não conheceu de recurso contra decisão da SEP que não lavrou termo de acusação no caso de abuso de poder de… | cvm-col-20200303-d1666 | fichas/colegiado/2020-04.md |
+| decisao-colegiado | 19957.006097/2018-21 | 2020-03-03 | conhecimento | O Colegiado não conheceu de recurso contra decisão da SIN que emitiu Ofício de Alerta à administradora de FIDC, por ser fundamentada e não… | cvm-col-20200303-d1510 | fichas/colegiado/2020-04.md |
+| decisao-colegiado | 19957.007006/2017-93; 19957.000885/2020-28 | 2020-02-18 | indeferido | O Colegiado, acompanhando o despacho do relator, indeferiu efeito suspensivo a recurso contra condenação em PAS que impôs inabilitação… | cvm-col-20200218-d1075 | fichas/colegiado/2020-03.md |
+| decisao-colegiado | 19957.008937/2019-71 | 2020-02-04 | conhecimento | O Colegiado, por unanimidade, não conheceu de pedido de reconsideração contra decisão que negou provimento a recurso sobre cancelamento de… | cvm-col-20200204-d1640 | fichas/colegiado/2020-02.md |
+| decisao-colegiado | 19957.008957/2019-41 | 2020-02-04 | conhecimento | O Colegiado, acompanhando a área técnica, não conheceu de pedido de reconsideração de decisão que negou provimento a recurso contra o… | cvm-col-20200204-d1633 | fichas/colegiado/2020-02.md |
+| decisao-colegiado | 19957.004938/2018-65 | 2020-01-14 | conhecimento | Pedido de reconsideração de decisão do colegiado. Proc. SEI 19957.004938/2018-65. | cvm-col-20200114-d1363 | fichas/colegiado/2020-01.md |
+| decisao-colegiado | 14/2013; 19957.000671/2020-51 | 2020-01-14 | outro | O Colegiado, por unanimidade, redistribuiu o PAS 14/2013 a outra diretora, por conexão com o PAS RJ2014/3161, nos termos do art. 36, §3º… | cvm-col-20200114-d0124 | fichas/colegiado/2020-01.md |
+| decisao-colegiado | RJ2014/3161 | 2019-11-26 | outro | Por unanimidade, o Colegiado aprovou nova definição jurídica dos fatos em PAS sobre aquisição de CCBs por fundos de investimento (art. 47… | cvm-col-20191126-d9961 | fichas/colegiado/2019-19.md |
+| decisao-colegiado | 19957.008455/2019-11 | 2019-11-26 | conhecimento | O Colegiado não conheceu do pedido de reconsideração da decisão de 08.10.2019 que indeferiu dispensa de apresentação do ITR de 30.06.2019… | cvm-col-20191126-d1569 | fichas/colegiado/2019-19.md |
+| decisao-colegiado | 08/2016 | 2019-11-26 | conhecimento | Por unanimidade, o Colegiado não conheceu do pedido de reconsideração de um dos acusados do PAS 08/2016 (Petrobras) contra o indeferimento… | cvm-col-20191126-d1173 | fichas/colegiado/2019-19.md |
+| decisao-colegiado | 14/2013 | 2019-11-26 | outro | O Colegiado, por unanimidade, aprovou nova definição jurídica dos fatos no PAS 14/2013 (art. 47, Instrução CVM 607/19). Para a diretora… | cvm-col-20191126-d0124 | fichas/colegiado/2019-19.md |
+| decisao-colegiado | 19957.004542/2017-37 | 2019-11-19 | indeferido | O Colegiado, acompanhando o voto da relatora, indeferiu por unanimidade os pedidos de produção de provas das requerentes em PAS sobre… | cvm-col-20191119-d0804 | fichas/colegiado/2019-18.md |
+| decisao-colegiado | 19957.007937/2016-19 | 2019-11-19 | indeferido | Por unanimidade, o Colegiado indeferiu pedidos de produção de provas das acusadas em PAS sobre oferta de contratos de investimento coletivo… | cvm-col-20191119-d0719 | fichas/colegiado/2019-18.md |
+| decisao-colegiado | RJ2015/13326 | 2019-11-05 | indeferido | O Colegiado, por unanimidade, indeferiu pedido de efeito suspensivo contra decisão condenatória que impôs a dois administradores da Brazal… | cvm-col-20191105-d0438 | fichas/colegiado/2019-17.md |
+| decisao-colegiado | 19957.007916/2019-38 | 2019-10-22 | parcial | O Colegiado, por unanimidade, deu provimento parcial a recurso da Vale S.A. contra decisão da SPS que negou acesso integral a inquérito… | cvm-col-20191022-d1582 | fichas/colegiado/2019-17.md |
+| decisao-colegiado | 14/2010 | 2019-10-15 | conhecimento | O Colegiado, por unanimidade, não conheceu do pedido de reconsideração de requerentes do PAS 14/2010 contra o indeferimento de produção de… | cvm-col-20191015-d8609 | fichas/colegiado/2019-17.md |
+| decisao-colegiado | 08/2016 | 2019-10-08 | indeferido | O Colegiado, acompanhando o voto do relator, indeferiu os pedidos de produção de provas apresentados por acusados no PAS 08/2016, sobre… | cvm-col-20191008-d1173 | fichas/colegiado/2019-16.md |
+| decisao-colegiado | 09/2016 | 2019-10-08 | indeferido | O Colegiado, acompanhando o voto do relator, indeferiu pedidos de produção de provas apresentados por acusados em PAS sobre deveres… | cvm-col-20191008-d0810 | fichas/colegiado/2019-16.md |
+| decisao-colegiado | 07/2015 | 2019-09-24 | indeferido | O Colegiado, por unanimidade e acompanhando o voto do relator, indeferiu os pedidos de produção de provas e outros requerimentos do acusado… | cvm-col-20190924-d0912 | fichas/colegiado/2019-15.md |
+| decisao-colegiado | 19957.005798/2018-42 | 2019-09-03 | conhecimento | Pedido de reconsideração de decisão do colegiado. Proc. SEI 19957.005798/2018-42. | cvm-col-20190903-d1406 | fichas/colegiado/2019-13.md |
+| decisao-colegiado | 19957.006097/2018-21 | 2019-08-27 | outro | O Colegiado iniciou a discussão de recurso contra decisão da SIN sobre pedido de vista integral de processo, com pedido de sigilo, e… | cvm-col-20190827-d1510 | fichas/colegiado/2019-13.md |
+| decisao-colegiado | 19957.002890/2015-16 | 2019-08-20 | conhecimento | Pedido de reconsideração de decisão do colegiado. Proc. SEI 19957.002890/2015-16. | cvm-col-20190820-d9228 | fichas/colegiado/2019-12.md |
+| decisao-colegiado | 21/2010 | 2019-08-13 | indeferido | O Colegiado, por unanimidade, indeferiu pedidos de produção de prova (oitiva de testemunhas, exibição de documentos e perícia) formulados… | cvm-col-20190813-d9868 | fichas/colegiado/2019-12.md |
+| decisao-colegiado | RJ2015/2386 | 2019-07-23 | nao-provido | O Colegiado, por unanimidade e acompanhando o voto da relatora, negou provimento ao recurso da ABICOM contra despacho que indeferiu sua… | cvm-col-20190723-d9884 | fichas/colegiado/2019-11.md |
+| acordao-crsfn | 11/2002 | 2019-07-23 | outro | EMBARGOS DE DECLARAÇÃO. Manifestação da Comissão de Valores Mobiliários em prazo e forma jurídica não reconhecidos pelo Regimento Interno… | crsfn-edcl-13747 | fichas/crsfn/2019-03.md |
+| decisao-colegiado | RJ2014/4077 | 2019-07-16 | indeferido | O Colegiado, por unanimidade, acompanhando o despacho do relator, indeferiu pedido de efeito suspensivo a recurso contra decisão… | cvm-col-20190716-d9579 | fichas/colegiado/2019-11.md |
+| decisao-colegiado | 19957.003194/2019-42 | 2019-07-02 | conhecimento | O Colegiado, por unanimidade, acompanhando a SRE, não conheceu do pedido de reconsideração da Opportunity Anafi Participações S.A. contra… | cvm-col-20190702-d1386 | fichas/colegiado/2019-10.md |
+| decisao-colegiado | 17/2013 | 2019-06-18 | indeferido | O Colegiado, por unanimidade, acompanhando o voto da relatora, indeferiu pedidos de produção de prova (depoimentos de testemunhas e das… | cvm-col-20190618-d0273 | fichas/colegiado/2019-09.md |
+| decisao-colegiado | RJ2013/8880 | 2019-05-28 | conhecimento | O Colegiado, por unanimidade, acompanhando o voto do relator, não conheceu de pedido de reconsideração de decisão que indeferiu produção de… | cvm-col-20190528-d8981 | fichas/colegiado/2019-09.md |
+| decisao-colegiado | 16/2010 | 2019-05-21 | indeferido | O Colegiado, por unanimidade, acompanhando o despacho do relator, indeferiu pedido de efeito suspensivo à decisão condenatória do PAS… | cvm-col-20190521-d0337-2 | fichas/colegiado/2019-08.md |
+| decisao-colegiado | 16/2010 | 2019-05-21 | indeferido | O Colegiado, por unanimidade, acompanhando o despacho do relator, indeferiu pedido de efeito suspensivo contra decisão condenatória do PAS… | cvm-col-20190521-d0337-1 | fichas/colegiado/2019-08.md |
+| decisao-colegiado | 02/2018; 19957.006565/2017-86 | 2019-05-15 | — | O Colegiado continuou a discussão dos documentos da Audiência Pública SDM 02/2018 sobre minuta de instrução que regulamenta o processo… | cvm-col-20190515-d2894 | fichas/colegiado/2019-08.md |
+| decisao-colegiado | RJ2014/6517 | 2019-04-30 | indeferido | O Colegiado, por unanimidade, acompanhando o despacho do relator, indeferiu pedido de juntada de processo CVM com mais de 6.000 folhas em… | cvm-col-20190430-d9468 | fichas/colegiado/2019-07.md |
+| decisao-colegiado | 06/2012 | 2019-04-09 | indeferido | O Colegiado, por unanimidade, acompanhando o voto do relator, indeferiu pedido de efeito suspensivo contra decisão condenatória do PAS… | cvm-col-20190409-d9998 | fichas/colegiado/2019-06.md |
+| decisao-colegiado | 19957.003410/2019-50 | 2019-04-09 | conhecimento | O Colegiado, por unanimidade, acompanhando a SRE, não conheceu do pedido de reconsideração da Pentágono S.A. DTVM contra decisão que não… | cvm-col-20190409-d1285 | fichas/colegiado/2019-06.md |
+| decisao-colegiado | 19957.003411/2019-02 | 2019-04-09 | conhecimento | O Colegiado, por unanimidade, acompanhando a SRE, não conheceu de pedido de reconsideração de decisão que negou autorização para a 8ª… | cvm-col-20190409-d1284 | fichas/colegiado/2019-06.md |
+| decisao-colegiado | 00783.006230/2018-50 | 2019-03-26 | outro | O Colegiado, por unanimidade, acompanhando a área técnica, decidiu, em consulta da SPS, que a contagem do prazo de inabilitação temporária… | cvm-col-20190326-d1354 | fichas/colegiado/2019-05.md |
+| decisao-colegiado | 19957.008798/2018-02 | 2019-03-12 | conhecimento | O Colegiado, por unanimidade, acompanhando a área técnica, não conheceu do pedido de reconsideração da Steluc Participações S.A. contra a… | cvm-col-20190312-d2-d1287 | fichas/colegiado/2019-04.md |
+| acordao-crsfn | RJ2011/2595 | 2019-02-26 | outro | EMBARGOS DE DECLARAÇÃO. Inexistência de omissão. Conhecidos e desprovidos. | crsfn-edcl-14180 | fichas/crsfn/2019-01.md |
+| decisao-colegiado | 19957.006406/2016-09 | 2019-02-19 | outro | O Colegiado aprovou nova definição jurídica dos fatos em PAS contra agente autônomo de investimento e sua empresa, trocando a infração ao… | cvm-col-20190219-d0772 | fichas/colegiado/2019-03.md |
+| decisao-colegiado | RJ2013/8880 | 2019-02-12 | conhecimento | O Colegiado indeferiu pedidos de produção de prova e não conheceu de recurso contra decisão anterior do próprio Colegiado no PAS sobre… | cvm-col-20190212-d8981 | fichas/colegiado/2019-03.md |
+| decisao-colegiado | 19957.008984/2016-71 | 2019-01-29 | indeferido | O Colegiado, por unanimidade, indeferiu pedido de efeito suspensivo contra decisão condenatória que suspendeu por dois anos o registro de… | cvm-col-20190129-d0838 | fichas/colegiado/2019-02.md |
+| decisao-colegiado | 22/2013 | 2019-01-22 | indeferido | O Colegiado indeferiu pedido de efeito suspensivo contra decisão condenatória que impôs proibição de atuar no mercado de valores… | cvm-col-20190122-d1057 | fichas/colegiado/2019-01.md |
+| decisao-colegiado | 14/2010 | 2019-01-15 | indeferido | O Colegiado, acompanhando o despacho do relator, indeferiu os pedidos de produção de prova formulados no PAS 14/2010 (perícia em notas de… | cvm-col-20190115-d8609 | fichas/colegiado/2019-01.md |
+| pas | RJ2017/2553 | 2018-12-18 | extincao | Permitir, como presidente das assembleias gerais ordinária e extraordinária, a eleição pelos acionistas minoritários com direito a voto de… | cvm-pas-rj2017-2553 | fichas/pas/2018-24.md |
+| termo-compromisso | 19957.011609/2017-90 | 2018-12-18 | outro | O Colegiado determinou o retorno da proposta de termo de compromisso ao Comitê de Termo de Compromisso, nos termos do parágrafo único do… | cvm-col-20181218-d1249 | fichas/tc/2018-07.md |
+| acordao-crsfn | RJ2014/10290 | 2018-12-12 | outro | Embargos de Declaração no Recurso Voluntário. Utilização de voto de qualidade em desfavor dos Embargantes. Não conhecimento. | crsfn-edcl-10372-100292-2017-61 | fichas/crsfn/2018-11.md |
+| decisao-colegiado | 19957.007121/2018-49 | 2018-12-04 | conhecimento | O Colegiado, por unanimidade, não conheceu do recurso de reclamantes contra decisão da SEP que não instaurou processo sancionador sobre… | cvm-col-20181204-d1163 | fichas/colegiado/2018-20.md |
+| decisao-colegiado | 19957.008099/2018-54 | 2018-12-04 | conhecimento | Pedido de reconsideração de decisão do colegiado. Proc. SEI 19957.008099/2018-54. | cvm-col-20181204-d1153 | fichas/colegiado/2018-20.md |
+| decisao-colegiado | 796/2018; 19957.007345/2018-51 | 2018-11-27 | nao-provido | O Colegiado, por unanimidade, acompanhando a SRE, indeferiu novo pedido de reconsideração da Orla DTVM contra a Deliberação CVM 796/18, que… | cvm-col-20181127-d1085 | fichas/colegiado/2018-20.md |
+| decisao-colegiado | 19957.009681/2017-57 | 2018-11-13 | parcial | O Colegiado, por maioria, autorizou a prorrogação de 10 dias do prazo para assinatura de Termo de Compromisso (até 29.11.18), e não os 30… | cvm-col-20181113-d1169 | fichas/colegiado/2018-19.md |
+| decisao-colegiado | 06/2012 | 2018-11-06 | conhecimento | O Colegiado, acompanhando o relator, não conheceu de pedido de reconsideração (embargos de declaração) contra decisão que inadmitiu… | cvm-col-20181106-d9998 | fichas/colegiado/2018-19.md |
+| termo-compromisso | 19957.011587/2017-68 | 2018-10-23 | outro | O Colegiado determinou o retorno da proposta de termo de compromisso ao Comitê de Termo de Compromisso, nos termos do parágrafo único do… | cvm-col-20181023-d1188 | fichas/tc/2018-05.md |
+| decisao-colegiado | RJ2016/1465 | 2018-10-23 | indeferido | O Colegiado, por unanimidade, indeferiu pedidos de efeito suspensivo de dois requerentes à decisão condenatória do PAS RJ2016/1465, que… | cvm-col-20181023-d0334 | fichas/colegiado/2018-18.md |
+| decisao-colegiado | RJ2015/12087 | 2018-10-23 | indeferido | O Colegiado, por unanimidade, acompanhando o relator, indeferiu pedido de efeito suspensivo do requerente contra condenação à inabilitação… | cvm-col-20181023-d0217 | fichas/colegiado/2018-18.md |
+| acordao-crsfn | RJ2013/1402 | 2018-10-19 | parcial | PEDIDO DE ESCLARECIMENTO. Recebido como Pedido de Revisão, sendo atribuído efeito modificativo ao acórdão para declarar a extinção da… | crsfn-revisao-14096 | fichas/crsfn/2018-09.md |
+| decisao-colegiado | 19957.003496/2016-78 | 2018-10-09 | indeferido | O Colegiado, por unanimidade, acompanhando o relator, indeferiu pedido de devolução de prazo para defesa de um acusado no PAS sobre não… | cvm-col-20181009-d0594 | fichas/colegiado/2018-18.md |
+| decisao-colegiado | 06/2012 | 2018-09-11 | nao-provido | O Colegiado, por unanimidade, acompanhando o diretor relator, não acolheu pedido de anulação do julgamento do PAS 06/2012 formulado pela… | cvm-col-20180911-d0998 | fichas/colegiado/2018-16.md |
+| decisao-colegiado | SP2013/0448 | 2018-09-11 | indeferido | O Colegiado, acompanhando o voto do relator, indeferiu pedido de efeito suspensivo de decisão que impôs proibição de três anos de atuar no… | cvm-col-20180911-d0275-item3 | fichas/colegiado/2018-16.md |
+| decisao-colegiado | SP2013/0448 | 2018-09-11 | indeferido | O Colegiado, por unanimidade, indeferiu pedido de efeito suspensivo à decisão condenatória do PAS SP2013/0448, que impôs ao requerente… | cvm-col-20180911-d0275-item2 | fichas/colegiado/2018-16.md |
+| decisao-colegiado | RJ2014/13353 | 2018-08-28 | parcial | O Colegiado, por unanimidade, acompanhando o relator, conheceu do pedido de reconsideração e, no mérito, indeferiu efeito suspensivo a… | cvm-col-20180828-d9798 | fichas/colegiado/2018-15.md |
+| decisao-colegiado | 19957.001068/2017-91 | 2018-08-28 | parcial | O Colegiado conheceu do pedido de reconsideração, reformando decisão que não conhecera do pedido de efeito suspensivo por intempestividade… | cvm-col-20180828-d0798 | fichas/colegiado/2018-15.md |
+| decisao-colegiado | 796/2018; 19957.007345/2018-51 | 2018-08-21 | outro | Em pedido de reconsideração da Orla DTVM S.A. contra a Deliberação CVM 796/2018 (proibição de um ano para atuar em ofertas com esforços… | cvm-col-20180821-d1085-19957-007345-2018-51 | fichas/colegiado/2018-14.md |
+| decisao-colegiado | 796/2018; 19957.007322/2018-46 | 2018-08-21 | outro | O Colegiado deferiu efeito suspensivo à proibição temporária de atuar em ofertas com esforços restritos imposta à agência Argus pela… | cvm-col-20180821-d1085-19957-007322-2018-46 | fichas/colegiado/2018-14.md |
+| decisao-colegiado | 13/2013 | 2018-08-21 | indeferido | O Colegiado, por unanimidade, indeferiu o pedido de produção de provas do requerente no PAS 13/2013: depoimento pessoal de representantes… | cvm-col-20180821-d0001 | fichas/colegiado/2018-14.md |
+| decisao-colegiado | 19957.010436/2017-92 | 2018-08-14 | conhecimento | O Colegiado, por unanimidade, acompanhando o SGE, não conheceu de pedido de reconsideração apresentado por fundo de investimento, como… | cvm-col-20180814-d1087 | fichas/colegiado/2018-14.md |
+| decisao-colegiado | 06/2012 | 2018-08-09 | indeferido | O Colegiado, por unanimidade, indeferiu o pedido de adiamento do julgamento do PAS 06/2012, acompanhando o relator, que manteve a data e… | cvm-col-20180809-d9998 | fichas/colegiado/2018-14.md |
+| decisao-colegiado | 19957.005977/2016-18 | 2018-08-07 | conhecimento | O Colegiado não conheceu, por unanimidade, de pedido de reconsideração contra condenação por manipulação de preços (spoofing; Instrução CVM… | cvm-col-20180807-d0702 | fichas/colegiado/2018-14.md |
+| decisao-colegiado | RJ2014/13157 | 2018-08-07 | conhecimento | Pedido de reconsideração de decisão do colegiado. Proc. RJ2014/13157. | cvm-col-20180807-d0059 | fichas/colegiado/2018-14.md |
+| decisao-colegiado | 19957.004628/2016-89; RJ2015/1321 | 2018-07-31 | conhecimento | Pedido de reconsideração de decisão do colegiado. Proc. SEI 19957.004628/2016-89 (PROC. RJ2015/1321). | cvm-col-20180731-d0062 | fichas/colegiado/2018-13.md |
+| decisao-colegiado | RJ2014/14763 | 2018-07-24 | indeferido | O Colegiado, por unanimidade, indeferiu pedido de efeito suspensivo a recurso contra suspensão por dois anos do registro de auditor… | cvm-col-20180724-d9997 | fichas/colegiado/2018-13.md |
+| decisao-colegiado | 19957.001068/2017-91 | 2018-07-17 | conhecimento | O Colegiado não conheceu, por unanimidade, de pedido de efeito suspensivo contra inabilitação de 5 anos (Lei 6.404/76, art. 245)… | cvm-col-20180717-d0798 | fichas/colegiado/2018-12.md |
+| decisao-colegiado | RJ2014/13977 | 2018-07-10 | nao-provido | O Colegiado, por unanimidade, acompanhando o voto do relator, negou provimento a recurso de acusado no PAS RJ2014/13977 (Forjas Taurus)… | cvm-col-20180710-d9750 | fichas/colegiado/2018-12.md |
+| decisao-colegiado | RJ2014/7704 | 2018-07-10 | deferido | O Colegiado deferiu, por unanimidade, pedido de efeito suspensivo contra suspensão por dois anos do registro de auditor independente… | cvm-col-20180710-d9563 | fichas/colegiado/2018-12.md |
+| decisao-colegiado | 19957.006989/2016-60 | 2018-07-10 | nao-provido | O Colegiado, por unanimidade, negou provimento a recurso de acusado, conselheiro de administração, contra indeferimento de apensamento de… | cvm-col-20180710-d0693 | fichas/colegiado/2018-12.md |
+| decisao-colegiado | 06/2012 | 2018-07-03 | deferido | O Colegiado, acompanhando o relator, deferiu pedido de acesso de acusados do PAS 06/2012 a provas produzidas em ação penal e compartilhadas… | cvm-col-20180703-d9998 | fichas/colegiado/2018-11.md |
+| decisao-colegiado | 19957.004930/2016-37 | 2018-07-03 | outro | O Colegiado redistribuiu, por unanimidade, o PAS 19957.004930/2016-37, até então sob outro diretor, ao diretor relator designado, por… | cvm-col-20180703-d0605 | fichas/colegiado/2018-11.md |
+| decisao-colegiado | RJ2014/13353 | 2018-06-26 | indeferido | O Colegiado, por unanimidade, indeferiu pedido de efeito suspensivo a recurso contra condenação à inabilitação por dois anos para… | cvm-col-20180626-d9798 | fichas/colegiado/2018-11.md |
+| decisao-colegiado | 19957.003158/2017-17 | 2018-06-19 | nao-provido | O Colegiado negou provimento, por unanimidade, a recurso contra decisão da SMI que concedeu parcialmente vista de processo investigativo… | cvm-col-20180619-d1060 | fichas/colegiado/2018-11.md |
+| decisao-colegiado | 19957.003426/2017-09 | 2018-06-19 | conhecimento | Pedido de reconsideração de decisão do colegiado. Proc. SEI 19957.003426/2017-09. | cvm-col-20180619-d0670 | fichas/colegiado/2018-10.md |
+| decisao-colegiado | RJ2016/6384 | 2018-06-19 | conhecimento | O Colegiado, por unanimidade, não conheceu de pedido de reconsideração de decisão que manteve o indeferimento da inclusão de contador como… | cvm-col-20180619-d0455 | fichas/colegiado/2018-10.md |
+| decisao-colegiado | 19957.009227/2017-04 | 2018-06-05 | deferido | O Colegiado deferiu, por unanimidade, pedido de vista e cópia integral dos autos de PAS formulado pela Petrobras, entidade auditada… | cvm-col-20180605-d0983 | fichas/colegiado/2018-10.md |
+| decisao-colegiado | 01/2011 | 2018-05-29 | indeferido | O Colegiado indeferiu, por unanimidade, pedido de efeito suspensivo contra decisão que impôs inabilitação de 8 anos a ex-administrador de… | cvm-col-20180529-d9229 | fichas/colegiado/2018-10.md |
+| decisao-colegiado | 538/2008; 19957.006565/2017-86 | 2018-05-25 | — | O Colegiado continuou a discussão da minuta de instrução que regulamenta o processo administrativo sancionador conforme a Lei 13.506/2017… | cvm-col-20180525-d2894 | fichas/colegiado/2018-10.md |
+| decisao-colegiado | RJ2013/8609 | 2018-05-15 | indeferido | O Colegiado, acompanhando o despacho do relator, indeferiu pedido de um acusado para intimar a HRT Participações em Petróleo S.A. a… | cvm-col-20180515-d897814 | fichas/colegiado/2018-09.md |
+| decisao-colegiado | 19957.003818/2018-41 | 2018-05-15 | conhecimento | O Colegiado, por unanimidade, acompanhando a área técnica, não conheceu de pedido de reconsideração da Eletropaulo sobre o procedimento de… | cvm-col-20180515-d1024-pedidoreconsid | fichas/colegiado/2018-09.md |
+| decisao-colegiado | 19957.000115/2017-80 | 2018-05-08 | conhecimento | O Colegiado, acompanhando o relator, não conheceu do pedido de reconsideração da CSN contra decisão que manteve a não incidência de OPA por… | cvm-col-20180508-d0547 | fichas/colegiado/2018-09.md |
+| decisao-colegiado | 01/2011 | 2018-05-02 | indeferido | O Colegiado, por unanimidade, conheceu parcialmente de pedido de efeito suspensivo a recurso contra condenação em PAS (inabilitação de 8… | cvm-col-20180502-d9229 | fichas/colegiado/2018-09.md |
+| decisao-colegiado | 19957.000062/2018-88 | 2018-04-24 | conhecimento | Pedido de reconsideração de decisão do colegiado. Proc. SEI 19957.000062/2018-88. | cvm-col-20180424-d0890 | fichas/colegiado/2018-08.md |
+| decisao-colegiado | 02/2013 | 2018-04-24 | nao-provido | O Colegiado negou provimento, por unanimidade, ao recurso contra decisão do relator que indeferiu oitiva de profissionais da KPMG e da LF… | cvm-col-20180424-d0227 | fichas/colegiado/2018-08.md |
+| decisao-colegiado | 19957.006804/2017-06 | 2018-04-17 | conhecimento | O Colegiado não conheceu, por unanimidade, do pedido de reconsideração da Bridge Administradora de Recursos Ltda. contra decisão que negou… | cvm-col-20180417-d0895 | fichas/colegiado/2018-07.md |
+| decisao-colegiado | 19957.004829/2016-86 | 2018-04-10 | nao-provido | O Colegiado, por unanimidade, negou provimento a recurso contra decisão da SMI que indeferiu pedido de vista a processo de investigação… | cvm-col-20180410-d1011 | fichas/colegiado/2018-07.md |
+| decisao-colegiado | RJ2014/13977 | 2018-04-03 | nao-provido | O Colegiado, acompanhando o voto do relator, negou provimento a recurso de acusado contra despacho que indeferiu pedido genérico de… | cvm-col-20180403-d9750 | fichas/colegiado/2018-07.md |
+| decisao-colegiado | 19957.001623/2016-02 | 2018-04-03 | conhecimento | O Colegiado, por unanimidade, acompanhando o relator, não conheceu de pedido de reconsideração que buscava rediscutir o tratamento contábil… | cvm-col-20180403-d0750 | fichas/colegiado/2018-07.md |
+| decisao-colegiado | 19957.001809/2016-53 | 2018-03-27 | conhecimento | Recurso contra decisão da SMI. Proc. SEI 19957.001809/2016-53. | cvm-col-20180327-d0999 | fichas/colegiado/2018-06.md |
+| decisao-colegiado | RJ2014/9881 | 2018-03-27 | outro | O Colegiado, por unanimidade, acompanhou o voto do Presidente em consulta sobre prescrição do depósito do valor de resgate de ações após… | cvm-col-20180327-d0886 | fichas/colegiado/2018-06.md |
+| decisao-colegiado | 538/2008; 19957.006565/2017-86 | 2018-03-23 | — | O Colegiado continuou a discussão da minuta de instrução que regulamenta o processo administrativo sancionador conforme a Lei 13.506/2017 e… | cvm-col-20180323-d2894 | fichas/colegiado/2018-06.md |
+| decisao-colegiado | 19957.006989/2016-60 | 2018-03-20 | outro | O Colegiado, por unanimidade, redistribuiu PAS de um diretor relator a outro, por conexão com o PAS RJ2014/13977, nos termos do art. 5º-A… | cvm-col-20180320-d0693 | fichas/colegiado/2018-06.md |
+| decisao-colegiado | 19957.008144/2016-17; RJ2016/2365 | 2018-03-13 | conhecimento | O Colegiado não conheceu, por unanimidade, do pedido de reconsideração da Claritas Administração de Recursos contra decisão que indeferiu… | cvm-col-20180313-d0329 | fichas/colegiado/2018-05.md |
+| decisao-colegiado | 19957.009227/2017-04 | 2018-03-06 | nao-provido | O Colegiado negou provimento, por unanimidade, ao recurso de ex-membro de conselho de administração contra decisão da SNC que concedeu… | cvm-col-20180306-d0983 | fichas/colegiado/2018-05.md |
+| decisao-colegiado | 19957.011269/2017-05 | 2018-02-27 | conhecimento | Pedido de reconsideração de decisão do colegiado. Proc. SEI 19957.011269/2017-05. | cvm-col-20180227-d0870 | fichas/colegiado/2018-04.md |
+| decisao-colegiado | 19957.006319/2017-24 | 2018-02-27 | nao-provido | O Colegiado, por unanimidade, acompanhou o voto do relator e não conheceu de pedido de reconsideração contra decisão que negou certidão do… | cvm-col-20180227-d0795 | fichas/colegiado/2018-04.md |
+| decisao-colegiado | 19957.009044/2016-08 | 2018-02-27 | conhecimento | Pedido de reconsideração de decisão do colegiado. Proc. SEI 19957.009044/2016-08. | cvm-col-20180227-d0771 | fichas/colegiado/2018-04.md |
+| decisao-colegiado | 19957.005789/2017-71; RJ2015/3346 | 2018-02-15 | conhecimento | O Colegiado, por unanimidade, não conheceu do pedido de reconsideração da Petrobras e de outro recorrente contra decisão de 12.12.2017 que… | cvm-col-20180215-d0863 | fichas/colegiado/2018-03.md |
+| decisao-colegiado | 19957.000647/2018-06 | 2018-02-06 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SMI que concedeu vista parcial de processo administrativo arquivado, negando… | cvm-col-20180206-d0928 | fichas/colegiado/2018-03.md |
+| decisao-colegiado | RJ2013/8609 | 2018-01-16 | deferido | O Colegiado, por unanimidade, deferiu pedido de anulação do julgamento do PAS RJ2013/8609, que condenou o requerente a multa de R$… | cvm-col-20180116-d8978 | fichas/colegiado/2018-01.md |
+| decisao-colegiado | 07/2012 | 2018-01-09 | deferido | O Colegiado, por unanimidade, acompanhou o voto do diretor relator que declarou a invalidade parcial do acórdão do PAS 07/2012, quanto a um… | cvm-col-20180109-d9317 | fichas/colegiado/2018-01.md |
+| decisao-colegiado | 19957.005789/2017-71; RJ2015/3346 | 2017-12-12 | parcial | O Colegiado deu provimento parcial a recursos da Petrobras e de administradores contra decisão da SEP que entendeu não haver base legal… | cvm-col-20171212-d0863 | fichas/colegiado/2017-20.md |
+| decisao-colegiado | SP2014/0017 | 2017-11-14 | nao-provido | O Colegiado, acompanhando o relator, indeferiu pedido de reconsideração de decisão de 14.07.2015 sobre falhas informacionais no Relatório… | cvm-col-20171114-d9208 | fichas/colegiado/2017-19.md |
+| decisao-colegiado | 01/2011 | 2017-10-31 | indeferido | O Colegiado, por unanimidade, indeferiu pedido de suspensão do PAS 01/2011 até decisão criminal e pedido de produção de prova contábil… | cvm-col-20171031-d9229-1 | fichas/colegiado/2017-18.md |
+| decisao-colegiado | RJ2015/13325 | 2017-10-31 | outro | Após comunicação do SGE sobre erro material no termo de compromisso cujo cumprimento a SAD atestara em 03.10.2017, o Colegiado tornou sem… | cvm-col-20171031-d0346 | fichas/colegiado/2017-18.md |
+| decisao-colegiado | 19957.002477/2016-24; RJ2016/4573 | 2017-10-17 | outro | O Colegiado, com base na manifestação da SAD, admitiu por unanimidade o cumprimento do Termo de Compromisso de membro do conselho de… | cvm-col-20171017-d0618 | fichas/colegiado/2017-18.md |
+| decisao-colegiado | 19957.002928/2016-23 | 2017-10-17 | conhecimento | O Colegiado, pelo voto do relator, não conheceu de recursos da Solidez CCTVM e de seu diretor contra decisão da SMI, mantendo decisões da… | cvm-col-20171017-d0302 | fichas/colegiado/2017-17.md |
+| decisao-colegiado | RJ2013/2759 | 2017-10-03 | outro | O Colegiado, por unanimidade, aprovou a recapitulação da infração proposta pelo relator em PAS sobre voto em separado na eleição de… | cvm-col-20171003-d9210 | fichas/colegiado/2017-17.md |
+| decisao-colegiado | RJ2015/13325 | 2017-10-03 | outro | O Colegiado determinou o arquivamento, em relação ao compromitente, do processo de termo de compromisso, após a SAD atestar o pagamento… | cvm-col-20171003-d0346 | fichas/colegiado/2017-16.md |
+| decisao-colegiado | RJ2013/13172 | 2017-08-29 | conhecimento | O Colegiado, por unanimidade, não conheceu de pedido de novo julgamento (art. 942 do CPC) apresentado após condenação por maioria, em… | cvm-col-20170829-d8771 | fichas/colegiado/2017-15.md |
+| decisao-colegiado | RJ2015/12854 | 2017-08-29 | conhecimento | Pedido de reconsideração de decisão do colegiado. Proc. RJ2015/12854. | cvm-col-20170829-d10006 | fichas/colegiado/2017-15.md |
+| decisao-colegiado | RJ2013/7516 | 2017-08-08 | conhecimento | O Colegiado não conheceu de pedido de reconsideração de terceiro contra decisão de 11.7.2017 que deu provimento a recurso da Petrobras… | cvm-col-20170808-d0599 | fichas/colegiado/2017-14.md |
+| decisao-colegiado | 19957.002332/2017-12 | 2017-08-01 | conhecimento | Pedido de reconsideração de decisão do colegiado. Proc. SEI 19957.002332/2017-12. | cvm-col-20170801-d0672 | fichas/colegiado/2017-13.md |
+| decisao-colegiado | RJ2012/8574 | 2017-07-11 | conhecimento | Pedido de reconsideração de decisão do colegiado. Proc. RJ2012/8574. | cvm-col-20170711-d8763 | fichas/colegiado/2017-13.md |
+| termo-compromisso | 19957.006844/2016-69; RJ2016/7674 | 2017-07-04 | outro | O Colegiado, por unanimidade, tornou sem efeito sua decisão de 16.5.2017, que superara a preliminar de intempestividade de proposta de… | cvm-col-20170704-d0680 | fichas/tc/2017-03.md |
+| decisao-colegiado | 19957.008144/2016-17; RJ2016/2365 | 2017-06-13 | outro | O Colegiado determinou a distribuição, por sorteio, a um diretor relator, de pedido de reconsideração sobre aquisição de cotas do Domo FII… | cvm-col-20170613-d0329 | fichas/colegiado/2017-11.md |
+| termo-compromisso | 19957.006844/2016-69; RJ2016/7674 | 2017-05-16 | outro | O Colegiado, por unanimidade, afastou a preliminar de intempestividade apontada pela PFE e permitiu a análise de proposta de termo de… | cvm-col-20170516-d0680 | fichas/tc/2017-02.md |
+| decisao-colegiado | 19957.001108/2017-03 | 2017-05-16 | conhecimento | O Colegiado, por unanimidade, não conheceu recurso contra decisão da SEP de não instaurar processo administrativo sancionador sobre voto de… | cvm-col-20170516-d0589 | fichas/colegiado/2017-10.md |
+| decisao-colegiado | 19957.002115/2016-33 | 2017-04-25 | conhecimento | Pedido de reconsideração de decisão do colegiado. Proc. SEI 19957.002115/2016-33. | cvm-col-20170425-d0579 | fichas/colegiado/2017-09.md |
+| decisao-colegiado | — | 2017-04-18 | outro | O Colegiado aprovou proposta de diretor, em conjunto com a CGP, que altera a Deliberação CVM 558/2008 para regular sorteio de processos… | cvm-col-20170418-d6213 | fichas/colegiado/2017-08.md |
+| decisao-colegiado | RJ2013/7516 | 2017-04-18 | — | Registro, para ciência do Colegiado, do entendimento do diretor relator de que o prazo de análise do item VIII da Deliberação CVM 463/2006… | cvm-col-20170418-d0599 | fichas/colegiado/2017-08.md |
+| decisao-colegiado | RJ2013/12872 | 2017-04-18 | outro | O Colegiado determinou o arquivamento do processo de cumprimento de termo de compromisso do Banco Olé Bonsucesso Consignado S.A., após a… | cvm-col-20170418-d0338 | fichas/colegiado/2017-08.md |
+| decisao-colegiado | RJ2013/6294 | 2017-03-21 | outro | O Colegiado determinou, por unanimidade, a continuidade do processo sancionador contra três acusados que não comprovaram o cumprimento da… | cvm-col-20170321-d9437 | fichas/colegiado/2017-06.md |
+| decisao-colegiado | RJ2014/6517 | 2017-03-14 | nao-provido | O Colegiado, por unanimidade, acompanhou o voto do relator e negou provimento ao recurso do acusado contra decisão de diretora relatora que… | cvm-col-20170314-d9468 | fichas/colegiado/2017-05.md |
+| decisao-colegiado | 19957.005894/2016-29 | 2017-03-14 | conhecimento | O Colegiado não conheceu de recurso contra decisão da SEP que concedeu vista parcial de processo e dilação de prazo, por perda de objeto… | cvm-col-20170314-d0349 | fichas/colegiado/2017-05.md |
+| decisao-colegiado | RJ2014/11715; 19957.001098/2016-17 | 2017-03-14 | conhecimento | O Colegiado não conheceu, por unanimidade, pedido de reconsideração da SEP contra decisão de 13/12/2016 que deu provimento a recurso da Via… | cvm-col-20170314-d0158 | fichas/colegiado/2017-05.md |
+| decisao-colegiado | RJ2013/10460 | 2017-02-21 | conhecimento | O Colegiado, por unanimidade, acompanhando o voto do relator, não conheceu do recurso de representante de acionista minoritário contra… | cvm-col-20170221-d9580 | fichas/colegiado/2017-05.md |
+| decisao-colegiado | SP2013/0295 | 2017-02-14 | outro | Cumprimento de termo de compromisso. Proc. SP2013/0295. | cvm-col-20170214-d9987 | fichas/colegiado/2017-04.md |
+| decisao-colegiado | RJ2015/2077 | 2017-01-24 | outro | O Colegiado determinou o arquivamento do processo de cumprimento de Termo de Compromisso. Considerou a manifestação da SAD de que o… | cvm-col-20170124-d9986 | fichas/colegiado/2017-03.md |
+| decisao-colegiado | RJ2015/3569 | 2017-01-24 | outro | O Colegiado determinou o arquivamento do processo após a SAD atestar que os pagamentos previstos no Termo de Compromisso ocorreram na forma… | cvm-col-20170124-d0215 | fichas/colegiado/2017-02.md |
+| decisao-colegiado | RJ2013/11703 | 2017-01-17 | — | Proposta de nova definição jurídica dos fatos, nos termos do art. 25 da Deliberação CVM 538/2008, na acusação da SEP no PAS RJ2013/11703… | cvm-col-20170117-d9211 | fichas/colegiado/2017-02.md |
+| decisao-colegiado | RJ2015/6842 | 2017-01-03 | outro | O Colegiado determinou o arquivamento do processo após a SAD atestar que o pagamento previsto no Termo de Compromisso ocorreu na forma… | cvm-col-20170103-d0297 | fichas/colegiado/2017-01.md |
+| acordao-crsfn | CVM17/2006 | 2016-12-13 | outro | PEDIDO DE ESCLARECIMENTOS. Prazo para interposição conta-se da data de divulgação do acórdão no site do Conselho, conforme disposição… | crsfn-monocratica-13977 | fichas/crsfn/2016-10.md |
+| decisao-colegiado | RJ2012/11002 | 2016-11-22 | indeferido | O Colegiado indeferiu pedido de desentranhamento de documentos dos autos do PAS, já desconsiderados na análise de mérito por decisão… | cvm-col-20161122-d8703rp | fichas/colegiado/2016-23.md |
+| decisao-colegiado | RJ2012/11002 | 2016-11-22 | indeferido | O Colegiado, por unanimidade, indeferiu todos os pedidos de um requerente no PAS RJ2012/11002: prova pericial e testemunhal, juntada de… | cvm-col-20161122-d8703m | fichas/colegiado/2016-23.md |
+| decisao-colegiado | RJ2016/1261 | 2016-11-08 | outro | O Colegiado determinou o arquivamento do processo em relação ao compromitente Discovery Capital Management LLC, após a SAD atestar que o… | cvm-col-20161108-d0078 | fichas/colegiado/2016-22.md |
+| decisao-colegiado | RJ2013/11703 | 2016-10-25 | — | Apreciação de proposta de nova definição jurídica dos fatos (art. 25 da Deliberação CVM 538/2008) na acusação da SEP no PAS RJ2013/11703… | cvm-col-20161025-d9211 | fichas/colegiado/2016-21.md |
+| decisao-colegiado | RJ2013/0267 | 2016-10-20 | conhecimento | Pedido de reconsideração de decisão do colegiado. Proc. RJ2013/0267. | cvm-col-20161020-d8723 | fichas/colegiado/2016-21.md |
+| decisao-colegiado | RJ2012/11002 | 2016-10-20 | indeferido | O Colegiado indeferiu, por unanimidade, o pedido de nulidade da oitiva do requerente no PAS RJ2012/11002, acompanhando o voto do relator… | cvm-col-20161020-d8703 | fichas/colegiado/2016-21.md |
+| decisao-colegiado | RJ2015/3974 | 2016-10-20 | outro | O Colegiado determinou o arquivamento do PAS RJ2015/3974, após a SAD atestar que o pagamento previsto no termo de compromisso, aprovado em… | cvm-col-20161020-d0276 | fichas/colegiado/2016-20.md |
+| decisao-colegiado | RJ2014/13902 | 2016-10-20 | outro | O Colegiado determinou o arquivamento do PAS RJ2014/13902 em relação à Bancoob Distribuidora de Títulos e Valores Mobiliários Ltda… | cvm-col-20161020-d0184 | fichas/colegiado/2016-20.md |
+| decisao-colegiado | RJ2014/14760 | 2016-09-27 | outro | O Colegiado determinou o arquivamento do processo de cumprimento do Termo de Compromisso celebrado por Loudon Blomquist Auditores… | cvm-col-20160927-d9963 | fichas/colegiado/2016-19.md |
+| decisao-colegiado | RJ2013/8697 | 2016-09-27 | indeferido | O Colegiado indeferiu pedido de novo prazo de dez dias para pagamento de obrigação de Termo de Compromisso no PAS RJ2013/8697, apresentado… | cvm-col-20160927-d9574 | fichas/colegiado/2016-19.md |
+| decisao-colegiado | 19957.001449/2016-90; RJ2016/4013 | 2016-09-27 | outro | O Colegiado declarou extinta a punibilidade do único acusado no PAS RJ2016/4013 (SEP; cômputo de votos em reunião do Conselho de… | cvm-col-20160927-d0270 | fichas/colegiado/2016-18.md |
+| termo-compromisso | 03/2012 | 2016-09-20 | rejeitado | O Colegiado indeferiu pedido de reconsideração de decisão de 08.03.2016 que rejeitou novas propostas de Termo de Compromisso, de R$… | cvm-col-20160920-d9489 | fichas/tc/2016-04.md |
+| decisao-colegiado | RJ2012/11002 | 2016-09-13 | conhecimento | O Colegiado não admitiu recurso ao CRSFN contra decisão que determinou desconsiderar, na análise de mérito do PAS RJ2012/11002, documentos… | cvm-col-20160913-d8703 | fichas/colegiado/2016-18.md |
+| decisao-colegiado | RJ2015/6124 | 2016-09-13 | deferido | Por maioria, o Colegiado deferiu a prorrogação do prazo de pagamento de termos de compromisso de quatro compromitentes até o primeiro dia… | cvm-col-20160913-d0216 | fichas/colegiado/2016-17.md |
+| decisao-colegiado | 01/2007 | 2016-08-30 | nao-provido | O Colegiado indeferiu, por unanimidade, recurso contra negativa de diligências (oitivas da própria recorrente e de terceiro) no PAS… | cvm-col-20160830-d7214 | fichas/colegiado/2016-16.md |
+| decisao-colegiado | RJ2014/9994 | 2016-08-30 | deferido | O Colegiado autorizou, por unanimidade, a prorrogação, até 12.09.2016, do prazo para cumprimento de Termo de Compromisso no processo… | cvm-col-20160830-d0207 | fichas/colegiado/2016-16.md |
+| decisao-colegiado | RJ2012/11002 | 2016-08-16 | parcial | O Colegiado acompanhou o voto do diretor relator em pedidos de prova no PAS da Mundial S.A. Produtos de Consumo: indeferiu a oitiva de… | cvm-col-20160816-d8703 | fichas/colegiado/2016-16.md |
+| decisao-colegiado | RJ2014/0915 | 2016-08-09 | outro | O Colegiado determinou o arquivamento do processo de cumprimento de Termo de Compromisso celebrado no PAS RJ2014/0915 com o grupo Itautec… | cvm-col-20160809-d9947 | fichas/colegiado/2016-16.md |
+| decisao-colegiado | RJ2015/10623 | 2016-08-09 | conhecimento | Embargos de declaração. Proc. RJ2015/10623. | cvm-col-20160809-d9911 | fichas/colegiado/2016-16.md |
+| decisao-colegiado | RJ2008/8046 | 2016-08-02 | indeferido | O Colegiado indeferiu, por unanimidade, novo pedido da Construtora Lix da Cunha S.A. de prorrogação do prazo do Termo de Compromisso no PAS… | cvm-col-20160802-d6505 | fichas/colegiado/2016-15.md |
+| decisao-colegiado | 19957.004743/2016-53 | 2016-08-02 | conhecimento | O Colegiado deliberou pela perda do objeto de pedido de reconsideração da Saraiva S.A. Livreiros Editores contra decisão de 21.07.2016 que… | cvm-col-20160802-d0306 | fichas/colegiado/2016-15.md |
+| decisao-colegiado | RJ2013/6183 | 2016-07-26 | outro | O Colegiado aprovou, nos termos da proposta do relator, a recapitulação de infração em PAS da SEP sobre aquisição de créditos imobiliários… | cvm-col-20160726-d8565 | fichas/colegiado/2016-15.md |
+| decisao-colegiado | RJ2014/11126 | 2016-07-19 | outro | O Colegiado declarou a perda do objeto do recurso de membros do conselho de administração da Usinas Siderúrgicas de Minas Gerais S.A… | cvm-col-20160719-d0195 | fichas/colegiado/2016-14.md |
+| decisao-colegiado | RJ2014/0027 | 2016-07-05 | outro | O Colegiado determinou o arquivamento do processo quanto aos compromitentes (uma pessoa física, o BNDES e a BNDESPAR), por manifestação da… | cvm-col-20160705-d8977 | fichas/colegiado/2016-14.md |
+| decisao-colegiado | RJ2015/1652 | 2016-06-28 | outro | O Colegiado determinou o arquivamento do processo de cumprimento de termo de compromisso firmado por três membros do conselho de… | cvm-col-20160628-d0023 | fichas/colegiado/2016-13.md |
+| decisao-colegiado | RJ2015/2239 | 2016-06-28 | outro | O Colegiado determinou o arquivamento do processo após a SAD atestar o cumprimento do Termo de Compromisso celebrado pelo Banco Modal S.A… | cvm-col-20160628-d0022 | fichas/colegiado/2016-13.md |
+| decisao-colegiado | RJ2013/13172 | 2016-06-14 | conhecimento | O Colegiado inadmitiu pedido de reconsideração de decisão em PAS por intempestividade: apresentado 15 dias após a publicação, quando o… | cvm-col-20160614-d8771 | fichas/colegiado/2016-12.md |
+| decisao-colegiado | RJ2014/9695 | 2016-05-31 | outro | O Colegiado determinou o arquivamento do processo de cumprimento de termo de compromisso firmado por diretores da Ideiasnet S.A. (Proc… | cvm-col-20160531-d9985 | fichas/colegiado/2016-10.md |
+| decisao-colegiado | RJ2010/10742 | 2016-05-03 | nao-provido | O Colegiado manteve, por unanimidade, sua decisão de 11.02.2016, que não conheceu de recurso contra o arquivamento de reclamação pela SEP… | cvm-col-20160503-d8627 | fichas/colegiado/2016-09.md |
+| decisao-colegiado | RJ2013/12595 | 2016-04-26 | outro | O Colegiado determinou o arquivamento do processo de cumprimento de termo de compromisso (PAS RJ2013/12595), considerando manifestação da… | cvm-col-20160426-d9572 | fichas/colegiado/2016-08.md |
+| decisao-colegiado | RJ2014/10859 | 2016-03-08 | outro | Cumprimento de termo de compromisso. PAS RJ2014/10859. | cvm-col-20160308-d9959 | fichas/colegiado/2016-07.md |
+| decisao-colegiado | RJ2015/10623 | 2016-03-08 | conhecimento | Recurso contra decisão do colegiado. Proc. RJ2015/10623. | cvm-col-20160308-d9911 | fichas/colegiado/2016-07.md |
+| decisao-colegiado | RJ2015/5511 | 2016-03-01 | conhecimento | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2015/5511. | cvm-col-20160301-d9705 | fichas/colegiado/2016-06.md |
+| decisao-colegiado | RJ2015/5513 | 2016-03-01 | conhecimento | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2015/5513. | cvm-col-20160301-d9695 | fichas/colegiado/2016-06.md |
+| decisao-colegiado | RJ2010/10742 | 2016-02-11 | conhecimento | O Colegiado não conheceu do recurso da Agrenco Limited contra o arquivamento, pela SEP, de reclamação da acionista majoritária sobre… | cvm-col-20160211-d8627 | fichas/colegiado/2016-04.md |
+| decisao-colegiado | RJ2013/10745 | 2016-02-02 | outro | O Colegiado determinou o arquivamento do processo RJ2013/10745 após a SAD atestar que os pagamentos do termo de compromisso firmado pela… | cvm-col-20160202-d9765 | fichas/colegiado/2016-03.md |
+| decisao-colegiado | RJ2012/8369 | 2015-12-22 | outro | O Colegiado determinou o arquivamento do PAS RJ2012/8369 após a SAD atestar que o termo de compromisso firmado por oito pessoas físicas… | cvm-col-20151222-d9380 | fichas/colegiado/2015-25.md |
+| decisao-colegiado | RJ2014/13107 | 2015-12-15 | nao-provido | O Colegiado rejeitou pedido de reconsideração da SLW CVC Ltda. e de um acusado contra decisão de 05.05.2015 que rejeitara propostas de… | cvm-col-20151215-d8609 | fichas/colegiado/2015-24.md |
+| decisao-colegiado | RJ2013/1852 | 2015-12-08 | outro | O Colegiado, por proposta do relator, reviu decisão de 06.10.2015 e excluiu do PAS um acusado falecido antes do julgamento, declarando… | cvm-col-20151208-d8781 | fichas/colegiado/2015-23.md |
+| decisao-colegiado | RJ2014/9918 | 2015-12-01 | outro | O Colegiado determinou o arquivamento do processo de cumprimento de termo de compromisso firmado por membro do conselho de administração da… | cvm-col-20151201-d9607 | fichas/colegiado/2015-23.md |
+| termo-compromisso | RJ2013/8697 | 2015-12-01 | outro | Dos seis administradores da Providax Participações S.A. cujas propostas de Termo de Compromisso foram aceitas em 10.02.2015, só um… | cvm-col-20151201-d9574 | fichas/tc/2015-04.md |
+| decisao-colegiado | 04/2011 | 2015-11-24 | outro | O Colegiado determinou o arquivamento do processo de cumprimento de termos de compromisso firmados por quatro compromitentes no PAS… | cvm-col-20151124-d9650 | fichas/colegiado/2015-22.md |
+| decisao-colegiado | RJ2013/8696 | 2015-11-24 | outro | O Colegiado determinou o arquivamento do PAS RJ2013/8696 após a SAD atestar que os pagamentos dos Termos de Compromisso aprovados em… | cvm-col-20151124-d9462 | fichas/colegiado/2015-22.md |
+| decisao-colegiado | 14/2009 | 2015-11-24 | nao-provido | O Colegiado, por unanimidade, indeferiu pedido de reconsideração de terceiro interessado contra decisão em PAS, por não caber revisão de… | cvm-col-20151124-d7851 | fichas/colegiado/2015-21.md |
+| decisao-colegiado | RJ2014/13043 | 2015-11-10 | outro | O Colegiado determinou o arquivamento do processo de cumprimento de termo de compromisso, por manifestação da SAD de que o pagamento foi… | cvm-col-20151110-d9608 | fichas/colegiado/2015-20.md |
+| decisao-colegiado | 538/2008; RJ2015/5493 | 2015-10-27 | conhecimento | O Colegiado não conheceu de recurso de acionistas controladores contra ofício da SEP sobre a saída do Novo Mercado (art. 11 da Deliberação… | cvm-col-20151027-d9883 | fichas/colegiado/2015-19.md |
+| decisao-colegiado | RJ2013/11191 | 2015-10-27 | outro | Retificação de item da ata da reunião do colegiado de 26/05/2015. Proc. RJ2013/11191. | cvm-col-20151027-d9183 | fichas/colegiado/2015-19.md |
+| decisao-colegiado | 12/2010 | 2015-10-27 | conhecimento | O Colegiado, por unanimidade, acompanhou o voto do relator e inadmitiu pedido de esclarecimentos sobre decisão de 07.10.2014 no PAS… | cvm-col-20151027-d8094 | fichas/colegiado/2015-19.md |
+| decisao-colegiado | RJ2014/3606 | 2015-10-20 | outro | O Colegiado determinou o arquivamento do PAS RJ2013/10579 em relação ao compromitente, acompanhando a manifestação da SAD de que o… | cvm-col-20151020-d9080 | fichas/colegiado/2015-19.md |
+| decisao-colegiado | RJ2012/11094 | 2015-09-29 | outro | O Colegiado determinou o arquivamento do PAS CVM RJ2012/11094 em relação aos compromitentes, por cumprimento do Termo de Compromisso… | cvm-col-20150929-d9351 | fichas/colegiado/2015-17.md |
+| decisao-colegiado | RJ2013/2758 | 2015-09-29 | outro | O Colegiado determinou o arquivamento do PAS CVM SP2011/0284 em relação aos compromitentes, acompanhando a manifestação da SAD de que os… | cvm-col-20150929-d8617 | fichas/colegiado/2015-17.md |
+| decisao-colegiado | RJ2013/13240 | 2015-09-22 | outro | O Colegiado determinou o arquivamento do PAS CVM RJ2013/13240 por cumprimento do Termo de Compromisso. Considerou a manifestação da SAD de… | cvm-col-20150922-d9439 | fichas/colegiado/2015-17.md |
+| decisao-colegiado | RJ2014/8297 | 2015-09-15 | parcial | Por unanimidade, o Colegiado, com base no art. 65 da Lei 9.784/99, tornou parcialmente sem efeito a decisão de 08.09.2015 e reconheceu a… | cvm-col-20150915-d9584 | fichas/colegiado/2015-16.md |
+| decisao-colegiado | 19957.002189/2015-99 | 2015-09-01 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.002189/2015-99. | cvm-col-20150901-d9814 | fichas/colegiado/2015-16.md |
+| decisao-colegiado | 19957.002190/2015-13 | 2015-09-01 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.002190/2015-13. | cvm-col-20150901-d9813 | fichas/colegiado/2015-16.md |
+| decisao-colegiado | 19957.001474/2015-92 | 2015-08-04 | outro | O Colegiado declarou a perda de objeto do pedido de reconsideração da GBM Brasil DTVM contra decisão de 02.06.2015 que manteve o… | cvm-col-20150804-d9667 | fichas/colegiado/2015-14.md |
+| decisao-colegiado | RJ2014/5102 | 2015-07-14 | outro | O Colegiado determinou o arquivamento do Proc. RJ2014/5102 por ter sido cumprido o Termo de Compromisso celebrado por Gipar S.A., Itacatu… | cvm-col-20150714-d9466 | fichas/colegiado/2015-13.md |
+| decisao-colegiado | RJ2013/12570 | 2015-07-14 | outro | O Colegiado determinou o arquivamento do PAS RJ2013/12570 por cumprimento do Termo de Compromisso, após a SAD atestar o pagamento na forma… | cvm-col-20150714-d9438 | fichas/colegiado/2015-13.md |
+| decisao-colegiado | RJ2013/5237 | 2015-07-14 | outro | O Colegiado determinou o arquivamento do PAS RJ2013/5237 por cumprimento do Termo de Compromisso assumido por um acusado, conforme a SAD… | cvm-col-20150714-d9425 | fichas/colegiado/2015-13.md |
+| decisao-colegiado | SP2013/0157 | 2015-07-14 | outro | O Colegiado determinou o arquivamento do PAS SP2013/0157 por cumprimento do Termo de Compromisso da Terra Investimentos Corretora de… | cvm-col-20150714-d9204 | fichas/colegiado/2015-13.md |
+| decisao-colegiado | RJ2014/4397 | 2015-07-14 | conhecimento | O Colegiado não conheceu do pedido de reconsideração de decisão sobre OPA por aumento de participação, por perda do objeto, em razão da… | cvm-col-20150714-d9122 | fichas/colegiado/2015-13.md |
+| decisao-colegiado | RJ2013/13240 | 2015-07-07 | outro | O requerente pediu prazo adicional de dez dias para pagar o Termo de Compromisso do PAS RJ2013/13240, alegando que a correção pelo IPCA de… | cvm-col-20150707-d9439 | fichas/colegiado/2015-12.md |
+| decisao-colegiado | RJ2011/4690; RJ2011/6787 | 2015-06-30 | outro | O Colegiado determinou o arquivamento dos Procs. RJ2011/4690 e RJ2011/6787 por ter sido cumprido o Termo de Compromisso, conforme a SAD… | cvm-col-20150630-d9423 | fichas/colegiado/2015-11.md |
+| decisao-colegiado | RJ2013/11915 | 2015-06-16 | outro | O Colegiado determinou o arquivamento do PAS RJ2013/6128 em relação aos compromitentes, por ter sido cumprido o Termo de Compromisso… | cvm-col-20150616-d8924 | fichas/colegiado/2015-10.md |
+| decisao-colegiado | RJ2013/1205 | 2015-05-26 | outro | O Colegiado determinou o arquivamento do PAS RJ2013/1205 por ter sido cumprido o termo de compromisso celebrado por uma corretora. Com base… | cvm-col-20150526-d9288 | fichas/colegiado/2015-08.md |
+| decisao-colegiado | RJ2013/10299 | 2015-05-26 | outro | O Colegiado determinou o arquivamento do PAS RJ2013/10299 por ter sido cumprido o Termo de Compromisso, conforme a SAD atestou: pagamento… | cvm-col-20150526-d9271 | fichas/colegiado/2015-08.md |
+| decisao-colegiado | RJ2013/5640 | 2015-05-26 | outro | O Colegiado determinou o arquivamento do PAS RJ2013/5640 por ter sido cumprido o termo de compromisso celebrado por um acusado. Com base na… | cvm-col-20150526-d9115 | fichas/colegiado/2015-08.md |
+| decisao-colegiado | RJ2014/0413 | 2015-03-31 | outro | O Colegiado determinou o arquivamento de processo administrativo, por cumprimento do termo de compromisso de três proponentes aprovado em… | cvm-col-20150331-d9292 | fichas/colegiado/2015-05.md |
+| termo-compromisso | 26/2010 | 2015-03-31 | outro | O Colegiado, por unanimidade, deferiu o pedido de revogação da proposta de Termo de Compromisso de R$ 1.687.864,00 corrigidos pelo IPCA… | cvm-col-20150331-d8672 | fichas/tc/2015-01.md |
+| decisao-colegiado | RJ2013/6444 | 2015-03-17 | outro | O Colegiado determinou o arquivamento do Proc. RJ2013/6444 por cumprimento do Termo de Compromisso, com base na manifestação da SAD, que… | cvm-col-20150317-d8869 | fichas/colegiado/2015-04.md |
+| decisao-colegiado | 01/2007 | 2015-03-17 | nao-provido | O Colegiado negou provimento ao recurso contra decisão do relator que indeferiu diligências no PAS 01/2007, mantendo a decisão recorrida… | cvm-col-20150317-d7214 | fichas/colegiado/2015-04.md |
+| decisao-colegiado | RJ2013/1852 | 2015-03-03 | outro | O Colegiado aprovou, por unanimidade, a proposta do relator de recapitulação das infrações imputadas aos cinco acusados do PAS RJ2013/1852… | cvm-col-20150303-d8781 | fichas/colegiado/2015-04.md |
+| decisao-colegiado | RJ2013/7943 | 2015-02-04 | deferido | O Colegiado concedeu o efeito suspensivo pedido pela Sul América S.A., com base no item IV da Deliberação CVM 463/2003, suspendendo os… | cvm-col-20150204-d8970 | fichas/colegiado/2015-03.md |
+| decisao-colegiado | 09/2013; 13/2013 | 2015-01-21 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SPS que indeferiu sigilo sobre todos os documentos dos Inquéritos Administrativos… | cvm-col-20150121-d9546 | fichas/colegiado/2015-02.md |
+| decisao-colegiado | 14/2009 | 2014-11-25 | nao-provido | O Colegiado, acompanhando o entendimento da relatora, indeferiu recurso de terceiro interessado contra despacho que deferiu produção de… | cvm-col-20141125-d01 | fichas/colegiado/2014-23.md |
+| decisao-colegiado | RJ2013/13121 | 2014-11-18 | outro | O Colegiado determinou o arquivamento do PAS RJ2013/8609 em relação a um compromitente, após a SAD atestar o pagamento do Termo de… | cvm-col-20141118-d33 | fichas/colegiado/2014-23.md |
+| decisao-colegiado | RJ2013/4365 | 2014-10-07 | outro | O Colegiado determinou o arquivamento do PAS RJ2013/4365, instaurado pela SNC, por ter sido cumprido o Termo de Compromisso celebrado pela… | cvm-col-20141007-d03 | fichas/colegiado/2014-19.md |
+| decisao-colegiado | RJ2013/4362 | 2014-09-23 | outro | O Colegiado determinou o arquivamento do PAS RJ2013/4362 por ter sido cumprido o Termo de Compromisso celebrado pela AKW Auditores… | cvm-col-20140923-d19 | fichas/colegiado/2014-19.md |
+| decisao-colegiado | RJ2013/10153 | 2014-09-23 | outro | O Colegiado determinou o arquivamento do Proc. RJ2013/10153 por cumprimento do Termo de Compromisso celebrado por Banco Santander (Brasil)… | cvm-col-20140923-d18 | fichas/colegiado/2014-19.md |
+| decisao-colegiado | RJ2013/6775 | 2014-09-23 | outro | O Colegiado determinou o arquivamento do Proc. RJ2013/6775 por ter sido cumprido o Termo de Compromisso celebrado pela Brasil Plural Gestão… | cvm-col-20140923-d15 | fichas/colegiado/2014-18.md |
+| decisao-colegiado | RJ2010/17292 | 2014-09-23 | outro | O Colegiado determinou o arquivamento do PAS RJ2010/17292 por cumprimento do Termo de Compromisso celebrado pela BEM Distribuidora de… | cvm-col-20140923-d14 | fichas/colegiado/2014-18.md |
+| decisao-colegiado | SP2011/0220 | 2014-09-16 | nao-provido | O Colegiado, por unanimidade, acompanhando a área técnica (Memo/SMI/GMN/Nº 044/2014), indeferiu recurso do denunciante contra o… | cvm-col-20140916-d05 | fichas/colegiado/2014-18.md |
+| decisao-colegiado | 01/2012; RJ2013/8159 | 2014-09-16 | outro | O Colegiado determinou o arquivamento do PAS 01/2012 por terem sido cumpridos os dois Termos de Compromisso celebrados pelos únicos… | cvm-col-20140916-d02 | fichas/colegiado/2014-18.md |
+| decisao-colegiado | RJ2013/5645 | 2014-09-09 | outro | O Colegiado determinou o arquivamento do PAS RJ2013/5645 por ter sido cumprido o Termo de Compromisso celebrado pela Ernst & Young Terco… | cvm-col-20140909-d10 | fichas/colegiado/2014-18.md |
+| decisao-colegiado | RJ2014/5566 | 2014-09-02 | nao-provido | Pedido de reconsideração de decisão do colegiado. Proc. RJ2014/5566. | cvm-col-20140902-d02 | fichas/colegiado/2014-16.md |
+| decisao-colegiado | SP2012/0228 | 2014-08-26 | nao-provido | O Colegiado manteve, por unanimidade, a rejeição da proposta de termo de compromisso da Hoya CVC Ltda. e de seu diretor, ao negar o pedido… | cvm-col-20140826-d02 | fichas/colegiado/2014-16.md |
+| decisao-colegiado | SP2014/0086 | 2014-08-12 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2014/0086. | cvm-col-20140812-d13 | fichas/colegiado/2014-15.md |
+| decisao-colegiado | RJ2012/12067 | 2014-08-05 | outro | O Colegiado, por unanimidade, arquivou o PAS 01/2009 em relação ao compromitente, diretor da Distribuidora de Produtos de Petróleo Ipiranga… | cvm-col-20140805-d04 | fichas/colegiado/2014-14.md |
+| decisao-colegiado | RJ2014/7526 | 2014-07-29 | nao-provido | O Colegiado manteve decisão da SEP que indeferiu pedido de vista de recorrente em processo sancionador sobre manipulação de preços e uso de… | cvm-col-20140729-d04 | fichas/colegiado/2014-14.md |
+| decisao-colegiado | RJ2013/3484 | 2014-07-22 | nao-provido | O Colegiado indeferiu pedido de reconsideração de condenação em PAS e manteve a decisão, com base no voto do relator: não cabe… | cvm-col-20140722-d01 | fichas/colegiado/2014-13.md |
+| decisao-colegiado | RJ2012/2833 | 2014-06-17 | outro | O Colegiado determinou o arquivamento do Proc. RJ2012/2833 após as áreas SAD e SMI atestarem o cumprimento das cláusulas do Termo de… | cvm-col-20140617-d12 | fichas/colegiado/2014-12.md |
+| decisao-colegiado | RJ2013/4432 | 2014-05-27 | outro | O Colegiado arquivou o Proc. RJ2013/4432, relativo ao cumprimento de termo de compromisso do Banco Votorantim S.A., com base na… | cvm-col-20140527-d05 | fichas/colegiado/2014-10.md |
+| decisao-colegiado | RJ2013/1052 | 2014-05-27 | outro | O Colegiado determinou o arquivamento do PAS RJ2012/7880 em relação à compromitente, pessoa física, por cumprimento do Termo de Compromisso… | cvm-col-20140527-d03 | fichas/colegiado/2014-10.md |
+| decisao-colegiado | RJ2012/9509 | 2014-05-06 | outro | O Colegiado determinou o arquivamento do PAS RJ2012/0869 em relação aos compromitentes, Oliveira Trust Servicer S.A. e uma pessoa física… | cvm-col-20140506-d12 | fichas/colegiado/2014-08.md |
+| decisao-colegiado | SP2013/0107 | 2014-05-06 | conhecimento | O Colegiado não conheceu, por unanimidade, do recurso da SLW Corretora de Valores e Câmbio Ltda. contra decisão da SMI que não conheceu… | cvm-col-20140506-d08 | fichas/colegiado/2014-08.md |
+| decisao-colegiado | RJ2011/7940 | 2014-05-06 | outro | O Colegiado determinou, com base na manifestação da SAD, o arquivamento do PAS RJ2011/7940 em relação a dois compromitentes, por ter sido… | cvm-col-20140506-d01 | fichas/colegiado/2014-08.md |
+| decisao-colegiado | RJ2011/7923 | 2014-04-08 | outro | O Colegiado determinou o arquivamento do PAS RJ2011/7923 em relação ao único acusado, compromitente da Integral Investments B.V., por ter… | cvm-col-20140408-d13 | fichas/colegiado/2014-07.md |
+| decisao-colegiado | 01/2013; RJ2009/4333 | 2014-01-22 | outro | Após audiência pública SDM nº 01/2013. Proc. RJ2009/4333. | cvm-col-20140122-d01 | fichas/colegiado/2014-02.md |
+| decisao-colegiado | RJ2013/11623 | 2013-12-19 | deferido | O Colegiado deferiu pedido da JBS S.A. de tratamento confidencial, com base no art. 9º-A da ICVM 361/02, para documentos sobre aquisição de… | cvm-col-20131219-d01 | fichas/colegiado/2013-25.md |
+| decisao-colegiado | RJ2011/5211 | 2013-12-17 | outro | O Colegiado aprovou, por unanimidade, a recapitulação legal das infrações de membros do conselho de administração da Electro Aço Altona… | cvm-col-20131217-d7944 | fichas/colegiado/2013-24.md |
+| decisao-colegiado | RJ2013/4659 | 2013-12-17 | outro | O Colegiado determinou o arquivamento do Proc. RJ2013/4659 por cumprido o Termo de Compromisso do BB - Banco de Investimento S.A., após… | cvm-col-20131217-d16 | fichas/colegiado/2013-24.md |
+| decisao-colegiado | 16/2008 | 2013-12-17 | outro | O Colegiado arquivou o PAS 16/2008 em relação aos compromitentes, cumprido o termo de compromisso, com base na manifestação da SAD. Esta… | cvm-col-20131217-d14 | fichas/colegiado/2013-24.md |
+| decisao-colegiado | RJ2008/8046 | 2013-12-17 | deferido | O Colegiado, por unanimidade, autorizou por mais dois anos a prorrogação do prazo para cumprimento dos compromissos do Termo de Compromisso… | cvm-col-20131217-d05 | fichas/colegiado/2013-23.md |
+| decisao-colegiado | 14/2009 | 2013-12-17 | nao-provido | O Colegiado não acatou pedido de reconsideração e manteve decisão sobre vista e cópias de elementos de prova do Inquérito Administrativo… | cvm-col-20131217-d04 | fichas/colegiado/2013-23.md |
+| termo-compromisso | RJ2011/7923 | 2013-12-10 | outro | O Colegiado considerou aceitáveis as razões apresentadas pela Integral Investments B.V. para a intempestividade na entrega das vias… | cvm-col-20131210-d02 | fichas/tc/2013-05.md |
+| decisao-colegiado | 29/2000 | 2013-12-10 | conhecimento | O Colegiado não conheceu de pedido de reconsideração contra a rejeição de proposta de termo de compromisso no PAS 29/2000 e manteve a… | cvm-col-20131210-d01 | fichas/colegiado/2013-23.md |
+| decisao-colegiado | RJ2012/9832 | 2013-12-03 | outro | O Colegiado determinou o arquivamento do PAS RJ2012/9832, por ter sido cumprido o Termo de Compromisso firmado pelos acusados, com base na… | cvm-col-20131203-d05 | fichas/colegiado/2013-23.md |
+| decisao-colegiado | RJ2012/7867 | 2013-12-03 | outro | Cumprimento de termo de compromisso. PAS RJ2012/7867. | cvm-col-20131203-d04 | fichas/colegiado/2013-23.md |
+| decisao-colegiado | RJ2012/9082 | 2013-10-29 | conhecimento | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2012/9082. | cvm-col-20131029-d10 | fichas/colegiado/2013-21.md |
+| decisao-colegiado | SP2007/0139 | 2013-10-15 | nao-provido | O Colegiado indeferiu pedido de revisão de decisão sancionadora no PAS SP2007/0139, apresentado pela TOV CCTVM Ltda. e outros, por… | cvm-col-20131015-d01 | fichas/colegiado/2013-19.md |
+| decisao-colegiado | RJ2012/9832 | 2013-10-08 | — | Requerimento de prazo adicional de 10 dias para cumprir a obrigação pecuniária do termo de compromisso aprovado em 13.06.2013 no PAS… | cvm-col-20131008-d02 | fichas/colegiado/2013-18.md |
+| termo-compromisso | RJ2012/13953 | 2013-10-08 | outro | O Colegiado aceitou o pedido de desistência de um dos três proponentes do termo de compromisso do PAS RJ2012/6160, aprovado em 09.07.13 (R$… | cvm-col-20131008-d01 | fichas/tc/2013-04.md |
+| decisao-colegiado | RJ2013/0740 | 2013-10-01 | outro | O Colegiado determinou o arquivamento do PAS RJ2012/9652 em relação aos compromitentes, por ter sido cumprido o Termo de Compromisso… | cvm-col-20131001-d19 | fichas/colegiado/2013-18.md |
+| decisao-colegiado | RJ2012/8093 | 2013-09-24 | outro | O Colegiado determinou o arquivamento do PAS RJ2012/8093, por ter sido cumprido o termo de compromisso firmado pelo único acusado, pessoa… | cvm-col-20130924-d03 | fichas/colegiado/2013-17.md |
+| decisao-colegiado | RJ2012/5036 | 2013-09-24 | outro | O Colegiado determinou o arquivamento do PAS RJ2012/5036 em relação ao único acusado, por ter sido cumprido o Termo de Compromisso aprovado… | cvm-col-20130924-d02 | fichas/colegiado/2013-17.md |
+| decisao-colegiado | RJ2012/8087 | 2013-09-24 | outro | O Colegiado determinou o arquivamento do PAS RJ2012/8087 por cumprimento do Termo de Compromisso firmado pelo único acusado (aprovado em… | cvm-col-20130924-d01 | fichas/colegiado/2013-17.md |
+| decisao-colegiado | RJ2012/9557 | 2013-09-17 | outro | O Colegiado determinou o arquivamento do PAS RJ2012/9557, por ter sido cumprido o termo de compromisso firmado pela Martinelli Auditores e… | cvm-col-20130917-d06 | fichas/colegiado/2013-17.md |
+| decisao-colegiado | RJ2012/10347 | 2013-09-17 | outro | O Colegiado determinou o arquivamento do processo em relação aos compromitentes, por ter sido cumprido o Termo de Compromisso aprovado em… | cvm-col-20130917-d05 | fichas/colegiado/2013-17.md |
+| decisao-colegiado | SP2011/0099 | 2013-09-17 | outro | O Colegiado determinou o arquivamento do PAS SP2011/0099 por cumprimento do Termo de Compromisso firmado pela corretora e por um acusado… | cvm-col-20130917-d04 | fichas/colegiado/2013-17.md |
+| decisao-colegiado | RJ2012/7132 | 2013-08-20 | outro | O Colegiado determinou o arquivamento do PAS RJ2012/7132 por cumprimento dos Termos de Compromisso firmados pelos únicos acusados… | cvm-col-20130820-d13 | fichas/colegiado/2013-15.md |
+| decisao-colegiado | RJ2012/3787 | 2013-08-06 | indeferido | O Colegiado indeferiu o pedido de prorrogação do prazo para assinatura de Termo de Compromisso aprovado em 05/02/2013 (PAS RJ2012/3787)… | cvm-col-20130806-d04 | fichas/colegiado/2013-14.md |
+| decisao-colegiado | RJ2012/7133 | 2013-07-30 | outro | O Colegiado determinou o arquivamento do PAS RJ2012/7133 por cumprimento do termo de compromisso firmado pela PricewaterhouseCoopers… | cvm-col-20130730-d04 | fichas/colegiado/2013-13.md |
+| decisao-colegiado | RJ2011/6066 | 2013-07-23 | outro | O Colegiado determinou o arquivamento do PAS RJ2011/6066 por cumprimento do termo de compromisso firmado pela Santander Brasil Asset… | cvm-col-20130723-d06 | fichas/colegiado/2013-13.md |
+| decisao-colegiado | 20/2009 | 2013-07-09 | outro | O Colegiado determinou o arquivamento do PAS 20/2009 por cumprimento do termo de compromisso firmado pelas empresas Petrix Overseas Ltd. e… | cvm-col-20130709-d07 | fichas/colegiado/2013-13.md |
+| decisao-colegiado | RJ2012/12177 | 2013-06-13 | outro | O Colegiado, por unanimidade, declarou a perda de objeto do pedido de reconsideração do indeferimento de registro da 289ª série de CRI da… | cvm-col-20130613-d02 | fichas/colegiado/2013-12.md |
+| decisao-colegiado | 05/2008 | 2013-06-13 | nao-provido | O Colegiado, por unanimidade, manteve decisões monocráticas que indeferiram pedidos de revisão (art. 65 da Lei 9.784/99) com pedido de… | cvm-col-20130613-d01 | fichas/colegiado/2013-12.md |
+| decisao-colegiado | RJ2010/15523 | 2013-06-04 | outro | O Colegiado determinou o arquivamento do PAS RJ2010/15523 por cumprimento do termo de compromisso firmado pelo Banco Itaucard S.A. e pelos… | cvm-col-20130604-d03 | fichas/colegiado/2013-11.md |
+| decisao-colegiado | RJ2011/10821 | 2013-05-28 | outro | O Colegiado determinou o arquivamento do PAS RJ2011/10821 contra a única acusada, por cumprimento do termo de compromisso aprovado em… | cvm-col-20130528-d13 | fichas/colegiado/2013-11.md |
+| acordao-crsfn | RJ-2007-3547 | 2013-05-21 | arquivamento | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Fundo de investimento – Utilização indevida de recursos financeiros depositados… | crsfn-11641 | fichas/crsfn/2013-02.md |
+| decisao-colegiado | RJ2012/4138 | 2013-05-14 | outro | O Colegiado determinou o arquivamento do PAS RJ2012/4138 por ter sido cumprido o Termo de Compromisso firmado pelo único acusado. Base… | cvm-col-20130514-d09 | fichas/colegiado/2013-10.md |
+| decisao-colegiado | RJ2012/4137 | 2013-05-07 | outro | O Colegiado determinou o arquivamento do PAS RJ2012/4137 por ter sido cumprido o Termo de Compromisso firmado pelo único acusado. Base… | cvm-col-20130507-d04 | fichas/colegiado/2013-10.md |
+| decisao-colegiado | 30/2005 | 2013-05-07 | provido | O Colegiado revisou, por unanimidade, decisão de 11.12.12 com base no art. 65 da Lei 9.784/99, em linha com decisão de 29.08.06 (PAS… | cvm-col-20130507-d01 | fichas/colegiado/2013-09.md |
+| decisao-colegiado | RJ2012/1643 | 2013-04-30 | outro | O Colegiado determinou o arquivamento do PAS RJ2012/1643 por ter sido cumprido o Termo de Compromisso firmado pelo único acusado. Base… | cvm-col-20130430-d06 | fichas/colegiado/2013-09.md |
+| decisao-colegiado | 05/2008 | 2013-04-24 | nao-provido | O Colegiado manteve, por unanimidade, a decisão recorrida que indeferiu devolução de prazo para recurso ao CRSFN no PAS 05/2008. Entendeu… | cvm-col-20130424-d08 | fichas/colegiado/2013-09.md |
+| acordao-crsfn | 25/03 | 2013-04-23 | arquivamento | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – | crsfn-12038 | fichas/crsfn/2013-01.md |
+| decisao-colegiado | 20/2009 | 2013-04-09 | deferido | O Colegiado deferiu o pedido: o prazo de dez dias para cumprir o termo do PAS 20/2009 começa com a divulgação do IPCA de março de 2013, e… | cvm-col-20130409-d07 | fichas/colegiado/2013-09.md |
+| decisao-colegiado | 06/2007 | 2013-03-19 | nao-provido | O Colegiado manteve, por unanimidade e por seus próprios fundamentos, a decisão contra a qual os acusados pediram reconsideração, que… | cvm-col-20130319-d10 | fichas/colegiado/2013-07.md |
+| decisao-colegiado | RJ2012/2766 | 2013-03-19 | outro | O Colegiado determinou o arquivamento do Proc. RJ2012/2766 em relação ao compromitente, por ter sido cumprido o Termo de Compromisso… | cvm-col-20130319-d04 | fichas/colegiado/2013-06.md |
+| decisao-colegiado | RJ2011/9481 | 2013-03-12 | outro | O Colegiado determinou o arquivamento do PAS RJ2011/9481 por ter sido cumprido o Termo de Compromisso firmado pelo único acusado. Base… | cvm-col-20130312-d07 | fichas/colegiado/2013-06.md |
+| decisao-colegiado | RJ2011/5356 | 2013-03-12 | nao-provido | O Colegiado, por unanimidade, manteve decisão que negou acesso à denúncia informal usada em processos sancionadores, em pedido de… | cvm-col-20130312-d01 | fichas/colegiado/2013-06.md |
+| decisao-colegiado | RJ2012/8386 | 2013-02-26 | — | Recurso da Energisa S.A. contra decisão da SEP que não instaurou processo administrativo sancionador. Julgamento suspenso por pedido de… | cvm-col-20130226-d22 | fichas/colegiado/2013-06.md |
+| decisao-colegiado | RJ2012/11072 | 2013-02-26 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SMI que indeferiu pedido de vista e cópia integral de processo de investigação… | cvm-col-20130226-d05 | fichas/colegiado/2013-05.md |
+| decisao-colegiado | RJ2012/7865 | 2013-02-26 | nao-provido | O Colegiado negou provimento a recurso de acionista, terceiro interessado, contra decisão da SEP que indeferiu pedido de vista de processo… | cvm-col-20130226-d04 | fichas/colegiado/2013-05.md |
+| decisao-colegiado | RJ2012/2032 | 2013-02-05 | nao-provido | Pedido de reconsideração de decisão do colegiado. Proc. RJ2012/2032. | cvm-col-20130205-d09 | fichas/colegiado/2013-04.md |
+| decisao-colegiado | RJ2011/8234 | 2013-01-29 | outro | O Colegiado declarou a perda de objeto de recurso contra decisão da SEP que indeferiu pedido de vista e cópia de processo, porque as… | cvm-col-20130129-d02 | fichas/colegiado/2013-03.md |
+| decisao-colegiado | SP2007/0140 | 2013-01-22 | outro | O Colegiado determinou o arquivamento do PAS SP2007/0140 em relação aos compromitentes, após a SAD atestar que os pagamentos do Termo de… | cvm-col-20130122-d17 | fichas/colegiado/2013-02.md |
+| decisao-colegiado | RJ2011/5356 | 2012-12-18 | nao-provido | Recurso contra decisão da SMI. Proc. RJ2011/5356. | cvm-col-20121218-d01 | fichas/colegiado/2012-24.md |
+| decisao-colegiado | 05/2008 | 2012-12-04 | nao-provido | O Colegiado, por unanimidade, negou pedido de reconsideração e manteve decisão de 13.11.12 que indeferiu produção de provas no PAS 05/2008… | cvm-col-20121204-d02 | fichas/colegiado/2012-22.md |
+| decisao-colegiado | 05/2008 | 2012-11-13 | nao-provido | O Colegiado negou provimento, por unanimidade, a recurso contra decisão que indeferiu pedido de produção de provas no PAS 05/2008, por não… | cvm-col-20121113-d02 | fichas/colegiado/2012-21.md |
+| decisao-colegiado | RJ2010/12289 | 2012-10-23 | nao-provido | Pedido de reconsideração em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2010/12289. | cvm-col-20121023-d03 | fichas/colegiado/2012-19.md |
+| decisao-colegiado | RJ2010/12288 | 2012-10-23 | nao-provido | Pedido de reconsideração em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2010/12288. | cvm-col-20121023-d02 | fichas/colegiado/2012-19.md |
+| decisao-colegiado | RJ2010/12286 | 2012-10-23 | nao-provido | Pedido de reconsideração em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2010/12286. | cvm-col-20121023-d01 | fichas/colegiado/2012-19.md |
+| decisao-colegiado | RJ2012/4489 | 2012-10-16 | outro | O Colegiado arquivou o Proc. RJ2012/4489 (Fibria Celulose S.A.) em relação ao compromitente, pessoa física, por ter cumprido o termo de… | cvm-col-20121016-d03 | fichas/colegiado/2012-18.md |
+| decisao-colegiado | RJ2012/12037 | 2012-10-10 | parcial | O Colegiado deferiu parcialmente recurso da Filadelphia Empréstimos Consignados Ltda. contra indeferimento de pedido de vista pela SRE, que… | cvm-col-20121010-d02 | fichas/colegiado/2012-18.md |
+| decisao-colegiado | RJ2011/9482 | 2012-09-11 | outro | O Colegiado determinou o arquivamento do PAS RJ2011/9482 por ter sido cumprido o termo de compromisso firmado pelo único acusado, com base… | cvm-col-20120911-d06 | fichas/colegiado/2012-16.md |
+| decisao-colegiado | SP2007/0056 | 2012-09-04 | nao-provido | Pedido de reconsideração da decisão do colegiado em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2007/0056. | cvm-col-20120904-d10 | fichas/colegiado/2012-15.md |
+| decisao-colegiado | SP2007/0055 | 2012-09-04 | nao-provido | Pedido de reconsideração da decisão do colegiado em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2007/0055. | cvm-col-20120904-d09 | fichas/colegiado/2012-15.md |
+| decisao-colegiado | SP2007/0054 | 2012-09-04 | nao-provido | Pedido de reconsideração da decisão do colegiado em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2007/0054. | cvm-col-20120904-d08 | fichas/colegiado/2012-15.md |
+| decisao-colegiado | SP2007/0053 | 2012-09-04 | nao-provido | Pedido de reconsideração da decisão do colegiado em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2007/0053. | cvm-col-20120904-d07 | fichas/colegiado/2012-15.md |
+| decisao-colegiado | SP2007/0052 | 2012-09-04 | nao-provido | Pedido de reconsideração da decisão do colegiado em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2007/0052. | cvm-col-20120904-d06 | fichas/colegiado/2012-15.md |
+| decisao-colegiado | SP2007/0051 | 2012-09-04 | nao-provido | Pedido de reconsideração da decisão do colegiado em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2007/0051. | cvm-col-20120904-d05 | fichas/colegiado/2012-15.md |
+| decisao-colegiado | SP2007/0044 | 2012-09-04 | nao-provido | Pedido de reconsideração da decisão do colegiado em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2007/0044. | cvm-col-20120904-d04 | fichas/colegiado/2012-15.md |
+| decisao-colegiado | SP2007/0039 | 2012-09-04 | nao-provido | Pedido de reconsideração da decisão do colegiado em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2007/0039. | cvm-col-20120904-d03 | fichas/colegiado/2012-15.md |
+| decisao-colegiado | SP2007/0038 | 2012-09-04 | nao-provido | Pedido de reconsideração da decisão do colegiado em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2007/0038. | cvm-col-20120904-d02 | fichas/colegiado/2012-15.md |
+| decisao-colegiado | SP2007/0037 | 2012-09-04 | nao-provido | Pedido de reconsideração da decisão do colegiado em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2007/0037. | cvm-col-20120904-d01 | fichas/colegiado/2012-15.md |
+| decisao-colegiado | IA24/2010 | 2012-08-28 | nao-provido | O Colegiado negou provimento a recursos da C&D DTVM S.A. e de outro recorrente contra decisão da SPS que deferiu parcialmente pedido de… | cvm-col-20120828-d18 | fichas/colegiado/2012-15.md |
+| decisao-colegiado | RJ2012/3785 | 2012-08-28 | outro | O Colegiado determinou o arquivamento do PAS RJ2012/3785, por cumprimento do termo de compromisso aprovado em 03.07.12 pelo único acusado… | cvm-col-20120828-d05 | fichas/colegiado/2012-14.md |
+| decisao-colegiado | RJ2011/9483 | 2012-08-21 | outro | O Colegiado determinou o arquivamento do PAS RJ2011/9483 em relação ao compromitente, por cumprimento do termo de compromisso aprovado em… | cvm-col-20120821-d13 | fichas/colegiado/2012-14.md |
+| decisao-colegiado | RJ2011/11225 | 2012-08-14 | nao-provido | Pedido de reconsideração de decisão do colegiado. Proc. RJ2011/11225. | cvm-col-20120814-d09 | fichas/colegiado/2012-14.md |
+| decisao-colegiado | 19/2010 | 2012-08-14 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SPS que concedeu acesso parcial aos autos, excluindo operações de terceiros com… | cvm-col-20120814-d03 | fichas/colegiado/2012-13.md |
+| decisao-colegiado | RJ2011/13837 | 2012-07-31 | outro | O Colegiado determinou o arquivamento do PAS 02/2008 em relação aos compromitentes, por cumprimento do termo de compromisso aprovado em… | cvm-col-20120731-d01 | fichas/colegiado/2012-13.md |
+| decisao-colegiado | SP2006/0137 | 2012-07-24 | outro | O Colegiado determinou o arquivamento do PAS SP2006/0137 por cumprimento do termo de compromisso aprovado em 27.03.12 pelos únicos… | cvm-col-20120724-d07 | fichas/colegiado/2012-13.md |
+| decisao-colegiado | RJ2011/7386 | 2012-07-03 | outro | O Colegiado determinou o arquivamento do PAS RJ2011/7386 em relação ao único acusado, por ter cumprido o Termo de Compromisso, após… | cvm-col-20120703-d10 | fichas/colegiado/2012-11.md |
+| termo-compromisso | RJ2010/2419 | 2012-07-03 | aceito | O Colegiado indeferiu pedido da Tyrus Capital LLP de tratamento confidencial para sua proposta de termo de compromisso no PAS, por não… | cvm-col-20120703-d01-r2 | fichas/tc/2012-03.md |
+| decisao-colegiado | RJ2011/5748 | 2012-06-19 | outro | O Colegiado determinou o arquivamento do Proc. RJ2011/5748 em relação aos compromitentes, após manifestação da SAD de que não há obrigação… | cvm-col-20120619-d03 | fichas/colegiado/2012-10.md |
+| decisao-colegiado | 06/2010 | 2012-05-29 | outro | O Colegiado determinou o arquivamento do PAS 06/2010 em relação aos únicos acusados, após manifestação da SAD de que os pagamentos do Termo… | cvm-col-20120529-d05 | fichas/colegiado/2012-10.md |
+| decisao-colegiado | RJ2012/3862 | 2012-05-29 | conhecimento | O Colegiado não conheceu do pedido de reconsideração apresentado pela TOV Corretora e outro contra decisão de 09.04.2012 que indeferiu a… | cvm-col-20120529-d01 | fichas/colegiado/2012-10.md |
+| decisao-colegiado | RJ2011/7378 | 2012-05-22 | outro | O Colegiado determinou o arquivamento do PAS RJ2011/7378 em relação ao único acusado, por ter cumprido o Termo de Compromisso, após… | cvm-col-20120522-d04 | fichas/colegiado/2012-09.md |
+| decisao-colegiado | RJ2011/7380 | 2012-05-22 | outro | O Colegiado arquivou o PAS RJ2011/7380 por ter sido cumprido o Termo de Compromisso firmado pelo único acusado. Com base na SAD, área que… | cvm-col-20120522-d02 | fichas/colegiado/2012-09.md |
+| decisao-colegiado | RJ2009/3082 | 2012-05-15 | outro | O Colegiado arquivou o PAS RJ2009/3082 por ter sido cumprido o Termo de Compromisso firmado pelo único acusado. Antes, em 31.01.12, havia… | cvm-col-20120515-d09 | fichas/colegiado/2012-09.md |
+| decisao-colegiado | SP2010/0171 | 2012-05-15 | nao-provido | Pedido de reconsideração de decisão do colegiado. Proc. SP2010/0171. | cvm-col-20120515-d06 | fichas/colegiado/2012-09.md |
+| decisao-colegiado | SP2010/0170 | 2012-05-15 | nao-provido | Pedido de reconsideração de decisão do colegiado. Proc. SP2010/0170. | cvm-col-20120515-d05 | fichas/colegiado/2012-09.md |
+| decisao-colegiado | SP2010/0168 | 2012-05-15 | nao-provido | Pedido de reconsideração de decisão do colegiado. Proc. SP2010/0168. | cvm-col-20120515-d04 | fichas/colegiado/2012-09.md |
+| decisao-colegiado | SP2010/0053 | 2012-05-15 | nao-provido | Pedido de reconsideração de decisão do colegiado. Proc. SP2010/0053. | cvm-col-20120515-d02 | fichas/colegiado/2012-09.md |
+| decisao-colegiado | SP2010/0050 | 2012-05-15 | nao-provido | Pedido de reconsideração de decisão do colegiado. Proc. SP2010/0050. | cvm-col-20120515-d01 | fichas/colegiado/2012-09.md |
+| decisao-colegiado | RJ2010/15685 | 2012-04-03 | outro | O Colegiado determinou o arquivamento do PAS RJ2010/15685 por cumprimento do termo de compromisso firmado pela corretora e por dois outros… | cvm-col-20120403-d09 | fichas/colegiado/2012-07.md |
+| decisao-colegiado | RJ2011/9734 | 2012-03-06 | outro | O Colegiado determinou o arquivamento do processo em relação aos três compromitentes, com base na manifestação da SAD: os pagamentos do… | cvm-col-20120306-d16 | fichas/colegiado/2012-05.md |
+| decisao-colegiado | RJ2011/9398 | 2012-02-28 | nao-provido | O Colegiado negou provimento a recurso de cinco recorrentes contra a rejeição de proposta de termo de compromisso, mantendo a decisão de… | cvm-col-20120228-d01 | fichas/colegiado/2012-04.md |
+| decisao-colegiado | SP2010/0242 | 2011-12-27 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2010/0242. | cvm-col-20111227-d04 | fichas/colegiado/2011-29.md |
+| decisao-colegiado | RJ2008/8046 | 2011-11-29 | deferido | O Colegiado deferiu prorrogação até 29.12.12 do prazo para cumprir compromissos do termo de compromisso da Construtora Lix da Cunha… | cvm-col-20111129-d02 | fichas/colegiado/2011-26.md |
+| decisao-colegiado | 14/2009 | 2011-10-25 | nao-provido | O Colegiado negou provimento ao recurso de dois recorrentes, convocados em inquérito administrativo, contra decisão da SPS que deferiu… | cvm-col-20111025-d08 | fichas/colegiado/2011-23.md |
+| decisao-colegiado | RJ2010/11569 | 2011-10-04 | outro | O Colegiado determinou o arquivamento do PAS RJ2010/11569, por cumprimento do termo de compromisso pelo único acusado, com base na SAD, que… | cvm-col-20111004-d05 | fichas/colegiado/2011-21.md |
+| decisao-colegiado | RJ2010/16605 | 2011-09-27 | outro | O Colegiado determinou o arquivamento do PAS RJ2010/16605, por ter sido cumprido o termo de compromisso aprovado em 28.06.11, após a SAD… | cvm-col-20110927-d29 | fichas/colegiado/2011-20.md |
+| decisao-colegiado | RJ2010/15505 | 2011-09-27 | nao-provido | Pedido de reconsideração de decisão do colegiado. Proc. RJ2010/15505. | cvm-col-20110927-d04 | fichas/colegiado/2011-19.md |
+| decisao-colegiado | RJ2010/17359 | 2011-08-16 | outro | O Colegiado determinou o arquivamento do PAS RJ2010/17359 (Saraiva S.A. Livreiros Editores) por cumprimento do Termo de Compromisso firmado… | cvm-col-20110816-d19 | fichas/colegiado/2011-16.md |
+| decisao-colegiado | SP2006/0066 | 2011-08-16 | outro | O Colegiado determinou o arquivamento do PAS SP2006/0066 por cumprimento dos Termos de Compromisso firmados pela Cruzeiro do Sul S.A… | cvm-col-20110816-d15 | fichas/colegiado/2011-16.md |
+| decisao-colegiado | RJ2010/13112 | 2011-08-09 | outro | O Colegiado determinou o arquivamento do Proc. RJ2010/13112 em relação à compromitente, por cumprimento do Termo de Compromisso, com base… | cvm-col-20110809-d04 | fichas/colegiado/2011-15.md |
+| decisao-colegiado | SP2010/0238 | 2011-07-26 | outro | O Colegiado determinou o arquivamento do PAS SP2010/0238 por cumprimento do Termo de Compromisso, com base na manifestação da SAD de que o… | cvm-col-20110726-d01 | fichas/colegiado/2011-15.md |
+| decisao-colegiado | RJ2010/11519 | 2011-07-19 | outro | O Colegiado determinou o arquivamento do PAS RJ2010/11519, por terem sido cumpridos os termos de compromisso firmados pelos únicos… | cvm-col-20110719-d02 | fichas/colegiado/2011-15.md |
+| decisao-colegiado | RJ2009/11007 | 2011-07-19 | outro | O Colegiado determinou o arquivamento do PAS RJ2009/11007 por cumprimento do Termo de Compromisso, com base na manifestação da SAD de que… | cvm-col-20110719-d01 | fichas/colegiado/2011-15.md |
+| decisao-colegiado | RJ2011/1535 | 2011-04-19 | nao-provido | Pedido de reconsideração de decisão do colegiado. Proc. RJ2011/1535. | cvm-col-20110419-d03 | fichas/colegiado/2011-09.md |
+| decisao-colegiado | RJ2006/7256 | 2011-04-12 | outro | O Colegiado arquivou o Proc. RJ2006/7256 em relação aos compromitentes do Termo de Compromisso aprovado em 26.10.10. Com base na… | cvm-col-20110412-d06 | fichas/colegiado/2011-09.md |
+| decisao-colegiado | RJ2009/5351 | 2011-04-12 | outro | O Colegiado determinou o arquivamento do PAS 19/2006 em relação ao compromitente, por cumprimento do termo de compromisso, com base em… | cvm-col-20110412-d05 | fichas/colegiado/2011-09.md |
+| decisao-colegiado | RJ2008/3539 | 2011-03-29 | outro | O Colegiado determinou o arquivamento do processo, por ter sido cumprido o termo de compromisso da única acusada, com base em manifestação… | cvm-col-20110329-d12 | fichas/colegiado/2011-08.md |
+| decisao-colegiado | RJ2010/15416 | 2011-03-01 | conhecimento | O Colegiado arquivou, sem exame de mérito, recurso contra entendimento da SEP sobre direito de preferência em aumento de capital (art. 253… | cvm-col-20110301-d18 | fichas/colegiado/2011-05.md |
+| decisao-colegiado | RJ2010/4246 | 2011-02-22 | outro | O Colegiado determinou o arquivamento do PAS RJ2010/4246 em relação à única acusada, por cumprimento do Termo de Compromisso. Com base em… | cvm-col-20110222-d26 | fichas/colegiado/2011-05.md |
+| decisao-colegiado | RJ2010/9547 | 2011-02-22 | outro | O Colegiado arquivou o PAS 15/2008 em relação aos compromitentes, após a SAD atestar o cumprimento dos termos de compromisso aprovados em… | cvm-col-20110222-d25 | fichas/colegiado/2011-05.md |
+| decisao-colegiado | RJ2004/4457 | 2011-01-25 | outro | O Colegiado determinou o arquivamento do processo em relação à compromitente Ágora Corretora de Títulos e Valores Mobiliários S.A., cujo… | cvm-col-20110125-d02-r2 | fichas/colegiado/2011-01.md |
+| decisao-colegiado | RJ2009/5519 | 2011-01-04 | outro | O Colegiado determinou o arquivamento do PAS 16/2005 em relação aos compromitentes, por cumprimento dos Termos de Compromisso, com base nas… | cvm-col-20110104-d01 | fichas/colegiado/2011-01.md |
+| decisao-colegiado | RJ2010/16497 | 2010-11-23 | nao-provido | Recurso contra decisão da SEP. Proc. RJ2010/16497. | cvm-col-20101123-d22 | fichas/colegiado/2010-25.md |
+| decisao-colegiado | RJ2008/4857 | 2010-11-16 | outro | O Colegiado aprovou a recapitulação das infrações imputadas aos acusados no PAS RJ2008/4857 (Embratel Participações S.A.), nos termos do… | cvm-col-20101116-d6484 | fichas/colegiado/2010-24.md |
+| decisao-colegiado | 04/2001; SP2002/0235 | 2010-11-09 | outro | O Colegiado arquivou os PAS 04/2001 e SP2002/0235 em relação aos compromitentes, com base na manifestação do Comitê Gestor de Comunicação… | cvm-col-20101109-d01 | fichas/colegiado/2010-23.md |
+| decisao-colegiado | RJ2009/9579 | 2010-10-26 | outro | O Colegiado determinou o arquivamento do PAS RJ2009/9579 (Santos Brasil), com base na manifestação da SAD, que atestou o pagamento do Termo… | cvm-col-20101026-d20 | fichas/colegiado/2010-22.md |
+| decisao-colegiado | RJ2009/8196 | 2010-09-28 | outro | O Colegiado determinou o arquivamento do PAS 14/2006 em relação aos compromitentes, após a SAD atestar que o pagamento previsto no termo de… | cvm-col-20100928-d07 | fichas/colegiado/2010-20.md |
+| decisao-colegiado | RJ2008/8066 | 2010-09-09 | nao-provido | O Colegiado negou provimento ao recurso do recorrente contra decisão da SMI que indeferiu vista e cópia integral do Proc. RJ2008/8066… | cvm-col-20100909-d14 | fichas/colegiado/2010-19.md |
+| decisao-colegiado | RJ2009/4333 | 2010-09-01 | outro | Para audiência pública. Proc. RJ2009/4333. | cvm-col-20100901-d02 | fichas/colegiado/2010-18.md |
+| decisao-colegiado | RJ2009/13069 | 2010-08-31 | outro | O Colegiado determinou o arquivamento do processo em relação aos compromitentes, após a SAD atestar que os pagamentos dos termos de… | cvm-col-20100831-d09 | fichas/colegiado/2010-18.md |
+| decisao-colegiado | 06/2007 | 2010-08-04 | nao-provido | O Colegiado indeferiu pedido de reconsideração que contestava o julgamento de recurso no PAS 06/2007, por alegada falta de intimação e… | cvm-col-20100804-d01 | fichas/colegiado/2010-16.md |
+| decisao-colegiado | RJ2009/9731 | 2010-07-06 | outro | O Colegiado arquivou o PAS RJ2009/5286 em relação à compromitente Natixis, com base na SAD, que atestou o pagamento do termo de compromisso… | cvm-col-20100706-d06 | fichas/colegiado/2010-15.md |
+| decisao-colegiado | RJ2009/8787 | 2010-07-06 | outro | O Colegiado determinou o arquivamento do PAS 23/2000 em relação aos compromitentes, por cumprimento do termo de compromisso, com base na… | cvm-col-20100706-d05 | fichas/colegiado/2010-15.md |
+| decisao-colegiado | RJ2009/4747 | 2010-06-08 | outro | O Colegiado determinou o arquivamento do PAS RJ2009/4747 por cumprimento dos termos de compromisso, com base na manifestação da SAD de que… | cvm-col-20100608-d05 | fichas/colegiado/2010-14.md |
+| decisao-colegiado | 06/2007 | 2010-06-01 | nao-provido | O Colegiado negou provimento a recurso contra o indeferimento de produção de provas no PAS 06/2007 (convocação de expert e ofício à CETIP)… | cvm-col-20100601-d01 | fichas/colegiado/2010-13.md |
+| decisao-colegiado | RJ2009/4096 | 2010-05-18 | outro | O Colegiado determinou o arquivamento do PAS RJ2009/4096 por cumprimento dos termos de compromisso, com base na manifestação da SAD de que… | cvm-col-20100518-d12 | fichas/colegiado/2010-13.md |
+| decisao-colegiado | 22/2006 | 2010-05-18 | outro | O Colegiado determinou o arquivamento do processo em relação à compromitente, com base na manifestação da SAD de que o pagamento previsto… | cvm-col-20100518-d10 | fichas/colegiado/2010-13.md |
+| termo-compromisso | 02/2008 | 2010-04-27 | rejeitado | O Colegiado, em embargos que reiteravam proposta de termo de compromisso no PAS 02/2008, esclareceu que a proposta guarda-chuva rejeitada… | cvm-col-20100427-d08 | fichas/tc/2010-02.md |
+| decisao-colegiado | 09/2008 | 2010-04-27 | outro | O Colegiado determinou o arquivamento do PAS 09/2008 por ter sido cumprido o Termo de Compromisso firmado pelos únicos acusados, conforme… | cvm-col-20100427-d06 | fichas/colegiado/2010-12.md |
+| decisao-colegiado | RJ2009/5978 | 2010-04-27 | outro | O Colegiado determinou o arquivamento do PAS RJ2009/5978 (Redecard S.A.), por cumprido o termo de compromisso firmado pela única acusada… | cvm-col-20100427-d05 | fichas/colegiado/2010-12.md |
+| decisao-colegiado | SP2008/0040 | 2010-04-27 | outro | O Colegiado determinou o arquivamento do PAS SP2008/0040 em relação aos únicos acusados que firmaram Termo de Compromisso, aprovado em… | cvm-col-20100427-d04 | fichas/colegiado/2010-12.md |
+| decisao-colegiado | RJ2009/3950 | 2010-04-20 | outro | O Colegiado determinou o arquivamento do PAS RJ2009/3950 por ter sido cumprido o Termo de Compromisso firmado pela única acusada, conforme… | cvm-col-20100420-d07 | fichas/colegiado/2010-11.md |
+| decisao-colegiado | RJ2009/6713 | 2010-04-20 | nao-provido | O Colegiado indeferiu pedido de reconsideração de proponente contra a rejeição, em 09.02.10, de proposta de termo de compromisso no PAS… | cvm-col-20100420-d02 | fichas/colegiado/2010-11.md |
+| decisao-colegiado | RJ2009/0485 | 2010-04-13 | outro | O Colegiado determinou o arquivamento do PAS RJ2009/0485 (OGX), por terem sido cumpridos dois termos de compromisso firmados por três… | cvm-col-20100413-d08 | fichas/colegiado/2010-11.md |
+| decisao-colegiado | 04/2009 | 2010-04-07 | nao-provido | O Colegiado negou provimento a recurso da recorrente contra decisão da SPS que deferiu parcialmente pedido de vista do PAS 04/2009… | cvm-col-20100407-d07 | fichas/colegiado/2010-11.md |
+| decisao-colegiado | RJ2009/5542 | 2010-04-07 | outro | O Colegiado arquivou o processo em relação à compromitente, por a SAD ter atestado o cumprimento do Termo de Compromisso (pagamento na… | cvm-col-20100407-d05 | fichas/colegiado/2010-11.md |
+| decisao-colegiado | 18/2008 | 2010-04-07 | provido | O Colegiado deu provimento a recurso contra decisão da SPS que negou fornecimento de cópia de mídias eletrônicas da Sadia S.A. não anexadas… | cvm-col-20100407-d02 | fichas/colegiado/2010-10.md |
+| decisao-colegiado | RJ2008/5980 | 2010-03-30 | outro | O Colegiado arquivou o processo em relação ao compromitente, por a SAD ter atestado que o pagamento do Termo de Compromisso ocorreu na… | cvm-col-20100330-d16 | fichas/colegiado/2010-10.md |
+| decisao-colegiado | RJ2010/3180 | 2010-03-30 | nao-provido | O Colegiado negou provimento ao recurso e manteve a negativa de vista de ofícios da SRI enviados à Cayman Island Monetary Authority, com… | cvm-col-20100330-d08 | fichas/colegiado/2010-10.md |
+| decisao-colegiado | RJ2009/5710 | 2010-03-16 | outro | O Colegiado determinou o arquivamento do PAS RJ2006/8572 em relação ao compromitente (caso Olvebra S.A.), após a SAD atestar que o… | cvm-col-20100316-d07 | fichas/colegiado/2010-09.md |
+| decisao-colegiado | RJ2000/5536; RJ2002/3252 | 2010-02-24 | provido | O Colegiado anulou de ofício, com base no art. 53 da Lei 9.784/99 e na Súmula STF 473, suas decisões de 8 e 22/12/2009 nos Procs… | cvm-col-20100224-d01 | fichas/colegiado/2010-06.md |
+| decisao-colegiado | RJ2009/6425 | 2010-02-09 | outro | O Colegiado determinou o arquivamento do processo de cumprimento de termo de compromisso, por ter sido cumprido pelo único acusado, com… | cvm-col-20100209-d25 | fichas/colegiado/2010-05.md |
+| decisao-colegiado | RJ2009/3884 | 2009-12-15 | nao-provido | Pedido de reconsideração de decisão do colegiado. Proc. RJ2009/3884. | cvm-col-20091215-d09 | fichas/colegiado/2009-23.md |
+| decisao-colegiado | RJ2009/3864 | 2009-12-15 | nao-provido | Pedido de reconsideração de decisão do colegiado. Proc. RJ2009/3864. | cvm-col-20091215-d08 | fichas/colegiado/2009-23.md |
+| decisao-colegiado | — | 2009-12-08 | deferido | O Colegiado deferiu pedido de tratamento confidencial de documentos da Tyrus Capital LLP, determinando à SEP a preservação do sigilo… | cvm-col-20091208-d01-r2 | fichas/colegiado/2009-22.md |
+| decisao-colegiado | RJ2008/10421 | 2009-11-24 | outro | Com base na manifestação da SAD, que atestou o pagamento na forma convencionada e a inexistência de obrigação adicional, o Colegiado… | cvm-col-20091124-d10 | fichas/colegiado/2009-21.md |
+| decisao-colegiado | RJ2009/4089 | 2009-11-17 | outro | O Colegiado arquivou o PAS RJ2009/4089 em relação ao único acusado, por ter sido cumprido o termo de compromisso, após a SAD atestar o… | cvm-col-20091117-d36 | fichas/colegiado/2009-21.md |
+| decisao-colegiado | RJ2008/12293 | 2009-11-17 | outro | O Colegiado determinou o arquivamento do processo de cumprimento do termo de compromisso da Socopa Sociedade Corretora Paulista S.A… | cvm-col-20091117-d35 | fichas/colegiado/2009-20.md |
+| decisao-colegiado | RJ2008/10538 | 2009-11-17 | outro | O Colegiado arquivou o PAS RJ2008/10538 (JBS S.A.), por cumprimento do termo de compromisso firmado pelo único acusado, diretor de relações… | cvm-col-20091117-d34 | fichas/colegiado/2009-20.md |
+| decisao-colegiado | RJ2009/0283 | 2009-11-17 | outro | Com base na manifestação da SAD, que atestou o cumprimento do termo de compromisso aprovado em 28/07/2009, o Colegiado arquivou o PAS… | cvm-col-20091117-d33 | fichas/colegiado/2009-20.md |
+| decisao-colegiado | RJ2008/2334 | 2009-11-17 | outro | O Colegiado arquivou o PAS RJ2008/2334, por ter sido cumprido o termo de compromisso firmado pelos únicos acusados, após a SAD atestar os… | cvm-col-20091117-d32 | fichas/colegiado/2009-20.md |
+| decisao-colegiado | RJ2008/8243 | 2009-11-17 | outro | O Colegiado determinou o arquivamento do processo de cumprimento do termo de compromisso firmado pela Interfloat HZ CCTVM Ltda. e seu… | cvm-col-20091117-d31 | fichas/colegiado/2009-20.md |
+| decisao-colegiado | RJ2007/4685 | 2009-11-17 | outro | O Colegiado arquivou o PAS RJ2007/4685 apenas em relação ao compromitente da Mesbla Trust de Recebíveis de Cartão de Crédito S.A., por… | cvm-col-20091117-d30 | fichas/colegiado/2009-20.md |
+| decisao-colegiado | RJ2007/4414 | 2009-11-17 | outro | Com base na manifestação da SAD, que atestou o pagamento na forma convencionada e a inexistência de obrigação adicional, o Colegiado… | cvm-col-20091117-d29 | fichas/colegiado/2009-20.md |
+| decisao-colegiado | SP2009/0089; SP2009/0090 | 2009-11-03 | nao-provido | Recursos em processos de mecanismo de ressarcimento de prejuízos. Proc. s. SP2009/0089 e SP2009/0090. | cvm-col-20091103-d02 | fichas/colegiado/2009-19.md |
+| decisao-colegiado | RJ2009/5730 | 2009-10-27 | outro | O Colegiado arquivou o PAS RJ2008/4857 em relação ao compromitente, após a SAD atestar o pagamento do termo de compromisso na forma… | cvm-col-20091027-d13 | fichas/colegiado/2009-19.md |
+| decisao-colegiado | RJ2008/4877 | 2009-10-20 | nao-provido | O Colegiado indeferiu o pedido de reconsideração do requerente, que pedia sua exclusão do PAS RJ2008/4877. Não cabia excluí-lo, apenas… | cvm-col-20091020-d05 | fichas/colegiado/2009-18.md |
+| decisao-colegiado | 14/2005 | 2009-10-15 | nao-provido | O Colegiado indeferiu pedido de anulação do julgamento do PAS 14/2005, formulado por clube de investimento, que alegava impedimento de um… | cvm-col-20091015-d01 | fichas/colegiado/2009-18.md |
+| decisao-colegiado | RJ2008/1815 | 2009-10-13 | nao-provido | O Colegiado indeferiu pedido de reconsideração da multa pecuniária de R$ 45.768.546,06 aplicada no PAS RJ2008/1815, por inexistir erro… | cvm-col-20091013-d05 | fichas/colegiado/2009-17.md |
+| decisao-colegiado | SP2009/0096; SP2009/0097; SP2009/0098; SP2009/0099; SP2009/0100 | 2009-10-06 | nao-provido | Recursos em processos de mecanismo de ressarcimento de prejuízos. Proc. s. SP2009/0096, SP2009/0097, SP2009/0098, SP2009/0099 e SP2009/0100. | cvm-col-20091006-d04 | fichas/colegiado/2009-17.md |
+| decisao-colegiado | RJ2008/10437 | 2009-09-29 | outro | Com base na manifestação da SAD, o Colegiado determinou o arquivamento do PAS RJ2008/10437 (Unipar), por cumprimento dos termos de… | cvm-col-20090929-d02 | fichas/colegiado/2009-16.md |
+| decisao-colegiado | SP2006/0164 | 2009-09-29 | outro | O Colegiado determinou o arquivamento do processo em relação aos compromitentes, após a SAD atestar o cumprimento do termo de compromisso… | cvm-col-20090929-d01 | fichas/colegiado/2009-16.md |
+| decisao-colegiado | RJ2008/9181 | 2009-09-22 | outro | O Colegiado determinou o arquivamento do processo, por ter sido cumprido o Termo de Compromisso firmado pelo único acusado. Com base na… | cvm-col-20090922-d07 | fichas/colegiado/2009-16.md |
+| decisao-colegiado | RJ2009/2718 | 2009-09-22 | outro | Com base na manifestação da SAD, o Colegiado determinou o arquivamento do PAS RJ2007/3673 em relação ao compromitente, por cumprimento do… | cvm-col-20090922-d05 | fichas/colegiado/2009-16.md |
+| acordao-crsfn | SP-2002-49 | 2009-08-24 | extincao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Realização de operações fraudulentas, consistentes na movimentação indevida da posição… | crsfn-9612 | fichas/crsfn/2009-05.md |
+| acordao-crsfn | RJ-2005-7128 | 2009-08-24 | extincao | DE OFÍCIO – Mercado de valores mobiliários - Falta de envio de informações peródicas (atualização do registro de companhia aberta)… | crsfn-11205 | fichas/crsfn/2009-05.md |
+| decisao-colegiado | RJ2008/4369 | 2009-08-11 | outro | O Colegiado determinou o arquivamento do processo, após a SAD atestar que os pagamentos dos Termos de Compromisso foram feitos como… | cvm-col-20090811-d05 | fichas/colegiado/2009-14.md |
+| decisao-colegiado | RJ2008/4873 | 2009-08-11 | outro | O Colegiado determinou o arquivamento do processo, por ter sido cumprido o Termo de Compromisso firmado pelo único acusado. Com base na… | cvm-col-20090811-d04 | fichas/colegiado/2009-14.md |
+| termo-compromisso | 13/2006 | 2009-07-07 | outro | O Colegiado rejeitou pedido de reconsideração da decisão que rejeitara proposta de Termo de Compromisso no PAS 13/2006 e determinou a… | cvm-col-20090707-d01 | fichas/tc/2009-04.md |
+| decisao-colegiado | RJ2008/3931 | 2009-06-09 | outro | O Colegiado determinou o arquivamento do processo em relação ao compromitente, Banco Morgan Stanley S.A., por cumprimento do Termo de… | cvm-col-20090609-d03 | fichas/colegiado/2009-11.md |
+| decisao-colegiado | RJ2007/8556 | 2009-05-12 | outro | O Colegiado determinou o arquivamento do PAS RJ2007/8556, por cumprimento do termo de compromisso firmado pelo único acusado, com base em… | cvm-col-20090512-d02 | fichas/colegiado/2009-09.md |
+| decisao-colegiado | RJ2005/1578 | 2009-04-07 | outro | O Colegiado determinou o arquivamento do processo RJ2005/1578 em relação aos compromitentes do termo de compromisso do Banco UBS Pactual… | cvm-col-20090407-d07 | fichas/colegiado/2009-06.md |
+| decisao-colegiado | — | 2009-04-07 | indeferido | O Colegiado indeferiu pedido de confidencialidade de documentos da Sadia S.A. em inquérito administrativo, por falta de fundamento legal… | cvm-col-20090407-d01-r2 | fichas/colegiado/2009-06.md |
+| decisao-colegiado | RJ2007/12231 | 2009-03-17 | outro | O Colegiado determinou o arquivamento do processo RJ2007/12231 por ter sido cumprido o Termo de Compromisso da Vailly S.A., com base na… | cvm-col-20090317-d09 | fichas/colegiado/2009-04.md |
+| decisao-colegiado | 13/2005 | 2009-02-10 | outro | O Colegiado determinou o arquivamento do PAS 13/2005 em relação aos proponentes do Termo de Compromisso aprovado em 21.10.08, por pagamento… | cvm-col-20090210-d10 | fichas/colegiado/2009-02.md |
+| decisao-colegiado | RJ2007/1854 | 2009-02-10 | outro | O Colegiado determinou o arquivamento do PAS RJ2007/1854 por ter sido cumprido o termo de compromisso firmado por todos os indiciados, com… | cvm-col-20090210-d09 | fichas/colegiado/2009-02.md |
+| decisao-colegiado | RJ2007/1454 | 2009-02-10 | outro | O Colegiado determinou o arquivamento do processo em relação ao proponente, por considerar cumprido o termo de compromisso firmado em… | cvm-col-20090210-d08 | fichas/colegiado/2009-02.md |
+| decisao-colegiado | RJ2008/6985 | 2009-02-03 | conhecimento | O Colegiado não conheceu do recurso de pessoa natural contra indeferimento de registro como agente autônomo de investimento, por… | cvm-col-20090203-d10 | fichas/colegiado/2009-02.md |
+| decisao-colegiado | RJ2008/0900 | 2009-02-03 | outro | O Colegiado determinou o arquivamento do PAS RJ2008/0900 quanto ao único indiciado, por ter cumprido o Termo de Compromisso. A SAD, área… | cvm-col-20090203-d04 | fichas/colegiado/2009-02.md |
+| decisao-colegiado | 25/2005 | 2009-01-21 | outro | O Colegiado determinou o arquivamento do PAS 25/2005 em relação aos compromitentes, com base na manifestação da SAD: o pagamento ocorreu na… | cvm-col-20090121-d02 | fichas/colegiado/2009-01.md |
+| decisao-colegiado | 12/2004 | 2009-01-21 | parcial | O Colegiado considerou cumprido o termo de compromisso pela Grandfood e arquivou o processo quanto a ela. Considerou descumprido o termo… | cvm-col-20090121-d01 | fichas/colegiado/2009-01.md |
+| decisao-colegiado | RJ2007/11305 | 2009-01-13 | outro | O Colegiado determinou o arquivamento do PAS RJ2007/11305 por ter sido cumprido o termo de compromisso firmado pelo único indiciado, com… | cvm-col-20090113-d04 | fichas/colegiado/2009-01.md |
+| decisao-colegiado | SP2005/0338 | 2009-01-06 | outro | O Colegiado determinou o arquivamento, quanto aos proponentes, do PAS SP2005/0338, por ter sido cumprido o Termo de Compromisso aprovado em… | cvm-col-20090106-d07 | fichas/colegiado/2009-01.md |
+| decisao-colegiado | RJ2007/12581 | 2009-01-06 | outro | O Colegiado determinou o arquivamento, em relação ao compromitente, do cumprimento do Termo de Compromisso da Opus Gestão de Recursos… | cvm-col-20090106-d06 | fichas/colegiado/2009-01.md |
+| decisao-colegiado | 26/2006 | 2009-01-06 | outro | O Colegiado determinou o arquivamento do PAS 26/2006 por ter sido cumprido o termo de compromisso firmado por Romanche Investment… | cvm-col-20090106-d05 | fichas/colegiado/2009-01.md |
+| decisao-colegiado | — | 2008-12-16 | indeferido | O Colegiado indeferiu pedido da Petrobras de tratamento confidencial a documentos fornecidos em inquérito administrativo da SPS, por falta… | cvm-col-20081216-d01-r2 | fichas/colegiado/2008-27.md |
+| decisao-colegiado | SP2008/0274 | 2008-12-09 | conhecimento | O Colegiado não conheceu do recurso da Companhia Vale do Rio Doce contra a divulgação, no site da CVM, de processos investigativos, por… | cvm-col-20081209-d10 | fichas/colegiado/2008-27.md |
+| decisao-colegiado | RJ2005/7025 | 2008-12-09 | outro | Após manifestação da HSBC CTVM S.A. sobre os efeitos de reincidência invocados pelo COAF, o Colegiado decidiu encaminhar os autos do PAS ao… | cvm-col-20081209-d01 | fichas/colegiado/2008-27.md |
+| decisao-colegiado | SP2006/0211 | 2008-11-25 | nao-provido | Pedido de reconsideração de decisão colegiado em processo de fundo de garantia. Proc. SP2006/0211. | cvm-col-20081125-d21 | fichas/colegiado/2008-26.md |
+| decisao-colegiado | RJ2008/9545 | 2008-11-11 | outro | O Colegiado aprovou, com pequenas alterações de forma, a minuta de Deliberação sobre o sorteio de processos e as normas de impedimento e… | cvm-col-20081111-d02 | fichas/colegiado/2008-25.md |
+| decisao-colegiado | RJ2007/10389 | 2008-10-21 | outro | O Colegiado determinou o arquivamento do processo, por ter sido cumprido o Termo de Compromisso firmado pela BNY Mellon Serviços… | cvm-col-20081021-d24 | fichas/colegiado/2008-23.md |
+| decisao-colegiado | 26/2006 | 2008-10-07 | outro | O Colegiado arquivou o processo em relação aos proponentes citados, por cumprimento dos Termos de Compromisso do PAS 26/2006, com base na… | cvm-col-20081007-d06 | fichas/colegiado/2008-22.md |
+| decisao-colegiado | RJ2007/5035 | 2008-10-07 | outro | O Colegiado determinou o arquivamento do PAS RJ2007/5035 por terem sido cumpridos os termos de compromisso de todos os indiciados… | cvm-col-20081007-d05 | fichas/colegiado/2008-22.md |
+| decisao-colegiado | — | 2008-10-03 | indeferido | O Colegiado indeferiu o pedido da Petróleo Brasileiro S.A. de tratamento confidencial a documentos fornecidos em atendimento a ofício da… | cvm-col-20081003-d01 | fichas/colegiado/2008-22.md |
+| decisao-colegiado | RJ2008/3931 | 2008-09-30 | outro | O Colegiado arquivou o processo em relação ao compromitente, com base na manifestação da SAD de que o pagamento do Termo de Compromisso… | cvm-col-20080930-d19 | fichas/colegiado/2008-21.md |
+| decisao-colegiado | — | 2008-09-22 | indeferido | O Colegiado indeferiu o pedido da Petróleo Brasileiro S.A. de tratamento confidencial a documentos fornecidos em inquérito administrativo… | cvm-col-20080922-d01 | fichas/colegiado/2008-20.md |
+| decisao-colegiado | RJ2007/5041 | 2008-09-16 | outro | O Colegiado determinou o arquivamento do processo em relação às compromitentes, com base na manifestação da SAD de que o pagamento do Termo… | cvm-col-20080916-d08 | fichas/colegiado/2008-20.md |
+| decisao-colegiado | RJ2006/0852 | 2008-09-02 | outro | O Colegiado determinou o arquivamento do processo RJ2006/0852 em relação ao compromitente, por cumprimento do Termo de Compromisso aprovado… | cvm-col-20080902-d04 | fichas/colegiado/2008-19.md |
+| decisao-colegiado | RJ2007/3809 | 2008-09-02 | outro | O Colegiado determinou o arquivamento do processo por cumprimento do Termo de Compromisso firmado pelo único indiciado. Com base na… | cvm-col-20080902-d01 | fichas/colegiado/2008-19.md |
+| decisao-colegiado | 13/2005 | 2008-08-26 | deferido | O Colegiado concedeu prazo adicional de 2 dias para o pagamento da primeira parcela do Termo de Compromisso do PAS 13/2005, pedido pelos… | cvm-col-20080826-d04 | fichas/colegiado/2008-19.md |
+| decisao-colegiado | RJ2007/10681 | 2008-08-26 | outro | O Colegiado determinou o arquivamento do PAS RJ2007/10681 por ter sido cumprido o Termo de Compromisso da Banex Distribuidora de Títulos e… | cvm-col-20080826-d03 | fichas/colegiado/2008-19.md |
+| decisao-colegiado | RJ2006/3616 | 2008-08-19 | outro | O Colegiado determinou o arquivamento do PAS RJ2006/3616 por cumprimento do Termo de Compromisso firmado pela Estratégia Investimentos S.A… | cvm-col-20080819-d08 | fichas/colegiado/2008-19.md |
+| decisao-colegiado | RJ2007/0057 | 2008-08-12 | nao-provido | O Colegiado indeferiu, por ausência de fatos novos, pedido de reconsideração de sua decisão de 24/06/2008 sobre reclamação de… | cvm-col-20080812-d03 | fichas/colegiado/2008-18.md |
+| decisao-colegiado | RJ2007/5035 | 2008-07-22 | outro | O Colegiado determinou o arquivamento do PAS 18/2005 em relação às três compromitentes, por cumprimento do Termo de Compromisso aprovado em… | cvm-col-20080722-d29 | fichas/colegiado/2008-17.md |
+| decisao-colegiado | RJ2006/1778 | 2008-07-22 | nao-provido | O Colegiado indeferiu pedidos de reconsideração de sua decisão de 25/04/2008, que rejeitou propostas de termo de compromisso de… | cvm-col-20080722-d17 | fichas/colegiado/2008-16.md |
+| acordao-crsfn | RJ-2004-3648 | 2008-05-27 | arquivamento | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Fundo de investimento – Falta de apresentação do comprovante de envio dos regulamentos… | crsfn-9255 | fichas/crsfn/2008-03.md |
+| decisao-colegiado | RJ2006/3616 | 2008-05-13 | deferido | O Colegiado concedeu prazo adicional de 30 dias para cumprimento do Termo de Compromisso aprovado em 04.12.07 no PAS RJ2006/3616, a pedido… | cvm-col-20080513-d06 | fichas/colegiado/2008-11.md |
+| decisao-colegiado | RJ2007/4107 | 2008-04-29 | nao-provido | O Colegiado negou pedido de reconsideração da multa de R$ 50.000,00 aplicada ao acusado pela publicação intempestiva de fato relevante e… | cvm-col-20080429-d02 | fichas/colegiado/2008-10.md |
+| decisao-colegiado | RJ2007/10873 | 2008-04-08 | outro | O Colegiado determinou o arquivamento do processo, por cumprido o Termo de Compromisso firmado pelo Banco BNP Paribas Brasil S.A. Com base… | cvm-col-20080408-d02 | fichas/colegiado/2008-09.md |
+| decisao-colegiado | RJ2007/8684 | 2008-04-08 | outro | O Colegiado determinou o arquivamento do PAS RJ2007/8684 por ter sido cumprido o Termo de Compromisso firmado pelo único indiciado… | cvm-col-20080408-d01 | fichas/colegiado/2008-09.md |
+| decisao-colegiado | RJ2007/3428 | 2008-04-01 | outro | O Colegiado determinou o arquivamento do PAS RJ2007/3428 por ter sido cumprido o Termo de Compromisso firmado pelos indiciados. Fundamento… | cvm-col-20080401-d01 | fichas/colegiado/2008-08.md |
+| acordao-crsfn | IA01/88 | 2008-03-27 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falhas na gestão dos negócios da companhia e na elaboração, publicação e aprovação das… | crsfn-8551 | fichas/crsfn/2008-02.md |
+| decisao-colegiado | RJ2007/3084 | 2008-03-25 | outro | O Colegiado determinou o arquivamento do PAS RJ2007/3084 por ter sido cumprido o Termo de Compromisso firmado pelo único indiciado… | cvm-col-20080325-d07 | fichas/colegiado/2008-07.md |
+| decisao-colegiado | 09/1997 | 2008-02-26 | provido | O Colegiado, com base no art. 65 da Lei 9.784/99, reviu sua decisão de 13.12.06 e excluiu do PAS 09/97 o acusado que havia falecido antes… | cvm-col-20080226-d45 | fichas/colegiado/2008-05.md |
+| decisao-colegiado | 15/2004 | 2008-02-19 | outro | Em pedido de reconsideração da rejeição, de 13.11.07, de proposta de termo de compromisso, o Colegiado deliberou que o Comitê abra… | cvm-col-20080219-d04 | fichas/colegiado/2008-03.md |
+| decisao-colegiado | 10/2005 | 2008-02-19 | outro | O Colegiado não reconsiderou a decisão de 18.09.07 que aprovou termo de compromisso no PAS 10/2005, já firmado, e concedeu ao Banco… | cvm-col-20080219-d03 | fichas/colegiado/2008-03.md |
+| decisao-colegiado | 10/2005 | 2008-01-29 | deferido | O Colegiado concedeu novo prazo adicional de 10 dias, contado da deliberação, para o proponente cumprir obrigação de termo de compromisso… | cvm-col-20080129-d14 | fichas/colegiado/2008-02.md |
+| decisao-colegiado | 26/2005 | 2008-01-22 | nao-provido | O Colegiado indeferiu pedido de reconsideração do HG Beta 14 Fundo de Investimento em Ações contra decisão sobre a Comissão de Inquérito no… | cvm-col-20080122-d02 | fichas/colegiado/2008-01.md |
+| decisao-colegiado | 10/2005 | 2008-01-15 | deferido | O Colegiado concedeu prazo adicional de 10 dias, contado da prestação de informações pela CVM, para cumprimento de obrigação de termo de… | cvm-col-20080115-d05 | fichas/colegiado/2008-01.md |
+| decisao-colegiado | 18/2005 | 2008-01-15 | outro | O Colegiado determinou o arquivamento do PAS 18/2005 (Usiminas) por cumprimento do termo de compromisso firmado pelo único indiciado, com… | cvm-col-20080115-d04 | fichas/colegiado/2008-01.md |
+| decisao-colegiado | RJ2007/3533 | 2008-01-08 | outro | O Colegiado determinou o arquivamento do PAS RJ2007/3533 por cumprimento do termo de compromisso pelo único indiciado, com base na… | cvm-col-20080108-d04 | fichas/colegiado/2008-01.md |
+| decisao-colegiado | RJ2005/6595 | 2007-12-18 | nao-provido | O Colegiado negou provimento a pedido de reconsideração de decisão que reconheceu a prescrição do exercício da opção de conversão em ações… | cvm-col-20071218-d01 | fichas/colegiado/2007-25.md |
+| decisao-colegiado | RJ2005/6595 | 2007-10-23 | conhecimento | O Colegiado não conheceu do mérito de recurso contra entendimento conjunto da PFE e da SEP sobre a prescrição do direito de conversão, em… | cvm-col-20071023-d05 | fichas/colegiado/2007-20.md |
+| decisao-colegiado | RJ2006/4241 | 2007-10-23 | nao-provido | O Colegiado manteve decisão de 07.08.07, que negou provimento a recurso contra o arquivamento pela SOI de reclamação sobre destinação de… | cvm-col-20071023-d02 | fichas/colegiado/2007-20.md |
+| decisao-colegiado | RJ2004/5303 | 2007-10-17 | outro | O Colegiado determinou o arquivamento, em relação aos compromitentes, do processo de cumprimento de Termo de Compromisso firmado em… | cvm-col-20071017-d07 | fichas/colegiado/2007-19.md |
+| decisao-colegiado | 26/2005 | 2007-10-17 | nao-provido | O Colegiado indeferiu o pedido de reconsideração da Hedging-Grifo CV S.A., acionista minoritária da M&G Poliéster S.A., contra decisão da… | cvm-col-20071017-d01 | fichas/colegiado/2007-19.md |
+| decisao-colegiado | RJ2006/4780 | 2007-10-02 | outro | O Colegiado determinou o arquivamento do processo de cumprimento de Termo de Compromisso do PAS RJ2006/4780, por ter sido cumprido por… | cvm-col-20071002-d06 | fichas/colegiado/2007-18.md |
+| decisao-colegiado | RJ2006/1216 | 2007-10-02 | provido | O Colegiado, com base no art. 65 da Lei 9.784/99, reviu a decisão de 20.06.07 que aplicou multa no PAS RJ2006/1216 e excluiu do processo o… | cvm-col-20071002-d05 | fichas/colegiado/2007-18.md |
+| decisao-colegiado | SP2006/0180 | 2007-10-02 | nao-provido | Pedido de reconsideração de decisão do colegiado em processo de fundo de garantia. Proc. SP2006/0180. | cvm-col-20071002-d04 | fichas/colegiado/2007-18.md |
+| decisao-colegiado | SP2005/0173 | 2007-09-18 | deferido | O Colegiado concedeu prazo adicional de 30 dias para cumprir termo de compromisso no PAS SP2005/0173 (ABN AMRO Real e outros), com opinião… | cvm-col-20070918-d14 | fichas/colegiado/2007-17.md |
+| decisao-colegiado | RJ2005/4555 | 2007-09-11 | deferido | O Colegiado concedeu prazo adicional de 45 dias para cumprimento da cláusula 4 do Termo de Compromisso (apresentação de relatório de… | cvm-col-20070911-d01 | fichas/colegiado/2007-16.md |
+| decisao-colegiado | RJ2004/5303 | 2007-08-21 | outro | O Colegiado declarou a perda de objeto do pedido de prorrogação do prazo para cumprimento de Termo de Compromisso (RJ2004/5303, aprovado em… | cvm-col-20070821-d03 | fichas/colegiado/2007-15.md |
+| decisao-colegiado | RJ2006/1623 | 2007-07-31 | provido | Com base no art. 65 da Lei 9.784/99, o Colegiado reformou sua decisão de 01/08/2006 e excluiu do PAS RJ2006/1623 o acusado, falecido antes… | cvm-col-20070731-d04 | fichas/colegiado/2007-14.md |
+| decisao-colegiado | RJ2006/1622 | 2007-07-31 | provido | O Colegiado, com base no art. 65 da Lei 9.784/99, reviu a decisão de 01.08.06 que aplicara multa no PAS RJ2006/1622 (Motortec Indústria… | cvm-col-20070731-d03 | fichas/colegiado/2007-14.md |
+| decisao-colegiado | 02/2003 | 2007-07-31 | conhecimento | O Colegiado não conheceu de novos embargos de declaração no PAS 02/2003 (Bompreço), por serem incabíveis após o encerramento do processo na… | cvm-col-20070731-d02 | fichas/colegiado/2007-14.md |
+| decisao-colegiado | SP2005/0268 | 2007-07-31 | outro | O Colegiado determinou o arquivamento do PAS SP2005/0268 em relação aos proponentes citados, por ter sido cumprido o Termo de Compromisso… | cvm-col-20070731-d01 | fichas/colegiado/2007-14.md |
+| decisao-colegiado | RJ2006/1507 | 2007-07-17 | outro | O Colegiado determinou o arquivamento do PAS RJ2006/1507 em relação a todos os indiciados, por ter sido cumprido o Termo de Compromisso… | cvm-col-20070717-d02 | fichas/colegiado/2007-13.md |
+| decisao-colegiado | RJ2005/9738 | 2007-07-10 | outro | O Colegiado determinou o arquivamento do PAS RJ2005/9738 por ter sido cumprido o Termo de Compromisso aprovado em 14.03.07, conforme… | cvm-col-20070710-d09 | fichas/colegiado/2007-12.md |
+| decisao-colegiado | RJ2006/5664 | 2007-06-28 | outro | O Colegiado determinou o arquivamento do processo RJ2006/5664 por cumprimento do Termo de Compromisso, com base na manifestação da SAD… | cvm-col-20070628-d06 | fichas/colegiado/2007-10.md |
+| decisao-colegiado | RJ2006/5905 | 2007-06-28 | outro | O Colegiado suspendeu o andamento do PAS RJ2006/5905 até 31.08.2007, para que o proponente regularize sua situação e assine o Termo de… | cvm-col-20070628-d04 | fichas/colegiado/2007-10.md |
+| decisao-colegiado | 26/2005 | 2007-05-29 | outro | O Colegiado determinou o arquivamento do PAS 26/2005 por cumprimento do Termo de Compromisso, com base na manifestação da SAD: pagamento na… | cvm-col-20070529-d10 | fichas/colegiado/2007-08.md |
+| decisao-colegiado | RJ2007/3447 | 2007-05-22 | parcial | O Colegiado deu provimento parcial ao recurso da Manasa Madeireira Nacional S.A. contra decisão da SEP, acompanhando o voto da relatora… | cvm-col-20070522-d07 | fichas/colegiado/2007-08.md |
+| decisao-colegiado | 12/2004 | 2007-05-22 | outro | O Colegiado determinou o arquivamento do PAS 12/2004 em relação aos proponentes citados, por cumprimento do Termo de Compromisso, com base… | cvm-col-20070522-d02 | fichas/colegiado/2007-07.md |
+| decisao-colegiado | RJ2004/3751 | 2007-05-15 | nao-provido | O Colegiado manteve a decisão de 28.11.06, que dera provimento a recurso de um conselheiro fiscal e devolvera à SEP a reavaliação de… | cvm-col-20070515-d02 | fichas/colegiado/2007-07.md |
+| decisao-colegiado | RJ2006/1512 | 2007-05-08 | outro | O Colegiado determinou o arquivamento do processo RJ2006/1512 por cumprimento do Termo de Compromisso, com base na manifestação da SAD: o… | cvm-col-20070508-d01 | fichas/colegiado/2007-07.md |
+| decisao-colegiado | 02/2003 | 2007-04-17 | nao-provido | O Colegiado, acompanhando o voto do relator, indeferiu embargos de declaração apresentados por indiciado no PAS 02/2003 (Bompreço S.A.)… | cvm-col-20070417-d09 | fichas/colegiado/2007-06.md |
+| decisao-colegiado | 02/2002 | 2007-04-17 | outro | O Colegiado determinou o arquivamento de PAS por cumprimento do termo de compromisso, após a SAD atestar que o pagamento foi feito na forma… | cvm-col-20070417-d06 | fichas/colegiado/2007-06.md |
+| decisao-colegiado | RJ2006/3461 | 2007-04-11 | outro | O Colegiado determinou o arquivamento de PAS por cumprimento do termo de compromisso celebrado por um dos acusados, conforme manifestação… | cvm-col-20070411-d05 | fichas/colegiado/2007-05.md |
+| decisao-colegiado | RJ2005/8999 | 2007-04-11 | outro | O Colegiado determinou o arquivamento do PAS contra a Matone CVMC Ltda. e outra pessoa, por cumprimento do termo de compromisso, conforme… | cvm-col-20070411-d04 | fichas/colegiado/2007-05.md |
+| decisao-colegiado | RJ2001/12037 | 2007-04-11 | outro | O Colegiado determinou o arquivamento do PAS, por cumprimento do Termo de Compromisso firmado pela Ruhtra Locações Ltda. (ex-Arthur… | cvm-col-20070411-d02 | fichas/colegiado/2007-05.md |
+| decisao-colegiado | RJ2005/5222 | 2007-03-27 | outro | O Colegiado revisou, com base no art. 65 da Lei 9.784/99, sua decisão de 08.11.06 para excluir do PAS o acusado, cujo falecimento anterior… | cvm-col-20070327-d02 | fichas/colegiado/2007-04.md |
+| decisao-colegiado | RJ2006/1296 | 2007-03-20 | outro | O Colegiado determinou o arquivamento do PAS contra o Banco BNP Paribas Brasil S.A. e outro proponente, por cumprimento das obrigações do… | cvm-col-20070320-d05 | fichas/colegiado/2007-04.md |
+| decisao-colegiado | RJ2007/0191 | 2007-02-26 | outro | Concluiu-se que o pedido de reconsideração da PREVI, de decisão do Colegiado de 23.01.07 sobre o estatuto da Sadia, perdeu o objeto. A nova… | cvm-col-20070226-d12 | fichas/colegiado/2007-03.md |
+| acordao-crsfn | 01/6835 | 2007-01-31 | extincao | RECURSO VOLUNTÁRIO – Pedido de Revisão - Mercado de valores mobiliários – Falta de republicação de demonstrações financeiras do exercício… | crsfn-4288-2 | fichas/crsfn/2007-01.md |
+| decisao-colegiado | RJ2004/1616 | 2007-01-30 | deferido | O Colegiado deferiu a prorrogação, por sessenta dias, do prazo para cumprimento de termo de compromisso celebrado por administradores da… | cvm-col-20070130-d11 | fichas/colegiado/2007-02.md |
+| decisao-colegiado | RJ2005/6765 | 2007-01-30 | outro | O Colegiado determinou o arquivamento de PAS por cumprimento do termo de compromisso celebrado pelo acusado, conforme manifestação da SAD… | cvm-col-20070130-d10 | fichas/colegiado/2007-02.md |
+| acordao-crsfn | RJ-2005-3750 | 2007-01-30 | absolvicao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falta de atualização de dados da companhia no registro da CVM – Prescrição – matéria… | crsfn-9250 | fichas/crsfn/2007-01.md |
+| decisao-colegiado | SP2005/0195 | 2007-01-23 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SMI que indeferiu pedido de vista e cópia de processo de investigação, mantendo o… | cvm-col-20070123-d08 | fichas/colegiado/2007-02.md |
+| decisao-colegiado | RJ2006/4665 | 2007-01-09 | outro | O Colegiado, por unanimidade, acompanhou o despacho do relator, que determinou a devolução dos autos à SIN para complementar o Termo de… | cvm-col-20070109-d10 | fichas/colegiado/2007-01.md |
+| decisao-colegiado | 20/2003 | 2007-01-09 | outro | O Colegiado arquivou o PAS 20/2003 quanto aos indiciados, pois a área responsável atestou o cumprimento integral do Termo de Compromisso… | cvm-col-20070109-d01 | fichas/colegiado/2007-01.md |
+| decisao-colegiado | RJ2006/3694 | 2006-12-22 | parcial | O Colegiado indeferiu, por unanimidade, a prorrogação de prazo para recorrer da decisão da SEP sobre refazimento e republicação das… | cvm-col-20061222-d01 | fichas/colegiado/2006-21.md |
+| termo-compromisso | 02/2003 | 2006-12-19 | rejeitado | O Colegiado indeferiu pedido de reconsideração que pretendia rever a rejeição de proposta de termo de compromisso de Koninklijke Ahold N.V… | cvm-col-20061219-d05 | fichas/tc/2006-07.md |
+| decisao-colegiado | RJ2006/0782 | 2006-12-05 | outro | O Colegiado determinou o arquivamento do PAS RJ2006/0782 (BVA Empreendimentos S.A.) por cumprimento do termo de compromisso celebrado pelos… | cvm-col-20061205-d11 | fichas/colegiado/2006-18.md |
+| decisao-colegiado | RJ2002/8494 | 2006-11-07 | nao-provido | Recurso em processo de fundo de garantia. Proc. RJ2002/8494. | cvm-col-20061107-d11 | fichas/colegiado/2006-17.md |
+| decisao-colegiado | RJ2005/7229 | 2006-10-24 | conhecimento | O Colegiado não conheceu do pedido de reconsideração do PAS RJ2005/7229, relativo à revogação de convocação de assembleia da Brasil Telecom… | cvm-col-20061024-d02 | fichas/colegiado/2006-16.md |
+| decisao-colegiado | RJ2003/5473; RJ2002/7017 | 2006-10-10 | outro | O Colegiado arquivou o PAS RJ2003/5473 e o Proc. RJ2002/7017 contra o Banco Ourinvest S.A. e outros, com base na atestação da área técnica… | cvm-col-20061010-d02 | fichas/colegiado/2006-15.md |
+| decisao-colegiado | SP2006/0018 | 2006-09-19 | conhecimento | Recurso em processo de fundo de garantia. Proc. SP2006/0018. | cvm-col-20060919-d04 | fichas/colegiado/2006-14.md |
+| decisao-colegiado | SP2006/0077 | 2006-09-19 | nao-provido | O Colegiado rejeitou o requerimento da corretora Walpires S.A. CCTVM de declaração de nulidade da decisão de 01.08.06, que dera provimento… | cvm-col-20060919-d01 | fichas/colegiado/2006-14.md |
+| decisao-colegiado | 21/00 | 2006-08-29 | provido | Em revisão administrativa com base no art. 65 da Lei 9.784/99, o Colegiado excluiu do PAS 21/00 (Áurea DTVM Ltda.) o acusado falecido antes… | cvm-col-20060829-d09 | fichas/colegiado/2006-14.md |
+| decisao-colegiado | RJ2006/5993 | 2006-08-22 | nao-provido | O Colegiado manteve decisão de 15.08.06 que não acatara pedido de suspensão da AGE do Banco do Brasil, e rejeitou o pedido de… | cvm-col-20060822-d07 | fichas/colegiado/2006-13.md |
+| decisao-colegiado | RJ2002/8494 | 2006-08-08 | nao-provido | O Colegiado manteve integralmente decisão de 04.04.06, que negara provimento a recurso contra decisão da Bovespa sobre reclamação ao Fundo… | cvm-col-20060808-d04 | fichas/colegiado/2006-12.md |
+| decisao-colegiado | 11/03 | 2006-08-08 | outro | O Colegiado arquivou o processo administrativo sancionador PAS 11/03 contra o Banco Pactual S.A. e diretores responsáveis, em razão do… | cvm-col-20060808-d02 | fichas/colegiado/2006-12.md |
+| decisao-colegiado | RJ2006/4891 | 2006-07-25 | nao-provido | Em recurso contra decisão da SFI, o Colegiado negou o pedido de vista da Hedging-Griffo CV S.A. ao Inquérito Administrativo CVM 25/2003… | cvm-col-20060725-d11 | fichas/colegiado/2006-12.md |
+| decisao-colegiado | SP1999/0374 | 2006-07-25 | conhecimento | Pedido de reavaliação de posicionamento jurídico em processo de fundo de garantia. Proc. SP1999/0374. | cvm-col-20060725-d09 | fichas/colegiado/2006-12.md |
+| decisao-colegiado | RJ2005/6729 | 2006-07-18 | outro | O Colegiado arquivou o processo da Docas Investimentos S.A. em razão do cumprimento das cláusulas do termo de compromisso, com base na… | cvm-col-20060718-d07 | fichas/colegiado/2006-11.md |
+| decisao-colegiado | RJ2005/7245 | 2006-07-18 | deferido | O Colegiado deferiu o pedido da Torcedor S.A. e de seus administradores de prazo adicional de 90 dias para cumprir termo de compromisso… | cvm-col-20060718-d03 | fichas/colegiado/2006-11.md |
+| decisao-colegiado | RJ2005/9128 | 2006-07-04 | nao-provido | O Colegiado negou o segundo pedido de reconsideração contra o indeferimento de inscrição como agente autônomo de investimento, por falta de… | cvm-col-20060704-d07 | fichas/colegiado/2006-10.md |
+| decisao-colegiado | RJ2004/5580 | 2006-07-04 | nao-provido | O Colegiado manteve decisão de 03.01.06, que acolheu a SEP e negou provimento a recurso de minoritários da CEMAR sobre alienação de… | cvm-col-20060704-d01 | fichas/colegiado/2006-10.md |
+| decisao-colegiado | SP2005/0350 | 2006-06-06 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2005/0350. | cvm-col-20060606-d05 | fichas/colegiado/2006-09.md |
+| decisao-colegiado | RJ2004/5891 | 2006-06-06 | outro | O Colegiado arquivou o PAS RJ2004/5891 contra a Panamericano DTVM S.A. e outro, por cumprimento das cláusulas do Termo de Compromisso… | cvm-col-20060606-d02 | fichas/colegiado/2006-09.md |
+| decisao-colegiado | RJ2005/4357 | 2006-05-23 | outro | O Colegiado arquivou o PAS RJ2005/4357 contra o Banco Itaú S.A. e outro, com base em análise da área técnica que concluiu pelo cumprimento… | cvm-col-20060523-d06 | fichas/colegiado/2006-08.md |
+| decisao-colegiado | SP2002/0440; SP2005/0099 | 2006-05-23 | outro | Arquivamento de processo em razão de cumprimento de termo de compromisso. PAS SP2002/0440 e PAS SP2005/0099. | cvm-col-20060523-d05 | fichas/colegiado/2006-08.md |
+| decisao-colegiado | RJ2003/5473 | 2006-05-18 | outro | O Colegiado, a pedido dos compromitentes, dispensou o aditamento do Termo de Compromisso assinado em 09.03.06, que não fixava prazo, e… | cvm-col-20060518-d01 | fichas/colegiado/2006-07.md |
+| decisao-colegiado | 10/2004 | 2006-04-25 | outro | O Colegiado determinou o arquivamento do PAS 10/2004, contra a Cidade de Deus Companhia Comercial de Participações e outro, com base na… | cvm-col-20060425-d04 | fichas/colegiado/2006-07.md |
+| decisao-colegiado | 20/2003 | 2006-04-25 | deferido | O Colegiado deferiu pedido de prorrogação, até dezembro de 2006, do prazo para cumprimento de Termo de Compromisso (cursos de Direito… | cvm-col-20060425-d01 | fichas/colegiado/2006-06.md |
+| decisao-colegiado | RJ2006/3107 | 2006-04-19 | nao-provido | O Colegiado negou provimento ao recurso da BKR Lopes Machado Auditores e de seu sócio contra decisão da SNC que indeferiu a suspensão de… | cvm-col-20060419-d08 | fichas/colegiado/2006-06.md |
+| decisao-colegiado | RJ2005/8542 | 2006-04-11 | outro | O Colegiado aprovou a recapitulação das infrações imputadas ao Banco WestLB do Brasil S.A. e outro, relativas às operações de 2005… | cvm-col-20060411-d5041 | fichas/colegiado/2006-06.md |
+| decisao-colegiado | 12/2003 | 2006-04-04 | outro | O Colegiado arquivou PAS 12/2003 em relação à BB Administração de Ativos – DTVM e administradores signatários de termo de compromisso, por… | cvm-col-20060404-d08 | fichas/colegiado/2006-05.md |
+| decisao-colegiado | RJ2002/4186 | 2006-03-28 | outro | O Colegiado arquivou PAS contra a Prosper S.A. CVC e outro compromitente, por cumprimento de termo de compromisso, com base em análise da… | cvm-col-20060328-d01 | fichas/colegiado/2006-05.md |
+| decisao-colegiado | SP2005/0393 | 2006-03-21 | provido | O Colegiado acompanhou o voto do relator, que deu provimento ao recurso da Fundação Petrobrás de Seguridade Social – Petros contra… | cvm-col-20060321-d05 | fichas/colegiado/2006-05.md |
+| decisao-colegiado | 16/2001 | 2006-03-07 | outro | O Colegiado arquivou o PAS 16/2001 em relação ao compromitente, por cumprimento de termo de compromisso, com base em análise da área… | cvm-col-20060307-d02 | fichas/colegiado/2006-04.md |
+| decisao-colegiado | RJ2003/12406 | 2006-03-07 | nao-provido | O Colegiado manteve o indeferimento de proposta de termo de compromisso apresentada por sociedade de auditoria e por uma pessoa física, em… | cvm-col-20060307-d01 | fichas/colegiado/2006-04.md |
+| decisao-colegiado | RJ2001/12130 | 2006-03-03 | outro | O Colegiado arquivou PAS sobre cumprimento de termo de compromisso firmado pela Petrobras e por pessoa física, com base em análise da área… | cvm-col-20060303-d02 | fichas/colegiado/2006-04.md |
+| decisao-colegiado | RJ2005/4961 | 2006-02-21 | outro | O Colegiado determinou que a Zain Participações obtenha do Citibank, via DRI, o contrato de alienação de ações, para cumprir a Instrução… | cvm-col-20060221-d02 | fichas/colegiado/2006-03.md |
+| decisao-colegiado | RJ2004/6068 | 2006-02-15 | deferido | O Colegiado deferiu prazo adicional de 30 dias para o requerente apresentar lista de convidados de seminário previsto no termo de… | cvm-col-20060215-d08 | fichas/colegiado/2006-03.md |
+| decisao-colegiado | RJ2006/0595 | 2006-02-07 | nao-provido | O Colegiado negou provimento a recurso da FUNCEF contra decisão da SFI que indeferiu extração de cópia do PAS 06/94, por sigilo da Lei… | cvm-col-20060207-d01 | fichas/colegiado/2006-03.md |
+| decisao-colegiado | RJ2001/12130 | 2006-01-24 | outro | O Colegiado decidiu que, antes do arquivamento definitivo de PAS sobre cumprimento de termo de compromisso firmado pela Petrobras e por… | cvm-col-20060124-d03 | fichas/colegiado/2006-01.md |
+| decisao-colegiado | RJ2004/5328 | 2006-01-03 | nao-provido | O Colegiado rejeitou pedido de reconsideração da PREVI e da PETROS contra decisão de 09.08.05, que negara provimento a recurso delas contra… | cvm-col-20060103-d09 | fichas/colegiado/2006-01.md |
+| decisao-colegiado | RJ2003/4007 | 2006-01-03 | outro | O Colegiado arquivou o processo da Hedging-Griffo Corretora de Valores S.A. em razão do cumprimento das cláusulas do Termo de Compromisso… | cvm-col-20060103-d01 | fichas/colegiado/2006-01.md |
+| decisao-colegiado | RJ2003/5473 | 2005-12-27 | deferido | O Colegiado deferiu o pedido do Banco Ourinvest S.A. e prorrogou para 01.02.06 o prazo de assinatura do Termo de Compromisso no PAS… | cvm-col-20051227-d13 | fichas/colegiado/2005-21.md |
+| termo-compromisso | RJ2004/3648 | 2005-12-27 | outro | O Colegiado absolveu a BB Administração de Ativos DTVM S.A. da imputação de infração ao art. 32 da Instrução CVM nº 215/95, acompanhando a… | cvm-col-20051227-d04 | fichas/tc/2005-03.md |
+| decisao-colegiado | RJ2004/6068 | 2005-12-20 | deferido | O Colegiado deferiu pedido de prorrogação do prazo para cumprimento das cláusulas de termo de compromisso aprovado em 09.08.05 no PAS… | cvm-col-20051220-d11 | fichas/colegiado/2005-20.md |
+| decisao-colegiado | RJ2004/1616 | 2005-12-13 | parcial | O Colegiado deu provimento parcial a pedido de reconsideração de termo de compromisso da Petrobras, para esclarecer que obrigações perante… | cvm-col-20051213-d05 | fichas/colegiado/2005-19.md |
+| decisao-colegiado | RJ2003/5473; RJ2002/7017 | 2005-12-13 | parcial | O Colegiado deu provimento parcial ao pedido do Banco Ourinvest S.A. de alterar a redação do Termo de Compromisso aprovado em 01.11.05. Em… | cvm-col-20051213-d02 | fichas/colegiado/2005-19.md |
+| decisao-colegiado | RJ2005/7874 | 2005-12-06 | nao-provido | O Colegiado negou o pedido de vista de Bonus Banval Participações Ltda., em recurso contra decisão da SFI que negou extração de cópias do… | cvm-col-20051206-d03 | fichas/colegiado/2005-19.md |
+| decisao-colegiado | RJ2004/5891 | 2005-11-22 | deferido | O Colegiado prorrogou para o 1º quadrimestre de 2006 o prazo de início do curso sobre Direito Societário e Mercado de Valores Mobiliários… | cvm-col-20051122-d21 | fichas/colegiado/2005-18.md |
+| decisao-colegiado | 08/02 | 2005-11-17 | outro | O Colegiado arquivou o PAS 08/02 em relação aos indiciados, por comprovação do cumprimento integral das condições do Termo de Compromisso… | cvm-col-20051117-d06 | fichas/colegiado/2005-17.md |
+| decisao-colegiado | RJ2002/6032 | 2005-11-08 | outro | O Colegiado determinou nova intimação dos acusados no PAS RJ2002/6032 (Sul América Investimentos DTVM S.A. e outro) para apresentação de… | cvm-col-20051108-d3883 | fichas/colegiado/2005-17.md |
+| decisao-colegiado | 04/01 | 2005-10-25 | nao-provido | O Colegiado indeferiu pedidos de reconsideração de sua decisão no PAS 04/01 (Postalis), inclusive quanto à atribuição de efeito suspensivo… | cvm-col-20051025-d11 | fichas/colegiado/2005-16.md |
+| termo-compromisso | 20/03 | 2005-10-18 | outro | O Colegiado considerou cumprido o Termo de Compromisso do PAS 20/03, com inscrição em curso substituto de conteúdo semelhante, que a PFE… | cvm-col-20051018-d08 | fichas/tc/2005-02.md |
+| decisao-colegiado | RJ2005/4653 | 2005-10-18 | outro | O Colegiado entendeu que, prestados os esclarecimentos da área de fiscalização e interposto recurso ao CRSFN, extinguiu-se a função… | cvm-col-20051018-d03 | fichas/colegiado/2005-15.md |
+| decisao-colegiado | RJ2005/4284 | 2005-10-11 | conhecimento | O Colegiado não conheceu do pedido de reconsideração da 524 Participações S.A. contra decisão que determinou a reapresentação de ITRs de… | cvm-col-20051011-d03 | fichas/colegiado/2005-14.md |
+| decisao-colegiado | SP2005/0209 | 2005-10-04 | provido | Recurso em processo de fundo de garantia. Proc. SP2005/0209. | cvm-col-20051004-d06 | fichas/colegiado/2005-14.md |
+| decisao-colegiado | RJ2004/2692 | 2005-10-04 | outro | O Colegiado determinou o arquivamento do PAS em razão do óbito do único indiciado, comprovado por atestado de óbito. | cvm-col-20051004-d02 | fichas/colegiado/2005-14.md |
+| decisao-colegiado | 14/03 | 2005-09-30 | outro | O julgamento, marcado para 21.09.05, foi adiado por dúvidas na capitulação das imputações. O Colegiado determinou nova intimação dos… | cvm-col-20050930-d4076 | fichas/colegiado/2005-14.md |
+| decisao-colegiado | 02/01 | 2005-09-30 | outro | O Colegiado determinou o arquivamento do PAS nº 02/01, por cumprimento das cláusulas dos termos de compromisso celebrados pelos… | cvm-col-20050930-d01 | fichas/colegiado/2005-13.md |
+| decisao-colegiado | RJ2003/5596 | 2005-09-20 | nao-provido | O Colegiado, acompanhando o voto da relatora, indeferiu pedido de reconsideração de condenação em PAS, por entender que a autoridade… | cvm-col-20050920-d03 | fichas/colegiado/2005-13.md |
+| decisao-colegiado | RJ2003/4367 | 2005-09-20 | indeferido | O Colegiado indeferiu novo pedido de prorrogação de prazo para apresentação de Termo de Compromisso definitivo, acompanhando o voto da… | cvm-col-20050920-d01 | fichas/colegiado/2005-13.md |
+| decisao-colegiado | RJ2004/3648 | 2005-08-09 | outro | Pedido de reconsideração de decisão colegiado. PAS RJ2004/3648. | cvm-col-20050809-d05 | fichas/colegiado/2005-11.md |
+| decisao-colegiado | SP2003/0167 | 2005-08-09 | nao-provido | Pedido de reconsideração de decisão do colegiado em processo de fundo de garantia. Proc. SP2003/0167. | cvm-col-20050809-d04 | fichas/colegiado/2005-11.md |
+| decisao-colegiado | RJ2003/4367 | 2005-07-12 | deferido | O Colegiado deferiu, a pedido do indiciado, a prorrogação do prazo final de cumprimento das obrigações do termo de compromisso no PAS CVM… | cvm-col-20050712-d06 | fichas/colegiado/2005-10.md |
+| decisao-colegiado | RJ2002/6453 | 2005-07-12 | outro | O Colegiado, acompanhando o voto do relator, considerou cumprido o termo de compromisso celebrado pela Fama Investimentos Ltda. e um dos… | cvm-col-20050712-d01 | fichas/colegiado/2005-10.md |
+| decisao-colegiado | RJ2003/3972 | 2005-07-05 | outro | Arquivamento de processo em razão de cumprimento de termo de compromisso. PAS RJ2003/3972. | cvm-col-20050705-d04 | fichas/colegiado/2005-10.md |
+| decisao-colegiado | 08/02 | 2005-06-21 | outro | O Colegiado arquivou o PAS 08/02 em relação à SOMA e a um dos proponentes, com base na área técnica, que concluiu pelo cumprimento das… | cvm-col-20050621-d02 | fichas/colegiado/2005-09.md |
+| decisao-colegiado | RJ2002/8173 | 2005-06-21 | outro | O Colegiado determinou o arquivamento do processo administrativo sancionador, com base na área técnica, que concluiu pelo cumprimento das… | cvm-col-20050621-d01 | fichas/colegiado/2005-09.md |
+| decisao-colegiado | RJ2003/5459 | 2005-06-14 | deferido | O Colegiado deferiu, por razoabilidade do motivo alegado e acompanhando o relator, prazo suplementar de 90 dias para o Banco Bradesco S.A… | cvm-col-20050614-d06 | fichas/colegiado/2005-09.md |
+| decisao-colegiado | 21/2004; RJ2005/1779 | 2005-06-14 | parcial | O Colegiado deu provimento parcial ao recurso do Banco do Brasil contra a solicitação da SFI de cópias de livros de reuniões de diretoria e… | cvm-col-20050614-d05 | fichas/colegiado/2005-09.md |
+| decisao-colegiado | 08/02 | 2005-06-14 | deferido | O Colegiado deferiu, por razoabilidade do motivo alegado, nova prorrogação de três meses do prazo do termo de compromisso da Atrium CCTVM… | cvm-col-20050614-d02 | fichas/colegiado/2005-09.md |
+| decisao-colegiado | SP2004/0110 | 2005-06-07 | nao-provido | Recurso em processo de fundo de garantia. Proc. SP2004/0110. | cvm-col-20050607-d11 | fichas/colegiado/2005-09.md |
+| decisao-colegiado | SP2003/0167 | 2005-06-07 | provido | Pedido de reconsideração de decisão do colegiado em processo de fundo de garantia / banco bilbao vizcaya argentaria brasil S.A. / pax CVC… | cvm-col-20050607-d08 | fichas/colegiado/2005-09.md |
+| decisao-colegiado | RJ2002/1965 | 2005-05-16 | nao-provido | Pedido de reconsideração em processo de fundo de garantia. Proc. RJ2002/1965. | cvm-col-20050516-d03 | fichas/colegiado/2005-08.md |
+| termo-compromisso | 16/01 | 2005-05-16 | outro | O Colegiado acolheu o entendimento da relatora e determinou alteração no item (ii) da proposta de Termo de Compromisso do Bank of America… | cvm-col-20050516-d02 | fichas/tc/2005-01.md |
+| decisao-colegiado | 08/02 | 2005-05-10 | deferido | O Colegiado deferiu o pedido da Atrium CCTVM Ltda. para que o prazo de 90 dias de cumprimento do Termo de Compromisso (doação de livros à… | cvm-col-20050510-d02 | fichas/colegiado/2005-08.md |
+| decisao-colegiado | RJ2004/3098 | 2005-04-19 | nao-provido | O Colegiado manteve integralmente sua decisão de 25.01.05, que acompanhou a SEP, e rejeitou o pedido de reconsideração da SANEPAR por não… | cvm-col-20050419-d09 | fichas/colegiado/2005-07.md |
+| decisao-colegiado | 01/88 | 2005-04-12 | outro | O Colegiado reconheceu a prescrição da pretensão punitiva da CVM no processo 01/88, relativo às demonstrações financeiras da Marcovan S.A… | cvm-col-20050412-d12 | fichas/colegiado/2005-07.md |
+| decisao-colegiado | RJ2004/2728 | 2005-03-22 | nao-provido | O Colegiado, acompanhando o relator, negou pedido de reconsideração de decisão de 27.07.04 que não dispensou a publicação de fato relevante… | cvm-col-20050322-d03 | fichas/colegiado/2005-05.md |
+| decisao-colegiado | RJ1990/0386 | 2005-03-14 | deferido | Pedido de efeito suspensivo de decisão do colegiado relativa a fundo de garantia. Proc. RJ1990/0386. | cvm-col-20050314-d01 | fichas/colegiado/2005-05.md |
+| acordao-crsfn | IA-2000/25 | 2005-02-23 | extincao | RECURSOS VOLUNTÁRIO E DE OFÍCIO – Mercado de valores mobiliários – Prática não-equitativa (aquisição de ações de prefeitura municipal com… | crsfn-5957 | fichas/crsfn/2005-01.md |
+| decisao-colegiado | SP2000/0110 | 2005-01-25 | outro | Manifestação do coaf em processo de rito sumário. Proc. SP2000/0110. | cvm-col-20050125-d13 | fichas/colegiado/2005-02.md |
+| decisao-colegiado | RJ2002/7471 | 2004-12-23 | nao-provido | Recurso da MRS Logística S.A. contra decisão da SFI que negou vista e cópia integral dos autos de processo em fase investigativa. O… | cvm-col-20041223-d25 | fichas/colegiado/2004-17.md |
+| decisao-colegiado | RJ2003/5551; SP2003/0294; RJ2003/11969 | 2004-12-23 | nao-provido | O Colegiado negou provimento aos recursos de investidores contra decisão da SEP que indeferiu pedido de vista dos autos dos processos… | cvm-col-20041223-d02 | fichas/colegiado/2004-16.md |
+| decisao-colegiado | RJ90/0386 | 2004-12-23 | outro | Pedido de efeito suspensivo de decisão do colegiado relativa a fundo de garantia. Proc. RJ90/0386. | cvm-col-20041223-d01 | fichas/colegiado/2004-16.md |
+| termo-compromisso | RJ2001/4652 | 2004-12-07 | outro | O Colegiado não apreciou proposta de Termo de Compromisso apresentada pela companhia, que não era indiciada no PAS, e determinou o… | cvm-col-20041207-d13 | fichas/tc/2004-02.md |
+| decisao-colegiado | 25/98 | 2004-12-07 | outro | O Colegiado, acompanhando o relator e a área técnica, que concluiu pelo cumprimento das cláusulas, arquivou o PAS CVM 25/98 (Tupy S.A.) em… | cvm-col-20041207-d07 | fichas/colegiado/2004-15.md |
+| decisao-colegiado | 30/93 | 2004-12-07 | outro | O Colegiado, com exceção de uma diretora impedida, acompanhou o voto do relator e arquivou o PAS CVM 30/93 por cumprimento das cláusulas do… | cvm-col-20041207-d01 | fichas/colegiado/2004-15.md |
+| decisao-colegiado | IA04/03 | 2004-11-30 | conhecimento | O Colegiado considerou prejudicado, por perda de objeto, o recurso contra decisão da SFI que negou cópia integral dos autos de inquérito… | cvm-col-20041130-d02 | fichas/colegiado/2004-15.md |
+| decisao-colegiado | 12/03 | 2004-11-23 | outro | O Colegiado, acompanhando o voto da relatora, afirmou a competência da CVM para concluir processos sancionadores oriundos do Banco Central… | cvm-col-20041123-d07 | fichas/colegiado/2004-14.md |
+| decisao-colegiado | 19/00 | 2004-10-25 | outro | O Colegiado, por unanimidade, acompanhou o voto da relatora e não considerou cumprido o Termo de Compromisso firmado por diretores e… | cvm-col-20041025-d08 | fichas/colegiado/2004-12.md |
+| decisao-colegiado | RJ2004/2626 | 2004-09-21 | nao-provido | O Colegiado indeferiu pedido de reconsideração e o efeito suspensivo alternativo à multa cominatória da SEP. Fundamento: sem fato novo e… | cvm-col-20040921-d08 | fichas/colegiado/2004-11.md |
+| decisao-colegiado | RJ2003/12755 | 2004-09-10 | outro | O Colegiado acolheu pedido de desistência de dois fundos recorrentes do pedido de reconsideração sobre alterações estatutárias da Companhia… | cvm-col-20040910-d07 | fichas/colegiado/2004-11.md |
+| termo-compromisso | SP2001/0204 | 2004-08-05 | rejeitado | O Colegiado negou a celebração de termo de compromisso proposto por uma corretora e outros proponentes em processo de rito sumário, por… | cvm-col-20040805-d05 | fichas/tc/2004-01.md |
+| decisao-colegiado | RJ99/5785 | 2004-07-27 | nao-provido | Pedido de reconsideração de decisão do colegiado em processo de fundo de garantia. Proc. RJ99/5785. | cvm-col-20040727-d06 | fichas/colegiado/2004-09.md |
+| termo-compromisso | 05/02 | 2004-07-02 | rejeitado | O Colegiado, acompanhando o voto do relator e com exceção de uma diretora que manifestou impedimento, rejeitou proposta de termo de… | cvm-col-20040702-d05 | fichas/tc/2004-01.md |
+| decisao-colegiado | SP2003/0462 | 2004-06-08 | nao-provido | Pedido de reconsideração de decisão do colegiado relativa a multa cominatória. Proc. SP2003/0462. | cvm-col-20040608-d01 | fichas/colegiado/2004-06.md |
+| decisao-colegiado | RJ2001/1789 | 2004-05-11 | outro | O Colegiado determinou o arquivamento de processo de rito sumário em razão do cumprimento de termo de compromisso, com base em parecer de… | cvm-col-20040511-d07 | fichas/colegiado/2004-05.md |
+| decisao-colegiado | SP99/0360 | 2004-05-11 | nao-provido | Pedido de reconsideração de decisão do colegiado em processo de fundo de garantia. Proc. SP99/0360. | cvm-col-20040511-d03 | fichas/colegiado/2004-05.md |
+| decisao-colegiado | RJ2003/6116 | 2004-03-09 | deferido | O Colegiado, acompanhando o voto do diretor-relator, deferiu pedido da Wetzel S.A. de dilação do prazo para atender a decisão do Colegiado… | cvm-col-20040309-d16 | fichas/colegiado/2004-03.md |
+| decisao-colegiado | RJ2004/0203 | 2004-03-09 | deferido | Pedido de reconsideração de decisão do colegiado. Proc. RJ2004/0203. | cvm-col-20040309-d10 | fichas/colegiado/2004-03.md |
+| decisao-colegiado | RJ2004/0712 | 2004-03-09 | deferido | Pedido de reconsideração de decisão do colegiado. Proc. RJ2004/0712. | cvm-col-20040309-d09 | fichas/colegiado/2004-03.md |
+| decisao-colegiado | — | 2004-01-21 | deferido | O Colegiado concedeu mais 30 dias, contados de 31.12.2003, para a Global Brasil S.A. atender às exigências do pedido de registro de… | cvm-col-20040121-d08 | fichas/colegiado/2004-01.md |
+| decisao-colegiado | RJ2003/6134 | 2003-12-16 | deferido | O Colegiado concedeu à Votorantim Cimentos Ltda. prazo de 25 dias, contados de 10.12.2003, data em que teve acesso ao voto do relator, para… | cvm-col-20031216-d10 | fichas/colegiado/2003-14.md |
+| decisao-colegiado | RJ2003/12767 | 2003-12-08 | nao-provido | Por maioria, o Colegiado indeferiu pedido de reconsideração de decisão anterior sobre a interrupção do prazo de antecedência da convocação… | cvm-col-20031208-d01 | fichas/colegiado/2003-14.md |
+| decisao-colegiado | RJ2001/11505 | 2003-11-11 | nao-provido | O Colegiado indeferiu pedido de reconsideração de decisão que negou autorização para exercício da atividade de agente autônomo de… | cvm-col-20031111-d09 | fichas/colegiado/2003-13.md |
+| decisao-colegiado | RJ2003/6116; RJ2002/4166 | 2003-10-28 | outro | Em pedido de reconsideração de decisão que indeferiu recurso contra reapresentação de demonstrações de 2001 e 2002 da Wetzel S.A., o… | cvm-col-20031028-d04 | fichas/colegiado/2003-12.md |
+| decisao-colegiado | — | 2003-10-28 | outro | Consulta sobre a continuidade do processo contra acusado excluído do julgamento por notícia de falecimento. O Colegiado determinou à SGE… | cvm-col-20031028-d02 | fichas/colegiado/2003-12.md |
+| decisao-colegiado | RJ2003/7947 | 2003-10-21 | conhecimento | O Colegiado não conheceu de recurso contra manifestação da PFE em processo de amicus curiae na 4ª Vara Empresarial do Rio de Janeiro, nos… | cvm-col-20031021-d01 | fichas/colegiado/2003-12.md |
+| decisao-colegiado | RJ2002/2555 | 2003-08-20 | deferido | O Colegiado aprovou a dilatação do prazo para cumprimento de obrigações assumidas em termo de compromisso pelo Banco Santander S.A., nos… | cvm-col-20030820-d01 | fichas/colegiado/2003-10.md |
+| decisao-colegiado | IA03/97 | 2003-08-05 | nao-provido | O Colegiado negou provimento aos recursos contra decisão que indeferiu a produção de prova oral e testemunhal, acompanhando o voto da… | cvm-col-20030805-d01 | fichas/colegiado/2003-10.md |
+| decisao-colegiado | RJ1997/0696 | 2003-04-08 | outro | O Colegiado acompanhou o voto do diretor-relator e determinou o arquivamento do processo contra a Concórdia S/A CVMCC e seu diretor, por… | cvm-col-20030408-d03 | fichas/colegiado/2003-04.md |
+| decisao-colegiado | — | 2002-12-23 | outro | O Colegiado aprovou a minuta de deliberação que estabelece procedimentos para a tramitação de inquéritos administrativos sancionadores… | cvm-col-20021223-d01 | fichas/colegiado/2002-26.md |
+| decisao-colegiado | RJ2001/6951 | 2002-11-22 | outro | Por maioria, o Colegiado acompanhou o relator e aprovou o arquivamento do pedido de reconsideração da Vicunha NE S.A. Indústria Têxtil… | cvm-col-20021122-d01 | fichas/colegiado/2002-25.md |
+| decisao-colegiado | RJ2002/2714 | 2002-11-12 | nao-provido | Pedido de reconsideração de decisão do colegiado. Proc. RJ2002/2714. | cvm-col-20021112-d09 | fichas/colegiado/2002-25.md |
+| decisao-colegiado | SP2001/0227 | 2002-10-15 | outro | Recurso em processo de fundo de garantia. Proc. SP2001/0227. | cvm-col-20021015-d04 | fichas/colegiado/2002-24.md |
+| decisao-colegiado | RJ2001/12253 | 2002-10-15 | nao-provido | O Colegiado negou pedido de reconsideração da Newtel Participações contra decisão que reformou decisão da SEP e orientou a companhia a… | cvm-col-20021015-d02 | fichas/colegiado/2002-24.md |
+| decisao-colegiado | — | 2002-09-24 | nao-provido | O Colegiado negou provimento a recurso da Forpart S.A. contra decisão da SFI que negou cópia dos autos de inquérito administrativo… | cvm-col-20020924-d03 | fichas/colegiado/2002-22.md |
+| decisao-colegiado | RJ2000/2075 | 2002-07-03 | nao-provido | Recurso em processo de fundo de garantia. Proc. RJ2000/2075. | cvm-col-20020703-d06 | fichas/colegiado/2002-16.md |
+| decisao-colegiado | RJ2001/100519 | 2002-06-18 | nao-provido | O Colegiado negou o pedido de reconsideração de decisão anterior e manteve a multa de R$ 3.000,00 aplicada pela SNC por falta das… | cvm-col-20020618-d11 | fichas/colegiado/2002-14.md |
+| decisao-colegiado | SP2001/0806 | 2002-06-11 | deferido | Pedido de retificação de voto em processo de fundo de garantia. Proc. SP2001/0806. | cvm-col-20020611-d11 | fichas/colegiado/2002-13.md |
+| decisao-colegiado | SP2001/0297 | 2002-06-11 | nao-provido | Recurso contra a decisão da SMI em processo de fundo de garantia. Proc. SP2001/0297. | cvm-col-20020611-d07 | fichas/colegiado/2002-13.md |
+| decisao-colegiado | SP2001/0437 | 2002-05-14 | outro | Recurso contra a decisão da SMI em processo de fundo de garantia. Proc. SP2001/0437. | cvm-col-20020514-d04 | fichas/colegiado/2002-11.md |
+| decisao-colegiado | RJ2000/0250 | 2002-04-26 | indeferido | Suspensão de prazo fixado pela SMI para o cumprimento de decisão do colegiado em processo de fundo de garantia. Proc. RJ2000/0250. | cvm-col-20020426-d07 | fichas/colegiado/2002-09.md |
+| decisao-colegiado | SP2001/0270 | 2002-04-16 | nao-provido | Recurso contra decisão da SMI em processo de fundo de garantia. Proc. SP2001/0270. | cvm-col-20020416-d01 | fichas/colegiado/2002-08.md |
+| decisao-colegiado | RJ2000/5874 | 2002-03-19 | nao-provido | O Colegiado rejeitou pedido de reconsideração do Banco Opportunity S.A. contra decisão que manteve o refazimento de demonstrações… | cvm-col-20020319-d14 | fichas/colegiado/2002-06.md |
+| decisao-colegiado | RJ99/5785 | 2002-03-19 | nao-provido | Recurso contra a decisão da SMI em processo de fundo de garantia. Proc. RJ99/5785. | cvm-col-20020319-d02 | fichas/colegiado/2002-05.md |
+| decisao-colegiado | RJ2000/4250 | 2002-03-12 | nao-provido | O Colegiado, acompanhando o relator, rejeitou pedido de reconsideração de decisão que manteve multa cominatória da SNC por atraso em… | cvm-col-20020312-d01 | fichas/colegiado/2002-04.md |
+| decisao-colegiado | RJ2000/4801 | 2002-02-14 | nao-provido | O Colegiado acompanhou o voto do relator e indeferiu novo pedido de reconsideração da Walpires S.A. CCTVM contra decisão que mandou o Fundo… | cvm-col-20020214-d03 | fichas/colegiado/2002-02.md |
+| decisao-colegiado | SP2001/0292 | 2002-02-05 | nao-provido | Recurso contra decisão da SMI em processo de fundo de garantia. Proc. SP2001/0292. | cvm-col-20020205-d02 | fichas/colegiado/2002-02.md |
+| acordao-crsfn | 97/3122 | 1999-11-25 | outro | RECURSO VOLUNTÁRIO - Mercado de valores mobiliários – Falta de tempestiva remessa, à CVM, de informações atualizadas sobre o registro de… | crsfn-2806 | fichas/crsfn/1999-03.md |
+| pas | 05/1998 | 1999-07-08 | outro | DC CORRETORA DE CÂMBIO, TÍTULOS E VALORES MOBILIÁRIOS S/A, [pessoa física], ITAÚ CV S/A, [pessoa física], [pessoa física], [pessoa física]… | cvm-pas-05-1998 | fichas/pas/1999.md |
+| acordao-crsfn | 03/90 | 1996-04-16 | outro | RECURSOS VOLUNTÁRIOS. Interposição de recursos ao CRSFN fora do prazo regulamentar. Incompetência do órgão de primeira instância para… | crsfn-1145 | fichas/crsfn/1996-01.md |
+| acordao-crsfn | 11/93 | 1996-02-15 | condenacao | RECURSO DE OFÍCIO. Inexistência de registros atualizados. Acolhimento de ordens de clientes não cadastrados. Não apresentação de contrato… | crsfn-1620 | fichas/crsfn/1996-01.md |
+| acordao-crsfn | 12/92 | 1996-02-15 | outro | RECURSO DE OFÍCIO. Constituição de Comissão para abertura de inquérito com vistas à apuração de ilícito. Não cabimento de recurso. | crsfn-1582 | fichas/crsfn/1996-01.md |
 
 Fim do subíndice.

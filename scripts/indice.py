@@ -33,7 +33,10 @@ julgados (CVM e CRSFN) de `raiz` (`julgados/`, na raiz do repositório): `indice
 (a skill é a única pasta que o claude.ai monta). Cada linha leva a uma ficha (`scripts/fichas.py`,
 em `julgados/fichas/` da skill): colunas `Id` (id da ficha) e `Ficha` (caminho do arquivo relativo à
 pasta `julgados/` da skill, ex. `fichas/pas/2023-08.md`; o arquivo tem várias fichas, cada uma sob
-`## <id>`); ementa e tema ficam na ficha, o texto integral no link `texto_integral` dela. `alvo_link`
+`## <id>`); os índices por tema, por tipo e ano e por processo levam a coluna Ementa (curta, até
+140 caracteres, `ementa_curta`); o índice por norma não (somava 67 MB) e o das decisões antigas leva a coluna
+Título (a ementa da ficha, já sem pessoa física); tema e a ementa inteira ficam na ficha, o texto integral
+no link `texto_integral` dela. `alvo_link`
 é a única função que decide o alvo. Os índices calculam as fichas em memória (`fichas.montar`) a
 partir de `raiz`; julgado sem ficha é erro. As decisões antigas (1978 a 2001) têm um índice por
 decisão (`indices/decisao-antiga-AAAA.md`), uma linha por ficha `<id-anual>-NNNN`; nos demais índices
@@ -749,16 +752,48 @@ def _ler_julgados(raiz, ctx=None):
     return sorted(itens, key=lambda v: (v.get("data", ""), v["_caminho"]), reverse=True)
 
 
-def _tabela_julgados(itens, com_tipo=False, extra=None):
-    cab = (["Tipo"] if com_tipo else []) + ["Processo", "Data", "Resultado", "Id", "Ficha"]
+EMENTA_CURTA = 140  # caracteres da ementa curta (com a reticência) nos índices que a trazem
+
+
+def ementa_curta(txt, n=EMENTA_CURTA):
+    """Ementa de uma linha, de até `n` caracteres: espaços colapsados e, se passar, cortada em limite
+    de palavra, com "…" no fim (o "…" conta nos `n`). Vazia, devolve "—"."""
+    t = " ".join((txt or "").split())
+    if not t:
+        return "—"
+    if len(t) <= n:
+        return t
+    corte = t[:n - 1]
+    if not t[n - 1].isspace():
+        i = corte.rfind(" ")
+        if i > 0:
+            corte = corte[:i]
+    return corte.rstrip(" ,;:.-–") + "…"
+
+
+def _ementa_ficha(f):
+    """Ementa da ficha `f` (item de `fichas.coletar`): a do julgado, ou a das decisões antigas (já sem
+    pessoa física)."""
+    return f["campos"]["ementa"] if "campos" in f else f.get("ementa", "")
+
+
+def _ementa_do_julgado(v):
+    return ementa_curta(_ementa_ficha(v["_fichas"][0]))
+
+
+def _tabela_julgados(itens, com_tipo=False, extra=None, com_ementa=True):
+    """Tabela de julgados. `com_ementa`: coluna Ementa (curta) antes de Id; os índices por norma não a
+    levam (somavam 67 MB)."""
+    cab = (["Tipo"] if com_tipo else []) + ["Processo", "Data", "Resultado"] + (
+        ["Ementa"] if com_ementa else []) + ["Id", "Ficha"]
     if extra:
         cab = [extra[0]] + cab
     md = ["| %s |" % " | ".join(cab), "|%s" % ("---|" * len(cab))]
     for linha in itens:
         v, pre = (linha if extra else (linha, None))
         cel = ([v["tipo"]] if com_tipo else []) + [
-            _celula(v.get("processo")) or "—", v.get("data", ""), v.get("resultado") or "—",
-            v["_ficha_id"], alvo_link(v)]
+            _celula(v.get("processo")) or "—", v.get("data", ""), v.get("resultado") or "—"] + (
+            [_celula(_ementa_do_julgado(v))] if com_ementa else []) + [v["_ficha_id"], alvo_link(v)]
         if extra:
             cel = [pre] + cel
         md.append("| %s |" % " | ".join(cel))
@@ -793,9 +828,9 @@ def _secoes_norma(nid, grupos, h="##"):
                 vistos.add((rot, v["_caminho"]))
                 uniq.append((v, rot))
         md += ["%s %sart. %s" % (h, parte + ", " if parte else "", artigo), ""]
-        md += _tabela_julgados(uniq, com_tipo=True, extra=("Dispositivo",)) + [""]
+        md += _tabela_julgados(uniq, com_tipo=True, extra=("Dispositivo",), com_ementa=False) + [""]
     if grupos["sem"]:
-        md += ["%s Citada sem dispositivo identificado" % h, ""] + _tabela_julgados(grupos["sem"], com_tipo=True) + [""]
+        md += ["%s Citada sem dispositivo identificado" % h, ""] + _tabela_julgados(grupos["sem"], com_tipo=True, com_ementa=False) + [""]
     return md
 
 
@@ -956,14 +991,14 @@ def _por_processo(itens):
             "minúsculas, ano, número com 4 dígitos); numeração curta dos PAS `NN-AAAA`. Procure pelo "
             "número normalizado ou pela forma do julgado. Dois julgados do mesmo processo (um PAS e o "
             "termo de compromisso ou o acórdão do CRSFN dele) aparecem com o mesmo número.")
-    cab = ["Processo (normalizado)", "Forma no julgado", "Tipo", "Data", "Id", "Ficha"]
+    cab = ["Processo (normalizado)", "Forma no julgado", "Tipo", "Data", "Ementa", "Id", "Ficha"]
     for ano, linhas in sorted(por_ano.items()):
         md = _cab_julgados("Julgados por processo, ano %s" % ano, ["", nota]) + [
             "| %s |" % " | ".join(cab), "|%s" % ("---|" * len(cab))]
         for _k, todos, forma, v in sorted(linhas, key=lambda x: (x[0], x[3].get("data", ""), x[3]["_caminho"])):
-            md.append("| %s | %s | %s | %s | %s | %s |" % (
+            md.append("| %s | %s | %s | %s | %s | %s | %s |" % (
                 "; ".join(todos), forma or "—", v["tipo"], v.get("data", ""),
-                v["_ficha_id"], alvo_link(v)))
+                _celula(_ementa_do_julgado(v)), v["_ficha_id"], alvo_link(v)))
         _gravar(arquivos, "%s/processo-%s.md" % (PASTA_SUBINDICES, ano), md, _marcas_blocos(md))
         contagem[ano] = len(linhas)
     if outros:
@@ -972,9 +1007,9 @@ def _por_processo(itens):
                            "julgado; nenhuma numeração (NUP, antiga ou curta) foi reconhecida nela."]) + [
             "| %s |" % " | ".join(cab2), "|%s" % ("---|" * len(cab2))]
         for forma, v in sorted(outros, key=lambda x: (_natural(x[0]), x[1]["_caminho"])):
-            md.append("| %s | %s | %s | %s | %s |" % (
+            md.append("| %s | %s | %s | %s | %s | %s |" % (
                 forma, v["tipo"], v.get("data", ""),
-                v["_ficha_id"], alvo_link(v)))
+                _celula(_ementa_do_julgado(v)), v["_ficha_id"], alvo_link(v)))
         _gravar(arquivos, "%s/processo-outros.md" % PASTA_SUBINDICES, md, _marcas_blocos(md))
         contagem["outros"] = len(outros)
     return arquivos, contagem
@@ -987,7 +1022,8 @@ _PERIODOS = {"s": ("semestre", 6), "t": ("trimestre", 3)}
 
 
 def _linha_decisao(d):
-    return "| %s | %s | %s | %s |" % (d["data"], _celula(d["processo"]) or "—", d["id"], d["ficha"])
+    return "| %s | %s | %s | %s | %s |" % (d["data"], _celula(d["processo"]) or "—", _celula(d["titulo"]),
+                                         d["id"], d["ficha"])
 
 
 def _marcas_mes(md):
@@ -1038,7 +1074,7 @@ def _indice_decisoes_antigas(itens, arq, arquivos):
         for f in v["_fichas"]:
             c = f["campos"]
             por_ano[_ano_antiga(v)].append({"data": c["data"], "processo": c["processo"], "id": f["id"],
-                                            "ficha": arq[f["id"]]})
+                                            "titulo": ementa_curta(c["ementa"]), "ficha": arq[f["id"]]})
     out = {}
     for ano in sorted(por_ano):
         ds = sorted(sorted(por_ano[ano], key=lambda d: d["id"]), key=lambda d: d["data"], reverse=True)
@@ -1047,10 +1083,11 @@ def _indice_decisoes_antigas(itens, arq, arquivos):
             rel = "%s/decisao-antiga-%s%s.md" % (PASTA_SUBINDICES, ano, suf)
             md = _cab_julgados("Decisões antigas (1978 a 2001), %s" % rotulo, [
                 "", "Uma linha por decisão (uma ficha `<id-anual>-NNNN`, na ordem do arquivo anual), da mais "
-                "recente para a mais antiga: data da ata, processo (quando o título traz) e ficha. O título "
-                "(`ementa` da ficha) vem do arquivo anual, que o conversor do PDF abriu em toda linha em "
+                "recente para a mais antiga: data da ata, processo (quando o título traz), título da pauta "
+                "(`ementa` da ficha, até 140 caracteres, nome de pessoa física trocado por \"[pessoa física]\") "
+                "e ficha. O título vem do arquivo anual, que o conversor do PDF abriu em toda linha em "
                 "caixa alta: títulos de 1997 a 2001 podem vir cortados ou imprecisos."]) + [
-                "| Data da ata | Processo | Id | Ficha |", "|---|---|---|---|"] + [
+                "| Data da ata | Processo | Título | Id | Ficha |", "|---|---|---|---|---|"] + [
                 _linha_decisao(d) for d in parte]
             _gravar(arquivos, rel, md, _marcas_mes(md))
             out[ano].append((rotulo, rel, len(parte)))

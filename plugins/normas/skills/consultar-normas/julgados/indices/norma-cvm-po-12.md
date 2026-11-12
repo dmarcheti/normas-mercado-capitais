@@ -18,7 +18,7 @@ Norma: [cvm/pareceres-orientacao/0012.md](../../normas/cvm/pareceres-orientacao/
 | decisao-colegiado | RJ2008/2535 | 2008-11-04 | — | cvm-col-20081104-d13 | fichas/colegiado/2008-24.md |
 | decisao-colegiado | RJ2008/4587 | 2008-08-19 | — | cvm-col-20080819-d02 | fichas/colegiado/2008-19.md |
 | decisao-colegiado | RJ2008/2535 | 2008-08-19 | — | cvm-col-20080819-d01 | fichas/colegiado/2008-19.md |
-| pas | RJ2005/1443 | 2006-05-10 | parcial | cvm-pas-rj2005-1443 | fichas/pas/2006-05.md |
+| pas | RJ2005/1443 | 2006-05-10 | parcial | cvm-pas-rj2005-1443 | fichas/pas/2006-09.md |
 | decisao-colegiado | RJ2004/4558; RJ2004/4559; RJ2004/4569; RJ2004/4583 | 2004-09-21 | outro | cvm-col-20040921-d01 | fichas/colegiado/2004-11.md |
 
 Fim do subíndice.

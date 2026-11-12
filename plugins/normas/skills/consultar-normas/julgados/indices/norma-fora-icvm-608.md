@@ -185,8 +185,8 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 19957.003999/2021-19 | 2025-05-13 | parcial | crsfn-10372-000178-2024-61 | fichas/crsfn/2025-02.md |
-| pas | 19957.006032/2021-81 | 2023-07-11 | condenacao | cvm-pas-19957-006032-2021-81 | fichas/pas/2023-04.md |
+| acordao-crsfn | 19957.003999/2021-19 | 2025-05-13 | parcial | crsfn-10372-000178-2024-61 | fichas/crsfn/2025-03.md |
+| pas | 19957.006032/2021-81 | 2023-07-11 | condenacao | cvm-pas-19957-006032-2021-81 | fichas/pas/2023-07.md |
 | decisao-colegiado | 19957.010130/2022-01 | 2023-04-11 | conhecimento | cvm-col-20230411-d2831 | fichas/colegiado/2023-04.md |
 | decisao-colegiado | 19957.008084/2021-91 | 2022-06-28 | parcial | cvm-col-20220628-d2632 | fichas/colegiado/2022-10.md |
 | decisao-colegiado | 19957.004123/2022-62 | 2022-05-24 | nao-provido | cvm-col-20220524-d2598 | fichas/colegiado/2022-09.md |

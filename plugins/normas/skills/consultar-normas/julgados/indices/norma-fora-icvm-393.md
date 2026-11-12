@@ -26,8 +26,8 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|
 | decisao-colegiado | 356/2001; RJ2014/8516 | 2014-12-16 | indeferido | cvm-col-20141216-d12 | fichas/colegiado/2014-26.md |
 | decisao-colegiado | 356/2001; RJ2011/11737 | 2013-05-28 | deferido | cvm-col-20130528-d01 | fichas/colegiado/2013-10.md |
-| acordao-crsfn | RJ-2003-12656 | 2010-07-28 | arquivamento | crsfn-11453 | fichas/crsfn/2010-06.md |
-| pas | RJ2003/12656 | 2006-12-14 | condenacao | cvm-pas-rj2003-12656 | fichas/pas/2006-14.md |
+| acordao-crsfn | RJ-2003-12656 | 2010-07-28 | arquivamento | crsfn-11453 | fichas/crsfn/2010-07.md |
+| pas | RJ2003/12656 | 2006-12-14 | condenacao | cvm-pas-rj2003-12656 | fichas/pas/2006-28.md |
 | decisao-colegiado | RJ2006/1408 | 2006-04-04 | deferido | cvm-col-20060404-d11 | fichas/colegiado/2006-06.md |
 | decisao-colegiado | RJ2005/6167 | 2005-10-25 | deferido | cvm-col-20051025-d07 | fichas/colegiado/2005-15.md |
 | decisao-colegiado | RJ2005/0739 | 2005-10-25 | outro | cvm-col-20051025-d06 | fichas/colegiado/2005-15.md |

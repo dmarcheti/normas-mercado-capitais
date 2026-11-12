@@ -32,12 +32,12 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.003999/2021-19 | 2024-08-06 | parcial | cvm-pas-19957-003999-2021-19 | fichas/pas/2024-06.md |
-| pas | 19957.004286/2022-45 | 2023-12-21 | condenacao | cvm-pas-19957-004286-2022-45 | fichas/pas/2023-10.md |
+| pas | 19957.003999/2021-19 | 2024-08-06 | parcial | cvm-pas-19957-003999-2021-19 | fichas/pas/2024-11.md |
+| pas | 19957.004286/2022-45 | 2023-12-21 | condenacao | cvm-pas-19957-004286-2022-45 | fichas/pas/2023-18.md |
 | termo-compromisso | 19957.008321/2021-14 | 2023-07-04 | aceito | cvm-col-20230704-d2664 | fichas/tc/2023-04.md |
 | decisao-colegiado | 19957.012902/2022-31 | 2023-01-10 | nao-provido | cvm-col-20230110-d2779 | fichas/colegiado/2023-01.md |
 | decisao-colegiado | 19957.012904/2022-21 | 2023-01-03 | nao-provido | cvm-col-20230103-d2767 | fichas/colegiado/2023-01.md |
-| pas | 19957.008185/2021-62 | 2022-09-20 | condenacao | cvm-pas-19957-008185-2021-62 | fichas/pas/2022-04.md |
+| pas | 19957.008185/2021-62 | 2022-09-20 | condenacao | cvm-pas-19957-008185-2021-62 | fichas/pas/2022-08.md |
 | termo-compromisso | 19957.008321/2021-14 | 2022-08-02 | rejeitado | cvm-col-20220802-d2664 | fichas/tc/2022-04.md |
 | decisao-colegiado | 19957.008306/2021-76 | 2021-11-16 | nao-provido | cvm-col-20211116-d2380 | fichas/colegiado/2021-19.md |
 | decisao-colegiado | 19957.008305/2021-21 | 2021-11-16 | nao-provido | cvm-col-20211116-d2379 | fichas/colegiado/2021-19.md |

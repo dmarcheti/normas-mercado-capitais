@@ -59,12 +59,12 @@ Norma: fora do acervo.
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.012698/2023-30 | 2025-07-08 | deferido | cvm-col-20250708-d3211 | fichas/colegiado/2025-06.md |
-| acordao-crsfn | SP2018/15 | 2022-11-08 | condenacao | crsfn-10372-100054-2020-51 | fichas/crsfn/2022-06.md |
+| acordao-crsfn | SP2018/15 | 2022-11-08 | condenacao | crsfn-10372-100054-2020-51 | fichas/crsfn/2022-08.md |
 | decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
-| acordao-crsfn | RJ2014/13353 | 2020-08-25 | condenacao | crsfn-10372-100295-2018-86 | fichas/crsfn/2020-04.md |
-| pas | SP2018-15 | 2019-08-13 | parcial | cvm-pas-sp2018-0015 | fichas/pas/2019-08.md |
+| acordao-crsfn | RJ2014/13353 | 2020-08-25 | condenacao | crsfn-10372-100295-2018-86 | fichas/crsfn/2020-05.md |
+| pas | SP2018-15 | 2019-08-13 | parcial | cvm-pas-sp2018-0015 | fichas/pas/2019-14.md |
 | termo-compromisso | 19957.010217/2017-11 | 2019-07-30 | rejeitado | cvm-col-20190730-d1480 | fichas/tc/2019-04.md |
-| pas | RJ2014/13353 | 2017-12-22 | parcial | cvm-pas-rj2014-13353 | fichas/pas/2017-06.md |
+| pas | RJ2014/13353 | 2017-12-22 | parcial | cvm-pas-rj2014-13353 | fichas/pas/2017-13.md |
 | decisao-colegiado | RJ2012/10928 | 2014-12-09 | nao-provido | cvm-col-20141209-d16 | fichas/colegiado/2014-25.md |
 | decisao-colegiado | SP2010/0295 | 2011-07-12 | provido | cvm-col-20110712-d05 | fichas/colegiado/2011-14.md |
 | decisao-colegiado | — | 2008-03-11 | outro | cvm-col-20080311-d11 | fichas/colegiado/2008-06.md |

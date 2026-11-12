@@ -36,7 +36,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 31 | pas | RJ2015/13326 | 2019-07-02 | parcial | cvm-pas-rj2015-13326 | fichas/pas/2019-06.md |
+| art. 31 | pas | RJ2015/13326 | 2019-07-02 | parcial | cvm-pas-rj2015-13326 | fichas/pas/2019-11.md |
 
 ## art. 42
 

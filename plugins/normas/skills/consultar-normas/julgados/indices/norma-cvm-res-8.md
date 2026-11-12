@@ -25,7 +25,7 @@ Norma: [cvm/resolucoes/0008.md](../../normas/cvm/resolucoes/0008.md) (texto vige
 |---|---|---|---|---|---|
 | decisao-colegiado | — | 2025-12-03 | outro | cvm-col-20251203-d3468 | fichas/colegiado/2025-12.md |
 | decisao-colegiado | 19957.017962/2024-11 | 2024-12-10 | indeferido | cvm-col-20241210-d3190 | fichas/colegiado/2024-14.md |
-| pas | 19957.001549/2023-45 | 2024-03-26 | condenacao | cvm-pas-19957-001549-2023-45 | fichas/pas/2024-02.md |
+| pas | 19957.001549/2023-45 | 2024-03-26 | condenacao | cvm-pas-19957-001549-2023-45 | fichas/pas/2024-03.md |
 | decisao-colegiado | 19957.008101/2020-18 | 2021-05-18 | deferido | cvm-col-20210518-d2172 | fichas/colegiado/2021-08.md |
 | decisao-colegiado | 04/2019; 19957.004537/2019-96 | 2020-10-07 | outro | cvm-col-20201007-d1428 | fichas/colegiado/2020-17.md |
 

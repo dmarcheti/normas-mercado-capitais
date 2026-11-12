@@ -14,7 +14,7 @@ Norma: fora do acervo.
 | decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
 | decisao-colegiado | 19957.011151/2018-50 | 2019-01-08 | conhecimento | cvm-col-20190108-d1276 | fichas/colegiado/2019-01.md |
 | acordao-crsfn | RJ2011/11073 | 2018-03-21 | parcial | crsfn-14486 | fichas/crsfn/2018-03.md |
-| acordao-crsfn | RJ2014/10630 | 2017-10-25 | condenacao | crsfn-10372-100199-2017-57 | fichas/crsfn/2017-08.md |
+| acordao-crsfn | RJ2014/10630 | 2017-10-25 | condenacao | crsfn-10372-100199-2017-57 | fichas/crsfn/2017-13.md |
 | decisao-colegiado | RJ2014/13724 | 2014-12-23 | nao-provido | cvm-col-20141223-d14 | fichas/colegiado/2014-27.md |
 | decisao-colegiado | RJ2014/13723 | 2014-12-23 | nao-provido | cvm-col-20141223-d13 | fichas/colegiado/2014-27.md |
 | decisao-colegiado | RJ2014/13729 | 2014-12-16 | nao-provido | cvm-col-20141216-d22 | fichas/colegiado/2014-26.md |
@@ -29,8 +29,8 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2011/0427 | 2013-02-26 | nao-provido | cvm-col-20130226-d01 | fichas/colegiado/2013-05.md |
 | decisao-colegiado | RJ2011/8139 | 2011-12-27 | provido | cvm-col-20111227-d08 | fichas/colegiado/2011-30.md |
 | decisao-colegiado | RJ2011/6936 | 2011-09-20 | nao-provido | cvm-col-20110920-d13 | fichas/colegiado/2011-19.md |
-| acordao-crsfn | 17/02 | 2009-04-15 | arquivamento | crsfn-9703 | fichas/crsfn/2009-02.md |
-| pas | 24/2005 | 2008-10-07 | parcial | cvm-pas-24-2005 | fichas/pas/2008-04.md |
+| acordao-crsfn | 17/02 | 2009-04-15 | arquivamento | crsfn-9703 | fichas/crsfn/2009-03.md |
+| pas | 24/2005 | 2008-10-07 | parcial | cvm-pas-24-2005 | fichas/pas/2008-07.md |
 | decisao-colegiado | RJ2008/3862 | 2008-05-20 | nao-provido | cvm-col-20080520-d17 | fichas/colegiado/2008-12.md |
 | decisao-colegiado | RJ2008/3860 | 2008-05-20 | nao-provido | cvm-col-20080520-d16 | fichas/colegiado/2008-12.md |
 | decisao-colegiado | RJ2008/3856 | 2008-05-20 | nao-provido | cvm-col-20080520-d15 | fichas/colegiado/2008-12.md |

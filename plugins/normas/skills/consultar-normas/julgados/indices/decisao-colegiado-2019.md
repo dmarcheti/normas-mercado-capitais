@@ -24,378 +24,378 @@ Este subíndice tem 401 linhas e uma leitura única é cortada em silêncio pert
 | 2019-02 | 340 |
 | 2019-01 | 367 |
 
-| Processo | Data | Resultado | Id | Ficha |
-|---|---|---|---|---|
-| RJ2015/5571 | 2019-12-23 | nao-provido | cvm-col-20191223-d1653 | fichas/colegiado/2019-21.md |
-| RJ2015/1587 | 2019-12-23 | nao-provido | cvm-col-20191223-d1652 | fichas/colegiado/2019-21.md |
-| RJ2015/0204 | 2019-12-23 | nao-provido | cvm-col-20191223-d1651 | fichas/colegiado/2019-21.md |
-| 480/2009; 19957.004286/2019-40 | 2019-12-20 | — | cvm-col-20191220-d1673 | fichas/colegiado/2019-21.md |
-| 19957.009300/2018-11 | 2019-12-20 | — | cvm-col-20191220-d1255 | fichas/colegiado/2019-21.md |
-| 480/2009; 19957.004286/2019-40 | 2019-12-19 | — | cvm-col-20191219-d1673 | fichas/colegiado/2019-21.md |
-| 19957.007528/2019-57 | 2019-12-19 | deferido | cvm-col-20191219-d1648 | fichas/colegiado/2019-21.md |
-| 19957.005059/2019-31 | 2019-12-17 | outro | cvm-col-20191217-d1647 | fichas/colegiado/2019-21.md |
-| 19957.010609/2019-34 | 2019-12-17 | nao-provido | cvm-col-20191217-d1645 | fichas/colegiado/2019-21.md |
-| 19957.005770/2019-96 | 2019-12-17 | outro | cvm-col-20191217-d1642 | fichas/colegiado/2019-21.md |
-| 19957.009163/2019-03 | 2019-12-17 | conhecimento | cvm-col-20191217-d1641 | fichas/colegiado/2019-21.md |
-| 19957.008937/2019-71 | 2019-12-17 | nao-provido | cvm-col-20191217-d1640 | fichas/colegiado/2019-21.md |
-| 19957.005197/2016-78 | 2019-12-17 | conhecimento | cvm-col-20191217-d1565 | fichas/colegiado/2019-21.md |
-| — | 2019-12-13 | — | cvm-col-20191213-d1654 | fichas/colegiado/2019-21.md |
-| — | 2019-12-11 | outro | cvm-col-20191211-d1649 | fichas/colegiado/2019-21.md |
-| 19957.005639/2018-48 | 2019-12-10 | outro | cvm-col-20191210-d1639 | fichas/colegiado/2019-20.md |
-| 400/2003; 19957.009498/2019-13 | 2019-12-10 | deferido | cvm-col-20191210-d1638 | fichas/colegiado/2019-20.md |
-| 461/2007; 19957.010873/2019-78 | 2019-12-10 | deferido | cvm-col-20191210-d1637 | fichas/colegiado/2019-20.md |
-| 19957.002336/2019-54 | 2019-12-10 | outro | cvm-col-20191210-d1636 | fichas/colegiado/2019-20.md |
-| 19957.010645/2019-06 | 2019-12-10 | outro | cvm-col-20191210-d1634 | fichas/colegiado/2019-20.md |
-| 19957.008957/2019-41 | 2019-12-10 | nao-provido | cvm-col-20191210-d1633 | fichas/colegiado/2019-20.md |
-| 19957.005116/2018-00 | 2019-12-10 | parcial | cvm-col-20191210-d1632 | fichas/colegiado/2019-20.md |
-| 19957.010070/2019-13 | 2019-12-10 | provido | cvm-col-20191210-d1631 | fichas/colegiado/2019-20.md |
-| 19957.009929/2019-41 | 2019-12-10 | provido | cvm-col-20191210-d1630 | fichas/colegiado/2019-20.md |
-| 19957.007649/2019-07 | 2019-12-10 | outro | cvm-col-20191210-d1580 | fichas/colegiado/2019-20.md |
-| 19957.002618/2016-17 | 2019-12-05 | outro | cvm-col-20191205-d2676 | fichas/colegiado/2019-20.md |
-| 01/2019; 19957.008229/2019-30 | 2019-12-04 | outro | cvm-col-20191204-d5917 | fichas/colegiado/2019-20.md |
-| 02/2019; 19957.008230/2019-64 | 2019-12-04 | outro | cvm-col-20191204-d1523 | fichas/colegiado/2019-20.md |
-| 19957.000017/2019-12 | 2019-12-04 | outro | cvm-col-20191204-d1474 | fichas/colegiado/2019-20.md |
-| 19957.001281/2019-65 | 2019-12-03 | outro | cvm-col-20191203-d1628 | fichas/colegiado/2019-20.md |
-| 472/2008; 19957.009373/2019-93 | 2019-12-03 | nao-provido | cvm-col-20191203-d1627 | fichas/colegiado/2019-20.md |
-| 19957.000570/2018-66 | 2019-12-03 | outro | cvm-col-20191203-d1626 | fichas/colegiado/2019-20.md |
-| 19957.007483/2018-30 | 2019-12-03 | outro | cvm-col-20191203-d1625 | fichas/colegiado/2019-20.md |
-| 19957.010151/2019-13 | 2019-12-03 | nao-provido | cvm-col-20191203-d1623 | fichas/colegiado/2019-19.md |
-| 19957.010150/2019-79 | 2019-12-03 | nao-provido | cvm-col-20191203-d1622 | fichas/colegiado/2019-19.md |
-| 19957.010102/2019-81 | 2019-12-03 | nao-provido | cvm-col-20191203-d1621 | fichas/colegiado/2019-19.md |
-| 19957.010101/2019-36 | 2019-12-03 | nao-provido | cvm-col-20191203-d1620 | fichas/colegiado/2019-19.md |
-| 19957.002618/2016-17 | 2019-11-29 | — | cvm-col-20191129-d2676 | fichas/colegiado/2019-19.md |
-| 505/2011; 19957.002618/2016-17 | 2019-11-27 | — | cvm-col-20191127-d2676 | fichas/colegiado/2019-19.md |
-| RJ2014/3161 | 2019-11-26 | outro | cvm-col-20191126-d9961 | fichas/colegiado/2019-19.md |
-| 19957.008351/2019-14 | 2019-11-26 | nao-provido | cvm-col-20191126-d1619 | fichas/colegiado/2019-19.md |
-| 19957.010084/2019-37 | 2019-11-26 | nao-provido | cvm-col-20191126-d1618 | fichas/colegiado/2019-19.md |
-| 19957.009481/2019-66 | 2019-11-26 | — | cvm-col-20191126-d1617 | fichas/colegiado/2019-19.md |
-| 19957.008455/2019-11 | 2019-11-26 | conhecimento | cvm-col-20191126-d1569 | fichas/colegiado/2019-19.md |
-| 08/2016 | 2019-11-26 | conhecimento | cvm-col-20191126-d1173 | fichas/colegiado/2019-19.md |
-| 14/2013 | 2019-11-26 | outro | cvm-col-20191126-d0124 | fichas/colegiado/2019-19.md |
-| 19957.010097/2019-14 | 2019-11-19 | deferido | cvm-col-20191119-d1615 | fichas/colegiado/2019-19.md |
-| 19957.003562/2018-71 | 2019-11-19 | nao-provido | cvm-col-20191119-d1612 | fichas/colegiado/2019-19.md |
-| 19957.005063/2019-08 | 2019-11-19 | outro | cvm-col-20191119-d1611 | fichas/colegiado/2019-19.md |
-| 19957.010103/2019-25 | 2019-11-19 | parcial | cvm-col-20191119-d1610 | fichas/colegiado/2019-19.md |
-| 19957.009964/2019-61 | 2019-11-19 | provido | cvm-col-20191119-d1609 | fichas/colegiado/2019-19.md |
-| 19957.010081/2019-01 | 2019-11-19 | nao-provido | cvm-col-20191119-d1608 | fichas/colegiado/2019-19.md |
-| 19957.010268/2019-05 | 2019-11-19 | nao-provido | cvm-col-20191119-d1607 | fichas/colegiado/2019-19.md |
-| 19957.010267/2019-52 | 2019-11-19 | nao-provido | cvm-col-20191119-d1606 | fichas/colegiado/2019-18.md |
-| 19957.010088/2019-15 | 2019-11-19 | nao-provido | cvm-col-20191119-d1605 | fichas/colegiado/2019-18.md |
-| 19957.009966/2019-50 | 2019-11-19 | nao-provido | cvm-col-20191119-d1604 | fichas/colegiado/2019-18.md |
-| 19957.005109/2018-08 | 2019-11-19 | parcial | cvm-col-20191119-d1067 | fichas/colegiado/2019-18.md |
-| 19957.004542/2017-37 | 2019-11-19 | indeferido | cvm-col-20191119-d0804 | fichas/colegiado/2019-18.md |
-| 19957.007937/2016-19 | 2019-11-19 | indeferido | cvm-col-20191119-d0719 | fichas/colegiado/2019-18.md |
-| 461/2007; 19957.002618/2016-17 | 2019-11-14 | — | cvm-col-20191114-d2676 | fichas/colegiado/2019-18.md |
-| 461/2007; 19957.002618/2016-17 | 2019-11-13 | — | cvm-col-20191113-d2676 | fichas/colegiado/2019-18.md |
-| 19957.010069/2019-99 | 2019-11-12 | nao-provido | cvm-col-20191112-d1602 | fichas/colegiado/2019-18.md |
-| 19957.010068/2019-44 | 2019-11-12 | nao-provido | cvm-col-20191112-d1601 | fichas/colegiado/2019-18.md |
-| 19957.010043/2019-41 | 2019-11-12 | nao-provido | cvm-col-20191112-d1600 | fichas/colegiado/2019-18.md |
-| 19957.010042/2019-04 | 2019-11-12 | nao-provido | cvm-col-20191112-d1599 | fichas/colegiado/2019-18.md |
-| 19957.010041/2019-51 | 2019-11-12 | nao-provido | cvm-col-20191112-d1598 | fichas/colegiado/2019-18.md |
-| 19957.010040/2019-15 | 2019-11-12 | nao-provido | cvm-col-20191112-d1597 | fichas/colegiado/2019-18.md |
-| 19957.009938/2019-32 | 2019-11-12 | nao-provido | cvm-col-20191112-d1596 | fichas/colegiado/2019-18.md |
-| 19957.010080/2019-59 | 2019-11-12 | nao-provido | cvm-col-20191112-d1595 | fichas/colegiado/2019-18.md |
-| 19957.010028/2019-01 | 2019-11-12 | nao-provido | cvm-col-20191112-d1594 | fichas/colegiado/2019-18.md |
-| 19957.003110/2019-71 | 2019-11-12 | nao-provido | cvm-col-20191112-d1591 | fichas/colegiado/2019-18.md |
-| 461/2007; 19957.002618/2016-17 | 2019-11-06 | — | cvm-col-20191106-d2676 | fichas/colegiado/2019-18.md |
-| 02/2019; 19957.007933/2018-94 | 2019-11-05 | outro | cvm-col-20191105-d2878 | fichas/colegiado/2019-18.md |
-| 19957.010008/2019-21 | 2019-11-05 | outro | cvm-col-20191105-d2376 | fichas/colegiado/2019-18.md |
-| 19957.006874/2019-18 | 2019-11-05 | outro | cvm-col-20191105-d1590 | fichas/colegiado/2019-18.md |
-| 19957.004658/2019-38 | 2019-11-05 | nao-provido | cvm-col-20191105-d1464 | fichas/colegiado/2019-17.md |
-| 19957.004385/2019-21 | 2019-11-05 | outro | cvm-col-20191105-d1389 | fichas/colegiado/2019-17.md |
-| RJ2015/13326 | 2019-11-05 | indeferido | cvm-col-20191105-d0438 | fichas/colegiado/2019-17.md |
-| 02/2019; 19957.007933/2018-94 | 2019-10-30 | — | cvm-col-20191030-d2878 | fichas/colegiado/2019-17.md |
-| 19957.004674/2019-21 | 2019-10-29 | nao-provido | cvm-col-20191029-d1588 | fichas/colegiado/2019-17.md |
-| 19957.009392/2019-10 | 2019-10-29 | nao-provido | cvm-col-20191029-d1587 | fichas/colegiado/2019-17.md |
-| 19957.009391/2019-75 | 2019-10-29 | nao-provido | cvm-col-20191029-d1586 | fichas/colegiado/2019-17.md |
-| 19957.000040/2018-18 | 2019-10-23 | — | cvm-col-20191023-d1223 | fichas/colegiado/2019-17.md |
-| 19957.005392/2018-60 | 2019-10-22 | outro | cvm-col-20191022-d1585 | fichas/colegiado/2019-17.md |
-| 19957.008839/2019-33 | 2019-10-22 | nao-provido | cvm-col-20191022-d1584 | fichas/colegiado/2019-17.md |
-| 19957.010715/2018-37; 19957.000495/2019-14 | 2019-10-22 | outro | cvm-col-20191022-d1583 | fichas/colegiado/2019-17.md |
-| 19957.007916/2019-38 | 2019-10-22 | parcial | cvm-col-20191022-d1582 | fichas/colegiado/2019-17.md |
-| 19957.000040/2018-18 | 2019-10-16 | — | cvm-col-20191016-d1223 | fichas/colegiado/2019-17.md |
-| 14/2010 | 2019-10-15 | conhecimento | cvm-col-20191015-d8609 | fichas/colegiado/2019-17.md |
-| 19957.008367/2019-19 | 2019-10-15 | nao-provido | cvm-col-20191015-d1578 | fichas/colegiado/2019-17.md |
-| 19957.003114/2019-59 | 2019-10-15 | provido | cvm-col-20191015-d1577 | fichas/colegiado/2019-16.md |
-| 19957.005061/2019-19 | 2019-10-15 | outro | cvm-col-20191015-d1576 | fichas/colegiado/2019-16.md |
-| 19957.008943/2019-28 | 2019-10-15 | provido | cvm-col-20191015-d1575 | fichas/colegiado/2019-16.md |
-| 19957.000893/2019-31 | 2019-10-15 | nao-provido | cvm-col-20191015-d1573 | fichas/colegiado/2019-16.md |
-| 19957.000040/2018-18 | 2019-10-09 | — | cvm-col-20191009-d1223 | fichas/colegiado/2019-16.md |
-| 19957.008455/2019-11 | 2019-10-08 | nao-provido | cvm-col-20191008-d1569 | fichas/colegiado/2019-16.md |
-| — | 2019-10-08 | outro | cvm-col-20191008-d1566 | fichas/colegiado/2019-16.md |
-| 19957.008097/2019-46 | 2019-10-08 | provido | cvm-col-20191008-d1564 | fichas/colegiado/2019-16.md |
-| 19957.008092/2019-13 | 2019-10-08 | nao-provido | cvm-col-20191008-d1563 | fichas/colegiado/2019-16.md |
-| 08/2016 | 2019-10-08 | indeferido | cvm-col-20191008-d1173 | fichas/colegiado/2019-16.md |
-| 09/2016 | 2019-10-08 | indeferido | cvm-col-20191008-d0810 | fichas/colegiado/2019-16.md |
-| 19957.000040/2018-18 | 2019-10-02 | — | cvm-col-20191002-d1223 | fichas/colegiado/2019-16.md |
-| 19957.005389/2019-27 | 2019-10-01 | outro | cvm-col-20191001-d1562 | fichas/colegiado/2019-16.md |
-| 19957.003301/2019-32 | 2019-10-01 | nao-provido | cvm-col-20191001-d1561 | fichas/colegiado/2019-16.md |
-| 19957.006645/2019-01 | 2019-10-01 | outro | cvm-col-20191001-d1560 | fichas/colegiado/2019-16.md |
-| 19957.011236/2018-38 | 2019-10-01 | outro | cvm-col-20191001-d1559 | fichas/colegiado/2019-15.md |
-| 19957.001059/2018-81 | 2019-10-01 | nao-provido | cvm-col-20191001-d1556 | fichas/colegiado/2019-15.md |
-| 19957.000726/2018-17 | 2019-10-01 | nao-provido | cvm-col-20191001-d1555 | fichas/colegiado/2019-15.md |
-| 19957.008182/2019-12 | 2019-10-01 | nao-provido | cvm-col-20191001-d1554 | fichas/colegiado/2019-15.md |
-| 19957.008084/2019-77 | 2019-10-01 | nao-provido | cvm-col-20191001-d1553 | fichas/colegiado/2019-15.md |
-| 19957.001368/2017-71; RJ2015/13053 | 2019-10-01 | outro | cvm-col-20191001-d0226 | fichas/colegiado/2019-15.md |
-| 19957.009249/2019-28 | 2019-09-30 | outro | cvm-col-20190930-d1579 | fichas/colegiado/2019-15.md |
-| 19957.007649/2019-07 | 2019-09-27 | outro | cvm-col-20190927-d1580 | fichas/colegiado/2019-15.md |
-| 19957.000040/2018-18 | 2019-09-25 | — | cvm-col-20190925-d1223 | fichas/colegiado/2019-15.md |
-| 19957.004278/2019-01 | 2019-09-24 | nao-provido | cvm-col-20190924-d1551 | fichas/colegiado/2019-15.md |
-| 19957.004441/2019-28 | 2019-09-24 | nao-provido | cvm-col-20190924-d1550 | fichas/colegiado/2019-15.md |
-| 19957.000756/2018-15 | 2019-09-24 | nao-provido | cvm-col-20190924-d1549 | fichas/colegiado/2019-15.md |
-| 19957.008826/2019-64 | 2019-09-24 | outro | cvm-col-20190924-d1547 | fichas/colegiado/2019-15.md |
-| 19957.008488/2019-61 | 2019-09-24 | outro | cvm-col-20190924-d1546 | fichas/colegiado/2019-15.md |
-| 19957.000387/2019-41 | 2019-09-24 | parcial | cvm-col-20190924-d1544 | fichas/colegiado/2019-15.md |
-| 19957.008093/2019-68 | 2019-09-24 | nao-provido | cvm-col-20190924-d1543 | fichas/colegiado/2019-15.md |
-| 19957.007255/2019-41 | 2019-09-24 | nao-provido | cvm-col-20190924-d1542 | fichas/colegiado/2019-15.md |
-| 19957.008763/2019-46 | 2019-09-24 | outro | cvm-col-20190924-d1541 | fichas/colegiado/2019-15.md |
-| 19957.007256/2019-95 | 2019-09-24 | nao-provido | cvm-col-20190924-d1540 | fichas/colegiado/2019-15.md |
-| 07/2015 | 2019-09-24 | indeferido | cvm-col-20190924-d0912 | fichas/colegiado/2019-15.md |
-| 19957.000040/2018-18 | 2019-09-18 | — | cvm-col-20190918-d1223 | fichas/colegiado/2019-15.md |
-| 19957.004523/2019-72 | 2019-09-17 | outro | cvm-col-20190917-d1538 | fichas/colegiado/2019-14.md |
-| 19957.006056/2018-34 | 2019-09-10 | outro | cvm-col-20190910-d1534 | fichas/colegiado/2019-14.md |
-| 19957.000125/2018-04 | 2019-09-10 | nao-provido | cvm-col-20190910-d1532 | fichas/colegiado/2019-14.md |
-| 19957.000122/2018-62 | 2019-09-10 | nao-provido | cvm-col-20190910-d1531 | fichas/colegiado/2019-14.md |
-| 19957.006483/2019-01 | 2019-09-10 | nao-provido | cvm-col-20190910-d1530 | fichas/colegiado/2019-14.md |
-| 19957.006378/2019-64 | 2019-09-10 | deferido | cvm-col-20190910-d1529 | fichas/colegiado/2019-14.md |
-| 19957.000752/2018-37 | 2019-09-10 | nao-provido | cvm-col-20190910-d1528 | fichas/colegiado/2019-14.md |
-| 19957.000745/2018-35 | 2019-09-10 | nao-provido | cvm-col-20190910-d1527 | fichas/colegiado/2019-14.md |
-| 19957.000727/2018-53 | 2019-09-10 | nao-provido | cvm-col-20190910-d1526 | fichas/colegiado/2019-14.md |
-| 19957.004747/2018-01 | 2019-09-10 | nao-provido | cvm-col-20190910-d1325 | fichas/colegiado/2019-14.md |
-| 19957.003208/2019-28 | 2019-09-09 | outro | cvm-col-20190909-d4715 | fichas/colegiado/2019-14.md |
-| 19957.008368/2019-63; 19957.008370/2019-32 | 2019-09-06 | parcial | cvm-col-20190906-d1533 | fichas/colegiado/2019-14.md |
-| RJ2014/13597 | 2019-09-04 | outro | cvm-col-20190904-d8331 | fichas/colegiado/2019-14.md |
-| 19957.008010/2019-31 | 2019-09-03 | outro | cvm-col-20190903-d1522 | fichas/colegiado/2019-14.md |
-| 19957.007482/2019-76 | 2019-09-03 | nao-provido | cvm-col-20190903-d1521 | fichas/colegiado/2019-14.md |
-| 19957.007484/2019-65 | 2019-09-03 | nao-provido | cvm-col-20190903-d1520 | fichas/colegiado/2019-14.md |
-| 19957.003334/2016-30 | 2019-09-03 | parcial | cvm-col-20190903-d1519 | fichas/colegiado/2019-14.md |
-| 19957.005798/2018-42 | 2019-09-03 | conhecimento | cvm-col-20190903-d1406 | fichas/colegiado/2019-13.md |
-| 19957.008237/2019-86 | 2019-08-29 | outro | cvm-col-20190829-d2894 | fichas/colegiado/2019-13.md |
-| 19957.008229/2019-30 | 2019-08-28 | outro | cvm-col-20190828-d5917 | fichas/colegiado/2019-13.md |
-| 19957.008230/2019-64 | 2019-08-28 | outro | cvm-col-20190828-d1523 | fichas/colegiado/2019-13.md |
-| 19957.007951/2019-57 | 2019-08-28 | indeferido | cvm-col-20190828-d1518 | fichas/colegiado/2019-13.md |
-| 19957.009924/2018-38 | 2019-08-27 | outro | cvm-col-20190827-d1517 | fichas/colegiado/2019-13.md |
-| 19957.007757/2019-71 | 2019-08-27 | nao-provido | cvm-col-20190827-d1516 | fichas/colegiado/2019-13.md |
-| 19957.000730/2018-77 | 2019-08-27 | nao-provido | cvm-col-20190827-d1515 | fichas/colegiado/2019-13.md |
-| 19957.000729/2018-42 | 2019-08-27 | nao-provido | cvm-col-20190827-d1514 | fichas/colegiado/2019-13.md |
-| 19957.007323/2019-71 | 2019-08-27 | deferido | cvm-col-20190827-d1513 | fichas/colegiado/2019-13.md |
-| 19957.004999/2019-11 | 2019-08-27 | deferido | cvm-col-20190827-d1512 | fichas/colegiado/2019-13.md |
-| 19957.006097/2018-21 | 2019-08-27 | outro | cvm-col-20190827-d1510 | fichas/colegiado/2019-13.md |
-| 19957.000733/2018-19 | 2019-08-27 | nao-provido | cvm-col-20190827-d1509 | fichas/colegiado/2019-13.md |
-| 19957.007396/2017-00 | 2019-08-27 | provido | cvm-col-20190827-d1052 | fichas/colegiado/2019-13.md |
-| 19957.008214/2018-91 | 2019-08-21 | outro | cvm-col-20190821-d8528 | fichas/colegiado/2019-13.md |
-| 19957.002890/2015-16 | 2019-08-20 | conhecimento | cvm-col-20190820-d9228 | fichas/colegiado/2019-12.md |
-| 19957.007512/2019-44 | 2019-08-20 | nao-provido | cvm-col-20190820-d1503 | fichas/colegiado/2019-12.md |
-| 19957.001177/2017-17; 19957.001178/2017-53; 19957.001179/2017-06; 19957.001185/2017-55; 19957.001188/2017-99; 19957.005509/2017-24 | 2019-08-20 | nao-provido | cvm-col-20190820-d1502 | fichas/colegiado/2019-12.md |
-| 19957.007775/2019-53 | 2019-08-20 | outro | cvm-col-20190820-d1501 | fichas/colegiado/2019-12.md |
-| 19957.006135/2019-26 | 2019-08-20 | outro | cvm-col-20190820-d1500 | fichas/colegiado/2019-12.md |
-| 19957.007562/2019-21 | 2019-08-16 | indeferido | cvm-col-20190816-d1504 | fichas/colegiado/2019-12.md |
-| 19957.008843/2018-11 | 2019-08-14 | outro | cvm-col-20190814-d1472 | fichas/colegiado/2019-12.md |
-| 21/2010 | 2019-08-13 | indeferido | cvm-col-20190813-d9868 | fichas/colegiado/2019-12.md |
-| 19957.006256/2019-78 | 2019-08-13 | nao-provido | cvm-col-20190813-d1496 | fichas/colegiado/2019-12.md |
-| 19957.006966/2019-06 | 2019-08-13 | outro | cvm-col-20190813-d1493 | fichas/colegiado/2019-12.md |
-| 04/2018; 19957.010666/2018-32 | 2019-08-07 | outro | cvm-col-20190807-d1426 | fichas/colegiado/2019-12.md |
-| 19957.007306/2019-34 | 2019-08-06 | outro | cvm-col-20190806-d1492 | fichas/colegiado/2019-12.md |
-| 19957.003450/2019-00 | 2019-08-06 | outro | cvm-col-20190806-d1491 | fichas/colegiado/2019-12.md |
-| 19957.004436/2018-34 | 2019-08-06 | nao-provido | cvm-col-20190806-d1490 | fichas/colegiado/2019-12.md |
-| 05/2018; 505/2011; 19957.010782/2018-51 | 2019-07-31 | outro | cvm-col-20190731-d1160 | fichas/colegiado/2019-12.md |
-| 19957.001488/2017-78 | 2019-07-30 | nao-provido | cvm-col-20190730-d1487 | fichas/colegiado/2019-12.md |
-| 19957.000743/2018-46 | 2019-07-30 | nao-provido | cvm-col-20190730-d1486 | fichas/colegiado/2019-12.md |
-| 19957.000719/2018-15 | 2019-07-30 | nao-provido | cvm-col-20190730-d1485 | fichas/colegiado/2019-12.md |
-| 19957.000755/2018-71 | 2019-07-30 | nao-provido | cvm-col-20190730-d1484 | fichas/colegiado/2019-11.md |
-| 19957.000754/2018-26 | 2019-07-30 | nao-provido | cvm-col-20190730-d1483 | fichas/colegiado/2019-11.md |
-| 19957.000746/2018-80 | 2019-07-30 | nao-provido | cvm-col-20190730-d1482 | fichas/colegiado/2019-11.md |
-| 19957.005955/2019-09 | 2019-07-30 | indeferido | cvm-col-20190730-d1477 | fichas/colegiado/2019-11.md |
-| 05/2018; 505/2011; 19957.010782/2018-51 | 2019-07-24 | — | cvm-col-20190724-d1160 | fichas/colegiado/2019-11.md |
-| RJ2015/2386 | 2019-07-23 | nao-provido | cvm-col-20190723-d9884 | fichas/colegiado/2019-11.md |
-| RJ2014/4077 | 2019-07-16 | indeferido | cvm-col-20190716-d9579 | fichas/colegiado/2019-11.md |
-| 19957.001196/2017-35 | 2019-07-16 | outro | cvm-col-20190716-d1473 | fichas/colegiado/2019-11.md |
-| 19957.000720/2018-31 | 2019-07-16 | nao-provido | cvm-col-20190716-d1469 | fichas/colegiado/2019-11.md |
-| 19957.000717/2018-18 | 2019-07-16 | nao-provido | cvm-col-20190716-d1468 | fichas/colegiado/2019-11.md |
-| 19957.000685/2018-51 | 2019-07-16 | nao-provido | cvm-col-20190716-d1467 | fichas/colegiado/2019-11.md |
-| 19957.000052/2018-42 | 2019-07-16 | nao-provido | cvm-col-20190716-d1466 | fichas/colegiado/2019-11.md |
-| 19957.000017/2019-12 | 2019-07-10 | outro | cvm-col-20190710-d1474 | fichas/colegiado/2019-11.md |
-| 48/2019; 19957.003208/2019-28 | 2019-07-09 | — | cvm-col-20190709-d4715 | fichas/colegiado/2019-11.md |
-| 19957.005800/2019-64 | 2019-07-09 | outro | cvm-col-20190709-d1465 | fichas/colegiado/2019-11.md |
-| 19957.004658/2019-38 | 2019-07-09 | outro | cvm-col-20190709-d1464 | fichas/colegiado/2019-11.md |
-| 19957.008843/2018-11 | 2019-07-03 | outro | cvm-col-20190703-d1472 | fichas/colegiado/2019-11.md |
-| 19957.004306/2019-82 | 2019-07-02 | deferido | cvm-col-20190702-d1460 | fichas/colegiado/2019-11.md |
-| 19957.003579/2016-67 | 2019-07-02 | nao-provido | cvm-col-20190702-d1459 | fichas/colegiado/2019-11.md |
-| 19957.004070/2019-84 | 2019-07-02 | nao-provido | cvm-col-20190702-d1458 | fichas/colegiado/2019-11.md |
-| 19957.011238/2018-27 | 2019-07-02 | outro | cvm-col-20190702-d1457 | fichas/colegiado/2019-10.md |
-| 19957.003611/2019-57 | 2019-07-02 | outro | cvm-col-20190702-d1456 | fichas/colegiado/2019-10.md |
-| 19957.000845/2018-61 | 2019-07-02 | nao-provido | cvm-col-20190702-d1454 | fichas/colegiado/2019-10.md |
-| 19957.000692/2018-52 | 2019-07-02 | nao-provido | cvm-col-20190702-d1453 | fichas/colegiado/2019-10.md |
-| 19957.000623/2018-49 | 2019-07-02 | nao-provido | cvm-col-20190702-d1452 | fichas/colegiado/2019-10.md |
-| 19957.000356/2018-18 | 2019-07-02 | nao-provido | cvm-col-20190702-d1451 | fichas/colegiado/2019-10.md |
-| 19957.000310/2018-91 | 2019-07-02 | nao-provido | cvm-col-20190702-d1450 | fichas/colegiado/2019-10.md |
-| 19957.005032/2019-49 | 2019-07-02 | parcial | cvm-col-20190702-d1408 | fichas/colegiado/2019-10.md |
-| 19957.003194/2019-42 | 2019-07-02 | conhecimento | cvm-col-20190702-d1386 | fichas/colegiado/2019-10.md |
-| 19957.001522/2017-12 | 2019-07-02 | outro | cvm-col-20190702-d1365 | fichas/colegiado/2019-10.md |
-| 19957.000303/2018-99 | 2019-06-25 | nao-provido | cvm-col-20190625-d1449 | fichas/colegiado/2019-10.md |
-| 19957.000305/2018-88 | 2019-06-25 | nao-provido | cvm-col-20190625-d1448 | fichas/colegiado/2019-10.md |
-| 19957.000051/2018-06 | 2019-06-25 | nao-provido | cvm-col-20190625-d1447 | fichas/colegiado/2019-10.md |
-| 19957.000161/2018-60 | 2019-06-25 | nao-provido | cvm-col-20190625-d1446 | fichas/colegiado/2019-10.md |
-| 19957.000055/2018-86 | 2019-06-25 | nao-provido | cvm-col-20190625-d1445 | fichas/colegiado/2019-10.md |
-| 19957.006328/2019-87 | 2019-06-25 | nao-provido | cvm-col-20190625-d1444 | fichas/colegiado/2019-10.md |
-| 19957.003157/2019-34 | 2019-06-25 | outro | cvm-col-20190625-d1443 | fichas/colegiado/2019-10.md |
-| 19957.004537/2019-96 | 2019-06-19 | outro | cvm-col-20190619-d1428 | fichas/colegiado/2019-10.md |
-| 19957.005955/2016-58 | 2019-06-18 | nao-provido | cvm-col-20190618-d1438 | fichas/colegiado/2019-10.md |
-| 19957.010520/2018-97 | 2019-06-18 | outro | cvm-col-20190618-d1437 | fichas/colegiado/2019-09.md |
-| 19957.000317/2018-11 | 2019-06-18 | nao-provido | cvm-col-20190618-d1436 | fichas/colegiado/2019-09.md |
-| 19957.000298/2018-14 | 2019-06-18 | nao-provido | cvm-col-20190618-d1435 | fichas/colegiado/2019-09.md |
-| 19957.000171/2018-03 | 2019-06-18 | nao-provido | cvm-col-20190618-d1434 | fichas/colegiado/2019-09.md |
-| 19957.000163/2018-59 | 2019-06-18 | nao-provido | cvm-col-20190618-d1433 | fichas/colegiado/2019-09.md |
-| 19957.000162/2018-12 | 2019-06-18 | nao-provido | cvm-col-20190618-d1432 | fichas/colegiado/2019-09.md |
-| 19957.000154/2018-68 | 2019-06-18 | nao-provido | cvm-col-20190618-d1431 | fichas/colegiado/2019-09.md |
-| 19957.000059/2018-64 | 2019-06-18 | nao-provido | cvm-col-20190618-d1430 | fichas/colegiado/2019-09.md |
-| 19957.001012/2019-07 | 2019-06-18 | deferido | cvm-col-20190618-d1356 | fichas/colegiado/2019-09.md |
-| 17/2013 | 2019-06-18 | indeferido | cvm-col-20190618-d0273 | fichas/colegiado/2019-09.md |
-| 19957.000805/2018-10 | 2019-06-11 | outro | cvm-col-20190611-d1426 | fichas/colegiado/2019-09.md |
-| 19957.007855/2018-28 | 2019-06-11 | nao-provido | cvm-col-20190611-d1425 | fichas/colegiado/2019-09.md |
-| 19957.009468/2018-26 | 2019-06-05 | outro | cvm-col-20190605-d1441 | fichas/colegiado/2019-09.md |
-| 19957.002330/2016-34 | 2019-06-04 | nao-provido | cvm-col-20190604-d1421 | fichas/colegiado/2019-09.md |
-| 19957.007838/2018-91 | 2019-06-04 | nao-provido | cvm-col-20190604-d1419 | fichas/colegiado/2019-09.md |
-| — | 2019-06-04 | — | cvm-col-20190604-d1414 | fichas/colegiado/2019-09.md |
-| 19957.010406/2017-86 | 2019-06-04 | nao-provido | cvm-col-20190604-d1412 | fichas/colegiado/2019-09.md |
-| 19957.003148/2016-09 | 2019-06-04 | nao-provido | cvm-col-20190604-d1411 | fichas/colegiado/2019-09.md |
-| 01/2018; 452/2007; 555/2014; 463/2003; 19957.006566/2017-21 | 2019-05-30 | outro | cvm-col-20190530-d1022 | fichas/colegiado/2019-09.md |
-| RJ2013/8880 | 2019-05-28 | conhecimento | cvm-col-20190528-d8981 | fichas/colegiado/2019-09.md |
-| 19957.003280/2019-55 | 2019-05-28 | provido | cvm-col-20190528-d1420 | fichas/colegiado/2019-08.md |
-| 19957.005332/2019-28 | 2019-05-28 | nao-provido | cvm-col-20190528-d1418 | fichas/colegiado/2019-08.md |
-| 19957.000886/2019-39 | 2019-05-28 | outro | cvm-col-20190528-d1414 | fichas/colegiado/2019-08.md |
-| 19957.008794/2018-16 | 2019-05-28 | outro | cvm-col-20190528-d1413 | fichas/colegiado/2019-08.md |
-| 19957.002097/2016-90 | 2019-05-28 | deferido | cvm-col-20190528-d1410 | fichas/colegiado/2019-08.md |
-| 02/2018; 19957.006565/2017-86 | 2019-05-22 | outro | cvm-col-20190522-d2894 | fichas/colegiado/2019-08.md |
-| 19957.002097/2016-90 | 2019-05-21 | outro | cvm-col-20190521-d1410 | fichas/colegiado/2019-08.md |
-| 19957.000395/2019-98 | 2019-05-21 | deferido | cvm-col-20190521-d1409 | fichas/colegiado/2019-08.md |
-| 19957.005140/2019-11 | 2019-05-21 | nao-provido | cvm-col-20190521-d1407 | fichas/colegiado/2019-08.md |
-| 19957.005798/2018-42 | 2019-05-21 | provido | cvm-col-20190521-d1406 | fichas/colegiado/2019-08.md |
-| 19957.004996/2019-70 | 2019-05-21 | nao-provido | cvm-col-20190521-d1401 | fichas/colegiado/2019-08.md |
-| 16/2010 | 2019-05-21 | indeferido | cvm-col-20190521-d0337-2 | fichas/colegiado/2019-08.md |
-| 16/2010 | 2019-05-21 | indeferido | cvm-col-20190521-d0337-1 | fichas/colegiado/2019-08.md |
-| 02/2018; 19957.006565/2017-86 | 2019-05-15 | — | cvm-col-20190515-d2894 | fichas/colegiado/2019-08.md |
-| 19957.010577/2018-96 | 2019-05-14 | outro | cvm-col-20190514-d1400 | fichas/colegiado/2019-08.md |
-| 19957.004997/2019-14 | 2019-05-14 | nao-provido | cvm-col-20190514-d1399 | fichas/colegiado/2019-08.md |
-| 19957.004994/2019-81 | 2019-05-14 | parcial | cvm-col-20190514-d1398 | fichas/colegiado/2019-07.md |
-| 19957.004992/2019-91 | 2019-05-14 | nao-provido | cvm-col-20190514-d1397 | fichas/colegiado/2019-07.md |
-| 02/2018; 19957.006565/2017-86 | 2019-05-08 | — | cvm-col-20190508-d2894 | fichas/colegiado/2019-07.md |
-| 19957.004833/2019-97 | 2019-05-07 | nao-provido | cvm-col-20190507-d1391 | fichas/colegiado/2019-07.md |
-| 19957.001016/2019-87 | 2019-05-07 | outro | cvm-col-20190507-d0147 | fichas/colegiado/2019-07.md |
-| 19957.004537/2019-96 | 2019-05-02 | outro | cvm-col-20190502-d1428 | fichas/colegiado/2019-07.md |
-| RJ2014/6517 | 2019-04-30 | indeferido | cvm-col-20190430-d9468 | fichas/colegiado/2019-07.md |
-| 19957.004853/2019-68 | 2019-04-30 | outro | cvm-col-20190430-d1388 | fichas/colegiado/2019-07.md |
-| 19957.003194/2019-42 | 2019-04-30 | nao-provido | cvm-col-20190430-d1386 | fichas/colegiado/2019-07.md |
-| SP2011/0036 | 2019-04-22 | deferido | cvm-col-20190422-d7688 | fichas/colegiado/2019-07.md |
-| 19957.004691/2019-68 | 2019-04-22 | indeferido | cvm-col-20190422-d1383 | fichas/colegiado/2019-07.md |
-| 592/2017; 19957.002812/2019-37 | 2019-04-22 | outro | cvm-col-20190422-d1382 | fichas/colegiado/2019-07.md |
-| — | 2019-04-22 | — | cvm-col-20190422-d1381 | fichas/colegiado/2019-07.md |
-| 19957.000722/2018-21 | 2019-04-22 | nao-provido | cvm-col-20190422-d1380 | fichas/colegiado/2019-07.md |
-| 19957.011700/2017-13 | 2019-04-22 | nao-provido | cvm-col-20190422-d1379 | fichas/colegiado/2019-07.md |
-| 19957.011564/2017-53 | 2019-04-22 | nao-provido | cvm-col-20190422-d1378 | fichas/colegiado/2019-07.md |
-| 19957.009524/2017-41 | 2019-04-22 | outro | cvm-col-20190422-d0832 | fichas/colegiado/2019-07.md |
-| 19957.000040/2018-18 | 2019-04-17 | — | cvm-col-20190417-d1223 | fichas/colegiado/2019-07.md |
-| 559/2008; 19957.003351/2018-39 | 2019-04-16 | outro | cvm-col-20190416-d1375 | fichas/colegiado/2019-06.md |
-| 19957.004219/2019-25 | 2019-04-11 | indeferido | cvm-col-20190411-d1376 | fichas/colegiado/2019-06.md |
-| 19957.007933/2018-94 | 2019-04-10 | outro | cvm-col-20190410-d2878 | fichas/colegiado/2019-06.md |
-| 06/2012 | 2019-04-09 | indeferido | cvm-col-20190409-d9998 | fichas/colegiado/2019-06.md |
-| 19957.004270/2019-37 | 2019-04-09 | outro | cvm-col-20190409-d2190409-d1367 | fichas/colegiado/2019-06.md |
-| 19957.010159/2018-07 | 2019-04-09 | deferido | cvm-col-20190409-d1372 | fichas/colegiado/2019-06.md |
-| 19957.003490/2016-09 | 2019-04-09 | nao-provido | cvm-col-20190409-d1371 | fichas/colegiado/2019-06.md |
-| 19957.011575/2017-33 | 2019-04-09 | nao-provido | cvm-col-20190409-d1370 | fichas/colegiado/2019-06.md |
-| 19957.000958/2018-67 | 2019-04-09 | outro | cvm-col-20190409-d1369 | fichas/colegiado/2019-06.md |
-| 19957.001522/2017-12 | 2019-04-09 | — | cvm-col-20190409-d1365 | fichas/colegiado/2019-06.md |
-| 19957.007811/2018-06 | 2019-04-09 | deferido | cvm-col-20190409-d1360 | fichas/colegiado/2019-06.md |
-| 19957.003410/2019-50 | 2019-04-09 | conhecimento | cvm-col-20190409-d1285 | fichas/colegiado/2019-06.md |
-| 19957.003411/2019-02 | 2019-04-09 | conhecimento | cvm-col-20190409-d1284 | fichas/colegiado/2019-06.md |
-| — | 2019-04-02 | outro | cvm-col-20190402-d6213 | fichas/colegiado/2019-06.md |
-| 19957.000876/2018-12 | 2019-04-02 | nao-provido | cvm-col-20190402-d1364 | fichas/colegiado/2019-06.md |
-| 19957.004938/2018-65 | 2019-04-02 | nao-provido | cvm-col-20190402-d1363 | fichas/colegiado/2019-06.md |
-| 19957.007811/2018-06 | 2019-04-02 | — | cvm-col-20190402-d1360 | fichas/colegiado/2019-05.md |
-| 19957.000861/2019-35 | 2019-04-02 | nao-provido | cvm-col-20190402-d1355 | fichas/colegiado/2019-05.md |
-| 19957.009969/2018-11 | 2019-04-02 | deferido | cvm-col-20190402-d1345 | fichas/colegiado/2019-05.md |
-| 19957.009590/2018-01 | 2019-04-02 | nao-provido | cvm-col-20190402-d1321 | fichas/colegiado/2019-05.md |
-| RJ2016/4098; 19957.009411/2017-46 | 2019-04-02 | outro | cvm-col-20190402-d0205-0847 | fichas/colegiado/2019-05.md |
-| 476/2009; 19957.011289/2018-59 | 2019-03-26 | conhecimento | cvm-col-20190326-d1359 | fichas/colegiado/2019-05.md |
-| 19957.009381/2018-59 | 2019-03-26 | outro | cvm-col-20190326-d1358 | fichas/colegiado/2019-05.md |
-| RJ2013/9992 | 2019-03-26 | provido | cvm-col-20190326-d1357 | fichas/colegiado/2019-05.md |
-| 19957.001012/2019-07 | 2019-03-26 | — | cvm-col-20190326-d1356 | fichas/colegiado/2019-05.md |
-| 19957.000861/2019-35 | 2019-03-26 | — | cvm-col-20190326-d1355 | fichas/colegiado/2019-05.md |
-| 00783.006230/2018-50 | 2019-03-26 | outro | cvm-col-20190326-d1354 | fichas/colegiado/2019-05.md |
-| 19957.006826/2018-49 | 2019-03-26 | nao-provido | cvm-col-20190326-d1353 | fichas/colegiado/2019-05.md |
-| 19957.003407/2019-36 | 2019-03-22 | indeferido | cvm-col-20190322-d1311 | fichas/colegiado/2019-05.md |
-| 555/2014; 19957.003776/2017-67 | 2019-03-20 | outro | cvm-col-20190320-d5474 | fichas/colegiado/2019-04.md |
-| 19957.003208/2019-28 | 2019-03-19 | outro | cvm-col-20190319-d4715 | fichas/colegiado/2019-04.md |
-| — | 2019-03-19 | — | cvm-col-20190319-d1351 | fichas/colegiado/2019-04.md |
-| 19957.000977/2019-74 | 2019-03-19 | nao-provido | cvm-col-20190319-d1350 | fichas/colegiado/2019-04.md |
-| 19957.009502/2018-62 | 2019-03-19 | outro | cvm-col-20190319-d1348 | fichas/colegiado/2019-04.md |
-| 19957.000672/2019-62 | 2019-03-19 | nao-provido | cvm-col-20190319-d1347 | fichas/colegiado/2019-04.md |
-| 19957.004043/2016-69 | 2019-03-19 | nao-provido | cvm-col-20190319-d1266 | fichas/colegiado/2019-04.md |
-| 19957.008798/2018-02 | 2019-03-12 | conhecimento | cvm-col-20190312-d2-d1287 | fichas/colegiado/2019-04.md |
-| 19957.009969/2018-11 | 2019-03-12 | — | cvm-col-20190312-d1345 | fichas/colegiado/2019-04.md |
-| 19957.009641/2018-96 | 2019-03-12 | outro | cvm-col-20190312-d1341 | fichas/colegiado/2019-04.md |
-| 19957.000981/2019-32 | 2019-03-12 | nao-provido | cvm-col-20190312-d1338 | fichas/colegiado/2019-04.md |
-| 19957.000974/2019-31 | 2019-03-12 | nao-provido | cvm-col-20190312-d1337 | fichas/colegiado/2019-04.md |
-| 19957.010308/2018-20 | 2019-03-12 | nao-provido | cvm-col-20190312-d1336 | fichas/colegiado/2019-04.md |
-| 19957.009302/2016-48 | 2019-02-26 | outro | cvm-col-20190226-d1333 | fichas/colegiado/2019-04.md |
-| 19957.007894/2018-25 | 2019-02-26 | outro | cvm-col-20190226-d1332 | fichas/colegiado/2019-04.md |
-| 19957.011671/2017-81 | 2019-02-26 | nao-provido | cvm-col-20190226-d1330 | fichas/colegiado/2019-04.md |
-| 19957.011667/2017-13 | 2019-02-26 | nao-provido | cvm-col-20190226-d1329 | fichas/colegiado/2019-04.md |
-| 19957.011570/2017-19 | 2019-02-26 | nao-provido | cvm-col-20190226-d1328 | fichas/colegiado/2019-04.md |
-| 19957.011568/2017-31 | 2019-02-26 | nao-provido | cvm-col-20190226-d1327 | fichas/colegiado/2019-04.md |
-| 19957.011553/2017-73 | 2019-02-26 | nao-provido | cvm-col-20190226-d1326 | fichas/colegiado/2019-04.md |
-| 19957.004747/2018-01 | 2019-02-26 | outro | cvm-col-20190226-d1325 | fichas/colegiado/2019-04.md |
-| 19957.000187/2019-99 | 2019-02-26 | outro | cvm-col-20190226-d1314 | fichas/colegiado/2019-03.md |
-| SP2016/0019 | 2019-02-26 | outro | cvm-col-20190226-d1239 | fichas/colegiado/2019-03.md |
-| SP2016/0245 | 2019-02-26 | conhecimento | cvm-col-20190226-d1234 | fichas/colegiado/2019-03.md |
-| 19957.002872/2017-98 | 2019-02-26 | nao-provido | cvm-col-20190226-d1139 | fichas/colegiado/2019-03.md |
-| 19957.007396/2017-00 | 2019-02-26 | — | cvm-col-20190226-d1052 | fichas/colegiado/2019-03.md |
-| 19957.001403/2019-13 | 2019-02-25 | indeferido | cvm-col-20190225-d1334 | fichas/colegiado/2019-03.md |
-| 19957.000716/2019-54 | 2019-02-21 | indeferido | cvm-col-20190221-d1311 | fichas/colegiado/2019-03.md |
-| 19957.009590/2018-01 | 2019-02-19 | — | cvm-col-20190219-d1321 | fichas/colegiado/2019-03.md |
-| 19957.000840/2019-10 | 2019-02-19 | deferido | cvm-col-20190219-d1319 | fichas/colegiado/2019-03.md |
-| 19957.000736/2019-25 | 2019-02-19 | nao-provido | cvm-col-20190219-d1318 | fichas/colegiado/2019-03.md |
-| 19957.000701/2019-96 | 2019-02-19 | nao-provido | cvm-col-20190219-d1317 | fichas/colegiado/2019-03.md |
-| 19957.011165/2018-73 | 2019-02-19 | — | cvm-col-20190219-d1316 | fichas/colegiado/2019-03.md |
-| 19957.000582/2019-71 | 2019-02-19 | outro | cvm-col-20190219-d1300 | fichas/colegiado/2019-03.md |
-| 19957.011294/2017-81 | 2019-02-19 | nao-provido | cvm-col-20190219-d1057 | fichas/colegiado/2019-03.md |
-| 19957.006406/2016-09 | 2019-02-19 | outro | cvm-col-20190219-d0772 | fichas/colegiado/2019-03.md |
-| RJ2013/8880 | 2019-02-12 | conhecimento | cvm-col-20190212-d8981 | fichas/colegiado/2019-03.md |
-| 19957.000283/2019-37 | 2019-02-12 | nao-provido | cvm-col-20190212-d1313 | fichas/colegiado/2019-02.md |
-| 19957.000582/2019-71 | 2019-02-12 | — | cvm-col-20190212-d1300 | fichas/colegiado/2019-02.md |
-| 19957.000716/2019-54 | 2019-02-06 | deferido | cvm-col-20190206-d1311 | fichas/colegiado/2019-02.md |
-| — | 2019-01-29 | — | cvm-col-20190129-d1302 | fichas/colegiado/2019-02.md |
-| 19957.011541/2017-49 | 2019-01-29 | outro | cvm-col-20190129-d1301 | fichas/colegiado/2019-02.md |
-| 19957.000582/2019-71 | 2019-01-29 | — | cvm-col-20190129-d1300 | fichas/colegiado/2019-02.md |
-| 19957.000444/2019-92 | 2019-01-29 | nao-provido | cvm-col-20190129-d1297 | fichas/colegiado/2019-02.md |
-| 19957.000442/2019-01 | 2019-01-29 | nao-provido | cvm-col-20190129-d1296 | fichas/colegiado/2019-02.md |
-| 19957.000492/2019-81 | 2019-01-29 | nao-provido | cvm-col-20190129-d1295 | fichas/colegiado/2019-02.md |
-| 19957.000449/2019-15 | 2019-01-29 | nao-provido | cvm-col-20190129-d1294 | fichas/colegiado/2019-02.md |
-| 19957.000418/2019-64 | 2019-01-29 | nao-provido | cvm-col-20190129-d1293 | fichas/colegiado/2019-02.md |
-| 19957.011375/2018-61 | 2019-01-29 | nao-provido | cvm-col-20190129-d1292 | fichas/colegiado/2019-02.md |
-| 19957.011374/2018-17 | 2019-01-29 | nao-provido | cvm-col-20190129-d1291 | fichas/colegiado/2019-02.md |
-| 19957.011368/2018-60 | 2019-01-29 | nao-provido | cvm-col-20190129-d1290 | fichas/colegiado/2019-02.md |
-| 19957.008984/2016-71 | 2019-01-29 | indeferido | cvm-col-20190129-d0838 | fichas/colegiado/2019-02.md |
-| 03/2018; 19957.006551/2018-43 | 2019-01-23 | outro | cvm-col-20190123-d1083 | fichas/colegiado/2019-02.md |
-| 19957.000378/2019-51 | 2019-01-22 | nao-provido | cvm-col-20190122-d1288 | fichas/colegiado/2019-02.md |
-| 19957.008798/2018-02 | 2019-01-22 | nao-provido | cvm-col-20190122-d1287 | fichas/colegiado/2019-02.md |
-| 19957.011356/2018-35 | 2019-01-22 | indeferido | cvm-col-20190122-d1285 | fichas/colegiado/2019-01.md |
-| 19957.011207/2018-76 | 2019-01-22 | indeferido | cvm-col-20190122-d1284 | fichas/colegiado/2019-01.md |
-| 19957.009331/2018-71 | 2019-01-22 | provido | cvm-col-20190122-d1283 | fichas/colegiado/2019-01.md |
-| 19957.004716/2018-42 | 2019-01-22 | outro | cvm-col-20190122-d1281 | fichas/colegiado/2019-01.md |
-| 19957.009605/2018-22 | 2019-01-22 | deferido | cvm-col-20190122-d1279 | fichas/colegiado/2019-01.md |
-| 22/2013 | 2019-01-22 | indeferido | cvm-col-20190122-d1057 | fichas/colegiado/2019-01.md |
-| — | 2019-01-17 | outro | cvm-col-20190117-d1289 | fichas/colegiado/2019-01.md |
-| 19957.009300/2018-11 | 2019-01-17 | — | cvm-col-20190117-d1255 | fichas/colegiado/2019-01.md |
-| 14/2010 | 2019-01-15 | indeferido | cvm-col-20190115-d8609 | fichas/colegiado/2019-01.md |
-| 19957.008960/2018-84 | 2019-01-15 | nao-provido | cvm-col-20190115-d1280 | fichas/colegiado/2019-01.md |
-| 19957.009674/2018-36 | 2019-01-15 | outro | cvm-col-20190115-d1278 | fichas/colegiado/2019-01.md |
-| 19957.006590/2018-41 | 2019-01-15 | deferido | cvm-col-20190115-d1277 | fichas/colegiado/2019-01.md |
-| RJ2015/9195 | 2019-01-15 | outro | cvm-col-20190115-d0148 | fichas/colegiado/2019-01.md |
-| 19957.011151/2018-50 | 2019-01-08 | conhecimento | cvm-col-20190108-d1276 | fichas/colegiado/2019-01.md |
-| 19957.006209/2018-43 | 2019-01-08 | nao-provido | cvm-col-20190108-d1275 | fichas/colegiado/2019-01.md |
-| 19957.009627/2018-92 | 2019-01-08 | nao-provido | cvm-col-20190108-d1274 | fichas/colegiado/2019-01.md |
-| 19957.011150/2018-13 | 2019-01-08 | nao-provido | cvm-col-20190108-d1273 | fichas/colegiado/2019-01.md |
-| 19957.009340/2018-62 | 2019-01-08 | deferido | cvm-col-20190108-d1272 | fichas/colegiado/2019-01.md |
+| Processo | Data | Resultado | Ementa | Id | Ficha |
+|---|---|---|---|---|---|
+| RJ2015/5571 | 2019-12-23 | nao-provido | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2015/5571. | cvm-col-20191223-d1653 | fichas/colegiado/2019-21.md |
+| RJ2015/1587 | 2019-12-23 | nao-provido | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2015/1587. | cvm-col-20191223-d1652 | fichas/colegiado/2019-21.md |
+| RJ2015/0204 | 2019-12-23 | nao-provido | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2015/0204. | cvm-col-20191223-d1651 | fichas/colegiado/2019-21.md |
+| 480/2009; 19957.004286/2019-40 | 2019-12-20 | — | O Colegiado ouviu a conclusão da apresentação da SDM sobre propostas de alteração do regime informacional das companhias: revisão do… | cvm-col-20191220-d1673 | fichas/colegiado/2019-21.md |
+| 19957.009300/2018-11 | 2019-12-20 | — | A SDM apresentou ao Colegiado aspectos específicos da revisão da regulamentação de ofertas públicas de valores mobiliários. Não houve… | cvm-col-20191220-d1255 | fichas/colegiado/2019-21.md |
+| 480/2009; 19957.004286/2019-40 | 2019-12-19 | — | A SDM apresentou ao Colegiado propostas de alteração do regime informacional das companhias (Instrução CVM nº 480/09), com foco no… | cvm-col-20191219-d1673 | fichas/colegiado/2019-21.md |
+| 19957.007528/2019-57 | 2019-12-19 | deferido | O Colegiado, por unanimidade, acompanhando a SEP, entendeu que não se justifica, no caso concreto, exigir os laudos de avaliação do art… | cvm-col-20191219-d1648 | fichas/colegiado/2019-21.md |
+| 19957.005059/2019-31 | 2019-12-17 | outro | O Colegiado, por unanimidade, aprovou deliberação de alerta ao mercado sobre atuação irregular de um indivíduo na administração de… | cvm-col-20191217-d1647 | fichas/colegiado/2019-21.md |
+| 19957.010609/2019-34 | 2019-12-17 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.010609/2019-34. | cvm-col-20191217-d1645 | fichas/colegiado/2019-21.md |
+| 19957.005770/2019-96 | 2019-12-17 | outro | O Colegiado aprovou Deliberação, proposta pela SRE, alertando o mercado de que a LTX Crypto Management Assessoria Empresarial S.A. e duas… | cvm-col-20191217-d1642 | fichas/colegiado/2019-21.md |
+| 19957.009163/2019-03 | 2019-12-17 | conhecimento | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.009163/2019-03. | cvm-col-20191217-d1641 | fichas/colegiado/2019-21.md |
+| 19957.008937/2019-71 | 2019-12-17 | nao-provido | O Colegiado, acompanhando a SIN, negou provimento a recurso contra cancelamento de credenciamento de administrador de carteira por perda do… | cvm-col-20191217-d1640 | fichas/colegiado/2019-21.md |
+| 19957.005197/2016-78 | 2019-12-17 | conhecimento | O Colegiado, por unanimidade, não conheceu de recurso da companhia contra arquivamento, pela SMI, de processo sobre suposta manipulação de… | cvm-col-20191217-d1565 | fichas/colegiado/2019-21.md |
+| — | 2019-12-13 | — | A SOI apresentou ao Colegiado, para conhecimento, resultado de pesquisa qualitativa, feita por consultoria externa, sobre a participação de… | cvm-col-20191213-d1654 | fichas/colegiado/2019-21.md |
+| — | 2019-12-11 | outro | Após a SDM apresentar o relatório de atuação de 2019, o Colegiado deliberou sobre a agenda regulatória da CVM para 2020. | cvm-col-20191211-d1649 | fichas/colegiado/2019-21.md |
+| 19957.005639/2018-48 | 2019-12-10 | outro | O Colegiado aprovou, por unanimidade, a minuta de Carta de Intenções para colaboração entre a CVM e o CFA Institute, voltada à… | cvm-col-20191210-d1639 | fichas/colegiado/2019-20.md |
+| 400/2003; 19957.009498/2019-13 | 2019-12-10 | deferido | O Colegiado concedeu dispensa do art. 55 da Instrução CVM 400 para alocar até 3% da oferta de cotas do Perfin Apollo Energia FIP a gestor e… | cvm-col-20191210-d1638 | fichas/colegiado/2019-20.md |
+| 461/2007; 19957.010873/2019-78 | 2019-12-10 | deferido | O Colegiado, por maioria resultante do voto de qualidade do Presidente, concedeu à BSM Supervisão de Mercados dispensa do requisito de… | cvm-col-20191210-d1637 | fichas/colegiado/2019-20.md |
+| 19957.002336/2019-54 | 2019-12-10 | outro | O Colegiado aprovou Deliberação, minuta da SRE, alertando o mercado de que a Stratum Blockchain Technology Limited, a Coinbr Serviços… | cvm-col-20191210-d1636 | fichas/colegiado/2019-20.md |
+| 19957.010645/2019-06 | 2019-12-10 | outro | O Colegiado, por unanimidade, acompanhou a SRE (Memorando 23/2019): mantidas as condições consultadas, a prática conjunta dos atos… | cvm-col-20191210-d1634 | fichas/colegiado/2019-20.md |
+| 19957.008957/2019-41 | 2019-12-10 | nao-provido | O Colegiado negou provimento a recurso contra decisão da SIN que cancelou o credenciamento de administrador de carteira do recorrente… | cvm-col-20191210-d1633 | fichas/colegiado/2019-20.md |
+| 19957.005116/2018-00 | 2019-12-10 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.005116/2018-00. | cvm-col-20191210-d1632 | fichas/colegiado/2019-20.md |
+| 19957.010070/2019-13 | 2019-12-10 | provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.010070/2019-13. | cvm-col-20191210-d1631 | fichas/colegiado/2019-20.md |
+| 19957.009929/2019-41 | 2019-12-10 | provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.009929/2019-41. | cvm-col-20191210-d1630 | fichas/colegiado/2019-20.md |
+| 19957.007649/2019-07 | 2019-12-10 | outro | O Colegiado aprovou a Deliberação CVM 838/19, que revoga a Deliberação CVM 829/19, a qual permitia às companhias abertas fazer publicações… | cvm-col-20191210-d1580 | fichas/colegiado/2019-20.md |
+| 19957.002618/2016-17 | 2019-12-05 | outro | O Colegiado aprovou submeter à Audiência Pública SDM nº 09/2019 minuta de instrução que regulamenta a autorregulação unificada das… | cvm-col-20191205-d2676 | fichas/colegiado/2019-20.md |
+| 01/2019; 19957.008229/2019-30 | 2019-12-04 | outro | Após audiência pública SNC n° 01/2019 – minuta de deliberação que aprova o pronunciamento técnico CPC 00 (R2) – estrutura conceitual para… | cvm-col-20191204-d5917 | fichas/colegiado/2019-20.md |
+| 02/2019; 19957.008230/2019-64 | 2019-12-04 | outro | O Colegiado aprovou a Deliberação CVM 836/19, após a Audiência Pública SNC 02/2019, que aprova o Documento de Revisão de Pronunciamentos… | cvm-col-20191204-d1523 | fichas/colegiado/2019-20.md |
+| 19957.000017/2019-12 | 2019-12-04 | outro | O Colegiado aprovou submissão à Audiência Pública SDM nº 08/19 de minuta de instrução que altera normas sobre certificados de depósito de… | cvm-col-20191204-d1474 | fichas/colegiado/2019-20.md |
+| 19957.001281/2019-65 | 2019-12-03 | outro | O Colegiado, por unanimidade, aprovou a minuta de Acordo de Cooperação Técnica entre a CVM e a Associação Columbia Global Center/Brasil… | cvm-col-20191203-d1628 | fichas/colegiado/2019-20.md |
+| 472/2008; 19957.009373/2019-93 | 2019-12-03 | nao-provido | Por unanimidade, o Colegiado negou provimento a recurso de cotista e de consultor imobiliário de FII contra a SIN, que manteve… | cvm-col-20191203-d1627 | fichas/colegiado/2019-20.md |
+| 19957.000570/2018-66 | 2019-12-03 | outro | O Colegiado, por unanimidade, rejeitou proposta da SRE de edição de deliberação para suspender oferta de contratos de investimento coletivo… | cvm-col-20191203-d1626 | fichas/colegiado/2019-20.md |
+| 19957.007483/2018-30 | 2019-12-03 | outro | O Colegiado aprovou Deliberação, minuta da SRE, alertando o mercado de que a SPE STX 32 Desenvolvimento Imobiliário Ltda. e a Nobile Gestão… | cvm-col-20191203-d1625 | fichas/colegiado/2019-20.md |
+| 19957.010151/2019-13 | 2019-12-03 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.010151/2019-13. | cvm-col-20191203-d1623 | fichas/colegiado/2019-19.md |
+| 19957.010150/2019-79 | 2019-12-03 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.010150/2019-79. | cvm-col-20191203-d1622 | fichas/colegiado/2019-19.md |
+| 19957.010102/2019-81 | 2019-12-03 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.010102/2019-81. | cvm-col-20191203-d1621 | fichas/colegiado/2019-19.md |
+| 19957.010101/2019-36 | 2019-12-03 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.010101/2019-36. | cvm-col-20191203-d1620 | fichas/colegiado/2019-19.md |
+| 19957.002618/2016-17 | 2019-11-29 | — | O Colegiado retomou a discussão da minuta de norma sobre autorregulação unificada das entidades administradoras de mercado organizado e de… | cvm-col-20191129-d2676 | fichas/colegiado/2019-19.md |
+| 505/2011; 19957.002618/2016-17 | 2019-11-27 | — | O Colegiado iniciou a discussão de minuta que altera a Instrução CVM 505/2011 para regulamentar a melhor execução de ordens em contexto de… | cvm-col-20191127-d2676 | fichas/colegiado/2019-19.md |
+| RJ2014/3161 | 2019-11-26 | outro | Por unanimidade, o Colegiado aprovou nova definição jurídica dos fatos em PAS sobre aquisição de CCBs por fundos de investimento (art. 47… | cvm-col-20191126-d9961 | fichas/colegiado/2019-19.md |
+| 19957.008351/2019-14 | 2019-11-26 | nao-provido | Por unanimidade, o Colegiado negou provimento a recurso contra indeferimento de credenciamento como administrador de carteira pessoa… | cvm-col-20191126-d1619 | fichas/colegiado/2019-19.md |
+| 19957.010084/2019-37 | 2019-11-26 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.010084/2019-37. | cvm-col-20191126-d1618 | fichas/colegiado/2019-19.md |
+| 19957.009481/2019-66 | 2019-11-26 | — | Pedido de dispensa de normas da ICVM 356/01 para FIDC de infraestrutura (Lei 12.431/11) e FIC-FIDC da Santander Securities Services Brasil… | cvm-col-20191126-d1617 | fichas/colegiado/2019-19.md |
+| 19957.008455/2019-11 | 2019-11-26 | conhecimento | O Colegiado não conheceu do pedido de reconsideração da decisão de 08.10.2019 que indeferiu dispensa de apresentação do ITR de 30.06.2019… | cvm-col-20191126-d1569 | fichas/colegiado/2019-19.md |
+| 08/2016 | 2019-11-26 | conhecimento | Por unanimidade, o Colegiado não conheceu do pedido de reconsideração de um dos acusados do PAS 08/2016 (Petrobras) contra o indeferimento… | cvm-col-20191126-d1173 | fichas/colegiado/2019-19.md |
+| 14/2013 | 2019-11-26 | outro | O Colegiado, por unanimidade, aprovou nova definição jurídica dos fatos no PAS 14/2013 (art. 47, Instrução CVM 607/19). Para a diretora… | cvm-col-20191126-d0124 | fichas/colegiado/2019-19.md |
+| 19957.010097/2019-14 | 2019-11-19 | deferido | Por maioria, o Colegiado deferiu pedido da gestora Journey Capital Administração de Recursos de dispensa dos arts. 27, 37, III, 102 e 103… | cvm-col-20191119-d1615 | fichas/colegiado/2019-19.md |
+| 19957.003562/2018-71 | 2019-11-19 | nao-provido | Por unanimidade, o Colegiado negou provimento a recurso contra o arquivamento de reclamação sobre suposto conflito de interesses em venda… | cvm-col-20191119-d1612 | fichas/colegiado/2019-19.md |
+| 19957.005063/2019-08 | 2019-11-19 | outro | Por unanimidade, o Colegiado aprovou Deliberação alertando o mercado sobre a atuação irregular de uma pessoa natural e de sua empresa na… | cvm-col-20191119-d1611 | fichas/colegiado/2019-19.md |
+| 19957.010103/2019-25 | 2019-11-19 | parcial | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.010103/2019-25. | cvm-col-20191119-d1610 | fichas/colegiado/2019-19.md |
+| 19957.009964/2019-61 | 2019-11-19 | provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.009964/2019-61. | cvm-col-20191119-d1609 | fichas/colegiado/2019-19.md |
+| 19957.010081/2019-01 | 2019-11-19 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.010081/2019-01. | cvm-col-20191119-d1608 | fichas/colegiado/2019-19.md |
+| 19957.010268/2019-05 | 2019-11-19 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.010268/2019-05. | cvm-col-20191119-d1607 | fichas/colegiado/2019-19.md |
+| 19957.010267/2019-52 | 2019-11-19 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.010267/2019-52. | cvm-col-20191119-d1606 | fichas/colegiado/2019-18.md |
+| 19957.010088/2019-15 | 2019-11-19 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.010088/2019-15. | cvm-col-20191119-d1605 | fichas/colegiado/2019-18.md |
+| 19957.009966/2019-50 | 2019-11-19 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.009966/2019-50. | cvm-col-20191119-d1604 | fichas/colegiado/2019-18.md |
+| 19957.005109/2018-08 | 2019-11-19 | parcial | O Colegiado indeferiu dispensa de autorização prévia do conselho, caso a caso, para negociar ações de própria emissão (ICVM 567/15, art… | cvm-col-20191119-d1067 | fichas/colegiado/2019-18.md |
+| 19957.004542/2017-37 | 2019-11-19 | indeferido | O Colegiado, acompanhando o voto da relatora, indeferiu por unanimidade os pedidos de produção de provas das requerentes em PAS sobre… | cvm-col-20191119-d0804 | fichas/colegiado/2019-18.md |
+| 19957.007937/2016-19 | 2019-11-19 | indeferido | Por unanimidade, o Colegiado indeferiu pedidos de produção de provas das acusadas em PAS sobre oferta de contratos de investimento coletivo… | cvm-col-20191119-d0719 | fichas/colegiado/2019-18.md |
+| 461/2007; 19957.002618/2016-17 | 2019-11-14 | — | O Colegiado concluiu a discussão da minuta de instrução sobre mercados regulamentados, em pré-audiência pública, que substituiria a… | cvm-col-20191114-d2676 | fichas/colegiado/2019-18.md |
+| 461/2007; 19957.002618/2016-17 | 2019-11-13 | — | O Colegiado continuou a discussão da minuta de instrução que dispõe sobre mercados regulamentados e substitui a Instrução CVM 461/07. Sem… | cvm-col-20191113-d2676 | fichas/colegiado/2019-18.md |
+| 19957.010069/2019-99 | 2019-11-12 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.010069/2019-99. | cvm-col-20191112-d1602 | fichas/colegiado/2019-18.md |
+| 19957.010068/2019-44 | 2019-11-12 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.010068/2019-44. | cvm-col-20191112-d1601 | fichas/colegiado/2019-18.md |
+| 19957.010043/2019-41 | 2019-11-12 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.010043/2019-41. | cvm-col-20191112-d1600 | fichas/colegiado/2019-18.md |
+| 19957.010042/2019-04 | 2019-11-12 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.010042/2019-04. | cvm-col-20191112-d1599 | fichas/colegiado/2019-18.md |
+| 19957.010041/2019-51 | 2019-11-12 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.010041/2019-51. | cvm-col-20191112-d1598 | fichas/colegiado/2019-18.md |
+| 19957.010040/2019-15 | 2019-11-12 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.010040/2019-15. | cvm-col-20191112-d1597 | fichas/colegiado/2019-18.md |
+| 19957.009938/2019-32 | 2019-11-12 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.009938/2019-32. | cvm-col-20191112-d1596 | fichas/colegiado/2019-18.md |
+| 19957.010080/2019-59 | 2019-11-12 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.010080/2019-59. | cvm-col-20191112-d1595 | fichas/colegiado/2019-18.md |
+| 19957.010028/2019-01 | 2019-11-12 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.010028/2019-01. | cvm-col-20191112-d1594 | fichas/colegiado/2019-18.md |
+| 19957.003110/2019-71 | 2019-11-12 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.003110/2019-71. | cvm-col-20191112-d1591 | fichas/colegiado/2019-18.md |
+| 461/2007; 19957.002618/2016-17 | 2019-11-06 | — | O Colegiado iniciou a discussão da minuta de instrução sobre mercados regulamentados que substituirá a Instrução CVM 461/07, sem… | cvm-col-20191106-d2676 | fichas/colegiado/2019-18.md |
+| 02/2019; 19957.007933/2018-94 | 2019-11-05 | outro | O Colegiado aprovou, após audiência pública, Instrução que altera a ICVM 361/02: submete a limites de 1/3 e 2/3 as OPAs por aumento de… | cvm-col-20191105-d2878 | fichas/colegiado/2019-18.md |
+| 19957.010008/2019-21 | 2019-11-05 | outro | Por unanimidade, o Colegiado decidiu que as áreas técnicas submetam à audiência pública as sugestões de alteração da ICVM 260/97, que trata… | cvm-col-20191105-d2376 | fichas/colegiado/2019-18.md |
+| 19957.006874/2019-18 | 2019-11-05 | outro | Por unanimidade, o Colegiado determinou à SNC e à SDM que incluam na agenda regulatória de 2020 a revisão da ICVM 308/99, para avaliar a… | cvm-col-20191105-d1590 | fichas/colegiado/2019-18.md |
+| 19957.004658/2019-38 | 2019-11-05 | nao-provido | O Colegiado, por unanimidade, negou provimento a recurso da Argus Classificadora de Risco de Créditos contra o cancelamento de ofício de… | cvm-col-20191105-d1464 | fichas/colegiado/2019-17.md |
+| 19957.004385/2019-21 | 2019-11-05 | outro | O Colegiado reconheceu a perda do objeto de recurso da Vale S.A. contra decisão da SEP que determinou a reapresentação do boletim de voto à… | cvm-col-20191105-d1389 | fichas/colegiado/2019-17.md |
+| RJ2015/13326 | 2019-11-05 | indeferido | O Colegiado, por unanimidade, indeferiu pedido de efeito suspensivo contra decisão condenatória que impôs a dois administradores da Brazal… | cvm-col-20191105-d0438 | fichas/colegiado/2019-17.md |
+| 02/2019; 19957.007933/2018-94 | 2019-10-30 | — | O Colegiado iniciou a discussão da minuta que propõe alterações na Instrução CVM nº 361/02, sobre ofertas públicas de aquisição de ações… | cvm-col-20191030-d2878 | fichas/colegiado/2019-17.md |
+| 19957.004674/2019-21 | 2019-10-29 | nao-provido | O Colegiado, por unanimidade, acompanhando a área técnica, negou provimento a recurso contra indeferimento de credenciamento como… | cvm-col-20191029-d1588 | fichas/colegiado/2019-17.md |
+| 19957.009392/2019-10 | 2019-10-29 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.009392/2019-10. | cvm-col-20191029-d1587 | fichas/colegiado/2019-17.md |
+| 19957.009391/2019-75 | 2019-10-29 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.009391/2019-75. | cvm-col-20191029-d1586 | fichas/colegiado/2019-17.md |
+| 19957.000040/2018-18 | 2019-10-23 | — | O Colegiado continuou a discussão da minuta de nova instrução sobre FIDC, em pré-audiência pública de revisão da Instrução CVM 356/01. Sem… | cvm-col-20191023-d1223 | fichas/colegiado/2019-17.md |
+| 19957.005392/2018-60 | 2019-10-22 | outro | O Colegiado, acompanhando em parte a SRE, concluiu não haver óbice a que o ofertante contrate novo avaliador para atualizar o laudo da OPA… | cvm-col-20191022-d1585 | fichas/colegiado/2019-17.md |
+| 19957.008839/2019-33 | 2019-10-22 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.008839/2019-33. | cvm-col-20191022-d1584 | fichas/colegiado/2019-17.md |
+| 19957.010715/2018-37; 19957.000495/2019-14 | 2019-10-22 | outro | Por maioria, o Colegiado devolveu à área técnica consulta da SMI sobre contratos de parceria entre intermediário estrangeiro e nacional… | cvm-col-20191022-d1583 | fichas/colegiado/2019-17.md |
+| 19957.007916/2019-38 | 2019-10-22 | parcial | O Colegiado, por unanimidade, deu provimento parcial a recurso da Vale S.A. contra decisão da SPS que negou acesso integral a inquérito… | cvm-col-20191022-d1582 | fichas/colegiado/2019-17.md |
+| 19957.000040/2018-18 | 2019-10-16 | — | O Colegiado continuou a discussão da minuta de nova instrução sobre FIDC, sem deliberação nesta reunião. | cvm-col-20191016-d1223 | fichas/colegiado/2019-17.md |
+| 14/2010 | 2019-10-15 | conhecimento | O Colegiado, por unanimidade, não conheceu do pedido de reconsideração de requerentes do PAS 14/2010 contra o indeferimento de produção de… | cvm-col-20191015-d8609 | fichas/colegiado/2019-17.md |
+| 19957.008367/2019-19 | 2019-10-15 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.008367/2019-19. | cvm-col-20191015-d1578 | fichas/colegiado/2019-17.md |
+| 19957.003114/2019-59 | 2019-10-15 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.003114/2019-59. | cvm-col-20191015-d1577 | fichas/colegiado/2019-16.md |
+| 19957.005061/2019-19 | 2019-10-15 | outro | O Colegiado aprovou Deliberação, proposta pela SRE, alertando o mercado de que Longitude Escola de Empreendedorismo Ltda. e uma pessoa… | cvm-col-20191015-d1576 | fichas/colegiado/2019-16.md |
+| 19957.008943/2019-28 | 2019-10-15 | provido | Por maioria, o Colegiado proveu recurso da Odebrecht Participações e Investimentos S.A. em recuperação judicial e dispensou novo agente… | cvm-col-20191015-d1575 | fichas/colegiado/2019-16.md |
+| 19957.000893/2019-31 | 2019-10-15 | nao-provido | O Colegiado negou provimento, por unanimidade, a recurso contra indeferimento pela SIN de credenciamento como administrador de carteira com… | cvm-col-20191015-d1573 | fichas/colegiado/2019-16.md |
+| 19957.000040/2018-18 | 2019-10-09 | — | O Colegiado continuou a discussão sobre a minuta de nova instrução de fundos de investimento em direitos creditórios (FIDC), em revisão da… | cvm-col-20191009-d1223 | fichas/colegiado/2019-16.md |
+| 19957.008455/2019-11 | 2019-10-08 | nao-provido | O Colegiado negou provimento, por unanimidade, a recurso da BR Home Centers S.A. contra a SEP, que indeferiu dispensa de entrega do… | cvm-col-20191008-d1569 | fichas/colegiado/2019-16.md |
+| — | 2019-10-08 | outro | O Colegiado, por unanimidade, decidiu submeter a audiência pública minuta de Instrução com escala que reduz, em função do capital social… | cvm-col-20191008-d1566 | fichas/colegiado/2019-16.md |
+| 19957.008097/2019-46 | 2019-10-08 | provido | O Colegiado deu provimento, por unanimidade, a recurso da True Securitizadora contra exigência da SRE no registro de oferta de CRI, que… | cvm-col-20191008-d1564 | fichas/colegiado/2019-16.md |
+| 19957.008092/2019-13 | 2019-10-08 | nao-provido | Recurso contra decisão da SMI em processo de multa cominatória. Proc. SEI 19957.008092/2019-13. | cvm-col-20191008-d1563 | fichas/colegiado/2019-16.md |
+| 08/2016 | 2019-10-08 | indeferido | O Colegiado, acompanhando o voto do relator, indeferiu os pedidos de produção de provas apresentados por acusados no PAS 08/2016, sobre… | cvm-col-20191008-d1173 | fichas/colegiado/2019-16.md |
+| 09/2016 | 2019-10-08 | indeferido | O Colegiado, acompanhando o voto do relator, indeferiu pedidos de produção de provas apresentados por acusados em PAS sobre deveres… | cvm-col-20191008-d0810 | fichas/colegiado/2019-16.md |
+| 19957.000040/2018-18 | 2019-10-02 | — | O Colegiado continuou a discussão da minuta de nova instrução sobre fundos de investimento em direitos creditórios (FIDC). Sem deliberação… | cvm-col-20191002-d1223 | fichas/colegiado/2019-16.md |
+| 19957.005389/2019-27 | 2019-10-01 | outro | O Colegiado, por unanimidade, aprovou a minuta de Memorando de Entendimento entre a CVM e a OCDE para dar continuidade ao Centro OCDE/CVM… | cvm-col-20191001-d1562 | fichas/colegiado/2019-16.md |
+| 19957.003301/2019-32 | 2019-10-01 | nao-provido | O Colegiado, por unanimidade, acompanhando a área técnica, negou provimento a recurso contra indeferimento pela SIN de credenciamento como… | cvm-col-20191001-d1561 | fichas/colegiado/2019-16.md |
+| 19957.006645/2019-01 | 2019-10-01 | outro | O Colegiado aprovou Deliberação, proposta pela SRE, alertando o mercado de que Bitcurrency Moedas Digitais S.A., Clo Participações e… | cvm-col-20191001-d1560 | fichas/colegiado/2019-16.md |
+| 19957.011236/2018-38 | 2019-10-01 | outro | Minuta de deliberação – oferta irregular de contratos de investimento coletivo – wemake marketing e estrategias digitais eireli e outro… | cvm-col-20191001-d1559 | fichas/colegiado/2019-15.md |
+| 19957.001059/2018-81 | 2019-10-01 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.001059/2018-81. | cvm-col-20191001-d1556 | fichas/colegiado/2019-15.md |
+| 19957.000726/2018-17 | 2019-10-01 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.000726/2018-17. | cvm-col-20191001-d1555 | fichas/colegiado/2019-15.md |
+| 19957.008182/2019-12 | 2019-10-01 | nao-provido | Recurso contra decisão da SMI em processo de multa cominatória. Proc. SEI 19957.008182/2019-12. | cvm-col-20191001-d1554 | fichas/colegiado/2019-15.md |
+| 19957.008084/2019-77 | 2019-10-01 | nao-provido | Recurso contra decisão da SMI em processo de multa cominatória. Proc. SEI 19957.008084/2019-77. | cvm-col-20191001-d1553 | fichas/colegiado/2019-15.md |
+| 19957.001368/2017-71; RJ2015/13053 | 2019-10-01 | outro | O Colegiado decidiu, por unanimidade, manter o registro da companhia estrangeira Laep Investments Ltd. por um ano a contar da decisão, com… | cvm-col-20191001-d0226 | fichas/colegiado/2019-15.md |
+| 19957.009249/2019-28 | 2019-09-30 | outro | O Colegiado aprovou a Instrução CVM 615/19, que retira a obrigação de registro em cartório dos regulamentos de fundos de investimento e… | cvm-col-20190930-d1579 | fichas/colegiado/2019-15.md |
+| 19957.007649/2019-07 | 2019-09-27 | outro | O Colegiado aprovou a Deliberação CVM 829/19, que regulamenta as publicações obrigatórias da Lei 6.404/76 no sistema Empresas.NET… | cvm-col-20190927-d1580 | fichas/colegiado/2019-15.md |
+| 19957.000040/2018-18 | 2019-09-25 | — | O Colegiado iniciou a discussão da minuta de nova instrução sobre fundos de investimento em direitos creditórios (FIDC), em pré-audiência… | cvm-col-20190925-d1223 | fichas/colegiado/2019-15.md |
+| 19957.004278/2019-01 | 2019-09-24 | nao-provido | O Colegiado negou provimento, por unanimidade, a recurso contra o entendimento da SEP e da SIN em processo de reclamação sobre a BB… | cvm-col-20190924-d1551 | fichas/colegiado/2019-15.md |
+| 19957.004441/2019-28 | 2019-09-24 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.004441/2019-28. | cvm-col-20190924-d1550 | fichas/colegiado/2019-15.md |
+| 19957.000756/2018-15 | 2019-09-24 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.000756/2018-15. | cvm-col-20190924-d1549 | fichas/colegiado/2019-15.md |
+| 19957.008826/2019-64 | 2019-09-24 | outro | O Colegiado, acompanhando a SMI, aprovou regulamento proposto pela Ancord sobre concessão, suspensão e cancelamento de credenciamento de… | cvm-col-20190924-d1547 | fichas/colegiado/2019-15.md |
+| 19957.008488/2019-61 | 2019-09-24 | outro | O Colegiado, por unanimidade, rejeitou a edição de Deliberação proposta pela SRE que proibiria, por um ano, a Orla DTVM S.A. e seus… | cvm-col-20190924-d1546 | fichas/colegiado/2019-15.md |
+| 19957.000387/2019-41 | 2019-09-24 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.000387/2019-41. | cvm-col-20190924-d1544 | fichas/colegiado/2019-15.md |
+| 19957.008093/2019-68 | 2019-09-24 | nao-provido | Recurso contra decisão da SMI em processo de multa cominatória. Proc. SEI 19957.008093/2019-68. | cvm-col-20190924-d1543 | fichas/colegiado/2019-15.md |
+| 19957.007255/2019-41 | 2019-09-24 | nao-provido | Recurso contra decisão da SMI em processo de multa cominatória. Proc. SEI 19957.007255/2019-41. | cvm-col-20190924-d1542 | fichas/colegiado/2019-15.md |
+| 19957.008763/2019-46 | 2019-09-24 | outro | O Colegiado, por unanimidade, acompanhando a área técnica, entendeu que a CVM não precisa mais aprovar previamente os detalhes do exame de… | cvm-col-20190924-d1541 | fichas/colegiado/2019-15.md |
+| 19957.007256/2019-95 | 2019-09-24 | nao-provido | Recurso contra decisão da SMI em processo de multa cominatória. Proc. SEI 19957.007256/2019-95. | cvm-col-20190924-d1540 | fichas/colegiado/2019-15.md |
+| 07/2015 | 2019-09-24 | indeferido | O Colegiado, por unanimidade e acompanhando o voto do relator, indeferiu os pedidos de produção de provas e outros requerimentos do acusado… | cvm-col-20190924-d0912 | fichas/colegiado/2019-15.md |
+| 19957.000040/2018-18 | 2019-09-18 | — | O Colegiado ouviu a SDM sobre a indústria de FIDC e as principais propostas da minuta de nova instrução sobre FIDC, sem deliberação nesta… | cvm-col-20190918-d1223 | fichas/colegiado/2019-15.md |
+| 19957.004523/2019-72 | 2019-09-17 | outro | O Colegiado aprovou, por unanimidade, minuta de Acordo de Cooperação entre a CVM e o BNDES para movimentação temporária de empregados do… | cvm-col-20190917-d1538 | fichas/colegiado/2019-14.md |
+| 19957.006056/2018-34 | 2019-09-10 | outro | O Colegiado, por maioria, aprovou Deliberação conforme minuta da SRE, com ajustes do Colegiado. Ela alerta o público que duas sociedades e… | cvm-col-20190910-d1534 | fichas/colegiado/2019-14.md |
+| 19957.000125/2018-04 | 2019-09-10 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.000125/2018-04. | cvm-col-20190910-d1532 | fichas/colegiado/2019-14.md |
+| 19957.000122/2018-62 | 2019-09-10 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.000122/2018-62. | cvm-col-20190910-d1531 | fichas/colegiado/2019-14.md |
+| 19957.006483/2019-01 | 2019-09-10 | nao-provido | O Colegiado, por unanimidade e acompanhando a SRE, negou provimento ao recurso da True Securitizadora contra exigência que restringiu a… | cvm-col-20190910-d1530 | fichas/colegiado/2019-14.md |
+| 19957.006378/2019-64 | 2019-09-10 | deferido | O Colegiado, por unanimidade, acompanhando a SRE, deferiu pedido de aplicação da Instrução CVM 602/18 a oferta de contratos de investimento… | cvm-col-20190910-d1529 | fichas/colegiado/2019-14.md |
+| 19957.000752/2018-37 | 2019-09-10 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.000752/2018-37. | cvm-col-20190910-d1528 | fichas/colegiado/2019-14.md |
+| 19957.000745/2018-35 | 2019-09-10 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.000745/2018-35. | cvm-col-20190910-d1527 | fichas/colegiado/2019-14.md |
+| 19957.000727/2018-53 | 2019-09-10 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.000727/2018-53. | cvm-col-20190910-d1526 | fichas/colegiado/2019-14.md |
+| 19957.004747/2018-01 | 2019-09-10 | nao-provido | Recurso contra decisão da SRE em processo de multa cominatória. Proc. SEI 19957.004747/2018-01. | cvm-col-20190910-d1325 | fichas/colegiado/2019-14.md |
+| 19957.003208/2019-28 | 2019-09-09 | outro | O Colegiado aprovou nova portaria sobre o processo de normatização da CVM (Portaria CVM/PTE 190/2019), conforme minuta da SDM, em… | cvm-col-20190909-d4715 | fichas/colegiado/2019-14.md |
+| 19957.008368/2019-63; 19957.008370/2019-32 | 2019-09-06 | parcial | O Colegiado, divergindo das áreas técnicas, proveu parcialmente recurso da C&A Modas S.A. contra entendimento da SEP e SRE de que a análise… | cvm-col-20190906-d1533 | fichas/colegiado/2019-14.md |
+| RJ2014/13597 | 2019-09-04 | outro | O Colegiado aprovou a Instrução CVM 617/19, que revoga a Instrução CVM 301/99 e institui nova regra de prevenção à lavagem de dinheiro e ao… | cvm-col-20190904-d8331 | fichas/colegiado/2019-14.md |
+| 19957.008010/2019-31 | 2019-09-03 | outro | O Colegiado aprovou, por unanimidade, a Instrução CVM 614/19, que altera o boletim de voto a distância do Anexo 21-F da Instrução CVM… | cvm-col-20190903-d1522 | fichas/colegiado/2019-14.md |
+| 19957.007482/2019-76 | 2019-09-03 | nao-provido | Recurso contra decisão da SRE em processo de multa cominatória. Proc. SEI 19957.007482/2019-76. | cvm-col-20190903-d1521 | fichas/colegiado/2019-14.md |
+| 19957.007484/2019-65 | 2019-09-03 | nao-provido | Recurso contra decisão da SRE em processo de multa cominatória. Proc. SEI 19957.007484/2019-65. | cvm-col-20190903-d1520 | fichas/colegiado/2019-14.md |
+| 19957.003334/2016-30 | 2019-09-03 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.003334/2016-30. | cvm-col-20190903-d1519 | fichas/colegiado/2019-14.md |
+| 19957.005798/2018-42 | 2019-09-03 | conhecimento | Pedido de reconsideração de decisão do colegiado. Proc. SEI 19957.005798/2018-42. | cvm-col-20190903-d1406 | fichas/colegiado/2019-13.md |
+| 19957.008237/2019-86 | 2019-08-29 | outro | O Colegiado aprovou a Instrução CVM 613/19, que altera a Instrução CVM 607/19 (processo administrativo sancionador). A alteração esclarece… | cvm-col-20190829-d2894 | fichas/colegiado/2019-13.md |
+| 19957.008229/2019-30 | 2019-08-28 | outro | O Colegiado aprovou submeter à Audiência Pública SNC 01/2019 a minuta de deliberação que aprova o Pronunciamento Técnico CPC 00 (R2)… | cvm-col-20190828-d5917 | fichas/colegiado/2019-13.md |
+| 19957.008230/2019-64 | 2019-08-28 | outro | O Colegiado aprovou submeter à Audiência Pública SNC 02/2019 a minuta que aprova o Documento de Revisão de Pronunciamentos Técnicos 14… | cvm-col-20190828-d1523 | fichas/colegiado/2019-13.md |
+| 19957.007951/2019-57 | 2019-08-28 | indeferido | O Colegiado, por unanimidade e acompanhando as razões da área técnica, indeferiu pedido da AEBRB para interromper o prazo de convocação de… | cvm-col-20190828-d1518 | fichas/colegiado/2019-13.md |
+| 19957.009924/2018-38 | 2019-08-27 | outro | O Colegiado, por unanimidade, aprovou a minuta de Acordo de Cooperação Técnica entre a CVM e a Associação Brasileira de Fintechs, para… | cvm-col-20190827-d1517 | fichas/colegiado/2019-13.md |
+| 19957.007757/2019-71 | 2019-08-27 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.007757/2019-71. | cvm-col-20190827-d1516 | fichas/colegiado/2019-13.md |
+| 19957.000730/2018-77 | 2019-08-27 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.000730/2018-77. | cvm-col-20190827-d1515 | fichas/colegiado/2019-13.md |
+| 19957.000729/2018-42 | 2019-08-27 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.000729/2018-42. | cvm-col-20190827-d1514 | fichas/colegiado/2019-13.md |
+| 19957.007323/2019-71 | 2019-08-27 | deferido | O Colegiado, por unanimidade, acompanhando a SEP, deferiu pedido de dispensa de laudos de avaliação do patrimônio a preços de mercado (art… | cvm-col-20190827-d1513 | fichas/colegiado/2019-13.md |
+| 19957.004999/2019-11 | 2019-08-27 | deferido | O Colegiado, por unanimidade, acompanhando a área técnica, deferiu pedido da Eternit S.A. em recuperação judicial para usar comissário na… | cvm-col-20190827-d1512 | fichas/colegiado/2019-13.md |
+| 19957.006097/2018-21 | 2019-08-27 | outro | O Colegiado iniciou a discussão de recurso contra decisão da SIN sobre pedido de vista integral de processo, com pedido de sigilo, e… | cvm-col-20190827-d1510 | fichas/colegiado/2019-13.md |
+| 19957.000733/2018-19 | 2019-08-27 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.000733/2018-19. | cvm-col-20190827-d1509 | fichas/colegiado/2019-13.md |
+| 19957.007396/2017-00 | 2019-08-27 | provido | O Colegiado, acompanhando voto divergente de um diretor (vencido o relator), deu provimento ao recurso da Cosan S.A. contra entendimento da… | cvm-col-20190827-d1052 | fichas/colegiado/2019-13.md |
+| 19957.008214/2018-91 | 2019-08-21 | outro | O Colegiado, por maioria, aprovou submeter à audiência pública minuta de instrução sobre aquisições de debêntures de própria emissão (art… | cvm-col-20190821-d8528 | fichas/colegiado/2019-13.md |
+| 19957.002890/2015-16 | 2019-08-20 | conhecimento | Pedido de reconsideração de decisão do colegiado. Proc. SEI 19957.002890/2015-16. | cvm-col-20190820-d9228 | fichas/colegiado/2019-12.md |
+| 19957.007512/2019-44 | 2019-08-20 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.007512/2019-44. | cvm-col-20190820-d1503 | fichas/colegiado/2019-12.md |
+| 19957.001177/2017-17; 19957.001178/2017-53; 19957.001179/2017-06; 19957.001185/2017-55; 19957.001188/2017-99; 19957.005509/2017-24 | 2019-08-20 | nao-provido | Recursos contra decisão da SIN em processos de multa cominatória. Proc. s. SEI 19957.001177/2017-17, 19957.001178/2017-53… | cvm-col-20190820-d1502 | fichas/colegiado/2019-12.md |
+| 19957.007775/2019-53 | 2019-08-20 | outro | O Colegiado, por unanimidade, aprovou a Deliberação CVM 827/19, que extingue e convalida colegiados no âmbito da CVM, considerando o… | cvm-col-20190820-d1501 | fichas/colegiado/2019-12.md |
+| 19957.006135/2019-26 | 2019-08-20 | outro | O Colegiado aprovou, por unanimidade, minuta de Acordo de Cooperação Técnica entre a CVM e o Instituto Sicoob para iniciativas conjuntas de… | cvm-col-20190820-d1500 | fichas/colegiado/2019-12.md |
+| 19957.007562/2019-21 | 2019-08-16 | indeferido | O Colegiado, por unanimidade, acompanhando a SEP, indeferiu pedido de interrupção do prazo de convocação de AGE da PPLA Participations… | cvm-col-20190816-d1504 | fichas/colegiado/2019-12.md |
+| 19957.008843/2018-11 | 2019-08-14 | outro | O Colegiado apreciou a minuta de instrução sobre sandbox regulatório no mercado de capitais e orientou a SDM a aprimorar a proposta antes… | cvm-col-20190814-d1472 | fichas/colegiado/2019-12.md |
+| 21/2010 | 2019-08-13 | indeferido | O Colegiado, por unanimidade, indeferiu pedidos de produção de prova (oitiva de testemunhas, exibição de documentos e perícia) formulados… | cvm-col-20190813-d9868 | fichas/colegiado/2019-12.md |
+| 19957.006256/2019-78 | 2019-08-13 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.006256/2019-78. | cvm-col-20190813-d1496 | fichas/colegiado/2019-12.md |
+| 19957.006966/2019-06 | 2019-08-13 | outro | O Colegiado, por unanimidade, aprovou a edição de Deliberação, conforme minuta da SRE, alertando o público de que empresas do grupo Atlas e… | cvm-col-20190813-d1493 | fichas/colegiado/2019-12.md |
+| 04/2018; 19957.010666/2018-32 | 2019-08-07 | outro | O Colegiado aprovou a Instrução CVM 611/19, que altera a Instrução CVM 308/99 após a Audiência Pública SNC 04/2018. Permite instalar o CAE… | cvm-col-20190807-d1426 | fichas/colegiado/2019-12.md |
+| 19957.007306/2019-34 | 2019-08-06 | outro | O Colegiado aprovou a Deliberação CVM 825/19, que altera a estrutura organizacional da CVM (Deliberação CVM 793/18) para criar, no âmbito… | cvm-col-20190806-d1492 | fichas/colegiado/2019-12.md |
+| 19957.003450/2019-00 | 2019-08-06 | outro | O Colegiado, por unanimidade, aprovou a Deliberação CVM 824/19, que revoga o inciso II da Deliberação CVM 443/02. O dispositivo exigia… | cvm-col-20190806-d1491 | fichas/colegiado/2019-12.md |
+| 19957.004436/2018-34 | 2019-08-06 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004436/2018-34. | cvm-col-20190806-d1490 | fichas/colegiado/2019-12.md |
+| 05/2018; 505/2011; 19957.010782/2018-51 | 2019-07-31 | outro | O Colegiado aprovou a Instrução CVM 612/19, que altera a Instrução CVM 505/11 (intermediários) após a Audiência Pública SDM 05/2018… | cvm-col-20190731-d1160 | fichas/colegiado/2019-12.md |
+| 19957.001488/2017-78 | 2019-07-30 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.001488/2017-78. | cvm-col-20190730-d1487 | fichas/colegiado/2019-12.md |
+| 19957.000743/2018-46 | 2019-07-30 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.000743/2018-46. | cvm-col-20190730-d1486 | fichas/colegiado/2019-12.md |
+| 19957.000719/2018-15 | 2019-07-30 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.000719/2018-15. | cvm-col-20190730-d1485 | fichas/colegiado/2019-12.md |
+| 19957.000755/2018-71 | 2019-07-30 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.000755/2018-71. | cvm-col-20190730-d1484 | fichas/colegiado/2019-11.md |
+| 19957.000754/2018-26 | 2019-07-30 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.000754/2018-26. | cvm-col-20190730-d1483 | fichas/colegiado/2019-11.md |
+| 19957.000746/2018-80 | 2019-07-30 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.000746/2018-80. | cvm-col-20190730-d1482 | fichas/colegiado/2019-11.md |
+| 19957.005955/2019-09 | 2019-07-30 | indeferido | O Colegiado indeferiu, por unanimidade, pedido da Vortx DTVM de dispensa dos arts. 3º, III, e 38, VII, da Instrução CVM 356/01 para o FIDC… | cvm-col-20190730-d1477 | fichas/colegiado/2019-11.md |
+| 05/2018; 505/2011; 19957.010782/2018-51 | 2019-07-24 | — | O Colegiado iniciou a discussão dos documentos da Audiência Pública SDM 05/2018, sobre minuta de instrução que altera a Instrução CVM… | cvm-col-20190724-d1160 | fichas/colegiado/2019-11.md |
+| RJ2015/2386 | 2019-07-23 | nao-provido | O Colegiado, por unanimidade e acompanhando o voto da relatora, negou provimento ao recurso da ABICOM contra despacho que indeferiu sua… | cvm-col-20190723-d9884 | fichas/colegiado/2019-11.md |
+| RJ2014/4077 | 2019-07-16 | indeferido | O Colegiado, por unanimidade, acompanhando o despacho do relator, indeferiu pedido de efeito suspensivo a recurso contra decisão… | cvm-col-20190716-d9579 | fichas/colegiado/2019-11.md |
+| 19957.001196/2017-35 | 2019-07-16 | outro | O Colegiado aprovou Deliberação, minuta da SIN, alertando o mercado sobre atuação irregular da Farol Online Comércio de Produtos… | cvm-col-20190716-d1473 | fichas/colegiado/2019-11.md |
+| 19957.000720/2018-31 | 2019-07-16 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.000720/2018-31. | cvm-col-20190716-d1469 | fichas/colegiado/2019-11.md |
+| 19957.000717/2018-18 | 2019-07-16 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.000717/2018-18. | cvm-col-20190716-d1468 | fichas/colegiado/2019-11.md |
+| 19957.000685/2018-51 | 2019-07-16 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.000685/2018-51. | cvm-col-20190716-d1467 | fichas/colegiado/2019-11.md |
+| 19957.000052/2018-42 | 2019-07-16 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.000052/2018-42. | cvm-col-20190716-d1466 | fichas/colegiado/2019-11.md |
+| 19957.000017/2019-12 | 2019-07-10 | outro | O Colegiado iniciou a discussão da minuta de instrução, para audiência pública, que altera as normas sobre BDR (emissores estrangeiros, BDR… | cvm-col-20190710-d1474 | fichas/colegiado/2019-11.md |
+| 48/2019; 19957.003208/2019-28 | 2019-07-09 | — | O Colegiado iniciou a discussão da minuta da área técnica que altera a Portaria CVM/PTE/Nº 48/2019 sobre o processo de normatização da CVM… | cvm-col-20190709-d4715 | fichas/colegiado/2019-11.md |
+| 19957.005800/2019-64 | 2019-07-09 | outro | O Colegiado, por unanimidade, aprovou Deliberação, minuta da SIN, alertando o mercado sobre atuação irregular de seis pessoas e da W T I… | cvm-col-20190709-d1465 | fichas/colegiado/2019-11.md |
+| 19957.004658/2019-38 | 2019-07-09 | outro | O Colegiado solicitou à área técnica diligências adicionais antes de decidir recurso contra o cancelamento de ofício, pela SIN, do registro… | cvm-col-20190709-d1464 | fichas/colegiado/2019-11.md |
+| 19957.008843/2018-11 | 2019-07-03 | outro | O Colegiado devolveu à área técnica a minuta de instrução sobre sandbox regulatório no mercado de capitais, orientando o aprofundamento de… | cvm-col-20190703-d1472 | fichas/colegiado/2019-11.md |
+| 19957.004306/2019-82 | 2019-07-02 | deferido | O Colegiado aprovou, por unanimidade, acompanhando a SMI, as alterações no Estatuto Social da B3 (capital social, terminologia de… | cvm-col-20190702-d1460 | fichas/colegiado/2019-11.md |
+| 19957.003579/2016-67 | 2019-07-02 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.003579/2016-67. | cvm-col-20190702-d1459 | fichas/colegiado/2019-11.md |
+| 19957.004070/2019-84 | 2019-07-02 | nao-provido | O Colegiado, por unanimidade, acompanhando a área técnica, negou provimento a recurso da Roma Asset Management contra cancelamento de seu… | cvm-col-20190702-d1458 | fichas/colegiado/2019-11.md |
+| 19957.011238/2018-27 | 2019-07-02 | outro | O Colegiado, por unanimidade, aprovou deliberação de alerta ao mercado: a Alexandria Holding EIRELI e uma pessoa física não estão… | cvm-col-20190702-d1457 | fichas/colegiado/2019-10.md |
+| 19957.003611/2019-57 | 2019-07-02 | outro | O Colegiado aprovou, por unanimidade, a minuta de memorando de entendimento com a FCA (Reino Unido) para manter, após o Brexit, a… | cvm-col-20190702-d1456 | fichas/colegiado/2019-10.md |
+| 19957.000845/2018-61 | 2019-07-02 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.000845/2018-61. | cvm-col-20190702-d1454 | fichas/colegiado/2019-10.md |
+| 19957.000692/2018-52 | 2019-07-02 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.000692/2018-52. | cvm-col-20190702-d1453 | fichas/colegiado/2019-10.md |
+| 19957.000623/2018-49 | 2019-07-02 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.000623/2018-49. | cvm-col-20190702-d1452 | fichas/colegiado/2019-10.md |
+| 19957.000356/2018-18 | 2019-07-02 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.000356/2018-18. | cvm-col-20190702-d1451 | fichas/colegiado/2019-10.md |
+| 19957.000310/2018-91 | 2019-07-02 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.000310/2018-91. | cvm-col-20190702-d1450 | fichas/colegiado/2019-10.md |
+| 19957.005032/2019-49 | 2019-07-02 | parcial | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.005032/2019-49. | cvm-col-20190702-d1408 | fichas/colegiado/2019-10.md |
+| 19957.003194/2019-42 | 2019-07-02 | conhecimento | O Colegiado, por unanimidade, acompanhando a SRE, não conheceu do pedido de reconsideração da Opportunity Anafi Participações S.A. contra… | cvm-col-20190702-d1386 | fichas/colegiado/2019-10.md |
+| 19957.001522/2017-12 | 2019-07-02 | outro | O Colegiado, por unanimidade, acompanhando o voto de uma diretora, entendeu possível estruturar CRI com lastro em crédito imobiliário por… | cvm-col-20190702-d1365 | fichas/colegiado/2019-10.md |
+| 19957.000303/2018-99 | 2019-06-25 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.000303/2018-99. | cvm-col-20190625-d1449 | fichas/colegiado/2019-10.md |
+| 19957.000305/2018-88 | 2019-06-25 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.000305/2018-88. | cvm-col-20190625-d1448 | fichas/colegiado/2019-10.md |
+| 19957.000051/2018-06 | 2019-06-25 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.000051/2018-06. | cvm-col-20190625-d1447 | fichas/colegiado/2019-10.md |
+| 19957.000161/2018-60 | 2019-06-25 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.000161/2018-60. | cvm-col-20190625-d1446 | fichas/colegiado/2019-10.md |
+| 19957.000055/2018-86 | 2019-06-25 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.000055/2018-86. | cvm-col-20190625-d1445 | fichas/colegiado/2019-10.md |
+| 19957.006328/2019-87 | 2019-06-25 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.006328/2019-87. | cvm-col-20190625-d1444 | fichas/colegiado/2019-10.md |
+| 19957.003157/2019-34 | 2019-06-25 | outro | O Colegiado aprovou, por unanimidade, Deliberação alertando o mercado sobre a atuação irregular da RSI Negócios Financeiros Ltda. e de… | cvm-col-20190625-d1443 | fichas/colegiado/2019-10.md |
+| 19957.004537/2019-96 | 2019-06-19 | outro | O Colegiado aprovou submeter à Audiência Pública SDM 04/19 minuta de instrução sobre ofertas públicas de COE, LF e LIG com dispensa de… | cvm-col-20190619-d1428 | fichas/colegiado/2019-10.md |
+| 19957.005955/2016-58 | 2019-06-18 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.005955/2016-58. | cvm-col-20190618-d1438 | fichas/colegiado/2019-10.md |
+| 19957.010520/2018-97 | 2019-06-18 | outro | O Colegiado aprovou, por unanimidade, a minuta de Acordo de Cooperação Técnica entre a CVM e a PLANEJAR (Associação Brasileira de… | cvm-col-20190618-d1437 | fichas/colegiado/2019-09.md |
+| 19957.000317/2018-11 | 2019-06-18 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.000317/2018-11. | cvm-col-20190618-d1436 | fichas/colegiado/2019-09.md |
+| 19957.000298/2018-14 | 2019-06-18 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.000298/2018-14. | cvm-col-20190618-d1435 | fichas/colegiado/2019-09.md |
+| 19957.000171/2018-03 | 2019-06-18 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.000171/2018-03. | cvm-col-20190618-d1434 | fichas/colegiado/2019-09.md |
+| 19957.000163/2018-59 | 2019-06-18 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.000163/2018-59. | cvm-col-20190618-d1433 | fichas/colegiado/2019-09.md |
+| 19957.000162/2018-12 | 2019-06-18 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.000162/2018-12. | cvm-col-20190618-d1432 | fichas/colegiado/2019-09.md |
+| 19957.000154/2018-68 | 2019-06-18 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.000154/2018-68. | cvm-col-20190618-d1431 | fichas/colegiado/2019-09.md |
+| 19957.000059/2018-64 | 2019-06-18 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.000059/2018-64. | cvm-col-20190618-d1430 | fichas/colegiado/2019-09.md |
+| 19957.001012/2019-07 | 2019-06-18 | deferido | O Colegiado, por unanimidade, acompanhando o voto de um diretor, autorizou procedimento diferenciado de cômputo de quórum em OPA unificada… | cvm-col-20190618-d1356 | fichas/colegiado/2019-09.md |
+| 17/2013 | 2019-06-18 | indeferido | O Colegiado, por unanimidade, acompanhando o voto da relatora, indeferiu pedidos de produção de prova (depoimentos de testemunhas e das… | cvm-col-20190618-d0273 | fichas/colegiado/2019-09.md |
+| 19957.000805/2018-10 | 2019-06-11 | outro | O Colegiado iniciou a discussão da minuta de deliberação sobre colocação irregular de valores mobiliários e, ao final, solicitou à área… | cvm-col-20190611-d1426 | fichas/colegiado/2019-09.md |
+| 19957.007855/2018-28 | 2019-06-11 | nao-provido | O Colegiado negou, por unanimidade, provimento ao recurso da Azevedo & Lopes Auditores Independentes e manteve a suspensão de seu registro… | cvm-col-20190611-d1425 | fichas/colegiado/2019-09.md |
+| 19957.009468/2018-26 | 2019-06-05 | outro | O Colegiado iniciou e concluiu a discussão e aprovou submeter à Audiência Pública SDM 03/19 consulta sobre opções regulatórias para alterar… | cvm-col-20190605-d1441 | fichas/colegiado/2019-09.md |
+| 19957.002330/2016-34 | 2019-06-04 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.002330/2016-34. | cvm-col-20190604-d1421 | fichas/colegiado/2019-09.md |
+| 19957.007838/2018-91 | 2019-06-04 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.007838/2018-91. | cvm-col-20190604-d1419 | fichas/colegiado/2019-09.md |
+| — | 2019-06-04 | — | O Colegiado foi informado sobre o cronograma de implantação dos módulos SEI, incluindo o SEI Julgar, e sobre suas funcionalidades para os… | cvm-col-20190604-d1414 | fichas/colegiado/2019-09.md |
+| 19957.010406/2017-86 | 2019-06-04 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.010406/2017-86. | cvm-col-20190604-d1412 | fichas/colegiado/2019-09.md |
+| 19957.003148/2016-09 | 2019-06-04 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.003148/2016-09. | cvm-col-20190604-d1411 | fichas/colegiado/2019-09.md |
+| 01/2018; 452/2007; 555/2014; 463/2003; 19957.006566/2017-21 | 2019-05-30 | outro | O Colegiado aprovou as Instruções CVM 608 e 609, que atualizam o regime e os valores das multas cominatórias conforme a Lei 13.506/17, e a… | cvm-col-20190530-d1022 | fichas/colegiado/2019-09.md |
+| RJ2013/8880 | 2019-05-28 | conhecimento | O Colegiado, por unanimidade, acompanhando o voto do relator, não conheceu de pedido de reconsideração de decisão que indeferiu produção de… | cvm-col-20190528-d8981 | fichas/colegiado/2019-09.md |
+| 19957.003280/2019-55 | 2019-05-28 | provido | O Colegiado, por unanimidade, deu provimento a recurso contra exigências da SRE em oferta de cotas do HSI Malls FII, sem manter as duas… | cvm-col-20190528-d1420 | fichas/colegiado/2019-08.md |
+| 19957.005332/2019-28 | 2019-05-28 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.005332/2019-28. | cvm-col-20190528-d1418 | fichas/colegiado/2019-08.md |
+| 19957.000886/2019-39 | 2019-05-28 | outro | O Colegiado aprovou a minuta de acordo de cooperação técnica com o TRF-4 para cessão do direito de uso do sistema SEI, com inclusão do… | cvm-col-20190528-d1414 | fichas/colegiado/2019-08.md |
+| 19957.008794/2018-16 | 2019-05-28 | outro | O Colegiado aprovou a minuta de Protocolo de Cooperação entre a CVM e a Superintendência Geral de Valores da Costa Rica (SUGEVAL), para… | cvm-col-20190528-d1413 | fichas/colegiado/2019-08.md |
+| 19957.002097/2016-90 | 2019-05-28 | deferido | O Colegiado, por unanimidade, aprovou proposta da B3 para, no período experimental de ofertas RLP em minicontratos de dólar e Ibovespa… | cvm-col-20190528-d1410 | fichas/colegiado/2019-08.md |
+| 02/2018; 19957.006565/2017-86 | 2019-05-22 | outro | O Colegiado aprovou a edição da Instrução CVM 607/19, que regulamenta o processo administrativo sancionador conforme a Lei 13.506/2017… | cvm-col-20190522-d2894 | fichas/colegiado/2019-08.md |
+| 19957.002097/2016-90 | 2019-05-21 | outro | O Colegiado, por unanimidade, acompanhando a SMI, aprovou alterações ao Regulamento de Negociação e ao Manual de Procedimentos Operacionais… | cvm-col-20190521-d1410 | fichas/colegiado/2019-08.md |
+| 19957.000395/2019-98 | 2019-05-21 | deferido | O Colegiado, por unanimidade, acompanhando a SRE, deferiu o pedido da Vert Companhia Securitizadora de dispensa de comprovar previamente a… | cvm-col-20190521-d1409 | fichas/colegiado/2019-08.md |
+| 19957.005140/2019-11 | 2019-05-21 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.005140/2019-11. | cvm-col-20190521-d1407 | fichas/colegiado/2019-08.md |
+| 19957.005798/2018-42 | 2019-05-21 | provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.005798/2018-42. | cvm-col-20190521-d1406 | fichas/colegiado/2019-08.md |
+| 19957.004996/2019-70 | 2019-05-21 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.004996/2019-70. | cvm-col-20190521-d1401 | fichas/colegiado/2019-08.md |
+| 16/2010 | 2019-05-21 | indeferido | O Colegiado, por unanimidade, acompanhando o despacho do relator, indeferiu pedido de efeito suspensivo à decisão condenatória do PAS… | cvm-col-20190521-d0337-2 | fichas/colegiado/2019-08.md |
+| 16/2010 | 2019-05-21 | indeferido | O Colegiado, por unanimidade, acompanhando o despacho do relator, indeferiu pedido de efeito suspensivo contra decisão condenatória do PAS… | cvm-col-20190521-d0337-1 | fichas/colegiado/2019-08.md |
+| 02/2018; 19957.006565/2017-86 | 2019-05-15 | — | O Colegiado continuou a discussão dos documentos da Audiência Pública SDM 02/2018 sobre minuta de instrução que regulamenta o processo… | cvm-col-20190515-d2894 | fichas/colegiado/2019-08.md |
+| 19957.010577/2018-96 | 2019-05-14 | outro | O Colegiado, por unanimidade, acompanhando a SMI, aprovou novas versões dos manuais da B3 de procedimentos operacionais (câmara e central… | cvm-col-20190514-d1400 | fichas/colegiado/2019-08.md |
+| 19957.004997/2019-14 | 2019-05-14 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.004997/2019-14. | cvm-col-20190514-d1399 | fichas/colegiado/2019-08.md |
+| 19957.004994/2019-81 | 2019-05-14 | parcial | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.004994/2019-81. | cvm-col-20190514-d1398 | fichas/colegiado/2019-07.md |
+| 19957.004992/2019-91 | 2019-05-14 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.004992/2019-91. | cvm-col-20190514-d1397 | fichas/colegiado/2019-07.md |
+| 02/2018; 19957.006565/2017-86 | 2019-05-08 | — | O Colegiado iniciou a discussão da minuta de instrução sobre o processo administrativo sancionador, de acordo com a Lei nº 13.506/2017, que… | cvm-col-20190508-d2894 | fichas/colegiado/2019-07.md |
+| 19957.004833/2019-97 | 2019-05-07 | nao-provido | Recurso contra decisão da SMI. Proc. SEI 19957.004833/2019-97. | cvm-col-20190507-d1391 | fichas/colegiado/2019-07.md |
+| 19957.001016/2019-87 | 2019-05-07 | outro | O Colegiado aprovou, por unanimidade, a celebração do 1º Termo Aditivo ao convênio entre CVM, B3 e ANBIMA sobre o sistema Fundos.Net, para… | cvm-col-20190507-d0147 | fichas/colegiado/2019-07.md |
+| 19957.004537/2019-96 | 2019-05-02 | outro | O Colegiado, após relato e debate, optou por um regime modulado de dispensas inspirado no Certificado de Operações Estruturadas, como… | cvm-col-20190502-d1428 | fichas/colegiado/2019-07.md |
+| RJ2014/6517 | 2019-04-30 | indeferido | O Colegiado, por unanimidade, acompanhando o despacho do relator, indeferiu pedido de juntada de processo CVM com mais de 6.000 folhas em… | cvm-col-20190430-d9468 | fichas/colegiado/2019-07.md |
+| 19957.004853/2019-68 | 2019-04-30 | outro | O Colegiado aprovou, por unanimidade, a Deliberação CVM 818/19, que dispensa, de forma experimental, a aprovação prévia pela CVM de… | cvm-col-20190430-d1388 | fichas/colegiado/2019-07.md |
+| 19957.003194/2019-42 | 2019-04-30 | nao-provido | O Colegiado, por maioria, negou provimento a recurso contra exigência da SRE de OPA para cancelar o registro da Elétron S.A. (art. 4º, §4º… | cvm-col-20190430-d1386 | fichas/colegiado/2019-07.md |
+| SP2011/0036 | 2019-04-22 | deferido | O Colegiado, sem oposição, acolheu a SMI e deferiu os pedidos da Bolsa de Valores do Rio de Janeiro (BVRJ) de alteração do estatuto social… | cvm-col-20190422-d7688 | fichas/colegiado/2019-07.md |
+| 19957.004691/2019-68 | 2019-04-22 | indeferido | O Colegiado indeferiu, por maioria, o pedido de aumento do prazo de convocação da AGO da BB Seguridade (art. 124, §5º, I, da Lei 6.404/76)… | cvm-col-20190422-d1383 | fichas/colegiado/2019-07.md |
+| 592/2017; 19957.002812/2019-37 | 2019-04-22 | outro | O Colegiado, por unanimidade, decidiu submeter à Audiência Pública proposta de alteração pontual da Instrução CVM 592/17 para reconhecer… | cvm-col-20190422-d1382 | fichas/colegiado/2019-07.md |
+| — | 2019-04-22 | — | A SDM apresentou ao Colegiado análise da evolução das ofertas de crowdfunding no período de 2016 a 2018, divulgada ao mercado em… | cvm-col-20190422-d1381 | fichas/colegiado/2019-07.md |
+| 19957.000722/2018-21 | 2019-04-22 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.000722/2018-21. | cvm-col-20190422-d1380 | fichas/colegiado/2019-07.md |
+| 19957.011700/2017-13 | 2019-04-22 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.011700/2017-13. | cvm-col-20190422-d1379 | fichas/colegiado/2019-07.md |
+| 19957.011564/2017-53 | 2019-04-22 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.011564/2017-53. | cvm-col-20190422-d1378 | fichas/colegiado/2019-07.md |
+| 19957.009524/2017-41 | 2019-04-22 | outro | O Colegiado, por unanimidade, acompanhou o relator: multipropriedade com pool de locação voluntário pode ser contrato de investimento… | cvm-col-20190422-d0832 | fichas/colegiado/2019-07.md |
+| 19957.000040/2018-18 | 2019-04-17 | — | O Colegiado recebeu da SDM os resultados da audiência restrita sobre a reforma da Instrução CVM 356/01 (FIDC), sem deliberação nesta… | cvm-col-20190417-d1223 | fichas/colegiado/2019-07.md |
+| 559/2008; 19957.003351/2018-39 | 2019-04-16 | outro | O Colegiado, por unanimidade, aprovou a revogação da Deliberação CVM 559/08. A norma delegava à SEP a manifestação sobre dispensas de… | cvm-col-20190416-d1375 | fichas/colegiado/2019-06.md |
+| 19957.004219/2019-25 | 2019-04-11 | indeferido | O Colegiado, por unanimidade, indeferiu pedido de interrupção do prazo de convocação da AGE da Braskem S.A. (art. 124, §5º, II, Lei… | cvm-col-20190411-d1376 | fichas/colegiado/2019-06.md |
+| 19957.007933/2018-94 | 2019-04-10 | outro | O Colegiado aprovou submeter à Audiência Pública SDM 02/19 minuta de alteração da Instrução CVM 361/02 (OPA), propondo: OPA por aumento de… | cvm-col-20190410-d2878 | fichas/colegiado/2019-06.md |
+| 06/2012 | 2019-04-09 | indeferido | O Colegiado, por unanimidade, acompanhando o voto do relator, indeferiu pedido de efeito suspensivo contra decisão condenatória do PAS… | cvm-col-20190409-d9998 | fichas/colegiado/2019-06.md |
+| 19957.004270/2019-37 | 2019-04-09 | outro | O Colegiado aprovou a edição de deliberação que altera a estrutura organizacional da CVM (Deliberação CVM 793/18): na SFI, renomeia três… | cvm-col-20190409-d2190409-d1367 | fichas/colegiado/2019-06.md |
+| 19957.010159/2018-07 | 2019-04-09 | deferido | O Colegiado concedeu, por unanimidade, ao Banco GMAC S.A. dispensa da Instrução CVM 505/11 e do Comunicado CETIP 009/2013, acompanhando a… | cvm-col-20190409-d1372 | fichas/colegiado/2019-06.md |
+| 19957.003490/2016-09 | 2019-04-09 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.003490/2016-09. | cvm-col-20190409-d1371 | fichas/colegiado/2019-06.md |
+| 19957.011575/2017-33 | 2019-04-09 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.011575/2017-33. | cvm-col-20190409-d1370 | fichas/colegiado/2019-06.md |
+| 19957.000958/2018-67 | 2019-04-09 | outro | O Colegiado, por unanimidade, aprovou a Deliberação CVM 815/19 alertando o mercado de que a Petra Gold Serviços Financeiros S.A. e seus… | cvm-col-20190409-d1369 | fichas/colegiado/2019-06.md |
+| 19957.001522/2017-12 | 2019-04-09 | — | Consulta da XP Investimentos CCTVM S.A. e outro sobre a possibilidade de estruturar CRI com lastro em crédito imobiliário que envolva o… | cvm-col-20190409-d1365 | fichas/colegiado/2019-06.md |
+| 19957.007811/2018-06 | 2019-04-09 | deferido | O Colegiado, acompanhando o voto de um diretor, autorizou o procedimento diferenciado proposto pela Enel para OPA de cancelamento de… | cvm-col-20190409-d1360 | fichas/colegiado/2019-06.md |
+| 19957.003410/2019-50 | 2019-04-09 | conhecimento | O Colegiado, por unanimidade, acompanhando a SRE, não conheceu do pedido de reconsideração da Pentágono S.A. DTVM contra decisão que não… | cvm-col-20190409-d1285 | fichas/colegiado/2019-06.md |
+| 19957.003411/2019-02 | 2019-04-09 | conhecimento | O Colegiado, por unanimidade, acompanhando a SRE, não conheceu de pedido de reconsideração de decisão que negou autorização para a 8ª… | cvm-col-20190409-d1284 | fichas/colegiado/2019-06.md |
+| — | 2019-04-02 | outro | O Colegiado aprovou alteração da Deliberação CVM 558/08 para que o Presidente atue como relator em igualdade de condições com os diretores… | cvm-col-20190402-d6213 | fichas/colegiado/2019-06.md |
+| 19957.000876/2018-12 | 2019-04-02 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.000876/2018-12. | cvm-col-20190402-d1364 | fichas/colegiado/2019-06.md |
+| 19957.004938/2018-65 | 2019-04-02 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004938/2018-65. | cvm-col-20190402-d1363 | fichas/colegiado/2019-06.md |
+| 19957.007811/2018-06 | 2019-04-02 | — | O Colegiado iniciou discussão de consulta da Enel Brasil Investimentos Sudeste S.A. sobre OPA para cancelamento de registro da Eletropaulo… | cvm-col-20190402-d1360 | fichas/colegiado/2019-05.md |
+| 19957.000861/2019-35 | 2019-04-02 | nao-provido | O Colegiado conheceu do recurso da Inversa Publicações Ltda., com efeitos devolutivo e suspensivo, e negou-lhe provimento: mantida a… | cvm-col-20190402-d1355 | fichas/colegiado/2019-05.md |
+| 19957.009969/2018-11 | 2019-04-02 | deferido | O Colegiado, por maioria, acompanhando a área técnica, aprovou procedimento diferenciado para descontinuidade do programa de BDR Nível III… | cvm-col-20190402-d1345 | fichas/colegiado/2019-05.md |
+| 19957.009590/2018-01 | 2019-04-02 | nao-provido | O Colegiado conheceu do recurso da Empiricus Research Publicações Ltda., com efeitos devolutivo e suspensivo, e negou-lhe provimento… | cvm-col-20190402-d1321 | fichas/colegiado/2019-05.md |
+| RJ2016/4098; 19957.009411/2017-46 | 2019-04-02 | outro | O Colegiado recebeu como consulta dois recursos sobre eleição em separado de membro do conselho de administração da Vale S.A. (§§4º e 5º do… | cvm-col-20190402-d0205-0847 | fichas/colegiado/2019-05.md |
+| 476/2009; 19957.011289/2018-59 | 2019-03-26 | conhecimento | O Colegiado, por unanimidade, não conheceu de pedido de dispensa de requisitos da Instrução CVM 476/09, com aplicação subsidiária da… | cvm-col-20190326-d1359 | fichas/colegiado/2019-05.md |
+| 19957.009381/2018-59 | 2019-03-26 | outro | O Colegiado, por unanimidade, aprovou Deliberação, conforme minuta da SRE, alertando o mercado de que a Zero10 Club e uma pessoa física não… | cvm-col-20190326-d1358 | fichas/colegiado/2019-05.md |
+| RJ2013/9992 | 2019-03-26 | provido | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2013/9992. | cvm-col-20190326-d1357 | fichas/colegiado/2019-05.md |
+| 19957.001012/2019-07 | 2019-03-26 | — | O Colegiado iniciou discussão de consulta sobre procedimento diferenciado em OPA unificada por alienação de controle e para cancelamento de… | cvm-col-20190326-d1356 | fichas/colegiado/2019-05.md |
+| 19957.000861/2019-35 | 2019-03-26 | — | O Colegiado iniciou a discussão de recurso da Inversa Publicações contra intimação da SIN para fornecer login e senha de acesso a todo o… | cvm-col-20190326-d1355 | fichas/colegiado/2019-05.md |
+| 00783.006230/2018-50 | 2019-03-26 | outro | O Colegiado, por unanimidade, acompanhando a área técnica, decidiu, em consulta da SPS, que a contagem do prazo de inabilitação temporária… | cvm-col-20190326-d1354 | fichas/colegiado/2019-05.md |
+| 19957.006826/2018-49 | 2019-03-26 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.006826/2018-49. | cvm-col-20190326-d1353 | fichas/colegiado/2019-05.md |
+| 19957.003407/2019-36 | 2019-03-22 | indeferido | O Colegiado, por maioria, indeferiu pedido de acionista para aumentar o prazo de convocação da AGE da General Shopping que ratificaria… | cvm-col-20190322-d1311 | fichas/colegiado/2019-05.md |
+| 555/2014; 19957.003776/2017-67 | 2019-03-20 | outro | O Colegiado aprovou a Instrução CVM 606/19, após audiência pública SDM 04/18, com alterações pontuais na Instrução CVM 555/14 para melhor… | cvm-col-20190320-d5474 | fichas/colegiado/2019-04.md |
+| 19957.003208/2019-28 | 2019-03-19 | outro | O Colegiado aprovou portaria, conforme minuta da SDM, que dispõe sobre o processo de normatização da CVM, revoga a Portaria/CVM/PTE nº… | cvm-col-20190319-d4715 | fichas/colegiado/2019-04.md |
+| — | 2019-03-19 | — | Apresentação da SOI sobre as atividades desenvolvidas nos convênios vigentes sob sua responsabilidade direta. Sem deliberação do Colegiado. | cvm-col-20190319-d1351 | fichas/colegiado/2019-04.md |
+| 19957.000977/2019-74 | 2019-03-19 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. SEI 19957.000977/2019-74. | cvm-col-20190319-d1350 | fichas/colegiado/2019-04.md |
+| 19957.009502/2018-62 | 2019-03-19 | outro | O Colegiado aprovou Deliberação de alerta ao mercado sobre atuação irregular de cinco investigados no mercado de valores mobiliários, sem… | cvm-col-20190319-d1348 | fichas/colegiado/2019-04.md |
+| 19957.000672/2019-62 | 2019-03-19 | nao-provido | O Colegiado negou provimento, por unanimidade, a recurso da FIP Gestora de Recursos Ltda. contra cancelamento de credenciamento como… | cvm-col-20190319-d1347 | fichas/colegiado/2019-04.md |
+| 19957.004043/2016-69 | 2019-03-19 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004043/2016-69. | cvm-col-20190319-d1266 | fichas/colegiado/2019-04.md |
+| 19957.008798/2018-02 | 2019-03-12 | conhecimento | O Colegiado, por unanimidade, acompanhando a área técnica, não conheceu do pedido de reconsideração da Steluc Participações S.A. contra a… | cvm-col-20190312-d2-d1287 | fichas/colegiado/2019-04.md |
+| 19957.009969/2018-11 | 2019-03-12 | — | O Colegiado iniciou discussão de proposta de descontinuidade de programa de BDR nível III da PPLA Participations Ltd., com adoção de… | cvm-col-20190312-d1345 | fichas/colegiado/2019-04.md |
+| 19957.009641/2018-96 | 2019-03-12 | outro | O Colegiado, acompanhando a SEP, entendeu não se justificar a exigência de laudos de avaliação (art. 264 da Lei 6.404/76) na operação de… | cvm-col-20190312-d1341 | fichas/colegiado/2019-04.md |
+| 19957.000981/2019-32 | 2019-03-12 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. SEI 19957.000981/2019-32. | cvm-col-20190312-d1338 | fichas/colegiado/2019-04.md |
+| 19957.000974/2019-31 | 2019-03-12 | nao-provido | Recurso contra decisão da SNC em processo de multa cominatória. Proc. SEI 19957.000974/2019-31. | cvm-col-20190312-d1337 | fichas/colegiado/2019-04.md |
+| 19957.010308/2018-20 | 2019-03-12 | nao-provido | O Colegiado negou provimento a recurso da Acrux Administração de Recursos Ltda. contra o cancelamento de seu credenciamento como… | cvm-col-20190312-d1336 | fichas/colegiado/2019-04.md |
+| 19957.009302/2016-48 | 2019-02-26 | outro | O Colegiado acompanhou a análise das áreas técnicas sobre o Relatório da Posição do Brasil perante os Códigos de Liberalização de… | cvm-col-20190226-d1333 | fichas/colegiado/2019-04.md |
+| 19957.007894/2018-25 | 2019-02-26 | outro | O Colegiado aprovou Deliberação, conforme minuta da SIN, alertando o mercado sobre a atuação irregular da Euro Capital e de duas pessoas… | cvm-col-20190226-d1332 | fichas/colegiado/2019-04.md |
+| 19957.011671/2017-81 | 2019-02-26 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.011671/2017-81. | cvm-col-20190226-d1330 | fichas/colegiado/2019-04.md |
+| 19957.011667/2017-13 | 2019-02-26 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.011667/2017-13. | cvm-col-20190226-d1329 | fichas/colegiado/2019-04.md |
+| 19957.011570/2017-19 | 2019-02-26 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.011570/2017-19. | cvm-col-20190226-d1328 | fichas/colegiado/2019-04.md |
+| 19957.011568/2017-31 | 2019-02-26 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.011568/2017-31. | cvm-col-20190226-d1327 | fichas/colegiado/2019-04.md |
+| 19957.011553/2017-73 | 2019-02-26 | nao-provido | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.011553/2017-73. | cvm-col-20190226-d1326 | fichas/colegiado/2019-04.md |
+| 19957.004747/2018-01 | 2019-02-26 | outro | O Colegiado aprovou deliberação alertando o público de que a NQZ Participações e Investimentos Ltda. e seu responsável não estão… | cvm-col-20190226-d1325 | fichas/colegiado/2019-04.md |
+| 19957.000187/2019-99 | 2019-02-26 | outro | O Colegiado, por unanimidade, acompanhando a área técnica, entendeu aplicável o art. 32 da Instrução CVM 602/18 às ofertas públicas de… | cvm-col-20190226-d1314 | fichas/colegiado/2019-03.md |
+| SP2016/0019 | 2019-02-26 | outro | O Colegiado, acompanhando o voto do Presidente, devolveu à SMI recurso de investidora contra o arquivamento de reclamação sobre operações… | cvm-col-20190226-d1239 | fichas/colegiado/2019-03.md |
+| SP2016/0245 | 2019-02-26 | conhecimento | O Colegiado, por unanimidade, acompanhando o voto do Presidente, não conheceu de recurso de acionistas minoritários contra entendimento da… | cvm-col-20190226-d1234 | fichas/colegiado/2019-03.md |
+| 19957.002872/2017-98 | 2019-02-26 | nao-provido | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.002872/2017-98. | cvm-col-20190226-d1139 | fichas/colegiado/2019-03.md |
+| 19957.007396/2017-00 | 2019-02-26 | — | Recurso da Cosan S.A. Indústria e Comércio contra o entendimento da SEP de que o montante da remuneração dos administradores aprovado em… | cvm-col-20190226-d1052 | fichas/colegiado/2019-03.md |
+| 19957.001403/2019-13 | 2019-02-25 | indeferido | O Colegiado indeferiu pedido de acionista para interromper o prazo de convocação da AGE da Embraer que deliberaria sobre parceria com a… | cvm-col-20190225-d1334 | fichas/colegiado/2019-03.md |
+| 19957.000716/2019-54 | 2019-02-21 | indeferido | O Colegiado indeferiu pedido de interrupção do prazo de convocação da AGE da General Shopping e Outlets do Brasil S.A., que ratificaria… | cvm-col-20190221-d1311 | fichas/colegiado/2019-03.md |
+| 19957.009590/2018-01 | 2019-02-19 | — | O Colegiado iniciou a discussão de recurso contra intimação da SIN para fornecimento de informações pela Empiricus Research Publicações… | cvm-col-20190219-d1321 | fichas/colegiado/2019-03.md |
+| 19957.000840/2019-10 | 2019-02-19 | deferido | O Colegiado, por unanimidade, acompanhando a SIN, deferiu o pedido da ANBIMA de prorrogação excepcional dos prazos de informes mensais de… | cvm-col-20190219-d1319 | fichas/colegiado/2019-03.md |
+| 19957.000736/2019-25 | 2019-02-19 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.000736/2019-25. | cvm-col-20190219-d1318 | fichas/colegiado/2019-03.md |
+| 19957.000701/2019-96 | 2019-02-19 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.000701/2019-96. | cvm-col-20190219-d1317 | fichas/colegiado/2019-03.md |
+| 19957.011165/2018-73 | 2019-02-19 | — | O Colegiado iniciou a discussão da minuta de Acordo de Cooperação Técnica entre a CVM e a R3 Brasil Serviços de Tecnologia Ltda. e retornou… | cvm-col-20190219-d1316 | fichas/colegiado/2019-03.md |
+| 19957.000582/2019-71 | 2019-02-19 | outro | O Colegiado aprovou deliberação, em caráter experimental, que dispensa o período de vedação do art. 14, §4º, da Instrução CVM 400/03 para… | cvm-col-20190219-d1300 | fichas/colegiado/2019-03.md |
+| 19957.011294/2017-81 | 2019-02-19 | nao-provido | O Colegiado, por maioria, conheceu de recurso contra ofício de alerta da SEP sobre a eleição de conselheiros da Dommo Energia S.A. e, no… | cvm-col-20190219-d1057 | fichas/colegiado/2019-03.md |
+| 19957.006406/2016-09 | 2019-02-19 | outro | O Colegiado aprovou nova definição jurídica dos fatos em PAS contra agente autônomo de investimento e sua empresa, trocando a infração ao… | cvm-col-20190219-d0772 | fichas/colegiado/2019-03.md |
+| RJ2013/8880 | 2019-02-12 | conhecimento | O Colegiado indeferiu pedidos de produção de prova e não conheceu de recurso contra decisão anterior do próprio Colegiado no PAS sobre… | cvm-col-20190212-d8981 | fichas/colegiado/2019-03.md |
+| 19957.000283/2019-37 | 2019-02-12 | nao-provido | Recurso contra decisão da SRE em processo de multa cominatória. Proc. SEI 19957.000283/2019-37. | cvm-col-20190212-d1313 | fichas/colegiado/2019-02.md |
+| 19957.000582/2019-71 | 2019-02-12 | — | Colegiado continuou a discussão de minuta de deliberação sobre análise confidencial de pedidos de registro de ofertas públicas e de… | cvm-col-20190212-d1300 | fichas/colegiado/2019-02.md |
+| 19957.000716/2019-54 | 2019-02-06 | deferido | O Colegiado, por unanimidade, acompanhando a SEP, deferiu pedido de acionista para interromper por até 15 dias o prazo de antecedência da… | cvm-col-20190206-d1311 | fichas/colegiado/2019-02.md |
+| — | 2019-01-29 | — | Apresentação da SPL e da PFE/CVM sobre os resultados da força-tarefa de arrecadação (Projeto Estratégico Transformação de… | cvm-col-20190129-d1302 | fichas/colegiado/2019-02.md |
+| 19957.011541/2017-49 | 2019-01-29 | outro | O Colegiado aprovou deliberação alertando o mercado sobre a atuação irregular da Wolf Invest Eireli e de uma pessoa física na administração… | cvm-col-20190129-d1301 | fichas/colegiado/2019-02.md |
+| 19957.000582/2019-71 | 2019-01-29 | — | Colegiado iniciou a discussão de minuta de deliberação sobre análise confidencial de pedidos de registro de ofertas públicas e de emissores… | cvm-col-20190129-d1300 | fichas/colegiado/2019-02.md |
+| 19957.000444/2019-92 | 2019-01-29 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.000444/2019-92. | cvm-col-20190129-d1297 | fichas/colegiado/2019-02.md |
+| 19957.000442/2019-01 | 2019-01-29 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.000442/2019-01. | cvm-col-20190129-d1296 | fichas/colegiado/2019-02.md |
+| 19957.000492/2019-81 | 2019-01-29 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.000492/2019-81. | cvm-col-20190129-d1295 | fichas/colegiado/2019-02.md |
+| 19957.000449/2019-15 | 2019-01-29 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.000449/2019-15. | cvm-col-20190129-d1294 | fichas/colegiado/2019-02.md |
+| 19957.000418/2019-64 | 2019-01-29 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.000418/2019-64. | cvm-col-20190129-d1293 | fichas/colegiado/2019-02.md |
+| 19957.011375/2018-61 | 2019-01-29 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.011375/2018-61. | cvm-col-20190129-d1292 | fichas/colegiado/2019-02.md |
+| 19957.011374/2018-17 | 2019-01-29 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.011374/2018-17. | cvm-col-20190129-d1291 | fichas/colegiado/2019-02.md |
+| 19957.011368/2018-60 | 2019-01-29 | nao-provido | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.011368/2018-60. | cvm-col-20190129-d1290 | fichas/colegiado/2019-02.md |
+| 19957.008984/2016-71 | 2019-01-29 | indeferido | O Colegiado, por unanimidade, indeferiu pedido de efeito suspensivo contra decisão condenatória que suspendeu por dois anos o registro de… | cvm-col-20190129-d0838 | fichas/colegiado/2019-02.md |
+| 03/2018; 19957.006551/2018-43 | 2019-01-23 | outro | O Colegiado aprovou instrução após audiência pública SDM 03/2018, alterando as ICVM 476/09, 521/12 e 555/14. Limitou a distribuição de CRI… | cvm-col-20190123-d1083 | fichas/colegiado/2019-02.md |
+| 19957.000378/2019-51 | 2019-01-22 | nao-provido | O Colegiado negou provimento a recurso contra indeferimento da SEP de pedido de gestor de fundos, membro de conselho de companhia aberta… | cvm-col-20190122-d1288 | fichas/colegiado/2019-02.md |
+| 19957.008798/2018-02 | 2019-01-22 | nao-provido | O Colegiado, por unanimidade, acompanhando a área técnica, negou provimento ao recurso da ofertante e da instituição intermediária contra o… | cvm-col-20190122-d1287 | fichas/colegiado/2019-02.md |
+| 19957.011356/2018-35 | 2019-01-22 | indeferido | O Colegiado, por maioria, indeferiu o pedido do agente fiduciário para renunciar, sem substituto, à 1ª emissão de debêntures da Mega… | cvm-col-20190122-d1285 | fichas/colegiado/2019-01.md |
+| 19957.011207/2018-76 | 2019-01-22 | indeferido | O Colegiado, por maioria, indeferiu pedido de renúncia do agente fiduciário sem substituto em emissão de debêntures da OAS S.A., divergindo… | cvm-col-20190122-d1284 | fichas/colegiado/2019-01.md |
+| 19957.009331/2018-71 | 2019-01-22 | provido | O Colegiado deu provimento a recurso contra indeferimento da SIN e autorizou a entrega de ações a cotistas na liquidação do Clube de… | cvm-col-20190122-d1283 | fichas/colegiado/2019-01.md |
+| 19957.004716/2018-42 | 2019-01-22 | outro | O Colegiado aprovou Deliberação, conforme minuta da SIN, alertando o mercado sobre a atuação irregular da ESK Partners Investimentos Ltda… | cvm-col-20190122-d1281 | fichas/colegiado/2019-01.md |
+| 19957.009605/2018-22 | 2019-01-22 | deferido | O Colegiado deferiu pedido de registro de oferta de CRA da Vert Companhia Securitizadora, lastreados em debêntures da Vamos, por enquadrar… | cvm-col-20190122-d1279 | fichas/colegiado/2019-01.md |
+| 22/2013 | 2019-01-22 | indeferido | O Colegiado indeferiu pedido de efeito suspensivo contra decisão condenatória que impôs proibição de atuar no mercado de valores… | cvm-col-20190122-d1057 | fichas/colegiado/2019-01.md |
+| — | 2019-01-17 | outro | A SDM apresentou ao Colegiado o relatório de atividades de 2018. O Colegiado orientou a área sobre as metas de regulação para 2019. | cvm-col-20190117-d1289 | fichas/colegiado/2019-01.md |
+| 19957.009300/2018-11 | 2019-01-17 | — | A SDM concluiu a apresentação, iniciada em 12.12.2018, de estudo sobre o regime de ofertas públicas de valores mobiliários, para subsidiar… | cvm-col-20190117-d1255 | fichas/colegiado/2019-01.md |
+| 14/2010 | 2019-01-15 | indeferido | O Colegiado, acompanhando o despacho do relator, indeferiu os pedidos de produção de prova formulados no PAS 14/2010 (perícia em notas de… | cvm-col-20190115-d8609 | fichas/colegiado/2019-01.md |
+| 19957.008960/2018-84 | 2019-01-15 | nao-provido | Recurso contra decisão da SMI em processo de multa cominatória. Proc. SEI 19957.008960/2018-84. | cvm-col-20190115-d1280 | fichas/colegiado/2019-01.md |
+| 19957.009674/2018-36 | 2019-01-15 | outro | O Colegiado aprovou minuta de acordo de cooperação técnica entre a CVM e o SEBRAE para educação, orientação e inovação financeira de… | cvm-col-20190115-d1278 | fichas/colegiado/2019-01.md |
+| 19957.006590/2018-41 | 2019-01-15 | deferido | O Colegiado deferiu pedido de autorização para transferência, por doação, de quotas de fundo de investidores não residentes fora de mercado… | cvm-col-20190115-d1277 | fichas/colegiado/2019-01.md |
+| RJ2015/9195 | 2019-01-15 | outro | O Colegiado aprovou nova definição jurídica dos fatos no PAS RJ2015/9195, proposta pelo relator: a acusação de operação fraudulenta passa a… | cvm-col-20190115-d0148 | fichas/colegiado/2019-01.md |
+| 19957.011151/2018-50 | 2019-01-08 | conhecimento | O Colegiado, por unanimidade, não conheceu do recurso contra a cobrança de juros de mora sobre multa pecuniária do PAS 01/2010, após… | cvm-col-20190108-d1276 | fichas/colegiado/2019-01.md |
+| 19957.006209/2018-43 | 2019-01-08 | nao-provido | O Colegiado, por unanimidade, acompanhando a área técnica, negou provimento a recurso contra indeferimento de credenciamento de… | cvm-col-20190108-d1275 | fichas/colegiado/2019-01.md |
+| 19957.009627/2018-92 | 2019-01-08 | nao-provido | O Colegiado negou provimento a recurso de administrador de carteiras pessoa natural contra a exigência da SIN de optar entre seu… | cvm-col-20190108-d1274 | fichas/colegiado/2019-01.md |
+| 19957.011150/2018-13 | 2019-01-08 | nao-provido | Recurso contra decisão da SPS em processo de multa cominatória. Proc. SEI 19957.011150/2018-13. | cvm-col-20190108-d1273 | fichas/colegiado/2019-01.md |
+| 19957.009340/2018-62 | 2019-01-08 | deferido | O Colegiado deferiu, por unanimidade, tratamento confidencial à localização e à matrícula de cerca de 1.900 imóveis destinatários dos… | cvm-col-20190108-d1272 | fichas/colegiado/2019-01.md |
 
 Fim do subíndice.

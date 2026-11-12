@@ -42,7 +42,7 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | RJ2012/7353 | 2022-12-07 | parcial | crsfn-10372-100052-2020-62 | fichas/crsfn/2022-07.md |
+| acordao-crsfn | RJ2012/7353 | 2022-12-07 | parcial | crsfn-10372-100052-2020-62 | fichas/crsfn/2022-08.md |
 | decisao-colegiado | RJ2012/12063 | 2013-09-17 | nao-provido | cvm-col-20130917-d02 | fichas/colegiado/2013-17.md |
 | decisao-colegiado | RJ2012/1046 | 2013-09-17 | parcial | cvm-col-20130917-d01 | fichas/colegiado/2013-17.md |
 | decisao-colegiado | RJ2011/5252 | 2012-07-17 | nao-provido | cvm-col-20120717-d01 | fichas/colegiado/2012-12.md |

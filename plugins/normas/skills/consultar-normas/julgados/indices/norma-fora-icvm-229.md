@@ -17,8 +17,8 @@ Norma: fora do acervo.
 | art. 1º | decisao-colegiado | RJ2014/3723; RJ2014/4397 | 2015-12-15 | conhecimento | cvm-col-20151215-d9118-d9122 | fichas/colegiado/2015-24.md |
 | art. 1º | decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
 | art. 1º | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
-| art. 1º | pas | 16/2000 | 2002-12-05 | parcial | cvm-pas-16-2000 | fichas/pas/2002-03.md |
-| art. 1º | pas | RJ2001/8388 | 2002-04-18 | condenacao | cvm-pas-rj2001-8388 | fichas/pas/2002-02.md |
+| art. 1º | pas | 16/2000 | 2002-12-05 | parcial | cvm-pas-16-2000 | fichas/pas/2002-07.md |
+| art. 1º | pas | RJ2001/8388 | 2002-04-18 | condenacao | cvm-pas-rj2001-8388 | fichas/pas/2002-04.md |
 | art. 1º, inciso I | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
 | art. 1º, inciso II | decisao-colegiado | SP2000/0389 | 2002-05-07 | nao-provido | cvm-col-20020507-d01 | fichas/colegiado/2002-10.md |
 | art. 1º, inciso II | decisao-colegiado | RJ2008/7040 | 2009-02-03 | deferido | cvm-col-20090203-d02 | fichas/colegiado/2009-01.md |
@@ -39,8 +39,8 @@ Norma: fora do acervo.
 | art. 2º | decisao-colegiado | RJ2014/3723 | 2014-05-20 | nao-provido | cvm-col-20140520-d02 | fichas/colegiado/2014-09.md |
 | art. 2º | decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
 | art. 2º | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
-| art. 2º | pas | RJ2001/8388 | 2002-04-18 | condenacao | cvm-pas-rj2001-8388 | fichas/pas/2002-02.md |
-| art. 2º | pas | RJ2004/4627 | 2005-01-28 | condenacao | cvm-pas-rj2004-4627 | fichas/pas/2005-01.md |
+| art. 2º | pas | RJ2001/8388 | 2002-04-18 | condenacao | cvm-pas-rj2001-8388 | fichas/pas/2002-04.md |
+| art. 2º | pas | RJ2004/4627 | 2005-01-28 | condenacao | cvm-pas-rj2004-4627 | fichas/pas/2005-02.md |
 | art. 2º, inciso II | decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
 | art. 2º, inciso III | decisao-colegiado | SP2000/0389 | 2002-05-07 | nao-provido | cvm-col-20020507-d01 | fichas/colegiado/2002-10.md |
 | art. 2º, inciso III | decisao-colegiado | RJ2008/7040 | 2009-02-03 | deferido | cvm-col-20090203-d02 | fichas/colegiado/2009-01.md |
@@ -58,14 +58,14 @@ Norma: fora do acervo.
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 5º | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
-| art. 5º | pas | 16/2000 | 2002-12-05 | parcial | cvm-pas-16-2000 | fichas/pas/2002-03.md |
+| art. 5º | pas | 16/2000 | 2002-12-05 | parcial | cvm-pas-16-2000 | fichas/pas/2002-07.md |
 
 ## art. 6º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 6º | decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
-| art. 6º | pas | 18/2001 | 2004-11-04 | parcial | cvm-pas-18-2001 | fichas/pas/2004-07.md |
+| art. 6º | pas | 18/2001 | 2004-11-04 | parcial | cvm-pas-18-2001 | fichas/pas/2004-13.md |
 
 ## art. 8º
 
@@ -77,7 +77,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 9º | pas | 16/2000 | 2002-12-05 | parcial | cvm-pas-16-2000 | fichas/pas/2002-03.md |
+| art. 9º | pas | 16/2000 | 2002-12-05 | parcial | cvm-pas-16-2000 | fichas/pas/2002-07.md |
 
 ## art. 10
 
@@ -137,7 +137,7 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|
 | art. 22 | decisao-colegiado | RJ2004/4970 | 2005-10-11 | provido | cvm-col-20051011-d01 | fichas/colegiado/2005-14.md |
 | art. 22 | decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
-| art. 22 | pas | 02/2003 | 2007-01-24 | parcial | cvm-pas-02-2003 | fichas/pas/2007-01.md |
+| art. 22 | pas | 02/2003 | 2007-01-24 | parcial | cvm-pas-02-2003 | fichas/pas/2007-02.md |
 
 ## art. 27
 
@@ -175,17 +175,17 @@ Norma: fora do acervo.
 | decisao-colegiado | 19957.010829/2017-04 | 2018-09-04 | conhecimento | cvm-col-20180904-d1038 | fichas/colegiado/2018-16.md |
 | decisao-colegiado | 19957.002417/2016-10 | 2017-02-15 | parcial | cvm-col-20170215-d530 | fichas/colegiado/2017-04.md |
 | decisao-colegiado | RJ2014/2399 | 2014-08-26 | outro | cvm-col-20140826-d03 | fichas/colegiado/2014-16.md |
-| pas | 29/2000 | 2013-12-17 | parcial | cvm-pas-29-2000 | fichas/pas/2013-07.md |
+| pas | 29/2000 | 2013-12-17 | parcial | cvm-pas-29-2000 | fichas/pas/2013-14.md |
 | decisao-colegiado | RJ2012/14764 | 2013-07-30 | nao-provido | cvm-col-20130730-d15 | fichas/colegiado/2013-14.md |
 | decisao-colegiado | RJ2002/5880 | 2010-05-18 | nao-provido | cvm-col-20100518-d06 | fichas/colegiado/2010-13.md |
-| acordao-crsfn | RJ-2005-7127 | 2010-04-29 | parcial | crsfn-11275 | fichas/crsfn/2010-03.md |
+| acordao-crsfn | RJ-2005-7127 | 2010-04-29 | parcial | crsfn-11275 | fichas/crsfn/2010-04.md |
 | decisao-colegiado | RJ2002/4340 | 2009-01-13 | provido | cvm-col-20090113-d01 | fichas/colegiado/2009-01.md |
-| pas | RJ2005/7127 | 2006-11-08 | parcial | cvm-pas-rj2005-7127 | fichas/pas/2006-12.md |
+| pas | RJ2005/7127 | 2006-11-08 | parcial | cvm-pas-rj2005-7127 | fichas/pas/2006-24.md |
 | decisao-colegiado | 34/2006; RJ2006/7204; RJ2006/7213 | 2006-10-17 | outro | cvm-col-20061017-d04 | fichas/colegiado/2006-15.md |
 | decisao-colegiado | RJ2004/5452 | 2005-01-25 | nao-provido | cvm-col-20050125-d08 | fichas/colegiado/2005-02.md |
 | decisao-colegiado | RJ2003/0226 | 2003-06-17 | conhecimento | cvm-col-20030617-d10 | fichas/colegiado/2003-08.md |
 | decisao-colegiado | RJ2003/2928 | 2003-06-10 | deferido | cvm-col-20030610-d02 | fichas/colegiado/2003-07.md |
-| pas | 33/2000 | 2002-12-20 | condenacao | cvm-pas-33-2000 | fichas/pas/2002-04.md |
+| pas | 33/2000 | 2002-12-20 | condenacao | cvm-pas-33-2000 | fichas/pas/2002-08.md |
 | decisao-colegiado | RJ2002/1679 | 2002-07-03 | provido | cvm-col-20020703-d09 | fichas/colegiado/2002-16.md |
 | decisao-colegiado | RJ2000/4473; RJ2000/4079 | 2002-06-25 | outro | cvm-col-20020625-d03 | fichas/colegiado/2002-15.md |
 | decisao-colegiado | RJ2001/11663 | 2002-01-15 | provido | cvm-col-20020115-d05 | fichas/colegiado/2002-01.md |

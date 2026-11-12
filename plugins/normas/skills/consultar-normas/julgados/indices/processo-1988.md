@@ -7,9 +7,9 @@ Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho rel
 
 Número normalizado: NUP `99999-999999-AAAA-DD`; processo antigo `rj2015-13791` (sigla em minúsculas, ano, número com 4 dígitos); numeração curta dos PAS `NN-AAAA`. Procure pelo número normalizado ou pela forma do julgado. Dois julgados do mesmo processo (um PAS e o termo de compromisso ou o acórdão do CRSFN dele) aparecem com o mesmo número.
 
-| Processo (normalizado) | Forma no julgado | Tipo | Data | Id | Ficha |
-|---|---|---|---|---|---|
-| 11-1988 | 11/88 | acordao-crsfn | 1996-02-15 | crsfn-1552 | fichas/crsfn/1996-01.md |
-| 13-1988 | 13/88 | acordao-crsfn | 1996-08-07 | crsfn-1663 | fichas/crsfn/1996-02.md |
+| Processo (normalizado) | Forma no julgado | Tipo | Data | Ementa | Id | Ficha |
+|---|---|---|---|---|---|---|
+| 11-1988 | 11/88 | acordao-crsfn | 1996-02-15 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Criação de condições artificiais de demanda, oferta e preço. Uso de práticas não equitativas em operações… | crsfn-1552 | fichas/crsfn/1996-01.md |
+| 13-1988 | 13/88 | acordao-crsfn | 1996-08-07 | RECURSOS VOLUNTÁRIO E DE OFÍCIO. Irregularidades na realização de aumento de capital social, no preparo e divulgação de demonstrações… | crsfn-1663 | fichas/crsfn/1996-02.md |
 
 Fim do subíndice.

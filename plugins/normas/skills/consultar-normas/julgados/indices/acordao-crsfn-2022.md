@@ -5,76 +5,76 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
-| Processo | Data | Resultado | Id | Ficha |
-|---|---|---|---|---|
-| RJ2016/2245 | 2022-12-08 | condenacao | crsfn-10372-100336-2019-15 | fichas/crsfn/2022-08.md |
-| RJ2014/1020 | 2022-12-08 | outro | crsfn-10372-100118-2018-08-2 | fichas/crsfn/2022-08.md |
-| 22/2013 | 2022-12-08 | condenacao | crsfn-10372-100108-2019-45 | fichas/crsfn/2022-08.md |
-| 14/2013 | 2022-12-08 | condenacao | crsfn-10372-100093-2021-30 | fichas/crsfn/2022-08.md |
-| 14/2010 | 2022-12-08 | condenacao | crsfn-10372-100071-2021-70 | fichas/crsfn/2022-07.md |
-| 07/2013 | 2022-12-08 | condenacao | crsfn-10372-100057-2020-95 | fichas/crsfn/2022-07.md |
-| RJ2014/3161; 19957.010705/2019-82 | 2022-12-08 | parcial | crsfn-10372-100050-2021-54 | fichas/crsfn/2022-07.md |
-| RJ2014/3161; 19957.010705/2019-82 | 2022-12-08 | parcial | crsfn-10372-100050-2021-54-2 | fichas/crsfn/2022-07.md |
-| 19957.003610/2020-46; RJ2020/2361 | 2022-12-08 | condenacao | crsfn-10372-100011-2022-38 | fichas/crsfn/2022-07.md |
-| 19957.011693/2017-41; SP2018/420 | 2022-12-08 | condenacao | crsfn-10372-100009-2022-69 | fichas/crsfn/2022-07.md |
-| 19957.003864/2016-88; RJ2016/5786 | 2022-12-07 | condenacao | crsfn-10372-100186-2021-64 | fichas/crsfn/2022-07.md |
-| 19957.000511/2018-98; RJ2018/00373 | 2022-12-07 | parcial | crsfn-10372-100136-2021-87 | fichas/crsfn/2022-07.md |
-| RJ2012/7353 | 2022-12-07 | parcial | crsfn-10372-100052-2020-62 | fichas/crsfn/2022-07.md |
-| 19957.003480/2021-22 | 2022-12-07 | condenacao | crsfn-10372-100002-2022-47 | fichas/crsfn/2022-06.md |
-| 19957.006936/2017-20; RJ2017/4199 | 2022-11-08 | condenacao | crsfn-10372-100239-2021-47 | fichas/crsfn/2022-06.md |
-| SP2018/15 | 2022-11-08 | condenacao | crsfn-10372-100054-2020-51 | fichas/crsfn/2022-06.md |
-| SP2014/230 | 2022-11-08 | parcial | crsfn-10372-100034-2019-47 | fichas/crsfn/2022-06.md |
-| RJ2018/4165 | 2022-11-08 | outro | crsfn-10372-100033-2020-36-2 | fichas/crsfn/2022-06.md |
-| 19957.000592/2019-15; RJ2019/958 | 2022-11-07 | outro | crsfn-10372-100011-2021-57-2 | fichas/crsfn/2022-06.md |
-| 19957.003594/2021-72; RJ2021/02257 | 2022-10-11 | parcial | crsfn-10372-100096-2022-54 | fichas/crsfn/2022-06.md |
-| 19957.010628/2019-61 | 2022-10-10 | condenacao | crsfn-10372-100185-2020-39 | fichas/crsfn/2022-06.md |
-| 19957.003642/2020-41; RJ2020/04613 | 2022-10-10 | condenacao | crsfn-10372-100092-2022-76 | fichas/crsfn/2022-06.md |
-| 19957.003052/2018-02; RJ2018/2150 | 2022-10-10 | parcial | crsfn-10372-100052-2021-43 | fichas/crsfn/2022-05.md |
-| 19957.002277/2017-52; RJ2017/1158 | 2022-10-10 | parcial | crsfn-10372-100051-2021-07 | fichas/crsfn/2022-05.md |
-| RJ2013/6294 | 2022-09-15 | outro | crsfn-10372-100111-2018-88 | fichas/crsfn/2022-05.md |
-| RJ2014/8013 | 2022-08-09 | parcial | crsfn-10372-100207-2019-27 | fichas/crsfn/2022-05.md |
-| RJ2019/7807 | 2022-08-09 | parcial | crsfn-10372-100110-2021-39 | fichas/crsfn/2022-05.md |
-| RJ2018/325 | 2022-08-09 | condenacao | crsfn-10372-100092-2021-95 | fichas/crsfn/2022-05.md |
-| 19957.007785/2019-99; RJ2019/5909 | 2022-08-09 | condenacao | crsfn-10372-100056-2021-21 | fichas/crsfn/2022-05.md |
-| 19957.011346/2018-08; RJ2018/9022 | 2022-08-09 | parcial | crsfn-10372-100049-2021-20 | fichas/crsfn/2022-05.md |
-| 19957.008986/2020-47; RJ2020/06345 | 2022-08-09 | parcial | crsfn-10372-100034-2022-42 | fichas/crsfn/2022-04.md |
-| 06/2012 | 2022-07-12 | outro | crsfn-10372-100268-2019-94-2 | fichas/crsfn/2022-04.md |
-| 19957.003798/2017-27; SP2017/316 | 2022-07-12 | condenacao | crsfn-10372-100179-2020-81 | fichas/crsfn/2022-04.md |
-| 19957.005452/2016-82 | 2022-07-12 | condenacao | crsfn-10372-100175-2020-01 | fichas/crsfn/2022-04.md |
-| RJ2019/3348 | 2022-07-12 | parcial | crsfn-10372-100073-2021-69 | fichas/crsfn/2022-04.md |
-| 19957.009864/2019-34; RJ2019/7806 | 2022-07-12 | condenacao | crsfn-10372-100057-2021-76 | fichas/crsfn/2022-04.md |
-| RJ2018/4165 | 2022-07-12 | parcial | crsfn-10372-100033-2020-36 | fichas/crsfn/2022-04.md |
-| 17/2013 | 2022-06-07 | parcial | crsfn-10372-100337-2019-60 | fichas/crsfn/2022-04.md |
-| 19957.009486/2017-27; RJ2017/4719 | 2022-06-07 | condenacao | crsfn-10372-100168-2021-82 | fichas/crsfn/2022-03.md |
-| 02/2013 | 2022-05-10 | outro | crsfn-10372-100247-2019-79 | fichas/crsfn/2022-03.md |
-| RJ2016/5160 | 2022-05-10 | outro | crsfn-10372-100224-2019-64 | fichas/crsfn/2022-03.md |
-| RJ2015/10020 | 2022-05-10 | parcial | crsfn-10372-100115-2020-81 | fichas/crsfn/2022-03.md |
-| 07/2015 | 2022-05-10 | outro | crsfn-10372-100114-2020-36-2 | fichas/crsfn/2022-03.md |
-| 19957.000592/2019-15; RJ2019/958 | 2022-05-10 | condenacao | crsfn-10372-100011-2021-57 | fichas/crsfn/2022-03.md |
-| 19957.008401/2016-11; RJ2017/38 | 2022-05-10 | parcial | crsfn-10372-100008-2021-33 | fichas/crsfn/2022-03.md |
-| RJ2014/578 | 2022-05-05 | outro | crsfn-10372-100245-2019-80-2 | fichas/crsfn/2022-03.md |
-| RJ2015/13326 | 2022-04-13 | outro | crsfn-edcl-10372-100334-2019-26 | fichas/crsfn/2022-03.md |
-| RJ2014/578 | 2022-04-13 | outro | crsfn-edcl-10372-100245-2019-80 | fichas/crsfn/2022-03.md |
-| RJ2018/6282 | 2022-04-13 | outro | crsfn-edcl-10372-100107-2020-34 | fichas/crsfn/2022-03.md |
-| RJ2016/8143 | 2022-04-13 | outro | crsfn-edcl-10372-100055-2020-04 | fichas/crsfn/2022-03.md |
-| RJ-2016-7192 | 2022-04-13 | condenacao | crsfn-10372-100315-2018-19 | fichas/crsfn/2022-02.md |
-| 26/2010 | 2022-04-12 | outro | crsfn-edcl-10372 | fichas/crsfn/2022-02.md |
-| RJ-2017/565 | 2022-04-12 | outro | crsfn-edcl-10372-100106-2021-71 | fichas/crsfn/2022-02.md |
-| RJ2014/12081 | 2022-04-12 | parcial | crsfn-10372-100317-2019-99 | fichas/crsfn/2022-02.md |
-| RJ2014/3616 | 2022-04-12 | condenacao | crsfn-10372-100225-2019-17 | fichas/crsfn/2022-02.md |
-| SP2018/0538 | 2022-04-12 | extincao | crsfn-10372-100106-2021-71 | fichas/crsfn/2022-02.md |
-| 09/2016 | 2022-04-12 | condenacao | crsfn-10372-100095-2020-48 | fichas/crsfn/2022-02.md |
-| 19957.010904/2018-18; RJ2018/8378 | 2022-04-12 | condenacao | crsfn-10372-100055-2021-87 | fichas/crsfn/2022-02.md |
-| RJ2014/14161 | 2022-03-28 | outro | crsfn-edcl-10372-100231-2019-66 | fichas/crsfn/2022-02.md |
-| RJ2018/4328 | 2022-03-09 | condenacao | crsfn-10372-100329-2019-13 | fichas/crsfn/2022-02.md |
-| RJ2016/5733 | 2022-03-09 | parcial | crsfn-10372-100096-2020-92 | fichas/crsfn/2022-01.md |
-| RJ2014/4077 | 2022-02-09 | parcial | crsfn-10372-100282-2019-98 | fichas/crsfn/2022-01.md |
-| RJ2014/4077 | 2022-02-09 | condenacao | crsfn-10372-100282-2019-98-2 | fichas/crsfn/2022-01.md |
-| RJ2016/7162 | 2022-02-09 | condenacao | crsfn-10372-100094-2020-01 | fichas/crsfn/2022-01.md |
-| RJ2016/4711 | 2022-02-08 | outro | crsfn-edcl-10372-100048-2020-02 | fichas/crsfn/2022-01.md |
-| RJ2015/8673 | 2022-02-08 | outro | crsfn-edcl-10372-100037-2018-08 | fichas/crsfn/2022-01.md |
-| RJ2015/13093 | 2022-02-08 | condenacao | crsfn-10372-100283-2019-32 | fichas/crsfn/2022-01.md |
-| RJ2014/13977; 19957.001882/2020-10 | 2022-02-08 | parcial | crsfn-10372-100171-2020-15 | fichas/crsfn/2022-01.md |
-| RJ2018/7396 | 2022-02-08 | parcial | crsfn-10372-100090-2021-04 | fichas/crsfn/2022-01.md |
+| Processo | Data | Resultado | Ementa | Id | Ficha |
+|---|---|---|---|---|---|
+| RJ2016/2245 | 2022-12-08 | condenacao | RECURSOS VOLUNTÁRIOS. IRREGULARIDADES NA CONDUÇÃO DOS TRABALHOS DE AUDITORIA DAS DEMONSTRAÇÕES FINANCEIRAS DA RECRUSUL S.A. INOBSERVÂNCIA… | crsfn-10372-100336-2019-15 | fichas/crsfn/2022-10.md |
+| RJ2014/1020 | 2022-12-08 | outro | EMBARGOS DE DECLARAÇÃO. ACÓRDÃO CRSFN 113/2021. ALEGAÇÃO DE OBSCURIDADE, OMISSÃO OU CONTRADIÇÃO. Inexistência de contradição, omissão… | crsfn-10372-100118-2018-08-2 | fichas/crsfn/2022-10.md |
+| 22/2013 | 2022-12-08 | condenacao | RECURSOS VOLUNTÁRIOS. ADMINISTRAÇÃO IRREGULAR DE CARTEIRA POR PARTE DE AGENTES AUTÔNOMOS DE INVESTIMENTO. NEGOCIAÇÃO EXCESSIVA (CHURNING)… | crsfn-10372-100108-2019-45 | fichas/crsfn/2022-10.md |
+| 14/2013 | 2022-12-08 | condenacao | RECURSOS VOLUNTÁRIOS. IRREGULARIDADES NA GESTÃO DE FUNDOS DE INVESTIMENTO. FALTA DE DILIGÊNCIA NA ADMINISTRAÇÃO DE CARTEIRAS. AVALIAÇÕES DE… | crsfn-10372-100093-2021-30 | fichas/crsfn/2022-09.md |
+| 14/2010 | 2022-12-08 | condenacao | RECURSOS VOLUNTÁRIOS. USO DE PRÁTICAS NÃO EQUITATIVAS NO MERCADO DE VALORES MOBILIÁRIOS. DESCUMPRIMENTO DO DEVER DE DILIGÊNCIA, FALHAS NO… | crsfn-10372-100071-2021-70 | fichas/crsfn/2022-09.md |
+| 07/2013 | 2022-12-08 | condenacao | RECURSOS VOLUNTÁRIOS. MERCADO DE VALORES MOBILIÁRIOS. PARTICIPAÇÃO NA CRIAÇÃO DE CONDIÇÕES ARTIFICIAIS DE DEMANDA, OFERTA E PREÇO DE… | crsfn-10372-100057-2020-95 | fichas/crsfn/2022-09.md |
+| RJ2014/3161; 19957.010705/2019-82 | 2022-12-08 | parcial | RECURSOS VOLUNTÁRIOS. MERCADO DE CAPITIAIS. VIOLAÇÃO DA RELAÇÃO FIDUCIÁRIA. NÃO REVELAR SITUAÇÃO DE CONFLITO DE INTERESSE AOS COTISTAS DO… | crsfn-10372-100050-2021-54 | fichas/crsfn/2022-09.md |
+| RJ2014/3161; 19957.010705/2019-82 | 2022-12-08 | parcial | RECURSOS VOLUNTÁRIOS. MERCADO DE CAPITAIS. VIOLAÇÃO DA RELAÇÃO FIDUCIÁRIA. NÃO REVELAR SITUAÇÃO DE CONFLITO DE INTERESSE AOS COTISTAS DO… | crsfn-10372-100050-2021-54-2 | fichas/crsfn/2022-09.md |
+| 19957.003610/2020-46; RJ2020/2361 | 2022-12-08 | condenacao | RECURSO VOLUNTÁRIO. EXERCÍCIO DA ATIVIDADE DE ADMINISTRAÇÃO PROFISSIONAL DE CARTEIRA DE VALORES MOBILIÁRIOS SEM PRÉVIA AUTORIZAÇÃO DA CVM… | crsfn-10372-100011-2022-38 | fichas/crsfn/2022-08.md |
+| 19957.011693/2017-41; SP2018/420 | 2022-12-08 | condenacao | RECURSO VOLUNTÁRIO. DEFICIÊNCIAS NA ADOÇÃO E IMPLEMENTAÇÃO DE PROCEDIMENTOS E CONTROLES INTERNOS PARA ATENDIMENTO AO DISPOSTO NA INSTRUÇÃO… | crsfn-10372-100009-2022-69 | fichas/crsfn/2022-08.md |
+| 19957.003864/2016-88; RJ2016/5786 | 2022-12-07 | condenacao | RECURSO VOLUNTÁRIO. SOCIETÁRIO. IRREGULARIDADES NA ELABORAÇÃO E DIVULGAÇÃO DE DEMONSTRAÇÕES FINANCEIRAS. AUSÊNCIA DE COMUNICADO AO MERCADO… | crsfn-10372-100186-2021-64 | fichas/crsfn/2022-08.md |
+| 19957.000511/2018-98; RJ2018/00373 | 2022-12-07 | parcial | RECURSO VOLUNTÁRIO. MANIPULAÇÃO DE PREÇOS. OPERAÇÕES DE MESMO COMITENTE. Infração ao item II, alínea "b", da Instrução CVM nº 8/79 e vedada… | crsfn-10372-100136-2021-87 | fichas/crsfn/2022-08.md |
+| RJ2012/7353 | 2022-12-07 | parcial | RECURSOS VOLUNTÁRIOS. ABUSO NO EXERCÍCIO DO PODER DE CONTROLE E DESCUMPRIMENTO DO DEVER DE LEALDADE POR PARTE DOS ADMINISTRADORES EM… | crsfn-10372-100052-2020-62 | fichas/crsfn/2022-08.md |
+| 19957.003480/2021-22 | 2022-12-07 | condenacao | RECURSO VOLUNTÁRIO. PLANO BM&FBOVESPA S.A. CELEBRAR CONTRATO DE OUTORGA DE OPÇÃO EM DESRESPEITO AO PLANO DE COMPRA DE AÇÕES DA COMPANHIA… | crsfn-10372-100002-2022-47 | fichas/crsfn/2022-08.md |
+| 19957.006936/2017-20; RJ2017/4199 | 2022-11-08 | condenacao | RECURSO VOLUNTÁRIO. MERCADO DE CAPITAIS. AUSÊNCIA DE ESTRUTURA FÍSICA E DE CONTROLES INTERNOS DA ADMINISTRADORA DE FUNDOS. AUSÊNCIA DE… | crsfn-10372-100239-2021-47 | fichas/crsfn/2022-08.md |
+| SP2018/15 | 2022-11-08 | condenacao | RECURSO VOLUNTÁRIO. PRÁTICA NÃO EQUITATIVA NO MERCADO DE VALORES MOBILIÁRIOS. Responsabilidade de administradores da CORVAL Corretora de… | crsfn-10372-100054-2020-51 | fichas/crsfn/2022-08.md |
+| SP2014/230 | 2022-11-08 | parcial | RECURSOS VOLUNTÁRIOS. CRIAÇÃO DE CONDIÇÕES ARTIFICIAIS DE DEMANDA, OFERTA E PREÇO NO MERCADO DE VALORES MOBILIÁRIOS. INFRAÇÃO À INSTRUÇÃO… | crsfn-10372-100034-2019-47 | fichas/crsfn/2022-07.md |
+| RJ2018/4165 | 2022-11-08 | outro | EMBARGOS DE DECLARAÇÃO. ERRO MATERIAL NA ATA DE JULGAMENTO DA 462ª SESSÃO. Menção equivocada à atualização pelo IPCA. Erro já sanado com a… | crsfn-10372-100033-2020-36-2 | fichas/crsfn/2022-07.md |
+| 19957.000592/2019-15; RJ2019/958 | 2022-11-07 | outro | EMBARGOS DE DECLARAÇÃO. LAYERING. ALEGAÇÃO DE CONTRADIÇÃO, OBSCURIDADE OU OMISSÃO. Não caracterizados os requisitos para embargos. Embargos… | crsfn-10372-100011-2021-57-2 | fichas/crsfn/2022-07.md |
+| 19957.003594/2021-72; RJ2021/02257 | 2022-10-11 | parcial | RECURSOS VOLUNTÁRIOS. NÃO CONFORMIDADE EM DEMONSTRAÇÕES FINANCEIRAS. RESPONSABILIDADE DE ADMINISTRADORES DA LONGDIS S.A. PELO… | crsfn-10372-100096-2022-54 | fichas/crsfn/2022-07.md |
+| 19957.010628/2019-61 | 2022-10-10 | condenacao | RECURSOS VOLUNTÁRIOS. LEI Nº 6.385/76. OFERTA IRREGULAR DE CONTRATO DE INVESTIMENTO COLETIVO. SOCIEDADE EM CONTA DE PARTICIPAÇÃO (SCP)… | crsfn-10372-100185-2020-39 | fichas/crsfn/2022-07.md |
+| 19957.003642/2020-41; RJ2020/04613 | 2022-10-10 | condenacao | RECURSOS VOLUNTÁRIOS. OFERTA PÚBLICA DE VALORES MOBILIÁRIOS SEM REGISTRO PRÉVIO NA CVM OU SUA DISPENSA. Infração ao art. 19 da Lei nº… | crsfn-10372-100092-2022-76 | fichas/crsfn/2022-07.md |
+| 19957.003052/2018-02; RJ2018/2150 | 2022-10-10 | parcial | RECURSOS VOLUNTÁRIOS. RECURSO VOLUNTÁRIO. RESPONSABILIDADE DE ADMINISTRADORES E ACIONISTAS DA GPC PARTICIPAÇÕES S.A. PELO EXERCÍCIO… | crsfn-10372-100052-2021-43 | fichas/crsfn/2022-07.md |
+| 19957.002277/2017-52; RJ2017/1158 | 2022-10-10 | parcial | RECURSOS VOLUNTÁRIOS. ATRASO NA CONVOCAÇÃO E REALIZAÇÃO DE ASSEMBLEIA GERAL ORDINÁRIA. EXERCÍCIO IRREGULAR DO DIREITO DE VOTO NA… | crsfn-10372-100051-2021-07 | fichas/crsfn/2022-07.md |
+| RJ2013/6294 | 2022-09-15 | outro | RECURSO VOLUNTÁRIO. IRREGULARIDADE NA AQUISIÇÃO DE AÇÕES DE EMISSÃO DE OUTRAS COMPANHIAS POR MEIO DE OPERAÇÃO DE AUMENTO DE CAPITAL… | crsfn-10372-100111-2018-88 | fichas/crsfn/2022-06.md |
+| RJ2014/8013 | 2022-08-09 | parcial | RECURSOS VOLUNTÁRIOS. CONSELHO DE ADMINISTRAÇÃO. EXERCÍCIO ABUSIVO DO DIREITO DE VOTO E DESVIO DE PODER DE ADMINISTRADORES DA HRT… | crsfn-10372-100207-2019-27 | fichas/crsfn/2022-06.md |
+| RJ2019/7807 | 2022-08-09 | parcial | RECURSO VOLUNTÁRIO. DESCUMPRIMENTO DO DEVER DE ENVIAR OU PELO ENVIO INTEMPESTIVO DE INFORMAÇÕES PERIÓDICAS OU ADOÇÃO DE MEDIDAS NECESSÁRIAS… | crsfn-10372-100110-2021-39 | fichas/crsfn/2022-06.md |
+| RJ2018/325 | 2022-08-09 | condenacao | RECURSOS VOLUNTÁRIOS. MERCADO DE CAPITAIS. OFERTA PÚBLICA DE VENDA DE AÇÕES SEM O PRÉVIO REGISTRO OU DISPENSA DE REGISTRO PELA CVM. OFERTA… | crsfn-10372-100092-2021-95 | fichas/crsfn/2022-06.md |
+| 19957.007785/2019-99; RJ2019/5909 | 2022-08-09 | condenacao | RECURSO VOLUNTÁRIO. DESCUMPRIMENTO À LEI DAS ESTATAIS. ELEIÇÃO PARA CARGO DE DIRETOR PRESIDENTE E PRESIDENTE DO CONSELHO DE ADMINISTRAÇÃO… | crsfn-10372-100056-2021-21 | fichas/crsfn/2022-06.md |
+| 19957.011346/2018-08; RJ2018/9022 | 2022-08-09 | parcial | RECURSOS VOLUNTÁRIOS. MERCADO DE CAPITAIS. PARTICIPAÇÃO EM ASSEMBLEIAS GERAIS RESERVADAS A ACIONISTAS MINORITÁRIOS ORDINARISTAS E… | crsfn-10372-100049-2021-20 | fichas/crsfn/2022-06.md |
+| 19957.008986/2020-47; RJ2020/06345 | 2022-08-09 | parcial | RECURSO VOLUNTÁRIO. MERCADO DE CAPITAIS. FALTA DE DIVULGAÇÃO DE FATO RELEVANTE. VAZAMENTO DE INFORMAÇÃO. Materialidade comprovada. Ajuste… | crsfn-10372-100034-2022-42 | fichas/crsfn/2022-05.md |
+| 06/2012 | 2022-07-12 | outro | EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÃO E CONTRADIÇÃO. Argumentos não procedentes. Embargos rejeitados. | crsfn-10372-100268-2019-94-2 | fichas/crsfn/2022-05.md |
+| 19957.003798/2017-27; SP2017/316 | 2022-07-12 | condenacao | RECURSOS VOLUNTÁRIOS. MANIPULAÇÃO DE PREÇOS NO MERCADO DE VALORES MOBILIÁRIOS. CONTRATOS FUTUROS DE MILHO NO PERÍODO DE 02.04.2015 A… | crsfn-10372-100179-2020-81 | fichas/crsfn/2022-05.md |
+| 19957.005452/2016-82 | 2022-07-12 | condenacao | RECURSO VOLUNTÁRIO. MANIPULAÇÃO DE PREÇOS NO MERCADO DE VALORES MOBILIÁRIOS POR MEIO DA INSERÇÃO DE OFERTAS ARTIFICIAIS DE COMPRA E DE… | crsfn-10372-100175-2020-01 | fichas/crsfn/2022-05.md |
+| RJ2019/3348 | 2022-07-12 | parcial | RECURSOS VOLUNTÁRIOS. MERCADO DE VALORES MOBILIÁRIOS. ADMINISTRADORES DE COMPANHIA ABERTA. NÃO ELABORAÇÃO TEMPESTIVA E NÃO ENTREGA DE… | crsfn-10372-100073-2021-69 | fichas/crsfn/2022-05.md |
+| 19957.009864/2019-34; RJ2019/7806 | 2022-07-12 | condenacao | RECURSO VOLUNTÁRIO. MANIPULAÇÃO DE PREÇOS. PRÁTICA DE SPOOFING POR CONDUTA REITERADA E PRÁTICA SISTEMÁTICA IDENTIFICADA EM DIFERENTES… | crsfn-10372-100057-2021-76 | fichas/crsfn/2022-05.md |
+| RJ2018/4165 | 2022-07-12 | parcial | EMENTA: RECURSO VOLUNTÁRIO. MANIPULAÇÃO DE PREÇOS NO MERCADO DE VALORES MOBILIÁRIOS POR MEIO DA INSERÇÃO DE OFERTAS ARTIFICIAIS DE COMPRA E… | crsfn-10372-100033-2020-36 | fichas/crsfn/2022-05.md |
+| 17/2013 | 2022-06-07 | parcial | RECURSOS VOLUNTÁRIOS. MERCADO DE VALORES MOBILIÁRIOS. ATUAÇÃO COMO AGENTE AUTÔNOMO DE INVESTIMENTO SEM AUTORIZAÇÃO DA CVM. ADMINISTRAÇÃO… | crsfn-10372-100337-2019-60 | fichas/crsfn/2022-04.md |
+| 19957.009486/2017-27; RJ2017/4719 | 2022-06-07 | condenacao | RECURSOS VOLUNTÁRIOS. MERCADO DE CAPITAIS. GESTOR DE FUNDO DE INVESTIMENTO. DESCUMPRIMENTO DE REGRA PROIBITIVA DE AQUISIÇÃO DE AÇÕES EM… | crsfn-10372-100168-2021-82 | fichas/crsfn/2022-04.md |
+| 02/2013 | 2022-05-10 | outro | EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÃO E CONTRADIÇÃO NO ACÓRDÃO EMBARGADO. Situação não configurada. Inexistência de motivos a… | crsfn-10372-100247-2019-79 | fichas/crsfn/2022-04.md |
+| RJ2016/5160 | 2022-05-10 | outro | EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE INTIMAÇÃO POR ESCRITO PARA A APRESENTAÇÃO DE DEFESA ADMINISTRATIVA DOS ACUSADOS, INEXISTÊNCIA DE… | crsfn-10372-100224-2019-64 | fichas/crsfn/2022-04.md |
+| RJ2015/10020 | 2022-05-10 | parcial | RECURSOS VOLUNTÁRIOS. MERCADO DE VALORES MOBILIÁRIOS. OMISSÃO NA DEFESA DOS INTERESSES DA COMPANHIA. DESCUMPRIMENTO DO DEVER DE LEALDADE… | crsfn-10372-100115-2020-81 | fichas/crsfn/2022-04.md |
+| 07/2015 | 2022-05-10 | outro | EMBARGOS DE DECLARAÇÃO. Ausência de omissão ou contradição. Embargos de Declaração rejeitados. | crsfn-10372-100114-2020-36-2 | fichas/crsfn/2022-04.md |
+| 19957.000592/2019-15; RJ2019/958 | 2022-05-10 | condenacao | RECURSO VOLUNTÁRIO. PRÁTICA DE MANIPULAÇÃO DE PREÇOS NO MERCADO DE VALORES MOBILIÁRIOS POR MEIO DA CRIAÇÃO DE CAMADAS ARTIFICIAIS DE… | crsfn-10372-100011-2021-57 | fichas/crsfn/2022-04.md |
+| 19957.008401/2016-11; RJ2017/38 | 2022-05-10 | parcial | RECURSO VOLUNTÁRIO. MERCADO DE CAPITAIS. REALIZAÇÃO DE OFERTA PÚBLICA DE AÇÕES SEM O REGISTRO NA CVM. DESCUMPRIMENTO AO ARTIGO 19 DA LEI Nº… | crsfn-10372-100008-2021-33 | fichas/crsfn/2022-04.md |
+| RJ2014/578 | 2022-05-05 | outro | EMBARGOS DE DECLARAÇÃO. OMISSÃO REFERENTE À ANÁLISE DA LIQUIDAÇÃO DAS GARANTIAS. OMISSÃO REFERENTE À CONCLUSÃO SOBRE A MANIPULAÇÃO DE… | crsfn-10372-100245-2019-80-2 | fichas/crsfn/2022-04.md |
+| RJ2015/13326 | 2022-04-13 | outro | EMBARGOS DE DECLARAÇÃO. Alegação de omissões referentes à dosimetria da pena. Omissões não caracterizadas. Embargos rejeitados. | crsfn-edcl-10372-100334-2019-26 | fichas/crsfn/2022-04.md |
+| RJ2014/578 | 2022-04-13 | outro | EMBARGOS DE DECLARAÇÃO. Alegações sobre i) omissão referente à análise da liquidação das garantias; ii) omissão referente à conclusão sobre… | crsfn-edcl-10372-100245-2019-80 | fichas/crsfn/2022-04.md |
+| RJ2018/6282 | 2022-04-13 | outro | EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÕES E CONTRADIÇÕES REFERENTES AO RECONHECIMENTO DA INTEMPESTIVIDADE DO RECURSO. Não apontamento… | crsfn-edcl-10372-100107-2020-34 | fichas/crsfn/2022-03.md |
+| RJ2016/8143 | 2022-04-13 | outro | EMBARGOS DE DECLARAÇÃO. Alegação de omissão ou obscuridade referente a falta de fundamentação. Contradição referente a citação por edital… | crsfn-edcl-10372-100055-2020-04 | fichas/crsfn/2022-03.md |
+| RJ-2016-7192 | 2022-04-13 | condenacao | RECURSOS VOLUNTÁRIOS. MANIPULAÇÃO DE PREÇOS POR MEIO DA INSERÇÃO DE ORDENS ARTIFICIAIS DE COMPRA E VENDA (Spoofing). Infração ao inciso I… | crsfn-10372-100315-2018-19 | fichas/crsfn/2022-03.md |
+| 26/2010 | 2022-04-12 | outro | EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÃO REFERENTE A PEDIDOS DE DIMINUIÇÃO DE PENAS. NÃO CARACTERIZADA. Embargos rejeitados. | crsfn-edcl-10372 | fichas/crsfn/2022-03.md |
+| RJ-2017/565 | 2022-04-12 | outro | EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÕES REFERENTES A NÃO APRECIAÇÃO DAS RAZÕES DE RECURSO. CONTRADIÇÕES REFERENTES AOS LIMITES DO… | crsfn-edcl-10372-100106-2021-71 | fichas/crsfn/2022-03.md |
+| RJ2014/12081 | 2022-04-12 | parcial | RECURSOS VOLUNTÁRIOS. PRÁTICA DE OPERAÇÃO FRAUDULENTA NO MERCADO DE VALORES MOBILIÁRIOS. Falta com o dever de diligência. Falhas na… | crsfn-10372-100317-2019-99 | fichas/crsfn/2022-03.md |
+| RJ2014/3616 | 2022-04-12 | condenacao | RECURSOS VOLUNTÁRIOS. NEGOCIAÇÃO DE VALORES MOBILIÁRIOS DE POSSE DE INFORMAÇÕES RELEVANTES SOBRE A SOCIEDADE ANTES DA DIVULGAÇÃO AO… | crsfn-10372-100225-2019-17 | fichas/crsfn/2022-03.md |
+| SP2018/0538 | 2022-04-12 | extincao | RECURSO VOLUNTÁRIO. AUSÊNCIA DE REGRAS ADEQUADAS E EFICAZES PARA O CUMPRIMENTO DE NORMAS SOBRE AS OPERAÇÕES. AUSÊNCIA DE PROCEDIMENTOS E… | crsfn-10372-100106-2021-71 | fichas/crsfn/2022-02.md |
+| 09/2016 | 2022-04-12 | condenacao | RECURSO VOLUNTÁRIO. DESCUMPRIMENTO DOS DEVERES FIDUCIÁRIOS. Infração ao art. 155, caput, da Lei nº 6.404/76. Recurso conhecido e desprovido. | crsfn-10372-100095-2020-48 | fichas/crsfn/2022-02.md |
+| 19957.010904/2018-18; RJ2018/8378 | 2022-04-12 | condenacao | RECURSOS VOLUNTÁRIOS. DESCUMPRIMENTO DO DEVER DE DILIGÊNCIA POR PARTE DE ADMINISTRADORES DE COMPANHIA ABERTA. UTILIZAÇÃO DE BEM (AERONAVE)… | crsfn-10372-100055-2021-87 | fichas/crsfn/2022-02.md |
+| RJ2014/14161 | 2022-03-28 | outro | EMBARGOS DE DECLARAÇÃO. Reconhecimento da tempestividade. Obscuridades referentes à utilização de precedentes para a dosimetria não… | crsfn-edcl-10372-100231-2019-66 | fichas/crsfn/2022-02.md |
+| RJ2018/4328 | 2022-03-09 | condenacao | RECURSO VOLUNTÁRIO. Responsabilidade de Controlador Final e Presidente do Conselho de Administração da Pettenati S.A. Indústria Têxtil… | crsfn-10372-100329-2019-13 | fichas/crsfn/2022-02.md |
+| RJ2016/5733 | 2022-03-09 | parcial | RECURSOS VOLUNTÁRIOS. Falha no cumprimento do dever de informar. Infração ao disposto no art. 157, §4º, da Lei nº 6.404/1976, c/c com os… | crsfn-10372-100096-2020-92 | fichas/crsfn/2022-02.md |
+| RJ2014/4077 | 2022-02-09 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Recurso voluntário. Infrações na elaboração das demonstrações financeiras. Abuso de poder de controle… | crsfn-10372-100282-2019-98 | fichas/crsfn/2022-01.md |
+| RJ2014/4077 | 2022-02-09 | condenacao | RECURSOS VOLUNTÁRIOS. IRREGULARIDADES NA ELABORAÇÃO DAS DEMONSTRAÇÕES FINANCEIRAS. ABUSO DE PODER DE CONTROLE. Desvio de poder. Conflito de… | crsfn-10372-100282-2019-98-2 | fichas/crsfn/2022-02.md |
+| RJ2016/7162 | 2022-02-09 | condenacao | RECURSOS VOLUNTÁRIOS. Suspensão de negociação das ações de emissão de companhia. Omissão na adoção de medidas para atender o Regulamento… | crsfn-10372-100094-2020-01 | fichas/crsfn/2022-01.md |
+| RJ2016/4711 | 2022-02-08 | outro | EMBARGOS DE DECLARAÇÃO. Omissão quanto à aplicação do art. 123, parágrafo único, alínea "b" da Lei n° 6.404/76 não configurada. Contradição… | crsfn-edcl-10372-100048-2020-02 | fichas/crsfn/2022-01.md |
+| RJ2015/8673 | 2022-02-08 | outro | EMBARGOS DE DECLARAÇÃO. Obscuridade quanto ao fundamento da condenação não configurada. Omissão quanto ao argumento de desconhecimento do… | crsfn-edcl-10372-100037-2018-08 | fichas/crsfn/2022-01.md |
+| RJ2015/13093 | 2022-02-08 | condenacao | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Recurso voluntário. Auditoria independente. Cumprimento obrigatório das NBC-TA. Autoria e materialidade… | crsfn-10372-100283-2019-32 | fichas/crsfn/2022-01.md |
+| RJ2014/13977; 19957.001882/2020-10 | 2022-02-08 | parcial | RECURSOS VOLUNTÁRIOS. Fraude em operação de venda de controlada. Materialidade configurada. Parcial provimento aos recursos dos… | crsfn-10372-100171-2020-15 | fichas/crsfn/2022-01.md |
+| RJ2018/7396 | 2022-02-08 | parcial | RECURSOS VOLUNTÁRIOS. Não elaboração e apresentação à CVM de documentos informacionais (formulários cadastrais, demonstrações financeiras e… | crsfn-10372-100090-2021-04 | fichas/crsfn/2022-01.md |
 
 Fim do subíndice.

@@ -26,9 +26,9 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2011/4735 | 2012-03-06 | deferido | cvm-col-20120306-d19 | fichas/colegiado/2012-05.md |
 | decisao-colegiado | RJ2010/15144 | 2011-12-27 | nao-provido | cvm-col-20111227-d03 | fichas/colegiado/2011-29.md |
 | decisao-colegiado | RJ2007/5587 | 2007-05-29 | outro | cvm-col-20070529-d11 | fichas/colegiado/2007-08.md |
-| pas | 05/2004 | 2007-04-24 | absolvicao | cvm-pas-05-2004 | fichas/pas/2007-03.md |
+| pas | 05/2004 | 2007-04-24 | absolvicao | cvm-pas-05-2004 | fichas/pas/2007-05.md |
 | decisao-colegiado | 34/2006; RJ2006/7204; RJ2006/7213 | 2006-10-17 | outro | cvm-col-20061017-d04 | fichas/colegiado/2006-15.md |
-| pas | RJ2004/4627 | 2005-01-28 | condenacao | cvm-pas-rj2004-4627 | fichas/pas/2005-01.md |
+| pas | RJ2004/4627 | 2005-01-28 | condenacao | cvm-pas-rj2004-4627 | fichas/pas/2005-02.md |
 | decisao-colegiado | RJ2004/6333 | 2004-11-03 | parcial | cvm-col-20041103-d04 | fichas/colegiado/2004-13.md |
 | decisao-colegiado | RJ2004/6333 | 2004-10-25 | — | cvm-col-20041025-d09 | fichas/colegiado/2004-13.md |
 | decisao-colegiado | RJ2003/6134 | 2003-11-25 | indeferido | cvm-col-20031125-d03 | fichas/colegiado/2003-14.md |
@@ -36,7 +36,7 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2002/4151 | 2002-07-23 | indeferido | cvm-col-20020723-d04 | fichas/colegiado/2002-18.md |
 | decisao-colegiado | RJ2001/11663 | 2002-01-15 | provido | cvm-col-20020115-d05 | fichas/colegiado/2002-01.md |
 | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
-| pas | 05/1999 | 2000-11-23 | condenacao | cvm-pas-05-1999 | fichas/pas/2000-02.md |
+| pas | 05/1999 | 2000-11-23 | condenacao | cvm-pas-05-1999 | fichas/pas/2000-05.md |
 | decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
 
 Fim do subíndice.

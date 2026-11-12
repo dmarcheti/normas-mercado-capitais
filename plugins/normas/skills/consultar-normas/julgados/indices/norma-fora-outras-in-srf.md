@@ -30,7 +30,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 08/2001 | 2004-09-23 | condenacao | cvm-pas-08-2001 | fichas/pas/2004-06.md |
+| pas | 08/2001 | 2004-09-23 | condenacao | cvm-pas-08-2001 | fichas/pas/2004-11.md |
 
 ## in-srf-200
 
@@ -38,13 +38,13 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 18, § 6º | pas | 06/2012 | 2018-08-20 | parcial | cvm-pas-06-2012 | fichas/pas/2018-06.md |
+| art. 18, § 6º | pas | 06/2012 | 2018-08-20 | parcial | cvm-pas-06-2012 | fichas/pas/2018-13.md |
 
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 13/2005 | 2012-06-25 | parcial | cvm-pas-13-2005 | fichas/pas/2012-01.md |
+| pas | 13/2005 | 2012-06-25 | parcial | cvm-pas-13-2005 | fichas/pas/2012-02.md |
 | decisao-colegiado | RJ2002/7524; RJ2002/8433 | 2003-04-17 | provido | cvm-col-20030417-d04 | fichas/colegiado/2003-05.md |
 
 ## in-srf-600
@@ -53,7 +53,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 51 | acordao-crsfn | RJ-2008-11199 | 2014-08-26 | arquivamento | crsfn-12839 | fichas/crsfn/2014-04.md |
+| art. 51 | acordao-crsfn | RJ-2008-11199 | 2014-08-26 | arquivamento | crsfn-12839 | fichas/crsfn/2014-05.md |
 
 ## in-srf-834
 
@@ -61,6 +61,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2015/13127 | 2019-08-20 | condenacao | cvm-pas-rj2015-13127 | fichas/pas/2019-08.md |
+| pas | RJ2015/13127 | 2019-08-20 | condenacao | cvm-pas-rj2015-13127 | fichas/pas/2019-15.md |
 
 Fim do subíndice.

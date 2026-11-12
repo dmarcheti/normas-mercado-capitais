@@ -5,55 +5,55 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
-| Processo | Data | Resultado | Id | Ficha |
-|---|---|---|---|---|
-| 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-03.md |
-| 19957.015113/2026-86 | 2026-09-18 | indeferido | cvm-col-20260918-d3619 | fichas/colegiado/2026-03.md |
-| 19957.014651/2026-53; 19957.014659/2026-10 | 2026-09-11 | indeferido | cvm-col-20260911-d3611 | fichas/colegiado/2026-03.md |
-| 19957.002624/2026-38 | 2026-09-01 | deferido | cvm-col-20260901-d3607 | fichas/colegiado/2026-03.md |
-| 19957.003474/2025-07 | 2026-08-25 | parcial | cvm-col-20260825-d3540 | fichas/colegiado/2026-03.md |
-| 19957.018303/2025-74 | 2026-08-07 | outro | cvm-col-20260807-d3449 | fichas/colegiado/2026-03.md |
-| 19957.012499/2026-74 | 2026-07-28 | deferido | cvm-col-20260728-d3586 | fichas/colegiado/2026-03.md |
-| 19957.012301/2026-52 | 2026-07-24 | indeferido | cvm-col-20260724-d3583 | fichas/colegiado/2026-03.md |
-| 19957.009862/2026-74 | 2026-07-14 | provido | cvm-col-20260714-d3573 | fichas/colegiado/2026-03.md |
-| 19957.009170/2026-26 | 2026-07-03 | outro | cvm-col-20260703-d3565 | fichas/colegiado/2026-03.md |
-| 19957.005195/2025-70 | 2026-06-24 | nao-provido | cvm-col-20260624-d4-d3436 | fichas/colegiado/2026-03.md |
-| — | 2026-06-23 | outro | cvm-col-20260623-d5821 | fichas/colegiado/2026-03.md |
-| 19957.005079/2019-11 | 2026-06-23 | — | cvm-col-20260623-d1898 | fichas/colegiado/2026-03.md |
-| 24/2021; 19957.009053/2026-62 | 2026-05-20 | outro | cvm-col-20260520-d3537 | fichas/colegiado/2026-03.md |
-| 175/2022; 19957.006935/2025-95 | 2026-05-19 | deferido | cvm-col-20260519-d3539 | fichas/colegiado/2026-03.md |
-| 19957.002504/2023-98 | 2026-05-19 | outro | cvm-col-20260519-d2981 | fichas/colegiado/2026-02.md |
-| 19957.004762/2023-17 | 2026-05-19 | outro | cvm-col-20260519-d2916 | fichas/colegiado/2026-02.md |
-| 19957.008636/2026-76 | 2026-05-13 | outro | cvm-col-20260513-d3529 | fichas/colegiado/2026-02.md |
-| 19957.006569/2026-55 | 2026-05-12 | outro | cvm-col-20260512-d5821-item5 | fichas/colegiado/2026-02.md |
-| 19957.006569/2026-55 | 2026-05-12 | indeferido | cvm-col-20260512-d5821-item4 | fichas/colegiado/2026-02.md |
-| 19957.000492/2015-57 | 2026-05-12 | outro | cvm-col-20260512-d3101 | fichas/colegiado/2026-02.md |
-| 19957.008636/2026-76 | 2026-05-07 | outro | cvm-col-20260507-d3529 | fichas/colegiado/2026-02.md |
-| 19957.000952/2023-57 | 2026-05-06 | nao-provido | cvm-col-20260506-d3518 | fichas/colegiado/2026-02.md |
-| 19957.002560/2026-75 | 2026-05-06 | parcial | cvm-col-20260506-d3508 | fichas/colegiado/2026-02.md |
-| 19957.003100/2023-11 | 2026-05-06 | nao-provido | cvm-col-20260506-d3443 | fichas/colegiado/2026-02.md |
-| 19957.005195/2025-70 | 2026-05-06 | nao-provido | cvm-col-20260506-d3436 | fichas/colegiado/2026-02.md |
-| 19957.003711/2025-21 | 2026-05-06 | parcial | cvm-col-20260506-d3345 | fichas/colegiado/2026-02.md |
-| 19957.006217/2026-08 | 2026-04-28 | indeferido | cvm-col-20260428-d3526 | fichas/colegiado/2026-02.md |
-| 19957.006296/2026-49 | 2026-04-20 | indeferido | cvm-col-20260420-d3523 | fichas/colegiado/2026-02.md |
-| 19957.015252/2025-29 | 2026-04-01 | parcial | cvm-col-20260401-d3475 | fichas/colegiado/2026-02.md |
-| 19957.012701/2025-87 | 2026-03-27 | outro | cvm-col-20260327-d3504 | fichas/colegiado/2026-02.md |
-| 19957.015252/2025-29 | 2026-03-24 | — | cvm-col-20260324-d3475 | fichas/colegiado/2026-02.md |
-| 19957.003343/2025-11 | 2026-03-24 | parcial | cvm-col-20260324-d3438 | fichas/colegiado/2026-01.md |
-| 19957.003558/2025-32 | 2026-03-17 | deferido | cvm-col-20260317-d3506 | fichas/colegiado/2026-01.md |
-| 86/2022; 19957.002184/2025-38 | 2026-03-17 | provido | cvm-col-20260317-d3490 | fichas/colegiado/2026-01.md |
-| 19957.000700/2026-71 | 2026-03-17 | nao-provido | cvm-col-20260317-d3487 | fichas/colegiado/2026-01.md |
-| 19957.000702/2026-60 | 2026-03-17 | nao-provido | cvm-col-20260317-d3486 | fichas/colegiado/2026-01.md |
-| 19957.017372/2025-61 | 2026-03-17 | conhecimento | cvm-col-20260317-d3484 | fichas/colegiado/2026-01.md |
-| 19957.013002/2022-10 | 2026-03-17 | provido | cvm-col-20260317-d3474 | fichas/colegiado/2026-01.md |
-| 19957.008625/2024-24 | 2026-03-17 | — | cvm-col-20260317-d3422 | fichas/colegiado/2026-01.md |
-| 19957.016720/2025-82; 19957.016723/2025-16 | 2026-03-12 | outro | cvm-col-20260312-d3501-3502 | fichas/colegiado/2026-01.md |
-| 19957.008699/2025-41; 19957.012704/2025-11 | 2026-03-10 | deferido | cvm-col-20260310-d3492-3491 | fichas/colegiado/2026-01.md |
-| 19957.010660/2025-94 | 2026-03-10 | outro | cvm-col-20260310-d3448 | fichas/colegiado/2026-01.md |
-| 19957.002955/2026-78 | 2026-03-05 | outro | cvm-col-20260305-d3101 | fichas/colegiado/2026-01.md |
-| 19957.000628/2025-09 | 2026-03-03 | outro | cvm-col-20260303-d3479 | fichas/colegiado/2026-01.md |
-| 19957.012507/2025-00 | 2026-03-03 | nao-provido | cvm-col-20260303-d3457 | fichas/colegiado/2026-01.md |
-| 19957.012763/2025-99 | 2026-03-03 | nao-provido | cvm-col-20260303-d3456 | fichas/colegiado/2026-01.md |
-| 24/2021; 19957.009163/2025-43 | 2026-01-08 | outro | cvm-col-20260108-d3458 | fichas/colegiado/2026-01.md |
+| Processo | Data | Resultado | Ementa | Id | Ficha |
+|---|---|---|---|---|---|
+| 19957.015856/2026-56 | 2026-11-03 | indeferido | O Colegiado indeferiu pedidos de interrupção do prazo de convocação e de adiamento da AGE do Grupo Toky S.A. - Em Recuperação Judicial… | cvm-col-20261103-d3649 | fichas/colegiado/2026-03.md |
+| 19957.015113/2026-86 | 2026-09-18 | indeferido | O Colegiado, acompanhando a SEP, indeferiu, por unanimidade, pedidos intempestivos de acionistas de interrupção e adiamento do prazo de… | cvm-col-20260918-d3619 | fichas/colegiado/2026-03.md |
+| 19957.014651/2026-53; 19957.014659/2026-10 | 2026-09-11 | indeferido | Acompanhando a SEP, o Colegiado, por unanimidade, indeferiu pedidos de interrupção do prazo de convocação e de novo adiamento da AGE da… | cvm-col-20260911-d3611 | fichas/colegiado/2026-03.md |
+| 19957.002624/2026-38 | 2026-09-01 | deferido | O Colegiado, acompanhando a SMI, deferiu, por 12 meses, dispensas da RCVM 135 pedidas pela Balcão Agrícola do Brasil S.A.: independência do… | cvm-col-20260901-d3607 | fichas/colegiado/2026-03.md |
+| 19957.003474/2025-07 | 2026-08-25 | parcial | Por unanimidade, o Colegiado proveu recurso contra entendimento da SRE de não exigibilidade de OPA estatutária da Oncoclínicas, fixando… | cvm-col-20260825-d3540 | fichas/colegiado/2026-03.md |
+| 19957.018303/2025-74 | 2026-08-07 | outro | O Colegiado tomou conhecimento da atualização apresentada pela SEP e pela STI sobre a transferência do Sistema Empresas.Net da B3 para a… | cvm-col-20260807-d3449 | fichas/colegiado/2026-03.md |
+| 19957.012499/2026-74 | 2026-07-28 | deferido | Acompanhando a SEP, o Colegiado, por unanimidade, deferiu o adiamento da AGE da EMAE, convocada para 30.07.2026, por 30 dias após a entrega… | cvm-col-20260728-d3586 | fichas/colegiado/2026-03.md |
+| 19957.012301/2026-52 | 2026-07-24 | indeferido | O Colegiado, por unanimidade, acompanhando a SEP, indeferiu pedidos de interrupção e de adiamento do prazo de convocação da AGE da Toky… | cvm-col-20260724-d3583 | fichas/colegiado/2026-03.md |
+| 19957.009862/2026-74 | 2026-07-14 | provido | Por maioria, o Colegiado proveu recurso da Itaú Corretora e da Ecopetrol contra entendimento da SRE de que a OPA da Brava Energia feria o… | cvm-col-20260714-d3573 | fichas/colegiado/2026-03.md |
+| 19957.009170/2026-26 | 2026-07-03 | outro | O Colegiado aprovou, por unanimidade, a celebração de Acordo de Cooperação Técnica entre a CVM e a ANBIMA para manutenção evolutiva do… | cvm-col-20260703-d3565 | fichas/colegiado/2026-03.md |
+| 19957.005195/2025-70 | 2026-06-24 | nao-provido | O Colegiado, por unanimidade, acompanhando a área técnica, negou provimento a recurso de investigado contra decisão da SPS que concedeu… | cvm-col-20260624-d4-d3436 | fichas/colegiado/2026-03.md |
+| — | 2026-06-23 | outro | O Colegiado aprovou, por unanimidade e em reunião reservada, a realização de auditoria, no contexto da alteração do Plano Anual de… | cvm-col-20260623-d5821 | fichas/colegiado/2026-03.md |
+| 19957.005079/2019-11 | 2026-06-23 | — | Proposta de transferência da responsabilidade pelo Laboratório de Inovação Financeira (LAB) da SOI para a SDM, relatada pelo titular da… | cvm-col-20260623-d1898 | fichas/colegiado/2026-03.md |
+| 24/2021; 19957.009053/2026-62 | 2026-05-20 | outro | O Colegiado aprovou, por unanimidade, a Resolução CVM 243/2026, que altera o Regimento Interno (RCVM 24/2021) conforme minuta da área… | cvm-col-20260520-d3537 | fichas/colegiado/2026-03.md |
+| 175/2022; 19957.006935/2025-95 | 2026-05-19 | deferido | O Colegiado, acompanhando a SIN, concedeu dispensa do art. 52 do Anexo V da RCVM 175 a nove BDR-ETF lastreados em ETFs ativos da J.P… | cvm-col-20260519-d3539 | fichas/colegiado/2026-03.md |
+| 19957.002504/2023-98 | 2026-05-19 | outro | O Colegiado, por unanimidade, aprovou a proposta da SSR de encerrar o Acordo de Cooperação Técnica entre a CVM e o Município do Rio de… | cvm-col-20260519-d2981 | fichas/colegiado/2026-02.md |
+| 19957.004762/2023-17 | 2026-05-19 | outro | O Colegiado aprovou, por unanimidade, a proposta da SSR de encerrar o Acordo de Cooperação Técnica entre a CVM e o Instituto Brasileiro de… | cvm-col-20260519-d2916 | fichas/colegiado/2026-02.md |
+| 19957.008636/2026-76 | 2026-05-13 | outro | O Colegiado tomou ciência do andamento dos trabalhos do Comitê de Cumprimento da ADI 7.791, criado para coordenar a execução da cautelar de… | cvm-col-20260513-d3529 | fichas/colegiado/2026-02.md |
+| 19957.006569/2026-55 | 2026-05-12 | outro | O Colegiado, por unanimidade, recomendou à SOI revisar os procedimentos de atendimento de denúncias e reclamações junto à SGE; devolveu o… | cvm-col-20260512-d5821-item5 | fichas/colegiado/2026-02.md |
+| 19957.006569/2026-55 | 2026-05-12 | indeferido | O Colegiado, por unanimidade, indeferiu tratamento restrito (sigilo) à deliberação sobre a proposta de alteração do PAINT 2026, apresentada… | cvm-col-20260512-d5821-item4 | fichas/colegiado/2026-02.md |
+| 19957.000492/2015-57 | 2026-05-12 | outro | O Colegiado, por unanimidade, aprovou a lista de servidores da CVM (doc. 2705432) a ser indicada ao Ministro da Fazenda para a vaga na… | cvm-col-20260512-d3101 | fichas/colegiado/2026-02.md |
+| 19957.008636/2026-76 | 2026-05-07 | outro | O Colegiado instituiu o Comitê de Cumprimento da ADI 7.791 para coordenar a execução da cautelar do STF, que determinou planos de… | cvm-col-20260507-d3529 | fichas/colegiado/2026-02.md |
+| 19957.000952/2023-57 | 2026-05-06 | nao-provido | O Colegiado, por unanimidade, negou provimento a recurso, interposto em nome de associação de defesa do investidor, contra indeferimento… | cvm-col-20260506-d3518 | fichas/colegiado/2026-02.md |
+| 19957.002560/2026-75 | 2026-05-06 | parcial | O Colegiado, por maioria, deferiu parcialmente pedido da Inter & Co para descontinuar BDR Nível II Patrocinado: admitiu conversão em BDR… | cvm-col-20260506-d3508 | fichas/colegiado/2026-02.md |
+| 19957.003100/2023-11 | 2026-05-06 | nao-provido | O Colegiado, por unanimidade, acompanhando a área técnica, negou provimento a recurso contra decisão da SPS que concedeu acesso parcial a… | cvm-col-20260506-d3443 | fichas/colegiado/2026-02.md |
+| 19957.005195/2025-70 | 2026-05-06 | nao-provido | O Colegiado negou provimento, por unanimidade, a recurso contra decisão da SPS que deu acesso parcial a inquérito sobre operações com ações… | cvm-col-20260506-d3436 | fichas/colegiado/2026-02.md |
+| 19957.003711/2025-21 | 2026-05-06 | parcial | O Colegiado, por unanimidade, indeferiu o pedido da Usiminas de confidencialidade integral dos autos de sua consulta e deferiu o pedido… | cvm-col-20260506-d3345 | fichas/colegiado/2026-02.md |
+| 19957.006217/2026-08 | 2026-04-28 | indeferido | Pedido de adiamento de assembleia geral ordinária e extraordinária. Proc. 19957.006217/2026-08. | cvm-col-20260428-d3526 | fichas/colegiado/2026-02.md |
+| 19957.006296/2026-49 | 2026-04-20 | indeferido | O Colegiado, por maioria, conheceu e indeferiu pedido de adiamento da AGE do BRB - Banco de Brasília, marcada para 22.04.2026. Pelo voto… | cvm-col-20260420-d3523 | fichas/colegiado/2026-02.md |
+| 19957.015252/2025-29 | 2026-04-01 | parcial | O Colegiado, por maioria, deu provimento parcial a recurso e manteve o Ato Declaratório 24.680/2026 da SMI contra a Onil Exchange, por… | cvm-col-20260401-d3475 | fichas/colegiado/2026-02.md |
+| 19957.012701/2025-87 | 2026-03-27 | outro | O Colegiado aprovou, por unanimidade, a celebração de Acordo de Cooperação Técnica entre a CVM e o Ministério da Agricultura e Pecuária… | cvm-col-20260327-d3504 | fichas/colegiado/2026-02.md |
+| 19957.015252/2025-29 | 2026-03-24 | — | Recurso da Onil Exchange Internacional S.A. contra decisão da SMI sobre atuação irregular no mercado de valores mobiliários. O Colegiado… | cvm-col-20260324-d3475 | fichas/colegiado/2026-02.md |
+| 19957.003343/2025-11 | 2026-03-24 | parcial | O Colegiado conheceu de recurso contra o arquivamento, pela SEP, de reclamação sobre compra de ações da Alliança Saúde pela Braslight e… | cvm-col-20260324-d3438 | fichas/colegiado/2026-01.md |
+| 19957.003558/2025-32 | 2026-03-17 | deferido | O Colegiado, por unanimidade, deferiu pedido da SMI de prorrogação por três meses do prazo de análise do Processo 19957.003558/2025-32… | cvm-col-20260317-d3506 | fichas/colegiado/2026-01.md |
+| 86/2022; 19957.002184/2025-38 | 2026-03-17 | provido | O Colegiado, acompanhando a área técnica, deu provimento a recurso contra decisão da SRE e deferiu dilação de prazo para o Memorial de… | cvm-col-20260317-d3490 | fichas/colegiado/2026-01.md |
+| 19957.000700/2026-71 | 2026-03-17 | nao-provido | O Colegiado, por unanimidade, acompanhando a SEP, negou provimento a recurso contra o cancelamento de ofício do registro da Companhia de… | cvm-col-20260317-d3487 | fichas/colegiado/2026-01.md |
+| 19957.000702/2026-60 | 2026-03-17 | nao-provido | O Colegiado negou provimento, por unanimidade, a recurso contra cancelamento de ofício do registro da Springs Global Participações S.A… | cvm-col-20260317-d3486 | fichas/colegiado/2026-01.md |
+| 19957.017372/2025-61 | 2026-03-17 | conhecimento | O Colegiado, por unanimidade, não conheceu de recurso de investidor contra o arquivamento de reclamação sobre assessor de investimentos… | cvm-col-20260317-d3484 | fichas/colegiado/2026-01.md |
+| 19957.013002/2022-10 | 2026-03-17 | provido | Por unanimidade, o Colegiado conheceu e deu provimento a recurso contra arquivamento de processo administrativo envolvendo a CASAN (art… | cvm-col-20260317-d3474 | fichas/colegiado/2026-01.md |
+| 19957.008625/2024-24 | 2026-03-17 | — | Recurso contra decisão da SMI em processo de atuação irregular no mercado de valores mobiliários (IGM Forex Ltd.). O Colegiado iniciou a… | cvm-col-20260317-d3422 | fichas/colegiado/2026-01.md |
+| 19957.016720/2025-82; 19957.016723/2025-16 | 2026-03-12 | outro | O Colegiado aprovou, por unanimidade, a celebração de acordos de cooperação técnica entre a CVM e a B3 e entre a CVM e a BEE4, para… | cvm-col-20260312-d3501-3502 | fichas/colegiado/2026-01.md |
+| 19957.008699/2025-41; 19957.012704/2025-11 | 2026-03-10 | deferido | O Colegiado, por unanimidade, autorizou a BEE4 e a B3 a operacionalizar ofertas no Regime FÁCIL (RCVM 232/2025), nos termos dos Ofícios… | cvm-col-20260310-d3492-3491 | fichas/colegiado/2026-01.md |
+| 19957.010660/2025-94 | 2026-03-10 | outro | O Colegiado, por unanimidade, devolveu à SIN o processo de recurso contra indeferimento de credenciamento como administradora de carteiras… | cvm-col-20260310-d3448 | fichas/colegiado/2026-01.md |
+| 19957.002955/2026-78 | 2026-03-05 | outro | O Colegiado, por unanimidade, aprovou minuta que altera o Anexo I da RCVM 24/2021 (Regimento Interno) para permitir o sorteio de diretores… | cvm-col-20260305-d3101 | fichas/colegiado/2026-01.md |
+| 19957.000628/2025-09 | 2026-03-03 | outro | O Colegiado, por unanimidade, devolveu à SGE o processo sobre esclarecimento do alcance de decisão do Colegiado, para as providências… | cvm-col-20260303-d3479 | fichas/colegiado/2026-01.md |
+| 19957.012507/2025-00 | 2026-03-03 | nao-provido | O Colegiado, por unanimidade, negou provimento ao recurso da Orion Trust Administração e Gestão de Recursos Ltda. e manteve o cancelamento… | cvm-col-20260303-d3457 | fichas/colegiado/2026-01.md |
+| 19957.012763/2025-99 | 2026-03-03 | nao-provido | O Colegiado negou provimento, acompanhando a área técnica, a recurso contra cancelamento do credenciamento como administrador de carteiras… | cvm-col-20260303-d3456 | fichas/colegiado/2026-01.md |
+| 24/2021; 19957.009163/2025-43 | 2026-01-08 | outro | O Colegiado aprovou, por unanimidade, a Resolução CVM 239/2026, que altera o Regimento Interno (RCVM 24/2021) conforme minuta da área… | cvm-col-20260108-d3458 | fichas/colegiado/2026-01.md |
 
 Fim do subíndice.

@@ -12,7 +12,7 @@ Norma: fora do acervo.
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | decisao-colegiado | RJ2015/0191 | 2020-03-03 | nao-provido | cvm-col-20200303-d1732 | fichas/colegiado/2020-04.md |
-| pas | 07/2012 | 2017-03-07 | parcial | cvm-pas-07-2012 | fichas/pas/2017-01.md |
+| pas | 07/2012 | 2017-03-07 | parcial | cvm-pas-07-2012 | fichas/pas/2017-02.md |
 | decisao-colegiado | RJ2011/4464 | 2016-12-20 | provido | cvm-col-20161220-d0461 | fichas/colegiado/2016-24.md |
 | decisao-colegiado | RJ2011/3493 | 2016-06-21 | nao-provido | cvm-col-20160621-d8888 | fichas/colegiado/2016-13.md |
 | decisao-colegiado | RJ2011/4462 | 2016-06-21 | nao-provido | cvm-col-20160621-d0262 | fichas/colegiado/2016-12.md |

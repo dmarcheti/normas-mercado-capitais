@@ -46,7 +46,7 @@ Norma: fora do acervo.
 | art. 3º | decisao-colegiado | 02/2014; RJ2012/5550 | 2015-01-14 | outro | cvm-col-20150114-d4843 | fichas/colegiado/2015-02.md |
 | art. 3º | decisao-colegiado | RJ2015/8434 | 2017-04-18 | conhecimento | cvm-col-20170418-d9888 | fichas/colegiado/2017-08.md |
 | art. 3º | decisao-colegiado | 19957.005698/2016-54 | 2022-12-13 | nao-provido | cvm-col-20221213-d2729 | fichas/colegiado/2022-16.md |
-| art. 3º | pas | 19957.008895/2019-78; RJ2019/6858 | 2020-07-07 | condenacao | cvm-pas-19957-008895-2019-78 | fichas/pas/2020-03.md |
+| art. 3º | pas | 19957.008895/2019-78; RJ2019/6858 | 2020-07-07 | condenacao | cvm-pas-19957-008895-2019-78 | fichas/pas/2020-06.md |
 | art. 3º, § 1º | decisao-colegiado | RJ2012/3918 | 2012-08-21 | nao-provido | cvm-col-20120821-d12 | fichas/colegiado/2012-14.md |
 | art. 3º, § 1º | decisao-colegiado | RJ2015/8434 | 2017-04-18 | conhecimento | cvm-col-20170418-d9888 | fichas/colegiado/2017-08.md |
 

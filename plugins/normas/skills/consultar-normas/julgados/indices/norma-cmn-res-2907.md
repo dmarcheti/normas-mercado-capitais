@@ -17,9 +17,9 @@ Norma: [cmn/resolucoes/2907.md](../../normas/cmn/resolucoes/2907.md) (texto vige
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | RJ2014/12081 | 2022-04-12 | parcial | crsfn-10372-100317-2019-99 | fichas/crsfn/2022-02.md |
+| acordao-crsfn | RJ2014/12081 | 2022-04-12 | parcial | crsfn-10372-100317-2019-99 | fichas/crsfn/2022-03.md |
 | decisao-colegiado | 19957.005955/2019-09 | 2019-07-30 | indeferido | cvm-col-20190730-d1477 | fichas/colegiado/2019-11.md |
-| pas | RJ2014/12081 | 2019-06-18 | parcial | cvm-pas-rj2014-12081 | fichas/pas/2019-05.md |
+| pas | RJ2014/12081 | 2019-06-18 | parcial | cvm-pas-rj2014-12081 | fichas/pas/2019-08.md |
 | decisao-colegiado | 356/2001; RJ2015/2614 | 2015-05-26 | deferido | cvm-col-20150526-d9654 | fichas/colegiado/2015-08.md |
 | decisao-colegiado | RJ2005/2345 | 2006-02-21 | outro | cvm-col-20060221-d01 | fichas/colegiado/2006-03.md |
 | decisao-colegiado | RJ2003/5289 | 2003-06-25 | provido | cvm-col-20030625-d08 | fichas/colegiado/2003-09.md |

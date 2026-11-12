@@ -41,16 +41,16 @@ Norma: fora do acervo.
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 28 | acordao-crsfn | 04/2000 | 2015-07-28 | parcial | crsfn-7703 | fichas/crsfn/2015-04.md |
-| art. 28 | pas | 04/2000 | 2005-02-17 | parcial | cvm-pas-04-2000 | fichas/pas/2005-01.md |
+| art. 28 | pas | 04/2000 | 2005-02-17 | parcial | cvm-pas-04-2000 | fichas/pas/2005-02.md |
 
 ## Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 08/01 | 2007-08-30 | arquivamento | crsfn-6255 | fichas/crsfn/2007-01.md |
+| acordao-crsfn | 08/01 | 2007-08-30 | arquivamento | crsfn-6255 | fichas/crsfn/2007-02.md |
 | decisao-colegiado | RJ2005/0880 | 2005-05-31 | deferido | cvm-col-20050531-d02 | fichas/colegiado/2005-09.md |
-| pas | 08/2001 | 2004-09-23 | condenacao | cvm-pas-08-2001 | fichas/pas/2004-06.md |
-| pas | 35/1998 | 2000-09-21 | absolvicao | cvm-pas-35-1998 | fichas/pas/2000-02.md |
-| pas | 10/1999 | 2000-09-14 | parcial | cvm-pas-10-1999 | fichas/pas/2000-02.md |
+| pas | 08/2001 | 2004-09-23 | condenacao | cvm-pas-08-2001 | fichas/pas/2004-11.md |
+| pas | 35/1998 | 2000-09-21 | absolvicao | cvm-pas-35-1998 | fichas/pas/2000-03.md |
+| pas | 10/1999 | 2000-09-14 | parcial | cvm-pas-10-1999 | fichas/pas/2000-03.md |
 
 Fim do subíndice.

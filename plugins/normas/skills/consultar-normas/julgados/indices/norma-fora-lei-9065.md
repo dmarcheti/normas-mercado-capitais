@@ -11,7 +11,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 13 | acordao-crsfn | 19957.005174/2019-14 | 2024-07-16 | parcial | crsfn-10372-100089-2023-33 | fichas/crsfn/2024-04.md |
+| art. 13 | acordao-crsfn | 19957.005174/2019-14 | 2024-07-16 | parcial | crsfn-10372-100089-2023-33 | fichas/crsfn/2024-05.md |
 | art. 13 | decisao-colegiado | RJ2006/6903 | 2006-09-26 | outro | cvm-col-20060926-d02 | fichas/colegiado/2006-14.md |
 | art. 13 | decisao-colegiado | RJ2002/4458 | 2008-09-30 | nao-provido | cvm-col-20080930-d11 | fichas/colegiado/2008-21.md |
 | art. 13 | decisao-colegiado | RJ2007/2098 | 2008-09-30 | nao-provido | cvm-col-20080930-d12 | fichas/colegiado/2008-21.md |

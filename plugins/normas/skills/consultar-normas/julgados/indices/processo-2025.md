@@ -7,38 +7,38 @@ Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho rel
 
 Número normalizado: NUP `99999-999999-AAAA-DD`; processo antigo `rj2015-13791` (sigla em minúsculas, ano, número com 4 dígitos); numeração curta dos PAS `NN-AAAA`. Procure pelo número normalizado ou pela forma do julgado. Dois julgados do mesmo processo (um PAS e o termo de compromisso ou o acórdão do CRSFN dele) aparecem com o mesmo número.
 
-| Processo (normalizado) | Forma no julgado | Tipo | Data | Id | Ficha |
-|---|---|---|---|---|---|
-| 19957-000663-2025-10 | 19957.000663/2025-10; 19957-000663-2025-10 | termo-compromisso | 2025-10-07 | cvm-col-20251007-d3381 | fichas/tc/2025-04.md |
-| 19957-001044-2025-42 | 19957.001044/2025-42; 19957-001044-2025-42 | pas | 2026-07-14 | cvm-pas-19957-001044-2025-42 | fichas/pas/2026-01.md |
-| 19957-001045-2025-97 | 19957.001045/2025-97; 19957-001045-2025-97 | pas | 2026-05-12 | cvm-pas-19957-001045-2025-97 | fichas/pas/2026-01.md |
-| 19957-001169-2025-72 | 19957.001169/2025-72; 19957-001169-2025-72 | termo-compromisso | 2025-11-04 | cvm-col-20251104-d3410 | fichas/tc/2025-05.md |
-| 19957-001811-2025-13 | 19957.001811/2025-13; 19957-001811-2025-13 | termo-compromisso | 2026-02-03 | cvm-col-20260203-d3441 | fichas/tc/2026-01.md |
-| 19957-001811-2025-13 | 19957.001811/2025-13; 19957-001811-2025-13 | pas | 2026-09-08 | cvm-pas-19957-001811-2025-13 | fichas/pas/2026-02.md |
-| 19957-001815-2025-00 | 19957.001815/2025-00; 19957-001815-2025-00 | termo-compromisso | 2025-11-11 | cvm-col-20251111-d3415 | fichas/tc/2025-05.md |
-| 19957-002327-2025-10 | 19957.002327/2025-10; 19957-002327-2025-10 | termo-compromisso | 2026-03-31 | cvm-col-20260331-d3406 | fichas/tc/2026-01.md |
-| 19957-002610-2025-33 | 19957.002610/2025-33; 19957-002610-2025-33 | pas | 2026-08-25 | cvm-pas-19957-002610-2025-33 | fichas/pas/2026-02.md |
-| 19957-003043-2025-32 | 19957.003043/2025-32; 19957-003043-2025-32 | termo-compromisso | 2025-11-18 | cvm-col-20251118-d3420 | fichas/tc/2025-05.md |
-| 19957-003060-2025-70; 19957-014316-2024-93 | 19957.014316/2024-93; 19957.003060/2025-70; 19957-014316-2024-93 | termo-compromisso | 2025-07-22 | cvm-col-20250722-d3314 | fichas/tc/2025-03.md |
-| 19957-004424-2025-39 | 19957.004424/2025-39; 19957-004424-2025-39 | pas | 2025-12-09 | cvm-pas-19957-004424-2025-39 | fichas/pas/2025-05.md |
-| 19957-004453-2025-09 | 19957.004453/2025-09; 19957-004453-2025-09 | pas | 2026-10-21 | cvm-pas-19957-004453-2025-09 | fichas/pas/2026-03.md |
-| 19957-004558-2025-50 | 19957.004558/2025-50; 19957-004558-2025-50 | termo-compromisso | 2026-04-07 | cvm-col-20260407-d3472 | fichas/tc/2026-01.md |
-| 19957-005017-2025-49 | 19957.005017/2025-49; 19957-005017-2025-49 | pas | 2026-08-26 | cvm-pas-19957-005017-2025-49 | fichas/pas/2026-02.md |
-| 19957-005514-2025-47 | 19957.005514/2025-47; 19957-005514-2025-47 | pas | 2026-06-02 | cvm-pas-19957-005514-2025-47 | fichas/pas/2026-01.md |
-| 19957-005726-2025-24 | 19957.005726/2025-24; 19957-005726-2025-24 | pas | 2025-12-18 | cvm-pas-19957-005726-2025-24 | fichas/pas/2025-06.md |
-| 19957-005922-2025-07 | 19957.005922/2025-07; 19957-005922-2025-07 | termo-compromisso | 2026-05-19 | cvm-col-20260519-d3522 | fichas/tc/2026-01.md |
-| 19957-007592-2025-86 | 19957.007592/2025-86; 19957-007592-2025-86 | termo-compromisso | 2026-05-12 | cvm-col-20260512-d3528 | fichas/tc/2026-01.md |
-| 19957-007640-2025-36 | 19957.007640/2025-36; 19957-007640-2025-36 | termo-compromisso | 2025-12-16 | cvm-col-20251216-d3433 | fichas/tc/2025-05.md |
-| 19957-007774-2025-57 | 19957.007774/2025-57; 19957-007774-2025-57 | pas | 2026-05-26 | cvm-pas-19957-007774-2025-57 | fichas/pas/2026-01.md |
-| 19957-008202-2025-95 | 19957.008202/2025-95; 19957-008202-2025-95 | pas | 2026-10-21 | cvm-pas-19957-008202-2025-95 | fichas/pas/2026-03.md |
-| 19957-009587-2025-16 | 19957.009587/2025-16; 19957-009587-2025-16 | termo-compromisso | 2026-06-23 | cvm-col-20260623-d3553 | fichas/tc/2026-02.md |
-| 19957-009588-2025-52 | 19957.009588/2025-52; 19957-009588-2025-52 | termo-compromisso | 2026-04-07 | cvm-col-20260407-d3509 | fichas/tc/2026-01.md |
-| 19957-011123-2025-61 | 19957.011123/2025-61; 19957-011123-2025-61 | pas | 2026-06-02 | cvm-pas-19957-011123-2025-61 | fichas/pas/2026-01.md |
-| 19957-011231-2025-34 | 19957.011231/2025-34; 19957-011231-2025-34 | termo-compromisso | 2026-05-26 | cvm-col-20260526-d3543 | fichas/tc/2026-01.md |
-| 19957-011231-2025-34 | 19957.011231/2025-34; 19957-011231-2025-34 | pas | 2026-10-02 | cvm-pas-19957-011231-2025-34 | fichas/pas/2026-03.md |
-| 19957-011239-2025-09 | 19957.011239/2025-09; 19957-011239-2025-09 | termo-compromisso | 2026-05-19 | cvm-col-20260519-d3531 | fichas/tc/2026-01.md |
-| 19957-011252-2025-50 | 19957.011252/2025-50; 19957-011252-2025-50 | termo-compromisso | 2026-06-23 | cvm-col-20260623-d3533 | fichas/tc/2026-02.md |
-| 19957-011331-2025-61 | 19957.011331/2025-61; 19957-011331-2025-61 | pas | 2026-07-28 | cvm-pas-19957-011331-2025-61 | fichas/pas/2026-02.md |
-| 19957-013932-2025-16 | 19957.013932/2025-16; 19957-013932-2025-16 | pas | 2026-08-25 | cvm-pas-19957-013932-2025-16 | fichas/pas/2026-02.md |
+| Processo (normalizado) | Forma no julgado | Tipo | Data | Ementa | Id | Ficha |
+|---|---|---|---|---|---|---|
+| 19957-000663-2025-10 | 19957.000663/2025-10; 19957-000663-2025-10 | termo-compromisso | 2025-10-07 | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou proposta de termo de compromisso de um diretor da Vivara Participações S.A… | cvm-col-20251007-d3381 | fichas/tc/2025-04.md |
+| 19957-001044-2025-42 | 19957.001044/2025-42; 19957-001044-2025-42 | pas | 2026-07-14 | Apurar a responsabilidade de administradores da Ammo Varejo S.A. por deixarem de elaborar e enviar tempestivamente informações periódicas… | cvm-pas-19957-001044-2025-42 | fichas/pas/2026-02.md |
+| 19957-001045-2025-97 | 19957.001045/2025-97; 19957-001045-2025-97 | pas | 2026-05-12 | Apurar a responsabilidade de diretores da Companhia de Tecidos Norte de Minas – Coteminas Em Recuperação Judicial por infração ao art. 176… | cvm-pas-19957-001045-2025-97 | fichas/pas/2026-01.md |
+| 19957-001169-2025-72 | 19957.001169/2025-72; 19957-001169-2025-72 | termo-compromisso | 2025-11-04 | O Colegiado, por unanimidade, aceitou proposta de termo de compromisso de R$ 470.000,00 do DRI da Companhia Brasileira de Distribuição por… | cvm-col-20251104-d3410 | fichas/tc/2025-05.md |
+| 19957-001811-2025-13 | 19957.001811/2025-13; 19957-001811-2025-13 | termo-compromisso | 2026-02-03 | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou proposta de termo de compromisso de ex-diretora de relações com investidores… | cvm-col-20260203-d3441 | fichas/tc/2026-01.md |
+| 19957-001811-2025-13 | 19957.001811/2025-13; 19957-001811-2025-13 | pas | 2026-09-08 | Apurar a responsabilidade de [pessoa física], na qualidade de ex-Diretora de Relações com Investidores da Ybirá Capital S.A., por infração… | cvm-pas-19957-001811-2025-13 | fichas/pas/2026-04.md |
+| 19957-001815-2025-00 | 19957.001815/2025-00; 19957-001815-2025-00 | termo-compromisso | 2025-11-11 | O Colegiado aceitou, acompanhando o Comitê, proposta de termo de compromisso de R$ 330.000,00 à CVM, ajustada pelo Comitê a partir de R$… | cvm-col-20251111-d3415 | fichas/tc/2025-05.md |
+| 19957-002327-2025-10 | 19957.002327/2025-10; 19957-002327-2025-10 | termo-compromisso | 2026-03-31 | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou quatro propostas de termo de compromisso de administradores da Auzza… | cvm-col-20260331-d3406 | fichas/tc/2026-01.md |
+| 19957-002610-2025-33 | 19957.002610/2025-33; 19957-002610-2025-33 | pas | 2026-08-25 | Apurar o suposto exercício irregular da atividade de administração de carteira de valores mobiliários, em infração ao art. 2º da Resolução… | cvm-pas-19957-002610-2025-33 | fichas/pas/2026-03.md |
+| 19957-003043-2025-32 | 19957.003043/2025-32; 19957-003043-2025-32 | termo-compromisso | 2025-11-18 | O Colegiado aceitou, por unanimidade, a proposta de termo de compromisso do diretor de relações com investidores da Zamp S.A., por suposta… | cvm-col-20251118-d3420 | fichas/tc/2025-05.md |
+| 19957-003060-2025-70; 19957-014316-2024-93 | 19957.014316/2024-93; 19957.003060/2025-70; 19957-014316-2024-93 | termo-compromisso | 2025-07-22 | O Colegiado aceitou proposta de termo de compromisso de firma de auditoria independente por descumprimento, em tese, do Programa de… | cvm-col-20250722-d3314 | fichas/tc/2025-03.md |
+| 19957-004424-2025-39 | 19957.004424/2025-39; 19957-004424-2025-39 | pas | 2025-12-09 | Apurar responsabilidade de diretor da Eternit S.A. por suposta violação ao art. 4º, §1º, da Resolução CVM nº 77/2022 no contexto de… | cvm-pas-19957-004424-2025-39 | fichas/pas/2025-10.md |
+| 19957-004453-2025-09 | 19957.004453/2025-09; 19957-004453-2025-09 | pas | 2026-10-21 | PAS de rito simplificado por administração profissional de carteira sem autorização (art. 23 da Lei 6.385/1976; art. 2º da Resolução CVM… | cvm-pas-19957-004453-2025-09 | fichas/pas/2026-05.md |
+| 19957-004558-2025-50 | 19957.004558/2025-50; 19957-004558-2025-50 | termo-compromisso | 2026-04-07 | O Colegiado, por unanimidade, devolveu o processo ao Comitê de Termo de Compromisso, para diligências junto à SIN sobre suposto ganho… | cvm-col-20260407-d3472 | fichas/tc/2026-01.md |
+| 19957-005017-2025-49 | 19957.005017/2025-49; 19957-005017-2025-49 | pas | 2026-08-26 | PAS sobre desenquadramento da carteira do OABPrev-RJ Multimercado Previdência FI (arts. 92, I, e 104, §2º, da Instrução CVM 555/2014). A… | cvm-pas-19957-005017-2025-49 | fichas/pas/2026-04.md |
+| 19957-005514-2025-47 | 19957.005514/2025-47; 19957-005514-2025-47 | pas | 2026-06-02 | Apurar o suposto exercício irregular da atividade de administração de carteira de valores mobiliários, em infração ao art. 2º da Resolução… | cvm-pas-19957-005514-2025-47 | fichas/pas/2026-01.md |
+| 19957-005726-2025-24 | 19957.005726/2025-24; 19957-005726-2025-24 | pas | 2025-12-18 | Apurar infração ao art. 19 da Lei nº 6.385/76, por suposta oferta irregular de valores mobiliários. Absolvição | cvm-pas-19957-005726-2025-24 | fichas/pas/2025-12.md |
+| 19957-005922-2025-07 | 19957.005922/2025-07; 19957-005922-2025-07 | termo-compromisso | 2026-05-19 | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou proposta conjunta de termo de compromisso da ofertante e de dois… | cvm-col-20260519-d3522 | fichas/tc/2026-01.md |
+| 19957-007592-2025-86 | 19957.007592/2025-86; 19957-007592-2025-86 | termo-compromisso | 2026-05-12 | O Colegiado aceitou, por unanimidade, a proposta de termo de compromisso de gestor de FIA acusado, em tese, de operações fraudulentas (art… | cvm-col-20260512-d3528 | fichas/tc/2026-01.md |
+| 19957-007640-2025-36 | 19957.007640/2025-36; 19957-007640-2025-36 | termo-compromisso | 2025-12-16 | O Colegiado, por unanimidade, aceitou proposta de termo de compromisso de R$ 400.000,00 do diretor de relações com investidores da… | cvm-col-20251216-d3433 | fichas/tc/2025-05.md |
+| 19957-007774-2025-57 | 19957.007774/2025-57; 19957-007774-2025-57 | pas | 2026-05-26 | Apurar o suposto exercício irregular da atividade de administração de carteira de valores mobiliários, em infração ao art. 2º da Resolução… | cvm-pas-19957-007774-2025-57 | fichas/pas/2026-01.md |
+| 19957-008202-2025-95 | 19957.008202/2025-95; 19957-008202-2025-95 | pas | 2026-10-21 | PAS contra a KPMG Auditores Independentes Ltda. por prestar auditoria aos fundos BB Joatinga e Opus One por mais de cinco exercícios… | cvm-pas-19957-008202-2025-95 | fichas/pas/2026-06.md |
+| 19957-009587-2025-16 | 19957.009587/2025-16; 19957-009587-2025-16 | termo-compromisso | 2026-06-23 | O Colegiado aceitou proposta conjunta de dois diretores da Braskem, nos termos ajustados pelo Comitê: R$ 510.000,00 e R$ 255.000,00… | cvm-col-20260623-d3553 | fichas/tc/2026-02.md |
+| 19957-009588-2025-52 | 19957.009588/2025-52; 19957-009588-2025-52 | termo-compromisso | 2026-04-07 | O Colegiado, por unanimidade, aceitou proposta de termo de compromisso de R$ 340.000,00 do DRI da Unipar Carbocloro S.A. por suposto lapso… | cvm-col-20260407-d3509 | fichas/tc/2026-01.md |
+| 19957-011123-2025-61 | 19957.011123/2025-61; 19957-011123-2025-61 | pas | 2026-06-02 | Apurar o descumprimento, pelos administradores da TBM-Têxtil [pessoa física] S.A., das obrigações de elaboração e envio de informações… | cvm-pas-19957-011123-2025-61 | fichas/pas/2026-01.md |
+| 19957-011231-2025-34 | 19957.011231/2025-34; 19957-011231-2025-34 | termo-compromisso | 2026-05-26 | O Colegiado, acompanhando o Comitê, rejeitou proposta conjunta de termo de compromisso de dois diretores (R$ 150.000,00 cada) em PAS por… | cvm-col-20260526-d3543 | fichas/tc/2026-01.md |
+| 19957-011231-2025-34 | 19957.011231/2025-34; 19957-011231-2025-34 | pas | 2026-10-02 | PAS, rito simplificado, contra diretores de companhia aberta por não elaborar as demonstrações financeiras de 2024 e os ITR de 1º e 2º… | cvm-pas-19957-011231-2025-34 | fichas/pas/2026-05.md |
+| 19957-011239-2025-09 | 19957.011239/2025-09; 19957-011239-2025-09 | termo-compromisso | 2026-05-19 | O Colegiado, acompanhando o Comitê, rejeitou proposta de termo de compromisso de um emissor de ordens em opções: R$ 198.000,00 em 66… | cvm-col-20260519-d3531 | fichas/tc/2026-01.md |
+| 19957-011252-2025-50 | 19957.011252/2025-50; 19957-011252-2025-50 | termo-compromisso | 2026-06-23 | O Colegiado, acompanhando o Comitê, rejeitou proposta de termo de compromisso de R$ 150.000,00 apresentada pela diretora financeira de uma… | cvm-col-20260623-d3533 | fichas/tc/2026-02.md |
+| 19957-011331-2025-61 | 19957.011331/2025-61; 19957-011331-2025-61 | pas | 2026-07-28 | Apurar a responsabilidade de assessor de investimento em razão da utilização de senhas e logins de clientes para a realização de operações… | cvm-pas-19957-011331-2025-61 | fichas/pas/2026-03.md |
+| 19957-013932-2025-16 | 19957.013932/2025-16; 19957-013932-2025-16 | pas | 2026-08-25 | Apurar a responsabilidade da Infinite Trade LLC pela realização de oferta pública de valores mobiliários sem o devido registro na CVM, em… | cvm-pas-19957-013932-2025-16 | fichas/pas/2026-03.md |
 
 Fim do subíndice.

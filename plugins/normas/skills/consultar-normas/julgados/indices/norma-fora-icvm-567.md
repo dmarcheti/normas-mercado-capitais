@@ -96,7 +96,7 @@ Norma: fora do acervo.
 | art. 8º | decisao-colegiado | 19957.002884/2020-18 | 2020-11-10 | outro | cvm-col-20201110-d1959 | fichas/colegiado/2020-18.md |
 | art. 8º | termo-compromisso | 19957.003801/2018-93 | 2021-02-09 | outro | cvm-col-20210209-d2058 | fichas/tc/2021-01.md |
 | art. 8º | termo-compromisso | 19957.003801/2018-93 | 2021-06-08 | aceito | cvm-col-20210608-d2058 | fichas/tc/2021-04.md |
-| art. 8º | pas | 19957.007285/2022-52 | 2024-08-20 | absolvicao | cvm-pas-19957-007285-2022-52 | fichas/pas/2024-06.md |
+| art. 8º | pas | 19957.007285/2022-52 | 2024-08-20 | absolvicao | cvm-pas-19957-007285-2022-52 | fichas/pas/2024-12.md |
 
 ## art. 9º
 
@@ -108,19 +108,19 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 10 | pas | RJ2018/4585 | 2019-11-26 | absolvicao | cvm-pas-rj2018-4585 | fichas/pas/2019-11.md |
+| art. 10 | pas | RJ2018/4585 | 2019-11-26 | absolvicao | cvm-pas-rj2018-4585 | fichas/pas/2019-20.md |
 
 ## art. 11
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 11 | acordao-crsfn | 19957.007727/2018-84 | 2025-05-14 | absolvicao | crsfn-10372-000162-2024-59 | fichas/crsfn/2025-02.md |
+| art. 11 | acordao-crsfn | 19957.007727/2018-84 | 2025-05-14 | absolvicao | crsfn-10372-000162-2024-59 | fichas/crsfn/2025-03.md |
 | art. 11 | decisao-colegiado | 567/2015; RJ2015/12631 | 2015-12-11 | indeferido | cvm-col-20151211-d9988 | fichas/colegiado/2015-24.md |
 | art. 11, inciso I | decisao-colegiado | RJ2015/10637 | 2015-10-27 | parcial | cvm-col-20151027-d9906 | fichas/colegiado/2015-20.md |
 | art. 11, inciso I | decisao-colegiado | 567/2015; RJ2015/12631 | 2015-12-11 | indeferido | cvm-col-20151211-d9988 | fichas/colegiado/2015-24.md |
-| art. 11, inciso I | pas | 19957.005390/2017-90 | 2023-10-31 | parcial | cvm-pas-19957-005390-2017-90 | fichas/pas/2023-07.md |
+| art. 11, inciso I | pas | 19957.005390/2017-90 | 2023-10-31 | parcial | cvm-pas-19957-005390-2017-90 | fichas/pas/2023-13.md |
 | art. 11, inciso II | decisao-colegiado | 567/2015; RJ2015/12631 | 2015-12-11 | indeferido | cvm-col-20151211-d9988 | fichas/colegiado/2015-24.md |
-| art. 11, inciso II | pas | 19957.005390/2017-90 | 2023-10-31 | parcial | cvm-pas-19957-005390-2017-90 | fichas/pas/2023-07.md |
+| art. 11, inciso II | pas | 19957.005390/2017-90 | 2023-10-31 | parcial | cvm-pas-19957-005390-2017-90 | fichas/pas/2023-13.md |
 | art. 11, inciso III | decisao-colegiado | 567/2015; RJ2015/12631 | 2015-12-11 | indeferido | cvm-col-20151211-d9988 | fichas/colegiado/2015-24.md |
 
 ## art. 12
@@ -155,11 +155,11 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.003612/2020-35 | 2026-07-28 | absolvicao | cvm-pas-19957-003612-2020-35 | fichas/pas/2026-01.md |
+| pas | 19957.003612/2020-35 | 2026-07-28 | absolvicao | cvm-pas-19957-003612-2020-35 | fichas/pas/2026-02.md |
 | termo-compromisso | 19957.003748/2021-26 | 2025-09-16 | aceito | cvm-col-20250916-d3051 | fichas/tc/2025-04.md |
 | decisao-colegiado | 19957.001763/2025-63 | 2025-04-15 | deferido | cvm-col-20250415-d3263 | fichas/colegiado/2025-04.md |
 | termo-compromisso | 19957.003748/2021-26 | 2024-10-15 | rejeitado | cvm-col-20241015-d3051 | fichas/tc/2024-06.md |
-| pas | 19957.007727/2018-84 | 2024-05-28 | — | cvm-pas-19957-007727-2018-84 | fichas/pas/2024-03.md |
+| pas | 19957.007727/2018-84 | 2024-05-28 | — | cvm-pas-19957-007727-2018-84 | fichas/pas/2024-06.md |
 | decisao-colegiado | 19957.008806/2020-27 | 2021-02-02 | outro | cvm-col-20210202-d2047 | fichas/colegiado/2021-02.md |
 | decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
 | decisao-colegiado | 19957.007396/2017-00 | 2019-08-27 | provido | cvm-col-20190827-d1052 | fichas/colegiado/2019-13.md |

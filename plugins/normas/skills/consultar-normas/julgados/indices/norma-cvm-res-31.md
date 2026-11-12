@@ -186,7 +186,7 @@ Norma: [cvm/resolucoes/0031.md](../../normas/cvm/resolucoes/0031.md) (texto vige
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.001044/2025-42 | 2026-07-14 | parcial | cvm-pas-19957-001044-2025-42 | fichas/pas/2026-01.md |
+| pas | 19957.001044/2025-42 | 2026-07-14 | parcial | cvm-pas-19957-001044-2025-42 | fichas/pas/2026-02.md |
 | decisao-colegiado | 19957.015727/2022-34 | 2025-12-02 | deferido | cvm-col-20251202-d3332 | fichas/colegiado/2025-11.md |
 | decisao-colegiado | 19957.011117/2024-23; 19957.011105/2024-07 | 2025-08-26 | deferido | cvm-col-20250826-d3215-3243 | fichas/colegiado/2025-08.md |
 | decisao-colegiado | 19957.002090/2023-05 | 2025-05-06 | nao-provido | cvm-col-20250506-d3242 | fichas/colegiado/2025-04.md |

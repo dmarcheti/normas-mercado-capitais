@@ -20,13 +20,13 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|
 | art. 3º | acordao-crsfn | RJ-2005-33 | 2009-05-12 | parcial | crsfn-9606 | fichas/crsfn/2009-03.md |
 | art. 3º | decisao-colegiado | RJ2005/9327 | 2006-10-24 | nao-provido | cvm-col-20061024-d09 | fichas/colegiado/2006-16.md |
-| art. 3º | pas | RJ2005/033 | 2005-10-05 | parcial | cvm-pas-rj2005-0033 | fichas/pas/2005-06.md |
+| art. 3º | pas | RJ2005/033 | 2005-10-05 | parcial | cvm-pas-rj2005-0033 | fichas/pas/2005-13.md |
 
 ## art. 4º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 4º | pas | RJ2005/033 | 2005-10-05 | parcial | cvm-pas-rj2005-0033 | fichas/pas/2005-06.md |
+| art. 4º | pas | RJ2005/033 | 2005-10-05 | parcial | cvm-pas-rj2005-0033 | fichas/pas/2005-13.md |
 
 ## Citada sem dispositivo identificado
 

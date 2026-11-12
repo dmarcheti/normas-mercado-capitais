@@ -17,14 +17,14 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.001921/2020-71 | 2022-11-08 | parcial | cvm-pas-19957-001921-2020-71 | fichas/pas/2022-05.md |
+| pas | 19957.001921/2020-71 | 2022-11-08 | parcial | cvm-pas-19957-001921-2020-71 | fichas/pas/2022-11.md |
 | decisao-colegiado | 19957.008134/2021-31 | 2022-02-15 | parcial | cvm-col-20220215-d2474 | fichas/colegiado/2022-02.md |
-| acordao-crsfn | RJ2013-2759 | 2021-06-14 | parcial | crsfn-10372-100291-2018-06 | fichas/crsfn/2021-01.md |
-| pas | RJ2017/0136 | 2019-11-12 | condenacao | cvm-pas-rj2017-0136 | fichas/pas/2019-10.md |
-| pas | RJ2015/13127 | 2019-08-20 | condenacao | cvm-pas-rj2015-13127 | fichas/pas/2019-08.md |
-| pas | 03/2011 | 2019-07-02 | parcial | cvm-pas-03-2011 | fichas/pas/2019-06.md |
-| pas | RJ2013/2759 | 2018-02-20 | parcial | cvm-pas-rj2013-2759 | fichas/pas/2018-01.md |
-| pas | RJ2014/918 | 2014-11-04 | parcial | cvm-pas-rj2014-0918 | fichas/pas/2014-04.md |
+| acordao-crsfn | RJ2013-2759 | 2021-06-14 | parcial | crsfn-10372-100291-2018-06 | fichas/crsfn/2021-02.md |
+| pas | RJ2017/0136 | 2019-11-12 | condenacao | cvm-pas-rj2017-0136 | fichas/pas/2019-19.md |
+| pas | RJ2015/13127 | 2019-08-20 | condenacao | cvm-pas-rj2015-13127 | fichas/pas/2019-15.md |
+| pas | 03/2011 | 2019-07-02 | parcial | cvm-pas-03-2011 | fichas/pas/2019-11.md |
+| pas | RJ2013/2759 | 2018-02-20 | parcial | cvm-pas-rj2013-2759 | fichas/pas/2018-02.md |
+| pas | RJ2014/918 | 2014-11-04 | parcial | cvm-pas-rj2014-0918 | fichas/pas/2014-09.md |
 | termo-compromisso | RJ2013/0144 | 2013-10-22 | aceito | cvm-col-20131022-d04 | fichas/tc/2013-04.md |
 | decisao-colegiado | RJ2009/10850 | 2011-11-16 | nao-provido | cvm-col-20111116-d04 | fichas/colegiado/2011-25.md |
 | decisao-colegiado | RJ2009/0981 | 2010-04-20 | nao-provido | cvm-col-20100420-d09 | fichas/colegiado/2010-11.md |

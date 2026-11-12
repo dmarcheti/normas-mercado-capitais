@@ -68,8 +68,8 @@ Norma: [leis/lei-12431.md](../../normas/leis/lei-12431.md) (texto vigente hoje; 
 | decisao-colegiado | 19957.004385/2019-21 | 2019-11-05 | outro | cvm-col-20191105-d1389 | fichas/colegiado/2019-17.md |
 | decisao-colegiado | 19957.000893/2019-31 | 2019-10-15 | nao-provido | cvm-col-20191015-d1573 | fichas/colegiado/2019-16.md |
 | decisao-colegiado | SP2016/0245 | 2019-02-26 | conhecimento | cvm-col-20190226-d1234 | fichas/colegiado/2019-03.md |
-| pas | RJ2014/7351 | 2018-12-18 | condenacao | cvm-pas-rj2014-7351 | fichas/pas/2018-12.md |
-| pas | RJ2014/591 | 2016-09-27 | parcial | cvm-pas-rj2014-0591 | fichas/pas/2016-04.md |
+| pas | RJ2014/7351 | 2018-12-18 | condenacao | cvm-pas-rj2014-7351 | fichas/pas/2018-23.md |
+| pas | RJ2014/591 | 2016-09-27 | parcial | cvm-pas-rj2014-0591 | fichas/pas/2016-07.md |
 | decisao-colegiado | RJ2012/12177 | 2013-06-13 | outro | cvm-col-20130613-d02 | fichas/colegiado/2013-12.md |
 | decisao-colegiado | SP2011/0304 | 2012-02-16 | nao-provido | cvm-col-20120216-d03 | fichas/colegiado/2012-03.md |
 | decisao-colegiado | 13/2011; RJ2011/7434 | 2012-01-18 | outro | cvm-col-20120118-d01 | fichas/colegiado/2012-01.md |

@@ -331,7 +331,7 @@ Este subíndice tem 505 linhas e uma leitura única é cortada em silêncio pert
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 19957.001933/2021-86 | 2026-07-14 | parcial | crsfn-19957-001933-2021-86 | fichas/crsfn/2026-02.md |
+| acordao-crsfn | 19957.001933/2021-86 | 2026-07-14 | parcial | crsfn-19957-001933-2021-86 | fichas/crsfn/2026-03.md |
 | decisao-colegiado | 19957.004390/2024-00 | 2024-06-04 | parcial | cvm-col-20240604-d3072 | fichas/colegiado/2024-06.md |
 | decisao-colegiado | 19957.005279/2020-07 | 2022-12-13 | nao-provido | cvm-col-20221213-d2730 | fichas/colegiado/2022-17.md |
 | decisao-colegiado | 54/2021; 19957.009953/2021-03 | 2022-10-25 | outro | cvm-col-20221025-d2708 | fichas/colegiado/2022-14.md |
@@ -466,7 +466,7 @@ Este subíndice tem 505 linhas e uma leitura única é cortada em silêncio pert
 | termo-compromisso | RJ2007/1854 | 2008-06-10 | aceito | cvm-col-20080610-d01 | fichas/tc/2008-04.md |
 | decisao-colegiado | RJ2008/726 | 2008-05-13 | parcial | cvm-col-20080513-d01 | fichas/colegiado/2008-10.md |
 | termo-compromisso | RJ2007/1854 | 2007-11-13 | rejeitado | cvm-col-20071113-d06 | fichas/tc/2007-06.md |
-| pas | 05/2004 | 2007-04-24 | absolvicao | cvm-pas-05-2004 | fichas/pas/2007-03.md |
+| pas | 05/2004 | 2007-04-24 | absolvicao | cvm-pas-05-2004 | fichas/pas/2007-05.md |
 | decisao-colegiado | RJ2006/8815 | 2007-04-03 | deferido | cvm-col-20070403-d03 | fichas/colegiado/2007-05.md |
 | decisao-colegiado | RJ2007/1087 | 2007-02-26 | deferido | cvm-col-20070226-d10 | fichas/colegiado/2007-03.md |
 | decisao-colegiado | RJ2006/8965 | 2007-02-26 | provido | cvm-col-20070226-d05 | fichas/colegiado/2007-03.md |
@@ -486,8 +486,8 @@ Este subíndice tem 505 linhas e uma leitura única é cortada em silêncio pert
 | decisao-colegiado | RJ2006/1847 | 2006-09-19 | indeferido | cvm-col-20060919-d02 | fichas/colegiado/2006-14.md |
 | decisao-colegiado | RJ2006/0031 | 2006-05-23 | nao-provido | cvm-col-20060523-d04 | fichas/colegiado/2006-08.md |
 | decisao-colegiado | RJ2006/0031 | 2006-03-28 | outro | cvm-col-20060328-d02 | fichas/colegiado/2006-05.md |
-| pas | 06/2002 | 2005-11-16 | parcial | cvm-pas-06-2002 | fichas/pas/2005-08.md |
-| pas | RJ2005/4215 | 2005-11-03 | absolvicao | cvm-pas-rj2005-4215 | fichas/pas/2005-07.md |
+| pas | 06/2002 | 2005-11-16 | parcial | cvm-pas-06-2002 | fichas/pas/2005-16.md |
+| pas | RJ2005/4215 | 2005-11-03 | absolvicao | cvm-pas-rj2005-4215 | fichas/pas/2005-14.md |
 | decisao-colegiado | RJ2005/2670 | 2005-08-23 | deferido | cvm-col-20050823-d05 | fichas/colegiado/2005-12.md |
 | decisao-colegiado | RJ2004/5368 | 2004-10-05 | parcial | cvm-col-20041005-d04 | fichas/colegiado/2004-12.md |
 | decisao-colegiado | RJ99/2838 | 2004-08-24 | nao-provido | cvm-col-20040824-d03 | fichas/colegiado/2004-10.md |

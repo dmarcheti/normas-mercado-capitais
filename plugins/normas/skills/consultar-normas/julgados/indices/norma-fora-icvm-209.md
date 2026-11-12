@@ -14,7 +14,7 @@ Norma: fora do acervo.
 | art. 1º | decisao-colegiado | RJ2005/2345 | 2006-02-21 | outro | cvm-col-20060221-d01 | fichas/colegiado/2006-03.md |
 | art. 1º | decisao-colegiado | RJ2005/8524 | 2006-11-13 | deferido | cvm-col-20061113-d04 | fichas/colegiado/2006-17.md |
 | art. 1º | decisao-colegiado | RJ2008/12041 | 2011-12-06 | deferido | cvm-col-20111206-d09 | fichas/colegiado/2011-28.md |
-| art. 1º | pas | RJ2002/6982 | 2003-12-18 | absolvicao | cvm-pas-rj2002-6982 | fichas/pas/2003-05.md |
+| art. 1º | pas | RJ2002/6982 | 2003-12-18 | absolvicao | cvm-pas-rj2002-6982 | fichas/pas/2003-10.md |
 | art. 1º, § 1º | decisao-colegiado | RJ2008/12041 | 2011-12-06 | deferido | cvm-col-20111206-d09 | fichas/colegiado/2011-28.md |
 | art. 1º, § 1º | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
 | art. 1º, § 2º | decisao-colegiado | RJ2008/12041 | 2011-12-06 | deferido | cvm-col-20111206-d09 | fichas/colegiado/2011-28.md |
@@ -31,7 +31,7 @@ Norma: fora do acervo.
 | art. 2º | decisao-colegiado | RJ2013/430 | 2013-06-25 | deferido | cvm-col-20130625-d05 | fichas/colegiado/2013-12.md |
 | art. 2º | decisao-colegiado | RJ2013/8433; RJ2014/4640; RJ2014/8400; RJ2014/10760 | 2015-04-28 | deferido | cvm-col-20150428-d9627 | fichas/colegiado/2015-07.md |
 | art. 2º, parágrafo único | decisao-colegiado | RJ2013/8433; RJ2014/4640; RJ2014/8400; RJ2014/10760 | 2015-04-28 | deferido | cvm-col-20150428-d9627 | fichas/colegiado/2015-07.md |
-| art. 2º, parágrafo único | pas | RJ2002/6982 | 2003-12-18 | absolvicao | cvm-pas-rj2002-6982 | fichas/pas/2003-05.md |
+| art. 2º, parágrafo único | pas | RJ2002/6982 | 2003-12-18 | absolvicao | cvm-pas-rj2002-6982 | fichas/pas/2003-10.md |
 
 ## art. 3º
 
@@ -40,10 +40,10 @@ Norma: fora do acervo.
 | art. 3º | termo-compromisso | 19957.007862/2018-20 | 2020-03-31 | rejeitado | cvm-col-20200331-d1476 | fichas/tc/2020-02.md |
 | art. 3º | decisao-antiga | — | 1995-01-04 | — | cvm-dec-1995-0001 | fichas/decisoes-antigas/1995-04.md |
 | art. 3º | decisao-antiga | — | 1996-01-12 | — | cvm-dec-1996-0001 | fichas/decisoes-antigas/1996-07.md |
-| art. 3º | pas | RJ2003/5753 | 2004-07-28 | condenacao | cvm-pas-rj2003-5753 | fichas/pas/2004-04.md |
-| art. 3º | pas | RJ2002/6413 | 2005-12-14 | condenacao | cvm-pas-rj2002-6413 | fichas/pas/2005-10.md |
-| art. 3º | pas | RJ2013/5456 | 2015-10-20 | parcial | cvm-pas-rj2013-5456 | fichas/pas/2015-06.md |
-| art. 3º, § 1º | pas | RJ2003/5753 | 2004-07-28 | condenacao | cvm-pas-rj2003-5753 | fichas/pas/2004-04.md |
+| art. 3º | pas | RJ2003/5753 | 2004-07-28 | condenacao | cvm-pas-rj2003-5753 | fichas/pas/2004-08.md |
+| art. 3º | pas | RJ2002/6413 | 2005-12-14 | condenacao | cvm-pas-rj2002-6413 | fichas/pas/2005-20.md |
+| art. 3º | pas | RJ2013/5456 | 2015-10-20 | parcial | cvm-pas-rj2013-5456 | fichas/pas/2015-11.md |
+| art. 3º, § 1º | pas | RJ2003/5753 | 2004-07-28 | condenacao | cvm-pas-rj2003-5753 | fichas/pas/2004-08.md |
 | art. 3º, § 3º | decisao-antiga | — | 1996-01-12 | — | cvm-dec-1996-0001 | fichas/decisoes-antigas/1996-07.md |
 
 ## art. 5º
@@ -51,11 +51,11 @@ Norma: fora do acervo.
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 5º, § 1º | termo-compromisso | 19957.007862/2018-20 | 2020-03-31 | rejeitado | cvm-col-20200331-d1476 | fichas/tc/2020-02.md |
-| art. 5º, § 1º | pas | RJ2003/5753 | 2004-07-28 | condenacao | cvm-pas-rj2003-5753 | fichas/pas/2004-04.md |
-| art. 5º, § 1º | pas | RJ2002/6413 | 2005-12-14 | condenacao | cvm-pas-rj2002-6413 | fichas/pas/2005-10.md |
-| art. 5º, § 1º | pas | RJ2013/5456 | 2015-10-20 | parcial | cvm-pas-rj2013-5456 | fichas/pas/2015-06.md |
-| art. 5º, § 24 | pas | RJ2003/5753 | 2004-07-28 | condenacao | cvm-pas-rj2003-5753 | fichas/pas/2004-04.md |
-| art. 5º, § 24 | pas | RJ2013/5456 | 2015-10-20 | parcial | cvm-pas-rj2013-5456 | fichas/pas/2015-06.md |
+| art. 5º, § 1º | pas | RJ2003/5753 | 2004-07-28 | condenacao | cvm-pas-rj2003-5753 | fichas/pas/2004-08.md |
+| art. 5º, § 1º | pas | RJ2002/6413 | 2005-12-14 | condenacao | cvm-pas-rj2002-6413 | fichas/pas/2005-20.md |
+| art. 5º, § 1º | pas | RJ2013/5456 | 2015-10-20 | parcial | cvm-pas-rj2013-5456 | fichas/pas/2015-11.md |
+| art. 5º, § 24 | pas | RJ2003/5753 | 2004-07-28 | condenacao | cvm-pas-rj2003-5753 | fichas/pas/2004-08.md |
+| art. 5º, § 24 | pas | RJ2013/5456 | 2015-10-20 | parcial | cvm-pas-rj2013-5456 | fichas/pas/2015-11.md |
 
 ## art. 11
 
@@ -93,9 +93,9 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|
 | art. 24 | termo-compromisso | 19957.007862/2018-20 | 2020-03-31 | rejeitado | cvm-col-20200331-d1476 | fichas/tc/2020-02.md |
 | art. 24 | termo-compromisso | 19957.011763/2017-61 | 2020-04-07 | aceito | cvm-col-20200407-d1090 | fichas/tc/2020-03.md |
-| art. 24 | pas | RJ2003/5753 | 2004-07-28 | condenacao | cvm-pas-rj2003-5753 | fichas/pas/2004-04.md |
-| art. 24 | pas | RJ2002/6413 | 2005-12-14 | condenacao | cvm-pas-rj2002-6413 | fichas/pas/2005-10.md |
-| art. 24 | pas | RJ2003/13021 | 2007-07-31 | parcial | cvm-pas-rj2003-13021 | fichas/pas/2007-05.md |
+| art. 24 | pas | RJ2003/5753 | 2004-07-28 | condenacao | cvm-pas-rj2003-5753 | fichas/pas/2004-08.md |
+| art. 24 | pas | RJ2002/6413 | 2005-12-14 | condenacao | cvm-pas-rj2002-6413 | fichas/pas/2005-20.md |
+| art. 24 | pas | RJ2003/13021 | 2007-07-31 | parcial | cvm-pas-rj2003-13021 | fichas/pas/2007-10.md |
 | art. 24 | pas | RJ2007/9559 | 2008-01-16 | condenacao | cvm-pas-rj2007-9559 | fichas/pas/2008-01.md |
 
 ## art. 25
@@ -145,13 +145,13 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 40 | pas | RJ2003/5753 | 2004-07-28 | condenacao | cvm-pas-rj2003-5753 | fichas/pas/2004-04.md |
+| art. 40 | pas | RJ2003/5753 | 2004-07-28 | condenacao | cvm-pas-rj2003-5753 | fichas/pas/2004-08.md |
 
 ## art. 41
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 41 | pas | RJ2003/5753 | 2004-07-28 | condenacao | cvm-pas-rj2003-5753 | fichas/pas/2004-04.md |
+| art. 41 | pas | RJ2003/5753 | 2004-07-28 | condenacao | cvm-pas-rj2003-5753 | fichas/pas/2004-08.md |
 
 ## art. 45
 
@@ -176,7 +176,7 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | RJ2013/5456 | 2018-07-10 | parcial | crsfn-14419 | fichas/crsfn/2018-04.md |
+| acordao-crsfn | RJ2013/5456 | 2018-07-10 | parcial | crsfn-14419 | fichas/crsfn/2018-05.md |
 | decisao-colegiado | 578/2016; 19957.006557/2017-30 | 2017-08-16 | outro | cvm-col-20170816-d0785 | fichas/colegiado/2017-14.md |
 | decisao-colegiado | 558/2015; 19957.002943/2016-71 | 2017-02-14 | outro | cvm-col-20170214-d0222 | fichas/colegiado/2017-03.md |
 | decisao-colegiado | 558/2015; 19957.002943/2016-71 | 2016-05-24 | — | cvm-col-20160524-d0222 | fichas/colegiado/2016-10.md |

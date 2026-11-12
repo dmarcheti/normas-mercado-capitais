@@ -48,12 +48,12 @@ Norma: fora do acervo.
 | art. 3º, § 1º, inciso I, alínea d | decisao-colegiado | 19957.003965/2022-05; 19957.003813/2022-02 | 2022-06-21 | deferido | cvm-col-20220621-d2284-21 | fichas/colegiado/2022-10.md |
 | art. 3º, § 1º, inciso II | decisao-colegiado | RJ2008/7977 | 2009-05-05 | nao-provido | cvm-col-20090505-d06 | fichas/colegiado/2009-09.md |
 | art. 3º, § 1º, inciso II | decisao-colegiado | RJ2011/2955 | 2011-08-16 | indeferido | cvm-col-20110816-d20 | fichas/colegiado/2011-16.md |
-| art. 3º, § 1º, inciso II | pas | 19957.011774/2007-41; RJ2019/1400 | 2019-12-17 | parcial | cvm-pas-19957-011774-2007-41 | fichas/pas/2019-13.md |
+| art. 3º, § 1º, inciso II | pas | 19957.011774/2007-41; RJ2019/1400 | 2019-12-17 | parcial | cvm-pas-19957-011774-2007-41 | fichas/pas/2019-24.md |
 | art. 3º, § 1º, inciso III | decisao-colegiado | RJ2008/7977 | 2009-05-05 | nao-provido | cvm-col-20090505-d06 | fichas/colegiado/2009-09.md |
 | art. 3º, § 1º, inciso III | decisao-colegiado | RJ2011/2955 | 2011-08-16 | indeferido | cvm-col-20110816-d20 | fichas/colegiado/2011-16.md |
 | art. 3º, § 1º, inciso III | decisao-colegiado | RJ2012/995; RJ2012/1267 | 2012-05-02 | deferido | cvm-col-20120502-d01 | fichas/colegiado/2012-08.md |
 | art. 3º, § 1º, inciso III | decisao-colegiado | 19957.012664/2022-64 | 2022-12-20 | parcial | cvm-col-20221220-d2727 | fichas/colegiado/2022-17.md |
-| art. 3º, § 1º, inciso III | pas | 19957.011774/2007-41; RJ2019/1400 | 2019-12-17 | parcial | cvm-pas-19957-011774-2007-41 | fichas/pas/2019-13.md |
+| art. 3º, § 1º, inciso III | pas | 19957.011774/2007-41; RJ2019/1400 | 2019-12-17 | parcial | cvm-pas-19957-011774-2007-41 | fichas/pas/2019-24.md |
 | art. 3º, § 1º, inciso III, alínea a | decisao-colegiado | RJ2012/995; RJ2012/1267 | 2012-05-02 | deferido | cvm-col-20120502-d01 | fichas/colegiado/2012-08.md |
 | art. 3º, § 3º | decisao-colegiado | 19957.006353/2016-18 | 2016-10-04 | outro | cvm-col-20161004-d8716 | fichas/colegiado/2016-19.md |
 
@@ -118,7 +118,7 @@ Norma: fora do acervo.
 | decisao-colegiado | 19957.006243/2020-32 | 2021-02-23 | provido | cvm-col-20210223-d2029 | fichas/colegiado/2021-03.md |
 | decisao-colegiado | 19957.006243/2020-32 | 2021-01-12 | deferido | cvm-col-20210112-d2029 | fichas/colegiado/2021-01.md |
 | decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
-| pas | RJ2016/4712 | 2018-04-24 | condenacao | cvm-pas-rj2016-4712 | fichas/pas/2018-03.md |
+| pas | RJ2016/4712 | 2018-04-24 | condenacao | cvm-pas-rj2016-4712 | fichas/pas/2018-06.md |
 | decisao-colegiado | 19957.004657/2016-41 | 2016-10-11 | deferido | cvm-col-20161011-d0387 | fichas/colegiado/2016-20.md |
 | decisao-colegiado | RJ2010/15308 | 2011-03-15 | outro | cvm-col-20110315-d16 | fichas/colegiado/2011-06.md |
 | decisao-colegiado | RJ2010/15308 | 2011-01-19 | outro | cvm-col-20110119-d01 | fichas/colegiado/2011-01.md |

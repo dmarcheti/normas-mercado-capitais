@@ -69,13 +69,13 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 11, inciso III | pas | SP2004/0602 | 2007-02-01 | absolvicao | cvm-pas-sp2004-0602 | fichas/pas/2007-02.md |
+| art. 11, inciso III | pas | SP2004/0602 | 2007-02-01 | absolvicao | cvm-pas-sp2004-0602 | fichas/pas/2007-03.md |
 
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | RJ2011/9483 | 2016-05-31 | arquivamento | crsfn-14397 | fichas/crsfn/2016-02.md |
+| acordao-crsfn | RJ2011/9483 | 2016-05-31 | arquivamento | crsfn-14397 | fichas/crsfn/2016-04.md |
 | decisao-colegiado | RJ2011/9483 | 2015-07-14 | nao-provido | cvm-col-20150714-d8062 | fichas/colegiado/2015-13.md |
 
 ## res-cmn-2
@@ -84,7 +84,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 4º | pas | RJ2011/10415 | 2014-12-02 | parcial | cvm-pas-rj2011-10415 | fichas/pas/2014-05.md |
+| art. 4º | pas | RJ2011/10415 | 2014-12-02 | parcial | cvm-pas-rj2011-10415 | fichas/pas/2014-10.md |
 
 ### Citada sem dispositivo identificado
 
@@ -108,7 +108,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2002/3535 | 2003-11-12 | parcial | cvm-pas-rj2002-3535 | fichas/pas/2003-04.md |
+| pas | RJ2002/3535 | 2003-11-12 | parcial | cvm-pas-rj2002-3535 | fichas/pas/2003-08.md |
 
 ## res-cmn-5
 
@@ -116,7 +116,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 1º, § 1º, inciso II | pas | RJ2003/5849 | 2005-12-21 | absolvicao | cvm-pas-rj2003-5849 | fichas/pas/2005-10.md |
+| art. 1º, § 1º, inciso II | pas | RJ2003/5849 | 2005-12-21 | absolvicao | cvm-pas-rj2003-5849 | fichas/pas/2005-21.md |
 
 ## res-cmn-6
 
@@ -124,7 +124,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 7º | pas | 19957.010223/2019-22 | 2023-07-11 | condenacao | cvm-pas-19957-010223-2019-22 | fichas/pas/2023-04.md |
+| art. 7º | pas | 19957.010223/2019-22 | 2023-07-11 | condenacao | cvm-pas-19957-010223-2019-22 | fichas/pas/2023-07.md |
 
 ## res-cmn-9
 
@@ -132,7 +132,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 1º, § 1º, inciso II | pas | RJ2003/6894 | 2005-11-08 | absolvicao | cvm-pas-rj2003-6894 | fichas/pas/2005-08.md |
+| art. 1º, § 1º, inciso II | pas | RJ2003/6894 | 2005-11-08 | absolvicao | cvm-pas-rj2003-6894 | fichas/pas/2005-15.md |
 
 ## res-cmn-11
 
@@ -140,7 +140,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 22/1996 | 2006-05-03 | parcial | cvm-pas-22-1996 | fichas/pas/2006-03.md |
+| pas | 22/1996 | 2006-05-03 | parcial | cvm-pas-22-1996 | fichas/pas/2006-07.md |
 
 ## res-cmn-24
 
@@ -148,7 +148,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 02/1999 | 2001-09-06 | parcial | cvm-pas-02-1999 | fichas/pas/2001-03.md |
+| pas | 02/1999 | 2001-09-06 | parcial | cvm-pas-02-1999 | fichas/pas/2001-06.md |
 
 ## res-cmn-40
 
@@ -156,7 +156,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 25/1998 | 2001-12-12 | parcial | cvm-pas-25-1998 | fichas/pas/2001-04.md |
+| pas | 25/1998 | 2001-12-12 | parcial | cvm-pas-25-1998 | fichas/pas/2001-08.md |
 
 ## res-cmn-54
 
@@ -164,7 +164,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 5º | pas | RJ2001/9999 | 2003-04-10 | condenacao | cvm-pas-rj2001-9999 | fichas/pas/2003-02.md |
+| art. 5º | pas | RJ2001/9999 | 2003-04-10 | condenacao | cvm-pas-rj2001-9999 | fichas/pas/2003-03.md |
 
 ## res-cmn-63
 
@@ -172,7 +172,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 09/1997 | 2006-12-13 | parcial | cvm-pas-09-1997 | fichas/pas/2006-14.md |
+| pas | 09/1997 | 2006-12-13 | parcial | cvm-pas-09-1997 | fichas/pas/2006-27.md |
 
 ## res-cmn-88
 
@@ -240,7 +240,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 09/1997 | 2006-12-13 | parcial | cvm-pas-09-1997 | fichas/pas/2006-14.md |
+| pas | 09/1997 | 2006-12-13 | parcial | cvm-pas-09-1997 | fichas/pas/2006-27.md |
 
 ## res-cmn-381
 
@@ -272,8 +272,8 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 4º | acordao-crsfn | RJ-2001-4635 | 2009-10-27 | parcial | crsfn-10377 | fichas/crsfn/2009-05.md |
-| art. 4º | pas | RJ2001/4635 | 2004-12-16 | absolvicao | cvm-pas-rj2001-4635 | fichas/pas/2004-08.md |
+| art. 4º | acordao-crsfn | RJ-2001-4635 | 2009-10-27 | parcial | crsfn-10377 | fichas/crsfn/2009-06.md |
+| art. 4º | pas | RJ2001/4635 | 2004-12-16 | absolvicao | cvm-pas-rj2001-4635 | fichas/pas/2004-16.md |
 
 ## res-cmn-460
 
@@ -297,7 +297,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | RJ-2005/3646 | 2008-07-30 | condenacao | crsfn-9747 | fichas/crsfn/2008-04.md |
+| acordao-crsfn | RJ-2005/3646 | 2008-07-30 | condenacao | crsfn-9747 | fichas/crsfn/2008-05.md |
 
 ## res-cmn-504
 
@@ -386,7 +386,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 08/1999 | 2000-06-01 | condenacao | cvm-pas-08-1999 | fichas/pas/2000-01.md |
+| pas | 08/1999 | 2000-06-01 | condenacao | cvm-pas-08-1999 | fichas/pas/2000-02.md |
 
 ## res-cmn-1014
 
@@ -394,7 +394,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | RJ2015/5468 | 2019-05-28 | condenacao | crsfn-10372-100383-2018-88 | fichas/crsfn/2019-01.md |
+| acordao-crsfn | RJ2015/5468 | 2019-05-28 | condenacao | crsfn-10372-100383-2018-88 | fichas/crsfn/2019-02.md |
 
 ## res-cmn-1019
 
@@ -453,7 +453,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.010272/2021-80 | 2024-10-29 | condenacao | cvm-pas-19957-010272-2021-80 | fichas/pas/2024-09.md |
+| pas | 19957.010272/2021-80 | 2024-10-29 | condenacao | cvm-pas-19957-010272-2021-80 | fichas/pas/2024-18.md |
 
 ## res-cmn-1060
 
@@ -469,11 +469,11 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | RJ2013/9762 | 2018-04-25 | condenacao | crsfn-14420 | fichas/crsfn/2018-03.md |
-| acordao-crsfn | RJ-2003-5849 | 2008-09-23 | absolvicao | crsfn-9798 | fichas/crsfn/2008-05.md |
+| acordao-crsfn | RJ2013/9762 | 2018-04-25 | condenacao | crsfn-14420 | fichas/crsfn/2018-04.md |
+| acordao-crsfn | RJ-2003-5849 | 2008-09-23 | absolvicao | crsfn-9798 | fichas/crsfn/2008-06.md |
 | pas | 12/2001 | 2006-01-12 | condenacao | cvm-pas-12-2001 | fichas/pas/2006-01.md |
-| pas | RJ2003/5849 | 2005-12-21 | absolvicao | cvm-pas-rj2003-5849 | fichas/pas/2005-10.md |
-| pas | 13/2003 | 2005-12-14 | parcial | cvm-pas-13-2003 | fichas/pas/2005-10.md |
+| pas | RJ2003/5849 | 2005-12-21 | absolvicao | cvm-pas-rj2003-5849 | fichas/pas/2005-21.md |
+| pas | 13/2003 | 2005-12-14 | parcial | cvm-pas-13-2003 | fichas/pas/2005-20.md |
 | acordao-crsfn | Recurso 5953 | 2005-11-09 | absolvicao | crsfn-5953 | fichas/crsfn/2005-02.md |
 
 ## res-cmn-1114
@@ -490,9 +490,9 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | RJ2013/4367 | 2017-03-14 | condenacao | crsfn-13872 | fichas/crsfn/2017-02.md |
-| pas | RJ2013/9766 | 2014-03-25 | condenacao | cvm-pas-rj2013-9766 | fichas/pas/2014-01.md |
-| pas | RJ2013/4367 | 2013-08-20 | condenacao | cvm-pas-rj2013-4367 | fichas/pas/2013-04.md |
+| acordao-crsfn | RJ2013/4367 | 2017-03-14 | condenacao | crsfn-13872 | fichas/crsfn/2017-04.md |
+| pas | RJ2013/9766 | 2014-03-25 | condenacao | cvm-pas-rj2013-9766 | fichas/pas/2014-02.md |
+| pas | RJ2013/4367 | 2013-08-20 | condenacao | cvm-pas-rj2013-4367 | fichas/pas/2013-08.md |
 
 ## res-cmn-1190
 
@@ -500,7 +500,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 0006/2004 | 2014-10-21 | parcial | crsfn-13285 | fichas/crsfn/2014-06.md |
+| acordao-crsfn | 0006/2004 | 2014-10-21 | parcial | crsfn-13285 | fichas/crsfn/2014-07.md |
 | decisao-colegiado | RJ2007/5551 | 2011-06-14 | nao-provido | cvm-col-20110614-d01 | fichas/colegiado/2011-13.md |
 | decisao-antiga | — | 1994-01-04 | — | cvm-dec-1994-0001 | fichas/decisoes-antigas/1994-05.md |
 | decisao-antiga | — | 1987-01-06 | — | cvm-dec-1987-0001 | fichas/decisoes-antigas/1987-08.md |
@@ -512,7 +512,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.011865/2017-87 | 2022-12-15 | absolvicao | cvm-pas-19957-011865-2017-87 | fichas/pas/2022-06.md |
+| pas | 19957.011865/2017-87 | 2022-12-15 | absolvicao | cvm-pas-19957-011865-2017-87 | fichas/pas/2022-12.md |
 
 ## res-cmn-1214
 
@@ -520,7 +520,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2016/2159 | 2017-12-12 | condenacao | cvm-pas-rj2016-2159 | fichas/pas/2017-05.md |
+| pas | RJ2016/2159 | 2017-12-12 | condenacao | cvm-pas-rj2016-2159 | fichas/pas/2017-11.md |
 
 ## res-cmn-1220
 
@@ -537,7 +537,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | RJ2016/8251 | 2020-06-16 | parcial | crsfn-10372-100018-2019-54 | fichas/crsfn/2020-03.md |
+| acordao-crsfn | RJ2016/8251 | 2020-06-16 | parcial | crsfn-10372-100018-2019-54 | fichas/crsfn/2020-04.md |
 
 ## res-cmn-1238
 
@@ -545,7 +545,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 6º | pas | 19957.016169/2023-13 | 2025-09-09 | parcial | cvm-pas-19957-016169-2023-13 | fichas/pas/2025-04.md |
+| art. 6º | pas | 19957.016169/2023-13 | 2025-09-09 | parcial | cvm-pas-19957-016169-2023-13 | fichas/pas/2025-08.md |
 
 ## res-cmn-1259
 
@@ -570,7 +570,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | RJ2016/8251 | 2020-06-16 | parcial | crsfn-10372-100018-2019-54 | fichas/crsfn/2020-03.md |
+| acordao-crsfn | RJ2016/8251 | 2020-06-16 | parcial | crsfn-10372-100018-2019-54 | fichas/crsfn/2020-04.md |
 
 ## res-cmn-1298
 
@@ -578,7 +578,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 08/01 | 2007-08-30 | arquivamento | crsfn-6255 | fichas/crsfn/2007-01.md |
+| acordao-crsfn | 08/01 | 2007-08-30 | arquivamento | crsfn-6255 | fichas/crsfn/2007-02.md |
 
 ## res-cmn-1323
 
@@ -587,7 +587,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | acordao-crsfn | RJ2017/5917 | 2020-01-21 | condenacao | crsfn-10372-100305-2019-64 | fichas/crsfn/2020-01.md |
-| pas | RJ2017/5917 | 2019-08-06 | condenacao | cvm-pas-rj2017-5917 | fichas/pas/2019-07.md |
+| pas | RJ2017/5917 | 2019-08-06 | condenacao | cvm-pas-rj2017-5917 | fichas/pas/2019-13.md |
 
 ## res-cmn-1328
 
@@ -595,7 +595,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 2º, parágrafo único | pas | 19957.016169/2023-13 | 2025-09-09 | parcial | cvm-pas-19957-016169-2023-13 | fichas/pas/2025-04.md |
+| art. 2º, parágrafo único | pas | 19957.016169/2023-13 | 2025-09-09 | parcial | cvm-pas-19957-016169-2023-13 | fichas/pas/2025-08.md |
 
 ## res-cmn-1339
 
@@ -611,7 +611,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 09/1997 | 2006-12-13 | parcial | cvm-pas-09-1997 | fichas/pas/2006-14.md |
+| pas | 09/1997 | 2006-12-13 | parcial | cvm-pas-09-1997 | fichas/pas/2006-27.md |
 
 ## res-cmn-1377
 
@@ -619,8 +619,8 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 19957.006891/2021-70 | 2023-11-07 | condenacao | crsfn-10372-100003-2023-72 | fichas/crsfn/2023-07.md |
-| pas | 19957.006891/2021-70 | 2022-09-27 | condenacao | cvm-pas-19957-006891-2021-70 | fichas/pas/2022-04.md |
+| acordao-crsfn | 19957.006891/2021-70 | 2023-11-07 | condenacao | crsfn-10372-100003-2023-72 | fichas/crsfn/2023-08.md |
+| pas | 19957.006891/2021-70 | 2022-09-27 | condenacao | cvm-pas-19957-006891-2021-70 | fichas/pas/2022-08.md |
 
 ## res-cmn-1397
 
@@ -629,7 +629,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | acordao-crsfn | 03/96 | 2007-08-30 | parcial | crsfn-6039 | fichas/crsfn/2007-01.md |
-| pas | 03/1996 | 2004-07-08 | parcial | cvm-pas-03-1996 | fichas/pas/2004-03.md |
+| pas | 03/1996 | 2004-07-08 | parcial | cvm-pas-03-1996 | fichas/pas/2004-06.md |
 
 ## res-cmn-1416
 
@@ -646,9 +646,9 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 03/97 | 2008-06-24 | parcial | crsfn-8615 | fichas/crsfn/2008-03.md |
+| acordao-crsfn | 03/97 | 2008-06-24 | parcial | crsfn-8615 | fichas/crsfn/2008-04.md |
 | acordao-crsfn | SP-2004-113 | 2008-06-24 | arquivamento | crsfn-7529 | fichas/crsfn/2008-03.md |
-| pas | 03/1997 | 2004-09-09 | parcial | cvm-pas-03-1997 | fichas/pas/2004-05.md |
+| pas | 03/1997 | 2004-09-09 | parcial | cvm-pas-03-1997 | fichas/pas/2004-10.md |
 
 ## res-cmn-1460
 
@@ -678,9 +678,9 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 03/97 | 2008-06-24 | parcial | crsfn-8615 | fichas/crsfn/2008-03.md |
+| acordao-crsfn | 03/97 | 2008-06-24 | parcial | crsfn-8615 | fichas/crsfn/2008-04.md |
 | acordao-crsfn | SP-2004-113 | 2008-06-24 | arquivamento | crsfn-7529 | fichas/crsfn/2008-03.md |
-| pas | 03/1997 | 2004-09-09 | parcial | cvm-pas-03-1997 | fichas/pas/2004-05.md |
+| pas | 03/1997 | 2004-09-09 | parcial | cvm-pas-03-1997 | fichas/pas/2004-10.md |
 
 ## res-cmn-1559
 
@@ -690,8 +690,8 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 |---|---|---|---|---|---|
 | acordao-crsfn | 11/2002 | 2018-03-20 | parcial | crsfn-13747 | fichas/crsfn/2018-02.md |
 | pas | 11/2002 | 2013-02-26 | parcial | cvm-pas-11-2002 | fichas/pas/2013-01.md |
-| pas | 09/1997 | 2006-12-13 | parcial | cvm-pas-09-1997 | fichas/pas/2006-14.md |
-| pas | 03/1996 | 2004-07-08 | parcial | cvm-pas-03-1996 | fichas/pas/2004-03.md |
+| pas | 09/1997 | 2006-12-13 | parcial | cvm-pas-09-1997 | fichas/pas/2006-27.md |
+| pas | 03/1996 | 2004-07-08 | parcial | cvm-pas-03-1996 | fichas/pas/2004-06.md |
 | decisao-colegiado | SP1995/0053 | 2004-06-15 | provido | cvm-col-20040615-d01 | fichas/colegiado/2004-06.md |
 | decisao-colegiado | SP1995/0053 | 2004-03-23 | — | cvm-col-20040323-d01 | fichas/colegiado/2004-04.md |
 | decisao-colegiado | SP95/0053 | 2002-08-30 | provido | cvm-col-20020830-d01 | fichas/colegiado/2002-20.md |
@@ -717,8 +717,8 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 22/96 | 2009-08-24 | absolvicao | crsfn-11148 | fichas/crsfn/2009-04.md |
-| pas | 22/1996 | 2006-05-03 | parcial | cvm-pas-22-1996 | fichas/pas/2006-03.md |
+| acordao-crsfn | 22/96 | 2009-08-24 | absolvicao | crsfn-11148 | fichas/crsfn/2009-05.md |
+| pas | 22/1996 | 2006-05-03 | parcial | cvm-pas-22-1996 | fichas/pas/2006-07.md |
 | decisao-antiga | — | 1993-03-31 | — | cvm-dec-1993-0001 | fichas/decisoes-antigas/1993-04.md |
 
 ## res-cmn-1658
@@ -744,15 +744,15 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 11, inciso III | acordao-crsfn | SP-2001-240 | 2007-04-25 | parcial | crsfn-6187 | fichas/crsfn/2007-01.md |
-| art. 11, inciso III | pas | SP2001/0240 | 2004-07-22 | parcial | cvm-pas-sp2001-0240 | fichas/pas/2004-04.md |
+| art. 11, inciso III | pas | SP2001/0240 | 2004-07-22 | parcial | cvm-pas-sp2001-0240 | fichas/pas/2004-07.md |
 
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | decisao-colegiado | RJ2014/10962 | 2015-07-28 | deferido | cvm-col-20150728-d9514 | fichas/colegiado/2015-14.md |
-| pas | SP2003/0445 | 2005-03-21 | parcial | cvm-pas-sp2003-0445 | fichas/pas/2005-02.md |
-| pas | SP2001/0034 | 2004-08-12 | parcial | cvm-pas-sp2001-0034 | fichas/pas/2004-05.md |
+| pas | SP2003/0445 | 2005-03-21 | parcial | cvm-pas-sp2003-0445 | fichas/pas/2005-04.md |
+| pas | SP2001/0034 | 2004-08-12 | parcial | cvm-pas-sp2001-0034 | fichas/pas/2004-09.md |
 
 ## res-cmn-1689
 
@@ -776,8 +776,8 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2018/3285 | 2019-01-29 | parcial | cvm-pas-rj2018-3285 | fichas/pas/2019-01.md |
-| pas | RJ2016/8347 | 2018-08-07 | parcial | cvm-pas-rj2016-8347 | fichas/pas/2018-06.md |
+| pas | RJ2018/3285 | 2019-01-29 | parcial | cvm-pas-rj2018-3285 | fichas/pas/2019-02.md |
+| pas | RJ2016/8347 | 2018-08-07 | parcial | cvm-pas-rj2016-8347 | fichas/pas/2018-12.md |
 
 ## res-cmn-1748
 
@@ -785,15 +785,15 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 8º | acordao-crsfn | 1/2011 | 2020-12-14 | parcial | crsfn-10372-100447-2018-41 | fichas/crsfn/2020-07.md |
-| art. 8º | pas | 01/2011 | 2018-02-27 | parcial | cvm-pas-01-2011 | fichas/pas/2018-02.md |
+| art. 8º | acordao-crsfn | 1/2011 | 2020-12-14 | parcial | crsfn-10372-100447-2018-41 | fichas/crsfn/2020-10.md |
+| art. 8º | pas | 01/2011 | 2018-02-27 | parcial | cvm-pas-01-2011 | fichas/pas/2018-03.md |
 
 ### art. 9º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 9º | acordao-crsfn | 1/2011 | 2020-12-14 | parcial | crsfn-10372-100447-2018-41 | fichas/crsfn/2020-07.md |
-| art. 9º | pas | 01/2011 | 2018-02-27 | parcial | cvm-pas-01-2011 | fichas/pas/2018-02.md |
+| art. 9º | acordao-crsfn | 1/2011 | 2020-12-14 | parcial | crsfn-10372-100447-2018-41 | fichas/crsfn/2020-10.md |
+| art. 9º | pas | 01/2011 | 2018-02-27 | parcial | cvm-pas-01-2011 | fichas/pas/2018-03.md |
 
 ### Citada sem dispositivo identificado
 
@@ -815,7 +815,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 12 | pas | RJ2001/4187 | 2002-04-18 | parcial | cvm-pas-rj2001-4187 | fichas/pas/2002-02.md |
+| art. 12 | pas | RJ2001/4187 | 2002-04-18 | parcial | cvm-pas-rj2001-4187 | fichas/pas/2002-03.md |
 
 ## res-cmn-1775-1996
 
@@ -866,7 +866,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 11/1996 | 2005-06-29 | absolvicao | cvm-pas-11-1996 | fichas/pas/2005-05.md |
+| pas | 11/1996 | 2005-06-29 | absolvicao | cvm-pas-11-1996 | fichas/pas/2005-10.md |
 
 ## res-cmn-1877
 
@@ -891,11 +891,11 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2018/3285 | 2019-01-29 | parcial | cvm-pas-rj2018-3285 | fichas/pas/2019-01.md |
-| pas | RJ2016/8347 | 2018-08-07 | parcial | cvm-pas-rj2016-8347 | fichas/pas/2018-06.md |
-| acordao-crsfn | 0006/2004 | 2014-10-21 | parcial | crsfn-13285 | fichas/crsfn/2014-06.md |
+| pas | RJ2018/3285 | 2019-01-29 | parcial | cvm-pas-rj2018-3285 | fichas/pas/2019-02.md |
+| pas | RJ2016/8347 | 2018-08-07 | parcial | cvm-pas-rj2016-8347 | fichas/pas/2018-12.md |
+| acordao-crsfn | 0006/2004 | 2014-10-21 | parcial | crsfn-13285 | fichas/crsfn/2014-07.md |
 | decisao-colegiado | RJ2007/5551 | 2011-06-14 | nao-provido | cvm-col-20110614-d01 | fichas/colegiado/2011-13.md |
-| pas | 06/2004 | 2010-11-09 | parcial | cvm-pas-06-2004 | fichas/pas/2010-04.md |
+| pas | 06/2004 | 2010-11-09 | parcial | cvm-pas-06-2004 | fichas/pas/2010-08.md |
 
 ## res-cmn-1927
 
@@ -936,7 +936,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 09/1997 | 2006-12-13 | parcial | cvm-pas-09-1997 | fichas/pas/2006-14.md |
+| pas | 09/1997 | 2006-12-13 | parcial | cvm-pas-09-1997 | fichas/pas/2006-27.md |
 
 ## res-cmn-1970
 
@@ -944,13 +944,13 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 1º, parágrafo único | acordao-crsfn | 08/01 | 2007-08-30 | arquivamento | crsfn-6255 | fichas/crsfn/2007-01.md |
+| art. 1º, parágrafo único | acordao-crsfn | 08/01 | 2007-08-30 | arquivamento | crsfn-6255 | fichas/crsfn/2007-02.md |
 
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | RJ-2014-12056 | 2020-09-20 | condenacao | crsfn-10372-100316-2018-63 | fichas/crsfn/2020-05.md |
+| acordao-crsfn | RJ-2014-12056 | 2020-09-20 | condenacao | crsfn-10372-100316-2018-63 | fichas/crsfn/2020-07.md |
 
 ## res-cmn-1996
 
@@ -958,7 +958,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 09/1997 | 2006-12-13 | parcial | cvm-pas-09-1997 | fichas/pas/2006-14.md |
+| pas | 09/1997 | 2006-12-13 | parcial | cvm-pas-09-1997 | fichas/pas/2006-27.md |
 
 ## res-cmn-2002
 
@@ -985,7 +985,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 | decisao-colegiado | 505/2011; 506/2011; RJ2013/1139 | 2013-01-29 | outro | cvm-col-20130129-d04 | fichas/colegiado/2013-03.md |
 | decisao-colegiado | RJ2010/2753 | 2010-06-01 | nao-provido | cvm-col-20100601-d06 | fichas/colegiado/2010-13.md |
 | decisao-colegiado | RJ2003/7776 | 2004-09-15 | nao-provido | cvm-col-20040915-d01 | fichas/colegiado/2004-11.md |
-| pas | SP2001/0386 | 2003-09-03 | absolvicao | cvm-pas-sp2001-0386 | fichas/pas/2003-02.md |
+| pas | SP2001/0386 | 2003-09-03 | absolvicao | cvm-pas-sp2001-0386 | fichas/pas/2003-04.md |
 | decisao-colegiado | RJ2000/0318 | 2002-12-10 | parcial | cvm-col-20021210-d01 | fichas/colegiado/2002-26.md |
 
 ## res-cmn-2026
@@ -1013,7 +1013,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2004/3456 | 2004-11-26 | condenacao | cvm-pas-rj2004-3456 | fichas/pas/2004-07.md |
+| pas | RJ2004/3456 | 2004-11-26 | condenacao | cvm-pas-rj2004-3456 | fichas/pas/2004-14.md |
 | decisao-antiga | — | 1995-01-04 | — | cvm-dec-1995-0001 | fichas/decisoes-antigas/1995-04.md |
 | decisao-antiga | — | 1994-01-04 | — | cvm-dec-1994-0001 | fichas/decisoes-antigas/1994-05.md |
 
@@ -1041,7 +1041,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | acordao-crsfn | 04/2000 | 2015-07-28 | parcial | crsfn-7703 | fichas/crsfn/2015-04.md |
-| pas | 04/2000 | 2005-02-17 | parcial | cvm-pas-04-2000 | fichas/pas/2005-01.md |
+| pas | 04/2000 | 2005-02-17 | parcial | cvm-pas-04-2000 | fichas/pas/2005-02.md |
 
 ## res-cmn-2111
 
@@ -1125,7 +1125,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | SP2004/193 | 2016-02-23 | parcial | crsfn-11957 | fichas/crsfn/2016-01.md |
+| acordao-crsfn | SP2004/193 | 2016-02-23 | parcial | crsfn-11957 | fichas/crsfn/2016-02.md |
 | acordao-crsfn | SP2004/193 | 2016-02-23 | parcial | crsfn-10372-000585-2016-69 | fichas/crsfn/2016-01.md |
 
 ## res-cmn-2238
@@ -1173,8 +1173,8 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.008632/2020-01 | 2023-11-14 | condenacao | cvm-pas-19957-008632-2020-01 | fichas/pas/2023-08.md |
-| pas | 19957.004489/2022-31 | 2023-11-14 | parcial | cvm-pas-19957-004489-2022-31 | fichas/pas/2023-08.md |
+| pas | 19957.008632/2020-01 | 2023-11-14 | condenacao | cvm-pas-19957-008632-2020-01 | fichas/pas/2023-15.md |
+| pas | 19957.004489/2022-31 | 2023-11-14 | parcial | cvm-pas-19957-004489-2022-31 | fichas/pas/2023-14.md |
 
 ## res-cmn-2309
 
@@ -1199,24 +1199,24 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 2º | pas | SP2002/0397 | 2003-12-18 | parcial | cvm-pas-sp2002-0397 | fichas/pas/2003-06.md |
-| art. 2º, inciso III | pas | RJ2008/9574 | 2012-11-27 | absolvicao | cvm-pas-rj2008-9574 | fichas/pas/2012-03.md |
-| art. 2º, inciso III, alínea a | pas | RJ2008/9574 | 2012-11-27 | absolvicao | cvm-pas-rj2008-9574 | fichas/pas/2012-03.md |
-| art. 2º, inciso III, alínea d | pas | SP2002/0397 | 2003-12-18 | parcial | cvm-pas-sp2002-0397 | fichas/pas/2003-06.md |
+| art. 2º | pas | SP2002/0397 | 2003-12-18 | parcial | cvm-pas-sp2002-0397 | fichas/pas/2003-10.md |
+| art. 2º, inciso III | pas | RJ2008/9574 | 2012-11-27 | absolvicao | cvm-pas-rj2008-9574 | fichas/pas/2012-05.md |
+| art. 2º, inciso III, alínea a | pas | RJ2008/9574 | 2012-11-27 | absolvicao | cvm-pas-rj2008-9574 | fichas/pas/2012-05.md |
+| art. 2º, inciso III, alínea d | pas | SP2002/0397 | 2003-12-18 | parcial | cvm-pas-sp2002-0397 | fichas/pas/2003-10.md |
 
 ### art. 8º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 8º | pas | SP2002/0397 | 2003-12-18 | parcial | cvm-pas-sp2002-0397 | fichas/pas/2003-06.md |
-| art. 8º, inciso V | acordao-crsfn | RJ–2002-397 | 2009-09-30 | parcial | crsfn-5632 | fichas/crsfn/2009-04.md |
-| art. 8º, inciso V | pas | RJ2008/9574 | 2012-11-27 | absolvicao | cvm-pas-rj2008-9574 | fichas/pas/2012-03.md |
+| art. 8º | pas | SP2002/0397 | 2003-12-18 | parcial | cvm-pas-sp2002-0397 | fichas/pas/2003-10.md |
+| art. 8º, inciso V | acordao-crsfn | RJ–2002-397 | 2009-09-30 | parcial | crsfn-5632 | fichas/crsfn/2009-05.md |
+| art. 8º, inciso V | pas | RJ2008/9574 | 2012-11-27 | absolvicao | cvm-pas-rj2008-9574 | fichas/pas/2012-05.md |
 
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | RJ-2002-6738 | 2009-06-29 | parcial | crsfn-6180 | fichas/crsfn/2009-03.md |
+| acordao-crsfn | RJ-2002-6738 | 2009-06-29 | parcial | crsfn-6180 | fichas/crsfn/2009-04.md |
 | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
 
 ## res-cmn-2325
@@ -1290,16 +1290,16 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 1º | acordao-crsfn | RJ2011/10415 | 2020-02-11 | parcial | crsfn-10372-000322-2016-50 | fichas/crsfn/2020-01.md |
-| art. 1º | pas | RJ2011/10415 | 2014-12-02 | parcial | cvm-pas-rj2011-10415 | fichas/pas/2014-05.md |
+| art. 1º | pas | RJ2011/10415 | 2014-12-02 | parcial | cvm-pas-rj2011-10415 | fichas/pas/2014-10.md |
 | art. 1º, inciso II | acordao-crsfn | RJ2011/10415 | 2020-02-11 | parcial | crsfn-10372-000322-2016-50 | fichas/crsfn/2020-01.md |
 | art. 1º, inciso II | termo-compromisso | RJ2012/3799 | 2012-08-07 | rejeitado | cvm-col-20120807-d02 | fichas/tc/2012-04.md |
-| art. 1º, inciso II | pas | RJ2011/10415 | 2014-12-02 | parcial | cvm-pas-rj2011-10415 | fichas/pas/2014-05.md |
+| art. 1º, inciso II | pas | RJ2011/10415 | 2014-12-02 | parcial | cvm-pas-rj2011-10415 | fichas/pas/2014-10.md |
 
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | RJ-2003-12656 | 2010-07-28 | arquivamento | crsfn-11453 | fichas/crsfn/2010-06.md |
+| acordao-crsfn | RJ-2003-12656 | 2010-07-28 | arquivamento | crsfn-11453 | fichas/crsfn/2010-07.md |
 | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
 
 ## res-cmn-2493
@@ -1324,8 +1324,8 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | RJ–2002-397 | 2009-09-30 | parcial | crsfn-5632 | fichas/crsfn/2009-04.md |
-| pas | SP2002/0397 | 2003-12-18 | parcial | cvm-pas-sp2002-0397 | fichas/pas/2003-06.md |
+| acordao-crsfn | RJ–2002-397 | 2009-09-30 | parcial | crsfn-5632 | fichas/crsfn/2009-05.md |
+| pas | SP2002/0397 | 2003-12-18 | parcial | cvm-pas-sp2002-0397 | fichas/pas/2003-10.md |
 
 ## res-cmn-2554
 
@@ -1333,13 +1333,13 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 1º | acordao-crsfn | 1/2011 | 2020-12-14 | parcial | crsfn-10372-100447-2018-41 | fichas/crsfn/2020-07.md |
+| art. 1º | acordao-crsfn | 1/2011 | 2020-12-14 | parcial | crsfn-10372-100447-2018-41 | fichas/crsfn/2020-10.md |
 
 ### art. 2º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 2º | acordao-crsfn | 1/2011 | 2020-12-14 | parcial | crsfn-10372-100447-2018-41 | fichas/crsfn/2020-07.md |
+| art. 2º | acordao-crsfn | 1/2011 | 2020-12-14 | parcial | crsfn-10372-100447-2018-41 | fichas/crsfn/2020-10.md |
 
 ### Citada sem dispositivo identificado
 
@@ -1348,7 +1348,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 | decisao-colegiado | SP2012/0342 | 2012-11-13 | provido | cvm-col-20121113-d01 | fichas/colegiado/2012-21.md |
 | decisao-colegiado | SP2009/0091 | 2009-08-04 | outro | cvm-col-20090804-d02 | fichas/colegiado/2009-14.md |
 | termo-compromisso | RJ2002/4186 | 2005-05-24 | aceito | cvm-col-20050524-d04 | fichas/tc/2005-02.md |
-| pas | 37/2000 | 2004-12-09 | absolvicao | cvm-pas-37-2000 | fichas/pas/2004-08.md |
+| pas | 37/2000 | 2004-12-09 | absolvicao | cvm-pas-37-2000 | fichas/pas/2004-15.md |
 
 ## res-cmn-2565
 
@@ -1356,8 +1356,8 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 40 | acordao-crsfn | SP-2002-493 | 2008-11-19 | parcial | crsfn-9540 | fichas/crsfn/2008-06.md |
-| art. 40 | pas | SP2002/0493 | 2005-09-21 | parcial | cvm-pas-sp2002-0493 | fichas/pas/2005-06.md |
+| art. 40 | acordao-crsfn | SP-2002-493 | 2008-11-19 | parcial | crsfn-9540 | fichas/crsfn/2008-07.md |
+| art. 40 | pas | SP2002/0493 | 2005-09-21 | parcial | cvm-pas-sp2002-0493 | fichas/pas/2005-12.md |
 
 ## res-cmn-2609
 
@@ -1373,8 +1373,8 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | IA-2005-1 | 2012-12-05 | parcial | crsfn-12519 | fichas/crsfn/2012-04.md |
-| pas | 01/2005 | 2008-11-26 | parcial | cvm-pas-01-2005 | fichas/pas/2008-05.md |
+| acordao-crsfn | IA-2005-1 | 2012-12-05 | parcial | crsfn-12519 | fichas/crsfn/2012-06.md |
+| pas | 01/2005 | 2008-11-26 | parcial | cvm-pas-01-2005 | fichas/pas/2008-08.md |
 
 ## res-cmn-2624
 
@@ -1416,7 +1416,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 0006/2004 | 2014-10-21 | parcial | crsfn-13285 | fichas/crsfn/2014-06.md |
+| acordao-crsfn | 0006/2004 | 2014-10-21 | parcial | crsfn-13285 | fichas/crsfn/2014-07.md |
 
 ## res-cmn-2691
 
@@ -1424,8 +1424,8 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 16/2013 | 2021-11-09 | parcial | crsfn-10372-100267-2019-40 | fichas/crsfn/2021-04.md |
-| pas | 16/2013 | 2019-02-19 | parcial | cvm-pas-16-2013 | fichas/pas/2019-02.md |
+| acordao-crsfn | 16/2013 | 2021-11-09 | parcial | crsfn-10372-100267-2019-40 | fichas/crsfn/2021-05.md |
+| pas | 16/2013 | 2019-02-19 | parcial | cvm-pas-16-2013 | fichas/pas/2019-03.md |
 
 ## res-cmn-2720
 
@@ -1479,7 +1479,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | SP2004/193 | 2016-02-23 | parcial | crsfn-11957 | fichas/crsfn/2016-01.md |
+| acordao-crsfn | SP2004/193 | 2016-02-23 | parcial | crsfn-11957 | fichas/crsfn/2016-02.md |
 | acordao-crsfn | SP2004/193 | 2016-02-23 | parcial | crsfn-10372-000585-2016-69 | fichas/crsfn/2016-01.md |
 
 ## res-cmn-2824
@@ -1504,7 +1504,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | SP2004/193 | 2016-02-23 | parcial | crsfn-11957 | fichas/crsfn/2016-01.md |
+| acordao-crsfn | SP2004/193 | 2016-02-23 | parcial | crsfn-11957 | fichas/crsfn/2016-02.md |
 | acordao-crsfn | SP2004/193 | 2016-02-23 | parcial | crsfn-10372-000585-2016-69 | fichas/crsfn/2016-01.md |
 
 ## res-cmn-2850
@@ -1529,7 +1529,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 0006/2004 | 2014-10-21 | parcial | crsfn-13285 | fichas/crsfn/2014-06.md |
+| acordao-crsfn | 0006/2004 | 2014-10-21 | parcial | crsfn-13285 | fichas/crsfn/2014-07.md |
 | decisao-colegiado | RJ2007/5551 | 2011-06-14 | nao-provido | cvm-col-20110614-d01 | fichas/colegiado/2011-13.md |
 
 ## res-cmn-2875
@@ -1538,7 +1538,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 16/2002 | 2006-10-10 | condenacao | cvm-pas-16-2002 | fichas/pas/2006-10.md |
+| pas | 16/2002 | 2006-10-10 | condenacao | cvm-pas-16-2002 | fichas/pas/2006-20.md |
 
 ## res-cmn-2878
 
@@ -1546,7 +1546,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 18, § 4º | pas | RJ2006/4663 | 2007-09-04 | absolvicao | cvm-pas-rj2006-4663 | fichas/pas/2007-06.md |
+| art. 18, § 4º | pas | RJ2006/4663 | 2007-09-04 | absolvicao | cvm-pas-rj2006-4663 | fichas/pas/2007-12.md |
 
 ### Citada sem dispositivo identificado
 
@@ -1588,7 +1588,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2014/12081 | 2019-06-18 | parcial | cvm-pas-rj2014-12081 | fichas/pas/2019-05.md |
+| pas | RJ2014/12081 | 2019-06-18 | parcial | cvm-pas-rj2014-12081 | fichas/pas/2019-08.md |
 
 ## res-cmn-2908
 
@@ -1604,7 +1604,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 08/2001 | 2004-09-23 | condenacao | cvm-pas-08-2001 | fichas/pas/2004-06.md |
+| pas | 08/2001 | 2004-09-23 | condenacao | cvm-pas-08-2001 | fichas/pas/2004-11.md |
 
 ## res-cmn-2917
 
@@ -1644,7 +1644,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2018/4585 | 2019-11-26 | absolvicao | cvm-pas-rj2018-4585 | fichas/pas/2019-11.md |
+| pas | RJ2018/4585 | 2019-11-26 | absolvicao | cvm-pas-rj2018-4585 | fichas/pas/2019-20.md |
 
 ## res-cmn-2960
 
@@ -1671,7 +1671,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 14, inciso III | acordao-crsfn | 10/9078 | 2015-07-28 | absolvicao | crsfn-13360 | fichas/crsfn/2015-03.md |
-| art. 14, inciso III | pas | RJ2010/9078 | 2011-10-25 | absolvicao | cvm-pas-rj2010-9078 | fichas/pas/2011-02.md |
+| art. 14, inciso III | pas | RJ2010/9078 | 2011-10-25 | absolvicao | cvm-pas-rj2010-9078 | fichas/pas/2011-04.md |
 
 ### Citada sem dispositivo identificado
 
@@ -1716,7 +1716,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.008086/2019-66 | 2022-09-27 | parcial | cvm-pas-19957-008086-2019-66 | fichas/pas/2022-04.md |
+| pas | 19957.008086/2019-66 | 2022-09-27 | parcial | cvm-pas-19957-008086-2019-66 | fichas/pas/2022-08.md |
 | termo-compromisso | 19957.005918/2018-10 | 2019-04-16 | aceito | cvm-col-20190416-d1374 | fichas/tc/2019-02.md |
 
 ## res-cmn-3081
@@ -1742,8 +1742,8 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 09/2014; 19957.000457/2020-03 | 2019-12-20 | parcial | cvm-pas-19957-000457-2020-03 | fichas/pas/2019-13.md |
-| pas | 01/2011 | 2018-02-27 | parcial | cvm-pas-01-2011 | fichas/pas/2018-02.md |
+| pas | 09/2014; 19957.000457/2020-03 | 2019-12-20 | parcial | cvm-pas-19957-000457-2020-03 | fichas/pas/2019-24.md |
+| pas | 01/2011 | 2018-02-27 | parcial | cvm-pas-01-2011 | fichas/pas/2018-03.md |
 
 ## res-cmn-3112
 
@@ -1776,7 +1776,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 1/2011 | 2020-12-14 | parcial | crsfn-10372-100447-2018-41 | fichas/crsfn/2020-07.md |
+| acordao-crsfn | 1/2011 | 2020-12-14 | parcial | crsfn-10372-100447-2018-41 | fichas/crsfn/2020-10.md |
 | decisao-colegiado | 19957.000338/2020-42 | 2020-02-11 | nao-provido | cvm-col-20200211-d1710 | fichas/colegiado/2020-03.md |
 | decisao-colegiado | 19957.000337/2020-06 | 2020-02-11 | nao-provido | cvm-col-20200211-d1709 | fichas/colegiado/2020-03.md |
 | decisao-colegiado | 19957.000336/2020-53 | 2020-02-11 | nao-provido | cvm-col-20200211-d1708 | fichas/colegiado/2020-03.md |
@@ -1925,8 +1925,8 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | RJ2013/6183 | 2018-12-11 | condenacao | crsfn-10372-000125-2017-11 | fichas/crsfn/2018-07.md |
-| pas | RJ2013/6183 | 2016-11-22 | condenacao | cvm-pas-rj2013-6183 | fichas/pas/2016-06.md |
+| acordao-crsfn | RJ2013/6183 | 2018-12-11 | condenacao | crsfn-10372-000125-2017-11 | fichas/crsfn/2018-09.md |
+| pas | RJ2013/6183 | 2016-11-22 | condenacao | cvm-pas-rj2013-6183 | fichas/pas/2016-12.md |
 
 ## res-cmn-3380
 
@@ -1934,13 +1934,13 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 3º, inciso II | pas | 01/2011 | 2018-02-27 | parcial | cvm-pas-01-2011 | fichas/pas/2018-02.md |
+| art. 3º, inciso II | pas | 01/2011 | 2018-02-27 | parcial | cvm-pas-01-2011 | fichas/pas/2018-03.md |
 
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 1/2011 | 2020-12-14 | parcial | crsfn-10372-100447-2018-41 | fichas/crsfn/2020-07.md |
+| acordao-crsfn | 1/2011 | 2020-12-14 | parcial | crsfn-10372-100447-2018-41 | fichas/crsfn/2020-10.md |
 
 ## res-cmn-3399
 
@@ -1984,7 +1984,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2013/6183 | 2016-11-22 | condenacao | cvm-pas-rj2013-6183 | fichas/pas/2016-06.md |
+| pas | RJ2013/6183 | 2016-11-22 | condenacao | cvm-pas-rj2013-6183 | fichas/pas/2016-12.md |
 
 ## res-cmn-3454
 
@@ -2001,7 +2001,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.004749/2018-92 | 2018-06-26 | indeferido | cvm-col-20180626-d1073 | fichas/colegiado/2018-11.md |
-| pas | 08/2004 | 2012-12-06 | parcial | cvm-pas-08-2004 | fichas/pas/2012-03.md |
+| pas | 08/2004 | 2012-12-06 | parcial | cvm-pas-08-2004 | fichas/pas/2012-06.md |
 | decisao-colegiado | RJ2009/7909 | 2009-09-15 | deferido | cvm-col-20090915-d10 | fichas/colegiado/2009-16.md |
 | decisao-colegiado | RJ2009/1676 | 2009-06-02 | deferido | cvm-col-20090602-d01 | fichas/colegiado/2009-10.md |
 | decisao-colegiado | RJ2008/6789 | 2009-02-03 | nao-provido | cvm-col-20090203-d03 | fichas/colegiado/2009-01.md |
@@ -2014,8 +2014,8 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 10, § 1º | acordao-crsfn | 1/2011 | 2020-12-14 | parcial | crsfn-10372-100447-2018-41 | fichas/crsfn/2020-07.md |
-| art. 10, § 1º | pas | 01/2011 | 2018-02-27 | parcial | cvm-pas-01-2011 | fichas/pas/2018-02.md |
+| art. 10, § 1º | acordao-crsfn | 1/2011 | 2020-12-14 | parcial | crsfn-10372-100447-2018-41 | fichas/crsfn/2020-10.md |
+| art. 10, § 1º | pas | 01/2011 | 2018-02-27 | parcial | cvm-pas-01-2011 | fichas/pas/2018-03.md |
 
 ## res-cmn-3477
 
@@ -2040,8 +2040,8 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.004945/2019-48 | 2020-12-08 | deferido | cvm-col-20201208-d1747 | fichas/colegiado/2020-21.md |
-| acordao-crsfn | RJ2013/6183 | 2018-12-11 | condenacao | crsfn-10372-000125-2017-11 | fichas/crsfn/2018-07.md |
-| pas | RJ2013/6183 | 2016-11-22 | condenacao | cvm-pas-rj2013-6183 | fichas/pas/2016-06.md |
+| acordao-crsfn | RJ2013/6183 | 2018-12-11 | condenacao | crsfn-10372-000125-2017-11 | fichas/crsfn/2018-09.md |
+| pas | RJ2013/6183 | 2016-11-22 | condenacao | cvm-pas-rj2013-6183 | fichas/pas/2016-12.md |
 
 ## res-cmn-3506
 
@@ -2049,7 +2049,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2012/4472 | 2013-08-20 | condenacao | cvm-pas-rj2012-4472 | fichas/pas/2013-04.md |
+| pas | RJ2012/4472 | 2013-08-20 | condenacao | cvm-pas-rj2012-4472 | fichas/pas/2013-08.md |
 
 ## res-cmn-3513
 
@@ -2081,9 +2081,9 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | SP2018/15 | 2022-11-08 | condenacao | crsfn-10372-100054-2020-51 | fichas/crsfn/2022-06.md |
+| acordao-crsfn | SP2018/15 | 2022-11-08 | condenacao | crsfn-10372-100054-2020-51 | fichas/crsfn/2022-08.md |
 | decisao-colegiado | 19957.008889/2020-54 | 2021-05-04 | deferido | cvm-col-20210504-d2156 | fichas/colegiado/2021-08.md |
-| pas | SP2018-15 | 2019-08-13 | parcial | cvm-pas-sp2018-0015 | fichas/pas/2019-08.md |
+| pas | SP2018-15 | 2019-08-13 | parcial | cvm-pas-sp2018-0015 | fichas/pas/2019-14.md |
 
 ## res-cmn-3557
 
@@ -2107,7 +2107,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 19957.006547/2019-66; RJ2019/4484 | 2024-06-11 | condenacao | crsfn-10372-100076-2022-83 | fichas/crsfn/2024-03.md |
+| acordao-crsfn | 19957.006547/2019-66; RJ2019/4484 | 2024-06-11 | condenacao | crsfn-10372-100076-2022-83 | fichas/crsfn/2024-04.md |
 
 ## res-cmn-3689
 
@@ -2115,7 +2115,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 5º | acordao-crsfn | RJ-2007-11415 | 2012-12-18 | arquivamento | crsfn-12697 | fichas/crsfn/2012-05.md |
+| art. 5º | acordao-crsfn | RJ-2007-11415 | 2012-12-18 | arquivamento | crsfn-12697 | fichas/crsfn/2012-06.md |
 
 ### Citada sem dispositivo identificado
 
@@ -2161,14 +2161,14 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 6º, § 2º | acordao-crsfn | RJ2012/4472 | 2017-03-14 | condenacao | crsfn-13871 | fichas/crsfn/2017-02.md |
-| art. 6º, § 2º | pas | RJ2012/4472 | 2013-08-20 | condenacao | cvm-pas-rj2012-4472 | fichas/pas/2013-04.md |
+| art. 6º, § 2º | acordao-crsfn | RJ2012/4472 | 2017-03-14 | condenacao | crsfn-13871 | fichas/crsfn/2017-03.md |
+| art. 6º, § 2º | pas | RJ2012/4472 | 2013-08-20 | condenacao | cvm-pas-rj2012-4472 | fichas/pas/2013-08.md |
 
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2016/4608 | 2016-04-26 | condenacao | cvm-pas-rj2016-4608 | fichas/pas/2016-01.md |
+| pas | RJ2016/4608 | 2016-04-26 | condenacao | cvm-pas-rj2016-4608 | fichas/pas/2016-02.md |
 
 ## res-cmn-3823
 
@@ -2220,7 +2220,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.007728/2019-18 | 2020-06-18 | nao-provido | cvm-col-20200618-d1838 | fichas/colegiado/2020-10.md |
-| pas | 09/2014; 19957.000457/2020-03 | 2019-12-20 | parcial | cvm-pas-19957-000457-2020-03 | fichas/pas/2019-13.md |
+| pas | 09/2014; 19957.000457/2020-03 | 2019-12-20 | parcial | cvm-pas-19957-000457-2020-03 | fichas/pas/2019-24.md |
 | decisao-colegiado | 19957.000570/2018-66 | 2019-12-03 | outro | cvm-col-20191203-d1626 | fichas/colegiado/2019-20.md |
 
 ## res-cmn-3992
@@ -2229,8 +2229,8 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.002964/2020-73 | 2025-12-23 | absolvicao | cvm-pas-19957-002964-2020-73 | fichas/pas/2025-06.md |
-| acordao-crsfn | 19957.010223/2019-22 | 2024-06-11 | condenacao | crsfn-10372-100128-2023-01 | fichas/crsfn/2024-03.md |
+| pas | 19957.002964/2020-73 | 2025-12-23 | absolvicao | cvm-pas-19957-002964-2020-73 | fichas/pas/2025-12.md |
+| acordao-crsfn | 19957.010223/2019-22 | 2024-06-11 | condenacao | crsfn-10372-100128-2023-01 | fichas/crsfn/2024-04.md |
 | decisao-colegiado | 19957.005801/2020-42 | 2020-10-13 | deferido | cvm-col-20201013-d1951 | fichas/colegiado/2020-17.md |
 
 ## res-cmn-4088
@@ -2247,7 +2247,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.004737/2017-87; RJ2018/269 | 2019-10-22 | parcial | cvm-pas-19957-004737-2017-87 | fichas/pas/2019-09.md |
+| pas | 19957.004737/2017-87; RJ2018/269 | 2019-10-22 | parcial | cvm-pas-19957-004737-2017-87 | fichas/pas/2019-17.md |
 
 ## res-cmn-4123
 
@@ -2272,7 +2272,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.008086/2019-66 | 2022-09-27 | parcial | cvm-pas-19957-008086-2019-66 | fichas/pas/2022-04.md |
+| pas | 19957.008086/2019-66 | 2022-09-27 | parcial | cvm-pas-19957-008086-2019-66 | fichas/pas/2022-08.md |
 
 ## res-cmn-4222
 
@@ -2296,7 +2296,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.004010/2021-86 | 2021-11-16 | deferido | cvm-col-20211116-d2375 | fichas/colegiado/2021-19.md |
-| pas | RJ2015/2027 | 2019-04-02 | parcial | cvm-pas-rj2015-2027 | fichas/pas/2019-03.md |
+| pas | RJ2015/2027 | 2019-04-02 | parcial | cvm-pas-rj2015-2027 | fichas/pas/2019-05.md |
 | decisao-colegiado | RJ2005/3331 | 2014-11-11 | outro | cvm-col-20141111-d01-r2 | fichas/colegiado/2014-21.md |
 
 ## res-cmn-4296
@@ -2358,10 +2358,10 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.002964/2020-73 | 2025-12-23 | absolvicao | cvm-pas-19957-002964-2020-73 | fichas/pas/2025-06.md |
+| pas | 19957.002964/2020-73 | 2025-12-23 | absolvicao | cvm-pas-19957-002964-2020-73 | fichas/pas/2025-12.md |
 | termo-compromisso | 19957.002600/2020-93 | 2025-06-03 | rejeitado | cvm-col-20250603-d3224 | fichas/tc/2025-03.md |
-| acordao-crsfn | 19957.010223/2019-22 | 2024-06-11 | condenacao | crsfn-10372-100128-2023-01 | fichas/crsfn/2024-03.md |
-| pas | 19957.010223/2019-22 | 2023-07-11 | condenacao | cvm-pas-19957-010223-2019-22 | fichas/pas/2023-04.md |
+| acordao-crsfn | 19957.010223/2019-22 | 2024-06-11 | condenacao | crsfn-10372-100128-2023-01 | fichas/crsfn/2024-04.md |
+| pas | 19957.010223/2019-22 | 2023-07-11 | condenacao | cvm-pas-19957-010223-2019-22 | fichas/pas/2023-07.md |
 | termo-compromisso | 19957.008721/2018-24 | 2021-11-30 | rejeitado | cvm-col-20211130-d2363 | fichas/tc/2021-08.md |
 | termo-compromisso | 19957.010235/2018-76; 19957.008003/2018-58 | 2019-10-15 | aceito | cvm-col-20191015-d1571 | fichas/tc/2019-06.md |
 | decisao-colegiado | 19957.005760/2018-70 | 2018-07-03 | nao-provido | cvm-col-20180703-d1072 | fichas/colegiado/2018-11.md |
@@ -2457,7 +2457,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.010223/2019-22 | 2023-07-11 | condenacao | cvm-pas-19957-010223-2019-22 | fichas/pas/2023-04.md |
+| pas | 19957.010223/2019-22 | 2023-07-11 | condenacao | cvm-pas-19957-010223-2019-22 | fichas/pas/2023-07.md |
 | decisao-colegiado | 03/2018; 19957.006551/2018-43 | 2019-01-23 | outro | cvm-col-20190123-d1083 | fichas/colegiado/2019-02.md |
 
 ## res-cmn-4761
@@ -2483,7 +2483,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 14 | pas | 19957.010223/2019-22 | 2023-07-11 | condenacao | cvm-pas-19957-010223-2019-22 | fichas/pas/2023-04.md |
+| art. 14 | pas | 19957.010223/2019-22 | 2023-07-11 | condenacao | cvm-pas-19957-010223-2019-22 | fichas/pas/2023-07.md |
 
 ### art. 21
 
@@ -2495,7 +2495,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 19957.011368/2017-89; RJ2018/00251 | 2024-03-12 | condenacao | crsfn-10372-100089-2022-52 | fichas/crsfn/2024-01.md |
+| acordao-crsfn | 19957.011368/2017-89; RJ2018/00251 | 2024-03-12 | condenacao | crsfn-10372-100089-2022-52 | fichas/crsfn/2024-02.md |
 
 ## res-cmn-4991
 
@@ -2535,7 +2535,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.006209/2016-81; RJ2016/7499 | 2019-12-10 | parcial | cvm-pas-19957-006209-2016-81 | fichas/pas/2019-12.md |
+| pas | 19957.006209/2016-81; RJ2016/7499 | 2019-12-10 | parcial | cvm-pas-19957-006209-2016-81 | fichas/pas/2019-22.md |
 
 ## res-cmn-6604
 
@@ -2543,7 +2543,7 @@ res-cmn-6604 (2540); res-cmn-7792 (2548)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.011368/2017-89 | 2022-04-12 | condenacao | cvm-pas-19957-011368-2017-89 | fichas/pas/2022-02.md |
+| pas | 19957.011368/2017-89 | 2022-04-12 | condenacao | cvm-pas-19957-011368-2017-89 | fichas/pas/2022-04.md |
 
 ## res-cmn-7792
 

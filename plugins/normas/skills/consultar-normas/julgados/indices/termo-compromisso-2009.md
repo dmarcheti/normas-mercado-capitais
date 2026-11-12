@@ -5,122 +5,122 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
-| Processo | Data | Resultado | Id | Ficha |
-|---|---|---|---|---|
-| RJ2009/3049 | 2009-12-15 | aceito | cvm-col-20091215-d06 | fichas/tc/2009-09.md |
-| RJ2009/2382 | 2009-12-15 | aceito | cvm-col-20091215-d05 | fichas/tc/2009-09.md |
-| 09/2008 | 2009-12-15 | aceito | cvm-col-20091215-d04 | fichas/tc/2009-09.md |
-| RJ2008/9022 | 2009-12-15 | rejeitado | cvm-col-20091215-d03 | fichas/tc/2009-09.md |
-| 21/2005 | 2009-12-15 | aceito | cvm-col-20091215-d02 | fichas/tc/2009-09.md |
-| RJ2009/4744 | 2009-12-08 | aceito | cvm-col-20091208-d23 | fichas/tc/2009-09.md |
-| RJ2009/2610 | 2009-12-08 | rejeitado | cvm-col-20091208-d10 | fichas/tc/2009-09.md |
-| RJ2009/5978 | 2009-12-08 | aceito | cvm-col-20091208-d09 | fichas/tc/2009-08.md |
-| RJ2009/4096 | 2009-12-08 | aceito | cvm-col-20091208-d08 | fichas/tc/2009-08.md |
-| RJ2009/5865 | 2009-12-08 | rejeitado | cvm-col-20091208-d07 | fichas/tc/2009-08.md |
-| RJ2009/0485 | 2009-12-08 | aceito | cvm-col-20091208-d06 | fichas/tc/2009-08.md |
-| SP2007/0095 | 2009-12-08 | aceito | cvm-col-20091208-d05 | fichas/tc/2009-08.md |
-| RJ2009/9186 | 2009-12-08 | rejeitado | cvm-col-20091208-d04 | fichas/tc/2009-08.md |
-| 02/2006 | 2009-12-08 | rejeitado | cvm-col-20091208-d01 | fichas/tc/2009-08.md |
-| SP2008/0040 | 2009-11-24 | aceito | cvm-col-20091124-d09 | fichas/tc/2009-08.md |
-| RJ2009/5542 | 2009-11-24 | aceito | cvm-col-20091124-d08 | fichas/tc/2009-08.md |
-| RJ2009/4088 | 2009-11-24 | rejeitado | cvm-col-20091124-d07 | fichas/tc/2009-08.md |
-| RJ2008/8046 | 2009-11-24 | aceito | cvm-col-20091124-d05 | fichas/tc/2009-08.md |
-| RJ2008/5980 | 2009-11-24 | aceito | cvm-col-20091124-d04 | fichas/tc/2009-08.md |
-| RJ2009/6773 | 2009-11-24 | rejeitado | cvm-col-20091124-d03 | fichas/tc/2009-08.md |
-| RJ2009/5051 | 2009-11-24 | rejeitado | cvm-col-20091124-d02 | fichas/tc/2009-07.md |
-| RJ2009/5279 | 2009-11-17 | rejeitado | cvm-col-20091117-d05 | fichas/tc/2009-07.md |
-| RJ2008/9574 | 2009-11-17 | rejeitado | cvm-col-20091117-d04 | fichas/tc/2009-07.md |
-| 13/2006 | 2009-11-17 | rejeitado | cvm-col-20091117-d03 | fichas/tc/2009-07.md |
-| 21/2005 | 2009-11-17 | rejeitado | cvm-col-20091117-d02 | fichas/tc/2009-07.md |
-| RJ2006/4665 | 2009-11-10 | aceito | cvm-col-20091110-d01 | fichas/tc/2009-07.md |
-| RJ2009/6426 | 2009-10-27 | rejeitado | cvm-col-20091027-d12 | fichas/tc/2009-07.md |
-| RJ2009/6425 | 2009-10-27 | aceito | cvm-col-20091027-d11 | fichas/tc/2009-07.md |
-| RJ2009/5594 | 2009-10-27 | aceito | cvm-col-20091027-d10 | fichas/tc/2009-07.md |
-| RJ2009/4164 | 2009-10-27 | aceito | cvm-col-20091027-d09 | fichas/tc/2009-07.md |
-| RJ2004/4457 | 2009-10-27 | aceito | cvm-col-20091027-d08 | fichas/tc/2009-07.md |
-| 22/2006 | 2009-10-20 | aceito | cvm-col-20091020-d06 | fichas/tc/2009-07.md |
-| RJ2007/10967 | 2009-10-13 | outro | cvm-col-20091013-d15 | fichas/tc/2009-07.md |
-| RJ2009/1503 | 2009-10-13 | aceito | cvm-col-20091013-d04 | fichas/tc/2009-07.md |
-| RJ2009/6349 | 2009-10-13 | outro | cvm-col-20091013-d03 | fichas/tc/2009-07.md |
-| RJ2009/5351 | 2009-10-13 | outro | cvm-col-20091013-d02 | fichas/tc/2009-06.md |
-| RJ2008/11749 | 2009-10-06 | aceito | cvm-col-20091006-d09 | fichas/tc/2009-06.md |
-| RJ2009/4163 | 2009-09-29 | rejeitado | cvm-col-20090929-d04 | fichas/tc/2009-06.md |
-| RJ2009/0485 | 2009-09-29 | outro | cvm-col-20090929-d03 | fichas/tc/2009-06.md |
-| RJ2006/1077 | 2009-09-15 | aceito | cvm-col-20090915-d07 | fichas/tc/2009-06.md |
-| RJ2009/4925 | 2009-09-15 | rejeitado | cvm-col-20090915-d06 | fichas/tc/2009-06.md |
-| RJ2009/4006 | 2009-09-15 | aceito | cvm-col-20090915-d05 | fichas/tc/2009-06.md |
-| RJ2009/3952 | 2009-09-15 | aceito | cvm-col-20090915-d04 | fichas/tc/2009-06.md |
-| RJ2009/3950 | 2009-09-15 | aceito | cvm-col-20090915-d03 | fichas/tc/2009-06.md |
-| 07/2008 | 2009-09-15 | aceito | cvm-col-20090915-d02 | fichas/tc/2009-06.md |
-| RJ2009/5710 | 2009-09-15 | aceito | cvm-col-20090915-d01 | fichas/tc/2009-06.md |
-| RJ2008/11749 | 2009-09-08 | aceito | cvm-col-20090908-d01 | fichas/tc/2009-06.md |
-| RJ2008/11105 | 2009-08-18 | aceito | cvm-col-20090818-d08 | fichas/tc/2009-06.md |
-| RJ2009/4140 | 2009-08-18 | rejeitado | cvm-col-20090818-d06 | fichas/tc/2009-05.md |
-| RJ2009/4089 | 2009-08-18 | aceito | cvm-col-20090818-d05 | fichas/tc/2009-05.md |
-| RJ2008/10421 | 2009-08-18 | aceito | cvm-col-20090818-d04 | fichas/tc/2009-05.md |
-| RJ2008/8243 | 2009-08-18 | aceito | cvm-col-20090818-d03 | fichas/tc/2009-05.md |
-| SP2007/0095 | 2009-08-18 | rejeitado | cvm-col-20090818-d02 | fichas/tc/2009-05.md |
-| RJ2007/4414 | 2009-08-18 | aceito | cvm-col-20090818-d01 | fichas/tc/2009-05.md |
-| 06/2008 | 2009-07-28 | aceito | cvm-col-20090728-d13 | fichas/tc/2009-05.md |
-| 14/2004 | 2009-07-28 | rejeitado | cvm-col-20090728-d12 | fichas/tc/2009-05.md |
-| RJ2009/0283 | 2009-07-28 | aceito | cvm-col-20090728-d11 | fichas/tc/2009-05.md |
-| RJ2008/10703; RJ2008/11846 | 2009-07-28 | aceito | cvm-col-20090728-d10 | fichas/tc/2009-05.md |
-| RJ2008/2334 | 2009-07-28 | aceito | cvm-col-20090728-d09 | fichas/tc/2009-05.md |
-| RJ2009/5730 | 2009-07-28 | aceito | cvm-col-20090728-d08 | fichas/tc/2009-04.md |
-| 12/2005 | 2009-07-28 | rejeitado | cvm-col-20090728-d07 | fichas/tc/2009-04.md |
-| RJ2009/6515 | 2009-07-28 | aceito | cvm-col-20090728-d06 | fichas/tc/2009-04.md |
-| RJ2009/1503 | 2009-07-28 | rejeitado | cvm-col-20090728-d05 | fichas/tc/2009-04.md |
-| RJ2002/7537 | 2009-07-28 | rejeitado | cvm-col-20090728-d04 | fichas/tc/2009-04.md |
-| RJ2008/11105 | 2009-07-14 | rejeitado | cvm-col-20090714-d11 | fichas/tc/2009-04.md |
-| RJ2009/3306 | 2009-07-14 | rejeitado | cvm-col-20090714-d09 | fichas/tc/2009-04.md |
-| RJ2009/1987 | 2009-07-14 | outro | cvm-col-20090714-d01-r2 | fichas/tc/2009-04.md |
-| RJ2008/10437 | 2009-07-07 | aceito | cvm-col-20090707-d06 | fichas/tc/2009-04.md |
-| RJ2008/6250 | 2009-07-07 | rejeitado | cvm-col-20090707-d05 | fichas/tc/2009-04.md |
-| RJ2008/11003 | 2009-07-07 | aceito | cvm-col-20090707-d02 | fichas/tc/2009-04.md |
-| 13/2006 | 2009-07-07 | outro | cvm-col-20090707-d01 | fichas/tc/2009-04.md |
-| RJ2008/12293 | 2009-06-23 | aceito | cvm-col-20090623-d10 | fichas/tc/2009-04.md |
-| RJ2008/12124 | 2009-06-23 | rejeitado | cvm-col-20090623-d09 | fichas/tc/2009-04.md |
-| RJ2008/9120 | 2009-06-23 | rejeitado | cvm-col-20090623-d08 | fichas/tc/2009-03.md |
-| RJ2008/10538 | 2009-06-23 | aceito | cvm-col-20090623-d07 | fichas/tc/2009-03.md |
-| RJ2007/4685 | 2009-06-23 | aceito | cvm-col-20090623-d03 | fichas/tc/2009-03.md |
-| RJ2008/11003 | 2009-06-23 | rejeitado | cvm-col-20090623-d02 | fichas/tc/2009-03.md |
-| RJ2009/2718 | 2009-06-23 | aceito | cvm-col-20090623-d01 | fichas/tc/2009-03.md |
-| RJ2008/12727 | 2009-06-02 | rejeitado | cvm-col-20090602-d10 | fichas/tc/2009-03.md |
-| RJ2008/9181 | 2009-06-02 | aceito | cvm-col-20090602-d09 | fichas/tc/2009-03.md |
-| RJ2008/9022 | 2009-06-02 | rejeitado | cvm-col-20090602-d08 | fichas/tc/2009-03.md |
-| RJ2008/8976 | 2009-06-02 | rejeitado | cvm-col-20090602-d07 | fichas/tc/2009-03.md |
-| RJ2008/4873 | 2009-06-02 | aceito | cvm-col-20090602-d03 | fichas/tc/2009-03.md |
-| RJ2009/3046 | 2009-06-02 | rejeitado | cvm-col-20090602-d02 | fichas/tc/2009-03.md |
-| RJ2009/0283 | 2009-05-05 | rejeitado | cvm-col-20090505-d05 | fichas/tc/2009-03.md |
-| RJ2008/10703; RJ2008/11846 | 2009-05-05 | rejeitado | cvm-col-20090505-d04 | fichas/tc/2009-03.md |
-| RJ2008/8046 | 2009-05-05 | rejeitado | cvm-col-20090505-d03 | fichas/tc/2009-03.md |
-| RJ2008/2334 | 2009-05-05 | rejeitado | cvm-col-20090505-d02 | fichas/tc/2009-03.md |
-| 13/2006 | 2009-05-05 | rejeitado | cvm-col-20090505-d01 | fichas/tc/2009-02.md |
-| RJ2008/8243 | 2009-04-14 | outro | cvm-col-20090414-d09 | fichas/tc/2009-02.md |
-| RJ2007/13030 | 2009-04-14 | rejeitado | cvm-col-20090414-d05 | fichas/tc/2009-02.md |
-| 13/2006 | 2009-04-14 | rejeitado | cvm-col-20090414-d02 | fichas/tc/2009-02.md |
-| RJ2008/4857 | 2009-04-07 | rejeitado | cvm-col-20090407-d06 | fichas/tc/2009-02.md |
-| 12/2005 | 2009-04-07 | rejeitado | cvm-col-20090407-d05 | fichas/tc/2009-02.md |
-| RJ2007/4414 | 2009-04-07 | rejeitado | cvm-col-20090407-d03 | fichas/tc/2009-02.md |
-| RJ2008/4369 | 2009-03-31 | aceito | cvm-col-20090331-d04 | fichas/tc/2009-02.md |
-| 21/2005 | 2009-03-31 | aceito | cvm-col-20090331-d03 | fichas/tc/2009-02.md |
-| SP2006/0137 | 2009-03-31 | rejeitado | cvm-col-20090331-d02 | fichas/tc/2009-02.md |
-| RJ2009/1987 | 2009-03-24 | outro | cvm-col-20090324-d03 | fichas/tc/2009-02.md |
-| RJ2007/14153 | 2009-03-17 | rejeitado | cvm-col-20090317-d03 | fichas/tc/2009-02.md |
-| RJ2008/7414 | 2009-03-10 | aceito | cvm-col-20090310-d07 | fichas/tc/2009-02.md |
-| 02/2007 | 2009-03-10 | rejeitado | cvm-col-20090310-d06 | fichas/tc/2009-01.md |
-| RJ2007/0384 | 2009-03-10 | rejeitado | cvm-col-20090310-d05 | fichas/tc/2009-01.md |
-| SP2007/0095 | 2009-03-10 | rejeitado | cvm-col-20090310-d04 | fichas/tc/2009-01.md |
-| SP2006/0164 | 2009-03-10 | aceito | cvm-col-20090310-d03 | fichas/tc/2009-01.md |
-| RJ2006/4665 | 2009-03-10 | rejeitado | cvm-col-20090310-d02 | fichas/tc/2009-01.md |
-| 27/2005 | 2009-03-03 | aceito | cvm-col-20090303-d03 | fichas/tc/2009-01.md |
-| RJ2008/9514 | 2009-02-10 | rejeitado | cvm-col-20090210-d04 | fichas/tc/2009-01.md |
-| RJ2008/8108 | 2009-02-10 | aceito | cvm-col-20090210-d03 | fichas/tc/2009-01.md |
-| 21/2006 | 2009-02-10 | aceito | cvm-col-20090210-d02 | fichas/tc/2009-01.md |
-| RJ2007/11415 | 2009-02-10 | aceito | cvm-col-20090210-d01 | fichas/tc/2009-01.md |
-| RJ2009/0428 | 2009-02-03 | aceito | cvm-col-20090203-d13 | fichas/tc/2009-01.md |
-| RJ2007/2078 | 2009-01-27 | rejeitado | cvm-col-20090127-d01 | fichas/tc/2009-01.md |
-| RJ2008/5880 | 2009-01-06 | aceito | cvm-col-20090106-d02 | fichas/tc/2009-01.md |
-| RJ2008/3931 | 2009-01-06 | aceito | cvm-col-20090106-d01 | fichas/tc/2009-01.md |
+| Processo | Data | Resultado | Ementa | Id | Ficha |
+|---|---|---|---|---|---|
+| RJ2009/3049 | 2009-12-15 | aceito | O Colegiado aceitou as três propostas de termo de compromisso no PAS da Petrobras sobre informações relevantes divulgadas na mídia sem fato… | cvm-col-20091215-d06 | fichas/tc/2009-09.md |
+| RJ2009/2382 | 2009-12-15 | aceito | O Colegiado aceitou as propostas de termo de compromisso da Geração Futuro Corretora, da Geração Administração de Recursos e de um diretor… | cvm-col-20091215-d05 | fichas/tc/2009-09.md |
+| 09/2008 | 2009-12-15 | aceito | O Colegiado aceitou nove propostas de termo de compromisso no PAS 09/2008 (valores individuais de R$ 200.000,00 a R$ 3.030.000,00)… | cvm-col-20091215-d04 | fichas/tc/2009-09.md |
+| RJ2008/9022 | 2009-12-15 | rejeitado | O Colegiado rejeitou as quatro novas propostas de termo de compromisso de administradores da Cyrela Brazil Realty S.A. (total de R$ 1… | cvm-col-20091215-d03 | fichas/tc/2009-09.md |
+| 21/2005 | 2009-12-15 | aceito | O Colegiado, por maioria, aprovou nova proposta de termo de compromisso de três acionistas controladores e administradores da Ambev, de R$… | cvm-col-20091215-d02 | fichas/tc/2009-09.md |
+| RJ2009/4744 | 2009-12-08 | aceito | O Colegiado, por maioria, aprovou a proposta de termo de compromisso de quatro administradores da Weg S.A. (R$ 300.000,00 cada), acusados… | cvm-col-20091208-d23 | fichas/tc/2009-09.md |
+| RJ2009/2610 | 2009-12-08 | rejeitado | O Colegiado rejeitou as cinco propostas de termo de compromisso apresentadas por administradores e membros do conselho fiscal da Clarion… | cvm-col-20091208-d10 | fichas/tc/2009-09.md |
+| RJ2009/5978 | 2009-12-08 | aceito | O Colegiado aceitou a proposta de termo de compromisso do proponente, no valor de R$ 200.000,00, acusado, na qualidade de DRI da Redecard… | cvm-col-20091208-d09 | fichas/tc/2009-08.md |
+| RJ2009/4096 | 2009-12-08 | aceito | O Colegiado aceitou duas propostas de termo de compromisso no PAS RJ2009/4096, acompanhando o parecer do Comitê: R$ 200.000,00 de um… | cvm-col-20091208-d08 | fichas/tc/2009-08.md |
+| RJ2009/5865 | 2009-12-08 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso, acompanhando o parecer do Comitê. Imputação: possível atuação como administrador… | cvm-col-20091208-d07 | fichas/tc/2009-08.md |
+| RJ2009/0485 | 2009-12-08 | aceito | O Colegiado aceitou a nova proposta de termo de compromisso do Banco de Investimentos Credit Suisse (Brasil) S.A. e de um diretor, no… | cvm-col-20091208-d06 | fichas/tc/2009-08.md |
+| SP2007/0095 | 2009-12-08 | aceito | O Colegiado aceitou a nova proposta de termo de compromisso dos proponentes e da Intrade Informações Ltda., de pagar US$ 70,000.00 (15% da… | cvm-col-20091208-d05 | fichas/tc/2009-08.md |
+| RJ2009/9186 | 2009-12-08 | rejeitado | O Colegiado rejeitou nova proposta de termo de compromisso de um membro de conselho de administração de companhia aberta, apresentada antes… | cvm-col-20091208-d04 | fichas/tc/2009-08.md |
+| 02/2006 | 2009-12-08 | rejeitado | O Colegiado rejeitou as propostas de termo de compromisso do Banco Opportunity S.A. (R$ 200.000,00) e de uma pessoa física (R$ 100.000,00)… | cvm-col-20091208-d01 | fichas/tc/2009-08.md |
+| SP2008/0040 | 2009-11-24 | aceito | O Colegiado aceitou a proposta conjunta de termo de compromisso da Pax Corretora de Valores e Câmbio Ltda., da Renda Corretora de… | cvm-col-20091124-d09 | fichas/tc/2009-08.md |
+| RJ2009/5542 | 2009-11-24 | aceito | O Colegiado aceitou proposta de termo de compromisso da XP Investimentos Corretora de Câmbio, Títulos e Valores Mobiliários S.A… | cvm-col-20091124-d08 | fichas/tc/2009-08.md |
+| RJ2009/4088 | 2009-11-24 | rejeitado | O Colegiado, acompanhando o parecer do Comitê, rejeitou a proposta de termo de compromisso do diretor de relações com investidores da FG… | cvm-col-20091124-d07 | fichas/tc/2009-08.md |
+| RJ2008/8046 | 2009-11-24 | aceito | O Colegiado aceitou nova proposta de termo de compromisso de seis administradores da Construtora Lix da Cunha S.A., após rejeição da… | cvm-col-20091124-d05 | fichas/tc/2009-08.md |
+| RJ2008/5980 | 2009-11-24 | aceito | O Colegiado aceitou proposta de termo de compromisso do proponente, diretor financeiro da Ideiasnet S.A., acompanhando o parecer do Comitê… | cvm-col-20091124-d04 | fichas/tc/2009-08.md |
+| RJ2009/6773 | 2009-11-24 | rejeitado | O Colegiado rejeitou as quatro propostas de termo de compromisso de acusados de uso de informação privilegiada em negociações com ações da… | cvm-col-20091124-d03 | fichas/tc/2009-08.md |
+| RJ2009/5051 | 2009-11-24 | rejeitado | Com base no parecer do Comitê, o Colegiado rejeitou proposta de termo de compromisso de banco, corretora e duas pessoas físicas por suposto… | cvm-col-20091124-d02 | fichas/tc/2009-07.md |
+| RJ2009/5279 | 2009-11-17 | rejeitado | Por considerar as propostas desproporcionais à gravidade da conduta, o Colegiado rejeitou propostas de termo de compromisso de três… | cvm-col-20091117-d05 | fichas/tc/2009-07.md |
+| RJ2008/9574 | 2009-11-17 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de R$ 375.000,00 de três conselheiros de administração, no PAS RJ2008/9574, acusados… | cvm-col-20091117-d04 | fichas/tc/2009-07.md |
+| 13/2006 | 2009-11-17 | rejeitado | Por unanimidade, o Colegiado rejeitou nova proposta de termo de compromisso de um acusado no PAS 13/2006, de R$ 100.000,00, por negociação… | cvm-col-20091117-d03 | fichas/tc/2009-07.md |
+| 21/2005 | 2009-11-17 | rejeitado | O Colegiado rejeitou, por unanimidade, a proposta de termo de compromisso de três proponentes acusados de uso de informação privilegiada em… | cvm-col-20091117-d02 | fichas/tc/2009-07.md |
+| RJ2006/4665 | 2009-11-10 | aceito | O Colegiado aceitou nova proposta de termo de compromisso da Máxima S.A. DTVM e de seu administrador à época, acusados de cobrar taxa de… | cvm-col-20091110-d01 | fichas/tc/2009-07.md |
+| RJ2009/6426 | 2009-10-27 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso do acusado, diretor de relações com investidores da HSBX Bauru Empreendimentos… | cvm-col-20091027-d12 | fichas/tc/2009-07.md |
+| RJ2009/6425 | 2009-10-27 | aceito | O Colegiado aceitou a proposta de termo de compromisso do diretor de relações com investidores da Baladare Participações S.A., acusado de… | cvm-col-20091027-d11 | fichas/tc/2009-07.md |
+| RJ2009/5594 | 2009-10-27 | aceito | Acompanhando o Comitê, o Colegiado aceitou proposta de termo de compromisso de instituição financeira e seu diretor executivo, que pagarão… | cvm-col-20091027-d10 | fichas/tc/2009-07.md |
+| RJ2009/4164 | 2009-10-27 | aceito | O Colegiado aceitou a proposta de termo de compromisso do diretor de relações com investidores da DHB Indústria e Comércio S.A., acusado… | cvm-col-20091027-d09 | fichas/tc/2009-07.md |
+| RJ2004/4457 | 2009-10-27 | aceito | O Colegiado aceitou proposta de termo de compromisso da Ágora CTVM S.A., acompanhando o parecer do Comitê, em PAS por operações no mercado… | cvm-col-20091027-d08 | fichas/tc/2009-07.md |
+| 22/2006 | 2009-10-20 | aceito | Apreciação de nova proposta de termo de compromisso. | cvm-col-20091020-d06 | fichas/tc/2009-07.md |
+| RJ2007/10967 | 2009-10-13 | outro | Em cumprimento à determinação de 14.04.09, o Colegiado tomou conhecimento das medidas da SEP sobre se o contrato de indenização entre o… | cvm-col-20091013-d15 | fichas/tc/2009-07.md |
+| RJ2009/1503 | 2009-10-13 | aceito | O Colegiado aceitou nova proposta de termo de compromisso do acusado, de R$ 200.000,00, na qualidade de diretor-presidente da Cosan S.A… | cvm-col-20091013-d04 | fichas/tc/2009-07.md |
+| RJ2009/6349 | 2009-10-13 | outro | O Colegiado decidiu pedir ao Comitê de Termo de Compromisso que avalie a renegociação da proposta de um acusado no PAS 07/2007, sobre… | cvm-col-20091013-d03 | fichas/tc/2009-07.md |
+| RJ2009/5351 | 2009-10-13 | outro | O Colegiado solicitou ao Comitê de Termo de Compromisso que avalie a renegociação da proposta de um dos proponentes no PAS 19/2006 (não… | cvm-col-20091013-d02 | fichas/tc/2009-06.md |
+| RJ2008/11749 | 2009-10-06 | aceito | O Colegiado aceitou nova proposta de termo de compromisso da KPMG Auditores Independentes e de seu responsável técnico, que passa a… | cvm-col-20091006-d09 | fichas/tc/2009-06.md |
+| RJ2009/4163 | 2009-09-29 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de R$ 10.000,00 do diretor de relações com investidores da CONPEL - Companhia… | cvm-col-20090929-d04 | fichas/tc/2009-06.md |
+| RJ2009/0485 | 2009-09-29 | outro | O Colegiado aceitou a proposta de Termo de Compromisso do controlador indireto da OGX (R$ 100.000,00) e rejeitou a proposta conjunta do… | cvm-col-20090929-d03 | fichas/tc/2009-06.md |
+| RJ2006/1077 | 2009-09-15 | aceito | O Colegiado, por maioria, aceitou a proposta de Termo de Compromisso de R$ 30.000,00 da Oliveira Trust DTVM S.A., apresentada antes da… | cvm-col-20090915-d07 | fichas/tc/2009-06.md |
+| RJ2009/4925 | 2009-09-15 | rejeitado | O Colegiado rejeitou a proposta de Termo de Compromisso de membro do conselho de administração e diretor da Lupatech S.A., por venda de… | cvm-col-20090915-d06 | fichas/tc/2009-06.md |
+| RJ2009/4006 | 2009-09-15 | aceito | O Colegiado aceitou proposta de termo de compromisso do diretor de relações com investidores da Refinaria de Petróleos Manguinhos S.A., de… | cvm-col-20090915-d05 | fichas/tc/2009-06.md |
+| RJ2009/3952 | 2009-09-15 | aceito | O Colegiado aceitou a proposta de termo de compromisso do diretor de relações com investidores da Wtorre Empreendimentos Imobiliários S.A… | cvm-col-20090915-d04 | fichas/tc/2009-06.md |
+| RJ2009/3950 | 2009-09-15 | aceito | O Colegiado aceitou a proposta de Termo de Compromisso de R$ 30.000,00 da diretora de relações com investidores da Araucária Participações… | cvm-col-20090915-d03 | fichas/tc/2009-06.md |
+| 07/2008 | 2009-09-15 | aceito | O Colegiado aceitou as seis propostas de Termo de Compromisso no PAS 07/2008 (DTCom), por condições artificiais de demanda, oferta ou preço… | cvm-col-20090915-d02 | fichas/tc/2009-06.md |
+| RJ2009/5710 | 2009-09-15 | aceito | O Colegiado aceitou proposta de termo de compromisso de um membro do conselho de administração da Olvebra S.A., de R$ 20.000,00… | cvm-col-20090915-d01 | fichas/tc/2009-06.md |
+| RJ2008/11749 | 2009-09-08 | aceito | O Colegiado aceitou proposta de termo de compromisso da KPMG Auditores Independentes e de seu sócio responsável técnico, de R$ 400.000,00… | cvm-col-20090908-d01 | fichas/tc/2009-06.md |
+| RJ2008/11105 | 2009-08-18 | aceito | O Colegiado aceitou nova proposta de Termo de Compromisso de R$ 350.000,00 do ex-diretor de RI da CSN, por omissão de fato relevante e… | cvm-col-20090818-d08 | fichas/tc/2009-06.md |
+| RJ2009/4140 | 2009-08-18 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso do diretor de relações com investidores da Cerâmica Chiarelli S.A., acusado de… | cvm-col-20090818-d06 | fichas/tc/2009-05.md |
+| RJ2009/4089 | 2009-08-18 | aceito | O Colegiado aceitou a proposta de Termo de Compromisso de R$ 30.000,00 do diretor de relações com investidores da Monticiano Participações… | cvm-col-20090818-d05 | fichas/tc/2009-05.md |
+| RJ2008/10421 | 2009-08-18 | aceito | O Colegiado aceitou a proposta de Termo de Compromisso do controlador da Agra Empreendimentos Imobiliários S.A., de R$ 1.372.000,00, por… | cvm-col-20090818-d04 | fichas/tc/2009-05.md |
+| RJ2008/8243 | 2009-08-18 | aceito | O Colegiado aceitou nova proposta de termo de compromisso da Interfloat e de um de seus diretores, de R$ 180.000,00 (R$ 90.000,00 para cada… | cvm-col-20090818-d03 | fichas/tc/2009-05.md |
+| SP2007/0095 | 2009-08-18 | rejeitado | O Colegiado rejeitou as novas propostas de termo de compromisso de dois acusados, de US$ 30,000.00 e US$ 20,000.00, em processo por… | cvm-col-20090818-d02 | fichas/tc/2009-05.md |
+| RJ2007/4414 | 2009-08-18 | aceito | O Colegiado aceitou a nova proposta de Termo de Compromisso da Intertrading Consultoria Empresarial Ltda. e de seu sócio-administrador… | cvm-col-20090818-d01 | fichas/tc/2009-05.md |
+| 06/2008 | 2009-07-28 | aceito | Apreciação de proposta de termo de compromisso PAS 06/2008. | cvm-col-20090728-d13 | fichas/tc/2009-05.md |
+| 14/2004 | 2009-07-28 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de R$ 100.000,00 do ex-diretor-presidente da Embratel, acusado de irregularidades na… | cvm-col-20090728-d12 | fichas/tc/2009-05.md |
+| RJ2009/0283 | 2009-07-28 | aceito | O Colegiado aceitou nova proposta de Termo de Compromisso de R$ 60.000,00, em conjunto, dos diretores de relações com investidores da… | cvm-col-20090728-d11 | fichas/tc/2009-05.md |
+| RJ2008/10703; RJ2008/11846 | 2009-07-28 | aceito | O Colegiado aceitou nova proposta de Termo de Compromisso da Prosper S/A CVC, da Prosper Gestão de Recursos e de dois diretores… | cvm-col-20090728-d10 | fichas/tc/2009-05.md |
+| RJ2008/2334 | 2009-07-28 | aceito | O Colegiado aceitou nova proposta conjunta de Termo de Compromisso de três acusados do Banestes S.A. – Banco do Estado do Espírito Santo… | cvm-col-20090728-d09 | fichas/tc/2009-05.md |
+| RJ2009/5730 | 2009-07-28 | aceito | O Colegiado aceitou nova proposta de termo de compromisso de R$ 220.000,00 do DRI da Embratel Participações S.A., acusado de não divulgar… | cvm-col-20090728-d08 | fichas/tc/2009-04.md |
+| 12/2005 | 2009-07-28 | rejeitado | O Colegiado rejeitou nova proposta de Termo de Compromisso de R$ 40.000,00 de diretor de relações com o mercado da Encomind Agroindustrial… | cvm-col-20090728-d07 | fichas/tc/2009-04.md |
+| RJ2009/6515 | 2009-07-28 | aceito | O Colegiado aceitou nova proposta de termo de compromisso de três pessoas acusadas de atuar como analistas de valores mobiliários sem… | cvm-col-20090728-d06 | fichas/tc/2009-04.md |
+| RJ2009/1503 | 2009-07-28 | rejeitado | O Colegiado rejeitou proposta de Termo de Compromisso do diretor-presidente da Cosan S.A., acusado de declarações à mídia sobre oferta… | cvm-col-20090728-d05 | fichas/tc/2009-04.md |
+| RJ2002/7537 | 2009-07-28 | rejeitado | O Colegiado rejeitou nova proposta de termo de compromisso de R$ 35.000,00 do ex-diretor e controlador da Têxtil Renaux S.A., acusado de… | cvm-col-20090728-d04 | fichas/tc/2009-04.md |
+| RJ2008/11105 | 2009-07-14 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de R$ 270.000,00 de ex-diretor de RI da CSN, acusado de não divulgar fato relevante… | cvm-col-20090714-d11 | fichas/tc/2009-04.md |
+| RJ2009/3306 | 2009-07-14 | rejeitado | O Colegiado rejeitou proposta de Termo de Compromisso de acusado de operações fraudulentas e práticas não equitativas na BM&F (PAS… | cvm-col-20090714-d09 | fichas/tc/2009-04.md |
+| RJ2009/1987 | 2009-07-14 | outro | O Colegiado manteve a interpretação de que a Cláusula 1ª do Termo de Compromisso veda ao Banco Safra constituir fundos de investimento… | cvm-col-20090714-d01-r2 | fichas/tc/2009-04.md |
+| RJ2008/10437 | 2009-07-07 | aceito | O Colegiado aceitou duas propostas de Termo de Compromisso da UNIPAR – União de Indústrias Petroquímicas S.A.: de R$ 200.000,00 do DRI (não… | cvm-col-20090707-d06 | fichas/tc/2009-04.md |
+| RJ2008/6250 | 2009-07-07 | rejeitado | O Colegiado rejeitou proposta de Termo de Compromisso de administradores da Metalon, acusados de não convocar AGOs dos exercícios 2000 a… | cvm-col-20090707-d05 | fichas/tc/2009-04.md |
+| RJ2008/11003 | 2009-07-07 | aceito | O Colegiado aceitou nova proposta de Termo de Compromisso de R$ 200.000,00 do diretor de relações com investidores da M&G Poliéster S.A… | cvm-col-20090707-d02 | fichas/tc/2009-04.md |
+| 13/2006 | 2009-07-07 | outro | O Colegiado rejeitou pedido de reconsideração da decisão que rejeitara proposta de Termo de Compromisso no PAS 13/2006 e determinou a… | cvm-col-20090707-d01 | fichas/tc/2009-04.md |
+| RJ2008/12293 | 2009-06-23 | aceito | O Colegiado aceitou proposta de termo de compromisso de R$ 100.000,00 da SOCOPA Sociedade Corretora Paulista S.A., acusada de não… | cvm-col-20090623-d10 | fichas/tc/2009-04.md |
+| RJ2008/12124 | 2009-06-23 | rejeitado | O Colegiado rejeitou proposta de Termo de Compromisso de administrador da Buettner S.A. Indústria e Comércio, acusado de não guardar sigilo… | cvm-col-20090623-d09 | fichas/tc/2009-04.md |
+| RJ2008/9120 | 2009-06-23 | rejeitado | O Colegiado rejeitou proposta de Termo de Compromisso da Ernst & Young Auditores Independentes e de seu sócio responsável, acusados de… | cvm-col-20090623-d08 | fichas/tc/2009-03.md |
+| RJ2008/10538 | 2009-06-23 | aceito | O Colegiado aceitou proposta de Termo de Compromisso do diretor de relações com investidores da JBS S.A., acusado de não divulgar fato… | cvm-col-20090623-d07 | fichas/tc/2009-03.md |
+| RJ2007/4685 | 2009-06-23 | aceito | O Colegiado aceitou proposta de Termo de Compromisso do presidente do Conselho de Administração da Mesbla Trust, acusado de não convocar… | cvm-col-20090623-d03 | fichas/tc/2009-03.md |
+| RJ2008/11003 | 2009-06-23 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de R$ 130.000,00 do diretor de RI da M&G Poliéster S.A., acusado de não divulgar fato… | cvm-col-20090623-d02 | fichas/tc/2009-03.md |
+| RJ2009/2718 | 2009-06-23 | aceito | O Colegiado aceitou proposta de termo de compromisso da J. P. Morgan Whitefriars Inc., investidor não residente, de R$ 50.000,00, acusado… | cvm-col-20090623-d01 | fichas/tc/2009-03.md |
+| RJ2008/12727 | 2009-06-02 | rejeitado | O Colegiado rejeitou as três propostas de termo de compromisso de administradores da Santos Brasil Participações S.A., inclusive a de R$… | cvm-col-20090602-d10 | fichas/tc/2009-03.md |
+| RJ2008/9181 | 2009-06-02 | aceito | O Colegiado aceitou proposta de Termo de Compromisso de R$ 200.000,00 apresentada pelo diretor de relações com investidores da Marfrig, com… | cvm-col-20090602-d09 | fichas/tc/2009-03.md |
+| RJ2008/9022 | 2009-06-02 | rejeitado | O Colegiado rejeitou as propostas de termo de compromisso apresentadas individualmente por quatro acusados, por negociação de ações antes… | cvm-col-20090602-d08 | fichas/tc/2009-03.md |
+| RJ2008/8976 | 2009-06-02 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de diretor de RI acusado de não divulgar fato relevante diante de oscilações atípicas… | cvm-col-20090602-d07 | fichas/tc/2009-03.md |
+| RJ2008/4873 | 2009-06-02 | aceito | O Colegiado aceitou nova proposta de termo de compromisso de diretor de RI acusado de não enviar demonstrações e ITRs de 2007 e 2008… | cvm-col-20090602-d03 | fichas/tc/2009-03.md |
+| RJ2009/3046 | 2009-06-02 | rejeitado | O Colegiado rejeitou novas propostas de termo de compromisso de três membros do conselho de administração da Parmalat Brasil S.A. Indústria… | cvm-col-20090602-d02 | fichas/tc/2009-03.md |
+| RJ2009/0283 | 2009-05-05 | rejeitado | O Colegiado rejeitou proposta conjunta de dois diretores de RI, acusados de atraso ou não envio de demonstrações e ITRs de 2007 e 2008… | cvm-col-20090505-d05 | fichas/tc/2009-03.md |
+| RJ2008/10703; RJ2008/11846 | 2009-05-05 | rejeitado | O Colegiado rejeitou proposta conjunta de termo de compromisso da Prosper S.A. CVC, da Prosper Gestão de Recursos e de dois diretores, por… | cvm-col-20090505-d04 | fichas/tc/2009-03.md |
+| RJ2008/8046 | 2009-05-05 | rejeitado | O Colegiado rejeitou proposta de Termo de Compromisso de seis administradores da Construtora Lix da Cunha S.A., acusados de irregularidades… | cvm-col-20090505-d03 | fichas/tc/2009-03.md |
+| RJ2008/2334 | 2009-05-05 | rejeitado | O Colegiado rejeitou proposta conjunta de termo de compromisso de três acusados, por não divulgação de fato relevante e falta de sigilo de… | cvm-col-20090505-d02 | fichas/tc/2009-03.md |
+| 13/2006 | 2009-05-05 | rejeitado | O Colegiado rejeitou nova proposta de termo de compromisso de investidor estrangeiro acusado de embaraço à fiscalização em inquérito sobre… | cvm-col-20090505-d01 | fichas/tc/2009-02.md |
+| RJ2008/8243 | 2009-04-14 | outro | O Colegiado aceitou a proposta de termo de compromisso da Intra S.A. CCV, de R$ 150.000,00 no total, e rejeitou a da Interfloat HZ CCTVM… | cvm-col-20090414-d09 | fichas/tc/2009-02.md |
+| RJ2007/13030 | 2009-04-14 | rejeitado | O Colegiado rejeitou proposta de Termo de Compromisso da Companhia Brasileira de Latas e de três pessoas físicas, acusados de transformar a… | cvm-col-20090414-d05 | fichas/tc/2009-02.md |
+| 13/2006 | 2009-04-14 | rejeitado | O Colegiado rejeitou nova proposta de termo de compromisso de conselheiro acusado de negociar ações da companhia nos quinze dias anteriores… | cvm-col-20090414-d02 | fichas/tc/2009-02.md |
+| RJ2008/4857 | 2009-04-07 | rejeitado | O Colegiado rejeitou, acompanhando o parecer do Comitê, três propostas de Termo de Compromisso (R$ 650.000,00, R$ 100.000,00 e R$… | cvm-col-20090407-d06 | fichas/tc/2009-02.md |
+| 12/2005 | 2009-04-07 | rejeitado | O Colegiado rejeitou propostas de termo de compromisso de acionista controlador, administradores e conselheiros da Encomind, em PAS sobre… | cvm-col-20090407-d05 | fichas/tc/2009-02.md |
+| RJ2007/4414 | 2009-04-07 | rejeitado | O Colegiado rejeitou novas propostas de termo de compromisso da Intertrading Consultoria Empresarial Ltda. e seu sócio-administrador (R$… | cvm-col-20090407-d03 | fichas/tc/2009-02.md |
+| RJ2008/4369 | 2009-03-31 | aceito | O Colegiado aceitou a terceira proposta alternativa da Fama Investimentos e de seu sócio (R$ 100.000,00) e a proposta do Banco Santander e… | cvm-col-20090331-d04 | fichas/tc/2009-02.md |
+| 21/2005 | 2009-03-31 | aceito | O Colegiado, por maioria, aceitou, contra o parecer do Comitê, proposta de Termo de Compromisso de R$ 250.000,00 do proponente, então… | cvm-col-20090331-d03 | fichas/tc/2009-02.md |
+| SP2006/0137 | 2009-03-31 | rejeitado | O Colegiado, por unanimidade, rejeitou a nova proposta de termo de compromisso da Ativa S.A. CTVM e de um diretor, de R$ 80.000,00 (R$… | cvm-col-20090331-d02 | fichas/tc/2009-02.md |
+| RJ2009/1987 | 2009-03-24 | outro | O Colegiado interpretou cláusula de termo de compromisso do Banco Safra de Investimentos S.A.: a redação veda a constituição de outros… | cvm-col-20090324-d03 | fichas/tc/2009-02.md |
+| RJ2007/14153 | 2009-03-17 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso apresentada em conjunto por três pessoas acusadas de exercer atividade de analista… | cvm-col-20090317-d03 | fichas/tc/2009-02.md |
+| RJ2008/7414 | 2009-03-10 | aceito | O Colegiado aceitou, acompanhando o parecer do Comitê, proposta de Termo de Compromisso do diretor de relações com investidores da… | cvm-col-20090310-d07 | fichas/tc/2009-02.md |
+| 02/2007 | 2009-03-10 | rejeitado | O Colegiado rejeitou as três propostas de termo de compromisso apresentadas individualmente por dois administradores controladores e uma… | cvm-col-20090310-d06 | fichas/tc/2009-01.md |
+| RJ2007/0384 | 2009-03-10 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso da Filmes do Equador Ltda. e de pessoa física, feita antes da instauração de PAS… | cvm-col-20090310-d05 | fichas/tc/2009-01.md |
+| SP2007/0095 | 2009-03-10 | rejeitado | O Colegiado, por unanimidade, rejeitou duas propostas de termo de compromisso, de R$ 10.000,00 cada, de acusados por intermediação… | cvm-col-20090310-d04 | fichas/tc/2009-01.md |
+| SP2006/0164 | 2009-03-10 | aceito | O Colegiado aceitou proposta de Termo de Compromisso da Universidades Hotel Campinas I S/A e de seu sócio, de R$ 60.000,00 à CVM (R$… | cvm-col-20090310-d03 | fichas/tc/2009-01.md |
+| RJ2006/4665 | 2009-03-10 | rejeitado | O Colegiado rejeitou a proposta de termo de compromisso apresentada pela Máxima S/A DTVM e por um diretor à época, de R$ 35.000,00 (R$… | cvm-col-20090310-d02 | fichas/tc/2009-01.md |
+| 27/2005 | 2009-03-03 | aceito | O Colegiado aceitou nova proposta de termo de compromisso da Deloitte Touche Tohmatsu – Auditores Independentes e de dois sócios, após ter… | cvm-col-20090303-d03 | fichas/tc/2009-01.md |
+| RJ2008/9514 | 2009-02-10 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de conselheiro, acusado de negociação em período vedado (art. 13, §4º, Instrução… | cvm-col-20090210-d04 | fichas/tc/2009-01.md |
+| RJ2008/8108 | 2009-02-10 | aceito | O Colegiado aceitou proposta de termo de compromisso do diretor de relações com investidores da Serra Azul Water Park, acusado de atraso ou… | cvm-col-20090210-d03 | fichas/tc/2009-01.md |
+| 21/2006 | 2009-02-10 | aceito | O Colegiado aceitou proposta conjunta de Termo de Compromisso da BMC Asset Management DTVM Ltda. e de dois diretores, de pagar R$… | cvm-col-20090210-d02 | fichas/tc/2009-01.md |
+| RJ2007/11415 | 2009-02-10 | aceito | Apreciação de nova proposta de termo de compromisso. | cvm-col-20090210-d01 | fichas/tc/2009-01.md |
+| RJ2009/0428 | 2009-02-03 | aceito | O Colegiado aceitou proposta de termo de compromisso de conselheiro da Construtora Tenda, por negociar ações antes de fato relevante. Prevê… | cvm-col-20090203-d13 | fichas/tc/2009-01.md |
+| RJ2007/2078 | 2009-01-27 | rejeitado | O Colegiado rejeitou nova proposta de termo de compromisso da Geração Futuro Corretora e outros acusados no PAS RJ2007/2078, por entender… | cvm-col-20090127-d01 | fichas/tc/2009-01.md |
+| RJ2008/5880 | 2009-01-06 | aceito | O Colegiado aceitou nova proposta de Termo de Compromisso do Banco UBS Pactual S.A. de pagar R$ 200.000,00 à CVM, após rejeitar em 30.09.08… | cvm-col-20090106-d02 | fichas/tc/2009-01.md |
+| RJ2008/3931 | 2009-01-06 | aceito | O Colegiado aceitou proposta de termo de compromisso do Banco Morgan Stanley S.A. por possíveis infrações ao período de silêncio em oferta… | cvm-col-20090106-d01 | fichas/tc/2009-01.md |
 
 Fim do subíndice.

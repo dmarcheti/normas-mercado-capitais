@@ -49,15 +49,15 @@ Norma: fora do acervo.
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | acordao-crsfn | 19957.012197/2023-53 | 2025-09-16 | condenacao | crsfn-19957-012197-2023-53 | fichas/crsfn/2025-05.md |
-| acordao-crsfn | 19957.008274/2018-11; RJ2018/5469 | 2021-09-14 | parcial | crsfn-10372-100180-2020-14 | fichas/crsfn/2021-03.md |
+| acordao-crsfn | 19957.008274/2018-11; RJ2018/5469 | 2021-09-14 | parcial | crsfn-10372-100180-2020-14 | fichas/crsfn/2021-04.md |
 | decisao-colegiado | 19957.008088/2020-99 | 2021-06-15 | nao-provido | cvm-col-20210615-d2209 | fichas/colegiado/2021-10.md |
 | decisao-colegiado | 19957.006378/2019-64 | 2019-09-10 | deferido | cvm-col-20190910-d1529 | fichas/colegiado/2019-14.md |
 | decisao-colegiado | 400/2003; RJ2014/10089 | 2015-02-03 | deferido | cvm-col-20150203-d9557 | fichas/colegiado/2015-03.md |
 | decisao-colegiado | 400/2003; RJ2014/6202 | 2014-10-29 | deferido | cvm-col-20141029-d04 | fichas/colegiado/2014-20.md |
 | decisao-colegiado | 400/2003; RJ2014/5323 | 2014-09-02 | parcial | cvm-col-20140902-d22 | fichas/colegiado/2014-17.md |
 | decisao-colegiado | RJ2014/6342 | 2014-08-12 | deferido | cvm-col-20140812-d03 | fichas/colegiado/2014-14.md |
-| acordao-crsfn | 13/06 | 2014-06-03 | condenacao | crsfn-12947 | fichas/crsfn/2014-03.md |
-| pas | SP2007/0117 | 2008-02-26 | condenacao | cvm-pas-sp2007-0117 | fichas/pas/2008-01.md |
+| acordao-crsfn | 13/06 | 2014-06-03 | condenacao | crsfn-12947 | fichas/crsfn/2014-04.md |
+| pas | SP2007/0117 | 2008-02-26 | condenacao | cvm-pas-sp2007-0117 | fichas/pas/2008-02.md |
 | decisao-colegiado | RJ2002/8494 | 2006-08-08 | nao-provido | cvm-col-20060808-d04 | fichas/colegiado/2006-12.md |
 | termo-compromisso | IA19/2000 | 2002-05-29 | aceito | cvm-col-20020529-d3018 | fichas/tc/2002.md |
 

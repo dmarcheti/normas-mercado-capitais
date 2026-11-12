@@ -11,7 +11,7 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.001621/2020-91 | 2023-09-27 | absolvicao | cvm-pas-19957-001621-2020-91 | fichas/pas/2023-06.md |
+| pas | 19957.001621/2020-91 | 2023-09-27 | absolvicao | cvm-pas-19957-001621-2020-91 | fichas/pas/2023-11.md |
 | decisao-colegiado | 476/2009; 19957.008629/2021-60 | 2021-11-23 | indeferido | cvm-col-20211123-d2394 | fichas/colegiado/2021-20.md |
 | decisao-colegiado | 19957.006433/2021-31; 19957.006430/2021-05 | 2021-09-14 | deferido | cvm-col-20210914-d2306 | fichas/colegiado/2021-15.md |
 | decisao-colegiado | 19957.005632/2021-21; 19957.005640/2021-78 | 2021-08-17 | deferido | cvm-col-20210817-d2272 | fichas/colegiado/2021-13.md |

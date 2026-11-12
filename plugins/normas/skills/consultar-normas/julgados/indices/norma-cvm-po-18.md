@@ -11,7 +11,7 @@ Norma: [cvm/pareceres-orientacao/0018.md](../../normas/cvm/pareceres-orientacao/
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 24/2003 | 2005-06-09 | parcial | cvm-pas-24-2003 | fichas/pas/2005-04.md |
+| pas | 24/2003 | 2005-06-09 | parcial | cvm-pas-24-2003 | fichas/pas/2005-08.md |
 | decisao-colegiado | — | 2002-03-19 | nao-provido | cvm-col-20020319-d16 | fichas/colegiado/2002-06.md |
 | decisao-colegiado | RJ2001/3993 | 2002-02-27 | conhecimento | cvm-col-20020227-d03 | fichas/colegiado/2002-03.md |
 | decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |

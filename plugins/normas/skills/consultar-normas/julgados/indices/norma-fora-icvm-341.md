@@ -14,17 +14,17 @@ Norma: fora do acervo.
 | art. 1º | acordao-crsfn | 02/6032 | 2008-04-28 | absolvicao | crsfn-9790 | fichas/crsfn/2008-02.md |
 | art. 1º | decisao-colegiado | RJ2003/12965 | 2004-07-13 | nao-provido | cvm-col-20040713-d06 | fichas/colegiado/2004-08.md |
 | art. 1º | decisao-colegiado | RJ2002/6032 | 2005-11-08 | outro | cvm-col-20051108-d3883 | fichas/colegiado/2005-17.md |
-| art. 1º | pas | RJ2002/6982 | 2003-12-18 | absolvicao | cvm-pas-rj2002-6982 | fichas/pas/2003-05.md |
-| art. 1º | pas | RJ2002/6032 | 2006-03-29 | absolvicao | cvm-pas-rj2002-6032 | fichas/pas/2006-02.md |
-| art. 1º | pas | RJ2013/1852 | 2015-10-06 | condenacao | cvm-pas-rj2013-1852 | fichas/pas/2015-05.md |
+| art. 1º | pas | RJ2002/6982 | 2003-12-18 | absolvicao | cvm-pas-rj2002-6982 | fichas/pas/2003-10.md |
+| art. 1º | pas | RJ2002/6032 | 2006-03-29 | absolvicao | cvm-pas-rj2002-6032 | fichas/pas/2006-04.md |
+| art. 1º | pas | RJ2013/1852 | 2015-10-06 | condenacao | cvm-pas-rj2013-1852 | fichas/pas/2015-11.md |
 
 ## art. 2º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 2º | decisao-colegiado | RJ2002/6032 | 2005-11-08 | outro | cvm-col-20051108-d3883 | fichas/colegiado/2005-17.md |
-| art. 2º | pas | RJ2002/6982 | 2003-12-18 | absolvicao | cvm-pas-rj2002-6982 | fichas/pas/2003-05.md |
-| art. 2º | pas | RJ2002/6032 | 2006-03-29 | absolvicao | cvm-pas-rj2002-6032 | fichas/pas/2006-02.md |
+| art. 2º | pas | RJ2002/6982 | 2003-12-18 | absolvicao | cvm-pas-rj2002-6982 | fichas/pas/2003-10.md |
+| art. 2º | pas | RJ2002/6032 | 2006-03-29 | absolvicao | cvm-pas-rj2002-6032 | fichas/pas/2006-04.md |
 
 ## Citada sem dispositivo identificado
 

@@ -11,7 +11,7 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 03/2011 | 2023-08-09 | absolvicao | crsfn-10372-100285-2019-21 | fichas/crsfn/2023-05.md |
+| acordao-crsfn | 03/2011 | 2023-08-09 | absolvicao | crsfn-10372-100285-2019-21 | fichas/crsfn/2023-06.md |
 | acordao-crsfn | RJ-2008-9120 | 2014-03-18 | absolvicao | crsfn-12794 | fichas/crsfn/2014-02.md |
 | termo-compromisso | RJ2011/14167 | 2012-07-17 | aceito | cvm-col-20120717-d02 | fichas/tc/2012-04.md |
 | decisao-colegiado | RJ2009/6750 | 2009-10-13 | provido | cvm-col-20091013-d20 | fichas/colegiado/2009-18.md |

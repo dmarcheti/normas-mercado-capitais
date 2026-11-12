@@ -31,10 +31,10 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.007976/2020-94 | 2026-09-08 | parcial | cvm-pas-19957-007976-2020-94 | fichas/pas/2026-03.md |
+| pas | 19957.007976/2020-94 | 2026-09-08 | parcial | cvm-pas-19957-007976-2020-94 | fichas/pas/2026-04.md |
 | decisao-colegiado | 51/2021; 19957.002053/2025-51; 19957.008430/2025-65 | 2025-07-30 | outro | cvm-col-20250730-d3330 | fichas/colegiado/2025-07.md |
-| pas | 19957.011992/2023-24 | 2025-04-08 | condenacao | cvm-pas-19957-011992-2023-24 | fichas/pas/2025-02.md |
-| acordao-crsfn | 19957.002315/2021-53 | 2024-08-13 | parcial | crsfn-10372-100150-2022-61 | fichas/crsfn/2024-04.md |
+| pas | 19957.011992/2023-24 | 2025-04-08 | condenacao | cvm-pas-19957-011992-2023-24 | fichas/pas/2025-04.md |
+| acordao-crsfn | 19957.002315/2021-53 | 2024-08-13 | parcial | crsfn-10372-100150-2022-61 | fichas/crsfn/2024-05.md |
 | decisao-colegiado | RJ2015/00191 | 2022-07-12 | provido | cvm-col-20220712-d1732 | fichas/colegiado/2022-11.md |
 | decisao-colegiado | 19957.003996/2022-58 | 2022-05-31 | nao-provido | cvm-col-20220531-d2602 | fichas/colegiado/2022-09.md |
 | decisao-colegiado | 19957.003986/2022-12 | 2022-05-24 | nao-provido | cvm-col-20220524-d2588 | fichas/colegiado/2022-08.md |

@@ -35,7 +35,7 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2013/13152 | 2014-01-21 | nao-provido | cvm-col-20140121-d09 | fichas/colegiado/2014-01.md |
 | decisao-colegiado | RJ2013/13147 | 2014-01-21 | nao-provido | cvm-col-20140121-d08 | fichas/colegiado/2014-01.md |
 | decisao-colegiado | RJ2013/7059 | 2013-06-25 | outro | cvm-col-20130625-d06 | fichas/colegiado/2013-12.md |
-| acordao-crsfn | RJ-2006-9070 | 2010-07-28 | condenacao | crsfn-11956 | fichas/crsfn/2010-06.md |
+| acordao-crsfn | RJ-2006-9070 | 2010-07-28 | condenacao | crsfn-11956 | fichas/crsfn/2010-07.md |
 | pas | RJ2006/9070 | 2008-01-23 | condenacao | cvm-pas-rj2006-9070 | fichas/pas/2008-01.md |
 
 Fim do subíndice.

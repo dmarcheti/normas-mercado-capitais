@@ -5,80 +5,80 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
-| Processo | Data | Resultado | Id | Ficha |
-|---|---|---|---|---|
-| RJ2014/11294 | 2014-12-23 | rejeitado | cvm-col-20141223-d02 | fichas/tc/2014-06.md |
-| RJ2013/10172 | 2014-12-23 | aceito | cvm-col-20141223-d01 | fichas/tc/2014-06.md |
-| RJ2014/5102 | 2014-12-16 | aceito | cvm-col-20141216-d06 | fichas/tc/2014-06.md |
-| RJ2014/3919 | 2014-12-16 | aceito | cvm-col-20141216-d05 | fichas/tc/2014-06.md |
-| RJ2014/3624 | 2014-12-16 | rejeitado | cvm-col-20141216-d04 | fichas/tc/2014-06.md |
-| RJ2014/2046 | 2014-12-16 | aceito | cvm-col-20141216-d03 | fichas/tc/2014-06.md |
-| RJ2013/8696 | 2014-12-16 | aceito | cvm-col-20141216-d02 | fichas/tc/2014-05.md |
-| RJ2012/8369 | 2014-12-16 | aceito | cvm-col-20141216-d01 | fichas/tc/2014-05.md |
-| RJ2013/13240 | 2014-12-09 | aceito | cvm-tc-rj2013-13240-20140902 | fichas/tc/2014-05.md |
-| RJ2014/2314 | 2014-12-09 | rejeitado | cvm-col-20141209-d08 | fichas/tc/2014-05.md |
-| RJ2014/2050 | 2014-12-09 | rejeitado | cvm-col-20141209-d07 | fichas/tc/2014-05.md |
-| RJ2013/13240 | 2014-12-09 | aceito | cvm-col-20141209-d06 | fichas/tc/2014-05.md |
-| RJ2013/12570 | 2014-12-09 | aceito | cvm-col-20141209-d05 | fichas/tc/2014-05.md |
-| RJ2013/6294 | 2014-12-09 | aceito | cvm-col-20141209-d04 | fichas/tc/2014-05.md |
-| RJ2014/6913 | 2014-12-09 | rejeitado | cvm-col-20141209-d03 | fichas/tc/2014-05.md |
-| RJ2014/3456 | 2014-12-09 | rejeitado | cvm-col-20141209-d02 | fichas/tc/2014-05.md |
-| 26/2010 | 2014-12-09 | aceito | cvm-col-20141209-d01 | fichas/tc/2014-05.md |
-| RJ2013/9904 | 2014-12-02 | rejeitado | cvm-col-20141202-d17 | fichas/tc/2014-05.md |
-| RJ2013/9737 | 2014-12-02 | aceito | cvm-col-20141202-d16 | fichas/tc/2014-05.md |
-| RJ2013/7923 | 2014-12-02 | rejeitado | cvm-col-20141202-d15 | fichas/tc/2014-04.md |
-| RJ2013/5237 | 2014-12-02 | aceito | cvm-col-20141202-d14 | fichas/tc/2014-04.md |
-| RJ2013/4966 | 2014-12-02 | aceito | cvm-col-20141202-d13 | fichas/tc/2014-04.md |
-| RJ2011/4690; RJ2011/6787 | 2014-12-02 | aceito | cvm-col-20141202-d12 | fichas/tc/2014-04.md |
-| RJ2014/0027 | 2014-12-02 | aceito | cvm-col-20141202-d11 | fichas/tc/2014-04.md |
-| RJ2013/2758 | 2014-12-02 | outro | cvm-col-20141202-d10 | fichas/tc/2014-04.md |
-| RJ2013/8609 | 2014-12-02 | rejeitado | cvm-col-20141202-d09 | fichas/tc/2014-04.md |
-| RJ2013/2400 | 2014-12-02 | rejeitado | cvm-col-20141202-d08 | fichas/tc/2014-04.md |
-| SP2012/0374 | 2014-11-25 | rejeitado | cvm-col-20141125-d03 | fichas/tc/2014-04.md |
-| RJ2013/11178 | 2014-11-25 | aceito | cvm-col-20141125-d02 | fichas/tc/2014-04.md |
-| RJ2014/3427 | 2014-11-18 | rejeitado | cvm-col-20141118-d06 | fichas/tc/2014-04.md |
-| RJ2013/6224 | 2014-11-18 | rejeitado | cvm-col-20141118-d05 | fichas/tc/2014-04.md |
-| SP2013/0097 | 2014-11-18 | aceito | cvm-col-20141118-d04 | fichas/tc/2014-04.md |
-| RJ2012/8369 | 2014-11-18 | aceito | cvm-col-20141118-d03 | fichas/tc/2014-04.md |
-| RJ2014/3606 | 2014-11-18 | aceito | cvm-col-20141118-d02 | fichas/tc/2014-03.md |
-| RJ2013/13124 | 2014-11-18 | rejeitado | cvm-col-20141118-d01 | fichas/tc/2014-03.md |
-| RJ2012/11094 | 2014-11-11 | aceito | cvm-col-20141111-d03 | fichas/tc/2014-03.md |
-| RJ2011/10878 | 2014-11-11 | aceito | cvm-col-20141111-d02 | fichas/tc/2014-03.md |
-| RJ2013/8604 | 2014-11-11 | aceito | cvm-col-20141111-d01 | fichas/tc/2014-03.md |
-| SP2011/0260 | 2014-11-04 | aceito | cvm-col-20141104-d05 | fichas/tc/2014-03.md |
-| RJ2014/8814 | 2014-11-04 | rejeitado | cvm-col-20141104-d04 | fichas/tc/2014-03.md |
-| RJ2013/12703 | 2014-11-04 | rejeitado | cvm-col-20141104-d03 | fichas/tc/2014-03.md |
-| RJ2012/1131 | 2014-11-04 | aceito | cvm-col-20141104-d01 | fichas/tc/2014-03.md |
-| RJ2014/3423 | 2014-10-07 | rejeitado | cvm-col-20141007-d02 | fichas/tc/2014-03.md |
-| RJ2014/0782 | 2014-10-07 | rejeitado | cvm-col-20141007-d01 | fichas/tc/2014-03.md |
-| RJ2014/0413 | 2014-09-23 | aceito | cvm-col-20140923-d07 | fichas/tc/2014-03.md |
-| RJ2013/11178 | 2014-09-23 | outro | cvm-col-20140923-d06 | fichas/tc/2014-03.md |
-| RJ2013/1205 | 2014-09-23 | aceito | cvm-col-20140923-d05 | fichas/tc/2014-02.md |
-| RJ2013/0392 | 2014-09-23 | rejeitado | cvm-col-20140923-d04 | fichas/tc/2014-02.md |
-| RJ2013/11592 | 2014-09-09 | aceito | cvm-col-20140909-d03 | fichas/tc/2014-02.md |
-| RJ2013/10299 | 2014-09-09 | aceito | cvm-col-20140909-d02 | fichas/tc/2014-02.md |
-| RJ2013/11915 | 2014-09-09 | aceito | cvm-col-20140909-d01 | fichas/tc/2014-02.md |
-| RJ2013/2759 | 2014-08-12 | rejeitado | cvm-col-20140812-d02 | fichas/tc/2014-02.md |
-| RJ2012/3110 | 2014-08-12 | rejeitado | cvm-col-20140812-d01 | fichas/tc/2014-02.md |
-| SP2012/0480 | 2014-08-05 | rejeitado | cvm-col-20140805-d03 | fichas/tc/2014-02.md |
-| SP2013/0157 | 2014-08-05 | aceito | cvm-col-20140805-d02 | fichas/tc/2014-02.md |
-| RJ2013/5194 | 2014-08-05 | rejeitado | cvm-col-20140805-d01 | fichas/tc/2014-02.md |
-| 12/2010 | 2014-07-29 | rejeitado | cvm-col-20140729-d01 | fichas/tc/2014-02.md |
-| RJ2013/13121 | 2014-07-15 | aceito | cvm-col-20140715-d03 | fichas/tc/2014-02.md |
-| RJ2012/7353 | 2014-06-24 | aceito | cvm-col-20140624-d02 | fichas/tc/2014-02.md |
-| RJ2013/6635 | 2014-06-17 | rejeitado | cvm-col-20140617-d01 | fichas/tc/2014-01.md |
-| RJ2013/11917 | 2014-05-06 | rejeitado | cvm-col-20140506-d14 | fichas/tc/2014-01.md |
-| RJ2013/5640 | 2014-05-06 | aceito | cvm-col-20140506-d07 | fichas/tc/2014-01.md |
-| RJ2013/8699 | 2014-05-06 | aceito | cvm-col-20140506-d06 | fichas/tc/2014-01.md |
-| SP2013/0260 | 2014-05-06 | aceito | cvm-col-20140506-d05 | fichas/tc/2014-01.md |
-| RJ2013/13121 | 2014-05-06 | rejeitado | cvm-col-20140506-d04 | fichas/tc/2014-01.md |
-| RJ2013/4408 | 2014-04-15 | aceito | cvm-col-20140415-d03 | fichas/tc/2014-01.md |
-| RJ2013/1402 | 2014-04-15 | rejeitado | cvm-col-20140415-d02 | fichas/tc/2014-01.md |
-| RJ2013/10791 | 2014-04-15 | rejeitado | cvm-col-20140415-d01 | fichas/tc/2014-01.md |
-| 01/2012 | 2014-04-01 | aceito | cvm-col-20140401-d05 | fichas/tc/2014-01.md |
-| RJ2012/12931 | 2014-02-25 | aceito | cvm-col-20140225-d03 | fichas/tc/2014-01.md |
-| RJ2012/12961 | 2014-02-25 | aceito | cvm-col-20140225-d02 | fichas/tc/2014-01.md |
-| RJ2013/8159 | 2014-02-25 | aceito | cvm-col-20140225-d01 | fichas/tc/2014-01.md |
-| RJ2013/6635 | 2014-02-18 | — | cvm-col-20140218-d02 | fichas/tc/2014-01.md |
+| Processo | Data | Resultado | Ementa | Id | Ficha |
+|---|---|---|---|---|---|
+| RJ2014/11294 | 2014-12-23 | rejeitado | O Colegiado rejeitou as propostas de termo de compromisso, de R$ 120.000,00 cada, apresentadas por dois diretores de Varejo do Banco do… | cvm-col-20141223-d02 | fichas/tc/2014-06.md |
+| RJ2013/10172 | 2014-12-23 | aceito | O Colegiado aceitou a proposta de termo de compromisso da KPMG Auditores Independentes e de seu responsável técnico, acompanhando o Comitê… | cvm-col-20141223-d01 | fichas/tc/2014-06.md |
+| RJ2014/5102 | 2014-12-16 | aceito | O Colegiado aceitou, por unanimidade, proposta conjunta de acionistas controladores e administradores da Energisa S.A., no total de R$… | cvm-col-20141216-d06 | fichas/tc/2014-06.md |
+| RJ2014/3919 | 2014-12-16 | aceito | O Colegiado, por unanimidade e acompanhando o parecer do Comitê, aceitou a proposta de Termo de Compromisso de oito administradores da… | cvm-col-20141216-d05 | fichas/tc/2014-06.md |
+| RJ2014/3624 | 2014-12-16 | rejeitado | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou a proposta conjunta de termo de compromisso da gestora de fundo de ações e de… | cvm-col-20141216-d04 | fichas/tc/2014-06.md |
+| RJ2014/2046 | 2014-12-16 | aceito | O Colegiado aceitou a proposta de termo de compromisso do proponente, presidente da CVC Brasil Agência e Operadora de Viagens S.A., de… | cvm-col-20141216-d03 | fichas/tc/2014-06.md |
+| RJ2013/8696 | 2014-12-16 | aceito | O Colegiado aceitou, por unanimidade, as propostas de nove administradores da Multiner S.A., acompanhando o Comitê; seis delas, com… | cvm-col-20141216-d02 | fichas/tc/2014-05.md |
+| RJ2012/8369 | 2014-12-16 | aceito | O Colegiado declarou extinta a punibilidade de um proponente, falecido, e determinou o arquivamento do processo em relação a ele… | cvm-col-20141216-d01 | fichas/tc/2014-05.md |
+| RJ2013/13240 | 2014-12-09 | aceito | O Colegiado aprovou, em reunião de 09/12/2014, proposta de termo de compromisso do compromitente no PAS RJ2013/13240, com pagamento de R$… | cvm-tc-rj2013-13240-20140902 | fichas/tc/2014-05.md |
+| RJ2014/2314 | 2014-12-09 | rejeitado | O Colegiado rejeitou proposta de Termo de Compromisso de diretor de RI por falta de divulgação de fato relevante sobre tratativas de venda… | cvm-col-20141209-d08 | fichas/tc/2014-05.md |
+| RJ2014/2050 | 2014-12-09 | rejeitado | O Colegiado rejeitou, por unanimidade, proposta de termo de compromisso de R$ 200.000,00 do diretor de relações com investidores da CCX… | cvm-col-20141209-d07 | fichas/tc/2014-05.md |
+| RJ2013/13240 | 2014-12-09 | aceito | O Colegiado, por maioria, aceitou a proposta de Termo de Compromisso de um ex-diretor financeiro e de relações com investidores da Rossi… | cvm-col-20141209-d06 | fichas/tc/2014-05.md |
+| RJ2013/12570 | 2014-12-09 | aceito | O Colegiado aceitou, acompanhando o Comitê, a proposta de termo de compromisso do diretor de relações com investidores de companhia aberta… | cvm-col-20141209-d05 | fichas/tc/2014-05.md |
+| RJ2013/6294 | 2014-12-09 | aceito | O Colegiado aceitou, por unanimidade, quatro propostas de Termo de Compromisso de quatro administradores da Companhia Docas de Imbituba, um… | cvm-col-20141209-d04 | fichas/tc/2014-05.md |
+| RJ2014/6913 | 2014-12-09 | rejeitado | O Colegiado rejeitou, por unanimidade, proposta de termo de compromisso de R$ 30.000,00, em duas parcelas, de um ex-responsável técnico de… | cvm-col-20141209-d03 | fichas/tc/2014-05.md |
+| RJ2014/3456 | 2014-12-09 | rejeitado | O Colegiado rejeitou, por unanimidade, três propostas de Termo de Compromisso (de um acusado, de uma corretora e de seu diretor), relativas… | cvm-col-20141209-d02 | fichas/tc/2014-05.md |
+| 26/2010 | 2014-12-09 | aceito | O Colegiado aceitou, por maioria, duas propostas de termo de compromisso (de R$ 1.687.864,00 e R$ 145.440,00, ambas corrigidas pelo IPCA) e… | cvm-col-20141209-d01 | fichas/tc/2014-05.md |
+| RJ2013/9904 | 2014-12-02 | rejeitado | O Colegiado rejeitou a nova proposta de termo de compromisso do proponente, acusado de negociar ações da Amil Participações com informação… | cvm-col-20141202-d17 | fichas/tc/2014-05.md |
+| RJ2013/9737 | 2014-12-02 | aceito | O Colegiado aceitou, por unanimidade, proposta de termo de compromisso de um acionista controlador e administrador da Frigorífico… | cvm-col-20141202-d16 | fichas/tc/2014-05.md |
+| RJ2013/7923 | 2014-12-02 | rejeitado | O Colegiado rejeitou proposta conjunta de Termo de Compromisso de três administradores de companhia aberta, por remuneração com ações de… | cvm-col-20141202-d15 | fichas/tc/2014-04.md |
+| RJ2013/5237 | 2014-12-02 | aceito | O Colegiado aceitou, acompanhando o Comitê, a proposta de termo de compromisso de membro de conselho de administração de companhia aberta… | cvm-col-20141202-d14 | fichas/tc/2014-04.md |
+| RJ2013/4966 | 2014-12-02 | aceito | O Colegiado aceitou a proposta conjunta de termo de compromisso da Somma Investimentos S.A. e de seu diretor, no valor de R$200.000,00… | cvm-col-20141202-d13 | fichas/tc/2014-04.md |
+| RJ2011/4690; RJ2011/6787 | 2014-12-02 | aceito | O Colegiado aceitou, por unanimidade, proposta conjunta de termo de compromisso de dois administradores da Minerva S.A., de R$ 300.000,00… | cvm-col-20141202-d12 | fichas/tc/2014-04.md |
+| RJ2014/0027 | 2014-12-02 | aceito | O Colegiado, por maioria, aceitou propostas de Termo de Compromisso de um presidente de mesa de assembleia, do BNDES e da BNDESPAR, por… | cvm-col-20141202-d11 | fichas/tc/2014-04.md |
+| RJ2013/2758 | 2014-12-02 | outro | O Colegiado, acompanhando o Comitê, aceitou oito propostas de termo de compromisso por irregularidades na intermediação, com pagamentos de… | cvm-col-20141202-d10 | fichas/tc/2014-04.md |
+| RJ2013/8609 | 2014-12-02 | rejeitado | O Colegiado rejeitou a nova proposta de termo de compromisso do proponente, acusado de negociar ações da HRT Participações em Petróleo com… | cvm-col-20141202-d09 | fichas/tc/2014-04.md |
+| RJ2013/2400 | 2014-12-02 | rejeitado | O Colegiado rejeitou nova proposta de termo de compromisso de dois administradores da LLX Logística S.A., de R$ 250.000,00 cada (R$… | cvm-col-20141202-d08 | fichas/tc/2014-04.md |
+| SP2012/0374 | 2014-11-25 | rejeitado | O Colegiado rejeitou as sete propostas de Termo de Compromisso apresentadas por oito proponentes (seis pessoas físicas e duas sociedades)… | cvm-col-20141125-d03 | fichas/tc/2014-04.md |
+| RJ2013/11178 | 2014-11-25 | aceito | O Colegiado aceitou a nova proposta de termo de compromisso do proponente no PAS RJ2013/11178 (instaurado pela SRE), após retirar o assunto… | cvm-col-20141125-d02 | fichas/tc/2014-04.md |
+| RJ2014/3427 | 2014-11-18 | rejeitado | O Colegiado rejeitou, por unanimidade, proposta de termo de compromisso de R$ 500.000,00 apresentada pelo presidente da Oi S.A. por… | cvm-col-20141118-d06 | fichas/tc/2014-04.md |
+| RJ2013/6224 | 2014-11-18 | rejeitado | O Colegiado rejeitou proposta conjunta de termo de compromisso de R$ 150.000,00 (R$ 50.000,00 por proponente, três diretores da Mundial… | cvm-col-20141118-d05 | fichas/tc/2014-04.md |
+| SP2013/0097 | 2014-11-18 | aceito | O Colegiado aceitou a proposta conjunta de Termo de Compromisso de três proponentes responsabilizados por prática não equitativa (Instrução… | cvm-col-20141118-d04 | fichas/tc/2014-04.md |
+| RJ2012/8369 | 2014-11-18 | aceito | O Colegiado aceitou a proposta de termo de compromisso de nove administradores e controladores do Banco Indusval S.A., acompanhando o… | cvm-col-20141118-d03 | fichas/tc/2014-04.md |
+| RJ2014/3606 | 2014-11-18 | aceito | O Colegiado aceitou, por unanimidade, proposta de termo de compromisso de R$ 200.000,00 apresentada por ex-diretor de RI da Renova Energia… | cvm-col-20141118-d02 | fichas/tc/2014-03.md |
+| RJ2013/13124 | 2014-11-18 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de R$ 15.000,00 apresentada por um diretor de relações com investidores… | cvm-col-20141118-d01 | fichas/tc/2014-03.md |
+| RJ2012/11094 | 2014-11-11 | aceito | O Colegiado aceitou, por unanimidade, a proposta conjunta de termo de compromisso de administradores da Usina Costa Pinto, acompanhando o… | cvm-col-20141111-d03 | fichas/tc/2014-03.md |
+| RJ2011/10878 | 2014-11-11 | aceito | O Colegiado aceitou, por unanimidade, proposta de termo de compromisso da Socopa, de seu diretor responsável e do Banco Paulista… | cvm-col-20141111-d02 | fichas/tc/2014-03.md |
+| RJ2013/8604 | 2014-11-11 | aceito | O Colegiado aceitou apenas a proposta pecuniária de Termo de Compromisso, de R$ 200.000,00, do diretor de relações com investidores da… | cvm-col-20141111-d01 | fichas/tc/2014-03.md |
+| SP2011/0260 | 2014-11-04 | aceito | O Colegiado aceitou, por unanimidade, a proposta de termo de compromisso da corretora Um Investimentos e de um diretor responsável… | cvm-col-20141104-d05 | fichas/tc/2014-03.md |
+| RJ2014/8814 | 2014-11-04 | rejeitado | O Colegiado rejeitou, por unanimidade, a nova proposta de termo de compromisso de membro do conselho de administração da Ecodiesel, acusado… | cvm-col-20141104-d04 | fichas/tc/2014-03.md |
+| RJ2013/12703 | 2014-11-04 | rejeitado | O Colegiado rejeitou proposta conjunta de termo de compromisso de R$ 500.000,00 (R$ 300.000,00 da Oliveira Trust DTVM S.A. e R$ 200.000,00… | cvm-col-20141104-d03 | fichas/tc/2014-03.md |
+| RJ2012/1131 | 2014-11-04 | aceito | O Colegiado aceitou, por unanimidade, nova proposta de termo de compromisso apresentada por administradores da EMAE no PAS RJ2012/1131… | cvm-col-20141104-d01 | fichas/tc/2014-03.md |
+| RJ2014/3423 | 2014-10-07 | rejeitado | O Colegiado rejeitou as quatro propostas de termo de compromisso de administradores da CCX, acusados de omissão ou atraso na divulgação de… | cvm-col-20141007-d02 | fichas/tc/2014-03.md |
+| RJ2014/0782 | 2014-10-07 | rejeitado | O Colegiado rejeitou seis propostas de termo de compromisso de administradores da OGX Petróleo e Gás Participações S.A., acompanhando o… | cvm-col-20141007-d01 | fichas/tc/2014-03.md |
+| RJ2014/0413 | 2014-09-23 | aceito | O Colegiado aceitou, por unanimidade, a proposta de termo de compromisso apresentada em conjunto pelos administradores da Mendes Júnior… | cvm-col-20140923-d07 | fichas/tc/2014-03.md |
+| RJ2013/11178 | 2014-09-23 | outro | O Colegiado decidiu que o Comitê de Termo de Compromisso reavalie a renegociação da proposta do acusado, na qualidade de presidente de… | cvm-col-20140923-d06 | fichas/tc/2014-03.md |
+| RJ2013/1205 | 2014-09-23 | aceito | O Colegiado aceitou, por unanimidade, a proposta de termo de compromisso da Geração Futuro Corretora de Valores S.A., acompanhando o… | cvm-col-20140923-d05 | fichas/tc/2014-02.md |
+| RJ2013/0392 | 2014-09-23 | rejeitado | O Colegiado rejeitou proposta de Termo de Compromisso de uma gestora e de seu diretor responsável pela administração de carteiras, por… | cvm-col-20140923-d04 | fichas/tc/2014-02.md |
+| RJ2013/11592 | 2014-09-09 | aceito | O Colegiado aceitou proposta de Termo de Compromisso do diretor de relações com investidores de um banco, pela não divulgação tempestiva de… | cvm-col-20140909-d03 | fichas/tc/2014-02.md |
+| RJ2013/10299 | 2014-09-09 | aceito | O Colegiado aceitou, por unanimidade, a proposta de termo de compromisso de um diretor de relações com investidores da Coelce por não… | cvm-col-20140909-d02 | fichas/tc/2014-02.md |
+| RJ2013/11915 | 2014-09-09 | aceito | O Colegiado aceitou proposta de termo de compromisso de empresa de auditoria e de sócio responsável, acusados de parecer sem ressalvas em… | cvm-col-20140909-d01 | fichas/tc/2014-02.md |
+| RJ2013/2759 | 2014-08-12 | rejeitado | O Colegiado, acompanhando o parecer do Comitê, rejeitou duas propostas de termo de compromisso no PAS RJ2013/2759, sobre partes… | cvm-col-20140812-d02 | fichas/tc/2014-02.md |
+| RJ2012/3110 | 2014-08-12 | rejeitado | O Colegiado rejeitou nova proposta conjunta de Termo de Compromisso de cinco administradores da Companhia de Participações Aliança da… | cvm-col-20140812-d01 | fichas/tc/2014-02.md |
+| SP2012/0480 | 2014-08-05 | rejeitado | O Colegiado rejeitou três propostas de Termo de Compromisso de agentes autônomos e empresas acusados de administração irregular de carteira… | cvm-col-20140805-d03 | fichas/tc/2014-02.md |
+| SP2013/0157 | 2014-08-05 | aceito | O Colegiado aceitou, acompanhando o Comitê, proposta de termo de compromisso da Terra Investimentos Corretora de Mercadorias Ltda. e de um… | cvm-col-20140805-d02 | fichas/tc/2014-02.md |
+| RJ2013/5194 | 2014-08-05 | rejeitado | O Colegiado rejeitou, por unanimidade, proposta conjunta de Termo de Compromisso de dois proponentes acusados de manipulação de preços de… | cvm-col-20140805-d01 | fichas/tc/2014-02.md |
+| 12/2010 | 2014-07-29 | rejeitado | O Colegiado rejeitou proposta conjunta de termo de compromisso da Gradual CCTVM S.A. e de uma proponente pessoa física (R$ 150.000,00), por… | cvm-col-20140729-d01 | fichas/tc/2014-02.md |
+| RJ2013/13121 | 2014-07-15 | aceito | O Colegiado aceitou nova proposta de termo de compromisso no PAS RJ2013/8609, relativa a suposto uso de informação privilegiada em ações da… | cvm-col-20140715-d03 | fichas/tc/2014-02.md |
+| RJ2012/7353 | 2014-06-24 | aceito | O Colegiado manteve a aceitação, aprovada em 17.12.13, da proposta de Termo de Compromisso dos demais proponentes (ressarcimento à… | cvm-col-20140624-d02 | fichas/tc/2014-02.md |
+| RJ2013/6635 | 2014-06-17 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso da União, controladora da Eletrobras, acusada de voto em conflito de interesses em… | cvm-col-20140617-d01 | fichas/tc/2014-01.md |
+| RJ2013/11917 | 2014-05-06 | rejeitado | O Colegiado rejeitou proposta de termo de compromisso de investidor acusado de negociar ações da Aracruz Celulose S.A. com informação… | cvm-col-20140506-d14 | fichas/tc/2014-01.md |
+| RJ2013/5640 | 2014-05-06 | aceito | O Colegiado aceitou proposta de termo de compromisso do proponente, diretor de relações com investidores da Magazine Luiza S.A., no PAS… | cvm-col-20140506-d07 | fichas/tc/2014-01.md |
+| RJ2013/8699 | 2014-05-06 | aceito | O Colegiado aceitou proposta conjunta de termo de compromisso de três administradores da Companhia Celg de Participações (CELGPAR), no… | cvm-col-20140506-d06 | fichas/tc/2014-01.md |
+| SP2013/0260 | 2014-05-06 | aceito | O Colegiado aceitou, por unanimidade, proposta de termo de compromisso de ex-diretor financeiro de companhia, com pagamento de R$… | cvm-col-20140506-d05 | fichas/tc/2014-01.md |
+| RJ2013/13121 | 2014-05-06 | rejeitado | O Colegiado rejeitou, por unanimidade, proposta de Termo de Compromisso de R$ 5.000,00 de um sócio de empresa subsidiária da HRT… | cvm-col-20140506-d04 | fichas/tc/2014-01.md |
+| RJ2013/4408 | 2014-04-15 | aceito | O Colegiado aceitou proposta de termo de compromisso da Multicon Auditoria e Assessoria Contábil S/S, de R$ 10.000,00, por sócio sem… | cvm-col-20140415-d03 | fichas/tc/2014-01.md |
+| RJ2013/1402 | 2014-04-15 | rejeitado | O Colegiado rejeitou, acompanhando o parecer do Comitê de Termo de Compromisso, proposta conjunta de seis proponentes (administradores de… | cvm-col-20140415-d02 | fichas/tc/2014-01.md |
+| RJ2013/10791 | 2014-04-15 | rejeitado | O Colegiado rejeitou, por unanimidade, três propostas de Termo de Compromisso, de uma sociedade e seu sócio administrador, de uma pessoa… | cvm-col-20140415-d01 | fichas/tc/2014-01.md |
+| 01/2012 | 2014-04-01 | aceito | O Colegiado aceitou proposta de termo de compromisso de diretor financeiro de banco estadual, acusado de prática não equitativa e de… | cvm-col-20140401-d05 | fichas/tc/2014-01.md |
+| RJ2012/12931 | 2014-02-25 | aceito | O Colegiado aceitou proposta de termo de compromisso de dois diretores da JBS, acusados de aplicar e resgatar antecipadamente CDBs de banco… | cvm-col-20140225-d03 | fichas/tc/2014-01.md |
+| RJ2012/12961 | 2014-02-25 | aceito | O Colegiado, por unanimidade, aceitou propostas de termo de compromisso de cinco membros do conselho de administração da Telemar Norte… | cvm-col-20140225-d02 | fichas/tc/2014-01.md |
+| RJ2013/8159 | 2014-02-25 | aceito | O Colegiado aceitou proposta de termo de compromisso do proponente, acusado de prática não equitativa (Instrução CVM 08/79) em operações… | cvm-col-20140225-d01 | fichas/tc/2014-01.md |
+| RJ2013/6635 | 2014-02-18 | — | Apreciação de proposta de termo de compromisso no PAS RJ2013/6635. Julgamento suspenso por pedido de vista. | cvm-col-20140218-d02 | fichas/tc/2014-01.md |
 
 Fim do subíndice.

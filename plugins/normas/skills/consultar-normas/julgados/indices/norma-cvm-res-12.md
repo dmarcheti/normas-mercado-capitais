@@ -11,8 +11,8 @@ Norma: [cvm/resolucoes/0012.md](../../normas/cvm/resolucoes/0012.md) (texto vige
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.011231/2025-34 | 2026-10-02 | — | cvm-pas-19957-011231-2025-34 | fichas/pas/2026-03.md |
-| pas | 19957.012414/2022-24 | 2023-07-11 | condenacao | cvm-pas-19957-012414-2022-24 | fichas/pas/2023-04.md |
+| pas | 19957.011231/2025-34 | 2026-10-02 | — | cvm-pas-19957-011231-2025-34 | fichas/pas/2026-05.md |
+| pas | 19957.012414/2022-24 | 2023-07-11 | condenacao | cvm-pas-19957-012414-2022-24 | fichas/pas/2023-07.md |
 | decisao-colegiado | 19957.007347/2020-64 | 2020-11-17 | outro | cvm-col-20201117-d1975 | fichas/colegiado/2020-19.md |
 
 Fim do subíndice.

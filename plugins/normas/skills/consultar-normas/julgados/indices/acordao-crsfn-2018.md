@@ -5,74 +5,74 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
-| Processo | Data | Resultado | Id | Ficha |
-|---|---|---|---|---|
-| RJ2014/10290 | 2018-12-12 | outro | crsfn-edcl-10372-100292-2017-61 | fichas/crsfn/2018-08.md |
-| SP2012/402 | 2018-12-12 | condenacao | crsfn-14335 | fichas/crsfn/2018-08.md |
-| RJ2013/9904 | 2018-12-12 | condenacao | crsfn-14260 | fichas/crsfn/2018-08.md |
-| RJ2013/8695 | 2018-12-12 | parcial | crsfn-14095 | fichas/crsfn/2018-08.md |
-| RJ2014/591 | 2018-12-12 | parcial | crsfn-10372-100137-2017-45 | fichas/crsfn/2018-08.md |
-| RJ2012/9808 | 2018-12-11 | parcial | crsfn-edcl-14449 | fichas/crsfn/2018-07.md |
-| 04/2012 | 2018-12-11 | parcial | crsfn-14227 | fichas/crsfn/2018-07.md |
-| IA-2009-11 | 2018-12-11 | absolvicao | crsfn-13410 | fichas/crsfn/2018-07.md |
-| RJ2014/7072 | 2018-12-11 | parcial | crsfn-10372-100299-2018-64 | fichas/crsfn/2018-07.md |
-| RJ2015/6280 | 2018-12-11 | condenacao | crsfn-10372-100273-2018-16 | fichas/crsfn/2018-07.md |
-| RJ2013/6183 | 2018-12-11 | condenacao | crsfn-10372-000125-2017-11 | fichas/crsfn/2018-07.md |
-| SP2012/374 | 2018-12-11 | parcial | crsfn-10372-000122-2017-88 | fichas/crsfn/2018-07.md |
-| RJ2016/8172 | 2018-11-09 | condenacao | crsfn-10372-100340-2018-01 | fichas/crsfn/2018-07.md |
-| RJ2013/13480 | 2018-11-09 | condenacao | crsfn-10372-100169-2017-41 | fichas/crsfn/2018-07.md |
-| RJ2013/1402 | 2018-10-19 | parcial | crsfn-revisao-14096 | fichas/crsfn/2018-07.md |
-| 11/2012 | 2018-10-19 | condenacao | crsfn-14228 | fichas/crsfn/2018-06.md |
-| 2012/03 | 2018-10-19 | condenacao | crsfn-10372-100002-2018-61 | fichas/crsfn/2018-06.md |
-| RJ2013/7923 | 2018-10-18 | condenacao | crsfn-revisao-10372-000124-2017-77 | fichas/crsfn/2018-06.md |
-| RJ2012/6987 | 2018-10-18 | condenacao | crsfn-14215 | fichas/crsfn/2018-06.md |
-| RJ2013/2714 | 2018-10-18 | parcial | crsfn-14182 | fichas/crsfn/2018-06.md |
-| RJ2014/10556 | 2018-10-18 | condenacao | crsfn-10372-100113-2018-77 | fichas/crsfn/2018-06.md |
-| RJ2013/11654 | 2018-10-03 | absolvicao | crsfn-14088 | fichas/crsfn/2018-06.md |
-| RJ2012/9808 | 2018-09-20 | parcial | crsfn-14449 | fichas/crsfn/2018-06.md |
-| RJ2011/5211 | 2018-09-20 | parcial | crsfn-14362 | fichas/crsfn/2018-06.md |
-| RJ2012/1131 | 2018-09-20 | condenacao | crsfn-14293 | fichas/crsfn/2018-05.md |
-| IA-2004-14 | 2018-09-20 | absolvicao | crsfn-13156 | fichas/crsfn/2018-05.md |
-| RJ2014/10290 | 2018-08-22 | condenacao | crsfn-10372-100292-2017-61 | fichas/crsfn/2018-05.md |
-| RJ2014/5099 | 2018-08-21 | parcial | crsfn-14487 | fichas/crsfn/2018-05.md |
-| 08/2009 | 2018-08-21 | parcial | crsfn-14324 | fichas/crsfn/2018-05.md |
-| IA2008/02 | 2018-08-21 | condenacao | crsfn-13703 | fichas/crsfn/2018-05.md |
-| RJ2012/3110 | 2018-08-21 | condenacao | crsfn-10372-100210-2017-89 | fichas/crsfn/2018-05.md |
-| RJ2014/6225 | 2018-07-24 | arquivamento | crsfn-10372-100240-2017-95 | fichas/crsfn/2018-05.md |
-| RJ2015/6319 | 2018-07-24 | condenacao | crsfn-10372-100216-2017-56 | fichas/crsfn/2018-04.md |
-| RJ2014/12921 | 2018-07-24 | parcial | crsfn-10372-100205-2017-76 | fichas/crsfn/2018-04.md |
-| RJ2015/10367 | 2018-07-24 | condenacao | crsfn-10372-100191-2017-91 | fichas/crsfn/2018-04.md |
-| RJ2017/1698 | 2018-07-24 | condenacao | crsfn-10372-100141-2018-94 | fichas/crsfn/2018-04.md |
-| RJ2015/4456 | 2018-07-24 | condenacao | crsfn-10372-100066-2018-61 | fichas/crsfn/2018-04.md |
-| RJ2015/10858 | 2018-07-24 | parcial | crsfn-10372-000117-2017-75 | fichas/crsfn/2018-04.md |
-| RJ2013/5456 | 2018-07-10 | parcial | crsfn-14419 | fichas/crsfn/2018-04.md |
-| RJ2011/14514 | 2018-06-26 | parcial | crsfn-revisao-13730 | fichas/crsfn/2018-04.md |
-| IA2009/14 | 2018-06-26 | condenacao | crsfn-14400 | fichas/crsfn/2018-04.md |
-| RJ2013/4328 | 2018-06-26 | condenacao | crsfn-14361 | fichas/crsfn/2018-03.md |
-| RJ2011/2595 | 2018-06-26 | absolvicao | crsfn-14180 | fichas/crsfn/2018-03.md |
-| RJ2015/11472 | 2018-06-26 | condenacao | crsfn-10372-100151-2017-49 | fichas/crsfn/2018-03.md |
-| RJ2015/3529 | 2018-05-23 | parcial | crsfn-14446 | fichas/crsfn/2018-03.md |
-| RJ2013/9762 | 2018-04-25 | condenacao | crsfn-14420 | fichas/crsfn/2018-03.md |
-| RJ2012/13047 | 2018-04-03 | parcial | crsfn-14164 | fichas/crsfn/2018-03.md |
-| RJ2013/11706 | 2018-04-03 | condenacao | crsfn-14044 | fichas/crsfn/2018-03.md |
-| RJ2011/11073 | 2018-03-21 | parcial | crsfn-14486 | fichas/crsfn/2018-03.md |
-| RJ2013-1852 | 2018-03-21 | condenacao | crsfn-14429 | fichas/crsfn/2018-02.md |
-| IA2010/1 | 2018-03-21 | parcial | crsfn-13869 | fichas/crsfn/2018-02.md |
-| SP2007/113 | 2018-03-21 | absolvicao | crsfn-13748 | fichas/crsfn/2018-02.md |
-| RJ2014/3839 | 2018-03-21 | parcial | crsfn-10372-100196-2017-13 | fichas/crsfn/2018-02.md |
-| RJ2014/6515 | 2018-03-21 | condenacao | crsfn-10372-100192-2017-35 | fichas/crsfn/2018-02.md |
-| RJ2014/7199 | 2018-03-21 | condenacao | crsfn-10372-100145-2017-91 | fichas/crsfn/2018-02.md |
-| RJ2013/1730 | 2018-03-20 | absolvicao | crsfn-14396 | fichas/crsfn/2018-02.md |
-| RJ2012/6160 | 2018-03-20 | absolvicao | crsfn-14039 | fichas/crsfn/2018-02.md |
-| 11/2002 | 2018-03-20 | parcial | crsfn-13747 | fichas/crsfn/2018-02.md |
-| RJ2016/4134 | 2018-03-20 | condenacao | crsfn-10372-100230-2017-50 | fichas/crsfn/2018-01.md |
-| RJ2009/8439 | 2018-02-21 | parcial | crsfn-14212 | fichas/crsfn/2018-01.md |
-| RJ2013/7589 | 2018-02-21 | absolvicao | crsfn-13940 | fichas/crsfn/2018-01.md |
-| RJ2010/8784 | 2018-02-21 | absolvicao | crsfn-13904 | fichas/crsfn/2018-01.md |
-| RJ2006/3295 | 2018-02-21 | parcial | crsfn-13903 | fichas/crsfn/2018-01.md |
-| RJ2009/8316 | 2018-02-21 | parcial | crsfn-13728 | fichas/crsfn/2018-01.md |
-| SP2010/266 | 2018-02-20 | parcial | crsfn-13906 | fichas/crsfn/2018-01.md |
-| 24/2006 | 2018-02-20 | condenacao | crsfn-13621 | fichas/crsfn/2018-01.md |
-| RJ2012/13605 | 2018-02-20 | condenacao | crsfn-10372-100146-2017-36 | fichas/crsfn/2018-01.md |
+| Processo | Data | Resultado | Ementa | Id | Ficha |
+|---|---|---|---|---|---|
+| RJ2014/10290 | 2018-12-12 | outro | Embargos de Declaração no Recurso Voluntário. Utilização de voto de qualidade em desfavor dos Embargantes. Não conhecimento. | crsfn-edcl-10372-100292-2017-61 | fichas/crsfn/2018-11.md |
+| SP2012/402 | 2018-12-12 | condenacao | RECURSO VOLUNTÁRIO. Realização de serviços vedados pela Instrução CVM nº 497, de 2011. Materialidade e autoria comprovadas. Recurso… | crsfn-14335 | fichas/crsfn/2018-11.md |
+| RJ2013/9904 | 2018-12-12 | condenacao | RECURSO VOLUNTÁRIO. CVM. Negociação com ações de Companhia em momento anterior próximo à comunicação de fato relevante. Existência de prova… | crsfn-14260 | fichas/crsfn/2018-11.md |
+| RJ2013/8695 | 2018-12-12 | parcial | RECURSOS VOLUNTÁRIOS. Não elaboração de demonstrações financeiras. Não convocação e não realização de Assembleias Gerais Ordinárias… | crsfn-14095 | fichas/crsfn/2018-10.md |
+| RJ2014/591 | 2018-12-12 | parcial | RECURSOS VOLUNTÁRIOS. Conselho de Administração. Estatuto Social. Conflito de interesses. Desvio de poder. Diretor de Relações com… | crsfn-10372-100137-2017-45 | fichas/crsfn/2018-10.md |
+| RJ2012/9808 | 2018-12-11 | parcial | EMBARGOS DE DECLARAÇÃO. A conduta mesmo tendo impacto limitado é típica. A atuação de vendas em pequenos lotes visava impedir que o mercado… | crsfn-edcl-14449 | fichas/crsfn/2018-10.md |
+| 04/2012 | 2018-12-11 | parcial | RECURSOS VOLUNTÁRIO E DE OFÍCIO. Não informar à CVM e ao mercado a aquisição de mais de 10% de participação no capital social de Companhia… | crsfn-14227 | fichas/crsfn/2018-10.md |
+| IA-2009-11 | 2018-12-11 | absolvicao | RECURSO DE OFÍCIO. Negociação com informação privilegiada. Insider secundário. Indícios insuficientes. Recurso não provido. | crsfn-13410 | fichas/crsfn/2018-10.md |
+| RJ2014/7072 | 2018-12-11 | parcial | RECURSOS VOLUNTÁRIOS. Mercado de valores mobiliários. Irregularidades contábeis na elaboração de demonstrações financeiras. Inobservância… | crsfn-10372-100299-2018-64 | fichas/crsfn/2018-10.md |
+| RJ2015/6280 | 2018-12-11 | condenacao | Recursos voluntários. Mercado de valores mobiliários. Irregularidades contábeis na elaboração, revisão e divulgação de demonstrações… | crsfn-10372-100273-2018-16 | fichas/crsfn/2018-09.md |
+| RJ2013/6183 | 2018-12-11 | condenacao | RECURSOS VOLUNTÁRIOS. Direito societário. Desvio de Poder (Lei 6.404/76, art. 154). Aquisição de créditos imobiliários decorrentes de FCVS… | crsfn-10372-000125-2017-11 | fichas/crsfn/2018-09.md |
+| SP2012/374 | 2018-12-11 | parcial | RECURSOS VOLUNTÁRIOS. CVM. Gestão de Carteira de Investimentos. Corretora de títulos e valores mobiliários. Diretor responsável. Falta de… | crsfn-10372-000122-2017-88 | fichas/crsfn/2018-09.md |
+| RJ2016/8172 | 2018-11-09 | condenacao | RECURSOS VOLUNTÁRIOS. Responsabilidade de administradores pelo descumprimento do dever de enviar à CVM informações periódicas. Não… | crsfn-10372-100340-2018-01 | fichas/crsfn/2018-09.md |
+| RJ2013/13480 | 2018-11-09 | condenacao | RECURSOS VOLUNTÁRIOS. Inobservância da regra de rotatividade dos auditores independentes. Emissão de parecer de auditoria assinado por… | crsfn-10372-100169-2017-41 | fichas/crsfn/2018-09.md |
+| RJ2013/1402 | 2018-10-19 | parcial | PEDIDO DE ESCLARECIMENTO. Recebido como Pedido de Revisão, sendo atribuído efeito modificativo ao acórdão para declarar a extinção da… | crsfn-revisao-14096 | fichas/crsfn/2018-09.md |
+| 11/2012 | 2018-10-19 | condenacao | RECURSOS VOLUNTÁRIOS. Entidade Fechada de Previdência Complementar. Participação em votação, em separado, para eleição de representantes de… | crsfn-14228 | fichas/crsfn/2018-08.md |
+| 2012/03 | 2018-10-19 | condenacao | RECURSOS VOLUNTÁRIOS. Descumprimento de deveres fiduciários por diretores. Não observância do estatuto social e das alçadas de competências… | crsfn-10372-100002-2018-61 | fichas/crsfn/2018-08.md |
+| RJ2013/7923 | 2018-10-18 | condenacao | RECURSOS VOLUNTÁRIOS. Prática de atos de liberalidade e inobservância do dever de lealdade - Não conhecimento do Pedido de Revisão… | crsfn-revisao-10372-000124-2017-77 | fichas/crsfn/2018-08.md |
+| RJ2012/6987 | 2018-10-18 | condenacao | RECURSOS VOLUNTÁRIOS. CVM. Arguição de impedimento do Relator. Rejeição. Desrespeito ao regulamento de Fundos de Investimento quanto aos… | crsfn-14215 | fichas/crsfn/2018-08.md |
+| RJ2013/2714 | 2018-10-18 | parcial | RECURSO VOLUNTÁRIO. Utilização indevida de informação relevante ainda não divulgada ao mercado (insider trading). Verificação dos… | crsfn-14182 | fichas/crsfn/2018-08.md |
+| RJ2014/10556 | 2018-10-18 | condenacao | RECURSO VOLUNTÁRIO. Exercício ilegal do direito de voto do administrador pela suspensão da deliberação sobre as contas dos administradores… | crsfn-10372-100113-2018-77 | fichas/crsfn/2018-08.md |
+| RJ2013/11654 | 2018-10-03 | absolvicao | RECURSO DE OFÍCIO. Uso indevido de informação privilegiada. Insider trading. Aplicação das teorias da mente corporativa e chinese wall. A… | crsfn-14088 | fichas/crsfn/2018-08.md |
+| RJ2012/9808 | 2018-09-20 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Acusações de insider trading. Compras efetuadas se encontravam dentro do padrão de investimento dos… | crsfn-14449 | fichas/crsfn/2018-07.md |
+| RJ2011/5211 | 2018-09-20 | parcial | RECURSOS VOLUNTÁRIOS. Violação aos artigos 152 e 154 da Lei 6.404/76 não comprovada. Recurso de Carmen Vetter Werner parcialmente provido e… | crsfn-14362 | fichas/crsfn/2018-07.md |
+| RJ2012/1131 | 2018-09-20 | condenacao | RECURSO VOLUNTÁRIO. Violação de deveres fiduciários por omissão do acionista controlador. Sociedades de economia mista controladas pelo… | crsfn-14293 | fichas/crsfn/2018-07.md |
+| IA-2004-14 | 2018-09-20 | absolvicao | RECURSO DE OFÍCIO. Descumprimento de deveres fiduciários por diretor presidente de companhia controladora aberta e companhia controlada… | crsfn-13156 | fichas/crsfn/2018-07.md |
+| RJ2014/10290 | 2018-08-22 | condenacao | RECURSOS VOLUNTÁRIOS. Utilização indevida de informação privilegiada. Infração ao disposto no art. 155, §1º, da Lei nº 6.404/76, combinado… | crsfn-10372-100292-2017-61 | fichas/crsfn/2018-07.md |
+| RJ2014/5099 | 2018-08-21 | parcial | RECURSOS VOLUNTÁRIOS. Remuneração do Conselho de Administração. Responsabilidade primária do Conselho de Administração de assegurar a… | crsfn-14487 | fichas/crsfn/2018-07.md |
+| 08/2009 | 2018-08-21 | parcial | Recursos Voluntários. Falta de diligência de Diretor de Relações com Investidores – DRI para apurar oscilações do valor das ações. Falta de… | crsfn-14324 | fichas/crsfn/2018-06.md |
+| IA2008/02 | 2018-08-21 | condenacao | RECURSOS VOLUNTÁRIO E DE OFÍCIO. Não divulgação de empréstimos entre partes relacionadas nas demonstrações sociais dos exercícios de 2003 e… | crsfn-13703 | fichas/crsfn/2018-06.md |
+| RJ2012/3110 | 2018-08-21 | condenacao | RECURSOS VOLUNTÁRIOS. Companhia aberta. Irregularidades administrativas em relação a destinação dos lucros. Retenção de lucros ilícita… | crsfn-10372-100210-2017-89 | fichas/crsfn/2018-06.md |
+| RJ2014/6225 | 2018-07-24 | arquivamento | RECURSO VOLUNTÁRIO. CVM. Companhia aberta. Responsabilidade do DRI. Oscilação atípica de ações. Irregularidade não caracterizada… | crsfn-10372-100240-2017-95 | fichas/crsfn/2018-06.md |
+| RJ2015/6319 | 2018-07-24 | condenacao | RECURSO VOLUNTÁRIO. Atraso na elaboração e na entrega de documentação de companhia aberta. Recurso desprovido. Multa. | crsfn-10372-100216-2017-56 | fichas/crsfn/2018-06.md |
+| RJ2014/12921 | 2018-07-24 | parcial | RECURSO VOLUNTÁRIO. CVM. Operação fraudulenta. Prática de churning. Instrução CVM n° 08/79. Recurso parcialmente provido. | crsfn-10372-100205-2017-76 | fichas/crsfn/2018-06.md |
+| RJ2015/10367 | 2018-07-24 | condenacao | Recurso Voluntário. Auditoria independente. Não submissão ao Programa de Revisão Externa de Qualidade para o exercício de 2015, ano base… | crsfn-10372-100191-2017-91 | fichas/crsfn/2018-06.md |
+| RJ2017/1698 | 2018-07-24 | condenacao | RECURSO VOLUNTÁRIO. Descumprimento do dever de diligência (art. 153 da Lei n° 6.404/76). Recurso conhecido e desprovido. | crsfn-10372-100141-2018-94 | fichas/crsfn/2018-05.md |
+| RJ2015/4456 | 2018-07-24 | condenacao | RECURSOS VOLUNTÁRIOS. Irregularidades contábeis na elaboração dos demonstrativos financeiros da companhia. Atuações da Diretoria e Conselho… | crsfn-10372-100066-2018-61 | fichas/crsfn/2018-05.md |
+| RJ2015/10858 | 2018-07-24 | parcial | RECURSO VOLUNTÁRIO. Não participação do programa de Revisão em Pares para auditores independentes cadastrados na CVM. Irregularidade… | crsfn-10372-000117-2017-75 | fichas/crsfn/2018-05.md |
+| RJ2013/5456 | 2018-07-10 | parcial | Recursos voluntários e de ofício. Fundos de Investimento em Direitos Creditórios – FIDC. Irregularidades na prestação de serviço de… | crsfn-14419 | fichas/crsfn/2018-05.md |
+| RJ2011/14514 | 2018-06-26 | parcial | PEDIDO DE REVISÃO EX-OFFICIO apresentado pela Comissão de Valores Mobiliários. Revisão da Decisão do CRSFN que considerou intempestivo o… | crsfn-revisao-13730 | fichas/crsfn/2018-05.md |
+| IA2009/14 | 2018-06-26 | condenacao | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Aprovação de transferência de bens para capitalizar empresa do mesmo grupo tomando por base laudo com… | crsfn-14400 | fichas/crsfn/2018-05.md |
+| RJ2013/4328 | 2018-06-26 | condenacao | RECURSO DE OFÍCIO. CVM. Responsabilidade da Administradora, da Instituição Líder e de seus diretores por omissão nas informações prestadas… | crsfn-14361 | fichas/crsfn/2018-04.md |
+| RJ2011/2595 | 2018-06-26 | absolvicao | RECURSO DE OFÍCIO. CVM. Descumprimento dos deveres de diligência e de lealdade. Abuso dos poderes de voto e de controle. Lei 6.404/1976… | crsfn-14180 | fichas/crsfn/2018-04.md |
+| RJ2015/11472 | 2018-06-26 | condenacao | RECURSO VOLUNTÁRIO. Infração ao art. 33 da Instrução CVM n° 308/99, regulamentado pela Resolução CFC n° 1.323/11, que aprovou a NBC PA 11 —… | crsfn-10372-100151-2017-49 | fichas/crsfn/2018-04.md |
+| RJ2015/3529 | 2018-05-23 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Não elaboração de escrituração contábil. Consequente não entrega das Demonstrações Financeiras e de… | crsfn-14446 | fichas/crsfn/2018-04.md |
+| RJ2013/9762 | 2018-04-25 | condenacao | Recursos Voluntários. Auditoria Independente. Emissão de parecer de auditoria sobre as demonstrações financeiras sem qualquer ressalva… | crsfn-14420 | fichas/crsfn/2018-04.md |
+| RJ2012/13047 | 2018-04-03 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Negociação com ações de emissão da Brasil Brokers Participações S.A., em período vedado - Insider… | crsfn-14164 | fichas/crsfn/2018-04.md |
+| RJ2013/11706 | 2018-04-03 | condenacao | RECURSO VOLUNTÁRIO. Infração aos arts. 132, 140, 142 e 143 da Lei 6.404/1976 e art. 44 da Instrução CVM 480/2009. Irregularidade na… | crsfn-14044 | fichas/crsfn/2018-03.md |
+| RJ2011/11073 | 2018-03-21 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Não divulgação de informações relevantes. Operação fraudulenta. Abuso de poder de controle. Não… | crsfn-14486 | fichas/crsfn/2018-03.md |
+| RJ2013-1852 | 2018-03-21 | condenacao | RECURSOS VOLUNTÁRIOS. Redução de capital efetuada unicamente favorecendo o acionista controlador. Infração às disposições legais que tratam… | crsfn-14429 | fichas/crsfn/2018-03.md |
+| IA2010/1 | 2018-03-21 | parcial | RECURSOS VOLUNTÁRIOS. Práticas não equitativas. Prática de reespecificação de ordens em prejuízo a fundos exclusivos de instituição de… | crsfn-13869 | fichas/crsfn/2018-03.md |
+| SP2007/113 | 2018-03-21 | absolvicao | RECURSO DE OFÍCIO. Acusação de prática de "operações fraudulentas". Indícios insuficientes. Absolvição. Recurso conhecido, mas não provido. | crsfn-13748 | fichas/crsfn/2018-03.md |
+| RJ2014/3839 | 2018-03-21 | parcial | RECURSOS VOLUNTÁRIOS. Irregularidades no preenchimento dos Formulários de Referências. Diretor-Presidente e Diretores de Relações com… | crsfn-10372-100196-2017-13 | fichas/crsfn/2018-03.md |
+| RJ2014/6515 | 2018-03-21 | condenacao | RECURSOS VOLUNTÁRIOS. Atuação irregular como administrador de carteira de valores mobiliários configurada com base em sólido conjunto… | crsfn-10372-100192-2017-35 | fichas/crsfn/2018-03.md |
+| RJ2014/7199 | 2018-03-21 | condenacao | RECURSOS VOLUNTÁRIOS. Auditores Independentes. Inobservância das normas emanadas pelo Conselho Federal de Contabilidade - CFC e dos… | crsfn-10372-100145-2017-91 | fichas/crsfn/2018-02.md |
+| RJ2013/1730 | 2018-03-20 | absolvicao | RECURSO DE OFÍCIO. Negociações com cotas de Fundo de Investimento Imobiliário. Recurso de Ofício conhecido e desprovido. | crsfn-14396 | fichas/crsfn/2018-02.md |
+| RJ2012/6160 | 2018-03-20 | absolvicao | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Intempestividade na elaboração das demonstrações financeiras justificada. Não convocação de Assembleia… | crsfn-14039 | fichas/crsfn/2018-02.md |
+| 11/2002 | 2018-03-20 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Violações a deveres fiduciários. Imputação de responsabilização dos membros dos conselhos fiscal e de… | crsfn-13747 | fichas/crsfn/2018-02.md |
+| RJ2016/4134 | 2018-03-20 | condenacao | RECURSO VOLUNTÁRIO. Não envio de documentos obrigatórios. Não convocação de assembleias. Companhia em recuperação judicial. Infrações… | crsfn-10372-100230-2017-50 | fichas/crsfn/2018-02.md |
+| RJ2009/8439 | 2018-02-21 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Não prestação de informações periódicas e eventuais. Não elaboração de demonstrações financeiras. Não… | crsfn-14212 | fichas/crsfn/2018-02.md |
+| RJ2013/7589 | 2018-02-21 | absolvicao | RECURSO DE OFÍCIO. Programa de Educação Profissional Continuada. Não obtenção de pontuação mínima no programa no ano de 2011. Infração não… | crsfn-13940 | fichas/crsfn/2018-02.md |
+| RJ2010/8784 | 2018-02-21 | absolvicao | RECURSO DE OFÍCIO. Não divulgação de fato relevante. Responsabilidade dos membros do Conselho Fiscal não configurada. Recurso Conhecido… | crsfn-13904 | fichas/crsfn/2018-01.md |
+| RJ2006/3295 | 2018-02-21 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Demonstrações financeiras irregulares. Responsabilidade dos diretores pela elaboração configurada… | crsfn-13903 | fichas/crsfn/2018-01.md |
+| RJ2009/8316 | 2018-02-21 | parcial | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Mercado de Capitais - Inobservância do dever de apresentação de justificativa pormenorizada dos critérios… | crsfn-13728 | fichas/crsfn/2018-01.md |
+| SP2010/266 | 2018-02-20 | parcial | RECURSOS VOLUNTÁRIOS. MERCADO DE TÍTULOS E VALORES MOBILIÁRIOS: Registro de ordens de operações no mercado de títulos e valores… | crsfn-13906 | fichas/crsfn/2018-01.md |
+| 24/2006 | 2018-02-20 | condenacao | RECURSO DE OFÍCIO. TELEMIG. Irregularidades em pagamentos na área de Marketing. Descumprimento do dever de diligência do administrador na… | crsfn-13621 | fichas/crsfn/2018-01.md |
+| RJ2012/13605 | 2018-02-20 | condenacao | RECURSOS VOLUNTÁRIOS. Prática não equitativa. Atraso na atualização de formulário de referência. Irregularidades configuradas. Negado… | crsfn-10372-100146-2017-36 | fichas/crsfn/2018-01.md |
 
 Fim do subíndice.

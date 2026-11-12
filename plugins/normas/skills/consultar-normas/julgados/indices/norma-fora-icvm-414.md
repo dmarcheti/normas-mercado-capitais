@@ -153,7 +153,7 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | 19957.001231/2021-01 | 2024-06-20 | parcial | cvm-pas-19957-001231-2021-01 | fichas/pas/2024-04.md |
+| pas | 19957.001231/2021-01 | 2024-06-20 | parcial | cvm-pas-19957-001231-2021-01 | fichas/pas/2024-08.md |
 | decisao-colegiado | 19957.005052/2021-34 | 2024-02-06 | conhecimento | cvm-col-20240206-d3016 | fichas/colegiado/2024-02.md |
 | termo-compromisso | 19957.004982/2021-71 | 2023-02-07 | rejeitado | cvm-col-20230207-d2567 | fichas/tc/2023-02.md |
 | termo-compromisso | 19957.003953/2021-91; 19957.004982/2021-71 | 2022-11-22 | aceito | cvm-col-20221122-d2566-2657 | fichas/tc/2022-05.md |

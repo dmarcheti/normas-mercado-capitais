@@ -7,8 +7,8 @@ Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho rel
 
 Número normalizado: NUP `99999-999999-AAAA-DD`; processo antigo `rj2015-13791` (sigla em minúsculas, ano, número com 4 dígitos); numeração curta dos PAS `NN-AAAA`. Procure pelo número normalizado ou pela forma do julgado. Dois julgados do mesmo processo (um PAS e o termo de compromisso ou o acórdão do CRSFN dele) aparecem com o mesmo número.
 
-| Processo (normalizado) | Forma no julgado | Tipo | Data | Id | Ficha |
-|---|---|---|---|---|---|
-| rj8091-2012 | RJ8091/2012 | acordao-crsfn | 2017-03-14 | crsfn-13751 | fichas/crsfn/2017-02.md |
+| Processo (normalizado) | Forma no julgado | Tipo | Data | Ementa | Id | Ficha |
+|---|---|---|---|---|---|---|
+| rj8091-2012 | RJ8091/2012 | acordao-crsfn | 2017-03-14 | RECURSO VOLUNTÁRIO. Diretor de Relações com Investidores - atraso e não envio de informações. | crsfn-13751 | fichas/crsfn/2017-03.md |
 
 Fim do subíndice.

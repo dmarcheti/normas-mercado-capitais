@@ -81,9 +81,9 @@ Este subíndice tem 576 linhas e uma leitura única é cortada em silêncio pert
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
 | art. 10 | acordao-crsfn | RJ2002/4879 | 2008-04-11 | absolvicao | crsfn-9605 | fichas/crsfn/2008-02.md |
-| art. 10 | pas | RJ2002/4879 | 2006-01-19 | parcial | cvm-pas-rj2002-4879 | fichas/pas/2006-01.md |
+| art. 10 | pas | RJ2002/4879 | 2006-01-19 | parcial | cvm-pas-rj2002-4879 | fichas/pas/2006-02.md |
 | art. 10, § 1º | acordao-crsfn | RJ2005/3106 | 2008-03-26 | absolvicao | crsfn-9253 | fichas/crsfn/2008-01.md |
-| art. 10, § 1º | pas | RJ2005/3106 | 2005-10-19 | absolvicao | cvm-pas-rj2005-3106 | fichas/pas/2005-07.md |
+| art. 10, § 1º | pas | RJ2005/3106 | 2005-10-19 | absolvicao | cvm-pas-rj2005-3106 | fichas/pas/2005-13.md |
 
 ## art. 11
 
@@ -130,12 +130,12 @@ Este subíndice tem 576 linhas e uma leitura única é cortada em silêncio pert
 | art. 36 | decisao-colegiado | RJ2014/0388 | 2014-12-16 | nao-provido | cvm-col-20141216-d08 | fichas/colegiado/2014-26.md |
 | art. 36 | decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
 | art. 36 | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
-| art. 36 | pas | RJ2001/8363 | 2005-03-28 | parcial | cvm-pas-rj2001-8363 | fichas/pas/2005-02.md |
+| art. 36 | pas | RJ2001/8363 | 2005-03-28 | parcial | cvm-pas-rj2001-8363 | fichas/pas/2005-04.md |
 | art. 36, inciso I | decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
 | art. 36, inciso II | acordao-crsfn | 16/2002 | 2015-01-27 | parcial | crsfn-11411 | fichas/crsfn/2015-01.md |
-| art. 36, inciso II | pas | 34/1999 | 2001-07-19 | parcial | cvm-pas-34-1999 | fichas/pas/2001-02.md |
-| art. 36, inciso II | pas | SP2001/0003 | 2002-12-12 | parcial | cvm-pas-sp2001-0003 | fichas/pas/2002-04.md |
-| art. 36, inciso II | pas | 16/2002 | 2006-10-10 | condenacao | cvm-pas-16-2002 | fichas/pas/2006-10.md |
+| art. 36, inciso II | pas | 34/1999 | 2001-07-19 | parcial | cvm-pas-34-1999 | fichas/pas/2001-04.md |
+| art. 36, inciso II | pas | SP2001/0003 | 2002-12-12 | parcial | cvm-pas-sp2001-0003 | fichas/pas/2002-08.md |
+| art. 36, inciso II | pas | 16/2002 | 2006-10-10 | condenacao | cvm-pas-16-2002 | fichas/pas/2006-20.md |
 
 ## art. 39
 
@@ -500,7 +500,7 @@ Este subíndice tem 576 linhas e uma leitura única é cortada em silêncio pert
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | decisao-colegiado | SP2011/0036 | 2019-04-22 | deferido | cvm-col-20190422-d7688 | fichas/colegiado/2019-07.md |
-| pas | SP2013/292 | 2016-07-19 | condenacao | cvm-pas-sp2013-0292 | fichas/pas/2016-02.md |
+| pas | SP2013/292 | 2016-07-19 | condenacao | cvm-pas-sp2013-0292 | fichas/pas/2016-04.md |
 | decisao-colegiado | RJ2014/12858 | 2015-04-28 | nao-provido | cvm-col-20150428-d9628 | fichas/colegiado/2015-07.md |
 | pas | SP2010/186 | 2015-01-27 | condenacao | cvm-pas-sp2010-0186 | fichas/pas/2015-01.md |
 | decisao-colegiado | RJ2012/14404 | 2014-05-06 | nao-provido | cvm-col-20140506-d09 | fichas/colegiado/2014-08.md |
@@ -508,7 +508,7 @@ Este subíndice tem 576 linhas e uma leitura única é cortada em silêncio pert
 | acordao-crsfn | SP-2001-0799 | 2013-01-10 | parcial | crsfn-10461 | fichas/crsfn/2013-01.md |
 | decisao-colegiado | SP2011/0197 | 2012-04-03 | nao-provido | cvm-col-20120403-d04 | fichas/colegiado/2012-06.md |
 | decisao-colegiado | SP2010/0242 | 2011-12-27 | nao-provido | cvm-col-20111227-d04 | fichas/colegiado/2011-29.md |
-| pas | SP2007/0167 | 2009-04-07 | parcial | cvm-pas-sp2007-0167 | fichas/pas/2009-01.md |
+| pas | SP2007/0167 | 2009-04-07 | parcial | cvm-pas-sp2007-0167 | fichas/pas/2009-02.md |
 | decisao-colegiado | SP2009/0009 | 2009-03-31 | nao-provido | cvm-col-20090331-d06 | fichas/colegiado/2009-05.md |
 | decisao-colegiado | SP2006/0101 | 2009-02-10 | nao-provido | cvm-col-20090210-d06 | fichas/colegiado/2009-02.md |
 | decisao-colegiado | SP2006/0104 | 2009-02-10 | nao-provido | cvm-col-20090210-d05 | fichas/colegiado/2009-02.md |
@@ -518,8 +518,8 @@ Este subíndice tem 576 linhas e uma leitura única é cortada em silêncio pert
 | decisao-colegiado | SP2008/0154 | 2009-02-03 | parcial | cvm-col-20090203-d01 | fichas/colegiado/2009-01.md |
 | decisao-colegiado | SP2006/0105 | 2008-12-02 | nao-provido | cvm-col-20081202-d06 | fichas/colegiado/2008-27.md |
 | decisao-colegiado | SP2006/0211 | 2008-11-25 | nao-provido | cvm-col-20081125-d21 | fichas/colegiado/2008-26.md |
-| acordao-crsfn | SP-2002-493 | 2008-11-19 | parcial | crsfn-9540 | fichas/crsfn/2008-06.md |
-| pas | 01/2006 | 2008-07-01 | condenacao | cvm-pas-01-2006 | fichas/pas/2008-02.md |
+| acordao-crsfn | SP-2002-493 | 2008-11-19 | parcial | crsfn-9540 | fichas/crsfn/2008-07.md |
+| pas | 01/2006 | 2008-07-01 | condenacao | cvm-pas-01-2006 | fichas/pas/2008-04.md |
 | decisao-colegiado | RJ2006/8252 | 2008-04-15 | nao-provido | cvm-col-20080415-d04 | fichas/colegiado/2008-09.md |
 | decisao-colegiado | — | 2008-02-26 | parcial | cvm-col-20080226-d41 | fichas/colegiado/2008-05.md |
 | decisao-colegiado | SP2007/0202 | 2007-12-04 | nao-provido | cvm-col-20071204-d04 | fichas/colegiado/2007-24.md |
@@ -538,23 +538,23 @@ Este subíndice tem 576 linhas e uma leitura única é cortada em silêncio pert
 | decisao-colegiado | RJ2003/5746 | 2006-03-07 | nao-provido | cvm-col-20060307-d03 | fichas/colegiado/2006-04.md |
 | decisao-colegiado | RJ2005/9423 | 2006-01-10 | deferido | cvm-col-20060110-d01 | fichas/colegiado/2006-01.md |
 | decisao-colegiado | RJ2005/7852 | 2006-01-03 | provido | cvm-col-20060103-d04 | fichas/colegiado/2006-01.md |
-| pas | SP2001/0799 | 2005-11-30 | parcial | cvm-pas-sp2001-0799 | fichas/pas/2005-08.md |
+| pas | SP2001/0799 | 2005-11-30 | parcial | cvm-pas-sp2001-0799 | fichas/pas/2005-17.md |
 | decisao-colegiado | RJ2005/6920; RJ2005/7852 | 2005-11-29 | outro | cvm-col-20051129-d03 | fichas/colegiado/2005-18.md |
-| pas | SP2002/0493 | 2005-09-21 | parcial | cvm-pas-sp2002-0493 | fichas/pas/2005-06.md |
+| pas | SP2002/0493 | 2005-09-21 | parcial | cvm-pas-sp2002-0493 | fichas/pas/2005-12.md |
 | decisao-colegiado | SP2005/0329 | 2005-09-20 | deferido | cvm-col-20050920-d04 | fichas/colegiado/2005-13.md |
 | decisao-colegiado | RJ2004/2758 | 2005-07-21 | deferido | cvm-col-20050721-d01 | fichas/colegiado/2005-10.md |
 | decisao-colegiado | SP2004/0360 | 2005-06-14 | nao-provido | cvm-col-20050614-d03 | fichas/colegiado/2005-09.md |
 | decisao-colegiado | SP2003/0099 | 2005-04-12 | nao-provido | cvm-col-20050412-d05 | fichas/colegiado/2005-06.md |
-| pas | 01/2002 | 2005-03-31 | parcial | cvm-pas-01-2002 | fichas/pas/2005-03.md |
+| pas | 01/2002 | 2005-03-31 | parcial | cvm-pas-01-2002 | fichas/pas/2005-05.md |
 | decisao-colegiado | SP2003/0380 | 2005-03-22 | nao-provido | cvm-col-20050322-d06 | fichas/colegiado/2005-05.md |
 | decisao-colegiado | SP2003/0463 | 2005-03-22 | nao-provido | cvm-col-20050322-d05 | fichas/colegiado/2005-05.md |
 | decisao-colegiado | SP2004/0228 | 2005-02-10 | parcial | cvm-col-20050210-d03 | fichas/colegiado/2005-03.md |
 | decisao-colegiado | SP2003/0463 | 2005-01-25 | parcial | cvm-col-20050125-d04 | fichas/colegiado/2005-02.md |
 | decisao-colegiado | SP2004/0229 | 2004-11-16 | nao-provido | cvm-col-20041116-d04 | fichas/colegiado/2004-14.md |
 | termo-compromisso | 08/02 | 2004-11-09 | aceito | cvm-col-20041109-d01 | fichas/tc/2004-02.md |
-| pas | SP2001/465 | 2004-10-06 | condenacao | cvm-pas-sp2001-0465 | fichas/pas/2004-06.md |
+| pas | SP2001/465 | 2004-10-06 | condenacao | cvm-pas-sp2001-0465 | fichas/pas/2004-12.md |
 | decisao-colegiado | SP2001/0172 | 2004-07-13 | nao-provido | cvm-col-20040713-d01 | fichas/colegiado/2004-08.md |
-| pas | 25/2000 | 2004-06-24 | parcial | cvm-pas-25-2000 | fichas/pas/2004-02.md |
+| pas | 25/2000 | 2004-06-24 | parcial | cvm-pas-25-2000 | fichas/pas/2004-04.md |
 | decisao-colegiado | SP99/0255 | 2004-04-27 | nao-provido | cvm-col-20040427-d04 | fichas/colegiado/2004-05.md |
 | termo-compromisso | IA13/01 | 2004-03-02 | rejeitado | cvm-col-20040302-d06 | fichas/tc/2004-01.md |
 | decisao-colegiado | SP2003/0464 | 2004-01-21 | nao-provido | cvm-col-20040121-d06 | fichas/colegiado/2004-01.md |

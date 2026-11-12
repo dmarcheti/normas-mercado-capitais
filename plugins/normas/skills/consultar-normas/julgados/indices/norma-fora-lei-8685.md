@@ -35,7 +35,7 @@ Norma: fora do acervo.
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | termo-compromisso | RJ2012/2766 | 2012-07-17 | aceito | cvm-col-20120717-d03 | fichas/tc/2012-04.md |
-| pas | 19/2005 | 2009-12-15 | condenacao | cvm-pas-19-2005 | fichas/pas/2009-05.md |
-| acordao-crsfn | 12/00 | 2002-12-11 | parcial | crsfn-4122 | fichas/crsfn/2002-03.md |
+| pas | 19/2005 | 2009-12-15 | condenacao | cvm-pas-19-2005 | fichas/pas/2009-11.md |
+| acordao-crsfn | 12/00 | 2002-12-11 | parcial | crsfn-4122 | fichas/crsfn/2002-04.md |
 
 Fim do subíndice.

@@ -7,8 +7,8 @@ Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho rel
 
 Número normalizado: NUP `99999-999999-AAAA-DD`; processo antigo `rj2015-13791` (sigla em minúsculas, ano, número com 4 dígitos); numeração curta dos PAS `NN-AAAA`. Procure pelo número normalizado ou pela forma do julgado. Dois julgados do mesmo processo (um PAS e o termo de compromisso ou o acórdão do CRSFN dele) aparecem com o mesmo número.
 
-| Processo (normalizado) | Forma no julgado | Tipo | Data | Id | Ficha |
-|---|---|---|---|---|---|
-| ia2034-0000 | IA34/00 | termo-compromisso | 2003-11-18 | cvm-col-20031118-d05 | fichas/tc/2003.md |
+| Processo (normalizado) | Forma no julgado | Tipo | Data | Ementa | Id | Ficha |
+|---|---|---|---|---|---|---|
+| ia2034-0000 | IA34/00 | termo-compromisso | 2003-11-18 | O Colegiado rejeitou a proposta de termo de compromisso no processo IA 34/00, nos termos do voto do Diretor-Relator. Um diretor se absteve… | cvm-col-20031118-d05 | fichas/tc/2003.md |
 
 Fim do subíndice.

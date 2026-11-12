@@ -11,13 +11,13 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 2º, § 8º | acordao-crsfn | 19957.011693/2017-41; SP2018/420 | 2022-12-08 | condenacao | crsfn-10372-100009-2022-69 | fichas/crsfn/2022-07.md |
+| art. 2º, § 8º | acordao-crsfn | 19957.011693/2017-41; SP2018/420 | 2022-12-08 | condenacao | crsfn-10372-100009-2022-69 | fichas/crsfn/2022-08.md |
 
 ## art. 3º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 3º, parágrafo único | pas | 18/2008 | 2010-12-14 | parcial | cvm-pas-18-2008 | fichas/pas/2010-05.md |
+| art. 3º, parágrafo único | pas | 18/2008 | 2010-12-14 | parcial | cvm-pas-18-2008 | fichas/pas/2010-11.md |
 
 ## art. 25
 
@@ -48,9 +48,9 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 19957.001933/2021-86 | 2026-07-14 | parcial | crsfn-19957-001933-2021-86 | fichas/crsfn/2026-02.md |
+| acordao-crsfn | 19957.001933/2021-86 | 2026-07-14 | parcial | crsfn-19957-001933-2021-86 | fichas/crsfn/2026-03.md |
 | acordao-crsfn | SP2010/266 | 2018-02-20 | parcial | crsfn-13906 | fichas/crsfn/2018-01.md |
-| pas | SP2010/266 | 2013-10-15 | condenacao | cvm-pas-sp2010-0266 | fichas/pas/2013-05.md |
+| pas | SP2010/266 | 2013-10-15 | condenacao | cvm-pas-sp2010-0266 | fichas/pas/2013-09.md |
 | decisao-colegiado | RJ2005/6167 | 2005-10-25 | deferido | cvm-col-20051025-d07 | fichas/colegiado/2005-15.md |
 | decisao-colegiado | RJ2005/0739 | 2005-10-25 | outro | cvm-col-20051025-d06 | fichas/colegiado/2005-15.md |
 | decisao-colegiado | RJ2005/3668 | 2005-10-25 | outro | cvm-col-20051025-d02 | fichas/colegiado/2005-15.md |

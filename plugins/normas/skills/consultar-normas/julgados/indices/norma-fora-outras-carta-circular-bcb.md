@@ -40,7 +40,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | decisao-colegiado | RJ2002/3227 | 2005-04-08 | nao-provido | cvm-col-20050408-d02 | fichas/colegiado/2005-06.md |
-| pas | RJ2001/3809 | 2002-04-25 | condenacao | cvm-pas-rj2001-3809 | fichas/pas/2002-02.md |
+| pas | RJ2001/3809 | 2002-04-25 | condenacao | cvm-pas-rj2001-3809 | fichas/pas/2002-04.md |
 
 ## carta-circular-bcb-974
 
@@ -48,9 +48,9 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 03/97 | 2008-06-24 | parcial | crsfn-8615 | fichas/crsfn/2008-03.md |
+| acordao-crsfn | 03/97 | 2008-06-24 | parcial | crsfn-8615 | fichas/crsfn/2008-04.md |
 | acordao-crsfn | SP-2004-113 | 2008-06-24 | arquivamento | crsfn-7529 | fichas/crsfn/2008-03.md |
-| pas | 03/1997 | 2004-09-09 | parcial | cvm-pas-03-1997 | fichas/pas/2004-05.md |
+| pas | 03/1997 | 2004-09-09 | parcial | cvm-pas-03-1997 | fichas/pas/2004-10.md |
 
 ## carta-circular-bcb-1967
 
@@ -66,7 +66,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| acordao-crsfn | 07/2012 | 2019-05-28 | condenacao | crsfn-10372-100303-2018-94 | fichas/crsfn/2019-01.md |
+| acordao-crsfn | 07/2012 | 2019-05-28 | condenacao | crsfn-10372-100303-2018-94 | fichas/crsfn/2019-02.md |
 
 ## carta-circular-bcb-2826
 
@@ -75,7 +75,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | decisao-colegiado | RJ2000/0318 | 2002-12-10 | parcial | cvm-col-20021210-d01 | fichas/colegiado/2002-26.md |
-| pas | SP2001/0001 | 2001-06-27 | condenacao | cvm-pas-sp2001-0001 | fichas/pas/2001-02.md |
+| pas | SP2001/0001 | 2001-06-27 | condenacao | cvm-pas-sp2001-0001 | fichas/pas/2001-03.md |
 
 ## carta-circular-bcb-2893
 

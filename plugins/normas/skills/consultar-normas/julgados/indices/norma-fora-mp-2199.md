@@ -11,7 +11,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 04º | acordao-crsfn | RJ-2008-2468 | 2012-11-26 | condenacao | crsfn-12521 | fichas/crsfn/2012-04.md |
+| art. 04º | acordao-crsfn | RJ-2008-2468 | 2012-11-26 | condenacao | crsfn-12521 | fichas/crsfn/2012-05.md |
 
 ## art. 21
 
@@ -23,7 +23,7 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| pas | RJ2013/9266 | 2018-03-27 | parcial | cvm-pas-rj2013-9266 | fichas/pas/2018-02.md |
+| pas | RJ2013/9266 | 2018-03-27 | parcial | cvm-pas-rj2013-9266 | fichas/pas/2018-04.md |
 | decisao-colegiado | RJ2015/4262 | 2016-06-14 | deferido | cvm-col-20160614-d0125 | fichas/colegiado/2016-11.md |
 | decisao-colegiado | RJ2010/15660; RJ2010/5704 | 2012-09-11 | nao-provido | cvm-col-20120911-d16 | fichas/colegiado/2012-17.md |
 | decisao-colegiado | RJ2010/16966 | 2012-01-17 | nao-provido | cvm-col-20120117-d05 | fichas/colegiado/2012-01.md |

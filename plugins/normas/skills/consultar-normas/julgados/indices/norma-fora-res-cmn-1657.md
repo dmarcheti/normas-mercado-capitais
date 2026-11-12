@@ -29,10 +29,10 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 7º | acordao-crsfn | SP2017/440 | 2023-05-09 | condenacao | crsfn-10372-100097-2021-18 | fichas/crsfn/2023-04.md |
-| art. 7º | acordao-crsfn | 19957.000883/2024-62 | 2025-07-15 | condenacao | crsfn-19957-000883-2024-62 | fichas/crsfn/2025-03.md |
+| art. 7º | acordao-crsfn | SP2017/440 | 2023-05-09 | condenacao | crsfn-10372-100097-2021-18 | fichas/crsfn/2023-05.md |
+| art. 7º | acordao-crsfn | 19957.000883/2024-62 | 2025-07-15 | condenacao | crsfn-19957-000883-2024-62 | fichas/crsfn/2025-04.md |
 | art. 7º | acordao-crsfn | 19957.001127/2024-51 | 2025-07-15 | condenacao | crsfn-19957-001127-2024-51 | fichas/crsfn/2025-04.md |
-| art. 7º | acordao-crsfn | 19957.003158/2020-12 | 2025-09-16 | condenacao | crsfn-19957-003158-2020-12 | fichas/crsfn/2025-04.md |
+| art. 7º | acordao-crsfn | 19957.003158/2020-12 | 2025-09-16 | condenacao | crsfn-19957-003158-2020-12 | fichas/crsfn/2025-05.md |
 | art. 7º | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
 
 ## Citada sem dispositivo identificado
@@ -41,13 +41,13 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.008937/2019-71 | 2019-12-17 | nao-provido | cvm-col-20191217-d1640 | fichas/colegiado/2019-21.md |
 | decisao-colegiado | 19957.008957/2019-41 | 2019-12-10 | nao-provido | cvm-col-20191210-d1633 | fichas/colegiado/2019-20.md |
-| acordao-crsfn | RJ-2012-8094 | 2017-07-25 | condenacao | crsfn-14325 | fichas/crsfn/2017-06.md |
-| acordao-crsfn | RJ8091/2012 | 2017-03-14 | condenacao | crsfn-13751 | fichas/crsfn/2017-02.md |
-| acordao-crsfn | RJ2011/9493 | 2016-10-07 | arquivamento | crsfn-13690 | fichas/crsfn/2016-05.md |
+| acordao-crsfn | RJ-2012-8094 | 2017-07-25 | condenacao | crsfn-14325 | fichas/crsfn/2017-11.md |
+| acordao-crsfn | RJ8091/2012 | 2017-03-14 | condenacao | crsfn-13751 | fichas/crsfn/2017-03.md |
+| acordao-crsfn | RJ2011/9493 | 2016-10-07 | arquivamento | crsfn-13690 | fichas/crsfn/2016-09.md |
 | acordao-crsfn | RJ2011/7390 | 2016-01-21 | condenacao | crsfn-13425 | fichas/crsfn/2016-01.md |
 | acordao-crsfn | RJ2011/7379 | 2016-01-21 | condenacao | crsfn-13417 | fichas/crsfn/2016-01.md |
 | decisao-colegiado | RJ2012/8094 | 2015-07-07 | parcial | cvm-col-20150707-d8708 | fichas/colegiado/2015-12.md |
-| acordao-crsfn | RJ2011/7389 | 2015-06-30 | absolvicao | crsfn-13418 | fichas/crsfn/2015-02.md |
+| acordao-crsfn | RJ2011/7389 | 2015-06-30 | absolvicao | crsfn-13418 | fichas/crsfn/2015-03.md |
 | decisao-colegiado | RJ2011/7381 | 2013-12-10 | parcial | cvm-col-20131210-d06 | fichas/colegiado/2013-23.md |
 | decisao-colegiado | RJ2012/8091 | 2013-05-07 | nao-provido | cvm-col-20130507-d06 | fichas/colegiado/2013-10.md |
 | decisao-colegiado | RJ2010/10383 | 2013-02-26 | nao-provido | cvm-col-20130226-d03 | fichas/colegiado/2013-05.md |
@@ -67,32 +67,32 @@ Norma: fora do acervo.
 | termo-compromisso | RJ2010/10383 | 2011-05-17 | rejeitado | cvm-col-20110517-d02 | fichas/tc/2011-02.md |
 | decisao-colegiado | RJ2010/11571 | 2010-11-04 | nao-provido | cvm-col-20101104-d02 | fichas/colegiado/2010-22.md |
 | decisao-colegiado | RJ2010/11572 | 2010-10-14 | nao-provido | cvm-col-20101014-d05 | fichas/colegiado/2010-21.md |
-| acordao-crsfn | RJ-2006-0800 | 2010-04-29 | condenacao | crsfn-11169 | fichas/crsfn/2010-02.md |
+| acordao-crsfn | RJ-2006-0800 | 2010-04-29 | condenacao | crsfn-11169 | fichas/crsfn/2010-03.md |
 | decisao-colegiado | RJ2009/4087 | 2009-08-11 | nao-provido | cvm-col-20090811-d03 | fichas/colegiado/2009-14.md |
 | decisao-colegiado | RJ2009/3955 | 2009-08-04 | nao-provido | cvm-col-20090804-d03 | fichas/colegiado/2009-14.md |
 | acordao-crsfn | RJ-2002-08479 | 2009-05-21 | absolvicao | crsfn-9252 | fichas/crsfn/2009-03.md |
-| acordao-crsfn | RJ-2006-8981 | 2009-05-06 | condenacao | crsfn-11637 | fichas/crsfn/2009-02.md |
+| acordao-crsfn | RJ-2006-8981 | 2009-05-06 | condenacao | crsfn-11637 | fichas/crsfn/2009-03.md |
 | decisao-colegiado | RJ2007/10965 | 2008-04-01 | nao-provido | cvm-col-20080401-d17 | fichas/colegiado/2008-08.md |
 | decisao-colegiado | RJ2007/1208 | 2007-11-06 | nao-provido | cvm-col-20071106-d04 | fichas/colegiado/2007-22.md |
 | decisao-colegiado | RJ2007/3560 | 2007-08-21 | provido | cvm-col-20070821-d10 | fichas/colegiado/2007-15.md |
 | acordao-crsfn | RJ-2002-08509 | 2007-04-25 | condenacao | crsfn-6311 | fichas/crsfn/2007-01.md |
-| pas | 01/2003 | 2007-02-01 | absolvicao | cvm-pas-01-2003 | fichas/pas/2007-02.md |
-| pas | RJ2005/4346 | 2006-11-07 | parcial | cvm-pas-rj2005-4346 | fichas/pas/2006-12.md |
-| pas | RJ2006/1559 | 2006-09-26 | parcial | cvm-pas-rj2006-1559 | fichas/pas/2006-09.md |
-| pas | RJ2002/4311 | 2006-09-25 | condenacao | cvm-pas-rj2002-4311 | fichas/pas/2006-09.md |
+| pas | 01/2003 | 2007-02-01 | absolvicao | cvm-pas-01-2003 | fichas/pas/2007-03.md |
+| pas | RJ2005/4346 | 2006-11-07 | parcial | cvm-pas-rj2005-4346 | fichas/pas/2006-23.md |
+| pas | RJ2006/1559 | 2006-09-26 | parcial | cvm-pas-rj2006-1559 | fichas/pas/2006-19.md |
+| pas | RJ2002/4311 | 2006-09-25 | condenacao | cvm-pas-rj2002-4311 | fichas/pas/2006-18.md |
 | termo-compromisso | RJ2005/9001 | 2006-08-29 | rejeitado | cvm-col-20060829-d04 | fichas/tc/2006-04.md |
-| pas | RJ2006/1853 | 2006-08-22 | parcial | cvm-pas-rj2006-1853 | fichas/pas/2006-08.md |
-| pas | RJ2006/1623 | 2006-08-01 | parcial | cvm-pas-rj2006-1623 | fichas/pas/2006-07.md |
+| pas | RJ2006/1853 | 2006-08-22 | parcial | cvm-pas-rj2006-1853 | fichas/pas/2006-16.md |
+| pas | RJ2006/1623 | 2006-08-01 | parcial | cvm-pas-rj2006-1623 | fichas/pas/2006-15.md |
 | decisao-colegiado | RJ2006/0806 | 2006-06-20 | nao-provido | cvm-col-20060620-d01 | fichas/colegiado/2006-09.md |
-| pas | RJ2006/1267 | 2006-06-14 | parcial | cvm-pas-rj2006-1267 | fichas/pas/2006-06.md |
+| pas | RJ2006/1267 | 2006-06-14 | parcial | cvm-pas-rj2006-1267 | fichas/pas/2006-12.md |
 | decisao-colegiado | RJ2005/8359 | 2006-05-18 | nao-provido | cvm-col-20060518-d02 | fichas/colegiado/2006-07.md |
-| pas | RJ2005/5936 | 2006-05-04 | parcial | cvm-pas-rj2005-5936 | fichas/pas/2006-04.md |
-| pas | RJ2005/5041 | 2006-05-04 | parcial | cvm-pas-rj2005-5041 | fichas/pas/2006-04.md |
-| pas | RJ2005/1952 | 2005-12-02 | condenacao | cvm-pas-rj2005-1952 | fichas/pas/2005-09.md |
-| pas | 06/2002 | 2005-11-16 | parcial | cvm-pas-06-2002 | fichas/pas/2005-08.md |
-| pas | RJ2005/3750 | 2005-10-19 | absolvicao | cvm-pas-rj2005-3750 | fichas/pas/2005-07.md |
-| pas | SP2003/0070 | 2005-04-26 | absolvicao | cvm-pas-sp2003-0070 | fichas/pas/2005-03.md |
-| pas | SP2004/0104 | 2005-04-01 | condenacao | cvm-pas-sp2004-0104 | fichas/pas/2005-03.md |
+| pas | RJ2005/5936 | 2006-05-04 | parcial | cvm-pas-rj2005-5936 | fichas/pas/2006-08.md |
+| pas | RJ2005/5041 | 2006-05-04 | parcial | cvm-pas-rj2005-5041 | fichas/pas/2006-08.md |
+| pas | RJ2005/1952 | 2005-12-02 | condenacao | cvm-pas-rj2005-1952 | fichas/pas/2005-17.md |
+| pas | 06/2002 | 2005-11-16 | parcial | cvm-pas-06-2002 | fichas/pas/2005-16.md |
+| pas | RJ2005/3750 | 2005-10-19 | absolvicao | cvm-pas-rj2005-3750 | fichas/pas/2005-13.md |
+| pas | SP2003/0070 | 2005-04-26 | absolvicao | cvm-pas-sp2003-0070 | fichas/pas/2005-07.md |
+| pas | SP2004/0104 | 2005-04-01 | condenacao | cvm-pas-sp2004-0104 | fichas/pas/2005-06.md |
 | decisao-colegiado | RJ2002/8509 | 2004-11-03 | nao-provido | cvm-col-20041103-d02 | fichas/colegiado/2004-13.md |
 | decisao-colegiado | RJ2003/7776 | 2004-09-15 | nao-provido | cvm-col-20040915-d01 | fichas/colegiado/2004-11.md |
 | decisao-colegiado | RJ2003/6973 | 2004-08-24 | provido | cvm-col-20040824-d05 | fichas/colegiado/2004-10.md |

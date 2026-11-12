@@ -12,13 +12,13 @@ Norma: [cvm/pareceres-orientacao/0005.md](../../normas/cvm/pareceres-orientacao/
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | decisao-colegiado | 19957.006296/2026-49 | 2026-04-20 | indeferido | cvm-col-20260420-d3523 | fichas/colegiado/2026-02.md |
-| pas | 19957.008378/2023-85 | 2024-12-18 | absolvicao | cvm-pas-19957-008378-2023-85 | fichas/pas/2024-12.md |
-| acordao-crsfn | 19957.009371/2019-02; RJ2019/7413 | 2023-03-07 | condenacao | crsfn-10372-100138-2021-76 | fichas/crsfn/2023-01.md |
+| pas | 19957.008378/2023-85 | 2024-12-18 | absolvicao | cvm-pas-19957-008378-2023-85 | fichas/pas/2024-23.md |
+| acordao-crsfn | 19957.009371/2019-02; RJ2019/7413 | 2023-03-07 | condenacao | crsfn-10372-100138-2021-76 | fichas/crsfn/2023-02.md |
 | decisao-colegiado | 19957.004478/2019-56 | 2023-02-28 | nao-provido | cvm-col-20230228-d1439 | fichas/colegiado/2023-03.md |
-| pas | 19957.003175/2020-50 | 2022-11-08 | absolvicao | cvm-pas-19957-003175-2020-50 | fichas/pas/2022-05.md |
-| pas | 19957.008086/2019-66 | 2022-09-27 | parcial | cvm-pas-19957-008086-2019-66 | fichas/pas/2022-04.md |
+| pas | 19957.003175/2020-50 | 2022-11-08 | absolvicao | cvm-pas-19957-003175-2020-50 | fichas/pas/2022-11.md |
+| pas | 19957.008086/2019-66 | 2022-09-27 | parcial | cvm-pas-19957-008086-2019-66 | fichas/pas/2022-08.md |
 | termo-compromisso | 19957.009371/2019-02 | 2020-11-03 | rejeitado | cvm-col-20201103-d1963 | fichas/tc/2020-07.md |
-| pas | RJ2011/11073 | 2015-12-15 | parcial | cvm-pas-rj2011-11073 | fichas/pas/2015-07.md |
+| pas | RJ2011/11073 | 2015-12-15 | parcial | cvm-pas-rj2011-11073 | fichas/pas/2015-14.md |
 | decisao-colegiado | RJ2014/4196; RJ2014/4197; RJ2014/4198; RJ2014/4199; RJ2014/4298 | 2014-04-28 | indeferido | cvm-col-20140428-d01 | fichas/colegiado/2014-07.md |
 | decisao-colegiado | RJ2013/5993 | 2014-01-31 | provido | cvm-col-20140131-d01 | fichas/colegiado/2014-02.md |
 | decisao-colegiado | RJ2013/5993 | 2014-01-28 | — | cvm-col-20140128-d03 | fichas/colegiado/2014-02.md |

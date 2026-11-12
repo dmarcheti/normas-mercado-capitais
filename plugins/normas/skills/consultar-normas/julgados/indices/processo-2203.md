@@ -7,8 +7,8 @@ Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho rel
 
 Número normalizado: NUP `99999-999999-AAAA-DD`; processo antigo `rj2015-13791` (sigla em minúsculas, ano, número com 4 dígitos); numeração curta dos PAS `NN-AAAA`. Procure pelo número normalizado ou pela forma do julgado. Dois julgados do mesmo processo (um PAS e o termo de compromisso ou o acórdão do CRSFN dele) aparecem com o mesmo número.
 
-| Processo (normalizado) | Forma no julgado | Tipo | Data | Id | Ficha |
-|---|---|---|---|---|---|
-| sp2203-0324 | SP-2203-324 | acordao-crsfn | 2007-08-30 | crsfn-10456 | fichas/crsfn/2007-01.md |
+| Processo (normalizado) | Forma no julgado | Tipo | Data | Ementa | Id | Ficha |
+|---|---|---|---|---|---|---|
+| sp2203-0324 | SP-2203-324 | acordao-crsfn | 2007-08-30 | RECURSO VOLUNTÁRIO E DE OFÍCIO –Mercado de valores mobiliários – Prática continuada de intermediação de ações mesmo após edição de… | crsfn-10456 | fichas/crsfn/2007-01.md |
 
 Fim do subíndice.

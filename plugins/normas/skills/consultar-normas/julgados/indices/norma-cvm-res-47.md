@@ -108,7 +108,7 @@ Este subíndice tem 377 linhas e uma leitura única é cortada em silêncio pert
 | art. 5º | decisao-colegiado | 19957.004279/2022-43 | 2022-05-31 | nao-provido | cvm-col-20220531-d2610 | fichas/colegiado/2022-09.md |
 | art. 5º | decisao-colegiado | 19957.000025/2022-56 | 2023-01-03 | conhecimento | cvm-col-20230103-d2502 | fichas/colegiado/2023-01.md |
 | art. 5º | decisao-colegiado | 19957.010130/2022-01 | 2023-04-11 | conhecimento | cvm-col-20230411-d2831 | fichas/colegiado/2023-04.md |
-| art. 5º | pas | 19957.001912/2024-11 | 2025-03-18 | parcial | cvm-pas-19957-001912-2024-11 | fichas/pas/2025-01.md |
+| art. 5º | pas | 19957.001912/2024-11 | 2025-03-18 | parcial | cvm-pas-19957-001912-2024-11 | fichas/pas/2025-02.md |
 
 ## art. 6º
 
