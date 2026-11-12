@@ -40,6 +40,27 @@ class TestMontarArgs(unittest.TestCase):
         self.assertEqual(bateria.montar_args_juiz(), ["--model", "opus", "--tools", ""])
 
 
+class TestPromptJuiz(unittest.TestCase):
+    V = {"pergunta": "PERG", "gabarito": "GAB", "ressalvas": "RES", "nota": "",
+         "dispositivo": "art. 9º", "trecho": "TRECHO"}
+
+    def test_julgados_usa_caso_conteudo_ressalvas(self):
+        p = bateria.prompt_juiz("julgados", self.V, "RESP")
+        self.assertIn('"caso"', p)
+        self.assertIn("RES", p)
+        self.assertIn("RESP", p)
+
+    def test_normas_usa_conteudo_dispositivo_data_base(self):
+        p = bateria.prompt_juiz("normas", self.V, "RESP")
+        for x in ('"conteudo"', '"dispositivo"', '"data_base"', "art. 9º", "TRECHO", "GAB", "RESP"):
+            self.assertIn(x, p)
+        self.assertNotIn('"caso"', p)
+
+    def test_tipo_desconhecido_e_erro(self):
+        with self.assertRaises(ValueError):
+            bateria.prompt_juiz("outro", self.V, "x")
+
+
 class TestSelecao(unittest.TestCase):
     def test_todos_por_padrao(self):
         for v in (None, "", "todos", "TODOS", []):

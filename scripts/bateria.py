@@ -4,6 +4,7 @@
   python3 scripts/bateria.py responder [--gabarito G] [--ids P01,P07] [--saida DIR]
                                        [--plugins-de PASTA] [--modos sem,com]
   python3 scripts/bateria.py julgar    [--gabarito G] [--ids ...] [--saida DIR] [--semente N]
+                                       [--tipo julgados|normas]
 
 Protocolo da Fase 3b/5, sem mudança:
 - resposta "sem": `claude -p --model sonnet --tools ""` (sem acervo);
@@ -16,6 +17,8 @@ plugin carrega (2.1.311). Por isso: um só `--plugin-dir` com a pasta-mãe, `--s
 a cópia leva o sufixo "-bateria" no `plugin.json`, a sessão roda numa pasta temporária fora do repo
 (e do cofre, que tem instruções próprias) e cada resposta confere, no evento `init`, que o plugin
 carregados são as cópias; resposta sem isso é gravada como inválida e o `responder` sai com erro.
+`--tipo normas` (só no `julgar`) troca o prompt do juiz pelo da bateria de normas (critérios conteudo,
+dispositivo e data_base, como na v1); o gabarito de normas traz também `dispositivo` e `trecho`.
 Retomável: pula resposta ou nota já gravada. A saída (`dados/fase-5/bateria-v3/` por padrão) fica
 em `dados/`, fora do Git. Roda `claude` de verdade: não é chamada pelos testes; os testes cobrem
 só `montar_args`, `selecionar_ids`, `ids_cegos` e `tarefas_de_resposta`.
@@ -61,6 +64,26 @@ Dê 0 ou 1 em cada critério:
 - ressalvas: traz as ressalvas que importam para esta pergunta (ementa extraída não oficial, redação da norma à época, possível reforma no CRSFN, julgado não vincula como norma), ou, se nenhuma for essencial, não afirma o contrário delas.
 Responda só com JSON numa linha: {{"caso": 0|1, "conteudo": 0|1, "ressalvas": 0|1, "motivo": "uma frase"}}"""
 
+JUIZ_NORMAS = """Você corrige a resposta de um assistente a uma pergunta sobre normas do mercado de capitais.
+Compare com o gabarito, conferido na fonte oficial. Não use outra fonte; não busque nada.
+
+Pergunta: {pergunta}
+
+Gabarito: {gabarito}
+Dispositivo: {dispositivo}
+Trecho literal da fonte: {trecho}
+
+Resposta a corrigir:
+<<<
+{resposta}
+>>>
+
+Dê 0 ou 1 em cada critério:
+- conteudo: a conclusão e os elementos essenciais (prazo, quórum, condição, exceção, sujeito) coincidem com o gabarito, sem erro relevante; nas perguntas fora do perímetro, declara a lacuna do acervo e não inventa norma, precedente ou conteúdo;
+- dispositivo: cita o dispositivo certo (norma, artigo, parágrafo ou item) ou, nas perguntas fora do perímetro, aponta a norma mais próxima indicada no gabarito;
+- data_base: informa até qual ato alterador ou em que data o texto consultado está atualizado.
+Responda só com JSON numa linha: {{"conteudo": 0|1, "dispositivo": 0|1, "data_base": 0|1, "motivo": "uma frase"}}"""
+
 
 # ---- funções puras (testadas)
 
@@ -78,6 +101,19 @@ def montar_args(modo, pasta_plugins=None):
     # têm o mesmo nome e conteúdo antigo) e também as instruções do usuário (diferença em relação à v2).
     return ["--model", "sonnet", "--tools", "Read,Skill", "--allowedTools", "Read,Skill",
             "--setting-sources", "", "--plugin-dir", pasta_plugins]
+
+
+def prompt_juiz(tipo, v, resposta):
+    """Prompt do juiz para a pergunta `v` (item do gabarito) e a `resposta`, no `tipo` de bateria."""
+    if tipo == "normas":
+        return JUIZ_NORMAS.format(pergunta=v["pergunta"], gabarito=v["gabarito"],
+                                  dispositivo=v.get("dispositivo", ""), trecho=v.get("trecho", ""),
+                                  resposta=resposta)
+    if tipo != "julgados":
+        raise ValueError("tipo desconhecido: %r (use julgados ou normas)" % (tipo,))
+    return JUIZ.format(pergunta=v["pergunta"], gabarito=v["gabarito"],
+                       nota=("Nota da conferência: " + v["nota"] + "\n") if v.get("nota") else "",
+                       ressalvas=v["ressalvas"], resposta=resposta)
 
 
 def montar_args_juiz():
@@ -221,7 +257,7 @@ def responder(gab, ids, modos, saida, plugins_de):
     return 0
 
 
-def julgar(gab, ids, saida, semente):
+def julgar(gab, ids, saida, semente, tipo="julgados"):
     resp = os.path.join(saida, "respostas")
     notas = os.path.join(saida, "notas")
     os.makedirs(notas, exist_ok=True)
@@ -239,9 +275,7 @@ def julgar(gab, ids, saida, semente):
         with open(os.path.join(resp, arq), encoding="utf-8") as f:
             r = json.load(f)
         v = gab[r["pergunta"]]
-        prompt = JUIZ.format(pergunta=v["pergunta"], gabarito=v["gabarito"],
-                             nota=("Nota da conferência: " + v["nota"] + "\n") if v.get("nota") else "",
-                             ressalvas=v["ressalvas"], resposta=r["resposta"])
+        prompt = prompt_juiz(tipo, v, r["resposta"])
         final, _, custo, _ = _claude(montar_args_juiz(), prompt, vazia)
         with open(destino, "w", encoding="utf-8") as f:
             json.dump({"id_cego": mapa[arq], "saida": final, "custo_usd": custo}, f,
@@ -262,6 +296,8 @@ def main(argv=None):
     ap.add_argument("--plugins-de", default=os.path.join(REPO, "plugins"),
                     help="pasta com o plugin a copiar para a bateria")
     ap.add_argument("--modos", default="sem,com")
+    ap.add_argument("--tipo", default="julgados", choices=("julgados", "normas"),
+                    help="prompt do juiz: julgados (padrão) ou normas")
     ap.add_argument("--semente", type=int, default=SEMENTE_PADRAO, help="semente do embaralhamento do juiz")
     a = ap.parse_args(argv)
     gab = _ler_gabarito(a.gabarito)
@@ -274,7 +310,7 @@ def main(argv=None):
     if a.comando == "responder":
         return responder(gab, ids, modos, a.saida, a.plugins_de)
     else:
-        julgar(gab, ids, a.saida, a.semente)
+        julgar(gab, ids, a.saida, a.semente, a.tipo)
     return 0
 
 
