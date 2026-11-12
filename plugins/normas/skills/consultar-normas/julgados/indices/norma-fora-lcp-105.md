@@ -9,7 +9,7 @@ Norma: fora do acervo.
 
 ## Sumário
 
-Este subíndice tem 354 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+Este subíndice tem 357 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
 
 | Seção | Linha |
 |---|---|
@@ -18,9 +18,9 @@ Este subíndice tem 354 linhas e uma leitura única é cortada em silêncio pert
 | art. 7º | 80 |
 | art. 8º | 93 |
 | art. 9º | 99 |
-| art. 10 | 250 |
-| art. 35 | 261 |
-| Citada sem dispositivo identificado | 267 |
+| art. 10 | 253 |
+| art. 35 | 264 |
+| Citada sem dispositivo identificado | 270 |
 
 ## art. 1º
 
@@ -231,8 +231,11 @@ Este subíndice tem 354 linhas e uma leitura única é cortada em silêncio pert
 | art. 9º | pas | 19957.005514/2025-47 | 2026-06-02 | condenacao | cvm-pas-19957-005514-2025-47 | fichas/pas/2026-01.md |
 | art. 9º | pas | 19957.007976/2020-94 | 2026-09-08 | parcial | cvm-pas-19957-007976-2020-94 | fichas/pas/2026-04.md |
 | art. 9º | pas | 19957.010788/2019-18 | 2026-07-28 | absolvicao | cvm-pas-19957-010788-2019-18 | fichas/pas/2026-02.md |
+| art. 9º | pas | 19957.011239/2025-09 | 2026-11-03 | condenacao | cvm-pas-19957-011239-2025-09 | fichas/pas/2026-07.md |
 | art. 9º | pas | 19957.011331/2025-61 | 2026-07-28 | condenacao | cvm-pas-19957-011331-2025-61 | fichas/pas/2026-03.md |
+| art. 9º | pas | 19957.012863/2025-15 | 2026-11-03 | condenacao | cvm-pas-19957-012863-2025-15 | fichas/pas/2026-07.md |
 | art. 9º | pas | 19957.013932/2025-16 | 2026-08-25 | condenacao | cvm-pas-19957-013932-2025-16 | fichas/pas/2026-03.md |
+| art. 9º | pas | 19957.021543/2024-75 | 2026-11-03 | condenacao | cvm-pas-19957-021543-2024-75 | fichas/pas/2026-07.md |
 | art. 9º, parágrafo único | pas | SP2005/0128 | 2006-05-09 | parcial | cvm-pas-sp2005-0128 | fichas/pas/2006-09.md |
 | art. 9º, § 1º | acordao-crsfn | RJ-2007-1079 | 2012-07-30 | parcial | crsfn-11834 | fichas/crsfn/2012-03.md |
 | art. 9º, § 1º | pas | RJ2002/8428 | 2004-10-14 | parcial | cvm-pas-rj2002-8428 | fichas/pas/2004-12.md |

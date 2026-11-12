@@ -1789,5 +1789,464 @@
   "data": "2026-11-04",
   "url": "https://colaboragov.sei.gov.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=71468749&id_orgao_publicacao=7",
   "classe": "J"
+ },
+ {
+  "id": "crsfn-11893-100007-2023-34",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem COAF (prefixo NUP 11893)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/508a-sessao-de-julgamento/processo-11893-100007-2023-34",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-11893-100308-2023-68",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem COAF (prefixo NUP 11893)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/509a-sessao-de-julgamento/processo-11893-100308-2023-68",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-15414-606718-2026-67",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem SUSEP (prefixo NUP 15414)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/509a-sessao-de-julgamento/processo-15414-606718-2026-67",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-18600-112082-2025-05",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem BCB (prefixo NUP 18600)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/508a-a-sessao-de-julgamento/processo-18600-112082-2025-05",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-18600-112318-2025-03",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem BCB (prefixo NUP 18600)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/509a-sessao-de-julgamento/processo-18600-112318-2025-03",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-18600-112356-2025-58",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem BCB (prefixo NUP 18600)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/508a-a-sessao-de-julgamento/processo-18600-112356-2025-58",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-18600-112540-2025-06",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem BCB (prefixo NUP 18600)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/509a-sessao-de-julgamento/processo-18600-112540-2025-06",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-18600-112587-2025-61",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem BCB (prefixo NUP 18600)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/508a-a-sessao-de-julgamento/processo-18600-112587-2025-61",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-18600-112634-2025-77",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem BCB (prefixo NUP 18600)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/509a-sessao-de-julgamento/processo-18600-112634-2025-77",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-18600-116610-2025-97",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem BCB (prefixo NUP 18600)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/508a-a-sessao-de-julgamento/processo-18600-116610-2025-97",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-18600-116613-2025-21",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem BCB (prefixo NUP 18600)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/508a-a-sessao-de-julgamento/processo-18600-116613-2025-21",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-18600-117060-2025-23",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem BCB (prefixo NUP 18600)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/508a-a-sessao-de-julgamento/processo-18600-117060-2025-23",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-18600-117068-2025-90",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem BCB (prefixo NUP 18600)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/508a-a-sessao-de-julgamento/processo-18600-117068-2025-90",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-18600-117693-2025-31",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem BCB (prefixo NUP 18600)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/508a-a-sessao-de-julgamento/processo-18600-117693-2025-31",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-18600-117697-2025-10",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem BCB (prefixo NUP 18600)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/508a-a-sessao-de-julgamento/processo-18600-117697-2025-10",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-18600-117965-2025-01",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem BCB (prefixo NUP 18600)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/508a-a-sessao-de-julgamento/processo-18600-117965-2025-01",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-18600-118221-2025-04",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem BCB (prefixo NUP 18600)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/509a-sessao-de-julgamento/processo-18600-118221-2025-04",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-18600-118233-2025-21",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem BCB (prefixo NUP 18600)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/508a-a-sessao-de-julgamento/processo-18600-118233-2025-21",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-18600-118237-2025-17",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem BCB (prefixo NUP 18600)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/509a-sessao-de-julgamento/processo-18600-118237-2025-17",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-18600-120747-2025-46",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem BCB (prefixo NUP 18600)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/508a-a-sessao-de-julgamento/processo-18600-120747-2025-46",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-18600-121266-2025-58",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem BCB (prefixo NUP 18600)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/508a-a-sessao-de-julgamento/processo-18600-121266-2025-58",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-18600-138983-2025-19",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem BCB (prefixo NUP 18600)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/508a-a-sessao-de-julgamento/processo-18600-138983-2025-19",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-18600-138992-2025-18",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem BCB (prefixo NUP 18600)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/508a-a-sessao-de-julgamento/processo-18600-138992-2025-18",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-18600-140004-2025-92",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem BCB (prefixo NUP 18600)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/508a-a-sessao-de-julgamento/processo-18600-140004-2025-92",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-18600-140039-2025-21",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem BCB (prefixo NUP 18600)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/508a-a-sessao-de-julgamento/processo-18600-140039-2025-21",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-18600-140169-2025-64",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem BCB (prefixo NUP 18600)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/508a-a-sessao-de-julgamento/processo-18600-140169-2025-64",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-18600-140189-2025-35",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem BCB (prefixo NUP 18600)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/508a-a-sessao-de-julgamento/processo-18600-140189-2025-35",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-18600-140196-2025-37",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem BCB (prefixo NUP 18600)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/508a-a-sessao-de-julgamento/processo-18600-140196-2025-37",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-18600-140612-2025-05",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem BCB (prefixo NUP 18600)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/508a-a-sessao-de-julgamento/processo-18600-140612-2025-05",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-18600-140677-2025-42",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem BCB (prefixo NUP 18600)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/508a-a-sessao-de-julgamento/processo-18600-140677-2025-42",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-18600-140690-2025-00",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem BCB (prefixo NUP 18600)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/508a-a-sessao-de-julgamento/processo-18600-140690-2025-00",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-18600-140701-2025-43",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem BCB (prefixo NUP 18600)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/508a-a-sessao-de-julgamento/processo-18600-140701-2025-43",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-18600-140709-2025-18",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem BCB (prefixo NUP 18600)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/508a-a-sessao-de-julgamento/processo-18600-140709-2025-18",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-18600-140760-2025-11",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem BCB (prefixo NUP 18600)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/508a-a-sessao-de-julgamento/processo-18600-140760-2025-11",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-18600-141168-2025-37",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem BCB (prefixo NUP 18600)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/508a-a-sessao-de-julgamento/processo-18600-141168-2025-37",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-18600-141204-2025-62",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem BCB (prefixo NUP 18600)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/508a-a-sessao-de-julgamento/processo-18600-141204-2025-62",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-18600-141291-2025-58",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem BCB (prefixo NUP 18600)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/508a-a-sessao-de-julgamento/processo-18600-141291-2025-58",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-18600-141304-2025-99",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem BCB (prefixo NUP 18600)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/508a-a-sessao-de-julgamento/processo-18600-141304-2025-99",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-18600-141315-2025-79",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem BCB (prefixo NUP 18600)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/509a-sessao-de-julgamento/processo-18600-141315-2025-79",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-18600-141321-2025-26",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem BCB (prefixo NUP 18600)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/508a-a-sessao-de-julgamento/processo-18600-141321-2025-26",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-18600-141327-2025-01",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem BCB (prefixo NUP 18600)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/509a-sessao-de-julgamento/processo-18600-141327-2025-01",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-18600-141358-2025-54",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem BCB (prefixo NUP 18600)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/508a-a-sessao-de-julgamento/processo-18600-141358-2025-54",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-18600-141366-2025-09",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem BCB (prefixo NUP 18600)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/508a-a-sessao-de-julgamento/processo-18600-141366-2025-09",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-18600-141375-2025-91",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem BCB (prefixo NUP 18600)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/508a-a-sessao-de-julgamento/processo-18600-141375-2025-91",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-18600-141403-2025-71",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem BCB (prefixo NUP 18600)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/508a-a-sessao-de-julgamento/processo-18600-141403-2025-71",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-18600-141449-2025-90",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem BCB (prefixo NUP 18600)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/508a-a-sessao-de-julgamento/processo-18600-141449-2025-90",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-18600-141469-2025-61",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem BCB (prefixo NUP 18600)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/508a-a-sessao-de-julgamento/processo-18600-141469-2025-61",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-18600-141472-2025-84",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem BCB (prefixo NUP 18600)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/508a-a-sessao-de-julgamento/processo-18600-141472-2025-84",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-18600-141475-2025-18",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem BCB (prefixo NUP 18600)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/508a-a-sessao-de-julgamento/processo-18600-141475-2025-18",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-18600-141517-2025-11",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem BCB (prefixo NUP 18600)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/508a-a-sessao-de-julgamento/processo-18600-141517-2025-11",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-18600-141555-2025-73",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem BCB (prefixo NUP 18600)",
+  "data": "2026-11-12",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/508a-a-sessao-de-julgamento/processo-18600-141555-2025-73",
+  "classe": "J"
  }
 ]

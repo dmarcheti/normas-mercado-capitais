@@ -15,7 +15,7 @@ Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho rel
 
 | Tipo | Ano (subíndice) | Julgados |
 |---|---|---|
-| Processos Administrativos Sancionadores (PAS) | [2026](indices/pas-2026.md) | 25 |
+| Processos Administrativos Sancionadores (PAS) | [2026](indices/pas-2026.md) | 32 |
 | Processos Administrativos Sancionadores (PAS) | [2025](indices/pas-2025.md) | 49 |
 | Processos Administrativos Sancionadores (PAS) | [2024](indices/pas-2024.md) | 94 |
 | Processos Administrativos Sancionadores (PAS) | [2023](indices/pas-2023.md) | 72 |
@@ -168,7 +168,7 @@ Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho rel
 | Acórdãos do CRSFN (recursos contra decisões da CVM) | [1997](indices/acordao-crsfn-1997.md) | 16 |
 | Acórdãos do CRSFN (recursos contra decisões da CVM) | [1996](indices/acordao-crsfn-1996.md) | 22 |
 
-Total: Processos Administrativos Sancionadores (PAS), 1419; Termos de compromisso, 1714; Decisões do Colegiado, 10502; Decisões antigas (1978 a 2001), 24; Acórdãos do CRSFN (recursos contra decisões da CVM), 1332.
+Total: Processos Administrativos Sancionadores (PAS), 1426; Termos de compromisso, 1714; Decisões do Colegiado, 10502; Decisões antigas (1978 a 2001), 24; Acórdãos do CRSFN (recursos contra decisões da CVM), 1332.
 
 ## Por tema
 
@@ -176,20 +176,20 @@ Total: Processos Administrativos Sancionadores (PAS), 1419; Termos de compromiss
 |---|---|
 | [administracao-carteiras](indices/tema-administracao-carteiras.md) | 428 |
 | [analistas-rating](indices/tema-analistas-rating.md) | 61 |
-| [assembleia-acionistas](indices/tema-assembleia-acionistas.md) | 547 |
+| [assembleia-acionistas](indices/tema-assembleia-acionistas.md) | 548 |
 | [auditoria-independente](indices/tema-auditoria-independente.md) | 489 |
 | [contabil-demonstracoes](indices/tema-contabil-demonstracoes.md) | 397 |
 | [criptoativos](indices/tema-criptoativos.md) | 20 |
 | [crowdfunding](indices/tema-crowdfunding.md) | 26 |
-| [deveres-administradores](indices/tema-deveres-administradores.md) | 629 |
-| [divulgacao-informacoes](indices/tema-divulgacao-informacoes.md) | 1184 |
-| [exercicio-irregular](indices/tema-exercicio-irregular.md) | 371 |
+| [deveres-administradores](indices/tema-deveres-administradores.md) | 630 |
+| [divulgacao-informacoes](indices/tema-divulgacao-informacoes.md) | 1186 |
+| [exercicio-irregular](indices/tema-exercicio-irregular.md) | 373 |
 | [fundos-investimento](indices/tema-fundos-investimento.md) | 807 |
 | [informacao-privilegiada](indices/tema-informacao-privilegiada.md) | 371 |
 | [infraestrutura-mercado](indices/tema-infraestrutura-mercado.md) | 343 |
 | [institucional](indices/tema-institucional.md) | 448 |
 | [intermediacao](indices/tema-intermediacao.md) | 926 |
-| [manipulacao-fraude](indices/tema-manipulacao-fraude.md) | 555 |
+| [manipulacao-fraude](indices/tema-manipulacao-fraude.md) | 556 |
 | [multa-cominatoria-taxa](indices/tema-multa-cominatoria-taxa.md) | 3477 |
 | [normativo](indices/tema-normativo.md) | 1026 |
 | [ofertas-publicas](indices/tema-ofertas-publicas.md) | 690 |
@@ -204,7 +204,7 @@ Total: Processos Administrativos Sancionadores (PAS), 1419; Termos de compromiss
 
 Número do processo -> julgados (PAS, termo de compromisso e acórdão do CRSFN do mesmo processo). O arquivo é o do ano do número (NUP, antigo ou curto) e traz as formas do julgado e o número normalizado.
 
-[1987](indices/processo-1987.md) [1988](indices/processo-1988.md) [1989](indices/processo-1989.md) [1990](indices/processo-1990.md) [1991](indices/processo-1991.md) [1992](indices/processo-1992.md) [1993](indices/processo-1993.md) [1994](indices/processo-1994.md) [1995](indices/processo-1995.md) [1996](indices/processo-1996.md) [1997](indices/processo-1997.md) [1998](indices/processo-1998.md) [1999](indices/processo-1999.md) [2000](indices/processo-2000.md) [2001](indices/processo-2001.md) [2002](indices/processo-2002.md) [2003](indices/processo-2003.md) [2004](indices/processo-2004.md) [2005](indices/processo-2005.md) [2006](indices/processo-2006.md) [2007](indices/processo-2007.md) [2008](indices/processo-2008.md) [2009](indices/processo-2009.md) [2010](indices/processo-2010.md) [2011](indices/processo-2011.md) [2012](indices/processo-2012.md) [2013](indices/processo-2013.md) [2014](indices/processo-2014.md) [2015](indices/processo-2015.md) [2016](indices/processo-2016.md) [2017](indices/processo-2017.md) [2018](indices/processo-2018.md) [2019](indices/processo-2019.md) [2020](indices/processo-2020.md) [2021](indices/processo-2021.md) [2022](indices/processo-2022.md) [2023](indices/processo-2023.md) [2024](indices/processo-2024.md) [2025](indices/processo-2025.md) [2031](indices/processo-2031.md) [2032](indices/processo-2032.md) [2034](indices/processo-2034.md) [2039](indices/processo-2039.md) [2201](indices/processo-2201.md) [2203](indices/processo-2203.md) [8091](indices/processo-8091.md)
+[1987](indices/processo-1987.md) [1988](indices/processo-1988.md) [1989](indices/processo-1989.md) [1990](indices/processo-1990.md) [1991](indices/processo-1991.md) [1992](indices/processo-1992.md) [1993](indices/processo-1993.md) [1994](indices/processo-1994.md) [1995](indices/processo-1995.md) [1996](indices/processo-1996.md) [1997](indices/processo-1997.md) [1998](indices/processo-1998.md) [1999](indices/processo-1999.md) [2000](indices/processo-2000.md) [2001](indices/processo-2001.md) [2002](indices/processo-2002.md) [2003](indices/processo-2003.md) [2004](indices/processo-2004.md) [2005](indices/processo-2005.md) [2006](indices/processo-2006.md) [2007](indices/processo-2007.md) [2008](indices/processo-2008.md) [2009](indices/processo-2009.md) [2010](indices/processo-2010.md) [2011](indices/processo-2011.md) [2012](indices/processo-2012.md) [2013](indices/processo-2013.md) [2014](indices/processo-2014.md) [2015](indices/processo-2015.md) [2016](indices/processo-2016.md) [2017](indices/processo-2017.md) [2018](indices/processo-2018.md) [2019](indices/processo-2019.md) [2020](indices/processo-2020.md) [2021](indices/processo-2021.md) [2022](indices/processo-2022.md) [2023](indices/processo-2023.md) [2024](indices/processo-2024.md) [2025](indices/processo-2025.md) [2026](indices/processo-2026.md) [2031](indices/processo-2031.md) [2032](indices/processo-2032.md) [2034](indices/processo-2034.md) [2039](indices/processo-2039.md) [2201](indices/processo-2201.md) [2203](indices/processo-2203.md) [8091](indices/processo-8091.md)
 
 Processo sem número reconhecível: [processo-outros](indices/processo-outros.md) (164).
 

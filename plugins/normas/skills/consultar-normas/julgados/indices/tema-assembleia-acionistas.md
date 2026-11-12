@@ -7,40 +7,41 @@ Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho rel
 
 ## Sumário
 
-Este subíndice tem 591 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+Este subíndice tem 592 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
 
 | Seção | Linha |
 |---|---|
 | 2026 | 43 |
-| 2025 | 51 |
-| 2024 | 73 |
-| 2023 | 93 |
-| 2022 | 114 |
-| 2021 | 132 |
-| 2020 | 136 |
-| 2019 | 159 |
-| 2018 | 177 |
-| 2017 | 211 |
-| 2016 | 241 |
-| 2015 | 254 |
-| 2014 | 275 |
-| 2013 | 301 |
-| 2012 | 315 |
-| 2011 | 341 |
-| 2010 | 357 |
-| 2009 | 375 |
-| 2008 | 396 |
-| 2007 | 418 |
-| 2006 | 439 |
-| 2005 | 466 |
-| 2004 | 494 |
-| 2003 | 532 |
-| 2002 | 557 |
-| 1997 | 589 |
+| 2025 | 52 |
+| 2024 | 74 |
+| 2023 | 94 |
+| 2022 | 115 |
+| 2021 | 133 |
+| 2020 | 137 |
+| 2019 | 160 |
+| 2018 | 178 |
+| 2017 | 212 |
+| 2016 | 242 |
+| 2015 | 255 |
+| 2014 | 276 |
+| 2013 | 302 |
+| 2012 | 316 |
+| 2011 | 342 |
+| 2010 | 358 |
+| 2009 | 376 |
+| 2008 | 397 |
+| 2007 | 419 |
+| 2006 | 440 |
+| 2005 | 467 |
+| 2004 | 495 |
+| 2003 | 533 |
+| 2002 | 558 |
+| 1997 | 590 |
 
 | Tipo | Processo | Data | Resultado | Ementa | Id | Ficha |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | O Colegiado indeferiu pedidos de interrupção do prazo de convocação e de adiamento da AGE do Grupo Toky S.A. - Em Recuperação Judicial… | cvm-col-20261103-d3649 | fichas/colegiado/2026-03.md |
+| pas | 19957.015037/2023-66 | 2026-10-27 | absolvicao | Apurar responsabilidade de administradores da Rio Paranapanema Energia S.A. pelo descumprimento, em tese, do § 1º do art. 115 c/c o § 1º do… | cvm-pas-19957-015037-2023-66 | fichas/pas/2026-07.md |
 | decisao-colegiado | 19957.015113/2026-86 | 2026-09-18 | indeferido | O Colegiado, acompanhando a SEP, indeferiu, por unanimidade, pedidos intempestivos de acionistas de interrupção e adiamento do prazo de… | cvm-col-20260918-d3619 | fichas/colegiado/2026-03.md |
 | decisao-colegiado | 19957.014651/2026-53; 19957.014659/2026-10 | 2026-09-11 | indeferido | Acompanhando a SEP, o Colegiado, por unanimidade, indeferiu pedidos de interrupção do prazo de convocação e de novo adiamento da AGE da… | cvm-col-20260911-d3611 | fichas/colegiado/2026-03.md |
 | decisao-colegiado | 19957.012499/2026-74 | 2026-07-28 | deferido | Acompanhando a SEP, o Colegiado, por unanimidade, deferiu o adiamento da AGE da EMAE, convocada para 30.07.2026, por 30 dias após a entrega… | cvm-col-20260728-d3586 | fichas/colegiado/2026-03.md |

@@ -9,7 +9,7 @@ Norma: [cvm/resolucoes/0045.md](../../normas/cvm/resolucoes/0045.md) (texto vige
 
 ## Sumário
 
-Este subíndice tem 3493 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+Este subíndice tem 3499 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
 
 art. 1º (28); art. 2º (34); art. 3º (45); art. 4º (62); art. 5º (197); art. 6º (310); art. 7º (376)
 art. 8º (438); art. 10 (445); art. 11 (452); art. 12 (463); art. 13 (469); art. 14 (509); art. 15 (519)
@@ -19,11 +19,11 @@ art. 34 (730); art. 35 (744); art. 36 (751); art. 38 (793); art. 39 (816); art. 
 art. 42 (843); art. 43 (865); art. 44 (910); art. 45 (921); art. 46 (927); art. 47 (943); art. 48 (954)
 art. 49 (961); art. 50 (1121); art. 51 (1131); art. 54 (1137); art. 55 (1143); art. 57 (1153); art. 60 (1161)
 art. 61 (1181); art. 62 (1211); art. 63 (1235); art. 64 (1265); art. 65 (1279); art. 66 (1365); art. 67 (1504)
-art. 68 (1516); art. 70 (1533); art. 71 (1791); art. 72 (1843); art. 73 (1852); art. 74 (1883); art. 76 (1929)
-art. 80 (1963); art. 81 (1969); art. 82 (1981); art. 83 (2236); art. 84 (2727); art. 85 (2778); art. 86 (2788)
-art. 87 (3094); art. 88 (3104); art. 89 (3114); art. 90 (3121); art. 91 (3128); art. 103 (3319)
-art. 116 (3325); art. 637 (3349); art. 668 (3355); art. 734 (3361); art. 746 (3367); art. 769 (3373)
-Anexo B, art. 1º (3379); Anexo C, art. 1º (3404); Citada sem dispositivo identificado (3413)
+art. 68 (1516); art. 70 (1533); art. 71 (1797); art. 72 (1849); art. 73 (1858); art. 74 (1889); art. 76 (1935)
+art. 80 (1969); art. 81 (1975); art. 82 (1987); art. 83 (2242); art. 84 (2733); art. 85 (2784); art. 86 (2794)
+art. 87 (3100); art. 88 (3110); art. 89 (3120); art. 90 (3127); art. 91 (3134); art. 103 (3325)
+art. 116 (3331); art. 637 (3355); art. 668 (3361); art. 734 (3367); art. 746 (3373); art. 769 (3379)
+Anexo B, art. 1º (3385); Anexo C, art. 1º (3410); Citada sem dispositivo identificado (3419)
 
 ## art. 1º
 
@@ -1778,15 +1778,21 @@ Anexo B, art. 1º (3379); Anexo C, art. 1º (3404); Citada sem dispositivo ident
 | art. 70 | pas | 19957.018237/2024-51 | 2025-05-27 | condenacao | cvm-pas-19957-018237-2024-51 | fichas/pas/2025-05.md |
 | art. 70 | pas | 19957.001044/2025-42 | 2026-07-14 | parcial | cvm-pas-19957-001044-2025-42 | fichas/pas/2026-02.md |
 | art. 70 | pas | 19957.001045/2025-97 | 2026-05-12 | parcial | cvm-pas-19957-001045-2025-97 | fichas/pas/2026-01.md |
+| art. 70 | pas | 19957.001432/2026-12 | 2026-10-27 | condenacao | cvm-pas-19957-001432-2026-12 | fichas/pas/2026-06.md |
 | art. 70 | pas | 19957.001811/2025-13 | 2026-09-08 | condenacao | cvm-pas-19957-001811-2025-13 | fichas/pas/2026-04.md |
+| art. 70 | pas | 19957.002327/2025-10 | 2026-10-27 | parcial | cvm-pas-19957-002327-2025-10 | fichas/pas/2026-07.md |
 | art. 70 | pas | 19957.003588/2023-87 | 2026-10-22 | — | cvm-pas-19957-003588-2023-87 | fichas/pas/2026-06.md |
 | art. 70 | pas | 19957.005514/2025-47 | 2026-06-02 | condenacao | cvm-pas-19957-005514-2025-47 | fichas/pas/2026-01.md |
 | art. 70 | pas | 19957.007774/2025-57 | 2026-05-26 | condenacao | cvm-pas-19957-007774-2025-57 | fichas/pas/2026-01.md |
 | art. 70 | pas | 19957.007976/2020-94 | 2026-09-08 | parcial | cvm-pas-19957-007976-2020-94 | fichas/pas/2026-04.md |
+| art. 70 | pas | 19957.011024/2019-31 | 2026-10-27 | parcial | cvm-pas-19957-011024-2019-31 | fichas/pas/2026-07.md |
 | art. 70 | pas | 19957.011123/2025-61 | 2026-06-02 | condenacao | cvm-pas-19957-011123-2025-61 | fichas/pas/2026-01.md |
+| art. 70 | pas | 19957.011239/2025-09 | 2026-11-03 | condenacao | cvm-pas-19957-011239-2025-09 | fichas/pas/2026-07.md |
 | art. 70 | pas | 19957.011331/2025-61 | 2026-07-28 | condenacao | cvm-pas-19957-011331-2025-61 | fichas/pas/2026-03.md |
 | art. 70 | pas | 19957.011363/2024-85 | 2026-07-14 | parcial | cvm-pas-19957-011363-2024-85 | fichas/pas/2026-02.md |
+| art. 70 | pas | 19957.012863/2025-15 | 2026-11-03 | condenacao | cvm-pas-19957-012863-2025-15 | fichas/pas/2026-07.md |
 | art. 70 | pas | 19957.013932/2025-16 | 2026-08-25 | condenacao | cvm-pas-19957-013932-2025-16 | fichas/pas/2026-03.md |
+| art. 70 | pas | 19957.021543/2024-75 | 2026-11-03 | condenacao | cvm-pas-19957-021543-2024-75 | fichas/pas/2026-07.md |
 
 ## art. 71
 

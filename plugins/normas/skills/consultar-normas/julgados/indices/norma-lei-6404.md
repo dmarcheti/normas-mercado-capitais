@@ -9,7 +9,7 @@ Norma: [leis/lei-06404/index.md](../../normas/leis/lei-06404/index.md) (texto vi
 
 ## Sumário
 
-Este subíndice tem 16890 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+Este subíndice tem 16895 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
 
 art. 1º (60); art. 2º (73); art. 3º (99); art. 4º (114); art. 4º-A (520); art. 5º (643); art. 6º (651)
 art. 7º (659); art. 8º (675); art. 9º (752); art. 10 (765); art. 11 (781); art. 12 (805); art. 13 (819)
@@ -25,37 +25,37 @@ art. 73 (1950); art. 74 (1957); art. 75 (1963); art. 76 (1972); art. 77 (1978); 
 art. 80 (2005); art. 81 (2013); art. 82 (2020); art. 83 (2035); art. 84 (2041); art. 85 (2047); art. 87 (2054)
 art. 89 (2060); art. 94 (2067); art. 95 (2076); art. 98 (2082); art. 100 (2092); art. 103 (2275)
 art. 104 (2287); art. 105 (2293); art. 106 (2318); art. 107 (2326); art. 108 (2338); art. 109 (2344)
-art. 110 (2510); art. 111 (2526); art. 113 (2586); art. 114 (2594); art. 115 (2604); art. 116 (2923)
-art. 116-A (3253); art. 117 (3265); art. 118 (3746); art. 119 (3837); art. 120 (3844); art. 121 (3868)
-art. 122 (3900); art. 123 (3944); art. 124 (4082); art. 125 (4661); art. 126 (4679); art. 127 (4786)
-art. 128 (4795); art. 129 (4816); art. 130 (4834); art. 131 (4850); art. 132 (4864); art. 133 (5426)
-art. 134 (6464); art. 135 (6542); art. 136 (6595); art. 137 (6737); art. 138 (6868); art. 139 (6910)
-art. 140 (6934); art. 141 (6975); art. 142 (7175); art. 143 (7939); art. 144 (7973); art. 145 (8000)
-art. 146 (8017); art. 147 (8054); art. 148 (8160); art. 149 (8166); art. 150 (8183); art. 151 (8275)
-art. 152 (8309); art. 153 (8444); art. 153-O (9072); art. 154 (9078); art. 155 (9552); art. 156 (10267)
-art. 157 (10472); art. 158 (11074); art. 159 (11220); art. 160 (11352); art. 161 (11391); art. 162 (11645)
-art. 163 (11687); art. 164 (11894); art. 165 (11908); art. 166 (11977); art. 167 (12012); art. 168 (12022)
-art. 169 (12083); art. 170 (12103); art. 171 (12451); art. 172 (12567); art. 173 (12597); art. 174 (12633)
-art. 175 (12656); art. 176 (12668); art. 177 (13303); art. 178 (13638); art. 179 (13663); art. 180 (13696)
-art. 181 (13711); art. 182 (13718); art. 183 (13749); art. 184 (13801); art. 185 (13828); art. 186 (13839)
-art. 187 (13877); art. 188 (13890); art. 189 (13896); art. 190 (13964); art. 191 (13978); art. 192 (13991)
-art. 193 (14035); art. 194 (14071); art. 195 (14136); art. 195-A (14165); art. 196 (14173); art. 197 (14253)
-art. 198 (14286); art. 199 (14309); art. 200 (14343); art. 201 (14380); art. 202 (14418); art. 203 (14586)
-art. 204 (14613); art. 205 (14646); art. 206 (14679); art. 210 (14689); art. 211 (14697); art. 212 (14703)
-art. 213 (14709); art. 214 (14716); art. 217 (14723); art. 219 (14729); art. 220 (14738); art. 221 (14745)
-art. 222 (14758); art. 223 (14764); art. 224 (14802); art. 225 (14874); art. 226 (14922); art. 227 (14943)
-art. 228 (14984); art. 229 (14990); art. 230 (15011); art. 231 (15023); art. 233 (15036); art. 235 (15048)
-art. 236 (15064); art. 237 (15072); art. 238 (15083); art. 239 (15113); art. 240 (15144); art. 241 (15169)
-art. 242 (15175); art. 243 (15181); art. 244 (15209); art. 245 (15242); art. 245-A (15335); art. 246 (15342)
-art. 247 (15368); art. 248 (15391); art. 249 (15405); art. 250 (15424); art. 251 (15432); art. 252 (15448)
-art. 253 (15523); art. 254 (15552); art. 254-A (15602); art. 255 (15811); art. 256 (15830); art. 257 (15922)
-art. 258 (15950); art. 259 (15964); art. 260 (15972); art. 261 (15987); art. 262 (15996); art. 263 (16006)
-art. 264 (16015); art. 265 (16198); art. 266 (16225); art. 267 (16235); art. 269 (16243); art. 270 (16249)
-art. 273 (16258); art. 274 (16278); art. 275 (16287); art. 276 (16293); art. 278 (16300); art. 285 (16307)
-art. 286 (16322); art. 287 (16351); art. 288 (16379); art. 289 (16386); art. 291 (16411); art. 293 (16427)
-art. 294 (16438); art. 294-A (16449); art. 294-B (16459); art. 295 (16470); art. 296 (16476); art. 297 (16482)
-art. 298 (16491); art. 299 (16497); art. 300 (16504); art. 453 (16510)
-Citada sem dispositivo identificado (16517)
+art. 110 (2510); art. 111 (2526); art. 113 (2586); art. 114 (2594); art. 115 (2604); art. 116 (2924)
+art. 116-A (3254); art. 117 (3266); art. 118 (3747); art. 119 (3838); art. 120 (3845); art. 121 (3869)
+art. 122 (3901); art. 123 (3945); art. 124 (4083); art. 125 (4662); art. 126 (4680); art. 127 (4787)
+art. 128 (4796); art. 129 (4817); art. 130 (4835); art. 131 (4851); art. 132 (4865); art. 133 (5428)
+art. 134 (6466); art. 135 (6545); art. 136 (6598); art. 137 (6740); art. 138 (6871); art. 139 (6913)
+art. 140 (6937); art. 141 (6978); art. 142 (7178); art. 143 (7942); art. 144 (7976); art. 145 (8003)
+art. 146 (8020); art. 147 (8057); art. 148 (8163); art. 149 (8169); art. 150 (8186); art. 151 (8278)
+art. 152 (8312); art. 153 (8447); art. 153-O (9075); art. 154 (9081); art. 155 (9556); art. 156 (10272)
+art. 157 (10477); art. 158 (11079); art. 159 (11225); art. 160 (11357); art. 161 (11396); art. 162 (11650)
+art. 163 (11692); art. 164 (11899); art. 165 (11913); art. 166 (11982); art. 167 (12017); art. 168 (12027)
+art. 169 (12088); art. 170 (12108); art. 171 (12456); art. 172 (12572); art. 173 (12602); art. 174 (12638)
+art. 175 (12661); art. 176 (12673); art. 177 (13308); art. 178 (13643); art. 179 (13668); art. 180 (13701)
+art. 181 (13716); art. 182 (13723); art. 183 (13754); art. 184 (13806); art. 185 (13833); art. 186 (13844)
+art. 187 (13882); art. 188 (13895); art. 189 (13901); art. 190 (13969); art. 191 (13983); art. 192 (13996)
+art. 193 (14040); art. 194 (14076); art. 195 (14141); art. 195-A (14170); art. 196 (14178); art. 197 (14258)
+art. 198 (14291); art. 199 (14314); art. 200 (14348); art. 201 (14385); art. 202 (14423); art. 203 (14591)
+art. 204 (14618); art. 205 (14651); art. 206 (14684); art. 210 (14694); art. 211 (14702); art. 212 (14708)
+art. 213 (14714); art. 214 (14721); art. 217 (14728); art. 219 (14734); art. 220 (14743); art. 221 (14750)
+art. 222 (14763); art. 223 (14769); art. 224 (14807); art. 225 (14879); art. 226 (14927); art. 227 (14948)
+art. 228 (14989); art. 229 (14995); art. 230 (15016); art. 231 (15028); art. 233 (15041); art. 235 (15053)
+art. 236 (15069); art. 237 (15077); art. 238 (15088); art. 239 (15118); art. 240 (15149); art. 241 (15174)
+art. 242 (15180); art. 243 (15186); art. 244 (15214); art. 245 (15247); art. 245-A (15340); art. 246 (15347)
+art. 247 (15373); art. 248 (15396); art. 249 (15410); art. 250 (15429); art. 251 (15437); art. 252 (15453)
+art. 253 (15528); art. 254 (15557); art. 254-A (15607); art. 255 (15816); art. 256 (15835); art. 257 (15927)
+art. 258 (15955); art. 259 (15969); art. 260 (15977); art. 261 (15992); art. 262 (16001); art. 263 (16011)
+art. 264 (16020); art. 265 (16203); art. 266 (16230); art. 267 (16240); art. 269 (16248); art. 270 (16254)
+art. 273 (16263); art. 274 (16283); art. 275 (16292); art. 276 (16298); art. 278 (16305); art. 285 (16312)
+art. 286 (16327); art. 287 (16356); art. 288 (16384); art. 289 (16391); art. 291 (16416); art. 293 (16432)
+art. 294 (16443); art. 294-A (16454); art. 294-B (16464); art. 295 (16475); art. 296 (16481); art. 297 (16487)
+art. 298 (16496); art. 299 (16502); art. 300 (16509); art. 453 (16515)
+Citada sem dispositivo identificado (16522)
 
 ## art. 1º
 
@@ -2901,6 +2901,7 @@ Citada sem dispositivo identificado (16517)
 | art. 115, § 1º | pas | 19957.002393/2023-10 | 2024-12-18 | absolvicao | cvm-pas-19957-002393-2023-10 | fichas/pas/2024-23.md |
 | art. 115, § 1º | pas | 19957.007469/2023-01 | 2024-12-18 | absolvicao | cvm-pas-19957-007469-2023-01 | fichas/pas/2024-23.md |
 | art. 115, § 1º | pas | 19957.013476/2024-15 | 2025-04-01 | condenacao | cvm-pas-19957-013476-2024-15 | fichas/pas/2025-03.md |
+| art. 115, § 1º | pas | 19957.015037/2023-66 | 2026-10-27 | absolvicao | cvm-pas-19957-015037-2023-66 | fichas/pas/2026-07.md |
 | art. 115, § 2º | acordao-crsfn | RJ2014/5099 | 2018-08-21 | parcial | crsfn-14487 | fichas/crsfn/2018-07.md |
 | art. 115, § 2º | decisao-colegiado | 34/2006; RJ2006/7204; RJ2006/7213 | 2006-10-17 | outro | cvm-col-20061017-d04 | fichas/colegiado/2006-15.md |
 | art. 115, § 2º | decisao-colegiado | RJ2013/11703 | 2017-01-31 | parcial | cvm-col-20170131-d9211 | fichas/colegiado/2017-03.md |
@@ -5396,6 +5397,7 @@ Citada sem dispositivo identificado (16517)
 | art. 132 | pas | 19957.014716/2023-18 | 2024-12-17 | condenacao | cvm-pas-19957-014716-2023-18 | fichas/pas/2024-22.md |
 | art. 132 | pas | 19957.001044/2025-42 | 2026-07-14 | parcial | cvm-pas-19957-001044-2025-42 | fichas/pas/2026-02.md |
 | art. 132 | pas | 19957.001045/2025-97 | 2026-05-12 | parcial | cvm-pas-19957-001045-2025-97 | fichas/pas/2026-01.md |
+| art. 132 | pas | 19957.002327/2025-10 | 2026-10-27 | parcial | cvm-pas-19957-002327-2025-10 | fichas/pas/2026-07.md |
 | art. 132 | pas | 19957.011123/2025-61 | 2026-06-02 | condenacao | cvm-pas-19957-011123-2025-61 | fichas/pas/2026-01.md |
 | art. 132, inciso I | acordao-crsfn | RJ-2005-6764 | 2011-05-31 | parcial | crsfn-11421 | fichas/crsfn/2011-02.md |
 | art. 132, inciso I | acordao-crsfn | RJ–2005-8604 | 2012-02-13 | condenacao | crsfn-12039 | fichas/crsfn/2012-01.md |
@@ -6499,6 +6501,7 @@ Citada sem dispositivo identificado (16517)
 | art. 134, § 1º | pas | 19957.002349/2021-48 | 2023-12-21 | condenacao | cvm-pas-19957-002349-2021-48 | fichas/pas/2023-18.md |
 | art. 134, § 1º | pas | 19957.008172/2021-93 | 2023-09-05 | absolvicao | cvm-pas-19957-008172-2021-93 | fichas/pas/2023-10.md |
 | art. 134, § 1º | pas | 19957.013476/2024-15 | 2025-04-01 | condenacao | cvm-pas-19957-013476-2024-15 | fichas/pas/2025-03.md |
+| art. 134, § 1º | pas | 19957.015037/2023-66 | 2026-10-27 | absolvicao | cvm-pas-19957-015037-2023-66 | fichas/pas/2026-07.md |
 | art. 134, § 2º | acordao-crsfn | RJ-2005-33 | 2009-05-12 | parcial | crsfn-9606 | fichas/crsfn/2009-03.md |
 | art. 134, § 2º | decisao-colegiado | RJ2005/7232 | 2005-11-17 | provido | cvm-col-20051117-d04 | fichas/colegiado/2005-17.md |
 | art. 134, § 2º | decisao-colegiado | RJ2005/9907 | 2006-04-04 | nao-provido | cvm-col-20060404-d07 | fichas/colegiado/2006-05.md |
@@ -9524,6 +9527,7 @@ Citada sem dispositivo identificado (16517)
 | art. 154, § 2º, alínea c | pas | 19957.010647/2019-97; 05/2016 | 2020-11-03 | — | cvm-pas-19957-010647-2019-97 | fichas/pas/2020-09.md |
 | art. 154, § 2º, alínea c | pas | 19957.011654/2019-14; 06/2016 | 2020-11-03 | — | cvm-pas-19957-011654-2019-14 | fichas/pas/2020-09.md |
 | art. 154, § 2º, alínea c | pas | 19957.011337/2019-90 | 2022-10-25 | condenacao | cvm-pas-19957-011337-2019-90 | fichas/pas/2022-10.md |
+| art. 154, § 2º, alínea c | pas | 19957.011024/2019-31 | 2026-10-27 | parcial | cvm-pas-19957-011024-2019-31 | fichas/pas/2026-07.md |
 | art. 154, § 2º, alínea e | termo-compromisso | 19957.007677/2018-35 | 2019-07-02 | aceito | cvm-col-20190702-d1442 | fichas/tc/2019-03.md |
 | art. 154, § 2º, alínea e | pas | 19957.011337/2019-90 | 2022-10-25 | condenacao | cvm-pas-19957-011337-2019-90 | fichas/pas/2022-10.md |
 | art. 154, § 2º, alínea f | termo-compromisso | 19957.007677/2018-35 | 2019-07-02 | aceito | cvm-col-20190702-d1442 | fichas/tc/2019-03.md |
@@ -9793,6 +9797,7 @@ Citada sem dispositivo identificado (16517)
 | art. 155 | pas | 19957.003286/2024-90 | 2026-10-22 | — | cvm-pas-19957-003286-2024-90 | fichas/pas/2026-06.md |
 | art. 155 | pas | 19957.003612/2020-35 | 2026-07-28 | absolvicao | cvm-pas-19957-003612-2020-35 | fichas/pas/2026-02.md |
 | art. 155 | pas | 19957.010788/2019-18 | 2026-07-28 | absolvicao | cvm-pas-19957-010788-2019-18 | fichas/pas/2026-02.md |
+| art. 155 | pas | 19957.011024/2019-31 | 2026-10-27 | parcial | cvm-pas-19957-011024-2019-31 | fichas/pas/2026-07.md |
 | art. 155, inciso I | acordao-crsfn | RJ–2001-4474 | 2009-10-27 | parcial | crsfn-8257 | fichas/crsfn/2009-07.md |
 | art. 155, inciso I | acordao-crsfn | 03/04 | 2012-10-25 | parcial | crsfn-11628 | fichas/crsfn/2012-05.md |
 | art. 155, inciso I | acordao-crsfn | IA-1997-09 | 2013-09-25 | parcial | crsfn-12037 | fichas/crsfn/2013-04.md |

@@ -7,44 +7,45 @@ Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho rel
 
 ## Sumário
 
-Este subíndice tem 604 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+Este subíndice tem 605 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
 
 | Seção | Linha |
 |---|---|
 | 2026 | 48 |
-| 2025 | 62 |
-| 2024 | 92 |
-| 2023 | 140 |
-| 2022 | 177 |
-| 2021 | 207 |
-| 2020 | 224 |
-| 2019 | 257 |
-| 2018 | 291 |
-| 2017 | 319 |
-| 2016 | 337 |
-| 2015 | 350 |
-| 2014 | 356 |
-| 2013 | 376 |
-| 2012 | 387 |
-| 2011 | 396 |
-| 2010 | 409 |
-| 2009 | 437 |
-| 2008 | 448 |
-| 2007 | 462 |
-| 2006 | 475 |
-| 2005 | 500 |
-| 2004 | 516 |
-| 2003 | 539 |
-| 2002 | 552 |
-| 2001 | 563 |
-| 2000 | 575 |
-| 1999 | 589 |
-| 1998 | 592 |
-| 1997 | 595 |
-| 1996 | 597 |
+| 2025 | 63 |
+| 2024 | 93 |
+| 2023 | 141 |
+| 2022 | 178 |
+| 2021 | 208 |
+| 2020 | 225 |
+| 2019 | 258 |
+| 2018 | 292 |
+| 2017 | 320 |
+| 2016 | 338 |
+| 2015 | 351 |
+| 2014 | 357 |
+| 2013 | 377 |
+| 2012 | 388 |
+| 2011 | 397 |
+| 2010 | 410 |
+| 2009 | 438 |
+| 2008 | 449 |
+| 2007 | 463 |
+| 2006 | 476 |
+| 2005 | 501 |
+| 2004 | 517 |
+| 2003 | 540 |
+| 2002 | 553 |
+| 2001 | 564 |
+| 2000 | 576 |
+| 1999 | 590 |
+| 1998 | 593 |
+| 1997 | 596 |
+| 1996 | 598 |
 
 | Tipo | Processo | Data | Resultado | Ementa | Id | Ficha |
 |---|---|---|---|---|---|---|
+| pas | 19957.011239/2025-09 | 2026-11-03 | condenacao | Apurar eventuais irregularidades relacionadas à prática de operação fraudulenta e ao exercício irregular da atividade de administração de… | cvm-pas-19957-011239-2025-09 | fichas/pas/2026-07.md |
 | pas | 19957.003286/2024-90 | 2026-10-22 | — | PAS sobre suposta operação fraudulenta com recursos da UEG Araucária Ltda. em ativos ligados à GBX Tietê II, entre 2014 e 2017. O diretor… | cvm-pas-19957-003286-2024-90 | fichas/pas/2026-06.md |
 | pas | 19957.000728/2022-84 | 2026-10-21 | — | PAS por operação fraudulenta na aquisição de cédulas de crédito bancário para fundo e por quebra do dever de diligência da gestora. Voto de… | cvm-pas-19957-000728-2022-84 | fichas/pas/2026-05.md |
 | pas | 19957.007976/2020-94 | 2026-09-08 | parcial | Apurar irregularidades atreladas à 3ª emissão de cotas do Brazil Realty FII, sob a alegação de operação fraudulenta no mercado de capitais… | cvm-pas-19957-007976-2020-94 | fichas/pas/2026-04.md |
