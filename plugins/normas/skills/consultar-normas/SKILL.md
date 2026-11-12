@@ -114,10 +114,17 @@ Um julgado diz o que a CVM ou o CRSFN decidiu num caso, com os fatos daquele cas
 
 Exemplos:
 
-- Não peça o link: "Qual foi o resultado do PAS 19957.004810/2019-82 e quais as multas?". O `resultado` e o `trecho` da ficha trazem o dispositivo, com as multas e as absolvições. Responda e diga que é pela ficha.
+- Não peça o link: "Qual foi o resultado do PAS 19957.004810/2019-82 e quais as multas?". O `resultado` e o `trecho` da ficha trazem o dispositivo, com as multas e as absolvições. Responda, termine com a linha "Fonte: ficha do julgado ..." e não mencione o link.
 - Peça o link: "Qual foi o fundamento do voto do relator para absolver o acusado X?". O fundamento está no voto, que a ficha não traz. Responda o que a ficha permite e peça o link.
 
-Nunca responda de memória o que só o texto integral diria. Quando responder só pela ficha, diga que é pela ficha.
+Nunca responda de memória o que só o texto integral diria.
+
+O link é para a pergunta que foi feita, não para perguntas que o usuário poderia fazer depois:
+
+- Decida pelo que a pergunta pede. Se ela não pede fundamento, fatos, raciocínio ou dosimetria, a falta desses pontos não justifica o link.
+- Não ofereça o link como complemento opcional ("se quiser o fundamento, cole o link", "para mais detalhes..."), nem num bloco de limites ou ressalvas ao fim da resposta.
+- Resposta completa pela ficha termina com uma linha só: "Fonte: ficha do julgado <id> (resumo; o texto integral não foi lido)". Sem link e sem convite.
+- Pergunta com várias partes: peça o link só se uma parte que foi perguntada depender do texto integral, e diga qual.
 
 ### Regras
 
