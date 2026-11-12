@@ -1,9 +1,9 @@
 {
   "plugins": {
     "normas": {
-      "versao": "1.1.4",
-      "hash": "a9cfaa65508a343284acb108a73bc07d99a479b28b80a6dc5f9a6246359a3e8d",
-      "publicado_em": "2026-11-04"
+      "versao": "2.0.0",
+      "hash": "32126fa34c5235cc205cc920d9698676ecf5a03dda3e7a40ecc92c3cf4e122e1",
+      "publicado_em": "2026-11-12"
     },
     "julgados-pas": {
       "versao": "0.5.1",

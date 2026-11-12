@@ -127,20 +127,22 @@ Um Claude Opus 5.5 corrigiu as 60 respostas sem saber de que modo vinha cada uma
 | Fora do perímetro | 2 | 2 | 1 |
 | **Total** | **30** | **27** | **5** |
 
+Na 2.0.0 (2026-11-12), com o plugin único, a mesma bateria deu 29 de 30 com conteúdo certo, 27 com o dispositivo certo e 27 com a data-base. A errada (P29) tem gabarito de quando o acervo não tinha julgados.
+
 Com o acervo, 26 respostas citaram o dispositivo certo e 29 informaram a data-base; sem ele, 4 e 0. As 3 respostas erradas com o acervo têm a mesma causa: ofício ou documento da ANBIMA sem artigos que o modelo não abriu, porque procurou na norma de base. É o ponto fraco da consulta.
 
 ### Julgados
 
-30 perguntas sobre julgados (`testes/bateria-v2.md`), com gabarito conferido na página da CVM ou do CRSFN, respondidas com e sem os plugins de julgados (v1.1, com o texto integral dentro do plugin; a bateria não foi refeita para o fluxo de fichas da 2.0.0) e corrigidas às cegas pelo Claude Opus:
+30 perguntas sobre julgados (`testes/bateria-v2.md`), com gabarito conferido na página da CVM ou do CRSFN, respondidas com e sem os julgados e corrigidas às cegas pelo Claude Opus. Na v1.1 (2026-11-04), o texto integral ia dentro dos plugins de julgados; na 2.0.0 (2026-11-12), o plugin leva só as fichas e o modelo respondeu sem abrir o texto integral:
 
-| Critério | Com os julgados | Sem os julgados |
-|---|---|---|
-| Acha o caso certo | 25 | 1 |
-| Conteúdo certo | 27 | 2 |
-| Ressalvas de fonte | 29 | 5 |
-| Tudo certo | 24 | 1 |
+| Critério | 2.0.0, só fichas | v1.1, texto integral | Sem os julgados |
+|---|---|---|---|
+| Acha o caso certo | 27 | 25 | 1 |
+| Conteúdo certo | 27 | 27 | 2 |
+| Ressalvas de fonte | 28 | 29 | 5 |
+| Tudo certo | 24 | 24 | 1 |
 
-As 6 falhas com os julgados são de busca: o caso está no acervo, mas a resposta não o achou.
+Na 2.0.0, 4 respostas precisavam do texto integral e pediram o link; as falhas restantes são de busca (o caso está no acervo, mas a resposta não o achou) e um acórdão do CRSFN com dois julgamentos no mesmo arquivo. Detalhe em `VERIFICACAO.md`.
 
 ## Mapas por produto
 

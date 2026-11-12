@@ -211,6 +211,31 @@ Diferença de ambiente em relação à v2:
 
 Runner: `scripts/bateria.py`.
 
+### Plugin único com fichas (2.0.0, 2026-11-12)
+
+Na 2.0.0, o plugin leva uma ficha por julgado (resultado, ementa, dispositivos e um trecho da decisão de até 1.500 caracteres, ou 4.000 em PAS e acórdãos do CRSFN), e o texto integral fica em `julgados/` na raiz do repositório. As duas baterias foram refeitas só com o plugin, sem web, no protocolo da v2 (Claude Sonnet com leitura de arquivo e juiz Claude Opus cego, semente padrão).
+
+| | r1 | r2 | v1.1, texto integral |
+|---|---|---|---|
+| Julgados, tudo certo | 18 | 24 | 24 |
+| Julgados, acha o caso | 25 | 27 | 25 |
+| Normas, conteúdo certo | 27 | 29 | 27 |
+
+Entre as rodadas, uma correção só:
+- a skill pede o link do texto integral só quando a ficha não basta;
+- trecho de 4.000 caracteres em PAS e CRSFN;
+- ementa curta nos índices por tema, ano e processo;
+- título no índice das decisões antigas;
+- mapas de produto apontando para os julgados.
+
+Ressalvas da r2:
+- o modelo ainda pede o link em 22 das 30 respostas de julgados, e só cerca de 4 precisavam do texto integral; nas demais, o pedido vem depois de uma resposta já completa pela ficha;
+- o acórdão `crsfn-14361` junta dois julgamentos (Ac. 48/2018 e 141/2018) no mesmo arquivo, defeito da conversão anterior a esta fase;
+- seguem falhando por busca P10 e P24 (decisão de 1997);
+- dois gabaritos estão defasados (julgados P17, normas P29) e foram contados como na r1.
+
+Respostas e notas em `dados/fase-6/` (fora do Git).
+
 ## Reprodução
 
 ```
