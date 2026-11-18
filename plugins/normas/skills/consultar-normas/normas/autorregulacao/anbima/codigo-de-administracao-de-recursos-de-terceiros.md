@@ -3,7 +3,7 @@ id: anbima-codigo-de-administracao-de-recursos-de-terceiros
 orgao: anbima
 tipo: codigo-autorregulacao
 numero:
-data: 2025-03-31
+data: 2027-01-04
 publicacao_dou:
 ementa: Código de Administração de Recursos de Terceiros
 situacao: vigente
@@ -11,122 +11,124 @@ versao_texto: original
 vigente_ate_ato:
 aguarda_consolidado_oficial: false
 historico_parcial: true
-fonte_original: https://www.anbima.com.br/data/files/60/E2/AE/1B/EDEA591036202959B82BA2A8/1.%20Codigo_AGRT_v_12_03_2025.pdf
-fonte_consolidada: https://www.anbima.com.br/data/files/60/E2/AE/1B/EDEA591036202959B82BA2A8/1.%20Codigo_AGRT_v_12_03_2025.pdf
-sha256_fonte: b4648d5051edbf6bf471f384747ce8200c522327e4fd2d33781ac3ec6a4c718c
-baixado_em: 2026-10-29
-verificado_em: 2026-10-29
-incerteza: Documento de autorregulação da ANBIMA (vigente a partir de 2025-03-31, segundo a página da entidade), extraído por script do PDF, data-base 2026-10-29. Vincula só as instituições aderentes ou participantes. Texto de titularidade da ANBIMA, reproduzido para uso informativo; retirado a pedido (ver autorregulacao/README.md). Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A página final de registro das assinaturas eletrônicas do PDF (nomes, e-mails, IP e localização dos signatários) foi retirada; a validação das assinaturas é feita no PDF oficial.
+fonte_original: https://www.anbima.com.br/data/files/1F/27/06/2F/E44E1A103AD8EA1A692BA2A8/Codigo_de_AGRT_16_11_2026.PDF
+fonte_consolidada: https://www.anbima.com.br/data/files/1F/27/06/2F/E44E1A103AD8EA1A692BA2A8/Codigo_de_AGRT_16_11_2026.PDF
+sha256_fonte: 940f9e6b01759d2ed617e0011a1d96abd2a78f2aca6c32a77156c576430b27cc
+baixado_em: 2026-11-18
+verificado_em: 2026-11-18
+incerteza: Documento de autorregulação da ANBIMA (vigente a partir de 2027-01-04, segundo a página da entidade), extraído por script do PDF, data-base 2026-11-18. Vincula só as instituições aderentes ou participantes. Texto de titularidade da ANBIMA, reproduzido para uso informativo; retirado a pedido (ver autorregulacao/README.md). Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A página final de registro das assinaturas eletrônicas do PDF (nomes, e-mails, IP e localização dos signatários) foi retirada; a validação das assinaturas é feita no PDF oficial.
 nivel_verificacao: pdf-extraido
 ---
 
 Sumário
 
-INTRODUÇÃO ......................................................................................................................... 4
+INTRODUÇÃO ............................................................................................................... 4
 
-TÍTULO I – DISPOSIÇÕES GERAIS............................................................................................ 5
+TÍTULO I – DISPOSIÇÕES GERAIS ................................................................................... 5
 
-CAPÍTULO I – OBJETIVO E ABRANGÊNCIA ............................................................................. 5
+CAPÍTULO I – OBJETIVO E ABRANGÊNCIA ...................................................................... 5
 
-CAPÍTULO II – ASSOCIAÇÃO E ADESÃO .................................................................................. 7
+CAPÍTULO II – ASSOCIAÇÃO E ADESÃO .......................................................................... 8
 
-TÍTULO II – PRINCÍPIOS PARA A ADMINISTRAÇÃO DE RECURSOS DE TERCEIROS ................ 8
+TÍTULO II – PRINCÍPIOS PARA A ADMINISTRAÇÃO DE RECURSOS DE TERCEIROS ............ 9
 
-CAPÍTULO III – PRINCÍPIOS GERAIS DE CONDUTA ................................................................. 8
+CAPÍTULO III – PRINCÍPIOS GERAIS DE CONDUTA .......................................................... 9
 
-TÍTULO III – DA ADMINISTRAÇÃO FIDUCIÁRIA E GESTÃO DE RECURSOS ............................ 10
+TÍTULO III – DA ADMINISTRAÇÃO FIDUCIÁRIA E GESTÃO DE RECURSOS ....................... 11
 
-CAPÍTULO IV – ADMINISTRAÇÃO FIDUCIÁRIA ..................................................................... 10
+CAPÍTULO IV – ADMINISTRAÇÃO FIDUCIÁRIA .............................................................. 11
 
-CAPÍTULO V – GESTÃO DE RECURSOS DE TERCEIROS ......................................................... 11
+CAPÍTULO V – GESTÃO DE RECURSOS DE TERCEIROS ................................................... 12
 
-SEÇÃO I – OBRIGAÇÕES GERAIS DO GESTOR DE RECURSOS DE TERCEIROS ....................... 11
+SEÇÃO I – OBRIGAÇÕES GERAIS DO GESTOR DE RECURSOS DE TERCEIROS .................... 14
 
-SEÇÃO II – RATEIO DE ORDENS PARA OS VEÍCULOS DE INVESTIMENTO ............................ 13
+SEÇÃO II – RATEIO DE ORDENS PARA OS VEÍCULOS DE INVESTIMENTO ......................... 16
 
-SEÇÃO III – GESTÃO DE CRÉDITO PRIVADO ......................................................................... 13
+SEÇÃO III – GESTÃO DE CRÉDITO PRIVADO .................................................................. 16
 
-CAPÍTULO VI - GESTÃO DE PATRIMÔNIO FINANCEIRO ....................................................... 13
+CAPÍTULO VI - GESTÃO DE PATRIMÔNIO FINANCEIRO ................................................. 15
 
 CAPÍTULO VII – CONTRATAÇÃO DE TERCEIROS EM NOME DOS FUNDOS DE INVESTIMENTO
 
-............................................................................................................................................. 14
+.................................................................................................................................. 15
 
-TÍTULO IV – GERENCIAMENTO DE RISCO ............................................................................ 15
+TÍTULO IV – GERENCIAMENTO DE RISCO ..................................................................... 17
 
-CAPÍTULO VIII - GESTÃO DE RISCO DOS VEÍCULOS DE INVESTIMENTO .............................. 15
+CAPÍTULO VIII - GESTÃO DE RISCO DOS VEÍCULOS DE INVESTIMENTO ......................... 17
 
-CAPÍTULO IX – GESTÃO DE LIQUIDEZ .................................................................................. 15
+CAPÍTULO IX – GESTÃO DE LIQUIDEZ ........................................................................... 17
 
-CAPÍTULO X – LIMITES DE COMPOSIÇÃO E CONCENTRAÇÃO DA CARTEIRA ...................... 15
+CAPÍTULO X – LIMITES DE COMPOSIÇÃO E CONCENTRAÇÃO DA CARTEIRA .................. 18
 
-CAPÍTULO XI - APREÇAMENTO ........................................................................................... 16
+CAPÍTULO XI - APREÇAMENTO .................................................................................... 18
 
-SEÇÃO I – PRINCÍPIOS ......................................................................................................... 16
+SEÇÃO I – PRINCÍPIOS ................................................................................................. 20
 
-SEÇÃO II – PROVISÃO DE PERDAS DOS DIREITOS CREDITÓRIOS ........................................ 17
+SEÇÃO II – PROVISÃO DE PERDAS DOS DIREITOS CREDITÓRIOS ..................................... 21
 
-CAPÍTULO XII – EXPOSIÇÃO A RISCO DE CAPITAL ................................................................ 18
+CAPÍTULO XII – EXPOSIÇÃO A RISCO DE CAPITAL ......................................................... 20
 
-TÍTULO V – DOS VEÍCULOS DE INVESTIMENTO ................................................................... 19
+TÍTULO V – DOS VEÍCULOS DE INVESTIMENTO ............................................................ 21
 
-CAPÍTULO XIII – FUNDOS DE INVESTIMENTO ...................................................................... 19
+CAPÍTULO XIII – FUNDOS DE INVESTIMENTO ............................................................... 21
 
 2
 
-SEÇÃO I – DISPOSIÇÕES GERAIS .......................................................................................... 19
+SEÇÃO I – DISPOSIÇÕES GERAIS .................................................................................. 23
 
-SEÇÃO II – RESPONSABILIDADE DOS PRESTADORES DE SERVIÇOS ..................................... 19
+SEÇÃO II – RESPONSABILIDADE DOS PRESTADORES DE SERVIÇOS ................................. 23
 
-SEÇÃO III – RESPONSABILIDADE DOS COTISTAS .................................................................. 20
+SEÇÃO III – RESPONSABILIDADE DOS COTISTAS ............................................................ 24
 
-SEÇÃO IV – REGIME DE INSOLVÊNCIA ................................................................................. 21
+SEÇÃO IV – REGIME DE INSOLVÊNCIA .......................................................................... 24
 
-SEÇÃO V – OPERAÇÕES DE EMPRÉSTIMO ........................................................................... 21
+SEÇÃO V – OPERAÇÕES DE EMPRÉSTIMO .................................................................... 25
 
-CAPÍTULO XIV – CARTEIRAS ADMINISTRADAS .................................................................... 21
+CAPÍTULO XIV – CARTEIRAS ADMINISTRADAS ............................................................. 23
 
-CAPÍTULO XV – CONSELHO CONSULTIVO OU COMITÊ ....................................................... 21
+CAPÍTULO XV – CONSELHO CONSULTIVO OU COMITÊ ................................................. 23
 
-CAPÍTULO XVI – DAS MODALIDADES DE INVESTIMENTO ................................................... 22
+CAPÍTULO XVI – DAS MODALIDADES DE INVESTIMENTO ............................................. 24
 
-SEÇÃO I – ATIVOS NO EXTERIOR .......................................................................................... 22
+SEÇÃO I – ATIVOS NO EXTERIOR .................................................................................. 26
 
-SEÇÃO II – CRIPTOATIVOS .................................................................................................... 22
+SEÇÃO II – CRIPTOATIVOS ........................................................................................... 26
 
-SEÇÃO III – CBIO E CRÉDITOS DE CARBONO ........................................................................ 22
+SEÇÃO III – CBIO E CRÉDITOS DE CARBONO ................................................................. 26
 
-SEÇÃO IV – INVESTIMENTOS EM ATIVOS VIA CROWDFUNDING ........................................ 22
+SEÇÃO IV – INVESTIMENTOS EM ATIVOS VIA CROWDFUNDING .................................... 26
 
-CAPÍTULO XVII – INVESTIMENTOS EM ATIVOS SUSTENTÁVEIS ........................................... 23
+CAPÍTULO XVII – INVESTIMENTOS EM ATIVOS SUSTENTÁVEIS ..................................... 25
 
-CAPÍTULO XVIII – CLASSIFICAÇÃO DOS FUNDOS ................................................................ 23
+CAPÍTULO XVIII – CLASSIFICAÇÃO DOS FUNDOS ......................................................... 25
 
-CAPÍTULO XIX – REGISTRO DOS VEÍCULOS DE INVESTIMENTO .......................................... 23
+CAPÍTULO XIX – REGISTRO DOS VEÍCULOS DE INVESTIMENTO ..................................... 25
 
-CAPÍTULO XX – DOCUMENTOS E INFORMAÇÕES DOS VEÍCULOS DE INVESTIMENTO ....... 23
+CAPÍTULO XX – DOCUMENTOS E INFORMAÇÕES DOS VEÍCULOS DE INVESTIMENTO .... 25
 
-CAPÍTULO XXI – PUBLICIDADE ............................................................................................. 24
+CAPÍTULO XXI – PUBLICIDADE ..................................................................................... 26
 
-CAPÍTULO XXII – EXERCÍCIO DO DIREITO DE VOTO EM ASSEMBLEIA ................................. 25
+CAPÍTULO XXII – EXERCÍCIO DO DIREITO DE VOTO EM ASSEMBLEIA ............................ 27
 
-CAPÍTULO XXIII – ENVIO DE INFORMAÇÕES PARA A BASE DE DADOS DA ANBIMA ........... 25
+CAPÍTULO XXIII – ENVIO DE INFORMAÇÕES PARA O BANCO DE DADOS DA ANBIMA ... 27
 
-TÍTULO VI – DISPOSIÇÕES GERAIS ...................................................................................... 26
+TÍTULO VI – DISPOSIÇÕES GERAIS ............................................................................... 28
 
-CAPÍTULO XIV – TAXAS ........................................................................................................ 26
+CAPÍTULO XXIV – TAXAS ............................................................................................. 28
 
-CAPÍTULO XXV – PENALIDADES ........................................................................................... 26
+CAPÍTULO XXV – POLÍTICAS, REGRAS, PROCEDIMENTOS E CONTROLES INTERNOS ....... 29
 
-CAPÍTULO XXVI – DISPOSIÇÕES FINAIS ................................................................................ 27
+CAPÍTULO XXVI – PENALIDADES .................................................................................. 31
+
+CAPÍTULO XXVII – DISPOSIÇÕES FINAIS ....................................................................... 31
 
 3
 
 INTRODUÇÃO
 
-Este Código de Administração e Gestão de Recursos de Terceiros, aprovado pela Diretoria da AN-
+Este Código de Administração e Gestão de Recursos de Terceiros, aprovado pela Diretoria da An-
 
-BIMA, dispõe sobre as atividades de Administração Fiduciária, Gestão de Recursos de Terceiros e
+bima, dispõe sobre as atividades de Administração Fiduciária, Gestão de Recursos de Terceiros e
 
 Gestão de Patrimônio Financeiro dos Fundos de Investimento e das Carteiras Administradas.
 
@@ -134,7 +136,7 @@ O presente Código, de natureza principiológica, prevê todos os temas das ativ
 
 de Investimento acima referidos os quais a Diretoria autoriza que o Fórum de Gestão de Fundos
 
-Mútuos, Fórum de Gestão de Fundos Estruturados e Fórum de Serviços Fiduciários da ANBIMA au-
+Mútuos, Fórum de Gestão de Fundos Estruturados e Fórum de Serviços Fiduciários da Anbima au-
 
 torregule por meio de Regras e Procedimentos.
 
@@ -144,11 +146,11 @@ complementares a este Código e devem ser observados pelas instituições que op
 
 as regras de autorregulação nele presentes.
 
-A ANBIMA, autorreguladora privada, tem competência para supervisionar apenas o disposto ex-
+A Anbima, autorreguladora privada, tem competência para supervisionar apenas o disposto expres-
 
-pressamente neste Código e nas referidas Regras e Procedimentos, não estendendo, portanto, sua
+samente neste Código e nas referidas Regras e Procedimentos, não estendendo, portanto, sua atu-
 
-atuação às regras previstas nas normas regulatórias1. No decorrer do Código fazemos referência ao
+ação às regras previstas nas normas regulatórias1. No decorrer do Código fazemos referência ao
 
 termo “regulação” tão somente para fins educacionais e de modo não exaustivo, estritamente para
 
@@ -158,7 +160,7 @@ nalmente há normas regulatórias a serem observadas em função de suas ativida
 
 termos e expressões utilizados no presente Código, quando aplicável, terão os respectivos significa-
 
-dos a eles atribuídos no Glossário ANBIMA, disponível no site da Associação.
+dos a eles atribuídos no Glossário Anbima, disponível no site da Associação.
 
 1 Tais como Leis e Resoluções da CVM e do BCB.
 
@@ -184,9 +186,21 @@ III. A padronização de seus procedimentos;
 
 IV. A maior qualidade e disponibilidade de informações, especialmente por meio do envio de
 
-dados à ANBIMA pelas Instituições Participantes; e
+dados à Anbima pelas Instituições Participantes; e
 
 V. A elevação dos padrões fiduciários e a promoção das melhores práticas de mercado.
+
+§1º. Os termos e expressões utilizados no presente Código, quando aplicável, terão os
+
+respectivos significados a eles atribuídos no Glossário ANBIMA, disponível no site da Associação.
+
+§2º. O disposto no presente Código e suas Regras e Procedimentos devem, sem prejuízo de
+
+disposições específicas, ser interpretado à luz dos princípios estabelecidos neste artigo, sendo
+
+vedadas ações por parte das Instituições Participantes que possam descumprir os resultados
+
+pretendidos neste artigo.
 
 ## Art. 2º
 
@@ -194,7 +208,9 @@ Este Código se destina às Instituições Participantes que desempenham o exerc
 
 profissional de Administração Fiduciária, Gestão de Recursos de Terceiros e/ou Gestão de
 
-Patrimônio Financeiro.
+Patrimônio Financeiro de Veículos de Investimentos.
+
+5
 
 §1º. Os Gestores de Recursos ou os Administradores Fiduciários que, nos termos permitidos
 
@@ -202,31 +218,29 @@ pela CVM, atuarem na atividade de Distribuição de Produtos de Investimento sob
 
 administração ou coordenação de Ofertas Públicas de Fundos de Investimento de sua própria emis-
 
-são ou registrarem seus negócios no Sistema REUNE, conforme o caso, devem observar o disposto
+são ou registrarem seus negócios no Sistema de Registro, conforme o caso, devem observar o dis-
 
-no Código de Distribuição e/ou Código de Ofertas Públicas e/ou Código de Negociação, conforme
+posto no Código de Distribuição e/ou Código de Ofertas Públicas e/ou Código de Negociação, con-
 
-aplicável, e cumprir com suas disposições, conforme aplicável.
-
-5
+forme aplicável, e cumprir com suas disposições, conforme aplicável.
 
 §2º. A obrigação de que trata o parágrafo anterior não obriga os Gestores de Recursos ou os
 
-Administradores Fiduciários a aderirem ao Código de Distribuição ou ao Código de Ofertas Públicas
+Administradores Fiduciários a aderir ao Código de Distribuição ou ao Código de Ofertas Públicas ou
 
-ou ao Código de Negociação, contudo, na hipótese de descumprimento dele, a ANBIMA procederá
+ao Código de Negociação, contudo, na hipótese de descumprimento dele, a Anbima procederá com
 
-com a os Organismos de Supervisão deste Código de AGRT nos termos do Código dos Processos.
+os Organismos de Supervisão deste Código de AGRT nos termos do Código dos Processos.
 
 §3º
 
-. As Instituições Participantes devem assegurar que o presente Código seja também
+. As Instituições Participantes devem assegurar que o presente Código e suas Regras e
 
-observado por todos os integrantes de seu Conglomerado e/ou Grupo Econômico que estejam
+Procedimentos seja também observado por todos os integrantes de seu Conglomerado e/ou Grupo
 
-autorizados, no Brasil, a desempenhar o exercício profissional de Administração Fiduciária, Gestão
+Econômico que estejam autorizados, no Brasil, a desempenhar o exercício profissional de
 
-de Recursos de Terceiros e/ou Gestão de Patrimônio Financeiro.
+Administração Fiduciária, Gestão de Recursos de Terceiros e/ou Gestão de Patrimônio Financeiro.
 
 §4º
 
@@ -238,9 +252,9 @@ transferência de responsabilidade entre estes integrantes, embora todas as refe
 
 estejam sujeitas aos princípios estabelecidos pelo presente Código.
 
-§5º. As Instituições Participantes estão dispensadas de observar o disposto neste Código para:
+§5º. As Instituições Participantes estão dispensadas de observar o disposto neste Código:
 
-I. II. III. IV. Clubes de Investimento, conforme definidos pela regulação;
+I. II. III. Clubes de Investimento, conforme definidos pela regulação;
 
 Gestores de Recursos de Terceiros pessoa física;
 
@@ -248,33 +262,33 @@ Gestores de Recursos que não possuam registro como tal na CVM com base em dispe
 
 específica da regulação aplicável; e
 
-Fundos de Investimento cujo patrimônio líquido seja composto, exclusivamente,
+6
 
-por recursos próprios do Gestor de Recursos e/ou, no caso de instituições financeiras, de
+IV. Gestores de Recursos cujo patrimônio líquido dos Fundos de Investimento seja composto,
 
-seu Conglomerado ou Grupo Econômico, de acordo com a dispensa concedida pelo
+exclusivamente, por recursos próprios, de seu Conglomerado ou Grupo Econômico e/ou,
 
-regulador a cada instituição.
+no caso de instituições financeiras, de acordo com a dispensa concedida pelo regulador a
+
+cada instituição.
 
 ## Art. 3º
 
 . As Instituições Participantes submetidas à ação reguladora e fiscalizadora do CMN, do BCB
 
-e da CVM concordam expressamente que as atividades de Administração Fiduciária e Gestão de
-
-6
+e/ou da CVM concordam expressamente que as atividades de Administração Fiduciária e Gestão de
 
 Recursos de Terceiros excedem o limite de simples observância da regulação que lhes são aplicáveis,
 
 devendo, dessa forma, submeter-se também aos procedimentos estabelecidos por este Código.
 
-Parágrafo único. O presente Código, assim como os demais Códigos ANBIMA, não se sobrepõe
+Parágrafo único. O presente Código, assim como os demais Códigos Anbima, não se sobrepõe
 
 à regulação vigente, portanto, caso haja contradição entre as regras estabelecidas neste Código e
 
-nos demais Códigos ANBIMA e a regulação em vigor, a disposição contrária deste Código e dos
+nos demais Códigos Anbima e a regulação em vigor, a disposição contrária deste Código e dos
 
-Códigos ANBIMA deve ser desconsiderada, sem prejuízo das demais regras nele previstas.
+Códigos Anbima deve ser desconsiderada, sem prejuízo das demais regras nele previstas.
 
 ## Art. 4º
 
@@ -298,11 +312,13 @@ aplicáveis às matérias de que tratam os títulos e capítulos deste Código, 
 
 abaixo, que competirá ao Conselho de Ética.
 
+7
+
 CAPÍTULO II – ASSOCIAÇÃO E ADESÃO
 
 ## Art. 5º
 
-As instituições que desejarem se associar à ANBIMA ou aderir a este Código, deverão ter
+As instituições que desejarem se associar à Anbima ou aderir a este Código, deverão ter
 
 seus pedidos de associação ou adesão, conforme o caso, aprovados pelo Conselho de Ética,
 
@@ -312,13 +328,17 @@ Parágrafo único. A adesão a este Código implica na obrigação da Instituiç
 
 observar, integralmente, as disposições:
 
-7
+I. Do Código de Ética;
 
-I. II. Das Regras e Procedimentos de Deveres Básicos;
+II. Do Código dos Processos;
 
-Do Código de Ética; e
+III. Das Regras e Procedimentos de Deveres Básicos;
 
-III. Do Código dos Processos.
+IV. Das Regras e Procedimentos para Associação ou Adesão; e
+
+V. Das Regras e Procedimentos de Certificação.
+
+8
 
 TÍTULO II – PRINCÍPIOS PARA A ADMINISTRAÇÃO DE RECURSOS DE
 
@@ -332,15 +352,15 @@ CAPÍTULO III – PRINCÍPIOS GERAIS DE CONDUTA
 
 Participantes devem:
 
-I. II. III. IV. V. VI. Exercer suas atividades com boa-fé, transparência, diligência e lealdade;
+I. II. III. IV. V. VI. VII. Exercer suas atividades com boa-fé, transparência, diligência e lealdade;
 
 Cumprir todas as suas obrigações, devendo empregar, no exercício de suas atividades, o
 
 cuidado que toda pessoa prudente e diligente costuma dispensar à administração de seus
 
-próprios negócios, respondendo por quaisquer infrações ou irregularidades que que
+próprios negócios, respondendo por quaisquer infrações ou irregularidades que venham
 
-venham a ser cometidas;
+a ser cometidas;
 
 Nortear a prestação de suas atividades pelos princípios da liberdade de iniciativa e da livre
 
@@ -360,9 +380,7 @@ Terceiros e seus participantes, especialmente no que tange aos deveres e direito
 
 relacionados às atribuições específicas de cada uma das Instituições Participantes
 
-8
-
-VII. VIII. IX. X. estabelecidas nos documentos dos Veículos de Investimento, neste Código, nas Regras e
+estabelecidas nos documentos dos Veículos de Investimento, neste Código, nas Regras e
 
 Procedimentos de AGRT e na regulação vigente;
 
@@ -374,7 +392,9 @@ conheçam o código de ética interno da Instituição Participante e as normas 
 
 sua atividade;
 
-Identificar, administrar e mitigar eventuais conflitos de interesse, nas respectivas esferas
+9
+
+VIII. IX. X. Identificar, administrar e mitigar eventuais conflitos de interesse, nas respectivas esferas
 
 de atuação, que possam afetar a imparcialidade das pessoas que desempenhem funções
 
@@ -388,13 +408,17 @@ regulação em vigor, bem como promover a divulgação de informações a eles r
 
 inclusive no que diz respeito à remuneração por seus serviços, visando sempre ao fácil e
 
-correto entendimento por parte dos investidores; e
+correto entendimento por parte dos investidores;
 
 Transferir ao Veículo de Investimento qualquer benefício ou vantagem que possa alcançar
 
 em decorrência de sua condição como Administrador Fiduciário, Gestor de Recursos e/ou
 
-Gestor de Patrimônio, observada as eventuais exceções previstas na regulação em vigor.
+Gestor de Patrimônio, observada as eventuais exceções previstas na regulação em vigor;
+
+e
+
+XI. Abster-se de práticas que possam ferir a relação fiduciária mantida com os investidores.
 
 ## Art. 7º
 
@@ -410,13 +434,13 @@ Parágrafo único. São evidências de implementação inadequada das regras e p
 
 estabelecidos neste Código e/ou nas Regras e Procedimentos de AGRT:
 
-I. A reiterada ocorrência de falhas, não sanadas nos prazos estabelecidos; e
+I. II. A reiterada ocorrência de falhas, sejam operacionais ou estruturais; e
 
-9
-
-II. A ausência de mecanismo ou evidência que demonstre a aplicação dos procedimentos
+A ausência de mecanismo ou evidência que demonstre a aplicação dos procedimentos
 
 estabelecidos por este Código e/ou pelas Regras e Procedimentos de AGRT.
+
+10
 
 TÍTULO III – DA ADMINISTRAÇÃO FIDUCIÁRIA E GESTÃO DE RECURSOS
 
@@ -426,7 +450,7 @@ CAPÍTULO IV – ADMINISTRAÇÃO FIDUCIÁRIA
 
 . A Administração Fiduciária compreende o conjunto de serviços relacionados direta ou
 
-indiretamente ao funcionamento e à manutenção dos Veículos de Investimento, devendo o
+indiretamente ao funcionamento e à manutenção dos Fundos de Investimento, devendo o
 
 Administrador Fiduciário fazê-lo de acordo com o disposto neste Código, nas Regras e
 
@@ -434,25 +458,25 @@ Procedimentos de AGRT e na regulação vigente.
 
 ## Art. 9º
 
-Sem prejuízo de suas obrigações específicas em relação a cada Veículo de Investimento
+Sem prejuízo de suas obrigações específicas em relação a cada Fundo de Investimento
 
 estabelecidas pela regulação em vigor, bem como das obrigações estabelecidas nas Regras e
 
 Procedimentos de AGRT, o Administrador Fiduciário é o responsável, conforme aplicável, pela:
 
-I. II. III. IV. V. Administração, funcionamento e divulgação de informações dos Veículos de Investimento
+I. II. III. IV. V. Administração, funcionamento e divulgação de informações dos Fundos de Investimento;
 
-Controladoria de ativos e de passivos do Veículo de Investimento;
+Controladoria de ativos e de passivos do Fundo de Investimento;
 
-Apreçamento dos Ativos que compõem a carteira dos Veículos de Investimento;
+Apreçamento dos Ativos que compõem a carteira dos Fundos de Investimento;
 
 Verificação do atendimento pelo Gestor de Recursos dos limites e condições estabelecidos
 
-na regulação em vigor e nos documentos dos Veículos de Investimento, bem como da
+na regulação em vigor e nos documentos dos Fundos de Investimento, bem como da
 
-compatibilidade dos preços praticados com os preços de mercado;
+compatibilidade dos preços praticados com os preços de mercado; e
 
-Gestão do risco de liquidez dos Veículos de Investimento, que deve ser feita em conjunto
+Gestão do risco de liquidez dos Fundos de Investimento, que deve ser feita em conjunto
 
 com o Gestor de Recursos, conforme o previsto no Acordo Entre Essenciais, nos contratos
 
@@ -460,17 +484,17 @@ de prestação de serviços e/ou no(s) documento(s) do(s) Veículo(s) de Investi
 
 (conforme aplicável), e sem prejuízo do disposto na regulação em vigor.
 
-10
-
-Parágrafo único. É recomendável que o Administrador Fiduciário observe o Guia ANBIMA de
+Parágrafo único. É recomendável que o Administrador Fiduciário observe o Guia Anbima de
 
 PLD/FTP, conforme disponível no site da Associação, no que se refere às suas respectivas obrigações
 
 pelo processo de prevenção à lavagem de dinheiro, ao financiamento do terrorismo e ao
 
+11
+
 financiamento da proliferação de armas de destruição em massa - PLD/FTP relacionado às
 
-atividades dos Veículos de Investimento.
+atividades dos Fundos de Investimento.
 
 CAPÍTULO V – GESTÃO DE RECURSOS DE TERCEIROS
 
@@ -490,9 +514,11 @@ alçada/poder discricionário de investimento e desinvestimento dos Ativos que i
 
 dos Veículos de Investimento, deve ser certificado pela CFG, CGA e/ou CGE, conforme aplicável,
 
-observada as especificidades dos anexos complementares das Regras e Procedimentos de AGRT, se
+observadas as especificidades dos anexos complementares das Regras e Procedimentos de AGRT,
 
-for o caso, e o disposto no Código de Certificação disponível no site da Associação.
+se for o caso, e o disposto no Regras e Procedimentos de Certificação disponível no site da
+
+Associação.
 
 Seção I – Obrigações gerais do Gestor de Recursos de Terceiros
 
@@ -510,11 +536,11 @@ demais características do Veículo de Investimento estabelecidas nos documentos
 
 Veículos de Investimento, conforme aplicável, bem como por firmar todo e qualquer
 
-11
-
 contrato ou documento relativo à negociação de Ativos em nome do Veículo de
 
 Investimento, conforme aplicável;
+
+12
 
 II. Pela alocação e rateio de ordens de compra e venda de Ativos e demais modalidades
 
@@ -528,13 +554,13 @@ quando aplicável;
 
 IV. Pelo enquadramento aos limites de investimento da carteira dos Veículos de
 
-Investimento, bem como pela compatibilidade dos preços praticados com os preços de
+V. VI. VII. VIII. Investimento, bem como pela compatibilidade dos preços praticados com os preços de
 
 mercado, observado o disposto nos documentos dos Veículos de Investimento e na
 
 regulação vigente;
 
-V. Pela gestão de risco dos Veículos de Investimento, incluindo, mas não se limitando, pela
+Pela gestão de risco dos Veículos de Investimento, incluindo, mas não se limitando, pela
 
 gestão do risco de liquidez em conjunto com o Administrador Fiduciário, nos termos do
 
@@ -542,19 +568,33 @@ Capítulo IX deste Código, bem como dos Acordos Entre Essenciais e/ou documento
 
 Veículos de Investimento, conforme aplicável e sem prejuízo do disposto na regulação em
 
-vigor; e
+vigor;
 
-VI. Por garantir que as operações realizadas pelos Veículos de Investimento tenham sempre
+Por garantir que as operações realizadas pelos Veículos de Investimento tenham sempre
 
 propósitos econômicos compatíveis com os documentos dos Veículos de Investimento, e
 
-estejam em consonância com os princípios gerais de conduta previstos neste Código.
+estejam em consonância com os princípios gerais de conduta previstos neste Código;
 
-Parágrafo único. É recomendável que o Gestor de Recursos observe o Guia ANBIMA de
+Pelo registro das Carteiras Administradas na Anbima, devendo utilizar o sistema indicado
+
+pela Anbima para tanto, bem como observar a tabela constante no Anexo Complementar
+
+II, Apêndice A, das Regras e Procedimentos de AGRT, que contêm as informações
+
+obrigatórias para realização do registro; e
+
+Pelo apreçamento dos Ativos Financeiros das Carteiras Administradas, devendo seguir o
+
+disposto no Capítulo XI deste Código.
+
+Parágrafo único. É recomendável que o Gestor de Recursos observe o Guia Anbima de
 
 PLD/FTP, conforme disponível no site da Associação, no que se refere às suas respectivas obrigações
 
 pelo processo de prevenção à lavagem de dinheiro, ao financiamento do terrorismo e ao
+
+13
 
 financiamento da proliferação de armas de destruição em massa – PLD/FTP relacionado às
 
@@ -565,8 +605,6 @@ atividades dos Veículos de Investimento.
 O Gestor de Recursos deve estabelecer procedimentos para o controle e monitoramento
 
 das operações realizadas entre os Veículos de Investimento sob sua própria gestão, com critérios
-
-12
 
 que busquem mitigar eventuais conflitos de interesse e assimetria entre os Veículos de
 
@@ -600,6 +638,8 @@ Investimento, devendo adotar controles para a realização da análise e monitor
 
 de Crédito Privado e riscos de crédito associados.
 
+14
+
 CAPÍTULO VI - GESTÃO DE PATRIMÔNIO FINANCEIRO
 
 ## Art. 16
@@ -611,8 +651,6 @@ gestão dos Veículos de Investimento com foco individualizado nas necessidades 
 financeiras do investidor, presentes e futuras, mediante o entendimento de suas expectativas,
 
 restrições e objetivos.
-
-13
 
 Parágrafo único. Fazem parte da Gestão de Patrimônio Financeiro, nos termos do caput, os
 
@@ -648,6 +686,8 @@ limite de suas competências, terceiros para prestar os serviços permitidos pel
 
 específicos para cada tipo de Fundo de Investimento.
 
+15
+
 §1º. O processo de contratação do terceiro deve ser efetuado visando ao melhor interesse
 
 dos Fundos de Investimento, em especial nos casos em que haja ligação direta ou indireta entre o
@@ -662,7 +702,7 @@ artigo, observar o porte da empresa contratada, o volume de transações, bem co
 
 da atividade, buscando agir com razoabilidade e bom senso.
 
-14
+16
 
 TÍTULO IV – GERENCIAMENTO DE RISCO
 
@@ -678,7 +718,7 @@ Investimento.
 
 Parágrafo único. A gestão de risco de que trata o caput deve ser desempenhada por área
 
-designada para esta atividade, observado os critérios estabelecidos pelas Regras e Procedimentos
+designada para esta atividade, observados os critérios estabelecidos pelas Regras e Procedimentos
 
 de AGRT para cada tipo de Veículo de Investimento.
 
@@ -702,11 +742,11 @@ A criação de Side Pockets; e/ou
 
 A instituição de Barreiras aos Resgates.
 
+17
+
 CAPÍTULO X – LIMITES DE COMPOSIÇÃO E CONCENTRAÇÃO DA
 
 CARTEIRA
-
-15
 
 ## Art. 20
 
@@ -742,21 +782,21 @@ Apreçamento dos Ativos, devendo ser aplicados com coerência, de forma que a ap
 
 não inviabilize a aplicação de outro.
 
-Parágrafo Único. Os princípios a seguir são considerados norteadores para o Apreçamento
+Parágrafo único. Os princípios a seguir são considerados norteadores para o Apreçamento
 
 dos Ativos:
 
+18
+
 I. Comprometimento: a instituição responsável pelo Apreçamento deve estar
 
-comprometida em garantir que os preços reflitam o valor justo e, na impossibilidade disso,
+II. III. IV. comprometida em garantir que os preços reflitam o valor justo e, na impossibilidade disso,
 
 despender seus melhores esforços para estimar o que seria o valor justo pelo qual os
 
 Ativos seriam efetivamente transacionados, maximizando o uso de dados observáveis
 
-16
-
-II. III. IV. relevantes e minimizando o uso de dados não observáveis, observados os casos em que o
+relevantes e minimizando o uso de dados não observáveis, observados os casos em que o
 
 apreçamento dos Ativos do Veículo de Investimento deva ser realizado com base em
 
@@ -798,15 +838,15 @@ por redução no valor recuperável dos Direitos Creditórios integrantes da car
 
 FIAGRO visando, principalmente:
 
-I. II. Garantir a utilização da metodologia de provisão de perdas mais adequada às
+19
 
-características dos direitos creditórios e a estrutura do FIDC e do FIAGRO;
+I. II. III. Garantir a utilização da metodologia de provisão de perdas mais adequada às
+
+características dos direitos creditórios e à estrutura do FIDC e do FIAGRO;
 
 Evitar a transferência de riqueza entre os cotistas; e
 
-17
-
-III. Fomentar a adoção de práticas que resultem em estimativas mais precisas de fluxo de
+Fomentar a adoção de práticas que resultem em estimativas mais precisas de fluxo de
 
 caixa esperado.
 
@@ -822,13 +862,13 @@ As Classes poderão ficar expostas ao risco de capital quando realizarem operaç
 
 superior aos seus respectivos patrimônios líquidos, conforme as condições e limites previstos na
 
-política de investimento descrita no respectivo Anexo–Classe, risco esse que deverá ser monitorado
+política de investimento descrita no respectivo Anexo-Classe, risco esse que deverá ser monitorado
 
 e controlado com base nas Regras e Procedimentos de AGRT, sem prejuízo do disposto na regulação
 
 em vigor.
 
-18
+20
 
 TÍTULO V – DOS VEÍCULOS DE INVESTIMENTO
 
@@ -864,15 +904,15 @@ O Administrador Fiduciário, o Gestor de Recursos, bem como os demais prestadore
 
 serviços por eles contratados em nome do Fundo de Investimento respondem:
 
-I. Perante a CVM, nas suas respectivas esferas de atuação, por seus próprios atos e omissões
+I. II. Perante a CVM, nas suas respectivas esferas de atuação, por seus próprios atos e omissões
 
 contrários à lei, regulação em vigor e/ou ao Regulamento do Fundo; e
 
-19
-
-II. Perante o Fundo de Investimento e/ou entre si, conforme as responsabilidades e os
+Perante o Fundo de Investimento e/ou entre si, conforme as responsabilidades e os
 
 parâmetros de aferição estabelecidos no Regulamento do Fundo de Investimento.
+
+21
 
 §1º. O Administrador Fiduciário, o Gestor de Recursos, bem como os demais prestadores de
 
@@ -894,11 +934,11 @@ Seção III – Responsabilidade dos cotistas
 
 ## Art. 27
 
-O Anexo–Classe poderá prever que a responsabilidade do cotista da respectiva Classe é
+O Anexo-Classe poderá prever que a responsabilidade do cotista da respectiva Classe é
 
 limitada ao valor por ele subscrito.
 
-§1º. Caso o Anexo–Classe não limite a responsabilidade do cotista, os cotistas responderão
+§1º. Caso o Anexo-Classe não limite a responsabilidade do cotista, os cotistas responderão
 
 por eventual patrimônio líquido negativo da Classe, sem prejuízo da responsabilidade do
 
@@ -910,11 +950,9 @@ ou má-fé.
 
 §2º
 
-. Caso, no entanto, o Anexo–Classe limite a responsabilidade do cotista, aplicar-se-á o
+. Caso, no entanto, o Anexo-Classe limite a responsabilidade do cotista, aplicar-se-á o
 
 disposto na Seção IV a seguir.
-
-20
 
 Seção IV – Regime de insolvência
 
@@ -923,6 +961,8 @@ Seção IV – Regime de insolvência
 As Classes possuem patrimônios segregados, com direitos e obrigações distintos e que
 
 somente respondem por obrigações vinculadas à Classe respectiva.
+
+22
 
 Parágrafo único. Sem prejuízo do disposto na regulação em vigor, as Classes cuja
 
@@ -960,8 +1000,6 @@ Ativos.
 
 CAPÍTULO XV – CONSELHO CONSULTIVO OU COMITÊ
 
-21
-
 ## Art. 31
 
 Podem ser constituídos, por iniciativa dos investidores dos Veículos de Investimento, do
@@ -969,6 +1007,8 @@ Podem ser constituídos, por iniciativa dos investidores dos Veículos de Invest
 Administrador Fiduciário ou do Gestor de Recursos, conselho consultivo ou comitê para os Veículos
 
 de Investimento, sem prejuízo do disposto na regulação vigente.
+
+23
 
 CAPÍTULO XVI – DAS MODALIDADES DE INVESTIMENTO
 
@@ -1004,8 +1044,6 @@ e sem prejuízo do disposto na regulação em vigor.
 
 Seção IV – Investimentos em Ativos via crowdfunding
 
-22
-
 ## Art. 35
 
 Os Veículos de Investimento poderão investir em Ativos emitidos por meio de plataformas
@@ -1014,13 +1052,15 @@ eletrônicas de investimento participativo (crowdfunding), nos termos das Regras
 
 de AGRT e sem prejuízo do disposto na regulação em vigor.
 
+24
+
 CAPÍTULO XVII – INVESTIMENTOS EM ATIVOS SUSTENTÁVEIS
 
 ## Art. 36
 
 O Gestor de Recursos poderá identificar seus Veículos de Investimento como de
 
-investimento sustentável ou como veículos que integram questões ESG, nos termos das Regras e
+investimento sustentável ou como veículos que integram questões ASG, nos termos das Regras e
 
 Procedimentos de AGRT e sem prejuízo do disposto na regulação em vigor.
 
@@ -1032,9 +1072,9 @@ Os Fundos de Investimento devem ser classificados de acordo com seus objetivos, 
 
 de investimento e composição da carteira, com base em classificação a ser desenvolvida pela
 
-ANBIMA.
+Anbima.
 
-Parágrafo único. A classificação da ANBIMA de Fundos de Investimento tem como objetivo
+Parágrafo único. A classificação da Anbima de Fundos de Investimento tem como objetivo
 
 separar e identificar os Fundos de Investimento de acordo com as suas respectivas estratégias e
 
@@ -1044,21 +1084,21 @@ CAPÍTULO XIX – REGISTRO DOS VEÍCULOS DE INVESTIMENTO
 
 ## Art. 38
 
-Os Veículos de Investimento devem ser registrados na ANBIMA nos termos previstos nas
+Os Veículos de Investimento devem ser registrados na Anbima, nos termos previstos nas
 
 Regras e Procedimentos de AGRT para tanto.
 
-CAPÍTULO XX – DOCUMENTOS E INFORMAÇÕES DOS
+CAPÍTULO XX – DOCUMENTOS E INFORMAÇÕES DOS VEÍCULOS DE
 
-VEÍCULOS DE INVESTIMENTO
-
-23
+INVESTIMENTO
 
 ## Art. 39
 
 As Instituições Participantes devem tomar providências para que sejam disponibilizados aos
 
 investidores os documentos dos Veículos de Investimento.
+
+25
 
 Parágrafo único. Os documentos devem conter as principais características do Veículo de
 
@@ -1074,7 +1114,7 @@ O Administrador Fiduciário e/ou o Gestor de Recursos, conforme aplicável, ao e
 
 divulgar publicidade, deve:
 
-I. II. III. IV. V. Envidar seus melhores esforços no sentido de produzir materiais adequados aos investi-
+I. II. III. IV. V. VI. Envidar seus melhores esforços no sentido de produzir materiais adequados aos investi-
 
 dores, minimizando incompreensões quanto ao seu conteúdo e privilegiando informações
 
@@ -1108,13 +1148,13 @@ cando ressaltar períodos de boa rentabilidade, descartando períodos desfavorá
 
 interrompendo sua recorrência e periodicidade especialmente em razão da performance;
 
-24
-
-VI. VII. Privilegiar dados de fácil comparabilidade, e, caso sejam realizadas projeções ou simula-
+Privilegiar dados de fácil comparabilidade, e, caso sejam realizadas projeções ou simula-
 
 ções, detalhar todos os critérios utilizados, incluindo valores e taxas de comissões; e
 
-Zelar para que haja concorrência leal, de modo que as informações disponibilizadas ou
+26
+
+VII. Zelar para que haja concorrência leal, de modo que as informações disponibilizadas ou
 
 omitidas não promovam determinadas Instituições Participantes em detrimento de seus
 
@@ -1130,21 +1170,21 @@ detidos pelos Fundos de Investimento, devendo ser diligente e realizar todas as 
 
 para o exercício desse direito, nos termos previstos nas Regras e Procedimentos de AGRT.
 
-CAPÍTULO XXIII – ENVIO DE INFORMAÇÕES PARA A BASE DE DADOS DA
+CAPÍTULO XXIII – ENVIO DE INFORMAÇÕES PARA O BANCO DE DADOS
 
-ANBIMA
+DA ANBIMA
 
 ## Art. 42
 
-A base de dados da ANBIMA consiste no conjunto de informações que são armazenadas e
+O Banco de Dados da Anbima consiste no conjunto de informações que são armazenadas e
 
-supervisionadas pela Associação relativas às Instituições Participantes, suas atividades e seus
+supervisionadas pela Anbima relativas às Instituições Participantes, suas atividades e seus Veículos
 
-Veículos de Investimento.
+de Investimento.
 
 ## Art. 43
 
-Para o envio de informações para a base de dados, as Instituições Participantes devem
+Para o envio de informações para o Banco de Dados, as Instituições Participantes devem
 
 observar os seguintes princípios:
 
@@ -1152,19 +1192,19 @@ I. II. III. IV. Exatidão: as informações devem ser enviadas corretamente;
 
 Pontualidade: as informações devem ser enviadas dentro dos prazos estabelecidos pela
 
-ANBIMA;
+Anbima;
 
 Regularidade: as informações devem ser enviadas na periodicidade devida; e
 
 Integridade: todas as informações requeridas devem ser enviadas, não havendo lacunas
 
-na base de dados.
+no Banco de Dados.
 
-25
+27
 
 TÍTULO VI – DISPOSIÇÕES GERAIS
 
-CAPÍTULO XIV – TAXAS
+CAPÍTULO XXIV – TAXAS
 
 ## Art. 44
 
@@ -1176,9 +1216,9 @@ normativo;
 
 Registro de Veículos de Investimentos, quando aplicável;
 
-Envio de informações para a base de dados, quando aplicável; e
+Envio de informações para o Banco de Dados, quando aplicável; e
 
-Supervisão periódica relacionadas as certificações da ANBIMA, conforme aplicável, sendo
+Supervisão periódica relacionada às certificações da Anbima, conforme aplicável, sendo
 
 ainda, dispensado do pagamento das demais taxas acima descritas exclusivamente na
 
@@ -1186,35 +1226,187 @@ hipótese em que a adesão a este Código ocorra com a única finalidade de obse
 
 Regras e Procedimentos de Certificação.
 
-Parágrafo único. Compete à Diretoria da ANBIMA fixar a periodicidade e o valor das taxas de
+Parágrafo único. Compete à Diretoria da Anbima fixar a periodicidade e o valor das taxas de
 
-que trata o caput, que ficarão disponíveis no site da ANBIMA na internet2
+que trata o caput, que ficarão disponíveis no site da Anbima na internet2
 
 .
 
-CAPÍTULO XXV – PENALIDADES
-
 ## Art. 45
 
-As Instituições Participantes que descumprirem os princípios estabelecidos no presente
+As Instituições Participantes sujeitam-se às taxas previstas neste Código, conforme disposto
 
-Código estarão sujeitas à imposição das penalidades indicadas no Código dos Processos.
+acima, devendo observar nas Regras e Procedimentos de AGRT, as condições específicas acerca das
+
+seguintes taxas:
+
+I. Taxa de registro para o Banco de Dados, conforme estabelecido pelo inciso III do art. 44
+
+deste Código.
 
 2 https://www.anbima.com.br/pt_br/representar/foruns-de-representacao/servicos-fiduciarios/servicos-fiducia-
 
 rios.htm.
 
-26
+28
 
-CAPÍTULO XXVI – DISPOSIÇÕES FINAIS
+CAPÍTULO XXV – POLÍTICAS, REGRAS, PROCEDIMENTOS E CONTROLES
+
+INTERNOS
 
 ## Art. 46
+
+As Instituições Participantes, sem prejuízo do disposto neste Código e nas Regras e
+
+Procedimentos da Anbima, incluindo as de Deveres Básicos, devem elaborar Documentos de
+
+Controles Internos, observada a regulamentação vigente, relacionados aos temas abaixo:
+
+I. II. III. IV. V. VI. VII. VIII. IX. Certificação, nos termos estabelecidos no artigo 11 deste Código de AGRT;
+
+Rateio de ordens, nos termos estabelecidos no Capítulo IV, da Parte Geral, das Regras e
+
+Procedimentos de AGRT;
+
+Riscos de mercado, crédito e liquidez, nos termos estabelecidos no Capítulo V, da Parte
+
+Geral, das Regras e Procedimentos de AGRT;
+
+Aquisição e monitoramento de ativos imobiliários e mobiliários, nos termos
+
+estabelecidos na Parte Geral das Regras e Procedimentos de AGRT, no Anexo
+
+Complementar II, no Anexo Complementar IV, no Anexo Complementar V, no Anexo
+
+Complementar VI, das Regras e Procedimentos de AGRT;
+
+Apreçamento, nos termos estabelecidos no Capítulo III, da Parte Geral e no Capítulo V,
+
+do Anexo Complementar II, das Regras e Procedimentos de AGRT;
+
+Gerenciamento de risco de liquidez, nos termos estabelecidos nos Capítulos II e VII, do
+
+Anexo Complementar III, das Regras e Procedimentos de AGRT;
+
+Voto, nos termos estabelecidos no Capítulo V, do Anexo Complementar III, das Regras e
+
+Procedimentos de AGRT;
+
+ESG, nos termos estabelecidos no Capítulo IX, do Anexo Complementar III, das Regras e
+
+Procedimentos de AGRT;
+
+Escala de risco, nos termos estabelecidos no Capítulo V, do Anexo Complementar IV, das
+
+Regras e Procedimentos de AGRT;
+
+29
+
+X. XI. XII. XIII. XIV. XV. XVI. XVII. Análise, aquisição, gestão e monitoramento de crédito privado, nos termos do Anexo
+
+Complementar II, Anexo Complementar IV e Anexo Complementar V das Regras e
+
+Procedimentos de AGRT;
+
+Metodologia de Provisão de Devedores Duvidosos, nos termos estabelecidos no Capítulo
+
+VI do Anexo Complementar V das Regras e Procedimentos de AGRT;
+
+Gestão de criptoativos, nos termos estabelecidos no Capítulo VI , da Parte Geral, das
+
+Regras e Procedimentos de AGRT;
+
+Conheça Seu Cliente, nos termos estabelecidos no Capítulo IV, do Anexo Complementar
+
+I, das Regras e Procedimentos de AGRT;
+
+Envio de Informações para o Banco de Dados, nos termos estabelecidos no Anexo
+
+Complementar I e Anexo Complementar III das Regras e Procedimentos de AGRT;
+
+Comitê ou organismo interno de deliberação sobre Crédito Privado, se houver, nos
+
+termos estabelecidos no Capítulo VII, do Anexo Complementar II, das Regras e
+
+Procedimentos de AGRT;
+
+Fiscalização de terceiros contratados, quando aplicável, nos termos estabelecidos no
+
+Capítulo III, do Anexo Complementar III, das Regras e Procedimentos de AGRT;
+
+Diligência entre os Prestadores de Serviços Essenciais, nos termos estabelecidos no
+
+Capítulo II, do Anexo Complementar III, das Regras e Procedimentos de AGRT;
+
+XVIII. Diligência pelo Custodiante, nos termos estabelecidos no Capítulo IV, do Anexo
+
+Complementar IV das Regras e Procedimentos de AGRT;
+
+XIX. Diligência e registro pelo Administrador Fiduciário, nos termos estabelecidos no Capítulo
+
+II, do Anexo Complementar V das Regras e Procedimentos de AGRT; e
+
+XX. Avaliação a Valor Justo dos Ativos, caso aplicável, nos termos estabelecidos no Capítulo
+
+VI, do Anexo Complementar VI, das Regras e Procedimentos de AGRT.
+
+§1º. As Instituições Participantes devem implementar e manter atualizados os Documentos
+
+de Controles Internos, em documento escrito único ou distintos, e enviá-los para a Anbima, via SSM,
+
+30
+
+em até 30 (trinta) dias corridos após sua elaboração ou qualquer alteração e atualização de seu
+
+conteúdo.
+
+§2º
+
+. Sem prejuízo do disposto no §1º acima, as Instituições Participantes devem revisar e
+
+atualizar, a cada 24 (vinte e quatro) meses os Documentos de Controles Internos.
+
+§3º
+
+. As Instituições Participantes estão sujeitas a todas as Deliberações publicadas pela
+
+Anbima referentes a este Código e suas Regras e Procedimentos.
+
+§4º
+
+. Os Documentos de Controles Internos devem ser passíveis de verificação e ser enviados
+
+para a Anbima sempre que solicitados.
+
+§5º
+
+. As Instituições Participantes devem garantir que os acessos, disponibilizados em seus
+
+sites em cumprimento às obrigações referentes aos Documentos de Controles Internos previstas
+
+neste Código e em suas Regras e Procedimentos, estejam atualizados e direcionem corretamente
+
+para o conteúdo correspondente.
+
+CAPÍTULO XXVI – PENALIDADES
+
+## Art. 47
+
+As Instituições Participantes que descumprirem os princípios estabelecidos no presente
+
+Código estarão sujeitas à imposição das penalidades indicadas no Código dos Processos.
+
+CAPÍTULO XXVII – DISPOSIÇÕES FINAIS
+
+## Art. 48
 
 Qualquer modificação das disposições contidas neste Código compete, exclusivamente, à
 
 Diretoria.
 
-## Art. 47
+31
+
+## Art. 49
 
 Os prazos de que tratam os dispositivos deste Código e das Regras e Procedimentos de
 
@@ -1224,13 +1416,13 @@ do interessado e se encerram no dia do vencimento.
 
 Parágrafo único. Considera-se prorrogado o prazo até o primeiro dia útil se o vencimento cair
 
-em feriados bancários, sábados, domingos ou em dia em que não houver expediente na ANBIMA
+em feriados bancários, sábados, domingos ou em dia em que não houver expediente na Anbima ou
 
-ou este for inferior ao normal.
+este for inferior ao normal.
 
-## Art. 48
+## Art. 50
 
-Todos os componentes organizacionais da ANBIMA, sejam funcionários da Associação ou
+Todos os componentes organizacionais da Anbima, sejam funcionários da Associação ou
 
 representantes indicados pelas Instituições Participantes ou demais entidades, devem guardar
 
@@ -1240,21 +1432,19 @@ funções.
 
 §1º. O sigilo a que se refere este artigo não é violado em caso de possível compartilhamento
 
-das informações com os órgãos da ANBIMA, com reguladores, autorreguladores e autoridades
+das informações com os órgãos da Anbima, com reguladores, autorreguladores e autoridades
 
 competentes, nos limites permitidos pelos convênios entre eles firmados.
 
 §2º. O dever de sigilo disposto neste artigo não é violado pelo uso dos documentos enviados
 
-pelas Instituições Participantes à ANBIMA nas investigações das atividades de outras Instituições
+pelas Instituições Participantes à Anbima nas investigações das atividades de outras Instituições
 
 Participantes disciplinadas por este Código, pelas Regras e Procedimentos de AGRT ou por outros
 
-Códigos ANBIMA.
+Códigos Anbima.
 
-27
-
-§3º. As informações e documentos previstos no caput poderão ser utilizados pela ANBIMA
+§3º. As informações e documentos previstos no caput poderão ser utilizados pela Anbima
 
 como subsídio para questionamentos junto a prestadores de serviços contratados pelas Instituições
 
@@ -1264,40 +1454,20 @@ terceiros, assim como nos demais dispositivos das Regras e Procedimentos de AGRT
 
 desse tema.
 
-## Art. 49
+32
+
+## Art. 51
 
 Para fins deste Código, todos os dados pessoais devem ser tratados de acordo com as
 
 disposições da LGPD, e, na eventual hipótese de compartilhamento de dados dessa natureza com a
 
-ANBIMA, as Instituições Participantes deverão garantir a atualização das informações
+Anbima, as Instituições Participantes deverão garantir a atualização das informações
 
 compartilhadas e a transparência para com os titulares envolvidos, assegurando que estes tenham
 
 ciência da ocorrência dessa atividade e dos direitos garantidos pela referida Lei.
 
-## Art. 50
+## Art. 52
 
-As Instituições Participantes estão sujeitas a todas as deliberações, regras e procedimentos
-
-publicados pela ANBIMA referentes à atividade de Administração e Gestão de Recursos de
-
-Terceiros, devendo encaminhar pelo SSM, em prazo a ser divulgado pela ANBIMA, todos os
-
-documentos escritos exigidos por este Código.
-
-§1º. Caso haja alterações nos documentos de que trata o caput, estes devem ser atualizados
-
-em até 30 (trinta) dias corridos da alteração.
-
-§2º. Sem prejuízo do disposto no caput, todas as regras, os procedimentos, os controles e as
-
-obrigações estabelecidas por este Código devem ser passíveis de verificação e ser enviados para a
-
-ANBIMA sempre que solicitados.
-
-§3º. Não se aplica o disposto no caput aos contratos estabelecidos com os investidores.
-
-## Art. 51
-
-Este Código entra em vigor em 31 de março de 2025.
+Este Código entra em vigor em 04 de janeiro de 2027.

@@ -9,11 +9,11 @@ Autorregulação: texto de titularidade da entidade, uso informativo (ver `autor
 
 | Documento | Vigência ou versão | Data-base | Arquivo |
 |---|---|---|---|
-| Código de Administração de Recursos de Terceiros | 2025-03-31 | 2026-10-29 | autorregulacao/anbima/codigo-de-administracao-de-recursos-de-terceiros.md |
-| Código de Distribuição de Produtos de Investimento | 2025-09-22 | 2026-10-29 | autorregulacao/anbima/codigo-de-distribuicao-de-produtos-de-investimento.md |
+| Código de Administração de Recursos de Terceiros | 2027-01-04 | 2026-11-18 | autorregulacao/anbima/codigo-de-administracao-de-recursos-de-terceiros.md |
+| Código de Distribuição de Produtos de Investimento | 2027-01-04 | 2026-11-18 | autorregulacao/anbima/codigo-de-distribuicao-de-produtos-de-investimento.md |
 | Código de Ética para Associados | 2026-10-29 | 2026-10-29 | autorregulacao/anbima/codigo-de-etica-para-associados.md |
-| Código de Ofertas Públicas | 2024-07-15 | 2026-10-29 | autorregulacao/anbima/codigo-de-ofertas-publicas.md |
-| Código de Serviços Qualificados | 2026-03-23 | 2026-10-29 | autorregulacao/anbima/codigo-de-servicos-qualificados.md |
+| Código de Ofertas Públicas | 2027-01-04 | 2026-11-18 | autorregulacao/anbima/codigo-de-ofertas-publicas.md |
+| Código de Serviços Qualificados | 2027-01-04 | 2026-11-18 | autorregulacao/anbima/codigo-de-servicos-qualificados.md |
 | Código dos Processos | 2024-02-01 | 2026-10-29 | autorregulacao/anbima/codigo-dos-processos.md |
 | Código Negociação de Instrumentos Financeiros | 2024-11-01 | 2026-11-04 | autorregulacao/anbima/codigo-negociacao-de-instrumentos-financeiros.md |
 
@@ -22,12 +22,12 @@ Autorregulação: texto de titularidade da entidade, uso informativo (ver `autor
 | Documento | Vigência ou versão | Data-base | Arquivo |
 |---|---|---|---|
 | Regras e Procedimentos de Certificação | 2026-01-02 | 2026-10-29 | autorregulacao/anbima/regras-e-procedimentos-de-certificacao.md |
-| Regras e Procedimentos de Deveres Básicos | 2025-03-31 | 2026-10-29 | autorregulacao/anbima/regras-e-procedimentos-de-deveres-basicos.md |
-| Regras e Procedimentos de Ofertas Públicas | 2025-03-24 | 2026-10-29 | autorregulacao/anbima/regras-e-procedimentos-de-ofertas-publicas.md |
-| Regras e Procedimentos do Código de Administração e Gestão de Recursos | 2026-03-23 | 2026-10-29 | autorregulacao/anbima/regras-e-procedimentos-do-codigo-de-administracao-e-gestao-de-recursos.md |
-| Regras e Procedimentos do Código de Distribuição | 2025-09-22 | 2026-10-29 | autorregulacao/anbima/regras-e-procedimentos-do-codigo-de-distribuicao.md |
+| Regras e Procedimentos de Deveres Básicos | 2027-01-04 | 2026-11-18 | autorregulacao/anbima/regras-e-procedimentos-de-deveres-basicos.md |
+| Regras e Procedimentos de Ofertas Públicas | 2027-01-04 | 2026-11-18 | autorregulacao/anbima/regras-e-procedimentos-de-ofertas-publicas.md |
+| Regras e Procedimentos do Código de Administração e Gestão de Recursos | 2027-01-04 | 2026-11-18 | autorregulacao/anbima/regras-e-procedimentos-do-codigo-de-administracao-e-gestao-de-recursos.md |
+| Regras e Procedimentos do Código de Distribuição | 2027-01-04 | 2026-11-18 | autorregulacao/anbima/regras-e-procedimentos-do-codigo-de-distribuicao.md |
 | Regras e Procedimentos do Código de Negociação | 2024-11-01 | 2026-11-04 | autorregulacao/anbima/regras-e-procedimentos-do-codigo-de-negociacao.md |
-| Regras e Procedimentos do Código de Serviços Qualificados | 2026-03-23 | 2026-10-29 | autorregulacao/anbima/regras-e-procedimentos-do-codigo-de-servicos-qualificados.md |
+| Regras e Procedimentos do Código de Serviços Qualificados | 2027-01-04 | 2026-11-18 | autorregulacao/anbima/regras-e-procedimentos-do-codigo-de-servicos-qualificados.md |
 | Regras e procedimentos para adesão e associação aos Códigos | 2026-10-29 | 2026-10-29 | autorregulacao/anbima/regras-e-procedimentos-para-adesao-e-associacao-aos-codigos.md |
 | Regras e procedimentos para envio de informações para a base de dados | 2024-01-02 | 2026-10-29 | autorregulacao/anbima/regras-e-procedimentos-para-envio-de-informacoes-para-a-base-de-dados.md |
 
@@ -35,7 +35,7 @@ Autorregulação: texto de titularidade da entidade, uso informativo (ver `autor
 
 | Documento | Vigência ou versão | Data-base | Arquivo |
 |---|---|---|---|
-| Glossário ANBIMA | 2026-10-29 | 2026-10-29 | autorregulacao/anbima/glossario-anbima.md |
+| Glossário ANBIMA | 2026-11-16 | 2026-11-18 | autorregulacao/anbima/glossario-anbima.md |
 
 ## Orientações (deliberações, pareceres, alinhamentos, perguntas e respostas)
 

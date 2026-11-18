@@ -10,7 +10,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 ## Sumário
 
-Este subíndice tem 2250 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+Este subíndice tem 2258 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
 
 res-cvm-0 (61); res-cvm-1-1997 (87); res-cvm-1-2001 (96); res-cvm-1-2003 (104); res-cvm-1-2016 (112)
 res-cvm-4 (120); res-cvm-5 (146); res-cvm-6-1999 (163); res-cvm-6-2017 (172); res-cvm-7 (180)
@@ -48,15 +48,15 @@ res-cvm-669 (1650); res-cvm-680 (1658); res-cvm-700 (1666); res-cvm-723 (1677); 
 res-cvm-750 (1694); res-cvm-752 (1716); res-cvm-755 (1724); res-cvm-790 (1735); res-cvm-820 (1743)
 res-cvm-821 (1755); res-cvm-830 (1763); res-cvm-836 (1773); res-cvm-839 (1781); res-cvm-851 (1789)
 res-cvm-854 (1797); res-cvm-856 (1805); res-cvm-859 (1813); res-cvm-893 (1821); res-cvm-910 (1829)
-res-cvm-953 (1837); res-cvm-961 (1851); res-cvm-989 (1860); res-cvm-1022 (1871); res-cvm-1289 (1880)
-res-cvm-1321 (1888); res-cvm-1621 (1896); res-cvm-1656 (1904); res-cvm-1657 (1919); res-cvm-1660 (1928)
-res-cvm-1752 (1936); res-cvm-1755 (1944); res-cvm-1877 (1952); res-cvm-2157 (1960); res-cvm-2689 (1968)
-res-cvm-2690 (1996); res-cvm-2785 (2019); res-cvm-3121 (2027); res-cvm-3132 (2035); res-cvm-3922 (2043)
-res-cvm-3954 (2051); res-cvm-4263 (2059); res-cvm-4415 (2067); res-cvm-4422 (2075); res-cvm-4510 (2083)
-res-cvm-4512 (2097); res-cvm-4517 (2105); res-cvm-4518 (2113); res-cvm-4522 (2127); res-cvm-4530 (2147)
-res-cvm-4538 (2155); res-cvm-4544 (2169); res-cvm-4549 (2177); res-cvm-5118 (2185); res-cvm-8524 (2193)
-res-cvm-8554 (2201); res-cvm-8559 (2209); res-cvm-13514 (2217); res-cvm-17517 (2226); res-cvm-19135 (2234)
-res-cvm-21511 (2242)
+res-cvm-923 (1837); res-cvm-953 (1845); res-cvm-961 (1859); res-cvm-989 (1868); res-cvm-1022 (1879)
+res-cvm-1289 (1888); res-cvm-1321 (1896); res-cvm-1621 (1904); res-cvm-1656 (1912); res-cvm-1657 (1927)
+res-cvm-1660 (1936); res-cvm-1752 (1944); res-cvm-1755 (1952); res-cvm-1877 (1960); res-cvm-2157 (1968)
+res-cvm-2689 (1976); res-cvm-2690 (2004); res-cvm-2785 (2027); res-cvm-3121 (2035); res-cvm-3132 (2043)
+res-cvm-3922 (2051); res-cvm-3954 (2059); res-cvm-4263 (2067); res-cvm-4415 (2075); res-cvm-4422 (2083)
+res-cvm-4510 (2091); res-cvm-4512 (2105); res-cvm-4517 (2113); res-cvm-4518 (2121); res-cvm-4522 (2135)
+res-cvm-4530 (2155); res-cvm-4538 (2163); res-cvm-4544 (2177); res-cvm-4549 (2185); res-cvm-5118 (2193)
+res-cvm-8524 (2201); res-cvm-8554 (2209); res-cvm-8559 (2217); res-cvm-13514 (2225); res-cvm-17517 (2234)
+res-cvm-19135 (2242); res-cvm-21511 (2250)
 
 ## res-cvm-0
 
@@ -1833,6 +1833,14 @@ res-cvm-21511 (2242)
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
 | termo-compromisso | RJ2005/9831 | 2006-12-12 | rejeitado | cvm-col-20061212-d05 | fichas/tc/2006-07.md |
+
+## res-cvm-923
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|
+| decisao-colegiado | 19957.018203/2026-29 | 2026-11-16 | deferido | cvm-col-20261116-d3662 | fichas/colegiado/2026-04.md |
 
 ## res-cvm-953
 

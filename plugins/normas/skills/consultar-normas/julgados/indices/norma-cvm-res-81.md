@@ -68,7 +68,7 @@ Este subíndice tem 512 linhas e uma leitura única é cortada em silêncio pert
 |---|---|---|---|---|---|---|
 | art. 3º | termo-compromisso | 19957.001811/2025-13 | 2026-02-03 | rejeitado | cvm-col-20260203-d3441 | fichas/tc/2026-01.md |
 | art. 3º, § 1º, inciso II | decisao-colegiado | 19957.017480/2024-52 | 2024-10-18 | indeferido | cvm-col-20241018-d3159 | fichas/colegiado/2024-11.md |
-| art. 3º, § 2º | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-03.md |
+| art. 3º, § 2º | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-04.md |
 
 ## art. 5º
 
@@ -87,7 +87,7 @@ Este subíndice tem 512 linhas e uma leitura única é cortada em silêncio pert
 | art. 6º, § 2º | decisao-colegiado | 19957.014176/2023-72 | 2024-10-29 | provido | cvm-col-20241029-d3158 | fichas/colegiado/2024-12.md |
 | art. 6º, § 3º | pas | 19957.011363/2024-85 | 2026-07-14 | parcial | cvm-pas-19957-011363-2024-85 | fichas/pas/2026-02.md |
 | art. 6º, § 4º | pas | 19957.011363/2024-85 | 2026-07-14 | parcial | cvm-pas-19957-011363-2024-85 | fichas/pas/2026-02.md |
-| art. 6º, § 5º | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-03.md |
+| art. 6º, § 5º | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-04.md |
 
 ## art. 7º
 
@@ -110,7 +110,7 @@ Este subíndice tem 512 linhas e uma leitura única é cortada em silêncio pert
 | art. 8º | decisao-colegiado | 19957.018229/2024-13 | 2024-11-01 | indeferido | cvm-col-20241101-d3166 | fichas/colegiado/2024-12.md |
 | art. 8º | decisao-colegiado | 19957.012301/2026-52 | 2026-07-24 | indeferido | cvm-col-20260724-d3583 | fichas/colegiado/2026-03.md |
 | art. 8º | decisao-colegiado | 19957.015113/2026-86 | 2026-09-18 | indeferido | cvm-col-20260918-d3619 | fichas/colegiado/2026-03.md |
-| art. 8º, § 2º, inciso II | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-03.md |
+| art. 8º, § 2º, inciso II | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-04.md |
 
 ## art. 9º
 
@@ -154,7 +154,7 @@ Este subíndice tem 512 linhas e uma leitura única é cortada em silêncio pert
 | art. 11 | termo-compromisso | 19957.019653/2024-77 | 2025-10-07 | rejeitado | cvm-col-20251007-d3383 | fichas/tc/2025-04.md |
 | art. 11 | termo-compromisso | 19957.001811/2025-13 | 2026-02-03 | rejeitado | cvm-col-20260203-d3441 | fichas/tc/2026-01.md |
 | art. 11 | decisao-colegiado | 19957.012301/2026-52 | 2026-07-24 | indeferido | cvm-col-20260724-d3583 | fichas/colegiado/2026-03.md |
-| art. 11 | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-03.md |
+| art. 11 | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-04.md |
 | art. 11 | pas | 19957.001811/2025-13 | 2026-09-08 | condenacao | cvm-pas-19957-001811-2025-13 | fichas/pas/2026-04.md |
 | art. 11, inciso I | decisao-colegiado | 19957.006318/2023-28 | 2023-06-20 | indeferido | cvm-col-20230620-d2883 | fichas/colegiado/2023-06.md |
 | art. 11, inciso I | decisao-colegiado | 19957.003470/2025-11 | 2025-04-22 | indeferido | cvm-col-20250422-d3264 | fichas/colegiado/2025-04.md |
@@ -182,7 +182,7 @@ Este subíndice tem 512 linhas e uma leitura única é cortada em silêncio pert
 |---|---|---|---|---|---|---|
 | art. 13 | decisao-colegiado | 19957.006318/2023-28 | 2023-06-20 | indeferido | cvm-col-20230620-d2883 | fichas/colegiado/2023-06.md |
 | art. 13 | termo-compromisso | 19957.019653/2024-77 | 2025-10-07 | rejeitado | cvm-col-20251007-d3383 | fichas/tc/2025-04.md |
-| art. 13 | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-03.md |
+| art. 13 | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-04.md |
 
 ## art. 15
 
@@ -231,7 +231,7 @@ Este subíndice tem 512 linhas e uma leitura única é cortada em silêncio pert
 | art. 26, § 1º | decisao-colegiado | 19957.018229/2024-13 | 2024-11-01 | indeferido | cvm-col-20241101-d3166 | fichas/colegiado/2024-12.md |
 | art. 26, § 1º | decisao-colegiado | 19957.010434/2025-11 | 2025-10-28 | nao-provido | cvm-col-20251028-d3399 | fichas/colegiado/2025-10.md |
 | art. 26, § 1º | decisao-colegiado | 19957.010435/2025-58 | 2025-10-28 | nao-provido | cvm-col-20251028-d3400 | fichas/colegiado/2025-10.md |
-| art. 26, § 1º | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-03.md |
+| art. 26, § 1º | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-04.md |
 | art. 26, § 2º | decisao-colegiado | 19957.010434/2025-11 | 2025-10-28 | nao-provido | cvm-col-20251028-d3399 | fichas/colegiado/2025-10.md |
 | art. 26, § 2º | decisao-colegiado | 19957.010435/2025-58 | 2025-10-28 | nao-provido | cvm-col-20251028-d3400 | fichas/colegiado/2025-10.md |
 | art. 26, § 3º, inciso II | decisao-colegiado | 19957.003448/2025-71 | 2025-05-20 | nao-provido | cvm-col-20250520-d3279 | fichas/colegiado/2025-04.md |
@@ -254,7 +254,7 @@ Este subíndice tem 512 linhas e uma leitura única é cortada em silêncio pert
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|---|
-| art. 32, § 1º | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-03.md |
+| art. 32, § 1º | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-04.md |
 
 ## art. 35
 
@@ -337,7 +337,7 @@ Este subíndice tem 512 linhas e uma leitura única é cortada em silêncio pert
 | art. 62 | decisao-colegiado | 19957.008641/2025-06 | 2025-08-15 | indeferido | cvm-col-20250815-d3328 | fichas/colegiado/2025-08.md |
 | art. 62 | decisao-colegiado | 19957.012301/2026-52 | 2026-07-24 | indeferido | cvm-col-20260724-d3583 | fichas/colegiado/2026-03.md |
 | art. 62 | decisao-colegiado | 19957.015113/2026-86 | 2026-09-18 | indeferido | cvm-col-20260918-d3619 | fichas/colegiado/2026-03.md |
-| art. 62 | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-03.md |
+| art. 62 | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-04.md |
 
 ## art. 63
 
@@ -374,7 +374,7 @@ Este subíndice tem 512 linhas e uma leitura única é cortada em silêncio pert
 | art. 63 | decisao-colegiado | 19957.012499/2026-74 | 2026-07-28 | deferido | cvm-col-20260728-d3586 | fichas/colegiado/2026-03.md |
 | art. 63 | decisao-colegiado | 19957.014651/2026-53; 19957.014659/2026-10 | 2026-09-11 | indeferido | cvm-col-20260911-d3611 | fichas/colegiado/2026-03.md |
 | art. 63 | decisao-colegiado | 19957.015113/2026-86 | 2026-09-18 | indeferido | cvm-col-20260918-d3619 | fichas/colegiado/2026-03.md |
-| art. 63 | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-03.md |
+| art. 63 | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-04.md |
 
 ## art. 64
 
@@ -440,7 +440,7 @@ Este subíndice tem 512 linhas e uma leitura única é cortada em silêncio pert
 | art. 67 | decisao-colegiado | 19957.015960/2025-60 | 2025-11-12 | indeferido | cvm-col-20251112-d3418 | fichas/colegiado/2025-11.md |
 | art. 67 | decisao-colegiado | 19957.006217/2026-08 | 2026-04-28 | indeferido | cvm-col-20260428-d3526 | fichas/colegiado/2026-02.md |
 | art. 67 | decisao-colegiado | 19957.012301/2026-52 | 2026-07-24 | indeferido | cvm-col-20260724-d3583 | fichas/colegiado/2026-03.md |
-| art. 67 | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-03.md |
+| art. 67 | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-04.md |
 | art. 67, parágrafo único | decisao-colegiado | 19957.001704/2024-12 | 2024-03-15 | indeferido | cvm-col-20240315-d3034 | fichas/colegiado/2024-03.md |
 
 ## art. 68
@@ -462,7 +462,7 @@ Este subíndice tem 512 linhas e uma leitura única é cortada em silêncio pert
 | art. 68 | decisao-colegiado | 19957.009400/2025-76 | 2025-08-20 | indeferido | cvm-col-20250820-d3344 | fichas/colegiado/2025-08.md |
 | art. 68 | decisao-colegiado | 19957.012301/2026-52 | 2026-07-24 | indeferido | cvm-col-20260724-d3583 | fichas/colegiado/2026-03.md |
 | art. 68 | decisao-colegiado | 19957.015113/2026-86 | 2026-09-18 | indeferido | cvm-col-20260918-d3619 | fichas/colegiado/2026-03.md |
-| art. 68 | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-03.md |
+| art. 68 | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-04.md |
 | art. 68, § 1º | decisao-colegiado | 19957.015062/2022-69 | 2022-12-27 | indeferido | cvm-col-20221227-d2772 | fichas/colegiado/2022-18.md |
 | art. 68, § 1º | decisao-colegiado | 19957.001704/2024-12 | 2024-03-15 | indeferido | cvm-col-20240315-d3034 | fichas/colegiado/2024-03.md |
 | art. 68, § 1º | decisao-colegiado | 19957.010585/2024-81 | 2024-08-13 | deferido | cvm-col-20240813-d3115 | fichas/colegiado/2024-08.md |

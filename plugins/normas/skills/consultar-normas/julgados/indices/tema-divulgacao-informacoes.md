@@ -7,44 +7,45 @@ Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho rel
 
 ## Sumário
 
-Este subíndice tem 1233 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+Este subíndice tem 1234 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
 
 | Seção | Linha |
 |---|---|
 | 2026 | 48 |
-| 2025 | 65 |
-| 2024 | 96 |
-| 2023 | 134 |
-| 2022 | 171 |
-| 2021 | 207 |
-| 2020 | 244 |
-| 2019 | 275 |
-| 2018 | 311 |
-| 2017 | 358 |
-| 2016 | 409 |
-| 2015 | 457 |
-| 2014 | 501 |
-| 2013 | 553 |
-| 2012 | 624 |
-| 2011 | 685 |
-| 2010 | 734 |
-| 2009 | 822 |
-| 2008 | 902 |
-| 2007 | 980 |
-| 2006 | 1033 |
-| 2005 | 1092 |
-| 2004 | 1112 |
-| 2003 | 1130 |
-| 2002 | 1155 |
-| 2001 | 1181 |
-| 2000 | 1187 |
-| 1999 | 1209 |
-| 1998 | 1226 |
-| 1997 | 1228 |
-| 1996 | 1230 |
+| 2025 | 66 |
+| 2024 | 97 |
+| 2023 | 135 |
+| 2022 | 172 |
+| 2021 | 208 |
+| 2020 | 245 |
+| 2019 | 276 |
+| 2018 | 312 |
+| 2017 | 359 |
+| 2016 | 410 |
+| 2015 | 458 |
+| 2014 | 502 |
+| 2013 | 554 |
+| 2012 | 625 |
+| 2011 | 686 |
+| 2010 | 735 |
+| 2009 | 823 |
+| 2008 | 903 |
+| 2007 | 981 |
+| 2006 | 1034 |
+| 2005 | 1093 |
+| 2004 | 1113 |
+| 2003 | 1131 |
+| 2002 | 1156 |
+| 2001 | 1182 |
+| 2000 | 1188 |
+| 1999 | 1210 |
+| 1998 | 1227 |
+| 1997 | 1229 |
+| 1996 | 1231 |
 
 | Tipo | Processo | Data | Resultado | Ementa | Id | Ficha |
 |---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.018203/2026-29 | 2026-11-16 | deferido | O Colegiado aprovou, acompanhando a SEP, a prorrogação excepcional por até 2 dias do prazo de entrega dos ITR do terceiro trimestre de 2026… | cvm-col-20261116-d3662 | fichas/colegiado/2026-04.md |
 | pas | 19957.011231/2025-34 | 2026-10-02 | — | PAS, rito simplificado, contra diretores de companhia aberta por não elaborar as demonstrações financeiras de 2024 e os ITR de 1º e 2º… | cvm-pas-19957-011231-2025-34 | fichas/pas/2026-05.md |
 | acordao-crsfn | 19957.001912/2024-11 | 2026-09-15 | condenacao | RECURSO ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. ATRASO E NÃO ENTREGA DE INFORMAÇÕES PERIÓDICAS OBRIGATÓRIAS DE FUNDOS DE INVESTIMENTO. A… | crsfn-19957-001912-2024-11 | fichas/crsfn/2026-03.md |
 | pas | 19957.001811/2025-13 | 2026-09-08 | condenacao | Apurar a responsabilidade de [pessoa física], na qualidade de ex-Diretora de Relações com Investidores da Ybirá Capital S.A., por infração… | cvm-pas-19957-001811-2025-13 | fichas/pas/2026-04.md |

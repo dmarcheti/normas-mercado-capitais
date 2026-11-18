@@ -9,7 +9,7 @@ Norma: fora do acervo.
 
 ## Sumário
 
-Este subíndice tem 2887 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+Este subíndice tem 2888 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
 
 art. 6º (50); art. 8º (57); art. 9º (64); art. 10 (71); art. 11 (78); art. 12 (84); art. 13 (91); art. 14 (99)
 art. 15 (110); art. 17 (133); art. 20 (140); art. 25 (146); art. 41 (152); art. 42 (158); art. 45 (167)
@@ -2170,6 +2170,7 @@ Citada sem dispositivo identificado (2169)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
+| decisao-colegiado | 19957.016195/2026-86 | 2026-10-27 | deferido | cvm-col-20261027-d3644 | fichas/colegiado/2026-03.md |
 | pas | 19957.007976/2020-94 | 2026-09-08 | parcial | cvm-pas-19957-007976-2020-94 | fichas/pas/2026-04.md |
 | pas | 19957.004207/2021-15 | 2026-08-26 | — | cvm-pas-19957-004207-2021-15 | fichas/pas/2026-03.md |
 | decisao-colegiado | 19957.003474/2025-07 | 2026-08-25 | parcial | cvm-col-20260825-d3540 | fichas/colegiado/2026-03.md |

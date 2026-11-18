@@ -44,7 +44,7 @@ Caminhos relativos a `normas/` (a pasta do `indice.md`).
 | Resolução CVM nº 135/2022 | 7 | 16 | [cvm-res-135](citacoes/cvm-res-135.md) |
 | Resolução CVM nº 160/2022 | 28 | 153 | [cvm-res-160](citacoes/cvm-res-160/index.md) |
 | Resolução CVM nº 161/2022 | 8 | 60 | [cvm-res-161](citacoes/cvm-res-161.md) |
-| Resolução CVM nº 175/2022 | 45 | 173 | [cvm-res-175](citacoes/cvm-res-175/index.md) |
+| Resolução CVM nº 175/2022 | 46 | 179 | [cvm-res-175](citacoes/cvm-res-175/index.md) |
 | Resolução CVM nº 178/2023 | 2 | 3 | [cvm-res-178](citacoes/cvm-res-178.md) |
 | Resolução CVM nº 182/2023 | 5 | 11 | [cvm-res-182](citacoes/cvm-res-182.md) |
 | Resolução CVM nº 193/2023 | 4 | 8 | [cvm-res-193](citacoes/cvm-res-193.md) |
@@ -62,7 +62,7 @@ Caminhos relativos a `normas/` (a pasta do `indice.md`).
 | Lei nº 8.929/1994 | 2 | 3 | [lei-8929](citacoes/lei-8929.md) |
 | Lei nº 9.613/1998 | 5 | 6 | [lei-9613](citacoes/lei-9613.md) |
 | Lei nº 10.214/2001 | 4 | 5 | [lei-10214](citacoes/lei-10214.md) |
-| Lei nº 10.406/2002 | 19 | 21 | [lei-10406](citacoes/lei-10406.md) |
+| Lei nº 10.406/2002 | 20 | 22 | [lei-10406](citacoes/lei-10406.md) |
 | Lei nº 10.931/2004 | 1 | 1 | [lei-10931](citacoes/lei-10931.md) |
 | Lei nº 11.033/2004 | 1 | 1 | [lei-11033](citacoes/lei-11033.md) |
 | Lei nº 11.076/2004 | 3 | 4 | [lei-11076](citacoes/lei-11076.md) |

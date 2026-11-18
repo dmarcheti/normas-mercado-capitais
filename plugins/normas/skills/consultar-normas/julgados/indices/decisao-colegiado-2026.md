@@ -7,7 +7,9 @@ Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho rel
 
 | Processo | Data | Resultado | Ementa | Id | Ficha |
 |---|---|---|---|---|---|
-| 19957.015856/2026-56 | 2026-11-03 | indeferido | O Colegiado indeferiu pedidos de interrupção do prazo de convocação e de adiamento da AGE do Grupo Toky S.A. - Em Recuperação Judicial… | cvm-col-20261103-d3649 | fichas/colegiado/2026-03.md |
+| 19957.018203/2026-29 | 2026-11-16 | deferido | O Colegiado aprovou, acompanhando a SEP, a prorrogação excepcional por até 2 dias do prazo de entrega dos ITR do terceiro trimestre de 2026… | cvm-col-20261116-d3662 | fichas/colegiado/2026-04.md |
+| 19957.015856/2026-56 | 2026-11-03 | indeferido | O Colegiado indeferiu pedidos de interrupção do prazo de convocação e de adiamento da AGE do Grupo Toky S.A. - Em Recuperação Judicial… | cvm-col-20261103-d3649 | fichas/colegiado/2026-04.md |
+| 19957.016195/2026-86 | 2026-10-27 | deferido | O Colegiado autorizou a 2ª emissão de debêntures da WTorre S.A. e a 1ª da WTorre Engenharia e Construção S.A. prosseguirem sem agente… | cvm-col-20261027-d3644 | fichas/colegiado/2026-03.md |
 | 19957.015113/2026-86 | 2026-09-18 | indeferido | O Colegiado, acompanhando a SEP, indeferiu, por unanimidade, pedidos intempestivos de acionistas de interrupção e adiamento do prazo de… | cvm-col-20260918-d3619 | fichas/colegiado/2026-03.md |
 | 19957.014651/2026-53; 19957.014659/2026-10 | 2026-09-11 | indeferido | Acompanhando a SEP, o Colegiado, por unanimidade, indeferiu pedidos de interrupção do prazo de convocação e de novo adiamento da AGE da… | cvm-col-20260911-d3611 | fichas/colegiado/2026-03.md |
 | 19957.002624/2026-38 | 2026-09-01 | deferido | O Colegiado, acompanhando a SMI, deferiu, por 12 meses, dispensas da RCVM 135 pedidas pela Balcão Agrícola do Brasil S.A.: independência do… | cvm-col-20260901-d3607 | fichas/colegiado/2026-03.md |

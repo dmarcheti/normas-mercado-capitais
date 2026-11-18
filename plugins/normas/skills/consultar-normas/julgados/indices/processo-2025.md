@@ -39,6 +39,7 @@ Número normalizado: NUP `99999-999999-AAAA-DD`; processo antigo `rj2015-13791` 
 | 19957-011239-2025-09 | 19957.011239/2025-09; 19957-011239-2025-09 | termo-compromisso | 2026-05-19 | O Colegiado, acompanhando o Comitê, rejeitou proposta de termo de compromisso de um emissor de ordens em opções: R$ 198.000,00 em 66… | cvm-col-20260519-d3531 | fichas/tc/2026-01.md |
 | 19957-011252-2025-50 | 19957.011252/2025-50; 19957-011252-2025-50 | termo-compromisso | 2026-06-23 | O Colegiado, acompanhando o Comitê, rejeitou proposta de termo de compromisso de R$ 150.000,00 apresentada pela diretora financeira de uma… | cvm-col-20260623-d3533 | fichas/tc/2026-02.md |
 | 19957-011331-2025-61 | 19957.011331/2025-61; 19957-011331-2025-61 | pas | 2026-07-28 | Apurar a responsabilidade de assessor de investimento em razão da utilização de senhas e logins de clientes para a realização de operações… | cvm-pas-19957-011331-2025-61 | fichas/pas/2026-03.md |
+| 19957-012115-2025-32 | 19957.012115/2025-32; 19957-012115-2025-32 | termo-compromisso | 2026-08-04 | O Colegiado rejeitou, acompanhando o parecer do Comitê, as propostas de termo de compromisso de quatro proponentes em PAS por manipulação… | cvm-col-20260804-d3497 | fichas/tc/2026-02.md |
 | 19957-013932-2025-16 | 19957.013932/2025-16; 19957-013932-2025-16 | pas | 2026-08-25 | Apurar a responsabilidade da Infinite Trade LLC pela realização de oferta pública de valores mobiliários sem o devido registro na CVM, em… | cvm-pas-19957-013932-2025-16 | fichas/pas/2026-03.md |
 
 Fim do subíndice.

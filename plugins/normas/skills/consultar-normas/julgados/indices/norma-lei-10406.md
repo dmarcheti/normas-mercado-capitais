@@ -9,7 +9,7 @@ Norma: [leis/lei-10406.md](../../normas/leis/lei-10406.md) (texto vigente hoje; 
 
 ## Sumário
 
-Este subíndice tem 3272 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+Este subíndice tem 3278 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
 
 art. 2º (85); art. 3º (93); art. 4º (101); art. 5º (108); art. 9º (116); art. 11 (122); art. 18 (128)
 art. 38 (135); art. 41 (141); art. 44 (147); art. 45 (154); art. 47 (161); art. 49 (168); art. 50 (175)
@@ -78,9 +78,9 @@ art. 1.397 (2811); art. 1.398 (2819); art. 1.399 (2827); art. 1.400 (2835); art.
 art. 1.402 (2851); art. 1.403 (2859); art. 1.404 (2867); art. 1.405 (2875); art. 1.406 (2883)
 art. 1.407 (2891); art. 1.408 (2899); art. 1.409 (2907); art. 1.410 (2915); art. 1.411 (2923)
 art. 1.417 (2931); art. 1.418 (2937); art. 1.518 (2943); art. 1.521 (2951); art. 1.603 (2960)
-art. 1.723 (2968); art. 1.793 (2974); art. 1.845 (2980); art. 1.846 (2988); art. 2.035 (2996)
-art. 2.279 (3003); art. 2.359 (3009); art. 2.368 (3015); art. 2.373 (3021); art. 2.377 (3034)
-Citada sem dispositivo identificado (3040)
+art. 1.650 (2968); art. 1.723 (2974); art. 1.793 (2980); art. 1.845 (2986); art. 1.846 (2994)
+art. 2.035 (3002); art. 2.279 (3009); art. 2.359 (3015); art. 2.368 (3021); art. 2.373 (3027)
+art. 2.377 (3040); Citada sem dispositivo identificado (3046)
 
 ## art. 2º
 
@@ -2964,6 +2964,12 @@ Citada sem dispositivo identificado (3040)
 | art. 1.603 | acordao-crsfn | 01/8023 | 2005-11-09 | condenacao | crsfn-4779 | fichas/crsfn/2005-02.md |
 | art. 1.603 | pas | RJ2001/8023 | 2002-10-23 | condenacao | cvm-pas-rj2001-8023-2 | fichas/pas/2002-06.md |
 | art. 1.603 | pas | RJ2001/8023 | 2002-10-23 | condenacao | cvm-pas-rj2001-8023 | fichas/pas/2002-06.md |
+
+## art. 1.650
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 1.650 | decisao-colegiado | 19957.016195/2026-86 | 2026-10-27 | deferido | cvm-col-20261027-d3644 | fichas/colegiado/2026-03.md |
 
 ## art. 1.723
 

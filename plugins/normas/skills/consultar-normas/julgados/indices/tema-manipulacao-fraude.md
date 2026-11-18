@@ -7,41 +7,41 @@ Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho rel
 
 ## Sumário
 
-Este subíndice tem 604 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+Este subíndice tem 605 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
 
 | Seção | Linha |
 |---|---|
 | 2026 | 48 |
-| 2025 | 62 |
-| 2024 | 92 |
-| 2023 | 140 |
-| 2022 | 177 |
-| 2021 | 207 |
-| 2020 | 224 |
-| 2019 | 257 |
-| 2018 | 291 |
-| 2017 | 319 |
-| 2016 | 337 |
-| 2015 | 350 |
-| 2014 | 356 |
-| 2013 | 376 |
-| 2012 | 387 |
-| 2011 | 396 |
-| 2010 | 409 |
-| 2009 | 437 |
-| 2008 | 448 |
-| 2007 | 462 |
-| 2006 | 475 |
-| 2005 | 500 |
-| 2004 | 516 |
-| 2003 | 539 |
-| 2002 | 552 |
-| 2001 | 563 |
-| 2000 | 575 |
-| 1999 | 589 |
-| 1998 | 592 |
-| 1997 | 595 |
-| 1996 | 597 |
+| 2025 | 63 |
+| 2024 | 93 |
+| 2023 | 141 |
+| 2022 | 178 |
+| 2021 | 208 |
+| 2020 | 225 |
+| 2019 | 258 |
+| 2018 | 292 |
+| 2017 | 320 |
+| 2016 | 338 |
+| 2015 | 351 |
+| 2014 | 357 |
+| 2013 | 377 |
+| 2012 | 388 |
+| 2011 | 397 |
+| 2010 | 410 |
+| 2009 | 438 |
+| 2008 | 449 |
+| 2007 | 463 |
+| 2006 | 476 |
+| 2005 | 501 |
+| 2004 | 517 |
+| 2003 | 540 |
+| 2002 | 553 |
+| 2001 | 564 |
+| 2000 | 576 |
+| 1999 | 590 |
+| 1998 | 593 |
+| 1997 | 596 |
+| 1996 | 598 |
 
 | Tipo | Processo | Data | Resultado | Ementa | Id | Ficha |
 |---|---|---|---|---|---|---|
@@ -51,6 +51,7 @@ Este subíndice tem 604 linhas e uma leitura única é cortada em silêncio pert
 | pas | 19957.005363/2021-01 | 2026-09-08 | absolvicao | Apurar suposta criação de condições artificiais de demanda, oferta ou preço de valores mobiliários em transferência de cotas do Brazil… | cvm-pas-19957-005363-2021-01 | fichas/pas/2026-04.md |
 | acordao-crsfn | 19957.013886/2022-02 | 2026-08-11 | parcial | RECURSOS ADMINISTRATIVOS. CVM. MERCADO DE CAPITAIS. VALORES MOBILIÁRIOS. IRREGULARIDADES RELACIONADAS A PRÁTICAS NÃO EQUITATIVAS… | crsfn-19957-013886-2022-02 | fichas/crsfn/2026-03.md |
 | acordao-crsfn | 19957.002026/2019-30 | 2026-08-11 | condenacao | RECURSOS ADMINISTRATIVOS. CVM. MERCADO DE CAPITAIS. VALORES MOBILIÁRIOS. OPERAÇÕES FRAUDULENTAS. DESCUMPRIMENTO DO DEVER DE LEALDADE EM… | crsfn-10372-000035-2024-50 | fichas/crsfn/2026-03.md |
+| termo-compromisso | 19957.012115/2025-32 | 2026-08-04 | rejeitado | O Colegiado rejeitou, acompanhando o parecer do Comitê, as propostas de termo de compromisso de quatro proponentes em PAS por manipulação… | cvm-col-20260804-d3497 | fichas/tc/2026-02.md |
 | acordao-crsfn | 14/2010 | 2026-07-15 | condenacao | INCIDENTE DE AUTOTUTELA ADMINISTRATIVA. CVM. MULTA. ERRO DE FATO VERIFICÁVEL. RETIFICAÇÃO DO EXTRATO DE JULGAMENTO DA CVM. ANULAÇÃO PARCIAL… | crsfn-10372-100071-2021-70-3 | fichas/crsfn/2026-03.md |
 | termo-compromisso | 19957.021536/2024-73 | 2026-06-23 | outro | O Colegiado, acompanhando o Comitê, aceitou proposta conjunta da Nova Futura CTVM e de uma pessoa física, de R$ 252.000,00 e R$ 126.000,00… | cvm-col-20260623-d3353 | fichas/tc/2026-02.md |
 | termo-compromisso | 19957.008954/2024-75 | 2026-06-23 | outro | O Colegiado, por unanimidade, no exercício de juízo de conveniência e oportunidade, devolveu ao Comitê de Termo de Compromisso a proposta… | cvm-col-20260623-d3203 | fichas/tc/2026-01.md |
