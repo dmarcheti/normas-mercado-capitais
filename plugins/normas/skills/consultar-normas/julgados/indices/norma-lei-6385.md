@@ -9,22 +9,22 @@ Norma: [leis/lei-06385.md](../../normas/leis/lei-06385.md) (texto vigente hoje; 
 
 ## Sumário
 
-Este subíndice tem 15345 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+Este subíndice tem 15351 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
 
 art. 1º (29); art. 2º (87); art. 3º (486); art. 4º (495); art. 5º (1093); art. 6º (1105); art. 8º (1117)
-art. 9º (1304); art. 9º-A (2490); art. 10 (2496); art. 11 (2512); art. 12 (12311); art. 13 (12441)
-art. 15 (12485); art. 16 (12713); art. 17 (13042); art. 18 (13064); art. 19 (13113); art. 20 (13686)
-art. 21 (13713); art. 21-A (13888); art. 22 (13894); art. 23 (13961); art. 24 (14236); art. 25 (14250)
-art. 26 (14256); art. 27 (14293); art. 27-A (14309); art. 27-C (14316); art. 27-D (14401); art. 27-E (14477)
-art. 28 (14627); art. 31 (14646); art. 32 (14669); art. 33 (14681); art. 34 (14707); art. 40 (14713)
-art. 43 (14719); art. 44 (14725); art. 58 (14731); art. 60 (14737); art. 68 (14743); art. 90 (14749)
-art. 99 (14757); art. 113 (14763); art. 115 (14770); art. 116 (14776); art. 132 (14782); art. 133 (14788)
-art. 140 (14795); art. 142 (14801); art. 151 (14807); art. 152 (14813); art. 153 (14819); art. 155 (14825)
-art. 157 (14833); art. 161 (14840); art. 163 (14846); art. 170 (14852); art. 171 (14858); art. 173 (14864)
-art. 174 (14871); art. 176 (14880); art. 177 (14888); art. 179 (14894); art. 191 (14900); art. 192 (14910)
-art. 193 (14918); art. 214 (14924); art. 231 (14930); art. 232 (14941); art. 233 (14949); art. 235 (14956)
-art. 237 (14964); art. 265 (14970); art. 266 (14976); art. 275 (14982); art. 281 (14988)
-Citada sem dispositivo identificado (14994)
+art. 9º (1304); art. 9º-A (2490); art. 10 (2496); art. 11 (2512); art. 12 (12315); art. 13 (12445)
+art. 15 (12489); art. 16 (12717); art. 17 (13046); art. 18 (13068); art. 19 (13117); art. 20 (13690)
+art. 21 (13717); art. 21-A (13893); art. 22 (13899); art. 23 (13966); art. 24 (14241); art. 25 (14255)
+art. 26 (14261); art. 27 (14298); art. 27-A (14314); art. 27-C (14321); art. 27-D (14407); art. 27-E (14483)
+art. 28 (14633); art. 31 (14652); art. 32 (14675); art. 33 (14687); art. 34 (14713); art. 40 (14719)
+art. 43 (14725); art. 44 (14731); art. 58 (14737); art. 60 (14743); art. 68 (14749); art. 90 (14755)
+art. 99 (14763); art. 113 (14769); art. 115 (14776); art. 116 (14782); art. 132 (14788); art. 133 (14794)
+art. 140 (14801); art. 142 (14807); art. 151 (14813); art. 152 (14819); art. 153 (14825); art. 155 (14831)
+art. 157 (14839); art. 161 (14846); art. 163 (14852); art. 170 (14858); art. 171 (14864); art. 173 (14870)
+art. 174 (14877); art. 176 (14886); art. 177 (14894); art. 179 (14900); art. 191 (14906); art. 192 (14916)
+art. 193 (14924); art. 214 (14930); art. 231 (14936); art. 232 (14947); art. 233 (14955); art. 235 (14962)
+art. 237 (14970); art. 265 (14976); art. 266 (14982); art. 275 (14988); art. 281 (14994)
+Citada sem dispositivo identificado (15000)
 
 ## art. 1º
 
@@ -7538,6 +7538,7 @@ Citada sem dispositivo identificado (14994)
 | art. 11, § 3º | termo-compromisso | 19957.000946/2023-08 | 2026-06-23 | rejeitado | cvm-col-20260623-d3392 | fichas/tc/2026-02.md |
 | art. 11, § 3º | termo-compromisso | 19957.011252/2025-50 | 2026-06-23 | rejeitado | cvm-col-20260623-d3533 | fichas/tc/2026-02.md |
 | art. 11, § 3º | termo-compromisso | 19957.001449/2022-38 | 2026-07-21 | aceito | cvm-col-20260721-d3295 | fichas/tc/2026-02.md |
+| art. 11, § 3º | termo-compromisso | 19957.012115/2025-32 | 2026-08-04 | rejeitado | cvm-col-20260804-d3497 | fichas/tc/2026-02.md |
 | art. 11, § 3º | decisao-antiga | — | 1981-01-08 | — | cvm-dec-1981-0001 | fichas/decisoes-antigas/1981-04.md |
 | art. 11, § 3º | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
 | art. 11, § 3º | pas | 15/1999 | 2001-08-02 | parcial | cvm-pas-15-1999 | fichas/pas/2001-04.md |
@@ -9225,6 +9226,7 @@ Citada sem dispositivo identificado (14994)
 | art. 11, § 5º | termo-compromisso | 19957.011252/2025-50 | 2026-06-23 | rejeitado | cvm-col-20260623-d3533 | fichas/tc/2026-02.md |
 | art. 11, § 5º | termo-compromisso | 19957.009587/2025-16 | 2026-06-23 | aceito | cvm-col-20260623-d3553 | fichas/tc/2026-02.md |
 | art. 11, § 5º | termo-compromisso | 19957.001449/2022-38 | 2026-07-21 | aceito | cvm-col-20260721-d3295 | fichas/tc/2026-02.md |
+| art. 11, § 5º | termo-compromisso | 19957.012115/2025-32 | 2026-08-04 | rejeitado | cvm-col-20260804-d3497 | fichas/tc/2026-02.md |
 | art. 11, § 5º | decisao-antiga | — | 1998-01-09 | — | cvm-dec-1998-0001 | fichas/decisoes-antigas/1998-15.md |
 | art. 11, § 5º | decisao-antiga | — | 1999-01-29 | — | cvm-dec-1999-0001 | fichas/decisoes-antigas/1999-28.md |
 | art. 11, § 5º | decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
@@ -9858,6 +9860,7 @@ Citada sem dispositivo identificado (14994)
 | art. 11, § 5º, inciso I | termo-compromisso | 19957.011252/2025-50 | 2026-06-23 | rejeitado | cvm-col-20260623-d3533 | fichas/tc/2026-02.md |
 | art. 11, § 5º, inciso I | termo-compromisso | 19957.009587/2025-16 | 2026-06-23 | aceito | cvm-col-20260623-d3553 | fichas/tc/2026-02.md |
 | art. 11, § 5º, inciso I | termo-compromisso | 19957.001449/2022-38 | 2026-07-21 | aceito | cvm-col-20260721-d3295 | fichas/tc/2026-02.md |
+| art. 11, § 5º, inciso I | termo-compromisso | 19957.012115/2025-32 | 2026-08-04 | rejeitado | cvm-col-20260804-d3497 | fichas/tc/2026-02.md |
 | art. 11, § 5º, inciso I | decisao-antiga | — | 1999-01-29 | — | cvm-dec-1999-0001 | fichas/decisoes-antigas/1999-28.md |
 | art. 11, § 5º, inciso I | pas | RJ2002/1822 | 2005-05-06 | condenacao | cvm-pas-rj2002-1822 | fichas/pas/2005-07.md |
 | art. 11, § 5º, inciso I | pas | 19957.006332/2019-45 | 2022-12-22 | condenacao | cvm-pas-19957-006332-2019-45 | fichas/pas/2022-13.md |
@@ -10545,6 +10548,7 @@ Citada sem dispositivo identificado (14994)
 | art. 11, § 5º, inciso II | termo-compromisso | 19957.011252/2025-50 | 2026-06-23 | rejeitado | cvm-col-20260623-d3533 | fichas/tc/2026-02.md |
 | art. 11, § 5º, inciso II | termo-compromisso | 19957.009587/2025-16 | 2026-06-23 | aceito | cvm-col-20260623-d3553 | fichas/tc/2026-02.md |
 | art. 11, § 5º, inciso II | termo-compromisso | 19957.001449/2022-38 | 2026-07-21 | aceito | cvm-col-20260721-d3295 | fichas/tc/2026-02.md |
+| art. 11, § 5º, inciso II | termo-compromisso | 19957.012115/2025-32 | 2026-08-04 | rejeitado | cvm-col-20260804-d3497 | fichas/tc/2026-02.md |
 | art. 11, § 5º, inciso II | pas | RJ2002/1822 | 2005-05-06 | condenacao | cvm-pas-rj2002-1822 | fichas/pas/2005-07.md |
 | art. 11, § 5º, inciso II | pas | 12/2001 | 2006-01-12 | condenacao | cvm-pas-12-2001 | fichas/pas/2006-01.md |
 | art. 11, § 5º, inciso II | pas | RJ2003/12406 | 2006-01-19 | condenacao | cvm-pas-rj2003-12406 | fichas/pas/2006-02.md |
@@ -13847,6 +13851,7 @@ Citada sem dispositivo identificado (14994)
 | art. 21, § 1º | pas | 19957.004286/2022-45 | 2023-12-21 | condenacao | cvm-pas-19957-004286-2022-45 | fichas/pas/2023-18.md |
 | art. 21, § 2º | decisao-colegiado | 19957.003411/2019-02 | 2019-04-09 | conhecimento | cvm-col-20190409-d1284 | fichas/colegiado/2019-06.md |
 | art. 21, § 2º | decisao-colegiado | 19957.003410/2019-50 | 2019-04-09 | conhecimento | cvm-col-20190409-d1285 | fichas/colegiado/2019-06.md |
+| art. 21, § 2º | decisao-colegiado | 19957.016195/2026-86 | 2026-10-27 | deferido | cvm-col-20261027-d3644 | fichas/colegiado/2026-03.md |
 | art. 21, § 3º | acordao-crsfn | – | 2007-04-25 | parcial | crsfn-5532 | fichas/crsfn/2007-01.md |
 | art. 21, § 3º | acordao-crsfn | 04/2012 | 2018-12-11 | parcial | crsfn-14227 | fichas/crsfn/2018-10.md |
 | art. 21, § 3º | decisao-colegiado | SP2006/0180 | 2007-08-14 | provido | cvm-col-20070814-d02 | fichas/colegiado/2007-14.md |
@@ -14364,6 +14369,7 @@ Citada sem dispositivo identificado (14994)
 | art. 27-C | termo-compromisso | 19957.018693/2024-00 | 2025-11-11 | aceito | cvm-col-20251111-d3417 | fichas/tc/2025-05.md |
 | art. 27-C | termo-compromisso | 19957.007976/2020-94 | 2025-12-02 | rejeitado | cvm-col-20251202-d2655 | fichas/tc/2025-05.md |
 | art. 27-C | termo-compromisso | 19957.008954/2024-75 | 2026-06-23 | outro | cvm-col-20260623-d3203 | fichas/tc/2026-01.md |
+| art. 27-C | termo-compromisso | 19957.012115/2025-32 | 2026-08-04 | rejeitado | cvm-col-20260804-d3497 | fichas/tc/2026-02.md |
 | art. 27-C | pas | RJ2005/7389 | 2006-10-10 | parcial | cvm-pas-rj2005-7389 | fichas/pas/2006-20.md |
 | art. 27-C | pas | SP2007/0114 | 2008-09-23 | parcial | cvm-pas-sp2007-0114 | fichas/pas/2008-06.md |
 | art. 27-C | pas | 13/2005 | 2012-06-25 | parcial | cvm-pas-13-2005 | fichas/pas/2012-02.md |

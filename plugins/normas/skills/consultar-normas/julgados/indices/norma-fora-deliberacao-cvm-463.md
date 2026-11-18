@@ -9,7 +9,7 @@ Norma: fora do acervo.
 
 ## Sumário
 
-Este subíndice tem 838 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+Este subíndice tem 839 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
 
 | Seção | Linha |
 |---|---|
@@ -33,6 +33,7 @@ Este subíndice tem 838 linhas e uma leitura única é cortada em silêncio pert
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
+| decisao-colegiado | 19957.016195/2026-86 | 2026-10-27 | deferido | cvm-col-20261027-d3644 | fichas/colegiado/2026-03.md |
 | pas | 19957.008378/2023-85 | 2024-12-18 | absolvicao | cvm-pas-19957-008378-2023-85 | fichas/pas/2024-23.md |
 | decisao-colegiado | 19957.007920/2018-15 | 2024-12-03 | conhecimento | cvm-col-20241203-d2187 | fichas/colegiado/2024-13.md |
 | acordao-crsfn | 19957.007552/2016-43 | 2024-10-08 | condenacao | crsfn-10372-100066-2021-67 | fichas/crsfn/2024-06.md |

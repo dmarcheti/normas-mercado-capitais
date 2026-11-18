@@ -17,7 +17,7 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
-| decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-03.md |
+| decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-04.md |
 | decisao-colegiado | 19957.015113/2026-86 | 2026-09-18 | indeferido | cvm-col-20260918-d3619 | fichas/colegiado/2026-03.md |
 | decisao-colegiado | 19957.012301/2026-52 | 2026-07-24 | indeferido | cvm-col-20260724-d3583 | fichas/colegiado/2026-03.md |
 | decisao-colegiado | 19957.011117/2024-23; 19957.011105/2024-07 | 2025-08-26 | deferido | cvm-col-20250826-d3215-3243 | fichas/colegiado/2025-08.md |

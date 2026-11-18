@@ -20307,6 +20307,36 @@
    "url_pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/snc/anexos/oc-snc-0296.pdf",
    "url_pdf_origem": "pagina",
    "cita": []
+  },
+  {
+   "titulo": "Ofício Circular CVM/SEP 07/26",
+   "data": "2026-11-16",
+   "superintendencia": "sep",
+   "slug": "oc-sep-0726",
+   "slug_cvm": "oc-sep-0726",
+   "id": "cvm-oc-sep-0726",
+   "descricao": "Prorrogação excepcional do prazo de apresentação do Formulário de Informações Trimestrais – ITR",
+   "ementa": "Prorrogação excepcional do prazo de apresentação do Formulário de Informações Trimestrais – ITR",
+   "url_pagina": "https://conteudo.cvm.gov.br/legislacao/oficios-circulares/sep/oc-sep-0726.html",
+   "url_pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sep/anexos/oc-sep-0726.pdf",
+   "url_pdf_origem": "pagina",
+   "cita": []
+  },
+  {
+   "titulo": "Ofício Circular Conjunto CVM/SNC/SSE/SIN N° 01/26",
+   "data": "2026-11-16",
+   "superintendencia": "sse-sin-snc",
+   "slug": "oc-snc-sse-sin-0126",
+   "slug_cvm": "oc-snc-sse-sin-0126",
+   "id": "cvm-oc-snc-sse-sin-0126",
+   "descricao": "Interpretação do art. 69 da Parte Geral da Resolução CVM nº 175 - demonstrações contábeis de fundos e classes em atividade há menos de 90 dias.",
+   "ementa": "Interpretação do art. 69 da Parte Geral da Resolução CVM nº 175 - demonstrações contábeis de fundos e classes em atividade há menos de 90 dias.",
+   "url_pagina": "https://conteudo.cvm.gov.br/legislacao/oficios-circulares/sse-sin-snc/oc-snc-sse-sin-0126.html",
+   "url_pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sse-sin-snc/anexos/ocsncssesin0126.pdf",
+   "url_pdf_origem": "pagina",
+   "cita": [
+    "Resolução 175"
+   ]
   }
  ]
 }

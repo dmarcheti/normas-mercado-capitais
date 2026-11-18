@@ -7,6 +7,7 @@ Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho rel
 
 | Tipo | Processo | Data | Resultado | Ementa | Id | Ficha |
 |---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.016195/2026-86 | 2026-10-27 | deferido | O Colegiado autorizou a 2ª emissão de debêntures da WTorre S.A. e a 1ª da WTorre Engenharia e Construção S.A. prosseguirem sem agente… | cvm-col-20261027-d3644 | fichas/colegiado/2026-03.md |
 | decisao-colegiado | 19957.013782/2024-51 | 2025-06-10 | nao-provido | O Colegiado negou provimento, por unanimidade, a recurso do Grupo Casas Bahia S.A. contra manifestação da SSE que impede a prorrogação do… | cvm-col-20250610-d3290 | fichas/colegiado/2025-05.md |
 | acordao-crsfn | 19957.004810/2019-82 | 2025-06-04 | parcial | RECURSO ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. FALHA NO DEVER DE INFORMAÇÃO. FALHA NO DEVER DE DILIGÊNCIA. CONFLITO DE INTERESSES… | crsfn-10372-000170-2024-03 | fichas/crsfn/2025-04.md |
 | decisao-colegiado | 19957.019375/2024-58 | 2025-03-18 | outro | O Colegiado, por unanimidade, acompanhou a SSE na consulta da ANBIMA sobre DFs de devedores e coobrigados em securitização (arts. 43-A e 51… | cvm-col-20250318-d3233 | fichas/colegiado/2025-02.md |

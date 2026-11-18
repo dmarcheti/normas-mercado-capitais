@@ -9,7 +9,7 @@ Norma: [leis/lei-06404/index.md](../../normas/leis/lei-06404/index.md) (texto vi
 
 ## Sumário
 
-Este subíndice tem 16890 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+Este subíndice tem 16894 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
 
 art. 1º (60); art. 2º (73); art. 3º (99); art. 4º (114); art. 4º-A (520); art. 5º (643); art. 6º (651)
 art. 7º (659); art. 8º (675); art. 9º (752); art. 10 (765); art. 11 (781); art. 12 (805); art. 13 (819)
@@ -19,43 +19,43 @@ art. 27-C (1130); art. 28 (1136); art. 29 (1146); art. 30 (1156); art. 31 (1308)
 art. 33 (1326); art. 34 (1336); art. 35 (1353); art. 36 (1369); art. 37 (1389); art. 39 (1396); art. 40 (1404)
 art. 41 (1413); art. 42 (1441); art. 43 (1448); art. 44 (1454); art. 45 (1496); art. 46 (1556); art. 48 (1562)
 art. 52 (1568); art. 53 (1578); art. 54 (1588); art. 55 (1596); art. 56 (1610); art. 57 (1624); art. 58 (1640)
-art. 59 (1649); art. 60 (1670); art. 61 (1690); art. 62 (1706); art. 63 (1783); art. 64 (1789); art. 65 (1796)
-art. 66 (1803); art. 67 (1818); art. 68 (1825); art. 69 (1904); art. 70 (1910); art. 71 (1916); art. 72 (1942)
-art. 73 (1950); art. 74 (1957); art. 75 (1963); art. 76 (1972); art. 77 (1978); art. 78 (1989); art. 79 (1999)
-art. 80 (2005); art. 81 (2013); art. 82 (2020); art. 83 (2035); art. 84 (2041); art. 85 (2047); art. 87 (2054)
-art. 89 (2060); art. 94 (2067); art. 95 (2076); art. 98 (2082); art. 100 (2092); art. 103 (2275)
-art. 104 (2287); art. 105 (2293); art. 106 (2318); art. 107 (2326); art. 108 (2338); art. 109 (2344)
-art. 110 (2510); art. 111 (2526); art. 113 (2586); art. 114 (2594); art. 115 (2604); art. 116 (2923)
-art. 116-A (3253); art. 117 (3265); art. 118 (3746); art. 119 (3837); art. 120 (3844); art. 121 (3868)
-art. 122 (3900); art. 123 (3944); art. 124 (4082); art. 125 (4661); art. 126 (4679); art. 127 (4786)
-art. 128 (4795); art. 129 (4816); art. 130 (4834); art. 131 (4850); art. 132 (4864); art. 133 (5426)
-art. 134 (6464); art. 135 (6542); art. 136 (6595); art. 137 (6737); art. 138 (6868); art. 139 (6910)
-art. 140 (6934); art. 141 (6975); art. 142 (7175); art. 143 (7939); art. 144 (7973); art. 145 (8000)
-art. 146 (8017); art. 147 (8054); art. 148 (8160); art. 149 (8166); art. 150 (8183); art. 151 (8275)
-art. 152 (8309); art. 153 (8444); art. 153-O (9072); art. 154 (9078); art. 155 (9552); art. 156 (10267)
-art. 157 (10472); art. 158 (11074); art. 159 (11220); art. 160 (11352); art. 161 (11391); art. 162 (11645)
-art. 163 (11687); art. 164 (11894); art. 165 (11908); art. 166 (11977); art. 167 (12012); art. 168 (12022)
-art. 169 (12083); art. 170 (12103); art. 171 (12451); art. 172 (12567); art. 173 (12597); art. 174 (12633)
-art. 175 (12656); art. 176 (12668); art. 177 (13303); art. 178 (13638); art. 179 (13663); art. 180 (13696)
-art. 181 (13711); art. 182 (13718); art. 183 (13749); art. 184 (13801); art. 185 (13828); art. 186 (13839)
-art. 187 (13877); art. 188 (13890); art. 189 (13896); art. 190 (13964); art. 191 (13978); art. 192 (13991)
-art. 193 (14035); art. 194 (14071); art. 195 (14136); art. 195-A (14165); art. 196 (14173); art. 197 (14253)
-art. 198 (14286); art. 199 (14309); art. 200 (14343); art. 201 (14380); art. 202 (14418); art. 203 (14586)
-art. 204 (14613); art. 205 (14646); art. 206 (14679); art. 210 (14689); art. 211 (14697); art. 212 (14703)
-art. 213 (14709); art. 214 (14716); art. 217 (14723); art. 219 (14729); art. 220 (14738); art. 221 (14745)
-art. 222 (14758); art. 223 (14764); art. 224 (14802); art. 225 (14874); art. 226 (14922); art. 227 (14943)
-art. 228 (14984); art. 229 (14990); art. 230 (15011); art. 231 (15023); art. 233 (15036); art. 235 (15048)
-art. 236 (15064); art. 237 (15072); art. 238 (15083); art. 239 (15113); art. 240 (15144); art. 241 (15169)
-art. 242 (15175); art. 243 (15181); art. 244 (15209); art. 245 (15242); art. 245-A (15335); art. 246 (15342)
-art. 247 (15368); art. 248 (15391); art. 249 (15405); art. 250 (15424); art. 251 (15432); art. 252 (15448)
-art. 253 (15523); art. 254 (15552); art. 254-A (15602); art. 255 (15811); art. 256 (15830); art. 257 (15922)
-art. 258 (15950); art. 259 (15964); art. 260 (15972); art. 261 (15987); art. 262 (15996); art. 263 (16006)
-art. 264 (16015); art. 265 (16198); art. 266 (16225); art. 267 (16235); art. 269 (16243); art. 270 (16249)
-art. 273 (16258); art. 274 (16278); art. 275 (16287); art. 276 (16293); art. 278 (16300); art. 285 (16307)
-art. 286 (16322); art. 287 (16351); art. 288 (16379); art. 289 (16386); art. 291 (16411); art. 293 (16427)
-art. 294 (16438); art. 294-A (16449); art. 294-B (16459); art. 295 (16470); art. 296 (16476); art. 297 (16482)
-art. 298 (16491); art. 299 (16497); art. 300 (16504); art. 453 (16510)
-Citada sem dispositivo identificado (16517)
+art. 59 (1649); art. 60 (1670); art. 61 (1690); art. 62 (1707); art. 63 (1784); art. 64 (1790); art. 65 (1797)
+art. 66 (1804); art. 67 (1819); art. 68 (1826); art. 69 (1908); art. 70 (1914); art. 71 (1920); art. 72 (1946)
+art. 73 (1954); art. 74 (1961); art. 75 (1967); art. 76 (1976); art. 77 (1982); art. 78 (1993); art. 79 (2003)
+art. 80 (2009); art. 81 (2017); art. 82 (2024); art. 83 (2039); art. 84 (2045); art. 85 (2051); art. 87 (2058)
+art. 89 (2064); art. 94 (2071); art. 95 (2080); art. 98 (2086); art. 100 (2096); art. 103 (2279)
+art. 104 (2291); art. 105 (2297); art. 106 (2322); art. 107 (2330); art. 108 (2342); art. 109 (2348)
+art. 110 (2514); art. 111 (2530); art. 113 (2590); art. 114 (2598); art. 115 (2608); art. 116 (2927)
+art. 116-A (3257); art. 117 (3269); art. 118 (3750); art. 119 (3841); art. 120 (3848); art. 121 (3872)
+art. 122 (3904); art. 123 (3948); art. 124 (4086); art. 125 (4665); art. 126 (4683); art. 127 (4790)
+art. 128 (4799); art. 129 (4820); art. 130 (4838); art. 131 (4854); art. 132 (4868); art. 133 (5430)
+art. 134 (6468); art. 135 (6546); art. 136 (6599); art. 137 (6741); art. 138 (6872); art. 139 (6914)
+art. 140 (6938); art. 141 (6979); art. 142 (7179); art. 143 (7943); art. 144 (7977); art. 145 (8004)
+art. 146 (8021); art. 147 (8058); art. 148 (8164); art. 149 (8170); art. 150 (8187); art. 151 (8279)
+art. 152 (8313); art. 153 (8448); art. 153-O (9076); art. 154 (9082); art. 155 (9556); art. 156 (10271)
+art. 157 (10476); art. 158 (11078); art. 159 (11224); art. 160 (11356); art. 161 (11395); art. 162 (11649)
+art. 163 (11691); art. 164 (11898); art. 165 (11912); art. 166 (11981); art. 167 (12016); art. 168 (12026)
+art. 169 (12087); art. 170 (12107); art. 171 (12455); art. 172 (12571); art. 173 (12601); art. 174 (12637)
+art. 175 (12660); art. 176 (12672); art. 177 (13307); art. 178 (13642); art. 179 (13667); art. 180 (13700)
+art. 181 (13715); art. 182 (13722); art. 183 (13753); art. 184 (13805); art. 185 (13832); art. 186 (13843)
+art. 187 (13881); art. 188 (13894); art. 189 (13900); art. 190 (13968); art. 191 (13982); art. 192 (13995)
+art. 193 (14039); art. 194 (14075); art. 195 (14140); art. 195-A (14169); art. 196 (14177); art. 197 (14257)
+art. 198 (14290); art. 199 (14313); art. 200 (14347); art. 201 (14384); art. 202 (14422); art. 203 (14590)
+art. 204 (14617); art. 205 (14650); art. 206 (14683); art. 210 (14693); art. 211 (14701); art. 212 (14707)
+art. 213 (14713); art. 214 (14720); art. 217 (14727); art. 219 (14733); art. 220 (14742); art. 221 (14749)
+art. 222 (14762); art. 223 (14768); art. 224 (14806); art. 225 (14878); art. 226 (14926); art. 227 (14947)
+art. 228 (14988); art. 229 (14994); art. 230 (15015); art. 231 (15027); art. 233 (15040); art. 235 (15052)
+art. 236 (15068); art. 237 (15076); art. 238 (15087); art. 239 (15117); art. 240 (15148); art. 241 (15173)
+art. 242 (15179); art. 243 (15185); art. 244 (15213); art. 245 (15246); art. 245-A (15339); art. 246 (15346)
+art. 247 (15372); art. 248 (15395); art. 249 (15409); art. 250 (15428); art. 251 (15436); art. 252 (15452)
+art. 253 (15527); art. 254 (15556); art. 254-A (15606); art. 255 (15815); art. 256 (15834); art. 257 (15926)
+art. 258 (15954); art. 259 (15968); art. 260 (15976); art. 261 (15991); art. 262 (16000); art. 263 (16010)
+art. 264 (16019); art. 265 (16202); art. 266 (16229); art. 267 (16239); art. 269 (16247); art. 270 (16253)
+art. 273 (16262); art. 274 (16282); art. 275 (16291); art. 276 (16297); art. 278 (16304); art. 285 (16311)
+art. 286 (16326); art. 287 (16355); art. 288 (16383); art. 289 (16390); art. 291 (16415); art. 293 (16431)
+art. 294 (16442); art. 294-A (16453); art. 294-B (16463); art. 295 (16474); art. 296 (16480); art. 297 (16486)
+art. 298 (16495); art. 299 (16501); art. 300 (16508); art. 453 (16514)
+Citada sem dispositivo identificado (16521)
 
 ## art. 1º
 
@@ -1702,6 +1702,7 @@ Citada sem dispositivo identificado (16517)
 | art. 61, § 1º | decisao-colegiado | 19957.003411/2019-02 | 2019-04-09 | conhecimento | cvm-col-20190409-d1284 | fichas/colegiado/2019-06.md |
 | art. 61, § 1º | decisao-colegiado | 19957.003410/2019-50 | 2019-04-09 | conhecimento | cvm-col-20190409-d1285 | fichas/colegiado/2019-06.md |
 | art. 61, § 1º | decisao-colegiado | 19957.008943/2019-28 | 2019-10-15 | provido | cvm-col-20191015-d1575 | fichas/colegiado/2019-16.md |
+| art. 61, § 1º | decisao-colegiado | 19957.016195/2026-86 | 2026-10-27 | deferido | cvm-col-20261027-d3644 | fichas/colegiado/2026-03.md |
 
 ## art. 62
 
@@ -1834,6 +1835,7 @@ Citada sem dispositivo identificado (16517)
 | art. 68 | decisao-colegiado | 19957.003411/2019-02 | 2019-04-09 | conhecimento | cvm-col-20190409-d1284 | fichas/colegiado/2019-06.md |
 | art. 68 | decisao-colegiado | 19957.003410/2019-50 | 2019-04-09 | conhecimento | cvm-col-20190409-d1285 | fichas/colegiado/2019-06.md |
 | art. 68 | decisao-colegiado | 19957.008943/2019-28 | 2019-10-15 | provido | cvm-col-20191015-d1575 | fichas/colegiado/2019-16.md |
+| art. 68 | decisao-colegiado | 19957.016195/2026-86 | 2026-10-27 | deferido | cvm-col-20261027-d3644 | fichas/colegiado/2026-03.md |
 | art. 68 | pas | RJ2003/8172 | 2004-10-15 | parcial | cvm-pas-rj2003-8172 | fichas/pas/2004-13.md |
 | art. 68 | pas | 19957.008143/2018-26 | 2023-12-20 | parcial | cvm-pas-19957-008143-2018-26 | fichas/pas/2023-18.md |
 | art. 68, § 1º | acordao-crsfn | RJ-2003/8172 | 2008-08-27 | absolvicao | crsfn-8929 | fichas/crsfn/2008-05.md |
@@ -1888,6 +1890,7 @@ Citada sem dispositivo identificado (16517)
 | art. 68, § 1º, alínea b | pas | 19957.009010/2021-72 | 2023-08-15 | condenacao | cvm-pas-19957-009010-2021-72 | fichas/pas/2023-09.md |
 | art. 68, § 1º, alínea b | pas | 19957.010053/2021-09 | 2024-06-13 | parcial | cvm-pas-19957-010053-2021-09 | fichas/pas/2024-06.md |
 | art. 68, § 1º, alínea b | pas | 19957.010194/2019-07 | 2024-06-13 | parcial | cvm-pas-19957-010194-2019-07 | fichas/pas/2024-07.md |
+| art. 68, § 3º | decisao-colegiado | 19957.016195/2026-86 | 2026-10-27 | deferido | cvm-col-20261027-d3644 | fichas/colegiado/2026-03.md |
 | art. 68, § 3º | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
 | art. 68, § 3º | pas | RJ2003/5137 | 2006-03-29 | absolvicao | cvm-pas-rj2003-5137 | fichas/pas/2006-05.md |
 | art. 68, § 3º | pas | RJ2017/3455 | 2018-10-23 | absolvicao | cvm-pas-rj2017-3455 | fichas/pas/2018-16.md |
@@ -1897,6 +1900,7 @@ Citada sem dispositivo identificado (16517)
 | art. 68, § 3º, alínea a | acordao-crsfn | RJ-2003-5137 | 2010-10-27 | absolvicao | crsfn-11433 | fichas/crsfn/2010-09.md |
 | art. 68, § 3º, alínea a | pas | RJ2003/5137 | 2006-03-29 | absolvicao | cvm-pas-rj2003-5137 | fichas/pas/2006-05.md |
 | art. 68, § 3º, alínea d | decisao-colegiado | 19957.000040/2017-37 | 2017-02-21 | deferido | cvm-col-20170221-d0586 | fichas/colegiado/2017-05.md |
+| art. 68, § 3º, alínea d | decisao-colegiado | 19957.016195/2026-86 | 2026-10-27 | deferido | cvm-col-20261027-d3644 | fichas/colegiado/2026-03.md |
 | art. 68, § 4º | termo-compromisso | 19957.010194/2019-07 | 2021-04-06 | rejeitado | cvm-col-20210406-d1973 | fichas/tc/2021-02.md |
 | art. 68, § 4º | pas | RJ2017/3455 | 2018-10-23 | absolvicao | cvm-pas-rj2017-3455 | fichas/pas/2018-16.md |
 | art. 68, § 5º | decisao-colegiado | RJ2003/5400 | 2006-07-11 | deferido | cvm-col-20060711-d01 | fichas/colegiado/2006-10.md |
@@ -3862,7 +3866,7 @@ Citada sem dispositivo identificado (16517)
 | art. 120 | decisao-colegiado | 19957.010585/2024-81 | 2024-08-13 | deferido | cvm-col-20240813-d3115 | fichas/colegiado/2024-08.md |
 | art. 120 | decisao-colegiado | 19957.017480/2024-52 | 2024-10-18 | indeferido | cvm-col-20241018-d3159 | fichas/colegiado/2024-11.md |
 | art. 120 | decisao-colegiado | 19957.005983/2025-66 | 2025-06-10 | parcial | cvm-col-20250610-d3292 | fichas/colegiado/2025-05.md |
-| art. 120 | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-03.md |
+| art. 120 | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-04.md |
 | art. 120 | pas | 19957.009294/2017-11 | 2023-04-04 | condenacao | cvm-pas-19957-009294-2017-11 | fichas/pas/2023-02.md |
 
 ## art. 121
@@ -4024,7 +4028,7 @@ Citada sem dispositivo identificado (16517)
 | art. 123, parágrafo único | decisao-colegiado | 19957.010607/2018-64 | 2018-12-11 | indeferido | cvm-col-20181211-d1244 | fichas/colegiado/2018-21.md |
 | art. 123, parágrafo único | decisao-colegiado | 19957.005474/2020-29 | 2020-08-19 | indeferido | cvm-col-20200819-d1891 | fichas/colegiado/2020-13.md |
 | art. 123, parágrafo único | decisao-colegiado | 19957.015062/2022-69 | 2022-12-27 | indeferido | cvm-col-20221227-d2772 | fichas/colegiado/2022-18.md |
-| art. 123, parágrafo único | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-03.md |
+| art. 123, parágrafo único | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-04.md |
 | art. 123, parágrafo único | pas | RJ2002/1173 | 2003-10-02 | parcial | cvm-pas-rj2002-1173 | fichas/pas/2003-06.md |
 | art. 123, parágrafo único | pas | RJ2002/4311 | 2006-09-25 | condenacao | cvm-pas-rj2002-4311 | fichas/pas/2006-18.md |
 | art. 123, parágrafo único | pas | 19957.004416/2016-00 | 2023-05-30 | parcial | cvm-pas-19957-004416-2016-00 | fichas/pas/2023-05.md |
@@ -4067,7 +4071,7 @@ Citada sem dispositivo identificado (16517)
 | art. 123, parágrafo único, alínea c | termo-compromisso | 19957.011363/2024-85 | 2025-04-01 | rejeitado | cvm-col-20250401-d3241 | fichas/tc/2025-02.md |
 | art. 123, parágrafo único, alínea c | decisao-colegiado | 19957.014270/2023-21 | 2025-08-05 | nao-provido | cvm-col-20250805-d3155 | fichas/colegiado/2025-07.md |
 | art. 123, parágrafo único, alínea c | termo-compromisso | 19957.019653/2024-77 | 2025-10-07 | rejeitado | cvm-col-20251007-d3383 | fichas/tc/2025-04.md |
-| art. 123, parágrafo único, alínea c | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-03.md |
+| art. 123, parágrafo único, alínea c | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-04.md |
 | art. 123, parágrafo único, alínea c | pas | 39/2000 | 2005-01-19 | parcial | cvm-pas-39-2000 | fichas/pas/2005-01.md |
 | art. 123, parágrafo único, alínea c | pas | 09/2006 | 2013-03-05 | parcial | cvm-pas-09-2006 | fichas/pas/2013-02.md |
 | art. 123, parágrafo único, alínea c | pas | 19957.003434/2020-42 | 2023-09-19 | absolvicao | cvm-pas-19957-003434-2020-42 | fichas/pas/2023-10.md |
@@ -4222,7 +4226,7 @@ Citada sem dispositivo identificado (16517)
 | art. 124, § 1º, inciso II | decisao-colegiado | 19957.006603/2025-19; 19957.006664/2025-78 | 2025-06-16 | deferido | cvm-col-20250616-d3297 | fichas/colegiado/2025-05.md |
 | art. 124, § 1º, inciso II | decisao-colegiado | 19957.012301/2026-52 | 2026-07-24 | indeferido | cvm-col-20260724-d3583 | fichas/colegiado/2026-03.md |
 | art. 124, § 1º, inciso II | decisao-colegiado | 19957.015113/2026-86 | 2026-09-18 | indeferido | cvm-col-20260918-d3619 | fichas/colegiado/2026-03.md |
-| art. 124, § 1º, inciso II | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-03.md |
+| art. 124, § 1º, inciso II | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-04.md |
 | art. 124, § 1º, inciso II | pas | 15/2005 | 2006-11-29 | parcial | cvm-pas-15-2005 | fichas/pas/2006-26.md |
 | art. 124, § 1º, inciso II | pas | 19957.002348/2023-65 | 2024-01-30 | parcial | cvm-pas-19957-002348-2023-65 | fichas/pas/2024-01.md |
 | art. 124, § 2º | decisao-colegiado | 19957.003084/2020-14 | 2020-05-26 | deferido | cvm-col-20200526-d1819 | fichas/colegiado/2020-09.md |
@@ -4440,7 +4444,7 @@ Citada sem dispositivo identificado (16517)
 | art. 124, § 5º | decisao-colegiado | 19957.012499/2026-74 | 2026-07-28 | deferido | cvm-col-20260728-d3586 | fichas/colegiado/2026-03.md |
 | art. 124, § 5º | decisao-colegiado | 19957.014651/2026-53; 19957.014659/2026-10 | 2026-09-11 | indeferido | cvm-col-20260911-d3611 | fichas/colegiado/2026-03.md |
 | art. 124, § 5º | decisao-colegiado | 19957.015113/2026-86 | 2026-09-18 | indeferido | cvm-col-20260918-d3619 | fichas/colegiado/2026-03.md |
-| art. 124, § 5º | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-03.md |
+| art. 124, § 5º | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-04.md |
 | art. 124, § 5º | pas | RJ2008/1815 | 2009-04-28 | parcial | cvm-pas-rj2008-1815 | fichas/pas/2009-03.md |
 | art. 124, § 5º, inciso I | decisao-colegiado | RJ2002/5635 | 2002-08-05 | indeferido | cvm-col-20020805-d01 | fichas/colegiado/2002-19.md |
 | art. 124, § 5º, inciso I | decisao-colegiado | RJ2002/5907 | 2002-08-13 | indeferido | cvm-col-20020813-d07 | fichas/colegiado/2002-20.md |
@@ -4508,7 +4512,7 @@ Citada sem dispositivo identificado (16517)
 | art. 124, § 5º, inciso I | decisao-colegiado | 19957.012499/2026-74 | 2026-07-28 | deferido | cvm-col-20260728-d3586 | fichas/colegiado/2026-03.md |
 | art. 124, § 5º, inciso I | decisao-colegiado | 19957.014651/2026-53; 19957.014659/2026-10 | 2026-09-11 | indeferido | cvm-col-20260911-d3611 | fichas/colegiado/2026-03.md |
 | art. 124, § 5º, inciso I | decisao-colegiado | 19957.015113/2026-86 | 2026-09-18 | indeferido | cvm-col-20260918-d3619 | fichas/colegiado/2026-03.md |
-| art. 124, § 5º, inciso I | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-03.md |
+| art. 124, § 5º, inciso I | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-04.md |
 | art. 124, § 5º, inciso II | acordao-crsfn | RJ-2005-1443 | 2011-08-30 | parcial | crsfn-11089 | fichas/crsfn/2011-03.md |
 | art. 124, § 5º, inciso II | acordao-crsfn | RJ-2012-4062 | 2017-09-19 | parcial | crsfn-13934 | fichas/crsfn/2017-12.md |
 | art. 124, § 5º, inciso II | decisao-colegiado | RJ2002/2854 | 2002-04-22 | deferido | cvm-col-20020422-d01 | fichas/colegiado/2002-09.md |
@@ -4643,7 +4647,7 @@ Citada sem dispositivo identificado (16517)
 | art. 124, § 5º, inciso II | decisao-colegiado | 19957.012301/2026-52 | 2026-07-24 | indeferido | cvm-col-20260724-d3583 | fichas/colegiado/2026-03.md |
 | art. 124, § 5º, inciso II | decisao-colegiado | 19957.014651/2026-53; 19957.014659/2026-10 | 2026-09-11 | indeferido | cvm-col-20260911-d3611 | fichas/colegiado/2026-03.md |
 | art. 124, § 5º, inciso II | decisao-colegiado | 19957.015113/2026-86 | 2026-09-18 | indeferido | cvm-col-20260918-d3619 | fichas/colegiado/2026-03.md |
-| art. 124, § 5º, inciso II | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-03.md |
+| art. 124, § 5º, inciso II | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-04.md |
 | art. 124, § 5º, inciso II | pas | RJ2005/033 | 2005-10-05 | parcial | cvm-pas-rj2005-0033 | fichas/pas/2005-13.md |
 | art. 124, § 5º, inciso II | pas | RJ2005/1443 | 2006-05-10 | parcial | cvm-pas-rj2005-1443 | fichas/pas/2006-09.md |
 | art. 124, § 5º, inciso II | pas | RJ2012/4062 | 2013-12-17 | parcial | cvm-pas-rj2012-4062 | fichas/pas/2013-15.md |
@@ -6511,7 +6515,7 @@ Citada sem dispositivo identificado (16517)
 | art. 134, § 3º | acordao-crsfn | 19957.013476/2024-15 | 2025-12-02 | condenacao | crsfn-19957-013476-2024-15 | fichas/crsfn/2025-07.md |
 | art. 134, § 3º | decisao-colegiado | 19957.005474/2020-29 | 2020-08-19 | indeferido | cvm-col-20200819-d1891 | fichas/colegiado/2020-13.md |
 | art. 134, § 3º | termo-compromisso | 19957.004598/2020-9 | 2021-12-07 | aceito | cvm-col-20211207-d2420 | fichas/tc/2021-08.md |
-| art. 134, § 3º | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-03.md |
+| art. 134, § 3º | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-04.md |
 | art. 134, § 3º | pas | RJ2002/1846 | 2004-07-08 | absolvicao | cvm-pas-rj2002-1846 | fichas/pas/2004-06.md |
 | art. 134, § 3º | pas | SP2002/0197 | 2004-06-24 | parcial | cvm-pas-sp2002-0197 | fichas/pas/2004-05.md |
 | art. 134, § 3º | pas | 10/2006 | 2011-08-16 | absolvicao | cvm-pas-10-2006 | fichas/pas/2011-03.md |
@@ -8416,7 +8420,7 @@ Citada sem dispositivo identificado (16517)
 | art. 152 | termo-compromisso | 19957.004207/2021-15 | 2024-04-30 | rejeitado | cvm-col-20240430-d3056 | fichas/tc/2024-02.md |
 | art. 152 | termo-compromisso | 19957.015037/2023-66 | 2025-01-28 | rejeitado | cvm-col-20250128-d3200 | fichas/tc/2025-01.md |
 | art. 152 | decisao-colegiado | 19957.001758/2024-70 | 2025-04-01 | parcial | cvm-col-20250401-d3129 | fichas/colegiado/2025-03.md |
-| art. 152 | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-03.md |
+| art. 152 | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-04.md |
 | art. 152 | decisao-antiga | — | 1984-01-05 | — | cvm-dec-1984-0001 | fichas/decisoes-antigas/1984-04.md |
 | art. 152 | decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
 | art. 152 | pas | RJ2000/6479 | 2003-06-05 | parcial | cvm-pas-rj2000-6479 | fichas/pas/2003-03.md |
@@ -8797,7 +8801,7 @@ Citada sem dispositivo identificado (16517)
 | art. 153 | decisao-colegiado | 19957.003343/2025-11 | 2026-03-24 | parcial | cvm-col-20260324-d3438 | fichas/colegiado/2026-01.md |
 | art. 153 | decisao-colegiado | 19957.006217/2026-08 | 2026-04-28 | indeferido | cvm-col-20260428-d3526 | fichas/colegiado/2026-02.md |
 | art. 153 | termo-compromisso | 19957.002545/2023-84 | 2026-05-12 | rejeitado | cvm-col-20260512-d3391 | fichas/tc/2026-01.md |
-| art. 153 | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-03.md |
+| art. 153 | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-04.md |
 | art. 153 | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
 | art. 153 | pas | 05/1998 | 1999-07-08 | outro | cvm-pas-05-1998 | fichas/pas/1999.md |
 | art. 153 | pas | 01/1998 | 2000-08-07 | parcial | cvm-pas-01-1998 | fichas/pas/2000-02.md |
@@ -9244,7 +9248,7 @@ Citada sem dispositivo identificado (16517)
 | art. 154 | termo-compromisso | 19957.003748/2021-26 | 2025-09-16 | aceito | cvm-col-20250916-d3051 | fichas/tc/2025-04.md |
 | art. 154 | decisao-colegiado | 19957.003343/2025-11 | 2026-03-24 | parcial | cvm-col-20260324-d3438 | fichas/colegiado/2026-01.md |
 | art. 154 | decisao-colegiado | 19957.006217/2026-08 | 2026-04-28 | indeferido | cvm-col-20260428-d3526 | fichas/colegiado/2026-02.md |
-| art. 154 | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-03.md |
+| art. 154 | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-04.md |
 | art. 154 | decisao-antiga | — | 1994-01-04 | — | cvm-dec-1994-0001 | fichas/decisoes-antigas/1994-05.md |
 | art. 154 | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
 | art. 154 | pas | 05/1999 | 2000-11-23 | condenacao | cvm-pas-05-1999 | fichas/pas/2000-05.md |
@@ -9695,7 +9699,7 @@ Citada sem dispositivo identificado (16517)
 | art. 155 | decisao-colegiado | 19957.001830/2021-16; 19957.019092/2024-14 | 2024-12-17 | nao-provido | cvm-col-20241217-d2938 | fichas/colegiado/2024-14.md |
 | art. 155 | termo-compromisso | 19957.005597/2021-41 | 2025-02-18 | rejeitado | cvm-col-20250218-d3151 | fichas/tc/2025-01.md |
 | art. 155 | termo-compromisso | 19957.003748/2021-26 | 2025-09-16 | aceito | cvm-col-20250916-d3051 | fichas/tc/2025-04.md |
-| art. 155 | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-03.md |
+| art. 155 | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-04.md |
 | art. 155 | pas | 01/1998 | 2000-08-07 | parcial | cvm-pas-01-1998 | fichas/pas/2000-02.md |
 | art. 155 | pas | RJ2001/1950 | 2001-12-12 | absolvicao | cvm-pas-rj2001-1950 | fichas/pas/2001-09.md |
 | art. 155 | pas | 04/1999 | 2002-04-17 | parcial | cvm-pas-04-1999 | fichas/pas/2002-02.md |
@@ -10368,7 +10372,7 @@ Citada sem dispositivo identificado (16517)
 | art. 156 | decisao-colegiado | 19957.009400/2025-76 | 2025-08-20 | indeferido | cvm-col-20250820-d3344 | fichas/colegiado/2025-08.md |
 | art. 156 | decisao-colegiado | 19957.003343/2025-11 | 2026-03-24 | parcial | cvm-col-20260324-d3438 | fichas/colegiado/2026-01.md |
 | art. 156 | termo-compromisso | 19957.002545/2023-84 | 2026-05-12 | rejeitado | cvm-col-20260512-d3391 | fichas/tc/2026-01.md |
-| art. 156 | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-03.md |
+| art. 156 | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-04.md |
 | art. 156 | pas | 25/1998 | 2001-12-12 | parcial | cvm-pas-25-1998 | fichas/pas/2001-08.md |
 | art. 156 | pas | 32/2000 | 2001-10-10 | condenacao | cvm-pas-32-2000 | fichas/pas/2001-06.md |
 | art. 156 | pas | 04/1999 | 2002-04-17 | parcial | cvm-pas-04-1999 | fichas/pas/2002-02.md |
@@ -11291,7 +11295,7 @@ Citada sem dispositivo identificado (16517)
 | art. 159, § 2º | decisao-colegiado | 19957.007563/2017-12 | 2017-08-29 | indeferido | cvm-col-20170829-d0788 | fichas/colegiado/2017-15.md |
 | art. 159, § 2º | decisao-colegiado | 19957.015062/2022-69 | 2022-12-27 | indeferido | cvm-col-20221227-d2772 | fichas/colegiado/2022-18.md |
 | art. 159, § 2º | decisao-colegiado | 19957.007423/2021-12 | 2023-02-28 | nao-provido | cvm-col-20230228-d2672 | fichas/colegiado/2023-03.md |
-| art. 159, § 2º | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-03.md |
+| art. 159, § 2º | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-04.md |
 | art. 159, § 2º | pas | 19957.008172/2021-93 | 2023-09-05 | absolvicao | cvm-pas-19957-008172-2021-93 | fichas/pas/2023-10.md |
 | art. 159, § 2º | pas | 19957.011669/2017-11 | 2023-09-19 | absolvicao | cvm-pas-19957-011669-2017-11 | fichas/pas/2023-11.md |
 | art. 159, § 3º | acordao-crsfn | RJ-2017/565 | 2021-04-13 | condenacao | crsfn-10372-100339-2018-78 | fichas/crsfn/2021-01.md |
@@ -11994,7 +11998,7 @@ Citada sem dispositivo identificado (16517)
 | art. 166, inciso II | termo-compromisso | 19957.005983/2019-18 | 2020-04-14 | outro | cvm-col-20200414-d1675 | fichas/tc/2020-03.md |
 | art. 166, inciso II | termo-compromisso | 19957.005983/2019-18 | 2020-07-28 | rejeitado | cvm-col-20200728-d1675 | fichas/tc/2020-05.md |
 | art. 166, inciso II | pas | RJ2012/13605 | 2016-08-23 | parcial | cvm-pas-rj2012-13605 | fichas/pas/2016-05.md |
-| art. 166, inciso III | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-03.md |
+| art. 166, inciso III | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-04.md |
 | art. 166, inciso III | pas | 19957.008378/2023-85 | 2024-12-18 | absolvicao | cvm-pas-19957-008378-2023-85 | fichas/pas/2024-23.md |
 | art. 166, inciso IV | decisao-colegiado | RJ2014/4196; RJ2014/4197; RJ2014/4198; RJ2014/4199; RJ2014/4298 | 2014-04-28 | indeferido | cvm-col-20140428-d01 | fichas/colegiado/2014-07.md |
 | art. 166, § 2º | acordao-crsfn | RJ2015/8673 | 2021-09-14 | parcial | crsfn-10372-100037-2018-08 | fichas/crsfn/2021-04.md |
@@ -16419,7 +16423,7 @@ Citada sem dispositivo identificado (16517)
 | art. 291 | decisao-colegiado | RJ2016/4098; 19957.009411/2017-46 | 2019-04-02 | outro | cvm-col-20190402-d0205-0847 | fichas/colegiado/2019-05.md |
 | art. 291 | decisao-colegiado | — | 2019-10-08 | outro | cvm-col-20191008-d1566 | fichas/colegiado/2019-16.md |
 | art. 291 | decisao-colegiado | 07/2019; 19957.009455/2019-38 | 2020-06-05 | outro | cvm-col-20200605-d1566 | fichas/colegiado/2020-09.md |
-| art. 291 | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-03.md |
+| art. 291 | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | cvm-col-20261103-d3649 | fichas/colegiado/2026-04.md |
 | art. 291 | decisao-antiga | — | 1990-01-03 | — | cvm-dec-1990-0001 | fichas/decisoes-antigas/1990-06.md |
 | art. 291 | pas | RJ2005/033 | 2005-10-05 | parcial | cvm-pas-rj2005-0033 | fichas/pas/2005-13.md |
 | art. 291 | pas | 19957.008172/2021-93 | 2023-09-05 | absolvicao | cvm-pas-19957-008172-2021-93 | fichas/pas/2023-10.md |

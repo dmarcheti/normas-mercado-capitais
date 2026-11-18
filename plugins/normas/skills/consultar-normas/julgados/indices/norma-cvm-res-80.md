@@ -9,19 +9,19 @@ Norma: [cvm/resolucoes/0080.md](../../normas/cvm/resolucoes/0080.md) (texto vige
 
 ## Sumário
 
-Este subíndice tem 723 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+Este subíndice tem 724 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
 
 art. 1º (26); art. 2º (32); art. 3º (38); art. 5º (48); art. 6º (60); art. 7º (72); art. 7º-B (78)
 art. 11 (84); art. 13 (90); art. 14 (96); art. 15 (107); art. 16 (132); art. 17 (141); art. 18 (151)
 art. 19 (158); art. 20 (165); art. 21 (172); art. 22 (179); art. 24 (205); art. 25 (222); art. 26 (244)
-art. 27 (251); art. 28 (270); art. 29 (278); art. 30 (285); art. 31 (297); art. 33 (323); art. 36 (358)
-art. 40 (364); art. 41 (370); art. 42 (376); art. 43 (387); art. 44 (393); art. 46 (400); art. 48 (407)
-art. 49 (417); art. 50 (437); art. 51 (445); art. 52 (455); art. 53 (462); art. 55 (470); art. 57 (478)
-art. 58 (491); art. 59 (502); art. 60 (515); art. 61 (527); art. 62 (536); art. 63 (542); art. 65 (548)
-art. 67 (566); art. 485 (574); Anexo A, art. 1º (581); Anexo A, art. 2º (590); Anexo F, art. 1º (598)
-Anexo F, art. 2º-A (605); Anexo J, art. 1º (611); Anexo J, art. 2º (619); Anexo J, art. 3º (625)
-Anexo J, art. 5º (639); Anexo K, art. 2º (645); Anexo K, art. 3º (653); Anexo K, art. 6º (659)
-Anexo I, art. 1º (667); Anexo I, art. 2º (673); Citada sem dispositivo identificado (682)
+art. 27 (251); art. 28 (270); art. 29 (278); art. 30 (285); art. 31 (297); art. 33 (324); art. 36 (359)
+art. 40 (365); art. 41 (371); art. 42 (377); art. 43 (388); art. 44 (394); art. 46 (401); art. 48 (408)
+art. 49 (418); art. 50 (438); art. 51 (446); art. 52 (456); art. 53 (463); art. 55 (471); art. 57 (479)
+art. 58 (492); art. 59 (503); art. 60 (516); art. 61 (528); art. 62 (537); art. 63 (543); art. 65 (549)
+art. 67 (567); art. 485 (575); Anexo A, art. 1º (582); Anexo A, art. 2º (591); Anexo F, art. 1º (599)
+Anexo F, art. 2º-A (606); Anexo J, art. 1º (612); Anexo J, art. 2º (620); Anexo J, art. 3º (626)
+Anexo J, art. 5º (640); Anexo K, art. 2º (646); Anexo K, art. 3º (654); Anexo K, art. 6º (660)
+Anexo I, art. 1º (668); Anexo I, art. 2º (674); Citada sem dispositivo identificado (683)
 
 ## art. 1º
 
@@ -314,6 +314,7 @@ Anexo I, art. 1º (667); Anexo I, art. 2º (673); Citada sem dispositivo identif
 | art. 31, inciso II | termo-compromisso | 19957.000073/2024-14 | 2024-10-22 | aceito | cvm-col-20241022-d3160 | fichas/tc/2024-06.md |
 | art. 31, inciso II | termo-compromisso | 19957.003639/2024-51 | 2025-02-25 | rejeitado | cvm-col-20250225-d3229 | fichas/tc/2025-01.md |
 | art. 31, inciso II | termo-compromisso | 19957.002327/2025-10 | 2026-03-31 | outro | cvm-col-20260331-d3406 | fichas/tc/2026-01.md |
+| art. 31, inciso II | decisao-colegiado | 19957.018203/2026-29 | 2026-11-16 | deferido | cvm-col-20261116-d3662 | fichas/colegiado/2026-04.md |
 | art. 31, inciso II | pas | 19957.002348/2023-65 | 2024-01-30 | parcial | cvm-pas-19957-002348-2023-65 | fichas/pas/2024-01.md |
 | art. 31, inciso II | pas | 19957.014716/2023-18 | 2024-12-17 | condenacao | cvm-pas-19957-014716-2023-18 | fichas/pas/2024-22.md |
 | art. 31, inciso II | pas | 19957.001044/2025-42 | 2026-07-14 | parcial | cvm-pas-19957-001044-2025-42 | fichas/pas/2026-02.md |

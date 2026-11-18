@@ -9,7 +9,7 @@ Norma: fora do acervo.
 
 ## Sumário
 
-Este subíndice tem 634 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+Este subíndice tem 635 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
 
 | Seção | Linha |
 |---|---|
@@ -506,6 +506,7 @@ Este subíndice tem 634 linhas e uma leitura única é cortada em silêncio pert
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
+| decisao-colegiado | 19957.016195/2026-86 | 2026-10-27 | deferido | cvm-col-20261027-d3644 | fichas/colegiado/2026-03.md |
 | decisao-colegiado | 19957.000952/2023-57 | 2026-05-06 | nao-provido | cvm-col-20260506-d3518 | fichas/colegiado/2026-02.md |
 | decisao-colegiado | 19957.001127/2025-31 | 2025-12-09 | nao-provido | cvm-col-20251209-d3360 | fichas/colegiado/2025-12.md |
 | decisao-colegiado | 19957.007009/2025-37 | 2025-08-26 | deferido | cvm-col-20250826-d3347 | fichas/colegiado/2025-08.md |

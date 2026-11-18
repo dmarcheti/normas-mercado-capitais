@@ -3,7 +3,7 @@ id: anbima-regras-e-procedimentos-de-deveres-basicos
 orgao: anbima
 tipo: regras-procedimentos
 numero:
-data: 2025-03-31
+data: 2027-01-04
 publicacao_dou:
 ementa: Regras e Procedimentos de Deveres Básicos
 situacao: vigente
@@ -11,12 +11,12 @@ versao_texto: original
 vigente_ate_ato:
 aguarda_consolidado_oficial: false
 historico_parcial: true
-fonte_original: https://www.anbima.com.br/data/files/61/B3/06/B3/EBEA591036202959B82BA2A8/6.%20Regras%20e%20Procedimentos%20de%20Deveres%20Basicos_v_25_02_2025.pdf
-fonte_consolidada: https://www.anbima.com.br/data/files/61/B3/06/B3/EBEA591036202959B82BA2A8/6.%20Regras%20e%20Procedimentos%20de%20Deveres%20Basicos_v_25_02_2025.pdf
-sha256_fonte: ba9ec31564ea93cf3b38db292dadcd78be76730efb4d1872c76ebb1c5b1dd8de
-baixado_em: 2026-10-29
-verificado_em: 2026-10-29
-incerteza: Documento de autorregulação da ANBIMA (vigente a partir de 2025-03-31, segundo a página da entidade), extraído por script do PDF, data-base 2026-10-29. Vincula só as instituições aderentes ou participantes. Texto de titularidade da ANBIMA, reproduzido para uso informativo; retirado a pedido (ver autorregulacao/README.md). Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A página final de registro das assinaturas eletrônicas do PDF (nomes, e-mails, IP e localização dos signatários) foi retirada; a validação das assinaturas é feita no PDF oficial.
+fonte_original: https://www.anbima.com.br/data/files/31/84/E4/A8/494E1A103AD8EA1A692BA2A8/RP_de_Deveres_Basicos_04_01_2027.PDF
+fonte_consolidada: https://www.anbima.com.br/data/files/31/84/E4/A8/494E1A103AD8EA1A692BA2A8/RP_de_Deveres_Basicos_04_01_2027.PDF
+sha256_fonte: ef63cc5642760a54f7753171dc8e8499c11e4e873a57dbcbf51d4a4e20f99fa9
+baixado_em: 2026-11-18
+verificado_em: 2026-11-18
+incerteza: Documento de autorregulação da ANBIMA (vigente a partir de 2027-01-04, segundo a página da entidade), extraído por script do PDF, data-base 2026-11-18. Vincula só as instituições aderentes ou participantes. Texto de titularidade da ANBIMA, reproduzido para uso informativo; retirado a pedido (ver autorregulacao/README.md). Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A página final de registro das assinaturas eletrônicas do PDF (nomes, e-mails, IP e localização dos signatários) foi retirada; a validação das assinaturas é feita no PDF oficial.
 nivel_verificacao: pdf-extraido
 ---
 
@@ -36,39 +36,41 @@ SEÇÃO I – AMBIENTES DE CONTROLES ...........................................
 
 SEÇÃO II – SEGREGAÇÃO DE ATIVIDADES ................................................................................ 7
 
-SEÇÃO III – PRIVACIDADE E PROTEÇÃO DE DADOS PESSOAIS ................................................. 8
+SEÇÃO III – PRIVACIDADE E PROTEÇÃO DE DADOS PESSOAIS ................................................. 7
 
-SEÇÃO IV – PLANO DE CONTINUIDADE DE NEGÓCIOS ............................................................ 9
+SEÇÃO IV – PLANO DE CONTINUIDADE DE NEGÓCIOS ............................................................ 8
 
 SEÇÃO V – SEGURANÇA DA INFORMAÇÃO .............................................................................. 9
 
-SEÇÃO VI – SEGURANÇA CIBERNÉTICA .................................................................................. 10
+SEÇÃO VI – CONTRATAÇÃO DE TERCEIROS ............................................................................ 10
 
-SEÇÃO VII – REGRAS GERAIS .................................................................................................. 12
+SEÇÃO VII – SEGURANÇA CIBERNÉTICA ................................................................................. 12
 
-TÍTULO III – REGRAS PARA USO DOS SELOS ANBIMA ............................................................ 13
+SEÇÃO VIII – REGRAS GERAIS ................................................................................................. 14
 
-CAPÍTULO III – REGRAS GERAIS .............................................................................................. 13
+TÍTULO III – REGRAS PARA USO DOS SELOS ANBIMA ............................................................ 15
 
-CAPÍTULO IV – USO DOS SELOS.............................................................................................. 14
+CAPÍTULO III – REGRAS GERAIS .............................................................................................. 15
 
-SEÇÃO I – USO OBRIGATÓRIO DOS SELOS ANBIMA .............................................................. 14
+CAPÍTULO IV – USO DOS SELOS.............................................................................................. 17
 
-SUBSEÇÃO II – CÓDIGO DE DISTRIBUIÇÃO............................................................................. 17
+SUBSEÇÃO I – CÓDIGO DE DISTRIBUIÇÃO.............................................................................. 18
 
-SUBSEÇÃO III – CÓDIGO DE OFERTAS PÚBLICAS ................................................................... 17
+SUBSEÇÃO II – CÓDIGO DE OFERTAS PÚBLICAS .................................................................... 18
 
-SUBSEÇÃO IV – CÓDIGO DE RECURSOS DE TERCEIROS ......................................................... 19
+SUBSEÇÃO III – CÓDIGO DE AGRT .......................................................................................... 20
 
-SUBSEÇÃO V – CÓDIGO DE SERVIÇOS QUALIFICADOS .......................................................... 20
+SUBSEÇÃO IV – CÓDIGO DE SERVIÇOS QUALIFICADOS ......................................................... 22
 
-SEÇÃO II – PROIBIÇÃO TEMPORÁRIA DO USO DOS SELOS ANBIMA...................................... 21
+SEÇÃO II – PROIBIÇÃO TEMPORÁRIA DO USO DOS SELOS ANBIMA...................................... 22
 
-TÍTULO IV – DISPOSIÇÕES GERAIS .......................................................................................... 21
+TÍTULO IV – DISPOSIÇÕES GERAIS .......................................................................................... 23
 
-CAPÍTULO V – PENALIDADES .................................................................................................. 21
+CAPÍTULO V – POLÍTICAS, REGRAS, PROCEDIMENTOS E CONTROLES INTERNOS ................. 23
 
-CAPÍTULO VI – DISPOSIÇÕES FINAIS ...................................................................................... 22
+CAPÍTULO VI – PENALIDADES ................................................................................................. 24
+
+CAPÍTULO VII – DISPOSIÇÕES FINAIS ..................................................................................... 24
 
 2
 
@@ -76,7 +78,7 @@ INTRODUÇÃO
 
 Estas Regras e Procedimentos de Deveres Básicos para as Instituições Participantes, aprovadas por
 
-todos os Fóruns de Representação de Mercados da ANBIMA, dispõem sobre as regras de Selos
+todos os Fóruns de Representação de Mercados da Anbima, dispõem sobre as regras de Selos
 
 ANBIMA e as regras estruturais, quais sejam: (a) ambientes de controles; (b) segregação de
 
@@ -86,15 +88,15 @@ segurança da informação e (f) segurança cibernética.
 
 Estas Regras e Procedimentos são consideradas transversais, visto que se aplicam a todos os Códigos
 
-ANBIMA e suas respectivas atividades. De modo a facilitar a consulta pelo mercado e evitar
+Anbima e suas respectivas atividades. De modo a facilitar a consulta pelo mercado e evitar
 
 assimetria autorregulatória, incluímos estas regras e procedimentos em um único documento. As
 
-instituições participantes, ao aderirem aos Códigos ANBIMA, passam a aderir automaticamente à
+Instituições Participantes, ao aderirem aos Códigos Anbima, passam a aderir automaticamente à
 
 estas regras e procedimentos.
 
-A ANBIMA, autorreguladora privada, tem competência para supervisionar apenas o disposto
+A Anbima, autorreguladora privada, tem competência para supervisionar apenas o disposto
 
 expressamente nestas regras e procedimentos, não estendendo, portanto, sua atuação às regras
 
@@ -104,9 +106,13 @@ previstas nas normas regulamentares1. No decorrer deste documento fazemos refer�
 
 instituições estejam cientes que além das regras de autorregulação aqui previstas há,
 
-adicionalmente, normas regulamentares a serem observadas em função de suas atividades.
+adicionalmente, normas regulamentares a serem observadas em função de suas atividades. Por
 
-1 Tais como, Leis, Resoluções da Comissão de Valores Mobiliários e do Banco Central do Brasil.
+fim, os termos e expressões utilizadas nestas Regras e Procedimentos, quando aplicável, terão os
+
+respectivos significados a eles atribuídos no Glossário Anbima, disponível no site da Associação.
+
+1 Tais como Leis e Resoluções da CVM e do BCB.
 
 3
 
@@ -120,19 +126,21 @@ CAPÍTULO I – OBJETIVO E ABRANGÊNCIA
 
 uso dos Selos ANBIMA e para atendimento aos deveres básicos e à manutenção das estruturas
 
-internas mínimas que devem ser observadas por todas as instituições participantes que
+internas mínimas que devem ser observadas por todas as Instituições Participantes que
 
-desempenham as atividades previstas nos Códigos ANBIMA.
+desempenham as atividades previstas nos Códigos Anbima.
 
-§1º. As instituições participantes devem assegurar que este normativo seja também
+§1º. As Instituições Participantes devem assegurar que este normativo seja também aderido
 
-observado por todos os integrantes de seu grupo econômico que estejam autorizados, no Brasil, a
+por todos os integrantes de seu Conglomerado e/ou Grupo Econômico que estejam autorizados, no
 
-desempenhar o exercício profissional das atividades referidas no caput.
+Brasil, a desempenhar o exercício profissional das atividades referidas no caput.
 
-§2º. A obrigação prevista no parágrafo acima não implica o reconhecimento, por parte das
+§2º
 
-instituições participantes, da existência de qualquer modalidade de assunção, solidariedade ou
+. A obrigação prevista no parágrafo acima não implica o reconhecimento, por parte das
+
+Instituições Participantes, da existência de qualquer modalidade de assunção, solidariedade ou
 
 transferência de responsabilidade entre estes integrantes, embora todas as referidas entidades
 
@@ -140,33 +148,33 @@ estejam sujeitas aos princípios estabelecidos pelo presente normativo.
 
 ## Art. 2º
 
-As instituições participantes submetidas à ação reguladora e fiscalizadora do Conselho
+As Instituições Participantes submetidas à ação reguladora e fiscalizadora do Conselho
 
 Monetário Nacional, do BC e da CVM, concordam, expressamente, que as atividades autorreguladas
 
-pelos Códigos ANBIMA excedem o limite de simples observância da regulação que lhes são
+pelos Códigos Anbima excedem o limite de simples observância da regulação que lhes são aplicáveis,
 
-aplicáveis, devendo, dessa forma, submeter-se também aos procedimentos estabelecidos por este
+devendo, dessa forma, submeter-se também aos procedimentos estabelecidos por estas Regras e
 
-normativo e pelos Códigos ANBIMA específicos de suas atividades.
+Procedimentos e pelos Códigos Anbima específicos de suas atividades.
 
 ## Art. 3º
 
 O presente normativo não se sobrepõe à regulação vigente e/ou aos Códigos ANBIMA,
 
-portanto, caso haja contradição entre as regras estabelecidas neste normativo e nos Códigos
+portanto, caso haja contradição entre as regras estabelecidas nestas Regras e Procedimentos e nos
 
-ANBIMA e a regulação em vigor, a disposição contrária deste normativo deve ser desconsiderada,
+Códigos Anbima e a regulação em vigor, a disposição contrária destas Regras e Procedimentos deve
 
-sem prejuízo das demais regras nele previstas.
+ser desconsiderada, sem prejuízo das demais regras nele previstas.
 
 4
 
-Parágrafo único. Os deveres e responsabilidades atribuídos às instituições participantes que
+Parágrafo único. Os deveres e responsabilidades atribuídos às Instituições Participantes que
 
-desempenham as atividades previstas nos Códigos ANBIMA se estendem, igualmente, em relação
+desempenham as atividades previstas nos Códigos Anbima se estendem, igualmente, em relação ao
 
-ao disposto nas regras e procedimentos aplicáveis a cada uma dessas atividades.
+disposto nas regras e procedimentos aplicáveis a cada uma dessas atividades.
 
 TÍTULO II – DEVERES BÁSICOS DAS INSTITUIÇÕES PARTICIPANTES
 
@@ -174,25 +182,19 @@ CAPÍTULO II – REGRAS ESTRUTURAIS
 
 ## Art. 4º
 
-. O conteúdo dos documentos exigidos neste capítulo pode constar de um único
+. O conteúdo dos documentos exigidos neste Capítulo pode constar de um único documento,
 
-documento, inclusive por grupo econômico, desde que haja clareza a respeito dos procedimentos
+inclusive por Conglomerado e/ou Grupo Econômico, desde que haja clareza a respeito dos
 
-e das regras exigidos em cada seção.
+procedimentos e das regras exigidos em cada seção e observar as condições específicas
 
-Parágrafo único. As instituições participantes devem revisar os documentos escritos exigidos
-
-por este capítulo, assim como as regras, os procedimentos, controles internos e monitoramentos
-
-em prazo não superior a 24 (vinte e quatro) meses ou em prazo inferior se exigido pela regulação,
-
-e, caso necessário, realizar a atualização.
+estabelecidas no artigo 13.
 
 Seção I – Ambientes de controles
 
 ## Art. 5º
 
-As instituições participantes devem possuir estruturas de controles internos e de
+As Instituições Participantes devem possuir estruturas de controles internos e de
 
 compliance que sejam efetivas, consistentes e compatíveis com a sua natureza, o seu porte, a sua
 
@@ -200,29 +202,29 @@ complexidade, o seu perfil de risco, o risco das operações realizadas e o seu 
 
 §1º. As estruturas de controles internos e de compliance de que trata o caput podem ser
 
-desempenhadas pelas instituições participantes em conjunto, na mesma estrutura, ou por unidades
+desempenhadas pelas Instituições Participantes em conjunto, na mesma estrutura, ou por unidades
 
 específicas.
 
 §2º. A(s) área(s) a que se refere o parágrafo anterior deve(m):
 
+I. II. Ser independente(s) das áreas que possam limitar sua autonomia e autoridade para
+
+questionar os riscos assumidos nas operações realizadas pelas Instituições Participantes,
+
+observado o artigo 8º destas Regras e Procedimentos;
+
+Ter livre acesso às informações necessárias para o exercício de suas atribuições;
+
 5
 
-I. II. III. IV. V. VI. ser independente(s) das áreas que possam limitar sua autonomia e autoridade para
-
-questionar os riscos assumidos nas operações realizadas pelas instituições participantes,
-
-observado o artigo 8º deste normativo;
-
-ter livre acesso às informações necessárias para o exercício de suas atribuições;
-
-ter colaboradores em quantidade suficiente, observado o disposto no caput, com
+III. IV. V. VI. Ter colaboradores em quantidade suficiente, observado o disposto no caput, com
 
 experiência necessária para o exercício das atividades relacionadas à função de controles
 
 internos e compliance;
 
-definir as áreas e/ou os profissionais responsáveis por assegurar o cumprimento das
+Definir as áreas e/ou os profissionais responsáveis por assegurar o cumprimento das
 
 obrigações previstas em cada seção e ter profissionais com a experiência necessária para
 
@@ -230,29 +232,29 @@ o exercício das atividades relacionadas à função de controles internos e com
 
 responsáveis por assegurar o cumprimento das obrigações previstas em cada seção, sem
 
-prejuízo do disposto no artigo 6º abaixo.
+prejuízo do disposto no artigo 6º abaixo;
 
-ter comunicação direta com a diretoria ou órgão equivalente, conforme aplicável, para
+Ter comunicação direta com a diretoria ou órgão equivalente, conforme aplicável, para
 
 relatar os resultados decorrentes das atividades relacionadas à função de controles
 
-internos e de compliance, incluindo possíveis irregularidades ou falhas identificadas.
+internos e de compliance, incluindo possíveis irregularidades ou falhas identificadas; e
 
-Conceder a seus colaboradores acesso regular à capacitação e conscientização sobre a
+Conceder a seus colaboradores acesso regular à capacitação e conscientização sobre as
 
 atividades relacionadas à função de controles internos e compliance.
 
 ## Art. 6º
 
-As instituições participantes devem implementar e manter, em documento escrito, regras
+As Instituições Participantes devem implementar e manter, em documento escrito, regras
 
-e procedimentos referentes as atividades de controles internos e de compliance que contenham,
+e procedimentos referentes às atividades de controles internos e de compliance que contenham,
 
 no mínimo:
 
-I. II. o objetivo e o escopo da função de controles internos e de compliance;
+I. II. III. IV. O objetivo e o escopo da função de controles internos e de compliance;
 
-o processo adotado para que as políticas e as demais regras internas relacionadas a
+O processo adotado para que as políticas e as demais regras internas relacionadas a
 
 controles internos e compliance sejam acessíveis a todos os profissionais de forma a
 
@@ -260,27 +262,27 @@ assegurar que os procedimentos e as responsabilidades atribuídas aos diversos n
 
 organização sejam conhecidos;
 
-6
-
-III. IV. a divisão clara das responsabilidades dos profissionais envolvidos na função de controles
+A divisão clara das responsabilidades dos profissionais envolvidos na função de controles
 
 internos e compliance da responsabilidade das demais áreas das instituições, de modo a
 
 evitar possíveis conflitos de interesses; e
 
-as medidas adotadas para garantir a independência e a adequada autoridade aos
+As medidas adotadas para garantir a independência e a adequada autoridade aos
 
 responsáveis pela função de controles internos e compliance nas instituições.
 
+6
+
 ## Art. 7º
 
-. As instituições participantes devem atribuir a responsabilidade pelos controles internos e
+. As Instituições Participantes devem atribuir a responsabilidade pelos controles internos e
 
 pelo compliance a um diretor estatutário, sendo vedada a atuação em funções e atividades que
 
 possam gerar conflito de interesse.
 
-Parágrafo único. As instituições participantes podem designar um único diretor responsável
+Parágrafo único. As Instituições Participantes podem designar um único diretor responsável
 
 pelos controles internos e pelo compliance, ou podem indicar diretores específicos para cada
 
@@ -292,97 +294,105 @@ Seção II – Segregação de atividades
 
 . O exercício das atividades dos Códigos ANBIMA deve ser segregado das demais atividades
 
-das instituições participantes e de seu grupo econômico que possam gerar conflitos de interesse.
+das Instituições Participantes e de seu Conglomerado e/ou Grupo Econômico que possam gerar
 
-§1º. Para o cumprimento do disposto no caput, as instituições participantes devem
+conflitos de interesse.
+
+§1º. Para o cumprimento do disposto no caput, as Instituições Participantes devem
 
 implementar e manter, em documento escrito, regras e procedimentos relativos à segregação das
 
 atividades que contenham, no mínimo:
 
-I. II. III. Os processos adotados para segregação apropriada das funções atribuídas aos integrantes
+I. II. Os processos adotados para segregação apropriada das funções atribuídas aos integrantes
 
-da instituição participante, de forma a evitar situações de conflito de interesses e mitigar a
+da Instituição Participante, de forma a evitar situações de conflito de interesses e mitigar a
 
 ocorrência de ilícitos legais ou contrários à regulação;
 
-Quais áreas e atividades possuem a segregação funcional, logica e física, das áreas que
+Quais áreas e atividades possuem a segregação funcional, lógica e física, das áreas que
 
-desempenham as atividades dos Códigos ANBIMA de modo evitar conflitos de interesse; e
+desempenham as atividades dos Códigos Anbima de modo a evitar conflitos de interesse;
 
-Como se dá o processo de identificação, controle e monitoramento das áreas identificadas
+e
+
+III. Como se dá o processo de identificação, controle e monitoramento das áreas identificadas
 
 como de potencial conflito de interesses.
 
-7
-
 Seção III – Privacidade e proteção de dados pessoais
+
+7
 
 ## Art. 9º
 
-As instituições participantes devem implementar e manter atualizados, em documento
+As Instituições Participantes devem implementar e manter atualizados, em documento
 
 escrito e com base em critérios próprios, regras e procedimentos que tratem da privacidade e dos
 
-dados pessoais a que as instituições participantes tenham acesso, incluindo, no mínimo:
+dados pessoais a que as Instituições Participantes tenham acesso, incluindo, no mínimo:
 
 I. II. III. IV. V. VI. VII. Forma de atendimento a todos os princípios de diretrizes estabelecidas na LGPD;
 
-Informação sobre o local em que a Política de Privacidade da instituição participante está
+Informação sobre o local em que a Política de Privacidade da Instituição Participante está
 
 disponível;
 
-Descrição das metodologias, mecanismos e boas práticas de Segurança da Informação para
+Descrição das metodologias, mecanismos e boas práticas de segurança da informação
 
-seus funcionários, parceiros, terceiros e demais agentes participantes envolvidos, visando
+para seus funcionários, parceiros, terceiros e demais agentes participantes envolvidos,
 
-mitigar eventuais riscos de acesso indevido ou eventual vazamento de dados pessoais;
+visando mitigar eventuais riscos de acesso indevido ou eventual vazamento de dados
 
-Detalhamento do processo de Gestão de Riscos e Governança da instituição participante
+pessoais;
+
+Detalhamento do processo de Gestão de Riscos e Governança da Instituição Participante
 
 acerca do tema;
 
-Como se dá o controle de privacidade e dados pessoais a que as instituições participantes
+Como se dá o controle de privacidade e dados pessoais a que as Instituições Participantes
 
-tenham acesso, identificando, mas não se limitando a: controlador, operador, bases legais,
+tenham acesso, identificando, mas não se limitando a: controlador, operador, bases
 
-finalidade, duração de tratamento, compartilhamento e responsabilidades;
+legais, finalidade, duração de tratamento, compartilhamento e responsabilidades;
 
-Critérios adotados para a proteção da integridade, confidencialidade e disponibilidade dos
+Critérios adotados para a proteção da integridade, confidencialidade e disponibilidade
 
-ativos de informação e dos dados pessoais tratados durante todo o seu ciclo de vida,
+dos ativos de informação e dos dados pessoais tratados durante todo o seu ciclo de vida,
 
-conforme classificação da informação, abordando desde a geração até o descarte, incluindo
+conforme classificação da informação, abordando desde a geração até o descarte,
 
-armazenamento, acesso, tratamento, transmissão e transporte; e
+incluindo armazenamento, acesso, tratamento, transmissão e transporte; e
 
-Regras aplicáveis aos profissionais para o gerenciamento de identidade e acesso aos ativos
+Regras aplicáveis aos profissionais para o gerenciamento de identidade e acesso aos
 
-de informação e dados pessoais a que tenham acesso, desde o início até o término do
+ativos de informação e dados pessoais a que tenham acesso, desde o início até o término
 
-relacionamento do profissional com as instituições participantes, inclusive nos casos de
+do relacionamento do profissional com as Instituições Participantes, inclusive nos casos
 
-mudança de atividade dentro da mesma instituição participante, de forma a garantir o
+de mudança de atividade dentro da mesma Instituição Participante, de forma a garantir
 
-adequado tratamento dos dados.
-
-8
+o adequado tratamento dos dados.
 
 Seção IV – Plano de continuidade de negócios
 
+8
+
 ## Art. 10
 
-As instituições participantes devem implementar e manter, em documento escrito, plano
+As Instituições Participantes devem implementar e manter, em documento escrito, plano
 
 de continuidade de negócios em que se observe, no mínimo:
 
 I. II. III. Formas alternativas para processamento em situações de contingência, assegurando a
 
-continuidade das atividades em tempo hábil para cumprimento de suas responsabilidades;
+continuidade das atividades em tempo hábil para cumprimento de suas
 
-Análise de riscos potenciais aos quais as instituições participantes estejam expostas com a
+responsabilidades;
 
-indicação da medida de contingência a ser adotada para mitigação; e
+Análise de riscos potenciais aos quais as Instituições Participantes estejam expostas com
+
+a indicação da medida de contingência a ser adotada para mitigação; e
 
 Procedimentos de ativação, estabelecimento de prazos para a implementação e a
 
@@ -394,47 +404,47 @@ Seção V – Segurança da Informação
 
 ## Art. 11
 
-As instituições participantes devem implementar e manter, em documento escrito, regras
+As Instituições Participantes devem implementar e manter, em documento escrito, regras
 
 e procedimentos referentes a segurança da informação que contenham, no mínimo:
 
-I. Quais são as informações consideradas, pelas instituições participantes, como
+I. II. III. IV. V. Quais são as informações consideradas, pelas Instituições Participantes, como
 
-II. III. IV. confidenciais e privilegiadas;
+confidenciais e privilegiadas;
 
 Como se dá o processo de preservação das informações confidenciais e privilegiadas e
 
 quais área(s) e/ou profissional(is), incluindo os terceiros contratados, podem ter acesso a
 
-elas; e
+elas;
 
-Indicação se a instituição participante realiza testes do programa de segurança da
+Indicação se a Instituição Participante realiza testes do programa de segurança da
 
-informação, e em caso positivo, qual a periodicidade.
+informação, e em caso positivo, qual a periodicidade;
 
 Quais as ações de proteção, prevenção e controle para mitigar os riscos de vazamento de
 
-informações confidenciais e privilegiadas, a que instituição participante possa estar
+informações confidenciais e privilegiadas, a que a Instituição Participante possa estar
 
 exposta;
 
+Descrição dos mecanismos de controles e monitoramento para cada risco identificado,
+
+de forma a verificar sua efetividade e identificar eventuais incidentes; e
+
 9
 
-V. VI. Descrição dos mecanismos de controles e monitoramento para cada risco identificado, de
+VI. Sem prejuízo da Seção IV – Plano de continuidade de negócios deste Capítulo, a indicação
 
-forma a verificar sua efetividade e identificar eventuais incidentes; e
+de Plano de ação e de resposta a incidentes de segurança da informação, previstos
 
-Sem prejuízo da Seção IV deste capítulo (Plano de continuidade de negócios), a indicação
+durante a avaliação de riscos, garantindo a continuidade dos negócios ou a recuperação
 
-de Plano de ação e de resposta a incidentes de segurança da informação, previstos durante
-
-a avaliação de riscos, garantindo a continuidade dos negócios ou a recuperação adequada
-
-em casos mais graves.
+adequada em casos mais graves.
 
 ## Art. 12
 
-As instituições participantes devem exigir que seus profissionais e terceiros contratados
+As Instituições Participantes devem exigir que seus profissionais e terceiros contratados
 
 assinem, de forma manual ou eletrônica, documento de confidencialidade sobre as informações
 
@@ -442,35 +452,115 @@ confidenciais e privilegiadas que lhes tenham sido confiadas em virtude do exerc
 
 atividades profissionais, excetuadas as hipóteses permitidas em lei.
 
-§1º. As instituições participantes estão dispensadas de assinar o documento de que trata o
+§1º. As Instituições Participantes estão dispensadas de assinar o documento de que trata o
 
 caput caso o contrato de prestação de serviço do profissional ou do terceiro contratado tenha
 
 cláusula de confidencialidade.
 
-§2º. Os terceiros, de que trata o caput, são os terceiros considerados pelas instituições
+§2º. Os terceiros, de que trata o caput, são os terceiros considerados pelas Instituições
 
-participantes como relevantes e que em razão de suas atividades e funções precisam ter controle
+Participantes como relevantes e que em razão de suas atividades e funções precisam ter controle
 
 sobre as informações a que tenham acesso.
 
-Seção VI – Segurança Cibernética
+Seção VI – Contratação de Terceiros
 
 ## Art. 13
 
-As instituições participantes devem implementar e manter, em documento escrito, regras
+As Instituições Participantes devem implementar e manter, em documento escrito, regras,
 
-e procedimentos referentes a segurança cibernética que contenham, no mínimo:
+procedimentos e controles internos referentes à contratação e, quando expressamente exigido pela
 
-I. Identificação e avaliação de riscos, contendo:
+regulação em vigor, a fiscalização dos terceiros contratados que sejam consistentes e passíveis de
 
-a. Quais os ativos considerados relevantes pelas instituições participantes, sejam eles
+verificação e que contenham, no mínimo:
 
-equipamentos, sistemas, dados ou processos;
+I. Procedimentos prévios à contratação:
+
+a. Processo interno para seleção e contratação de terceiros, indicando as áreas internas
+
+envolvidas; e
 
 10
 
-II. III. IV. V. b. As vulnerabilidades internas ou externas em relação aos ativos previstos na alínea
+b. Processo de diligência adotado nos casos de contratação de terceiros para atividades
+
+que não possuam Questionário Anbima de Due Diligence, observado o §2º deste artigo.
+
+II. Procedimentos pós-contratação:
+
+a. Áreas responsáveis pela fiscalização dos terceiros contratados, quando
+
+expressamente exigido pela regulação;
+
+b. Processo adotado para fiscalizar os terceiros contratados, quando expressamente
+
+exigido pela regulação; e
+
+c. Processo adotado para tratar as não conformidades e ressalvas identificadas.
+
+§1º. Em seu processo de contratação de terceiros, a Instituição Participante deve exigir que o
+
+terceiro contratado responda ao Questionário Anbima de Due Diligence específico para a atividade
+
+contratada, quando aplicável, alinhado aos modelos disponibilizados pela Associação em seu site e
+
+nos Códigos Anbima, sem prejuízo da solicitação de informações adicionais a critério da Instituição
+
+Participante ou utilização de suas metodologias próprias para avaliação de riscos no processo de
+
+contratação de terceiros, desde que contenha, no mínimo, o conteúdo do Questionário Anbima de
+
+Due Diligence.
+
+§2º. Deve constar do documento de que trata o caput deste artigo a metodologia de supervisão
+
+baseada em risco adotada pela Instituição Participante com o objetivo de garantir que as medidas
+
+de fiscalização, quando expressamente exigidas pela regulação em vigor, prevenção ou mitigação
+
+sejam proporcionais aos riscos identificados.
+
+§3º. As Instituições Participantes devem, para cumprimento das exigências previstas neste
+
+artigo, observar o porte da empresa contratada, o volume de transações, bem como a criticidade
+
+da atividade, buscando agir com razoabilidade e bom senso.
+
+§4º. As Instituições Participantes devem zelar, ao contratar terceiros que pertençam ao seu
+
+Conglomerado ou Grupo Econômico, que as condições sejam estritamente comutativas.
+
+11
+
+§5º. Estão dispensadas da obrigatoriedade prevista neste artigo as empresas que pertençam ao
+
+mesmo Conglomerado ou Grupo Econômico da Instituição Participante, desde que observados os
+
+princípios previstos nos Códigos Anbima em relação a esta contratação.
+
+§6º. As Instituições Participantes devem observar as regras específicas sobre contratações de
+
+terceiros constantes em cada Código Anbima e suas respectivas Regras e Procedimentos, conforme
+
+aplicável.
+
+Seção VII – Segurança Cibernética
+
+## Art. 14
+
+As Instituições Participantes devem implementar e manter, em documento escrito, regras
+
+e procedimentos referentes a segurança cibernética que contenham, no mínimo:
+
+I. II. III. IV. Identificação e avaliação de riscos, contendo:
+
+a. Quais os ativos considerados relevantes pelas Instituições Participantes, sejam eles
+
+equipamentos, sistemas, dados ou processos;
+
+b. As vulnerabilidades internas ou externas em relação aos ativos previstos na alínea
 
 “a” acima;
 
@@ -482,41 +572,43 @@ Quais as ações de proteção, prevenção e controle para mitigar os riscos de
 
 informações confidenciais e privilegiadas e de ataques cibernéticos internos e externos a
 
-que instituição participante possa estar exposta;
+que a Instituição Participante possa estar exposta;
 
 Descrição dos mecanismos de controles e monitoramento para cada risco identificado, de
 
-forma a verificar sua efetividade e identificar eventuais incidentes; e
+forma a verificar sua efetividade e identificar eventuais incidentes;
 
-Sem prejuízo da Seção IV deste capítulo (Plano de continuidade de negócios), a indicação
+Sem prejuízo da Seção IV – Plano de continuidade de negócios deste capítulo, a indicação
 
 de Plano de ação e de resposta que deve considerar os incidentes cibernéticos previstos
 
-durante a avaliação de riscos, garantindo a continuidade dos negócios ou a recuperação
+12
 
-adequada em casos mais graves;
+V. durante a avaliação de riscos, garantindo a continuidade dos negócios ou a recuperação
 
-Indicação se a instituição participante realiza testes do programa de segurança
+adequada em casos mais graves; e
+
+Indicação se a Instituição Participante realiza testes do programa de segurança
 
 cibernética, e em caso positivo, qual a periodicidade.
 
-Parágrafo único. É recomendável que as instituições participantes observem, na elaboração do
+Parágrafo único. É recomendável que as Instituições Participantes observem, na elaboração do
 
-documento de que trata o caput, o guia ANBIMA de segurança cibernética disponível no site da
+documento de que trata o caput, o Guia Anbima de Segurança Cibernética disponível no site da
 
 Associação na internet.
 
-## Art. 14
+## Art. 15
 
 Sem prejuízo das regras de contratação de terceiros previstas nos Códigos ANBIMA, as
 
-instituições participantes devem assegurar que suas regras e procedimentos de segurança
+Instituições Participantes devem assegurar que suas regras e procedimentos de segurança
 
 cibernética contemplem a contratação de serviços de processamento e armazenamento de dados
 
 e de computação em nuvem, no país ou no exterior, classificados como críticos e/ou de maior risco
 
-conforme a metodologia de cada instituição participante.
+conforme a metodologia de cada Instituição Participante.
 
 §1º. A contratação de serviços de processamento e armazenamento de dados de que trata o
 
@@ -524,9 +616,7 @@ caput deve assegurar a verificação da capacidade do potencial prestador de ser
 
 mínimo:
 
-11
-
-I. II. III. IV. V. VI. O acesso das instituições participantes aos dados e às informações a serem processados ou
+I. II. III. IV. V. O acesso das Instituições Participantes aos dados e às informações a serem processados ou
 
 armazenados pelo prestador de serviço;
 
@@ -534,7 +624,7 @@ A confidencialidade, a integridade, a disponibilidade e a recuperação das info
 
 dados processados ou armazenados pelo prestador de serviço;
 
-A sua aderência a certificações exigidas pelas instituições participantes ou reguladores para
+A sua aderência a certificações exigidas pelas Instituições Participantes ou reguladores para
 
 a prestação do serviço a ser contratado, caso aplicável;
 
@@ -544,27 +634,29 @@ serviços a serem prestados;
 
 A identificação e a segregação dos dados dos clientes, funcionários, colaboradores ou
 
-terceiros relevantes das instituições participantes por meio de controles físicos ou lógicos;
+terceiros relevantes das Instituições Participantes por meio de controles físicos ou lógicos; e
 
-A qualidade dos controles de acesso voltados à proteção dos dados e das informações dos
+13
 
-clientes, funcionários, colaboradores e terceiros relevantes das instituições participantes.
+VI. A qualidade dos controles de acesso voltados à proteção dos dados e das informações dos
 
-§2º. Para fins do disposto no caput deste artigo, recomenda-se, adicionalmente, a utilização de
+clientes, funcionários, colaboradores e terceiros relevantes das Instituições Participantes.
 
-questionário de due diligence para contratação de serviço de processamento e armazenamento de
+§2º. Para fins do disposto no caput deste artigo, recomenda-se, adicionalmente, a utilização
 
-dados e de computação em nuvem, no país ou no exterior, disponibilizado no site da ANBIMA.
+de questionário de due diligence para contratação de serviço de processamento e armazenamento
 
-Seção VII – Regras gerais
+de dados e de computação em nuvem, no país ou no exterior, disponibilizado no site da Anbima.
 
-## Art. 15
+Seção VIII – Regras gerais
 
-As instituições participantes devem adotar e manter, em documento escrito, os
+## Art. 16
+
+As Instituições Participantes devem adotar e manter, em documento escrito, os
 
 mecanismos de acompanhamento com vistas a assegurar a implementação e a efetividade das
 
-regras, dos procedimentos e dos controles internos dispostos nas seções III, V e VI deste Capítulo,
+regras, dos procedimentos e dos controles internos dispostos nas Seções I a VII deste Capítulo,
 
 que devem conter, no que couber:
 
@@ -574,9 +666,7 @@ Definição de metodologias, métricas, critérios e indicadores adequados;
 
 Identificação e a correção de eventuais deficiências.
 
-12
-
-## Art. 16
+## Art. 17
 
 Os instrumentos referidos no artigo anterior deverão incluir mecanismos de validação e
 
@@ -592,9 +682,11 @@ integridade, segurança e consistência na infraestrutura adotada e verificar se
 
 planos podem ser ativados tempestivamente.
 
-## Art. 17
+14
 
-As instituições participantes deverão conceder acesso regular à capacitação e
+## Art. 18
+
+As Instituições Participantes deverão conceder acesso regular à capacitação e
 
 conscientização sobre práticas gerais de proteção de dados pessoais, segurança da informação e
 
@@ -604,119 +696,27 @@ TÍTULO III – REGRAS PARA USO DOS SELOS ANBIMA
 
 CAPÍTULO III – REGRAS GERAIS
 
-## Art. 18
-
-A veiculação dos selos ANBIMA tem por finalidade exclusiva demonstrar o compromisso das
-
-instituições participantes com o cumprimento e observância das regras e procedimentos previstos
-
-nos códigos ANBIMA.
-
-Parágrafo único. A ANBIMA não se responsabiliza pela verificação da integridade e veracidade
-
-das informações constantes nos materiais técnicos, materiais publicitários ou qualquer forma de
-
-publicidade divulgada pelas instituições, bem como pela qualidade das atividades desempenhadas
-
-pelas instituições participantes, fundos de investimento e demais produtos de investimento.
-
 ## Art. 19
 
-Estão sujeitas às regras e procedimentos para uso dos selos ANBIMA as instituições
+A veiculação dos Selos ANBIMA tem como objetivo demonstrar o compromisso das
 
-participantes que desempenham atividades que possuam a previsão de selos, conforme seção I do
+Instituições Participantes com o cumprimento e observância das regras e procedimentos previstos
 
-capítulo IV a seguir.
+nos Códigos Anbima.
 
-13
+Parágrafo único. A Anbima não se responsabiliza pela verificação da integridade e veracidade
 
-CAPÍTULO IV – USO DOS SELOS
+das informações contidas nos materiais técnicos, documentos, ou quaisquer outras formas de
+
+publicidade atreladas aos Selos ANBIMA, bem como pela qualidade das atividades desempenhadas
+
+pelas Instituições Participantes que os utilizam.
 
 ## Art. 20
 
-O uso dos selos é exclusivo das instituições participantes autorizadas pela ANBIMA, e poderá
+Estão sujeitas ao uso dos Selos ANBIMA, as Instituições Participantes que desempenham as
 
-ser vinculado em quaisquer publicidades, materiais e/ou documentos utilizados e divulgados pelas
-
-instituições participantes que sejam relacionados às atividades e/ou produtos de investimento os
-
-quais os selos se destinam, desde que observado o disposto neste título e nos manuais ANBIMA de
-
-aplicação da marca e de identidade visual disponíveis no site da Associação.
-
-Parágrafo único. Ressalvada as hipóteses previstas na seção I deste capítulo, o vínculo pelas
-
-instituições participantes dos selos em materiais técnicos, contratos das atividades autorreguladas
-
-e/ou nos regulamentos dos fundos de investimento é facultativo, observado o disposto no caput.
-
-## Art. 21
-
-É vedada a veiculação dos Selos ANBIMA:
-
-I. II. III. IV. Com o objetivo de induzir o investidor a erro;
-
-Quando da proibição temporária prevista na seção II deste capítulo;
-
-Nas publicidades de qualquer natureza das empresas do grupo econômico das instituições
-
-participantes que não exerçam atividades autorreguladas; e
-
-Em qualquer situação que possa dar lugar a uma interpretação incorreta das atividades
-
-autorreguladas pela ANBIMA.
-
-Seção I – Uso obrigatório dos Selos ANBIMA
-
-## Art. 22
-
-É obrigatório o vínculo dos Selos ANBIMA, exceto para o selo de ofertas públicas de
-
-debênture padronizada:
-
-I. No material publicitário; e
-
-II. No site da instituição participante que indicar a atividade desempenhada.
-
-14
-
-§1º. Observada a exigência acima, a instituição participante pode, para o material publicitário,
-
-vincular o selo ou incluir link ou caminho de seu site onde estejam os selos obrigatórios nos termos
-
-desta seção.
-
-§2º
-
-. Não se aplica o disposto no inciso I do caput para o material publicitário com textos de
-
-natureza digital ou impressa que impossibilitem, por restrições técnicas, a inclusão dos selos,
-
-devendo as instituições, para esses casos, incluir link ou caminho de seu site onde estejam os selos
-
-obrigatórios nos termos desta seção.
-
-§3º
-
-. Na hipótese de o material publicitário não possibilitar a inclusão de link ou caminho,
-
-conforme previsto no parágrafo anterior, a instituição participante está dispensada de cumprir com
-
-o disposto no inciso I do caput deste artigo, devendo guardar justificativas da impossibilidade e
-
-deixar à disposição da ANBIMA.
-
-## Art. 23
-
-As instituições participantes que no momento de adesão aos Códigos ANBIMA ou associação
-
-à ANBIMA não indicarem que irão desempenhar todas as atividades aplicáveis a cada código e
-
-posteriormente decidir exercê-las, poderão ter o selo ANBIMA veiculado apenas após comunicação
-
-prévia à ANBIMA, por meio físico ou eletrônico, do início de desempenho dessas atividades.
-
-Parágrafo único. As atividades aplicáveis aos Códigos ANBIMA a que se refere o caput são:
+seguintes atividades:
 
 I. Código de Administração e Gestão de Recursos de Terceiros:
 
@@ -730,63 +730,127 @@ II. Código de Ofertas Públicas:
 
 a. Ofertas públicas ou ofertas públicas de debênture padronizada;
 
-15
-
 b. Atividade de coordenador;
 
 c. Atividade de companhia securitizadora;
 
-d. Atividade de agente fiduciário; e
+15
 
-e. Atividade de agente de notas.
+d. e. Atividade de agente fiduciário; e
+
+Atividade de agente de notas.
 
 III. Código de Serviços Qualificados:
 
 a. Custódia;
 
-b. Controladoria;
+b. Controladoria de Ativos;
 
-c. Escrituração; e
+c. Controladoria de Passivos;
 
-d. Representação de Investidor Não Residente.
+d. Escrituração; e
+
+e. Representação de Investidor Não Residente.
 
 IV. Código de Distribuição:
 
 a. b. Distribuição de Produtos de Investimento; e
 
-Distribuição de produtos de Investimento Private.
+Distribuição de produtos de Investimento do segmento Private.
 
-## Art. 24
+## Art. 21
 
-As instituições participantes que obtiverem a adesão provisória aos Códigos ANBIMA, nos
+O uso dos Selos ANBIMA é exclusivo das Instituições Participantes e deve seguir as
 
-termos das Regras e Procedimentos para Associação à ANBIMA ou Adesão aos Códigos ANBIMA,
+orientações deste Título e do Guia da Marca Anbima, disponíveis no site da Associação.
 
-disponível no site da Associação, deverão usar apenas o selo provisório durante o período em que
+## Art. 22
 
-estiverem nessa condição.
+No caso de adesão provisória aos Códigos Anbima, as Instituições Participantes deverão
 
-## Art. 25
+utilizar exclusivamente o Selo Provisório pelo período de 1 (um) ano a contar do momento que se
 
-O Selo ANBIMA Autorregula poderá ser utilizado pelas instituições participantes nas
+tornou operacional nas atividades elegíveis do código aderido, conforme às Regras e Procedimentos
 
-seguintes hipóteses:
+para Associação ou Adesão, disponíveis no site da Associação.
 
-I. II. Caso as instituições participantes desempenhem todas as atividades autorreguladas que
+Parágrafo único. A Instituição Participante somente estará autorizada a utilizar o Selo
 
-possuam selos, conforme previsto no artigo 23 deste normativo; e
+Permanente após avaliação interna da Anbima, conforme às Regras e Procedimentos para
 
-Nos documentos obrigatórios dos fundos, observado o disposto no artigo 29 deste
-
-normativo, caso os prestadores de serviço dos fundos que possuam as atividades
-
-autorreguladas pela ANBIMA sejam todos Associados ou Aderentes aos Códigos ANBIMA,
-
-excetuada a atividade de Distribuição de Produtos de Investimento.
+Associação ou Adesão, disponíveis no site da Associação.
 
 16
 
-Subseção II – Código de Distribuição
+## Art. 23
+
+É vedada a veiculação dos Selos ANBIMA:
+
+I. II. III. Com o objetivo de induzir o investidor ao erro;
+
+Durante a proibição temporária mencionada na Seção II do Capítulo IV deste Título;
+
+Nas publicidades de qualquer natureza das empresas do Conglomerado e/ou Grupo
+
+Econômico das Instituições Participantes que não exerçam atividades autorreguladas; e
+
+IV. Em situações com risco de interpretação pejorativa ou ambígua das atividades
+
+autorreguladas pela Anbima.
+
+CAPÍTULO IV – USO DOS SELOS
+
+## Art. 24
+
+É obrigatório o vínculo dos Selos ANBIMA, exceto para o selo de Ofertas Públicas de
+
+debênture padronizada:
+
+II. III. I. No Material Publicitário;
+
+No site da Instituição Participante que indicar a atividade desempenhada; e
+
+Conforme a natureza da atividade exercida, nos documentos indicados nas Subseções deste
+
+Capítulo.
+
+§1º. As Instituições Participantes que divulgarem textos digitais ou impressos que, por
+
+limitações técnicas, impossibilitem a inserção dos selos obrigatórios deverão, nesses casos,
+
+apresentar um link ou caminho em seu site, como QR code, onde os selos estejam disponíveis
+
+conforme estabelecido nesta Seção.
+
+§2º
+
+. Na hipótese de o Material Publicitário não possibilitar a inclusão de link ou caminho,
+
+conforme previsto no parágrafo anterior, a Instituição Participante está dispensada de cumprir com
+
+o disposto no inciso I do caput deste artigo, devendo guardar justificativas da impossibilidade e
+
+deixar à disposição da Anbima.
+
+17
+
+## Art. 25
+
+O Selo Anbima de Autorregulação poderá ser utilizado pelas Instituições Participantes caso:
+
+I. II. As Instituições Participantes desempenhem todas as atividades autorreguladas que
+
+possuam selos; e/ou
+
+Nos documentos obrigatórios de Fundos de Investimento e das Ofertas Públicas,
+
+observado o disposto nestas Regras e Procedimentos, caso todos os prestadores de
+
+serviço envolvidos sejam Associados e/ou Aderentes aos Códigos Anbima, excetuada a
+
+atividade de Distribuição de Produtos de Investimento.
+
+Subseção I – Código de Distribuição
 
 ## Art. 26
 
@@ -796,41 +860,47 @@ I. II. Selo de Distribuição de Produtos de Investimento; e
 
 Selo de Distribuição de Produtos de Investimento Private.
 
+§1º. O uso dos selos descritos acima é obrigatório, conforme o disposto nos artigos 20 e 24
+
+destas Regras e Procedimentos.
+
+§2º
+
+. O uso dos selos descritos acima não se aplica às Securitizadoras, que deverão observar o
+
+disposto nos artigos 27 e seguintes, referentes ao Código de Ofertas Públicas, destas Regras e
+
+Procedimentos.
+
+Subseção II – Código de Ofertas Públicas
+
 ## Art. 27
-
-Os selos descritos acima são obrigatórios conforme o disposto no artigo 22 deste normativo.
-
-Subseção III – Código de Ofertas Públicas
-
-## Art. 28
 
 O Código de Ofertas possui os seguintes selos:
 
-I. Ofertas públicas ou ofertas públicas de debênture padronizada;
+I. Ofertas públicas de debênture padronizada;
 
-II. Atividade de coordenador;
+18
+
+II. Atividade de Coordenador;
 
 III. Atividade de companhia securitizadora;
 
-IV. Atividade de agente fiduciário; e
+IV. Atividade de Agente Fiduciário; e
 
-V. Atividade de agente de notas.
+V. Atividade de Agente de Notas.
 
-§1º. Os selos indicados no parágrafo anterior, assim como o selo provisório e o selo autorregula
+Parágrafo único. O uso dos Selos descritos acima é obrigatório, conforme o disposto nos artigos
 
-estão disponíveis no SSM.
+20 e 24 destas Regras e Procedimentos, com exceção do Selo de Ofertas Públicas de Debênture
 
-§2º. O selo ANBIMA autorregula poderá ser utilizado somente pelas instituições participantes
+Padronizada, excetuado nos termos do artigo 29 destas Regras e Procedimentos.
 
-que atuarem em todas as atividades previstas no caput.
+## Art. 28
 
-## Art. 29
+O vínculo dos Selos ANBIMA mencionados nos incisos I a V acima, conforme o caso, é
 
-O vínculo do selo ANBIMA mencionados nos incisos I a V acima, conforme o caso, são
-
-obrigatórios nos seguintes documentos:
-
-17
+obrigatório nos seguintes documentos:
 
 I. Anúncio de encerramento de distribuição;
 
@@ -838,11 +908,11 @@ II. Anúncio de início de distribuição;
 
 III. Comunicados ao mercado;
 
-IV. Lâmina para nota promissória, conforme disponibilizado pela ANBIMA;
+IV. Lâmina para nota promissória, conforme disponibilizada pela Anbima;
 
 V. Lâmina da oferta;
 
-VI. Material publicitário, nos termos definidos pela CVM;
+VI. Material Publicitário, nos termos definidos pela CVM;
 
 VII. Prospecto;
 
@@ -852,21 +922,23 @@ IX. Memorando de ações;
 
 X. Sumário de securitização; e
 
-XI. Sumário de fundos de investimento; e
+XI. Sumário de Fundos de Investimento.
 
-## Art. 30
+## Art. 29
 
-O vínculo do selo ANBIMA de ofertas públicas de debênture padronizada não é obrigatório,
+O vínculo do selo de Ofertas Públicas de Debênture Padronizada não é obrigatório, cabendo
 
-cabendo à instituição participante decidir ou não pelo seu uso.
+à Instituição Participante decidir ou não pelo seu uso.
 
-§1º. Sem prejuízo do disposto no caput, a instituição participante que optar por utilizar o selo
+§1º. Sem prejuízo do disposto no caput, a Instituição Participante que optar por utilizar o selo
 
 de que trata o caput deve:
 
+19
+
 I. II. Cumprir com o disposto no guia para padronização dos documentos dos títulos de renda
 
-fixa disponível no site da Associação na internet; e
+fixa disponível no site da Associação; e
 
 Vincular o selo nos seguintes documentos:
 
@@ -884,33 +956,39 @@ f. Prospecto; e
 
 g. Sumário de dívida.
 
-18
+## Art. 30
 
-## Art. 31
-
-Observado o artigo 29 acima, o vínculo dos selos da atividade de agente fiduciário e de
+Observado o artigo 28 acima, o vínculo dos selos da atividade de agente fiduciário e de
 
 agente de notas também é obrigatório nos seguintes documentos:
 
 I. Agente fiduciário:
 
-a. Notas promissórias de longo prazo; e
+a. Notas Promissórias de Longo Prazo; e
 
 b. Escrituras de emissão ou documentos equivalentes.
 
 II. Agente de notas: notas promissórias de curto prazo.
 
-## Art. 32
+## Art. 31
 
-Observado o artigo 29 acima, o vínculo de selos da atividade de companhia securitizadora
+Observado o artigo 28 acima, o vínculo de selos da atividade de companhia securitizadora
 
 é obrigatório no termo de securitização ou documento equivalente.
 
-Subseção IV – Código de AGRT
+## Art. 32
+
+Não se aplica o Selo Anbima de Coordenador para a Securitizadora que atuar em Ofertas
+
+Públicas de sua própria emissão.
+
+Subseção III – Código de AGRT
 
 ## Art. 33
 
 O Código de AGRT possui em sua estrutura três selos, conforme a seguir:
+
+20
 
 I. Selo Administração Fiduciária;
 
@@ -918,11 +996,11 @@ II. Selo Gestão de Recursos de Terceiros; e
 
 III. Selo Gestão de Patrimônio.
 
-§1º. Adicionalmente ao disposto no artigo 22 deste normativo, o vínculo dos Selos ANBIMA das
+§1º. Adicionalmente ao disposto no artigo 20 destas Regras e Procedimentos o vínculo dos
 
-atividades autorreguladas pelo Código de AGRT é obrigatório para as ofertas públicas de Classes de
+Selos ANBIMA das atividades autorreguladas pelo Código de AGRT é obrigatório para as Ofertas
 
-Fundos de Investimento no(s):
+Públicas de Classes de Fundos de Investimento no(s):
 
 I. Anúncio de encerramento de distribuição;
 
@@ -932,9 +1010,7 @@ III. Avisos ao mercado;
 
 IV. Comunicados ao mercado;
 
-V. Memorando, conforme disponibilizado pela ANBIMA;
-
-19
+V. Memorando, conforme disponibilizado pela Anbima;
 
 VI. Material Publicitário; e
 
@@ -942,23 +1018,25 @@ VII. Prospecto.
 
 §2º. Observada a exigência prevista no parágrafo anterior, caso os prestadores de serviço dos
 
-Fundos que possuam as atividades autorreguladas pela ANBIMA sejam todos Associados ou
+Fundos que possuam as atividades autorreguladas pela Anbima sejam todos Associados ou
 
-Aderentes aos Códigos ANBIMA, excetuada a atividade de Distribuição de Produtos de
+Aderentes aos Códigos Anbima, excetuada a atividade de Distribuição de Produtos de Investimento,
 
-Investimento, a Instituição Participante poderá:
+a Instituição Participante poderá:
 
-I. II. Optar por incluir o Selo ANBIMA Autorregula, conforme previsto no SSM; ou
+I. II. Optar por incluir o Selo ANBIMA de Autorregulação, conforme previsto no SSM; ou
 
 Optar por incluir todos os Selos ANBIMA, sem distinção e sem exclusão, das atividades
 
-autorreguladas, conforme disposto no parágrafo único do artigo 25 deste normativo.
+autorreguladas.
 
-§3º. O Gestor de Recursos e/ou Administrador Fiduciário que, nos termos autorizados pela CVM,
+§3º. O Prestador de Serviços Essenciais que, nos termos autorizados pela CVM, distribuir seus
 
-distribuir seus próprios Fundos de Investimento, devem utilizar o Selo de Distribuição de Produtos
+próprios Fundos de Investimento, deve utilizar o Selo de Distribuição de Produtos de Investimento
 
-de Investimento em consonância com as regras deste normativo.
+em consonância com as regras destas Regras e Procedimentos.
+
+21
 
 §4º. É expressamente vedado vincular qualquer um dos Selos ANBIMA nos documentos
 
@@ -966,13 +1044,13 @@ previstos no caput nas hipóteses em que as Instituições Participantes que sej
 
 serviços dos Fundos tenham sofrido penalidade de proibição temporária do uso dos Selos, conforme
 
-seção II deste capítulo.
+seção II destas Regras e Procedimentos.
 
-Subseção V – Código de Serviços Qualificados
+Subseção IV – Código de Serviços Qualificados
 
 ## Art. 34
 
-O Código de Serviços Qualificados possui em sua estrutura quatro selos, conforme a seguir:
+O Código de Serviços Qualificados possui em sua estrutura cinco selos, conforme a seguir:
 
 I. Selo de Custódia;
 
@@ -982,31 +1060,29 @@ III. Selo de Escrituração;
 
 IV. Selo de Representação de Investidor Não Residente; e
 
-20
-
-V. Selo de Serviços Qualificados, utilizado nas hipóteses em que as instituições participantes
+V. Selo de Serviços Qualificados, utilizado nas hipóteses em que as Instituições Participantes
 
 desempenhem todas as atividades previstas nos incisos anteriores.
 
 ## Art. 35
 
-Os selos descritos acima são obrigatórios apenas nas situações previstas no artigo 22 deste
+Os selos descritos acima são obrigatórios apenas nas situações previstas nos artigos 20 e 24
 
-normativo.
+destas Regras e Procedimentos.
 
 Seção II – Proibição temporária do uso dos Selos ANBIMA
 
 ## Art. 36
 
-As instituições participantes que descumprirem os princípios e regras estabelecidos neste
+As Instituições Participantes que descumprirem os princípios e regras estabelecidos nestas
 
-normativo estarão sujeitas às penalidades previstas nos códigos ANBIMA e no Código dos Processos,
+Regras e Procedimentos estarão sujeitas às penalidades previstas nos Códigos ANBIMA e no Código
 
-incluindo, entre as penalidades, a proibição temporária do uso do Selo ANBIMA.
+dos Processos, incluindo, entre as penalidades, a proibição temporária do uso do Selo ANBIMA.
 
 ## Art. 37
 
-As instituições participantes que forem penalizadas com a proibição temporária do uso do
+As Instituições Participantes que forem penalizadas com a proibição temporária do uso do
 
 Selo ANBIMA deverão comunicar, por meio de correspondência, física ou eletrônica, com aviso de
 
@@ -1014,48 +1090,124 @@ recebimento, aos cotistas dos fundos que adquiriram as cotas antes da penalidade
 
 Instituição.
 
-Parágrafo único. Após o cumprimento do período de proibição temporária do uso do selo
+22
 
-ANBIMA, fica a critério das instituições participantes informar seus cotistas sobre o cumprimento
+Parágrafo único. Após o cumprimento do período de proibição temporária do uso do Selo
 
-da pena e a permissão para o uso dos Selos ANBIMA.
+ANBIMA, fica a critério das Instituições Participantes informar seus clientes e investidores de
+
+Produtos de Investimento sobre o cumprimento da pena e a permissão para o uso dos Selos
+
+ANBIMA.
 
 TÍTULO IV – DISPOSIÇÕES GERAIS
 
-CAPÍTULO V – PENALIDADES
+CAPÍTULO V – POLÍTICAS, REGRAS, PROCEDIMENTOS E CONTROLES
+
+INTERNOS
 
 ## Art. 38
 
-As instituições participantes que descumprirem as normas estabelecidas nestas Regras e
+As Instituições Participantes devem elaborar Documentos de Controles Internos, observada
 
-Procedimentos estarão sujeitos à imposição das penalidades indicadas nos códigos ANBIMA e no
+a regulamentação vigente, relacionados aos temas abaixo:
 
-Código dos Processos.
+I. II. III. IV. V. VI. VII. Ambientes de controles internos, nos termos estabelecidos no Capítulo II, Seção I destas
 
-21
+Regras e Procedimentos;
 
-CAPÍTULO VI – DISPOSIÇÕES FINAIS
+Segregação de atividades, Capítulo II, Seção II destas Regras e Procedimentos;
+
+Privacidade e proteção de dados pessoais, Capítulo II, Seção III destas Regras e
+
+Procedimentos;
+
+Continuidade de Negócios, Capítulo II, Seção IV destas Regras e Procedimentos;
+
+Segurança da informação, Capítulo II, Seção V destas Regras e Procedimentos;
+
+Contratação de terceiros, Capítulo II, Seção VI destas Regras e Procedimentos; e
+
+Segurança Cibernética, Capítulo II, Seção VII destas Regras e Procedimentos.
+
+§1º. As Instituições Participantes devem implementar e manter atualizados os Documentos
+
+de Controles Internos, em documento escrito único ou distintos, e enviá-los para a Anbima, via SSM,
+
+em até 30 (trinta) dias corridos após sua elaboração ou qualquer alteração e atualização de seu
+
+conteúdo.
+
+23
+
+§2º
+
+. Sem prejuízo do disposto no §1º acima, as Instituições Participantes devem revisar e
+
+atualizar, a cada 24 (vinte e quatro) meses os Documentos de Controles Internos.
+
+§3º
+
+. Os Documentos de Controles Internos devem ser passíveis de verificação e ser enviados
+
+para a Anbima sempre que solicitados.
+
+§4º
+
+. As Instituições Participantes devem garantir que os acessos, disponibilizados em seus
+
+sites em cumprimento às obrigações referentes aos Documentos de Controles Internos previstas
+
+nestas Regras e Procedimentos, estejam atualizados e direcionem corretamente para o conteúdo
+
+correspondente.
+
+CAPÍTULO VI – PENALIDADES
 
 ## Art. 39
 
-Cabe ao Conselho de Regulação e Melhores Práticas de cada código ANBIMA analisar o
+As Instituições Participantes que descumprirem as normas estabelecidas nestas Regras e
 
-cumprimento do disposto neste normativo.
+Procedimentos estarão sujeitas à imposição das penalidades indicadas nos Códigos ANBIMA e no
+
+Código dos Processos.
+
+CAPÍTULO VII – DISPOSIÇÕES FINAIS
 
 ## Art. 40
 
-Qualquer modificação das disposições contidas neste normativo compete, exclusivamente,
+Cabe ao Conselho de Regulação e Melhores Práticas de cada Código ANBIMA analisar o
 
-à Diretoria da ANBIMA.
+cumprimento do disposto nestas Regras e Procedimentos.
 
 ## Art. 41
 
-Todos os documentos exigidos por este normativo, assim como todas as regras,
+Qualquer modificação das disposições contidas nestas Regras e Procedimentos competem
 
-procedimentos, controles e obrigações estabelecidas devem ser passíveis de verificação e ser
+na medida de suas competências, aos Fóruns da Anbima de:
 
-enviados para a ANBIMA sempre que solicitados.
+I. Gestão de Fundos Mútuos;
+
+II. Gestão de Fundos Estruturados;
+
+24
+
+III. Serviços Fiduciários;
+
+IV. Distribuição;
+
+V. Negociação; e
+
+VI. Estruturação de Mercado de Capitais.
 
 ## Art. 42
 
-Este normativo entra em vigor em 31 de março de 2025.
+Todos os documentos exigidos por estas Regras e Procedimentos, assim como todas as
+
+regras, procedimentos, controles e obrigações estabelecidas devem ser passíveis de verificação e
+
+ser enviados para a Anbima sempre que solicitados.
+
+## Art. 43
+
+Este normativo entra em vigor em 04 de janeiro de 2027.

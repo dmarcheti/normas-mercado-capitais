@@ -43,7 +43,7 @@ Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho rel
 | Processos Administrativos Sancionadores (PAS) | [2001](indices/pas-2001.md) | 37 |
 | Processos Administrativos Sancionadores (PAS) | [2000](indices/pas-2000.md) | 19 |
 | Processos Administrativos Sancionadores (PAS) | [1999](indices/pas-1999.md) | 1 |
-| Termos de compromisso | [2026](indices/termo-compromisso-2026.md) | 17 |
+| Termos de compromisso | [2026](indices/termo-compromisso-2026.md) | 18 |
 | Termos de compromisso | [2025](indices/termo-compromisso-2025.md) | 57 |
 | Termos de compromisso | [2024](indices/termo-compromisso-2024.md) | 72 |
 | Termos de compromisso | [2023](indices/termo-compromisso-2023.md) | 82 |
@@ -71,7 +71,7 @@ Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho rel
 | Termos de compromisso | [2000](indices/termo-compromisso-2000.md) | 1 |
 | Termos de compromisso | [1999](indices/termo-compromisso-1999.md) | 1 |
 | Termos de compromisso | [1998](indices/termo-compromisso-1998.md) | 3 |
-| Decisões do Colegiado | [2026](indices/decisao-colegiado-2026.md) | 48 |
+| Decisões do Colegiado | [2026](indices/decisao-colegiado-2026.md) | 50 |
 | Decisões do Colegiado | [2025](indices/decisao-colegiado-2025.md) | 168 |
 | Decisões do Colegiado | [2024](indices/decisao-colegiado-2024.md) | 198 |
 | Decisões do Colegiado | [2023](indices/decisao-colegiado-2023.md) | 206 |
@@ -168,7 +168,7 @@ Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho rel
 | Acórdãos do CRSFN (recursos contra decisões da CVM) | [1997](indices/acordao-crsfn-1997.md) | 16 |
 | Acórdãos do CRSFN (recursos contra decisões da CVM) | [1996](indices/acordao-crsfn-1996.md) | 22 |
 
-Total: Processos Administrativos Sancionadores (PAS), 1419; Termos de compromisso, 1714; Decisões do Colegiado, 10502; Decisões antigas (1978 a 2001), 24; Acórdãos do CRSFN (recursos contra decisões da CVM), 1332.
+Total: Processos Administrativos Sancionadores (PAS), 1419; Termos de compromisso, 1715; Decisões do Colegiado, 10504; Decisões antigas (1978 a 2001), 24; Acórdãos do CRSFN (recursos contra decisões da CVM), 1332.
 
 ## Por tema
 
@@ -182,14 +182,14 @@ Total: Processos Administrativos Sancionadores (PAS), 1419; Termos de compromiss
 | [criptoativos](indices/tema-criptoativos.md) | 20 |
 | [crowdfunding](indices/tema-crowdfunding.md) | 26 |
 | [deveres-administradores](indices/tema-deveres-administradores.md) | 629 |
-| [divulgacao-informacoes](indices/tema-divulgacao-informacoes.md) | 1184 |
+| [divulgacao-informacoes](indices/tema-divulgacao-informacoes.md) | 1185 |
 | [exercicio-irregular](indices/tema-exercicio-irregular.md) | 371 |
 | [fundos-investimento](indices/tema-fundos-investimento.md) | 807 |
 | [informacao-privilegiada](indices/tema-informacao-privilegiada.md) | 371 |
 | [infraestrutura-mercado](indices/tema-infraestrutura-mercado.md) | 343 |
 | [institucional](indices/tema-institucional.md) | 448 |
 | [intermediacao](indices/tema-intermediacao.md) | 926 |
-| [manipulacao-fraude](indices/tema-manipulacao-fraude.md) | 555 |
+| [manipulacao-fraude](indices/tema-manipulacao-fraude.md) | 556 |
 | [multa-cominatoria-taxa](indices/tema-multa-cominatoria-taxa.md) | 3477 |
 | [normativo](indices/tema-normativo.md) | 1026 |
 | [ofertas-publicas](indices/tema-ofertas-publicas.md) | 690 |
@@ -198,7 +198,7 @@ Total: Processos Administrativos Sancionadores (PAS), 1419; Termos de compromiss
 | [pld](indices/tema-pld.md) | 97 |
 | [processual](indices/tema-processual.md) | 799 |
 | [registro-emissor](indices/tema-registro-emissor.md) | 213 |
-| [securitizacao](indices/tema-securitizacao.md) | 77 |
+| [securitizacao](indices/tema-securitizacao.md) | 78 |
 
 ## Por processo
 
@@ -210,4 +210,4 @@ Processo sem número reconhecível: [processo-outros](indices/processo-outros.md
 
 ## Por norma citada
 
-Dispositivo citado -> julgados (índice reverso), uma linha por norma, no subíndice [indices/normas-citadas.md](indices/normas-citadas.md) (2939 normas citadas).
+Dispositivo citado -> julgados (índice reverso), uma linha por norma, no subíndice [indices/normas-citadas.md](indices/normas-citadas.md) (2940 normas citadas).

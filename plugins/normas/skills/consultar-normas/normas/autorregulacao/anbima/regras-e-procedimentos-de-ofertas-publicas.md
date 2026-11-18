@@ -3,7 +3,7 @@ id: anbima-regras-e-procedimentos-de-ofertas-publicas
 orgao: anbima
 tipo: regras-procedimentos
 numero:
-data: 2025-03-24
+data: 2027-01-04
 publicacao_dou:
 ementa: Regras e Procedimentos de Ofertas Públicas
 situacao: vigente
@@ -11,334 +11,364 @@ versao_texto: original
 vigente_ate_ato:
 aguarda_consolidado_oficial: false
 historico_parcial: true
-fonte_original: https://www.anbima.com.br/data/files/EE/64/2B/92/7E7359100DBB7359B82BA2A8/Regras%20e%20Procedimentos_Codigo%20de%20Ofertas_v_publicar.pdf
-fonte_consolidada: https://www.anbima.com.br/data/files/EE/64/2B/92/7E7359100DBB7359B82BA2A8/Regras%20e%20Procedimentos_Codigo%20de%20Ofertas_v_publicar.pdf
-sha256_fonte: f2ba95a189c27a891c33f7cd1320096891263076ca0ba00a0d1f0232f509a86c
-baixado_em: 2026-10-29
-verificado_em: 2026-10-29
-incerteza: Documento de autorregulação da ANBIMA (vigente a partir de 2025-03-24, segundo a página da entidade), extraído por script do PDF, data-base 2026-10-29. Vincula só as instituições aderentes ou participantes. Texto de titularidade da ANBIMA, reproduzido para uso informativo; retirado a pedido (ver autorregulacao/README.md). Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A página final de registro das assinaturas eletrônicas do PDF (nomes, e-mails, IP e localização dos signatários) foi retirada; a validação das assinaturas é feita no PDF oficial.
+fonte_original: https://www.anbima.com.br/data/files/3D/F7/C9/05/364E1A103AD8EA1A692BA2A8/RP_de_Ofertas_Publicas_04_01_2027.PDF
+fonte_consolidada: https://www.anbima.com.br/data/files/3D/F7/C9/05/364E1A103AD8EA1A692BA2A8/RP_de_Ofertas_Publicas_04_01_2027.PDF
+sha256_fonte: 12f5db514ae1f6da7d0985f7f39136a537c886ee205de42ca9be4a454b98d53d
+baixado_em: 2026-11-18
+verificado_em: 2026-11-18
+incerteza: Documento de autorregulação da ANBIMA (vigente a partir de 2027-01-04, segundo a página da entidade), extraído por script do PDF, data-base 2026-11-18. Vincula só as instituições aderentes ou participantes. Texto de titularidade da ANBIMA, reproduzido para uso informativo; retirado a pedido (ver autorregulacao/README.md). Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A página final de registro das assinaturas eletrônicas do PDF (nomes, e-mails, IP e localização dos signatários) foi retirada; a validação das assinaturas é feita no PDF oficial.
 nivel_verificacao: pdf-extraido
 ---
+
+AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA AUDIÊNCIA
 
 Sumário
 
 INTRODUÇÃO ........................................................................................................................... 8
 
-TÍTULO I – DISPOSIÇÕES GERAIS .............................................................................................. 9
+TÍTULO I – DISPOSIÇÕES GERAIS ............................................................................................. 9
 
-CAPÍTULO I – OBJETIVO E ABRANGÊNCIA ................................................................................ 9
+CAPÍTULO I – OBJETIVO E ABRANGÊNCIA .............................................................................. 9
 
-TÍTULO II - REGRAS E PROCEDIMENTOS PARA CONTRATAÇÃO DE TERCEIROS ..................... 11
+TÍTULO II - REGRAS E PROCEDIMENTOS PARA CONTRATAÇÃO DE TERCEIROS .................. 11
 
-CAPÍTULO II – REGRAS GERAIS ............................................................................................... 11
+CAPÍTULO II – REGRAS GERAIS .............................................................................................. 11
 
-TÍTULO III – REGRAS E PROCEDIMENTOS PARA AS OFERTAS PÚBLICAS ................................ 13
+TÍTULO III – REGRAS E PROCEDIMENTOS PARA AS OFERTAS PÚBLICAS ............................. 13
 
-CAPÍTULO III – REGRAS GERAIS .............................................................................................. 13
+CAPÍTULO III – REGRAS GERAIS ............................................................................................. 13
 
-CAPÍTULO IV – REGRAS A SEREM OBSERVADAS NA ESTRUTURAÇÃO DE OFERTAS .............. 16
+CAPÍTULO IV – REGRAS A SEREM OBSERVADAS NA ESTRUTURAÇÃO DE OFERTAS ........... 17
 
-SEÇÃO I - RATING ................................................................................................................... 16
+SEÇÃO I - RATING ................................................................................................................... 17
 
 SEÇÃO II – DEAL COUNSEL ..................................................................................................... 17
 
-CAPÍTULO V – DOCUMENTOS DA OFERTA PÚBLICA .............................................................. 18
+SEÇÃO III – GARANTIA FIRME ............................................................................................... 18
 
-SEÇÃO I – PROSPECTO ........................................................................................................... 18
+CAPÍTULO V – DOCUMENTOS DA OFERTA ........................................................................... 19
 
-SEÇÃO II – DEMAIS DOCUMENTOS ........................................................................................ 21
+SEÇÃO I – PROSPECTO ........................................................................................................... 19
 
-CAPÍTULO VI – PUBLICIDADE DA OFERTA .............................................................................. 22
+SEÇÃO II – DEMAIS DOCUMENTOS ....................................................................................... 24
 
-CAPÍTULO VII – REGISTRO DAS OFERTAS NA ANBIMA .......................................................... 23
+CAPÍTULO VI – PUBLICIDADE DA OFERTA............................................................................. 25
 
-SEÇÃO I – REGRAS GERAIS ..................................................................................................... 23
+CAPÍTULO VII – REGISTRO DAS OFERTAS NA ANBIMA ........................................................ 26
 
-SEÇÃO III – OFERTAS PÚBLICAS DE VALORES MOBILIÁRIOS DESTINADAS EXCLUSIVAMENTE A
+SEÇÃO I – REGRAS GERAIS .................................................................................................... 26
 
-INVESTIDORES PROFISSIONAIS .............................................................................................. 25
+SEÇÃO II – OFERTAS PÚBLICAS DESTINADAS AO PÚBLICO EM GERAL E/OU INVESTIDORES
 
-CAPÍTULO VIII – ENVIO DE INFORMAÇÕES PARA A BASE DE DADOS .................................... 26
+QUALIFICADOS ....................................................................................................................... 27
 
-SEÇÃO I - REGISTRO ............................................................................................................... 26
+SEÇÃO III – OFERTAS PÚBLICAS DE VALORES MOBILIÁRIOS DESTINADAS EXCLUSIVAMENTE
 
-SEÇÃO II – MULTAS ................................................................................................................ 27
+A INVESTIDORES PROFISSIONAIS .......................................................................................... 29
 
-TÍTULO IV – DISPOSIÇÕES GERAIS ......................................................................................... 27
+CAPÍTULO VIII – ENVIO DE INFORMAÇÕES PARA O BANCO DE DADOS ............................. 30
 
-CAPÍTULO IX – DISPOSIÇÕES FINAIS ...................................................................................... 27
+SEÇÃO I - REGISTRO ............................................................................................................... 30
+
+TÍTULO IV – DISPOSIÇÕES GERAIS......................................................................................... 31
+
+CAPÍTULO IX – DISPOSIÇÕES FINAIS ..................................................................................... 31
 
 ANEXO COMPLEMENTAR I - REGRAS E PROCEDIMENTOS PARA A ATIVIDADE DE
 
-COORDENADORES DE OFERTAS PÚBLICAS ...................................................................... 28
+COORDENADORES DE OFERTAS PÚBLICAS ........................................................................... 32
 
-CAPÍTULO I – OBJETIVO E ABRANGÊNCIA .............................................................................. 28
+CAPÍTULO I – OBJETIVO E ABRANGÊNCIA ............................................................................ 32
 
-CAPÍTULO II – DEVERES E OBRIGAÇÕES ................................................................................. 28
+CAPÍTULO II – DEVERES E OBRIGAÇÕES................................................................................ 32
 
-2
-
-CAPÍTULO III – DISPOSIÇÕES FINAIS ...................................................................................... 31
+CAPÍTULO III – DISPOSIÇÕES FINAIS ..................................................................................... 35
 
 ANEXO COMPLEMENTAR II - REGRAS E PROCEDIMENTOS PARA A ATIVIDADE DE
 
-COMPANHIA SECURITIZADORA ....................................................................................... 32
+COMPANHIA SECURITIZADORA ............................................................................................ 36
 
-CAPÍTULO I – OBJETIVO E ABRANGÊNCIA .............................................................................. 32
+CAPÍTULO I – OBJETIVO E ABRANGÊNCIA ............................................................................ 36
 
-CAPÍTULO II – DEVERES E OBRIGAÇÕES ................................................................................. 32
+CAPÍTULO II – DEVERES E OBRIGAÇÕES................................................................................ 36
 
-CAPÍTULO III - CONTRATAÇÃO DE TERCEIROS EM OPERAÇÕES DE SECURITIZAÇÃO ............ 34
+CAPÍTULO III - CONTRATAÇÃO DE TERCEIROS EM OPERAÇÕES DE SECURITIZAÇÃO ......... 40
 
-CAPÍTULO IV – PROTEÇÃO DO PATRIMÔNIO SEPARADO ...................................................... 35
+CAPÍTULO IV – PROTEÇÃO DO PATRIMÔNIO SEPARADO .................................................... 41
 
-SEÇÃO I – AQUISIÇÃO DE DIREITOS CREDITÓRIOS ................................................................ 35
+SEÇÃO I – AQUISIÇÃO DE DIREITOS CREDITÓRIOS ............................................................... 41
 
-SEÇÃO II – MONITORAMENTO DOS DIREITOS CREDITÓRIOS ................................................ 36
+SEÇÃO II – MONITORAMENTO DOS DIREITOS CREDITÓRIOS .............................................. 42
 
-CAPÍTULO V – TRATAMENTO DE INFORMAÇÕES ENTRE SECURITIZADORA E AGENTES ....... 37
+SEÇÃO III – INVESTIMENTOS DOS RECURSOS DO PATRIMÔNIO SEPARADO ...................... 43
 
-CAPÍTULO VI – TRATAMENTO DE INFORMAÇÕES ENTRE SECURITIZADORA E INVESTIDORES38
+CAPÍTULO V – TRATAMENTO DE INFORMAÇÕES ENTRE SECURITIZADORA E AGENTES .... 44
 
-CAPÍTULO VII – DISPOSIÇÕES FINAIS ..................................................................................... 38
+CAPÍTULO VI – TRATAMENTO DE INFORMAÇÕES ENTRE SECURITIZADORA E INVESTIDORES
+
+................................................................................................................................................ 45
+
+CAPÍTULO VII – DISPOSIÇÕES FINAIS .................................................................................... 46
 
 ANEXO COMPLEMENTAR III - REGRAS E PROCEDIMENTOS PARA AS ATIVIDADES DE
 
-AGENTE FIDUCIÁRIO E AGENTE DE NOTAS ...................................................................... 39
+AGENTE FIDUCIÁRIO E AGENTE DE NOTAS .......................................................................... 47
 
-CAPÍTULO I – OBJETIVO E ABRANGÊNCIA .............................................................................. 39
+CAPÍTULO I – OBJETIVO E ABRANGÊNCIA ............................................................................ 47
 
-CAPÍTULO II – DEVERES E OBRIGAÇÕES ................................................................................. 40
+CAPÍTULO II – DEVERES E OBRIGAÇÕES................................................................................ 48
 
-CAPÍTULO III – CONVOCAÇÃO DE ASSEMBLEIAS DE TITULARES DE VALORES MOBILIÁRIOS 47
+CAPÍTULO III – CONVOCAÇÃO DE ASSEMBLEIAS DE TITULARES DE VALORES MOBILIÁRIOS56
 
-SEÇÃO I – REGRAS PARA CONVOCAÇÃO DE ASSEMBLEIAS ................................................... 47
+SEÇÃO I – REGRAS PARA CONVOCAÇÃO DE ASSEMBLEIAS ................................................. 56
 
-SEÇÃO II – VENCIMENTO OU RESGATE ANTECIPADO DA OFERTA PÚBLICA ......................... 48
+SEÇÃO II – VENCIMENTO OU RESGATE ANTECIPADO DO VALOR MOBILIÁRIO .................. 57
 
-CAPÍTULO IV – TRATAMENTO DE INFORMAÇÕES ENTRE O AGENTE FIDUCIÁRIO E OS
+CAPÍTULO IV – TRATAMENTO DE INFORMAÇÕES ENTRE O AGENTE FIDUCIÁRIO E AS
 
-EMISSORES DE VALORES MOBILIÁRIOS ................................................................................. 49
+EMISSORAS DE VALORES MOBILIÁRIOS ............................................................................... 58
 
-CAPÍTULO V – TRATAMENTO DE INFORMAÇÕES AOS INVESTIDORES .................................. 50
+CAPÍTULO V – TRATAMENTO DE INFORMAÇÕES AOS INVESTIDORES................................ 59
 
-CAPÍTULO VI – DISPOSIÇÕES FINAIS ...................................................................................... 51
-
-ANEXO COMPLEMENTAR IV - REGRAS E PROCEDIMENTOS PARA OFERTAS PÚBLICAS DE
-
-RENDA FIXA .................................................................................................................... 52
-
-CAPÍTULO I – OBJETIVO E ABRANGÊNCIA .............................................................................. 52
-
-CAPÍTULO II – DOCUMENTOS DA OFERTA PÚBLICA .............................................................. 52
-
-SEÇÃO I – OFERTAS PÚBLICAS DESTINADAS A INVESTIDORES QUALIFICADOS E/OU AO
-
-PÚBLICO EM GERAL ............................................................................................................... 52
+CAPÍTULO VI – DISPOSIÇÕES FINAIS ..................................................................................... 59
 
 3
 
-SEÇÃO II – OFERTAS PÚBLICAS DESTINADAS A INVESTIDORES PROFISSIONAIS .................... 54
+ANEXO COMPLEMENTAR IV - REGRAS E PROCEDIMENTOS PARA OFERTAS PÚBLICAS DE
 
-CAPÍTULO III – REGRAS OBRIGATÓRIAS PARA ESTRUTURAÇÃO DE OFERTAS PÚBLICAS DE
+RENDA FIXA ........................................................................................................................... 61
 
-RENDA FIXA ........................................................................................................................... 54
+CAPÍTULO I – OBJETIVO E ABRANGÊNCIA ............................................................................ 61
 
-SEÇÃO I – PROCEDIMENTO DE PRECIFICAÇÃO (BOOKBUILDING) ......................................... 55
+CAPÍTULO II – DOCUMENTOS DA OFERTA PÚBLICA ............................................................ 61
 
-SEÇÃO II – FORMADOR DE MERCADO ................................................................................... 56
+SEÇÃO I – OFERTAS PÚBLICAS DESTINADAS A INVESTIDORES QUALIFICADOS E/OU AO
 
-SEÇÃO III - DIVULGAÇÃO DE INFORMAÇÕES ......................................................................... 57
+PÚBLICO EM GERAL ............................................................................................................... 61
 
-SEÇÃO IV – ATIVOS DIGITAIS ................................................................................................. 57
-
-CAPÍTULO IV – DISPOSIÇÕES FINAIS ...................................................................................... 58
-
-ANEXO COMPLEMENTAR V - REGRAS E PROCEDIMENTOS PARA OFERTA PÚBLICA DE
-
-RENDA VARIÁVEL ........................................................................................................... 59
-
-CAPÍTULO I – OBJETIVO E ABRANGÊNCIA .............................................................................. 59
-
-CAPÍTULO II – DOCUMENTOS DA OFERTA PÚBLICA .............................................................. 59
-
-SEÇÃO I – OFERTAS PÚBLICAS DESTINADAS AO PÚBLICO EM GERAL E/OU QUALIFICADO .. 59
-
-SEÇÃO II – OFERTAS PÚBLICAS DESTINADAS A INVESTIDOR PROFISSIONAL ......................... 60
+SEÇÃO II – OFERTAS PÚBLICAS DESTINADAS A INVESTIDORES PROFISSIONAIS ................ 63
 
 CAPÍTULO III – PRÁTICAS OBRIGATÓRIAS PARA ESTRUTURAÇÃO DE OFERTAS PÚBLICAS DE
 
-RENDA VARIÁVEL ................................................................................................................... 61
+RENDA FIXA ........................................................................................................................... 64
 
-SEÇÃO I – LISTAGEM EM SEGMENTOS ESPECIAIS ................................................................. 61
+SEÇÃO I – INTERVENIENTE FIDUCIÁRIO ................................................................................ 64
 
-SEÇÃO II – LOCK-UP DE POSIÇÕES PROPRIETÁRIAS ............................................................... 61
+SEÇÃO II – PROCEDIMENTO DE PRECIFICAÇÃO (BOOKBUILDING) ...................................... 65
 
-SEÇÃO III – COORDENADOR ADICIONAL ................................................................................ 65
+SEÇÃO III – FORMADOR DE MERCADO ................................................................................. 66
 
-SEÇÃO IV – DILIGÊNCIA ESPECÍFICA PARA RENDA VARIÁVEL ................................................ 67
+SEÇÃO IV - DIVULGAÇÃO DE INFORMAÇÕES ....................................................................... 67
 
-CAPÍTULO IV – DISPOSIÇÕES FINAIS ...................................................................................... 68
+SEÇÃO V – ATIVOS DIGITAIS .................................................................................................. 67
 
-ANEXO COMPLEMENTAR VI – REGRAS E PROCEDIMENTOS PARA AS OFERTAS PÚBLICAS DE
+CAPÍTULO IV – DESMEMBRAMENTO DE DEBÊNTURES........................................................ 68
 
-SECURITIZAÇÃO .............................................................................................................. 69
+SEÇÃO I – OBJETIVO E ABRANGÊNCIA .................................................................................. 68
 
-CAPÍTULO I – OBJETIVO E ABRANGÊNCIA .............................................................................. 69
+SEÇÃO II – REGRAS DE CONDUTA PARA DESMEMBRAMENTO DE DEBÊNTURES ............... 69
 
-CAPÍTULO II – DOCUMENTOS DA OFERTA PÚBLICA .............................................................. 69
+SEÇÃO III -REQUISITOS MÍNIMOS PARA OFERTAS PÚBLICAS DE DESMEMBRAMENTO DE
 
-SEÇÃO I – OFERTAS PÚBLICAS DESTINADAS AO PÚBLICO EM GERAL E/OU A INVESTIDORES
+DEBÊNTURES .......................................................................................................................... 69
 
-QUALIFICADOS ....................................................................................................................... 69
+CAPÍTULO V – DISPOSIÇÕES FINAIS ...................................................................................... 70
 
-SEÇÃO II – DISPOSIÇÕES ESPECÍFICAS APLICÁVEIS ÀS OFERTAS PÚBLICAS DE CR, CRI, CRA E
+ANEXO COMPLEMENTAR V – REGRAS E PROCEDIMENTOS PARA OFERTA PÚBLICA DE
 
-TÍTULOS DE SECURITIZAÇÃO EMITIDOS POR SECURITIZADORA ............................................ 77
+RENDA VARIÁVEL .................................................................................................................. 71
 
-SEÇÃO III – OFERTAS PÚBLICAS DESTINADAS A INVESTIDORES PROFISSIONAIS ................... 79
+CAPÍTULO I – OBJETIVO E ABRANGÊNCIA ............................................................................ 71
+
+CAPÍTULO II – DOCUMENTOS DA OFERTA PÚBLICA ............................................................ 71
+
+SEÇÃO I – OFERTAS PÚBLICAS DESTINADAS AO PÚBLICO EM GERAL E/OU QUALIFICADO71
+
+SEÇÃO II – OFERTAS PÚBLICAS DESTINADAS A INVESTIDOR PROFISSIONAL ...................... 72
+
+CAPÍTULO III – PRÁTICAS OBRIGATÓRIAS PARA ESTRUTURAÇÃO DE OFERTAS PÚBLICAS DE
+
+RENDA VARIÁVEL .................................................................................................................. 73
+
+SEÇÃO I – LISTAGEM EM SEGMENTOS ESPECIAIS ................................................................ 73
+
+SEÇÃO II – LOCK-UP DE POSIÇÕES PROPRIETÁRIAS ............................................................. 73
 
 4
 
-CAPÍTULO III – REGISTRO DAS OFERTAS DE SECURITIZAÇÃO NA ANBIMA ............................ 80
+SEÇÃO III – COORDENADOR ADICIONAL .............................................................................. 77
 
-CAPÍTULO IV – PRÁTICAS A SEREM OBSERVADAS NA ESTRUTURAÇÃO DE OFERTAS DE
+SEÇÃO IV – DILIGÊNCIA ESPECÍFICA PARA RENDA VARIÁVEL .............................................. 79
 
-SECURITIZAÇÃO ..................................................................................................................... 80
+CAPÍTULO IV – DISPOSIÇÕES FINAIS ..................................................................................... 80
 
-SEÇÃO I – DIVULGAÇÃO DE INFORMAÇÕES .......................................................................... 80
+ANEXO COMPLEMENTAR VI – REGRAS E PROCEDIMENTOS PARA AS OFERTAS PÚBLICAS DE
 
-SEÇÃO II – ATIVOS DIGITAIS ................................................................................................... 81
+SECURITIZAÇÃO ..................................................................................................................... 81
 
-CAPÍTULO V – DISPOSIÇÕES FINAIS ....................................................................................... 82
+CAPÍTULO I – OBJETIVO E ABRANGÊNCIA ............................................................................ 81
+
+CAPÍTULO II – DOCUMENTOS DA OFERTA PÚBLICA ............................................................ 81
+
+SEÇÃO I – OFERTAS PÚBLICAS DESTINADAS AO PÚBLICO EM GERAL E/OU A INVESTIDORES
+
+QUALIFICADOS ....................................................................................................................... 81
+
+SEÇÃO II – DISPOSIÇÕES ESPECÍFICAS APLICÁVEIS ÀS OFERTAS PÚBLICAS DE CR, CRI, CRA E
+
+TÍTULOS DE SECURITIZAÇÃO EMITIDOS POR SECURITIZADORA ......................................... 89
+
+SEÇÃO III – OFERTAS PÚBLICAS DESTINADAS A INVESTIDORES PROFISSIONAIS ............... 92
+
+CAPÍTULO III – REGISTRO DAS OFERTAS DE SECURITIZAÇÃO NA ANBIMA ......................... 92
+
+CAPÍTULO IV – PRÁTICAS OBRIGATÓRIAS PARA ESTRUTURAÇÃO DE OFERTAS DE
+
+SECURITIZAÇÃO ..................................................................................................................... 93
+
+SEÇÃO I – DIVULGAÇÃO DE INFORMAÇÕES ......................................................................... 93
+
+SEÇÃO II – ATIVOS DIGITAIS .................................................................................................. 94
+
+CAPÍTULO V – DISPOSIÇÕES FINAIS ...................................................................................... 94
 
 ANEXO COMPLEMENTAR VII – REGRAS E PROCEDIMENTOS PARA OFERTA PÚBLICA DE
 
-COTAS DE FUNDOS FECHADOS ........................................................................................ 83
+COTAS DE FUNDOS FECHADOS ............................................................................................. 95
 
-CAPÍTULO I – OBJETIVO E ABRANGÊNCIA .............................................................................. 83
+CAPÍTULO I – OBJETIVO E ABRANGÊNCIA ............................................................................ 95
 
-CAPÍTULO II – DOCUMENTAÇÃO DA OFERTA PÚBLICA ......................................................... 84
+CAPÍTULO II – DOCUMENTAÇÃO DA OFERTA PÚBLICA ....................................................... 96
 
 SEÇÃO I – OFERTAS PÚBLICAS DE FUNDOS DE INVESTIMENTO FECHADOS DESTINADAS A
 
-INVESTIDORES QUALIFICADOS E/OU AO PÚBLICO EM GERAL .............................................. 84
+INVESTIDORES QUALIFICADOS E/OU AO PÚBLICO EM GERAL ............................................ 96
 
 SEÇÃO II – OFERTAS PÚBLICAS DE FIDC DESTINADAS A INVESTIDORES QUALIFICADOS E/OU
 
-AO PÚBLICO EM GERAL ......................................................................................................... 86
+AO PÚBLICO EM GERAL ......................................................................................................... 98
 
-SEÇÃO III – OFERTAS PÚBLICAS DE FII DESTINADAS A INVESTIDORES QUALIFICADOS E/OU AO
+SEÇÃO III – OFERTAS PÚBLICAS DE FII DESTINADAS A INVESTIDORES QUALIFICADOS E/OU
 
-PÚBLICO EM GERAL ............................................................................................................... 95
+AO PÚBLICO EM GERAL ....................................................................................................... 107
 
 SEÇÃO IV – OFERTAS PÚBLICAS DE FIP DESTINADAS A INVESTIDORES QUALIFICADOS E/OU
 
-AO PÚBLICO EM GERAL ......................................................................................................... 98
-
-SEÇÃO V – OFERTAS PÚBLICAS DE FIAGRO DESTINADAS A INVESTIDORES QUALIFICADOS
-
-E/OU AO PÚBLICO EM GERAL .............................................................................................. 101
-
-SEÇÃO VI – OFERTAS PÚBLICAS DE FIF DESTINADAS A INVESTIDORES QUALIFICADOS E/OU
-
-AO PÚBLICO EM GERAL ....................................................................................................... 102
-
-SEÇÃO VII – OFERTAS PÚBLICAS DESTINADAS A INVESTIDORES PROFISSIONAIS ................ 103
-
-CAPÍTULO III – DISPOSIÇÕES GERAIS E FINAIS ..................................................................... 103
-
-ANEXO COMPLEMENTAR VIII – REGRAS E PROCEDIMENTOS PARA DOCUMENTOS E
-
-INFORMAÇÕES OBRIGATÓRIAS ..................................................................................... 104
-
-CAPÍTULO I – OBJETIVO E ABRANGÊNCIA ............................................................................ 104
-
-CAPÍTULO II – DOCUMENTOS OBRIGATÓRIOS .................................................................... 104
-
-SEÇÃO I – SUMÁRIO DE DÍVIDA ........................................................................................... 104
-
-SEÇÃO II – MEMORANDO DE AÇÕES ................................................................................... 104
+AO PÚBLICO EM GERAL ....................................................................................................... 110
 
 5
 
-SEÇÃO III – SUMÁRIO DE SECURITIZAÇÃO ........................................................................... 104
+SEÇÃO V – OFERTAS PÚBLICAS DE FIAGRO DESTINADAS A INVESTIDORES QUALIFICADOS
 
-SEÇÃO IV – SUMÁRIO DE FUNDOS FECHADOS .................................................................... 105
+E/OU AO PÚBLICO EM GERAL ............................................................................................. 113
 
-SEÇÃO V – QUESTIONÁRIO DE DILIGÊNCIA DO SERVICER ................................................... 105
+SEÇÃO VI – OFERTAS PÚBLICAS DE FIF DESTINADAS A INVESTIDORES QUALIFICADOS E/OU
 
-CAPÍTULO III – PROCEDIMENTOS AUXILIARES PARA ENVIO DE INFORMAÇÕES PARA A BASE
+AO PÚBLICO EM GERAL ....................................................................................................... 114
 
-DE DADOS ............................................................................................................................ 105
+SEÇÃO VII – OFERTAS PÚBLICAS DESTINADAS A INVESTIDORES PROFISSIONAIS ............ 115
 
-SEÇÃO I – ENVIO PARA BASE DE DADOS DE CRI .................................................................. 105
+CAPÍTULO III – DISPOSIÇÕES GERAIS E FINAIS ................................................................... 115
 
-CAPÍTULO IV – DISPOSIÇÕES GERAIS E FINAIS ..................................................................... 107
+ANEXO COMPLEMENTAR VIII – REGRAS E PROCEDIMENTOS PARA DOCUMENTOS E
 
-APÊNDICE Nº 1 – SUMÁRIO DE DÍVIDA ......................................................................... 109
+INFORMAÇÕES OBRIGATÓRIAS .......................................................................................... 116
 
-APÊNDICE Nº 2 – MEMORANDO DE AÇÕES ................................................................... 113
+CAPÍTULO I – OBJETIVO E ABRANGÊNCIA .......................................................................... 116
 
-APÊNDICE Nº 3 – SUMÁRIO DE SECURITIZAÇÃO ............................................................ 115
+CAPÍTULO II – DOCUMENTOS OBRIGATÓRIOS ................................................................... 116
 
-APÊNDICE Nº 4 – SUMÁRIO DE FUNDOS FECHADOS ...................................................... 120
+SEÇÃO I – SUMÁRIO DE DÍVIDA .......................................................................................... 116
 
-APÊNDICE Nº 5 – QUESTIONÁRIO DE DUE DILIGENCE PARA CONTRATAÇÃO DO SERVICER122
+SEÇÃO II – MEMORANDO DE AÇÕES .................................................................................. 116
 
-ANEXO COMPLEMENTAR IX - CLASSIFICAÇÃO DE CRI E CRA .......................................... 129
+SEÇÃO III – SUMÁRIO DE SECURITIZAÇÃO ......................................................................... 116
 
-CAPÍTULO I – CLASSIFICAÇÃO DE CRI ................................................................................... 129
+SEÇÃO IV – SUMÁRIO DE FUNDOS FECHADOS ................................................................... 117
 
-SEÇÃO I - OBJETIVO E ABRANGÊNCIA .................................................................................. 129
+SEÇÃO V – QUESTIONÁRIO DE DILIGÊNCIA DO SERVICER ................................................. 117
 
-SEÇÃO II – CLASSIFICAÇÃO DO CRI ...................................................................................... 129
+CAPÍTULO III – DISPOSIÇÕES GERAIS E FINAIS ................................................................... 117
 
-CAPÍTULO II – CLASSIFICAÇÃO DE CRA ................................................................................ 131
+APÊNDICE Nº 1 – SUMÁRIO DE DÍVIDA RENDA FIXA ......................................................... 119
 
-SEÇÃO I - OBJETIVO E ABRANGÊNCIA .................................................................................. 131
+APÊNDICE Nº 2 – MEMORANDO DE AÇÕES ....................................................................... 123
 
-SEÇÃO II – CLASSIFICAÇÃO DO CRA ..................................................................................... 132
+APÊNDICE Nº 3 – SUMÁRIO DE SECURITIZAÇÃO ................................................................ 125
 
-SEÇÃO III – DISPOSIÇÕES FINAIS .......................................................................................... 133
+APÊNDICE Nº 4 – SUMÁRIO DE FUNDOS FECHADOS ......................................................... 135
 
-ANEXO COMPLEMENTAR X – REGRAS E PROCEDIMENTOS DESTINADAS A OFERTA PÚBLICA
+APÊNDICE Nº 5 – QUESTIONÁRIO DE DUE DILIGENCE PARA CONTRATAÇÃO DO SERVICER137
 
-DE TÍTULO SUSTENTÁVEL .............................................................................................. 134
+1. INFORMAÇÕES CADASTRAIS ....................................................................................... 137
 
-CAPÍTULO I – OBJETIVO E ABRANGÊNCIA ............................................................................ 134
+2. INFORMAÇÕES INSTITUCIONAIS..................................................................................... 138
 
-CAPÍTULO II – PRINCÍPIOS E CONDUTAS PARA ESTRUTURAÇÃO, COORDENAÇÃO E
+3. RECEITAS E DADOS FINANCEIROS ................................................................................... 139
 
-DISTRIBUIÇÃO DE OFERTAS PÚBLICAS DE TÍTULOS SUSTENTÁVEIS .................................... 136
+4. RECURSOS HUMANOS ..................................................................................................... 139
 
-CAPÍTULO III – DOCUMENTOS DA EMISSÃO ........................................................................ 137
+5. ESTRUTURA TECNOLÓGICA ............................................................................................. 140
 
-SEÇÃO I – TÍTULOS DE USO DE RECURSOS .......................................................................... 137
+6. COMPLIANCE E CONTROLES INTERNOS .......................................................................... 140
 
-SEÇÃO II – TÍTULOS VINCULADOS A METAS DE SUSTENTABILIDADE .................................. 139
+7. PREVENÇÃO À LAVAGEM DE DINHEIRO E ANTICORRUPÇÃO ........................................ 141
 
-SEÇÃO III – TÍTULOS SUSTENTÁVEIS HÍBRIDOS .................................................................... 141
+8. JURÍDICO .......................................................................................................................... 142
 
 6
 
-CAPÍTULO IV – DOCUMENTOS DA OFERTA PÚBLICA ........................................................... 141
+9. MONITORAMENTO E COBRANÇA DOS DIREITOS CREDITÓRIOS ADQUIRIDOS ............ 142
 
-SEÇÃO I – TÍTULOS DE USO DE RECURSOS .......................................................................... 141
+10. ANEXOS OU ENDEREÇO ELETRÔNICO ........................................................................... 142
 
-SEÇÃO II – TÍTULOS VINCULADOS A METAS DE SUSTENTABILIDADE .................................. 143
+APÊNDICE Nº 6 – RELATÓRIO PADRONIZADO DE INFORMAÇÕES TRIMESTRAIS ............. 144
 
-SEÇÃO III – TÍTULOS SUSTENTÁVEIS HÍBRIDOS .................................................................... 146
+ANEXO COMPLEMENTAR IX - CLASSIFICAÇÃO DE CRI E CRA ............................................. 148
 
-CAPÍTULO V – DIVULGAÇÃO DE INFORMAÇÕES AOS INVESTIDORES .................................. 146
+CAPÍTULO I – OBJETIVO E ABRANGÊNCIA .......................................................................... 148
 
-SEÇÃO I –TÍTULOS DE USO DE RECURSOS ........................................................................... 146
+CAPÍTULO II – CLASSIFICAÇÃO DE CRI ................................................................................. 148
 
-SEÇÃO II –TÍTULOS VINCULADOS A METAS DE SUSTENTABILIDADE ................................... 147
+CAPÍTULO III – CLASSIFICAÇÃO DE CRA .............................................................................. 152
 
-SEÇÃO III –TÍTULOS HÍBRIDOS ............................................................................................. 148
+CAPÍTULO IV – DISPOSIÇÕES FINAIS ................................................................................... 157
 
-CAPÍTULO VI – DISPOSIÇÕES FINAIS .................................................................................... 148
+ANEXO COMPLEMENTAR X – REGRAS E PROCEDIMENTOS DESTINADAS A OFERTA PÚBLICA
+
+DE TÍTULO SUSTENTÁVEL .................................................................................................... 158
+
+CAPÍTULO I – OBJETIVO E ABRANGÊNCIA .......................................................................... 158
+
+CAPÍTULO II – PRINCÍPIOS E CONDUTAS PARA ESTRUTURAÇÃO, COORDENAÇÃO E
+
+DISTRIBUIÇÃO DE OFERTAS PÚBLICAS DE TÍTULOS SUSTENTÁVEIS .................................. 160
+
+CAPÍTULO III – DOCUMENTOS DA EMISSÃO ...................................................................... 161
+
+SEÇÃO I – TÍTULOS DE USO DE RECURSOS ......................................................................... 161
+
+SEÇÃO II – TÍTULOS VINCULADOS A METAS DE SUSTENTABILIDADE ................................ 163
+
+SEÇÃO III – TÍTULOS SUSTENTÁVEIS HÍBRIDOS .................................................................. 165
+
+CAPÍTULO IV – DOCUMENTOS DA OFERTA PÚBLICA ......................................................... 165
+
+SEÇÃO I – TÍTULOS DE USO DE RECURSOS ......................................................................... 165
+
+SEÇÃO II – TÍTULOS VINCULADOS A METAS DE SUSTENTABILIDADE ................................ 168
+
+SEÇÃO III – TÍTULOS SUSTENTÁVEIS HÍBRIDOS .................................................................. 170
+
+CAPÍTULO V – DIVULGAÇÃO DE INFORMAÇÕES AOS INVESTIDORES ............................... 170
+
+SEÇÃO I –TÍTULOS DE USO DE RECURSOS .......................................................................... 170
+
+SEÇÃO II –TÍTULOS VINCULADOS A METAS DE SUSTENTABILIDADE ................................. 171
+
+SEÇÃO III – TÍTULOS HÍBRIDOS ............................................................................................ 172
+
+CAPÍTULO VI – DISPOSIÇÕES FINAIS ................................................................................... 172
 
 7
 
@@ -346,7 +376,7 @@ INTRODUÇÃO
 
 Estas Regras e Procedimentos e seus Anexos Complementares, aprovados pelo Fórum de
 
-Estruturação de Mercado de Capitais da ANBIMA, dispõem sobre as atividades de estruturação,
+Estruturação de Mercado de Capitais da Anbima, dispõem sobre as atividades de estruturação,
 
 coordenação e Distribuição de Ofertas Públicas de Valores Mobiliários.
 
@@ -358,7 +388,7 @@ e seus Anexos Complementares. Estas regras são complementares ao referido Códi
 
 seguidas pelas Instituições Participantes que decidirem aderi-lo.
 
-A ANBIMA, autorreguladora privada, tem competência para supervisionar apenas o disposto
+A Anbima, autorreguladora privada, tem competência para supervisionar apenas o disposto
 
 expressamente nestas Regras e Procedimentos e em seus anexos, não estendendo, portanto, sua
 
@@ -376,7 +406,7 @@ respectivas atividades.
 
 Os termos e expressões utilizados nestas Regras e Procedimentos e em seus anexos, quando
 
-aplicável, terão os respectivos significados a eles atribuídos no Glossário ANBIMA, disponível no site
+aplicável, terão os respectivos significados a eles atribuídos no Glossário Anbima, disponível no site
 
 da Associação.
 
@@ -394,13 +424,13 @@ O presente normativo tem por objetivo estabelecer as regras e os procedimentos q
 
 complemento aos princípios previstos no Código, deverão ser observados pelas Instituições
 
-Participantes na estruturação, coordenação e Distribuição de Ofertas Públicas, observado o disposto
+Participantes na estruturação, coordenação e distribuição de Ofertas Públicas, observado o disposto
 
 nos parágrafos abaixo.
 
 §1º. As disposições desta Parte Geral são aplicáveis a todas as Ofertas Públicas
 
-indistintamente, sem prejuízo do disposto no parágrafo §2º abaixo.
+indistintamente, sem prejuízo do disposto no §2º abaixo.
 
 §2º. Em complemento ao disposto nesta Parte Geral, as Instituições Participantes deverão
 
@@ -436,17 +466,17 @@ renda variável;
 
 VI. VII. VIII. IX. Anexo Complementar VI: Regras e Procedimentos específicos para as Ofertas Públicas de
 
-Securitização; e
+Securitização;
 
 Anexo Complementar VII: Regras e Procedimentos específicos para as Ofertas Públicas de
 
-Fundos Fechados;
+cotas de Fundos Fechados;
 
 Anexo Complementar VIII: Regras e Procedimentos para documentos e informações
 
-obrigatórias.
+obrigatórias; e
 
-Anexo Complementar IX: Regras e Procedimentos para classificação de CRI e CRA
+Anexo Complementar IX: Regras e Procedimentos para classificação de CRI e CRA.
 
 §3º. Anexo a estas Regras e Procedimentos constam, também, modelos de documentos que
 
@@ -456,7 +486,7 @@ destas Regras e Procedimentos.
 
 §4º. As Instituições Participantes poderão, ao seu critério, optar pela utilização do destaque
 
-de melhores práticas em Oferta Sustentáveis, nos termos do Anexo Complementar X destas Regras
+de melhores práticas em Ofertas Sustentáveis, nos termos do Anexo Complementar X destas Regras
 
 e Procedimentos.
 
@@ -464,7 +494,7 @@ e Procedimentos.
 
 disposições contidas nestas Regras e Procedimentos e em seus respectivos Anexos Complementares
 
-compete, exclusivamente, ao Fórum de Estruturação de Mercado de Capitais da ANBIMA, que
+compete, exclusivamente, ao Fórum de Estruturação de Mercado de Capitais da Anbima, que
 
 poderá, inclusive, estabelecer novos Anexos Complementares a estas Regras e Procedimentos,
 
@@ -472,9 +502,9 @@ desde que relacionados às matérias constantes dos títulos e capítulos aplic�
 
 Ofertas Públicas.
 
-§6º. Em caso de eventual divergência entre as disposições desta Parte Geral àquelas previstas
+§6º. Em caso de eventual divergência entre as disposições desta Parte Geral e aquelas
 
-nos Anexos Complementares, prevalecem as disposições dos Anexos Complementares.
+previstas nos Anexos Complementares, prevalecem as disposições dos Anexos Complementares.
 
 10
 
@@ -486,7 +516,7 @@ CAPÍTULO II – REGRAS GERAIS
 
 ## Art. 2º
 
-. As Instituições Participantes, no exercício de suas atividades, podem contratar terceiros,
+As Instituições Participantes, no exercício de suas atividades, podem contratar terceiros,
 
 desde que observados:
 
@@ -510,7 +540,7 @@ internas envolvidas; e
 
 Descrição do processo de diligência adotado nos casos de contratação de terceiros para
 
-atividades que não possuam questionário ANBIMA de due diligence, observado o §2º
+atividades que não possuam Questionário Anbima de Due Diligence, observado o §2º
 
 deste artigo.
 
@@ -528,7 +558,7 @@ identificadas.
 
 §2º. Em seu processo de contratação de terceiros, a Instituição Participante deve exigir que o
 
-terceiro contratado responda ao questionário ANBIMA de due diligence específico para a atividade
+terceiro contratado responda ao Questionário Anbima de Due Diligence específico para a atividade
 
 contratada, quando aplicável, conforme modelos disponibilizados pela Associação em seu site, sem
 
@@ -562,7 +592,7 @@ disposto no parágrafo anterior.
 
 . A contratação de terceiros deve ser formalizada em documento escrito e ficar à disposição
 
-da ANBIMA sempre que solicitado.
+da Anbima sempre que solicitado.
 
 12
 
@@ -578,29 +608,29 @@ I. II. III. Participar apenas de Ofertas Públicas autorreguladas pelo Código d
 
 estas Regras e Procedimentos e cujos respectivos Coordenadores, Agentes Fiduciários,
 
-Agentes de Notas e Securitizadoras sejam Instituições Participantes ou integrantes do
+Agentes de Notas, Intervenientes Fiduciários e Securitizadoras sejam aderentes ao Código
 
-Conglomerado ou Grupo Econômico de Instituições Participantes;
+de Ofertas Públicas;
 
-Estimular a emissora, o cedente, a devedora do lastro de Títulos de Securitização e/ou os
+Estimular a emissora, o cedente, o devedor do lastro de Títulos de Securitização e/ou os
 
 ofertantes, conforme o caso, a contratar instituição para desenvolver a atividade de
 
-formador de mercado, para Ofertas Públicas de renda fixa e/ou securitização; e
+formador de mercado para Ofertas Públicas de renda fixa e/ou securitização; e
 
-Incentivar as emissoras, cedentes e/ou devedoras do lastro de Títulos de Securitização,
+Incentivar as emissoras, cedentes e/ou devedores do lastro de Títulos de Securitização,
 
 conforme o caso, a adotarem sempre padrões mais elevados de governança corporativa.
 
 Parágrafo único. Os Gestores de Recursos e os Administradores Fiduciários que atuarem na
 
-coordenação de Ofertas Públicas de Distribuição de cotas de Fundos Fechados por ele geridos ou
+coordenação de Ofertas Públicas de Distribuição de cotas de Fundos Fechados por eles geridos ou
 
 administrados, conforme o caso, nos termos permitidos pela CVM, estão sujeitos ao Código de
 
 Ofertas Públicas, à Parte Geral destas Regras e Procedimentos, no que couber, e ao Anexo
 
-Complementar VII, que trata de Oferta Pública de cotas de Fundos Fechados, sendo dispensado de
+Complementar VII, que trata de Oferta Pública de cotas de Fundos Fechados, sendo dispensados de
 
 observar todos os demais anexos, incluindo o anexo de atividade de Coordenadores.
 
@@ -608,15 +638,15 @@ observar todos os demais anexos, incluindo o anexo de atividade de Coordenadores
 
 . As Instituições Participantes contratadas no âmbito de uma Oferta Pública devem abster-se
 
-de dar publicidade à Oferta Pública, inclusive por meio de manifestações a respeito do emissor,
+de dar publicidade à Oferta Pública, inclusive por meio de manifestações a respeito da emissora,
 
 devedor e/ou cedente, conforme o caso, no período:
 
-I. Que se inicia na data mais antiga entre:
-
 13
 
-II. a. O momento em que a realização da Oferta Pública foi aprovada por meio de ato
+I. II. Que se inicia na data mais antiga entre:
+
+a. O momento em que a realização da Oferta Pública foi aprovada por meio de ato
 
 b. deliberativo ou, o momento do engajamento ou contratação do Coordenador líder no caso
 
@@ -624,23 +654,23 @@ de Oferta Pública exclusivamente secundária em que não haja tal ato deliberat
 
 O 30º (trigésimo) dia que antecede o protocolo do requerimento de registro da Oferta
 
-Pública junto à CVM ou à ANBIMA ou outra entidade autorizada pela CVM para análise
+Pública junto à CVM ou à Anbima ou outra entidade autorizada pela CVM para análise
 
 prévia do requerimento de registro.
 
 Que se encerra na data do Anúncio de Encerramento da Distribuição.
 
-§ 1º Após o início do período de Oferta Pública a mercado, é permitido ao ofertante, às
+§1º. Após o início do período de Oferta Pública a mercado, é permitido ao ofertante, às
 
 Instituições Participantes do consórcio de Distribuição e às pessoas contratadas que com estes
 
-estejam trabalhando ou os assessorando de qualquer forma dar ampla publicidade à Oferta Pública,
+estejam trabalhando ou os assessorando de qualquer forma, dar ampla publicidade à Oferta Pública,
 
 nas condições estabelecidas por este parágrafo, inclusive por meio da disseminação:
 
-I. II. Do Prospecto, da Lâmina da Oferta Pública, do sumário ou memorando, conforme o caso;
+I. Do Prospecto, da Lâmina da Oferta Pública, do sumário ou memorando, conforme o caso;
 
-De material de caráter explicativo e educacional que contenha aspectos úteis e relevantes
+II. De material de caráter explicativo e educacional que contenha aspectos úteis e relevantes
 
 para:
 
@@ -658,9 +688,9 @@ apresentações; e
 
 V. De entrevistas na mídia.
 
-§2º
+14
 
-. Durante o período que se inicia a Oferta Pública na data estabelecida no inciso I do caput
+§2º. Durante o período que se inicia a Oferta Pública na data estabelecida no inciso I do caput
 
 até a divulgação do Aviso ao Mercado ou do Anúncio de Início, conforme o caso, as pessoas
 
@@ -670,13 +700,11 @@ estritamente para os fins relacionados com a preparação da Oferta Pública, ad
 
 destinatários sobre o caráter reservado da informação transmitida.
 
-14
-
-§3º Não configuram infração ao disposto no caput as comunicações que atendam
+§3º. Não configuram infração ao disposto no caput as comunicações que atendam
 
 cumulativamente aos seguintes requisitos:
 
-I. II. III. Sejam efetuadas pelo emissor, pelos Prestadores de Serviços Essenciais do Fundo de
+I. II. III. Sejam efetuadas pela emissora, pelos Prestadores de Serviços Essenciais do Fundo de
 
 Investimento, ou por administradores ou colaboradores de tais pessoas jurídicas sem o
 
@@ -692,43 +720,33 @@ de registro da Oferta Pública junto à CVM ou à entidade autorreguladora autor
 
 CVM para análise prévia do requerimento de registro.
 
-§4º O disposto no caput não se aplica às divulgações realizadas por emissor registrado na CVM
+§4º O disposto no caput não se aplica às divulgações realizadas por emissora registrada na
 
-e por Prestador de Serviço Essencial a Fundo de Investimento, bem como pelos representantes
+CVM e por Prestador de Serviço Essencial do Fundo de Investimento, bem como pelos
 
-destes agentes:
+representantes destes agentes:
 
-I. II. III. Das informações periódicas e eventuais exigidas do emissor pela CVM ou por outra
+I. II. Das informações periódicas e eventuais exigidas da emissora pela CVM ou por outra
 
 autoridade reguladora ou autorreguladora competente;
 
 De informações do interesse do público investidor em geral divulgadas rotineiramente
 
-pelo emissor no curso de seus negócios, desde que realizadas de modo consistente com
+pela emissora no curso de seus negócios, desde que realizadas de modo consistente com
 
 as divulgações prévias; e
 
-De campanha de promoção publicitária, manifestações na mídia ou publicações
+15
 
-jornalísticas sobre os produtos e serviços oferecidos pelo emissor ou pelos Prestadores de
+III. De campanha de promoção publicitária, manifestações na mídia ou publicações
 
-Serviços Essenciais do Fundo, desde que não mencione uma Oferta Pública de Valores
+jornalísticas sobre os produtos e serviços oferecidos pela emissora ou pelos Prestadores
+
+de Serviços Essenciais do Fundo, desde que não mencione uma Oferta Pública de Valores
 
 Mobiliários.
 
-§5º Durante o período que se inicia na data estabelecida nos termos do inciso I do caput e até
-
-a divulgação do Aviso ao Mercado, as pessoas mencionadas no caput devem limitar a revelação e
-
-15
-
-utilização de informação relativa à Oferta Pública estritamente para os fins relacionados com a
-
-preparação da Oferta Pública, advertindo os destinatários sobre o caráter reservado da informação
-
-transmitida.
-
-§6º O emissor dos Valores Mobiliários objeto da Oferta Pública, ainda que não seja o próprio
+§5º. A emissora dos Valores Mobiliários objeto da Oferta Pública, ainda que não seja o próprio
 
 ofertante, também se sujeita ao dever de abstenção de que trata o caput a partir do período que se
 
@@ -747,6 +765,8 @@ O 30º (trigésimo) dia que antecede o protocolo do requerimento de registro da 
 Pública junto à CVM ou entidade autorreguladora autorizada pela CVM para análise prévia
 
 do requerimento de registro.
+
+16
 
 CAPÍTULO IV – REGRAS A SEREM OBSERVADAS NA ESTRUTURAÇÃO DE
 
@@ -768,8 +788,6 @@ o vencimento, bem como dar ampla divulgação de tal avaliação ao mercado, obs
 
 aplicável.
 
-16
-
 Parágrafo único. Na hipótese de as Ofertas Públicas não contarem com classificação de risco,
 
 nos termos do caput, seus documentos, incluindo o Prospecto, sumário e memorando, conforme o
@@ -788,97 +806,187 @@ I. II. 1 (um) assessor legal local contratado para representar os interesses do 
 
 e demais Coordenadores; e
 
-1 (um) assessor legal local contratado para representar o emissor, e/ou ofertante, cedente
+1 (um) assessor legal local contratado para representar a emissora, e/ou ofertante,
 
-e/ou devedor, conforme aplicável.
-
-§1º. O mesmo assessor legal não poderá representar os interesses dos Coordenadores e
-
-do emissor/ofertante de Valores Mobiliários ao mesmo tempo, inclusive quando se tratar de
-
-esforços de Distribuição no exterior.
-
-I. II. III. §2º. O disposto neste artigo não se aplica:
-
-às Ofertas Públicas de renda fixa e de securitização destinadas, exclusivamente, a
-
-investidores profissionais.;
-
-às Ofertas Públicas secundárias de renda fixa e de securitização realizadas por Coordenador
-
-e ofertante pertencentes ao mesmo Conglomerado ou Grupo Econômico; e
-
-às Ofertas Públicas de Securitização de própria emissão cujo Direitos Creditórios que
-
-componham o patrimônio separado já sejam previamente detidos pela Securitizadora
-
-ou entidades pertencentes ao mesmo Conglomerado ou Grupo Econômico, nos termos
-
-previstos na regulação.
+cedente e/ou devedor, conforme aplicável.
 
 17
 
-CAPÍTULO V – DOCUMENTOS DA OFERTA
+§1º. O mesmo assessor legal não poderá representar os interesses dos Coordenadores e da
+
+emissora/ofertante de Valores Mobiliários ao mesmo tempo, inclusive quando se tratar de esforços
+
+de Distribuição no exterior.
+
+§2º. O disposto neste artigo não se aplica:
+
+I. II. III. às Ofertas Públicas de renda fixa e de securitização destinadas, exclusivamente, a
+
+investidores profissionais;
+
+às Ofertas Públicas secundárias de renda fixa e de securitização realizadas por
+
+Coordenador e ofertante pertencentes ao mesmo Conglomerado ou Grupo Econômico; e
+
+às Ofertas Públicas de Securitização de própria emissão cujo Direitos Creditórios que irão
+
+compor o patrimônio separado já sejam previamente detidos pela Securitizadora ou
+
+entidades pertencentes ao mesmo Conglomerado ou Grupo Econômico, nos termos
+
+previstos na regulação.
+
+Seção III – Garantia Firme
 
 ## Art. 8º
 
-. As Instituições Participantes devem tomar todas as cautelas e agir com elevados padrões de
+Para fins desta Seção, considera-se garantia firme de colocação, no âmbito da estruturação
 
-diligência, respondendo pela falta de diligência ou omissão, para assegurar que as informações
+de Ofertas de Renda Fixa, Securitização e Fundos Fechados, a obrigação assumida pelo Coordenador
 
-prestadas ao público investidor com relação à Oferta Pública são suficientes, verdadeiras, precisas,
+e/ou seu Conglomerado e/ou Grupo Econômico e/ou Sociedades Designadas, de subscrever, com
 
-consistentes e atuais, permitindo aos investidores uma tomada de decisão fundamentada a respeito
+recursos próprios, os Valores Mobiliários da Oferta Pública que não forem colocados junto a
 
-da Oferta Pública.
+investidores, conforme o Procedimento de Bookbuilding, quando aplicável, e após a alocação, nos
 
-Seção I – Prospecto
+termos e condições estabelecidos nos documentos da oferta e na regulação vigente, conforme
+
+aplicável.
 
 ## Art. 9º
 
-. Sem prejuízo do disposto nos anexos a estas Regras e Procedimentos, o Prospecto da Oferta
+No caso de exercício parcial de garantia firme em operações com mais de um coordenador,
 
-Pública deve prever:
+a dedução da parcela da oferta que houver sido vendida a mercado será deduzida da garantia firme
 
-I. II. Relacionamento: apresentar a descrição dos relacionamentos relevantes existentes
-
-entre Coordenadores ou demais Instituições Participantes atuando diretamente na
-
-Distribuição de títulos de sua emissão e/ou cotas de Fundos por elas geridos, nos termos
-
-do Código de Ofertas Públicas e destas Regras e Procedimentos, e sociedades de seu
-
-Conglomerado ou Grupo Econômico, e cada um dos ofertantes, emissora, cedente,
-
-devedor representante de 20% (vinte por cento) ou mais do lastro da emissão,
-
-Administrador Fiduciário ou Gestor de Recursos de Fundos Fechados, conforme o caso,
-
-e sociedades de seu Conglomerado ou Grupo Econômico, contemplando:
-
-a. Os vínculos societários existentes;
-
-b. Os financiamentos existentes ou liquidados nos 12 (doze) meses anteriores que
-
-tenham influenciado na contratação dos Coordenadores para atuarem na Oferta
-
-Pública, caso aplicável; e
-
-c. A indicação sucinta das transações comerciais vigentes nos 12 (doze) meses
-
-anteriores e o montante agregado envolvido nessas transações.
-
-Destinação de recursos: apresentar as seguintes informações:
+oferecida por cada coordenador conforme o disposto no contrato de distribuição.
 
 18
 
-III. a. Exposição clara e objetiva do destino dos recursos provenientes da emissão, bem
+Parágrafo único. Em adição ao previsto no caput:
 
-como seu impacto na situação patrimonial e nos resultados do emissor, cedente e/ou
+I. II. Deve constar no contrato de distribuição da Oferta Pública:
 
-devedor, conforme o caso;
+a. o montante total da garantia firme de cada participante do consórcio de
 
-b. Se os recursos forem, direta ou indiretamente, utilizados na aquisição de Ativos, à
+distribuição;
+
+b. a forma como a parcela subscrita a mercado será abatida do montante de
+
+garantia firme oferecida pelos coordenadores; e
+
+c. os prazos e as condições para execução da garantia firme, conforme o caso.
+
+É vedada a utilização de recursos de terceiros, incluindo Veículos de Investimento que
+
+detenham recursos de terceiros, para fins de cômputo da garantia firme prestada pelo
+
+Coordenador e/ou seu Conglomerado e/ou Grupo Econômico e/ou Sociedades
+
+Designadas.
+
+CAPÍTULO V – DOCUMENTOS DA OFERTA
+
+## Art. 10
+
+As Instituições Participantes, no limite de suas respectivas atribuições, devem tomar todas
+
+as cautelas e agir com elevados padrões de diligência, respondendo pela falta de diligência ou
+
+omissão, para assegurar que as informações prestadas ao público investidor com relação à Oferta
+
+Pública são suficientes, verdadeiras, precisas, consistentes e atuais, permitindo aos investidores
+
+uma tomada de decisão fundamentada a respeito da Oferta Pública.
+
+Seção I – Prospecto
+
+## Art. 11
+
+Sem prejuízo do disposto nos anexos a estas Regras e Procedimentos, o Prospecto da Oferta
+
+Pública deve abranger, no mínimo, as seguintes seções e respectivos conteúdos:
+
+I. Relacionamento:
+
+19
+
+a. observado o § 2º deste artigo, apresentar a descrição dos relacionamentos
+
+relevantes existentes entre os Coordenadores ou demais Instituições Participantes
+
+atuando diretamente na distribuição de títulos de sua emissão e/ou de cotas de
+
+Fundos por elas geridos, nos termos do Código de Ofertas Públicas e destas Regras e
+
+Procedimentos, e, conforme a natureza do prospecto aplicável:
+
+i. ii. iii. iv. nas Ofertas Públicas de Renda Fixa, conforme Anexo Complementar IV destas
+
+Regras e Procedimentos: a emissora e/ou o ofertante, bem como as
+
+sociedades integrantes de seus respectivos Conglomerados ou Grupos
+
+Econômicos;
+
+nas Ofertas Públicas de Renda Variável, conforme Anexo Complementar V
+
+destas Regras e Procedimentos: a emissora e/ou o ofertante, bem como as
+
+sociedades integrantes de seus respectivos Conglomerados ou Grupos
+
+Econômicos;
+
+nas Ofertas Públicas de Securitização, conforme Anexo Complementar VI
+
+destas Regras e Procedimentos: o cedente, o devedor ou coobrigado
+
+responsável por 20% (vinte por cento) ou mais do lastro da emissão,
+
+conforme aplicável, bem como as sociedades integrantes de seus respectivos
+
+Conglomerados ou Grupos Econômicos; e
+
+nas Ofertas Públicas de Cotas de Fundos Fechados, conforme Anexo
+
+Complementar VII destas Regras e Procedimentos: o Administrador
+
+Fiduciário, o Gestor de Recursos e, no caso de FIDC, o cedente, o originador,
+
+o devedor ou coobrigado responsável por 20% (vinte por cento) ou mais dos
+
+direitos creditórios que componham o lastro, conforme aplicável, bem como
+
+as sociedades integrantes de seus respectivos Conglomerados ou Grupos
+
+Econômicos;
+
+b. A descrição de que trata o item acima deverá contemplar:
+
+i. os vínculos societários existentes;
+
+20
+
+ii. iii. os financiamentos existentes ou liquidados nos 12 (doze) meses anteriores e
+
+que tenham influenciado na contratação dos Coordenadores para atuarem
+
+na Oferta Pública, caso aplicável; e
+
+a indicação sucinta das transações comerciais vigentes nos 12 (doze) meses
+
+anteriores e o montante agregado envolvido nessas transações.
+
+II. Destinação de recursos:
+
+a. b. c. d. Exposição clara e objetiva do destino dos recursos provenientes da emissão, bem
+
+como seu impacto na situação patrimonial e nos resultados da emissora, cedente
+
+e/ou devedor, conforme o caso;
+
+Se os recursos forem, direta ou indiretamente, utilizados na aquisição de Ativos, à
 
 exceção daqueles adquiridos no curso regular dos negócios, descrição sumária desses
 
@@ -888,7 +996,7 @@ divulgados. Se forem adquiridos de partes relacionadas, indicação de quem ser�
 
 comprados e como o custo será determinado;
 
-c. Se os recursos forem utilizados para adquirir outros negócios, descrição sumária
+Se os recursos forem utilizados para adquirir outros negócios, descrição sumária
 
 desses negócios e o estágio das aquisições, caso tais negócios já possam ser
 
@@ -896,7 +1004,7 @@ identificados e divulgados. Se forem adquiridos de partes relacionadas, indicaç
 
 quem serão comprados e como o custo será determinado;
 
-d. Se parte significativa dos recursos for utilizada para abater dívidas, indicação da taxa
+Se parte significativa dos recursos for utilizada para abater dívidas, indicação da taxa
 
 de juros e prazo dessas dívidas; para aquelas incorridas a partir do ano anterior,
 
@@ -912,7 +1020,9 @@ realizadas ou cuja celebração seja esperada, indicação do montante e dos
 
 beneficiários do pagamento;
 
-f. Se apenas parte dos recursos almejados com a Oferta Pública vir a ser obtida por
+21
+
+f. Se apenas parte dos recursos almejados com a Oferta Pública vier a ser obtida por
 
 meio da Distribuição, indicação dos objetivos prioritários e se há outras formas de
 
@@ -922,99 +1032,169 @@ g. Outras fontes de recursos: se aplicável, especificação de outras fontes de
 
 que terão destinação associada àquela relativa à Distribuição pública.
 
-Conflitos de interesses: em relação à alínea “e” do inciso II deste artigo, quando aplicável,
+III. Conflitos de interesses:
 
-apresentação:
+a. em relação à alínea “e” do inciso II deste artigo, quando aplicável, apresentação:
 
-a. Das razões que justificam a operação; e
+i. Das razões que justificam a operação; e
 
-19
+ii. Da manifestação do credor acerca de potencial conflito de interesse
 
-IV. V. b. Da manifestação do credor acerca de potencial conflito de interesse decorrente de
+decorrente de sua participação na Oferta Pública.
 
-sua participação na Oferta Pública.
+IV. Fatores de risco:
 
-Fatores de risco: devem ser elencados os principais fatores de risco relacionados com o
+a. devem ser elencados os principais fatores de risco relacionados com a emissora, o
 
-emissor, o cedente e/ou à devedora do lastro, conforme o caso, com o Valor Mobiliário,
+cedente e/ou ao devedor do lastro, conforme o caso, com o Valor Mobiliário, a Oferta
 
-a Oferta Pública e o terceiro garantidor, os quais devem:
+Pública e o terceiro garantidor, os quais devem:
 
-a. Ser específicos em relação ao Valor Mobiliário, à Oferta Pública, ao emissor, ao
+i. Ser específicos em relação ao Valor Mobiliário, à Oferta Pública, a emissora,
 
-terceiro garantidor, ao ofertante e ao cedente e/ou à devedora, conforme o caso;
+ao terceiro garantidor, ao ofertante e ao cedente e/ou ao devedor, conforme
 
-b. Ser materiais para a tomada de decisão de investimento dos investidores, com base
+o caso;
 
-na probabilidade de ocorrência e na magnitude do impacto negativo, caso
+ii. Ser materiais para a tomada de decisão de investimento dos investidores,
 
-concretizado, podendo a materialidade ser expressa em uma escala qualitativa de
+com base na probabilidade de ocorrência e na magnitude do impacto
 
-risco “menor”
+negativo, caso concretizado, podendo a materialidade ser expressa em uma
 
-,
+escala qualitativa de risco “menor”, “médio” e “maior”; e
 
-“médio” e “maior”; e
+iii. Ser dispostos de maneira que o fator de maior materialidade seja
 
-c. Ser dispostos de maneira que o fator de maior materialidade seja apresentado em
+apresentado em primeiro lugar, seguido pelos demais em ordem
 
-primeiro lugar, seguido pelos demais em ordem decrescente.
+decrescente.
 
-Taxa de Distribuição: deve ser descrita, de forma clara e direta, o demonstrativo do custo
+V. Taxa de Distribuição:
 
-de Distribuição no âmbito de Oferta Pública, discriminando, obrigatoriamente, conforme
+a. deve ser descrito, de forma clara e direta, o demonstrativo do custo de Distribuição
 
-houver:
+no âmbito de Oferta Pública, discriminando, obrigatoriamente, conforme houver:
 
-a. b. c. d. e. f. g. h. i. a porcentagem em relação ao preço unitário de subscrição;
+i. A porcentagem em relação ao preço unitário de subscrição;
 
-a efetiva comissão de coordenação;
+ii. A efetiva comissão de coordenação;
 
-a efetiva comissão de Distribuição;
+22
 
-a efetiva comissão de garantia de subscrição;
+iii. iv. v. vi. vii. viii. ix. A efetiva comissão de Distribuição;
 
-outras comissões e/ou remunerações diretas ou indiretas não discriminadas
+A efetiva comissão de garantia de subscrição;
+
+Outras comissões e/ou remunerações diretas ou indiretas não discriminadas
 
 neste inciso;
 
-os tributos incidentes sobre as comissões, caso estes estejam arcados pela
+Os tributos incidentes sobre as comissões, caso estes estejam arcados pela
 
-companhia emissora;
+emissora/ofertante;
 
-o efetivo custo unitário de Distribuição;
+O efetivo custo unitário de Distribuição;
 
-as despesas decorrentes do registro de Distribuição; e
+As despesas decorrentes do registro de Distribuição; e
 
-outros custos diretos ou indiretos relacionados.
+Outros custos diretos ou indiretos relacionados.
 
-20
+§1º. Cada Instituição Participante é responsável pela prestação de suas informações, estando
 
-Parágrafo único. Cada Instituição Participante é responsável pela prestação de suas
+individualmente sujeita a penalidades.
 
-informações, estando individualmente sujeita a penalidades.
+§2º. Para fins do cumprimento do disposto no inciso I do caput, referente ao Relacionamento,
+
+o Prospecto da Oferta deverá contemplar:
+
+I. Os vínculos societários existentes indicados no inciso I, alínea “b”, item “i”, acima devem
+
+ser entendidos como:
+
+a. as participações equivalentes a 5% (cinco por cento) ou mais do capital social da
+
+emissora, ofertante, cedente, devedor ou coobrigado que represente mais de 20%
+
+do lastro do Valor Mobiliário objeto da Oferta detidas pelos Coordenadores e
+
+sociedades do seu Conglomerado ou Grupo Econômico;
+
+b. a participação equivalente a 5% (cinco por cento) ou mais de veículos sob a gestão
+
+discricionária de cada Administrador ou Gestor de Fundos de Investimento,
+
+isoladamente, integrantes do mesmo Conglomerado ou Grupo Econômico dos
+
+Coordenadores no capital social da emissora, ofertante, cedente, devedor ou
+
+coobrigado que represente mais de 20% do lastro do Valor Mobiliário objeto da
+
+Oferta detidas pelos Coordenadores; e
+
+23
+
+c. as participações equivalentes a 5% (cinco por cento) ou mais do capital social dos
+
+Coordenadores e sociedades do seu Conglomerado ou Grupo Econômico detida pela
+
+emissora, ofertante, cedente, devedor ou coobrigado que represente mais de 20%
+
+do lastro do Valor Mobiliário objeto da Oferta.
+
+II. A descrição das transações comerciais indicadas no inciso I, alínea “b”, item “iii”, acima
+
+deve indicar exclusivamente as modalidades e o montante total agregado de cada
+
+modalidade das transações comerciais não abrangidas pelos itens anteriores, excluindo:
+
+a. informações acerca de juros, correção monetária, cronograma de pagamento e
+
+condições de remuneração e demais características específicas e particulares a cada
+
+transação comercial;
+
+b. transações comerciais relacionadas a serviços financeiros de apoio à operação dos
+
+negócios da ofertante, da emissora e de sociedades de seus respectivos grupos
+
+econômicos, como fechamento de câmbio, antecipação de recebíveis, cartas de
+
+crédito e cartas de fiança, execução de pagamentos a colaboradores e fornecedores,
+
+gestão de soluções de meios de pagamento, gestão de benefícios a colaboradores,
+
+contas correntes, incluindo contas escrow, contas de pagamento, serviços de
+
+pagamentos contas correntes de depósito e serviços de custódia e guarda de bens e
+
+valores, incluindo Depositary Receipts.
 
 Seção II – Demais documentos
 
-## Art. 10
+## Art. 12
 
 Para as Ofertas Públicas de Valores Mobiliários destinadas exclusivamente a investidores
 
-profissionais que não tenham divulgação de Prospecto, deve ser elaborado um Sumário de Dívida,
+qualificados, no âmbito de ofertas públicas relacionadas a Fundos de Investimento financeiro
 
-um Sumário de Securitização, um Sumário de Fundos Fechados e um Memorando de Ações,
+fechados, e a investidores profissionais, no âmbito de qualquer Oferta Pública que não tenham
 
-conforme o caso, nos termos específicos previstos nos modelos de documentos anexos a estas
+divulgação de Prospecto, deve ser elaborado um Sumário de Dívida, um Sumário de Securitização,
 
-Regras e Procedimentos, se houver.
+um Sumário de Fundos Fechados ou um Memorando de Ações, conforme o caso, nos termos
 
-## Art. 11
+específicos previstos nos modelos de documentos anexos a estas Regras e Procedimentos.
+
+24
+
+## Art. 13
 
 É facultado às Instituições Participantes, observada a regulação aplicável, elaborar o
 
 documento de suporte a apresentações para investidores que deverá conter aviso, de forma
 
-destacada, recomendando ao investidor que, antes de tomar a decisão de investimento, que leia:
+destacada, recomendando ao investidor que, antes de tomar a decisão de investimento, leia:
 
 I. O Prospecto;
 
@@ -1028,27 +1208,15 @@ a. Dívida;
 
 b. Securitização; e/ou
 
-c. Fundos.
+c. Fundos Fechados.
 
 V. O Memorando de Ações, conforme aplicável, especialmente a seção relativa aos fatores
 
 de risco.
 
-## Art. 12
-
-As Instituições Participantes devem fazer constar do documento de aceitação da Oferta
-
-Pública, caso aplicável, informação sobre o local e a forma de disponibilização do Prospecto, da
-
-Lâmina da Oferta Pública e do Formulário de Referência, caso aplicável, ou declaração de que o
-
-investidor obteve acesso a esses documentos.
-
-21
-
 CAPÍTULO VI – PUBLICIDADE DA OFERTA
 
-## Art. 13
+## Art. 14
 
 Considera-se que foi dada publicidade a uma Oferta Pública quando for promovido, por
 
@@ -1056,11 +1224,11 @@ qualquer meio ou forma, ato de comunicação que busque despertar interesse na s
 
 aquisição de determinados Valores Mobiliários ofertados ou a serem ofertados.
 
-## Art. 14
+## Art. 15
 
 Não se caracteriza como Material Publicitário, para fins deste Código:
 
-I. II. III. IV. V. VI. VII. VIII. Formulários cadastrais, questionários de perfil do investidor ou perfil de investimento,
+I. II. III. IV. Formulários cadastrais, questionários de perfil do investidor ou perfil de investimento,
 
 materiais destinados unicamente à comunicação de alterações de endereços, telefones,
 
@@ -1074,7 +1242,9 @@ Materiais de cunho estritamente jornalístico, inclusive entrevistas, divulgadas
 
 quaisquer meios de comunicação;
 
-Anúncios em qualquer mídia pública que não tratem de Oferta Pública ou programa de
+25
+
+V. VI. VII. VIII. Anúncios em qualquer mídia pública que não tratem de Oferta Pública ou programa de
 
 Distribuição específicos, ou que tratem de Oferta Pública ou programa de Distribuição já
 
@@ -1086,59 +1256,81 @@ financeira, movimentação e rentabilidade, desde que restritos a essas informa�
 
 assemelhadas;
 
-Questionários de due diligence e propostas comerciais; e
+Questionários de Due Diligence e propostas comerciais; e
 
 Material informativo referente às Ofertas Públicas não sujeitas a este Código de que trata
 
-o inciso VI §4º do artigo 2º do Código de Ofertas Públicas.
-
-22
+o §5º, do artigo 2º do Código de Ofertas Públicas.
 
 CAPÍTULO VII – REGISTRO DAS OFERTAS NA ANBIMA
 
 Seção I – Regras gerais
 
-## Art. 15
+## Art. 16
 
 Sem prejuízo do quanto disposto nos respectivos Anexos Complementares a estas Regras e
 
-Procedimentos, as Ofertas Públicas devem ser registradas na ANBIMA no prazo de até 7 (sete) dias
+Procedimentos, as Ofertas Públicas devem ser registradas na Anbima no prazo de até 7 (sete) dias
 
-corridos contados da data da divulgação do Anúncio de Encerramento da Distribuição.
+corridos contados da data da divulgação do Anúncio de Encerramento da Distribuição
 
-## Art. 16
+Parágrafo único. O registro, de que trata o caput, deve ser feito de acordo com o Manual para
 
-O pedido de registro de Ofertas Públicas deverá ser encaminhado à ANBIMA pelo
+Registro de Ofertas Públicas disponibilizado no site da Associação.
+
+## Art. 17
+
+O pedido de registro de Ofertas Públicas deverá ser encaminhado à Anbima pelo
 
 Coordenador líder da Oferta Pública ou seu assessor legal, ou na ausência de Coordenador líder,
 
 pela Instituição Participante responsável pela Distribuição dos títulos de sua própria emissão e/ou
 
-pelas cotas dos Fundos por ela geridos ou pelo respectivo assessor legal, nos termos da regulação
+pelas cotas dos Fundos por ela geridos e/ou administrados ou pelo respectivo assessor legal, nos
 
-aplicável.
+termos da regulação aplicável.
 
-§1º. A ausência de qualquer um dos documentos exigidos por estas Regras e Procedimentos
+§1º. Todos os documentos exigidos para o registro de Ofertas Públicas devem ser
 
-para o registro de Ofertas Públicas devem ser comunicados formalmente à ANBIMA com as devidas
+encaminhados à Anbima por meio de sistema disponibilizado pela Associação em seu site.
 
-justificativas.
+26
 
-§2º. Todos os documentos exigidos para o registro de Ofertas Públicas devem ser
+§2º. A ausência de qualquer um dos documentos exigidos por estas Regras e Procedimentos
 
-encaminhados à ANBIMA por meio eletrônico.
+para o registro de Ofertas Públicas deve ser comunicada formalmente à Anbima, com as devidas
 
-§3º. A ANBIMA poderá, para o registro de Ofertas Públicas, solicitar informações e
+justificativas, de acordo com o Manual para Registro de Ofertas Públicas, no momento do registro.
 
-documentos adicionais às Instituições Participantes.
+§3º. A Anbima poderá, para o registro de Ofertas Públicas, solicitar informações e documentos
+
+adicionais às Instituições Participantes, as quais devem ser disponibilizadas dentro do prazo de 7
+
+(sete) dias corridos contados da data de solicitação, prorrogável uma única vez por igual período,
+
+sem prejuízo de prorrogação adicional em situações justificadas, especialmente quando o
+
+atendimento depender de documentos, informações ou validações de terceiros envolvidos na
+
+operação.
+
+## Art. 18
+
+O registro das Ofertas Públicas na Anbima gera a obrigação de pagamento da taxa de
+
+registro, nos parâmetros determinados pela Diretoria e disponibilizados no site da Associação.
+
+## Art. 19
+
+Os prazos previstos neste Capítulo podem ser prorrogados a exclusivo critério da Anbima,
+
+em situações excepcionais, mediante pedido devidamente justificado.
 
 Seção II – Ofertas Públicas destinadas ao público em geral e/ou
 
 investidores qualificados
 
-23
-
-## Art. 17
+## Art. 20
 
 Sem prejuízo do disposto nos respectivos Anexos Complementares a estas Regras e
 
@@ -1151,6 +1343,8 @@ I. Quando exigidos pela regulação aplicável, Lâmina da Oferta Pública, Pros
 Preliminar e Prospecto Definitivo com todas as versões utilizadas para os potenciais
 
 investidores;
+
+27
 
 II. Versões dos Formulários de Referência que foram apresentadas aos potenciais
 
@@ -1174,47 +1368,45 @@ V. Documentos de suporte a apresentações para investidores, se houver;
 
 VI. Material Publicitário, se houver;
 
-VII. Cópia da carta conforto relacionado aos dados da emissora (conforme aplicável) e/ou
+VII. Cópia da carta conforto relacionada aos dados da emissora, conforme aplicável, e/ou
 
-manifestação escrita dos auditores independentes da emissora, se houver, observado o
+manifestação escrita dos auditores independentes da emissora, observado o inciso VIII
 
-inciso VIII abaixo que trata de Ofertas Públicas de Securitização;
+abaixo que trata de Ofertas Públicas de Securitização;
 
-VIII. Cópia da carta conforto relacionado aos dados da emissora (conforme aplicável) e/ou
+VIII. Cópia da carta conforto e/ou manifestação escrita dos auditores independentes,
 
-manifestação escrita dos auditores independentes da emissora e/ou devedores de lastro
+conforme aplicável, relacionada aos dados dos devedores de lastro de Títulos de
 
-de Títulos de Securitização que representem 20% (vinte por cento) ou mais de
+Securitização que representem 20% (vinte por cento) ou mais de concentração do lastro,
 
-concentração do lastro, acerca da consistência das informações financeiras constantes
+acerca da consistência das informações financeiras constantes do Prospecto e/ou do
 
-do Prospecto e/ou do Formulário de Referência relativas às demonstrações financeiras
+Formulário de Referência relativas às demonstrações financeiras publicadas;
 
-publicadas, caso aplicável;
-
-24
-
-IX. X. XI. XII. XIII. XIV. Informação sobre a existência ou não de parecer legal dos advogados contratados para
+IX. Informação sobre a existência ou não de parecer legal dos advogados contratados para
 
 assessorar as Instituições Participantes da Oferta Pública acerca do procedimento de
 
 diligência legal;
 
-Relatório de classificação de risco (rating), se houver;
+X. Relatório de classificação de risco (rating), se houver;
 
-Modelo do documento de aceitação da Oferta Pública, se houver;
+XI. Modelo do documento de aceitação da Oferta Pública, se houver;
 
-Prospecto ou documento equivalente utilizado no exterior para a Oferta Pública, caso
+XII. Prospecto ou documento equivalente utilizado no exterior para a Oferta Pública, caso
 
 tenha sido realizada Oferta Pública simultânea em outra jurisdição além do Brasil;
 
-Comprovante da existência ou de recomendação de contratação pela emissora, cedente
+XIII. Comprovante da existência ou de recomendação de contratação pela emissora, cedente
 
-e/ou devedora e/ou ofertantes, de instituição para desenvolver atividade de formador
+e/ou devedor e/ou ofertantes, de instituição para desenvolver atividade de formador de
 
-de mercado; e
+mercado; e
 
-Demais documentos que, a critério da Instituição Participante, sejam considerados
+28
+
+XIV. Demais documentos que, a critério da Instituição Participante, sejam considerados
 
 necessários ao registro da Oferta Pública.
 
@@ -1228,19 +1420,31 @@ serve de comprovação.
 
 Ofertas Públicas de cotas de Fundos de Investimento.
 
+§3º. Nas ofertas de Renda Fixa e Securitização, para o cumprimento das obrigações previstas
+
+nos incisos VII e VIII poderá ser obtida a carta conforto e/ou manifestação escrita dos auditores
+
+independentes, ambas referentes apenas ao último exercício social completo, desde que
+
+acompanhadas de declaração assinada pelo diretor responsável pelas informações financeiras
+
+atestando a veracidade e consistência das informações, devendo as Instituições Participantes fazer
+
+constar, no Prospecto, como fator de risco e, sem mitigação, a informação de que o referido
+
+documento foi obtido apenas em relação ao último exercício social completo.
+
 Seção III – Ofertas Públicas de Valores Mobiliários destinadas
 
 exclusivamente a investidores profissionais
 
-## Art. 18
+## Art. 21
 
 O pedido de registro de Ofertas Públicas destinadas exclusivamente a investidores
 
-profissionais deverá ser acompanhado dos documentos previstos no artigo 17 acima, se houver e,
+profissionais deverá ser acompanhado dos documentos previstos no artigo 20 acima, se houver e,
 
 no mínimo, dos seguintes documentos:
-
-25
 
 I. II. Sumário de Dívida, Memorando de Ações, Sumário de Securitização ou Sumário de
 
@@ -1248,87 +1452,81 @@ Fundos Fechados, conforme o caso, com todas as versões utilizadas para os poten
 
 investidores; e
 
-Informação sobre existência ou de não parecer legal dos advogados contratados para
+Informação sobre existência ou não de parecer legal dos advogados contratados para
 
 assessorar a Instituição Participante da Oferta Pública acerca da consistência das
 
-informações fornecidas no Sumário de Dívida, Memorando de Ações, Sumário de
+informações fornecidas no Sumário de Dívida, Sumário de Securitização ou Sumário de
 
-Securitização ou Sumário de Fundos Fechados, conforme o caso, em relação às
+29
 
-informações fornecidas nos documentos preparados no âmbito da respectiva Oferta
+Fundos Fechados, conforme o caso, em relação às informações fornecidas nos
 
-Pública.
+documentos preparados no âmbito da respectiva Oferta Pública.
 
-CAPÍTULO VIII – ENVIO DE INFORMAÇÕES PARA A BASE DE DADOS
+CAPÍTULO VIII – ENVIO DE INFORMAÇÕES PARA O BANCO DE DADOS
 
 Seção I - Registro
 
-## Art. 19
+## Art. 22
 
-O Coordenador líder é o responsável pelo registro das Ofertas Públicas de Valores
+O Coordenador líder é o responsável pelo envio de informações das Ofertas Públicas de
 
-Mobiliários na ANBIMA a fim de compor a base de dados.
+Valores Mobiliários, bem como os documentos necessários para sua validação, à Anbima, a fim de
 
-§1º. As informações de que trata o caput devem ser enviadas por meio de sistema
+compor o Banco de Dados.
+
+§1º. Sem prejuízo do disposto no Código, as Instituições Participantes devem observar os
+
+seguintes princípios:
+
+I. II. III. IV. Exatidão: as informações devem ser enviadas corretamente;
+
+Pontualidade: as informações devem ser enviadas dentro dos prazos estabelecidos pela
+
+Anbima;
+
+Regularidade: as informações devem ser enviadas na periodicidade devida; e
+
+Integridade: todas as informações requeridas devem ser enviadas, não havendo lacunas no
+
+Banco de Dados.
+
+§2º. As informações de que trata o caput devem ser enviadas por meio de sistema
 
 disponibilizado pela Associação em seu site em até 7 (sete) dias corridos contados da data do
 
 encerramento da Oferta Pública.
 
-§2º. A ANBIMA pode solicitar ao Coordenador informações adicionais para o registro, as quais
+§3º. A Anbima pode solicitar ao Coordenador informações adicionais para o registro, as quais
 
 devem ser disponibilizadas em até 7 (sete) dias corridos contados da data de solicitação, prorrogável
 
 uma única vez por igual período.
 
-## Art. 20
+30
 
-O envio de informações deve ser realizado conforme Manual para Registro de Ofertas
+§4º. O envio de informações deve ser realizado conforme Manual para Registro de Ofertas
 
 Públicas, disponível no site da Associação.
 
-26
+## Art. 23
 
-Seção II – Multas
+O envio de informações para o Banco de Dados de Ofertas Públicas gera a obrigação de
 
-## Art. 21
+pagamento da taxa de registro, nos parâmetros determinados pela Diretoria e disponibilizada no
 
-Sem prejuízo do disposto no Código de Ofertas Públicas e no Código dos Processos, a ANBIMA poderá
-
-aplicar penalidades objetivas aos Coordenadores por erros e/ou atrasos no envio de informações para a
-
-base de dados, sendo multa no valor de R$ 150,00 (cento e cinquenta) reais por cada campo do
-
-cadastro preenchido incorretamente.
+site da Associação.
 
 TÍTULO IV – DISPOSIÇÕES GERAIS
 
 CAPÍTULO IX – DISPOSIÇÕES FINAIS
 
-## Art. 22
+## Art. 24
 
-Todos os documentos escritos exigidos por estas Regras e Procedimentos devem ser
+Estas Regras e Procedimentos entram em vigor em 04 de janeiro de 2027.
 
-encaminhados para a ANBIMA por meio do SSM em prazo a ser divulgado pela Associação, e, caso
-
-haja alterações, as Instituições Participantes devem atualizá-los em até 30 (trinta) dias corridos da
-
-alteração.
-
-§1º. Sem prejuízo do disposto no caput, todas as regras, os procedimentos, os controles e as
-
-obrigações estabelecidas por estas Regras e Procedimentos devem ser passíveis de verificação e ser
-
-enviados para a ANBIMA sempre que solicitados.
-
-§2º. Não se aplica o disposto no caput aos contratos estabelecidos com os investidores.
-
-## Art. 23
-
-Estas Regras e Procedimentos entram em vigor em 24 de março de 2025.
-
-27
+31
 
 ANEXO COMPLEMENTAR I - REGRAS E PROCEDIMENTOS PARA A
 
@@ -1366,7 +1564,7 @@ No exercício de suas atividades, os Coordenadores devem, sem prejuízo dos dema
 
 e obrigações constantes no Código de Ofertas Públicas, na Parte Geral destas Regras e
 
-Procedimentos (conforme aplicável), e no presente anexo:
+Procedimentos, conforme aplicável, e no presente anexo:
 
 I. II. Obter e manter seu registro de Coordenador de Ofertas Públicas devidamente atualizado
 
@@ -1378,7 +1576,7 @@ falta de diligência ou omissão, para assegurar que as informações prestadas 
 
 verdadeiras, consistentes, corretas e suficientes, permitindo aos investidores uma
 
-28
+32
 
 III. IV. V. VI. VII. VIII. IX. X. XI. tomada de decisão fundamentada a respeito da Oferta Pública, observadas as regras
 
@@ -1430,7 +1628,7 @@ internas e na regulação, toda a documentação relativa às operações de coo
 
 Ofertas Públicas de Valores Mobiliários;
 
-Enviar à ANBIMA, quando houver, cópia da carta conforto e/ou manifestação escrita dos
+Enviar à Anbima, quando houver, cópia da carta conforto e/ou manifestação escrita dos
 
 auditores independentes da emissora e/ou, em caso de Oferta Pública de securitização,
 
@@ -1438,7 +1636,7 @@ dos devedores de lastro de Títulos de Securitização que representem 20% (vint
 
 cento) ou mais de concentração do lastro, acerca da consistência das informações
 
-29
+33
 
 XII. XIII. financeiras constantes do Prospecto e/ou do Formulário de Referência, relativas às
 
@@ -1446,11 +1644,11 @@ demonstrações financeiras mais recentes publicadas pela emissora e/ou pelos
 
 devedores de lastro de Títulos de Securitização que representem 20% (vinte por cento)
 
-ou mais de concentração do lastro, observado o §1º a seguir;
+ou mais de concentração do lastro, observado o §1º deste artigo;
 
-Informar à ANBIMA acerca da existência de parecer legal dos advogados contratados
+Informar à Anbima acerca da existência de parecer legal dos advogados contratados para
 
-para assessorar a Instituição Participante nas Ofertas Públicas sobre a consistência das
+assessorar a Instituição Participante nas Ofertas Públicas sobre a consistência das
 
 informações fornecidas:
 
@@ -1458,9 +1656,9 @@ a. No Prospecto e na lâmina das Ofertas Públicas em relação às informaçõe
 
 no Formulário de Referência analisado durante o procedimento de diligência legal na
 
-emissora, no cedente e/ou na devedora do lastro de Títulos de Securitização e/ou
+emissora, no cedente e/ou no devedor do lastro de Títulos de Securitização e/ou dos
 
-dos Direitos Creditórios objeto de aquisição por Fundos, conforme o caso; e
+Direitos Creditórios objeto de aquisição por Fundos, conforme o caso; e
 
 b. No Sumário de Dívida, caso aplicável, no Memorando de Ações, no Sumário de
 
@@ -1472,27 +1670,41 @@ cronograma das Ofertas Públicas, os documentos da Oferta Pública por eles soli
 
 de modo a permitir o cumprimento de suas atividades.
 
-§1º Caso não sejam obtidos os documentos previstos nos incisos XI e XII acima, as Instituições
+§1º. Nas ofertas de Renda Fixa e Securitização, para o cumprimento da obrigação prevista no
 
-Participantes devem fazer constar, sem mitigação, no Prospecto, no Sumário de Dívida, no
+inciso XI, poderá ser obtida a carta conforto e/ou manifestação escrita dos auditores independentes,
 
-Memorando de Ações, no Sumário de Securitização ou no Sumário de Fundos Fechados, conforme
+ambas referentes apenas ao último exercício social completo, desde que acompanhadas de
 
-o caso, a informação de que tais documentos não foram obtidos.
+declaração assinada pelo diretor responsável pelas informações financeiras atestando a veracidade
 
-§2º O Coordenador líder deve tomar todas as cautelas e agir com elevados padrões de
+e consistência das informações, devendo as Instituições Participantes fazer constar, no Prospecto,
+
+como fator de risco e, sem mitigação, a informação de que o referido documento foi obtido apenas
+
+em relação ao último exercício social completo.
+
+§2º. Caso não seja obtido o documento previsto no inciso XI acima, as Instituições
+
+Participantes devem fazer constar, sem mitigação, no Prospecto, no Sumário de Dívida, no Sumário
+
+de Securitização ou no Sumário de Fundos Fechados, conforme o caso, a informação de que tal
+
+documento não foi obtido.
+
+34
+
+§3º. O Coordenador líder deve tomar todas as cautelas e agir com elevados padrões de
 
 diligência, respondendo pela falta de diligência ou omissão, para assegurar que as informações
 
 prestadas pelo ofertante, inclusive aquelas eventuais ou periódicas constantes da atualização do
 
-registro do emissor na CVM e as constantes do estudo de viabilidade econômico-financeira do
+registro da emissora na CVM e as constantes do estudo de viabilidade econômico-financeira do
 
 empreendimento, se aplicável, são suficientes, verdadeiras, precisas, consistentes e atuais,
 
 permitindo aos investidores uma tomada de decisão fundamentada a respeito da Oferta Pública.
-
-30
 
 ## Art. 3º
 
@@ -1530,9 +1742,9 @@ CAPÍTULO III – DISPOSIÇÕES FINAIS
 
 ## Art. 5º
 
-Este anexo entra em vigor em 24 de março de 2025.
+Este anexo entra em vigor em 04 de janeiro de 2027.
 
-31
+35
 
 ANEXO COMPLEMENTAR II - REGRAS E PROCEDIMENTOS PARA A
 
@@ -1560,7 +1772,7 @@ As Securitizadoras devem, sem prejuízo dos demais deveres e obrigações consta
 
 Parte Geral destas Regras e Procedimentos e do Código de Ofertas Públicas:
 
-I. II. III. Obter e manter seu registro nas categorias S1, ou S2, devidamente atualizado perante a
+I. II. III. Obter e manter seu registro nas categorias S1 ou S2, devidamente atualizado perante a
 
 CVM, salvo nas hipóteses cujo registro é dispensado, nos termos da regulação aplicável;
 
@@ -1574,25 +1786,25 @@ Comunicar no exercício de suas atividades, a ocorrência ou indícios de viola�
 
 regulação à CVM no prazo máximo de 10 (dez) dias úteis da ocorrência ou identificação;
 
-IV. Estabelecer política relacionada à Negociação por parte de administradores,
+IV. Estabelecer política relacionada à negociação por parte de administradores,
 
 empregados, colaboradores, sócios controladores e pela própria Securitizadora nos
 
 casos exigidos pela regulação;
 
-32
+36
 
 V. VI. VII. VIII. IX. X. XI. XII. XIII. Cooperar com o Agente Fiduciário e fornecer os documentos e informações por ele
 
 solicitados para fins de cumprimento de seus deveres e atribuições, conforme regulação
 
-específica e consoante os termos do instrumento de emissão;
+específica e consoante os termos do documento de emissão;
 
 Zelar pela existência e integridade dos instrumentos que compõem o patrimônio
 
 separado, inclusive quando custodiados, depositados ou registrados em terceiros;
 
-Divulgar informações verdadeiras, completas, consistentes e úteis, que não induzam o
+Divulgar informações verdadeiras, completas, consistentes e que não induzam o
 
 investidor a erro, escritas em linguagem simples, clara, objetiva e concisa, de forma
 
@@ -1620,9 +1832,9 @@ Em operações de securitização destinadas ao público em geral, obter classif
 
 risco (rating) dos Títulos de Securitização que for destinado ao público em geral, devendo
 
-esta ser atualizada, pelo menos, a cada período de 12 (doze) meses ou conforme definido
+esta ser atualizada, no mínimo, a cada período de 12 (doze) meses, período este que
 
-no instrumento de emissão;
+deverá ser previsto no documento de emissão;
 
 Diligenciar para aferição da situação fiscal dos respectivos devedores dos Direitos
 
@@ -1630,41 +1842,157 @@ Creditórios que servirão de lastro à operação de securitização, nos termo
 
 aplicável;
 
-Divulgar, em seu endereço eletrônico, no mínimo:
+Divulgar, em seu endereço eletrônico, no mínimo o(a):
 
-a. O Termo de Securitização da Operação;
+a. Termo de Securitização, bem como seus aditamentos
 
-b. O Aviso ao Mercado, Anúncio de Início e de Encerramento, bem como a Lâmina
+b. Aviso ao Mercado;
 
-da Oferta Pública; e
+c. Anúncio de Início;
 
-c. O Prospecto Preliminar e Definitivo da Oferta Pública, se houver.
+d. Anúncio de Encerramento;
 
-33
+37
 
-XIV. XV. Atuar de forma diligente e prudente na contratação dos prestadores de serviço
+XIV. XV. XVI. XVII. XVIII. XIX. e. Lâmina da Oferta Pública; e
+
+f. Prospecto Preliminar e Definitivo da Oferta Pública, se houver.
+
+Atuar de forma diligente e prudente na contratação dos prestadores de serviço
 
 envolvidos em operações de securitização, incluindo o agente de cobrança, observando
 
-o disposto no Capítulo III da Parte Geral destas Regras e Procedimentos e no Capítulo III
+o disposto no Capítulo II da Parte Geral destas Regras e Procedimentos e no Capítulo III
 
-deste Anexo; e
+deste Anexo Complementar;
 
 Monitorar, controlar, processar e liquidar os Ativos e garantias vinculados à operação de
 
 securitização, conforme previsto nos documentos da emissão e na regulação aplicável,
 
-diretamente ou por meio de terceiros.
+diretamente ou por meio de terceiros;
+
+Manter controles internos robustos para a movimentação dos recursos de cada
+
+patrimônio separado, segregados entre si, assegurando que tais recursos sejam
+
+utilizados exclusivamente para os fins previstos no respectivo Termo de Securitização;
+
+Adotar, para fins de gestão da liquidez dos recursos do patrimônio separado, princípios
+
+de prudência e segurança, assegurando a manutenção dos recursos mantidos para
+
+atender as necessidades de liquidez do patrimônio separado em ativos de liquidez diária,
+
+conforme previsto pelo respectivo Termo de Securitização, e observando o disposto no
+
+§1º artigo 10º deste Anexo Complementar;
+
+Garantir que os controles internos abranjam:
+
+a. segregação operacional entre os patrimônios separados e o patrimônio próprio
+
+da Securitizadora; e
+
+b. rastreabilidade de todas as movimentações financeiras de cada patrimônio
+
+separado;
+
+Elaborar e disponibilizar à Anbima, relatório anual, acerca da implementação e
+
+cumprimento de regras, políticas e procedimentos relativos aos controles internos da
+
+companhia securitizadora, até o último dia útil do mês de abril de cada ano, referentes
+
+ao ano civil imediatamente anterior à data de entrega, contendo:
+
+a. as conclusões dos exames efetuados;
+
+b. as recomendações a respeito de eventuais deficiências, com o
+
+estabelecimento de cronogramas de saneamento, quando for o caso; e
+
+38
+
+XX. XXI. XXII. c. a manifestação do diretor responsável pelas atividades de securitização a
+
+respeito das deficiências encontradas em verificações anteriores e das medidas
+
+planejadas, de acordo com cronograma específico, ou efetivamente adotadas
+
+para saná-las;
+
+Possuir estrutura tecnológica compatível ao seu porte, com no mínimo, procedimentos
+
+de armazenamento do backup de dados e das informações, e programa de segurança
+
+cibernética;
+
+Reunir as demonstrações financeiras do devedor ou coobrigado, que represente parcela
+
+igual ou superior a 20% (vinte por cento) do valor total do lastro, conforme aplicável,
+
+que, a seu critério, demonstrem adequadamente o risco de crédito da operação; e
+
+Convocar assembleia geral de investidores para deliberar sobre a declaração do
+
+vencimento antecipado, observados os prazos e condições específicas do documento de
+
+emissão, em caso de descumprimento de obrigação constante no documento de
+
+emissão, que enseje a aplicação de vencimento antecipado não automático do Valor
+
+Mobiliário.
+
+## Art. 3º
+
+Nas operações de securitização, destinadas ao público geral ou a investidores qualificados,
+
+previamente à data em que se realiza o primeiro aporte pelos investidores, a Securitizadora deverá:
+
+I. II. Receber relatório de auditoria jurídica referente aos devedores, garantidores e
+
+coobrigados, bem como relatório de auditoria jurídica imobiliária, este último nos casos
+
+em que houver imóveis oferecidos em garantia;
+
+Obter opinião legal elaborada por advogado (a) contratado (a) para esse fim, a qual
+
+deverá atestar, no mínimo:
+
+a. que os documentos da operação estão em conformidade com a legislação e
+
+regulação aplicáveis;
+
+b. que os referidos documentos estabelecem obrigações lícitas, válidas e
+
+exequíveis, ressalvadas eventuais pendências de registros necessários à plena
+
+39
+
+c. d. eficácia e exequibilidade das garantias fidejussórias e reais, nos termos e
+
+condições estabelecidos;
+
+que a devedora, os avalistas e as fiduciantes e demais garantidores, conforme
+
+o caso, estão legalmente aptas a celebrar os documentos da operação nos
+
+quais sejam partes, encontrando-se devidamente habilitadas e autorizadas a
+
+cumprir todas as obrigações neles previstas; e
+
+que não há impedimentos jurídicos à concretização da Oferta.
 
 CAPÍTULO III - CONTRATAÇÃO DE TERCEIROS EM OPERAÇÕES DE
 
 SECURITIZAÇÃO
 
-## Art. 3º
+## Art. 4º
 
-Em complemento ao disposto no Capítulo III Parte Geral destas Regras e Procedimentos, as
+Em complemento ao disposto no Capítulo II da Parte Geral destas Regras e Procedimentos,
 
-Securitizadoras podem contratar, no limite de suas competências e às expensas do patrimônio
+as Securitizadoras podem contratar, no limite de suas competências e às expensas do patrimônio
 
 separado, terceiros para prestar os serviços permitidos pela regulação em vigor.
 
@@ -1690,7 +2018,7 @@ Securitizadora todos os documentos e informações exigidos pela regulação em 
 
 sejam necessários para cumprimento de suas atividades; e
 
-34
+40
 
 V. A proibição, nas operações de Securitização, do compartilhamento pelo servicer de
 
@@ -1702,33 +2030,45 @@ normas ou obrigações contratuais de sigilo.
 
 atuar no processamento, formalização, controle e monitoramento dos recebíveis de lastro em
 
-operações de securitização, conforme aplicável, deverá ser realizada mediante preenchimento
+operações de securitização, conforme aplicável, estará condicionada, obrigatoriamente, ao prévio
 
-prévio do questionário ANBIMA de due diligence para servicer, disponível no site da Associação.
+preenchimento do Questionário Anbima de Due Diligence para Contratação do Servicer, disponível
 
-§3º. O preenchimento prévio do questionário ANBIMA de due diligence para contratação do
+no site da Associação.
 
-servicer acima disposto terá validade de 12 (doze) meses a contar de sua assinatura.
+§3º. O preenchimento prévio do Questionário Anbima de Due Diligence para Contratação do
+
+Servicer acima disposto terá validade de 12 (doze) meses a contar de sua assinatura.
+
+§4º. Na hipótese de o originador dos direitos creditórios atuar, direta ou indiretamente, como
+
+prestador de serviço (servicer) na operação de securitização, deverá ser assegurada transparência
+
+quanto à existência de potenciais conflitos de interesses, com a adoção e divulgação de medidas de
+
+mitigação adequadas, inclusive quanto à segregação de funções e à governança adequada.
 
 CAPÍTULO IV – PROTEÇÃO DO PATRIMÔNIO SEPARADO
 
 Seção I – Aquisição de Direitos Creditórios
 
-## Art. 4º
+## Art. 5º
 
-As Securitizadoras, ao adquirirem Direitos Creditórios no âmbito de suas operações de
+. As Securitizadoras, ao adquirirem Direitos Creditórios no âmbito de suas operações de
 
 securitização, devem, no mínimo:
 
-I. II. Verificar a compatibilidade do Direito Creditório com os critérios de elegibilidade e demais
+I. Verificar a compatibilidade do Direito Creditório com os critérios de elegibilidade e demais
 
-termos e condições estabelecidos no instrumento de emissão, bem como a compatibilidade
+termos e condições estabelecidos no documento de emissão, bem como a compatibilidade do
 
-do referido Direito Creditório ao tipo de certificado de recebível a ser emitido, na forma da
+referido Direito Creditório ao tipo de certificado de recebível a ser emitido, na forma da
 
 regulação aplicável e dos instrumentos da emissão;
 
-Adquirir o Direito Creditório somente caso tenha tido acesso às informações necessárias para
+41
+
+II. Adquirir o Direito Creditório somente caso tenha tido acesso às informações necessárias para
 
 a devida análise da adequação ao certificado de recebíveis a ser emitido, em linha com o
 
@@ -1738,8 +2078,6 @@ III. Adotar procedimentos para assegurar a adequada formalização, conforme reg
 
 aplicável, dos Direitos Creditórios e de sua cessão; e
 
-35
-
 IV. Verificar, quando da aquisição dos Direitos Creditórios que servirão de lastro à operação de
 
 securitização, se o montante atribuído a algum devedor representa parcela igual ou superior
@@ -1748,7 +2086,7 @@ a 20% (vinte por cento) do valor total do lastro e, caso positivo, diligenciar p
 
 regularidade de sua situação fiscal.
 
-## Art. 5º
+## Art. 6º
 
 As análises de aquisição do Direito Creditório devem ser baseadas em critérios consistentes,
 
@@ -1756,7 +2094,7 @@ passíveis de verificação e amparadas por informações internas e externas.
 
 Seção II – Monitoramento dos Direitos Creditórios
 
-## Art. 6º
+## Art. 7º
 
 A Securitizadora deve monitorar periodicamente os Direitos Creditórios que sirvam de lastro
 
@@ -1784,39 +2122,105 @@ necessárias para o acompanhamento das operações de securitização, incluindo
 
 caso, acesso aos documentos integrantes da operação ou a ela acessórios.
 
+42
+
 Parágrafo único. O acompanhamento descrito neste artigo poderá ser realizado por terceiro
 
 contratado pelo patrimônio separado para prestar tal serviço.
 
-36
+## Art. 8º
 
-## Art. 7º
+A Securitizadora deve estabelecer mecanismos de provisionamento dos devedores
 
-A Securitizadora deve estabelecer mecanismos de provisionamento dos Direitos Creditórios
+duvidosos integrantes da carteira, que deverão ser divulgados de forma ampla em seu endereço
 
-integrantes da carteira, que deverão ser divulgados de forma ampla em seu endereço eletrônico.
+eletrônico.
 
 Parágrafo único. As avaliações de que trata o caput devem ser formalizadas por escrito e ficar
 
-disponíveis para a ANBIMA, sempre que solicitadas.
+disponíveis para a Anbima, sempre que solicitadas.
 
-## Art. 8º
+## Art. 9º
 
 A Securitizadora deve implementar e manter atualizada, em documento escrito, a política
 
-de provisionamento de Direitos Creditórios acima descrita.
+de provisionamento de devedores duvidosos acima descrita.
+
+Seção III – Investimentos dos Recursos do Patrimônio Separado
+
+## Art. 10
+
+A Securitizadora, ao constituir recursos vinculados ao patrimônio separado vinculado a uma
+
+operação de Securitização, deverá:
+
+I. II. III. IV. Garantir a administração adequada dos recursos investidos no patrimônio separado;
+
+Zelar pela existência, integridade e adequação de liquidez dos instrumentos que compõem
+
+o patrimônio separado durante todo o tempo de duração dos ativos de securitização,
+
+inclusive quando custodiados, depositados ou registrados em terceiros;
+
+Aplicar os recursos exclusivamente nos ativos previstos no §1º desta Seção; e
+
+Garantir a transparência sobre o investimento dos recursos do patrimônio separado ao
+
+investidor.
+
+43
+
+§1º. Os recursos mantidos para as necessidades de liquidez do patrimônio separado somente
+
+poderão ser aplicados em ativos financeiros de liquidez diária e baixo risco de crédito indicados
+
+abaixo, a serem especificados no termo de securitização:
+
+I. títulos públicos federais;
+
+II. III. IV. V. VI. ativos financeiros de renda fixa de emissão ou coobrigação de instituições financeiras;
+
+operações compromissadas lastreadas nos ativos referidos nos incisos “I” e “II”;
+
+cotas de fundos de investimento de Renda Fixa, sendo vedada a aplicação em fundos de
+
+crédito privado;
+
+cotas de fundos cambiais quando o Certificado de Recebível for lastreado em moeda
+
+estrangeira; ou
+
+cotas de classes que invistam exclusivamente nos ativos referidos nos incisos “I” a “IV”.
+
+§2º. É vedada a aplicação dos recursos mantidos para as necessidades de liquidez do
+
+patrimônio separado em ativos emitidos pela própria securitizadora, seus administradores,
+
+empregadores, colaboradores, sócios ou por qualquer parte relacionada, direta ou indiretamente,
+
+com a companhia securitizadora, de forma a evitar conflitos de interesse e preservar a
+
+independência dos ativos vinculados.
+
+§3º. O disposto no §2º acima não se aplica à aplicação em Ativos Financeiros emitidos por
+
+instituição financeira integrante do Grupo Econômico da Securitizadora, desde que observados os
+
+critérios previstos no §1º deste artigo e as condições estabelecidas no termo de securitização
 
 CAPÍTULO V – TRATAMENTO DE INFORMAÇÕES ENTRE
 
 SECURITIZADORA E AGENTES
 
-## Art. 9º
+## Art. 11
 
-Em conformidade com o cumprimento de obrigações previstas no instrumento de emissão,
+Em conformidade com o cumprimento de obrigações previstas no documento de emissão,
 
 as Securitizadoras devem, no relacionamento com o Agente Fiduciário:
 
-I. II. Informar todos os fatos relevantes acerca da emissão, incluindo a ocorrência de quaisquer
+44
+
+I. II. III. Informar todos os fatos relevantes acerca da emissão, incluindo a ocorrência de quaisquer
 
 eventos, obrigações de acompanhamento periódico e/ou situações que possam, no juízo
 
@@ -1840,45 +2244,57 @@ a. Data de emissão e data de vencimento do título ou certificado de recebível
 
 b. Valor pago aos investidores em cada período de referência do título ou certificado de
 
-recebível;
+recebível.
 
-37
+Encaminhar ou disponibilizar em seu endereço eletrônico o organograma do grupo
 
-III. Encaminhar ou disponibilizar em seu endereço eletrônico organograma do grupo societário
+societário da Securitizadora, contendo controladores, controladas, controle comum,
 
-da Securitizadora, contendo controladores, controladas, controle comum, coligadas e
+coligadas e integrantes de bloco de controle no encerramento de cada exercício social, bem
 
-integrantes de bloco de controle no encerramento de cada exercício social, bem como todos
+como todos os dados financeiros, atos societários e demais informações necessárias à
 
-os dados financeiros, atos societários e demais informações necessárias à elaboração do
+elaboração do relatório anual previsto na regulação aplicável que dispõe sobre o exercício
 
-relatório anual previsto na regulação aplicável que dispõe sobre o exercício da função de
-
-Agente Fiduciário.
-
-Parágrafo único. É recomendável que as Securitizadoras observem, na troca de informações
-
-de que trata o caput, o relatório ANBIMA de padronização de informações disponível no site da
-
-Associação.
+da função de Agente Fiduciário.
 
 CAPÍTULO VI – TRATAMENTO DE INFORMAÇÕES ENTRE
 
 SECURITIZADORA E INVESTIDORES
 
-## Art. 10º
+## Art. 12
 
-. As Securitizadoras deverão preencher e disponibilizar em seu endereço eletrônico,
+As Securitizadoras deverão preencher o informe mensal, conforme previsto na regulação
 
-mensalmente, o relatório de informações previsto na regulação.
+vigente.
+
+Parágrafo único. O informe mensal deverá:
+
+I. Conter, no mínimo, os rendimentos auferidos das aplicações dos recursos mantidos
+
+para as necessidades de liquidez do patrimônio separado;
+
+45
+
+II. III. IV. Ser mensalmente atualizado e disponibilizado no endereço eletrônico da
+
+Securitizadora e ao Agente Fiduciário;
+
+Conter a constituição e enquadramento dos fundos integrantes do patrimônio
+
+separado com valores apurados, se houver; e
+
+Conter a constituição e enquadramento dos índices financeiros, demais índices e
+
+limites mínimos de garantias com os valores apurados, se houver.
 
 CAPÍTULO VII – DISPOSIÇÕES FINAIS
 
-## Art. 11
+## Art. 13
 
-Este anexo entra em vigor em 24 de março de 2025.
+Este anexo entra em vigor em 04 de janeiro de 2027.
 
-38
+46
 
 ANEXO COMPLEMENTAR III - REGRAS E PROCEDIMENTOS PARA AS
 
@@ -1900,7 +2316,7 @@ demais Anexos Complementares, devem prevalecer as disposições deste anexo.
 
 ## Art. 2º
 
-. Os Agentes Fiduciários e o Agentes de Notas estão sujeitos às disposições do Código de
+Os Agentes Fiduciários e os Agentes de Notas estão sujeitos às disposições do Código de
 
 Ofertas Públicas, da Parte Geral destas Regras e Procedimentos, no que couber, assim como deste
 
@@ -1928,7 +2344,7 @@ II. Escritura de emissão;
 
 III. Instrumento contratual escrito equivalente;
 
-39
+47
 
 IV. Termo de emissão; e/ou
 
@@ -1942,15 +2358,15 @@ Os Agentes Fiduciários e os Agentes de Notas devem, no exercício de suas ativi
 
 I. II. III. Verificar, no momento de aceitar a função, a veracidade das informações relativas às
 
-garantias e a consistência das demais informações contidas nos instrumentos
+garantias e a consistência das demais informações contidas no parágrafo único do artigo
 
-mencionados no parágrafo único do artigo 2º deste anexo, bem como em eventuais
+2º deste Anexo Complementar, bem como eventuais instrumentos acessórios da
 
-instrumentos acessórios da respectiva emissão de Valores Mobiliários, incluindo, mas
+respectiva emissão do Valor Mobiliário, incluindo, mas não se limitando, a contratos de
 
-não se limitando a contratos de garantia, diligenciando no sentido de que sejam sanadas
+garantia, diligenciando no sentido de que sejam sanadas as omissões, falhas ou defeitos
 
-as omissões, falhas ou defeitos de que tenha conhecimento;
+de que tenha conhecimento;
 
 Verificar, por meio do recebimento e análise dos documentos e/ou informações a serem
 
@@ -1958,15 +2374,17 @@ disponibilizados pela emissora:
 
 a. A regularidade da constituição das garantias reais, flutuantes e fidejussórias, bem
 
-como o valor dos bens dados em garantia na data da celebração do instrumento de
+como o valor dos bens dados em garantia na data da celebração do documento de
 
-emissão, observando a manutenção da sua suficiência e exequibilidade nos termos
+emissão, observando a manutenção de sua suficiência e exequibilidade nos termos
 
-previstos nos documentos da emissão; e
+das disposições estabelecidas na escritura de emissão, no termo de securitização de
+
+direitos creditórios ou no instrumento equivalente; e
 
 b. O cumprimento de índices financeiros (covenants) nos termos previstos nos
 
-documentos de emissão ou documento equivalente, se aplicável, nas datas
+instrumentos de emissão ou instrumento equivalente, se aplicável, nas datas
 
 combinadas.
 
@@ -1978,33 +2396,41 @@ considerando:
 
 a. A situação das garantias verificadas nos termos da alínea “a” do inciso II, no que
 
-couber, observado o dever de reforço e recomposição previsto no instrumento de
+couber, observado o dever de reforço e recomposição previsto no documento de
 
-emissão e na regulação, caso aplicável; e
+emissão e na regulação, caso aplicável;
 
-b. Inadimplemento dos Direitos Creditórios lastro da operação de securitização.
+48
 
-40
+IV. V. VI. VII. VIII. IX. X. XI. XII. XIII. b. Inadimplemento dos Direitos Creditórios lastro da operação de securitização; e
 
-IV. V. VI. VII. VIII. IX. X. XI. XII. Possuir site próprio na internet para disponibilização das informações públicas relativas
+c. A conduta da securitizadora no cumprimento da gestão de recursos do patrimônio
+
+separado para fins de liquidez.
+
+Possuir site próprio na internet para disponibilização das informações públicas relativas
 
 à emissão;
 
 Elaborar os relatórios anuais em conformidade com a regulação aplicável e de acordo
 
-com o conteúdo mínimo exigido pelo inciso I do parágrafo 3º deste artigo;
+com o conteúdo mínimo exigido pelo inciso I do §3º deste artigo;
+
+Elaborar os relatórios trimestrais em conformidade com o Apêndice nº 6 dessas Regras
+
+e Procedimentos e disponibilizá-los em seu endereço eletrônico e à Anbima;
 
 Fiscalizar o cumprimento das cláusulas das obrigações de fazer e não fazer previstas no
 
-instrumento de emissão do qual seja parte;
+documento de emissão do qual seja parte;
 
 Conservar em boa guarda toda a documentação relativa ao exercício de suas funções;
 
-Diligenciar para que os documentos da Oferta Pública de renda fixa e seus aditamentos,
+Diligenciar para que os documentos da Oferta Pública de renda fixa e seus eventuais
 
-conforme aplicável, sejam registrados nos órgãos competentes, adotando, no caso da
+aditamentos, sejam registrados nos órgãos competentes, conforme aplicável, adotando,
 
-omissão do emissor, as medidas cabíveis pela regulação em vigor;
+no caso da omissão da emissora, as medidas cabíveis pela regulação em vigor;
 
 Acompanhar a prestação das informações periódicas e alertar os titulares dos Valores
 
@@ -2024,43 +2450,47 @@ regras e procedimentos para Ofertas Públicas de Títulos Sustentáveis.
 
 §1º. Para fins do disposto no caput, o Agente Fiduciário ou o Agente de Notas deverá solicitar
 
-as informações e documentos a seguir, conforme aplicável, previstos na escritura de emissão, no
+aos Coordenadores, Emissoras ou Securitizadoras conforme aplicável, as informações e documentos
 
-termo de emissão de notas comerciais, na cártula, no termo de securitização ou no instrumento
+a seguir, conforme aplicável, previstos na escritura de emissão, no termo de emissão de notas
 
-equivalente, sem prejuízo de outros que, a seu exclusivo critério, sejam necessários para a o efetivo
+comerciais, na cártula, no termo de securitização ou no instrumento equivalente, sem prejuízo de
 
-cumprimento de suas reponsabilidades.
+49
 
-I. Documentos societários ou a indicação de sites na internet nos quais tais informações e
+outros que, a seu exclusivo critério, sejam necessários para o efetivo cumprimento de suas
+
+responsabilidades.
+
+I. II. III. Documentos societários ou a indicação de sites na internet nos quais tais informações e
 
 documentos possam ser acessados diretamente:
 
 a. Cópia do ato societário no qual foi aprovado o atual estatuto ou contrato social da
 
-companhia emissora e/ou devedora e/ou cedente do lastro, conforme aplicável, bem
+emissora e/ou devedora e/ou garantidor, e/ou cedente e/ou garantidor do lastro,
 
-41
+conforme aplicável, bem como as alterações posteriores até a data da emissão que
 
-II. III. IV. como as alterações posteriores até a data da emissão que não consolidaram o
+não consolidaram o estatuto ou contrato social, se houver, devidamente arquivados
 
-estatuto ou contrato social, se houver, devidamente arquivados na junta comercial
-
-competente;
+na junta comercial competente;
 
 b. Cópia do(s) ato(s) societário(s) de aprovação da emissão do Valor Mobiliário e/ou de
 
 seu lastro ou da outorga de garantias, caso aplicável;
 
-c. Cópia do(s) ato(s) societário(s) de eleição dos diretores da companhia emissora e/ou
+c. Cópia do(s) ato(s) societário(s) de eleição dos diretores da emissora e/ou de sua
 
-devedora e/ou cedente do lastro, conforme aplicável; e
+administração, e/ou devedora e/ou garantidor e/ou cedente e/ou garantidor do
 
-d. Organograma representando a estrutura societária da companhia emissora,
+lastro, conforme aplicável; e
 
-contendo informações sobre seus sócios diretos e indiretos, bem como de seu
+d. Organograma representando a estrutura societária da emissora, contendo
 
-Conglomerado ou Grupo Econômico;
+informações sobre seus sócios diretos e indiretos, bem como de seu Conglomerado
+
+ou Grupo Econômico;
 
 Súmula da classificação de risco (rating) da emissão, caso aplicável;
 
@@ -2072,23 +2502,33 @@ a. Cópia do laudo de avaliação, emitido por empresa especializada, quando hou
 
 verificar se consta na escritura de emissão, no termo de emissão de notas comerciais,
 
-na cártula, no termo de securitização ou no instrumento equivalente, conforme o
+na cártula, no termo de securitização ou no instrumento equivalente, incluindo o
 
-caso, a indicação da metodologia de avaliação adotada;
+instrumento de garantia, conforme o caso, a indicação da metodologia de avaliação
+
+adotada;
 
 b. Via física ou cópia eletrônica dos contratos de garantia, devidamente registrados nas
 
-respectivas comarcas conforme regulação aplicável e conforme aplicável nos termos
+respectivas comarcas conforme lei e/ou regulação aplicável e conforme aplicável nos
 
-da documentação da Oferta Pública; e
+termos da documentação da Oferta Pública; e
 
-c. No caso de ações, cópia autenticada do livro de registro de ações arquivado na junta
+50
 
-comercial competente, contendo a devida averbação, ou declaração dada pelo
+IV. V. VI. c. No caso de ações, cópia eletrônica do livro de registro de ações quando em formato
+
+digital, ou cópia autenticada do livro de registro de ações autenticado pela junta
+
+comercial competente, em ambos os casos contendo a devida averbação, bem como
+
+o termo inicial e o termo final do livro de registro de ações, declaração dada pelo
 
 Escriturador anteriormente à constituição do ônus e posteriormente à anotação do
 
-ônus. No caso de penhor ou alienação fiduciária de quotas, a devida averbação no
+ônus ou pela expedição de certidão por uma depositária. No caso de penhor ou
+
+alienação fiduciária de quotas, a devida averbação no contrato social ou alteração do
 
 contrato social.
 
@@ -2096,13 +2536,11 @@ Caso a Oferta Pública conte com garantias de alienação fiduciária, cessão f
 
 aplicações financeiras e conta vinculada:
 
-42
+a. Via física ou eletrônica dos contratos de garantia devidamente registrados nas
 
-V. VI. VII. a. Via física ou eletrônica dos contratos de garantia devidamente registrados nas
+respectivas comarcas, conforme lei e/ou regulação aplicável e nos termos da
 
-respectivas comarcas, conforme regulação aplicável e nos termos da documentação
-
-da Oferta Pública; e
+documentação da Oferta Pública; e
 
 b. Cópia do contrato dos serviços de banco depositário devidamente formalizado entre
 
@@ -2114,9 +2552,9 @@ móveis:
 
 a. Via física ou eletrônica dos contratos de garantia devidamente registrados nas
 
-respectivas comarcas, conforme regulação aplicável e de acordo com os termos da
+respectivas comarcas, conforme lei e/ou regulação aplicável e de acordo com os
 
-documentação da Oferta Pública; e
+termos da documentação da Oferta Pública; e
 
 b. Cópia do laudo de avaliação, conforme aplicável, emitido por empresa especializada,
 
@@ -2134,9 +2572,11 @@ Caso a Oferta Pública conte com garantias de alienação fiduciária e hipoteca
 
 imóveis:
 
-a. Via física ou eletrônica dos contratos de garantia devidamente registrados, conforme
+51
 
-regulação aplicável e nos termos da documentação da Oferta Pública;
+VII. VIII. IX. a. Via física ou eletrônica dos contratos de garantia devidamente registrados, conforme
+
+lei e/ou regulação aplicável e nos termos da documentação da Oferta Pública;
 
 b. Cópia do laudo de avaliação, emitido por empresa especializada, conforme aplicável
 
@@ -2156,11 +2596,9 @@ Caso a Oferta Pública conte com garantias de cessão fiduciária e penhor de Di
 
 Creditórios:
 
-43
+a. Via física ou eletrônica dos contratos de garantia devidamente registrados nas
 
-VIII. IX. a. Via física ou eletrônica dos contratos de garantia devidamente registrados nas
-
-respectivas comarcas, conforme regulação aplicável;
+respectivas comarcas, conforme lei e/ou regulação aplicável;
 
 b. Vias físicas ou eletrônicas do contrato dos serviços de banco depositário
 
@@ -2170,11 +2608,11 @@ c. Cópia da notificação da cessão ou notificação ao devedor, conforme o ca
 
 acordo com os termos da documentação da Oferta Pública; e
 
-d. Cópia, conforme o caso, dos contratos de compra e venda que originam os Direitos
+d. Cópia, conforme o caso, dos contratos ou títulos que originam os Direitos Creditórios
 
-Creditórios em questão, devidamente protocolados para registro ou registrados nos
+em questão, devidamente protocolados para registro ou registrados nos órgãos
 
-órgãos competentes, conforme o caso.
+competentes, conforme o caso.
 
 Em Ofertas Públicas de CRI:
 
@@ -2190,6 +2628,8 @@ aplicável.
 
 Em Ofertas Públicas de CRA:
 
+52
+
 a. Documentos evidenciando que os Direitos Creditórios ou títulos de dívida são
 
 relacionados a pessoas físicas ou jurídicas caracterizadas como produtores rurais ou
@@ -2202,7 +2642,7 @@ destinados os recursos oriundos da emissão, conforme aplicável;
 
 c. Em caso de CRA lastreado em título de dívida emitido por uma parte que não seja
 
-produtor rural cooperativa de produtores rurais, cópia dos contratos ou outros
+produtor rural ou cooperativa de produtores rurais, cópia dos contratos ou outros
 
 documentos vigentes que evidenciam relação comercial existente entre o respectivo
 
@@ -2210,25 +2650,23 @@ emitente e produtores rurais ou suas cooperativas, conforme aplicável;
 
 d. Em caso de CRA cujo lastreado em título de dívida emitido por uma parte que não
 
-seja produtor rural cooperativa de produtores rurais, o título de dívida deverá
+seja produtor rural ou cooperativa de produtores rurais, o título de dívida deverá
 
-descrever o cronograma indicativo (montantes e datas) da destinação dos recursos
+descrever o cronograma indicativo, incluindo montantes e datas,da destinação dos
 
-obtidos com a Oferta Pública, conforme aplicável. Tal cronograma deverá prever a
+recursos obtidos com a Oferta Pública, conforme aplicável. Tal cronograma deverá
 
-44
+prever a obrigação de acompanhamento, pelo Agente Fiduciário ou Agente de Notas,
 
-obrigação de acompanhamento, pelo Agente Fiduciário ou Agente de Notas, em
+em periodicidade no mínimo semestral, até que integralmente comprovada e
 
-periodicidade no mínimo semestral, até que integralmente comprovada e verificada
+verificada a referida destinação, momento a partir do qual a verificação periódica
 
-a referida destinação, momento a partir do qual a verificação periódica deixa de ser
+deixa de ser exigida;
 
-exigida;
+e. Eventuais laudos das garantias, ou estudo/metodologia utilizado pelos
 
-e. Eventuais laudos das garantias (ou estudo/metodologia utilizado pelos
-
-Coordenadores, para estabelecer os valores das garantias), conforme aplicável e
+Coordenadores, para estabelecer os valores das garantias, conforme aplicável e
 
 disposto na escritura de emissão, no termo de emissão de notas comerciais, na
 
@@ -2236,29 +2674,25 @@ cártula, no termo de securitização ou no instrumento equivalente;
 
 f. Em caso de CRA lastreado em título de dívida emitido por uma parte que não seja
 
-produtor rural cooperativa de produtores rurais, envio, pelo devedor, das notas
+produtor rural ou cooperativa de produtores rurais, envio, pelo devedor, do
 
-fiscais (ou outros documentos vigentes), que atestem a relação entre o terceiro
+documento de comprovação da destinação dos recursos decorrentes da relação
 
-(devedor) e produtores rurais ou suas cooperativas para fins de acompanhamento,
+entre o terceiro, devedor, e produtores rurais ou suas cooperativas para fins de
 
-pelo Agente Fiduciário, da destinação dos recursos na sua integralidade, conforme
+acompanhamento, pelo Agente Fiduciário, da destinação dos recursos na sua
 
-aplicável.
+integralidade, conforme aplicável.
 
 g. Em caso de CRA lastreado em Direitos Creditórios oriundos de negócios realizados
 
-entre Distribuidores e terceiros, cópia dos contratos ou documentos que evidenciam
+entre Distribuidores e terceiros, cópia dos contratos ou títulos de crédito que
 
-as relações comerciais entre o respectivo Distribuidor e terceiros; e
+53
 
-h. Na hipótese prevista na alínea “g” acima, cópia dos instrumentos contratuais ou
+evidenciem as relações comerciais entre o respectivo distribuidor aos produtores
 
-títulos de crédito, conforme o caso, que comprovem a vinculação dos referidos
-
-negócios a vendas do respectivo Distribuidor a produtores rurais ou suas
-
-cooperativas.
+rurais.
 
 §2º. Nas hipóteses em que o lastro dos CRA e/ou dos CRI for pulverizado, os documentos
 
@@ -2268,21 +2702,19 @@ como, por exemplo, por meio de amostragem.
 
 §3º. Para fins do disposto nos incisos IV e V do caput, o Agente Fiduciário ou o Agente de
 
-Notas devem disponibilizar em seu site na internet:
-
-45
+Notas devem disponibilizar em seu endereço eletrônico:
 
 I. II. III. IV. V. VI. O relatório anual para os investidores em até 4 (quatro) meses após o fim do exercício
 
-social do emissor, descrevendo, para cada emissão, os fatos relevantes ocorridos durante
+social da emissora, descrevendo, para cada emissão, os fatos relevantes ocorridos
 
-o exercício relativos ao respectivo Valor Mobiliário, incluindo inconsistências ou
+durante o exercício relativos ao respectivo Valor Mobiliário, incluindo inconsistências ou
 
 omissões de que tenha tido conhecimento no decorrer do exercício;
 
-Os documentos da emissão e seus aditamentos em até 5 (cinco) dias úteis após os
+Os documentos da emissão e seus aditamentos em até 7 (sete) dias úteis a contar de sua
 
-registros nos órgãos competentes, caso aplicável;
+assinatura, ou a data em que a oferta se tornou pública, o que acontecer por último;
 
 Os editais de convocação das assembleias de titulares dos Valores Mobiliários na mesma
 
@@ -2294,17 +2726,19 @@ As atas das assembleias de emissões em que atue como Agente Fiduciário ou Agen
 
 Notas;
 
-Os contratos de garantias dos Valores Mobiliários, se houver em até 5 (cinco) dias úteis
+Os contratos de garantias dos Valores Mobiliários, se houver em até 7 (sete) dias úteis a
 
-após os registros nos órgãos competentes, caso aplicável; e
+contar de sua assinatura; e
 
 As informações eventuais exigidas pela regulação em vigor específica para essa atividade.
 
-§4º. O Agente Fiduciário ou Agente de Notas deverá encaminhar à ANBIMA os documentos
+§4º. O Agente Fiduciário ou Agente de Notas deverá encaminhar à Anbima os documentos
 
-indicados nos incisos III, IV e V do parágrafo anterior na mesma data de disponibilização em seu site
+indicados nos incisos II, III, IV e V do parágrafo anterior na mesma data de disponibilização em seu
 
-na internet.
+site na internet.
+
+54
 
 ## Art. 4º
 
@@ -2322,15 +2756,13 @@ emissão, ou à época do relatório anual; e
 
 Detalhamento dos critérios a serem utilizados pelo Agente Fiduciário ou Agente de Notas
 
-para o acompanhamento dos covenants constantes dos documentos da emissão, se
+para o acompanhamento dos índices financeiros (covenants) constantes dos
 
-aplicável, incluindo a possibilidade de o Agente Fiduciário ou Agente de Notas se balizar
+documentos da emissão, se aplicável, incluindo a possibilidade de o Agente Fiduciário ou
 
-46
+Agente de Notas se balizar pelas informações que lhe forem disponibilizadas pela
 
-pelas informações que lhe forem disponibilizadas pela emissora para verificar o
-
-atendimento dos referidos covenants.
+emissora para verificar o atendimento dos referidos covenants.
 
 §1º. O detalhamento de que trata o inciso II acima deve incluir, no mínimo, a disponibilização
 
@@ -2340,17 +2772,19 @@ financeiros.
 
 §2º. Observada a obrigação prevista no caput, os documentos da emissão devem prever a
 
-obrigação de a emissora fornecer, anualmente, à época do relatório anual, declaração assinada
+obrigação de a emissora fornecer, anualmente, com pelo menos 30 (trinta) dias de antecedência o
 
-pelo(s) representante(s) legal(is) da emissora, na forma do seu estatuto ou contrato social,
+término do prazo do relatório anual, declaração assinada pelo(s) representante(s) legal(is) da
 
-atestando:
+emissora, na forma do seu estatuto ou contrato social, atestando:
 
 I. II. Que permanecem válidas as disposições contidas nos documentos da emissão; e
 
 A não ocorrência de qualquer das hipóteses de vencimento antecipado e inexistência de
 
 descumprimento de obrigações da emissora perante os investidores.
+
+55
 
 CAPÍTULO III – CONVOCAÇÃO DE ASSEMBLEIAS DE TITULARES DE
 
@@ -2362,7 +2796,7 @@ Seção I – Regras para convocação de assembleias
 
 O Agente Fiduciário e o Agente de Notas deverão, quando necessário, convocar assembleia
 
-geral de investidores, desde que, as expensas do patrimônio separado ou custeado pelos emissores,
+geral de investidores, desde que, as expensas do patrimônio separado ou custeado pelas emissoras,
 
 conforme o caso, nos termos da documentação da emissão, deste anexo e da regulação aplicável.
 
@@ -2372,33 +2806,27 @@ A convocação deverá ocorrer da seguinte forma e em observância aos seguintes
 
 procedimentos, quando não estabelecido de modo diverso na regulação aplicável:
 
-I. Ser realizada por meio de publicação do edital de convocação no site do Agente Fiduciário
+I. II. III. IV. V. VI. Ser realizada por meio de publicação do edital de convocação no site do Agente Fiduciário
 
-ou do Agente de Notas, e em jornal de grande circulação, caso aplicável;
+ou do Agente de Notas, caso aplicável, e em jornal de grande circulação;
 
-47
+Informar, além da ordem do dia, o local, a data e a hora em que a assembleia será realizada;
 
-II. III. IV. V. VI. Informar, além da ordem do dia, o local, a data e a hora em que a assembleia será realizada;
+Informar o quórum de instalação e deliberação, além de disponibilizar política com
 
-Informar o quórum de instalação e deliberação;
+orientações de exercício de voto para os investidores;
 
-Indicar a documentação mínima com a qual o investidor deve estar munido para participar
+Indicar, na mesma data da convocação, a documentação mínima com a qual o investidor
 
-da assembleia geral;
+deve estar munido para participar da assembleia geral;
 
-Informar se a assembleia ocorrerá de forma presencial, parcial ou exclusivamente digital;
+Informar se a assembleia ocorrerá de forma presencial, parcial ou exclusivamente digital; e
 
 Indicar se os investidores poderão participar e proferir seu voto à distância, via consulta
 
 formal ou outro modelo, incluindo as regras e os procedimentos para tanto, com
 
-informações necessárias e suficientes para acesso e utilização do sistema pelos investidores;
-
-e
-
-VII. Fazer constar os quóruns aplicáveis à deliberação da referida matéria, conforme previstos
-
-no instrumento de emissão.
+informações necessárias e suficientes para acesso e utilização do sistema pelos investidores.
 
 §1º. Quando o Agente Fiduciário e o Agente de Notas tiverem convocado a assembleia, devem
 
@@ -2410,77 +2838,87 @@ assinatura eletrônica ou outros meios igualmente eficazes para assegurar a iden
 
 investidor.
 
-§2º. O Agente Fiduciário e o Agente de Notas que atuem nesta função em outra emissão do
+56
 
-mesmo emissor, sociedade coligada, controlada, controladora ou integrante do mesmo grupo,
+§2º. O Agente Fiduciário e o Agente de Notas que atuem nesta função em outra emissão da
+
+mesma emissora, sociedade coligada, controlada, controladora ou integrante do mesmo grupo,
 
 devem buscar ao tratamento equitativo aos investidores acerca da convocação de assembleias de
 
-diferentes Valores Mobiliários emitidos pelo mesmo emissor.
+diferentes Valores Mobiliários emitidos pela mesma emissora.
 
-Seção II – Vencimento ou resgate antecipado da Oferta Pública
+Seção II – Vencimento ou resgate antecipado do Valor Mobiliário
 
 ## Art. 7º
 
 É dever do Agente Fiduciário e do Agente de Notas acompanhar o cumprimento das
 
-obrigações do emissor de Valores Mobiliários, no âmbito dos instrumentos dos quais faz parte, em
+obrigações da emissora de Valores Mobiliários, no âmbito dos instrumentos dos quais faz parte, em
 
 exclusivo benefício do interesse dos investidores.
 
-48
-
 ## Art. 8º
 
-Na ocorrência de descumprimento de obrigação constante dos documentos da Oferta
+Na ocorrência de descumprimento de obrigação constante do documento da emissão que
 
-Pública que enseje a aplicação de vencimento antecipado e/ou resgate antecipado do referido Valor
+enseje a aplicação de vencimento antecipado e/ou resgate antecipado do referido Valor Mobiliário,
 
-Mobiliário, o Agente Fiduciário ou o Agente de Notas deverá, observados os prazos e condições
+o Agente Fiduciário ou o Agente de Notas deverá, observados os prazos e condições específicos dos
 
-específicos dos documentos de emissão:
+instrumentos de emissão:
 
-I. II. III. Comunicar os investidores, por meio de divulgação imediata em seu site na internet, acerca
+I. II. Comunicar os investidores, por meio de divulgação imediata em seu site na internet, acerca
 
 da ocorrência do referido evento assim que obtiver ciência;
 
-Na hipótese de vencimento ou resgate antecipado automático, declarar vencidas e exigíveis
+Nas ofertas de renda fixa:
 
-todas as obrigações relativas ao título e acompanhar a devida quitação dos valores devidos
+a. na hipótese de vencimento automático, declarar vencidas e exigíveis todas as
 
-até sua liquidação; e
+obrigações relativas ao título e acompanhar a devida quitação dos valores devidos
 
-Na hipótese de vencimento antecipado ou resgate antecipado não automático, nos termos
+até sua liquidação;
 
-dos documentos da Oferta Pública, convocar assembleia geral de investidores para deliberar
+b. na hipótese de vencimento antecipado não automático, nos termos dos documentos
 
-sobre a declaração do vencimento antecipado, observados eventuais procedimentos
+da Oferta Pública, convocar assembleia geral de investidores para deliberar sobre a
 
-previstos nos documentos da Oferta Pública.
+declaração do vencimento antecipado, observados eventuais procedimentos
+
+previstos nos documentos da Oferta Pública; e
+
+c. Nas hipóteses de resgate antecipado facultativo ou de oferta de resgate antecipado,
+
+verificar se as comunicações aos investidores relativas a tais eventos previstas no
+
+57
+
+documento de emissão foram feitas adequadamente e acompanhar a devida
+
+quitação dos valores mobiliários até sua liquidação.
 
 Parágrafo único. Em se tratando de Ofertas Públicas de Securitização, cabe à companhia
 
-Securitizadora a cobrança dos créditos decorrentes do vencimento antecipado, enquanto cabe ao
+Securitizadora a declaração e a cobrança dos créditos decorrentes do vencimento antecipado,
 
-Agente Fiduciário, além das obrigações previstas nos incisos acima, fiscalizar a atuação da
+enquanto cabe ao Agente Fiduciário, além das obrigações previstas nos incisos acima, acompanhar
 
-companhia Securitizadora, comunicando aos titulares dos Valores Mobiliários qualquer situação
+a atuação da companhia Securitizadora, comunicando aos titulares dos Valores Mobiliários qualquer
 
-que entender pertinente à defesa dos interesses deles.
+situação que entender pertinente à defesa dos interesses deles.
 
 CAPÍTULO IV – TRATAMENTO DE INFORMAÇÕES ENTRE O AGENTE
 
-FIDUCIÁRIO E OS EMISSORES DE VALORES MOBILIÁRIOS
+FIDUCIÁRIO E AS EMISSORAS DE VALORES MOBILIÁRIOS
 
 ## Art. 9º
 
-Sem prejuízo do cumprimento de obrigações previstas no instrumento de emissão, o Agente
+Sem prejuízo do cumprimento de obrigações previstas no documento de emissão, o Agente
 
 Fiduciário e o Agente de Notas devem, no relacionamento com as companhias Securitizadoras ou
 
-companhias emissoras de títulos de renda fixa:
-
-49
+emissoras de títulos de renda fixa:
 
 I. II. Informar todos os fatos relevantes acerca da emissão, incluindo a ocorrência de quaisquer
 
@@ -2496,33 +2934,37 @@ solicitado; e
 
 Disponibilizar, de forma frequente, o valor unitário do Valor Mobiliário objeto da Oferta
 
-Pública calculado em conjunto com as companhias Securitizadoras ou companhias emissoras
+Pública calculado em conjunto com as companhias Securitizadoras ou emissoras de títulos
 
-de títulos de renda fixa, aos investidores e aos participantes do mercado, por meio de sua
+de renda fixa, aos investidores e aos participantes do mercado, por meio de sua central de
 
-central de atendimento e/ou de seu site.
+atendimento e/ou de seu site.
+
+58
 
 Parágrafo único. É recomendável que o Agente Fiduciário ou o Agente de Notas observem, na
 
-troca de informações de que trata o caput, o relatório ANBIMA de padronização de informações
+troca de informações de que trata o caput, o relatório Anbima de padronização de informações
 
-conforme modelo disponibilizado no site da ANBIMA na internet.
+conforme modelo disponibilizado no site da Anbima na internet.
 
 CAPÍTULO V – TRATAMENTO DE INFORMAÇÕES AOS INVESTIDORES
 
-## Art. 10º
+## Art. 10
 
-. O Agente Fiduciário deverá disponibilizar aos investidores, por meio de seu site na internet,
+O Agente Fiduciário deverá disponibilizar aos investidores, por meio de seu site na internet,
 
-no mínimo de forma trimestral, as seguintes informações, observado as condições específicas de
+no mínimo de forma trimestral, as seguintes informações, observadas as condições específicas de
 
 cada caso:
 
-I. II. III. IV. Acompanhamento do cumprimento dos indicadores financeiros do emissor e de
+I. II. III. IV. Acompanhamento do cumprimento dos indicadores financeiros (covenants) da
 
-devedores do lastro cuja concentração seja de 20% (vinte por cento) ou mais, conforme
+emissora nas ofertas de renda fixa, se houver, e de devedores do lastro cuja
 
-estabelecido pelos documentos da emissão;
+concentração seja de 20% (vinte por cento) ou mais, se houver, conforme estabelecido
+
+pelos documentos da emissão;
 
 Atualização a respeito de eventual descumprimento de obrigações de fazer e não fazer;
 
@@ -2530,29 +2972,35 @@ Composição e status das garantias da emissão, se houver; e
 
 Acompanhando da destinação de recursos da Oferta Pública.
 
-50
+## Art. 11
 
-## Art. 11º
-
-. O Agente Fiduciário tem a obrigação de disponibilizar aos investidores as informações
+O Agente Fiduciário tem a obrigação de disponibilizar aos investidores as informações
 
 relativas a fatos relevantes que afetem ou possam afetar a Oferta Pública, bem como divulgar as
 
 respectivas demonstrações financeiras das emissoras que sejam companhias fechadas e sociedades
 
-limitadas, desde que as informações tenham sua publicidade exigida pela regulação atinente aos
+limitadas, desde que as informações tenham sua publicidade exigida pela regulação atinente as
 
-emissores ou sejam de conhecimento público e notório.
+emissoras ou sejam de conhecimento público e notório.
 
 Parágrafo único. As informações devem ser divulgadas em seu site na internet.
 
 CAPÍTULO VI – DISPOSIÇÕES FINAIS
 
-## Art. 12º
+## Art. 12
 
-. Este anexo entra em vigor em 24 de março de 2025.
+Este anexo entra em vigor em 04 de janeiro de 2027.
 
-51
+59
+
+Parágrafo único. A divulgação do relatório trimestral padronizado de acompanhamento das
+
+garantias, previsto no art. 10, aplica-se às informações relativas ao trimestre findo em dezembro de
+
+2026 e subsequentes.
+
+60
 
 ANEXO COMPLEMENTAR IV - REGRAS E PROCEDIMENTOS PARA
 
@@ -2590,7 +3038,7 @@ I. Seção de fatores de risco: descrição, sem mitigação ou quaisquer declar
 
 genérico, seguindo ordem decrescente de materialidade dos riscos, dos fatores de risco
 
-específicos em relação ao emissor, ao Valor Mobiliário ofertado, à Oferta Pública e ao
+específicos em relação a emissora, ao Valor Mobiliário ofertado, à Oferta Pública e ao
 
 terceiro garantidor, caso aplicável, considerados relevantes, assim entendidos aqueles
 
@@ -2602,9 +3050,9 @@ a. Os riscos relativos à possibilidade de resgate antecipado, amortização ant
 
 e/ou realização de Oferta Pública de resgate antecipado dos Valores Mobiliários de
 
-52
+renda fixa objeto da Oferta Pública, a exclusivo critério da emissora, incluindo a
 
-II. renda fixa objeto da Oferta Pública, a exclusivo critério da emissora, incluindo a
+61
 
 ocorrência de possíveis perdas financeiras para os investidores, inclusive na hipótese
 
@@ -2622,7 +3070,7 @@ c. No caso das Ofertas Públicas submetidas ao rito de registro automático, os 
 
 relativos à dispensa de análise prévia do Prospecto e dos demais documentos da
 
-Oferta Pública pela CVM e pela ANBIMA no âmbito do acordo de cooperação técnica
+Oferta Pública pela CVM e pela Anbima no âmbito do acordo de cooperação técnica
 
 para registro de Oferta Pública;
 
@@ -2644,9 +3092,9 @@ determinadas decisões deliberadas em assembleia de titulares de Valores
 
 Mobiliários, ainda que manifestem votos contrários;
 
-g. Os riscos relativos à eventual falta de liquidez no mercado secundário; e
+g. Os riscos relativos à eventual falta de liquidez no mercado secundário;
 
-h. Os riscos relativos à emissora e ao terceiro garantidor, caso aplicável, incluindo, mas
+h. Os riscos relativos a emissora e ao terceiro garantidor, caso aplicável, incluindo, mas
 
 não se limitando, àqueles relativos aos seus respectivos setores de atuação, bem
 
@@ -2656,13 +3104,21 @@ estruturação da Oferta Pública e todos aqueles que podem ensejar a eventual
 
 inadimplência de suas obrigações relativas ao Valor Mobiliário de renda fixa
 
-ofertado.
+ofertado; e
+
+i. Riscos referente à obtenção de carta conforto e/ou manifestação escrita dos
+
+auditores independentes relacionado aos dados da emissora e/ou dos devedores de
+
+62
+
+II. lastro de títulos de securitização que representem 20% (vinte por cento) ou mais de
+
+concentração de lastro somente em relação ao último exercício social completo.
 
 Informações sobre os quóruns mínimos estabelecidos para as Deliberações das
 
 assembleias gerais de titulares de Valores Mobiliários.
-
-53
 
 §1º. A materialidade dos fatores de risco deve ser avaliada levando em conta tanto a
 
@@ -2674,9 +3130,23 @@ em que este for exigido pela regulação aplicável.
 
 §2º. O disposto neste artigo não se aplica às Ofertas Públicas de renda fixa de títulos de
 
-Securitização, devendo ser observado, neste caso, o disposto no Anexo VI deste Código, que trata
+Securitização, devendo ser observado, neste caso, o disposto no Anexo VI destas Regras e
 
-das Ofertas Públicas de Securitização.
+Procedimentos, que trata das Ofertas Públicas de Securitização.
+
+§3º. Para a obrigação prevista no item “i” do inciso I poderá ser obtida a carta conforto e/ou
+
+manifestação escrita dos auditores independentes, ambas referentes apenas ao último exercício
+
+social completo, desde que acompanhadas de declaração assinada pelo diretor responsável pelas
+
+informações financeiras atestando a veracidade e consistência das informações, devendo as
+
+Instituições Participantes fazer constar, no Prospecto, como fator de risco e, sem mitigação, a
+
+informação de que o referido documento foi obtido apenas em relação ao último exercício social
+
+completo.
 
 Seção II – Ofertas Públicas destinadas a investidores profissionais
 
@@ -2686,9 +3156,11 @@ Todos os Valores Mobiliários de renda fixa aplicáveis a este Anexo que forem d
 
 exclusivamente a investidores profissionais devem conter o Sumário de Dívida conforme modelo
 
-disponibilizado pela ANBIMA no Apêndice nº1 destas Regras e Procedimentos.
+disponibilizado pela Anbima no Apêndice nº1 destas Regras e Procedimentos.
 
 §1º. O sumário, de que trata o caput, deve ser:
+
+63
 
 I. II. III. Utilizado pelos Coordenadores no auxílio a venda das Ofertas Públicas de renda fixa de
 
@@ -2698,29 +3170,61 @@ Compartilhado com os potenciais investidores para subsidiar a sua tomada de deci
 
 de investimento; e
 
-Enviado à ANBIMA no âmbito do pedido de registro das Ofertas Públicas, nos termos do
+Enviado à Anbima no âmbito do pedido de registro das Ofertas Públicas, nos termos do
 
 Código e da Parte Geral das Regras e Procedimentos.
 
-CAPÍTULO III – REGRAS OBRIGATÓRIAS PARA ESTRUTURAÇÃO DE
+CAPÍTULO III – PRÁTICAS OBRIGATÓRIAS PARA ESTRUTURAÇÃO DE
 
 OFERTAS PÚBLICAS DE RENDA FIXA
 
-54
-
-Seção I – Procedimento de precificação (Bookbuilding)
+Seção I – Interveniente Fiduciário
 
 ## Art. 4º
+
+As Instituições Participantes nomeadas e contratadas para atuar na representação fiduciária
+
+dos investidores em operações que envolvam a emissão de Certificados de Direitos Creditórios do
+
+Agronegócio (CDCA) e/ou Cédulas de Produto Rural Financeiras (CPR-F) devem observar as
+
+disposições desta Seção.
+
+## Art. 5º
+
+O Interveniente Fiduciário está sujeito, no que couber:
+
+I. II. III. Ao Código de Ofertas Públicas, especialmente as disposições do título III, capítulo IV, que
+
+tratam sobre as Ofertas Públicas de Renda Fixa;
+
+À Parte Geral destas Regras e Procedimentos; e
+
+Ao Anexo Complementar III destas Regras e Procedimentos, que disciplina as atividades do
+
+Agente Fiduciário e do Agente de Notas.
+
+Parágrafo único. Consideradas as disposições acima, o Interveniente Fiduciário está excetuado
+
+de observar as obrigações relativas à elaboração de relatórios anuais, conforme previsto no artigo
+
+3°, inciso V e no §3°, inciso I, do Anexo Complementar III destas Regras e Procedimentos.
+
+64
+
+Seção II – Procedimento de precificação (Bookbuilding)
+
+## Art. 6º
 
 É obrigatória a divulgação de informações nos documentos da Oferta Pública sobre o
 
 procedimento de coleta de intenções de investimento para determinação da taxa de remuneração
 
-do Valor Mobiliário de renda fixa ofertado (procedimento de bookbuilding).
+do Valor Mobiliário de renda fixa ofertado (procedimento de Bookbuilding).
 
-## Art. 5º
+## Art. 7º
 
-O procedimento de bookbuilding para definição de taxa em Ofertas Públicas de renda fixa
+O procedimento de Bookbuilding para definição de taxa em Ofertas Públicas de renda fixa
 
 deverá ser realizado:
 
@@ -2728,11 +3232,11 @@ I. II. Mediante rateio automático (leilão holandês); ou
 
 De forma discricionária, conforme critérios adotados pelo(s) Coordenador(es).
 
-§1º. O procedimento de bookbuilding que seguir o modelo de rateio automático (leilão
+§1º. O procedimento de Bookbuilding que seguir o modelo de rateio automático (leilão
 
 holandês) deverá observar os seguintes requisitos:
 
-I. Divulgação da realização do procedimento de bookbuilding nos documentos da Oferta
+I. Divulgação da realização do procedimento de Bookbuilding nos documentos da Oferta
 
 II. III. IV. V. VI. Pública;
 
@@ -2754,47 +3258,45 @@ definida pela companhia, ou o montante pretendido caso a Oferta Pública tenha m
 
 uma série e possua o sistema de vasos comunicantes.
 
-§2º Caso se verifique excesso de demanda com a participação de Pessoas Vinculadas em
+65
 
-processo de bookbuilding, que tenha observado o modelo de rateio automático (leilão holandês), e
+§2º. Caso se verifique excesso de demanda com a participação de Pessoas Vinculadas em
 
-55
+processo de Bookbuilding, que tenha observado o modelo de rateio automático (leilão holandês), e
 
 o corte para todos os investidores deverá ser proporcional até o atingimento da totalidade dos
 
 Valores Mobiliários objeto da Oferta Pública.
 
-§3º. O procedimento de bookbuilding que não observar o modelo de rateio automático (leilão
+§3º. O procedimento de Bookbuilding que não observar o modelo de rateio automático (leilão
 
 holandês) deverá ter seus procedimentos previamente divulgados nos documentos da Oferta
 
 Pública.
 
-§4º. Caso seja optado pelo procedimento de bookbuilding em formato discricionário, deverá
+§4º. Caso seja optado pelo procedimento de Bookbuilding em formato discricionário, deverá
 
-ser incluído, em destaque, no Prospecto da Oferta Pública que trata de bookbuilding o seguinte
+ser incluído, em destaque, no Prospecto da Oferta Pública que trata de Bookbuilding o seguinte
 
-aviso: “O Coordenador optou pela forma discricionária do procedimento de bookbuilding, em
+aviso: “O Coordenador optou pela forma discricionária do procedimento de Bookbuilding, em
 
 contraposição ao modelo de rateio automático (leilão holandês) previsto no Código de Ofertas
 
-Públicas da ANBIMA”.
+Públicas da Anbima”.
 
 §5º. No caso de Ofertas Públicas de renda fixa destinadas a investidores profissionais e/ou
 
-qualificados, nas quais o procedimento de bookbuilding seja específico para definição de volume,
+qualificados, nas quais o procedimento de Bookbuilding seja específico para definição de volume,
 
 poderá ser realizado uma Oferta Pública prioritária.
 
-§6º
-
-. A parcela referente à ancoragem de que trata o parágrafo anterior, se estabelecida, não
+§6º. A parcela referente à ancoragem de que trata o parágrafo anterior, se estabelecida, não
 
 estará sujeita ao rateio de Pessoas Vinculadas em caso de excesso de demanda.
 
-Seção II – Formador de mercado
+Seção III – Formador de mercado
 
-## Art. 6º
+## Art. 8º
 
 O formador de mercado é prestador de serviço relevante para as Ofertas Públicas de renda
 
@@ -2802,13 +3304,13 @@ fixa, devendo os Coordenadores, sempre que possível, recomendar sua contrataç�
 
 que, embora facultativa, referida contratação é relevante na medida em que:
 
-I. Ao garantir a existência de Oferta e demanda, estimula a liquidez dos Valores Mobiliários
+66
+
+I. II. III. Ao garantir a existência de Oferta e demanda, estimula a liquidez dos Valores Mobiliários
 
 no mercado secundário, facilitando as negociações;
 
-56
-
-II. III. Ao reduzir a volatilidade, ajuda a aumentar a eficiência e estabilidade das cotações dos
+Ao reduzir a volatilidade, ajuda a aumentar a eficiência e estabilidade das cotações dos
 
 Valores Mobiliários; e
 
@@ -2824,13 +3326,13 @@ formadores de mercado se provam pela divulgação de sua recomendação de contr
 
 Prospecto.
 
-Seção III - Divulgação de informações
+Seção IV - Divulgação de informações
 
-## Art. 7º
+## Art. 9º
 
 Os documentos da Oferta Pública de Valores Mobiliários de renda fixa emitidos por
 
-companhias fechadas ou por sociedades limitadas deverão conter a obrigação dos emissores
+companhias fechadas ou por sociedades limitadas deverão conter a obrigação das emissoras
 
 divulgarem os fatos relevantes que afetem ou possam afetar a Oferta Pública, bem como as
 
@@ -2838,23 +3340,23 @@ respectivas demonstrações financeiras exigidas nos termos da regulação aplic
 
 investidores.
 
-Parágrafo único. As informações devem ser divulgadas nos sites dos emissores, caso exista, e
+Parágrafo único. As informações devem ser divulgadas nos sites das emissoras, caso exista, e
 
 no site do Agente Fiduciário da emissão.
 
-Seção IV – Ativos digitais
+Seção V – Ativos digitais
 
-## Art. 8º
+## Art. 10
 
-Caso determinado Ativo digital seja considerando Valor Mobiliário de renda fixa, nos termos
+Caso determinado Ativo digital seja considerado Valor Mobiliário de renda fixa, nos termos
 
 da regulação da CVM, e sua Oferta Pública seja realizada ou intermediada por Instituição
 
 Participante do Código de Ofertas Públicas, deverá observar os seguintes procedimentos adicionais:
 
-I. O Prospecto da Oferta Pública de Ativo digital de renda fixa deve conter:
+67
 
-57
+I. O Prospecto da Oferta Pública de Ativo digital de renda fixa deve conter:
 
 a. Explicação sobre a “tokenização” do Ativo de renda fixa, bem como um breve fluxograma
 
@@ -2870,7 +3372,7 @@ i. Riscos relacionados à custódia dos tokens;
 
 ii. Riscos relacionados ao sistema operacional utilizado para suportar o token;
 
-iii. Ricos relacionados à operacionalização da tecnologia de registro distribuído
+iii. Riscos relacionados à operacionalização da tecnologia de registro distribuído
 
 utilizada pelo token;
 
@@ -2886,15 +3388,99 @@ II. Devem ser elaborados materiais de apoio ao investidor sobre funções e risc
 
 tecnologia, em especial na hipótese em que o Ativo comporte complexidades.
 
-CAPÍTULO IV – DISPOSIÇÕES FINAIS
+CAPÍTULO IV – DESMEMBRAMENTO DE DEBÊNTURES
 
-## Art. 9º
+Seção I – Objetivo e Abrangência
 
-Este anexo entra em vigor em 24 de março de 2025.
+## Art. 11
 
-58
+Para fins de observância desta seção, será considerada a prática de Desmembramento de
 
-ANEXO COMPLEMENTAR V - REGRAS E PROCEDIMENTOS PARA OFERTA
+Debêntures quando, em uma Oferta Pública de debêntures, houver desmembramento de uma
+
+unidade de debênture em duas ou mais, onde uma nova unidade representa o valor do principal e
+
+outras novas unidades que representem cada parcela de juros remuneratórios.
+
+68
+
+Seção II – Regras de conduta para Desmembramento de Debêntures
+
+## Art. 12
+
+As Instituições Participantes, ao participar de Ofertas Públicas de debêntures que adotam a
+
+prática de Desmembramento de Debêntures deverão, obrigatoriamente, assegurar:
+
+I. II. A proporcionalidade do direito econômico dos titulares das debêntures; e
+
+Que qualquer medida que impacte os direitos econômicos dos titulares das debêntures seja
+
+isonômica e proporcional ao valor investido.
+
+## Art. 13
+
+O Agente Fiduciário, no âmbito de assembleias gerais de debenturistas deverá,
+
+obrigatoriamente, assegurar que:
+
+I. II. Decisões tomadas em assembleia geral de debenturistas não alterem a proporcionalidade
+
+dos direitos econômicos detidos pelos titulares das debêntures; e
+
+O cálculo percentual de cada titular de debêntures que utiliza a prática de Desmembramento
+
+de Debêntures, para fins de quórum de instalação e/ou deliberação, seja realizado com base
+
+nas posições fornecidas pelo depositário central.
+
+## Art. 14
+
+Deve-se utilizar a metodologia de cálculo disponibilizada pela Anbima para cálculo do valor
+
+de debêntures objeto da prática de Desmembramento de Debêntures.
+
+Seção III -Requisitos Mínimos para Ofertas Públicas de
+
+Desmembramento de Debêntures
+
+## Art. 15
+
+Para fins de esclarecimento, o desmembramento poderá estar previsto na Escritura de
+
+Emissão de Debêntures e, quando não o tiver, poderá ser alterado conforme regramento da referida
+
+Escritura de Emissão de Debêntures, observado o disposto neste Capítulo.
+
+I. Mecanismos para assegurar a proporcionalidade entre os investidores; e
+
+69
+
+II. Previsões de direito de voto em assembleias gerais de debenturistas.
+
+§1º. No caso de debêntures emitidas, caso a emissora e o debenturista tenham interesse em
+
+prever a possibilidade da prática de Desmembramento deve-se aditar a escritura de emissão para
+
+prever a possibilidade da prática de Desmembramento de Debêntures, nos termos da regulação
+
+aplicável.
+
+§2º. Para fins de cálculo do direito de voto com base no percentual do valor econômico da
+
+debênture, a escritura de emissão deverá observar a metodologia padrão Anbima, conforme
+
+estabelecido no Manual de Desmembramento de Debêntures.
+
+CAPÍTULO V – DISPOSIÇÕES FINAIS
+
+## Art. 16
+
+Este anexo entra em vigor em 04 de janeiro de 2027.
+
+70
+
+ANEXO COMPLEMENTAR V – REGRAS E PROCEDIMENTOS PARA OFERTA
 
 PÚBLICA DE RENDA VARIÁVEL
 
@@ -2904,17 +3490,13 @@ CAPÍTULO I – OBJETIVO E ABRANGÊNCIA
 
 O presente Anexo Complementar dispõe sobre as Ofertas Públicas de renda variável
 
-observado, ainda, o disposto nos parágrafos abaixo.
+observado, ainda, o disposto no parágrafo único abaixo.
 
-§1º. Aplica-se para as Ofertas Públicas de renda variável destinadas exclusivamente a
+Parágrafo único. Em caso de eventual divergência entre as disposições deste Anexo
 
-investidores profissionais somente o disposto no artigo 6º deste anexo.
+Complementar e as disposições do Código de Ofertas Públicas ou da Parte Geral destas Regras e
 
-§2º. Em caso de eventual divergência entre as disposições deste Anexo Complementar e as
-
-disposições do Código de Ofertas Públicas ou da Parte Geral destas Regras e Procedimentos,
-
-prevalecem as disposições deste anexo.
+Procedimentos, prevalecem as disposições deste Anexo Complementar.
 
 CAPÍTULO II – DOCUMENTOS DA OFERTA PÚBLICA
 
@@ -2924,9 +3506,9 @@ qualificado
 
 ## Art. 2º
 
-O Prospecto e/ou Formulário de Referência das Ofertas Públicas de renda variável destinadas
+O Prospecto e/ou Formulário de Referência das Ofertas Públicas de renda variável
 
-ao público em geral e/ou qualificado devem conter, no mínimo:
+destinadas ao público em geral e/ou qualificado devem conter, no mínimo:
 
 I. Seção de fatores de risco: descrição, sem mitigação, de todos e quaisquer fatores de risco
 
@@ -2938,15 +3520,15 @@ a. Possibilidade de evento de fixação de preço em valor inferior à faixa ind
 
 Oferta Pública inicial, conforme critérios definidos no artigo 4º deste anexo; e
 
-59
-
-II. III. IV. V. b. Risco pertinente à eventual não colocação, ou colocação parcial, dos Valores
+b. Risco pertinente à eventual não colocação, ou colocação parcial, dos Valores
 
 Mobiliários objeto da Oferta Pública, bem como às consequências advindas da não
 
 colocação integral dos Valores Mobiliários ofertados.
 
-Informações setoriais: descrição dos principais aspectos relacionados ao setor de
+71
+
+II. III. IV. V. Informações setoriais: descrição dos principais aspectos relacionados ao setor de
 
 atuação da emissora;
 
@@ -2994,21 +3576,21 @@ Segmento Especial de Listagem.
 
 Seção II – Ofertas Públicas destinadas a investidor profissional
 
-60
-
 ## Art. 3º
 
-. As Ofertas Públicas de renda variável destinadas exclusivamente a investidores profissionais
+As Ofertas Públicas de renda variável destinadas exclusivamente a investidores profissionais
 
-devem conter Memorando de Ações, conforme modelo disponibilizado pela ANBIMA em seu site
+devem conter Memorando de Ações, conforme modelo disponibilizado pela Anbima em seu site na
 
-na internet.
+internet.
 
-Parágrafo único: As debêntures conversíveis destinadas exclusivamente a investidores
+72
+
+Parágrafo único. As debêntures conversíveis destinadas exclusivamente a investidores
 
 profissionais e que não tenham elaboração de prospecto, devem conter Sumário de Dívida,
 
-incluindo as condições de conversibilidade, conforme modelo disponibilizado pela ANBIMA em seu
+incluindo as condições de conversibilidade, conforme modelo disponibilizado pela Anbima em seu
 
 site na internet.
 
@@ -3030,9 +3612,7 @@ comprometido a aderir no prazo de 6 (seis) meses, contado do primeiro anúncio d
 
 algum Segmento Especial de Listagem.
 
-§1º
-
-. Os Coordenadores estão dispensados de observar o disposto no caput para as Ofertas
+§1º. Os Coordenadores estão dispensados de observar o disposto no caput para as Ofertas
 
 Públicas de Distribuição secundária dos mesmos Valores Mobiliários referenciados, desde que o(s)
 
@@ -3040,13 +3620,19 @@ respectivo(s) ofertante(s) não seja(m) participante(s) do grupo econômico da e
 
 §2º. Os programas de BDR, regulados pela CVM, ficam excluídos deste artigo.
 
+§3º. Os Coordenadores estão dispensados de observar o disposto no caput deste artigo nas
+
+Ofertas Públicas realizadas exclusivamente sob o regime de facilitação do acesso a capital e de
+
+incentivos à listagem
+
 Seção II – Lock-up de posições proprietárias
+
+73
 
 ## Art. 5º
 
 Os Coordenadores de Ofertas Públicas de renda variável devem:
-
-61
 
 I. II. Para as Ofertas Públicas iniciais: reter, no mínimo, 25% (vinte e cinco por cento) das
 
@@ -3094,11 +3680,11 @@ do Anúncio de Início de Distribuição.
 
 Sociedades Relacionadas, independentemente da forma, em relação a quaisquer das hipóteses
 
+74
+
 previstas a seguir, não serão considerados para fins do cálculo dos percentuais previstos nos incisos
 
 I e II do caput.
-
-62
 
 I. Execução de serviço de estabilização previsto nos documentos da Oferta Pública;
 
@@ -3142,15 +3728,13 @@ XI. Negociação das cotas de outras Classes de um mesmo Fundo que não sejam aq
 
 objeto de Oferta Pública e que não sejam nela conversíveis nem por ela permutáveis.
 
-§4º. Aplicam-se as previsões dos incisos I e II do caput e do parágrafo 1º deste artigo, no que
+§4º. Aplicam-se as previsões dos incisos I e II do caput e do §1º deste artigo, no que couber,
 
-couber, às Sociedades Relacionadas.
+às Sociedades Relacionadas.
 
-§5º. O percentual de que tratam os incisos I e II do caput e do parágrafo 1º deste artigo não
+§5º. O percentual de que tratam os incisos I e II do caput e do §1º deste artigo não se aplica:
 
-se aplica:
-
-63
+75
 
 I. II. Às comissões de coordenação, garantia, colocação e sucesso, bem como de ganhos
 
@@ -3170,9 +3754,9 @@ por cento) do capital social da emissora dos Valores Mobiliários de renda vari�
 
 §6º. A dispensa de que trata o inciso II do parágrafo anterior só será aplicável se a Oferta
 
-Pública de renda variável contar com um Coordenador adicional, nos termos do artigo 5º deste
+Pública de renda variável contar com um Coordenador adicional, nos termos do artigo 7º deste
 
-anexo.
+Anexo Complementar.
 
 §7º. Não estão sujeitos ao disposto neste artigo:
 
@@ -3200,7 +3784,7 @@ inferior à faixa indicada quando o preço final da Oferta Pública inicial de a
 
 abaixo em 20% (vinte por cento) do preço inicialmente indicado.
 
-64
+76
 
 §2º. Para fins do disposto no parágrafo anterior, o preço final da Oferta Pública será o
 
@@ -3244,11 +3828,11 @@ divulgação do início de Distribuição, sendo que, caso a destinação dos re
 
 tais datas, novo cálculo deverá ser feito.
 
+77
+
 §4º. O cálculo da participação indireta prevista no inciso I do caput deverá seguir as seguintes
 
 regras:
-
-65
 
 I. II. III. A participação por meio de sociedades controladas, sociedades sujeitas a controle comum
 
@@ -3284,7 +3868,7 @@ das hipóteses previstas a seguir, não serão considerados para fins do cálcul
 
 nos incisos I e II do caput.
 
-I. II. III. IV. V. VI. VII. Execução de serviço de estabilização previsto nos documentos da Oferta Pública;
+I. II. III. IV. V. Execução de serviço de estabilização previsto nos documentos da Oferta Pública;
 
 Alienação total ou parcial de lote de Valores Mobiliários objeto de garantia firme;
 
@@ -3298,11 +3882,11 @@ Operações destinadas a proteger posições assumidas em derivativos contratado
 
 terceiros;
 
-Operações realizadas como formador de mercado, nos termos da regulação aplicável;
+78
 
-Administração discricionária de carteira de terceiros;
+VI. Operações realizadas como formador de mercado, nos termos da regulação aplicável;
 
-66
+VII. Administração discricionária de carteira de terceiros;
 
 VIII. Aquisição de Valores Mobiliários solicitada por clientes com o fim de prover liquidez, bem
 
@@ -3310,11 +3894,11 @@ como a alienação dos Valores Mobiliários assim adquiridos;
 
 IX. Arbitragem entre:
 
-X. XI. a. Valores Mobiliários e seus certificados de depósito; ou
+a. Valores Mobiliários e seus certificados de depósito; ou
 
 b. Índice de mercado e contrato futuro nele referenciado.
 
-Operações destinadas a cumprir obrigações assumidas antes do início do período de
+X. Operações destinadas a cumprir obrigações assumidas antes do início do período de
 
 vedação decorrentes de:
 
@@ -3324,13 +3908,11 @@ b. Exercício de opções de compra ou venda por terceiros; ou
 
 c. Contratos de compra e venda a termo.
 
-Negociação das cotas de outras Classes de um mesmo Fundo que não sejam aquelas
+XI. Negociação das cotas de outras Classes de um mesmo Fundo que não sejam aquelas
 
 objeto de Oferta Pública e que não sejam nela conversíveis nem por ela permutáveis.
 
-6º
-
-. O Coordenador adicional, em conjunto com o Coordenador líder, deverá:
+§6º. O Coordenador adicional, em conjunto com o Coordenador líder, deverá:
 
 I. II. III. Participar do processo de formação de preço dos Valores Mobiliários de renda variável
 
@@ -3348,15 +3930,15 @@ Seção IV – Diligência específica para renda variável
 
 ## Art. 8º
 
-Para fins de comprovação do processo de diligência do Coordenador de Oferta Pública de
+Para fins do processo de diligência do Coordenador de Oferta Pública de renda variável,
 
-renda variável, entende-se como documentação comprobatória:
+deve-se obter:
+
+79
 
 I. Opinião legal emitida pelos assessores legais no âmbito da Oferta Pública de renda variável;
 
 e
-
-67
 
 II. Cópia da manifestação dos auditores independentes da companhia emissora acerca da
 
@@ -3366,15 +3948,17 @@ com aquelas constantes das demonstrações financeiras.
 
 Parágrafo único. O Coordenador líder da Oferta Pública de renda variável deverá manter a
 
-documentação comprobatória descrita acima pelo prazo mínimo de 5 (cinco) anos.
+documentação comprobatória descrita acima pelo prazo mínimo de 5 (cinco) anos, sendo que tal
+
+documentação servirá como documentação comprobatória da diligência para todos os fins.
 
 CAPÍTULO IV – DISPOSIÇÕES FINAIS
 
 ## Art. 9º
 
-Este anexo entra em vigor em 24 de março de 2025.
+Este anexo entra em vigor em 04 de janeiro de 2027.
 
-68
+80
 
 ANEXO COMPLEMENTAR VI – REGRAS E PROCEDIMENTOS PARA AS
 
@@ -3416,7 +4000,7 @@ Seção I – Ofertas Públicas destinadas ao público em geral e/ou a
 
 investidores qualificados
 
-69
+81
 
 ## Art. 2º
 
@@ -3426,9 +4010,9 @@ Securitização objeto deste anexo destinadas ao público em geral e/ou a invest
 
 deve conter, no mínimo:
 
-I. Classificação ANBIMA, conforme aplicável, de forma destacada, na capa do Prospecto na
+I. Classificação Anbima, conforme aplicável, de forma destacada, na identificação do
 
-identificação do certificado na capa do Prospecto;
+certificado na capa do Prospecto;
 
 II. Índice;
 
@@ -3476,7 +4060,7 @@ m. Garantias – tipo, forma e descrição;
 
 n. Lastro;
 
-70
+82
 
 X. XI. o. Existência ou não de regime fiduciário;
 
@@ -3534,7 +4118,7 @@ d. Risco tributário: descrever os riscos relacionados à eventual alteração d
 
 fiscais relacionados aos Títulos de Securitização; e
 
-71
+83
 
 XII. e. Riscos operacionais: descrever os riscos oriundos dos processos de verificação de lastro e
 
@@ -3592,7 +4176,7 @@ ocorrência de possíveis perdas financeiras para os investidores, inclusive na 
 
 aumento ou incidência de tributação;
 
-72
+84
 
 h. Risco de Distribuição parcial: descrever os impactos da Distribuição parcial e o risco de
 
@@ -3636,7 +4220,7 @@ p. Riscos, no caso das Ofertas Públicas submetidas ao rito de registro automát
 
 dispensa de análise prévia do Prospecto e dos demais documentos da Oferta Pública pela
 
-CVM e pela ANBIMA no âmbito do acordo de cooperação técnica da Oferta Pública;
+CVM e pela Anbima no âmbito do acordo de cooperação técnica da Oferta Pública;
 
 q. Riscos relativos à possibilidade de vencimento antecipado dos Valores Mobiliários lastro
 
@@ -3652,15 +4236,19 @@ s. Risco setorial: descrever os riscos decorrentes do setor específico em que o
 
 Creditórios estão inseridos; e
 
-73
+85
 
-t. Risco do investidor ser chamado para realização de aporte financeiro para cobertura de
+t. u. Risco do investidor ser chamado para realização de aporte financeiro para cobertura de
 
 eventuais despesas da operação e/ou custeio das providências judiciais ou extrajudiciais
 
 para recuperação do crédito nas hipóteses de vencimento antecipado quando o
 
-patrimônio separado tem insuficiência de recursos.
+patrimônio separado tem insuficiência de recursos; e
+
+risco relacionado à contaminação do patrimônio separado caso seja adotado um único
+
+patrimônio separado para mais de uma série do valor mobiliário ofertado.
 
 Parágrafo único. A materialidade dos fatores de risco deve ser avaliada levando em
 
@@ -3680,37 +4268,63 @@ Pública – deve conter as disposições do artigo 2º acima, conforme aplicáv
 
 informações descritas a seguir:
 
-I. II. Informações qualitativas do(s) devedor(es), incluindo, mas não se limitando:
+I. Informações qualitativas do(s) devedor(es) ou coobrigado(s), incluindo, mas não se
+
+limitando:
 
 a. Anexar ou indicar por referência as demonstrações financeiras devidamente auditadas
 
 relativas ao exercício imediatamente anterior;
 
-b. Indicação ao Formulário de Referência do devedor, caso aplicável;
+b. Indicação ao Formulário de Referência do devedor ou coobrigado, caso aplicável;
 
-c. Descrição dos negócios, processos produtivos e mercados de atuação dos devedores, se
+c. Descrição dos negócios, processos produtivos e mercados de atuação dos devedores ou
 
-houver;
+coobrigados, se houver;
 
 d. Descrição de fatores macroeconômicos que exercem influência sobre os negócios dos
 
-devedores; e
+devedores ou coobrigados; e
 
-e. Descrição dos contratos relevantes celebrados pelos devedores.
+e. Descrição dos contratos relevantes celebrados pelos devedores ou coobrigados.
 
-Informações sobre o impacto nos indicadores financeiros do(s) devedor(es) ou coobrigado(s)
+86
+
+II. Informações sobre o impacto nos indicadores financeiros do(s) devedor(es) ou coobrigado(s)
 
 referentes à dívida que será emitida para lastrear o certificado, quando houver dados públicos
 
 para cálculo e desde que seja uma Oferta Pública primária; e
 
-74
+III. Carta conforto e/ou manifestação escrita dos auditores independentes do devedor ou
 
-III. Carta conforto e/ou manifestação escrita dos auditores independentes do devedor acerca da
+coobrigado acerca da consistência das informações financeiras constantes do Prospecto e/ou
 
-consistência das informações financeiras constantes do Prospecto e/ou do Formulário de
+do Formulário de Referência relativas às demonstrações financeiras publicadas pelo devedor
 
-Referência relativas às demonstrações financeiras publicadas pelo devedor.
+ou coobrigado.
+
+§1º. Caso o devedor ou coobrigado representem, individualmente, mais de 20% (vinte por
+
+cento) de concentração da Oferta Pública e elaborem demonstrações financeiras, nos termos
+
+exigidos nas normas correlatas expedidas pela CVM, deverão, obrigatoriamente, divulgá-las nos
+
+Documentos da Oferta.
+
+§2º. Para a obrigação prevista no inciso III poderá ser obtida a carta conforto e/ou
+
+manifestação escrita dos auditores independentes, ambas referentes apenas ao último exercício
+
+social completo, desde que acompanhadas de declaração assinada pelo diretor responsável pelas
+
+informações financeiras atestando a veracidade e consistência das informações, devendo as
+
+Instituições Participantes fazer constar, no Prospecto, como fator de risco e, sem mitigação, a
+
+informação de que o referido documento foi obtido apenas em relação ao último exercício social
+
+completo.
 
 ## Art. 4º
 
@@ -3720,11 +4334,13 @@ pulverizado deve conter as informações previstas no artigo 2º deste Anexo e, 
 
 informações descritas a seguir sobre o lastro:
 
-I. II. III. IV. V. VI. VII. Em Ofertas Públicas de CRI, informações sobre loan to value (LTV), indicando a metodologia
+I. Em Ofertas Públicas de CRI, informações sobre loan to value (LTV), indicando a metodologia
 
 adotada para avaliação dos imóveis, observado o parágrafo 1º deste artigo;
 
-Informações descritas no inciso X do artigo 2º em formato de tabela, incluindo, de forma
+87
+
+II. III. IV. V. VI. VII. Informações descritas no inciso X do artigo 2º em formato de tabela, incluindo, de forma
 
 consolidada, a quantidade de contratos e os valores mínimos, médios e máximos das alíneas
 
@@ -3758,9 +4374,7 @@ não haja informações estatísticas, apresentar essa ausência como fator de r
 
 informações requeridas não sejam de conhecimento dos Coordenadores, nem possam ser por
 
-eles obtidas, tal fato deve ser informado no Prospecto, sem mitigação
-
-75
+eles obtidas, tal fato deve ser informado no Prospecto, sem mitigação.
 
 §1º. O LTV, de que trata o inciso I deste artigo, será obrigatório:
 
@@ -3775,6 +4389,8 @@ Caso o risco da operação esteja vinculado a uma garantia real imobiliária.
 §2º. Caso a apólice de seguro de que trata o inciso V deste artigo seja emitida de acordo com
 
 as normas estrangeiras, o Coordenador líder deverá:
+
+88
 
 I. II. III. Realizar tradução simples da apólice para a língua portuguesa;
 
@@ -3804,15 +4420,13 @@ cessão de crédito com Coobrigação deve conter as disposições do artigo 2º
 
 mínimo, as informações descritas a seguir:
 
-I. Identificação do(s) coobrigado(s) e/ou do prestador da garantia fidejussória, incluindo a
+I. II. III. IV. V. Identificação do(s) coobrigado(s) e/ou do prestador da garantia fidejussória, incluindo a
 
-II. denominação, o CNPJ e o endereço social;
+denominação, o CNPJ e o endereço social;
 
 Forma da garantia fidejussória (aval e/ou fiança);
 
-76
-
-III. IV. V. Abrangência, em valor e/ou percentual, em relação à totalidade do lastro dos Títulos de
+Abrangência, em valor e/ou percentual, em relação à totalidade do lastro dos Títulos de
 
 Securitização;
 
@@ -3820,13 +4434,15 @@ Prazo da garantia fidejussória ou cessão de crédito com Coobrigação assumid
 
 garantidor (avaliador e/ou fiador) e/ou coobrigado; e
 
-Descrição dos eventos previstos para exequibilidade da garantia fidejussória ou cessão de
+Descrição dos eventos previstos para exequibilidade da garantia fidejussória ou cessão
 
-crédito com Coobrigação.
+de crédito com Coobrigação.
 
 Seção II – Disposições específicas aplicáveis às Ofertas Públicas de CR,
 
 CRI, CRA e Títulos de Securitização emitidos por Securitizadora
+
+89
 
 ## Art. 6º
 
@@ -3846,7 +4462,7 @@ vinculadas a incorporações objeto de financiamento, desde que integrantes de p
 
 de afetação, constituído em conformidade com o disposto na regulação aplicável; e
 
-c. Se é constituído por crédito imobiliário devido pelo emissor, independentemente de
+c. Se é constituído por crédito imobiliário devido pela emissora, independentemente de
 
 qualquer evento futuro.
 
@@ -3860,15 +4476,7 @@ b. Cronograma tentativo incluindo a data limite para destinação total dos recu
 
 da emissão.
 
-Para os CRI de reembolso, indicar o montante efetivo das despesas incorridas no setor
-
-imobiliário, no máximo, nos 24 (vinte e quatro) meses que antecedem o encerramento da
-
-Distribuição; e
-
-77
-
-V. Para os CRI por origem, indicar a descrição do contrato do qual originam-se os créditos
+Para os CRI por origem, indicar a descrição do contrato do qual originam-se os créditos
 
 imobiliários (quando aplicável).
 
@@ -3880,15 +4488,17 @@ informações previstas na Seção I deste Anexo e, no mínimo, as informações
 
 composição do lastro:
 
-I. Indicar se a carteira é composta exclusivamente ou não por crédito(s) performado(s);
+I. II. III. Indicar se a carteira é composta exclusivamente ou não por crédito(s) performado(s);
 
-II. Demonstrar em qual fase da cadeia do agronegócio o lastro está inserido, tais como, fase de
+Demonstrar em qual fase da cadeia do agronegócio o lastro está inserido, tais como, fase de
 
 produção, comercialização, beneficiamento e/ou industrialização dos Direitos Creditórios;
 
-III. Informar, quando se tratar de Direitos Creditórios constituídos por títulos de dívida emitidos
+Informar, quando se tratar de Direitos Creditórios constituídos por títulos de dívida emitidos
 
 por terceiros, a destinação final dos recursos, devendo essa destinação ser:
+
+90
 
 a. Comprovada por meio de contrato ou outro documento vigente entre o terceiro e o
 
@@ -3922,8 +4532,6 @@ c. Outro critério adotado pelo Coordenador que comprove a participação do pro
 
 na estrutura da Oferta Pública.
 
-78
-
 ## Art. 8º
 
 O Prospecto das Ofertas Públicas de debêntures e outros Títulos de Securitização emitidos
@@ -3948,6 +4556,8 @@ Creditórios, indicando se há, em relação a qualquer um desses, responsabilid
 
 total ou parcial.
 
+91
+
 Seção III – Ofertas Públicas destinadas a investidores profissionais
 
 ## Art. 9º
@@ -3970,15 +4580,13 @@ Compartilhado com os potenciais investidores para subsidiar a sua tomada de deci
 
 investimento; e
 
-Enviado à ANBIMA no âmbito do pedido de registro das Ofertas Públicas, nos termos da Parte
+Enviado à Anbima no âmbito do pedido de registro das Ofertas Públicas, nos termos da Parte
 
 Geral destas Regras e Procedimentos.
 
-79
+## Art. 10
 
-## Art. 10º
-
-. Com exceção das hipóteses exigidas pela regulação aplicável, não será necessária a
+Com exceção das hipóteses exigidas pela regulação aplicável, não será necessária a
 
 obtenção de declaração de investidor profissional por parte dos investidores, exceto se assim
 
@@ -3996,9 +4604,13 @@ elencados a seguir:
 
 I. Termo de securitização;
 
-II. III. IV. Carta conforto sobre os índices financeiros dos devedores com mais de 20% (vinte por cento)
+92
 
-de concentração da Oferta Pública, se aplicável;
+II. III. IV. Carta conforto e/ou manifestação escrita dos auditores independentes, conforme aplicável,
+
+sobre os índices financeiros dos devedores com mais de 20% (vinte por cento) de
+
+concentração da Oferta Pública, se aplicável;
 
 Informação sobre a contratação ou não de parecer legal acerca da exequibilidade e
 
@@ -4010,7 +4622,7 @@ Escritura de emissão de debêntures, no caso de debêntures indicadas no artigo
 
 inciso I deste Anexo Complementar.
 
-CAPÍTULO IV – PRÁTICAS A SEREM OBSERVADAS NA ESTRUTURAÇÃO DE
+CAPÍTULO IV – PRÁTICAS OBRIGATÓRIAS PARA ESTRUTURAÇÃO DE
 
 OFERTAS DE SECURITIZAÇÃO
 
@@ -4023,8 +4635,6 @@ As Securitizadoras, observada a regulação vigente sobre o tema, devem divulgar
 informações relativas a fatos relevantes que afetem ou possam afetar a Oferta de Securitização e
 
 as demonstrações financeiras anuais de cada patrimônio separado.
-
-80
 
 §1º. As informações devem ser divulgadas nos sites das próprias Securitizadoras e no site do
 
@@ -4040,9 +4650,19 @@ Securitização, de modo a evitar a utilização referências cruzadas a documen
 
 investidores possam não ter pleno acesso.
 
-Seção II – Ativos digitais
+93
 
 ## Art. 13
+
+As Securitizadoras, devem prever no documento de emissão a política de investimento dos
+
+recursos mantidos para as necessidades de liquidez do patrimônio separado, observado o disposto
+
+no artigo 10º do Capítulo IV do Anexo Complementar II desta Regras e Procedimentos.
+
+Seção II – Ativos digitais
+
+## Art. 14
 
 Caso o Valor Mobiliário de securitização seja considerado Ativo digital nos termos da
 
@@ -4068,7 +4688,7 @@ i. Riscos relacionados à custódia dos tokens;
 
 ii. Riscos relacionados ao sistema operacional utilizado para suportar o token;
 
-iii. Ricos relacionados à operacionalização da tecnologia de registro distribuído
+iii. Riscos relacionados à operacionalização da tecnologia de registro distribuído
 
 utilizada pelo token;
 
@@ -4078,19 +4698,17 @@ v. Riscos de governança dos participantes de mercado (exchanges, tokenizadoras)
 
 envolvidos na estrutura.
 
-81
-
 IV. Devem ser elaborados materiais de apoio ao investidor sobre funções e riscos ligados à
 
 tecnologia.
 
 CAPÍTULO V – DISPOSIÇÕES FINAIS
 
-## Art. 14
+## Art. 15
 
-Este anexo entra em vigor em 24 de março de 2025.
+Este anexo entra em vigor em 04 de janeiro de 2027.
 
-82
+94
 
 ANEXO COMPLEMENTAR VII – REGRAS E PROCEDIMENTOS PARA
 
@@ -4114,21 +4732,21 @@ III. FIP;
 
 IV. FIAGRO; e
 
-V. FIF nos termos especificados no artigo 9º deste anexo.
+V. FIF nos termos especificados no artigo 10º deste anexo.
 
-§2º. Qualquer outra Oferta Pública de cotas de Classe de Fundos Fechados não especificada no
+§2º. Qualquer outra Oferta Pública de cotas de Classe de Fundos Fechados não especificada
 
-parágrafo acima estará sujeita somente ao disposto no Código de Ofertas Públicas e na Parte Geral
+no parágrafo acima estará sujeita somente ao disposto no Código de Ofertas Públicas e na Parte
 
-destas Regras e Procedimentos, no que couber.
+Geral destas Regras e Procedimentos, no que couber.
 
-§3º. Em caso de eventual divergência entre as disposições deste anexo e as disposições do Código
+§3º. Em caso de eventual divergência entre as disposições deste anexo e as disposições do
 
-de Ofertas Públicas ou da Parte Geral destas Regras e Procedimentos, prevalecem as disposições
+Código de Ofertas Públicas ou da Parte Geral destas Regras e Procedimentos, prevalecem as
 
-deste Anexo Complementar.
+disposições deste Anexo Complementar.
 
-83
+95
 
 CAPÍTULO II – DOCUMENTAÇÃO DA OFERTA PÚBLICA
 
@@ -4184,7 +4802,7 @@ eventuais quóruns qualificados para deliberação (que poderão resultar na nã
 
 deliberação de determinadas matérias);
 
-84
+96
 
 l. Risco relativo à possibilidade de liquidação antecipada da Classe do Fundo;
 
@@ -4196,7 +4814,7 @@ da não colocação integral das respectivas cotas ofertadas;
 
 n. Riscos relativos à dispensa de análise prévia do Prospecto e dos demais documentos
 
-da Oferta Pública pela CVM e pela ANBIMA no âmbito do acordo de cooperação
+da Oferta Pública pela CVM e pela Anbima no âmbito do acordo de cooperação
 
 técnica para registro de Ofertas Públicas, no caso das Ofertas Públicas de cotas de
 
@@ -4244,7 +4862,7 @@ taxa que venha a ser cobrada pela respectiva Classe ou Subclasse de cotas do Fun
 
 especificando a forma de apropriação e pagamento;
 
-85
+97
 
 X. XI. XII. XIII. XIV. Breve histórico do Administrador Fiduciário e do Gestor de Recursos;
 
@@ -4278,7 +4896,7 @@ As Ofertas Públicas de Classes de novas cotas Fundos Fechados destinadas ao pú
 
 qualificado, e sem a divulgação de Prospecto, devem conter o Sumário de Fundos Fechados
 
-conforme modelo disponibilizado pela ANBIMA no Apêndice nº 4 destas Regras e Procedimentos.
+conforme modelo disponibilizado pela Anbima no Apêndice nº 4 destas Regras e Procedimentos.
 
 Seção II – Ofertas Públicas de FIDC destinadas a investidores
 
@@ -4292,15 +4910,15 @@ Complementar, o Prospecto das Ofertas Públicas de cotas de Classes de FIDC dest
 
 investidores qualificados e/ou ao público em geral deve conter, no mínimo:
 
-I. II. Classificação ANBIMA, conforme disposto no Anexo Complementar V, que trata das
+I. II. Classificação Anbima, conforme disposto no Anexo Complementar V, que trata das
 
 Regras e Procedimentos para FIDC, do Código de AGRT;
 
 Principais características da Oferta Pública, incluindo, mas não se limitando a:
 
-86
-
 a. Breve descrição da Oferta Pública;
+
+98
 
 b. Identificação dos Prestadores de Serviços Essenciais e do Custodiante dos Direitos
 
@@ -4358,7 +4976,7 @@ xvii. Outros direitos, vantagens e restrições; e
 
 xviii. Índice de subordinação mínima.
 
-87
+99
 
 III. IV. Destinação de recursos provenientes da Oferta Pública de forma clara e objetiva,
 
@@ -4418,7 +5036,7 @@ regulação, ser invalidada ou tornar-se ineficaz por determinação judicial, i
 
 caso a cessão: (i) seja considerada simulada; (ii) seja realizada em fraude contra
 
-88
+100
 
 V. credores; (iii) não seja registrada em cartório de títulos e documentos; e/ou (iv) não
 
@@ -4450,7 +5068,7 @@ relação de poderes para alteração dos termos e condições da operação; e
 
 i. Risco de ausência de histórico da carteira: descrever, quando a emissão for composta
 
-por Direitos Creditórios pulverizados e não houver histórico da carteira;
+por Direitos Creditórios pulverizados e não houver histórico da carteira.
 
 Informações sobre a estrutura da operação, indicando:
 
@@ -4476,7 +5094,7 @@ para seleção dos Ativos que venham a compor o patrimônio da respectiva Classe
 
 FIDC;
 
-89
+101
 
 VI. e. Os eventos que ensejam eventual alteração de cronograma ou prioridade de
 
@@ -4534,7 +5152,7 @@ créditos de mesma natureza dos Direitos Creditórios em comparação ao patrim�
 
 da Classe do FIDC, compreendendo um período de 3 (três) anos imediatamente
 
-90
+102
 
 anteriores à data da Oferta Pública, acompanhadas de exposição da metodologia
 
@@ -4568,7 +5186,7 @@ as funções e responsabilidades do Custodiante e demais prestadores de serviço
 
 o. Informação sobre taxas de desconto praticadas pelo Gestor de Recursos do FIDC na
 
-aquisição de Direitos Creditórios da respectiva Classe;
+aquisição de Direitos Creditórios da respectiva Classe.
 
 VII. Informações sobre originadores, incluindo:
 
@@ -4594,7 +5212,7 @@ compra e venda de produtos, mercadorias ou serviços para entrega ou prestação
 
 futura, bem como em títulos ou certificados representativos desses contratos, devem
 
-91
+103
 
 VIII. IX. ser apresentadas suas demonstrações financeiras elaboradas em conformidade com
 
@@ -4654,9 +5272,9 @@ X. Política de distribuição de resultados e amortização, se aplicável: inf
 
 obrigatoriamente, prazos e condições de pagamento, sendo que, no caso das Ofertas
 
-92
+104
 
-XI. XII. XIII. XIV. Públicas de cotas de Classes de FIDC destinadas as público em geral, o Prospecto deve,
+XI. XII. XIII. XIV. Públicas de cotas de Classes de FIDC destinadas ao público em geral, o Prospecto deve,
 
 obrigatoriamente, conter cronograma para amortização de cotas ou distribuição de
 
@@ -4712,7 +5330,7 @@ Distribuição, Custódia, cobrança, Gestão de Recursos e Administração Fidu
 
 respectiva Classe do FIDC;
 
-93
+105
 
 XV. XVI. Quando aplicável, critérios e metodologias de verificação dos critérios de elegibilidade e
 
@@ -4766,7 +5384,7 @@ subordinadas, nos termos da regulação aplicável;
 
 Informação indicando que a política de investimento não admita a aplicação em:
 
-94
+106
 
 III. a. Direitos Creditórios que sejam originados por contratos mercantis de compra e venda
 
@@ -4822,7 +5440,7 @@ Administrador Fiduciário ou o Gestor de Recursos, conforme aplicável, para ali
 
 e aquisição dos Ativos no âmbito da política de investimento da respectiva Classe do
 
-95
+107
 
 FII, indicando a natureza das operações a que este fica autorizado a realizar
 
@@ -4882,7 +5500,7 @@ caso não haja, informar ao potencial investidor que a Classe e/ou as respectiva
 
 Subclasses do FII, conforme aplicável, não buscam um objetivo de retorno determinado;
 
-96
+108
 
 IX. X. Receita mínima garantida: indicar, caso a Classe e/ou as respectivas Subclasses do FII,
 
@@ -4940,7 +5558,7 @@ j. Risco de não contratação de seguro: descrever o risco da não contrataçã
 
 pelos locatários dos imóveis passíveis de aquisição pela Classe do FII;
 
-97
+109
 
 k. Risco de desapropriação total ou parcial: descrever o risco de desapropriação total
 
@@ -4996,7 +5614,7 @@ Política de investimento, descrevendo os tipos de Ativos os quais a Classe do F
 
 investir e, quando for o caso, os limites de diversificação ou concentração de Ativos e
 
-98
+110
 
 eventuais restrições de investimento, tais como aquelas relacionadas a setores da
 
@@ -5056,7 +5674,7 @@ VIII. Indicação do tratamento a ser dado no caso de mora na integralização d
 
 do FIP nas condições e nos prazos estabelecidos no Regulamento e/ou demais
 
-99
+111
 
 documentos da Classe do FIP, bem como do tratamento a ser dado na hipótese de ser
 
@@ -5110,7 +5728,7 @@ Parágrafo único. Observadas as disposições legais e a regulação aplicável
 
 investimento, caso celebrado, deverá conter, no mínimo:
 
-100
+112
 
 I. II. III. IV. V. VI. VII. Descrição da forma de subscrição, compromisso de integralização das cotas e o
 
@@ -5164,7 +5782,7 @@ I. No artigo 4º e 5º deste Anexo Complementar, no caso dos FIAGRO regidos
 
 supletivamente pelas regras aplicáveis aos FIDC;
 
-101
+113
 
 II. III. IV. No artigo 6º deste Anexo Complementar, no caso dos FIAGRO regidos supletivamente
 
@@ -5184,7 +5802,7 @@ Seção VI – Ofertas Públicas de FIF destinadas a investidores qualificados
 
 e/ou ao público em geral
 
-## Art. 10º
+## Art. 10
 
 Sem prejuízo da regulação vigente e em adição ao disposto no artigo 2º deste anexo, o
 
@@ -5218,7 +5836,7 @@ d. No caso das Classes de FIF-Infra, as condições que devem ser observadas par
 
 manutenção dos benefícios tributários da Classe e dos cotistas, e os riscos relativos à
 
-102
+114
 
 eventual perda de benefício tributário bem como aqueles inerentes à concentração
 
@@ -5232,7 +5850,7 @@ As Ofertas Públicas de Classes de novas cotas de Fundos Fechados de que trata e
 
 que forem destinadas exclusivamente a investidores profissionais e que não apresentem Prospecto,
 
-devem conter o Sumário de Fundos Fechados conforme modelo disponibilizado pela ANBIMA em
+devem conter o Sumário de Fundos Fechados conforme modelo disponibilizado pela Anbima em
 
 seu site na internet.
 
@@ -5260,9 +5878,9 @@ Pública em questão.
 
 ## Art. 14
 
-Este anexo entra em vigor em 24 de março de 2025.
+Este anexo entra em vigor em 04 de janeiro de 2027.
 
-103
+115
 
 ANEXO COMPLEMENTAR VIII – REGRAS E PROCEDIMENTOS PARA
 
@@ -5308,7 +5926,7 @@ O Sumário de Securitização previsto neste Código de Ofertas Públicas dever�
 
 modelo previsto no Apêndice nº 3 destas Regras e Procedimentos.
 
-104
+116
 
 Seção IV – Sumário de Fundos Fechados
 
@@ -5326,105 +5944,21 @@ O questionário de diligência para contratação do servicer previsto neste Có
 
 Públicas deverá seguir o modelo previsto no Apêndice nº 5 destas Regras e Procedimentos.
 
-CAPÍTULO III – PROCEDIMENTOS AUXILIARES PARA ENVIO DE
-
-INFORMAÇÕES PARA A BASE DE DADOS
-
-Seção I – Envio para base de dados de CRI
+CAPÍTULO III – DISPOSIÇÕES GERAIS E FINAIS
 
 ## Art. 7º
 
-Este anexo tem por objetivo estabelecer regras, critérios e procedimentos para o envio de
+Este anexo entra em vigor em 04 de janeiro de 2027.
 
-informações de CRI para a base de dados da ANBIMA.
-
-## Art. 8º
-
-Sujeitam-se a este anexo as Instituições Participantes do Código.
-
-## Art. 9º
-
-Sem prejuízo do disposto no Código, as Instituições Participantes devem observar os
-
-seguintes princípios:
-
-I. II. III. Exatidão: as informações devem ser enviadas corretamente;
-
-Pontualidade: as informações devem ser enviadas dentro dos prazos estabelecidos pela
-
-ANBIMA;
-
-Regularidade: as informações devem ser enviadas na periodicidade devida; e
-
-105
-
-IV. Integridade: todas as informações requeridas devem ser enviadas, não havendo lacunas
-
-na base de dados.
-
-## Art. 10º
-
-Os Coordenadores líderes deverão, quando do registro das Ofertas Públicas de CRI na
-
-ANBIMA, preencher informações cadastrais disponibilizada pela ANBIMA em seu site na internet.
-
-§1º. As informações de que trata o caput deverão ser enviadas em até 07 (sete) dias corridos
-
-contados da data do encerramento da Oferta Pública.
-
-§2º. Além das informações de que trata o caput, as Instituições Participantes deverão enviar
-
-em até 7 (sete) dias corridos contados da data do encerramento da Oferta Pública:
-
-I. II. III. IV. V. VI. Cópia simples do termo de securitização;
-
-Cópia simples do Formulário com as informações sobre o registro da Oferta Pública de
-
-CRI, conforme modelo exigido pelo normativo da CVM que regula as Ofertas Públicas de
-
-CRI;
-
-Cópia simples do Formulário com as informações sobre o encerramento da Oferta
-
-Pública de CRI, conforme modelo exigido pelo normativo da CVM que regula as Ofertas
-
-Restritas;
-
-Cópia simples do contrato de Distribuição de Valores Mobiliários ou contrato de
-
-intermediação, acompanhado, se for o caso, dos termos de adesão e/ou instrumento(s)
-
-de subcontratação de colocação de Valores Mobiliários;
-
-Cópia simples do contrato de cessão; e
-
-Comprovante do pagamento da taxa de registro da base de dados.
-
-§3º. A Supervisão de Mercados, a Comissão de Acompanhamento e o Conselho de Recursos
-
-de Terceiros podem solicitar às Instituições Participantes informações adicionais para o registro, as
-
-quais devem ser disponibilizadas dentro do prazo de 15 (quinze) dias corridos contados da data de
-
-solicitação, prorrogável uma única vez por igual período.
-
-106
-
-CAPÍTULO IV – DISPOSIÇÕES GERAIS E FINAIS
-
-## Art. 11
-
-Este anexo entra em vigor em 24 de março de 2025.
-
-107
+117
 
 APÊNDICES
 
-108
+118
 
-APÊNDICE Nº 1 – SUMÁRIO DE DÍVIDA
+APÊNDICE Nº 1 – SUMÁRIO DE DÍVIDA RENDA FIXA
 
-MODELO DE SUMÁRIO DE OFERTA DE DÍVIDA PARA INVESTIDORES PROFISSIONAIS
+MODELO DE SUMÁRIO DE OFERTA DE RENDA FIXA PARA INVESTIDORES PROFISSIONAIS
 
 Conteúdo do sumário de Oferta de títulos de dívida para investidores profissionais.
 
@@ -5432,7 +5966,7 @@ Informações Essenciais – Oferta Pública [Primária] [Secundária] de [Títu
 
 Este sumário contém informações essenciais da Oferta Pública. A decisão de investimento deve levar em consideração
 
-as informações constantes do instrumento de emissão da dívida.
+as informações constantes do documento de emissão da dívida.
 
 ALERTAS
 
@@ -5458,15 +5992,13 @@ outro (descrever) cláusula #.#
 
 do
 
-instrument
+documento
 
-o de
+de emissão
 
-emissão de
+de dívida
 
-dívida
-
-a.1) Emissor Nome, CNPJ e página eletrônica (se
+a.1) Emissora Nome, CNPJ e página eletrônica (se
 
 houver)
 
@@ -5508,7 +6040,13 @@ b.1.8) Lote adicional Sim/Não, caso “Sim”, informar percentual Cláusula #.
 
 Sim/Não Cláusula #.#
 
-109
+b.1.10) Previsão de desmembramento, do seu valor Sim/Não Cláusula #.#
+
+119
+
+nominal, dos juros e dos demais direitos conferidos
+
+aos investidores?
 
 b.2) Série 2
 
@@ -5560,11 +6098,11 @@ Pública?
 
 [Máx. 200 palavras] Cláusula #.#
 
-3. Detalhes relevantes sobre o emissor dos títulos de dívida Mais
+3. Detalhes relevantes sobre a emissora dos títulos de dívida Mais
 
 informações
 
-Sumário dos principais riscos do emissor Probabilidade Impacto
+Sumário dos principais riscos da emissora Probabilidade Impacto
 
 financeiro
 
@@ -5614,11 +6152,9 @@ informações
 
 Características do título
 
-Principais características – Série [ ] [Máx. 50 palavras] Cláusula #.#
+120
 
-110
-
-Possibilidade de resgate antecipado compulsório [Máx. 50 palavras] Vencimento/Prazo [data]/[anos ou dias] Remuneração Descrever a remuneração (DI + Spread/XX%
+Principais características – Série [ ] [Máx. 50 palavras] Possibilidade de resgate antecipado compulsório [Máx. 50 palavras] Vencimento/Prazo [data]/[anos ou dias] Remuneração Descrever a remuneração (DI + Spread/XX%
 
 DI/IPCA+Spread/Taxa fixa) em %a.a.
 
@@ -5640,9 +6176,9 @@ Garantias (se houver)
 
 Garantia 1 [Máx. 100 palavras] Garantia 2 [Máx. 100 palavras] Classificação de risco (se houver)
 
-Agência de Classificação de Risco Classificação de Risco Condições de conversibilidade (em caso de debêntures conservíveis em ações)
+Agência de Classificação de Risco Classificação de Risco Condições de conversibilidade (em caso de debêntures conversíveis em ações)
 
-Condições de consevibilidade das debêntures [Máx. 200 palavras]
+Condições de converesibilidade das debêntures [Máx. 200 palavras]
 
 5. Informações sobre o investimento e calendário da Oferta Pública Participação na Oferta Pública
 
@@ -5654,11 +6190,13 @@ Pública ou sobre a rentabilidade ou remuneração
 
 esperada?
 
-[Máx. 25 palavras] Indicação de local para obtenção do instrumento de
+[Máx. 25 palavras] Indicação de local para obtenção do documento de
 
 emissão
 
 endereço eletrônico do Agente Fiduciário
+
+Cláusula #.#
 
 Cláusula #.#
 
@@ -5700,13 +6238,11 @@ Cláusula #.#
 
 Cláusula #.#
 
-111
+121
 
-Quem são os Coordenadores da Oferta Pública?
+Quem são os Coordenadores da Oferta Pública? Informar apenas o nome conforme definido no
 
-Informar apenas o nome conforme definido no
-
-instrumento de emissão. Cláusula #.#
+documento de emissão. Cláusula #.#
 
 Outras Instituições Participantes da Distribuição [Máx. 25 palavras] Cláusula #.#
 
@@ -5728,7 +6264,7 @@ Quando receberei a confirmação da compra?* [data]
 
 Quando poderei negociar?* [data]
 
-112
+122
 
 APÊNDICE Nº 2 – MEMORANDO DE AÇÕES
 
@@ -5742,7 +6278,7 @@ ações destinadas exclusivamente a investidores profissionais, nos termos da Re
 
 13 de julho de 2022, conforme alterada, devendo ser observado, adicionalmente, o Código de Ofertas
 
-Públicas da ANBIMA.
+Públicas da Anbima.
 
 I. Informações do memorando para emissão de ações em Ofertas Públicas destinadas exclusivamente
 
@@ -5776,7 +6312,7 @@ a investidores profissionais
 
 1.13 Procedimento de rateio;
 
-113
+123
 
 1.14 Local de Negociação, se houver;
 
@@ -5796,11 +6332,11 @@ junto aos acionistas controladores e sociedades controladas da emissora e/ou ofe
 
 Coordenador líder e demais Coordenadores da Oferta Pública, incluindo sociedades de seu
 
-Conglomerado ou Grupo Econômico, tais como empréstimos, investimentos, valor, prazo, taxa,
+Conglomerado ou Grupo Econômico, inclusive com instituições financeiras que tenham relações
 
-garantia e outras relações eventualmente existentes, inclusive com instituições financeiras que tenham
+societárias com os Coordenadores, observado o disposto no Art. 11, inciso I e § 2º destas Regras e
 
-relações societárias com os Coordenadores;
+Procedimentos;
 
 4. Conflitos de interesses: Informações sobre a existência ou não de eventuais conflitos de interesses
 
@@ -5816,7 +6352,7 @@ investimento, entendendo-se por “mitigação”, para efeito deste documento, 
 
 amenizar, tornar brando ou justificativa para amenizar o risco, sempre que houver.
 
-6. Informar à ANBIMA se possui parecer legal dos advogados contratados para assessorar a Instituição
+6. Informar à Anbima se possui parecer legal dos advogados contratados para assessorar a Instituição
 
 Participante da Oferta Pública sobre a consistência das informações fornecidas no memorando de
 
@@ -5832,7 +6368,7 @@ II. Informações da companhia emissora – Indicação do site para localizaç�
 
 Referência vigente.
 
-114
+124
 
 APÊNDICE Nº 3 – SUMÁRIO DE SECURITIZAÇÃO
 
@@ -5846,27 +6382,25 @@ de securitização emitidos por companhia Securitizadora para investidores profi
 
 Informações Essenciais – Oferta Pública [Primária] [Secundária] de [Certificado de Recebíveis]
 
-Este sumário contém informações essenciais da Oferta Pública. A decisão de investimento deve levar em
+Este sumário contém informações essenciais da Oferta Pública. A decisão de investimento deve levar em consideração as
 
-consideração as informações constantes do Termo de Securitização, principalmente na cláusula relativa a fatores de
+informações constantes do Termo de Securitização, principalmente na cláusula relativa a fatores de risco.
 
-risco.
+Aviso para Ofertas Públicas distribuídas por rito de registro automático A CVM não realizou análise prévia
 
-Aviso para Ofertas Públicas
+do conteúdo dos documentos da
 
-distribuídas por rito de
-
-registro automático
-
-A CVM não realizou análise prévia do conteúdo dos
-
-documentos da Oferta Pública.
+Oferta Pública.
 
 1. Elementos Essenciais da Oferta Pública Mais
 
 informações
 
-A. Valor Mobiliário [ ] CRA/ [ ] CRI / [ ] CR / [ ]Debênture Cláusula do
+A. Valor Mobiliário [ ] CRA/ [ ] CRI / [ ] CR / [
+
+]Debênture
+
+Cláusula do
 
 Termo de
 
@@ -5874,165 +6408,561 @@ Securitização
 
 a.1) Emissão e série Cláusula #.#
 
-a.2) Ofertante/Emissor Cia Securitizadora Cláusula #.#
+a.2) Ofertante/Emissora Cia Securitizadora Cláusula #.#
 
 B. Oferta Pública
 
-b.1) Código de Negociação proposto [ ] Código do Ativo / [ ] N/A / [ ] a ser divulgado Cláusula #.#
+b.1) Código de Negociação proposto [ ] Código do Ativo / [ ] N/A /
 
-b.2) Mercado de Negociação [ ] Nome fantasia / [ ] Não será negociado em
+[ ] a ser divulgado
 
-mercado organizado Cláusula #.#
+Cláusula #.#
 
-b.3) Quantidade Ofertada – lote base Número inteiro, sem casas decimais Cláusula #.#
+b.2) Mercado de Negociação [ ] Nome fantasia /
 
-b.4) Preço (intervalo) Em R$ (até duas casas decimais) Cláusula #.#
+[ ]Não será negociado
+
+em mercado organizado
+
+Cláusula #.#
+
+b.3) Quantidade Ofertada – lote base Número inteiro, sem casas
+
+decimais
+
+Cláusula #.#
+
+b.4) Preço (intervalo) Em R$ (até duas casas
+
+decimais)
+
+Cláusula #.#
 
 b.5) Taxa de remuneração (intervalo)
 
-Campo para inserção de remuneração/indexação, podendo
+Campo para inserção de
 
-incluir textos (“IPCA” ou “CDI”, por exemplo) e percentuais
+remuneração/indexação,
+
+podendo incluir textos (“IPCA”
+
+ou “CDI”, por exemplo) e
+
+percentuais
 
 (até seis casas decimais)
 
 Cláusula #.#
 
-b.6) Montante Ofertado da Série 1
+b.6) Montante Ofertado da Série 1 (=b.1.3*b.1.4) (intervalo) Em R$ milhões (até
 
-(=b.1.3*b.1.4) (intervalo) Em R$ milhões (até duas casas decimais) Cláusula #.#
+duas casas decimais)
 
-b.7) Lote suplementar Sim/Não, caso “Sim”, informar percentual Cláusula #.#
+Cláusula #.#
 
-b.8) Lote adicional Sim/Não, caso “Sim”, informar percentual Cláusula #.#
+b.7) Lote suplementar Sim/Não, caso “Sim”,
 
-b.9) Título classificado como “verde”,
+informar percentual
 
-“social”, “sustentável” ou correlato? Sim/Não, caso “Sim”, informar qual Cláusula #.#
+Cláusula #.#
+
+b.8) Lote adicional Sim/Não, caso “Sim”, Cláusula #.#
+
+125
+
+informar percentual
+
+b.9) Título classificado como “verde”, “social”, “sustentável” ou
+
+correlato? Cláusula #.#
+
+Sim/Não, caso “Sim”, informar
+
+qual
 
 C. Outras informações
 
 c.3 Agente Fiduciário Cláusula #.#
 
-115
+2. Classificação Anbima Mais
 
-2. Classificação ANBIMA Classificação ANBIMA de CRI
+informações
 
-a.1) Categoria [ ] Residencial / [ ] Corporativo / [ ] Híbrido b.1) Concentração [ ] Pulverizado / [ ] Concentrado c.1) Tipo de Segmento
+Classificação Anbima de CRI
 
-[ ] Apartamentos ou casa / Loteamento: subjacentes lotes / [ ]
+a.1) Estrutura do CRI Cláusula
 
-Industrial: plantas industriais / [ ] Logístico: imóveis voltados à
+#.#
 
-logística (CDs, armazenamento e logística) / [ ] Imóvel Comercial
+a.1.a) Concentração [ ] Pulverizado com risco
 
-e/ou lajes corporativas / [ ] shopping e/ou lojas / [ ] Hotel / [ ]
+compartilhado
 
-Outros
+[ ] Pulverizado - sem risco
 
-d.1) Tipo de contrato com lastro
+compartilhado
 
-[ ] Compra e venda / [ ] Locação/arrendamento/superfície / [ ]
+[ ] Concentrado
 
-CCB ou Valores Mobiliários representativos de dívida / [ ]
+a.1.b) Revolvência
 
-Híbrido / [ ] Financiamento Imobiliário / [ ] Outros
+[ ] Com revolvência, onde o CRI
 
-e.1) Revolvência [ ] Sim / [ ] Não f.1) Existência de crédito não performado [ ]Não/ [ ] Sim g.1) Informações estatísticas sobre
+permitirá que os recursos gerados
 
-inadimplementos
+pelos direitos creditórios
 
-Principais informações estatísticas sobre inadimplementos,
+imobiliários recebidos sejam
 
-perdas ou pré-pagamento de créditos de mesma natureza
+reinvestidos em novos ativos
 
-dos Direitos Creditórios que comporão o patrimônio do
+[ ] Sem revolvência, onde o CRI não
 
-ofertante, compreendendo um período de 3 (três) anos
+permitirá que os recursos gerados
 
-imediatamente anteriores à data da Oferta Pública
+pelos direitos creditórios
 
-Classificação ANBIMA de CRA
+imobiliários recebidos sejam
 
-a.2) Concentração [ ] Pulverizado / [ ] Concentrado b.2) Revolvência [ ] Sim / [ ] Não c.2) Atividade do devedor
+reinvestidos em novos ativos
 
-[ ] Cooperativas / [ ] Produtor Rural / [ ] Terceiro Fornecedor / [ ]
+a.1.c) Direito Creditório:
 
-Terceiro Comprador
+[ ] Titulo de dívida
 
-d.2) Segmento [ ] Grãos / [ ] Usina / [ ] Logística / [ ] Híbridos / [ ] Outros e.2) Existência de crédito não performado [ ]Não/ [ ] Sim f.1) Informações estatísticas sobre
+[ ] Direito Creditório imobiliário
 
-inadimplementos
+a.1.d) Descrição do direito creditório
 
-Principais informações estatísticas sobre inadimplementos,
+[ ] Título de Dívida emitido por
 
-perdas ou pré-pagamento de créditos de mesma natureza
+Terceiros com destinação
 
-dos Direitos Creditórios que comporão o patrimônio do
+imobiliária
 
-ofertante, compreendendo um período de 3 (três) anos
+[ ] Título de Dívida emitido por
 
-imediatamente anteriores à data da Oferta Pública
+Incorporadoras, construtoras ou
+
+suas SPEs.
+
+[ ] Direitos Creditórios Imobiliários
+
+- Compra e venda.
+
+126
+
+a.1.e) Segmento do lastro
+
+a.1.f) Originador do direito creditório imobiliário: classificar com base na
+
+Classificação Nacional de Atividades (CNAE)
+
+[ ] Direitos creditórios imobiliários -
+
+Locação/arrendamento/superfície.
+
+[ ] Direitos creditórios imobiliários -
+
+Financiamento imobiliário.
+
+[ ] Direitos creditórios imobiliários -
+
+Híbridos
+
+[ ] Outros.
+
+[ ] Apartamentos ou casas
+
+[ ] Loteamento
+
+[ ] Industrial
+
+[ ] Logístico
+
+[ ] Imóvel comercial / lajes
+
+corporativas
+
+[ ] shopping / lojas
+
+[ ] infraestrutura
+
+[ ] hotel
+
+[ ] multi propriedade
+
+[ ] outros
+
+[ ] Agricultura, pecuária, produção
+
+florestal, pesca e aquicultura / [ ]
+
+Indústrias extrativas / [ ] Indústrias
+
+de transformação / [ ] Eletricidade
+
+e gás / [ ] Água, esgoto, atividades
+
+de gestão de resíduos e
+
+descontaminação / [ ] Construção /
+
+[ ] Comércio; reparação de veículos
+
+automotores e motocicletas / [ ]
+
+Transporte, armazenagem e
+
+correio / [ ] Alojamento e
+
+alimentação / [ ] Informação e
+
+comunicação / [ ] Atividades
+
+financeiras, de seguros e serviços
+
+relacionados / [ ] Atividades
+
+imobiliárias / [ ] Atividades
+
+profissionais, científicas e técnicas
+
+Cláusula #.#
+
+127
+
+a.1.g) Tipo de categoria:
+
+a.1.h) Destinação de recursos:
+
+a.2) Estrutura do CRA a.2.a) Concentração
+
+/ [ ] Atividades administrativas e
+
+serviços complementares / [ ]
+
+Administração pública, defesa e
+
+seguridade social / [ ] Educação / [ ]
+
+Saúde humana e serviços sociais / [
+
+] Artes, cultura, esporte e
+
+recreação / [ ] Outras atividades de
+
+serviços / [ ] Serviços domésticos /
+
+[ ] Organismos internacionais e
+
+outras instituições extraterritoriais.
+
+[ ] Residencial;
+
+[ ] Corporativo;
+
+[ ] Híbrido;
+
+[ ] outros: ______
+
+[ ] N/A
+
+[ ] Apartamentos ou casas;
+
+[ ] Loteamento;
+
+[ ] Industrial;
+
+[ ] Logístico;
+
+[ ] Imóvel comercial / lajes
+
+corporativas;
+
+[ ] Shopping / lojas;
+
+[ ] Infraestrutura;
+
+[ ] Hotel;
+
+[ ] Multi propriedade
+
+[ ] Outros: [_____]
+
+Classificação Anbima de CRA
+
+Cláusula #.#
+
+[ ] Concentrado
+
+[ ] Pulverizado - Com risco
+
+128
+
+a.2.b) Revolvência
+
+a.2.c) Direito Creditório:
+
+a.2.d) Descrição do direito creditório
+
+compartilhado
+
+[ ] Pulverizado - Sem risco
+
+compartilhado
+
+[ ] Com revolvência, onde o CRA
+
+permitirá que os recursos gerados
+
+pelos direitos creditórios do
+
+agronegócio recebidos sejam
+
+reinvestidos em novos ativos;
+
+[ ] Sem revolvência, onde o CRA
+
+não permitirá que os recursos
+
+gerados pelos direitos creditórios
+
+do agronegócio recebidos sejam
+
+reinvestidos em novos ativos.
+
+[ ] Título de Dívida
+
+[ ] Direitos Creditórios do
+
+agronegócio;
+
+[ ] Título de Dívida emitidos por
+
+Terceiros com relações comerciais
+
+com produtores rurais ou suas
+
+cooperativas
+
+[ ] Título de Dívida emitidos por
+
+Produtores rurais ou suas
+
+cooperativas
+
+[ ] Direitos creditórios do
+
+agronegócio Cedidos por Terceiros,
+
+oriundos de relações comerciais
+
+com produtores rurais ou suas
+
+cooperativas
+
+[ ] Direitos creditórios do
+
+agronegócio cedidos por
+
+Produtores rurais ou suas
+
+cooperativas
+
+[ ] Direitos Creditórios do
+
+agronegócio Oriundos de cessão de
+
+CDCA ou CPR-F emitido por
+
+129
+
+a.2.e) Segmento do lastro
+
+a.2.f) Cadeia Econômica
+
+a.2.g) Papel do produtor rural ou suas cooperativas na emissão
+
+a.2.h) Tipo de destinação de recursos a.2.i) Segmento da destinação cooperativas ou por terceiros.
+
+[ ] Agricultura;
+
+[ ] Pecuária;
+
+[ ] Silvicultura;
+
+[ ] Insumos e máquinas agrícolas
+
+[ ] Agroindústria
+
+[ ] Logística, Comercialização e
+
+Serviço
+
+[ ] AgroTech
+
+[ ] Híbridos: _______
+
+[ ] Fornecimento de insumos
+
+[ ] Produção
+
+[ ] Processamento
+
+[ ] Armazenamento e distribuição
+
+[ ] Emissora da Dívida ou
+
+Cedente dos Direitos
+
+Creditórios.
+
+[ ] Fornecedor do produto rural.
+
+[ ] Comprador de bens e
+
+serviços de terceiros.
+
+[ ] Custo;
+
+[ ] Investimento;
+
+[ ] Híbridos: _______
+
+[ ] Outros;
+
+[ ] N/A;
+
+[ ] Agricultura
+
+[ ] Pecuária
+
+[ ] Silvicultura
+
+[ ] Insumos e Máquinas
+
+Agrícolas
+
+[ ] Agroindústria
+
+[ ] Logística, Comercialização e
+
+Serviços
+
+[ ] AgroTech
+
+[ ] Híbridos:
+
+__________
+
+[ ] N/A
+
+130
+
+a.2.j) Produto da destinação [ ] cacau
+
+[ ] café
+
+[ ] cana-de-açúcar
+
+[ ]frutas;
+
+[ ] milho;
+
+[ ]soja;
+
+[ ] trigo;
+
+[ ] vegetais
+
+[ ] aves: corte ou ovos;
+
+[ ] bovinos: corte ou leite;
+
+[ ] cabras: corte ou leite;
+
+[ ] equinos;
+
+[ ] ovelhas: corte ou leite;
+
+[ ] peixes;
+
+[ ] suínos/
+
+[ ] papel e celulose;
+
+[ ] madeira;
+
+[ ] produtos florestais: óleos,
+
+resinas, etc;
+
+[ ] defensivos: inseticidas;
+
+herbicidas; fungicidas;
+
+fertilizantes orgânicos;
+
+fertilizantes: demais;
+
+[ ] melhoradores: cal, gesso.
+
+[ ] ração e suplementos;
+
+[ ]sementes, mudas e demais
+
+produtos biológicos;
+
+[ ] açúcar;
+
+[ ] beneficiamentos diversos;
+
+[ ] biocombustíveis;
+
+[ ] industrialização rudimentar;
+
+[ ] processamento de alimentos
+
+e bebidas;
+
+[ ] comércio de Commodities;
+
+[ ]Transportes;
+
+[ ] máquinas agrícolas e
+
+equipamentos;
+
+[ ] Armazenagem;
+
+[ ] Tecnologia de Sementes e
+
+Genética;
+
+[ ] Automação e Robótica;
+
+[ ] Outros [ ____]
+
+3. Propósito da Oferta Pública Qual será a destinação dos recursos da Oferta Pública? [Máx. 200 palavras] 4. Detalhes relevantes sobre a emissora dos Valores Mobiliários Mais
+
+informações
+
+Cláusula #.#
 
 Mais
 
 informações
 
-Cláusula
+131
 
-#.#
+Informações sobre o lastro
 
-Cláusula
+Sumário dos principais riscos do lastro da emissão
 
-#.#
+Probabilidade 1. (Descrição breve – Máx. 50 palavras) [ ] Maior / [ ] Média / [ ]
 
-Cláusula
-
-#.#
-
-Cláusula #.#
-
-Cláusula #.#
-
-Cláusula
-
-#.#
-
-Cláusula #.#
-
-Cláusula
-
-#.#
-
-Cláusula
-
-#.#
-
-Cláusula
-
-#.#
-
-Cláusula
-
-#.#
-
-Cláusula
-
-#.#
-
-Cláusula #.#
-
-116
-
-3. Propósito da Oferta Pública Qual será a destinação dos recursos da
-
-Oferta Pública? [Máx. 200 palavras] 4. Detalhes relevantes sobre o emissor dos Valores Mobiliários Informações sobre o lastro
-
-Sumário dos principais riscos do lastro
-
-da emissão
-
-Probabilidade 1. (Descrição breve – Máx. 50 palavras) [ ] Maior / [ ] Média / [ ] Menor
+Menor
 
 2. (Descrição breve – Máx. 50 palavras) [ ] Maior / [ ] Média / [ ] Menor
 
@@ -6046,21 +6976,37 @@ Probabilidade 1. (Descrição breve – Máx. 50 palavras) [ ] Maior / [ ] Médi
 
 Principais características [Máx. 50 palavras] Vencimento/Prazo [data]/[anos ou dias] Remuneração
 
-Descrever a remuneração (DI + Spread/XX%
+Descrever a
 
-DI/IPCA+Spread/Taxa fixa) em %a.a.
+remuneração (DI +
 
-Amortização/Juros Descrever a periodicidade Duration [ ] anos compulsório Possibilidade de resgate antecipado
+Spread/XX%
 
-[Máx. 50 palavras] Condições de recompra antecipada [Máx. 50 palavras] Condições de vencimento antecipado [Máx. 50 palavras] Mais
+DI/IPCA+Spread/Taxa
 
-informações
+fixa) em %a.a.
 
-Cláusula #.#
+Amortização/Juros Descrever a periodicidade Duration [ ] anos Possibilidade de resgate antecipado compulsório [Máx. 50 palavras] Condições de recompra antecipada [Máx. 50 palavras] Condições de vencimento antecipado [Máx. 50 palavras] Restrições à livre Negociação
 
-Mais
+[ ] Revenda restrita a
 
-informações
+investidores profissionais.
+
+[ ] Revenda a investidores
+
+qualificados após decorridos [
+
+] dias da Data de
+
+Encerramento da Oferta
+
+Pública.
+
+[ ] Revenda ao público em
+
+geral após decorridos [ ] dias
+
+da Data de Encerramento da
 
 Impacto
 
@@ -6116,19 +7062,11 @@ Cláusula #.#
 
 Cláusula #.#
 
-117
+Cláusula #.#
 
-Restrições à livre Negociação
+132
 
-[ ] Revenda restrita a investidores profissionais.
-
-[ ] Revenda a investidores qualificados após decorridos [ ]
-
-dias da Data de Encerramento da Oferta Pública.
-
-[ ] Revenda ao público em geral após decorridos [ ] dias da
-
-Data de Encerramento da Oferta Pública.
+Oferta Pública.
 
 Formador de mercado
 
@@ -6136,63 +7074,43 @@ Garantias (se houver)
 
 Garantia 1 [Máx. 100 palavras] Garantia 2 [Máx. 100 palavras] 6. Informações sobre o investimento e calendário da Oferta Pública Participação na Oferta Pública
 
-Informação sobre a existência e forma
+Informação sobre a existência e forma de exercício do direito de
 
-de exercício do direito de prioridade. [Máx. 50 palavras] Qual o valor mínimo para investimento? Em R$ (até 2 casas decimais) Como participar da Oferta Pública? [Máx. 50 palavras] Como será feito o rateio? [Máx. 25 palavras] Como poderei saber o resultado do
+prioridade. [Máx. 50 palavras]
 
-rateio? [Máx. 25 palavras] O ofertante pode desistir da Oferta
+Qual o valor mínimo para investimento? Em R$ (até 2 casas decimais) Como participar da Oferta Pública? [Máx. 50 palavras] Como será feito o rateio? [Máx. 25 palavras] Como poderei saber o resultado do rateio? [Máx. 25 palavras] O ofertante pode desistir da Oferta Pública? [Máx. 25 palavras] Quais são os tributos incidentes sobre a Oferta Pública ou sobre a
 
-Pública?
+rentabilidade ou remuneração esperada? [Máx. 25 palavras]
 
-[Máx. 25 palavras] Quais são os tributos incidentes sobre a
+Indicação de local para obtenção do Termo de Emissão endereço eletrônico
 
-Oferta Pública ou sobre a rentabilidade
+Quem são os Coordenadores da Oferta Pública? Informar apenas o nome
 
-ou remuneração esperada?
+conforme definido no
 
-[Máx. 25 palavras]
+documento de emissão.
 
-Indicação de local para obtenção do
+Outras Instituições Participantes da Distribuição [Máx. 25 palavras]
 
-Termo de Emissão endereço eletrônico
+Procedimento de colocação [ ]Melhores esforços / [ ]
 
-Quem são os Coordenadores da Oferta
+Garantia Firme / [
 
-Pública?
+]Compromisso de Subscrição / [ ]
 
-Informar apenas o nome conforme definido no
+Misto
 
-instrumento de emissão.
-
-Outras Instituições Participantes da
-
-Distribuição [Máx. 25 palavras]
-
-Procedimento de colocação [ ]Melhores esforços / [ ] Garantia Firme / [ ]Compromisso
-
-de Subscrição / [ ] Misto Calendário [facultativa]
+Calendário [facultativa]
 
 Qual o período de reservas? [data] a [data]
 
 Qual a data da fixação de preços? [data]
 
-Qual a data de divulgação do resultado
+Qual a data de divulgação do resultado do rateio? [data]
 
-do rateio? [data]
+Qual a data da liquidação da Oferta Pública? [data]
 
-Qual a data da liquidação da Oferta
-
-Pública?
-
-[data]
-
-Quando receberei a confirmação da
-
-compra? [data]
-
-Quando poderei negociar? [data]
-
-Cláusula #.#
+Quando receberei a confirmação da compra? [data]
 
 Cláusula #.#
 
@@ -6218,9 +7136,11 @@ Cláusula #.#
 
 Cláusula #.#
 
-118
+133
 
-119
+Quando poderei negociar? [data]
+
+134
 
 APÊNDICE Nº 4 – SUMÁRIO DE FUNDOS FECHADOS
 
@@ -6230,9 +7150,9 @@ PROFISSIONAIS
 
 Conteúdo do sumário de Oferta Pública de Fundos Fechados destinada exclusivamente a
 
-investidores profissionais e à Oferta Pública de Fundos Fechados destinadas ao público
+investidores profissionais e à Oferta Pública de Fundos financeiros Fechados destinadas
 
-qualificado.
+ao público qualificado.
 
 Informações Essenciais – Oferta [Primária] [Secundária] de [Nome do Fundo e da Classe de Cotas]
 
@@ -6246,7 +7166,11 @@ ALERTAS
 
 [ ] responsabilidade ilimitada [ ] ....
 
-Risco de
+Ris
+
+co
+
+de
 
 [ ] falta de liquidez [ ] ....
 
@@ -6258,9 +7182,9 @@ distribuídas por rito de registro
 
 automático
 
-A CVM não realizou análise prévia dos documentos
+A CVM não realizou análise prévia dos
 
-da Oferta Pública.
+documentos da Oferta Pública.
 
 Há restrições à revenda das cotas.
 
@@ -6272,9 +7196,7 @@ B. Informação sobre o tratamento
 
 tributário aplicável.
 
-Seção #.# do
-
-Regulamento ou
+Seção #.# do Regulamento ou
 
 documento aplicável
 
@@ -6282,61 +7204,83 @@ C. Valor Mobiliário Seção #.#
 
 c.1) Quantidade ofertada Número inteiro, sem casas decimais Seção #.#
 
-c.2) Preço unitário (valor de emissão por
+c.2) Preço unitário (valor de emissão
 
-cota ou valor de emissão por cota
+por cota ou valor de emissão por cota
 
-acrescida do custo unitário de Distribuição)
+acrescida do custo unitário de
+
+Distribuição)
 
 Até seis casas decimais Seção #.#
 
 c.3) Montante ofertado (= a.1*a.2) Número inteiro, sem casas decimais Seção #.#
 
-c.4) Lote suplementar Sim/Não, caso “Sim”, informar percentual Seção #.#
+c.4) Lote suplementar Sim/Não, caso “Sim”, informar
 
-c.5) Lote adicional Sim/Não, caso “Sim”, informar percentual Seção #.#
+percentual
 
-Qual mercado de Negociação? [ ] nome fantasia / [ ] não será negociado em
+Seção #.#
 
-Mercado Organizado Seção #.#
+c.5) Lote adicional Sim/Não, caso “Sim”, informar
+
+percentual
+
+Seção #.#
+
+Qual mercado de Negociação? [ ] nome fantasia / [ ] não será
+
+negociado em Mercado
+
+Organizado
+
+Seção #.#
 
 Código de Negociação [ ] código / [ ] N/A Seção #.#
 
 D. Outras informações
 
-Emissor Nome do Fundo e da Classe de cotas Seção #.#
+Emissora Nome do Fundo e da Classe de cotas Seção #.#
+
+135
 
 Administrador Nome, CNPJ e página eletrônica Seção #.#
 
 Gestor (caso houver) Nome, CNPJ e página eletrônica Seção #.#
 
-120
-
 2. Propósito da Oferta Pública Mais informações
 
-Qual será a destinação dos recursos da
+Qual será a destinação dos
 
-Oferta Pública? [Máx. 200 palavras] Seção #.#
+recursos da Oferta Pública? [Máx. 200 palavras] Seção #.#
 
 3. Detalhes Relevantes sobre o Fundo Mais informações
 
-Informações sobre o Gestor de Recursos
+Informações sobre o Gestor de
 
-(caso houver)
+Recursos (caso houver)
 
-Apresentação e informações gerais
+Apresentação e informações
 
-[Máx. 100 palavras] Seção #.#
+gerais [Máx. 100
+
+palavras]
+
+Seção #.#
 
 Informações sobre o Administrador
 
 Fiduciário
 
-Apresentação e informações gerais
+Apresentação e informações
 
-[Máx. 100 palavras] Seção #.#
+gerais [Máx. 100
 
-121
+palavras]
+
+Seção #.#
+
+136
 
 APÊNDICE Nº 5 – QUESTIONÁRIO DE DUE DILIGENCE PARA
 
@@ -6344,7 +7288,7 @@ CONTRATAÇÃO DO SERVICER
 
 MODELO DE QUESTIONÁRIO ANBIMA DE DUE DILIGENCE PARA CONTRATAÇÃO DE SERVICER
 
-Este questionário é um modelo ANBIMA de due diligence para contratação de agentes de cobranças em operações de
+Este questionário é um modelo Anbima de due diligence para contratação de agentes de cobranças em operações de
 
 securitização.
 
@@ -6376,7 +7320,7 @@ previstos em tal Código.
 
 1.10 E-mail para contato
 
-122
+137
 
 2.1 2.2
 
@@ -6446,11 +7390,13 @@ II. Percentual detido pelo sócio na empresa; e
 
 III. Atividade por ele(s) desempenhada.
 
-123
+138
 
 2.8 2.9
 
-3.1 3.2 4.1 4.2 4.3 4.4 4.5 4.6 4.7 Informar se o servicer é membro de associação de Classe. Em caso positivo, qual(is)?
+3.1 3.2 4.1 4.2 4.3 4.4 4.5 4.6
+
+4.7 Informar se o servicer é membro de associação de Classe. Em caso positivo, qual(is)?
 
 Informar se existem transações corporativas, desde que referidas transações possam ser divulgadas
 
@@ -6484,19 +7430,21 @@ resumidamente os procedimentos adotados e a periodicidade em que são aplicados.
 
 Informar o turnover.
 
-Descrever, resumidamente, as regras de investimentos pessoais adotada pela instituição em relação aos seus
+Descrever, resumidamente, as regras de investimentos pessoais adotadas pela instituição em relação aos
 
-profissionais (“Política de Investimentos Pessoais”). Anexar o processo completo ao final do questionário.
+seus profissionais (“Política de Investimentos Pessoais”). Anexar o processo completo ao final do
+
+questionário.
 
 Informar há quantos anos o servicer está atuando nessa atividade e sua experiência no segmento.
 
-124
+139
 
 5.1 5.2
 
 5.3 5.4 5.5 5.6 5.7 6.1
 
-6.2 6.3 5. Estrutura tecnológica
+5. Estrutura tecnológica
 
 Descrever os sistemas utilizados pelo servicer.
 
@@ -6536,13 +7484,9 @@ O servicer possui área própria de controles internos e conformidade das regras
 
 contrata terceiros para desempenhar esta(s) atividade(s)?
 
-O servicer possui Comitê de Compliance e Controles Internos? Em caso positivo, informar a periodicidade,
+140
 
-composição, linha de reporte, principais diretrizes e se as decisões são formalizadas.
-
-Anexar o Código de Ética e conduta do servicer e informar:
-
-125
+6.2 6.3
 
 6.4 6.5
 
@@ -6553,6 +7497,12 @@ Anexar o Código de Ética e conduta do servicer e informar:
 7.3
 
 7.4 7.5
+
+O servicer possui Comitê de Compliance e Controles Internos? Em caso positivo, informar a periodicidade,
+
+composição, linha de reporte, principais diretrizes e se as decisões são formalizadas.
+
+Anexar o Código de Ética e conduta do servicer e informar:
 
 I. Há adesão formal pelos profissionais?
 
@@ -6600,11 +7550,7 @@ I. Identificação e reporte de transações suspeitas sujeitas às autoridades 
 
 II. Exemplos de diferentes meios de lavagem de dinheiro envolvendo produtos e serviços da instituição;
 
-III. Regras internas de PLDFT; e
-
-IV. Registro de seus treinamentos, frequência e materiais utilizados.
-
-126
+141
 
 8.1 8.2
 
@@ -6612,7 +7558,11 @@ IV. Registro de seus treinamentos, frequência e materiais utilizados.
 
 9.4
 
-9.5 10.1 10.2 10.3 10.4 8. Jurídico
+9.5 10.1 III. Regras internas de PLDFT; e
+
+IV. Registro de seus treinamentos, frequência e materiais utilizados.
+
+8. Jurídico
 
 O servicer possui departamento jurídico próprio? Em caso positivo, informar a composição da área. Em caso
 
@@ -6656,15 +7606,15 @@ Estatuto Social ou Contrato Social em sua versão vigente e atualizada, devidame
 
 competente.
 
-Organograma funcional indicando os responsáveis de cada área, incluindo os sócios
+142
 
-Currículo dos profissionais responsáveis pelas áreas indicados no organograma
+10.2 Organograma funcional indicando os responsáveis de cada área, incluindo os sócios
 
-Política/manual de controles internos e compliance (dependendo do porte da instituição, as políticas podem
+10.3 Currículo dos profissionais responsáveis pelas áreas indicados no organograma
+
+10.4 Política/manual de controles internos e compliance (dependendo do porte da instituição, as políticas podem
 
 estar juntas ou separadas), se houver
-
-127
 
 10.5 Política/manual de PLDFT
 
@@ -6710,241 +7660,945 @@ INSTITUIÇÃO]
 
 [E-MAIL CORPORATIVO] [E-MAIL CORPORATIVO]
 
-128
+143
 
-ANEXO COMPLEMENTAR IX - CLASSIFICAÇÃO DE CRI E CRA
+APÊNDICE Nº 6 – RELATÓRIO PADRONIZADO DE INFORMAÇÕES
 
-CAPÍTULO I – CLASSIFICAÇÃO DE CRI
+TRIMESTRAIS
 
-Seção I - Objetivo e Abrangência
+As informações descritas abaixo são de responsabilidade da emissora a ser divulgado pelo agente fiduciário
+
+ou interveniente fiduciário.
+
+Valor Mobiliário ☐ CR ☐ CRA ☐ CRI ☐ Debênture ☐ Notas Comerciais ☐ Notas Promissórias de Longo Prazo ☐ CPR-F
+
+☐ CDCA
+
+Emissão e série
+
+Ofertante/Emissora
+
+Situação da Emissora
+
+Código do ativo
+
+Código ISIN
+
+Data de Emissão
+
+Data de Vencimento
+
+Índice de
+
+Descrição
+
+cobertura/
+
+Vigência da
+
+Razão de
+
+Obrigatoriedade de
+
+# Tipo Forma
+
+(e valor
+
+garantia
+
+garantia
+
+Detalhamento inicial, se
+
+(início e
+
+Status da
+
+garantia
+
+reavaliação da
+
+garantia
+
+aplicável)
+
+(quando
+
+vencimento)
+
+aplicável)
+
+☐
+
+Hipoteca
+
+Garantia 1 ☐ Real
+
+☐ Penhor
+
+☐ Imóvel: [Nº
+
+registro]
+
+☐ Veículo: [Nº
+
+Chassi]
+
+☐ Aplicação
+
+financeira:
+
+[Local de
+
+custódia]
+
+Constituido:
+
+[ ] Sim; [ ]
+
+Não; [ ] N/A
+
+Suficiente:
+
+[ ] Sim; [ ]
+
+Não; [ ] N/A
+
+Exequível: [ ]
+
+Sim; [ ]
+
+Não; [ ] N/A
+
+[ ]Sim: [periodicidade]
+
+[ ] Não
+
+Constituido:
+
+[ ] Sim; [ ]
+
+Não; [ ] N/A
+
+Suficiente:
+
+[ ] Sim; [ ]
+
+Não; [ ] N/A
+
+[ ]Sim: [periodicidade]
+
+[ ] Não
+
+144
+
+☐
+
+Alienação
+
+Fiduciária
+
+☐
+
+Anticrese
+
+☐ Outro
+
+☐ Aval
+
+☐
+
+Fidejussória
+
+☐ Fiança
+
+Exequível: [ ]
+
+Sim; [ ]
+
+Não; [ ] N/A
+
+Constituido:
+
+[ ] Sim; [ ]
+
+Não; [ ] N/A
+
+Suficiente:
+
+[ ] Sim; [ ]
+
+Não; [ ] N/A
+
+Exequível: [ ]
+
+Sim; [ ]
+
+Não; [ ] N/A
+
+Constituido:
+
+[ ] Sim; [ ]
+
+Não; [ ] N/A
+
+Suficiente:
+
+[ ] Sim; [ ]
+
+Não; [ ] N/A
+
+Exequível: [ ]
+
+Sim; [ ]
+
+Não; [ ] N/A
+
+Constituido:
+
+[ ] Sim; [ ]
+
+Não; [ ] N/A
+
+Suficiente:
+
+[ ] Sim; [ ]
+
+Não; [ ] N/A
+
+Exequível: [ ]
+
+Sim; [ ]
+
+Não; [ ] N/A
+
+Constituido:
+
+[ ] Sim; [ ]
+
+Não; [ ] N/A
+
+Suficiente:
+
+[ ] Sim; [ ]
+
+Não; [ ] N/A
+
+Exequível: [ ]
+
+Sim; [ ]
+
+Não; [ ] N/A
+
+Constituido:
+
+[ ] Sim; [ ]
+
+Não; [ ] N/A
+
+[ ]Sim: [periodicidade]
+
+[ ] Não
+
+[ ]Sim: [periodicidade]
+
+[ ] Não
+
+[ ]Sim: [periodicidade]
+
+[ ] Não
+
+145
+
+Garantia 2
+
+☐ Real
+
+☐
+
+Hipoteca
+
+☐ Penhor
+
+☐
+
+Alienação
+
+Fiduciária
+
+☐
+
+Anticrese
+
+☐ Imóvel: [Nº
+
+registro]
+
+☐ Veículo: [Nº
+
+Chassi]
+
+☐ Aplicação
+
+financeira:
+
+[Local de
+
+custódia]
+
+Suficiente:
+
+[ ] Sim; [ ]
+
+Não; [ ] N/A
+
+Exequível: [ ]
+
+Sim; [ ]
+
+Não; [ ] N/A
+
+Constituido:
+
+[ ] Sim; [ ]
+
+Não; [ ] N/A
+
+Suficiente:
+
+[ ] Sim; [ ]
+
+Não; [ ] N/A
+
+Exequível: [ ]
+
+Sim; [ ]
+
+Não; [ ] N/A
+
+Constituido:
+
+[ ] Sim; [ ]
+
+Não; [ ] N/A
+
+Suficiente:
+
+[ ] Sim; [ ]
+
+Não; [ ] N/A
+
+Exequível: [ ]
+
+Sim; [ ]
+
+Não; [ ] N/A
+
+Constituido:
+
+[ ] Sim; [ ]
+
+Não; [ ] N/A
+
+Suficiente:
+
+[ ] Sim; [ ]
+
+Não; [ ] N/A
+
+Exequível: [ ]
+
+Sim; [ ]
+
+Não; [ ] N/A
+
+Constituido:
+
+[ ] Sim; [ ]
+
+Não; [ ] N/A
+
+Suficiente:
+
+[ ] Sim; [ ]
+
+Não; [ ] N/A
+
+Exequível: [ ]
+
+Sim; [ ]
+
+Não; [ ] N/A
+
+[ ]Sim: [periodicidade]
+
+[ ] Não
+
+[ ]Sim: [periodicidade]
+
+[ ] Não
+
+[ ]Sim: [periodicidade]
+
+[ ] Não
+
+[ ]Sim: [periodicidade]
+
+[ ] Não
+
+146
+
+☐
+
+Fidejussória
+
+☐ Outro
+
+☐ Aval
+
+☐ Fiança
+
+Constituido:
+
+[ ] Sim; [ ]
+
+Não; [ ] N/A
+
+Suficiente:
+
+[ ] Sim; [ ]
+
+Não; [ ] N/A
+
+Exequível: [ ]
+
+Sim; [ ]
+
+Não; [ ] N/A
+
+[ ]Sim: [periodicidade]
+
+[ ] Não
+
+Constituido:
+
+[ ] Sim; [ ]
+
+Não; [ ] N/A
+
+Suficiente:
+
+[ ] Sim; [ ]
+
+Não; [ ] N/A
+
+Exequível: [ ]
+
+Sim; [ ]
+
+Não; [ ] N/A
+
+Constituido:
+
+[ ] Sim; [ ]
+
+Não; [ ] N/A
+
+Suficiente:
+
+[ ] Sim; [ ]
+
+Não; [ ] N/A
+
+Exequível: [ ]
+
+Sim; [ ]
+
+Não; [ ] N/A
+
+147
+
+ANEXO COMPLEMENTAR IX - CLASSIFICAÇÃO DE CRI e CRA
+
+CAPÍTULO I – OBJETIVO E ABRANGÊNCIA
 
 ## Art. 1º
 
 Este Anexo Complementar tem por objetivo estabelecer os critérios para a classificação de
 
-CRI nos documentos das Ofertas Públicas, conforme regulação em vigor.
+CRI e CRA nos documentos das Ofertas Públicas.
 
 Parágrafo único. A classificação de que trata o caput deverá constar dos documentos das
 
-Ofertas Públicas de CRI, tais como, mas não se limitando, a: (i) Prospectos, (ii) Anúncio ou
+Ofertas Públicas e documento de emissão de CRI e CRA tais como, mas não se limitando, a:
 
-Comunicado de Início, conforme aplicável, (iii) Anúncio ou Comunicado de Encerramento,
+I. Prospecto preliminar e definitivo;
 
-conforme aplicável, (iv) Aviso ao Mercado, (v) comunicado(s) ao mercado e (vi) Material
+II. Anúncio ou Comunicado de Início, conforme aplicável;
 
-Publicitário das respectivas emissões.
+III. Anúncio ou Comunicado de Encerramento, conforme aplicável;
+
+IV. Aviso ao Mercado;
+
+V. Comunicado(s) ao mercado;
+
+VI. Material Publicitário das respectivas emissões; e
+
+VII. Documento da emissão.
+
+CAPÍTULO II – CLASSIFICAÇÃO DE CRI
 
 ## Art. 2º
-
-Estão sujeitos a este anexo as Instituições Participantes do Código de Ofertas Públicas.
-
-Seção II – Classificação do CRI
-
-## Art. 3º
 
 A classificação de CRI deverá constar dos documentos das Ofertas Públicas e vir
 
 acompanhada de texto com o seguinte teor: “Esta classificação foi realizada no momento inicial da
 
-Oferta Pública, estando as caraterísticas deste papel sujeitas a alterações.”
+Oferta Pública, estando as características deste papel sujeitas a alterações.”
+
+## Art. 3º
+
+O CRI deve ser classificado conforme descrito abaixo:
+
+I. Estrutura do CRI, dividida em:
+
+a. Concentração, podendo ser:
+
+(a) Concentração: “Concentrado”;
+
+(a) Concentração: “Pulverizado - com risco compartilhado”;
+
+(a) Concentração: “Pulverizado - sem risco compartilhado”;
+
+b. Revolvência:
+
+(b) Revolvência: Com revolvência, onde o CRI permitirá que os recursos
+
+gerados pelos direitos creditórios imobiliários recebidos sejam reinvestidos
+
+em novos ativos;
+
+(b) Revolvência: Sem revolvência, onde o CRI não permitirá que os recursos
+
+gerados pelos direitos creditórios imobiliários recebidos sejam reinvestidos
+
+em novos ativos;
+
+c. Direito Creditório:
+
+(c) Direito creditório: “Título de dívida”;
+
+(c) Direito creditório: “Direitos creditórios imobiliários”
+
+d. Descrição do direito creditório:
+
+(d) Descrição do direito creditório: “Título de dívida - Emitido por terceiros com
+
+destinação imobiliária”;
+
+(d) Descrição do direito creditório: “Título de dívida - Emitido por incorporadoras,
+
+construtoras ou suas SPEs”;
+
+(d) Descrição do direito creditório: “Direitos creditórios imobiliários - Compra e
+
+venda”;
+
+(d) Descrição do direito creditório: “Direitos creditórios imobiliários -
+
+Locação/arrendamento/superfície”;
+
+(d) Descrição do direito creditório: “Direitos creditórios imobiliários - Financiamento
+
+imobiliário”;
+
+149
+
+(d) Descrição do direito creditório: “Direitos creditórios imobiliários - Híbridos”
+
+(d) Descrição do direito creditório: “Outros”
+
+e. Segmento do lastro:
+
+(e) Segmento do lastro: “Apartamentos ou casas”;
+
+(e) Segmento do lastro: “Loteamento”;
+
+(e) Segmento do lastro: “Industrial”;
+
+(e) Segmento do lastro: “Logístico”;
+
+(e) Segmento do lastro: “Imóvel comercial / lajes corporativas”;
+
+(e) Segmento do lastro: “Shopping / lojas”;
+
+(e) Segmento do lastro: “Infraestrutura”;
+
+(e) Segmento do lastro: “Hotel”;
+
+(e) Segmento do lastro: “Multi propriedade”;
+
+(e) Segmento do lastro: “Outros”;
+
+f. Originador do direito creditório imobiliário: classificar com base na Classificação
+
+Nacional de Atividades (CNAE), especialmente:
+
+(f) CNAE: "Agricultura, pecuária, produção florestal, pesca e aquicultura”;
+
+(f) CNAE: “Indústrias extrativas”;
+
+(f) CNAE: “Indústrias de transformação”;
+
+(f) CNAE: “Eletricidade e gás, água, esgoto, atividades de gestão de resíduos e
+
+descontaminação”;
+
+(f) CNAE: “Construção”;
+
+150
+
+(f) CNAE: “Comércio”;
+
+(f) CNAE: “Reparação de veículos automotores e motocicletas”;
+
+(f) CNAE: “Transporte, armazenagem e correio”;
+
+(f) CNAE: “Alojamento e alimentação”;
+
+(f) CNAE: “Informação e comunicação”;
+
+(f) CNAE: “Atividades financeiras, de seguros e serviços relacionados”;
+
+(f) CNAE: “Atividades imobiliárias”;
+
+(f) CNAE: “Atividades profissionais, científicas e técnicas”;
+
+(f) CNAE: “Atividades administrativas e serviços complementares”;
+
+(f) CNAE: “Administração pública, defesa e seguridade social”;
+
+(f) CNAE: “Educação”;
+
+(f) CNAE: “Saúde humana e serviços sociais”;
+
+(f) CNAE: “Artes, cultura, esporte e recreação”;
+
+(f) CNAE: “Outras atividades de serviços”;
+
+(f) CNAE: “Serviços domésticos”;
+
+(f) CNAE: “Organismos internacionais e outras instituições extraterritoriais”;
+
+(f) CNAE: “N/A”
+
+g. Tipo de categoria:
+
+(g) Tipo de categoria: “Residencial”;
+
+(g) Tipo de categoria: “Corporativo”;
+
+(g) Tipo de categoria: “Híbrido”;
+
+(g) Tipo de categoria: “Outros”
+
+h. Destinação de recursos (não aplicável para cessão de direitos creditórios):
+
+(h) Destinação de recursos: “Apartamentos ou casas”;
+
+(h) Destinação de recursos: “Loteamento”;
+
+151
+
+(h) Destinação de recursos: “Industrial”;
+
+(h) Destinação de recursos: “Logístico”;
+
+(h) Destinação de recursos: “Imóvel comercial / lajes corporativas”;
+
+(h) Destinação de recursos: “Shopping / lojas”;
+
+(h) Destinação de recursos: “Infraestrutura”;
+
+(h) Destinação de recursos: “Hotel”;
+
+(h) Destinação de recursos: “Multi propriedade”
+
+(h) Destinação de recursos: “Outros”;
+
+CAPÍTULO III – CLASSIFICAÇÃO DE CRA
 
 ## Art. 4º
-
-O CRI deve ser classificado de acordo com as características dos créditos imobiliários que
-
-lastreiam a emissão, conforme descrito abaixo:
-
-I. Categoria:
-
-a. Residencial: são os CRIs oriundos de atividade comercial relacionada a imóveis
-
-residenciais como apartamentos, casas ou loteamento;
-
-129
-
-b. Corporativo: são os CRIs oriundos de atividades comerciais que englobam todos os
-
-segmentos imobiliários, exceto aqueles relacionados a casas e apartamentos
-
-destinados à habitação residencial; e
-
-c. Híbrido: são os CRIs oriundos de atividades comerciais relacionadas às categorias
-
-residencial e corporativo, conforme descrito nos itens acima, quando realizadas em
-
-conjunto no âmbito da emissão.
-
-II. Concentração:
-
-a. Pulverizado: são os CRIs que tenham, no máximo, 20% (vinte por cento) de seu lastro
-
-devido por 1 (um) único devedor; e
-
-b. Concentrado: são os CRI que tenham mais de 20% (vinte por cento) de seu lastro
-
-devido por 1 (um) único devedor.
-
-III. Tipo de segmento:
-
-a. Apartamentos ou casas;
-
-b. Loteamento: subjacentes lotes;
-
-c. Industrial: plantas industriais;
-
-d. Logístico: imóveis voltados à logística, centros de distribuição, armazenamento e
-
-logística);
-
-e. Imóvel comercial e lajes corporativas;
-
-f. Shopping e lojas: shoppings, centros comerciais e lojas;
-
-g. Infraestrutura: empreendimentos de infraestrutura;
-
-h. Hotel: hotéis ou unidades integrantes de flats que tenham a mesma atividade; e
-
-i. Outros.
-
-IV. Tipo de contrato com lastro:
-
-a. Compra e venda cujo lastro seja originado de contratos que validem operações de
-
-compra e venda de um imóvel com pagamento a prazo. Essas operações ocorrem por
-
-meio de uma escritura ou um compromisso de compra e venda;
-
-130
-
-b. Locação, arrendamento ou superfície cujo lastro seja oriundo de contratos que tenham
-
-como propósito a concessão da posse direta do imóvel ao devedor do crédito
-
-imobiliário, por meio de um vínculo obrigacional (locação/arrendamento) ou real
-
-(concessão de direito real de superfície);
-
-c. Cédulas de crédito bancário ou Valores Mobiliários representativos de dívida;
-
-d. Híbrido: compra e venda cujo lastro seja oriundo de mais de um tipo de contrato
-
-previsto nesta categoria;
-
-e. Financiamento Imobiliário cujo lastro seja oriundo de financiamento destinado a
-
-aquisição de imóveis e/ou incorporação para desenvolvimento de empreendimentos
-
-imobiliários e reformas (retrofit) ou, ainda para financiamentos com garantia de imóvel
-
-(home equity); e
-
-f. Outros: outros que não tenham as características listadas nos itens anteriores.
-
-CAPÍTULO II – CLASSIFICAÇÃO DE CRA
-
-Seção I - Objetivo e Abrangência
-
-## Art. 5º
-
-Este anexo tem por objetivo estabelecer os critérios para a classificação de CRA nos
-
-documentos das Ofertas Públicas, conforme regulação em vigor.
-
-Parágrafo único. A classificação de que trata o caput deverá constar dos documentos das
-
-Ofertas Públicas de CRA, tais como, mas não se limitando, a: (i) Prospectos, (ii) Anúncio ou
-
-Comunicado de Início, conforme o caso, (iii) Anúncio ou Comunicado de Encerramento,
-
-conforme o caso, (iv) Aviso ao Mercado, (v) comunicado(s) ao mercado e (vi) materiais de
-
-publicidade dessas respectivas emissões.
-
-## Art. 6º
-
-Estão sujeitos a este anexo as Instituições Participantes do Código de Ofertas Públicas.
-
-131
-
-Seção II – Classificação do CRA
-
-## Art. 7º
 
 A classificação de CRA deverá constar dos documentos das Ofertas Públicas e vir
 
 acompanhada de texto com o seguinte teor: “Esta classificação foi realizada no momento inicial da
 
-Oferta, estando as caraterísticas deste papel sujeitas a alterações.”
+Oferta, estando as características deste papel sujeitas a alterações.”
 
-## Art. 8º
+## Art. 5º
 
-O CRA deve ser classificado de acordo com as características dos recebíveis que lastreiam a
+O CRA deve ser classificado conforme descrito abaixo:
 
-emissão, conforme descrito abaixo:
+I. Estrutura do CRA, dividida em:
 
-III. I. Concentração:
+a. Concentração, podendo ser:
 
-a. Pulverizado: são os CRAs que tenham, no máximo, 20% (vinte por cento) de seu lastro
+(a) Concentração: “Concentrado”;
 
-devido por 1 (um) único devedor; ou
+(a) Concentração: “Pulverizado - com risco compartilhado”;
 
-Concentrado: são os CRAs que tenham mais de 20% (vinte por cento) de seu lastro
+(a) Concentração: “Pulverizado - sem risco compartilhado”;
 
-devido por 1 (um) único devedor
+b. Revolvência:
 
-Revolvência: são os CRAs que apresentam ou não revolvência, conforme previsto no
+(b) Revolvência: Com revolvência, onde o CRA permitirá que os recursos
 
-Termo de Securitização.
+gerados pelos direitos creditórios do agronegócio recebidos sejam
 
-Atividade do devedor: são os CRAs de acordo com a cadeia de produção a qual o devedor
+reinvestidos em novos ativos;
 
-pertence:
+(b) Revolvência: Sem revolvência, onde o CRA não permitirá que os
 
-a. Cooperativas: associações autônomas, compostas de maneira voluntária por
+recursos gerados pelos direitos creditórios do agronegócio recebidos sejam
 
-produtores rurais e pequenos agricultores;
+reinvestidos em novos ativos;
 
-b. Produtor rural: pessoa natural ou jurídica que tenha por objeto a produção, a
+152
 
-comercialização e a industrialização de produtos rurais; e
+c. Direito Creditório:
 
-c. Terceiro fornecedor: aquele que fornece, à cooperativa e/ou ao produtor rural,
+(c) Direito creditório: “Título de dívida”;
 
-serviços, insumos e produtos necessários à produção rural; d. Terceiro comprador:
+(c) Direito creditório: “Direitos creditórios do agronegócio”
 
-terceiro que adquire o produto rural.
+d. Descrição do direito creditório:
 
-IV. Segmento: são os CRAs de acordo com o setor preponderante de atuação do devedor:
+(d) Descrição do direito creditório: “Título de dívida - Emitido por terceiros com
 
-a. Grãos: produção de grãos, tais como, mas não se limitando, a: soja, trigo, milho, arroz;
+relações comerciais com produtores rurais ou suas cooperativas”;
 
-132
+(d) Descrição do direito creditório: “Título de dívida - Emitido por produtores rurais
 
-b. Usina: segmento produtor de etanol e açúcar;
+ou suas cooperativas”;
 
-c. Logística: transporte e armazenamento de mercadoria, incluindo comércio e
+(d) Descrição do direito creditório: “Direitos creditórios do agronegócio - Cedidos
 
-d. e. f. g. h. exportação;
+por terceiros, oriundos de relações comerciais com produtores rurais ou suas
 
-Papel e celulose: exploração de florestas e produção de papel e celulose;
+cooperativas”;
 
-Pecuária: proteína animal, criação de gado, avicultura, suinocultura, abate e similares;
+(d) Descrição do direito creditório: “Direitos creditórios do agronegócio - Cedido
 
-Insumos agrícolas: fornecimento de insumos agropecuários, máquinas, implementos
+por produtores rurais ou suas cooperativas”;
 
-e serviços.
+(d) Descrição do direito creditório: “Direitos creditórios do agronegócio - Oriundos
 
-Híbridos: segmentos que tenha mais de um dos elementos citados acima; e
+de cessão de CDCA ou CPR-F emitido por cooperativas ou por terceiros”.
 
-Outros: outros segmentos que não tenham sido listados nos itens anteriores.
+e. Segmento do lastro:
 
-Seção III – Disposições Finais
+(e) Segmento do lastro: “Agricultura”;
 
-## Art. 9º
+(e) Segmento do lastro: “Pecuária”;
 
-Este anexo entra em vigor 24 de março de 2025.
+(e) Segmento do lastro: “Silvicultura”;
 
-133
+(e) Segmento do lastro: “Insumos e máquinas agrícolas”;
+
+(e) Segmento do lastro: “Agroindústria”;
+
+(e) Segmento do lastro: “Logística, Comercialização e Serviço”
+
+(e) Segmento do lastro: “AgroTech”
+
+(e) Segmento do lastro: “Híbridos”
+
+(e) Segmento do lastro: “Outros”.
+
+153
+
+f. Cadeia econômica:
+
+(f) Cadeia econômica: “Fornecimento de insumos”;
+
+(f) Cadeia econômica: “Produção”;
+
+(f) Cadeia econômica: “Processamento”;
+
+(f) Cadeia econômica: “Armazenamento e distribuição”;
+
+g. Papel do produtor rural ou cooperativas:
+
+(g) Papel do produtor rural ou cooperativas: “Emissora da dívida ou cedente dos
+
+direitos creditórios”;
+
+(g) Papel do produtor rural ou cooperativas: “Fornecedor do produto rural”;
+
+(g) Papel do produtor rural ou cooperativas: “Comprador de bens e serviços de
+
+terceiros”;
+
+h. Tipo de destinação de recursos (não aplicável para cessão de direitos creditórios):
+
+(h) Tipo de destinação: “Custo”;
+
+(h) Tipo de destinação: “Investimento”;
+
+(h) Tipo de destinação: “Híbridos – descreva”
+
+(h) Tipo de destinação: “Outros - Descreva”.
+
+i. Segmento da destinação:
+
+(i) Segmento da destinação: “Custo - Agricultura”;
+
+(i) Segmento da destinação: “Custo - Pecuária”;
+
+(i) Segmento da destinação: “Custo - Silvicultura”;
+
+(i) Segmento da destinação: “Custo - Insumos”;
+
+(i) Segmento da destinação: “Custo - Agroindústria”;
+
+(i) Segmento da destinação: “Custo - Logística, comercialização e serviços”;
+
+(i) Segmento da destinação: “Custo - Híbridos – Descreva”
+
+(i) Segmento da destinação: “Investimento - Máquinas agrícolas”;
+
+(i) Segmento da destinação: “Investimento - Logística, comercialização e serviços”;
+
+(i) Segmento da destinação: “Investimento - AgroTech”.
+
+154
+
+(i) Segmento da destinação: “Investimento - Híbridos – Descreva”
+
+j. Produto da destinação:
+
+(j) Produto da destinação: "Custo - Agricultura - Cacau";
+
+(j) Produto da destinação: "Custo - Agricultura - Café";
+
+(j) Produto da destinação: "Custo - Agricultura - Cana-de-açúcar";
+
+(j) Produto da destinação: "Custo - Agricultura - Frutas";
+
+(j) Produto da destinação: "Custo - Agricultura - Milho";
+
+(j) Produto da destinação: "Custo - Agricultura - Soja";
+
+(j) Produto da destinação: "Custo - Agricultura - Trigo";
+
+(j) Produto da destinação: "Custo - Agricultura - Vegetais";
+
+(j) Produto da destinação: "Custo - Agricultura - Outros";
+
+(j) Produto da destinação: "Custo - Pecuária - Aves: Corte ou ovos";
+
+(j) Produto da destinação: "Custo - Pecuária - Bovinos: Corte ou leite";
+
+(j) Produto da destinação: "Custo - Pecuária - Cabras: Corte ou leite";
+
+(j) Produto da destinação: "Custo - Pecuária - Equinos";
+
+(j) Produto da destinação: "Custo - Pecuária - Ovelhas: Corte ou leite";
+
+(j) Produto da destinação: "Custo - Pecuária - Peixes";
+
+(j) Produto da destinação: "Custo - Pecuária - Suínos";
+
+(j) Produto da destinação: "Custo - Pecuária - Outros";
+
+(j) Produto da destinação: "Custo - Silvicultura - Papel e celulose";
+
+(j) Produto da destinação: "Custo - Silvicultura - Madeira";
+
+(j) Produto da destinação: "Custo - Silvicultura - Produtos florestais: Óleos, resinas,
+
+etc";
+
+(j) Produto da destinação: "Custo - Silvicultura - Outros";
+
+(j) Produto da destinação: "Custo - Insumos - Defensivos: Inseticidas, herbicidas,
+
+fungicidas, orgânicos, etc";
+
+(j) Produto da destinação: "Custo - Insumos - Melhoradores: Cal, gesso, etc";
+
+(j) Produto da destinação: "Custo - Insumos - Ração e suplementos";
+
+155
+
+(j) Produto da destinação: "Custo - Insumos - Sementes, mudas e demais produtos
+
+biológicos";
+
+(j) Produto da destinação: "Custo - Insumos - Outros";
+
+(j) Produto da destinação: "Custo - Agroindústria - Açúcar";
+
+(j) Produto da destinação: "Custo - Agroindústria - Beneficiamentos diversos";
+
+(j) Produto da destinação: "Custo - Agroindústria - Biocombustíveis";
+
+(j) Produto da destinação: "Custo - Agroindústria - Industrialização rudimentar";
+
+(j) Produto da destinação: "Custo - Agroindústria - Processamento de alimentos e
+
+bebidas";
+
+(j) Produto da destinação: "Custo - Agroindústria - Outros";
+
+(j) Produto da destinação: "Custo - Logística, comercialização e serviços - Comércio
+
+de commodities";
+
+(j) Produto da destinação: "Custo - Logística, comercialização e serviços -
+
+Transportes";
+
+(j) Produto da destinação: "Custo - Logística, comercialização e serviços - Outros";
+
+(j) Produto da destinação: "Custo - Híbridos - Descrição";
+
+(j) Produto da destinação: "Investimento - Máquinas Agrícolas - Máquinas agrícolas
+
+e equipamentos";
+
+(j) Produto da destinação: "Investimento - Máquinas Agrícolas - Outros";
+
+(j) Produto da destinação: "Investimento - Logística, comercialização e serviços -
+
+Armazenagem";
+
+(j) Produto da destinação: "Investimento - Logística, comercialização e Serviços -
+
+Outros";
+
+(j) Produto da destinação: "Investimento - AgroTech - Tecnologia de sementes e
+
+genética";
+
+(j) Produto da destinação: "Investimento - AgroTech - Automação e robótica";
+
+(j) Produto da destinação: "Investimento - AgroTech - Outros";
+
+(j) Produto da destinação: "Investimento - Híbridos - Descrever";
+
+(j) Produto da destinação: "Outros - Descrever".
+
+156
+
+CAPÍTULO IV – DISPOSIÇÕES FINAIS
+
+## Art. 6º
+
+Este Anexo Complementar entra em vigor 04 de janeiro de 2027.
+
+157
 
 ANEXO COMPLEMENTAR X – REGRAS E PROCEDIMENTOS DESTINADAS
 
@@ -6966,7 +8620,7 @@ Prospecto, Sumário de Dívida ou de Securitização de Oferta Pública, conform
 
 este Anexo Complementar X com a seguinte frase “Esta Oferta Pública foi estruturada seguindo as
 
-Regras e Procedimentos de Ofertas de Títulos Sustentáveis estabelecidos pela ANBIMA.”, em
+Regras e Procedimentos de Ofertas de Títulos Sustentáveis estabelecidos pela Anbima.”, em
 
 formato específico a ser disponibilizado pela Associação.
 
@@ -6974,9 +8628,9 @@ formato específico a ser disponibilizado pela Associação.
 
 dispostas neste anexo, as Instituições Participantes deverão, conforme aplicável:
 
-I. II. incluir, em destaque, imediatamente acima do destaque indicado no §1º acima, a
+I. incluir, em destaque, imediatamente acima do destaque indicado no §1º acima, a
 
-seguinte frase: “Exclusivamente em relação a [incluir séries que observam essas
+seguinte frase: “Exclusivamente em relação a [incluir séries que observam estas
 
 Regras e Procedimentos]:”; e
 
@@ -6996,11 +8650,11 @@ objetivo financiar ou refinanciar atividades e/ou projetos que gerem benefícios
 
 ambientais e/ou sociais, podendo assumir as modalidades de:
 
-134
-
 a. Títulos Verdes: títulos cuja destinação de recursos seja direcionada
 
 diretamente ou em valor equivalente para financiar ou refinanciar, total ou
+
+158
 
 parcialmente projetos, despesas, Ativos e/ou investimentos que gerem
 
@@ -7026,15 +8680,17 @@ ambientais.
 
 II. Títulos Vinculados a Metas de Sustentabilidade: títulos que contenham a obrigação,
 
-por parte do emissor, do cumprimento de uma ou mais metas predeterminadas
+por parte da emissora ou devedor, do cumprimento de uma ou mais metas
 
-relacionadas à melhoria de sua performance em aspectos ambientais, sociais e/ou
+predeterminadas relacionadas à melhoria de sua performance em aspectos
 
-de governança, que serão aferidas de acordo com indicadores de desempenho
+ambientais, sociais e/ou de governança, que serão aferidas de acordo com
 
-selecionados, em datas previamente acordadas, e podem desencadear alterações
+indicadores de desempenho selecionados, em datas previamente acordadas, e
 
-nas características estruturais dos títulos em caso de atingimento ou não das metas.
+podem desencadear alterações nas características estruturais dos títulos em caso de
+
+atingimento ou não das metas.
 
 III. Títulos Sustentáveis Híbridos: títulos classificados como Títulos de Uso de Recursos e
 
@@ -7050,7 +8706,7 @@ Pública e nos Documentos da Emissão, conforme aplicável, o formato do Título
 
 considerando o disposto nos incisos I, II e III acima.
 
-135
+159
 
 ## Art. 3º
 
@@ -7084,9 +8740,7 @@ anexo.
 
 Recomenda-se, em adição às Regras e Procedimentos estabelecidas neste anexo, que as
 
-Instituições Participantes observem o “Guia para Ofertas de Títulos Sustentáveis da ANBIMA”
-
-,
+Instituições Participantes observem o “Guia para Ofertas de Títulos Sustentáveis da Anbima”,
 
 disponível no site da Associação.
 
@@ -7104,21 +8758,21 @@ Ofertas Públicas e nessas Regras e Procedimentos, as Instituições Participant
 
 exclusivamente de Oferta Pública de Título Sustentável que obrigatoriamente tiver sido contratado
 
-um Provedor de parecer de segunda opinião compatível para atender cada modalidade de Título
+um provedor de parecer de segunda opinião compatível para atender cada modalidade de Título
 
-Sustentável descrita no artigo 2º deste anexo, conforme aplicável.
+Sustentável descritas no artigo 2º deste anexo, conforme aplicável.
 
-136
+160
 
-§1º. Caso o Provedor de Segunda Opinião tenha direta ou indiretamente auxiliado o emissor
+§1º. Caso o Provedor de parecer segunda opinião tenha direta ou indiretamente auxiliado a
 
-ou empresa de seu Conglomerado ou Grupo Econômico na elaboração de seu framework de
+emissora ou devedor ou empresa de seu Conglomerado ou Grupo Econômico na elaboração de seu
 
-finanças sustentáveis deve obrigatoriamente ser especificada nos fatores de risco.
+framework de finanças sustentáveis deve obrigatoriamente ser especificada nos fatores de risco.
 
-§2º. O parecer de segunda opinião pode ser aplicado diretamente ao framework existente
+§2º. O parecer de segunda opinião pode ser aplicado diretamente ao framework existente (da
 
-(do emissor ou seu Conglomerado ou Grupo Econômico) ou à Oferta Pública do título.
+emissora ou devedor ou seu Conglomerado ou Grupo Econômico) ou à Oferta Pública do título.
 
 CAPÍTULO III – DOCUMENTOS DA EMISSÃO
 
@@ -7144,7 +8798,7 @@ As Instituições Participantes somente poderão participar de Ofertas Públicas
 
 Uso de Recursos que contenham nos Documentos da Emissão, no mínimo:
 
-I. Quando tratar da destinação dos recursos, descrição detalhada e suficiente:
+I. Quando tratar da destinação dos recursos, descrição suficiente:
 
 a. dos projetos ou portfólio de projetos que serão objeto da destinação de recursos da
 
@@ -7154,63 +8808,73 @@ sustentáveis, conforme aplicável
 
 b. dos impactos ambientais e/ou sociais estimados, de forma quantificável;
 
-137
+c. quando os recursos da emissão forem destinados, total ou parcialmente, ao
 
-II. III. IV. V. VI. VII. c. quando os recursos da emissão forem destinados, total ou parcialmente, para
+refinanciamento de projetos e/ou de Ativos, deve-se, sempre que possível, indicar a
 
-refinanciamento de projetos e/ou de Ativos, descrição da parcela destinada ao
+161
 
-refinanciamento, em termos percentuais;
+II. III. IV. V. VI. VII. parcela destinada ao refinanciamento, expressa em termos percentuais, bem como
+
+especificar os portfólios de projetos elegíveis e o período retroativo considerado para
+
+o respectivo refinanciamento.
 
 Previsão expressa de que os recursos advindos da emissão não poderão ser
 
-caracterizados como sustentáveis em valor superior aos projetos/Ativos que lhe servem
+caracterizados como sustentáveis em valor superior aos projetos e/ou Ativos que lhe
 
-de lastro;
+servem de lastro;
 
-Quando tratar da governança e Gestão de Recursos, descrição detalhada e suficiente:
+Quando tratar da governança e Gestão de Recursos, descrição suficiente:
 
-a. dos processos de rastreabilidade apropriada dos recursos por parte do emissor por
+a. dos processos de rastreabilidade apropriada dos recursos por parte da emissora ou
 
-meio de um processo interno formal que demonstre que os recursos estão sendo
+devedor por meio de procedimento interno formal que demonstre a alocação de
 
-alocados nos objetivos destacados nos Documentos da Emissão;
+recursos conforme os objetivos previstos nos Documentos da Emissão;
 
-b. das medidas tomadas pelo emissor para garantir o monitoramento periódico do
+b. das medidas tomadas pela emissora ou devedor para garantir o monitoramento
 
-saldo dos recursos e a destinação de recursos apropriada;
+periódico do saldo e a destinação adequada de recursos;
 
-c. das obrigações do emissor para reporte aos investidores acerca do fluxo de recursos
+c. das obrigações da emissora ou devedor quanto ao reporte aos investidores acerca
 
-da emissão, com indicativo aos recursos já alocados e os valores remanescentes e
+do fluxo de recursos da emissão, com indicativo aos recursos já alocados e os valores
 
-expectativas de impacto, observado o Capítulo V deste anexo.
+remanescentes e expectativas de impacto, observado o Capítulo V deste anexo.
 
-Caso houver cláusula de recompra do título pelo emissor e/ou qualquer forma voluntária
+Caso exista cláusula de recompra do título pela emissora e/ou qualquer forma voluntária
 
-de antecipação, esta deve ser precedida de apresentação de relatório de destinação dos
+de antecipação, esta deverá ser precedida de apresentação de relatório de destinação
 
-recursos;
+dos recursos;
 
-Caso houver, indicação do endereço eletrônico onde o framework vinculado à operação
+Caso aplicável, indicação do endereço eletrônico em que o framework vinculado à
 
-será disponibilizado e permanecerá até o vencimento do título;
+operação será disponibilizado e permanecerá acessível até o vencimento do título. Na
 
-Caso não seja elaborado um framework, descrição das informações relacionadas aos
+hipótese de não ser disponibilizada descrição detalhada das informações relacionadas
 
-pilares aplicáveis aos títulos de uso de recursos.
+aos itens acima, tais quais uso de recursos, processo de avaliação, seleção dos projetos
+
+e gestão de recursos, aplicáveis aos títulos de uso de recursos, deverá ser indicada a
+
+forma alternativa de divulgação das referidas informações.
 
 Indicação do endereço eletrônico onde o parecer de segunda opinião vinculado à
 
 operação será disponibilizado e permanecerá até o vencimento do título;
 
-VIII. Obrigação de fiscalização do cumprimento dos compromissos assumidos nos
+Obrigação de fiscalização do cumprimento dos compromissos assumidos pela emissora
 
-documentos da Oferta Pública e divulgação das informações previstas no Capítulo V pelo
+ou devedor nos documentos da Oferta Pública por meio de terceiro contratado ou por
 
-Agente Fiduciário;
+162
 
-138
+meio de declaração da emissora ou devedor e divulgação das informações previstas no
+
+Capítulo V pela emissora ou devedor ao Agente Fiduciário;
 
 Seção II – Títulos Vinculados a Metas de Sustentabilidade
 
@@ -7220,23 +8884,23 @@ As Instituições Participantes somente poderão participar de Ofertas Públicas
 
 Vinculados a Metas de Sustentabilidade que contenham nos Documentos da Emissão, no mínimo:
 
-I. Metas de sustentabilidade: observado o artigo 10º abaixo, descrição detalhada e
+I. Metas de sustentabilidade: observado o artigo 10 abaixo, descrição suficiente da meta
 
-suficiente da meta de sustentabilidade selecionada, que deve ser mensurada de acordo
+de sustentabilidade selecionada, que deve ser mensurada de acordo com indicador(es)
 
-com indicador(es) de desempenho específico, que deve(m) ser relevante(s), essencial(is)
+de desempenho específico, que deve(m) ser relevante(s), essencial(is) e material(is) para
 
-e material(is) para o perímetro selecionado, mensurável(is) ou quantificável(is) em uma
+o perímetro selecionado, mensurável(is) ou quantificável(is) em uma base metodológica
 
-base metodológica que seja:
+que seja:
 
 a. passível de verificação externa;
 
 b. verificado por terceiro independente tanto anteriormente à captação (em relação à
 
-linha de base selecionada) como em cada data de verificação selecionada; e
+linha de base selecionada) como em cada data de verificação selecionada;
 
-c. passível de comparabilidade com outros benchmarks;
+c. passível de comparabilidade com outros benchmarks; e
 
 d. sujeito a cronograma previamente estabelecido.
 
@@ -7244,45 +8908,49 @@ II. A forma de calibragem do(s) indicador(es) de desempenho selecionado(s) deve 
 
 expressamente prevista;
 
-III. Descrição detalhada dos impactos possíveis do cumprimento ou não das metas de
+III. Descrição dos impactos possíveis do cumprimento ou não das metas de sustentabilidade
 
-sustentabilidade selecionadas nas características do título, bem como situações em que
+selecionadas nas características do título, bem como situações em que as metas não
 
-as metas não precisam ser apresentadas.
+precisam ser apresentadas.
 
-IV. Caso houver cláusula de recompra do título pelo emissor e/ou qualquer forma voluntária
+IV. Caso houver cláusula de recompra do título pela emissora e/ou qualquer forma
 
-de antecipação deve ser feita:
+voluntária de antecipação deve ser feita:
 
-a. após a data de verificação do atingimento das metas ou;
+a. após a data de verificação do atingimento das metas; ou
 
 b. antes da data de verificação desde que se comprove o atingimento da meta ou se
 
 admita o não cumprimento da meta de sustentabilidade.
 
+163
+
 V. Indicação do endereço eletrônico onde o framework com as metas de sustentabilidade
 
-vinculadas ao emissor será disponibilizado e permanecerá até o vencimento do título;
+vinculadas a emissora ou devedor será disponibilizado e permanecerá até o vencimento
+
+do título;
 
 VI. Indicação do endereço eletrônico onde o parecer de segunda opinião vinculado à
 
 operação será disponibilizado e permanecerá até o vencimento do título;
 
-139
+VII. Obrigação de fiscalização do cumprimento dos compromissos assumidos pela emissora
 
-VII. Obrigação de fiscalização do cumprimento dos compromissos assumidos nos
+ou devedor nos documentos da Oferta Pública por meio de terceiro contratado ou por
 
-documentos da Oferta Pública e divulgação das informações previstas no Capítulo V pelo
+meio de declaração da emissora ou devedor e divulgação das informações previstas no
 
-Agente Fiduciário;
+Capítulo V pela emissora ou devedor ao Agente Fiduciário.
 
-## Art. 10º
+## Art. 10
 
 As metas de sustentabilidade contidas nos Documentos da Emissão devem ser redigidas,
 
-observados o artigo 9º deste anexo, com referências claras e objetivas a:
+observado o artigo 9º deste anexo, com referências claras e objetivas a:
 
-I. Ao(s) indicador(es) selecionado(s) para mensuração da(s) meta(s) com sua respectiva
+I. Indicador(es) selecionado(s) para mensuração da(s) meta(s) com sua respectiva
 
 metodologia e datas aplicáveis;
 
@@ -7298,7 +8966,7 @@ b. linha de base de referência;
 
 c. forma de calibragem; e
 
-d. cronograma com previsão estimado para atingimento da(s) meta(s)
+d. cronograma com previsão estimada para atingimento da(s) meta(s)
 
 selecionada(s), incluindo qualquer evento relevante que esteja relacionado e
 
@@ -7312,17 +8980,17 @@ a. linha de base; ou
 
 b. mensuração da(s) meta(s) de acordo com o(s) indicador(es) selecionado(s).
 
-IV. Quaisquer fatores que estejam aquém do controle direto do emissor podendo afetar o
+164
 
-cumprimento da(s) meta(s), tais como, por exemplo:
+IV. Quaisquer fatores que estejam aquém do controle direto da emissora ou devedor
+
+podendo afetar o cumprimento da(s) meta(s), tais como, por exemplo:
 
 a. mudanças organizacionais decorrentes de reestruturações societárias;
 
 b. fusão ou aquisição de sociedades;
 
 c. abertura de capital;
-
-140
 
 d. mudanças relevantes na regulação, de maneira que possa afetar o cálculo da(s)
 
@@ -7354,13 +9022,15 @@ observância das séries dos Títulos de Uso de Recursos ao destaque de melhores
 
 práticas em Ofertas Sustentáveis, conforme aplicável, por meio da frase: “Este
 
-[Prospecto de Oferta Pública/sumário de Oferta de dívida para investidores
+[Prospecto de Oferta Pública/sumário de Oferta de renda fixa para investidores
 
 profissionais/sumário de Oferta de securitização para investidores profissionais
 
 foi elaborado observando as Regras e Procedimentos para Oferta Públicas de
 
-Títulos Sustentáveis de Renda Fixa, caracterizado como um título [de uso de
+165
+
+b. c. d. e. f. g. Títulos Sustentáveis de Renda Fixa, caracterizado como um título [de uso de
 
 recursos verde/social/de sustentabilidade {ou} híbrido], sendo passível de
 
@@ -7372,9 +9042,7 @@ não sigam as regras dispostas neste anexo, conforme aplicável, por meio da
 
 frase: “As {incluir séries aplicáveis} séries observam integralmente as Regras e
 
-141
-
-b. c. d. e. f. g. h. Procedimentos para Oferta Públicas de Títulos Sustentáveis de Renda Fixa,
+Procedimentos para Oferta Públicas de Títulos Sustentáveis de Renda Fixa,
 
 enquanto as {incluir séries aplicáveis} séries não observam as Regras e
 
@@ -7396,7 +9064,7 @@ Caso exista um framework e ele seja incorporado ou mencionado nos
 
 documentos da Oferta Pública, tais documentos deverão conter indicação de
 
-onde o framework poderá ser acessado na integra;
+onde o framework poderá ser acessado na íntegra;
 
 Caso o framework não seja específico para Emissão e seja estruturado no
 
@@ -7410,7 +9078,7 @@ sustentável.
 
 Indicação da contratação de avaliador independente responsável pela
 
-elaboração de Parecer de Segunda Opinião, e, caso aplicável, informação sobre
+elaboração de parecer de segunda opinião, e, caso aplicável, informação sobre
 
 os serviços prestados pela mesma empresa (ou empresa do grupo econômico)
 
@@ -7420,7 +9088,9 @@ Indicação, no caso de mais séries de emissão do Título Sustentável, de qua
 
 séries atendem os princípios de sustentabilidade;
 
-Seção de fatores de risco: sem mitigação, de todos e quaisquer fatores de risco
+166
+
+h. Seção de fatores de risco: sem mitigação, de todos e quaisquer fatores de risco
 
 considerados relevantes, assim entendidos aqueles que sejam capazes de afetar
 
@@ -7428,49 +9098,49 @@ a decisão de investimento do potencial investidor, incluindo, mas não se
 
 limitando:
 
-a. ausência de regulamentação aplicável à atividade dos avaliadores
+i. a. ausência de regulamentação aplicável à atividade dos avaliadores
 
 independentes;
 
-142
-
-i. b. não responsabilização das Instituições Participantes sobre conteúdo
+b. não responsabilização das Instituições Participantes sobre conteúdo
 
 do parecer de segunda opinião, framework, relatórios anuais e
 
 demais avaliações independentes, conforme aplicável;
 
-c. risco de imagem decorrente de eventual repercussão negativa do
+c. risco de imagem decorrente de eventual repercussão negativa da
 
-emissor, incluindo a possibilidade de greenwashing ou outras
+emissora ou devedor, incluindo a possibilidade de greenwashing ou
 
-situações relacionadas ao não cumprimento dos compromissos
+outras situações relacionadas ao não cumprimento dos
 
-assumidos na emissão do título sustentável, e consequências
+compromissos assumidos na emissão do título sustentável, e
 
-decorrentes dessas situações, inclusive sobre a Negociação do título
+consequências decorrentes dessas situações, inclusive sobre a
 
-no mercado secundário;
+Negociação do título no mercado secundário;
 
-d. possibilidade de descumprimento pelo emissor das obrigações
+d. possibilidade de descumprimento pela emissora ou devedor das
 
-relacionadas às Questões ASG previstas no documento da emissão,
+obrigações relacionadas às Questões ASG previstas no documento da
 
-framework e/ou parecer de segunda opinião, incluindo
+emissão, framework e/ou parecer de segunda opinião, incluindo
 
 responsabilidades específicas de cada formato de título sustentável;
 
-e. possibilidade de descumprimento, pelo emissor, na alocação dos
+e. possibilidade de descumprimento, pela emissora ou devedor, na
 
-recursos até a data de vencimento ordinário do título, em caso de
+alocação dos recursos até a data de vencimento ordinário do título,
 
-resgate antecipado, Oferta de resgate e/ou aquisição facultativa que
+em caso de resgate antecipado, Oferta de resgate e/ou aquisição
 
-tenha ocorrido sem a comprovação da utilização integral do uso de
+facultativa que tenha ocorrido sem a comprovação da utilização
 
-recursos;
+integral do uso de recursos;
 
-Informações mínimas para os Documentos da Emissão previstos no artigo 8ª;
+Informações mínimas para os Documentos da Emissão previstos no artigo 8º;
+
+167
 
 Seção II – Títulos Vinculados a Metas de Sustentabilidade
 
@@ -7482,15 +9152,13 @@ documentos da Oferta Pública de Título Vinculados a Metas de Sustentabilidade,
 
 mínimo:
 
-I. Informação, em destaque, nos documentos da Oferta Pública, sobre a observância
+I. II. III. Informação, em destaque, nos documentos da Oferta Pública, sobre a observância
 
 das séries dos Títulos Vinculados a Metas de Sustentabilidade ao destaque de
 
-143
+melhores práticas em Ofertas Sustentáveis, conforme aplicável, por meio da frase:
 
-II. III. a. b. c. melhores práticas em Ofertas Sustentáveis, conforme aplicável, por meio da frase:
-
-“Este [Prospecto de Oferta Pública/sumário de Oferta de dívida para investidores
+“Este [Prospecto de Oferta Pública/sumário de Oferta de renda fixa para investidores
 
 profissionais/sumário de Oferta de securitização para investidores profissionais] foi
 
@@ -7524,19 +9192,21 @@ Indicação do framework de finanças sustentáveis caso este seja incorporado o
 
 mencionado nos documentos da Oferta Pública e que deverá conter:
 
-Caso o framework não seja específico para Emissão e seja estruturado no formato
+a. Caso o framework não seja específico para Emissão e seja estruturado no formato
 
 guarda-chuva os documentos da Oferta Pública devem destacar quais partes (ou
 
-itens do framework) serão aplicáveis para Oferta e conter as informações necessárias
+168
+
+b. c. IV. V. itens do framework) serão aplicáveis para Oferta e conter as informações necessárias
 
 para a qualificação da Oferta como vinculada a metas de sustentabilidade.
 
 Indicação da contratação de avaliador independente responsável pela elaboração de
 
-Parecer de Segunda Opinião, e, caso aplicável, informação sobre os serviços
+parecer de segunda opinião, e, caso aplicável, informação sobre os serviços prestados
 
-prestados pela mesma empresa (ou empresa do grupo econômico) como consultoria,
+pela mesma empresa (ou empresa do grupo econômico) como consultoria,
 
 assessoria ou estruturação externa;
 
@@ -7544,11 +9214,9 @@ Indicação da contratação de um avaliador independente para auditoria da linh
 
 base selecionada;
 
-144
+Indicação, no caso de mais séries de emissão do Título Sustentável, de quais séries
 
-IV. V. VI. Indicação, no caso de mais séries de emissão do Título Sustentável, de quais séries
-
-atendem os próprios de sustentabilidade;
+atendem os próprios princípios de sustentabilidade;
 
 Seção de fatores de risco: sem mitigação, de todos e quaisquer fatores de risco
 
@@ -7566,9 +9234,9 @@ parecer de segunda opinião, framework, relatórios anuais e demais
 
 avaliações independentes, conforme aplicável;
 
-c. risco de imagem decorrente de eventual repercussão negativa do
+c. risco de imagem decorrente de eventual repercussão negativa da
 
-emissor sobre eventos posteriores ao encerramento da Oferta,
+emissora sobre eventos posteriores ao encerramento da Oferta,
 
 incluindo a possibilidade de greenwashing ou outras situações
 
@@ -7580,15 +9248,17 @@ situações, inclusive sobre a Negociação do título no mercado
 
 secundário;
 
-d. possibilidade de descumprimento pelo emissor das obrigações
+d. possibilidade de descumprimento pela emissora das obrigações
 
 relacionadas às Questões ASG previstas no documento da emissão,
 
-framework e/ou Parecer de Segunda Opinião, incluindo
+framework e/ou parecer de segunda opinião, incluindo
 
 responsabilidades específicas de cada formato de título sustentável;
 
-e. no que tange Títulos Vinculados a Metas de Sustentabilidade, não
+169
+
+VI. e. no que tange Títulos Vinculados a Metas de Sustentabilidade, não
 
 atingimento das metas nas datas acordadas, e/ou não entrega do
 
@@ -7596,9 +9266,7 @@ relatório anual, e consequências decorrentes dessas situações, inclusive
 
 sobre a Negociação do título no mercado secundário.
 
-Informações mínimas para os Documentos da Emissão previstos no artigo 9ª e 10º;
-
-145
+Informações mínimas para os Documentos da Emissão previstos no artigo 9º e 10º;
 
 Seção III – Títulos Sustentáveis Híbridos
 
@@ -7624,21 +9292,23 @@ após a emissão do Título de Uso de Recursos.
 
 Parágrafo único. Deve haver previsão indicando que o Relatório Anual para Títulos de Uso
 
-de Recursos deve ser divulgado até o vencimento do respectivo título ou até a alocação total
+de Recursos deve ser divulgado até o vencimento do respectivo título ou até a alocação total dos
 
-dos recursos disponibilizados.
+recursos disponibilizados.
 
 ## Art. 16
 
 O Relatório Anual para Títulos de Uso de Recursos deve conter, no mínimo:
 
-I. II. A relação de projetos para quais os recursos da Oferta de Título de Uso de Recursos
+I. A relação de projetos para quais os recursos da Oferta de Título de Uso de Recursos
 
 foram destinados (respeitados acordos de confidencialidade, questões competitivas ou
 
 outras limitações que limitem o detalhamento ou forcem o reporte agregado);
 
-Breve descrição dos projetos e valores efetivamente alocados;
+170
+
+II. Breve descrição dos projetos e valores efetivamente alocados; e
 
 III. Expectativa de impacto estimado, incluindo, sempre que possível, indicadores que
 
@@ -7646,9 +9316,7 @@ traduzam o desempenho social e/ou ambiental de tais projetos.
 
 Parágrafo único. O Relatório Anual para Títulos de Uso de Recursos deve ser disponibilizado
 
-146
-
-preferencialmente no site do emissor e do Agente Fiduciário, com endereço de acesso
+preferencialmente no site da emissora e do Agente Fiduciário, com endereço de acesso
 
 previamente previsto nos documentos da Oferta Pública.
 
@@ -7688,11 +9356,11 @@ datas definidas para verificação do cumprimento das metas.
 
 Parágrafo único. O Relatório para Títulos Vinculados a Metas de Sustentabilidade deve ser
 
-disponibilizado preferencialmente no site do emissor e do Agente Fiduciário, com endereço
+171
+
+disponibilizado preferencialmente no site da emissora e do Agente Fiduciário, com endereço
 
 de acesso previamente previsto nos documentos da Oferta Pública.
-
-147
 
 ## Art. 19
 
@@ -7712,4 +9380,4 @@ CAPÍTULO VI – DISPOSIÇÕES FINAIS
 
 ## Art. 21
 
-Este anexo entra em vigor 24 de março de 2025.
+Este anexo entra em vigor 04 de janeiro de 2027.

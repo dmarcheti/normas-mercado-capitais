@@ -218,6 +218,7 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
+| decisao-colegiado | 19957.016195/2026-86 | 2026-10-27 | deferido | cvm-col-20261027-d3644 | fichas/colegiado/2026-03.md |
 | pas | 19957.006858/2019-25 | 2024-10-15 | parcial | cvm-pas-19957-006858-2019-25 | fichas/pas/2024-16.md |
 | decisao-colegiado | 19957.007068/2022-62 | 2022-07-05 | nao-provido | cvm-col-20220705-d2643 | fichas/colegiado/2022-11.md |
 | decisao-colegiado | 19957.009163/2019-03 | 2019-12-17 | conhecimento | cvm-col-20191217-d1641 | fichas/colegiado/2019-21.md |

@@ -9,7 +9,7 @@ Norma: fora do acervo.
 
 ## Sumário
 
-Este subíndice tem 1683 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+Este subíndice tem 1684 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
 
 art. 1º (29); art. 2º (36); art. 3º (43); art. 4º (51); art. 5º (60); art. 7º (69); art. 8º (75); art. 9º (82)
 art. 11 (98); art. 13 (105); art. 14 (152); art. 15 (158); art. 17 (168); art. 20 (175); art. 24 (183)
@@ -1602,6 +1602,7 @@ Citada sem dispositivo identificado (1601)
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
+| decisao-colegiado | 19957.016195/2026-86 | 2026-10-27 | deferido | cvm-col-20261027-d3644 | fichas/colegiado/2026-03.md |
 | decisao-colegiado | 19957.008271/2023-37 | 2025-12-02 | deferido | cvm-col-20251202-d3333 | fichas/colegiado/2025-11.md |
 | decisao-colegiado | 19957.008271/2023-37 | 2025-11-25 | — | cvm-col-20251125-d3333 | fichas/colegiado/2025-11.md |
 | decisao-colegiado | 19957.008829/2020-31 | 2024-12-20 | deferido | cvm-col-20241220-d3192 | fichas/colegiado/2024-14.md |

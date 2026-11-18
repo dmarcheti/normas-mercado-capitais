@@ -1456,9 +1456,23 @@
   },
   {
    "titulo": "Código de Administração de Recursos de Terceiros (vigente a partir de 31.03.2025)",
+   "url": "https://www.anbima.com.br/data/files/1F/27/06/2F/E44E1A103AD8EA1A692BA2A8/Codigo_de_AGRT_16_11_2026.PDF",
+   "arquivo": "Codigo_de_AGRT_16_11_2026.PDF",
+   "situacao": "vigente",
+   "vigente_desde": "2027-01-04",
+   "paginas": [
+    "https://www.anbima.com.br/pt_br/autorregular/codigos/administracao-de-recursos-de-terceiros.htm"
+   ],
+   "tipo": "codigo",
+   "formato": "pdf",
+   "bytes": 885247,
+   "last_modified": "Mon, 16 Nov 2026 12:22:21 GMT"
+  },
+  {
+   "titulo": "Código de Administração de Recursos de Terceiros (vigente a partir de 31.03.2025)",
    "url": "https://www.anbima.com.br/data/files/60/E2/AE/1B/EDEA591036202959B82BA2A8/1.%20Codigo_AGRT_v_12_03_2025.pdf",
    "arquivo": "1. Codigo_AGRT_v_12_03_2025.pdf",
-   "situacao": "vigente",
+   "situacao": "anterior",
    "vigente_desde": "2025-03-31",
    "paginas": [
     "https://www.anbima.com.br/pt_br/autorregular/codigos/administracao-de-recursos-de-terceiros.htm"
@@ -1470,9 +1484,23 @@
   },
   {
    "titulo": "Código de Distribuição de Produtos de Investimento (vigente a partir de 22.09.2025)",
+   "url": "https://www.anbima.com.br/data/files/7F/57/28/4E/954E1A103AD8EA1A692BA2A8/Codigo_de_Distribuicao_04_01_2027.PDF",
+   "arquivo": "Codigo_de_Distribuicao_04_01_2027.PDF",
+   "situacao": "vigente",
+   "vigente_desde": "2027-01-04",
+   "paginas": [
+    "https://www.anbima.com.br/pt_br/autorregular/codigos/distribuicao-de-produtos-de-investimento.htm"
+   ],
+   "tipo": "codigo",
+   "formato": "pdf",
+   "bytes": 729568,
+   "last_modified": "Mon, 16 Nov 2026 12:34:18 GMT"
+  },
+  {
+   "titulo": "Código de Distribuição de Produtos de Investimento (vigente a partir de 22.09.2025)",
    "url": "https://www.anbima.com.br/data/files/1E/51/92/6A/F7EB8910F5991A89EA2BA2A8/Codigo_de_Distribuicao_22_09_2025_1_.pdf",
    "arquivo": "Codigo_de_Distribuicao_22_09_2025_1_.pdf",
-   "situacao": "vigente",
+   "situacao": "anterior",
    "vigente_desde": "2025-09-22",
    "paginas": [
     "https://www.anbima.com.br/pt_br/autorregular/codigos/distribuicao-de-produtos-de-investimento.htm"
@@ -1484,9 +1512,23 @@
   },
   {
    "titulo": "Código de Ofertas Públicas (vigente a partir de 15.07.2024)",
+   "url": "https://www.anbima.com.br/data/files/FB/35/C3/F1/064E1A103AD8EA1A692BA2A8/Codigo_de_Ofertas_Publicas_04_01_2027.PDF",
+   "arquivo": "Codigo_de_Ofertas_Publicas_04_01_2027.PDF",
+   "situacao": "vigente",
+   "vigente_desde": "2027-01-04",
+   "paginas": [
+    "https://www.anbima.com.br/pt_br/autorregular/codigos/ofertas-publicas/ofertas-publicas.htm"
+   ],
+   "tipo": "codigo",
+   "formato": "pdf",
+   "bytes": 559358,
+   "last_modified": "Mon, 16 Nov 2026 12:41:07 GMT"
+  },
+  {
+   "titulo": "Código de Ofertas Públicas (vigente a partir de 15.07.2024)",
    "url": "https://www.anbima.com.br/data/files/70/52/EA/7B/7AC9091039E04909EA2BA2A8/4.%20Codigo%20de%20Ofertas_08_07_2024%20_publicar_%20_1_.PDF",
    "arquivo": "4. Codigo de Ofertas_08_07_2024 _publicar_ _1_.PDF",
-   "situacao": "vigente",
+   "situacao": "anterior",
    "vigente_desde": "2024-07-15",
    "paginas": [
     "https://www.anbima.com.br/pt_br/autorregular/codigos/ofertas-publicas/ofertas-publicas.htm"
@@ -1498,9 +1540,23 @@
   },
   {
    "titulo": "Código de Serviços Qualificados (vigente a partir de 23.03.2026)",
+   "url": "https://www.anbima.com.br/data/files/22/D1/5C/D4/574E1A103AD8EA1A692BA2A8/Codigo_SQ_04_01_2027.PDF",
+   "arquivo": "Codigo_SQ_04_01_2027.PDF",
+   "situacao": "vigente",
+   "vigente_desde": "2027-01-04",
+   "paginas": [
+    "https://www.anbima.com.br/pt_br/autorregular/codigos/servicos-qualificados.htm"
+   ],
+   "tipo": "codigo",
+   "formato": "pdf",
+   "bytes": 670345,
+   "last_modified": "Mon, 16 Nov 2026 13:04:15 GMT"
+  },
+  {
+   "titulo": "Código de Serviços Qualificados (vigente a partir de 23.03.2026)",
    "url": "https://www.anbima.com.br/data/files/ED/A1/33/BE/4D4BC91023A089C9F82BA2A8/Codigo_SQ_v_19_02_2026%20-%20assinado.pdf",
    "arquivo": "Codigo_SQ_v_19_02_2026 - assinado.pdf",
-   "situacao": "vigente",
+   "situacao": "anterior",
    "vigente_desde": "2026-03-23",
    "paginas": [
     "https://www.anbima.com.br/pt_br/autorregular/codigos/servicos-qualificados.htm"
@@ -1596,9 +1652,26 @@
   },
   {
    "titulo": "Glossário ANBIMA",
+   "url": "https://www.anbima.com.br/data/files/0E/73/07/23/194E1A103AD8EA1A692BA2A8/Glossario_04_01_2027.PDF",
+   "arquivo": "Glossario_04_01_2027.PDF",
+   "situacao": "vigente",
+   "vigente_desde": null,
+   "paginas": [
+    "https://www.anbima.com.br/pt_br/autorregular/codigos/administracao-de-recursos-de-terceiros.htm",
+    "https://www.anbima.com.br/pt_br/autorregular/codigos/distribuicao-de-produtos-de-investimento.htm",
+    "https://www.anbima.com.br/pt_br/autorregular/codigos/ofertas-publicas/ofertas-publicas.htm",
+    "https://www.anbima.com.br/pt_br/autorregular/codigos/servicos-qualificados.htm"
+   ],
+   "tipo": "glossario",
+   "formato": "pdf",
+   "bytes": 821361,
+   "last_modified": "Mon, 16 Nov 2026 13:34:43 GMT"
+  },
+  {
+   "titulo": "Glossário ANBIMA",
    "url": "https://www.anbima.com.br/data/files/E7/72/96/DC/1D5F8910C03A3F89B82BA2A8/Glossario_ANBIMA_v_25_08_2025.pdf",
    "arquivo": "Glossario_ANBIMA_v_25_08_2025.pdf",
-   "situacao": "vigente",
+   "situacao": "anterior",
    "vigente_desde": null,
    "paginas": [
     "https://www.anbima.com.br/pt_br/autorregular/codigos/administracao-de-recursos-de-terceiros.htm",
@@ -1880,9 +1953,26 @@
   },
   {
    "titulo": "Regras e Procedimentos de Deveres Básicos (vigente a partir de 31.03.2025)",
+   "url": "https://www.anbima.com.br/data/files/31/84/E4/A8/494E1A103AD8EA1A692BA2A8/RP_de_Deveres_Basicos_04_01_2027.PDF",
+   "arquivo": "RP_de_Deveres_Basicos_04_01_2027.PDF",
+   "situacao": "vigente",
+   "vigente_desde": "2027-01-04",
+   "paginas": [
+    "https://www.anbima.com.br/pt_br/autorregular/codigos/administracao-de-recursos-de-terceiros.htm",
+    "https://www.anbima.com.br/pt_br/autorregular/codigos/distribuicao-de-produtos-de-investimento.htm",
+    "https://www.anbima.com.br/pt_br/autorregular/codigos/ofertas-publicas/ofertas-publicas.htm",
+    "https://www.anbima.com.br/pt_br/autorregular/codigos/servicos-qualificados.htm"
+   ],
+   "tipo": "regras-procedimentos",
+   "formato": "pdf",
+   "bytes": 598795,
+   "last_modified": "Mon, 16 Nov 2026 13:38:22 GMT"
+  },
+  {
+   "titulo": "Regras e Procedimentos de Deveres Básicos (vigente a partir de 31.03.2025)",
    "url": "https://www.anbima.com.br/data/files/61/B3/06/B3/EBEA591036202959B82BA2A8/6.%20Regras%20e%20Procedimentos%20de%20Deveres%20Basicos_v_25_02_2025.pdf",
    "arquivo": "6. Regras e Procedimentos de Deveres Basicos_v_25_02_2025.pdf",
-   "situacao": "vigente",
+   "situacao": "anterior",
    "vigente_desde": "2025-03-31",
    "paginas": [
     "https://www.anbima.com.br/pt_br/autorregular/codigos/administracao-de-recursos-de-terceiros.htm",
@@ -1897,9 +1987,23 @@
   },
   {
    "titulo": "Regras e Procedimentos de Ofertas Públicas (vigente a partir de 24.03.2025)",
+   "url": "https://www.anbima.com.br/data/files/3D/F7/C9/05/364E1A103AD8EA1A692BA2A8/RP_de_Ofertas_Publicas_04_01_2027.PDF",
+   "arquivo": "RP_de_Ofertas_Publicas_04_01_2027.PDF",
+   "situacao": "vigente",
+   "vigente_desde": "2027-01-04",
+   "paginas": [
+    "https://www.anbima.com.br/pt_br/autorregular/codigos/ofertas-publicas/ofertas-publicas.htm"
+   ],
+   "tipo": "regras-procedimentos",
+   "formato": "pdf",
+   "bytes": 5660136,
+   "last_modified": "Mon, 16 Nov 2026 12:44:36 GMT"
+  },
+  {
+   "titulo": "Regras e Procedimentos de Ofertas Públicas (vigente a partir de 24.03.2025)",
    "url": "https://www.anbima.com.br/data/files/EE/64/2B/92/7E7359100DBB7359B82BA2A8/Regras%20e%20Procedimentos_Codigo%20de%20Ofertas_v_publicar.pdf",
    "arquivo": "Regras e Procedimentos_Codigo de Ofertas_v_publicar.pdf",
-   "situacao": "vigente",
+   "situacao": "anterior",
    "vigente_desde": "2025-03-24",
    "paginas": [
     "https://www.anbima.com.br/pt_br/autorregular/codigos/ofertas-publicas/ofertas-publicas.htm"
@@ -1911,9 +2015,23 @@
   },
   {
    "titulo": "Regras e Procedimentos do Código de Administração e Gestão de Recursos (vigente a partir de 23.03.2026)",
+   "url": "https://www.anbima.com.br/data/files/1A/23/1A/7A/454E1A103AD8EA1A692BA2A8/RP_de_AGRT_16_11_2026_.pdf",
+   "arquivo": "RP_de_AGRT_16_11_2026_.pdf",
+   "situacao": "vigente",
+   "vigente_desde": "2027-01-04",
+   "paginas": [
+    "https://www.anbima.com.br/pt_br/autorregular/codigos/administracao-de-recursos-de-terceiros.htm"
+   ],
+   "tipo": "regras-procedimentos",
+   "formato": "pdf",
+   "bytes": 5113377,
+   "last_modified": "Mon, 16 Nov 2026 12:28:35 GMT"
+  },
+  {
+   "titulo": "Regras e Procedimentos do Código de Administração e Gestão de Recursos (vigente a partir de 23.03.2026)",
    "url": "https://www.anbima.com.br/data/files/29/64/2F/89/0CD1E9104E6450E9BA2BA2A8/Regras%20e%20Procedimentos_%20AGRT_v_23.03.2026%20-%20assinado.pdf",
    "arquivo": "Regras e Procedimentos_ AGRT_v_23.03.2026 - assinado.pdf",
-   "situacao": "vigente",
+   "situacao": "anterior",
    "vigente_desde": "2026-03-23",
    "paginas": [
     "https://www.anbima.com.br/pt_br/autorregular/codigos/administracao-de-recursos-de-terceiros.htm"
@@ -1925,9 +2043,23 @@
   },
   {
    "titulo": "Regras e Procedimentos do Código de Distribuição (vigente a partir de 22.09.2025)",
+   "url": "https://www.anbima.com.br/data/files/0F/C1/77/F1/D54E1A103AD8EA1A692BA2A8/RP_de_Distribuicao_04_01_2027.PDF",
+   "arquivo": "RP_de_Distribuicao_04_01_2027.PDF",
+   "situacao": "vigente",
+   "vigente_desde": "2027-01-04",
+   "paginas": [
+    "https://www.anbima.com.br/pt_br/autorregular/codigos/distribuicao-de-produtos-de-investimento.htm"
+   ],
+   "tipo": "regras-procedimentos",
+   "formato": "pdf",
+   "bytes": 1701128,
+   "last_modified": "Mon, 16 Nov 2026 12:37:50 GMT"
+  },
+  {
+   "titulo": "Regras e Procedimentos do Código de Distribuição (vigente a partir de 22.09.2025)",
    "url": "https://www.anbima.com.br/data/files/22/83/75/1F/28EB8910F5991A89EA2BA2A8/RP_Distribuicao_22_09_2025_1_.pdf",
    "arquivo": "RP_Distribuicao_22_09_2025_1_.pdf",
-   "situacao": "vigente",
+   "situacao": "anterior",
    "vigente_desde": "2025-09-22",
    "paginas": [
     "https://www.anbima.com.br/pt_br/autorregular/codigos/distribuicao-de-produtos-de-investimento.htm"
@@ -1967,9 +2099,23 @@
   },
   {
    "titulo": "Regras e Procedimentos do Código de Serviços Qualificados (vigente a partir de 23.03.2026)",
+   "url": "https://www.anbima.com.br/data/files/2E/E2/0E/5D/674E1A103AD8EA1A692BA2A8/RP_de_SQ_04_01_2027.PDF",
+   "arquivo": "RP_de_SQ_04_01_2027.PDF",
+   "situacao": "vigente",
+   "vigente_desde": "2027-01-04",
+   "paginas": [
+    "https://www.anbima.com.br/pt_br/autorregular/codigos/servicos-qualificados.htm"
+   ],
+   "tipo": "regras-procedimentos",
+   "formato": "pdf",
+   "bytes": 658741,
+   "last_modified": "Mon, 16 Nov 2026 13:05:55 GMT"
+  },
+  {
+   "titulo": "Regras e Procedimentos do Código de Serviços Qualificados (vigente a partir de 23.03.2026)",
    "url": "https://www.anbima.com.br/data/files/9D/33/66/F8/9D4BC91023A089C9F82BA2A8/Regras_e_Procedimentos_SQ_19_02_2026%20-%20assinado.pdf",
    "arquivo": "Regras_e_Procedimentos_SQ_19_02_2026 - assinado.pdf",
-   "situacao": "vigente",
+   "situacao": "anterior",
    "vigente_desde": "2026-03-23",
    "paginas": [
     "https://www.anbima.com.br/pt_br/autorregular/codigos/servicos-qualificados.htm"

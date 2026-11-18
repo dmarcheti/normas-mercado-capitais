@@ -7,6 +7,7 @@ Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho rel
 
 | Processo | Data | Resultado | Ementa | Id | Ficha |
 |---|---|---|---|---|---|
+| 19957.012115/2025-32 | 2026-08-04 | rejeitado | O Colegiado rejeitou, acompanhando o parecer do Comitê, as propostas de termo de compromisso de quatro proponentes em PAS por manipulação… | cvm-col-20260804-d3497 | fichas/tc/2026-02.md |
 | 19957.001449/2022-38 | 2026-07-21 | aceito | O Colegiado, acompanhando o Comitê, aceitou proposta conjunta da XP e de um diretor (R$ 1.485.000,00 à CVM, além de comprovar indenização… | cvm-col-20260721-d3295 | fichas/tc/2026-02.md |
 | 19957.009587/2025-16 | 2026-06-23 | aceito | O Colegiado aceitou proposta conjunta de dois diretores da Braskem, nos termos ajustados pelo Comitê: R$ 510.000,00 e R$ 255.000,00… | cvm-col-20260623-d3553 | fichas/tc/2026-02.md |
 | 19957.011252/2025-50 | 2026-06-23 | rejeitado | O Colegiado, acompanhando o Comitê, rejeitou proposta de termo de compromisso de R$ 150.000,00 apresentada pela diretora financeira de uma… | cvm-col-20260623-d3533 | fichas/tc/2026-02.md |

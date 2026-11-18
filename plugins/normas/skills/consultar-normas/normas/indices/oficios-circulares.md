@@ -22,6 +22,7 @@ Por pasta da CVM (superintendência), do mais recente ao mais antigo. A CVM não
 
 | Ofício | Data | Assunto | Situação | Texto |
 |---|---|---|---|---|
+| Ofício Circular CVM/SEP 07/26 | 2026-11-16 | Prorrogação excepcional do prazo de apresentação do Formulário de Informações Trimestrais – ITR | não informada pela CVM | cvm/oficios-circulares/sep/oc-sep-0726.md |
 | Ofício Circular CVM/SEP 06/26 | 2026-09-02 | Novo quadro 6.1/2 (Controle e grupo econômico - Posição acionária) do Formulário de Referência (FRE). | não informada pela CVM | cvm/oficios-circulares/sep/oc-sep-0626.md |
 | Ofício Circular CVM/SEP 05/26 | 2026-08-19 | Alterações nos Formulários de Informações Trimestrais (ITR) e de Demonstrações Financeiras Padronizadas (DFP). | não informada pela CVM | cvm/oficios-circulares/sep/oc-sep-0526.md |
 | Ofício Circular CVM/SEP 04/26 | 2026-07-10 | Orientações às entidades administradoras de mercados organizados para pedidos de migração de registro de companhia aberta registrada para a condição de companhias de menor porte (CMP). | não informada pela CVM | cvm/oficios-circulares/sep/oc-sep-0426.md |
@@ -672,6 +673,7 @@ Por pasta da CVM (superintendência), do mais recente ao mais antigo. A CVM não
 
 | Ofício | Data | Assunto | Situação | Texto |
 |---|---|---|---|---|
+| Ofício Circular Conjunto CVM/SNC/SSE/SIN N° 01/26 | 2026-11-16 | Interpretação do art. 69 da Parte Geral da Resolução CVM nº 175 - demonstrações contábeis de fundos e classes em atividade há menos de 90 dias. | não informada pela CVM | cvm/oficios-circulares/sse-sin-snc/oc-snc-sse-sin-0126.md |
 | Ofício Circular Conjunto CVM/SNC/SSE/SIN N° 01/25 | 2025-01-24 | Orientações gerais sobre a elaboração das demonstrações contábeis dos fundos de investimento e das classes de cotas, em relação à vigência da Resolução CVM 175/22. | não informada pela CVM | cvm/oficios-circulares/sse-sin-snc/oc-snc-sse-sin-0125.md |
 
 ## SSE1 (`sse1`)

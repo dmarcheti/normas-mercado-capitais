@@ -40,7 +40,7 @@ Este subíndice tem 591 linhas e uma leitura única é cortada em silêncio pert
 
 | Tipo | Processo | Data | Resultado | Ementa | Id | Ficha |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | O Colegiado indeferiu pedidos de interrupção do prazo de convocação e de adiamento da AGE do Grupo Toky S.A. - Em Recuperação Judicial… | cvm-col-20261103-d3649 | fichas/colegiado/2026-03.md |
+| decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | O Colegiado indeferiu pedidos de interrupção do prazo de convocação e de adiamento da AGE do Grupo Toky S.A. - Em Recuperação Judicial… | cvm-col-20261103-d3649 | fichas/colegiado/2026-04.md |
 | decisao-colegiado | 19957.015113/2026-86 | 2026-09-18 | indeferido | O Colegiado, acompanhando a SEP, indeferiu, por unanimidade, pedidos intempestivos de acionistas de interrupção e adiamento do prazo de… | cvm-col-20260918-d3619 | fichas/colegiado/2026-03.md |
 | decisao-colegiado | 19957.014651/2026-53; 19957.014659/2026-10 | 2026-09-11 | indeferido | Acompanhando a SEP, o Colegiado, por unanimidade, indeferiu pedidos de interrupção do prazo de convocação e de novo adiamento da AGE da… | cvm-col-20260911-d3611 | fichas/colegiado/2026-03.md |
 | decisao-colegiado | 19957.012499/2026-74 | 2026-07-28 | deferido | Acompanhando a SEP, o Colegiado, por unanimidade, deferiu o adiamento da AGE da EMAE, convocada para 30.07.2026, por 30 dias após a entrega… | cvm-col-20260728-d3586 | fichas/colegiado/2026-03.md |

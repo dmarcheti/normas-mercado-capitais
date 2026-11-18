@@ -3,7 +3,7 @@ id: anbima-codigo-de-ofertas-publicas
 orgao: anbima
 tipo: codigo-autorregulacao
 numero:
-data: 2024-07-15
+data: 2027-01-04
 publicacao_dou:
 ementa: Código de Ofertas Públicas
 situacao: vigente
@@ -11,82 +11,88 @@ versao_texto: original
 vigente_ate_ato:
 aguarda_consolidado_oficial: false
 historico_parcial: true
-fonte_original: https://www.anbima.com.br/data/files/70/52/EA/7B/7AC9091039E04909EA2BA2A8/4.%20Codigo%20de%20Ofertas_08_07_2024%20_publicar_%20_1_.PDF
-fonte_consolidada: https://www.anbima.com.br/data/files/70/52/EA/7B/7AC9091039E04909EA2BA2A8/4.%20Codigo%20de%20Ofertas_08_07_2024%20_publicar_%20_1_.PDF
-sha256_fonte: 74042200d9f30a94f02ddb34687ebd6045d2291dfba8fea62c00767ce8d10d53
-baixado_em: 2026-10-29
-verificado_em: 2026-10-29
-incerteza: Documento de autorregulação da ANBIMA (vigente a partir de 2024-07-15, segundo a página da entidade), extraído por script do PDF, data-base 2026-10-29. Vincula só as instituições aderentes ou participantes. Texto de titularidade da ANBIMA, reproduzido para uso informativo; retirado a pedido (ver autorregulacao/README.md). Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A página final de registro das assinaturas eletrônicas do PDF (nomes, e-mails, IP e localização dos signatários) foi retirada; a validação das assinaturas é feita no PDF oficial.
+fonte_original: https://www.anbima.com.br/data/files/FB/35/C3/F1/064E1A103AD8EA1A692BA2A8/Codigo_de_Ofertas_Publicas_04_01_2027.PDF
+fonte_consolidada: https://www.anbima.com.br/data/files/FB/35/C3/F1/064E1A103AD8EA1A692BA2A8/Codigo_de_Ofertas_Publicas_04_01_2027.PDF
+sha256_fonte: 66c76a9095685317d5a78abb63eacd304aaf57135634912868c3c1410f0e35ab
+baixado_em: 2026-11-18
+verificado_em: 2026-11-18
+incerteza: Documento de autorregulação da ANBIMA (vigente a partir de 2027-01-04, segundo a página da entidade), extraído por script do PDF, data-base 2026-11-18. Vincula só as instituições aderentes ou participantes. Texto de titularidade da ANBIMA, reproduzido para uso informativo; retirado a pedido (ver autorregulacao/README.md). Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A página final de registro das assinaturas eletrônicas do PDF (nomes, e-mails, IP e localização dos signatários) foi retirada; a validação das assinaturas é feita no PDF oficial.
 nivel_verificacao: pdf-extraido
 ---
 
+1
+
 Sumário
 
-INTRODUÇÃO ........................................................................................................................... 3
+INTRODUÇÃO ...................................................................................................................... 4
 
-TÍTULO I – DISPOSIÇÕES GERAIS .............................................................................................. 4
+TÍTULO I – DISPOSIÇÕES GERAIS .......................................................................................... 5
 
-CAPÍTULO I – OBJETIVO E ABRANGÊNCIA ................................................................................ 4
+CAPÍTULO I – OBJETIVO E ABRANGÊNCIA ............................................................................. 5
 
-CAPÍTULO II – ASSOCIAÇÃO E ADESÃO AO CÓDIGO ................................................................ 8
+CAPÍTULO II – ASSOCIAÇÃO E ADESÃO AO CÓDIGO ............................................................ 10
 
 TÍTULO II – PRINCÍPIOS E CONDUTAS GERAIS PARA ESTRUTURAÇÃO, COORDENAÇÃO E
 
-DISTRIBUIÇÃO DE OFERTAS PÚBLICAS ..................................................................................... 9
+DISTRIBUIÇÃO DE OFERTAS PÚBLICAS ............................................................................... 10
 
-CAPÍTULO III – PRINCÍPIOS GERAIS DE CONDUTA ................................................................... 9
+CAPÍTULO III – PRINCÍPIOS GERAIS DE CONDUTA ............................................................... 10
 
-TÍTULO III – DAS OFERTAS PÚBLICAS ..................................................................................... 10
+TÍTULO III – DAS OFERTAS PÚBLICAS .................................................................................. 12
 
-CAPÍTULO IV – OFERTA PÚBLICA DE RENDA FIXA .................................................................. 10
+CAPÍTULO IV – OFERTA PÚBLICA DE RENDA FIXA ............................................................... 12
 
-CAPÍTULO V – OFERTA PÚBLICA DE RENDA VARIÁVEL .......................................................... 11
+CAPÍTULO V – OFERTA PÚBLICA DE RENDA VARIÁVEL ........................................................ 12
 
-CAPÍTULO VI – OFERTA PÚBLICA DE SECURITIZAÇÃO ........................................................... 11
+CAPÍTULO VI – OFERTA PÚBLICA DE SECURITIZAÇÃO ......................................................... 13
 
-CAPÍTULO VII – OFERTA PÚBLICA DE FUNDOS DE INVESTIMENTO ....................................... 11
+CAPÍTULO VII – OFERTA PÚBLICA DE FUNDOS DE INVESTIMENTO ...................................... 13
 
 TÍTULO IV – DAS ATIVIDADES DE PRESTAÇÃO DE SERVIÇOS PARA OFERTA PÚBLICA ........... 13
 
-CAPÍTULO VIII – COORDENADOR DE OFERTAS PÚBLICAS ..................................................... 13
+CAPÍTULO VIII – COORDENADOR DE OFERTAS PÚBLICAS .................................................... 14
 
-CAPÍTULO IX – COMPANHIA SECURITIZADORA ..................................................................... 13
+CAPÍTULO IX – COMPANHIA SECURITIZADORA .................................................................. 14
 
-CAPÍTULO X – AGENTE FIDUCIÁRIO ....................................................................................... 13
+CAPÍTULO X – AGENTE FIDUCIÁRIO .................................................................................... 14
 
-CAPÍTULO XI – AGENTE DE NOTAS ......................................................................................... 14
+CAPÍTULO XI – AGENTE DE NOTAS ..................................................................................... 15
 
-TÍTULO V – DISPOSIÇÕES GERAIS ........................................................................................... 15
+TÍTULO V – DISPOSIÇÕES GERAIS ....................................................................................... 16
 
-CAPÍTULO XII – PUBLICIDADE ................................................................................................. 15
+CAPÍTULO XII – PUBLICIDADE............................................................................................. 16
 
-CAPÍTULO XIII – DOCUMENTOS DA OFERTA .......................................................................... 15
+CAPÍTULO XIII – DOCUMENTOS DA OFERTA, EMISSÃO E DEMAIS INFORMAÇÕES DERIVADAS16
 
-CAPÍTULO XIV – REGISTRO DAS OFERTAS PÚBLICAS ............................................................. 15
+CAPÍTULO XIV – REGISTRO DAS OFERTAS PÚBLICAS ........................................................... 17
 
-CAPÍTULO XV – CLASSIFICAÇÃO DAS OFERTAS ..................................................................... 15
+CAPÍTULO XV – CLASSIFICAÇÃO DAS OFERTAS ................................................................... 17
 
-CAPÍTULO XVI – ENVIO DE INFORMAÇÕES PARA A BASE DE DADOS .................................... 16
+CAPÍTULO XVI – ENVIO DE INFORMAÇÕES PARA O BANCO DE DADOS ............................... 17
 
-CAPÍTULO VII – TAXAS ............................................................................................................ 16
+CAPÍTULO XVII – TAXAS ..................................................................................................... 18
 
-CAPÍTULO XVIII – PENALIDADES ............................................................................................. 17
-
-CAPÍTULO XIX – DISPOSIÇÕES FINAIS .................................................................................... 18
+CAPÍTULO XVIII – POLÍTICAS, REGRAS, PROCEDIMENTOS E CONTROLES INTERNOS ............ 18
 
 2
 
+CAPÍTULO XIX – PENALIDADES ........................................................................................... 20
+
+CAPÍTULO XX – DISPOSIÇÕES FINAIS .................................................................................. 21
+
+3
+
 INTRODUÇÃO
 
-Este Código, aprovado pela Diretoria da ANBIMA, dispõe sobre as atividades de estruturação,
+Este Código, aprovado pela Diretoria da Anbima, dispõe sobre as atividades de estruturação,
 
-coordenação e Distribuição de Ofertas Públicas de valores mobiliários.
+coordenação e distribuição de Ofertas Públicas de Valores Mobiliários.
 
 O presente Código, de natureza principiológica, prevê todos os temas relativos às atividades acima
 
-referidas que a Diretoria autoriza que o Fórum de Estruturação de Mercado de Capitais
+referidas que a Diretoria autoriza que o Fórum de Estruturação de Mercado de Capitais autorregule
 
-autorregule por meio de Regras e Procedimentos.
+por meio de Regras e Procedimentos.
 
 As referidas Regras e Procedimentos, assim como seus anexos, são documentos complementares
 
@@ -94,11 +100,13 @@ deste Código e devem ser observados pelas instituições que optarem por seguir
 
 autorregulação nele presentes.
 
-A ANBIMA, autorreguladora privada, tem competência para supervisionar apenas o disposto
+A Anbima, autorreguladora privada, tem competência para supervisionar apenas o disposto
 
 expressamente neste Código e nas referidas Regras e Procedimentos, não estendendo, portanto,
 
-sua atuação às regras previstas nas normas regulatórias1. No decorrer do Código, fazemos
+sua atuação às regras previstas nas normas regulatórias1
+
+. No decorrer do Código, fazemos
 
 referência ao termo “regulação” tão somente para fins educacionais e de modo não exaustivo,
 
@@ -114,7 +122,7 @@ significados a eles atribuídos no Glossário ANBIMA, disponível no site da Ass
 
 1 Tais como Leis e Resoluções da CVM e do BCB.
 
-3
+4
 
 TÍTULO I – DISPOSIÇÕES GERAIS
 
@@ -124,31 +132,37 @@ CAPÍTULO I – OBJETIVO E ABRANGÊNCIA
 
 . O presente Código tem por objetivo estabelecer princípios e regras para a estruturação,
 
-coordenação e Distribuição de Ofertas Públicas de valores mobiliários visando promover,
+coordenação e distribuição de Ofertas Públicas de Valores Mobiliários visando promover,
 
 principalmente:
 
 I. A proteção dos interesses do público investidor;
 
-II. A eficiência, a transparência e o desenvolvimento do mercado de valores mobiliários;
+II. A eficiência, a transparência e o desenvolvimento do mercado de Valores Mobiliários;
 
-III. A manutenção dos mais elevados padrões éticos e a consagração da institucionalização
+III. A manutenção dos mais elevados padrões éticos e a consagração da institucionalização de
 
-de práticas equitativas nos mercados financeiro e de capitais;
+práticas equitativas nos mercados financeiro e de capitais;
 
 IV. A concorrência leal;
 
 V. A padronização de seus procedimentos; e
 
-VI. A maior qualidade e disponibilidade de informações, especialmente por meio do envio
+VI. A maior qualidade e disponibilidade de informações, especialmente por meio do envio de
 
-de dados pelas Instituições Participantes à ANBIMA.
+dados pelas Instituições Participantes à Anbima.
 
-Parágrafo único. Os termos e expressões utilizados no presente Código, quando aplicável,
+§1º. Os termos e expressões utilizados no presente Código, quando aplicável, terão os
 
-terão os respectivos significados a eles atribuídos no Glossário ANBIMA, disponível no site da
+respectivos significados a eles atribuídos no Glossário ANBIMA, disponível no site da Associação.
 
-Associação.
+§2º. O disposto no presente Código e suas Regras e Procedimentos devem, sem prejuízo de
+
+disposições específicas, ser interpretado à luz dos princípios estabelecidos neste artigo, sendo
+
+vedadas ações por parte das Instituições Participantes que possam descumprir resultados
+
+pretendidos neste artigo.
 
 ## Art. 2º
 
@@ -156,9 +170,11 @@ Estão sujeitos(as) ao disposto neste Código:
 
 I. Os Coordenadores;
 
-II. Os agentes fiduciários;
+5
 
-III. Os agentes de notas;
+II. Os agentes Fiduciários;
+
+III. Os agentes de Notas;
 
 IV. As Securitizadoras;
 
@@ -166,13 +182,11 @@ V. Os Gestores de Recursos e os Administradores Fiduciários quando atuarem na
 
 coordenação de Ofertas Públicas de Distribuição de Fundos Fechados por eles geridos ou
 
-4
-
-VI. administrados, conforme o caso, nos termos permitidos pela CVM, observado o disposto
+administrados, conforme o caso, nos termos permitidos pela CVM, observado o disposto
 
 no §1º, abaixo; e
 
-Todas as Ofertas Públicas de valores mobiliários, exceto as previstas no §4º deste artigo.
+VI. Todas as Ofertas Públicas de Valores Mobiliários, exceto as previstas no §5º deste artigo.
 
 §1º. Os Gestores de Recursos e os Administradores Fiduciários de que trata o inciso V do
 
@@ -182,41 +196,53 @@ no que couber, e ao Anexo VII, que trata das Regras e Procedimentos para as Ofer
 
 cotas de Fundos Fechados.
 
-§2º. Sem prejuízo do disposto nos incisos IV e V do caput, as Securitizadoras e os Gestores
+§2º. Sem prejuízo do disposto nos incisos IV e V do caput, as Securitizadoras e os Gestores de
 
-de Recursos e Administradores Fiduciários que atuarem na atividade de Distribuição de Produtos
+Recursos e Administradores Fiduciários que atuarem na atividade de Distribuição de Produtos de
 
-de Investimento de sua própria emissão nos termos permitidos pela CVM, devem observar o
+Investimento de sua própria emissão nos termos permitidos pela CVM, devem observar o disposto
 
-disposto no Código de Distribuição, conforme aplicável.
+no Código de Distribuição, conforme aplicável.
 
-§3º. Não obstante a obrigação descrita no §2º acima, na hipótese de descumprimento
+§3º. A atividade de distribuição de que trata este Código refere-se exclusivamente às
 
-deste Código por:
+atividades desempenhadas pelos coordenadores de Ofertas Públicas, incluindo relações dos
 
-I. Securitizadoras, a ANBIMA procederá com a organismos de supervisão deste
+coordenadores com os distribuidores, conforme disposto na regulação vigente, excetuado o
 
-Código, nos termos do Código dos Processos;
+disposto no parágrafo acima, e não se confunde com as regras de Distribuição de Produtos de
 
-II. Gestores e/ou Administradores de Recursos, não obrigados a aderir
+Investimento previstas no Código de Distribuição.
 
-formalmente este Código, a ANBIMA procederá com a os organismos de
+§4º. Não obstante a obrigação descrita no §2º acima, na hipótese de descumprimento deste
 
-supervisão do Código AGRT, nos termos do Código dos Processos.
+Código e suas Regras e Procedimentos por:
 
-§4º. Não estão sujeitas a este Código as Ofertas de valores mobiliários com as seguintes
+6
 
-características:
+I. II. Securitizadoras, a Anbima procederá com os organismos de supervisão deste Código, nos
 
-I. II. Iniciais e subsequentes de cotas de Fundos Fechados exclusivos;
+termos do Código dos Processos;
 
-Subsequentes de cotas de Fundos Fechados destinada exclusivamente a cotistas do
+Gestores e/ou Administradores de Recursos, não obrigados a aderir formalmente a este
+
+Código, a Anbima procederá com os organismos de supervisão do Código AGRT, nos
+
+termos do Código dos Processos.
+
+§5º
+
+. Não estão sujeitas a este Código e suas Regras e Procedimentos as Ofertas de Valores
+
+Mobiliários com as seguintes características:
+
+I. II. III. IV. V. VI. VII. Iniciais e subsequentes de cotas de Fundos Fechados exclusivos;
+
+Subsequentes de cotas de Fundos Fechados destinadas exclusivamente a cotistas do
 
 próprio Fundo nos casos de Fundos ou Classes de cotas com menos de 100 (cem) cotistas
 
-5
-
-III. IV. V. VI. VII. VIII. IX. X. XI. XII. XIII. XIV. na data da Oferta Pública e cujas cotas não estejam admitidas à Negociação em mercado
+na data da Oferta Pública e cujas cotas não estejam admitidas à Negociação em mercado
 
 organizado;
 
@@ -226,21 +252,21 @@ pessoas naturais que prestem serviços ao emissor ou à empresa coligada, contro
 
 controladora do emissor e entidades sem fins lucrativos por ele mantidas;
 
-De lote único e indivisível de valores mobiliários destinado a um único investidor;
+De lote único e indivisível de Valores Mobiliários destinado a um único investidor;
 
-De valores mobiliários oferecidos por ocasião de permuta no âmbito de Oferta Pública
+De Valores Mobiliários oferecidos por ocasião de permuta no âmbito de Oferta Pública de
 
-de aquisição de ações;
+aquisição de ações;
 
-Iniciais ou subsequentes de valores mobiliários emitidos e admitidos à Negociação em
+Iniciais ou subsequentes de Valores Mobiliários emitidos e admitidos à Negociação em
 
-mercados organizados de valores mobiliários estrangeiros, com liquidação no exterior
+mercados organizados de valores Mobiliários estrangeiros, com liquidação no exterior em
 
-em moeda estrangeira, quando adquiridos por investidores profissionais residentes no
+moeda estrangeira, quando adquiridos por investidores profissionais residentes no Brasil por
 
-Brasil por meio de conta no exterior, sendo vedada a Negociação destes Ativos em
+meio de conta no exterior, sendo vedada a Negociação destes Ativos em Mercados
 
-Mercados Regulamentados de valores mobiliários no Brasil após a sua aquisição; e
+Regulamentados de Valores Mobiliários no Brasil após a sua aquisição;
 
 De ações de propriedade da União, Estados, Distrito Federal, municípios e demais
 
@@ -248,17 +274,19 @@ entidades da administração pública, que, cumulativamente:
 
 a. não objetive colocação junto ao público em geral; e
 
-b. seja realizada em leilão organizado por entidade administradora de Mercado
+7
+
+VIII. IX. X. XI. XII. XIII. XIV. XV. b. seja realizada em leilão organizado por entidade administradora de Mercado
 
 Organizado, nos termos da legislação que estabelece normas gerais sobre licitações
 
 e contratos administrativos;
 
-De Distribuição de valores mobiliários de emissão de sociedades empresárias de
+De Distribuição de Valores Mobiliários de emissão de sociedades empresárias de pequeno
 
-pequeno porte realizada com dispensa de registro da CVM por meio de plataforma
+porte realizada com dispensa de registro da CVM por meio de plataforma eletrônica de
 
-eletrônica de Investimento participativo;
+Investimento participativo;
 
 De Distribuição de COE e dos títulos de crédito de LF e LIG;
 
@@ -268,21 +296,39 @@ De contratos de investimento coletivo;
 
 De certificado de Investimento audiovisual;
 
-De certificado de potencial adicional de construção (CEPAC); e
+De certificado de potencial adicional de construção (CEPAC);
 
-De aquisição de ações (OPA).
+De aquisição de ações (OPA); e
 
-6
+Iniciais e subsequentes de Valores Mobiliários, realizados exclusivamente sob o regime de
+
+facilitação do acesso a capital e de incentivos à listagem, salvo se:
+
+a. ultrapassar-se o valor total de até R$ 300.000.000,00 (trezentos milhões de
+
+reais) a cada 12 (doze) meses, em uma ou mais operações, nos termos da
+
+regulação;
+
+b. optar-se por não utilizar as dispensas regulatórias de elaboração de prospecto
+
+previstas pelo regime; e/ou
+
+c. houver a contratação de coordenador líder.
 
 ## Art. 3º
 
-As Instituições Participantes devem assegurar que o presente Código seja também
+As Instituições Participantes devem assegurar que o presente Código e suas Regras e
 
-observado por todos os integrantes de seu Conglomerado ou Grupo Econômico que estejam
+Procedimentos sejam também observado por todos os integrantes de seu Conglomerado ou Grupo
 
-autorizados, no Brasil, a desempenhar o exercício profissional de estruturação, coordenação e
+Econômico que estejam autorizados, no Brasil, a desempenhar o exercício profissional de
 
-Distribuição de Ofertas Públicas de valores mobiliários.
+estruturação, coordenação e Distribuição de Ofertas Públicas de Valores Mobiliários, Agente
+
+Fiduciário, Agente de Notas e/ou Securitizadora.
+
+8
 
 Parágrafo único. A obrigação prevista no caput não implica o reconhecimento, por parte das
 
@@ -296,35 +342,35 @@ estejam sujeitas aos princípios estabelecidos pelo presente Código.
 
 . As Instituições Participantes submetidas à ação reguladora e fiscalizadora do CMN, do BCB
 
-e da CVM concordam expressamente que as atividades de estruturação, coordenação e
+e da CVM concordam expressamente que as atividades de estruturação, coordenação e Distribuição
 
-Distribuição de Ofertas Públicas de valores mobiliários excedem o limite de simples observância da
+de Ofertas Públicas de Valores Mobiliários, Agente Fiduciário, Agente de Notas e/ou Securitizadora
 
-regulação que lhes são aplicáveis, devendo, dessa forma, submeter-se também aos procedimentos
+excedem o limite de simples observância da regulação que lhes é aplicável, devendo, dessa forma,
 
-estabelecidos por este Código.
+submeter-se também aos procedimentos estabelecidos por este Código.
 
-Parágrafo único. O presente Código, assim como os demais Códigos ANBIMA, não se
+Parágrafo único. O presente Código, assim como os demais Códigos ANBIMA, não se sobrepõe
 
-sobrepõe à regulação vigente, portanto, caso haja contradição entre as regras estabelecidas neste
+à regulação vigente, portanto, caso haja contradição entre as regras estabelecidas neste Código e
 
-Código e nos demais Códigos ANBIMA e a regulação em vigor, a disposição contrária deste Código
+nos demais Códigos ANBIMA e a regulação em vigor, a disposição contrária deste Código e dos
 
-e dos Códigos ANBIMA deve ser desconsiderada, sem prejuízo das demais regras nele previstas.
+Códigos ANBIMA deve ser desconsiderada, sem prejuízo das demais regras nele previstas.
 
 ## Art. 5º
 
 Além dos deveres e responsabilidades atribuídos neste Código às Instituições Participantes
 
-que desempenham o exercício profissional de estruturação, coordenação e Distribuição de Ofertas
+que desempenham o exercício profissional de estruturação, coordenação, distribuição de Ofertas
 
-Públicas de valores mobiliários, serão aplicáveis, automaticamente, as disposições das Regras e
+Públicas de Valores Mobiliários, Agente Fiduciário, Agente de Notas e/ou Securitizadora, serão
 
-Procedimentos de Ofertas Públicas, conforme a(s) respectiva(s) atividade(s) desempenhada(s) por
+aplicáveis, automaticamente, as disposições das Regras e Procedimentos de Ofertas Públicas,
 
-cada Instituição Participante e as Ofertas Públicas objeto dessas atividades, conforme aplicável.
+conforme a(s) respectiva(s) atividade(s) desempenhada(s) por cada Instituição Participante e as
 
-7
+Ofertas Públicas objeto dessas atividades, conforme aplicável.
 
 Parágrafo único. Compete ao Fórum de Estruturação de Mercado de Capitais expedir as
 
@@ -332,29 +378,29 @@ Regras e Procedimentos de Ofertas Públicas aplicáveis às matérias de que tra
 
 capítulos deste Código, com exceção do Capítulo II, que competirá ao Conselho de Ética.
 
+9
+
 CAPÍTULO II – ASSOCIAÇÃO E ADESÃO AO CÓDIGO
 
 ## Art. 6º
 
-As instituições que desejarem se associar à ANBIMA ou aderir a este Código, deverão ter
+As instituições que desejarem se associar à Anbima ou aderir a este Código, deverão ter
 
 seus pedidos de associação ou adesão, conforme o caso, aprovados pelo Conselho de Ética,
 
-observadas as Regras e Procedimentos para Associação ou Adesão disponíveis no site da
+observadas as Regras e Procedimentos para Associação ou Adesão disponíveis no site da Associação.
 
-Associação.
+Parágrafo único. A adesão a este Código implica na obrigação da Instituição Participante em
 
-Parágrafo único. A adesão a este Código implica na obrigação da Instituição Participante
+observar, integralmente, as disposições:
 
-em observar, integralmente, as disposições:
+I. Do Código de Ética;
 
-II. III. I. Do Código de Ética;
+II. Do Código dos Processos;
 
-Do Código dos Processos; e
+III. Das Regras e Procedimentos de Deveres Básicos; e
 
-Das Regras e Procedimentos de Deveres Básicos.
-
-8
+IV. Das Regras e Procedimentos para Associação ou Adesão.
 
 TÍTULO II – PRINCÍPIOS E CONDUTAS GERAIS PARA ESTRUTURAÇÃO,
 
@@ -366,25 +412,29 @@ CAPÍTULO III – PRINCÍPIOS GERAIS DE CONDUTA
 
 . Além dos princípios éticos e de conduta previstos no Código de Ética, as Instituições
 
-Participantes devem:
+Participantes, no limite de suas respectivas atribuições, devem, no momento da Oferta Pública e,
 
-I. II. III. IV. V. VI. VII. Evitar quaisquer práticas que infrinjam ou estejam em conflito com os princípios
+quando atuarem na qualidade de Agente Fiduciário ou Securitizadora, durante a vigência da
 
-contidos neste Código, nas Regras e Procedimentos de Ofertas Públicas e na regulação
+emissão:
 
-em vigor;
+I. II. Evitar quaisquer práticas que infrinjam ou estejam em conflito com os princípios contidos
+
+neste Código, nas Regras e Procedimentos de Ofertas Públicas e na regulação em vigor;
 
 Adotar condutas compatíveis com os princípios de idoneidade moral e profissional;
 
-Exercer suas atividades com boa-fé, transparência, diligência e lealdade, cumprindo com
+10
 
-suas obrigações e empregando o cuidado que toda pessoa prudente e diligente costuma
+III. IV. V. VI. VII. VIII. IX. Exercer suas atividades com boa-fé, transparência, diligência, integridade e lealdade,
 
-dispensar à administração de seus próprios negócios, respondendo por quaisquer
+cumprindo com suas obrigações e empregando o cuidado que toda pessoa prudente e
 
-infrações ou irregularidades que venham a ser cometidas durante o período em que
+diligente costuma dispensar à administração de seus próprios negócios, respondendo por
 
-prestarem as atividades autorreguladas por este Código;
+quaisquer infrações ou irregularidades que venham a ser cometidas durante o período em
+
+que prestarem as atividades autorreguladas por este Código;
 
 Nortear a prestação de suas atividades pelos princípios da liberdade de iniciativa, da livre
 
@@ -398,31 +448,29 @@ princípios contidos neste Código;
 
 Buscar desenvolver suas atividades com vistas a incentivar o mercado secundário de
 
-valores mobiliários, respeitadas as características de cada Oferta Pública;
+Valores Mobiliários, respeitadas as características de cada Oferta Pública;
 
-Zelar pela veracidade e precisão das informações divulgadas no âmbito das Ofertas
+Zelar pela veracidade e precisão das informações divulgadas no âmbito das Ofertas Públicas:
 
-Públicas, disponibilizando informações necessárias, verdadeiras, consistentes, claras,
+a. disponibilizando informações necessárias, verdadeiras, consistentes, claras,
 
-precisas, atuais e suficientes para o correto entendimento sobre as condições das
+precisas, atuais e suficientes para o correto entendimento sobre as condições
 
-Ofertas, da emissora, devedora e/ou cedente do lastro, ofertantes, e/ou dos Ativos a
+das Ofertas, do Valor Mobiliário, da emissora, devedora e/ou cedente do lastro,
 
-serem adquiridos por Fundos de Investimento, conforme o caso;
+ofertantes, e/ou dos Ativos a serem adquiridos por Fundos de Investimento,
 
-9
+conforme o caso;
 
-VIII. IX. Utilizar as informações obtidas em razão de sua participação em Ofertas Públicas
+Utilizar as informações obtidas em razão de sua participação em Ofertas Públicas
 
 exclusivamente para os fins para os quais tenham sido contratadas; e
 
 Manter a confidencialidade das informações assim identificadas até a regular divulgação
 
-dos documentos da Oferta Pública e a que tiverem acesso em decorrência da
+dos documentos da Oferta Pública e a que tiverem acesso em decorrência da participação
 
-participação na Oferta Pública, comprometendo-se a não as utilizar fora dos termos da
-
-Oferta Pública.
+na Oferta Pública, comprometendo-se a não as utilizar fora dos termos da Oferta Pública.
 
 ## Art. 8º
 
@@ -434,11 +482,13 @@ Código e/ou das Regras e Procedimentos de Ofertas Públicas, mas também a não
 
 ou implementação inadequada de referidos procedimentos.
 
+11
+
 Parágrafo único. São evidências de implementação inadequada de procedimentos
 
 estabelecidos neste Código e/ou nas Regras e Procedimentos de Ofertas Públicas:
 
-I. II. A reiterada ocorrência de falhas não sanadas nos prazos estabelecidos; e
+I. II. A reiterada ocorrência de falhas, sejam elas operacionais ou estruturais; e
 
 A ausência de mecanismos ou evidências que demonstre a observância, pelas respectivas
 
@@ -454,13 +504,11 @@ CAPÍTULO IV – OFERTA PÚBLICA DE RENDA FIXA
 
 O presente Código e suas Regras e Procedimentos de Ofertas Públicas autorregulam as
 
-Ofertas Públicas de renda fixa de valores mobiliários destinadas a investidores em geral,
+Ofertas Públicas de renda fixa de Valores Mobiliários destinadas a investidores em geral,
 
 investidores qualificados e/ou investidores profissionais, assim como as informações que devem
 
-10
-
-constar nos documentos das respectivas Oferta Pública, nos termos definidos pela regulação em
+constar nos documentos das respectivas Ofertas Pública, nos termos definidos pela regulação em
 
 vigor.
 
@@ -470,13 +518,15 @@ CAPÍTULO V – OFERTA PÚBLICA DE RENDA VARIÁVEL
 
 O presente Código e suas Regras e Procedimentos de Ofertas Públicas autorregulam as
 
-Ofertas Púbicas de renda variável de valores mobiliários destinadas a investidores em geral,
+Ofertas Públicas de renda variável de Valores Mobiliários destinadas a investidores em geral,
 
 investidores qualificados e/ou investidores profissionais, assim como as informações que devem
 
 constar nos documentos das respectivas Ofertas Públicas, nos termos definidos pela regulação em
 
 vigor.
+
+12
 
 CAPÍTULO VI – OFERTA PÚBLICA DE SECURITIZAÇÃO
 
@@ -486,9 +536,9 @@ O presente Código e suas Regras e Procedimentos de Ofertas Públicas autorregul
 
 Ofertas Públicas de:
 
-I. II. Debêntures cujo pagamento seja primariamente condicionado ao recebimento de
+I. II. Debêntures cujo pagamento seja primariamente condicionado ao recebimento de recursos dos
 
-recursos dos Direitos Creditórios e demais bens, direitos e garantias que as lastreiam; e
+Direitos Creditórios e demais bens, direitos e garantias que as lastreiam; e
 
 CR, CRA e CRI, em ambos os casos destinadas a investidores em geral, investidores
 
@@ -510,8 +560,6 @@ qualificados e/ou investidores profissionais, assim como as informações que de
 
 documentos das respectivas Ofertas Públicas, nos termos definidos pela regulação em vigor.
 
-11
-
 §1º. Quaisquer Ofertas Públicas de Fundos de Investimento deverão observar a Parte Geral
 
 das Regras e Procedimentos de Ofertas Públicas.
@@ -522,11 +570,11 @@ Geral das Regras e Procedimentos de Ofertas Públicas e as Regras e Procedimento
 
 Oferta Pública de Fundos Fechados.
 
-12
-
 TÍTULO IV – DAS ATIVIDADES DE PRESTAÇÃO DE SERVIÇOS PARA
 
 OFERTA PÚBLICA
+
+13
 
 CAPÍTULO VIII – COORDENADOR DE OFERTAS PÚBLICAS
 
@@ -536,7 +584,11 @@ Os Coordenadores de Ofertas Públicas são instituições intermediárias signat
 
 contrato de distribuição na qualidade de Coordenadores e registradas na CVM nos termos de
 
-regulação específica.
+regulação específica, sem prejuízo das hipóteses em que Administradores Fiduciários e/ou Gestores
+
+de Recursos possam atuar na distribuição e/ou coordenação de ofertas de cotas de Fundos de
+
+Investimento, nos termos da regulação aplicável.
 
 CAPÍTULO IX – COMPANHIA SECURITIZADORA
 
@@ -546,7 +598,7 @@ A Securitizadora é companhia cujo objeto social consista na realização de ope
 
 securitização, registrada na CVM nos termos da regulação aplicável, e que seja:
 
-I. II. Emissora de Títulos de Securitização, com ou sem a instituição de regime fiduciário sobre
+I. II. Emissora de Títulos de securitização, com ou sem a instituição de regime fiduciário sobre
 
 o lastro; ou
 
@@ -562,17 +614,17 @@ CAPÍTULO X – AGENTE FIDUCIÁRIO
 
 O Agente Fiduciário pode ser nomeado, nas hipóteses previstas na regulação, para o
 
-exercício de suas atividades em relação a valores mobiliários ofertados publicamente ou admitidos
+exercício de suas atividades em relação a Valores Mobiliários ofertados publicamente ou admitidos
 
 à Negociação em Mercado Organizado, assim como em Ofertas Públicas de Distribuição de notas
 
 promissórias com prazo de vencimento superior a 360 (trezentos e sessenta) dias.
 
-13
-
 Parágrafo único. A nomeação do Agente Fiduciário e sua aceitação para o exercício de suas
 
 funções devem constar da escritura de emissão, do termo de securitização de Direitos Creditórios
+
+14
 
 ou do instrumento equivalente.
 
@@ -580,15 +632,15 @@ CAPÍTULO XI – AGENTE DE NOTAS
 
 ## Art. 16
 
-O Agente de Notas pode ser nomeado, nas hipóteses previstas na regulação, para o
+O Agente de Notas pode ser nomeado, nas hipóteses previstas na regulação, para o exercício
 
-exercício de suas atividades em relação às notas promissórias de curto prazo com prazo de
+de suas atividades em relação às notas promissórias de curto prazo com prazo de vencimento
 
-vencimento inferior a 360 (trezentos e sessenta) dias ofertadas publicamente ou admitidas à
+inferior a 360 (trezentos e sessenta) dias ofertadas publicamente ou admitidas à Negociação em
 
-Negociação em Mercado Organizado.
+Mercado Organizado.
 
-14
+15
 
 TÍTULO V – DISPOSIÇÕES GERAIS
 
@@ -600,29 +652,51 @@ Considera-se que foi dada publicidade a uma Oferta Pública quando for promovido
 
 qualquer meio ou forma, ato de comunicação que busque despertar interesse na subscrição ou na
 
-aquisição de determinados valores mobiliários ofertados ou a serem ofertados.
+aquisição de determinados Valores Mobiliários ofertados ou a serem ofertados.
 
-CAPÍTULO XIII – DOCUMENTOS DA OFERTA
+CAPÍTULO XIII – DOCUMENTOS DA OFERTA, EMISSÃO E DEMAIS
+
+INFORMAÇÕES DERIVADAS
 
 ## Art. 18
 
-As Instituições Participantes, no limite de suas competências, são responsáveis pelos
+As Instituições Participantes são responsáveis, nos limites de suas respectivas atribuições,
 
-documentos da Oferta Pública e devem tomar todas as cautelas e agir com elevados padrões de
+pelas informações, documentos e atos relacionados às atividades por elas desempenhadas no
 
-diligência, respondendo pela falta de diligência ou omissão, para assegurar que as informações
+âmbito da Oferta Pública, devendo atuar com elevados padrões de diligência para assegurar que as
 
-prestadas ao público investidor com relação à Oferta Pública são suficientes, verdadeiras, precisas,
+informações sob sua responsabilidade sejam suficientes, verdadeiras, precisas, consistentes e
 
-consistentes e atuais, permitindo aos investidores uma tomada de decisão fundamentada a
+atualizadas, de modo a permitir aos investidores a tomada de decisão fundamentada.
 
-respeito da Oferta Pública.
+§1º. No âmbito da Oferta Pública, as Instituições Participantes respondem, nos limites de
+
+suas respectivas atribuições, pelas informações, documentos e atos relacionados às atividades por
+
+elas desempenhadas, observadas as limitações de responsabilidade previstas na regulamentação
+
+aplicável e nos documentos da Oferta.
+
+§2º. Durante a vigência da emissão, as obrigações previstas neste artigo aplicam-se
+
+exclusivamente às Instituições Participantes que atuem como Agente Fiduciário, Securitizadora ou,
+
+nos termos das Regras e Procedimentos do Código de Ofertas Públicas, como Interveniente
+
+Fiduciário, em relação às informações, documentos e atos cuja elaboração, atualização, divulgação,
+
+monitoramento ou fiscalização lhes competirem em razão de suas atribuições legais, regulatórias
+
+ou contratuais.
+
+16
 
 CAPÍTULO XIV – REGISTRO DAS OFERTAS PÚBLICAS
 
 ## Art. 19
 
-As Ofertas Públicas devem ser registradas na ANBIMA nos termos previstos nas Regras e
+As Ofertas Públicas devem ser registradas na Anbima nos termos previstos nas Regras e
 
 Procedimentos de Ofertas Públicas.
 
@@ -632,25 +706,23 @@ CAPÍTULO XV – CLASSIFICAÇÃO DAS OFERTAS
 
 As Ofertas Públicas devem ser classificadas com base em critérios a serem estabelecidos
 
-pela ANBIMA nas Regras e Procedimentos de Ofertas Públicas.
+pela Anbima nas Regras e Procedimentos de Ofertas Públicas.
 
-15
-
-CAPÍTULO XVI – ENVIO DE INFORMAÇÕES PARA A BASE DE DADOS
+CAPÍTULO XVI – ENVIO DE INFORMAÇÕES PARA O BANCO DE DADOS
 
 ## Art. 21
 
-A base de dados da ANBIMA consiste no conjunto de informações que são armazenadas e
+O Banco de Dados da Anbima consiste no conjunto de informações que são armazenadas e
 
 supervisionadas pela Associação relativas às Ofertas Públicas.
 
-Parágrafo único. As Ofertas Públicas deverão ser registradas na ANBIMA para compor a base
+Parágrafo único. As Ofertas Públicas deverão ser registradas na Anbima para compor o Banco
 
-de dados.
+de Dados nos termos previstos nas Regras e Procedimentos de Ofertas Públicas.
 
 ## Art. 22
 
-Para o envio de informações para a base de dados, as Instituições Participantes devem
+Para o envio de informações para o Banco de Dados, as Instituições Participantes devem
 
 observar os seguintes princípios:
 
@@ -658,15 +730,17 @@ I. II. III. IV. Exatidão: as informações devem ser enviadas corretamente;
 
 Pontualidade: as informações devem ser enviadas dentro dos prazos estabelecidos pela
 
-ANBIMA;
+Anbima;
 
 Regularidade: as informações devem ser enviadas na periodicidade devida; e
 
 Integridade: todas as informações requeridas devem ser enviadas, não havendo lacunas
 
-na base de dados.
+no Banco de Dados.
 
-CAPÍTULO VII – TAXAS
+17
+
+CAPÍTULO XVII – TAXAS
 
 ## Art. 23
 
@@ -678,17 +752,111 @@ normativo;
 
 Registro das Ofertas Públicas, conforme aplicável; e
 
-Envio de informações para a base de dados, quando aplicável.
+Envio de informações para o Banco de Dados, quando aplicável.
 
 Parágrafo único. Compete à Diretoria fixar a periodicidade e o valor das taxas de que trata o
 
-caput, que ficarão disponíveis no site da ANBIMA na internet.
-
-16
-
-CAPÍTULO XVIII – PENALIDADES
+caput, que ficarão disponíveis no site da Anbima na internet.
 
 ## Art. 24
+
+As Instituições Participantes sujeitam-se às taxas previstas neste Código, conforme disposto
+
+acima, devendo observar nas Regras e Procedimentos de Ofertas Públicas, as condições específicas
+
+acerca das seguintes taxas:
+
+I. II. Taxa de registro de Ofertas Públicas, conforme estabelecido pelo artigo 18 das Regras e
+
+Procedimentos do Código de Ofertas Públicas; e
+
+Taxa de registro para o Banco de Dados, conforme estabelecido pelo artigo 23 das Regras
+
+e Procedimentos do Código de Ofertas Públicas.
+
+CAPÍTULO XVIII – POLÍTICAS, REGRAS, PROCEDIMENTOS E CONTROLES
+
+INTERNOS
+
+## Art. 25
+
+As Instituições Participantes, sem prejuízo do disposto neste Código e nas Regras e
+
+Procedimentos da Anbima, incluindo as de Deveres Básicos, devem elaborar Documentos de
+
+Controles Internos, observada a regulamentação vigente, relacionados aos temas abaixo:
+
+18
+
+I. i. ii. iii. iv. v. Exclusivamente para o caso das Securitizadoras:
+
+Aquisição de direitos creditórios, nos termos do Capítulo IV, Seção I do Anexo
+
+Complementar II das Regras e Procedimentos do Código de Ofertas Públicas;
+
+Monitoramento de direitos creditórios, nos termos do Capítulo IV, da Seção II do
+
+Anexo Complementar II das Regras e Procedimentos do Código de Ofertas
+
+Públicas;
+
+Investimento dos recursos do patrimônio separado, nos termos do Capítulo IV, da
+
+Seção III do Anexo Complementar II das Regras e Procedimentos do Código de
+
+Ofertas Públicas;
+
+Negociação de Valores Mobiliários por parte de administradores, empregados,
+
+colaboradores, sócios controladores e pela própria Securitizadora nos termos
+
+estabelecidos no artigo 2º do Anexo Complementar II das Regras e Procedimentos
+
+do Código de Ofertas Públicas; e
+
+Provisionamento de devedores duvidosos, nos termos estabelecidos no artigo 9º
+
+do Anexo Complementar II das Regras e Procedimentos do Código de Ofertas
+
+Públicas;
+
+§1º. As Instituições Participantes devem implementar e manter atualizados os Documentos
+
+de Controles Internos, em documento escrito único ou distintos, e enviá-los para a Anbima, via SSM,
+
+em até 30 (trinta) dias corridos após sua elaboração ou qualquer alteração e atualização de seu
+
+conteúdo.
+
+§2º
+
+. Sem prejuízo do disposto no §1º, as Instituições Participantes devem revisar e atualizar,
+
+a cada 24 (vinte e quatro) meses os Documentos de Controles Internos.
+
+19
+
+§3º. As Instituições Participantes estão sujeitas a todas as Deliberações publicadas pela
+
+Anbima referentes a este Código e suas Regras e Procedimentos.
+
+§4º. Os Documentos de Controles Internos devem ser passíveis de verificação e ser enviados
+
+para a Anbima sempre que solicitados.
+
+§5º
+
+. As Instituições Participantes devem garantir que os acessos, disponibilizados em seus
+
+sites em cumprimento às obrigações referentes aos Documentos de Controles Internos previstas
+
+neste Código e em suas Regras e Procedimentos, estejam atualizados e direcionem corretamente
+
+para o conteúdo correspondente.
+
+CAPÍTULO XIX – PENALIDADES
+
+## Art. 26
 
 As Instituições Participantes que descumprirem os princípios e as regras estabelecidos no
 
@@ -696,19 +864,19 @@ presente Código e nas Regras e Procedimentos de Ofertas Públicas estão sujeit
 
 penalidades indicadas neste Código e no Código dos Processos.
 
-## Art. 25
+## Art. 27
 
-Sem prejuízo do disposto no artigo anterior, a ANBIMA poderá aplicar, no exercício de
+Sem prejuízo do disposto no artigo anterior, a Anbima poderá aplicar, no exercício de suas
 
-suas atividades, automaticamente, multas às Instituições Participantes que não atenderem às
+atividades, automaticamente, multas às Instituições Participantes que não atenderem às exigências
 
-exigências da ANBIMA nas seguintes hipóteses e valores:
+da Anbima nas seguintes hipóteses e valores:
 
-I. II. III. Ausência de qualquer dos requisitos obrigatórios determinados por este Código: multa
+I. II. Ausência de qualquer dos requisitos obrigatórios determinados por este Código e/ou
 
-no valor de 10% (dez por cento) do valor pago pela Instituição Participante para
+suas Regras e Procedimentos: multa no valor de 10% (dez por cento) do valor pago pela
 
-registrar a Oferta Pública;
+Instituição Participante para registrar a Oferta Pública;
 
 Inobservância de qualquer dos prazos estabelecidos neste Código e/ou nas Regras e
 
@@ -716,11 +884,17 @@ Procedimentos de Ofertas Públicas: multa no valor de R$ 150,00 (cento e cinquen
 
 reais) por dia de atraso;
 
-Inobservância de qualquer dos prazos estabelecidos pela ANBIMA, não inferior a 3
+20
 
-(três) dias úteis, para envio de documentos e/ou informações solicitadas: multa no
+III. IV. Inobservância de qualquer dos prazos estabelecidos pela Anbima, não inferior a 3 (três)
 
-valor de R$ 150,00 (cento e cinquenta reais), por dia de atraso.
+dias úteis, para envio de documentos e/ou informações solicitadas: multa no valor de R$
+
+150,00 (cento e cinquenta reais), por dia de atraso; e
+
+Erros no envio de informações para o Banco de Dados, sendo multa no valor de R$ 150,00
+
+(cento e cinquenta reais) por cada campo do cadastro preenchido incorretamente.
 
 §1º. No caso de reincidência das infrações a que se refere o caput, a multa será aplicada em
 
@@ -730,104 +904,80 @@ dobro.
 
 30 (trinta) dias de atraso.
 
-§3º. Cabe ao Conselho de Ofertas Públicas decidir sobre as exceções às previsões deste
+§3º. Cabe ao Conselho de Ofertas Públicas decidir sobre as exceções às previsões deste artigo.
 
-artigo.
+CAPÍTULO XX – DISPOSIÇÕES FINAIS
 
-17
-
-CAPÍTULO XIX – DISPOSIÇÕES FINAIS
-
-## Art. 26
+## Art. 28
 
 Qualquer modificação das disposições contidas neste Código compete, exclusivamente, à
 
 Diretoria.
 
-## Art. 27
+## Art. 29
 
-Os prazos de que tratam os dispositivos deste Código têm início a partir do primeiro dia
+Os prazos de que tratam os dispositivos deste Código têm início a partir do primeiro dia útil
 
-útil após a ciência do interessado e encerram-se no dia do respectivo vencimento.
+após a ciência do interessado e encerram-se no dia de seu vencimento.
 
-Parágrafo único. Consideram-se prorrogados os prazos até o dia útil imediatamente
+§1º. Considera-se prorrogado o prazo até o primeiro dia útil subsequente se o vencimento
 
-subsequente à respectiva data de vencimento se essa data corresponder a feriados bancários,
+ocorrer em feriados bancários, sábados ou domingos ou em dia em que não houver expediente na
 
-sábados, domingos ou em dia em que não houver expediente na ANBIMA, ou este for inferior ao
+Anbima.
 
-normal.
+§2º. Considera-se efetuada toda comunicação enviada ao interessado, a partir da sua
 
-## Art. 28
+disponibilização no SSM ou outro sistema indicado pela Anbima.
 
-Todos os componentes organizacionais da ANBIMA, sejam funcionários da Associação ou
+21
+
+## Art. 30
+
+Todos os componentes organizacionais da Anbima, sejam funcionários da Associação ou
 
 representantes ou demais entidades, devem guardar absoluto sigilo sobre informações e
 
-documentos a que tenham conhecimento em razão de suas funções.
+documentos de que tenham conhecimento em razão de suas funções.
 
-§1º. O sigilo a que se refere este artigo não é violado em caso de possível
+§1º. O sigilo a que se refere este artigo não é violado em caso de possível compartilhamento
 
-compartilhamento das informações com os órgãos da ANBIMA, com reguladores,
+das informações com os órgãos da Anbima, com reguladores, autorreguladores e autoridades
 
-autorreguladores e autoridades competentes, nos limites permitidos pelos convênios entre eles
-
-firmados.
+competentes, nos limites permitidos pelos acordos de cooperação técnica entre eles firmados.
 
 §2º. O dever de sigilo disposto neste artigo não é violado pelo uso dos documentos enviados
 
-pelas Instituições Participantes à ANBIMA nas investigações das atividades de outras Instituições
+pelas Instituições Participantes à Anbima nas investigações das atividades de outras Instituições
 
 Participantes disciplinadas por este ou por outros Códigos ANBIMA.
 
-18
+§3º. As informações e documentos previstos no caput poderão, inclusive, ser utilizados pela
 
-§3º. As informações e documentos previstos no caput poderão ser utilizados pela ANBIMA
+Anbima como subsídio para questionamentos junto às Instituições Participantes.
 
-como subsídio para questionamentos junto a prestadores de serviços contratados pelas
-
-Instituições Participantes.
-
-## Art. 29
+## Art. 31
 
 Para fins deste Código, todos os dados pessoais devem ser tratados de acordo com as
 
-disposições da LGPD, e, na eventual hipótese de compartilhamento de dados dessa natureza com
+disposições da LGPD, e, na eventual hipótese de compartilhamento de dados dessa natureza com a
 
-a ANBIMA, as Instituições Participantes deverão garantir a atualização das informações
+Anbima, as Instituições Participantes deverão garantir a atualização das informações
 
 compartilhadas e a transparência para com os titulares envolvidos, assegurando que estes tenham
 
 ciência da ocorrência dessa atividade e dos direitos garantidos pela referida lei.
 
-## Art. 30
+## Art. 32
 
-As Instituições Participantes estão sujeitas a todas as Deliberações, regras e
+Este Código entra em vigor em 04 de janeiro de 2027.
 
-procedimentos publicados pela ANBIMA referentes a este Código, devendo encaminhar pelo SSM,
+Parágrafo único. Apenas Ofertas Públicas de Valores Mobiliários que tenham seu pedido de
 
-em prazo a ser divulgado pela ANBIMA, todos os documentos escritos exigidos por este Código.
+registro protocolado na CVM ou Anbima (quando se tratar de processo de registro de Oferta Pública
 
-§1º. Caso haja alterações nos documentos de que trata o caput, estes devem ser atualizados
+via acordo de cooperação técnica) a partir da data de vigência acima prevista, deste Código ou das
 
-em até 30 (trinta) dias corridos da alteração.
+Regras e Procedimentos, quando alteradas, devem observar os termos aqui dispostos em sua
 
-§2º. Sem prejuízo do disposto no caput, todas as regras, procedimentos, controles e
-
-obrigações estabelecidas por este Código devem ser passíveis de verificação e ser enviados para a
-
-ANBIMA sempre que solicitadas.
-
-§3º. Não se aplica o disposto no caput aos contratos estabelecidos com os investidores.
-
-## Art. 31
-
-Este Código entra em vigor em 15 de julho de 2024.
-
-Parágrafo único. Apenas Ofertas Públicas de valores mobiliários que tenham seu pedido de
-
-registro protocolado na CVM ou ANBIMA (quando se tratar de processo de registro de Oferta
-
-Pública via convênio) a partir da data de vigência deste Código acima prevista devem observar os
-
-termos aqui dispostos em sua totalidade, conforme for aplicável.
+totalidade, conforme for aplicável.

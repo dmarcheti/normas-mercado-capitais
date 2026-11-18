@@ -3,7 +3,7 @@ id: anbima-regras-e-procedimentos-do-codigo-de-servicos-qualificados
 orgao: anbima
 tipo: regras-procedimentos
 numero:
-data: 2026-03-23
+data: 2027-01-04
 publicacao_dou:
 ementa: Regras e Procedimentos do Código de Serviços Qualificados
 situacao: vigente
@@ -11,82 +11,86 @@ versao_texto: original
 vigente_ate_ato:
 aguarda_consolidado_oficial: false
 historico_parcial: true
-fonte_original: https://www.anbima.com.br/data/files/9D/33/66/F8/9D4BC91023A089C9F82BA2A8/Regras_e_Procedimentos_SQ_19_02_2026%20-%20assinado.pdf
-fonte_consolidada: https://www.anbima.com.br/data/files/9D/33/66/F8/9D4BC91023A089C9F82BA2A8/Regras_e_Procedimentos_SQ_19_02_2026%20-%20assinado.pdf
-sha256_fonte: 24a1808518782eb344c10a5369e216112ededc9b7907d2759f9fcb7cb3353905
-baixado_em: 2026-10-29
-verificado_em: 2026-10-29
-incerteza: Documento de autorregulação da ANBIMA (vigente a partir de 2026-03-23, segundo a página da entidade), extraído por script do PDF, data-base 2026-10-29. Vincula só as instituições aderentes ou participantes. Texto de titularidade da ANBIMA, reproduzido para uso informativo; retirado a pedido (ver autorregulacao/README.md). Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A página final de registro das assinaturas eletrônicas do PDF (nomes, e-mails, IP e localização dos signatários) foi retirada; a validação das assinaturas é feita no PDF oficial.
+fonte_original: https://www.anbima.com.br/data/files/2E/E2/0E/5D/674E1A103AD8EA1A692BA2A8/RP_de_SQ_04_01_2027.PDF
+fonte_consolidada: https://www.anbima.com.br/data/files/2E/E2/0E/5D/674E1A103AD8EA1A692BA2A8/RP_de_SQ_04_01_2027.PDF
+sha256_fonte: 98d6898255be0748c515e019bf3ba3a5324fa9fd022de3b84a880979816d72a7
+baixado_em: 2026-11-18
+verificado_em: 2026-11-18
+incerteza: Documento de autorregulação da ANBIMA (vigente a partir de 2027-01-04, segundo a página da entidade), extraído por script do PDF, data-base 2026-11-18. Vincula só as instituições aderentes ou participantes. Texto de titularidade da ANBIMA, reproduzido para uso informativo; retirado a pedido (ver autorregulacao/README.md). Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A página final de registro das assinaturas eletrônicas do PDF (nomes, e-mails, IP e localização dos signatários) foi retirada; a validação das assinaturas é feita no PDF oficial.
 nivel_verificacao: pdf-extraido
 ---
 
 Sumário
 
-INTRODUÇÃO ....................................................................................................................................... 6
+INTRODUÇÃO ............................................................................................................................. 4
 
-TÍTULO I – DISPOSIÇÕES GERAIS .......................................................................................................... 7
+TÍTULO I – DISPOSIÇÕES GERAIS ................................................................................................. 5
 
-CAPÍTULO I – OBJETIVO E ABRANGÊNCIA ............................................................................................ 7
+CAPÍTULO I – OBJETIVO E ABRANGÊNCIA .................................................................................... 5
 
-CAPÍTULO II – REGRAS E PROCEDIMENTOS PARA AS ATIVIDADES DE SERVIÇOS QUALIFICADOS ...... 8
+CAPÍTULO II – REGRAS E PROCEDIMENTOS PARA AS ATIVIDADES DE SERVIÇOS QUALIFICADOS .. 6
 
-SEÇÃO I – CONTRATO DE PRESTAÇÃO DE SERVIÇOS ........................................................................... 8
+SEÇÃO I – CONTRATO DE PRESTAÇÃO DE SERVIÇOS ........................................................................... 6
 
-SEÇÃO II – PUBLICIDADE ...................................................................................................................... 9
+SEÇÃO II – PUBLICIDADE ...................................................................................................................... 7
 
-SEÇÃO III – ENVIO DE INFORMAÇÕES PARA A BASE DE DADOS ........................................................ 10
+SEÇÃO III – ENVIO DE INFORMAÇÕES PARA O BANCO DE DADOS ...................................................... 8
 
-SUBSEÇÃO I – OBJETIVO E ABRANGÊNCIA ......................................................................................... 10
+SUBSEÇÃO I – OBJETIVO E ABRANGÊNCIA ........................................................................................... 8
 
-SUBSEÇÃO II – REGRAS GERAIS ........................................................................................................ 11
+SUBSEÇÃO II – REGRAS GERAIS .......................................................................................................... 8
 
-TÍTULO II – REGRAS E PROCEDIMENTOS PARA A ATIVIDADE DE CUSTÓDIA ..................................... 12
+TÍTULO II – REGRAS E PROCEDIMENTOS PARA A ATIVIDADE DE CUSTÓDIA ............................... 10
 
-CAPÍTULO III – CUSTÓDIA PARA INVESTIDORES ................................................................................ 12
+CAPÍTULO III – CUSTÓDIA PARA INVESTIDORES......................................................................... 10
 
-CAPÍTULO IV – CUSTÓDIA PARA EMISSORES ..................................................................................... 16
+CAPÍTULO IV – CUSTÓDIA PARA EMISSORES ............................................................................. 14
 
-CAPÍTULO V – CUSTÓDIA PARA FUNDOS DE INVESTIMENTO ........................................................... 17
+CAPÍTULO V – CUSTÓDIA PARA FUNDOS DE INVESTIMENTO ..................................................... 15
 
-SEÇÃO I – CUSTÓDIA PARA FIF ........................................................................................................... 17
+SEÇÃO I – CUSTÓDIA PARA FIF ........................................................................................................... 15
 
-SEÇÃO II – CUSTÓDIA DE FIDC OU FIAGROS ...................................................................................... 18
+SEÇÃO II – CUSTÓDIA DE FIDC OU FIAGROS ...................................................................................... 16
 
-SUBSEÇÃO I – REGRAS GERAIS ........................................................................................................... 18
+SUBSEÇÃO I – REGRAS GERAIS ........................................................................................................... 16
 
-SUBSEÇÃO II – CONTRATAÇÃO DE TERCEIROS .................................................................................. 24
+SUBSEÇÃO III – CONTRATAÇÃO DE TERCEIROS ................................................................................. 22
 
-TÍTULO III – REGRAS E PROCEDIMENTOS PARA A ATIVIDADE DE CONTROLADORIA ........................ 25
+TÍTULO III – REGRAS E PROCEDIMENTOS PARA A ATIVIDADE DE CONTROLADORIA ................... 23
 
-CAPÍTULO VI – CONTROLADORIA DE ATIVOS .................................................................................... 25
+CAPÍTULO VI – CONTROLADORIA DE ATIVOS ............................................................................ 23
 
-CAPÍTULO VII – CONTROLADORIA DO PASSIVO ................................................................................. 27
+CAPÍTULO VII – CONTROLADORIA DO PASSIVO ......................................................................... 25
 
-CAPÍTULO VIII – CONTABILIDADE....................................................................................................... 29
+CAPÍTULO VIII – CONTABILIDADE .............................................................................................. 27
 
-TÍTULO IV – REGRAS E PROCEDIMENTOS PARA A ATIVIDADE DE ESCRITURAÇÃO DE ATIVOS ......... 30
+TÍTULO IV – REGRAS E PROCEDIMENTOS PARA A ATIVIDADE DE ESCRITURAÇÃO DE ATIVOS ..... 28
 
-CAPÍTULO IX – ESCRITURAÇÃO DE ATIVOS ........................................................................................ 30
+CAPÍTULO IX – ESCRITURAÇÃO DE ATIVOS ................................................................................ 28
+
+TÍTULO V – REGRAS E PROCEDIMENTOS PARA A PRESTAÇÃO DE SERVIÇOS PARA INVESTIDORES
+
+NÃO RESIDENTES ..................................................................................................................... 32
 
 2
 
-TÍTULO V – REGRAS E PROCEDIMENTOS PARA A PRESTAÇÃO DE SERVIÇOS PARA INVESTIDORES NÃO
+CAPÍTULO X – CADASTRO INR ................................................................................................... 32
 
-RESIDENTES ........................................................................................................................................ 34
+SEÇÃO I – REGRAS GERAIS ................................................................................................................. 32
 
-CAPÍTULO X – CADASTRO INR ............................................................................................................ 34
+SEÇÃO II – TROCA DE MODALIDADE DE INVESTIMENTO .................................................................. 34
 
-SEÇÃO I – REGRAS GERAIS ................................................................................................................. 34
+SEÇÃO III – ENCERRAMENTO DE REPRESENTAÇÃO DE INVESTIDOR NÃO RESIDENTE
 
-SEÇÃO II – TROCA DE MODALIDADE DE INVESTIMENTO .................................................................. 37
+............................................................................................................................................................ 35
 
-SEÇÃO IV – SUPERVISÃO BASEADA EM RISCO ................................................................................... 38
+SEÇÃO IV – SUPERVISÃO BASEADA EM RISCO ................................................................................... 36
 
-TÍTULO VI – DISPOSIÇÕES FINAIS ....................................................................................................... 41
+TÍTULO VI – DISPOSIÇÕES FINAIS .............................................................................................. 39
 
-CAPÍTULO XI – PENALIDADES ............................................................................................................. 41
+CAPÍTULO XI – PENALIDADES .................................................................................................... 39
 
-CAPÍTULO XII – DISPOSIÇÕES FINAIS.................................................................................................. 41
+CAPÍTULO XII – DISPOSIÇÕES FINAIS ......................................................................................... 39
 
 3
 
@@ -184,9 +188,9 @@ Seção I – Contrato de prestação de serviços
 
 ## Art. 2º
 
-. O contrato para a prestação das Atividades de Serviços Qualificados, observado o parágrafo
+. O contrato para a prestação das Atividades de Serviços Qualificados, observado o §1º deste
 
-2º deste artigo, deverá conter, no mínimo, as seguintes disposições:
+artigo, deverá conter, no mínimo, as seguintes disposições:
 
 I. II. III. IV. V. VI. VII. VIII. As Atividades que serão prestadas;
 
@@ -222,23 +226,11 @@ As infrações e penalidades aplicáveis.
 
 isoladamente ou em conjunto, ainda que entre a Instituição Participante e os prestadores de
 
+6
+
 serviços integrantes de seu Conglomerado ou Grupo Econômico, deve ser elaborado acordo formal
 
 contendo o disposto neste artigo.
-
-6
-
-§2º. As cláusulas mínimas previstas no contrato de prestação de serviço de que trata o caput,
-
-a verificação dos procedimentos de governança estabelecidos nas Regras e Procedimentos de
-
-Deveres Básicos (conforme aplicáveis), assim como a verificação dos procedimentos para apuração
-
-dos valores do ranking, nos termos do artigo 7º destas Regras e Procedimentos de Serviços
-
-Qualificados, devem ser atestadas anualmente por auditor interno ou externo, e o relatório deve
-
-ser enviado à Anbima até o último dia útil do mês de abril.
 
 Seção II – Publicidade
 
@@ -282,13 +274,13 @@ conjunto com os outros departamentos ou empresas que desenvolvam outros negócio
 
 do Conglomerado ou Grupo Econômico.
 
-7
-
 ## Art. 5º
 
 . As regras estabelecidas nesta Seção destinam-se, exclusivamente, às relações entre a
 
 Instituição Participante e seus clientes ou potenciais clientes, não sendo aplicáveis nas relações
+
+7
 
 restritas entre a Instituição Participante e seus profissionais no exercício de suas funções, ou entre
 
@@ -318,7 +310,7 @@ III. Permitir apenas afirmações ou comparações sobre volumes processados bas
 
 rankings publicados pela Anbima.
 
-Seção III – Envio de informações para a base de dados
+Seção III – Envio de informações para o Banco de Dados
 
 Subseção I – Objetivo e abrangência
 
@@ -326,21 +318,15 @@ Subseção I – Objetivo e abrangência
 
 . Em complemento às disposições do Capítulo X do Código de Serviços Qualificados, esta Se-
 
-ção estabelece regras, critérios e procedimentos para o envio de informações para a base de dados
+ção estabelece regras, critérios e procedimentos para o envio de informações para o Banco de Da-
 
-da Anbima referentes às Atividades de Serviços Qualificados que poderão compor, entre outras in-
+dos da Anbima referentes às Atividades de Serviços Qualificados que poderão compor, entre outras
 
-formações, o ranking de Custódia e de Controladoria.
-
-8
-
-Parágrafo único. A verificação dos procedimentos para apuração dos valores do ranking, nos
-
-termos do caput, deve ser atestada anualmente por auditor interno ou externo, e o relatório deve
-
-ser enviado à Anbima até o último dia útil do mês de abril.
+informações, o ranking de Custódia e de Controladoria.
 
 Subseção II – Regras gerais
+
+8
 
 ## Art. 8º
 
@@ -350,19 +336,19 @@ de Controladoria de forma independente e em arquivos distintos, conforme modelo 
 
 pela Anbima.
 
-Parágrafo único. As Regras e Procedimentos relativos ao envio de informações para a base de
+Parágrafo único. As Regras e Procedimentos relativos ao envio de informações para o Banco
 
-dados da Anbima, contidos no Capítulo X do Código de Serviços Qualificados, não são aplicáveis às
+de Dados da Anbima, contidos no Capítulo X do Código de Serviços Qualificados, não são aplicáveis
 
-Instituições Participantes com relação às Atividades de Escrituração e de Prestação de Serviços para
+às Instituições Participantes com relação às Atividades de Escrituração e de Prestação de Serviços
 
-Investidores Não Residentes.
+para Investidores Não Residentes.
 
 ## Art. 9º
 
-. O envio de informações para a base de dados deve ser realizado até o 10º (décimo) dia útil
+. O envio de informações para o Banco de Dados deve ser realizado até o 10º (décimo) dia
 
-do mês subsequente ao de referência.
+útil do mês subsequente ao de referência.
 
 ## Art. 10
 
@@ -440,7 +426,7 @@ b. Análise e verificação do mandato das pessoas autorizadas, quando aplicáve
 
 c. Checagem da posição física em Custódia, quando aplicável; e
 
-d. Verificação da disponibilidade de recursos do cliente;
+d. Verificação da disponibilidade de recursos do cliente.
 
 Efetivação, que consiste na liquidação física e/ou financeira mediante o recebimento
 
@@ -484,9 +470,9 @@ regulação aplicável; e
 
 V. Guarda física, quando aplicável, de documentos relativos aos Ativos integrantes das
 
-carteiras dos Veículos de Investimento, de acordo com o disposto nos parágrafos 1º e
+carteiras dos Veículos de Investimento, de acordo com o disposto nos §§1º e 2º do
 
-2º do artigo 14 destas Regras e Procedimentos de Serviços Qualificados.
+artigo 14 destas Regras e Procedimentos de Serviços Qualificados.
 
 ## Art. 12
 
@@ -508,7 +494,7 @@ c. Disponibilizar ou enviar mensalmente aos clientes informações que permitam 
 
 identificação e a verificação dos eventos ocorridos com os Ativos Financeiros em
 
-Custódia;
+Custódia.
 
 Responsabilizar-se pelas movimentações dos Ativos Financeiros objeto de depósito
 
@@ -548,7 +534,7 @@ VII. Estabelecer mecanismos e regras para gravações de ligações telefônicas
 
 monitoramento de mensagens eletrônicas para funcionários que sejam autorizados
 
-e/ou terem contato com clientes para realizar a validação das informações das
+e/ou tenham contato com clientes para realizar a validação das informações das
 
 operações com as instituições intermediárias, quando esta validação não for
 
@@ -786,7 +772,7 @@ III. Realizar a guarda física ou eletrônica da documentação relativa ao last
 
 Creditórios da Classe devendo, no exercício de suas Atividades, manter estrutura ade-
 
-quada para a realização da guarda
+quada para a realização da guarda.
 
 §1º. O Custodiante, em razão da contratação pelo Administrador Fiduciário nos termos do
 
@@ -812,11 +798,11 @@ segurança; e
 
 b. Controles internos formalizados, que abranjam, no mínimo:
 
-i. Organização do inventário físico;
+i. organização do inventário físico;
 
-ii. Registro e baixa de documentos; e
+ii. registro e baixa de documentos; e
 
-iii. Conferência periódica, nos termos definidos pelo Custodiante, do
+iii. conferência periódica, nos termos definidos pelo Custodiante, do
 
 inventário e da correção e consistência dos registros;
 
@@ -854,7 +840,9 @@ I. Quaisquer títulos de crédito ou títulos executivos extrajudiciais:
 
 a. b. c. d. e. Receber os documentos de lastro e/ou documentos acessórios previstos no
 
-Regulamento do FIDC e nos demais contratos aplicáveis;
+Regulamento do FIDC e nos demais contratos aplicáveis, bem como enviá-los
+
+para o Custodiante para guarda;
 
 Receber os instrumentos jurídicos formalizados que comprovem a existência,
 
@@ -872,27 +860,27 @@ Relatório emitido por empresa registradora, se houver, comprovando sua re-
 
 gularidade.
 
-II. Duplicatas, emitida por meio eletrônico ou físico:
+II. Duplicatas, emitidas por meio eletrônico ou físico:
 
 a. b. Verificar o endosso ao fundo, inclusive quando as duplicatas forem registra-
 
 das ou custodiadas em mercado regulamentado ou entidade registradora;
 
-Observar os procedimentos e requisitos para transferência e guarda do tí-
-
-tulo e de suas garantias exigidas pela respectiva entidade;
+Observar os procedimentos e requisitos para transferência e guarda do
 
 19
 
-c. d. Verificar a nota fiscal correspondente, observando os seguintes critérios:
+c. d. título e de suas garantias exigidas pela respectiva entidade;
+
+Verificar a nota fiscal correspondente, observando os seguintes critérios:
 
 i. ii. iii. Quando se tratar de nota fiscal eletrônica federal, deve receber a
 
 chave da nota fiscal com 44 posições, ou em formato “xml”, ou in-
 
-formações necessárias para o acesso em sistema de consulta de Nfe
+formações necessárias para o acesso em sistema de consulta de NF-
 
-disponibilizado pelo governo municipal ou federal, devidamente
+e disponibilizado pelo governo municipal ou federal, devidamente
 
 vinculada a cada duplicata;
 
@@ -908,11 +896,11 @@ passíveis de consulta nos sistemas disponibilizados pelo governo
 
 municipal ou federal, que são necessárias para validação junto à
 
-prefeitura no qual o serviço foi faturado.
+prefeitura na qual o serviço foi faturado.
 
-Relatório emitido por empresa registradora que comprove sua regularidade,
+Relatório emitido por empresa registradora que comprove sua regularidade, se
 
-se houver;
+houver;
 
 III. Cheques, o Custodiante deve receber:
 
@@ -922,7 +910,7 @@ Borderô analítico contendo todos os dados do cheque cedido e o seu somató-
 
 rio, devendo receber da instituição responsável pela sua guarda; e
 
-Termo comprobatório da Custódia do referido cheque.
+termo comprobatório da Custódia do referido cheque.
 
 IV. Notas promissórias:
 
@@ -934,9 +922,9 @@ ria originalmente emitida em favor do FIDC, exceto em casos de renegociação.
 
 III. Contratos mercantis de compra e venda de produtos, mercadorias e/ou serviços para
 
-entrega ou prestação futura, o Custodiante deve:
-
 20
+
+entrega ou prestação futura, o Custodiante deve:
 
 a. b. c. Receber o instrumento jurídico formalizado;
 
@@ -986,15 +974,15 @@ VII. Cartões de crédito:
 
 a. Registro eletrônico das URs (unidades de recebíveis) pelo arquivo de retorno
 
-ou outros meios de validação, confirmando o registro para garantir que são
-
 21
 
-b. transações válidas e NSUs (Números Sequenciais Únicos), desde que acompa-
+b. ou outros meios de validação, confirmando o registro para garantir que são
+
+transações válidas e NSUs (Números Sequenciais Únicos), desde que acompa-
 
 nhados de documentação que comprove a existência e a validade das transa-
 
-ções;
+ções; e
 
 Demais documentos suficientes à comprovação da existência, validade e exigi-
 
@@ -1008,17 +996,21 @@ vistos nesta seção que sejam compatíveis com o tamanho, o volume e a complexi
 
 ções de que as Classes participem.
 
-Subseção II – Contratação de terceiros
+Subseção III – Contratação de terceiros
 
 ## Art. 23
 
-Na subcontratação de prestador de serviço para a realização da guarda da documentação
+Sem prejuízo às disposições gerais para contratação de terceiros previstas nas Regras e
 
-relativa ao lastro dos Direitos Creditórios, nos termos da regulação em vigor, o Custodiante deve:
+Procedimentos de Deveres Básicos, na subcontratação de prestador de serviço para a realização da
+
+guarda da documentação relativa ao lastro dos Direitos Creditórios, nos termos da regulação em
+
+vigor, o Custodiante deve:
 
 I. Verificar, previamente à contratação, se o prestador possui estrutura para
 
-cumprimento dos requisitos previstos nos incisos I e II do §2º do artigo 20 desta seção;
+cumprimento dos requisitos previstos nos incisos I e II do §2º do artigo 20 desta Seção;
 
 e
 
@@ -1030,17 +1022,17 @@ subcontratado, nos termos do caput, segundo as regras e os procedimentos exigido
 
 aplicável.
 
+22
+
 §2º. O contrato estabelecido com o prestador de serviço subcontratado pelo Custodiante,
 
 observada cada uma das situações, deve conter, no mínimo:
 
-I. Descrição dos procedimentos previstos nos incisos I e II do §2º do artigo 20 desta
+I. II. Descrição dos procedimentos previstos nos incisos I e II do §2º do artigo 20 desta
 
-seção, conforme o caso; e
+Seção, conforme o caso; e
 
-22
-
-II. Cláusula que obriga o prestador a dar acesso aos documentos a terceiros somente
+Cláusula que obriga o prestador a dar acesso aos documentos a terceiros somente
 
 quando expressamente autorizado pelo Custodiante, observada a regulação
 
@@ -1054,11 +1046,11 @@ CAPÍTULO VI – CONTROLADORIA DE ATIVOS
 
 ## Art. 24
 
-A Controladoria de Ativos consiste, relativamente aos Clubes De Investimento ou Veículos
+A Controladoria de Ativos consiste, relativamente aos Clubes de Investimento ou Veículos
 
 de Investimento, conforme aplicável, em:
 
-I. II. III. IV. V. Controlar os Ativos Financeiros da carteira, as despesas e os encargos sobre eles
+I. II. III. IV. Controlar os Ativos Financeiros da carteira, as despesas e os encargos sobre eles
 
 incidentes, observado o disposto nos incisos II, III e VII deste artigo;
 
@@ -1080,7 +1072,9 @@ sobre movimentação para processamento das informações recebidas sobre os Ati
 
 Financeiros integrantes da carteira;
 
-Receber do Custodiante, conforme informações por este recebidas das respectivas
+23
+
+V. Receber do Custodiante, conforme informações por este recebidas das respectivas
 
 centrais depositárias, os dados acerca dos eventos incidentes sobre os Ativos
 
@@ -1089,8 +1083,6 @@ Financeiros, inclusive cotas de Classes e/ou Subclasses de Fundos, conforme o ca
 que sejam objeto de depósito centralizado, e processamento das informações
 
 recebidas;
-
-23
 
 VI. Receber do Administrador Fiduciário, ou Controladoria do passivo por ele contratado,
 
@@ -1102,19 +1094,19 @@ Classes e/ou Subclasses (conforme aplicável), cujas cotas não sejam objeto de 
 
 centralizado;
 
-VII. Registrar, controlar e provisionar as despesas dos clientes, tais como, exemplificativamente,
+VII. Registrar, controlar e provisionar as despesas dos clientes, tais como,
 
-taxa de auditoria, taxa de fiscalização da CVM, taxa de administração, taxa de gestão, taxa de
+exemplificativamente, taxa de auditoria, taxa de fiscalização da CVM, taxa de
 
-distribuição e taxa de Custódia, observado o disposto nos incisos II e III deste artigo,
+administração, taxa de gestão, taxa de distribuição e taxa de Custódia, observado o
 
-conforme aplicável,
+disposto nos incisos II e III deste artigo, conforme aplicável;
 
 VIII. Apreçar os Ativos Financeiros integrantes da carteira;
 
-IX. Registrar provisão aos Direitos Creditórios das Classes de FIDC, segundo metodologia
+IX. Registrar provisão de devedores duvidosos aos Direitos Creditórios das Classes de
 
-definida e auditável;
+FIDC, segundo metodologia definida e auditável;
 
 X. Apurar o patrimônio líquido;
 
@@ -1128,17 +1120,13 @@ XIII. Gerar informações para a contabilidade;
 
 XIV. Emitir relatórios constando posições atualizadas de Ativos, direitos e obrigações
 
-registradas nas carteiras;
+registradas nas carteiras; e
 
-XV. Registrar provisão para devedores duvidosos conforme orientação do Administrador
-
-Fiduciário; e
-
-XVI. Estabelecer mecanismos e regras sobre gravações de ligações telefônicas,
+XV. Estabelecer mecanismos e regras sobre gravações de ligações telefônicas,
 
 monitoramento de mensagens eletrônicas para funcionários que sejam autorizados
 
-e/ou terem contato com clientes para realizar a validação das informações das
+e/ou tenham contato com clientes para realizar a validação das informações das
 
 operações com as instituições intermediárias, quando esta validação não for
 
@@ -1156,15 +1144,15 @@ Administrador Fiduciário.
 
 §1º. A Controladoria poderá utilizar seu próprio Manual de Apreçamento, desde que seja
 
-formalmente aceito pelo Administrador Fiduciário por meio de contrato de prestação de serviços ou
+formalmente aceito pelo Administrador Fiduciário por meio de contrato de prestação de serviços
 
-outro documento.
+ou outro documento.
 
 §2º. A utilização do próprio Manual de Apreçamento pela Controladoria não isenta o
 
-Administrador Fiduciário da responsabilidade pelo Apreçamento dos Ativos, nos termos da regulação
+Administrador Fiduciário da responsabilidade pelo Apreçamento dos Ativos, nos termos da
 
-em vigor.
+regulação em vigor.
 
 CAPÍTULO VII – CONTROLADORIA DO PASSIVO
 
@@ -1186,9 +1174,7 @@ Classes Abertas;
 
 Calcular, apurar e reter os tributos pertinentes a cada cotista, no caso de cotas de
 
-Classes Fechadas e para as posições sem Negociação em mercado secundário, desde
-
-que de posse das devidas informações;
+Classes Fechadas, desde que de posse das devidas informações;
 
 Fornecer ao Administrador Fiduciário as informações necessárias do passivo de
 
@@ -1198,7 +1184,7 @@ cotistas para composição de avisos, informes e extratos;
 
 VIII. Conciliar os créditos provenientes das movimentações financeiras dos cotistas com a
 
-conta corrente das respectivas Classes de Fundos e/ou Clubes De Investimento,
+conta corrente das respectivas Classes de Fundos e/ou Clubes de Investimento,
 
 conforme o caso;
 
@@ -1218,7 +1204,7 @@ XII. Estabelecer mecanismos e regras sobre gravações de ligações telefônica
 
 monitoramento de mensagens eletrônicas para funcionários que sejam autorizados
 
-e/ou terem contato com clientes para realizar a validação das informações das
+e/ou tenham contato com clientes para realizar a validação das informações das
 
 operações com as instituições intermediárias, quando esta validação não for
 
@@ -1360,7 +1346,7 @@ IX. Estabelecer mecanismos e regras para gravações de ligações telefônicas,
 
 monitoramento de mensagens eletrônicas para funcionários que sejam autorizados
 
-e/ou terem contato com clientes para realizar a validação das informações das
+e/ou tenham contato com clientes para realizar a validação das informações das
 
 operações com as instituições intermediárias, quando esta validação não for
 
@@ -1396,15 +1382,15 @@ medidas:
 
 I. Adotar as formalidades próprias à Escrituração dos Ativos com relação às
 
-II. transferências e às constituições de direitos, vínculos, ônus ou gravames sobre os
+transferências e às constituições de direitos, vínculos, ônus ou gravames sobre os
 
 Ativos escriturados;
 
-Assegurar que os registros efetuados nas contas de Ativos sejam decorrentes de:
-
 29
 
-III. IV. V. VI. VII. VIII. a. Ordem transmitida pelo investidor, seu representante legal ou outro mandatário
+II. III. IV. V. VI. VII. VIII. Assegurar que os registros efetuados nas contas de Ativos sejam decorrentes de:
+
+a. Ordem transmitida pelo investidor, seu representante legal ou outro mandatário
 
 devidamente autorizado;
 
@@ -1594,15 +1580,15 @@ c. Dos 2 (dois) passageiros referidos acima, deverão ser selecionados por contr
 
 com a instituição estrangeira, no mínimo, 1 (um) passageiro do grupo 1 e 1 (um)
 
-passageiro do grupo 2, observada a classificação prevista no parágrafo único do
+passageiro do grupo 2, observada a classificação prevista no §3º do artigo 43 des-
 
-artigo 35 destas Regras e Procedimentos; e
+tas Regras e Procedimentos.
 
-Adoção de metodologia de supervisão baseada em risco, nos termos do artigo 34
+Adoção de metodologia de supervisão baseada em risco, nos termos dos artigos 42 e
 
-destas Regras e Procedimentos, a fim de garantir que as medidas de supervisão sejam
+43 destas Regras e Procedimentos, a fim de garantir que as medidas de supervisão
 
-proporcionais aos riscos identificados.
+sejam proporcionais aos riscos identificados.
 
 §1º. O conteúdo das informações e dos documentos cadastrais do investidor solicitado nos
 
@@ -1618,23 +1604,21 @@ mento da proliferação de armas de destruição em massa no âmbito do mercado 
 
 ários.
 
-33
-
 §2º. O Representante Regulatório, conforme aplicável, deve:
+
+33
 
 I. II. Estabelecer um prazo máximo de 15 (quinze) dias corridos, contados a partir da data
 
 de solicitação, para o envio das informações e dos documentos cadastrais do
 
-Investidor Não Residente pelas instituições estrangeiras;
+Investidor Não Residente pelas instituições estrangeiras; e
 
-Incluir no documento formal de que trata o parágrafo 2º deste artigo os critérios para
+Incluir no documento formal, os critérios para extensão do prazo definido no inciso
 
-extensão do prazo definido no inciso acima para situações excepcionais, bem como
+acima para situações excepcionais, bem como os procedimentos que serão adotados
 
-os procedimentos que serão adotados quando a instituição estrangeira não cumprir
-
-com as regras e os prazos estabelecidos.
+quando a instituição estrangeira não cumprir com as regras e os prazos estabelecidos.
 
 §3º. Quando do recebimento das informações mencionadas no parágrafo 1º deste artigo, o
 
@@ -1642,13 +1626,13 @@ Representante Regulatório deve verificar a conformidade do que foi disponibiliz
 
 estrangeira em relação às informações que possui do investidor.
 
-§4º. É facultado ao Representante Regulatório a realização de apenas 1 (um) teste consoli-
+§4º. É facultada ao Representante Regulatório a realização de apenas 1 (um) teste consolidado
 
-dado nas instituições estrangeiras que pertençam ao mesmo Conglomerado ou Grupo Econômico,
+nas instituições estrangeiras que pertençam ao mesmo Conglomerado ou Grupo Econômico, não
 
-não sendo necessária, nesse caso, a aplicação de testes por cada contrato firmado com as referidas
+sendo necessária, nesse caso, a aplicação de testes por cada contrato firmado com as referidas ins-
 
-instituições financeiras.
+tituições financeiras.
 
 Seção II – Troca de modalidade de investimento
 
@@ -1670,13 +1654,13 @@ para troca de modalidade.
 
 §1º. No caso de Investimento Flexível, a política interna deve estabelecer as ações subsequen-
 
-tes para a troca de modalidade, sempre que o limite de aporte mensal em ativos financeiros for
+tes para a troca de modalidade, sempre que o limite de aporte mensal em ativos financeiros for ex-
 
-excedido ou houver intenção de ultrapassá-lo ao longo do mês.
+cedido ou houver intenção de ultrapassá-lo ao longo do mês.
 
 §2º. Os procedimentos estabelecidos para a troca de modalidade de investimento devem ser
 
-passíveis de acesso pelos Investidores Não Residente.
+passíveis de acesso pelos Investidores Não Residentes.
 
 ## Art. 38
 
@@ -1688,11 +1672,11 @@ os procedimentos específicos e limites definidos pela regulamentação que disc
 
 Nos casos de troca de modalidade de investimento em Portfólio com Representação para
 
-outra modalidade sem Representação, o Representante Regulatório deverá orientar o Investidor
+outra modalidade sem Representação, o Representante Regulatório deverá orientar o Investidor Não
 
-Não Residente - Pessoa Natural nos procedimentos de encerramento de Representação Regulatória,
+Residente - Pessoa Natural nos procedimentos de encerramento de Representação Regulatória, con-
 
-conforme disposto na Seção III destas Regras e Procedimentos.
+forme disposto na Seção III destas Regras e Procedimentos.
 
 Seção III – Encerramento de Representação de Investidor Não Residente
 
@@ -1714,19 +1698,19 @@ Encerramento de conta de investimento.
 
 ## Art. 41
 
-A política interna de que trata o artigo 40, deve prever, no mínimo:
+A política interna de que trata o artigo 40 deve prever, no mínimo:
 
 35
 
 I. II. III. Procedimentos para a troca da posição de investimentos do Investidor Não Residente;
 
-Procedimento de troca de informações entre Representante Regulatório, intermediá-
+Procedimento de troca de informações entre Representante Regulatório, intermediário
 
-rio e/ou Custodiante e/ou outro Prestador de Serviço Responsável, se aplicável; e
+e/ou Custodiante e/ou outro Prestador de Serviço Responsável, se aplicável; e
 
-Condições e prazos nos casos de encerramento por alteração de modalidade ou con-
+Condições e prazos nos casos de encerramento por alteração de modalidade ou contra-
 
-tratação de novo Representante Regulatório.
+tação de novo Representante Regulatório.
 
 Seção IV – Supervisão baseada em risco
 
@@ -1758,7 +1742,7 @@ III. Endereço completo;
 
 IV. Endereço eletrônico;
 
-V. País de domicílio tributário;
+V. País de domicílio tributário; e
 
 VI. Qualificação, nos termos dos grupos estabelecidos no §3º.
 
@@ -1852,38 +1836,6 @@ CAPÍTULO XII – DISPOSIÇÕES FINAIS
 
 ## Art. 45
 
-Os prazos de que tratam os dispositivos nestas Regras e Procedimentos de Serviços
+Estas Regras e Procedimentos de Serviços Qualificados entram em vigor em 04 de janeiro
 
-Qualificados têm início a partir do primeiro dia útil após a ciência do interessado e se encerram no
-
-dia do vencimento.
-
-Parágrafo único. Considera-se prorrogado o prazo até o primeiro dia útil se o vencimento cair
-
-em feriados bancários, sábados, domingos ou em dia em que não houver expediente na Anbima ou
-
-este for inferior ao normal.
-
-## Art. 46
-
-Todos os documentos escritos exigidos por estas Regras e Procedimentos de Serviços
-
-Qualificados devem ser encaminhados para a Anbima por meio do SSM em prazo a ser divulgado
-
-pela Associação, e, caso haja alterações, as Instituições Participantes devem atualizá-los em até 30
-
-(trinta) dias corridos da alteração.
-
-§1º. Sem prejuízo do disposto no caput, todas as regras, os procedimentos, os controles e as
-
-obrigações estabelecidas por estas Regras e Procedimentos de Serviços Qualificados devem ser
-
-passíveis de verificação e ser enviados para a Anbima sempre que solicitados.
-
-§2º. Não se aplica o disposto no caput aos contratos estabelecidos com os investidores.
-
-## Art. 47
-
-Estas Regras e Procedimentos de Serviços Qualificados entram em vigor em 23 de março de
-
-2026.
+de 2027.

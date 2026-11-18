@@ -3,7 +3,7 @@ id: anbima-regras-e-procedimentos-do-codigo-de-distribuicao
 orgao: anbima
 tipo: regras-procedimentos
 numero:
-data: 2025-09-22
+data: 2027-01-04
 publicacao_dou:
 ementa: Regras e Procedimentos do Código de Distribuição
 situacao: vigente
@@ -11,192 +11,242 @@ versao_texto: original
 vigente_ate_ato:
 aguarda_consolidado_oficial: false
 historico_parcial: true
-fonte_original: https://www.anbima.com.br/data/files/22/83/75/1F/28EB8910F5991A89EA2BA2A8/RP_Distribuicao_22_09_2025_1_.pdf
-fonte_consolidada: https://www.anbima.com.br/data/files/22/83/75/1F/28EB8910F5991A89EA2BA2A8/RP_Distribuicao_22_09_2025_1_.pdf
-sha256_fonte: ddfd342241ca1230fb9aa3c8bc80c3e035b119ab4602427a1d2f0f3f91c49a9d
-baixado_em: 2026-10-29
-verificado_em: 2026-10-29
-incerteza: Documento de autorregulação da ANBIMA (vigente a partir de 2025-09-22, segundo a página da entidade), extraído por script do PDF, data-base 2026-10-29. Vincula só as instituições aderentes ou participantes. Texto de titularidade da ANBIMA, reproduzido para uso informativo; retirado a pedido (ver autorregulacao/README.md). Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A página final de registro das assinaturas eletrônicas do PDF (nomes, e-mails, IP e localização dos signatários) foi retirada; a validação das assinaturas é feita no PDF oficial.
+fonte_original: https://www.anbima.com.br/data/files/0F/C1/77/F1/D54E1A103AD8EA1A692BA2A8/RP_de_Distribuicao_04_01_2027.PDF
+fonte_consolidada: https://www.anbima.com.br/data/files/0F/C1/77/F1/D54E1A103AD8EA1A692BA2A8/RP_de_Distribuicao_04_01_2027.PDF
+sha256_fonte: 6abcd77d83f85db2e3303c03a94ebabf0c1d0b212a43b72c1f208ee1ad4ad6b8
+baixado_em: 2026-11-18
+verificado_em: 2026-11-18
+incerteza: Documento de autorregulação da ANBIMA (vigente a partir de 2027-01-04, segundo a página da entidade), extraído por script do PDF, data-base 2026-11-18. Vincula só as instituições aderentes ou participantes. Texto de titularidade da ANBIMA, reproduzido para uso informativo; retirado a pedido (ver autorregulacao/README.md). Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A página final de registro das assinaturas eletrônicas do PDF (nomes, e-mails, IP e localização dos signatários) foi retirada; a validação das assinaturas é feita no PDF oficial.
 nivel_verificacao: pdf-extraido
 ---
 
 Sumário
 
-INTRODUÇÃO ........................................................................................................................................ 5
+INTRODUÇÃO ............................................................................................................................. 7
 
-CAPÍTULO I – OBJETIVO E ABRANGÊNCIA ............................................................................................... 6
+CAPÍTULO I – OBJETIVO E ABRANGÊNCIA .................................................................................... 8
 
-CAPÍTULO II – DA ATIVIDADE DE DISTRIBUIÇÃO DE PRODUTOS DE INVESTIMENTO ................................ 7
+CAPÍTULO II – DA ATIVIDADE DE DISTRIBUIÇÃO DE ..................................................................... 9
 
-Seção I – Regras gerais .................................................................................................................................... 7
+PRODUTOS DE INVESTIMENTO ................................................................................................... 9
 
-Seção II – Divulgação de informações por meios eletrônicos ......................................................................... 7
+Seção I – Regras gerais ............................................................................................................... 9
 
-Seção III – Canais Digitais ................................................................................................................................. 8
+Seção II – Divulgação de informações por meios eletrônicos ........................................................ 9
 
-Seção IV – Remuneração do Distribuidor ........................................................................................................ 9
+Seção III – Canais Digitais ......................................................................................................... 11
 
-CAPÍTULO III – DIVULGAÇÃO DA REMUNERAÇÃO DO DISTRIBUIDOR AOS INVESTIDORES ....................... 9
+Seção IV – Remuneração do Distribuidor ................................................................................... 11
 
-Seção I – Objetivo e abrangência .................................................................................................................... 9
+CAPÍTULO III – DIVULGAÇÃO DA REMUNERAÇÃO DO DISTRIBUIDOR AOS INVESTIDORES .......... 12
 
-Seção II – Informações qualitativas ............................................................................................................... 12
+Seção I – Objetivo e abrangência .............................................................................................. 12
 
-Seção III – Informações quantitativas ............................................................................................................ 15
+Seção II – Informações qualitativas ........................................................................................... 15
 
-Subseção I – Divulgação de Informações ...................................................................................................... 15
+Seção III – Informações quantitativas ....................................................................................... 19
 
-Subseção II – Informe de Investimento ......................................................................................................... 16
+Subseção I – Divulgação de Informações ................................................................................... 19
 
-Seção IV – Extrato Trimestral ......................................................................................................................... 17
+Subseção II – Informe de Investimento ...................................................................................... 20
 
-CAPÍTULO IV – CONHEÇA SEU CLIENTE ................................................................................................. 20
+Seção IV – Extrato Trimestral .................................................................................................... 21
 
-CAPÍTULO V - SUITABILITY ................................................................................................................... 21
+CAPÍTULO IV – CONHEÇA SEU CLIENTE ...................................................................................... 25
 
-Seção I – Regras gerais .................................................................................................................................. 21
+Seção I – Regras gerais .............................................................................................................. 25
 
-Seção II – Classificação do cliente .................................................................................................................. 25
+Seção II – Cadastro e registro de atividades dos clientes ............................................................. 27
 
-Seção III – Classificação dos Produtos de Investimento ................................................................................ 27
+Seção III – Avaliação de clientes baseada em risco ..................................................................... 27
 
-Subseção I – Classificação de risco ................................................................................................................ 28
+CAPÍTULO V – SUITABILITY........................................................................................................ 31
 
-Subseção II – Categoria de Produtos de Investimento .................................................................................. 37
+Seção I – Regras gerais ............................................................................................................. 31
 
-Subseção III – Produtos de Investimento complexos .................................................................................... 37
+Seção II – Classificação do investidor ........................................................................................ 36
 
-Subseção IV – Serviço de intermediação no exterior .................................................................................... 38
+Seção III – Classificação dos Produtos de Investimento .............................................................. 38
 
-Subseção V – Laudo ANBIMA ........................................................................................................................ 40
+Subseção I – Classificação de risco ............................................................................................ 39
 
-CAPÍTULO VI – CONTRATAÇÃO DE TERCEIROS PARA DISTRIBUIÇÃO DE PRODUTOS DE INVESTIMENTO 42
+Subseção II – Categoria de Produtos de Investimento ................................................................ 50
 
-Seção I – Regras gerais .................................................................................................................................. 42
+Subseção III – Produtos de Investimento complexos .................................................................. 50
 
-2
+Seção IV – Serviço de intermediação no exterior ....................................................................... 51
 
-Seção II – Relatório ANBIMA ......................................................................................................................... 44
+Seção V – Laudo Anbima .......................................................................................................... 53
 
-Seção III – Supervisão baseada em risco ....................................................................................................... 45
+CAPÍTULO VI – CONTRATAÇÃO DE TERCEIROS PARA DISTRIBUIÇÃO DE ...................................... 54
 
-CAPÍTULO VII – CONTRATAÇÃO DE ASSESSORES DE INVESTIMENTOS ................................................... 46
+PRODUTOS DE INVESTIMENTO ................................................................................................. 54
 
-CAPÍTULO VIII - CONTRATAÇÃO DE INFLUENCIADORES DIGITAIS .......................................................... 47
+Seção I – Regras gerais ............................................................................................................. 54
 
-Seção I - Transparência .................................................................................................................................. 48
+Seção II – Relatório Anbima ...................................................................................................... 56
 
-Seção II – Responsabilidade .......................................................................................................................... 49
+Seção III – Supervisão baseada em risco .................................................................................... 56
 
-Seção III – Armazenamento ........................................................................................................................... 49
+CAPÍTULO VII – CONTRATAÇÃO DE ASSESSORES DE INVESTIMENTOS ........................................ 58
 
-CAPÍTULO IX – SERVIÇOS DE INTERMEDIAÇÃO NO EXTERIOR ............................................................... 50
+CAPÍTULO VIII – INFLUENCIADORES DIGITAIS ............................................................................ 59
 
-CAPÍTULO X – TRANSFERÊNCIA DE PRODUTOS DE INVESTIMENTO ....................................................... 53
+Seção I – Transparência ............................................................................................................ 60
 
-Seção I – Regras gerais .................................................................................................................................. 53
+Seção II – Responsabilidade ...................................................................................................... 62
 
-Seção II – Transferência de cotas de Classes De Fundos De Investimento ................................................... 55
+Seção III – Armazenamento ...................................................................................................... 62
 
-Seção III - Conta e Ordem .............................................................................................................................. 56
+CAPÍTULO IX – SERVIÇOS DE INTERMEDIAÇÃO NO EXTERIOR .................................................... 63
 
-Seção IV – Conciliação de posição ................................................................................................................. 57
+CAPÍTULO X – PORTABILIDADE DE PRODUTOS DE INVESTIMENTO ............................................. 66
 
-Seção V – Transferência de Custódia dos demais Produtos de Investi- mento ............................................. 57
+Seção I – Regras gerais ............................................................................................................. 66
 
-CAPÍTULO XI – APURAÇÃO DE VALORES DE REFERÊNCIA ...................................................................... 59
+Seção II – Política, controles e procedimentos internos.............................................................. 66
 
-Seção I – Critérios para a apuração de valores de referência dos títulos ..................................................... 59
+Subseção I – Interface digital .................................................................................................... 67
 
-Seção II – Regras gerais ................................................................................................................................. 62
+Seção III – Recepção da solicitação, processamento e efetivação da Portabilidade .................... 68
 
-Subseção I – Responsabilidade ...................................................................................................................... 62
+Subseção I – Portabilidade de cotas de Classes de Fundos de Investimento ............................... 70
 
-Subseção II – Estrutura organizacional .......................................................................................................... 62
+Subseção II – Conta e Ordem ..................................................................................................... 72
 
-Subseção III – Manual de apuração de valores de referência ....................................................................... 63
+Subseção III – Conciliação de posição ........................................................................................ 73
 
-CAPÍTULO XII – PUBLICIDADE ............................................................................................................... 66
+Subseção IV – Portabilidade de Custódia dos demais Produtos de Investimento ........................ 73
 
-Seção I – Regras gerais .................................................................................................................................. 66
+CAPÍTULO XI – APURAÇÃO DE VALORES DE REFERÊNCIA ........................................................... 76
 
-Seção II – Material Publicitário ...................................................................................................................... 68
+Seção I – Critérios para a apuração de valores de referência dos títulos ..................................... 76
 
-Seção III – Material Técnico ........................................................................................................................... 69
+Seção II – Regras gerais ............................................................................................................ 79
 
-Seção IV – Qualificações ................................................................................................................................ 70
+Subseção I – Responsabilidade ................................................................................................. 79
 
-Seção V – Simulação e comparação .............................................................................................................. 70
+Subseção II – Estrutura organizacional ...................................................................................... 80
 
-Subseção I – Simulação ................................................................................................................................. 70
+Subseção III – Manual de apuração de valores de referência ..................................................... 80
 
-Subseção II – Comparação ............................................................................................................................. 71
+CAPÍTULO XII – PUBLICIDADE .................................................................................................... 83
 
-Seção VI – Avisos obrigatórios ....................................................................................................................... 74
+Seção I – Regras gerais ............................................................................................................. 84
 
-CAPÍTULO XIII – ENVIO DE INFORMAÇÕES PARA A BASE DE DADOS DA ANBIMA .................................. 74
-
-Seção I – Envio de informações para o private .............................................................................................. 75
-
-3
-
-Seção II – Envio de informações para o varejo .............................................................................................. 77
-
-CAPÍTULO XIV – PENALIDADES ............................................................................................................. 78
-
-CAPÍTULO XV – DISPOSIÇÕES FINAIS E TRANSITÓRIAS .......................................................................... 78
-
-ANEXO COMPLEMENTAR I – REGRAS E PROCEDIMENTOS DE DISTRIBUIÇÃO PARA CLIENTES PRIVATE .. 80
-
-ANEXO COMPLEMENTAR II – REGRAS E PROCEDIMENTOS DE DISTRIBUIÇÃO PARA FUN DOS DE
-
-INVESTIMENTO ................................................................................................................................... 83
-
-CAPÍTULO I – OBJETIVO E ABRANGÊNCIA ............................................................................................. 83
-
-CAPÍTULO II – DIVULGAÇÃO DE INFORMAÇÕES .................................................................................... 83
-
-CAPÍTULO III – DISTRIBUIÇÃO POR CONTA E ORDEM ............................................................................ 84
-
-CAPÍTULO IV – DISPOSIÇÕES FINAIS ..................................................................................................... 87
-
-ANEXO COMPLEMENTAR III – MODELOS DE DOCUMENTOS PARA TRANSFERÊNCIA DE PRODUTOS DE
-
-INVESTIMENTO ................................................................................................................................... 88
-
-Modelo I – Carta do cliente .................................................................................................................. 88
-
-Modelo II – Carta para Administrador Fiduciário (modalidade PCO/Di reto) .......................................... 90
-
-Modelo III – Carta para Administrador Fiduciário (modalidade Di reto/PCO) ......................................... 93
-
-Modelo IV – Carta do cliente (modalidade Direto/PCO)........................................................................ 96
-
-Modelo V – Carta para Administrador Fiduciário (modalidade Di reto/PCO) ......................................... 98
-
-Modelo VI – Carta do cliente (modalidade Direto/PCO)...................................................................... 101
-
-Modelo VII – Carta para Administrador Fiduciário (modalidade Di- reto/PCO) .................................... 103
-
-Modelo VIII - Carta do Cliente (modalidade PCO/PCO) ....................................................................... 105
-
-Modelo IX – Carta para Administrador Fiduciário (modalidade PCO/PCO) .......................................... 107
-
-Modelo X – Conciliação de posição (modalidade PCO/PCO) ............................................................... 110
-
-APÊNDICE A – MODELO PARA TRANSPARÊNCIA NA REMUNERAÇÃO DO DISTRIBUIDOR ..................... 112
-
-APÊNDICE B – CLASSIFICAÇÃO DE RISCO DE PRODUTOS DE INVESTIMENTO NO EXTERIOR PARA FINS DE
-
-ACOMPANHAMENTO DE CARTEIRA EM MELHORES PRÁTICAS ............................................................. 113
+Seção II – Material Publicitário ................................................................................................. 86
 
 4
+
+Seção III – Material Técnico ...................................................................................................... 87
+
+Seção IV – Qualificações ........................................................................................................... 88
+
+Seção V – Simulação e comparação .......................................................................................... 89
+
+Subseção I – Simulação ............................................................................................................ 89
+
+Subseção II – Comparação ........................................................................................................ 90
+
+Seção VI – Avisos obrigatórios .................................................................................................. 93
+
+CAPÍTULO XIII – ENVIO DE INFORMAÇÕES PARA O BANCO DE DADOS DA ANBIMA ................... 93
+
+Seção I – Envio de informações para o private ........................................................................... 95
+
+Seção II – Envio de informações para o varejo ........................................................................... 98
+
+CAPÍTULO XIV – PENALIDADES ................................................................................................ 100
+
+CAPÍTULO XV – DISPOSIÇÕES FINAIS E TRANSITÓRIAS ............................................................. 101
+
+ANEXO COMPLEMENTAR I – REGRAS E PROCEDIMENTOS DE DISTRIBUIÇÃO PARA INVESTIDORES
+
+PRIVATE ................................................................................................................................. 103
+
+ANEXO COMPLEMENTAR II – REGRAS E PROCEDIMENTOS DE DISTRIBUIÇÃO PARA FUNDOS DE
+
+INVESTIMENTO ...................................................................................................................... 106
+
+CAPÍTULO I – OBJETIVO E ABRANGÊNCIA ................................................................................ 106
+
+CAPÍTULO II – DIVULGAÇÃO DE INFORMAÇÕES ....................................................................... 106
+
+CAPÍTULO III – DISTRIBUIÇÃO POR CONTA E ORDEM ............................................................... 108
+
+CAPÍTULO IV – DISPOSIÇÕES FINAIS ........................................................................................ 111
+
+ANEXO COMPLEMENTAR III – MODELOS DE DOCUMENTOS PARA ........................................... 112
+
+PORTABILIDADE DE PRODUTOS DE INVESTIMENTO ................................................................ 112
+
+Modelo I – Carta do investidor ................................................................................................ 112
+
+Ref.: Solicitação de Alteração de Distribuidor .................................................................................. 112
+
+Modelo II – Carta para Administrador Fiduciário (modalidade PCO/Direto) ............................. 114
+
+Ref.: Solicitação de Alteração de Distribuidor e Modalidade de Investimento .................................. 114
+
+Modelo III – Carta para Administrador Fiduciário (modalidade PCO/Direto) ............................ 117
+
+Ref.: Solicitação de Alteração de Modalidade de Investimento ........................................................ 117
+
+Modelo IV – Carta do investidor (modalidade Direto/PCO) ...................................................... 119
+
+Ref.: Solicitação de Alteração de Distribuidor e Modalidade de Investimento .................................. 119
+
+Modelo V – Carta para Administrador Fiduciário (modalidade Direto/PCO) ............................ 121
+
+5
+
+Ref.: Solicitação de Alteração de Distribuidor e Modalidade de Investimento .................................. 121
+
+Modelo VI – Carta do investidor (modalidade Direto/PCO) ...................................................... 124
+
+Ref.: Solicitação de Alteração de Modalidade de Investimento ........................................................ 124
+
+Modelo VII – Carta para Administrador Fiduciário (modalidade Direto/PCO) .......................... 126
+
+Ref.: Solicitação de Alteração de Modalidade de Investimento ........................................................ 126
+
+Modelo VIII – Carta do investidor (modalidade PCO/PCO) ....................................................... 129
+
+Ref.: Solicitação de Alteração de Distribuidor .................................................................................. 129
+
+Modelo IX – Carta para Administrador Fiduciário (modalidade PCO/PCO) ............................... 132
+
+Ref.: Solicitação de Alteração de Distribuidor .................................................................................. 132
+
+Modelo X – Conciliação de posição (modalidade PCO/PCO) ..................................................... 135
+
+Ref.: Conciliação de posição – Motivo da necessidade de ajuste ...................................................... 135
+
+Modelo XI – Layout com informações mínimas para Portabilidade – troca de informações entre
+
+Distribuidores de Origem e de Destino .................................................................................... 137
+
+Modelo XII – Layout com informações mínimas para Portabilidade – troca de informações entre
+
+Distribuidor de Destino x Administrador ................................................................................. 139
+
+Modelo XIII – Layout com informações mínimas para Portabilidade – Posição ........................ 141
+
+Modelo XIV – Layout com informações mínimas para Portabilidade – Movimentação ............. 143
+
+APÊNDICE A – MODELO PARA TRANSPARÊNCIA NA REMUNERAÇÃO DO DISTRIBUIDOR .......... 145
+
+APÊNDICE B – CLASSIFICAÇÃO DE RISCO DE PRODUTOS DE INVESTIMENTO NO EXTERIOR PARA
+
+FINS DE ACOMPANHAMENTO DE CARTEIRA............................................................................. 146
+
+6
 
 INTRODUÇÃO
 
 Estas Regras e Procedimentos, bem como seus Anexos Complementares, aprovados pelo Fórum de
 
-Distribuição da ANBIMA, dispõe sobre a atividade de Distribuição de Produtos de Investimento.
+Distribuição da Anbima, dispõem sobre a atividade de Distribuição de Produtos de Investimento.
 
 O Código de Distribuição de Produtos de Investimento, de natureza principiológica, dispõe sobre os
 
@@ -206,27 +256,25 @@ seus Anexos Complementares. Estas regras são complementares ao referido Código
 
 seguidas pelas instituições que decidirem aderir a ele.
 
-A ANBIMA, autorreguladora privada, tem competência para supervisionar apenas o disposto ex-
+A Anbima, autorreguladora privada, tem competência para supervisionar apenas o disposto
 
-pressamente nestas Regras e Procedimentos, não estendendo, portanto, sua atuação às regras pre-
+expressamente nestas Regras e Procedimentos, não estendendo, portanto, sua atuação às regras
 
-vistas nas normas regulamentares1. No decorrer deste documento, fazemos referência ao termo
+previstas nas normas regulamentares1. No decorrer deste documento, fazemos referência ao termo
 
 “regulação” tão somente para fins educacionais e de modo não exaustivo, estritamente para que as
 
-instituições estejam cientes de que, além das regras de autorregulação aqui previstas, adicional-
+instituições estejam cientes de que, além das regras de autorregulação aqui previstas,
 
-mente há normas regulamentares a serem observadas em função de suas atividades.
+adicionalmente há normas regulamentares a serem observadas em função de suas atividades.
 
 Por fim, os termos e expressões utilizados nestas Regras e Procedimentos, quando aplicável, terão
 
-os respectivos significados a eles atribuídos no Glossário ANBIMA, disponível no site da Associação
+os respectivos significados a eles atribuídos no Glossário Anbima, disponível no site da Associação
 
 na internet.
 
-1 Tais como Leis e Resoluções da CVM e do BCB.
-
-5
+1 Tais como Leis e Resoluções da CVM e do BCB
 
 CAPÍTULO I – OBJETIVO E ABRANGÊNCIA
 
@@ -260,7 +308,9 @@ Anexo Complementar II: Regras e Procedimentos específicos para a Distribuição
 
 Fundos de Investimento; e
 
-Anexo Complementar III: modelos para transferência de Produtos de Investimento.
+Anexo Complementar III: modelos de documentos para Portabilidade de Produtos de
+
+Investimento.
 
 §3º. Sem prejuízo do disposto no Código de Distribuição, qualquer modificação das
 
@@ -272,15 +322,15 @@ estabelecer novos Anexos Complementares a estas regras, desde que relacionados �
 
 constantes dos títulos e capítulos aplicáveis ao Código de Distribuição.
 
+8
+
 §4º. Em caso de eventual divergência entre as disposições desta Parte Geral e as regras
 
 específicas dos Anexos Complementares, prevalecem as disposições dos Anexos Complementares.
 
-6
+CAPÍTULO II – DA ATIVIDADE DE DISTRIBUIÇÃO DE
 
-CAPÍTULO II – DA ATIVIDADE DE DISTRIBUIÇÃO DE PRODUTOS DE INVES-
-
-TIMENTO
+PRODUTOS DE INVESTIMENTO
 
 Seção I – Regras gerais
 
@@ -288,15 +338,31 @@ Seção I – Regras gerais
 
 Os Distribuidores, quando estiverem prestando informações ou recomendando Produtos de
 
-Investimento, não podem induzir os clientes ou potenciais clientes a erro ao dar a entender que
+Investimento, não podem induzir os investidores ou potenciais investidores a erro ao dar a entender
 
-atuam como prestadores de serviço de consultoria independente de Valores Mobiliários de forma
+que atuam como prestadores de serviço de consultoria independente de Valores Mobiliários de
 
-autônoma à Distribuição de Produtos de Investimento.
+forma autônoma à Distribuição de Produtos de Investimento.
+
+Parágrafo único. A Distribuição ativa de Produtos de Investimento pelos Distribuidores, ou
+
+seus representantes, é vedada ao investidor ou potencial investidor que não possuir as
+
+características do público-alvo específico definido para o Produto de Investimento, tais como
+
+investidor qualificado ou profissional.
+
+## Art. 3º
+
+Os Distribuidores devem manter o registro, por prazo não inferior a 5 (cinco) anos, de todas
+
+as ordens realizadas pelo investidor em Valores Mobiliários, conforme estabelece a regulação
+
+vigente aplicável.
 
 Seção II – Divulgação de informações por meios eletrônicos
 
-## Art. 3º
+## Art. 4º
 
 Os Distribuidores devem disponibilizar em seus sites ou em canais alternativos seção
 
@@ -304,9 +370,11 @@ exclusiva sobre os Produtos de Investimento distribuídos, contendo, no mínimo,
 
 informações:
 
+9
+
 I. Descrição do objetivo e/ou da estratégia de investimento;
 
-II. Público-alvo, quando destinado a clientes específicos;
+II. Público-alvo, quando destinado a investidores específicos;
 
 III. Carência para resgate e prazo de operação;
 
@@ -316,7 +384,7 @@ V. Tributação aplicável;
 
 VI. Classificação do Produto de Investimento, nos termos estabelecidos pela Seção III,
 
-Capítulo IV destas Regras e Procedimentos de Distribuição;
+Capítulo V destas Regras e Procedimentos de Distribuição;
 
 VII. Descrição resumida dos principais fatores de risco, incluindo, no mínimo, os riscos de
 
@@ -324,71 +392,79 @@ liquidez, de mercado e de crédito, quando aplicável;
 
 VIII. Inclusão de aviso obrigatório sobre a remuneração recebida, direta ou indiretamente,
 
-pela Distribuição de Produto de Investimento com o seguinte teor: “A instituição é re-
+pela Distribuição de Produto de Investimento com o seguinte teor: “A instituição é
 
-munerada pela Distribuição do produto. Para mais informações, consulte o documento
+remunerada pela Distribuição do produto. Para mais informações, consulte o documento
 
 disponível em [indicar o endereço eletrônico para consulta a Política de Remuneração,
 
-7
+conforme definição dada pelo §1º do artigo 9º destas Regras e Procedimentos de
 
-IX. X. conforme definição dada pelo §1º do artigo 8º destas Regras e Procedimentos de
+Distribuição]”;
 
-Distribuição;
-
-Informações mínimas sobre as regras dos Fundos Garantidores, incluindo limites de
+IX. Informações mínimas sobre as regras dos Fundos Garantidores, incluindo limites de
 
 pagamento por CPF e instituição financeira e prazo de apuração para o limite, conforme
 
 aplicável; e
 
-Endereço eletrônico para acesso ao portal eletrônico do Fundo Garantidor com mais
+X. Endereço eletrônico para acesso ao portal eletrônico do Fundo Garantidor com mais
 
 informações, caso aplicável.
 
-Parágrafo único. Os Distribuidores, quando da divulgação de informações de Fundos De Investi-
+Parágrafo único. Os Distribuidores, quando da divulgação de informações de Fundos de
 
-mento em seu site ou em canais alternativos, devem observar, além do previsto no caput, o disposto
+Investimento em seu site ou em canais alternativos, devem observar, além do previsto no caput, o
 
-do artigo 2º do Anexo Complementar II destas Regras e Procedimentos de Distribuição.
-
-## Art. 4º
-
-Os Distribuidores devem possuir canais de atendimento compatíveis com seu porte e
-
-número de clientes para esclarecimento de dúvidas e recebimento de reclamações.
-
-Seção III – Canais Digitais
+disposto no artigo 2º do Anexo Complementar II destas Regras e Procedimentos de Distribuição.
 
 ## Art. 5º
 
-Os Distribuidores devem estabelecer procedimentos para disponibilização de senhas aos
+Os Distribuidores devem possuir canais de atendimento compatíveis com seu porte e
 
-clientes que realizam transações por meio de Canais Digitais que contenham, no mínimo:
+número de investidores para esclarecimento de dúvidas e recebimento de reclamações.
 
-I. II. III. IV. Disponibilização de senhas com acesso individuais;
+10
 
-Desbloqueio de senhas mediante confirmação de dados do cliente, tais como: dados
+Seção III – Canais Digitais
+
+## Art. 6º
+
+Os Distribuidores devem implementar, no mínimo, os seguintes procedimentos para a
+
+realização de operações por investidores, como aplicações ou resgates, por meio de canais digitais:
+
+I. Disponibilização de senhas com acesso individuais;
+
+II. Desbloqueio de senhas mediante confirmação de dados do investidor, tais como: dados
 
 pessoais, cadastrais e/ou de operações;
 
-Manutenção e armazenamento das operações de forma criptografada; e
+III. Manutenção e armazenamento das operações de forma criptografada; e
 
-Impossibilidade de um mesmo Usuário acessar mais de uma sessão autenticada
+IV. Impossibilidade de um mesmo Usuário acessar mais de uma sessão autenticada
 
-simultaneamente;
+simultaneamente.
 
-§1º. Os Canais Digitais devem conter trilhas de auditoria suficientes para assegurar o
+§1º
 
-rastreamento das operações realizadas pelos clientes, incluindo, mas não se limitando a:
+. Os Canais Digitais devem conter trilhas de auditoria suficientes para assegurar o
 
-8
+rastreamento das operações realizadas pelos investidores, incluindo, mas não se limitando a:
 
 I. Identificação do Usuário;
 
-II. Data e horário da operação; e
+II. III. IV. V. Data e horário da operação;
 
-III. Identificação da operação realizada.
+Identificação do tipo de operação realizada (por exemplo, aplicação ou resgate);
+
+Identificação do produto de investimento alvo da operação; e
+
+Volume financeiro, quantidade do ativo, quantidade de cotas ou outro dado equivalente
+
+que permita a identificação da dimensão econômica da operação, conforme aplicável ao
+
+tipo de produto ou da operação realizada.
 
 §2º. O período de retenção das trilhas de auditoria de que trata o parágrafo anterior deve ser
 
@@ -396,7 +472,9 @@ de, no mínimo, 5 (cinco) anos.
 
 Seção IV – Remuneração do Distribuidor
 
-## Art. 6º
+11
+
+## Art. 7º
 
 Os Distribuidores devem disponibilizar informações referentes à remuneração recebida,
 
@@ -410,19 +488,21 @@ INVESTIDORES
 
 Seção I – Objetivo e abrangência
 
-## Art. 7º
+## Art. 8º
 
-O Distribuidor deverá divulgar aos seus investidores informações qualitativas e quantitativas
+O Distribuidor deverá divulgar aos investidores com os quais mantém relação comercial
 
-acerca da remuneração que aferir em razão da Distribuição de Produtos de Investimento:
+informações qualitativas e quantitativas acerca da remuneração que auferir em razão da
 
-I. A qualquer tempo, para consecução de suas atividades, por meio da Política de
+Distribuição de Produtos de Investimento:
 
-Remuneração contendo informações qualitativas gerais acerca do Distribuidor, nos termos
+I. II. A qualquer tempo, para consecução de suas atividades, por meio da Política de
 
-da Seção II deste Capítulo;
+Remuneração contendo informações qualitativas gerais acerca do Distribuidor, nos
 
-II. No momento do investimento ou desinvestimento por parte do investidor:
+termos da Seção II deste Capítulo;
+
+No momento do investimento ou desinvestimento por parte do investidor:
 
 a. Informações quantitativas e específicas da operação contratada pelo investidor, em
 
@@ -430,27 +510,31 @@ valores ou percentuais efetivamente praticados ou razoavelmente estimados para a
 
 Distribuição de Produtos de Investimento enquadrados na definição de Valores
 
-Mobiliários, observado a Subseção I da Seção III deste Capítulo;
+Mobiliários, observando-se a Subseção I da Seção III deste Capítulo; e
 
-b. Alternativamente, exclusivamente na hipótese de impossibilidade de definição de
+b. Alternativamente, o Informe de Investimentos – exclusivamente na hipótese de
 
-um valor definitivo ou estimativas razoáveis da remuneração auferida pelo
+impossibilidade de definição de um valor definitivo ou estimativas razoáveis da
 
-9
+remuneração auferida pelo Distribuidor na Distribuição de Produtos de Investimento
 
-III. Distribuidor na Distribuição de Produtos de Investimento enquadrados na definição
+enquadrados na definição de Valores Mobiliários ou na hipótese de a contratação da
 
-de Valores Mobiliários ou na hipótese de a contratação da operação não ter ocorrido
+operação não ter ocorrido em ambiente de investidor logado ou passível de
 
-em ambiente de investidor logado ou passível de formalização registrada, o Informe
+formalização registrada, contendo informações quantitativas e específicas da operação
 
-de Investimento, contendo informações quantitativas, observada as regras e prazos
+12
 
-específicos estabelecidas na Subseção II da Seção III deste Capítulo;
+III. realizada pelo investidor, observadas as regras e prazos estabelecidos na Subseção II da
 
-De forma trimestral, informações quantitativas consolidadas do período, por meio do
+Seção III deste Capítulo.
 
-Extrato Trimestral, observada as Seção IV deste Capítulo.
+De forma trimestral, informações quantitativas consolidadas do período relativas à
+
+Distribuição de Produtos de Investimento enquadrados na definição de Valores
+
+Mobiliários, por meio do Extrato Trimestral, observada a Seção IV deste Capítulo.
 
 §1º. As obrigações do Distribuidor indicadas nos incisos II e III do caput deste artigo, salvo se
 
@@ -458,57 +542,59 @@ expresso em contrário, não se aplicam:
 
 I. Aos investidores caracterizados como profissionais, nos termos da regulação aplicável;
 
-II. Às operações:
+II. Às operações envolvendo:
 
-a. b. c. d. de Distribuição de Produtos de Investimento enquadrados na definição de Valores
+a. A Distribuição de Produtos de Investimento enquadrados na definição de
 
-Mobiliários quando ofertados publicamente, cuja Distribuição se dê pela contratação
+Valores Mobiliários quando ofertados publicamente, cuja Distribuição se dê
 
-em mercado primário, que deverão observar o previsto nos artigos 12 e 14 destas
+pela contratação em mercado primário, que deverão observar o previsto
 
-Regras e Procedimentos, o Código de Ofertas Públicas e a regulação, conforme
+nos artigos 13 e 15 destas Regras e Procedimentos, o Código de Ofertas
 
-aplicável.
+Públicas e a regulação, conforme aplicável.
 
-de derivativos de balcão que, cumulativamente, não possuam contraparte central,
+b. Derivativos de balcão que, cumulativamente, não possuam contraparte
 
-sejam distribuídas em Ofertas não massificadas para atender demandas do investidor
+central, sejam distribuídos em Ofertas não massificadas para atender
 
-e tenham sido solicitadas por investidores mediante cotação, observado o §2º deste
+demandas do investidor e tenham sido solicitadas por investidores
 
-artigo, a regulação e o Código de Negociação.
+mediante cotação, observado o §2º deste artigo, a regulação e o Código de
 
-compromissadas com lastro em Valores Mobiliários em que a remuneração tenha se
+Negociação.
 
-dado por meio de taxa de juros, quando:
+c. Compromissadas com lastro em Valores Mobiliários em que a remuneração
 
-i. a remuneração da operação compromissada não estiver vinculada ao preço
+tenha se dado por meio de taxa de juros, quando:
 
-do Valor Mobiliário utilizado como lastro;
+i. a remuneração da operação compromissada não estiver vinculada ao
 
-ii. a decisão do investidor na contratação com determinado Distribuidor tenha
+preço do Valor Mobiliário utilizado como lastro;
 
-sido tomada com base na taxa de juros pactuada na operação compromissada
+ii. a decisão do investidor na contratação com determinado Distribuidor
 
-e risco de crédito do Distribuidor contraparte; e
+tenha sido tomada com base na taxa de juros pactuada na operação
 
-iii. não seja cobrado qualquer valor que reduza a remuneração pactuada com o
+13
 
-Distribuidor, excluindo, nesta hipótese, valores decorrentes de questões fis-
+III. compromissada e risco de crédito do Distribuidor contraparte; e
 
-cais.
+iii. não seja cobrado qualquer valor que reduza a remuneração pactuada
 
-envolvendo cotas de Fundos de Investimento, quando:
+com o Distribuidor, excluindo, nesta hipótese, valores decorrentes de
 
-10
+questões fiscais.
 
-i. ii. distribuídas por Gestores de Recursos que somente atuem na Distribuição de
+Cotas de Fundos de Investimento, quando:
 
-cotas de Fundos de Investimento sob sua gestão; e
+a. distribuídas por Gestores de Recursos que somente atuem na Distribuição
 
-se caracterizem como cotas de Fundos Fechados e que sejam distribuídas em
+de cotas de Fundos de Investimento sob sua gestão; e
 
-ofertas privadas.
+i. se caracterizem como cotas de Fundos Fechados e que sejam
+
+distribuídas em ofertas privadas.
 
 §2º. Para cálculo e aferição das informações quantitativas previstas nos incisos II e III do caput
 
@@ -518,13 +604,13 @@ Produtos de Investimento:
 
 I. Emissões próprias de COE, LF e LIG classificadas como de Distribuição pública,
 
-observado o parágrafo único deste artigo;
+observado o §3º deste artigo;
 
-II. Derivativos de balcão e;
+II. Derivativos de balcão; e
 
 III. Demais tipos de Valores Mobiliários mantidos em posição proprietária no mercado
 
-secun dário.
+secundário.
 
 §3º. Para cálculo e aferição das informações quantitativas previstas nos incisos II e III do caput
 
@@ -540,35 +626,35 @@ II. Para Distribuição pública de:
 
 a. LF; e
 
+14
+
 b. LIG.
 
-§4º. O Informe de Investimento previsto neste Capítulo não se configura como documento a ser
+§4º. O Informe de Investimento previsto neste Capítulo não se configura como documento a
 
-disponibilizado pelo Distribuidor em formato específico, podendo as informações exigidas por ele
+ser disponibilizado pelo Distribuidor em formato específico, podendo as informações exigidas por
 
-serem disponibilizadas de forma definida a exclusivo critério do Distribuidor, observado estas Regras
+ele serem disponibilizadas de forma definida a exclusivo critério do Distribuidor, observadas estas
 
-e Procedimentos.
-
-11
+Regras e Procedimentos.
 
 Seção II – Informações qualitativas
 
-## Art. 8º
+## Art. 9º
 
 O Distribuidor deve disponibilizar e atualizar a Política de Remuneração contendo
 
 informações referentes à remuneração recebida, direta ou indiretamente, pela Distribuição de
 
-Produtos de Investimento
+Produtos de Investimento.
 
-§1º. Para atendimento do disposto no caput, os Distribuidores deverão disponibilizar, em seção
+§1º. Para atendimento do disposto no caput, os Distribuidores deverão disponibilizar, em
 
-exclusiva de sua página na rede mundial de computadores, informações qualitativas de todas as
+seção exclusiva de sua página na rede mundial de computadores, informações qualitativas de todas
 
-formas e arranjos de remuneração e potenciais conflitos de interesse relacionados a sua atividade,
+as formas e arranjos de remuneração e potenciais conflitos de interesse relacionados a sua
 
-nos termos aqui previstos.
+atividade, nos termos aqui previstos.
 
 §2º. A Política de Remuneração, de que trata o parágrafo anterior, deve ter linguagem clara e
 
@@ -586,15 +672,17 @@ IV. Mitigadores;
 
 V. Adicionalmente, na hipótese de existência de acordo para indicação de investidores
 
-pelo Distribuidor brasileiro para Distribuidores estrangeiros a fim de viabilizar serviços
+15
+
+VI. pelo Distribuidor brasileiro para Distribuidores estrangeiros a fim de viabilizar serviços
 
 de intermediação no exterior, divulgar qualitativamente:
 
-a. o arranjo de remuneração; e
+a. O arranjo de remuneração; e
 
-b. os potenciais conflitos de interesse.
+b. Os potenciais conflitos de interesse.
 
-VI. Adicionalmente, na hipótese de pagamento de adiantamentos pelo Distribuidor a
+Adicionalmente, na hipótese de pagamento de adiantamentos pelo Distribuidor a
 
 escritórios de assessoria de investimentos com a finalidade de contribuir com a
 
@@ -602,11 +690,9 @@ estruturação do negócio e/ou que não precisem ser ressarcidos pelos assessor
 
 divulgar qualitativamente:
 
-a. o arranjo de remuneração; e
+a. O arranjo de remuneração; e
 
-b. os potenciais conflitos de interesse.
-
-12
+b. Os potenciais conflitos de interesse.
 
 §3º. Com relação aos aspectos gerais previstos no inciso I do parágrafo anterior, os
 
@@ -624,11 +710,11 @@ de Investimento que concorrem com os seus Produtos de Investimento, detalhando o
 
 motivo pelo qual são concorrentes; e
 
-Recomendação de Produtos de Investimentos: informar os critérios adotados para a
+Recomendação de Produtos de Investimento: informar os critérios adotados para a
 
 escolha dos Produtos de Investimento que serão recomendados aos investidores,
 
-considerando a diversidade de Produtos de Investimento que compõe seu portfólio.
+considerando a diversidade de Produtos de Investimento que compõem seu portfólio.
 
 §4º. Referente ao inciso II do §2º deste artigo, os Distribuidores devem informar,
 
@@ -638,19 +724,21 @@ mencionados no §3º, inciso I, conforme as categorias dos Produtos de Investime
 
 não se limitando, a:
 
+16
+
 I. Percentual da taxa de performance;
 
 II. Spread; e
 
 III. Taxa de Distribuição, indicando, inclusive, se a remuneração dos profissionais
 
-diretamente envolvidos no esforço de venda varia de acordo com o Produto de
+diretamente envolvidos no esforço de venda varia de acordo com o Produto de Investimento
 
-Investimento distribuído ou modalidade de Produto de Investimento distribuído. Caso o
+distribuído ou modalidade de Produto de Investimento distribuído. Caso o Distribuidor seja
 
-Distribuidor seja remunerado por outros serviços que substituam a remuneração pela
+remunerado por outros serviços que substituam a remuneração pela Distribuição de Produtos
 
-Distribuição de Produtos de Investimento, estes devem ser especificados neste item.
+de Investimento, estes devem ser especificados neste item.
 
 §5º. Nos casos de Distribuição de Fundos de Investimento próprios e de Produto de
 
@@ -662,8 +750,6 @@ Investimento e operações realizadas são destinados ao Conglomerado ou Grupo E
 
 consequentemente, o remunera.
 
-13
-
 §6º. Os Distribuidores, para atendimento do disposto no inciso III do §2º deste artigo, deverão
 
 descrever os potenciais conflitos de interesse que possam existir em virtude da forma de
@@ -672,7 +758,7 @@ remuneração recebida pela Distribuição de Produtos de Investimento, tais com
 
 limitando, a:
 
-I. II. III. IV. Recomendação incentivada de Produtos de Investimento a investidores em virtude do
+I. II. III. Recomendação incentivada de Produtos de Investimento a investidores em virtude do
 
 recebimento de remuneração por meio de taxa de corretagem;
 
@@ -686,33 +772,33 @@ determina dos Produtos de Investimento ou quando direciona o investidor a ambien
 
 de Negociação de terceiros; e
 
-Negociações bilaterais de Produtos de Investimento, nas quais o Distribuidor atua como
+17
+
+IV. Negociações bilaterais de Produtos de Investimento, nas quais o Distribuidor atua como
 
 contraparte direta do investidor.
 
-§7º. Referente ao inciso IV do §2º deste artigo, os Distribuidores deverão descrever as medidas
+§7º. Referente ao inciso IV do §2º deste artigo, os Distribuidores deverão descrever as
 
-adotadas visando a mitigar os potenciais conflitos de interesse existentes nos termos do parágrafo
+medidas adotadas visando a mitigar os potenciais conflitos de interesse existentes nos termos do
 
-anterior.
+parágrafo anterior.
 
-## Art. 9º
+## Art. 10
 
 A Política de Remuneração deverá:
 
-I. II. III. IV. Ser atualizada no mesmo dia em que houver alterações das informações exigidas
+I. II. III. IV. Ser atualizada no mesmo dia em que houver alterações das informações exigidas neste
 
-neste Capítulo III;
+Capítulo III;
 
 Buscar transparência, clareza e precisão de informações, fazendo uso de linguagem
 
-simples, clara, objetiva e adequada aos investidores e potenciais investidores, de
+simples, clara, objetiva e adequada aos investidores e potenciais investidores, de modo
 
-modo a não induzir a erro ou a decisões equivocadas de investimentos;
+a não induzir a erro ou a decisões equivocadas de investimentos;
 
-Conter o endereço para o portal de educação financeira da ANBIMA “Como
-
-Investir” (https://comoinvestir.anbima.com.br)
+Conter o endereço para o portal de educação financeira da Anbima “Como Investir”2; e
 
 Conter informação destinada ao investidor:
 
@@ -720,93 +806,89 @@ a. Informações sobre a remuneração pela Distribuição de Produtos de
 
 Investimento enquadrados na definição de Valores Mobiliários específicas
 
-com relação às operações de investimento e/ou desinvestimento
+com relação às operações de investimento e/ou desinvestimento contratadas
 
-contratadas pelo investidor serão disponibilizadas pelo Distribuidor no
+pelo investidor serão disponibilizadas pelo Distribuidor no momento em que
 
-14
+ocorrerem, sendo facultado às Instituições Participantes incluírem, quando
 
-momento em que ocorrerem, sendo facultado às Instituições
+aplicável, o formato da divulgação, observadas as possibilidades dispostas na
 
-Participantes incluírem, quando aplicável, o formato da divulgação,
+Seção III deste Capítulo, e instruções de acesso ao ambiente e/ou documento
 
-observadas as possibilidades dispostas na Seção III destas Regras e
-
-Procedimentos, e instruções de acesso ao ambiente e/ou documento em
-
-que as informações foram disponibilizadas;
+em que as informações foram disponibilizadas;
 
 b. Será disponibilizado, trimestralmente, o Extrato Trimestral contendo
 
 informações consolidadas por modalidade de investimento sobre as
 
+2 https://comoinvestir.anbima.com.br
+
+18
+
 remunerações auferidas na Distribuição de Produtos de Investimento
 
-enquadrados na definição de Valores Mobiliários contratados pelo
+enquadrados na definição de Valores Mobiliários contratados pelo investidor
 
-investidor durante o período observado, sendo facultado às Instituições
+durante o período observado, sendo facultado às Instituições Participantes
 
-Participantes incluírem definição e descrição sobre o formato da
+incluírem definição e descrição sobre o formato da divulgação, observadas as
 
-divulgação, observadas as definições do artigo 15 destas Regras e
-
-Procedimentos.
+definições do artigo 16 destas Regras e Procedimentos.
 
 Seção III – Informações quantitativas
 
 Subseção I – Divulgação de Informações
 
-## Art. 10º
+## Art. 11
 
-O Distribuidor deve, no momento da efetivação da ordem de investimento ou
+O Distribuidor deve, até imediatamente antes da efetivação da ordem de investimento ou
 
 desinvestimento, disponibilizar as informações quantitativas e específicas da operação contratada
 
-pelo investidor que contenham, no mínimo
+pelo investidor em Produtos de Investimento enquadrados na definição de Valores Mobiliários que
 
-I. II. Valores ou percentuais efetivamente praticados para a Distribuição de Produtos
+contenham, no mínimo:
 
-de Investimento enquadrados na definição de Valores Mobiliários em questão;
+I. II. III. Valores ou percentuais efetivamente praticados na operação em questão;
 
-a. Na hipótese de não haver a possibilidade de observar o inciso I acima,
+Na hipótese de não haver a possibilidade de observar o inciso I acima, estimativas
 
-estimativas razoáveis e consistentes com valores usualmente observados
+razoáveis e consistentes com valores usualmente observados para remuneração do
 
-para remuneração do Distribuidor.
+Distribuidor; e
 
-Instruções de acesso e/ou referência da localização por meio de endereço
+Instruções de acesso e/ou referência da localização por meio de endereço (hyperlink) da
 
-(hyperlink) da Política de Remuneração com informações qualitativas previstas na
+Política de Remuneração com informações qualitativas previstas na Seção II deste
 
-Seção II deste Capítulo acima.
+Capítulo acima.
 
-## Art. 11
+## Art. 12
 
-O Distribuidor deverá, alternativamente à obrigação estabelecida no artigo 10º acima,
+O Distribuidor deverá, alternativamente à obrigação estabelecida no artigo 11 acima,
 
-disponibilizar um Informe de Investimento contendo informação quantitativas, exclusivamente na
-
-15
+disponibilizar um Informe de Investimento contendo informações quantitativas, exclusivamente na
 
 hipótese de:
 
 I. Não possuir:
 
-a. Valores ou percentuais efetivamente praticados para a Distribuição de
+19
 
-Produtos de Investimento enquadrados na definição de Valores Mobiliários;
+II. a. Valores ou percentuais efetivamente praticados para a Distribuição de Produtos
 
-e/ou
+de Investimento enquadrados na definição de Valores Mobiliários; e/ou
 
 b. Estimativas razoáveis e consistentes com valores usualmente observados para
 
 remuneração do Distribuidor.
 
-II. A decisão de investimento/desinvestimento que tenha sido realizada por meio de
+A decisão de investimento/desinvestimento que tenha sido realizada por meio de
 
-canais diferentes à área exclusiva do Distribuidor aos investidores para
+canais diferentes da área exclusiva do Distribuidor aos investidores para contratação de
 
-contratação de Produtos de Investimento, como, por exemplo:
+Produtos de Investimento, como, por exemplo:
 
 a. atendimento por voz, presencial, em Mesa de Operações; e
 
@@ -814,57 +896,57 @@ b. por meio de sistemas e plataformas de terceiros.
 
 §1º. O Informe de Investimento indicado neste artigo deverá observar as Regras e
 
-Procedimentos estabelecidas na Subseção II abaixo.
+Procedimentos estabelecidos na Subseção II abaixo.
 
-§2º. Para fins de entendimento da aliena “b”, inciso II, deste artigo, não serão considerados
+§2º. Para fins de entendimento da alínea “b”, inciso II, deste artigo, não serão considerados
 
 como plataformas de terceiros aquelas que se configurem como white label.
 
 Subseção II – Informe de Investimento
 
-## Art. 12
+## Art. 13
 
-Observadas as hipóteses previstas no artigo 11, o Distribuidor deverá disponibilizar aos
+Observadas as hipóteses previstas no artigo 12, o Distribuidor deverá disponibilizar aos
 
 investidores o Informe de Investimento, em até 3 (três) dias úteis após a efetivação da ordem do
 
-investimento ou desinvestimento, informações quantitativas relacionadas à remuneração auferidas
+investimento ou desinvestimento, com informações quantitativas relacionadas à remuneração
 
-pela Distribuição de Produtos de Investimento enquadrados na definição de Valores Mobiliários, de
+auferida pela Distribuição de Produtos de Investimento enquadrados na definição de Valores
 
-forma consistente com a Política de Remuneração, contendo, no mínimo:
+Mobiliários, de forma consistente com a Política de Remuneração, contendo, no mínimo:
 
-I. II. III. Nome e/ou modalidade de investimento;
+I. Nome e/ou modalidade de investimento;
 
-Quantidade e/ou valor total dos Valores Mobiliários negociados;
+II. Quantidade e/ou valor total dos Valores Mobiliários negociados;
 
-Data da ordem de investimento/desinvestimento;
+III. Data da ordem de investimento/desinvestimento;
+
+20
 
 IV. Remuneração auferida pelo Distribuidor;
 
-16
+V. Na hipótese de operações de Distribuição de Fundos de Investimento, a inclusão do
 
-V. VI. VII. Na hipótese de operações de Distribuição de Fundos de Investimento, a inclusão do
+seguinte aviso obrigatório, conforme aplicável e observando o inciso III, §1º, art. 8º: “Esta
 
-seguinte aviso obrigatório, conforme aplicável e observando a alínea “d”, inciso II, §1º,
+é a taxa de Distribuição apurada no momento da contratação da operação e poderá
 
-art. 7º: “Esta é a taxa de Distribuição apurada no momento da contratação da operação
+divergir do valor a ser observado no Extrato Trimestral, em razão de eventuais acordos
 
-e poderá divergir do valor a ser observado no Extrato Trimestral, em razão de even tuais
+comerciais existentes entre o Distribuidor e o Gestor do Fundo”;
 
-acordos comerciais existentes entre o Distribuidor e o Gestor do Fundo”;
+VI. Na hipótese de Distribuição de Valores Mobiliários ofertados publicamente, observada a
 
-Na hipótese de Distribuição de Valores Mobiliários ofertados publicamente, observada
+alínea “a”, inciso II, §1º, do artigo 8º, a inclusão do seguinte aviso obrigatório: “Para
 
-a alínea “a”, inciso II, §1º, do artigo 7º acima, a inclusão do seguinte aviso obrigatório:
+consultar informações sobre a remuneração relativa a esta operação, consulte o Prospecto
 
-“Para consultar informações sobre a remuneração relativa à esta operação, consulte o
+da Oferta Pública, que descreve os custos de Distribuição na seção ‘Contrato de
 
-Prospecto da Oferta Pública, que descreve os custos de Distribuição na seção ‘Contrato
+Distribuição de Valores Mobiliários’ ”; e
 
-de Distribuição de Valores Mobiliários’ ”; e
-
-Na hipótese de Distribuição de cotas de FIF ofertados publicamente em que está
+VII. Na hipótese de Distribuição de cotas de FIF ofertados publicamente em que está
 
 dispensada da disponibilização do Prospecto, os Distribuidores deverão:
 
@@ -872,15 +954,15 @@ a. Observar o disposto no Código de Ofertas Públicas;
 
 b. Incluir o seguinte aviso obrigatório: “Para consultar informações sobre a
 
-remuneração relativa à esta operação, consulte o sumário da Oferta Pública,
+remuneração relativa a esta operação, consulte o sumário da Oferta Pública, que
 
-que descreve os custos de Distribuição na seção [NOME PADRONIZADO
+descreve os custos de Distribuição na seção [NOME PADRONIZADO CONFORME AS
 
-CONFORME AS REGRAS E PRO CEDIMENTOS DE OFERTAS PÚBLICAS]”.
+REGRAS E PROCEDIMENTOS DE OFERTAS PÚBLICAS]”.
 
-## Art. 13
+## Art. 14
 
-Para fins de observância da obrigação prevista no artigo 12 acima, entende-se que a nota
+Para fins de observância da obrigação prevista no artigo 13 acima, entende-se que a nota
 
 de Negociação ou documento análogo disponibilizada para Ativos listados em bolsa de valores será
 
@@ -888,7 +970,7 @@ suficiente para atender as informações exigidas pelo Informe de Investimento.
 
 Seção IV – Extrato Trimestral
 
-## Art. 14
+## Art. 15
 
 Os Distribuidores devem disponibilizar aos investidores, em até 30 dias a contar do
 
@@ -896,7 +978,11 @@ encerramento do trimestre, Extrato Trimestral com informações quantitativas co
 
 período sobre a remuneração por eles auferida em virtude dos investimentos e/ou
 
-desinvestimentos realizados, contendo, no mínimo:
+21
+
+desinvestimentos realizados em Produtos de Investimento enquadrados na definição de Valores
+
+Mobiliários, contendo, no mínimo:
 
 I. Montante total da remuneração direta e/ou indireta auferida pelo Distribuidor, incluindo
 
@@ -906,89 +992,105 @@ anteriores, considerando:
 
 a. Modalidade de investimento realizado; e
 
-17
+b. Natureza da remuneração, nos termos do §4º do artigo 9º acima.
 
-II. III. IV. V. VI. VII. b. Natureza da remuneração, nos termos do §4º do artigo 8º acima.
-
-Parcela correspondente da remuneração aos Assessores de Investimento, incluindo
+II. Parcela correspondente da remuneração aos Assessores de Investimento, incluindo
 
 eventuais incentivos pagos pelos Distribuidores aos Assessores de Investimento quando
 
 ocorrer a efetiva apropriação dos valores por estes;
 
-Endereço eletrônico da página do Distribuidor na rede mundial de computadores que
+III. Endereço eletrônico da página do Distribuidor na rede mundial de computadores que
 
 contém a Política de Remuneração;
 
-a. Na hipótese de disponibilização do Extrato Trimestral em área logada, observado o
+a. Na hipótese de disponibilização do Extrato Trimestral em área logada, observado
 
-disposto no artigo 14 destas Regras e Procedimentos, o investidor poderá ser
+o disposto no artigo 16 destas Regras e Procedimentos, o investidor poderá ser
 
-direcionado por meio de hyperlink à página que contém a Política de Remuneração.
+direcionado por meio de hyperlink à página que contém a Política de
 
-Na hipótese da impossibilidade de calcular determinadas remunerações até o encerramento
+Remuneração.
 
-do trimestre, especificação em nota de rodapé com a adequada justificação acerca da não
+IV. Na hipótese da impossibilidade de calcular determinadas remunerações até o
 
-disponibilização;
+encerramento do trimestre, especificação em nota de rodapé com a adequada
 
-Na hipótese de Distribuição de derivativos de balcão em que o Extrato Trimestral também
+justificação acerca da não disponibilização;
 
-contemple outras relações de negócio entre Distribuidores e os investidores, incluir o
+V. Na hipótese de Distribuição de derivativos de balcão em que o Extrato Trimestral
 
-seguinte aviso obrigatório: “As informações contidas neste documento não abrangem
+também contemple outras relações de negócio entre Distribuidores e os investidores,
 
-remuneração auferida pela instituição financeira à título de intermediação em contratações
+incluir o seguinte aviso obrigatório: “As informações contidas neste documento não
 
-de derivativos levados a registro no mercado de balcão organizado no caso de operações
+abrangem remuneração auferida pela instituição financeira a título de intermediação
 
-negociadas bilateralmente entre as partes, sem interposição de contraparte central,
+em contratações de derivativos levados a registro no mercado de balcão organizado no
 
-considerando que a customização e os próprios parâmetros negociados na operação já são
+caso de operações negociadas bilateralmente entre as partes, sem interposição de
 
-elementos suficientes para tomada de decisão das partes.”;
+contraparte central, considerando que a customização e os próprios parâmetros
 
-Na hipótese de Distribuição de Valores Mobiliários ofertados publicamente em que o Extrato
+negociados na operação já são elementos suficientes para tomada de decisão das
 
-Trimestral também contemple outras relações de negócio entre Distribuidores e os
+22
 
-investidores e observada a alínea “a”, do inciso II, §1º, do artigo 7º acima, a inclusão do
+VI. VII. partes.”;
+
+Na hipótese de Distribuição de Valores Mobiliários ofertados publicamente em que o
+
+Extrato Trimestral também contemple outras relações de negócio entre Distribuidores
+
+e os investidores e observada a alínea “a”, do inciso II, §1º, do artigo 8º, a inclusão do
 
 seguinte aviso obrigatório: “Caso tenha participado de Ofertas Públicas de Valores
 
-Mobiliários no período compreendido por este Extrato Trimestral, consulte as informações
+Mobiliários no período compreendido por este Extrato Trimestral, consulte as
 
-sobre a remuneração no Prospecto da respectiva Oferta Pública, que descreve os custos de
+informações sobre a remuneração no Prospecto da respectiva Oferta Pública, que
 
-Distribuição na seção ‘Contrato de Distribuição de Valores Mobiliários’ ”;
+descreve os custos de Distribuição na seção ‘Contrato de Distribuição de Valores
 
-Na hipótese de Distribuição de cotas de FIF ofertados publicamente em que está dispensada
+Mobiliários’ ”;
 
-da disponibilização do Prospecto, os Distribuidores deverão:
+Na hipótese de Distribuição de cotas de FIF ofertadas publicamente em que está
+
+dispensada da disponibilização do Prospecto, os Distribuidores deverão:
 
 a. Observar o disposto no Código de Ofertas Públicas; e
 
-b. Quando o Extrato Trimestral também contemplar outras relações de negócio entre
+b. Quando o Extrato Trimestral também contemplar outras relações de negócio
 
-Distribuidores e os investidores, incluir o seguinte aviso obrigatório: “Para consultar
+entre Distribuidores e os investidores, incluir o seguinte aviso obrigatório: “Para
 
-18
+consultar informações sobre a remuneração relativa à Distribuição de cotas de
 
-informações sobre a remuneração relativa à Distribuição de cotas de Fundo de
+Fundo de Investimento Financeiro ofertados publicamente, consulte o sumário da
 
-Investimento financeiro ofertados publicamente, consulte o sumário da Oferta
+Oferta Pública, que descreve os custos de distribuição na seção [NOME
 
-Pública, que descreve os custos de distribuição na seção [NOME PADRONIZADO
+PADRONIZADO CONFORME AS REGRAS E PROCEDIMENTOS DE OFERTAS
 
-CONFORME AS REGRAS E PROCEDIMENTOS DE OFERTAS PÚBLICAS]”.
+PÚBLICAS]”.
 
-§ 1º. Em adição aos critérios mínimos previstos acima e o disposto na regulação, recomenda-
+Parágrafo único. Para a elaboração de um formato de Extrato Trimestral, em consonância aos
 
-se a observância das informações mínimas padronizadas constantes na matriz disponível para con-
+critérios mínimos previstos acima e ao disposto na regulação vigente, os Distribuidores deverão:
 
-sulta no Apêndice A destas Regras e Procedimentos para elaboração do Extrato Trimestral.
+I. II. Empreender os melhores esforços para elaboração de um formato de Extrato
 
-## Art. 15
+Trimestral que garanta maior transparência e compreensão das informações aos
+
+investidores; e
+
+Observar, conforme aplicável, as informações mínimas padronizadas constantes na
+
+23
+
+matriz disponível para consulta no Apêndice A destas Regras e Procedimentos.
+
+## Art. 16
 
 Os Distribuidores deverão adotar, conforme definido em suas políticas e controles internos,
 
@@ -996,15 +1098,15 @@ a forma de disponibilização do Extrato Trimestral aos investidores, observando
 
 I. A preservação da segurança das informações dos investidores; e
 
-II. A garantia do acesso ao extrato pelos investidores no prazo especificado no artigo 14.
+II. A garantia do acesso ao extrato pelos investidores no prazo especificado no artigo 15.
 
 Parágrafo único. Considera-se, de forma não exaustiva, as seguintes modalidades de
 
 disponibilização do Extrato Trimestral pelo Distribuidor:
 
-I. II. Envio via correio eletrônico, preferencialmente incluindo Criptografia das informações
+I. II. Envio via correio eletrônico, preferencialmente incluindo Criptografia das informações e
 
-e acesso protegido por senha; e/ou
+acesso protegido por senha; e/ou
 
 Disponibilização em seção exclusiva da página na rede mundial de computadores do
 
@@ -1026,21 +1128,21 @@ para recebimento ou não da comunicação prevista no item “a” para as demai
 
 disponibilizações do documento.
 
-## Art. 16
+## Art. 17
 
 A disponibilização do Extrato Trimestral pelo Distribuidor:
 
 I. É dispensada para investidores:
 
-19
-
-II. a. cujos investimentos e/ou desinvestimentos não tenham gerado remuneração ao
+a. cujos investimentos e/ou desinvestimentos não tenham gerado remuneração ao
 
 Distribuidor; e
 
-b. que se enquadrem na definição de investidores profissionais ao final do
+24
 
-trimestre observado para elaboração do Extrato Trimestral.
+II. b. que se enquadrem na definição de investidores profissionais ao final do trimestre
+
+observado para elaboração do Extrato Trimestral.
 
 É obrigatória ao investidor quando, no transcurso do trimestre observado, deixou de ser
 
@@ -1050,7 +1152,7 @@ desobrigado de incluir no Extrato Trimestral informações referentes à remuner
 
 ele auferida em referido trimestre.
 
-## Art. 17
+## Art. 18
 
 O Distribuidor poderá, conforme seus critérios, adotar campo adicional ou nota informativa
 
@@ -1074,81 +1176,301 @@ Para o pagamento da taxa de performance na Distribuição de Fundos de Investime
 
 CAPÍTULO IV – CONHEÇA SEU CLIENTE
 
-## Art. 18
-
-Os Distribuidores devem, no processo de Conheça Seu Cliente, buscar conhecer seus
-
-clientes no início do relacionamento, no processo cadastral e durante o relacionamento.
-
-§1º. Os Distribuidores devem adotar, implementar e manter, em documento escrito ou
-
-eletrônico, regras, procedimentos e controles internos que descrevam o processo de Conheça Seu
-
-Cli ente adotado pelas instituições.
-
-20
-
-§2º. O documento de que trata o parágrafo anterior deve conter regras efetivas e consistentes
-
-com a natureza, o porte, a complexidade, a estrutura, o perfil de risco dos Produtos de Investimento
-
-distribuídos e o modelo de negócio das instituições, devendo conter, no mínimo:
-
-I. II. III. IV. V. VI. O procedimento adotado para aceitação de clientes, incluindo procedimento para
-
-análise e validação dos dados, bem como a forma de aprovação dos clientes;
-
-A indicação dos casos em que são realizadas visitas aos clientes, presencial ou
-
-virtualmente, em sua residência, seu local de trabalho e/ou suas instalações
-
-comerciais;
-
-A indicação do sistema e das ferramentas utilizadas para controlar as informações,
-
-os dados e as movimentações dos clientes;
-
-O procedimento de atualização cadastral, nos termos da regulação;
-
-O procedimento adotado para identificar a pessoa natural caracterizada como
-
-beneficiário final, nos termos da regulação; e
-
-O procedimento adotado para veto de relacionamentos em razão de riscos envolvidos.
+Seção I – Regras gerais
 
 ## Art. 19
 
+Os Distribuidores devem, no processo de “Conheça Seu Cliente”
+
+, buscar conhecer seus
+
+clientes no início do relacionamento comercial, no processo cadastral e durante todo o
+
+relacionamento.
+
+25
+
+§1º. Os Distribuidores devem adotar, implementar e manter regras, procedimentos e
+
+controles internos que descrevam seu processo de Conheça Seu Cliente em documento escrito,
+
+contendo, no mínimo, procedimentos para:
+
+I. II. III. IV. V. VI. A aceitação de clientes, incluindo a análise e validação de seus dados, bem como a
+
+forma de aprovação de início do relacionamento comercial com os clientes;
+
+A indicação dos casos em que são realizadas visitas aos clientes, presencial ou
+
+virtualmente, em sua residência, seu local de trabalho e/ou quaisquer outras
+
+instalações;
+
+A indicação do sistema e das ferramentas utilizadas para controlar as informações, os
+
+dados, as movimentações financeiras e as atividades conduzidas pelos clientes;
+
+A atualização cadastral dos clientes, nos termos da regulação;
+
+A identificação da pessoa natural caracterizada como beneficiário final, nos termos da
+
+regulação; e
+
+A indicação das hipóteses de veto de relacionamento comercial do Distribuidor com um
+
+cliente, acompanhado das justificativas decorrentes dos riscos apurados durante o
+
+processo de Conheça seu Cliente.
+
+§2º. O documento de que trata o parágrafo anterior deve conter regras efetivas e condizentes
+
+com a natureza, o porte, a complexidade, a estrutura, o perfil de risco dos Produtos de Investimento
+
+distribuídos, o modelo de negócio das instituições e atender a metodologia da Abordagem Baseada
+
+em Risco – ABR, detalhada na Seção III deste Capítulo.
+
+§3º. Os Distribuidores, nos termos e limites estabelecidos no Código de Distribuição e na
+
+regulação, são responsáveis pela diligência do processo de “Conheça Seu Cliente”, não podendo
+
+utilizar-se das políticas e metodologias internas, especialmente da ABR, para se eximir de suas
+
+obrigações de identificação de clientes.
+
+26
+
+Seção II – Cadastro e registro de atividades dos clientes
+
+## Art. 20
+
 Os Distribuidores devem manter as informações cadastrais de seus clientes atualizadas, de
 
-modo a permitir que haja sua identificação e o registro de todas as aplicações e todos os resgates
+modo a permitir sua identificação e o registro de atividades, incluindo todas as aplicações e todos
 
-realizados em seu nome, quando aplicável.
+os resgates realizados em nome do cliente, quando aplicável.
+
+§1º. Os Distribuidores devem obter, verificar e manter atualizadas as informações cadastrais
+
+de seus clientes, conforme regulação vigente e observada a ABR, detalhada na Seção III, podendo
+
+utilizar documentos, autodeclarações, bases públicas, bureaus, ferramentas tecnológicas ou outros
+
+meios idôneos de verificação, de acordo com a natureza da informação.
+
+§2º. O Distribuidor deve implementar procedimentos a fim de verificar se o cliente é
+
+classificado como Pessoa exposta politicamente – PEP, pessoa vinculada a PEP ou pessoa jurídica
+
+controlada por PEP e identificá-lo como tal, tais como e não se restringindo à obtenção de
+
+declaração do cliente, consulta a eventual menção ao cliente em listas de sanções e/ou listas oficiais
+
+divulgadas pelo SISCOAF.
+
+§3º. Os Distribuidores que adotarem soluções digitais no processo cadastral devem adotar
+
+procedimentos complementares de validação das informações cadastrais de que trata o §1º deste
+
+artigo, de acordo com suas respectivas políticas internas e conforme aplicável.
+
+Seção III – Avaliação de clientes baseada em risco
+
+## Art. 21
+
+Os Distribuidores devem, no processo de Conheça Seu Cliente, implementar e manter
+
+atualizada a metodologia de classificação de seus clientes, fundamentada em ABR, que assegure a
+
+compreensão do perfil de cada cliente e traduza, de forma proporcional, contínua e coerente, o
+
+27
+
+nível de risco a ele associado.
+
+§1º. A metodologia de ABR a que se refere o caput, deve:
+
+I. II. III. Ser aprovada, por escrito, pela diretoria responsável pelas áreas de compliance e
+
+controles internos;
+
+Basear-se em critérios objetivos e qualitativos que permitam traduzir o risco do cliente
+
+em medidas de monitoramento, diligência e controle compatíveis com sua exposição; e
+
+Assegurar a proporcionalidade entre o risco identificado e o grau de diligência aplicado.
+
+§2º. Os Distribuidores devem incluir, no documento de que trata o parágrafo anterior,
+
+definição e descrição de critérios objetivos para realizar a classificação de que trata o caput deste
+
+artigo, abrangendo minimamente:
+
+I. A origem dos recursos do cliente, suas informações financeiras e atividade econômica que
+
+exerce;
+
+II. O histórico de relacionamento do cliente e seu comportamento transacional;
+
+III. A complexidade e volume das operações contratadas pelo cliente, abrangendo estruturas
+
+de investimento no exterior, conforme aplicável;
+
+IV. O grau de exposição do cliente a Produtos de Investimento complexos ou classificados
+
+como de alto risco;
+
+V. As declarações do cliente em documento específico ou em conjunto com as demais
+
+informações cadastrais e que possibilitem identificar o cliente como PEP, pessoa
+
+vinculada a PEP, pessoa jurídica controlada por PEP ou pessoa vinculada ao Distribuidor;
+
+VI. Eventual menção ao cliente em listas de sanções, PEP, condenações em causas judiciais
+
+ou jurisdições de risco; e
+
+VII. Finalidade e natureza da relação comercial entre o cliente e o Distribuidor.
+
+§3º. A classificação de risco deverá ser documentada e revista periodicamente, de acordo
+
+com os critérios e procedimentos definidos pela instituição, bem como sempre que identificadas
+
+28
+
+alterações relevantes nas circunstâncias que envolvem o cliente ou nas práticas por este adotadas.
+
+§4º. O Distribuidor deve manter registros e evidências, compatíveis com a metodologia
+
+adotada e com seus procedimentos internos, que comprovem a observância dos critérios previstos
+
+nesta Seção, inclusive quanto à revisão e reclassificação.
+
+## Art. 22
+
+O processo de Conheça seu Cliente, previsto no artigo 19, §1º, deve estar integralmente
+
+alinhado à metodologia de ABR, de modo que as informações coletadas na fase cadastral sejam
+
+consideradas na avaliação e no monitoramento de risco.
+
+§1º. O Distribuidor deve implementar diligências complementares com relação a
+
+informações incompletas ou inconsistentes, de forma proporcional à relevância da informação e ao
+
+grau de risco do cliente.
+
+§2º. O Distribuidor deve envidar melhores esforços para tratar cenários em que não seja
+
+possível obter integralmente as informações cadastrais do cliente, especialmente quanto à origem
+
+dos recursos e à capacidade financeira do cliente.
+
+## Art. 23
+
+Os Distribuidores devem revisar periodicamente a metodologia de ABR, assegurando sua
+
+efetividade e conformidade com as práticas de mercado e os riscos emergentes, bem como realizar
+
+procedimentos contínuos de diligência voltados à atualização e adequação do cadastro e da
+
+classificação de risco dos clientes.
+
+§1º
+
+. Os procedimentos de diligência de que trata o caput deste artigo devem abranger
+
+minimamente:
+
+I. Definição e implementação de práticas e rotinas de atualização e verificação de
+
+29
+
+II. III. IV. adequação periódicas do cadastro do cliente, incluindo a indicação de situações que
+
+exijam adaptação dos prazos estabelecidos para realização dessas práticas e rotinas;
+
+Definição e implementação de práticas e rotinas de atualização e verificação de
+
+adequação periódicas da classificação do cliente baseada em risco, incluindo a indicação
+
+de situações que exijam adaptação dos prazos estabelecidos para a realização dessas
+
+práticas e rotinas;
+
+Indicação de pessoa(s) diretora(s) responsável(eis) pelas práticas e rotinas de atualização
+
+e verificação de adequação periódicas do cadastro do cliente e da classificação do cliente
+
+baseada em risco; e
+
+Comunicação a órgãos, autarquias e autoridades competentes de irregularidades
+
+identificadas e/ou situações ou atividades suspeitas, conforme regulação vigente.
+
+§2º. Os Distribuidores deverão estabelecer procedimentos de diligência adicionais, conforme
+
+os critérios definidos pela instituição, para tratar e mitigar os riscos particulares relacionados a
+
+clientes identificados como PEP.
+
+## Art. 24
+
+O Distribuidor deve manter registros que demonstrem a aplicação de sua metodologia de
+
+ABR no sentido de que seja verificada, conforme os critérios definidos pela instituição, a
+
+correspondência entre a classificação de risco dos clientes, o monitoramento adotado e as práticas
+
+relacionadas à atividade de Distribuição.
+
+## Art. 25
+
+Observadas integralmente as disposições deste capítulo, o Distribuidor deverá realizar a
+
+classificação de seus clientes, considerando, no mínimo, 3 (três) graus de risco, conforme a seguir:
+
+I. II. III. Grau 1: cliente de baixo risco;
+
+Grau 2: cliente de médio risco; e
+
+Grau 3: cliente de alto risco.
+
+30
+
+Parágrafo único. Os mecanismos de diligência simplificada somente poderão ser adotados
+
+para clientes classificados como de baixo risco, desde que acompanhados das devidas justificativas,
+
+observando-se a manutenção de controles e evidências que assegurem a efetividade do processo
+
+de “Conheça Seu Cliente”.
 
 CAPÍTULO V – SUITABILITY
 
 Seção I – Regras gerais
 
-## Art. 20
+## Art. 26
 
-Os Distribuidores, no exercício de suas atividades, são os responsáveis pelo Suitability e não
+Os Distribuidores, no exercício de suas atividades, são os responsáveis pelo Suitability de
 
-podem recomendar Produtos de Investimento, realizar operações ou prestar serviços sem que
+seus clientes e não podem recomendar Produtos de Investimento, realizar operações ou prestar
 
-verifiquem sua adequação ao perfil do cliente.
+serviços sem que verifiquem sua adequação ao perfil do investidor.
 
 Parágrafo único. Estão dispensados das regras previstas neste capítulo:
 
-21
+I. Fundos, Classes ou Subclasses, conforme o caso, tipificados como renda fixa e
 
-I. Fundos, Classes ou Subclasses, conforme o caso, tipificados como renda fixa e classificados
-
-como simples, conforme regulação específica;
+classificados como simples, conforme regulação específica;
 
 II. LFT; e
 
-III. CDB ou RDB, ressalvada disposição em contrário constante em políticas de relacionamento
+III. CDB ou RDB, ressalvada disposição em contrário constante em políticas de
 
-com os clientes dos Distribuidores, que atenda, concomitantemente, aos seguintes critérios:
+relacionamento com os clientes dos Distribuidores, que atenda, concomitantemente, aos
+
+seguintes critérios:
 
 a. Emissor com nota de risco compatível com o risco Brasil;
 
@@ -1156,7 +1478,9 @@ b. Liquidez diária oferecida pelo emissor ou vencimento em até 6 (seis) meses;
 
 c. Risco de mercado pós-fixado em taxa de juros.
 
-## Art. 21
+31
+
+## Art. 27
 
 Os Distribuidores devem adotar, implementar e manter, em documento escrito ou
 
@@ -1164,61 +1488,63 @@ eletrônico, regras, procedimentos e controles internos de Suitability, devendo 
 
 descrição detalhada:
 
-I. II. III. IV. V. VI. VII. Do mecanismo de coleta das informações junto ao cliente para a definição de perfil;
+I. II. III. IV. V. VI. Do mecanismo de coleta das informações junto ao investidor para a definição de perfil;
 
-Dos critérios utilizados para a classificação de perfil do cliente;
+Dos critérios utilizados para a classificação de perfil do investidor;
 
 Dos critérios utilizados para a classificação de cada Produto de Investimento;
 
-Dos meios, da forma e da periodicidade de comunicação utilizada entre os Distribuidores e
+Dos meios, da forma e da periodicidade de comunicação utilizada entre os Distribuidores
 
-os clientes para:
+e os investidores para:
 
 a. Divulgação de seu perfil de risco após coleta das informações; e
 
-b. Divulgação referente ao desenquadramento identificado entre o perfil do cliente e seus
+b. Divulgação referente ao desenquadramento identificado entre o perfil do
 
-investimentos, a ser efetuada sempre que verificado o desenquadramento.
+investidor e seus investimentos, a ser efetuada sempre que verificado o
 
-Dos procedimentos utilizados para a aferição periódica entre o perfil do cliente e seus
+desenquadramento.
 
-Produtos de Investimento;
+Dos procedimentos utilizados para a aferição periódica entre o perfil dos investidores e
 
-Dos critérios utilizados para atualização do perfil do cliente, incluindo a forma como os
+seus Produtos de Investimento;
 
-Distribuidores darão ciência desta atualização; e
+Dos critérios utilizados para atualização do perfil do investidor, incluindo a forma como
 
-Dos controles internos e mecanismos adotados pelos Distribuidores para assegurar a
+os Distribuidores darão ciência desta atualização; e
+
+VII. Dos controles internos e mecanismos adotados pelos Distribuidores para assegurar a
 
 efetividade dos procedimentos de Suitability estabelecidos.
 
-§1º. A verificação do perfil do cliente de que trata o caput não será aplicada nas exceções
-
-22
+§1º. A verificação do perfil do investidor de que trata o caput não será aplicada nas exceções
 
 previstas na regulação.
 
-§2º. A coleta de informações do cliente de que trata o inciso I do caput deve possibilitar a
+§2º. A coleta de informações do investidor de que trata o inciso I do caput deve possibilitar a
 
 definição de seu objetivo de investimento, sua situação financeira e seu conhecimento em matéria
 
 de investimentos, fornecendo informações suficientes para permitir a definição do perfil de cada
 
-cliente.
+32
 
-§3º. Para definição do objetivo de investimento do cliente, os Distribuidores devem
+investidor.
+
+§3º. Para definição do objetivo de investimento do investidor, os Distribuidores devem
 
 considerar, no mínimo, as seguintes informações:
 
-I. II. O período em que será mantido o investimento;
+I. O período em que será mantido o investimento;
 
-As preferências declaradas quanto à assunção de riscos; e
+II. As preferências declaradas quanto à assunção de riscos; e
 
 III. As finalidades do investimento.
 
-§4º. Para definição da situação financeira do cliente, os Distribuidores devem considerar, no
+§4º. Para definição da situação financeira do investidor, os Distribuidores devem considerar,
 
-mínimo, as seguintes informações:
+no mínimo, as seguintes informações:
 
 I. II. III. O valor das receitas regulares declaradas;
 
@@ -1226,43 +1552,65 @@ O valor e os Ativos que compõem seu patrimônio; e
 
 A necessidade futura de recursos declarada.
 
-§5º. Para definição do conhecimento do cliente, os Distribuidores devem considerar, no
+§5º. Para definição do conhecimento do investidor, os Distribuidores devem considerar, no
 
 mínimo, as seguintes informações:
 
-I. II. III. Os tipos de Produtos de Investimento, serviços e operações com os quais o cliente tem
+I. II. III. Os tipos de Produtos de Investimento, serviços e operações com os quais o investidor
 
-familiaridade;
+tem familiaridade;
 
-A natureza, o volume e a frequência das operações já realizadas pelo cliente, bem como o
+A natureza, o volume e a frequência das operações já realizadas pelo investidor, bem
 
-período em que tais operações foram realizadas; e
+como o período em que tais operações foram realizadas; e
 
-A formação acadêmica e a experiência profissional do cliente, salvo quando se tratar de
+A formação acadêmica e a experiência profissional do investidor, salvo quando se tratar
 
-pessoa jurídica.
-
-23
+de pessoa jurídica.
 
 §6º. Os Distribuidores devem:
 
-I. II. Atualizar o perfil do cliente em prazo não superior ao permitido pela regulação; e
+33
 
-Envidar os melhores esforços para que todos os clientes tenham um perfil de investimento
+I. Atualizar o perfil do cliente em prazo não superior ao máximo permitido pela regulação
 
-devidamente identificado e adequado ao seu perfil de risco.
+vigente;
 
-§7º. Os clientes que se recusarem a participar do processo de identificação de seu perfil de
+II. Definir critérios relacionados ao processo de "Conheça seu Cliente", mas não se limitando
 
-investimento, independentemente de formalizarem ou não essa condição, deverão ser
+a este, para adaptação dos prazos adotados pela instituição para a atualização do perfil
 
-considerados clientes sem perfil identificado e os procedimentos estabelecidos no artigo 23, inciso
+do investidor, observando-se o prazo máximo definido na regulação vigente;
 
-II, destas Regras e Procedimentos devem ser aplicados a eles, exceto na hipótese de se enquadrarem
+III. Envidar os melhores esforços para que todos os clientes tenham um perfil de
 
-na situação definida no §1º, inciso II do art. 24 destas Regras e Procedimentos.
+investimento devidamente identificado e adequado ao seu perfil de risco; e
 
-## Art. 22
+IV. Adotar, em formato definido a seu exclusivo critério, mecanismos de comunicação
+
+periódica aos investidores, em intervalo igual ou inferior a 1 (um) ano, para informar o
+
+perfil de investimento vigente e disponibilizar orientações para sua eventual revisão.
+
+§7º. Os investidores que se recusarem a participar do processo de identificação de seu perfil
+
+de investimento, independentemente de formalizarem ou não essa condição, deverão ser
+
+considerados investidores sem perfil identificado e os procedimentos estabelecidos no artigo 29,
+
+destas Regras e Procedimentos devem ser aplicados a eles, exceto na hipótese de se enquadrarem
+
+na situação definida no §3º do artigo 30 destas Regras e Procedimentos.
+
+§8º. As regras, procedimentos e controles internos de Suitability devem ser atualizados até o
+
+dia útil subsequente em que houver alterações das informações mínimas exigidas por este Capítulo.
+
+§9º. A atualização dos documentos de que trata o §8º deve ser registrada na Anbima no prazo
+
+de até 30 (trinta) dias corridos contados da alteração.
+
+## Art. 28
 
 O disposto nesta seção não se aplica aos Produtos Automáticos, salvo se tais produtos
 
@@ -1270,163 +1618,177 @@ tiverem como base um Valor Mobiliário.
 
 §1º. Será admitido Suitability simplificado para Produtos Automáticos que tenham como base
 
-Fundos De Investimento, Classes e Subclasses, conforme o caso, com a funcionalidade de
+34
 
-aplicação e resgate automáticos, ou operações compromissadas com lastro em debêntures
+Fundos de Investimento, Classes e Subclasses, conforme o caso, com a funcionalidade de aplicação
 
-emitidas por empresas do mesmo Conglomerado ou Grupo Econômico dos Distribuidores das quais
+e resgate automáticos, ou operações compromissadas com lastro em debêntures emitidas por
 
-o cliente seja correntista, observado o disposto no parágrafo a seguir.
+empresas do mesmo Conglomerado ou Grupo Econômico dos Distribuidores das quais o investidor
+
+seja correntista, observado o disposto no parágrafo a seguir.
 
 §2º. Serão admitidos como Produtos Automáticos apenas aqueles que impliquem baixo risco
 
 de mercado e liquidez e, quando aplicável, risco de crédito privado apenas da instituição
 
-mantenedora da conta corrente do cliente, ou de seu Conglomerado ou Grupo Econômico.
+mantenedora da conta corrente do investidor, ou de seu Conglomerado ou Grupo Econômico.
 
 §3º. O procedimento simplificado de que trata o §1º deste artigo consiste na obtenção de
 
-declaração assinada pelo cliente no momento da contratação do produto automático.
+declaração assinada pelo investidor no momento da contratação do produto automático.
 
 §4º. Caso os Distribuidores optem por aplicar o processo simplificado para os produtos
 
 automáticos, tais produtos não deverão ser considerados na composição do portfólio de
 
-investimento do cliente para fins de Suitability.
+investimento do investidor para fins de Suitability.
 
-24
-
-## Art. 23
+## Art. 29
 
 É vedada a recomendação de Produtos de Investimento quando:
 
-I. II. III. O perfil do cliente não seja adequado ao Produto de Investimento;
+I. II. III. O perfil do investidor não seja adequado ao Produto de Investimento;
 
-Não sejam obtidas as informações que permitam a identificação do perfil do cliente, exceto na
+Não sejam obtidas as informações que permitam a identificação do perfil do investidor,
 
-hipótese de os clientes se enquadrarem na situação definida no §3º do art. 24 destas Regras e
+exceto na hipótese de os investidores se enquadrarem na situação definida no §3º do
 
-Procedimentos; e
+artigo 30 destas Regras e Procedimentos; e
 
-As informações relativas ao perfil do cliente não estejam atualizadas conforme disposto no
+As informações relativas ao perfil do investidor não estejam atualizadas conforme
 
-§6º, inciso I, do artigo 21 destas Regras e Procedimentos.
+disposto no §6º, inciso I, do artigo 27 destas Regras e Procedimentos.
 
-§1º. O cliente, ao solicitar aplicação em investimentos nas situações previstas no caput antes
+§1º. O investidor, ao solicitar aplicação em investimentos nas situações previstas no caput
 
-da primeira aplicação com a categoria de ativo, devem os Distribuidores:
+antes da primeira aplicação com a categoria de ativo, devem os Distribuidores:
 
-I. II. Alertar o cliente acerca da ausência ou desatualização de perfil ou da sua inadequação, com
+35
 
-a indicação das causas da divergência; e
+I. II. Alertar o investidor acerca da ausência ou desatualização de perfil ou da sua inadequação,
 
-Obter declaração expressa do cliente de que deseja manter a decisão de investimento,
+com a indicação das causas da divergência; e
 
-mesmo estando ciente da ausência, desatualização ou inadequação de perfil, a qual deverá
+Obter declaração expressa do investidor de que deseja manter a decisão de investimento,
 
-ser exclusiva para cada categoria de ativo.
+mesmo estando ciente da ausência, desatualização ou inadequação de perfil, a qual
 
-§2º. Para um Produto de Investimento ser considerado adequado ao perfil do cliente deve ser compatível
+deverá ser exclusiva para cada categoria de ativo.
 
-com seus objetivos, sua situação financeira e seu conhecimento.
+§2º. Para um Produto de Investimento ser considerado adequado ao perfil do investidor deve
 
-§3º. As declarações referidas no inciso II do §1º deste artigo têm o prazo máximo de 5 (cinco)
+ser compatível com seus objetivos, sua situação financeira e seu conhecimento.
 
-anos para atualização.
+§3º. Com relação às declarações referidas no inciso II, do §1º deste artigo, os Distribuidores
 
-Seção II – Classificação do cliente
+devem:
 
-## Art. 24
+I. II. Atualizar o perfil do investidor ou obter nova declaração, em prazo não superior ao
 
-Os Distribuidores devem avaliar e classificar seus clientes em, no mínimo, três perfis,
+máximo definido na regulação vigente para a atualização do perfil do investidor; e
+
+Definir critérios relacionados ao processo de "Conheça seu Cliente", mas não se limitando
+
+a este, para adaptação da validade das referidas declarações, observando-se o prazo
+
+máximo definido na regulação vigente para a atualização do perfil do investidor.
+
+Seção II – Classificação do investidor
+
+## Art. 30
+
+Os Distribuidores devem avaliar e classificar seus investidores em, no mínimo, três perfis,
 
 conforme descritos a seguir:
 
-I. Perfil 1: cliente que declara possuir baixa tolerância a risco, baixo conhecimento em matéria
+I. II. Perfil 1: investidor que declara possuir baixa tolerância a risco, baixo conhecimento em
 
-de investimentos e que prioriza investimentos em Produtos de Investimento com liquidez;
+matéria de investimentos e que prioriza investimentos em Produtos de Investimento com
 
-25
+liquidez;
 
-II. III. Perfil 2: cliente que declara média tolerância a risco e busca a preservação de seu capital a
+Perfil 2: investidor que declara média tolerância a risco e busca a preservação de seu
 
-longo prazo, com disposição a destinar uma parte de seus recursos a investimentos de maior
+capital a longo prazo, com disposição a destinar uma parte de seus recursos a
 
-risco; ou
+36
 
-Perfil 3: cliente que declara tolerância a risco e aceita potenciais perdas em busca de maiores
+III. investimentos de maior risco; ou
 
-retornos.
+Perfil 3: investidor que declara tolerância a risco e aceita potenciais perdas em busca de
+
+maiores retornos.
 
 §1º. Observado o Capítulo V – Suitability, Subseção I – Classificação de risco destas Regras e
 
 Procedimentos, os Distribuidores devem, caso utilizem a metodologia de adequação dos Produtos
 
-de Investimento individualmente ao perfil do cliente, observar as orientações a seguir:
+de Investimento individualmente ao perfil do investidor, observar as orientações a seguir:
 
-I. II. III. Para os clientes classificados no perfil 1: recomendar apenas Produtos de Investimento cuja
+I. Para os investidores classificados no perfil 1: recomendar apenas Produtos de
 
-pontuação de risco seja igual ou inferior a 1,5 (um inteiro e cinco décimos);
+Investimento cuja pontuação de risco seja igual ou inferior a 1,5 (um inteiro e cinco
 
-Para os clientes classificados no perfil 2: recomendar apenas Produtos de Investimento cuja
+décimos);
 
-pontuação de risco seja igual ou inferior a 3 (três); ou
+II. Para os investidores classificados no perfil 2: recomendar apenas Produtos de
 
-Para os clientes classificados no perfil 3: recomendar Produtos de Investimento cuja pontu-
+Investimento cuja pontuação de risco seja igual ou inferior a 3 (três); ou
 
-ação de risco seja igual ou inferior a 5 (cinco).
+III. Para os investidores classificados no perfil 3: recomendar Produtos de Investimento cuja
 
-§2º. Caso os Distribuidores utilizem metodologia de adequação por portfólio do cliente, o cálculo
+pontuação de risco seja igual ou inferior a 5 (cinco).
 
-ponderado dos pontos de risco dos Produtos de Investimento que compõem o portfólio de cada
+§2º. Caso os Distribuidores utilizem metodologia de adequação por portfólio do investidor, o
 
-cliente deverá obedecer aos limites de pontos de risco estabelecidos no parágrafo anterior.
+cálculo ponderado dos pontos de risco dos Produtos de Investimento que compõem o portfólio de
+
+cada investidor deverá obedecer aos limites de pontos de risco estabelecidos no parágrafo anterior.
 
 §3º. Poderão ser classificados automaticamente pelos Distribuidores na categoria de menor
 
-propensão a risco no Perfil 1, definido no inciso I do caput deste artigo, os clientes que,
+propensão a risco no Perfil 1, definido no inciso I do caput deste artigo, os investidores que,
 
 cumulativamente:
 
-I. II. III. Estejam com o cadastro devidamente atualizado junto ao Distribuidor ou instituição do
+I. II. Estejam com o cadastro devidamente atualizado junto ao Distribuidor ou instituição do
 
 Conglomerado ou Grupo Econômico que este integra;
 
 Não tenham realizado investimento prévio em produtos ou em carteira de Produtos de
 
-Investimento, conforme o caso, incompatíveis com Perfil 1 junto ao Distribuidor ou
+37
+
+III. Investimento, conforme o caso, incompatíveis com Perfil 1 junto ao Distribuidor ou
 
 instituição do Conglomerado ou Grupo Econômico que este integra; e
 
 Não tenham finalizado junto ao Distribuidor ou instituição do Conglomerado ou Grupo
 
-26
+Econômico que este integra, o processo de identificação de seu perfil de investimento ou
 
-Econômico que este integra, o processo de identificação de seu perfil de investimento
-
-ou realizado a declaração definida no inciso II, §1º, art. 23 destas Regras e Procedimentos.
+realizado a declaração definida no inciso II, §1º, artigo 29 destas Regras e Procedimentos.
 
 §4º. Na hipótese de classificação automática, conforme definido no §3º deste artigo, o
 
-Distribuidor deverá realizar comunicação ao investidor, contendo minimamente:
+Distribuidor deverá realizar comunicação previamente à Distribuição de Produtos de Investimento
+
+ao investidor, contendo minimamente:
 
 I. II. Informação de que lhe foi atribuída a categoria de menor propensão a risco no Perfil 1,
 
 definido no inciso I do caput deste artigo; e
 
-Instruções de acesso o investidor pode completar os procedimentos de identificação de
+Instruções de acesso para o investidor completar os procedimentos de identificação de
 
 seu perfil.
 
-§5º. A comunicação definida no §4º deve ser realizada previamente à recomendação de Produtos
-
-de Investimento.
-
 Seção III – Classificação dos Produtos de Investimento
 
-## Art. 25
+## Art. 31
 
-Para verificar a adequação dos Produtos de Investimento ao perfil do cliente, os
+Para verificar a adequação dos Produtos de Investimento ao perfil do investidor, os
 
 Distribuidores devem classificar seus produtos, considerando, no mínimo:
 
@@ -1438,13 +1800,21 @@ A existência de garantias; e
 
 IV. Os prazos de carência.
 
-## Art. 26
+## Art. 32
 
-Os Distribuidores devem atualizar a classificação de seus Produtos de Investimento em prazo
+Os Distribuidores devem atualizar a classificação de seus Produtos de Investimento em
 
-não superior ao permitido pela regulação.
+prazo não superior ao permitido pela regulação.
 
-## Art. 27
+38
+
+Parágrafo único. Na hipótese da ocorrência de evento relevante que possa impactar a
+
+classificação dos Produtos de Investimento, o Distribuidor deverá revisá-la, de forma tempestiva, a
+
+partir do momento em que tomar conhecimento de tal evento ou que este se tornar público.
+
+## Art. 33
 
 O Suitability dos Distribuidores deve conter Regras e Procedimentos específicos para a
 
@@ -1452,37 +1822,37 @@ recomendação e classificação de Produtos de Investimento complexos, conforme
 
 seguir.
 
-27
-
 Subseção I – Classificação de risco
 
-## Art. 28
+## Art. 34
 
-Todos os Produtos De Investimento distribuídos devem ser classificados com base em
+Todos os Produtos de Investimento distribuídos devem ser classificados com base em
 
-metodologia de Escala De Risco contínua e única, tendo como parâmetro a pontuação de 0,5 (cinco
+metodologia de Escala de Risco contínua e única, tendo como parâmetro a pontuação de 0,5 (cinco
 
 décimos) a 5 (cinco), sendo 0,5 para menor risco e 5 para maior risco.
 
-I. II. §1º. A metodologia de que trata o caput deve:
+§1º. A metodologia de que trata o caput deve:
 
-Ser escrita e aprovada pelos diretores responsáveis pelo Suitability e pelo compliance e/ou
+I. II. Ser escrita e aprovada pelos diretores responsáveis pelo Suitability e pelo compliance
 
-controles internos dos Distribuidores; e
+e/ou controles internos dos Distribuidores; e
 
 Considerar, no mínimo, os riscos de crédito, de mercado e de liquidez.
 
-§2º. Os Distribuidores podem adotar escala de risco com parâmetro diverso daquele descrito no
+§2º. Os Distribuidores podem adotar escala de risco com parâmetro diverso daquele descrito
 
-caput, desde que os limites estabelecidos pelos §§1º e 2º do artigo 24 sejam respeitados,
+no caput, desde que os limites estabelecidos pelos §§1º e 2º do artigo 30 sejam respeitados,
 
-observadas as pontuações de risco estabelecidas na tabela constante do artigo 29 abaixo.
+observadas as pontuações de risco estabelecidas na tabela constante do artigo 35 abaixo.
 
-## Art. 29
+## Art. 35
 
-Para fins específicos de Suitability, os Distribuidores devem observar, obrigatoriamente, a
+Para fins específicos de Suitability, os Distribuidores devem observar a pontuação de risco
 
-pontuação de risco mínima estabelecida pela tabela a seguir:
+mínima estabelecida pela tabela a seguir:
+
+39
 
 PRODUTO PONTUAÇÃO
 
@@ -1496,63 +1866,27 @@ Pós
 
 fixado
 
-Emissor investment grade com prazo de vencimento/duration até 2 anos 1,00 0,75
+Emissor investment grade com prazo de vencimento/duration até 2 anos Emissor investment grade com prazo de vencimento/duration acima de 2 anos e até 4 anos Emissor investment grade com prazo de vencimento/duration acima de 4 anos e até 6 anos Emissor investment grade com prazo de vencimento/duration acima de 6 anos e até 8 anos Emissor investment grade com prazo de vencimento/duration acima de 8 anos Emissor non-investment grade com prazo de vencimento/duration até 2 anos Emissor non-investment grade com prazo de vencimento/duration acima de 2 anos e até 4 anos Emissor non-investment grade com prazo de vencimento/duration acima de 4 anos e até 6 anos Emissor non-investment grade com prazo de vencimento/duration acima de 6 anos e até 8 anos Emissor non-investment grade com prazo de vencimento/duration acima de 8 anos 1,00 1,50 2,00 2,50 3,00 2,00 2,25 2,75 3,50 4,00 0,75
 
-Emissor investment grade com prazo de vencimento/duration acima de 2 anos e até 4 anos 1,50 1,00
+1,00
 
-Emissor investment grade com prazo de vencimento/duration acima de 4 anos e até 6 anos 2,00 1,25
+1,25
 
-Emissor investment grade com prazo de vencimento/duration acima de 6 anos e até 8 anos 2,50 1,75
+1,75
 
-Emissor investment grade com prazo de vencimento/duration acima de 8 anos 3,00 2,00
+2,00
 
-Emissor non investment grade com prazo de vencimento/duration até 2 anos 2,00 1,75
+1,75
 
-Emissor non investment grade com prazo de vencimento/duration acima de 2 anos e até 4
+2,00
 
-anos 2,25 2,00
+2,25
 
-Emissor non investment grade com prazo de vencimento/duration acima de 4 anos e até 6
+2,75
 
-anos
+3,00
 
-2,75 2,25
-
-Emissor non investment grade com prazo de vencimento/duration acima de 6 anos e até 8
-
-anos 3,50 2,75
-
-Emissor non investment grade com prazo de vencimento/duration acima de 8 anos 4,00 3,00
-
-28
-
-LF – Letra financeira LF – Classe Sênior
-
-Emissor investment grade com prazo de vencimento/duration até 2 anos Emissor investment grade com prazo de vencimento/duration acima de 2 anos e até 4 anos Emissor investment grade com prazo de vencimento/duration acima de 4 anos e até 6 anos Emissor investment grade com prazo de vencimento/duration acima de 6 anos e até 8 anos Emissor investment grade de com prazo de vencimento/duration acima de 8 anos Emissor non investment grade ou sem rating com prazo de vencimento/duration até 2 anos Emissor non investment grade ou sem rating com prazo de vencimento/duration acima de 2
-
-anos e até 4 anos Emissor non investment grade ou sem rating com prazo de vencimento/duration acima de 4
-
-anos e até 6 anos Emissor non investment grade ou sem rating com prazo de vencimento/duration acima de 6
-
-anos e até 8 anos Emissor non investment grade ou sem rating com prazo de vencimento/duration acima de 8
-
-anos LF – Classe subordinada
-
-Emissor investment grade com prazo de vencimento/duration até 2 anos Emissor investment grade com prazo de vencimento/duration acima de 2 anos e até 4 anos Emissor investment grade com prazo de vencimento/duration acima de 4 anos e até 6 anos Emissor investment grade com prazo de vencimento/duration acima de 6 anos e até 8 anos Emissor investment grade com prazo de vencimento/duration acima de 8 anos Emissor non investment grade ou sem rating com prazo de vencimento/duration até 2 anos Emissor non investment grade ou sem rating com prazo de vencimento/duration acima de 2
-
-anos e até 4 anos Emissor non investment grade ou sem rating com prazo de vencimento/duration acima de 4
-
-anos e até 6 anos Emissor non investment grade ou sem rating com prazo de vencimento/duration acima de 6
-
-anos e até 8 anos Emissor non investment grade ou sem rating com prazo de vencimento/duration acima de 8
-
-anos Títulos Públicos
-
-LFT (títulos públicos, excluindo LFT) até 3 anos (títulos públicos, excluindo LFT) acima de 3 e até 10 anos (títulos públicos, excluindo LFT) acima de 10 anos Títulos não financeiros: Debêntures/CRI/CRA/CDCA/CCB/CPR ou similares Emissor/emissão investment grade com prazo de vencimento/duration até 2 anos Emissor/emissão investment grade com prazo de vencimento/duration acima de 2 anos e até
-
-4 anos Emissor/emissão investment grade com prazo de vencimento/duration acima de 4 anos e até
-
-6 anos Emissor/emissão investment grade com prazo de vencimento/duration acima de 6 anos e até Pré
+LF – Letra Financeira Pré
 
 fixado
 
@@ -1560,55 +1894,79 @@ Pós
 
 fixado
 
-1,00 0,75
+LF – Classe Sênior
 
-1,50 1,00
+Emissor investment grade com prazo de vencimento/duration até 2 anos Emissor investment grade com prazo de vencimento/duration acima de 2 anos e até 4 anos Emissor investment grade com prazo de vencimento/duration acima de 4 anos e até 6 anos Emissor investment grade com prazo de vencimento/duration acima de 6 anos e até 8 anos Emissor investment grade com prazo de vencimento/duration acima de 8 anos Emissor non-investment grade ou sem rating com prazo de vencimento/duration até 2 anos 1,00 1,50 2,00 2,75 3,25 2,25 0,75
 
-2,00 1,50
+1,00
 
-2,75 2,00
+1,50
 
-3,25 2,25
+2,00
 
-2,25 2,00
+2,25
 
-2,75 2,25
+2,00
 
-3,25 2,75
+Emissor non-investment grade ou sem rating com prazo de vencimento/duration acima de 2 anos
 
-3,75 3,00
+e até 4 anos 2,75 2,25
 
-4,25 3,50
+Emissor non-investment grade ou sem rating com prazo de vencimento/duration acima de 4 anos
 
-2,00 1,75
+e até 6 anos 3,25 2,75
 
-2,50 2,00
+Emissor non-investment grade ou sem rating com prazo de vencimento/duration acima de 6 anos
 
-3,00 2,25
+e até 8 anos 3,75 3,00
 
-3,50 2,75
+Emissor non-investment grade ou sem rating com prazo de vencimento/duration acima de 8
 
-4,00 3,00
+anos 4,25 3,50
 
-3,25 2,75
+LF – Classe subordinada
+
+Emissor investment grade com prazo de vencimento/duration até 2 anos Emissor investment grade com prazo de vencimento/duration acima de 2 anos e até 4 anos Emissor investment grade com prazo de vencimento/duration acima de 4 anos e até 6 anos Emissor investment grade com prazo de vencimento/duration acima de 6 anos e até 8 anos Emissor investment grade com prazo de vencimento/duration acima de 8 anos 2,00 2,50 3,00 3,50 4,00 1,75
+
+2,00
+
+2,25
+
+2,75
+
+3,00
+
+40
+
+Emissor non-investment grade ou sem rating com prazo de vencimento/duration até 2 anos Emissor non-investment grade ou sem rating com prazo de vencimento/duration acima de 2 anos
+
+e até 4 anos 3,25 2,75
 
 3,50 3,00
 
-4,00 3,50
+Emissor non-investment grade ou sem rating com prazo de vencimento/duration acima de 4 anos
 
-4,50 3,75
+e até 6 anos 4,00 3,50
 
-4,75 4,00
+Emissor non-investment grade ou sem rating com prazo de vencimento/duration acima de 6 anos
 
-0,50
+e até 8 anos 4,50 3,75
 
-1,00
+Emissor non-investment grade ou sem rating com prazo de vencimento/duration acima de 8
+
+anos 4,75 4,00
+
+Títulos Públicos
+
+LFT 0,50
+
+(títulos públicos, excluindo LFT) até 3 anos (títulos públicos, excluindo LFT) acima de 3 e até 10 anos (títulos públicos, excluindo LFT) acima de 10 anos 1,00
 
 1,75
 
 2,75
 
-Pré
+Títulos não financeiros: Debêntures/CRI/CRA/CDCA/CCB/CPR ou similares Pré
 
 fixado
 
@@ -1616,23 +1974,17 @@ Pós
 
 fixado
 
-1,25 1,00
+Emissor/emissão investment grade com prazo de vencimento/duration até 2 anos Emissor/emissão investment grade com prazo de vencimento/duration acima de 2 anos e até 4 anos Emissor/emissão investment grade com prazo de vencimento/duration acima de 4 anos e até 6 anos Emissor/emissão investment grade com prazo de vencimento/duration acima de 6 anos e até 8 anos Emissor/emissão investment grade com prazo de vencimento/duration acima de 8 anos Títulos não financeiros de emissor/emissão sem grau de investimento ou sem rating identificado 1,25 1,75 2,25 3,00 3,50 4,25 1,00
 
-1,75 1,25
+1,25
 
-2,25 1,75
+1,75
 
-3,00 2,25
+2,25
 
-29
+2,75
 
-8 anos
-
-Emissor/emissão investment grade com prazo de vencimento/duration acima de 8 anos 3,50 2,75
-
-Títulos não financeiros de emissor/emissão sem grau de investimento ou sem rating
-
-identificado 4,25 3,50
+3,50
 
 CDCA/CCB/CPR 4,50 3,75
 
@@ -1652,117 +2004,83 @@ fixado
 
 COE emitido na modalidade de risco de mercado com capital 100% protegido
 
-Emissor investment grade com prazo de vencimento até 181 dias 1,50
+Emissor investment grade com prazo de vencimento até 181 dias Emissor investment grade com prazo de vencimento acima de 181 dias e até 2 anos Emissor investment grade com prazo de vencimento acima de 2 anos e até 4 anos Emissor investment grade com prazo de vencimento acima de 4 anos e até 6 anos Emissor investment grade com prazo de vencimento acima de 6 anos e até 8 anos Emissor investment grade com prazo de vencimento acima de 8 anos Emissor non investment grade ou sem rating com prazo de vencimento até 2 anos Emissor non investment grade ou sem rating com prazo de vencimento acima de 2 anos e até 4 anos Emissor non-investment grade ou sem rating com prazo de vencimento acima de 4 anos e até 6 anos 1,50
 
-Emissor investment grade com prazo de vencimento acima de 181 dias e até 2 anos 1,75
+1,75
 
-Emissor investment grade com prazo de vencimento acima de 2 anos e até 4 anos 2,00
+2,00
 
-Emissor investment grade com prazo de vencimento acima de 4 anos e até 6 anos 2,25
+2,25
 
-Emissor investment grade com prazo de vencimento acima de 6 anos e até 8 anos 3,00
+3,00
 
-Emissor investment grade com prazo de vencimento acima de 8 anos 3,50
+3,50
 
-Emissor non investment grade ou sem rating com prazo de vencimento até 2 anos 2,25
+2,25
 
-Emissor non investment grade ou sem rating com prazo de vencimento acima de 2 anos e até
+2,75
 
-4 anos 2,75
+3,25
 
-Emissor non investment grade ou sem rating com prazo de vencimento acima de 4 anos e até
+41
 
-6 anos 3,25
+Emissor non-investment grade ou sem rating com prazo de vencimento acima de 6 anos e até 8 anos Emissor non-investment grade ou sem rating com prazo de vencimento acima de 8 anos 3,75
 
-Emissor non investment grade ou sem rating com prazo de vencimento acima de 6 anos e até
-
-8 anos 3,75
-
-Emissor non investment grade ou sem rating com prazo de vencimento acima de 8 anos 4,25
+4,25
 
 COE emitido na modalidade de risco de crédito
 
 Ativos subjacentes com rating internacional IG ou com rating em escala nacional >=AA (ou
 
-equivalente) e com vencimento/duration até 2 anos (inclusive) 1,50 1,25
+equivalente) e com vencimento/duration até 2 anos (inclusive) Ativos subjacentes com rating internacional IG ou com rating em escala nacional >=AA (ou
 
-Ativos subjacentes com rating internacional IG ou com rating em escala nacional >=AA (ou
+equivalente) e com vencimento/duration de 2 anos (exclusive) até 4 anos (inclusive) Ativos subjacentes com rating internacional IG ou com rating em escala nacional >=AA (ou
 
-equivalente) e com vencimento/duration de 2 anos (exclusive) até 4 anos (inclusive) 2,00 1,50
+equivalente) e com vencimento/duration de 4 anos (exclusive) até 6 anos (inclusive) Ativos subjacentes com rating internacional IG ou com rating em escala nacional >=AA (ou
 
-Ativos subjacentes com rating internacional IG ou com rating em escala nacional >=AA (ou
+equivalente) e com vencimento/duration de 6 anos (exclusive) até 8 anos (inclusive) Ativos subjacentes com rating internacional IG ou com rating em escala nacional >=AA (ou
 
-equivalente) e com vencimento/duration de 4 anos (exclusive) até 6 anos (inclusive) 2,50 2,00
+equivalente) e com vencimento/duration acima de 8 anos Ativos subjacentes com rating internacional BB-/BB/BB+ ou com rating em escala nacional entre AA-
 
-Ativos subjacentes com rating internacional IG ou com rating em escala nacional >=AA (ou
+e BBB- (ou equivalentes) e com vencimento/duration de até 2 anos (inclusive) Ativos subjacentes com rating internacional BB-/BB/BB+ ou com rating em escala nacional entre AA-
 
-equivalente) e com vencimento/duration de 6 anos (exclusive) até 8 anos (inclusive) 3,25 2,50
+e BBB- (ou equivalentes) e com vencimento/duration de 2 anos (exclusive) até 4 anos (inclusive) Ativos subjacentes com rating internacional BB-/BB/BB+ ou com rating em escala nacional entre AA-
 
-Ativos subjacentes com rating internacional IG ou com rating em escala nacional >=AA (ou
+e BBB- (ou equivalentes) e com vencimento/duration de 4 anos (exclusive) até 6 anos (inclusive) Ativos subjacentes com rating internacional BB-/BB/BB+ ou com rating em escala nacional entre AA-
 
-equivalente) e com vencimento/duration acima de 8 anos 3,75 3,00
+e BBB- (ou equivalentes) e com vencimento/duration de 6 anos (exclusive) até 8 anos (inclusive) Ativos subjacentes com rating internacional BB-/BB/BB+ ou com rating em escala nacional entre AA-
 
-Ativos subjacentes com rating internacional BB-/BB/BB+ ou com rating em escala nacional
+e BBB- (ou equivalentes) e com vencimento/duration acima de 8 anos Ativos subjacentes com rating internacional <BB- (ou equivalente), ou com rating não IG em escala
 
-entre AA- e BBB- (ou equivalentes) e com vencimento/duration de até 2 anos (inclusive) 1,75 1,50
+nacional ou sem rating 1,50 1,25
 
-Ativos subjacentes com rating internacional BB-/BB/BB+ ou com rating em escala nacional
+2,00 1,50
 
-entre AA- e BBB- (ou equivalentes) e com vencimento/duration de 2 anos (exclusive) até 4
+2,50 2,00
 
-anos (inclusive)
+3,25 2,50
+
+3,75 3,00
+
+1,75 1,50
 
 2,25 1,75
 
-Ativos subjacentes com rating internacional BB-/BB/BB+ ou com rating em escala nacional
-
-entre AA- e BBB- (ou equivalentes) e com vencimento/duration de 4 anos (exclusive) até 6
-
-anos (inclusive)
-
 2,75 2,25
 
-Ativos subjacentes com rating internacional BB-/BB/BB+ ou com rating em escala nacional
+3,50 2,75
 
-entre AA- e BBB- (ou equivalentes) e com vencimento/duration de 6 anos (exclusive) até 8 3,50 2,75
-
-30
-
-anos (inclusive)
-
-Ativos subjacentes com rating internacional BB-/BB/BB+ ou com rating em escala nacional
-
-entre AA- e BBB- (ou equivalentes) e com vencimento/duration acima de 8 anos Ativos subjacentes com rating internacional <BB- (ou equivalente), ou com rating não IG em
-
-escala nacional ou sem rating Fundos de Renda Fixa
-
-Renda fixa índices/indexado – CDI/Selic Renda fixa índices/indexado – índice de preço Renda fixa simples Renda fixa duração baixa soberano Renda fixa duração baixa grau de investimento Renda fixa duração baixa crédito livre Renda fixa duração média soberano Renda fixa duração média grau de investimento Renda fixa duração média crédito livre Renda fixa duração alta soberano Renda fixa duração alta grau de investimento Renda fixa duração alta crédito livre Renda fixa duração livre soberano Renda fixa duração livre grau de investimento Renda fixa duração livre crédito livre Renda fixa dívida externa FIP – Fundo de Investimento em Participações
-
-FIP diversificado / equity / não listado FII – Fundo de Investimento Imobiliário
-
-Fundo TVM Tijolo Renda Gestão Ativa Tijolo Renda Gestão Definida Fundo incorporação FIDC – Fundo de Investimento em Direitos Creditórios Cotas sêniores com benchmarks de FIDC fechados ou abertos
-
-Cota com rating >= AA- (ou equivalente, em escala nacional) e com duration até 2 anos
-
-(inclusive) Cota com rating entre A+ e BBB- (ou equivalentes, em escala nacional) e com duration até
-
-2 anos (inclusive) Cota com rating >= AA- (ou equivalente, em escala nacional) e com duration de 2 anos
-
-(exclusive) até 4 anos (inclusive) Cota com rating entre A+ e BBB- (ou equivalentes, em escala nacional) e com duration de 2
-
-anos (exclusive) até 4 anos (inclusive) Cota com rating >= AA- (ou equivalente, em escala nacional) e com duration de 4 anos
-
-(exclusive) até 6 anos (inclusive) Cota com rating entre A+ e BBB- (ou equivalentes, em escala nacional) e com duration de 4
-
-anos (exclusive) até 6 anos (inclusive) 4,00 3,25
+4,00 3,25
 
 4,50 4,00
 
-0,50
+Fundos de Renda Fixa
+
+Renda fixa índices/indexado – CDI/Selic Renda fixa índices/indexado – índice de preço Renda fixa simples 0,50
+
+Renda fixa duração baixa soberano Renda fixa duração baixa grau de investimento Renda fixa duração baixa crédito livre Renda fixa duração média soberano Renda fixa duração média grau de investimento Renda fixa duração média crédito livre Renda fixa duração alta soberano Renda fixa duração alta grau de investimento Renda fixa duração alta crédito livre Renda fixa duração livre soberano Renda fixa duração livre grau de investimento Renda fixa duração livre crédito livre 0,50
 
 2,00
-
-0,50
 
 1,00
 
@@ -1788,19 +2106,25 @@ anos (exclusive) até 6 anos (inclusive) 4,00 3,25
 
 2,00
 
-3,00
+42
 
-4,50
+Renda fixa dívida externa 3,00
 
-3,00
+FIP – Fundo de Investimento em Participações
 
-3,50
+FIP diversificado / equity / não listado 4,50
 
-3,00
+FII – Fundo de Investimento Imobiliário
 
-4,50
+Fundo TVM 3,00
 
-Pré
+Tijolo Renda Gestão Ativa 3,50
+
+Tijolo Renda Gestão Definida 3,00
+
+Fundo incorporação 4,50
+
+FIDC – Fundo de Investimento em Direitos Creditórios Pré
 
 fixado
 
@@ -1808,83 +2132,115 @@ Pós
 
 fixado
 
-1,50 1,25
+Cotas sêniores com benchmarks de FIDC fechados ou abertos
 
-1,75 1,50
+Cota com rating >= AA- (ou equivalente, em escala nacional) e com duration até 2 anos (inclusive) 1,50 1,25
 
-2,00 1,50
+Cota com rating entre A+ e BBB- (ou equivalentes, em escala nacional) e com duration até 2 anos
 
-2,25 1,75
+(inclusive) 1,75 1,50
 
-2,50 2,00
+Cota com rating >= AA- (ou equivalente, em escala nacional) e com duration de 2 anos (exclusive)
 
-2,75 2,25
+até 4 anos (inclusive) 2,00 1,50
 
-31
+Cota com rating entre A+ e BBB- (ou equivalentes, em escala nacional) e com duration de 2 anos
 
-Cota com rating >= AA- (ou equivalente, em escala nacional) e com duration de 6 anos
+(exclusive) até 4 anos (inclusive) 2,25 1,75
 
-(exclusive) até 8 anos (inclusive) 3,25 Cota com rating entre A+ e BBB- (ou equivalentes, em escala nacional) e com duration de 6
+Cota com rating >= AA- (ou equivalente, em escala nacional) e com duration de 4 anos (exclusive)
 
-anos (exclusive) até 8 anos (inclusive) 3,50 Cota com rating >= AA- (ou equivalente, em escala nacional) e com duration acima de 8 anos 3,75 Cota com rating entre A+ e BBB- (ou equivalentes, em escala nacional) e com duration acima
+até 6 anos (inclusive) 2,50 2,00
 
-de 8 anos
+Cota com rating entre A+ e BBB- (ou equivalentes, em escala nacional) e com duration de 4 anos
 
-4,00 Cota não investment grade ou sem rating 4,50 Cotas únicas de FIDC fechado ou aberto
+(exclusive) até 6 anos (inclusive) 2,75 2,25
 
-Cota com rating >= AA- (ou equivalente, em escala nacional) e com duration até 2 anos
+Cota com rating >= AA- (ou equivalente, em escala nacional) e com duration de 6 anos (exclusive)
 
-(inclusive) 2,25
+até 8 anos (inclusive) 3,25 2,50
 
-Cota com rating entre A+ e BBB- (ou equivalentes, em escala nacional) e com duration até
+Cota com rating entre A+ e BBB- (ou equivalentes, em escala nacional) e com duration de 6 anos
 
-2 anos (inclusive) 2,75
+(exclusive) até 8 anos (inclusive) Cota com rating >= AA- (ou equivalente, em escala nacional) e com duration acima de 8 anos 3,50 2,75
 
-Cota com rating >= AA- (ou equivalente, em escala nacional) e com duration de 2 anos
-
-(exclusive) até 4 anos (inclusive) 2,75
-
-Cota com rating entre A+ e BBB- (ou equivalentes, em escala nacional) e com duration de 2
-
-anos (exclusive) até 4 anos (inclusive) 3,25
-
-Cota com rating >= AA- (ou equivalente, em escala nacional) e com duration de 4 anos
-
-(exclusive) até 6 anos (inclusive) 3,25
-
-Cota com rating entre A+ e BBB- (ou equivalentes, em escala nacional) e com duration de 4
-
-anos (exclusive) até 6 anos (inclusive) 3,75
-
-Cota com rating >= AA- (ou equivalente, em escala nacional) e com duration de 6 anos
-
-(exclusive) até 8 anos (inclusive) 4,00
-
-Cota com rating entre A+ e BBB- (ou equivalentes, em escala nacional) e com duration de 6
-
-anos (exclusive) até 8 anos (inclusive) 4,50
-
-Cota com rating >= AA- (ou equivalente, em escala nacional) e com duration acima de 8 anos 4,50
+3,75 3,00
 
 Cota com rating entre A+ e BBB- (ou equivalentes, em escala nacional) e com duration acima
 
-de 8 anos 4,50
+4,00 3,25
 
-Cota não investment grade ou sem rating 4,50
+de 8 anos
+
+Cota non-investment grade ou sem rating 4,50 4,00
+
+Cotas únicas de FIDC fechado ou aberto
+
+Cota com rating >= AA- (ou equivalente, em escala nacional) e com duration até 2 anos (inclusive) 2,25
+
+Cota com rating entre A+ e BBB- (ou equivalentes, em escala nacional) e com duration até 2 anos
+
+(inclusive) 2,75
+
+Cota com rating >= AA- (ou equivalente, em escala nacional) e com duration de 2 anos (exclusive)
+
+até 4 anos (inclusive) 2,75
+
+Cota com rating entre A+ e BBB- (ou equivalentes, em escala nacional) e com duration de 2 anos
+
+(exclusive) até 4 anos (inclusive) Cota com rating >= AA- (ou equivalente, em escala nacional) e com duration de 4 anos (exclusive) 3,25
+
+3,25
+
+43
+
+até 6 anos (inclusive)
+
+Cota com rating entre A+ e BBB- (ou equivalentes, em escala nacional) e com duration de 4 anos
+
+(exclusive) até 6 anos (inclusive) 3,75
+
+Cota com rating >= AA- (ou equivalente, em escala nacional) e com duration de 6 anos (exclusive) até
+
+8 anos (inclusive) 4,00
+
+Cota com rating entre A+ e BBB- (ou equivalentes, em escala nacional) e com duration de 6 anos
+
+(exclusive) até 8 anos (inclusive) Cota com rating >= AA- (ou equivalente, em escala nacional) e com duration acima de 8 anos 4,50
+
+4,50
+
+Cota com rating entre A+ e BBB- (ou equivalentes, em escala nacional) e com duration acima de 8
+
+anos 4,50
+
+Cota non-investment grade ou sem rating 4,50
 
 Cotas subordinadas com benchmark (tipicamente mezanino) de FIDC fechado ou aberto
 
-Cota investment grade e com duration até 2 anos (inclusive) 2,75 Cota investment grade e com duration de 2 anos (exclusive) até 4 anos (inclusive) 3,25 Cota investment grade e com duration de 4 anos (exclusive) até 6 anos (inclusive) 3,75 Cota investment grade e com duration de 6 anos (exclusive) até 8 anos (inclusive) 4,50 Cota investment grade e com duration acima de 8 anos 4,50 Cota investment grade ou sem rating 4,50 Cotas subordinadas sem benchmark de FIDC fechado ou aberto
+Cota investment grade e com duration até 2 anos (inclusive) Cota investment grade e com duration de 2 anos (exclusive) até 4 anos (inclusive) Cota investment grade e com duration de 4 anos (exclusive) até 6 anos (inclusive) Cota investment grade e com duration de 6 anos (exclusive) até 8 anos (inclusive) Cota investment grade e com duration acima de 8 anos Cota non-investment grade ou sem rating 2,75 2,50
 
-Cota investment grade ou sem rating 4,50
+3,25 2,75
+
+3,75 3,25
+
+4,50 3,75
+
+4,50 4,25
+
+4,50 4,50
+
+Cotas subordinadas sem benchmark de FIDC fechado ou aberto
+
+Cota non-investment grade ou sem rating 4,50
 
 FIAGRO – Fundo de Investimento nas Cadeias Produtivas Agroindustriais
 
-FIAGRO com política de investimento que não permita a aplicação de mais de 50% (cinquenta
+FIAGRO com política de investimento que não permita a aplicação de mais de 50% (cinquenta por
 
-por cento) do patrimônio líquido em ativos que também sejam objetivo de investimento de
+cento) do patrimônio líquido em ativos que também sejam objetivo de investimento de outra
 
-outra categoria de Fundo de Investimento
+categoria de Fundo de Investimento
 
 3,50
 
@@ -1895,30 +2251,6 @@ Multimercados balanceados 2,50
 Multimercados dinâmico 2,50
 
 Multimercados capital protegido 1,50
-
-32
-
-2,50
-
-2,75
-
-3,00
-
-3,25
-
-4,00
-
-2,50
-
-2,75
-
-3,25
-
-3,75
-
-4,25
-
-4,50
 
 Multimercados long and short – neutron 2,25
 
@@ -1937,6 +2269,8 @@ Multimercados estratégia específica 2,50
 Fundos de Ações
 
 Ações indexados 3,50
+
+44
 
 Ações índice ativo 3,50
 
@@ -1964,11 +2298,11 @@ Multimercados investimento no exterior 3,50
 
 Ações investimento no exterior 3,50
 
-§1º. A tabela de que trata o caput teve como base a tabela de escala de risco constante nas
+§1º. A tabela de que trata o caput teve como base a escala de risco constante nas Regras e
 
-Regras e Procedimentos de AGRT, no entanto, uma não se confunde com a outra, a tabela aqui
+Procedimentos de AGRT. No entanto, as tabelas não se confundem e a tabela aqui prevista neste
 
-prevista deve ser considerada, exclusivamente, para fins de Suitability.
+artigo deve ser considerada exclusivamente para fins de Suitability.
 
 §2º. As Classes Exclusivas e as Carteiras Administradas estão dispensadas de observar a
 
@@ -1980,161 +2314,211 @@ Carteiras Administradas, capítulo que trata das normas sobre Análise de Perfil
 
 §3º. A nota de risco estabelecida na tabela aplica-se:
 
-I. Aos derivativos de forma isolada, podendo os Distribuidores adotarem metodologia própria
+I. Aos derivativos de forma isolada, podendo os Distribuidores adotarem metodologia
 
-e diferenciada para classificar esses Produtos de Investimento caso sejam recomendados a
+própria e diferenciada para classificar esses Produtos de Investimento caso sejam
 
-partir de combinações com outras operações com o objetivo de, entre outras opções,
+recomendados a partir de combinações com outras operações com o objetivo de, entre
 
-proteção, criação de estruturas de investimento sintéticas e troca de indexadores; e
+outras opções, proteção, criação de estruturas de investimento sintéticas e troca de
 
-33
+indexadores; e
+
+45
 
 II. Ao COE emitido:
 
-a. na modalidade de risco de mercado, observado que:
+a. i. ii. na modalidade de risco de mercado, observado que:
 
-i. ii. Caso aplicável, deve-se acrescentar 0,5 (cinco décimos) para cada
+Caso aplicável, deve-se acrescentar 0,5 (cinco décimos) para cada 10%
 
-10% (dez por cento) do capital em risco; e
+(dez por cento) do capital em risco; e
 
-Para o COE com metodologia de cálculo de resultado para o
+Para o COE com metodologia de cálculo de resultado para o investidor
 
-investidor que compreenda mais de 2 cenários, deve-se acrescentar
+que compreenda mais de 2 cenários, deve-se acrescentar 0,25 (vinte e
 
-0,25 (vinte e cinco centésimos) para cada cenário adicional.
+cinco centésimos) para cada cenário adicional.
 
 b. na modalidade risco de crédito, observado que:
 
-i. ii. iii. iv. v. vi. Os parâmetros de prazo de vencimento e duration podem ser
+i. Os parâmetros de prazo de vencimento e duration podem ser adotados,
 
-adotados, a exclusivo critério do Distribuidor, tanto com relação
+a exclusivo critério do Distribuidor, tanto com relação ao(s) Ativo(s)
 
-ao(s) Ativo(s) subjacente(s) quanto à emissão do COE;
+subjacente(s) quanto à emissão do COE;
 
-Para o COE cujos Ativos subjacentes estão sujeitos à variação
+ii. Para o COE cujos Ativos subjacentes estão sujeitos à variação cambial,
 
-cambial, deve-se acrescentar 0,25 (vinte e cinco centésimos) à
-
-pontuação mínima;
-
-Para o COE cujo Ativo subjacente está sujeito à cláusula de
-
-subordinação, deve-se acrescentar 1 (um ponto) à pontuação
+deve-se acrescentar 0,25 (vinte e cinco centésimos) à pontuação
 
 mínima;
 
-Para o COE cujo Ativo subjacente possui opção de liquidação
+iii. Para o COE cujo Ativo subjacente está sujeito à cláusula de
 
-antecipada do emissor, deve-se acrescentar 0,25 (vinte e cinco
+subordinação, deve-se acrescentar 1 (um ponto) à pontuação mínima;
 
-centésimos) à pontuação mínima;
+iv. Para o COE cujo Ativo subjacente possui opção de liquidação antecipada
 
-Para o COE com uma cesta de Ativos subjacentes emitido na
+do emissor, deve-se acrescentar 0,25 (vinte e cinco centésimos) à
 
-modalidade “worst-of”, a nota de risco a ser observada na tabela
+pontuação mínima;
 
-deve ser a do ativo com pior classificação de rating de crédito que
+v. Para o COE com uma cesta de Ativos subjacentes emitido na modalidade
 
-compõe a cesta; e
+“worst-of”, a nota de risco a ser observada na tabela deve ser a do ativo
 
-Para o COE com uma cesta de Ativos subjacentes emitido de forma
+com pior classificação de rating de crédito que compõe a cesta; e
+
+vi. Para o COE com uma cesta de Ativos subjacentes emitido de forma
 
 diversa à especificada no item “v” acima, a nota de risco estabelecida
 
 na tabela deve ser observada considerando nota de rating de crédito
 
+46
+
 atribuída conforme metodologia verificável interna do Distribuidor.
 
-34
+§4º. A pontuação obrigatória estabelecida no caput refere-se à pontuação mínima exigida
 
-§4º. A pontuação obrigatória estabelecida no caput refere-se à pontuação mínima exigida para
+para cada uma das categorias de Produtos de Investimento nela elencadas, devendo os
 
-cada uma das categorias de Produtos de Investimento nela elencadas, devendo os Distribuidores
+Distribuidores possuírem metodologia própria com o objetivo de agregar pontuação para Produtos
 
-possuírem metodologia própria com o objetivo de agregar pontuação para Produtos de Investi-
-
-mento que apresentem maior potencial de risco que os demais da mesma categoria, como
+de Investimento que apresentem maior potencial de risco que os demais da mesma categoria, como
 
 Criptoativos e outros riscos identificados pelos Distribuidores.
 
-§5º. Deverão ser consideradas “Investment Grade”, para fins da tabela prevista no caput, as
+§5º. Deverão ser consideradas “Investment Grade”, para fins da tabela prevista no caput,
 
-notas de rating de crédito atribuídas por agências de classificação de emissões, ou do emissor ou
+exclusivamente as notas de rating de crédito iguais ou superiores a ‘BBB-
 
-do Conglomerado ou Grupo Econômico, ou, na ausência destas, de classificação aos emissores ou
+’ na escala nacional, ou
 
-sistema de cooperativas iguais ou superiores a “BBB-
+equivalente, atribuídas por agências de classificação de risco, observado que:
 
-” na escala local, ou equivalente.
+I. O rating utilizado deve refletir diretamente o risco de crédito da operação, da emissão ou
 
-§6º. Os Distribuidores de FIAGRO que distribuírem Classes de cotas de FIAGRO com política de
+dos ativos subjacentes, admitindo-se, alternativamente, o rating do emissor, do
 
-investimento que permita a aplicação de mais de 50% (cinquenta por cento) do patrimônio líquido
+Conglomerado ou do Grupo Econômico, desde que represente adequadamente o risco da
 
-em Ativos para os quais a categoria indicada expressamente no Regulamento seja objeto de
+obrigação; e
+
+II. Não será admitida a utilização de ratings que não estejam diretamente associados ao
+
+risco de crédito da operação ou dos ativos subjacentes, incluindo o rating de
+
+securitizadora em operações de securitização estruturada, quando este não refletir o
+
+risco da exposição ao investidor.
+
+§6º. Os Distribuidores de FIAGRO que distribuírem Classes de cotas de FIAGRO com política
+
+de investimento que permita a aplicação de mais de 50% (cinquenta por cento) do patrimônio
+
+líquido em Ativos para os quais a categoria indicada expressamente no Regulamento seja objeto de
 
 investimento de outra categoria, deverão observar a pontuação de risco mínima estabelecida pela
 
 tabela da categoria de Fundo de Investimento na qual a classe de FIAGRO pretende se concentrar.
 
-## Art. 30
+§7º. Para fins de aferição do risco de crédito dos Produtos de Investimento, os Distribuidores
+
+devem considerar, conforme sua metodologia interna, os riscos associados:
+
+47
+
+I. Ao emissor;
+
+II. Ao devedor;
+
+III. Ao coobrigado;
+
+IV. Ao lastro;
+
+V. Às garantias; e
+
+VI. Às demais instituições, ativos ou estruturas que componham ou influenciem o risco de
+
+crédito do Produto de Investimento, conforme aplicável.
+
+§8º. Quando utilizadas notas de risco internas ou atribuídas por partes envolvidas na
+
+estruturação ou Distribuição do Produto de Investimento, o Distribuidor deverá manter
+
+documentação que evidencie a origem da nota, os critérios utilizados e os controles adotados para
+
+mitigação de potenciais conflitos de interesse.
+
+§9º
+
+. O disposto nos §§7º e 8º não exime a responsabilidade dos Distribuidores de avaliar os
+
+prestadores de serviço nos termos previstos no artigo 31 destas Regras e Procedimentos.
+
+## Art. 36
 
 A nota de risco para as Classes tipificadas como renda fixa, multimercado, ações, cambial e
 
-de investimento no exterior, conforme consta na tabela prevista no artigo 29 acima, deve ser
+de investimento no exterior, conforme consta na tabela prevista no artigo 35 acima, deve ser
 
 alterada nas seguintes situações:
 
-I. II. III. Caso o prazo de liquidação do Produto de Investimento, considerando o prazo de cotização,
+I. II. Caso o prazo de liquidação do Produto de Investimento, considerando o prazo de
 
-seja superior a:
+cotização, seja superior a:
 
-a. D+30, deverá ser acrescentado 0,25 (vinte e cinco centésimos) na pontuação mínima
+a. D+30, deverá ser acrescentado 0,25 (vinte e cinco centésimos) na pontuação
 
-estipulada; e
+mínima estipulada; e
 
 b. D+90, deve ser acrescentado 0,5 (cinco décimos) na pontuação mínima estipulada.
 
-Para as Classes tipificadas como multimercado de crédito privado, deverá ser acrescentado
+Para as Classes tipificadas como multimercado de crédito privado, deverá ser
 
-0,25 (vinte e cinco centésimos) na pontuação mínima estipulada;
+acrescentado 0,25 (vinte e cinco centésimos) na pontuação mínima estipulada;
 
-Para as Classes tipificadas como multimercado tributados como renda variável, deverá ser
+48
 
-utilizada a pontuação mínima estipulada para as Classes tipificadas como ações, conforme
+III. IV. Para as Classes tipificadas como multimercado tributados como renda variável, deverá
 
-tabela constante no artigo 29 acima; e
+ser utilizada a pontuação mínima estipulada para as Classes tipificadas como ações,
 
-35
+conforme tabela constante no artigo 35 acima; e
 
-IV. Para as Classes tipificadas como ações que possuam apenas uma ação em sua carteira,
+Para as Classes tipificadas como ações que possuam apenas uma ação em sua carteira,
 
-independentemente de sua Classe ANBIMA, será obrigatória a pontuação mínima estipulada
+independentemente de sua Classe Anbima, será obrigatória a pontuação mínima
 
-para as Classes tipificadas como mono ação, conforme tabela constante no artigo 29 acima.
+estipulada para as Classes tipificadas como mono ação, conforme tabela constante no
 
-§1º. Adicionalmente, para o FII, a nota de risco prevista na tabela de que trata o artigo 29 deverá
+artigo 35 acima.
+
+§1º. Adicionalmente, para o FII, a nota de risco prevista na tabela de que trata o artigo 35 deverá
 
 ser alterada nas seguintes situações:
 
-I. II. III. Se o Fundo fizer parte do IFIX (Índice de FII), a pontuação mínima estipulada poderá ser
+I. Se o Fundo fizer parte do IFIX (Índice de FII), a pontuação mínima estipulada poderá ser
 
 reduzida em 0,5 (cinco décimos);
 
-Se o valor de mercado do Fundo for superior a R$ 1,5 bilhão, a pontuação mínima estipulada
+II. Se o valor de mercado do Fundo for superior a R$ 1,5 bilhão, a pontuação mínima
 
-poderá ser reduzida em 0,25 (vinte e cinco centésimos). Em caso de Distribuição em Oferta
+estipulada poderá ser reduzida em 0,25 (vinte e cinco centésimos). Em caso de
 
-Pública, a condição deverá ser verificada antes e não poderá sofrer alterações durante esse
+Distribuição em Oferta Pública, a condição deverá ser verificada antes e não poderá sofrer
 
-período; e
+alterações durante esse período; e
 
-Se o valor de mercado do Fundo for superior a R$ 3 bilhões, a pontuação mínima estipulada
+III. Se o valor de mercado do Fundo for superior a R$ 3 bilhões, a pontuação mínima
 
-poderá ser reduzida em 0,5 (cinco décimos). Em caso de Distribuição em Oferta Pública, a
+estipulada poderá ser reduzida em 0,5 (cinco décimos). Em caso de Distribuição em Oferta
 
-condição deverá ser verificada antes e não poderá sofrer alterações durante esse período.
+Pública, a condição deverá ser verificada antes e não poderá sofrer alterações durante
+
+esse período.
 
 §2º. Os Distribuidores que optarem por utilizar o disposto no inciso I do §1º acima deverão
 
@@ -2142,23 +2526,23 @@ reavaliar a pontuação do Produto de Investimento na mesma periodicidade com qu
 
 revisto.
 
-§3º. Adicionalmente, para o FIP, a nota de risco prevista na tabela constante no artigo 29 poderá
+§3º. Adicionalmente, para o FIP, a nota de risco prevista na tabela constante no artigo 35
 
-ser alterada se, de acordo com o Regulamento do Fundo, possuir política de investimento
+49
+
+poderá ser alterada se, de acordo com o Regulamento do Fundo, possuir política de investimento
 
 preponderante:
 
-I. Em equity listado em bolsa: a pontuação mínima estipulada poderá ser reduzida em 0,25
+I. II. Em equity listado em bolsa: a pontuação mínima estipulada poderá ser reduzida em 0,25
 
 (vinte e cinco centésimos); e
 
-II. Em dívida: a pontuação mínima estipulada poderá ser reduzida em 0,5 (cinco décimos).
-
-36
+Em dívida: a pontuação mínima estipulada poderá ser reduzida em 0,5 (cinco décimos).
 
 Subseção II – Categoria de Produtos de Investimento
 
-## Art. 31
+## Art. 37
 
 Ao definir a categoria de Produtos de Investimento, os Distribuidores devem estabelecer,
 
@@ -2182,11 +2566,13 @@ VIII. Classes de FIF tipificadas como multimercado.
 
 Subseção III – Produtos de Investimento complexos
 
-## Art. 32
+## Art. 38
 
 O Suitability dos Distribuidores deve conter Regras e Procedimentos específicos
 
 relacionados à recomendação e classificação de Produtos de Investimento complexos, que
+
+50
 
 ressaltem:
 
@@ -2202,8 +2588,6 @@ Produtos de Investimento complexos os produtos que possuam, cumulativamente, pel
 
 das características indicadas a seguir:
 
-37
-
 I. II. III. IV. Ausência de liquidez, barreiras complexas ou elevados encargos para saída;
 
 Derivativos intrínsecos ao Produto de Investimento;
@@ -2212,7 +2596,7 @@ Incorporação de riscos e características de 2 (dois) ou mais instrumentos fin
 
 diferente estrutura e natureza sob a aparência de um instrumento financeiro único; e
 
-Metodologia de precificação específica que dificulte a avaliação do preço pelo cliente.
+Metodologia de precificação específica que dificulte a avaliação do preço pelo investidor.
 
 §2º. Os Distribuidores devem classificar, automaticamente, como Produtos de Investimento
 
@@ -2228,13 +2612,15 @@ IV. FIP.
 
 Seção IV – Serviço de intermediação no exterior
 
-## Art. 33
+## Art. 39
 
 Os Distribuidores que ofertarem serviços de intermediação no exterior, nos termos
 
+51
+
 previstos no Capítulo IX destas Regras e Procedimentos, devem assegurar que o serviço ofertado
 
-e/ou recomendado para os clientes residentes no Brasil seja apropriado ao seu perfil de
+e/ou recomendado para os investidores residentes no Brasil seja apropriado ao seu perfil de
 
 investimento, observando os seguintes itens mínimos para a avaliação de risco da instituição
 
@@ -2244,99 +2630,75 @@ I. II. III. Mecanismos de proteção ao investidor presentes na legislação do 
 
 instituição estrangeira;
 
-Foco de atuação da instituição estrangeira condizente com o perfil do cliente; e
+Foco de atuação da instituição estrangeira condizente com o perfil do investidor; e
 
-Existência ou não de uma estrutura que disponibilize atendimento em português e por meio de
+Existência ou não de uma estrutura que disponibilize atendimento em português e por
 
-interação humana.
+meio de interação humana.
 
-§1º. Os Distribuidores locais que ofertam serviços de intermediação no exterior poderão, a seu
+§1º. Os Distribuidores referidos no caput deste artigo poderão, a seu exclusivo critério, adotar
 
-exclusivo critério, definir políticas e procedimentos internos em relação aos procedimentos de
+procedimentos para acompanhamento da carteira de Produtos de Investimento do investidor no
 
-38
+exterior junto às instituições prestadoras dos serviços de intermediação no exterior.
 
-Suitability para:
+§2º. Na hipótese de o Distribuidor adotar o procedimento definido no §1º deste artigo,
 
-I. II. Acompanhamento da carteira de Produtos de Investimento no exterior de cliente junto às
+deverá:
 
-instituições prestadoras dos serviços de intermediação no exterior; e
+I. Verificar a adequação dos investimentos realizados no exterior ao perfil do investidor,
 
-Identificação da exposição adequada da carteira de investimentos de cliente a Produtos de
+conforme regras estabelecidas nas Seções I a III deste Capítulo;
 
-Investimento no exterior, conforme os objetivos de investimento do cliente.
+II. Alertar o investidor sempre que identificar desenquadramento dos investimentos
 
-§2º. As políticas e procedimentos internos de que trata o §1º deste artigo, uma vez exercidas, a
+realizados no exterior, considerando, inclusive, o efeito da variação cambial e de preços
 
-critério dos Distribuidores locais, deverão abranger as formas de comunicação que serão adotadas
+dos ativos no exterior; e
 
-por estes, caso identifiquem:
+III. Adotar, alternativamente à pontuação de risco mínima estabelecida no artigo 35 destas
 
-I. II. Desenquadramento do risco adequado à carteira de investimentos do cliente em função de
+Regras e Procedimentos, a tabela contida no Apêndice B, tratando de pontuação de risco
 
-investimentos realizados junto às instituições prestadoras dos serviços de intermediação
+específica para Produtos de Investimento no exterior, conforme aplicável.
 
-no exterior; e/ou
+§3º. Para fins de esclarecimento, a verificação, pelo Distribuidor local, de qualquer situação
 
-Ultrapassagem da exposição adequada para a carteira de investimentos do cliente em
+descrita no §2º deste artigo, não configurará um desenquadramento do investidor relativamente à
 
-relação aos Produtos de Investimento no exterior, considerando a variação cambial e o
+52
 
-perfil de risco de cada Ativo individualmente.
+sua carteira composta por ativos recomendados por instituição local.
 
-§3º. Os Distribuidores locais que ofertam serviços de intermediação no exterior nos termos do
+Seção V – Laudo Anbima
 
-§1º e §2º acima poderão, a seu exclusivo critério, adotar, alternativamente à pontuação de risco
+## Art. 40
 
-mínima estabelecida no artigo 29 destas Regras e Procedimentos, a tabela contida no Apêndice B,
+Os Distribuidores devem elaborar laudo descritivo, a ser enviado anualmente à Anbima até o
 
-tratando de pontuação de risco específica para Produtos de Investimento no exterior, conforme
-
-aplicável, e atendidas as seguintes condições concomitantemente:
-
-I. Observar integralmente o disposto no §1º deste artigo; e
-
-II. Possuir a capacidade para acessar/visualizar a carteira de investimentos do cliente
-
-junto às instituições prestadoras dos serviços de intermediação no exterior.
-
-§4º. Para fins de esclarecimento, a verificação, pelo intermediário local, de qualquer situação
-
-descrita nos §§ 1º a 3º deste artigo 33, não configurará um desenquadramento do cliente
-
-relativamente à sua carteira composta por Ativos recomendados por instituição local.
-
-39
-
-Seção V – Laudo ANBIMA
-
-## Art. 34
-
-Os Distribuidores devem elaborar laudo descritivo, a ser enviado anualmente à ANBIMA até
-
-o último dia útil de março, contendo informações referentes ao ano civil anterior.
+último dia útil de março, contendo informações referentes ao ano civil anterior.
 
 §1º. O laudo descritivo deve ser elaborado no formato de relatório, conforme modelo
 
-disponibilizado pela ANBIMA em seu site na internet, e revisado por área independente das áreas de
+disponibilizado pela Anbima em seu site na internet, e revisado por área independente das áreas de
 
 negócio dos Distribuidores, tais como área de controles internos e/ou compliance, auditoria interna
 
 ou auditoria externa.
 
-§2º. O laudo de que trata o parágrafo anterior deve conter conclusão com avaliação qualitativa
+§2º. O laudo de que trata o parágrafo anterior deve conter conclusão com avaliação
 
-sobre os controles internos implantados pelos Distribuidores para verificação do Suitability,
+qualitativa sobre os controles internos implantados pelos Distribuidores para verificação do
 
-devendo conter, no mínimo:
+Suitability, devendo conter, no mínimo:
 
-I. II. III. IV. Descrição dos controles e testes executados e dos resultados obtidos em tais testes;
+I. II. III. Descrição dos controles e testes executados e dos resultados obtidos em tais testes;
 
-Indicação, com base na metodologia aplicada, do total de clientes que realizaram aplicações
+Indicação, com base na metodologia aplicada, do total de investidores que realizaram
 
-ao longo do ano de referência do laudo, indicando a quantidade de clientes que fizeram
+aplicações ao longo do ano de referência do laudo, indicando a quantidade de investidores
 
-investimentos:
+que fizeram investimentos:
 
 a. não adequados ao seu perfil e, destes, quantos possuíam a declaração expressa de
 
@@ -2346,39 +2708,39 @@ b. Com o perfil desatualizado e, destes, quantos possuíam a declaração expres
 
 desatualização do perfil; e
 
-c. Sem ter um perfil de investimento identificado e, destes, quantos possuíam a declaração
+c. Sem ter um perfil de investimento identificado e, destes, quantos possuíam a
 
-expressa de ausência de perfil.
+declaração expressa de ausência de perfil.
 
-Indicação, com base nos clientes com saldo em investimentos ou posição ativa em 31 de
+Indicação, com base nos investidores com saldo em investimentos ou posição ativa em
 
-dezembro, da quantidade de:
+31 de dezembro, da quantidade de:
 
-a. clientes sem perfil identificado; e
+53
 
-b. clientes com perfil identificado, devendo segregá-la em: (i) clientes com carteira
+IV. V. VI. a. investidores sem perfil identificado; e
 
-enquadrada; (ii) clientes com carteira desenquadrada; (iii) clientes com perfil
+b. investidores com perfil identificado, devendo segregá-la em: (i) investidores com
 
-desatualizado.
+carteira enquadrada; (ii) investidores com carteira desenquadrada; (iii)
 
-Indicação da quantidade de clientes classificados em cada um dos perfis adotados pela
+investidores com perfil desatualizado.
 
-40
+Indicação da quantidade de investidores classificados em cada um dos perfis adotados
 
-V. VI. instituição em 31 de dezembro;
+pela instituição em 31 de dezembro;
 
-Plano de ação para o tratamento de eventuais divergências identificadas; e
+Plano de ação para o tratamento de eventuais divergências identificadas, contendo o
+
+estado do plano de ação compartilhado no laudo Anbima anterior; e
 
 Ocorrência de alterações na metodologia de Suitability no período analisado.
 
-§3º. Os Distribuidores que distribuem Produtos de Investimento para os segmentos classificados
+§3º. Os Distribuidores que distribuem Produtos de Investimento para os segmentos
 
-como varejo e/ou private devem elaborar o laudo mencionado no caput de forma que
+classificados como varejo e/ou private devem elaborar o laudo mencionado no caput de forma que
 
 individualizem as informações quantitativas de cada segmento.
-
-41
 
 CAPÍTULO VI – CONTRATAÇÃO DE TERCEIROS PARA DISTRIBUIÇÃO DE
 
@@ -2386,183 +2748,131 @@ PRODUTOS DE INVESTIMENTO
 
 Seção I – Regras gerais
 
-## Art. 35
+## Art. 41
 
 Os Distribuidores podem contratar, quando aplicável e sem prejuízo de suas
 
 responsabilidades, terceiros devidamente habilitados e autorizados para distribuir, para seus
 
-clientes ou potenciais clientes, seus Produtos de Investimento e/ou prestar suporte à atividade de
+investidores ou potenciais investidores, seus Produtos de Investimento e/ou prestar suporte à
 
-Distribuição de Produtos de Investimento.
+atividade de Distribuição de Produtos de Investimento.
 
-§1º. Os Distribuidores devem implementar e manter, em documento escrito, regras,
+## Art. 42
 
-procedimentos e controles internos para seleção, contratação e supervisão dos terceiros
+Sem prejuízo das disposições gerais para contratação de terceiros previstas nas Regras e
 
-contratados que sejam consistentes e passíveis de verificação e que contenham, no mínimo:
+Procedimentos de Deveres Básicos, a contratação de terceiros para distribuir os Produtos de
 
-I. Procedimentos prévios à contratação:
+Investimento e/ou para prestar suporte à atividade de Distribuição de Produtos de Investimento,
 
-a. processo interno para seleção e contratação do terceiro, indicando as áreas internas
+54
 
-envolvidas nesse processo; e
-
-b. processo de diligência adotado nos casos de contratação de terceiros para atividades
-
-que não possuam questionário ANBIMA de due diligence, observado o §2º deste
-
-artigo.
-
-II. Procedimentos pós-contratação:
-
-a. áreas responsáveis pela supervisão dos terceiros contratados;
-
-b. processo adotado para supervisionar o terceiro contratado; e
-
-c. processo adotado para tratar as não conformidades e ressalvas identificadas.
-
-42
-
-§2º. Em seu processo de contratação de terceiros, os Distribuidores devem exigir que o
-
-terceiro contratado para distribuir os Produtos de Investimento responda ao questionário ANBIMA
-
-de due diligence para Distribuição de Produtos de Investimento, conforme modelo disponibilizado
-
-pela Associação em seu site na internet, sem prejuízo da solicitação de informações adicionais a
-
-critério dos Distribuidores.
-
-§3º. Deve constar do documento previsto no §1º deste artigo a metodologia de supervisão
-
-baseada em risco adotada pelos Distribuidores, nos termos do parágrafo único do artigo 39 destas
-
-Regras e Procedimentos.
-
-§4º. Os Distribuidores devem, para cumprimento das exigências previstas neste artigo,
-
-observar o porte da empresa contratada, o volume de transações, bem como a criticidade da
-
-atividade, buscando agir com razoabilidade e bom senso.
-
-§5º. Os Distribuidores devem zelar, ao contratar terceiros que pertençam ao seu
-
-Conglomerado ou Grupo Econômico, que as condições sejam estritamente comutativas.
-
-§6º. Estão dispensadas da obrigatoriedade prevista neste artigo as empresas que pertençam
-
-ao mesmo Conglomerado ou Grupo Econômico dos Distribuidores, desde que observado o disposto
-
-no parágrafo anterior.
-
-## Art. 36
-
-A contratação de terceiros para distribuir os Produtos de Investimento e/ou para prestar
-
-suporte à atividade de Distribuição de Produtos de Investimento, quando aplicável, deve ser
-
-formalizada em contrato escrito e deve prever, no mínimo:
+quando aplicável, deve ser formalizada em contrato escrito e prever, no mínimo:
 
 I. II. As obrigações e os deveres das partes envolvidas;
 
 A descrição das atividades que serão contratadas e exercidas por cada uma das partes;
 
-III. A obrigação de cumprir suas atividades em conformidade com as disposições previstas
+III. A obrigação de cumprir suas atividades em conformidade com as disposições previstas no
 
-no Código de Distribuição, nestas Regras e Procedimentos e na regulação;
+Código de Distribuição, nestas Regras e Procedimentos e na regulação;
 
-43
+IV. A obrigação de disponibilizar ao investidor todas as informações e todos os documentos
 
-IV. A obrigação de disponibilizar ao cliente todas as informações e todos os documentos dos
+dos Produtos de Investimento distribuídos em versão atualizada;
 
-Produtos de Investimento distribuídos em versão atualizada;
-
-V. A obrigação de disponibilizar ao cliente as informações sobre o serviço de atendimento
+V. A obrigação de disponibilizar ao investidor as informações sobre o serviço de atendimento
 
 a ele destinado;
 
 VI. A obrigação de manter procedimentos internos adequados para verificar a origem e
 
-veracidade da emissão de ordem dada pelo cliente para a movimentação (aplicação ou
+veracidade da emissão de ordem dada pelo investidor para a movimentação (aplicação ou
 
 resgate) dos Produtos de Investimento distribuídos;
 
-VII. A obrigação, caso o terceiro contratado não seja Distribuidor sujeito a este Código, de
+VII. A obrigação, caso o terceiro contratado não seja Distribuidor sujeito ao Código de
 
-aderir ao Código de Ética dos Distribuidores contratantes; e
+Distribuição, de aderir ao código de ética dos Distribuidores contratantes; e
 
 VIII. A obrigação de utilizar apenas Material Técnico e/ou Publicitário que tenham sido
 
 aprovados, expressamente, pelos Distribuidores contratantes.
 
-## Art. 37
+## Art. 43
 
 Os Distribuidores devem:
 
-I. II. Fornecer ao terceiro contratado todas as informações e todos os documentos
+I. Fornecer ao terceiro contratado todas as informações e todos os documentos necessários
 
-necessários para o cumprimento de suas funções; e
+para o cumprimento de suas funções; e
 
-Adotar mecanismos de controle, a fim de verificar se os Materiais Técnicos e/ou
+II. Adotar mecanismos de controle, a fim de verificar se os Materiais Técnicos e/ou
 
 Publicitários divulgados pelos terceiros contratados, inclusive em seu site na internet,
 
 observam as regras de publicidade previstas nestas Regras e Procedimentos e na
 
+55
+
 regulação aplicável a cada Produto de Investimento, se houver.
 
-Seção II – Relatório ANBIMA
+Seção II – Relatório Anbima
 
-## Art. 38
+## Art. 44
 
-As Instituições Participantes devem enviar para a ANBIMA, anualmente, até o último dia útil
+As Instituições Participantes devem encaminhar à Anbima, anualmente, até o último dia
 
-do mês de março de cada ano, a relação de todos os terceiros contratados para Distribuição de
+útil do mês de março, a relação de todos os terceiros contratados como prepostos para a
 
-Produtos de Investimento mantidos sob contrato em 31 de dezembro do ano calendário anterior,
+Distribuição de Produtos de Investimento à base de clientes da própria Instituição Participante,
 
-incluindo:
+mantidos sob contrato no decorrer do ano calendário anterior, tais como os Assessores de
 
-I. II. Nome e CNPJ/CPF do terceiro contratado;
+Investimentos, incluindo:
 
-Tipo de terceiro contratado (Assessor de Investimento, cooperativas, entre outros);
+I. Nome e CNPJ/CPF do terceiro contratado;
+
+II. Tipo de terceiro contratado (Assessor de Investimento, entre outros);
 
 III. Data de sua contratação;
 
-44
-
 IV. Relação dos Produtos de Investimento distribuídos pelo terceiro contratado, sendo
 
-necessário, para este item, separar por Produto de Investimento e por valor total aplicado;
+necessário, para este item, separar por Produto de Investimento e por valor total
 
-e
+aplicado; e
 
-V. No caso de Assessor de Investimento, além das informações previstas no inciso IV anterior,
+V. No caso de Assessor de Investimento, além das informações previstas no inciso IV
 
-deve ser inclusa, também, a quantidade de clientes que efetuaram aplicação ou resgate.
+anterior, deve ser inclusa, também, a quantidade de investidores que efetuaram aplicação
+
+ou resgate.
 
 Parágrafo único. As informações solicitadas, nos termos do caput, devem ser encaminhadas
 
-para a ANBIMA conforme modelo de relatório disponibilizado pela Associação em seu site na
+para a Anbima conforme modelo de relatório disponibilizado pela Associação em seu site na
 
 internet.
 
 Seção III – Supervisão baseada em risco
 
-## Art. 39
+## Art. 45
 
 A supervisão baseada em risco tem por objetivo destinar mais atenção aos terceiros
 
 contratados que demonstrem maior probabilidade de apresentar falhas em sua atuação ou
 
-representem potencialmente um dano maior para os clientes e para a integridade dos mercados
+representem potencialmente um dano maior para os investidores e para a integridade dos
 
-financeiro e de capitais.
+56
 
-Parágrafo único. Os Distribuidores devem elaborar metodologia para supervisão baseada em
+mercados financeiro e de capitais.
 
-risco dos terceiros contratados, a qual deve conter, no mínimo:
+§1º. Os Distribuidores devem elaborar metodologia para supervisão baseada em risco dos
+
+terceiros contratados, a qual deve conter, no mínimo:
 
 I. II. III. Classificação dos terceiros contratados por grau de risco, indicando os critérios utilizados
 
@@ -2578,7 +2888,15 @@ fato novo, ou alteração significativa que, a critério das instituições, jus
 
 reavaliação.
 
-## Art. 40
+§2º
+
+. A metodologia de supervisão baseada em risco adotada pelos Distribuidores deve estar
+
+formalizada em documento escrito e refletida nas respectivas regras e procedimentos referentes a
+
+contratação de terceiros, nos termos do artigo 42 destas Regras e Procedimentos.
+
+## Art. 46
 
 Os Distribuidores que contratarem terceiros não participantes da autorregulação,
 
@@ -2586,19 +2904,19 @@ observado o §2º deste artigo, devem, obrigatoriamente, classificá-los em sua 
 
 alto risco, devendo adotar, para esses terceiros, critérios adicionais para supervisão.
 
-45
+§1º. A periodicidade para supervisionar os terceiros referidos no caput deve ser de, no
 
-§1º. A periodicidade para supervisionar os terceiros referidos no caput deve ser de, no mínimo,
+mínimo, 12 (doze) meses.
 
-12 (doze) meses.
+§2º. A classificação de que trata o caput deve ser realizada apenas nas hipóteses de
 
-§2º. A classificação de que trata o caput deve ser realizada apenas nas hipóteses de contratação
+contratação de terceiros que podem se associar à Anbima ou aderir ao Código de Distribuição.
 
-de terceiros que podem se associar à ANBIMA ou aderir ao Código de Distribuição.
+57
 
 CAPÍTULO VII – CONTRATAÇÃO DE ASSESSORES DE INVESTIMENTOS
 
-## Art. 41
+## Art. 47
 
 Os Distribuidores podem contratar Assessores de Investimentos para atuarem como seus
 
@@ -2606,11 +2924,15 @@ prepostos na Distribuição de Produtos de Investimento, desde que tais assessor
 
 devidamente credenciados, nos termos da regulação, e possam cumprir, no que couber, as
 
-disposições previstas neste Código de Distribuição e nestas Regras e Procedimentos.
+disposições previstas no Código de Distribuição e suas respectivas Regras e Procedimentos, bem
+
+como as disposições gerais para contratação de terceiros previstas nas Regras e Procedimentos de
+
+Deveres Básicos.
 
 §1º. Os Assessores de Investimentos podem, exclusivamente:
 
-I. II. III. Atuar na prospecção e captação de clientes;
+I. II. III. Atuar na prospecção e captação de investidores;
 
 Recepcionar, registrar ordens e operacionalizar a transmissão dessas ordens para os
 
@@ -2622,187 +2944,231 @@ prestados pelos Distribuidores.
 
 §2º. A prestação de informações a que se refere o inciso III do parágrafo anterior inclui as
 
-atividades de suporte e orientação inerentes à relação comercial com os clientes.
+atividades de suporte e orientação inerentes à relação comercial com os investidores.
 
 §3º. Os Distribuidores devem, ao contratar o Assessor de Investimento, disponibilizar e
 
 manter atualizada em seu site na internet ou em canais alternativos uma lista com a indicação de
 
-todos os Assessores de Investimento contratados.
+todos os Assessores de Investimento contratados, garantindo o acesso público dessas informações.
 
-46
-
-§4º. As Instituições Participantes de outros Códigos ANBIMA que estão autorizadas pela CVM,
+§4º. As Instituições Participantes de outros Códigos Anbima que estão autorizadas pela CVM,
 
 conforme regulação específica, a distribuir seus próprios Produtos de Investimento só poderão
 
 contratar Assessor de Investimento se forem instituições autorizadas a funcionar pelo BCB.
 
-## Art. 42
+## Art. 48
 
 Os Distribuidores devem:
 
-I. II. Possuir controles que assegurem que o pagamento decorrente da prestação de serviços para
+58
 
-o Assessor de Investimento foi efetuado diretamente para a respectiva pessoa física ou
+I. II. Possuir controles que assegurem que o pagamento decorrente da prestação de serviços
 
-jurídica com vínculo contratual, e que seja compatível com os eventos que geraram o valor
+para o Assessor de Investimento foi efetuado diretamente para a respectiva pessoa física
 
-pago, conforme estabelecido em contrato; e
+ou jurídica com vínculo contratual, e que seja compatível com os eventos que geraram o
 
-Fornecer a todos os clientes a descrição da remuneração e da forma de pagamento do
+valor pago, conforme estabelecido em contrato; e
 
-Assessor de Investimento.
+Fornecer a todos os investidores a descrição da remuneração e da forma de pagamento
+
+do Assessor de Investimento.
 
 Parágrafo único. A descrição da remuneração de que trata o inciso II do caput deve ser
 
-disponibilizada aos clientes quando do início de seu relacionamento com os Distribuidores, devendo
+disponibilizada aos investidores quando do início de seu relacionamento com os Distribuidores,
 
-ser evidenciado o recebimento.
+devendo ser evidenciado o recebimento.
 
-CAPÍTULO VIII – CONTRATAÇÃO DE INFLUENCIADORES DIGITAIS
+CAPÍTULO VIII – INFLUENCIADORES DIGITAIS
 
-## Art. 43
+## Art. 49
 
-Os Distribuidores podem contratar influenciadores digitais e/ou agências que façam essa
+Consideram-se Influenciadores Digitais, para os fins destas Regras e Procedimentos, as
+
+pessoas naturais ou jurídicas que:
+
+I. Mantenham presença habitual ou profissional em canais digitais (incluindo redes sociais,
+
+blogs, plataformas de vídeo ou podcasts);
+
+II. Produzam ou difundam conteúdos próprios ou patrocinados relacionados a temas
+
+financeiros, econômicos ou de investimento; e
+
+III. Possam influenciar, ainda que indiretamente, o processo decisório de investidores ou
+
+potenciais investidores quanto à aquisição, manutenção ou alienação de Produtos de
+
+Investimento.
+
+Parágrafo único. Os Influenciadores Digitais podem se caracterizar como:
+
+I. Terceiros contratados, devendo observar as disposições gerais para contratação de
+
+terceiros previstas nas Regras e Procedimentos de Deveres Básicos; ou
+
+II. Sócios ou colaboradores.
+
+59
+
+## Art. 50
+
+Os Distribuidores podem contratar Influenciadores Digitais e/ou agências que façam essa
 
 contratação para a realização de publicidades de Produtos de Investimento, serviço de
 
-intermediação no exterior e/ou atividade de Distribuição de Produtos de Investimento nos termos
+intermediação no exterior e/ou atividade de Distribuição de Produtos de Investimento, nos termos
 
 estabelecidos pelo Código de Distribuição.
 
-Parágrafo único. Os Distribuidores devem assegurar que as empresas de seu Conglomerado
+## Art. 51
 
-ou Grupo Econômico que contratarem influenciadores digitais, nos termos do caput, sigam o
+Os Distribuidores devem estabelecer controles e procedimentos a fim de verificar que as
 
-disposto neste capítulo.
+empresas de seu Conglomerado ou Grupo Econômico que atuem na contratação de Influenciadores
 
-47
+Digitais para as finalidades previstas no caput, observem o disposto neste capítulo.
 
 Seção I – Transparência
 
-## Art. 44
+## Art. 52
 
-Sem prejuízo da regulação vigente, o contrato entre os Distribuidores e os influenciadores
+Os Distribuidores são responsáveis pela transparência da relação estabelecida com os
 
-digitais deve conter, no mínimo:
+Influenciadores Digitais para viabilizar publicidades de Produtos de Investimento, de serviços de
 
-I. II. III. IV. V. VI. VII. VIII. Descrição detalhada do escopo e do tipo de publicidade a ser feita, incluindo, mas não se
+intermediação no exterior e/ou da atividade de Distribuição.
 
-limitando a:
+§1º. Os Distribuidores devem, além das regras estabelecidas no artigo 13 do Código de
 
-a. todos os tipos de Produtos de Investimento de forma geral e não específica que farão
+Distribuição, implementar controles e procedimentos a fim de verificar que os Influenciadores
 
-parte da publicidade, assim como dos serviços de intermediação no exterior ou atividade
+Digitais:
 
-de Distribuição, quando aplicável;
+I. Exerçam suas ações de publicidade com boa-fé, transparência e diligência, empregando
 
-b. quais os meios autorizados para divulgação da publicidade; e
+o cuidado que toda pessoa prudente e diligente costuma dispensar à administração de
 
-c. se o influenciador digital desempenhará atividade que seja regulada.
+seus próprios negócios, evitando conflitos de interesse, concorrência desleal e zelando
 
-Obrigação de o influenciador digital exercer as ações de publicidade com boa-fé,
+pelo investidor; e
 
-transparência e diligência, empregando o cuidado que toda pessoa prudente e diligente
+II. Explicitem em seu conteúdo, de forma clara, os Distribuidores vinculados à publicidade e
 
-costuma dispensar à administração de seus próprios negócios, evitando conflitos de
+que se trata de uma publicidade, sendo vedada a apresentação ou sugestão pelo
 
-interesse, concorrência desleal e zelando pelo cliente;
+Influenciador Digital de que o conteúdo é isento, imparcial ou independente.
 
-Número de inserções a serem feitas nas mídias sociais e sua periodicidade, quando aplicável;
+60
 
-Obrigação de o influenciador digital explicitar em suas publicidades, de forma clara, que se
+§2º. Sem prejuízo à regulação vigente, o contrato entre os Distribuidores e os Influenciadores
 
-trata de publicidade de Produtos de Investimento, serviços de intermediação no exterior ou
+Digitais contratados como terceiros deve conter no mínimo:
 
-atividade de Distribuição, conforme aplicável, e o nome os Distribuidores que o contrataram;
+I. Descrição do escopo e do tipo de publicidade que será realizada, indicando os produtos,
 
-Descrição da remuneração do influenciador digital, ainda que a remuneração seja não
+serviços e outros elementos pertinentes à atividade de Distribuição objeto do contrato;
+
+II. Descrição de quais os meios autorizados para divulgação da publicidade;
+
+III. Previsão de que o Influenciador Digital deverá observar os limites do escopo contratado,
+
+sendo vedado o exercício de atividade regulada sem observância da regulamentação
+
+aplicável;
+
+IV. Número de inserções a serem feitas nas mídias sociais e sua periodicidade, quando
+
+aplicável;
+
+V. Descrição da remuneração do Influenciador Digital, ainda que a remuneração seja não
 
 pecuniária;
 
-Obrigação de o influenciador digital desempenhar suas funções no limite estabelecido pelo
+VI. Obrigação de o Influenciador Digital desempenhar suas funções no limite estabelecido
 
-contrato;
+pelo contrato;
 
-Procedimento que será adotado pelos Distribuidores para monitorar a atuação do
+VII. Procedimento que será adotado pelos Distribuidores para monitorar a atuação do
 
-influenciador digital, de modo a garantir que o disposto no contrato, assim como neste
+Influenciador Digital, de modo a garantir que o disposto no contrato, conforme aplicável,
 
-normativo, conforme aplicável, seja cumprido; e
+seja cumprido; e
 
-Vigência do contrato, especificando se a contratação é por prazo determinado ou
+VIII. Vigência do contrato, especificando se a contratação é por prazo determinado ou
 
 indeterminado.
 
-48
-
-§1º. Para fins do disposto no inciso IV do caput, será considerada válida a menção verbal ou
+§3º. Para fins do disposto no inciso II do §1º, será considerada válida a menção verbal ou
 
 escrita na própria publicidade ou, ainda, a adição de hashtags mencionando minimamente que se
 
 trata de publicidade e vinculando aos Distribuidores (#parceria e #nomedainstituição).
 
-§2º. Observada a regulação aplicável à proteção de dados pessoais, os Distribuidores devem
+61
 
-disponibilizar, até o décimo dia de cada mês, a atualização da relação de todos os influenciadores
+§4º. Observada a regulação aplicável à proteção de dados pessoais, os Distribuidores devem
 
-digitais com quem manteve contrato até o último dia do mês anterior, em formato de relatório,
+disponibilizar à Anbima, até o décimo dia de cada mês, a atualização da relação de todos os
 
-conforme modelo disponibilizado pela ANBIMA.
+Influenciadores Digitais com quem manteve contrato até o último dia do mês anterior, em formato
+
+de relatório, conforme modelo disponibilizado pela Anbima.
 
 Seção II – Responsabilidade
 
-## Art. 45
+## Art. 53
 
-Os Distribuidores são responsáveis por todas as publicidades relacionadas aos Produtos de
+Os Distribuidores são responsáveis, nos limites do contrato celebrado com o Influenciador
 
-Investimento, serviços de intermediação no exterior e/ou atividade de Distribuição do Código de
+Digital, por todas as publicidades de Produtos de Investimento, de serviços de intermediação no
 
-Distribuição divulgadas pelos influenciadores digitais contratados, cabendo aos Distribuidores
+exterior e/ou da atividade de Distribuição divulgadas por Influenciadores Digitais, devendo os
 
-garantirem, além do estabelecido em contrato, que os influenciadores digitais observem:
+Distribuidores implementar controles e procedimentos a fim de verificar que aqueles observem:
 
-I. II. Os requisitos previstos neste capítulo e no capítulo XII destas Regras e Procedimentos que
+I. II. Os requisitos previstos neste capítulo e no capítulo XII destas Regras e Procedimentos
 
-trata das normas de publicidade; e
+que trata das normas de publicidade; e
 
-A veracidade das informações divulgadas e sua completude, de modo a não levar o investidor
+A veracidade das informações divulgadas e sua completude, de modo a não levar o
 
-a erro.
+investidor a erro.
 
-## Art. 46
+## Art. 54
 
-Os Distribuidores devem garantir que os influenciadores digitais contratados possuam, caso
+Na hipótese de o conteúdo a ser divulgado pelo Influenciador Digital envolver atividade que,
 
-aplicável, as devidas Certificações ANBIMA necessárias se o conteúdo a ser divulgado nas
+nos termos da regulação e/ou autorregulação vigente, exija capacitação ou certificação específica,
 
-publicidades exija autorização e/ou Certificações ANBIMA da regulação e/ou autorregulação
+como as Certificações Anbima, os Distribuidores devem garantir que os Influenciadores Digitais
 
-vigente.
+possuam as certificações aplicáveis válidas.
 
 Seção III – Armazenamento
 
-## Art. 47
+## Art. 55
 
 Sem prejuízo da regulação vigente, os Distribuidores devem armazenar por, no mínimo, 1
 
-(um) ano, os instrumentos contratuais referentes à contratação dos influenciadores digitais e toda
+(um) ano, os instrumentos contratuais referentes à contratação dos Influenciadores Digitais e toda
 
 publicidade produzida que seja objeto do contrato firmado nos termos deste normativo.
 
-49
-
 Parágrafo único. A documentação de que trata o caput deve ser disponibilizada para a
 
-ANBIMA sempre que solicitada.
+62
+
+Anbima sempre que solicitada.
 
 CAPÍTULO IX – SERVIÇOS DE INTERMEDIAÇÃO NO EXTERIOR
 
-## Art. 48
+## Art. 56
 
-Os Distribuidores podem oferecer serviços de intermediação no exterior para clientes
+Os Distribuidores podem oferecer serviços de intermediação no exterior para investidores
 
 residentes no Brasil, desde que o oferecimento desse serviço ocorra exclusivamente em
 
@@ -2812,9 +3178,9 @@ estrangeiras, nos termos previstos pela regulação.
 
 §1º. Previamente à Oferta de que trata o caput, os Distribuidores devem:
 
-I. Assegurar que a instituição estrangeira esteja devidamente autorizada em seu país de
+I. II. III. Assegurar que a instituição estrangeira esteja devidamente autorizada em seu país de
 
-II. III. origem a prestar o serviço de intermediação;
+origem a prestar o serviço de intermediação;
 
 Assegurar que a instituição estrangeira contratada preste serviços exclusivamente em
 
@@ -2822,125 +3188,127 @@ mercados reconhecidos, nos termos da regulação aplicável da CVM; e
 
 Realizar diligência na instituição estrangeira exigindo que ela responda, no mínimo, ao
 
-questionário ANBIMA de due diligence para prestação de serviços de intermediação no
+questionário Anbima de due diligence para prestação de serviços de intermediação no
 
 exterior, disponível no site da Associação na internet.
 
 §2º. A verificação de regularidade de que trata o inciso I do parágrafo anterior deve ser
 
-formalizada e ficar à disposição da ANBIMA quando solicitada.
+formalizada e ficar à disposição da Anbima quando solicitada.
 
 §3º. Os Distribuidores estão dispensados de cumprir o disposto no inciso III do §1º deste
 
 artigo caso a instituição estrangeira faça parte de seu Conglomerado ou Grupo Econômico.
 
-## Art. 49
+## Art. 57
 
 O contrato entre os Distribuidores e a instituição estrangeira de que trata o caput do artigo
 
-anterior deve prever, no mínimo:
+56 acima deve prever, no mínimo:
+
+63
 
 I. Proibição à menção a Ativos específicos no material de divulgação utilizado, de forma a
 
-garantir que a Oferta feita aos clientes residentes no Brasil seja apenas a dos serviços de
+garantir que a Oferta feita aos investidores residentes no Brasil seja apenas a dos serviços
 
-intermediação, observada a regulação e o disposto neste capítulo;
+de intermediação, observada a regulação e o disposto neste capítulo;
 
-50
+II. Que o intermediário estrangeiro se comprometa a não aceitar e a não manter
 
-II. III. IV. V. Que o intermediário estrangeiro se comprometa a não aceitar e a não manter clientes
+investidores residentes no Brasil que sejam oriundos de divulgação pública de serviços de
 
-residentes no Brasil que sejam oriundos de divulgação pública de serviços de intermediação
+intermediação no exterior e que não tenham passado pelo crivo do intermediário
 
-no exterior e que não tenham passado pelo crivo do intermediário brasileiro, observado o
+brasileiro, observado o parágrafo único deste artigo;
 
-parágrafo único deste artigo;
+III. A obrigação de a instituição estrangeira atualizar, periodicamente, de acordo com a
 
-A obrigação de a instituição estrangeira atualizar, periodicamente, de acordo com a
+classificação de risco, o questionário de due diligence de que trata o inciso III, §1º do
 
-classificação de risco, o questionário de due diligence de que trata o inciso III, §1º do artigo 40
+artigo 56 destas Regras e Procedimentos, assim como de prestar outras informações que
 
-destas Regras e Procedimentos, assim como de prestar outras informações que o
+o distribuidor necessite para a continuidade da prestação de serviço objeto do contrato;
 
-distribuidor necessite para a continuidade da prestação de serviço objeto do contrato;
+IV. A obrigação de os Distribuidores manterem os cadastros dos investidores residentes no
 
-A obrigação de os Distribuidores manterem os cadastros dos clientes residentes no Brasil
+Brasil atualizados de acordo com a regulação brasileira aplicável; e
 
-atualizados de acordo com a regulação brasileira aplicável; e
-
-A vedação, observado o artigo 48 abaixo, de a instituição estrangeira ofertar, recomendar
+V. A vedação, observado o artigo 56 abaixo, de a instituição estrangeira ofertar, recomendar
 
 ou realizar quaisquer esforços de venda de seus serviços, visando à prospecção de novos
 
-clientes no Brasil, que não seja por intermédio de parcerias com Distribuidores no Brasil,
+investidores no Brasil, que não seja por intermédio de parcerias com Distribuidores no
 
-conforme aplicável.
+Brasil, conforme aplicável.
 
 Parágrafo único. A obrigação de que trata o inciso II deste artigo se aplica imediatamente para
 
-novas indicações de clientes pelo intermediário brasileiro ao intermediário estrangeiro, e para os
+novas indicações de investidores pelo intermediário brasileiro ao intermediário estrangeiro, e para
 
-clientes existentes que já tenham sido indicados, a partir do período de atualização cadastral,
+os investidores existentes que já tenham sido indicados, a partir do período de atualização cadastral,
 
 conforme disposto na regulação aplicável.
 
-## Art. 50
+## Art. 58
 
-Todo esforço de captação de clientes residentes no Brasil, inclusive por meio de publicidade
+Todo esforço de captação de investidores residentes no Brasil, inclusive por meio de
 
-ou esforço de comunicação para fins de recomendação da contratação do serviço de intermediação
+publicidade ou esforço de comunicação para fins de recomendação da contratação do serviço de
 
-no exterior, deve ser feito, exclusivamente, por Instituições Participantes locais.
+intermediação no exterior, deve ser feito, exclusivamente, por Instituições Participantes locais.
 
-## Art. 51
+64
 
-Os Distribuidores locais devem prestar aos clientes residentes no Brasil informações em
+## Art. 59
 
-português, de maneira clara, de todos os elementos necessários para a adequada tomada de
+Os Distribuidores locais devem prestar aos investidores residentes no Brasil informações
 
-decisão quanto à contratação dos serviços de intermediação no exterior, observado o artigo 34,
+em português, de maneira clara, de todos os elementos necessários para a adequada tomada de
 
-inciso III, destas Regras e Procedimentos.
+decisão quanto à contratação dos serviços de intermediação no exterior.
 
 §1º. As informações de que trata o caput podem ser disponibilizadas de forma manual ou
 
 eletrônica e devem conter, no mínimo:
 
-51
+I. O nome dos Distribuidores e da instituição estrangeira;
 
-I. II. III. IV. O nome dos Distribuidores e da instituição estrangeira;
+II. Os serviços a serem prestados;
 
-Os serviços a serem prestados;
+III. A área de atuação da instituição estrangeira;
 
-A área de atuação da instituição estrangeira;
+IV. Os riscos relacionados ao investimento no exterior, incluindo, mas não se limitando, aos
 
-Os riscos relacionados ao investimento no exterior, incluindo, mas não se limitando, aos
+riscos relacionados à eventual ausência de mecanismos de proteção conhecidos do
 
-riscos relacionados à eventual ausência de mecanismos de proteção conhecidos do cliente
+investidor brasileiro, tais como mecanismo de ressarcimento de prejuízos e fundo
 
-brasileiro, tais como mecanismo de ressarcimento de prejuízos e Fundo garantidor de
+garantidor de crédito, entre outros riscos relacionados ao investimento no exterior que
 
-crédito, entre outros riscos relacionados ao investimento no exterior que os Distribuidores
+os Distribuidores entenderem pertinente;
 
-entenderem pertinente;
+V. A possibilidade de remuneração existente entre os Distribuidores e a instituição
 
-V. VI. VII. VIII. IX. A possibilidade de remuneração existente entre os Distribuidores e a instituição estrangeira;
+estrangeira;
 
-As exigências relacionadas à transferência de valores;
+VI. As exigências relacionadas à transferência de valores;
 
-A necessidade de eventual pagamento de impostos decorrentes da abertura da conta de
+VII. A necessidade de eventual pagamento de impostos decorrentes da abertura da conta de
 
 investimento no exterior, observada a regulação aplicável;
 
-A obrigatoriedade de o cliente comunicar ao BCB acerca dos recursos mantidos no exterior;
+VIII. A obrigatoriedade de o investidor comunicar ao BCB acerca dos recursos mantidos no
 
-e
+exterior; e
 
-As proteções disponíveis para o cliente residente no Brasil em relação à jurisdição
+IX. As proteções disponíveis para o investidor residente no Brasil em relação à jurisdição
 
 estrangeira e sobre a limitação da jurisdição brasileira, que é restrita apenas ao território
 
 nacional.
+
+65
 
 §2º. As informações de que trata o inciso IV do parágrafo anterior, caso disponibilizadas de
 
@@ -2948,201 +3316,305 @@ forma eletrônica, devem constar no site dos Distribuidores na internet ou em ca
 
 mesmo nos casos em que as operações sejam realizadas por meio de seus Canais Digitais.
 
-52
-
-CAPÍTULO X – TRANSFERÊNCIA DE PRODUTOS DE INVESTIMENTO
+CAPÍTULO X – PORTABILIDADE DE PRODUTOS DE INVESTIMENTO
 
 Seção I – Regras gerais
 
-## Art. 52
+## Art. 60
 
-É admitida a transferência de Produtos de Investimento de mesma titularidade entre os
+Os Distribuidores devem definir e implementar políticas e controles internos para
 
-Distribuidores cedentes e cessionários de posição de cotas de Fundos e de Custódia dos demais
+recepcionar e processar solicitação de Portabilidade de Produtos de Investimento de mesma
 
-Produtos de Investimento.
+titularidade entre os Distribuidores de Origem e de Destino de posição de cotas de Fundos e de
 
-§1º. A transferência de que trata o caput abrange:
+Custódia dos demais Produtos de Investimento, abrangendo:
 
-I. II. Transferência de posição de cotas de Classes de Fundos; e
+I. II. Solicitação de Portabilidade realizada ao Distribuidor de Origem ou de Destino ou
 
-Transferência de Custódia dos demais Produtos de Investimento.
+depositário central; e
 
-§2º. Os Produtos de Investimento cuja estrutura não permita a transferência de que trata o
+A Portabilidade de posição de cotas de Fundos e de custódia dos demais Produtos de
 
-caput estão dispensados das normas previstas neste capítulo, devendo tal impossibilidade ser
+Investimento.
 
-divulgada aos investidores.
+Parágrafo único. O disposto neste capítulo não se aplica à solicitação de Portabilidade
 
-## Art. 53
+envolvendo os Produtos de Investimento dispensados de observar tal processo pela regulação
 
-Para a transferência ser realizada, o investidor deverá formalizar o pedido aos Distribuidores
+vigente.
 
-cedentes, sendo recomendável que este pedido seja feito por meio eletrônico.
+Seção II – Política, controles e procedimentos internos
 
-§1º. Independentemente da forma de transferência, se eletrônica ou física, os Distribuidores
+## Art. 61
 
-deverão divulgar em seu site na internet ou em canais alternativos os documentos e informações
+A política, os controles e procedimentos internos, de que trata o artigo 60, devem ser
 
-necessárias para a realização da transferência.
+formalizados pelos Distribuidores em documento escrito, abrangendo, no mínimo, as hipóteses de
 
-§2º. Para a realização da transferência, os Distribuidores deverão considerar os modelos
+66
 
-constantes do Anexo Complementar III destas Regras e Procedimentos.
+inadmissão, impedimento e impossibilidade do cancelamento de solicitação de Portabilidade,
 
-§3º. Os Distribuidores deverão disponibilizar canal de atendimento aos clientes para
+previstas na regulação vigente, quando aplicáveis.
 
-esclarecimentos de dúvidas sobre o processo de transferência de Produtos de Investimento.
+Parágrafo único. Os Distribuidores devem disponibilizar o documento de que trata o caput
 
-53
+em seu site na internet e/ou, conforme aplicável, nos demais meios e ambientes franqueados aos
 
-§4º. Os Distribuidores cedentes, ao receberem o pedido do investidor de transferência dos
+investidores, observado que:
 
-Produtos de Investimento, deverá:
+I. II. Na hipótese de haver algum prejuízo à experiência do investidor na disponibilização do
 
-I. II. III. IV. Assegurar que a identificação da titularidade das posições esteja correta, garantindo a
+documento de que trata o caput, devem disponibilizar instruções de acesso ao
+
+documento nos meios e ambientes alternativos, incluindo hiperlink quando possível; e
+
+Devem disponibilizar instruções objetivas aos investidores sobre as ações e documentos
+
+necessários para a formulação de solicitação de Portabilidade, sua validação e efetivação.
+
+Subseção I – Interface digital
+
+## Art. 62
+
+Os Distribuidores devem disponibilizar aos investidores interface digital para solicitação de
+
+Portabilidade de Produtos de Investimento, observando-se as exigências e funcionalidades mínimas
+
+previstas na regulação vigente e sem prejuízo de franquearem adicionalmente aos investidores
+
+meios alternativos para a solicitação.
+
+Parágrafo único. O disposto no caput não se aplica a solicitações de Portabilidade que
+
+envolvam:
+
+I. II. Serviço de custódia desvinculado da atividade de Distribuição e restrito às empresas de
+
+um Conglomerado ou Grupo Econômico;
+
+Serviço de custódia oferecido exclusivamente a investidores não residentes (“INR”) ou
+
+profissionais; e
+
+67
+
+III. Demais casos dispensados pela regulação vigente.
+
+Seção III – Recepção da solicitação, processamento e efetivação da
+
+Portabilidade
+
+## Art. 63
+
+A solicitação de Portabilidade de Produtos de Investimento deve ser formulada via interface
+
+digital disponibilizada pelos Distribuidores ou depositários centrais ao investidor, salvo exceções
+
+previstas no parágrafo único do artigo 62, sem prejuízo à possibilidade de franquear, como meio
+
+alternativo adicional e a exclusivo critério do solicitante, solicitação via documentos físicos e demais
+
+meios alternativos, desde que tais meios alternativos sejam disponibilizados pelo custodiante,
+
+intermediário ou depositário central.
+
+§1º. Para a recepção da solicitação de Portabilidade e seu processamento, os Distribuidores
+
+poderão considerar os modelos para Portabilidade de Produtos de Investimento constantes do
+
+Anexo Complementar III destas Regras e Procedimentos.
+
+§2º. Os Distribuidores deverão disponibilizar canal de atendimento aos investidores para
+
+esclarecimentos de dúvidas sobre o processo de Portabilidade de Produtos de Investimento.
+
+§3º. Os Distribuidores de Origem, ao receberem a solicitação de Portabilidade de Produtos de
+
+Investimento, deverão:
+
+I. II. Assegurar que a identificação da titularidade das posições esteja correta, garantindo a
 
 origem da solicitação recebida e sua integridade;
 
 Verificar se há bloqueios judiciais, de crédito e de garantias que possam impedir a
 
-transferência;
+Portabilidade;
 
-Informar ao Custodiante origem sobre o pedido de transferência realizado pelo investidor e
+68
 
-disponibilizar as informações do investidor que tiver acesso, exceto para Fundos de
+III. Informar ao Distribuidor de Destino sobre o pedido de Portabilidade realizado pelo
 
-investimento, suas Classes e Subclasses, conforme o caso; e
+investidor e disponibilizar as informações do investidor que tiver acesso, exceto para
 
-Informar e justificar ao investidor sobre eventual impossibilidade da transferência,
+Fundos de Investimento, suas Classes e Subclasses, conforme o caso;
 
-observado o artigo 45 destas Regras e Procedimentos.
+IV. Informar e justificar ao investidor sobre eventual impossibilidade da Portabilidade,
 
-§5º. Os Distribuidores cedentes devem informar ao investidor sobre qualquer atraso ou
+observada a regulação aplicável; e
 
-impossibilidade no processo de transferência.
+V. Informar ao investidor que movimentações, aplicações e/ou resgates poderão não estar
 
-## Art. 54
+disponíveis durante o ciclo de processamento da Portabilidade.
 
-A solicitação de transferência poderá ser recusada pelos Distribuidores cedentes nas
+## Art. 64
+
+Os Distribuidores devem efetivar a Portabilidade de Produtos de Investimento em prazos
+
+não superiores aos definidos nos artigos 67 e 73 destas Regras e Procedimentos e na regulação
+
+vigente.
+
+Parágrafo único. Os Distribuidores de Origem devem informar ao investidor sobre qualquer
+
+atraso ou impossibilidade no processo da Portabilidade.
+
+## Art. 65
+
+A solicitação de Portabilidade poderá ser recusada pelos Distribuidores de Origem nas
 
 seguintes hipóteses:
 
-I. Bloqueio judicial e de garantias que possam impedir a transferência;
+I. Bloqueio judicial e de garantias que possam impedir a Portabilidade;
 
 II. Desistência do investidor;
 
-III. Inconsistência nas informações cadastrais;
+III. Inconsistência ou falta de informações cadastrais ou de posição;
 
-IV. Não reconhecimento da posição;
+V. Não reconhecimento da posição;
 
-V. Quando houver movimentações de resgates ainda não convertidas e liquidadas; e
+VI. Quando houver movimentações de resgates ainda não convertidas e liquidadas;
 
-VI. Distribuidores cessionários não possuírem contrato com o Administrador Fiduciário do
+VII. Distribuidores de Destino não possuírem contrato com os respectivos Gestores do(s)
 
-Fundo.
+fundo(s) de investimento envolvidos na solicitação de Portabilidade;
 
-Parágrafo único. Caso os Distribuidores cessionários queiram recusar o pedido de transferência
+VIII. Indício de fraude ou irregularidade na solicitação, notadamente nos casos de solicitação
 
-feito pelo investidor em situações diversas das previstas no caput, observada suas regras internas,
+formulada por meios alternativos à interface digital para solicitação de Portabilidade e
 
-deverão avisar o investidor sobre a não aceitação.
+69
 
-54
+VIII. IX. X. nos casos em que haja discrepâncias relevantes entre os dados da solicitação e os dados
 
-Seção II – Transferência de cotas de Classes De Fundos De Investimento
+cadastrais do investidor;
 
-## Art. 55
+Falha na indicação dos Custodiantes ou Distribuidores de Origem ou de Destino, ou na
 
-A transferência de cota(s) de Classes de Fundo(s) de Investimento somente poderá ser
+indicação das contas mantidas junto a tais prestadores de serviços;
 
-realizada quando o Distribuidor cessionário:
+Saldo devedor em conta corrente em nome do investidor no Distribuidor de Origem; e
 
-I. Possuir vínculo contratual com o Administrador Fiduciário do Fundo, objeto do pedido de
+Demais situações aplicáveis, conforme regulação vigente.
 
-transferência; e
+Parágrafo único. Caso os Distribuidores de Origem necessitem recusar o pedido de
 
-II. Assegurar que o cadastro do investidor junto ao Administrador Fiduciário do Fundo objeto
+Portabilidade feito pelo investidor em situações diversas das previstas no caput, deverão avisar o
 
-do pedido de transferência esteja em conformidade com a regulação vigente e com os
+investidor sobre a não aceitação, acompanhada de justificativas.
+
+Subseção I – Portabilidade de cotas de Classes de Fundos de
+
+Investimento
+
+## Art. 66
+
+A Portabilidade de cota(s) de Classes de Fundo(s) de Investimento somente poderá ser
+
+realizada quando o Distribuidor de Destino:
+
+I. II. Possuir vínculo contratual com o Gestor da cota do Fundo de Investimento objeto do
+
+pedido de Portabilidade; e
+
+Assegurar que o cadastro do investidor junto ao Administrador Fiduciário do Fundo objeto
+
+do pedido de Portabilidade esteja em conformidade com a regulação vigente e com os
 
 procedimentos internos do Administrador Fiduciário, ressalvados os casos de Distribuição
 
 por conta e ordem.
 
-§1º. É dispensada a observância ao disposto no inciso I, do caput, nos casos de transferência de
+§1º. É dispensada a observância ao disposto no inciso I, do caput, nos casos de Portabilidade
 
-cotas de Fundos que estejam depositadas junto à bolsa de valores.
+de cotas de Fundos que estejam depositadas junto à entidade administradora de mercado
 
-§2º. Sem prejuízo do disposto no artigo 54 destas Regras e Procedimentos, o Administrador
+organizado.
 
-Fiduciário poderá recusar a transferência de que trata o caput caso as políticas internas relacionadas
+70
 
-ao processo de prevenção à lavagem de dinheiro, ao financiamento do terrorismo e ao financia-
+§2º. Sem prejuízo do disposto no artigo 65 destas Regras e Procedimentos, o Administrador
 
-mento da proliferação de armas de destruição em massa (PLD/FTP), ou outros requisitos previstos
+Fiduciário poderá recusar a Portabilidade de que trata o caput caso as políticas internas relacionadas
 
-na regulação vigente apontarem quaisquer descumprimentos.
+ao processo de prevenção à lavagem de dinheiro, ao financiamento do terrorismo e ao
 
-## Art. 56
+financiamento da proliferação de armas de destruição em massa (PLD/FTP), ou outros requisitos
 
-Para a transferência de cotas de Classes de Fundos, devem ser observados os seguintes
+previstos na regulação vigente apontarem quaisquer descumprimentos.
+
+## Art. 67
+
+Para a Portabilidade de cotas de Classes de Fundos, devem ser observados os seguintes
 
 prazos:
 
-I. II. III. Distribuidores cedentes: ao receberem o pedido de transferência da posição de
+I. II. III. Distribuidores de Origem: ao receberem o pedido de Portabilidade da posição de
 
-investimento, deverão disponibilizar as informações necessárias aos Distribuidores
+investimento, deverão disponibilizar as informações necessárias aos Distribuidores de
 
-cessionários em até 2 (dois) dias úteis;
+Destino em até 2 (dois) dias úteis;
 
-Distribuidores cessionários: ao receberem as informações dos Distribuidores cedentes,
+Distribuidores de Destino: ao receberem as informações dos Distribuidores de Origem,
 
-deverão disponibilizar aos Administradores Fiduciários as informações necessárias em até 2
+deverão disponibilizar aos Administradores Fiduciários as informações necessárias em até
 
-(dois) dias úteis para a devida implementação da posição de investimento; e
+2 (dois) dias úteis para a devida implementação da posição de investimento; e
 
-Administradores Fiduciários: ao receberem as informações dos Distribuidores cessionários,
+Administradores Fiduciários: ao receberem as informações dos Distribuidores de Destino,
 
-deverão realizar a transferência de posição em até 3 (três) dias úteis, e para modalidade
+deverão realizar a Portabilidade de posição em até 3 (três) dias úteis para a modalidade
 
-conta e ordem em até 5 (cinco) dias úteis para modalidade direta, observado o §2º do artigo
+direta e em até 5 (cinco) dias úteis para modalidade conta e ordem, observado o §1º deste
 
-53.
-
-55
+artigo.
 
 §1º. Estão dispensadas do cumprimento dos prazos previstos no caput as seguintes situações:
 
-I. II. Nos casos de cobrança da tributação semestral para Fundos de Investimento, período em
+I. Cobrança da tributação semestral para Fundos de Investimento, período em que está
 
-que está prevista a suspensão de operacionalização de transferência entre os 10 (dez) dias
+prevista a suspensão de operacionalização de Portabilidade entre os 8 (oito) dias que
 
-que antecedem e os 10 (dez) dias que sucedem o recolhimento do referido imposto,
+antecedem e os 8 (oito) dias que sucedem o recolhimento do referido imposto, contados
 
-contados em dias corridos; e
+em dias corridos; e
 
-Nos casos em que a transferência não possa ser realizada por impedimentos de qualquer
+II. Portabilidade que não possa ser realizada por impedimentos de qualquer natureza, desde
 
-natureza, desde que tais impedimentos sejam justificativos e acordado entre todas as partes.
+que tais impedimentos sejam justificados e acordados entre todas as partes, observadas
 
-§2º. Em quaisquer das situações elencadas no parágrafo anterior, os Distribuidores cedentes
+71
 
-deverão dar ciência ao investidor do ocorrido, informando qual será o prazo para a transferência.
+as exigências da regulação aplicável.
+
+§2º. Em quaisquer das situações elencadas no parágrafo anterior, os Distribuidores de Origem
+
+deverão dar ciência ao investidor do ocorrido, informando qual será o prazo para a Portabilidade.
 
 §3º. Os Administradores Fiduciários deverão informar os Gestores de Recursos sobre as
 
-transferências realizadas.
+Portabilidades realizadas.
 
-## Art. 57
+## Art. 68
 
-As trocas de informações de que tratam o artigo 56 podem ser realizadas eletronicamente,
+As trocas de informações de que trata o artigo 69 podem ser realizadas eletronicamente,
 
 desde que o método de confirmação seja previamente aprovado pelas partes envolvidas.
 
-Seção III – Conta e Ordem
+Subseção II – Conta e Ordem
 
-## Art. 58
+## Art. 69
 
 Os Distribuidores que atuarem na modalidade de subscrição por conta e ordem devem
 
@@ -3150,167 +3622,201 @@ estabelecer troca de informações entre os Distribuidores e/ou Administradores 
 
 contenham, no mínimo:
 
-I. II. III. IV. Pedido realizado pelo investidor indicando qual a modalidade de transferência, conforme
+I. Pedido realizado pelo investidor indicando qual a modalidade de Portabilidade, conforme
 
-artigo 59, abaixo, destas Regras e Procedimentos;
+artigo 70, abaixo, destas Regras e Procedimentos;
 
-Arquivos de posição e movimentação dos investimentos;
+II. Arquivos de posição e movimentação dos investimentos considerando, na medida em que
 
-Relatório dos Administradores Fiduciários conciliado com a posição dos Distribuidores
+aplicável, os modelos constantes do Anexo Complementar III destas Regras e
 
-cedentes que está realizando a transferência, desde que mediante solicitação dos
+Procedimentos;
 
-Distribuidores cessionários; e
+III. Relatório dos Administradores Fiduciários conciliado com a posição dos Distribuidores de
 
-Solicitação de alteração de Distribuidores e/ou modalidade de investimento para os
+Origem que está realizando a Portabilidade, desde que mediante solicitação dos
 
-56
+Distribuidores de Destino; e
 
-Administradores Fiduciários, conforme modelos disponibilizados no Anexo Complementar III
+72
 
-destas Regras e Procedimentos.
+IV. Solicitação de alteração de Distribuidores e/ou modalidade de investimento para os
 
-## Art. 59
+Administradores Fiduciários, conforme, na medida em que aplicável, modelos
 
-A transferência de cotas das Classes dos Fundos pode ser realizada nas seguintes
+disponibilizados no Anexo Complementar III destas Regras e Procedimentos.
+
+## Art. 70
+
+A Portabilidade de cotas das Classes dos Fundos pode ser realizada nas seguintes
 
 modalidades:
 
-I. II. III. Direta para conta e ordem;
+I. Direta para conta e ordem e vice-versa; e
 
-Conta e ordem para direta; e
+II. Conta e ordem para conta e ordem.
 
-Conta e ordem para conta e ordem.
+Subseção III – Conciliação de posição
 
-Seção IV – Conciliação de posição
+## Art. 71
 
-## Art. 60
+Na hipótese de Portabilidade de cotas de Classe de Fundos, os Distribuidores por conta e
 
-Na transferência de cotas de Classe de Fundos, os Distribuidores por conta e ordem devem
+ordem devem estabelecer com os Administradores Fiduciários fluxo de comunicação para conciliar
 
-estabelecer com os Administradores Fiduciários fluxo de comunicação para conciliar as posições
+as posições mantidas nos Distribuidores e as posições mantidas nos Administradores Fiduciários, de
 
-mantidas nos Distribuidores e as posições mantidas nos Administradores Fiduciários, de modo a
+modo a garantir a consistência entre elas.
 
-garantir a consistência entre elas.
+Parágrafo único. Caso seja identificada inconsistência na posição, os Distribuidores por conta
 
-Parágrafo único. Caso seja identificado inconsistência na posição, os Distribuidores por conta e
+e ordem devem, na medida em que aplicável, informar aos Administradores Fiduciários sobre o
 
-ordem devem, de acordo com os modelos previstos no Anexo Complementar III destas Regras
+evento e solicitar que seja realizada a sua regularização, de acordo com os modelos previstos no
 
-e Procedimentos, informar aos Administradores Fiduciários sobre o evento e solicitar que seja
+Anexo Complementar III destas Regras e Procedimentos.
 
-realizada a sua regularização.
+Subseção IV – Portabilidade de Custódia dos demais Produtos de
 
-Seção V – Transferência de Custódia dos demais Produtos de Investi-
+Investimento
 
-mento
+## Art. 72
 
-## Art. 61
+Previamente à Portabilidade, os Distribuidores de Origem devem acompanhar o processo
 
-Previamente à transferência de Custódia, os Distribuidores cedentes devem acompanhar o
+no que tange aos seguintes aspectos:
 
-processo dos Custodiantes origem no que tange aos seguintes aspectos:
+73
 
-I. Disponibilidade dos Produtos de Investimento para a transferência, devendo ser verificada
+I. Disponibilidade dos Produtos de Investimento para a Portabilidade, devendo ser
 
-a data de vencimento das posições e, no caso de posições em contrato a termo e de
+verificada a data de vencimento das posições e, no caso de posições em contrato a termo
 
-empréstimo de Ativos, se estão em processo de liquidação, ou de renovação, ou de alteração
+e de empréstimo de Ativos, se estão em processo de liquidação, ou de renovação, ou de
 
-da posição, bem como verificado, se não estão sendo utilizados para garantia de operações;
+alteração da posição, bem como verificado, se não estão sendo utilizados para garantia
 
-57
+de operações;
 
-II. III. IV. V. VI. VII. VIII. Conciliação entre as informações dos Produtos de Investimento indicados na solicitação de
+II. Conciliação entre as informações dos Produtos de Investimento indicados na solicitação
 
-transferência com as posições mantidas em Custódia em nome do investidor nas Entidades
+de Portabilidade com as posições mantidas em Custódia em nome do investidor nas
 
-Administradoras dos Mercados Organizados em que o Custodiante esteja autorizado a
+Entidades Administradoras dos Mercados Organizados em que o Custodiante esteja
 
-operar;
+autorizado a operar tais como quantidade, preço de aquisição, preço unitário, taxa e data
 
-Conferência das informações cadastrais do investidor indicadas na solicitação de
+de movimentação, conforme características dos Produtos de Investimento;
 
-transferência, de modo a assegurar que correspondem às informações indicadas no cadastro
+III. Conferência das informações cadastrais do investidor indicadas na solicitação de
 
-e que estão atualizadas, nos termos da regulação em vigor;
+Portabilidade, de modo a assegurar que correspondem às informações indicadas no
 
-Conferência, caso o requerimento de transferência seja realizado por meio físico, da
+cadastro e que estão atualizadas, nos termos da regulação em vigor;
 
-assinatura do investidor, de modo a assegurar que está em conformidade com o documento
+IV. Conferência, caso o requerimento de Portabilidade seja realizado por meio físico, da
 
-de identificação válido apresentado;
+assinatura do investidor, de modo a assegurar que está em conformidade com o
 
-Conferência, caso a solicitação de transferência seja assinada por procurador ou
+documento de identificação válido apresentado;
+
+V. Conferência, caso a solicitação de Portabilidade seja assinada por procurador ou
 
 representante legal, dos poderes para representar o investidor, e se o documento de
 
-constituição do procurador ou representante legal outorga poderes para a transferência em
+constituição de procurador ou representante legal outorga poderes para a transferência
 
-questão;
+em questão;
 
-Conferência, caso a solicitação de transferência envolva investidor pessoa jurídica, se a(s)
+VI. Conferência, caso a solicitação de Portabilidade envolva investidor pessoa jurídica, se a(s)
 
 pessoa(s) que assinou(aram) a solicitação possuí(em) poder(es) para representar a pessoa
 
 jurídica;
 
-Conferência da situação do investidor titular dos Produtos de Investimento objeto de
+VII. Conferência da situação do investidor titular dos Produtos de Investimento objeto de
 
-transferência, de modo a assegurar que este não se encontra impedido, por determinação
+Portabilidade, de modo a assegurar que este não se encontra impedido, por
 
-de autoridades reguladoras, judiciais, ou administrativas competentes ou por qualquer
+determinação de autoridades reguladoras, judiciais, ou administrativas competentes ou
 
-outro motivo pela regulação vigente, de transferir a Custódia dos Produtos de Investimento
+por qualquer outro motivo pela regulação vigente, de transferir a Custódia dos Produtos
 
-de sua conta de depósito; e
+74
 
-Conferência do saldo nas contas do investidor, de modo a verificar se as contas apresentam
+de Investimento de sua conta de depósito; e
 
-saldo devedor que possa, de qualquer forma, comprometer a transferência solicitada pelo
+VIII. Conferência do saldo nas contas do investidor, de modo a verificar se as contas
 
-investidor.
+apresentam saldo devedor que possa, de qualquer forma, comprometer a Portabilidade
 
-## Art. 62
+solicitada pelo investidor.
 
-Os Distribuidores cedentes deverão realizar a transferência solicitada pelo investidor aos
+## Art. 73
 
-Distribuidores cessionários em até 2 (dois) dias úteis.
+Os Distribuidores de Origem deverão realizar a Portabilidade solicitada pelo investidor aos
+
+Distribuidores de Destino em até:
+
+I. 2 (dois) dias úteis para Valores Mobiliários submetidos a regime de depósito centralizado;
+
+II. 2 (dois) dias úteis para posições decorrentes de contratos derivativos negociados em
+
+mercado organizado de bolsa;
+
+III. 5 (cinco) dias úteis para contratos derivativos negociados ou registrados em mercado de
+
+balcão organizado de Valores Mobiliários, com contraparte central garantidora;
+
+IV. 2 (dois) dias úteis para COE, LIG, LF e outros instrumentos emitidos por instituição
+
+financeira, quando ofertados publicamente e distribuídos ou custodiados por terceiro que
+
+não o emissor; e
+
+V. 5 (cinco) dias úteis para demais Valores Mobiliários.
 
 §1º. O prazo a que se refere o caput será contado da data da solicitação do investidor, desde
 
-que os documentos e informações para a realização do pedido de transferência estejam em
+que os documentos e informações para a realização do pedido de Portabilidade estejam em
 
-conformidade com as regras dos Distribuidores e com a regulação em vigor.
-
-58
+conformidade com as políticas dos Distribuidores e com a regulação em vigor.
 
 §2º. Serão dispensadas do cumprimento do prazo disposto no caput os casos em que a
 
-transferência não possa ser realizada por impedimentos de qualquer natureza, sendo que tais
+Portabilidade não possa ser realizada por impedimentos de qualquer natureza, desde que:
 
-impedimentos sejam justificáveis e estejam previstos nos normativos dos Distribuidores.
+I. observada a regulação aplicável;
 
-§3º. Em quaisquer das situações elencadas no parágrafo anterior, os Distribuidores cedentes
+II. tais impedimentos apresentem justificativas; e
 
-deverão dar ciência ao investidor do ocorrido, informando qual será o prazo para a transferência
+III. estejam previamente previstos nas políticas dos Distribuidores.
+
+75
+
+§3º. Em quaisquer das situações elencadas no parágrafo anterior, os Distribuidores de Origem
+
+deverão dar ciência ao investidor do ocorrido, informando qual será o novo prazo para a
+
+Portabilidade.
 
 CAPÍTULO XI – APURAÇÃO DE VALORES DE REFERÊNCIA
 
-## Art. 63
+## Art. 74
 
 Os Distribuidores devem estabelecer normas, critérios e procedimentos para a apuração
 
-dos valores de referência de títulos públicos e privados detidos nas posições dos clientes que não
+dos valores de referência de títulos públicos e privados detidos nas posições dos investidores que
 
-integrem os Fundos, suas Classes e Subclasses, conforme o caso e/ou as Carteiras Administradas.
+não integrem os Fundos, suas Classes e Subclasses, conforme o caso e/ou as Carteiras
+
+Administradas.
 
 §1º. As normas previstas neste capítulo não se confundem com a atividade de Apreçamento
 
 ou precificação, nos termos definidos pela regulação e/ou autorregulação em vigor, e buscam, no
 
-âmbito da atividade de Distribuição de Produtos de Investimento, nortear os clientes sobre os
+âmbito da atividade de Distribuição de Produtos de Investimento, nortear os investidores sobre os
 
 valores de mercado dos títulos públicos e privados que possuem.
 
@@ -3320,23 +3826,25 @@ tesouro direto.
 
 §3º. Os títulos públicos e privados previstos no parágrafo anterior que integrarem os Fundos,
 
-suas Classes e Subclasses, conforme o caso e/ou Carteiras Administradas devem seguir devem seguir
+suas Classes e Subclasses, conforme o caso e/ou Carteiras Administradas devem seguir o disposto
 
-o disposto nas Regras e Procedimentos de AGRT, capítulo específico que trata das normas de
+nas Regras e Procedimentos de AGRT, capítulo específico que trata das normas de Apreçamento
 
-Apreçamento para esses Veículos de Investimento.
+para esses Veículos de Investimento.
 
-Seção I – Critérios para a apuração de valores de referência dos títulos
+Seção I – Critérios para a apuração de valores de referência dos
 
-## Art. 64
+títulos
+
+## Art. 75
 
 Os títulos públicos e privados devem ser apurados, no mínimo, mensalmente.
 
 §1º. O valor mais atualizado dos títulos de que trata o caput não deve ser alterado para refletir
 
-os Custos de Transação.
+76
 
-59
+os Custos de Transação.
 
 §2º. As práticas de apuração de valores de referência ao valor mais atualizado devem
 
@@ -3344,23 +3852,21 @@ considerar, com destaque, a transparência na apuração do valor de referência
 
 §3º. No caso de impossibilidade de apuração do valor de referência, deve ser utilizado o último
 
-valor mais atualizado identificado dos títulos públicos e privados para comunicações aos clientes,
+valor mais atualizado identificado dos títulos públicos e privados para comunicações aos
 
-informando a data em que foi obtido.
+investidores, informando a data em que foi obtido.
 
-## Art. 65
+## Art. 76
 
 Os títulos públicos e privados devem, obrigatoriamente, ter seu valor de referência apurado
 
-à mercado.
+a mercado.
 
 §1º. Os Distribuidores poderão realizar a apuração do valor de referência na curva mediante
 
-solicitação do cliente, desde que este seja considerado investidor qualificado, nos termos definidos
+solicitação do investidor, desde que este seja considerado investidor qualificado, nos termos
 
-pela regulação em vigor, e encaminhe solicitação para realizar a alteração e apurar na curva com a
-
-taxa negociada na compra.
+definidos pela regulação em vigor.
 
 §2º. É vedada a utilização apenas de formas estáticas baseadas em custo de aquisição, accrual
 
@@ -3382,13 +3888,13 @@ observância e acompanhamento dos spreads de crédito.
 
 apuração de valores de referência, devendo os Distribuidores assegurarem a sua diligência na
 
+77
+
 escolha dessa proxy de modo a se obter a maior similaridade com os títulos públicos e privados,
 
 seus valores de referência e seus fatores de risco.
 
 §5º. Devem ser observados pelos Distribuidores, a fim de se identificar a similaridade entre os
-
-60
 
 títulos privados, em especial o risco de crédito, os seguintes parâmetros, no mínimo:
 
@@ -3408,45 +3914,45 @@ dos Distribuidores definir a forma de priorização, utilização, combinação 
 
 outros parâmetros, desde que resulte na maior similaridade possível entre as proxies elegíveis.
 
-§7º. Sem prejuízo do disposto nos §3º e 4º deste artigo, os Distribuidores devem detalhar no
+§7º. Sem prejuízo do disposto nos §§3º e 4º deste artigo, os Distribuidores devem detalhar no
 
 manual de apuração de valores de referência de títulos públicos e privados, os critérios de utilização
 
 dos parâmetros mencionados no parágrafo acima.
 
-§8º. Os Distribuidores devem incluir disclaimer no extrato e/ou em outro ambiente logado que
+§8º. Os Distribuidores devem incluir disclaimer no extrato e/ou em outro ambiente logado
 
-seja divulgado aos clientes os valores de referência dos títulos públicos e privados contendo o
+que seja divulgado aos investidores os valores de referência dos títulos públicos e privados contendo
 
-seguinte texto: “O referido valor indica as condições de mercado para o [título público/privado] consi
+o seguinte texto: “O referido valor indica as condições de mercado para o [título público/privado]
 
-derando características do papel como o risco de crédito e duration, não sendo contemplados
+consi derando características do papel como o risco de crédito e duration, não sendo contemplados
 
 aspectos referentes a garantia de liquidez imediata em data específica, não refletindo, necessaria-
 
 mente, o preço em que o [título público/privado] será negociado”.
 
-## Art. 66
+## Art. 77
 
 Os Distribuidores devem usar, preferencialmente, como fonte de valores de referência para
 
+78
+
 títulos públicos ou privados:
 
-I. II. A taxa indicativa da ANBIMA e projeções dos índices de preços também divulgados por essa
+I. II. A taxa indicativa da Anbima e projeções dos índices de preços também divulgados por
 
-Associação; ou
+essa Associação; ou
 
-O Preço Único (“PU”) do título divulgado pela ANBIMA.
+O Preço Único (“PU”) do título divulgado pela Anbima.
 
-61
-
-§1º. Recomenda-se, nas hipóteses em que a ANBIMA divulgue taxas e valores de referência de
+§1º. Recomenda-se, nas hipóteses em que a Anbima divulgue taxas e valores de referência de
 
 títulos públicos ou privados, que os Distribuidores utilizem as taxas e os valores divulgados pela
 
 Associação.
 
-§2º. Caso os Distribuidores concluam que a adoção das taxas e preços divulgados pela ANBIMA
+§2º. Caso os Distribuidores concluam que a adoção das taxas e preços divulgados pela Anbima
 
 possa resultar em informações distorcidas ou inadequadas, poderá utilizar outras fontes, desde que
 
@@ -3454,15 +3960,15 @@ deixe claro no extrato as fontes de taxas e preços utilizadas.
 
 Seção II – Regras gerais
 
-## Art. 67
+## Art. 78
 
-Os Distribuidores devem disponibilizar aos clientes por meio de extrato e/ou outro
+Os Distribuidores devem disponibilizar aos investidores os valores de referência dos títulos
 
-ambiente logado os valores de referência dos títulos públicos e privados que possuem.
+públicos e privados que possuem, de forma atualizada, por meio de ambiente logado e extrato.
 
 Subseção I – Responsabilidade
 
-## Art. 68
+## Art. 79
 
 Os Distribuidores são responsáveis pela apuração de valores de referência dos títulos
 
@@ -3474,9 +3980,11 @@ Parágrafo único. Caso os Distribuidores contratem terceiros para o exercício 
 
 que trata o caput, deverão assegurar que o terceiro cumpra com o disposto neste capítulo.
 
+79
+
 Subseção II – Estrutura organizacional
 
-## Art. 69
+## Art. 80
 
 Os Distribuidores devem manter em sua estrutura área(s) que seja(m) responsável(is) pela
 
@@ -3486,7 +3994,9 @@ Parágrafo único. A(s) área(s) a que se refere o caput deve(m):
 
 I. II. III. Ter estrutura que seja compatível com a natureza, porte e modelo de negócio dos
 
-Distribuidores, assim como com a complexidade dos títulos públicos e privados distribuídos;
+Distribuidores, assim como com a complexidade dos títulos públicos e privados
+
+distribuídos;
 
 Ser independente(s) da Mesa de Operações e área comercial; e
 
@@ -3494,11 +4004,9 @@ Ter profissionais com qualificação técnica e experiência necessária para o 
 
 atividades tratadas neste capítulo.
 
-62
-
 Subseção III – Manual de apuração de valores de referência
 
-## Art. 70
+## Art. 81
 
 Os Distribuidores devem implementar e manter no manual de apuração de valores de
 
@@ -3506,79 +4014,85 @@ referência as regras, procedimentos e metodologias adotadas na apuração dos t
 
 privados e deve conter, no mínimo:
 
-I. II. III. IV. V. VI. A governança adotada na apuração de valores de referência dos títulos públicos e privados,
+I. A governança adotada na apuração de valores de referência dos títulos públicos e
 
-informando:
+privados, informando:
 
-a. as áreas envolvidas e suas responsabilidades;
+a. b. c. as áreas envolvidas e suas responsabilidades;
 
-b. a forma de interação entre as diferentes estruturas organizacionais envolvidas;
+a forma de interação entre as diferentes estruturas organizacionais envolvidas;
 
-c. o processo adotado para assegurar a hierarquia e a independência das decisões; e
+o processo adotado para assegurar a hierarquia e a independência das decisões;
+
+e
+
+80
 
 d. as formas de mitigação para evitar potenciais conflitos de interesse.
 
-O processo de apuração de valores de referência, detalhando:
+II. O processo de apuração de valores de referência, detalhando:
 
 a. as metodologias utilizadas;
 
 b. como são realizadas a coleta dos valores de referência e o tratamento deles;
 
-c. a forma como é realizada a validação das informações, dados, coleta de preços, valores
+c. a forma como é realizada a validação das informações, dados, coleta de preços,
 
-de referência atribuídos aos títulos públicos e privados e preços tratados; e
+valores de referência atribuídos aos títulos públicos e privados e preços tratados;
+
+e
 
 d. o memorial de cálculo do valor de referência dos títulos públicos e privados.
 
-Descrição da ordem de preferência para uso de fonte/metodologia de apuração de valores
+III. Descrição da ordem de preferência para uso de fonte/metodologia de apuração de
 
-de referência, bem como os motivos para tal ordenação;
+valores de referência, bem como os motivos para tal ordenação;
 
-Descrição, de forma objetiva, da hierarquia de critério(s) utilizada para mensuração do valor
+IV. Descrição, de forma objetiva, da hierarquia de critério(s) utilizada para mensuração do
 
-de referência por Classe de títulos públicos e privados, devendo ser atribuída a mais alta
+valor de referência por Classe de títulos públicos e privados, devendo ser atribuída a mais
 
-prioridade a Preços Cotados (não ajustados) em mercados ativos para títulos idênticos, e a
+alta prioridade a Preços Cotados (não ajustados) em mercados ativos para títulos
 
-mais baixa prioridade a dados não observáveis;
+idênticos, e a mais baixa prioridade a dados não observáveis;
 
-Descrição do método primário definido para cada títulos públicos e privados, e, no mínimo,
+V. Descrição do método primário definido para cada títulos públicos e privados, e, no
 
-um método alternativo de apuração de valores de referência, de modo a permitir que
+mínimo, um método alternativo de apuração de valores de referência, de modo a permitir
 
-situações extremas de mercado possam ser adequadamente tratadas;
+que situações extremas de mercado possam ser adequadamente tratadas;
 
-Descrição, detalhada, do(s) procedimento(s) adotado(s) nos casos ou situações que
+VI. Descrição, detalhada, do(s) procedimento(s) adotado(s) nos casos ou situações que
 
 envolvam atraso(s) em pagamento ou inadimplência por parte do emissor ou dos títulos
 
-63
+públicos e privados;
 
-VII. públicos e privados;
+VII. Descrição, caso seja utilizado como fonte para a apuração de valores de referência de
 
-Descrição, caso seja utilizado como fonte para a apuração de valores de referência de títulos
-
-privados os negócios representativos no mercado secundário de, no mínimo:
+títulos privados os negócios representativos no mercado secundário de, no mínimo:
 
 a. os critérios detalhados para a definição de mercado secundário, observada sua
 
 representatividade e governança;
 
-b. o momento em que essa premissa será utilizada como fonte primária para a apuração
+b. o momento em que essa premissa será utilizada como fonte primária para a
 
-de valores de referência;
+apuração de valores de referência;
 
 c. a alçada de acionamento e formalização documental; e
 
+81
+
 d. outros itens que julgue pertinente para a adequada justificativa de seu uso.
 
-§2º. É vedado o uso de metodologias não descritas no manual de apuração de valores de
+§1º. É vedado o uso de metodologias não descritas no manual de apuração de valores de
 
 referência, incluindo os métodos alternativos que não tenham, além de previsão formal,
 
 fundamentação objetiva que justifique seu uso.
 
-§3º. Caso ocorra uma excepcionalidade e os Distribuidores tenham que adotar método
+§2º. Caso ocorra uma excepcionalidade e os Distribuidores tenham que adotar método
 
 alternativo não previsto no manual de apuração de valores de referência, deverão previamente à
 
@@ -3586,29 +4100,27 @@ utilização do método, manter registros e justificativas que fundamentem esta 
 
 incluindo, mas não se limitando, a memória dos cálculos que foram utilizados.
 
-§4º. As metodologias informadas no manual de apuração de valores de referência devem
+§3º. As metodologias informadas no manual de apuração de valores de referência devem
 
-abranger todas as Classes de títulos públicos e privados mencionados no artigo 54 deste capítulo.
+abranger todas as Classes de títulos públicos e privados mencionados no artigo 74 deste capítulo.
 
-§5º. Caso os Distribuidores identifiquem que a adoção de uma disposição prevista no manual de
+§4º. Caso os Distribuidores identifiquem que a adoção de uma disposição prevista no manual
 
-apuração de valores de referência possa resultar em informações distorcidas, poderá deixar de
+de apuração de valores de referência possa resultar em informações distorcidas, poderá deixar de
 
 aplicar tal disposição, desde que justifique essa ação para sua área de controles internos e/ou
 
-compliance e mantenha essa análise e justificativa à disposição da ANBIMA.
+compliance e mantenha essa análise e justificativa à disposição da Anbima.
 
-§6º. Caso os Distribuidores ou terceiros contratados para executar este serviço sejam Aderentes
+§5º. Caso os Distribuidores ou terceiros contratados para executar este serviço sejam
 
-ao Código de AGRT, será permitida a utilização do Manual de Apreçamento para atender ao disposto
+Aderentes ao Código de AGRT, será permitida a utilização do Manual de Apreçamento para atender
 
-nessa subseção, documento exigido pelas Regras e Procedimentos de AGRT, capítulo específico de
+ao disposto nessa subseção, documento exigido pelas Regras e Procedimentos de AGRT, capítulo
 
-normas de Apreçamento.
+específico de normas de Apreçamento.
 
-64
-
-## Art. 71
+## Art. 82
 
 A revisão das metodologias definidas no manual de apuração de valores de referência deve
 
@@ -3618,85 +4130,89 @@ de liquidez e volatilidade dos mercados em função de mudanças de conjuntura e
 
 como a crescente sofisticação e diversificação dos títulos públicos e privados.
 
+82
+
 Parágrafo único. Os Distribuidores devem, sempre que observar mudanças relevantes no
 
 mercado, nos termos do caput, rever suas metodologias.
 
-## Art. 72
+## Art. 83
 
 O manual de apuração de valores de referência deve, ainda:
 
-I. II. III. IV. Conter em sua capa a data de início de vigência da versão do documento;
+I. Conter em sua capa a data de início de vigência da versão do documento;
 
-Ser disponibilizados no SSM em prazo a ser divulgado pela ANBIMA, e caso haja alterações,
+II. Ser disponibilizado no SSM em prazo a ser divulgado pela Anbima, e caso haja alterações,
 
-devem ser atualizados em até 15 (quinze) dias corridos da alteração;
+deve ser atualizado em até 15 (quinze) dias corridos da alteração;
 
-Para os casos de adaptação voluntária, os Distribuidores devem registrar junto à ANBIMA as
+III. Para os casos de adaptação voluntária, os Distribuidores devem registrar junto à Anbima
 
-novas versões do manual de apuração de valores de referência em até 15 (quinze) dias
+as novas versões do manual de apuração de valores de referência em até 15 (quinze) dias
 
 corridos contados a partir da data do início da vigência da nova versão do documento; e
 
-Para os casos de alterações solicitadas pela ANBIMA, os Distribuidores devem implementar
+IV. Para os casos de alterações solicitadas pela Anbima, os Distribuidores devem
 
-tais alterações e registrar a nova versão do manual de apuração de valores de referência
+implementar tais alterações e registrar a nova versão do manual de apuração de valores
 
-junto à ANBIMA em até 15 (quinze) dias corridos contados a partir da data que as alterações
+de referência junto à Anbima em até 15 (quinze) dias corridos contados a partir da data
 
-foram realizadas.
+que as alterações foram realizadas.
 
-§1º. O registro dos manuais de apuração de valores de referência na ANBIMA deve ser realizado
+§1º. O registro dos manuais de apuração de valores de referência na Anbima deve ser
 
-por meio do SSM e ser acompanhado de 2 (duas) versões eletrônicas completas do manual de
+realizado por meio do SSM e ser acompanhado de 2 (duas) versões eletrônicas completas do manual
 
-apuração de valores de referência, 1 (uma) de forma simples e outra que destaque claramente todas
+de apuração de valores de referência, 1 (uma) de forma simples e outra que destaque claramente
 
-as alterações efetuadas em relação à última versão do documento registrado na ANBIMA.
+todas as alterações efetuadas em relação à última versão do documento registrado na Anbima.
 
-§2º. A ANBIMA poderá, a seu critério, definir outras formas para o registro do manual de que
+§2º. A Anbima poderá, a seu critério, definir outras formas para o registro do manual de que
 
 trata o caput.
 
-65
-
 CAPÍTULO XII – PUBLICIDADE
+
+83
 
 Seção I – Regras gerais
 
-## Art. 73
+## Art. 84
 
 Os Distribuidores, ao elaborar e divulgar o Material Publicitário e o Material Técnico, devem:
 
 I. Envidar os melhores esforços no sentido de produzir materiais adequados aos seus
 
-clientes, minimizando incompreensões quanto ao conteúdo e privilegiando informações
+investidores, minimizando incompreensões quanto ao conteúdo e privilegiando
 
-necessárias para a tomada de decisão de investimento;
+informações necessárias para a tomada de decisão de investimento;
 
 II. Buscar a transparência, clareza e precisão das informações, usando linguagem simples,
 
-clara, objetiva e adequada aos clientes e potenciais clientes, de modo a não induzi-los a
+clara, objetiva e adequada aos investidores e potenciais investidores, de modo a não
 
-erro ou a decisões equivocadas de investimentos;
+induzi-los a erro ou a decisões equivocadas de investimentos;
 
-III. Conter informações verdadeiras, completas, consistentes e alinhadas com os
+III. Conter informações verdadeiras, completas, consistentes e alinhadas com os documentos
 
-documentos dos Produtos de Investimento distribuídos;
+dos Produtos de Investimento distribuídos;
 
 IV. Zelar para que não haja qualificações injustificadas, superlativos não comprovados,
 
 opiniões ou previsões para as quais não exista base técnica, promessas de rentabilidade,
 
-garantia de resultados futuros ou isenção de risco para clientes e potenciais clientes;
+garantia de resultados futuros ou isenção de risco para investidores e potenciais
+
+investidores;
 
 V. Disponibilizar informações que sejam pertinentes ao processo de decisão de
 
-investimento, sendo tratados de forma técnica assuntos relativos à performance
+investimento, sendo tratados de forma técnica assuntos relativos à performance passada,
 
-passada, de modo a privilegiar as informações de longo prazo em detrimento daquelas
+de modo a privilegiar as informações de longo prazo em detrimento daquelas de curto
 
-de curto prazo;
+prazo;
 
 VI. Preservar a consistência de conteúdo e forma e, na medida do possível, incluir a
 
@@ -3714,15 +4230,15 @@ simulações, detalhar todos os critérios utilizados, incluindo valores e taxas
 
 VIII. Garantir que haja concorrência leal, de modo que as informações disponibilizadas ou
 
+84
+
 omitidas não promovam determinados Produtos de Investimento ou Instituições
 
-66
+Participantes em detrimento de seus concorrentes, sendo permitida comparação
 
-IX. Participantes em detrimento de seus concorrentes, sendo permitida comparação
+somente nos termos do artigo 94, da seção V, subseção II, deste Capítulo; e
 
-somente nos termos do artigo 82, da seção V, subseção II, deste Capítulo; e
-
-Abster-se de apresentar a cobertura por Fundos Garantidores como elemento de
+IX. Abster-se de apresentar a cobertura por Fundos Garantidores como elemento de
 
 destaque perante as demais informações para pautar a decisão de investimento.
 
@@ -3732,53 +4248,53 @@ divulgarem, inclusive no que se refere à conformidade com as regras previstas n
 
 Distribuição, nestas Regras e Procedimentos e na regulação, sem prejuízo da responsabilidade que
 
-cabe ao gestor, no caso de Distribuição de cotas de Fundos De Investimento.
+cabe ao gestor, no caso de Distribuição de cotas de Fundos de Investimento.
 
-§2º. Os Distribuidores, quando da divulgação de Material Publicitário e Material Técnico, devem
+§2º. Os Distribuidores, quando da divulgação de Material Publicitário e Material Técnico,
 
-observar, adicionalmente às regras previstas neste Código de Distribuição, nestas Regras e
+devem observar, adicionalmente às regras previstas no Código de Distribuição, nestas Regras e
 
 Procedimentos e na regulação, as regras aplicáveis a cada Produto de Investimento, caso aplicável,
 
-conforme cada Código ANBIMA.
+conforme cada Código Anbima.
 
 §3º. Sem prejuízo das demais disposições contidas neste documento, não estão sujeitos às
 
-regras previstas nos artigos 76, 77 e 78 destas Regras e Procedimentos os materiais dos Produtos
+regras previstas nos artigos 87, 88 e 89 destas Regras e Procedimentos os materiais dos Produtos
 
 de Investimento objeto de Oferta Pública, devendo ser utilizados, para esses casos, os materiais
 
 submetidos à CVM conforme regulação específica para Ofertas Públicas.
 
-## Art. 74
+## Art. 85
 
 Para fins destas Regras e Procedimentos, não são considerados Material Publicitário ou
 
 Material Técnico:
 
-I. II. III. IV. V. Formulários cadastrais, questionários de perfil do cliente ou perfil de investimento,
+I. II. Formulários cadastrais, questionários de perfil do investidor ou perfil de investimento,
 
 materiais destinados unicamente à comunicação de alterações de endereço, telefone ou
 
-outras informações de simples referência para o cliente;
+outras informações de simples referência para o investidor;
 
 Materiais que se restrinjam a informações obrigatórias exigidas pela regulação;
 
-Questionários de due diligence e propostas comerciais;
+85
 
-Materiais de cunho estritamente jornalístico, inclusive entrevistas, divulgadas em quais-
+III. Questionários de due diligence e propostas comerciais;
 
-quer meios de comunicação;
+IV. Materiais de cunho estritamente jornalístico, inclusive entrevistas, divulgadas em
 
-Saldos, extratos e demais materiais destinados à simples apresentação de posição
+quaisquer meios de comunicação;
+
+V. Saldos, extratos e demais materiais destinados à simples apresentação de posição
 
 financeira, movimentação e rentabilidade, desde que restritos a essas informações ou
 
-67
+assemelhadas; e
 
-VI. assemelhadas; e
-
-Propaganda de empresas do Conglomerado ou Grupo Econômico das Instituições
+VI. Propaganda de empresas do Conglomerado ou Grupo Econômico das Instituições
 
 Participantes que apenas faça menção a investimentos de forma geral, a departamentos
 
@@ -3788,37 +4304,41 @@ departamentos ou empresas que desenvolvam outros negócios do Conglomerado ou
 
 Grupo Econômico.
 
-## Art. 75
+## Art. 86
 
 As regras estabelecidas neste capítulo destinam-se, exclusivamente, às relações entre os
 
-Distribuidores e seus clientes ou potenciais clientes, não sendo aplicáveis às relações restritas entre
+Distribuidores e seus investidores ou potenciais investidores, não sendo aplicáveis às relações
 
-os Distribuidores e seus profissionais no exercício de suas funções, ou entre os próprios
+restritas entre os Distribuidores e seus profissionais no exercício de suas funções, ou entre os
 
-Distribuidores.
+próprios Distribuidores.
 
 Seção II – Material Publicitário
 
-## Art. 76
+## Art. 87
 
 Os Distribuidores, ao divulgarem o Material Publicitário em qualquer meio de comunicação
 
-disponível devem incluir, em destaque, link ou caminho direcionando clientes ou potenciais clientes
+disponível devem incluir, em destaque, link ou caminho, como QR Code, que direcione os
 
-ao Material Técnico sobre o(s) produto(s) de investimento mencionado(s), de modo que possam ter
+investidores ou potenciais investidores ao Material Técnico sobre o(s) produto(s) de investimento
 
-conhecimento de todas as informações, características e riscos do investimento.
+mencionado(s), de modo que possam ter conhecimento de todas as informações, características e
 
-§1º. Os Distribuidores e empresas de seu Conglomerado ou Grupo Econômico que fizerem
+riscos do investimento.
 
-menção de seus Produtos de Investimento nos Materiais Publicitários de forma geral e não
+Parágrafo único. Os Distribuidores e empresas de seu Conglomerado ou Grupo Econômico
 
-específica devem incluir link ou caminho que direcione os clientes ou potenciais clientes para o site
+que fizerem menção de seus Produtos de Investimento nos Materiais Publicitários de forma geral e
 
-dos Distribuidores na internet ou em canais alternativos.
+não específica devem incluir link, QR Code, ou caminho que direcione os investidores ou potenciais
 
-## Art. 77
+investidores para o site dos Distribuidores na internet ou em canais alternativos.
+
+86
+
+## Art. 88
 
 Na divulgação de Produtos de Investimento, os Distribuidores devem, ao divulgar as taxas
 
@@ -3834,15 +4354,13 @@ das informações devem permitir sua clara leitura e compreensão.
 
 §2º. Para Fundos, suas Classes e Subclasses, conforme o caso, deve-se observar o disposto nas
 
-68
-
 regras de publicidade previstas nos Anexos Complementares aplicáveis aos Fundos de Investimento,
 
 nos termos do Código de AGRT e Código de Ofertas Públicas, quando aplicável.
 
 Seção III – Material Técnico
 
-## Art. 78
+## Art. 89
 
 O Material Técnico deve incluir, no mínimo, as seguintes informações sobre o Produto de
 
@@ -3850,29 +4368,33 @@ Investimento:
 
 I. Descrição do objetivo e/ou da estratégia;
 
-II. Público-alvo, quando destinado a clientes específicos;
+II. Identificação do público-alvo, incluindo a qualificação do investidor, quando houver
+
+restrição de público (profissional ou qualificado);
 
 III. Carência para resgate e prazo de operação;
 
 IV. Tributação aplicável;
 
-V. VI. VII. VIII. IX. X. Informações sobre os canais de atendimento;
+V. Informações sobre os canais de atendimento;
 
-Nome do emissor, quando aplicável;
+VI. Nome do emissor, quando aplicável;
 
-Classificação do Produto de Investimento;
+VII. Classificação do Produto de Investimento, conforme Seção III, Capítulo V;
 
-Descrição resumida dos principais fatores de risco, incluindo, no mínimo, os riscos de
+87
+
+VIII. Descrição resumida dos principais fatores de risco, incluindo, no mínimo, os riscos de
 
 liquidez, de mercado e de crédito, quando aplicável;
 
-Informações mínimas sobre as regras dos Fundos Garantidores, incluindo limites de
+IX. Informações mínimas sobre as regras dos Fundos Garantidores, incluindo limites de
 
 pagamento por CPF e instituição financeira e prazo de apuração para o limite, conforme
 
 aplicável; e
 
-Endereço eletrônico para acesso ao portal eletrônico do Fundo Garantidor com mais
+X. Endereço eletrônico para acesso ao portal eletrônico do Fundo Garantidor com mais
 
 informações, caso aplicável.
 
@@ -3884,41 +4406,39 @@ informações atualizadas previstas no caput para cada Produto de Investimento d
 
 locais.
 
-69
-
 Seção IV – Qualificações
 
-## Art. 79
+## Art. 90
 
 São consideradas qualificações, para fins destas Regras e Procedimentos, quaisquer
 
-premiações, rankings, títulos, análises, relatórios ou assemelhados que qualifiquem os Produtos
+premiações, rankings, títulos, análises, relatórios ou assemelhados que qualifiquem os Produtos de
 
-de Investimento distribuídos e/ou os Distribuidores no exercício da Distribuição de Produtos de
+Investimento distribuídos e/ou os Distribuidores no exercício da Distribuição de Produtos de
 
 Investimento.
 
-## Art. 80
+## Art. 91
 
 Quando da divulgação de qualificações, os Distribuidores devem considerar,
 
 cumulativamente:
 
-I. II. III. IV. A última qualificação obtida, contendo a referência de data e a fonte pública
+I. A última qualificação obtida, contendo a referência de data e a fonte pública responsável;
 
-responsável;
-
-As qualificações fornecidas por fontes públicas independentes dos Distribuidores
+II. As qualificações fornecidas por fontes públicas independentes dos Distribuidores
 
 qualificados;
 
-Os dados dos Produtos de Investimento que sejam oriundos integralmente da base de
+III. Os dados dos Produtos de Investimento que sejam oriundos integralmente do Banco de
 
-dados da ANBIMA, quando aplicável; e
+Dados da Anbima, quando aplicável; e
 
-Qualificações de períodos mínimos de 12 (doze) meses.
+88
 
-## Art. 81
+IV. Qualificações de períodos mínimos de 12 (doze) meses.
+
+## Art. 92
 
 Na divulgação de qualificação em Material Publicitário e Material Técnico, é vedado:
 
@@ -3936,23 +4456,21 @@ Seção V – Simulação e comparação
 
 Subseção I – Simulação
 
-## Art. 82
+## Art. 93
 
 Os Distribuidores podem fazer simulação, desde que a simulação:
 
-70
+I. Seja realizada no Material Técnico;
 
-I. II. III. Seja realizada no Material Técnico;
+II. Sejam Produtos de Investimento já existentes; e
 
-Sejam Produtos de Investimento já existentes; e
+III. Os critérios utilizados, tais como taxas, tributação, custos e períodos, estejam
 
-Os critérios utilizados, tais como taxas, tributação, custos e períodos, estejam claramente
-
-informados.
+claramente informados.
 
 §1º. A divulgação de simulação nos casos descritos no caput deve conter aviso junto ao quadro
 
-da simulação, conforme consta do artigo 88, inciso III, destas Regras e Procedimentos, destacando
+da simulação, conforme consta do artigo 99, inciso III, destas Regras e Procedimentos, destacando
 
 que se trata de uma simulação baseada em premissas.
 
@@ -3962,17 +4480,19 @@ dos Produtos de Investimento que combine dados históricos reais com simulaçõe
 
 quando aplicável.
 
+89
+
 Subseção II – Comparação
 
-## Art. 83
+## Art. 94
 
 Os Distribuidores podem comparar os Produtos de Investimento com indicadores
 
 econômicos e com outros Produtos de Investimento, desde que a comparação:
 
-I. II. Seja realizada no Material Técnico; e
+I. Seja realizada no Material Técnico; e
 
-Seja realizada entre Produtos de Investimento e indicadores econômicos de mesma
+II. Seja realizada entre Produtos de Investimento e indicadores econômicos de mesma
 
 natureza ou similares.
 
@@ -3982,59 +4502,59 @@ caso, ou entre Fundos, Classes ou Subclasses e outros Produtos de Investimento, 
 
 observar o disposto nestas Regras e Procedimentos, e caso haja divergência entre as regras previstas
 
-neste normativo e as regras de publicidade do Código de AGRT, deve prevalecer as regras deste
+neste normativo e as regras de publicidade do Código de AGRT, devem prevalecer as regras deste
 
 normativo.
 
-## Art. 84
+## Art. 95
 
 Sem prejuízo dos princípios previstos no Código de Distribuição, os Distribuidores, ao
 
 elaborar e divulgar a comparação entre os Produtos de Investimento devem:
 
-71
+I. Fazer a comparação dos Produtos de Investimento buscando:
 
-I. II. Fazer a comparação dos Produtos de Investimento buscando:
-
-a. a objetividade na comparação, evitando que se estabeleça confusão entre os
+a. b. c. d. a objetividade na comparação, evitando que se estabeleça confusão entre os
 
 Produtos de Investimento comparados e instituições concorrentes;
 
-b. não prejudicar a imagem do Produto de Investimento comparado e/ou a imagem das
+não prejudicar a imagem do Produto de Investimento comparado e/ou a
 
-respectivas instituições;
+imagem das respectivas instituições;
 
-c. não utilizar injustificadamente a imagem de outras instituições ou o prestígio de
+não utilizar injustificadamente a imagem de outras instituições ou o prestígio de
 
 terceiros; e
 
-d. não divulgar comparações irrealistas, incoerentes ou desproporcionais entre os
+não divulgar comparações irrealistas, incoerentes ou desproporcionais entre os
 
 Produtos de Investimento de diferentes categorias e classificações.
 
-Utilizar a palavra "grátis" ou expressão de idêntico significado nas comparações entre os
+90
+
+II. Utilizar a palavra "grátis" ou expressão de idêntico significado nas comparações entre os
 
 Produtos de Investimento somente se não houver nenhum custo com relação ao
 
 prometido.
 
-## Art. 85
+## Art. 96
 
 Os Distribuidores, ao comparar os Produtos de Investimento, devem observar a qual público
 
 a publicidade será destinada, observado o disposto a seguir:
 
-I. II. Se destinada ao público em geral: a comparação de Produtos de Investimento pode ser feita
+I. II. Se destinada ao público em geral: a comparação de Produtos de Investimento pode ser
 
-com outros Produtos de Investimento, desde que sejam Produtos de Investimento de
+feita com outros Produtos de Investimento, desde que sejam Produtos de
 
-mesma natureza; e
+Investimento de mesma natureza; e
 
-Se destinada a um público específico: a comparação de Produtos de Investimento pode ser
+Se destinada a um público específico: a comparação de Produtos de Investimento pode
 
-feita com outros Produtos de Investimento, desde que sejam Produtos de Investimento de
+ser feita com outros Produtos de Investimento, desde que sejam Produtos de
 
-mesma natureza ou Produtos de Investimento similares.
+Investimento de mesma natureza ou Produtos de Investimento similares.
 
 Parágrafo único. Os FIF, suas Classes e Subclasses, conforme o caso, são considerados
 
@@ -4042,17 +4562,15 @@ Produtos de Investimento de mesma natureza, e quando a publicidade for direciona
 
 em geral, os Distribuidores poderão comparar os Fundos entre si, desde que tenham a mesma
 
-classificação até o nível 2, conforme previsto nas Regras e Procedimentos de AGRT normas
+classificação até o nível 2, conforme as normas pertinentes à classificação de FIF definidas nas
 
-pertinentes à classificação de FIF.
+Regras e Procedimentos de AGRT.
 
-## Art. 86
+## Art. 97
 
 A comparação entre os Produtos de Investimento deve ser feita no Material Técnico, em
 
 formato de fácil entendimento, e deve conter as seguintes informações:
-
-72
 
 I. Data da comparação;
 
@@ -4062,17 +4580,19 @@ III. Fontes das informações utilizadas;
 
 IV. Valores mínimos para aplicação e movimentação, quando aplicável; e
 
+91
+
 V. Demais informações que representem uma diferença significativa entre os Produtos de
 
 Investimento comparados, incluindo, se aplicável, estrutura do Produto de Investimento,
 
 objetivos de investimento, custos, liquidez, riscos, garantias, volatilidade e tributação.
 
-§1º. Os períodos de comparação entre os Produtos de Investimento de que trata o inciso II
+§1º. Os períodos de comparação entre os Produtos de Investimento de que trata o inciso II do
 
-do caput deverão ser idênticos e observar o prazo mínimo de 12 (doze) meses ou seus múltiplos,
+caput deverão ser idênticos e observar o prazo mínimo de 12 (doze) meses ou seus múltiplos, exceto
 
-exceto para aqueles com prazo de vencimento inferior.
+para aqueles com prazo de vencimento inferior.
 
 §2º. Para os Fundos, suas Classes e Subclasses, conforme o caso, a comparação só pode ser
 
@@ -4082,7 +4602,7 @@ feita após um período de carência de 6 (seis) meses, contados a partir da pri
 
 deverão ser expressas em percentual ao ano.
 
-## Art. 87
+## Art. 98
 
 A comparação entre os Produtos de Investimento com indicadores econômicos que não
 
@@ -4106,29 +4626,31 @@ materiais técnicos dos Produtos de Investimento, desde que acompanhados de avis
 
 esclareça se tratar de mera referência econômica e não meta ou parâmetro de performance.
 
-73
+92
 
 Seção VI – Avisos obrigatórios
 
-## Art. 88
+## Art. 99
 
 Os Distribuidores devem incluir, com destaque, nos materiais técnicos os seguintes avisos
 
 obrigatórios:
 
-I. II. III. Caso faça referência a histórico de rentabilidade ou menção a performance:
+I. Caso faça referência a histórico de rentabilidade ou menção a performance:
 
-a. “Rentabilidade obtida no passado não representa garantia de resultados futuros.”; e/ou
+a. “Rentabilidade obtida no passado não representa garantia de resultados
+
+futuros.”; e/ou
 
 b. “A rentabilidade divulgada não é líquida de impostos.”
 
-Caso faça referência a Produtos de Investimento que não possuam garantia do Fundo
+II. Caso faça referência a Produtos de Investimento que não possuam garantia do Fundo
 
-garantidor de crédito: “O investimento em [indicar Produto de Investimento] não é ga-
+garantidor de crédito: “O investimento em [indicar Produto de Investimento] não é
 
-rantido pelo Fundo Garantidor de Crédito.”
+garantido pelo Fundo Garantidor de Crédito.”
 
-Caso faça referência à simulação de rentabilidade: “As informações presentes neste
+III. Caso faça referência à simulação de rentabilidade: “As informações presentes neste
 
 Material Técnico são baseadas em simulações e os resultados reais poderão ser
 
@@ -4138,201 +4660,323 @@ Parágrafo único. No uso de mídia impressa e por meios digitais escritos, o ta
 
 e a localização dos avisos e das informações devem permitir a clara leitura e compreensão.
 
-CAPÍTULO XIII – ENVIO DE INFORMAÇÕES PARA A BASE DE DADOS DA
+CAPÍTULO XIII – ENVIO DE INFORMAÇÕES PARA O BANCO DE DADOS DA
 
 ANBIMA
 
-## Art. 89
+## Art. 100
 
-A base de dados da ANBIMA consiste no conjunto de informações relativas aos
+O Banco de Dados da Anbima consiste no conjunto de informações relativas aos
 
 Distribuidores e aos Produtos de Investimento distribuídos que são armazenadas e supervisionadas
 
 de forma estruturada pela Associação.
 
+93
+
 Parágrafo único. Os Administradores Fiduciários e os Gestores de Recursos de Terceiros e
 
 Securitizadoras que, no exercício de suas atividades, estiverem distribuindo seus próprios Produtos
 
-de Investimento, nos termos permitidos pela regulação da CVM, estão dispensadas das normas
+de Investimento, nos termos permitidos pela regulação da CVM, estão dispensados das normas
 
 previstas neste Capítulo.
 
-74
-
-## Art. 90
+## Art. 101
 
 Os Distribuidores devem adotar, implementar e manter, em documento escrito, Regras
 
 e Procedimentos que descrevam, no mínimo:
 
-I. II. III. A área e/ou profissional responsável pelo envio de informações para a base de dados;
+I. A área e/ou profissional responsável pelo envio de informações para o Banco de Dados;
 
-A definição dos segmentos adotados, conforme critérios definidos pelos próprios
+II. A definição dos segmentos adotados, conforme critérios definidos pelos próprios
 
 Distribuidores, observado o Anexo Complementar I, que trata da atividade de private; e
 
-As metodologias utilizadas para apuração das informações que serão enviadas para a base
+III. As metodologias utilizadas para apuração das informações que serão enviadas para o
 
-de dados.
+Banco de Dados.
 
-Parágrafo único. O documento de que trata o caput deve ser registrado na ANBIMA a partir do
+Parágrafo único. O documento de que trata o caput deve ser registrado na Anbima a partir do
 
-envio de informações para a base de dados e, caso haja alterações, deve ser novamente registrado
+envio de informações para o Banco de Dados e, caso haja alterações, deve ser novamente registrado
 
-no prazo de até 15 (quinze) dias corridos contados da alteração.
+no prazo de até 30 (trinta) dias corridos contados da alteração.
 
-## Art. 91
+## Art. 102
 
-Os Distribuidores são responsáveis pelo envio de informações para a base de dados,
+Os Distribuidores são responsáveis pelo envio de informações para o Banco de Dados,
 
-devendo ser enviadas por meio do Formulário disponibilizado pela ANBIMA.
+devendo ser enviadas por meio do Formulário disponibilizado pela Anbima.
 
-§1º. Sem prejuízo de suas responsabilidades, os Distribuidores podem contratar terceiros
+§1º. Sem prejuízo de suas responsabilidades, os Distribuidores podem contratar terceiros para
 
-para exercer a atividade de que trata o caput.
+exercer a atividade de que trata o caput.
 
-§2º. O envio de informações para a base de dados deve considerar todos os Distribuidores
+§2º. O envio de informações para o Banco de Dados deve considerar todos os Distribuidores
 
-de seu Conglomerado ou Grupo Econômico que distribuam Produtos de Investimento, podendo a
+94
 
-instituição enviar as informações individualmente ou consolidar por Conglomerado ou Grupo
+de seu Conglomerado ou Grupo Econômico que distribuam Produtos de Investimento, devendo a
 
-Econômico.
+instituição enviar as informações individualmente, relativas a cada CNPJ.
 
 Seção I – Envio de informações para o private
 
-## Art. 92
+## Art. 103
 
-Os Distribuidores que desempenharem a atividade de private, nos termos do Anexo
+Os Distribuidores que desempenharem a atividade de private, para investidores pessoa
 
-Complementar I destas Regras e Procedimentos, devem enviar as informações previstas a seguir
+física ou pessoa jurídica, nos termos do Anexo Complementar I destas Regras e Procedimentos,
 
-divididas em:
+devem enviar as informações relativas à quantidade de clientes e os valores aplicados por Produtos
 
-I. Posição total de Ativos, dividida em:
+de Investimento, previstas a seguir divididas em:
 
-75
+I. Posição total de Ativos, para pessoa física, dividida em:
 
-a. Fundos e suas Classes, conforme o caso;
+a. Fundos e suas Classes, conforme o caso, ordenados em:
+
+i. Código da classe ou subclasse;
+
+ii. Número de cotistas no private para Fundos de Investimento; e
+
+iii. Patrimônio Líquido no private.
 
 b. Títulos e Valores Mobiliários;
 
-c. Poupança e valores disponíveis na conta corrente do cliente;
+c. Poupança e valores disponíveis na conta corrente do investidor;
+
+d. Fundos de previdência privada aberta;
+
+e. Carteiras administradas;
+
+f. Investimento no exterior, incluindo, nessa hipótese:
+
+i. Identificação das contas para as quais se aplicam os serviços de
+
+captação de investidores contratados por intermediários
+
+estrangeiros de Distribuidores brasileiros (mediante referral);
+
+ii. Posição dos investidores brasileiros (CPFs ativos) com domicílio
+
+doméstico que possuam investimentos diretos no exterior; e
+
+95
+
+g. iii. Informações que contenham o saldo total do volume investido no
+
+exterior, em dólares americanos (USD), sendo a conversão para real
+
+realizada pela Anbima.
+
+Para CRI, CRA e Debêntures:
+
+i. Código Balcão do Ativo;
+
+ii. Número de investidores; e
+
+iii. Volume financeiro.
+
+h. Outros investimentos.
+
+II. Posição total de Ativos, para pessoa jurídica, dividida em:
+
+a. Fundos e suas Classes, conforme o caso:
+
+i. Código da classe ou subclasse;
+
+ii. Número de cotistas no private para Fundos de Investimento; e
+
+iii. Patrimônio Líquido no private.
+
+b. Títulos e Valores Mobiliários;
+
+c. Poupança e valores disponíveis na conta corrente do investidor;
 
 d. Fundos de previdência privada aberta; e
 
 e. Outros investimentos.
 
-II. Posição de crédito, que são os empréstimos liberados pelos Distribuidores aos clientes
+III. Posição de crédito, que são os empréstimos liberados pelos Distribuidores aos
 
-III. IV. V. VI. private;
+investidores private;
 
-Número de profissionais dos Distribuidores destinados ao atendimento dos clientes private;
+IV. Número de profissionais dos Distribuidores destinados ao atendimento dos investidores
 
-Número de Conglomerado ou Grupo Econômico agrupado de acordo com a respectiva
+private;
 
-unidade federativa e observado as faixas apresentadas no Formulário;
+V. Número de Conglomerado ou Grupo Econômico agrupado de acordo com a respectiva
 
-Número de CPF/CNPJ (número de contrapartes) por domicílio do cliente, agrupado de
+unidade federativa e observadas as faixas apresentadas no Formulário;
 
-acordo com a respectiva unidade federativa e observado as faixas apresentadas no
+96
 
-Formulário; e
+VI. Número de CPF/CNPJ (número de contrapartes) por domicílio do investidor, agrupado de
 
-Posição de Ativos por domicílio do cliente, agrupado de acordo com a respectiva unidade
+acordo com a respectiva unidade federativa e observando as faixas apresentadas no
 
-federativa e observado as faixas apresentadas no Formulário.
+Formulário;
 
-§1º. Sem prejuízo da definição de Conglomerado ou Grupo Econômico prevista no Glossário
+VII. Posição de Ativos por domicílio do investidor, agrupado de acordo com a respectiva
 
-ANBIMA, disponível no site da ANBIMA na internet, os Distribuidores podem, para fins do inciso
+unidade federativa e observadas as faixas apresentadas no Formulário;
 
-IV do caput, estabelecer critérios próprios para definição de Conglomerado ou Grupo Econômico.
+VIII. Total de CPFs exclusivos; e
 
-§2º. O domicílio do cliente, de que trata o inciso V acima, deve ser informado de acordo com
+IX. Dados de entrada e saída de recursos por produto.
 
-o endereço cadastrado nos Distribuidores, nos termos da regulação em vigor.
+§1º. No que tange as informações de que se trata o inciso I, alínea “e” e “f” e inciso VIII, haverá
 
-§3º. Quaisquer correções realizadas pelos Distribuidores no envio de informações que
+uma linha totalizadora específica no relatório classificada como “serviço”, que destacará o valor
 
-impliquem em mudanças na série histórica devem ser imediatamente comunicadas à ANBIMA.
+total da(s) carteira(s) administrada(s), investimento no exterior e total de CPF exclusivo.
 
-## Art. 93
+§2º. Sem prejuízo da definição de Conglomerado ou Grupo Econômico prevista no Glossário
 
-O envio de informações para a base de dados deve ser realizado impreterivelmente até o
+Anbima, disponível no site da Anbima na internet, os Distribuidores podem, para fins do inciso V do
 
-15º (décimo quinto) dia útil de cada mês, com data de referência do último dia útil do mês anterior.
+caput, estabelecer critérios próprios para definição de Conglomerado ou Grupo Econômico.
 
-76
+§3º. O domicílio do investidor, de que trata o inciso VI acima, deve ser informado de acordo
+
+com o endereço cadastrado nos Distribuidores, nos termos da regulação em vigor.
+
+§4º. Quaisquer correções realizadas pelos Distribuidores no envio de informações que
+
+impliquem em mudanças na série histórica devem ser imediatamente comunicadas à Anbima.
+
+## Art. 104
+
+O envio de informações para o Banco de Dados deve ser realizado impreterivelmente até
+
+o 15º (décimo quinto) dia útil de cada mês, com data de referência do último dia útil do mês
+
+anterior.
+
+97
 
 Seção II – Envio de informações para o varejo
 
-## Art. 94
+## Art. 105
 
-Para fins da base de dados, serão classificados no segmento varejo todos os clientes pessoa
+Para fins do Banco de Dados, serão classificados no segmento varejo todos os investidores
 
-física não classificados como clientes private, observado os critérios estabelecidos por este
+pessoa física e pessoa jurídica não classificados como investidores private, observados os critérios
 
-capítulo.
+estabelecidos por este Capítulo.
 
-§1º. Devem ser considerados para envio de informações para a base de dados clientes
+§1º. Devem ser considerados para envio de informações para o Banco de Dados, investidores
 
-pessoas físicas titulares do Produto de Investimento, sendo que cada cliente deve corresponder a 1
+pessoas físicas e pessoas jurídicas titulares do Produto de Investimento, sendo que cada investidor
 
-(um) CPF da pessoa física.
+deve corresponder a 1 (um) CPF da pessoa física e 1 (um) CNPJ da pessoa jurídica.
 
-§2º. Estão dispensadas do envio de informações para a base de dados os Distribuidores que
+§2º. Devem ser considerados para cômputo no Banco de Dados os investidores com posição
 
-não exerçam a atividade de Distribuição de Produtos de Investimento para clientes pessoa física.
-
-§3º. Os Distribuidores dispensados do envio de informações devem, anualmente, ratificar
-
-que permanecem não atendendo os critérios de participação, por meio de Formulário
-
-disponibilizado pela Associação.
-
-§4º. Devem ser considerados para cômputo na base de dados os clientes com posição
-
-financeira maior que 0 (zero), desconsiderando os clientes com conta corrente ativa que não
+financeira maior que 0 (zero), desconsiderando os investidores com conta corrente ativa que não
 
 possuam recursos aplicados na data de referência.
 
-## Art. 95
+## Art. 106
 
-A base de dados abrange as informações relativas à quantidade de clientes e os valores
+O Banco de Dados abrange as informações relativas à quantidade de investidores e os
 
-aplicados por Produtos de Investimento referentes à posição do último dia útil do mês, devendo
+valores aplicados por Produtos de Investimento referentes à posição do último dia útil do mês,
 
-os clientes serem segregados em:
+devendo os investidores serem segregados em:
 
-I. Fundos e Classes, conforme o caso;
+I. Posição total de Ativos, para pessoa física, dividida em:
 
-II. Títulos e Valores Mobiliários;
+a) Fundos e Classes, conforme o caso;
 
-III. Poupança; e
+b) Títulos e Valores Mobiliários;
 
-IV. Demais Valores Mobiliários informando para cada modalidade a unidade federativa de do-
+c) Poupança;
 
-micílio do cliente, conforme Formulário.
+d) Carteiras Administradas;
 
-77
+e) Demais Valores Mobiliários informando para cada modalidade a unidade federativa
 
-Parágrafo único. Cada cliente, nos termos do caput deste artigo, corresponde a um CPF,
+de domicílio do investidor, conforme Formulário;
 
-sendo necessário ser informado o número de vezes que ele se repete (dupla contagem), para os
+98
 
-Produtos de Investimento descritos no Formulário.
+II. f) g) h) i) Para CRI, CRA e Debêntures:
 
-## Art. 96
+i. Código Balcão do Ativo;
 
-O envio de informações para a base de dados deve ser realizado impreterivelmente até o
+ii. Número de investidores no varejo alta renda ou varejo tradicional; e
 
-10º (décimo) dia útil de cada mês, com data de referência do último dia útil do mês anterior.
+iii. Volume financeiro no varejo alta renda ou varejo tradicional.
 
-## Art. 97
+Investimento no exterior, incluindo, nessa hipótese:
 
-A ANBIMA publicará aviso nos seus rankings e estatísticas sobre a ocorrência de erros nas
+i. Identificação das contas para as quais se aplicam os serviços de captação de
+
+investidores contratados por intermediários estrangeiros de Distribuidores
+
+brasileiros (mediante referral);
+
+ii. Posição dos investidores brasileiros (CPFs ativos) com domicílio doméstico
+
+que possuam investimentos diretos no exterior; e
+
+iii. Informações que contenham o saldo total do volume investido no exterior,
+
+em dólares americanos (USD), sendo a conversão para real realizada pela
+
+Anbima.
+
+Total de CPFs exclusivos; e
+
+Dados de entrada e saída de recursos por produto.
+
+Volume total de Ativos, para pessoa jurídica, dividido em:
+
+a) Fundos e suas Classes, conforme o caso;
+
+i. Código da classe ou subclasse;
+
+ii. Número de cotistas no varejo alta renda e/ou varejo tradicional para
+
+Fundos de Investimento; e
+
+iii. Patrimônio Líquido no varejo alta renda e/ou varejo tradicional.
+
+b) Títulos e Valores Mobiliários;
+
+c) Poupança e valores disponíveis na conta corrente do investidor;
+
+99
+
+d) Fundos de previdência privada aberta; e
+
+e) Outros investimentos.
+
+§1º. Cada investidor, nos termos do caput deste artigo, corresponde a um CPF ou CNPJ,
+
+conforme aplicável, sendo necessário ser informado o número de vezes que ele se repete (dupla
+
+contagem), para os Produtos de Investimento descritos no Formulário.
+
+§2º. Acerca das informações de que se trata o inciso I, alíneas “d”, “g” e “h”, haverá uma linha
+
+totalizadora específica no relatório classificada como “serviço”, que destacará o valor total da(s)
+
+carteira(s) administrada(s), investimento no exterior e total de CPF exclusivo.
+
+## Art. 107
+
+O envio de informações para o Banco de Dados deve ser realizado impreterivelmente até
+
+o 10º (décimo) dia útil de cada mês, com data de referência do último dia útil do mês anterior.
+
+## Art. 108
+
+A Anbima publicará aviso nos seus rankings e estatísticas sobre a ocorrência de erros nas
 
 informações já divulgadas pelas Instituições Participantes, contendo a descrição do erro bem como
 
@@ -4344,103 +4988,83 @@ correções divulgadas na publicação seguinte, contendo as mesmas informaçõe
 
 CAPÍTULO XIV – PENALIDADES
 
-## Art. 98
+## Art. 109
 
 Os Distribuidores que descumprirem as normas estabelecidas nestas Regras e
 
+100
+
 Procedimentos estarão sujeitos à imposição das penalidades indicadas no Código de Distribuição e
 
-no Código dos Processos.
+no Código de Processos.
 
 CAPÍTULO XV – DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
-## Art. 99
+## Art. 110
 
-Os prazos de que tratam os dispositivos estas Regras e Procedimentos têm início a partir do
-
-primeiro dia útil após a ciência do interessado e se encerram no dia do vencimento.
-
-Parágrafo único. Considera-se prorrogado o prazo até o primeiro dia útil se o vencimento cair
-
-em feriados bancários, sábados, domingos ou em dia em que não houver expediente na ANBIMA
-
-ou este for inferior ao normal.
-
-## Art. 100
-
-Todos os componentes organizacionais da ANBIMA, sejam funcionários da ANBIMA ou
+Todos os componentes organizacionais da Anbima, sejam funcionários da Anbima ou
 
 representantes indicados pelos Distribuidores ou demais entidades, devem guardar absoluto sigilo
-
-78
 
 sobre informações e documentos a que tenham conhecimento em razão de suas funções.
 
 §1º. O sigilo a que se refere este artigo não é violado em caso de possível compartilhamento
 
-das informações com os órgãos da ANBIMA, com reguladores, autorreguladores e autoridades
+das informações com os órgãos da Anbima, com reguladores, autorreguladores e autoridades
 
 competentes.
 
 §2º. O dever de sigilo disposto neste artigo não é violado pelo uso dos documentos enviados
 
-pelas Instituições Participantes à ANBIMA nas investigações das atividades de outras Instituições
+pelas Instituições Participantes à Anbima nas investigações das atividades de outras Instituições
 
-Participantes disciplinadas por este ou por outros Códigos ANBIMA.
+Participantes disciplinadas por este ou por outros Códigos Anbima.
 
-§3º. As informações e documentos previstos no caput poderão ser utilizados pela ANBIMA
+§3º. As informações e documentos previstos no caput poderão ser utilizados pela Anbima
 
 como subsídio para questionamentos junto a Prestadores de Serviços contratados pelos
 
 Distribuidores nos termos previstos no capítulo VI destas Regras e Procedimentos.
 
-## Art. 101
+## Art. 111
 
 Para fins destas Regras e Procedimentos, todos os dados pessoais devem ser tratados de
 
 acordo com as disposições da LGPD, e, na eventual hipótese de compartilhamento de dados dessa
 
-natureza com a ANBIMA, os Distribuidores deverão garantir a atualização das informações
+natureza com a Anbima, os Distribuidores deverão garantir a atualização das informações
 
 compartilhadas e a transparência para com os titulares envolvidos, assegurando que estes tenham
 
 ciência da ocorrência dessa atividade e dos direitos garantidos pela referida Lei.
 
-## Art. 102
+101
 
-Os Distribuidores estão sujeitos a todas as Deliberações, Regras e Procedimentos
+## Art. 112
 
-publicados pela ANBIMA referentes à atividade de Distribuição de Produtos de Investimento.
+Estas Regras e Procedimentos de Distribuição entram em vigor em 04 de janeiro de 2027.
 
-## Art. 103
+Parágrafo único. As Instituições Participantes deverão se adaptar até 17 de maio de 2027 às
 
-Todos os documentos escritos exigidos por estas Regras e Procedimentos (incluindo os
+alterações promovidas por este normativo nos procedimentos de:
 
-Anexos Complementares) devem ser disponibilizados no SSM em prazo a ser divulgado pela
+I. II. III. Conheça seu Cliente, previsto no Capítulo IV;
 
-ANBIMA, e caso haja alterações, devem ser atualizados em até 30 (trinta) dias corridos da alteração.
+Suitability, previsto no Capítulo V; e
 
-Parágrafo único. Sem prejuízo do disposto no caput, todas as regras, procedimentos,
+Portabilidade, previsto no Capítulo X.
 
-controles e obrigações estabelecidas por estas Regras e Procedimentos devem ser passíveis de
+102
 
-verificação e ser enviados para a ANBIMA sempre que solicitados.
+ANEXO COMPLEMENTAR I – REGRAS E PROCEDIMENTOS DE
 
-## Art. 104
-
-Estas Regras e Procedimentos de Distribuição entram em vigor em 22 de setembro de 2025.
-
-79
-
-ANEXO COMPLEMENTAR I – REGRAS E PROCEDIMENTOS DE DISTRIBUI-
-
-ÇÃO PARA CLIENTES PRIVATE
+DISTRIBUIÇÃO PARA INVESTIDORES PRIVATE
 
 ## Art. 1º
 
 O presente Anexo Complementar aplica-se, em adição às demais normas destas Regras e
 
-Procedimentos, à atividade de Distribuição para clientes private.
+Procedimentos, à atividade de Distribuição para investidores private.
 
 Parágrafo único. Em caso de eventual divergência entre as disposições deste Anexo
 
@@ -4452,7 +5076,7 @@ Complementar.
 
 O serviço de private, para fins destas Regras e Procedimentos, compreende:
 
-I. II. A Distribuição de Produtos de Investimento para os clientes que tenham capacidade
+I. II. A Distribuição de Produtos de Investimento para os investidores que tenham capacidade
 
 financeira de, no mínimo, R$ 5 milhões, individual ou coletivamente; e
 
@@ -4462,37 +5086,39 @@ a. proposta de portfólio de produtos e serviços exclusivos; e/ou
 
 b. planejamento financeiro, incluindo, mas não se limitando a:
 
-i. análises e soluções financeiras e de investimentos específicas para cada cliente,
+i. análises e soluções financeiras e de investimentos específicas para
 
-observada a regulação aplicável; e
+cada investidor, observada a regulação aplicável; e
 
 ii. constituição de Veículos de Investimento, que podem ser exclusivos e
 
-personalizados segundo as necessidades e o perfil de cada cliente, em parceria
+personalizados segundo as necessidades e o perfil de cada investidor,
 
-com Ad ministradores Fiduciários e/ou Gestores de Recursos de Terceiros.
+em parceria com Ad ministradores Fiduciários e/ou Gestores de
 
-§1º. Sem prejuízo do disposto no caput, os Distribuidores podem oferecer a seus clientes:
+Recursos de Terceiros.
 
-I. Planejamento fiscal, tributário e sucessório, que deve ser desempenhado por profissional
+§1º. Sem prejuízo do disposto no caput, os Distribuidores podem oferecer a seus investidores:
 
-tecnicamente capacitado para esse serviço;
+103
 
-80
+I. Planejamento fiscal, tributário e sucessório, que deve ser desempenhado por
 
-II. III. Planejamento previdenciário e de seguros, que deve ser desempenhado em parceria com
+profissional tecnicamente capacitado para esse serviço;
+
+II. Planejamento previdenciário e de seguros, que deve ser desempenhado em parceria com
 
 sociedade seguradora para a constituição de Fundos previdenciários personalizados
 
-segundo as necessidades e o perfil de cada cliente, assim como análises e propostas de
+segundo as necessidades e o perfil de cada investidor, assim como análises e propostas
 
-seguros, de forma geral; e
+de seguros, de forma geral; e
 
-Elaboração de relatórios de consolidação de investimentos detidos em outras instituições,
+III. Elaboração de relatórios de consolidação de investimentos detidos em outras
 
-que permitam uma análise crítica em relação a posições, concentração de Ativos, risco do
+instituições, que permitam uma análise crítica em relação a posições, concentração de
 
-portfólio, entre outros aspectos.
+Ativos, risco do portfólio, entre outros aspectos.
 
 §2º. Os Distribuidores, quando da prestação do serviço previsto no inciso II, alínea “b” do
 
@@ -4500,7 +5126,7 @@ caput, devem possuir contrato contendo, no mínimo:
 
 I. Descrição dos serviços contratados;
 
-II. III. IV. V. Descrição da forma de remuneração, incluindo os casos de múltipla remuneração pela
+II. III. IV. Descrição da forma de remuneração, incluindo os casos de múltipla remuneração pela
 
 aquisição e manutenção dos investimentos;
 
@@ -4508,49 +5134,47 @@ Indicação de quem prestará o serviço (se o próprio Distribuidor ou o tercei
 
 contratado);
 
-Descrição da prestação de informações para o cliente, com a respectiva periodicidade; e
+Descrição da prestação de informações para o investidor, com a respectiva periodicidade;
 
-Cláusula prevendo a responsabilidade do terceiro contratado para a prestação dos serviços,
+e
 
-quando for o caso.
+V. Cláusula prevendo a responsabilidade do terceiro contratado para a prestação dos
+
+serviços, quando for o caso.
 
 ## Art. 3º
 
-Os Distribuidores que oferecerem para seus clientes o serviço de private devem possuir em
+Os Distribuidores que oferecerem para seus investidores o serviço de private devem possuir
 
-sua estrutura:
+em sua estrutura:
 
-I. II. 75% (setenta e cinco por cento) de seus gerentes de relacionamento certificados pelo
+104
+
+I. II. III. 75% (setenta e cinco por cento) de seus gerentes de relacionamento certificados pelo
 
 CFP®, devendo esses profissionais serem funcionários dos Distribuidores e exercerem
 
 suas funções exclusivamente para o private;
 
-Profissional ou área responsável pela atividade de Estrategista de Investimentos,
+Profissional ou área responsável pela atividade de Estrategista de Investimentos, devendo
 
-devendo o profissional que atuar nessa atividade ser certificado: (i) pelo CFP; (ii) pela
+o profissional que atuar nessa atividade ser certificado: (i) pelo CFP; (ii) pela CGA; (iii) pela
 
-CGA;
+CGE, (iv) pelo CFA, ou, ainda, possuir autorização da CVM para o exercício da atividade de
 
-81
+administração de carteira de Valores Mobiliários, nos termos da regulação específica;
 
-(iii) pela CGE, (iv) pelo CFA, ou, ainda, possuir autorização da CVM para o exercício da
-
-atividade de administração de carteira de Valores Mobiliários, nos termos da regulação
-
-específica;
-
-III. Profissional responsável pela análise de risco de mercado e de crédito dos Produtos de
+Profissional responsável pela análise de risco de mercado e de crédito dos Produtos de
 
 Investimento recomendados aos investidores; e
 
 IV. Economista.
 
-§1º. Não é necessária dedicação exclusiva dos profissionais mencionados nos incisos II, III e
+§1º. Não é necessária dedicação exclusiva dos profissionais mencionados nos incisos II, III e IV
 
-IV do caput para o serviço de private, desde que as outras atividades ou funções desempenhadas
+do caput para o serviço de private, desde que as outras atividades ou funções desempenhadas não
 
-não gerem conflito de interesses com o referido serviço.
+gerem conflito de interesses com o referido serviço.
 
 §2º. Os demais profissionais do private que desempenharem a atividade de Distribuição De
 
@@ -4560,23 +5184,21 @@ sujeitos ao disposto nas Regras e Procedimentos de Certificação.
 
 ## Art. 4º
 
-Os Distribuidores que decidirem prestar o serviço de private para seus clientes devem,
+Os Distribuidores que decidirem prestar o serviço de private para seus investidores devem,
 
-previamente ao início da prestação, informar à ANBIMA que passarão a prestar esse serviço e
+previamente ao início da prestação, informar à Anbima que passarão a prestar esse serviço e
 
 demonstrar que cumpriram com as exigências previstas neste capítulo.
 
 ## Art. 5º
 
-Este Anexo Complementar entra em vigor em 22 de setembro de 2025.
+Este Anexo Complementar entra em vigor em 04 de janeiro de 2027.
 
-82
+105
 
 ANEXO COMPLEMENTAR II – REGRAS E PROCEDIMENTOS DE
 
-DISTRIBUIÇÃO PARA FUN DOS DE
-
-INVESTIMENTO
+DISTRIBUIÇÃO PARA FUNDOS DE INVESTIMENTO
 
 CAPÍTULO I – OBJETIVO E ABRANGÊNCIA
 
@@ -4600,47 +5222,47 @@ CAPÍTULO II – DIVULGAÇÃO DE INFORMAÇÕES
 
 Os Distribuidores devem disponibilizar em seus sites na internet ou em canais alternativos,
 
-observado o artigo 3º destas Regras e Procedimentos Parte Geral, seção exclusiva sobre os Fundos,
+observado o artigo 4º da Parte Geral destas Regras e Procedimentos, seção exclusiva sobre os
 
-suas Classes e Subclasses, conforme o caso, contendo, no mínimo, as seguintes informações:
+Fundos, suas Classes e Subclasses, conforme o caso, contendo, no mínimo, as seguintes
+
+informações:
 
 I. Política de investimento;
 
-II. Classificação de risco;
+II. Classificação de risco, conforme escala adotada pelo Suitability;
 
-III. IV. V. VI. Condições de aplicação, amortização (se for o caso) e resgate (cotização);
+III. Condições de aplicação, amortização (se for o caso) e resgate (cotização);
 
-Limites mínimos e máximos de investimento e valores mínimos para movimentação e
+IV. Limites mínimos e máximos de investimento e valores mínimos para movimentação e
 
 permanência;
 
-Taxa de administração, de performance e demais taxas, se houver;
+V. Taxa de administração, de performance e demais taxas, se houver;
 
-Rentabilidade, observado o disposto nas regras de publicidade previstas nos Anexos
+VI. Rentabilidade, observado o disposto nas regras de publicidade previstas nos Anexos
 
-Complementares aplicáveis aos Fundos de Investimento, nos termos do Código de
+Complementares aplicáveis aos Fundos de Investimento, nos termos do Código de AGRT,
 
-AGRT, quando aplicável;
+quando aplicável;
 
-83
+VII. Avisos obrigatórios, observado o disposto nas regras de publicidade previstas nos Anexos
 
-VII. VIII. Avisos obrigatórios, observado o disposto nas regras de publicidade previstas nos
+Complementares aplicáveis aos Fundos de Investimento, nos termos do Código de AGRT,
 
-Anexos Complementares aplicáveis aos Fundos de Investimento, nos termos do Código
+quando aplicável; e
 
-de AGRT, quando aplicável; e
+VIII. Referência ao local de acesso aos documentos do Fundo, suas Classes e Subclasses,
 
-Referência ao local de acesso aos documentos do Fundo, suas Classes e Subclasses,
-
-conforme o caso, com indicação do canal destinado ao atendimento a clientes.
+conforme o caso, com indicação do canal destinado ao atendimento a investidores.
 
 §1º. Sem prejuízo de suas responsabilidades, os Distribuidores podem disponibilizar as
 
 informações exigidas pelo caput por meio de seu próprio site ou em canais alternativos, ou por meio
 
-de link para os sites dos Administradores Fiduciários e/ou Gestores de Recursos dos Fundos distribuí-
+de link para os sites dos Administradores Fiduciários e/ou Gestores de Recursos dos Fundos
 
-dos que contenham as informações.
+distribuídos que contenham as informações.
 
 §2º. O disposto no caput aplica-se às Classes de Fundos:
 
@@ -4652,9 +5274,11 @@ Que não sejam objeto de Oferta Pública pelos Distribuidores.
 
 ## Art. 3º
 
-Os Distribuidores devem disponibilizar aos clientes os documentos obrigatórios dos Fundos,
+Os Distribuidores devem disponibilizar aos investidores os documentos obrigatórios dos
 
-suas Classes e Subclasses, conforme o caso e de acordo com o exigido pela regulação.
+Fundos, suas Classes e Subclasses, conforme o caso e de acordo com o exigido pela regulação.
+
+107
 
 CAPÍTULO III – DISTRIBUIÇÃO POR CONTA E ORDEM
 
@@ -4662,35 +5286,35 @@ CAPÍTULO III – DISTRIBUIÇÃO POR CONTA E ORDEM
 
 Os Distribuidores podem realizar a Distribuição e subscrição de cotas de Fundos por conta
 
-e ordem de seus clientes.
+e ordem de seus investidores.
 
 §1º. Para a adoção do procedimento de que trata o caput, os Administradores Fiduciários
 
 dos Fundos e os Distribuidores devem estabelecer, por escrito, a obrigação deste último de manter
 
-84
-
 registro complementar de cotistas, específico para cada Classe, e, se houver, Subclasse de cotas em
 
 que ocorra tal modalidade de subscrição de cotas, de forma que:
 
-I. II. A titularidade das cotas seja inscrita no registro em nome dos clientes, atribuindo a cada
+I. A titularidade das cotas seja inscrita no registro em nome dos investidores, atribuindo a
 
-cotista um código de cliente sendo informado tal código aos Administradores Fiduciários; e
+cada cotista um código de investidor sendo informado tal código aos Administradores
 
-Os Administradores Fiduciários ou as instituições contratadas para realizarem a Escrituração
+Fiduciários; e
 
-de cotas deve inscrevê-las no registro de cotistas da Classe e, se houver, Subclasse de cotas,
+II. Os Administradores Fiduciários ou as instituições contratadas para realizarem a
 
-adotando, na identificação do titular, o nome dos Distribuidores por conta e ordem,
+Escrituração de cotas deve inscrevê-las no registro de cotistas da Classe e, se houver,
 
-acrescido do código de investidor fornecido que identifica o cotista no registro
+Subclasse de cotas, adotando, na identificação do titular, o nome dos Distribuidores por
 
-complementar.
+conta e ordem, acrescido do código de investidor fornecido que identifica o cotista no
 
-§2º. Os Distribuidores que atuem por conta e ordem de clientes devem estar autorizados a
+registro complementar.
 
-prestar os serviços de Escrituração de Valores Mobiliários, nos termos de norma específica, ou
+§2º. Os Distribuidores que atuem por conta e ordem de investidores devem estar autorizados
+
+a prestar os serviços de Escrituração de Valores Mobiliários, nos termos de norma específica, ou
 
 providenciar o depósito das cotas em Central Depositária de Valores Mobiliários ou seu registro em
 
@@ -4700,29 +5324,29 @@ Mercado Organizado, de modo a possibilitar a identificação do cotista efetivo.
 
 Escrituração, nos termos do parágrafo anterior, devem aderir ao Código de Serviços Qualificados.
 
+108
+
 ## Art. 5º
 
 As aplicações, amortizações e resgates realizados por meio de Distribuidores que estejam
 
-atuando por conta e ordem de clientes devem ser efetuados de forma segregada, de modo que os
+atuando por conta e ordem de investidores devem ser efetuados de forma segregada, de modo que
 
-bens e direitos integrantes do patrimônio de cada um dos clientes, bem como seus frutos e
+os bens e direitos integrantes do patrimônio de cada um dos investidores, bem como seus frutos e
 
 rendimentos, não se comuniquem entre si ou com o patrimônio dos Distribuidores.
 
-Parágrafo único. Os bens e direitos de clientes não respondem direta ou indiretamente por
+Parágrafo único. Os bens e direitos de investidores não respondem direta ou indiretamente
 
-qualquer obrigação dos Distribuidores por conta e ordem, sendo vedado aos Distribuidores deles
+por qualquer obrigação dos Distribuidores por conta e ordem, sendo vedado aos Distribuidores
 
-dispor sem prévio consentimento do cliente.
+deles dispor sem prévio consentimento do investidor.
 
 ## Art. 6º
 
-Os Distribuidores que estejam atuando por conta e ordem de clientes assumem todos os
+Os Distribuidores que estejam atuando por conta e ordem de investidores assumem todos
 
-ônus e responsabilidades relacionadas aos clientes, inclusive quanto a seu cadastramento,
-
-85
+os ônus e responsabilidades relacionadas aos investidores, inclusive quanto a seu cadastramento,
 
 identificação e demais procedimentos que caberiam, originalmente, aos Administradores
 
@@ -4730,61 +5354,63 @@ Fiduciários, em especial no que se refere:
 
 I. À responsabilidade de dar ciência aos cotistas de que a Distribuição é feita por conta e
 
-II. III. IV. V. ordem;
+ordem;
 
-À comunicação aos cotistas sobre a convocação de assembleias de cotistas e sobre suas
+II. À comunicação aos cotistas sobre a convocação de assembleias de cotistas e sobre suas
 
 Deliberações, de acordo com as instruções e informações que, com antecedência
 
 suficiente e tempestivamente, receberem dos Administradores Fiduciários das Classes de
 
-Fun dos;
+Fundos;
 
-Ao zelo para que os cotistas efetivos tenham pleno acesso a todos os documentos e
+III. Ao zelo para que os cotistas efetivos tenham pleno acesso a todos os documentos e
 
 informações dos Fundos, suas Classes e Subclasses, conforme o caso, em igualdade de
 
 condições com os demais cotistas;
 
-À manutenção de informações atualizadas que permitam a identificação dos beneficiários
+IV. À manutenção de informações atualizadas que permitam a identificação dos beneficiários
 
 finais, a qualquer tempo, bem como do registro atualizado de todas as aplicações e
 
 resgates realizados em nome de cada um desses beneficiários finais; e
 
-À obrigação de efetuar a retenção e o recolhimento dos tributos incidentes nas aplicações,
+V. À obrigação de efetuar a retenção e o recolhimento dos tributos incidentes nas aplicações,
 
 amortizações e resgates de cotas, conforme determinar a regulação tributária.
 
+109
+
 ## Art. 7º
 
-Os Distribuidores que estiverem atuando por conta e ordem de clientes devem diligenciar
+Os Distribuidores que estiverem atuando por conta e ordem de investidores devem
 
-para que os Administradores Fiduciários disponibilizem, por meio eletrônico, os seguintes
+diligenciar para que os Administradores Fiduciários disponibilizem, por meio eletrônico, os seguintes
 
 documentos:
 
-I. II. Nota de investimento que ateste a efetiva realização do investimento a cada nova
+I. Nota de investimento que ateste a efetiva realização do investimento a cada nova
 
-aplicação realizada por seus clientes, em até 5 (cinco) dias da data de sua realização; e
+aplicação realizada por seus investidores, em até 5 (cinco) dias da data de sua realização;
 
-Mensalmente, extratos individualizados de seus clientes, em até 10 (dez) dias após o final
+e
 
-do mês anterior.
+II. Mensalmente, extratos individualizados de seus investidores, em até 10 (dez) dias após o
+
+final do mês anterior.
 
 §1º. A nota de investimento e o extrato mensal devem ser disponibilizados com a identificação
 
 dos Administradores Fiduciários e Gestores de Recursos e deve conter:
 
-86
+I. II. III. O código de identificação do investidor;
 
-I. II. III. O código de identificação do cliente;
+A denominação e o número de inscrição no CNPJ do Fundo e, caso o Fundo possua
 
-A denominação e o número de inscrição no CNPJ do Fundo e, caso o Fundo possua dife-
+diferentes Classes de cotas, a denominação de toda Classe investida, suas inscrições no
 
-rentes Classes de cotas, a denominação de toda Classe investida, suas inscrições no CNPJ
-
-e, se for o caso, especificação das Subclasses investidas;
+CNPJ e, se for o caso, especificação das Subclasses investidas;
 
 A quantidade de cotas subscritas e o valor investido, discriminando por Classes e, se for o
 
@@ -4792,53 +5418,57 @@ caso, Subclasse de cotas; e
 
 IV. A data da subscrição.
 
-§2º. O extrato mensal deve informar ainda o valor atualizado da posição do cliente em cada
+§2º. O extrato mensal deve informar ainda o valor atualizado da posição do investidor em
 
-Classe e, se for o caso, Subclasse de cotas.
+cada Classe e, se for o caso, Subclasse de cotas.
 
 §3º. Os Distribuidores e os gestores que estiverem atuando por conta e ordem podem adotar
 
-medidas adicionais às acima definidas com o objetivo de fornecer ao cliente a segurança necessária
+medidas adicionais às acima definidas com o objetivo de fornecer ao investidor a segurança
 
-de que o investimento foi realizado nos termos demandados pelo cliente.
+necessária de que o investimento foi realizado nos termos demandados pelo investidor.
+
+110
 
 CAPÍTULO IV – DISPOSIÇÕES FINAIS
 
 ## Art. 8º
 
-Este Anexo Complementar entra em vigor em 22 de setembro de 2025.
+Este Anexo Complementar entra em vigor em 04 de janeiro de 2027.
 
-87
+111
 
 ANEXO COMPLEMENTAR III – MODELOS DE DOCUMENTOS PARA
 
-TRANSFERÊNCIA DE PRODUTOS DE INVESTIMENTO
+PORTABILIDADE DE PRODUTOS DE INVESTIMENTO
 
-Modelo I – Carta do cliente
+Modelo I – Carta do investidor
 
-[local], [dia] de [mês] de [ano].
+[local], [dia] de
+
+[mês] de [ano].
 
 À
 
-[DENOMINAÇÃO DO DISTRIBUIDOR CEDENTE]
+[DENOMINAÇÃO DO DISTRIBUIDOR DE ORIGEM]
 
-[CNPJ DO DISTRIBUIDOR CEDENTE]
+[CNPJ DO DISTRIBUIDOR DE ORIGEM]
 
-[ENDEREÇO DO DISTRIBUIDOR CEDENTE]
+[ENDEREÇO DO DISTRIBUIDOR DE ORIGEM]
 
-[E-MAIL DO DISTRIBUIDOR CEDENTE]
+[E-MAIL DO DISTRIBUIDOR DE ORIGEM]
 
 Com cópia para:
 
-[DENOMINAÇÃO DO DISTRIBUIDOR CESSIONÁRIO]
+[DENOMINAÇÃO DO DISTRIBUIDOR DE DESTINO]
 
-[CNPJ DO DISTRIBUIDOR CESSIONÁRIO]
+[CNPJ DO DISTRIBUIDOR DE DESTINO]
 
-[E-MAIL DO DISTRIBUIDOR CESSIONÁRIO]
+[E-MAIL DO DISTRIBUIDOR DE DESTINO]
 
-[DENOMINAÇÃO DO ADMINISTRADOR FIDUCIÁRIO]
+[DENOMINAÇÃO DO ADMINISTRADOR FIDUCIÁRIO] [CNPJ DO ADMINISTRADOR
 
-[CNPJ DO ADMINISTRADOR FIDUCIÁRIO]
+FIDUCIÁRIO]
 
 [E-MAIL DO ADMINISTRADOR FIDUCIÁRIO]
 
@@ -4846,31 +5476,39 @@ Ref.: Solicitação de Alteração de Distribuidor
 
 Prezados Senhores,
 
-Venho, pela presente, solicitar ao [DENOMINAÇÃO DO DISTRIBUIDOR CEDENTE], inscrito no
+Venho, pela presente, solicitar ao [DENOMINAÇÃO DO DISTRIBUIDOR DE ORIGEM], inscrito no
 
-CNPJ/MF sob o nº [CNPJ DO DISTRIBUIDOR CEDENTE], na qualidade de Distribuidor, que minha(s)
+CNPJ/MF sob o nº [CNPJ DO DISTRIBUIDOR DE ORIGEM], na qualidade de Distribuidor, que minha(s)
 
 posição(ões) de investimento no(s) produto(s) e condições descritas abaixo, com a minha devida
 
-88
+identificação como investidor, sejam transferidas ao [DENOMINAÇÃO DO DISTRIBUIDOR DE
 
-identificação como investidor, sejam transferidas ao [DENOMINAÇÃO DO DISTRIBUIDOR
-
-CESSIONÁRIO], inscrito no CNPJ/MF sob o nº [CNPJ DO DISTRIBUIDOR CESSIONÁRIO], mantendo a
+DESTINO], inscrito no CNPJ/MF sob o nº [CNPJ DO DISTRIBUIDOR DE DESTINO], mantendo a
 
 titularidade da(s) minha(s) posição(ões) de investimento.
 
-CONTA CEDENTE CONTA CESSIO-
+Declaro, ainda, para os devidos fins, ter conhecimento sobre a existência de interface digital para
 
-NÁRIO
+solicitação da portabilidade e, ainda assim, opto por não a utilizar, valendo-me do presente
+
+documento físico.
+
+CONTA DE
+
+ORIGEM
+
+CONTA DE
+
+DESTINO
 
 [Número da conta
 
-do cliente]
+do investidor]
 
 [Número da conta
 
-do cliente]
+do investidor]
 
 NOME DO FUNDO CNPJ DO FUNDO MONTANTE QUANTIDADE DE COTAS
 
@@ -4880,23 +5518,19 @@ solicitada]
 
 Atenciosamente,
 
-[NOME DO INVESTIDOR]
+[NOME DO INVESTIDOR] CPF: [CPF DO INVESTIDOR]
 
-CPF: [CPF DO INVESTIDOR]
+113
 
-89
+Modelo II – Carta para Administrador Fiduciário (modalidade
 
-Modelo II – Carta para Administrador Fiduciário (modalidade PCO/Di-
-
-reto)
+PCO/Direto)
 
 [local], [dia] de [mês] de [ano].
 
 À
 
-[DENOMINAÇÃO DO ADMINISTRADOR FIDUCIÁRIO]
-
-[ENDEREÇO DO ADMINISTRADOR FIDUCIÁRIO]
+[DENOMINAÇÃO DO ADMINISTRADOR FIDUCIÁRIO] [ENDEREÇO DO ADMINISTRADOR FIDUCIÁRIO]
 
 [CNPJ DO ADMINISTRADOR FIDUCIÁRIO]
 
@@ -4904,11 +5538,11 @@ reto)
 
 Com cópia para:
 
-[DENOMINAÇÃO DO DISTRIBUIDOR CEDENTE]
+[DENOMINAÇÃO DO DISTRIBUIDOR DE ORIGEM]
 
-[CNPJ DO DISTRIBUIDOR CEDENTE]
+[CNPJ DO DISTRIBUIDOR DE ORIGEM]
 
-[E-MAIL DO DISTRIBUIDOR CEDENTE]
+[E-MAIL DO DISTRIBUIDOR DE ORIGEM]
 
 Ref.: Solicitação de Alteração de Distribuidor e Modalidade de Investimento
 
@@ -4916,65 +5550,69 @@ Prezados Senhores,
 
 Vimos, pela presente, informar que os investidores, cujos CPFs estão discriminados no Anexo deste
 
-documento, do [DENOMINAÇÃO DO DISTRIBUIDOR CEDENTE], com sede em [ENDEREÇO DO
+documento, do [DENOMINAÇÃO DO DISTRIBUIDOR DE ORIGEM], com sede em [ENDEREÇO DO
 
-DISTRIBUIDOR CEDENTE], inscrito no CNPJ sob o nº [CNPJ DO DISTRIBUIDOR CEDENTE], terão a
+DISTRIBUIDOR DE ORIGEM], inscrito no CNPJ sob o nº [CNPJ DO DISTRIBUIDOR DE ORIGEM], terão a
 
 posição de investimento do(s) [FUNDO DE INVESTIMENTO] transferidas para [DENOMINAÇÃO DO
 
-DISTRIBUIDOR CESSIONÁRIO], com sede em [ENDEREÇO DO DISTRIBUIDOR CESSIONÁRIO],
+DISTRIBUIDOR DE DESTINO], com sede em [ENDEREÇO DO DISTRIBUIDOR DE DESTINO], inscrito
 
-inscrito no CNPJ sob o nº [CNPJ DO DISTRIBUIDOR CESSIONÁRIO], sob a Modalidade Direto
+no CNPJ sob o nº [CNPJ DO DISTRIBUIDOR DE DESTINO], sob a Modalidade Direto conforme
 
-conforme solicitação dos investidores ao Distribuidor cedente e ao Distribuidor cessionário.
+solicitação dos investidores ao Distribuidor de Origem e ao Distribuidor de Destino.
 
-Em face dessa alteração, os signatários, representantes legais do Distribuidor cedente e do
+114
 
-Distribuidor cessionário, vêm, pela presente, requerer ao [DENOMINAÇÃO DO ADMINISTRADOR
+Em face dessa alteração, os signatários, representantes legais do Distribuidor de Origem e do
 
-90
+Distribuidor de Destino, vêm, pela presente, requerer ao [DENOMINAÇÃO DO ADMINISTRADOR
 
-FIDUCI ÁRIO], que as posições descritas em nome dos investidores conforme Anexo, vinculados ao
+FIDUCIÁRIO], que as posições descritas em nome dos investidores conforme Anexo, vinculados ao
 
-Distribuidor cedente, sejam transferidos à [DENOMINAÇÃO DO DISTRIBUIDOR CESSIONÁRIO].
+Distribuidor de Origem, sejam transferidos à [DENOMINAÇÃO DO DISTRIBUIDOR DE DESTINO].
 
-O Distribuidor cessionário declara ainda, para os devidos fins, que os investidores, vinculados ao
+O Distribuidor de Destino declara ainda, para os devidos fins, que os investidores, vinculados ao
 
-Distribuidor cedente, concordam com o processo de transferência, cabendo ao Distribuidor Cedente
+Distribuidor de Origem, concordam com o processo de Portabilidade, cabendo ao Distribuidor de
 
-toda e qualquer responsabilidade pela transferência ora solicitada, comprometendo-se, ainda, a
+Origem toda e qualquer responsabilidade pela Portabilidade ora solicitada, comprometendo-se,
 
-indenizar e eximir o Administrador Fiduciário de responsabilidade por quaisquer reivindicações,
+ainda, a indenizar e eximir o Administrador Fiduciário de responsabilidade por quaisquer
 
-demandas, ações ou processos que eventualmente sejam instaurados contra o Administrador
+reivindicações, demandas, ações ou processos que eventualmente sejam instaurados contra o
 
-Fiduciário, nas esferas administrativa e judicial relacionadas ao presente pedido de transferência.
+Administrador Fiduciário, nas esferas administrativa e judicial relacionadas ao presente pedido de
 
-O Distribuidor cessionário não tem qualquer responsabilidade por atos ou fatos, de qualquer
+Portabilidade.
 
-natureza, inclusive os fiscais, notadamente os relacionados às retenções e recolhimento do imposto
+O Distribuidor de Destino não tem qualquer responsabilidade por atos ou fatos, de qualquer
 
-de renda, e os obrigacionais, nos termos da Regulação vigente, decorrentes das atividades
+natureza, inclusive os fiscais, notadamente os relacionados às retenções e ao recolhimento do
+
+imposto de renda, e os obrigacionais, nos termos da Regulação vigente, decorrentes das atividades
 
 relacionadas à Administração Fiduciária dos Fundos e/ou à Distribuição de cotas dos Fundos
 
-realizada pelo Administrador Fiduciário ou Distribuidor cedente, conforme o caso, e que, por
+realizada pelo Administrador Fiduciário ou Distribuidor de Origem, conforme o caso, e que, por
 
-conseguinte, qualquer reivindicação relacionada ao período anterior à efetiva transferência dos
+conseguinte, qualquer reivindicação relacionada ao período anterior à efetiva Portabilidade dos
 
-investimentos para o Distribuidor cessionário será de responsabilidade do Distribuidor cedente,
+investimentos para o Distribuidor de Destino será de responsabilidade do Distribuidor de Origem,
 
 conforme o caso.
 
-Ademais, o Distribuidor cedente e o Distribuidor cessionário declaram, para os devidos fins, que o
+Ademais, o Distribuidor de Origem e o Distribuidor de Destino declaram, para os devidos fins, que
 
-processo de transferência não implicará em alteração da titularidade das cotas, em atenção à
+o processo de Portabilidade não implicará em alteração da titularidade das cotas, em atenção à
 
 Regulação vigente.
 
-Os investimentos dos investidores nos Fundos, após a transferência, serão realizados na Modalidade
+115
 
-Direto por meio do Distribuidor cessionário, em consonância com o estabelecido na Regulação
+Os investimentos dos investidores nos Fundos, após a Portabilidade, serão realizados na Modalidade
+
+Direto por meio do Distribuidor de Destino, em consonância com o estabelecido na Regulação
 
 vigente, cabendo a ele toda a responsabilidade decorrente de tal forma de atuação, incluindo, mas
 
@@ -4984,11 +5622,9 @@ Fiduciário os seus respectivos códigos.
 
 Atenciosamente,
 
-91
+[DENOMINAÇÃO DO DISTRIBUIDOR DE DESTINO]
 
-[DENOMINAÇÃO DO DISTRIBUIDOR CESSIONÁRIO]
-
-[CNPJ DO DISTRIBUIDOR CESSIONÁRIO]
+[CNPJ DO DISTRIBUIDOR DE DESTINO]
 
 ANEXO À CARTA PARA O ADMINISTRADOR FIDUCIÁRIO (MODALIDADE PCO/DIRETO)
 
@@ -4998,47 +5634,99 @@ do
 
 Fundo
 
-CNPJ CPF do In-
+CNPJ CPF do
 
-vestidor
+Investidor
 
 Nome do
 
 Investidor
 
-Conta Cedente Conta Cessio-
+Conta de
 
-nário
+Origem
 
-Montante [nome do Fundo] [nº CNPJ do Fundo] [nº CPF] [nome] [nº conta atre- lada ao Ce- dente no Ad- ministrador] [nº conta atre- lada ao Cessio- nário no Admi- nistrador] [parcial ou total] Quanti-
+Conta de
+
+Destino Montante
+
+Quanti-
 
 dade de
 
 Cotas
 
+Cod CVM
+
+Subclasse
+
+[nome
+
+do
+
+Fundo]
+
+[nº CNPJ
+
+do
+
+Fundo]
+
+[nº CPF] [nome]
+
+[nº conta
+
+atrelada ao
+
+Distribuidor de
+
+Origem no
+
+Administrador]
+
+[nº conta
+
+atrelada ao
+
+Distribuidor de
+
+Destino no
+
+Administrador]
+
+[parcial ou
+
+total]
+
 [caso
 
 parcial,
 
-quanti-
+quantida-
 
-dade so-
+de
 
-licitada]
+solicitada]
 
-92
+[Código
 
-Modelo III – Carta para Administrador Fiduciário (modalidade Di-
+CVM da
 
-reto/PCO)
+Subclasse]
 
-[local], [dia] de [mês] de [ano].
+116
+
+Modelo III – Carta para Administrador Fiduciário (modalidade
+
+PCO/Direto)
+
+[local], [dia] de
+
+[mês] de [ano].
 
 À
 
-[DENOMINAÇÃO DO ADMINISTRADOR FIDUCIÁRIO]
-
-[ENDEREÇO DO ADMINISTRADOR FIDUCIÁRIO]
+[DENOMINAÇÃO DO ADMINISTRADOR FIDUCIÁRIO] [ENDEREÇO DO ADMINISTRADOR FIDUCIÁRIO]
 
 [CNPJ DO ADMINISTRADOR FIDUCIÁRIO]
 
@@ -5064,27 +5752,25 @@ hoje registrados em nome dos investidores, vinculados ao Distribuidor e em propo
 
 Anexo, sejam transferidos para a Modalidade Direto.
 
-O Distribuidor declara, ainda, para os devidos fins, que os investidores, vinculados à ele, concordam com o processo de
+O Distribuidor declara, ainda, para os devidos fins, que os investidores, vinculados à ele, concordam
 
-transferência, cabendo ao Distribuidor toda e qualquer responsabilidade pela transferência ora solicitada,
+com o processo de Portabilidade, cabendo ao Distribuidor toda e qualquer responsabilidade pela
 
-comprometendo-se, ainda, a indenizar e eximir o Administrador
-
-93
+Portabilidade ora solicitada, comprometendo-se, ainda, a indenizar e eximir o Administrador
 
 Fiduciário de responsabilidade por quaisquer reivindicações, demandas, ações ou processos que
 
 eventualmente sejam instaurados contra o Administrador Fiduciário, nas esferas administrativa e
 
-judicial relacionadas ao presente pedido de transferência.
+judicial relacionadas ao presente pedido de Portabilidade.
 
-O Distribuidor declara, ainda, que o processo de transferência não implicará em alteração da
+O Distribuidor declara, ainda, que o processo de Portabilidade não implicará em alteração da
 
 titularidade das cotas, em atenção ao disposto na Regulação vigente.
 
 Por fim, cumpre esclarecer que, uma vez que os investimentos dos investidores nos Fundos, após a
 
-transferência, serão realizados na Modalidade Direto, em consonância com a Regulação vigente,
+Portabilidade, serão realizados na Modalidade Direto, em consonância com a Regulação vigente,
 
 caberá ao Administrador Fiduciário toda a responsabilidade decorrente de tal forma de atuação,
 
@@ -5094,9 +5780,7 @@ de impostos.
 
 Atenciosamente,
 
-[DENOMINAÇÃO DO DISTRIBUIDOR]
-
-[CNPJ DISTRIBUIDOR]
+[DENOMINAÇÃO DO DISTRIBUIDOR] [CNPJ DISTRIBUIDOR]
 
 ANEXO À CARTA PARA ADMINISTRADOR FIDUCIÁRIO (MODALIDADE PCO/DIRETO)
 
@@ -5124,6 +5808,10 @@ QUANTIDADE
 
 DE COTAS
 
+Cod CVM
+
+SUbclasse
+
 [nome do
 
 Fundo]
@@ -5134,9 +5822,15 @@ CNPJ do
 
 Fundo]
 
-[nº CPF] [nome] [Código do investidor
+[nº CPF] [nome] [Código do
 
-atrelado ao
+investidor atrelado
+
+ao Distribuidor no
+
+Admi-
+
+nistrador]
 
 [parcial ou
 
@@ -5144,75 +5838,79 @@ total]
 
 [caso parcial,
 
-quantidade so-
+quantidade
+
+so-
 
 licitada]
 
-94
+[Código CVM
 
-Distribuidor no Admi-
+da Subclasse]
 
-nistrador]
+Modelo IV – Carta do investidor (modalidade Direto/PCO)
 
-95
+[local], [dia] de
 
-Modelo IV – Carta do cliente (modalidade Direto/PCO)
-
-[local], [dia] de [mês] de [ano].
+[mês] de [ano].
 
 À
 
-[DENOMINAÇÃO DO DISTRIBUIDOR CEDENTE]
+[DENOMINAÇÃO DO DISTRIBUIDOR DE ORIGEM]
 
-[CNPJ DO DISTRIBUIDOR CEDENTE]
+[CNPJ DO DISTRIBUIDOR DE ORIGEM]
 
-[ENDEREÇO DO DISTRIBUIDOR CEDENTE]
+[ENDEREÇO DO DISTRIBUIDOR DE ORIGEM]
 
-[E-MAIL DO DISTRIBUIDOR CEDENTE]
+[E-MAIL DO DISTRIBUIDOR DE ORIGEM]
 
 Com cópia para:
 
-[DENOMINAÇÃO DO DISTRIBUIDOR CESSIONÁRIO]
+[DENOMINAÇÃO DO DISTRIBUIDOR DE DESTINO]
 
-[CNPJ DO DISTRIBUIDOR CESSIONÁRIO]
+[CNPJ DO DISTRIBUIDOR DE DESTINO]
 
-[E-MAIL DO DISTRIBUIDOR CESSIONÁRIO]
+[E-MAIL DO DISTRIBUIDOR DE DESTINO]
 
 Ref.: Solicitação de Alteração de Distribuidor e Modalidade de Investimento
 
 Prezados Senhores,
 
-Venho, pela presente, solicitar ao [DENOMINAÇÃO DO DISTRIBUIDOR CEDENTE], inscrito no
+Venho, pela presente, solicitar ao [DENOMINAÇÃO DO DISTRIBUIDOR DE ORIGEM], inscrito no
 
-CNPJ/MF sob o nº [CNPJ DO DISTRIBUIDOR CEDENTE], na qualidade de Distribuidor do [NOME DO
+CNPJ/MF sob o nº [CNPJ DO DISTRIBUIDOR DE ORIGEM], na qualidade de Distribuidor do [NOME
 
-FUNDO], sob o CNPJ nº [CNPJ DO FUNDO], que minhas posições de investimento no Fundo, na
+DO FUNDO], sob o CNPJ nº [CNPJ DO FUNDO], que minhas posições de investimento no Fundo, na
 
 quantidade disposta abaixo, atualmente vinculadas a ele, na Modalidade de Investimento Direto,
 
 com a minha devida identificação como investidor, tenham sua modalidade de investimento alterada
 
-para Conta e Ordem e vinculadas ao [DENOMINAÇÃO DO DISTRIBUIDOR CESSIONÁRIO], inscrito no
+para Conta e Ordem e vinculadas ao [DENOMINAÇÃO DO DISTRIBUIDOR DE DESTINO], inscrito no
 
-CNPJ/MF sob o nº [CNPJ DO DISTRIBUIDOR CESSIONÁRIO], passando a titularidade das minhas
+CNPJ/MF sob o nº [CNPJ DO DISTRIBUIDOR DE DESTINO], passando a titularidade das minhas
 
-posições de investimento a serem identificadas pelo nome do [DENOMINAÇÃO DO DISTRIBUIDOR
+posições de investimento a serem identificadas pelo nome do [DENOMINAÇÃO DO DISTRIBUIDOR DE
 
-CES- SIONÁRIO] acrescido do código por esta fornecido ao [DENOMINAÇÃO DO ADMINISTRADOR
+DESTINO] acrescido do código por esta fornecido ao [DENOMINAÇÃO DO ADMINISTRADOR
 
 FIDUCIÁRIO], inscrito no CNPJ/MF sob o nº [CNPJ DO ADMINISTRADOR FIDUCIÁRIO], na qualidade
 
 de Administrador Fiduciário do Fundo.
 
-96
-
-Ademais, declaro ter ciência de que o Distribuidor cessionário por Conta e Ordem de investidores,
+Ademais, declaro ter ciência de que o Distribuidor de Destino por Conta e Ordem de investidores,
 
 assume todos os ônus e responsabilidades relacionados a estes investidores, inclusive fiscais,
 
 notadamente os referentes às retenções e ao recolhimento do imposto de renda, e quanto a seu
 
 cadastramento, identificação e demais procedimentos descritos na Regulação em vigor.
+
+Declaro, ainda, para os devidos fins, ter conhecimento sobre a existência de interface digital para
+
+solicitação da portabilidade e, ainda assim, opto por não a utilizar, valendo-me do presente
+
+documento físico.
 
 NOME DO FUNDO CNPJ DO FUNDO MONTANTE QUANTIDADE DE CO-
 
@@ -5228,19 +5926,19 @@ Atenciosamente,
 
 CPF: [CPF DO INVESTIDOR]
 
-97
+120
 
-Modelo V – Carta para Administrador Fiduciário (modalidade Di-
+Modelo V – Carta para Administrador Fiduciário (modalidade
 
-reto/PCO)
+Direto/PCO)
 
-[local], [dia] de [mês] de [ano].
+[local], [dia] de
+
+[mês] de [ano].
 
 À
 
-[DENOMINAÇÃO DO ADMINISTRADOR FIDUCIÁRIO]
-
-[ENDEREÇO DO ADMINISTRADOR FIDUCIÁRIO]
+[DENOMINAÇÃO DO ADMINISTRADOR FIDUCIÁRIO] [ENDEREÇO DO ADMINISTRADOR FIDUCIÁRIO]
 
 [CNPJ DO ADMINISTRADOR FIDUCIÁRIO]
 
@@ -5248,11 +5946,11 @@ reto/PCO)
 
 Com cópia para:
 
-[DENOMINAÇÃO DO DISTRIBUIDOR CEDENTE]
+[DENOMINAÇÃO DO DISTRIBUIDOR DE ORIGEM]
 
-[CNPJ DO DISTRIBUIDOR CEDENTE]
+[CNPJ DO DISTRIBUIDOR DE ORIGEM]
 
-[E-MAIL DO DISTRIBUIDOR CEDENTE]
+[E-MAIL DO DISTRIBUIDOR DE ORIGEM]
 
 Ref.: Solicitação de Alteração de Distribuidor e Modalidade de Investimento
 
@@ -5260,111 +5958,117 @@ Prezados Senhores,
 
 Vimos, pela presente, informar que os investidores, cujos CPFs estão discriminados no Anexo deste
 
-documento, do [DENOMINAÇÃO DO DISTRIBUIDOR CEDENTE] , com sede em [ENDEREÇO DO
+documento, do [DENOMINAÇÃO DO DISTRIBUIDOR DE ORIGEM] , com sede em [ENDEREÇO DO
 
-DISTRIBUIDOR CEDENTE], inscrito no CNPJ sob o nº [CNPJ DO DISTRIBUIDOR CEDENTE], terão as
+DISTRIBUIDOR DE ORIGEM], inscrito no CNPJ sob o nº [CNPJ DO DISTRIBUIDOR DE ORIGEM], terão
 
-posições de investimento transferidas para [DENOMINAÇÃO DO DISTRIBUIDOR CESSIONÁRIO], com
+as posições de investimento transferidas para [DENOMINAÇÃO DO DISTRIBUIDOR DE DESTINO],
 
-sede em [ENDEREÇO DO DISTRIBUIDOR CESSIONÁRIO], inscrita no CNPJ sob o nº [CNPJ DO
+com sede em [ENDEREÇO DO DISTRIBUIDOR DE DESTINO], inscrito no CNPJ sob o nº [CNPJ DO
 
-DISTRIBUIDOR CESSIONÁRIO], por Conta e Ordem conforme solicitação dos investidores ao
+DISTRIBUIDOR DE DESTINO], por Conta e Ordem conforme solicitação dos investidores ao
 
-Distribuidor cedente e ao Distribuidor cessionário.
+Distribuidor de Origem e ao Distribuidor de Destino.
 
-Em face dessa alteração, o(s) signatário(s), representante(s) legal(is) do Distribuidor cessionário,
+Em face dessa alteração, o(s) signatário(s), representante(s) legal(is) do Distribuidor de Destino,
 
 vêm, pela presente, requerer ao [DENOMINAÇÃO DO ADMINISTRADOR FIDUCIÁRIO], que as
 
-posições descritas em nome dos investidores conforme Anexo, vinculados à Distribuidora cedente,
+posições descritas em nome dos investidores conforme Anexo, vinculados ao Distribuidor de
 
-98
+Origem, sejam transferidos à [DENOMINAÇÃO DO DISTRIBUIDOR DE DESTINO].
 
-sejam transferidos à [DENOMINAÇÃO DO DISTRIBUIDOR CESSIONÁRIO].
+O Distribuidor de Destino declara, ainda, para os devidos fins, que os investidores, vinculados ao
 
-O Distribuidor cessionário declara, ainda, para os devidos fins, que os investidores, vinculados ao
+Distribuidor de Origem, concordam com o processo de Portabilidade, cabendo ao Distribuidor de
 
-Distribuidor cedente, concordam com o processo de transferência, cabendo ao Distribuidor Cedente
+Origem toda e qualquer responsabilidade pela Portabilidade ora solicitada, comprometendo-se,
 
-toda e qualquer responsabilidade pela transferência ora solicitada, comprometendo-se, ainda, a
+ainda, a indenizar e eximir o Administrador Fiduciário de responsabilidade por quaisquer
 
-indenizar e eximir o Administrador Fiduciário de responsabilidade por quaisquer reivindicações,
+reivindicações, demandas, ações ou processos que eventualmente sejam instaurados contra ele,
 
-demandas, ações ou processos que eventualmente sejam instaurados contra ele, nas esferas
+nas esferas administrativa e judicial relacionadas ao presente pedido de Portabilidade.
 
-administrativa e judicial relacionadas ao presente pedido de transferência.
+O Distribuidor de Destino não tem qualquer responsabilidade por atos ou fatos, de qualquer
 
-O Distribuidor cessionário não tem qualquer responsabilidade por atos ou fatos, de qualquer natu-
+natureza, inclusive os fiscais, notadamente os relacionados às retenções e recolhimento do imposto
 
-reza, inclusive os fiscais, notadamente os relacionados às retenções e recolhimento do imposto de
+de renda, e os obrigacionais, nos termos da Regulação vigente, decorrentes das atividades
 
-renda, e os obrigacionais, nos termos da Regulação vigente, decorrentes das atividades relacionadas
+relacionadas à Administração Fiduciária dos Fundos e/ou à Distribuição de cotas dos Fundos
 
-à Administração Fiduciária dos Fundos e/ou à Distribuição de cotas dos Fundos realizada pelo
+realizada pelo Administrador Fiduciário ou Distribuidor de Origem, conforme o caso, e que, por
 
-Administrador Fiduciário ou Distribuidor cedente, conforme o caso, e que, por conseguinte,
+conseguinte, qualquer reivindicação relacionada ao período anterior à efetiva Portabilidade dos
 
-qualquer reivindicação relacionada ao período anterior à efetiva transferência dos investimentos
+investimentos para o Distribuidor de Destino será de responsabilidade do Administrador Fiduciário
 
-para o Distribuidor cessionário será de responsabilidade do Administrador Fiduciário ou do
+ou do Distribuidor de Origem, conforme o caso.
 
-Distribuidor Cedente, conforme o caso.
-
-Ademais, o Distribuidor cessionário declara, para os devidos fins, que o processo de transferência
+Ademais, o Distribuidor de Destino declara, para os devidos fins, que o processo de Portabilidade
 
 não implicará em alteração da titularidade das cotas, nos termos da Regulação vigente.
 
-Os investimentos dos investidores nos Fundos, após a transferência, serão realizados por Conta e
+Os investimentos dos investidores nos Fundos, após a Portabilidade, serão realizados por Conta e
 
-Ordem por meio do Distribuidor cessionário [DENOMINAÇÃO DO DISTRIBUIDOR CESSIONÁRIO], em
+Ordem por meio do Distribuidor de Destino [DENOMINAÇÃO DO DISTRIBUIDOR DE DESTINO], em
 
-consonância com o estabelecido na Regulação vigente, cabendo à ele toda a responsabilidade
-
-decorrente de tal forma de atuação, incluindo, mas não se limitando, à responsabilidade pelo
-
-cadastro dos investidores e por informar ao Administrador Fiduciário os seus respectivos códigos.
-
-99
-
-O Distribuidor cessionário é responsável por responder possíveis questionamentos realizados pelo
-
-Distribuidor cedente e pelo Administrador Fiduciário sobre o processo.
-
-Atenciosamente,
-
-[DENOMINAÇÃO DO DISTRIBUIDOR CESSIONÁRIO]
-
-CNPJ: [CNPJ DISTRIBUIDOR CESSIONÁRIO]
-
-ANEXO À CARTA PARA ADMINISTRADOR FIDUCIÁRIO (MODALIDADE DIRETO/PCO)
+122
 
 NOME
 
 DO
 
-FUNDO
+FUND
+
+O
+
+[nome do Fundo] consonância com o estabelecido na Regulação vigente, cabendo a ele toda a responsabilidade
+
+decorrente de tal forma de atuação, incluindo, mas não se limitando, à responsabilidade pelo
+
+cadastro dos investidores e por informar ao Administrador Fiduciário os seus respectivos códigos.
+
+O Distribuidor de Destino é responsável por responder possíveis questionamentos realizados pelo
+
+Distribuidor de Origem e pelo Administrador Fiduciário sobre o processo.
+
+Atenciosamente,
+
+[DENOMINAÇÃO DO DISTRIBUIDOR DE DESTINO]
+
+CNPJ: [CNPJ DISTRIBUIDOR DE DESTINO]
+
+ANEXO À CARTA PARA ADMINISTRADOR FIDUCIÁRIO (MODALIDADE DIRETO/PCO)
 
 CNPJ
 
 DO
 
-FUNDO
+FUND
+
+O
 
 CPF DO
 
-INVESTIDOR
+INVESTIDO
 
-NOME DO IN-
+R
+
+NOME DO
+
+IN-
 
 VESTIDOR
 
-CONTA CE-
+CONTA
 
-DENTE
+DE ORIGEM
 
-CONTA CESSI-
+CONTA
 
-ONÁRIO
+DE DESTINO
 
 MON-
 
@@ -5372,43 +6076,53 @@ TANTE
 
 QUANTI-
 
-DADE DE CO-
+DADE DE
 
-TAS
+CO- TAS
 
-[nome do Fundo] [nº CNPJ do Fundo] [nº CPF in- vestidor] [nome do in- vestidor] [nº conta ou código do in- vestidor atre- lado ao Ce- dente no Ad- ministrador]
+Cod CVM
 
-[nº conta atrelada ao cessionário no Adminis-
+Subclasse
+
+[nº CNPJ do Fundo] [nº CPF in- vestidor] [nome do in- vestidor] [nº conta ou [nº conta código do in- atrelada ao vestidor atre- Destino lado no Adminis-
+
+à Origem no
 
 trador]
 
-[parcial ou total] [caso parcial,
+Ad-
+
+ministrador]
+
+[parcial ou total] [caso
+
+parcial,
 
 quantidade
 
 solicitada]
 
-100
+[Código CVM
 
-Modelo VI – Carta do cliente (modalidade Direto/PCO)
+da Subclasse]
 
-[local], [dia] de [mês] de [ano].
+123
+
+Modelo VI – Carta do investidor (modalidade Direto/PCO)
+
+[local], [dia] de
+
+[mês] de [ano].
 
 À
 
-[DENOMINAÇÃO DO DISTRIBUIDOR]
-
-[CNPJ DO DISTRIBUIDOR]
-
-[ENDEREÇO DO DISTRIBUIDOR]
+[DENOMINAÇÃO DO DISTRIBUIDOR] [CNPJ DO DISTRIBUIDOR] [ENDEREÇO DO DISTRIBUIDOR]
 
 [E-MAIL DO DISTRIBUIDOR]
 
 Com cópia para:
 
-[DENOMINAÇÃO DO ADMINISTRADOR FIDUCIÁRIO]
-
-[CNPJ DO ADMINISTRADOR FIDUCIÁRIO]
+[DENOMINAÇÃO DO ADMINISTRADOR FIDUCIÁRIO] [CNPJ DO ADMINISTRADOR FIDUCIÁRIO]
 
 [E-MAIL DO ADMINISTRADOR FIDUCIÁRIO]
 
@@ -5428,13 +6142,17 @@ identificação como investidor, tenham sua modalidade de investimento alterada 
 
 Ordem, passando a titularidade das minhas posições de investimento a serem identificadas pelo
 
-nome do [DE- NOMINAÇÃO DO DISTRIBUIDOR] acrescido do código por esta fornecido ao
+nome do [DENOMINAÇÃO DO DISTRIBUIDOR] acrescido do código por esta fornecido ao
 
 [DENOMINAÇÃO DO ADMINISTRADOR FIDUCIÁRIO], inscrito no CNPJ/MF sob o nº [CNPJ DO
 
 ADMINISTRADOR FIDUCIÁRIO], na qualidade de Administrador Fiduciário do Fundo.
 
-101
+Declaro, ainda, para os devidos fins, ter conhecimento sobre a existência de interface digital para
+
+solicitação da portabilidade e, ainda assim, opto por não a utilizar, valendo-me do presente
+
+documento físico.
 
 Ademais, declaro ter ciência de que o Distribuidor por Conta e Ordem de investidores, assume todos
 
@@ -5458,19 +6176,19 @@ Atenciosamente,
 
 CPF: [CPF DO INVESTIDOR]
 
-102
+125
 
-Modelo VII – Carta para Administrador Fiduciário (modalidade Di-
+Modelo VII – Carta para Administrador Fiduciário (modalidade
 
-reto/PCO)
+Direto/PCO)
 
-[local], [dia] de [mês] de [ano].
+[local], [dia] de
+
+[mês] de [ano].
 
 À
 
-[DENOMINAÇÃO DO ADMINISTRADOR FIDUCIÁRIO]
-
-[ENDEREÇO DO ADMINISTRADOR FIDUCIÁRIO]
+[DENOMINAÇÃO DO ADMINISTRADOR FIDUCIÁRIO] [ENDEREÇO DO ADMINISTRADOR FIDUCIÁRIO]
 
 [CNPJ DO ADMINISTRADOR FIDUCIÁRIO]
 
@@ -5494,29 +6212,29 @@ requerer ao Administrador Fiduciário, em caráter irrevogável e irretratável,
 
 hoje registrados em nome dos investidores, vinculados ao Distribuidor e em proporção disposta no
 
-Anexo, sejam transferidos para a modalidade de conta em ordem.
+Anexo, sejam transferidos para a modalidade de conta e ordem.
 
 O Distribuidor declara ainda, para os devidos fins, que os investidores, vinculados à ele, concordam
 
-com o processo de transferência, cabendo ao Distribuidor toda e qualquer responsabilidade pela
+com o processo de Portabilidade, cabendo ao Distribuidor toda e qualquer responsabilidade pela
 
-transferência ora solicitada, comprometendo-se, ainda, a indenizar e eximir o Administrador
+126
+
+Portabilidade ora solicitada, comprometendo-se, ainda, a indenizar e eximir o Administrador
 
 Fiduciário de responsabilidade por quaisquer reivindicações, demandas, ações ou processos que
 
-103
-
 eventualmente sejam instaurados contra o Administrador Fiduciário, nas esferas administrativa e
 
-judicial relacionadas ao presente pedido de transferência.
+judicial relacionadas ao presente pedido de Portabilidade.
 
-O Distribuidor declara, ainda, que o processo de transferência não implicará em alteração da
+O Distribuidor declara, ainda, que o processo de Portabilidade não implicará em alteração da
 
 titularidade das cotas, nos termos da Regulação vigente.
 
 Por fim, cumpre esclarecer que, uma vez que os investimentos dos investidores nos Fundos, após a
 
-transferência, serão realizados por Conta e Ordem, em consonância com Regulação vigente, caberá
+Portabilidade, serão realizados por Conta e Ordem, em consonância com Regulação vigente, caberá
 
 ao Distribuidor toda a responsabilidade decorrente de tal forma de atuação, incluindo, mas não se
 
@@ -5546,99 +6264,119 @@ VESTIDOR
 
 NOME DO
 
-INVESTIDOR
+INVESTIDO
+
+R
 
 CONTA ADMINIS-
 
 TRADOR
 
-CONTA DISTRIBUIDOR
+CONTA DISTRIBUIDOR Cod CVM Subclasse
 
-[nome do
+[nome [nº [nº CPF] [nome] [nº conta ou [nº conta ou código [Código CVM da
+
+127
+
+do
 
 Fundo]
 
-[nº CNPJ
+CNPJ
 
-do Fundo]
+do
 
-[nº CPF] [nome] [nº conta ou código
+Fundo]
 
-do investidor no Ad-
+código do
+
+investidor no Ad-
 
 ministrador]
 
-[nº conta ou código do in-
+do in- vestidor
 
-vestidor atrelado ao Distri-
+atrelado ao Distri-
 
-buidor no Administrador]
+buidor no
 
-104
+Administrador]
 
-Modelo VIII – Carta do Cliente (modalidade PCO/PCO)
+Subclasse]
 
-[local], [dia] de [mês] de [ano].
+128
+
+Modelo VIII – Carta do investidor (modalidade PCO/PCO)
+
+[local], [dia] de
+
+[mês] de [ano].
 
 À
 
-[DENOMINAÇÃO DO DISTRIBUIDOR CEDENTE]
+[DENOMINAÇÃO DO DISTRIBUIDOR DE ORIGEM]
 
-[ENDEREÇO DO DISTRIBUIDOR CEDENTE]
+[ENDEREÇO DO DISTRIBUIDOR DE ORIGEM]
 
-[CNPJ DO DISTRIBUIDOR CEDENTE]
+[CNPJ DO DISTRIBUIDOR DE ORIGEM]
 
-[E-MAIL DO DISTRIBUIDOR CEDENTE]
+[E-MAIL DO DISTRIBUIDOR DE ORIGEM]
 
 Com cópia para:
 
-[DENOMINAÇÃO DO DISTRIBUIDOR CESSIONÁRIO]
+[DENOMINAÇÃO DO DISTRIBUIDOR DE DESTINO]
 
-[CNPJ DO DISTRIBUIDOR CESSIONÁRIO]
+[CNPJ DO DISTRIBUIDOR DE DESTINO]
 
-[E-MAIL DO DISTRIBUIDOR CESSIONÁRIO]
+[E-MAIL DO DISTRIBUIDOR DE DESTINO]
 
 Ref.: Solicitação de Alteração de Distribuidor
 
 Prezados senhores,
 
-Venho, pela presente, solicitar ao [DENOMINAÇÃO DO DISTRIBUIDOR CEDENTE] (“Distribuidor
+Venho, pela presente, solicitar ao [DENOMINAÇÃO DO DISTRIBUIDOR DE ORIGEM] (“Distribuidor de
 
-Cedente”), inscrito no CNPJ/MF sob o nº [CNPJ DO DISTRIBUIDOR CEDENTE], na qualidade de
+Origem”), inscrito no CNPJ/MF sob o nº [CNPJ DO DISTRIBUIDOR DE ORIGEM], na qualidade de
 
 Distribuidor, que minhas posições de investimento no Fundo, na quantidade disposta abaixo,
 
-atualmente vinculada a ele por Conta e Ordem, com a minha devida identificação como investidor,
+atualmente vinculadas a ele por Conta e Ordem, com a minha devida identificação como investidor,
 
-sejam trans- feridas ao [DENOMINAÇÃO DO DISTRIBUIDOR CESSIONÁRIO] (“Distribuidor
+sejam transferidas ao [DENOMINAÇÃO DO DISTRIBUIDOR DE DESTINO] (“Distribuidor de Destino”),
 
-cessionário”), inscrito no CNPJ/MF sob o nº [CNPJ DO DISTRIBUIDOR CESSIONÁRIO], mantendo a
+inscrito no CNPJ/MF sob o nº [CNPJ DO DISTRIBUIDOR DE DESTINO], mantendo a titularidade da(s)
 
-titularidade da(s) minha(s) posição(ões) de investimento e a mesma modalidade de investimento.
+minha(s) posição(ões) de investimento e a mesma modalidade de investimento.
 
-Tenho ciência de que o Distribuidor cessionário não tem nenhuma responsabilidade por atos ou
+Tenho ciência de que o Distribuidor de Destino não tem nenhuma responsabilidade por atos ou
 
-fatos, de qualquer natureza, inclusive os discais, notadamente os relacionados às retenções e ao
+fatos, de qualquer natureza, inclusive os fiscais, notadamente os relacionados às retenções e ao
 
-nos termos da Regulação vigente, decorrentes das atividades relacionadas à Distribuição dos
+recolhimento do imposto de renda, e os obrigacionais, nos termos da Regulação vigente,
 
-Fundos realizada pelo Distribuidor cedente, e que, por conseguinte, qualquer reinvindicação
+decorrentes das atividades relacionadas à Distribuição dos Fundos realizada pelo Distribuidor de
 
-105
+Origem, e que, por conseguinte, qualquer reivindicação relacionada ao período anterior à efetiva
 
-relacionada ao período anterior à efetiva transferência dos meus investimentos para o Distribuidor
+Portabilidade dos meus investimentos para o Distribuidor de Destino deverá ser direcionada ao
 
-cessionário deverá ser direcionada ao Distribuidor cedente.
+Distribuidor de Origem.
 
-Tenho ciência, ainda, de que os investimentos nos Fundos, após a transferência, continuarão sendo
+Tenho ciência, ainda, de que os investimentos nos Fundos, após a Portabilidade, continuarão sendo
 
-realizados por Conta e Ordem do Distribuidor cessionário, em consonância com a Regulação vigente,
+realizados por Conta e Ordem do Distribuidor de Destino, em consonância com a Regulação vigente,
 
-cabendo à ele toda a responsabilidade decorrente de tal forma de atuação, incluindo, mas não se
+cabendo a ele toda a responsabilidade decorrente de tal forma de atuação, incluindo, mas não se
 
 limitando, à responsabilidade pelo cadastro dos investidores e por informar ao Administrador
 
 Fiduciário os seus respectivos códigos.
+
+Declaro, ainda, para os devidos fins, ter conhecimento sobre a existência de interface digital para
+
+solicitação da portabilidade e, ainda assim, opto por não a utilizar, valendo-me do presente
+
+documento físico.
 
 NOME DO FUNDO CNPJ DO FUNDO MONTANTE QUANTIDADE DE CO-
 
@@ -5652,19 +6390,21 @@ Atenciosamente,
 
 [NOME DO INVESTIDOR]
 
+130
+
 CPF: [CPF DO INVESTIDOR]
 
-106
+131
 
 Modelo IX – Carta para Administrador Fiduciário (modalidade PCO/PCO)
 
-[local], [dia] de [mês] de [ano].
+[local], [dia] de
+
+[mês] de [ano].
 
 À
 
-[DENOMINAÇÃO DO ADMINISTRADOR FIDUCIÁRIO]
-
-[ENDEREÇO DO ADMINISTRADOR FIDUCIÁRIO]
+[DENOMINAÇÃO DO ADMINISTRADOR FIDUCIÁRIO] [ENDEREÇO DO ADMINISTRADOR FIDUCIÁRIO]
 
 [CNPJ DO ADMINISTRADOR FIDUCIÁRIO]
 
@@ -5672,115 +6412,107 @@ Modelo IX – Carta para Administrador Fiduciário (modalidade PCO/PCO)
 
 Com Cópia para:
 
-[DENOMINAÇÃO DO DISTRIBUIDOR CEDENTE]
+[DENOMINAÇÃO DO DISTRIBUIDOR DE ORIGEM]
 
-[CNPJ DO DISTRIBUIDOR CEDENTE]
+[CNPJ DO DISTRIBUIDOR DE ORIGEM]
 
-[E-MAIL DO DISTRIBUIDOR CEDENTE]
+[E-MAIL DO DISTRIBUIDOR DE ORIGEM]
 
 Ref.: Solicitação de Alteração de Distribuidor
 
 Prezados,
 
-1. [DENOMINAÇÃO DO DISTRIBUIDOR CESSIONÁRIO], com sede em [ENDEREÇO DO
+1. [DENOMINAÇÃO DO DISTRIBUIDOR DE DESTINO], com sede em [ENDEREÇO DO DISTRIBUIDOR DE
 
-DISTRIBUIDOR CESSIONÁRIO], inscrito no CNPJ sob o nº [CNPJ DO DISTRIBUIDOR
+DESTINO], inscrito no CNPJ sob o nº [CNPJ DO DISTRIBUIDOR DE DESTINO], na qualidade de
 
-CESSIONÁRIO], na qualidade de Distribuidor cessionário, regularmente contratado pela
+Distribuidor de Destino, regularmente contratado pela [DENOMINAÇÃO DO ADMINISTRADOR
 
-[DENOMINAÇÃO DO ADMINISTRADOR FIDUCIÁRIO], inscrito no CNPJ/MF sob o nº [CNPJ DO
+FIDUCIÁRIO], inscrito no CNPJ/MF sob o nº [CNPJ DO ADMINISTRADOR FIDUCIÁRIO], na qualidade
 
-ADMINISTRADOR FIDUCIÁRIO], na qualidade de Administrador Fiduciário do Fundo, vem,
+de Administrador Fiduciário do Fundo, vem, pela presente, requerer a Portabilidade da posição do
 
-pela presente, requerer a transferência da posição do Fundo [NOME DO FUNDO e CNPJ DO
+Fundo [NOME DO FUNDO e CNPJ DO FUNDO] (“Fundo”), de titularidade dos investidores
 
-FUNDO] (“Fundo”), de titularidade dos investidores relacionados no Anexo atualmente
+relacionados no Anexo atualmente vinculadas ao [DENOMINAÇÃO DO DISTRIBUIDOR DE ORIGEM],
 
-vinculadas ao [DENOMINAÇÃO DO DISTRIBUIDOR CEDENTE], com sede em [ENDEREÇO
+com sede em [ENDEREÇO DISTRIBUIDOR DE ORIGEM], inscrito no CNPJ sob o nº [CNPJ DO
 
-DISTRIBUIDOR CEDENTE], inscrito no CNPJ sob o nº [CNPJ DO DISTRIBUIDOR CEDENTE].
+132
 
-107
+DISTRIBUIDOR DE ORIGEM].
 
-2. Com a alteração, todos os investimentos descritos no Anexo devem ser transferidos do
+2. Com a alteração, todos os investimentos descritos no Anexo devem ser transferidos do Distribuidor
 
-Distribuidor cedente para o Distribuidor cessionário.
+de Origem para o Distribuidor de Destino.
 
-3. O Distribuidor cessionário declara, para os devidos fins, que:
+3. O Distribuidor de Destino declara, para os devidos fins, que:
 
-a. Obteve prévia e expressa autorização dos investidores para solicitação da alteração
+a. Obteve prévia e expressa autorização dos investidores para solicitação da alteração da posição do
 
-da posição do Distribuidor cedente para o Distribuidor cessionário.
+Distribuidor de Origem para o Distribuidor de Destino.
 
-b. Compromete-se a indenizar e eximir o Administrador Fiduciário e o Distribuidor
+b. Compromete-se a indenizar e eximir o Administrador Fiduciário e o Distribuidor de Origem de
 
-cedente de responsabilidade por quaisquer reivindicações, demandas, ações ou
+responsabilidade por quaisquer reivindicações, demandas, ações ou processos que eventualmente
 
-processos que eventualmente sejam instaurados, nas esferas administrativa e
+sejam instaurados, nas esferas administrativa e judicial, relacionados à autorização, pelos
 
-judicial, relacionados à autorização, pelos investidores, do presente pedido de
+investidores, do presente pedido de Portabilidade.
 
-transferência.
+c. O processo de Portabilidade não implicará alteração da titularidade das cotas, em atenção ao
 
-c. O processo de transferência não implicará na alteração da titularidade das cotas, em
+disposto na Regulação vigente.
 
-atenção ao disposto na Regulação vigente.
+d. Recebeu do Distribuidor de Origem a posição de investimento do investidor, as informações
 
-d. Recebeu do Distribuidor cedente a posição de investimento do investidor, as
+tributárias referentes às aplicações e o extrato de posição de investimento do Administrador
 
-informações tributárias referentes às aplicações e o extrato de posição de
+Fiduciário, não tendo nenhum óbice quanto a tais documentos.
 
-investimento do Administrador Fiduciário, não tendo nenhum óbice quanto a tais
+e. Após a data da efetiva Portabilidade da posição, feita mediante comunicação formal do
 
-documentos.
+Administrador Fiduciário, os investimentos dos investidores nos Fundos serão realizados por Conta
 
-e. Após a data da efetiva transferência da posição, feita mediante comunicação formal
+e Ordem por meio do Distribuidor de Destino, em consonância com o estabelecido na Regulação
 
-do Administrador Fiduciário, os investimentos dos investidores nos Fundos serão
+vigente, cabendo a este toda a responsabilidade decorrente de tal forma de atuação, incluindo, mas
 
-realizados por Conta e Ordem por meio do Distribuidor cessionário, em consonância
+não se limitando, a responsabili- dade pelo cálculo e pela retenção dos tributos devidos, por todo
 
-com o estabelecido na Regulação vigente, cabendo a este toda a responsabilidade
-
-decorrente de tal forma de atuação, incluindo, mas não se limitando, a responsabili-
-
-dade pelo cálculo e pela retenção dos tributos devidos, por todo processo de cadas-
-
-tramento, identificação de perfil e KYC (know your client) dos investidores, entre
+processo de cadas- tramento, identificação de perfil e KYC (know your client) dos investidores, entre
 
 outros.
 
-4. Em contrapartida, o Distribuidor cessionário não terá nenhuma responsabilidade por atos
+4. Em contrapartida, o Distribuidor de Destino não terá nenhuma responsabilidade por atos ou fatos,
 
-ou fatos, de qualquer natureza, inclusive fiscais, notadamente os relacionados a retenções e
+de qualquer natureza, inclusive fiscais, notadamente os relacionados às retenções e recolhimento
 
-recolhimento do imposto de renda, e os obrigacionais, nos termos da Regulação vigente,
+do imposto de renda, e os obrigacionais, nos termos da Regulação vigente, decorrentes das
 
-decorrentes das atividades relacionadas à Administração Fiduciária dos Fundos e/ou à
+133
 
-Distribuição de cotas dos Fundos realizada pelo Administrador Fiduciário e/ou pelo
+atividades relacionadas à Administração Fiduciária dos Fundos e/ou à Distribuição de cotas dos
 
-Distribuidor cedente, conforme o caso, e que, por conseguinte, qualquer reivindicação
+Fundos realizada pelo Administrador Fiduciário e/ou pelo Distribuidor de Origem, conforme o caso,
 
-relacionada ao período anterior à efetiva transferência dos investimentos será de
+e que, por conseguinte, qualquer reivindicação relacionada ao período anterior à efetiva
 
-responsabilidade do Administrador Fiduciário e/ou do Distribuidor cedente, conforme o
+Portabilidade dos investimentos será de responsabilidade do Administrador Fiduciário e/ou do
 
-caso.
+Distribuidor de Origem, conforme o caso.
 
-108
+5. Esta correspondência segue com cópia para o Distribuidor de Origem, que somente poderá se opor
 
-5. Esta correspondência segue com cópia para o Distribuidor cedente, que somente poderá se
+à Portabilidade pelos motivos previstos no Capítulo X das Regras e Procedimentos de Distribuição
 
-opor à transferência pelos motivos previstos nas Regras e Procedimentos ANBIMA para
-
-Transferência de Custódia dos Produtos de Investimento.
+de Produtos de Investimento Anbima.
 
 Atenciosamente,
 
-[DENOMINAÇÃO DO DISTRIBUIDOR CESSIONÁRIO]
+[DENOMINAÇÃO DO DISTRIBUIDOR DE DESTINO]
 
-CNPJ: [CNPJ DO DISTRIBUIDOR CESSIONÁRIO]
+CNPJ: [CNPJ DO DISTRIBUIDOR DE DESTINO]
 
 ANEXO À CARTA PARA ADMINISTRADOR FIDUCIÁRIO (MODALIDADE PCO/PCO)
 
@@ -5790,9 +6522,7 @@ DO
 
 FUNDO
 
-CNPJ
-
-DO
+CNPJ DO
 
 FUNDO
 
@@ -5800,29 +6530,29 @@ NOME DO
 
 DISTRIBUI-
 
-DOR CE-
+DOR DE
 
-DENTE
+ORIGEM
 
-CÓDIGO DO IN-
+CÓDIGO DO
 
-VESTIDOR NO
+INVESTIDOR NO
 
-DISTRIBUIDOR
+DISTRIBUIDOR DE
 
-CEDENTE PE-
+ORIGEM
 
-RANTE O ADMI-
+PERANTE
 
-NISTRADOR
+ADMINISTRADOR
 
 NOME DO
 
 DISTRIBUI-
 
-DOR CESSIO-
+DOR DE
 
-NÁRIO
+DESTINO
 
 CÓDIGO DO IN-
 
@@ -5830,43 +6560,103 @@ VESTIDOR NO
 
 DISTRIBUIDOR
 
-CESSIONÁRIO
+DE DESTINO
 
-PERANTE O AD-
+PERANTE O
 
-MINISTRADOR
+ADMINISTRA-
 
-MON-
+DOR
 
-TANTE
+MONTAN-
 
-QUANTIDADE
+TE
 
-DE COTAS
+QUANTIDA-
 
-[nome do Fundo] [nº CNPJ do Fundo] [nome do Distribui- dor Ce- dente] [nº conta ou código do in- vestidor atre- lado ao Ce- dente no Ad- ministrador] [nome do Distribui- dor Cessio- nário] [nº conta ou código do in- vestidor atre- lado ao Cessi- onário no Ad-
+DE DE
 
-ministrador]
+COTAS
 
-[parcial ou total] [caso par-
+CÓD. CVM
 
-cial, quanti-
+SUBCLASS
 
-dade solici-
+E
 
-tada]
+[Nome do
 
-109
+Fundo]
+
+[Nº CNPJ
+
+do Fundo]
+
+[Nome do
+
+Distribuidor
+
+de Origem]
+
+[Nº conta ou
+
+código do
+
+investidor
+
+atrelado à Origem
+
+no Administrador]
+
+[Nome do
+
+Distribui-
+
+dor de
+
+Destino]
+
+[nº conta ou
+
+código do
+
+investidor
+
+atrelado ao
+
+Destino no
+
+Administrador]
+
+[Parcial
+
+ou total]
+
+[Caso
+
+parcial,
+
+quantidade
+
+solicitada]
+
+[Código
+
+CVM da
+
+Subclasse]
+
+134
 
 Modelo X – Conciliação de posição (modalidade PCO/PCO)
 
-[local], [dia] de [mês] de [ano].
+[local], [dia] de
+
+[mês] de [ano].
 
 À
 
-[DENOMINAÇÃO DO ADMINISTRADOR FIDUCIÁRIO]
-
-[ENDEREÇO DO ADMINISTRADOR FIDUCIÁRIO]
+[DENOMINAÇÃO DO ADMINISTRADOR FIDUCIÁRIO] [ENDEREÇO DO ADMINISTRADOR FIDUCIÁRIO]
 
 [CNPJ DO ADMINISTRADOR FIDUCIÁRIO]
 
@@ -5886,9 +6676,7 @@ entre seus registros internos de posição e os registros de posição de V.Sas.
 
 informar o evento de desconciliação e requerer o que segue:
 
-NOME DO
-
-FUNDO
+NOME DO FUNDO
 
 CNPJ DO
 
@@ -5946,8 +6734,6 @@ COTAS NO DISTRI-
 
 BUIDOR
 
-110
-
 [nº conta atrelada no
 
 Administrador]
@@ -5960,7 +6746,7 @@ no Administrador]
 
 Distribuidor]
 
-[quantidade de cotas
+[Quantidade de cotas
 
 no Distribuidor]
 
@@ -5980,55 +6766,807 @@ Atenciosamente,
 
 CNPJ: [CNPJ DISTRIBUIDOR]
 
-111
+Modelo XI – Layout com informações mínimas para Portabilidade –
 
-APÊNDICE A – MODELO PARA TRANSPARÊNCIA NA REMUNERAÇÃO DO DISTRIBUIDOR
+troca de informações entre Distribuidores de Origem e de Destino
+
+Campo Formato Descrição PROTOCOLO String (12) Hexadecimal
+
+(A-Z, 0-9)
+
+Código identificação da
+
+Operação de Portabilidade N N
+
+CONTA ORIGEM String (20) Identificação do Investidor
+
+no Distribuidor de Origem S N
+
+CONTA DESTINO String (20) Identificação do Investidor
+
+no Distribuidor de Destino CNPJ DA CLASSE String (14) CNPJ da Classe Obrigatório DESTINO
+
+Obrigatório, se COD CVM
+
+SUBCLASSE = Null
+
+N S
+
+CNPJ ORIGEM String (14) CNPJ do Distribuidor de
+
+Origem S S
+
+CNPJ DESTINO String (14) CNPJ do Distribuidor de
+
+Destino S S
+
+MODALIDADE String (15) PCO
+
+DIRETO DATA/HORA
+
+SOLICITACAO
+
+Datetime
+
+DD/MM/AAAA
+
+HH:MM:SS
+
+Data/Hora em que o
+
+Distribuidor de Origem
+
+recebe a Solicitação de
+
+Portabilidade
+
+STATUS ORIGEM
+
+String (15) APROVADA
+
+REJEITADA
+
+MOTIVO DA
+
+REJEICAO String (15)
+
+Motivo pelo qual a
+
+portabilidade foi rejeitada
+
+(seja por qualquer um dos
+
+participantes)
+
+Obrigatório ORIGEM Obrigatório, se COD
+
+CVM SUBCLASSE = Null
+
+Obrigatório para Origem
+
+somente se a portabilidade
+
+for iniciada pelo Destino
+
+Obrigatório se status =
+
+REJEITADA
+
+S N
+
+N N
+
+N
+
+Obrigatório se status =
+
+REJEITADA
+
+DATA/HORA
+
+RESPOSTA
+
+DESTINO Datetime
+
+DD/MM/AAAA
+
+HH:MM:SS
+
+Data/Hora em que o
+
+Distribuidor de Destino
+
+respondeu à Solicitação de
+
+Portabilidade
+
+N
+
+(Preenchida pelo Sistema
+
+quando o Distribuidor de
+
+Destino realiza o upload da
+
+carta para o administrador)
+
+N
+
+(Preenchida pelo
+
+Sistema quando o
+
+Distribuidor de Destino
+
+realiza o upload da
+
+carta para o
+
+administrador)
+
+STATUS DESTINO
+
+String (15) APROVADA
+
+REJEITADA
+
+N
+
+CONTA ADM
+
+ORIGEM String (15) Código do cliente no
+
+Administrador
+
+CPF/CNPJ String (15) CPF ou CNPJ da conta COD CVM String (15) Código CVM da Subclasse Obrigatório, se
+
+MODALIDADE for DIRETO N
+
+Obrigatório, se CNPJ
+
+S
+
+(Preenchida pelo
+
+Sistema quando o
+
+Distribuidor de Destino
+
+realiza o upload da
+
+carta para o
+
+administrador)
+
+Obrigatório, se CNPJ da S S
+
+137
+
+SUBCLASSE classe = Null da classe = Null
+
+TIPO DE
+
+PORTABILIDADE String (15) PARCIAL TOTAL
+
+S S
+
+MOTIVO DA
+
+TRANSFERENCIA String (15)
+
+PORTABILIDADE
+
+CISÃO
+
+INCORPORACAO
+
+INTEGRALIZACAO
+
+S N
+
+138
+
+Modelo XII – Layout com informações mínimas para Portabilidade –
+
+troca de informações entre Distribuidor de Destino x Administrador
+
+Campo Formato PROTOCOLO String (12) Hexadecimal (A-Z, 0-9) CONTA ORIGEM String (20) CONTA DESTINO String (20) CNPJ DA CLASSE String (14) CNPJ ORIGEM String (14) CNPJ DESTINO String (14) MODALIDADE String (14)
+
+DATA/HORA SOLICITACAO Datetime DD/MM/AAAA
+
+HH:MM:SS
+
+Descrição Código identificação da
+
+Operação de Portabilidade
+
+Obrigatório
+
+N
+
+Preenchido pelo
+
+sistema
+
+Identificação do Investidor no
+
+Distribuidor de Origem S
+
+Identificação do Investidor no
+
+Distribuidor de Destino S
+
+Obrigatório, se
+
+CNPJ da Classe
+
+COD CVM
+
+SUBCLASSE = Null
+
+CNPJ do Distribuidor de
+
+Origem S
+
+CNPJ do Distribuidor de
+
+Destino S
+
+PCO_PCO
+
+PCO_DIRETO
+
+DIRETO_PCO
+
+DIRETO_DIRETO
+
+S
+
+Distribuidor de
+
+Destino deve
+
+indicar
+
+INTERNA
+
+Data/Hora em que o
+
+Distribuidor de Origem
+
+recebe a Solicitação de
+
+Portabilidade
+
+Preenchido pelo
+
+sistema
+
+STATUS ORIGEM String (14) APROVADA
+
+REJEITADA
+
+S
+
+Preenchida pelo
+
+Distribuidor de
+
+Origem
+
+MOTIVO DA REJEICAO String (20)
+
+Motivo pelo qual a
+
+portabilidade foi rejeitada
+
+(seja por qualquer um dos
+
+participantes)
+
+Obrigatório se
+
+status = REJEITADA
+
+DATA/HORA RESPOSTA
+
+DESTINO
+
+Datetime DD/MM/AAAA
+
+HH:MM:SS
+
+Data/Hora em que o
+
+Distribuidor de Destino
+
+respondeu à Solicitação de
+
+Portabilidade
+
+N
+
+Preenchida pelo
+
+Sistema quando o
+
+Distribuidor de
+
+Destino realiza o
+
+upload da carta
+
+para o
+
+administrador
+
+STATUS DESTINO String (14) APROVADA
+
+REJEITADA
+
+N
+
+Preenchida pelo
+
+Sistema quando o
+
+Distribuidor de
+
+Destino realiza o
+
+139
+
+upload da carta
+
+para o
+
+administrador
+
+CONTA ADM ORIGEM String (20) Código do cliente no
+
+Administrador
+
+Obrigatório, se
+
+Cliente desejar
+
+incluir conta
+
+CPF/CNPJ String (14) CPF ou CNPJ da conta S
+
+COD CVM SUBCLASSE String (14) Código CVM da Subclasse
+
+Obrigatório, se
+
+CNPJ da classe =
+
+Null
+
+TIPO DE PORTABILIDADE String (14) TOTAL
+
+PARCIAL S
+
+140
+
+Modelo XIII – Layout com informações mínimas para Portabilidade –
+
+Posição
+
+Campo Formato CONTA ADM ORIGEM String (20) CÓDIGO DO CLIENTE String (20) NOME DO CLIENTE String (60) CPF/CNPJ String (14) CNPJ DA CLASSE String (14) Obrigatório
+
+CNPJ da Classe Descrição Código do cliente no
+
+Administrador S
+
+Identificação no Distribuidor de
+
+Origem S
+
+Obrigatório, se CÓD.
+
+CVM SUBCLASSE = Null
+
+Nome do Cliente S
+
+CPF ou CNPJ da conta S
+
+DESCRICAO DO FUNDO String (40) Razão social do Fundo - da classe S
+
+NOTA String (40) Número de identificação do
+
+certificado S
+
+DATA DA MOVIMENTACAO Date DD/MM/AAAA
+
+Data original da cotização da
+
+aplicação (nos casos de
+
+cisão/incorporação será a data no
+
+fundo que deu origem a posição)
+
+S
+
+APLICAÇÃO ORIGINAL Decimal (8)
+
+Valor aplicado original descontado
+
+de movimentações (resgate,
+
+Resgate de IR e amortizações de
+
+principal), considerando a
+
+aplicação que deu origem a
+
+posição (ocorre com
+
+cisão/incorporação).
+
+S
+
+DATA DA POSICAO Date DD/MM/AAAA Data da cota da posição (do
+
+arquivo) S
+
+QUANTIDADE DE COTAS Decimal (8) Saldo em cotas na data de posição
+
+do arquivo S
+
+VALOR DA COTA Decimal (8) Valor da cota na data da posição
+
+(do arquivo) S
+
+VALOR BRUTO Decimal (8) Valor Bruto S
+
+IR Decimal (8) Valor do Imposto de Renda S
+
+IOF Decimal (8) Valor do IOF S
+
+VALOR LIQUIDO Decimal (8) Valor Líquido S
+
+IDADE NOTA Number (4)
+
+Quantidade de dias entre a data de
+
+aplicação original (se atentar para
+
+casos de cisão e incorporação) e a
+
+data atual informada no arquivo
+
+de posição. Para casos que
+
+passaram por cisão/incorporação a
+
+definição de alíquotas considera
+
+como data original a data de
+
+cotização da aplicação no fundo
+
+que deu origem a posição.
+
+S
+
+DATA ULTIMO RESGATE IR Date DD/MM/AAAA Na maioria das vezes é o come-
+
+cotas, mas alterações de S
+
+141
+
+características do fundo podem
+
+demandar cortes de IR. Ex:
+
+mudança de classificação
+
+tributária.
+
+VALOR COTA ULTIMO
+
+RESGATE IR Decimal (8)
+
+Na maioria das vezes é o come-
+
+cotas, mas alterações de
+
+características do fundo podem
+
+demandar cortes de IR. Ex:
+
+mudança de classificação
+
+tributária.
+
+S
+
+DISTRIBUIDOR String (40) Identificação da instituição origem S
+
+PROTOCOLO String (12) Hexadecimal(A-Z,0-9) Código identificação da Operação
+
+de Portabilidade
+
+S
+
+Preenchido pelo
+
+sistema
+
+COD_CVM SUBCLASSE String (15) Código CVM da Subclasse RENDIMENTO RESIDUAL
+
+COMECOTAS Decimal (8) Rendimento Residual Comecotas S
+
+IOF VIRTUAL Decimal (8) CUSTO MÉDIO String (15)
+
+Obrigatório, se
+
+subclasse
+
+"S" ou "N". Demonstra se o fundo
+
+calcula o rendimento por nota ou
+
+por custo médio.
+
+Valor do IOF Virtual N
+
+N
+
+142
+
+Modelo XIV – Layout com informações mínimas para Portabilidade –
+
+Movimentação
+
+Campo Formato Descrição Obrigatório
+
+CONTA ADM
+
+ORIGEM String (20) Código do cliente no
+
+Administrador S
+
+CNPJ DA CLASSE String (14) CNPJ da Classe
+
+DESCRICAO DO
+
+FUNDO String (40) Razão social do Fundo - da classe S
+
+DATA DA
+
+MOVIMENTACAO Date DD/MM/AAAA Data da Movimentação S
+
+DATA DA
+
+COTIZACAO Date DD/MM/AAAA Data da Cotização S
+
+CÓDIGO DO
+
+CLIENTE String (20) NOME DO CLIENTE String (60) Nome do Cliente S
+
+CPF/CNPJ String (14) CPF ou CNPJ da conta S
+
+CÓDIGO DA
+
+MOVIMENTACAO String (20) TIPO DA
+
+MOVIMENTACAO String (14)
+
+Obrigatório, se COD
+
+CVM SUBCLASSE =
+
+Null
+
+Código interno do cliente na
+
+corretora (Sinacor) S
+
+Código utilizado para identificar
+
+o tipo de movimentação S
+
+APLICACAO
+
+RESGATE_PARCIAL
+
+RESGATE_TOTAL
+
+RESGATE_COTAS
+
+RESGATE_IR
+
+APLICACAO_TRANSFERENCIA
+
+RESGATE_TRANSFERENCIA
+
+AMORTIZACAO
+
+PENALTY
+
+RESGATE_BRUTO
+
+RESGATE_LÍQUIDO
+
+S
+
+(As opções incluídas
+
+na descrição não são
+
+obrigatórias, somente
+
+sugestões)
+
+QUANTIDADE DE
+
+COTAS Decimal (8) Quantidade de Cotas S
+
+VALOR DA COTA Decimal (8) Valor da Cota S
+
+VALOR BRUTO Decimal (8) Valor Bruto S
+
+IR Decimal (8) Valor do Imposto de Renda S
+
+IOF Decimal (8) Valor do IOF S
+
+VALOR LIQUIDO Decimal (8) Valor Líquido S
+
+NOTA DA
+
+APLICACAO String (40) Nota da Aplicação S
+
+RENDIMENTO
+
+BRUTO Decimal (8) Rendimento Bruto S
+
+CÓDIGO DA
+
+ORDEM String (40) Número de identificação da
+
+ordem S
+
+DISTRIBUIDOR String (40) Identificação da instituição
+
+origem S
+
+PROTOCOLO String (12) Hexadecimal (A- Código identificação da S
+
+143
+
+Z,0-9) Operação de Portabilidade
+
+gerado pela Plataforma
+
+utilizando o CNPJ Fundo e o
+
+CÓDIGO DO CLIENTE como
+
+chave única por arquivo
+
+COD CVM
+
+SUBCLASSE String (15) Código CVM da Subclasse Obrigatório, se CNPJ
+
+da classe = Null
+
+MOTIVO DA
+
+TRANSFERENCIA String (15)
+
+PORTABILIDADE
+
+CISÃO
+
+INCORPORACAO
+
+INTEGRALIZACAO
+
+N
+
+144
+
+APÊNDICE A – MODELO PARA TRANSPARÊNCIA NA REMUNERAÇÃO DO
+
+DISTRIBUIDOR
 
 ## Art. 1º
 
-Para fins de elaboração do Extrato Trimestral previsto no Capítulo III destas Regras e Procedimentos, o Distribuidor poderá considerar
+Para fins de elaboração do Extrato Trimestral previsto no Capítulo III destas Regras e
 
-a seguinte a seguinte matriz de informações, considerando que os modelos e campos poderão ser adaptados a critério do Distribuidor de
+Procedimentos, o Distribuidor deverá considerar a seguinte matriz de informações, adaptando-se
 
-acordo com sua especificidade:
+os campos e o modelo conforme a necessidade e a seu exclusivo critério:
 
-MATRIZ - EXTRATO TRIMESTRAL
-
-REMUNERAÇÃO (valor monetário auferido) VALOR TOTAL DA
+EXTRATO TRIMESTRAL
 
 REMUNERAÇÃO
 
-MODALIDADE DE INVESTIMENTO
+MODALIDADE DE
 
-TAXA DE CONVERSÃO DE MOEDAS
+(valor monetário auferido) VALOR TOTAL DA
+
+VALOR REFERENTE A
+
+INVESTIMENTO
+
+VALOR REFERENTE A
+
+REMUNERAÇÃO
+
+SPREAD DE
+
+ORDENS DIRECIONADAS
+
+COMISSÕES E OUTRAS
+
+REMUNERAÇÃO DOS
+
+ORDENS DIRECIONADAS
+
+TAXA DE CONVERSÃO
+
+TAXA DE
+
+(conforme aplicável)
+
+CORRETAGEM
+
+DISTRIBUIÇÃO
+
+(diferença entre o
+
+custo de aquisição
 
 AUFERIDA NO
 
-TAXA DE CORRETAGEM (diferença entre o custo de
+TAXA DE
 
-TAXA DE DISTRIBUIÇÃO TAXA DE PERFORMANCE OUTROS INTERMEDIÁRIOS
+TAXA DE
 
-AMBIENTES DE NEGOCIAÇÃO
+A AMBIENTES DE
 
-COMISSÕES E OUTRAS FORMAS DE
+FORMAS DE
 
-REMUNERAÇÃO DOS ASSESSORES DE
+ASSESSORES DE
+
+A OUTROS
+
+DE MOEDAS
+
+DISTRIBUIÇÃO
+
+PERFORMANCE
+
+INTERMEDIÁRIOS
+
+NEGOCIAÇÃO
+
+ESPECÍFICOS
 
 (se aplicável)
 
-aquisição e de venda)
+REMUNERAÇÃO
 
 (se aplicável)
 
-ESPECÍFICOS (se aplicável)
-
-REMUNERAÇÃO (se aplicável)
-
-INVESTIMENTO (se aplicável)
+INVESTIMENTO
 
 PERÍODO
 
-LF e LIG R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00
+(se aplicável)
+
+(se aplicável)
+
+e de venda)
+
+(se aplicável)
+
+LF e LIG
+
+(com intermediação) R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00
 
 RENDA FIXA
 
@@ -6036,13 +7574,21 @@ COE R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00
 
 TÍTULOS PRIVADOS
 
-(Debêntures, CRI, CRA, Notas Comerciais) R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00
+(Debêntures, CRI, CRA, Notas
+
+Comerciais)
+
+R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00
 
 TOTAL R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00
 
 MERCADO À VISTA
 
-(Ações, subscrições e aluguel, ETF, fundos listados em bolsa) R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00
+(Ações, subscrições e aluguel,
+
+ETF, fundos listados em bolsa)
+
+R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00
 
 RENDA VARIÁVEL
 
@@ -6052,11 +7598,13 @@ Derivativos
 
 BOLSA R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00
 
+(PF)
+
 BALCÃO R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00
 
 TOTAL R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00
 
-FUNDOS DE INVESTIMENTO6
+FUNDOS DE INVESTIMENTO
 
 FUNDOS RENDA FIXA R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00
 
@@ -6070,35 +7618,41 @@ OUTROS R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00
 
 TOTAL R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00
 
-MAIS INFORMAÇÕES SOBRE AS PRÁTICAS REMUNERATÓRIAS E POTENCIAIS CONFLITOS DE INTERESSE ESTÃO DISPONÍVEIS EM [HIPERLINK OU ENDEREÇO DA PÁGINA NA REDE MUNDIAL DE COMPUTADORES DO INTERMEDIÁRIO].
+MAIS INFORMAÇÕES SOBRE AS PRÁTICAS REMUNERATÓRIAS E POTENCIAIS CONFLITOS DE INTERESSE ESTÃO DISPONÍVEIS EM:
 
-Incluir aqui:
+[HIPERLINK OU ENDEREÇO DA PÁGINA NA REDE MUNDIAL DE COMPUTADORES DO INTERMEDIÁRIO].
 
-1. Especificação das remunerações cujos valores não tenham como ser conhecidos pelo Distribuidor no encerramento do trimestre observado para elaboração deste documento, acompanhanda da adequada justificação da não disponibilização.
+INCLUIR AQUI:
 
-2. Aviso obrigatório para quando houver negociações de derivativos de balcão em operações customizadas sem interposição de contraparte central, ativamente solicitadas pelo investidor mediante cotação:
+1. Especificação das remunerações cujos valores não tenham como ser conhecidos pelo Distribuidor no encerramento do trimestre observado para elaboração deste documento, acompanhada da adequada
+
+justificação da não disponibilização.
+
+2. Aviso obrigatório para quando houver negociações de derivativos de balcão em operações customizadas sem interposição de contraparte central, ativamente solicitadas pelo investidor mediante cotação: “Neste
 
 NOTAS
 
-“Neste documento não constam os valores relativos à remuneração auferida pelo Distribuidor pela negociação de derivativos de balcão em operações customizadas sem interposição de contraparte central, em decorrência de o custo total da operação já apresentar informações suficientes para embasar a tomada de decisão
+documento não constam os valores relativos à remuneração auferida pelo Distribuidor pela negociação de derivativos de balcão em operações customizadas sem interposição de contraparte central, em decorrência
 
-do investidor, que solicita a operação mediante cotação“
+de o custo total da operação já apresentar informações suficientes para embasar a tomada de decisão do investidor, que solicita a operação mediante cotação”.
 
-3. Taxa proporcional anual da remuneração auferida pelo Distribuidor no período observado para elaboração deste documento, nos seguintes casos: (i) quando a realização da remuneração ocorrer integralmente ou em grande parte no momento do investimento e/ou desinvestimento, sem que haja cobranças adicionais ao
+3. Taxa proporcional anual da remuneração auferida pelo Distribuidor no período observado para elaboração deste documento, nos seguintes casos: (i) quando a realização da remuneração ocorrer integralmente
 
-longo dos trimestres durante a manutenção das posições pelo investidor (excluindo valores decorrentes de questões fiscais); e (ii) Para o pagamento da taxa de performance, comumente realizada semestralmente, na Distribuição de Fundos de Investimento.
+ou em grande parte no momento do investimento e/ou desinvestimento, sem que haja cobranças adicionais ao longo dos trimestres durante a manutenção das posições pelo investidor (excluindo valores decorrentes
+
+de questões fiscais); e (ii) para o pagamento da taxa de performance, comumente realizada semestralmente, na Distribuição de Fundos de Investimento.
 
 APÊNDICE B – CLASSIFICAÇÃO DE RISCO DE PRODUTOS DE
 
-INVESTIMENTO NO EXTERIOR PARA FINS DE ACOMPANHAMENTO DE
+INVESTIMENTO NO EXTERIOR PARA FINS DE ACOMPANHAMENTO
 
-CARTEIRA EM MELHORES PRÁTICAS
+DE CARTEIRA
 
 Produtos de Investimento no Exterior – RENDA FIXA (BONDS) Investment
 
 Grade
 
-Non Investment
+Non-Investment
 
 Grade
 
@@ -6110,7 +7664,7 @@ Emissor PÚBLICO com prazo de vencimento de 3 anos e até 5 anos 0,75 1,50
 
 Emissor PÚBLICO com prazo de vencimento de 5 anos e até 10 anos 1,25 2,00
 
-Emissor PÚBLICO com prazo de vencimento acima de 10 anos 2.25 3,00
+Emissor PÚBLICO com prazo de vencimento acima de 10 anos 2,25 3,00
 
 Emissor CORPORATIVO com prazo de vencimento até 1 ano 0,75 1,75
 
@@ -6120,23 +7674,21 @@ Emissor CORPORATIVO com prazo de vencimento de 2 anos e até 4 anos 1,50 2,25
 
 Emissor CORPORATIVO com prazo de vencimento de 4 anos e até 6 anos 2,00 2,75
 
-Emissor CORPORATIVO com prazo de vencimento de 6 anos e até 8 anos 2,50 3,50
+Emissor CORPORATIVO com prazo de vencimento de 6 anos e até 8 anos 2,50 3,00
 
-Emissor CORPORATIVO com prazo de vencimento acima de 10 anos 3,00 4,00
+Emissor CORPORATIVO com prazo de vencimento de 8 anos e até 10
 
-Produtos de Investimento no
+anos 3,00 3,50
 
-Investment
+Emissor CORPORATIVO com prazo de vencimento acima de 10 anos 3,50 4,00
 
-Non Investment
-
-Exterior – FUNDO DE
+Produtos de Investimento no Exterior – FUNDO DE INVESTIMENTO/ETF Investment
 
 Grade
 
-Grade
+Non-Investment
 
-INVESTIMENTO/ETF
+Grade
 
 Renda Fixa com duration baixa (de até 2 anos) 0,75 1,00
 
@@ -6146,4 +7698,4 @@ Money Market e similares 0,25
 
 Ações 3,00 3,50
 
-Demais Fundos/ETFs Classificação conforme ativo
+Demais Fundos/ETFs Classificação conforme ativo de

@@ -9,21 +9,21 @@ Norma: [cvm/resolucoes/0045.md](../../normas/cvm/resolucoes/0045.md) (texto vige
 
 ## Sumário
 
-Este subíndice tem 3493 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+Este subíndice tem 3497 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
 
-art. 1º (28); art. 2º (34); art. 3º (45); art. 4º (62); art. 5º (197); art. 6º (310); art. 7º (376)
-art. 8º (438); art. 10 (445); art. 11 (452); art. 12 (463); art. 13 (469); art. 14 (509); art. 15 (519)
-art. 16 (529); art. 17 (541); art. 21 (547); art. 22 (564); art. 23 (570); art. 24 (583); art. 25 (597)
-art. 27 (610); art. 28 (616); art. 28-A (675); art. 29 (681); art. 30 (702); art. 32 (708); art. 33 (721)
-art. 34 (730); art. 35 (744); art. 36 (751); art. 38 (793); art. 39 (816); art. 40 (827); art. 41 (833)
-art. 42 (843); art. 43 (865); art. 44 (910); art. 45 (921); art. 46 (927); art. 47 (943); art. 48 (954)
-art. 49 (961); art. 50 (1121); art. 51 (1131); art. 54 (1137); art. 55 (1143); art. 57 (1153); art. 60 (1161)
-art. 61 (1181); art. 62 (1211); art. 63 (1235); art. 64 (1265); art. 65 (1279); art. 66 (1365); art. 67 (1504)
-art. 68 (1516); art. 70 (1533); art. 71 (1791); art. 72 (1843); art. 73 (1852); art. 74 (1883); art. 76 (1929)
-art. 80 (1963); art. 81 (1969); art. 82 (1981); art. 83 (2236); art. 84 (2727); art. 85 (2778); art. 86 (2788)
-art. 87 (3094); art. 88 (3104); art. 89 (3114); art. 90 (3121); art. 91 (3128); art. 103 (3319)
-art. 116 (3325); art. 637 (3349); art. 668 (3355); art. 734 (3361); art. 746 (3367); art. 769 (3373)
-Anexo B, art. 1º (3379); Anexo C, art. 1º (3404); Citada sem dispositivo identificado (3413)
+art. 1º (28); art. 2º (34); art. 3º (45); art. 4º (62); art. 5º (197); art. 6º (311); art. 7º (377)
+art. 8º (439); art. 10 (446); art. 11 (453); art. 12 (464); art. 13 (470); art. 14 (510); art. 15 (520)
+art. 16 (530); art. 17 (542); art. 21 (548); art. 22 (565); art. 23 (571); art. 24 (584); art. 25 (598)
+art. 27 (611); art. 28 (617); art. 28-A (676); art. 29 (682); art. 30 (703); art. 32 (709); art. 33 (722)
+art. 34 (731); art. 35 (745); art. 36 (752); art. 38 (794); art. 39 (817); art. 40 (828); art. 41 (834)
+art. 42 (844); art. 43 (866); art. 44 (911); art. 45 (922); art. 46 (928); art. 47 (944); art. 48 (955)
+art. 49 (962); art. 50 (1122); art. 51 (1132); art. 54 (1138); art. 55 (1144); art. 57 (1154); art. 60 (1162)
+art. 61 (1182); art. 62 (1212); art. 63 (1236); art. 64 (1266); art. 65 (1280); art. 66 (1366); art. 67 (1505)
+art. 68 (1517); art. 70 (1534); art. 71 (1792); art. 72 (1844); art. 73 (1853); art. 74 (1884); art. 76 (1930)
+art. 80 (1964); art. 81 (1970); art. 82 (1982); art. 83 (2237); art. 84 (2730); art. 85 (2781); art. 86 (2791)
+art. 87 (3098); art. 88 (3108); art. 89 (3118); art. 90 (3125); art. 91 (3132); art. 103 (3323)
+art. 116 (3329); art. 637 (3353); art. 668 (3359); art. 734 (3365); art. 746 (3371); art. 769 (3377)
+Anexo B, art. 1º (3383); Anexo C, art. 1º (3408); Citada sem dispositivo identificado (3417)
 
 ## art. 1º
 
@@ -240,6 +240,7 @@ Anexo B, art. 1º (3379); Anexo C, art. 1º (3404); Citada sem dispositivo ident
 | art. 5º | termo-compromisso | 19957.000374/2024-30 | 2026-04-07 | aceito | cvm-col-20260407-d3467 | fichas/tc/2026-01.md |
 | art. 5º | termo-compromisso | 19957.004558/2025-50 | 2026-04-07 | outro | cvm-col-20260407-d3472 | fichas/tc/2026-01.md |
 | art. 5º | termo-compromisso | 19957.008954/2024-75 | 2026-06-23 | outro | cvm-col-20260623-d3203 | fichas/tc/2026-01.md |
+| art. 5º | termo-compromisso | 19957.012115/2025-32 | 2026-08-04 | rejeitado | cvm-col-20260804-d3497 | fichas/tc/2026-02.md |
 | art. 5º | pas | 19957.002344/2021-15 | 2022-10-25 | condenacao | cvm-pas-19957-002344-2021-15 | fichas/pas/2022-10.md |
 | art. 5º | pas | 19957.001292/2022-41 | 2023-12-12 | condenacao | cvm-pas-19957-001292-2022-41 | fichas/pas/2023-16.md |
 | art. 5º | pas | 19957.001482/2020-04 | 2023-11-14 | condenacao | cvm-pas-19957-001482-2020-04 | fichas/pas/2023-14.md |
@@ -2502,6 +2503,7 @@ Anexo B, art. 1º (3379); Anexo C, art. 1º (3404); Citada sem dispositivo ident
 | art. 83 | termo-compromisso | 19957.011252/2025-50 | 2026-06-23 | rejeitado | cvm-col-20260623-d3533 | fichas/tc/2026-02.md |
 | art. 83 | termo-compromisso | 19957.009587/2025-16 | 2026-06-23 | aceito | cvm-col-20260623-d3553 | fichas/tc/2026-02.md |
 | art. 83 | termo-compromisso | 19957.001449/2022-38 | 2026-07-21 | aceito | cvm-col-20260721-d3295 | fichas/tc/2026-02.md |
+| art. 83 | termo-compromisso | 19957.012115/2025-32 | 2026-08-04 | rejeitado | cvm-col-20260804-d3497 | fichas/tc/2026-02.md |
 | art. 83 | pas | 19957.010489/2021-90 | 2025-08-19 | absolvicao | cvm-pas-19957-010489-2021-90 | fichas/pas/2025-07.md |
 | art. 83, § 4º | termo-compromisso | 19957.002010/2021-41 | 2022-02-08 | aceito | cvm-col-20220208-d2472 | fichas/tc/2022-01.md |
 | art. 83, § 4º | termo-compromisso | 19957.009826/2019-81 | 2022-02-22 | aceito | cvm-col-20220222-d2479 | fichas/tc/2022-01.md |
@@ -2719,6 +2721,7 @@ Anexo B, art. 1º (3379); Anexo C, art. 1º (3404); Citada sem dispositivo ident
 | art. 83, § 4º | termo-compromisso | 19957.000946/2023-08 | 2026-06-23 | rejeitado | cvm-col-20260623-d3392 | fichas/tc/2026-02.md |
 | art. 83, § 4º | termo-compromisso | 19957.009587/2025-16 | 2026-06-23 | aceito | cvm-col-20260623-d3553 | fichas/tc/2026-02.md |
 | art. 83, § 4º | termo-compromisso | 19957.001449/2022-38 | 2026-07-21 | aceito | cvm-col-20260721-d3295 | fichas/tc/2026-02.md |
+| art. 83, § 4º | termo-compromisso | 19957.012115/2025-32 | 2026-08-04 | rejeitado | cvm-col-20260804-d3497 | fichas/tc/2026-02.md |
 | art. 83, § 4º | pas | 19957.010223/2019-22 | 2023-07-11 | condenacao | cvm-pas-19957-010223-2019-22 | fichas/pas/2023-07.md |
 | art. 83, § 4º | pas | 19957.010489/2021-90 | 2025-08-19 | absolvicao | cvm-pas-19957-010489-2021-90 | fichas/pas/2025-07.md |
 | art. 83, § 5º | termo-compromisso | 19957.004747/2021-07 | 2022-04-19 | aceito | cvm-col-20220419-d2562 | fichas/tc/2022-02.md |
@@ -3074,6 +3077,7 @@ Anexo B, art. 1º (3379); Anexo C, art. 1º (3404); Citada sem dispositivo ident
 | art. 86 | termo-compromisso | 19957.011252/2025-50 | 2026-06-23 | rejeitado | cvm-col-20260623-d3533 | fichas/tc/2026-02.md |
 | art. 86 | termo-compromisso | 19957.009587/2025-16 | 2026-06-23 | aceito | cvm-col-20260623-d3553 | fichas/tc/2026-02.md |
 | art. 86 | termo-compromisso | 19957.001449/2022-38 | 2026-07-21 | aceito | cvm-col-20260721-d3295 | fichas/tc/2026-02.md |
+| art. 86 | termo-compromisso | 19957.012115/2025-32 | 2026-08-04 | rejeitado | cvm-col-20260804-d3497 | fichas/tc/2026-02.md |
 | art. 86 | pas | 19957.007550/2019-05 | 2023-12-21 | condenacao | cvm-pas-19957-007550-2019-05 | fichas/pas/2023-19.md |
 | art. 86 | pas | 19957.010255/2021-42 | 2024-11-05 | absolvicao | cvm-pas-19957-010255-2021-42 | fichas/pas/2024-19.md |
 | art. 86 | pas | 19957.010489/2021-90 | 2025-08-19 | absolvicao | cvm-pas-19957-010489-2021-90 | fichas/pas/2025-07.md |

@@ -2287,6 +2287,15 @@
     "caminho": "cvm/oficios-circulares/sep/oc-sep-0725.md"
   },
   {
+    "id": "cvm-oc-sep-0726",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SEP 07/26",
+    "ementa": "Prorrogação excepcional do prazo de apresentação do Formulário de Informações Trimestrais – ITR",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sep/oc-sep-0726.md"
+  },
+  {
     "id": "cvm-oc-sep-0824",
     "tipo": "oficio-circular",
     "titulo": "Ofício Circular CVM/SEP 08/24",
@@ -3311,6 +3320,15 @@
     "situacao": "nao-informada",
     "vigente_ate_ato": "",
     "caminho": "cvm/oficios-circulares/sse-sin-snc/oc-snc-sse-sin-0125.md"
+  },
+  {
+    "id": "cvm-oc-snc-sse-sin-0126",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular Conjunto CVM/SNC/SSE/SIN N° 01/26",
+    "ementa": "Interpretação do art. 69 da Parte Geral da Resolução CVM nº 175 - demonstrações contábeis de fundos e classes em atividade há menos de 90 dias.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sse-sin-snc/oc-snc-sse-sin-0126.md"
   },
   {
     "id": "cvm-oc-sin-0623-sse1",
@@ -5151,7 +5169,7 @@
     "situacao": "vigente",
     "vigente_ate_ato": "",
     "caminho": "autorregulacao/anbima/codigo-de-administracao-de-recursos-de-terceiros.md",
-    "baixado_em": "2026-10-29"
+    "baixado_em": "2026-11-18"
   },
   {
     "id": "anbima-codigo-de-distribuicao-de-produtos-de-investimento",
@@ -5161,7 +5179,7 @@
     "situacao": "vigente",
     "vigente_ate_ato": "",
     "caminho": "autorregulacao/anbima/codigo-de-distribuicao-de-produtos-de-investimento.md",
-    "baixado_em": "2026-10-29"
+    "baixado_em": "2026-11-18"
   },
   {
     "id": "anbima-codigo-de-etica-para-associados",
@@ -5181,7 +5199,7 @@
     "situacao": "vigente",
     "vigente_ate_ato": "",
     "caminho": "autorregulacao/anbima/codigo-de-ofertas-publicas.md",
-    "baixado_em": "2026-10-29"
+    "baixado_em": "2026-11-18"
   },
   {
     "id": "anbima-codigo-de-servicos-qualificados",
@@ -5191,7 +5209,7 @@
     "situacao": "vigente",
     "vigente_ate_ato": "",
     "caminho": "autorregulacao/anbima/codigo-de-servicos-qualificados.md",
-    "baixado_em": "2026-10-29"
+    "baixado_em": "2026-11-18"
   },
   {
     "id": "anbima-codigo-dos-processos",
@@ -5231,7 +5249,7 @@
     "situacao": "vigente",
     "vigente_ate_ato": "",
     "caminho": "autorregulacao/anbima/regras-e-procedimentos-de-deveres-basicos.md",
-    "baixado_em": "2026-10-29"
+    "baixado_em": "2026-11-18"
   },
   {
     "id": "anbima-regras-e-procedimentos-de-ofertas-publicas",
@@ -5241,7 +5259,7 @@
     "situacao": "vigente",
     "vigente_ate_ato": "",
     "caminho": "autorregulacao/anbima/regras-e-procedimentos-de-ofertas-publicas.md",
-    "baixado_em": "2026-10-29"
+    "baixado_em": "2026-11-18"
   },
   {
     "id": "anbima-regras-e-procedimentos-do-codigo-de-administracao-e-gestao-de-recursos",
@@ -5251,7 +5269,7 @@
     "situacao": "vigente",
     "vigente_ate_ato": "",
     "caminho": "autorregulacao/anbima/regras-e-procedimentos-do-codigo-de-administracao-e-gestao-de-recursos.md",
-    "baixado_em": "2026-10-29"
+    "baixado_em": "2026-11-18"
   },
   {
     "id": "anbima-regras-e-procedimentos-do-codigo-de-distribuicao",
@@ -5261,7 +5279,7 @@
     "situacao": "vigente",
     "vigente_ate_ato": "",
     "caminho": "autorregulacao/anbima/regras-e-procedimentos-do-codigo-de-distribuicao.md",
-    "baixado_em": "2026-10-29"
+    "baixado_em": "2026-11-18"
   },
   {
     "id": "anbima-regras-e-procedimentos-do-codigo-de-negociacao",
@@ -5281,7 +5299,7 @@
     "situacao": "vigente",
     "vigente_ate_ato": "",
     "caminho": "autorregulacao/anbima/regras-e-procedimentos-do-codigo-de-servicos-qualificados.md",
-    "baixado_em": "2026-10-29"
+    "baixado_em": "2026-11-18"
   },
   {
     "id": "anbima-regras-e-procedimentos-para-adesao-e-associacao-aos-codigos",
@@ -5881,7 +5899,7 @@
     "situacao": "vigente",
     "vigente_ate_ato": "",
     "caminho": "autorregulacao/anbima/glossario-anbima.md",
-    "baixado_em": "2026-10-29"
+    "baixado_em": "2026-11-18"
   },
   {
     "id": "b3-glossario-das-normas-da-camara-b3",

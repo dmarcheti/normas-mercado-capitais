@@ -7,6 +7,12 @@ Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho rel
 
 Norma: [cvm/resolucoes/0017.md](../../normas/cvm/resolucoes/0017.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
+## art. 3º
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 3º, parágrafo único | decisao-colegiado | 19957.016195/2026-86 | 2026-10-27 | deferido | cvm-col-20261027-d3644 | fichas/colegiado/2026-03.md |
+
 ## art. 6º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
@@ -21,6 +27,12 @@ Norma: [cvm/resolucoes/0017.md](../../normas/cvm/resolucoes/0017.md) (texto vige
 | art. 6º, inciso VI | decisao-colegiado | 17/2021; 19957.012150/2022-17 | 2024-10-01 | — | cvm-col-20241001-d3140 | fichas/colegiado/2024-10.md |
 | art. 6º, inciso VII | decisao-colegiado | 19957.001605/2021-80 | 2022-02-15 | deferido | cvm-col-20220215-d2482 | fichas/colegiado/2022-02.md |
 | art. 6º, inciso VII | decisao-colegiado | 17/2021; 19957.012150/2022-17 | 2024-10-01 | — | cvm-col-20241001-d3140 | fichas/colegiado/2024-10.md |
+
+## art. 7º
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 7º | decisao-colegiado | 19957.016195/2026-86 | 2026-10-27 | deferido | cvm-col-20261027-d3644 | fichas/colegiado/2026-03.md |
 
 ## art. 11
 

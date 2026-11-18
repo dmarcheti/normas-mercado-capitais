@@ -140,7 +140,7 @@ Este subíndice tem 674 linhas e uma leitura única é cortada em silêncio pert
 | [Resolução CVM nº 163/2022](norma-cvm-res-163.md) | 1 |
 | [Resolução CVM nº 165/2022](norma-cvm-res-165.md) | 1 |
 | [Resolução CVM nº 166/2022](norma-cvm-res-166.md) | 2 |
-| [Resolução CVM nº 17/2021](norma-cvm-res-17.md) | 11 |
+| [Resolução CVM nº 17/2021](norma-cvm-res-17.md) | 12 |
 | [Resolução CVM nº 172/2022](norma-cvm-res-172.md) | 5 |
 | [Resolução CVM nº 175/2022](norma-cvm-res-175.md) | 76 |
 | [Resolução CVM nº 176/2022](norma-cvm-res-176.md) | 1 |
@@ -186,7 +186,7 @@ Este subíndice tem 674 linhas e uma leitura única é cortada em silêncio pert
 | [Resolução CVM nº 42/2021](norma-cvm-res-42.md) | 5 |
 | [Resolução CVM nº 43/2021](norma-cvm-res-43.md) | 2 |
 | [Resolução CVM nº 44/2021](norma-cvm-res-44.md) | 164 |
-| [Resolução CVM nº 45/2021](norma-cvm-res-45.md) | 828 |
+| [Resolução CVM nº 45/2021](norma-cvm-res-45.md) | 829 |
 | [Resolução CVM nº 46/2021](norma-cvm-res-46.md) | 206 |
 | [Resolução CVM nº 47/2021](norma-cvm-res-47.md) | 114 |
 | [Resolução CVM nº 48/2021](norma-cvm-res-48.md) | 26 |
@@ -200,7 +200,7 @@ Este subíndice tem 674 linhas e uma leitura única é cortada em silêncio pert
 | [Resolução CVM nº 57/2021](norma-cvm-res-57.md) | 1 |
 | [Resolução CVM nº 6/2020](norma-cvm-res-6.md) | 6 |
 | [Resolução CVM nº 60/2021](norma-cvm-res-60.md) | 22 |
-| [Resolução CVM nº 62/2022](norma-cvm-res-62.md) | 121 |
+| [Resolução CVM nº 62/2022](norma-cvm-res-62.md) | 122 |
 | [Resolução CVM nº 67/2022](norma-cvm-res-67.md) | 85 |
 | [Resolução CVM nº 68/2022](norma-cvm-res-68.md) | 1 |
 | [Resolução CVM nº 70/2022](norma-cvm-res-70.md) | 6 |
@@ -208,7 +208,7 @@ Este subíndice tem 674 linhas e uma leitura única é cortada em silêncio pert
 | [Resolução CVM nº 77/2022](norma-cvm-res-77.md) | 14 |
 | [Resolução CVM nº 78/2022](norma-cvm-res-78.md) | 5 |
 | [Resolução CVM nº 8/2020](norma-cvm-res-8.md) | 7 |
-| [Resolução CVM nº 80/2022](norma-cvm-res-80.md) | 127 |
+| [Resolução CVM nº 80/2022](norma-cvm-res-80.md) | 128 |
 | [Resolução CVM nº 81/2022](norma-cvm-res-81.md) | 67 |
 | [Resolução CVM nº 82/2022](norma-cvm-res-82.md) | 1 |
 | [Resolução CVM nº 84/2022](norma-cvm-res-84.md) | 2 |
@@ -227,7 +227,7 @@ Este subíndice tem 674 linhas e uma leitura única é cortada em silêncio pert
 | [Resolução CVM nº 99/2022](norma-cvm-res-99.md) | 1 |
 | [Lei nº 10.198/2001](norma-lei-10198.md) | 27 |
 | [Lei nº 10.214/2001](norma-lei-10214.md) | 12 |
-| [Lei nº 10.406/2002](norma-lei-10406.md) | 663 |
+| [Lei nº 10.406/2002](norma-lei-10406.md) | 664 |
 | [Lei nº 10.931/2004](norma-lei-10931.md) | 32 |
 | [Lei nº 11.033/2004](norma-lei-11033.md) | 12 |
 | [Lei nº 11.076/2004](norma-lei-11076.md) | 40 |
@@ -243,8 +243,8 @@ Este subíndice tem 674 linhas e uma leitura única é cortada em silêncio pert
 | [Lei nº 14.754/2023](norma-lei-14754.md) | 1 |
 | [Lei nº 4.595/1964](norma-lei-4595.md) | 70 |
 | [Lei nº 4.728/1965](norma-lei-4728.md) | 45 |
-| [Lei nº 6.385/1976](norma-lei-6385.md) | 5627 |
-| [Lei nº 6.404/1976](norma-lei-6404.md) | 4106 |
+| [Lei nº 6.385/1976](norma-lei-6385.md) | 5629 |
+| [Lei nº 6.404/1976](norma-lei-6404.md) | 4107 |
 | [Lei nº 7.913/1989](norma-lei-7913.md) | 10 |
 | [Lei nº 8.668/1993](norma-lei-8668.md) | 50 |
 | [Lei nº 8.929/1994](norma-lei-8929.md) | 14 |
@@ -302,7 +302,7 @@ Este subíndice tem 674 linhas e uma leitura única é cortada em silêncio pert
 | [deliberacao-cvm-390](norma-fora-deliberacao-cvm-390.md) | 1326 |
 | [deliberacao-cvm-447](norma-fora-deliberacao-cvm-447.md) | 41 |
 | [deliberacao-cvm-457](norma-fora-deliberacao-cvm-457.md) | 208 |
-| [deliberacao-cvm-463](norma-fora-deliberacao-cvm-463.md) | 803 |
+| [deliberacao-cvm-463](norma-fora-deliberacao-cvm-463.md) | 804 |
 | [deliberacao-cvm-466](norma-fora-deliberacao-cvm-466.md) | 10 |
 | [deliberacao-cvm-467](norma-fora-deliberacao-cvm-467.md) | 12 |
 | [deliberacao-cvm-475](norma-fora-deliberacao-cvm-475.md) | 17 |
@@ -455,12 +455,12 @@ Este subíndice tem 674 linhas e uma leitura única é cortada em silêncio pert
 | [icvm-452](norma-fora-icvm-452.md) | 2403 |
 | [icvm-456](norma-fora-icvm-456.md) | 11 |
 | [icvm-457](norma-fora-icvm-457.md) | 36 |
-| [icvm-461](norma-fora-icvm-461.md) | 631 |
+| [icvm-461](norma-fora-icvm-461.md) | 632 |
 | [icvm-463](norma-fora-icvm-463.md) | 32 |
 | [icvm-465](norma-fora-icvm-465.md) | 12 |
 | [icvm-467](norma-fora-icvm-467.md) | 14 |
 | [icvm-472](norma-fora-icvm-472.md) | 151 |
-| [icvm-476](norma-fora-icvm-476.md) | 236 |
+| [icvm-476](norma-fora-icvm-476.md) | 237 |
 | [icvm-48](norma-fora-icvm-48.md) | 20 |
 | [icvm-480](norma-fora-icvm-480.md) | 1989 |
 | [icvm-481](norma-fora-icvm-481.md) | 513 |
@@ -539,7 +539,7 @@ Este subíndice tem 674 linhas e uma leitura única é cortada em silêncio pert
 | [lei-12683](norma-fora-lei-12683.md) | 12 |
 | [lei-12846](norma-fora-lei-12846.md) | 13 |
 | [lei-12850](norma-fora-lei-12850.md) | 19 |
-| [lei-13105](norma-fora-lei-13105.md) | 1558 |
+| [lei-13105](norma-fora-lei-13105.md) | 1559 |
 | [lei-13303](norma-fora-lei-13303.md) | 46 |
 | [lei-13655](norma-fora-lei-13655.md) | 15 |
 | [lei-13709](norma-fora-lei-13709.md) | 26 |
@@ -557,7 +557,7 @@ Este subíndice tem 674 linhas e uma leitura única é cortada em silêncio pert
 | [lei-5172](norma-fora-lei-5172.md) | 145 |
 | [lei-6](norma-fora-lei-6.md) | 41 |
 | [lei-6015](norma-fora-lei-6015.md) | 19 |
-| [lei-6024](norma-fora-lei-6024.md) | 80 |
+| [lei-6024](norma-fora-lei-6024.md) | 81 |
 | [lei-6358](norma-fora-lei-6358.md) | 18 |
 | [lei-6386](norma-fora-lei-6386.md) | 30 |
 | [lei-6406](norma-fora-lei-6406.md) | 14 |
@@ -669,6 +669,6 @@ Este subíndice tem 674 linhas e uma leitura única é cortada em silêncio pert
 | [Fora do acervo, família po-cvm: 13 normas com menos de 10 julgados cada](norma-fora-outras-po-cvm.md) | 11 |
 | [Fora do acervo, família res-bcb: 22 normas com menos de 10 julgados cada](norma-fora-outras-res-bcb.md) | 27 |
 | [Fora do acervo, família res-cmn: 249 normas com menos de 10 julgados cada](norma-fora-outras-res-cmn.md) | 327 |
-| [Fora do acervo, família res-cvm: 220 normas com menos de 10 julgados cada](norma-fora-outras-res-cvm.md) | 319 |
+| [Fora do acervo, família res-cvm: 221 normas com menos de 10 julgados cada](norma-fora-outras-res-cvm.md) | 320 |
 
 Fim do subíndice.

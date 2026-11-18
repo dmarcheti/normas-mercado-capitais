@@ -7,6 +7,12 @@ Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho rel
 
 Norma: [cvm/resolucoes/0062.md](../../normas/cvm/resolucoes/0062.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
+## art. 1º
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 1º | termo-compromisso | 19957.012115/2025-32 | 2026-08-04 | rejeitado | cvm-col-20260804-d3497 | fichas/tc/2026-02.md |
+
 ## art. 2º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
@@ -34,6 +40,7 @@ Norma: [cvm/resolucoes/0062.md](../../normas/cvm/resolucoes/0062.md) (texto vige
 | art. 2º, inciso II | termo-compromisso | 19957.003051/2024-06 | 2025-10-14 | aceito | cvm-col-20251014-d3380 | fichas/tc/2025-04.md |
 | art. 2º, inciso II | termo-compromisso | 19957.018693/2024-00 | 2025-11-11 | aceito | cvm-col-20251111-d3417 | fichas/tc/2025-05.md |
 | art. 2º, inciso II | termo-compromisso | 19957.008954/2024-75 | 2026-06-23 | outro | cvm-col-20260623-d3203 | fichas/tc/2026-01.md |
+| art. 2º, inciso II | termo-compromisso | 19957.012115/2025-32 | 2026-08-04 | rejeitado | cvm-col-20260804-d3497 | fichas/tc/2026-02.md |
 | art. 2º, inciso II | pas | 19957.005390/2017-90 | 2023-10-31 | parcial | cvm-pas-19957-005390-2017-90 | fichas/pas/2023-13.md |
 | art. 2º, inciso II | pas | 19957.001865/2024-06 | 2024-11-05 | condenacao | cvm-pas-19957-001865-2024-06 | fichas/pas/2024-18.md |
 | art. 2º, inciso II | pas | 19957.013886/2022-02 | 2025-11-25 | parcial | cvm-pas-19957-013886-2022-02 | fichas/pas/2025-09.md |
@@ -104,6 +111,7 @@ Norma: [cvm/resolucoes/0062.md](../../normas/cvm/resolucoes/0062.md) (texto vige
 | art. 3º | termo-compromisso | 19957.011239/2025-09 | 2026-05-19 | rejeitado | cvm-col-20260519-d3531 | fichas/tc/2026-01.md |
 | art. 3º | termo-compromisso | 19957.008954/2024-75 | 2026-06-23 | outro | cvm-col-20260623-d3203 | fichas/tc/2026-01.md |
 | art. 3º | termo-compromisso | 19957.021536/2024-73 | 2026-06-23 | outro | cvm-col-20260623-d3353 | fichas/tc/2026-02.md |
+| art. 3º | termo-compromisso | 19957.012115/2025-32 | 2026-08-04 | rejeitado | cvm-col-20260804-d3497 | fichas/tc/2026-02.md |
 | art. 3º | pas | 19957.004852/2019-13 | 2022-08-30 | condenacao | cvm-pas-19957-004852-2019-13 | fichas/pas/2022-07.md |
 | art. 3º | pas | 19957.006511/2019-82 | 2022-06-14 | condenacao | cvm-pas-19957-006511-2019-82 | fichas/pas/2022-05.md |
 | art. 3º | pas | 19957.002835/2022-47 | 2023-08-29 | condenacao | cvm-pas-19957-002835-2022-47 | fichas/pas/2023-09.md |
@@ -136,6 +144,7 @@ Norma: [cvm/resolucoes/0062.md](../../normas/cvm/resolucoes/0062.md) (texto vige
 | art. 4º | termo-compromisso | 19957.018693/2024-00 | 2025-11-11 | aceito | cvm-col-20251111-d3417 | fichas/tc/2025-05.md |
 | art. 4º | termo-compromisso | 19957.007592/2025-86 | 2026-05-12 | aceito | cvm-col-20260512-d3528 | fichas/tc/2026-01.md |
 | art. 4º | termo-compromisso | 19957.008954/2024-75 | 2026-06-23 | outro | cvm-col-20260623-d3203 | fichas/tc/2026-01.md |
+| art. 4º | termo-compromisso | 19957.012115/2025-32 | 2026-08-04 | rejeitado | cvm-col-20260804-d3497 | fichas/tc/2026-02.md |
 | art. 4º | pas | 19957.004852/2019-13 | 2022-08-30 | condenacao | cvm-pas-19957-004852-2019-13 | fichas/pas/2022-07.md |
 | art. 4º | pas | 19957.006511/2019-82 | 2022-06-14 | condenacao | cvm-pas-19957-006511-2019-82 | fichas/pas/2022-05.md |
 | art. 4º | pas | 19957.005388/2017-11 | 2023-10-31 | absolvicao | cvm-pas-19957-005388-2017-11 | fichas/pas/2023-13.md |

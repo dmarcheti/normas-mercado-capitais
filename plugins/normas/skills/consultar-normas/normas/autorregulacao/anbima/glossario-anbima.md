@@ -3,7 +3,7 @@ id: anbima-glossario-anbima
 orgao: anbima
 tipo: glossario
 numero:
-data: 2026-10-29
+data: 2026-11-16
 publicacao_dou:
 ementa: Glossário ANBIMA
 situacao: vigente
@@ -11,18 +11,18 @@ versao_texto: original
 vigente_ate_ato:
 aguarda_consolidado_oficial: false
 historico_parcial: true
-fonte_original: https://www.anbima.com.br/data/files/E7/72/96/DC/1D5F8910C03A3F89B82BA2A8/Glossario_ANBIMA_v_25_08_2025.pdf
-fonte_consolidada: https://www.anbima.com.br/data/files/E7/72/96/DC/1D5F8910C03A3F89B82BA2A8/Glossario_ANBIMA_v_25_08_2025.pdf
-sha256_fonte: 005fd6fb7b05f921537a1ab2caf9c7437341eef27409bbb197a455818975c5ac
-baixado_em: 2026-10-29
-verificado_em: 2026-10-29
-incerteza: Documento de autorregulação da ANBIMA (sem data no documento nem na página; 2026-10-29 é a data da leitura da página [verificar]), extraído por script do PDF, data-base 2026-10-29. Vincula só as instituições aderentes ou participantes. Texto de titularidade da ANBIMA, reproduzido para uso informativo; retirado a pedido (ver autorregulacao/README.md). Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A página final de registro das assinaturas eletrônicas do PDF (nomes, e-mails, IP e localização dos signatários) foi retirada; a validação das assinaturas é feita no PDF oficial.
+fonte_original: https://www.anbima.com.br/data/files/0E/73/07/23/194E1A103AD8EA1A692BA2A8/Glossario_04_01_2027.PDF
+fonte_consolidada: https://www.anbima.com.br/data/files/0E/73/07/23/194E1A103AD8EA1A692BA2A8/Glossario_04_01_2027.PDF
+sha256_fonte: 3399439994874abf67f03b71eeb56a61799c46fa2518be5b77b34c13cb6d65f7
+baixado_em: 2026-11-18
+verificado_em: 2026-11-18
+incerteza: Documento de autorregulação da ANBIMA (data 2026-11-16 do cabeçalho Last-Modified do PDF [verificar a vigência]), extraído por script do PDF, data-base 2026-11-18. Vincula só as instituições aderentes ou participantes. Texto de titularidade da ANBIMA, reproduzido para uso informativo; retirado a pedido (ver autorregulacao/README.md). Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A página final de registro das assinaturas eletrônicas do PDF (nomes, e-mails, IP e localização dos signatários) foi retirada; a validação das assinaturas é feita no PDF oficial.
 nivel_verificacao: pdf-extraido
 ---
 
 Glossário ANBIMA
 
-(Versão de Agosto/2025)
+(Novembro/2026)
 
 INTRODUÇÃO
 
@@ -68,133 +68,137 @@ Aderentes
 
 Administração Direta
 
-Administração e Gestão de Recursos de
+Administração e Gestão de Recursos de Tercei-
 
-Terceiros
+ros
 
 Administração Fiduciária Administração Indireta
 
-Administração Pública Administrador Fiduciário Agente Autônomo de Investimento ou
-
-AAI
-
-Agente de Notas
-
-Definição
-
-Documento ou arranjo de qualquer natureza celebrado entre
-
-os Prestadores de Serviços Essenciais para fins da prestação
-
-dos serviços essenciais de Administração Fiduciária e de Ges-
-
-tão de Recursos aos Fundos.
-
-Instituições que aderem aos Códigos ANBIMA e se vinculam à
-
-ANBIMA por meio contratual, ficando sujeitas às regras espe-
-
-cíficas dos Códigos aos quais aderiram.
-
-Tem o significado atribuído pelo artigo 4º, inciso I, do Decreto-
-
-Lei nº 200/67, ou qualquer outra norma que venha a revogá-
-
-lo ou substituí-lo.
-
-Atividades de Administração Fiduciária, Gestão de Recursos de
-
-Terceiros e Gestão de Patrimônio Financeiro
-
-Tem o significado atribuído pelo Código de AGRT.
-
-Tem o significado atribuído pelo artigo 4º, inciso II, do Decreto-
-
-Lei nº 200/67, ou qualquer outra norma que venha a revogá-
-
-lo ou substituí-lo.
-
-Em conjunto, Administração Direta e Administração Indireta.
-
-Pessoa jurídica autorizada pela CVM para desempenhar a ati-
-
-vidade de Administração Fiduciária.
-
-Pessoa natural ou jurídica registrada na CVM, conforme regu-
-
-lação vigente.
-
-Pessoa jurídica que, de acordo com a nota promissória de
-
-curto prazo, representa a comunhão dos titulares perante a
-
-emitente da nota promissória.
-
-3
+Administração Pública Administrador Fiduciário Agente de Notas
 
 Agente Fiduciário
 
+Definição
+
+Documento ou arranjo de qualquer natureza celebrado
+
+entre os Prestadores de Serviços Essenciais para fins da
+
+prestação dos serviços essenciais de Administração Fi-
+
+duciária e de Gestão de Recursos aos Fundos.
+
+Instituições que aderem aos Códigos ANBIMA e se vin-
+
+culam à ANBIMA por meio contratual, ficando sujeitas
+
+às regras específicas dos Códigos aos quais aderiram.
+
+Tem o significado atribuído pelo artigo 4º, inciso I, do
+
+Decreto-Lei nº 200/67, ou qualquer outra norma que
+
+venha a revogá-lo ou substituí-lo.
+
+Atividades de Administração Fiduciária, Gestão de Re-
+
+cursos de Terceiros e Gestão de Patrimônio Financeiro
+
+Tem o significado atribuído pelo Código de AGRT.
+
+Tem o significado atribuído pelo artigo 4º, inciso II, do
+
+Decreto-Lei nº 200/67, ou qualquer outra norma que
+
+venha a revogá-lo ou substituí-lo.
+
+Em conjunto, Administração Direta e Administração In-
+
+direta.
+
+Pessoa jurídica autorizada pela CVM para desempenhar
+
+a atividade de Administração Fiduciária.
+
+Pessoa jurídica que, de acordo com a nota promissória
+
+de curto prazo, representa a comunhão dos titulares
+
+perante a emitente da nota promissória.
+
+Pessoa jurídica que, nos termos da regulação e do esta-
+
+belecido pelos documentos da emissão, representa a
+
+comunhão dos investidores perante a emissora.
+
+3
+
 Análise de Perfil do Investidor
 
-ANBIMA Input ANBIMA ou Associação
+ANBIMA Input
+
+ANBIMA ou Associação
 
 Anexo–Classe
 
 Anexos Complementares Anúncio de Encerramento Anúncio de Início Apêndice–Subclasse
 
-Apreçamento Pessoa jurídica que, nos termos da regulação e do estabelecido
+Apreçamento Políticas e procedimentos adotados pelas Instituições
 
-pelos documentos da emissão, representa a comunhão dos in-
+Participantes para identificar as necessidades econô-
 
-vestidores perante a emissora.
+mico-financeiras, presentes e futuras, do investidor,
 
-Políticas e procedimentos adotados pelas Instituições Partici-
+suas expectativas, restrições, objetivos, tolerância a
 
-pantes para identificar as necessidades econômico-financei-
+risco, necessidade de liquidez e horizonte de investi-
 
-ras, presentes e futuras, do investidor, suas expectativas, res-
+mento.
 
-trições, objetivos, tolerância a risco, necessidade de liquidez e
+Sistema de envio de dados da ANBIMA para a troca de
 
-horizonte de investimento.
+informações entre a Associação e as Instituições Parti-
 
-Sistema de envio de dados da ANBIMA para a troca de infor-
+cipantes.
 
-mações entre a Associação e as Instituições Participantes.
+A Associação Brasileira das Entidades dos Mercados Fi-
 
-A Associação Brasileira das Entidades dos Mercados Financeiro
+nanceiro e de Capitais.
 
-e de Capitais.
+Parte do Regulamento do Fundo essencial à constitui-
 
-Parte do Regulamento do Fundo essencial à constituição da
+ção da Classe, que rege o funcionamento da respectiva
 
-Classe, que rege o funcionamento da respectiva Classe de
+Classe de modo complementar ao disposto no Regula-
 
-modo complementar ao disposto no Regulamento. Todas as
+mento. Todas as referências a “Anexo-Classe” nas nor-
 
-referências a “Anexo-Classe” nas normas do Código de AGRT
+mas do Código de AGRT abrangem os Apêndices-Sub-
 
-abrangem os Apêndices-Subclasse, caso aplicável.
+classe, caso aplicável.
 
-São todos os anexos das Regras e Procedimentos dos Códigos
+São todos os anexos das Regras e Procedimentos dos
 
-ANBIMA, conforme aplicável.
+Códigos ANBIMA, conforme aplicável.
 
-Documento utilizado nas ofertas públicas, conforme exigido
+Documento utilizado nas ofertas públicas, conforme
 
-pela regulação.
+exigido pela regulação.
 
-Documento utilizado nas ofertas públicas, conforme exigido
+Documento utilizado nas ofertas públicas, conforme
 
-pela regulação.
+exigido pela regulação.
 
-Parte do Anexo-Classe que disciplina as características especí-
+Parte do Anexo-Classe que disciplina as características
 
-ficas da respectiva Subclasse (se houver) do Fundo.
+específicas da respectiva Subclasse (se houver) do
 
-Consiste em precificar os Ativos pertencentes à carteira dos
+Fundo.
 
-Veículos de Investimento.
+Consiste em precificar os Ativos pertencentes à carteira
+
+dos Veículos de Investimento.
 
 4
 
@@ -206,79 +210,81 @@ Associada
 
 Atividades Elegíveis
 
-Atividades ou Atividades de Serviços
+Atividades ou Atividades de Serviços Qualifica-
 
-Qualificados
+dos
 
 Ativos
 
 Ativos de Crédito Privado
 
-Ativos Financeiros
+Denominação dada aos agentes autônomos de investi-
 
-Denominação dada aos agentes autônomos de investimentos
+mentos a partir da edição da Lei nº 14.317/2022 e atu-
 
-a partir da edição da Lei nº 14.317/2022 e atualmente discipli-
+almente disciplinados pela Resolução CVM nº
 
-nados pela Resolução CVM nº 178/2023.
+178/2023.
 
-A assessoria jurídica interna da ANBIMA, composta por advo-
+A assessoria jurídica interna da ANBIMA, composta por
 
-gados integrantes do quadro técnico da ANBIMA e possuidores
+advogados integrantes do quadro técnico da ANBIMA e
 
-de conhecimentos especializados nas áreas de atuação da As-
+possuidores de conhecimentos especializados nas
 
-sociação, sendo responsável pelo assessoramento jurídico dos
+áreas de atuação da Associação, sendo responsável
 
-Conselhos de Autorregulação e de Ética, bem como pela veri-
+pelo assessoramento jurídico dos Conselhos de Autor-
 
-ficação da observância das disposições do Código dos Proces-
+regulação e de Ética, bem como pela verificação da ob-
 
-sos.
+servância das disposições do Código dos Processos.
 
-Instituições que se associam à ANBIMA e passam a ter vínculo
+Instituições que se associam à ANBIMA e passam a ter
 
-associativo, ficando sujeitas a todas as Normas de Autorregu-
+vínculo associativo, ficando sujeitas a todas as Normas
 
-lação da Associação.
+de Autorregulação da Associação.
 
-Atividades que exigem, para seu desempenho, a obtenção de
+Atividades que exigem, para seu desempenho, a obten-
 
-Certificação ANBIMA, quais sejam, as atividades de Distribui-
+ção de Certificação ANBIMA, quais sejam, as atividades
 
-ção de Produtos de Investimento, Gestão de Recursos de Ter-
+de Distribuição de Produtos de Investimento, Gestão
 
-ceiros e Gestão de Patrimônio Financeiro.
+de Recursos de Terceiros e Gestão de Patrimônio Finan-
 
-Em conjunto, Custódia, Escrituração, Controladoria e Repre-
+ceiro.
 
-sentação de Investidor Não Residente.
+Em conjunto, Custódia, Escrituração, Controladoria e
 
-Ativos Financeiros, Ativos de Crédito Privado, Ativos Imobiliá-
+Representação de Investidor Não Residente.
 
-rios e quaisquer outros bens e direitos de qualquer natureza,
+Ativos Financeiros, Ativos de Crédito Privado, Ativos
 
-passíveis de aquisição pelos Veículos de Investimento, quando
+Imobiliários e quaisquer outros bens e direitos de qual-
 
-considerados em conjunto.
+quer natureza, passíveis de aquisição pelos Veículos de
 
-Ativos representativos de dívidas ou obrigações de pessoas fí-
+Investimento, quando considerados em conjunto.
 
-sicas ou jurídicas de direito privado e títulos cujos emissores
+Ativos representativos de dívidas ou obrigações de pes-
 
-sejam diferentes da União Federal (não soberana).
+soas físicas ou jurídicas de direito privado e títulos cujos
 
-Ativos financeiros, definidos em conformidade com o arca-
+emissores sejam diferentes da União Federal (não so-
 
-bouço regulatório aplicável, fixado pelo BCB, pela CVM ou
-
-qualquer outra instância estatal competente para disciplinar a
-
-matéria.
+berana).
 
 5
 
+Ativos Financeiros
+
 Ativos Imobiliários
+
+Avaliação de clientes baseada em risco ou
+
+“ABR”
 
 Ativos Não Financeiros
 
@@ -288,99 +294,149 @@ B3 Banco de Dados
 
 Barreiras aos Resgates
 
+Ativos financeiros, definidos em conformidade com o
+
+arcabouço regulatório aplicável, fixado pelo BCB, pela
+
+CVM ou qualquer outra instância estatal competente
+
+para disciplinar a matéria.
+
+Quaisquer Ativos por meio dos quais ocorra a participa-
+
+ção de FII nos empreendimentos imobiliários permiti-
+
+dos pela regulação aplicável.
+
+Metodologia adotada pela instituição para identifica-
+
+ção, avaliação, classificação e monitoramento de riscos,
+
+de forma proporcional à natureza, ao porte, à comple-
+
+xidade das atividades e ao modelo de negócio da insti-
+
+tuição, considerando, conforme aplicável, classificação
+
+dos clientes, produtos, operações, canais, serviços, e
+
+demais fatores de risco definidos em seus procedimen-
+
+tos internos.
+
+Quaisquer ativos que se encaixem na definição de “Ati-
+
+vos” deste Glossário, mas não se encaixem na definição
+
+de “Ativos Financeiros”.
+
+Documento utilizado nas Ofertas Públicas, conforme
+
+exigido pela regulação.
+
+A B3 S.A - Brasil, Bolsa, Balcão.
+
+Conjunto de informações cadastrais encaminhadas pe-
+
+las Instituições Participantes para a ANBIMA e armaze-
+
+nadas de forma estruturada.
+
+Mecanismo por meio do qual o Gestor de Recursos
+
+pode, a seu critério e de acordo com parâmetros esta-
+
+belecidos no Regulamento, limitar os pedidos de res-
+
+gate a uma fração do patrimônio líquido da Classe ou
+
+Subclasse do Fundo, sem prejuízo do tratamento equi-
+
+tativo entre os cotistas.
+
+6
+
 BCB BDR – ETF Benefícios Socioambientais
 
 Blockchain
 
-Quaisquer Ativos por meio dos quais ocorra a participação de
-
-FII nos empreendimentos imobiliários permitidos pela regula-
-
-ção aplicável.
-
-Quaisquer ativos que se encaixem na definição de “Ativos”
-
-deste Glossário, mas não se encaixem na definição de “Ativos
-
-Financeiros”.
-
-Documento utilizado nas Ofertas Públicas, conforme exigido
-
-pela regulação.
-
-A B3 S.A - Brasil, Bolsa, Balcão.
-
-Conjunto de informações cadastrais encaminhadas pelas Insti-
-
-tuições Participantes para a ANBIMA e armazenadas de forma
-
-estruturada.
-
-Mecanismo por meio do qual o Gestor de Recursos pode, a seu
-
-critério e de acordo com parâmetros estabelecidos no Regula-
-
-mento, limitar os pedidos de resgate a uma fração do patrimô-
-
-nio líquido da Classe ou Subclasse do Fundo, sem prejuízo do
-
-tratamento equitativo entre os cotistas.
-
-O Banco Central do Brasil.
-
-Certificado representativo de ETF - Internacional, emitido por
-
-instituição depositária no Brasil.
-
-São os benefícios ambientais, sociais e/ou de governança que
-
-podem ser gerados por meio da política de investimento da
-
-Classe.
-
-Sistemas de registro em cadeias de blocos, representados por
-
-arquivo, tabela, banco ou qualquer estrutura de dados total-
-
-mente eletrônico armazenados em computadores, distribuí-
-
-dos e atualizados, e onde transações com Criptoativos são re-
-
-gistradas sequencialmente em blocos.
-
-6
+Bookbuilding
 
 CAIA Canais Digitais
 
 Carta de Recomendação
 
-Carteira Administrada CCB CCI CDB CDI CEA Cedente de Direitos Creditórios Central Depositária
+O Banco Central do Brasil.
 
-Certificações ANBIMA Certificação internacional Chartered Alternative Investment
+Certificado representativo de ETF - Internacional, emi-
 
-Analyst, oferecida pela CAIA Association.
+tido por instituição depositária no Brasil.
 
-Canais digitais ou eletrônicos utilizados na distribuição de pro-
+São os benefícios ambientais, sociais e/ou de gover-
 
-dutos de investimento, que servem como instrumentos remo-
+nança que podem ser gerados por meio da política de
 
-tos sem contato presencial entre o cliente ou potencial cliente
+investimento da Classe.
 
-e a Instituição Participante.
+Sistemas de registro em cadeias de blocos, representa-
 
-Documento expedido pela Supervisão de Mercados e aceito
+dos por arquivo, tabela, banco ou qualquer estrutura
 
-pela Instituição Participante que contém as medidas a serem
+de dados totalmente eletrônico armazenados em com-
 
-adotadas a fim de sanar infrações de pequeno potencial de
+putadores, distribuídos e atualizados, e onde transa-
 
-dano e de fácil reparabilidade cometidas pelas Instituições Par-
+ções com Criptoativos são registradas sequencialmente
 
-ticipantes, conforme previsto no Código dos Processos.
+em blocos.
 
-Carteira administrada, disciplinada pela Resolução CVM nº
+Entende-se por procedimento de bookbuilding o pro-
 
-21/2021.
+cedimento de coleta de intenções de investimento para
+
+determinação da taxa de remuneração do Valor Mobi-
+
+liário de renda fixa realizado mediante rateio automá-
+
+tico (leilão holandês) ou de forma discricionária, con-
+
+forme critérios pelos Coordenadores.
+
+Certificação internacional Chartered Alternative Inves-
+
+tment Analyst, oferecida pela CAIA Association.
+
+Canais digitais ou eletrônicos utilizados na distribuição
+
+de produtos de investimento, que servem como instru-
+
+mentos remotos sem contato presencial entre o cliente
+
+ou potencial cliente e a Instituição Participante.
+
+Documento expedido pela Supervisão de Mercados e
+
+aceito pela Instituição Participante que contém as me-
+
+didas a serem adotadas a fim de sanar infrações de pe-
+
+queno potencial de dano e de fácil reparabilidade co-
+
+metidas pelas Instituições Participantes, conforme pre-
+
+visto no Código dos Processos.
+
+7
+
+Carteira Administrada CCB CCI CDB CDI Cedente de Direitos Creditórios Central Depositária
+
+Certificações ANBIMA Cessão de Direitos Creditórios
+
+CFA® CFG CFP®
+
+CGA CGE Carteira administrada, disciplinada pela Resolução CVM
+
+nº 21/2021.
 
 Cédula de Crédito Bancário.
 
@@ -390,85 +446,47 @@ Certificado de Depósito Bancário.
 
 Certificado de Depósito Interbancário.
 
-Certificação ANBIMA de Especialistas em Investimento.
+Aquele que realiza cessão de direitos creditórios para a
 
-Aquele que realiza cessão de direitos creditórios para a Classe
+Classe de Fundos.
 
-de Fundos.
+Pessoa jurídica autorizada pela CVM para a prestação
 
-Pessoa jurídica autorizada pela CVM para a prestação do ser-
+do serviço de central depositária, nos termos da Reso-
 
-viço de central depositária, nos termos da Resolução CVM nº
+lução CVM nº 31/2021.
 
-31/2021.
+Em conjunto, CPA, C-Pro R, C-Pro I, CFG, CGA e CGE.
 
-Em conjunto, CPA-10, CPA-20, CEA, CFG, CGA e CGE.
+A transferência pelo cedente, credor originário ou não,
 
-7
+de direitos creditórios para a Classe, mantendo-se inal-
 
-Cessão de Direitos Creditórios
+terados os demais elementos da relação obrigacional.
 
-A transferência pelo cedente, credor originário ou não, de di-
+Certificação internacional Chartered Financial Analyst,
 
-reitos creditórios para a Classe, mantendo-se inalterados os
+oferecida pelo CFA Institute USA.
 
-demais elementos da relação obrigacional.
+Certificação ANBIMA de Fundamentos em Gestão.
 
-CFA Certificação internacional Chartered Financial Analyst, ofere-
+Certified Financial Planner, certificação internacional
 
-cida pelo CFA Institute USA.
+oferecida pela Associação Brasileira de Planejamento
 
-CFG Certificação ANBIMA de Fundamentos em Gestão.
+Financeiro (Planejar).
 
-CFP®
+Certificação de Gestores ANBIMA.
 
-Certified Financial Planner, certificação internacional oferecida
+Certificação de Gestores ANBIMA para Fundos Estrutu-
 
-pela Associação Brasileira de Planejamento Financeiro (Plane-
+rados.
 
-jar).
-
-CGA Certificação de Gestores ANBIMA.
-
-CGE Certificação de Gestores ANBIMA para Fundos Estruturados.
+8
 
 Chaves Digitais
 
-São códigos criptográficos que servem para formalizar as tran-
-
-sações criptográficas. As chaves digitais podem ser: (i) públi-
-
-cas: são uma série de caracteres alfanuméricos que criptogra-
-
-fam textos e são usadas para identificar as carteiras específicas
-
-(origem e destino) nas transferências de Criptoativos, po-
-
-dendo ser divulgadas; e (ii) chaves privadas: são, em conjunto
-
-com as chaves públicas (endereço na Blockchain), usadas para
-
-descriptografar informação criptografada com a chave pú-
-
-blica, devem ser guardadas pelo titular da carteira e, caso se-
-
-jam perdidas, os Criptoativos não podem mais ser transferidos
-
-na Blockchain.
-
 Classe
-
-Cada classe de cotas de um Fundo, com patrimônio segregado
-
-e direitos e obrigações próprios em relação às demais classes
-
-do Fundo, podendo ser constituída como Classe Aberta ou
-
-Classe Fechada, tendo o seu funcionamento regido pelo Regu-
-
-lamento e pelo respectivo Anexo-Classe.
-
-8
 
 Classe Aberta
 
@@ -476,227 +494,297 @@ Classe Exclusiva
 
 Classe Fechada
 
+São códigos criptográficos que servem para formalizar
+
+as transações criptográficas. As chaves digitais podem
+
+ser: (i) públicas: são uma série de caracteres alfanumé-
+
+ricos que criptografam textos e são usadas para identi-
+
+ficar as carteiras específicas (origem e destino) nas
+
+transferências de Criptoativos, podendo ser divulga-
+
+das; e (ii) chaves privadas: são, em conjunto com as
+
+chaves públicas (endereço na Blockchain), usadas para
+
+descriptografar informação criptografada com a chave
+
+pública, devem ser guardadas pelo titular da carteira e,
+
+caso sejam perdidas, os Criptoativos não podem mais
+
+ser transferidos na Blockchain.
+
+Cada classe de cotas de um Fundo, com patrimônio se-
+
+gregado e direitos e obrigações próprios em relação às
+
+demais classes do Fundo, podendo ser constituída
+
+como Classe Aberta ou Classe Fechada, tendo o seu
+
+funcionamento regido pelo Regulamento e pelo respec-
+
+tivo Anexo-Classe.
+
+Classe de cotas de um Fundo em que os investidores
+
+podem solicitar o resgate de suas cotas a qualquer
+
+tempo, em conformidade com o disposto no respectivo
+
+Anexo-Classe.
+
+A Classe ou Subclasse de cotas de um Fundo constituída
+
+para receber aplicações exclusivamente de um único in-
+
+vestidor profissional, conforme assim definido na regu-
+
+lação em vigor, de cotistas que possuam vínculo socie-
+
+tário familiar ou de cotistas vinculados por interesse
+
+único e indissociável, nos termos da regulação.
+
+Classe de cotas de um Fundo cujo Anexo-Classe não ad-
+
+mite o resgate de cotas.
+
+9
+
 Clubes de Investimento ou Clube
 
 CMN CNPJ
 
-Coaf Código de AGRT Código de Certificação
+Coaf Código de AGRT Código de Conduta Ética Profissional Código de Distribuição Código de Ética
 
-Código de Conduta Ética Profissional Código de Distribuição Classe de cotas de um Fundo em que os investidores podem
+Código de Negociação Código de Ofertas Públicas Código de Serviços Qualificados Código dos Processos Códigos ANBIMA
 
-solicitar o resgate de suas cotas a qualquer tempo, em confor-
+É um condomínio aberto constituído por pessoas natu-
 
-midade com o disposto no respectivo Anexo-Classe.
+rais para aplicação de recursos em títulos e valores mo-
 
-A Classe ou Subclasse de cotas de um Fundo constituída para
-
-receber aplicações exclusivamente de um único investidor pro-
-
-fissional, conforme assim definido na regulação em vigor, de
-
-cotistas que possuam vínculo societário familiar ou de cotistas
-
-vinculados por interesse único e indissociável, nos termos da
-
-regulação.
-
-Classe de cotas de um Fundo cujo Anexo-Classe não admite o
-
-resgate de cotas.
-
-É um condomínio aberto constituído por pessoas naturais para
-
-aplicação de recursos em títulos e valores mobiliários, nos ter-
-
-mos da Resolução CVM nº 11/2020.
+biliários, nos termos da Resolução CVM nº 11/2020.
 
 O Conselho Monetário Nacional.
 
-Cadastro Nacional da Pessoa Jurídica do Ministério da Fa-
+Cadastro Nacional da Pessoa Jurídica do Ministério da
 
-zenda, gerado pela Receita Federal do Brasil.
+Fazenda, gerado pela Receita Federal do Brasil.
 
 O Conselho de Controle de Atividades Financeiras.
 
-Código ANBIMA de Autorregulação de Administração e Gestão
+Código ANBIMA de Autorregulação de Administração e
 
-de Recursos de Terceiros.
+Gestão de Recursos de Terceiros.
 
-O Código ANBIMA de Regulação e Melhores Práticas para o
+Código de Conduta Ética para pessoas candidatas e pro-
 
-Programa de Certificação Continuada.
+fissionais com certificação da ANBIMA.
 
-Código de Conduta Ética para pessoas candidatas e profissio-
+Código ANBIMA de Autorregulação para a Distribuição
 
-nais com certificação da ANBIMA.
+de Produtos de Investimento.
 
-Código ANBIMA de Autorregulação para a Distribuição de Pro-
+Código de Ética da ANBIMA, ao qual se subordinam to-
 
-dutos de Investimento.
+das as Instituições Participantes, sejam Associadas ou
 
-9
+Aderentes.
 
-Código de Ética Código de Negociação Código de Ofertas Públicas
+Código ANBIMA de Regulação e Melhores Práticas para
 
-Código de Serviços Qualificados Código dos Processos Códigos ANBIMA
+Negociação de Instrumentos Financeiros.
 
-COE Comissão de Acompanhamento Conglomerado ou Grupo Econômico Conheça Seu Cliente
+Código ANBIMA de Autorregulação para a atividade e
+
+prestação de serviços para Ofertas Públicas.
+
+Código ANBIMA de Autorregulação para os Serviços
+
+Qualificados ao Mercado de Capitais.
+
+Código ANBIMA dos Processos de Autorregulação.
+
+Os Códigos ANBIMA de Autorregulação, abrangendo
+
+também as Regras e Procedimentos ANBIMA a eles re-
+
+lacionados.
+
+10
+
+COE Comissão de Acompanhamento Conglomerado ou Grupo Econômico
+
+Conheça Seu Cliente
 
 Conselho Consultivo ou Comitê
 
 Conselho de Autorregulação
 
-Código de Ética da ANBIMA, ao qual se subordinam todas as
+Conselho de Ética
 
-Instituições Participantes, sejam Associadas ou Aderentes.
+Consolidação de Ativos
 
-Código ANBIMA de Regulação e Melhores Práticas para Nego-
+Consultor Especializado Certificado de Operações Estruturadas.
 
-ciação de Instrumentos Financeiros.
+Organismo de Supervisão da ANBIMA com competên-
 
-Código ANBIMA de Autorregulação para Estruturação, Coorde-
+cias definidas no Código dos Processos.
 
-nação e Distribuição de Ofertas Públicas de Valores Mobiliários
+Conjunto de entidades controladoras diretas ou indire-
 
-e Ofertas Públicas de Aquisição de Valores Mobiliários.
+tas, controladas, coligadas ou submetidas a controle co-
 
-Código ANBIMA de Autorregulação para os Serviços Qualifica-
+mum.
 
-dos ao Mercado de Capitais.
+Políticas e procedimentos adotados pelas Instituições
 
-Código ANBIMA dos Processos de Autorregulação.
+Participantes para continuamente conhecer seus clien-
 
-Os Códigos ANBIMA de Autorregulação, abrangendo também
+tes.
 
-as Regras e Procedimentos ANBIMA a eles relacionados.
+Órgão de deliberação, assessoramento, consulta e/ou
 
-Certificado de Operações Estruturadas.
+fiscalização podendo ser constituído por iniciativa dos
 
-Organismo de Supervisão da ANBIMA com competências defi-
+investidores ou do Administrador Fiduciário e/ou Ges-
 
-nidas no Código dos Processos.
+tor de Recursos dos Veículos de Investimento.
 
-Conjunto de entidades controladoras diretas ou indiretas, con-
+Organismo de Supervisão com competências definidas
 
-troladas, coligadas ou submetidas a controle comum.
+no Código dos Processos.
 
-Políticas e procedimentos adotados pelas Instituições Partici-
+Órgão estatutário da Associação com as competências
 
-pantes para continuamente conhecer seus clientes.
+estabelecidas no Estatuto Social da ANBIMA e no Có-
 
-Órgão de deliberação, assessoramento, consulta e/ou fiscaliza-
+digo de Ética.
 
-ção podendo ser constituído por iniciativa dos investidores ou
+Serviço prestado a investidores que representa a con-
 
-do Administrador Fiduciário e/ou Gestor de Recursos dos Veí-
+solidação de Ativos ou carteiras mediante contrato es-
 
-culos de Investimento.
+pecífico, por meio do qual o prestador de serviços con-
 
-Organismo de Supervisão com competências definidas no Có-
+solida informações sobre os diversos investimentos
 
-digo dos Processos.
+mantidos pelo cliente e os consolida por meio de rela-
 
-10
+tórios periódicos.
 
-Conselho de Ética Consolidação de Ativos
+Instituição que presta serviços de Consultoria Especia-
 
-Consultor Especializado Consultoria Especializada
-
-Conta de Ativos
-
-Controlador Controladoria
-
-Coobrigação Órgão estatutário da Associação com as competências estabe-
-
-lecidas no Estatuto Social da ANBIMA e no Código de Ética.
-
-Serviço prestado a investidores que representa a consolidação
-
-de Ativos ou carteiras mediante contrato específico, por meio
-
-do qual o prestador de serviços consolida informações sobre
-
-os diversos investimentos mantidos pelo cliente e os consolida
-
-por meio de relatórios periódicos.
-
-Instituição que presta serviços de Consultoria Especializada.
-
-Prestação de serviços de consultoria especializada com o obje-
-
-tivo de dar suporte e subsidiar o Gestor de Recursos, em suas
-
-atividades de análise e seleção de Ativos para integrarem a car-
-
-teira da Classe, nos termos previstos na legislação aplicável e
-
-no Anexo-Classe respectivo.
-
-Conta individualizada que é aberta pelo emissor em nome de
-
-cada investidor, mantida pelo Escriturador, onde devem ser fei-
-
-tas as inscrições, anotações e averbações das informações re-
-
-lativas à titularidade dos Ativos, e que permitem o registro,
-
-averbação, processamento e controle das informações relati-
-
-vas à propriedade dos Ativos escriturados.
-
-Pessoa jurídica que desempenha a atividade de Controladoria.
-
-É a execução dos processos de controladoria do passivo e
-
-ativo, isoladamente ou em conjunto, para Clubes de Investi-
-
-mentos, Fundos e Carteiras Administradas, inclusive quando
-
-administrados pela própria Instituição Participante, e da exe-
-
-cução de procedimentos contábeis para os Clubes de Investi-
-
-mento e Fundos, de forma profissional e habitual, indepen-
-
-dentemente de outros serviços prestados pela respectiva ins-
-
-tituição.
-
-Obrigação contratual ou qualquer outra forma de retenção
-
-substancial dos riscos de crédito do ativo adquirido pela Classe
+lizada.
 
 11
 
-Coordenadores ou Coordenadores da
+Consultoria Especializada
 
-Oferta
+Conta de Ativos
 
-CPA – 10 CPA – 20 CPF CPR CR CRA Créditos de Carbono Créditos de Descarbonização – CBIO CRI Criptoativos
+Conta de Não Residente (CNR)
 
-Criptografia Custódia
+Controlador Controladoria
 
-assumida pelo cedente ou terceiro, em que os riscos de expo-
+Coobrigação
 
-sição à variação do fluxo de caixa do ativo permaneçam com o
+Prestação de serviços de consultoria especializada com
 
-cedente ou terceiro.
+o objetivo de dar suporte e subsidiar o Gestor de Recur-
 
-Instituições intermediárias signatárias do contrato de distribui-
+sos, em suas atividades de análise e seleção de Ativos
 
-ção, inclusive por meio de termo de adesão, na qualidade de
+para integrarem a carteira da Classe, nos termos previs-
 
-coordenadores, devidamente habilitados perante a CVM nos
+tos na legislação aplicável e no Anexo-Classe respec-
 
-termos da regulação aplicável.
+tivo.
 
-Certificação Profissional ANBIMA Série 10.
+Conta individualizada que é aberta pelo emissor em
 
-Certificação Profissional ANBIMA Série 20.
+nome de cada investidor, mantida pelo Escriturador,
 
-Cadastro de Pessoas Físicas, gerado pela Receita Federal do
+onde devem ser feitas as inscrições, anotações e aver-
 
-Brasil.
+bações das informações relativas à titularidade dos Ati-
+
+vos, e que permitem o registro, averbação, processa-
+
+mento e controle das informações relativas à proprie-
+
+dade dos Ativos escriturados.
+
+Conta de depósito ou de pagamento pré-paga em ins-
+
+tituição financeira ou instituição de pagamento autori-
+
+zada pelo BCB, de livre movimentação e apta a realizar
+
+aplicações em ativos financeiros ou em valores mobili-
+
+ários no Brasil, nos termos da regulação aplicável.
+
+Pessoa jurídica que desempenha a atividade de Contro-
+
+ladoria.
+
+É a execução dos processos de controladoria do passivo
+
+e ativo, isoladamente ou em conjunto, para Clubes de
+
+Investimentos, Fundos e Carteiras Administradas, inclu-
+
+sive quando administrados pela própria Instituição Par-
+
+ticipante, e da execução de procedimentos contábeis
+
+para os Clubes de Investimento e Fundos, de forma pro-
+
+fissional e habitual, independentemente de outros ser-
+
+viços prestados pela respectiva instituição.
+
+Obrigação contratual ou qualquer outra forma de re-
+
+tenção substancial dos riscos de crédito do ativo adqui-
+
+rido pela Classe assumida pelo cedente ou terceiro, em
+
+12
+
+Coordenadores ou Coordenadores da Oferta
+
+CPA C-Pro R C-Pro I CPF CPR CR CRA Créditos de Carbono Créditos de Descarbonização – CBIO CRI Criptoativos
+
+Criptografia
+
+que os riscos de exposição à variação do fluxo de caixa
+
+do ativo permaneçam com o cedente ou terceiro.
+
+Instituições intermediárias signatárias do contrato de
+
+distribuição, na qualidade de coordenadores, devida-
+
+mente habilitados perante a CVM nos termos da regu-
+
+lação aplicável.
+
+Certificação Profissional ANBIMA
+
+Certificação Profissional ANBIMA de Relacionamento
+
+Certificação Profissional ANBIMA de Investimento
+
+Cadastro de Pessoas Físicas, gerado pela Receita Fede-
+
+ral do Brasil.
 
 Cédula de Produto Rural.
 
@@ -710,163 +798,253 @@ Ativos assim definidos pela regulação em vigor.
 
 Certificados de Recebíveis Imobiliários.
 
-Ativo representado digitalmente, devendo possuir no mínimo
+Ativo representado digitalmente, devendo possuir no
 
-as seguintes características: a) sua existência, integridade e ti-
+mínimo as seguintes características: a) sua existência,
 
-tularidade são protegidas por criptografia; e b) suas transa-
+integridade e titularidade são protegidas por criptogra-
 
-ções são executadas e armazenadas utilizando tecnologia de
+fia; e b) suas transações são executadas e armazenadas
 
-registro distribuído.
+utilizando tecnologia de registro distribuído.
 
-Conjunto de técnicas para codificar a informação de modo que
+Conjunto de técnicas para codificar a informação de
 
-somente o emissor e o receptor consigam decifrá-la.
+modo que somente o emissor e o receptor consigam
 
-É a atividade de custódia de valores mobiliários, disciplinada
+decifrá-la.
 
-pela Resolução CVM nº 32/2021.
+13
 
-12
+Custódia
 
-Custodiante Custos de Transação CVM Dados Observáveis Deliberações
+Custodiante Custos de Transação
+
+CVM Dados Observáveis
+
+Deliberações
+
+Depositário Central
 
 Desenquadramento
 
 Desenquadramento Passivo
 
-DIE Direitos Creditórios Diretoria
+Atividade de custódia, definida e disciplinada em con-
 
-Pessoa jurídica que presta serviços de Custódia e detém as au-
+formidade com o arcabouço regulatório aplicável, fi-
 
-torizações regulatórias necessárias para tanto.
+xado pelo BCB, pela CVM ou qualquer outra instância
 
-Custos que são diretamente atribuíveis à aquisição, emissão
+estatal competente para disciplinar a matéria.
 
-ou venda do ativo ou passivo do Veículo de Investimento.
+Pessoa jurídica que presta serviços de Custódia e detém
+
+as autorizações regulatórias necessárias para tanto.
+
+Custos que são diretamente atribuíveis à aquisição,
+
+emissão ou venda do ativo ou passivo do Veículo de In-
+
+vestimento.
 
 A Comissão de Valores Mobiliários.
 
-Informações disponíveis e acessíveis de forma equitativa pelo
+Informações disponíveis e acessíveis de forma equita-
 
-mercado para o apreçamento confiável de Ativos.
+tiva pelo mercado para o apreçamento confiável de Ati-
 
-Documento expedido pelos Conselhos que tem como objeto a
+vos.
 
-interpretação das regras e princípios dos Códigos ANBIMA.
+Documento expedido pelos Conselhos que tem como
 
-Tem efeito vinculante e deve ser observado pelas Instituições
+objeto a interpretação das regras e princípios dos Códi-
 
-Participantes.
+gos ANBIMA. Tem efeito vinculante e deve ser obser-
 
-Descumprimento dos limites de concentração e diversificação
+vado pelas Instituições Participantes.
 
-da carteira das Classes, assim como de quaisquer vedações e
+Entidade autorizada pelo BCB ou CVM para realizar a
 
-restrições previstas em suas respectivas políticas de investi-
+guarda centralizada, registro ou controle de titulari-
 
-mento, conforme o caso.
+dade de Ativos Financeiros e/ou Valores Mobiliários.
 
-Desenquadramento decorrente de fatos alheios à vontade do
+Descumprimento dos limites de concentração e diver-
 
-Gestor de Recursos, que causem alterações imprevisíveis e sig-
+sificação da carteira das Classes, assim como de quais-
 
-nificativas no patrimônio líquido da Classe ou nas condições
+quer vedações e restrições previstas em suas respecti-
 
-gerais do mercado de valores mobiliários.
+vas políticas de investimento, conforme o caso.
 
-Documento de Informações Essenciais previsto na Resolução
+Desenquadramento decorrente de fatos alheios à von-
 
-CVM nº 8/2020.
+tade do Gestor de Recursos, que causem alterações im-
 
-Direitos e Ativos assim definidos pela regulação em vigor.
+previsíveis e significativas no patrimônio líquido da
 
-A Diretoria da ANBIMA, eleita nos termos do Estatuto Social da
+Classe ou nas condições gerais do mercado de valores
 
-Associação, disponível em seu portal eletrônico.
+mobiliários.
 
-13
+14
 
-Distribuição ou Distribuição de Produtos
+DIE Direitos Creditórios
 
-de Investimento
+Diretoria
+
+Distribuição ou Distribuição de Produtos de In-
+
+vestimento
 
 Distribuidor
 
-Documentos dos Veículos de Investi-
+Distribuidor de Origem
 
-mento
+Distribuidor de Destino
+
+Documentos de Controles Internos
+
+Documentos dos Veículos de Investimento Documento de Informações Essenciais previsto na Re-
+
+solução CVM nº 8/2020.
+
+Direitos e Ativos assim definidos pela regulação em vi-
+
+gor.
+
+A Diretoria da ANBIMA, eleita nos termos do Estatuto
+
+Social da Associação, disponível em seu portal eletrô-
+
+nico.
+
+(a) oferta de Produtos de Investimento de forma indivi-
+
+dual ou coletiva, resultando ou não em aplicação de re-
+
+cursos, assim como a aceitação de pedido de aplicação
+
+por meio de agências bancárias, plataformas de atendi-
+
+mento, centrais de atendimento, canais digitais, ou
+
+qualquer outro canal estabelecido para este fim e (b)
+
+atividades acessórias prestadas aos clientes, tais como
+
+manutenção do portfólio de investimentos e forneci-
+
+mento de informações periódicas acerca dos investi-
+
+mentos realizados.
+
+Pessoa jurídica que presta serviços de Distribuição de
+
+Produtos de Investimento e detém as autorizações re-
+
+gulatórias necessárias para tanto.
+
+Remetente dos Produtos de Investimento objetos de
+
+portabilidade.
+
+Destinatário dos Produtos de Investimento objetos de
+
+portabilidade.
+
+Políticas, manuais, regras, procedimentos e controles
+
+internos elaborados pelas Instituições Participantes
+
+com relação aos temas constantes de cada Código AN-
+
+BIMA e suas Regras e Procedimentos ANBIMA.
+
+São os documentos oficiais exigidos pela regulação es-
+
+pecífica em vigor dos Veículos de Investimento
+
+15
 
 EducA+
 
-Efeito Vagão Entidade Administradora de Mercado
+Efeito Vagão
+
+Entidade Administradora de Mercado
 
 Entidade Registradora
-
-(a) oferta de Produtos de Investimento de forma individual ou
-
-coletiva, resultando ou não em aplicação de recursos, assim
-
-como a aceitação de pedido de aplicação por meio de agências
-
-bancárias, plataformas de atendimento, centrais de atendi-
-
-mento, canais digitais, ou qualquer outro canal estabelecido
-
-para este fim e (b) atividades acessórias prestadas aos clientes,
-
-tais como manutenção do portfólio de investimentos e forne-
-
-cimento de informações periódicas acerca dos investimentos
-
-realizados.
-
-Pessoa jurídica que presta serviços de Distribuição de Produtos
-
-de Investimento e detém as autorizações regulatórias necessá-
-
-rias para tanto.
-
-São os documentos oficiais exigidos pela regulação específica
-
-em vigor dos Veículos de Investimento (incluindo, mas não se
-
-limitando, aos Regulamentos dos Fundos e aos contratos das
-
-Carteiras Administradas).
-
-Título do Programa Tesouro Direto vinculado ao incentivo fi-
-
-nanceiro-educacional previsto nos termos da Lei nº
-
-14.818/2024.
-
-Efeito de perda e provisionamento de todos os créditos atribu-
-
-ídos a um mesmo devedor em uma ou mais Classes de FIDC.
-
-Entidade administradora de mercado organizado, nos termos
-
-da regulação da CVM, em que os valores mobiliários objeto da
-
-oferta pública sejam admitidos à negociação, conforme aplicá-
-
-vel.
-
-Entidade autorizada pelo BCB para a realização do registro de
-
-Ativos financeiros e/ou de certos direitos creditórios, de
-
-acordo com a regulação em vigor.
-
-14
 
 Escala de Risco dos FIF
 
 Escrituração
 
-Escriturador Estrategista de Investimentos
+Escriturador
+
+Estrategista de Investimentos
+
+(incluindo, mas não se limitando, aos Regulamentos
+
+dos Fundos e aos contratos das Carteiras Administra-
+
+das).
+
+Título do Programa Tesouro Direto vinculado ao incen-
+
+tivo financeiro-educacional previsto nos termos da Lei
+
+nº 14.818/2024.
+
+Efeito de perda e provisionamento de todos os créditos
+
+atribuídos a um mesmo devedor em uma ou mais Clas-
+
+ses de FIDC.
+
+Entidade administradora de mercado organizado, nos
+
+termos da regulação da CVM, em que os valores mobi-
+
+liários objeto da oferta pública sejam admitidos à nego-
+
+ciação, conforme aplicável.
+
+Entidade autorizada pelo BCB para a realização do re-
+
+gistro de Ativos financeiros e/ou de certos direitos cre-
+
+ditórios, de acordo com a regulação em vigor.
+
+Escala de risco das Classes do FIF, conforme disposta no
+
+"Suplemento B" da Resolução CVM nº 175/2022, obser-
+
+vado o risco envolvido na estratégia de investimento de
+
+cada Classe.
+
+Atividade de escrituração, definida e disciplinada em
+
+conformidade com o arcabouço regulatório aplicável,
+
+fixado pelo BCB, pela CVM ou qualquer outra instância
+
+estatal competente para disciplinar a matéria.
+
+Pessoa jurídica que presta serviços de Escrituração e
+
+detém as autorizações regulatórias necessárias para
+
+tanto.
+
+Profissional responsável pela construção dos portfólios
+
+estratégicos e recomendações táticas dentro de cada
+
+perfil de investimento.
+
+16
 
 Extrato Trimestral
 
@@ -878,567 +1056,719 @@ FIAGRO
 
 FIDC
 
-Escala de risco das Classes do FIF, conforme disposta no "Su-
-
-plemento B" da Resolução CVM nº 175/2022, observado o
-
-risco envolvido na estratégia de investimento de cada Classe.
-
-Atividade de escrituração, definida e disciplinada em confor-
-
-midade com o arcabouço regulatório aplicável, fixado pelo
-
-BCB, pela CVM ou qualquer outra instância estatal competente
-
-para disciplinar a matéria.
-
-Pessoa jurídica que presta serviços de Escrituração e detém as
-
-autorizações regulatórias necessárias para tanto.
-
-Profissional responsável pela construção dos portfólios estra-
-
-tégicos e recomendações táticas dentro de cada perfil de in-
-
-vestimento.
-
-Documento a ser elaborado e disponibilizado pelo Distribui-
-
-dor, em formato específico, para disponibilização de informa-
-
-ções quantitativas periódicas, nos termos do Código de Distri-
-
-buição.
-
-Sistema destinado ao reporte segregado da Taxa Global pre-
-
-vista no regulamento dos Fundos
-
-Barreiras aos Resgates e Side Pocket, quando referidos em con-
-
-junto.
-
-Fundo de Investimento nas Cadeias Produtivas Agroindustriais,
-
-disciplinado pela Resolução CVM nº 175/2022 e por seu Anexo
-
-Normativo VI (Fundos de Investimento nas Cadeias Produtivas
-
-Agroindustriais).
-
-Fundo de Investimento em Direitos Creditórios, disciplinado
-
-pela Resolução CVM nº 175/2022 e por seu Anexo Normativo
-
-II (Fundos de Investimento em Direitos Creditórios).
-
-15
-
 FIF
 
 FII
 
 FIP
 
-Fork Formulário Formulário de Referência
+Fork
+
+Documento a ser elaborado e disponibilizado pelo Dis-
+
+tribuidor, em formato específico, para disponibilização
+
+de informações quantitativas periódicas, nos termos do
+
+Código de Distribuição.
+
+Sistema destinado ao reporte segregado da Taxa Global
+
+prevista no regulamento dos Fundos
+
+Barreiras aos Resgates e Side Pocket, quando referidos
+
+em conjunto.
+
+Fundo de Investimento nas Cadeias Produtivas Agroin-
+
+dustriais, disciplinado pela Resolução CVM nº 175/2022
+
+e por seu Anexo Normativo VI (Fundos de Investimento
+
+nas Cadeias Produtivas Agroindustriais).
+
+Fundo de Investimento em Direitos Creditórios, discipli-
+
+nado pela Resolução CVM nº 175/2022 e por seu Anexo
+
+Normativo II (Fundos de Investimento em Direitos Cre-
+
+ditórios).
+
+Fundo de Investimento Financeiro, disciplinado pela
+
+Resolução CVM nº 175/2022 e por seu Anexo Norma-
+
+tivo I (Fundos de Investimento Financeiro).
+
+Fundo de Investimento Imobiliário, disciplinado pela
+
+Resolução CVM nº 175/2022 e por seu Anexo Norma-
+
+tivo III (Fundos de Investimento Imobiliário).
+
+Fundo de Investimento em Participações, disciplinado
+
+pela Resolução CVM nº 175/2022 e por seu Anexo Nor-
+
+mativo IV (Fundos de Investimento em Participações).
+
+Bifurcação do Criptoativo original em outras versões
+
+representando uma mudança ao protocolo da Block-
+
+chain original.
+
+17
+
+Formulário Formulário de Referência
 
 Fórum
 
+Framework
+
 Fundo Aberto
 
-Fundo de Índice Fundo de Investimento ou Fundo
+Fundo de Índice
 
-Fundo de Investimento Financeiro, disciplinado pela Resolução
+Fundo de Investimento ou Fundo
 
-CVM nº 175/2022 e por seu Anexo Normativo I (Fundos de In-
+Formulário disponível no site da Associação para envio
 
-vestimento Financeiro).
+de informações para a base de dados ANBIMA.
 
-Fundo de Investimento Imobiliário, disciplinado pela Resolu-
+Documento eletrônico, elaborado pela Instituição Par-
 
-ção CVM nº 175/2022 e por seu Anexo Normativo III (Fundos
+ticipante, pelo emissor e/ou pelo cedente e/ou devedor
 
-de Investimento Imobiliário).
+do lastro de títulos de securitização, conforme aplicá-
 
-Fundo de Investimento em Participações, disciplinado pela Re-
+vel, nos termos da regulação aplicável da CVM.
 
-solução CVM nº 175/2022 e por seu Anexo Normativo IV (Fun-
+Organismo de Representação de Mercados da Associa-
 
-dos de Investimento em Participações).
+ção composto por membros indicados pelas Institui-
 
-Bifurcação do Criptoativo original em outras versões represen-
+ções Participantes que tem por responsabilidade, entre
 
-tando uma mudança ao protocolo da Blockchain original.
+outras obrigações, aprovar as Regras e Procedimentos
 
-Formulário disponível no site da Associação para envio de in-
+ANBIMA.
 
-formações para a base de dados ANBIMA.
+Documento elaborado pelo emissor do título sustentá-
 
-Documento eletrônico, elaborado pela Instituição Partici-
+vel contendo a descrição das principais informações so-
 
-pante, pelo emissor e/ou pelo cedente e/ou devedor do lastro
+bre suas operações e estratégias relacionadas às ques-
 
-de títulos de securitização, conforme aplicável, nos termos da
+tões ESG, bem como a descrição dos pilares aplicáveis
 
-regulação aplicável da CVM.
+ao formato do título sustentável.
 
-Organismo de Representação de Mercados da Associação
+Fundo constituído sob a forma de condomínio aberto,
 
-composto por membros indicados pelas Instituições Partici-
+em que os investidores podem solicitar o resgate de
 
-pantes que tem por responsabilidade, entre outras obrigações,
+suas cotas em conformidade com o disposto no Regu-
 
-aprovar as Regras e Procedimentos ANBIMA.
-
-Fundo constituído sob a forma de condomínio aberto, em que
-
-os investidores podem solicitar o resgate de suas cotas em con-
-
-formidade com o disposto no Regulamento do Fundo.
+lamento do Fundo.
 
 Fundo de Índice, disciplinado pela Resolução CVM nº
 
-175/2022 e por seu Anexo Normativo V (Fundos de Índice).
+175/2022 e por seu Anexo Normativo V (Fundos de Ín-
 
-Comunhão de recursos, constituído sob a forma de condomí-
+dice).
 
-nio de natureza especial, destinada à aplicação em ativos, bens
+Comunhão de recursos, constituído sob a forma de con-
 
-e direitos de qualquer natureza, conforme definição do artigo
+domínio de natureza especial, destinada à aplicação em
 
-16
+ativos, bens e direitos de qualquer natureza, conforme
 
-Fundo de Investimento Sustentável ou
+definição do artigo 1.368-C do Código Civil e observada
 
-Fundo IS
+a regulação da CVM aplicável a cada categoria de
 
-Fundos Estruturados Fundo Exclusivo
+fundo. Para os fins dos Códigos e Regras e Procedimen-
+
+tos, todas as referências a “Fundos de Investimento” ou
+
+18
+
+Fundo de Investimento Sustentável ou Fundo
+
+IS
+
+Fundos Estruturados
+
+Fundo Exclusivo
 
 Fundo Fechado
 
 Fundos Garantidores
 
-Gestão de Patrimônio Financeiro ou
+Gestão de Patrimônio Financeiro ou Gestão de
 
-Gestão de Patrimônio Gestão de Recursos de Terceiros ou Ges-
+Patrimônio Gestão de Recursos de Terceiros ou Gestão de
 
-tão de Recursos Gestor de Patrimônio Financeiro ou Ges-
+Recursos Gestor de Patrimônio Financeiro ou Gestor de
 
-tor de Patrimônio
+Patrimônio
 
-Gestor de Recursos de Terceiros ou Ges-
+Gestor de Recursos de Terceiros ou Gestor de
 
-tor de Recursos
+Recursos
 
-1.368-C do Código Civil e observada a regulação da CVM apli-
+“Fundo” alcançam todas as suas Classes e Subclasses,
 
-cável a cada categoria de fundo. Para os fins dos Códigos e Re-
+conforme aplicável.
 
-gras e Procedimentos, todas as referências a “Fundos de Inves-
+Fundo de Investimento com objetivo de realizar inves-
 
-timento” ou “Fundo” alcançam todas as suas Classes e Subclas-
+timentos sustentáveis.
 
-ses, conforme aplicável.
+Exclusivamente para fins das Regras e Procedimentos
 
-Fundo de Investimento com objetivo de realizar investimentos
+de Certificação, em conjunto, os FIAGROs, FIDCs, FIIs e
 
-sustentáveis.
+FIPs.
 
-Exclusivamente para fins das Regras e Procedimentos de Certi-
+Fundo constituído com classe ou subclasse de cotas
 
-ficação, em conjunto, os FIAGROs, FIDCs, FIIs e FIPs.
+destinadas a receber aplicações exclusivamente de um
 
-Fundo constituído com classe ou subclasse de cotas destinadas
+único investidor profissional, de cotistas que possuam
 
-a receber aplicações exclusivamente de um único investidor
+vínculo societário familiar ou de cotistas vinculados por
 
-profissional, de cotistas que possuam vínculo societário fami-
+interesse único e indissociável.
 
-liar ou de cotistas vinculados por interesse único e indissociá-
+Fundo constituído sob a forma de condomínio fechado
 
-vel.
+em que as cotas somente são resgatadas ao término do
 
-Fundo constituído sob a forma de condomínio fechado em que
+prazo de duração do Fundo.
 
-as cotas somente são resgatadas ao término do prazo de dura-
+Fundo Garantidor de Créditos (FGC), Fundo Garantidor
 
-ção do Fundo.
+de Cooperativismo de Crédito (FGCoop) e/ou demais
 
-Fundo Garantidor de Créditos (FGC), Fundo Garantidor de Co-
-
-operativismo de Crédito (FGCoop) e/ou demais fundos garan-
-
-tidores estabelecidos por lei.
+fundos garantidores estabelecidos por lei.
 
 Tem o significado atribuído pelo Código de AGRT.
 
 Tem o significado atribuído pelo Código de AGRT.
 
-Gestor de Recursos que presta serviços de Gestão de Recursos
+Gestor de Recursos que presta serviços de Gestão de
 
-de Terceiros e, adicionalmente a esta atividade, presta serviços
+Recursos de Terceiros e, adicionalmente a esta ativi-
 
-de Gestão de Patrimônio Financeiro.
+dade, presta serviços de Gestão de Patrimônio Finan-
 
-Pessoa autorizada pela CVM a prestar serviços de Gestão de
+ceiro.
 
-Recursos de Terceiros.
+Pessoa autorizada pela CVM a prestar serviços de Ges-
 
-17
+tão de Recursos de Terceiros.
+
+19
 
 Hard Fork
 
-IMA IMA – Geral Informe de Investimento
+IMA IMA – Geral Influenciadores Digitais ou Finfluencers
+
+Informe de Investimento
 
 Insolvência
+
+Bifurcação do Criptoativo original em outras versões de
+
+forma não consentida pela maioria dos usuários, mine-
+
+radores e validadores. O resultado é que a nova versão
+
+do Criptoativo deixa de ser compatível retroativamente
+
+com blocos anteriores. Nesse cenário, a Blockchain se
+
+divide em duas: a Blockchain original e a nova versão,
+
+que segue um novo conjunto de regras.
+
+Índice de Mercado ANBIMA.
+
+Subíndice do IMA, formado por todos os títulos que
+
+compõem a dívida pública.
+
+Pessoas naturais ou jurídicas que: (i) mantenham pre-
+
+sença habitual ou profissional em canais digitais (inclu-
+
+indo redes sociais, blogs, plataformas de vídeo ou pod-
+
+casts); (ii) produzam ou difundam conteúdos próprios
+
+ou patrocinados relacionados a temas financeiros,
+
+econômicos ou de investimento; e (iii) possam influen-
+
+ciar, ainda que indiretamente, o processo decisório de
+
+investidores ou potenciais investidores quanto à aqui-
+
+sição, manutenção ou alienação de produtos de inves-
+
+timento.
+
+Conjunto de informações elaborado e disponibilizado
+
+pelo Distribuidor, sem formato específico, para disponi-
+
+bilização de informações quantitativas, nos termos do
+
+Código de Distribuição
+
+Situação em que a Classe não possui patrimônio sufici-
+
+ente para responder por suas dívidas, sujeitando-se às
+
+regras de insolvência previstas no Código Civil, sem pre-
+
+juízo dos procedimentos a serem previamente adota-
+
+dos pelo Administrador Fiduciário e Gestor de Recursos
+
+quando da verificação do patrimônio líquido negativo
+
+de Classe cuja responsabilidade dos cotistas seja
+
+20
 
 Instituições Aspirantes Instituições Participantes
 
 Instrumentos Financeiros
 
-Bifurcação do Criptoativo original em outras versões de forma
-
-não consentida pela maioria dos usuários, mineradores e vali-
-
-dadores. O resultado é que a nova versão do Criptoativo deixa
-
-de ser compatível retroativamente com blocos anteriores.
-
-Nesse cenário, a Blockchain se divide em duas: a Blockchain
-
-original e a nova versão, que segue um novo conjunto de re-
-
-gras.
-
-Índice de Mercado ANBIMA.
-
-Subíndice do IMA, formado por todos os títulos que compõem
-
-a dívida pública.
-
-Conjunto de informações elaborado e disponibilizado pelo Dis-
-
-tribuidor, sem formato específico, para disponibilização de in-
-
-formações quantitativas, nos termos do Código de Distribuição
-
-Situação em que a Classe não possui patrimônio suficiente
-
-para responder por suas dívidas, sujeitando-se às regras de in-
-
-solvência previstas no Código Civil, sem prejuízo dos procedi-
-
-mentos a serem previamente adotados pelo Administrador Fi-
-
-duciário e Gestor de Recursos quando da verificação do patri-
-
-mônio líquido negativo de Classe cuja responsabilidade dos co-
-
-tistas seja limitada aos valores por ele subscritos, nos termos
-
-da regulação em vigor e do Anexo-Classe correspondente.
-
-Instituições que formalmente solicitam associação à ANBIMA
-
-ou adesão aos Códigos ANBIMA.
-
-Instituições associadas à ANBIMA ou instituições aderentes
-
-aos Códigos de Autorregulação de atividades abrangidas pela
-
-Autorregulação ANBIMA.
-
-Títulos e valores mobiliários de renda fixa, bem como a reali-
-
-zação de operações estruturadas com base em derivativos, in-
-
-cluindo Certificado de Operações Estruturadas – COE, objeto
-
-ou não de oferta pública de distribuição, que sejam passíveis
-
-18
-
 Intermediário
 
+Interveniente Fiduciário
+
+Investimento em Portfólio com
+
+Representação
+
+Investimento Flexível limitada aos valores por ele subscritos, nos termos da
+
+regulação em vigor e do Anexo-Classe correspondente.
+
+Instituições que formalmente solicitam associação à
+
+ANBIMA ou adesão aos Códigos ANBIMA.
+
+Instituições associadas à ANBIMA ou instituições ade-
+
+rentes aos Códigos de Autorregulação de atividades
+
+abrangidas pela Autorregulação ANBIMA.
+
+Títulos e valores mobiliários de renda fixa, bem como
+
+a realização de operações estruturadas com base em
+
+derivativos, incluindo Certificado de Operações Estru-
+
+turadas – COE, objeto ou não de oferta pública de dis-
+
+tribuição, que sejam passíveis de registro em sistemas
+
+ou câmaras de registro e/ou de liquidação de ativos in-
+
+tegrantes do Sistema de Pagamentos Brasileiro;
+
+Instituição habilitada a atuar como integrante do sis-
+
+tema de distribuição, por conta própria e de terceiros,
+
+na intermediação de Instrumentos Financeiros em Mer-
+
+cados Regulados.
+
+Instituição Participante que representa a comunhão
+
+dos investidores perante a emissora, conforme estabe-
+
+lecido pelos instrumentos da emissão.
+
+Modalidade de investimento de Investidor Não Resi-
+
+dente - Pessoa Natural ou Investidor Não Residente -
+
+Pessoa Jurídica com Representante Regulatório,
+
+quando não efetuado a partir de CNR.
+
+Modalidade de investimento de Investidor Não Resi-
+
+dente - Pessoa Natural, sem constituição de
+
+21
+
+Investidor Não Residente (INR)
+
+Investidor Não Residente –
+
+Pessoa Jurídica
+
+Investidor Não Residente –
+
+Pessoa Natural
+
 Investimento Sustentável
+
+Investimento via CNR
 
 IRF–M
 
 Lâmina da Oferta
 
-LF LGPD LIG Manual de Apreçamento de registro em sistemas ou câmaras de registro e/ou de liqui-
+Representante Regulatório, quando não efetuado a
 
-dação de ativos integrantes do Sistema de Pagamentos Brasi-
+partir de CNR.
 
-leiro;
+Investidor Não Residente - Pessoa Natural e Investidor
 
-Instituição habilitada a atuar como integrante do sistema de
+Não Residente – Pessoa Jurídica, em conjunto.
 
-distribuição, por conta própria e de terceiros, na intermedia-
+Entidade legal domiciliada ou com sede fora do territó-
 
-ção de Instrumentos Financeiros em Mercados Regulados.
+rio brasileiro, tais como empresas, instituições financei-
 
-Investimento com o objetivo intencional de proteger, contri-
+ras, fundos de investimento ou veículos de investi-
 
-buir, não causar dano ou degradações, gerar impacto positivo
+mento coletivo.
 
-e/ou assegurar direitos em questões ambientais, sociais e/ou
+Pessoa física domiciliada no exterior que realiza inves-
 
-de governança, sem que haja intenção de comprometer o de-
+timentos no Brasil.
 
-sempenho financeiro do Fundo e/ou da Classe, conforme o
+Investimento com o objetivo intencional de proteger,
 
-caso.
+contribuir, não causar dano ou degradações, gerar im-
 
-Subíndice do IMA, formado por títulos públicos prefixados,
+pacto positivo e/ou assegurar direitos em questões am-
 
-que são as LTNs (Letras do Tesouro Nacional ou Tesouro Prefi-
+bientais, sociais e/ou de governança, sem que haja in-
 
-xado) e NTN-Fs (Notas do Tesouro Nacional – Série F ou Te-
+tenção de comprometer o desempenho financeiro do
 
-souro Prefixado com Juros Semestrais).
+Fundo e/ou da Classe, conforme o caso.
 
-Lâmina da oferta elaborada em adição e de forma consistente
+Modalidade de investimento de Investidor Não Resi-
 
-com o prospecto, servindo para sintetizar o seu conteúdo e
+dente – Pessoa Natural ou Investidor Não Residente –
 
-apresentar as características essenciais de oferta, conforme
+Pessoa Jurídica efetuado a partir de CNR.
 
-modelo aplicável ao valor mobiliário objeto da oferta, nos ter-
+Subíndice do IMA, formado por títulos públicos prefixa-
 
-mos da regulação da CVM que dispõe sobre ofertas públicas
+dos, que são as LTNs (Letras do Tesouro Nacional ou Te-
 
-de Valores Mobiliários.
+souro Prefixado) e NTN-Fs (Notas do Tesouro Nacional
 
-Letra Financeira.
+– Série F ou Tesouro Prefixado com Juros Semestrais).
 
-A Lei nº 13.709/2018 (Lei Geral de Proteção de Dados Pesso-
+Lâmina da oferta elaborada em adição e de forma con-
 
-ais).
+sistente com o prospecto, servindo para sintetizar o seu
 
-Letra Imobiliária Garantida.
+conteúdo e apresentar as características essenciais de
 
-Conjunto de regras, procedimentos, critérios e metodologias
+oferta, conforme modelo aplicável ao valor mobiliário
 
-utilizadas pela instituição responsável pelo apreçamento,
+objeto da oferta, nos termos da regulação da CVM que
 
-19
+dispõe sobre ofertas públicas de Valores Mobiliários.
 
-conforme o caso, para o apreçamento dos Ativos Financeiros
+22
 
-dos Veículos de Investimento.
+LF Letra Financeira.
 
-Manual ANBIMA para Registro dos Veí-
+LGPD A Lei nº 13.709/2018 (Lei Geral de Proteção de Dados
 
-culos de Investimento
+Pessoais).
 
-Manual disponível no site da Associação, que descreve, deta-
+LIG Letra Imobiliária Garantida.
 
-lhadamente, a forma de registro e envio das informações dos
+Manual de Apreçamento
 
-Veículos de Investimento para a base de dados da ANBIMA.
+Conjunto de regras, procedimentos, critérios e metodo-
+
+logias utilizadas pela instituição responsável pelo apre-
+
+çamento, conforme o caso, para o apreçamento dos Ati-
+
+vos Financeiros dos Veículos de Investimento.
+
+Manual ANBIMA para Registro dos Veículos de
+
+Investimento
+
+Manual disponível no site da Associação, que descreve,
+
+detalhadamente, a forma de registro e envio das infor-
+
+mações dos Veículos de Investimento para a base de
+
+dados da ANBIMA.
 
 Material Publicitário
 
-Material sobre produtos de investimento ou sobre a atividade
+Material sobre produtos de investimento ou sobre a
 
-de Administração Fiduciária e/ou Gestão de Recursos de Ter-
+atividade de Administração Fiduciária e/ou Gestão de
 
-ceiros divulgado pelas Instituições Participantes por qualquer
+Recursos de Terceiros divulgado pelas Instituições Par-
 
-meio de comunicação disponível, que seja destinado a investi-
+ticipantes por qualquer meio de comunicação disponí-
 
-dores ou potenciais investidores com o objetivo de estratégia
+vel, que seja destinado a investidores ou potenciais in-
 
-comercial e mercadológica.
+vestidores com o objetivo de estratégia comercial e
+
+mercadológica.
 
 Material Técnico
 
-Material sobre os produtos de investimento divulgado pelas
+Material sobre os produtos de investimento divulgado
 
-Instituições Participantes por qualquer meio de comunicação
+pelas Instituições Participantes por qualquer meio de
 
-disponível, que seja destinado a clientes ou potenciais clientes
+comunicação disponível, que seja destinado a clientes
 
-com o objetivo de dar suporte técnico a uma decisão de inves-
+ou potenciais clientes com o objetivo de dar suporte
 
-timento.
+técnico a uma decisão de investimento.
 
 Memorando de Ações
 
-Documento utilizado nas ofertas públicas subsequentes de
+Documento utilizado nas ofertas públicas subsequentes
 
-ações destinadas exclusivamente a investidores profissionais
+de ações destinadas exclusivamente a investidores pro-
 
-com as exigências mínimas previstas nas Regras e Procedimen-
+fissionais com as exigências mínimas previstas nas Re-
 
-tos de Ofertas Públicas.
+gras e Procedimentos de Ofertas Públicas.
+
+23
 
 Mercado Organizado
 
-É o mercado organizado de Valores Mobiliários, assim enten-
-
-dido como o ambiente físico ou sistema eletrônico destinado
-
-à negociação ou ao registro de operações com valores mobili-
-
-ários por um conjunto determinado de participantes, que
-
-atuam por contra própria ou de terceiros.
-
 Mercados Regulados
-
-São os mercados de Valores Mobiliários, que compreendem os
-
-Mercados Organizados de bolsa e balcão, e os mercados de
-
-balcão não organizados, conforme definidos pela regulação
-
-em vigor.
-
-20
 
 Mesa de Operação e/ou Operações
 
-Metodologia de Provisão de Perdas
+Metodologia de Provisão de Devedores Duvi-
 
-Mineradores/Validadores Mitigação de Risco Não Causar Dano
+dosos
+
+Mineradores/Validadores
+
+Mitigação de Risco Não Causar Dano
+
+É o mercado organizado de Valores Mobiliários, assim
+
+entendido como o ambiente físico ou sistema eletrô-
+
+nico destinado à negociação ou ao registro de opera-
+
+ções com valores mobiliários por um conjunto determi-
+
+nado de participantes, que atuam por contra própria ou
+
+de terceiros.
+
+São os mercados de Valores Mobiliários, que compre-
+
+endem os Mercados Organizados de bolsa e balcão, e
+
+os mercados de balcão não organizados, conforme de-
+
+finidos pela regulação em vigor.
+
+Área em que os profissionais, no exercício das ativida-
+
+des de Negociação, negociam operações com Instru-
+
+mentos Financeiros.
+
+Metodologia de apuração da provisão de perdas por re-
+
+dução no valor recuperável dos direitos creditórios in-
+
+tegrantes da carteira de investimento da Classe de
+
+FIDC.
+
+Responsáveis por verificar transações para adicionar
+
+operações aos registros, compartilhados em Block-
+
+chain.
+
+Quaisquer formas de amenizar e/ou tornar brando um
+
+determinado risco.
+
+Não realizar, renovar, ou deter investimentos que ge-
+
+rem impactos adversos relativamente ao objetivo do
+
+Fundo e/ou Classe, conforme o caso.
+
+24
 
 Negociação
 
-Normas de Autorregulação Área em que os profissionais, no exercício das atividades de
+Normas de Autorregulação Nota Promissória de Curto Prazo Nota Promissória de Longo Prazo Ofertas Públicas ou Ofertas Operador
 
-Negociação, negociam operações com Instrumentos Financei-
+Organismos de Supervisão Conjunto de manifestações de vontade bilateral, cujo
 
-ros.
+propósito é alcançar um interesse comum e estabelecer
 
-Metodologia de apuração da provisão de perdas por redução
+condições de negócios. A negociação contempla a in-
 
-no valor recuperável dos direitos creditórios integrantes da
+termediação, sem que obrigatoriamente precise haver
 
-carteira de investimento da Classe de FIDC.
+uma intermediação para que a negociação seja efeti-
 
-Responsáveis por verificar transações para adicionar opera-
+vada. O escopo da negociação abrange os Instrumentos
 
-ções aos registros, compartilhados em Blockchain.
+Financeiros, bem como a oferta pública de COE, com
 
-Quaisquer formas de amenizar e/ou tornar brando um deter-
+exceção das operações realizadas em mercado de bolsa
 
-minado risco.
+e as demais ofertas públicas de Instrumentos Financei-
 
-Não realizar, renovar, ou deter investimentos que gerem im-
+ros. A negociação de Instrumentos Financeiros abrange
 
-pactos adversos relativamente ao objetivo do Fundo e/ou
+os mercados primário e secundário, efetuada por meio
 
-Classe, conforme o caso.
+de sistema de comunicação telefônico ou eletrônico,
 
-Conjunto de manifestações de vontade bilateral, cujo propó-
+através de Mesas de Operações de Instituições Partici-
 
-sito é alcançar um interesse comum e estabelecer condições
+pantes que sejam integrantes do Sistema Financeiro
 
-de negócios. A negociação contempla a intermediação, sem
+Nacional. A atividade de Distribuição, conforme defi-
 
-que obrigatoriamente precise haver uma intermediação para
+nido no Código de Distribuição, não faz parte do escopo
 
-que a negociação seja efetivada. O escopo da negociação
+do Código de Negociação.
 
-abrange os Instrumentos Financeiros, bem como a oferta pú-
+O conjunto integral de normas que compõem o arca-
 
-blica de COE, com exceção das operações realizadas em mer-
+bouço autorregulatório da ANBIMA.
 
-cado de bolsa e as demais ofertas públicas de Instrumentos Fi-
+Notas promissórias cujo vencimento não ultrapasse
 
-nanceiros. A negociação de Instrumentos Financeiros abrange
+360 (trezentos e sessenta) dias.
 
-os mercados primário e secundário, efetuada por meio de sis-
+Notas promissórias com prazo de vencimento superior
 
-tema de comunicação telefônico ou eletrônico, através de Me-
+a 360 (trezentos e sessenta) dias.
 
-sas de Operações de Instituições Participantes que sejam inte-
+Ofertas públicas de Distribuição de Valores Mobiliários,
 
-grantes do Sistema Financeiro Nacional. A atividade de Distri-
+conforme estabelecido pela regulação aplicável.
 
-buição, conforme definido no Código de Distribuição, não faz
+Profissionais que atuam na atividade de Negociação
 
-parte do escopo do Código de Negociação.
+comprando e/ou vendendo Instrumentos Financeiros
 
-O conjunto integral de normas que compõem o arcabouço au-
+nas condições definidas pela Instituição Participante ou
 
-torregulatório da ANBIMA.
+pelo cliente.
 
-21
+Em conjunto, Conselhos de Autorregulação, , Comis-
 
-Nota Promissória de Curto Prazo
+sões de Acompanhamento e Supervisão de Mercados.
 
-Nota Promissória de Longo Prazo Ofertas Públicas ou Ofertas OPA Operador
+25
 
-Organismos de Supervisão PAI Pareceres de Orientação
+PAI Pareceres de Orientação
 
 Parte Geral Patrimônio Segregado
 
 Pessoas Vinculadas
 
-Notas promissórias cujo vencimento não ultrapasse 360 (tre-
-
-zentos e sessenta) dias.
-
-Notas promissórias com prazo de vencimento superior a 360
-
-(trezentos e sessenta) dias.
-
-Ofertas públicas de Distribuição de Valores Mobiliários, con-
-
-forme estabelecido pela regulação aplicável.
-
-Oferta pública de aquisição de valores mobiliários nos termos
-
-estabelecidos pela regulação.
-
-Profissionais que atuam na atividade de Negociação com-
-
-prando e/ou vendendo Instrumentos Financeiros nas condi-
-
-ções definidas pela Instituição Participante ou pelo cliente.
-
-Em conjunto, Conselho de Serviços Qualificados, Comissão de
-
-acompanhamento e Supervisão de Mercados.
-
-Procedimentos para Apuração de Irregularidades.
-
-Documento expedido pela Supervisão de Mercados que tem
-
-como objetivo orientar e esclarecer as Instituições Participan-
-
-tes sobre as normas dos Códigos ANBIMA. Tem efeito educaci-
-
-onal, não tem caráter vinculante e não é de observância obri-
-
-gatória.
-
-Parte geral das Regras e Procedimentos ANBIMA, não compre-
-
-endendo os Anexos Complementares.
-
-Patrimônio próprio de cada Classe, segregado das demais Clas-
-
-ses do Fundo, que responde apenas pelas obrigações da pró-
-
-pria Classe e respectivas Subclasses (se houver).
-
-Controladores, diretos ou indiretos, ou administradores dos
-
-participantes do consórcio de distribuição, do emissor, do ofer-
-
-tante, bem como seus cônjuges ou companheiros, seus ascen-
-
-dentes, descendentes e colaterais até o 2º grau, sociedades
-
-22
-
 Plano de Continuidade de Negócios
 
 Plataformas de Atendimento
+
+Procedimentos para Apuração de Irregularidades.
+
+Documento expedido pelo Conselho de Autorregulação
+
+que tem como objetivo orientar e esclarecer as Institui-
+
+ções Participantes sobre as normas dos Códigos AN-
+
+BIMA. Tem efeito educacional, não tem caráter vincu-
+
+lante e não é de observância obrigatória.
+
+Parte geral das Regras e Procedimentos ANBIMA, não
+
+compreendendo os Anexos Complementares.
+
+Patrimônio próprio de cada Classe, segregado das de-
+
+mais Classes do Fundo, que responde apenas pelas
+
+obrigações da própria Classe e respectivas Subclasses
+
+(se houver).
+
+Controladores, diretos ou indiretos, ou administradores
+
+dos participantes do consórcio de distribuição, do emis-
+
+sor, do ofertante, bem como seus cônjuges ou compa-
+
+nheiros, seus ascendentes, descendentes e colaterais
+
+até o 2º grau, sociedades por eles controladas direta ou
+
+indiretamente e, quando atuando na emissão ou distri-
+
+buição, as demais pessoas consideradas vinculadas na
+
+regulação da CVM que dispõe sobre normas e procedi-
+
+mentos a serem observados nas operações realizadas
+
+com valores mobiliários em Mercados Regulados.
+
+Planos de contingência, continuidade de negócios e re-
+
+cuperação de desastres que assegurem a continuidade
+
+das atividades das Instituições Participantes e a integri-
+
+dade das informações processadas em sistemas sob sua
+
+responsabilidade e interfaces com sistemas de tercei-
+
+ros.
+
+Toda e qualquer forma de atendimento ao investidor
+
+pelas Instituições Participantes, inclusive por meio de
+
+Canais Digitais e telefônico, em que os profissionais
+
+26
 
 Política de Gestão de Liquidez
 
@@ -1446,375 +1776,439 @@ Política de Remuneração
 
 Política de Voto
 
+Portabilidade
+
 Preços Cotados
 
 Prestadores de Serviços Essenciais
 
-Previc por eles controladas direta ou indiretamente e, quando atu-
+Prestador de Serviço Responsável
 
-ando na emissão ou distribuição, as demais pessoas conside-
+desempenhem a Distribuição de Produtos de Investi-
 
-radas vinculadas na regulação da CVM que dispõe sobre nor-
+mento.
 
-mas e procedimentos a serem observados nas operações rea-
+Documento escrito conterá as regras, metodologia, es-
 
-lizadas com valores mobiliários em Mercados Regulados.
+trutura organizacional e de governança, bem como con-
 
-Planos de contingência, continuidade de negócios e recupera-
+troles internos para a gestão do risco de liquidez das
 
-ção de desastres que assegurem a continuidade das atividades
+Classes abertas.
 
-das Instituições Participantes e a integridade das informações
+Documento a ser elaborado e disponibilizado pelo Dis-
 
-processadas em sistemas sob sua responsabilidade e interfa-
+tribuidor, em formato específico, para disponibilização
 
-ces com sistemas de terceiros.
+de informações qualitativas, nos termos do Código de
 
-Toda e qualquer forma de atendimento ao investidor pelas Ins-
+Distribuição.
 
-tituições Participantes, inclusive por meio de Canais Digitais e
+Documento escrito e mantido pelo Gestor de Recursos
 
-telefônico, em que os profissionais desempenhem a Distribui-
+que abordará as normas e procedimentos adotados no
 
-ção de Produtos de Investimento.
+exercício do direito de voto em assembleias pelas Clas-
 
-Documento escrito conterá as regras, metodologia, estrutura
+ses dos Fundos.
 
-organizacional e de governança, bem como controles internos
+Transferência, sem alteração de titularidade, de Produ-
 
-para a gestão do risco de liquidez das Classes abertas.
+tos de Investimento e de eventuais direitos e ônus a
 
-Documento a ser elaborado e disponibilizado pelo Distribui-
+eles atribuídos, solicitada por investidor ou seu repre-
 
-dor, em formato específico, para disponibilização de informa-
+sentante, realizada entre Distribuidores ou depositários
 
-ções qualitativas, nos termos do Código de Distribuição.
+centrais.
 
-Documento escrito e mantido pelo Gestor de Recursos que
+Dados públicos utilizados para o apreçamento de Ativos
 
-abordará as normas e procedimentos adotados no exercício do
+Financeiros e, caso não seja viável o uso de dados pú-
 
-direito de voto em assembleias pelas Classes dos Fundos.
+blicos, utilização de fontes secundárias.
 
-Dados públicos utilizados para o apreçamento de Ativos Finan-
+Em relação a um Fundo, significa o Administrador Fidu-
 
-ceiros e, caso não seja viável o uso de dados públicos, utiliza-
+ciário e o Gestor de Recursos, salvo quando disposto de
 
-ção de fontes secundárias.
+forma diversa na regulação aplicável.
 
-Em relação a um Fundo, significa o Administrador Fiduciário e
+Custodiante, Intermediário, Representante Regulatório
 
-o Gestor de Recursos, salvo quando disposto de forma diversa
+ou outro prestador que esteja associado à prestação de
 
-na regulação aplicável.
+serviços para o INR no âmbito da atividade de Serviços
 
-A Superintendência Nacional de Previdência Complementar.
+Qualificados.
 
-23
+27
 
-Processo de Autorregulação Processo para apuração de descumprimento às regras estabe-
+Previc
 
-lecidas nos Códigos ANBIMA por Instituições Participantes.
+Processo de Autorregulação
 
 Produtos Automáticos
 
-Aqueles que possuem têm a funcionalidade de aplicação e res-
-
-gate automático, conforme saldo disponível na conta corrente
-
-do cliente.
-
 Produtos de Investimento
-
-Produtos de investimento, definidos em conformidade com o
-
-arcabouço regulatório aplicável, fixado pelo BCB, pela CVM ou
-
-qualquer outra instância estatal competente para disciplinar a
-
-matéria.
-
-Profissional Aprovado
-
-Profissional que atinge o índice mínimo estabelecido para
-
-aprovação no exame para obtenção das Certificações ANBIMA
-
-ou que tenha obtido dispensa de realização do exame de cer-
-
-tificação, mas que não esteja vinculado a nenhuma Instituição
-
-Participante, ou, nos casos da CGA ou CGE, ainda que vincu-
-
-lado, não exerce as atividades de Gestão de Recursos ou Ges-
-
-tão de Patrimônio Financeiro.
 
 Profissional Certificado
 
-Profissional que atinge o índice mínimo estabelecido para
-
-aprovação no exame para obtenção das Certificações ANBIMA
-
-ou que tenha obtido dispensa de realização do exame de cer-
-
-tificação, e que, cumulativamente, esteja vinculado a uma Ins-
-
-tituição Participante, e, nos casos da CGA ou CGE, exerça na
-
-Instituição Participante as atividades de Gestão de Recursos ou
-
-Gestão de Patrimônio Financeiro.
-
 Profissional Titular
-
-Profissional Certificado competente para tomada de decisão
-
-no âmbito da atividade de Gestão de Recursos de Terceiros da
-
-Instituição Participante.
 
 Profissional Suplente
 
-Profissional Certificado competente para tomada de decisão
-
-no âmbito da atividade de Gestão de Recursos de Terceiros da
-
-Instituição Participante, exercendo as funções do Profissional
-
-Titular por ocasião de sua indisponibilidade permanente ou
-
-transitória.
-
-24
-
 Programa Detalhado
 
-Prospecto
+Prospecto A Superintendência Nacional de Previdência Comple-
+
+mentar.
+
+Processo para apuração de descumprimento às regras
+
+estabelecidas nos Códigos ANBIMA por Instituições Par-
+
+ticipantes.
+
+Aqueles que possuem a funcionalidade de aplicação e
+
+resgate automático, conforme saldo disponível na
+
+conta corrente do cliente.
+
+Produtos de investimento, definidos em conformidade
+
+com o arcabouço regulatório aplicável, fixado pelo BCB
+
+ou pela CVM.
+
+Profissional que atinge o índice mínimo estabelecido
+
+para aprovação no exame para obtenção das Certifica-
+
+ções ANBIMA ou que tenha obtido dispensa de realiza-
+
+ção do exame de certificação.
+
+Profissional Certificado competente para tomada de
+
+decisão no âmbito da atividade de Gestão de Recursos
+
+de Terceiros da Instituição Participante.
+
+Profissional Certificado competente para tomada de
+
+decisão no âmbito da atividade de Gestão de Recursos
+
+de Terceiros da Instituição Participante, exercendo as
+
+funções do Profissional Titular por ocasião de sua indis-
+
+ponibilidade permanente ou transitória.
+
+Documento disponível no portal eletrônico da ANBIMA
+
+que reúne todos os assuntos que serão exigidos nos
+
+exames de certificação, assim como a proporção de
+
+cada um deles.
+
+É o prospecto preliminar e definitivo, ou somente o
+
+prospecto definitivo, na hipótese de oferta pública que
+
+28
 
 Prospecto Definitivo
 
 Prospecto Preliminar
 
-Questões ASG RDB Regimento Interno
+Questionário Anbima de Due Diligence ou
 
-Regras dos Organismos de Supervisão Regras e Procedimentos ANBIMA
+Questionário de Diligência ou “QDD”
 
-Regras e Procedimentos de AGRT
+Questões ESG
 
-Documento disponível no portal eletrônico da ANBIMA que re-
+RDB Regimento Interno
 
-úne todos os assuntos que serão exigidos nos exames de certi-
+Regras dos Organismos de Supervisão
 
-ficação, assim como a proporção de cada um deles.
+Regras e Procedimentos ANBIMA
 
-É o prospecto preliminar e definitivo, ou somente o prospecto
+não contenha previsão de utilização de prospecto pre-
 
-definitivo, na hipótese de oferta pública que não contenha pre-
+liminar.
 
-visão de utilização de prospecto preliminar.
+Prospecto cuja divulgação é requisito para o início da
 
-Prospecto cuja divulgação é requisito para o início da distribui-
+distribuição de valores mobiliários objeto de oferta pú-
 
-ção de valores mobiliários objeto de oferta pública, nos casos
+blica, nos casos cuja divulgação é exigida, nos termos
 
-cuja divulgação é exigida, nos termos da regulação aplicável.
+da regulação aplicável.
 
-Prospecto disponível para consulta do público em geral e cuja
+Prospecto disponível para consulta do público em geral
 
-divulgação é requisito para o início do período em que podem
+e cuja divulgação é requisito para o início do período
 
-ser realizados esforços de venda de valores mobiliários objeto
+em que podem ser realizados esforços de venda de va-
 
-de oferta pública, nos casos cuja divulgação é exigida, nos ter-
+lores mobiliários objeto de oferta pública, nos casos
 
-mos da regulação aplicável.
+cuja divulgação é exigida, nos termos da regulação apli-
 
-Políticas, práticas e/ou informações e/ou dados referentes a
+cável.
 
-temas ambientais, sociais e de governança corporativa.
+Modelos de Questionários disponibilizados pela An-
+
+bima para auxiliar a diligência de Instituições Partici-
+
+pantes na contratação de terceiros.
+
+Políticas, práticas e/ou informações e/ou dados refe-
+
+rentes a temas ambientais, sociais e de governança cor-
+
+porativa.
 
 Recibo de Depósito Bancário.
 
-Documento que regulamenta a atuação de cada Organismo de
+Documento que regulamenta a atuação de cada Orga-
 
-Supervisão, em conformidade com o respectivo Código AN-
+nismo de Supervisão, em conformidade com o respec-
 
-BIMA.
+tivo Código ANBIMA.
 
-Regras e procedimentos que contém as regras e competências
+Regras e procedimentos integrantes do Código de Pro-
 
-dos Organismos de Supervisão da ANBIMA.
+cessos contendo as regras e competências dos Organis-
 
-Os normativos de Regras e Procedimentos editados pela AN-
+mos de Supervisão da ANBIMA.
 
-BIMA visando a regulamentar as matérias previstas nos Códi-
+Os normativos de Regras e Procedimentos editados
 
-gos ANBIMA.
+pela ANBIMA visando a regulamentar as matérias pre-
 
-Norma expedida pela ANBIMA que regulamenta o Código de
+vistas nos Códigos ANBIMA.
 
-AGRT, devendo ser observadas por todas as Associadas e Ade-
+29
 
-rentes ao Código de AGRT. O conteúdo das Regras e
-
-25
+Regras e Procedimentos de AGRT
 
 Regras e Procedimentos de Certificação
 
-Regras e Procedimentos de Deveres Bá-
-
-sicos
+Regras e Procedimentos de Deveres Básicos
 
 Regras e Procedimentos de Distribuição
 
 Regras e Procedimentos de Negociação
 
-Regras e Procedimentos de Ofertas Pú-
+Regras e Procedimentos de Ofertas Públicas
 
-blicas
+Regras e Procedimentos de Serviços Qualifica-
 
-Regras e Procedimentos de Serviços
+dos
 
-Qualificados
+Norma expedida pela ANBIMA que regulamenta o Có-
 
-Procedimentos de AGRT é objeto de deliberação, alteração e
+digo de Administração e Gestão de Recursos de Tercei-
 
-aprovação pelo Fórum especializado nessa matéria.
+ros, devendo ser observada por todas as Associadas e
 
-Norma expedida pela ANBIMA que fixa as normas que devem
+Aderentes ao Código de Administração e Gestão de Re-
 
-ser seguidas pelas Instituições Participantes que desempe-
+cursos de Terceiros.
 
-nham Atividades Elegíveis.
+Norma expedida pela ANBIMA que fixa as normas que
 
-Norma expedida pela ANBIMA que dispõe sobre os deveres
+devem ser seguidas pelas Instituições Participantes que
 
-básicos das Instituições Participantes no exercício profissional
+desempenham Atividades Elegíveis.
 
-das atividades autorreguladas pela ANBIMA, em complemento
+Norma expedida pela ANBIMA que dispõe sobre os de-
 
-ao disposto nos Códigos ANBIMA aplicáveis às respectivas ati-
+veres básicos das Instituições Participantes no exercício
 
-vidades.
+profissional das atividades autorreguladas pela AN-
 
-Norma expedida pela ANBIMA que regulamenta o Código de
+BIMA, em complemento ao disposto nos Códigos AN-
 
-Distribuição, devendo ser observada por todas as Associadas e
+BIMA aplicáveis às respectivas atividades.
 
-Aderentes ao Código de Distribuição.
+Norma expedida pela ANBIMA que regulamenta o Có-
 
-Norma expedida pela ANBIMA que regulamenta o Código de
+digo de Distribuição, devendo ser observada por todas
 
-Negociação, devendo ser observada por todas as Associadas e
+as Associadas e Aderentes ao Código de Distribuição.
 
-Aderentes ao Código de Negociação.
+Norma expedida pela ANBIMA que regulamenta o Có-
 
-Norma expedida pela ANBIMA que regulamenta o Código de
+digo de Negociação, devendo ser observada por todas
 
-Ofertas Públicas, devendo ser observada por todas as Associa-
+as Associadas e Aderentes ao Código de Negociação.
 
-das e Aderentes ao Código de Ofertas Públicas. O conteúdo das
+Norma expedida pela ANBIMA que regulamenta o Có-
 
-Regras e Procedimentos de Ofertas Públicas é objeto de deli-
+digo de Ofertas Públicas, devendo ser observada por
 
-beração, alteração e aprovação pelo Fórum especializado
+todas as Associadas e Aderentes ao Código de Ofertas
 
-nessa matéria.
+Públicas.
 
-Norma expedida pela ANBIMA que regulamenta o Código de
+Norma expedida pela ANBIMA que regulamenta o Có-
 
-Serviços Qualificados, devendo ser observada por todas as As-
+digo de Serviços Qualificados devendo ser observada
 
-sociadas e Aderentes ao Código de Serviços Qualificados. O
+por todas as Associadas e Aderentes ao Código de
 
-conteúdo das Regras e Procedimentos de Serviços Qualificados
+Serviços Qualificados.
 
-é objeto de deliberação, alteração e aprovação pelo Fórum es-
-
-pecializado nessa matéria.
-
-26
+30
 
 Regulamento
 
-RendA+ Representação de Investidor Não Resi-
+RendA+ Representação de Investidor Não Residente
 
-dente
+Representante de Investidor Não Residente
 
-Representante de Investidor Não Resi-
+Representante Regulatório
 
-dente
+Sistema de Registro
 
-Sistema REUNE
+Risco de Capital Securitizadora Documento que rege a constituição e o funcionamento
 
-Risco de Capital Securitizadora Segmento Especial de Listagem
+do Fundo, contendo as disposições obrigatórias previs-
+
+tas na regulação aplicável, sendo composto, ainda, pe-
+
+los respectivos Anexos-Classe e Apêndices-Subclasse,
+
+se houver.
+
+Título do Programa Tesouro Direto (NTN-B1), nos ter-
+
+mos do Decreto Federal nº 11.301/2022.
+
+Atividade de representação de investidor não resi-
+
+dente, definida e disciplinada em conformidade com o
+
+arcabouço regulatório aplicável, fixado pelo BCB, pela
+
+CVM ou qualquer outra instância estatal competente
+
+para disciplinar a matéria.
+
+Pessoa jurídica que presta serviços de Representação
+
+de Investidor Não Residente e detém as autorizações
+
+regulatórias necessárias para tanto.
+
+Instituição autorizada ou supervisionada pelo BCB con-
+
+tratada pelo Investidor Não Residente para representá-
+
+lo e exercer atividades designadas neste Código, exclu-
+
+indo representação de Investidor Não Residente para
+
+fins tributários ou por meio de procuração.
+
+Sistema de registro único de negócios da ANBIMA com
+
+deveres e obrigações estabelecidos no Código de Nego-
+
+ciação, Código de Administração e Gestão de Recursos
+
+de Terceiros e Código de Serviços Qualificados.
+
+Risco de o patrimônio líquido da Classe ficar negativo,
+
+em decorrência de aplicações de sua carteira de Ativos.
+
+Entidade definida nos termos do Código de Ofertas Pú-
+
+blicas.
+
+31
+
+Segmento Especial de Listagem
 
 Selic
 
-Selos ANBIMA Documento que rege a constituição e o funcionamento do
+Selo Permanente
 
-Fundo, contendo as disposições obrigatórias previstas na regu-
-
-lação aplicável, sendo composto, ainda, pelos respectivos Ane-
-
-xos-Classe e Apêndices-Subclasse, se houver.
-
-Título do Programa Tesouro Direto (NTN-B1), nos termos do
-
-Decreto Federal nº 11.301/2022.
-
-Atividade de representação de investidor não residente, defi-
-
-nida e disciplinada em conformidade com o arcabouço regula-
-
-tório aplicável, fixado pelo BCB, pela CVM ou qualquer outra
-
-instância estatal competente para disciplinar a matéria.
-
-Pessoa jurídica que presta serviços de Representação de Inves-
-
-tidor Não Residente e detém as autorizações regulatórias ne-
-
-cessárias para tanto.
-
-Sistema de registro único de negócios da ANBIMA com deveres
-
-e obrigações estabelecidos no Código de Negociação, Código
-
-de Administração e Gestão de Recursos de Terceiros e Código
-
-de Serviços Qualificados.
-
-Risco de o patrimônio líquido da Classe ficar negativo, em de-
-
-corrência de aplicações de sua carteira de Ativos.
-
-Entidade definida nos termos do Código de Ofertas Públicas.
-
-São os segmentos de listagem e/ou admissão a negociação de-
-
-finidos pela entidade administradora de mercado, que pos-
-
-suem regras mais específicas do que os requisitos previstos na
-
-regulação, inclusive no que se refere a governança corporativa.
-
-O Sistema Especial de Liquidação e de Custódia, administrado
-
-pelo BCB.
-
-São os selos das atividades de Administração Fiduciária, gestão
-
-de
-
-27
+Selo Provisório Selos ANBIMA
 
 Side Pocket
 
 Sistema Financeiro Nacional
 
+São os segmentos de listagem e/ou admissão a negoci-
+
+ação definidos pela entidade administradora de mer-
+
+cado, que possuem regras mais específicas do que os
+
+requisitos previstos na regulação, inclusive no que se
+
+refere a governança corporativa.
+
+O Sistema Especial de Liquidação e de Custódia, admi-
+
+nistrado pelo BCB.
+
+Selo utilizado de forma permanente pelas Instituições
+
+Participantes, após avaliação interna da Anbima, nos
+
+termos das Regras e Procedimentos para Associação ou
+
+Adesão.
+
+Selo utilizado pelas Instituições Participantes que obti-
+
+veram a adesão provisória aos Códigos Anbima.
+
+São os selos das atividades de Administração Fiduciária,
+
+Gestão de
+
+Recursos de Terceiros, Gestão de Patrimônio Finan-
+
+ceiro, Ofertas Públicas de Distribuição de Valores Mobi-
+
+liários, Distribuição de Produtos Financeiros e Serviços
+
+Qualificados, quando utilizados em conjunto.
+
+Classe Fechada ou Subclasse de Classe Fechada desti-
+
+nada a recepcionar Ativos oriundos de parcela cindida
+
+do patrimônio líquido de Classe existente que esteja
+
+passando por situação excepcional de iliquidez de Ati-
+
+vos de sua carteira, incertezas supervenientes de pre-
+
+ços (eventos inesperados e relevantes de crédito) ou no
+
+caso de fechamento dos mercados.
+
+Tem o significado atribuído pelo artigo 1º da Lei nº
+
+4.595/1964, ou qualquer outra norma que venha a re-
+
+vogá-lo ou substituí-lo.
+
+32
+
 Sociedades Relacionadas
+
+Sociedades Designadas
 
 Soft Fork
 
@@ -1822,137 +2216,139 @@ SSM
 
 Subclasse
 
-recursos de terceiros e Gestão de Patrimônio Financeiro,
+Sociedades controladas, controladoras ou que estejam
 
-quando utilizados em conjunto.
+sujeitas a controle comum em relação ao coordenador
 
-Classe Fechada ou Subclasse de Classe Fechada destinada a re-
+da oferta, bem como os FIPs em que o coordenador
 
-cepcionar Ativos oriundos de parcela cindida do patrimônio lí-
+e/ou quaisquer sociedades controladas, controladoras
 
-quido de Classe existente que esteja passando por situação ex-
+ou que estejam sujeitas a controle comum, tenham a
 
-cepcional de iliquidez de Ativos de sua carteira, incertezas su-
+capacidade de influenciar as decisões de tal sociedade
 
-pervenientes de preços (eventos inesperados e relevantes de
+ou Fundo, seja por meio do exercício do poder de voto,
 
-crédito) ou no caso de fechamento dos mercados.
+seja pela gestão, desde que tais Fundos tenham recur-
 
-Tem o significado atribuído pelo artigo 1º da Lei nº 4.595/1964,
+sos próprios de coordenadores e/ou sociedades relaci-
 
-ou qualquer outra norma que venha a revogá-lo ou substituí-
+onadas.
 
-lo.
+São as pessoas jurídicas, integrantes ou não do mesmo
 
-Sociedades controladas, controladoras ou que estejam sujeitas
+conglomerado ou grupo econômico do Coordenador da
 
-a controle comum em relação ao coordenador da oferta, bem
+Oferta, expressamente indicadas nos Documentos da
 
-como os FIPs em que o coordenador e/ou quaisquer socieda-
+Oferta, que assumem, com recursos próprios, a obriga-
 
-des controladas, controladoras ou que estejam sujeitas a con-
+ção de prestação de garantia firme de colocação em
 
-trole comum, tenham a capacidade de influenciar as decisões
+Ofertas Públicas, responsabilizando-se pela subscrição
 
-de tal sociedade ou Fundo, seja por meio do exercício do poder
+dos valores mobiliários que não forem colocados junto
 
-de voto, seja pela gestão, desde que tais Fundos tenham recur-
+a investidores.
 
-sos próprios de coordenadores e/ou sociedades relacionadas.
+Bifurcação do Criptoativo original em outras versões
 
-Bifurcação do Criptoativo original em outras versões consen-
+consentida pela maioria dos usuários, mineradores e
 
-tida pela maioria dos usuários, mineradores e validadores. O
+validadores. O resultado é que as mudanças são com-
 
-resultado é que as mudanças são compatíveis retroativamente
+patíveis retroativamente com os blocos anteriores ao
 
-com os blocos anteriores ao Fork, sendo mantida uma única
+Fork, sendo mantida uma única Blockchain.
 
-Blockchain.
+Sistema eletrônico proprietário da ANBIMA, utilizado
 
-Sistema eletrônico proprietário da ANBIMA, utilizado para a
+para a comunicação entre a Supervisão de Mercados e
 
-comunicação entre a Supervisão de Mercados e as Instituições
+as Instituições Participantes.
 
-Participantes.
+Cada subclasse de cotas de uma Classe, podendo ter ca-
 
-Cada subclasse de cotas de uma Classe, podendo ter caracte-
+racterísticas específicas diferenciadas em relação às de-
 
-rísticas específicas diferenciadas em relação às demais sub-
+mais subclasses, nos termos da regulação vigente, con-
 
-classes, nos termos da regulação vigente, conforme previstas
+forme previstas no respectivo Apêndice-Subclasse.
 
-no respectivo Apêndice-Subclasse.
+33
 
-28
+Suitability
 
-Suitability Sumário de Dívida
+Sumário de Dívida
 
 Sumário de Fundos
 
 Sumário de Securitização
 
-Supervisão de Mercados Susep Taxa Global
+Supervisão de Mercados
+
+Susep Taxa Global
 
 Termo de Compromisso
 
-Títulos de Securitização
+Dever de verificação da adequação dos produtos de in-
 
-Dever de verificação da adequação dos produtos de investi-
+vestimento, dos serviços e das operações ao perfil do
 
-mento, dos serviços e das operações ao perfil do cliente.
+cliente.
 
-Documento utilizado nas ofertas públicas de valores mobiliá-
+Documento utilizado nas ofertas públicas de valores
 
-rios representativos de dívida (renda fixa) destinadas exclusi-
+mobiliários representativos de dívida (renda fixa) desti-
 
-vamente a investidores profissionais sem a divulgação de pros-
+nadas exclusivamente a investidores profissionais sem
 
-pecto.
+a divulgação de prospecto.
 
-Documento utilizado nas ofertas públicas de valores mobiliá-
+Documento utilizado nas ofertas públicas de valores
 
-rios representativos de cotas de Fundos Fechados destinados
+mobiliários representativos de cotas de Fundos Fecha-
 
-exclusivamente a investidores profissionais sem a divulgação
+dos destinados exclusivamente a investidores profissio-
 
-de prospecto.
+nais sem a divulgação de prospecto.
 
-Documento utilizado nas ofertas públicas de títulos de securi-
+Documento utilizado nas ofertas públicas de títulos de
 
-tização destinadas exclusivamente a investidores profissionais
+securitização destinadas exclusivamente a investidores
 
-sem a divulgação de prospecto.
+profissionais sem a divulgação de prospecto.
 
-Área de Supervisão de Mercados da ANBIMA, com competên-
+Área de Supervisão de Mercados da ANBIMA, com
 
-cias definidas no Código dos Processos.
+competências definidas nas Regras e Procedimentos
+
+dos Organismos de Supervisão, parte integrante do Có-
+
+digo dos Processos.
 
 A Superintendência de Seguros Privados.
 
-Ao menos duas das seguintes taxas, quando divulgadas como
+Ao menos duas das seguintes taxas, quando divulgadas
 
-encargo único e de forma consolidada, conforme aplicáveis: as
+como encargo único e de forma consolidada, conforme
 
-taxas de administração fiduciária, gestão, distribuição e estru-
+aplicáveis: as taxas de administração fiduciária, gestão,
 
-turação de previdência.
+distribuição e estruturação de previdência.
 
-Instrumento por meio do qual a Instituição Participante com-
+Instrumento por meio do qual a Instituição Participante
 
-promete-se perante a ANBIMA a cessar e corrigir os atos que
+compromete-se perante a ANBIMA a cessar e corrigir
 
-possam caracterizar indícios de irregularidades em face dos
+os atos que possam caracterizar indícios de irregulari-
 
-Códigos ANBIMA.
+dades em face dos Códigos ANBIMA.
 
-Valores mobiliários emitidos por Securitizadoras no âmbito de
+34
 
-operações de securitização, nos termos definidos pela regula-
-
-ção da CVM.
-
-29
+Títulos de Securitização
 
 Usuários Valor Justo
 
@@ -1962,40 +2358,48 @@ Veículo de Investimento
 
 Veículos no Exterior
 
-Aqueles que geram as transações utilizando mensagens pa-
+Valores mobiliários emitidos por Securitizadoras no âm-
 
-dronizadas por meio das chaves privadas.
+bito de operações de securitização, nos termos defini-
 
-Preço que seria recebido para vender um ativo ou pago para
+dos pela regulação da CVM.
 
-transferir um passivo em uma transação não forçada entre par-
+Aqueles que geram as transações utilizando mensa-
 
-ticipantes de mercado na data da mensuração.
+gens padronizadas por meio das chaves privadas.
+
+Preço que seria recebido para vender um ativo ou pago
+
+para transferir um passivo em uma transação não for-
+
+çada entre participantes de mercado na data da men-
+
+suração.
 
 Valores mobiliários definidos pelo artigo 2º da Lei nº
 
 6.385/1976.
 
-Ações, debêntures conversíveis em ações, bônus de subscri-
+Ações, debêntures conversíveis em ações, bônus de
 
-ção, opções de ações, certificados de depósito de valores mo-
+subscrição, opções de ações, certificados de depósito
 
-biliários, BDR e demais valores mobiliários conversíveis ou per-
+de valores mobiliários, BDR e demais valores mobiliá-
 
-mutáveis em ações, bem como derivativos, com liquidação fí-
+rios conversíveis ou permutáveis em ações, bem como
 
-sica ou financeira, referenciados em valores mobiliários de
+derivativos, com liquidação física ou financeira, refe-
 
-renda variável.
+renciados em valores mobiliários de renda variável.
 
-Fundos e Carteiras Administradas constituídos localmente com
+Fundos e Carteiras Administradas constituídos local-
 
-o objeto de investir recursos obtidos junto a um ou mais inves-
+mente com o objeto de investir recursos obtidos junto
 
-tidores.
+a um ou mais investidores.
 
-Entidade, dotada ou não de personalidade jurídica, constituída
+Entidade, dotada ou não de personalidade jurídica,
 
-no exterior com o objetivo de investir recursos obtidos junto
+constituída no exterior com o objetivo de investir recur-
 
-com um ou mais investidores.
+sos obtidos junto com um ou mais investidores.
